@@ -1,0 +1,33 @@
+concept: Vacuum Energy
+domain: cosmology
+secondary_domains:
+- quantum-field-theory
+- theoretical-physics
+aliases:
+- zero-point energy of the vacuum
+broader:
+- components of the cosmic energy budget
+related:
+- cosmological constant
+- dark energy
+- vacuum fluctuations
+- casimir effect
+confidence: high
+callouts:
+- type: definition
+  title: Vacuum Energy
+  body: Vacuum Energy is the non-zero ground-state energy density of quantum fields
+    in their lowest-energy state, predicted by quantum field theory to fill all of
+    space and identified — at least conceptually — with the cosmological constant
+    of general relativity.
+- type: key-claim
+  title: Key claim about Vacuum Energy
+  body: Vacuum Energy provides a microphysical candidate for dark energy, since a
+    Lorentz-invariant vacuum has equation of state w = −1, exactly matching observations
+    of cosmic acceleration; the issue is the magnitude, not the qualitative form.
+- type: warning
+  title: Common pitfall regarding Vacuum Energy
+  body: Vacuum Energy estimates from QFT cut off at the Planck scale exceed the observed
+    dark-energy density by ~10¹²⁰; treating vacuum energy as simply "explaining" dark
+    energy ignores that this is the worst quantitative prediction in physics, and
+    the fact that the cancellation must be near-perfect remains unsolved.

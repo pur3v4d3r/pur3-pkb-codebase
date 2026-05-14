@@ -1,0 +1,34 @@
+concept: Steady State Theory
+domain: cosmology
+secondary_domains:
+- history-of-cosmology
+aliases:
+- steady-state cosmology
+- Bondi–Gold–Hoyle theory
+broader:
+- historical alternatives to the big bang
+related:
+- big bang theory
+- expansion of the universe
+- cosmic microwave background radiation
+- perfect cosmological principle
+confidence: high
+callouts:
+- type: definition
+  title: Steady State Theory
+  body: The Steady State Theory is the cosmological model proposed by Bondi, Gold,
+    and Hoyle in 1948 in which the universe expands but maintains a constant average
+    density through the continuous spontaneous creation of matter, satisfying a "perfect
+    cosmological principle" that the universe looks the same in time as in space.
+- type: key-claim
+  title: Key claim about Steady State Theory
+  body: The Steady State Theory was a serious empirical rival to the Big Bang from
+    1948 until 1965 and motivated some of the best stellar-nucleosynthesis work in
+    20th-century astrophysics; its decisive falsification by the discovery of the
+    CMB is a clean historical example of theory-choice driven by a key prediction.
+- type: warning
+  title: Common pitfall regarding Steady State Theory
+  body: The Steady State Theory is sometimes dismissed as obviously wrong in retrospect;
+    this anachronistic reading misses that it made testable predictions distinguishing
+    it from the Big Bang and was rejected for those failures, exemplifying rather
+    than violating sound scientific method.

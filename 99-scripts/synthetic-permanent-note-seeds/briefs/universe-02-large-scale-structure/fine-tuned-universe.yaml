@@ -1,0 +1,34 @@
+concept: Fine Tuned Universe
+domain: cosmology
+secondary_domains:
+- philosophy-of-physics
+- theoretical-cosmology
+aliases:
+- fine-tuning of physical constants
+- cosmological fine-tuning
+broader:
+- observations motivating anthropic reasoning
+related:
+- anthropic principle
+- multiverse
+- cosmological constant
+- standard model of particle physics
+confidence: high
+callouts:
+- type: definition
+  title: Fine Tuned Universe
+  body: A Fine Tuned Universe is one in which the values of certain physical constants
+    (cosmological constant, Higgs mass, ratios of forces) appear to lie within extremely
+    narrow ranges compatible with structure formation and life, with apparently tiny
+    dimensionless tunings.
+- type: key-claim
+  title: Key claim about Fine Tuned Universe
+  body: A Fine Tuned Universe argument identifies a set of dimensionless quantities
+    that, if perturbed by small fractions, would prevent the formation of stars, galaxies,
+    or chemistry; the empirical narrowness of these windows is not in serious dispute.
+- type: warning
+  title: Common pitfall regarding Fine Tuned Universe
+  body: A Fine Tuned Universe argument presupposes a probability measure over the
+    space of possible constants — and there is no agreed-upon prior on such spaces
+    — so the inference from "narrow window" to "improbable without explanation" smuggles
+    in an assumed measure that the argument does not justify.

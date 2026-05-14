@@ -1,0 +1,34 @@
+concept: Protostar
+domain: astrophysics
+secondary_domains:
+- star-formation
+aliases:
+- protostars
+broader:
+- pre-main-sequence stellar phases
+related:
+- nebula
+- hertzsprung-russell diagram
+- accretion disk
+- stellar evolution
+confidence: high
+callouts:
+- type: definition
+  title: Protostar
+  body: A Protostar is a star in the early formation phase, characterised by ongoing
+    accretion of mass from its natal molecular-cloud envelope, gravitational contraction
+    of a partially-supported hydrostatic core, and a luminosity dominated by gravitational
+    rather than nuclear energy release.
+- type: key-claim
+  title: Key claim about Protostar
+  body: A Protostar evolves through the Hayashi and Henyey tracks toward the main
+    sequence on Kelvin–Helmholtz timescales (~10⁷ yr for solar-mass stars, ~10⁵ yr
+    for high-mass stars), and the youngest protostars (Class 0/I) are deeply embedded
+    sources detectable principally in the infrared and submillimetre.
+- type: warning
+  title: Common pitfall regarding Protostar
+  body: A Protostar at high mass forms in conditions where the accretion rate exceeds
+    the Eddington limit for radiation pressure on dust, raising long-standing theoretical
+    problems about how massive stars accrete; treating high-mass star formation as
+    a scaled-up version of solar-mass formation overlooks these distinctive radiation-pressure
+    effects.

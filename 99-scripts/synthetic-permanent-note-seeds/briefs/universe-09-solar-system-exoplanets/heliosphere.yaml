@@ -1,0 +1,36 @@
+concept: Heliosphere
+domain: planetary-science
+secondary_domains:
+- solar-physics
+- space-physics
+aliases:
+- solar bubble
+- heliospheric region
+broader:
+- stellar wind interactions
+related:
+- solar wind
+- voyager program
+- interstellar medium
+confidence: high
+callouts:
+- type: definition
+  title: Heliosphere
+  body: The Heliosphere is the magnetised plasma bubble carved into the local interstellar
+    medium by the supersonic solar wind, bounded by the heliopause at ~120 AU (where
+    solar wind ram pressure equals interstellar pressure) and shielding the inner
+    Solar System from a fraction of the interstellar cosmic-ray flux.
+- type: key-claim
+  title: Key claim about Heliosphere
+  body: The Heliosphere's outer structure has been directly probed by the Voyager
+    1 (2012 heliopause crossing) and Voyager 2 (2018 crossing) spacecraft — the only
+    objects ever to have crossed the heliopause and made in-situ measurements of the
+    very local interstellar medium — providing the first ground-truth on heliospheric
+    boundary physics.
+- type: warning
+  title: Common pitfall regarding Heliosphere
+  body: The Heliosphere's overall shape is not the simple bullet-shape often diagrammed;
+    recent IBEX and Voyager data indicate a more complex morphology, possibly with
+    a "croissant" or "shorter tail" structure, and textbook depictions inherited from
+    pre-2010 models should be treated as schematics rather than accurate representations
+    of current understanding.

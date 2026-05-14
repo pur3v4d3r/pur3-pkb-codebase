@@ -1,0 +1,34 @@
+concept: Olbers Paradox
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- history-of-physics
+aliases:
+- dark night sky paradox
+broader:
+- historical cosmological problems
+related:
+- observable universe
+- expansion of the universe
+- big bang theory
+- redshift
+confidence: high
+callouts:
+- type: definition
+  title: Olbers Paradox
+  body: Olbers Paradox is the historical puzzle, formalised by Heinrich Olbers in
+    1823, of why the night sky is dark if the universe is infinite, eternal, and uniformly
+    populated with stars — under those assumptions every line of sight should terminate
+    on a stellar surface and the sky should be uniformly bright.
+- type: key-claim
+  title: Key claim about Olbers Paradox
+  body: Olbers Paradox is resolved by the finite age of the universe (only stars within
+    the particle horizon contribute) combined with cosmological redshifting of starlight;
+    the dark night sky is therefore a positive observation in favour of a non-eternal
+    expanding cosmology.
+- type: warning
+  title: Common pitfall regarding Olbers Paradox
+  body: Olbers Paradox is sometimes presented as if expansion alone resolves it —
+    the dominant resolution is actually the finite age of the universe, with redshifting
+    providing only a secondary contribution — and explanations that ignore the age
+    effect understate the depth of the historical insight.

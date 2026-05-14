@@ -1,0 +1,36 @@
+concept: Tolman Oppenheimer Volkoff Limit
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- nuclear-physics
+aliases:
+- TOV limit
+- neutron-star mass limit
+broader:
+- stability limits of compact objects
+related:
+- neutron star
+- chandrasekhar limit
+- black hole
+- equation of state of dense matter
+confidence: high
+callouts:
+- type: definition
+  title: Tolman Oppenheimer Volkoff Limit
+  body: The Tolman Oppenheimer Volkoff Limit is the upper mass bound on a static,
+    non-rotating neutron star — currently estimated at roughly 2.0–2.3 solar masses
+    depending on the dense-matter equation of state — derived from the relativistic
+    generalisation of hydrostatic equilibrium (the TOV equation) for a degenerate-neutron
+    fluid.
+- type: key-claim
+  title: Key claim about Tolman Oppenheimer Volkoff Limit
+  body: The Tolman Oppenheimer Volkoff Limit is observationally bracketed by the highest-mass
+    neutron-star measurements (PSR J0740+6620 at ~2.08 M☉) and by the inferred remnant-collapse
+    threshold from GW170817; together these constrain the dense-matter equation of
+    state more sharply than any laboratory experiment.
+- type: warning
+  title: Common pitfall regarding Tolman Oppenheimer Volkoff Limit
+  body: The Tolman Oppenheimer Volkoff Limit is equation-of-state-dependent and is
+    not a single universal number; strong-interaction physics in the inner core (hyperons,
+    quark matter, phase transitions) shifts the limit by ~0.5 M☉, and quoting a single
+    value for "the TOV limit" without the EOS context overstates its theoretical determinacy.

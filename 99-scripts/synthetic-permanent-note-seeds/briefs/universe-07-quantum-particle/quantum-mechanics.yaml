@@ -1,0 +1,36 @@
+concept: Quantum Mechanics
+domain: physics
+secondary_domains:
+- theoretical-physics
+- foundations-of-physics
+aliases:
+- QM
+- non-relativistic quantum mechanics
+broader:
+- foundational frameworks of modern physics
+related:
+- quantum field theory
+- wave-particle duality
+- heisenberg's uncertainty principle
+- quantum entanglement
+confidence: high
+callouts:
+- type: definition
+  title: Quantum Mechanics
+  body: Quantum Mechanics is the framework, formalised in the 1920s, in which the
+    state of a physical system is represented by a vector in a complex Hilbert space,
+    observables by self-adjoint operators, and time evolution by the unitary Schrödinger
+    equation, with measurement outcomes governed by the Born probability rule.
+- type: key-claim
+  title: Key claim about Quantum Mechanics
+  body: Quantum Mechanics is the empirically most-tested theory in physics, with no
+    laboratory deviation from its predictions in nearly a century of testing across
+    atomic, molecular, condensed-matter, and particle-physics regimes — making "violations
+    of QM" extraordinarily implausible without correspondingly extraordinary evidence.
+- type: warning
+  title: Common pitfall regarding Quantum Mechanics
+  body: Quantum Mechanics has multiple interpretations (Copenhagen, many-worlds, de
+    Broglie–Bohm, consistent histories, QBism) that agree on all empirical predictions
+    but diverge sharply on ontology; presenting any one interpretation as "what quantum
+    mechanics says" without flagging the others as live alternatives misrepresents
+    the foundations.

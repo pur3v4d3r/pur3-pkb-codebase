@@ -1,0 +1,35 @@
+concept: Relativistic Jets
+domain: astrophysics
+secondary_domains:
+- astrophysics
+- plasma-physics
+aliases:
+- astrophysical jets
+broader:
+- outflows from compact objects
+related:
+- accretion disk
+- active galactic nucleus
+- blazar
+- gamma-ray burst
+confidence: high
+callouts:
+- type: definition
+  title: Relativistic Jets
+  body: Relativistic Jets are highly collimated, sometimes parsec- to megaparsec-scale
+    outflows of plasma launched from the immediate vicinity of accreting compact objects
+    (black holes, neutron stars) and accelerated to bulk Lorentz factors of order
+    10–1000.
+- type: key-claim
+  title: Key claim about Relativistic Jets
+  body: Relativistic Jets are most likely powered by extraction of rotational energy
+    from the central black hole through magnetic-field-mediated processes (Blandford–Znajek
+    mechanism), with the accretion disc providing the necessary magnetic-flux threading;
+    this picture is supported by the correlation between jet power and black-hole
+    spin in the most powerful AGN.
+- type: warning
+  title: Common pitfall regarding Relativistic Jets
+  body: Relativistic Jets exhibit superluminal apparent motion in many observed cases
+    — projected transverse velocities exceeding c — but this is a relativistic projection
+    effect, not a genuine violation of special relativity, and treating apparent superluminality
+    as physical motion misreads basic kinematics.

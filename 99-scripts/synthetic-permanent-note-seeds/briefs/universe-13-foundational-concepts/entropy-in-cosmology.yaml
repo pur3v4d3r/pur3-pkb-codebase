@@ -1,0 +1,38 @@
+concept: Entropy In Cosmology
+domain: physics
+secondary_domains:
+- thermodynamics
+- cosmology
+aliases:
+- cosmological entropy
+broader:
+- statistical-mechanical concepts in cosmology
+related:
+- arrow of time
+- second law of thermodynamics
+- black hole entropy
+- holographic principle
+confidence: high
+callouts:
+- type: definition
+  title: Entropy In Cosmology
+  body: Entropy In Cosmology is the application of statistical-mechanical entropy
+    to the universe as a whole, with cosmological entropy budgets dominated by the
+    entropy of supermassive black holes (~10¹⁰⁴ k_B for the observable-universe budget)
+    followed at much smaller scales by the entropy of the cosmic microwave background
+    (~10⁸⁹ k_B), with the past universe in a remarkably low-entropy state relative
+    to its maximum.
+- type: key-claim
+  title: Key claim about Entropy In Cosmology
+  body: Entropy In Cosmology presents the foundational puzzle that the early universe
+    — despite being hot and dense — was in an extraordinarily low-entropy state when
+    its gravitational degrees of freedom are properly accounted for, providing the
+    cosmological precondition for the thermodynamic arrow of time observed in laboratory
+    and biological systems.
+- type: warning
+  title: Common pitfall regarding Entropy In Cosmology
+  body: Entropy In Cosmology calculations depend on assumptions about how to count
+    gravitational degrees of freedom — a problem with no fully satisfactory solution
+    outside specific frameworks like black-hole thermodynamics — and quantitative
+    claims about "the entropy of the universe" should be read as estimates conditioned
+    on currently-assumed gravitational-entropy formulas rather than as settled measurements.

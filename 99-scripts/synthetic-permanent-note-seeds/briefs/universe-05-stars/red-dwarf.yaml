@@ -1,0 +1,35 @@
+concept: Red Dwarf
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- exoplanet-science
+aliases:
+- M dwarf
+- red dwarfs
+broader:
+- main sequence star
+related:
+- main sequence star
+- brown dwarf
+- exoplanet
+- habitable zone
+confidence: high
+callouts:
+- type: definition
+  title: Red Dwarf
+  body: A Red Dwarf is a low-mass main-sequence star of spectral class K-late or M,
+    with masses ~0.08–0.6 solar masses, surface temperatures below ~3900 K, and main-sequence
+    lifetimes exceeding the current age of the universe (up to ~10¹² years).
+- type: key-claim
+  title: Key claim about Red Dwarf
+  body: A Red Dwarf is the most abundant stellar type in the Galaxy by number (~75%
+    of all stars), and red dwarfs are the favoured targets for transit-method exoplanet
+    surveys (TRAPPIST-1, K2 follow-up, JWST) because of their small radii, which enhance
+    the signal of any orbiting planet.
+- type: warning
+  title: Common pitfall regarding Red Dwarf
+  body: A Red Dwarf habitable zone is close enough to the star that orbiting planets
+    are typically tidally locked and exposed to intense XUV and flare activity; treating
+    M-dwarf habitable-zone planets as straightforwardly Earth-analogues ignores stellar-wind
+    erosion, atmospheric escape, and tidal-locking constraints that significantly
+    modify habitability arguments.

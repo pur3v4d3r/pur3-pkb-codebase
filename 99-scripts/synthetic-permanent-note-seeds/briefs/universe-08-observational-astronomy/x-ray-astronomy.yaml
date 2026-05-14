@@ -1,0 +1,37 @@
+concept: X Ray Astronomy
+domain: astronomy
+secondary_domains:
+- high-energy-astrophysics
+- observational-astronomy
+aliases:
+- X-ray astronomy
+broader:
+- multi-wavelength astronomy
+related:
+- chandra x-ray observatory
+- accretion disk
+- active galactic nucleus
+- neutron star
+confidence: high
+callouts:
+- type: definition
+  title: X Ray Astronomy
+  body: X Ray Astronomy is the branch of observational astronomy concerned with detection
+    of photons in the ~0.1–100 keV range, requiring above-atmosphere platforms (rockets,
+    balloons, satellites) because Earth's atmosphere is opaque to X-rays, and providing
+    the principal observational access to hot (10⁶–10⁸ K) plasmas and accretion-powered
+    sources.
+- type: key-claim
+  title: Key claim about X Ray Astronomy
+  body: X Ray Astronomy has been the principal observational tool for studying compact-object
+    accretion (X-ray binaries, AGN) and the hot intracluster medium of galaxy clusters;
+    the operating Chandra and XMM-Newton observatories together with the new XRISM
+    mission and the planned Athena observatory continue to define X-ray observational
+    capability.
+- type: warning
+  title: Common pitfall regarding X Ray Astronomy
+  body: X Ray Astronomy until the 1970s relied on rocket flights of minutes' duration;
+    "all-sky surveys" of that era are not comparable to the deep, focused observations
+    of modern grazing-incidence telescopes, and historical X-ray source catalogues
+    (Uhuru, etc.) often lack precise positions and spectral characterisation present
+    in current data — citing historical detections without this caveat can mislead.

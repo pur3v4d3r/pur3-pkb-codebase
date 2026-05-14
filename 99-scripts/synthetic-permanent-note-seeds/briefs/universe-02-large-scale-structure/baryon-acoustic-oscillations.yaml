@@ -1,0 +1,33 @@
+concept: Baryon Acoustic Oscillations
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- large-scale-structure
+aliases:
+- BAO
+broader:
+- cosmological standard rulers
+related:
+- cosmic microwave background radiation
+- large-scale structure of the cosmos
+- lambda-cdm-model
+- dark energy
+confidence: high
+callouts:
+- type: definition
+  title: Baryon Acoustic Oscillations
+  body: Baryon Acoustic Oscillations are the imprint left in the matter distribution
+    by sound waves propagating in the pre-recombination photon–baryon plasma, manifesting
+    today as a preferred ~150 Mpc clustering scale that serves as a standard ruler
+    for cosmological distance measurements.
+- type: key-claim
+  title: Key claim about Baryon Acoustic Oscillations
+  body: Baryon Acoustic Oscillations provide one of the cleanest, most theoretically
+    robust standard rulers in cosmology because the sound horizon at decoupling is
+    calculable from CMB physics; this independence makes BAO measurements complementary
+    to supernova-based distance estimates.
+- type: warning
+  title: Common pitfall regarding Baryon Acoustic Oscillations
+  body: Baryon Acoustic Oscillations are a statistical signal — a feature in the two-point
+    correlation function of galaxies, not a directly observable structure — and treating
+    individual ~150 Mpc voids or filaments as "BAO features" is a category error.

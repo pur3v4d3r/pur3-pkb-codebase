@@ -1,0 +1,38 @@
+concept: Dark Energy
+domain: cosmology
+secondary_domains:
+- theoretical-physics
+- observational-cosmology
+aliases:
+- dark-energy
+- cosmological dark energy
+broader:
+- components of the cosmic energy budget
+related:
+- cosmological constant
+- vacuum energy
+- quintessence
+- expansion of the universe
+- lambda-cdm-model
+prerequisites:
+- general relativity
+- redshift
+confidence: high
+callouts:
+- type: definition
+  title: Dark Energy
+  body: Dark Energy is the unknown component, currently inferred to make up roughly
+    68% of the cosmic energy density, that exerts a negative pressure and drives the
+    observed accelerating expansion of the universe at late times.
+- type: key-claim
+  title: Key claim about Dark Energy
+  body: Dark Energy was forced upon cosmology by the 1998 Type Ia supernova measurements
+    of cosmic acceleration; its existence (or whatever underlying physics replaces
+    it) is required by the data regardless of which specific microphysical model is
+    preferred.
+- type: warning
+  title: Common pitfall regarding Dark Energy
+  body: Dark Energy is a placeholder name for an empirical phenomenon, not a named
+    substance — cosmological constant, quintessence, and modifications of gravity
+    are competing explanations of the same observations, and conflating "dark energy"
+    with any one of them prejudges an open question.

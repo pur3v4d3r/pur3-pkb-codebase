@@ -1,0 +1,34 @@
+concept: Equivalence Principle
+domain: physics
+secondary_domains:
+- general-relativity
+aliases:
+- principle of equivalence
+broader:
+- foundational principles of general relativity
+related:
+- general relativity
+- gravitational time dilation
+- frame-dragging
+- einstein field equations
+confidence: high
+callouts:
+- type: definition
+  title: Equivalence Principle
+  body: The Equivalence Principle is the empirical and theoretical statement that
+    locally — over a sufficiently small region of spacetime — the effects of a uniform
+    gravitational field are indistinguishable from those of uniform acceleration of
+    the reference frame, and that the inertial mass of a body equals its gravitational
+    mass.
+- type: key-claim
+  title: Key claim about Equivalence Principle
+  body: The Equivalence Principle was the central conceptual lever Einstein used to
+    construct general relativity, motivating the geometric reinterpretation of gravity
+    as the local indistinguishability of free-fall from inertial motion in curved
+    spacetime.
+- type: warning
+  title: Common pitfall regarding Equivalence Principle
+  body: The Equivalence Principle holds locally and approximately — global effects
+    (tidal forces, frame-dragging) distinguish gravity from acceleration — and treating
+    it as a global identity rather than a local one leads to standard misunderstandings
+    about the experience of free-fall in inhomogeneous fields.

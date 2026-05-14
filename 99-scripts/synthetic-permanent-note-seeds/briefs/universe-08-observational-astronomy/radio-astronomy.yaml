@@ -1,0 +1,35 @@
+concept: Radio Astronomy
+domain: astronomy
+secondary_domains:
+- observational-astronomy
+aliases:
+- radio astronomy techniques
+broader:
+- multi-wavelength astronomy
+related:
+- interferometry
+- pulsar
+- cosmic microwave background radiation
+- event horizon telescope
+confidence: high
+callouts:
+- type: definition
+  title: Radio Astronomy
+  body: Radio Astronomy is the branch of observational astronomy concerned with detection
+    of electromagnetic radiation at wavelengths from millimetres to tens of metres,
+    conducted with dedicated single-dish radio telescopes and interferometric arrays,
+    and providing the principal observational access to non-thermal, neutral-hydrogen-line,
+    and high-energy synchrotron phenomena.
+- type: key-claim
+  title: Key claim about Radio Astronomy
+  body: Radio Astronomy has produced foundational discoveries — the cosmic microwave
+    background (Penzias & Wilson 1965), pulsars (Bell & Hewish 1967), interstellar
+    molecules, the structure of the Milky Way, and direct horizon-scale imaging of
+    M87* and Sgr A* by the Event Horizon Telescope — disproportionate to the size
+    of its observing community.
+- type: warning
+  title: Common pitfall regarding Radio Astronomy
+  body: Radio Astronomy is increasingly threatened by radio-frequency interference
+    from satellite constellations (notably Starlink and OneWeb), and the operating-window
+    assumptions baked into legacy radio surveys are being eroded; modern radio-survey
+    planning explicitly accounts for RFI mitigation in ways that older texts do not.

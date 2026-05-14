@@ -1,0 +1,35 @@
+concept: Heat Death Of The Universe
+domain: cosmology
+secondary_domains:
+- thermodynamics
+- theoretical-cosmology
+aliases:
+- Big Freeze
+- thermodynamic equilibrium scenario
+broader:
+- cosmological end-state scenarios
+related:
+- entropy in cosmology
+- big rip
+- big crunch
+- dark energy
+confidence: high
+callouts:
+- type: definition
+  title: Heat Death Of The Universe
+  body: 'The Heat Death Of The Universe is the projected far-future state in which
+    the universe reaches maximum entropy: stars have burnt out, black holes have evaporated
+    by Hawking radiation, particles are diluted to causal isolation, and no thermodynamic
+    gradients remain to drive any further process.'
+- type: key-claim
+  title: Key claim about Heat Death Of The Universe
+  body: The Heat Death Of The Universe is the predicted endpoint within ΛCDM with
+    Λ > 0, because the accelerating expansion isolates each comoving volume inside
+    a future de Sitter horizon and drives the contents toward thermal equilibrium
+    with that horizon's Gibbons–Hawking temperature.
+- type: warning
+  title: Common pitfall regarding Heat Death Of The Universe
+  body: The Heat Death Of The Universe is a far-future prediction conditional on ΛCDM
+    remaining valid for ~10¹⁰⁰ years; revisions to dark-energy physics (phantom equation
+    of state, vacuum decay) lead to qualitatively different end-states (Big Rip, false-vacuum
+    decay), so heat death is not a forced conclusion.

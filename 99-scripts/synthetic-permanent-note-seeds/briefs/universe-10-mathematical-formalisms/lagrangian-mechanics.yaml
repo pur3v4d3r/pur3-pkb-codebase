@@ -1,0 +1,37 @@
+concept: Lagrangian Mechanics
+domain: mathematical-physics
+secondary_domains:
+- classical-mechanics
+aliases:
+- Lagrangian formulation
+broader:
+- variational formulations of mechanics
+related:
+- action principle
+- hamiltonian mechanics
+- noether's theorem
+- gauge theory
+confidence: high
+callouts:
+- type: definition
+  title: Lagrangian Mechanics
+  body: Lagrangian Mechanics is the formulation of classical mechanics, due to Lagrange
+    (1788), in which the dynamics of a system with generalised coordinates q^i are
+    derived from the Lagrangian L(q, q̇, t) = T − V (kinetic minus potential energy)
+    via the Euler–Lagrange equations d/dt(∂L/∂q̇^i) − ∂L/∂q^i = 0, equivalent in content
+    but more flexible in coordinate choice than Newtonian mechanics.
+- type: key-claim
+  title: Key claim about Lagrangian Mechanics
+  body: Lagrangian Mechanics handles constraints, generalised coordinates, and the
+    derivation of conservation laws (via Noether's theorem) far more naturally than
+    Newtonian mechanics, and its straightforward generalisation to field theory makes
+    it the standard formulation of modern theoretical physics from the Standard Model
+    to general relativity.
+- type: warning
+  title: Common pitfall regarding Lagrangian Mechanics
+  body: Lagrangian Mechanics applies cleanly to systems with holonomic constraints
+    expressible through generalised coordinates; non-holonomic constraints (such as
+    rolling without slipping in three-dimensional configurations) require modifications
+    using Lagrange multipliers or alternative formulations, and the statement "Lagrangian
+    mechanics handles all constraints" oversimplifies — non-holonomic constraints
+    are non-trivial.

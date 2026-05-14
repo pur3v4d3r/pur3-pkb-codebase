@@ -1,0 +1,35 @@
+concept: Irregular Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-morphology
+aliases:
+- irregular galaxies
+- Irr
+broader:
+- galaxy morphological types
+related:
+- dwarf galaxy
+- galaxy merger
+- hubble sequence
+- magellanic clouds
+confidence: high
+callouts:
+- type: definition
+  title: Irregular Galaxy
+  body: An Irregular Galaxy is a galaxy lacking a regular spiral or elliptical morphology,
+    often gas-rich and forming stars actively, with the Magellanic Clouds as the most-cited
+    nearby examples and Hubble's Irr-I (asymmetric structure) and Irr-II (chaotic,
+    often interacting) as principal subclasses.
+- type: key-claim
+  title: Key claim about Irregular Galaxy
+  body: An Irregular Galaxy is disproportionately common at low mass and at high redshift,
+    reflecting that disturbed and gas-rich morphologies are characteristic of dwarf
+    systems and of the early hierarchical-assembly era — making irregulars a probe
+    of star formation in low-mass and early-universe environments.
+- type: warning
+  title: Common pitfall regarding Irregular Galaxy
+  body: An Irregular Galaxy classified as such in the original Hubble scheme often
+    has identifiable structure (bars, weak spirals, tidal features) once observed
+    at higher resolution, and the "Irregular" label has shifted from a residual category
+    to a class with refined physical subdivisions; older population statistics using
+    "Irr" as a catch-all are not directly comparable to modern usage.

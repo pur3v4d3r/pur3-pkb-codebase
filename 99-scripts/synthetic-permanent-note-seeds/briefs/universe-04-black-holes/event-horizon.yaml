@@ -1,0 +1,35 @@
+concept: Event Horizon
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- black-hole-physics
+aliases:
+- absolute horizon
+broader:
+- horizons in general relativity
+related:
+- black hole
+- schwarzschild radius
+- schwarzschild metric
+- hawking radiation
+confidence: high
+callouts:
+- type: definition
+  title: Event Horizon
+  body: The Event Horizon of a black hole is the boundary in spacetime separating
+    events that can send signals to infinity from those that cannot, equivalently
+    the past light cone of future null infinity restricted to the spacetime; for a
+    non-rotating black hole it coincides with the Schwarzschild radius r_s = 2GM/c².
+- type: key-claim
+  title: Key claim about Event Horizon
+  body: The Event Horizon is a global property of the spacetime defined by the asymptotic
+    future and is not detectable by local observations alone — an in-falling observer
+    crossing it experiences nothing locally remarkable, which is why the horizon is
+    sometimes called "soft" in the sense that no local barrier marks it.
+- type: warning
+  title: Common pitfall regarding Event Horizon
+  body: The Event Horizon is conceptually distinct from the apparent horizon (a quasi-local
+    notion involving trapped surfaces) and the Cauchy horizon (the boundary beyond
+    which the future is no longer determined by initial data); these horizons coincide
+    for Schwarzschild but diverge for Kerr, and confusing them produces wrong predictions
+    about black-hole interiors.

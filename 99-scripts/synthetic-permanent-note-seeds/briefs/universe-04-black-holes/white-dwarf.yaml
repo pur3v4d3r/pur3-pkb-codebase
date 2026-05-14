@@ -1,0 +1,33 @@
+concept: White Dwarf
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- white dwarfs
+broader:
+- compact stellar remnants
+related:
+- chandrasekhar limit
+- type ia supernova
+- planetary nebula
+- electron degeneracy pressure
+confidence: high
+callouts:
+- type: definition
+  title: White Dwarf
+  body: A White Dwarf is the compact stellar remnant left when a low- to intermediate-mass
+    star (≲ 8 M☉) sheds its envelope as a planetary nebula, supported against gravitational
+    collapse by electron degeneracy pressure and slowly cooling over Gyr timescales
+    without further fusion.
+- type: key-claim
+  title: Key claim about White Dwarf
+  body: A White Dwarf is bounded above by the Chandrasekhar mass limit (~1.4 M☉),
+    beyond which electron degeneracy fails to support against gravity; mass exchange
+    in binary systems that pushes a white dwarf toward this limit is the canonical
+    Type Ia supernova progenitor channel.
+- type: warning
+  title: Common pitfall regarding White Dwarf
+  body: A White Dwarf is not a "dead star" in the colloquial sense — it remains thermally
+    luminous for billions of years as it cools — and the cooling sequence is a precision
+    cosmochronometer used to date stellar populations, so referring to white dwarfs
+    as inert misses one of their principal scientific uses.

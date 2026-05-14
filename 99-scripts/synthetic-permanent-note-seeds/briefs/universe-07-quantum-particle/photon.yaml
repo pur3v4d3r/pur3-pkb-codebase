@@ -1,0 +1,34 @@
+concept: Photon
+domain: physics
+secondary_domains:
+- particle-physics
+- optics
+aliases:
+- photons
+broader:
+- gauge bosons of the standard model
+related:
+- boson
+- electromagnetic interaction
+- quantum electrodynamics
+- wave-particle duality
+confidence: high
+callouts:
+- type: definition
+  title: Photon
+  body: A Photon is the massless, spin-1 quantum gauge boson of the electromagnetic
+    interaction, predicted by quantum electrodynamics and observed as the discrete
+    energy quantum hν associated with the absorption and emission of electromagnetic
+    radiation of frequency ν.
+- type: key-claim
+  title: Key claim about Photon
+  body: A Photon was the first particle to be experimentally identified as a quantum
+    (Einstein 1905, photoelectric effect; Nobel 1921), establishing that electromagnetic
+    radiation has a corpuscular as well as wave character — the prototype of wave-particle
+    duality.
+- type: warning
+  title: Common pitfall regarding Photon
+  body: A Photon is not a "ball of light" — it has no rest frame, no localisable position
+    operator in the usual sense, and the question "where is the photon" is ill-posed
+    prior to detection — and treating photons as if they were small classical bullets
+    misrepresents the formalism in foreseeable ways.

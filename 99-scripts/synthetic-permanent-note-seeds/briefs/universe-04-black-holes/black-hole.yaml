@@ -1,0 +1,38 @@
+concept: Black Hole
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- theoretical-physics
+aliases:
+- black holes
+- gravitational singularity object
+broader:
+- compact objects
+related:
+- event horizon
+- schwarzschild metric
+- kerr metric
+- hawking radiation
+- singularity
+confidence: high
+callouts:
+- type: definition
+  title: Black Hole
+  body: A Black Hole is a region of spacetime in which the gravitational field is
+    so strong that no physical signal — including light — can escape to infinity,
+    bounded by an event horizon and described in classical general relativity by the
+    Schwarzschild, Kerr, Reissner–Nordström, or Kerr–Newman solutions depending on
+    charge and rotation.
+- type: key-claim
+  title: Key claim about Black Hole
+  body: A Black Hole, by the no-hair theorem, is fully characterised in classical
+    GR by just three external parameters (mass, electric charge, angular momentum),
+    making astrophysical black holes the simplest macroscopic objects in nature once
+    they have settled to equilibrium.
+- type: warning
+  title: Common pitfall regarding Black Hole
+  body: A Black Hole is not a "hole" in space in any literal sense and not a vacuum
+    cleaner that pulls in nearby matter — its gravitational field at distances much
+    greater than the Schwarzschild radius is identical to that of any other body of
+    the same mass — and popular framings that emphasise insatiable suction are physically
+    misleading.

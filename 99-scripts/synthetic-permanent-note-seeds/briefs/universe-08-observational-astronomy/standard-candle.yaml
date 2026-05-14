@@ -1,0 +1,36 @@
+concept: Standard Candle
+domain: astronomy
+secondary_domains:
+- observational-cosmology
+- distance-determination
+aliases:
+- cosmological standard candle
+broader:
+- secondary distance indicators
+related:
+- cepheid variable
+- type ia supernova
+- hubble's law
+- parallax
+confidence: high
+callouts:
+- type: definition
+  title: Standard Candle
+  body: A Standard Candle is an astrophysical object whose intrinsic luminosity is
+    known (either constant across the population or calibrated by an empirical relation),
+    so that comparison of its apparent and absolute magnitudes yields a distance via
+    the inverse-square law of light propagation.
+- type: key-claim
+  title: Key claim about Standard Candle
+  body: A Standard Candle is the foundational tool of extragalactic distance determination
+    — Cepheid variables for nearby galaxies, Type Ia supernovae for the Hubble flow
+    — and the late-time acceleration of cosmic expansion was discovered (1998) through
+    the systematic dimming of high-redshift Type Ia supernovae relative to standard-candle
+    predictions.
+- type: warning
+  title: Common pitfall regarding Standard Candle
+  body: A Standard Candle is rarely truly standard — both Cepheids and Type Ia supernovae
+    require empirical corrections (period–luminosity relation, light-curve-shape standardisation)
+    that introduce systematic uncertainties — and the so-called "Hubble tension" between
+    local-distance-ladder and CMB-derived H₀ values is, in significant part, a question
+    about how confidently these standardisation procedures can be carried out.

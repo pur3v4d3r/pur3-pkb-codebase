@@ -1,0 +1,35 @@
+concept: Wormhole
+domain: astrophysics
+secondary_domains:
+- theoretical-physics
+- general-relativity
+aliases:
+- Einstein–Rosen bridge
+- traversable wormhole
+broader:
+- hypothetical spacetime structures
+related:
+- general relativity
+- schwarzschild metric
+- exotic matter
+- energy conditions
+confidence: high
+callouts:
+- type: definition
+  title: Wormhole
+  body: A Wormhole is a hypothetical topological feature of spacetime connecting two
+    otherwise distant regions through a "bridge" — the original Einstein–Rosen bridge
+    of the Schwarzschild solution being non-traversable, while later traversable-wormhole
+    solutions (Morris–Thorne) require exotic matter violating the null energy condition.
+- type: key-claim
+  title: Key claim about Wormhole
+  body: A Wormhole that is traversable in classical general relativity requires distributions
+    of stress-energy that violate the standard energy conditions, which all known
+    classical matter respects; quantum effects (Casimir-like negative energies) exist
+    but appear too weak to support macroscopic traversable wormholes.
+- type: warning
+  title: Common pitfall regarding Wormhole
+  body: A Wormhole is sometimes presented as a near-feasible engineering target ("warp
+    drive cousins"); the energy-condition obstacles are severe, no observational evidence
+    for any wormhole exists, and treating wormholes as anything other than a theoretical
+    thought-experiment overstates their physical plausibility.

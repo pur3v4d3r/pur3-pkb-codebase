@@ -1,0 +1,31 @@
+concept: Planetary Nebula
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- planetary nebulae
+broader:
+- stellar ejecta nebulae
+related:
+- white dwarf
+- asymptotic giant branch
+- red giant
+- nebula
+confidence: high
+callouts:
+- type: definition
+  title: Planetary Nebula
+  body: A Planetary Nebula is the expanding shell of ionised gas ejected by a low-
+    to intermediate-mass star at the end of its asymptotic giant branch phase, illuminated
+    by the central post-AGB star that subsequently cools to become a white dwarf,
+    with characteristic lifetimes ~10⁴ years before the shell disperses.
+- type: key-claim
+  title: Key claim about Planetary Nebula
+  body: A Planetary Nebula returns processed material — including carbon, nitrogen,
+    and s-process elements — to the interstellar medium, providing a major channel
+    for low-mass stellar yields and for the dust that condenses in cooling AGB outflows.
+- type: warning
+  title: Common pitfall regarding Planetary Nebula
+  body: 'A Planetary Nebula is misnamed: the term originated from low-resolution 18th-century
+    telescopic appearances reminiscent of planetary disks and has nothing to do with
+    planets; the historical name persists despite being a constant pedagogical confusion.'

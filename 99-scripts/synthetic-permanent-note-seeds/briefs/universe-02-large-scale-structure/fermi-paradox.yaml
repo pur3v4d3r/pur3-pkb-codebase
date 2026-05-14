@@ -1,0 +1,35 @@
+concept: Fermi Paradox
+domain: cosmology
+secondary_domains:
+- astrobiology
+- sociology-of-science
+aliases:
+- Fermi's question
+- Where is everybody?
+broader:
+- astrobiological problems
+related:
+- drake equation
+- anthropic principle
+- exoplanet
+- habitable zone
+confidence: high
+callouts:
+- type: definition
+  title: Fermi Paradox
+  body: The Fermi Paradox is the apparent contradiction between the high estimated
+    probability that technological civilisations should exist in the Galaxy (given
+    billions of stars and ample time) and the complete absence of any observed evidence
+    of such civilisations to date.
+- type: key-claim
+  title: Key claim about Fermi Paradox
+  body: 'The Fermi Paradox depends on quantitatively unsustainable estimates of the
+    diffusion timescale for an interstellar civilisation: even at conservative speeds,
+    a single expansionist civilisation could colonise the Milky Way in ~10⁷ years,
+    far less than the 10¹⁰-year age of the Galaxy.'
+- type: warning
+  title: Common pitfall regarding Fermi Paradox
+  body: The Fermi Paradox is not an empirical paradox in the strict sense — there
+    is no contradiction in the data — but a tension between a model-based expectation
+    (high N from the Drake equation) and an observation (no signals); resolutions
+    therefore amount to revising one or the other rather than to genuine paradox-resolution.

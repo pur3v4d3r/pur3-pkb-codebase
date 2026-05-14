@@ -1,0 +1,38 @@
+concept: Planck Units
+domain: physics
+secondary_domains:
+- theoretical-physics
+- quantum-gravity
+aliases:
+- natural units
+- Planck system of units
+broader:
+- systems of fundamental units
+related:
+- planck length
+- planck time
+- quantum gravity
+- speed of light
+confidence: high
+callouts:
+- type: definition
+  title: Planck Units
+  body: Planck Units are the system of natural units constructed (Planck 1899) from
+    the four fundamental constants c (speed of light), ℏ (reduced Planck constant),
+    G (gravitational constant), and k_B (Boltzmann constant), yielding base units
+    (Planck length ~1.6×10⁻³⁵ m, Planck time ~5.4×10⁻⁴⁴ s, Planck mass ~2.2×10⁻⁸ kg,
+    Planck temperature ~1.4×10³² K) that contain no arbitrary anthropic factors.
+- type: key-claim
+  title: Key claim about Planck Units
+  body: Planck Units mark the energy and length scales at which gravitational and
+    quantum effects become comparable in magnitude — the regime where any quantum
+    theory of gravity is required — and are the natural units of theoretical physics
+    at the most fundamental level.
+- type: warning
+  title: Common pitfall regarding Planck Units
+  body: Planck Units are sometimes presented as if they marked the universal "smallest
+    possible" length and time; while heuristic arguments suggest spacetime concepts
+    may break down at the Planck scale in any quantum gravity, the existence of a
+    literally minimum length is a model-dependent prediction (loop quantum gravity
+    makes it; perturbative string theory does not in the same way) rather than an
+    established fact.

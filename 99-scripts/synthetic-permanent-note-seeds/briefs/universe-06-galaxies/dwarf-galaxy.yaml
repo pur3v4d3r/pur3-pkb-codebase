@@ -1,0 +1,34 @@
+concept: Dwarf Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-astronomy
+- near-field-cosmology
+aliases:
+- dwarf galaxies
+broader:
+- low-mass galaxies
+related:
+- milky way galaxy
+- dark matter
+- galaxy cluster
+- irregular galaxy
+confidence: high
+callouts:
+- type: definition
+  title: Dwarf Galaxy
+  body: A Dwarf Galaxy is a low-mass galaxy with stellar mass typically below ~10⁹
+    M☉, spanning dwarf elliptical, dwarf spheroidal, dwarf irregular, and ultra-faint
+    dwarf classes — with the Milky Way alone hosting ~60 known satellites of this
+    type.
+- type: key-claim
+  title: Key claim about Dwarf Galaxy
+  body: A Dwarf Galaxy is the most dark-matter-dominated class of stellar system known,
+    with mass-to-light ratios of hundreds to thousands; the satellite-galaxy population
+    around the Milky Way and Andromeda has been the principal testing ground for ΛCDM
+    predictions on small scales (the missing-satellites and too-big-to-fail problems).
+- type: warning
+  title: Common pitfall regarding Dwarf Galaxy
+  body: A Dwarf Galaxy's dark-matter content is inferred from stellar-velocity dispersion
+    measurements that assume virial equilibrium and isotropy; this assumption may
+    fail for systems undergoing tidal disruption, leading to overestimates of dark-matter
+    mass — caveats that the most-cited dwarf-galaxy DM measurements increasingly acknowledge.

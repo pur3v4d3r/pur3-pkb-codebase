@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-11-historical-figures",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-11-historical-figures.md",
+    "notes": "Fourteen historical figures whose work defined the trajectory of modern\ncosmology, astrophysics, and theoretical physics. Each treated as a\nperson-as-concept; substring rule uses the verbatim full name in each field."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-11-historical-figures",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-11-historical-figures"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Albert Einstein",
+      "kebab": "albert-einstein",
+      "brief_path": "briefs/universe-11-historical-figures/albert-einstein.yaml",
+      "expected_seed_filename": "albert-einstein-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Isaac Newton",
+      "kebab": "isaac-newton",
+      "brief_path": "briefs/universe-11-historical-figures/isaac-newton.yaml",
+      "expected_seed_filename": "isaac-newton-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Edwin Hubble",
+      "kebab": "edwin-hubble",
+      "brief_path": "briefs/universe-11-historical-figures/edwin-hubble.yaml",
+      "expected_seed_filename": "edwin-hubble-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Stephen Hawking",
+      "kebab": "stephen-hawking",
+      "brief_path": "briefs/universe-11-historical-figures/stephen-hawking.yaml",
+      "expected_seed_filename": "stephen-hawking-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Georges Lemaitre",
+      "kebab": "georges-lemaitre",
+      "brief_path": "briefs/universe-11-historical-figures/georges-lemaitre.yaml",
+      "expected_seed_filename": "georges-lemaitre-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Galileo Galilei",
+      "kebab": "galileo-galilei",
+      "brief_path": "briefs/universe-11-historical-figures/galileo-galilei.yaml",
+      "expected_seed_filename": "galileo-galilei-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Johannes Kepler",
+      "kebab": "johannes-kepler",
+      "brief_path": "briefs/universe-11-historical-figures/johannes-kepler.yaml",
+      "expected_seed_filename": "johannes-kepler-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Nicolaus Copernicus",
+      "kebab": "nicolaus-copernicus",
+      "brief_path": "briefs/universe-11-historical-figures/nicolaus-copernicus.yaml",
+      "expected_seed_filename": "nicolaus-copernicus-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Carl Sagan",
+      "kebab": "carl-sagan",
+      "brief_path": "briefs/universe-11-historical-figures/carl-sagan.yaml",
+      "expected_seed_filename": "carl-sagan-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Subrahmanyan Chandrasekhar",
+      "kebab": "subrahmanyan-chandrasekhar",
+      "brief_path": "briefs/universe-11-historical-figures/subrahmanyan-chandrasekhar.yaml",
+      "expected_seed_filename": "subrahmanyan-chandrasekhar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Roger Penrose",
+      "kebab": "roger-penrose",
+      "brief_path": "briefs/universe-11-historical-figures/roger-penrose.yaml",
+      "expected_seed_filename": "roger-penrose-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Fritz Zwicky",
+      "kebab": "fritz-zwicky",
+      "brief_path": "briefs/universe-11-historical-figures/fritz-zwicky.yaml",
+      "expected_seed_filename": "fritz-zwicky-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Vera Rubin",
+      "kebab": "vera-rubin",
+      "brief_path": "briefs/universe-11-historical-figures/vera-rubin.yaml",
+      "expected_seed_filename": "vera-rubin-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Karl Schwarzschild",
+      "kebab": "karl-schwarzschild",
+      "brief_path": "briefs/universe-11-historical-figures/karl-schwarzschild.yaml",
+      "expected_seed_filename": "karl-schwarzschild-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

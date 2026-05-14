@@ -1,0 +1,38 @@
+concept: Roger Penrose
+domain: history-of-science
+secondary_domains:
+- mathematical-physics
+- general-relativity
+aliases:
+- Penrose
+- Sir Roger Penrose
+broader:
+- twentieth-century mathematical physicists
+related:
+- singularity theorems
+- penrose process
+- black hole
+- twistor theory
+confidence: high
+callouts:
+- type: definition
+  title: Roger Penrose
+  body: Roger Penrose (b. 1931) is the English mathematical physicist whose Penrose–Hawking
+    singularity theorems (1965 and following) established that gravitational collapse
+    generically produces spacetime singularities, the Penrose process for energy extraction
+    from rotating black holes (1969), and twistor theory as an alternative geometric
+    formulation of relativity — earning the 2020 Nobel Prize for the singularity work.
+- type: key-claim
+  title: Key claim about Roger Penrose
+  body: Roger Penrose's 1965 singularity theorem proved that under reasonable energy
+    conditions and the formation of a trapped surface, gravitational collapse must
+    produce a spacetime singularity — establishing that black holes (with singular
+    interiors) are a generic prediction of general relativity rather than a feature
+    of idealised symmetric solutions like Schwarzschild's.
+- type: warning
+  title: Common pitfall regarding Roger Penrose
+  body: Roger Penrose's later, more speculative proposals — conformal cyclic cosmology,
+    the Penrose interpretation of consciousness as quantum-gravitational, the orchestrated
+    objective reduction model — are not on the same evidential footing as his classical
+    work in general relativity, and popular accounts that present these later ideas
+    as established physics overstate their current acceptance.

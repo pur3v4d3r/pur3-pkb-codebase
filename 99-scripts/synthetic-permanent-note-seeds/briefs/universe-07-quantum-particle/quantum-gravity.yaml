@@ -1,0 +1,36 @@
+concept: Quantum Gravity
+domain: physics
+secondary_domains:
+- theoretical-physics
+- cosmology
+aliases:
+- quantum theory of gravity
+- QG
+broader:
+- open problems in fundamental physics
+related:
+- general relativity
+- quantum field theory
+- loop quantum gravity
+- string theory
+confidence: high
+callouts:
+- type: definition
+  title: Quantum Gravity
+  body: Quantum Gravity is the open program of developing a consistent quantum-theoretic
+    description of the gravitational interaction — equivalently, of spacetime geometry
+    — unifying the principles of general relativity and quantum field theory, with
+    leading research lines including string theory, loop quantum gravity, and asymptotic-safety
+    approaches.
+- type: key-claim
+  title: Key claim about Quantum Gravity
+  body: Quantum Gravity is necessary in regimes where both gravitational and quantum
+    effects matter (the Planck scale, black-hole interiors, the very early universe),
+    and the empirical absence of any direct observational test at the Planck scale
+    is the principal obstacle to discriminating among candidate frameworks.
+- type: warning
+  title: Common pitfall regarding Quantum Gravity
+  body: Quantum Gravity proposals are routinely discussed as if they were established
+    physics; with no Planck-scale experimental tests available, claims that any specific
+    framework — string theory, LQG, causal dynamical triangulations — is "the theory
+    of quantum gravity" go beyond the actual evidence.

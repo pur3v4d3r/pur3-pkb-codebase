@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-12-missions-probes",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-12-missions-probes.md",
+    "notes": "Eleven space missions and observatories that constitute the principal\nobservational probes of the universe across solar-system, galactic, and\ncosmological scales."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-12-missions-probes",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-12-missions-probes"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 11,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Voyager Program",
+      "kebab": "voyager-program",
+      "brief_path": "briefs/universe-12-missions-probes/voyager-program.yaml",
+      "expected_seed_filename": "voyager-program-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hubble Deep Field",
+      "kebab": "hubble-deep-field",
+      "brief_path": "briefs/universe-12-missions-probes/hubble-deep-field.yaml",
+      "expected_seed_filename": "hubble-deep-field-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planck Satellite",
+      "kebab": "planck-satellite",
+      "brief_path": "briefs/universe-12-missions-probes/planck-satellite.yaml",
+      "expected_seed_filename": "planck-satellite-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "WMAP Mission",
+      "kebab": "wmap-mission",
+      "brief_path": "briefs/universe-12-missions-probes/wmap-mission.yaml",
+      "expected_seed_filename": "wmap-mission-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Chandra X Ray Observatory",
+      "kebab": "chandra-x-ray-observatory",
+      "brief_path": "briefs/universe-12-missions-probes/chandra-x-ray-observatory.yaml",
+      "expected_seed_filename": "chandra-x-ray-observatory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Spitzer Space Telescope",
+      "kebab": "spitzer-space-telescope",
+      "brief_path": "briefs/universe-12-missions-probes/spitzer-space-telescope.yaml",
+      "expected_seed_filename": "spitzer-space-telescope-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Kepler Space Telescope",
+      "kebab": "kepler-space-telescope",
+      "brief_path": "briefs/universe-12-missions-probes/kepler-space-telescope.yaml",
+      "expected_seed_filename": "kepler-space-telescope-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gaia Mission",
+      "kebab": "gaia-mission",
+      "brief_path": "briefs/universe-12-missions-probes/gaia-mission.yaml",
+      "expected_seed_filename": "gaia-mission-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "New Horizons Mission",
+      "kebab": "new-horizons-mission",
+      "brief_path": "briefs/universe-12-missions-probes/new-horizons-mission.yaml",
+      "expected_seed_filename": "new-horizons-mission-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Parker Solar Probe",
+      "kebab": "parker-solar-probe",
+      "brief_path": "briefs/universe-12-missions-probes/parker-solar-probe.yaml",
+      "expected_seed_filename": "parker-solar-probe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cassini Huygens Mission",
+      "kebab": "cassini-huygens-mission",
+      "brief_path": "briefs/universe-12-missions-probes/cassini-huygens-mission.yaml",
+      "expected_seed_filename": "cassini-huygens-mission-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

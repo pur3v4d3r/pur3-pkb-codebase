@@ -1,0 +1,37 @@
+concept: Transit Method
+domain: planetary-science
+secondary_domains:
+- exoplanet-detection
+- observational-techniques
+aliases:
+- transit photometry
+- transit detection
+broader:
+- exoplanet detection methods
+related:
+- exoplanet
+- kepler space telescope
+- radial velocity method
+- photometry
+confidence: high
+callouts:
+- type: definition
+  title: Transit Method
+  body: The Transit Method is the detection of an exoplanet by observing the periodic
+    dimming of its host star caused by the planet passing in front of the stellar
+    disc as seen from Earth, with transit depth (~(R_planet/R_star)²) yielding the
+    planet's radius and orbital period yielding the semi-major axis.
+- type: key-claim
+  title: Key claim about Transit Method
+  body: The Transit Method, particularly as implemented by the Kepler and TESS space
+    missions, has produced the largest sample of exoplanets to date (>4,000 confirmed)
+    and is the primary technique enabling statistical demography of the exoplanet
+    population, including the discovery of small (Earth-sized) planets that radial-velocity
+    techniques cannot reliably detect.
+- type: warning
+  title: Common pitfall regarding Transit Method
+  body: The Transit Method is geometry-limited — only ~0.5–10% of randomly-oriented
+    planetary systems happen to transit as seen from Earth — and large reported "transit
+    detection rates" must be corrected for transit probability before being read as
+    occurrence rates; the transiting fraction is a sky-projection effect, not a property
+    of the underlying population.

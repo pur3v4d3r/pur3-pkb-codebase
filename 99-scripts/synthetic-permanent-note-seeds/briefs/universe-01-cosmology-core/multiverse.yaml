@@ -1,0 +1,40 @@
+concept: Multiverse
+domain: cosmology
+secondary_domains:
+- theoretical-physics
+- philosophy-of-physics
+aliases:
+- multiverse hypothesis
+- parallel universes
+broader:
+- cosmological hypotheses
+related:
+- inflation
+- anthropic principle
+- fine-tuned universe
+- string theory
+- many-worlds interpretation
+prerequisites:
+- inflation
+- quantum mechanics
+confidence: high
+callouts:
+- type: definition
+  title: Multiverse
+  body: The Multiverse is a family of hypotheses in which our observable universe
+    is one of many distinct cosmological domains, regions, or branches — generated,
+    for example, by eternal inflation, the string-theory landscape, or the branching
+    of the quantum wavefunction.
+- type: key-claim
+  title: Key claim about Multiverse
+  body: The Multiverse arises naturally as a generic prediction of several independently-motivated
+    theories (eternal inflation, string-theory landscape, many-worlds quantum mechanics),
+    which is why physicists take it seriously even though no direct empirical test
+    for the existence of other universes has been devised.
+- type: warning
+  title: Common pitfall regarding Multiverse
+  body: The Multiverse is frequently presented as established science in popular media;
+    in fact it is a contested theoretical hypothesis whose testability is itself disputed,
+    and reasoning that uses it (for example to dissolve fine-tuning) presupposes both
+    the multiverse's existence and an appropriate measure on it — neither of which
+    is settled.

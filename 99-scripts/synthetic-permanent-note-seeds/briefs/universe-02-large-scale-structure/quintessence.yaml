@@ -1,0 +1,33 @@
+concept: Quintessence
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- scalar-field-theories
+aliases:
+- dynamical dark energy
+broader:
+- models of dark energy
+related:
+- dark energy
+- cosmological constant
+- scalar field
+- equation of state of dark energy
+confidence: high
+callouts:
+- type: definition
+  title: Quintessence
+  body: Quintessence is a class of dark-energy models in which the accelerated expansion
+    is driven not by a constant Λ but by a slowly-rolling scalar field whose equation-of-state
+    parameter w(z) varies with cosmic time, generally with w ≠ −1.
+- type: key-claim
+  title: Key claim about Quintessence
+  body: Quintessence is empirically distinguishable from a pure cosmological constant
+    only if w(z) measurably deviates from −1; the parameter space is being progressively
+    constrained by Stage-IV surveys (DESI, LSST, Euclid) and so far remains consistent
+    with — but does not require — Λ.
+- type: warning
+  title: Common pitfall regarding Quintessence
+  body: Quintessence models often invoke a slow-roll potential by assumption, but
+    constructing one with a sufficiently small mass for the field while remaining
+    technically natural in the presence of quantum corrections is non-trivial; "quintessence
+    solves the cosmological constant problem" is at best premature.

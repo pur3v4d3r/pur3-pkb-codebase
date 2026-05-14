@@ -1,0 +1,35 @@
+concept: Length Contraction
+domain: physics
+secondary_domains:
+- special-relativity
+aliases:
+- Lorentz contraction
+- FitzGerald–Lorentz contraction
+broader:
+- relativistic kinematic effects
+related:
+- special relativity
+- lorentz transformation
+- time dilation
+- relativity of simultaneity
+confidence: high
+callouts:
+- type: definition
+  title: Length Contraction
+  body: Length Contraction is the special-relativistic effect in which the spatial
+    extent of an object measured in a frame in which it is moving is shorter — by
+    the Lorentz factor γ — than its rest-frame length, contracted along the direction
+    of motion.
+- type: key-claim
+  title: Key claim about Length Contraction
+  body: Length Contraction is the spatial counterpart of time dilation and is required
+    by the Lorentz transformations to maintain the constancy of the speed of light
+    across frames; it is not an artefact of measurement but a real frame-dependent
+    geometric fact.
+- type: warning
+  title: Common pitfall regarding Length Contraction
+  body: Length Contraction is what an observer would measure if they could perform
+    a simultaneous determination of an object's endpoints in their frame — this is
+    distinct from what a single observer would visually see, which is also distorted
+    by light-travel-time effects (Penrose–Terrell rotation), and the two are routinely
+    confused.

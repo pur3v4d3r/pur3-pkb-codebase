@@ -1,0 +1,36 @@
+concept: Loop Quantum Gravity
+domain: physics
+secondary_domains:
+- theoretical-physics
+- quantum-gravity
+aliases:
+- LQG
+broader:
+- quantum gravity
+related:
+- quantum gravity
+- general relativity
+- spin networks
+- planck units
+confidence: high
+callouts:
+- type: definition
+  title: Loop Quantum Gravity
+  body: Loop Quantum Gravity is a non-perturbative, background-independent approach
+    to quantising gravity in which the fundamental degrees of freedom are spin networks
+    (graphs labelled by SU(2) representations), quantum geometry exhibits discrete
+    spectra of areas and volumes near the Planck scale, and time evolution is generated
+    by the constraints of canonical general relativity.
+- type: key-claim
+  title: Key claim about Loop Quantum Gravity
+  body: Loop Quantum Gravity is one of the two most-developed approaches to quantum
+    gravity (with string theory) and offers a candidate resolution of the Big-Bang
+    singularity through the loop-quantum-cosmology "bounce" scenario, which replaces
+    the classical singular initial state with a quantum bounce.
+- type: warning
+  title: Common pitfall regarding Loop Quantum Gravity
+  body: Loop Quantum Gravity has not yet recovered classical general relativity in
+    a generic semi-classical limit (the "low-energy problem"), and its predictions
+    for matter physics and renormalisation remain underdeveloped relative to string
+    theory; presenting LQG as a complete competitor to string theory overstates its
+    current status.

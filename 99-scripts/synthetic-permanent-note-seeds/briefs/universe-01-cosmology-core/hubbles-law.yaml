@@ -1,0 +1,38 @@
+concept: Hubble's Law
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+aliases:
+- Hubble–Lemaître law
+- Hubble relation
+broader:
+- observational consequences of cosmic expansion
+related:
+- expansion of the universe
+- redshift
+- hubble space telescope
+- edwin hubble
+prerequisites:
+- redshift
+- doppler effect in astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Hubble's Law
+  body: Hubble's Law is the empirical relation v = H₀ · d, stating that the recession
+    velocity v of a sufficiently distant galaxy is proportional to its proper distance
+    d, with the proportionality constant H₀ — the Hubble constant — measured today
+    at roughly 67–73 km/s/Mpc.
+- type: key-claim
+  title: Key claim about Hubble's Law
+  body: Hubble's Law was the first direct empirical evidence that the universe is
+    expanding rather than static, and the Hubble constant H₀ that appears in it is
+    one of the most-measured numbers in physics — though present-day measurements
+    from the early universe (CMB) and the late universe (distance ladder) disagree
+    at the 5σ level, the so-called "Hubble tension."
+- type: warning
+  title: Common pitfall regarding Hubble's Law
+  body: Hubble's Law is a local approximation valid only when relativistic and acceleration
+    corrections are small; the simple v = H₀ · d form breaks down at high redshift,
+    where cosmography requires the full FLRW formalism and the running of the Hubble
+    parameter H(z).

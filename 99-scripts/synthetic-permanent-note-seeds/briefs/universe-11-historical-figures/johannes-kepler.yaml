@@ -1,0 +1,38 @@
+concept: Johannes Kepler
+domain: history-of-science
+secondary_domains:
+- history-of-astronomy
+- classical-mechanics
+aliases:
+- Kepler
+broader:
+- founders of modern astronomy
+related:
+- kepler's laws of planetary motion
+- copernican system
+- isaac newton
+- galileo galilei
+confidence: high
+callouts:
+- type: definition
+  title: Johannes Kepler
+  body: Johannes Kepler (1571–1630) was the German mathematician and astronomer who,
+    working from Tycho Brahe's observations of Mars, derived the three laws of planetary
+    motion (1609, 1619) — establishing for the first time that planetary orbits are
+    ellipses with the Sun at one focus rather than circles, and inaugurating the marriage
+    of empirical observation and mathematical lawfulness in astronomy.
+- type: key-claim
+  title: Key claim about Johannes Kepler
+  body: Johannes Kepler's three laws of planetary motion replaced two millennia of
+    circular-orbit astronomy with a quantitatively accurate description of planetary
+    motion, and provided the empirical basis on which Newton subsequently constructed
+    the law of universal gravitation — making Kepler arguably the founder of mathematical
+    astronomy.
+- type: warning
+  title: Common pitfall regarding Johannes Kepler
+  body: Johannes Kepler's road to the elliptical-orbit conclusion involved extensive
+    labour with Tycho's data and a series of physical-mystical hypotheses (the Mysterium
+    Cosmographicum, the Harmonices Mundi) that presented the elliptical-orbit result
+    alongside speculative geometrical and musical arguments now seen as historical
+    curiosities; quoting Kepler's "laws" without context overlooks their integration
+    in a much broader and partly metaphysical project.

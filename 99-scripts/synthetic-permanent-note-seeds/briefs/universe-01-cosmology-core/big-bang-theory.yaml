@@ -1,0 +1,38 @@
+concept: Big Bang Theory
+domain: cosmology
+secondary_domains:
+- astrophysics
+- theoretical-physics
+aliases:
+- Big Bang model
+- hot Big Bang
+broader:
+- physical cosmology
+related:
+- cosmic microwave background radiation
+- expansion of the universe
+- inflation
+- big bang nucleosynthesis
+prerequisites:
+- general relativity
+- redshift
+confidence: high
+callouts:
+- type: definition
+  title: Big Bang Theory
+  body: The Big Bang Theory is the prevailing cosmological model in which the observable
+    universe began roughly 13.8 billion years ago in an extremely hot, dense state
+    and has been expanding and cooling ever since, with this evolution governed by
+    general relativity applied to a homogeneous and isotropic matter–energy distribution.
+- type: key-claim
+  title: Key claim about Big Bang Theory
+  body: The Big Bang Theory is supported by three independent pillars of evidence
+    — the Hubble–Lemaître expansion, the blackbody spectrum of the cosmic microwave
+    background, and the observed primordial abundances of light elements — which together
+    rule out every steady-state alternative ever seriously proposed.
+- type: warning
+  title: Common pitfall regarding Big Bang Theory
+  body: The Big Bang Theory does not describe an explosion of matter into pre-existing
+    space; it describes the expansion of space itself, and the term "explosion" is
+    a popular-science metaphor that misleads students into looking for a centre that
+    the model does not posit.

@@ -1,0 +1,37 @@
+concept: Recombination Epoch
+domain: physics
+secondary_domains:
+- cosmology
+- atomic-physics
+aliases:
+- recombination
+- cosmological recombination
+broader:
+- cosmological epochs
+related:
+- cosmic microwave background radiation
+- last scattering surface
+- big bang theory
+- reionization
+confidence: high
+callouts:
+- type: definition
+  title: Recombination Epoch
+  body: The Recombination Epoch is the period at cosmic age ~370,000 years (redshift
+    z ≈ 1090, temperature ~3,000 K) during which free electrons and protons combined
+    into neutral hydrogen atoms, decoupling photons from matter and producing the
+    cosmic-microwave-background "last scattering surface" we observe today — the earliest
+    direct electromagnetic image of the universe.
+- type: key-claim
+  title: Key claim about Recombination Epoch
+  body: The Recombination Epoch sets the surface from which CMB photons free-stream
+    to the present, with the detailed physics of recombination (carefully treated
+    by codes like RECFAST, CosmoRec, HyRec) determining the precision of CMB-derived
+    cosmological-parameter constraints — a sub-percent-level accuracy in recombination
+    physics is essential for precision cosmology.
+- type: warning
+  title: Common pitfall regarding Recombination Epoch
+  body: The Recombination Epoch term is etymologically misleading — protons and electrons
+    were never previously combined into atoms, so "combination" rather than "recombination"
+    would be more accurate — but the misleading historical name is now entrenched
+    in cosmological literature and unlikely to change.

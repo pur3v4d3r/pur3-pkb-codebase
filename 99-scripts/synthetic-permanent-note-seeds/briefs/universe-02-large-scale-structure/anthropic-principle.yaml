@@ -1,0 +1,35 @@
+concept: Anthropic Principle
+domain: cosmology
+secondary_domains:
+- philosophy-of-physics
+- theoretical-cosmology
+aliases:
+- weak anthropic principle
+- strong anthropic principle
+broader:
+- selection-effect arguments
+related:
+- fine-tuned universe
+- multiverse
+- fermi paradox
+confidence: high
+callouts:
+- type: definition
+  title: Anthropic Principle
+  body: The Anthropic Principle is the observation that the values of physical and
+    cosmological parameters we measure must be compatible with the existence of observers
+    like us, used either weakly (as a selection-effect correction in inferences about
+    the universe) or strongly (as a putative explanation of why the parameters take
+    their observed values).
+- type: key-claim
+  title: Key claim about Anthropic Principle
+  body: The Anthropic Principle in its weak form is uncontroversial — it is a methodological
+    warning about observational selection — while its strong form, used as a substitute
+    explanation for fine-tuning, depends on the existence of a multiverse and is therefore
+    only as well-grounded as the multiverse hypothesis itself.
+- type: warning
+  title: Common pitfall regarding Anthropic Principle
+  body: The Anthropic Principle is frequently conflated across its weak and strong
+    readings; treating an uncontroversial statistical caveat as a substantive metaphysical
+    claim, or vice versa, leads to debates in which proponents and critics target
+    different propositions.

@@ -1,0 +1,41 @@
+concept: Inflation
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- particle-physics
+aliases:
+- cosmic inflation
+- inflationary epoch
+- inflation theory
+broader:
+- early universe physics
+related:
+- cosmic inflation theory
+- horizon problem
+- flatness problem
+- monopole problem
+- big bang theory
+prerequisites:
+- general relativity
+- quantum field theory
+confidence: high
+callouts:
+- type: definition
+  title: Inflation
+  body: Inflation is the hypothesised epoch of nearly-exponential expansion of the
+    very early universe — driven by the potential energy of a scalar inflaton field
+    — that lasted on the order of 10⁻³² seconds and stretched a quantum-scale region
+    into the seed of the entire observable universe.
+- type: key-claim
+  title: Key claim about Inflation
+  body: Inflation simultaneously resolves the horizon problem, the flatness problem,
+    and the monopole problem of the standard hot Big Bang, and it predicts a near-scale-invariant
+    spectrum of adiabatic Gaussian primordial perturbations whose later imprint on
+    the CMB has been confirmed by WMAP and Planck.
+- type: warning
+  title: Common pitfall regarding Inflation
+  body: Inflation is a paradigm with many concrete model implementations rather than
+    a single specific theory, and definitive evidence for it (such as primordial gravitational-wave
+    B-modes in the CMB) has not yet been observed; treating "inflation happened" as
+    established at the same level as the Big Bang itself overstates its empirical
+    standing.

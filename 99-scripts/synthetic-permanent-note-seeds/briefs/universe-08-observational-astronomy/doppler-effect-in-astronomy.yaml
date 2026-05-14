@@ -1,0 +1,38 @@
+concept: Doppler Effect In Astronomy
+domain: astronomy
+secondary_domains:
+- observational-techniques
+- spectroscopy
+aliases:
+- Doppler shift
+- astronomical Doppler effect
+broader:
+- spectroscopy
+related:
+- redshift
+- spectroscopy
+- radial velocity method
+- expansion of the universe
+confidence: high
+callouts:
+- type: definition
+  title: Doppler Effect In Astronomy
+  body: The Doppler Effect In Astronomy is the wavelength shift of spectral lines
+    from a moving source — toward shorter wavelengths (blueshift) for approaching
+    motion and longer wavelengths (redshift) for receding motion — used to measure
+    radial (line-of-sight) velocities of stars, galaxies, and exoplanetary systems.
+- type: key-claim
+  title: Key claim about Doppler Effect In Astronomy
+  body: The Doppler Effect In Astronomy underlies the radial-velocity method for exoplanet
+    detection, the rotation curves that revealed dark matter, the binary-star mass
+    measurements that calibrate stellar physics, and (in its cosmological generalisation
+    as redshift) the expansion of the universe — making it the workhorse kinematic
+    technique of observational astronomy.
+- type: warning
+  title: Common pitfall regarding Doppler Effect In Astronomy
+  body: The Doppler Effect In Astronomy at modest velocities (v ≪ c) can be treated
+    with the non-relativistic formula, but for high-velocity sources (relativistic
+    jets, distant quasars) the relativistic Doppler formula and the cosmological redshift
+    formalism must be used; mixing these regimes — particularly applying the simple
+    z = v/c formula at z ≳ 0.1 — produces increasingly serious errors as redshift
+    grows.

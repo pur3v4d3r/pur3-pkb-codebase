@@ -1,0 +1,40 @@
+concept: Causality In Physics
+domain: physics
+secondary_domains:
+- special-relativity
+- foundations-of-physics
+aliases:
+- relativistic causality
+- causal structure
+broader:
+- foundational principles of physics
+related:
+- special relativity
+- light cone
+- arrow of time
+- quantum entanglement
+confidence: high
+callouts:
+- type: definition
+  title: Causality In Physics
+  body: Causality In Physics is the principle that physical influences propagate only
+    within or on the future light cone of the originating event, equivalently that
+    no signal can travel faster than light — encoded in special relativity by the
+    Lorentz-invariant structure of light cones and in quantum field theory by the
+    requirement that spacelike-separated operators commute.
+- type: key-claim
+  title: Key claim about Causality In Physics
+  body: Causality In Physics is built into the structure of all currently-accepted
+    fundamental theories — special relativity, general relativity, quantum field theory
+    — and tests of Lorentz invariance, the no-communication theorem in quantum information,
+    and limits on superluminal propagation in cosmic-ray observations all consistently
+    support it.
+- type: warning
+  title: Common pitfall regarding Causality In Physics
+  body: Causality In Physics is sometimes claimed to be threatened by quantum entanglement,
+    closed timelike curves in some general-relativistic solutions, or hypothetical
+    wormholes; in standard quantum field theory the no-communication theorem rigorously
+    preserves causality despite entanglement, and Hawking's chronology-protection
+    conjecture (still unproven) suggests a quantum-gravity mechanism that prevents
+    CTC formation — popular framings of "causality violation" overstate the implications
+    of these phenomena.

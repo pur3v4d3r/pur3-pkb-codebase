@@ -1,0 +1,37 @@
+concept: Quasar
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+- observational-cosmology
+aliases:
+- QSO
+- quasi-stellar object
+broader:
+- active galactic nucleus
+related:
+- active galactic nucleus
+- supermassive black hole
+- redshift
+- blazar
+confidence: high
+callouts:
+- type: definition
+  title: Quasar
+  body: A Quasar is the most luminous class of active galactic nucleus, with bolometric
+    luminosity ~10⁴⁵–10⁴⁸ erg/s outshining its entire host galaxy and powered by accretion
+    onto a supermassive black hole at the host's centre — typically observed at high
+    redshift, when the universe was younger and accretion onto SMBHs was more vigorous.
+- type: key-claim
+  title: Key claim about Quasar
+  body: A Quasar's discovery and recognition as cosmologically distant (Schmidt 1963,
+    identifying broad emission lines in 3C 273 as redshifted hydrogen Balmer features)
+    revolutionised extragalactic astronomy by establishing that compact extragalactic
+    sources could exceed the luminosity of entire galaxies and that supermassive accreting
+    objects existed.
+- type: warning
+  title: Common pitfall regarding Quasar
+  body: A Quasar at high redshift is sometimes presented as evidence of "early universe
+    physics" in ways that conflate light-travel-time observations with real-time properties;
+    the high-redshift quasar population's existence at z > 7 raises genuine puzzles
+    about early SMBH formation, but the inference must distinguish the snapshot we
+    see from the population's evolution.

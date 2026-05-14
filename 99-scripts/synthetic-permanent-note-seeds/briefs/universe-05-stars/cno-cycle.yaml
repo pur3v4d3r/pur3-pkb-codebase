@@ -1,0 +1,35 @@
+concept: Cno Cycle
+domain: astrophysics
+secondary_domains:
+- nuclear-astrophysics
+aliases:
+- CNO cycle
+- Bethe–Weizsäcker cycle
+broader:
+- hydrogen-burning processes
+related:
+- stellar nucleosynthesis
+- proton-proton chain
+- main sequence star
+confidence: high
+callouts:
+- type: definition
+  title: Cno Cycle
+  body: The Cno Cycle is a catalytic sequence of nuclear reactions that fuses four
+    hydrogen nuclei into helium-4 using carbon, nitrogen, and oxygen as catalysts
+    (which return to their original abundances after one cycle), dominating energy
+    generation in main-sequence stars above ~1.5 solar masses where the higher central
+    temperatures favour the higher Coulomb barriers involved.
+- type: key-claim
+  title: Key claim about Cno Cycle
+  body: The Cno Cycle's strong temperature dependence (energy-generation rate ε ∝
+    T^~17) makes higher-mass main-sequence stars dramatically more luminous than the
+    proton–proton chain alone would explain and produces the inflection in the mass–luminosity
+    relation around 1.5 M☉.
+- type: warning
+  title: Common pitfall regarding Cno Cycle
+  body: The Cno Cycle requires pre-existing C, N, O, so it cannot operate in zero-metallicity
+    Population III stars at the trace abundances required; the very first stars must
+    rely entirely on the proton–proton chain and so were of qualitatively different
+    structure than later generations — a consequence often missed in introductory
+    discussions.

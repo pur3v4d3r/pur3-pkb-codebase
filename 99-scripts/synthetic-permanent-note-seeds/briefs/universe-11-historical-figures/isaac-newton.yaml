@@ -1,0 +1,37 @@
+concept: Isaac Newton
+domain: history-of-science
+secondary_domains:
+- classical-mechanics
+- history-of-physics
+aliases:
+- Newton
+- Sir Isaac Newton
+broader:
+- founders of classical physics
+related:
+- kepler's laws of planetary motion
+- classical mechanics
+- conservation of energy
+- optics
+confidence: high
+callouts:
+- type: definition
+  title: Isaac Newton
+  body: Isaac Newton (1643–1727) was the English mathematician and natural philosopher
+    whose Philosophiæ Naturalis Principia Mathematica (1687) formulated the three
+    laws of motion, the universal law of gravitation, and the calculus that together
+    unified celestial and terrestrial mechanics under a single mathematical framework.
+- type: key-claim
+  title: Key claim about Isaac Newton
+  body: Isaac Newton established the deductive structure of mathematical physics —
+    laws expressed mathematically with derived consequences testable observationally
+    — and his demonstration that Kepler's empirical laws of planetary motion follow
+    from the inverse-square law of gravitation provided the founding template for
+    theoretical physics as a deductive science.
+- type: warning
+  title: Common pitfall regarding Isaac Newton
+  body: Isaac Newton's mechanics is empirically superseded — at high velocities by
+    special relativity, at strong gravity by general relativity, at small scales by
+    quantum mechanics — but remains the correct limit of these more general theories
+    under appropriate conditions; presenting Newtonian mechanics as "wrong" without
+    specifying its domain of validity overstates the deprecation.

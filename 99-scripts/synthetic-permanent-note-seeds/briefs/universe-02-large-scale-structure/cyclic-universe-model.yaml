@@ -1,0 +1,33 @@
+concept: Cyclic Universe Model
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+aliases:
+- cyclic cosmology
+- oscillating universe
+broader:
+- non-singular cosmologies
+related:
+- big bounce
+- big crunch
+- ekpyrotic universe
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Cyclic Universe Model
+  body: The Cyclic Universe Model is a family of cosmological scenarios in which the
+    universe undergoes an endless succession of expansion and contraction (or brane-collision)
+    cycles, with each cycle resembling a Big Bang and each contraction ending in a
+    Big Bounce or brane collision rather than a singularity.
+- type: key-claim
+  title: Key claim about Cyclic Universe Model
+  body: The Cyclic Universe Model is theoretically attractive because it dispenses
+    with the question of "before the Big Bang" and provides an alternative to inflation
+    for solving the horizon and flatness problems via slow contraction.
+- type: warning
+  title: Common pitfall regarding Cyclic Universe Model
+  body: The Cyclic Universe Model in most concrete realisations (Steinhardt–Turok
+    ekpyrotic) makes distinctive predictions for primordial gravitational waves (essentially
+    zero) that observations could in principle distinguish from inflationary predictions,
+    but no such test has yet been conclusive.

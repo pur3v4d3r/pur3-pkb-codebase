@@ -1,0 +1,35 @@
+concept: Accretion Disk
+domain: astrophysics
+secondary_domains:
+- astrophysics
+- hydrodynamics
+aliases:
+- accretion disc
+broader:
+- astrophysical accretion structures
+related:
+- black hole
+- active galactic nucleus
+- neutron star
+- relativistic jets
+confidence: high
+callouts:
+- type: definition
+  title: Accretion Disk
+  body: An Accretion Disk is the differentially-rotating disc of gas that forms around
+    a compact object as in-falling material loses angular momentum through viscous
+    stress, radiates gravitational binding energy as it spirals inward, and powers
+    the observed luminosity of X-ray binaries, AGN, and quasars.
+- type: key-claim
+  title: Key claim about Accretion Disk
+  body: An Accretion Disk converts gravitational potential energy to radiation with
+    efficiencies of ~6–42% of mc² depending on the spin of the central compact object,
+    an order of magnitude greater than nuclear fusion (~0.7%), making accretion onto
+    compact objects the most efficient known steady-state energy-conversion process
+    in nature.
+- type: warning
+  title: Common pitfall regarding Accretion Disk
+  body: An Accretion Disk in the standard thin-disc (Shakura–Sunyaev) framework assumes
+    parameterised viscosity through the α prescription; this is a phenomenological
+    model, with the physical viscosity now known to come from the magnetorotational
+    instability, and disc structure predictions should be treated as model-dependent.

@@ -1,0 +1,36 @@
+concept: Planck Length
+domain: physics
+secondary_domains:
+- quantum-gravity
+- fundamental-units
+aliases:
+- l_P
+- Planck distance
+broader:
+- planck units
+related:
+- planck units
+- quantum gravity
+- planck time
+- holographic principle
+confidence: high
+callouts:
+- type: definition
+  title: Planck Length
+  body: The Planck Length l_P = √(ℏG/c³) ≈ 1.616 × 10⁻³⁵ m is the natural length scale
+    constructed from c, ℏ, and G, marking the regime where gravitational effects become
+    comparable to quantum effects and where a quantum theory of gravity is presumptively
+    required to describe spatial geometry.
+- type: key-claim
+  title: Key claim about Planck Length
+  body: The Planck Length is widely conjectured to be the scale below which the classical
+    concept of smooth spacetime geometry breaks down, with various quantum-gravity
+    approaches (loop quantum gravity, causal dynamical triangulations, asymptotic
+    safety) predicting some form of discreteness or modification at this scale.
+- type: warning
+  title: Common pitfall regarding Planck Length
+  body: The Planck Length is not established to be the literal "minimum length"; high-energy
+    phenomenology constraints from cosmic-ray observations and precision interferometry
+    (Holometer experiments) have placed bounds on Planck-scale modifications without
+    definitive detection, and statements that "spacetime is discrete at the Planck
+    length" are model-dependent conjectures rather than established physics.

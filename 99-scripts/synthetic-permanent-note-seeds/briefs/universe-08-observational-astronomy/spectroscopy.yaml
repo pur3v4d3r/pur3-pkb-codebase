@@ -1,0 +1,35 @@
+concept: Spectroscopy
+domain: astronomy
+secondary_domains:
+- observational-techniques
+aliases:
+- astronomical spectroscopy
+broader:
+- observational techniques in astronomy
+related:
+- stellar classification
+- doppler effect in astronomy
+- redshift
+- photometry
+confidence: high
+callouts:
+- type: definition
+  title: Spectroscopy
+  body: Spectroscopy is the dispersion of light into its constituent wavelengths and
+    the measurement of the resulting spectrum, used in astronomy to determine composition,
+    temperature, density, line-of-sight velocity, magnetic field strength, and ionisation
+    state of distant sources from the absorption and emission features in their spectra.
+- type: key-claim
+  title: Key claim about Spectroscopy
+  body: Spectroscopy is the single most informative observational technique in astronomy,
+    since essentially every quantitative astrophysical inference about a remote source
+    — composition, redshift, kinematics, atmospheric pressure, magnetic activity —
+    is ultimately spectroscopic in origin, and the great surveys (SDSS, Gaia DR3,
+    DESI) are spectroscopic by design.
+- type: warning
+  title: Common pitfall regarding Spectroscopy
+  body: Spectroscopy at low resolution (R ~ 10²) blends absorption features and obscures
+    abundance and kinematic information that becomes accessible at high resolution
+    (R > 10⁴); inferences quoted from low-resolution spectra carry larger systematic
+    uncertainties than the formal errors imply, and resolution-aware caveats are essential
+    when comparing across surveys.

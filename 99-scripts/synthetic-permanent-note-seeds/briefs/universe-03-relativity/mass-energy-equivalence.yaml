@@ -1,0 +1,34 @@
+concept: Mass Energy Equivalence
+domain: physics
+secondary_domains:
+- special-relativity
+- particle-physics
+aliases:
+- E = mc²
+- mass-energy relation
+broader:
+- conservation laws in relativity
+related:
+- special relativity
+- conservation of energy
+- nuclear binding energy
+- particle physics
+confidence: high
+callouts:
+- type: definition
+  title: Mass Energy Equivalence
+  body: Mass Energy Equivalence is the special-relativistic identity E = mc² — more
+    precisely E² = (pc)² + (mc²)² — stating that mass and energy are interconvertible,
+    and that the rest energy of a body of mass m equals mc².
+- type: key-claim
+  title: Key claim about Mass Energy Equivalence
+  body: Mass Energy Equivalence underlies the energetics of nuclear reactions (fission,
+    fusion), particle-antiparticle annihilation, and stellar nucleosynthesis; the
+    quantitative agreement between predicted and measured mass defects in nuclei is
+    one of the strongest empirical confirmations of special relativity.
+- type: warning
+  title: Common pitfall regarding Mass Energy Equivalence
+  body: Mass Energy Equivalence is sometimes paraphrased as "matter can be converted
+    to energy and vice versa," which is misleading because mass and energy are conserved
+    separately in any reaction — what changes is the form (rest energy ↔ kinetic +
+    radiation), not the total of either quantity in an isolated system.

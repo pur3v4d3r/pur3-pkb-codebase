@@ -1,0 +1,35 @@
+concept: Local Group
+domain: astrophysics
+secondary_domains:
+- near-field-cosmology
+- galactic-astronomy
+aliases:
+- Local Group of Galaxies
+broader:
+- galaxy groups
+related:
+- milky way galaxy
+- andromeda galaxy
+- dwarf galaxy
+- laniakea supercluster
+confidence: high
+callouts:
+- type: definition
+  title: Local Group
+  body: The Local Group is the gravitationally bound association of galaxies including
+    the Milky Way, the Andromeda Galaxy (M31), the Triangulum Galaxy (M33), and approximately
+    100 known smaller satellite and dwarf galaxies, occupying a region ~3 Mpc across.
+- type: key-claim
+  title: Key claim about Local Group
+  body: The Local Group is dominated dynamically by the Milky Way and M31 — together
+    comprising the bulk of the Local Group's mass — and provides the best-resolved
+    testbed for hierarchical galaxy formation, since its dwarf-galaxy population can
+    be studied to extremely faint surface brightness in ways impossible for more distant
+    systems.
+- type: warning
+  title: Common pitfall regarding Local Group
+  body: The Local Group's dynamical zero-point — the boundary between bound members
+    and the surrounding Hubble flow — is observationally fuzzy, with the so-called
+    "near-field" (out to ~1 Mpc) being well-defined but the periphery (~1–4 Mpc) including
+    objects of ambiguous bound status, so membership counts and total mass quoted
+    in different works depend on the adopted boundary criterion.

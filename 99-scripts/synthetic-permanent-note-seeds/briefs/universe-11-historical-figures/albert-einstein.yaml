@@ -1,0 +1,38 @@
+concept: Albert Einstein
+domain: history-of-science
+secondary_domains:
+- theoretical-physics
+- general-relativity
+aliases:
+- Einstein
+broader:
+- twentieth-century theoretical physicists
+related:
+- general relativity
+- special relativity
+- einstein field equations
+- photon
+confidence: high
+callouts:
+- type: definition
+  title: Albert Einstein
+  body: Albert Einstein (1879–1955) was a German-born theoretical physicist whose
+    1905 "miracle year" papers (special relativity, light-quantum hypothesis, Brownian
+    motion, mass-energy equivalence) and 1915 formulation of general relativity reshaped
+    the foundations of physics, earning the 1921 Nobel Prize for the photoelectric
+    effect rather than for relativity.
+- type: key-claim
+  title: Key claim about Albert Einstein
+  body: Albert Einstein is responsible for the conceptual frameworks of both special
+    and general relativity, the photon hypothesis that initiated quantum theory, and
+    the EPR paper (1935) that opened the line of foundational quantum-mechanical research
+    culminating in Bell's theorem and modern quantum information — a contribution
+    unmatched by any other 20th-century physicist.
+- type: warning
+  title: Common pitfall regarding Albert Einstein
+  body: Albert Einstein is often credited with the entirety of the relativistic project;
+    in fact Lorentz, Poincaré, and Minkowski contributed substantially to the special-relativistic
+    mathematical apparatus, and the formulation of general relativity benefited critically
+    from Marcel Grossmann's tensor-calculus tutoring and David Hilbert's near-simultaneous
+    derivation of the field equations — the popular "lone genius" framing oversimplifies
+    the historical record.

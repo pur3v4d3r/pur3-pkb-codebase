@@ -1,0 +1,38 @@
+concept: Karl Schwarzschild
+domain: history-of-science
+secondary_domains:
+- general-relativity
+- mathematical-physics
+aliases:
+- Schwarzschild
+broader:
+- early-general-relativity theorists
+related:
+- schwarzschild metric
+- schwarzschild radius
+- black hole
+- einstein field equations
+confidence: high
+callouts:
+- type: definition
+  title: Karl Schwarzschild
+  body: Karl Schwarzschild (1873–1916) was the German physicist and astronomer who,
+    while serving on the Russian front in the First World War, derived the first exact
+    solution of Einstein's field equations (1916) — the spherically symmetric vacuum
+    solution describing the spacetime around a non-rotating, uncharged mass and now
+    bearing his name.
+- type: key-claim
+  title: Key claim about Karl Schwarzschild
+  body: Karl Schwarzschild's solution, derived within months of Einstein's publication
+    of the field equations, contains within its structure the Schwarzschild radius
+    and the event horizon — the foundational features of black-hole physics — half
+    a century before the term "black hole" was coined and the physical reality of
+    horizons accepted.
+- type: warning
+  title: Common pitfall regarding Karl Schwarzschild
+  body: Karl Schwarzschild died in 1916 of a rare auto-immune skin disease contracted
+    at the front, only months after publishing his solution and while Einstein was
+    still presenting his results to the Prussian Academy on his behalf; popular accounts
+    often miss the wartime conditions and Schwarzschild's premature death at age 42,
+    factors that gave his name to a metric whose deeper implications he never lived
+    to explore.

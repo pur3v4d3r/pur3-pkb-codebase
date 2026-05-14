@@ -1,0 +1,36 @@
+concept: Cosmic Inflation Theory
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- particle-physics
+aliases:
+- inflationary theory
+- inflationary cosmology
+broader:
+- theories of the very early universe
+related:
+- inflation
+- horizon problem
+- flatness problem
+- multiverse
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Cosmic Inflation Theory
+  body: Cosmic Inflation Theory is the theoretical framework — originated by Guth,
+    Linde, Albrecht, and Steinhardt around 1980–1982 — in which a brief epoch of accelerated
+    expansion driven by a scalar inflaton field's potential energy resolves the geometric
+    and topological puzzles of the standard hot Big Bang model.
+- type: key-claim
+  title: Key claim about Cosmic Inflation Theory
+  body: Cosmic Inflation Theory makes a small set of falsifiable generic predictions
+    — spatial flatness, a near-scale-invariant adiabatic Gaussian spectrum of perturbations,
+    and (in most models) tensor modes — and the first two have been quantitatively
+    confirmed by CMB experiments to high precision.
+- type: warning
+  title: Common pitfall regarding Cosmic Inflation Theory
+  body: Cosmic Inflation Theory is a paradigm rather than a single specific model,
+    encompassing many distinct realisations (slow-roll, hybrid, R²); criticism of
+    "the" inflation theory often targets one realisation while leaving others untouched,
+    and proponents and critics regularly talk past each other on this point.

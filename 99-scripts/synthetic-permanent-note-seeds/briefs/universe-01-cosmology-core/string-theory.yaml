@@ -1,0 +1,42 @@
+concept: String Theory
+domain: cosmology
+secondary_domains:
+- theoretical-physics
+- quantum-gravity
+aliases:
+- string theory
+- superstring theory
+broader:
+- candidate theories of quantum gravity
+related:
+- m-theory
+- supersymmetry
+- multiverse
+- ads-cft correspondence
+- quantum gravity
+prerequisites:
+- quantum field theory
+- general relativity
+- supersymmetry
+confidence: high
+callouts:
+- type: definition
+  title: String Theory
+  body: String Theory is a family of theoretical frameworks in which the fundamental
+    degrees of freedom are one-dimensional extended objects ("strings") rather than
+    point particles, with different vibrational modes corresponding to different particle
+    species and gravity arising automatically from the spectrum.
+- type: key-claim
+  title: Key claim about String Theory
+  body: String Theory is the most-developed attempt to unify quantum mechanics and
+    general relativity in a single mathematically consistent framework, and it has
+    produced major spin-off insights (AdS/CFT correspondence, black-hole entropy counting,
+    holography) that have reshaped theoretical physics independently of whether the
+    theory itself is ultimately correct.
+- type: warning
+  title: Common pitfall regarding String Theory
+  body: String Theory has so far made no experimentally verified prediction that distinguishes
+    it from the Standard Model plus general relativity; calling it "the theory of
+    quantum gravity" overstates its empirical standing, and the existence of a vast
+    landscape of solutions ("the string landscape") makes its predictive power genuinely
+    contested even within the theory community.

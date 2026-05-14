@@ -1,0 +1,37 @@
+concept: Exoplanet
+domain: planetary-science
+secondary_domains:
+- astronomy
+- astrobiology
+aliases:
+- extrasolar planet
+- exoplanets
+broader:
+- planetary bodies
+related:
+- habitable zone
+- transit method
+- radial velocity method
+- kepler space telescope
+confidence: high
+callouts:
+- type: definition
+  title: Exoplanet
+  body: An Exoplanet is a planet orbiting a star other than the Sun, with the first
+    confirmed exoplanet around a main-sequence star (51 Pegasi b, Mayor & Queloz 1995,
+    Nobel 2019) inaugurating a field that has since catalogued over 5,500 confirmed
+    exoplanets and identified planet occurrence as the rule rather than the exception
+    around stars.
+- type: key-claim
+  title: Key claim about Exoplanet
+  body: An Exoplanet population, as characterised by Kepler-mission statistics, includes
+    systems unlike anything in the Solar System — hot Jupiters, super-Earths, mini-Neptunes,
+    ultra-short-period planets — establishing that the Solar System's architecture
+    is one realisation among many rather than a template for typical planetary systems.
+- type: warning
+  title: Common pitfall regarding Exoplanet
+  body: An Exoplanet detection bias is severe and method-dependent — transit and radial-velocity
+    techniques preferentially detect short-period and massive planets, respectively
+    — and reported exoplanet "population" statistics must be corrected for these biases
+    before being interpreted as occurrence rates; raw catalogue counts are not population
+    estimates.

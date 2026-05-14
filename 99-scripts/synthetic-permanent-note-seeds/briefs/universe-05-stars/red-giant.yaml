@@ -1,0 +1,35 @@
+concept: Red Giant
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- red giants
+- red giant branch star
+broader:
+- post-main-sequence stellar phases
+related:
+- main sequence star
+- asymptotic giant branch
+- planetary nebula
+- hertzsprung-russell diagram
+confidence: high
+callouts:
+- type: definition
+  title: Red Giant
+  body: A Red Giant is a low- to intermediate-mass star (≲ 8 M☉) in the phase following
+    core-hydrogen exhaustion, characterised by a contracted helium core surrounded
+    by a hydrogen-burning shell, an expanded and cooled outer envelope, and a position
+    on the red-giant branch in the Hertzsprung–Russell diagram.
+- type: key-claim
+  title: Key claim about Red Giant
+  body: A Red Giant phase is when stars first dredge up nuclear-processed material
+    to the surface, altering surface abundances of CNO and lithium, and asteroseismology
+    of red giants now provides the most precise individual-star age determinations
+    available, anchoring Galactic-archaeology surveys.
+- type: warning
+  title: Common pitfall regarding Red Giant
+  body: A Red Giant is sometimes confused with the asymptotic giant branch (AGB) phase,
+    which follows core-helium burning and is the site of the s-process and the dust
+    factories of the late universe; the two phases differ in interior structure, surface
+    chemistry, and observational signatures, and conflating them obscures important
+    physics.

@@ -1,0 +1,36 @@
+concept: Baryogenesis
+domain: physics
+secondary_domains:
+- particle-cosmology
+aliases:
+- baryon asymmetry generation
+broader:
+- early-universe cosmology
+related:
+- matter-antimatter asymmetry
+- big bang theory
+- cp violation
+- electroweak phase transition
+confidence: high
+callouts:
+- type: definition
+  title: Baryogenesis
+  body: Baryogenesis is the dynamical generation of the cosmic matter-antimatter asymmetry
+    from an initially symmetric (or unspecified) state, requiring the Sakharov conditions
+    and proceeding through one of several proposed mechanisms — electroweak baryogenesis,
+    GUT baryogenesis, leptogenesis, Affleck–Dine — distinguished by the energy scale
+    at which the asymmetry is generated.
+- type: key-claim
+  title: Key claim about Baryogenesis
+  body: Baryogenesis remains an unsolved problem in fundamental physics; the Standard
+    Model's quantitative inadequacy means that a successful mechanism requires beyond-Standard-Model
+    physics, and the leading candidate (leptogenesis, generating the asymmetry first
+    in the lepton sector via heavy Majorana neutrino decays) ties baryogenesis to
+    neutrino-mass physics.
+- type: warning
+  title: Common pitfall regarding Baryogenesis
+  body: Baryogenesis scenarios are not directly testable in the laboratory at the
+    energy scales they typically invoke (10⁹–10¹⁵ GeV); experimental probes proceed
+    indirectly through electroweak precision, neutrinoless double-beta decay, and
+    electric-dipole-moment measurements, and overconfident statements about which
+    mechanism is operative go beyond the available evidence.

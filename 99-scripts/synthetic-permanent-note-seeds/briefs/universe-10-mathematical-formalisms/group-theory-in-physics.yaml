@@ -1,0 +1,38 @@
+concept: Group Theory In Physics
+domain: mathematical-physics
+secondary_domains:
+- mathematical-physics
+- particle-physics
+aliases:
+- group-theoretical methods
+- symmetry groups in physics
+broader:
+- mathematical formalisms of physics
+related:
+- gauge theory
+- lie algebra
+- symmetry breaking
+- noether's theorem
+confidence: high
+callouts:
+- type: definition
+  title: Group Theory In Physics
+  body: Group Theory In Physics is the application of abstract algebra's group structures
+    (continuous Lie groups for spacetime and gauge symmetries; discrete groups for
+    crystal lattices and selection rules) to systematise the consequences of symmetry
+    — yielding conservation laws via Noether's theorem and classifying particle multiplets
+    via representation theory.
+- type: key-claim
+  title: Key claim about Group Theory In Physics
+  body: Group Theory In Physics provides the mathematical framework for the Standard
+    Model of particle physics (gauge group SU(3) × SU(2) × U(1)), for general relativity's
+    diffeomorphism invariance, and for the unification proposals (SU(5), SO(10), E8)
+    that extend the Standard Model — making group-theoretic structure central to modern
+    fundamental physics.
+- type: warning
+  title: Common pitfall regarding Group Theory In Physics
+  body: Group Theory In Physics texts often blur the distinction between a Lie group
+    and its Lie algebra; the algebra captures local (infinitesimal) symmetry, while
+    the group encodes global topology that affects allowed gauge configurations (e.g.,
+    instanton sectors), and statements about "the symmetry group" sometimes hide important
+    distinctions between locally- and globally-defined structures.

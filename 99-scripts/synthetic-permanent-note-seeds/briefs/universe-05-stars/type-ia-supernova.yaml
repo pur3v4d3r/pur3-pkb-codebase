@@ -1,0 +1,37 @@
+concept: Type Ia Supernova
+domain: astrophysics
+secondary_domains:
+- stellar-explosions
+- observational-cosmology
+aliases:
+- SN Ia
+broader:
+- supernova types
+related:
+- white dwarf
+- chandrasekhar limit
+- supernova
+- dark energy
+confidence: high
+callouts:
+- type: definition
+  title: Type Ia Supernova
+  body: A Type Ia Supernova is the thermonuclear explosion of a carbon–oxygen white
+    dwarf, triggered by mass accretion or by white-dwarf merger pushing the system
+    toward the Chandrasekhar limit, characterised observationally by the absence of
+    hydrogen lines and the presence of strong silicon-II absorption near maximum light.
+- type: key-claim
+  title: Key claim about Type Ia Supernova
+  body: A Type Ia Supernova has a peak luminosity that, after empirical correction
+    (light-curve width–luminosity relation, Phillips relation), is reproducible to
+    ~7% — the property that makes it the standardisable distance candle whose calibration
+    revealed the late-time acceleration of the universe and the existence of dark
+    energy.
+- type: warning
+  title: Common pitfall regarding Type Ia Supernova
+  body: A Type Ia Supernova standardisation assumes a uniform progenitor population,
+    but observational and theoretical evidence increasingly supports multiple progenitor
+    channels (single-degenerate, double-degenerate, sub-Chandrasekhar) with potentially
+    different intrinsic peak luminosities; cosmological inferences must marginalise
+    over progenitor-population systematics, and current quoted dark-energy constraints
+    carry residual systematic uncertainty from this source.

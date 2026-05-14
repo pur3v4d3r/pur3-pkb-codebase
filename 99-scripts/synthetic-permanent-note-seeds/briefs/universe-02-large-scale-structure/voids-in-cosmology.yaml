@@ -1,0 +1,33 @@
+concept: Voids In Cosmology
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- large-scale-structure
+aliases:
+- cosmic voids
+broader:
+- components of the cosmic web
+related:
+- cosmic web
+- galaxy filaments
+- large-scale structure of the cosmos
+- dark energy
+confidence: high
+callouts:
+- type: definition
+  title: Voids In Cosmology
+  body: Voids In Cosmology are the large (tens to hundreds of Mpc) underdense regions
+    that occupy most of the volume of the cosmic web, where the local density is typically
+    only 10–30% of the cosmic mean.
+- type: key-claim
+  title: Key claim about Voids In Cosmology
+  body: Voids In Cosmology are sensitive probes of dark energy and modified gravity
+    because their interiors are dominated by the cosmological-constant term rather
+    than by clustered matter; the late-time integrated Sachs–Wolfe effect through
+    voids has been used to constrain Λ.
+- type: warning
+  title: Common pitfall regarding Voids In Cosmology
+  body: Voids In Cosmology are statistically defined and depend on the void-finder,
+    and the tail of small-scale "voids" is dominated by sampling noise; published
+    void-counts are meaningful only with respect to the finder and selection criteria
+    used.

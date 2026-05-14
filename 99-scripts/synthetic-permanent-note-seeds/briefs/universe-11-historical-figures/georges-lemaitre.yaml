@@ -1,0 +1,38 @@
+concept: Georges Lemaitre
+domain: history-of-science
+secondary_domains:
+- cosmology
+- history-of-cosmology
+aliases:
+- Lemaître
+- Georges Lemaître
+broader:
+- founders of Big Bang cosmology
+related:
+- big bang theory
+- hubble's law
+- expansion of the universe
+- primeval atom
+confidence: high
+callouts:
+- type: definition
+  title: Georges Lemaitre
+  body: Georges Lemaitre (1894–1966) was the Belgian Catholic priest and theoretical
+    physicist who derived the velocity–distance relation for galaxies and proposed
+    the "primeval atom" hypothesis (1927, 1931) — the earliest formulation of what
+    would become Big Bang cosmology — independently of Friedmann's earlier mathematical
+    solutions of Einstein's field equations.
+- type: key-claim
+  title: Key claim about Georges Lemaitre
+  body: Georges Lemaitre published the velocity–distance relation two years before
+    Hubble's 1929 paper and was the first physicist to propose the universe began
+    in a hot, dense initial state — what Fred Hoyle later disparagingly called the
+    "Big Bang" — making Lemaître arguably the founder of modern cosmology, a recognition
+    formalised by the 2018 IAU renaming of Hubble's law to the Hubble–Lemaître law.
+- type: warning
+  title: Common pitfall regarding Georges Lemaitre
+  body: Georges Lemaitre's contribution was historically obscured because his 1927
+    paper appeared in a relatively obscure Belgian journal in French, and the English
+    translation (1931) omitted the velocity–distance derivation — leading to a long
+    misattribution to Hubble; the correction has only become widely acknowledged in
+    the 21st century.

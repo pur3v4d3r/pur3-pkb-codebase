@@ -1,0 +1,132 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-13-foundational-concepts",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-13-foundational-concepts.md",
+    "notes": "Eighteen foundational concepts spanning fundamental constants and units,\nthe arrow of time and entropy in cosmology, the principal cosmological\nepochs from the Planck era through reionisation, and the holographic /\nAdS-CFT principles that link spacetime geometry to information theory."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-13-foundational-concepts",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-13-foundational-concepts"
+  },
+  "counts": {
+    "parsed": 18,
+    "accepted": 18,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Speed Of Light",
+      "kebab": "speed-of-light",
+      "brief_path": "briefs/universe-13-foundational-concepts/speed-of-light.yaml",
+      "expected_seed_filename": "speed-of-light-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planck Units",
+      "kebab": "planck-units",
+      "brief_path": "briefs/universe-13-foundational-concepts/planck-units.yaml",
+      "expected_seed_filename": "planck-units-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planck Epoch",
+      "kebab": "planck-epoch",
+      "brief_path": "briefs/universe-13-foundational-concepts/planck-epoch.yaml",
+      "expected_seed_filename": "planck-epoch-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planck Length",
+      "kebab": "planck-length",
+      "brief_path": "briefs/universe-13-foundational-concepts/planck-length.yaml",
+      "expected_seed_filename": "planck-length-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planck Time",
+      "kebab": "planck-time",
+      "brief_path": "briefs/universe-13-foundational-concepts/planck-time.yaml",
+      "expected_seed_filename": "planck-time-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Entropy In Cosmology",
+      "kebab": "entropy-in-cosmology",
+      "brief_path": "briefs/universe-13-foundational-concepts/entropy-in-cosmology.yaml",
+      "expected_seed_filename": "entropy-in-cosmology-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Arrow Of Time",
+      "kebab": "arrow-of-time",
+      "brief_path": "briefs/universe-13-foundational-concepts/arrow-of-time.yaml",
+      "expected_seed_filename": "arrow-of-time-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Causality In Physics",
+      "kebab": "causality-in-physics",
+      "brief_path": "briefs/universe-13-foundational-concepts/causality-in-physics.yaml",
+      "expected_seed_filename": "causality-in-physics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Conservation Of Energy",
+      "kebab": "conservation-of-energy",
+      "brief_path": "briefs/universe-13-foundational-concepts/conservation-of-energy.yaml",
+      "expected_seed_filename": "conservation-of-energy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Symmetry Breaking",
+      "kebab": "symmetry-breaking",
+      "brief_path": "briefs/universe-13-foundational-concepts/symmetry-breaking.yaml",
+      "expected_seed_filename": "symmetry-breaking-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Phase Transition In Cosmology",
+      "kebab": "phase-transition-in-cosmology",
+      "brief_path": "briefs/universe-13-foundational-concepts/phase-transition-in-cosmology.yaml",
+      "expected_seed_filename": "phase-transition-in-cosmology-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Recombination Epoch",
+      "kebab": "recombination-epoch",
+      "brief_path": "briefs/universe-13-foundational-concepts/recombination-epoch.yaml",
+      "expected_seed_filename": "recombination-epoch-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Reionization",
+      "kebab": "reionization",
+      "brief_path": "briefs/universe-13-foundational-concepts/reionization.yaml",
+      "expected_seed_filename": "reionization-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Last Scattering Surface",
+      "kebab": "last-scattering-surface",
+      "brief_path": "briefs/universe-13-foundational-concepts/last-scattering-surface.yaml",
+      "expected_seed_filename": "last-scattering-surface-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Dark Ages Of The Universe",
+      "kebab": "dark-ages-of-the-universe",
+      "brief_path": "briefs/universe-13-foundational-concepts/dark-ages-of-the-universe.yaml",
+      "expected_seed_filename": "dark-ages-of-the-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmic Dawn",
+      "kebab": "cosmic-dawn",
+      "brief_path": "briefs/universe-13-foundational-concepts/cosmic-dawn.yaml",
+      "expected_seed_filename": "cosmic-dawn-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Holographic Principle",
+      "kebab": "holographic-principle",
+      "brief_path": "briefs/universe-13-foundational-concepts/holographic-principle.yaml",
+      "expected_seed_filename": "holographic-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "AdS CFT Correspondence",
+      "kebab": "ads-cft-correspondence",
+      "brief_path": "briefs/universe-13-foundational-concepts/ads-cft-correspondence.yaml",
+      "expected_seed_filename": "ads-cft-correspondence-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

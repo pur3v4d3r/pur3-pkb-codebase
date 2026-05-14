@@ -1,0 +1,35 @@
+concept: Milky Way Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-astronomy
+aliases:
+- Milky Way
+- the Galaxy
+broader:
+- spiral galaxy
+related:
+- andromeda galaxy
+- local group
+- supermassive black hole
+- galactic rotation curve
+confidence: high
+callouts:
+- type: definition
+  title: Milky Way Galaxy
+  body: The Milky Way Galaxy is a barred spiral galaxy of intermediate size (~10¹¹
+    stars, disc diameter ~30 kpc, total mass including dark-matter halo ~10¹² M☉)
+    that hosts the Solar System on the inner edge of the Orion Arm at ~8 kpc from
+    the Galactic Centre.
+- type: key-claim
+  title: Key claim about Milky Way Galaxy
+  body: The Milky Way Galaxy harbours a supermassive black hole, Sgr A* (~4 × 10⁶
+    M☉), whose mass is determined to high precision by long-baseline tracking of stars
+    on Keplerian orbits within ~0.1 pc of the Galactic Centre — work recognised by
+    the 2020 Nobel Prize.
+- type: warning
+  title: Common pitfall regarding Milky Way Galaxy
+  body: The Milky Way Galaxy's structural parameters (bar length, spiral-arm pattern,
+    disc scale length) carry larger systematic uncertainties than equivalent measurements
+    for external galaxies because we observe it from inside through dust-laden lines
+    of sight; quoted Milky Way "facts" should be treated with awareness of these projection-induced
+    uncertainties.

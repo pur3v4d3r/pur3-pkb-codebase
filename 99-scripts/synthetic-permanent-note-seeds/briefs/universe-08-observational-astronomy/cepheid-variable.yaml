@@ -1,0 +1,36 @@
+concept: Cepheid Variable
+domain: astronomy
+secondary_domains:
+- stellar-astrophysics
+- distance-determination
+aliases:
+- Cepheid
+- Cepheid variables
+broader:
+- pulsating variable stars
+related:
+- standard candle
+- hubble's law
+- andromeda galaxy
+- hubble space telescope
+confidence: high
+callouts:
+- type: definition
+  title: Cepheid Variable
+  body: A Cepheid Variable is a class of pulsating yellow supergiant star whose pulsation
+    period is tightly correlated with intrinsic luminosity (the period–luminosity
+    or Leavitt relation), making it a primary extragalactic distance indicator out
+    to ~30 Mpc with the Hubble Space Telescope.
+- type: key-claim
+  title: Key claim about Cepheid Variable
+  body: A Cepheid Variable's period–luminosity relation, discovered by Henrietta Leavitt
+    in 1908 from observations of Cepheids in the Magellanic Clouds, is the foundation
+    of modern extragalactic distance measurement and the link Hubble exploited in
+    1923–24 to demonstrate that "spiral nebulae" lay outside the Milky Way.
+- type: warning
+  title: Common pitfall regarding Cepheid Variable
+  body: A Cepheid Variable's period–luminosity relation depends on metallicity, with
+    a metallicity-zeropoint correction whose magnitude has been a matter of ongoing
+    dispute and is one of the persistent systematics in the local Hubble-constant
+    determination — claims that "the Cepheid distance scale is settled" overstate
+    current consensus.

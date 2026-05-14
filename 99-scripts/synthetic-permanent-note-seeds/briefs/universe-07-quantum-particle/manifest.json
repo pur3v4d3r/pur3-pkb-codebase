@@ -1,0 +1,168 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-07-quantum-particle",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-07-quantum-particle.md",
+    "notes": "Twenty-four foundational concepts of quantum mechanics, quantum field theory,\nparticle physics, and the early-universe physics that ties them to cosmology\n(BBN, baryogenesis, vacuum fluctuations)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-07-quantum-particle",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-07-quantum-particle"
+  },
+  "counts": {
+    "parsed": 24,
+    "accepted": 24,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Quantum Mechanics",
+      "kebab": "quantum-mechanics",
+      "brief_path": "briefs/universe-07-quantum-particle/quantum-mechanics.yaml",
+      "expected_seed_filename": "quantum-mechanics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quantum Field Theory",
+      "kebab": "quantum-field-theory",
+      "brief_path": "briefs/universe-07-quantum-particle/quantum-field-theory.yaml",
+      "expected_seed_filename": "quantum-field-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quantum Gravity",
+      "kebab": "quantum-gravity",
+      "brief_path": "briefs/universe-07-quantum-particle/quantum-gravity.yaml",
+      "expected_seed_filename": "quantum-gravity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Loop Quantum Gravity",
+      "kebab": "loop-quantum-gravity",
+      "brief_path": "briefs/universe-07-quantum-particle/loop-quantum-gravity.yaml",
+      "expected_seed_filename": "loop-quantum-gravity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "M Theory",
+      "kebab": "m-theory",
+      "brief_path": "briefs/universe-07-quantum-particle/m-theory.yaml",
+      "expected_seed_filename": "m-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Supersymmetry",
+      "kebab": "supersymmetry",
+      "brief_path": "briefs/universe-07-quantum-particle/supersymmetry.yaml",
+      "expected_seed_filename": "supersymmetry-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Higgs Boson",
+      "kebab": "higgs-boson",
+      "brief_path": "briefs/universe-07-quantum-particle/higgs-boson.yaml",
+      "expected_seed_filename": "higgs-boson-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quark",
+      "kebab": "quark",
+      "brief_path": "briefs/universe-07-quantum-particle/quark.yaml",
+      "expected_seed_filename": "quark-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lepton",
+      "kebab": "lepton",
+      "brief_path": "briefs/universe-07-quantum-particle/lepton.yaml",
+      "expected_seed_filename": "lepton-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Neutrino",
+      "kebab": "neutrino",
+      "brief_path": "briefs/universe-07-quantum-particle/neutrino.yaml",
+      "expected_seed_filename": "neutrino-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Boson",
+      "kebab": "boson",
+      "brief_path": "briefs/universe-07-quantum-particle/boson.yaml",
+      "expected_seed_filename": "boson-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Fermion",
+      "kebab": "fermion",
+      "brief_path": "briefs/universe-07-quantum-particle/fermion.yaml",
+      "expected_seed_filename": "fermion-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Photon",
+      "kebab": "photon",
+      "brief_path": "briefs/universe-07-quantum-particle/photon.yaml",
+      "expected_seed_filename": "photon-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gluon",
+      "kebab": "gluon",
+      "brief_path": "briefs/universe-07-quantum-particle/gluon.yaml",
+      "expected_seed_filename": "gluon-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Graviton",
+      "kebab": "graviton",
+      "brief_path": "briefs/universe-07-quantum-particle/graviton.yaml",
+      "expected_seed_filename": "graviton-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Antimatter",
+      "kebab": "antimatter",
+      "brief_path": "briefs/universe-07-quantum-particle/antimatter.yaml",
+      "expected_seed_filename": "antimatter-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Matter Antimatter Asymmetry",
+      "kebab": "matter-antimatter-asymmetry",
+      "brief_path": "briefs/universe-07-quantum-particle/matter-antimatter-asymmetry.yaml",
+      "expected_seed_filename": "matter-antimatter-asymmetry-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Baryogenesis",
+      "kebab": "baryogenesis",
+      "brief_path": "briefs/universe-07-quantum-particle/baryogenesis.yaml",
+      "expected_seed_filename": "baryogenesis-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Nucleosynthesis",
+      "kebab": "nucleosynthesis",
+      "brief_path": "briefs/universe-07-quantum-particle/nucleosynthesis.yaml",
+      "expected_seed_filename": "nucleosynthesis-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Big Bang Nucleosynthesis",
+      "kebab": "big-bang-nucleosynthesis",
+      "brief_path": "briefs/universe-07-quantum-particle/big-bang-nucleosynthesis.yaml",
+      "expected_seed_filename": "big-bang-nucleosynthesis-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Heisenberg's Uncertainty Principle",
+      "kebab": "heisenbergs-uncertainty-principle",
+      "brief_path": "briefs/universe-07-quantum-particle/heisenbergs-uncertainty-principle.yaml",
+      "expected_seed_filename": "heisenbergs-uncertainty-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Wave Particle Duality",
+      "kebab": "wave-particle-duality",
+      "brief_path": "briefs/universe-07-quantum-particle/wave-particle-duality.yaml",
+      "expected_seed_filename": "wave-particle-duality-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quantum Entanglement",
+      "kebab": "quantum-entanglement",
+      "brief_path": "briefs/universe-07-quantum-particle/quantum-entanglement.yaml",
+      "expected_seed_filename": "quantum-entanglement-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Vacuum Fluctuations",
+      "kebab": "vacuum-fluctuations",
+      "brief_path": "briefs/universe-07-quantum-particle/vacuum-fluctuations.yaml",
+      "expected_seed_filename": "vacuum-fluctuations-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

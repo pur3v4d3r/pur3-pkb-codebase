@@ -1,0 +1,35 @@
+concept: Gravity
+domain: cosmology
+secondary_domains:
+- classical-mechanics
+- general-relativity
+aliases:
+- gravitation
+- gravitational interaction
+broader:
+- fundamental interactions
+related:
+- general relativity
+- newton's law of universal gravitation
+- quantum gravity
+- gravitational waves
+confidence: high
+callouts:
+- type: definition
+  title: Gravity
+  body: Gravity is the universal attractive interaction between mass-energy that,
+    in the Newtonian limit, follows the inverse-square law and, in the relativistic
+    regime, is described as the curvature of spacetime caused by the local stress-energy
+    tensor.
+- type: key-claim
+  title: Key claim about Gravity
+  body: Gravity is unique among the four fundamental interactions in being purely
+    attractive, in coupling to all forms of energy (not just mass), and in being geometrised
+    — described as the shape of spacetime rather than as a force exchanged between
+    particles.
+- type: warning
+  title: Common pitfall regarding Gravity
+  body: Gravity is well described by general relativity in the classical regime and
+    by Newtonian mechanics in the weak-field non-relativistic limit, but no consistent
+    quantum theory of gravity yet exists; treating quantum gravity as a settled matter
+    overstates the current state of physics by a wide margin.

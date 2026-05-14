@@ -1,0 +1,37 @@
+concept: Wave Particle Duality
+domain: physics
+secondary_domains:
+- quantum-mechanics
+- foundations-of-physics
+aliases:
+- wave-particle duality
+broader:
+- foundational principles of quantum mechanics
+related:
+- quantum mechanics
+- photon
+- double-slit experiment
+- quantum entanglement
+confidence: high
+callouts:
+- type: definition
+  title: Wave Particle Duality
+  body: Wave Particle Duality is the experimental and theoretical recognition that
+    quantum systems exhibit both wave-like (interference, diffraction) and particle-like
+    (discrete detection events, definite quanta of energy and momentum) behaviour
+    depending on the experimental context, with the appropriate description selected
+    by the measurement performed.
+- type: key-claim
+  title: Key claim about Wave Particle Duality
+  body: Wave Particle Duality is empirically confirmed for electrons, neutrons, atoms,
+    and molecules up to multi-thousand-atomic-mass-unit fullerene-derivative systems,
+    with the canonical double-slit interference observable for any sufficiently coherent
+    quantum object — and the wave-particle character is not a matter of "which is
+    the system really," but of which experimental apparatus is in operation.
+- type: warning
+  title: Common pitfall regarding Wave Particle Duality
+  body: Wave Particle Duality is sometimes described as an inconsistency or paradox
+    that quantum mechanics tolerates; in the modern operational view it is simply
+    that the same quantum formalism predicts both interference and discrete detection,
+    and these are not contradictory because they are predictions about complementary
+    measurement contexts, not co-occurring properties.

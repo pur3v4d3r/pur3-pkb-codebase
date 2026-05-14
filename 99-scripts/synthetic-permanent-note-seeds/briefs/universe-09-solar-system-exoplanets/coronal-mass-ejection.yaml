@@ -1,0 +1,36 @@
+concept: Coronal Mass Ejection
+domain: planetary-science
+secondary_domains:
+- solar-physics
+- space-weather
+aliases:
+- CME
+broader:
+- solar transient phenomena
+related:
+- solar wind
+- parker solar probe
+- sun
+- space weather
+confidence: high
+callouts:
+- type: definition
+  title: Coronal Mass Ejection
+  body: A Coronal Mass Ejection is the eruption of a large bubble of magnetised plasma
+    (~10¹²–10¹³ kg) from the Sun's corona, propelled outward at speeds from a few
+    hundred to ~3,000 km/s, often associated with solar flares and capable of producing
+    severe geomagnetic disturbances ("space weather") when directed at Earth.
+- type: key-claim
+  title: Key claim about Coronal Mass Ejection
+  body: A Coronal Mass Ejection arriving at Earth is the principal driver of severe
+    space-weather events, with potential to disrupt power grids, satellite communications,
+    GPS, and high-altitude aviation; the 1859 Carrington event remains the best-characterised
+    historical extreme example, and a Carrington-class event today would cause economic
+    damage estimated in the trillions of dollars.
+- type: warning
+  title: Common pitfall regarding Coronal Mass Ejection
+  body: A Coronal Mass Ejection's geo-effectiveness depends sensitively on its magnetic-field
+    configuration on arrival (a southward Bz component is necessary to drive strong
+    geomagnetic activity); CME arrival without a southward magnetic field produces
+    little effect, and forecasts based purely on CME speed and trajectory routinely
+    over- and under-predict actual geomagnetic impact.

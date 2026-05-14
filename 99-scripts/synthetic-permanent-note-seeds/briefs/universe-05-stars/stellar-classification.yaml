@@ -1,0 +1,36 @@
+concept: Stellar Classification
+domain: astrophysics
+secondary_domains:
+- observational-astronomy
+- spectroscopy
+aliases:
+- spectral classification
+- MK classification
+broader:
+- observational stellar taxonomies
+related:
+- hertzsprung-russell diagram
+- main sequence star
+- spectroscopy
+confidence: high
+callouts:
+- type: definition
+  title: Stellar Classification
+  body: Stellar Classification is the assignment of stars to types based on the appearance
+    of their spectra, primarily through the Morgan–Keenan (MK) two-dimensional system
+    of spectral type (O, B, A, F, G, K, M, plus L, T, Y for cool dwarfs) and luminosity
+    class (I supergiants through V dwarfs).
+- type: key-claim
+  title: Key claim about Stellar Classification
+  body: Stellar Classification is essentially a measurement of effective temperature
+    (spectral type) and surface gravity / radius (luminosity class), and the empirical
+    sequence captured by MK classification matches the theoretical sequence of stars
+    in hydrostatic and radiative equilibrium — the agreement is one of the great quiet
+    successes of mid-20th-century astrophysics.
+- type: warning
+  title: Common pitfall regarding Stellar Classification
+  body: Stellar Classification is observational and based on spectral-line strengths;
+    modern surveys (Gaia, LAMOST) increasingly use direct atmospheric-parameter fits
+    (T_eff, log g, [Fe/H]), which are more physically meaningful but not perfectly
+    translatable to the categorical MK letters, and the two systems should not be
+    conflated.

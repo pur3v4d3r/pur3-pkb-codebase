@@ -1,0 +1,36 @@
+concept: Active Galactic Nucleus
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+- high-energy-astrophysics
+aliases:
+- AGN
+- active galactic nuclei
+broader:
+- active galaxies
+related:
+- supermassive black hole
+- quasar
+- blazar
+- accretion disk
+confidence: high
+callouts:
+- type: definition
+  title: Active Galactic Nucleus
+  body: An Active Galactic Nucleus is the compact, extremely luminous central region
+    of a galaxy whose energy output is powered by accretion onto a supermassive black
+    hole, with subclasses (Seyfert galaxies, quasars, blazars, radio galaxies) reflecting
+    differences in luminosity, jet activity, and viewing geometry.
+- type: key-claim
+  title: Key claim about Active Galactic Nucleus
+  body: An Active Galactic Nucleus's "unified model" attributes much of the apparent
+    diversity of AGN types to orientation effects of an obscuring torus around the
+    central engine, with type-1 (broad-line, face-on) and type-2 (narrow-line, edge-on)
+    Seyferts as the canonical example — a unification that explains a large fraction
+    of AGN phenomenology with a single underlying physical configuration.
+- type: warning
+  title: Common pitfall regarding Active Galactic Nucleus
+  body: An Active Galactic Nucleus unified model fails for some classes (changing-look
+    AGN, true type-2 systems with intrinsic absence of broad-line regions); treating
+    orientation as the universal explanation for AGN type misses real physical heterogeneity
+    in accretion-rate, luminosity, and host-galaxy properties.

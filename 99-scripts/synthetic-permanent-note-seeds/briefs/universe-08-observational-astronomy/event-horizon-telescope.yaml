@@ -1,0 +1,36 @@
+concept: Event Horizon Telescope
+domain: astronomy
+secondary_domains:
+- radio-astronomy
+- black-hole-physics
+aliases:
+- EHT
+broader:
+- very-long-baseline interferometric arrays
+related:
+- radio astronomy
+- supermassive black hole
+- milky way galaxy
+- interferometry
+confidence: high
+callouts:
+- type: definition
+  title: Event Horizon Telescope
+  body: The Event Horizon Telescope is a global very-long-baseline interferometric
+    array of millimetre-wave radio telescopes that synthesises an Earth-sized aperture
+    to achieve angular resolution sufficient to image the event-horizon-scale shadow
+    of nearby supermassive black holes — first M87* (2019) and then Sgr A* (2022).
+- type: key-claim
+  title: Key claim about Event Horizon Telescope
+  body: The Event Horizon Telescope's images of M87* and Sgr A* show the predicted
+    ring-and-shadow morphology of light bent by a Kerr-like black hole and the inferred
+    ring sizes are consistent with the masses of these supermassive black holes determined
+    independently by stellar dynamics — a quantitative confirmation of horizon-scale
+    general relativity.
+- type: warning
+  title: Common pitfall regarding Event Horizon Telescope
+  body: The Event Horizon Telescope's image reconstruction is non-trivial — the sparse
+    uv-coverage requires significant prior assumptions in the reconstruction algorithm
+    — and quantitative claims about deviations from Kerr predicted by the images depend
+    on these reconstruction priors, with several independent reanalyses producing
+    somewhat different ring sizes; the field is actively refining the systematics.

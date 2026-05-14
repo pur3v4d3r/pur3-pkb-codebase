@@ -1,0 +1,36 @@
+concept: Penrose Process
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- kerr-black-holes
+aliases:
+- Penrose mechanism
+broader:
+- energy-extraction mechanisms in general relativity
+related:
+- ergosphere
+- kerr metric
+- frame-dragging
+- blandford-znajek mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Penrose Process
+  body: The Penrose Process is the mechanism, identified by Roger Penrose in 1969,
+    by which a particle entering the ergosphere of a Kerr black hole can split such
+    that one fragment falls in with negative energy as measured at infinity and the
+    other escapes with greater energy than the original — extracting rotational energy
+    from the hole.
+- type: key-claim
+  title: Key claim about Penrose Process
+  body: The Penrose Process establishes that rotational energy is extractable from
+    a Kerr black hole in principle (up to ~29% of M c² for a maximally rotating hole),
+    demonstrating that black holes are not pure energy sinks and that "irreducible
+    mass" is the relevant invariant rather than total mass.
+- type: warning
+  title: Common pitfall regarding Penrose Process
+  body: The Penrose Process is astrophysically inefficient as originally formulated
+    — splitting requires highly relativistic relative motion of the fragments — and
+    the dominant mechanism for extracting black-hole rotational energy in nature is
+    the magnetohydrodynamic Blandford–Znajek process, not the original mechanical
+    Penrose process.

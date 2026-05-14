@@ -1,0 +1,38 @@
+concept: Matter Antimatter Asymmetry
+domain: physics
+secondary_domains:
+- particle-physics
+- cosmology
+aliases:
+- baryon asymmetry
+- baryon-antibaryon asymmetry
+broader:
+- open problems in cosmology
+related:
+- antimatter
+- baryogenesis
+- cp violation
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Matter Antimatter Asymmetry
+  body: Matter Antimatter Asymmetry is the observed dominance of matter over antimatter
+    in the present universe, quantified by the baryon-to-photon ratio η ≈ 6 × 10⁻¹⁰
+    — measured independently by big-bang-nucleosynthesis abundances and by the CMB
+    acoustic peak structure.
+- type: key-claim
+  title: Key claim about Matter Antimatter Asymmetry
+  body: Matter Antimatter Asymmetry, given a symmetric initial condition, requires
+    three Sakharov conditions (baryon-number violation, C and CP violation, departure
+    from thermal equilibrium) to be generated dynamically; the Standard Model satisfies
+    these only marginally (insufficient CP violation and electroweak phase transition
+    that is not strongly first-order), motivating beyond-Standard-Model baryogenesis
+    mechanisms.
+- type: warning
+  title: Common pitfall regarding Matter Antimatter Asymmetry
+  body: Matter Antimatter Asymmetry is sometimes described as evidence for "missing
+    antimatter" elsewhere in the universe; deep searches for antimatter-dominated
+    regions (gamma-ray signatures of matter-antimatter boundary annihilation) place
+    stringent limits — there is no cosmologically significant antimatter reservoir
+    hiding in the visible universe.

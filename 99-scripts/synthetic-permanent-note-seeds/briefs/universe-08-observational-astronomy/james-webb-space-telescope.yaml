@@ -1,0 +1,38 @@
+concept: James Webb Space Telescope
+domain: astronomy
+secondary_domains:
+- space-instrumentation
+aliases:
+- JWST
+- Webb
+broader:
+- orbital observatories
+related:
+- hubble space telescope
+- infrared astronomy
+- exoplanet
+- dark ages of the universe
+confidence: high
+callouts:
+- type: definition
+  title: James Webb Space Telescope
+  body: The James Webb Space Telescope is a 6.5-metre segmented infrared space telescope
+    operated by NASA / ESA / CSA, launched 2021 December and operating at the Sun–Earth
+    L2 Lagrange point, with sensitivity from 0.6 µm in the visible to 28 µm in the
+    mid-infrared and instruments optimised for high-redshift galaxy spectroscopy and
+    exoplanet atmospheric characterisation.
+- type: key-claim
+  title: Key claim about James Webb Space Telescope
+  body: The James Webb Space Telescope has, in its first ~3 years of operation, identified
+    candidate galaxies at z > 12 (the universe's first ~400 million years), spectroscopically
+    characterised exoplanet atmospheres in transit, and resolved stellar populations
+    in nearby galaxies at depths previously inaccessible — fulfilling its design goal
+    of probing the era of cosmic reionisation.
+- type: warning
+  title: Common pitfall regarding James Webb Space Telescope
+  body: The James Webb Space Telescope's earliest reports of "extreme high-redshift
+    galaxies" using photometric redshifts were partly walked back by spectroscopic
+    follow-up; first-year reports of unexpectedly massive z > 10 galaxies have, in
+    several cases, been revised downward in mass after better spectroscopy, illustrating
+    that JWST early-results headlines should be read with awareness of photometric-redshift
+    systematics.

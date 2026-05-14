@@ -1,0 +1,36 @@
+concept: Primordial Black Hole
+domain: astrophysics
+secondary_domains:
+- theoretical-cosmology
+- dark-matter-candidates
+aliases:
+- PBH
+broader:
+- black holes by formation channel
+related:
+- dark matter
+- hawking radiation
+- big bang theory
+- inflation
+confidence: high
+callouts:
+- type: definition
+  title: Primordial Black Hole
+  body: A Primordial Black Hole is a hypothetical black hole formed in the early universe
+    from direct gravitational collapse of large-amplitude density perturbations, rather
+    than from stellar collapse, with masses spanning many orders of magnitude depending
+    on the formation epoch.
+- type: key-claim
+  title: Key claim about Primordial Black Hole
+  body: A Primordial Black Hole population is one of the most studied dark-matter
+    candidates not requiring new particle physics; current constraints (microlensing,
+    CMB, dynamical heating, gravitational-wave background) exclude PBHs as the dominant
+    dark-matter component over wide mass ranges, leaving narrow open windows ~10⁻¹⁶
+    to ~10⁻¹⁴ M☉ and around ~10–100 M☉.
+- type: warning
+  title: Common pitfall regarding Primordial Black Hole
+  body: A Primordial Black Hole interpretation of LIGO's binary-black-hole detections
+    has been proposed but is not required by the data — they are equally consistent
+    with stellar-origin black holes — and observational claims of "PBH dark matter"
+    should be evaluated against the comprehensive constraint summaries before being
+    treated as evidence.

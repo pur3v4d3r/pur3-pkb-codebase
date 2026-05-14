@@ -1,0 +1,37 @@
+concept: Planck Satellite
+domain: space-exploration
+secondary_domains:
+- observational-cosmology
+- cmb-research
+aliases:
+- Planck mission
+- Planck observatory
+broader:
+- cosmic microwave background satellites
+related:
+- cosmic microwave background radiation
+- wmap mission
+- cosmological parameters
+- hubble's law
+confidence: high
+callouts:
+- type: definition
+  title: Planck Satellite
+  body: The Planck Satellite is the European Space Agency mission (operating 2009–2013)
+    that measured the cosmic microwave background's temperature and polarisation anisotropies
+    at ~5 arcminute resolution across nine frequency bands from 30 to 857 GHz, providing
+    the most precise CMB temperature map ever obtained and tightening cosmological-parameter
+    constraints to sub-percent precision.
+- type: key-claim
+  title: Key claim about Planck Satellite
+  body: The Planck Satellite's 2013, 2015, and 2018 data releases established the
+    precision-cosmology era — pinning down Ω_m, Ω_b, σ_8, n_s, and H_0 (in the ΛCDM
+    framework) to ~1% — and remain the gold-standard CMB measurements until any successor
+    mission (e.g., LiteBIRD) flies.
+- type: warning
+  title: Common pitfall regarding Planck Satellite
+  body: The Planck Satellite's CMB-derived value of the Hubble constant (~67.4 km/s/Mpc)
+    is in significant tension (~5σ) with local-distance-ladder values (~73 km/s/Mpc,
+    SH0ES), known as the Hubble tension; statements that "Planck has measured H_0"
+    must include the qualifier "assuming ΛCDM," because the tension remains unresolved
+    as of mid-2020s.

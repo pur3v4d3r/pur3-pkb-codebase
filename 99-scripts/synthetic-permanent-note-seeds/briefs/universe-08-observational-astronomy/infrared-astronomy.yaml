@@ -1,0 +1,35 @@
+concept: Infrared Astronomy
+domain: astronomy
+secondary_domains:
+- observational-astronomy
+aliases:
+- IR astronomy
+broader:
+- multi-wavelength astronomy
+related:
+- james webb space telescope
+- spitzer space telescope
+- dust extinction
+- exoplanet
+confidence: high
+callouts:
+- type: definition
+  title: Infrared Astronomy
+  body: Infrared Astronomy is the branch of observational astronomy operating at wavelengths
+    from ~0.7 µm to ~1 mm, exploiting the sensitivity of these wavelengths to thermal
+    emission from cool objects (planets, dust, evolved stars), to highly reddened
+    lines of sight where optical extinction is severe, and to high-redshift galaxies
+    whose visible-band emission is shifted into the IR.
+- type: key-claim
+  title: Key claim about Infrared Astronomy
+  body: Infrared Astronomy has been transformed by space-based platforms (IRAS, ISO,
+    Spitzer, Herschel, JWST) that bypass terrestrial atmospheric absorption, enabling
+    characterisation of the obscured star-formation history of the universe, dust-obscured
+    AGN, and the atmospheres of transiting exoplanets.
+- type: warning
+  title: Common pitfall regarding Infrared Astronomy
+  body: Infrared Astronomy ground-based observations are limited by atmospheric water-vapour
+    absorption to relatively narrow windows (J, H, K, L, M bands), and "infrared astronomy"
+    without further specification can refer to any of near-, mid-, or far-IR regimes
+    whose enabling technology, target science, and observational systematics differ
+    substantially.

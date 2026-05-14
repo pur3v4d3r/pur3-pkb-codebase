@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-08-observational-astronomy",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-08-observational-astronomy.md",
+    "notes": "Sixteen instruments, techniques, and observational methods that constitute\nthe empirical infrastructure of contemporary astronomy and astrophysics."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-08-observational-astronomy",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-08-observational-astronomy"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Spectroscopy",
+      "kebab": "spectroscopy",
+      "brief_path": "briefs/universe-08-observational-astronomy/spectroscopy.yaml",
+      "expected_seed_filename": "spectroscopy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Parallax",
+      "kebab": "parallax",
+      "brief_path": "briefs/universe-08-observational-astronomy/parallax.yaml",
+      "expected_seed_filename": "parallax-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Standard Candle",
+      "kebab": "standard-candle",
+      "brief_path": "briefs/universe-08-observational-astronomy/standard-candle.yaml",
+      "expected_seed_filename": "standard-candle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cepheid Variable",
+      "kebab": "cepheid-variable",
+      "brief_path": "briefs/universe-08-observational-astronomy/cepheid-variable.yaml",
+      "expected_seed_filename": "cepheid-variable-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hubble Space Telescope",
+      "kebab": "hubble-space-telescope",
+      "brief_path": "briefs/universe-08-observational-astronomy/hubble-space-telescope.yaml",
+      "expected_seed_filename": "hubble-space-telescope-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "James Webb Space Telescope",
+      "kebab": "james-webb-space-telescope",
+      "brief_path": "briefs/universe-08-observational-astronomy/james-webb-space-telescope.yaml",
+      "expected_seed_filename": "james-webb-space-telescope-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Radio Astronomy",
+      "kebab": "radio-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/radio-astronomy.yaml",
+      "expected_seed_filename": "radio-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Infrared Astronomy",
+      "kebab": "infrared-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/infrared-astronomy.yaml",
+      "expected_seed_filename": "infrared-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "X Ray Astronomy",
+      "kebab": "x-ray-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/x-ray-astronomy.yaml",
+      "expected_seed_filename": "x-ray-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gravitational Wave Astronomy",
+      "kebab": "gravitational-wave-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/gravitational-wave-astronomy.yaml",
+      "expected_seed_filename": "gravitational-wave-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Multi Messenger Astronomy",
+      "kebab": "multi-messenger-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/multi-messenger-astronomy.yaml",
+      "expected_seed_filename": "multi-messenger-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Event Horizon Telescope",
+      "kebab": "event-horizon-telescope",
+      "brief_path": "briefs/universe-08-observational-astronomy/event-horizon-telescope.yaml",
+      "expected_seed_filename": "event-horizon-telescope-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Adaptive Optics",
+      "kebab": "adaptive-optics",
+      "brief_path": "briefs/universe-08-observational-astronomy/adaptive-optics.yaml",
+      "expected_seed_filename": "adaptive-optics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Interferometry",
+      "kebab": "interferometry",
+      "brief_path": "briefs/universe-08-observational-astronomy/interferometry.yaml",
+      "expected_seed_filename": "interferometry-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Doppler Effect In Astronomy",
+      "kebab": "doppler-effect-in-astronomy",
+      "brief_path": "briefs/universe-08-observational-astronomy/doppler-effect-in-astronomy.yaml",
+      "expected_seed_filename": "doppler-effect-in-astronomy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Photometry",
+      "kebab": "photometry",
+      "brief_path": "briefs/universe-08-observational-astronomy/photometry.yaml",
+      "expected_seed_filename": "photometry-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

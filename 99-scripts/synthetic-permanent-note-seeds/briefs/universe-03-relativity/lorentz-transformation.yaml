@@ -1,0 +1,35 @@
+concept: Lorentz Transformation
+domain: physics
+secondary_domains:
+- special-relativity
+- mathematical-physics
+aliases:
+- Lorentz boost
+- Lorentz transformations
+broader:
+- coordinate transformations
+related:
+- special relativity
+- time dilation
+- length contraction
+- minkowski space-time
+confidence: high
+callouts:
+- type: definition
+  title: Lorentz Transformation
+  body: The Lorentz Transformation is the linear coordinate transformation between
+    inertial frames in special relativity that preserves the Minkowski spacetime interval
+    and reduces to the Galilean transformation in the limit v ≪ c, parameterised by
+    the Lorentz factor γ = 1/√(1 − v²/c²).
+- type: key-claim
+  title: Key claim about Lorentz Transformation
+  body: The Lorentz Transformation is the unique transformation (up to rotations and
+    translations) that satisfies the two postulates of special relativity, and from
+    it all of SR's kinematic predictions — time dilation, length contraction, relativity
+    of simultaneity, velocity addition — derive as algebraic consequences.
+- type: warning
+  title: Common pitfall regarding Lorentz Transformation
+  body: The Lorentz Transformation is sometimes presented as if it generates physical
+    effects on objects; the better view is that it relates the coordinate descriptions
+    used by different inertial observers, and the "effects" it predicts are how the
+    same physical events appear in different inertial frames.

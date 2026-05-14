@@ -1,0 +1,37 @@
+concept: Wolf Rayet Star
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- massive-stars
+aliases:
+- WR star
+- Wolf–Rayet
+broader:
+- evolved massive stars
+related:
+- main sequence star
+- supernova
+- core collapse supernova
+- stellar wind
+confidence: high
+callouts:
+- type: definition
+  title: Wolf Rayet Star
+  body: A Wolf Rayet Star is a massive evolved star (initial mass ≳ 25 M☉) that has
+    shed its outer hydrogen envelope through powerful stellar winds (mass-loss rates
+    ~10⁻⁵ M☉/yr) and now exposes hot helium-burning or carbon-oxygen layers, producing
+    characteristic broad emission lines of helium, nitrogen (WN type), or carbon (WC
+    type).
+- type: key-claim
+  title: Key claim about Wolf Rayet Star
+  body: A Wolf Rayet Star is the immediate progenitor of Type Ib/c (stripped-envelope)
+    core-collapse supernovae, and the quantitative agreement between WR-star number
+    densities, mass-loss rates, and SN Ib/c rates closes the late-life evolutionary
+    cycle of massive stars at first-order accuracy.
+- type: warning
+  title: Common pitfall regarding Wolf Rayet Star
+  body: A Wolf Rayet Star mass-loss rate is strongly dependent on metallicity (winds
+    are radiation-driven through metal absorption lines); applying solar-metallicity
+    WR mass-loss rates to low-metallicity systems (early universe, dwarf galaxies)
+    overpredicts envelope stripping and underpredicts the production of long-duration
+    GRB progenitors that may require retention of significant angular momentum.

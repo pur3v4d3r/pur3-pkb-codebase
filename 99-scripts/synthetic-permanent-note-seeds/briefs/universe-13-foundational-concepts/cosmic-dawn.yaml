@@ -1,0 +1,38 @@
+concept: Cosmic Dawn
+domain: physics
+secondary_domains:
+- cosmology
+- extragalactic-astronomy
+aliases:
+- first light
+- cosmic dawn era
+broader:
+- cosmological epochs
+related:
+- dark ages of the universe
+- reionization
+- james webb space telescope
+- population iii stars
+confidence: high
+callouts:
+- type: definition
+  title: Cosmic Dawn
+  body: Cosmic Dawn is the cosmic epoch (~150–500 Myr after the Big Bang, redshifts
+    z ≈ 10–30) during which the first stars (Population III), the first galaxies,
+    and the first accreting black holes formed, ending the cosmic dark ages and beginning
+    the process of reionisation that completed by z ≈ 6.
+- type: key-claim
+  title: Key claim about Cosmic Dawn
+  body: Cosmic Dawn is an observationally emerging epoch, with JWST detections of
+    luminous galaxies at z > 12 (cosmic age < 400 Myr) and the EDGES claimed 21-cm
+    absorption signal at z ≈ 17 (still controversial after non-detection by SARAS-3)
+    providing the first observational glimpses; the SKA-1 / -2 and the planned LuSEE-Night
+    (lunar far-side 21-cm) facilities are designed to characterise cosmic dawn in
+    detail.
+- type: warning
+  title: Common pitfall regarding Cosmic Dawn
+  body: Cosmic Dawn observations from JWST are sensitive to photometric-redshift systematics
+    — early "z > 14" candidates have been substantially revised downward following
+    spectroscopic follow-up — and the claimed EDGES 21-cm absorption signal (Bowman
+    et al 2018) has not been confirmed by SARAS-3, leaving the existence of a strong
+    absorption signal at cosmic dawn observationally unsettled.

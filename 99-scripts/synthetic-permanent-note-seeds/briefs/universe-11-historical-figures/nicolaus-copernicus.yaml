@@ -1,0 +1,36 @@
+concept: Nicolaus Copernicus
+domain: history-of-science
+secondary_domains:
+- history-of-astronomy
+aliases:
+- Copernicus
+broader:
+- founders of modern astronomy
+related:
+- galileo galilei
+- johannes kepler
+- copernican principle
+- scientific revolution
+confidence: high
+callouts:
+- type: definition
+  title: Nicolaus Copernicus
+  body: Nicolaus Copernicus (1473–1543) was the Polish Renaissance astronomer whose
+    De revolutionibus orbium coelestium (1543) advanced the heliocentric model of
+    the Solar System — the Sun at the centre with the Earth as one of the planets
+    — challenging the Ptolemaic geocentric system that had dominated Western astronomy
+    for fourteen centuries.
+- type: key-claim
+  title: Key claim about Nicolaus Copernicus
+  body: Nicolaus Copernicus's heliocentric model marked the conceptual beginning of
+    the scientific revolution and inspired the modern "Copernican principle" that
+    the Earth (and humanity) does not occupy a privileged position in the universe
+    — a metaphysical heuristic that shapes contemporary cosmological reasoning.
+- type: warning
+  title: Common pitfall regarding Nicolaus Copernicus
+  body: Nicolaus Copernicus's system retained circular orbits and epicycles (modified
+    Ptolemaic machinery) and was not observationally superior to the Ptolemaic system
+    at the time of its publication; the heliocentric model became empirically preferred
+    only after Kepler's elliptical orbits and Galileo's telescopic observations decades
+    later, and the framing of De revolutionibus as immediately empirically superior
+    misrepresents the intellectual trajectory.

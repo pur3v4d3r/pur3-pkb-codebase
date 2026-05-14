@@ -1,0 +1,38 @@
+concept: Holographic Principle
+domain: physics
+secondary_domains:
+- theoretical-physics
+- quantum-gravity
+aliases:
+- holography
+- holographic conjecture
+broader:
+- conjectured principles of quantum gravity
+related:
+- ads-cft correspondence
+- black hole information paradox
+- hawking radiation
+- quantum gravity
+confidence: high
+callouts:
+- type: definition
+  title: Holographic Principle
+  body: The Holographic Principle is the conjecture (Hooft 1993, Susskind 1995) that
+    the information content of a region of space with gravity is fully encoded on
+    the region's boundary surface area — measured in Planck-area units divided by
+    4 — generalising the Bekenstein–Hawking entropy bound for black holes to all gravitating
+    regions.
+- type: key-claim
+  title: Key claim about Holographic Principle
+  body: The Holographic Principle is concretely realised in the AdS/CFT correspondence
+    (Maldacena 1997), in which a quantum theory of gravity in (d+1)-dimensional anti-de
+    Sitter spacetime is exactly equivalent to a non-gravitational quantum field theory
+    living on the d-dimensional boundary — the most explicit and well-tested example
+    of holography in theoretical physics.
+- type: warning
+  title: Common pitfall regarding Holographic Principle
+  body: The Holographic Principle is firmly established only for asymptotically anti-de
+    Sitter spacetimes (AdS/CFT); its applicability to our universe (which is asymptotically
+    de Sitter) requires a "dS/CFT" or analogous duality whose status is much more
+    conjectural, and statements that "the universe is a hologram" overstate the empirical
+    and theoretical reach of the principle.

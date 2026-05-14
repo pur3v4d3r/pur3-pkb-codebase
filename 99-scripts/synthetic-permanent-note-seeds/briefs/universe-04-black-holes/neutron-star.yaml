@@ -1,0 +1,34 @@
+concept: Neutron Star
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- nuclear-physics
+aliases:
+- neutron stars
+broader:
+- compact stellar remnants
+related:
+- pulsar
+- magnetar
+- supernova
+- tolman-oppenheimer-volkoff limit
+confidence: high
+callouts:
+- type: definition
+  title: Neutron Star
+  body: A Neutron Star is a compact stellar remnant — typically ~1.4 solar masses
+    compressed into a ~10 km radius — formed by the gravitational collapse of a massive
+    star's core during a core-collapse supernova, supported against further collapse
+    by neutron degeneracy pressure and the strong nuclear interaction.
+- type: key-claim
+  title: Key claim about Neutron Star
+  body: A Neutron Star is the densest known object short of a black hole, with central
+    densities exceeding nuclear saturation density (~10¹⁷ kg/m³), and its equation
+    of state is constrained by mass measurements (now extending to ~2.1 M☉) and tidal-deformability
+    constraints from binary-neutron-star mergers like GW170817.
+- type: warning
+  title: Common pitfall regarding Neutron Star
+  body: A Neutron Star is not made entirely of neutrons; the outer layers contain
+    a crust of nuclei and free electrons, the interior likely transitions through
+    exotic phases (hyperons, quark matter), and the precise composition of the inner
+    core remains one of the open problems in nuclear astrophysics.

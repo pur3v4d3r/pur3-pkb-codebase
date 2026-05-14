@@ -1,0 +1,37 @@
+concept: Hubble Space Telescope
+domain: astronomy
+secondary_domains:
+- space-instrumentation
+aliases:
+- HST
+- Hubble
+broader:
+- orbital observatories
+related:
+- james webb space telescope
+- cepheid variable
+- hubble's law
+- observational astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Hubble Space Telescope
+  body: The Hubble Space Telescope is a 2.4-metre optical, ultraviolet, and near-infrared
+    space telescope launched by NASA in 1990, in low Earth orbit, with serviceable
+    instrumentation that has been upgraded across five astronaut servicing missions
+    and produced more than 1.6 million observations cited in over 20,000 refereed
+    papers.
+- type: key-claim
+  title: Key claim about Hubble Space Telescope
+  body: The Hubble Space Telescope established the modern extragalactic distance scale
+    through its Cepheid-distance-ladder programme (Key Project, SH0ES), discovered
+    and characterised dark energy in collaboration with ground-based supernova surveys,
+    and revealed the smallest and faintest galaxies known through its ultra-deep-field
+    observations.
+- type: warning
+  title: Common pitfall regarding Hubble Space Telescope
+  body: The Hubble Space Telescope is regularly described as the "best telescope ever
+    built"; while it has been transformative, the James Webb Space Telescope's larger
+    aperture and infrared sensitivity now exceed Hubble in many measurement regimes,
+    and uncritical "Hubble is the best" framings are out of date as of the JWST era
+    (2022 onward).

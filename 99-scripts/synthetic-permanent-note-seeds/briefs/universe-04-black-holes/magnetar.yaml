@@ -1,0 +1,34 @@
+concept: Magnetar
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- high-energy-astrophysics
+aliases:
+- magnetars
+broader:
+- neutron star
+related:
+- neutron star
+- pulsar
+- gamma-ray burst
+- fast radio burst
+confidence: high
+callouts:
+- type: definition
+  title: Magnetar
+  body: A Magnetar is a neutron star with a surface magnetic field of order 10¹⁰–10¹¹
+    T (10¹⁴–10¹⁵ G) — three to four orders of magnitude stronger than ordinary radio
+    pulsars — whose decay powers transient X-ray and soft-gamma-ray emission and starquake-driven
+    giant flares.
+- type: key-claim
+  title: Key claim about Magnetar
+  body: A Magnetar is now strongly implicated in at least some fast radio bursts (FRBs),
+    confirmed by the 2020 detection of an FRB-like burst from the Galactic magnetar
+    SGR 1935+2154, providing the first direct multi-wavelength link between a known
+    compact-object class and the FRB phenomenon.
+- type: warning
+  title: Common pitfall regarding Magnetar
+  body: A Magnetar accounts for only the brightest and rarest FRBs (the so-called
+    "soft gamma repeater" class); the bulk of cosmological FRBs may have other progenitor
+    classes, and treating magnetars as the universal FRB source overgeneralises from
+    a single confirmed Galactic event.

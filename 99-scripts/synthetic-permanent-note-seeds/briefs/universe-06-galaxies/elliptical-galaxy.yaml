@@ -1,0 +1,34 @@
+concept: Elliptical Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-morphology
+aliases:
+- elliptical galaxies
+- early-type galaxies
+broader:
+- galaxy morphological types
+related:
+- galaxy merger
+- hubble sequence
+- galaxy cluster
+- dwarf galaxy
+confidence: high
+callouts:
+- type: definition
+  title: Elliptical Galaxy
+  body: An Elliptical Galaxy is a galaxy with a smooth, ellipsoidal stellar distribution
+    dominated by older red stars, little ongoing star formation, and dynamically supported
+    by velocity dispersion rather than ordered rotation; classified by Hubble as E0–E7
+    by projected ellipticity.
+- type: key-claim
+  title: Key claim about Elliptical Galaxy
+  body: An Elliptical Galaxy is now understood as a late-stage product of the hierarchical
+    assembly of structure — in particular the "dry" merger of disc galaxies — with
+    the most massive ellipticals (cD galaxies in cluster centres) having grown chiefly
+    through accretion of smaller systems rather than in situ star formation.
+- type: warning
+  title: Common pitfall regarding Elliptical Galaxy
+  body: An Elliptical Galaxy is not "old" in any single-population sense; modern integral-field
+    spectroscopy reveals stellar populations of varied ages, kinematic substructure,
+    and embedded disc components, and treating ellipticals as homogeneous "red and
+    dead" systems oversimplifies the now-recognised heterogeneity within the class.

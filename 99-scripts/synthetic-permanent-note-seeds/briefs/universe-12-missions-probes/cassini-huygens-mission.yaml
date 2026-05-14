@@ -1,0 +1,39 @@
+concept: Cassini Huygens Mission
+domain: space-exploration
+secondary_domains:
+- planetary-science
+- astrobiology
+aliases:
+- Cassini
+- Cassini-Huygens
+broader:
+- outer-solar-system planetary missions
+related:
+- voyager program
+- new horizons mission
+- exoplanet
+- astrobiology
+confidence: high
+callouts:
+- type: definition
+  title: Cassini Huygens Mission
+  body: The Cassini Huygens Mission is the NASA / ESA / ASI joint orbiter and atmospheric
+    probe at Saturn (orbiter 2004–2017, ESA's Huygens probe landed on Titan 2005 January)
+    that conducted the most detailed planetary-system reconnaissance ever performed,
+    characterising Saturn's atmosphere, ring system, magnetosphere, and 60+ moons
+    across 13 years of orbital operations.
+- type: key-claim
+  title: Key claim about Cassini Huygens Mission
+  body: The Cassini Huygens Mission discovered active liquid-water plumes on Enceladus
+    erupting from a global subsurface ocean, characterised the methane-ethane lakes
+    and rivers of Titan, and revealed the dynamical structure of Saturn's rings —
+    establishing Enceladus and Titan as the leading astrobiological targets in the
+    outer Solar System for future missions.
+- type: warning
+  title: Common pitfall regarding Cassini Huygens Mission
+  body: The Cassini Huygens Mission ended deliberately in the 2017 September Grand
+    Finale "death dive" into Saturn's atmosphere — chosen to prevent any future contamination
+    of Enceladus or Titan by an out-of-control spacecraft — and there is no currently
+    approved successor mission to Saturn or its moons; the proposed Dragonfly mission
+    (NASA New Frontiers, planned for Titan launch in 2028) will not arrive at Titan
+    until ~2034, leaving a long gap in Saturn-system exploration.

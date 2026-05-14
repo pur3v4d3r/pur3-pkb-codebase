@@ -1,0 +1,35 @@
+concept: M Theory
+domain: physics
+secondary_domains:
+- theoretical-physics
+- string-theory
+aliases:
+- M-theory
+broader:
+- string theory
+related:
+- string theory
+- supersymmetry
+- quantum gravity
+- multiverse
+confidence: high
+callouts:
+- type: definition
+  title: M Theory
+  body: M Theory is the conjectured eleven-dimensional theory whose various low-energy
+    and weak-coupling limits reproduce the five known consistent superstring theories
+    (Type I, Type IIA, Type IIB, Heterotic-O, Heterotic-E) plus eleven-dimensional
+    supergravity, unified into a single theory through a web of dualities identified
+    in the mid-1990s "second superstring revolution".
+- type: key-claim
+  title: Key claim about M Theory
+  body: M Theory is widely viewed as the leading candidate framework for unifying
+    the five superstring theories and offers the most-developed mathematical infrastructure
+    for quantum gravity available, even as its non-perturbative formulation remains
+    incomplete.
+- type: warning
+  title: Common pitfall regarding M Theory
+  body: M Theory has not been formulated as a complete dynamical theory — only its
+    low-energy and weak-coupling limits and its dualities are well-characterised —
+    and treating M-theory as if it were a finished theory whose predictions can be
+    derived overstates its present mathematical status.

@@ -1,0 +1,38 @@
+concept: Vera Rubin
+domain: history-of-science
+secondary_domains:
+- extragalactic-astronomy
+- dark-matter-research
+aliases:
+- Rubin
+- Vera Cooper Rubin
+broader:
+- twentieth-century observational astronomers
+related:
+- galactic rotation curve
+- dark matter
+- spiral galaxy
+- fritz zwicky
+confidence: high
+callouts:
+- type: definition
+  title: Vera Rubin
+  body: Vera Rubin (1928–2016) was the American astronomer whose precision optical-spectroscopic
+    measurements of galactic rotation curves through the 1970s and 1980s, with Kent
+    Ford and others, established that spiral galaxies' rotation curves remain flat
+    to large radii — providing the observational evidence that converted dark matter
+    from a fringe hypothesis to a mainstream cosmological component.
+- type: key-claim
+  title: Key claim about Vera Rubin
+  body: Vera Rubin's rotation-curve programme, by the early 1980s, had produced flat
+    rotation curves for dozens of spiral galaxies in a systematic and reproducible
+    way, and this body of evidence — together with X-ray observations of clusters
+    and gravitational-lensing data — moved the astronomical community to broad acceptance
+    of the existence of substantial non-luminous mass in galaxies.
+- type: warning
+  title: Common pitfall regarding Vera Rubin
+  body: Vera Rubin was famously not awarded a Nobel Prize despite the foundational
+    nature of her work — a frequently-cited example of the prize's gendered patterns
+    of recognition — and her death in 2016 made any future award impossible; the Vera
+    C. Rubin Observatory (formerly LSST) was named in her memory in 2019, a posthumous
+    institutional recognition.

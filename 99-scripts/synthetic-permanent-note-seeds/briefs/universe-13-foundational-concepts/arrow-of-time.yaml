@@ -1,0 +1,37 @@
+concept: Arrow Of Time
+domain: physics
+secondary_domains:
+- foundations-of-physics
+- cosmology
+aliases:
+- thermodynamic arrow
+- time's arrow
+broader:
+- foundational problems in physics
+related:
+- entropy in cosmology
+- second law of thermodynamics
+- big bang theory
+- causality in physics
+confidence: high
+callouts:
+- type: definition
+  title: Arrow Of Time
+  body: The Arrow Of Time is the observed asymmetry between past and future in macroscopic
+    physical processes — entropy increases, causation propagates forward, memory accumulates,
+    biological organisms age — despite the time-reversal symmetry (or near-symmetry)
+    of the underlying microscopic laws of physics.
+- type: key-claim
+  title: Key claim about Arrow Of Time
+  body: 'The Arrow Of Time appears to derive ultimately from the cosmological initial
+    condition: the universe began in a state of extraordinarily low entropy (the "past
+    hypothesis," Boltzmann–Penrose), and the second law''s monotonic increase of entropy
+    is then a statistical consequence of the asymmetry between this special initial
+    state and the high-entropy generic states the universe evolves toward.'
+- type: warning
+  title: Common pitfall regarding Arrow Of Time
+  body: The Arrow Of Time is sometimes presented as a fundamental fact about time
+    itself; the more rigorous view is that microscopic laws are essentially time-symmetric
+    and the apparent arrow is a statistical-mechanical consequence of cosmological
+    initial conditions — a distinction important in foundations-of-physics discussions
+    and routinely conflated in popular accounts.

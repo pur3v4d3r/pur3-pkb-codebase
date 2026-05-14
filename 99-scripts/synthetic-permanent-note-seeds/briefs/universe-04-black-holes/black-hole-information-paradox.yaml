@@ -1,0 +1,35 @@
+concept: Black Hole Information Paradox
+domain: astrophysics
+secondary_domains:
+- quantum-gravity
+- black-hole-thermodynamics
+aliases:
+- information paradox
+- Hawking paradox
+broader:
+- open problems in quantum gravity
+related:
+- hawking radiation
+- black hole
+- no-hair theorem
+- holographic principle
+confidence: high
+callouts:
+- type: definition
+  title: Black Hole Information Paradox
+  body: The Black Hole Information Paradox is the apparent conflict, sharpened by
+    Hawking's 1976 analysis, between unitary quantum mechanics — which preserves information
+    — and Hawking's calculation that black-hole evaporation produces purely thermal
+    radiation, which would erase the information of what fell in.
+- type: key-claim
+  title: Key claim about Black Hole Information Paradox
+  body: The Black Hole Information Paradox forced theorists to take seriously the
+    holographic principle, AdS/CFT duality, and recent calculations of the Page curve
+    via replica wormholes, all of which suggest that information is preserved in evaporation
+    but the mechanism remains under active development.
+- type: warning
+  title: Common pitfall regarding Black Hole Information Paradox
+  body: The Black Hole Information Paradox is sometimes presented as resolved (by
+    AdS/CFT or by the Page curve calculations); these are major progress within particular
+    theoretical frameworks, but no fully model-independent resolution exists, and
+    the "resolution" depends on which framework one accepts as final.

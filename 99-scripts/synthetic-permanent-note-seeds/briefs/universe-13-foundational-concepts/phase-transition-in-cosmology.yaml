@@ -1,0 +1,38 @@
+concept: Phase Transition In Cosmology
+domain: physics
+secondary_domains:
+- early-universe-cosmology
+- particle-cosmology
+aliases:
+- cosmological phase transition
+broader:
+- early-universe phenomena
+related:
+- symmetry breaking
+- baryogenesis
+- electroweak phase transition
+- cosmic string
+confidence: high
+callouts:
+- type: definition
+  title: Phase Transition In Cosmology
+  body: A Phase Transition In Cosmology is a change in the ground state of a quantum
+    field as the universe cooled through a critical temperature in the early universe
+    — the QCD chiral / confinement transition at ~150 MeV (~10⁻⁴ s), the electroweak
+    transition at ~160 GeV (~10⁻¹¹ s), and possibly higher-energy GUT-scale transitions
+    at 10¹⁵–10¹⁶ GeV — typically associated with spontaneous symmetry breaking.
+- type: key-claim
+  title: Key claim about Phase Transition In Cosmology
+  body: A Phase Transition In Cosmology of strongly first-order type produces relic
+    gravitational waves, possibly observable today in the millihertz band by LISA,
+    and the electroweak phase transition in particular is a candidate site for electroweak
+    baryogenesis — making the order and dynamics of early-universe phase transitions
+    a target of substantial theoretical and observational interest.
+- type: warning
+  title: Common pitfall regarding Phase Transition In Cosmology
+  body: A Phase Transition In Cosmology in the Standard Model is now known to be a
+    smooth crossover for both the QCD and electroweak transitions (not first-order),
+    removing the Standard Model as a viable site for electroweak baryogenesis; results
+    derived from old assumptions of strongly first-order Standard-Model transitions
+    are obsolete and require beyond-Standard-Model physics to recover the original
+    conclusions.

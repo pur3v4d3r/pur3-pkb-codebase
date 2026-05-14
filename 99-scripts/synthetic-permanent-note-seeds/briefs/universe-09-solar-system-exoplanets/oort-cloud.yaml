@@ -1,0 +1,35 @@
+concept: Oort Cloud
+domain: planetary-science
+secondary_domains:
+- solar-system
+- planetary-science
+aliases:
+- Öpik–Oort cloud
+broader:
+- solar-system small-body reservoirs
+related:
+- kuiper belt
+- comet
+- solar system
+confidence: high
+callouts:
+- type: definition
+  title: Oort Cloud
+  body: The Oort Cloud is the hypothesised spherical reservoir of icy planetesimals
+    at heliocentric distances of ~2,000 to ~200,000 AU (the outer boundary marking
+    the edge of the Sun's gravitational dominance), proposed (Oort 1950, Öpik 1932)
+    as the source of long-period comets and inferred from the orbital element distribution
+    of the cometary population.
+- type: key-claim
+  title: Key claim about Oort Cloud
+  body: The Oort Cloud is the inferred source of long-period and isotropically-arriving
+    comets, and dynamical models attribute its formation to outward scattering of
+    icy planetesimals during the early Solar System's giant-planet migration phase,
+    followed by gravitational perturbations from passing stars and the Galactic tide.
+- type: warning
+  title: Common pitfall regarding Oort Cloud
+  body: The Oort Cloud has never been directly observed — its objects are too distant
+    and too small to be detected with current technology except when perturbed onto
+    sun-grazing orbits — so all quantitative claims about its mass, radial profile,
+    and population are model-inferred from comet-flux statistics rather than directly
+    measured, and these models remain uncertain at the order-of-magnitude level.

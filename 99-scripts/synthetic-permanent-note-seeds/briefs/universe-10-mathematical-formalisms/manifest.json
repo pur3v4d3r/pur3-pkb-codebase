@@ -1,0 +1,102 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-10-mathematical-formalisms",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-10-mathematical-formalisms.md",
+    "notes": "Thirteen mathematical structures and formalisms that constitute the\ntechnical language of theoretical physics and general relativity."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-10-mathematical-formalisms",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-10-mathematical-formalisms"
+  },
+  "counts": {
+    "parsed": 13,
+    "accepted": 13,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Tensor Calculus",
+      "kebab": "tensor-calculus",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/tensor-calculus.yaml",
+      "expected_seed_filename": "tensor-calculus-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Differential Geometry",
+      "kebab": "differential-geometry",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/differential-geometry.yaml",
+      "expected_seed_filename": "differential-geometry-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Riemannian Geometry",
+      "kebab": "riemannian-geometry",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/riemannian-geometry.yaml",
+      "expected_seed_filename": "riemannian-geometry-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Group Theory In Physics",
+      "kebab": "group-theory-in-physics",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/group-theory-in-physics.yaml",
+      "expected_seed_filename": "group-theory-in-physics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gauge Theory",
+      "kebab": "gauge-theory",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/gauge-theory.yaml",
+      "expected_seed_filename": "gauge-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lie Algebra",
+      "kebab": "lie-algebra",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/lie-algebra.yaml",
+      "expected_seed_filename": "lie-algebra-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Spinor",
+      "kebab": "spinor",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/spinor.yaml",
+      "expected_seed_filename": "spinor-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Metric Tensor",
+      "kebab": "metric-tensor",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/metric-tensor.yaml",
+      "expected_seed_filename": "metric-tensor-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Stress Energy Tensor",
+      "kebab": "stress-energy-tensor",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/stress-energy-tensor.yaml",
+      "expected_seed_filename": "stress-energy-tensor-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Action Principle",
+      "kebab": "action-principle",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/action-principle.yaml",
+      "expected_seed_filename": "action-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lagrangian Mechanics",
+      "kebab": "lagrangian-mechanics",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/lagrangian-mechanics.yaml",
+      "expected_seed_filename": "lagrangian-mechanics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hamiltonian Mechanics",
+      "kebab": "hamiltonian-mechanics",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/hamiltonian-mechanics.yaml",
+      "expected_seed_filename": "hamiltonian-mechanics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Noether's Theorem",
+      "kebab": "noethers-theorem",
+      "brief_path": "briefs/universe-10-mathematical-formalisms/noethers-theorem.yaml",
+      "expected_seed_filename": "noethers-theorem-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

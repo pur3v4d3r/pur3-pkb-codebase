@@ -1,0 +1,34 @@
+concept: Twin Paradox
+domain: physics
+secondary_domains:
+- special-relativity
+- philosophy-of-physics
+aliases:
+- clock paradox
+broader:
+- pedagogical paradoxes of special relativity
+related:
+- special relativity
+- time dilation
+- lorentz transformation
+- relativity of simultaneity
+confidence: high
+callouts:
+- type: definition
+  title: Twin Paradox
+  body: The Twin Paradox is the apparent paradox in special relativity that of two
+    twins, the one who travels at relativistic speed and returns will be younger than
+    the one who stayed home — apparently violating the symmetry between inertial frames
+    that special relativity asserts.
+- type: key-claim
+  title: Key claim about Twin Paradox
+  body: The Twin Paradox dissolves once one notes that the travelling twin is not
+    in a single inertial frame for the round trip — the turn-around requires acceleration,
+    which breaks the symmetry — and the asymmetric ageing then follows directly from
+    integrating the proper time along each worldline.
+- type: warning
+  title: Common pitfall regarding Twin Paradox
+  body: The Twin Paradox is sometimes "resolved" by invoking general relativity for
+    the turn-around; this is unnecessary — special relativity handles accelerated
+    worldlines perfectly well via integration of proper time — and treating GR as
+    required for the resolution misrepresents the structure of the argument.

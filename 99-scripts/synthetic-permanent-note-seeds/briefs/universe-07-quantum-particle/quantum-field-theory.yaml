@@ -1,0 +1,36 @@
+concept: Quantum Field Theory
+domain: physics
+secondary_domains:
+- theoretical-physics
+- particle-physics
+aliases:
+- QFT
+- relativistic quantum field theory
+broader:
+- theoretical frameworks of fundamental physics
+related:
+- quantum mechanics
+- standard model of particle physics
+- gauge theory
+- vacuum fluctuations
+confidence: high
+callouts:
+- type: definition
+  title: Quantum Field Theory
+  body: Quantum Field Theory is the relativistic-quantum framework in which fundamental
+    degrees of freedom are quantum fields defined throughout spacetime, particles
+    arise as excitations of these fields, and interactions are mediated by gauge boson
+    exchange — providing the language of the Standard Model of particle physics.
+- type: key-claim
+  title: Key claim about Quantum Field Theory
+  body: Quantum Field Theory unifies special relativity and quantum mechanics, naturally
+    accommodates particle creation and annihilation, and predicts the anomalous magnetic
+    moment of the electron to twelve significant figures of agreement with experiment
+    — the most precise test of any physical theory.
+- type: warning
+  title: Common pitfall regarding Quantum Field Theory
+  body: Quantum Field Theory in its mathematically rigorous form (constructive QFT)
+    has been established only for a limited class of two- and three-dimensional models;
+    the four-dimensional theories used in particle physics rest on perturbative expansions
+    and renormalisation procedures whose mathematical status remains open, even as
+    their predictive success is overwhelming.

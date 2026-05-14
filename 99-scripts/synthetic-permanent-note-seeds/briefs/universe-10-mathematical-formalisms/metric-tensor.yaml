@@ -1,0 +1,38 @@
+concept: Metric Tensor
+domain: mathematical-physics
+secondary_domains:
+- differential-geometry
+- general-relativity
+aliases:
+- metric
+- g_μν
+broader:
+- tensor calculus
+related:
+- tensor calculus
+- riemannian geometry
+- einstein field equations
+- schwarzschild metric
+confidence: high
+callouts:
+- type: definition
+  title: Metric Tensor
+  body: The Metric Tensor g_μν is a symmetric, (in general relativity) signature-(−,+,+,+)
+    (or +,−,−,− under opposite convention) rank-2 tensor field on a manifold that
+    defines the infinitesimal squared interval ds² = g_μν dx^μ dx^ν — encoding the
+    geometry, distances, angles, causal structure, and (through its derivatives) the
+    gravitational dynamics.
+- type: key-claim
+  title: Key claim about Metric Tensor
+  body: The Metric Tensor is the fundamental dynamical variable of general relativity
+    — the field whose equations of motion are the Einstein field equations — and from
+    the metric one derives via tensor-calculus operations the Christoffel symbols,
+    the Riemann curvature tensor, the Ricci tensor, and the scalar curvature appearing
+    in Einstein's equations.
+- type: warning
+  title: Common pitfall regarding Metric Tensor
+  body: 'The Metric Tensor''s signature convention varies between texts: high-energy
+    physics conventionally uses (+,−,−,−) ("mostly minus"), general-relativity texts
+    use (−,+,+,+) ("mostly plus"); transcribing equations across sources without converting
+    signature can flip signs of energy expressions, time intervals, and field-equation
+    source terms in confusing ways.'

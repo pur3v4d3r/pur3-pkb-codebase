@@ -1,0 +1,33 @@
+concept: Big Rip
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+aliases:
+- Big Rip scenario
+- phantom dark energy fate
+broader:
+- cosmological end-state scenarios
+related:
+- heat death of the universe
+- big crunch
+- dark energy
+- quintessence
+confidence: high
+callouts:
+- type: definition
+  title: Big Rip
+  body: The Big Rip is the hypothesised end-state of the universe in which a "phantom"
+    dark energy with equation-of-state parameter w < −1 causes the expansion rate
+    to diverge in finite time, eventually tearing apart galaxies, stars, planets,
+    and finally atoms themselves.
+- type: key-claim
+  title: Key claim about Big Rip
+  body: The Big Rip is a strict prediction of any dark-energy model with persistent
+    w < −1, and current observational constraints on w (centred near −1 with ~5% precision)
+    make a Big Rip observationally allowed but not required.
+- type: warning
+  title: Common pitfall regarding Big Rip
+  body: The Big Rip requires phantom dark energy, which suffers from severe theoretical
+    problems — vacuum instability, ghost degrees of freedom, violation of the dominant
+    energy condition — so the scenario is observationally possible but theoretically
+    unloved, and treating it as a leading prediction overstates its standing.

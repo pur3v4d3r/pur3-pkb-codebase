@@ -1,0 +1,41 @@
+concept: Standard Model Of Particle Physics
+domain: cosmology
+secondary_domains:
+- particle-physics
+- quantum-field-theory
+aliases:
+- Standard Model
+- SM
+broader:
+- theories of fundamental matter
+related:
+- quantum field theory
+- higgs boson
+- quark
+- lepton
+- boson
+- fermion
+prerequisites:
+- quantum field theory
+- gauge theory
+confidence: high
+callouts:
+- type: definition
+  title: Standard Model Of Particle Physics
+  body: The Standard Model Of Particle Physics is the SU(3)×SU(2)×U(1) gauge quantum
+    field theory that describes the strong, weak, and electromagnetic interactions
+    and classifies all known elementary fermions (six quarks, six leptons), gauge
+    bosons (photon, W, Z, gluons), and the Higgs boson into a single internally consistent
+    framework.
+- type: key-claim
+  title: Key claim about Standard Model Of Particle Physics
+  body: The Standard Model Of Particle Physics is the most precisely tested theory
+    in the history of science — its predictions agree with collider data to 10⁻⁸ in
+    some channels — and yet it is known to be incomplete, with no place for gravity,
+    dark matter, neutrino masses (without extension), or the matter–antimatter asymmetry.
+- type: warning
+  title: Common pitfall regarding Standard Model Of Particle Physics
+  body: The Standard Model Of Particle Physics is sometimes described as "the theory
+    of everything"; it is not — it deliberately excludes gravity and is silent on
+    cosmological observations like dark matter and dark energy, and treating it as
+    a complete description of nature is a category error.

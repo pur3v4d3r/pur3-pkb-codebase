@@ -1,0 +1,34 @@
+concept: Geodesics
+domain: physics
+secondary_domains:
+- differential-geometry
+- general-relativity
+aliases:
+- geodesic curves
+broader:
+- structures of pseudo-Riemannian geometry
+related:
+- general relativity
+- curvature of space-time
+- equivalence principle
+- riemannian geometry
+confidence: high
+callouts:
+- type: definition
+  title: Geodesics
+  body: Geodesics are the locally length-extremising (or proper-time extremising)
+    curves on a (pseudo-)Riemannian manifold, generalising straight lines of Euclidean
+    space; in general relativity they describe the worldlines of freely-falling test
+    particles and light rays.
+- type: key-claim
+  title: Key claim about Geodesics
+  body: Geodesics in GR replace the Newtonian concept of "force-free motion in a straight
+    line," because in a curved spacetime the natural notion of "straight" is the geodesic
+    — gravity ceases to be a force and becomes the geometry of the paths free particles
+    follow.
+- type: warning
+  title: Common pitfall regarding Geodesics
+  body: Geodesics in pseudo-Riemannian geometry can be timelike, null, or spacelike,
+    and the distinction matters physically (massive particles, light, hypothetical
+    tachyons); statements about "the geodesic" without specifying causal type are
+    ambiguous and can lead to wrong conclusions.

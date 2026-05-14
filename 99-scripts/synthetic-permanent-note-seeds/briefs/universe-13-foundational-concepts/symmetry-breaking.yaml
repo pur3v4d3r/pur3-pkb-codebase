@@ -1,0 +1,39 @@
+concept: Symmetry Breaking
+domain: physics
+secondary_domains:
+- particle-physics
+- condensed-matter-physics
+aliases:
+- spontaneous symmetry breaking
+- SSB
+broader:
+- field-theoretic phenomena
+related:
+- gauge theory
+- higgs boson
+- phase transition in cosmology
+- group theory in physics
+confidence: high
+callouts:
+- type: definition
+  title: Symmetry Breaking
+  body: Symmetry Breaking is the phenomenon in which a system whose underlying laws
+    are invariant under a symmetry group settles into a ground state that is not invariant
+    under the full symmetry, reducing the effective symmetry of the low-energy physics
+    — distinguished into spontaneous (the laws retain the symmetry, the ground state
+    breaks it) and explicit (the symmetry is broken at the Lagrangian level).
+- type: key-claim
+  title: Key claim about Symmetry Breaking
+  body: Symmetry Breaking is the mechanism by which the Higgs field gives mass to
+    the W and Z gauge bosons (electroweak symmetry breaking), by which a uniform ferromagnet
+    aligns its spins below the Curie temperature, and by which cosmological phase
+    transitions in the early universe shaped the spectrum of subsequent physics —
+    making spontaneous symmetry breaking a central organising principle of modern
+    physics.
+- type: warning
+  title: Common pitfall regarding Symmetry Breaking
+  body: Symmetry Breaking in finite-volume systems is, strictly speaking, impossible
+    — the symmetry is restored by quantum tunnelling between the symmetry-broken vacua
+    — and the physical concept of spontaneous symmetry breaking emerges only in the
+    thermodynamic limit; statements about "symmetry breaking in finite systems" require
+    careful interpretation and frequently mislead in textbook treatments.

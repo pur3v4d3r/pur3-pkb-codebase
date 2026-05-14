@@ -1,0 +1,37 @@
+concept: Galaxy Merger
+domain: astrophysics
+secondary_domains:
+- galactic-dynamics
+- structure-formation
+aliases:
+- galaxy mergers
+- galactic collision
+broader:
+- galaxy interactions
+related:
+- elliptical galaxy
+- milky way galaxy
+- andromeda galaxy
+- supermassive black hole
+confidence: high
+callouts:
+- type: definition
+  title: Galaxy Merger
+  body: A Galaxy Merger is the gravitational coalescence of two or more galaxies,
+    ranging from minor mergers (mass ratio ≳ 4:1) that perturb the larger system's
+    morphology to major mergers (≲ 4:1) that can transform discs into ellipticals
+    and trigger central starbursts and AGN activity.
+- type: key-claim
+  title: Key claim about Galaxy Merger
+  body: A Galaxy Merger is the principal channel of mass assembly for massive galaxies
+    in hierarchical structure-formation models, and the observed correlation between
+    merger rate and AGN activity (and morphological-type evolution along the Hubble
+    sequence) is consistent with mergers being a dominant transformative process across
+    cosmic time.
+- type: warning
+  title: Common pitfall regarding Galaxy Merger
+  body: A Galaxy Merger does not in general involve stellar collisions — interstellar
+    distances are far larger than stellar diameters — and the dynamical interaction
+    is mediated by the global gravitational potentials, not by stellar-stellar encounters;
+    the popular framing of "colliding galaxies" as if stars themselves collide is
+    incorrect.

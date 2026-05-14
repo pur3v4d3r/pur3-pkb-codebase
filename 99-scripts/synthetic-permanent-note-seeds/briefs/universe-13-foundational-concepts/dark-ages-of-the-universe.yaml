@@ -1,0 +1,37 @@
+concept: Dark Ages Of The Universe
+domain: physics
+secondary_domains:
+- cosmology
+- observational-astronomy
+aliases:
+- cosmic dark ages
+broader:
+- cosmological epochs
+related:
+- reionization
+- cosmic dawn
+- james webb space telescope
+- recombination epoch
+confidence: high
+callouts:
+- type: definition
+  title: Dark Ages Of The Universe
+  body: The Dark Ages Of The Universe is the period between recombination (~370,000
+    years after the Big Bang) and the formation of the first luminous structures (~150–250
+    million years after the Big Bang), during which the universe contained neutral
+    hydrogen, the CMB photons had decoupled, and there was no source of significant
+    ultraviolet or visible radiation.
+- type: key-claim
+  title: Key claim about Dark Ages Of The Universe
+  body: The Dark Ages Of The Universe end at the appearance of the first Population
+    III stars and the onset of cosmic dawn, and the most direct observational probe
+    of the dark ages and their termination is redshifted 21-cm hydrogen-line emission
+    — the target of ongoing experiments (HERA, SKA, LOFAR) and the principal scientific
+    objective of next-generation low-frequency radio facilities.
+- type: warning
+  title: Common pitfall regarding Dark Ages Of The Universe
+  body: The Dark Ages Of The Universe are observationally inaccessible to optical
+    and infrared astronomy — there is no visible light to detect — and "dark ages"
+    claims based on deep imaging surveys (HST, JWST) are actually probing the cosmic
+    dawn and reionisation eras, not the dark ages proper; the popular framing that
+    "JWST sees the dark ages" misuses the technical terminology.

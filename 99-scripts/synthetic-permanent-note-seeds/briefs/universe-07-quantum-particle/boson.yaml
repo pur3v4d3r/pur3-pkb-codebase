@@ -1,0 +1,35 @@
+concept: Boson
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- bosons
+broader:
+- statistical-mechanics particle classes
+related:
+- fermion
+- gluon
+- photon
+- higgs boson
+confidence: high
+callouts:
+- type: definition
+  title: Boson
+  body: A Boson is a particle with integer spin obeying Bose–Einstein statistics,
+    characterised by symmetric multi-particle wavefunctions and the absence of the
+    Pauli exclusion principle, including the Standard-Model gauge bosons (photon,
+    W±, Z, gluons), the Higgs scalar, and composite particles like nuclei with even
+    mass number.
+- type: key-claim
+  title: Key claim about Boson
+  body: A Boson can occupy the same quantum state as other identical bosons in unlimited
+    numbers, enabling collective phenomena like Bose–Einstein condensation, superfluidity,
+    superconductivity, and laser coherence — phenomena that have no fermionic analogue
+    at fundamental level.
+- type: warning
+  title: Common pitfall regarding Boson
+  body: A Boson, when composite, is bosonic only at energies low enough that the constituent
+    fermionic substructure is not resolved — a He-4 atom is bosonic at ultracold temperatures
+    but its constituent electrons, protons, and neutrons remain fermions — and inferring
+    "bosonic statistics" from low-energy behaviour without checking energy scales
+    is occasionally misleading.

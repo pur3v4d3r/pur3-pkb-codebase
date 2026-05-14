@@ -1,0 +1,36 @@
+concept: Differential Geometry
+domain: mathematical-physics
+secondary_domains:
+- pure-mathematics
+- mathematical-physics
+aliases:
+- smooth-manifold geometry
+broader:
+- geometric foundations of modern physics
+related:
+- tensor calculus
+- riemannian geometry
+- gauge theory
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Differential Geometry
+  body: Differential Geometry is the branch of mathematics that studies smooth manifolds
+    — spaces locally diffeomorphic to Euclidean space — equipped with additional structures
+    (metrics, connections, curvature, fibre bundles), providing the rigorous foundation
+    for general relativity, gauge field theories, and modern theoretical physics generally.
+- type: key-claim
+  title: Key claim about Differential Geometry
+  body: Differential Geometry's apparatus of fibre bundles and connections (developed
+    by Cartan, Ehresmann, and others in the 20th century) gave Yang–Mills gauge theories
+    their natural mathematical expression, and the geometric perspective unifies general
+    relativity (a connection on the tangent bundle of spacetime) with gauge theory
+    (a connection on internal bundles).
+- type: warning
+  title: Common pitfall regarding Differential Geometry
+  body: Differential Geometry's notation varies substantially between physicists and
+    mathematicians (index notation vs abstract index notation vs differential-forms
+    notation), and translating between conventions is a non-trivial source of error;
+    readers crossing the physics–mathematics boundary should be alert to convention
+    mismatches before manipulating equations.

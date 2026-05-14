@@ -1,0 +1,156 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-04-black-holes",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-04-black-holes.md",
+    "notes": "Twenty-two concepts of black-hole physics and compact objects, spanning\nclassical geometry (event horizon, Schwarzschild radius), quantum-gravitational\npredictions (Hawking radiation, information paradox), the astrophysical\ntaxonomy of compact remnants, and exotic theoretical objects."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-04-black-holes",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-04-black-holes"
+  },
+  "counts": {
+    "parsed": 22,
+    "accepted": 22,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Black Hole",
+      "kebab": "black-hole",
+      "brief_path": "briefs/universe-04-black-holes/black-hole.yaml",
+      "expected_seed_filename": "black-hole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Event Horizon",
+      "kebab": "event-horizon",
+      "brief_path": "briefs/universe-04-black-holes/event-horizon.yaml",
+      "expected_seed_filename": "event-horizon-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Schwarzschild Radius",
+      "kebab": "schwarzschild-radius",
+      "brief_path": "briefs/universe-04-black-holes/schwarzschild-radius.yaml",
+      "expected_seed_filename": "schwarzschild-radius-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hawking Radiation",
+      "kebab": "hawking-radiation",
+      "brief_path": "briefs/universe-04-black-holes/hawking-radiation.yaml",
+      "expected_seed_filename": "hawking-radiation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Black Hole Information Paradox",
+      "kebab": "black-hole-information-paradox",
+      "brief_path": "briefs/universe-04-black-holes/black-hole-information-paradox.yaml",
+      "expected_seed_filename": "black-hole-information-paradox-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Supermassive Black Hole",
+      "kebab": "supermassive-black-hole",
+      "brief_path": "briefs/universe-04-black-holes/supermassive-black-hole.yaml",
+      "expected_seed_filename": "supermassive-black-hole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Stellar Mass Black Hole",
+      "kebab": "stellar-mass-black-hole",
+      "brief_path": "briefs/universe-04-black-holes/stellar-mass-black-hole.yaml",
+      "expected_seed_filename": "stellar-mass-black-hole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Intermediate Mass Black Hole",
+      "kebab": "intermediate-mass-black-hole",
+      "brief_path": "briefs/universe-04-black-holes/intermediate-mass-black-hole.yaml",
+      "expected_seed_filename": "intermediate-mass-black-hole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Primordial Black Hole",
+      "kebab": "primordial-black-hole",
+      "brief_path": "briefs/universe-04-black-holes/primordial-black-hole.yaml",
+      "expected_seed_filename": "primordial-black-hole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Ergosphere",
+      "kebab": "ergosphere",
+      "brief_path": "briefs/universe-04-black-holes/ergosphere.yaml",
+      "expected_seed_filename": "ergosphere-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Accretion Disk",
+      "kebab": "accretion-disk",
+      "brief_path": "briefs/universe-04-black-holes/accretion-disk.yaml",
+      "expected_seed_filename": "accretion-disk-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Relativistic Jets",
+      "kebab": "relativistic-jets",
+      "brief_path": "briefs/universe-04-black-holes/relativistic-jets.yaml",
+      "expected_seed_filename": "relativistic-jets-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Neutron Star",
+      "kebab": "neutron-star",
+      "brief_path": "briefs/universe-04-black-holes/neutron-star.yaml",
+      "expected_seed_filename": "neutron-star-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Pulsar",
+      "kebab": "pulsar",
+      "brief_path": "briefs/universe-04-black-holes/pulsar.yaml",
+      "expected_seed_filename": "pulsar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Magnetar",
+      "kebab": "magnetar",
+      "brief_path": "briefs/universe-04-black-holes/magnetar.yaml",
+      "expected_seed_filename": "magnetar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "White Dwarf",
+      "kebab": "white-dwarf",
+      "brief_path": "briefs/universe-04-black-holes/white-dwarf.yaml",
+      "expected_seed_filename": "white-dwarf-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Chandrasekhar Limit",
+      "kebab": "chandrasekhar-limit",
+      "brief_path": "briefs/universe-04-black-holes/chandrasekhar-limit.yaml",
+      "expected_seed_filename": "chandrasekhar-limit-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quark Star",
+      "kebab": "quark-star",
+      "brief_path": "briefs/universe-04-black-holes/quark-star.yaml",
+      "expected_seed_filename": "quark-star-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Wormhole",
+      "kebab": "wormhole",
+      "brief_path": "briefs/universe-04-black-holes/wormhole.yaml",
+      "expected_seed_filename": "wormhole-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Penrose Process",
+      "kebab": "penrose-process",
+      "brief_path": "briefs/universe-04-black-holes/penrose-process.yaml",
+      "expected_seed_filename": "penrose-process-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "No Hair Theorem",
+      "kebab": "no-hair-theorem",
+      "brief_path": "briefs/universe-04-black-holes/no-hair-theorem.yaml",
+      "expected_seed_filename": "no-hair-theorem-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Tolman Oppenheimer Volkoff Limit",
+      "kebab": "tolman-oppenheimer-volkoff-limit",
+      "brief_path": "briefs/universe-04-black-holes/tolman-oppenheimer-volkoff-limit.yaml",
+      "expected_seed_filename": "tolman-oppenheimer-volkoff-limit-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

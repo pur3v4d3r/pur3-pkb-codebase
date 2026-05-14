@@ -1,0 +1,37 @@
+concept: Binary Star System
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- dynamics
+aliases:
+- binary star
+- double star
+- binary system
+broader:
+- stellar systems
+related:
+- main sequence star
+- neutron star
+- type ia supernova
+- gravitational waves
+confidence: high
+callouts:
+- type: definition
+  title: Binary Star System
+  body: A Binary Star System is a pair of stars gravitationally bound and orbiting
+    their common centre of mass, with separations spanning subastronomical-unit (close
+    binaries with mass transfer) to tens of thousands of AU (wide visual binaries),
+    and with components at potentially very different evolutionary phases.
+- type: key-claim
+  title: Key claim about Binary Star System
+  body: A Binary Star System provides the only direct route to dynamical stellar mass
+    measurements (via Kepler's laws applied to the orbit), making binaries indispensable
+    calibrators of the mass–luminosity relation, the mass–radius relation, and the
+    Chandrasekhar / TOV limits of compact-object endpoints.
+- type: warning
+  title: Common pitfall regarding Binary Star System
+  body: A Binary Star System with mass transfer (Algol systems, X-ray binaries, cataclysmic
+    variables) involves stellar physics qualitatively different from isolated single-star
+    evolution; transferring intuitions from single-star tracks to interacting binaries
+    silently produces wrong results, particularly for the formation channels of compact-object
+    mergers.

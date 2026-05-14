@@ -1,0 +1,35 @@
+concept: Asteroid Belt
+domain: planetary-science
+secondary_domains:
+- solar-system
+- planetary-science
+aliases:
+- main asteroid belt
+- main-belt asteroids
+broader:
+- solar-system small-body populations
+related:
+- kuiper belt
+- ceres
+- vesta
+- planetary formation
+confidence: high
+callouts:
+- type: definition
+  title: Asteroid Belt
+  body: The Asteroid Belt is the toroidal region between the orbits of Mars and Jupiter
+    (semi-major axes ~2.1–3.3 AU) populated by ~10⁶ catalogued small rocky and icy
+    bodies and dominated in mass by the dwarf planet Ceres (~⅓ of the belt's total
+    mass) and the large asteroids Vesta, Pallas, and Hygiea.
+- type: key-claim
+  title: Key claim about Asteroid Belt
+  body: The Asteroid Belt's existence is now understood as the result of Jupiter's
+    gravitational perturbations preventing the accretion of a planet at this orbital
+    distance, with Kirkwood gaps in the asteroid distribution at mean-motion resonances
+    with Jupiter providing direct dynamical fingerprints of this process.
+- type: warning
+  title: Common pitfall regarding Asteroid Belt
+  body: The Asteroid Belt is often described as densely populated; in fact its total
+    mass is only ~4% of the Moon's, and the mean spacing between large objects is
+    enormous — the trope of "navigating through a dense asteroid field" is dramatically
+    incorrect by orders of magnitude relative to the actual spatial density.

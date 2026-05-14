@@ -1,0 +1,34 @@
+concept: Frame Dragging
+domain: physics
+secondary_domains:
+- general-relativity
+aliases:
+- Lense-Thirring effect
+- gravitomagnetism
+broader:
+- predictions of general relativity
+related:
+- general relativity
+- kerr metric
+- equivalence principle
+- gravitational waves
+confidence: high
+callouts:
+- type: definition
+  title: Frame Dragging
+  body: Frame Dragging is the general-relativistic effect by which a rotating mass-energy
+    distribution drags the local inertial frames around with it, causing freely-falling
+    test bodies to acquire a nonzero angular velocity relative to distant stars even
+    at rest with respect to the rotating source.
+- type: key-claim
+  title: Key claim about Frame Dragging
+  body: Frame Dragging was directly measured by the Gravity Probe B mission (2011)
+    and earlier by laser ranging to the LAGEOS satellites, with results consistent
+    with general relativity at the few-percent level — confirming a quantitatively
+    non-trivial prediction unique to GR.
+- type: warning
+  title: Common pitfall regarding Frame Dragging
+  body: Frame Dragging is often described as if the rotating Earth literally pulls
+    space around it; the geometric interpretation is more accurate — the spacetime
+    metric outside a rotating source has off-diagonal components that couple to angular
+    motion of test bodies — and the dragging is not a force in the Newtonian sense.

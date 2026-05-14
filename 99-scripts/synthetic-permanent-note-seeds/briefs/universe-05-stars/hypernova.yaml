@@ -1,0 +1,34 @@
+concept: Hypernova
+domain: astrophysics
+secondary_domains:
+- high-energy-astrophysics
+- stellar-explosions
+aliases:
+- collapsar
+broader:
+- supernova subclasses
+related:
+- supernova
+- gamma-ray burst
+- core collapse supernova
+- black hole
+confidence: high
+callouts:
+- type: definition
+  title: Hypernova
+  body: A Hypernova is an exceptionally energetic core-collapse supernova — typically
+    with explosion energy ≳ 10⁴⁵ J, an order of magnitude above ordinary core-collapse
+    events — associated with the formation of a rapidly-rotating black hole and, in
+    many cases, with a long-duration gamma-ray burst.
+- type: key-claim
+  title: Key claim about Hypernova
+  body: A Hypernova is the leading progenitor model for long-duration gamma-ray bursts
+    via the collapsar mechanism (MacFadyen & Woosley), in which the rotating progenitor's
+    collapsing core launches a relativistic jet that punches through the stellar envelope
+    to produce both the GRB and an associated broad-line Type Ic supernova.
+- type: warning
+  title: Common pitfall regarding Hypernova
+  body: A Hypernova is observationally identified by unusual kinetic energy and broad-line
+    features, but the link to specific progenitor masses and rotation rates is model-dependent;
+    treating "hypernova" as a settled astrophysical class with sharp boundaries glosses
+    over genuine ongoing dispute about the progenitor population.

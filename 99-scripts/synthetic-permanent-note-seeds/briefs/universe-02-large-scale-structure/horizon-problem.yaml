@@ -1,0 +1,33 @@
+concept: Horizon Problem
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+aliases:
+- horizon puzzle
+broader:
+- problems of standard hot big bang cosmology
+related:
+- flatness problem
+- monopole problem
+- inflation
+- cosmic microwave background radiation
+confidence: high
+callouts:
+- type: definition
+  title: Horizon Problem
+  body: The Horizon Problem is the observation that regions of the CMB sky separated
+    by more than ~1° were not in causal contact at the time of recombination in standard
+    hot Big Bang cosmology, yet have the same temperature to one part in 10⁵ — a uniformity
+    the standard model cannot dynamically explain.
+- type: key-claim
+  title: Key claim about Horizon Problem
+  body: The Horizon Problem is solved by inflation, which places the present observable
+    universe inside a single causally-connected pre-inflationary patch; this resolution,
+    with the flatness problem, is one of the two principal motivations for the inflationary
+    paradigm.
+- type: warning
+  title: Common pitfall regarding Horizon Problem
+  body: The Horizon Problem is sometimes restated as "different parts of the sky are
+    at the same temperature, which is mysterious"; the quantitative content is sharper
+    than that — the standard FLRW past light cones do not overlap before recombination,
+    so there is no time available for thermalisation within the standard model.

@@ -1,0 +1,34 @@
+concept: Lepton
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- leptons
+broader:
+- fundamental fermions of the standard model
+related:
+- standard model of particle physics
+- neutrino
+- quark
+- electroweak interaction
+confidence: high
+callouts:
+- type: definition
+  title: Lepton
+  body: A Lepton is one of the six fundamental fermions of the Standard Model not
+    subject to the strong interaction — the electron, muon, and tau (charged leptons)
+    and their associated electron-, muon-, and tau-neutrinos — interacting only through
+    the electroweak and gravitational forces.
+- type: key-claim
+  title: Key claim about Lepton
+  body: A Lepton family appears to come in exactly three generations, a fact established
+    by the LEP measurement of the Z boson invisible width (constraining the number
+    of light active neutrino species to N_ν = 2.984 ± 0.008), so any fourth-generation
+    lepton must either be heavy or only weakly coupled.
+- type: warning
+  title: Common pitfall regarding Lepton
+  body: A Lepton flavour was historically thought to be exactly conserved (separately
+    for e, μ, τ); the discovery of neutrino oscillations established that lepton-flavour
+    violation occurs in the neutrino sector, and searches for charged-lepton-flavour
+    violation (μ → eγ, μ → 3e) probe physics beyond the Standard Model — old textbook
+    claims of strict lepton-flavour conservation should be read with this update.

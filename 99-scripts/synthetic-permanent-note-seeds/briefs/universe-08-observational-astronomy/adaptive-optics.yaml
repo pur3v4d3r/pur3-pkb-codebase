@@ -1,0 +1,35 @@
+concept: Adaptive Optics
+domain: astronomy
+secondary_domains:
+- observational-techniques
+- instrumentation
+aliases:
+- AO
+broader:
+- astronomical instrumentation techniques
+related:
+- interferometry
+- observational astronomy
+- gravitational lensing
+confidence: high
+callouts:
+- type: definition
+  title: Adaptive Optics
+  body: Adaptive Optics is the real-time correction of atmospheric-turbulence-induced
+    wavefront distortion using deformable mirrors driven by wavefront-sensor measurements
+    at kilohertz update rates, restoring near-diffraction-limited imaging at large
+    ground-based telescopes for natural- or laser-guide-star reference sources.
+- type: key-claim
+  title: Key claim about Adaptive Optics
+  body: Adaptive Optics has transformed ground-based optical and infrared astronomy
+    by enabling diffraction-limited imaging on 8–10 metre telescopes — competitive
+    with HST in resolution and exceeding it in collecting area — and has enabled dynamical-mass
+    measurements of the supermassive black hole at the Galactic Centre via tracking
+    of stellar orbits within ~0.01 arcsec of Sgr A*.
+- type: warning
+  title: Common pitfall regarding Adaptive Optics
+  body: Adaptive Optics performance degrades sharply with sky position (away from
+    the guide star), wavelength (worse at shorter wavelengths), and air mass; "AO-corrected"
+    datasets should be evaluated for the sky region and Strehl ratio achieved, since
+    a quoted "diffraction-limited" image may apply only to a small isoplanatic patch
+    around the guide star.

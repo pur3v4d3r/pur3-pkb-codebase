@@ -1,0 +1,35 @@
+concept: Galaxy Cluster
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+- cosmology
+aliases:
+- galaxy clusters
+broader:
+- bound large-scale structures
+related:
+- large scale structure of the cosmos
+- dark matter
+- gravitational lensing
+- sunyaev-zeldovich effect
+confidence: high
+callouts:
+- type: definition
+  title: Galaxy Cluster
+  body: A Galaxy Cluster is a gravitationally bound system of typically hundreds to
+    thousands of galaxies embedded in a hot intracluster medium and a massive dark-matter
+    halo, with total masses ~10¹⁴–10¹⁵ M☉ and characteristic radii of a few Mpc —
+    the largest virialised structures in the universe.
+- type: key-claim
+  title: Key claim about Galaxy Cluster
+  body: A Galaxy Cluster's mass is dominated (~85%) by dark matter, with the intracluster
+    gas (~12%) and stars in galaxies (~3%) as minor components; this hierarchy was
+    definitively established by joint analyses of X-ray emission from the hot ICM,
+    weak gravitational lensing, and stellar light, and the Bullet Cluster (1E 0657-558)
+    provided the cleanest visualisation of the dark / luminous mass separation.
+- type: warning
+  title: Common pitfall regarding Galaxy Cluster
+  body: A Galaxy Cluster's hydrostatic-equilibrium mass estimates from X-ray observations
+    consistently underestimate true masses by ~10–20% (the "hydrostatic mass bias")
+    because the ICM has non-thermal pressure support; ignoring this bias leads to
+    systematic errors in cluster-cosmology constraints on σ₈ and Ω_m.

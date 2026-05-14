@@ -1,0 +1,36 @@
+concept: No Hair Theorem
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- black-hole-physics
+aliases:
+- no-hair conjecture
+- uniqueness theorems for black holes
+broader:
+- theorems of classical general relativity
+related:
+- black hole
+- schwarzschild metric
+- kerr metric
+- black hole information paradox
+confidence: high
+callouts:
+- type: definition
+  title: No Hair Theorem
+  body: 'The No Hair Theorem is the family of uniqueness results in classical general
+    relativity establishing that any stationary, asymptotically flat black-hole solution
+    of the Einstein–Maxwell equations is fully characterised by just three externally
+    observable parameters: mass, electric charge, and angular momentum.'
+- type: key-claim
+  title: Key claim about No Hair Theorem
+  body: The No Hair Theorem makes black holes the simplest macroscopic objects in
+    nature classically — every other piece of structure (multipole moments, composition
+    memory) is shed during gravitational collapse and ringdown, leaving only the three
+    universal parameters.
+- type: warning
+  title: Common pitfall regarding No Hair Theorem
+  body: The No Hair Theorem applies to classical, vacuum, asymptotically flat solutions
+    of Einstein–Maxwell; it can fail when scalar fields, modified gravity, or non-trivial
+    topology are introduced, and ringdown observations are now being used to test
+    "no-hair" empirically by checking whether observed quasi-normal-mode frequencies
+    match the Kerr spectrum.

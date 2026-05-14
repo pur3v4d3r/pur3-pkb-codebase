@@ -1,0 +1,38 @@
+concept: Parker Solar Probe
+domain: space-exploration
+secondary_domains:
+- solar-physics
+- space-physics
+aliases:
+- Parker
+- PSP
+broader:
+- solar in-situ exploration missions
+related:
+- solar wind
+- coronal mass ejection
+- sun
+- heliosphere
+confidence: high
+callouts:
+- type: definition
+  title: Parker Solar Probe
+  body: The Parker Solar Probe is the NASA mission launched 2018 August to study the
+    Sun's corona and origins of the solar wind through a series of progressively closer
+    approaches to the Sun (perihelion ~6 R☉ ≈ 9.86 R☉ heliocentric distance after
+    Venus gravity assists), making it the closest human-made object to the Sun in
+    history and the first to enter the solar corona.
+- type: key-claim
+  title: Key claim about Parker Solar Probe
+  body: The Parker Solar Probe has provided the first in-situ measurements of the
+    corona itself (passing inside the Alfvén critical surface in 2021) and discovered
+    "switchbacks" — sudden reversals of the solar magnetic field — as a ubiquitous
+    feature of the young solar wind, providing constraints on coronal heating and
+    wind-acceleration mechanisms inaccessible to remote observation.
+- type: warning
+  title: Common pitfall regarding Parker Solar Probe
+  body: The Parker Solar Probe's in-situ data interpretation requires careful disentangling
+    of magnetohydrodynamic-turbulence and reconnection signatures, and the originally-claimed
+    "discovery" of switchbacks turned out to be a re-discovery of features previously
+    seen by Helios in the 1970s — the framing of switchbacks as a wholly new phenomenon
+    overstates the novelty relative to historical literature.

@@ -1,0 +1,33 @@
+concept: Brown Dwarf
+domain: astrophysics
+secondary_domains:
+- substellar-objects
+aliases:
+- brown dwarfs
+broader:
+- substellar objects
+related:
+- red dwarf
+- exoplanet
+- deuterium burning
+- gas giant
+confidence: high
+callouts:
+- type: definition
+  title: Brown Dwarf
+  body: A Brown Dwarf is a substellar object too low in mass (~13–80 Jupiter masses)
+    to sustain stable hydrogen-to-helium fusion in its core, but massive enough to
+    fuse deuterium (and, in the upper mass range, lithium) for a brief early-life
+    period — bridging the gap between giant planets and stars.
+- type: key-claim
+  title: Key claim about Brown Dwarf
+  body: A Brown Dwarf occupies a continuum with the most massive planets and the lowest-mass
+    stars, but the deuterium-burning threshold (~13 M_J) provides a physically-motivated
+    mass cut traditionally used to separate brown dwarfs from gas-giant planets at
+    the lower boundary.
+- type: warning
+  title: Common pitfall regarding Brown Dwarf
+  body: A Brown Dwarf is sometimes called a "failed star," but the binary classification
+    dwarf-vs-planet is increasingly recognised as a physically arbitrary cut — formation
+    channel (cloud collapse vs disc fragmentation) is the more defensible criterion
+    than mass alone, and the IAU is still refining the boundary.

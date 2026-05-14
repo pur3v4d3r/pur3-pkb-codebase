@@ -1,0 +1,40 @@
+concept: Conservation Of Energy
+domain: physics
+secondary_domains:
+- classical-mechanics
+- thermodynamics
+aliases:
+- energy conservation
+- first law of thermodynamics
+broader:
+- conservation laws
+related:
+- noether's theorem
+- mass energy equivalence
+- stress energy tensor
+- action principle
+confidence: high
+callouts:
+- type: definition
+  title: Conservation Of Energy
+  body: Conservation Of Energy is the principle that the total energy of an isolated
+    physical system remains constant over time, equivalent (via Noether's theorem)
+    to the time-translation invariance of the system's action and underlying the first
+    law of thermodynamics in its various formulations across mechanics, electromagnetism,
+    thermodynamics, and field theory.
+- type: key-claim
+  title: Key claim about Conservation Of Energy
+  body: Conservation Of Energy is among the most stringently tested principles in
+    physics — verified across regimes from particle physics (energy-momentum conservation
+    in scattering processes) through chemistry and macroscopic mechanics — and apparent
+    violations have always proved diagnostic of new physics (the prediction of the
+    neutrino by Pauli to preserve energy conservation in beta decay is a textbook
+    example).
+- type: warning
+  title: Common pitfall regarding Conservation Of Energy
+  body: Conservation Of Energy in its elementary global sense does not hold in cosmological
+    general relativity — the absence of a global timelike Killing vector in expanding
+    spacetimes means that the energy of the cosmological perfect-fluid component is
+    not in general conserved, with photons losing energy via cosmological redshift
+    the most familiar example — and statements that "energy is always conserved" require
+    qualification in cosmological contexts.

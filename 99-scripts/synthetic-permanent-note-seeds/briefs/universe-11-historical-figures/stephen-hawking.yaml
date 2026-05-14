@@ -1,0 +1,38 @@
+concept: Stephen Hawking
+domain: history-of-science
+secondary_domains:
+- theoretical-physics
+- black-hole-physics
+aliases:
+- Hawking
+broader:
+- twentieth-century theoretical physicists
+related:
+- black hole
+- hawking radiation
+- black hole information paradox
+- quantum gravity
+confidence: high
+callouts:
+- type: definition
+  title: Stephen Hawking
+  body: Stephen Hawking (1942–2018) was the English theoretical physicist whose work
+    on black-hole thermodynamics (the four laws of black-hole mechanics with Bardeen
+    and Carter, 1973), Hawking radiation (1974), and the no-boundary proposal in quantum
+    cosmology (with Hartle, 1983) established him as the most prominent figure in
+    late-20th-century gravitational physics.
+- type: key-claim
+  title: Key claim about Stephen Hawking
+  body: Stephen Hawking's prediction (1974) that black holes radiate thermally with
+    a temperature inversely proportional to mass — the eponymous Hawking radiation
+    — combined quantum field theory and general relativity in a way that has dominated
+    theoretical investigations of quantum gravity for half a century, with the resulting
+    information paradox remaining unresolved.
+- type: warning
+  title: Common pitfall regarding Stephen Hawking
+  body: Stephen Hawking's celebrity has occasionally outrun his scientific record;
+    while his core contributions (singularity theorems with Penrose, black-hole thermodynamics,
+    Hawking radiation) are foundational, his more speculative later work (the chronology
+    protection conjecture, the various "final theory" proposals) is not on the same
+    evidential footing, and popular accounts that conflate the two overstate the certainty
+    of the latter.

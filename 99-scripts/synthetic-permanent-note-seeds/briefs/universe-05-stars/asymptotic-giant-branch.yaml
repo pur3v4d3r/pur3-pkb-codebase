@@ -1,0 +1,34 @@
+concept: Asymptotic Giant Branch
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- AGB
+- AGB phase
+broader:
+- post-main-sequence stellar phases
+related:
+- red giant
+- planetary nebula
+- white dwarf
+- stellar nucleosynthesis
+confidence: high
+callouts:
+- type: definition
+  title: Asymptotic Giant Branch
+  body: The Asymptotic Giant Branch is the late stellar evolutionary phase of intermediate-mass
+    stars (~0.6–8 M☉) following core-helium exhaustion, characterised by alternating
+    helium-shell and hydrogen-shell burning (thermal pulses), strong mass loss through
+    stellar winds, and slow neutron capture (s-process) nucleosynthesis.
+- type: key-claim
+  title: Key claim about Asymptotic Giant Branch
+  body: The Asymptotic Giant Branch is the principal source of the s-process elements
+    (about half of the cosmic abundance of elements heavier than iron) and the dominant
+    dust factory of the late universe, driving the chemical and dust enrichment of
+    intermediate-age galactic populations.
+- type: warning
+  title: Common pitfall regarding Asymptotic Giant Branch
+  body: The Asymptotic Giant Branch involves complex hydrodynamic and convective phenomena
+    (third dredge-up, thermal pulses, hot-bottom burning) whose modelling carries
+    large parametric uncertainties; quoted AGB nucleosynthesis yields have factor-of-two
+    systematics that propagate into all chemical-evolution models that use them.

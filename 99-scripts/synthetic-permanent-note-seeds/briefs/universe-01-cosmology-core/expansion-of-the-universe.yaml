@@ -1,0 +1,38 @@
+concept: Expansion Of The Universe
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- general-relativity
+aliases:
+- cosmic expansion
+- metric expansion of space
+broader:
+- cosmological dynamics
+related:
+- hubble's law
+- redshift
+- dark energy
+- big bang theory
+- scale factor
+prerequisites:
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Expansion Of The Universe
+  body: Expansion Of The Universe is the increase over cosmic time of the metric distance
+    between unbound objects, encoded in general relativity as the time-dependence
+    of the FLRW scale factor and observed empirically as the Hubble–Lemaître relation
+    between redshift and distance.
+- type: key-claim
+  title: Key claim about Expansion Of The Universe
+  body: Expansion Of The Universe is a property of the spacetime metric itself, not
+    the motion of galaxies through a static space; this distinction explains why distant
+    galaxies can recede at apparent superluminal rates without violating special relativity,
+    which constrains only local motion.
+- type: warning
+  title: Common pitfall regarding Expansion Of The Universe
+  body: Expansion Of The Universe does not stretch gravitationally bound systems —
+    atoms, planets, stars, and galaxies do not expand — and reasoning that imagines
+    the cosmic expansion driving local objects apart misapplies a global metric property
+    to local dynamics.

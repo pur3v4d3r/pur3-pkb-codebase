@@ -1,0 +1,36 @@
+concept: Lie Algebra
+domain: mathematical-physics
+secondary_domains:
+- pure-mathematics
+- mathematical-physics
+aliases:
+- Lie algebras
+broader:
+- algebraic structures in physics
+related:
+- group theory in physics
+- gauge theory
+- supersymmetry
+- spinor
+confidence: high
+callouts:
+- type: definition
+  title: Lie Algebra
+  body: A Lie Algebra is a vector space equipped with an antisymmetric bilinear "bracket"
+    operation [·,·] satisfying the Jacobi identity, arising as the tangent space at
+    the identity of a Lie group and encoding the group's local (infinitesimal) structure
+    — with the brackets of generators determining the group's structure constants.
+- type: key-claim
+  title: Key claim about Lie Algebra
+  body: A Lie Algebra captures the local content of a Lie group, with the exponential
+    map providing a canonical correspondence between algebra elements and connected-component
+    group elements; the classification of simple Lie algebras (Cartan, Killing) into
+    the four infinite families (A_n, B_n, C_n, D_n) and five exceptional cases (G_2,
+    F_4, E_6, E_7, E_8) is one of the great achievements of 19th–20th century algebra.
+- type: warning
+  title: Common pitfall regarding Lie Algebra
+  body: A Lie Algebra does not in general determine the corresponding Lie group uniquely
+    — distinct global topologies (e.g., SU(2) vs SO(3), differing by a Z_2 quotient)
+    share the same Lie algebra — so a "gauge group" specified only by its algebra
+    leaves the global topology ambiguous, with consequences for matter-content quantisation
+    and instanton sectors.

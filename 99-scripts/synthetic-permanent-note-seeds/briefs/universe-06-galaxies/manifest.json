@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-06-galaxies",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-06-galaxies.md",
+    "notes": "Sixteen concepts spanning galactic morphology, the local cosmic neighbourhood,\nactive galactic phenomena, and the dynamical signatures (rotation curves,\nmergers) that revealed dark matter and shaped current galaxy-formation theory."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-06-galaxies",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-06-galaxies"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Milky Way Galaxy",
+      "kebab": "milky-way-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/milky-way-galaxy.yaml",
+      "expected_seed_filename": "milky-way-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Andromeda Galaxy",
+      "kebab": "andromeda-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/andromeda-galaxy.yaml",
+      "expected_seed_filename": "andromeda-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Spiral Galaxy",
+      "kebab": "spiral-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/spiral-galaxy.yaml",
+      "expected_seed_filename": "spiral-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Elliptical Galaxy",
+      "kebab": "elliptical-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/elliptical-galaxy.yaml",
+      "expected_seed_filename": "elliptical-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Irregular Galaxy",
+      "kebab": "irregular-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/irregular-galaxy.yaml",
+      "expected_seed_filename": "irregular-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Dwarf Galaxy",
+      "kebab": "dwarf-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/dwarf-galaxy.yaml",
+      "expected_seed_filename": "dwarf-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Active Galactic Nucleus",
+      "kebab": "active-galactic-nucleus",
+      "brief_path": "briefs/universe-06-galaxies/active-galactic-nucleus.yaml",
+      "expected_seed_filename": "active-galactic-nucleus-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quasar",
+      "kebab": "quasar",
+      "brief_path": "briefs/universe-06-galaxies/quasar.yaml",
+      "expected_seed_filename": "quasar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Blazar",
+      "kebab": "blazar",
+      "brief_path": "briefs/universe-06-galaxies/blazar.yaml",
+      "expected_seed_filename": "blazar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Galactic Rotation Curve",
+      "kebab": "galactic-rotation-curve",
+      "brief_path": "briefs/universe-06-galaxies/galactic-rotation-curve.yaml",
+      "expected_seed_filename": "galactic-rotation-curve-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Galaxy Merger",
+      "kebab": "galaxy-merger",
+      "brief_path": "briefs/universe-06-galaxies/galaxy-merger.yaml",
+      "expected_seed_filename": "galaxy-merger-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Galaxy Cluster",
+      "kebab": "galaxy-cluster",
+      "brief_path": "briefs/universe-06-galaxies/galaxy-cluster.yaml",
+      "expected_seed_filename": "galaxy-cluster-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Local Group",
+      "kebab": "local-group",
+      "brief_path": "briefs/universe-06-galaxies/local-group.yaml",
+      "expected_seed_filename": "local-group-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hubble Sequence",
+      "kebab": "hubble-sequence",
+      "brief_path": "briefs/universe-06-galaxies/hubble-sequence.yaml",
+      "expected_seed_filename": "hubble-sequence-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Seyfert Galaxy",
+      "kebab": "seyfert-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/seyfert-galaxy.yaml",
+      "expected_seed_filename": "seyfert-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Starburst Galaxy",
+      "kebab": "starburst-galaxy",
+      "brief_path": "briefs/universe-06-galaxies/starburst-galaxy.yaml",
+      "expected_seed_filename": "starburst-galaxy-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

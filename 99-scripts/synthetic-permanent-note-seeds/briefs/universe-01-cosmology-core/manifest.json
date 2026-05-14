@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-01-cosmology-core",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-01-cosmology-core.md",
+    "notes": "Sixteen foundational concepts of modern cosmology and physics — the irreducible\nvocabulary needed before any of the remaining universe batches can be approached\nwith full understanding. Drawn from the standard graduate physics canon."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-01-cosmology-core",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-01-cosmology-core"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Big Bang Theory",
+      "kebab": "big-bang-theory",
+      "brief_path": "briefs/universe-01-cosmology-core/big-bang-theory.yaml",
+      "expected_seed_filename": "big-bang-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmic Microwave Background Radiation",
+      "kebab": "cosmic-microwave-background-radiation",
+      "brief_path": "briefs/universe-01-cosmology-core/cosmic-microwave-background-radiation.yaml",
+      "expected_seed_filename": "cosmic-microwave-background-radiation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Dark Energy",
+      "kebab": "dark-energy",
+      "brief_path": "briefs/universe-01-cosmology-core/dark-energy.yaml",
+      "expected_seed_filename": "dark-energy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Dark Matter",
+      "kebab": "dark-matter",
+      "brief_path": "briefs/universe-01-cosmology-core/dark-matter.yaml",
+      "expected_seed_filename": "dark-matter-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Expansion Of The Universe",
+      "kebab": "expansion-of-the-universe",
+      "brief_path": "briefs/universe-01-cosmology-core/expansion-of-the-universe.yaml",
+      "expected_seed_filename": "expansion-of-the-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gravity",
+      "kebab": "gravity",
+      "brief_path": "briefs/universe-01-cosmology-core/gravity.yaml",
+      "expected_seed_filename": "gravity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "General Relativity",
+      "kebab": "general-relativity",
+      "brief_path": "briefs/universe-01-cosmology-core/general-relativity.yaml",
+      "expected_seed_filename": "general-relativity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hubble's Law",
+      "kebab": "hubbles-law",
+      "brief_path": "briefs/universe-01-cosmology-core/hubbles-law.yaml",
+      "expected_seed_filename": "hubbles-law-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Inflation",
+      "kebab": "inflation",
+      "brief_path": "briefs/universe-01-cosmology-core/inflation.yaml",
+      "expected_seed_filename": "inflation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Multiverse",
+      "kebab": "multiverse",
+      "brief_path": "briefs/universe-01-cosmology-core/multiverse.yaml",
+      "expected_seed_filename": "multiverse-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Redshift",
+      "kebab": "redshift",
+      "brief_path": "briefs/universe-01-cosmology-core/redshift.yaml",
+      "expected_seed_filename": "redshift-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Singularity",
+      "kebab": "singularity",
+      "brief_path": "briefs/universe-01-cosmology-core/singularity.yaml",
+      "expected_seed_filename": "singularity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Space Time",
+      "kebab": "space-time",
+      "brief_path": "briefs/universe-01-cosmology-core/space-time.yaml",
+      "expected_seed_filename": "space-time-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Standard Model Of Particle Physics",
+      "kebab": "standard-model-of-particle-physics",
+      "brief_path": "briefs/universe-01-cosmology-core/standard-model-of-particle-physics.yaml",
+      "expected_seed_filename": "standard-model-of-particle-physics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "String Theory",
+      "kebab": "string-theory",
+      "brief_path": "briefs/universe-01-cosmology-core/string-theory.yaml",
+      "expected_seed_filename": "string-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Supernova",
+      "kebab": "supernova",
+      "brief_path": "briefs/universe-01-cosmology-core/supernova.yaml",
+      "expected_seed_filename": "supernova-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

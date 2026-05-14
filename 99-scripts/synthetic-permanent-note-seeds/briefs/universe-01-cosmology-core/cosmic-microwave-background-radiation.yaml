@@ -1,0 +1,39 @@
+concept: Cosmic Microwave Background Radiation
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- astrophysics
+aliases:
+- CMB
+- cosmic background radiation
+- relic radiation
+broader:
+- cosmological observations
+related:
+- big bang theory
+- recombination epoch
+- last scattering surface
+- planck satellite
+prerequisites:
+- black-body radiation
+- redshift
+confidence: high
+callouts:
+- type: definition
+  title: Cosmic Microwave Background Radiation
+  body: The Cosmic Microwave Background Radiation is the nearly-uniform thermal radiation
+    filling the observable universe with a present-day temperature of about 2.725
+    K, released when the cooling primordial plasma first became transparent to photons
+    roughly 380,000 years after the Big Bang.
+- type: key-claim
+  title: Key claim about Cosmic Microwave Background Radiation
+  body: The Cosmic Microwave Background Radiation is the most precisely measured blackbody
+    spectrum in nature, and its tiny anisotropies (~one part in 100,000) encode the
+    initial density perturbations from which all subsequent large-scale structure
+    grew.
+- type: warning
+  title: Common pitfall regarding Cosmic Microwave Background Radiation
+  body: The Cosmic Microwave Background Radiation is not light from the Big Bang itself
+    but light from the much later recombination epoch; treating it as a snapshot of
+    the singularity confuses two epochs separated by hundreds of thousands of years
+    and many orders of magnitude in temperature.

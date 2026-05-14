@@ -1,0 +1,39 @@
+concept: Singularity
+domain: cosmology
+secondary_domains:
+- general-relativity
+- theoretical-physics
+aliases:
+- gravitational singularity
+- spacetime singularity
+broader:
+- pathologies of general relativity
+related:
+- black hole
+- big bang theory
+- schwarzschild metric
+- penrose-hawking singularity theorems
+prerequisites:
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Singularity
+  body: A Singularity in physics is a point or region where physical quantities (curvature,
+    density, tidal force) diverge to infinity in a classical theory, marking the breakdown
+    of the theory's predictive power; in general relativity the term refers specifically
+    to a place where geodesics terminate after finite proper time.
+- type: key-claim
+  title: Key claim about Singularity
+  body: A Singularity, in the technical sense formalised by the Penrose–Hawking singularity
+    theorems, is a generic and unavoidable feature of classical general relativity
+    under physically reasonable energy conditions — it cannot be wished away by symmetry
+    or initial-condition fine-tuning, only by abandoning classical gravity in that
+    regime.
+- type: warning
+  title: Common pitfall regarding Singularity
+  body: A Singularity in general relativity is widely misread as an actual physical
+    infinity at the centre of a black hole or the start of the Big Bang; the standard
+    interpretation among physicists is the opposite — a singularity is a signal that
+    the classical theory has reached its domain of validity, and a quantum theory
+    of gravity is expected to replace the divergence with finite physics.

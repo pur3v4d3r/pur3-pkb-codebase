@@ -1,0 +1,35 @@
+concept: Triple Alpha Process
+domain: astrophysics
+secondary_domains:
+- nuclear-astrophysics
+aliases:
+- triple-α process
+- helium burning
+broader:
+- helium-burning processes
+related:
+- stellar nucleosynthesis
+- red giant
+- carbon
+- asymptotic giant branch
+confidence: high
+callouts:
+- type: definition
+  title: Triple Alpha Process
+  body: The Triple Alpha Process is the nuclear reaction sequence by which three helium-4
+    nuclei fuse into one carbon-12 nucleus, proceeding through the unstable beryllium-8
+    intermediate and requiring the resonant Hoyle state of ¹²C to occur at astrophysically
+    relevant rates — temperatures ≳ 10⁸ K.
+- type: key-claim
+  title: Key claim about Triple Alpha Process
+  body: The Triple Alpha Process is the bottleneck through which essentially all carbon
+    in the universe was synthesised, and the existence of the resonant Hoyle state
+    in ¹²C — predicted by Hoyle on anthropic grounds in 1953 and subsequently confirmed
+    in the laboratory — is one of the most-cited apparent fine-tunings in nuclear
+    physics.
+- type: warning
+  title: Common pitfall regarding Triple Alpha Process
+  body: The Triple Alpha Process's strong temperature dependence (∝ T³⁰ near 10⁸ K)
+    makes nuclear-burning rates in red-giant cores extremely sensitive to small temperature
+    perturbations, leading to flash phenomena (helium core flash) that simulators
+    must handle with care to avoid spurious behaviour.

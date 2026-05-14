@@ -1,0 +1,36 @@
+concept: Interferometry
+domain: astronomy
+secondary_domains:
+- observational-techniques
+aliases:
+- astronomical interferometry
+- aperture synthesis
+broader:
+- observational techniques in astronomy
+related:
+- radio astronomy
+- event horizon telescope
+- ligo detection
+- adaptive optics
+confidence: high
+callouts:
+- type: definition
+  title: Interferometry
+  body: Interferometry is the technique of combining electromagnetic signals from
+    spatially separated apertures to synthesise an effective aperture equal to the
+    array's longest baseline, achieving angular resolution far beyond that of any
+    individual telescope and used routinely in radio astronomy and increasingly in
+    optical/infrared facilities and gravitational-wave detection.
+- type: key-claim
+  title: Key claim about Interferometry
+  body: Interferometry — through arrays like the Very Large Array, ALMA, the Event
+    Horizon Telescope, and the LIGO–Virgo network — provides angular resolutions and
+    sensitivities completely inaccessible to single-aperture instruments, and is the
+    enabling technique for the highest-resolution imaging in modern astronomy.
+- type: warning
+  title: Common pitfall regarding Interferometry
+  body: Interferometry samples the Fourier plane (uv-plane) of the source brightness
+    distribution incompletely, and image reconstruction requires algorithms (CLEAN,
+    maximum entropy, regularised maximum likelihood) whose choices propagate into
+    systematic uncertainties on the reconstructed image; treating an interferometric
+    image as a literal photograph misses this important caveat.

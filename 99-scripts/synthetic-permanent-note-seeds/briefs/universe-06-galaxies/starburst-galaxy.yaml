@@ -1,0 +1,36 @@
+concept: Starburst Galaxy
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+- star-formation
+aliases:
+- starburst galaxies
+broader:
+- star-forming galaxies
+related:
+- galaxy merger
+- irregular galaxy
+- supernova
+- infrared astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Starburst Galaxy
+  body: A Starburst Galaxy is a galaxy undergoing a star-formation rate dramatically
+    elevated above its long-term average — by factors of ten or more — and so high
+    that the burst depletes the available gas reservoir on a timescale (≲ 10⁸ yr)
+    much shorter than the age of the galaxy.
+- type: key-claim
+  title: Key claim about Starburst Galaxy
+  body: A Starburst Galaxy is most often triggered by gravitational interactions or
+    mergers that drive gas to the central regions, and ultraluminous infrared galaxies
+    (ULIRGs) — with infrared luminosities ≳ 10¹² L☉ — are essentially merger-driven
+    starbursts whose obscured high-mass star formation reprocesses most of the radiation
+    into the far-infrared.
+- type: warning
+  title: Common pitfall regarding Starburst Galaxy
+  body: A Starburst Galaxy classification depends on the chosen normalisation for
+    the "elevated" star-formation rate — relative to the galaxy's own past, relative
+    to the contemporary main sequence of star-forming galaxies, or absolute — and
+    rates of "starburst" prevalence in the literature quoted without specifying the
+    threshold are not directly comparable across studies.

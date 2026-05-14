@@ -1,0 +1,38 @@
+concept: Reionization
+domain: physics
+secondary_domains:
+- cosmology
+- extragalactic-astronomy
+aliases:
+- reionisation
+- epoch of reionization
+- EoR
+broader:
+- cosmological epochs
+related:
+- recombination epoch
+- dark ages of the universe
+- cosmic dawn
+- james webb space telescope
+confidence: high
+callouts:
+- type: definition
+  title: Reionization
+  body: Reionization is the cosmic epoch (roughly z ≈ 6–15, ages 250 Myr to 1 Gyr
+    after the Big Bang) during which ultraviolet radiation from the first stars, galaxies,
+    and quasars re-ionised the neutral hydrogen and helium of the intergalactic medium
+    produced at recombination — the universe's last global phase transition.
+- type: key-claim
+  title: Key claim about Reionization
+  body: 'Reionization is observationally constrained from the optical depth measured
+    in CMB polarisation (Planck 2018: τ ≈ 0.054 ± 0.007), Lyman-alpha-forest absorption
+    in high-redshift quasars (the Gunn–Peterson trough), and 21-cm radiation observations
+    (EDGES, HERA, LOFAR upper limits), with JWST now providing direct observations
+    of the galaxies driving reionisation.'
+- type: warning
+  title: Common pitfall regarding Reionization
+  body: Reionization's history is not yet pinned down — the relative contributions
+    of dwarf galaxies vs more massive galaxies vs AGN to the UV ionising photon budget
+    remain debated, and the epoch's precise duration and morphology depend on assumed
+    escape fractions of UV photons — and quantitative reionisation history claims
+    should be read as model-dependent reconstructions rather than direct measurements.

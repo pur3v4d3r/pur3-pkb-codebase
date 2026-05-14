@@ -1,0 +1,32 @@
+concept: Great Attractor
+domain: cosmology
+secondary_domains:
+- extragalactic-astronomy
+aliases:
+- Great Attractor anomaly
+broader:
+- large-scale gravitational features of the local universe
+related:
+- laniakea supercluster
+- large-scale structure of the cosmos
+- peculiar velocity
+confidence: high
+callouts:
+- type: definition
+  title: Great Attractor
+  body: The Great Attractor is the gravitationally-dominant mass concentration toward
+    which the Local Group and the entire Laniakea Supercluster are flowing at roughly
+    600 km/s, located behind the Zone of Avoidance some 150–250 Mpc away in the direction
+    of Centaurus.
+- type: key-claim
+  title: Key claim about Great Attractor
+  body: The Great Attractor explains a significant fraction of the local peculiar
+    velocity field that cannot be accounted for by the Virgo cluster alone, and its
+    rough mass and direction are now well constrained by infrared and X-ray surveys
+    able to peer through the obscuring Galactic plane.
+- type: warning
+  title: Common pitfall regarding Great Attractor
+  body: The Great Attractor is a localised gravitational feature in the nearby universe
+    and is unrelated to cosmic expansion; popular accounts that describe galaxies
+    "falling" toward it as a cosmological phenomenon confuse a local peculiar-velocity
+    flow with the metric expansion of space.

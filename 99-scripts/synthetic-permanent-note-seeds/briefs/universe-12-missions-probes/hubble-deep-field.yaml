@@ -1,0 +1,39 @@
+concept: Hubble Deep Field
+domain: space-exploration
+secondary_domains:
+- extragalactic-astronomy
+- observational-cosmology
+aliases:
+- HDF
+- Hubble Ultra-Deep Field
+- HUDF
+- Hubble eXtreme Deep Field
+broader:
+- ultra-deep extragalactic surveys
+related:
+- hubble space telescope
+- james webb space telescope
+- dark ages of the universe
+- galaxy formation
+confidence: high
+callouts:
+- type: definition
+  title: Hubble Deep Field
+  body: The Hubble Deep Field is the series of long-exposure (~10 day) Hubble Space
+    Telescope observations of small "empty" sky regions — the original Hubble Deep
+    Field (1995, ~5 arcmin² in Ursa Major), the Hubble Deep Field South (1998), the
+    Hubble Ultra-Deep Field (2004), and the Hubble eXtreme Deep Field (2012) — revealing
+    thousands of galaxies in tiny patches of sky to extreme depth.
+- type: key-claim
+  title: Key claim about Hubble Deep Field
+  body: The Hubble Deep Field demonstrated that essentially every direction on the
+    sky, no matter how apparently empty, contains a dense population of galaxies extending
+    to the limit of HST's sensitivity (z > 6), providing the most direct visual confirmation
+    of cosmic-evolutionary models of galaxy formation and assembly across cosmic time.
+- type: warning
+  title: Common pitfall regarding Hubble Deep Field
+  body: The Hubble Deep Field's faintest detections are at the level of HST's sensitivity
+    limit and source-extraction completeness drops sharply at the faintest magnitudes;
+    quantitative galaxy-counts at the deepest end of HDF/HUDF imaging are systematically
+    uncertain in ways that mask the underlying galaxy population, and the JWST equivalent
+    imaging has revealed objects substantially fainter than HST could detect.

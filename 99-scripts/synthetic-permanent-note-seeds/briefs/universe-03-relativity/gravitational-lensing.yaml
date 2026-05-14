@@ -1,0 +1,35 @@
+concept: Gravitational Lensing
+domain: physics
+secondary_domains:
+- general-relativity
+- observational-cosmology
+aliases:
+- light bending
+- Einstein lensing
+broader:
+- predictions of general relativity
+related:
+- general relativity
+- dark matter
+- einstein field equations
+- cosmological observations
+confidence: high
+callouts:
+- type: definition
+  title: Gravitational Lensing
+  body: Gravitational Lensing is the deflection of light by the curved spacetime around
+    a massive object, producing magnification, distortion, and (for sufficient alignment)
+    multiple images of background sources — analogous to a wide-field astronomical
+    lens with the deflecting mass playing the role of the lens.
+- type: key-claim
+  title: Key claim about Gravitational Lensing
+  body: Gravitational Lensing is one of the principal observational tools for mapping
+    mass distributions independent of luminous matter, and weak-lensing surveys provide
+    independent confirmation of dark matter on galaxy-cluster and large-scale-structure
+    scales.
+- type: warning
+  title: Common pitfall regarding Gravitational Lensing
+  body: Gravitational Lensing measurements depend on detailed mass models of the lens,
+    and inferences (especially of substructure, time-delay distances for H₀, and lens-mass
+    profiles) carry model-dependent systematics that often dominate the uncertainty
+    budget; treating lensing-derived parameters as model-independent is incorrect.

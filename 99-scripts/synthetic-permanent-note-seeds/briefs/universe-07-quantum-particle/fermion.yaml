@@ -1,0 +1,33 @@
+concept: Fermion
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- fermions
+broader:
+- statistical-mechanics particle classes
+related:
+- boson
+- quark
+- lepton
+- pauli exclusion principle
+confidence: high
+callouts:
+- type: definition
+  title: Fermion
+  body: A Fermion is a particle with half-integer spin obeying Fermi–Dirac statistics,
+    with antisymmetric multi-particle wavefunctions and subject to the Pauli exclusion
+    principle, including all Standard-Model matter constituents (quarks and leptons)
+    and composite particles like nuclei with odd mass number.
+- type: key-claim
+  title: Key claim about Fermion
+  body: A Fermion's exclusion principle is the foundational fact that explains the
+    existence of distinct atoms (electron shells), the stability of compact stars
+    (electron and neutron degeneracy pressure), and the structure of the periodic
+    table — so much of macroscopic-matter physics is a consequence of one-fermion-per-state.
+- type: warning
+  title: Common pitfall regarding Fermion
+  body: A Fermion under sufficiently strong interactions can pair into composite bosonic
+    objects (Cooper pairs in superconductors, He-3 in superfluid phases), exhibiting
+    bosonic collective behaviour at low energies; the fermionic nature reasserts itself
+    when pairing is broken at sufficient energy or temperature.

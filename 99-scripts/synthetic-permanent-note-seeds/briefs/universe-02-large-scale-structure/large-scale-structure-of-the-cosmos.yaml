@@ -1,0 +1,35 @@
+concept: Large Scale Structure Of The Cosmos
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+aliases:
+- LSS
+- large-scale structure
+- cosmic structure
+broader:
+- cosmic morphology
+related:
+- cosmic web
+- galaxy filaments
+- voids in cosmology
+- lambda-cdm-model
+confidence: high
+callouts:
+- type: definition
+  title: Large Scale Structure Of The Cosmos
+  body: Large Scale Structure Of The Cosmos refers to the arrangement of matter in
+    the universe on scales above ~10 Mpc — galaxy clusters, superclusters, filaments,
+    sheets, and voids — that grew from primordial density perturbations under gravitational
+    instability.
+- type: key-claim
+  title: Key claim about Large Scale Structure Of The Cosmos
+  body: Large Scale Structure Of The Cosmos is the principal late-time observable
+    through which we test the growth of perturbations, and its observed statistics
+    agree with ΛCDM predictions seeded by inflation across many orders of magnitude
+    in scale.
+- type: warning
+  title: Common pitfall regarding Large Scale Structure Of The Cosmos
+  body: Large Scale Structure Of The Cosmos is sensitive to galaxy-bias modelling
+    — the relationship between the galaxy distribution we observe and the underlying
+    matter distribution we want to constrain — and biased-tracer systematics dominate
+    the error budget in many LSS measurements.

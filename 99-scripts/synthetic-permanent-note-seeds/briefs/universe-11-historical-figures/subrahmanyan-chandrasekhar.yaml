@@ -1,0 +1,38 @@
+concept: Subrahmanyan Chandrasekhar
+domain: history-of-science
+secondary_domains:
+- stellar-astrophysics
+- theoretical-astrophysics
+aliases:
+- Chandrasekhar
+- Chandra
+broader:
+- twentieth-century theoretical astrophysicists
+related:
+- white dwarf
+- chandrasekhar limit
+- stellar nucleosynthesis
+- neutron star
+confidence: high
+callouts:
+- type: definition
+  title: Subrahmanyan Chandrasekhar
+  body: Subrahmanyan Chandrasekhar (1910–1995) was the Indian-American theoretical
+    astrophysicist whose 1930 derivation, while a 19-year-old shipboard passenger,
+    of the upper mass limit (~1.4 M☉) for white dwarfs supported by electron-degeneracy
+    pressure — the eponymous Chandrasekhar limit — earned him the 1983 Nobel Prize
+    and inaugurated the field of compact-object astrophysics.
+- type: key-claim
+  title: Key claim about Subrahmanyan Chandrasekhar
+  body: Subrahmanyan Chandrasekhar's identification that stars more massive than the
+    Chandrasekhar limit cannot end as white dwarfs and must collapse to denser final
+    states implied (long before observational confirmation) the existence of neutron
+    stars and, by extension, black holes — a theoretical anticipation of compact-object
+    physics decades before observational astronomy could test it.
+- type: warning
+  title: Common pitfall regarding Subrahmanyan Chandrasekhar
+  body: Subrahmanyan Chandrasekhar's result was famously rejected by Sir Arthur Eddington
+    in a 1935 Royal Astronomical Society confrontation that delayed broader acceptance
+    of the white-dwarf mass limit and stunted Chandrasekhar's research direction;
+    the Eddington–Chandrasekhar dispute is a well-documented case study in how authority
+    and prejudice can retard the acceptance of correct results in physics.

@@ -1,0 +1,36 @@
+concept: Space Time
+domain: cosmology
+secondary_domains:
+- special-relativity
+- general-relativity
+aliases:
+- space-time
+- spacetime
+broader:
+- structures of physical theory
+related:
+- minkowski space-time
+- curvature of space-time
+- special relativity
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Space Time
+  body: Space Time is the four-dimensional pseudo-Riemannian manifold that combines
+    the three spatial dimensions and time into a single geometric structure, in which
+    the spacetime interval ds² = −c²dt² + dx² + dy² + dz² (or its curved generalisation)
+    plays the role that Euclidean distance played in Newtonian physics.
+- type: key-claim
+  title: Key claim about Space Time
+  body: Space Time, as a unified entity, is the central conceptual innovation that
+    allows special relativity to absorb and explain the Lorentz transformations and
+    that allows general relativity to recast gravity as geometry — without it, both
+    theories collapse into incomprehensibility.
+- type: warning
+  title: Common pitfall regarding Space Time
+  body: 'Space Time is sometimes presented as merely "putting time on the same footing
+    as space," which understates the difference: the metric signature treats time
+    with the opposite sign, the causal structure (light cones, past/future) has no
+    spatial analogue, and treating time as just another spatial dimension produces
+    wrong predictions.'

@@ -1,0 +1,34 @@
+concept: Gamma Ray Burst
+domain: astrophysics
+secondary_domains:
+- high-energy-astrophysics
+- multi-messenger-astronomy
+aliases:
+- GRB
+broader:
+- transient high-energy phenomena
+related:
+- hypernova
+- kilonova
+- neutron star
+- relativistic jets
+confidence: high
+callouts:
+- type: definition
+  title: Gamma Ray Burst
+  body: A Gamma Ray Burst is a brief (milliseconds to thousands of seconds), intense
+    flash of gamma-rays from cosmological distances, divided into long-duration (≳
+    2 s, associated with collapsars) and short-duration (≲ 2 s, associated with compact-object
+    mergers) classes by the bimodal duration distribution.
+- type: key-claim
+  title: Key claim about Gamma Ray Burst
+  body: A Gamma Ray Burst is, in its peak luminosity, the most electromagnetically
+    luminous event in the universe (~10⁵² erg/s isotropic-equivalent), achieved through
+    extreme relativistic beaming of a narrow jet that views as much brighter to observers
+    within the beam cone than the true energetics warrant.
+- type: warning
+  title: Common pitfall regarding Gamma Ray Burst
+  body: A Gamma Ray Burst's isotropic-equivalent energy is a viewing-geometry artefact
+    — the true beam-corrected energy is two to three orders of magnitude smaller —
+    and quoted "10⁵⁴ erg" GRBs do not represent that much radiated energy; corrections
+    for jet opening angle are essential before citing GRB energetics.

@@ -1,0 +1,34 @@
+concept: Supermassive Black Hole
+domain: astrophysics
+secondary_domains:
+- astrophysics
+- galactic-dynamics
+aliases:
+- SMBH
+broader:
+- black holes by mass class
+related:
+- active galactic nucleus
+- quasar
+- milky way galaxy
+- event horizon telescope
+confidence: high
+callouts:
+- type: definition
+  title: Supermassive Black Hole
+  body: A Supermassive Black Hole is a black hole with mass in the range ~10⁵ to ~10¹⁰
+    solar masses, found at the centre of essentially every massive galaxy and powering
+    active galactic nuclei when accreting; the Milky Way hosts Sagittarius A* at ~4
+    × 10⁶ M☉.
+- type: key-claim
+  title: Key claim about Supermassive Black Hole
+  body: A Supermassive Black Hole is now established by stellar-orbit measurements
+    (Sgr A*), megamaser kinematics, reverberation mapping, and direct horizon-scale
+    imaging (Event Horizon Telescope) to a degree that places its existence beyond
+    serious dispute, even if its formation history remains open.
+- type: warning
+  title: Common pitfall regarding Supermassive Black Hole
+  body: A Supermassive Black Hole formation pathway is a major open problem — direct
+    collapse, runaway mergers of stellar-mass black holes, and primordial origins
+    are all under debate — so claims that SMBHs grew "from stellar seeds" or "from
+    direct collapse" should be read as competing hypotheses, not settled fact.

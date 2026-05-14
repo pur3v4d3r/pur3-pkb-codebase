@@ -1,0 +1,36 @@
+concept: Radial Velocity Method
+domain: planetary-science
+secondary_domains:
+- exoplanet-detection
+- spectroscopy
+aliases:
+- Doppler method
+- RV method
+broader:
+- exoplanet detection methods
+related:
+- exoplanet
+- doppler effect in astronomy
+- transit method
+- spectroscopy
+confidence: high
+callouts:
+- type: definition
+  title: Radial Velocity Method
+  body: The Radial Velocity Method is the detection of an exoplanet by precision spectroscopy
+    of its host star, measuring the periodic line-of-sight velocity variations induced
+    by the gravitational reflex motion of the star around the system's barycentre
+    — yielding the planet's orbital period and a lower bound (m sin i) on its mass.
+- type: key-claim
+  title: Key claim about Radial Velocity Method
+  body: The Radial Velocity Method enabled the first confirmed exoplanet around a
+    Sun-like star (51 Pegasi b, 1995) and remains the principal technique for measuring
+    exoplanet masses; combined with transit-method radii, RV masses yield bulk densities
+    that distinguish rocky from gaseous planets.
+- type: warning
+  title: Common pitfall regarding Radial Velocity Method
+  body: The Radial Velocity Method measures only the line-of-sight component of the
+    orbital motion (m sin i) — the true mass requires the orbital inclination, which
+    can be obtained only by combining RV with transit detection (i ≈ 90°), astrometry,
+    or direct imaging — and reporting RV-only "masses" without the sin i caveat overstates
+    what has been measured.

@@ -1,0 +1,36 @@
+concept: Ligo Detection
+domain: physics
+secondary_domains:
+- observational-astronomy
+- gravitational-wave-astronomy
+aliases:
+- LIGO observation
+- GW150914
+broader:
+- gravitational-wave observations
+related:
+- gravitational waves
+- black hole
+- gravitational wave astronomy
+- multi-messenger astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Ligo Detection
+  body: Ligo Detection refers to the direct observations of gravitational waves by
+    the Laser Interferometer Gravitational-wave Observatory beginning with GW150914
+    (the September 2015 binary-black-hole merger), enabled by kilometre-scale Michelson
+    interferometers measuring sub-attometer arm-length changes.
+- type: key-claim
+  title: Key claim about Ligo Detection
+  body: Ligo Detection of GW150914 was the first direct observation of a binary black
+    hole merger and earned the 2017 Nobel Prize in Physics; subsequent runs (with
+    Virgo and KAGRA joining) have detected dozens of mergers and inaugurated routine
+    gravitational-wave astronomy.
+- type: warning
+  title: Common pitfall regarding Ligo Detection
+  body: Ligo Detection statistics rely on matched-filtering against general-relativistic
+    waveform templates, so claims about exotic compact-object mergers (deviations
+    from Kerr, scalar-tensor signatures) are sensitive to template-bank coverage,
+    and absence of a positive detection of exotica does not strongly constrain phenomena
+    that the templates do not include.

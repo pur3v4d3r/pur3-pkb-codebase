@@ -1,0 +1,150 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-05-stars",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-05-stars.md",
+    "notes": "Twenty-one core concepts of stellar astrophysics — formation, classification,\nenergy generation, evolution off the main sequence, and the explosive\nendpoints that seed the next generation of stars and planets."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-05-stars",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-05-stars"
+  },
+  "counts": {
+    "parsed": 21,
+    "accepted": 21,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Stellar Nucleosynthesis",
+      "kebab": "stellar-nucleosynthesis",
+      "brief_path": "briefs/universe-05-stars/stellar-nucleosynthesis.yaml",
+      "expected_seed_filename": "stellar-nucleosynthesis-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Main Sequence Star",
+      "kebab": "main-sequence-star",
+      "brief_path": "briefs/universe-05-stars/main-sequence-star.yaml",
+      "expected_seed_filename": "main-sequence-star-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Red Giant",
+      "kebab": "red-giant",
+      "brief_path": "briefs/universe-05-stars/red-giant.yaml",
+      "expected_seed_filename": "red-giant-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Red Dwarf",
+      "kebab": "red-dwarf",
+      "brief_path": "briefs/universe-05-stars/red-dwarf.yaml",
+      "expected_seed_filename": "red-dwarf-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Brown Dwarf",
+      "kebab": "brown-dwarf",
+      "brief_path": "briefs/universe-05-stars/brown-dwarf.yaml",
+      "expected_seed_filename": "brown-dwarf-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Protostar",
+      "kebab": "protostar",
+      "brief_path": "briefs/universe-05-stars/protostar.yaml",
+      "expected_seed_filename": "protostar-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hertzsprung Russell Diagram",
+      "kebab": "hertzsprung-russell-diagram",
+      "brief_path": "briefs/universe-05-stars/hertzsprung-russell-diagram.yaml",
+      "expected_seed_filename": "hertzsprung-russell-diagram-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Stellar Classification",
+      "kebab": "stellar-classification",
+      "brief_path": "briefs/universe-05-stars/stellar-classification.yaml",
+      "expected_seed_filename": "stellar-classification-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Binary Star System",
+      "kebab": "binary-star-system",
+      "brief_path": "briefs/universe-05-stars/binary-star-system.yaml",
+      "expected_seed_filename": "binary-star-system-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hypernova",
+      "kebab": "hypernova",
+      "brief_path": "briefs/universe-05-stars/hypernova.yaml",
+      "expected_seed_filename": "hypernova-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Kilonova",
+      "kebab": "kilonova",
+      "brief_path": "briefs/universe-05-stars/kilonova.yaml",
+      "expected_seed_filename": "kilonova-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gamma Ray Burst",
+      "kebab": "gamma-ray-burst",
+      "brief_path": "briefs/universe-05-stars/gamma-ray-burst.yaml",
+      "expected_seed_filename": "gamma-ray-burst-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Type Ia Supernova",
+      "kebab": "type-ia-supernova",
+      "brief_path": "briefs/universe-05-stars/type-ia-supernova.yaml",
+      "expected_seed_filename": "type-ia-supernova-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Core Collapse Supernova",
+      "kebab": "core-collapse-supernova",
+      "brief_path": "briefs/universe-05-stars/core-collapse-supernova.yaml",
+      "expected_seed_filename": "core-collapse-supernova-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Planetary Nebula",
+      "kebab": "planetary-nebula",
+      "brief_path": "briefs/universe-05-stars/planetary-nebula.yaml",
+      "expected_seed_filename": "planetary-nebula-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Nebula",
+      "kebab": "nebula",
+      "brief_path": "briefs/universe-05-stars/nebula.yaml",
+      "expected_seed_filename": "nebula-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Proton Proton Chain",
+      "kebab": "proton-proton-chain",
+      "brief_path": "briefs/universe-05-stars/proton-proton-chain.yaml",
+      "expected_seed_filename": "proton-proton-chain-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cno Cycle",
+      "kebab": "cno-cycle",
+      "brief_path": "briefs/universe-05-stars/cno-cycle.yaml",
+      "expected_seed_filename": "cno-cycle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Triple Alpha Process",
+      "kebab": "triple-alpha-process",
+      "brief_path": "briefs/universe-05-stars/triple-alpha-process.yaml",
+      "expected_seed_filename": "triple-alpha-process-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Asymptotic Giant Branch",
+      "kebab": "asymptotic-giant-branch",
+      "brief_path": "briefs/universe-05-stars/asymptotic-giant-branch.yaml",
+      "expected_seed_filename": "asymptotic-giant-branch-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Wolf Rayet Star",
+      "kebab": "wolf-rayet-star",
+      "brief_path": "briefs/universe-05-stars/wolf-rayet-star.yaml",
+      "expected_seed_filename": "wolf-rayet-star-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

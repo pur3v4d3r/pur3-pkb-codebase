@@ -1,0 +1,38 @@
+concept: Spinor
+domain: mathematical-physics
+secondary_domains:
+- mathematical-physics
+- quantum-mechanics
+aliases:
+- spinors
+- Weyl spinor
+- Dirac spinor
+broader:
+- representations of the Lorentz group
+related:
+- lie algebra
+- fermion
+- group theory in physics
+- dirac equation
+confidence: high
+callouts:
+- type: definition
+  title: Spinor
+  body: A Spinor is an element of a spin-representation of the orthogonal or Lorentz
+    group — a representation that is double-valued under spatial rotations, returning
+    to its original state only after a 720° rotation rather than 360° — and the natural
+    mathematical object describing fermionic fields in relativistic quantum theory.
+- type: key-claim
+  title: Key claim about Spinor
+  body: A Spinor's existence as a representation of the Lorentz group's universal
+    cover (SL(2,C) for the Lorentz group, Spin(3) ≅ SU(2) for spatial rotations) is
+    the mathematical reason that fermions are described by half-integer spin and exhibit
+    the Pauli exclusion principle — Cartan-discovered (1913) representations that
+    proved indispensable for quantum mechanics.
+- type: warning
+  title: Common pitfall regarding Spinor
+  body: A Spinor's transformation properties under parity, time-reversal, and charge
+    conjugation are subtler than those of vectors and tensors — Dirac, Weyl, and Majorana
+    spinors differ in these respects — and the conventions used in different textbooks
+    (Weinberg, Peskin–Schroeder, Srednicki) differ in signs and factors, requiring
+    care when transcribing equations across sources.

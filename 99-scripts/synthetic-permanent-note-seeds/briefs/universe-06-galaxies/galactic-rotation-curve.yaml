@@ -1,0 +1,34 @@
+concept: Galactic Rotation Curve
+domain: astrophysics
+secondary_domains:
+- galactic-dynamics
+aliases:
+- galaxy rotation curve
+broader:
+- evidence for dark matter
+related:
+- dark matter
+- spiral galaxy
+- milky way galaxy
+- modified newtonian dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Galactic Rotation Curve
+  body: A Galactic Rotation Curve is the plot of orbital velocity versus radius for
+    material in a galaxy's disc, measured kinematically through Doppler shifts of
+    emission lines (H I, Hα), and used as the principal observational probe of the
+    radial mass distribution including non-luminous components.
+- type: key-claim
+  title: Key claim about Galactic Rotation Curve
+  body: A Galactic Rotation Curve in spiral galaxies remains flat or slightly rising
+    out to radii far beyond the visible disc, where Newtonian gravity given the visible
+    mass alone predicts a Keplerian decline — the foundational observational evidence
+    (Rubin & Ford 1970s) for the existence of dark-matter haloes around galaxies.
+- type: warning
+  title: Common pitfall regarding Galactic Rotation Curve
+  body: A Galactic Rotation Curve also admits modified-gravity interpretations (MOND,
+    TeVeS) at the galaxy-scale level; rotation curves alone do not distinguish particle
+    dark matter from modifications of gravity, and the case for particle DM rests
+    on the joint fit to rotation curves, lensing, CMB, BBN, and large-scale structure
+    rather than rotation-curve evidence in isolation.

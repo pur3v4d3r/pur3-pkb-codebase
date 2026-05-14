@@ -1,0 +1,33 @@
+concept: Monopole Problem
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- particle-physics
+aliases:
+- magnetic monopole problem
+broader:
+- problems of standard hot big bang cosmology
+related:
+- flatness problem
+- horizon problem
+- inflation
+- grand unified theory
+confidence: high
+callouts:
+- type: definition
+  title: Monopole Problem
+  body: The Monopole Problem is the prediction of grand unified theories (GUTs) that
+    the early universe would have produced a substantial cosmological abundance of
+    magnetic monopoles, in stark conflict with the observed absence of any such relics
+    in cosmic-ray data.
+- type: key-claim
+  title: Key claim about Monopole Problem
+  body: The Monopole Problem is solved by inflation, which dilutes any pre-inflationary
+    monopole abundance to undetectability; this was historically one of Guth's original
+    motivations for inflationary cosmology.
+- type: warning
+  title: Common pitfall regarding Monopole Problem
+  body: The Monopole Problem assumes the existence of GUT-scale physics that would
+    produce monopoles in the first place, and current data neither confirm nor exclude
+    grand unification; the problem is therefore conditional, not absolute, and inflation's
+    "solution" inherits this conditionality.

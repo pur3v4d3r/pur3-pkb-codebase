@@ -1,0 +1,37 @@
+concept: Hertzsprung Russell Diagram
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- observational-astronomy
+aliases:
+- HR diagram
+- H-R diagram
+broader:
+- stellar classification frameworks
+related:
+- stellar classification
+- main sequence star
+- red giant
+- white dwarf
+confidence: high
+callouts:
+- type: definition
+  title: Hertzsprung Russell Diagram
+  body: The Hertzsprung Russell Diagram is the plot of stellar luminosity (or absolute
+    magnitude) against effective temperature (or spectral class), in which stars cluster
+    into well-defined regions corresponding to main-sequence, giant, supergiant, and
+    white-dwarf populations and along which they evolve over their nuclear-burning
+    lifetimes.
+- type: key-claim
+  title: Key claim about Hertzsprung Russell Diagram
+  body: The Hertzsprung Russell Diagram is the single most influential analytical
+    tool in stellar astrophysics, combining thermodynamic state (T, L) into a representation
+    in which stellar evolution traces visualisable tracks and population statistics
+    decode integrated star-formation history.
+- type: warning
+  title: Common pitfall regarding Hertzsprung Russell Diagram
+  body: The Hertzsprung Russell Diagram axes are observational proxies for theoretical
+    quantities; observational HR diagrams (using e.g. B−V colour and apparent magnitude)
+    require corrections for extinction, distance, and metallicity before being compared
+    to theoretical isochrones, and the necessity of these corrections is under-appreciated
+    in popular discussions.

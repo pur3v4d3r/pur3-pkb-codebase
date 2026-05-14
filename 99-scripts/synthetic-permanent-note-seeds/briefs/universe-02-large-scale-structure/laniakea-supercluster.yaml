@@ -1,0 +1,33 @@
+concept: Laniakea Supercluster
+domain: cosmology
+secondary_domains:
+- extragalactic-astronomy
+aliases:
+- Laniakea
+broader:
+- galaxy superclusters
+related:
+- great attractor
+- milky way galaxy
+- local group
+- large-scale structure of the cosmos
+confidence: high
+callouts:
+- type: definition
+  title: Laniakea Supercluster
+  body: The Laniakea Supercluster is the supercluster identified by Tully et al. (2014)
+    as the largest gravitationally-coherent structure to which the Milky Way belongs,
+    defined by the boundary of converging peculiar-velocity flows and spanning roughly
+    160 Mpc and ~10¹⁷ M☉.
+- type: key-claim
+  title: Key claim about Laniakea Supercluster
+  body: The Laniakea Supercluster is the first supercluster boundary defined dynamically
+    (by velocity flow) rather than morphologically (by galaxy density), and this kinematic
+    definition gives a more physically meaningful structure than earlier density-threshold
+    supercluster catalogues.
+- type: warning
+  title: Common pitfall regarding Laniakea Supercluster
+  body: The Laniakea Supercluster is not gravitationally bound — it is being torn
+    apart by cosmic expansion on Hubble timescales — so calling it a "structure" in
+    the colloquial sense (a thing held together) is misleading; it is a coherent flow
+    region, not a stable object.

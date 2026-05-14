@@ -1,0 +1,35 @@
+concept: Pulsar
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- radio-astronomy
+aliases:
+- pulsars
+- rotating neutron star
+broader:
+- neutron star
+related:
+- neutron star
+- magnetar
+- supernova
+- gravitational waves
+confidence: high
+callouts:
+- type: definition
+  title: Pulsar
+  body: A Pulsar is a rapidly-rotating, highly-magnetised neutron star whose beamed
+    electromagnetic emission sweeps past the Earth like a lighthouse, producing periodic
+    pulses with periods ranging from milliseconds to seconds.
+- type: key-claim
+  title: Key claim about Pulsar
+  body: A Pulsar provides the most precise natural clock known — millisecond pulsars
+    rival atomic clocks in long-term timing stability — and has enabled landmark tests
+    of general relativity, including the indirect detection of gravitational waves
+    through orbital decay of the Hulse–Taylor binary pulsar.
+- type: warning
+  title: Common pitfall regarding Pulsar
+  body: A Pulsar's pulse mechanism is not fully understood despite decades of work;
+    the standard polar-cap and slot-gap models capture broad phenomenology but the
+    detailed magnetospheric physics that produces coherent radio emission remains
+    unsettled, and confident statements about emission mechanism should be hedged
+    accordingly.

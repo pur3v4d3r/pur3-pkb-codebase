@@ -1,0 +1,35 @@
+concept: Hawking Radiation
+domain: astrophysics
+secondary_domains:
+- quantum-gravity
+- black-hole-thermodynamics
+aliases:
+- Hawking effect
+broader:
+- quantum effects in curved spacetime
+related:
+- black hole
+- event horizon
+- black hole information paradox
+- quantum field theory
+confidence: high
+callouts:
+- type: definition
+  title: Hawking Radiation
+  body: Hawking Radiation is the thermal radiation predicted by Hawking (1974) to
+    be emitted by a black hole as a quantum-field-theoretic effect in curved spacetime,
+    with a temperature T = ħc³/(8πGMk_B) inversely proportional to the black hole's
+    mass.
+- type: key-claim
+  title: Key claim about Hawking Radiation
+  body: Hawking Radiation implies that black holes are not strictly black but slowly
+    evaporate over cosmological timescales (~10⁶⁷ years for a solar-mass black hole),
+    unifying gravitation, quantum theory, and thermodynamics through the four laws
+    of black-hole mechanics.
+- type: warning
+  title: Common pitfall regarding Hawking Radiation
+  body: Hawking Radiation has not yet been observed — the effective temperature of
+    any astrophysical black hole is far below the CMB temperature, so they absorb
+    more than they emit — and laboratory analogue-gravity systems (e.g., flowing fluids)
+    probe related but not identical phenomena, so claims of "experimental detection"
+    of Hawking radiation are systematically overstated.

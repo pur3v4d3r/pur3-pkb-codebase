@@ -1,0 +1,34 @@
+concept: Quark Star
+domain: astrophysics
+secondary_domains:
+- theoretical-astrophysics
+- nuclear-physics
+aliases:
+- strange star
+broader:
+- hypothetical compact objects
+related:
+- neutron star
+- tolman-oppenheimer-volkoff limit
+- qcd phase diagram
+confidence: high
+callouts:
+- type: definition
+  title: Quark Star
+  body: A Quark Star is a hypothetical compact object composed of deconfined quark
+    matter (most commonly strange quark matter) that would arise if, at the densities
+    found in compact-object interiors, the QCD ground state of bulk matter is a colour-superconducting
+    quark phase rather than ordinary hadronic matter.
+- type: key-claim
+  title: Key claim about Quark Star
+  body: A Quark Star would be self-bound (not requiring gravitational confinement)
+    if Witten's strange-matter hypothesis is correct, and it would have a mass-radius
+    relation distinguishable from a conventional neutron star with sufficiently precise
+    measurements of multiple compact-object radii.
+- type: warning
+  title: Common pitfall regarding Quark Star
+  body: A Quark Star has not been observationally confirmed and the strange-matter
+    hypothesis remains speculative; published "evidence" for quark stars based on
+    individual unusually compact objects has consistently been alternatively explained
+    by exotic neutron-star equations of state, and confident detection requires more
+    than a single anomalous source.

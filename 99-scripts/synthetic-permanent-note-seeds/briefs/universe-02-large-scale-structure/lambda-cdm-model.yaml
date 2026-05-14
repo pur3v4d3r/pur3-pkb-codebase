@@ -1,0 +1,36 @@
+concept: Lambda Cdm Model
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- observational-cosmology
+aliases:
+- ΛCDM
+- standard cosmological model
+- concordance model
+broader:
+- parameterised cosmological models
+related:
+- cosmological constant
+- dark matter
+- dark energy
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Lambda Cdm Model
+  body: The Lambda Cdm Model is the six-parameter "concordance" cosmological model
+    that combines a cosmological constant Λ (dark energy), cold dark matter, ordinary
+    baryonic matter, photons, and neutrinos within a flat FLRW universe, fitting CMB,
+    BAO, supernova, and large-scale-structure data simultaneously.
+- type: key-claim
+  title: Key claim about Lambda Cdm Model
+  body: The Lambda Cdm Model is the most quantitatively successful framework in observational
+    cosmology, fitting datasets spanning thirteen orders of magnitude in scale with
+    only six free parameters, and any alternative model must reproduce this fit before
+    being considered viable.
+- type: warning
+  title: Common pitfall regarding Lambda Cdm Model
+  body: The Lambda Cdm Model is not a fundamental theory but an effective parameterisation;
+    it tells us how much dark matter and dark energy there are without telling us
+    what they are, and it is currently challenged by tensions in H₀ and σ₈ that may
+    signal physics beyond it.

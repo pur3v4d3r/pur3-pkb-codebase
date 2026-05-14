@@ -1,0 +1,37 @@
+concept: Gravitational Wave Astronomy
+domain: astronomy
+secondary_domains:
+- multi-messenger-astronomy
+- general-relativity
+aliases:
+- GW astronomy
+broader:
+- observational gravitational physics
+related:
+- gravitational waves
+- ligo detection
+- multi-messenger astronomy
+- black hole
+confidence: high
+callouts:
+- type: definition
+  title: Gravitational Wave Astronomy
+  body: Gravitational Wave Astronomy is the observational discipline using gravitational-wave
+    detectors (laser interferometers like LIGO, Virgo, KAGRA; pulsar-timing arrays
+    for nanohertz waves; the planned LISA mission for millihertz waves) to study astrophysical
+    and cosmological sources of gravitational radiation — chiefly compact-object mergers
+    and the stochastic background.
+- type: key-claim
+  title: Key claim about Gravitational Wave Astronomy
+  body: Gravitational Wave Astronomy is the youngest of the major observational subfields,
+    dating from LIGO's first detection in 2015, and it has already enabled measurements
+    (population statistics of stellar-mass black holes, the Hubble constant from GW170817,
+    an independent test of GR's wave propagation speed) inaccessible to electromagnetic
+    astronomy alone.
+- type: warning
+  title: Common pitfall regarding Gravitational Wave Astronomy
+  body: Gravitational Wave Astronomy detection statistics depend strongly on waveform-template
+    completeness, and inferences about the tails of the compact-object mass distribution
+    (the lower mass gap, the upper pair-instability gap) are particularly sensitive
+    to template coverage — claims about "gaps" or "no gaps" need to be read with awareness
+    of which template families produced them.

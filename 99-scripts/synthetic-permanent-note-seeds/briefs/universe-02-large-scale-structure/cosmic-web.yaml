@@ -1,0 +1,34 @@
+concept: Cosmic Web
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- large-scale-structure
+aliases:
+- cosmic web of structure
+broader:
+- large scale structure of the cosmos
+related:
+- galaxy filaments
+- voids in cosmology
+- large-scale structure of the cosmos
+- dark matter
+confidence: high
+callouts:
+- type: definition
+  title: Cosmic Web
+  body: The Cosmic Web is the filamentary, sheet-like, and clustered geometry of matter
+    on scales of tens to hundreds of Mpc, resembling a three-dimensional foam of voids
+    bounded by walls and intersected by dense filaments along which galaxies preferentially
+    form.
+- type: key-claim
+  title: Key claim about Cosmic Web
+  body: The Cosmic Web emerges generically from gravitational collapse of Gaussian
+    initial perturbations as predicted by the Zel'dovich approximation; its geometry
+    is a direct prediction of inflationary initial conditions plus cold dark matter
+    and so a successful test of the underlying paradigm.
+- type: warning
+  title: Common pitfall regarding Cosmic Web
+  body: The Cosmic Web is a description of the matter distribution, but observations
+    directly trace galaxies and gas — biased tracers — so quantitative claims about
+    web morphology require careful treatment of bias and projection effects to avoid
+    mistaking selection artefacts for cosmic structure.

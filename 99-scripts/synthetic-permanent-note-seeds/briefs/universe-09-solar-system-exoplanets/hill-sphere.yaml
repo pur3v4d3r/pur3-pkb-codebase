@@ -1,0 +1,34 @@
+concept: Hill Sphere
+domain: planetary-science
+secondary_domains:
+- orbital-mechanics
+- planetary-dynamics
+aliases:
+- Hill radius
+- Roche sphere
+broader:
+- gravitational-influence regions
+related:
+- lagrange points
+- exoplanet
+- oort cloud
+confidence: high
+callouts:
+- type: definition
+  title: Hill Sphere
+  body: The Hill Sphere of an orbiting body is the region around it within which its
+    gravity dominates over that of the primary it orbits, with radius approximately
+    r_Hill ≈ a (m/3M)^(1/3) for a body of mass m at semi-major axis a around a primary
+    of mass M, defining the maximum stable orbital region for satellites of the body.
+- type: key-claim
+  title: Key claim about Hill Sphere
+  body: The Hill Sphere bounds the orbital region of stable satellites — Earth's Hill
+    sphere extends to ~1.5 million km, comfortably enclosing the Moon's orbit at ~384,000
+    km — and the Hill-sphere concept is essential in characterising exoplanetary moons
+    (exomoons) and the dynamical stability of Trojan companions.
+- type: warning
+  title: Common pitfall regarding Hill Sphere
+  body: The Hill Sphere is the maximum region of stable orbits, not the minimum, and
+    stable satellite orbits typically extend only out to ~⅓–½ of the Hill radius for
+    prograde orbits and ~½–⅔ for retrograde orbits; using the full Hill radius as
+    the boundary of stability overstates the actual stable region by a factor of 2–3.

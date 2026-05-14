@@ -1,0 +1,35 @@
+concept: Quantum Entanglement
+domain: physics
+secondary_domains:
+- quantum-mechanics
+- quantum-information
+aliases:
+- entanglement
+broader:
+- non-classical correlations
+related:
+- quantum mechanics
+- bell's theorem
+- quantum non-locality
+- quantum computing
+confidence: high
+callouts:
+- type: definition
+  title: Quantum Entanglement
+  body: Quantum Entanglement is the property of multi-component quantum systems whose
+    joint state cannot be written as a tensor product of individual-component states,
+    producing correlations between measurements on the components that violate the
+    predictions of any local-hidden-variable theory.
+- type: key-claim
+  title: Key claim about Quantum Entanglement
+  body: Quantum Entanglement violations of Bell inequalities have been experimentally
+    demonstrated with progressively closed loopholes — culminating in the loophole-free
+    experiments of 2015 and recognised by the 2022 Nobel Prize — definitively establishing
+    that nature does not admit a local-hidden-variable description in the Bell sense.
+- type: warning
+  title: Common pitfall regarding Quantum Entanglement
+  body: Quantum Entanglement is sometimes described as "spooky action at a distance"
+    implying superluminal signalling; the no-communication theorem rigorously rules
+    out using entanglement to send classical information faster than light, and confusing
+    the failure of Bell-locality (a real phenomenon) with the possibility of FTL signalling
+    (impossible) is a routine error.

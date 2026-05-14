@@ -1,0 +1,36 @@
+concept: Supersymmetry
+domain: physics
+secondary_domains:
+- theoretical-physics
+- particle-physics
+aliases:
+- SUSY
+broader:
+- extensions of the standard model
+related:
+- standard model of particle physics
+- string theory
+- dark matter
+- higgs boson
+confidence: high
+callouts:
+- type: definition
+  title: Supersymmetry
+  body: Supersymmetry is the conjectured spacetime symmetry relating bosons (integer-spin
+    particles) and fermions (half-integer-spin particles) — predicting that every
+    Standard-Model particle has a superpartner with the opposite statistics — motivated
+    by hierarchical-naturalness arguments, gauge-coupling unification, and dark-matter
+    candidates (the lightest neutralino).
+- type: key-claim
+  title: Key claim about Supersymmetry
+  body: Supersymmetry was the leading beyond-Standard-Model framework for the late
+    20th and early 21st century, but the LHC's failure to detect supersymmetric particles
+    up to ~1–2 TeV has substantially weakened the naturalness motivation that originally
+    favoured low-scale SUSY.
+- type: warning
+  title: Common pitfall regarding Supersymmetry
+  body: Supersymmetry is sometimes described as "ruled out" by the LHC; this is too
+    strong — high-scale SUSY remains theoretically viable and consistent with all
+    data — but the originally motivating low-scale natural SUSY is in tension with
+    current limits, and the field's enthusiasm for SUSY as the BSM scenario has cooled
+    accordingly.

@@ -1,0 +1,35 @@
+concept: Kilonova
+domain: astrophysics
+secondary_domains:
+- high-energy-astrophysics
+- multi-messenger-astronomy
+aliases:
+- macronova
+- neutron-star merger transient
+broader:
+- compact-object merger transients
+related:
+- neutron star
+- gravitational waves
+- multi-messenger astronomy
+- r-process nucleosynthesis
+confidence: high
+callouts:
+- type: definition
+  title: Kilonova
+  body: A Kilonova is the optical–infrared electromagnetic transient powered by the
+    radioactive decay of r-process elements synthesised in the ejecta of a binary-neutron-star
+    (or possibly NS–BH) merger, with characteristic luminosity ~10⁴¹–10⁴² erg/s and
+    timescales of days to weeks.
+- type: key-claim
+  title: Key claim about Kilonova
+  body: A Kilonova was first conclusively observed in AT2017gfo following GW170817,
+    providing direct empirical evidence that neutron-star mergers are major sites
+    of heavy r-process element production (gold, platinum, uranium) and inaugurating
+    the era of multi-messenger astronomy.
+- type: warning
+  title: Common pitfall regarding Kilonova
+  body: A Kilonova light curve depends on the composition (lanthanide-rich vs lanthanide-poor)
+    of the merger ejecta, and the geometry of the post-merger debris is not well-constrained;
+    numerical predictions for kilonova brightness as a function of viewing angle have
+    systematic uncertainties of factors of several.

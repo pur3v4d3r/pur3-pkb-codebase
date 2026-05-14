@@ -1,0 +1,39 @@
+concept: Speed Of Light
+domain: physics
+secondary_domains:
+- special-relativity
+- electromagnetism
+aliases:
+- c
+- light speed
+broader:
+- fundamental physical constants
+related:
+- special relativity
+- mass energy equivalence
+- photon
+- planck units
+confidence: high
+callouts:
+- type: definition
+  title: Speed Of Light
+  body: The Speed Of Light c = 299,792,458 m/s (exact, by 1983 SI definition of the
+    metre) is the velocity of electromagnetic radiation in vacuum and the universal
+    speed limit for all signal propagation, the conversion factor between space and
+    time in special relativity, and the structural constant appearing in mass-energy
+    equivalence E = mc².
+- type: key-claim
+  title: Key claim about Speed Of Light
+  body: The Speed Of Light is invariant under Lorentz transformations — the same in
+    every inertial reference frame — a postulate of special relativity confirmed in
+    over a century of experimental tests including the Michelson–Morley experiment,
+    modern Hughes–Drever-type tests of Lorentz invariance, and high-energy-cosmic-ray
+    observations sensitive to even very small Lorentz violations.
+- type: warning
+  title: Common pitfall regarding Speed Of Light
+  body: The Speed Of Light is conventionally described as "the speed of light"; in
+    fact it is the universal invariant speed of all massless particles and the maximum
+    signal-propagation speed in any inertial frame, with light merely happening to
+    travel at this speed because photons are (effectively) massless — the framing
+    as "the speed of light" obscures that c is a structural constant of spacetime
+    independent of any specific particle.

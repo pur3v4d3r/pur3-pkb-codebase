@@ -1,0 +1,35 @@
+concept: Nebula
+domain: astrophysics
+secondary_domains:
+- interstellar-medium
+- observational-astronomy
+aliases:
+- nebulae
+broader:
+- interstellar gas-and-dust structures
+related:
+- planetary nebula
+- supernova
+- protostar
+- molecular cloud
+confidence: high
+callouts:
+- type: definition
+  title: Nebula
+  body: A Nebula is, in modern usage, an interstellar cloud of gas and dust, including
+    emission nebulae (ionised, glowing in recombination lines), reflection nebulae
+    (illuminated by scattered starlight), dark nebulae (silhouetted against background
+    light), and supernova remnants — historically the term also encompassed extragalactic
+    objects later recognised as separate galaxies.
+- type: key-claim
+  title: Key claim about Nebula
+  body: A Nebula is the immediate environment in which star formation takes place
+    (giant molecular clouds → cores → protostars) and the medium into which evolved
+    stars and supernovae return their processed material — closing the matter cycle
+    of galactic chemical evolution.
+- type: warning
+  title: Common pitfall regarding Nebula
+  body: A Nebula in older astronomical literature (pre-1925) often refers to objects
+    later reclassified as galaxies — Hubble's identification of Cepheids in M31 settled
+    the "Great Debate" that the "Andromeda Nebula" was actually an external galaxy
+    — and reading older literature without this historical context is regularly misleading.

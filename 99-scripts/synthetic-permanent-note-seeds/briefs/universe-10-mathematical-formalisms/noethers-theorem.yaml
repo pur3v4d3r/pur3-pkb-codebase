@@ -1,0 +1,38 @@
+concept: Noether's Theorem
+domain: mathematical-physics
+secondary_domains:
+- mathematical-physics
+- classical-field-theory
+aliases:
+- Noether theorem
+- first Noether theorem
+broader:
+- mathematical foundations of conservation laws
+related:
+- action principle
+- lagrangian mechanics
+- gauge theory
+- group theory in physics
+confidence: high
+callouts:
+- type: definition
+  title: Noether's Theorem
+  body: Noether's Theorem is the foundational result, proved by Emmy Noether (1918),
+    establishing that for every continuous symmetry of the action of a physical system
+    there exists a corresponding conserved current (and, by integration, a conserved
+    charge) — providing the mathematical bridge between symmetry and conservation
+    laws in field theory and classical mechanics.
+- type: key-claim
+  title: Key claim about Noether's Theorem
+  body: 'Noether''s Theorem unifies the conservation laws of classical and quantum
+    physics under a single mathematical principle: time-translation invariance gives
+    energy conservation, spatial-translation invariance gives momentum conservation,
+    rotational invariance gives angular-momentum conservation, and gauge invariance
+    gives charge conservation — all as instances of one theorem.'
+- type: warning
+  title: Common pitfall regarding Noether's Theorem
+  body: Noether's Theorem in its original form applies to global continuous symmetries;
+    the Second Noether Theorem (concerning local / gauge symmetries) yields not conservation
+    laws in the usual sense but identities among the field equations (Bianchi identities
+    and their analogues), and conflating the consequences of global and local Noether
+    theorems is a regular source of confusion in textbook treatments.

@@ -1,0 +1,36 @@
+concept: Edwin Hubble
+domain: history-of-science
+secondary_domains:
+- observational-cosmology
+- extragalactic-astronomy
+aliases:
+- Hubble
+broader:
+- pioneers of observational cosmology
+related:
+- hubble's law
+- andromeda galaxy
+- hubble sequence
+- expansion of the universe
+confidence: high
+callouts:
+- type: definition
+  title: Edwin Hubble
+  body: Edwin Hubble (1889–1953) was the American astronomer whose observations at
+    the Mount Wilson 100-inch telescope established that "spiral nebulae" are galaxies
+    external to the Milky Way (1923–24) and that galactic redshift is proportional
+    to distance (1929), founding extragalactic astronomy and observational cosmology.
+- type: key-claim
+  title: Key claim about Edwin Hubble
+  body: Edwin Hubble's redshift–distance relation provided the first observational
+    evidence for cosmic expansion, leading directly to the abandonment of the static-universe
+    model and the development of Big Bang cosmology, and his morphological classification
+    scheme (the Hubble sequence) remains the working taxonomy of galaxies a century
+    later.
+- type: warning
+  title: Common pitfall regarding Edwin Hubble
+  body: Edwin Hubble's expansion-law derivation is widely credited as his sole work;
+    in fact Georges Lemaître published the velocity–distance relation and the first
+    estimate of the expansion rate two years earlier (1927), and the IAU resolution
+    of 2018 renamed the law the "Hubble–Lemaître law" to recognise this precedence
+    — the older "Hubble's law" framing is now formally deprecated.

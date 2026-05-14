@@ -1,0 +1,38 @@
+concept: Kuiper Belt
+domain: planetary-science
+secondary_domains:
+- solar-system
+- planetary-science
+aliases:
+- Edgeworth–Kuiper belt
+- trans-Neptunian objects
+broader:
+- solar-system small-body reservoirs
+related:
+- oort cloud
+- new horizons mission
+- pluto
+- trans-neptunian object
+confidence: high
+callouts:
+- type: definition
+  title: Kuiper Belt
+  body: The Kuiper Belt is the disc-shaped region of the outer Solar System extending
+    from Neptune's orbit (~30 AU) to ~50 AU, populated by icy planetesimals (trans-Neptunian
+    objects) that include the dwarf planets Pluto, Eris, Makemake, and Haumea — recognised
+    as a distinct dynamical structure following the discovery of (15760) 1992 QB1
+    in 1992.
+- type: key-claim
+  title: Key claim about Kuiper Belt
+  body: The Kuiper Belt has been characterised in detail by ground-based surveys (CFEPS,
+    OSSOS) and by the New Horizons spacecraft's flyby of Pluto (2015) and Arrokoth
+    (2019), revealing a complex dynamical structure (cold classical, hot classical,
+    resonant, and scattered populations) that records the orbital evolution of the
+    giant planets in the early Solar System.
+- type: warning
+  title: Common pitfall regarding Kuiper Belt
+  body: The Kuiper Belt's mass is much smaller than expected for in-situ formation
+    of its largest objects (Pluto, Eris); the prevailing explanation is that most
+    of its primordial mass was scattered away during giant-planet migration, but this
+    dynamical depletion remains an active research problem rather than a fully-settled
+    inference.

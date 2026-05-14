@@ -1,0 +1,36 @@
+concept: Lagrange Points
+domain: planetary-science
+secondary_domains:
+- orbital-mechanics
+aliases:
+- Lagrangian points
+- libration points
+- L1–L5
+broader:
+- solutions of the restricted three-body problem
+related:
+- james webb space telescope
+- hill sphere
+- orbital mechanics
+confidence: high
+callouts:
+- type: definition
+  title: Lagrange Points
+  body: The Lagrange Points are the five equilibrium positions in the restricted three-body
+    problem at which a small object can maintain a stationary position relative to
+    two larger orbiting bodies — three collinear points (L1, L2, L3, all unstable)
+    and two triangular points (L4, L5, stable for primary-mass-ratio > ~25).
+- type: key-claim
+  title: Key claim about Lagrange Points
+  body: 'The Lagrange Points are operational sites for major space missions: the Sun–Earth
+    L1 hosts SOHO and DSCOVR (continuous Sun monitoring); Sun–Earth L2 hosts JWST,
+    Euclid, and Gaia (cold, stable thermal environment); and the Trojan asteroids
+    occupy the Sun–Jupiter L4 and L5 points in real-world demonstrations of triangular-point
+    stability.'
+- type: warning
+  title: Common pitfall regarding Lagrange Points
+  body: The Lagrange Points L1–L3 are unstable equilibria; spacecraft at these locations
+    (JWST at L2, etc.) require periodic station-keeping manoeuvres to maintain position,
+    and treating L1/L2/L3 as "free parking" without acknowledging the propellant cost
+    of station-keeping misses an operationally important distinction between stable
+    and unstable Lagrange points.

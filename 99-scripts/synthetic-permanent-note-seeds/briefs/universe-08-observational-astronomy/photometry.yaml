@@ -1,0 +1,35 @@
+concept: Photometry
+domain: astronomy
+secondary_domains:
+- observational-techniques
+aliases:
+- astronomical photometry
+broader:
+- observational techniques in astronomy
+related:
+- spectroscopy
+- hertzsprung-russell diagram
+- stellar classification
+- transit method
+confidence: high
+callouts:
+- type: definition
+  title: Photometry
+  body: Photometry is the measurement of the integrated brightness of an astronomical
+    source through one or more standardised filters (Johnson–Cousins UBVRI, SDSS ugriz,
+    Gaia G/BP/RP, etc.), used to characterise stellar populations, transient brightness
+    variations, and to estimate redshifts of objects too faint for spectroscopy.
+- type: key-claim
+  title: Key claim about Photometry
+  body: Photometry — particularly multi-band photometry for "photometric redshift"
+    estimation — is the only practical technique for characterising the billions of
+    faint sources detected in modern wide-field surveys (DES, LSST/Rubin, Euclid),
+    since spectroscopy of every detected object is computationally infeasible.
+- type: warning
+  title: Common pitfall regarding Photometry
+  body: Photometry-based parameter estimates (photometric redshifts, photometric metallicities)
+    carry systematic uncertainties significantly larger than spectroscopic equivalents;
+    "photo-z" outliers in the few-percent range affect cluster-cosmology and weak-lensing
+    analyses non-trivially, and survey-cosmology results that rely on photometric
+    redshifts must marginalise over photo-z systematics that are often the dominant
+    error budget.

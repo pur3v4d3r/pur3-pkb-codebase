@@ -1,0 +1,35 @@
+concept: Roche Limit
+domain: planetary-science
+secondary_domains:
+- orbital-mechanics
+- planetary-dynamics
+aliases:
+- Roche radius
+- Roche distance
+broader:
+- tidal disruption thresholds
+related:
+- tidal locking
+- ring system
+- black hole
+confidence: high
+callouts:
+- type: definition
+  title: Roche Limit
+  body: The Roche Limit is the orbital distance within which a satellite held together
+    solely by self-gravity is tidally disrupted by its primary, given approximately
+    by R_Roche ≈ 2.44 R_primary (ρ_primary/ρ_satellite)^(1/3) for a fluid body and
+    somewhat smaller for a rigid body held together by material strength.
+- type: key-claim
+  title: Key claim about Roche Limit
+  body: The Roche Limit explains the existence of planetary ring systems (Saturn's,
+    Uranus's, Neptune's, Jupiter's main and gossamer rings), all of which lie inside
+    the parent planet's Roche limit and are interpreted as material that either could
+    not coalesce into a moon or that resulted from tidal disruption of one.
+- type: warning
+  title: Common pitfall regarding Roche Limit
+  body: The Roche Limit's commonly quoted formula assumes a fluid satellite and ignores
+    material strength; small bodies held together by tensile strength (essentially
+    all asteroids and small icy bodies) can survive well inside the fluid Roche radius,
+    and the popular "anything inside the Roche limit gets ripped apart" framing requires
+    this material-strength caveat for accuracy.

@@ -1,0 +1,32 @@
+concept: Galaxy Filaments
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+- large-scale-structure
+aliases:
+- cosmic filaments
+broader:
+- components of the cosmic web
+related:
+- cosmic web
+- voids in cosmology
+- large-scale structure of the cosmos
+- dark matter
+confidence: high
+callouts:
+- type: definition
+  title: Galaxy Filaments
+  body: Galaxy Filaments are the elongated, roughly cylindrical concentrations of
+    galaxies and dark matter — typically tens of Mpc long — that connect galaxy clusters
+    and form the densest part of the cosmic web outside of nodes.
+- type: key-claim
+  title: Key claim about Galaxy Filaments
+  body: Galaxy Filaments contain a substantial fraction of the warm-hot intergalactic
+    medium thought to harbour the "missing baryons," and recent X-ray and Sunyaev–Zel'dovich
+    detections have begun to confirm this prediction.
+- type: warning
+  title: Common pitfall regarding Galaxy Filaments
+  body: Galaxy Filaments identified in galaxy surveys are not unambiguous structures
+    but depend strongly on the chosen filament-finder algorithm; comparisons between
+    observation and simulation must use the same algorithmic definition or the comparison
+    is not well-posed.

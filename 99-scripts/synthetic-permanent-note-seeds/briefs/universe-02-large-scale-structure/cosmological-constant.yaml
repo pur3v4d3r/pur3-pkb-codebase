@@ -1,0 +1,36 @@
+concept: Cosmological Constant
+domain: cosmology
+secondary_domains:
+- general-relativity
+- theoretical-physics
+aliases:
+- Λ
+- lambda
+broader:
+- terms in the Einstein field equations
+related:
+- dark energy
+- vacuum energy
+- lambda-cdm-model
+- einstein field equations
+confidence: high
+callouts:
+- type: definition
+  title: Cosmological Constant
+  body: The Cosmological Constant is the term Λ that Einstein added to his field equations
+    in 1917 (originally to permit a static universe) and that, in modern cosmology,
+    parameterises a uniform energy density of empty space which drives the observed
+    accelerating expansion.
+- type: key-claim
+  title: Key claim about Cosmological Constant
+  body: The Cosmological Constant fits the observed late-time acceleration with a
+    single parameter and no dynamics, making it the simplest viable model of dark
+    energy; alternatives like quintessence are motivated only if better data eventually
+    demands a time-varying equation of state.
+- type: warning
+  title: Common pitfall regarding Cosmological Constant
+  body: The Cosmological Constant problem — the disagreement between the observed
+    value of Λ and the value naively estimated from quantum field theory by ~120 orders
+    of magnitude — is one of the largest unexplained discrepancies in physics, and
+    citing the cosmological constant as "explained" ignores the worst fine-tuning
+    in the Standard Model + GR.

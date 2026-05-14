@@ -1,0 +1,34 @@
+concept: Schwarzschild Radius
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- black-hole-physics
+aliases:
+- gravitational radius
+broader:
+- characteristic length scales of compact objects
+related:
+- schwarzschild metric
+- event horizon
+- black hole
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Schwarzschild Radius
+  body: The Schwarzschild Radius is the radial coordinate r_s = 2GM/c² at which the
+    Schwarzschild metric exhibits a coordinate singularity and at which the event
+    horizon of a non-rotating uncharged black hole sits — for the Sun, ~3 km; for
+    the Earth, ~9 mm.
+- type: key-claim
+  title: Key claim about Schwarzschild Radius
+  body: 'The Schwarzschild Radius defines whether an object of given mass is a black
+    hole: any mass compressed inside its own Schwarzschild radius forms a black hole
+    in classical GR, and this gives the criterion (M/R) > c²/(2G) for gravitational
+    collapse.'
+- type: warning
+  title: Common pitfall regarding Schwarzschild Radius
+  body: The Schwarzschild Radius is a coordinate-dependent statement; in coordinates
+    regular at the horizon (Eddington–Finkelstein, Kruskal–Szekeres) nothing pathological
+    happens at r_s, and the impression that the radius marks a physical singularity
+    is a coordinate artefact of the standard Schwarzschild chart.

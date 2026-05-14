@@ -1,0 +1,36 @@
+concept: Stress Energy Tensor
+domain: mathematical-physics
+secondary_domains:
+- general-relativity
+- classical-field-theory
+aliases:
+- energy-momentum tensor
+- T_μν
+broader:
+- tensor calculus
+related:
+- einstein field equations
+- metric tensor
+- general relativity
+- conservation of energy
+confidence: high
+callouts:
+- type: definition
+  title: Stress Energy Tensor
+  body: The Stress Energy Tensor T_μν is the symmetric rank-2 tensor encoding the
+    local density and flux of energy and momentum in a spacetime region, with components
+    representing energy density (T⁰⁰), momentum density / energy flux (T⁰i, Tⁱ⁰),
+    and stress (Tⁱʲ), and serving as the source of gravity in the Einstein field equations.
+- type: key-claim
+  title: Key claim about Stress Energy Tensor
+  body: The Stress Energy Tensor's covariant divergence vanishes (∇_μ T^μν = 0) as
+    a consequence of the Bianchi identity applied to the Einstein equations, encoding
+    the conservation of energy-momentum as a geometric identity rather than as a separate
+    postulate — a profound feature of general relativity.
+- type: warning
+  title: Common pitfall regarding Stress Energy Tensor
+  body: The Stress Energy Tensor's covariant conservation does not correspond, in
+    curved spacetime, to a globally conserved energy in the usual flat-spacetime sense;
+    the absence of a global timelike Killing vector in generic spacetimes means that
+    "energy is not conserved" in cosmological contexts in the elementary sense — a
+    counterintuitive feature widely under-appreciated in popular accounts.

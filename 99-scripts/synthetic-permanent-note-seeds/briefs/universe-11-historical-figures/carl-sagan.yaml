@@ -1,0 +1,36 @@
+concept: Carl Sagan
+domain: history-of-science
+secondary_domains:
+- astrobiology
+- science-communication
+aliases:
+- Sagan
+broader:
+- twentieth-century planetary scientists and science communicators
+related:
+- astrobiology
+- exoplanet
+- drake equation
+- voyager program
+confidence: high
+callouts:
+- type: definition
+  title: Carl Sagan
+  body: Carl Sagan (1934–1996) was the American astronomer, planetary scientist, astrobiologist,
+    and science communicator whose research contributions to planetary atmospheric
+    physics and the search for extraterrestrial intelligence were paralleled by influential
+    public-facing work, most notably the Cosmos television series and book (1980).
+- type: key-claim
+  title: Key claim about Carl Sagan
+  body: Carl Sagan was instrumental in the design and scientific direction of the
+    Voyager Golden Record and the Pioneer plaques, in the discovery of greenhouse
+    warming on Venus, and in establishing astrobiology as a recognised field — making
+    him arguably the most influential planetary-science science-communicator of the
+    20th century.
+- type: warning
+  title: Common pitfall regarding Carl Sagan
+  body: Carl Sagan's popular reputation as the iconic "astronomer of the public sphere"
+    sometimes overshadows his serious scientific contributions in planetary atmospheric
+    physics, and treatments that focus exclusively on his communication work without
+    acknowledging his peer-reviewed research underrepresent the technical foundation
+    of his career.

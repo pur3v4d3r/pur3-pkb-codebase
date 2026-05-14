@@ -1,0 +1,39 @@
+concept: Voyager Program
+domain: space-exploration
+secondary_domains:
+- planetary-science
+- space-physics
+aliases:
+- Voyager 1 and 2
+- Voyager probes
+broader:
+- NASA outer-planet missions
+related:
+- heliosphere
+- kuiper belt
+- new horizons mission
+- parker solar probe
+confidence: high
+callouts:
+- type: definition
+  title: Voyager Program
+  body: The Voyager Program is the pair of NASA spacecraft (Voyager 1 and Voyager
+    2) launched in 1977 on grand-tour trajectories enabled by a rare alignment of
+    the outer planets, executing flybys of Jupiter, Saturn, Uranus (Voyager 2 only),
+    and Neptune (Voyager 2 only) and continuing into the heliopause and beyond as
+    the first interstellar probes.
+- type: key-claim
+  title: Key claim about Voyager Program
+  body: The Voyager Program produced the first detailed reconnaissance of the outer
+    Solar System — discovering volcanism on Io, the rings of Jupiter, additional moons
+    of every gas giant, and the structure of Saturn's, Uranus's, and Neptune's ring–satellite
+    systems — and Voyager 1 (2012) and Voyager 2 (2018) became the first human-made
+    objects to cross the heliopause and conduct in-situ measurements of the very local
+    interstellar medium.
+- type: warning
+  title: Common pitfall regarding Voyager Program
+  body: The Voyager Program's spacecraft instruments are radioisotope-thermoelectric-generator-powered
+    with declining output, and most experiments have already been switched off; current
+    operations support only a small subset of the original instrumentation, and statements
+    about "active observations" should be checked against NASA's published end-of-life
+    schedule rather than treated as indefinitely ongoing.

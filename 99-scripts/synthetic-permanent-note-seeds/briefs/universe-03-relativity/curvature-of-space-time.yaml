@@ -1,0 +1,34 @@
+concept: Curvature Of Space Time
+domain: physics
+secondary_domains:
+- general-relativity
+- differential-geometry
+aliases:
+- spacetime curvature
+broader:
+- geometric properties of spacetime
+related:
+- general relativity
+- einstein field equations
+- riemannian geometry
+- geodesics
+confidence: high
+callouts:
+- type: definition
+  title: Curvature Of Space Time
+  body: Curvature Of Space Time is the deviation of spacetime geometry from flat Minkowski
+    space, quantified by the Riemann curvature tensor and its contractions (Ricci
+    tensor, scalar curvature), and produced — via the Einstein field equations — by
+    the local stress-energy tensor.
+- type: key-claim
+  title: Key claim about Curvature Of Space Time
+  body: Curvature Of Space Time is the geometric content of gravity in general relativity;
+    the equivalence principle ensures that gravitational effects can always be transformed
+    away locally, but the curvature, which is a tensor, cannot be transformed away
+    globally and so encodes the genuine physics of gravity.
+- type: warning
+  title: Common pitfall regarding Curvature Of Space Time
+  body: Curvature Of Space Time is sometimes visualised by the rubber-sheet analogy
+    with weights creating dips, but this analogy uses gravity to explain gravity (the
+    weights pull down because of gravity) and represents only spatial curvature, not
+    the full spacetime curvature that includes time-time and time-space components.

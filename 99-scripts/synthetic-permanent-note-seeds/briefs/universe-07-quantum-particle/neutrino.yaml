@@ -1,0 +1,35 @@
+concept: Neutrino
+domain: physics
+secondary_domains:
+- particle-physics
+- astrophysics
+aliases:
+- neutrinos
+broader:
+- lepton
+related:
+- lepton
+- neutrino oscillation
+- supernova
+- big bang nucleosynthesis
+confidence: high
+callouts:
+- type: definition
+  title: Neutrino
+  body: A Neutrino is one of three nearly-massless (~10⁻²–10⁻³ eV scale, mass ordering
+    still uncertain) electrically-neutral leptons that interact only through the weak
+    nuclear force and gravity, produced in nuclear reactions and weak decays and detected
+    through extremely rare charged- and neutral-current interactions in massive instrumented
+    volumes.
+- type: key-claim
+  title: Key claim about Neutrino
+  body: A Neutrino was shown to oscillate between flavours (Super-Kamiokande and SNO,
+    recognised by the 2015 Nobel Prize), establishing that at least two of the three
+    neutrinos have non-zero mass — the only confirmed laboratory evidence of physics
+    beyond the original (massless-neutrino) Standard Model.
+- type: warning
+  title: Common pitfall regarding Neutrino
+  body: A Neutrino's absolute mass scale is not measured (only mass-squared differences
+    from oscillations), the mass ordering (normal vs inverted) is not yet known, and
+    whether neutrinos are Dirac or Majorana fermions is unsettled; popular references
+    that quote "the neutrino mass" as a single number are over-precise.

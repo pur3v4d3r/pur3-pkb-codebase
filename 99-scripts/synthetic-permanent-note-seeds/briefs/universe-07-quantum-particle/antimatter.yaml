@@ -1,0 +1,35 @@
+concept: Antimatter
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- antiparticles
+- antimatter
+broader:
+- matter and antimatter
+related:
+- matter-antimatter asymmetry
+- baryogenesis
+- mass-energy equivalence
+- particle-antiparticle annihilation
+confidence: high
+callouts:
+- type: definition
+  title: Antimatter
+  body: Antimatter is matter composed of antiparticles — particles with the same mass
+    and spin as their normal-matter counterparts but opposite electric charge, opposite
+    additive quantum numbers, and (for composite systems) opposite particle number
+    — predicted by Dirac (1928) and first observed as positrons by Anderson (1932).
+- type: key-claim
+  title: Key claim about Antimatter
+  body: Antimatter and matter, when brought together, annihilate into radiation in
+    accord with the conservation laws of quantum field theory, and antihydrogen atoms
+    have been synthesised, trapped, and shown spectroscopically to behave identically
+    to ordinary hydrogen at current measurement precision — confirming CPT invariance.
+- type: warning
+  title: Common pitfall regarding Antimatter
+  body: Antimatter is sometimes presented as if its gravitational behaviour were unknown
+    ("does antimatter fall up?"); the AEgIS, ALPHA-g, and GBAR experiments now provide
+    direct experimental evidence (ALPHA-g 2023) that antihydrogen falls under gravity
+    in the same direction as matter at the few-percent level, refuting the popular
+    "antigravity" speculation.

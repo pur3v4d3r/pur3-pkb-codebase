@@ -1,0 +1,32 @@
+concept: Cosmological Principle
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+aliases:
+- cosmological principle
+broader:
+- foundational assumptions of cosmology
+related:
+- copernican principle
+- observable universe
+- lambda-cdm-model
+confidence: high
+callouts:
+- type: definition
+  title: Cosmological Principle
+  body: The Cosmological Principle is the working assumption that, on sufficiently
+    large scales (≳ 100 Mpc), the universe is statistically homogeneous (the same
+    everywhere) and isotropic (the same in every direction), justifying the use of
+    the FLRW metric in cosmology.
+- type: key-claim
+  title: Key claim about Cosmological Principle
+  body: The Cosmological Principle is empirically supported by the near-uniformity
+    of the CMB, the statistical isotropy of galaxy surveys, and the success of the
+    FLRW-based ΛCDM model that assumes it; it is an idealisation but a tightly constrained
+    one.
+- type: warning
+  title: Common pitfall regarding Cosmological Principle
+  body: The Cosmological Principle is sometimes treated as an a priori truth, but
+    it is a falsifiable empirical claim, and several recent anomalies (CMB low-multipole
+    alignments, large-scale velocity flows, possible violations of statistical isotropy
+    in quasar dipoles) keep it under active observational scrutiny.

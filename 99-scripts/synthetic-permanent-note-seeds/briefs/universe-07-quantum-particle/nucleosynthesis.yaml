@@ -1,0 +1,36 @@
+concept: Nucleosynthesis
+domain: physics
+secondary_domains:
+- nuclear-astrophysics
+aliases:
+- element synthesis
+broader:
+- origins of the chemical elements
+related:
+- stellar nucleosynthesis
+- big bang nucleosynthesis
+- supernova
+- r-process
+confidence: high
+callouts:
+- type: definition
+  title: Nucleosynthesis
+  body: Nucleosynthesis is the production of atomic nuclei by nuclear reactions, encompassing
+    big-bang (primordial) nucleosynthesis of the lightest elements (²H, ³He, ⁴He,
+    ⁷Li) in the first ~20 minutes of cosmic history; stellar nucleosynthesis up through
+    the iron peak; and explosive (supernova, kilonova) and cosmic-ray spallation processes
+    for the remainder.
+- type: key-claim
+  title: Key claim about Nucleosynthesis
+  body: Nucleosynthesis as a coherent field — divided into BBN, stellar, and explosive
+    contributions — quantitatively reproduces the observed abundances of essentially
+    all stable nuclei across the periodic table, with the relative contributions of
+    each channel established by isotopic and elemental abundance patterns in solar-system,
+    stellar, and meteoritic samples.
+- type: warning
+  title: Common pitfall regarding Nucleosynthesis
+  body: Nucleosynthesis predictions for individual heavy r-process isotopes carry
+    significant nuclear-data uncertainties — the masses, beta-decay rates, and neutron-capture
+    cross sections of neutron-rich nuclei far from stability are mostly unmeasured
+    — and quoted abundance predictions for individual isotopes should be read with
+    awareness of these nuclear-physics inputs.

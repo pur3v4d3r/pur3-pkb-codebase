@@ -1,0 +1,38 @@
+concept: Big Bang Nucleosynthesis
+domain: physics
+secondary_domains:
+- cosmology
+- nuclear-astrophysics
+aliases:
+- BBN
+- primordial nucleosynthesis
+broader:
+- nucleosynthesis
+related:
+- big bang theory
+- nucleosynthesis
+- cosmic microwave background radiation
+- neutrino
+confidence: high
+callouts:
+- type: definition
+  title: Big Bang Nucleosynthesis
+  body: Big Bang Nucleosynthesis is the production of the lightest nuclei (²H, ³He,
+    ⁴He, ⁷Li, with trace ⁶Li and beryllium) during the first ~20 minutes of the universe's
+    expansion, when temperatures fell from ~10¹⁰ K to ~10⁹ K and the rates of weak-interaction
+    freeze-out and nuclear fusion conspired to produce a universal mass fraction of
+    ~25% helium-4.
+- type: key-claim
+  title: Key claim about Big Bang Nucleosynthesis
+  body: Big Bang Nucleosynthesis predicts the primordial abundances of D, ³He, ⁴He,
+    and ⁷Li as a function of the single parameter η (baryon-to-photon ratio), and
+    the agreement with observed abundances over nine orders of magnitude in abundance
+    is one of the three foundational empirical pillars of the hot Big Bang model (with
+    Hubble expansion and the CMB).
+- type: warning
+  title: Common pitfall regarding Big Bang Nucleosynthesis
+  body: Big Bang Nucleosynthesis exhibits a long-standing "lithium problem" — the
+    predicted ⁷Li abundance is roughly a factor of three higher than that observed
+    in metal-poor halo stars — and while astrophysical depletion mechanisms can plausibly
+    resolve the discrepancy, the persistence of the tension is a real open issue rather
+    than a fully-settled match.

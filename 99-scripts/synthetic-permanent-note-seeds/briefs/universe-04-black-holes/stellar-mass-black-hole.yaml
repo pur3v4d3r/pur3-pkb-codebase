@@ -1,0 +1,34 @@
+concept: Stellar Mass Black Hole
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- stellar black hole
+broader:
+- black holes by mass class
+related:
+- core collapse supernova
+- neutron star
+- ligo detection
+- tolman-oppenheimer-volkoff limit
+confidence: high
+callouts:
+- type: definition
+  title: Stellar Mass Black Hole
+  body: A Stellar Mass Black Hole is a black hole formed from the gravitational collapse
+    of a massive star at the end of its life, with mass typically in the range ~3
+    to ~100 solar masses, and detected through X-ray binaries, gravitational-wave
+    mergers, and microlensing.
+- type: key-claim
+  title: Key claim about Stellar Mass Black Hole
+  body: A Stellar Mass Black Hole is the only black-hole population for which the
+    formation channel — core-collapse of massive stars beyond the TOV limit — is observationally
+    well-established, with binary merger detections by LIGO/Virgo confirming masses
+    up into the 50 M☉ range.
+- type: warning
+  title: Common pitfall regarding Stellar Mass Black Hole
+  body: A Stellar Mass Black Hole population shows an apparent "upper mass gap" (~50–130
+    M☉) attributable to pair-instability supernovae, but events like GW190521 lie
+    in or above this gap, indicating either non-stellar origins (mergers of mergers,
+    primordial) or revisions to stellar-evolution physics — the channel inference
+    is not unique.

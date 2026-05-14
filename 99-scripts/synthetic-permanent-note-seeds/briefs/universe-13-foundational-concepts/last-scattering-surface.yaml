@@ -1,0 +1,38 @@
+concept: Last Scattering Surface
+domain: physics
+secondary_domains:
+- cosmology
+- cmb-research
+aliases:
+- surface of last scattering
+- LSS
+broader:
+- cosmic microwave background origins
+related:
+- recombination epoch
+- cosmic microwave background radiation
+- planck satellite
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Last Scattering Surface
+  body: The Last Scattering Surface is the surface in spacetime at cosmic age ~370,000
+    years from which the cosmic-microwave-background photons we observe today were
+    last scattered before free-streaming to the present, located at comoving distance
+    ~14 Gpc and observed today as a thin spherical shell centred on the Earth at redshift
+    z ≈ 1090.
+- type: key-claim
+  title: Key claim about Last Scattering Surface
+  body: The Last Scattering Surface is the deepest direct electromagnetic image of
+    the universe we can ever obtain — the universe was opaque to electromagnetic radiation
+    at earlier epochs — and its temperature anisotropies (the patterns of the CMB)
+    carry the fingerprint of the universe's matter and energy content, encoding the
+    cosmological parameters measured by COBE, WMAP, Planck, and ground-based CMB experiments.
+- type: warning
+  title: Common pitfall regarding Last Scattering Surface
+  body: The Last Scattering Surface is not infinitesimally thin — the recombination
+    process took ~10⁵ years, corresponding to a finite shell thickness that limits
+    the angular resolution of the CMB to ~7 arcminutes (small-scale anisotropies are
+    washed out by the LSS thickness) — and treatments of CMB physics that ignore this
+    finite-thickness damping ("Silk damping") miss an important physical effect.

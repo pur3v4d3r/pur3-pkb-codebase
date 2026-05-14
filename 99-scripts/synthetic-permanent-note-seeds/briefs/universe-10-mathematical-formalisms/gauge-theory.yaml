@@ -1,0 +1,37 @@
+concept: Gauge Theory
+domain: mathematical-physics
+secondary_domains:
+- theoretical-physics
+- mathematical-physics
+aliases:
+- gauge field theory
+- Yang-Mills theory
+broader:
+- quantum field theory
+related:
+- quantum field theory
+- group theory in physics
+- standard model of particle physics
+- differential geometry
+confidence: high
+callouts:
+- type: definition
+  title: Gauge Theory
+  body: Gauge Theory is the framework in which dynamical fields are coupled through
+    a local symmetry group whose group-element-valued parameters can be chosen independently
+    at each point of spacetime, with the Yang–Mills generalisation (1954) of Maxwell's
+    U(1) electromagnetism to non-abelian groups providing the mathematical structure
+    underlying the Standard Model of particle physics.
+- type: key-claim
+  title: Key claim about Gauge Theory
+  body: Gauge Theory underlies all known fundamental interactions — electromagnetism
+    (U(1)), the weak interaction (SU(2)), the strong interaction (SU(3)), and (in
+    the geometric reformulation) gravity itself — making local gauge invariance arguably
+    the deepest organising principle of modern physics.
+- type: warning
+  title: Common pitfall regarding Gauge Theory
+  body: Gauge Theory's "gauge symmetries" are not symmetries in the usual sense —
+    they are redundancies in the field-theoretic description rather than physical
+    transformations between distinct states — and confusing gauge symmetry with global
+    symmetry leads to errors about conserved charges, Noether currents, and what counts
+    as physical observables.

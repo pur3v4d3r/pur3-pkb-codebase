@@ -1,0 +1,38 @@
+concept: Kepler's Laws Of Planetary Motion
+domain: planetary-science
+secondary_domains:
+- classical-mechanics
+- history-of-science
+aliases:
+- Kepler's laws
+- three laws of planetary motion
+broader:
+- classical orbital mechanics
+related:
+- isaac newton
+- johannes kepler
+- exoplanet
+- orbital mechanics
+confidence: high
+callouts:
+- type: definition
+  title: Kepler's Laws Of Planetary Motion
+  body: 'Kepler''s Laws Of Planetary Motion are three empirical regularities discovered
+    by Johannes Kepler (1609, 1619) describing the motion of the planets around the
+    Sun: (1) orbits are ellipses with the Sun at one focus, (2) the radius vector
+    sweeps equal areas in equal times, and (3) the orbital period squared is proportional
+    to the semi-major axis cubed.'
+- type: key-claim
+  title: Key claim about Kepler's Laws Of Planetary Motion
+  body: Kepler's Laws Of Planetary Motion were derived empirically from Tycho Brahe's
+    observations and were subsequently shown by Newton (1687) to follow from the inverse-square
+    law of gravitation applied to point masses — the first major unification of celestial
+    and terrestrial mechanics in physics.
+- type: warning
+  title: Common pitfall regarding Kepler's Laws Of Planetary Motion
+  body: Kepler's Laws Of Planetary Motion apply rigorously only to the two-body problem
+    with a point-mass central body; in the Solar System the laws are systematically
+    violated at the level of perihelion precession and gravitational interactions
+    among planets, and the famously anomalous perihelion precession of Mercury (43
+    arcseconds/century beyond Newtonian predictions) was the first empirical hint
+    of general relativity.

@@ -1,0 +1,32 @@
+concept: Observable Universe
+domain: cosmology
+secondary_domains:
+- observational-cosmology
+aliases:
+- visible universe
+broader:
+- cosmic regions
+related:
+- expansion of the universe
+- particle horizon
+- cosmological principle
+confidence: high
+callouts:
+- type: definition
+  title: Observable Universe
+  body: The Observable Universe is the spherical region of the cosmos centred on Earth
+    from which light has had time to reach us since the end of the recombination epoch
+    — its current proper radius is approximately 46.5 billion light-years owing to
+    the intervening expansion of space.
+- type: key-claim
+  title: Key claim about Observable Universe
+  body: The Observable Universe is bounded not by the age of the universe in light-travel
+    terms but by the comoving distance to the particle horizon; this distinction explains
+    why the observable radius is much larger than 13.8 billion light-years despite
+    the universe being only 13.8 Gyr old.
+- type: warning
+  title: Common pitfall regarding Observable Universe
+  body: The Observable Universe is not "the whole universe" — it is the portion accessible
+    to us in principle by light; the universe beyond may be much larger or even infinite,
+    and treating "observable" as synonymous with "existing" is a basic philosophical
+    confusion the cosmological literature carefully avoids.

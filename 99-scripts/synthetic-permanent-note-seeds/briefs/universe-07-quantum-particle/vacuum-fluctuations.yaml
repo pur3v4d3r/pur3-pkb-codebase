@@ -1,0 +1,36 @@
+concept: Vacuum Fluctuations
+domain: physics
+secondary_domains:
+- quantum-field-theory
+- cosmology
+aliases:
+- zero-point fluctuations
+- vacuum fluctuations
+broader:
+- quantum-field-theoretic vacuum phenomena
+related:
+- quantum field theory
+- hawking radiation
+- casimir effect
+- cosmological constant
+confidence: high
+callouts:
+- type: definition
+  title: Vacuum Fluctuations
+  body: Vacuum Fluctuations are the irreducible quantum-mechanical variances in the
+    expectation values of field amplitudes and related observables in the ground state
+    ("vacuum") of a quantum field theory, present even in the absence of any quanta
+    and with measurable consequences including the Casimir effect, Lamb shift, and
+    spontaneous emission.
+- type: key-claim
+  title: Key claim about Vacuum Fluctuations
+  body: Vacuum Fluctuations are a robust prediction of quantum field theory confirmed
+    in many independent experiments (Casimir force measurements, Lamb shift in hydrogen,
+    anomalous magnetic moment of the electron), and they play a structural role in
+    the Hawking effect and the cosmological constant problem.
+- type: warning
+  title: Common pitfall regarding Vacuum Fluctuations
+  body: Vacuum Fluctuations are often invoked to "explain" the cosmological constant;
+    QFT estimates of the vacuum energy exceed the observed dark-energy density by
+    ~120 orders of magnitude (the cosmological constant problem), so the link between
+    QFT vacuum energy and the observed Λ is currently a problem, not an explanation.

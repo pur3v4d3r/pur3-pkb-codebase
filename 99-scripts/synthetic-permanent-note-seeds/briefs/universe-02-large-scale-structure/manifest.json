@@ -1,0 +1,204 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-02-large-scale-structure",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-02-large-scale-structure.md",
+    "notes": "Thirty concepts spanning observational and theoretical cosmology beyond the\nirreducible core: large-scale structure, the cosmic geometry problems that\ninflation was invented to solve, the alternative end-states of the universe,\nand historically important rival models."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-02-large-scale-structure",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-02-large-scale-structure"
+  },
+  "counts": {
+    "parsed": 30,
+    "accepted": 30,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Observable Universe",
+      "kebab": "observable-universe",
+      "brief_path": "briefs/universe-02-large-scale-structure/observable-universe.yaml",
+      "expected_seed_filename": "observable-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmological Principle",
+      "kebab": "cosmological-principle",
+      "brief_path": "briefs/universe-02-large-scale-structure/cosmological-principle.yaml",
+      "expected_seed_filename": "cosmological-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmic Inflation Theory",
+      "kebab": "cosmic-inflation-theory",
+      "brief_path": "briefs/universe-02-large-scale-structure/cosmic-inflation-theory.yaml",
+      "expected_seed_filename": "cosmic-inflation-theory-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lambda Cdm Model",
+      "kebab": "lambda-cdm-model",
+      "brief_path": "briefs/universe-02-large-scale-structure/lambda-cdm-model.yaml",
+      "expected_seed_filename": "lambda-cdm-model-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmological Constant",
+      "kebab": "cosmological-constant",
+      "brief_path": "briefs/universe-02-large-scale-structure/cosmological-constant.yaml",
+      "expected_seed_filename": "cosmological-constant-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Vacuum Energy",
+      "kebab": "vacuum-energy",
+      "brief_path": "briefs/universe-02-large-scale-structure/vacuum-energy.yaml",
+      "expected_seed_filename": "vacuum-energy-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Quintessence",
+      "kebab": "quintessence",
+      "brief_path": "briefs/universe-02-large-scale-structure/quintessence.yaml",
+      "expected_seed_filename": "quintessence-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Baryon Acoustic Oscillations",
+      "kebab": "baryon-acoustic-oscillations",
+      "brief_path": "briefs/universe-02-large-scale-structure/baryon-acoustic-oscillations.yaml",
+      "expected_seed_filename": "baryon-acoustic-oscillations-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Large Scale Structure Of The Cosmos",
+      "kebab": "large-scale-structure-of-the-cosmos",
+      "brief_path": "briefs/universe-02-large-scale-structure/large-scale-structure-of-the-cosmos.yaml",
+      "expected_seed_filename": "large-scale-structure-of-the-cosmos-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cosmic Web",
+      "kebab": "cosmic-web",
+      "brief_path": "briefs/universe-02-large-scale-structure/cosmic-web.yaml",
+      "expected_seed_filename": "cosmic-web-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Galaxy Filaments",
+      "kebab": "galaxy-filaments",
+      "brief_path": "briefs/universe-02-large-scale-structure/galaxy-filaments.yaml",
+      "expected_seed_filename": "galaxy-filaments-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Voids In Cosmology",
+      "kebab": "voids-in-cosmology",
+      "brief_path": "briefs/universe-02-large-scale-structure/voids-in-cosmology.yaml",
+      "expected_seed_filename": "voids-in-cosmology-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Great Attractor",
+      "kebab": "great-attractor",
+      "brief_path": "briefs/universe-02-large-scale-structure/great-attractor.yaml",
+      "expected_seed_filename": "great-attractor-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Laniakea Supercluster",
+      "kebab": "laniakea-supercluster",
+      "brief_path": "briefs/universe-02-large-scale-structure/laniakea-supercluster.yaml",
+      "expected_seed_filename": "laniakea-supercluster-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Heat Death Of The Universe",
+      "kebab": "heat-death-of-the-universe",
+      "brief_path": "briefs/universe-02-large-scale-structure/heat-death-of-the-universe.yaml",
+      "expected_seed_filename": "heat-death-of-the-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Big Rip",
+      "kebab": "big-rip",
+      "brief_path": "briefs/universe-02-large-scale-structure/big-rip.yaml",
+      "expected_seed_filename": "big-rip-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Big Crunch",
+      "kebab": "big-crunch",
+      "brief_path": "briefs/universe-02-large-scale-structure/big-crunch.yaml",
+      "expected_seed_filename": "big-crunch-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Big Bounce",
+      "kebab": "big-bounce",
+      "brief_path": "briefs/universe-02-large-scale-structure/big-bounce.yaml",
+      "expected_seed_filename": "big-bounce-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Cyclic Universe Model",
+      "kebab": "cyclic-universe-model",
+      "brief_path": "briefs/universe-02-large-scale-structure/cyclic-universe-model.yaml",
+      "expected_seed_filename": "cyclic-universe-model-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Anthropic Principle",
+      "kebab": "anthropic-principle",
+      "brief_path": "briefs/universe-02-large-scale-structure/anthropic-principle.yaml",
+      "expected_seed_filename": "anthropic-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Fine Tuned Universe",
+      "kebab": "fine-tuned-universe",
+      "brief_path": "briefs/universe-02-large-scale-structure/fine-tuned-universe.yaml",
+      "expected_seed_filename": "fine-tuned-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Fermi Paradox",
+      "kebab": "fermi-paradox",
+      "brief_path": "briefs/universe-02-large-scale-structure/fermi-paradox.yaml",
+      "expected_seed_filename": "fermi-paradox-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Drake Equation",
+      "kebab": "drake-equation",
+      "brief_path": "briefs/universe-02-large-scale-structure/drake-equation.yaml",
+      "expected_seed_filename": "drake-equation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Shape Of The Universe",
+      "kebab": "shape-of-the-universe",
+      "brief_path": "briefs/universe-02-large-scale-structure/shape-of-the-universe.yaml",
+      "expected_seed_filename": "shape-of-the-universe-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Flatness Problem",
+      "kebab": "flatness-problem",
+      "brief_path": "briefs/universe-02-large-scale-structure/flatness-problem.yaml",
+      "expected_seed_filename": "flatness-problem-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Horizon Problem",
+      "kebab": "horizon-problem",
+      "brief_path": "briefs/universe-02-large-scale-structure/horizon-problem.yaml",
+      "expected_seed_filename": "horizon-problem-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Monopole Problem",
+      "kebab": "monopole-problem",
+      "brief_path": "briefs/universe-02-large-scale-structure/monopole-problem.yaml",
+      "expected_seed_filename": "monopole-problem-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Olbers Paradox",
+      "kebab": "olbers-paradox",
+      "brief_path": "briefs/universe-02-large-scale-structure/olbers-paradox.yaml",
+      "expected_seed_filename": "olbers-paradox-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Copernican Principle",
+      "kebab": "copernican-principle",
+      "brief_path": "briefs/universe-02-large-scale-structure/copernican-principle.yaml",
+      "expected_seed_filename": "copernican-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Steady State Theory",
+      "kebab": "steady-state-theory",
+      "brief_path": "briefs/universe-02-large-scale-structure/steady-state-theory.yaml",
+      "expected_seed_filename": "steady-state-theory-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

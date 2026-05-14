@@ -1,0 +1,33 @@
+concept: Time Dilation
+domain: physics
+secondary_domains:
+- special-relativity
+- general-relativity
+aliases:
+- relativistic time dilation
+broader:
+- relativistic kinematic effects
+related:
+- special relativity
+- lorentz transformation
+- gravitational time dilation
+- twin paradox
+confidence: high
+callouts:
+- type: definition
+  title: Time Dilation
+  body: Time Dilation is the relativistic effect by which a clock in motion relative
+    to an inertial observer (special-relativistic time dilation) or located deeper
+    in a gravitational potential (gravitational time dilation) ticks more slowly than
+    a comoving or higher-potential reference clock.
+- type: key-claim
+  title: Key claim about Time Dilation
+  body: Time Dilation is verified to the precision of one part in 10¹⁵ by GPS satellite
+    operation, atomic-clock comparisons, and muon-decay observations; it is among
+    the most stringently tested predictions of relativity.
+- type: warning
+  title: Common pitfall regarding Time Dilation
+  body: Time Dilation is a relational effect between two frames, not an absolute slowing
+    of "time itself"; popular descriptions that treat dilation as something that happens
+    to a moving clock in some absolute sense miss the relativity of the comparison
+    and the symmetry between observers.

@@ -1,0 +1,38 @@
+concept: Gaia Mission
+domain: space-exploration
+secondary_domains:
+- astrometry
+- galactic-astronomy
+aliases:
+- Gaia
+- Gaia satellite
+broader:
+- astrometric space missions
+related:
+- parallax
+- milky way galaxy
+- dwarf galaxy
+- exoplanet
+confidence: high
+callouts:
+- type: definition
+  title: Gaia Mission
+  body: The Gaia Mission is the European Space Agency astrometric satellite launched
+    2013 December and operating at the Sun–Earth L2 Lagrange point, providing micro-arcsecond-precision
+    parallaxes, proper motions, and radial velocities for over a billion stars in
+    the Milky Way and nearby galaxies — the most precise stellar astrometric catalogue
+    ever produced.
+- type: key-claim
+  title: Key claim about Gaia Mission
+  body: The Gaia Mission's data releases (DR1 2016, DR2 2018, EDR3/DR3 2020/2022,
+    with DR4 anticipated) have transformed Galactic astronomy by providing distances
+    and kinematics for stars throughout the Milky Way disc, halo, and bulge — enabling
+    reconstructions of the Milky Way's accretion history, the substructure of the
+    stellar halo, and the dynamics of stellar streams from disrupted dwarf galaxies.
+- type: warning
+  title: Common pitfall regarding Gaia Mission
+  body: The Gaia Mission catalogue carries known systematics — a global parallax zero-point
+    offset (~−17 µas in DR3), magnitude- and colour-dependent biases, and astrometric
+    noise — that must be applied when using Gaia parallaxes for distance-ladder calibration;
+    downstream cosmology results (notably H_0) using uncorrected Gaia values will
+    carry the corresponding bias.

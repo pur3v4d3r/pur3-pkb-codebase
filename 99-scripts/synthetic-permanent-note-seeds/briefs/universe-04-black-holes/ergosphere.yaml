@@ -1,0 +1,34 @@
+concept: Ergosphere
+domain: astrophysics
+secondary_domains:
+- general-relativity
+- kerr-black-holes
+aliases:
+- ergoregion
+broader:
+- structures of rotating black holes
+related:
+- kerr metric
+- frame-dragging
+- penrose process
+- event horizon
+confidence: high
+callouts:
+- type: definition
+  title: Ergosphere
+  body: The Ergosphere is the region of the Kerr spacetime exterior to the event horizon
+    but interior to the static limit, in which frame-dragging is so extreme that no
+    observer can remain stationary with respect to infinity — all observers must co-rotate
+    with the hole.
+- type: key-claim
+  title: Key claim about Ergosphere
+  body: The Ergosphere is the locus of the Penrose process, by which a particle entering
+    the ergosphere can split into a piece falling into the hole with negative energy
+    and a piece escaping with more energy than the original — a genuine extraction
+    of rotational energy from the black hole.
+- type: warning
+  title: Common pitfall regarding Ergosphere
+  body: The Ergosphere is sometimes described as if particles within it must fall
+    into the black hole; in fact particles can enter and leave the ergosphere freely,
+    since it lies outside the event horizon — only the requirement to co-rotate is
+    enforced, not capture by the hole.

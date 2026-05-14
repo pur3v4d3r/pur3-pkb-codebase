@@ -1,0 +1,37 @@
+concept: Gravitational Waves
+domain: physics
+secondary_domains:
+- general-relativity
+- astrophysics
+aliases:
+- GWs
+- ripples in spacetime
+broader:
+- predictions of general relativity
+related:
+- general relativity
+- ligo detection
+- black hole
+- neutron star
+- gravitational wave astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Gravitational Waves
+  body: Gravitational Waves are propagating perturbations of the spacetime metric
+    — quadrupole radiation produced by accelerating mass-energy distributions — predicted
+    by general relativity and travelling at the speed of light, with two transverse
+    polarisations.
+- type: key-claim
+  title: Key claim about Gravitational Waves
+  body: Gravitational Waves were indirectly inferred from the orbital decay of the
+    Hulse–Taylor binary pulsar (1974, Nobel 1993) and directly detected in 2015 by
+    LIGO from a binary black hole merger (GW150914), opening the field of gravitational-wave
+    astronomy.
+- type: warning
+  title: Common pitfall regarding Gravitational Waves
+  body: Gravitational Waves are sometimes described as "stretching space" in a way
+    that suggests rulers stretch with them; in practice the wavelengths of GWs are
+    typically much larger than the rulers used to detect them, and the rigidity of
+    detector arms means the spatial-strain interpretation requires careful treatment
+    of which length scales are stretched.

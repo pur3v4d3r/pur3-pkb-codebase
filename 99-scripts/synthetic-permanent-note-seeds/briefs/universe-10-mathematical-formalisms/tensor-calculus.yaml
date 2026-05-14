@@ -1,0 +1,37 @@
+concept: Tensor Calculus
+domain: mathematical-physics
+secondary_domains:
+- differential-geometry
+- general-relativity
+aliases:
+- Ricci calculus
+- absolute differential calculus
+broader:
+- mathematical apparatus of general relativity
+related:
+- differential geometry
+- riemannian geometry
+- einstein field equations
+- metric tensor
+confidence: high
+callouts:
+- type: definition
+  title: Tensor Calculus
+  body: Tensor Calculus is the differential-geometric framework, developed by Ricci-Curbastro
+    and Levi-Civita (late 19th–early 20th century) and built on Einstein's summation
+    convention, for manipulating multi-index objects (tensors) that transform covariantly
+    under coordinate changes — the mathematical language in which general relativity
+    and gauge field theories are formulated.
+- type: key-claim
+  title: Key claim about Tensor Calculus
+  body: Tensor Calculus provides the only coordinate-independent language for expressing
+    physical laws on manifolds, and its adoption by Einstein (after instruction from
+    Marcel Grossmann) was the conceptual prerequisite that enabled the formulation
+    of the Einstein field equations in 1915.
+- type: warning
+  title: Common pitfall regarding Tensor Calculus
+  body: Tensor Calculus is sometimes confused with the multilinear-algebra notion
+    of "tensor" used in machine learning (where "tensor" often means "multidimensional
+    array"); these are distinct concepts — physical tensors carry transformation laws
+    under coordinate change that ML "tensors" do not — and conflating them produces
+    conceptual errors.

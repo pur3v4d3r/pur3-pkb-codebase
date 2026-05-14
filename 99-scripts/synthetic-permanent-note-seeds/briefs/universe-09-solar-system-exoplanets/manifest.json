@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-09-solar-system-exoplanets",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-09-solar-system-exoplanets.md",
+    "notes": "Fifteen concepts spanning solar-system architecture, planetary dynamics,\nand the methods and reservoirs of contemporary exoplanetary science."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-09-solar-system-exoplanets",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-09-solar-system-exoplanets"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Exoplanet",
+      "kebab": "exoplanet",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/exoplanet.yaml",
+      "expected_seed_filename": "exoplanet-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Habitable Zone",
+      "kebab": "habitable-zone",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/habitable-zone.yaml",
+      "expected_seed_filename": "habitable-zone-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Transit Method",
+      "kebab": "transit-method",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/transit-method.yaml",
+      "expected_seed_filename": "transit-method-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Radial Velocity Method",
+      "kebab": "radial-velocity-method",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/radial-velocity-method.yaml",
+      "expected_seed_filename": "radial-velocity-method-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Kepler's Laws Of Planetary Motion",
+      "kebab": "keplers-laws-of-planetary-motion",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/keplers-laws-of-planetary-motion.yaml",
+      "expected_seed_filename": "keplers-laws-of-planetary-motion-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Oort Cloud",
+      "kebab": "oort-cloud",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/oort-cloud.yaml",
+      "expected_seed_filename": "oort-cloud-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Kuiper Belt",
+      "kebab": "kuiper-belt",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/kuiper-belt.yaml",
+      "expected_seed_filename": "kuiper-belt-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Asteroid Belt",
+      "kebab": "asteroid-belt",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/asteroid-belt.yaml",
+      "expected_seed_filename": "asteroid-belt-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Heliosphere",
+      "kebab": "heliosphere",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/heliosphere.yaml",
+      "expected_seed_filename": "heliosphere-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Solar Wind",
+      "kebab": "solar-wind",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/solar-wind.yaml",
+      "expected_seed_filename": "solar-wind-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Coronal Mass Ejection",
+      "kebab": "coronal-mass-ejection",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/coronal-mass-ejection.yaml",
+      "expected_seed_filename": "coronal-mass-ejection-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Tidal Locking",
+      "kebab": "tidal-locking",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/tidal-locking.yaml",
+      "expected_seed_filename": "tidal-locking-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Roche Limit",
+      "kebab": "roche-limit",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/roche-limit.yaml",
+      "expected_seed_filename": "roche-limit-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lagrange Points",
+      "kebab": "lagrange-points",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/lagrange-points.yaml",
+      "expected_seed_filename": "lagrange-points-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Hill Sphere",
+      "kebab": "hill-sphere",
+      "brief_path": "briefs/universe-09-solar-system-exoplanets/hill-sphere.yaml",
+      "expected_seed_filename": "hill-sphere-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

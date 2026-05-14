@@ -1,0 +1,40 @@
+concept: General Relativity
+domain: cosmology
+secondary_domains:
+- theoretical-physics
+- mathematical-physics
+aliases:
+- GR
+- Einstein's general theory of relativity
+broader:
+- theories of gravity
+related:
+- special relativity
+- einstein field equations
+- equivalence principle
+- curvature of space-time
+- gravitational waves
+prerequisites:
+- special relativity
+- differential geometry
+confidence: high
+callouts:
+- type: definition
+  title: General Relativity
+  body: General Relativity is Einstein's 1915 geometric theory of gravitation in which
+    gravity is identified with the curvature of a four-dimensional pseudo-Riemannian
+    spacetime, and the matter–energy content of that spacetime determines its curvature
+    through the Einstein field equations.
+- type: key-claim
+  title: Key claim about General Relativity
+  body: General Relativity has passed every quantitative test attempted, from perihelion
+    precession of Mercury and gravitational lensing through gravitational redshift,
+    frame-dragging, the Hulse–Taylor binary pulsar decay, and direct detection of
+    gravitational waves, with no confirmed deviation from its predictions on solar-system
+    to cosmological scales.
+- type: warning
+  title: Common pitfall regarding General Relativity
+  body: General Relativity is a classical field theory and breaks down at the Planck
+    scale and inside black-hole singularities; treating it as the final word on gravity
+    ignores the open problem of quantum gravity that all current programmes (string
+    theory, loop quantum gravity) are attempting to solve.

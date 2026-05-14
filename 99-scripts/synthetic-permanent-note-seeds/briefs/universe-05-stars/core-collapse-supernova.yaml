@@ -1,0 +1,37 @@
+concept: Core Collapse Supernova
+domain: astrophysics
+secondary_domains:
+- stellar-explosions
+- nuclear-physics
+aliases:
+- Type II supernova
+- gravitational supernova
+broader:
+- supernova types
+related:
+- supernova
+- neutron star
+- black hole
+- stellar nucleosynthesis
+confidence: high
+callouts:
+- type: definition
+  title: Core Collapse Supernova
+  body: A Core Collapse Supernova is the explosive end-state of a massive star (≳
+    8 M☉) whose iron core, having lost its support after exhausting nuclear burning
+    options, undergoes gravitational collapse to nuclear density and produces a neutron
+    star or black hole, with the bounce-driven shock and neutrino heating expelling
+    the stellar envelope.
+- type: key-claim
+  title: Key claim about Core Collapse Supernova
+  body: A Core Collapse Supernova releases ~99% of its energy in neutrinos — the visible
+    electromagnetic display is a few-percent residual — and the neutrino-driven explosion
+    mechanism remained an open theoretical problem for decades until 3D simulations
+    in the 2010s began to robustly produce explosions in the relevant parameter range.
+- type: warning
+  title: Common pitfall regarding Core Collapse Supernova
+  body: A Core Collapse Supernova explosion mechanism is still not understood in full
+    detail; some progenitor masses appear to fail to explode and form black holes
+    directly ("failed supernovae"), and the precise mass boundaries between successful
+    and failed explosions remain uncertain — overconfident "exploded vs collapsed"
+    claims for individual progenitor systems are usually unjustified.

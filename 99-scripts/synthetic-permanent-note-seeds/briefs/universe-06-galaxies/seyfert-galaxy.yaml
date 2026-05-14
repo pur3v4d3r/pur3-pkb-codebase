@@ -1,0 +1,35 @@
+concept: Seyfert Galaxy
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+aliases:
+- Seyfert galaxies
+broader:
+- active galactic nucleus
+related:
+- active galactic nucleus
+- quasar
+- supermassive black hole
+- spiral galaxy
+confidence: high
+callouts:
+- type: definition
+  title: Seyfert Galaxy
+  body: A Seyfert Galaxy is a spiral galaxy with an active galactic nucleus exhibiting
+    strong, broadened emission lines from a compact central source — divided into
+    type 1 (broad permitted lines plus narrow forbidden lines) and type 2 (only narrow
+    lines) by the visibility of the broad-line region.
+- type: key-claim
+  title: Key claim about Seyfert Galaxy
+  body: A Seyfert Galaxy is the prototypical low-luminosity AGN class and the principal
+    laboratory for the AGN unified model, with type 1 and type 2 systems hypothesised
+    — and substantially confirmed via spectropolarimetry and infrared observations
+    — to be intrinsically similar central engines viewed at different orientations
+    through an obscuring torus.
+- type: warning
+  title: Common pitfall regarding Seyfert Galaxy
+  body: A Seyfert Galaxy classification has become observationally complex — intermediate
+    types (1.2, 1.5, 1.8, 1.9) and the recognition of "true type-2" systems lacking
+    a broad-line region challenge a strict orientation-only unification — and modern
+    Seyfert classification should be read as a working scheme rather than a settled
+    taxonomy.

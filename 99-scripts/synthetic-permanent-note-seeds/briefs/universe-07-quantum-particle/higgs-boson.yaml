@@ -1,0 +1,34 @@
+concept: Higgs Boson
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- Higgs particle
+- scalar boson
+broader:
+- standard model of particle physics
+related:
+- standard model of particle physics
+- electroweak symmetry breaking
+- quantum field theory
+confidence: high
+callouts:
+- type: definition
+  title: Higgs Boson
+  body: The Higgs Boson is the spin-0 particle excitation of the Higgs scalar field,
+    whose vacuum expectation value (~246 GeV) breaks electroweak symmetry and generates
+    the masses of the W and Z gauge bosons and (via Yukawa couplings) of the charged
+    fermions of the Standard Model.
+- type: key-claim
+  title: Key claim about Higgs Boson
+  body: The Higgs Boson was discovered at the Large Hadron Collider in 2012 (ATLAS
+    and CMS, mass ~125 GeV) and earned the 2013 Nobel Prize for Englert and Higgs;
+    subsequent measurements of its couplings and decay channels remain consistent
+    with Standard-Model predictions to within current uncertainties.
+- type: warning
+  title: Common pitfall regarding Higgs Boson
+  body: The Higgs Boson's measured mass (~125 GeV) places the Standard-Model electroweak
+    vacuum near the boundary between absolute stability and metastability — the universe
+    may be in a long-lived false vacuum — and confident claims about vacuum stability
+    depend sensitively on the top-quark mass measurement, with current uncertainties
+    keeping both possibilities open.

@@ -1,0 +1,37 @@
+concept: Tidal Locking
+domain: planetary-science
+secondary_domains:
+- orbital-mechanics
+- planetary-dynamics
+aliases:
+- synchronous rotation
+- gravitational locking
+broader:
+- tidal dynamics
+related:
+- exoplanet
+- habitable zone
+- roche limit
+- moon
+confidence: high
+callouts:
+- type: definition
+  title: Tidal Locking
+  body: Tidal Locking is the orbital state in which a body's rotational period equals
+    its orbital period around its primary, so that one face is permanently turned
+    toward the primary, achieved by tidal-friction-induced angular-momentum redistribution
+    on timescales depending on internal dissipation, orbital separation, and mass
+    ratio.
+- type: key-claim
+  title: Key claim about Tidal Locking
+  body: Tidal Locking is the rotational state of Earth's Moon (and many other major
+    satellites), and it is the expected rotational state of close-in exoplanets in
+    the habitable zones of M-dwarf stars — making the climate dynamics of tidally-locked
+    terrestrial planets a major research focus in exoplanetary atmospheric science.
+- type: warning
+  title: Common pitfall regarding Tidal Locking
+  body: Tidal Locking does not necessarily imply a perpetual day side and perpetual
+    night side; libration, atmospheric circulation, and the possibility of higher-order
+    spin-orbit resonances (Mercury is in a 3:2 resonance, not 1:1) complicate the
+    simple "permanent day side" picture, and exoplanetary habitability discussions
+    sometimes oversimplify on this point.

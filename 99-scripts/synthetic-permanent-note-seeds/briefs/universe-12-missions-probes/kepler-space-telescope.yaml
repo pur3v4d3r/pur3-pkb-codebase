@@ -1,0 +1,37 @@
+concept: Kepler Space Telescope
+domain: space-exploration
+secondary_domains:
+- exoplanet-research
+- transit-photometry
+aliases:
+- Kepler mission
+broader:
+- exoplanet-detection space telescopes
+related:
+- exoplanet
+- transit method
+- james webb space telescope
+- habitable zone
+confidence: high
+callouts:
+- type: definition
+  title: Kepler Space Telescope
+  body: The Kepler Space Telescope is the NASA mission launched 2009 (and re-purposed
+    as K2 in 2014 after a reaction-wheel failure) that monitored the brightness of
+    ~150,000 stars in a single Cygnus–Lyra field with sub-100-ppm photometric precision
+    to detect transiting exoplanets — yielding over 2,700 confirmed exoplanets and
+    the statistical demography of the exoplanet population.
+- type: key-claim
+  title: Key claim about Kepler Space Telescope
+  body: The Kepler Space Telescope established that small, Earth-sized planets are
+    common around Sun-like stars, that the most-common planet sizes lie in the super-Earth
+    / mini-Neptune regime (with no Solar-System analogue), and that ~20–50% of Sun-like
+    stars host an Earth-sized planet in the habitable zone — foundational results
+    enabling next-generation direct-imaging mission design.
+- type: warning
+  title: Common pitfall regarding Kepler Space Telescope
+  body: The Kepler Space Telescope's exoplanet-occurrence-rate inferences require
+    careful correction for transit-detection bias (geometric and signal-detection
+    efficiency), and "η_Earth" estimates from Kepler statistics range over an order
+    of magnitude depending on assumed completeness corrections; quoting a single occurrence
+    rate without an uncertainty range understates the genuine spread.

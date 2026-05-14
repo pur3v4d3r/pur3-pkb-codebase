@@ -1,0 +1,37 @@
+concept: Blazar
+domain: astrophysics
+secondary_domains:
+- extragalactic-astronomy
+- high-energy-astrophysics
+aliases:
+- BL Lac object
+- OVV quasar
+- blazars
+broader:
+- active galactic nucleus
+related:
+- active galactic nucleus
+- relativistic jets
+- multi-messenger astronomy
+- gamma-ray burst
+confidence: high
+callouts:
+- type: definition
+  title: Blazar
+  body: A Blazar is an active galactic nucleus whose relativistic jet is oriented
+    within a few degrees of the line of sight to Earth, producing highly Doppler-boosted,
+    rapidly variable emission across the electromagnetic spectrum and dominated by
+    non-thermal continuum from the jet rather than thermal emission from the accretion
+    disc.
+- type: key-claim
+  title: Key claim about Blazar
+  body: 'A Blazar is now established as a multi-messenger source: the IceCube detection
+    of a high-energy astrophysical neutrino in 2017 spatially and temporally coincident
+    with the flaring blazar TXS 0506+056 provided the first compelling identification
+    of an extragalactic neutrino source and confirmed jets as cosmic-ray accelerators.'
+- type: warning
+  title: Common pitfall regarding Blazar
+  body: A Blazar appearance is a viewing-geometry phenomenon — the same physical AGN
+    viewed from the side would appear as a misaligned radio galaxy — and inferences
+    about the intrinsic jet population from blazar samples must correct for the strong
+    Doppler-boost selection in flux-limited samples.

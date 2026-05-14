@@ -1,0 +1,33 @@
+concept: Big Crunch
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+aliases:
+- recollapse
+broader:
+- cosmological end-state scenarios
+related:
+- heat death of the universe
+- big rip
+- big bounce
+- dark energy
+- lambda-cdm-model
+confidence: high
+callouts:
+- type: definition
+  title: Big Crunch
+  body: The Big Crunch is the hypothesised reversal of cosmic expansion in which gravitational
+    attraction eventually overcomes expansion, causing the universe to recollapse
+    into a hot dense singular state that mirrors the initial Big Bang in time-reverse.
+- type: key-claim
+  title: Key claim about Big Crunch
+  body: The Big Crunch was the favoured end-state in pre-1998 cosmology when a high-density
+    universe seemed plausible; since the discovery of dark-energy-driven acceleration,
+    current data make a Big Crunch increasingly disfavoured because Λ-driven expansion
+    appears to be eternal.
+- type: warning
+  title: Common pitfall regarding Big Crunch
+  body: The Big Crunch is observationally disfavoured by present dark-energy measurements
+    but not strictly excluded — it remains possible if dark energy turns out to be
+    a slowly-decaying scalar that eventually changes sign — so describing it as "ruled
+    out" goes beyond what current data establish.

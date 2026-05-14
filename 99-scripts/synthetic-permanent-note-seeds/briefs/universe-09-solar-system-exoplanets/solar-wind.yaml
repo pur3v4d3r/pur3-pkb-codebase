@@ -1,0 +1,36 @@
+concept: Solar Wind
+domain: planetary-science
+secondary_domains:
+- solar-physics
+- space-physics
+aliases:
+- solar plasma flow
+broader:
+- stellar winds
+related:
+- heliosphere
+- coronal mass ejection
+- parker solar probe
+- sun
+confidence: high
+callouts:
+- type: definition
+  title: Solar Wind
+  body: The Solar Wind is the continuous radial outflow of magnetised charged particles
+    (primarily electrons and protons) from the Sun's hot corona, with typical speeds
+    of ~400 km/s (slow wind) to ~700–800 km/s (fast wind from coronal holes), filling
+    the heliosphere and interacting with planetary magnetospheres throughout the Solar
+    System.
+- type: key-claim
+  title: Key claim about Solar Wind
+  body: The Solar Wind was theoretically predicted by Eugene Parker (1958) — initially
+    against substantial scepticism — and confirmed by the Soviet Luna 1, 2, 3 and
+    US Mariner 2 missions in 1959–62; the Parker Solar Probe (launched 2018, perihelion
+    ~6 R☉) is now sampling the wind at its source.
+- type: warning
+  title: Common pitfall regarding Solar Wind
+  body: The Solar Wind's slow component originates from somewhat ambiguous source
+    regions (the boundary between open and closed coronal magnetic field), and the
+    relative role of nanoflares, magnetic reconnection, and Alfvén-wave heating in
+    coronal heating and wind acceleration remains an active research question — popular
+    accounts that present a single mechanism overstate what is established.

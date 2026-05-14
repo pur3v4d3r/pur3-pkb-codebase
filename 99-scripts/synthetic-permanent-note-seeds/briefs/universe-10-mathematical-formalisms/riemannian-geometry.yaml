@@ -1,0 +1,38 @@
+concept: Riemannian Geometry
+domain: mathematical-physics
+secondary_domains:
+- differential-geometry
+- general-relativity
+aliases:
+- Riemann geometry
+- Riemannian manifolds
+broader:
+- differential geometry
+related:
+- differential geometry
+- tensor calculus
+- curvature of space-time
+- einstein field equations
+confidence: high
+callouts:
+- type: definition
+  title: Riemannian Geometry
+  body: Riemannian Geometry is the study of smooth manifolds equipped with a positive-definite
+    metric tensor (a Riemannian metric), generalising Euclidean geometry to curved
+    spaces and providing the mathematical infrastructure (geodesics, curvature, parallel
+    transport) on which Einstein built general relativity using the pseudo-Riemannian
+    variant with a signature-changing metric.
+- type: key-claim
+  title: Key claim about Riemannian Geometry
+  body: Riemannian Geometry, founded by Riemann's 1854 habilitation lecture "Über
+    die Hypothesen, welche der Geometrie zu Grunde liegen", provided the mathematical
+    apparatus that Einstein and Grossmann adapted to four-dimensional Lorentzian (pseudo-Riemannian)
+    manifolds with signature (−,+,+,+) for the formulation of general relativity.
+- type: warning
+  title: Common pitfall regarding Riemannian Geometry
+  body: Riemannian Geometry strictly requires a positive-definite metric; spacetime
+    in general relativity uses a Lorentzian metric (one negative eigenvalue), and
+    many results of Riemannian geometry (Hopf–Rinow theorem, sectional-curvature signs)
+    do not transfer directly to the Lorentzian setting — calling general-relativistic
+    spacetime geometry "Riemannian" without the Lorentzian qualifier is a frequent
+    imprecision.

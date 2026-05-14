@@ -1,0 +1,34 @@
+concept: Big Bounce
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- quantum-gravity
+aliases:
+- bouncing cosmology
+broader:
+- non-singular cosmologies
+related:
+- cyclic universe model
+- big crunch
+- loop quantum gravity
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Big Bounce
+  body: The Big Bounce is a class of cosmological models in which the apparent Big
+    Bang singularity is replaced by a smooth transition from a prior contracting phase
+    to the present expanding phase, typically motivated by quantum-gravity corrections
+    (loop quantum cosmology, ekpyrotic scenarios).
+- type: key-claim
+  title: Key claim about Big Bounce
+  body: The Big Bounce is mathematically realised in loop quantum cosmology, where
+    the singularity is replaced by a finite minimum volume at which quantum-gravity
+    effects become repulsive; whether this generalises to full quantum gravity remains
+    an open question.
+- type: warning
+  title: Common pitfall regarding Big Bounce
+  body: The Big Bounce is a theoretical scenario without observational support; specific
+    bouncing models predict subtle CMB signatures (running spectral index, non-Gaussianities)
+    but none has yet been observed, and treating the Big Bounce as a confirmed alternative
+    to Big Bang inflation overstates its standing.

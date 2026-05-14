@@ -1,0 +1,32 @@
+concept: Intermediate Mass Black Hole
+domain: astrophysics
+secondary_domains:
+- astrophysics
+aliases:
+- IMBH
+broader:
+- black holes by mass class
+related:
+- stellar mass black hole
+- supermassive black hole
+- globular cluster
+confidence: high
+callouts:
+- type: definition
+  title: Intermediate Mass Black Hole
+  body: An Intermediate Mass Black Hole is a black hole with mass in the range ~10²
+    to ~10⁵ solar masses, populating the gap between stellar-mass black holes formed
+    from individual collapsed stars and supermassive black holes residing in galactic
+    nuclei.
+- type: key-claim
+  title: Key claim about Intermediate Mass Black Hole
+  body: An Intermediate Mass Black Hole is observationally elusive — only a handful
+    of strong candidates exist, mostly in dense stellar clusters and ultraluminous
+    X-ray sources — and its routine detection is a target for next-generation gravitational-wave
+    observatories like LISA.
+- type: warning
+  title: Common pitfall regarding Intermediate Mass Black Hole
+  body: An Intermediate Mass Black Hole claim is often based on indirect inferences
+    (X-ray luminosity, stellar dynamics) that have alternative explanations (super-Eddington
+    stellar-mass accretion, multiple stellar-mass black holes); strong individual
+    IMBH detections require dynamical mass measurements of unusually high quality.

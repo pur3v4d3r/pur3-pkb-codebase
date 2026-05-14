@@ -1,0 +1,35 @@
+concept: Multi Messenger Astronomy
+domain: astronomy
+secondary_domains:
+- observational-astronomy
+aliases:
+- multi-messenger astrophysics
+broader:
+- observational astronomy frameworks
+related:
+- gravitational wave astronomy
+- kilonova
+- blazar
+- gamma-ray burst
+confidence: high
+callouts:
+- type: definition
+  title: Multi Messenger Astronomy
+  body: Multi Messenger Astronomy is the coordinated observation of cosmic sources
+    through multiple "messengers" (electromagnetic radiation across all wavelengths,
+    neutrinos, gravitational waves, and cosmic rays), exploiting the complementary
+    information each messenger carries to constrain source physics more tightly than
+    any single channel can.
+- type: key-claim
+  title: Key claim about Multi Messenger Astronomy
+  body: Multi Messenger Astronomy was inaugurated as a routine activity by GW170817,
+    the binary-neutron-star merger detected jointly in gravitational waves (LIGO/Virgo),
+    short gamma-ray burst (Fermi/INTEGRAL), and across the electromagnetic spectrum,
+    and by the IceCube–TXS 0506+056 neutrino-blazar coincidence (2017).
+- type: warning
+  title: Common pitfall regarding Multi Messenger Astronomy
+  body: Multi Messenger Astronomy detections are statistically rare and depend on
+    rapid follow-up coordination across global facilities; reports of "multi-messenger
+    detections" should be evaluated for the statistical significance of the temporal–spatial
+    coincidence, since chance coincidences between unrelated sources are not negligible
+    at the rates current facilities operate.

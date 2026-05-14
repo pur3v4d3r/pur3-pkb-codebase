@@ -1,0 +1,36 @@
+concept: Heisenberg's Uncertainty Principle
+domain: physics
+secondary_domains:
+- quantum-mechanics
+- foundations-of-physics
+aliases:
+- Heisenberg uncertainty
+- uncertainty principle
+broader:
+- foundational principles of quantum mechanics
+related:
+- quantum mechanics
+- wave-particle duality
+- vacuum fluctuations
+confidence: high
+callouts:
+- type: definition
+  title: Heisenberg's Uncertainty Principle
+  body: Heisenberg's Uncertainty Principle is the rigorous quantum-mechanical theorem
+    that the product of standard deviations of any two non-commuting observables is
+    bounded below by half the absolute value of the expectation value of their commutator
+    — most famously ΔxΔp ≥ ℏ/2 for position and momentum.
+- type: key-claim
+  title: Key claim about Heisenberg's Uncertainty Principle
+  body: Heisenberg's Uncertainty Principle is a theorem about the structure of quantum
+    states, not a statement about measurement disturbance — it constrains the joint
+    preparable variances of conjugate observables and would hold even for ideal non-disturbing
+    measurements — a clarification rigorously established by the Robertson and Robertson–Schrödinger
+    forms.
+- type: warning
+  title: Common pitfall regarding Heisenberg's Uncertainty Principle
+  body: Heisenberg's Uncertainty Principle is often stated in terms of measurement
+    back-action ("measuring position disturbs momentum"); this disturbance interpretation,
+    while pedagogically convenient, is conceptually distinct from the variance theorem
+    and can mislead — the theorem holds independently of any measurement, applying
+    to the spread of values across an ensemble of identically-prepared systems.

@@ -1,0 +1,38 @@
+concept: Galileo Galilei
+domain: history-of-science
+secondary_domains:
+- history-of-physics
+- observational-astronomy
+aliases:
+- Galileo
+broader:
+- founders of modern science
+related:
+- scientific revolution
+- copernican system
+- telescope
+- isaac newton
+confidence: high
+callouts:
+- type: definition
+  title: Galileo Galilei
+  body: Galileo Galilei (1564–1642) was the Italian astronomer, physicist, and engineer
+    whose telescopic observations (Sidereus Nuncius, 1610) of the Moon's mountains,
+    the moons of Jupiter, the phases of Venus, and the Milky Way's resolution into
+    stars provided decisive observational support for Copernican heliocentrism and
+    inaugurated modern observational astronomy.
+- type: key-claim
+  title: Key claim about Galileo Galilei
+  body: Galileo Galilei established the empirical method in physics through his quantitative
+    experiments on falling bodies and inclined planes, and his telescopic observations
+    of Jupiter's moons and the phases of Venus provided observational evidence that
+    the Aristotelian–Ptolemaic geocentric system was untenable — a transition for
+    which he was tried by the Roman Inquisition (1633).
+- type: warning
+  title: Common pitfall regarding Galileo Galilei
+  body: Galileo Galilei's heliocentric advocacy is sometimes presented as if Ptolemaic
+    geocentrism had been refuted in his lifetime; in fact the Tychonic system (geocentric
+    but with planets orbiting the Sun) remained observationally indistinguishable
+    from heliocentrism until Bradley's stellar aberration measurement (1729), and
+    Galileo's case for heliocentrism in the 1630s was strong but not yet decisive
+    on observational grounds.

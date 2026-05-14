@@ -1,0 +1,35 @@
+concept: Minkowski Space Time
+domain: physics
+secondary_domains:
+- special-relativity
+- mathematical-physics
+aliases:
+- Minkowski spacetime
+- flat spacetime
+broader:
+- models of spacetime
+related:
+- special relativity
+- lorentz transformation
+- space time
+- light cone
+confidence: high
+callouts:
+- type: definition
+  title: Minkowski Space Time
+  body: Minkowski Space Time is the flat four-dimensional pseudo-Riemannian manifold
+    with signature (−, +, +, +) (or its (+, −, −, −) sister) that serves as the spacetime
+    of special relativity, in which the invariant interval is ds² = −c²dt² + dx² +
+    dy² + dz².
+- type: key-claim
+  title: Key claim about Minkowski Space Time
+  body: Minkowski Space Time was Hermann Minkowski's 1908 reformulation of special
+    relativity that recast Einstein's algebraic theory as a geometry of spacetime,
+    providing the conceptual scaffolding without which Einstein himself acknowledged
+    he could not have constructed general relativity.
+- type: warning
+  title: Common pitfall regarding Minkowski Space Time
+  body: Minkowski Space Time is the local approximation to general spacetime in GR
+    — every point has a tangent Minkowski space — but globally curved spacetimes are
+    not Minkowskian, and applying global Minkowski intuitions (well-defined inertial
+    frames, conserved global energy) to curved spacetimes fails.

@@ -1,0 +1,35 @@
+concept: Chandrasekhar Limit
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+- nuclear-physics
+aliases:
+- Chandrasekhar mass
+broader:
+- stability limits of compact objects
+related:
+- white dwarf
+- type ia supernova
+- electron degeneracy pressure
+- neutron star
+confidence: high
+callouts:
+- type: definition
+  title: Chandrasekhar Limit
+  body: The Chandrasekhar Limit is the upper mass bound — approximately 1.4 solar
+    masses for a non-rotating carbon–oxygen white dwarf — beyond which electron degeneracy
+    pressure can no longer support a star against gravitational collapse, derived
+    by Chandrasekhar in the early 1930s from relativistic degenerate-fermion-gas physics.
+- type: key-claim
+  title: Key claim about Chandrasekhar Limit
+  body: The Chandrasekhar Limit is the threshold whose approach by accreting white
+    dwarfs triggers Type Ia supernovae, making it both a fundamental constant of stellar
+    physics and the calibration point for the standard candles used to discover dark
+    energy.
+- type: warning
+  title: Common pitfall regarding Chandrasekhar Limit
+  body: The Chandrasekhar Limit's exact value depends on composition (Z/A ratio),
+    rotation, and magnetic-field configuration, and not all Type Ia supernovae appear
+    to occur at the textbook 1.4 M☉ — sub-Chandrasekhar and super-Chandrasekhar progenitor
+    channels are now seriously considered, complicating the cosmological standardisation
+    procedure.

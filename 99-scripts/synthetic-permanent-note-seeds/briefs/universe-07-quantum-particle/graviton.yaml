@@ -1,0 +1,34 @@
+concept: Graviton
+domain: physics
+secondary_domains:
+- particle-physics
+- quantum-gravity
+aliases:
+- gravitons
+broader:
+- hypothetical gauge bosons
+related:
+- quantum gravity
+- gravitational waves
+- general relativity
+- string theory
+confidence: high
+callouts:
+- type: definition
+  title: Graviton
+  body: A Graviton is the hypothetical massless, spin-2 quantum of the gravitational
+    field — the quantised excitation that classical gravitational waves would correspond
+    to in any quantum theory of gravity — required by tree-level perturbative calculations
+    of quantum gravity at low energies.
+- type: key-claim
+  title: Key claim about Graviton
+  body: A Graviton's existence is required by the marriage of general relativity and
+    quantum mechanics at the perturbative level, but its detection as an individual
+    quantum is essentially impossible with foreseeable technology; its theoretical
+    existence is on much stronger footing than any prospect of direct observation.
+- type: warning
+  title: Common pitfall regarding Graviton
+  body: A Graviton "detection" is sometimes claimed for the LIGO observation of classical
+    gravitational waves; this is incorrect — LIGO detects classical wave amplitudes,
+    not individual quanta — and the conceptual distinction between detecting a classical
+    wave and detecting its quantum mediator is essential to maintain.

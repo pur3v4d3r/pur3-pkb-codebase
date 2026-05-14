@@ -1,0 +1,33 @@
+concept: Spiral Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-morphology
+aliases:
+- spiral galaxies
+broader:
+- galaxy morphological types
+related:
+- milky way galaxy
+- andromeda galaxy
+- hubble sequence
+- galactic rotation curve
+confidence: high
+callouts:
+- type: definition
+  title: Spiral Galaxy
+  body: A Spiral Galaxy is a galaxy with a flattened rotating disc of stars, gas,
+    and dust exhibiting a spiral-arm pattern, a central bulge of older stars, and
+    (for ~⅔ of nearby massive disc galaxies) a central bar; classified along the Hubble
+    Sa–Sb–Sc–Sd sequence by bulge prominence and arm tightness.
+- type: key-claim
+  title: Key claim about Spiral Galaxy
+  body: A Spiral Galaxy's discs contain ongoing star formation traced by HII regions
+    and young blue stars, and the spiral pattern is now understood — through density-wave
+    theory and N-body simulations — as a transient pattern of orbital response rather
+    than a material structure rotating with the stars.
+- type: warning
+  title: Common pitfall regarding Spiral Galaxy
+  body: A Spiral Galaxy is sometimes described as having spiral arms made of physically
+    distinct stars; in fact stars pass through the arms (which are higher-density
+    wave compressions of the disc), and the density-wave / transient-mode interpretation
+    reframes "spiral arms" as kinematic patterns rather than material objects.

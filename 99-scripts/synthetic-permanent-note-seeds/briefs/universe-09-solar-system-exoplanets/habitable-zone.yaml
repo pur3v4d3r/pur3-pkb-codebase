@@ -1,0 +1,37 @@
+concept: Habitable Zone
+domain: planetary-science
+secondary_domains:
+- astrobiology
+- planetary-science
+aliases:
+- Goldilocks zone
+- circumstellar habitable zone
+- CHZ
+broader:
+- planetary habitability
+related:
+- exoplanet
+- kepler space telescope
+- transit method
+confidence: high
+callouts:
+- type: definition
+  title: Habitable Zone
+  body: The Habitable Zone is the range of orbital distances around a star within
+    which an Earth-mass rocky planet with an Earth-like atmosphere could maintain
+    liquid water on its surface, conventionally bounded by the runaway-greenhouse
+    limit (inner edge) and the maximum-greenhouse limit (outer edge), and centred
+    on ~1 AU for a Sun-like star.
+- type: key-claim
+  title: Key claim about Habitable Zone
+  body: The Habitable Zone is the standard target region for searches for potentially
+    habitable exoplanets, and statistical analyses of Kepler data estimate that ~20–50%
+    of Sun-like stars host an Earth-sized planet in the habitable zone — the "η_Earth"
+    parameter that drives the design of next-generation direct-imaging missions.
+- type: warning
+  title: Common pitfall regarding Habitable Zone
+  body: The Habitable Zone definition is restricted to surface liquid water and Earth-analog
+    atmospheric composition; sub-surface liquid-water environments (Europa, Enceladus,
+    possible exoplanetary equivalents) lie outside the conventional HZ but may be
+    habitable under broader definitions, and using "HZ" as synonymous with "habitable"
+    overlooks these sub-surface possibilities and the dependence on atmospheric assumptions.

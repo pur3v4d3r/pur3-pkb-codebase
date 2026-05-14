@@ -1,0 +1,39 @@
+concept: Chandra X Ray Observatory
+domain: space-exploration
+secondary_domains:
+- x-ray-astronomy
+- high-energy-astrophysics
+aliases:
+- Chandra
+- CXO
+broader:
+- x-ray space observatories
+related:
+- x ray astronomy
+- hubble space telescope
+- galaxy cluster
+- accretion disk
+confidence: high
+callouts:
+- type: definition
+  title: Chandra X Ray Observatory
+  body: The Chandra X Ray Observatory is the NASA X-ray space telescope launched 1999
+    July into a high elliptical orbit, providing sub-arcsecond angular resolution
+    (the finest of any X-ray observatory ever flown) across the 0.1–10 keV energy
+    range and operating jointly with ESA's XMM-Newton as the principal observational
+    X-ray facility of the 2000s and 2010s.
+- type: key-claim
+  title: Key claim about Chandra X Ray Observatory
+  body: The Chandra X Ray Observatory has produced the highest-resolution X-ray imaging
+    of supernova remnants, accretion disks, AGN, and galaxy clusters ever achieved
+    — including the iconic Bullet Cluster image (1E 0657-558) that visualised the
+    spatial separation of dark matter (from gravitational lensing) and the X-ray-emitting
+    hot gas (from Chandra), providing the cleanest single-cluster evidence for dark
+    matter.
+- type: warning
+  title: Common pitfall regarding Chandra X Ray Observatory
+  body: The Chandra X Ray Observatory's ageing detector and reaction-wheel hardware
+    is increasingly pushing the observatory toward end-of-life conditions; the next-generation
+    X-ray facility (the planned Athena observatory by ESA) will not launch before
+    the mid-2030s, and the prospect of a multi-year gap in high-resolution X-ray imaging
+    capability is a real concern in the 2020s X-ray-astronomy community.

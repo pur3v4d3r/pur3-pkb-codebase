@@ -1,0 +1,35 @@
+concept: Einstein Field Equations
+domain: physics
+secondary_domains:
+- general-relativity
+- mathematical-physics
+aliases:
+- EFE
+- Einstein equations
+broader:
+- field equations of gravity
+related:
+- general relativity
+- stress-energy tensor
+- curvature of space-time
+- cosmological constant
+confidence: high
+callouts:
+- type: definition
+  title: Einstein Field Equations
+  body: The Einstein Field Equations are the system G_μν + Λ g_μν = (8πG/c⁴) T_μν
+    relating the Einstein curvature tensor G_μν (a function of the spacetime metric)
+    and the cosmological constant term Λ g_μν to the stress-energy tensor T_μν of
+    the matter and energy content.
+- type: key-claim
+  title: Key claim about Einstein Field Equations
+  body: The Einstein Field Equations are the dynamical core of general relativity
+    — ten coupled nonlinear partial differential equations for the ten independent
+    components of the metric — and from them all of GR's classical predictions, from
+    Mercury's perihelion shift to gravitational waves and the FLRW cosmology, derive.
+- type: warning
+  title: Common pitfall regarding Einstein Field Equations
+  body: The Einstein Field Equations are nonlinear and admit no general analytic solution;
+    the textbook solutions (Schwarzschild, Kerr, FLRW, Reissner–Nordström) are highly
+    symmetric special cases, and applying intuitions developed from those to generic
+    spacetimes regularly produces wrong results.

@@ -1,0 +1,38 @@
+concept: Fritz Zwicky
+domain: history-of-science
+secondary_domains:
+- extragalactic-astronomy
+- history-of-astronomy
+aliases:
+- Zwicky
+broader:
+- twentieth-century observational astronomers
+related:
+- dark matter
+- galaxy cluster
+- supernova
+- neutron star
+confidence: high
+callouts:
+- type: definition
+  title: Fritz Zwicky
+  body: Fritz Zwicky (1898–1974) was the Swiss-American astronomer who, working at
+    Caltech and Mount Wilson, produced the first inference of dark matter (Coma cluster,
+    1933), coined the term "supernova" (with Baade, 1934), predicted neutron stars
+    as the residue of supernova explosions (also 1934), and conducted the first systematic
+    supernova search programme.
+- type: key-claim
+  title: Key claim about Fritz Zwicky
+  body: Fritz Zwicky's 1933 measurement of the Coma cluster's velocity dispersion,
+    combined with the virial theorem, indicated a mass-to-light ratio orders of magnitude
+    higher than expected from luminous matter alone — providing the first observational
+    evidence for what is now called dark matter, four decades before the field accepted
+    the result.
+- type: warning
+  title: Common pitfall regarding Fritz Zwicky
+  body: Fritz Zwicky's contributions were systematically under-recognised during his
+    lifetime, partly due to his famously combative personality and partly because
+    the mainstream community was unprepared for his unconventional ideas; the dark-matter
+    hypothesis languished for ~40 years before Vera Rubin's rotation-curve work brought
+    it to acceptance — a clear case of premature discovery whose recognition required
+    institutional and conceptual readiness that took decades.

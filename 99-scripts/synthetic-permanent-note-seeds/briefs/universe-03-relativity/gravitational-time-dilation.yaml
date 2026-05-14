@@ -1,0 +1,33 @@
+concept: Gravitational Time Dilation
+domain: physics
+secondary_domains:
+- general-relativity
+aliases:
+- gravitational redshift of clocks
+broader:
+- time dilation
+related:
+- general relativity
+- equivalence principle
+- time dilation
+- schwarzschild metric
+confidence: high
+callouts:
+- type: definition
+  title: Gravitational Time Dilation
+  body: Gravitational Time Dilation is the prediction of general relativity that a
+    clock at lower gravitational potential (deeper in a gravitational well) ticks
+    more slowly than an identical clock at higher potential, by a factor √(g_tt) in
+    the static metric.
+- type: key-claim
+  title: Key claim about Gravitational Time Dilation
+  body: Gravitational Time Dilation is the relativistic correction that GPS satellites
+    must apply to remain accurate — without it the system would accumulate ~38 microseconds
+    of error per day — providing routine engineering-level validation of general relativity.
+- type: warning
+  title: Common pitfall regarding Gravitational Time Dilation
+  body: Gravitational Time Dilation is a real geometric effect and is distinct from
+    the Doppler effect of gravitational redshift in observed light; conflating the
+    two (for example by attributing a clock's slowing entirely to "lost photons climbing
+    the potential") confuses the dilation of proper time with the redshift of frequency
+    in transit.

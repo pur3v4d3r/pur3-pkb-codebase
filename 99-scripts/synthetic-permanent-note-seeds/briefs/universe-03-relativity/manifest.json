@@ -1,0 +1,138 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "universe-03-relativity",
+    "date": "2026-05-14",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-14-universe-03-relativity.md",
+    "notes": "Nineteen core concepts from special and general relativity — the geometric,\nkinematic, and dynamical structure on which all of modern gravitational physics\nand cosmology is built."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/universe-03-relativity",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-14-universe-03-relativity"
+  },
+  "counts": {
+    "parsed": 19,
+    "accepted": 19,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Special Relativity",
+      "kebab": "special-relativity",
+      "brief_path": "briefs/universe-03-relativity/special-relativity.yaml",
+      "expected_seed_filename": "special-relativity-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Equivalence Principle",
+      "kebab": "equivalence-principle",
+      "brief_path": "briefs/universe-03-relativity/equivalence-principle.yaml",
+      "expected_seed_filename": "equivalence-principle-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Time Dilation",
+      "kebab": "time-dilation",
+      "brief_path": "briefs/universe-03-relativity/time-dilation.yaml",
+      "expected_seed_filename": "time-dilation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Length Contraction",
+      "kebab": "length-contraction",
+      "brief_path": "briefs/universe-03-relativity/length-contraction.yaml",
+      "expected_seed_filename": "length-contraction-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Lorentz Transformation",
+      "kebab": "lorentz-transformation",
+      "brief_path": "briefs/universe-03-relativity/lorentz-transformation.yaml",
+      "expected_seed_filename": "lorentz-transformation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Mass Energy Equivalence",
+      "kebab": "mass-energy-equivalence",
+      "brief_path": "briefs/universe-03-relativity/mass-energy-equivalence.yaml",
+      "expected_seed_filename": "mass-energy-equivalence-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Frame Dragging",
+      "kebab": "frame-dragging",
+      "brief_path": "briefs/universe-03-relativity/frame-dragging.yaml",
+      "expected_seed_filename": "frame-dragging-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gravitational Time Dilation",
+      "kebab": "gravitational-time-dilation",
+      "brief_path": "briefs/universe-03-relativity/gravitational-time-dilation.yaml",
+      "expected_seed_filename": "gravitational-time-dilation-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gravitational Lensing",
+      "kebab": "gravitational-lensing",
+      "brief_path": "briefs/universe-03-relativity/gravitational-lensing.yaml",
+      "expected_seed_filename": "gravitational-lensing-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Gravitational Waves",
+      "kebab": "gravitational-waves",
+      "brief_path": "briefs/universe-03-relativity/gravitational-waves.yaml",
+      "expected_seed_filename": "gravitational-waves-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Ligo Detection",
+      "kebab": "ligo-detection",
+      "brief_path": "briefs/universe-03-relativity/ligo-detection.yaml",
+      "expected_seed_filename": "ligo-detection-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Geodesics",
+      "kebab": "geodesics",
+      "brief_path": "briefs/universe-03-relativity/geodesics.yaml",
+      "expected_seed_filename": "geodesics-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Curvature Of Space Time",
+      "kebab": "curvature-of-space-time",
+      "brief_path": "briefs/universe-03-relativity/curvature-of-space-time.yaml",
+      "expected_seed_filename": "curvature-of-space-time-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Einstein Field Equations",
+      "kebab": "einstein-field-equations",
+      "brief_path": "briefs/universe-03-relativity/einstein-field-equations.yaml",
+      "expected_seed_filename": "einstein-field-equations-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Schwarzschild Metric",
+      "kebab": "schwarzschild-metric",
+      "brief_path": "briefs/universe-03-relativity/schwarzschild-metric.yaml",
+      "expected_seed_filename": "schwarzschild-metric-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Kerr Metric",
+      "kebab": "kerr-metric",
+      "brief_path": "briefs/universe-03-relativity/kerr-metric.yaml",
+      "expected_seed_filename": "kerr-metric-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Minkowski Space Time",
+      "kebab": "minkowski-space-time",
+      "brief_path": "briefs/universe-03-relativity/minkowski-space-time.yaml",
+      "expected_seed_filename": "minkowski-space-time-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Twin Paradox",
+      "kebab": "twin-paradox",
+      "brief_path": "briefs/universe-03-relativity/twin-paradox.yaml",
+      "expected_seed_filename": "twin-paradox-synthetic-seed-2026-05-14_extracted.json"
+    },
+    {
+      "term": "Relativity Of Simultaneity",
+      "kebab": "relativity-of-simultaneity",
+      "brief_path": "briefs/universe-03-relativity/relativity-of-simultaneity.yaml",
+      "expected_seed_filename": "relativity-of-simultaneity-synthetic-seed-2026-05-14_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

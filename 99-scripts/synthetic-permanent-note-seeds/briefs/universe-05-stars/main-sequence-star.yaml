@@ -1,0 +1,34 @@
+concept: Main Sequence Star
+domain: astrophysics
+secondary_domains:
+- stellar-astrophysics
+aliases:
+- main-sequence star
+broader:
+- stellar evolutionary phases
+related:
+- hertzsprung-russell diagram
+- stellar classification
+- proton-proton chain
+- cno cycle
+confidence: high
+callouts:
+- type: definition
+  title: Main Sequence Star
+  body: A Main Sequence Star is a star in the prolonged phase of stable hydrogen-to-helium
+    fusion in its core, occupying the diagonal band on the Hertzsprung–Russell diagram
+    from cool red dwarfs to hot O-type stars and spending ~90% of its nuclear-burning
+    lifetime in this configuration.
+- type: key-claim
+  title: Key claim about Main Sequence Star
+  body: A Main Sequence Star sits at a tight relation between mass, luminosity, and
+    effective temperature determined by hydrostatic and thermal equilibrium with hydrogen-burning
+    energy generation; this mass–luminosity relation (L ∝ M^~3.5) is one of the most
+    empirically secure structural relations in stellar astrophysics.
+- type: warning
+  title: Common pitfall regarding Main Sequence Star
+  body: A Main Sequence Star's lifetime is not a function only of mass — composition
+    (metallicity) shifts the position of the main sequence and the burning rate —
+    and conflating "main sequence" with a fixed set of L–T values across stellar populations
+    of different metallicities introduces systematic age errors of factors of two
+    or more.

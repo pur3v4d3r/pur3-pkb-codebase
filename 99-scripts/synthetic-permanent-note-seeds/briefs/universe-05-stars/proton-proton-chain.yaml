@@ -1,0 +1,35 @@
+concept: Proton Proton Chain
+domain: astrophysics
+secondary_domains:
+- nuclear-astrophysics
+aliases:
+- pp chain
+- p-p chain
+broader:
+- hydrogen-burning processes
+related:
+- stellar nucleosynthesis
+- cno cycle
+- main sequence star
+- neutrino
+confidence: high
+callouts:
+- type: definition
+  title: Proton Proton Chain
+  body: The Proton Proton Chain is the principal sequence of nuclear reactions that
+    fuses four hydrogen nuclei into one helium-4 nucleus in low-mass main-sequence
+    stars (including the Sun), proceeding through the three branches (pp-I, pp-II,
+    pp-III) distinguished by the ⁷Be and ⁷Li intermediates.
+- type: key-claim
+  title: Key claim about Proton Proton Chain
+  body: The Proton Proton Chain is the dominant energy-generation mechanism for stars
+    below ~1.5 solar masses, including the Sun, and the neutrinos it produces have
+    been directly detected by the Borexino, GALLEX, SAGE, SNO, and Super-Kamiokande
+    experiments — each of the chain's branches has been individually measured.
+- type: warning
+  title: Common pitfall regarding Proton Proton Chain
+  body: The Proton Proton Chain proceeds via a weak-interaction first step (p + p
+    → d + e⁺ + ν_e) with such a small cross section that it has never been directly
+    measured in the laboratory and must be calculated from electroweak theory; the
+    Sun's central energy generation rests on a theoretical input that has no direct
+    terrestrial test.

@@ -1,0 +1,34 @@
+concept: Relativity Of Simultaneity
+domain: physics
+secondary_domains:
+- special-relativity
+- philosophy-of-physics
+aliases:
+- simultaneity in special relativity
+broader:
+- foundational consequences of special relativity
+related:
+- special relativity
+- lorentz transformation
+- time dilation
+- twin paradox
+confidence: high
+callouts:
+- type: definition
+  title: Relativity Of Simultaneity
+  body: Relativity Of Simultaneity is the special-relativistic result that two events
+    occurring at different spatial locations and judged simultaneous in one inertial
+    frame are not simultaneous in another inertial frame moving relative to the first
+    — simultaneity is not absolute but frame-dependent.
+- type: key-claim
+  title: Key claim about Relativity Of Simultaneity
+  body: Relativity Of Simultaneity is the most conceptually radical departure of special
+    relativity from Newtonian physics, and it is the resolution of the apparent paradoxes
+    (pole-and-barn, twin) that arise when one treats simultaneity as if it were a
+    frame-independent fact.
+- type: warning
+  title: Common pitfall regarding Relativity Of Simultaneity
+  body: Relativity Of Simultaneity does not imply that causality is frame-dependent
+    — the temporal order of causally connectable (timelike or null separated) events
+    is preserved across all frames — and confusing the frame-dependence of simultaneity
+    with frame-dependence of causal order is a common but serious error.

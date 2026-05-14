@@ -1,0 +1,36 @@
+concept: Planck Time
+domain: physics
+secondary_domains:
+- quantum-gravity
+- fundamental-units
+aliases:
+- t_P
+broader:
+- planck units
+related:
+- planck units
+- planck length
+- planck epoch
+- quantum gravity
+confidence: high
+callouts:
+- type: definition
+  title: Planck Time
+  body: The Planck Time t_P = √(ℏG/c⁵) ≈ 5.391 × 10⁻⁴⁴ s is the natural time scale
+    constructed from c, ℏ, and G, equivalent to the time required for light to traverse
+    one Planck length and serving as the lower bound on cosmic-history times for which
+    classical general-relativistic descriptions are conjecturally valid.
+- type: key-claim
+  title: Key claim about Planck Time
+  body: The Planck Time bounds, on the small-time side, the era during which classical
+    cosmological evolution can be described by general relativity coupled to quantum
+    field theory; before the Planck time the Planck-epoch quantum-gravity regime applies,
+    and "the universe at t = 0" is literally beyond the predictive reach of currently-formulated
+    physics.
+- type: warning
+  title: Common pitfall regarding Planck Time
+  body: The Planck Time is sometimes presented as the "first moment" of cosmic time
+    at which the universe could be said to "exist"; in fact the time coordinate itself
+    becomes ambiguous in the Planck-epoch quantum-gravity regime, and treating the
+    Planck time as a sharp temporal boundary anthropomorphises a more subtle conceptual
+    situation.

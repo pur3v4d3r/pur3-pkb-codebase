@@ -1,0 +1,39 @@
+concept: Supernova
+domain: cosmology
+secondary_domains:
+- stellar-astrophysics
+- observational-astronomy
+aliases:
+- supernovae
+- SN
+broader:
+- stellar explosions
+related:
+- type ia supernova
+- core collapse supernova
+- neutron star
+- black hole
+- stellar nucleosynthesis
+prerequisites:
+- stellar evolution
+confidence: high
+callouts:
+- type: definition
+  title: Supernova
+  body: A Supernova is the catastrophic explosion of a star, divided into two physical
+    classes — thermonuclear (Type Ia, from runaway carbon fusion in a white dwarf)
+    and core-collapse (Types II, Ib, Ic, from the gravitational collapse of a massive
+    star's iron core) — releasing on the order of 10⁴⁴ J and briefly outshining its
+    host galaxy.
+- type: key-claim
+  title: Key claim about Supernova
+  body: A Supernova is responsible for synthesising and dispersing most of the elements
+    heavier than oxygen in the universe, making supernovae the principal source of
+    the heavy-element abundances on which planetary chemistry — and therefore biology
+    — depends.
+- type: warning
+  title: Common pitfall regarding Supernova
+  body: A Supernova of Type Ia is used as a "standardisable candle" in cosmology,
+    but the assumption of standardisability has known systematics (host-galaxy metallicity,
+    progenitor channel diversity), and treating Type Ia distances as systematics-free
+    is a recurring source of overstated precision in cosmological parameter estimates.

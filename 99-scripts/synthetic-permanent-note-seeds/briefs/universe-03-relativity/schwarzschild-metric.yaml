@@ -1,0 +1,35 @@
+concept: Schwarzschild Metric
+domain: physics
+secondary_domains:
+- general-relativity
+- black-hole-physics
+aliases:
+- Schwarzschild solution
+- Schwarzschild geometry
+broader:
+- exact solutions of the einstein field equations
+related:
+- general relativity
+- einstein field equations
+- schwarzschild radius
+- black hole
+- kerr metric
+confidence: high
+callouts:
+- type: definition
+  title: Schwarzschild Metric
+  body: The Schwarzschild Metric is the unique spherically-symmetric vacuum solution
+    of the Einstein field equations (Birkhoff's theorem), describing the spacetime
+    geometry outside a non-rotating, uncharged spherical mass and characterised by
+    the Schwarzschild radius r_s = 2GM/c².
+- type: key-claim
+  title: Key claim about Schwarzschild Metric
+  body: The Schwarzschild Metric was the first non-trivial solution of GR (1916) and
+    remains the foundational spacetime for analysing weak-field tests of GR (Mercury's
+    perihelion, light bending) and the structure of static non-rotating black holes.
+- type: warning
+  title: Common pitfall regarding Schwarzschild Metric
+  body: The Schwarzschild Metric in standard coordinates exhibits a coordinate singularity
+    at r = r_s that is often mistaken for a physical singularity; the actual physical
+    singularity sits at r = 0, while r_s is merely the event horizon, and the distinction
+    is essential for any serious analysis of black-hole interiors.

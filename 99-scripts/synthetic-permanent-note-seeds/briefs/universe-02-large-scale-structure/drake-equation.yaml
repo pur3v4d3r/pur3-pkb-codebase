@@ -1,0 +1,34 @@
+concept: Drake Equation
+domain: cosmology
+secondary_domains:
+- astrobiology
+aliases:
+- Drake's equation
+broader:
+- astrobiological estimation frameworks
+related:
+- fermi paradox
+- exoplanet
+- habitable zone
+- seti
+confidence: high
+callouts:
+- type: definition
+  title: Drake Equation
+  body: The Drake Equation is the heuristic factorisation N = R* · f_p · n_e · f_l
+    · f_i · f_c · L proposed by Frank Drake in 1961 for estimating the number of communicating
+    civilisations in the Galaxy as a product of seven independent factors ranging
+    from the rate of star formation to the longevity of communicating civilisations.
+- type: key-claim
+  title: Key claim about Drake Equation
+  body: The Drake Equation is best understood as a structure for organising our ignorance
+    rather than as a prediction-generating formula, because its later factors (f_l,
+    f_i, f_c, L) span many orders of magnitude in current estimates and dominate the
+    result.
+- type: warning
+  title: Common pitfall regarding Drake Equation
+  body: The Drake Equation is sometimes used to produce numerical "predictions" of
+    N (often in the thousands or millions); these numbers reflect the chosen priors
+    on the speculative factors more than any empirical content, and treating them
+    as scientific predictions rather than illustrative thought experiments overstates
+    the equation's epistemic standing.

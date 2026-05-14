@@ -1,0 +1,36 @@
+concept: Parallax
+domain: astronomy
+secondary_domains:
+- astrometry
+- distance-determination
+aliases:
+- trigonometric parallax
+- stellar parallax
+broader:
+- primary distance indicators
+related:
+- standard candle
+- gaia mission
+- hubble's law
+- cepheid variable
+confidence: high
+callouts:
+- type: definition
+  title: Parallax
+  body: Parallax is the apparent annual angular displacement of a nearby star against
+    the background of more distant stars caused by Earth's orbital motion around the
+    Sun, with the parallax angle (in arcseconds) being the inverse of the distance
+    (in parsecs).
+- type: key-claim
+  title: Key claim about Parallax
+  body: Parallax is the only direct geometric distance-determination technique in
+    astronomy, anchoring the entire cosmic distance ladder at its first rung — and
+    the Gaia mission has measured parallaxes for over a billion stars with microarcsecond
+    precision, transforming Galactic-scale distance determinations.
+- type: warning
+  title: Common pitfall regarding Parallax
+  body: Parallax measurements have intrinsic correlated systematics ("parallax zero-point")
+    that vary with sky position, magnitude, and stellar colour; Gaia DR3 documents
+    a global zero-point of ~−17 microarcseconds that must be applied when using Gaia
+    parallaxes for distance-ladder calibration, and treating raw catalogue values
+    as systematic-free leads to errors that propagate into cosmological inferences.

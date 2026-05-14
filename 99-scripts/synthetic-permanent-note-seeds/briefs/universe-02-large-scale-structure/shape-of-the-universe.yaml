@@ -1,0 +1,35 @@
+concept: Shape Of The Universe
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- geometry
+aliases:
+- topology of the universe
+- global geometry of spacetime
+broader:
+- cosmic geometry
+related:
+- flatness problem
+- lambda-cdm-model
+- cosmological principle
+- cosmic microwave background radiation
+confidence: high
+callouts:
+- type: definition
+  title: Shape Of The Universe
+  body: 'The Shape Of The Universe refers to the global geometry (curvature: positive/closed,
+    zero/flat, negative/open) and topology (simply or multiply connected) of three-dimensional
+    space at a fixed cosmic time, distinct from the local curvature induced by individual
+    mass-energy distributions.'
+- type: key-claim
+  title: Key claim about Shape Of The Universe
+  body: The Shape Of The Universe is constrained by CMB observations (especially the
+    angular size of the acoustic peaks) to be spatially flat to within ~0.4% — a flatness
+    consistent with inflation but strictly an empirical finding independent of which
+    mechanism produced it.
+- type: warning
+  title: Common pitfall regarding Shape Of The Universe
+  body: The Shape Of The Universe in the geometric sense (curvature) is empirically
+    well constrained, but its topology is not — a flat universe could be infinite
+    or finite-and-multiply-connected (a 3-torus, dodecahedral space), and current
+    CMB searches for matched-circle topology signatures have not yet been definitive.

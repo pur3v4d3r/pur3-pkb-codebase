@@ -1,0 +1,38 @@
+concept: Action Principle
+domain: mathematical-physics
+secondary_domains:
+- classical-mechanics
+- mathematical-physics
+aliases:
+- principle of stationary action
+- principle of least action
+- Hamilton's principle
+broader:
+- variational principles in physics
+related:
+- lagrangian mechanics
+- hamiltonian mechanics
+- noether's theorem
+- gauge theory
+confidence: high
+callouts:
+- type: definition
+  title: Action Principle
+  body: The Action Principle is the variational principle stating that the dynamics
+    of a physical system are those for which the action functional S = ∫ L dt (or
+    in field theory, S = ∫ ℒ d⁴x) is stationary under variations of the trajectory
+    or field configuration with fixed endpoints, yielding the equations of motion
+    as the Euler–Lagrange equations.
+- type: key-claim
+  title: Key claim about Action Principle
+  body: The Action Principle is the most fundamental statement of dynamics in physics
+    — encompassing classical mechanics, classical field theory, quantum mechanics
+    (via the path integral), and quantum field theory — and provides the natural framework
+    for incorporating symmetries, constraints, and gauge invariances through the Lagrangian.
+- type: warning
+  title: Common pitfall regarding Action Principle
+  body: The Action Principle is often called "the principle of least action," but
+    the action need not be minimised — it must merely be stationary, and physical
+    paths can be local minima, maxima, or saddle points of the action; the "least
+    action" historical name persists but is technically inaccurate, with "stationary
+    action" being the precise statement.

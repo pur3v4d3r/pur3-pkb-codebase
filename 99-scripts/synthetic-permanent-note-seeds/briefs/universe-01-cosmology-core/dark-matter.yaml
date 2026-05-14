@@ -1,0 +1,38 @@
+concept: Dark Matter
+domain: cosmology
+secondary_domains:
+- astrophysics
+- particle-physics
+aliases:
+- dark-matter
+- cold dark matter
+- CDM
+broader:
+- components of the cosmic energy budget
+related:
+- galactic rotation curve
+- lambda-cdm-model
+- gravitational lensing
+- large-scale structure of the cosmos
+prerequisites:
+- gravity
+- general relativity
+confidence: high
+callouts:
+- type: definition
+  title: Dark Matter
+  body: Dark Matter is the gravitationally-active but electromagnetically inert component,
+    currently inferred to constitute about 27% of the cosmic energy density, whose
+    presence is required to explain galactic rotation curves, gravitational lensing,
+    the CMB power spectrum, and the growth of large-scale structure.
+- type: key-claim
+  title: Key claim about Dark Matter
+  body: Dark Matter is detected through five logically independent gravitational signatures
+    spanning galactic to cosmological scales; this convergence makes it a robust empirical
+    fact, even though the identity of its constituent particle (if any) remains unknown
+    after decades of direct-detection effort.
+- type: warning
+  title: Common pitfall regarding Dark Matter
+  body: Dark Matter is not the same as dark energy, and the two are routinely confused
+    in popular accounts; dark matter clusters and exerts ordinary attractive gravity,
+    whereas dark energy is smooth and effectively repulsive on cosmological scales.

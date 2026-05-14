@@ -1,0 +1,33 @@
+concept: Flatness Problem
+domain: cosmology
+secondary_domains:
+- theoretical-cosmology
+- fine-tuning-arguments
+aliases:
+- flatness puzzle
+broader:
+- problems of standard hot big bang cosmology
+related:
+- horizon problem
+- monopole problem
+- inflation
+- lambda-cdm-model
+confidence: high
+callouts:
+- type: definition
+  title: Flatness Problem
+  body: The Flatness Problem is the observation that the present near-flatness of
+    the universe (Ω_total ≈ 1) requires the early-universe value of Ω to have been
+    tuned to unity to better than one part in 10⁶⁰ — a degree of initial fine-tuning
+    that the standard hot Big Bang model does not naturally explain.
+- type: key-claim
+  title: Key claim about Flatness Problem
+  body: The Flatness Problem is solved by inflation, which exponentially expands any
+    initial spatial curvature away to negligibility; this resolution is one of inflation's
+    principal motivations and theoretical successes.
+- type: warning
+  title: Common pitfall regarding Flatness Problem
+  body: The Flatness Problem is sometimes dismissed as merely an aesthetic objection;
+    the technical content is real (the Friedmann equations show Ω = 1 is an unstable
+    fixed point at late times), so the absence of a mechanism to generate it is a
+    quantitatively well-defined problem, not just a preference for elegance.

@@ -1,0 +1,37 @@
+concept: Spitzer Space Telescope
+domain: space-exploration
+secondary_domains:
+- infrared-astronomy
+- observational-astronomy
+aliases:
+- Spitzer
+- Space Infrared Telescope Facility
+broader:
+- infrared space telescopes
+related:
+- infrared astronomy
+- james webb space telescope
+- exoplanet
+- hubble space telescope
+confidence: high
+callouts:
+- type: definition
+  title: Spitzer Space Telescope
+  body: The Spitzer Space Telescope is the NASA infrared space observatory operating
+    from 2003 to 2020 in a heliocentric Earth-trailing orbit, with a 0.85-m primary
+    mirror and instruments covering 3.6–160 µm — the fourth Great Observatory and
+    the primary infrared space facility prior to JWST.
+- type: key-claim
+  title: Key claim about Spitzer Space Telescope
+  body: The Spitzer Space Telescope made the first detection of light from a transiting
+    exoplanet (HD 209458b, 2005), characterised the spectral energy distributions
+    of high-redshift galaxies and AGN at infrared wavelengths inaccessible from the
+    ground, and provided the bridge between IRAS-era infrared astronomy and the JWST
+    era.
+- type: warning
+  title: Common pitfall regarding Spitzer Space Telescope
+  body: The Spitzer Space Telescope ceased cryogenic operations in 2009 when the on-board
+    liquid helium ran out, transitioning to the warm-mission era (only IRAC channels
+    1 and 2 at 3.6 and 4.5 µm) until decommissioning in 2020; references to "Spitzer
+    measurements" without distinguishing cryogenic-era from warm-era observations
+    conflate substantially different observational capabilities.

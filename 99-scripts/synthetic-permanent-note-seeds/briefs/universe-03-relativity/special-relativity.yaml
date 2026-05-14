@@ -1,0 +1,35 @@
+concept: Special Relativity
+domain: physics
+secondary_domains:
+- theoretical-physics
+aliases:
+- SR
+- Einstein's special theory of relativity
+broader:
+- theories of spacetime
+related:
+- general relativity
+- lorentz transformation
+- time dilation
+- mass-energy equivalence
+- minkowski space-time
+confidence: high
+callouts:
+- type: definition
+  title: Special Relativity
+  body: Special Relativity is Einstein's 1905 theory of spacetime resting on two postulates
+    — the laws of physics are identical in all inertial frames, and the speed of light
+    in vacuum is the same in all such frames — from which the Lorentz transformations,
+    time dilation, length contraction, and mass–energy equivalence follow as theorems.
+- type: key-claim
+  title: Key claim about Special Relativity
+  body: Special Relativity replaces the Galilean addition of velocities and the absolute
+    simultaneity of Newtonian mechanics with a unified four-dimensional spacetime
+    framework, a replacement validated to extreme precision by particle accelerators,
+    GPS clocks, and atomic-clock comparisons.
+- type: warning
+  title: Common pitfall regarding Special Relativity
+  body: Special Relativity applies strictly to inertial frames and to physics in the
+    absence of gravity; treating accelerated frames or gravitational fields with SR
+    alone produces inconsistent results, and the natural extension is general relativity
+    rather than a more elaborate SR.

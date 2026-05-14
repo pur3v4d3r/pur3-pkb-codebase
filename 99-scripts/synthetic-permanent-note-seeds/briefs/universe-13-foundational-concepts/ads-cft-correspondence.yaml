@@ -1,0 +1,41 @@
+concept: AdS CFT Correspondence
+domain: physics
+secondary_domains:
+- theoretical-physics
+- string-theory
+- quantum-gravity
+aliases:
+- AdS/CFT
+- gauge-gravity duality
+- Maldacena duality
+broader:
+- holographic principle
+related:
+- holographic principle
+- string theory
+- quantum gravity
+- gauge theory
+confidence: high
+callouts:
+- type: definition
+  title: AdS CFT Correspondence
+  body: The AdS CFT Correspondence is the duality, conjectured by Juan Maldacena (1997),
+    between Type IIB string theory on AdS_5 × S^5 (anti-de Sitter spacetime crossed
+    with a five-sphere) and N = 4 supersymmetric SU(N) Yang–Mills gauge theory in
+    four-dimensional Minkowski space — equating a quantum theory of gravity in five-dimensional
+    curved space with a non-gravitational quantum field theory in four-dimensional
+    flat space.
+- type: key-claim
+  title: Key claim about AdS CFT Correspondence
+  body: The AdS CFT Correspondence is one of the most-cited results in theoretical
+    physics, providing a concrete realisation of the holographic principle, a tool
+    for non-perturbative calculations in strongly-coupled gauge theory (used in heavy-ion
+    physics, condensed-matter physics, and quark-gluon plasma calculations), and an
+    example of how a quantum theory of gravity can be defined.
+- type: warning
+  title: Common pitfall regarding AdS CFT Correspondence
+  body: The AdS CFT Correspondence applies rigorously only to asymptotically anti-de
+    Sitter spacetimes (negative cosmological constant, the opposite sign to our observed
+    universe), and the existence of a similar duality for asymptotically de Sitter
+    or Minkowski spacetimes remains conjectural; presenting AdS/CFT as if it directly
+    applied to our universe overstates the duality's established domain.

@@ -1,0 +1,35 @@
+concept: Gluon
+domain: physics
+secondary_domains:
+- particle-physics
+- quantum-chromodynamics
+aliases:
+- gluons
+broader:
+- gauge bosons of the standard model
+related:
+- quark
+- quantum chromodynamics
+- standard model of particle physics
+confidence: high
+callouts:
+- type: definition
+  title: Gluon
+  body: A Gluon is the massless, spin-1 gauge boson of the SU(3) colour interaction
+    of quantum chromodynamics, mediating the strong force between quarks and (uniquely
+    among Standard-Model gauge bosons) carrying colour charge itself, so that gluons
+    couple to other gluons and produce the non-abelian dynamics responsible for confinement
+    and asymptotic freedom.
+- type: key-claim
+  title: Key claim about Gluon
+  body: A Gluon was first inferred from three-jet events in e⁺e⁻ collisions at PETRA
+    (1979), confirming the existence of a coloured gauge boson required by QCD, and
+    the eight independent gluon colour-anti-colour combinations correspond to the
+    eight generators of the SU(3) colour group.
+- type: warning
+  title: Common pitfall regarding Gluon
+  body: A Gluon, like a quark, cannot be observed in isolation due to confinement;
+    gluon properties are inferred from event-shape observables, parton-distribution-function
+    analyses, and lattice QCD, and statements about "the gluon mass" or "free gluons"
+    misuse the formalism — only colour-singlet combinations are observable asymptotic
+    states.

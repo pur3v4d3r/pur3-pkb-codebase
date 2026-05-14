@@ -1,0 +1,38 @@
+concept: New Horizons Mission
+domain: space-exploration
+secondary_domains:
+- planetary-science
+- kuiper-belt-research
+aliases:
+- New Horizons
+- NH
+broader:
+- outer-solar-system planetary missions
+related:
+- kuiper belt
+- voyager program
+- pluto
+- oort cloud
+confidence: high
+callouts:
+- type: definition
+  title: New Horizons Mission
+  body: The New Horizons Mission is the NASA spacecraft launched 2006 January that
+    conducted the first close flyby of Pluto and its moons (2015 July) at ~12,500
+    km closest approach, followed by a flyby of the Kuiper Belt object Arrokoth (2019
+    January) — the first detailed reconnaissance of any Kuiper Belt object and the
+    most distant planetary flyby in history.
+- type: key-claim
+  title: Key claim about New Horizons Mission
+  body: The New Horizons Mission's flyby of Pluto revealed an unexpectedly geologically
+    active body — with smooth ice plains (Sputnik Planitia), mountain ranges, and
+    atmospheric haze layers — overturning pre-flyby expectations of a static, cratered
+    surface and demonstrating that even small icy worlds at the edge of the Solar
+    System can sustain ongoing geological processes.
+- type: warning
+  title: Common pitfall regarding New Horizons Mission
+  body: The New Horizons Mission's encounters were extremely brief (effective high-resolution
+    data collection of hours at Pluto, less at Arrokoth) and the spacecraft's onboard
+    data storage required ~16 months of post-encounter downlink to transmit all of
+    the Pluto data; published "New Horizons results" appeared serially over years,
+    and the encounter itself was much shorter than the resulting analysis suggests.

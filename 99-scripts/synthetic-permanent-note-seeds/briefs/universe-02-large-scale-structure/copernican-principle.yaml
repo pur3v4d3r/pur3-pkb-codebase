@@ -1,0 +1,34 @@
+concept: Copernican Principle
+domain: cosmology
+secondary_domains:
+- philosophy-of-science
+- history-of-astronomy
+aliases:
+- Copernican principle
+- mediocrity principle
+broader:
+- foundational assumptions of cosmology
+related:
+- cosmological principle
+- anthropic principle
+- observable universe
+confidence: high
+callouts:
+- type: definition
+  title: Copernican Principle
+  body: The Copernican Principle is the methodological assumption that we do not occupy
+    a privileged position in the universe — generalised from Copernicus's removal
+    of Earth from the cosmic centre to the broader claim that no observer's location
+    is fundamentally special.
+- type: key-claim
+  title: Key claim about Copernican Principle
+  body: The Copernican Principle underwrites the cosmological principle and is used
+    in modern cosmology to justify treating measurements made from Earth as representative
+    of the universe at large; its philosophical status is methodological rather than
+    metaphysical.
+- type: warning
+  title: Common pitfall regarding Copernican Principle
+  body: The Copernican Principle is in tension with anthropic reasoning, which explicitly
+    invokes observer-selection effects; the two principles are reconcilable but not
+    identical, and treating them as equivalent or as straightforwardly compatible
+    papers over real conceptual work.

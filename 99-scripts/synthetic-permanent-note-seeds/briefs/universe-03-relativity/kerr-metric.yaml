@@ -1,0 +1,36 @@
+concept: Kerr Metric
+domain: physics
+secondary_domains:
+- general-relativity
+- black-hole-physics
+aliases:
+- Kerr solution
+broader:
+- exact solutions of the einstein field equations
+related:
+- general relativity
+- schwarzschild metric
+- frame-dragging
+- ergosphere
+- black hole
+confidence: high
+callouts:
+- type: definition
+  title: Kerr Metric
+  body: The Kerr Metric is the axially-symmetric vacuum solution of the Einstein field
+    equations describing the spacetime geometry around a rotating uncharged mass,
+    parameterised by the mass M and the angular momentum per unit mass a, and reducing
+    to the Schwarzschild metric in the a → 0 limit.
+- type: key-claim
+  title: Key claim about Kerr Metric
+  body: The Kerr Metric is, by the no-hair theorem, the unique stationary axisymmetric
+    vacuum black-hole solution in classical GR, so any astrophysical black hole that
+    has settled to equilibrium is described by it; this universality makes Kerr the
+    fundamental spacetime of black-hole astrophysics.
+- type: warning
+  title: Common pitfall regarding Kerr Metric
+  body: The Kerr Metric introduces frame-dragging and the ergosphere, regions absent
+    from Schwarzschild, and intuitions transferred from the spherically-symmetric
+    case (innermost stable orbit at 6M, no extraction of rotational energy) silently
+    fail in the Kerr geometry; treating black holes as Schwarzschild by default is
+    a routine error.

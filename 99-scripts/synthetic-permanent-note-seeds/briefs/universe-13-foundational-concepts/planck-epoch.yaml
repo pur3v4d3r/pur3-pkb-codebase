@@ -1,0 +1,37 @@
+concept: Planck Epoch
+domain: physics
+secondary_domains:
+- cosmology
+- quantum-gravity
+aliases:
+- Planck era
+broader:
+- cosmological epochs
+related:
+- planck units
+- planck time
+- quantum gravity
+- big bang theory
+confidence: high
+callouts:
+- type: definition
+  title: Planck Epoch
+  body: The Planck Epoch is the period from the universe's origin to the Planck time
+    (~5.4 × 10⁻⁴⁴ s), during which the energy density of the universe exceeded the
+    Planck scale and a quantum theory of gravity (rather than classical general relativity
+    coupled to quantum field theory) is required to describe the dynamics — placing
+    this epoch beyond the reach of currently-formulated physics.
+- type: key-claim
+  title: Key claim about Planck Epoch
+  body: The Planck Epoch is the only era in cosmic history where the formalism of
+    general relativity is generally agreed to break down, and any account of the universe's
+    earliest moment requires a successful quantum theory of gravity that does not
+    yet exist; speculative scenarios (Hartle–Hawking no-boundary, loop-quantum-cosmology
+    bounce, string-cosmology pre-Big-Bang) populate the Planck epoch with model-dependent
+    narratives.
+- type: warning
+  title: Common pitfall regarding Planck Epoch
+  body: The Planck Epoch is sometimes described as if its physics were "well understood"
+    via heuristic Planck-scale arguments; in fact essentially nothing about the physics
+    of this epoch is established, and treatments that present specific Planck-epoch
+    dynamics as factual rather than speculative model-output overstate what is known.

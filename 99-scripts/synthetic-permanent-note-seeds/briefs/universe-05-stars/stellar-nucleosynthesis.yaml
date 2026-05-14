@@ -1,0 +1,36 @@
+concept: Stellar Nucleosynthesis
+domain: astrophysics
+secondary_domains:
+- nuclear-physics
+aliases:
+- stellar element formation
+- nuclear burning
+broader:
+- nucleosynthesis
+related:
+- proton-proton chain
+- cno cycle
+- triple-alpha process
+- supernova
+confidence: high
+callouts:
+- type: definition
+  title: Stellar Nucleosynthesis
+  body: Stellar Nucleosynthesis is the production of chemical elements heavier than
+    hydrogen and helium through nuclear fusion (and capture) reactions in stellar
+    interiors and explosive endpoints, supplying the bulk of the cosmic abundance
+    of elements from carbon through iron and, via supernovae and neutron-star mergers,
+    beyond.
+- type: key-claim
+  title: Key claim about Stellar Nucleosynthesis
+  body: Stellar Nucleosynthesis is the source of essentially all elements heavier
+    than lithium in the present-day universe, with quantitatively predicted abundances
+    (B²FH, 1957) matching observed solar-system and stellar abundances across the
+    periodic table, an agreement that earned the field two Nobel prizes.
+- type: warning
+  title: Common pitfall regarding Stellar Nucleosynthesis
+  body: Stellar Nucleosynthesis explains the abundances of elements up to the iron
+    peak via fusion, and beyond via neutron-capture processes (s-process in AGB stars,
+    r-process in core-collapse supernovae and neutron-star mergers); attributing all
+    heavy elements to "supernovae" is an over-simplification that misses the dominant
+    contribution of compact-object mergers to the r-process.

@@ -1,0 +1,37 @@
+concept: Hubble Sequence
+domain: astrophysics
+secondary_domains:
+- galactic-morphology
+- observational-astronomy
+aliases:
+- Hubble tuning fork
+- Hubble morphological sequence
+broader:
+- galaxy classification frameworks
+related:
+- spiral galaxy
+- elliptical galaxy
+- irregular galaxy
+- andromeda galaxy
+confidence: high
+callouts:
+- type: definition
+  title: Hubble Sequence
+  body: The Hubble Sequence is the morphological classification scheme for galaxies
+    introduced by Edwin Hubble (1926, 1936), arranging galaxies as ellipticals (E0–E7),
+    lenticulars (S0), barred and unbarred spirals (SB / S, subdivided a–c–d by bulge–disc
+    ratio and arm tightness), and irregulars (Irr) along a "tuning fork" diagram.
+- type: key-claim
+  title: Key claim about Hubble Sequence
+  body: The Hubble Sequence is a purely morphological classification, but the morphological
+    categories correlate strongly with stellar population, gas content, and star-formation
+    history — making the sequence a phenomenological backbone for galaxy-evolution
+    studies even though Hubble's original "early-to-late type" temporal interpretation
+    has been abandoned.
+- type: warning
+  title: Common pitfall regarding Hubble Sequence
+  body: The Hubble Sequence's "early-type" / "late-type" terminology is a historical
+    artefact reflecting Hubble's now-discredited evolutionary interpretation (early
+    types do not evolve into late types); the terminology persists, but the implied
+    evolutionary direction is wrong, and authors should be alert to this confusing
+    residue.

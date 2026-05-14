@@ -1,0 +1,34 @@
+concept: Quark
+domain: physics
+secondary_domains:
+- particle-physics
+aliases:
+- quarks
+broader:
+- fundamental fermions of the standard model
+related:
+- standard model of particle physics
+- lepton
+- gluon
+- baryon
+confidence: high
+callouts:
+- type: definition
+  title: Quark
+  body: A Quark is one of six fundamental fermions of the Standard Model (up, down,
+    charm, strange, top, bottom) carrying colour charge and electric charge of ±⅔
+    or ∓⅓ in units of the electron charge, confined by the strong interaction into
+    colour-singlet hadrons (mesons and baryons) at low energies.
+- type: key-claim
+  title: Key claim about Quark
+  body: A Quark cannot be observed in isolation due to colour confinement, an empirical
+    and lattice-QCD-supported feature of the strong interaction, and the existence
+    of all six flavours has been established experimentally — the top quark, the heaviest,
+    was discovered at Fermilab's Tevatron in 1995.
+- type: warning
+  title: Common pitfall regarding Quark
+  body: A Quark's "current mass" (the parameter in the QCD Lagrangian) is distinct
+    from the "constituent mass" (the effective mass of a confined quark inside a hadron),
+    differing by an order of magnitude for light quarks; confusing these two quantities
+    — both legitimately called the "quark mass" — is a routine source of confusion
+    in popular accounts.

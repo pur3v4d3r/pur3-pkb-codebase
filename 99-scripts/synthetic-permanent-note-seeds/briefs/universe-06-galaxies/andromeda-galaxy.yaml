@@ -1,0 +1,33 @@
+concept: Andromeda Galaxy
+domain: astrophysics
+secondary_domains:
+- galactic-astronomy
+aliases:
+- M31
+- Andromeda
+broader:
+- spiral galaxy
+related:
+- milky way galaxy
+- local group
+- galaxy merger
+- hubble sequence
+confidence: high
+callouts:
+- type: definition
+  title: Andromeda Galaxy
+  body: The Andromeda Galaxy is the nearest large spiral galaxy to the Milky Way (distance
+    ~780 kpc), comparable to or somewhat larger than the Milky Way in stellar content,
+    and the dominant member with the Milky Way of the Local Group of galaxies.
+- type: key-claim
+  title: Key claim about Andromeda Galaxy
+  body: The Andromeda Galaxy is approaching the Milky Way at ~110 km/s and dynamical
+    analyses (now informed by Gaia proper motions of M31 satellites) project a major
+    merger in ~4–5 Gyr, with the merger remnant likely to be an elliptical or lenticular
+    galaxy ("Milkomeda").
+- type: warning
+  title: Common pitfall regarding Andromeda Galaxy
+  body: The Andromeda Galaxy's distance and historical "Andromeda Nebula" classification
+    famously triggered the 1920 Shapley–Curtis "Great Debate" over the scale of the
+    universe; pre-1925 statements treating M31 as a "nebula within the Milky Way"
+    are obsolete and should not be cited as evidence about modern questions.

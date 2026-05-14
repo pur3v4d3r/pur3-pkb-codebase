@@ -1,0 +1,37 @@
+concept: WMAP Mission
+domain: space-exploration
+secondary_domains:
+- observational-cosmology
+- cmb-research
+aliases:
+- Wilkinson Microwave Anisotropy Probe
+- WMAP
+broader:
+- cosmic microwave background satellites
+related:
+- cosmic microwave background radiation
+- planck satellite
+- cosmological parameters
+- dark energy
+confidence: high
+callouts:
+- type: definition
+  title: WMAP Mission
+  body: The WMAP Mission is the NASA cosmic-microwave-background satellite (operating
+    2001–2010) that measured the CMB's temperature anisotropies across the full sky
+    at five frequency bands (23–94 GHz) and ~13 arcminute resolution, providing the
+    precision CMB measurements that established the concordance ΛCDM cosmology before
+    the Planck satellite superseded its precision.
+- type: key-claim
+  title: Key claim about WMAP Mission
+  body: The WMAP Mission's nine-year results established cosmological parameters (Ω_m,
+    Ω_Λ, H_0, the age and geometry of the universe) to ~3% precision and confirmed
+    the inflation-predicted near-scale-invariance of the primordial perturbation spectrum
+    — making WMAP the satellite that founded the precision-cosmology era.
+- type: warning
+  title: Common pitfall regarding WMAP Mission
+  body: The WMAP Mission's results are widely cited but were superseded in precision
+    by Planck; results-tables that reference WMAP-only cosmological parameters in
+    2020s papers are usually outdated relative to the more recent Planck constraints,
+    and citing WMAP without acknowledgement of this supersession is bibliographic
+    anachronism.

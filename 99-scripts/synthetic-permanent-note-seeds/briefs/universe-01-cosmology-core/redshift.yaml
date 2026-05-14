@@ -1,0 +1,39 @@
+concept: Redshift
+domain: cosmology
+secondary_domains:
+- observational-astronomy
+- spectroscopy
+aliases:
+- cosmological redshift
+- z
+broader:
+- spectroscopic shifts
+related:
+- doppler effect in astronomy
+- expansion of the universe
+- hubble's law
+- gravitational time dilation
+prerequisites:
+- doppler effect in astronomy
+confidence: high
+callouts:
+- type: definition
+  title: Redshift
+  body: 'Redshift is the increase in the observed wavelength (decrease in frequency)
+    of light from a receding or distant source, parameterised by z = (λ_obs − λ_emit)
+    / λ_emit and produced by three physically distinct mechanisms: relative motion
+    (Doppler), expansion of space (cosmological), and gravitational potential difference
+    (gravitational redshift).'
+- type: key-claim
+  title: Key claim about Redshift
+  body: Redshift is the principal observable through which cosmology is done — distance,
+    lookback time, velocity, and gravitational potential are all inferred from it
+    — and the cosmological redshift in particular is the operational definition by
+    which "distance" to the most remote galaxies is even meaningful.
+- type: warning
+  title: Common pitfall regarding Redshift
+  body: Redshift is often described as a Doppler shift caused by galaxies "moving
+    away," but the cosmological component is more accurately a stretching of light
+    by the expanding metric while the photon is in transit; treating high-z redshift
+    as a velocity gives wrong numerical answers (apparent v > c at z > ~1.4) and conceptually
+    misrepresents the physics.
