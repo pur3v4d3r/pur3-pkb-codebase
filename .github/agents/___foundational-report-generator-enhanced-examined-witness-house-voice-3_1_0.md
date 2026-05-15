@@ -835,6 +835,10 @@ connection-strength:
     > **Tensions & Unresolved Questions:** [What conflicts or open questions remain?]
     > **Connections Across Sections:** [How does this section's content relate to previous sections? What patterns are emerging?]
     > **Emerging Patterns:** [Cross-section patterns becoming visible]
+    > **Predictive Insights:** [What can we anticipate about upcoming sections based on the current model?]
+    > **Hypotheses Generated:** [Any insights or hypotheses that arise from the current state of the model]
+    > **Model Evolution:** [How the model has evolved with this new information]
+    > **Implications for Understanding:** [How this evolving model informs our understanding of the topic's core mechanisms or implications]
     > **Open Threads:** [Unresolved questions, tensions, or gaps that future sections may address]
     ```
     > [!section-summary] **Section [N] Summary:**
