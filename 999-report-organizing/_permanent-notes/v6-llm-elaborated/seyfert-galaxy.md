@@ -1,12 +1,11 @@
 ---
-title: "Seyfert Galaxy"
+title: Seyfert Galaxy
 aliases:
-  - "Seyfert Galaxy"
-  - "Seyfert galaxies"
+  - Seyfert Galaxy
+  - Seyfert galaxies
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,56 +16,56 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "seyfert-galaxy-synthetic-seed-2026-05-14"
+  - seyfert-galaxy-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Active Galactic Nuclei"
-
+depth-level: enhanced
+parent-concept: Active Galactic Nuclei
 related:
-  - "[[Supermassive Black Hole]]"
-  - "[[Quasar]]"
-  - "[[Active Galactic Nucleus]]"
+  - '[[Supermassive Black Hole]]'
+  - '[[Quasar]]'
+  - '[[Active Galactic Nucleus]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Supermassive Black Hole]]"
+  - '[[Supermassive Black Hole]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Quasar]]"
+  - '[[Quasar]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Active Galactic Nucleus]]"
+  - '[[Active Galactic Nucleus]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Seyfert Galaxy
 
@@ -84,6 +83,9 @@ The classification into type 1 and type 2 Seyfert galaxies is based on the visib
 
 The unified model for AGN posits that type 1 and type 2 Seyfert galaxies are intrinsically similar central engines viewed at different orientations through an obscuring torus. This hypothesis has been substantially confirmed via spectropolarimetry and infrared observations, providing strong evidence for the orientation-based unification of these active galactic nuclei.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent studies have highlighted the role of Seyfert galaxies in galactic ecology, particularly their influence on star formation and stellar dynamics within host galaxies. The energetic outflows from these active nuclei can trigger or suppress star formation through feedback mechanisms, thereby shaping the evolutionary path of the galaxy itself.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Observational Challenges**
@@ -93,6 +95,19 @@ The unified model for AGN posits that type 1 and type 2 Seyfert galaxies are int
 
 > [!key-distinction] **Type 1 vs Type 2 Seyfert Galaxies**
 > The distinction between type 1 and type 2 Seyfert galaxies is based on the visibility of their broad-line region in spectral analysis. Type 1 Seyferts exhibit both broad permitted lines and narrow forbidden lines, indicating that the broad-line region is visible from Earth's perspective. In contrast, type 2 Seyferts show only narrow emission lines, suggesting that the broad-line region is obscured by a torus of dust and gas.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Type 1 Seyfert vs Quasar**
+> While both Type 1 Seyferts and quasars exhibit broad emission lines indicative of an active galactic nucleus, they differ in luminosity. Quasars are the most luminous AGN known, often outshining their host galaxies, whereas Seyferts are less luminous, allowing for a clearer view of their host galaxy's structure.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — All active galactic nuclei are equally bright.
+>
+> This misconception arises from the varied luminosities observed in AGN. Seyfert galaxies, being less luminous than quasars, provide a clearer view of their host galaxy's properties and dynamics.
 
 ## Open Questions
 
@@ -110,6 +125,9 @@ The unified model for AGN posits that type 1 and type 2 Seyfert galaxies are int
 
 Seyfert galaxies are pivotal for understanding AGN behavior as they represent a lower luminosity end of the active galactic nucleus spectrum. Their role as laboratories for testing models of active galactic nuclei is crucial, providing insights into the mechanisms that power these energetic phenomena and how they evolve over cosmic time.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of Seyfert galaxies not only illuminates the nature of active galactic nuclei but also provides critical insights into galaxy evolution and the interplay between black hole activity and host galaxy properties.
+
 ## Connections & Context
 
 **Falls under:** [[Active Galactic Nuclei]]
@@ -121,3 +139,10 @@ Seyfert galaxies are pivotal for understanding AGN behavior as they represent a 
 **Instance of:** [[Active Galactic Nucleus]]
 
 **Source:** [[seyfert-galaxy-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Active Galactic Nucleus]]** — *instance-of*
+> Seyfert galaxies are specific instances of AGN characterized by spiral morphology and lower luminosity. Understanding Seyferts enriches the broader study of AGN behavior, mechanisms, and evolutionary pathways.

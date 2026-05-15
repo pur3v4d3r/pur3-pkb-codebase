@@ -1,12 +1,11 @@
 ---
-title: "Galactic Rotation Curve"
+title: Galactic Rotation Curve
 aliases:
-  - "Galactic Rotation Curve"
-  - "galaxy rotation curve"
+  - Galactic Rotation Curve
+  - galaxy rotation curve
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - galactic-dynamics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "galactic-rotation-curve-synthetic-seed-2026-05-14"
+  - galactic-rotation-curve-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Astrophysical Observational Techniques"
-
+depth-level: enhanced
+parent-concept: Astrophysical Observational Techniques
 related:
-  - "[[Modified Newtonian Dynamics (MOND)]]"
-  - "[[Dark Matter]]"
+  - '[[Modified Newtonian Dynamics (MOND)]]'
+  - '[[Dark Matter]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Modified Newtonian Dynamics (MOND)]]"
+  - '[[Modified Newtonian Dynamics (MOND)]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Dark Matter]]"
+  - '[[Dark Matter]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Galactic Rotation Curve
 
@@ -85,6 +84,9 @@ The theoretical underpinnings of Galactic Rotation Curves are rooted in the prin
 
 Empirically, Galactic Rotation Curves have been instrumental in shaping our current models of galactic structure and evolution. They not only support the existence of dark matter but also admit alternative explanations such as modified gravity theories like MOND (Modified Newtonian Dynamics). The interpretation of these curves continues to be a focal point for research into the nature of dark matter and its role in the cosmos.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Galactic Rotation Curves not only provide evidence for dark matter but also challenge our understanding of gravity at galactic scales. The discrepancy between observed flat rotation curves and the expected Keplerian decline has led to alternative theories such as Modified Newtonian Dynamics (MOND), which proposes a modification to Newton's law of gravitation rather than invoking unseen mass. This shift in perspective underscores the complexity of interpreting astronomical observations and highlights the ongoing debate about the nature of gravity on cosmic scales.
+
 ## Mechanism
 
 To measure velocities at different radii within a galaxy, astronomers use Doppler shifts observed in emission lines from gas clouds. As these clouds orbit around the galactic center, their motion causes a shift in the frequency of emitted light—redshift for receding and blueshift for approaching. By analyzing these spectral shifts, scientists can calculate the orbital velocities at various points along the radius of the galaxy.
@@ -102,6 +104,19 @@ To measure velocities at different radii within a galaxy, astronomers use Dopple
 > [!key-distinction] **Flat vs Keplerian Decline**
 > The distinction between flat and Keplerian decline in Galactic Rotation Curves is crucial for understanding the distribution of mass within galaxies. A flat rotation curve indicates that orbital velocities remain constant or increase slightly with radius, suggesting the presence of dark matter to counteract gravitational forces. In contrast, a Keplerian decline would show decreasing velocities as predicted by Newtonian gravity based on visible mass alone.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In the context of Galactic Rotation Curves, top-down processing involves using theoretical models to interpret observational data, while bottom-up processing relies solely on empirical observations without preconceived theories. Top-down approaches can guide researchers in formulating hypotheses about dark matter and other unseen components based on expected gravitational dynamics, whereas bottom-up methods allow for a more open-ended exploration of the data, potentially revealing unexpected phenomena that challenge existing models.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Galactic Rotation Curves only provide evidence for dark matter.
+>
+> While Galactic Rotation Curves do offer compelling evidence for dark matter by showing discrepancies between observed and expected velocities, they also challenge our understanding of gravity itself. The flat rotation curves observed in many galaxies cannot be fully explained by visible mass alone, leading to alternative theories such as MOND that propose modifications to Newtonian dynamics rather than invoking unseen mass.
+
 ## Key Figures
 
 - **Vera Rubin** — Pioneered the study of galactic rotation curves and provided early evidence for dark matter through her observations of flat rotation curves in spiral galaxies, challenging prevailing theories about galaxy dynamics.
@@ -118,9 +133,19 @@ To measure velocities at different radii within a galaxy, astronomers use Dopple
 >
 > *What would resolve it:* Further observational studies, particularly those involving high-resolution imaging and detailed modeling of galactic dynamics, could help differentiate between these competing explanations for flat rotation curves.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do Galactic Rotation Curves inform our understanding of galaxy formation and evolution?
+>
+> *What would resolve it:* Galactic Rotation Curves can provide insights into how galaxies form and evolve over time by revealing the distribution of mass within them. By studying rotation curves across different types of galaxies, researchers can infer the role of dark matter in shaping galactic structures and dynamics.
+
 ## Synthesis
 
 Galactic Rotation Curves are pivotal in astrophysics as they offer direct evidence for the existence of dark matter. By revealing unexpected behaviors in galaxy dynamics that cannot be explained by visible mass alone, these curves have driven significant advancements in our understanding of galactic structure and evolution. Moreover, their implications extend beyond individual galaxies to influence broader cosmological models, including those related to large-scale structure formation and cosmic microwave background radiation.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Understanding Galactic Rotation Curves is crucial for advancing our knowledge of galaxy structure and dynamics. These curves not only provide evidence for dark matter but also challenge prevailing theories about gravity at large scales, driving ongoing research into the nature of dark matter and alternative gravitational models.
 
 ## Connections & Context
 
@@ -131,3 +156,10 @@ Galactic Rotation Curves are pivotal in astrophysics as they offer direct eviden
 **Supports:** [[Dark Matter]]
 
 **Source:** [[galactic-rotation-curve-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Modified Newtonian Dynamics (MOND)]]** — *contrasts-with*
+> Galactic Rotation Curves contrast with the predictions of Modified Newtonian Dynamics (MOND) in their interpretation. While Galactic Rotation Curves provide evidence for dark matter by showing unexpected velocity profiles, MOND proposes a modification to gravity that can explain these flat rotation curves without invoking unseen mass. This contrast highlights the ongoing debate about the nature of gravity and dark matter.

@@ -1,13 +1,12 @@
 ---
-title: "Roche Limit"
+title: Roche Limit
 aliases:
-  - "Roche Limit"
-  - "Roche radius"
-  - "Roche distance"
+  - Roche Limit
+  - Roche radius
+  - Roche distance
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - planetary-dynamics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "roche-limit-synthetic-seed-2026-05-14"
+  - roche-limit-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Planetary Science"
-
+depth-level: enhanced
+parent-concept: Planetary Science
 related:
-  - "[[Tidal Forces]]"
-  - "[[Planetary Ring Systems]]"
+  - '[[Tidal Forces]]'
+  - '[[Planetary Ring Systems]]'
 prerequisites:
-  - "[[Tidal Forces]]"
+  - '[[Tidal Forces]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Planetary Ring Systems]]"
+  - '[[Planetary Ring Systems]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Roche Limit
 
@@ -85,6 +84,9 @@ The formula for calculating the Roche Limit varies depending on whether the sate
 
 Understanding the Roche Limit is essential for explaining various astronomical phenomena, such as planetary ring systems. These rings are composed of debris that either could not coalesce into moons due to tidal forces or resulted from the disruption of pre-existing satellites. The existence and characteristics of these rings provide empirical evidence supporting the theoretical framework of the Roche Limit.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The Roche Limit's influence extends beyond just preventing satellite formation; it also plays a role in shaping the evolution of planetary systems over time. As celestial bodies orbit within their respective Roche limits, they can experience significant mass loss through tidal stripping, where material is gradually pulled away from the body and distributed into rings or dispersed as dust. This process not only affects the structure of planets but also impacts the composition and distribution of matter in the surrounding space, influencing the formation of moons and other celestial bodies.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Planetary Ring Systems**
@@ -97,6 +99,19 @@ Understanding the Roche Limit is essential for explaining various astronomical p
 
 > [!key-distinction] **Fluid vs Rigid Body Roche Limits**
 > The distinction between fluid and rigid body Roche limits lies in how each type of satellite responds to tidal forces. Fluid bodies, lacking internal tensile strength, are more susceptible to disruption at a greater distance from the primary compared to rigid bodies. This difference is crucial for accurately predicting the survival or disintegration of celestial objects within their respective Roche limits.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Understanding the Roche Limit requires deep processing rather than surface-level comprehension. While one might grasp that it is a boundary where tidal forces dominate over self-gravity, truly understanding its implications involves recognizing how this balance affects celestial body dynamics and evolution. This deeper insight into gravitational interactions allows for more accurate predictions about planetary ring systems and black hole accretion disks.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that the Roche Limit is solely determined by the mass of the primary body.
+>
+> In reality, the Roche Limit depends on both the density and radius of the primary body as well as those of the satellite. This interplay between different physical properties means that even two celestial bodies with similar masses can have significantly different Roche Limits depending on their densities and sizes.
 
 ## Key Figures
 
@@ -114,9 +129,19 @@ Understanding the Roche Limit is essential for explaining various astronomical p
 >
 > *What would resolve it:* Observational data from telescopic surveys of exoplanets, particularly those with detectable rings or debris disks, could provide insights into how Roche Limits influence these systems.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do varying densities and compositions affect the survival of celestial objects within their Roche limits?
+>
+> *What would resolve it:* Experimental models incorporating different material properties could help elucidate how these factors influence tidal disruption, providing a more nuanced understanding of satellite dynamics.
+
 ## Synthesis
 
 Understanding the Roche Limit is crucial for planetary science and astrophysics as it provides a framework for predicting and explaining phenomena such as planetary ring systems and black hole interactions. This concept bridges theoretical models with observable astronomical features, enhancing our comprehension of celestial dynamics.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The concept of the Roche Limit is pivotal in planetary science as it integrates gravitational physics with celestial mechanics to explain phenomena ranging from ring formation to black hole accretion. By considering both theoretical models and observational data, researchers can refine their understanding of how tidal forces shape our solar system and beyond.
 
 ## Connections & Context
 
@@ -127,3 +152,10 @@ Understanding the Roche Limit is crucial for planetary science and astrophysics 
 **Applies to:** [[Planetary Ring Systems]]
 
 **Source:** [[roche-limit-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Planetary Ring Systems]]** — *applies-to*
+> The Roche Limit directly influences the formation and persistence of planetary ring systems. Planets with satellites orbiting within their Roche limits cannot retain these moons as intact bodies due to tidal forces, leading instead to the creation of rings composed of smaller particles that are too weakly cohesive to form larger structures.

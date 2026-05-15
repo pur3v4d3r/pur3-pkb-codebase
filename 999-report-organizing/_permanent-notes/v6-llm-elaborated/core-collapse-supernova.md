@@ -1,13 +1,12 @@
 ---
-title: "Core Collapse Supernova"
+title: Core Collapse Supernova
 aliases:
-  - "Core Collapse Supernova"
-  - "Type II supernova"
-  - "gravitational supernova"
+  - Core Collapse Supernova
+  - Type II supernova
+  - gravitational supernova
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - nuclear-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "core-collapse-supernova-synthetic-seed-2026-05-14"
+  - core-collapse-supernova-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Supernova Types"
-
+depth-level: enhanced
+parent-concept: Supernova Types
 related:
-  - "[[Stellar Nucleosynthesis]]"
-  - "[[Neutron Star]]"
-  - "[[Black Hole]]"
+  - '[[Stellar Nucleosynthesis]]'
+  - '[[Neutron Star]]'
+  - '[[Black Hole]]'
 prerequisites:
-  - "[[Stellar Nucleosynthesis]]"
+  - '[[Stellar Nucleosynthesis]]'
 specializes:
-  - "[[Neutron Star]]"
-  - "[[Black Hole]]"
+  - '[[Neutron Star]]'
+  - '[[Black Hole]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Core Collapse Supernova
 
@@ -89,6 +88,9 @@ Understanding Core Collapse Supernovae is crucial for astrophysical research as 
 
 Despite extensive theoretical work and observational data, many aspects of Core Collapse Supernovae remain enigmatic. For instance, while it is known that neutrinos play a critical role in driving the explosion, the exact mechanisms governing this process are still under investigation.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent advancements in observational astronomy have allowed scientists to capture detailed images and spectra from core collapse supernovae, providing unprecedented insights into the dynamics of these explosive events. These observations not only confirm theoretical predictions but also reveal unexpected phenomena such as asymmetries in the explosion patterns that challenge current models. Understanding these asymmetries is crucial for refining our knowledge of how supernova explosions distribute elements across galaxies.
+
 ## Mechanism
 
 The core collapse begins when the iron core of a massive star can no longer withstand gravitational forces and collapses to nuclear density. This implosion generates an immense shock wave that bounces off the core, initiating the supernova explosion. Neutrinos produced during this process are crucial as they carry away energy from the collapsing core, which is essential for driving the explosion outward.
@@ -106,6 +108,19 @@ The core collapse begins when the iron core of a massive star can no longer with
 > [!key-distinction] **Successful vs Failed Supernovae**
 > The distinction between successful and failed supernovae is critical for understanding stellar evolution outcomes. Successful explosions occur when the core collapse leads to a neutron star or black hole, while failed supernovae result in direct formation of black holes without an observable explosion. The precise conditions determining whether a supernova will be successful or fail remain uncertain.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In studying core collapse supernovae, distinguishing between surface and deep processing can illuminate the complexity of these events. Surface processing focuses on observable phenomena like light curves and spectra, which provide immediate but superficial insights into the explosion dynamics. In contrast, deep processing involves detailed modeling of nuclear reactions, gravitational forces, and neutrino emissions to understand the underlying mechanisms driving the supernova. This distinction is crucial for advancing our theoretical understanding beyond mere observational descriptions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often believe that all core collapse supernovae result in visible explosions.
+>
+> While most core collapse supernovae do produce observable explosions, some can fail to generate a visible explosion due to insufficient energy release. These 'failed' supernovae directly form black holes without ejecting significant amounts of material into space. This misconception arises from the common focus on successful supernova events in popular science discussions.
+
 ## Key Figures
 
 - **Stan Woosley** — Woosley's work has been instrumental in advancing our understanding of the mechanisms behind Core Collapse Supernovae, particularly focusing on the role of neutrinos and the conditions leading to neutron star formation.
@@ -122,9 +137,19 @@ The core collapse begins when the iron core of a massive star can no longer with
 >
 > *What would resolve it:* Large-scale surveys of stellar populations coupled with high-resolution numerical models can help identify trends in explosion success rates across a range of initial star masses.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> What role do magnetic fields play in the asymmetries observed in some core collapse supernovae?
+>
+> *What would resolve it:* Detailed simulations incorporating magnetic field effects are needed to determine their influence on explosion dynamics and material ejection patterns. Observational data from high-resolution telescopes can also provide clues about the presence and strength of these fields.
+
 ## Synthesis
 
 Understanding Core Collapse Supernovae is crucial for advancing astrophysics and cosmology as these events not only mark the end of massive stars but also play pivotal roles in shaping galaxies and distributing heavy elements. By studying these phenomena, researchers gain insights into nuclear physics, gravitational collapse, and stellar evolution processes that are fundamental to our understanding of the universe.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of core collapse supernovae bridges fundamental physics with cosmic-scale phenomena, offering a window into both stellar evolution and galactic chemistry. By integrating insights from nuclear reactions to gravitational forces, researchers are piecing together a comprehensive picture of how massive stars end their lives and shape the universe around them.
 
 ## Connections & Context
 
@@ -135,3 +160,10 @@ Understanding Core Collapse Supernovae is crucial for advancing astrophysics and
 **Specializes:** [[Neutron Star]] · [[Black Hole]]
 
 **Source:** [[core-collapse-supernova-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Stellar Nucleosynthesis]]** — *prerequisites*
+> Core collapse supernovae are a direct consequence of stellar nucleosynthesis, the process by which stars fuse lighter elements into heavier ones. Understanding how nuclear reactions within a star's core lead to iron formation is essential for grasping why and how these massive stars eventually undergo catastrophic collapse.

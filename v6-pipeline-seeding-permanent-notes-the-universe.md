@@ -1,282 +1,247 @@
+# Wiki-links to Use in Reports
 
-# V6 Pipeline - Seeding Permanent Notes - The Universe
+# 📁 v6-llm-elaborated
 
-I have a pipeline for creating permanent notes for my Obsidian based PKB. The pipeline is a V6.
-What I need you todo is to review the pipeline and accompyning files, so you understand how everything works.
-- You will find all the information you need in side the pipleine folders.
+**Generated:** 2026-05-14T23:52:24.363Z
+**Generation time:** 3 ms
+**Items processed:** 235
 
-## Key Locations for Pipeline Reference
-
-Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\README.md` -> Pipeline V6 README
-`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
-
-## TASK
-1. Review the V6 pipeline and accompanying files to understand how everything works.
-2. Create the seeds for the permanent note pipeline to use, to create the corresponding permanent notes.
-3. After you have created the seeds for the permanent notes, run the pipeline on the seeds you just created, creating the permanent notes.
-4. Please feel free to ask any question you have.
-
-### Notes to create Seeds for:
-
-big-bang-theory
-cosmic-microwave-background-radiation
-dark-energy
-dark-matter
-expansion-of-the-universe
-gravity
-general-relativity
-hubble-s-law
-inflation
-multiverse
-redshift
-singularity
-space-time
-standard-model-of-particle-physics
-string-theory
-supernova
-
-# Cosmology & Large-Scale Structure
-observable-universe
-cosmological-principle
-cosmic-inflation-theory
-lambda-cdm-model
-cosmological-constant
-vacuum-energy
-quintessence
-baryon-acoustic-oscillations
-large-scale-structure-of-the-cosmos
-cosmic-web
-galaxy-filaments
-voids-in-cosmology
-great-attractor
-laniakea-supercluster
-heat-death-of-the-universe
-big-rip
-big-crunch
-big-bounce
-cyclic-universe-model
-anthropic-principle
-fine-tuned-universe
-fermi-paradox
-drake-equation
-shape-of-the-universe
-flatness-problem
-horizon-problem
-monopole-problem
-olbers-paradox
-copernican-principle
-steady-state-theory
-
-# Special & General Relativity
-special-relativity
-equivalence-principle
-time-dilation
-length-contraction
-lorentz-transformation
-mass-energy-equivalence
-frame-dragging
-gravitational-time-dilation
-gravitational-lensing
-gravitational-waves
-ligo-detection
-geodesics
-curvature-of-space-time
-einstein-field-equations
-schwarzschild-metric
-kerr-metric
-minkowski-space-time
-twin-paradox
-relativity-of-simultaneity
-
-# Black Holes & Compact Objects
-black-hole
-event-horizon
-schwarzschild-radius
-hawking-radiation
-black-hole-information-paradox
-supermassive-black-hole
-stellar-mass-black-hole
-intermediate-mass-black-hole
-primordial-black-hole
-ergosphere
-accretion-disk
-relativistic-jets
-neutron-star
-pulsar
-magnetar
-white-dwarf
-chandrasekhar-limit
-quark-star
-wormhole
-penrose-process
-no-hair-theorem
-tolman-oppenheimer-volkoff-limit
-
-# Stars & Stellar Evolution
-stellar-nucleosynthesis
-main-sequence-star
-red-giant
-red-dwarf
-brown-dwarf
-protostar
-hertzsprung-russell-diagram
-stellar-classification
-binary-star-system
-hypernova
-kilonova
-gamma-ray-burst
-type-ia-supernova
-core-collapse-supernova
-planetary-nebula
-nebula
-proton-proton-chain
-cno-cycle
-triple-alpha-process
-asymptotic-giant-branch
-wolf-rayet-star
-
-# Galaxies
-milky-way-galaxy
-andromeda-galaxy
-spiral-galaxy
-elliptical-galaxy
-irregular-galaxy
-dwarf-galaxy
-active-galactic-nucleus
-quasar
-blazar
-galactic-rotation-curve
-galaxy-merger
-galaxy-cluster
-local-group
-hubble-sequence
-seyfert-galaxy
-starburst-galaxy
-
-# Quantum & Particle Physics
-quantum-mechanics
-quantum-field-theory
-quantum-gravity
-loop-quantum-gravity
-m-theory
-supersymmetry
-higgs-boson
-quark
-lepton
-neutrino
-boson
-fermion
-photon
-gluon
-graviton
-antimatter
-matter-antimatter-asymmetry
-baryogenesis
-nucleosynthesis
-big-bang-nucleosynthesis
-heisenberg-s-uncertainty-principle
-wave-particle-duality
-quantum-entanglement
-vacuum-fluctuations
-
-# Observational Astronomy
-spectroscopy
-parallax
-standard-candle
-cepheid-variable
-hubble-space-telescope
-james-webb-space-telescope
-radio-astronomy
-infrared-astronomy
-x-ray-astronomy
-gravitational-wave-astronomy
-multi-messenger-astronomy
-event-horizon-telescope
-adaptive-optics
-interferometry
-doppler-effect-in-astronomy
-photometry
-
-# Solar System & Exoplanets
-exoplanet
-habitable-zone
-transit-method
-radial-velocity-method
-kepler-s-laws-of-planetary-motion
-oort-cloud
-kuiper-belt
-asteroid-belt
-heliosphere
-solar-wind
-coronal-mass-ejection
-tidal-locking
-roche-limit
-lagrange-points
-hill-sphere
-
-# Mathematical Formalisms
-tensor-calculus
-differential-geometry
-riemannian-geometry
-group-theory-in-physics
-gauge-theory
-lie-algebra
-spinor
-metric-tensor
-stress-energy-tensor
-action-principle
-lagrangian-mechanics
-hamiltonian-mechanics
-noether-s-theorem
-
-# Historical Figures
-albert-einstein
-isaac-newton
-edwin-hubble
-stephen-hawking
-georges-lemaitre
-galileo-galilei
-johannes-kepler
-nicolaus-copernicus
-carl-sagan
-subrahmanyan-chandrasekhar
-roger-penrose
-fritz-zwicky
-vera-rubin
-karl-schwarzschild
-
-# Missions & Probes
-voyager-program
-hubble-deep-field
-planck-satellite
-wmap-mission
-chandra-x-ray-observatory
-spitzer-space-telescope
-kepler-space-telescope
-gaia-mission
-new-horizons-mission
-parker-solar-probe
-cassini-huygens-mission
-
-# Foundational Concepts
-speed-of-light
-planck-units
-planck-epoch
-planck-length
-planck-time
-entropy-in-cosmology
-arrow-of-time
-causality-in-physics
-conservation-of-energy
-symmetry-breaking
-phase-transition-in-cosmology
-recombination-epoch
-reionization
-last-scattering-surface
-dark-ages-of-the-universe
-cosmic-dawn
-holographic-principle
-ads-cft-correspondence
-
+## Directory tree
+```
+📁 v6-llm-elaborated
+──────────────────────────────────────────────────
+├── accretion-disk.md
+├── action-principle.md
+├── active-galactic-nucleus.md
+├── adaptive-optics.md
+├── ads-cft-correspondence.md
+├── albert-einstein.md
+├── andromeda-galaxy.md
+├── anthropic-principle.md
+├── antimatter.md
+├── arrow-of-time.md
+├── asteroid-belt.md
+├── asymptotic-giant-branch.md
+├── baryogenesis.md
+├── baryon-acoustic-oscillations.md
+├── big-bang-nucleosynthesis.md
+├── big-bang-theory.md
+├── big-bounce.md
+├── big-crunch.md
+├── big-rip.md
+├── binary-star-system.md
+├── black-hole-information-paradox.md
+├── black-hole.md
+├── blazar.md
+├── boson.md
+├── brown-dwarf.md
+├── carl-sagan.md
+├── cassini-huygens-mission.md
+├── causality-in-physics.md
+├── cepheid-variable.md
+├── chandra-x-ray-observatory.md
+├── chandrasekhar-limit.md
+├── cno-cycle.md
+├── conservation-of-energy.md
+├── copernican-principle.md
+├── core-collapse-supernova.md
+├── coronal-mass-ejection.md
+├── cosmic-dawn.md
+├── cosmic-inflation-theory.md
+├── cosmic-microwave-background-radiation.md
+├── cosmic-web.md
+├── cosmological-constant.md
+├── cosmological-principle.md
+├── curvature-of-space-time.md
+├── cyclic-universe-model.md
+├── dark-ages-of-the-universe.md
+├── dark-energy.md
+├── dark-matter.md
+├── differential-geometry.md
+├── doppler-effect-in-astronomy.md
+├── drake-equation.md
+├── dwarf-galaxy.md
+├── edwin-hubble.md
+├── einstein-field-equations.md
+├── elliptical-galaxy.md
+├── entropy-in-cosmology.md
+├── equivalence-principle.md
+├── ergosphere.md
+├── event-horizon-telescope.md
+├── event-horizon.md
+├── exoplanet.md
+├── expansion-of-the-universe.md
+├── fermi-paradox.md
+├── fermion.md
+├── fine-tuned-universe.md
+├── flatness-problem.md
+├── frame-dragging.md
+├── fritz-zwicky.md
+├── gaia-mission.md
+├── galactic-rotation-curve.md
+├── galaxy-cluster.md
+├── galaxy-filaments.md
+├── galaxy-merger.md
+├── galileo-galilei.md
+├── gamma-ray-burst.md
+├── gauge-theory.md
+├── general-relativity.md
+├── geodesics.md
+├── georges-lemaitre.md
+├── gluon.md
+├── gravitational-lensing.md
+├── gravitational-time-dilation.md
+├── gravitational-wave-astronomy.md
+├── gravitational-waves.md
+├── graviton.md
+├── gravity.md
+├── great-attractor.md
+├── group-theory-in-physics.md
+├── habitable-zone.md
+├── hamiltonian-mechanics.md
+├── hawking-radiation.md
+├── heat-death-of-the-universe.md
+├── heisenberg-s-uncertainty-principle.md
+├── heliosphere.md
+├── hertzsprung-russell-diagram.md
+├── higgs-boson.md
+├── hill-sphere.md
+├── holographic-principle.md
+├── horizon-problem.md
+├── hubble-deep-field.md
+├── hubble-s-law.md
+├── hubble-sequence.md
+├── hubble-space-telescope.md
+├── hypernova.md
+├── inflation.md
+├── infrared-astronomy.md
+├── interferometry.md
+├── intermediate-mass-black-hole.md
+├── irregular-galaxy.md
+├── isaac-newton.md
+├── james-webb-space-telescope.md
+├── johannes-kepler.md
+├── karl-schwarzschild.md
+├── kepler-s-laws-of-planetary-motion.md
+├── kepler-space-telescope.md
+├── kerr-metric.md
+├── kilonova.md
+├── kuiper-belt.md
+├── lagrange-points.md
+├── lagrangian-mechanics.md
+├── lambda-cdm-model.md
+├── laniakea-supercluster.md
+├── large-scale-structure-of-the-cosmos.md
+├── last-scattering-surface.md
+├── length-contraction.md
+├── lepton.md
+├── lie-algebra.md
+├── ligo-detection.md
+├── local-group.md
+├── loop-quantum-gravity.md
+├── lorentz-transformation.md
+├── m-theory.md
+├── magnetar.md
+├── main-sequence-star.md
+├── mass-energy-equivalence.md
+├── matter-antimatter-asymmetry.md
+├── metric-tensor.md
+├── milky-way-galaxy.md
+├── minkowski-space-time.md
+├── monopole-problem.md
+├── multi-messenger-astronomy.md
+├── multiverse.md
+├── nebula.md
+├── neutrino.md
+├── neutron-star.md
+├── new-horizons-mission.md
+├── nicolaus-copernicus.md
+├── no-hair-theorem.md
+├── noether-s-theorem.md
+├── nucleosynthesis.md
+├── observable-universe.md
+├── olbers-paradox.md
+├── oort-cloud.md
+├── parallax.md
+├── parker-solar-probe.md
+├── penrose-process.md
+├── phase-transition-in-cosmology.md
+├── photometry.md
+├── photon.md
+├── planck-epoch.md
+├── planck-length.md
+├── planck-satellite.md
+├── planck-time.md
+├── planck-units.md
+├── planetary-nebula.md
+├── primordial-black-hole.md
+├── proton-proton-chain.md
+├── protostar.md
+├── pulsar.md
+├── quantum-entanglement.md
+├── quantum-field-theory.md
+├── quantum-gravity.md
+├── quantum-mechanics.md
+├── quark-star.md
+├── quark.md
+├── quasar.md
+├── quintessence.md
+├── radial-velocity-method.md
+├── radio-astronomy.md
+├── recombination-epoch.md
+├── red-dwarf.md
+├── red-giant.md
+├── redshift.md
+├── reionization.md
+├── relativistic-jets.md
+├── relativity-of-simultaneity.md
+├── riemannian-geometry.md
+├── roche-limit.md
+├── roger-penrose.md
+├── schwarzschild-metric.md
+├── schwarzschild-radius.md
+├── seyfert-galaxy.md
+├── shape-of-the-universe.md
+├── singularity.md
+├── solar-wind.md
+├── space-time.md
+├── special-relativity.md
+├── spectroscopy.md
+├── speed-of-light.md
+├── spinor.md
+├── spiral-galaxy.md
+├── spitzer-space-telescope.md
+├── standard-candle.md
+├── standard-model-of-particle-physics.md
+├── starburst-galaxy.md
+├── steady-state-theory.md
+├── stellar-classification.md
+├── stellar-mass-black-hole.md
+├── stellar-nucleosynthesis.md
+├── stephen-hawking.md
+├── stress-energy-tensor.md
+├── string-theory.md
+├── subrahmanyan-chandrasekhar.md
+├── supermassive-black-hole.md
+├── supernova.md
+├── supersymmetry.md
+├── symmetry-breaking.md
+├── tensor-calculus.md
+├── tidal-locking.md
+├── time-dilation.md
+├── tolman-oppenheimer-volkoff-limit.md
+├── transit-method.md
+├── triple-alpha-process.md
+├── twin-paradox.md
+├── type-ia-supernova.md
+├── vacuum-energy.md
+├── vacuum-fluctuations.md
+├── vera-rubin.md
+├── voids-in-cosmology.md
+├── voyager-program.md
+├── wave-particle-duality.md
+├── white-dwarf.md
+├── wmap-mission.md
+├── wolf-rayet-star.md
+├── wormhole.md
+└── x-ray-astronomy.md```

@@ -1,12 +1,11 @@
 ---
-title: "Edwin Hubble"
+title: Edwin Hubble
 aliases:
-  - "Edwin Hubble"
-  - "Hubble"
+  - Edwin Hubble
+  - Hubble
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "edwin-hubble-synthetic-seed-2026-05-14"
+  - edwin-hubble-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Observational Cosmology"
-
+depth-level: enhanced
+parent-concept: Observational Cosmology
 related:
-  - "[[Expansion of the Universe]]"
+  - '[[Expansion of the Universe]]'
   - "[[Hubble's Law]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Expansion of the Universe]]"
+  - '[[Expansion of the Universe]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
   - "[[Hubble's Law]]"
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Edwin Hubble
 
@@ -86,6 +85,9 @@ Hubble's work was revolutionary in its time, yet it is important to note that wh
 
 Hubble's morphological classification scheme, known as the Hubble sequence, remains a cornerstone in the taxonomy of galaxies today, over a century later. It categorizes galaxies based on their visual appearance into elliptical, spiral, and irregular types, providing a systematic framework for understanding galactic structure and evolution.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hubble's work at Mount Wilson not only revolutionized our understanding of cosmic scale but also laid the groundwork for future astronomical discoveries. His observations required a combination of advanced instrumentation and innovative observational techniques, showcasing how technological advancements can drive scientific breakthroughs. The development of more powerful telescopes and spectrographs in subsequent decades built upon Hubble’s legacy, allowing astronomers to probe deeper into space and time.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Cosmological Models**
@@ -98,6 +100,19 @@ Hubble's morphological classification scheme, known as the Hubble sequence, rema
 
 > [!key-distinction] **Hubble vs Lemaître**
 > While Edwin Hubble's discovery of the redshift-distance relation and his classification scheme are widely recognized, it is crucial to distinguish between his contributions and those of Georges Lemaître. Lemaître had published the velocity-distance relation and estimated the expansion rate two years before Hubble, highlighting that both scientists played pivotal roles in establishing the concept of cosmic expansion. This distinction underscores the collaborative nature of scientific progress and the importance of recognizing multiple contributors.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> Hubble's approach to classifying galaxies exemplifies top-down processing, where pre-existing knowledge about galaxy types guided his observations. In contrast, bottom-up processing would involve letting the data from the telescope dictate classifications without prior assumptions. This distinction highlights how theoretical frameworks can influence observational outcomes in astronomy.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think Hubble discovered cosmic expansion alone.
+>
+> While Edwin Hubble's name is closely associated with the discovery of cosmic expansion, his work built upon and complemented earlier theoretical predictions by Georges Lemaître. This misconception arises from a simplified historical narrative that overlooks the collaborative nature of scientific progress.
 
 ## Key Figures
 
@@ -116,9 +131,19 @@ Hubble's morphological classification scheme, known as the Hubble sequence, rema
 >
 > *What would resolve it:* Detailed studies comparing observed galactic structures with theoretical predictions based on Hubble's classification scheme would help clarify its impact on modern cosmological theories.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How does Hubble's Law inform our understanding of dark energy?
+>
+> *What would resolve it:* Further observational evidence and theoretical models refining the relationship between redshift, distance, and cosmic expansion could provide insights into the role of dark energy in accelerating this expansion.
+
 ## Synthesis
 
 Edwin Hubble's contributions to observational cosmology are foundational, reshaping our understanding of the universe from a static cosmos to one that is dynamic and expanding. His discoveries not only provided critical empirical evidence for cosmic expansion but also established a systematic framework for classifying galaxies, which continues to be relevant in contemporary astrophysics. By integrating these insights with ongoing research into dark energy and galaxy formation, Hubble's legacy remains central to advancing our knowledge of the cosmos.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hubble’s contributions to observational cosmology not only transformed our view of the universe but also set a precedent for interdisciplinary collaboration and technological innovation in astronomy. His work continues to influence modern astrophysics, serving as both a foundation and a challenge for contemporary theories about cosmic structure and evolution.
 
 ## Connections & Context
 
@@ -129,3 +154,10 @@ Edwin Hubble's contributions to observational cosmology are foundational, reshap
 **Instance of:** [[Hubble's Law]]
 
 **Source:** [[edwin-hubble-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Expansion of the Universe]]** — *applies-to*
+> Hubble's Law directly applies to and provides empirical evidence for the concept of cosmic expansion. By demonstrating that galaxies are moving away from us at speeds proportional to their distance, Hubble’s work offers a concrete observational basis for understanding how the universe is expanding over time.

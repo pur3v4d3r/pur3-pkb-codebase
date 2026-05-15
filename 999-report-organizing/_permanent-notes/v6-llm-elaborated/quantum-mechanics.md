@@ -1,13 +1,12 @@
 ---
-title: "Quantum Mechanics"
+title: Quantum Mechanics
 aliases:
-  - "Quantum Mechanics"
-  - "QM"
-  - "non-relativistic quantum mechanics"
+  - Quantum Mechanics
+  - QM
+  - non-relativistic quantum mechanics
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - foundations-of-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "quantum-mechanics-synthetic-seed-2026-05-14"
+  - quantum-mechanics-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Foundational Frameworks of Modern Physics"
-
+depth-level: enhanced
+parent-concept: Foundational Frameworks of Modern Physics
 related:
-  - "[[Quantum Field Theory]]"
-  - "[[Wave-Particle Duality]]"
+  - '[[Quantum Field Theory]]'
+  - '[[Wave-Particle Duality]]'
   - "[[Heisenberg's Uncertainty Principle]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Quantum Field Theory]]"
+  - '[[Quantum Field Theory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Wave-Particle Duality]]"
+  - '[[Wave-Particle Duality]]'
   - "[[Heisenberg's Uncertainty Principle]]"
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Quantum Mechanics
 
@@ -87,6 +86,9 @@ The theoretical roots of Quantum Mechanics lie in the early 20th century's effor
 
 Empirically, Quantum Mechanics has been tested extensively across various domains including atomic, molecular, condensed-matter, and particle physics. Its predictions have consistently held up under scrutiny, making it one of the most rigorously validated theories in science. This robust empirical grounding underscores its significance as a cornerstone of modern physics.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Quantum Mechanics introduces a probabilistic framework that challenges our classical intuitions about causality and determinism. Unlike Newtonian mechanics, which predicts exact outcomes based on initial conditions, Quantum Mechanics operates under the principle of superposition, where particles exist in multiple states simultaneously until measured. This inherent uncertainty is not due to measurement errors or lack of precision but is a fundamental aspect of quantum reality.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Atomic Physics**
@@ -102,6 +104,22 @@ Empirically, Quantum Mechanics has been tested extensively across various domain
 
 > [!key-distinction] **Copenhagen Interpretation vs Many-Worlds Interpretation**
 > The Copenhagen interpretation asserts that quantum states collapse upon measurement, with probabilities determined by the Born rule. In contrast, the many-worlds interpretation posits that all possible outcomes of a quantum event actually occur in separate parallel universes. While both interpretations agree on empirical predictions, they differ fundamentally in their ontological implications.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In the context of Quantum Mechanics, top-down processing involves using high-level theories and principles (like wavefunctions) to predict lower-level phenomena. Conversely, bottom-up processing starts with empirical observations and builds up to theoretical models. This distinction is crucial as it reflects different approaches in understanding quantum systems: from abstract mathematical formulations to experimental data.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking allows for a deeper analysis of Quantum Mechanics, enabling researchers to explore its philosophical implications and interpretative frameworks. In contrast, reactive thinking focuses on immediate problem-solving within the framework, such as calculating probabilities or predicting experimental outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that quantum superposition means particles are in multiple places at once.
+>
+> Quantum superposition actually refers to a particle existing in all possible states simultaneously until measured. This misconception arises from the difficulty of visualizing abstract mathematical concepts like wavefunctions, which describe probabilities rather than physical locations.
 
 ## Key Figures
 
@@ -120,11 +138,21 @@ Empirically, Quantum Mechanics has been tested extensively across various domain
 >
 > *What would resolve it:* A unified theory of quantum gravity that reconciles the principles of Quantum Mechanics and General Relativity would provide a definitive answer to this question, potentially revolutionizing our understanding of space-time and fundamental forces.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How can we reconcile the non-locality implied by entanglement with special relativity?
+>
+> *What would resolve it:* Resolving this tension would require either finding a way to incorporate non-local effects into relativistic frameworks or developing new interpretations of Quantum Mechanics that avoid such conflicts.
+
 ## Synthesis
 
 Quantum Mechanics is not just a theoretical framework but a practical tool for advancing scientific knowledge across multiple disciplines. Its predictive power has enabled technological innovations ranging from semiconductor electronics to quantum computing, underscoring its importance in both academic research and industrial applications.
 
 Moreover, the ongoing exploration of Quantum Mechanics continues to push the boundaries of our understanding of reality itself, challenging traditional notions of causality, locality, and determinism.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Quantum Mechanics not only revolutionizes our understanding of the microscopic world but also challenges foundational concepts in physics, pushing the boundaries of what is considered possible within physical laws. Its implications extend beyond pure science into technology and philosophy, making it a cornerstone for future scientific advancements.
 
 ## Evidence
 
@@ -139,3 +167,13 @@ Quantum Mechanics stands as one of the most rigorously tested theories in physic
 **Applies to:** [[Wave-Particle Duality]] · [[Heisenberg's Uncertainty Principle]]
 
 **Source:** [[quantum-mechanics-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Wave-Particle Duality]]** — *applies-to*
+> Quantum Mechanics provides a theoretical framework that explains the dual nature of particles as both waves and particles. This connection is essential because it underpins many quantum phenomena, such as interference patterns in double-slit experiments.
+
+> [!connection] **[[Heisenberg's Uncertainty Principle]]** — *applies-to*
+> The Heisenberg Uncertainty Principle emerges directly from the mathematical formalism of Quantum Mechanics. It states that certain pairs of physical properties, like position and momentum, cannot both be precisely measured at the same time. This principle is a cornerstone of quantum theory, illustrating its inherent probabilistic nature.

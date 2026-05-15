@@ -1,13 +1,12 @@
 ---
-title: "Exoplanet"
+title: Exoplanet
 aliases:
-  - "Exoplanet"
-  - "extrasolar planet"
-  - "exoplanets"
+  - Exoplanet
+  - extrasolar planet
+  - exoplanets
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - astrobiology
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "exoplanet-synthetic-seed-2026-05-14"
+  - exoplanet-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Planetary Science"
-
+depth-level: enhanced
+parent-concept: Planetary Science
 related:
-  - "[[Transit Method]]"
-  - "[[Radial Velocity Method]]"
-  - "[[Habitable Zone]]"
+  - '[[Transit Method]]'
+  - '[[Radial Velocity Method]]'
+  - '[[Habitable Zone]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Transit Method]]"
-  - "[[Radial Velocity Method]]"
+  - '[[Transit Method]]'
+  - '[[Radial Velocity Method]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Habitable Zone]]"
+  - '[[Habitable Zone]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Exoplanet
 
@@ -88,6 +87,9 @@ Since then, over 5,500 exoplanets have been catalogued, each offering unique ins
 The detection methods used to find exoplanets, such as the transit method and radial velocity technique, have biases that must be accounted for when interpreting data. These biases favor the identification of short-period and massive planets, respectively, which means that raw catalogue counts do not accurately represent the true population of exoplanets.
 
 The variety of exoplanet types discovered, including hot Jupiters, super-Earths, mini-Neptunes, and ultra-short-period planets, challenges our understanding of planetary formation and evolution. This diversity suggests that while our solar system is one possible configuration, it may not be representative of the typical architecture found in other star systems.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of exoplanets has also led to a reevaluation of our understanding of planetary atmospheres and climates. Unlike the relatively stable conditions on Earth, many exoplanets exhibit extreme atmospheric phenomena due to their close proximity to their stars or unusual orbital configurations. For instance, some hot Jupiters have been found with supersonic winds and temperature inversions in their upper atmospheres, challenging our models of planetary climate systems.
 
 ## Mechanism
 
@@ -111,6 +113,19 @@ The radial velocity method measures the gravitational pull that an orbiting plan
 > [!key-distinction] **Hot Jupiters vs. Other Exoplanet Types**
 > Hot Jupiters are gas giant planets that orbit very close to their stars, unlike the more distant orbits of Jupiter in our solar system. This proximity leads to extreme temperatures and unique atmospheric conditions, making them distinct from other exoplanets.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Detection Bias vs Statistical Correction**
+> The detection biases inherent in the transit method favor planets that are large and close to their stars, while radial velocity methods tend to detect more massive planets. This creates a skewed representation of exoplanet populations in catalogues. To address this, researchers must apply statistical corrections that account for these biases, ensuring a more accurate reflection of the true diversity of planetary systems.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Exoplanets are just like planets in our solar system.
+>
+> While exoplanets share some characteristics with planets in our solar system, they often exhibit unique features not seen here. For example, the discovery of super-Earths and mini-Neptunes suggests that there is a wide range of planetary types beyond what we see locally.
+
 ## Key Figures
 
 - **Michel Mayor** — Co-discovered the first confirmed exoplanet around a main-sequence star in 1995 with Didier Queloz, marking a significant milestone in planetary science.
@@ -128,9 +143,19 @@ The radial velocity method measures the gravitational pull that an orbiting plan
 >
 > *What would resolve it:* Further study into these unique planetary types could refine models of planetary formation and evolution, offering new insights into the diversity of planetary systems.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do planetary migration theories explain the presence of hot Jupiters?
+>
+> *What would resolve it:* Further research into planetary migration models could provide insights into how gas giants form far from their stars and then migrate inward, leading to the observed configurations of hot Jupiters.
+
 ## Synthesis
 
 Studying exoplanets is crucial for advancing our understanding of planetary science. It not only expands our knowledge of celestial bodies beyond our solar system but also challenges existing theories about planetary formation and habitability, pushing the boundaries of what we know about the universe.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of exoplanets not only broadens our cosmic perspective but also drives advancements in observational techniques and theoretical modeling. By pushing the boundaries of what we know about planetary systems, exoplanet research continues to challenge and refine our understanding of the universe.
 
 ## Connections & Context
 
@@ -141,3 +166,10 @@ Studying exoplanets is crucial for advancing our understanding of planetary scie
 **Applies to:** [[Habitable Zone]]
 
 **Source:** [[exoplanet-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Habitable Zone]]** — *applies-to*
+> The concept of the habitable zone is crucial for understanding exoplanet habitability. It defines a region around a star where conditions might be suitable for liquid water and potentially life, directly influencing which exoplanets are considered candidates for hosting extraterrestrial life.

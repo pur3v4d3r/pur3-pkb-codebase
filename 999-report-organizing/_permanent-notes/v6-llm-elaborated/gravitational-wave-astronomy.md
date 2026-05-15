@@ -1,12 +1,11 @@
 ---
-title: "Gravitational Wave Astronomy"
+title: Gravitational Wave Astronomy
 aliases:
-  - "Gravitational Wave Astronomy"
-  - "GW astronomy"
+  - Gravitational Wave Astronomy
+  - GW astronomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "gravitational-wave-astronomy-synthetic-seed-2026-05-14"
+  - gravitational-wave-astronomy-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Observational Astronomy"
-
+depth-level: enhanced
+parent-concept: Observational Astronomy
 related:
-  - "[[Gravitational Waves]]"
-  - "[[Multi-Messenger Astronomy]]"
-  - "[[LIGO Detection]]"
+  - '[[Gravitational Waves]]'
+  - '[[Multi-Messenger Astronomy]]'
+  - '[[LIGO Detection]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Gravitational Waves]]"
+  - '[[Gravitational Waves]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Multi-Messenger Astronomy]]"
+  - '[[Multi-Messenger Astronomy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[LIGO Detection]]"
+  - '[[LIGO Detection]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Gravitational Wave Astronomy
 
@@ -87,6 +86,9 @@ Theoretical roots of Gravitational Wave Astronomy are deeply embedded in Einstei
 
 Empirically, Gravitational Wave Astronomy has already provided groundbreaking insights into the properties of black holes and neutron stars, as well as independent tests of General Relativity. For instance, it has enabled precise measurements of stellar-mass black hole populations and even contributed to determining the Hubble constant through the analysis of a binary neutron star merger.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Gravitational Wave Astronomy has also begun to explore the potential for detecting gravitational waves from cosmic strings, hypothetical one-dimensional defects in spacetime that could have formed during phase transitions in the early universe. These strings would produce a characteristic signal as they oscillate and interact with each other or with black holes, offering another avenue for probing fundamental physics beyond General Relativity.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Understanding Black Hole Populations**
@@ -103,6 +105,19 @@ Empirically, Gravitational Wave Astronomy has already provided groundbreaking in
 > [!key-distinction] **Gravitational Wave Astronomy vs Electromagnetic Astronomy**
 > While both are observational techniques in astronomy, Gravitational Wave Astronomy focuses exclusively on detecting gravitational waves rather than electromagnetic radiation. This distinction is crucial as it allows for the study of phenomena that do not emit light or other forms of electromagnetic radiation.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In Gravitational Wave Astronomy, top-down processing involves using theoretical models and predictions to interpret gravitational wave signals, whereas bottom-up processing relies on data-driven approaches to infer properties of cosmic events. This distinction is crucial as it highlights the interplay between theory and observation in advancing our understanding of the universe.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Gravitational waves can be detected by any sensitive instrument.
+>
+> This misconception arises from a misunderstanding of the specific nature of gravitational wave detection. Gravitational waves are extremely weak and require highly specialized instruments like LIGO, which use laser interferometry to detect minute changes in distance caused by passing gravitational waves.
+
 ## Key Figures
 
 - **Barry Barish** — As a key figure in LIGO, Barry Barish played an instrumental role in developing and leading the project to its first detection of gravitational waves. His contributions were pivotal in transforming theoretical predictions into empirical evidence.
@@ -115,9 +130,19 @@ Empirically, Gravitational Wave Astronomy has already provided groundbreaking in
 >
 > *What would resolve it:* Addressing this issue would require developing more comprehensive waveform templates that cover a wider range of possible gravitational wave sources and configurations, thereby improving the accuracy of detection statistics.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How can the sensitivity of gravitational wave detectors be improved?
+>
+> *What would resolve it:* Improving detector sensitivity would require advancements in technology and engineering, such as enhancing laser precision, reducing noise from environmental factors, and developing more sophisticated data analysis techniques.
+
 ## Synthesis
 
 Gravitational Wave Astronomy represents a transformative leap in our ability to observe and understand the universe. By detecting ripples in spacetime caused by cosmic events, it provides unique insights into phenomena that are invisible through traditional electromagnetic observations. This field not only enriches our understanding of black holes and neutron stars but also offers independent tests of fundamental physics theories under extreme conditions.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+By integrating insights from both theoretical predictions and empirical observations, Gravitational Wave Astronomy not only expands our knowledge of the universe but also challenges existing theories, pushing the boundaries of fundamental physics.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Gravitational Wave Astronomy represents a transformative leap in our ability to 
 **Instance of:** [[LIGO Detection]]
 
 **Source:** [[gravitational-wave-astronomy-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Multi-Messenger Astronomy]]** — *contrasts-with*
+> Gravitational Wave Astronomy contrasts with Multi-Messenger Astronomy, which combines multiple types of astronomical observations including electromagnetic radiation and neutrinos. While Gravitational Wave Astronomy focuses exclusively on gravitational waves, Multi-Messenger Astronomy integrates various signals to provide a more comprehensive view of cosmic events.

@@ -1,13 +1,12 @@
 ---
-title: "WMAP Mission"
+title: WMAP Mission
 aliases:
-  - "WMAP Mission"
-  - "Wilkinson Microwave Anisotropy Probe"
-  - "WMAP"
+  - WMAP Mission
+  - Wilkinson Microwave Anisotropy Probe
+  - WMAP
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - cmb-research
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "wmap-mission-synthetic-seed-2026-05-14"
+  - wmap-mission-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cosmic Microwave Background Satellites"
-
+depth-level: enhanced
+parent-concept: Cosmic Microwave Background Satellites
 related:
-  - "[[Planck Satellite]]"
-  - "[[Cosmic Microwave Background Radiation]]"
+  - '[[Planck Satellite]]'
+  - '[[Cosmic Microwave Background Radiation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Planck Satellite]]"
+  - '[[Planck Satellite]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Cosmic Microwave Background Radiation]]"
+  - '[[Cosmic Microwave Background Radiation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # WMAP Mission
 
@@ -85,6 +84,9 @@ The WMAP satellite operated between 2001 and 2010, during which it collected vas
 
 The mission's findings were groundbreaking, confirming predictions made by inflation theory regarding the near-scale-invariance of the primordial perturbation spectrum. This confirmation was a crucial step in establishing the concordance ΛCDM model as the standard framework for cosmology. The WMAP Mission thus laid the foundation for precision cosmology, setting stringent constraints on various cosmological parameters and providing a benchmark against which subsequent missions could be compared.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The WMAP Mission's impact extended beyond its immediate scientific contributions, influencing subsequent missions and research directions in cosmology. Its success prompted the development of more advanced technologies for measuring cosmic microwave background radiation, leading to the launch of the Planck satellite which offered even greater precision. This technological progression underscores a broader trend in observational astronomy towards increasingly sophisticated instrumentation aimed at refining our understanding of fundamental cosmological parameters.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Cosmological Parameter Estimation**
@@ -97,6 +99,19 @@ The mission's findings were groundbreaking, confirming predictions made by infla
 
 > [!key-distinction] **WMAP vs Planck Precision**
 > While both WMAP and Planck satellites measured CMB anisotropies, their precision levels differ significantly. WMAP operated from 2001 to 2010 and provided measurements with about 3% accuracy for key cosmological parameters. However, the Planck satellite, launched later in 2009, superseded WMAP's precision by achieving accuracies of around 1%. This higher precision means that while WMAP laid the groundwork for modern cosmology, Planck has since provided more refined and accurate data on cosmological parameters.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> The WMAP Mission exemplifies deep processing over surface processing in its approach to analyzing cosmic microwave background radiation. While surface processing might involve merely recording the temperature anisotropies without deeper analysis, WMAP engaged in extensive data interpretation and modeling to extract meaningful cosmological insights from these measurements. This distinction highlights how thorough analysis can lead to significant scientific breakthroughs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think WMAP was just another satellite among many.
+>
+> This misconception arises from underestimating the significance of WMAP's contributions to cosmology. Unlike other satellites, WMAP provided unprecedentedly precise measurements of cosmic microwave background radiation anisotropies across multiple frequency bands, setting a new standard for precision cosmology and fundamentally altering our understanding of the universe's early conditions.
 
 ## Key Figures
 
@@ -115,9 +130,19 @@ The mission's findings were groundbreaking, confirming predictions made by infla
 >
 > *What would resolve it:* Future missions that aim to measure CMB anisotropies with even higher precision will provide additional data points, potentially refining our understanding of cosmological parameters and testing the limits of current models.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do future missions build upon WMAP’s legacy?
+>
+> *What would resolve it:* Future missions will continue to refine measurements of cosmic microwave background radiation, aiming to address questions that remain unresolved by WMAP and Planck. These could include more precise determinations of dark energy properties or the nature of inflation.
+
 ## Synthesis
 
 The WMAP Mission's legacy in establishing precision cosmology cannot be overstated. By providing precise measurements of CMB anisotropies across multiple frequency bands, it set a new standard for understanding the universe's early conditions and its subsequent evolution. The mission's findings have had far-reaching implications, not only confirming predictions made by inflation theory but also laying the groundwork for more detailed studies of cosmological parameters. As such, WMAP stands as a cornerstone in the field of space exploration and cosmology.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The WMAP Mission's legacy is not just in its specific findings but also in setting a new standard for precision cosmology, inspiring subsequent missions to push further into the unknowns of our universe. Its impact on technological advancement and data analysis techniques has paved the way for ongoing research that continues to deepen our understanding of cosmic origins.
 
 ## Connections & Context
 
@@ -128,3 +153,10 @@ The WMAP Mission's legacy in establishing precision cosmology cannot be overstat
 **Applies to:** [[Cosmic Microwave Background Radiation]]
 
 **Source:** [[wmap-mission-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Cosmic Microwave Background Radiation]]** — *applies-to*
+> The WMAP Mission directly applies to the study of Cosmic Microwave Background Radiation by providing detailed measurements that help elucidate its properties and origins. Understanding these measurements is crucial for comprehending the radiation's role in cosmology, making this connection essential for grasping both concepts.

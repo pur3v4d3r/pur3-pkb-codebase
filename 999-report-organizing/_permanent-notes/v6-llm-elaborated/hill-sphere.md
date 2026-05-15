@@ -1,13 +1,12 @@
 ---
-title: "Hill Sphere"
+title: Hill Sphere
 aliases:
-  - "Hill Sphere"
-  - "Hill radius"
-  - "Roche sphere"
+  - Hill Sphere
+  - Hill radius
+  - Roche sphere
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - planetary-dynamics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "hill-sphere-synthetic-seed-2026-05-14"
+  - hill-sphere-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Gravitational Influence Regions"
-
+depth-level: enhanced
+parent-concept: Gravitational Influence Regions
 related:
-  - "[[Lagrange Points]]"
-  - "[[Roche Limit]]"
+  - '[[Lagrange Points]]'
+  - '[[Roche Limit]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Lagrange Points]]"
-  - "[[Roche Limit]]"
+  - '[[Lagrange Points]]'
+  - '[[Roche Limit]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Hill Sphere
 
@@ -87,6 +86,9 @@ The theoretical underpinnings of the Hill sphere are rooted in gravitational phy
 In practice, the Hill sphere's influence is not absolute; stable satellite orbits typically extend only out to about one-third to half of the Hill radius for prograde orbits and up to two-thirds for retrograde orbits. Using the full Hill radius as a boundary overstates the actual stable region by a factor of 2–3. This nuance underscores the importance of precise calculations in astrophysical modeling.
 
 The concept has been pivotal since its introduction, aiding in understanding various celestial phenomena such as the dynamics within planetary systems and the stability of moons around planets.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The Hill sphere's influence extends beyond just satellite stability; it also plays a crucial role in understanding the dynamics of interstellar objects and their interactions with planetary systems. For instance, when an asteroid or comet passes through a planet’s Hill sphere, its trajectory can be significantly altered due to gravitational perturbations, potentially leading to capture into orbit around the planet or ejection from the solar system altogether.
 
 ## Practical Implications
 
@@ -107,6 +109,19 @@ The concept has been pivotal since its introduction, aiding in understanding var
 > [!key-distinction] **Stable Satellite Orbits Within vs Outside Hill Radius**
 > Satellites within one-third to half of the Hill radius for prograde orbits and up to two-thirds for retrograde orbits are considered stable. Beyond these limits, gravitational perturbations from the primary body can destabilize satellite orbits.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Hill Sphere vs Roche Limit**
+> While both concepts deal with gravitational interactions in space, they serve different purposes. The Hill sphere defines a region where an orbiting body can maintain satellites due to its own gravity overpowering that of the primary. In contrast, the Roche limit marks the distance within which a celestial body will disintegrate due to tidal forces exerted by the larger body it orbits. Understanding both is essential for predicting the stability and fate of moons or rings around planets.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — The Hill sphere defines the minimum stable orbit.
+>
+> This misconception arises from conflating the Hill sphere with other gravitational influence regions. The Hill sphere actually delineates the maximum extent within which a body can maintain satellites without interference from the primary's gravity, not the minimum stable orbit.
+
 ## Key Figures
 
 - **George William Hill** — The concept of the Hill sphere was introduced by George William Hill in his work on lunar theory. His contributions laid the groundwork for understanding gravitational interactions between orbiting bodies and their primaries, which is essential to the Hill sphere's definition.
@@ -123,11 +138,21 @@ The concept has been pivotal since its introduction, aiding in understanding var
 >
 > *What would resolve it:* Further research and modeling of such complex multi-moon systems would help clarify the gravitational interactions and stability conditions within each moon's Hill sphere.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do varying orbital eccentricities affect the shape and stability of a planet's Hill sphere?
+>
+> *What would resolve it:* Detailed simulations incorporating different orbital parameters could provide insights into how changes in eccentricity influence the dynamics within a body’s Hill sphere, potentially revealing new stable regions or zones of instability.
+
 ## Synthesis
 
 The concept of the Hill sphere is pivotal in celestial mechanics, offering a framework to understand satellite stability and exoplanetary dynamics. By delineating regions where orbiting bodies can maintain satellites without interference from their primary, it aids in predicting the potential for moon formation around planets and the stability of orbits within planetary systems.
 
 Understanding these gravitational influence regions enhances our comprehension of various astronomical phenomena, from the dynamics of moons in our solar system to the potential for exomoons in distant star systems.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The concept of the Hill sphere is not only pivotal for understanding satellite stability but also serves as a foundational tool in predicting the interactions between interstellar objects and planetary systems. By integrating knowledge from gravitational physics and celestial mechanics, it offers a comprehensive framework to explore the complex dynamics governing our universe.
 
 ## Connections & Context
 
@@ -136,3 +161,10 @@ Understanding these gravitational influence regions enhances our comprehension o
 **Contrasts with:** [[Lagrange Points]] · [[Roche Limit]]
 
 **Source:** [[hill-sphere-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Roche Limit]]** — *contrasts-with*
+> The Hill sphere and Roche limit both concern gravitational interactions but address different aspects of celestial mechanics. While the Hill sphere focuses on satellite stability within a body's gravitational influence, the Roche limit deals with the disintegration of objects due to tidal forces. Understanding these distinctions is crucial for predicting the behavior of moons or rings around planets.

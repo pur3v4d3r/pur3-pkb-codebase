@@ -1,13 +1,12 @@
 ---
-title: "Ligo Detection"
+title: Ligo Detection
 aliases:
-  - "Ligo Detection"
-  - "LIGO observation"
-  - "GW150914"
+  - Ligo Detection
+  - LIGO observation
+  - GW150914
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - gravitational-wave-astronomy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "ligo-detection-synthetic-seed-2026-05-14"
+  - ligo-detection-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Gravitational Wave Astronomy"
-
+depth-level: enhanced
+parent-concept: Gravitational Wave Astronomy
 related:
-  - "[[Black Hole Mergers]]"
-  - "[[Gravitational Waves]]"
-  - "[[Multi-Messenger Astronomy]]"
+  - '[[Black Hole Mergers]]'
+  - '[[Gravitational Waves]]'
+  - '[[Multi-Messenger Astronomy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Black Hole Mergers]]"
+  - '[[Black Hole Mergers]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Gravitational Waves]]"
+  - '[[Gravitational Waves]]'
 supports:
-  - "[[Multi-Messenger Astronomy]]"
+  - '[[Multi-Messenger Astronomy]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Ligo Detection
 
@@ -88,6 +87,9 @@ Since its inception, LIGO's detections have not only confirmed theoretical predi
 
 The detection of GW150914 was not just a scientific milestone but also a testament to human ingenuity and perseverance in pushing the boundaries of observational capabilities. The success of LIGO has paved the way for future advancements in gravitational wave astronomy, setting the stage for even more precise measurements and discoveries.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The Ligo Detection not only confirmed the existence of gravitational waves but also provided a new tool for astrophysical research, enabling scientists to study black hole mergers and other cosmic events in unprecedented detail. This capability has led to significant advancements in our understanding of these phenomena, including insights into the properties of black holes and the dynamics of their interactions.
+
 ## Mechanism
 
 The detection process relies on kilometre-scale Michelson interferometers that measure sub-attometer changes in arm lengths caused by passing gravitational waves. These interferometers split a laser beam into two perpendicular paths, which are then recombined to detect any phase shifts indicative of spacetime distortions. The sensitivity required for such measurements is extraordinary, necessitating sophisticated noise reduction techniques and precise calibration.
@@ -105,6 +107,19 @@ The detection process relies on kilometre-scale Michelson interferometers that m
 > [!key-distinction] **LIGO's gravitational wave detections vs. electromagnetic observations**
 > While traditional astronomical observations rely on detecting light across various wavelengths, Ligo Detection focuses specifically on measuring gravitational waves. This distinction is crucial as it allows scientists to study phenomena that do not emit significant amounts of electromagnetic radiation, such as black hole mergers.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In the context of Ligo Detection, surface processing might involve recognizing a gravitational wave signal based on its waveform alone without understanding its underlying cause. In contrast, deep processing involves interpreting these signals to infer details about cosmic events such as black hole mergers or neutron star collisions. This distinction is crucial for advancing our comprehension of astrophysical phenomena beyond mere detection.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think Ligo Detection only confirms existing theories, but it also challenges them.
+>
+> While Ligo Detection has confirmed predictions from general relativity, such as the existence of gravitational waves, it also presents new data that can challenge and refine our understanding. For instance, discrepancies between observed waveforms and theoretical models may indicate areas where current theories need adjustment.
+
 ## Key Figures
 
 - **Barry Barish** — As the director of LIGO from 1994 to 2005, Barry Barish played a pivotal role in transforming LIGO into a large-scale observatory capable of making groundbreaking discoveries. His leadership was instrumental in securing funding and coordinating international efforts.
@@ -117,9 +132,19 @@ The detection process relies on kilometre-scale Michelson interferometers that m
 >
 > *What would resolve it:* Advancements in detector sensitivity and template-bank coverage would enable the detection of a wider range of phenomena, including those involving exotic compact objects that deviate from standard models.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do we improve detection methods to capture more exotic compact-object mergers?
+>
+> *What would resolve it:* Advancements in detector sensitivity and template-bank coverage would enable the detection of a wider range of phenomena, including those involving exotic compact objects that deviate from standard models.
+
 ## Synthesis
 
 Ligo Detection has fundamentally altered our approach to studying the universe by providing direct evidence of gravitational waves. This breakthrough not only validates key predictions of general relativity but also opens new avenues for exploring cosmic phenomena through multi-messenger astronomy. As LIGO continues to evolve, it promises to deepen our understanding of black holes and other extreme astrophysical events, solidifying its role as a cornerstone in the future of physics and astronomy.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Ligo Detection has not only validated key predictions of general relativity but also opened new avenues for exploring cosmic phenomena through multi-messenger astronomy. This breakthrough underscores the importance of interdisciplinary approaches in advancing our understanding of the universe.
 
 ## Connections & Context
 
@@ -132,3 +157,10 @@ Ligo Detection has fundamentally altered our approach to studying the universe b
 **Supports:** [[Multi-Messenger Astronomy]]
 
 **Source:** [[ligo-detection-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Multi-Messenger Astronomy]]** — *supports*
+> Ligo Detection supports Multi-Messenger Astronomy by providing gravitational wave signals that can be correlated with electromagnetic observations. This synergy allows for a more comprehensive understanding of cosmic events, as different types of signals offer complementary information about the same phenomena.

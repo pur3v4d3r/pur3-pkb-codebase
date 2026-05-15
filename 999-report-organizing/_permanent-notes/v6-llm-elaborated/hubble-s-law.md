@@ -1,13 +1,12 @@
 ---
-title: "Hubble's Law"
+title: Hubble's Law
 aliases:
-  - "Hubble's Law"
-  - "Hubble–Lemaître law"
-  - "Hubble relation"
+  - Hubble's Law
+  - Hubble–Lemaître law
+  - Hubble relation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "hubbles-law-synthetic-seed-2026-05-14"
+  - hubbles-law-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cosmological Observations"
-
+depth-level: enhanced
+parent-concept: Cosmological Observations
 related:
-  - "[[Redshift]]"
-  - "[[Expansion of the Universe]]"
+  - '[[Redshift]]'
+  - '[[Expansion of the Universe]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Redshift]]"
+  - '[[Redshift]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Expansion of the Universe]]"
+  - '[[Expansion of the Universe]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Hubble's Law
 
@@ -83,6 +82,9 @@ Hubble's Law, formulated by Edwin Hubble in the late 1920s, marked a pivotal mom
 The law's formulation stemmed from observations of distant galaxies showing redshift, which indicates their movement away from Earth at velocities proportional to their distance. Hubble found that this relationship held true across various galaxies, suggesting a universal expansion rather than isolated instances of galactic motion.
 
 Hubble's Law is not just an observational fact but also a cornerstone for theoretical cosmology. It implies that the universe has been expanding since its inception and provides a framework to estimate cosmic parameters such as the age and size of the observable universe.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hubble's Law has profound implications for our understanding of dark energy, a mysterious force that is causing the expansion of the universe to accelerate. As astronomers observe more distant galaxies, they find that these galaxies are moving away from us faster than expected based on Hubble's original observations. This acceleration suggests the presence of an unknown form of energy permeating all of space and pushing galaxies apart at increasing rates.
 
 ## Mechanism
 
@@ -106,6 +108,19 @@ The relationship between redshift and distance allows astronomers to plot galaxi
 > [!key-distinction] **Local Approximation vs Full Models**
 > Hubble's Law is a local approximation that simplifies calculations but breaks down at high redshifts where relativistic effects become significant. At these distances, cosmologists must use more complex models like the Friedmann-Lemaître-Robertson-Walker (FLRW) formalism to accurately describe cosmic expansion. This highlights the importance of understanding when and how approximations are valid in cosmological studies.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing in Understanding Cosmic Expansion**
+> Understanding Hubble's Law requires deep processing rather than surface-level memorization. While one can easily remember the formula v = H₀ · d, grasping its implications for cosmic expansion and the age of the universe demands a deeper cognitive engagement with concepts like redshift, space-time curvature, and the Big Bang theory.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that Hubble's Law proves the Big Bang.
+>
+> Hubble's Law does not prove the Big Bang; it provides evidence for an expanding universe, which is consistent with but does not directly imply the Big Bang theory. The law describes a relationship between galaxy velocities and distances without explaining why this expansion occurs.
+
 ## Key Figures
 
 - **Edwin Hubble** — Edwin Hubble's observations of distant galaxies revealed a direct relationship between their velocities and distances, leading to the formulation of Hubble's Law. His work not only provided empirical evidence for an expanding universe but also laid foundational principles in modern cosmology.
@@ -117,9 +132,19 @@ The relationship between redshift and distance allows astronomers to plot galaxi
 >
 > *What would resolve it:* Resolving this tension would require more precise measurements from both early (cosmic microwave background) and late (distance ladder) universe observations, potentially revealing new physics beyond current cosmological models.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> What causes the discrepancy between early and late universe measurements of the Hubble constant?
+>
+> *What would resolve it:* Resolving this tension would require more precise measurements from both early (cosmic microwave background) and late (distance ladder) universe observations, potentially revealing new physics beyond current cosmological models.
+
 ## Synthesis
 
 Hubble's Law is fundamental to our understanding of the expanding universe. It not only provides empirical evidence for cosmic expansion but also serves as a critical tool in measuring this expansion and estimating key parameters like the age of the universe. Its implications extend beyond cosmology, influencing fields such as astrophysics and theoretical physics by offering insights into the nature of space-time itself.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hubble's Law not only serves as a cornerstone for understanding the expanding universe but also acts as a critical tool in modern cosmology. By providing empirical evidence of cosmic expansion and enabling precise measurements of this phenomenon, it has facilitated significant advancements in our comprehension of dark energy, the age of the universe, and the fundamental nature of space-time.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Hubble's Law is fundamental to our understanding of the expanding universe. It n
 **Supports:** [[Expansion of the Universe]]
 
 **Source:** [[hubbles-law-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Expansion of the Universe]]** — *supports*
+> Hubble's Law supports our understanding of the Expansion of the Universe by providing empirical evidence that galaxies are moving away from each other at velocities proportional to their distances. This observation is crucial for cosmologists as it quantifies the rate and nature of cosmic expansion, allowing them to model and predict the universe's evolution.

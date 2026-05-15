@@ -1,12 +1,11 @@
 ---
-title: "Wave Particle Duality"
+title: Wave Particle Duality
 aliases:
-  - "Wave Particle Duality"
-  - "wave-particle duality"
+  - Wave Particle Duality
+  - wave-particle duality
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - foundations-of-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "wave-particle-duality-synthetic-seed-2026-05-14"
+  - wave-particle-duality-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Quantum Mechanics"
-
+depth-level: enhanced
+parent-concept: Quantum Mechanics
 related:
-  - "[[Quantum Mechanics]]"
-  - "[[Double-Slit Experiment]]"
+  - '[[Quantum Mechanics]]'
+  - '[[Double-Slit Experiment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Quantum Mechanics]]"
+  - '[[Quantum Mechanics]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Double-Slit Experiment]]"
+  - '[[Double-Slit Experiment]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Wave Particle Duality
 
@@ -84,6 +83,9 @@ The theoretical underpinning of Wave Particle Duality lies in the mathematical f
 
 Empirical confirmation of Wave Particle Duality extends beyond photons to include electrons, neutrons, atoms, and even large molecules like buckyballs. Each experiment demonstrates that the wave-like or particle-like behavior emerges based on the experimental setup rather than an inherent property of the particles themselves.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Wave Particle Duality challenges our classical intuitions about matter and energy, revealing a fundamental aspect of quantum mechanics that particles can exhibit both wave-like and particle-like behaviors depending on the experimental setup. This duality is not just an abstract concept but has profound implications for how we understand the universe at its most basic level.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Double-Slit Experiment**
@@ -96,6 +98,19 @@ Empirical confirmation of Wave Particle Duality extends beyond photons to includ
 
 > [!key-distinction] **Wave-like vs Particle-like Behavior**
 > In classical physics, objects are either waves or particles but not both. In contrast, quantum mechanics through Wave Particle Duality shows that the same object can exhibit wave-like behavior (interference patterns) and particle-like behavior (discrete detection events). This distinction is crucial for understanding how quantum systems operate differently from their classical counterparts.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Quantum Experiments**
+> In quantum experiments, top-down processing involves using theoretical frameworks like wave functions to predict outcomes based on prior knowledge. In contrast, bottom-up processing relies on direct observation of experimental results to infer underlying principles. Understanding both approaches is crucial for grasping Wave Particle Duality as it requires integrating abstract theory with empirical evidence.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that particles are inherently waves or particles, but not both.
+>
+> This misconception arises from classical physics where objects are either waves or particles. However, in quantum mechanics, the wave-particle duality shows that particles can exhibit both behaviors depending on how they are observed. This dual nature is a fundamental aspect of quantum systems and challenges our classical intuitions about matter.
 
 ## Key Figures
 
@@ -114,9 +129,19 @@ Empirical confirmation of Wave Particle Duality extends beyond photons to includ
 >
 > *What would resolve it:* Further theoretical exploration and experimental verification that examines the interplay between wave-particle duality and entangled states could provide insights into how these phenomena are interconnected within the framework of quantum mechanics.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How does Wave Particle Duality affect our understanding of macroscopic objects?
+>
+> *What would resolve it:* Experiments demonstrating interference patterns with larger and more complex systems would resolve this question, potentially leading to a better understanding of how quantum mechanics applies at macroscopic scales.
+
 ## Synthesis
 
 Wave Particle Duality is a cornerstone concept in quantum mechanics, illustrating the non-intuitive nature of particles at the quantum level. It challenges our classical intuitions about matter and energy, highlighting the importance of experimental context in determining observable properties. This duality not only shapes fundamental theories but also has practical implications for technologies such as quantum computing and cryptography.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Understanding Wave Particle Duality is essential for grasping the non-intuitive nature of particles in quantum mechanics. It not only challenges our classical intuitions but also highlights the importance of experimental context in determining observable properties, shaping fundamental theories and practical applications such as quantum computing.
 
 ## Connections & Context
 
@@ -127,3 +152,10 @@ Wave Particle Duality is a cornerstone concept in quantum mechanics, illustratin
 **Applies to:** [[Double-Slit Experiment]]
 
 **Source:** [[wave-particle-duality-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Double-Slit Experiment]]** — *applies-to*
+> The Double-Slit Experiment is a classic demonstration of Wave Particle Duality, showing how particles like electrons and photons can exhibit both wave-like interference patterns and particle-like detection events. This experiment provides empirical evidence for the duality by illustrating that the behavior of quantum systems depends on whether they are observed or not.

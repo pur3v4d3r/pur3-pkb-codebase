@@ -1,13 +1,12 @@
 ---
-title: "Interferometry"
+title: Interferometry
 aliases:
-  - "Interferometry"
-  - "astronomical interferometry"
-  - "aperture synthesis"
+  - Interferometry
+  - astronomical interferometry
+  - aperture synthesis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - observational-techniques
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "interferometry-synthetic-seed-2026-05-14"
+  - interferometry-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Observational Techniques in Astronomy"
-
+depth-level: enhanced
+parent-concept: Observational Techniques in Astronomy
 related:
-  - "[[Adaptive Optics]]"
-  - "[[Radio Astronomy]]"
-  - "[[Event Horizon Telescope]]"
+  - '[[Adaptive Optics]]'
+  - '[[Radio Astronomy]]'
+  - '[[Event Horizon Telescope]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Adaptive Optics]]"
+  - '[[Adaptive Optics]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Radio Astronomy]]"
+  - '[[Radio Astronomy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Event Horizon Telescope]]"
+  - '[[Event Horizon Telescope]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Interferometry
 
@@ -85,6 +84,9 @@ In practice, interferometry arrays like the Very Large Array (VLA) or the Atacam
 
 The theoretical underpinnings of interferometry lie in Fourier optics and signal processing, where the spatial frequency information captured by different apertures is combined to reconstruct the full image. This process requires sophisticated algorithms to handle incomplete sampling of the Fourier plane (uv-plane) and systematic uncertainties introduced during image reconstruction.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Interferometry's reliance on multiple telescopes introduces a unique challenge: atmospheric turbulence can distort signals differently at each aperture, leading to phase errors that degrade image quality. Techniques such as adaptive optics are often employed alongside interferometry to mitigate these effects by actively correcting for atmospheric disturbances in real-time.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Radio Astronomy**
@@ -101,6 +103,19 @@ The theoretical underpinnings of interferometry lie in Fourier optics and signal
 > [!key-distinction] **Interferometry vs Single-Aperture Imaging**
 > While single-aperture imaging relies on a single telescope for capturing images, interferometry combines signals from multiple telescopes to synthesize an effective aperture. This distinction is crucial as it allows interferometry to achieve much higher angular resolutions and sensitivities than would be possible with any individual telescope.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In interferometric imaging, top-down processing involves using prior knowledge about the expected structure of celestial objects to guide image reconstruction. This contrasts with bottom-up approaches that rely solely on the raw data from telescopes without such assumptions. Top-down methods can enhance resolution but risk introducing biases if the model is inaccurate.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Interferometry requires all telescopes to be active simultaneously.
+>
+> While simultaneous data collection from multiple telescopes is ideal, interferometric arrays can often combine observations taken at different times. This flexibility allows for the use of existing telescope networks and reduces the need for coordinated scheduling across a global array.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -113,9 +128,19 @@ The theoretical underpinnings of interferometry lie in Fourier optics and signal
 >
 > *What would resolve it:* Advancements in computational imaging and machine learning may offer novel approaches to improve the fidelity of interferometric images, addressing current limitations in image reconstruction.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How does the integration of machine learning algorithms impact the accuracy and efficiency of image reconstruction in interferometry?
+>
+> *What would resolve it:* Advancements in machine learning could lead to more accurate models for predicting atmospheric distortions, improving phase correction techniques. Additionally, these algorithms might enable faster processing times by optimizing data reduction steps.
+
 ## Synthesis
 
 Interferometry is crucial for achieving high-resolution imaging in modern astronomy due to its ability to synthesize large effective apertures from multiple telescopes. Despite challenges such as incomplete sampling and systematic uncertainties, it remains an indispensable technique for observing the cosmos at unprecedented detail.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Interferometry's ability to synthesize large effective apertures from distributed telescopes not only enhances angular resolution but also opens avenues for collaborative astronomical research across international borders and disciplines.
 
 ## Evidence
 
@@ -132,3 +157,10 @@ The key claim about interferometry highlights its enabling role in high-resoluti
 **Instance of:** [[Event Horizon Telescope]]
 
 **Source:** [[interferometry-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Radio Astronomy]]** — *applies-to*
+> Interferometry is particularly advantageous in radio astronomy due to the long wavelengths of radio waves, which require large physical apertures for high resolution. By combining signals from multiple telescopes spread over vast distances, interferometric arrays like ALMA can achieve resolutions comparable to a single telescope with an aperture as large as Earth itself.

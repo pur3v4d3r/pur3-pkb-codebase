@@ -1,14 +1,13 @@
 ---
-title: "Lagrange Points"
+title: Lagrange Points
 aliases:
-  - "Lagrange Points"
-  - "Lagrangian points"
-  - "libration points"
-  - "L1–L5"
+  - Lagrange Points
+  - Lagrangian points
+  - libration points
+  - L1–L5
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - orbital-mechanics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "lagrange-points-synthetic-seed-2026-05-14"
+  - lagrange-points-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Orbital Mechanics"
-
+depth-level: enhanced
+parent-concept: Orbital Mechanics
 related:
-  - "[[Restricted Three-Body Problem]]"
-  - "[[Hill Sphere]]"
+  - '[[Restricted Three-Body Problem]]'
+  - '[[Hill Sphere]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Restricted Three-Body Problem]]"
+  - '[[Restricted Three-Body Problem]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Hill Sphere]]"
+  - '[[Hill Sphere]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Lagrange Points
 
@@ -87,6 +86,9 @@ The stability of Lagrange Points varies: L1, L2, and L3 are unstable equilibrium
 
 Historically and practically, Lagrange Points have been utilized in various space missions due to their unique gravitational properties. For instance, the Sun-Earth L1 point is home to continuous solar monitoring satellites like SOHO and DSCOVR, while the Sun-Earth L2 point hosts observatories such as JWST, Euclid, and Gaia that benefit from a stable thermal environment.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The concept of Lagrange Points extends beyond mere equilibrium positions; they represent a delicate balance within complex gravitational fields, illustrating the intricate interplay between celestial bodies. This balance is not static but dynamic, influenced by various factors such as perturbations from other nearby masses and non-gravitational forces like solar radiation pressure. Understanding these dynamics is crucial for predicting long-term stability and planning missions that require precise positioning over extended periods.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Space Mission Planning**
@@ -99,6 +101,19 @@ Historically and practically, Lagrange Points have been utilized in various spac
 
 > [!key-distinction] **Stable vs Unstable Lagrange Points**
 > The distinction between stable and unstable Lagrange points is critical for mission planning. Stable points like L4 and L5 can support long-term missions without the need for frequent adjustments, whereas unstable points such as L1, L2, and L3 require continuous station-keeping maneuvers to maintain position.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Lagrange Point Analysis**
+> In analyzing Lagrange Points, top-down processing involves using theoretical models to predict the positions and characteristics of these points based on known gravitational dynamics. This approach relies heavily on established principles of orbital mechanics. In contrast, bottom-up processing starts with observational data from space missions and satellites positioned at Lagrange Points, building up a model of their behavior through empirical evidence. Both approaches are essential for a comprehensive understanding of Lagrange Points.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think all Lagrange Points offer stable positions.
+>
+> This misconception arises from the simplified view that Lagrange Points are uniformly stable. In reality, only L4 and L5 points in systems with a mass ratio greater than about 25 are truly stable. The other three points (L1, L2, and L3) are unstable equilibrium positions where small perturbations can cause significant deviations from the desired orbit.
 
 ## Key Figures
 
@@ -117,9 +132,19 @@ Historically and practically, Lagrange Points have been utilized in various spac
 >
 > *What would resolve it:* Innovative mission designs that leverage the unique properties of Lagrange Points could enhance their utilization for scientific research and resource management in space.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do non-gravitational forces affect the long-term stability of Lagrange Points?
+>
+> *What would resolve it:* Long-term observational studies and simulations incorporating effects like solar radiation pressure could provide insights into how these forces impact the stability of Lagrange Points over extended periods, informing more robust mission planning strategies.
+
 ## Synthesis
 
 Understanding Lagrange Points is essential for effective space mission planning, offering strategic advantages such as stable positioning and reduced energy requirements. Their application ranges from continuous solar monitoring to deep-space observatories, highlighting the importance of these equilibrium points in advancing our knowledge of celestial mechanics.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of Lagrange Points not only enriches our understanding of orbital mechanics but also serves as a practical tool for space exploration and scientific research. By leveraging the unique gravitational properties at these points, missions can achieve strategic advantages such as stable positioning and reduced energy requirements, underscoring their importance in advancing our knowledge of celestial dynamics.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Understanding Lagrange Points is essential for effective space mission planning,
 **Applies to:** [[Hill Sphere]]
 
 **Source:** [[lagrange-points-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Restricted Three-Body Problem]]** — *specializes*
+> Lagrange Points specialize within the broader concept of the Restricted Three-Body Problem by identifying specific equilibrium positions where a small object can maintain relative stability. This specialization is crucial as it provides practical solutions for space mission planning, leveraging theoretical insights from the three-body problem to address real-world challenges in orbital mechanics.

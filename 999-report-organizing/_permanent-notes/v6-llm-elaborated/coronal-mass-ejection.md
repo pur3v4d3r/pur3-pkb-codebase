@@ -1,12 +1,11 @@
 ---
-title: "Coronal Mass Ejection"
+title: Coronal Mass Ejection
 aliases:
-  - "Coronal Mass Ejection"
-  - "CME"
+  - Coronal Mass Ejection
+  - CME
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - space-weather
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "coronal-mass-ejection-synthetic-seed-2026-05-14"
+  - coronal-mass-ejection-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Solar Transient Phenomena"
-
+depth-level: enhanced
+parent-concept: Solar Transient Phenomena
 related:
-  - "[[Solar Wind]]"
-  - "[[Parker Solar Probe]]"
+  - '[[Solar Wind]]'
+  - '[[Parker Solar Probe]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Solar Wind]]"
+  - '[[Solar Wind]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Parker Solar Probe]]"
+  - '[[Parker Solar Probe]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Coronal Mass Ejection
 
@@ -86,6 +85,9 @@ Understanding CMEs is crucial not only for predicting space weather but also for
 
 The Carrington event of 1859 remains one of the best-characterized historical examples of severe space weather. During this period, auroras were observed as far south as the Caribbean and telegraph systems experienced disruptions due to induced currents from the solar storm. Modern estimates suggest that a similar event today could cause trillions of dollars in economic damage.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent advancements in solar physics have enabled scientists to better understand the complex interplay between Coronal Mass Ejections (CMEs) and other solar phenomena, such as solar flares and high-speed streams of solar wind. These interactions can significantly alter the trajectory and impact of CMEs on Earth's magnetic field. For instance, a CME traveling through a region of fast solar wind may be deflected or slowed down, reducing its potential to cause geomagnetic storms when it reaches our planet.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Power Grid Disruption**
@@ -102,6 +104,19 @@ The Carrington event of 1859 remains one of the best-characterized historical ex
 > [!key-distinction] **CME vs Solar Flare**
 > While both Coronal Mass Ejections and solar flares are manifestations of intense solar activity, they differ in their nature and impact. A CME involves the ejection of plasma from the Sun's corona, whereas a solar flare is an explosive release of energy primarily in the form of electromagnetic radiation. The geo-effectiveness of a CME depends on its magnetic field configuration upon arrival at Earth.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Solar Storm Prediction**
+> In the context of predicting Coronal Mass Ejections (CMEs), top-down processing involves using overarching models and theories to forecast solar activity, while bottom-up processing relies on detailed observations from satellites like the Parker Solar Probe. Top-down approaches can provide a broad understanding but may lack specificity, whereas bottom-up methods offer precise data but might miss broader patterns. Both are crucial for accurate CME prediction.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often believe that all Coronal Mass Ejections (CMEs) have the same impact on Earth.
+>
+> In reality, the impact of a CME depends significantly on its magnetic field configuration and speed. A southward-oriented Bz component in the CME's magnetic field is particularly effective at driving geomagnetic storms because it can couple more strongly with Earth’s magnetic field.
+
 ## Key Figures
 
 - **Richard Carrington** — In 1859, Richard Carrington observed one of the most significant solar storms in recorded history. His observations provided early evidence for the connection between solar activity and geomagnetic disturbances on Earth.
@@ -113,9 +128,19 @@ The Carrington event of 1859 remains one of the best-characterized historical ex
 >
 > *What would resolve it:* Improved models that accurately predict the magnetic field configuration of CMEs as they approach Earth would enhance our ability to forecast their impact.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How can we improve real-time tracking and prediction of Coronal Mass Ejections (CMEs)?
+>
+> *What would resolve it:* Developing more sophisticated models that incorporate real-time data from multiple satellites, including the Parker Solar Probe, would enhance our ability to predict CME trajectories and impacts accurately.
+
 ## Synthesis
 
 Understanding and predicting Coronal Mass Ejections are crucial for space weather forecasting and planetary protection strategies. By studying these events, scientists can develop better models to anticipate solar storms and mitigate their impacts on technological infrastructure.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of Coronal Mass Ejections is not only crucial for understanding solar physics but also vital for protecting Earth's technological infrastructure. By integrating insights from both top-down theoretical models and bottom-up observational data, scientists can develop more robust strategies to mitigate the impacts of these powerful solar events.
 
 ## Evidence
 
@@ -130,3 +155,13 @@ The Carrington event of 1859 stands as a stark reminder of the potential severit
 **Supports:** [[Parker Solar Probe]]
 
 **Source:** [[coronal-mass-ejection-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Solar Wind]]** — *applies-to*
+> Coronal Mass Ejections (CMEs) and solar wind are interconnected phenomena originating from the Sun. CMEs can significantly alter the properties of the solar wind, such as its density and velocity, which in turn affects how these events impact Earth's magnetosphere.
+
+> [!connection] **[[Parker Solar Probe]]** — *supports*
+> The Parker Solar Probe provides critical data on CMEs by observing them close to the Sun. This information is essential for understanding the initial conditions of CMEs, which helps in predicting their behavior as they travel through space towards Earth.

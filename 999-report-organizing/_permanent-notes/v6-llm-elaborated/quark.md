@@ -1,12 +1,11 @@
 ---
-title: "Quark"
+title: Quark
 aliases:
-  - "Quark"
-  - "quarks"
+  - Quark
+  - quarks
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,57 +16,57 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "quark-synthetic-seed-2026-05-14"
+  - quark-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Standard Model of Particle Physics"
-
+depth-level: enhanced
+parent-concept: Standard Model of Particle Physics
 related:
-  - "[[Gluon]]"
-  - "[[Baryon]]"
-  - "[[Lepton]]"
+  - '[[Gluon]]'
+  - '[[Baryon]]'
+  - '[[Lepton]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Gluon]]"
-  - "[[Baryon]]"
+  - '[[Gluon]]'
+  - '[[Baryon]]'
 contrasts-with:
-  - "[[Lepton]]"
+  - '[[Lepton]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Quark
 
@@ -87,6 +86,9 @@ The discovery timeline for all six flavors of quarks is marked by significant mi
 
 Understanding the nuances between a quark’s current mass (as defined by its parameter in the QCD Lagrangian) and its constituent mass (the effective mass inside hadrons) is crucial for accurate theoretical predictions. This distinction highlights the complexity inherent in describing particle properties under different energy conditions.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The theoretical framework of quantum chromodynamics (QCD) provides a deeper understanding of quark interactions and their confinement within hadrons. QCD is the theory that describes the strong interaction, one of the four fundamental forces in nature, which binds quarks together through the exchange of gluons. This binding force is so powerful at low energies that it prevents individual quarks from being observed as free particles, a phenomenon known as asymptotic freedom. As energy increases, such as in high-energy collisions within particle accelerators, quarks can behave more freely, allowing physicists to probe their properties under different conditions.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Experimental Physics**
@@ -99,6 +101,19 @@ Understanding the nuances between a quark’s current mass (as defined by its pa
 
 > [!key-distinction] **Current Mass vs Constituent Mass**
 > The current mass, a parameter in the QCD Lagrangian, differs significantly from the constituent mass, which is the effective mass of a quark within a hadron. This distinction is critical as it affects how quarks are perceived and modeled under different energy conditions.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Constituent Mass vs Current Mass**
+> The distinction between constituent mass and current mass is crucial for understanding the behavior of quarks within hadrons. Constituent mass refers to the effective mass a quark has inside a hadron, which includes contributions from its kinetic energy and interactions with other particles in the system. In contrast, current mass is a parameter used in the QCD Lagrangian that describes the intrinsic mass of a quark at zero momentum transfer. This distinction highlights how particle properties can vary depending on the context and energy scale.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that all quarks have the same mass.
+>
+> In reality, each type of quark has a different mass. For example, up and down quarks are significantly lighter than charm, strange, top, and bottom quarks. This variation in mass is crucial for understanding particle stability and decay processes within hadrons.
 
 ## Key Figures
 
@@ -116,9 +131,19 @@ Understanding the nuances between a quark’s current mass (as defined by its pa
 >
 > *What would resolve it:* Understanding the variation in quark masses at high energies would provide deeper insights into the dynamics of particle interactions and could lead to new theoretical frameworks within quantum chromodynamics (QCD).
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do variations in quark masses affect hadron stability?
+>
+> *What would resolve it:* Exploring this question would require detailed studies of how different mass configurations influence the binding energy and overall structure of hadrons, potentially leading to new insights into particle stability.
+
 ## Synthesis
 
 The study of quarks is fundamental for advancing our understanding of matter's structure and behavior. By elucidating their properties and interactions, physicists can refine models that describe the universe at its most basic level, potentially leading to breakthroughs in areas such as dark matter research and new particle discoveries.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of quarks not only deepens our understanding of fundamental physics but also has implications for broader scientific inquiries. By elucidating the mechanisms that govern quark behavior, researchers can develop more accurate models of matter at both microscopic and macroscopic scales, contributing to fields such as condensed matter physics and cosmology.
 
 ## Connections & Context
 
@@ -129,3 +154,10 @@ The study of quarks is fundamental for advancing our understanding of matter's s
 **Contrasts with:** [[Lepton]]
 
 **Source:** [[quark-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Baryon]]** — *applies-to*
+> Quarks are the fundamental building blocks of baryons, which include protons and neutrons. Baryons consist of three quarks bound together by gluons through the strong force. Understanding quark properties is essential for comprehending how these particles form stable structures within atomic nuclei.

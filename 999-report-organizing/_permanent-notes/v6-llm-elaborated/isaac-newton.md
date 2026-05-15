@@ -1,13 +1,12 @@
 ---
-title: "Isaac Newton"
+title: Isaac Newton
 aliases:
-  - "Isaac Newton"
-  - "Newton"
-  - "Sir Isaac Newton"
+  - Isaac Newton
+  - Newton
+  - Sir Isaac Newton
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - history-of-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "isaac-newton-synthetic-seed-2026-05-14"
+  - isaac-newton-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Founders of Classical Physics"
-
+depth-level: enhanced
+parent-concept: Founders of Classical Physics
 related:
-  - "[[Classical Mechanics]]"
+  - '[[Classical Mechanics]]'
   - "[[Kepler's Laws of Planetary Motion]]"
-  - "[[Conservation of Energy]]"
+  - '[[Conservation of Energy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Classical Mechanics]]"
+  - '[[Classical Mechanics]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
   - "[[Kepler's Laws of Planetary Motion]]"
-  - "[[Conservation of Energy]]"
+  - '[[Conservation of Energy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Isaac Newton
 
@@ -86,6 +85,9 @@ Isaac Newton's Principia Mathematica introduced a revolutionary framework for un
 Newton's demonstration that Kepler's empirical laws of planetary motion could be derived from his inverse-square law of gravitation was groundbreaking. This achievement not only validated the predictive power of his theoretical framework but also established a template for future theoretical physics, emphasizing the importance of mathematical rigor and observational verification in scientific inquiry.
 
 The development of calculus by Newton (and independently by Leibniz) provided the necessary mathematical tools to describe continuous change and motion with precision. This was crucial for formulating laws that could accurately model physical phenomena across different scales, from the fall of an apple to the orbit of planets.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Newton's work on optics and his experiments with prisms to demonstrate
 
 ## Practical Implications
 

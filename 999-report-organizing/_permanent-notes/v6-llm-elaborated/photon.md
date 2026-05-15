@@ -1,12 +1,11 @@
 ---
-title: "Photon"
+title: Photon
 aliases:
-  - "Photon"
-  - "photons"
+  - Photon
+  - photons
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - optics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "photon-synthetic-seed-2026-05-14"
+  - photon-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Quantum Electrodynamics"
-
+depth-level: enhanced
+parent-concept: Quantum Electrodynamics
 related:
-  - "[[Wave-Particle Duality]]"
-  - "[[Electromagnetic Radiation]]"
-  - "[[Quantum Electrodynamics]]"
+  - '[[Wave-Particle Duality]]'
+  - '[[Electromagnetic Radiation]]'
+  - '[[Quantum Electrodynamics]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Wave-Particle Duality]]"
+  - '[[Wave-Particle Duality]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Electromagnetic Radiation]]"
+  - '[[Electromagnetic Radiation]]'
 formalizes:
-  - "[[Quantum Electrodynamics]]"
+  - '[[Quantum Electrodynamics]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Photon
 
@@ -87,6 +86,9 @@ Empirically, photons have been observed through various phenomena including the 
 
 The concept of wave-particle duality is crucial as it challenges our classical intuitions about particles and waves. Photons can exhibit both behaviors simultaneously, depending on the experimental setup. For instance, they can interfere with themselves like waves or collide elastically like particles. This dual nature has profound implications for modern physics and technology.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+The behavior of photons in quantum entanglement experiments further illustrates their unique properties, as pairs or groups of photons can become interconnected such that the state of one (whether it is polarized vertically or horizontally) instantly correlates with another, regardless of distance. This phenomenon challenges classical notions of causality and locality, suggesting a deeper level of connection between particles at a quantum scale.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Lasers**
@@ -99,6 +101,19 @@ The concept of wave-particle duality is crucial as it challenges our classical i
 
 > [!key-distinction] **Wave-Particle Duality**
 > Photons exemplify wave-particle duality but are distinct from classical waves or particles. Unlike macroscopic objects, photons do not have a well-defined position in space and cannot be localized to a specific point prior to detection. This quantum behavior is crucial for understanding phenomena such as interference patterns observed in double-slit experiments.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Photon Detection**
+> In photon detection, top-down processing involves using prior knowledge or expectations to interpret incoming light signals, while bottom-up processing relies solely on the sensory input. For instance, when observing a double-slit experiment, one might predict interference patterns based on theoretical understanding (top-down), whereas simply analyzing the raw data from detectors would be bottom-up. This distinction is crucial for interpreting experimental results accurately.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think photons always travel in straight lines like classical particles.
+>
+> Photons can exhibit wave-like behavior, leading to phenomena such as diffraction and interference. This misconception arises from the tendency to apply classical mechanics principles to quantum entities without considering their dual nature.
 
 ## Key Figures
 
@@ -116,6 +131,13 @@ The concept of wave-particle duality is crucial as it challenges our classical i
 >
 > *What would resolve it:* High-energy particle collision experiments or theoretical advancements in quantum field theory that accurately predict photon interactions under extreme conditions could provide answers to this question.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do quantum fluctuations in the vacuum affect photon behavior?
+>
+> *What would resolve it:* Experimental observations of virtual particles and their effects on real photons could provide insights into how these fluctuations influence photon interactions and propagation.
+
 ## Synthesis
 
 The concept of the photon is foundational for modern physics and technology, bridging the gap between classical wave theories and quantum mechanics. Its role as a gauge boson in QED not only explains electromagnetic phenomena but also underpins technological innovations such as lasers and solar cells. Understanding photons' dual nature challenges our conventional views on particles and waves, pushing the boundaries of scientific inquiry into the very fabric of reality.
@@ -131,3 +153,10 @@ The concept of the photon is foundational for modern physics and technology, bri
 **Formalizes:** [[Quantum Electrodynamics]]
 
 **Source:** [[photon-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Wave-Particle Duality]]** — *contrasts-with*
+> While wave-particle duality describes the behavior of particles like electrons and photons, it contrasts with the classical view that light is purely a wave. Photons exemplify this duality by showing both particle-like (e.g., photoelectric effect) and wave-like (e.g., interference patterns) behaviors.

@@ -1,13 +1,12 @@
 ---
-title: "Redshift"
+title: Redshift
 aliases:
-  - "Redshift"
-  - "cosmological redshift"
-  - "z"
+  - Redshift
+  - cosmological redshift
+  - z
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - spectroscopy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "redshift-synthetic-seed-2026-05-14"
+  - redshift-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cosmology"
-
+depth-level: enhanced
+parent-concept: Cosmology
 related:
-  - "[[Doppler Effect in Astronomy]]"
-  - "[[Gravitational Time Dilation]]"
-  - "[[Expansion of the Universe]]"
+  - '[[Doppler Effect in Astronomy]]'
+  - '[[Gravitational Time Dilation]]'
+  - '[[Expansion of the Universe]]'
   - "[[Hubble's Law]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Doppler Effect in Astronomy]]"
-  - "[[Gravitational Time Dilation]]"
+  - '[[Doppler Effect in Astronomy]]'
+  - '[[Gravitational Time Dilation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Expansion of the Universe]]"
+  - '[[Expansion of the Universe]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
   - "[[Hubble's Law]]"
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Redshift
 
@@ -89,6 +88,9 @@ The core mechanism behind cosmological redshift is not merely a Doppler effect c
 Understanding redshift is crucial for interpreting cosmic history because it provides a direct link between observed phenomena and theoretical models of the universe. For instance, high-redshift galaxies offer insights into conditions shortly after the Big Bang when the universe was much denser and hotter. The measurement of these redshifts helps cosmologists refine their understanding of dark energy and the accelerating expansion of the universe.
 
 Empirically, redshift measurements have been pivotal in confirming key theories such as Hubble's law and the cosmic microwave background radiation, which are cornerstones of modern cosmology. These observations not only validate theoretical predictions but also guide ongoing research into the nature of dark matter and energy.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Redshift measurements have also played a pivotal role in uncovering the
 
 ## Mechanism
 

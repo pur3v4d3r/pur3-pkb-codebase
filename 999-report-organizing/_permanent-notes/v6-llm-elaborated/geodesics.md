@@ -1,12 +1,11 @@
 ---
-title: "Geodesics"
+title: Geodesics
 aliases:
-  - "Geodesics"
-  - "geodesic curves"
+  - Geodesics
+  - geodesic curves
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "geodesics-synthetic-seed-2026-05-14"
+  - geodesics-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Differential Geometry"
-
+depth-level: enhanced
+parent-concept: Differential Geometry
 related:
-  - "[[Riemannian Geometry]]"
-  - "[[General Relativity]]"
+  - '[[Riemannian Geometry]]'
+  - '[[General Relativity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Riemannian Geometry]]"
+  - '[[Riemannian Geometry]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[General Relativity]]"
+  - '[[General Relativity]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Geodesics
 
@@ -86,6 +85,9 @@ The concept of geodesics emerged from Riemann's work on differential geometry, w
 
 Understanding geodesics is crucial for comprehending how massive bodies influence the geometry of space-time and how this curvature affects the paths of particles. This insight has profound implications for our understanding of gravitational phenomena, from planetary orbits to black holes.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Geodesics play a pivotal role in understanding not just gravitational phenomena but also the broader implications for cosmology and the large-scale structure of the universe. By studying how geodesics behave across vast cosmic distances, researchers can infer properties about the expansion rate of the universe and the distribution of dark matter and energy. This interplay between local path minimization and global cosmic geometry underscores the deep connection between microscopic particle motion and macroscopic cosmological dynamics.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Understanding Gravity**
@@ -98,6 +100,19 @@ Understanding geodesics is crucial for comprehending how massive bodies influenc
 
 > [!key-distinction] **Timelike vs Spacelike Geodesics**
 > The distinction between timelike and spacelike geodesics is crucial in general relativity. Timelike geodesics represent the paths of massive particles, while spacelike geodesics describe hypothetical scenarios involving faster-than-light travel. This difference impacts how we interpret motion within curved spacetime.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Geodesics vs Trajectories Influenced by Non-Gravitational Forces**
+> While geodesics represent paths that are solely influenced by spacetime curvature due to gravity, trajectories affected by non-gravitational forces deviate from these natural paths. This distinction is crucial for understanding how different types of forces interact within the framework of general relativity and how they can be distinguished in observational data.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that geodesics are always straight lines, but this is only true in flat Euclidean space.
+>
+> In curved spacetime, geodesics can appear as curves when viewed from an external perspective. This misconception arises because the concept of 'straightness' changes with the curvature of the underlying manifold. Understanding that geodesics are locally straight within their own intrinsic geometry is key to grasping how gravity shapes motion in general relativity.
 
 ## Key Figures
 
@@ -116,9 +131,19 @@ Understanding geodesics is crucial for comprehending how massive bodies influenc
 >
 > *What would resolve it:* Detailed observational data from gravitational wave astronomy and precise numerical simulations of black hole dynamics would provide insights into the behavior of geodesics in extreme conditions.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do quantum fluctuations affect the behavior of geodesics at extremely small scales?
+>
+> *What would resolve it:* Experimental evidence from high-energy particle collisions or precise measurements in quantum field theory could provide insights into how quantum effects modify the classical paths described by geodesics.
+
 ## Synthesis
 
 Geodesics are pivotal for understanding the geometry of spacetime and the motion of particles within it. By generalizing straight lines to curved spaces, they offer a powerful tool for describing gravitational phenomena without invoking forces. This concept bridges differential geometry with physics, providing a framework that has transformed our comprehension of gravity and space-time.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The concept of geodesics not only illuminates our understanding of gravitational phenomena but also serves as a bridge between differential geometry and physics, enabling a deeper exploration of spacetime's structure and dynamics. This synthesis is crucial for advancing theories that reconcile general relativity with quantum mechanics.
 
 ## Connections & Context
 
@@ -129,3 +154,10 @@ Geodesics are pivotal for understanding the geometry of spacetime and the motion
 **Applies to:** [[General Relativity]]
 
 **Source:** [[geodesics-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[General Relativity]]** — *applies-to*
+> Geodesics are fundamental to the application of general relativity because they describe the natural paths that objects follow in spacetime. This connection is essential as it allows physicists to predict and explain phenomena such as gravitational lensing, black hole dynamics, and cosmic expansion without invoking forces other than gravity.

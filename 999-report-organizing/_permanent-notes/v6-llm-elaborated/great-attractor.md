@@ -1,12 +1,11 @@
 ---
-title: "Great Attractor"
+title: Great Attractor
 aliases:
-  - "Great Attractor"
-  - "Great Attractor anomaly"
+  - Great Attractor
+  - Great Attractor anomaly
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "great-attractor-synthetic-seed-2026-05-14"
+  - great-attractor-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Large-Scale Gravitational Features"
-
+depth-level: enhanced
+parent-concept: Large-Scale Gravitational Features
 related:
-  - "[[Peculiar Velocity]]"
-  - "[[Laniakea Supercluster]]"
+  - '[[Peculiar Velocity]]'
+  - '[[Laniakea Supercluster]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Peculiar Velocity]]"
+  - '[[Peculiar Velocity]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Laniakea Supercluster]]"
+  - '[[Laniakea Supercluster]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Great Attractor
 
@@ -82,6 +81,9 @@ The Great Attractor was first identified in the late 1970s and early 1980s when 
 Infrared and X-ray surveys have since helped to map this region more accurately, revealing that the Great Attractor is not a single galaxy but rather a concentration of galaxies and dark matter. These observations have allowed scientists to estimate its mass and direction with greater precision, confirming it as one of the most significant gravitational influences in our cosmic neighborhood.
 
 Understanding the Great Attractor's role has been crucial for cosmologists studying large-scale structure formation and peculiar velocity fields. It highlights how local gravitational dynamics can significantly affect galactic motions on scales much larger than individual clusters or superclusters.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The Great Attractor's influence extends beyond its immediate vicinity, affecting not just individual galaxies but entire superclusters like Laniakea. This broader impact underscores the interconnectedness of cosmic structures and highlights how local gravitational anomalies can shape large-scale cosmological dynamics. The anomaly’s discovery has prompted a reevaluation of models that assume uniform mass distribution across space, pushing researchers to incorporate more nuanced understandings of dark matter and its role in shaping galactic motions.
 
 ## Mechanism
 
@@ -102,6 +104,19 @@ X-ray surveys further confirmed this finding by detecting hot gas associated wit
 > [!key-distinction] **Local Gravitational Feature vs Cosmic Expansion**
 > The Great Attractor is a local gravitational anomaly that influences galactic motions within its vicinity. It should not be confused with cosmic expansion, which describes the overall increase in distance between galaxies due to the universe's expansion. While both phenomena affect galaxy velocities, they operate on different scales and mechanisms.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Local Gravitational Anomaly vs Global Cosmological Constant**
+> While the Great Attractor represents a local gravitational anomaly exerting significant pull on nearby galaxies, the global cosmological constant describes an intrinsic property of space itself that influences cosmic expansion. Understanding this distinction is crucial for distinguishing between short-range gravitational effects and long-term cosmological trends, highlighting the complexity in modeling galactic motions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think the Great Attractor's influence is solely due to visible galaxies.
+>
+> In reality, much of the gravitational pull exerted by the Great Attractor comes from dark matter and other unseen mass concentrations. This misconception arises because early surveys focused on visible light, which does not fully capture the distribution of mass in space. Infrared and X-ray observations have been essential for mapping these hidden masses.
+
 ## Key Figures
 
 - **Glenys Ilana Stacey** — Stacey was instrumental in using infrared surveys to map the Great Attractor’s influence, helping to confirm its gravitational impact on surrounding galaxies.
@@ -119,9 +134,19 @@ X-ray surveys further confirmed this finding by detecting hot gas associated wit
 >
 > *What would resolve it:* Comparative studies with other known gravitational anomalies would help place the Great Attractor in context within the larger framework of cosmic structure formation and evolution.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How does the Great Attractor's influence compare to other known gravitational anomalies?
+>
+> *What would resolve it:* Comparative studies with other large-scale gravitational features would help place the Great Attractor in context, providing a broader understanding of cosmic structure formation and evolution.
+
 ## Synthesis
 
 The discovery and study of the Great Attractor have been pivotal for cosmology, highlighting the complexity of large-scale structures in our universe. By revealing a significant gravitational anomaly that influences galactic motions over vast distances, it underscores the importance of considering local dynamics alongside broader cosmological trends.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of the Great Attractor not only illuminates local gravitational dynamics but also underscores the importance of considering both short-range anomalies and long-term cosmological trends when modeling galactic motions. This dual perspective is essential for a comprehensive understanding of cosmic structure formation and evolution.
 
 ## Connections & Context
 
@@ -132,3 +157,13 @@ The discovery and study of the Great Attractor have been pivotal for cosmology, 
 **Applies to:** [[Laniakea Supercluster]]
 
 **Source:** [[great-attractor-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Peculiar Velocity]]** — *applies-to*
+> The Great Attractor exemplifies peculiar velocity phenomena, where galactic motions deviate from the smooth Hubble flow expected due to cosmic expansion. By studying the Great Attractor's influence on nearby galaxies, researchers can better understand and model these deviations, providing insights into the distribution of dark matter in our universe.
+
+> [!connection] **[[Laniakea Supercluster]]** — *applies-to*
+> The Laniakea Supercluster is directly affected by the gravitational pull of the Great Attractor. This connection highlights how local anomalies can influence large-scale structures, demonstrating the interconnected nature of cosmic dynamics and challenging simplistic models that assume uniform mass distribution across space.

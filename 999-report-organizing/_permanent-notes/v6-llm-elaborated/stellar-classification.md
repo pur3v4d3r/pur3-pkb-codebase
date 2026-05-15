@@ -1,13 +1,12 @@
 ---
-title: "Stellar Classification"
+title: Stellar Classification
 aliases:
-  - "Stellar Classification"
-  - "spectral classification"
-  - "MK classification"
+  - Stellar Classification
+  - spectral classification
+  - MK classification
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - spectroscopy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "stellar-classification-synthetic-seed-2026-05-14"
+  - stellar-classification-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Astrophysical Taxonomies"
-
+depth-level: enhanced
+parent-concept: Astrophysical Taxonomies
 related:
-  - "[[Hertzsprung-Russell Diagram]]"
-  - "[[Main Sequence Star]]"
+  - '[[Hertzsprung-Russell Diagram]]'
+  - '[[Main Sequence Star]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Hertzsprung-Russell Diagram]]"
+  - '[[Hertzsprung-Russell Diagram]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Main Sequence Star]]"
+  - '[[Main Sequence Star]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Stellar Classification
 
@@ -87,6 +86,9 @@ The agreement between empirical MK classifications and theoretical models of sta
 
 Historically, Stellar Classification has been pivotal in organizing vast catalogs of stars into meaningful groups that reflect their physical properties. The development of this system by William W. Morgan and Phillip C. Keenan marked a significant advancement in the field, allowing astronomers to systematically study star populations and understand galactic structures.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Stellar Classification's reliance on spectral analysis has profound implications for our understanding of stellar atmospheres and interiors. The spectral lines observed in a star’s light are not just markers of temperature and surface gravity; they also reveal the chemical composition, magnetic fields, and even rotational velocities of stars. This multi-faceted information allows astronomers to infer complex physical processes occurring within stars without direct observation, making Stellar Classification an indispensable tool for probing stellar interiors.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Understanding Star Evolution**
@@ -103,6 +105,19 @@ Historically, Stellar Classification has been pivotal in organizing vast catalog
 > [!key-distinction] **Spectral Classification vs Direct Atmospheric Parameter Fits**
 > While Stellar Classification relies on observational spectral lines to categorize stars, modern surveys like Gaia use direct atmospheric parameter fits (T_eff, log g, [Fe/H]) which are more physically meaningful. However, these two systems should not be conflated as they serve different purposes and may not always align perfectly.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Spectral Analysis**
+> In the context of Stellar Classification, top-down processing involves using preconceived notions about spectral types and luminosity classes to interpret observed spectra. This approach leverages theoretical models and empirical classifications to guide interpretation. In contrast, bottom-up processing focuses on analyzing individual spectral lines without prior assumptions, allowing for a more data-driven understanding of stellar properties. The distinction is crucial as it highlights the balance between theory-guided classification and direct observational evidence in astrophysics.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Stellar Classification only categorizes stars based on temperature.
+>
+> While temperature is a key factor, Stellar Classification also considers surface gravity through luminosity classes. This dual approach allows for more nuanced classification that reflects both the star's size and its evolutionary stage, providing deeper insights into stellar properties beyond just temperature.
+
 ## Key Figures
 
 - **William W. Morgan** — Contributed significantly to the development of the Morgan–Keenan (MK) system for stellar classification, providing a robust framework for categorizing stars based on their spectra.
@@ -115,9 +130,19 @@ Historically, Stellar Classification has been pivotal in organizing vast catalog
 >
 > *What would resolve it:* Developing a comprehensive translation model between direct atmospheric parameters and traditional spectral types would resolve this issue, allowing for more consistent comparisons across different classification systems.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do variations in metallicity affect spectral classification?
+>
+> *What would resolve it:* Investigating how different metallicities influence spectral lines can refine our understanding of Stellar Classification. This research could lead to more accurate classifications that account for the chemical composition's impact on observed spectra.
+
 ## Synthesis
 
 Stellar Classification is a cornerstone of astrophysical research, providing essential insights into the physical properties and evolutionary stages of stars. By organizing vast stellar populations into meaningful categories based on spectral types and luminosity classes, it enables detailed studies of star evolution, population dynamics, and galactic structures.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Stellar Classification, by providing a systematic framework for categorizing stars based on their spectra, serves as both a foundational tool and an ongoing area of research in astrophysics. Its integration with theoretical models and observational data continues to enhance our comprehension of stellar properties and evolution.
 
 ## Evidence
 
@@ -132,3 +157,10 @@ The agreement between empirical MK classifications and theoretical models of sta
 **Instance of:** [[Main Sequence Star]]
 
 **Source:** [[stellar-classification-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Hertzsprung-Russell Diagram]]** — *applies-to*
+> Stellar Classification is integral to the Hertzsprung-Russell (HR) diagram, which plots stars based on their luminosity and temperature. The spectral types and luminosity classes from Stellar Classification directly inform the placement of stars in the HR diagram, enabling astronomers to visualize stellar populations and evolutionary paths more effectively.

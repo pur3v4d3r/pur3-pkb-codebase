@@ -1,12 +1,11 @@
 ---
-title: "Local Group"
+title: Local Group
 aliases:
-  - "Local Group"
-  - "Local Group of Galaxies"
+  - Local Group
+  - Local Group of Galaxies
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,58 +17,58 @@ subdomains:
   - galactic-astronomy
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "local-group-synthetic-seed-2026-05-14"
+  - local-group-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Galaxy Groups"
-
+depth-level: enhanced
+parent-concept: Galaxy Groups
 related:
-  - "[[Dwarf Galaxies]]"
-  - "[[Laniakea Supercluster]]"
-  - "[[Milky Way Galaxy]]"
-  - "[[Andromeda Galaxy (M31)]]"
+  - '[[Dwarf Galaxies]]'
+  - '[[Laniakea Supercluster]]'
+  - '[[Milky Way Galaxy]]'
+  - '[[Andromeda Galaxy (M31)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Dwarf Galaxies]]"
+  - '[[Dwarf Galaxies]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Laniakea Supercluster]]"
+  - '[[Laniakea Supercluster]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Milky Way Galaxy]]"
-  - "[[Andromeda Galaxy (M31)]]"
+  - '[[Milky Way Galaxy]]'
+  - '[[Andromeda Galaxy (M31)]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Local Group
 
@@ -87,6 +86,9 @@ The Local Group's structure and evolution are influenced by complex interactions
 
 The study of the Local Group has deepened our understanding of galactic interactions and mergers, which are crucial processes in shaping the universe we observe today. Observations suggest that the Milky Way and Andromeda will eventually merge, offering a glimpse into future cosmic events. This group's proximity allows for detailed studies that would be impossible with more distant systems, making it an invaluable resource for astrophysical research.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent studies have highlighted the role of dark matter in shaping the Local Group's structure and dynamics. Dark matter halos, which vastly outweigh visible matter, play a crucial role in binding galaxies together within this group. Observations suggest that these halos extend far beyond the visible boundaries of individual galaxies, influencing their interactions and movements on a cosmic scale.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Hierarchical Galaxy Formation**
@@ -99,6 +101,19 @@ The study of the Local Group has deepened our understanding of galactic interact
 
 > [!key-distinction] **Bound Members vs Hubble Flow**
 > The distinction between bound members of the Local Group and objects in the surrounding Hubble flow is crucial for understanding its dynamics. Bound galaxies are gravitationally influenced by the group's dominant members, while those in the Hubble flow follow the general expansion of the universe. This boundary is not always clear-cut, particularly at the periphery of the group.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Hierarchical Formation vs Isolated Evolution**
+> The hierarchical formation model posits that smaller galaxies merge to form larger ones over time. In contrast, isolated evolution suggests that galaxies develop independently without significant mergers or interactions with others. The Local Group's composition of both large and small galaxies supports the hierarchical model, as it allows for detailed studies on how these systems interact and evolve together.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that all galaxies in the Local Group are moving towards each other due to gravity.
+>
+> While gravitational forces do influence galaxy movements within the group, not all galaxies are necessarily moving closer. Some may be on trajectories that will eventually lead them away from others or even out of the group entirely. This misconception arises because it's easy to overlook the complex dynamics and varying velocities involved.
 
 ## Key Figures
 
@@ -117,11 +132,21 @@ The study of the Local Group has deepened our understanding of galactic interact
 >
 > *What would resolve it:* Detailed studies of these smaller systems could provide insights into their role in building larger galaxies, thereby refining models of galactic assembly and evolution.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How will dark matter influence future interactions between galaxies in the Local Group?
+>
+> *What would resolve it:* Detailed simulations and observational studies of dark matter distributions around galaxies in the group could provide insights into how these unseen forces shape future mergers and movements.
+
 ## Synthesis
 
 Studying the Local Group is crucial for advancing our understanding of galaxy formation and dynamics. Its proximity allows for detailed observations that are not possible with more distant systems, making it an invaluable resource for testing theories in astrophysics.
 
 The hierarchical nature of galaxy formation within this group provides a unique opportunity to investigate how smaller galaxies contribute to the structure and evolution of larger ones.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The interplay between visible matter and dark matter within the Local Group is a critical area for ongoing research, offering profound implications for our understanding of galaxy formation and evolution on both local and cosmic scales.
 
 ## Connections & Context
 
@@ -134,3 +159,10 @@ The hierarchical nature of galaxy formation within this group provides a unique 
 **Instance of:** [[Milky Way Galaxy]] · [[Andromeda Galaxy (M31)]]
 
 **Source:** [[local-group-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Laniakea Supercluster]]** — *applies-to*
+> The Local Group is a subset of the Laniakea Supercluster, which encompasses multiple galaxy groups including our own. Understanding the Local Group's dynamics within this larger context helps clarify its role in the broader cosmic structure and evolution.

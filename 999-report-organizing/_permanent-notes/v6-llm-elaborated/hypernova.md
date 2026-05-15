@@ -1,12 +1,11 @@
 ---
-title: "Hypernova"
+title: Hypernova
 aliases:
-  - "Hypernova"
-  - "collapsar"
+  - Hypernova
+  - collapsar
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - stellar-explosions
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "hypernova-synthetic-seed-2026-05-14"
+  - hypernova-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Core-Collapse Supernova"
-
+depth-level: enhanced
+parent-concept: Core-Collapse Supernova
 related:
-  - "[[Core-Collapse Supernova]]"
-  - "[[Gamma-Ray Burst]]"
-  - "[[Black Hole Formation]]"
+  - '[[Core-Collapse Supernova]]'
+  - '[[Gamma-Ray Burst]]'
+  - '[[Black Hole Formation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Core-Collapse Supernova]]"
+  - '[[Core-Collapse Supernova]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Gamma-Ray Burst]]"
+  - '[[Gamma-Ray Burst]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Black Hole Formation]]"
+  - '[[Black Hole Formation]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Hypernova
 
@@ -87,6 +86,9 @@ Understanding hypernovae is crucial not only for explaining their immediate obse
 
 The study of hypernovae has significant implications for astrophysics beyond just understanding stellar explosions. By providing insights into the conditions necessary for black hole formation, hypernovae contribute to our broader knowledge of how galaxies evolve over cosmic time. Additionally, the association with gamma-ray bursts makes them a key area of interest in high-energy astrophysics.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hypernovae not only represent a pinnacle in stellar explosion energy but also serve as critical markers for understanding cosmic ray acceleration and the distribution of heavy elements across galaxies. The intense jets produced during hypernova events can accelerate particles to near-light speeds, contributing significantly to the galactic cosmic ray flux observed on Earth. This process is crucial for astrophysical models that aim to explain the origins and dynamics of cosmic rays.
+
 ## Mechanism
 
 The collapsar mechanism describes how a rapidly rotating massive star's core collapse leads to the formation of a black hole and the subsequent production of long-duration gamma-ray bursts. As the core collapses, it forms a proto-neutron star that then implodes into a black hole if its mass exceeds the Tolman–Oppenheimer–Volkoff limit. The rapid rotation of this newly formed black hole can launch jets of material at relativistic speeds, which interact with the surrounding stellar envelope to produce both gamma-ray bursts and an associated supernova.
@@ -104,6 +106,19 @@ The collapsar mechanism describes how a rapidly rotating massive star's core col
 > [!key-distinction] **Hypernova vs Ordinary Supernova**
 > The primary distinction between hypernovae and ordinary supernovae lies in their energy output and end-state. Hypernovae release significantly more energy, often on the order of 10⁴⁵ joules or higher, compared to typical core-collapse events. Additionally, they are associated with the formation of rapidly rotating black holes and long-duration gamma-ray bursts, whereas ordinary supernovae do not exhibit such extreme characteristics.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in Hypernova Detection**
+> In hypernova detection, top-down processing involves using theoretical predictions about expected signatures (like high-energy gamma-ray bursts) to guide observations. In contrast, bottom-up processing relies on identifying unusual patterns or anomalies in observational data first and then interpreting them through existing models. Both approaches are essential: top-down helps target specific regions of the sky for detailed observation, while bottom-up ensures no potential hypernova is overlooked due to preconceived notions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People think all core-collapse supernovae produce gamma-ray bursts.
+>
+> This misconception arises from the overlap in progenitor stars between ordinary core-collapse supernovae and hypernovae. While both types of events involve massive star collapses, only a subset—those with sufficient angular momentum leading to collapsar formation—are associated with long-duration gamma-ray bursts. This distinction is critical for understanding the diverse outcomes of stellar collapse processes.
+
 ## Key Figures
 
 - **MacFadyen & Woosley** — Proposed the collapsar mechanism that links hypernovae to long-duration gamma-ray bursts, providing a theoretical framework for understanding these high-energy stellar explosions and their role in black hole formation.
@@ -115,9 +130,19 @@ The collapsar mechanism describes how a rapidly rotating massive star's core col
 >
 > *What would resolve it:* Detailed observational studies of candidate hypernova progenitors, combined with theoretical modeling, could provide insights into the precise conditions necessary for these extreme stellar explosions.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> What are the specific conditions under which a hypernova will produce a gamma-ray burst?
+>
+> *What would resolve it:* Detailed observational studies of candidate hypernova progenitors combined with theoretical modeling could provide insights into the precise conditions necessary for these extreme stellar explosions and their associated gamma-ray bursts.
+
 ## Synthesis
 
 Understanding hypernovae is crucial for advancing astrophysics because they offer a window into some of the most energetic and complex processes in the universe. By studying these events, researchers can gain deeper insights into stellar evolution, black hole formation, and the mechanisms behind gamma-ray bursts. This knowledge not only enriches our understanding of individual stars but also contributes to broader questions about galaxy evolution and the distribution of matter and energy across cosmic scales.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Hypernovae are pivotal in astrophysics not just as individual events but also as key components in understanding broader cosmic phenomena such as cosmic ray acceleration and heavy element distribution. Their study bridges theoretical models of stellar collapse with observational astronomy, offering a rich field for interdisciplinary research.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Understanding hypernovae is crucial for advancing astrophysics because they offe
 **Supports:** [[Black Hole Formation]]
 
 **Source:** [[hypernova-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Gamma-Ray Burst]]** — *applies-to*
+> Hypernovae and gamma-ray bursts are intrinsically linked through the collapsar mechanism. The rapid rotation of a newly formed black hole in hypernova events powers jets that produce these intense bursts of high-energy radiation. Understanding this connection is vital for comprehending both phenomena, as it reveals how stellar collapse dynamics can lead to such energetic cosmic explosions.

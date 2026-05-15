@@ -1,13 +1,12 @@
 ---
-title: "Active Galactic Nucleus"
+title: Active Galactic Nucleus
 aliases:
-  - "Active Galactic Nucleus"
-  - "AGN"
-  - "active galactic nuclei"
+  - Active Galactic Nucleus
+  - AGN
+  - active galactic nuclei
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - high-energy-astrophysics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "active-galactic-nucleus-synthetic-seed-2026-05-14"
+  - active-galactic-nucleus-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Galaxy Dynamics"
-
+depth-level: enhanced
+parent-concept: Galaxy Dynamics
 related:
-  - "[[Accretion Disk]]"
-  - "[[Supermassive Black Hole]]"
+  - '[[Accretion Disk]]'
+  - '[[Supermassive Black Hole]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Accretion Disk]]"
+  - '[[Accretion Disk]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Supermassive Black Hole]]"
+  - '[[Supermassive Black Hole]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Active Galactic Nucleus
 
@@ -84,6 +83,9 @@ Active Galactic Nuclei (AGNs) represent some of the most powerful and luminous p
 The diversity observed among AGNs—ranging from quasars with their brilliant jets to Seyfert galaxies with prominent broad emission lines—is largely attributed to differences in viewing angle relative to the central engine. This unified model posits that an obscuring torus around the black hole can block our view of certain features, leading to different classifications based on observable characteristics.
 
 Theoretical understanding of AGNs has evolved significantly since their discovery, with early models focusing on the role of supermassive black holes and accretion disks. Modern studies incorporate complex feedback mechanisms between the central engine and its host galaxy, influencing star formation rates and galactic evolution over cosmic timescales.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent advancements in observational techniques have allowed astronomers to detect and study AGNs across a wide range of wavelengths, from radio waves to gamma rays. This multi-wavelength approach provides a more comprehensive understanding of the physical processes at play within these energetic nuclei. For instance, X-ray observations can reveal details about the innermost regions near the black hole where temperatures are highest, while infrared and optical data offer insights into the cooler outer layers of the accretion disk and surrounding gas clouds.
 
 ## Mechanism
 
@@ -102,6 +104,19 @@ The unified model of AGN types hinges on orientation effects caused by an obscur
 > [!key-distinction] **Type-1 vs Type-2 Seyferts**
 > The distinction between type-1 and type-2 Seyfert galaxies is primarily based on the visibility of broad emission lines, which are obscured in type-2 due to an edge-on viewing angle through a torus. This difference highlights how orientation can significantly alter observable characteristics without changing intrinsic properties.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing in AGN Observations**
+> In studying Active Galactic Nuclei, astronomers often employ both top-down and bottom-up approaches. Top-down processing involves using theoretical models to predict observable phenomena based on known physics, such as the expected radiation from an accretion disk around a supermassive black hole. Bottom-up processing, conversely, starts with observational data and works backwards to infer underlying physical conditions. This distinction is crucial because it highlights how different methodologies can complement each other in unraveling the complex nature of AGNs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that all galaxies have an Active Galactic Nucleus.
+>
+> Not all galaxies host active galactic nuclei; only a fraction do, typically those with actively accreting supermassive black holes at their centers. The majority of galaxies, including our Milky Way, are classified as non-active or quiescent, meaning they lack the intense radiation and energetic phenomena associated with AGNs.
+
 ## Key Figures
 
 - **Maarten Schmidt** — Discovered the first quasar, marking the beginning of AGN studies and revealing their extreme luminosity and distance from Earth.
@@ -119,9 +134,19 @@ The unified model of AGN types hinges on orientation effects caused by an obscur
 >
 > *What would resolve it:* Detailed studies correlating galactic characteristics with AGN activity would shed light on feedback mechanisms and their impact on galaxy evolution.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> What triggers the onset and cessation of AGN activity in a galaxy?
+>
+> *What would resolve it:* Understanding the conditions that initiate and terminate AGN activity could provide insights into the lifecycle of galaxies. Observations of galaxies transitioning between active and quiescent states, along with theoretical models predicting these transitions based on galactic mergers or changes in gas supply, would be crucial for resolving this question.
+
 ## Synthesis
 
 Understanding Active Galactic Nuclei is pivotal for astrophysics as it bridges the study of supermassive black holes, accretion processes, and galaxy dynamics. By unraveling the complex interplay between these elements, researchers can gain deeper insights into cosmic phenomena ranging from star formation to large-scale structure in the universe.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of Active Galactic Nuclei not only illuminates the extreme physics near supermassive black holes but also offers a window into the broader processes shaping galaxy evolution. By integrating insights from accretion disk theory and supermassive black hole dynamics, researchers can develop more comprehensive models that account for both the internal workings of AGNs and their impact on host galaxies.
 
 ## Connections & Context
 
@@ -132,3 +157,13 @@ Understanding Active Galactic Nuclei is pivotal for astrophysics as it bridges t
 **Instance of:** [[Supermassive Black Hole]]
 
 **Source:** [[active-galactic-nucleus-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Accretion Disk]]** — *applies-to*
+> The concept of an Accretion Disk is central to understanding Active Galactic Nuclei, as it describes the physical process by which matter spirals into a supermassive black hole. The intense radiation and jets observed in AGNs are direct consequences of material being heated and accelerated within this disk. Thus, studying accretion disks provides critical insights into the energy output and dynamics of AGNs.
+
+> [!connection] **[[Supermassive Black Hole]]** — *instance-of*
+> Active Galactic Nuclei are instances where supermassive black holes exist at the centers of galaxies, actively accreting matter. The presence and properties of these black holes fundamentally determine the characteristics of AGNs, such as their luminosity and jet formation. Understanding supermassive black holes is therefore essential for comprehending the behavior and evolution of AGNs.

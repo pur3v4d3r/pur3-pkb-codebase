@@ -1,12 +1,11 @@
 ---
-title: "Quantum Entanglement"
+title: Quantum Entanglement
 aliases:
-  - "Quantum Entanglement"
-  - "entanglement"
+  - Quantum Entanglement
+  - entanglement
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - quantum-information
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "quantum-entanglement-synthetic-seed-2026-05-14"
+  - quantum-entanglement-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Quantum Mechanics"
-
+depth-level: enhanced
+parent-concept: Quantum Mechanics
 related:
-  - "[[Non-Classical Correlations]]"
-  - "[[Local Hidden Variable Theory]]"
+  - '[[Non-Classical Correlations]]'
+  - '[[Local Hidden Variable Theory]]'
   - "[[Bell's Theorem]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Non-Classical Correlations]]"
+  - '[[Non-Classical Correlations]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Local Hidden Variable Theory]]"
+  - '[[Local Hidden Variable Theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
   - "[[Bell's Theorem]]"
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Quantum Entanglement
 
@@ -85,6 +84,9 @@ The theoretical roots of quantum entanglement lie in the work of physicists like
 
 Empirically, the phenomenon was first observed through experiments involving entangled photon pairs produced from parametric down-conversion processes. These experiments have been refined over time to close various loopholes, such as detection and communication speed limitations, culminating in loophole-free Bell tests that confirmed quantum entanglement's non-local nature.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Quantum entanglement's non-local nature challenges our classical intuitions about causality and locality, leading to philosophical debates about the interpretation of quantum mechanics. For instance, the Copenhagen interpretation posits that measurement collapses the wave function into a definite state, while other interpretations like Many-Worlds suggest all possible outcomes coexist in parallel universes. These differing views on entanglement reflect broader disagreements over what constitutes reality at the quantum level.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Quantum Computing**
@@ -100,6 +102,19 @@ Empirically, the phenomenon was first observed through experiments involving ent
 
 > [!key-distinction] **Non-Locality vs. Superluminal Signaling**
 > Quantum entanglement exhibits non-local correlations, but this does not imply superluminal signaling. The no-communication theorem rigorously proves that entangled states cannot be used to transmit information faster than light, thus distinguishing the phenomenon from any form of instantaneous communication.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In understanding quantum entanglement, top-down processing involves using abstract principles like Bell's inequalities to predict experimental outcomes, whereas bottom-up processing relies on empirical data from experiments to infer theoretical models. This distinction highlights the interplay between theory and experiment in validating non-local correlations.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Quantum entanglement allows for instantaneous communication.
+>
+> While entangled particles exhibit correlated behaviors regardless of distance, this does not imply superluminal signaling. The no-communication theorem proves that any attempt to use entanglement for faster-than-light information transfer would violate the principles of quantum mechanics and relativity.
 
 ## Key Figures
 
@@ -118,9 +133,19 @@ Empirically, the phenomenon was first observed through experiments involving ent
 >
 > *What would resolve it:* Advancements in technology and theoretical understanding could lead to more efficient and secure implementations of quantum technologies based on entanglement.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do recent advances in loophole-free Bell tests impact our interpretation of quantum mechanics?
+>
+> *What would resolve it:* Further theoretical exploration and experimental refinement could provide deeper insights into foundational aspects, potentially leading to new interpretations or frameworks that better explain the non-local correlations observed in entangled systems.
+
 ## Synthesis
 
 Understanding quantum entanglement is crucial for advancing our knowledge of quantum mechanics, as it challenges classical intuitions about locality and realism. Its implications extend beyond foundational physics into practical applications such as quantum computing and cryptography, where the unique properties of entangled states offer significant advantages over classical systems.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Quantum entanglement not only challenges our classical intuitions about locality but also serves as a cornerstone for developing practical applications such as quantum computing and cryptography. Its implications extend beyond foundational physics, influencing technological advancements that leverage the unique properties of entangled states to achieve computational speedups and secure communications.
 
 ## Evidence
 
@@ -137,3 +162,10 @@ Experiments culminating in loophole-free Bell tests have definitively establishe
 **Applies to:** [[Bell's Theorem]]
 
 **Source:** [[quantum-entanglement-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Bell's Theorem]]** — *applies-to*
+> Quantum entanglement directly applies to Bell's theorem, which provides a framework for testing whether quantum mechanics can be described by local hidden variable theories. Experiments based on Bell's inequalities have confirmed the non-local nature of entangled states, reinforcing the applicability and importance of this theorem in understanding quantum phenomena.

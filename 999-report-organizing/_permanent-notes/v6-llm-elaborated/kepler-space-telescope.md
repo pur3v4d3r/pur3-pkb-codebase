@@ -1,12 +1,11 @@
 ---
-title: "Kepler Space Telescope"
+title: Kepler Space Telescope
 aliases:
-  - "Kepler Space Telescope"
-  - "Kepler mission"
+  - Kepler Space Telescope
+  - Kepler mission
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - transit-photometry
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "kepler-space-telescope-synthetic-seed-2026-05-14"
+  - kepler-space-telescope-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Space Telescopes"
-
+depth-level: enhanced
+parent-concept: Space Telescopes
 related:
-  - "[[Transit Method]]"
-  - "[[Exoplanet Detection Methods]]"
-  - "[[Habitable Zone]]"
+  - '[[Transit Method]]'
+  - '[[Exoplanet Detection Methods]]'
+  - '[[Habitable Zone]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Transit Method]]"
+  - '[[Transit Method]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Exoplanet Detection Methods]]"
-  - "[[Habitable Zone]]"
+  - '[[Exoplanet Detection Methods]]'
+  - '[[Habitable Zone]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Kepler Space Telescope
 
@@ -85,6 +84,9 @@ The Kepler Space Telescope's mission was to detect exoplanets by observing the d
 Kepler's observations have provided critical insights into the demographics of exoplanets. The mission established that small, Earth-sized planets are common around Sun-like stars, a finding that has profound implications for our understanding of planetary systems in general. Additionally, Kepler revealed that the most common planet sizes lie in the super-Earth/mini-Neptune regime, which does not have an exact counterpart in our own Solar System.
 
 One of Kepler's key findings is the estimate that approximately 20–50% of Sun-like stars host Earth-sized planets within their habitable zones. This range reflects uncertainties due to transit-detection biases and completeness corrections, highlighting the need for careful statistical analysis when interpreting exoplanet occurrence rates from Kepler data.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Kepler's legacy extends beyond its direct observations to include significant advancements in data analysis techniques and computational methods. The sheer volume of data collected by Kepler necessitated the development of sophisticated algorithms for processing light curves, identifying transit signals, and correcting for instrumental noise. These innovations have not only enhanced exoplanet detection but also paved the way for more efficient handling of large astronomical datasets across various fields.
 
 ## Mechanism
 
@@ -103,6 +105,19 @@ The transit method used by Kepler involves monitoring a star's brightness over t
 > [!key-distinction] **Kepler Space Telescope vs James Webb Space Telescope**
 > While both telescopes are designed to study exoplanets, they have distinct mission objectives. Kepler focuses on detecting planets through the transit method by monitoring star brightness variations, whereas the James Webb Space Telescope (JWST) is optimized for spectroscopic analysis of planetary atmospheres and direct imaging of larger, more distant objects.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Type I vs Type II Error in Exoplanet Detection**
+> In the context of Kepler's mission, type I errors (false positives) occur when a signal is incorrectly identified as an exoplanet transit. Conversely, type II errors (false negatives) happen when actual transits are missed due to noise or insufficient data precision. Understanding and minimizing these errors is crucial for accurately estimating exoplanet occurrence rates and demographics.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — Kepler can directly image exoplanets.
+>
+> Contrary to this misconception, Kepler does not capture images of exoplanets themselves but instead detects them through the transit method. This involves observing periodic dimming in a star's brightness as an orbiting planet passes between the star and Earth.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -110,9 +125,19 @@ The transit method used by Kepler involves monitoring a star's brightness over t
 >
 > *What would resolve it:* Resolving this question would require a comprehensive analysis that accounts for various biases and completeness corrections, providing more accurate estimates of exoplanet populations.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do biases in transit detection affect estimates of Earth-sized planet occurrence rates?
+>
+> *What would resolve it:* Addressing this question requires a detailed analysis that accounts for various observational biases, such as the inclination angle of planetary orbits relative to our line of sight and the duration of Kepler's observations.
+
 ## Synthesis
 
 Kepler Space Telescope's foundational contributions to exoplanet science have paved the way for future missions focused on direct-imaging of exoplanets. By establishing the prevalence of Earth-sized planets and informing our understanding of habitable zones, Kepler has set the stage for more detailed studies of planetary atmospheres and potential biosignatures.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+Kepler Space Telescope's contributions have not only expanded our knowledge of exoplanet demographics but also underscored the importance of precise photometric measurements in astronomical research. Its legacy continues to influence both theoretical models and observational strategies for future missions aimed at exploring planetary systems beyond our Solar System.
 
 ## Connections & Context
 
@@ -123,3 +148,13 @@ Kepler Space Telescope's foundational contributions to exoplanet science have pa
 **Applies to:** [[Exoplanet Detection Methods]] · [[Habitable Zone]]
 
 **Source:** [[kepler-space-telescope-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Transit Method]]** — *specializes*
+> Kepler Space Telescope specializes in the transit method by leveraging its high-precision photometry to detect exoplanets. This specialization allows Kepler to focus on identifying planets through their transits, which is particularly effective for detecting smaller, Earth-sized planets around distant stars.
+
+> [!connection] **[[Habitable Zone]]** — *applies-to*
+> Kepler's data are crucial in applying the concept of habitable zones to exoplanet studies. By identifying planets within these zones, Kepler helps assess potential conditions for liquid water and life on other worlds.

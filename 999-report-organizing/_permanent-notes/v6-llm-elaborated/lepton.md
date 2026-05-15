@@ -1,12 +1,11 @@
 ---
-title: "Lepton"
+title: Lepton
 aliases:
-  - "Lepton"
-  - "leptons"
+  - Lepton
+  - leptons
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,62 +16,62 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: 2026-05-14
-
+updated: '2026-05-14'
 source-type: report-extraction
 source-reports:
-  - "lepton-synthetic-seed-2026-05-14"
+  - lepton-synthetic-seed-2026-05-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Standard Model of Particle Physics"
-
+depth-level: enhanced
+parent-concept: Standard Model of Particle Physics
 related:
-  - "[[Standard Model of Particle Physics]]"
-  - "[[Quark]]"
-  - "[[Neutrino]]"
-  - "[[Electron]]"
-  - "[[Muon]]"
-  - "[[Tau]]"
+  - '[[Standard Model of Particle Physics]]'
+  - '[[Quark]]'
+  - '[[Neutrino]]'
+  - '[[Electron]]'
+  - '[[Muon]]'
+  - '[[Tau]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Standard Model of Particle Physics]]"
+  - '[[Standard Model of Particle Physics]]'
 contrasts-with:
-  - "[[Quark]]"
+  - '[[Quark]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Neutrino]]"
-  - "[[Electron]]"
-  - "[[Muon]]"
-  - "[[Tau]]"
+  - '[[Neutrino]]'
+  - '[[Electron]]'
+  - '[[Muon]]'
+  - '[[Tau]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-14'
 ---
+
 
 # Lepton
 
@@ -92,6 +91,9 @@ Empirical evidence supporting the existence of leptons includes measurements at 
 
 Understanding leptons is essential for advancing theories beyond the Standard Model, as they offer insights into fundamental questions about particle behavior and interactions at high energies.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+Recent advancements in neutrino physics have revealed that leptons, particularly neutrinos, exhibit a phenomenon known as mass hierarchy, which refers to the ordering of their masses. This discovery has profound implications for our understanding of particle interactions and could potentially lead to new insights into the nature of dark matter and the imbalance between matter and antimatter in the universe.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Particle Accelerator Experiments**
@@ -104,6 +106,19 @@ Understanding leptons is essential for advancing theories beyond the Standard Mo
 
 > [!key-distinction] **Charged Leptons vs Neutrinos**
 > While charged leptons (such as electrons and muons) carry an electric charge, neutrinos are electrically neutral. This distinction is critical in experimental setups where the detection of particles relies on their interaction with electromagnetic fields.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In studying leptons, distinguishing surface processing from deep processing is crucial. Surface processing involves rote memorization of lepton properties without understanding underlying mechanisms, while deep processing entails comprehending the theoretical frameworks that govern these particles' behavior. For instance, merely knowing that neutrinos oscillate between flavors (surface) contrasts with grasping the electroweak theory and its implications for particle interactions at high energies (deep). This distinction is vital as it affects how effectively one can apply lepton knowledge to solve complex problems in theoretical physics.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!warning] **Misconception** — People often think that leptons are only relevant in the context of particle accelerators.
+>
+> While leptons play a critical role in experiments at facilities like CERN, their significance extends far beyond these environments. Leptons influence various natural phenomena, including cosmic ray interactions and solar neutrino emissions. Understanding leptons is essential for comprehending fundamental aspects of the universe's structure and behavior.
 
 ## Key Figures
 
@@ -122,9 +137,19 @@ Understanding leptons is essential for advancing theories beyond the Standard Mo
 >
 > *What would resolve it:* Further experimental data from neutrino observatories and particle accelerators can refine our understanding of the mechanisms behind flavor oscillations, potentially revealing new physics beyond the Standard Model.
 
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+> [!open-question] **Question**
+> How do neutrino oscillations impact our understanding of lepton generations?
+>
+> *What would resolve it:* Further experimental data from neutrino observatories and collider experiments could provide insights into whether additional lepton generations exist beyond the known three, potentially reshaping our theoretical models.
+
 ## Synthesis
 
 Understanding leptons is crucial for advancing particle physics as they provide a window into fundamental interactions at high energies. By studying their behavior and properties, physicists can test and refine theories that go beyond the current Standard Model.
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+The study of leptons not only illuminates fundamental aspects of particle physics but also bridges gaps between theoretical predictions and experimental observations. By exploring phenomena such as neutrino oscillations and mass hierarchies, physicists can refine existing theories and potentially uncover new principles that govern the universe's most basic constituents.
 
 ## Evidence
 
@@ -141,3 +166,10 @@ The LEP measurement of the Z boson invisible width has provided strong evidence 
 **Instance of:** [[Neutrino]] · [[Electron]] · [[Muon]] · [[Tau]]
 
 **Source:** [[lepton-synthetic-seed-2026-05-14]]
+
+<!-- enhancement-pass:1 (2026-05-14) -->
+
+### Why these connections matter
+
+> [!connection] **[[Standard Model of Particle Physics]]** — *falls-under*
+> Leptons are integral components within the Standard Model, which provides a comprehensive framework for understanding fundamental particles and their interactions. The model's structure necessitates the inclusion of leptons to accurately describe electroweak forces and particle behavior at high energies. This connection underscores the foundational role of leptons in modern physics theories.
