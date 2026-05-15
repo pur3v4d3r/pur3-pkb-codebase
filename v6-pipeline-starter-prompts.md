@@ -75,126 +75,33 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 ### Notes to create Seeds for:
 
 `````markdown
+arno-penzias
+hubble-tension
+grand-unification-epoch
+electroweak-epoch
+quark-epoch
+hadron-epoch
+baryon-to-photon-ratio
+lithium-problem
+wimps
+cold-dark-matter
+bullet-cluster
+scalar-spectral-index
+ekpyrotic-universe-models
+cmb-temperature-anisotropies
+chaotic-inflation
+eternal-inflation
+many-worlds-interpretation
+probability-measure-on-multiverse
+ginzburg-landau-theory
+inflaton
+chaos-theory
+scalar-field
+reheating
 
-# Critical Thinking
 
-## Epistemic Dispositions
-intellectual-courage
-intellectual-perseverance
-fair-mindedness
-intellectual-empathy
-intellectual-integrity
-open-mindedness
-intellectual-autonomy
-epistemic-cowardice
-epistemic-humility
-intellectual-conscientiousness
-epistemic-responsibility
-truth-seeking-disposition
-systematicity-as-disposition
-judiciousness
-inquisitiveness-as-disposition
 
-## Argument Theory & Structure
-argument-structure
-valid-argument
-sound-argument
-cogent-argument
-strong-argument
-syllogism
-categorical-syllogism
-enthymeme
-argument-mapping
-steelmanning
-burden-of-proof
-defeater
-rebutting-defeater
-undercutting-defeater
-premise-acceptability
 
-## Informal Fallacies
-hasty-generalization
-false-cause-fallacy
-appeal-to-ignorance
-appeal-to-emotion
-appeal-to-tradition
-appeal-to-nature
-genetic-fallacy
-equivocation-fallacy
-motte-and-bailey-fallacy
-no-true-scotsman-fallacy
-nirvana-fallacy
-texas-sharpshooter-fallacy
-red-herring-fallacy
-begging-the-question
-argument-from-silence
-
-## Epistemology
-epistemic-internalism
-epistemic-externalism
-internalism-vs-externalism-epistemology
-epistemic-regress
-agrippa-trilemma
-epistemic-closure
-contextualism-in-epistemology
-epistemic-relativism
-a-posteriori-knowledge
-analytic-synthetic-distinction
-propositional-knowledge
-epistemic-akrasia
-epistemic-trust
-collective-epistemology
-reflective-equilibrium
-
-## Reasoning Biases
-belief-bias
-myside-bias
-naive-realism
-curse-of-knowledge
-illusion-of-transparency
-optimism-bias
-third-person-effect
-restraint-bias
-impact-bias
-neglect-of-probability
-
-## Scientific Reasoning
-falsifiability
-hypothetico-deductive-method
-demarcation-problem
-paradigm-shift
-pseudo-science
-null-hypothesis
-inductive-confirmation
-operationalization
-replication-and-reproducibility
-theoretical-virtues
-
-## Formal Logic
-necessary-and-sufficient-conditions
-contrapositive
-conditional-reasoning
-logical-consistency
-logical-form
-validity-vs-soundness
-logical-consequence
-sorites-paradox
-liar-paradox
-suppositional-reasoning
-
-## Critical Thinking Frameworks
-facione-critical-thinking-model
-ennis-critical-thinking-model
-critical-thinking-dispositions-taxonomy
-watson-glaser-model
-argument-reconstruction
-
-## Truth Theories
-coherence-theory-of-truth
-pragmatic-theory-of-truth
-deflationary-theory-of-truth
-epistemic-theory-of-truth
-truth-aptness
 
 `````
 

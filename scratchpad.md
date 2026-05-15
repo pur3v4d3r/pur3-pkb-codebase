@@ -1153,7 +1153,9 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 ---
 
 
-
+Generate a report on: [insert-topic-here]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
@@ -1486,20 +1488,70 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 ---
 
 
-Generate a report on: [The Big Bang Theory of the Universe]
+Generate a report on: [Large-Scale Structures in the Universe]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
 
 
-Generate a report on: [Cosmic Inflation Theory]
+Generate a report on: [How the Universe Works: An Overview of Cosmology]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
 
 
 
-Generate a report on: [Dark Matter and Dark Energy]
+Generate a report on: [How are galaxies formed and evolved over time?]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+Generate a report on: [How are stars formed and what is their life cycle?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+
+
+
+
+Generate a report on: [How are neutron stars formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+Generate a report on: [How are supernovae formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+Generate a report on: [How are ]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+Generate a report on: [How are white dwarfs formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+
+Generate a report on: [How are pulsars formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+Generate a report on: [How are dark matter and dark energy formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+Generate a report on: [How are cosmic inflation and the Big Bang formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+Generate a report on: [How are the fundamental forces of nature formed and what are their properties?]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+
+
+
 
 
 
