@@ -704,6 +704,22 @@ I am also curious if you were to design an improved version of this script what 
 
 
 
+# Running Obsidian Theme Color Generation Script
+
+I have a python script that takes a theme from Obsidian and generates color variations of that theme.
+Currently the colors are too muted and need to better represent the colors of the name specified. Example would be the neon lime is a washed out muted forest green, when it should be a bright neon lime color. And some of the colors are showing up as the same looking colors.
+I want you to review the script, adjust all the colors so that they are more distinct and represent the color choice better, and so there is more variety between each color theme. Maybe making each of the color themes use more than one or two colors for things.
+After you adjust the script making the theme colors more diverse and representative Etc., I want you to run the script on two separate themes listed below.
+After successfully running the script on the two themes, run the final script that transfers all the themes from the home folder to the Obsidian theme folder so I don't have to copy and paste them one by one.
+
+`D:\10_pur3v4d3r's-vault\999-obsidian-themes\generate_color_variants_v2.py` -> Updated version of the script with improved color generation logic.
+`D:\10_pur3v4d3r's-vault\999-obsidian-themes\install_all_themes.py` -> Script to transfer generated themes to Obsidian theme folder.
+
+`D:\10_pur3v4d3r's-vault\.obsidian\themes` -> Obsidian theme folder where the generated themes should be transferred to.
+
+## Themes to Generate and Install
+`D:\10_pur3v4d3r's-vault\.obsidian\themes\V4D3R Forge`
+`D:\10_pur3v4d3r's-vault\.obsidian\themes\V4D3R Sanguine`
 
 
 

@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Pastel-Sky
 
-> Pastel sky accents
+> Soft pastel sky
 
 ## About
 
@@ -9,9 +9,9 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 215.0°
-- **Chroma:** -44% from source
-- **Lightness offset:** +0.05
+- **Target hue:** 220.0°
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

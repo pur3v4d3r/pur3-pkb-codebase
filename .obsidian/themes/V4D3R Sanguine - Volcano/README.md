@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Volcano
 
-        > Crimson/orange dual-tone
+        > Crimson-to-orange dual-tone
 
         ## About
 

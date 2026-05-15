@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Forest
 
-        > Green/yellow dual-tone
+        > Green-to-yellow dual-tone
 
         ## About
 
@@ -9,7 +9,7 @@
         preserved; semantic colors (success/warn/error) are not rotated.
 
         - **Source hue:** 23.5°
-        - **Target hue:** 140.0°
+        - **Target hue:** 145.0°
 - **Secondary hue:** 90.0° (dual-tone)
         - **Chroma:** preserved
         - **Lightness offset:** +0.00

@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Tangerine
 
-> Tangerine accents
+> Bright tangerine accents
 
 ## About
 
@@ -9,8 +9,8 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 40.0°
-- **Chroma:** +5% from source
+- **Target hue:** 45.0°
+- **Chroma:** preserved
 - **Lightness offset:** +0.00
 
 ## Installation

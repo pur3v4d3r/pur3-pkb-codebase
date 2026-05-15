@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Dusk
 
-        > Indigo/magenta dual-tone
+        > Indigo-to-magenta dual-tone
 
         ## About
 

@@ -1,0 +1,673 @@
+/* ══════════════════════════════════════════════════════════════════
+   METADATA PANEL TOOLKIT
+   Modular style controls — comment/uncomment each block to toggle
+   Author: Pur3v4d3r | 2026-04-26
+   ══════════════════════════════════════════════════════════════════
+   HOW TO USE:
+     Each section is labelled § N. Inside each section, uncomment
+     ONE option block (or none). Mixing options from the same section
+     will cause conflicts. Mix-and-match across sections freely.
+
+   QUICK DISABLE: wrap the entire file in /* ... */ to kill all rules.
+   ══════════════════════════════════════════════════════════════════ */
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 0  CSS VARIABLES
+   Edit here to retheme everything at once. Active for all sections.
+   ─────────────────────────────────────────────────────────────────── */
+.theme-dark,
+.theme-light {
+  --mp-accent:        #746F6B;      /* warm bronze — your vault accent */
+  --mp-accent-hover:  #9A928E;
+  --mp-accent-dim:    rgba(116, 111, 107, 0.14);
+  --mp-bg:            #111111;      /* deep surface */
+  --mp-bg-raised:     #2B2D30;      /* elevated surface */
+  --mp-text:          #DEDEDE;
+  --mp-text-muted:    #7A7C80;
+  --mp-border:        rgba(93, 88, 86, 0.38);
+  --mp-radius:        6px;
+  --mp-transition:    0.18s ease;
+}
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 1  CONTAINER — BACKGROUND & BORDER
+   Choose ONE option. Comment out all to use your theme default.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Dark translucent (recommended default) */
+.metadata-container {
+  background: rgba(14, 14, 14, 0.65) !important;
+  border: 1px solid var(--mp-border) !important;
+  border-radius: var(--mp-radius) !important;
+  padding: 10px 14px 6px !important;
+  margin-bottom: 20px !important;
+}
+
+/* OPTION B: Solid raised surface */
+/*
+.metadata-container {
+  background: var(--mp-bg-raised) !important;
+  border: 1px solid var(--mp-border) !important;
+  border-radius: var(--mp-radius) !important;
+  padding: 10px 14px !important;
+}
+*/
+
+/* OPTION C: Glassmorphism */
+/*
+.metadata-container {
+  background: rgba(255, 255, 255, 0.04) !important;
+  backdrop-filter: blur(14px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(14px) saturate(180%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.09) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 10px !important;
+  padding: 10px 14px !important;
+}
+*/
+
+/* OPTION D: Left accent-bar stripe, no background */
+/*
+.metadata-container {
+  background: transparent !important;
+  border: none !important;
+  border-left: 3px solid var(--mp-accent) !important;
+  border-radius: 0 !important;
+  padding: 6px 0 6px 14px !important;
+}
+*/
+
+/* OPTION E: Completely hidden — show nothing */
+/*
+.metadata-container {
+  display: none !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 2  CONTAINER — HOVER GLOW
+   Uncomment ONE, or comment both to disable any hover effect.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Soft accent ring on hover */
+.metadata-container:hover {
+  border-color: var(--mp-accent) !important;
+  box-shadow: 0 0 0 3px var(--mp-accent-dim) !important;
+  transition: border-color var(--mp-transition),
+              box-shadow var(--mp-transition) !important;
+}
+
+/* OPTION B: Elevating shadow on hover */
+/*
+.metadata-container:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+  transform: translateY(-1px) !important;
+  transition: box-shadow var(--mp-transition), transform var(--mp-transition) !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 3  PROPERTY ROWS — LAYOUT & DIVIDERS
+   Choose ONE row style.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Rounded hover highlight (default) */
+.metadata-property {
+  border-radius: 4px !important;
+  padding: 4px 6px !important;
+  transition: background-color var(--mp-transition) !important;
+}
+.metadata-property:hover {
+  background-color: var(--mp-accent-dim) !important;
+}
+
+/* OPTION B: Bottom-border divider */
+/*
+.metadata-property {
+  border-radius: 0 !important;
+  border-bottom: 1px solid var(--mp-border) !important;
+  padding: 7px 2px !important;
+  transition: background-color var(--mp-transition) !important;
+}
+.metadata-property:last-of-type {
+  border-bottom: none !important;
+}
+*/
+
+/* OPTION C: Card per row */
+/*
+.metadata-property {
+  background: var(--mp-bg) !important;
+  border: 1px solid var(--mp-border) !important;
+  border-radius: var(--mp-radius) !important;
+  margin: 3px 0 !important;
+  padding: 6px 10px !important;
+  transition: border-color var(--mp-transition),
+              box-shadow var(--mp-transition),
+              transform var(--mp-transition) !important;
+}
+.metadata-property:hover {
+  border-color: var(--mp-accent) !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35) !important;
+  transform: translateY(-1px) !important;
+}
+*/
+
+/* OPTION D: Zebra stripes */
+/*
+.metadata-property:nth-child(even) {
+  background: rgba(255, 255, 255, 0.025) !important;
+  border-radius: 3px !important;
+}
+.metadata-property:nth-child(odd) {
+  background: transparent !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 4  PROPERTY KEYS (LEFT COLUMN LABELS)
+   Choose ONE style.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Small muted uppercase (default) */
+.metadata-property-key-input,
+.metadata-property-key input {
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  color: var(--mp-text-muted) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+/* OPTION B: Monospace accent color */
+/*
+.metadata-property-key-input,
+.metadata-property-key input {
+  font-family: 'JetBrains Mono', 'Consolas', monospace !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  color: var(--mp-accent) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.4px !important;
+  background: transparent !important;
+  border: none !important;
+}
+*/
+
+/* OPTION C: Pill/badge with left bar */
+/*
+.metadata-property-key {
+  background: rgba(116, 111, 107, 0.1) !important;
+  border-left: 2px solid var(--mp-accent) !important;
+  border-radius: 3px !important;
+  padding: 1px 6px !important;
+  margin-right: 6px !important;
+}
+.metadata-property-key-input,
+.metadata-property-key input {
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  color: var(--mp-accent) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.4px !important;
+  background: transparent !important;
+  border: none !important;
+}
+*/
+
+/* OPTION D: Full-size bold label */
+/*
+.metadata-property-key {
+  min-width: 130px !important;
+  max-width: 130px !important;
+}
+.metadata-property-key-input,
+.metadata-property-key input {
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  color: var(--mp-text) !important;
+  background: transparent !important;
+  border: none !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 5  PROPERTY VALUES (INPUT FIELDS)
+   Choose ONE style.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Bordered box (default) */
+.metadata-input-longtext,
+.metadata-property-value input[type="text"],
+.metadata-property-value textarea {
+  background: var(--mp-bg) !important;
+  border: 1px solid var(--mp-border) !important;
+  border-radius: 4px !important;
+  color: var(--mp-text) !important;
+  font-size: 13px !important;
+  padding: 3px 8px !important;
+  transition: border-color var(--mp-transition),
+              box-shadow var(--mp-transition) !important;
+}
+.metadata-input-longtext:focus,
+.metadata-property-value input[type="text"]:focus,
+.metadata-property-value textarea:focus {
+  border-color: var(--mp-accent) !important;
+  box-shadow: 0 0 0 2px var(--mp-accent-dim) !important;
+  outline: none !important;
+}
+
+/* OPTION B: Underline only */
+/*
+.metadata-input-longtext,
+.metadata-property-value input[type="text"],
+.metadata-property-value textarea {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid var(--mp-border) !important;
+  border-radius: 0 !important;
+  color: var(--mp-text) !important;
+  font-size: 13px !important;
+  padding: 3px 0 !important;
+  transition: border-bottom-color var(--mp-transition) !important;
+}
+.metadata-input-longtext:focus,
+.metadata-property-value input[type="text"]:focus,
+.metadata-property-value textarea:focus {
+  border-bottom-color: var(--mp-accent) !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+*/
+
+/* OPTION C: Transparent ghost */
+/*
+.metadata-input-longtext,
+.metadata-property-value input[type="text"],
+.metadata-property-value textarea {
+  background: transparent !important;
+  border: none !important;
+  color: var(--mp-text) !important;
+  font-size: 13px !important;
+  padding: 2px 0 !important;
+}
+.metadata-input-longtext:focus,
+.metadata-property-value input[type="text"]:focus,
+.metadata-property-value textarea:focus {
+  background: var(--mp-accent-dim) !important;
+  border-radius: 3px !important;
+  padding: 2px 4px !important;
+  outline: none !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 6  TAG / MULTI-SELECT PILLS
+   Choose ONE style.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Outline pill (default) */
+.multi-select-pill {
+  background: transparent !important;
+  border: 1px solid var(--mp-accent) !important;
+  border-radius: 20px !important;
+  color: var(--mp-accent) !important;
+  font-size: 11px !important;
+  padding: 1px 8px !important;
+  transition: background var(--mp-transition) !important;
+}
+.multi-select-pill:hover {
+  background: var(--mp-accent-dim) !important;
+}
+
+/* OPTION B: Solid filled */
+/*
+.multi-select-pill {
+  background: var(--mp-accent) !important;
+  border: none !important;
+  border-radius: 20px !important;
+  color: #111111 !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  padding: 2px 10px !important;
+  transition: background var(--mp-transition) !important;
+}
+.multi-select-pill:hover {
+  background: var(--mp-accent-hover) !important;
+}
+*/
+
+/* OPTION C: Square badge */
+/*
+.multi-select-pill {
+  background: rgba(116, 111, 107, 0.12) !important;
+  border: none !important;
+  border-radius: 3px !important;
+  color: var(--mp-accent) !important;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+  padding: 2px 6px !important;
+  text-transform: uppercase !important;
+}
+*/
+
+/* OPTION D: No styling (raw) */
+/*
+.multi-select-pill {
+  all: unset !important;
+  font-size: 12px !important;
+  color: var(--mp-text) !important;
+  margin-right: 4px !important;
+}
+.multi-select-pill::before { content: "#" !important; }
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 7  SHOW / HIDE ELEMENTS
+   Each line is independent — uncomment any combination.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* Hide property type icons */
+/*
+.metadata-property-icon { display: none !important; }
+*/
+
+/* Hide "Add property" button */
+/*
+.metadata-add-button { display: none !important; }
+*/
+
+/* Hide "Properties" section header */
+/*
+.metadata-properties-heading { display: none !important; }
+*/
+
+/* Hide collapse arrow only */
+/*
+.metadata-properties-heading .collapse-indicator { display: none !important; }
+*/
+
+/* Fade panel until hovered */
+/*
+.metadata-container {
+  opacity: 0.25 !important;
+  transition: opacity var(--mp-transition) !important;
+}
+.metadata-container:hover {
+  opacity: 1 !important;
+}
+*/
+
+/* Hide metadata only in reading view */
+/*
+.markdown-reading-view .metadata-container { display: none !important; }
+*/
+
+/* Hide metadata only in live-preview */
+/*
+.markdown-source-view.is-live-preview .metadata-container { display: none !important; }
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 8  SECTION HEADER LABEL ("Properties" title)
+   Choose ONE.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Muted, tiny, uppercase */
+.metadata-properties-title {
+  font-size: 10px !important;
+  font-weight: 500 !important;
+  color: var(--mp-text-muted) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+}
+
+/* OPTION B: Accent colored */
+/*
+.metadata-properties-title {
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  color: var(--mp-accent) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.8px !important;
+}
+*/
+
+/* OPTION C: Custom text label via ::before (hides original text with clip trick) */
+/*
+.metadata-properties-title {
+  font-size: 0 !important;
+}
+.metadata-properties-title::before {
+  content: "Frontmatter" !important;
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  color: var(--mp-text-muted) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 9  ADD-PROPERTY BUTTON
+   Choose ONE.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* OPTION A: Dashed quiet (default) */
+.metadata-add-button {
+  border: 1px dashed var(--mp-border) !important;
+  border-radius: 4px !important;
+  color: var(--mp-text-muted) !important;
+  background: transparent !important;
+  padding: 5px !important;
+  width: 100% !important;
+  margin-top: 4px !important;
+  transition: border-color var(--mp-transition),
+              color var(--mp-transition) !important;
+}
+.metadata-add-button:hover {
+  border-color: var(--mp-accent) !important;
+  color: var(--mp-accent) !important;
+  background: var(--mp-accent-dim) !important;
+}
+
+/* OPTION B: Solid fill on hover */
+/*
+.metadata-add-button {
+  border: 1px solid var(--mp-border) !important;
+  border-radius: 4px !important;
+  color: var(--mp-text-muted) !important;
+  background: transparent !important;
+  width: 100% !important;
+  margin-top: 4px !important;
+  transition: all var(--mp-transition) !important;
+}
+.metadata-add-button:hover {
+  background: var(--mp-accent) !important;
+  color: #111 !important;
+  border-color: var(--mp-accent) !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 10  PROPERTY-SPECIFIC TARGETING
+   Target individual properties by their frontmatter key name.
+   Each block is independent — uncomment any combination.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* Highlight "status" key in gold */
+/*
+.metadata-property[data-property-key="status"] .metadata-property-key-input {
+  color: #719AFF !important;
+  font-weight: 700 !important;
+}
+*/
+
+/* Highlight "tags" key in purple */
+/*
+.metadata-property[data-property-key="tags"] .metadata-property-key-input {
+  color: #0088B5 !important;
+  font-weight: 600 !important;
+}
+*/
+
+/* Highlight "certainty" key in green */
+/*
+.metadata-property[data-property-key="certainty"] .metadata-property-key-input {
+  color: #8F94FF !important;
+  font-weight: 600 !important;
+}
+*/
+
+/* Mute date-tracking properties */
+/*
+.metadata-property[data-property-key="created"],
+.metadata-property[data-property-key="modified"] {
+  opacity: 0.4 !important;
+  font-size: 11px !important;
+}
+.metadata-property[data-property-key="created"]:hover,
+.metadata-property[data-property-key="modified"]:hover {
+  opacity: 0.85 !important;
+}
+*/
+
+/* Make "aliases" italic */
+/*
+.metadata-property[data-property-key="aliases"] .metadata-property-value {
+  font-style: italic !important;
+  color: var(--mp-text-muted) !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 11  FULL PRESET THEMES
+   Use ONE preset. Before enabling, comment out all §1–§10 active blocks
+   except the variables in §0.
+   ─────────────────────────────────────────────────────────────────── */
+
+/* PRESET: Minimal / Invisible edges */
+/*
+.metadata-container {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 0 8px 0 !important;
+}
+.metadata-property {
+  border-radius: 0 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+  padding: 5px 0 !important;
+}
+.metadata-property:last-of-type { border-bottom: none !important; }
+.metadata-properties-heading { display: none !important; }
+.metadata-add-button { display: none !important; }
+*/
+
+/* PRESET: Terminal */
+/*
+.metadata-container {
+  background: #000000 !important;
+  border: 1px solid #333 !important;
+  border-radius: 0 !important;
+  font-family: 'JetBrains Mono', 'Consolas', monospace !important;
+  padding: 10px 14px !important;
+}
+.metadata-container * { font-family: inherit !important; }
+.metadata-properties-title::before { content: "$ "; color: #555; }
+.metadata-properties-title { font-size: 0 !important; }
+.metadata-properties-title::before { font-size: 12px !important; }
+.metadata-property-key-input,
+.metadata-property-key input {
+  color: #67625F !important;
+  font-size: 12px !important;
+  text-transform: none !important;
+}
+.metadata-property:hover { background: rgba(255,255,255,0.04) !important; }
+*/
+
+/* PRESET: Neon Glow */
+/*
+.metadata-container {
+  background: #080808 !important;
+  border: 1px solid var(--mp-accent) !important;
+  border-radius: var(--mp-radius) !important;
+  box-shadow: 0 0 12px rgba(116, 111, 107, 0.25),
+              inset 0 0 30px rgba(116, 111, 107, 0.03) !important;
+}
+.metadata-container:hover {
+  box-shadow: 0 0 24px rgba(116, 111, 107, 0.4),
+              inset 0 0 30px rgba(116, 111, 107, 0.06) !important;
+}
+.metadata-properties-title {
+  color: var(--mp-accent) !important;
+  text-shadow: 0 0 8px var(--mp-accent) !important;
+  font-size: 10px !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+}
+.metadata-property-key-input,
+.metadata-property-key input {
+  color: var(--mp-accent) !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 11px !important;
+  text-transform: uppercase !important;
+  text-shadow: 0 0 4px var(--mp-accent-dim) !important;
+}
+*/
+
+/* PRESET: Glassmorphism */
+/*
+.metadata-container {
+  background: rgba(255, 255, 255, 0.04) !important;
+  backdrop-filter: blur(16px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(16px) saturate(180%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+}
+.metadata-property-key-input,
+.metadata-property-key input {
+  color: rgba(255, 255, 255, 0.55) !important;
+  font-size: 11px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.6px !important;
+  background: transparent !important;
+  border: none !important;
+}
+*/
+
+
+/* ───────────────────────────────────────────────────────────────────
+   § 12  ANIMATIONS (optional — disable on slow hardware)
+   Uncomment the entire block to enable.
+   ─────────────────────────────────────────────────────────────────── */
+/*
+@keyframes mp-fade-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.metadata-container {
+  animation: mp-fade-in 0.25s ease;
+}
+.metadata-property {
+  animation: mp-fade-in 0.2s ease;
+}
+.multi-select-pill {
+  animation: mp-fade-in 0.15s ease;
+}
+*/

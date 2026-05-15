@@ -10,7 +10,7 @@ preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
 - **Target hue:** 55.0°
-- **Chroma:** +5% from source
+- **Chroma:** preserved
 - **Lightness offset:** +0.00
 
 ## Installation

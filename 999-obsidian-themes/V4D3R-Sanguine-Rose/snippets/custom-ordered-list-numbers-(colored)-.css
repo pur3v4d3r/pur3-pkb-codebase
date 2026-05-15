@@ -52,7 +52,7 @@
 
 /* Level 1: Gold numbers */
 .cm-formatting-list-ol.cm-list-1 {
-    color: #f50080 !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
+    color: #df4f4e !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
     font-weight: 300 !important;
     font-size: 18 !important;
     position: relative !important;
@@ -68,7 +68,7 @@
 
 .cm-formatting-list-ol.cm-list-2::after {
     content: "->" !important; /* → Arrow */
-    color: #f50080 !important; /* Teal */
+    color: #df4f4e !important; /* Teal */
     font-weight: 300 !important;
     font-size: 18px !important;
     position: absolute !important;
@@ -86,7 +86,7 @@
 
 .cm-formatting-list-ol.cm-list-3::after {
     content: "-" !important; /* — Em dash */
-    color: #f50080 !important; /* Teal */
+    color: #df4f4e !important; /* Teal */
     font-weight: 300 !important;
     font-size: 18 !important;
     position: absolute !important;
@@ -142,7 +142,7 @@
     position: absolute !important;
     left: var(--ol-level1-left) !important;
     top: var(--ol-level1-top) !important;
-    color: #f50080 !important; /* Gold */
+    color: #df4f4e !important; /* Gold */
     font-weight: var(--ol-level1-weight) !important;
     font-size: var(--ol-level1-size) !important;
     padding-right: var(--ol-marker-spacing) !important;
@@ -156,7 +156,7 @@
 .markdown-rendered ol ol:not(ol ol ol) > li::before {
     content: "\2192 " !important; /* → Arrow */
     position: absolute !important;
-    color: #f50080 !important;
+    color: #df4f4e !important;
     left: var(--ol-level2-left) !important;
     top: var(--ol-level2-top) !important;
     font-weight: var(--ol-level2-weight) !important;
@@ -172,7 +172,7 @@
 .markdown-rendered ol ol ol:not(ol ol ol ol) > li::before {
     content: "\2014 " !important; /* — Em dash */
     position: absolute !important;
-    color: #f50080 !important;
+    color: #df4f4e !important;
     left: var(--ol-level3-left) !important;
     top: var(--ol-level3-top) !important;
     font-weight: var(--ol-level3-weight) !important;
@@ -188,7 +188,7 @@
 .markdown-rendered ol ol ol ol > li::before {
     content: "\002B " !important; /* + Plus */
     position: absolute !important;
-    color: #f50080 !important;
+    color: #df4f4e !important;
     left: var(--ol-level4-left) !important;
     top: var(--ol-level4-top) !important;
     font-weight: var(--ol-level4-weight) !important;

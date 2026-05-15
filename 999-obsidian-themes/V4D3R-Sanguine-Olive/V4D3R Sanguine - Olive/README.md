@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Olive
 
-> Olive accents
+> Olive green accents
 
 ## About
 
@@ -9,9 +9,9 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 105.0°
-- **Chroma:** -15% from source
-- **Lightness offset:** -0.02
+- **Target hue:** 110.0°
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

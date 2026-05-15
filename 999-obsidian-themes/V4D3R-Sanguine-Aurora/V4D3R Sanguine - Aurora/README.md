@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Aurora
 
-        > Teal/violet dual-tone
+        > Teal-to-violet dual-tone
 
         ## About
 

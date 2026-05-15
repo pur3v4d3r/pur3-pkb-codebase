@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Amber
 
-> Amber-gold accents
+> Warm amber accents
 
 ## About
 
@@ -10,7 +10,7 @@ preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
 - **Target hue:** 80.0°
-- **Chroma:** +10% from source
+- **Chroma:** preserved
 - **Lightness offset:** +0.00
 
 ## Installation

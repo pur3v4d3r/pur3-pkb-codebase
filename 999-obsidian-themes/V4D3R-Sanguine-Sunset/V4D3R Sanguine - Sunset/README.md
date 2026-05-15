@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Sunset
 
-        > Orange/rose dual-tone
+        > Rose-to-orange dual-tone
 
         ## About
 

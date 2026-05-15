@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CALLOUT MOD: Neon Text                                                      ║
+║  Neon glowing title text, bold, and italic — text-focused effects            ║
+║                                                                              ║
+║  REQUIRES: callout-base.css enabled                                          ║
+║  CONFLICTS: Other layout/effect mods (enable only ONE mod at a time)         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+/* --- Container: dark backdrop to maximize text glow contrast --- */
+.callout {
+  background: rgba(var(--co-bg), 0.97) !important;
+  border: 1px solid rgba(var(--callout-color), 0.15) !important;
+  border-left: 3px solid rgba(var(--callout-color), 0.5) !important;
+  border-radius: var(--co-radius) !important;
+  padding: 0 !important;
+  margin: 1.4em 0 !important;
+  overflow: hidden !important;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.4) !important;
+  transition:
+    box-shadow var(--co-speed) var(--co-ease),
+    border-color var(--co-speed) var(--co-ease) !important;
+}
+
+.callout:hover {
+  border-color: rgba(var(--callout-color), 0.35) !important;
+  border-left-color: rgb(var(--callout-color)) !important;
+  box-shadow:
+    0 4px 16px rgba(0, 0, 0, 0.5),
+    0 0 8px rgba(var(--callout-color), 0.1) !important;
+}
+
+/* --- Neon Glowing Title --- */
+.callout-title {
+  background: rgba(var(--callout-color), 0.05) !important;
+  padding: 12px 16px !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.1) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 700 !important;
+  text-shadow:
+    0 0 4px rgba(var(--callout-color), 0.6),
+    0 0 10px rgba(var(--callout-color), 0.3),
+    0 0 20px rgba(var(--callout-color), 0.15) !important;
+  transition:
+    text-shadow var(--co-speed) var(--co-ease) !important;
+}
+
+.callout:hover .callout-title {
+  text-shadow:
+    0 0 6px rgba(var(--callout-color), 0.8),
+    0 0 14px rgba(var(--callout-color), 0.5),
+    0 0 28px rgba(var(--callout-color), 0.25),
+    0 0 40px rgba(var(--callout-color), 0.1) !important;
+}
+
+/* --- Content area --- */
+.callout-content {
+  background: transparent !important;
+  padding: 14px 16px !important;
+  color: rgba(var(--co-text), 0.88) !important;
+}
+
+/* --- Neon Bold Text --- */
+.callout-content strong,
+.callout-content b {
+  color: rgb(var(--callout-color)) !important;
+  text-shadow:
+    0 0 3px rgba(var(--callout-color), 0.5),
+    0 0 8px rgba(var(--callout-color), 0.25) !important;
+  font-weight: 700 !important;
+}
+
+.callout:hover .callout-content strong,
+.callout:hover .callout-content b {
+  text-shadow:
+    0 0 5px rgba(var(--callout-color), 0.7),
+    0 0 12px rgba(var(--callout-color), 0.35),
+    0 0 22px rgba(var(--callout-color), 0.15) !important;
+}
+
+/* --- Neon Italic Text (dimmer glow) --- */
+.callout-content em,
+.callout-content i {
+  color: rgba(var(--callout-color), 0.8) !important;
+  text-shadow:
+    0 0 3px rgba(var(--callout-color), 0.3),
+    0 0 6px rgba(var(--callout-color), 0.1) !important;
+}
+
+/* --- Neon Links --- */
+.callout-content a {
+  color: rgb(var(--callout-color)) !important;
+  text-shadow: 0 0 4px rgba(var(--callout-color), 0.3) !important;
+  text-decoration: none !important;
+  border-bottom: 1px dashed rgba(var(--callout-color), 0.4) !important;
+}
+
+.callout-content a:hover {
+  text-shadow:
+    0 0 6px rgba(var(--callout-color), 0.6),
+    0 0 14px rgba(var(--callout-color), 0.3) !important;
+  border-bottom-color: rgb(var(--callout-color)) !important;
+}
+
+/* --- Icon with glow --- */
+.callout-icon {
+  filter: drop-shadow(0 0 4px rgba(var(--callout-color), 0.5)) !important;
+}
+
+/* --- No pseudo-elements needed --- */
+.callout::before,
+.callout::after { display: none !important; }
+
+/* --- Nested --- */
+.callout .callout {
+  border-left-width: 2px !important;
+}
+
+.callout .callout .callout-title {
+  text-shadow:
+    0 0 3px rgba(var(--callout-color), 0.4),
+    0 0 8px rgba(var(--callout-color), 0.2) !important;
+}

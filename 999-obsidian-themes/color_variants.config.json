@@ -1,0 +1,500 @@
+{
+  "vault_root": "D:\\10_pur3v4d3r's-vault",
+  "theme_source": ".obsidian\\themes\\V4D3R Sanguine",
+  "snippets_source": ".obsidian\\snippets",
+  "output_dir": "999-obsidian-themes",
+  "source_hue": null,
+  "sat_min": 0.1,
+  "hue_tolerance": 180.0,
+  "preserve_patterns": [
+    "--[\\w-]*-?(success|valid|positive)\\b",
+    "--[\\w-]*-?(warning|warn|caution)\\b",
+    "--[\\w-]*-?(error|danger|fail|invalid|negative)\\b",
+    "--[\\w-]*-?(info|notice)\\b"
+  ],
+  "schemes": [
+    {
+      "name": "Crimson",
+      "slug": "crimson",
+      "target_hue": 25.0,
+      "description": "Vivid crimson red accents",
+      "chroma_floor": 0.2,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Ruby",
+      "slug": "ruby",
+      "target_hue": 12.0,
+      "description": "Deep ruby red accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.45
+    },
+    {
+      "name": "Rose",
+      "slug": "rose",
+      "target_hue": 5.0,
+      "description": "Bright rose accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Pink",
+      "slug": "pink",
+      "target_hue": 355.0,
+      "description": "Hot pink accents",
+      "chroma_floor": 0.22,
+      "lightness_target": 0.65
+    },
+    {
+      "name": "Magenta",
+      "slug": "magenta",
+      "target_hue": 345.0,
+      "description": "Electric magenta accents",
+      "chroma_floor": 0.24,
+      "lightness_target": 0.58
+    },
+    {
+      "name": "Fuchsia",
+      "slug": "fuchsia",
+      "target_hue": 325.0,
+      "description": "Vivid fuchsia accents",
+      "chroma_floor": 0.22,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Purple",
+      "slug": "purple",
+      "target_hue": 305.0,
+      "description": "Royal purple accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.5
+    },
+    {
+      "name": "Violet",
+      "slug": "violet",
+      "target_hue": 285.0,
+      "description": "Deep violet accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Indigo",
+      "slug": "indigo",
+      "target_hue": 265.0,
+      "description": "Indigo accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.45
+    },
+    {
+      "name": "Blue",
+      "slug": "blue",
+      "target_hue": 250.0,
+      "description": "Vivid blue accents",
+      "chroma_floor": 0.2,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Sapphire",
+      "slug": "sapphire",
+      "target_hue": 235.0,
+      "description": "Deep sapphire accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.42
+    },
+    {
+      "name": "Sky",
+      "slug": "sky",
+      "target_hue": 220.0,
+      "description": "Bright sky-blue accents",
+      "chroma_floor": 0.16,
+      "lightness_target": 0.72
+    },
+    {
+      "name": "Cyan",
+      "slug": "cyan",
+      "target_hue": 205.0,
+      "description": "Bright cyan accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.65
+    },
+    {
+      "name": "Teal",
+      "slug": "teal",
+      "target_hue": 185.0,
+      "description": "Vibrant teal accents",
+      "chroma_floor": 0.16,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Mint",
+      "slug": "mint",
+      "target_hue": 165.0,
+      "description": "Cool mint accents",
+      "chroma_floor": 0.16,
+      "lightness_target": 0.78
+    },
+    {
+      "name": "Emerald",
+      "slug": "emerald",
+      "target_hue": 150.0,
+      "description": "Emerald green accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Green",
+      "slug": "green",
+      "target_hue": 140.0,
+      "description": "Pure vivid green accents",
+      "chroma_floor": 0.2,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Lime",
+      "slug": "lime",
+      "target_hue": 130.0,
+      "description": "Bright lime green accents",
+      "chroma_floor": 0.22,
+      "lightness_target": 0.78
+    },
+    {
+      "name": "Olive",
+      "slug": "olive",
+      "target_hue": 110.0,
+      "description": "Olive green accents",
+      "chroma_ceiling": 0.12,
+      "lightness_target": 0.45
+    },
+    {
+      "name": "Yellow",
+      "slug": "yellow",
+      "target_hue": 100.0,
+      "description": "Bright yellow accents",
+      "chroma_floor": 0.2,
+      "lightness_target": 0.85
+    },
+    {
+      "name": "Amber",
+      "slug": "amber",
+      "target_hue": 80.0,
+      "description": "Warm amber accents",
+      "chroma_floor": 0.18,
+      "lightness_target": 0.72
+    },
+    {
+      "name": "Gold",
+      "slug": "gold",
+      "target_hue": 75.0,
+      "description": "Rich gold accents",
+      "chroma_floor": 0.16,
+      "lightness_target": 0.7
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "target_hue": 55.0,
+      "description": "Warm orange accents",
+      "chroma_floor": 0.2,
+      "lightness_target": 0.65
+    },
+    {
+      "name": "Tangerine",
+      "slug": "tangerine",
+      "target_hue": 45.0,
+      "description": "Bright tangerine accents",
+      "chroma_floor": 0.22,
+      "lightness_target": 0.7
+    },
+    {
+      "name": "Pastel-Rose",
+      "slug": "pastel-rose",
+      "target_hue": 355.0,
+      "description": "Soft pastel rose",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.85
+    },
+    {
+      "name": "Pastel-Lavender",
+      "slug": "pastel-lavender",
+      "target_hue": 285.0,
+      "description": "Soft pastel lavender",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.82
+    },
+    {
+      "name": "Pastel-Sky",
+      "slug": "pastel-sky",
+      "target_hue": 220.0,
+      "description": "Soft pastel sky",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.85
+    },
+    {
+      "name": "Pastel-Mint",
+      "slug": "pastel-mint",
+      "target_hue": 165.0,
+      "description": "Soft pastel mint",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.85
+    },
+    {
+      "name": "Pastel-Butter",
+      "slug": "pastel-butter",
+      "target_hue": 95.0,
+      "description": "Soft pastel butter",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.88
+    },
+    {
+      "name": "Pastel-Peach",
+      "slug": "pastel-peach",
+      "target_hue": 45.0,
+      "description": "Soft pastel peach",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.82
+    },
+    {
+      "name": "Muted-Wine",
+      "slug": "muted-wine",
+      "target_hue": 12.0,
+      "description": "Deep muted wine",
+      "chroma_ceiling": 0.1,
+      "lightness_target": 0.35
+    },
+    {
+      "name": "Muted-Plum",
+      "slug": "muted-plum",
+      "target_hue": 305.0,
+      "description": "Deep muted plum",
+      "chroma_ceiling": 0.1,
+      "lightness_target": 0.38
+    },
+    {
+      "name": "Muted-Slate",
+      "slug": "muted-slate",
+      "target_hue": 235.0,
+      "description": "Slate-blue muted",
+      "chroma_ceiling": 0.08,
+      "lightness_target": 0.42
+    },
+    {
+      "name": "Muted-Forest",
+      "slug": "muted-forest",
+      "target_hue": 145.0,
+      "description": "Deep muted forest",
+      "chroma_ceiling": 0.1,
+      "lightness_target": 0.38
+    },
+    {
+      "name": "Muted-Bronze",
+      "slug": "muted-bronze",
+      "target_hue": 60.0,
+      "description": "Warm muted bronze",
+      "chroma_ceiling": 0.1,
+      "lightness_target": 0.45
+    },
+    {
+      "name": "Neon-Magenta",
+      "slug": "neon-magenta",
+      "target_hue": 340.0,
+      "description": "Pure neon magenta",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.32,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Neon-Pink",
+      "slug": "neon-pink",
+      "target_hue": 0.0,
+      "description": "Pure neon hot pink",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.3,
+      "lightness_target": 0.68
+    },
+    {
+      "name": "Neon-Purple",
+      "slug": "neon-purple",
+      "target_hue": 305.0,
+      "description": "Pure neon purple",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.3,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Neon-Blue",
+      "slug": "neon-blue",
+      "target_hue": 255.0,
+      "description": "Pure neon electric blue",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.32,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Neon-Cyan",
+      "slug": "neon-cyan",
+      "target_hue": 205.0,
+      "description": "Pure neon cyan",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.3,
+      "lightness_target": 0.78
+    },
+    {
+      "name": "Neon-Green",
+      "slug": "neon-green",
+      "target_hue": 145.0,
+      "description": "Pure neon green",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.32,
+      "lightness_target": 0.78
+    },
+    {
+      "name": "Neon-Lime",
+      "slug": "neon-lime",
+      "target_hue": 130.0,
+      "description": "Pure neon lime",
+      "chroma_mult": 1.5,
+      "chroma_floor": 0.34,
+      "lightness_target": 0.85
+    },
+    {
+      "name": "Neon-Yellow",
+      "slug": "neon-yellow",
+      "target_hue": 100.0,
+      "description": "Pure neon yellow",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.32,
+      "lightness_target": 0.92
+    },
+    {
+      "name": "Neon-Orange",
+      "slug": "neon-orange",
+      "target_hue": 55.0,
+      "description": "Pure neon orange",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.3,
+      "lightness_target": 0.72
+    },
+    {
+      "name": "Neon-Red",
+      "slug": "neon-red",
+      "target_hue": 25.0,
+      "description": "Pure neon crimson",
+      "chroma_mult": 1.4,
+      "chroma_floor": 0.32,
+      "lightness_target": 0.6
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "target_hue": 160.0,
+      "description": "Teal-to-violet dual-tone",
+      "secondary_hue": 305.0,
+      "chroma_floor": 0.18,
+      "lightness_target": 0.6
+    },
+    {
+      "name": "Sunset",
+      "slug": "sunset",
+      "target_hue": 55.0,
+      "description": "Rose-to-orange dual-tone",
+      "secondary_hue": 10.0,
+      "chroma_floor": 0.2,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Dusk",
+      "slug": "dusk",
+      "target_hue": 270.0,
+      "description": "Indigo-to-magenta dual-tone",
+      "secondary_hue": 345.0,
+      "chroma_floor": 0.18,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Ocean",
+      "slug": "ocean",
+      "target_hue": 205.0,
+      "description": "Cyan-to-blue dual-tone",
+      "secondary_hue": 240.0,
+      "chroma_floor": 0.18,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Forest",
+      "slug": "forest",
+      "target_hue": 145.0,
+      "description": "Green-to-yellow dual-tone",
+      "secondary_hue": 90.0,
+      "chroma_floor": 0.16,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Berry",
+      "slug": "berry",
+      "target_hue": 305.0,
+      "description": "Purple-to-magenta dual-tone",
+      "secondary_hue": 345.0,
+      "chroma_floor": 0.2,
+      "lightness_target": 0.55
+    },
+    {
+      "name": "Volcano",
+      "slug": "volcano",
+      "target_hue": 25.0,
+      "description": "Crimson-to-orange dual-tone",
+      "secondary_hue": 55.0,
+      "chroma_floor": 0.22,
+      "lightness_target": 0.58
+    },
+    {
+      "name": "Glacier",
+      "slug": "glacier",
+      "target_hue": 200.0,
+      "description": "Cyan-to-mint dual-tone",
+      "secondary_hue": 170.0,
+      "chroma_floor": 0.16,
+      "lightness_target": 0.72
+    },
+    {
+      "name": "Spectrum-Warm",
+      "slug": "spectrum-warm",
+      "target_hue": 50.0,
+      "description": "Red \u2192 orange \u2192 yellow gradient",
+      "secondary_hue": 15.0,
+      "tertiary_hue": 30.0,
+      "chroma_floor": 0.2,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Spectrum-Cool",
+      "slug": "spectrum-cool",
+      "target_hue": 200.0,
+      "description": "Indigo \u2192 blue \u2192 cyan gradient",
+      "secondary_hue": 265.0,
+      "tertiary_hue": 235.0,
+      "chroma_floor": 0.2,
+      "lightness_target": 0.6
+    },
+    {
+      "name": "Synthwave",
+      "slug": "synthwave",
+      "target_hue": 320.0,
+      "description": "Purple \u2192 magenta \u2192 hot pink neon gradient",
+      "secondary_hue": 275.0,
+      "tertiary_hue": 300.0,
+      "chroma_mult": 1.3,
+      "chroma_floor": 0.28,
+      "lightness_target": 0.62
+    },
+    {
+      "name": "Tropical",
+      "slug": "tropical",
+      "target_hue": 145.0,
+      "description": "Teal \u2192 green \u2192 yellow gradient",
+      "secondary_hue": 190.0,
+      "tertiary_hue": 165.0,
+      "chroma_floor": 0.2,
+      "lightness_target": 0.65
+    }
+  ]
+}

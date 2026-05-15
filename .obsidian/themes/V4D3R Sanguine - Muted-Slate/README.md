@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Muted-Slate
 
-> Muted slate-blue accents
+> Slate-blue muted
 
 ## About
 
@@ -9,9 +9,9 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 230.0°
-- **Chroma:** -40% from source
-- **Lightness offset:** -0.04
+- **Target hue:** 235.0°
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

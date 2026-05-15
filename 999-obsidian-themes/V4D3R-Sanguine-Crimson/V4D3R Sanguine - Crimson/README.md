@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Crimson
 
-> Crimson red accents
+> Vivid crimson red accents
 
 ## About
 

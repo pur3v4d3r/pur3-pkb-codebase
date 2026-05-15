@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Berry
 
-        > Purple/magenta dual-tone
+        > Purple-to-magenta dual-tone
 
         ## About
 

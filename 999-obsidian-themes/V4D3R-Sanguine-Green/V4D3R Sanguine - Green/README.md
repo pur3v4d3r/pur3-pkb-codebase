@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Green
 
-> Pure green accents
+> Pure vivid green accents
 
 ## About
 

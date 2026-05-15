@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Ocean
 
-        > Cyan/blue dual-tone
+        > Cyan-to-blue dual-tone
 
         ## About
 
@@ -9,7 +9,7 @@
         preserved; semantic colors (success/warn/error) are not rotated.
 
         - **Source hue:** 23.5°
-        - **Target hue:** 200.0°
+        - **Target hue:** 205.0°
 - **Secondary hue:** 240.0° (dual-tone)
         - **Chroma:** preserved
         - **Lightness offset:** +0.00

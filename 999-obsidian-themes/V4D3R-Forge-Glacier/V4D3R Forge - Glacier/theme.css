@@ -1,0 +1,1743 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+ * V4D3R FORGE THEME
+ * File: theme.css
+ * Version: 1.0.0
+ * Author: Pur3v4d3r
+ * License: MIT
+ * Min Obsidian: 1.5.0+
+ *
+ * Identity:
+ *   The third sibling to V4D3R Crimson (cyberpunk/glow) and V4D3R Sanguine
+ *   (editorial/manuscript). Forge is INDUSTRIAL BRUTALIST — slab geometry,
+ *   hammered-steel surfaces, matte oxide red, structural rules. JetBrains
+ *   Mono everywhere. Full-width canvas (no reading line-length cap).
+ *
+ * Aesthetic principles:
+ *   - SLAB headings: solid red background blocks, never glow, never serif.
+ *   - HAIRLINE rules: structure announced by 1px lines, never decoration.
+ *   - SHARP corners everywhere (radius 0–2px max).
+ *   - MONO-ONLY: JetBrains Mono / JetBrainsMono Nerd Font, no exceptions.
+ *   - FULL WIDTH: --vsf-reading-max-width is unset → fills the leaf.
+ *   - NO GLOW, NO DROP CAP, NO SMALL-CAPS. Industrial, not editorial.
+ *
+ * Targets:
+ *   - Live Preview: yes
+ *   - Reading View: yes
+ *   - Mobile: yes
+ *
+ * Variables introduced (all prefixed --vsf-* — override in your own snippet):
+ *   See PART 1 below for the full inventory.
+ *
+ * ───────────────────────────────────────────────────────────────────────────
+ * TABLE OF CONTENTS
+ * ───────────────────────────────────────────────────────────────────────────
+ *   PART 1:  Foundation Variables ...................... [VARS]
+ *   PART 2:  Base Typography ........................... [TYPE]
+ *   PART 3:  Reading Width & Text Formatting ........... [TEXT]
+ *   PART 4:  Workspace & Layout ........................ [LAYOUT]
+ *   PART 5:  Sidebars & Navigation ..................... [NAV]
+ *   PART 6:  Status Bar ................................ [STATUS]
+ *   PART 7:  Modals, Popovers, Notices ................. [MODALS]
+ *   PART 8:  Buttons & Interactive ..................... [BUTTONS]
+ *   PART 9:  Scrollbars ................................ [SCROLL]
+ *   PART 10: Search .................................... [SEARCH]
+ *   PART 11: Headings (Slab Blocks) .................... [HEADINGS]
+ *   PART 12: Inline Code (Tag Pills) ................... [INLINE]
+ *   PART 13: Code Blocks (Steel Plate) ................. [CODE]
+ *   PART 14: Links & Brackets .......................... [LINKS]
+ *   PART 15: Tables (Riveted Steel) .................... [TABLES]
+ *   PART 16: Lists (Geometric Markers) ................. [LISTS]
+ *   PART 17: HR, Embeds, Graph, Canvas ................. [MISC]
+ *   PART 18: Metadata & Tags ........................... [META]
+ *   PART 19: Callouts (Bracket Headers) ................ [CALLOUTS]
+ *   PART 20: Accessibility & Reduced Motion ............ [A11Y]
+ * ═══════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 1: FOUNDATION VARIABLES [VARS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- 1.1 Color Palette --- */
+
+.theme-dark,
+:root {
+  /* RED SPECTRUM — oxide/forge tones (matte, structural, never neon) */
+  --vsf-red-anvil:        #007360;   /* deepest — outer rules, danger */
+  --vsf-red-oxide:        #008A7E;   /* PRIMARY ACCENT — slab fills, headings */
+  --vsf-red-rust:         #009A96;   /* secondary — links, hover, italic */
+  --vsf-red-spark:        #00AAAE;   /* highlight — active states, drop targets */
+  --vsf-red-faded:        #008477;   /* muted — unresolved links, faint */
+  --vsf-red-ember:        #006D59;   /* inactive accent, deep shadow */
+
+  /* RED OPACITY VARIANTS */
+  --vsf-red-a08:          rgba(0, 138, 126, 0.08);
+  --vsf-red-a15:          rgba(0, 138, 126, 0.15);
+  --vsf-red-a25:          rgba(0, 138, 126, 0.25);
+  --vsf-red-a40:          rgba(0, 138, 126, 0.40);
+  --vsf-red-a60:          rgba(0, 138, 126, 0.60);
+
+  /* BLACK SPECTRUM — cool gunmetal layered (not flat) */
+  --vsf-black-pitch:      #050608;   /* deepest — titlebar, true-black anchors */
+  --vsf-black-onyx:       #0D0E11;   /* PRIMARY BACKGROUND */
+  --vsf-black-graphite:   #15171B;   /* secondary — sidebars, code bg */
+  --vsf-black-gunmetal:   #1D2026;   /* elevated — modals, hover surfaces */
+  --vsf-black-slate:      #11131680;  /* mid — split between onyx/graphite */
+
+  /* BLACK OPACITY VARIANTS */
+  --vsf-black-a30:        rgba(5, 6, 8, 0.30);
+  --vsf-black-a50:        rgba(5, 6, 8, 0.50);
+  --vsf-black-a70:        rgba(5, 6, 8, 0.70);
+  --vsf-black-a85:        rgba(5, 6, 8, 0.85);
+
+  /* GREY SPECTRUM — cool steel, neutral (no warm bias) */
+  --vsf-grey-iron:        #2A2E34;   /* darkest — borders, separators */
+  --vsf-grey-steel:       #3F454D;   /* inactive controls, dividers */
+  --vsf-grey-zinc:        #6B7280;   /* MUTED text */
+  --vsf-grey-nickel:      #A0A8B0;   /* NORMAL text — WCAG AAA on onyx */
+  --vsf-grey-silver:      #C8CFD6;   /* emphasis text */
+  --vsf-grey-platinum:    #E4E9EE;   /* maximum emphasis */
+
+  /* GREY OPACITY VARIANTS */
+  --vsf-grey-a10:         rgba(160, 168, 176, 0.10);
+  --vsf-grey-a20:         rgba(160, 168, 176, 0.20);
+  --vsf-grey-a40:         rgba(160, 168, 176, 0.40);
+}
+
+/* --- 1.2 Obsidian Native Variable Overrides --- */
+
+.theme-dark {
+  /* Backgrounds */
+  --background-primary:                         var(--vsf-black-onyx);
+  --background-primary-alt:                     var(--vsf-black-graphite);
+  --background-secondary:                       var(--vsf-black-graphite);
+  --background-secondary-alt:                   var(--vsf-black-gunmetal);
+  --background-modifier-border:                 var(--vsf-grey-iron);
+  --background-modifier-border-hover:           var(--vsf-red-faded);
+  --background-modifier-border-focus:           var(--vsf-red-oxide);
+  --background-modifier-form-field:             var(--vsf-black-graphite);
+  --background-modifier-form-field-highlighted: var(--vsf-black-gunmetal);
+  --background-modifier-box-shadow:             var(--vsf-black-a50);
+  --background-modifier-success:                var(--vsf-red-spark);
+  --background-modifier-error:                  var(--vsf-red-rust);
+  --background-modifier-error-hover:            var(--vsf-red-oxide);
+  --background-modifier-cover:                  var(--vsf-black-a85);
+  --background-modifier-hover:                  var(--vsf-grey-a10);
+  --background-modifier-active-hover:           var(--vsf-red-a15);
+
+  /* Text */
+  --text-normal:        var(--vsf-grey-nickel);
+  --text-muted:         var(--vsf-grey-zinc);
+  --text-faint:         var(--vsf-grey-steel);
+  --text-error:         var(--vsf-red-rust);
+  --text-accent:        var(--vsf-red-oxide);
+  --text-accent-hover:  var(--vsf-red-rust);
+  --text-selection:     var(--vsf-red-a25);
+  --text-on-accent:     var(--vsf-grey-platinum);
+  --text-highlight-bg:  var(--vsf-red-a15);
+  --text-highlight-bg-active: var(--vsf-red-a25);
+
+  /* Interactive */
+  --interactive-normal:        var(--vsf-black-gunmetal);
+  --interactive-hover:         var(--vsf-grey-iron);
+  --interactive-accent:        var(--vsf-red-oxide);
+  --interactive-accent-hover:  var(--vsf-red-rust);
+  --interactive-accent-rgb:    0, 138, 126;
+  --interactive-success:       var(--vsf-red-spark);
+
+  /* Scrollbars */
+  --scrollbar-bg:               var(--vsf-black-onyx);
+  --scrollbar-thumb-bg:         var(--vsf-grey-iron);
+  --scrollbar-active-thumb-bg:  var(--vsf-red-oxide);
+
+  /* Links */
+  --link-color:                       var(--vsf-red-oxide);
+  --link-color-hover:                 var(--vsf-red-rust);
+  --link-external-color:              var(--vsf-red-oxide);
+  --link-external-color-hover:        var(--vsf-red-rust);
+  --link-unresolved-color:            var(--vsf-red-faded);
+  --link-unresolved-opacity:          0.78;
+  --link-unresolved-decoration-style: dotted;
+  --link-unresolved-decoration-color: var(--vsf-red-faded);
+  --link-weight:                      inherit;
+  --link-decoration:                  underline;
+  --link-decoration-hover:            underline;
+  --link-decoration-thickness:        1px;
+
+  /* Selection & Caret */
+  --selection-color: var(--vsf-red-a40);
+  --caret-color:     var(--vsf-red-spark);
+}
+
+/* --- 1.3 Typography System (JetBrains Mono everywhere) --- */
+
+:root {
+  --vsf-font-mono: "JetBrains Mono", "JetBrainsMono Nerd Font", "JetBrains Mono NL",
+                   "Fira Code", Consolas, "Courier New", monospace;
+
+  /* All font slots route to mono */
+  --vsf-font-text:      var(--vsf-font-mono);
+  --vsf-font-ui:        var(--vsf-font-mono);
+  --vsf-font-heading:   var(--vsf-font-mono);
+
+  --font-text:        var(--vsf-font-mono);
+  --font-interface:   var(--vsf-font-mono);
+  --font-monospace:   var(--vsf-font-mono);
+  --font-editor:      var(--vsf-font-mono);
+
+  /* Weights */
+  --vsf-w-light:    300;
+  --vsf-w-normal:   400;
+  --vsf-w-medium:   500;
+  --vsf-w-semibold: 600;
+  --vsf-w-bold:     700;
+
+  /* Sizes — slightly tighter than serif themes (mono reads larger optically) */
+  --vsf-base-size:    15px;
+  --font-text-size:   var(--vsf-base-size);
+  --font-editor-size: var(--vsf-base-size);
+  --font-ui-small:    11px;
+  --font-ui-medium:   12px;
+  --font-ui-large:    14px;
+  --font-smallest:    10px;
+  --font-smaller:     11px;
+  --font-small:       12px;
+
+  /* Heading sizes — modest, structural */
+  --h1-size: 1.85em;
+  --h2-size: 1.45em;
+  --h3-size: 1.20em;
+  --h4-size: 1.05em;
+  --h5-size: 0.95em;
+  --h6-size: 0.88em;
+
+  --h1-weight: var(--vsf-w-bold);
+  --h2-weight: var(--vsf-w-semibold);
+  --h3-weight: var(--vsf-w-semibold);
+  --h4-weight: var(--vsf-w-medium);
+  --h5-weight: var(--vsf-w-medium);
+  --h6-weight: var(--vsf-w-normal);
+
+  /* Line heights — mono needs more breathing room */
+  --line-height-tight:   1.30;
+  --line-height-normal:  1.55;
+  --line-height-relaxed: 1.75;
+
+  --vsf-lh-ui:      var(--line-height-tight);
+  --vsf-lh-content: var(--line-height-normal);
+  --vsf-lh-code:    var(--line-height-tight);
+}
+
+/* --- 1.4 Spacing, Radius, Borders, Shadows --- */
+
+:root {
+  /* Spacing (4px base) */
+  --vsf-s-2xs: 2px;
+  --vsf-s-xs:  4px;
+  --vsf-s-sm:  8px;
+  --vsf-s-md:  14px;
+  --vsf-s-lg:  22px;
+  --vsf-s-xl:  32px;
+  --vsf-s-2xl: 48px;
+
+  /* Radius — brutalist, near-zero */
+  --vsf-r-none: 0;
+  --vsf-r-sm:   1px;
+  --vsf-r-md:   2px;
+  --vsf-r-lg:   3px;
+
+  --radius-s:  var(--vsf-r-sm);
+  --radius-m:  var(--vsf-r-md);
+  --radius-l:  var(--vsf-r-md);
+  --radius-xl: var(--vsf-r-lg);
+
+  /* Borders */
+  --vsf-b-hair: 1px;
+  --vsf-b-rule: 2px;
+  --vsf-b-bold: 3px;
+  --vsf-b-slab: 4px;
+
+  /* Shadows — true-black drops, no color glow */
+  --vsf-sh-sm: 0 1px 2px var(--vsf-black-a50);
+  --vsf-sh-md: 0 2px 8px var(--vsf-black-a50);
+  --vsf-sh-lg: 0 6px 20px var(--vsf-black-a70);
+  --vsf-sh-xl: 0 14px 44px var(--vsf-black-a85);
+
+  /* Transitions */
+  --vsf-t-fast:   100ms cubic-bezier(0.4, 0, 0.2, 1);
+  --vsf-t-normal: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --vsf-t-slow:   360ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* --- 1.5 Component Tokens --- */
+
+:root {
+  /* READING WIDTH — explicitly UNCAPPED per user spec.
+     The empty value collapses the max-width rule, leaving content to fill
+     the workspace leaf. Override here if you want a cap. */
+  --vsf-reading-max-width: none;
+  --file-line-width:       100%;
+
+  /* Headings */
+  --vsf-h-bar-width:    var(--vsf-b-slab);
+  --vsf-h-bar-color:    var(--vsf-red-oxide);
+  --vsf-h1-bg:          var(--vsf-red-oxide);
+  --vsf-h1-fg:          var(--vsf-grey-platinum);
+
+  /* Code */
+  --vsf-code-bg:        var(--vsf-black-graphite);
+  --vsf-code-fg:        var(--vsf-grey-silver);
+  --vsf-code-rule:      var(--vsf-red-oxide);
+  --vsf-code-rule-w:    var(--vsf-b-bold);
+
+  /* Callouts */
+  --vsf-callout-bg:     var(--vsf-black-graphite);
+  --vsf-callout-rule:   var(--vsf-red-oxide);
+  --vsf-callout-title:  var(--vsf-red-oxide);
+  --vsf-callout-body:   var(--vsf-grey-nickel);
+
+  /* Tables */
+  --vsf-table-head-bg:  var(--vsf-black-gunmetal);
+  --vsf-table-head-fg:  var(--vsf-red-oxide);
+  --vsf-table-zebra-bg: var(--vsf-black-slate);
+  --vsf-table-grid:     var(--vsf-grey-iron);
+
+  /* Tags */
+  --vsf-tag-bg:         var(--vsf-black-gunmetal);
+  --vsf-tag-fg:         var(--vsf-red-rust);
+  --vsf-tag-border:     var(--vsf-red-faded);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 2: BASE TYPOGRAPHY [TYPE]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+body {
+  font-family: var(--vsf-font-mono);
+  font-weight: var(--vsf-w-normal);
+  font-size:   var(--vsf-base-size);
+  line-height: var(--vsf-lh-content);
+  color:       var(--text-normal);
+  background-color: var(--background-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "calt" 1, "liga" 0, "ss01" 1;
+}
+
+.markdown-source-view,
+.markdown-source-view.mod-cm6,
+.cm-editor,
+.cm-content,
+.cm-scroller,
+.cm-line,
+.markdown-preview-view,
+.markdown-rendered,
+.workspace,
+.workspace-tab-header-inner,
+.titlebar,
+.status-bar,
+.menu,
+.suggestion-container,
+code, pre, .cm-inline-code, .HyperMD-codeblock {
+  font-family: var(--vsf-font-mono);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 3: READING WIDTH & TEXT FORMATTING [TEXT]
+   No reading-line-length cap. Content fills the leaf.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Disable Obsidian's "Readable line length" cap regardless of user setting */
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-sizer,
+.markdown-source-view.mod-cm6 .cm-content,
+.is-readable-line-width .markdown-preview-sizer,
+.is-readable-line-width .markdown-source-view.mod-cm6 .cm-sizer {
+  max-width: var(--vsf-reading-max-width) !important;
+  width: 100% !important;
+}
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: var(--vsf-s-lg);
+  padding-right: var(--vsf-s-lg);
+}
+
+/* Paragraphs */
+.markdown-reading-view p,
+.markdown-preview-view p {
+  text-align: left;
+  hyphens: none;
+}
+
+/* Bold — oxide red, semibold */
+strong, .cm-strong,
+.theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-reading-view strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong {
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-semibold);
+  text-transform: none;
+}
+
+/* Italic — rust */
+em, .cm-em,
+.theme-dark .markdown-preview-view em,
+.theme-dark .markdown-reading-view em,
+.theme-dark .markdown-source-view.mod-cm6 .cm-em {
+  font-style: italic;
+  color: var(--vsf-red-rust);
+}
+
+/* Highlight (==text==) */
+mark, .cm-highlight {
+  background-color: var(--vsf-red-a15);
+  color: var(--vsf-grey-silver);
+  padding: 0 3px;
+  border-bottom: 1px solid var(--vsf-red-faded);
+  border-radius: 0;
+}
+
+/* Strikethrough */
+del, s {
+  color: var(--vsf-grey-steel);
+  text-decoration-color: var(--vsf-red-faded);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--vsf-red-a40);
+  color: var(--vsf-grey-platinum);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 4: WORKSPACE & LAYOUT [LAYOUT]
+   Onyx canvas, hairline divisions, square leaves.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.workspace,
+.workspace-split.mod-root,
+.workspace-leaf,
+.workspace-leaf-content {
+  background-color: var(--vsf-black-onyx);
+}
+
+.workspace-leaf {
+  border-radius: 0;
+  margin: 0;
+  box-shadow: none;
+  border: none;
+}
+
+.workspace-split .workspace-leaf-resize-handle {
+  background-color: var(--vsf-grey-iron);
+  width: 1px;
+}
+
+/* Tab headers — square, structural */
+.workspace-tab-header {
+  background-color: var(--vsf-black-graphite);
+  border-radius: 0;
+  border-right: 1px solid var(--vsf-grey-iron);
+  color: var(--vsf-grey-zinc);
+  transition: var(--vsf-t-fast);
+}
+
+.workspace-tab-header:hover {
+  color: var(--vsf-grey-silver);
+  background-color: var(--vsf-black-gunmetal);
+}
+
+.workspace-tab-header.is-active {
+  color: var(--vsf-red-oxide);
+  background-color: var(--vsf-black-onyx);
+  border-bottom: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-semibold);
+}
+
+.workspace-tab-header-container {
+  background-color: var(--vsf-black-graphite);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+}
+
+/* Titlebar */
+.titlebar {
+  background-color: var(--vsf-black-pitch);
+  color: var(--vsf-grey-zinc);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+}
+
+.titlebar-text {
+  color: var(--vsf-grey-silver);
+  letter-spacing: 0.04em;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 5: SIDEBARS & NAVIGATION [NAV]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.workspace-ribbon,
+.side-dock-ribbon,
+.side-dock {
+  background-color: var(--vsf-black-pitch);
+  border-right: 1px solid var(--vsf-grey-iron);
+}
+
+.side-dock-ribbon-action,
+.workspace-ribbon-collapse-btn {
+  color: var(--vsf-grey-steel);
+  border-radius: var(--vsf-r-sm);
+  transition: var(--vsf-t-fast);
+}
+
+.side-dock-ribbon-action:hover {
+  color: var(--vsf-red-rust);
+  background-color: var(--vsf-grey-a10);
+}
+
+.side-dock-ribbon-action.is-active {
+  color: var(--vsf-red-oxide);
+  background-color: var(--vsf-red-a15);
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+}
+
+.view-header {
+  background-color: var(--vsf-black-graphite);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+}
+
+.view-header-title {
+  color: var(--vsf-grey-silver);
+  letter-spacing: 0.05em;
+  font-weight: var(--vsf-w-semibold);
+}
+
+/* File explorer — minimal, structural */
+.nav-folder-title,
+.nav-file-title {
+  color: var(--vsf-grey-nickel);
+  border-radius: 0;
+  padding: 3px var(--vsf-s-sm);
+  transition: var(--vsf-t-fast);
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  background-color: var(--vsf-grey-a10);
+  color: var(--vsf-grey-silver);
+}
+
+.nav-file-title.is-active,
+.nav-folder-title.is-active {
+  background-color: var(--vsf-red-a15);
+  color: var(--vsf-red-oxide);
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+  padding-left: calc(var(--vsf-s-sm) - var(--vsf-b-rule));
+  font-weight: var(--vsf-w-semibold);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 6: STATUS BAR [STATUS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.status-bar {
+  background-color: var(--vsf-black-pitch);
+  border-top: 1px solid var(--vsf-grey-iron);
+  color: var(--vsf-grey-zinc);
+  font-size: var(--font-smallest);
+  padding: 2px var(--vsf-s-md);
+}
+
+.status-bar-item {
+  color: var(--vsf-grey-zinc);
+  padding: 0 var(--vsf-s-sm);
+  border-right: 1px solid var(--vsf-grey-iron);
+  transition: var(--vsf-t-fast);
+}
+
+.status-bar-item:last-child { border-right: none; }
+.status-bar-item:hover { color: var(--vsf-red-rust); }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 7: MODALS, POPOVERS, NOTICES [MODALS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.modal-bg { background-color: var(--vsf-black-a85); }
+
+.modal {
+  background-color: var(--vsf-black-gunmetal);
+  border: 1px solid var(--vsf-grey-iron);
+  border-top: var(--vsf-b-bold) solid var(--vsf-red-oxide);
+  border-radius: var(--vsf-r-md);
+  box-shadow: var(--vsf-sh-xl);
+  color: var(--vsf-grey-silver);
+}
+
+.modal-title {
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-bold);
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid var(--vsf-grey-iron);
+  padding-bottom: var(--vsf-s-sm);
+}
+
+body.is-translucent .modal {
+  background-color: rgba(29, 32, 38, 0.85);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+}
+
+/* Suggestion / command palette */
+.suggestion-container,
+.prompt {
+  background-color: var(--vsf-black-gunmetal);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-md);
+  box-shadow: var(--vsf-sh-lg);
+}
+
+body.is-translucent .suggestion-container,
+body.is-translucent .prompt {
+  background-color: rgba(29, 32, 38, 0.88);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+}
+
+.suggestion-item {
+  color: var(--vsf-grey-nickel);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  border-radius: 0;
+  transition: var(--vsf-t-fast);
+}
+
+.suggestion-item.is-selected,
+.suggestion-item:hover {
+  background-color: var(--vsf-red-a15);
+  color: var(--vsf-grey-platinum);
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+  padding-left: calc(var(--vsf-s-md) - var(--vsf-b-rule));
+}
+
+.prompt-input {
+  background-color: var(--vsf-black-graphite);
+  border: 1px solid var(--vsf-grey-iron);
+  color: var(--vsf-grey-silver);
+}
+
+.prompt-input:focus {
+  border-color: var(--vsf-red-oxide);
+  outline: none;
+}
+
+/* Notices */
+.notice {
+  background-color: var(--vsf-black-gunmetal);
+  color: var(--vsf-grey-silver);
+  border-left: var(--vsf-b-bold) solid var(--vsf-red-oxide);
+  border-radius: var(--vsf-r-sm);
+  box-shadow: var(--vsf-sh-md);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+}
+
+/* Tooltips */
+.tooltip {
+  background-color: var(--vsf-black-pitch);
+  color: var(--vsf-grey-silver);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-sm);
+  font-size: var(--font-smaller);
+  padding: var(--vsf-s-xs) var(--vsf-s-sm);
+}
+
+/* Menu */
+.menu {
+  background-color: var(--vsf-black-gunmetal);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-md);
+  box-shadow: var(--vsf-sh-lg);
+}
+
+body.is-translucent .menu {
+  background-color: rgba(29, 32, 38, 0.88);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+}
+
+.menu-item {
+  color: var(--vsf-grey-nickel);
+  border-radius: 0;
+}
+
+.menu-item:hover,
+.menu-item.selected {
+  background-color: var(--vsf-red-a15);
+  color: var(--vsf-grey-platinum);
+}
+
+.menu-separator { background-color: var(--vsf-grey-iron); }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 8: BUTTONS & INTERACTIVE [BUTTONS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+button,
+.clickable-icon,
+input[type="button"],
+input[type="submit"] {
+  background-color: var(--vsf-black-gunmetal);
+  color: var(--vsf-grey-silver);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-sm);
+  font-family: var(--vsf-font-mono);
+  font-weight: var(--vsf-w-medium);
+  padding: var(--vsf-s-xs) var(--vsf-s-md);
+  transition: var(--vsf-t-fast);
+  cursor: pointer;
+  box-shadow: none;
+}
+
+button:hover,
+.clickable-icon:hover,
+input[type="button"]:hover {
+  background-color: var(--vsf-grey-iron);
+  border-color: var(--vsf-red-faded);
+  color: var(--vsf-grey-platinum);
+}
+
+button.mod-cta {
+  background-color: var(--vsf-red-oxide);
+  color: var(--vsf-grey-platinum);
+  border-color: var(--vsf-red-anvil);
+  letter-spacing: 0.04em;
+  font-weight: var(--vsf-w-semibold);
+}
+
+button.mod-cta:hover {
+  background-color: var(--vsf-red-rust);
+  border-color: var(--vsf-red-oxide);
+}
+
+button.mod-warning {
+  background-color: var(--vsf-red-rust);
+  color: var(--vsf-grey-platinum);
+  border-color: var(--vsf-red-anvil);
+}
+
+/* Form fields */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+textarea, select {
+  background-color: var(--vsf-black-graphite);
+  color: var(--vsf-grey-silver);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-sm);
+  font-family: var(--vsf-font-mono);
+  padding: var(--vsf-s-xs) var(--vsf-s-sm);
+  transition: var(--vsf-t-fast);
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: var(--vsf-red-oxide);
+  outline: none;
+  box-shadow: 0 0 0 1px var(--vsf-red-a25);
+}
+
+/* Checkboxes & toggles */
+.checkbox-container {
+  background-color: var(--vsf-black-gunmetal);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-sm);
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--vsf-red-oxide);
+  border-color: var(--vsf-red-anvil);
+}
+
+.checkbox-container.is-enabled::after {
+  background-color: var(--vsf-grey-platinum);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 9: SCROLLBARS [SCROLL]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: var(--vsf-black-onyx);
+}
+
+::-webkit-scrollbar-track    { background-color: var(--vsf-black-onyx); }
+::-webkit-scrollbar-thumb {
+  background-color: var(--vsf-grey-iron);
+  border-radius: 0;
+  border: 2px solid var(--vsf-black-onyx);
+}
+::-webkit-scrollbar-thumb:hover  { background-color: var(--vsf-red-faded); }
+::-webkit-scrollbar-thumb:active { background-color: var(--vsf-red-oxide); }
+::-webkit-scrollbar-corner       { background-color: var(--vsf-black-onyx); }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 10: SEARCH [SEARCH]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.search-input-container input {
+  background-color: var(--vsf-black-graphite);
+  color: var(--vsf-grey-silver);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-sm);
+}
+
+.search-input-container input:focus {
+  border-color: var(--vsf-red-oxide);
+}
+
+.search-result-file-title {
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-semibold);
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid var(--vsf-grey-iron);
+  padding-bottom: var(--vsf-s-xs);
+}
+
+.search-result-file-matched-text {
+  background-color: var(--vsf-red-a25);
+  color: var(--vsf-grey-platinum);
+  padding: 0 2px;
+  border-radius: 0;
+  border-bottom: 1px solid var(--vsf-red-oxide);
+}
+
+.search-result-file-match {
+  color: var(--vsf-grey-nickel);
+  border-left: 1px solid var(--vsf-grey-iron);
+  padding-left: var(--vsf-s-sm);
+  margin-left: var(--vsf-s-xs);
+  transition: var(--vsf-t-fast);
+}
+
+.search-result-file-match:hover {
+  border-left-color: var(--vsf-red-oxide);
+  background-color: var(--vsf-grey-a10);
+  color: var(--vsf-grey-silver);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 11: HEADINGS — SLAB BLOCKS [HEADINGS]
+   H1 = solid red slab, H2 = thick left bar + bottom rule, H3+ = bars decay.
+   No glow. No serif. No small-caps. Pure structural geometry.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- 11.1 Reading View --- */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  font-family: var(--vsf-font-mono);
+  letter-spacing: 0.01em;
+  line-height: var(--line-height-tight);
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+  text-transform: none;
+  text-shadow: none;
+  border: none;
+  padding: 0;
+}
+
+/* H1 — solid red slab with platinum text */
+.markdown-preview-view h1,
+.markdown-rendered h1 {
+  color: var(--vsf-h1-fg);
+  background-color: var(--vsf-h1-bg);
+  font-size: var(--h1-size);
+  font-weight: var(--h1-weight);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  border-left: var(--vsf-b-slab) solid var(--vsf-red-anvil);
+  margin-top: 0.6em;
+}
+
+/* H2 — thick oxide bar + hairline bottom */
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  color: var(--vsf-red-oxide);
+  font-size: var(--h2-size);
+  font-weight: var(--h2-weight);
+  border-left: var(--vsf-b-bold) solid var(--vsf-red-oxide);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+  padding-left: var(--vsf-s-md);
+  padding-bottom: 0.2em;
+}
+
+/* H3 — medium bar, rust */
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  color: var(--vsf-red-rust);
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-rust);
+  padding-left: var(--vsf-s-sm);
+}
+
+/* H4 — hairline bar, platinum */
+.markdown-preview-view h4,
+.markdown-rendered h4 {
+  color: var(--vsf-grey-platinum);
+  font-size: var(--h4-size);
+  font-weight: var(--h4-weight);
+  border-left: 1px solid var(--vsf-grey-steel);
+  padding-left: var(--vsf-s-sm);
+}
+
+/* H5 — silver, no bar */
+.markdown-preview-view h5,
+.markdown-rendered h5 {
+  color: var(--vsf-grey-silver);
+  font-size: var(--h5-size);
+  font-weight: var(--h5-weight);
+}
+
+/* H6 — zinc italic */
+.markdown-preview-view h6,
+.markdown-rendered h6 {
+  color: var(--vsf-grey-zinc);
+  font-size: var(--h6-size);
+  font-weight: var(--h6-weight);
+  font-style: italic;
+}
+
+/* --- 11.2 Live Preview parity --- */
+
+.cm-editor .HyperMD-header,
+.cm-editor .cm-header {
+  font-family: var(--vsf-font-mono);
+  letter-spacing: 0.01em;
+  line-height: var(--line-height-tight);
+  text-transform: none;
+  text-shadow: none;
+}
+
+.cm-editor .HyperMD-header-1 {
+  color: var(--vsf-h1-fg);
+  background-color: var(--vsf-h1-bg);
+  font-size: var(--h1-size);
+  font-weight: var(--h1-weight);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  border-left: var(--vsf-b-slab) solid var(--vsf-red-anvil);
+}
+
+.cm-editor .HyperMD-header-2 {
+  color: var(--vsf-red-oxide);
+  font-size: var(--h2-size);
+  font-weight: var(--h2-weight);
+  border-left: var(--vsf-b-bold) solid var(--vsf-red-oxide);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+  padding-left: var(--vsf-s-md);
+  padding-bottom: 0.2em;
+}
+
+.cm-editor .HyperMD-header-3 {
+  color: var(--vsf-red-rust);
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-rust);
+  padding-left: var(--vsf-s-sm);
+}
+
+.cm-editor .HyperMD-header-4 {
+  color: var(--vsf-grey-platinum);
+  font-size: var(--h4-size);
+  font-weight: var(--h4-weight);
+  border-left: 1px solid var(--vsf-grey-steel);
+  padding-left: var(--vsf-s-sm);
+}
+
+.cm-editor .HyperMD-header-5 {
+  color: var(--vsf-grey-silver);
+  font-size: var(--h5-size);
+  font-weight: var(--h5-weight);
+}
+
+.cm-editor .HyperMD-header-6 {
+  color: var(--vsf-grey-zinc);
+  font-size: var(--h6-size);
+  font-weight: var(--h6-weight);
+  font-style: italic;
+}
+
+/* Markdown formatting marks (#) */
+.cm-editor .cm-formatting-header {
+  color: var(--vsf-grey-steel);
+  font-weight: var(--vsf-w-light);
+  opacity: 0.6;
+}
+
+/* Inline title (filename H1) — same slab treatment */
+.inline-title {
+  font-family: var(--vsf-font-mono);
+  letter-spacing: 0.01em;
+  color: var(--vsf-h1-fg);
+  background-color: var(--vsf-h1-bg);
+  font-weight: var(--vsf-w-bold);
+  font-size: 2.0em;
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  border-left: var(--vsf-b-slab) solid var(--vsf-red-anvil);
+  margin-bottom: var(--vsf-s-md);
+  display: inline-block;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 12: INLINE CODE — TAG PILLS [INLINE]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view code,
+.markdown-rendered code,
+.cm-editor .cm-inline-code,
+code:not(pre code) {
+  font-family: var(--vsf-font-mono);
+  color: var(--vsf-red-oxide);
+  background-color: var(--vsf-red-a08);
+  border: 1px solid var(--vsf-red-faded);
+  border-radius: var(--vsf-r-sm);
+  padding: 1px 5px;
+  font-size: 0.92em;
+  font-weight: var(--vsf-w-medium);
+  text-transform: none;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 13: CODE BLOCKS — STEEL PLATE [CODE]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre,
+.markdown-rendered pre,
+.cm-editor .HyperMD-codeblock,
+pre {
+  background-color: var(--vsf-code-bg);
+  color: var(--vsf-code-fg);
+  border: 1px solid var(--vsf-grey-iron);
+  border-left: var(--vsf-code-rule-w) solid var(--vsf-code-rule);
+  border-radius: 0;
+  padding: var(--vsf-s-md) var(--vsf-s-lg);
+  margin: var(--vsf-s-md) 0;
+  font-family: var(--vsf-font-mono);
+  font-size: 0.92em;
+  line-height: var(--vsf-lh-code);
+  overflow-x: auto;
+  position: relative;
+  box-shadow: none;
+  background-image: none;
+}
+
+.markdown-preview-view pre code,
+.markdown-rendered pre code {
+  background: transparent;
+  border: none;
+  color: inherit;
+  padding: 0;
+  text-transform: none;
+  font-weight: var(--vsf-w-normal);
+}
+
+/* Live Preview code block backdrop */
+.cm-editor .HyperMD-codeblock-bg { background-color: var(--vsf-code-bg); }
+
+.cm-editor .HyperMD-codeblock-begin,
+.cm-editor .HyperMD-codeblock-end {
+  border-left: var(--vsf-code-rule-w) solid var(--vsf-code-rule);
+  background-color: var(--vsf-code-bg);
+}
+
+/* Syntax — restrained, structural */
+.token.comment, .cm-comment      { color: var(--vsf-grey-steel); font-style: italic; }
+.token.keyword, .cm-keyword      { color: var(--vsf-red-oxide);  font-weight: var(--vsf-w-semibold); }
+.token.string,  .cm-string       { color: var(--vsf-red-spark); }
+.token.number,  .cm-number       { color: var(--vsf-red-rust); }
+.token.function,
+.cm-def, .cm-variable-2          { color: var(--vsf-grey-silver); }
+.token.operator, .cm-operator    { color: var(--vsf-grey-zinc); }
+.token.punctuation, .cm-punctuation { color: var(--vsf-grey-steel); }
+.token.tag, .cm-tag              { color: var(--vsf-red-rust); }
+.token.attr-name, .cm-attribute  { color: var(--vsf-red-spark); font-style: italic; }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 14: LINKS & BRACKETS [LINKS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Wiki-link formatting marks */
+.cm-editor .cm-formatting-link,
+.cm-editor .cm-formatting-link-string,
+.cm-editor .cm-hmd-internal-link {
+  color: var(--vsf-red-faded);
+  opacity: 0.7;
+}
+
+/* Internal links */
+.internal-link,
+.cm-editor .cm-link,
+.cm-editor .cm-hmd-internal-link {
+  color: var(--vsf-red-oxide);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--vsf-red-faded);
+  text-underline-offset: 2px;
+  font-weight: var(--vsf-w-medium);
+  text-shadow: none;
+}
+
+.internal-link:hover {
+  color: var(--vsf-red-rust);
+  text-decoration-color: var(--vsf-red-rust);
+  background-color: var(--vsf-red-a08);
+}
+
+.internal-link.is-unresolved {
+  color: var(--vsf-red-faded);
+  text-decoration-style: dotted;
+  opacity: var(--link-unresolved-opacity);
+}
+
+/* Reading-mode link enforcement (parity across plugins) */
+.markdown-reading-view a.internal-link,
+.markdown-preview-view a.internal-link,
+.markdown-rendered a.internal-link {
+  color: var(--link-color);
+}
+.markdown-reading-view a.internal-link:hover,
+.markdown-preview-view a.internal-link:hover,
+.markdown-rendered a.internal-link:hover {
+  color: var(--link-color-hover);
+}
+
+/* External links */
+.external-link {
+  color: var(--vsf-red-oxide);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--vsf-red-faded);
+  text-underline-offset: 2px;
+  background-image: none;
+  padding-right: 0;
+}
+
+.external-link::after {
+  content: " ↗";
+  font-size: 0.78em;
+  color: var(--vsf-red-faded);
+  vertical-align: super;
+}
+
+.external-link:hover {
+  color: var(--vsf-red-rust);
+  text-decoration-color: var(--vsf-red-rust);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 15: TABLES — RIVETED STEEL [TABLES]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-rendered table,
+.markdown-preview-view table,
+table {
+  border-collapse: collapse;
+  border: 1px solid var(--vsf-table-grid);
+  background-color: var(--vsf-black-onyx);
+  margin: var(--vsf-s-md) 0;
+  width: auto;
+  max-width: 100%;
+  font-family: var(--vsf-font-mono);
+  font-size: 0.92em;
+}
+
+.markdown-rendered table th,
+.markdown-preview-view table th,
+table th {
+  background-color: var(--vsf-table-head-bg);
+  color: var(--vsf-table-head-fg);
+  border: 1px solid var(--vsf-table-grid);
+  border-bottom: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  letter-spacing: 0.04em;
+  font-weight: var(--vsf-w-bold);
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+
+.markdown-rendered table td,
+.markdown-preview-view table td,
+table td {
+  border: 1px solid var(--vsf-table-grid);
+  padding: var(--vsf-s-sm) var(--vsf-s-md);
+  color: var(--vsf-grey-nickel);
+  vertical-align: top;
+}
+
+/* Zebra */
+.markdown-rendered table tbody tr:nth-child(even),
+.markdown-preview-view table tbody tr:nth-child(even) {
+  background-color: var(--vsf-table-zebra-bg);
+}
+
+.markdown-rendered table tbody tr:hover,
+.markdown-preview-view table tbody tr:hover {
+  background-color: var(--vsf-red-a08);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 16: LISTS — GEOMETRIC MARKERS [LISTS]
+   ▸ ▹ › — chevron decay through nesting
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view ul,
+.markdown-rendered ul {
+  list-style: none;
+  padding-left: var(--vsf-s-lg);
+}
+
+.markdown-preview-view ul > li,
+.markdown-rendered ul > li {
+  position: relative;
+  padding-left: var(--vsf-s-md);
+  margin-bottom: 0.25em;
+}
+
+.markdown-preview-view ul > li::before,
+.markdown-rendered ul > li::before {
+  content: "▸";
+  position: absolute;
+  left: -2px;
+  top: 0;
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-bold);
+  font-size: 0.95em;
+}
+
+.markdown-preview-view ul ul > li::before,
+.markdown-rendered ul ul > li::before {
+  content: "▹";
+  color: var(--vsf-red-rust);
+  font-size: 0.85em;
+}
+
+.markdown-preview-view ul ul ul > li::before,
+.markdown-rendered ul ul ul > li::before {
+  content: "›";
+  color: var(--vsf-red-spark);
+  font-size: 1.0em;
+}
+
+/* Ordered lists — counter with red accent */
+.markdown-preview-view ol,
+.markdown-rendered ol {
+  list-style: none;
+  counter-reset: vsf-ol;
+  padding-left: var(--vsf-s-lg);
+}
+
+.markdown-preview-view ol > li,
+.markdown-rendered ol > li {
+  position: relative;
+  counter-increment: vsf-ol;
+  padding-left: var(--vsf-s-md);
+  margin-bottom: 0.25em;
+}
+
+.markdown-preview-view ol > li::before,
+.markdown-rendered ol > li::before {
+  content: counter(vsf-ol) ".";
+  position: absolute;
+  left: -8px;
+  top: 0;
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-bold);
+  min-width: 18px;
+  text-align: right;
+}
+
+/* Live Preview list marker tinting */
+.cm-editor .cm-formatting-list,
+.cm-editor .cm-list-1,
+.cm-editor .cm-list-2,
+.cm-editor .cm-list-3 {
+  color: var(--vsf-red-oxide);
+  font-weight: var(--vsf-w-semibold);
+}
+
+/* Task checkboxes — square, slab style */
+.markdown-rendered input[type="checkbox"],
+.markdown-preview-view input[type="checkbox"],
+.contains-task-list input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid var(--vsf-grey-steel);
+  border-radius: 0;
+  background-color: var(--vsf-black-graphite);
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  margin-right: var(--vsf-s-sm);
+  transition: var(--vsf-t-fast);
+}
+
+.markdown-rendered input[type="checkbox"]:hover,
+.markdown-preview-view input[type="checkbox"]:hover {
+  border-color: var(--vsf-red-rust);
+}
+
+.markdown-rendered input[type="checkbox"]:checked,
+.markdown-preview-view input[type="checkbox"]:checked {
+  background-color: var(--vsf-red-oxide);
+  border-color: var(--vsf-red-anvil);
+}
+
+.markdown-rendered input[type="checkbox"]:checked::after,
+.markdown-preview-view input[type="checkbox"]:checked::after {
+  content: "✓";
+  position: absolute;
+  top: -3px;
+  left: 1px;
+  font-size: 11px;
+  color: var(--vsf-grey-platinum);
+  font-weight: var(--vsf-w-bold);
+}
+
+.task-list-item-checkbox:checked + span,
+.task-list-item.is-checked {
+  color: var(--vsf-grey-steel);
+  text-decoration: line-through;
+  text-decoration-color: var(--vsf-red-faded);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 17: HR, EMBEDS, GRAPH, CANVAS [MISC]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* HR — slab divider */
+.markdown-preview-view hr,
+.markdown-rendered hr,
+hr {
+  border: none;
+  height: 2px;
+  background-color: var(--vsf-grey-iron);
+  margin: var(--vsf-s-xl) 0;
+  position: relative;
+}
+
+.markdown-preview-view hr::after,
+.markdown-rendered hr::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40px;
+  height: 2px;
+  background-color: var(--vsf-red-oxide);
+}
+
+/* Graph view */
+.graph-view.color-fill            { color: var(--vsf-grey-zinc); }
+.graph-view.color-fill-tag        { color: var(--vsf-red-spark); }
+.graph-view.color-fill-attachment { color: var(--vsf-grey-steel); }
+.graph-view.color-fill-unresolved { color: var(--vsf-red-faded); }
+.graph-view.color-fill-focused    { color: var(--vsf-red-oxide); }
+.graph-view.color-fill-highlight  { color: var(--vsf-red-rust); }
+.graph-view.color-arrow           { color: var(--vsf-grey-steel); }
+.graph-view.color-circle          { color: var(--vsf-red-oxide); }
+.graph-view.color-line            { color: var(--vsf-grey-iron); }
+.graph-view.color-text            { color: var(--vsf-grey-nickel); }
+
+/* Canvas */
+.canvas-node {
+  background-color: var(--vsf-black-graphite);
+  border: 1px solid var(--vsf-grey-iron);
+  border-radius: var(--vsf-r-md);
+  box-shadow: var(--vsf-sh-md);
+  color: var(--vsf-grey-silver);
+}
+
+.canvas-node.is-focused,
+.canvas-node:hover {
+  border-color: var(--vsf-red-oxide);
+  box-shadow: var(--vsf-sh-lg);
+}
+
+/* Embeds */
+.markdown-embed {
+  border-left: var(--vsf-b-rule) solid var(--vsf-red-faded);
+  padding-left: var(--vsf-s-md);
+  background-color: var(--vsf-black-slate);
+  border-radius: 0;
+}
+
+.markdown-embed-title {
+  color: var(--vsf-red-rust);
+  letter-spacing: 0.03em;
+  font-weight: var(--vsf-w-semibold);
+  border-bottom: 1px solid var(--vsf-grey-iron);
+  padding-bottom: 2px;
+  margin-bottom: var(--vsf-s-xs);
+}
+
+/* Blockquote — slab with red rule */
+.markdown-preview-view blockquote,
+.markdown-rendered blockquote,
+blockquote {
+  background-color: var(--vsf-black-slate);
+  border: none;
+  border-left: var(--vsf-b-bold) solid var(--vsf-red-faded);
+  border-radius: 0;
+  padding: var(--vsf-s-sm) var(--vsf-s-lg);
+  margin: var(--vsf-s-md) 0;
+  color: var(--vsf-grey-silver);
+  font-style: italic;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 18: METADATA & TAGS [META]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.metadata-container {
+  background-color: var(--vsf-black-slate);
+  border: 1px solid var(--vsf-grey-iron);
+  border-left: var(--vsf-b-bold) solid var(--vsf-red-faded);
+  border-radius: 0;
+  padding: var(--vsf-s-md) var(--vsf-s-lg);
+  margin-bottom: var(--vsf-s-md);
+  font-size: 0.9em;
+}
+
+.metadata-property-key {
+  color: var(--vsf-red-rust);
+  letter-spacing: 0.03em;
+  font-weight: var(--vsf-w-semibold);
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+
+.metadata-property-value,
+.metadata-input-longtext,
+.metadata-input-text {
+  color: var(--vsf-grey-silver);
+  font-family: var(--vsf-font-mono);
+}
+
+/* Tag pills — square slab */
+.tag, a.tag {
+  background-color: var(--vsf-tag-bg);
+  color: var(--vsf-tag-fg);
+  border: 1px solid var(--vsf-tag-border);
+  border-radius: var(--vsf-r-sm);
+  padding: 1px var(--vsf-s-sm);
+  font-family: var(--vsf-font-mono);
+  font-size: 0.82em;
+  font-weight: var(--vsf-w-medium);
+  text-decoration: none;
+  margin: 0 1px;
+  transition: var(--vsf-t-fast);
+}
+
+.tag:hover, a.tag:hover {
+  background-color: var(--vsf-red-a15);
+  color: var(--vsf-red-oxide);
+  border-color: var(--vsf-red-oxide);
+  text-decoration: none;
+}
+
+/* Frontmatter raw */
+.cm-editor .HyperMD-frontmatter {
+  font-family: var(--vsf-font-mono);
+  font-size: 0.9em;
+  color: var(--vsf-grey-zinc);
+  background-color: var(--vsf-black-slate);
+}
+
+.cm-editor .HyperMD-frontmatter .cm-hmd-frontmatter {
+  color: var(--vsf-red-rust);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 19: CALLOUTS — BRACKET HEADERS [CALLOUTS]
+   Title is a square chip with [TYPE] visual, body in slate panel,
+   3px oxide left rule. Per-type rule color shifts.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- 19.1 Base --- */
+
+.callout {
+  background-color: var(--vsf-callout-bg);
+  border: 1px solid var(--vsf-grey-iron);
+  border-left: var(--vsf-b-bold) solid var(--vsf-callout-rule);
+  border-radius: 0;
+  padding: var(--vsf-s-md) var(--vsf-s-lg);
+  margin: var(--vsf-s-lg) 0;
+  position: relative;
+  box-shadow: var(--vsf-sh-sm);
+  --callout-color: var(--vsf-callout-rule);
+  --callout-icon: lucide-square;
+  overflow: hidden;
+}
+
+.callout-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vsf-s-sm);
+  font-family: var(--vsf-font-mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--vsf-callout-title);
+  font-weight: var(--vsf-w-bold);
+  font-size: 0.82em;
+  padding: 3px 8px;
+  margin: 0 0 var(--vsf-s-sm) 0;
+  background: var(--vsf-black-onyx);
+  border: 1px solid var(--vsf-callout-rule);
+  border-radius: var(--vsf-r-sm);
+  line-height: 1.3;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 100%;
+}
+
+.callout-title-inner {
+  color: inherit;
+  font-weight: inherit;
+}
+
+.callout-title-inner::before { content: "[ "; opacity: 0.7; }
+.callout-title-inner::after  { content: " ]"; opacity: 0.7; }
+
+.callout-icon {
+  position: static;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  background: transparent;
+  color: var(--vsf-callout-rule);
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+  top: auto;
+  left: auto;
+}
+
+.callout-icon svg {
+  width: 13px;
+  height: 13px;
+  color: inherit;
+  stroke: currentColor;
+}
+
+.callout-content {
+  color: var(--vsf-callout-body);
+  font-family: var(--vsf-font-mono);
+  font-size: 0.94em;
+  line-height: var(--vsf-lh-content);
+  padding: 0;
+  margin: 0;
+}
+
+.callout-content > p { margin: 0.4em 0; }
+.callout-content > p:first-child { margin-top: 0; }
+.callout-content > p:last-child  { margin-bottom: 0; }
+
+.callout-fold {
+  color: var(--vsf-grey-steel);
+  margin-left: var(--vsf-s-xs);
+  flex-shrink: 0;
+}
+
+/* --- 19.2 Per-type color shifts --- */
+
+/* note (default) — oxide */
+.callout[data-callout="note"] {
+  --vsf-callout-rule:  var(--vsf-red-oxide);
+  --vsf-callout-title: var(--vsf-red-oxide);
+}
+
+/* abstract / summary / tldr — rust */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --vsf-callout-rule:  var(--vsf-red-rust);
+  --vsf-callout-title: var(--vsf-red-rust);
+}
+
+/* info / todo — neutral steel */
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  --vsf-callout-rule:  var(--vsf-grey-zinc);
+  --vsf-callout-title: var(--vsf-grey-silver);
+}
+
+/* tip / hint / important — spark */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --vsf-callout-rule:  var(--vsf-red-spark);
+  --vsf-callout-title: var(--vsf-red-spark);
+}
+
+/* success / check / done — spark */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --vsf-callout-rule:  var(--vsf-red-spark);
+  --vsf-callout-title: var(--vsf-red-spark);
+}
+
+/* question / help / faq — rust italic */
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  --vsf-callout-rule:  var(--vsf-red-rust);
+  --vsf-callout-title: var(--vsf-red-rust);
+}
+.callout[data-callout="question"] .callout-title,
+.callout[data-callout="help"] .callout-title,
+.callout[data-callout="faq"] .callout-title {
+  font-style: italic;
+}
+
+/* warning / caution / attention — oxide */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --vsf-callout-rule:  var(--vsf-red-oxide);
+  --vsf-callout-title: var(--vsf-red-oxide);
+}
+
+/* failure / fail / missing — anvil */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --vsf-callout-rule:  var(--vsf-red-anvil);
+  --vsf-callout-title: var(--vsf-red-anvil);
+}
+
+/* danger / error — anvil with deeper shadow */
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --vsf-callout-rule:  var(--vsf-red-anvil);
+  --vsf-callout-title: var(--vsf-red-anvil);
+  box-shadow: var(--vsf-sh-md);
+}
+
+/* bug — rust */
+.callout[data-callout="bug"] {
+  --vsf-callout-rule:  var(--vsf-red-rust);
+  --vsf-callout-title: var(--vsf-red-rust);
+}
+
+/* example — neutral */
+.callout[data-callout="example"] {
+  --vsf-callout-rule:  var(--vsf-grey-zinc);
+  --vsf-callout-title: var(--vsf-grey-silver);
+}
+
+/* quote / cite — italic, faded */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --vsf-callout-rule:  var(--vsf-red-faded);
+  --vsf-callout-title: var(--vsf-grey-silver);
+  font-style: italic;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 20: ACCESSIBILITY & RESPONSIVE [A11Y]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Focus rings */
+:focus-visible {
+  outline: var(--vsf-b-rule) solid var(--vsf-red-oxide);
+  outline-offset: 2px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Increased contrast */
+@media (prefers-contrast: more) {
+  .theme-dark {
+    --text-normal: var(--vsf-grey-platinum);
+    --text-muted:  var(--vsf-grey-silver);
+    --background-modifier-border: var(--vsf-grey-zinc);
+  }
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .cm-editor .HyperMD-header-1 {
+    border-left-width: 6px;
+  }
+  .callout { border-left-width: 5px; }
+}
+
+/* Mobile */
+body.is-mobile {
+  --vsf-base-size: 14px;
+}
+
+body.is-mobile .callout { padding: var(--vsf-s-md); }
+
+body.is-mobile button,
+body.is-mobile .clickable-icon {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Print */
+@media print {
+  body { background: white; color: black; }
+  .markdown-preview-view * {
+    color: black !important;
+    background: white !important;
+    box-shadow: none !important;
+  }
+}
+
+/* === END OF FILE: theme.css === */

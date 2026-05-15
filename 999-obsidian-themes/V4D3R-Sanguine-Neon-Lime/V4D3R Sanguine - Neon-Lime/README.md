@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Neon-Lime
 
-> Neon lime accents
+> Pure neon lime
 
 ## About
 
@@ -9,8 +9,8 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 125.0°
-- **Chroma:** +30% from source
+- **Target hue:** 130.0°
+- **Chroma:** +50% from source
 - **Lightness offset:** +0.00
 
 ## Installation

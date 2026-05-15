@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Neon-Magenta
 
-> Neon magenta accents
+> Pure neon magenta
 
 ## About
 
@@ -10,7 +10,7 @@ preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
 - **Target hue:** 340.0°
-- **Chroma:** +30% from source
+- **Chroma:** +39% from source
 - **Lightness offset:** +0.00
 
 ## Installation

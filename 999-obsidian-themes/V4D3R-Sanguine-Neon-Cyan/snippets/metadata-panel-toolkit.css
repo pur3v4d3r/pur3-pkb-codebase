@@ -512,7 +512,7 @@
 /* Highlight "status" key in gold */
 /*
 .metadata-property[data-property-key="status"] .metadata-property-key-input {
-  color: #FFC700 !important;
+  color: #47D6FF !important;
   font-weight: 700 !important;
 }
 */
@@ -520,7 +520,7 @@
 /* Highlight "tags" key in purple */
 /*
 .metadata-property[data-property-key="tags"] .metadata-property-key-input {
-  color: #9E6CD3 !important;
+  color: #00B8AA !important;
   font-weight: 600 !important;
 }
 */
@@ -528,7 +528,7 @@
 /* Highlight "certainty" key in green */
 /*
 .metadata-property[data-property-key="certainty"] .metadata-property-key-input {
-  color: #27FF00 !important;
+  color: #7ED1FF !important;
   font-weight: 600 !important;
 }
 */

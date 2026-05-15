@@ -1,6 +1,6 @@
         # V4D3R Sanguine - Glacier
 
-        > Cyan/mint dual-tone
+        > Cyan-to-mint dual-tone
 
         ## About
 

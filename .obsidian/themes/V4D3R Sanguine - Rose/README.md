@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Rose
 
-> Soft rose accents
+> Bright rose accents
 
 ## About
 
@@ -9,7 +9,7 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 355.0°
+- **Target hue:** 5.0°
 - **Chroma:** preserved
 - **Lightness offset:** +0.00
 

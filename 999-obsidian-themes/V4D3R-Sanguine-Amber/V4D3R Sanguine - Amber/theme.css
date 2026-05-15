@@ -60,19 +60,19 @@
 .theme-dark,
 :root {
   /* RED SPECTRUM — desaturated, deep, scholarly */
-  --vsg-red-garnet:        #412B00;   /* deepest red — anchors, double-rule outer */
-  --vsg-red-oxblood:       #563B00;   /* PRIMARY ACCENT — left rules, headings, links */
-  --vsg-red-rust:          #815B00;   /* secondary — link hover, italic */
-  --vsg-red-cinnabar:      #A98200;   /* highlight — success, drop cap fill */
-  --vsg-red-faded:         #614309;   /* faint annotations, unresolved */
-  --vsg-red-ember:         #3C2800;   /* inactive accent */
+  --vsg-red-garnet:        #875F00;   /* deepest red — anchors, double-rule outer */
+  --vsg-red-oxblood:       #936800;   /* PRIMARY ACCENT — left rules, headings, links */
+  --vsg-red-rust:          #AA7900;   /* secondary — link hover, italic */
+  --vsg-red-cinnabar:      #C08C00;   /* highlight — success, drop cap fill */
+  --vsg-red-faded:         #996C00;   /* faint annotations, unresolved */
+  --vsg-red-ember:         #845D00;   /* inactive accent */
 
   /* RED OPACITY VARIANTS */
-  --vsg-red-alpha-08:      rgba(86, 59, 0, 0.08);
-  --vsg-red-alpha-15:      rgba(86, 59, 0, 0.15);
-  --vsg-red-alpha-25:      rgba(86, 59, 0, 0.25);
-  --vsg-red-alpha-40:      rgba(86, 59, 0, 0.40);
-  --vsg-red-alpha-60:      rgba(86, 59, 0, 0.60);
+  --vsg-red-alpha-08:      rgba(147, 104, 0, 0.08);
+  --vsg-red-alpha-15:      rgba(147, 104, 0, 0.15);
+  --vsg-red-alpha-25:      rgba(147, 104, 0, 0.25);
+  --vsg-red-alpha-40:      rgba(147, 104, 0, 0.40);
+  --vsg-red-alpha-60:      rgba(147, 104, 0, 0.60);
 
   /* BLACK SPECTRUM — cool near-black, layered (not flat) */
   --vsg-black-ink:         #050505;   /* deepest — title bar, true black moments */
@@ -139,7 +139,7 @@
   --interactive-hover:                        var(--vsg-grey-stone);
   --interactive-accent:                       var(--vsg-red-oxblood);
   --interactive-accent-hover:                 var(--vsg-red-rust);
-  --interactive-accent-rgb:                   86, 59, 0;
+  --interactive-accent-rgb:                   147, 104, 0;
   --interactive-success:                      var(--vsg-red-cinnabar);
 
   /* Scrollbars */

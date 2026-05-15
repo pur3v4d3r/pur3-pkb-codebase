@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Muted-Wine
 
-> Muted wine accents
+> Deep muted wine
 
 ## About
 
@@ -10,8 +10,8 @@ preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
 - **Target hue:** 12.0°
-- **Chroma:** -30% from source
-- **Lightness offset:** -0.05
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

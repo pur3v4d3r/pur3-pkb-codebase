@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Pastel-Butter
 
-> Pastel butter accents
+> Soft pastel butter
 
 ## About
 
@@ -9,9 +9,9 @@ OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
-- **Target hue:** 90.0°
-- **Chroma:** -44% from source
-- **Lightness offset:** +0.05
+- **Target hue:** 95.0°
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

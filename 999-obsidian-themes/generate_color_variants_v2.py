@@ -86,8 +86,11 @@ DEFAULT_OUTPUT_REL: Path = Path("999-obsidian-themes")
 DEFAULT_CONFIG_NAME: str = "color_variants.config.json"
 
 # Detection thresholds for "is this a colored pixel worth rotating".
-DEFAULT_SAT_MIN: float = 0.12   # below this chroma → treated as grey, untouched
-DEFAULT_HUE_TOLERANCE: float = 60.0  # degrees around the source hue to rotate
+DEFAULT_SAT_MIN: float = 0.10   # below this chroma → treated as grey, untouched
+# 180° = ALL chromatic pixels get rotated to scheme palette.
+# Smaller values leave out-of-band hues unchanged (which produces variants
+# that look identical to each other in their non-accent regions).
+DEFAULT_HUE_TOLERANCE: float = 180.0
 
 # WCAG contrast targets.
 WCAG_AA_NORMAL: float = 4.5
@@ -159,6 +162,13 @@ class ColorScheme:
     lightness_offset: float = 0.0
     source_hue: Optional[float] = None
     preserve_patterns: tuple[str, ...] = ()
+    # Absolute color-shaping targets. OKLCH chroma typically spans 0.0–0.4.
+    chroma_floor: Optional[float] = None     # clamp chroma >= this (vivid)
+    chroma_ceiling: Optional[float] = None   # clamp chroma <= this (muted)
+    lightness_target: Optional[float] = None # 50% blend toward this L
+    # Optional tertiary hue — used for mid-lightness band when paired with
+    # secondary_hue, producing a 3-stop palette.
+    tertiary_hue: Optional[float] = None
 
 
 @dataclass(frozen=True)
@@ -359,17 +369,37 @@ def transform_color_oklch(
     # within the source band (so a darker accent stays darker after rotation).
     hue_offset = ((h - source_hue + 180.0) % 360.0) - 180.0
 
-    if scheme.secondary_hue is not None:
+    if scheme.secondary_hue is not None and scheme.tertiary_hue is not None:
+        # Tri-tone: dark → secondary, mid → tertiary, bright → primary.
+        t = max(0.0, min(1.0, (L - 0.15) / 0.55))
+        if t < 0.5:
+            base = lerp_hue(scheme.secondary_hue, scheme.tertiary_hue, t * 2.0)
+        else:
+            base = lerp_hue(scheme.tertiary_hue, scheme.target_hue, (t - 0.5) * 2.0)
+    elif scheme.secondary_hue is not None:
         # Dual-tone: bright tones → primary; dark tones → secondary.
-        # Lightness range in OKLab is roughly 0..1.
         t = max(0.0, min(1.0, (L - 0.15) / 0.55))
         base = lerp_hue(scheme.secondary_hue, scheme.target_hue, t)
     else:
         base = scheme.target_hue
 
-    new_h = (base + hue_offset) % 360.0
+    # Hue offset preserves relative variation within source band, but is
+    # damped to 25% so wider tolerances don't fling colors across the wheel.
+    new_h = (base + hue_offset * 0.25) % 360.0
+
+    # Chroma: multiply, then clamp to absolute floor/ceiling if specified.
     new_C = max(0.0, C * scheme.chroma_mult)
-    new_L = max(0.0, min(1.0, L + scheme.lightness_offset))
+    if scheme.chroma_floor is not None:
+        # Boost toward floor while keeping some of the original variation.
+        new_C = max(new_C, scheme.chroma_floor)
+    if scheme.chroma_ceiling is not None:
+        new_C = min(new_C, scheme.chroma_ceiling)
+
+    # Lightness: offset, then 50% blend toward absolute target if specified.
+    new_L = L + scheme.lightness_offset
+    if scheme.lightness_target is not None:
+        new_L = 0.5 * new_L + 0.5 * scheme.lightness_target
+    new_L = max(0.0, min(1.0, new_L))
     return oklch_to_rgb(new_L, new_C, new_h)
 
 
@@ -578,96 +608,191 @@ def wcag_grade(ratio: float) -> str:
 # Config loading & built-in defaults
 # ═════════════════════════════════════════════════════════════════════════
 
+# DESIGN: Each scheme below is calibrated to be VISUALLY DISTINCT from its
+# neighbors. Adjacent hues (e.g. Teal/Cyan/Sky) are differentiated not just by
+# hue but by chroma_floor and lightness_target so they don't render alike.
+# Neon variants use absolute chroma_floor (~0.30) so they stay vivid even
+# when the source theme's accents are muted.
+#
+# OKLCH chroma reference points:
+#   0.05 = pastel/desaturated     0.15 = standard saturated
+#   0.20 = vivid                  0.30 = neon (near sRGB gamut edge)
 BUILTIN_SCHEMES: tuple[ColorScheme, ...] = (
-    # ── Core single-hue (full wheel sweep) ──
-    ColorScheme("Crimson", "crimson", 25.0, "Crimson red accents"),
-    ColorScheme("Ruby", "ruby", 12.0, "Deep ruby red accents"),
-    ColorScheme("Rose", "rose", 355.0, "Soft rose accents"),
-    ColorScheme("Pink", "pink", 0.0, "Hot-pink accents"),
-    ColorScheme("Magenta", "magenta", 345.0, "Electric magenta accents"),
-    ColorScheme("Fuchsia", "fuchsia", 325.0, "Vivid fuchsia accents"),
-    ColorScheme("Purple", "purple", 305.0, "Royal purple accents"),
-    ColorScheme("Violet", "violet", 285.0, "Deep violet accents"),
-    ColorScheme("Indigo", "indigo", 265.0, "Indigo accents"),
-    ColorScheme("Blue", "blue", 245.0, "Vivid blue accents"),
-    ColorScheme("Sapphire", "sapphire", 230.0, "Sapphire blue accents"),
-    ColorScheme("Sky", "sky", 215.0, "Sky-blue accents"),
-    ColorScheme("Cyan", "cyan", 200.0, "Bright cyan accents"),
-    ColorScheme("Teal", "teal", 190.0, "Vibrant teal accents"),
-    ColorScheme("Mint", "mint", 165.0, "Cool mint accents"),
-    ColorScheme("Emerald", "emerald", 150.0, "Emerald green accents"),
-    ColorScheme("Green", "green", 140.0, "Pure green accents"),
-    ColorScheme("Lime", "lime", 125.0, "Lime-green accents", chroma_mult=1.10),
-    ColorScheme("Olive", "olive", 105.0, "Olive accents",
-                chroma_mult=0.85, lightness_offset=-0.02),
-    ColorScheme("Yellow", "yellow", 95.0, "Yellow accents", chroma_mult=1.10),
-    ColorScheme("Amber", "amber", 80.0, "Amber-gold accents", chroma_mult=1.10),
-    ColorScheme("Gold", "gold", 70.0, "Gold accents", chroma_mult=1.05),
-    ColorScheme("Orange", "orange", 55.0, "Warm orange accents", chroma_mult=1.05),
-    ColorScheme("Tangerine", "tangerine", 40.0, "Tangerine accents", chroma_mult=1.05),
+    # ── Core saturated single-hue (full wheel sweep) ──
+    # All use chroma_floor=0.18 so accents stay vivid regardless of source.
+    ColorScheme("Crimson", "crimson", 25.0, "Vivid crimson red accents",
+                chroma_floor=0.20, lightness_target=0.55),
+    ColorScheme("Ruby", "ruby", 12.0, "Deep ruby red accents",
+                chroma_floor=0.18, lightness_target=0.45),
+    ColorScheme("Rose", "rose", 5.0, "Bright rose accents",
+                chroma_floor=0.18, lightness_target=0.62),
+    ColorScheme("Pink", "pink", 355.0, "Hot pink accents",
+                chroma_floor=0.22, lightness_target=0.65),
+    ColorScheme("Magenta", "magenta", 345.0, "Electric magenta accents",
+                chroma_floor=0.24, lightness_target=0.58),
+    ColorScheme("Fuchsia", "fuchsia", 325.0, "Vivid fuchsia accents",
+                chroma_floor=0.22, lightness_target=0.55),
+    ColorScheme("Purple", "purple", 305.0, "Royal purple accents",
+                chroma_floor=0.18, lightness_target=0.50),
+    ColorScheme("Violet", "violet", 285.0, "Deep violet accents",
+                chroma_floor=0.18, lightness_target=0.55),
+    ColorScheme("Indigo", "indigo", 265.0, "Indigo accents",
+                chroma_floor=0.18, lightness_target=0.45),
+    ColorScheme("Blue", "blue", 250.0, "Vivid blue accents",
+                chroma_floor=0.20, lightness_target=0.55),
+    ColorScheme("Sapphire", "sapphire", 235.0, "Deep sapphire accents",
+                chroma_floor=0.18, lightness_target=0.42),
+    ColorScheme("Sky", "sky", 220.0, "Bright sky-blue accents",
+                chroma_floor=0.16, lightness_target=0.72),
+    ColorScheme("Cyan", "cyan", 205.0, "Bright cyan accents",
+                chroma_floor=0.18, lightness_target=0.65),
+    ColorScheme("Teal", "teal", 185.0, "Vibrant teal accents",
+                chroma_floor=0.16, lightness_target=0.55),
+    ColorScheme("Mint", "mint", 165.0, "Cool mint accents",
+                chroma_floor=0.16, lightness_target=0.78),
+    ColorScheme("Emerald", "emerald", 150.0, "Emerald green accents",
+                chroma_floor=0.18, lightness_target=0.55),
+    ColorScheme("Green", "green", 140.0, "Pure vivid green accents",
+                chroma_floor=0.20, lightness_target=0.62),
+    ColorScheme("Lime", "lime", 130.0, "Bright lime green accents",
+                chroma_floor=0.22, lightness_target=0.78),
+    ColorScheme("Olive", "olive", 110.0, "Olive green accents",
+                chroma_ceiling=0.12, lightness_target=0.45),
+    ColorScheme("Yellow", "yellow", 100.0, "Bright yellow accents",
+                chroma_floor=0.20, lightness_target=0.85),
+    ColorScheme("Amber", "amber", 80.0, "Warm amber accents",
+                chroma_floor=0.18, lightness_target=0.72),
+    ColorScheme("Gold", "gold", 75.0, "Rich gold accents",
+                chroma_floor=0.16, lightness_target=0.70),
+    ColorScheme("Orange", "orange", 55.0, "Warm orange accents",
+                chroma_floor=0.20, lightness_target=0.65),
+    ColorScheme("Tangerine", "tangerine", 45.0, "Bright tangerine accents",
+                chroma_floor=0.22, lightness_target=0.70),
 
-    # ── Pastel set (reduced chroma, slightly lighter) ──
+    # ── Pastel set ── low chroma + high lightness, regardless of source.
     ColorScheme("Pastel-Rose", "pastel-rose", 355.0,
-                "Pastel rose accents",
-                chroma_mult=0.55, lightness_offset=0.05),
+                "Soft pastel rose",
+                chroma_ceiling=0.08, lightness_target=0.85),
     ColorScheme("Pastel-Lavender", "pastel-lavender", 285.0,
-                "Pastel lavender accents",
-                chroma_mult=0.55, lightness_offset=0.05),
-    ColorScheme("Pastel-Sky", "pastel-sky", 215.0,
-                "Pastel sky accents",
-                chroma_mult=0.55, lightness_offset=0.05),
+                "Soft pastel lavender",
+                chroma_ceiling=0.08, lightness_target=0.82),
+    ColorScheme("Pastel-Sky", "pastel-sky", 220.0,
+                "Soft pastel sky",
+                chroma_ceiling=0.08, lightness_target=0.85),
     ColorScheme("Pastel-Mint", "pastel-mint", 165.0,
-                "Pastel mint accents",
-                chroma_mult=0.55, lightness_offset=0.05),
-    ColorScheme("Pastel-Butter", "pastel-butter", 90.0,
-                "Pastel butter accents",
-                chroma_mult=0.55, lightness_offset=0.05),
-    ColorScheme("Pastel-Peach", "pastel-peach", 40.0,
-                "Pastel peach accents",
-                chroma_mult=0.55, lightness_offset=0.05),
+                "Soft pastel mint",
+                chroma_ceiling=0.08, lightness_target=0.85),
+    ColorScheme("Pastel-Butter", "pastel-butter", 95.0,
+                "Soft pastel butter",
+                chroma_ceiling=0.08, lightness_target=0.88),
+    ColorScheme("Pastel-Peach", "pastel-peach", 45.0,
+                "Soft pastel peach",
+                chroma_ceiling=0.08, lightness_target=0.82),
 
-    # ── Muted / dusk set (reduced chroma + darker) ──
+    # ── Muted / dusk set ── desaturated + darker.
     ColorScheme("Muted-Wine", "muted-wine", 12.0,
-                "Muted wine accents",
-                chroma_mult=0.7, lightness_offset=-0.05),
+                "Deep muted wine",
+                chroma_ceiling=0.10, lightness_target=0.35),
     ColorScheme("Muted-Plum", "muted-plum", 305.0,
-                "Muted plum accents",
-                chroma_mult=0.7, lightness_offset=-0.05),
-    ColorScheme("Muted-Slate", "muted-slate", 230.0,
-                "Muted slate-blue accents",
-                chroma_mult=0.6, lightness_offset=-0.04),
-    ColorScheme("Muted-Forest", "muted-forest", 140.0,
-                "Muted forest-green accents",
-                chroma_mult=0.7, lightness_offset=-0.05),
-    ColorScheme("Muted-Bronze", "muted-bronze", 55.0,
-                "Muted bronze accents",
-                chroma_mult=0.7, lightness_offset=-0.04),
+                "Deep muted plum",
+                chroma_ceiling=0.10, lightness_target=0.38),
+    ColorScheme("Muted-Slate", "muted-slate", 235.0,
+                "Slate-blue muted",
+                chroma_ceiling=0.08, lightness_target=0.42),
+    ColorScheme("Muted-Forest", "muted-forest", 145.0,
+                "Deep muted forest",
+                chroma_ceiling=0.10, lightness_target=0.38),
+    ColorScheme("Muted-Bronze", "muted-bronze", 60.0,
+                "Warm muted bronze",
+                chroma_ceiling=0.10, lightness_target=0.45),
 
-    # ── Neon set (boosted chroma) ──
+    # ── Neon set ── maximum chroma at signature lightness.
+    # chroma_floor=0.30 is near the sRGB gamut edge; gamut mapping handles
+    # the inevitable clamping. Lightness targets are tuned to the hue's
+    # naturally-vivid zone in OKLCH.
     ColorScheme("Neon-Magenta", "neon-magenta", 340.0,
-                "Neon magenta accents", chroma_mult=1.30),
-    ColorScheme("Neon-Cyan", "neon-cyan", 200.0,
-                "Neon cyan accents", chroma_mult=1.30),
-    ColorScheme("Neon-Lime", "neon-lime", 125.0,
-                "Neon lime accents", chroma_mult=1.30),
+                "Pure neon magenta",
+                chroma_floor=0.32, lightness_target=0.62, chroma_mult=1.4),
+    ColorScheme("Neon-Pink", "neon-pink", 0.0,
+                "Pure neon hot pink",
+                chroma_floor=0.30, lightness_target=0.68, chroma_mult=1.4),
+    ColorScheme("Neon-Purple", "neon-purple", 305.0,
+                "Pure neon purple",
+                chroma_floor=0.30, lightness_target=0.55, chroma_mult=1.4),
+    ColorScheme("Neon-Blue", "neon-blue", 255.0,
+                "Pure neon electric blue",
+                chroma_floor=0.32, lightness_target=0.55, chroma_mult=1.4),
+    ColorScheme("Neon-Cyan", "neon-cyan", 205.0,
+                "Pure neon cyan",
+                chroma_floor=0.30, lightness_target=0.78, chroma_mult=1.4),
+    ColorScheme("Neon-Green", "neon-green", 145.0,
+                "Pure neon green",
+                chroma_floor=0.32, lightness_target=0.78, chroma_mult=1.4),
+    ColorScheme("Neon-Lime", "neon-lime", 130.0,
+                "Pure neon lime",
+                chroma_floor=0.34, lightness_target=0.85, chroma_mult=1.5),
+    ColorScheme("Neon-Yellow", "neon-yellow", 100.0,
+                "Pure neon yellow",
+                chroma_floor=0.32, lightness_target=0.92, chroma_mult=1.4),
+    ColorScheme("Neon-Orange", "neon-orange", 55.0,
+                "Pure neon orange",
+                chroma_floor=0.30, lightness_target=0.72, chroma_mult=1.4),
+    ColorScheme("Neon-Red", "neon-red", 25.0,
+                "Pure neon crimson",
+                chroma_floor=0.32, lightness_target=0.60, chroma_mult=1.4),
 
     # ── Dual-tone (analogous / complementary) ──
+    # Dark tones rotate toward secondary, bright tones toward primary.
     ColorScheme("Aurora", "aurora", 160.0,
-                "Teal/violet dual-tone", secondary_hue=305.0),
+                "Teal-to-violet dual-tone",
+                secondary_hue=305.0, chroma_floor=0.18,
+                lightness_target=0.60),
     ColorScheme("Sunset", "sunset", 55.0,
-                "Orange/rose dual-tone", secondary_hue=10.0),
+                "Rose-to-orange dual-tone",
+                secondary_hue=10.0, chroma_floor=0.20,
+                lightness_target=0.62),
     ColorScheme("Dusk", "dusk", 270.0,
-                "Indigo/magenta dual-tone", secondary_hue=345.0),
-    ColorScheme("Ocean", "ocean", 200.0,
-                "Cyan/blue dual-tone", secondary_hue=240.0),
-    ColorScheme("Forest", "forest", 140.0,
-                "Green/yellow dual-tone", secondary_hue=90.0),
+                "Indigo-to-magenta dual-tone",
+                secondary_hue=345.0, chroma_floor=0.18,
+                lightness_target=0.55),
+    ColorScheme("Ocean", "ocean", 205.0,
+                "Cyan-to-blue dual-tone",
+                secondary_hue=240.0, chroma_floor=0.18,
+                lightness_target=0.55),
+    ColorScheme("Forest", "forest", 145.0,
+                "Green-to-yellow dual-tone",
+                secondary_hue=90.0, chroma_floor=0.16,
+                lightness_target=0.55),
     ColorScheme("Berry", "berry", 305.0,
-                "Purple/magenta dual-tone", secondary_hue=345.0),
+                "Purple-to-magenta dual-tone",
+                secondary_hue=345.0, chroma_floor=0.20,
+                lightness_target=0.55),
     ColorScheme("Volcano", "volcano", 25.0,
-                "Crimson/orange dual-tone", secondary_hue=55.0),
+                "Crimson-to-orange dual-tone",
+                secondary_hue=55.0, chroma_floor=0.22,
+                lightness_target=0.58),
     ColorScheme("Glacier", "glacier", 200.0,
-                "Cyan/mint dual-tone", secondary_hue=170.0),
+                "Cyan-to-mint dual-tone",
+                secondary_hue=170.0, chroma_floor=0.16,
+                lightness_target=0.72),
+
+    # ── Tri-tone gradient palettes (3 hues across lightness range) ──
+    ColorScheme("Spectrum-Warm", "spectrum-warm", 50.0,
+                "Red → orange → yellow gradient",
+                secondary_hue=15.0, tertiary_hue=30.0,
+                chroma_floor=0.20, lightness_target=0.62),
+    ColorScheme("Spectrum-Cool", "spectrum-cool", 200.0,
+                "Indigo → blue → cyan gradient",
+                secondary_hue=265.0, tertiary_hue=235.0,
+                chroma_floor=0.20, lightness_target=0.60),
+    ColorScheme("Synthwave", "synthwave", 320.0,
+                "Purple → magenta → hot pink neon gradient",
+                secondary_hue=275.0, tertiary_hue=300.0,
+                chroma_floor=0.28, lightness_target=0.62, chroma_mult=1.3),
+    ColorScheme("Tropical", "tropical", 145.0,
+                "Teal → green → yellow gradient",
+                secondary_hue=190.0, tertiary_hue=165.0,
+                chroma_floor=0.20, lightness_target=0.65),
 )
 
 
@@ -692,10 +817,26 @@ def default_config_dict() -> dict:
                     {"secondary_hue": s.secondary_hue}
                     if s.secondary_hue is not None else {}
                 ),
+                **(
+                    {"tertiary_hue": s.tertiary_hue}
+                    if s.tertiary_hue is not None else {}
+                ),
                 **({"chroma_mult": s.chroma_mult} if s.chroma_mult != 1.0 else {}),
                 **(
                     {"lightness_offset": s.lightness_offset}
                     if s.lightness_offset != 0.0 else {}
+                ),
+                **(
+                    {"chroma_floor": s.chroma_floor}
+                    if s.chroma_floor is not None else {}
+                ),
+                **(
+                    {"chroma_ceiling": s.chroma_ceiling}
+                    if s.chroma_ceiling is not None else {}
+                ),
+                **(
+                    {"lightness_target": s.lightness_target}
+                    if s.lightness_target is not None else {}
                 ),
             }
             for s in BUILTIN_SCHEMES
@@ -744,6 +885,22 @@ def schemes_from_config(cfg: dict) -> list[ColorScheme]:
                         if s.get("source_hue") is not None else None
                     ),
                     preserve_patterns=tuple(s.get("preserve_patterns", ())),
+                    chroma_floor=(
+                        float(s["chroma_floor"])
+                        if s.get("chroma_floor") is not None else None
+                    ),
+                    chroma_ceiling=(
+                        float(s["chroma_ceiling"])
+                        if s.get("chroma_ceiling") is not None else None
+                    ),
+                    lightness_target=(
+                        float(s["lightness_target"])
+                        if s.get("lightness_target") is not None else None
+                    ),
+                    tertiary_hue=(
+                        float(s["tertiary_hue"])
+                        if s.get("tertiary_hue") is not None else None
+                    ),
                 )
             )
         except (KeyError, TypeError, ValueError) as e:
@@ -1037,6 +1194,10 @@ def _generate_one_for_pool(
         lightness_offset=scheme_dict.get("lightness_offset", 0.0),
         source_hue=scheme_dict.get("source_hue"),
         preserve_patterns=tuple(scheme_dict.get("preserve_patterns", ())),
+        chroma_floor=scheme_dict.get("chroma_floor"),
+        chroma_ceiling=scheme_dict.get("chroma_ceiling"),
+        lightness_target=scheme_dict.get("lightness_target"),
+        tertiary_hue=scheme_dict.get("tertiary_hue"),
     )
     return generate_variant(
         scheme, cfg, dry_run=dry_run, write_preview=write_preview

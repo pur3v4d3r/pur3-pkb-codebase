@@ -1,0 +1,497 @@
+
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  CALLOUT MOD: Neon Red Shadow                                                ║
+║  Black/transparent background, neon-red glowing borders, white body text,    ║
+║  red-glow bold/italic, dotted-underline dark-red links, deep shadow.         ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Author:    Pur3v4d3r                                                        ║
+║  Created:   2026-04-06                                                       ║
+║  Obsidian:  v1.5.0+                                                          ║
+║  REQUIRES:  callout-base.css enabled                                         ║
+║  CONFLICTS: Other layout/effect mods (enable only ONE mod at a time)         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  FEATURES:                                                                   ║
+║  • Black/transparent background                                              ║
+║  • White body text                                                           ║
+║  • Red bold title with glow                                                  ║
+║  • Dark red links with dotted underline                                      ║
+║  • Red glowing bold & italic text                                            ║
+║  • Neon red border with glow effect                                          ║
+║  • Deep shadow for 3D depth                                                  ║
+║  • Rounded corners with padding                                              ║
+║  • Works in Live Preview and Reading Mode                                    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   MOD-LEVEL VARIABLES
+   Override these to tweak the neon-red look without touching rules below.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.theme-dark,
+.theme-light {
+  /* ── Neon Red Palette ─────────────────────────────────────────────────── */
+  --nrs-red:            255, 58, 86;       /* Primary neon red              */
+  --nrs-red-dark:       230, 0, 64;       /* Darker red for links          */
+  --nrs-red-deep:       208, 0, 56;       /* Even deeper for hover states  */
+
+  /* ── Surface ──────────────────────────────────────────────────────────── */
+  --nrs-bg:             0, 0, 0;           /* Pure black background         */
+  --nrs-bg-opacity:     0.88;              /* Background transparency       */
+  --nrs-title-bg:       0.10;             /* Title bar red tint opacity    */
+
+  /* ── Text ─────────────────────────────────────────────────────────────── */
+  --nrs-text:           240, 240, 240;     /* White body text               */
+  --nrs-text-dim:       200, 200, 200;     /* Slightly dimmer text          */
+
+  /* ── Glow Intensities ─────────────────────────────────────────────────── */
+  --nrs-glow-sm:        0 0 10px;
+  --nrs-glow-md:        0 0 22px;
+  --nrs-glow-lg:        0 0 44px;
+  --nrs-glow-xl:        0 0 70px;
+
+  /* ── Structural ───────────────────────────────────────────────────────── */
+  --nrs-radius:         12px;
+  --nrs-border-width:   2px;
+  --nrs-padding:        16px 18px;
+  --nrs-content-pad:    14px 18px;
+  --nrs-title-pad:      12px 16px;
+  --nrs-shadow-depth:   0 8px 32px rgba(0, 0, 0, 0.7),
+                        0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: CONTAINER
+   Neon red border glow + black background + deep shadow
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- Main Callout Container --- */
+.callout {
+  background: rgba(var(--nrs-bg), var(--nrs-bg-opacity)) !important;
+  border: var(--nrs-border-width) solid rgba(var(--nrs-red), 0.55) !important;
+  border-left: 4px solid rgba(var(--nrs-red), 0.85) !important;
+  border-radius: var(--nrs-radius) !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  position: relative !important;
+  box-shadow:
+    /* Neon glow layers */
+    var(--nrs-glow-sm) rgba(var(--nrs-red), 0.30),
+    var(--nrs-glow-md) rgba(var(--nrs-red), 0.18),
+    var(--nrs-glow-lg) rgba(var(--nrs-red), 0.10),
+    /* Depth shadow */
+    var(--nrs-shadow-depth) !important;
+  transition:
+    box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+/* --- Hover: intensify glow --- */
+.callout:hover {
+  border-color: rgba(var(--nrs-red), 0.80) !important;
+  border-left-color: rgb(var(--nrs-red)) !important;
+  box-shadow:
+    var(--nrs-glow-sm) rgba(var(--nrs-red), 0.50),
+    var(--nrs-glow-md) rgba(var(--nrs-red), 0.30),
+    var(--nrs-glow-lg) rgba(var(--nrs-red), 0.18),
+    var(--nrs-glow-xl) rgba(var(--nrs-red), 0.08),
+    0 10px 40px rgba(0, 0, 0, 0.75),
+    0 4px 12px rgba(0, 0, 0, 0.55) !important;
+  transform: translateY(-1px) !important;
+}
+
+/* --- Subtle neon top-line accent --- */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 2px !important;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--nrs-red), 0.50) 25%,
+    rgba(var(--nrs-red), 0.85) 50%,
+    rgba(var(--nrs-red), 0.50) 75%,
+    transparent 100%) !important;
+  box-shadow: 0 0 8px rgba(var(--nrs-red), 0.40) !important;
+  pointer-events: none !important;
+  z-index: 1 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: TITLE BAR
+   Red bold title with subtle glow
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-title {
+  background: rgba(var(--nrs-red), var(--nrs-title-bg)) !important;
+  padding: var(--nrs-title-pad) !important;
+  border-bottom: 1px solid rgba(var(--nrs-red), 0.20) !important;
+  transition: background 0.3s ease !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--nrs-red), 0.15) !important;
+}
+
+/* --- Title Text: Red + Bold + Glow --- */
+.callout-title-inner {
+  color: rgb(var(--nrs-red)) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.4px !important;
+  text-shadow:
+    0 0 6px rgba(var(--nrs-red), 0.45),
+    0 0 14px rgba(var(--nrs-red), 0.20) !important;
+}
+
+/* --- Icon: inherits callout-color so it matches each callout type --- */
+.callout-icon {
+  color: rgb(var(--callout-color)) !important;
+  filter: drop-shadow(0 0 6px rgba(var(--callout-color), 0.45)) !important;
+  transition: transform 0.3s ease, filter 0.3s ease !important;
+}
+
+.callout:hover .callout-icon {
+  transform: scale(1.1) !important;
+  filter: drop-shadow(0 0 10px rgba(var(--callout-color), 0.65)) !important;
+}
+
+/* --- Fold indicator --- */
+.callout-fold {
+  color: rgba(var(--nrs-red), 0.65) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: CONTENT AREA
+   White text, proper padding, scoped internal element styling
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-content {
+  padding: var(--nrs-content-pad) !important;
+  color: rgb(var(--nrs-text)) !important;
+  background: transparent !important;
+  font-size: 0.93em !important;
+  line-height: 1.70 !important;
+}
+
+.callout-content > p:first-child {
+  margin-top: 0 !important;
+}
+
+.callout-content > p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* ── Paragraphs ─────────────────────────────────────────────────────────── */
+.callout-content p {
+  color: rgb(var(--nrs-text)) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: BOLD & ITALIC — Red Glow Effect
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- Bold: Red + Glow --- */
+.callout-content strong,
+.callout-content b {
+  color: rgb(var(--nrs-red)) !important;
+  font-weight: 700 !important;
+  text-shadow:
+    0 0 5px rgba(var(--nrs-red), 0.50),
+    0 0 12px rgba(var(--nrs-red), 0.25) !important;
+}
+
+/* --- Italic: Red + Glow (softer) --- */
+.callout-content em,
+.callout-content i {
+  color: rgb(var(--nrs-red)) !important;
+  font-style: italic !important;
+  text-shadow:
+    0 0 5px rgba(var(--nrs-red), 0.45),
+    0 0 12px rgba(var(--nrs-red), 0.20) !important;
+}
+
+/* --- Bold-Italic combo: Full Glow --- */
+.callout-content strong em,
+.callout-content em strong,
+.callout-content b i,
+.callout-content i b {
+  color: rgb(var(--nrs-red)) !important;
+  font-weight: 700 !important;
+  font-style: italic !important;
+  text-shadow:
+    0 0 6px rgba(var(--nrs-red), 0.60),
+    0 0 14px rgba(var(--nrs-red), 0.35),
+    0 0 24px rgba(var(--nrs-red), 0.15) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: LINKS — Dark Red + Dotted Underline
+   Covers both wiki-links and external links in both reading & live preview
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- All links inside callout content --- */
+.callout-content a,
+.callout-content a.internal-link,
+.callout-content a.external-link,
+.callout-content .internal-link,
+.callout-content .cm-hmd-internal-link,
+.callout-content .cm-link,
+.callout-content .cm-url {
+  color: rgb(var(--nrs-red-dark)) !important;
+  text-decoration: underline dotted !important;
+  text-decoration-color: rgba(var(--nrs-red-dark), 0.55) !important;
+  text-underline-offset: 3px !important;
+  text-decoration-thickness: 1.5px !important;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease !important;
+}
+
+/* --- Link hover --- */
+.callout-content a:hover,
+.callout-content a.internal-link:hover,
+.callout-content a.external-link:hover,
+.callout-content .internal-link:hover {
+  color: rgb(var(--nrs-red)) !important;
+  text-decoration: underline dotted !important;
+  text-decoration-color: rgba(var(--nrs-red), 0.75) !important;
+  text-decoration-thickness: 2px !important;
+  text-shadow: 0 0 6px rgba(var(--nrs-red), 0.30) !important;
+}
+
+/* --- Unresolved / ghost links --- */
+.callout-content a.is-unresolved,
+.callout-content .is-unresolved .cm-hmd-internal-link {
+  color: rgba(var(--nrs-red-deep), 0.70) !important;
+  text-decoration-style: dashed !important;
+  opacity: 0.75 !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 6: CODE INLINE & BLOCKS
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-content code {
+  background: rgba(var(--nrs-red), 0.08) !important;
+  color: rgb(var(--nrs-red)) !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  font-size: 0.88em !important;
+  border: 1px solid rgba(var(--nrs-red), 0.15) !important;
+}
+
+.callout-content pre {
+  background: rgba(var(--nrs-bg), 0.95) !important;
+  border: 1px solid rgba(var(--nrs-red), 0.20) !important;
+  border-radius: 6px !important;
+  padding: 10px 14px !important;
+}
+
+.callout-content pre code {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  color: rgb(var(--nrs-text-dim)) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 7: LISTS
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-content ul,
+.callout-content ol {
+  padding-left: 1.5em !important;
+  color: rgb(var(--nrs-text)) !important;
+}
+
+.callout-content li {
+  color: rgb(var(--nrs-text)) !important;
+}
+
+.callout-content li::marker {
+  color: rgba(var(--nrs-red), 0.55) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 8: NESTED CALLOUTS
+   Reduced intensity for inner callouts to maintain hierarchy
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout .callout {
+  border-width: 1.5px !important;
+  border-left-width: 3px !important;
+  border-radius: 8px !important;
+  box-shadow:
+    0 0 4px rgba(var(--nrs-red), 0.18),
+    0 0 10px rgba(var(--nrs-red), 0.08),
+    0 4px 16px rgba(0, 0, 0, 0.45) !important;
+}
+
+.callout .callout .callout {
+  box-shadow:
+    0 0 3px rgba(var(--nrs-red), 0.12),
+    0 2px 8px rgba(0, 0, 0, 0.35) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 9: BLOCKQUOTES INSIDE CALLOUTS
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout-content blockquote {
+  border-left: 3px solid rgba(var(--nrs-red), 0.40) !important;
+  background: rgba(var(--nrs-red), 0.04) !important;
+  padding: 8px 14px !important;
+  margin: 0.8em 0 !important;
+  border-radius: 0 6px 6px 0 !important;
+  color: rgb(var(--nrs-text-dim)) !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 10: LIVE PREVIEW SPECIFICS
+   Ensure the styling applies correctly in CM6 live-preview editor mode
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Live preview callout wrapper */
+.cm-callout .callout {
+  background: rgba(var(--nrs-bg), var(--nrs-bg-opacity)) !important;
+  border: var(--nrs-border-width) solid rgba(var(--nrs-red), 0.55) !important;
+  border-left: 4px solid rgba(var(--nrs-red), 0.85) !important;
+  border-radius: var(--nrs-radius) !important;
+  box-shadow:
+    var(--nrs-glow-sm) rgba(var(--nrs-red), 0.30),
+    var(--nrs-glow-md) rgba(var(--nrs-red), 0.18),
+    var(--nrs-glow-lg) rgba(var(--nrs-red), 0.10),
+    var(--nrs-shadow-depth) !important;
+}
+
+/* Live preview title */
+.cm-callout .callout-title-inner {
+  color: rgb(var(--nrs-red)) !important;
+  font-weight: 700 !important;
+  text-shadow:
+    0 0 6px rgba(var(--nrs-red), 0.45),
+    0 0 14px rgba(var(--nrs-red), 0.20) !important;
+}
+
+/* Live preview content text */
+.cm-callout .callout-content {
+  color: rgb(var(--nrs-text)) !important;
+}
+
+/* Live preview bold/italic */
+.cm-callout .callout-content strong,
+.cm-callout .callout-content b {
+  color: rgb(var(--nrs-red)) !important;
+  text-shadow:
+    0 0 5px rgba(var(--nrs-red), 0.50),
+    0 0 12px rgba(var(--nrs-red), 0.25) !important;
+}
+
+.cm-callout .callout-content em,
+.cm-callout .callout-content i {
+  color: rgb(var(--nrs-red)) !important;
+  text-shadow:
+    0 0 5px rgba(var(--nrs-red), 0.45),
+    0 0 12px rgba(var(--nrs-red), 0.20) !important;
+}
+
+/* Live preview links */
+.cm-callout .callout-content a,
+.cm-callout .callout-content .internal-link,
+.cm-callout .callout-content .cm-hmd-internal-link {
+  color: rgb(var(--nrs-red-dark)) !important;
+  text-decoration: underline dotted !important;
+  text-decoration-color: rgba(var(--nrs-red-dark), 0.55) !important;
+  text-underline-offset: 3px !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 11: BREATHING BORDER ANIMATION
+   Subtle pulsing glow on the border for living neon feel
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@keyframes nrs-border-breathe {
+  0%, 100% {
+    border-color: rgba(var(--nrs-red), 0.45);
+    box-shadow:
+      var(--nrs-glow-sm) rgba(var(--nrs-red), 0.25),
+      var(--nrs-glow-md) rgba(var(--nrs-red), 0.14),
+      var(--nrs-glow-lg) rgba(var(--nrs-red), 0.08),
+      var(--nrs-shadow-depth);
+  }
+  50% {
+    border-color: rgba(var(--nrs-red), 0.65);
+    box-shadow:
+      var(--nrs-glow-sm) rgba(var(--nrs-red), 0.38),
+      var(--nrs-glow-md) rgba(var(--nrs-red), 0.22),
+      var(--nrs-glow-lg) rgba(var(--nrs-red), 0.12),
+      var(--nrs-shadow-depth);
+  }
+}
+
+.callout {
+  animation: nrs-border-breathe 4s ease-in-out infinite !important;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 12: ACCESSIBILITY — Reduced Motion
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@media (prefers-reduced-motion: reduce) {
+  .callout {
+    animation: none !important;
+    transition: none !important;
+  }
+  .callout::before {
+    animation: none !important;
+  }
+  .callout-icon {
+    transition: none !important;
+  }
+}
+
+/* ── Print: Strip effects ───────────────────────────────────────────────── */
+@media print {
+  .callout {
+    box-shadow: none !important;
+    border: 1px solid #999 !important;
+    border-left: 4px solid #f00041 !important;
+    background: #fff !important;
+    animation: none !important;
+  }
+  .callout-title-inner {
+    color: #f00041 !important;
+    text-shadow: none !important;
+  }
+  .callout-content {
+    color: #000 !important;
+  }
+  .callout-content a {
+    color: #d6003a !important;
+    text-decoration: underline !important;
+  }
+  .callout-content strong,
+  .callout-content em {
+    color: #f00041 !important;
+    text-shadow: none !important;
+  }
+}

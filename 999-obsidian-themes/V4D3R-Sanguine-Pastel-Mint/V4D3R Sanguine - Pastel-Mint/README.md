@@ -1,6 +1,6 @@
 # V4D3R Sanguine - Pastel-Mint
 
-> Pastel mint accents
+> Soft pastel mint
 
 ## About
 
@@ -10,8 +10,8 @@ preserved; semantic colors (success/warn/error) are not rotated.
 
 - **Source hue:** 23.5°
 - **Target hue:** 165.0°
-- **Chroma:** -44% from source
-- **Lightness offset:** +0.05
+- **Chroma:** preserved
+- **Lightness offset:** +0.00
 
 ## Installation
 

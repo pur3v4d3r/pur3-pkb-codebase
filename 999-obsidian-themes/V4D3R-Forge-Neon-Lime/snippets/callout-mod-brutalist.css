@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CALLOUT MOD: Brutalist                                                      ║
+║  Harsh thick borders, high contrast, bold — raw and intentional              ║
+║                                                                              ║
+║  REQUIRES: callout-base.css enabled                                          ║
+║  CONFLICTS: Other layout/effect mods (enable only ONE mod at a time)         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+/* --- Brutalist Container --- */
+.callout {
+  background: rgba(var(--co-bg), 0.98) !important;
+  border: 3px solid rgb(var(--callout-color)) !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 1.8em 0 !important;
+  overflow: hidden !important;
+  position: relative !important;
+  box-shadow:
+    6px 6px 0 rgba(var(--callout-color), 0.25),
+    0 2px 4px rgba(0, 0, 0, 0.3) !important;
+  transition:
+    box-shadow var(--co-speed-fast) ease,
+    transform var(--co-speed-fast) ease !important;
+}
+
+.callout:hover {
+  transform: translate(-2px, -2px) !important;
+  box-shadow:
+    8px 8px 0 rgba(var(--callout-color), 0.35),
+    0 4px 8px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* --- Brutalist Title: high contrast bar --- */
+.callout-title {
+  background: rgb(var(--callout-color)) !important;
+  padding: 10px 16px !important;
+  border-bottom: none !important;
+  color: rgb(var(--co-bg)) !important;
+  font-weight: 800 !important;
+  font-size: 0.9em !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+}
+
+/* --- Icon inverted on filled title --- */
+.callout-icon {
+  color: rgb(var(--co-bg)) !important;
+  filter: none !important;
+}
+
+/* --- Content --- */
+.callout-content {
+  background: rgba(var(--co-bg), 0.95) !important;
+  padding: 16px !important;
+  color: rgba(var(--co-text), 0.92) !important;
+  border-top: 2px solid rgb(var(--callout-color)) !important;
+}
+
+/* --- Bold: thick and colored --- */
+.callout-content strong,
+.callout-content b {
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 800 !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* --- Code blocks get harsh treatment --- */
+.callout-content code {
+  background: rgb(var(--callout-color)) !important;
+  color: rgb(var(--co-bg)) !important;
+  padding: 2px 6px !important;
+  border-radius: 0 !important;
+  font-weight: 700 !important;
+}
+
+/* --- No pseudo-elements --- */
+.callout::before,
+.callout::after { display: none !important; }
+
+/* --- Nested: smaller offset shadow --- */
+.callout .callout {
+  border-width: 2px !important;
+  box-shadow: 4px 4px 0 rgba(var(--callout-color), 0.15) !important;
+  margin: 1em 0 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout, .callout:hover { transform: none !important; }
+}

@@ -37,9 +37,9 @@
 .theme-dark,
 .theme-light {
   /* ── Neon Red Palette ─────────────────────────────────────────────────── */
-  --nrs-red:            155, 88, 200;       /* Primary neon red              */
-  --nrs-red-dark:       105, 57, 137;       /* Darker red for links          */
-  --nrs-red-deep:       78, 39, 103;       /* Even deeper for hover states  */
+  --nrs-red:            130, 80, 134;       /* Primary neon red              */
+  --nrs-red-dark:       108, 60, 112;       /* Darker red for links          */
+  --nrs-red-deep:       92, 53, 95;       /* Even deeper for hover states  */
 
   /* ── Surface ──────────────────────────────────────────────────────────── */
   --nrs-bg:             0, 0, 0;           /* Pure black background         */
@@ -474,24 +474,24 @@
   .callout {
     box-shadow: none !important;
     border: 1px solid #999 !important;
-    border-left: 4px solid #793e9c !important;
+    border-left: 4px solid #724276 !important;
     background: #fff !important;
     animation: none !important;
   }
   .callout-title-inner {
-    color: #793e9c !important;
+    color: #724276 !important;
     text-shadow: none !important;
   }
   .callout-content {
     color: #000 !important;
   }
   .callout-content a {
-    color: #572a71 !important;
+    color: #603764 !important;
     text-decoration: underline !important;
   }
   .callout-content strong,
   .callout-content em {
-    color: #793e9c !important;
+    color: #724276 !important;
     text-shadow: none !important;
   }
 }
