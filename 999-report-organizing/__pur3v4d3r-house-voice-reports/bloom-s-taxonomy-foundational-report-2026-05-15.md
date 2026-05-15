@@ -40,7 +40,7 @@ source-type: academic-synthesis
 research-base: "mixed (theoretical-curricular and empirical)"
 evidence-quality: "high"
 key-researchers: ["Benjamin S. Bloom", "David R. Krathwohl", "Lorin W. Anderson", "Elizabeth J. Simpson", "Anita J. Harrow"]
-word-count: "to be updated after generation"
+word-count: "~17,500"
 complexity-level: advanced-practitioner
 target-audience: "Intermediate to advanced learners; educators; curriculum designers; lifelong autodidacts"
 depth-level: comprehensive
@@ -66,13 +66,25 @@ appendix_sections_included:
   - expansion_topics
   - pkb_connections
   - quality_self_assessment
-lexicon_term_count: "to be updated"
-reference_count: "to be updated"
-flashcard_seed_count: "to be updated"
-expansion_topic_count: "to be updated"
-wiki_link_count: "to be updated"
-callout_count: "to be updated"
-original_contributions: []
+lexicon_term_count: "10"
+reference_count: "11"
+flashcard_seed_count: "10"
+expansion_topic_count: "5"
+wiki_link_count: "~80"
+callout_count: "~65"
+original_contributions:
+  - name: "The Sovereignty Progression Re-Reading of the Cognitive Hierarchy"
+    type: "theoretical-integration"
+    epistemic_status: "well-motivated-synthesis"
+    validation_needed: true
+  - name: "Diagnostic-versus-Prescriptive Distinction in Taxonomy Use"
+    type: "interpretive-framework"
+    epistemic_status: "well-motivated-synthesis"
+    validation_needed: false
+  - name: "Tool-Not-Theory Methodological Stance Toward Educational Classifications"
+    type: "methodological-innovation"
+    epistemic_status: "well-motivated-synthesis"
+    validation_needed: false
 review-frequency: quarterly
 mastery-stage: budding
 importance: "high"
@@ -428,4 +440,641 @@ Several of these alternatives deserve brief mention. **Marzano and Kendall's New
 >
 > **Transition:** With the framework's architecture, history, practical uses, and critiques now in view, one turns to the question of the framework's contemporary relevance to the kind of self-directed knowledge work that PKB practice exemplifies — and to whether the taxonomy still earns its place in such a practice.
 
-<!-- MARKER_005 -->
+## Section 7: Living Legacy — The Taxonomy in Self-Directed and PKB-Mediated Learning
+
+If one steps back from the institutional contexts in which the taxonomy was developed — examiners' meetings, school-district objective-writing workshops, instructional-design textbooks — and asks what the framework offers to the contemporary [[autodidacticism|autodidact]] working through a [[personal-knowledge-base|personal knowledge base]] of her own construction, one finds that the answer is, perhaps surprisingly, more substantial than one might initially expect, but in a register that the institutional reception has largely overlooked. The framework's gift to self-directed learning is not its hierarchical structure (which the autodidact will rightly hold lightly) and not its verb lists (which she will treat as starting points rather than as binding constraints), but its *vocabulary for self-diagnosis* — its capacity to support the kind of fine-grained metacognitive observation that distinguishes the deliberate self-developer from the casual reader who imagines that having seen something once is the same thing as having understood it.
+
+Consider what happens when a careful PKB practitioner reads a substantial work — say, a primary source in cognitive psychology — and asks herself the question: at what level of Bloom's revised taxonomy am I currently operating with this material? The honest answer is often diagnostic in a way that promotes the next move: "I can *remember* the major terms; I can *understand* the argument well enough to paraphrase it; I cannot yet *apply* the framework to a novel case I have not been walked through; I am nowhere near being able to *analyze* the argument's internal structure or *evaluate* its strength against alternatives." Each level the practitioner cannot yet perform names a specific next investment of attention; the framework, used this way, becomes a *navigational instrument* for the practitioner's own continued engagement with the material. This is the use the original 1956 committee, focused on test-item analysis, only obliquely anticipated — but it is also the use that the addition of *metacognitive knowledge* in the 2001 revision most directly enables.
+
+> [!claude-insight] **The Taxonomy as Metacognitive Mirror**
+> What the framework offers the self-directed learner, on careful use, is a structured way to ask the question that habitual learners avoid: *what would it actually look like to know this well?* The answer, traversing the levels, names the gap between current capability and full understanding in terms specific enough to be acted on. This is the same diagnostic function the framework performs in formal assessment design (Section 5) — but now performed by the learner on her own developing capability, with no external assessor required. The taxonomy becomes a [[metacognitive-scaffolding|metacognitive scaffolding]] device: present in the early stages, fading as the practitioner internalizes the questions it represents.
+
+The PKB context adds a further dimension that the institutional contexts mostly lack. In a personal knowledge base, learning is not bounded by a course or a syllabus; the practitioner is responsible both for setting her own objectives and for assessing her own progress — both for what to learn next and for whether she has, in any meaningful sense, learned what she set out to learn. The taxonomy contributes to both halves of this responsibility. On the *objective-setting* side, it supplies vocabulary for distinguishing kinds of capability one might wish to develop, and for noticing whether one's stated learning goals are actually demanding the kind of cognitive engagement one supposes them to demand ("I want to *understand* X" — but what would understanding actually require?). On the *assessment* side, it supplies vocabulary for distinguishing the level at which one has actually engaged the material, and for recognizing the difference between recognition (which fluent reading produces almost automatically) and the higher-level capabilities that require deliberate construction.
+
+The connection to [[self-regulated-learning|self-regulated learning]] is direct and worth drawing out explicitly. The contemporary self-regulated-learning literature (associated with researchers including Pintrich, Zimmerman, Schunk, and others) describes self-regulation as a cyclical process of *forethought* (planning and goal-setting), *performance* (executing the learning activity with attention to one's own cognitive processes), and *reflection* (evaluating the outcome and adjusting future planning). At each phase of this cycle, the taxonomy's vocabulary supports more articulate self-regulation: in forethought, the practitioner uses the taxonomy to specify what level of capability the planned engagement is meant to develop; in performance, she uses it to monitor whether the engagement is in fact eliciting that level of cognitive work; in reflection, she uses it to characterize what level was actually achieved and what remains. The taxonomy does not *constitute* self-regulated learning, but it offers some of the vocabulary that self-regulated learning needs.
+
+> [!definition] **The Taxonomy as Metacognitive Vocabulary**
+> The Bloom-Krathwohl-Anderson taxonomy, employed in self-directed learning, functions less as a *prescription* for what to learn and more as a *vocabulary* for thinking about one's own learning. It supplies terms by which the learner can specify objectives, monitor performance against those objectives, and evaluate outcomes — the three core operations of self-regulated learning.
+>
+> **Boundary 1:** Used this way, the framework does *not* claim to capture all the dimensions of learning; it offers a vocabulary for the cognitive dimension that the learner may need to supplement with affective and dispositional vocabularies (drawn from the Krathwohl 1964 affective taxonomy, from contemporary self-regulated-learning theory, or elsewhere).
+> **Boundary 2:** This use does not require the cumulative-hierarchy claim to hold; it requires only that the categories support useful self-distinctions.
+> **Operational Indicator:** A self-directed learner uses the taxonomy as metacognitive vocabulary when she can specify, in Bloom-keyed terms, both her current level of engagement with given material and the level she is working toward.
+> **Report-Specific Significance:** This use rehabilitates the framework for contemporary autodidact and PKB practice in a way that addresses several of the critiques Section 6 raised — by treating the framework as descriptive vocabulary rather than as prescriptive theory.
+> **See also:** [[self-regulated-learning]], [[metacognitive-monitoring]], [[reflective-thinking]], [[scaffolding]]
+
+A particularly valuable application of the framework in PKB practice is in the design of *spaced-repetition* and *retrieval-practice* sequences. As Section 5 noted in connection with formative assessment, the taxonomy's level-vocabulary makes it easy to design graded sequences of self-tests: a Remember-level question for the basic terminology of a concept; an Understand-level question requiring paraphrase or exemplification; an Apply-level question demanding deployment in a near-novel case; an Analyze-level question requiring decomposition of a related work; an Evaluate-level question requiring judgment by criteria; eventually a Create-level prompt requiring genuine construction. The practitioner who maintains spaced-repetition cards keyed to the levels can monitor not just *whether* she remembers a topic but *how deeply* she has engaged with it, and can identify which levels of engagement remain to be cultivated. This use connects the framework to [[retrieval-practice|retrieval practice]] and the [[spacing-effect|spacing effect]] in a particularly fruitful way.
+
+> [!original-synthesis] **The Taxonomy as a Sovereignty Progression**
+> A perhaps unexpected synthesis emerges if one places the taxonomy in conversation with the recent [[scaffolding-sovereignty-progression|scaffolding-sovereignty progression]] literature. The taxonomy's hierarchy can be re-read, in the PKB context, not as a hierarchy of *cognitive demand* but as a hierarchy of *cognitive sovereignty*: at the lower levels, the learner is most dependent on external structure (someone has provided the content to be remembered, the explanation to be understood, the procedure to be applied); at the higher levels, the learner increasingly contributes structure of her own (she selects the elements to be analyzed, the criteria for evaluation, the form of the new construction in creation). The progression up the taxonomy, on this re-reading, is a progression toward [[metacognitive-sovereignty|metacognitive sovereignty]] — toward the capacity to direct one's own cognitive engagement without continuous external scaffolding. This re-reading is original to this report and is offered as a working synthesis rather than a settled claim; it is well-motivated by both Bloom's own writings on the *long-term aims* of education and by the contemporary self-regulated-learning literature, but it has not (to this report's knowledge) been developed in the literature in this form.
+
+What the contemporary autodidact gains from the framework, taken in the spirit Section 6 recommended, is a vocabulary that supports more articulate self-direction without requiring assent to the framework's stronger theoretical claims. The framework's cumulative-hierarchy thesis can be held lightly; its operational verbs can be supplemented with vocabulary from other traditions (SOLO, Marzano-Kendall, the affective taxonomy, contemporary self-regulated-learning theory); its institutional baggage can be left behind in the institutional contexts that produced it. What remains — and what proves quite durable — is a structured way to ask oneself how deeply one has engaged with what one is reading, and what the next level of engagement would require. For a [[personal-knowledge-management|personal knowledge management]] practice that takes its own development seriously, this is no small contribution.
+
+> [!section-summary] **Section 7 Summary**
+> - In self-directed and PKB-mediated learning, the taxonomy functions less as a prescriptive theory and more as a *metacognitive vocabulary* supporting articulate self-diagnosis at each stage of self-regulated learning (forethought, performance, reflection).
+> - The framework supports the design of graded retrieval-practice and spaced-repetition sequences keyed to levels of cognitive engagement, supplementing the *whether* of remembering with the *how deeply* of understanding.
+> - The hierarchy can be re-read, in the PKB context, as a progression toward metacognitive sovereignty — from dependence on external scaffolding at the lower levels to self-directed cognitive construction at the higher levels (a re-reading offered here as original synthesis).
+
+> [!reflection] **Reflective Questions**
+> - Of the material currently in one's PKB, on what fraction has one performed the *Apply* or higher levels of engagement, in the strict sense? On what fraction has one performed only Remember or Understand? What does the answer suggest about how one's PKB has actually been used?
+> - When one writes a permanent note, what level of engagement does the writing represent? Could the note be written *better* by aiming for a higher level of engagement with the source material before writing?
+> - The proposed re-reading of the hierarchy as a sovereignty progression is offered as original synthesis; what would count as evidence for or against it?
+
+> [!situation-model] **Situation Model — Updated Through Section 7**
+> **Key Entities:** The taxonomy as metacognitive vocabulary; self-regulated learning's three-phase cycle (forethought-performance-reflection); the proposed sovereignty-progression re-reading.
+> **Causal Map:** Self-directed learning requires self-set objectives and self-administered assessment → the taxonomy supplies vocabulary for both → the framework becomes a metacognitive instrument rather than a prescriptive theory in the PKB context.
+> **Temporal/Logical Sequence:** PKB practitioner sets objective using taxonomy vocabulary → engages material → monitors level of engagement → evaluates outcome → adjusts next iteration.
+> **Structural Overview:** The framework, lifted out of its institutional setting, becomes a tool for individual cognitive self-direction.
+> **Evolution This Section:** Connected the framework to contemporary self-regulated-learning theory; proposed the sovereignty-progression re-reading; identified the framework's most durable contribution to autodidact practice.
+> **Goals & Motivations:** This report — to demonstrate that the framework, properly handled, remains valuable for the contemporary serious learner.
+> **Tensions & Unresolved Questions:** The empirical status of the sovereignty-progression re-reading; the question of how much the framework's vocabulary actually improves self-directed learning when no external assessment is in play.
+> **Connections Across Sections:** This section returns to threads from Sections 3 (affective internalization), 4 (metacognitive knowledge), 5 (constructive alignment as self-applied), and 6 (the tool-not-theory stance).
+> **Emerging Patterns:** The framework's contemporary value lies in what it makes thinkable for the careful self-developer; this is a quieter contribution than its institutional history would suggest, but a more lasting one.
+> **Open Threads:** Far transfer to other domains; final synthesis of what the framework gives and what it withholds.
+>
+> **Transition:** With the framework's role in self-directed learning examined, one turns to the question of where the structural insights of taxonomy-design, beyond the specifics of the educational application, find their most fruitful application in adjacent domains.
+
+---
+
+## Far Transfer: Applying These Insights Beyond Education
+
+If one wishes to think carefully about how the structural lessons of Bloom's taxonomy transfer beyond their original domain, one does well to begin with the warning the [[transfer-of-learning|transfer-of-learning]] literature has been issuing for at least four decades: surface similarity between domains is a poor guide to *whether* and *how* the structural principles of one domain illuminate another. Halpern's work on critical thinking transfer, the Perkins-Salomon "high-road" and "low-road" distinction (high-road transfer requires deliberate abstraction of the underlying principle and conscious application to the new domain), and Barnett and Ceci's nine-dimensional taxonomy of transfer all converge on a single methodological caution: useful far transfer requires explicit identification of the *structural principle* being transferred, not merely surface analogy between source and target domains. With that caution registered, several domains seem to admit non-trivial transfer of Bloom-derived structural insights, in ways worth examining.
+
+The first transfer domain is **software engineering competency frameworks**. The structural problem Bloom faced in 1948 — the need for a shared vocabulary by which institutions could compare what they were teaching and assessing — recurs in the contemporary problem of specifying software-engineering competencies across organizations whose internal terminologies have evolved independently. The structural principle worth transferring is not the specific six-level hierarchy but the *meta-principle* that competency specification benefits from explicit verb-keyed observable performance criteria, and that competency frameworks should distinguish levels of demand (recall vs. understanding vs. application vs. design vs. evaluation) even when the specific levels are calibrated to the new domain. The Dreyfus model of skill acquisition (novice → advanced beginner → competent → proficient → expert) and the Software Engineering Body of Knowledge (SWEBOK) competency descriptors both, on careful inspection, share structural commitments with the Bloom tradition; the transfer is not coincidental but reflects the shared underlying problem of multi-institutional capability specification.
+
+> [!far-transfer] **Software Engineering Competency Frameworks**
+> **Structural Principle:** Multi-institutional capability specification requires verb-keyed observable performance criteria that distinguish levels of cognitive demand.
+> **Concrete Application:** A team adopting a software-engineering competency framework benefits from Bloom-style explicit articulation of what *applying* a design pattern means in observable terms, distinct from *recognizing* the pattern in existing code or *creating* a new pattern in response to a novel situation.
+> **Boundary Condition:** The transfer holds for the meta-principle (verb-keyed observable performance) but not necessarily for the specific six-level hierarchy or the cumulative-hierarchy claim — software engineering may admit a different number of levels and different prerequisite relations.
+> **See also:** [[expertise-development]], [[deliberate-practice]], [[domain-specific-knowledge]]
+
+The second transfer domain is **medical training**, where George Miller's 1990 pyramid (Knows → Knows How → Shows How → Does) is a deliberate cousin of the Bloom hierarchy adapted for clinical competence. Miller's pyramid carries forward Bloom's structural insight — that capability assessment must distinguish levels of demand — while making the specific levels appropriate to the clinical context (where the difference between knowing what to do and actually doing it under conditions of clinical pressure is everything). The transfer here is mature and well-established; what the Bloom tradition contributes is the *principle* that competency frameworks require explicit attention to the gap between propositional knowledge and demonstrated capability, and that the levels of demand should be operationalized by reference to what the practitioner can actually *do*. The boundary condition, in clinical contexts, is that the affective and dispositional dimensions (which the Krathwohl 1964 affective taxonomy addresses but which are largely missing from clinical competency frameworks) are arguably more central to medical practice than to most other professional domains, and a Bloom-only transfer that imports only the cognitive hierarchy will systematically underrepresent what makes a good clinician good.
+
+> [!far-transfer] **Medical Training (Miller's Pyramid)**
+> **Structural Principle:** Clinical competence requires distinguishing levels of demonstrated capability, from propositional knowledge through to demonstrated performance under realistic conditions.
+> **Concrete Application:** Medical school assessment programs use Miller's four-level pyramid to design assessments at appropriate levels (multiple-choice for *Knows*, OSCEs for *Shows How*, work-based assessment for *Does*).
+> **Boundary Condition:** The cognitive hierarchy alone is insufficient; clinical competence requires affective and dispositional vocabulary the Bloom cognitive taxonomy does not provide.
+> **See also:** [[expertise-development]], [[deliberate-practice]], [[mastery-learning]]
+
+The third transfer domain is **AI capability evaluation** — the contemporary problem of specifying what an AI system can and cannot do and at what level of cognitive demand. The challenge here is that AI systems often exhibit performance profiles that violate the Bloom hierarchy in interesting ways: they may *create* fluently while failing to *understand* in any meaningful sense, may *evaluate* surface features while failing to *apply* in genuinely novel cases, may *remember* exhaustively while showing no signs of *analyzing* the structures they reproduce. The transferable insight from Bloom is the *vocabulary* for distinguishing these levels — but the transfer also surfaces, by negation, what the Bloom hierarchy was implicitly assuming about cognition that AI systems do not satisfy: namely, that the levels are produced by the same underlying cognitive architecture and therefore tend to develop together. AI capability evaluation thus benefits from the framework's vocabulary while serving as a kind of natural experiment in what happens when the cumulative-hierarchy assumption is dramatically violated. The boundary condition is that AI capability evaluation may need taxonomies that the educational tradition has never had to develop — vocabulary for assessing systems whose cognitive profile is *non-human-shaped* — and Bloom's framework, useful as a starting point, may need to be substantially extended to do this work.
+
+> [!far-transfer] **AI Capability Evaluation**
+> **Structural Principle:** Capability assessment requires distinguishing levels of cognitive demand; the levels can be specified by reference to observable performance independently of the cognitive architecture producing the performance.
+> **Concrete Application:** AI system evaluation benefits from explicit Bloom-keyed test-set design distinguishing recall, understanding, application, analysis, evaluation, and creation tasks — surfacing the characteristic non-uniformity of AI capability profiles across these levels.
+> **Boundary Condition:** The cumulative-hierarchy assumption is dramatically violated by current AI systems; the framework must be used diagnostically rather than as a development trajectory.
+> **See also:** [[critical-thinking]], [[expertise-development]], [[knowledge-transfer]]
+
+> [!reflection] **Metacognitive Closing on Far Transfer**
+> Each of the three transfer cases illustrates a different relationship between source and target domain. The software-engineering case is a *direct structural transfer* in which the meta-principle migrates intact. The medical-training case is a *successful but partial transfer* in which the cognitive hierarchy migrated decades ago and has settled in, but in which the affective dimension never made the trip and is now missed. The AI-evaluation case is a *transfer-by-negation* in which the framework's vocabulary helps articulate exactly what the target domain *fails to satisfy* about the framework's underlying assumptions. None of the three is a casual analogy; each is what Perkins and Salomon would call high-road transfer, requiring deliberate abstraction of the structural principle. That this is the harder kind of transfer to perform is, perhaps, why most invocations of "Bloom's Taxonomy" outside education default instead to the easier and considerably less useful surface-analogy form.
+
+---
+
+## Synthesis and Integration
+
+If one returns, at the end of this examination, to the question with which the schema activation opened — *what does the cognitive process described by an everyday verb like "understand" or "evaluate" actually demand of the learner, and how would one know whether that demand had been met?* — one finds that the framework Bloom and his collaborators built, restructured, contested, and refined over seven decades supplies, on careful reading, a partial but durable answer. The answer is not the pyramid that decorates teacher-training textbooks, and not the cumulative hierarchy whose strict form the empirical evidence has not borne out; the answer is closer to a *vocabulary* — a structured set of distinctions by which one can specify what one is asking of oneself or another, and by which one can monitor whether the asking has been met. This is a more modest contribution than the framework's institutional dominance suggests, but it is also a more durable one, and it is the contribution that survives the critiques of Section 6 most fully intact.
+
+What one finds, weaving the threads of the preceding sections together, is a framework whose value lies in its [[knowledge-graph|architecture]] of distinctions rather than in any of its specific structural claims. The distinctions between recall and understanding, between understanding and application, between application and analysis, between analysis and evaluation, between evaluation and original creation — these distinctions, treated as types of cognitive demand rather than as a developmental sequence, do useful work that is not easily replicated by other vocabularies. The 2001 revision's introduction of the four-fold knowledge dimension (factual, conceptual, procedural, metacognitive) does similarly useful work, especially for the contemporary self-directed learner whose engagement with material is increasingly a matter of building knowledge structures the institutional curriculum no longer supplies for her. The affective taxonomy of 1964, despite its institutional neglect, supplies vocabulary for the dispositional dimension of learning that any serious account of [[self-regulated-learning|self-regulated learning]] needs and that no purely cognitive framework can provide.
+
+What the framework *cannot* do, and what one must look elsewhere for, includes: a complete model of cognitive architecture (the framework was never that and should not be asked to be); a vocabulary for the [[domain-specific-knowledge|domain-specific]] cognitive operations that constitute much of expert performance (the framework's domain-general posture is a limit, not merely a feature); a satisfactory account of how learning actually proceeds developmentally (the cumulative hierarchy is at best a normative ideal, not a descriptive law); a vocabulary for the dimensions of education the verb-keyed format makes hard to articulate (intellectual virtue, taste, sensibility — the territory of liberal education that the framework's mid-century behaviorist inheritance left underdeveloped). For each of these, other tools — SOLO, the affective taxonomy, contemporary cognitive-science work on expertise, the philosophical literature on intellectual virtue — supplement what Bloom alone cannot supply.
+
+The original contribution this report has attempted, beyond the synthesis of established materials, is the proposal in Section 7 that the taxonomy's hierarchy can be re-read, in the [[personal-knowledge-base|PKB]] and self-directed learning context, as a *sovereignty progression* — a progression from cognitive dependence on external scaffolding at the lower levels to self-directed cognitive construction at the higher levels. This re-reading is well-motivated by Bloom's own writings on the long-term aims of education and by the contemporary self-regulated-learning literature, but it has not been developed in this form in the literature; it is offered here as a working synthesis that the careful PKB practitioner may find generative, with the explicit acknowledgment that it remains speculative pending further development. Whether the re-reading deserves the status of an accepted theoretical extension is a question this report cannot settle; that the re-reading helps the contemporary autodidact understand why the framework remains valuable to her practice is, at least, a hypothesis worth entertaining.
+
+The framework's *limitations*, openly faced, are part of what makes it usable: the practitioner who knows what the taxonomy cannot do is in a better position to use it for what it can. Held lightly, used diagnostically rather than prescriptively, supplemented where it falls short, the Bloom-Krathwohl-Anderson tradition continues to earn its place in the vocabulary of the careful learner — not because it is the last word on cognitive development, but because it remains, after seven decades of use and revision and contestation, one of the more useful vocabularies the field has produced for thinking about what we are asking of ourselves and others when we ask them to learn.
+
+What remains, beyond the close of this synthesis, is the question the framework has always pointed toward but never fully answered: what would it look like to sustain, throughout a long working life, the kind of attention to one's own cognitive engagement that the framework's higher levels describe? That question opens onto a wider territory than this report can survey — territory that includes [[self-regulated-learning|self-regulated learning]], [[metacognition|metacognition]], [[deliberate-practice|deliberate practice]], [[expertise-development|expertise development]], and the [[examined-witness|examined life]] more broadly construed. The taxonomy is one entry into this territory, but it is not the only one, and the practitioner who treats it as a beginning rather than as an end is the practitioner who will get the most from it.
+
+---
+
+## Appendix
+
+### 8.1 Lexicon of Key Terms
+
+> [!definition] **Educational Taxonomy (Bloom 1956)**
+> A formally articulated classification of educational objectives, intended to support shared vocabulary across institutions and to make the cognitive demand of objectives and assessments explicit and comparable.
+>
+> **Boundary 1:** A taxonomy is not a curriculum; it classifies objectives without specifying which objectives a given program ought to pursue.
+> **Boundary 2:** A taxonomy is not a theory of cognition; it organizes types of demand without committing to specific claims about cognitive architecture.
+> **Etymology:** From Greek *taxis* (arrangement) and *nomos* (law) — literally, "the law of arrangement."
+> **Operational Indicator:** A taxonomy is functioning as a taxonomy when participants in different institutional contexts can use its terms to describe and compare their objectives without further negotiation.
+> **Report-Specific Significance:** The genus to which Bloom's framework belongs; understanding what kind of object a taxonomy is helps avoid the recurrent error of asking it to do work (e.g., supply a developmental theory) it was never designed to do.
+> **See also:** [[knowledge-classification]], [[learning-objectives]], [[curriculum-design]]
+
+> [!definition] **Cumulative Hierarchy (Bloom 1956)**
+> The structural claim that each level of the cognitive taxonomy presupposes the capabilities of all lower levels — that one cannot, for example, evaluate without first being able to analyze, apply, understand, and remember.
+>
+> **Boundary 1:** The claim is structural, not temporal — it does not assert that learners must master each level fully before moving to the next, only that the higher capabilities depend on the lower.
+> **Boundary 2:** Empirical research has not consistently borne out the strict version of the claim; the 2001 revision substantially softens it.
+> **Operational Indicator:** A practitioner is treating the cumulative hierarchy as a strict claim when she insists that lower-level objectives must be mastered before higher-level objectives are introduced into instruction.
+> **Report-Specific Significance:** The most contested of Bloom's structural commitments; the framework's value largely survives loosening this claim, but much classroom practice is built on its strict form.
+> **See also:** [[learning-progression]], [[cognitive-development]], [[scaffolding]]
+
+> [!definition] **Cognitive Process Dimension (Anderson & Krathwohl 2001)**
+> The horizontal axis of the 2001 revised taxonomy, comprising six levels of cognitive process: Remember, Understand, Apply, Analyze, Evaluate, Create. Replaces the noun-form categories of the 1956 framework with verb-form processes.
+>
+> **Boundary 1:** The dimension classifies *types* of cognitive process, not *intensities* of any single process.
+> **Boundary 2:** The order remains roughly hierarchical (Create at the apex) but the cumulative-prerequisite claim is held more loosely than in the 1956 framework.
+> **Operational Indicator:** An instructor is using the Cognitive Process Dimension when learning objectives are formulated using the verbs of the dimension and assessments demand the level of cognitive process the objective specifies.
+> **Report-Specific Significance:** Together with the Knowledge Dimension, defines the 4×6 matrix that constitutes the contemporary Bloom-Krathwohl-Anderson framework.
+> **See also:** [[cognitive-process]], [[learning-objectives]], [[constructive-alignment]]
+
+> [!definition] **Knowledge Dimension (Anderson & Krathwohl 2001)**
+> The vertical axis of the 2001 revised taxonomy, distinguishing four types of knowledge: Factual (terminology and elements), Conceptual (categories, principles, theories), Procedural (techniques and methods), and Metacognitive (knowledge of cognition itself).
+>
+> **Boundary 1:** The dimension classifies *types* of knowledge, not specific knowledge contents; it is independent of the subject-matter domain.
+> **Boundary 2:** The four types are not always cleanly separable in practice; particular learning episodes may involve all four simultaneously.
+> **Operational Indicator:** A curriculum is attending to the Knowledge Dimension when objectives explicitly specify which type of knowledge is the target, not merely which cognitive process is to be performed on it.
+> **Report-Specific Significance:** The Knowledge Dimension's inclusion of metacognitive knowledge is the principal innovation of the 2001 revision and the bridge to contemporary self-regulated-learning theory.
+> **See also:** [[procedural-knowledge]], [[conceptual-knowledge]], [[metacognitive-knowledge]]
+
+> [!definition] **Metacognitive Knowledge (Anderson & Krathwohl 2001, building on Flavell 1979)**
+> Knowledge of cognition in general and awareness and knowledge of one's own cognition: includes strategic knowledge (knowing about cognitive strategies), knowledge about cognitive tasks (knowing when to use which strategy), and self-knowledge (knowing one's own strengths, weaknesses, motivations).
+>
+> **Boundary 1:** Metacognitive knowledge is the *content* of metacognition; metacognitive *monitoring* and *control* are the regulatory processes that act on this knowledge.
+> **Boundary 2:** Distinguished from metacognitive *experience* (the in-the-moment feeling of knowing or not knowing) and from metacognitive *skill* (the capacity to deploy the knowledge effectively).
+> **Operational Indicator:** A learner is exhibiting metacognitive knowledge when she can articulate which strategies she uses for which tasks and why those strategies suit her cognitive profile.
+> **Report-Specific Significance:** The 2001 revision's most consequential addition; bridges the framework to contemporary self-regulated-learning theory.
+> **See also:** [[metacognition]], [[metacognitive-monitoring]], [[self-regulated-learning]]
+
+> [!definition] **Internalization (Krathwohl, Bloom & Masia 1964)**
+> The structural principle of the affective taxonomy: the progression from awareness of an external value or attitude through to its incorporation into the learner's stable character — Receiving → Responding → Valuing → Organization → Characterization.
+>
+> **Boundary 1:** Internalization is a developmental claim about how affective dispositions form, not a prescriptive claim that all learners *should* internalize all values.
+> **Boundary 2:** The five levels are not always cleanly separable in practice; transitions between adjacent levels are gradual rather than discrete.
+> **Operational Indicator:** A learner has internalized a value to the *Characterization* level when the value reliably influences behavior across situations without requiring deliberate invocation.
+> **Report-Specific Significance:** The principal contribution of the affective taxonomy; central to contemporary theorizing about [[mastery-goal-orientation|mastery-goal orientation]] and [[intrinsic-motivation|intrinsic motivation]].
+> **See also:** [[affective-domain]], [[value-formation]], [[character-development]]
+
+> [!definition] **Constructive Alignment (Biggs 1996, 1999)**
+> The principle that learning objectives, instructional activities, and assessment tasks should all be aligned in their cognitive demand: students should be taught at the level they are expected to perform at and assessed at the level they have been taught to.
+>
+> **Boundary 1:** Alignment is a *necessary* but not sufficient condition for instructional effectiveness; aligned-but-poorly-taught material remains poorly taught.
+> **Boundary 2:** The principle does not specify *which* cognitive levels a program should target; it specifies only that the levels chosen must align across objectives, instruction, and assessment.
+> **Operational Indicator:** A program is constructively aligned when, for each major objective, one can point to specific instructional activities and assessment tasks operating at the same cognitive level.
+> **Report-Specific Significance:** The taxonomy's most enduring practical contribution arguably lies in its role as the vocabulary by which constructive alignment can be checked.
+> **See also:** [[backward-design]], [[assessment-design]], [[curriculum-alignment]]
+
+> [!definition] **Backward Design (Wiggins & McTighe 1998, 2005)**
+> The curriculum-design methodology of beginning with desired learning outcomes, working backward to specify the assessment evidence that would demonstrate those outcomes, and only then designing the instructional activities meant to produce them. Closely related to constructive alignment.
+>
+> **Boundary 1:** Backward design is a *design methodology*, not a *theory of learning*; it organizes the design process without committing to specific claims about how learning proceeds.
+> **Boundary 2:** Effective backward design requires that the desired outcomes be specified at a level of detail sufficient to determine assessment evidence — vague outcomes produce vague designs.
+> **Operational Indicator:** A unit has been designed backward when the assessment tasks were specified before the instructional activities and when the activities were chosen with the assessments in view.
+> **Report-Specific Significance:** The dominant contemporary curriculum-design methodology in K-12 contexts; relies heavily on Bloom-keyed objective specification.
+> **See also:** [[curriculum-design]], [[assessment-design]], [[constructive-alignment]]
+
+> [!definition] **Depth of Knowledge (Webb 1997)**
+> An alternative to Bloom's framework comprising four levels of cognitive demand: Recall (Level 1), Skill/Concept (Level 2), Strategic Thinking (Level 3), and Extended Thinking (Level 4). Distinguished from Bloom by its rejection of the cumulative-hierarchy claim and its treatment of levels as types of demand rather than as a developmental sequence.
+>
+> **Boundary 1:** DOK classifies the *demand* of tasks, not the *cognitive process* the learner uses to meet the demand.
+> **Boundary 2:** The four levels do not correspond directly to Bloom's six; cross-walks between the frameworks are approximate.
+> **Operational Indicator:** A practitioner is using DOK when she classifies an item by the depth of cognitive engagement it requires rather than by which Bloom-keyed verb describes the operation it elicits.
+> **Report-Specific Significance:** The principal alternative to Bloom in U.S. K-12 assessment-design contexts; explicitly designed to address the cumulative-hierarchy critique.
+> **See also:** [[cognitive-demand]], [[assessment-design]], [[bloom-s-taxonomy]]
+
+> [!definition] **SOLO Taxonomy (Biggs & Collis 1982)**
+> The Structure of the Observed Learning Outcome taxonomy, classifying student responses by their structural complexity rather than by the cognitive process they require: Prestructural, Unistructural, Multistructural, Relational, Extended Abstract.
+>
+> **Boundary 1:** SOLO classifies *response structure*, not *cognitive process*; a Relational response can be produced by various cognitive processes.
+> **Boundary 2:** SOLO is most useful when the assessor can examine actual student work; less useful when only objective-statements are available.
+> **Operational Indicator:** A practitioner is using SOLO when she classifies the *structure* a student response exhibits (one element vs. multiple unrelated elements vs. multiple related elements vs. abstracted generalization) rather than the verb the response satisfies.
+> **Report-Specific Significance:** Addresses the assessment-classification problem from a different angle than Bloom; particularly valuable for analyzing actual student responses.
+> **See also:** [[learning-progression]], [[response-classification]], [[cognitive-complexity]]
+
+---
+
+### 8.2 Key Figures & Intellectual Lineage
+
+> [!person] **Benjamin Samuel Bloom (1913-1999, University of Chicago)**
+> **Core Contribution:** Convened and led the cross-institutional examiners' meetings that produced the *Taxonomy of Educational Objectives, Handbook I: Cognitive Domain* (1956). Subsequently developed the influential *Mastery Learning* framework (1968) and the "two-sigma problem" formulation (1984) regarding the effectiveness of one-on-one tutoring.
+> **Relationship to Others:** Mentor and collaborator of David Krathwohl on both the original 1956 handbook and the 1964 affective handbook; intellectual influence on Lorin Anderson, who would lead the 2001 revision; influenced later by John Carroll's model of school learning.
+> **Key Works:** *Taxonomy of Educational Objectives, Handbook I: Cognitive Domain* (1956); *Taxonomy of Educational Objectives, Handbook II: Affective Domain* (with Krathwohl & Masia, 1964); *Human Characteristics and School Learning* (1976); *All Our Children Learning* (1981).
+
+> [!person] **David Reading Krathwohl (1921-2016, Syracuse University)**
+> **Core Contribution:** Co-author of the original 1956 handbook; principal author of the 1964 affective taxonomy; co-editor (with Lorin Anderson) of the 2001 revision. The single figure whose work spans all three major moments of the framework's evolution.
+> **Relationship to Others:** Long collaboration with Bloom from the 1948 examiners' meetings through the 1964 affective handbook; partnership with Anderson on the 2001 revision; significant influence on educational measurement methodology more broadly.
+> **Key Works:** *Taxonomy of Educational Objectives, Handbook II: Affective Domain* (1964); *A Taxonomy for Learning, Teaching, and Assessing* (with Anderson, 2001); "A Revision of Bloom's Taxonomy: An Overview" (*Theory Into Practice* 41:4, 2002).
+
+> [!person] **Lorin W. Anderson (1945-, University of South Carolina)**
+> **Core Contribution:** Led the working group that produced the 2001 revision; principal architect of the verb-form Cognitive Process Dimension and of the Knowledge Dimension's metacognitive subtype. A former student of Bloom's, Anderson's revision combined fidelity to the original framework's purposes with substantive structural innovation.
+> **Relationship to Others:** Doctoral student of Bloom; long collaborator of Krathwohl; influenced by Flavell's metacognitive theorizing, by mastery learning research, and by curriculum-alignment literature.
+> **Key Works:** *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives* (with Krathwohl, 2001); various works on mastery learning and time-on-task research.
+
+> [!person] **Elizabeth Jane Simpson (1918-2009, University of Illinois)**
+> **Core Contribution:** Proposed the most widely-cited psychomotor taxonomy (1972), comprising seven levels from Perception through Origination. Her framework filled the gap left by the original Bloom committee's failure to produce a psychomotor handbook.
+> **Relationship to Others:** Worked independently of the Bloom committee but in explicit conversation with the cognitive and affective handbooks; later cited by Harrow and others working on motor-skill classification.
+> **Key Works:** *The Classification of Educational Objectives in the Psychomotor Domain* (1972).
+
+> [!person] **John Biggs (1934-, University of Hong Kong, emeritus)**
+> **Core Contribution:** Co-developer (with Kevin Collis) of the SOLO Taxonomy (1982); articulator of the principle of constructive alignment (1996, 1999), which provides the conceptual foundation for much contemporary outcomes-based education.
+> **Relationship to Others:** Critical interlocutor of the Bloom tradition; developed alternatives that addressed problems Bloom did not while remaining in productive conversation with the Bloom-keyed practitioner community.
+> **Key Works:** *Evaluating the Quality of Learning: The SOLO Taxonomy* (with Collis, 1982); *Teaching for Quality Learning at University* (1999, multiple editions).
+
+---
+
+### 8.3 Conceptual Tensions & Open Questions
+
+> [!tension] **Cumulative Hierarchy: Strict Claim vs. Loose Vocabulary**
+> **Position A — Strict Cumulative Hierarchy:** Each higher level of the cognitive taxonomy genuinely requires the lower levels as prerequisites; instruction should sequence accordingly.
+> **Position B — Loose Vocabulary:** The levels are useful types of cognitive demand but not strict developmental prerequisites; instruction can introduce higher-level engagement before lower-level mastery is complete.
+> **Current State of Evidence:** Empirical research has not borne out the strict cumulative claim; the 2001 revision explicitly softens it; nevertheless, much classroom practice continues to assume the strict form.
+> **Why It Matters:** The choice has substantial consequences for curriculum sequencing, for the timing of higher-level engagement, and for how the framework's "scaffold" function should be understood.
+> **This Report's Stance:** Position B, with the qualification that the strict claim survives as a normative ideal in some well-structured procedural domains while failing as a descriptive law of cognitive development generally.
+
+> [!tension] **Synthesis vs. Evaluation at the Apex (1956 vs. 2001)**
+> **Position A — Evaluation at Apex (Bloom 1956):** The capacity for principled judgment by criteria represents the highest cognitive function and properly occupies the framework's apex.
+> **Position B — Create at Apex (Anderson & Krathwohl 2001):** The capacity to produce something genuinely new (renamed from "Synthesis") is cognitively more demanding than Evaluation and properly occupies the apex.
+> **Current State of Evidence:** Both positions have empirical and conceptual support; the choice depends on how one operationalizes the apex levels and on background views about whether judgment or production is more cognitively demanding.
+> **Why It Matters:** The framework's structural shape and the institutional emphasis it places on certain capabilities depend on this choice.
+> **This Report's Stance:** Mildly favors the 2001 ordering, while noting that the choice is more about emphasis than about substance — both Evaluation and Create represent demanding capabilities that develop together rather than sequentially.
+
+> [!debate] **Domain-General vs. Domain-Specific Cognition**
+> **View 1 — Domain-Generality (Bloom tradition):** The cognitive processes named by the taxonomy operate similarly across disciplines; a single set of verbs can usefully describe cognitive demand in chemistry, history, and literature.
+> **View 2 — Domain-Specificity (Sweller, Tricot, contemporary cognitive psychology):** What looks like the same cognitive process across domains is substantially constituted by domain-specific knowledge structures; surface-similar verbs may mask cognitively different work.
+> **Current State of the Debate:** The bulk of cognitive-psychology evidence over the last forty years favors View 2 in its strong form, though the practical convenience of View 1 in curriculum design has kept it institutionally dominant.
+> **Implications:** Affects how the framework should be used in expert-novice progressions, in transfer-of-learning task design, and in the specification of competency frameworks across domains.
+> **This Report's Perspective:** Closer to View 2 in the descriptive question while granting View 1 a heuristic role; the two positions are reconcilable if Bloom's verbs are treated as descriptions of *demand types* rather than as descriptions of *cognitive processes*.
+
+---
+
+### 8.4 References
+
+> [!cite] **Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. New York: Longman.**
+> **Annotation:** The principal contemporary statement of the framework; introduces the two-dimensional matrix structure, the verb-form Cognitive Process Dimension, and the Knowledge Dimension including metacognitive knowledge. Essential reading for any serious engagement with the framework.
+> **Recommended Sections:** Sections 4 and 5 of this report.
+
+> [!cite] **Biggs, J. B., & Collis, K. F. (1982). *Evaluating the quality of learning: The SOLO taxonomy (Structure of the Observed Learning Outcome)*. New York: Academic Press.**
+> **Annotation:** Articulates the SOLO Taxonomy as an alternative classification scheme based on response structure rather than cognitive process. Particularly valuable for analyzing actual student work.
+> **Recommended Sections:** Section 6.
+
+> [!cite] **Bloom, B. S. (Ed.). (1956). *Taxonomy of educational objectives, handbook I: The cognitive domain*. New York: David McKay.**
+> **Annotation:** The founding text. Worth reading in the original for the careful attention to test-item examples and the explicit articulation of the cumulative-hierarchy claim that subsequent practice has often glossed over.
+> **Recommended Sections:** Sections 1, 2, and 6 of this report.
+
+> [!cite] **Krathwohl, D. R. (2002). A revision of Bloom's taxonomy: An overview. *Theory Into Practice*, 41(4), 212-218.**
+> **Annotation:** Compact and accessible introduction to the 2001 revision by one of its principal architects; useful for readers who do not have time to engage the full Anderson-Krathwohl volume.
+> **Recommended Sections:** Section 4.
+
+> [!cite] **Krathwohl, D. R., Bloom, B. S., & Masia, B. B. (1964). *Taxonomy of educational objectives, handbook II: The affective domain*. New York: David McKay.**
+> **Annotation:** The under-read second handbook; introduces the internalization principle and the five-level affective taxonomy. Worth recovering for contemporary work on dispositional learning and motivation.
+> **Recommended Sections:** Section 3.
+
+> [!cite] **Marzano, R. J., & Kendall, J. S. (2007). *The new taxonomy of educational objectives* (2nd ed.). Thousand Oaks, CA: Corwin Press.**
+> **Annotation:** A substantial alternative taxonomy reorganizing cognitive objectives around three systems (self, metacognitive, cognitive) and six processing levels. Addresses several of the gaps in the Anderson-Krathwohl revision more directly.
+> **Recommended Sections:** Section 6.
+
+> [!cite] **Simpson, E. J. (1972). *The classification of educational objectives in the psychomotor domain*. Washington, DC: Gryphon House.**
+> **Annotation:** The most widely cited of the proposed psychomotor taxonomies; seven levels from Perception through Origination. Stands in for the never-completed third Bloom-committee handbook.
+> **Recommended Sections:** Section 3.
+
+> [!cite] **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. *Educational Psychology Review*, 31, 261-292.**
+> **Annotation:** Recent restatement of the cognitive-load-theory critique of domain-general approaches to instructional design, including implicit critique of the Bloom tradition's domain-general posture.
+> **Recommended Sections:** Section 6.
+
+> [!cite] **Webb, N. L. (1997). *Criteria for alignment of expectations and assessments in mathematics and science education* (Research Monograph No. 6). Washington, DC: Council of Chief State School Officers.**
+> **Annotation:** Original articulation of the Depth of Knowledge framework; explicitly addresses the cumulative-hierarchy problem by treating levels as types of demand rather than as developmental sequence.
+> **Recommended Sections:** Section 6.
+
+> [!cite] **Wiggins, G., & McTighe, J. (2005). *Understanding by design* (2nd ed.). Alexandria, VA: ASCD.**
+> **Annotation:** The principal contemporary statement of the backward-design methodology; relies heavily on Bloom-keyed objective specification while extending the framework with the *facets of understanding*.
+> **Recommended Sections:** Section 5.
+
+> [!cite] **Pintrich, P. R. (2002). The role of metacognitive knowledge in learning, teaching, and assessing. *Theory Into Practice*, 41(4), 219-225.**
+> **Annotation:** Companion piece to Krathwohl 2002 in the same special issue; develops the metacognitive-knowledge subtype of the Knowledge Dimension and links the 2001 revision to self-regulated-learning theory.
+> **Recommended Sections:** Sections 4 and 7.
+
+### 8.5 Methodology & Sources Note
+
+> [!methodology-and-sources] **Report Methodology and Epistemic Transparency**
+> **Traditions Synthesized:** This report draws principally on (a) the educational-measurement tradition rooted in the 1948 Boston ACE meetings and the Bloom committee's published handbooks (1956, 1964); (b) the curriculum-design literature on outcomes-based and aligned instruction (Biggs, Wiggins & McTighe); (c) the 2001 revision tradition (Anderson, Krathwohl, Pintrich) and its subsequent reception; (d) the cognitive-science critique of domain-general accounts of learning (Sweller, Tricot, contemporary cognitive load theory); (e) the alternative-taxonomy literature (Webb's DOK, Biggs-Collis SOLO, Marzano-Kendall); and (f) the contemporary self-regulated-learning literature (Pintrich, Zimmerman) for the Section 7 PKB application.
+>
+> **Claim Type Taxonomy:**
+>
+> | Claim Type | Epistemic Status | Example from this Report |
+> |---|---|---|
+> | Framework descriptions (1956, 1964, 2001) | Established | The 2001 revision introduces a 4×6 matrix of Knowledge × Cognitive Process Dimensions |
+> | Historical narrative (committee work, publication chronology) | Established | The 1948 Boston ACE meeting initiated the cross-institutional examiner collaboration |
+> | Empirical findings on cumulative hierarchy | Established (peer-reviewed) | Strict cumulative-hierarchy claim has not been borne out by empirical investigation |
+> | Cross-framework comparisons (Bloom vs. SOLO vs. DOK) | Well-motivated (interpretive) | SOLO classifies response structure where Bloom classifies cognitive demand |
+> | The "tool not theory" stance | Well-motivated (interpretive) | A defensible contemporary stance treats the framework as diagnostic vocabulary rather than developmental theory |
+> | Sovereignty-progression re-reading (Section 7) | Speculative (original to report) | The hierarchy can be re-read as a progression toward metacognitive sovereignty |
+> | The diagnostic-vs-prescriptive distinction in Section 5 | Well-motivated (claude-insight) | The framework is most useful diagnostically and least useful prescriptively |
+>
+> **Distinction Between Established Findings and Original Contributions:** The structural and historical content of Sections 1-6 reports established findings from the published literature, with the report's contribution being synthetic and integrative rather than novel. Section 7's PKB-application synthesis includes one explicitly speculative claim (the sovereignty-progression re-reading) that is offered as well-motivated working synthesis rather than settled doctrine. The framing decisions throughout — the choice of which critiques to foreground, the diagnostic-versus-prescriptive distinction, the calibration of the framework for the contemporary autodidact — represent interpretive contributions of the report.
+>
+> **Explicit Limitations:** (1) The report does not engage in detail with the substantial international (non-Anglophone) reception of the framework, particularly its development in Continental European pedagogy. (2) The empirical claims about cumulative hierarchy and domain specificity are reported in summary form; readers seeking the full empirical record should consult the cited primary literature. (3) The Section 7 PKB application is exploratory rather than empirically validated; the sovereignty-progression re-reading remains a hypothesis. (4) The report does not survey computational implementations of the taxonomy in adaptive learning systems, which is an active area of contemporary work.
+>
+> **AI Generation Transparency:** This report was generated by Claude (Anthropic), an AI language model, in collaboration with the user under the Foundational Report Generator framework v3.1.0 with Examined Witness house voice. Specific factual claims were drawn from established secondary literature; references cited are to real published works. Original contributions (notably the sovereignty-progression re-reading in Section 7 and the diagnostic-versus-prescriptive distinction in Section 5) are explicitly flagged as such and are offered as starting points for further development rather than as settled findings. Readers are encouraged to verify specific factual claims against the primary literature before relying on them in consequential contexts.
+
+---
+
+### 8.6 Argument Maps & Visual Summaries
+
+> [!diagram] **The Original 1956 Cognitive Pyramid**
+> ```
+>                          ┌──────────────┐
+>                          │  EVALUATION  │  ← Judgment by criteria, with defense
+>                          └──────────────┘
+>                       ┌────────────────────┐
+>                       │     SYNTHESIS      │  ← Production of novel structure
+>                       └────────────────────┘
+>                    ┌──────────────────────────┐
+>                    │        ANALYSIS          │  ← Decomposition; relationships
+>                    └──────────────────────────┘
+>                 ┌────────────────────────────────┐
+>                 │         APPLICATION            │  ← Use of principle in novel case
+>                 └────────────────────────────────┘
+>              ┌──────────────────────────────────────┐
+>              │          COMPREHENSION               │  ← Translation, interpretation
+>              └──────────────────────────────────────┘
+>           ┌────────────────────────────────────────────┐
+>           │              KNOWLEDGE                     │  ← Recall of terminology, facts
+>           └────────────────────────────────────────────┘
+>
+>           ←─── Cumulative-hierarchy claim: each level ───→
+>                  presupposes all lower levels
+> ```
+
+> [!diagram] **The 2001 Revised Two-Dimensional Matrix**
+> ```
+>                       Cognitive Process Dimension →
+>                  ┌──────────┬──────────┬──────┬─────────┬──────────┬────────┐
+>                  │ Remember │Understand│ Apply│ Analyze │ Evaluate │ Create │
+>                  ├──────────┼──────────┼──────┼─────────┼──────────┼────────┤
+>     Factual      │          │          │      │         │          │        │
+> Knowledge        ├──────────┼──────────┼──────┼─────────┼──────────┼────────┤
+>     Conceptual   │          │          │      │         │          │        │
+> Knowledge        ├──────────┼──────────┼──────┼─────────┼──────────┼────────┤
+>     Procedural   │          │          │      │         │          │        │
+> Knowledge        ├──────────┼──────────┼──────┼─────────┼──────────┼────────┤
+>     Metacognitive│          │          │      │         │          │        │
+> Knowledge        │          │          │      │         │          │        │
+>                  └──────────┴──────────┴──────┴─────────┴──────────┴────────┘
+>
+>           Each cell = a specifiable type of learning objective
+>           24 cells total (4 knowledge types × 6 cognitive processes)
+> ```
+
+> [!diagram] **Intellectual Lineage of the Framework**
+> ```
+>      Tyler (1949: Basic Principles of Curriculum)
+>                      │
+>                      ▼
+>      1948 Boston ACE Meeting (Bloom, Krathwohl, et al.)
+>                      │
+>                      ├─────────────► Bloom 1956 (Cognitive Handbook)
+>                      │                       │
+>                      │                       ▼
+>                      └────────► Krathwohl, Bloom & Masia 1964 (Affective)
+>                                              │
+>                                              │  (Psychomotor handbook never produced)
+>                                              │
+>                                              ▼
+>      Simpson 1972 ◄──────── (independent psychomotor proposals) ────► Harrow 1972
+>                                              │
+>            Flavell 1979 ──────────► Anderson & Krathwohl 2001 (Revised Taxonomy)
+>      (metacognition)                         │
+>                                              ▼
+>                                  Pintrich 2002 (metacognitive knowledge subtype)
+>                                              │
+>                                              ▼
+>                          Contemporary self-regulated-learning literature
+>                                       (Section 7 application)
+>
+>      Parallel alternative tradition:
+>      Biggs & Collis 1982 (SOLO) ──► Webb 1997 (DOK) ──► Marzano & Kendall 2007
+> ```
+
+---
+
+### 8.7 Practical Application Protocols
+
+> [!protocol] **Bloom-Aligned Learning Objective Construction**
+> **Purpose:** To produce a learning objective that is both observable in performance and explicit about the cognitive demand it places on the learner.
+> **Steps:**
+> 1. Identify the *knowledge type* the objective concerns (Factual, Conceptual, Procedural, or Metacognitive).
+> 2. Identify the *cognitive process* the learner is to perform on that knowledge (Remember, Understand, Apply, Analyze, Evaluate, Create).
+> 3. Select a verb from the published list keyed to the chosen cognitive process.
+> 4. Specify the *content* the verb is to operate on (the specific knowledge, situation, or material).
+> 5. Specify, where applicable, the *conditions* under which the performance is to occur and the *criteria* by which it will be judged.
+> 6. State the objective in the form: "Given [conditions], the learner will [verb] [content] [to criteria]."
+> 7. Check that the verb genuinely demands the cognitive process named (not merely surface-language similarity).
+> 8. Confirm that an assessment item operating at the same level can plausibly be designed to measure the objective.
+> 9. If no such assessment item is feasible, revise the objective rather than allowing assessment-objective drift.
+> 10. Document the (Knowledge × Cognitive Process) cell the objective occupies, for later alignment review.
+> **Use Cases:** Initial curriculum design, course revision, self-directed learning planning, PKB engagement objective-setting.
+> **Example:** "Given a published research article one has not previously read, the learner will analyze the relationship between the article's stated methodology and its actual findings, identifying any divergences and assessing their significance for the article's central claim (Procedural Knowledge × Analyze)."
+
+> [!checklist] **Constructive-Alignment Diagnostic Checklist**
+> **Purpose:** To verify that a unit, course, or program exhibits constructive alignment among its objectives, instructional activities, and assessments.
+> **Items:**
+> - [ ] Each major objective is keyed to a specific (Knowledge × Cognitive Process) cell.
+> - [ ] For each objective, at least one instructional activity is designed to develop performance at the named cognitive level.
+> - [ ] For each objective, at least one assessment task is designed to measure performance at the named cognitive level.
+> - [ ] Assessment tasks operating *below* the objective's level are not relied on as primary evidence of objective attainment.
+> - [ ] Assessment tasks operating *above* the objective's level are not used unless an additional, higher-level objective justifies them.
+> - [ ] The verb-list discipline has been applied: each objective begins with a verb that genuinely names the cognitive process required.
+> - [ ] Where the cumulative-hierarchy assumption is invoked in sequencing, the assumption has been examined for fit to the present domain.
+> - [ ] At least one objective targets *Metacognitive Knowledge*; if none does, the omission has been deliberate rather than incidental.
+> - [ ] Where affective dimensions are central to the program, affective-domain objectives have been articulated alongside cognitive ones.
+> - [ ] An end-of-course alignment review is scheduled to compare planned objectives to actual assessment outcomes.
+> **Use Cases:** Course design review, accreditation preparation, syllabus revision, peer-review of curricular materials.
+> **Example:** A graduate seminar on research methods that lists "students will critique published methodology" as an objective should have (a) instructional activities in which students examine and critique published methodology with feedback, and (b) assessments asking students to perform such critique on novel articles — not merely a final exam testing recall of methodological terms.
+
+> [!decision-tree] **Selecting Among Bloom, SOLO, DOK, and Marzano-Kendall**
+> **Purpose:** To decide which taxonomy is best suited to a given task.
+> **Branches:**
+> - If designing learning objectives for institutional alignment with widely-shared vocabulary, use **Bloom (2001 revision)** as the default.
+> - If analyzing the structure of actual student responses to assess learning outcome quality, use **SOLO Taxonomy**.
+> - If classifying assessment items by depth of cognitive demand without committing to developmental sequencing, use **Webb's DOK**.
+> - If the application context centrally involves metacognitive and self-system dimensions (e.g., self-directed adult learning), use **Marzano-Kendall** or supplement Bloom with explicit metacognitive vocabulary.
+> - If the context is *clinical or professional competency*, use **Miller's Pyramid** as the dominant frame, supplemented by Bloom for cognitive aspects.
+> - If the context is *AI capability evaluation*, use **Bloom diagnostically** to surface non-uniform capability profiles, with the explicit caveat that the cumulative-hierarchy assumption is dramatically violated.
+> **Use Cases:** Methodological selection at the start of a curriculum design or assessment development project.
+> **Example:** A team designing a graduate research-methods course chooses Bloom (2001) as the primary objective-writing framework, supplements with SOLO for analyzing student research-proposal drafts, and uses Marzano-Kendall vocabulary to articulate the metacognitive and dispositional objectives that pure cognitive-Bloom omits.
+
+---
+
+### 8.8 Spaced Repetition Seeds
+
+> [!flashcard]
+> **Question:** What is the principal structural difference between Bloom's 1956 framework and the Anderson-Krathwohl 2001 revision?
+> **Answer:** The 1956 framework is one-dimensional (six categories of cognitive demand); the 2001 revision is two-dimensional, separating a Knowledge Dimension (4 types: Factual, Conceptual, Procedural, Metacognitive) from a Cognitive Process Dimension (6 verb-form processes: Remember, Understand, Apply, Analyze, Evaluate, Create). The 2001 revision also softens the cumulative-hierarchy claim and renames Synthesis as "Create," moving it to the apex.
+> **Source:** Section 4.
+> **Difficulty:** Basic.
+> **Tags:** #concept #distinction #bloom-2001-revision
+
+> [!flashcard]
+> **Question:** Define "constructive alignment" in the sense established by Biggs.
+> **Answer:** The principle that learning objectives, instructional activities, and assessment tasks must all be aligned in their cognitive demand: students should be taught at the level they are expected to perform at and assessed at the level they have been taught to. Bloom's vocabulary is the standard means by which alignment claims are checked.
+> **Source:** Section 5; Lexicon entry 8.1.
+> **Difficulty:** Basic.
+> **Tags:** #definition #constructive-alignment #biggs
+
+> [!flashcard]
+> **Question:** What is the empirical status of the strict cumulative-hierarchy claim in Bloom's 1956 framework?
+> **Answer:** The strict claim — that each higher level genuinely requires all lower levels as prerequisites — has not been borne out by empirical investigation. Children make evaluative judgments before they can analyze; experts often make intuitive evaluations before articulating analytical justification; in some procedural domains, application can precede full conceptual understanding. The 2001 revision explicitly softens the claim, though much classroom practice continues to assume its strict form.
+> **Source:** Section 6.
+> **Difficulty:** Intermediate.
+> **Tags:** #empirical-finding #cumulative-hierarchy #critique
+
+> [!flashcard]
+> **Question:** Distinguish *Conceptual Knowledge* from *Procedural Knowledge* in the 2001 Knowledge Dimension.
+> **Answer:** Conceptual Knowledge is knowledge of categories, principles, theories, models, and structures — the *what is true* and *how things are organized* knowledge of a domain. Procedural Knowledge is knowledge of techniques, methods, algorithms, and criteria for using them — the *how to do* knowledge of a domain. The two are independent: one can know procedures without understanding why they work (procedural without conceptual) or understand principles without being able to apply them (conceptual without procedural).
+> **Source:** Section 4.
+> **Difficulty:** Intermediate.
+> **Tags:** #distinction #knowledge-dimension #2001-revision
+
+> [!flashcard]
+> **Question:** What is *Metacognitive Knowledge* in the 2001 Knowledge Dimension, and why is its inclusion considered a major innovation?
+> **Answer:** Metacognitive Knowledge is knowledge of cognition in general and of one's own cognition specifically — including strategic knowledge (which strategies exist), task knowledge (when to use which), and self-knowledge (one's own strengths and weaknesses). Its inclusion in the 2001 Knowledge Dimension is considered a major innovation because it gives the framework explicit purchase on the metacognitive dimension central to self-regulated-learning theory and to the contemporary autodidact's practice — a dimension the 1956 framework lacked.
+> **Source:** Section 4; Lexicon entry 8.1.
+> **Difficulty:** Intermediate.
+> **Tags:** #concept #metacognition #2001-revision
+
+> [!flashcard]
+> **Question:** What are the five levels of Krathwohl, Bloom & Masia's 1964 affective taxonomy, and what structural principle organizes them?
+> **Answer:** Receiving, Responding, Valuing, Organization, and Characterization. The organizing principle is *internalization*: the progression from awareness of an external value through to its incorporation into the learner's stable character. Receiving is mere awareness; Characterization is the consistent influence of the value on behavior across situations.
+> **Source:** Section 3; Lexicon entry 8.1.
+> **Difficulty:** Intermediate.
+> **Tags:** #process #affective-domain #internalization
+
+> [!flashcard]
+> **Question:** Why might a practitioner use SOLO Taxonomy rather than Bloom for a particular task?
+> **Answer:** SOLO classifies actual *student responses* by their structural complexity (Prestructural, Unistructural, Multistructural, Relational, Extended Abstract) rather than classifying *objectives or items* by cognitive demand. SOLO is therefore better suited when the assessor has access to actual student work and wants to characterize the structural quality of the response, rather than when planning what cognitive demand to make of students prospectively.
+> **Source:** Section 6; Lexicon entry 8.1.
+> **Difficulty:** Intermediate.
+> **Tags:** #application #alternative-taxonomy #solo
+
+> [!flashcard]
+> **Question:** Applied to one's own PKB practice, what does the taxonomy contribute that other vocabularies do not?
+> **Answer:** The taxonomy supplies a vocabulary for *self-diagnosis* of the level at which one is currently engaging given material, and for *specifying the next level* of engagement to pursue. Used this way, the framework supports articulate self-regulated learning by giving the practitioner explicit terms in which to set objectives, monitor performance, and evaluate outcomes — without requiring assent to the framework's stronger theoretical claims about cumulative hierarchy or domain generality.
+> **Source:** Section 7.
+> **Difficulty:** Advanced.
+> **Tags:** #application #pkb #self-regulated-learning
+
+> [!flashcard]
+> **Question:** What is the *sovereignty-progression* re-reading of the taxonomy proposed in Section 7, and what is its epistemic status?
+> **Answer:** The proposal that Bloom's hierarchy can be re-read, in the PKB context, not as a hierarchy of cognitive *demand* but as a hierarchy of cognitive *sovereignty*: at lower levels the learner is most dependent on external structure (content provided, explanations given); at higher levels the learner increasingly contributes structure of her own (selecting elements to analyze, criteria for evaluation, forms of new construction). Its epistemic status is *speculative original synthesis* — well-motivated by Bloom's writings on the long-term aims of education and by self-regulated-learning theory, but not previously developed in this form in the literature; offered as a working hypothesis rather than a settled claim.
+> **Source:** Section 7.
+> **Difficulty:** Advanced.
+> **Tags:** #original-synthesis #sovereignty #pkb
+
+> [!flashcard]
+> **Question:** How does the framework's principal contribution to AI capability evaluation differ from its contribution to medical training (Miller's Pyramid)?
+> **Answer:** In medical training, the framework's contribution is a *direct structural transfer* — Miller's Pyramid carries forward the principle that competency assessment must distinguish levels of demonstrated capability, calibrated to clinical contexts. In AI capability evaluation, the contribution is a *transfer-by-negation*: the framework's vocabulary helps articulate exactly what AI systems *fail to satisfy* about its underlying assumption that the levels develop together. AI systems characteristically exhibit non-uniform profiles that violate the cumulative-hierarchy expectation in revealing ways.
+> **Source:** Far Transfer section.
+> **Difficulty:** Advanced.
+> **Tags:** #connection #transfer #ai-evaluation
+
+### 8.9 Expansion Topics for the PKB
+
+> [!further-exploration] **Potential Expansion Topics**
+> If one surveys what this report has and has not done — and what its synthesis has made newly visible as the natural next inquiries — one finds that the framework's contemporary life suggests at least four directions of further work, each of which would benefit from a different report architecture suited to its particular argumentative shape.
+>
+> > [!topic-idea] **Comparative Architecture: Bloom vs. SOLO vs. DOK vs. Marzano-Kendall**
+> > **Title:** [[bloom-solo-dok-marzano-kendall-comparative-architecture]]
+> > **Description:** A side-by-side comparative analysis of the four principal contemporary classification frameworks for learning outcomes, examining their structural commitments, the problems each was designed to address, the empirical evidence supporting each, and the practical contexts in which each is best suited. Would include direct cross-walks between frameworks and an explicit decision-tree for framework selection.
+> > **Connection to This Report:** The present report introduces all four frameworks in Section 6 and 8.7 but cannot, given its foundational scope, give any of them the comparative treatment it deserves. The natural follow-up is the comparative architecture report.
+> > **Priority:** High.
+> > **Suggested Report Type:** Comparative Architecture.
+> > **Prerequisites:** [[bloom-s-taxonomy]], [[solo-taxonomy]], [[depth-of-knowledge]], [[learning-objectives]]
+>
+> > [!topic-idea] **Historical-Genealogical Account of the Taxonomy's Evolution (1948-2026)**
+> > **Title:** [[bloom-taxonomy-historical-genealogy]]
+> > **Description:** A chronological account of the framework's intellectual lineage from the 1948 Boston ACE meetings through the 1956 and 1964 handbooks, the long interregnum, the 2001 revision, and the contemporary reception. Would trace not only the published works but the institutional pressures, professional debates, and pedagogical fashions that shaped each phase.
+> > **Connection to This Report:** Section 1 and the lineage diagram in 8.6 sketch this history; a full Historical-Genealogical report would develop it with the depth the foundational report cannot.
+> > **Priority:** Medium.
+> > **Suggested Report Type:** Historical-Genealogical Report.
+> > **Prerequisites:** [[bloom-s-taxonomy]], [[history-of-educational-measurement]], [[curriculum-theory-history]]
+>
+> > [!topic-idea] **Practitioner's Field Guide: Writing Learning Objectives for Self-Directed Study**
+> > **Title:** [[learning-objectives-self-directed-field-guide]]
+> > **Description:** A problem-first practical guide to applying the Bloom-keyed objective-writing methodology to one's own self-directed learning — including PKB engagement, autodidactic study programs, and lifelong learning contexts. Would include extensive worked examples, common failure modes, decision-trees for objective selection, and templates for objective-tracking.
+> > **Connection to This Report:** Section 7 and the protocol in 8.7 sketch this application; a full Field Guide would develop it as a practical reference document for the autodidact.
+> > **Priority:** Critical.
+> > **Suggested Report Type:** Practitioner's Field Guide.
+> > **Prerequisites:** [[bloom-s-taxonomy]], [[learning-objectives]], [[self-regulated-learning]], [[personal-knowledge-base]]
+>
+> > [!topic-idea] **Dialectical Treatment of the Cumulative-Hierarchy Debate**
+> > **Title:** [[cumulative-hierarchy-dialectical-report]]
+> > **Description:** A thesis-antithesis-synthesis treatment of the long-running debate over whether the cumulative-hierarchy claim should be understood strictly, loosely, or rejected. Would engage the empirical literature, the cognitive-development literature, and the curriculum-design literature, working toward a synthesis that articulates the conditions under which the strict, loose, and rejected versions each have purchase.
+> > **Connection to This Report:** Section 6 introduces the debate and 8.3 lists it as a tension; a Dialectical report would give the debate the structured argumentative treatment it warrants.
+> > **Priority:** High.
+> > **Suggested Report Type:** Dialectical Report.
+> > **Prerequisites:** [[cumulative-hierarchy]], [[learning-progression]], [[cognitive-development]], [[scaffolding]]
+>
+> > [!topic-idea] **Socratic Exploration: What Is the Object of Educational Classification?**
+> > **Title:** [[educational-classification-socratic-exploration]]
+> > **Description:** A question-chain investigation of the foundational philosophical question: when one classifies "learning objectives," what kind of object is being classified — performances, dispositions, capabilities, demand-types, or something else? How does the answer constrain what classification systems can legitimately do?
+> > **Connection to This Report:** Section 1 raises this question in passing (when distinguishing taxonomy from theory of cognition); a Socratic Exploration would pursue the question with the philosophical patience it requires.
+> > **Priority:** Medium.
+> > **Suggested Report Type:** Socratic Exploration.
+> > **Prerequisites:** [[learning-objectives]], [[educational-philosophy]], [[classification-theory]]
+
+---
+
+### 8.10 Connections to the PKB & Other Reports
+
+> [!connections-and-links] **Connections to the PKB & Other Reports**
+>
+> **Upstream Dependencies (this report builds on):**
+>
+> 1. [[learning-objectives]] — The foundational concept of the learning objective as a specifiable performance outcome is presupposed throughout this report; Bloom's framework can be understood, in one sense, as a vocabulary for typing such objectives by cognitive demand.
+> 2. [[educational-measurement]] — The historical context of post-WWII American educational measurement, with its concerns about test-item comparability and curriculum alignment, supplies the institutional pressure that produced the taxonomy in the first place.
+> 3. [[curriculum-theory]] — The broader curriculum-design tradition, particularly Tyler's 1949 *Basic Principles of Curriculum and Instruction*, supplies the theoretical context within which Bloom's committee operated and to which their work was a contribution.
+> 4. [[cognitive-process]] — The general concept of a cognitive process as a typifiable mental operation underlies both the 1956 and 2001 frameworks; readers without this background may find the distinctions among Remember, Understand, Apply, etc., less crisp than they appear in the text.
+>
+> **Downstream Applications (this report enables):**
+>
+> 1. [[constructive-alignment]] — The principle that objectives, instruction, and assessment must align in cognitive demand can only be operationalized given a vocabulary for specifying that demand; Bloom is the principal such vocabulary, making constructive alignment a downstream application of the taxonomy's adoption.
+> 2. [[backward-design]] — The Wiggins-McTighe methodology of beginning curriculum design with desired outcomes presupposes a way of articulating those outcomes; Bloom-keyed objective specification is the standard such articulation.
+> 3. [[assessment-design]] — Contemporary assessment-design practice routinely uses Bloom (or Bloom-derivative DOK) vocabulary to specify what cognitive level a given item targets; the assessment community's practice would be markedly different without this vocabulary.
+> 4. [[self-regulated-learning]] — The Section 7 application argues that the 2001 framework, with its metacognitive-knowledge subtype, is well-positioned to support contemporary self-regulated-learning practice; the framework supplies the vocabulary in which the autodidact's self-monitoring can be conducted.
+> 5. [[personal-knowledge-base|PKB practice]] — The application of the framework as self-diagnostic vocabulary in PKB engagement, developed in Section 7, opens a downstream line of work on how the autodidact's reading and notetaking practice can be structured by Bloom-keyed objectives.
+>
+> **Lateral Connections (mutual enrichment):**
+>
+> 1. [[metacognition]] — The 2001 revision's inclusion of metacognitive knowledge brings the taxonomy into productive dialogue with the metacognition literature; each enriches the other, with the taxonomy supplying classification vocabulary and metacognition supplying theoretical depth.
+> 2. [[transfer-of-learning]] — The Far Transfer section illustrates the framework's susceptibility to (and the limits of) cross-domain transfer; the taxonomy and transfer literature each illuminate the other's blind spots.
+> 3. [[expertise-development]] — The expert-novice literature on domain-specific knowledge structures stands in productive tension with Bloom's domain-general posture; their juxtaposition clarifies what each tradition can and cannot do.
+> 4. [[mastery-learning]] — Bloom's own subsequent mastery-learning work applies the taxonomic vocabulary to a particular instructional model; the two bodies of work are mutually clarifying.
+>
+> **Strengthened Nodes (specific existing permanent notes this report enriches):**
+>
+> 1. [[learning-objectives]] — This report supplies the principal contemporary classification vocabulary for objective-typing, materially extending what the existing note can say about how learning objectives are specified.
+> 2. [[constructive-alignment]] — This report's Section 5 develops the conceptual foundation of constructive alignment, the practical methodology of its application, and the specific role Bloom-keyed vocabulary plays in alignment-checking.
+> 3. [[backward-design]] — This report's discussion of backward design as a Bloom-dependent methodology gives the existing note explicit grounding in the taxonomic tradition.
+> 4. [[metacognition]] — This report's Section 4 and Section 7 develop the relationship between Bloom's metacognitive-knowledge subtype and the broader metacognition literature, supplying connective material the existing note benefits from.
+> 5. [[self-regulated-learning]] — This report's Section 7 develops the Bloom-SRL connection in specific terms keyed to PKB practice, materially enriching what the existing SRL note can say about applied vocabulary.
+> 6. [[learning-progression]] — This report's treatment of cumulative hierarchy clarifies what claims about learning progression can and cannot be defended on the basis of the taxonomy.
+
+---
+
+### 8.12 Report Quality Self-Assessment
+
+> [!quality-assessment] **Self-Assessment of This Report**
+>
+> | Dimension | Score | Evidence | Notes |
+> |---|---|---|---|
+> | Depth of Coverage | 9/10 | All seven main sections developed at substantial length; original 1956 framework, 2001 revision, affective and psychomotor domains, practical application, critiques, and contemporary PKB application all treated in depth. | Could be deepened on international reception and on computational implementations. |
+> | Structural Completeness | 9/10 | All required sections present; all 11 applicable appendix subsections produced (8.11 Navigation skipped per instructions for non-series report); Examined Witness voice maintained throughout. | One could imagine additional ASCII diagrams in 8.6. |
+> | Complexity Appropriateness | 9/10 | Calibrated for advanced practitioner; technical vocabulary defined on first use; tensions and limitations explicitly engaged rather than glossed. | The Examined Witness voice may be experienced as stylistically demanding by readers expecting standard expository prose. |
+> | Coverage Completeness | 8/10 | Three domains, original and revised frameworks, principal alternatives, practical methodology, and forward-looking PKB application all present. | Does not survey international (non-Anglophone) reception or computational/adaptive-learning implementations in detail. |
+> | Accuracy & Evidence | 8/10 | All factual claims about the framework's history and structure drawn from established literature; eleven real references cited; speculative claims explicitly flagged. | Some empirical claims (cumulative hierarchy, domain specificity) reported in summary; readers wanting full empirical record should consult primary literature directly. |
+> | Knowledge Graph Contribution | 9/10 | Approximately 80+ wiki-links integrated; 6+ existing PKB nodes explicitly strengthened; 5 expansion topics with suggested follow-up report types. | Could include further cross-references to the [[personal-knowledge-base]] practice notes. |
+> | Practical Utility | 9/10 | Three concrete protocols (objective-writing, alignment-diagnostic, taxonomy-selection); ten flashcards spanning Basic to Advanced; explicit decision-trees and worked examples. | The protocols are most useful for self-directed learners and curriculum designers; less directly applicable to assessment-development specialists. |
+> | Originality | 8/10 | Two explicitly flagged original contributions: the sovereignty-progression re-reading of the hierarchy in Section 7 and the diagnostic-versus-prescriptive distinction in Section 5. The methodology note in 8.5 also articulates the "tool-not-theory" stance as well-motivated interpretive position. | The originality is principally interpretive and synthetic rather than empirical; no novel empirical findings are claimed. |
+> | **Composite Score** | **8.6/10** | | **PASS** (threshold: 8.0). |
+>
+> **Identified Limitations:**
+> 1. The report does not engage in detail with the international (non-Anglophone) reception of the framework, particularly its development in Continental European pedagogy and in non-Western educational systems. Readers working in those contexts will find the report's perspective characteristically Anglo-American.
+> 2. The empirical claims about cumulative hierarchy and domain specificity are reported in summary form. The actual empirical literature is more nuanced than the report's discussion suggests; serious engagement with the empirical questions requires consulting the primary literature cited.
+> 3. The Section 7 application to self-regulated learning and PKB practice, while developed at some length, remains exploratory. The sovereignty-progression re-reading is offered as a hypothesis whose empirical validation has not been attempted.
+> 4. The report does not survey the substantial body of work on computational implementations of the taxonomy in adaptive learning systems, automated assessment, and AI-assisted curriculum design — a significant gap in coverage of contemporary practice.
+> 5. The Examined Witness house voice, while maintained throughout, may be experienced by some readers as more contemplative than the topic strictly requires; readers seeking maximally efficient information transfer might find the prose's deliberate slowness inefficient.
+>
+> **Recommendations for Future Revision:**
+> 1. Add a section on international reception, particularly the framework's translation into and adaptation by non-Anglophone educational traditions.
+> 2. Develop a companion empirical-review document treating the cumulative-hierarchy and domain-specificity questions in the depth the present summary cannot.
+> 3. Pursue the [[learning-objectives-self-directed-field-guide]] expansion topic to develop the PKB application in concrete practical detail.
+> 4. Add a section, or a companion document, surveying computational implementations and AI-mediated applications of the framework.
+> 5. Consider extracting Sections 4 and 7 as standalone shorter pieces for readers whose interest is specifically in the 2001 revision or the PKB application rather than in the full foundational treatment.
