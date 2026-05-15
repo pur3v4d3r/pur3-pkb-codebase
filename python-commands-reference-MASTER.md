@@ -593,7 +593,7 @@ find "02-projects" -name "*.md" -exec python 99-scripts/obsidian_toc.py {} --exe
 
 ---
 
-
+python 99-scripts/obsidian_toc.py "D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\examined-witness-house-voice\designing-pkb-metacognitive-scaffolds-for-critical-thinking-and-self-regulated-learning-foundational-report-2026-05-15.md" --execute --style alias
 
 
 
@@ -1158,7 +1158,7 @@ python "$V6" --input-dir "999-report-organizing/_extractor-output/2026-04-21-__p
 
 
   
-python 99-scripts/wiki_orphan_scanner.py --folder "D:\10_pur3v4d3r's-vault\99-scripts\synthetic-permanent-note-seeds\_run_v6_all_custom.sh" -q -o "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\audit-reports"
+
 
 
 
@@ -1196,4 +1196,4 @@ Flag	Purpose
 
 
 
-
+python 99-scripts/wiki_orphan_scanner.py --folder "D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\examined-witness-house-voice" -q -o "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\audit-reports"

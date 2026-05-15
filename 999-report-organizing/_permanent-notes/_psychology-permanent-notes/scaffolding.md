@@ -76,6 +76,17 @@ provenance:
 > [!attention] **Boundary**
 > Scaffolding is distinct from any supportive structure that does not have a specified fading schedule and engineered removal trajectory. It should not be confused with general helpful support provided by educators without a structured plan for withdrawal.
 
+> [!definition] **Metacognitive Scaffold (Synthesizing Wood, Bruner & Ross 1976; Pea 2004; Reiser 2004)**
+> A temporary external structure that performs, on the learner's behalf, a regulatory function the learner cannot yet perform reliably alone, in such a way that recurrent use of the structure makes the regulatory function progressively performable without the structure.
+>
+> **Boundary condition 1:** A structure that does not eventually fade — that remains a permanent feature of the cognitive workflow — is not a scaffold but a prosthesis. Both can be useful; only the former is developmental.
+> **Boundary condition 2:** A structure that performs a *content* function rather than a *regulatory* function (e.g., storing information, displaying it nicely) is not a metacognitive scaffold, however valuable it may otherwise be.
+> **Etymology:** From construction scaffolding — the temporary framework that supports building work and is removed once the structure stands. The pedagogical metaphor was introduced by Wood, Bruner, and Ross in 1976.
+> **Operational indicator:** The clearest sign that a structure is functioning as a scaffold (rather than a prosthesis) is that the learner, after sustained use, can perform the supported function in the structure's absence, and reports decreasing dependence on the structure over time.
+> **Report-specific significance:** This definition is the report's central conceptual instrument. Every design recommendation will be evaluated against the question: does this structure satisfy all four criteria — temporary, external, regulatory, developmental?
+> **See also:** [[scaffolding]], [[scaffolded-fading]], [[scaffolding-sovereignty-progression]], [[the-metacognitive-scaffolding-principle]]
+> **Source**: [[designing-pkb-metacognitive-scaffolds-for-studying-foundational-report-2026-05-15]]
+
 ## Core Explanation
 
 At its core, scaffolding is a pedagogical strategy designed to bridge the gap between what learners can do independently and their potential for more complex tasks. This approach is grounded in Vygotsky's zone of proximal development (ZPD), which posits that learning occurs through guided interaction with more knowledgeable others or within supportive environments.
