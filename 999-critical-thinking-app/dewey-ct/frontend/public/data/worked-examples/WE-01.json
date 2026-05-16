@@ -1,0 +1,149 @@
+{
+  "id": "WE-01",
+  "we_number": "WE-01",
+  "title": "Should I switch from Obsidian to Logseq?",
+  "subtitle": "A Paul-Elder full-session deliberate practice on a personal productivity decision",
+  "framework": "paul-elder",
+  "framework_label": "Paul-Elder Framework",
+  "object_type": "decision",
+  "question_type": "evaluative",
+  "stakes": "medium",
+  "difficulty": "intermediate",
+  "duration_minutes": 55,
+  "pre_confidence": 4,
+  "post_confidence": 2,
+  "rigor_score": 4.4,
+  "standards_audit": {
+    "clarity": 5,
+    "accuracy": 4,
+    "precision": 4,
+    "relevance": 5,
+    "depth": 5,
+    "breadth": 4,
+    "logic": 4,
+    "significance": 5,
+    "fairness": 4
+  },
+  "tags": ["paul-elder", "decision", "personal", "productivity", "PKM"],
+  "summary": "The analyst begins with a pre-confidence of 4/5 — near-certain they should switch. After completing all 8 elements, running the full standards audit, and genuinely steelmanning the case for staying, they end with a post-confidence of 2/5. The analysis reveals that almost all reasons for switching turn out to be solvable within Obsidian with workflow changes. The key turn: the Assumptions element surfaces that the analyst has been attributing 'feature gaps' to Obsidian that are actually personal workflow gaps.",
+  "how_to_use": "Read through the entire worked example once before opening the Deliberate Practice Full template or the Paul-Elder template. Notice especially (1) how the Information element handles disconfirming evidence, (2) how the Assumptions element reframes the entire analysis, and (3) what happens to confidence between pre and post. After reading, try the same template on a personal productivity or tool decision of your own.",
+  "learning_objectives": [
+    "See what genuine depth in the Assumptions element looks like — specifically, surfacing the load-bearing assumption that was completely invisible at the start of analysis",
+    "Understand how a well-executed steelman should produce actual uncertainty in the analyst, not just token acknowledgment of the alternative",
+    "Observe how a confidence drop from 4 to 2 after rigorous analysis is a mark of quality, not a failure — it means the analysis did something",
+    "See how the Information element differentiates between supporting evidence, genuine disconfirming evidence, and information gaps — not just listing everything known about the topic"
+  ],
+  "related_template_id": "deliberate-practice-full-v1",
+  "related_practice_problems": ["PP-01", "PP-02"],
+  "sections": [
+    {
+      "section_label": "Pre-Analysis Snapshot",
+      "fields": [
+        {
+          "label": "Object of Analysis",
+          "content": "Decision: Should I switch my primary note-taking and knowledge-management system from Obsidian to Logseq? I have used Obsidian for 18 months. I have been reading about Logseq's outliner model and bidirectional links for 6 weeks. I have a trial installation and have experimented for 3 hours total."
+        },
+        {
+          "label": "Object Type",
+          "content": "Personal decision — tool selection"
+        },
+        {
+          "label": "Question Type",
+          "content": "Evaluative — requires value judgments about my own workflow priorities"
+        },
+        {
+          "label": "Stakes",
+          "content": "Medium — the decision is consequential (migration cost: 4-6 hours, learning curve: several weeks) but reversible (I can keep the Obsidian vault and return to it)."
+        },
+        {
+          "label": "Pre-Analysis Confidence",
+          "content": "4/5 — I am fairly sure I should switch. Logseq's bidirectional linking model seems to fit how I actually think. I have been frustrated with Obsidian's flat file navigation for months."
+        },
+        {
+          "label": "Emotional Charge",
+          "content": "3/5 — moderate. The Logseq community is enthusiastic and the tool feels exciting in a way Obsidian has stopped feeling. There is a small element of novelty-chasing I am aware of."
+        },
+        {
+          "label": "Motivated Outcome",
+          "content": "I would prefer to conclude 'yes, switch.' I am bored with my current Obsidian setup and the novelty of Logseq is appealing. The conclusion I would find uncomfortable: 'your frustrations are workflow problems you have not solved, not software limitations.'"
+        },
+        {
+          "label": "Time Box",
+          "content": "60 minutes total | 5 min per Element | 10 min for Standards Audit | 5 min Closure"
+        }
+      ]
+    },
+    {
+      "section_label": "8 Elements of Thought",
+      "fields": [
+        {
+          "label": "Purpose",
+          "content": "The purpose of this decision is to identify the tool that will best support my long-term knowledge development and retrieval — specifically: capturing ideas efficiently, connecting concepts across domains, and reviewing accumulated knowledge without heavy maintenance overhead. The secondary purpose is reducing friction in daily note capture. I am NOT trying to build the most sophisticated PKM system; I am trying to get better at thinking by having a better-organised externalised memory."
+        },
+        {
+          "label": "Question at Issue",
+          "content": "The central question is: 'Given my specific workflow priorities (capture speed, concept linkage, low maintenance), is Logseq a materially better tool than Obsidian for my use case, when accounting for migration cost and learning curve?' \n\nSub-questions that must be answered first: (1) What specifically is failing in my current Obsidian setup? (2) Are those failures due to Obsidian's architecture or my workflow choices? (3) Does Logseq's architecture address those specific failures, or does it introduce different ones?\n\nThis is an evaluative question — the answer depends on my workflow values, not just facts about the tools."
+        },
+        {
+          "label": "Information",
+          "content": "SUPPORTING EVIDENCE (for switching):\n1. Logseq's outliner model makes hierarchical note structure visible at a glance — something I have been approximating with nested headers and often getting wrong\n2. Logseq's block-level references allow linking to specific paragraphs, not just full files — I have wanted this in Obsidian and used workarounds\n3. Several PKM practitioners I respect have reported higher capture velocity with Logseq's journal-first workflow\n4. Logseq is open-source; Obsidian is proprietary (though data remains in .md files)\n\nDISCONFIRMING EVIDENCE (against switching):\n1. In my 3 hours of Logseq trial, I have not yet reproduced my Obsidian workflow — which may be learning curve or may be genuine incompatibility\n2. Logseq has significantly slower performance with large vaults (>10k files) — I currently have 6k notes and am growing at ~400/month\n3. Logseq's mobile app is less mature than Obsidian's, and I capture 30% of notes on mobile\n4. Obsidian's plugin ecosystem is substantially larger — 3 of my 5 most-used Obsidian plugins have no direct Logseq equivalent\n5. A PKM practitioner whose opinion I trust (Andy Matuschak) uses neither and has written that tool-switching is often a form of productivity procrastination\n\nINFORMATION GAPS:\n- I do not know whether Logseq's performance issues are material at my vault scale or only at 3-4x my current size\n- I have not determined whether my 3 most important Obsidian plugins (Dataview, Templater, Excalidraw) have Logseq equivalents that satisfy my specific use cases\n- I have not spoken to anyone who switched FROM Logseq back to Obsidian — I have only read accounts of people who switched from Obsidian to Logseq"
+        },
+        {
+          "label": "Inferences and Conclusions",
+          "content": "Inference chain:\n(1) My current Obsidian setup produces friction in [navigation, concept linking, and daily capture]\n→ (2) This friction reduces the quality of my knowledge management practice\n→ (3) Logseq's design addresses these specific friction points better than Obsidian\n→ (4) Therefore Logseq would produce a better knowledge management practice for me\n→ (5) Therefore I should switch\n\nInference type: This is primarily an analogical inference (Logseq works well for practitioners with similar workflows to mine) combined with a causal inference (Logseq's architecture would cause the specific friction points to decrease).\n\nHIGHEST RISK INFERENCE STEP: Step 2→3. I am inferring that my specific friction points are caused by Obsidian's architecture rather than by my workflow choices. I have not tested this by attempting to solve those friction points within Obsidian. If the friction is a workflow problem rather than an architecture problem, step 3 is false — and the entire chain fails."
+        },
+        {
+          "label": "Concepts",
+          "content": "Key concept 1: 'Bidirectional linking' — In my mental model, this means any link between two notes creates a visible connection that can be navigated from either end. I have been treating this as Logseq's distinguishing feature. On reflection: Obsidian has had bidirectional links (backlinks panel) since 2021. The difference is that Logseq surfaces them more prominently. This is a difference of UI emphasis, not architecture. I had been treating a UI difference as a fundamental capability difference.\n\nKey concept 2: 'Knowledge management' — I have been using this as a single concept but it covers at least three distinct activities: (a) capture, (b) organisation/linkage, (c) retrieval/review. My frustrations are primarily in (b). Logseq's outliner model may improve (b) while making (a) slower (more structure required at capture time). I had not disaggregated these.\n\nKey concept 3: 'Migration cost' — I have been estimating this as 4-6 hours. On reflection: this estimate covers data migration (low) but not workflow rebuilding (high), plugin replacement (unknown), and re-learning muscle memory (unknown). The true migration cost is probably 2-4 weeks of reduced productivity, not 4-6 hours."
+        },
+        {
+          "label": "Assumptions",
+          "content": "LOAD-BEARING ASSUMPTION 1 (the one I was not aware of): I have been assuming that my navigation and concept-linking frustrations are caused by Obsidian's architecture. This is the assumption on which the entire argument for switching rests. But examining the Information element: most of the frustrations I can name are friction in my own organisation system, not software limitations. I have not updated my folder structure in 14 months. I have 23 templates, of which I actively use 4. My tagging system is inconsistent. If this assumption is false — if my frustrations are workflow problems — then switching tools solves nothing and adds a 2-4 week productivity cost.\n\nProbability this assumption is true: 30-40%. I would need to spend 2-3 weeks seriously cleaning up my Obsidian workflow before I could honestly test it.\n\nBACKGROUND ASSUMPTION: I am assuming that workflow improvements will compound into meaningful improvements in the quality of my thinking. This is plausible but not demonstrated. I may be optimising the container rather than the content.\n\nASSUMPTION I WAS PROBABLY UNAWARE OF: I have been treating the enthusiastic Logseq community as evidence that the tool is better. This assumes that the people writing enthusiastically about Logseq have similar use cases, knowledge sizes, and workflow priorities to me. That is unlikely — they may be heavy daily-note users; I am primarily a reference-and-connection user."
+        },
+        {
+          "label": "Implications",
+          "content": "DIRECT IMPLICATIONS of switching: 2-4 weeks reduced productivity during transition. Permanent loss of Dataview functionality (no Logseq equivalent). Mobile capture becomes more friction-heavy. Performance may degrade significantly within 12-18 months at current growth rate.\n\nINDIRECT IMPLICATIONS: If I switch and the frustrations persist (because they were workflow problems, not tool problems), I will have lost 2-4 weeks of productivity and learned that. If I switch and it works well, I will have improved my knowledge practice but may face performance issues in 12-18 months — creating another migration or tool-switching cycle.\n\nIMPLICATIONS FOR THE CURRENT INQUIRY: The most conservative and empirically sound next step is NOT to switch — it is to spend 2-3 weeks seriously refactoring my Obsidian workflow to test the load-bearing assumption. If that refactoring does not resolve the friction, the case for switching is much stronger. If it does resolve the friction, I have avoided a costly false move and improved my existing system."
+        },
+        {
+          "label": "Point of View / Standpoints",
+          "content": "DOMINANT STANDPOINT IN MY REASONING: A power user who values novel features and is at risk of productivity procrastination through tool optimisation. The entire initial argument for switching is visible from this standpoint.\n\nALTERNATIVE STANDPOINT 1 — The 'tool agnostic' standpoint: The quality of knowledge work is almost entirely determined by thinking quality, not tool choice. Andy Matuschak's observation that tool-switching is often productivity procrastination is the most pointed expression of this view. From this standpoint, both Obsidian and Logseq are good enough, and the 2-4 week migration cost would be better spent refining my thinking practice.\n\nALTERNATIVE STANDPOINT 2 — The 'ecosystem lock-in risk' standpoint: Both tools use plain Markdown files, so there is no true lock-in. However, Logseq uses block-level metadata in a format that Obsidian cannot read. If I build heavily on Logseq's block reference system, I create soft lock-in. From this standpoint, the migration risk is asymmetric: Obsidian→Logseq creates some lock-in; Logseq→Obsidian does not.\n\nSTEELMAN (the view I am most inclined to dismiss — 'you should NOT switch'): Your frustrations with Obsidian are real, but you have 18 months of evidence that you have not solved solvable workflow problems within Obsidian. You cannot diagnose that Obsidian's architecture is the problem when you have not actually tested the hypothesis. The Logseq excitement is predictable novelty-seeking — you felt the same way about Roam Research 18 months ago before you settled on Obsidian. Your confidence of 4/5 before analysis is itself a warning sign: high initial confidence on a complex evaluative question usually means an assumption has not been examined. The right move is to spend 2 weeks fixing your Obsidian workflow before considering any migration.\n\nOBSERVATION: After writing the steelman, I find myself genuinely less certain. The point about Roam Research is particularly pointed — I had entirely forgotten that I went through this same process 18 months ago."
+        }
+      ]
+    },
+    {
+      "section_label": "9 Intellectual Standards Self-Audit",
+      "ratings": {
+        "clarity": {"score": 5, "note": "The question at issue is stated precisely; key concepts are disaggregated. The distinction between bidirectional linking as UI vs. architecture is a clarity move that changed the analysis."},
+        "accuracy": {"score": 4, "note": "The performance and mobile app claims are based on community reports rather than personal testing. The migration cost estimate was revised but still not fully determined. Deducting 1 for these."},
+        "precision": {"score": 4, "note": "The inference chain is traced step-by-step. The probability estimate on the load-bearing assumption (30-40%) is more precise than 'probably false' but still uncertain. Could be more precise about what refactoring Obsidian workflow would actually involve."},
+        "relevance": {"score": 5, "note": "All evidence in the Information element bears directly on the specific question. The Andymatuschak reference is relevant because it challenges the framing, not just the conclusion."},
+        "depth": {"score": 5, "note": "The Assumptions element did the most work here — surfacing the load-bearing assumption changed the entire analysis. The load-bearing assumption was completely invisible at the start of the session. Depth is high."},
+        "breadth": {"score": 4, "note": "Three standpoints covered, steelman was genuine. Did not cover the perspective of heavy Logseq users who have been using it for 2+ years with large vaults — that perspective would have been valuable."},
+        "logic": {"score": 4, "note": "The highest-risk inference step is correctly identified. The logic of the conclusion (try refactoring first) follows from the analysis. Minor issue: the inference from 'the steelman made me less certain' to 'I should not switch' is not fully articulated."},
+        "significance": {"score": 5, "note": "The load-bearing assumption is the most significant finding. The analysis correctly focuses on it rather than optimising secondary concerns like open-source status."},
+        "fairness": {"score": 4, "note": "The steelman produced genuine uncertainty — the Roam Research point was uncomfortable and accurate. The Logseq community standpoint was treated charitably. Minor deduction: disconfirming evidence could have been developed further — some items are still token acknowledgments."}
+      }
+    },
+    {
+      "section_label": "Post-Analysis Closure",
+      "fields": [
+        {
+          "label": "Revised Position",
+          "content": "The evidence does not support switching to Logseq now. The case for switching rests on the load-bearing assumption that my frustrations are caused by Obsidian's architecture — and that assumption has a probability of approximately 30-40% before being tested. The conservative, empirically sound action is to spend 2-3 weeks refactoring my Obsidian workflow (consolidating templates, rebuilding the tagging system, restructuring the folder hierarchy). If those frustrations persist after a genuine refactoring attempt, the case for switching is substantially stronger. If they resolve, I have improved my existing system at zero migration cost. Decision: do not switch; refactor first; revisit in 30 days."
+        },
+        {
+          "label": "Post-Analysis Confidence",
+          "content": "2/5 — Genuinely uncertain whether switching would improve things, but significantly more certain that switching NOW (before testing the assumption) is premature."
+        },
+        {
+          "label": "Confidence Delta Explanation",
+          "content": "Confidence dropped from 4 to 2. The Assumptions element drove this — specifically, recognising that I had not tested whether the friction was architectural or workflow-based. The steelman further reduced certainty by surfacing the Roam Research parallel I had forgotten. The Information element's disconfirming evidence (especially mobile app maturity and plugin ecosystem gaps) added weight. The confidence that remains (not dropping to 1) is because Logseq may genuinely offer improvements in block-level referencing that Obsidian cannot replicate through workflow changes alone."
+        },
+        {
+          "label": "Session Debrief",
+          "content": "Three observations about my thinking, not the topic:\n\n1. The motivated outcome field was the most valuable thing in this template. Naming 'your frustrations are workflow problems you have not solved' as the uncomfortable conclusion at the START of the session is why I actually examined the load-bearing assumption. Without that prompt, I would have confirmed my initial view.\n\n2. I spent too long on Information and not enough time on Assumptions in my natural analysis tendencies. The Assumptions element is structurally underdeveloped in how I think — I list evidence compulsively but do not examine what I am taking for granted.\n\n3. The steelman exercise revealed a memory gap (Roam Research) that would have been invisible in any single-framework analysis. Genuine steelmanning requires actually defending the opposing view long enough to surface evidence you had forgotten or avoided.\n\nWeakest standard: Accuracy (specifically: accepting community reports about Logseq performance without personal testing). Action for next session: identify one empirical claim I am treating as established and actually test it before including it in the Information element."
+        }
+      ]
+    }
+  ]
+}

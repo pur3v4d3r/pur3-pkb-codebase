@@ -1,0 +1,293 @@
+{
+  "template_id": "deliberate-practice-full-v1",
+  "name": "Deliberate Practice — Full Session",
+  "framework": "Paul-Elder Framework",
+  "description": "A complete deliberate practice session using the full Paul-Elder framework. This is the most rigorous template in the library — it adds a pre-analysis calibration snapshot, the full 8 Elements of Thought, a 9-Standard self-audit, and a post-analysis reflection with explicit confidence tracking. Use this when you want to develop genuine analytical depth, not just apply a checklist. Expect 45-75 minutes. The point is not to complete the form — it is to catch, name, and correct every significant analytical error before writing a conclusion.",
+  "estimated_time_minutes": 60,
+  "difficulty": "advanced",
+  "recommended_chapter": 8,
+  "sections": [
+    {
+      "section_id": "dp_setup",
+      "section_title": "Session Setup — Pre-Analysis Snapshot",
+      "fields": [
+        {
+          "field_id": "dp_subject",
+          "label": "Object of Analysis",
+          "type": "textarea",
+          "placeholder": "Paste the argument, claim, article excerpt, decision scenario, or concept you are analyzing. Include enough context that the analysis can stand alone later as a portfolio piece. If this is a decision, state it as a yes/no question or a forced-choice between alternatives.",
+          "minimum_words": 20,
+          "required": true
+        },
+        {
+          "field_id": "dp_object_type",
+          "label": "Type of Object",
+          "type": "select",
+          "options": ["argument", "claim", "decision", "article/text", "concept", "policy", "conversation/dialogue", "personal belief", "other"],
+          "hint": "The object type determines which Paul-Elder elements will do the most work. Concepts demand more SEE-I and precision; decisions demand more implications and standpoints; arguments demand more inference and information quality."
+        },
+        {
+          "field_id": "dp_question_type",
+          "label": "Question Type",
+          "type": "select",
+          "options": ["factual (one correct answer exists)", "conceptual (contested definitions)", "evaluative (requires value judgments)", "policy (what should be done)", "mixed"],
+          "hint": "Question type sets appropriate standards. Factual questions are held to accuracy standards; evaluative questions must engage multiple standpoints; policy questions must engage implications and assumptions."
+        },
+        {
+          "field_id": "dp_stakes",
+          "label": "Stakes",
+          "type": "select",
+          "options": ["low (intellectual exercise)", "medium (consequential but reversible)", "high (significant real-world impact)", "critical (irreversible or life-affecting)"],
+          "hint": "Higher stakes warrant more time on Implications and more rigorous steelmanning. Do not apply 60-minute deliberate practice to low-stakes questions — but do notice if you are treating high-stakes questions with low-stakes effort."
+        },
+        {
+          "field_id": "dp_confidence_pre",
+          "label": "Pre-Analysis Confidence (1-5)",
+          "type": "scale",
+          "min": 1,
+          "max": 5,
+          "hint": "1 = Completely uncertain about the right view. 3 = Have a tentative view I would not bet heavily on. 5 = Strong prior conviction. Record this honestly before analysis begins — do not revise retroactively. The confidence delta between pre and post is one of the most important signals in deliberate practice."
+        },
+        {
+          "field_id": "dp_emotional_charge",
+          "label": "Emotional Charge (1-5)",
+          "type": "scale",
+          "min": 1,
+          "max": 5,
+          "hint": "1 = Neutral, no personal stake. 3 = Some preference or discomfort. 5 = Strong emotional investment. High emotional charge is a warning flag for motivated reasoning. Name the emotion specifically in the next field."
+        },
+        {
+          "field_id": "dp_motivated_outcome",
+          "label": "Motivated Outcome — What Would You Prefer to Conclude?",
+          "type": "textarea",
+          "placeholder": "If you are honest: what conclusion would you prefer to reach? What conclusion would you find threatening, uncomfortable, or embarrassing? You do not have to want to reach this conclusion — but naming it is the first line of defence against motivated reasoning. If emotional charge is 1, write 'none apparent'.",
+          "minimum_words": 15,
+          "hint": "This field is the most commonly skipped and the most valuable. Studies of expert analysts show that naming motivated outcomes before analysis reduces their influence by 20-40%. This is not therapeutic journaling — it is epistemic hygiene."
+        },
+        {
+          "field_id": "dp_time_box",
+          "label": "Time Box",
+          "type": "text",
+          "placeholder": "e.g. 60 min total | 5 min per Element | 2 min per Standard",
+          "hint": "Time-boxing prevents compulsive detail-gathering in the Information step and forces efficient inference. Set a total time and a per-element target before beginning."
+        }
+      ]
+    },
+    {
+      "section_id": "dp_elements",
+      "section_title": "8 Elements of Thought — Paul-Elder Analysis",
+      "fields": [
+        {
+          "field_id": "dp_purpose",
+          "label": "Element 1 · Purpose",
+          "type": "textarea",
+          "placeholder": "What is the goal, objective, or function that drives this argument, decision, or inquiry? Name the purpose of the reasoning — not just 'to be right' but the specific aim (persuasion, decision, clarification, explanation, justification). For a decision: what are you trying to achieve? For an argument: what is the arguer trying to accomplish? For a concept: what work is this concept doing in the broader system of thought it belongs to?",
+          "minimum_words": 30,
+          "hint": "A well-named purpose clarifies which other elements matter most. An argument designed to persuade uses different standards than one designed to explain. A decision with conflicting purposes (short-term convenience vs. long-term alignment) is already in trouble before the analysis begins.",
+          "llm_evaluation_criterion": "Has the user identified the specific purpose — not just 'to be right' but the functional aim? Have multiple or conflicting purposes been named where relevant?"
+        },
+        {
+          "field_id": "dp_question",
+          "label": "Element 2 · Question at Issue",
+          "type": "textarea",
+          "placeholder": "What exact question is this reasoning trying to answer? State it as a precise question — not a topic ('education') but a question ('What is the most effective way to develop critical thinking in university students, given finite curriculum space?'). If the question has hidden sub-questions that must be answered first, list them separately. Note which question type this is (factual/conceptual/evaluative/policy).",
+          "minimum_words": 30,
+          "hint": "The question at issue is the most commonly misidentified element. Many analyses address a different question than the one stated. Check: does your Question at Issue match your Purpose? Does it match the Object of Analysis? If not, which one is more useful to pursue?",
+          "llm_evaluation_criterion": "Is the question stated precisely (not a topic)? Are sub-questions identified where they exist? Is the question type noted, and does it match the setup?"
+        },
+        {
+          "field_id": "dp_information",
+          "label": "Element 3 · Information",
+          "type": "textarea",
+          "placeholder": "What evidence, data, experience, and observations are relevant to answering the question at issue?\n\nList:\n(a) Supporting evidence — what most directly supports the conclusion you are leaning toward\n(b) Disconfirming evidence — what most seriously challenges that conclusion\n(c) Information gaps — what would you need to know to be significantly more confident\n\nBe explicit about source quality: is this personal experience, expert consensus, contested empirical finding, or speculation?",
+          "minimum_words": 60,
+          "hint": "The disconfirming evidence field is where motivated reasoning is most likely to fail. If you cannot name at least one serious disconfirming piece of evidence, either (a) you have not looked seriously, (b) the question is genuinely one-sided, which itself warrants a note, or (c) your motivated outcome is shaping information collection. The information gaps section is the intellectual honesty test.",
+          "llm_evaluation_criterion": "Has the user listed genuinely disconfirming evidence (not just weakly challenging evidence)? Are information gaps identified honestly? Is source quality assessed?"
+        },
+        {
+          "field_id": "dp_inference",
+          "label": "Element 4 · Inferences and Conclusions",
+          "type": "textarea",
+          "placeholder": "What conclusions does the reasoning reach, and what inferences lead to those conclusions?\n\nTrace the inference chain step by step: from which evidence → which intermediate conclusions → which final conclusion. Name the inference type (deductive, inductive, abductive, causal, analogical). Identify the one inference step with the highest error risk — the place in the chain where the reasoning is most likely to jump further than the evidence supports.",
+          "minimum_words": 50,
+          "hint": "Many arguments have 3-4 inference steps but present them as one. Tracing the chain step-by-step reveals where the evidence base actually is. The 'highest risk inference' question forces you to locate the weakest link rather than defending the chain globally.",
+          "llm_evaluation_criterion": "Is the inference chain traced step-by-step (not just 'the argument concludes')? Is the inference type named? Is the highest-risk inference step identified and explained?"
+        },
+        {
+          "field_id": "dp_concepts",
+          "label": "Element 5 · Concepts and Ideas",
+          "type": "textarea",
+          "placeholder": "What are the key concepts, theories, definitions, or ideas that the reasoning depends on?\n\nFor each key concept: (1) how is it being used in this reasoning? (2) is this definition controversial or contested? (3) would a different definition significantly change the conclusion? Include at least one concept whose definition is doing hidden work — where a reader who understood the term differently would reach a different conclusion.",
+          "minimum_words": 40,
+          "hint": "Most important arguments depend critically on 2-4 concepts that appear obvious but are actually contested. 'Productivity', 'harm', 'natural', 'addiction', 'equality', 'merit', 'rights' — these terms carry enormous definitional baggage. The Clarity step in FRISCO and the Concepts element in Paul-Elder are checking the same thing at different depths.",
+          "llm_evaluation_criterion": "Has the user identified at least one concept that is doing hidden definitional work? Is the controversy in the definition explained, and is it shown how a different definition would change the conclusion?"
+        },
+        {
+          "field_id": "dp_assumptions",
+          "label": "Element 6 · Assumptions",
+          "type": "textarea",
+          "placeholder": "What must be taken for granted — without explicit justification — for this reasoning to work? Identify:\n(a) Load-bearing assumptions — remove these and the argument collapses\n(b) Background assumptions — general worldview commitments that shape which questions are asked\n(c) Assumptions the reasoning is likely unaware of — things accepted as so obvious that no one thought to state them\n\nFor each load-bearing assumption: what is the probability that it is actually true?",
+          "minimum_words": 50,
+          "hint": "Assumptions are the hardest element to surface because they are definitionally invisible within the reasoning that depends on them. Two techniques: (1) ask 'what would have to be true for this inference to work?' and (2) ask 'what would someone with the opposite conclusion take for granted instead?'",
+          "llm_evaluation_criterion": "Has the user identified at least one load-bearing assumption that is not obviously true? Have background assumptions been named — not just factual assumptions but value or worldview assumptions?"
+        },
+        {
+          "field_id": "dp_implications",
+          "label": "Element 7 · Implications and Consequences",
+          "type": "textarea",
+          "placeholder": "If the reasoning is correct and its conclusions are acted upon, what follows? Consider:\n(a) Direct/intended implications — what the reasoning is designed to produce\n(b) Indirect/unintended implications — second and third-order effects\n(c) Implications for people not represented in the reasoning — whose interests are being overlooked?\n(d) Implications for the current inquiry — what does this analysis commit you to believing or doing next?",
+          "minimum_words": 40,
+          "hint": "Implications analysis is where ethics enters critical thinking. A logically valid argument can still be unacceptable if its implications, fully traced, produce outcomes no reasonable person would endorse. Note: this is not about rejecting uncomfortable conclusions, but about tracing them fully before endorsing them.",
+          "llm_evaluation_criterion": "Has the user gone beyond direct implications to identify second-order effects and unrepresented interests? Is at least one implication noted that complicates (rather than confirms) the conclusion?"
+        },
+        {
+          "field_id": "dp_standpoints",
+          "label": "Element 8 · Point of View / Standpoints",
+          "type": "textarea",
+          "placeholder": "From what standpoint(s) is this reasoning operating? Name:\n(a) The dominant standpoint embedded in the argument — whose perspective is centred?\n(b) At least two other standpoints that would see this question differently — not strawmen, but genuine perspectives with their own logic\n(c) A steelman for the position you are LEAST inclined to accept — the strongest version of the argument you most want to dismiss\n\nA good steelman is one that, if you heard it, would make you genuinely less certain of your current position.",
+          "minimum_words": 60,
+          "hint": "The steelman is the most valuable intellectual exercise in this template and the most commonly done poorly. A good steelman (a) does not misrepresent the opposing view, (b) makes the strongest available argument for it, and (c) acknowledges the evidence that supports it. If you cannot produce a steelman that would make you genuinely less certain, try harder.",
+          "llm_evaluation_criterion": "Has the user identified the dominant standpoint embedded in the argument? Are the alternative standpoints genuine perspectives (not strawmen)? Is the steelman strong enough that a proponent would recognise it as their best argument?"
+        }
+      ]
+    },
+    {
+      "section_id": "dp_standards_audit",
+      "section_title": "9 Intellectual Standards Self-Audit",
+      "fields": [
+        {
+          "field_id": "dp_std_clarity",
+          "label": "Clarity (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Were your claims and key terms clear enough that a reader with no background could understand what you were asserting? Identify the single clearest and the single most ambiguous claim in your analysis.",
+          "hint": "Clarity is the master standard — an argument can be accurate, precise, and relevant but still fail if unclear. Rate yourself honestly and identify the specific ambiguous term or claim."
+        },
+        {
+          "field_id": "dp_std_accuracy",
+          "label": "Accuracy (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you represent the evidence, positions, and facts correctly, without distortion? Where were you most at risk of accepting something as true without adequate evidence?",
+          "hint": "Accuracy failures often appear in the Information element — accepting a claim because it fits the preferred conclusion rather than because the evidence is strong."
+        },
+        {
+          "field_id": "dp_std_precision",
+          "label": "Precision (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you specify claims to the degree that the question demands? Where did you speak in generalities when specifics were available and relevant? Name one specific claim that could be made more precise.",
+          "hint": "'Exercise improves mental health' is less precise than 'aerobic exercise three times per week for 30 minutes reduces depressive symptoms in clinically depressed populations by approximately 30-40% in short-term trials.'"
+        },
+        {
+          "field_id": "dp_std_relevance",
+          "label": "Relevance (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did everything you included actually bear on the question at issue? Where did you include information, examples, or arguments that were interesting but not directly relevant? What did you leave out that was relevant?",
+          "hint": "Relevance failures often appear as 'kitchen sink' analyses — including everything you know about a topic rather than what bears on the specific question."
+        },
+        {
+          "field_id": "dp_std_depth",
+          "label": "Depth (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you engage the underlying complexity of the question, or did you stay at the surface? Which element received the most depth? Which received the least? What was the most complex aspect of this question that you did not fully develop?",
+          "hint": "Depth failures are most visible in the Assumptions element — not surfacing the assumptions that require the most scrutiny — and in the Implications element — not tracing consequences to their second-order effects."
+        },
+        {
+          "field_id": "dp_std_breadth",
+          "label": "Breadth (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you consider the question from multiple relevant standpoints and perspectives? Which perspectives were most represented? Which were most underrepresented? Did your steelman genuinely challenge your view?",
+          "hint": "Breadth failures are most visible in the Standpoints element — producing strawmen or weakly represented alternative views rather than genuine perspectives."
+        },
+        {
+          "field_id": "dp_std_logic",
+          "label": "Logic (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Do your conclusions follow from your premises and evidence? Where was the inference chain most likely to jump beyond the evidence? Name any specific logical fallacy you caught — or should have caught.",
+          "hint": "Logic failures are most visible in the Inferences element — correlation/causation, hasty generalisation, is-ought gap, appeal to authority without evidence."
+        },
+        {
+          "field_id": "dp_std_significance",
+          "label": "Significance (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you focus on what matters most in this analysis? Were you drawn to details that were intellectually interesting but not important to the core question? What was the single most significant insight in your analysis?",
+          "hint": "Significance failures manifest as analyses that are technically correct but focused on the wrong level — spending three paragraphs on a minor definitional issue while the main inference step goes unexamined."
+        },
+        {
+          "field_id": "dp_std_fairness",
+          "label": "Fairness (1-5) + Justification",
+          "type": "textarea",
+          "placeholder": "Rate 1-5 first. Then justify: Did you apply the same level of scrutiny to evidence supporting your preferred conclusion as to evidence challenging it? Did your steelman genuinely make you less certain? Where were you most at risk of treating your own position more charitably than alternative positions?",
+          "hint": "Fairness is Paul-Elder's most demanding standard because it requires genuinely extending your best analytical effort to views you are inclined to dismiss. If your steelman of the opposing view is conspicuously weaker than your development of your own view, fairness has failed."
+        }
+      ]
+    },
+    {
+      "section_id": "dp_closure",
+      "section_title": "Post-Analysis Closure",
+      "fields": [
+        {
+          "field_id": "dp_revised_position",
+          "label": "Revised Position",
+          "type": "textarea",
+          "placeholder": "Having completed the full analysis, what is your considered position? Write it as a precise claim — not a process description ('I analysed the question and found...') but a substantive conclusion ('The evidence supports X to degree Y, with the key uncertainty being Z, and the most important caveat being W'). If your position changed during analysis, note what changed it.",
+          "minimum_words": 40,
+          "hint": "The quality of a revised position is measured by how much more precise, hedged, and responsive to complexity it is compared to the motivated outcome you recorded in setup. If they are identical, either the analysis was superficial or you started with a genuinely well-calibrated prior.",
+          "llm_evaluation_criterion": "Is the revised position a precise substantive claim, not a process description? Does it name the key uncertainty and the most important caveat? If the position changed, is the mechanism of change identified?"
+        },
+        {
+          "field_id": "dp_confidence_post",
+          "label": "Post-Analysis Confidence (1-5)",
+          "type": "scale",
+          "min": 1,
+          "max": 5,
+          "hint": "Record this honestly. It should not always go up — a rigorous analysis of a genuinely complex question should often reduce confidence by revealing complexity you had not previously engaged."
+        },
+        {
+          "field_id": "dp_confidence_delta",
+          "label": "Confidence Delta Explanation",
+          "type": "textarea",
+          "placeholder": "Explain the change (or absence of change) in your confidence. If confidence increased: what specifically made you more certain — which element most strengthened your view? If confidence decreased: what specifically made you less certain — which element revealed complexity you had underestimated? If unchanged: why — did you genuinely start well-calibrated, or did the analysis not penetrate deeply enough?",
+          "minimum_words": 30,
+          "hint": "The confidence delta explanation is one of the most diagnostic signals in deliberate practice. Expert analysts' confidence tracks evidence — it rises when evidence is strong and falls when complexity is revealed. If your confidence always increases after analysis, that is a warning sign about the analysis.",
+          "llm_evaluation_criterion": "Is the delta explanation specific — naming particular evidence, insights, or failures of reasoning that drove the change? Is it honest about what the analysis did NOT reveal?"
+        },
+        {
+          "field_id": "dp_session_debrief",
+          "label": "Session Debrief",
+          "type": "textarea",
+          "placeholder": "What are the 2-3 most important things you learned from this analysis — not conclusions about the topic, but observations about your own thinking? What would you do differently in the next session? Which intellectual standard was hardest to meet? What did the template force you to do that you would not have done without it?",
+          "minimum_words": 40,
+          "hint": "The debrief completes the deliberate practice loop. The learning from a single session accumulates into skill only if it is made explicit. The question 'what did the template force you to do?' is especially valuable — it surfaces the moves you are not yet internalising as habits.",
+          "llm_evaluation_criterion": "Does the debrief focus on thinking process observations, not just topic conclusions? Are the 2-3 observations specific enough to act on in the next session? Is the weakest standard identified and connected to a specific failure in this session?"
+        }
+      ]
+    }
+  ],
+  "llm_feedback_prompt_template": "You are a Socratic tutor helping a student work through a complete deliberate practice session using the full Paul-Elder framework. You have received their completed session, including pre-analysis snapshot, 8 Elements of Thought, 9-Standard self-audit, and post-analysis closure.\n\nYour constraints:\n1. This is their most rigorous analytical work. Your standards should be correspondingly high.\n2. Your primary job is to identify the ONE place where the analysis is most vulnerable — where an intelligent critic could most seriously challenge the conclusions. Direct all your attention there.\n3. The confidence delta is your first diagnostic. If confidence increased on a genuinely complex question, ask what was missed. If confidence dramatically decreased, check whether the disconfirming evidence has been properly assessed.\n4. The steelman (Element 8) and the Fairness standard are most likely to fail. If either is conspicuously weaker than the student's development of their own view, address this.\n5. The Assumptions element is most commonly underdeveloped. If load-bearing assumptions are not identified, the entire analysis is at risk.\n6. Ask questions before offering corrections. Your goal is to help the student see where their reasoning is most vulnerable, not to provide a correct analysis.\n\nWhat to look for:\n- Pre-analysis: Was motivated outcome named honestly? Does the question type match the analysis approach?\n- Information: Are disconfirming pieces genuine counterevidence, not token acknowledgments?\n- Inference: Is the chain traced step-by-step? Is the highest-risk inference step correctly identified?\n- Assumptions: Are load-bearing assumptions named — ones that, if false, collapse the argument?\n- Standpoints: Is the steelman strong enough that a proponent would recognise it?\n- Standards audit: Do the self-ratings align with the quality of the element work?\n- Confidence delta: Is the explanation specific — tied to actual analytical moves?\n\nResponse structure:\n1. One sentence on the most impressive analytical move in the session.\n2. The single most vulnerable point in the analysis (one specific claim, inference step, or assumption).\n3. Three precise questions that help the student examine that vulnerability.\n4. One observation about the confidence delta.\n\nTone: rigorous, direct, collegial. This student is doing serious work and deserves serious engagement.",
+  "llm_feedback_dimensions": [
+    {
+      "dimension": "Element Depth (8 Elements)",
+      "weight": 0.30,
+      "rubric": "1: Elements completed superficially — each is 2-3 sentences with no genuine analysis. 5: Each element demonstrates genuine analytical work — Inference chain traced step-by-step, Assumptions identifies load-bearing ones, Standpoints produces a genuine steelman."
+    },
+    {
+      "dimension": "Standards Audit Calibration",
+      "weight": 0.20,
+      "rubric": "1: Self-ratings are uniformly high and not connected to specific work in the elements. 5: Self-ratings are differentiated, justified with specific examples from the analysis, and identify the weakest standard honestly."
+    },
+    {
+      "dimension": "Pre-Post Coherence",
+      "weight": 0.20,
+      "rubric": "1: Revised position is identical to motivated outcome; confidence delta unexplained. 5: Revised position is more precise, hedged, and responsive to complexity than motivated outcome; confidence delta explained with specific analytical moves."
+    },
+    {
+      "dimension": "Motivated Reasoning Resistance",
+      "weight": 0.15,
+      "rubric": "1: Disconfirming evidence is token; steelman is strawman; fairness self-rating high despite asymmetric treatment. 5: Genuine disconfirming evidence named; steelman produces actual uncertainty; fairness audit identifies asymmetric scrutiny where present."
+    },
+    {
+      "dimension": "Session Debrief Quality",
+      "weight": 0.15,
+      "rubric": "1: Debrief states topic conclusions rather than process observations. 5: 2-3 specific process observations that are actionable in the next session; weakest standard connected to a specific failure."
+    }
+  ]
+}

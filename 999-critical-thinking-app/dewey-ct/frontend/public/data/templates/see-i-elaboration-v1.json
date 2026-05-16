@@ -1,0 +1,134 @@
+{
+  "template_id": "see-i-elaboration-v1",
+  "name": "SEE-I Concept Elaboration",
+  "framework": "SEE-I (Paul-Elder)",
+  "description": "A four-step elaboration tool from the Paul-Elder Framework: State · Elaborate · Exemplify · Illustrate. SEE-I is a mastery diagnostic disguised as an explanation exercise. If you cannot do all four moves without consulting a source, you do not yet understand the concept — you only recognize the words. Use it for concept clarification, vocabulary mastery, exam preparation, or testing whether an idea you think you understand has genuinely been internalized. Target time: 10-15 minutes.",
+  "estimated_time_minutes": 15,
+  "difficulty": "intermediate",
+  "recommended_chapter": 5,
+  "print_template_available": true,
+  "fields": [
+    {
+      "field_id": "seei_concept",
+      "label": "Concept to Elaborate",
+      "type": "text",
+      "placeholder": "e.g. Confirmation Bias, Cognitive Load, Socratic Method, Working Memory, Epistemic Humility",
+      "required": true,
+      "hint": "Choose a concept you believe you understand but have never had to explain from scratch. The discomfort of the State step is the signal that SEE-I is doing its work."
+    },
+    {
+      "field_id": "seei_s",
+      "label": "S · State",
+      "type": "textarea",
+      "placeholder": "State the concept in exactly one sentence. No jargon ladders — do not define a term using other terms that also need defining. The sentence must be self-contained: a reader with no prior knowledge of this concept should be able to grasp what it is pointing at, even if they do not fully understand it yet.",
+      "minimum_words": 10,
+      "hint": "The State step is harder than it looks. Most people produce either (a) a synonym — 'Cognitive load is the mental burden of a task,' which just displaces the question — or (b) a jargon cluster — 'Cognitive load is the load on working memory from intrinsic and extraneous factors,' which requires three more definitions. Aim for precision without jargon.",
+      "example": "Confirmation bias is the systematic tendency to seek, interpret, remember, and weight evidence in ways that favor a prior belief — and to discount evidence that contradicts it — usually without conscious awareness.",
+      "llm_evaluation_criterion": "Is the concept stated in a single sentence? Does the statement avoid jargon that simply displaces the problem? Is it specific enough that a reader could distinguish this concept from adjacent ones? Does it identify what the concept is pointing at, not just what it is called?"
+    },
+    {
+      "field_id": "seei_e1",
+      "label": "E · Elaborate",
+      "type": "textarea",
+      "placeholder": "Explain the concept in your own words, in depth — roughly 120-200 words. Cover: what it includes, what it specifically excludes (what this concept is NOT), why it matters, and what is most commonly misunderstood about it. Write as if explaining to a smart person who has never encountered this concept.",
+      "minimum_words": 80,
+      "hint": "The Elaborate step is where most students reveal gaps. Two key moves: (1) the exclusion clause — what this concept is NOT — which forces precision, and (2) why it matters — the practical or theoretical stakes. If you cannot say why the concept matters, you have likely memorized the label without understanding the referent.",
+      "llm_evaluation_criterion": "Does the elaboration cover what the concept includes, what it excludes, why it matters, and what is commonly misunderstood? Is it in the student's own words rather than a near-paraphrase of a definition? Does it demonstrate understanding rather than recognition?"
+    },
+    {
+      "field_id": "seei_e2a",
+      "label": "E · Exemplify — Example 1 (Familiar Domain)",
+      "type": "textarea",
+      "placeholder": "Give a concrete, specific example of this concept in action in a domain you know well. The example must be concrete: a named person, situation, or scenario — not a generic 'for example, someone might...' scenario. Show the concept operating, not just present.",
+      "minimum_words": 40,
+      "hint": "Good examples are scenes, not summaries. 'A student who believes they are bad at math scores 60% and interprets this as confirmation, without noticing the class average was 55%' — this shows the concept operating in a specific, observable moment.",
+      "llm_evaluation_criterion": "Is the example concrete (specific named scenario, not generic)? Does it show the concept operating rather than just present? Is it from a domain the student clearly knows well?"
+    },
+    {
+      "field_id": "seei_e2b",
+      "label": "E · Exemplify — Example 2 (Transfer Domain)",
+      "type": "textarea",
+      "placeholder": "Give a concrete example of this concept in action in a domain different from where you first learned it — the transfer test. If you learned this concept from psychology, use an engineering, medical, legal, historical, or culinary example. Transfer is the proof of understanding: if you can only apply the concept in the domain where you learned it, your understanding is domain-specific, not conceptual.",
+      "minimum_words": 40,
+      "hint": "The transfer test is the most revealing part of SEE-I. Most students can give one domain-specific example; far fewer can genuinely transfer. If you struggle here, that is useful diagnostic information — not failure.",
+      "llm_evaluation_criterion": "Is the example genuinely from a different domain than Example 1? Does it transfer the concept authentically, not just superficially? Does it show the same mechanism operating in a new context?"
+    },
+    {
+      "field_id": "seei_e2c",
+      "label": "E · Exemplify — Counter-Example",
+      "type": "textarea",
+      "placeholder": "Describe something that looks like this concept but is not — something that shares surface features but lacks the defining characteristic. What distinguishes the concept from this near-miss? Counter-examples are the sharpest tool for testing the precision of a definition.",
+      "minimum_words": 30,
+      "hint": "Good counter-examples reveal the concept's edge conditions. If your counter-example requires a long explanation of why it is NOT the concept, that reveals where the definition is blurry. If the distinction is crisp, the definition is crisp.",
+      "llm_evaluation_criterion": "Does the counter-example genuinely share surface features with the concept while lacking its defining characteristic? Is the distinction between concept and counter-example crisp and correctly explained?"
+    },
+    {
+      "field_id": "seei_i",
+      "label": "I · Illustrate",
+      "type": "textarea",
+      "placeholder": "Make the concept vivid through an analogy or metaphor: '[Concept] is like [something familiar] because [the structural parallel].' The 'because' clause is mandatory — it explains what makes the analogy apt, not just evocative. A good analogy transfers structural insight, not just a feeling of similarity. If you want to add a diagram or visual description, include it after the analogy.",
+      "minimum_words": 30,
+      "hint": "The 'because' clause is where most analogies succeed or fail. 'Confirmation bias is like wearing tinted glasses' is a metaphor but not an analogy — it doesn't specify the structural parallel. 'Confirmation bias is like a security guard who waves through fans of the home team and demands ID from visitors — because the filter operates at the gatekeeping stage, is driven by allegiance rather than rules, and produces asymmetric scrutiny that the guard experiences as rule-enforcement' — this is an analogy.",
+      "example": "Confirmation bias is like a security guard who waves through anyone wearing your team's jersey while demanding ID from everyone in the opposing team's colors — because in both cases, asymmetric scrutiny is driven by allegiance rather than consistent application of standards, and the screener genuinely believes they are being fair.",
+      "llm_evaluation_criterion": "Does the analogy specify a structural parallel (the 'because' clause)? Does it transfer insight about how the concept works, not just evoke a feeling of similarity? Is the parallel accurate — does it hold up under examination?"
+    },
+    {
+      "field_id": "seei_mastery",
+      "label": "Mastery Self-Check",
+      "type": "checklist",
+      "options": [
+        "I could teach this concept accurately to a smart person with no prior exposure, using only what I wrote above",
+        "I could distinguish this concept from at least 2 commonly-confused concepts and explain the distinction precisely",
+        "I could apply this concept to a novel case I have not seen before",
+        "I know which Paul-Elder Element of Thought or Intellectual Standard this concept most closely relates to"
+      ],
+      "hint": "Be honest. Checking a box you cannot actually fulfill defeats the purpose. This self-check is diagnostic, not performative — if you cannot check boxes 1 and 2, re-do those sections."
+    },
+    {
+      "field_id": "seei_mastery_rating",
+      "label": "Mastery Rating (1-5)",
+      "type": "scale",
+      "min": 1,
+      "max": 5,
+      "hint": "1 = I recognize the label but could not explain or apply it. 3 = I can explain and give one example but cannot transfer to new domains. 5 = I can State, Elaborate, Exemplify (with transfer), Illustrate, distinguish from near-cousins, and apply to novel cases without consultation.",
+      "llm_evaluation_criterion": "Is the self-rating consistent with the quality of the four SEE-I steps?"
+    },
+    {
+      "field_id": "seei_confusions",
+      "label": "Commonly Confused Concepts",
+      "type": "textarea",
+      "placeholder": "Name 2 concepts commonly confused with the one you elaborated, and explain in one sentence each why the distinction matters. Format: '[Concept A] vs. [Concept B]: [the distinction and why it matters]'",
+      "minimum_words": 20,
+      "hint": "The ability to distinguish a concept from its near-neighbours is the highest test of genuine understanding. If you cannot name two confused concepts, that is itself diagnostic — spend 5 minutes with the material before returning.",
+      "llm_evaluation_criterion": "Are the two confused concepts genuinely commonly confused with the elaborated concept? Is each distinction stated precisely and explained correctly?"
+    }
+  ],
+  "llm_feedback_prompt_template": "You are a Socratic tutor helping a student apply the SEE-I method (State, Elaborate, Exemplify, Illustrate) to test and deepen their understanding of a concept. You have received their completed SEE-I elaboration.\n\nYour constraints:\n1. SEE-I is a mastery diagnostic. Your role is to help the student discover gaps in their understanding — not to supply the correct elaboration.\n2. The State step is the foundation. If the statement is a synonym, a jargon ladder, or too broad to distinguish the concept from adjacent concepts, address this first.\n3. The transfer example (Example 2) is the most revealing. If the student has stayed in the same domain or produced a superficial transfer, ask them to find a deeper one.\n4. The Illustrate step requires a structural analogy with an explicit 'because' clause. A metaphor that evokes feeling without structural parallel is insufficient.\n5. Ask questions before offering corrections. Your first move is to help the student see their own thinking.\n6. If all four steps are strong, ask a forward-looking question: where might this concept appear in their own reasoning in the coming week?\n\nWhat to look for in each step:\n- State: Is it one sentence? Does it avoid jargon displacement? Is it specific enough to distinguish from adjacent concepts?\n- Elaborate: Does it cover inclusion, exclusion, significance, and common misunderstanding? Is it in the student's own words?\n- Exemplify (familiar): Is it concrete (a named scene, not a generic 'someone might')? Does it show the concept operating?\n- Exemplify (transfer): Is it genuinely a different domain? Does it transfer the mechanism, not just the label?\n- Counter-example: Does it share surface features while lacking the defining characteristic? Is the distinction crisp?\n- Illustrate: Is there a structural analogy with a 'because' clause? Does it transfer insight?\n\nResponse structure:\n1. One sentence acknowledging the strongest element.\n2. The step most needing attention.\n3. Two questions that help the student examine that step.\n4. One observation about what you found most interesting in their thinking.\n\nTone: warm, precise, genuinely curious. Avoid complimenting work that has gaps.",
+  "llm_feedback_dimensions": [
+    {
+      "dimension": "State Precision",
+      "weight": 0.20,
+      "rubric": "1: Statement is a synonym or jargon cluster; does not distinguish concept from adjacent ones. 5: Single sentence, no jargon, specific enough that a reader could distinguish this concept from common near-neighbours."
+    },
+    {
+      "dimension": "Elaboration Depth",
+      "weight": 0.20,
+      "rubric": "1: Near-paraphrase of a definition; no exclusion clause or significance claim. 5: Own words; covers what is included, excluded, why it matters, and common misunderstanding."
+    },
+    {
+      "dimension": "Transfer Quality",
+      "weight": 0.25,
+      "rubric": "1: Both examples from same domain, or transfer example is superficial label-application. 5: Transfer example genuinely from a different domain, showing the same mechanism operating in a new context."
+    },
+    {
+      "dimension": "Analogy Quality",
+      "weight": 0.20,
+      "rubric": "1: Metaphor without structural parallel; no 'because' clause. 5: Structural analogy with explicit 'because' clause; parallel holds under examination; transfers insight about the concept's mechanism."
+    },
+    {
+      "dimension": "Counter-Example Crispness",
+      "weight": 0.15,
+      "rubric": "1: Counter-example does not share surface features, or distinction is not explained. 5: Counter-example shares obvious surface features; distinction is crisp, correctly stated, and reveals the concept's edge condition."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "template_id": "metacognitive-reflection-v1",
+  "name": "Metacognitive Reflection",
+  "framework": "Metacognitive Standards (Paul-Elder / Flavell)",
+  "description": "A structured self-review of your thinking practice over a defined period. Draws on Flavell's three-component model — knowledge about persons, tasks, and strategies — combined with Paul-Elder's monitoring and regulation cycle. Use after a week of intensive analysis work, at the end of a deliberate practice cycle, or any time you notice a persistent pattern in your thinking you want to understand. Target time: 20-30 minutes. This is not a quick check-in — it requires honest retrospection over multiple sessions.",
+  "estimated_time_minutes": 30,
+  "difficulty": "intermediate",
+  "recommended_chapter": 7,
+  "sections": [
+    {
+      "section_id": "mcr_context",
+      "section_title": "Context",
+      "fields": [
+        {
+          "field_id": "mcr_period",
+          "label": "Reflection Period",
+          "type": "select",
+          "options": ["daily (1 session)", "weekly (2-7 sessions)", "monthly (8+ sessions)", "project-based", "ad-hoc / triggered"],
+          "hint": "The reflection period sets the grain size. Daily reflections catch acute patterns; monthly reflections reveal structural ones. For ad-hoc reflections, name the trigger: 'I made a bad decision,' 'I noticed I was avoiding an argument,' etc."
+        },
+        {
+          "field_id": "mcr_sessions_reviewed",
+          "label": "Sessions / Analyses Reviewed",
+          "type": "text",
+          "placeholder": "e.g. 3 Paul-Elder analyses, 1 FRISCO, 2 deliberate practice sessions | or name specific analyses: 'Logseq decision, climate policy, morning news FRISCO'",
+          "hint": "Specific is better than general. Naming the actual analyses you are reviewing forces you to actually engage with them rather than relying on impression-level memory."
+        },
+        {
+          "field_id": "mcr_context_note",
+          "label": "Current Intellectual Context",
+          "type": "textarea",
+          "placeholder": "What are you currently trying to get better at? What intellectual challenge are you working through? What motivated you to do this reflection now rather than another time? 2-3 sentences.",
+          "minimum_words": 20,
+          "hint": "Metacognitive reflection is most useful when it is motivated by a specific problem — a pattern you have noticed, a recurring difficulty, or a question about whether your current strategy is working."
+        }
+      ]
+    },
+    {
+      "section_id": "mcr_person_knowledge",
+      "section_title": "Person Knowledge — What You Know About Your Own Thinking",
+      "fields": [
+        {
+          "field_id": "mcr_person_blind_spots",
+          "label": "Recurring Blind Spots",
+          "type": "textarea",
+          "placeholder": "Name 1-3 cognitive biases or thinking errors you have caught yourself making repeatedly across these sessions. Be specific: not 'I sometimes generalise' but 'I consistently accept the first causal explanation that fits my prior view without checking alternative explanations.' Give a concrete example from a recent session.",
+          "minimum_words": 40,
+          "hint": "The test of a genuine blind spot pattern is that you can name a specific example from at least two different analyses. If you can only name one instance, it might be an outlier — or you may not be looking closely enough.",
+          "llm_evaluation_criterion": "Has the user identified specific, named biases with concrete examples — not generic 'I sometimes think too quickly' statements? Are the examples from actual sessions?"
+        },
+        {
+          "field_id": "mcr_person_strengths",
+          "label": "Intellectual Strengths",
+          "type": "textarea",
+          "placeholder": "What thinking moves do you make well? Name 1-3 strengths with specific evidence from these sessions. Avoid 'I am generally curious' — aim for 'I consistently notice when authors conflate correlation with causation, even in domains where I have weak background knowledge.' Give one example that surprised you.",
+          "minimum_words": 30,
+          "hint": "Strengths deserve as much attention as weaknesses. If you cannot name any, you have either been too self-critical or you have not examined your work carefully enough. Look at the moments you caught something that others missed."
+        },
+        {
+          "field_id": "mcr_person_emotional",
+          "label": "Emotional Patterns",
+          "type": "textarea",
+          "placeholder": "What emotional states reliably degrade your reasoning quality? What states improve it? Name specific triggers: topics, argument types, time-of-day patterns, or social contexts. Include one example of an emotional state affecting an inference you made in a recent session.",
+          "minimum_words": 30,
+          "hint": "Motivated cognition — reasoning toward a desired conclusion — is one of the most reliable ways to produce technically correct-looking but fundamentally flawed analyses. Knowing your emotional triggers is not soft thinking; it is a prerequisite for calibrated reasoning."
+        }
+      ]
+    },
+    {
+      "section_id": "mcr_task_knowledge",
+      "section_title": "Task Knowledge — What You Know About the Thinking Tasks Themselves",
+      "fields": [
+        {
+          "field_id": "mcr_task_hardest",
+          "label": "Hardest Question / Argument Types",
+          "type": "textarea",
+          "placeholder": "What types of arguments, questions, or analysis tasks are hardest for you — regardless of content domain? e.g. 'Arguments from authority in fields where I lack expertise', 'Policy questions where the value trade-offs are explicitly contested', 'Arguments with long causal chains', 'SEE-I elaboration when a concept has multiple competing definitions.'",
+          "minimum_words": 30,
+          "hint": "Task knowledge is domain-general pattern recognition. You are looking for the shape of difficulty, not just the topic. A policy question is harder than a factual question for a different reason than a question where the key term has multiple contested definitions."
+        },
+        {
+          "field_id": "mcr_task_framework_fit",
+          "label": "Framework Fit Observations",
+          "type": "textarea",
+          "placeholder": "Are you using the right frameworks for the tasks you are applying them to? Were there sessions where FRISCO felt like the wrong tool and you should have used Paul-Elder? Where a SEE-I step would have sharpened a fuzzy claim? Where the template helped and where it constrained? Note 1-2 specific observations about framework fit from recent sessions.",
+          "minimum_words": 30,
+          "hint": "Frameworks are cognitive prosthetics — they support thinking but can also redirect it toward the questions the framework asks rather than the questions the problem demands. Noticing framework fit is a sign of advancing metacognitive skill."
+        }
+      ]
+    },
+    {
+      "section_id": "mcr_strategy_knowledge",
+      "section_title": "Strategy Knowledge — What You Know About Your Analytical Strategies",
+      "fields": [
+        {
+          "field_id": "mcr_strategy_useful",
+          "label": "Most Useful Strategy",
+          "type": "textarea",
+          "placeholder": "What one analytical strategy or move produced the most insight in recent sessions? Be specific enough that you could replicate it: not 'I thought carefully' but 'I started by steelmanning the position I was most likely to dismiss, before engaging with the evidence' or 'I caught my inference step before writing the Overview and noticed I was three steps ahead of the evidence.'",
+          "minimum_words": 30,
+          "hint": "A replicable strategy is a learning artifact. If you cannot describe the strategy precisely enough that a peer could try it, you have an intuition, not a strategy."
+        },
+        {
+          "field_id": "mcr_strategy_failures",
+          "label": "Strategies That Did Not Work",
+          "type": "textarea",
+          "placeholder": "What strategies or approaches produced poor analysis or wasted time? What did you keep doing out of habit even when it wasn't serving the task? Include one specific example where you recognised mid-session that your approach wasn't working.",
+          "minimum_words": 30,
+          "hint": "Failed strategies are more valuable than successful ones if you can precisely identify why they failed. 'I tried to do FRISCO on a philosophical argument and it flattened the argument rather than revealing it' is more useful than 'I didn't use the right framework.'"
+        }
+      ]
+    },
+    {
+      "section_id": "mcr_monitoring",
+      "section_title": "Monitoring — Biases and Errors Caught and Missed",
+      "fields": [
+        {
+          "field_id": "mcr_monitor_caught_mid",
+          "label": "Biases Caught Mid-Analysis",
+          "type": "textarea",
+          "placeholder": "Name at least one instance where you caught a reasoning error or bias while still inside the analysis — before writing a conclusion. What triggered the catch? What did you do in response? One example from a specific analysis with enough detail to be reproducible.",
+          "minimum_words": 30,
+          "hint": "Mid-session catches are high-quality evidence of developing regulatory skill. They require both awareness (noticing) and flexibility (being willing to revise rather than rationalise). If you have no mid-session catches, consider whether your analysis sessions have enough friction to surface errors."
+        },
+        {
+          "field_id": "mcr_monitor_caught_retro",
+          "label": "Biases Caught Retrospectively",
+          "type": "textarea",
+          "placeholder": "Name 1-2 instances where you looked back at a completed analysis and realised you had made an error you did not notice at the time. What made it visible in retrospect that it was invisible in the moment? This gap is where practice is most needed.",
+          "minimum_words": 30,
+          "hint": "Retrospective catches are still catches — they build the pattern recognition for future mid-session detection. The question 'what made it visible now?' is where the learning is."
+        },
+        {
+          "field_id": "mcr_monitor_missed",
+          "label": "Biases Likely Missed",
+          "type": "textarea",
+          "placeholder": "What biases do you suspect you have NOT caught — based on known patterns in your thinking or analysis types you find easy, which is itself a warning sign? What would your most rigorous critic find in recent analyses that you have defended rather than examined?",
+          "minimum_words": 20,
+          "hint": "The hardest metacognitive move is acknowledging the shape of your blind spots. 'I don't know what I'm missing' is a real answer only if it is followed by a genuine inquiry strategy — not as a reason to stop looking."
+        }
+      ]
+    },
+    {
+      "section_id": "mcr_regulation",
+      "section_title": "Regulation — What You Are Changing",
+      "fields": [
+        {
+          "field_id": "mcr_weakest_standard",
+          "label": "Weakest Intellectual Standard (Recent Sessions)",
+          "type": "select",
+          "options": [
+            "Clarity — my claims and terms are often insufficiently precise",
+            "Accuracy — I accept claims without adequate evidence",
+            "Precision — I speak in vague generalities where specifics are needed",
+            "Relevance — I bring in information that does not bear on the question",
+            "Depth — I stay at the surface level without engaging underlying complexity",
+            "Breadth — I consider only one or two perspectives on multi-perspective questions",
+            "Logic — my inferences do not follow from my premises",
+            "Significance — I focus on minor issues and neglect the most important ones",
+            "Fairness — I treat my own position more charitably than opposing ones"
+          ],
+          "hint": "Choose the one standard that, if you held yourself to it more rigorously in your next 5 analyses, would most change the quality of your conclusions."
+        },
+        {
+          "field_id": "mcr_action_plan",
+          "label": "Regulation: Action Plan for Next Cycle",
+          "type": "textarea",
+          "placeholder": "What specific, observable adjustments will you make in your next practice cycle? Name: (1) one thing you will stop doing, (2) one thing you will start doing, and (3) one standard you will hold yourself to more strictly. Each should be specific enough that at the end of next cycle you could answer 'yes or no' to whether you did it.",
+          "minimum_words": 40,
+          "hint": "The test of a good regulation plan is its specificity. 'I will be more careful about assumptions' is not a plan. 'Before writing the Inference step in every FRISCO this week, I will explicitly check whether I have confused correlation with causation' is a plan.",
+          "llm_evaluation_criterion": "Does the action plan specify three distinct items (stop/start/standard)? Are they specific enough to be evaluated yes-or-no? Do they follow from the blind spots and weaknesses identified in earlier sections?"
+        },
+        {
+          "field_id": "mcr_strengths_leverage",
+          "label": "Strengths to Leverage",
+          "type": "textarea",
+          "placeholder": "How will you deliberately use your identified strengths to compensate for your identified blind spots in the next cycle? This is the positive side of regulation — not just avoiding what goes wrong, but actively deploying what goes right.",
+          "minimum_words": 20,
+          "hint": "Expert metacognitive regulators do not just patch weaknesses — they engineer workflows that position their strengths at the highest-leverage decision points."
+        }
+      ]
+    }
+  ],
+  "llm_feedback_prompt_template": "You are a Socratic tutor helping a student reflect on their thinking practice using a metacognitive framework. You have received their completed Metacognitive Reflection.\n\nYour role:\n1. You are not diagnosing the student's thinking from the outside — you are helping them see their own patterns more clearly.\n2. Metacognitive skill develops through precision of self-description. Vague self-assessment ('I sometimes overgeneralise') is less useful than specific pattern-naming ('I accept the first causal explanation that fits my prior view in domains where I have low confidence, particularly in social science questions').\n3. The action plan is the most actionable section. A good action plan is specific, binary-evaluable, and connected to the identified patterns.\n4. Look for inconsistencies: does the identified strength contradict the identified blind spot? Does the action plan address the weakest standard? Does the emotional pattern analysis connect to specific analysis decisions?\n\nWhat to look for:\n- Blind spots: Are they specific named patterns with examples, or generic self-criticism?\n- Strengths: Are they evidenced, or just hopeful self-attribution?\n- Strategies: Are they replicable (precise enough to try) or impressionistic?\n- Monitoring: Has the student identified what made retrospective catches visible?\n- Action plan: Specific/binary-evaluable vs. vague aspirations?\n\nResponse structure:\n1. The most specific and useful insight in the entire reflection (one sentence).\n2. The section or pattern most needing sharpening.\n3. Two questions that help sharpen it.\n4. One forward-looking question: what would success look like at the end of the next cycle?\n\nTone: direct, empirical, non-therapeutic. This is an analytical exercise, not a journaling exercise.",
+  "llm_feedback_dimensions": [
+    {
+      "dimension": "Specificity of Self-Knowledge",
+      "weight": 0.30,
+      "rubric": "1: Generic self-descriptions without examples. 5: Named patterns with specific examples from actual sessions, including at least one that surprised the student."
+    },
+    {
+      "dimension": "Monitoring Quality",
+      "weight": 0.25,
+      "rubric": "1: No catches named, or catches are not described with enough detail to replicate. 5: At least one mid-session and one retrospective catch described with trigger mechanism and response; plausible missed biases named."
+    },
+    {
+      "dimension": "Action Plan Specificity",
+      "weight": 0.30,
+      "rubric": "1: Aspirational and vague ('be more careful'). 5: Three specific, binary-evaluable items (stop/start/standard) that follow from identified patterns."
+    },
+    {
+      "dimension": "Consistency",
+      "weight": 0.15,
+      "rubric": "1: Action plan does not address the identified weakest standard; strengths not evidenced. 5: The narrative threads are consistent — identified patterns, weakest standard, and action plan form a coherent self-development arc."
+    }
+  ]
+}
