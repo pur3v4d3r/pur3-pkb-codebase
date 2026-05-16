@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function FrameworksPage() {
   const frameworks = [
     { id: 'paul-elder', name: 'Paul-Elder', desc: 'Elements of Reasoning and Intellectual Standards' },
@@ -28,20 +30,17 @@ export default function FrameworksPage() {
 
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {frameworks.map((fw) => (
-          <div
+          <Link
             key={fw.id}
-            className="rounded-lg border border-slate-200 bg-white p-4 shadow-sm"
+            href={`/frameworks/${fw.id}`}
+            className="group rounded-lg border border-slate-200 bg-white p-4 shadow-sm transition hover:border-slate-400 hover:shadow-md"
           >
-            <h2 className="mb-1 text-sm font-semibold text-slate-900">{fw.name}</h2>
+            <h2 className="mb-1 text-sm font-semibold text-slate-900 group-hover:text-slate-700">{fw.name}</h2>
             <p className="text-xs leading-relaxed text-slate-600">{fw.desc}</p>
-          </div>
+            <p className="mt-2 text-xs text-slate-400 group-hover:text-slate-500">Read more →</p>
+          </Link>
         ))}
       </div>
-
-      <p className="text-xs text-slate-400">
-        Interactive framework explorer coming in the next phase. JSON data is available at{' '}
-        <code className="rounded bg-slate-100 px-1">/data/frameworks/</code>.
-      </p>
     </div>
   );
 }
