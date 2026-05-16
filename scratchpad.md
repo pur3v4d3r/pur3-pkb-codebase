@@ -1640,6 +1640,24 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 ### ADDITIONA USEFUL FILES
 `D:\10_pur3v4d3r's-vault\metadata-template.md` -> How Metadata should be handeled, if needed.
 `D:\10_pur3v4d3r's-vault\wiki-links.md` -> List of complete collection of permanent notes, for populating wikli-links in the app.
+### TEMPLATE TO CONVERT TO JSON
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-critical-thinking-deliberate-practice-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-frisco-quick-analysis-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-metacognitive-reflection-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-see-i-elaboration-v1.0.0.md`
+
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_critical-thinking-deliberate-practice-template.md`
+
+**NOTE**: The templates above ar in Obsidian PKB based language and need to be converted or have the important element used as templtes that can be used in the template section of the app, so that when a user creates a new practice session, or a new analysis, or a new reflection, they can use the templates to populate the content of the session, analysis, or reflection. They should also have the same features as the templates that are already being used.
+
+The goal being to use the same workflow from my Obsidian based PKB in the app.
+
+### AN ADDITION
+I had an idea to add in features that I think  willadd to the apps precense and capabilities. I want to add in Worked examples that can be study for practices Critickle Thinking deliberateley. Also adding in practice problems that can be worked through useing the templates above.
+
+`D:\10_pur3v4d3r's-vault\999-critical-thinking` Review this folder for example of what Im talking about.
+
+
 
 
 # Running the App

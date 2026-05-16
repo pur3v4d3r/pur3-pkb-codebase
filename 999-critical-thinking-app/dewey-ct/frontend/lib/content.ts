@@ -65,6 +65,9 @@ const FRAMEWORK_FILES = [
   'paul-elder-enrichments',
   'acer-critical-thinking',
   'acer-metacognitive',
+  'developmental-models',
+  'cognitive-biases',
+  'cross-framework-synthesis',
 ] as const;
 
 export type FrameworkId = (typeof FRAMEWORK_FILES)[number];

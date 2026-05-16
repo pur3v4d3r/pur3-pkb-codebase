@@ -9,6 +9,7 @@ const NAV_LINKS: NavLink[] = [
   { href: '/', label: 'Chapters' },
   { href: '/frameworks', label: 'Frameworks' },
   { href: '/templates', label: 'Templates' },
+  { href: '/ask', label: 'Ask' },
   { href: '/portfolio', label: 'Portfolio' },
 ];
 

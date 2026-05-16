@@ -1,0 +1,124 @@
+{
+  "template_id": "frisco-quick-analysis-v1",
+  "name": "FRISCO Quick Analysis",
+  "framework": "FRISCO (Ennis)",
+  "description": "Rapid 5-10 minute argument triage using Robert Ennis's FRISCO model: Focus, Reasons, Inference, Situation, Clarity, Overview. Each section targets 2-4 sentences — the point is disciplined concision, not exhaustive analysis. Use FRISCO when you need a quick verdict on an argument, op-ed, claim, or news article. If a section demands more than 5 minutes of your time, switch to Paul-Elder instead.",
+  "estimated_time_minutes": 10,
+  "difficulty": "beginner",
+  "recommended_chapter": 3,
+  "print_template_available": true,
+  "fields": [
+    {
+      "field_id": "frisco_subject",
+      "label": "Argument / Claim Under Analysis",
+      "type": "textarea",
+      "placeholder": "Paste or write the full argument, claim, or op-ed paragraph here. Include the source if known (URL, author, publication, date). If you are working from memory, make a note of that — memory distorts arguments.",
+      "minimum_words": 10,
+      "required": true,
+      "hint": "Quote the actual text wherever possible. Paraphrasing before analysis introduces your own framing too early."
+    },
+    {
+      "field_id": "frisco_source",
+      "label": "Source",
+      "type": "text",
+      "placeholder": "e.g. NYT op-ed, Twitter thread, colleague's email, personal reasoning",
+      "hint": "Knowing the source ecology helps with the Situation step — who produced this argument, for what audience, with what interests?"
+    },
+    {
+      "field_id": "frisco_f",
+      "label": "F · Focus",
+      "type": "textarea",
+      "placeholder": "What is the main question, conclusion, or issue? State the argument's core claim in one or two sentences. If there are multiple claims, identify which is the main conclusion and which are sub-claims or supporting premises. Separate descriptive claims (what is true) from prescriptive ones (what should be done).",
+      "minimum_words": 20,
+      "hint": "A sharp Focus statement names the conclusion specifically: 'The argument concludes that X because Y' is better than 'The article is about X.' Separating descriptive from prescriptive claims reveals whether the argument actually bridges the is-ought gap.",
+      "llm_evaluation_criterion": "Has the user identified the main conclusion precisely, distinguished it from supporting premises, and separated descriptive from prescriptive claims where relevant?"
+    },
+    {
+      "field_id": "frisco_r",
+      "label": "R · Reasons",
+      "type": "textarea",
+      "placeholder": "What reasons, premises, or evidence does the argument actually offer in support of the conclusion? Number each one separately. Stick to what the argument explicitly says — do not add your own evidence yet, and do not yet evaluate quality.",
+      "minimum_words": 30,
+      "hint": "Number each reason separately: 1. ... 2. ... 3. ... Separating reasons prevents you from treating a cluster of weak premises as one strong reason. Many arguments have fewer genuine reasons than they appear to.",
+      "llm_evaluation_criterion": "Has the user listed only reasons the argument actually provides, numbered separately? Are they genuinely distinct premises rather than restatements of the same point?"
+    },
+    {
+      "field_id": "frisco_i",
+      "label": "I · Inference",
+      "type": "textarea",
+      "placeholder": "Is the reasoning from those reasons to the conclusion acceptable? Name the inference type (deductive, inductive, abductive, causal, analogical). Then assess: do the premises actually support the conclusion? Are there identifiable logical fallacies? Is the conclusion's strength appropriately hedged given the evidence? Give your verdict in one final sentence.",
+      "minimum_words": 40,
+      "hint": "FRISCO Inference is disciplined fallacy-spotting. Common errors to check: correlation vs. causation, hasty generalization, appeal to authority (belief-of-experts vs. evidence), is-ought gap, cherry-picking, straw-man, appeal to popularity. Name them by label if present.",
+      "llm_evaluation_criterion": "Has the user named the inference type, assessed whether premises support the conclusion, identified specific fallacies by name if present, and delivered a clear verdict on inferential quality?"
+    },
+    {
+      "field_id": "frisco_s",
+      "label": "S · Situation",
+      "type": "textarea",
+      "placeholder": "What is the context — intellectual, social, political, or commercial — that frames this argument? Who produced this argument, and what do they stand to gain from the conclusion being accepted? Are there conflicts of interest, ideological commitments, or institutional pressures shaping the argument that the argument does not acknowledge?",
+      "minimum_words": 30,
+      "hint": "Situation is not ad hominem — it is a legitimate reason to apply higher evidentiary standards when the arguer's interests align with the conclusion. Name the context specifically. Do not just note that 'there might be bias'; say what kind and from where.",
+      "llm_evaluation_criterion": "Has the user identified the relevant context specifically — including potential conflicts of interest, source ecology, and any pressures that might inflate or deflate the argument's apparent strength?"
+    },
+    {
+      "field_id": "frisco_c",
+      "label": "C · Clarity",
+      "type": "textarea",
+      "placeholder": "Are the meanings of key terms clear? Identify 2-4 words or phrases in the argument that are undefined, ambiguous, or used inconsistently. For each: what definition does the argument appear to be using, and what alternative definition would change the conclusion?",
+      "minimum_words": 30,
+      "hint": "Terms like 'productivity,' 'natural,' 'addiction,' 'harm,' 'most important,' or 'rewiring the brain' often hide the entire controversy inside them. Clarity-hunting is most useful when you find a term that, if defined differently, makes the argument either much stronger or much weaker.",
+      "llm_evaluation_criterion": "Has the user identified specific unclear terms (not just 'the argument is vague'), and for each shown how a different definition would change the argument's force?"
+    },
+    {
+      "field_id": "frisco_o",
+      "label": "O · Overview / Verdict",
+      "type": "textarea",
+      "placeholder": "What is your overall verdict on this argument? Summarize briefly: what does it get right, what does it get wrong, and what would a more defensible version of the claim look like? State your verdict in one sentence, then support it in 2-4 more. End with a revised, more defensible version of the claim if possible.",
+      "minimum_words": 40,
+      "hint": "A good verdict is specific: 'The argument fails because the inference from correlation to causation is unwarranted, and the key term X is undefined in a way that hides the central controversy.' Avoid generic verdicts. The revised claim is the constructive payoff of FRISCO — it shows you can do better than the original.",
+      "llm_evaluation_criterion": "Does the verdict follow from the specific findings in F, R, I, S, C? Is it specific rather than generic? Does the user attempt a more defensible version of the claim?"
+    },
+    {
+      "field_id": "frisco_meta",
+      "label": "Metacognitive Check",
+      "type": "textarea",
+      "placeholder": "What bias were you at risk of during this analysis? Did you already have a prior view on this topic before analyzing it? How might that have shaped your choices in each FRISCO step? Was there any section where you moved too quickly or too slowly?",
+      "minimum_words": 20,
+      "hint": "FRISCO is fast, which makes it especially vulnerable to confirmation bias — speed reduces friction that normally interrupts automatic thinking. The metacognitive check is the pause that catches bias before it becomes conclusion.",
+      "llm_evaluation_criterion": "Has the user honestly identified at least one bias risk specific to their prior view on this topic, and traced how it might have affected at least one step?"
+    }
+  ],
+  "llm_feedback_prompt_template": "You are a Socratic tutor helping a student apply the FRISCO model (Focus, Reasons, Inference, Situation, Clarity, Overview) to evaluate an argument. You have received their completed FRISCO Quick Analysis template.\n\nYour constraints:\n1. Never simply validate. Always find at least one place where the analysis could be sharper.\n2. Focus on the most important weakness — the place where the argument evaluation is most at risk of misleading the student. Do not comment on everything.\n3. FRISCO is a rapid triage tool. Do not penalize brevity — only penalize vagueness that hides analytical moves.\n4. The Inference step is the most critical. If the student has missed a major fallacy or named the wrong inference type, address that first.\n5. The Situation step is most commonly underdeveloped. If the student has not named specific contextual factors, prompt them.\n6. Ask questions before offering corrections. Your first move is to help the student see their own thinking, not to supply better thinking.\n\nWhat to look for in each step:\n- F (Focus): Is the main conclusion identified separately from supporting claims? Descriptive vs. prescriptive claims separated?\n- R (Reasons): Are reasons actually from the argument, not added by the student? Are they genuinely distinct?\n- I (Inference): Is the inference type correctly named? Are fallacies identified by name? Is the verdict proportional to the evidence?\n- S (Situation): Is context named specifically, not generically? Conflicts of interest identified?\n- C (Clarity): Are specific terms named with specific definitional problems?\n- O (Overview): Does the verdict follow from the earlier steps? Is a revised claim offered?\n\nResponse structure:\n1. One sentence acknowledging the strongest element of the student's FRISCO.\n2. Identify the step most needing attention (one step only).\n3. Ask 2-3 questions that help the student examine that step.\n4. One observation about what you found most interesting in their analysis.\n\nTone: direct, curious, brief — FRISCO is a fast tool, so your feedback should model appropriate concision too.",
+  "llm_feedback_dimensions": [
+    {
+      "dimension": "Focus Precision",
+      "weight": 0.15,
+      "rubric": "1: Main conclusion not distinguished from premises; descriptive/prescriptive conflated. 5: Core conclusion stated precisely in one sentence; descriptive and prescriptive claims separated where relevant."
+    },
+    {
+      "dimension": "Reasons Accuracy",
+      "weight": 0.15,
+      "rubric": "1: Student's own reasons mixed with argument's reasons; not numbered. 5: Only reasons from the argument listed, each genuinely distinct, numbered separately."
+    },
+    {
+      "dimension": "Inference Quality",
+      "weight": 0.30,
+      "rubric": "1: Inference type wrong or missing; no fallacies named even when present; verdict not connected to reasoning. 5: Inference type correctly named; relevant fallacies identified by standard label; verdict specific and proportional."
+    },
+    {
+      "dimension": "Situation Specificity",
+      "weight": 0.20,
+      "rubric": "1: Generic claim that bias 'might exist'; no specific context named. 5: Specific source ecology named; conflicts of interest identified; higher evidentiary standards demanded where warranted."
+    },
+    {
+      "dimension": "Clarity Depth",
+      "weight": 0.10,
+      "rubric": "1: Terms identified but definitional problem not explained. 5: Specific terms named with specific alternative definitions that would change the argument's force."
+    },
+    {
+      "dimension": "Overview / Verdict",
+      "weight": 0.10,
+      "rubric": "1: Generic verdict not connected to prior steps. 5: Verdict follows from specific FRISCO findings; revised, more defensible claim offered."
+    }
+  ]
+}

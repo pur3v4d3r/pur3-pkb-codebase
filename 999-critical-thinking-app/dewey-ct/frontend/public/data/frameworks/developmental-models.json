@@ -1,0 +1,200 @@
+{
+  "framework": "Developmental Models of Epistemological Reasoning",
+  "description": "Three complementary frameworks that describe how people's understanding of knowledge, truth, and certainty develops over time. These models explain why the same critical thinking instruction lands differently on different learners — and what developmental moves are required for genuine reflective thinking to emerge.",
+  "dewey_connection": "Dewey's reflective thinking requires recognizing genuine uncertainty and suspending judgment to gather evidence. Developmental models explain why many learners cannot yet do this: they have not yet reached the epistemological stage where uncertainty is seen as resolvable through reasoning rather than merely a temporary gap in authoritative knowledge.",
+  "models": [
+    {
+      "id": "perry-scheme",
+      "name": "Perry's Scheme of Intellectual and Ethical Development",
+      "originator": "William G. Perry Jr.",
+      "year": 1970,
+      "original_population": "Harvard undergraduates (longitudinal study)",
+      "key_work": "Forms of Intellectual and Ethical Development in the College Years (1970)",
+      "description": "Based on longitudinal interviews with Harvard students, Perry identified a developmental sequence in how learners think about knowledge, authority, and ethical commitments. The scheme describes nine positions grouped into four broad phases — from simple dualism to committed relativism.",
+      "phases": [
+        {
+          "phase": "Dualism",
+          "positions": "1-2",
+          "core_epistemology": "Knowledge is right or wrong; authorities have the right answers",
+          "what_learner_believes": "There is a correct answer to every question. Authority (teachers, experts, books) knows the truth. Learning means receiving and reproducing correct information.",
+          "ct_implication": "A learner in dualism cannot genuinely engage with critical thinking instruction — they interpret 'consider multiple perspectives' as looking for which perspective is correct."
+        },
+        {
+          "phase": "Multiplicity",
+          "positions": "3-4",
+          "core_epistemology": "When authorities disagree, all opinions are equally valid",
+          "what_learner_believes": "Since experts sometimes disagree, there must be no right answer in those areas. Everyone's opinion is equally valid. It's all just opinion.",
+          "ct_implication": "A learner in multiplicity rejects the idea that some arguments are better than others. They interpret critical thinking as expressing one's own opinion rather than evaluating arguments by evidence and logic."
+        },
+        {
+          "phase": "Relativism",
+          "positions": "5-6",
+          "core_epistemology": "Knowledge is contextual; some views are better-supported than others",
+          "what_learner_believes": "Context determines what counts as knowledge. Claims can be evaluated against evidence and criteria. Some positions are better-supported than others within their context.",
+          "ct_implication": "This is the epistemological foundation required for genuine critical thinking. The learner can now distinguish better from worse reasoning and apply standards for evaluation."
+        },
+        {
+          "phase": "Commitment in Relativism",
+          "positions": "7-9",
+          "core_epistemology": "Commitment to specific values and views within a relativist framework",
+          "what_learner_believes": "Despite acknowledging that knowledge is contextual and uncertain, one can and must make commitments — to values, identities, positions. Commitment does not require certainty.",
+          "ct_implication": "The most mature form of critical thinking: acting decisively on well-reasoned positions while remaining open to revision."
+        }
+      ],
+      "positions": [
+        {"position": 1, "name": "Basic Duality", "description": "All knowledge is right or wrong; authority knows truth"},
+        {"position": 2, "name": "Multiplicity Pre-Legitimate", "description": "Disagreement among authorities is poor teaching, not real uncertainty"},
+        {"position": 3, "name": "Multiplicity Subordinate", "description": "Some uncertainty exists but is temporary; authority will resolve it"},
+        {"position": 4, "name": "Multiplicity Coordinate", "description": "Disagreement is legitimate; all opinions are therefore equal"},
+        {"position": 5, "name": "Contextual Relativism", "description": "Knowledge is contextual; evaluation is possible within context"},
+        {"position": 6, "name": "Commitment Foreseen", "description": "Learner recognizes the need to make personal commitments despite relativism"},
+        {"position": 7, "name": "Initial Commitment", "description": "Learner makes specific commitments in areas of value/identity"},
+        {"position": 8, "name": "Orientation in Commitment", "description": "Develops the style and substance of commitments"},
+        {"position": 9, "name": "Developing Commitment", "description": "Affirms identity through committed engagement with the world"}
+      ],
+      "pedagogical_implication": "Critical thinking instruction must meet learners developmentally. The same lesson on 'consider multiple perspectives' produces entirely different responses depending on the learner's Perry position. A Position 2 learner will look for the 'right' perspective; a Position 4 learner will conclude all perspectives are equally valid; a Position 5 learner can evaluate perspectives against evidence.",
+      "famous_quote": "Uncertainty must be recognized, tolerated, and resolved not by retreat to Authority but by personal commitment within a world of contingency."
+    },
+    {
+      "id": "king-kitchener-reflective-judgment",
+      "name": "King & Kitchener's Reflective Judgment Model",
+      "originators": ["Patricia King", "Karen Kitchener"],
+      "year": 1994,
+      "key_work": "Developing Reflective Judgment (1994)",
+      "distinctive_focus": "Reasoning about ill-structured problems — problems where expert data is insufficient for certainty, experts disagree, and judgment is required",
+      "description": "Where Perry focused on global epistemic development, King and Kitchener focused specifically on how people reason about ill-structured problems. Their seven-stage model distinguishes pre-reflective, quasi-reflective, and reflective thinking. The critical finding: most undergraduates score in the quasi-reflective range, recognizing uncertainty but lacking tools to adjudicate between competing claims.",
+      "levels": [
+        {
+          "level": "Pre-Reflective Thinking",
+          "stages": "1-3",
+          "core_pattern": "Knowledge is assumed to be certain or temporarily uncertain; beliefs need no justification beyond assertion or authority.",
+          "how_it_sounds": "I know what I believe and I'm right. Experts know the answer. Anyone who disagrees is wrong or uninformed."
+        },
+        {
+          "level": "Quasi-Reflective Thinking",
+          "stages": "4-5",
+          "core_pattern": "Knowledge is uncertain; reasoning is required but treated as idiosyncratic — each person's reasoning is valid for them.",
+          "how_it_sounds": "Everyone sees things differently, and there's no way to say one view is better than another. You just have to go with your gut."
+        },
+        {
+          "level": "Reflective Thinking",
+          "stages": "6-7",
+          "core_pattern": "Knowledge claims must be evaluated and justified. The justification process is recognized and developed. Some interpretations are better-supported than others.",
+          "how_it_sounds": "This is a complex issue. The best conclusion I can draw, given the available evidence, is X — though I remain open to revising this as new evidence emerges."
+        }
+      ],
+      "stages": [
+        {
+          "stage": 1,
+          "level": "Pre-Reflective",
+          "core_belief": "Knowledge is absolutely certain; observation guarantees truth",
+          "justification_pattern": "Direct correspondence with observation or authority",
+          "example_statement": "You can tell by looking — it's obvious."
+        },
+        {
+          "stage": 2,
+          "level": "Pre-Reflective",
+          "core_belief": "Knowledge is certain or temporarily uncertain; authorities know the truth",
+          "justification_pattern": "Authorities provide correct answers",
+          "example_statement": "Scientists/experts must know the truth; we just haven't been told yet."
+        },
+        {
+          "stage": 3,
+          "level": "Pre-Reflective",
+          "core_belief": "Knowledge is sometimes uncertain; in those areas, opinion is acceptable",
+          "justification_pattern": "Personal belief or authority for certain domains",
+          "example_statement": "In science you can know for sure, but in ethics it's just opinion."
+        },
+        {
+          "stage": 4,
+          "level": "Quasi-Reflective",
+          "core_belief": "Knowledge is uncertain because data is always incomplete; we must just choose what to believe",
+          "justification_pattern": "Evidence supports but does not determine conclusions",
+          "example_statement": "I can't know for certain, so I just believe what seems most reasonable to me."
+        },
+        {
+          "stage": 5,
+          "level": "Quasi-Reflective",
+          "core_belief": "Knowledge is contextual and subjective; conclusions are filtered through individual perspective",
+          "justification_pattern": "Context-specific justification; each framework is valid within its own terms",
+          "example_statement": "It depends on your perspective. Different frameworks give different answers, and they're all valid in their own way."
+        },
+        {
+          "stage": 6,
+          "level": "Reflective",
+          "core_belief": "Knowledge is constructed through evaluation of evidence and reasoning; some interpretations are better-justified than others",
+          "justification_pattern": "Comparative evaluation of evidence across competing interpretations",
+          "example_statement": "I've looked at the evidence from multiple angles. While certainty isn't possible, interpretation X is more strongly supported because of reasons A, B, and C."
+        },
+        {
+          "stage": 7,
+          "level": "Reflective",
+          "core_belief": "Knowledge is the outcome of inquiry; the most defensible conclusions are those most supported by reasoned argument from evidence",
+          "justification_pattern": "Integration of evidence, frameworks, and context into probabilistic conclusions, with explicit awareness of the justification process itself",
+          "example_statement": "Based on the convergence of evidence from multiple independent sources, and considering the methodological strengths and limitations of each, the best-supported conclusion is X — though this conclusion is provisional and should be revised if new evidence challenges it."
+        }
+      ],
+      "empirical_finding": "Decades of research using the Reflective Judgment Interview show that most undergraduates score in the quasi-reflective range (stages 4-5). They recognize uncertainty but lack a model for adjudicating between competing claims under uncertainty. This is the precise developmental gap that critical thinking instruction must address.",
+      "ill_structured_problems": {
+        "definition": "Problems where the data is insufficient to produce certain answers, where expert opinion differs, and where the problem itself may be subject to continuing reinterpretation",
+        "examples": ["What caused the decline of the Roman Empire?", "Is affirmative action just?", "Does this medical treatment cause harm?"],
+        "ct_significance": "Critical thinking is most needed precisely for these problems — the ones where System 1 intuitions are most likely to mislead and where reflective judgment must operate."
+      }
+    },
+    {
+      "id": "kuhn-epistemological-levels",
+      "name": "Kuhn's Levels of Epistemological Understanding",
+      "originator": "Deanna Kuhn",
+      "years": ["1991", "1999"],
+      "key_works": ["The Skills of Argument (1991)", "A developmental model of critical thinking (1999)"],
+      "description": "Kuhn's model is the most compact of the three developmental frameworks but captures the same essential trajectory. It identifies four qualitatively distinct epistemological orientations, organized around what the person believes 'knowledge' to be.",
+      "levels": [
+        {
+          "number": 1,
+          "name": "Realist",
+          "core_position": "Knowledge mirrors external reality",
+          "what_counts_as_knowledge": "Direct correspondence with the world — seeing is knowing",
+          "reasoning_about_disagreement": "Disagreements arise from insufficient observation; looking more carefully resolves them",
+          "critical_thinking_capacity": "Minimal — belief revision requires new observation, not argument"
+        },
+        {
+          "number": 2,
+          "name": "Absolutist",
+          "core_position": "Knowledge is certain; experts have it",
+          "what_counts_as_knowledge": "Authoritative pronouncement by credentialed experts",
+          "reasoning_about_disagreement": "Experts have correct knowledge; contradictory experts are simply wrong",
+          "critical_thinking_capacity": "Limited — source credibility matters more than argument quality"
+        },
+        {
+          "number": 3,
+          "name": "Multiplist",
+          "core_position": "All claims are opinion; certainty is impossible",
+          "what_counts_as_knowledge": "Personal viewpoint — 'everyone has their own opinion'",
+          "reasoning_about_disagreement": "Disagreements are natural and irresolvable; all opinions are equally valid",
+          "critical_thinking_capacity": "Obstructed — the Multiplist does not recognize that reasoning can adjudicate between competing views"
+        },
+        {
+          "number": 4,
+          "name": "Evaluativist",
+          "core_position": "Claims can be evaluated by reasoned argument and evidence",
+          "what_counts_as_knowledge": "Best-supported view among competing alternatives, provisional and revisable",
+          "reasoning_about_disagreement": "Disagreements can be examined; some positions are better-reasoned and better-evidenced than others",
+          "critical_thinking_capacity": "Full — this is the epistemological stance required for genuine critical thinking"
+        }
+      ],
+      "critical_transition": "Movement from Multiplist to Evaluativist is the developmental shift most directly relevant to critical thinking instruction. Multiplists believe everyone has equally valid opinions; Evaluativists believe opinions can be reasoned about, with some being better-supported than others. Critical thinking skills are the tools the Evaluativist uses.",
+      "instructional_implication": "Students who are stuck in Multiplism cannot benefit from instruction in argument evaluation — they do not see evaluation as a meaningful activity. Before teaching argument analysis, instruction must shift the epistemological frame: help students see that some arguments are genuinely better-supported than others, and that this is discoverable through reasoning."
+    }
+  ],
+  "cross_model_convergence": "All three frameworks describe the same essential developmental trajectory: from certainty through skepticism to evaluative engagement. The person who can engage in genuine critical thinking — who can evaluate competing claims against evidence and reason — is Perry's Position 5+, King & Kitchener's Stage 6-7, or Kuhn's Level 4 (Evaluativist). This convergence across independently-developed frameworks is empirical evidence that a genuine developmental pattern exists.",
+  "dewey_phase_mapping": {
+    "pre_reflective_1_3": "Cannot sustain Dewey's Phase 1 (Felt Difficulty) as productive — difficulty is resolved by authority rather than inquiry",
+    "quasi_reflective_4_5": "Can begin Dewey's process but collapses in Phase 3 (Hypothesis) and Phase 4 (Reasoning) — cannot evaluate competing hypotheses systematically",
+    "reflective_6_7": "Can complete Dewey's full inquiry arc — can formulate hypotheses, reason from them, and evaluate them against evidence"
+  },
+  "app_usage": {
+    "template_integration": "Useful for self-assessment: 'Where do I tend to be on the Perry/Reflective Judgment scale when I face difficult questions? What developmental moves do I need to make?'",
+    "exercise_integration": "Exercises on ill-structured problems (Stage 4-5 learners), comparative argument evaluation (Stage 6), and meta-reflection on one's own epistemic development",
+    "qa_context": "Understanding developmental models helps explain why some CT skills feel difficult — they require epistemological development, not just skill acquisition"
+  }
+}

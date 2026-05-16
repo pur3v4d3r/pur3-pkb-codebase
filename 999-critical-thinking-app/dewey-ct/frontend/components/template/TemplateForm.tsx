@@ -492,7 +492,7 @@ export default function TemplateForm({ template }: TemplateFormProps) {
           <div>
             <p className="text-sm font-medium text-slate-700">Save to Portfolio</p>
             <p className="text-xs text-slate-400">
-              Saves your responses to your browser's local storage.
+              Saves your responses to your browser&apos;s local storage.
             </p>
           </div>
           <button

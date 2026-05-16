@@ -17,6 +17,9 @@ export default function FrameworksPage() {
     { id: 'paul-elder-enrichments', name: 'Paul-Elder Enrichments', desc: 'SEE-I method, 7 stages of development, Socratic question banks' },
     { id: 'acer-critical-thinking', name: 'ACER Critical Thinking', desc: 'Australian standards-based assessment framework' },
     { id: 'acer-metacognitive', name: 'ACER Metacognitive', desc: 'Metacognitive skills and self-regulation framework' },
+    { id: 'developmental-models', name: 'Developmental Models', desc: "Perry's Scheme, King-Kitchener's Reflective Judgment, and Kuhn's Epistemological Levels" },
+    { id: 'cognitive-biases', name: 'Cognitive Biases', desc: 'Systematic reasoning errors with counter-strategies; grounded in dual-process theory' },
+    { id: 'cross-framework-synthesis', name: 'Cross-Framework Synthesis', desc: 'Convergence and divergence analysis across all major CT frameworks, with developmental mapping' },
   ];
 
   return (
@@ -24,7 +27,7 @@ export default function FrameworksPage() {
       <div className="space-y-1">
         <h1 className="text-2xl font-bold tracking-tight text-slate-900">Critical Thinking Frameworks</h1>
         <p className="text-sm text-slate-500">
-          {frameworks.length} frameworks — each a different lens for developing and evaluating thought
+          {frameworks.length} frameworks &mdash; each a different lens for developing and evaluating thought
         </p>
       </div>
 

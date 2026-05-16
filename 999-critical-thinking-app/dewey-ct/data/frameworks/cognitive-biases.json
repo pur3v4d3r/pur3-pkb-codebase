@@ -1,0 +1,264 @@
+{
+  "framework": "Cognitive Biases and Heuristics",
+  "theoretical_basis": "Dual-Process Theory (Kahneman, Tversky, Stanovich)",
+  "foundational_works": ["Tversky & Kahneman (1974) — Judgment under Uncertainty: Heuristics and Biases", "Kahneman (2011) — Thinking, Fast and Slow", "Stanovich & West (2000) — Individual differences in reasoning"],
+  "description": "Cognitive biases are systematic patterns of deviation from rational judgment that arise from mental shortcuts (heuristics) used by the fast, automatic System 1 processing mode. Understanding these biases is essential for critical thinking because they represent predictable failure modes in human reasoning — patterns where intuitive System 1 responses reliably lead us astray, requiring deliberate System 2 override.",
+  "dual_process_context": {
+    "system_1": "Fast, automatic, parallel, effortless, heuristic-based — generates intuitive responses",
+    "system_2": "Slow, deliberate, serial, effortful, rule-based — can override System 1 when engaged",
+    "bias_origin": "Biases arise when System 1 heuristics are applied in contexts where they are inappropriate, and System 2 fails to engage or override the result",
+    "ct_role": "Critical thinking is the practice of engaging System 2 deliberately — recognizing when intuitions should be questioned and applying disciplined reasoning instead"
+  },
+  "cognitive_reflection_test": {
+    "description": "Shane Frederick's three-item test that directly measures the tendency to override intuitive (System 1) responses with deliberate (System 2) reasoning",
+    "example_item": {
+      "question": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+      "system_1_answer": "$0.10 (fast, intuitive, wrong)",
+      "correct_answer": "$0.05",
+      "reasoning": "If ball = 5¢, bat = $1.05. $1.05 + $0.05 = $1.10 ✓. If ball = 10¢, bat = $1.10. $1.10 + $0.10 = $1.20 ✗.",
+      "lesson": "System 1 pattern-matches to '$1.00 + $0.10 = $1.10' and stops. System 2 must check this explicitly."
+    }
+  },
+  "biases": [
+    {
+      "id": "confirmation-bias",
+      "name": "Confirmation Bias",
+      "category": "Evidence Evaluation",
+      "description": "The tendency to seek, interpret, and remember information in a way that confirms one's pre-existing beliefs while discounting or ignoring disconfirming evidence.",
+      "example": "A manager who believes a new policy will fail notices every problem that supports this view and dismisses evidence of success as 'exceptional circumstances.'",
+      "mechanism": "System 1 makes existing beliefs highly accessible; information consistent with those beliefs 'clicks' immediately while inconsistent information requires effortful processing.",
+      "severity": "High — affects all stages of reasoning from information gathering through interpretation",
+      "counter_strategies": [
+        "Actively seek evidence that would disconfirm your position",
+        "Apply the 'steel man' technique: construct the strongest version of opposing views",
+        "Ask: 'What would I need to see to change my mind?'",
+        "Consider what hypothesis the data best supports — not just whether it supports yours",
+        "Assign someone (or yourself) to play devil's advocate explicitly"
+      ],
+      "paul_elder_element": "Information — cherry-picking; Assumptions — confirming unexamined premises",
+      "dewey_phase": "Particularly dangerous in Phase 3 (Hypothesis) and Phase 5 (Testing) — biases hypothesis formation and evidence evaluation"
+    },
+    {
+      "id": "availability-heuristic",
+      "name": "Availability Heuristic",
+      "category": "Probability Assessment",
+      "description": "Judging the likelihood or frequency of events by how easily examples come to mind — conflating memorability and salience with statistical probability.",
+      "example": "After seeing several news reports about plane crashes, people overestimate the risk of flying relative to driving — which is statistically much more dangerous.",
+      "mechanism": "System 1 uses ease of retrieval as a proxy for probability. Dramatic, recent, or emotionally charged events are more available and thus judged as more probable.",
+      "severity": "High — distorts risk assessment, resource allocation, and policy decisions",
+      "counter_strategies": [
+        "Use base rates and statistical data rather than memorable cases",
+        "Ask: 'Am I thinking of vivid examples, or do I have actual frequency data?'",
+        "Deliberately consider less memorable but statistically relevant examples",
+        "Identify why certain examples are salient — is it probability or vividness?",
+        "Conduct explicit probability comparisons using numerical data"
+      ],
+      "paul_elder_element": "Information — selective retrieval; Inference — over-inference from salient cases",
+      "dewey_phase": "Phase 3 and 4 — distorts hypothesis formation and evidence collection"
+    },
+    {
+      "id": "anchoring",
+      "name": "Anchoring Effect",
+      "category": "Numerical Estimation",
+      "description": "Over-relying on the first piece of information encountered (the 'anchor') when making decisions or estimates, even when the anchor is arbitrary.",
+      "example": "When shown a high initial price for a product, people adjust their perceived 'fair price' upward compared to those shown a low initial price — even when both know the initial price was random.",
+      "mechanism": "System 1 generates an initial estimate from the anchor through assimilation; System 2's adjustment is typically insufficient to overcome the anchor's pull.",
+      "severity": "Medium-High — particularly significant in negotiation, estimation, and sequential decision-making",
+      "counter_strategies": [
+        "Generate an independent estimate before seeing any anchor",
+        "Consider what the estimate would be from completely different starting points",
+        "Ask: 'Would I estimate this differently if the first number I saw was X instead?'",
+        "Actively consider extreme alternatives (both much higher and much lower) before settling",
+        "Be especially suspicious of anchors provided by interested parties"
+      ],
+      "paul_elder_element": "Information — first information overweighted; Inference — insufficient adjustment from anchor",
+      "dewey_phase": "Phase 3 — initial framing of hypotheses becomes the anchor"
+    },
+    {
+      "id": "representativeness",
+      "name": "Representativeness Heuristic",
+      "category": "Categorization",
+      "description": "Judging probability by similarity to a mental prototype or stereotype, while neglecting base rates, sample size, and statistical principles.",
+      "example": "Judging a quiet, bookish person who enjoys puzzles as more likely to be a librarian than a truck driver — despite there being far more truck drivers. The profile matches the 'librarian stereotype' but ignores base rates.",
+      "mechanism": "System 1 evaluates similarity quickly; probability judgments are replaced by assessments of typicality or representativeness of the prototype.",
+      "severity": "High — produces stereotyping, base rate neglect, conjunction fallacy",
+      "conjunction_fallacy": "The classic example: people judge 'Linda is a bank teller and a feminist' as more probable than 'Linda is a bank teller' — even though the conjunction cannot be more probable than any single component. The richer description seems more representative.",
+      "counter_strategies": [
+        "Always ask: 'What is the base rate for this category?'",
+        "Apply Bayes' theorem explicitly when base rates are available",
+        "Separate 'does this match the prototype?' from 'what is the probability?'",
+        "Remember that highly specific scenarios are always less probable than general ones",
+        "Ask: 'How many of these vs. that are there in the population?'"
+      ],
+      "paul_elder_element": "Concepts — applying inappropriate prototype; Inference — substituting similarity for probability",
+      "dewey_phase": "Phase 2 — problem categorization is distorted by prototype matching"
+    },
+    {
+      "id": "hindsight-bias",
+      "name": "Hindsight Bias",
+      "category": "Learning and Memory",
+      "description": "After learning an outcome, believing that the outcome was predictable all along ('I knew it would happen') — distorting both memory of prior beliefs and evaluations of others' decisions.",
+      "example": "After an election is decided, people remember being more confident in the winner than they actually were. After a business failure, people say 'it was obvious the strategy wouldn't work.'",
+      "mechanism": "Outcome knowledge restructures memory of prior states; System 1 creates a coherent narrative in which the outcome appears inevitable. The uncertainty that existed before the outcome is not preserved.",
+      "severity": "High for learning from experience — if outcomes seem inevitable in retrospect, we cannot learn what was genuinely uncertain or what decisions actually caused what outcomes",
+      "counter_strategies": [
+        "Record predictions explicitly before outcomes are known — maintain a prediction journal",
+        "Evaluate decisions by the quality of the decision process, not just the outcome",
+        "Ask: 'Given what they knew at the time, was this a reasonable decision?' not 'Given what happened, was this a good decision?'",
+        "Use pre-mortems: before a decision, imagine it failed and ask why",
+        "When assigning blame or praise, reconstruct the information available at decision time"
+      ],
+      "paul_elder_element": "Information — retroactive distortion; Point of View — judging past reasoning from present perspective",
+      "dewey_phase": "Post-hoc distortion of Phase 5 (Testing) — outcomes appear more predictable than they were"
+    },
+    {
+      "id": "fundamental-attribution-error",
+      "name": "Fundamental Attribution Error (Correspondence Bias)",
+      "category": "Social Cognition",
+      "description": "The tendency to over-attribute others' behavior to stable character traits while under-attributing it to situational factors — while simultaneously over-weighting situational factors in explaining one's own behavior (the actor-observer asymmetry).",
+      "example": "A student who is late is judged as irresponsible (dispositional). But the judge, when late themselves, attributes it to traffic and circumstances (situational).",
+      "mechanism": "System 1 processes actors as figures against a background; the actor is salient while the situation recedes. This creates asymmetric attention to personal vs. situational causes.",
+      "severity": "High in interpersonal reasoning, moral judgment, policy analysis, and management",
+      "counter_strategies": [
+        "Actively consider situational factors: 'What circumstances might produce this behavior?'",
+        "Apply the same explanation standards to others as to yourself",
+        "Ask: 'Would most people behave this way in this situation?'",
+        "Avoid character-based explanations until situational alternatives are eliminated",
+        "Consider the power dynamics and structural constraints affecting the person"
+      ],
+      "paul_elder_element": "Point of View — limited perspective; Assumptions — character-based assumptions about behavior",
+      "dewey_phase": "Phase 2 — misframes the problem by misidentifying causes"
+    },
+    {
+      "id": "dunning-kruger-effect",
+      "name": "Dunning-Kruger Effect",
+      "category": "Metacognition",
+      "description": "A metacognitive bias in which people with low competence in a domain overestimate their ability (because they lack the skills to recognize their own errors), while highly competent people sometimes underestimate theirs (because they assume others find the domain equally accessible).",
+      "example": "Novice drivers rate themselves above average; expert surgeons are more likely to express uncertainty about complex cases than residents.",
+      "mechanism": "Competent performance requires the very metacognitive skills needed to evaluate competence. Without those skills, self-assessment is unmoored from actual performance.",
+      "note": "The original Dunning-Kruger finding has been somewhat misunderstood in popular culture. The key insight is not that incompetent people always think they're geniuses, but that they systematically overestimate relative to their actual performance.",
+      "severity": "High for self-directed learning, self-assessment, and expert consultation decisions",
+      "counter_strategies": [
+        "Seek external feedback rather than relying on self-assessment",
+        "Track predictions vs. outcomes over time to calibrate confidence",
+        "Treat uncertainty and confusion as useful signals, not signs of incompetence",
+        "Ask: 'What would a genuine expert in this domain know that I might not?'",
+        "Practice with increasingly difficult cases to expose the boundaries of competence"
+      ],
+      "paul_elder_element": "Self-assessment; Intellectual Humility — inability to recognize limits of one's knowledge",
+      "dewey_phase": "Affects all phases — miscalibrated confidence distorts problem formulation, hypothesis generation, and evidence evaluation"
+    },
+    {
+      "id": "motivated-reasoning",
+      "name": "Motivated Reasoning",
+      "category": "Evidence Evaluation",
+      "description": "Reasoning shaped by desires, fears, or self-interest — where conclusions are driven by what one wants to be true rather than what the evidence supports. Distinct from confirmation bias in that the motivation is actively goal-directed, not merely a passive preference for consistency.",
+      "example": "A researcher whose career depends on a hypothesis finding evidence to support it; a person who reasons carefully about their own favored candidate's flaws but applies only superficial scrutiny to the opposing candidate.",
+      "mechanism": "System 1 generates preferred conclusions first; System 2 then constructs post-hoc rationalizations that justify those conclusions. The reasoner experiences this as objective analysis.",
+      "severity": "High — one of the most pervasive and hard-to-detect biases because it is internally invisible",
+      "counter_strategies": [
+        "Explicitly surface what you want to be true before beginning analysis",
+        "Apply the same scrutiny to evidence for your preferred view as to evidence against it",
+        "Ask: 'Would I reason this way if the conclusion favored someone I disliked?'",
+        "Seek analysis from people with opposing motivations",
+        "Use the outside view: how would an objective observer with no stake evaluate this?"
+      ],
+      "paul_elder_element": "Assumptions — motivated premises; Intellectual Fair-mindedness; Intellectual Integrity",
+      "dewey_phase": "Pervasive across all phases — particularly corrosive in Phase 5 where evidence that disconfirms the hypothesis must be acknowledged"
+    },
+    {
+      "id": "sunk-cost-fallacy",
+      "name": "Sunk Cost Fallacy (Escalation of Commitment)",
+      "category": "Decision Making",
+      "description": "Continuing to invest resources in a failing course of action because of past irrecoverable investments ('we've come too far to stop now'), rather than making decisions based on current and future expected returns.",
+      "example": "Continuing to watch a terrible movie because you paid for the ticket; staying in an underperforming project because significant money has been invested; continuing a failing military campaign because so many have already died.",
+      "mechanism": "Loss aversion (losing feels worse than gaining feels good, by roughly 2:1) makes the sunk cost feel like a future loss to be avoided. System 1 conflates past commitment with future value.",
+      "severity": "High in business, policy, and personal decisions — leads to compounding losses",
+      "counter_strategies": [
+        "Ask: 'Ignoring everything I've already invested, what is the expected return from here?'",
+        "Treat past investments as history — they are gone whether you continue or stop",
+        "Use a pre-commitment rule: decide in advance under what conditions you will stop",
+        "Ask an outsider who has no knowledge of past investments to evaluate the current situation",
+        "Distinguish the emotional pull of 'not wasting' from actual expected value"
+      ],
+      "paul_elder_element": "Information — selective counting; Implications — incorrect calculation of future consequences",
+      "dewey_phase": "Phase 5 — disconfirming evidence is dismissed because reversal feels like wasting the sunk cost"
+    },
+    {
+      "id": "framing-effect",
+      "name": "Framing Effect",
+      "category": "Decision Making",
+      "description": "Making different choices depending on how options are presented (framed), even when the options are logically equivalent in terms of outcomes.",
+      "example": "People prefer a surgery described as having a '90% survival rate' over one described as having a '10% mortality rate' — although these are identical. Labeling something as '95% fat free' vs. '5% fat' produces different preferences.",
+      "mechanism": "System 1 responds to the surface representation rather than the underlying mathematics. Loss frames trigger loss aversion; gain frames feel safer.",
+      "severity": "High for consumer decisions, public health messaging, policy evaluation",
+      "counter_strategies": [
+        "Translate all options into their logical equivalents (both gain and loss frames)",
+        "Ask: 'Would my choice change if this were presented differently?'",
+        "Focus on absolute outcomes rather than relative comparisons",
+        "Use numerical representations rather than verbal descriptions",
+        "Check whether you are responding to the substance or the packaging of an option"
+      ],
+      "paul_elder_element": "Concepts — framing determines what concepts apply; Point of View — frame is a perspective",
+      "dewey_phase": "Phase 2 — framing of the problem determines the entire inquiry"
+    },
+    {
+      "id": "in-group-bias",
+      "name": "In-Group Bias (Favoritism)",
+      "category": "Social Cognition",
+      "description": "The tendency to favor members of one's own group (in-group) over members of other groups (out-groups) in evaluating their work, motives, and character — often without awareness.",
+      "example": "Managers give higher performance ratings to employees who share their demographic background; researchers more readily accept studies that confirm their theoretical commitments; politicians evaluate policy based on who proposed it rather than its content.",
+      "mechanism": "Social identity is deeply embedded in System 1; tribal affiliation activates automatic approach/avoid responses before deliberative evaluation begins.",
+      "severity": "High for organizational fairness, scientific peer review, political reasoning",
+      "counter_strategies": [
+        "Apply identical standards to in-group and out-group work/claims",
+        "Conduct blind evaluations where group membership is concealed",
+        "Ask: 'Would I judge this the same way if an out-group member did it?'",
+        "Actively seek out-group perspectives on shared problems",
+        "Track your judgments for patterns of group-correlated variation"
+      ],
+      "paul_elder_element": "Intellectual Fair-mindedness; Point of View — confined to in-group perspective",
+      "dewey_phase": "Phase 4 — reasoning toward conclusions that benefit the in-group"
+    }
+  ],
+  "heuristics": [
+    {
+      "id": "representativeness-heuristic",
+      "name": "Representativeness Heuristic",
+      "description": "Judging probability by similarity to a prototype or category. Useful in many cases, but leads to base rate neglect and conjunction fallacies.",
+      "when_useful": "Quick categorization tasks where stereotypical features reliably predict category membership",
+      "when_problematic": "When base rates are low, when sample sizes are small, when the question is about probability not similarity"
+    },
+    {
+      "id": "availability-heuristic",
+      "name": "Availability Heuristic",
+      "description": "Judging frequency or probability by ease of recall. Useful in many cases, but overweights salient, emotional, or recent events.",
+      "when_useful": "Frequency estimation in domains where memorable events track actual frequency",
+      "when_problematic": "When media coverage, emotional salience, or personal experience create unrepresentative samples"
+    },
+    {
+      "id": "affect-heuristic",
+      "name": "Affect Heuristic",
+      "description": "Using emotional responses as information about probability, quality, or value. 'If it feels good, it must be right/safe/valuable.'",
+      "when_useful": "Fast social judgments; threat detection in familiar environments",
+      "when_problematic": "Risk assessment, policy evaluation, scientific judgment — anywhere emotional valence is not reliable proxy for truth"
+    }
+  ],
+  "bias_intervention_strategies": {
+    "general_principles": [
+      "Slow down — most biases operate through fast System 1 processing; deliberate engagement reduces their influence",
+      "Surface your assumptions and preferences before analysis",
+      "Seek disconfirming information deliberately",
+      "Use numerical representations rather than verbal descriptions",
+      "Get external perspectives from people with different motivations",
+      "Pre-commit to decision rules before seeing outcomes",
+      "Practice metacognition: notice when you are reasoning toward a preferred conclusion"
+    ],
+    "paul_elder_connection": "Paul-Elder's intellectual standards — especially fair-mindedness, intellectual humility, and intellectual integrity — can be understood as cultivated System 2 dispositions that reliably override bias-prone System 1 responses"
+  },
+  "app_usage": {
+    "template_integration": "Use this framework to identify which biases might be operating in a piece of reasoning. The Paul-Elder template's 'Assumptions' and 'Information' sections are the primary sites of bias vulnerability.",
+    "exercise_integration": "Bias identification exercises: present reasoning examples and ask learners to identify which biases are operating and which counter-strategies apply.",
+    "qa_context": "When a user describes a reasoning problem, the Q&A system can ask: 'What biases might be operating in this reasoning?' and draw on this catalog."
+  }
+}

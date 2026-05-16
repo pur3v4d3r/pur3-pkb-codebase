@@ -19,6 +19,9 @@ const VALID_IDS = [
   'paul-elder-enrichments',
   'acer-critical-thinking',
   'acer-metacognitive',
+  'developmental-models',
+  'cognitive-biases',
+  'cross-framework-synthesis',
 ] satisfies FrameworkId[];
 
 // ---- Local types reflecting the actual JSON structure ----

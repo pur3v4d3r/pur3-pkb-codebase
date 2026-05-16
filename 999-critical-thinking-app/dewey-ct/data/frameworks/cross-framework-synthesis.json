@@ -1,0 +1,404 @@
+{
+  "framework": "Cross-Framework Synthesis Matrix",
+  "description": "A comparative analysis of major critical thinking frameworks, identifying where they converge (evidence of genuine core constructs), where they diverge (genuine theoretical choices), and how they map to developmental stages and other instructional models. This synthesis is the meta-level view of the CT field.",
+  "sources": ["Paul & Elder (2006)", "Ennis (1985, 1996)", "Facione (1990) — Delphi Report", "Halpern (1998, 2006)", "Brookfield (1987, 2012)", "Siegel (1988)", "Lipman (1991, 2003)", "King & Kitchener (1994)", "Bailin (2002)"],
+  "core_convergent_constructs": {
+    "description": "Despite originating in different disciplines, being developed by independent researchers, and using different terminologies, the major CT frameworks converge on these constructs. This convergence is treated as empirical evidence that these constructs represent genuine components of critical thinking.",
+    "constructs": [
+      {
+        "construct": "Argument Analysis",
+        "description": "The ability to identify, reconstruct, and evaluate the structure of arguments — claims, reasons, evidence, and the inferential connections between them.",
+        "framework_expressions": {
+          "Paul-Elder": "Inference element; applying standards of clarity, accuracy, and logic to reasoning chains",
+          "Ennis": "Analyzing arguments (Skill A.2); identifying reasons and conclusions",
+          "Delphi": "Analysis core skill — examining ideas, detecting and analyzing arguments",
+          "Halpern": "Argument Analysis skill category — recognizing conclusions, premises, missing premises",
+          "Brookfield": "Identifying assumptions — arguments rest on explicit and implicit premises",
+          "Toulmin": "The entire model — claim, data, warrant, backing, qualifier, rebuttal",
+          "Walton": "Argumentation scheme analysis — reconstructing presumptive argument patterns"
+        },
+        "consensus_view": "All frameworks agree that competent argument analysis is central to critical thinking. Key sub-skills: identifying claims vs. reasons; reconstructing missing premises; evaluating inferential strength; distinguishing deductive from inductive reasoning."
+      },
+      {
+        "construct": "Assumption Identification",
+        "description": "The ability to surface the explicit and implicit premises, values, and background beliefs that arguments depend upon but often do not state.",
+        "framework_expressions": {
+          "Paul-Elder": "Assumptions element — all reasoning rests on assumptions; intellectual virtue: checking one's own assumptions",
+          "Ennis": "Identifying assumptions (Skill B.2); stated and unstated assumptions",
+          "Delphi": "Analysis sub-skill — identifying implicit premises",
+          "Halpern": "Argument analysis sub-skill — detecting missing premises and unstated assumptions",
+          "Brookfield": "The central activity of CT — paradigmatic, prescriptive, and causal assumptions",
+          "Walton": "Critical questions for argumentation schemes expose the assumptions each scheme rests on"
+        },
+        "consensus_view": "Assumption identification is universally recognized as fundamental — a defining characteristic of CT across virtually all frameworks."
+      },
+      {
+        "construct": "Source Evaluation / Credibility Assessment",
+        "description": "The ability to evaluate the reliability, accuracy, and relevance of sources of evidence and testimony.",
+        "framework_expressions": {
+          "Paul-Elder": "Information element — evaluating sources for accuracy, relevance, and bias",
+          "Ennis": "Judging the credibility of sources (Skill C) — a dedicated skill cluster",
+          "Delphi": "Evaluation sub-skill — assessing credibility of claims and sources",
+          "Halpern": "Verbal Reasoning skill — evaluating claims in natural language",
+          "Walton": "Argument from Expert Opinion and its critical questions — is the source credible? In their domain? Consistent with other experts?"
+        },
+        "consensus_view": "All frameworks recognize that CT requires evaluating not just argument structure but the evidential quality of the premises — and this requires source evaluation skills."
+      },
+      {
+        "construct": "Perspective-Taking",
+        "description": "The ability to recognize and genuinely understand viewpoints, frameworks, and perspectives different from one's own.",
+        "framework_expressions": {
+          "Paul-Elder": "Point of View element + Empathy intellectual trait; 'Reasoning from premises one disagrees with' is itself an intellectual exercise",
+          "Ennis": "Disposition 8: 'Try to reason from premises one disagrees with' — perspective-taking as disposition",
+          "Delphi": "Open-mindedness disposition — genuinely considering alternative perspectives",
+          "Halpern": "Implicit in argument analysis — one must understand an argument to evaluate it",
+          "Brookfield": "Third activity: 'Seeing things from different viewpoints'",
+          "Lipman": "Community of Inquiry requires genuinely engaging with others' views — caring thinking dimension"
+        },
+        "consensus_view": "Perspective-taking is both a skill (reconstructing others' reasoning) and a disposition (being willing to do so genuinely). All frameworks recognize it as essential."
+      },
+      {
+        "construct": "Metacognitive Self-Regulation",
+        "description": "The ability to monitor, evaluate, and correct one's own reasoning processes — thinking about thinking.",
+        "framework_expressions": {
+          "Paul-Elder": "7 intellectual virtues (especially intellectual humility and intellectual integrity); self-examination across all elements",
+          "Ennis": "Disposition 12: 'Be reflective'; Disposition 11: 'Take a position (and change when evidence warrants)'",
+          "Delphi": "Self-Regulation core skill — self-monitoring and self-correction; explicit metacognitive loop",
+          "Halpern": "Metacognitive Monitoring component — monitoring the quality and progress of one's own thinking",
+          "Brookfield": "Hunting paradigmatic assumptions — the deepest assumptions about one's own way of knowing",
+          "King-Kitchener": "Reflective Judgment Stage 7 — the reasoner monitors their own justification process"
+        },
+        "consensus_view": "All frameworks converge on self-regulation/metacognition as an essential component. The Delphi report elevates it to one of six core skills; Paul-Elder embeds it in the intellectual virtues; Halpern makes it a structural component of the full framework."
+      },
+      {
+        "construct": "Disposition Toward Critical Thinking",
+        "description": "The motivational and attitudinal component — the will to use CT skills rather than merely possessing them.",
+        "framework_expressions": {
+          "Paul-Elder": "7 Intellectual Virtues — intellectual humility, autonomy, integrity, perseverance, courage, empathy, fair-mindedness",
+          "Ennis": "14 CT Dispositions organized around seeking truth, being open-minded, judging well, and acting well",
+          "Delphi": "CCTDI 7 subscales — Truth-seeking, Open-mindedness, Analyticity, Systematicity, Self-confidence, Inquisitiveness, Maturity",
+          "Halpern": "Disposition component — the will to think critically",
+          "Siegel": "Critical Spirit — the dispositional commitment to being governed by reasons",
+          "Brookfield": "An orientation to hunting assumptions — CT as a stance more than a skill"
+        },
+        "consensus_view": "Skills without disposition are inert. Every major framework recognizes that CT requires both competence (skills) and commitment (disposition). The CCTDI research finding that disposition predicts skill deployment better than skill predicts disposition use has significant instructional implications: develop the critical spirit, not just the analytic skills."
+      }
+    ]
+  },
+  "divergent_issues": {
+    "description": "Where frameworks genuinely disagree — these are real theoretical controversies, not mere terminological differences.",
+    "issues": [
+      {
+        "issue": "Domain-Generality vs. Domain-Specificity",
+        "position_a": {
+          "label": "CT skills are general and transferable across domains",
+          "proponents": ["Ennis", "Halpern", "Watson-Glaser"],
+          "argument": "The same logical skills (argument analysis, source evaluation, hypothesis testing) apply whether the topic is history, science, or everyday decisions. Transfer is possible with appropriate instruction."
+        },
+        "position_b": {
+          "label": "CT is inherently domain-specific; there is no generic CT",
+          "proponents": ["McPeck", "Bailin"],
+          "argument": "What counts as good evidence, a valid argument, or a credible source depends entirely on domain-specific background knowledge. You cannot evaluate scientific reasoning without knowing the science; claiming 'CT skills' ignores this."
+        },
+        "current_position": "Most contemporary frameworks adopt a moderate position: generic thinking skills exist but their application requires domain knowledge. The skill may transfer; the ability to deploy it effectively in a domain requires domain competence.",
+        "instructional_implication": "Teach CT frameworks explicitly, but always apply them in domain-specific contexts — ideally using the student's own field of study."
+      },
+      {
+        "issue": "Skills vs. Dispositions as Primary",
+        "position_a": {
+          "label": "Critical thinking is primarily a skill set — skills are what can be taught and assessed",
+          "proponents": ["Watson-Glaser (assessment)", "Bloom's Taxonomy"],
+          "argument": "Skills are observable and teachable; dispositions are vague and hard to assess. Focus on the cognitive competencies."
+        },
+        "position_b": {
+          "label": "Disposition is primary — skills without motivation to use them are useless",
+          "proponents": ["Ennis", "Paul-Elder", "Siegel", "Facione"],
+          "argument": "The CCTDI research shows that willingness to think critically is the bottleneck, not skill. People who possess CT skills but lack the disposition simply don't deploy them."
+        },
+        "current_position": "Both are necessary. Skills + Disposition = Effective CT. Instructionally, developing both simultaneously is more effective than focusing exclusively on either."
+      },
+      {
+        "issue": "Individual vs. Communal CT",
+        "position_a": {
+          "label": "Critical thinking is a property of individuals — an individual cognitive capacity",
+          "proponents": ["Most frameworks by default"],
+          "argument": "CT can be assessed and developed in individual learners; it is an individual cognitive skill set."
+        },
+        "position_b": {
+          "label": "CT is fundamentally communal — it emerges in and depends on dialogical community",
+          "proponents": ["Lipman"],
+          "argument": "Ideas are tested in community; self-correction happens through dialogue; the full development of CT requires community of inquiry. Individualistic CT instruction misses this essentially social dimension."
+        },
+        "current_position": "Lipman's insight is that CT has both individual and communal dimensions. Assessment focuses on individuals; instruction is strengthened by community. Both apply."
+      },
+      {
+        "issue": "Procedural vs. Substantive CT",
+        "position_a": {
+          "label": "CT can be specified as general procedures independent of content",
+          "proponents": ["Generic CT programs"],
+          "argument": "If CT were purely content-dependent, it could not be taught as a general competency at all."
+        },
+        "position_b": {
+          "label": "CT requires substantive judgment — what constitutes a good argument depends on the issue",
+          "proponents": ["Bailin", "informal logic tradition"],
+          "argument": "The idea that any reasoning conforming to formal procedures is 'critical' misses that the procedures must themselves be applied with judgment. Procedural compliance is not sufficient."
+        },
+        "current_position": "Procedures are necessary but not sufficient. They provide scaffolding; substantive judgment (developed through domain engagement) fills the scaffolding with content."
+      }
+    ]
+  },
+  "bloom_to_ct_mapping": {
+    "description": "Bloom's Revised Cognitive Taxonomy provides an organizing structure for the cognitive demand of CT activities. Note that critical thinking proper begins at the Analyze level — the lower levels (Remember, Understand) are preconditions but not yet CT.",
+    "levels": [
+      {
+        "bloom_level": 1,
+        "name": "Remember",
+        "description": "Recall information, definitions, and facts",
+        "ct_activity": "Prerequisite background — not yet CT",
+        "example": "Recall the definition of a deductive argument"
+      },
+      {
+        "bloom_level": 2,
+        "name": "Understand",
+        "description": "Comprehend the meaning of information",
+        "ct_activity": "Interpretation (Delphi) — comprehending the meaning of an argument; necessary prerequisite for CT",
+        "example": "Explain in your own words what this argument claims"
+      },
+      {
+        "bloom_level": 3,
+        "name": "Apply",
+        "description": "Use knowledge in a new context",
+        "ct_activity": "Instrumental application — may or may not be CT depending on whether judgment is required",
+        "example": "Apply the Toulmin model to a new argument"
+      },
+      {
+        "bloom_level": 4,
+        "name": "Analyze",
+        "description": "Break complex content into components; identify relationships",
+        "ct_activity": "Core CT activity — Argument Analysis, Assumption Identification, Source Evaluation",
+        "framework_alignment": "Delphi Analysis skill; Paul-Elder Elements identification; Ennis argument analysis",
+        "example": "Identify the implicit premises in this argument and assess whether they are warranted"
+      },
+      {
+        "bloom_level": 5,
+        "name": "Evaluate",
+        "description": "Assess quality against criteria",
+        "ct_activity": "Core CT activity — evaluating argument quality, evidence strength, source credibility",
+        "framework_alignment": "Delphi Evaluation skill; Paul-Elder Intellectual Standards application; Ennis evaluation cluster",
+        "example": "Assess the strength of the evidence used to support the main claim; what alternative explanations are not addressed?"
+      },
+      {
+        "bloom_level": 6,
+        "name": "Create",
+        "description": "Generate novel work from elements",
+        "ct_activity": "Highest CT integration — constructing well-supported novel arguments, original syntheses",
+        "framework_alignment": "Paul-Elder: 'Intellectual Standards' applied to original thinking; Delphi Inference; Lipman: Creative Thinking",
+        "example": "Construct a well-reasoned original argument defending or criticizing a complex policy proposal"
+      }
+    ]
+  },
+  "developmental_to_framework_mapping": {
+    "description": "Different CT frameworks are differentially appropriate for different developmental stages. Mismatching instruction to developmental level produces frustration and pseudolearning.",
+    "mappings": [
+      {
+        "developmental_position": "Pre-Reflective (King & Kitchener 1-3) / Perry 1-2 / Kuhn Realist-Absolutist",
+        "core_epistemology": "Knowledge is certain; authority provides right answers; uncertainty means ignorance",
+        "ct_challenge": "Cannot engage in genuine argument evaluation because they believe right answers exist independently of reasoning",
+        "appropriate_frameworks": ["Bloom Remember/Understand (prerequisite building)", "Basic Watson-Glaser items (formal logic)", "Simple inductive examples"],
+        "instructional_goal": "Move toward recognition that some questions require genuine inquiry rather than authority retrieval; introduce the concept that evidence varies in quality",
+        "what_not_to_teach": "Complex relativistic frameworks — will be assimilated into 'there is still a right answer (just contextual)'"
+      },
+      {
+        "developmental_position": "Quasi-Reflective (King & Kitchener 4-5) / Perry 3-4 / Kuhn Multiplist",
+        "core_epistemology": "Knowledge is uncertain; all opinions are equally valid; certainty is impossible",
+        "ct_challenge": "Believes evaluation is meaningless because there is no way to adjudicate between competing views",
+        "appropriate_frameworks": ["Toulmin model (introducing the concept of evidence-claim structure)", "Browne & Keeley question-asking", "Ennis source credibility", "Multi-perspective frameworks"],
+        "instructional_goal": "The crucial developmental move: help learners discover that some arguments are better-supported than others, that uncertainty does not mean equality of all views",
+        "what_not_to_teach": "Full Paul-Elder framework until epistemological shift is made — the intellectual standards make no sense to a Multiplist"
+      },
+      {
+        "developmental_position": "Reflective (King & Kitchener 6-7) / Perry 5+ / Kuhn Evaluativist",
+        "core_epistemology": "Knowledge claims can be evaluated; some are better-supported; conclusions are provisional",
+        "ct_challenge": "Can now engage fully; challenge is developing the skills to do so rigorously and the dispositions to do so habitually",
+        "appropriate_frameworks": ["Full Paul-Elder framework", "Delphi self-regulation skill", "Halpern metacognitive monitoring", "Brookfield assumption-hunting", "Bailin's substantive evaluation"],
+        "instructional_goal": "Develop both competence (full CT skill set) and commitment (intellectual virtues and dispositions)",
+        "what_not_to_teach": "N/A — all major frameworks are accessible at this stage"
+      }
+    ]
+  },
+  "assessment_taxonomy": {
+    "description": "How different CT assessments map to the frameworks and competencies they measure.",
+    "assessments": [
+      {
+        "name": "Watson-Glaser Critical Thinking Appraisal",
+        "measures": "Formal reasoning sub-skills: Inference, Recognition of Assumptions, Deduction, Interpretation, Evaluation of Arguments",
+        "strength": "Objective scoring; established norms; widely used",
+        "limitation": "Focuses on skills without assessing dispositions; does not test argument construction"
+      },
+      {
+        "name": "California Critical Thinking Skills Test (CCTST)",
+        "measures": "Delphi core skills — analysis, evaluation, inference, deductive reasoning, inductive reasoning",
+        "strength": "Operationalizes Delphi consensus framework; solid psychometric properties",
+        "limitation": "Skills-only; does not assess dispositional dimension"
+      },
+      {
+        "name": "California Critical Thinking Disposition Inventory (CCTDI)",
+        "measures": "7 dispositional subscales: Truth-seeking, Open-mindedness, Analyticity, Systematicity, Self-confidence, Inquisitiveness, Maturity",
+        "strength": "The only widely-used instrument focused on CT disposition rather than skill",
+        "key_finding": "Disposition scores predict actual skill deployment more strongly than skill scores alone — suggesting disposition is the practical bottleneck"
+      },
+      {
+        "name": "Reflective Judgment Interview (RJI)",
+        "measures": "King & Kitchener's 7 developmental stages using open-ended ill-structured problems",
+        "strength": "Captures developmental dimension; rich qualitative data",
+        "limitation": "Time-intensive administration; requires trained raters"
+      }
+    ]
+  },
+  "siegel_reasons_conception": {
+    "name": "Siegel's Reasons Conception of Critical Thinking",
+    "originator": "Harvey Siegel",
+    "year": 1988,
+    "key_work": "Educating Reason: Rationality, Critical Thinking and Education",
+    "definition": "A critical thinker is 'one who is appropriately moved by reasons' — one who acts and believes on the basis of reasons, who recognizes the force of reasons, and who is committed to being governed by reasons rather than by rhetoric, manipulation, or habit.",
+    "components": [
+      {
+        "component": "Reason Assessment Component",
+        "description": "The cognitive skills required to evaluate reasons — assess their quality, identify their logical structure, and determine whether they support the conclusions they are claimed to support",
+        "relation_to_other_frameworks": "Maps to Delphi Analysis + Evaluation skills; Paul-Elder Inference and Intellectual Standards"
+      },
+      {
+        "component": "Critical Spirit",
+        "description": "The dispositional component — the commitment to being governed by reasons. A person with the critical spirit values reasoning, values epistemic autonomy, and is motivated to evaluate and follow reasons even when it is uncomfortable to do so.",
+        "relation_to_other_frameworks": "Maps to Paul-Elder's Intellectual Virtues; Ennis's CT Dispositions; CCTDI subscales"
+      }
+    ],
+    "distinctive_contribution": "Siegel grounds CT in a theory of rationality rather than merely listing skills or dispositions. This gives a principled account of why CT matters: rationality is a fundamental human value, and CT is the practice of taking that value seriously.",
+    "dewey_connection": "Siegel's 'critical spirit' closely parallels Dewey's disposition toward reflective thinking — the cultivation of openness, directness, and responsibility in inquiry."
+  },
+  "halpern_framework": {
+    "name": "Halpern's Four-Component Model",
+    "originator": "Diane Halpern",
+    "years": ["1989", "1998", "2006"],
+    "key_assessment": "Halpern Critical Thinking Assessment (HCTA)",
+    "description": "Halpern's model emphasizes transfer — the goal of CT instruction is to produce thinking skills that transfer to new domains. Her framework has four components that work together to produce transferable CT.",
+    "components": [
+      {
+        "component": "Disposition",
+        "description": "The attitudinal prerequisite — willingness to engage in effortful thinking, to value accuracy over comfort, to persist when answers are not obvious"
+      },
+      {
+        "component": "Thinking Skills",
+        "description": "The cognitive operations themselves — organized into five categories in the HCTA"
+      },
+      {
+        "component": "Metacognitive Monitoring",
+        "description": "Self-awareness of the quality and accuracy of one's own thinking — the monitoring loop that catches errors and regulates reasoning processes"
+      },
+      {
+        "component": "Structural Knowledge for Transfer",
+        "description": "Explicit knowledge of the cognitive structures and principles underlying good thinking — this is what enables transfer. Without knowing *why* an argument analysis technique works, students apply it only in familiar contexts."
+      }
+    ],
+    "hcta_skill_categories": [
+      {
+        "category": "Verbal Reasoning",
+        "description": "Evaluating claims and arguments presented in ordinary language; resisting linguistic manipulation"
+      },
+      {
+        "category": "Argument Analysis",
+        "description": "Identifying and evaluating explicit argument structure — premises, conclusions, implicit assumptions"
+      },
+      {
+        "category": "Hypothesis Testing",
+        "description": "Scientific reasoning skills — forming testable hypotheses, identifying confirming and disconfirming evidence, avoiding confirmation bias"
+      },
+      {
+        "category": "Likelihood and Uncertainty",
+        "description": "Probabilistic reasoning — applying base rates, understanding conditional probability, reasoning under uncertainty"
+      },
+      {
+        "category": "Decision Making and Problem Solving",
+        "description": "Selecting among alternatives using evidence and criteria; applying reasoning to practical decisions"
+      }
+    ],
+    "distinctive_contribution": "The emphasis on structural knowledge for transfer sets Halpern apart. Students who know that they are looking for 'the warrant' (Toulmin) or 'the unstated premise' (Ennis) can transfer this search to new domains. Students who simply practiced on examples cannot."
+  },
+  "walton_argumentation_schemes": {
+    "name": "Walton's Argumentation Schemes",
+    "originator": "Douglas Walton",
+    "key_work": "Argumentation Schemes for Presumptive Reasoning (1996)",
+    "description": "Walton identified a catalog of approximately 25 common patterns of presumptive reasoning — informal argument structures that are reasonable and common but not deductively valid. For each scheme, he identified the 'critical questions' that, if answered negatively, defeat or rebut the argument.",
+    "key_insight": "Most real-world arguments are neither deductively valid nor formally inductive — they are *presumptive*: they shift the burden of proof to the respondent, who must raise objections to defeat them. The critical questions for each scheme are the systematic way to raise such objections.",
+    "major_schemes": [
+      {
+        "scheme": "Argument from Expert Opinion",
+        "template": "Expert E says P is true; E is an expert in domain D; P is in domain D; therefore P is (presumptively) true",
+        "critical_questions": [
+          "Is E a genuine expert in domain D?",
+          "Is P actually within E's domain of expertise?",
+          "Does E have a vested interest that could bias the testimony?",
+          "Is there consensus or significant disagreement among experts on P?",
+          "Is P consistent with other established knowledge in the field?",
+          "Has E provided evidence or merely asserted P?"
+        ]
+      },
+      {
+        "scheme": "Argument from Analogy",
+        "template": "Case A and Case B are similar in respects R1, R2, R3; Case A has property P; therefore Case B (probably) has property P",
+        "critical_questions": [
+          "Are A and B genuinely similar in the relevant respects?",
+          "Is the similarity sufficient to support the conclusion?",
+          "Are there relevant differences between A and B that undermine the analogy?",
+          "Are there other cases similar to A that do *not* have property P?"
+        ]
+      },
+      {
+        "scheme": "Argument from Cause to Effect",
+        "template": "A causes B; A is present; therefore B will (probably) follow",
+        "critical_questions": [
+          "Is there a genuine causal relationship between A and B, or merely correlation?",
+          "Are there circumstances in which A would not produce B?",
+          "Are there other causes of B that might produce it without A?",
+          "Has the causal relationship been established by appropriate methods?"
+        ]
+      },
+      {
+        "scheme": "Argument from Sign",
+        "template": "If A is true, then B would be expected; B is observed; therefore A is (presumptively) true",
+        "critical_questions": [
+          "Is B a reliable indicator of A?",
+          "Are there other explanations for B besides A?",
+          "How strong is the correlation between A and B in general?"
+        ]
+      },
+      {
+        "scheme": "Argument from Popular Opinion (Ad Populum)",
+        "template": "Most people believe P; therefore P is (probably) true",
+        "critical_questions": [
+          "Is popular opinion a reliable guide to truth in this domain?",
+          "Are the people whose opinion is cited well-informed about P?",
+          "Is the popularity measurement accurate?",
+          "Are there domains where popular consensus is systematically unreliable?"
+        ]
+      },
+      {
+        "scheme": "Argument from Consequences",
+        "template": "If we do A, then consequence C will follow; C is good/bad; therefore we should/should not do A",
+        "critical_questions": [
+          "Will C actually follow from A, or is this speculation?",
+          "Is C the only relevant consequence, or are there other significant consequences?",
+          "Is C as good/bad as claimed?",
+          "Are there other ways to achieve C / avoid C besides A?"
+        ]
+      }
+    ],
+    "ct_application": "Walton's critical questions provide a structured, practical approach to argument evaluation. Instead of asking 'is this argument valid?' (which leads to premature logical analysis), the reasoner asks 'what are the critical questions for this type of argument and can they be answered satisfactorily?'"
+  },
+  "app_usage": {
+    "comparison_view": "This JSON is the foundation for a framework comparison feature — showing how different frameworks address the same CT construct",
+    "curriculum_design": "The developmental mapping enables adaptive instruction: assess where the learner is developmentally, then apply appropriate framework instruction",
+    "assessment_guidance": "The assessment taxonomy helps instructors choose appropriate tools for different evaluation purposes",
+    "deeper_reading": "Each section of this synthesis can link to the detailed framework JSON for full exploration"
+  }
+}
