@@ -1624,5 +1624,35 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 
 
 
-# Metacognitive Scaffolding
+# Continueing the Critical Thinking App Project
+## KEY LOCATIONS
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\critical-thinking-app-project-sheet.md` -> Main project sheet, with all the details of the project, the goals, the tasks, and the progress.
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app`
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\research-and-documents`
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\research-and-documents\research-from-claude-project`
+**NOTE**: You will need to determine were at in the projects lifecycle we are currently at, use the context and reference files plus the project plan to figure out the first steps.
+
+### HIGH QUALITY REFERENCE MATERIALS
+- These are some additional reference material I have accumulated since working on the project last.
+- They MUST BE mined for additional information that can be used in the app. [needs-to-be-in-json-form]
+`D:\10_pur3v4d3r's-vault\critical-thinking-frameworks-master-reference.md`
+`D:\10_pur3v4d3r's-vault\paul-elder-framework-reference.md`
+### ADDITIONA USEFUL FILES
+`D:\10_pur3v4d3r's-vault\metadata-template.md` -> How Metadata should be handeled, if needed.
+`D:\10_pur3v4d3r's-vault\wiki-links.md` -> List of complete collection of permanent notes, for populating wikli-links in the app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
