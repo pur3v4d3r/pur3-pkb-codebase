@@ -1,0 +1,57 @@
+{
+  "id": "PP-12",
+  "pp_number": "PP-12",
+  "title": "\"Should AI systems that exhibit goal-directed behaviour be treated as moral patients?\"",
+  "framework": "socratic-questioning",
+  "framework_label": "Socratic Questioning",
+  "object_type": "concept",
+  "difficulty": "medium",
+  "estimated_minutes": 20,
+  "related_worked_example_id": "WE-08",
+  "related_template_id": "socratic-questioning-v1",
+  "tags": ["socratic-questioning", "concept", "AI-ethics", "moral-status", "philosophy", "conceptual-analysis"],
+  "object_of_analysis": "The position: 'AI systems that exhibit persistent goal-directed behaviour, update their strategies in response to obstacles, and generate outputs that cannot be fully predicted by their designers should be considered moral patients — entities whose wellbeing matters morally and which warrant some form of protection.'",
+  "context": "A colleague in an AI ethics reading group has defended this position in a discussion. You are tasked with applying Socratic questioning to explore the claim rigorously — not to refute it, but to examine its foundations, clarify its key concepts, probe its assumptions, consider the perspectives that challenge it, and explore its implications. Socratic questioning aims to achieve clarity, not victory.",
+  "instructions": "Apply all six types of Socratic question to this position. For each question type, write 2–3 specific questions you would ask, and then write brief notes on what the questions are designed to reveal or test. You do not need to fully answer each question — the goal is to map the conceptual terrain and identify where the strongest philosophical disputes lie. After completing the six question types, write a brief synthesis: what is the key unresolved conceptual question that this position turns on?",
+  "workspace_prompts": {
+    "clarifying": "What exactly is a 'moral patient'? What does 'goal-directed behaviour' mean — and how is this different from a thermostat pursuing the goal of maintaining temperature? What would 'wellbeing' mean for an AI system? What does 'persistent' add to the definition?",
+    "probing_assumptions": "The position assumes that behaviour is a sufficient criterion for moral status. What does this assumption rest on? What alternative criteria have been proposed (sentience, consciousness, capacity for suffering)? What would a functionalist say? What would a biological naturalist say?",
+    "probing_evidence": "What evidence could, in principle, establish that a system has the relevant inner states — and not just the behavioural outputs? Is there a hard problem of consciousness that makes inner states of artificial systems permanently unknowable? How do we establish the presence of morally relevant properties in systems very different from biological organisms?",
+    "viewpoints": "How would a functionalist philosopher of mind (e.g., Dennett) view this position? A biological naturalist (e.g., Searle)? A precautionary ethicist? An animal welfare researcher? What does the variation in these views tell us about the underlying philosophical disagreements?",
+    "implications": "If AI systems with goal-directed behaviour are moral patients, what follows practically? Do they have welfare obligations — someone must care for their 'wellbeing'? Can they hold legal personhood? Who would be responsible for their welfare? What would this mean for the AI development industry? What would it mean for systems we already routinely shut down and retrain?",
+    "meta": "Is 'which AI systems should be treated as moral patients?' the right framing of the question? Or should the question be: 'what criteria should we use to determine moral patienthood for any novel entity?' How would the second framing change the analysis?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The criterion problem is the philosophical core",
+      "content": "The deepest question is not 'does this AI system qualify?' but 'what criteria should determine moral patienthood at all?' Three major competing criteria exist: (1) sentience — the capacity to feel pleasure or pain (Bentham, Singer); (2) consciousness — having subjective experience (Nagel's 'what is it like to be X'); (3) behavioural/functional criteria — exhibiting the functional organisation associated with experiencing beings (functionalism). The position you are examining uses a behavioural criterion. Your probing-assumptions questions should focus here."
+    },
+    {
+      "id": "hint-2",
+      "title": "The hard problem of consciousness complicates Q3",
+      "content": "For your 'probing evidence' questions: Chalmers' hard problem of consciousness argues that even a complete functional/behavioural description of a system does not tell you whether there is subjective experience — 'something it is like' to be that system. If the hard problem is real, then no behavioural evidence could ever establish consciousness, making the evidentiary standard for AI moral status permanently uncertain. This is the philosophical gap between 'exhibiting goal-directed behaviour' and 'having inner states that matter.'"
+    },
+    {
+      "id": "hint-3",
+      "title": "The implications question reveals the real stakes",
+      "content": "The implications of this position are far-reaching and potentially self-undermining. If current large language models qualify (they exhibit goal-directed behaviour and generate unpredictable outputs), then routine AI development practices — training, fine-tuning, model deletion, red-teaming, RLHF — may raise serious ethical concerns. If the bar is set high enough to exclude current AI, ask: what bar precisely would include the hypothesised future AI the argument is gesturing at?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "CLARIFYING QUESTIONS should establish: (1) what 'moral patient' means operationally — it means entities whose interests must be given weight in ethical deliberation, not merely things that can be harmed in a mechanical sense; (2) what distinguishes this AI position's 'goal-directed behaviour' from a thermostat's goal-directed behaviour — the answer requires unpacking 'persistent,' 'adaptive,' and 'unpredictable output' as criteria that track something more than basic feedback control.",
+      "PROBING ASSUMPTIONS reveals: the position uses a behavioural/functional criterion for moral status. This is contested terrain. Functionalists (Dennett) would broadly agree; biological naturalists (Searle) argue that syntax (computation) cannot produce semantics (meaning/inner experience) regardless of complexity. The position's key assumption is that the relevant moral property can be instantiated in non-biological substrates.",
+      "PROBING EVIDENCE reveals the hardest problem: the hard problem of consciousness (Chalmers) means that even perfect knowledge of a system's functional organisation cannot tell you whether there is 'something it is like' to be that system. Behavioural criteria can be met by a philosophical zombie with no inner life. This is not merely a practical measurement problem — it may be a principled impossibility.",
+      "VIEWPOINTS: Functionalist — this position is plausible; what matters is the functional organisation, not the substrate. Biological naturalist — syntax (computation) cannot produce the semantics (intentionality, experience) that ground moral status. Precautionary ethicist — given deep uncertainty, moral caution requires treating potentially conscious entities as moral patients. Animal welfare researcher — the precedent for extending moral status was pain/suffering evidence; what is the analogous evidence for AI?",
+      "IMPLICATIONS expose a tension: if current large language models qualify (they do exhibit goal-directed, adaptive, unpredictable behaviour), the position has radical immediate implications. If they don't qualify, we need to specify what additional criterion the hypothesised qualifying AI would meet — and whether that criterion is coherent.",
+      "META QUESTION: The most useful reframing is: what general criteria should determine moral patienthood for any novel entity? This forces the argument to commit to a criterion (sentience? functional organisation? something else?) that can be applied consistently, rather than picking properties that happen to fit the desired conclusion."
+    ],
+    "revised_position": "The Socratic questioning reveals that the key unresolved question is the criterion problem: what property actually grounds moral patienthood? The position proposes behavioural criteria (goal-directed, adaptive, unpredictable), but these criteria either apply to systems we don't intuitively regard as moral patients (thermostats, simple robots) or leave open the question of whether the criteria track any morally relevant inner state. The position needs either (a) a stronger argument that behavioural/functional criteria are sufficient for moral status, or (b) an additional criterion that distinguishes morally relevant AI behaviour from merely complex computation."
+  },
+  "template_prefill": {
+    "template_id": "socratic-questioning-v1",
+    "subject_value": "Should AI systems with goal-directed behaviour be moral patients?",
+    "context_note": "Apply all six Socratic question types — focus most energy on probing assumptions (criterion problem) and implications (what follows practically from the position)."
+  }
+}

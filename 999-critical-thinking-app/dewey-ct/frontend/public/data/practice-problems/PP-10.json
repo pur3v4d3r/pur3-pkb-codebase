@@ -1,0 +1,55 @@
+{
+  "id": "PP-10",
+  "pp_number": "PP-10",
+  "title": "\"SuperVita Pro\" — identify five fallacies in a supplement advertisement",
+  "framework": "logical-fallacies",
+  "framework_label": "Logical Fallacies",
+  "object_type": "argument",
+  "difficulty": "easy",
+  "estimated_minutes": 15,
+  "related_worked_example_id": "WE-06",
+  "related_template_id": "frisco-quick-analysis-v1",
+  "tags": ["logical-fallacies", "argument", "advertising", "supplements", "fallacy-identification", "beginner"],
+  "object_of_analysis": "\"9 out of 10 health experts recommend a daily supplement regime. Thousands of people have already discovered that SuperVita Pro completely transforms their energy levels and immunity. Humans evolved in environments where we obtained dense nutrition from our food — modern processed diets have destroyed this balance. You can either take control of your health today, or continue suffering the consequences of nutritional deficiency. Order now and join the hundreds of thousands of satisfied SuperVita Pro users.\"",
+  "context": "You are evaluating a dietary supplement advertisement for a consumer watchdog newsletter. Your readers are non-specialists who want to understand why this advertisement is persuasive but not convincing. Identify each logical fallacy in the advertisement, name it precisely, explain the specific error, and — for each fallacy — note whether the conclusion might still be defensible via a non-fallacious argument.",
+  "instructions": "The advertisement contains at least five logical fallacies. For each one you identify: (1) name the fallacy precisely, (2) quote the specific sentence or phrase that commits it, (3) explain in plain language what the error is, and (4) write a brief 'saving throw' — a version of the same point that avoids the fallacy. Once you have identified all fallacies, write a brief overall assessment noting whether any part of the argument's conclusion might still be defensible through better reasoning.",
+  "workspace_prompts": {
+    "fallacy_1": "Look at '9 out of 10 health experts recommend a daily supplement regime.' What information is missing? What does 'health experts' mean here, and what would you need to know about how this figure was produced before accepting it?",
+    "fallacy_2": "Look at 'Thousands of people have already discovered...' and 'join the hundreds of thousands of satisfied SuperVita Pro users.' What type of reasoning is being used here? Does the fact that many people use a product tell you anything about its quality or effectiveness?",
+    "fallacy_3": "Look at 'Humans evolved in environments where we obtained dense nutrition from our food — modern processed diets have destroyed this balance.' What hidden assumption is embedded in the evolutionary argument? Hint: is what is 'natural' or 'evolved' necessarily optimal or good?",
+    "fallacy_4": "Look at 'You can either take control of your health today, or continue suffering the consequences of nutritional deficiency.' How many actual options exist here? What option is being left out?",
+    "fallacy_5": "Look at 'completely transforms your energy levels and immunity.' What is the argument asserting here? What kind of evidence would be required to establish this claim? What is missing?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Fallacy naming taxonomy",
+      "content": "The five fallacies are all classic, named types. Look for: (1) a statistical claim that sounds precise but hides selection bias or missing methodology; (2) a claim that relies on what many people do as evidence; (3) an argument that derives 'good' from 'natural' or 'evolved'; (4) a choice that presents only two options when more exist; (5) a causal or effectiveness claim asserted without any mechanism or evidence."
+    },
+    {
+      "id": "hint-2",
+      "title": "Fallacy vs. false conclusion",
+      "content": "Remember WE-06's key lesson: identifying a fallacy does not prove the conclusion is false. Many people are genuinely nutritionally deficient, and supplements can sometimes address this. The problem is not that supplements are never useful — it is that this advertisement uses invalid reasoning to argue for them. Try to write a version of this advertisement that makes a similar claim without the fallacious reasoning."
+    },
+    {
+      "id": "hint-3",
+      "title": "The hardest one: Appeal to Nature",
+      "content": "The appeal to nature (or appeal to the 'natural') is often the subtlest fallacy in this category. The argument form is: 'X is natural/evolved → X is good/correct.' The error is that natural selection optimises for reproductive fitness in ancestral environments, not for modern longevity, health, or wellbeing. Many 'natural' conditions (infectious disease, famine, early death) are not good; many 'unnatural' interventions (vaccines, surgery, sanitation) are extremely good. Ask: even if the nutritional environment argument is true, does it follow that supplementation is the right response?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "FALLACY 1 — APPEAL TO VAGUE/UNVERIFIED AUTHORITY: '9 out of 10 health experts' — which health experts? selected how? a commissioned poll of employees? a cherry-picked survey? 'Health experts' is undefined (nutritionists? GPs? fitness influencers?). Without knowing the methodology of this figure, it cannot be evaluated. Correct name: appeal to unverified authority.",
+      "FALLACY 2 — APPEAL TO BANDWAGON (AD POPULUM): 'Thousands of people have already discovered' and 'hundreds of thousands of satisfied users' — popularity does not establish efficacy. Many widely-purchased supplements have been shown in randomised trials to produce no measurable health benefit beyond placebo. Correct name: appeal to bandwagon / ad populum.",
+      "FALLACY 3 — APPEAL TO NATURE: 'Humans evolved... modern processed diets have destroyed this' — the argument assumes that what is natural (evolutionary baseline nutrition) is the optimal target, and that departing from it is a problem requiring correction. This ignores that modern humans live decades longer than their evolutionary ancestors precisely because of 'unnatural' interventions. Correct name: appeal to nature / naturalistic fallacy.",
+      "FALLACY 4 — FALSE DILEMMA: 'Either take control... or continue suffering' — this presents exactly two options, ignoring the obvious alternative: improving dietary choices without supplementation, eating more whole foods, reducing processed food intake. The false dilemma creates artificial urgency by erasing the middle ground. Correct name: false dilemma / false dichotomy.",
+      "FALLACY 5 — UNSUPPORTED CAUSAL CLAIM / HASTY GENERALISATION: 'Completely transforms your energy levels and immunity' asserts a strong causal claim with no mechanism, no study citation, and no effect size. 'Completely transforms' is unquantified and exaggerated. Correct name: unsubstantiated causal claim (or hasty generalisation if based on anecdote)."
+    ],
+    "revised_position": "A non-fallacious version of this argument would say: 'Many people in developed countries are deficient in specific micronutrients (iron, vitamin D, B12) due to restricted diets or reduced sun exposure. If a blood test confirms a specific deficiency, targeted supplementation can restore levels to normal ranges. SuperVita Pro contains X, Y, Z at clinically relevant doses. Consult your doctor to see if supplementation is right for you.' This makes the same product case without committing any of the five fallacies."
+  },
+  "template_prefill": {
+    "template_id": "frisco-quick-analysis-v1",
+    "subject_value": "SuperVita Pro supplement advertisement — five fallacies",
+    "context_note": "Consumer watchdog evaluation — identify and name each fallacy precisely, with saving throw for each."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "framework": "Marzano's New Taxonomy of Educational Objectives",
+  "authors": ["Robert Marzano", "John Kendall"],
+  "year": 2007,
+  "key_works": ["The New Taxonomy of Educational Objectives (2007)"],
+  "type": "Comprehensive Cognitive Taxonomy",
+  "distinctive_feature": "Explicitly incorporates the Self-System (motivation/affect) and Metacognitive System (executive function) alongside cognition — the first major taxonomy to do so.",
+  "description": "Marzano's New Taxonomy was developed as a critique of Bloom's framework for treating cognition as purely intellectual. Marzano argues that effective learning — and therefore effective thinking — requires engagement of three distinct systems: a Self-System that decides whether to engage, a Metacognitive System that manages and monitors the engagement, and a Cognitive System that processes information. This architecture explains something Bloom's taxonomy cannot: why students who possess the cognitive skills required for a task nonetheless fail to apply them.",
+  "dewey_connection": "Marzano's Self-System corresponds to what Dewey called the 'felt need' or 'genuine perplexity' that initiates reflective inquiry. Dewey recognized that thinking begins with motivation — with genuine investment in resolving an uncertainty. Marzano operationalizes this insight into assessable components. His Metacognitive System corresponds to Dewey's emphasis on the learner's reflective monitoring of their own inquiry process.",
+  "three_systems": {
+    "description": "The three systems are hierarchically arranged in terms of decision priority: the Self-System first determines whether to engage, the Metacognitive System then governs how the engagement proceeds, and the Cognitive System performs the actual processing. Weakness in any system undermines performance regardless of strengths in others.",
+    "systems": [
+      {
+        "number": 1,
+        "name": "Self-System",
+        "position": "Decides whether to engage with a new task or continue current behavior",
+        "description": "The Self-System is the motivational and affective gateway to all cognitive activity. It contains beliefs about importance, efficacy, emotional response, and overall motivation. When the Self-System evaluates a task as unimportant, outside one's capabilities, or emotionally aversive, engagement is blocked regardless of cognitive ability.",
+        "components": [
+          {
+            "component": "Importance",
+            "description": "The degree to which the learner believes this task or knowledge matters — to their goals, identity, or wellbeing",
+            "key_question": "Does this matter to me?"
+          },
+          {
+            "component": "Efficacy",
+            "description": "The learner's belief in their ability to successfully perform the task — not generic confidence but task-specific self-assessment",
+            "key_question": "Do I believe I can do this?"
+          },
+          {
+            "component": "Emotional Response",
+            "description": "The affective reaction to the task — positive (interest, enthusiasm, curiosity) or negative (anxiety, boredom, frustration)",
+            "key_question": "How does engaging with this make me feel?"
+          },
+          {
+            "component": "Overall Motivation",
+            "description": "The integration of importance, efficacy, and emotional response into a disposition to engage",
+            "key_question": "Am I moved to engage with this?"
+          }
+        ],
+        "significance": "The Self-System explains why high cognitive ability does not guarantee high performance. A student who believes a task is unimportant, or who lacks confidence in their ability to succeed, will not deploy their cognitive resources even if they possess them."
+      },
+      {
+        "number": 2,
+        "name": "Metacognitive System",
+        "position": "Sets goals and monitors progress once the Self-System has enabled engagement",
+        "description": "The Metacognitive System manages the cognitive engagement once it has been initiated. It sets learning goals, allocates cognitive resources, monitors whether progress is being made, and adjusts strategy when it is not. Without an effective Metacognitive System, even strong cognitive abilities are deployed inefficiently.",
+        "components": [
+          {
+            "component": "Goal Specification",
+            "description": "Setting clear, meaningful goals for the learning or reasoning task — not 'finish the assignment' but 'understand the argument's assumptions'",
+            "key_question": "What specifically am I trying to accomplish?"
+          },
+          {
+            "component": "Process Monitoring",
+            "description": "Tracking whether the current strategy is working and whether progress toward the goal is being made",
+            "key_question": "Is my current approach working? Am I making progress?"
+          },
+          {
+            "component": "Monitoring Clarity",
+            "description": "Detecting when understanding has broken down — recognizing confusion, misunderstanding, or gaps in knowledge",
+            "key_question": "Do I actually understand this, or do I merely think I do?"
+          },
+          {
+            "component": "Monitoring Accuracy",
+            "description": "Checking the accuracy of conclusions and outputs — not assuming correctness but verifying it",
+            "key_question": "Am I sure this is right? What could I have gotten wrong?"
+          }
+        ],
+        "significance": "The Metacognitive System corresponds directly to the Delphi Report's sixth core skill (Self-Regulation) and to Paul-Elder's emphasis on applying intellectual standards to one's own thinking."
+      },
+      {
+        "number": 3,
+        "name": "Cognitive System",
+        "position": "Processes information once the Self and Metacognitive systems have enabled and structured engagement",
+        "description": "The Cognitive System is where information processing occurs — retrieval, comprehension, analysis, and utilization of knowledge. This is the component most analogous to Bloom's taxonomy, but Marzano further differentiates it and positions it as dependent on the other two systems for activation and direction.",
+        "six_processes": [
+          {
+            "level": 1,
+            "process": "Retrieval",
+            "description": "Recognizing and recalling stored information; executing routine procedures",
+            "verbs": ["Recall", "Recognize", "Execute"],
+            "bloom_alignment": "Remember"
+          },
+          {
+            "level": 2,
+            "process": "Comprehension",
+            "description": "Translating knowledge into a usable form through integration and symbolization",
+            "verbs": ["Integrate", "Symbolize"],
+            "bloom_alignment": "Understand"
+          },
+          {
+            "level": 3,
+            "process": "Analysis",
+            "description": "Extending knowledge by identifying similarities, classifying, analyzing errors, generalizing, and specifying",
+            "verbs": ["Match", "Classify", "Analyze errors", "Generalize", "Specify"],
+            "bloom_alignment": "Analyze (expanded)"
+          },
+          {
+            "level": 4,
+            "process": "Knowledge Utilization",
+            "description": "Using knowledge to accomplish specific tasks: decision-making, problem-solving, experimenting, investigating",
+            "verbs": ["Decide", "Problem-solve", "Experiment", "Investigate"],
+            "bloom_alignment": "Apply + Evaluate + Create (combined)"
+          },
+          {
+            "level": 5,
+            "process": "Metacognition",
+            "description": "Awareness and management of one's own cognitive processes — the bridge between Cognitive and Metacognitive Systems",
+            "verbs": ["Specify goals", "Monitor process", "Monitor clarity", "Monitor accuracy"],
+            "bloom_alignment": "No direct Bloom equivalent"
+          },
+          {
+            "level": 6,
+            "process": "Self-System Thinking",
+            "description": "Examining one's own motivations, beliefs about importance and efficacy, and emotional responses — the bridge between Cognitive and Self Systems",
+            "verbs": ["Examine importance", "Examine efficacy", "Examine emotional response", "Examine motivation"],
+            "bloom_alignment": "No Bloom equivalent — unique to Marzano"
+          }
+        ]
+      }
+    ]
+  },
+  "contrast_with_blooms": {
+    "key_advantage": "Bloom assumes engagement. Marzano asks why engagement happens (or doesn't). This makes Marzano uniquely useful for addressing disengagement — the most common reason students fail to apply CT skills they technically possess.",
+    "bloom_limitation": "By treating cognition as the only relevant domain, Bloom's taxonomy cannot explain why a student who performed well on a cognitive task in one context fails to perform the same task in another. Marzano's three-system model provides the explanation: the Self-System and Metacognitive System vary by context.",
+    "practical_implication": "When a learner fails to apply CT skills, diagnose which system failed: Did they not engage (Self-System)? Did they engage but not monitor effectively (Metacognitive)? Or did they engage and monitor but process incorrectly (Cognitive)?"
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "The taxonomy levels form a simple hierarchy from low to high.",
+      "correction": "The three systems are not a simple hierarchy of difficulty — they represent distinct functional roles. Self-System thinking is not 'harder' than analysis; it is a different kind of activity that governs whether analysis happens at all.",
+      "practical_implication": "Do not treat metacognitive and self-system activities as optional additions to the 'real' cognitive work. They are prerequisites for cognitive work to happen effectively."
+    },
+    {
+      "misconception": "Marzano's framework replaces Bloom's.",
+      "correction": "Marzano's cognitive process levels are compatible with and mapped onto Bloom's. Marzano adds systems that Bloom ignores, but does not contradict Bloom's cognitive level distinctions.",
+      "practical_implication": "Use both frameworks together: Bloom to classify the cognitive complexity of tasks, Marzano to diagnose why performance succeeds or fails."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Explaining why skill possession does not guarantee skill deployment — the central problem of CT education",
+    "exercise_integration": "Marzano's Self-System components provide a diagnostic framework for learner self-assessment at the start of practice sessions. The Metacognitive components map onto the app's self-regulation prompts.",
+    "cross_reference": "Compare with Bloom's Revised Taxonomy (cognitive process focus), SOLO Taxonomy (response complexity), Halpern's four-component model (disposition + metacognition + skills).",
+    "key_insight_for_learners": "Before beginning any CT task, explicitly assess your Self-System: Do you believe this matters? Do you believe you can do it? Are you emotionally positioned to engage? If not, the cognitive work that follows will be compromised."
+  }
+}

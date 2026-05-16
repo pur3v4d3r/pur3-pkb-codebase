@@ -1,0 +1,186 @@
+{
+  "framework": "Halpern's Critical Thinking Framework",
+  "author": "Diane F. Halpern",
+  "year": 1984,
+  "key_works": ["Thought and Knowledge: An Introduction to Critical Thinking (multiple editions, 1984–2014)"],
+  "associated_assessment": "Halpern Critical Thinking Assessment (HCTA)",
+  "type": "Empirical / Psychological Skills Framework",
+  "core_definition": "Critical thinking is the use of those cognitive skills or strategies that increase the probability of a desirable outcome. Critical thinking is purposeful, reasoned, and goal-directed.",
+  "description": "Diane Halpern's framework is distinguished by its explicitly empirical and psychological orientation. Where philosophical accounts of critical thinking focus on normative standards (how we ought to reason), Halpern grounds her framework in cognitive psychology — in what we know about how people actually think, why they fail, and what interventions actually improve reasoning. Her defining emphasis on transfer — the ability to apply CT skills across contexts, not just in instructional settings — addresses one of the most persistent failures of CT education.",
+  "dewey_connection": "Halpern's emphasis on purposeful, goal-directed thinking echoes Dewey's framing of reflective inquiry as triggered by genuine problems and oriented toward their resolution. Her focus on transfer aligns with Dewey's commitment to thinking that generalizes beyond the immediate situation — what Dewey called the educative value of learning to learn.",
+  "four_component_model": {
+    "description": "Halpern's model identifies four components that must all be present for effective critical thinking. Weakness in any component undermines the whole. This is not a hierarchy but an interacting system.",
+    "components": [
+      {
+        "number": 1,
+        "name": "Disposition",
+        "description": "The attitudinal and motivational foundation for critical thinking — the willingness to engage in effortful, reflective thinking even when it is difficult, time-consuming, and challenges one's preferred conclusions. Without disposition, skills remain dormant.",
+        "key_question": "Is the person willing to think hard and follow evidence even when it is uncomfortable?",
+        "markers": [
+          "Willingness to engage with complex problems",
+          "Tolerance for cognitive effort and ambiguity",
+          "Interest in understanding rather than merely deciding",
+          "Openness to revising beliefs in light of evidence"
+        ]
+      },
+      {
+        "number": 2,
+        "name": "Skills",
+        "description": "The actual cognitive abilities required for analysis, evaluation, decision-making, and problem-solving. These are the specific cognitive tools that, when applied, constitute critical thinking in action. Halpern operationalizes these in five clusters assessed by the HCTA.",
+        "key_question": "Can the person actually analyze arguments, evaluate evidence, reason probabilistically, and make sound decisions?",
+        "five_hcta_clusters": [
+          "Verbal Reasoning",
+          "Argument Analysis",
+          "Thinking as Hypothesis Testing",
+          "Likelihood and Uncertainty",
+          "Decision Making and Problem Solving"
+        ]
+      },
+      {
+        "number": 3,
+        "name": "Metacognitive Monitoring",
+        "description": "Awareness of one's own thinking — including the knowledge of when to deploy specific skills, when reasoning is going well or poorly, and what corrective actions to take. Metacognition is what allows skills to be applied strategically rather than mechanically.",
+        "key_question": "Does the person know what kind of thinking the situation requires, and can they monitor their own thinking quality?",
+        "functions": [
+          "Recognizing which skill is needed in a given situation",
+          "Monitoring reasoning quality in real time",
+          "Detecting when one is engaging in motivated reasoning",
+          "Initiating correction when standards are not being met",
+          "Calibrating confidence to evidence strength"
+        ]
+      },
+      {
+        "number": 4,
+        "name": "Structural Knowledge for Transfer",
+        "description": "Knowledge organized in ways that promote transfer across novel contexts. This is Halpern's most distinctive contribution — the argument that CT skills can only transfer if they are learned alongside structural knowledge about when and why they apply. Surface-level skill training without structural understanding produces context-specific performance, not genuine critical thinking.",
+        "key_question": "Is the person's knowledge structured in ways that enable recognizing when CT skills are applicable in novel domains?",
+        "transfer_types": [
+          {
+            "type": "Near transfer",
+            "description": "Applying skills to situations closely similar to the training context"
+          },
+          {
+            "type": "Far transfer",
+            "description": "Applying skills to novel domains with different surface features but similar underlying structure"
+          }
+        ],
+        "conditions_for_transfer": [
+          "Learning skills with explanations of why and when they apply",
+          "Practicing across varied contexts during instruction",
+          "Developing abstract structural representations, not just procedural scripts",
+          "Receiving feedback on transfer attempts"
+        ]
+      }
+    ]
+  },
+  "five_hcta_skill_categories": [
+    {
+      "number": 1,
+      "name": "Verbal Reasoning",
+      "description": "The ability to detect persuasion techniques, identify rhetorical devices, evaluate language-based arguments, and resist misleading framing. Language is the primary medium through which arguments are presented, and skillful manipulation of language is the primary tool of poor argument.",
+      "core_skills": [
+        "Identifying weasel words and loaded language",
+        "Detecting persuasion techniques (appeals to fear, authority, flattery)",
+        "Recognizing rhetorical questions vs. genuine inquiry",
+        "Evaluating the logic embedded in verbal claims",
+        "Resisting framing effects"
+      ],
+      "practice_activities": [
+        "Identify all evaluative language in a newspaper editorial",
+        "Translate persuasion-laden claims into neutral language",
+        "Identify the implicit argument structure in a speech"
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Argument Analysis",
+      "description": "The ability to identify and assess argument structure — finding premises, conclusions, and the inferential relationships between them. This maps closely onto the Toulmin model and the Ennis/Delphi analysis skills.",
+      "core_skills": [
+        "Identifying main conclusions",
+        "Identifying stated and unstated premises",
+        "Distinguishing relevant from irrelevant premises",
+        "Diagramming argument structure",
+        "Evaluating argument validity and soundness"
+      ],
+      "practice_activities": [
+        "Map the argument structure of an editorial using a premise-conclusion diagram",
+        "Identify the unstated assumptions in a policy argument",
+        "Evaluate three arguments on the same topic for comparative strength"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Thinking as Hypothesis Testing",
+      "description": "Applying the logic of scientific reasoning — hypothesis formation, prediction, test design, and evidence interpretation — to everyday claims and causal questions. This is the empirical dimension of critical thinking.",
+      "core_skills": [
+        "Formulating testable hypotheses from claims",
+        "Identifying confounding variables",
+        "Distinguishing correlation from causation",
+        "Evaluating experimental design",
+        "Recognizing the limits of anecdotal evidence"
+      ],
+      "practice_activities": [
+        "Evaluate the research design behind a news-reported study",
+        "Identify alternative explanations for a reported correlation",
+        "Design a simple test that could refute a given claim"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Likelihood and Uncertainty",
+      "description": "Reasoning under uncertainty using probabilistic and statistical thinking. This includes applying base rates, understanding regression to the mean, evaluating statistical claims, and recognizing the cognitive biases that distort probabilistic reasoning.",
+      "core_skills": [
+        "Applying base rate reasoning",
+        "Evaluating sample size and representativeness",
+        "Recognizing gambler's fallacy and availability bias",
+        "Interpreting percentage and absolute risk statistics",
+        "Assessing the reliability of polls and surveys"
+      ],
+      "practice_activities": [
+        "Re-interpret a fear-inducing risk statistic in terms of absolute probability",
+        "Identify the base rate neglect in a medical diagnostic reasoning scenario",
+        "Evaluate whether a given poll result is statistically meaningful"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Decision Making and Problem Solving",
+      "description": "Applied reasoning under real-world constraints — structured approaches to making decisions that are well-reasoned, not merely habitual or emotionally driven. This connects CT to practical life outcomes.",
+      "core_skills": [
+        "Identifying and articulating the real decision or problem",
+        "Generating and evaluating multiple options",
+        "Anticipating consequences of each option",
+        "Recognizing trade-offs and opportunity costs",
+        "Using decision frameworks to structure complex choices"
+      ],
+      "practice_activities": [
+        "Apply a structured decision matrix to a real personal or professional decision",
+        "Identify the key trade-offs in a policy decision",
+        "Retrospectively analyze a past decision for cognitive bias patterns"
+      ]
+    }
+  ],
+  "transfer_emphasis": {
+    "the_problem": "Students often perform well on CT tasks in instructional contexts but fail to deploy those skills in novel domains. This transfer failure is the central practical challenge of CT education.",
+    "halpern_solution": "Instruction must make explicit the structural knowledge that underpins each skill — not just how to apply a procedure but what kind of situation calls for it and why. Skills taught without structural understanding become context-specific scripts, not transferable capabilities.",
+    "research_finding": "Halpern's research consistently shows that transfer-focused instruction — teaching the deep structure of skills alongside the surface procedure — produces significantly more durable and generalizable CT gains than procedure-focused instruction alone."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Critical thinking can be taught as a generic skill set independent of content knowledge.",
+      "correction": "Halpern's fourth component — structural knowledge for transfer — explicitly requires content and structural knowledge. Skills divorced from knowledge about when and why they apply don't transfer. However, Halpern's position is more moderate than Bailin's: CT skills have both domain-general and domain-specific components.",
+      "practical_implication": "Teach CT skills within content areas, with explicit attention to how the skills generalize. Do not treat CT as a content-free add-on."
+    },
+    {
+      "misconception": "Improving CT skills automatically improves CT performance.",
+      "correction": "Without the disposition component, improved skills remain dormant. A person who knows how to evaluate evidence but lacks the disposition to do so will not improve their reasoning.",
+      "practical_implication": "CT development requires cultivating both skills and the motivation to use them. Assessment should measure both."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Foundation for understanding CT as a multi-component system requiring skill, disposition, metacognition, and structural knowledge",
+    "exercise_integration": "The five HCTA skill categories provide a taxonomy for designing varied practice activities. Each skill category maps to specific exercise types in the app.",
+    "cross_reference": "Compare with Ennis (overlapping skills taxonomy), Delphi Report (skills + dispositions architecture), CCTDI (dispositional measurement).",
+    "key_insight_for_learners": "The four-component model explains why knowing about critical thinking is not the same as doing it. Evaluate yourself on all four components: skill, disposition, metacognition, and structural knowledge for transfer."
+  }
+}

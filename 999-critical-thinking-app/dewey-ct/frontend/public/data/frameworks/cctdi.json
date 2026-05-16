@@ -1,0 +1,159 @@
+{
+  "framework": "California Critical Thinking Dispositions Inventory (CCTDI)",
+  "authors": ["Peter Facione", "Noreen Facione"],
+  "year": 1992,
+  "key_works": [
+    "The California Critical Thinking Dispositions Inventory (1992)",
+    "The Disposition Toward Critical Thinking (1992, Journal of General Education)"
+  ],
+  "type": "Critical Thinking Disposition Assessment Instrument",
+  "distinctive_feature": "The first rigorously validated instrument for measuring CT dispositions rather than CT skills — measuring the motivational/attitudinal preconditions for critical thinking, not the ability to think critically.",
+  "description": "The CCTDI was developed directly from the Delphi Project's identification of critical thinking dispositions as a distinct and essential component of CT competence. Facione and Facione recognized that existing CT assessments (including the Watson-Glaser) measured skill and ability, but left untouched the question of whether individuals were disposed to apply those skills. A person can possess excellent CT skills and nonetheless be disinclined to seek truth, close-minded to alternative perspectives, or disorganized in their approach. The CCTDI measures these dispositional orientations through 75 self-report items across seven subscales.",
+  "dewey_connection": "Dewey's conception of the reflective thinker was always holistic — the genuine inquirer was not merely skilled but was characterized by 'the desire to inquire,' 'intellectual honesty,' and 'persistence in doubt.' The CCTDI operationalizes these Deweyan character traits into measurable subscales.",
+  "core_finding": "The CCTDI's most significant research finding is that disposition predicts whether skills are deployed better than skills predict whether they are deployed. A highly disposed but moderately skilled thinker will think critically more often than a highly skilled but poorly disposed thinker. Disposition is not a supplement to skill — it is a prerequisite for the consistent application of skill.",
+  "instrument_overview": {
+    "total_items": 75,
+    "format": "Self-report Likert scale (6-point: Strongly Agree to Strongly Disagree)",
+    "administration_time": "20-30 minutes",
+    "scoring": "Subscale scores of 40+ indicate positive disposition; overall scores of 280+ indicate positive overall CT disposition",
+    "scoring_note": "Items are worded both positively and negatively with scoring direction adjusted accordingly"
+  },
+  "seven_subscales": [
+    {
+      "number": 1,
+      "name": "Truth-Seeking",
+      "description": "The disposition to follow evidence wherever it leads, even when that destination is uncomfortable or contrary to one's current beliefs or self-interest.",
+      "core_commitment": "Prioritizing what is true over what is convenient, comfortable, or self-affirming",
+      "behavioral_indicators": [
+        "Actively seeks disconfirming evidence for one's own conclusions",
+        "Changes position when evidence warrants, regardless of social cost",
+        "Asks difficult questions even when the answers might be unwelcome",
+        "Acknowledges uncertainty and limits of one's own knowledge"
+      ],
+      "deficit_manifestation": "Confirmation bias, motivated reasoning, selective attention to supporting evidence, intellectual dishonesty",
+      "paul_elder_connection": "Maps to Paul-Elder intellectual virtues: Intellectual Honesty, Intellectual Courage, Fair-mindedness"
+    },
+    {
+      "number": 2,
+      "name": "Open-mindedness",
+      "description": "The disposition to seriously entertain and fairly evaluate perspectives, viewpoints, and arguments that differ from one's current position.",
+      "core_commitment": "Genuine consideration of alternatives — not mere tolerance of them",
+      "behavioral_indicators": [
+        "Gives serious consideration to views that conflict with personal beliefs",
+        "Tries to understand a position before critiquing it",
+        "Recognizes that one's own perspective may be limited or biased",
+        "Distinguishes between 'I disagree' and 'this is unreasonable'"
+      ],
+      "deficit_manifestation": "Dogmatism, strawmanning, premature dismissal of alternatives, intellectual arrogance",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Empathy, Fair-mindedness, Intellectual Humility"
+    },
+    {
+      "number": 3,
+      "name": "Analyticity",
+      "description": "The disposition to apply reason and evidence in problem-solving, the alertness to problematic situations, and the anticipation of potential consequences.",
+      "core_commitment": "A standing inclination to approach situations with analytical reasoning rather than intuition or impulse",
+      "behavioral_indicators": [
+        "Recognizes when careful analysis is needed, even in apparently simple situations",
+        "Anticipates potential problems and unintended consequences",
+        "Applies evidence and reasoning to novel problems",
+        "Resists the pull of simplistic or emotionally appealing solutions"
+      ],
+      "deficit_manifestation": "Impulsive decision-making, failure to anticipate consequences, over-reliance on intuition",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Diligence, Applying Intellectual Standards"
+    },
+    {
+      "number": 4,
+      "name": "Systematicity",
+      "description": "The disposition to approach problem-solving and inquiry in an organized, focused, and diligent manner.",
+      "core_commitment": "Orderly, disciplined engagement with complex problems rather than fragmented or disorganized thinking",
+      "behavioral_indicators": [
+        "Organizes complex problems before attempting to solve them",
+        "Maintains focus on the central question throughout an inquiry",
+        "Follows through on reasoning chains rather than abandoning incomplete analysis",
+        "Uses structured approaches to evidence gathering and evaluation"
+      ],
+      "deficit_manifestation": "Scattered thinking, failure to follow through, confusion of central and peripheral issues, intellectual disorganization",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Diligence, Intellectual Perseverance"
+    },
+    {
+      "number": 5,
+      "name": "CT Self-Confidence",
+      "description": "The disposition to trust in one's own reasoning processes — to believe that one's careful reasoning is generally reliable and that conclusions arrived at through good reasoning are worth standing behind.",
+      "core_commitment": "Faith in the value of one's own careful thought — not arrogance, but confidence in process",
+      "behavioral_indicators": [
+        "Willing to defend reasoned conclusions against social pressure",
+        "Does not abandon a position merely because others disagree",
+        "Trusts the results of one's own careful analysis",
+        "Distinguishes between genuine reconsideration and social capitulation"
+      ],
+      "deficit_manifestation": "Intellectual timidity, over-deferring to authority, abandoning well-reasoned positions under social pressure",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Autonomy, Intellectual Courage",
+      "important_caveat": "CT self-confidence must be calibrated to the actual quality of one's reasoning. Confidence in poor reasoning is intellectual arrogance, not CT self-confidence."
+    },
+    {
+      "number": 6,
+      "name": "Inquisitiveness",
+      "description": "Intellectual curiosity — the disposition to want to know more, to be interested in topics beyond their immediate utility, and to find intellectual investigation intrinsically rewarding.",
+      "core_commitment": "Valuing learning and understanding for its own sake",
+      "behavioral_indicators": [
+        "Pursues questions and topics even without immediate practical application",
+        "Reads and learns beyond assigned or required material",
+        "Asks 'why' and 'what if' even when the answer doesn't affect an immediate decision",
+        "Finds intellectual exploration enjoyable rather than effortful"
+      ],
+      "deficit_manifestation": "Intellectual incuriosity, learning only what is immediately required, treating knowledge as purely instrumental",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Perseverance, Intellectual Humility (recognizing what one does not know)"
+    },
+    {
+      "number": 7,
+      "name": "Maturity of Judgment",
+      "description": "The disposition to apply careful judgment even in uncertain situations, to approach problems with appropriate caution and complexity, and to recognize that some questions do not have simple right/wrong answers.",
+      "core_commitment": "Epistemic sophistication — neither dogmatic certainty nor paralyzing relativism",
+      "behavioral_indicators": [
+        "Tolerates ambiguity without demanding premature closure",
+        "Recognizes that prudent decisions can be made even under genuine uncertainty",
+        "Distinguishes between situations that require careful deliberation and those that don't",
+        "Accepts that reasonable people can disagree on some questions"
+      ],
+      "deficit_manifestation": "Premature closure, black-and-white thinking, both dogmatism (false certainty) and paralysis (false relativism)",
+      "paul_elder_connection": "Maps to Paul-Elder: Intellectual Humility, Fairmindedness",
+      "connection_to_developmental_models": "High maturity of judgment corresponds to Perry's commitmentwithin-relativism stage — the capacity to act decisively while maintaining openness to revision"
+    }
+  ],
+  "research_findings": [
+    {
+      "finding": "Disposition predicts skill deployment better than skill predicts deployment",
+      "implication": "CT education that targets only skills while neglecting dispositions is building an engine that may never be turned on"
+    },
+    {
+      "finding": "Overall CCTDI score is more strongly correlated with academic achievement than GPA in some studies",
+      "implication": "Dispositional orientation to inquiry may be a more fundamental predictor of intellectual performance than past performance"
+    },
+    {
+      "finding": "Truth-seeking is the subscale most strongly correlated with overall CT skill score",
+      "implication": "The motivation to follow evidence is both the most foundational disposition and the one most tightly linked to actual reasoning ability"
+    },
+    {
+      "finding": "CT self-confidence is the subscale most variable across professional populations",
+      "implication": "Context and culture significantly affect willingness to defend reasoned positions — intellectual environments matter"
+    }
+  ],
+  "common_misconceptions": [
+    {
+      "misconception": "High CCTDI scores mean someone is a skilled critical thinker.",
+      "correction": "The CCTDI measures only disposition — the motivational and attitudinal orientation toward CT. High disposition scores do not guarantee high CT skill scores. Both must be measured separately.",
+      "practical_implication": "Assess both disposition (CCTDI) and skill (Watson-Glaser, Halpern) for a complete picture of CT capacity."
+    },
+    {
+      "misconception": "Dispositional development requires separate instruction from skill development.",
+      "correction": "Dispositions develop through the same engagement that develops skills — but only if the engagement creates genuine intellectual challenge, requires truth-seeking in the face of uncertainty, and rewards intellectual honesty rather than performance.",
+      "practical_implication": "Classroom culture, feedback practices, and task design all affect dispositional development. Skills instruction in a closed, right-answer culture can actually harm dispositions."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Self-assessment framework for identifying dispositional strengths and development areas",
+    "exercise_integration": "CCTDI subscales appear in self-reflection prompts and portfolio entries. The 'Intellectual Character' section of the app is organized around CCTDI subscales.",
+    "cross_reference": "Compare with Delphi Consensus Framework (source of CCTDI dispositions), Paul-Elder Intellectual Virtues (overlapping character traits), Habits of Mind (Costa & Kallick — related dispositional framework).",
+    "self_assessment_prompt": "Rate yourself on each subscale: which dispositions are your strongest? Which are you most likely to compromise under social pressure or when the inquiry is uncomfortable? Truth-seeking is typically the hardest — when did you last seriously seek out evidence that could prove you wrong?"
+  }
+}

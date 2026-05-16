@@ -22,6 +22,18 @@ const VALID_IDS = [
   'developmental-models',
   'cognitive-biases',
   'cross-framework-synthesis',
+  'siegel-reasons-conception',
+  'halpern-critical-thinking',
+  'webbs-depth-of-knowledge',
+  'marzano-new-taxonomy',
+  'solo-taxonomy',
+  'watson-glaser',
+  'cctdi',
+  'walton-argumentation-schemes',
+  'lipman-community-of-inquiry',
+  'brookfield-critical-thinking',
+  'dikw-pyramid',
+  'bailin-reconception',
 ] satisfies FrameworkId[];
 
 // ---- Local types reflecting the actual JSON structure ----

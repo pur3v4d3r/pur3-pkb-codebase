@@ -1,0 +1,69 @@
+{
+  "id": "WE-03",
+  "we_number": "WE-03",
+  "title": "Confirmation Bias",
+  "subtitle": "A SEE-I elaboration of a foundational cognitive concept",
+  "framework": "see-i",
+  "framework_label": "SEE-I (Paul-Elder)",
+  "object_type": "concept",
+  "question_type": "conceptual",
+  "stakes": "low",
+  "difficulty": "beginner",
+  "duration_minutes": 14,
+  "mastery_rating": 4,
+  "mastery_checklist": {
+    "can_teach": true,
+    "can_distinguish": true,
+    "can_transfer": true,
+    "knows_element": true
+  },
+  "tags": ["see-i", "concept", "cognitive-bias", "epistemology", "paul-elder"],
+  "summary": "A complete SEE-I elaboration of confirmation bias, demonstrating all four moves with attention to the counter-example (Popperian falsificationism) and a structural analogy (the security guard who checks jerseys). The mastery check reveals that 'can_transfer' is the most challenging step — the transfer example (a developer dismissing a race condition) required active effort to find a genuinely non-psychology domain example.",
+  "how_to_use": "Read through the State and Elaborate steps first, then attempt them yourself on confirmation bias before reading the worked example version. Then compare. Read the Exemplify and Illustrate steps to see how transfer and structural analogy work in practice. This worked example is most valuable when used as a comparison after your own attempt — the gap between your version and this version is precisely your learning target.",
+  "learning_objectives": [
+    "See what a State statement looks like that avoids jargon displacement — specifically, how naming the four mechanisms (seek/interpret/remember/weight) makes the statement precise without being technical",
+    "Understand the exclusion clause in Elaborate — how 'what this is NOT' is not optional padding but the move that forces precision",
+    "See how the transfer example differs from the familiar-domain example — not just a different topic but a genuinely different explanatory mechanism being applied",
+    "Observe how a structural analogy differs from a metaphor — the 'because' clause in the Illustrate step is what makes it analytically useful rather than evocative"
+  ],
+  "related_template_id": "see-i-elaboration-v1",
+  "related_practice_problems": ["PP-05", "PP-06"],
+  "sections": [
+    {
+      "section_label": "Concept",
+      "content": "Confirmation Bias"
+    },
+    {
+      "section_label": "S · State",
+      "content": "Confirmation bias is the systematic tendency to seek, interpret, remember, and weight evidence in ways that favour a prior belief — and to discount or ignore evidence that contradicts it — usually without conscious awareness that any of this filtering is occurring."
+    },
+    {
+      "section_label": "E · Elaborate",
+      "content": "Confirmation bias operates at four distinct stages of information processing, which is what makes it so pervasive:\n\n1. INFORMATION SEARCH (what you look for): People selectively seek out information that confirms their existing view. A person who believes they are terrible at public speaking will read more articles about public speaking anxiety than about public speaking techniques, even when both would be useful.\n\n2. INTERPRETATION (how you read what you find): The same piece of evidence gets read differently depending on prior belief. A 60% test score is interpreted as 'I'm hopeless at this subject' by a student who believes they have low ability and as 'I didn't study enough' by a student who believes their ability is adequate — even if the class average is 55%.\n\n3. MEMORY (what you retain): People better recall information that confirms their prior beliefs and more easily forget information that disconfirms them. This is not deliberate — it is a consequence of how memory encodes information with emotional valence.\n\n4. WEIGHTING (how much a piece of evidence counts): A single confirming anecdote often receives more weight than multiple disconfirming data points. This asymmetry is most pronounced on topics with high emotional investment.\n\nWHAT IT IS NOT: Confirmation bias is not the same as motivated reasoning, though they overlap. Motivated reasoning is reasoning toward a desired conclusion; confirmation bias is a filtering mechanism that can operate even without a clear desired conclusion — simply having a prior belief is enough to trigger it. It is also not the same as expertise: an expert checking whether a hypothesis is consistent with theory is applying sound scientific method, not confirmation bias.\n\nWHY IT MATTERS: Confirmation bias is the most documented source of systematic error in human reasoning across fields from medicine (missed diagnoses) to finance (failed investments) to scientific research (replication crisis). It matters specifically for critical thinking because it operates below the level of deliberate reasoning — you can apply every critical thinking framework correctly while still falling prey to confirmation bias in the information-gathering step.\n\nCOMMON MISUNDERSTANDING: People most commonly believe confirmation bias is a sign of low intelligence or intellectual laziness. Research consistently shows the opposite: higher cognitive ability and motivation often intensify confirmation bias because they generate more sophisticated rationalisation of preferred conclusions."
+    },
+    {
+      "section_label": "E · Exemplify — Example 1 (Familiar Domain — Cognitive Psychology)",
+      "content": "A psychology researcher who believes that social media use causes adolescent depression designs a study that measures time spent on social media and depression symptoms, finds a correlation (r = 0.3), and concludes 'social media causes adolescent depression.' The researcher:\n- Does not search for studies showing null or negative results (search bias)\n- Interprets the r = 0.3 as 'strong' despite knowing that r = 0.3 explains only 9% of variance (interpretation bias)\n- Does not recall that three meta-analyses from 2019-2022 failed to replicate the effect (memory bias)\n- Weights two confirming studies more heavily than seven null-result studies (weighting bias)\n\nAll four mechanisms are operating simultaneously. The researcher is technically competent and believes they are being rigorous. This is the key feature of confirmation bias: it does not feel like bias from the inside."
+    },
+    {
+      "section_label": "E · Exemplify — Example 2 (Transfer Domain — Software Engineering)",
+      "content": "A senior developer is debugging an intermittent crash in a distributed system. They formed a hypothesis three hours ago that the crash is caused by a memory leak in module A. Since forming that hypothesis, they have:\n- Reviewed logs primarily from module A (search bias)\n- Interpreted ambiguous log entries as consistent with a memory leak rather than alternative explanations (interpretation bias)\n- Remembered previous incidents that were memory leaks while not recalling previous incidents with similar symptoms that turned out to be race conditions (memory bias)\n- Dismissed a junior developer's suggestion that it might be a race condition in module C with 'we've never had race conditions in that module' — weighting the absence of prior experience as evidence against an unrelated hypothesis (weighting bias)\n\nThe bug is, in fact, a race condition in module C. The developer spent 4 hours on the wrong module because all four confirmation bias mechanisms directed attention away from the actual cause."
+    },
+    {
+      "section_label": "E · Exemplify — Counter-Example (Popperian Falsificationism)",
+      "content": "A scientist practising Popperian falsificationism specifically seeks to design experiments that could falsify their hypothesis — they actively look for disconfirming evidence rather than confirming evidence. This looks superficially similar to confirmation bias reversed, but it is NOT the absence of confirmation bias — it is a deliberate methodology designed to counteract it.\n\nWhy this is NOT confirmation bias: The scientist is not operating on a prior belief being filtered; they are applying a standard of evidence that explicitly prioritises disconfirmation. Confirmation bias would manifest if the scientist treated a failed falsification attempt as confirmation of the hypothesis (which is a common error but is not inherent in falsificationism).\n\nThe distinction reveals the edge condition of confirmation bias: it requires a pre-existing belief and a filtering mechanism. A researcher who has no strong prior hypothesis and is genuinely trying to falsify a provisional model is operating outside the conditions that generate confirmation bias."
+    },
+    {
+      "section_label": "I · Illustrate",
+      "content": "Confirmation bias is like a security guard at a venue who waves through anyone wearing the home team's jersey while demanding ID, a bag check, and a metal detector pass from anyone wearing the visiting team's colours — because in both cases, asymmetric scrutiny is driven by allegiance rather than consistent application of standards, the guard genuinely believes they are enforcing the rules fairly (they have no conscious awareness of the bias), and the result is that friendly evidence gets through easily while unfriendly evidence faces maximum resistance.\n\nThe analogy captures three structural features:\n1. ASYMMETRY: The scrutiny is not randomly variable — it is systematically directed against contrary evidence and in favour of confirming evidence, in the same way the guard's scrutiny is not randomly variable but systematically directed against visitors\n2. INTERNAL COHERENCE: The guard believes they are being fair; the biased thinker believes they are being rational — the bias is invisible from inside the perspective that produces it\n3. GATEKEEPING FUNCTION: Both the guard and confirmation bias operate at the point of entry — deciding what gets through — rather than at the reasoning stage. This is why the bias is hard to catch: by the time you are reasoning, the evidence has already been filtered.\n\nWhere the analogy fails: The security guard is an agent with intentions; confirmation bias is a cognitive mechanism without intentionality. The guard could choose to apply standards equally; the confirmation-biased thinker needs a deliberate meta-level intervention (like a checklist or an adversarial steelman) to counteract a mechanism they cannot directly observe."
+    },
+    {
+      "section_label": "Mastery Self-Check",
+      "content": "✅ Can teach this concept accurately to a smart person with no prior exposure — the four-mechanism breakdown makes it teachable without jargon\n✅ Can distinguish from motivated reasoning and expertise-based hypothesis-testing — the distinction is in pre-existing belief and intentionality\n✅ Can apply to a novel case — the software engineering example was a genuine transfer from psychology to debugging\n✅ Knows which Paul-Elder Element — primarily the Information element (what evidence we collect and how we weight it) and, secondarily, the Inferences element (how beliefs shape inference-making)\n\nSelf-Rating: 4/5\nRationale: Strong on State, Elaborate, and Illustrate. The transfer example (software engineering) required active effort — I initially generated a legal example that was too close to the original psychology domain. Reaching 5/5 would require being able to deploy the transfer with the same fluency as the familiar example."
+    },
+    {
+      "section_label": "Commonly Confused Concepts",
+      "content": "1. Confirmation bias vs. Motivated reasoning: Motivated reasoning is reasoning in service of a desired conclusion — it involves goal-directed cognition. Confirmation bias can operate without a clear desired conclusion: simply having a prior belief is enough. You can be motivated-reasoning and confirmation-biased simultaneously, but they are different mechanisms. The distinction matters because the interventions are different: motivated reasoning requires addressing the goal; confirmation bias requires addressing the information environment.\n\n2. Confirmation bias vs. Prior probability (Bayesian updating): In Bayesian reasoning, a strong prior legitimately reduces how much weight a single piece of evidence should receive. This looks like confirmation bias (you weight evidence according to prior beliefs) but is epistemically rational. The distinction is in the direction: Bayesian updating correctly adjusts beliefs toward evidence; confirmation bias filters evidence toward beliefs. A well-calibrated Bayesian thinker who encounters strong disconfirming evidence will update their prior significantly. A confirmation-biased thinker will find reasons to discount that evidence."
+    }
+  ]
+}

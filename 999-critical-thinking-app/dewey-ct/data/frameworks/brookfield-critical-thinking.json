@@ -1,0 +1,145 @@
+{
+  "framework": "Brookfield's Critical Thinking Framework",
+  "author": "Stephen Brookfield",
+  "year": 1987,
+  "key_works": [
+    "Developing Critical Thinkers (1987)",
+    "Teaching for Critical Thinking (2012)",
+    "The Skillful Teacher (1990)"
+  ],
+  "type": "Adult Education / Critical Reflective Practice Framework",
+  "distinctive_feature": "Conceptualizes critical thinking primarily as the practice of 'hunting assumptions' — surfacing, examining, and challenging the taken-for-granted beliefs that shape our perceptions, decisions, and actions.",
+  "description": "Stephen Brookfield's approach to critical thinking emerged from adult education practice and a concern with social and political dimensions of thought. While most CT frameworks are epistemological (concerned with reasoning quality), Brookfield's is fundamentally concerned with emancipation — with freeing thinking from ideological, cultural, and personal assumptions that constrain it without the thinker's awareness. For Brookfield, critical thinking is less a skill than a practice: a habitual, effortful disposition to examine assumptions that feel so natural they are invisible. His framework is particularly concerned with adults and practitioners — those who have accumulated layers of professional and cultural assumptions that constrain their professional practice and personal understanding.",
+  "dewey_connection": "Brookfield draws directly on Dewey's account of habit and reflective thinking. Dewey recognized that most of our behavior is habitual — we act without deliberation based on accumulated experience. Reflective thinking begins when habits are interrupted by surprise or perplexity. Brookfield extends this: assumptions are the cognitive equivalent of habits. Critical thinking is the practice of interrupting cognitive habits by surfacing the assumptions that generate them.",
+  "core_thesis": "Critical thinking is fundamentally assumption hunting. Every belief, decision, interpretation, and action rests on assumptions — many of them unstated, unexamined, and potentially distorting. The central practice of critical thinking is to surface, examine, and challenge these assumptions before they generate errors, injustice, or closed thinking.",
+  "four_activities": {
+    "description": "Brookfield identifies four interconnected activities that constitute critical thinking as a practice.",
+    "activities": [
+      {
+        "number": 1,
+        "name": "Identifying Assumptions",
+        "description": "The first and most challenging activity: making visible the taken-for-granted beliefs, values, and expectations that underlie our thinking.",
+        "challenge": "Assumptions feel self-evidently true to the person holding them — they are the lens through which reality is perceived, not objects within the visual field. Identifying them requires stepping outside one's normal perspective.",
+        "methods": [
+          "Critical incident journals — writing detailed accounts of significant experiences and examining what they reveal about one's assumptions",
+          "Hunting hegemonic assumptions — looking for places where dominant culture's assumptions have been unconsciously internalized",
+          "Conversational analysis — examining the assumptions revealed by one's own language choices and the topics one avoids"
+        ]
+      },
+      {
+        "number": 2,
+        "name": "Checking Assumptions",
+        "description": "Evaluating the validity and accuracy of identified assumptions — testing them against evidence, experience, and alternative perspectives.",
+        "challenge": "Because assumptions feel self-evident, they typically have never been tested. Checking requires treating them as empirical claims subject to disconfirmation.",
+        "methods": [
+          "Seeking disconfirming evidence for trusted assumptions",
+          "Testing assumptions against diverse perspectives",
+          "Deliberately putting oneself in situations that challenge dominant assumptions",
+          "Asking 'what evidence would convince me this assumption is wrong?'"
+        ]
+      },
+      {
+        "number": 3,
+        "name": "Seeing Alternative Viewpoints and Perspectives",
+        "description": "Recognizing that different cultural backgrounds, life experiences, social positions, and theoretical frameworks generate genuinely different but valid ways of seeing the same situation.",
+        "challenge": "We tend to regard our own perspective as simply 'seeing clearly' and alternative perspectives as distorted or partial. Genuine openness to alternatives requires recognizing that one's own perspective is equally positioned and partial.",
+        "methods": [
+          "Role reversal exercises — deliberately reasoning from a position one typically opposes",
+          "Seeking out perspectives from positions of less power or privilege",
+          "Reading and engaging with theory that challenges dominant frameworks",
+          "Finding people who see the world differently and genuinely listening"
+        ]
+      },
+      {
+        "number": 4,
+        "name": "Taking Informed Action",
+        "description": "Moving from critical insight to purposeful, reflective action — ensuring that assumption identification translates into changed practice rather than merely more sophisticated justification of the status quo.",
+        "challenge": "Critical reflection can become self-referential — an intellectually stimulating activity that produces no change. Brookfield insists that genuine CT leads to action: changed practice, informed decisions, different relationships.",
+        "methods": [
+          "Explicit planning: 'What will I do differently given what I now know about my assumptions?'",
+          "Accountability structures: sharing commitments to change with trusted colleagues",
+          "Reflective monitoring: tracking whether informed action actually occurs"
+        ]
+      }
+    ]
+  },
+  "three_assumption_types": {
+    "description": "Brookfield identifies three distinct categories of assumptions, each requiring different critical examination strategies.",
+    "types": [
+      {
+        "type": "Paradigmatic",
+        "description": "The deepest assumptions — worldview-level beliefs about what reality is like, what is important, and how things fundamentally work. These form the organizing framework within which all other thinking occurs.",
+        "characteristics": [
+          "Most resistant to examination because they feel like basic facts about reality",
+          "Rarely stated explicitly — taken as the background against which everything else is understood",
+          "When challenged, the response is often not 'let me reconsider' but 'you must be confused'"
+        ],
+        "examples": [
+          "The belief that individuals are fundamentally autonomous agents responsible for their own outcomes",
+          "The belief that hierarchy is natural and necessary for effective organization",
+          "The belief that progress is linear and that newer is generally better"
+        ],
+        "examination_approach": "Paradigmatic assumptions require exposure to genuinely different worldviews — not arguments, but sustained encounter with alternative frameworks that make sense internally."
+      },
+      {
+        "type": "Prescriptive",
+        "description": "Assumptions about what should happen — about how people ought to behave, how institutions should work, and what constitutes good practice in a domain.",
+        "characteristics": [
+          "Often derived from paradigmatic assumptions",
+          "May feel like professional norms or ethical standards",
+          "Can masquerade as empirical claims ('good teachers know each student's name')"
+        ],
+        "examples": [
+          "Students should be intrinsically motivated to learn",
+          "Good professionals should be able to separate personal feelings from professional judgment",
+          "Democratic participation requires informed citizens"
+        ],
+        "examination_approach": "Prescriptive assumptions can be examined through empirical evidence (does this actually happen? what happens when it doesn't?) and through alternative frameworks."
+      },
+      {
+        "type": "Causal",
+        "description": "Assumptions about cause-and-effect relationships — beliefs about what causes what, how processes work, and what interventions produce what effects.",
+        "characteristics": [
+          "Often derived from professional experience and treated as validated lessons",
+          "May generalize from individual experience inappropriately",
+          "Can be tested empirically but often aren't"
+        ],
+        "examples": [
+          "Giving students more choice increases their engagement",
+          "Confronting someone directly about a problem makes it worse",
+          "More information leads to better decisions"
+        ],
+        "examination_approach": "Causal assumptions are most amenable to empirical testing — they make predictive claims that can be checked against evidence."
+      }
+    ]
+  },
+  "hegemonic_assumptions": {
+    "description": "Brookfield's most distinctive contribution: attention to how dominant cultural ideologies generate assumptions that are systematically distorting and serve particular power interests.",
+    "definition": "Hegemonic assumptions are taken-for-granted beliefs that reflect and reinforce the interests of dominant groups in society while appearing to be natural, universal, or common sense.",
+    "examples": [
+      "Individual merit explains differential success (obscuring systemic advantages and disadvantages)",
+      "Efficiency and economic productivity are natural measures of institutional value",
+      "The Western academic tradition represents the best available forms of knowledge"
+    ],
+    "importance": "Hegemonic assumptions are particularly resistant to challenge because they are embedded in institutions, language, and social rewards. Challenging them often brings social costs.",
+    "examination_approach": "Identifying hegemonic assumptions requires asking: 'Whose interests are served by this assumption? What would people with less power see differently?'"
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Assumption hunting is only relevant for social/political topics.",
+      "correction": "Every domain of reasoning — including technical, scientific, and professional judgment — rests on assumptions. Causal assumptions are particularly common in applied fields (medicine, engineering, management) where professional experience generates unexamined causal beliefs.",
+      "practical_implication": "Apply assumption hunting to technical and professional reasoning, not just to obviously controversial social topics."
+    },
+    {
+      "misconception": "Identifying an assumption is the same as refuting it.",
+      "correction": "Some assumptions survive examination — they are well-grounded and defensible. The goal is not to reject all assumptions but to hold them consciously and on the basis of reflection rather than unconsciously and by default.",
+      "practical_implication": "When you identify an assumption, the question is: 'Can this be defended?' — not 'This must be wrong because I wasn't aware of it.'"
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Framework for deepening self-reflective practice and identifying assumptions in template-based analysis",
+    "exercise_integration": "Assumption-hunting prompts are integrated into reflection templates. The three assumption types provide a classification system for surfacing and examining assumptions in worked examples.",
+    "cross_reference": "Compare with Paul-Elder Framework (intellectual standards + intellectual virtues), Dewey Five Phases (reflective inquiry from genuine perplexity), Lipman CoI (social dimension of assumption examination).",
+    "key_insight_for_learners": "The most important assumptions to identify are the ones that feel so obviously true that asking about them seems unnecessary. When something seems self-evident, that is precisely when assumption hunting is most needed."
+  }
+}

@@ -1,5 +1,5 @@
 import { getAllWorkedExamples } from '@/lib/content';
-import WorkedExampleCard from '@/components/practice/WorkedExampleCard';
+import FilteredWorkedExampleGrid from '@/components/practice/FilteredWorkedExampleGrid';
 import Link from 'next/link';
 
 export const metadata = {
@@ -29,11 +29,7 @@ export default function WorkedExamplesPage() {
         </p>
       </header>
 
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {examples.map((we) => (
-          <WorkedExampleCard key={we.id} we={we} />
-        ))}
-      </div>
+      <FilteredWorkedExampleGrid examples={examples} />
     </div>
   );
 }

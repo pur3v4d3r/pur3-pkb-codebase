@@ -4,14 +4,10 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 const VALID_IDS = [
-  'PP-01',
-  'PP-02',
-  'PP-03',
-  'PP-04',
-  'PP-05',
-  'PP-06',
-  'PP-07',
-  'PP-08',
+  'PP-01', 'PP-02', 'PP-03', 'PP-04',
+  'PP-05', 'PP-06', 'PP-07', 'PP-08',
+  'PP-09', 'PP-10', 'PP-11', 'PP-12',
+  'PP-13', 'PP-14', 'PP-15', 'PP-16',
 ] satisfies PracticeProblemId[];
 
 export function generateStaticParams() {
@@ -113,6 +109,7 @@ export default function PracticeProblemDetailPage({ params }: { params: { id: st
       )}
 
       {/* Open in Template CTA */}
+      {pp.template_prefill && (
       <section className="rounded-xl border border-indigo-200 bg-indigo-50 p-5">
         <p className="mb-3 text-sm text-indigo-800">
           Ready to work through this problem? Open the template with this problem&apos;s context
@@ -125,6 +122,7 @@ export default function PracticeProblemDetailPage({ params }: { params: { id: st
           Open in Template →
         </Link>
       </section>
+      )}
 
       {/* Hints (collapsible) */}
       {pp.hints.length > 0 && (
@@ -173,12 +171,14 @@ export default function PracticeProblemDetailPage({ params }: { params: { id: st
             See Worked Example: {pp.related_worked_example_id}
           </Link>
         )}
-        <Link
-          href={`/templates/${pp.template_prefill.template_id}?context=${pp.id}`}
-          className="rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white transition hover:bg-slate-700"
-        >
-          Open in Template →
-        </Link>
+        {pp.template_prefill && (
+          <Link
+            href={`/templates/${pp.template_prefill.template_id}?context=${pp.id}`}
+            className="rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white transition hover:bg-slate-700"
+          >
+            Open in Template →
+          </Link>
+        )}
       </footer>
     </div>
   );

@@ -68,6 +68,18 @@ const FRAMEWORK_FILES = [
   'developmental-models',
   'cognitive-biases',
   'cross-framework-synthesis',
+  'siegel-reasons-conception',
+  'halpern-critical-thinking',
+  'webbs-depth-of-knowledge',
+  'marzano-new-taxonomy',
+  'solo-taxonomy',
+  'watson-glaser',
+  'cctdi',
+  'walton-argumentation-schemes',
+  'lipman-community-of-inquiry',
+  'brookfield-critical-thinking',
+  'dikw-pyramid',
+  'bailin-reconception',
 ] as const;
 
 export type FrameworkId = (typeof FRAMEWORK_FILES)[number];
@@ -106,7 +118,7 @@ export function getAllTemplates(): Template[] {
 
 // ---- Worked Example loaders ----
 
-const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03'] as const;
+const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12'] as const;
 
 export type WorkedExampleId = (typeof WORKED_EXAMPLE_FILES)[number];
 
@@ -121,14 +133,10 @@ export function getAllWorkedExamples(): WorkedExample[] {
 // ---- Practice Problem loaders ----
 
 const PRACTICE_PROBLEM_FILES = [
-  'PP-01',
-  'PP-02',
-  'PP-03',
-  'PP-04',
-  'PP-05',
-  'PP-06',
-  'PP-07',
-  'PP-08',
+  'PP-01', 'PP-02', 'PP-03', 'PP-04',
+  'PP-05', 'PP-06', 'PP-07', 'PP-08',
+  'PP-09', 'PP-10', 'PP-11', 'PP-12',
+  'PP-13', 'PP-14', 'PP-15', 'PP-16',
 ] as const;
 
 export type PracticeProblemId = (typeof PRACTICE_PROBLEM_FILES)[number];

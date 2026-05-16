@@ -1,0 +1,129 @@
+{
+  "framework": "SOLO Taxonomy",
+  "full_name": "Structure of Observed Learning Outcomes",
+  "authors": ["John Biggs", "Kevin Collis"],
+  "year": 1982,
+  "key_works": ["Evaluating the Quality of Learning: The SOLO Taxonomy (1982)"],
+  "type": "Learning Outcome Quality Classification",
+  "distinctive_feature": "Classifies the structural complexity of a learner's response or understanding — not the cognitive process used to produce it, but the quality of what was produced.",
+  "description": "The SOLO Taxonomy was developed by educational psychologists John Biggs and Kevin Collis as a practical diagnostic tool for assessing the quality of student learning. Its fundamental insight is that the quality of understanding can be characterized by the structural relationship between the elements a learner identifies and connects. A learner who identifies one relevant element is at a qualitatively different level than a learner who identifies many elements, who is in turn at a qualitatively different level than one who integrates those elements into a system, who is in turn at a different level than one who generalizes that system to new contexts.",
+  "dewey_connection": "SOLO's progression from uni-structural to extended abstract corresponds to Dewey's distinction between superficial and genuine inquiry. Dewey's emphasis on the 'reconstruction of experience' — on understanding at a level deep enough to solve novel problems — corresponds to SOLO's extended abstract level. A learner who can only list facts about a topic (multi-structural) cannot reconstruct their experience in the way Dewey's reflective inquiry demands.",
+  "five_solo_levels": [
+    {
+      "level": 1,
+      "name": "Pre-structural",
+      "description": "The learner has missed the point of the task. Responses are irrelevant, tautological, or show that the task has not been understood. No relevant elements are identified.",
+      "structural_description": "No understanding present; irrelevant or circular response",
+      "marker_phrase": "Missing the point entirely",
+      "cognitive_characteristics": [
+        "Responds to the question asked without any relevant content",
+        "Provides circular or tautological answers",
+        "Shows confusion about what is being asked",
+        "Demonstrates no connection to the domain"
+      ],
+      "example_ecology": "Ecosystems are nature. Nature is everything around us.",
+      "example_argument_analysis": "A critical thinker is someone who thinks critically about things.",
+      "critical_thinking_relevance": "Pre-structural responses signal a fundamental failure to engage with the task. Instruction must first establish what the task actually requires before advancing."
+    },
+    {
+      "level": 2,
+      "name": "Uni-structural",
+      "description": "The learner identifies one relevant element or aspect of the task. The response is relevant but extremely limited in scope. There is a single correct connection but no integration with other relevant elements.",
+      "structural_description": "One relevant aspect identified; others ignored",
+      "marker_phrase": "It is one thing",
+      "cognitive_characteristics": [
+        "Selects one relevant piece of information",
+        "Correct but radically incomplete",
+        "Ignores other relevant aspects even when apparent",
+        "Cannot generalize or extend"
+      ],
+      "example_ecology": "Ecosystems involve predators and prey.",
+      "example_argument_analysis": "A good argument needs evidence.",
+      "critical_thinking_relevance": "Uni-structural understanding supports only the most basic CT tasks. Learners at this level can apply a single criterion but cannot integrate multiple criteria or see competing considerations."
+    },
+    {
+      "level": 3,
+      "name": "Multi-structural",
+      "description": "The learner identifies several relevant elements but treats them as independent items rather than as components of an integrated system. Responses are list-like: correct and more complete, but lacking relational understanding.",
+      "structural_description": "Multiple relevant aspects identified but unconnected; list-like",
+      "marker_phrase": "It is several things",
+      "cognitive_characteristics": [
+        "Identifies multiple correct elements",
+        "Treats elements as a collection rather than a system",
+        "Can list but not integrate",
+        "Lacks understanding of relationships between elements",
+        "Cannot prioritize among elements"
+      ],
+      "example_ecology": "Ecosystems have predators, prey, plants, decomposers, abiotic factors, and climate conditions.",
+      "example_argument_analysis": "A good argument needs a clear claim, supporting evidence, relevant examples, credible sources, and logical structure.",
+      "critical_thinking_relevance": "Multi-structural understanding is where many learners plateau. They can recite criteria and frameworks but cannot integrate them to form genuine analysis. Lists of intellectual standards without integration of those standards is multi-structural."
+    },
+    {
+      "level": 4,
+      "name": "Relational",
+      "description": "The learner integrates multiple elements into a coherent whole, understanding the relationships between them. The elements are no longer a list but a system — each element is understood in terms of how it connects to and affects the others.",
+      "structural_description": "Multiple elements connected into a coherent, integrated whole; system understanding",
+      "marker_phrase": "It is a system",
+      "cognitive_characteristics": [
+        "Understands how elements interact and affect one another",
+        "Can explain why a change in one element affects others",
+        "Constructs integrated analysis rather than lists",
+        "Can identify tensions and trade-offs between elements",
+        "Can prioritize and evaluate elements relative to the whole"
+      ],
+      "example_ecology": "Predator populations control prey populations, which regulates plant abundance, which in turn affects decomposers and nutrient cycling. Removing any element disrupts the whole system.",
+      "example_argument_analysis": "A strong argument integrates clear claim, relevant evidence, and sound inference into a coherent structure where each component supports the others. Weak evidence undermines even a clear claim; a clear claim without relevant evidence is rhetoric, not argument.",
+      "critical_thinking_relevance": "Relational understanding is where substantive critical thinking begins. A learner at this level can genuinely analyze — not just list considerations but understand how they interact. Most advanced CT template exercises target this level."
+    },
+    {
+      "level": 5,
+      "name": "Extended Abstract",
+      "description": "The learner generalizes the integrated system beyond the given context, applying it to new domains, finding analogous structures, and using the understanding to generate novel insights or solutions. The abstract structure is seen as transferable.",
+      "structural_description": "Generalizes beyond the given context; abstracts the structural pattern; transfers to new domains",
+      "marker_phrase": "It generalizes to other cases",
+      "cognitive_characteristics": [
+        "Extracts the abstract structure from the specific instance",
+        "Applies the structure to novel contexts not previously encountered",
+        "Generates novel insights by combining the structure with new content",
+        "Can critique the framework itself — identifying its limits and assumptions",
+        "Uses the understanding to create new knowledge"
+      ],
+      "example_ecology": "The principles governing ecosystem dynamics — feedback loops, trophic cascades, carrying capacity, keystone species — apply not just to biological systems but to economic systems, organizational dynamics, social networks, and information ecosystems.",
+      "example_argument_analysis": "The structural conditions that make an argument strong — claim supported by relevant evidence via valid inference — are the same conditions that distinguish good reasoning in any domain. Recognizing this structural invariance allows analyzing arguments in politics, science, personal relationships, and professional contexts using the same framework.",
+      "critical_thinking_relevance": "Extended abstract understanding is the hallmark of a genuine critical thinker who can transfer frameworks across contexts. This is Dewey's 'reconstruction of experience' and Halpern's 'structural knowledge for transfer' — the highest aspiration of CT education."
+    }
+  ],
+  "diagnostic_power": {
+    "description": "SOLO's primary practical value is diagnostic — it allows educators and learners to characterize the current level of understanding and identify the specific structural gap that must be closed to advance.",
+    "progression_insight": "Movement from one SOLO level to the next requires a qualitative restructuring of understanding, not just accumulation of more content. From multi-structural to relational, the learner must build connections; from relational to extended abstract, they must abstract the structural pattern.",
+    "diagnostic_questions": [
+      "Can the learner identify one relevant element? (Uni-structural threshold)",
+      "Can the learner identify multiple relevant elements? (Multi-structural threshold)",
+      "Can the learner explain how those elements relate to each other? (Relational threshold)",
+      "Can the learner apply this understanding to a novel context? (Extended Abstract threshold)"
+    ]
+  },
+  "contrast_with_blooms": {
+    "key_difference": "Bloom's taxonomy classifies the cognitive process (the verb: Remember, Understand, Apply...). SOLO classifies the structural quality of the outcome (the product: what level of integration and generalizability does the learner's response demonstrate?).",
+    "complementarity": "Both frameworks are valuable and complementary. Bloom tells you what cognitive operation the task requires. SOLO tells you whether the learner's response demonstrates the quality of understanding expected at that level.",
+    "example": "A task requiring 'analysis' at Bloom level 4 could produce a multi-structural response (a list of features extracted) or a relational response (an integrated account of how those features interact). SOLO distinguishes these outcomes; Bloom does not."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Higher SOLO levels are always better; instruction should always aim for extended abstract.",
+      "correction": "The appropriate SOLO level depends on the instructional goal. Some concepts are best understood at the relational level; not all content needs to be generalized across domains. The goal is to match response quality to the demands of the task.",
+      "practical_implication": "Identify the target SOLO level for each learning outcome explicitly. Design instruction and assessment to develop understanding to that level — but do not require extended abstract when relational is sufficient."
+    },
+    {
+      "misconception": "Multi-structural understanding is 'almost there' — just needs more connections.",
+      "correction": "The jump from multi-structural to relational is qualitative, not quantitative. Adding more list items does not produce relational understanding. The learner must build a fundamentally different representation of the knowledge — one organized around relationships rather than attributes.",
+      "practical_implication": "When learners are stuck at multi-structural, asking them to 'add more detail' won't help. Ask them to explain how the elements they've listed affect one another."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Diagnosing the depth of understanding demonstrated in template responses and practice exercises",
+    "exercise_integration": "SOLO levels are used to characterize the quality of responses in worked examples and to set quality targets for practice. Learners can use SOLO to self-assess: 'Is my analysis relational or still just multi-structural?'",
+    "cross_reference": "Compare with Bloom's Revised Taxonomy (cognitive process), Webb's DOK (cognitive demand of tasks), Marzano's New Taxonomy (engagement + processing systems).",
+    "self_assessment_prompt": "After completing an analysis, ask: Can I explain how the elements I identified relate to each other? If not, my understanding is multi-structural. Can I apply this understanding to a completely different context? If not, I haven't yet reached extended abstract."
+  }
+}

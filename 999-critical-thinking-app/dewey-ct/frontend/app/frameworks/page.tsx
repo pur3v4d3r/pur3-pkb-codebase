@@ -20,6 +20,18 @@ export default function FrameworksPage() {
     { id: 'developmental-models', name: 'Developmental Models', desc: "Perry's Scheme, King-Kitchener's Reflective Judgment, and Kuhn's Epistemological Levels" },
     { id: 'cognitive-biases', name: 'Cognitive Biases', desc: 'Systematic reasoning errors with counter-strategies; grounded in dual-process theory' },
     { id: 'cross-framework-synthesis', name: 'Cross-Framework Synthesis', desc: 'Convergence and divergence analysis across all major CT frameworks, with developmental mapping' },
+    { id: 'siegel-reasons-conception', name: "Siegel's Reasons Conception", desc: 'Two-component model: reason assessment + critical spirit; philosophy-grounded CT definition' },
+    { id: 'halpern-critical-thinking', name: "Halpern's Four-Component Framework", desc: 'Dispositions, structural knowledge, skill, metacognition; designed for transfer' },
+    { id: 'webbs-depth-of-knowledge', name: "Webb's Depth of Knowledge (DOK)", desc: 'Four levels of cognitive demand for task and assessment alignment' },
+    { id: 'marzano-new-taxonomy', name: "Marzano's New Taxonomy", desc: 'Self-System, Metacognitive System, and Cognitive System; explains why skills are not deployed' },
+    { id: 'solo-taxonomy', name: 'SOLO Taxonomy', desc: 'Five levels of response complexity: pre-structural through extended abstract' },
+    { id: 'watson-glaser', name: 'Watson-Glaser Appraisal', desc: 'Five CT subtests + RED model; oldest validated CT assessment' },
+    { id: 'cctdi', name: 'CCTDI Disposition Inventory', desc: 'Seven CT dispositions: truth-seeking, open-mindedness, analyticity, systematicity, and more' },
+    { id: 'walton-argumentation-schemes', name: "Walton's Argumentation Schemes", desc: 'Presumptive reasoning patterns with critical questions for evaluation' },
+    { id: 'lipman-community-of-inquiry', name: "Lipman's Community of Inquiry", desc: 'Multidimensional thinking (critical + creative + caring) and P4C pedagogy' },
+    { id: 'brookfield-critical-thinking', name: "Brookfield's Assumption Hunting", desc: 'CT as surfacing paradigmatic, prescriptive, and causal assumptions; emancipatory approach' },
+    { id: 'dikw-pyramid', name: 'DIKW Pyramid', desc: 'Data → Information → Knowledge → Wisdom hierarchy; CT operates at each transition' },
+    { id: 'bailin-reconception', name: "Bailin's Reconception of CT", desc: 'Against domain-general skills; CT requires background knowledge, critical concepts, and standards' },
   ];
 
   return (

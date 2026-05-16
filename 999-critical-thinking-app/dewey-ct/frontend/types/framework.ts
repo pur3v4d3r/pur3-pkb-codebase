@@ -132,7 +132,7 @@ export interface PracticeProblem {
   difficulty: 'easy' | 'medium' | 'hard';
   estimated_minutes: number;
   related_worked_example_id?: string | null;
-  related_template_id: string;
+  related_template_id?: string | null;
   tags: string[];
   object_of_analysis: string;
   context?: string;
@@ -143,11 +143,11 @@ export interface PracticeProblem {
     key_moves: string[];
     revised_position?: string;
   };
-  template_prefill: {
+  template_prefill?: {
     template_id: string;
     subject_value?: string;
     context_note: string;
-  };
+  } | null;
   [key: string]: unknown;
 }
 

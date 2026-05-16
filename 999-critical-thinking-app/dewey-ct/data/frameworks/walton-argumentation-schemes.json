@@ -1,0 +1,133 @@
+{
+  "framework": "Walton's Argumentation Schemes",
+  "author": "Douglas Walton",
+  "year": 1996,
+  "key_works": [
+    "Argumentation Schemes for Presumptive Reasoning (1996)",
+    "Argumentation Schemes (2008, with Reed and Macagno)"
+  ],
+  "type": "Argumentation Theory / Presumptive Reasoning Taxonomy",
+  "distinctive_feature": "Identifies argumentation as primarily presumptive (defeasible, contextually sufficient) rather than formally valid, and provides a catalog of argument patterns each with its own set of critical questions for evaluation.",
+  "description": "Douglas Walton's argumentation schemes framework addresses a fundamental gap in classical logic's account of everyday reasoning. Formal logic deals with arguments that are valid or invalid — where valid means the conclusion cannot be false if the premises are true. But almost all real-world reasoning is not formally valid in this sense. We regularly accept arguments that could be wrong, that rest on incomplete evidence, and that would be revised in light of new information. Walton calls these presumptive arguments: arguments that are reasonable to accept as working hypotheses until specific defeating conditions are identified. Argumentation schemes are the recurring patterns — the templates — that presumptive arguments follow. Each scheme has associated critical questions: the specific probing questions that, if answered negatively, defeat the scheme's presumption.",
+  "dewey_connection": "Walton's presumptive reasoning corresponds to Dewey's account of hypothesis formation and evaluation in reflective inquiry. Dewey understood that inquiry typically proceeds not through formal deduction but through working hypotheses held provisionally — 'good enough to act on, pending further inquiry.' Argumentation schemes give this Deweyan insight structural form: each scheme specifies what kind of evidence is sufficient to provisionally accept a claim, and what would defeat that acceptance.",
+  "core_concepts": {
+    "presumptive_reasoning": "Reasoning that is defeasible — correct in normal circumstances but subject to defeat when exceptional circumstances apply. Most real-world argumentation is presumptive, not formally valid.",
+    "defeasibility": "A property of arguments: an argument is defeasible if its conclusion can be withdrawn in light of new information without logical contradiction. Defeasible arguments are not weak — they are the appropriate form for reasoning under incomplete information.",
+    "critical_questions": "Each argumentation scheme has a set of associated critical questions — the specific challenges that, when raised and unanswered, defeat the presumption of the argument. Critical questions are not rhetorical; they identify genuine defeating conditions built into the structure of the scheme."
+  },
+  "major_argumentation_schemes": [
+    {
+      "scheme_number": 1,
+      "name": "Argument from Expert Opinion",
+      "scheme_structure": "Expert E claims that proposition P is true in domain D. Therefore, P is (presumably) true.",
+      "presumption": "The testimony of domain experts on matters within their expertise is generally reliable",
+      "when_appropriate": "When a claim requires specialized knowledge beyond general reasoning and the expert has relevant credentials and track record",
+      "critical_questions": [
+        "Is E a genuine expert in the relevant domain (not merely a celebrity or authority-figure)?",
+        "Is the claim within E's actual area of expertise?",
+        "Is E reliable and trustworthy — not biased by conflicts of interest?",
+        "Is the claim actually consistent with E's testimony, or has it been misrepresented?",
+        "Do other experts in the same domain agree, or is this a contested expert opinion?",
+        "What is the current state of evidence in this domain — is this an area of genuine consensus?"
+      ],
+      "common_misuse": "Citing an expert in one domain to support claims in a different domain (domain transfer fallacy). Treating any single expert opinion as definitive regardless of consensus."
+    },
+    {
+      "scheme_number": 2,
+      "name": "Argument from Analogy",
+      "scheme_structure": "Case C1 has property P. Case C2 is relevantly similar to C1 in important respects. Therefore, C2 (presumably) also has property P.",
+      "presumption": "Similar cases in relevant respects will have similar relevant properties",
+      "when_appropriate": "When a new case lacks direct evidence but has strong structural similarities to well-understood cases",
+      "critical_questions": [
+        "Are C1 and C2 genuinely similar in the respects relevant to property P?",
+        "Are there relevant differences between C1 and C2 that might defeat the analogy?",
+        "Are there other cases analogous to C2 but lacking property P?",
+        "Is the analogy the main source of evidence or merely illustrative?",
+        "Could the analogy break down in important ways under the specific conditions of C2?"
+      ],
+      "common_misuse": "Ignoring disanalogies, treating superficial similarity as deep similarity, using multiple analogies without noticing they conflict."
+    },
+    {
+      "scheme_number": 3,
+      "name": "Argument from Cause to Effect",
+      "scheme_structure": "Cause C has been observed. C leads to effect E in cases like this. Therefore, E (presumably) will occur.",
+      "presumption": "Known causal relationships can be projected to similar cases",
+      "when_appropriate": "When predicting consequences of actions, policies, or events based on known causal mechanisms",
+      "critical_questions": [
+        "Is the causal connection between C and E well established, or merely assumed?",
+        "Are the conditions in this case sufficiently similar to past cases for the causal relationship to hold?",
+        "Could other factors prevent E from occurring despite C?",
+        "Could C produce multiple effects, some of which conflict?",
+        "Is the causal mechanism understood, or only the correlation?"
+      ],
+      "common_misuse": "Confusing correlation with causation, ignoring confounding factors, treating all causal relationships as deterministic."
+    },
+    {
+      "scheme_number": 4,
+      "name": "Argument from Sign",
+      "scheme_structure": "Evidence E is observed. E is typically a sign of proposition P. Therefore, P is (presumably) true.",
+      "presumption": "Reliable signs (symptoms, indicators, markers) are sufficient evidence for their signified conditions",
+      "when_appropriate": "Diagnostic reasoning — inferring from observable evidence to underlying states, conditions, or causes",
+      "critical_questions": [
+        "Is E a reliable sign of P, or merely a possible sign?",
+        "Are there alternative explanations for E that do not involve P?",
+        "What is the base rate of P — how often does E occur without P?",
+        "Are there other signs present that confirm or disconfirm P?",
+        "Could E be misleading or artificially produced?"
+      ],
+      "common_misuse": "Diagnostic overconfidence — treating a single sign as definitive without considering alternatives. Ignoring base rate (how common is what we're diagnosing?)."
+    },
+    {
+      "scheme_number": 5,
+      "name": "Argument from Consequences (Practical Reasoning)",
+      "scheme_structure": "Action A would produce desirable consequence C (or avoid undesirable consequence D). Therefore, A should (presumably) be done.",
+      "presumption": "Actions that produce good consequences or prevent bad ones are presumptively justified",
+      "when_appropriate": "Practical decision-making where justification proceeds from predicted consequences",
+      "critical_questions": [
+        "Will A actually produce C (is the causal claim accurate)?",
+        "Is C genuinely desirable — from whose perspective?",
+        "Are there unintended negative consequences of A that should be weighed?",
+        "Are there alternative actions that would produce the same or better consequences at lower cost?",
+        "Are there values or principles that override consequentialist justification in this case?"
+      ],
+      "common_misuse": "Slippery slope without specifying the mechanism, ignoring unintended consequences, treating all values as reducible to consequences."
+    },
+    {
+      "scheme_number": 6,
+      "name": "Argument from Popular Opinion",
+      "scheme_structure": "The majority of people in population P believe proposition Q. Therefore, Q is (presumably) true/acceptable.",
+      "presumption": "Widespread belief in a population with relevant experience provides some evidence for the believed proposition",
+      "when_appropriate": "Social norms, customary practices, and widely shared experiential claims where distributed experience provides evidence",
+      "critical_questions": [
+        "Is the population P one with relevant experience or competence regarding Q?",
+        "Does the majority actually hold this belief, or is it being exaggerated?",
+        "Could the majority belief be the result of misinformation, propaganda, or shared error?",
+        "Is Q the kind of claim where popular belief is evidentially relevant (factual) or irrelevant (moral)?",
+        "Has the popular belief been tested against evidence?"
+      ],
+      "common_misuse": "Ad Populum — treating popularity as evidence for truth regardless of whether the majority has relevant experience or has been subject to systematic misinformation."
+    }
+  ],
+  "the_walton_innovation": {
+    "description": "Walton's key contribution is recognizing that these schemes are not fallacies — they are legitimate forms of reasoning that become fallacious only when their critical questions cannot be satisfactorily answered. Argument from Expert Opinion is not inherently a fallacy (Appeal to Authority). It is a valid presumptive argument form that becomes fallacious when the expert conditions fail.",
+    "implication": "Most real-world CT instruction correctly identifies fallacious uses of these schemes (ad populum, appeal to authority, slippery slope) but fails to identify the legitimate, non-fallacious uses. Walton provides the framework for distinguishing them: ask the scheme's critical questions. If they can be answered, the argument is reasonable. If not, it's a fallacy."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Argument from authority (expert opinion) is always a fallacy.",
+      "correction": "Argument from expert opinion is a legitimate presumptive argument form when the expert conditions are met. Experts exist precisely so their testimony can be reasonably accepted without independent verification. The question is whether the conditions hold.",
+      "practical_implication": "When evaluating expert citations, apply the six critical questions for Argument from Expert Opinion rather than dismissing the appeal as inherently fallacious."
+    },
+    {
+      "misconception": "Slippery slope arguments are always fallacious.",
+      "correction": "Slippery slope is a legitimate argument from consequences when the causal mechanism for the slide is specified and plausible. It becomes the slippery slope fallacy when the mechanism is assumed without evidence.",
+      "practical_implication": "When confronting a slippery slope argument, ask: 'What specific mechanism explains why the slide would occur?' A satisfactory answer makes it a legitimate causal argument; no answer makes it a fallacy."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Providing a structured approach to evaluating real-world arguments that operate through presumptive reasoning",
+    "exercise_integration": "Argumentation scheme identification and critical question application are features of advanced argument analysis exercises. The Toulmin framework provides the argument structure; Walton's schemes identify the type of reasoning being used; critical questions provide the specific probing tools.",
+    "cross_reference": "Compare with Toulmin Argument Model (argument structure), Logical Fallacies (fallacious uses of schemes), Ennis Framework (critical disposition to apply critical questions).",
+    "key_insight_for_learners": "Most real arguments you encounter are presumptive, not formally valid. The question is not 'Is this argument logically valid?' but 'Which scheme is this argument using, and are its critical questions satisfactorily answered?'"
+  }
+}

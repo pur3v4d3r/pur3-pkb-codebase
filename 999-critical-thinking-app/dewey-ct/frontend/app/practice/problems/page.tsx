@@ -1,5 +1,5 @@
 import { getAllPracticeProblems } from '@/lib/content';
-import PracticeProblemCard from '@/components/practice/PracticeProblemCard';
+import FilteredProblemGrid from '@/components/practice/FilteredProblemGrid';
 import Link from 'next/link';
 
 export const metadata = {
@@ -29,11 +29,7 @@ export default function PracticeProblemsPage() {
         </p>
       </header>
 
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {problems.map((pp) => (
-          <PracticeProblemCard key={pp.id} pp={pp} />
-        ))}
-      </div>
+      <FilteredProblemGrid problems={problems} />
     </div>
   );
 }

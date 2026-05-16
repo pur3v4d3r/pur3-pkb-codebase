@@ -1,0 +1,129 @@
+{
+  "id": "WE-04",
+  "we_number": "WE-04",
+  "title": "Metacognitive Weekly Review: Week of 2026-05-09",
+  "subtitle": "Second-order critical thinking: applying metacognitive reflection to a week of CT practice sessions",
+  "framework": "metacognitive-reflection",
+  "framework_label": "Metacognitive Reflection",
+  "object_type": "metacognitive-review",
+  "question_type": "reflective",
+  "stakes": "high",
+  "difficulty": "advanced",
+  "duration_minutes": 25,
+  "pre_confidence": null,
+  "post_confidence": null,
+  "rigor_score": 4.2,
+  "sessions_reviewed": 7,
+  "mean_rigor": 3.91,
+  "tags": ["metacognition", "self-regulated-learning", "weekly-review", "reflection", "deliberate-practice"],
+  "summary": "A completed weekly metacognitive review across seven practice sessions (Paul-Elder, FRISCO, SEE-I). The analyst identifies a consistent confidence inflation pattern on personal decisions versus external arguments, diagnoses two bottleneck standards (Depth 3.3, Fairness 3.5), distinguishes the strategy failure mode (moving on too early) from the bias failure mode (under-steelmanning), and issues specific dated commitments for the following week. The key insight: a 12-week rigor improvement is masking stagnation — growth has accumulated on already-strong standards while weak ones plateau.",
+  "how_to_use": "This worked example demonstrates second-order practice: critical thinking about critical thinking. Unlike WE-01 through WE-03, the object of analysis here is not an external claim, argument, or concept — it is the analyst's own thinking over time. Read the sections in order, paying special attention to (1) how the Person/Task/Strategy knowledge taxonomy organizes the self-assessment, (2) how the Standards Trend table makes invisible patterns visible, and (3) what a genuine commitment looks like versus a vague intention. Then conduct your own metacognitive review using the reflection template.",
+  "learning_objectives": [
+    "Understand what second-order practice is and why it is essential for sustained CT development",
+    "See how Flavellian metacognitive knowledge (Person, Task, Strategy) provides a structure for self-assessment beyond vague 'reflection'",
+    "Observe how a multi-week standards trend table reveals bottleneck standards that individual sessions cannot identify",
+    "Understand the difference between a good-sounding insight ('I should improve') and an actionable commitment (specific, dated, falsifiable)"
+  ],
+  "related_template_id": "metacognitive-reflection-v1",
+  "related_practice_problems": [],
+  "sections": [
+    {
+      "section_label": "Sessions Under Review",
+      "fields": [
+        {
+          "label": "Period",
+          "content": "Week of 2026-05-09 to 2026-05-16"
+        },
+        {
+          "label": "Sessions Summary",
+          "content": "7 sessions completed (7 planned). Mean rigor: 3.91. Current streak: 12 days. Frameworks used: Paul-Elder (×3), FRISCO (×2), SEE-I (×2)."
+        },
+        {
+          "label": "Session Log",
+          "content": "2026-05-09 | paul-elder | Decision: career pivot to ML eng | Rigor: 4.1 | Confidence: 4→3\n2026-05-10 | frisco | Op-ed: 'AI will replace teachers' | Rigor: 3.8 | Confidence: 5→2\n2026-05-11 | see-i | Concept: Cognitive Load | Rigor: 4.4 | Mastery: 3→4\n2026-05-12 | paul-elder | Argument: vegetarianism ethics | Rigor: 3.5 | Confidence: 3→3\n2026-05-14 | frisco | Reddit thread on housing policy | Rigor: 4.0 | Confidence: 4→2\n2026-05-15 | see-i | Concept: Bayesian Updating | Rigor: 3.2 | Mastery: 2→2\n2026-05-16 | paul-elder | Decision: switch Obsidian→Logseq | Rigor: 4.4 | Confidence: 4→2"
+        }
+      ]
+    },
+    {
+      "section_label": "Person Knowledge",
+      "fields": [
+        {
+          "label": "What did I learn this week about how I think?",
+          "content": "I consistently inflate my pre-analysis confidence on decision-type objects (mean confidence drop: 4 → 2.7) but stay flat or rise on argument-type objects. This suggests I am over-confident about my own decisions and appropriately calibrated on third-party arguments — exactly the asymmetry Motivated Reasoning predicts.\n\nI run 4 of 7 sessions before 8 AM. Quality is meaningfully higher in those (mean rigor 4.2) than in afternoon sessions (mean rigor 3.5). My time-of-day matters more than I had assumed.\n\nWhen the object is one I have an emotional stake in (own decisions, ethical arguments), my Fairness standard scores approximately 0.6 points lower than when the object is neutral (op-eds, third-party claims). This is the Self-Serving Bias showing up in the rubric.\n\nI tend to over-deliver on Clarity and under-deliver on Depth. I make the question crisp, then stop digging. This is a 12-week trend, not just this week."
+        }
+      ]
+    },
+    {
+      "section_label": "Task Knowledge",
+      "fields": [
+        {
+          "label": "What did I learn about the frameworks themselves?",
+          "content": "FRISCO is dramatically more efficient than Paul-Elder for argument objects (mean 8 min vs 35 min) with comparable rigor scores (3.9 vs 4.0). I should default to FRISCO for arguments and reserve Paul-Elder for decisions and concepts I plan to take action on.\n\nPaul-Elder is the right tool when the object is a decision I will execute, because the Implications and Standpoint sections force the action-readiness check.\n\nSEE-I is the right tool when I notice I am using a concept without being able to define it. The mastery self-check is the diagnostic, not the elaboration.\n\nI have under-used Toulmin and Delphi frameworks. Plan: deliberately rotate them in next month, two sessions each."
+        }
+      ]
+    },
+    {
+      "section_label": "Strategy Knowledge",
+      "fields": [
+        {
+          "label": "Which thinking strategies were most useful?",
+          "content": "What worked: The disconfirming-evidence search subsection of Paul-Elder was the single highest-leverage move across the week — it changed my conclusion in 2 of 3 Paul-Elder sessions. Steelmanning in the Standpoint section also produced real uncertainty rather than token acknowledgment. The pre/post confidence delta functions as a calibration signal: a drop indicates the analysis did something.\n\nWhat didn't work: My SEE-I on Bayesian Updating (Friday) failed — mastery stayed at 2/2 because I didn't generate a transfer-domain example. Lesson: SEE-I on a concept I don't yet understand is a diagnostic, not a way to acquire the concept. I need to read first, then SEE-I.\n\nStrategy to adopt next week: Time-box every session strictly. Two sessions ran 50% over and their extra time didn't produce proportionally more rigor."
+        }
+      ]
+    },
+    {
+      "section_label": "Monitoring",
+      "fields": [
+        {
+          "label": "How well did I notice in-the-moment what was working or failing?",
+          "content": "Times I caught a bias mid-session this week: 4 (confirmation bias ×2, sunk-cost rationalization ×1, novelty bias ×1). Times I noticed the bias only on post-hoc review: 3 (one steelman I performed was a strawman of the position; two cases where I rated my own Depth higher than evidence warranted).\n\nTrend: Real-time monitoring is improving (was approximately 1/week three months ago), but post-hoc detection is improving faster, which means my baseline standards are rising even though my in-the-moment catching hasn't kept up. This is fine — accurate post-hoc review is what trains in-the-moment monitoring over months."
+        }
+      ]
+    },
+    {
+      "section_label": "Regulation",
+      "fields": [
+        {
+          "label": "What will I change in next week's practice?",
+          "content": "Change 1: Schedule all 7 planned sessions before 10 AM. Predicted effect: +0.3 mean rigor.\n\nChange 2: When using SEE-I on a concept I rate below 3/5 in self-knowledge, do a 10-minute read first, then SEE-I. Predicted effect: SEE-I sessions become mastery confirmations for concepts I know, not diagnostics for concepts I don't.\n\nChange 3: Run one Toulmin and one Delphi session to break tool monoculture. Predicted effect: build comfort with secondary frameworks before I need them."
+        }
+      ]
+    },
+    {
+      "section_label": "Standards Trend",
+      "fields": [
+        {
+          "label": "Four-week standards trajectory",
+          "content": "Clarity: Wk-3: 4.6 | Wk-2: 4.7 | Wk-1: 4.7 | This Wk: 4.8 | Trend: rising (saturating)\nAccuracy: Wk-3: 3.9 | Wk-2: 4.0 | Wk-1: 4.0 | This Wk: 4.0 | Trend: flat\nPrecision: Wk-3: 3.5 | Wk-2: 3.7 | Wk-1: 3.8 | This Wk: 3.9 | Trend: rising\nRelevance: Wk-3: 4.5 | Wk-2: 4.5 | Wk-1: 4.6 | This Wk: 4.6 | Trend: flat-high\nDEPTH (bottleneck): Wk-3: 3.1 | Wk-2: 3.2 | Wk-1: 3.2 | This Wk: 3.3 | Trend: slow rise\nBreadth: Wk-3: 3.6 | Wk-2: 3.7 | Wk-1: 3.7 | This Wk: 3.8 | Trend: rising\nLogic: Wk-3: 4.2 | Wk-2: 4.3 | Wk-1: 4.3 | This Wk: 4.4 | Trend: rising\nSignificance: Wk-3: 3.7 | Wk-2: 3.8 | Wk-1: 3.9 | This Wk: 3.9 | Trend: rising\nFAIRNESS (bottleneck): Wk-3: 3.4 | Wk-2: 3.5 | Wk-1: 3.4 | This Wk: 3.5 | Trend: flat\n\nTwo bottleneck standards: Depth (3.3) and Fairness (3.5). Both well below mean (3.91). The Depth bottleneck is a strategy issue — moving on too early. The Fairness bottleneck is a bias issue — steelmanning opposing views less rigorously than assessing one's own position. Next month's focus: pick one and design deliberate practice for it."
+        }
+      ]
+    },
+    {
+      "section_label": "Virtues Inventory",
+      "fields": [
+        {
+          "label": "Intellectual virtues exercised this week",
+          "content": "Practiced: Intellectual Humility (rated own pre-analysis confidence honestly, including the 5→2 drop); Intellectual Courage (wrote 'I want this argument to fail' before analyzing it); Intellectual Empathy (steelmanned two positions I personally disagree with); Intellectual Integrity (held myself to the same Fairness standard applied to the op-eds); Intellectual Perseverance (completed the Bayesian-Updating SEE-I even when it was going badly); Fair-mindedness (the Logseq decision — the Fair-mindedness exercise was the turning point).\n\nNot practiced this week: Intellectual Autonomy (relied on YouTube and Reddit for too much source material — not autonomous reasoning, but autonomous gathering of others' reasoning); Confidence in Reason (deferred to 'the consensus' in one session rather than working through the argument independently).\n\nVirtue most exercised: Perseverance — three sessions had at least one moment where declaring the analysis 'good enough' was tempting. Didn't stop.\n\nVirtue most missing: Autonomy — leaned on others' analyses too often. Next week: at least 3 sessions where I write my analysis before reading anyone else's view of the object."
+        }
+      ]
+    },
+    {
+      "section_label": "Commitments",
+      "fields": [
+        {
+          "label": "Specific dated commitments for next period",
+          "content": "By 2026-05-23: Complete 7 sessions, all scheduled before 10 AM.\nBy 2026-05-23: Complete 1 Toulmin session and 1 Delphi session.\nBy 2026-05-23: Design a deliberate-practice protocol targeting the Depth standard (specific drill, ~15 min, repeatable).\nBy 2026-05-23: Conduct 3 sessions on objects I have NOT read others' analysis of beforehand.\nBy 2026-05-23: Re-do the SEE-I on Bayesian Updating after reading E.T. Jaynes chapter 1."
+        }
+      ]
+    },
+    {
+      "section_label": "Key Insight",
+      "fields": [
+        {
+          "label": "The single most important insight from this week",
+          "content": "I have been training Clarity, Logic, and Relevance — my already-strong standards — and avoiding Depth and Fairness, my weak ones. The 12-week rigor curve is rising mainly because I am getting better at things I was already good at. To break the plateau I need to deliberately work on the weak standards, not let weekly practice accumulate on the strong ones. This is the same pattern deliberate practice research describes as the boundary between experienced and expert practitioners: experienced ones get more reps; experts target the weakest link. I am currently the former."
+        }
+      ]
+    }
+  ]
+}

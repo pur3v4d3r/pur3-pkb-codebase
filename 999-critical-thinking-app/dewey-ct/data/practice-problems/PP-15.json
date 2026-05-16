@@ -1,0 +1,55 @@
+{
+  "id": "PP-15",
+  "pp_number": "PP-15",
+  "title": "Should I specialise deeply in ML engineering or remain a generalist developer?",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "object_type": "decision",
+  "difficulty": "medium",
+  "estimated_minutes": 35,
+  "related_worked_example_id": "WE-11",
+  "related_template_id": "deliberate-practice-full-v1",
+  "tags": ["mental-models", "decision", "career", "specialisation", "latticework-thinking", "inversion", "second-order"],
+  "object_of_analysis": "Jaime is a 3-year software developer with solid Python skills and growing interest in machine learning. They have been offered: (Option A) a specialist ML engineering role at a mid-stage startup, with a 20% salary premium and deep technical focus; (Option B) a generalist senior developer role at an established company, with a broader remit and a clear path to engineering management. Jaime is trying to decide whether to specialise or stay broad at this career juncture.",
+  "context": "You are advising Jaime using the mental models latticework approach. Rather than evaluating the two options directly, you will apply at least five distinct mental models to the decision — each model should produce a different, non-overlapping insight. After applying all five models, synthesise the insights to identify the core trade-off and the single most important decision-relevant question Jaime needs to answer.",
+  "instructions": "Apply each of the five mental models listed below to Jaime's decision. For each model: (1) briefly explain what the model is and what kind of insight it typically produces; (2) apply it specifically to this decision; (3) note what the model reveals that would not be visible without it. After completing all five, write a synthesis that combines the insights and identifies the central trade-off and the one question that would most change the decision if answered.",
+  "workspace_prompts": {
+    "inversion": "Inversion asks: what would make this decision clearly wrong? Apply it both ways: what would specialising guarantee Jaime misses? What would staying generalist guarantee Jaime misses? What failure modes does each path make most likely?",
+    "second_order": "Second-order thinking asks: what are the consequences of the consequences? If Jaime specialises in ML engineering now, what are the second-order consequences in 5 years? What does specialisation close off, and what does it open? Then ask the same for the generalist path.",
+    "circle_of_competence": "Circle of competence asks: what does Jaime already know that creates a genuine, defensible advantage in one direction? Is the 3 years of generalist software development a foundation that makes ML specialisation faster and more effective — or is it a sunk cost that pulls toward generalism? What would a genuine edge look like in each option?",
+    "base_rates": "Base rates ask: what actually happens to people in Jaime's situation who make each choice? What proportion of ML engineering specialists who join mid-stage startups are still in ML roles in 5 years? What is the market trajectory for ML engineering skills — is the premium expanding or contracting as the tooling matures?",
+    "opportunity_cost": "Opportunity cost asks: what is the decision actually a choice between? Going beyond the binary of Option A vs Option B — what else is Jaime choosing to not do by accepting either role? What is the real cost of the option not chosen?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Each model should produce a different insight",
+      "content": "The latticework value is in the non-overlap. If Inversion and Second-Order Thinking are producing the same insight, one of them is not being applied distinctively. Inversion looks for failure modes; Second-Order looks for downstream consequences. Make sure each model is providing a genuinely different lens on the problem."
+    },
+    {
+      "id": "hint-2",
+      "title": "Base rates are the most underused model for career decisions",
+      "content": "Most career decisions are made on the basis of the opportunities in front of us, without asking: what is the base rate outcome for people who take this type of path? The question 'what actually happens to ML engineers 5 years in?' has data: ML/AI skills command a premium now, but tooling abstraction (managed ML platforms, AutoML, LLMs doing ML work) is changing the nature of the role. What does the trajectory of the specialist premium tell you about the value of specialising now vs. in 2 years?"
+    },
+    {
+      "id": "hint-3",
+      "title": "The synthesis question",
+      "content": "After applying all five models, the synthesis should identify a tension between two of the models. In this case, the likely tension is between Circle of Competence (which may favour the path where Jaime's 3-year generalist foundation creates the most leverage) and Base Rates (which may reveal information about market trajectory that changes the attractiveness of deep specialisation). The central trade-off is probably: optionality (generalism preserves flexibility) vs. depth premium (specialisation enables higher compensation and expertise compounding in a high-demand domain)."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "INVERSION: What would make Option A (ML specialisation) clearly wrong? Specialising fails if: (1) the ML engineering market commoditises faster than expected (automated tooling reduces the premium); (2) Jaime doesn't have sufficient depth in mathematical foundations to operate as a genuine ML engineer rather than an ML tooling user; (3) the specific startup fails, and specialisation created a thin CV for generalist roles. What would make Option B clearly wrong? Staying generalist fails if: (1) the management path leads away from technical work Jaime values; (2) the ML premium widens and Jaime is permanently priced out of the most interesting technical roles.",
+      "SECOND-ORDER: If Jaime specialises now (Year 0), at Year 5: First-order — Jaime has 5 years of ML engineering experience at a startup (either successful or failed). Second-order — either (a) the startup succeeded and Jaime has rare combined startup + ML experience, opening senior ML roles; or (b) the startup failed and Jaime has ML specialist experience that is valuable but narrow. Further — ML tooling is maturing; in 5 years, the 'ML engineer' role may look more like a data scientist with engineering skills than a specialist role, requiring generalist renewal anyway.",
+      "CIRCLE OF COMPETENCE: Jaime's genuine advantage is 3 years of software engineering practice — production systems, testing, deployment, code quality. This is a significant advantage for ML engineering (which often struggles with production ML systems) but less relevant for generalist senior development. The 3-year generalist foundation probably makes Jaime a more effective ML engineer than a pure ML specialist who lacks software engineering depth. This is sometimes called 'ML engineering' as distinct from 'ML research' — and it is the more in-demand commercial role.",
+      "BASE RATES: OECD labour market data and ML job trend analysis (LinkedIn, Levels.fyi): ML engineering roles command a 15–30% premium over generalist senior roles (current). BUT: (1) AI/ML roles posted in tech declined in 2023–2024 as LLM API adoption reduced demand for from-scratch ML development; (2) the roles that remained or grew are 'MLOps' and 'AI/ML platform engineering' — closer to software engineering than pure ML; (3) many generalist developers are adding ML skills on a 6-12 month learning curve. The base rate suggests the pure ML specialisation premium may compress. This does not mean specialisation is wrong — it means the timing and type of specialisation matters.",
+      "OPPORTUNITY COST: The real cost of Option A is not just 'not Option B.' It is also: not taking 12 months to independently build a portfolio of ML projects that demonstrate competence without employment; not accepting a generalist role with a specific domain (healthcare AI, fintech ML) that combines depth with breadth; not pursuing further education (MSc in ML) that changes the credentialing picture. Framing as binary (A vs B) may be the decision's biggest error."
+    ],
+    "revised_position": "The synthesis reveals that the core trade-off is optionality vs. depth premium, and that the single most decision-relevant question is: 'What does Jaime want their primary identity to be in 5 years — a technical specialist, a technical generalist, or a technical manager?' The answer to this question makes the choice clearer. If Jaime primarily wants depth and IP in ML systems, Option A with the startup is better. If Jaime primarily wants leadership and broader technical scope, Option B is better. The models also reveal a third option Jaime should consider: joining an established company (Option B's stability) in a role that specifically involves ML engineering — combining the stability and generalist development of Option B with targeted ML experience development."
+  },
+  "template_prefill": {
+    "template_id": "deliberate-practice-full-v1",
+    "subject_value": "Specialise in ML engineering vs. remain a generalist developer",
+    "context_note": "Apply at least five mental models from the latticework — each must produce a non-overlapping insight. Synthesise to identify the core trade-off and single most important decision-relevant question."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "framework": "Siegel's Reasons Conception of Critical Thinking",
+  "author": "Harvey Siegel",
+  "year": 1988,
+  "key_works": ["Educating Reason (1988)"],
+  "type": "Philosophical Definition",
+  "core_definition": "A critical thinker is one who is appropriately moved by reasons.",
+  "description": "Harvey Siegel's Reasons Conception is a philosophically minimalist yet normatively demanding definition of critical thinking. By locating the essence of critical thinking in the relationship between a thinker and reasons, Siegel ties CT constitutively to rationality — not as an instrumental tool but as a requirement of what it means to reason at all. The 'appropriately moved by' formulation is deliberately dual: it captures both the cognitive component (correctly identifying and evaluating good reasons) and the motivational-dispositional component (actually allowing those reasons to shape one's beliefs and actions).",
+  "dewey_connection": "Siegel's framework is compatible with Dewey's view that genuine reflective thinking is driven by evidence and logic rather than habit or impulse. Dewey's emphasis on the 'control of data' in Phase 4 of reflective inquiry corresponds directly to Siegel's insistence that the critical thinker must be moved by whatever evidence the inquiry actually yields — not by what they hoped to find.",
+  "two_components": {
+    "description": "Siegel's definition decomposes into two necessary and jointly sufficient components. Neither component alone is sufficient for critical thinking.",
+    "components": [
+      {
+        "number": 1,
+        "name": "Reason Assessment Component",
+        "description": "The set of cognitive skills required to assess reasons properly. This includes the ability to understand what counts as a good reason in a given context, to evaluate whether specific reasons are strong or weak, to distinguish valid from invalid inferences, and to recognize when evidence supports a conclusion versus when it merely sounds plausible.",
+        "key_question": "Can the thinker correctly identify which reasons are good, which are poor, and why?",
+        "skills_included": [
+          "Evaluating argument validity",
+          "Assessing evidence quality",
+          "Distinguishing strong from weak reasons",
+          "Recognizing fallacies and misleading reasoning patterns",
+          "Understanding domain-appropriate standards for what counts as evidence"
+        ],
+        "failure_mode": "A person who can assess reasons correctly in theory but fails to actually apply that assessment — or who applies it selectively depending on preferred conclusions."
+      },
+      {
+        "number": 2,
+        "name": "Critical Spirit Component",
+        "description": "The dispositional commitment to actually be moved by reasons — to care about reasons, to seek them out, to demand them from others and from oneself, and to follow them wherever they lead. The Critical Spirit is what transforms cognitive skill into genuine critical practice. Without it, a person may possess excellent reason-assessment skills but deploy them only when convenient.",
+        "key_question": "Is the thinker genuinely disposed to seek reasons, respect them, and follow them even to uncomfortable conclusions?",
+        "dispositions_included": [
+          "Caring about whether beliefs are well-supported",
+          "Demanding reasons rather than accepting assertions",
+          "Following reasons to conclusions one did not prefer",
+          "Seeking disconfirming evidence for one's own positions",
+          "Maintaining commitment to rational inquiry under social pressure"
+        ],
+        "failure_mode": "A person who values reasons only when they support preferred conclusions, or who abandons rational inquiry when it becomes socially costly."
+      }
+    ],
+    "integration_insight": "The two components are interdependent. Strong reason-assessment skills without the critical spirit produce a rhetorical sophisticate who can argue either side without actually caring which is true. A strong critical spirit without adequate assessment skills produces an earnest but incompetent reasoner. Critical thinking requires both."
+  },
+  "distinctive_commitments": [
+    {
+      "commitment": "Critical thinking is constitutively connected to rationality",
+      "explanation": "Siegel is not making the instrumental claim that CT helps you achieve goals — he is making the constitutive claim that being a rational agent means being appropriately moved by reasons. Critical thinking is not a skill optional for rational agents; it is part of what rationality means."
+    },
+    {
+      "commitment": "The motivational/dispositional dimension is irreducible",
+      "explanation": "Unlike frameworks that treat disposition as an adjunct to skills, Siegel's definition makes disposition central. A person who has the skills but lacks the Critical Spirit is not a weak critical thinker — they are not a critical thinker at all."
+    },
+    {
+      "commitment": "CT education is education for rationality",
+      "explanation": "Siegel argues that critical thinking education serves broader epistemic values, not merely instrumental cognitive efficiency. Teaching CT is teaching people to take rationality seriously — which has implications for citizenship, democracy, and epistemic justice."
+    }
+  ],
+  "relationship_to_other_frameworks": {
+    "paul_elder": "Siegel's Critical Spirit parallels Paul-Elder's seven Intellectual Traits, especially Intellectual Autonomy and Confidence in Reason. His Reason Assessment Component parallels the application of Intellectual Standards to the Elements of Thought.",
+    "ennis": "Siegel's definition is more philosophically parsimonious than Ennis's skill taxonomy, but captures the same core. Ennis's 12 abilities operationalize the Reason Assessment Component; his 14 dispositions operationalize the Critical Spirit.",
+    "delphi": "The Delphi Report's 'ideal critical thinker' profile maps directly onto Siegel's two components: the six core skills correspond to Reason Assessment; the disposition profile corresponds to the Critical Spirit."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Critical thinking means being skeptical of everything.",
+      "correction": "Siegel's thinker is moved by reasons — including reasons to accept claims, not only reasons to doubt them. The critical thinker accepts well-supported claims just as readily as they reject poorly-supported ones. Blanket skepticism would itself be a failure to be appropriately moved by evidence.",
+      "practical_implication": "When evaluating an argument, ask 'What does the evidence actually support?' rather than 'How can I find flaws?'"
+    },
+    {
+      "misconception": "Having the skills is sufficient for being a critical thinker.",
+      "correction": "Siegel explicitly requires both the assessment component and the critical spirit. Skill without disposition merely produces sophisticated rationalization.",
+      "practical_implication": "Self-assess not just 'Can I evaluate reasons?' but 'Do I actually seek and follow them, even when they challenge my preferences?'"
+    }
+  ],
+  "historical_origin": {
+    "intellectual_context": "Harvey Siegel developed the Reasons Conception of Critical Thinking in the mid-1980s at the University of Miami, publishing Educating Reason in 1988. The framework emerged during a foundational period in philosophy of education when scholars were grappling with how to give critical thinking a normative grounding — not just a descriptive or pedagogical one.",
+    "philosophical_lineage": "Siegel works within the Anglo-American analytic tradition, drawing on epistemology (the study of knowledge and justified belief). A central influence is the tradition of naturalized epistemology, though Siegel crucially argues that normative epistemology — questions about how we should reason — cannot be reduced to descriptive psychology — questions about how we do reason. This distinction gives his framework its demanding edge.",
+    "polemical_context": "The Reasons Conception was developed partly as a critique of more instrumentalist and skills-focused CT frameworks. Against frameworks that treat CT as a collection of measurable skills, Siegel insists on the irreducible motivational-dispositional dimension: a thinker who has the skills but lacks the commitment to be moved by reasons is not a weak critical thinker — they are not a critical thinker at all.",
+    "key_phrase_genesis": "The formulation 'appropriately moved by reasons' is deliberately economical. Siegel chose it because it simultaneously specifies the cognitive object (reasons), the relational stance (moved by), and the normative standard (appropriately) — making motivation constitutive rather than additive. 'Appropriately' does significant philosophical work: it builds in that reasons must be correctly assessed, not merely cited.",
+    "subsequent_development": "Siegel elaborated and defended the Reasons Conception over several decades, responding to critics who argued the definition was too sparse to guide curriculum or that it over-intellectualized thinking. He addressed the relationship between CT and epistemology in Rationality Redeemed (1997) and CT's democratic implications in a series of articles in Educational Theory and Educational Philosophy and Theory.",
+    "key_works_extended": [
+      "Educating Reason: Rationality, Critical Thinking, and Education (1988)",
+      "Rationality Redeemed: Further Dialogues on an Educational Ideal (1997)",
+      "'What is the Question Concerning the Rationality of Science?' (1992, Philosophy of Science)",
+      "'Epistemology and Education: An Incomplete Guide to the Social-Epistemological Issues' (2004)"
+    ]
+  },
+  "teaching_applications": {
+    "primary_pedagogical_strategy": "Siegel's framework is most powerfully used as a diagnostic lens rather than a curriculum. The key teacher question is: 'Is this student appropriately moved by reasons?' — and making both components explicit. This surfaces whether the student has the skills to assess reasons and whether they are disposed to follow them.",
+    "disposition_development_strategies": [
+      {
+        "strategy": "Reason-tracking journals",
+        "description": "Students document decisions or belief changes and trace the reasons that moved them. Over time, they build evidence of whether they seek reasons for beliefs they accept — not just beliefs they want to challenge.",
+        "component_targeted": "Critical Spirit"
+      },
+      {
+        "strategy": "Steelman exercises",
+        "description": "Students construct the strongest possible version of a view they find unappealing, then state whether the steelman should update their view. The exercise directly activates the Critical Spirit: following reasons even when they challenge preferences.",
+        "component_targeted": "Critical Spirit"
+      },
+      {
+        "strategy": "Selective-deployment audits",
+        "description": "Students compare the rigor of their reasoning on topics they find unappealing versus topics they find congenial. Documenting the asymmetry exposes whether reason-assessment skills are being deployed consistently or selectively.",
+        "component_targeted": "Critical Spirit integration with Reason Assessment"
+      },
+      {
+        "strategy": "Argument quality ranking",
+        "description": "Students receive a set of arguments and rank them by logical quality — without knowing which conclusion each supports before ranking. This trains the Reason Assessment Component to operate independently of preferred conclusions.",
+        "component_targeted": "Reason Assessment Component"
+      }
+    ],
+    "assessment_design": "Siegel's two-component structure provides a diagnostic framework for assessment. Assess the Reason Assessment Component through argument analysis tasks. Assess the Critical Spirit through reflection tasks and dispositions instruments. Crucially, a student with high reason-assessment scores but low dispositional engagement has component dissociation — the most common failure mode, and the most important to diagnose.",
+    "common_pedagogical_error": "Teaching CT as only a skill set — focusing on argument analysis while neglecting disposition development. Siegel predicts that such instruction produces technically skilled reasoners who deploy skills selectively, not genuine critical thinkers. Disposition development requires modeling, practice in authentic contexts, and explicit reflection — not just skill drills."
+  },
+  "self_assessment_checklist": {
+    "reason_assessment_component_questions": [
+      "Can I identify the key reasons offered in support of this claim?",
+      "Can I assess whether those reasons are strong or weak, and explain specifically why?",
+      "Can I distinguish between a valid inference and a plausible-sounding one?",
+      "Can I identify what evidence would be needed to adequately support this claim?",
+      "Can I recognize when a reason that feels compelling is actually logically weak?"
+    ],
+    "critical_spirit_questions": [
+      "Am I seeking reasons for this belief, or accepting it because it seems right or familiar?",
+      "If the evidence pointed the other way, would I actually follow it — or would I find ways to discount it?",
+      "Am I applying my reason-assessment skills consistently, or only when I want to challenge a specific claim?",
+      "Am I willing to change my view based on the reasons I encounter — not just in principle but in this case?",
+      "Am I demanding reasons from others and from myself, or accepting confident assertions as sufficient?"
+    ],
+    "integration_diagnostic": "If you assess well but seldom update: you have Reason Assessment skills but a weak Critical Spirit. If you want to follow reasons but assess them poorly: you have Critical Spirit without adequate Reason Assessment skills. Identifying which component is underdeveloped is the key diagnostic output of Siegel's framework.",
+    "deep_check": "Ask yourself about a belief you hold with high confidence: Have you ever seriously engaged with the best arguments against it? If not — have you been appropriately moved by reasons, or merely unmoved by arguments you haven't sought out? The Critical Spirit demands proactive engagement with disconfirming evidence, not just openness to it if it arrives."
+  },
+  "app_usage": {
+    "primary_use": "Foundation for understanding why both skill and disposition are necessary for genuine critical thinking",
+    "exercise_integration": "Siegel's framework underpins all disposition-focused exercises in the app. The distinction between Reason Assessment and Critical Spirit provides a diagnostic lens for understanding why skilled reasoners sometimes fail to reason critically.",
+    "cross_reference": "Compare with CCTDI (dispositional measurement), Paul-Elder Intellectual Traits (character development), and Delphi Report (both skills and dispositions).",
+    "key_insight_for_learners": "Ask yourself: when you encounter evidence that challenges your beliefs, do you genuinely engage with it — or do you look for ways to dismiss it? The answer reveals which component you need to develop."
+  }
+}

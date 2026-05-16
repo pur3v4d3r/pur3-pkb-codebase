@@ -1667,7 +1667,7 @@ cd "d:\10_pur3v4d3r's-vault\999-critical-thinking-app\dewey-ct\frontend"
 npm run dev
 
 Then open your browser and navigate to:
-http://localhost:3000
+http://localhost:3001
 
 
 
@@ -1675,7 +1675,23 @@ http://localhost:3000
 
 
 
+Whats next?
 
+Searched for text template_prefill\|related_worked_example_id\|related_practice_problems\|related_template_id (10_pur3v4d3r's-vault · 999-critical-thinking-app/dewey-ct/frontend/components), no results
+
+Searched for text related_worked_example_id (10_pur3v4d3r's-vault · 999-critical-thinking-app/dewey-ct/frontend), no results
+
+Read WorkedExampleCard.tsx
+
+WorkedExampleCard is clean — it already null-checks optional fields. The app should be fully functional now.
+
+The current state: all content is created, registered, and the only known crash (template_prefill undefined) is fixed. A few things you could tackle next:
+
+More content — you have frameworks not yet covered by worked examples (Socratic, Dual-Process, Walton, Mental Models, Brookfield only have practice problems, no companion worked examples)
+Filtering/search on listing pages — the practice problems and worked examples pages currently show everything; adding framework or difficulty filters would improve UX with 16+ items
+Progress tracking — the MarkReadButton component suggests some read-state tracking exists; you could extend it to practice problems
+Missing data/ canonical copies for PP-09–16 — the data/practice-problems/ directory doesn't exist yet; only frontend/public/data/ has those files
+Which direction interests you
 
 
 

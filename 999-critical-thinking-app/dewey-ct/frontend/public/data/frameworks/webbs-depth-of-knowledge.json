@@ -1,0 +1,178 @@
+{
+  "framework": "Webb's Depth of Knowledge (DOK)",
+  "author": "Norman Webb",
+  "year": 1997,
+  "key_works": ["Criteria for Alignment of Expectations and Assessments in Mathematics and Science Education (1997)"],
+  "type": "Assessment Alignment Framework / Cognitive Demand Classification",
+  "core_commitment": "DOK classifies the depth of thinking required by a task — the cognitive complexity of what a student must do — rather than classifying the cognitive process used to complete it.",
+  "description": "Norman Webb's Depth of Knowledge framework was developed to solve a specific practical problem: how to ensure that assessments actually measure the cognitive complexity intended by curriculum standards. Webb observed that the same Bloom's taxonomy verb — like 'analyze' or 'evaluate' — can describe tasks of radically different cognitive demand depending on how the task is structured. DOK shifts the unit of analysis from the verb to the task — forcing explicit attention to what students must actually do cognitively, not just what action word describes the task.",
+  "dewey_connection": "Webb's DOK aligns with Dewey's emphasis on the quality of the intellectual work involved in inquiry. Dewey distinguished between routine execution of established procedures (analogous to DOK 1-2) and genuine reflective inquiry involving novel problems and creative hypothesis formation (analogous to DOK 3-4). DOK gives educational practitioners a vocabulary for distinguishing these qualitatively different demands.",
+  "the_dok_insight": "A task requiring 'analysis' can range from DOK 1 (locate a specific piece of information in a text) to DOK 3 (analyze multiple texts to develop and support a novel interpretation). The Bloom's verb 'analyze' is the same in both cases; the cognitive demand is entirely different. DOK forces the question: what must the student actually do with their mind to complete this task?",
+  "four_dok_levels": [
+    {
+      "level": 1,
+      "name": "Recall and Reproduction",
+      "description": "Tasks requiring recall of facts, definitions, terms, or simple procedures. The answer is either right or wrong, and there is only one way to get it. Requires basic retrieval from memory or simple one-step execution of a learned procedure.",
+      "cognitive_demand": "Minimal — retrieval or single-step procedure execution",
+      "markers": [
+        "One correct answer",
+        "No decision required about how to approach",
+        "Direct recall or single application of a rule",
+        "Algorithmic with no ambiguity"
+      ],
+      "example_tasks": [
+        "Define 'inference'",
+        "List the three branches of government",
+        "Identify the main character in a story",
+        "Calculate the area of a rectangle using a given formula"
+      ],
+      "critical_thinking_relevance": "DOK 1 is below the threshold of critical thinking. It is a precondition — necessary background knowledge — but not CT itself."
+    },
+    {
+      "level": 2,
+      "name": "Skills and Concepts",
+      "description": "Tasks requiring use of information or conceptual knowledge. More than one step may be required, and some decisions about approach are involved. The student must apply conceptual knowledge to a situation, not just recall a fact.",
+      "cognitive_demand": "Moderate — applying conceptual knowledge with some procedural decision-making",
+      "markers": [
+        "Requires more than retrieval",
+        "Involves making decisions about how to approach",
+        "Two-step problems with a clear procedure available",
+        "Some interpretation required"
+      ],
+      "example_tasks": [
+        "Identify the main idea and supporting details of a passage",
+        "Summarize the key points of an argument",
+        "Classify examples of fallacies by type",
+        "Solve a multi-step word problem using known procedures"
+      ],
+      "critical_thinking_relevance": "DOK 2 marks the entry into skill application — using frameworks to interpret and analyze. Most basic CT exercises operate at this level."
+    },
+    {
+      "level": 3,
+      "name": "Strategic Thinking",
+      "description": "Tasks requiring reasoning, planning, and using evidence to support conclusions. Multiple valid approaches may exist. Abstract thinking is required. The student must go beyond application to construction — developing and justifying their own interpretation or solution.",
+      "cognitive_demand": "High — reasoning, evidence use, argument construction, strategic planning",
+      "markers": [
+        "Requires abstract thinking and reasoning",
+        "Multiple defensible approaches or answers",
+        "Must use evidence to support a conclusion",
+        "Involves planning or meta-reasoning about how to proceed",
+        "No obvious procedure to follow"
+      ],
+      "example_tasks": [
+        "Analyze an argument for logical validity and evaluate the quality of its evidence",
+        "Compare two competing explanations for a historical event using multiple sources",
+        "Develop a reasoned position on a contested ethical issue and support it with evidence",
+        "Identify unstated assumptions in an argument and assess their plausibility"
+      ],
+      "critical_thinking_relevance": "DOK 3 is where most substantive critical thinking occurs. Most advanced CT template exercises and argument analysis tasks should target this level."
+    },
+    {
+      "level": 4,
+      "name": "Extended Thinking",
+      "description": "Tasks requiring complex reasoning sustained over extended time, often involving multi-step investigation, synthesis across multiple sources, and application of findings to novel contexts. Transfer is built into the task structure. Cannot be completed in a single sitting.",
+      "cognitive_demand": "Very high — multi-step investigation, extended synthesis, original creation, cross-context transfer",
+      "markers": [
+        "Multi-step, complex reasoning over extended time",
+        "Requires synthesis across multiple sources or contexts",
+        "Involves planning, executing, and evaluating a multi-phase project",
+        "Transfer to novel contexts is a central requirement",
+        "Produces original analysis, argument, or solution"
+      ],
+      "example_tasks": [
+        "Conduct an original research investigation and synthesize findings into a written argument",
+        "Develop and defend a novel solution to a complex real-world problem using multiple frameworks",
+        "Analyze and synthesize the critical thinking frameworks in this course to develop your own integrated framework",
+        "Design and execute a multi-session inquiry project, applying CT skills across the entire process"
+      ],
+      "critical_thinking_relevance": "DOK 4 represents the highest aspiration of CT development — sustained, self-directed, transfer-capable reasoning. Portfolio projects and extended practice protocols operate at this level."
+    }
+  ],
+  "contrast_with_blooms": {
+    "key_difference": "Bloom's taxonomy classifies the cognitive process (Remember, Understand, Apply, Analyze, Evaluate, Create). DOK classifies the cognitive demand of the task. The same Bloom-level verb can span multiple DOK levels.",
+    "illustrative_example": {
+      "bloom_verb": "Analyze",
+      "dok_1_version": "In the following text, find and list the three stated supporting arguments. (DOK 1 — locate specific information)",
+      "dok_3_version": "Read these three opinion pieces and develop your own interpretation of the underlying value conflict they represent, supporting your interpretation with specific textual evidence. (DOK 3 — construct original interpretation from evidence)"
+    },
+    "implication": "Using Bloom's verbs alone does not guarantee cognitive demand alignment. DOK provides the additional specification needed to ensure assessment tasks actually test what they claim to test."
+  },
+  "instructional_implications": [
+    "Curriculum design should deliberately distribute tasks across DOK levels, with significant time at DOK 3",
+    "Assessments should be explicitly mapped to DOK levels to ensure alignment",
+    "DOK 4 tasks should be used sparingly but consistently — they require extended time and cannot be rushed",
+    "Students benefit from understanding DOK explicitly — knowing what level of thinking is expected helps them calibrate their effort"
+  ],
+  "common_misconceptions": [
+    {
+      "misconception": "Higher DOK levels are always better; DOK 1 and 2 are inferior.",
+      "correction": "Each DOK level has its place. DOK 1 knowledge is necessary background for DOK 3 reasoning. The problem is not DOK 1 itself but defaulting to it when DOK 3 is appropriate.",
+      "practical_implication": "Design instruction that builds from DOK 1 background knowledge toward DOK 3 strategic thinking, rather than treating DOK levels as independent choices."
+    },
+    {
+      "misconception": "Adding more steps or difficulty automatically raises the DOK level.",
+      "correction": "DOK is about cognitive demand, not task length or procedural complexity. A very long calculation with known algorithms is DOK 1. A short reasoning task with no clear procedure is DOK 3.",
+      "practical_implication": "Evaluate DOK level by asking: 'What kind of thinking does this task require?' not 'How much work does it require?'"
+    }
+  ],
+  "historical_origin": {
+    "founding_context": "Norman Webb developed Depth of Knowledge in 1997 at the Wisconsin Center for Education Research to solve a concrete alignment problem: how to verify that standardized assessments actually measured the cognitive complexity specified by curriculum standards. The framework emerged from Webb's alignment studies in mathematics and science education, commissioned as part of the national standards movement of the 1990s.",
+    "standards_movement_context": "The 1990s saw a rapid proliferation of state and national academic standards — documents that specified what students should know and be able to do at each grade level. Webb observed that the cognitive demand of the standards was often much higher than the cognitive demand of the assessments meant to measure those standards. A standard could specify 'strategic reasoning' while the assessment only asked for recall. DOK was developed to make this misalignment visible and correctable.",
+    "bloom_inadequacy": "Webb designed DOK explicitly because Bloom's taxonomy, though widely used for curriculum planning, was insufficient for alignment work. Bloom's classifies the cognitive process (what kind of mental act is performed). But the same Bloom-level verb can describe tasks of radically different cognitive demand. 'Analyze' can mean 'find the three stated arguments' (DOK 1) or 'synthesize multiple texts to construct a novel interpretive argument' (DOK 3). DOK shifts focus from the verb to the task: what must the student actually do cognitively?",
+    "adoption_and_spread": "DOK was rapidly adopted beyond its original mathematics and science context into English language arts, social studies, and general CT frameworks. It became especially prominent in curriculum design and instructional coaching following the federal No Child Left Behind Act (2001) and the Common Core State Standards Initiative (2009-2010), which required explicit attention to cognitive demand in assessments.",
+    "key_works_extended": [
+      "Webb, N.L. (1997). Criteria for Alignment of Expectations and Assessments in Mathematics and Science Education. CCSSI Research Monograph No. 6.",
+      "Webb, N.L. (1999). Alignment of Science and Mathematics Standards and Assessments in Four States. CCSSI Research Monograph No. 18.",
+      "Webb, N.L. (2002). 'Depth of Knowledge Levels for Four Content Areas.' Unpublished paper, Wisconsin Center for Education Research."
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "blooms_revised_taxonomy": "Bloom's classifies the cognitive process (Remember, Understand, Apply, Analyze, Evaluate, Create). DOK classifies the cognitive demand of the task itself — the depth of thinking required, independent of process label. They are complementary but answer different questions. A comprehensive curriculum design uses Bloom's to ensure all cognitive process types are covered and DOK to ensure appropriate cognitive depth within each type. The same Bloom level can span multiple DOK levels: 'Analyze' at DOK 1 versus DOK 3.",
+    "solo_taxonomy": "SOLO (Structure of the Observed Learning Outcome) classifies the complexity of a learner's response to a task — the structural quality of the student's output. DOK classifies the task itself. SOLO describes where the student is; DOK describes where the task is asking them to go. Both taxonomies are needed: SOLO diagnoses learner response quality; DOK specifies task design targets.",
+    "ennis_twelve_abilities": "Most of Ennis's twelve CT abilities operate at DOK 3 (strategic thinking) when applied to genuine arguments. Basic application of a skill to a clear-cut example may be DOK 2. The ability to apply multiple abilities in an integrated, novel context is DOK 4. DOK provides a way to calibrate the cognitive demand of CT exercises that use Ennis's ability taxonomy as a classification system.",
+    "paul_elder": "Paul-Elder's Elements of Thought provide the content of what students analyze; DOK specifies the depth at which that analysis should operate. Working through the elements at DOK 2 means applying the framework to a straightforward example. Working at DOK 3 means using the elements to construct an original, evidence-supported interpretation. DOK gives Paul-Elder exercises a demand specification.",
+    "dewey_five_phases": "Dewey's Phase 5 (Testing) corresponds to DOK 3-4: genuine testing of a hypothesis against evidence requires strategic thinking and often extended investigation. Phases 1-2 (Perplexity and Intellectualization) can occur at DOK 2. Phase 3 (Hypothesis Formation) should target DOK 3. This mapping helps instructors ensure that Dewey-structured inquiry reaches genuine cognitive depth."
+  },
+  "teaching_applications": {
+    "instructional_design_principle": "The fundamental DOK instructional principle is: identify the DOK level at which learners are currently being asked to think, then design tasks that require genuinely higher cognitive demand. Most classroom tasks default to DOK 1-2. The goal is to systematically raise floor-level tasks to DOK 3.",
+    "task_design_by_level": [
+      {
+        "level": "DOK 1 → DOK 2 upgrade",
+        "before": "Define 'confirmation bias.'",
+        "after": "Identify an example of confirmation bias in the following argument and explain specifically how it operates.",
+        "principle": "Moving from recall to concept application in a specific context"
+      },
+      {
+        "level": "DOK 2 → DOK 3 upgrade",
+        "before": "Identify the fallacy in the following argument.",
+        "after": "Analyze this argument for reasoning errors, evaluate the strength of the evidence, and develop a revised argument that avoids the identified problems.",
+        "principle": "Moving from application to construction: the student must reason strategically and produce an original output"
+      },
+      {
+        "level": "DOK 3 → DOK 4 upgrade",
+        "before": "Analyze three sources on climate policy for argument quality.",
+        "after": "Conduct a multi-session investigation comparing the argumentation quality across six sources representing different stakeholder positions. Synthesize findings into an original analysis paper that evaluates the quality of the discourse as a whole and proposes criteria for better public reasoning on the topic.",
+        "principle": "Moving from single-session analysis to extended, multi-phase, transfer-requiring investigation"
+      }
+    ],
+    "questioning_strategies": [
+      {
+        "target_level": "DOK 3",
+        "question_stems": [
+          "What is your evidence for that interpretation?",
+          "What alternative interpretation of the same evidence is possible?",
+          "How would your conclusion change if one of your key assumptions were false?",
+          "What criteria are you using to evaluate this, and how did you decide those criteria are appropriate?",
+          "What is the strongest objection to your position, and how do you respond to it?"
+        ]
+      }
+    ],
+    "assessment_alignment_protocol": "Before finalizing any assessment item: (1) State the DOK level you intend. (2) Ask: 'What must the student actually do cognitively to complete this?' (3) Verify the cognitive demand matches the intended level. (4) If the item can be completed by recall or simple procedure application, it is DOK 1-2 regardless of the verb used in the item stem."
+  },
+  "app_usage": {
+    "primary_use": "Framework for evaluating and designing practice exercises at appropriate cognitive demand levels",
+    "exercise_integration": "Practice problems in the app are tagged with DOK levels. DOK 3 is the target for most advanced CT exercises. The DOK framework helps learners understand what qualitatively different cognitive effort is required.",
+    "cross_reference": "Compare with Bloom's Revised Taxonomy (cognitive process classification) and SOLO Taxonomy (learner response complexity classification).",
+    "self_assessment_prompt": "Before beginning an exercise, identify its DOK level. After completing it, ask: did you actually engage at that level, or did you default to a lower level of cognitive demand?"
+  }
+}

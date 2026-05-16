@@ -1,0 +1,56 @@
+{
+  "id": "PP-09",
+  "pp_number": "PP-09",
+  "title": "\"Social media platforms must be legally liable for algorithmic radicalization\"",
+  "framework": "toulmin-argument",
+  "framework_label": "Toulmin Argument Model",
+  "object_type": "argument",
+  "difficulty": "medium",
+  "estimated_minutes": 30,
+  "related_worked_example_id": "WE-05",
+  "related_template_id": "argument-analysis-v1",
+  "tags": ["toulmin", "argument", "social-media", "law", "warrant", "qualifier", "section-230"],
+  "object_of_analysis": "\"Social media recommendation algorithms are directly responsible for radicalizing vulnerable young people. Platforms optimize for engagement, knowing that outrage and extremism drive clicks. They must be held legally liable for the harms their algorithmic amplification causes, just as broadcasters are held liable for incitement content they air.\"",
+  "context": "You are a policy analyst asked to evaluate this argument for legal liability of social media platforms for algorithmic-driven radicalization. The argument has been made by legislators and advocacy groups pushing for platform accountability legislation. Using the Toulmin model, map all six elements (Claim, Grounds, Warrant, Backing, Qualifier, Rebuttal) and assess the argument's structural strengths and weaknesses before reaching a verdict.",
+  "instructions": "Map the argument using all six Toulmin elements. For each element, (1) identify what the argument provides (or fails to provide), (2) assess its strength on a 1–5 scale, and (3) note the most important evaluative question. Pay special attention to the Warrant — the broadcaster analogy is the logical hinge of this entire argument. Is a recommendation algorithm more like a broadcaster or more like a telephone company? Conclude with a qualified revised version of the claim that the evidence can actually support.",
+  "workspace_prompts": {
+    "claim": "What exactly is claimed? Is it a prescriptive policy claim, a legal claim, or both? Note: 'legally liable' is doing heavy legal work — liable under what legal theory, in what jurisdiction, for what specific harm?",
+    "grounds": "What evidence does the argument provide for its empirical premises? The argument asserts that platforms 'know' that outrage and extremism drive engagement — what would count as evidence for that? What does the academic literature on algorithmic amplification actually show?",
+    "warrant": "The warrant is the broadcaster analogy: 'just as broadcasters are liable for incitement content.' What is the logical structure of this analogy? In what ways is a recommendation algorithm similar to a broadcaster? In what critical ways is it different? (Hint: broadcasters curate and choose what to air; algorithms amplify user-generated content — does this distinction matter legally and morally?)",
+    "backing": "What general principle justifies holding a party liable for harms caused by their technology? What broader legal or ethical frameworks (product liability, negligence, strict liability) support or undermine the warrant?",
+    "qualifier": "Under what conditions, for what specific types of content, at what threshold of demonstrable harm, and with what level of platform knowledge would this liability claim be defensible? The original claim is very broad — narrow it to what you can actually defend.",
+    "rebuttal": "The argument must address: (1) Section 230 of the Communications Decency Act (US) — designed specifically to protect platforms from liability for user-generated content; (2) the platform-as-infrastructure argument (algorithms organise content like a filing system, not like editorial curation); (3) the censorship risk — liability creates incentives to over-moderate and may cause platforms to remove controversial but legitimate speech."
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The Grounds problem: 'knowing' is a high legal bar",
+      "content": "The argument asserts that platforms 'know' that outrage and extremism drive engagement and cause harm. In legal contexts, 'knowing' implies a specific mental state — actual knowledge, not general awareness. What evidence would establish that platforms had specific knowledge of specific harms, rather than general awareness that engagement metrics favour emotionally charged content? Internal documents (e.g., the Facebook Papers) are sometimes cited — but even those show internal concern, not proven knowledge of causal harm to specific individuals."
+    },
+    {
+      "id": "hint-2",
+      "title": "The Warrant is the critical evaluation site — the broadcaster analogy",
+      "content": "The broadcaster analogy is more contested than it appears. Broadcasters make affirmative editorial choices about what content to air — they are responsible because they choose. Recommendation algorithms do not create content; they rank and surface content that users created and other users engaged with. The legal distinction between 'publisher' (liable for content) and 'distributor' (not liable) turns on editorial control. Does algorithmic ranking constitute editorial control? This is exactly the dispute that Section 230 was designed to resolve, and it resolved it in favour of 'no liability.' If you accept the broadcaster analogy, you implicitly claim the legal settlement was wrong."
+    },
+    {
+      "id": "hint-3",
+      "title": "The Qualifier is where this argument can be rescued",
+      "content": "The broad claim ('must be legally liable') can be made defensible by a careful qualifier that specifies: (1) the type of content (meeting the legal definition of incitement or terrorist content, not merely controversial speech); (2) the nature of platform behaviour (algorithms that demonstrably amplify content after receiving legal take-down notices, not mere passive ranking); (3) the jurisdictional framework (EU Digital Services Act has moved in this direction with risk-assessment obligations); (4) the remedy (duty of care / reasonable due diligence, not strict liability for all algorithmic outputs)."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "CLAIM: Prescriptive and legal — platforms should face civil liability for harms caused by algorithmic amplification of radicalizing content. The word 'must' implies a strong, unconditional claim that requires careful qualification.",
+      "GROUNDS WEAKNESS: The argument asserts platforms 'know' that extremism drives engagement without citing specific evidence. The internal research documents that have been leaked (Facebook Papers, YouTube internal studies) show that platform engineers raised concerns about radicalisation effects — but 'internal concern' is different from established causal evidence of harm to specific users.",
+      "WARRANT IS THE KEY EVALUATION SITE: The broadcaster analogy claims that recommendation = editorial curation = responsibility. The counter-argument: broadcasters affirmatively select content; algorithms rank user-generated content by engagement signals. This is the difference between a newspaper editor choosing what to publish and a search engine ranking what users wrote. Both shape what people see, but the nature of agency differs. US law (Section 230) and EU law (Digital Services Act) have taken different positions on exactly this distinction.",
+      "QUALIFIER MUST DO HEAVY LIFTING: The defensible version is not 'all algorithmic amplification creates liability' but something like: 'Platforms that demonstrably amplify content meeting the legal definition of incitement or terrorist recruitment, after receiving notice of the content, should face a duty-of-care obligation with proportionate consequences for systematic failure to respond.' This is closer to what the EU's Digital Services Act Article 34-35 actually implements.",
+      "REBUTTAL IS STRONGER THAN THE ARGUMENT ACKNOWLEDGES: Section 230 immunity is not incidental — it was designed to enable platforms to moderate without becoming legally exposed. Removing it has contested second-order effects: over-moderation (platforms remove marginal content to avoid liability), reduced moderation (platforms do nothing to avoid 'publisher' classification), or migration to less-regulated platforms."
+    ],
+    "revised_position": "Platforms that receive specific notice of content meeting the legal definition of incitement or terrorist recruitment, and whose recommendation algorithms demonstrably continue to amplify that content, should face a duty-of-care obligation with proportionate legal consequences for systematic failure. This is a narrower and more defensible claim than 'all algorithmic amplification creates liability.' The broadcaster analogy applies in limited form to this subset of cases."
+  },
+  "template_prefill": {
+    "template_id": "argument-analysis-v1",
+    "subject_value": "Social media platforms should be legally liable for algorithmic radicalization",
+    "context_note": "Policy argument for platform accountability legislation — evaluate using Toulmin model with focus on the broadcaster analogy warrant."
+  }
+}

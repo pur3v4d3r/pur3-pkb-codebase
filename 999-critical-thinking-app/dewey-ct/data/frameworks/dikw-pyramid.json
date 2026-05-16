@@ -1,0 +1,140 @@
+{
+  "framework": "DIKW Pyramid",
+  "full_name": "Data-Information-Knowledge-Wisdom Hierarchy",
+  "origin": "Russell Ackoff",
+  "year": 1989,
+  "key_works": [
+    "From Data to Wisdom (1989, Journal of Applied Systems Analysis, Ackoff)"
+  ],
+  "type": "Epistemological Hierarchy / Knowledge Architecture",
+  "distinctive_feature": "Distinguishes four qualitatively different levels of what we conventionally call 'knowing,' showing that data and information are preconditions for but not identical to knowledge and wisdom.",
+  "description": "The DIKW Pyramid is an epistemological framework that characterizes four qualitatively different kinds of intellectual content. Its core insight is that 'data,' 'information,' 'knowledge,' and 'wisdom' are not synonyms and not points on a single continuum — they are fundamentally different types of content, each requiring different processing to produce from the previous level. The pyramid has become foundational in information science, knowledge management, and AI, but its epistemological implications for critical thinking are underutilized. Critical thinking operates primarily at the transitions between levels — converting raw data to meaningful information, information to understood knowledge, and knowledge to wisdom-guided action.",
+  "dewey_connection": "The DIKW hierarchy maps onto Dewey's account of the relationship between perception, interpretation, and judgment. Raw data corresponds to Dewey's 'given' — the uninterpreted perceptual material. Information corresponds to interpretation — giving data meaning within a framework. Knowledge corresponds to Dewey's 'understanding' — the reconstruction of experience that enables prediction and generalization. Wisdom corresponds to Dewey's practical judgment — the capacity to act rightly in novel situations drawing on reconstructed understanding.",
+  "four_levels": [
+    {
+      "level": 1,
+      "name": "Data",
+      "description": "Raw, uninterpreted signals, measurements, observations, or facts. Data is what is given before any interpretive framework is applied. It is the basic material from which all higher levels are constructed.",
+      "epistemological_status": "Pre-interpretive — data has no inherent meaning; it is the raw material for meaning-making",
+      "characteristics": [
+        "Discrete, unconnected facts or measurements",
+        "No context that explains significance",
+        "Cannot answer 'why' or 'what does this mean'",
+        "Exists independently of any purpose or question"
+      ],
+      "examples": [
+        "348 (a number without context)",
+        "Temperature: 38.4°C (a measurement)",
+        "A list of student test scores",
+        "The word 'bank' without context"
+      ],
+      "transition_requirement": "Data becomes information when context is added — when we know what the measurement refers to, why it matters, and how it compares to a reference point.",
+      "critical_thinking_role": "CT at this level involves critically examining data collection: Is this data representative? Is the measurement valid? Are there missing data points that would change the picture?"
+    },
+    {
+      "level": 2,
+      "name": "Information",
+      "description": "Data that has been organized, structured, or placed in context to give it meaning. Information answers the question 'what?' — it tells us facts about a situation. But it does not yet explain why or predict what will happen.",
+      "epistemological_status": "Interpreted data — data with context, relationships, and meaning assigned",
+      "characteristics": [
+        "Data organized to answer specific questions",
+        "Context that makes data meaningful",
+        "Can answer 'what?' questions",
+        "Has structure — relationships between data points"
+      ],
+      "examples": [
+        "Average student test score in the class is 72% (data in educational context)",
+        "The temperature 38.4°C is a fever (data with clinical meaning and reference standard)",
+        "348 new cases were reported today compared to 290 yesterday (temporal context and comparison)"
+      ],
+      "transition_requirement": "Information becomes knowledge when we understand the patterns, relationships, and principles that explain why information is as it is and enable prediction.",
+      "critical_thinking_role": "CT at this level involves critically evaluating interpretation: Is this context accurate? Are these the right comparisons? Could this information be misleading by omitting context?"
+    },
+    {
+      "level": 3,
+      "name": "Knowledge",
+      "description": "Information that has been integrated into an understanding of patterns, principles, and relationships that enables prediction, generalization, and application to new cases. Knowledge answers 'how?' and 'why?' — it provides the explanatory framework within which information makes sense.",
+      "epistemological_status": "Systematized understanding — integrated patterns and principles derived from and explaining information",
+      "characteristics": [
+        "Enables prediction beyond current observations",
+        "Provides explanatory framework for information",
+        "Transferable to new situations",
+        "Answers 'why is this the case?'"
+      ],
+      "examples": [
+        "Understanding of learning theory that explains why average scores dropped after curriculum change",
+        "Clinical knowledge of disease progression that interprets fever as symptom of specific condition",
+        "Epidemiological knowledge that explains why case count follows observed trajectory"
+      ],
+      "transition_requirement": "Knowledge becomes wisdom when integrated with values, judgment, and the capacity to act appropriately in complex, unique situations that don't fit established patterns.",
+      "critical_thinking_role": "CT at this level involves critically evaluating understanding: Do I understand the causal mechanisms, or only the correlation? Are there alternative explanations for this pattern? Does this knowledge transfer to this specific case?"
+    },
+    {
+      "level": 4,
+      "name": "Wisdom",
+      "description": "The capacity to apply knowledge with sound judgment in unique, complex situations — integrating values, context, long-term consequences, and practical constraints into well-reasoned action. Wisdom answers 'what should I do?' — it guides the application of knowledge to life.",
+      "epistemological_status": "Practical judgment — knowledge integrated with values, context, and the capacity for sound decision in unique situations",
+      "characteristics": [
+        "Context-sensitive application of knowledge",
+        "Integrates values and ethical considerations",
+        "Operates well in novel situations not covered by existing knowledge",
+        "Long-term and systemic perspective",
+        "Tolerates genuine uncertainty without paralysis"
+      ],
+      "examples": [
+        "The educational leader who understands both learning theory and this specific school community, and can judge which interventions will actually work here",
+        "The clinician who integrates medical knowledge with understanding of this specific patient's life situation to make the right recommendation",
+        "The policy analyst who can judge when established causal models don't apply to this unique situation"
+      ],
+      "critical_thinking_role": "CT at this level involves questioning one's own wisdom: Am I making this judgment on the basis of understood knowledge or merely confident intuition? Am I adequately accounting for this situation's uniqueness? What are the values I'm prioritizing, and are they the right ones?"
+    }
+  ],
+  "ct_at_the_transitions": {
+    "description": "Critical thinking operates most decisively at the transitions between DIKW levels — where raw material is being converted into something more meaningful and complex.",
+    "data_to_information": {
+      "transition_name": "Interpretation",
+      "ct_activities": [
+        "Questioning whether the data has been collected representatively and without selection bias",
+        "Evaluating whether the context applied to data is accurate and appropriate",
+        "Checking whether comparisons used to give data meaning are valid",
+        "Identifying what data is missing that would change the interpretation"
+      ]
+    },
+    "information_to_knowledge": {
+      "transition_name": "Pattern Recognition and Explanation",
+      "ct_activities": [
+        "Evaluating whether the pattern inferred from information is reliable or an artifact",
+        "Checking alternative explanations for the pattern",
+        "Testing whether the inferred principle generalizes to new cases",
+        "Distinguishing correlation from causation in identified patterns"
+      ]
+    },
+    "knowledge_to_wisdom": {
+      "transition_name": "Application and Judgment",
+      "ct_activities": [
+        "Evaluating whether this situation is genuinely similar enough to known cases for established knowledge to apply",
+        "Identifying the values and ethical considerations at stake in the decision",
+        "Assessing what the long-term and systemic consequences of different choices are",
+        "Recognizing the limits of one's own knowledge and judgment"
+      ]
+    }
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "More data leads automatically to better knowledge.",
+      "correction": "Data does not become knowledge through accumulation alone. The transitions require active processing — interpretation, pattern recognition, judgment. More data can paradoxically decrease knowledge quality if it creates information overload without better interpretive frameworks.",
+      "practical_implication": "In data-rich environments, the bottleneck is not data acquisition but interpretive quality — the ability to extract meaningful information and reliable knowledge from the available data."
+    },
+    {
+      "misconception": "Knowledge is the highest level — wisdom is just more knowledge.",
+      "correction": "Wisdom is qualitatively different from knowledge. It involves judgment under genuine uncertainty, context-sensitive application, value integration, and action — none of which are merely more knowledge. An expert with vast knowledge can still lack wisdom in applying it.",
+      "practical_implication": "Wisdom development requires experience, reflection, and the cultivation of judgment — not just more information acquisition. This is why CT education must include practice in complex judgment, not only skill instruction."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Epistemological framework for understanding what kind of 'knowing' is at stake in different CT tasks",
+    "exercise_integration": "DIKW levels provide a vocabulary for distinguishing different kinds of cognitive content in practice exercises. The 'Knowledge to Wisdom' transition maps directly onto the app's highest-level practice tasks.",
+    "cross_reference": "Compare with SOLO Taxonomy (response complexity paralleling DIKW levels), Marzano New Taxonomy (cognitive system processing paralleling DIKW transitions), Webb's DOK (cognitive demand at different DIKW levels).",
+    "key_insight_for_learners": "When you feel like you 'know' something, ask which DIKW level your knowledge occupies. Do you have data? Information? Genuine understanding of patterns and principles? Or the wisdom to apply that understanding soundly in this specific situation? The difference matters enormously for action quality."
+  }
+}

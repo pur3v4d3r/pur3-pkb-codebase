@@ -1,0 +1,58 @@
+{
+  "id": "PP-11",
+  "pp_number": "PP-11",
+  "title": "\"Modern societies are fundamentally meritocratic\"",
+  "framework": "browne-keeley",
+  "framework_label": "Browne-Keeley 10 Questions",
+  "object_type": "argument",
+  "difficulty": "medium",
+  "estimated_minutes": 25,
+  "related_worked_example_id": "WE-07",
+  "related_template_id": "argument-analysis-v1",
+  "tags": ["browne-keeley", "argument", "meritocracy", "social-policy", "evidence-evaluation", "descriptive-vs-normative"],
+  "object_of_analysis": "\"Modern Western societies are fundamentally meritocratic. Success and economic reward flow to those who work hardest and demonstrate the most ability and determination. Economic inequality therefore reflects real differences in individual contribution and capability. To redistribute wealth from the successful to the less successful is to punish merit and reward mediocrity.\"",
+  "context": "You encounter this argument in an online policy debate about taxation and social welfare. The speaker presents meritocracy as both a factual description of how society works and a moral justification for economic inequality. Apply Browne-Keeley's 10 questions to evaluate the argument systematically. You do not need to complete all 10 questions in equal depth — focus your analytical energy on the questions that do the most critical work for this specific argument.",
+  "instructions": "Work through the Browne-Keeley 10 questions for this argument. You may vary the depth of analysis per question based on how much critical leverage each question gives you for this specific argument. Questions 1, 4, 5, 7, and 8 will do the most work here — spend more time on these. For each question, write a brief answer and note what you discovered. Conclude with Question 10: what is the appropriate conclusion that the evidence and logic can actually support?",
+  "workspace_prompts": {
+    "q1_issue": "What kind of claim is this — descriptive (how society is) or normative (how society should be, or what is morally justified)? Notice that the argument makes both kinds of claims. What are the descriptive claim(s) and the normative claim(s)? Why does this distinction matter for evaluating the argument?",
+    "q2_conclusion": "Identify the main conclusion. Is it a factual claim ('societies are meritocratic'), a value claim ('meritocracy is fair'), or a policy claim ('redistribution is wrong')? How many distinct conclusions are being advanced simultaneously?",
+    "q3_reasons": "What reasons does the argument give for its claims? List them explicitly. Note: some reasons are empirical (factual) and some are definitional or value-based.",
+    "q4_ambiguity": "What does 'meritocracy' mean? Who defines merit? Is merit effort, talent, output, value created, or some combination? Who measures it and how? Also: is the claim 'societies ARE meritocratic' (descriptive) or 'merit IS what determines outcomes' (definitional by assumption)?",
+    "q5_assumptions": "What does the argument assume about the relationship between individual effort/ability and economic outcomes? What does it assume about the role of circumstances of birth, inherited wealth, educational access, and social connections in determining outcomes? Are these assumptions stated or hidden?",
+    "q7_evidence": "What evidence would test the claim that 'success flows to those who work hardest and show the most ability'? What does the empirical literature on intergenerational social mobility and economic inequality actually show? Does birth circumstance predict economic outcome more or less than individual effort?",
+    "q8_alternatives": "What alternative explanations exist for the pattern of economic outcomes in Western societies? Consider structural explanations: credential gatekeeping, network effects, inherited wealth compounding, differential access to quality education, and employer/institutional bias.",
+    "q10_conclusion": "Given what you found in questions 1, 4, 5, 7, and 8 — what conclusion is actually supported? What version of the meritocracy argument, if any, survives critical scrutiny?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Q1 is doing more work than it appears",
+      "content": "This argument slides between a descriptive claim (societies ARE meritocratic — a testable empirical claim) and a normative/definitional claim (meritocracy IS fair — a value claim). These are being treated as one argument, but they are actually two separate claims that require separate evaluation. The descriptive claim can be tested with mobility data. The normative claim requires philosophical argument about what 'merit' means and whether it justifies inequality. Pull these apart."
+    },
+    {
+      "id": "hint-2",
+      "title": "The empirical data on Q7",
+      "content": "The empirical literature on intergenerational social mobility consistently finds that birth circumstances are among the strongest predictors of economic outcomes. OECD mobility studies show that in most Western countries, approximately 40–50% of an individual's earnings advantage or disadvantage is inherited from parents. In the US and UK, social mobility is lower than in Denmark or Sweden. This does not mean effort has no effect — it means that the argument's claim that 'success flows to those who work hardest' is a significant empirical overstatement."
+    },
+    {
+      "id": "hint-3",
+      "title": "Q4: The circular definition problem",
+      "content": "There is a subtle circularity risk in how 'merit' is defined in this argument. If merit is defined as 'whatever the market rewards,' then the claim 'markets reward merit' is definitionally true but tells us nothing. If merit is defined independently (e.g., as effort, moral desert, contribution to social welfare), then the claim 'markets reward merit' is an empirical claim that can be tested and may fail. Ask: how does the argument define merit, and is that definition doing circular work?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "Q1 — DESCRIPTIVE-NORMATIVE CONFLATION: The argument contains two separate claims: (1) 'societies ARE meritocratic' — a descriptive/empirical claim; and (2) 'redistribution punishes merit' — a normative/policy claim. The argument treats these as mutually supporting, but they require independent evaluation. Even if societies were meritocratic (empirical claim), it would not automatically follow that current inequality is morally just (normative claim). Even if inequality is sometimes unfair (normative), it doesn't follow that redistribution is the best remedy.",
+      "Q4 — AMBIGUITY IN 'MERIT': 'Merit' is undefined. The argument uses it to mean something like 'hard work + ability + determination,' but economic outcomes are also significantly determined by market demand (a programmer's skills are worth more in 2024 than in 1980 — did their 'merit' change?), timing, luck, and circumstances of birth. If 'merit' is defined as 'whatever the market rewards,' the claim 'markets reward merit' becomes circular and uninformative.",
+      "Q5 — HIDDEN DESCRIPTIVE ASSUMPTION: The argument assumes that inherited advantages (wealth, social connections, quality of schooling, cultural capital) do not significantly predict economic outcomes. This is the key hidden premise — and it is empirically false. Intergenerational mobility data (OECD 2018, Chetty et al. 2019) shows birth circumstances account for a substantial proportion of economic outcome variance.",
+      "Q7 — EVIDENCE DIRECTLY CONTRADICTS THE CLAIM: OECD studies find that in the US and UK, approximately 40–50% of the earnings advantage or disadvantage of parents is transmitted to children. 'Great Gatsby Curve' research (Miles Corak) shows that countries with higher inequality also have lower intergenerational mobility — the opposite of what a meritocracy thesis would predict. These findings do not show effort has no effect, but they show the claim 'success flows to those who work hardest' is a strong empirical overstatement.",
+      "Q8 — ALTERNATIVE EXPLANATIONS: Structural factors provide plausible alternative explanations for the distribution of economic outcomes: (1) network effects — many high-paying jobs are filled through social networks, not open competition; (2) credential gatekeeping — access to high-status credentials depends on access to quality education, which is unequally distributed; (3) inherited wealth compounding — capital generates returns, so inherited wealth grows regardless of the heir's effort; (4) employer bias — extensive research documents that identical CVs receive differential callback rates based on names, addresses, and school names."
+    ],
+    "revised_position": "A defensible version of the meritocratic argument would say: 'In Western societies, individual effort and ability do influence economic outcomes at the margin, and societies that create more pathways for talent to overcome circumstance of birth tend to be both more productive and more widely regarded as fair. Current levels of inequality in the US and UK are not, however, well-explained by the hypothesis that outcomes track merit alone — the empirical evidence points to substantial intergenerational advantage transmission. The policy question is not whether to have any meritocratic incentives, but how much to invest in levelling the starting conditions (education, healthcare, early childhood) so that the meritocratic competition operates on a less tilted playing field.'"
+  },
+  "template_prefill": {
+    "template_id": "argument-analysis-v1",
+    "subject_value": "Modern societies are fundamentally meritocratic",
+    "context_note": "Apply Browne-Keeley 10 questions — focus on Q1 (descriptive vs. normative), Q4 (ambiguity of 'merit'), Q5 (hidden assumptions about inherited advantage), Q7 (social mobility evidence), and Q8 (structural alternatives)."
+  }
+}

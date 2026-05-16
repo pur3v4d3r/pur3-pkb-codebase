@@ -50,12 +50,14 @@ export default function PracticeProblemCard({ pp }: Props) {
         >
           View Problem
         </Link>
-        <Link
-          href={`/templates/${pp.template_prefill.template_id}?context=${pp.id}`}
-          className="rounded-md bg-slate-900 px-3 py-1.5 text-center text-xs font-medium text-white transition hover:bg-slate-700"
-        >
-          Open in Template →
-        </Link>
+        {pp.template_prefill && (
+          <Link
+            href={`/templates/${pp.template_prefill.template_id}?context=${pp.id}`}
+            className="rounded-md bg-slate-900 px-3 py-1.5 text-center text-xs font-medium text-white transition hover:bg-slate-700"
+          >
+            Open in Template →
+          </Link>
+        )}
       </div>
     </div>
   );

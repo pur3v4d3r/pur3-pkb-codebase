@@ -1,0 +1,163 @@
+{
+  "framework": "Lipman's Philosophy for Children and Community of Inquiry",
+  "author": "Matthew Lipman",
+  "year": 1969,
+  "key_works": [
+    "Harry Stottlemeier's Discovery (1969, first P4C novel)",
+    "Philosophy in the Classroom (1980, with Sharp and Oscanyan)",
+    "Thinking in Education (1991, 2nd ed. 2003)"
+  ],
+  "type": "Pedagogy for Critical Thinking Development / Educational Philosophy",
+  "distinctive_feature": "Conceives critical thinking as multidimensional — integrating Critical, Creative, and Caring thinking — and proposes the Community of Inquiry as the primary pedagogical context for developing all three.",
+  "description": "Matthew Lipman founded Philosophy for Children (P4C) after observing that his Columbia University students lacked basic reasoning skills and asked whether earlier philosophical education might have helped. He developed a curriculum using philosophical novels written for children, combined with a pedagogical structure he called the Community of Inquiry — a collaborative, dialogic approach to reasoning together in community. Lipman's most significant theoretical contribution was the multidimensional account of thinking: insisting that genuine critical thinking cannot be separated from creative thinking (generating possibilities) or caring thinking (attending to values and relationships). A thinker who is critical but not caring produces technically correct but ethically impoverished conclusions. A thinker who is critical but not creative produces analysis without generative insight.",
+  "dewey_connection": "Lipman's Community of Inquiry is a direct application of Dewey's conception of inquiry — Dewey himself used the phrase 'community of inquiry' drawn from Charles Peirce. Lipman operationalized Dewey's insight that thinking is fundamentally social and dialogic, that genuine inquiry requires collaborative testing of ideas against other perspectives, and that the classroom should function as a laboratory of shared intellectual activity.",
+  "multidimensional_thinking": {
+    "description": "Lipman's central theoretical claim is that thinking is not a single thing but three interpenetrating modes that must be integrated for genuine excellence.",
+    "three_dimensions": [
+      {
+        "dimension": "Critical Thinking",
+        "description": "Reasoning oriented toward truth — concerned with validity, accuracy, relevance, sufficiency of evidence, and logical soundness.",
+        "core_question": "Is this true? Is this well-justified? Does this follow?",
+        "characteristic_activities": [
+          "Identifying and evaluating arguments",
+          "Applying intellectual standards",
+          "Detecting fallacies and errors in reasoning",
+          "Distinguishing facts from interpretations from value claims"
+        ],
+        "deficit_in_isolation": "Purely critical thinking without creativity generates only analysis — it can evaluate but not generate. Without caring, it produces technically correct reasoning that ignores human stakes."
+      },
+      {
+        "dimension": "Creative Thinking",
+        "description": "Reasoning oriented toward possibility — concerned with generating novel ideas, making unusual connections, imagining alternatives, and exploring beyond the given.",
+        "core_question": "What else could this be? What haven't we considered? How might this be different?",
+        "characteristic_activities": [
+          "Generating hypotheses and alternatives",
+          "Making novel analogies and connections across domains",
+          "Imagining possibilities beyond the actual",
+          "Finding new framings for old problems"
+        ],
+        "deficit_in_isolation": "Purely creative thinking without critical evaluation generates ideas without discrimination — novelty without quality assessment. Without caring, it generates possibilities without asking which ones matter."
+      },
+      {
+        "dimension": "Caring Thinking",
+        "description": "Reasoning oriented toward value — concerned with what matters, what should be attended to, and the relational and ethical dimensions of inquiry.",
+        "core_question": "What matters here? Whose interests are affected? What do we owe to each other in this inquiry?",
+        "characteristic_activities": [
+          "Attending to the values at stake in a question",
+          "Taking seriously the perspectives of those affected",
+          "Recognizing when a question has ethical dimensions",
+          "Maintaining empathetic engagement with others' reasoning"
+        ],
+        "deficit_in_isolation": "Purely caring thinking without critical and creative dimensions produces empathy without analytical rigor — good intentions without reliable means of assessing truth or generating effective responses."
+      }
+    ],
+    "integration": "The multidimensional thinker moves fluidly between all three modes — applying critical standards, generating creative alternatives, and attending to caring dimensions — in response to the demands of the inquiry. Excellence requires all three in coordination."
+  },
+  "community_of_inquiry": {
+    "description": "The Community of Inquiry (CoI) is Lipman's primary pedagogical innovation — a structured collaborative practice for developing thinking through dialogue.",
+    "core_characteristics": [
+      {
+        "characteristic": "Cumulative Dialogue",
+        "description": "Each contribution builds on previous contributions — participants listen, acknowledge, challenge, and develop what others have said rather than merely adding independent monologues.",
+        "educational_function": "Develops the intellectual discipline of genuinely engaging with others' reasoning rather than merely waiting to speak"
+      },
+      {
+        "characteristic": "Productive Disagreement",
+        "description": "Disagreement is welcomed and productively engaged — when participants disagree, they reason together about the source and implications of the disagreement.",
+        "educational_function": "Develops intellectual courage, open-mindedness, and the ability to distinguish substantive from merely social disagreement"
+      },
+      {
+        "characteristic": "Public Reasoning",
+        "description": "Participants make their reasoning explicit and available for communal inspection — not just stating conclusions but explaining why.",
+        "educational_function": "Develops the metacognitive capacity to make one's reasoning transparent and to submit it to communal standards"
+      },
+      {
+        "characteristic": "Collective Self-Correction",
+        "description": "The community treats its own previous conclusions as revisable — previous agreement is not immune to challenge; the community holds itself to ongoing critical scrutiny.",
+        "educational_function": "Develops intellectual humility and the practice of revising in light of better arguments"
+      },
+      {
+        "characteristic": "Teacher as Co-Inquirer",
+        "description": "The teacher participates as a thoughtful member of the inquiry, not as the authority whose conclusions the class is expected to reach.",
+        "educational_function": "Models intellectual humility, prevents premature closure, creates genuine inquiry rather than guided discovery"
+      }
+    ],
+    "physical_arrangement": "CoI sessions typically arrange participants in a circle to facilitate eye contact and direct engagement. The physical arrangement signals the epistemological structure: no single authority position, shared inquiry space."
+  },
+  "philosophy_for_children": {
+    "description": "P4C is the curriculum program Lipman developed to implement CoI in K-12 education.",
+    "approach": "Philosophical novels in which characters grapple with genuine philosophical questions serve as the starting text. Students identify perplexing questions within the texts, which become the starting points for communal inquiry.",
+    "age_range": "Designed for K-12, with different novels for different developmental levels",
+    "key_insight": "Children are natural philosophers — they ask 'why' relentlessly, are genuinely perplexed by deep questions, and have not yet been socialized to suppress philosophical puzzlement. P4C cultivates rather than extinguishes this disposition."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "P4C is only suitable for children; adults engage in separate CT practices.",
+      "correction": "The Community of Inquiry model is age-independent. Lipman applied it with adults as well as children. The developmental claim is that habits of inquiry formed early are more robust — not that the practice is inherently childlike.",
+      "practical_implication": "Any learning context — including this app — can apply CoI principles: seeking good questions to inquire about, building cumulatively, welcoming productive disagreement, making reasoning explicit."
+    },
+    {
+      "misconception": "Caring thinking is not really thinking — it's emotion.",
+      "correction": "Caring thinking is not emotion in contrast to reason — it is a mode of reasoning directed at what matters, what should be attended to, and the ethical dimensions of inquiry. It involves evaluative reasoning, not mere feeling.",
+      "practical_implication": "Good CT instruction must address caring thinking explicitly. A learner who is technically skilled at critical and creative thinking but cannot attend to the human stakes of an inquiry is missing a crucial dimension of CT competence."
+    }
+  ],
+  "historical_origin": {
+    "founding_moment": "Matthew Lipman founded Philosophy for Children (P4C) after a pivotal experience teaching logic at Columbia University in the late 1960s. Observing that his undergraduate students lacked basic reasoning skills — skills he believed could have been developed much earlier — he asked: what would philosophy look like if it started in elementary school? He wrote Harry Stottlemeier's Discovery (1969), a philosophical novel for children, as the first experimental text.",
+    "institutional_development": "In 1974, Lipman founded the Institute for the Advancement of Philosophy for Children (IAPC) at Montclair State University with Ann Sharp, his primary collaborator. The IAPC developed a full curriculum of philosophical novels (one per age range from K-12) and training materials for teachers. By the 1990s, P4C programs existed in over 60 countries.",
+    "peirce_and_dewey_lineage": "The phrase 'Community of Inquiry' was drawn by Lipman from Charles Peirce, who used it to describe the self-correcting, collaborative nature of scientific inquiry. Lipman combined Peirce's community-of-inquiry model with Dewey's theory of reflective thinking and George Herbert Mead's social theory of mind to produce a pedagogical model grounded in three major American pragmatist thinkers.",
+    "multidimensional_thinking_genesis": "The three-mode account — Critical, Creative, and Caring thinking — was developed by Lipman and Sharp in the 1990s as a direct response to critiques that P4C focused too narrowly on logical analysis. Sharp in particular was instrumental in articulating the Caring dimension, drawing on feminist philosophy of care and Lipman's emerging account of the relational and ethical dimensions of inquiry.",
+    "global_spread": "P4C spread internationally under the UNESCO program and through Lipman's International Council of Philosophical Inquiry with Children (ICPIC, founded 1985). National adaptations developed in Australia (Philosophy for Kids), UK (Thinking Together, P4C Wales), Brazil, South Korea, and numerous other countries — each adapting the core CoI methodology to local educational and cultural contexts.",
+    "key_works_extended": [
+      "Harry Stottlemeier's Discovery (1969, first P4C novel)",
+      "Philosophy in the Classroom (1980, with Sharp and Oscanyan)",
+      "Thinking in Education (1991, 2nd ed. 2003) — the major theoretical work",
+      "Sharp, A.M. (ed.) — Growing Up with Philosophy (1978)",
+      "Sharp, A.M. — 'Peirce, Feminism and Philosophy for Children' (1994)"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "dewey_five_phases": "Lipman is the most direct pedagogical application of Dewey's account of reflective inquiry. Where Dewey described the five phases of individual reflective thinking, Lipman operationalized inquiry as a social, dialogic process. The CoI is Dewey's laboratory school model made explicit: the classroom is a community of co-inquirers, and the teacher's role is to engineer genuine perplexity, not to transmit conclusions.",
+    "socratic_questioning": "P4C's CoI implements Socratic dialogue as a pedagogical structure. The teacher's role in CoI is Socratic: asking questions, not providing answers; following the inquiry where it leads, not toward predetermined conclusions. The key difference from traditional Socratic method is that in CoI, all participants — students as well as teacher — ask Socratic questions. The dialogue is genuinely mutual, not teacher-to-student.",
+    "paul_elder": "Both Lipman and Paul-Elder center CT education on intellectual virtues and the development of intellectual character over time. Lipman's Critical Spirit corresponds to Paul-Elder's intellectual virtues (humility, courage, fair-mindedness). However, Lipman's distinctive contribution is the social and caring dimensions: Paul-Elder focuses primarily on the individual thinker's internal standards; Lipman insists that genuine thinking is inherently social and that care for the inquiry community is a constitutive dimension of good thinking.",
+    "siegel": "Siegel's Critical Spirit — the dispositional commitment to be moved by reasons — corresponds directly to Lipman's Critical Thinking dimension. Lipman adds two dimensions Siegel does not include: Creative Thinking (generative) and Caring Thinking (evaluative-relational). Lipman's framework is thus broader: it embeds Siegel's epistemic focus within a larger account of what excellent thinking involves.",
+    "brookfield": "Brookfield and Lipman share an emphasis on collaborative and social dimensions of CT development. Brookfield's Community of Practice parallels Lipman's Community of Inquiry, and both see critical reflection on assumptions as central. The key difference: Brookfield focuses on adult education and critical self-reflection; Lipman focuses on developmental education (K-12) and collaborative philosophical dialogue."
+  },
+  "teaching_applications": {
+    "coi_session_structure": "A standard P4C Community of Inquiry session follows a four-phase structure:",
+    "session_phases": [
+      {
+        "phase": 1,
+        "name": "Stimulus reading or presentation",
+        "description": "The class reads a philosophical text together (original P4C uses Lipman's philosophical novels; contemporary practice often uses picture books, poems, short videos, or philosophical thought experiments) or engages with a stimulus designed to generate perplexity.",
+        "role": "Creates shared experience and intellectual perplexity — Dewey's Phase 1 (Problematic Situation)"
+      },
+      {
+        "phase": 2,
+        "name": "Question generation",
+        "description": "Students individually or in small groups generate questions inspired by the stimulus. All questions are collected and displayed. The class then votes on or prioritizes which question to explore, choosing the one they find most philosophically interesting or personally puzzling.",
+        "role": "Develops intellectual agency — students own the inquiry. Corresponds to Dewey's Phase 2 (Intellectualization — defining the problem)"
+      },
+      {
+        "phase": 3,
+        "name": "Communal dialogue",
+        "description": "The class inquires together using the prioritized question as the starting point. The teacher facilitates without directing: asking clarifying questions, inviting reasons, surfacing disagreements, connecting contributions, but not providing answers. Participants respond to each other, not only to the teacher.",
+        "role": "The core CoI practice: cumulative dialogue, productive disagreement, public reasoning. Corresponds to Dewey's Phases 3-5."
+      },
+      {
+        "phase": 4,
+        "name": "Metacognitive reflection",
+        "description": "The session ends with reflection: What did we think better? What changed in our understanding? What question do we now want to pursue? This phase develops the intellectual habit of reviewing one's own thinking process — Dewey's metacognitive dimension and Lipman's self-correction principle.",
+        "role": "Consolidates learning and develops the habit of intellectual self-assessment"
+      }
+    ],
+    "three_mode_facilitation": "Effective CoI facilitation moves between all three thinking dimensions as the dialogue demands: Critical (Does that follow? What evidence supports that?), Creative (What else could explain this? What if the opposite were true?), Caring (Who is affected by this question? What matters most here? Whose perspective haven't we heard?).",
+    "facilitator_dispositions": "The most important facilitator disposition is genuine curiosity about the inquiry's outcome — the willingness to be surprised, to not know the answer before the dialogue begins. A facilitator who is guiding the class toward a predetermined conclusion is leading, not facilitating inquiry. The CoI model requires intellectual humility and genuine openness to where the dialogue leads."
+  },
+  "app_usage": {
+    "primary_use": "Framework for understanding CT as inherently multidimensional and social — motivating the community dimension of practice",
+    "exercise_integration": "Caring thinking prompts appear in reflective practice exercises. The CoI principles inform the design of collaborative features and the modeling of productive disagreement in worked examples.",
+    "cross_reference": "Compare with Dewey's Five Phases (reflective inquiry as social), Brookfield's CT (caring dimensions of assumption hunting), Paul-Elder Framework (intellectual virtues as character development).",
+    "key_insight_for_learners": "When your analysis feels technically complete but somehow inadequate, ask whether you have engaged all three modes: Have you evaluated critically? Have you generated alternatives creatively? Have you attended to what matters with caring thought? A full analysis requires all three."
+  }
+}

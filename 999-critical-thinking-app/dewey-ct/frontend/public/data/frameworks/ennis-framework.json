@@ -184,6 +184,73 @@
       ]
     }
   },
+  "historical_origin": {
+    "intellectual_context": "Robert Ennis developed his streamlined conception of critical thinking beginning with a landmark 1962 paper in the Harvard Educational Review, 'A Concept of Critical Thinking,' which is one of the most cited works in the CT literature. At a time when CT lacked a systematic definition, Ennis's empirically oriented, skill-and-disposition taxonomy provided the field with a rigorous operational framework.",
+    "1962_paper_impact": "The 1962 paper was revolutionary in proposing that CT could be given a precise enough definition to guide both curriculum design and assessment. Ennis argued against purely informal approaches and insisted that specific cognitive abilities could be identified, taught, and measured — a claim that shaped the subsequent development of CT assessment instruments including the Cornell Critical Thinking Tests he later developed.",
+    "taxonomic_evolution": "Ennis revised and extended his framework through 1985, 1987, and 1996, responding to critics and incorporating feedback from classroom practice. The twelve abilities and fourteen dispositions structure emerged from this iterative refinement — an attempt to be comprehensive enough to cover CT's scope while remaining accessible enough for curriculum design.",
+    "empirical_orientation": "Unlike Siegel's philosophical definition or Paul-Elder's character-development approach, Ennis's framework is empirically and educationally oriented: it aims to identify CT abilities that can be taught and assessed in real educational settings. This produced the FRISCO model — a practical heuristic distilled from the full taxonomy for classroom use.",
+    "assessment_work": "Ennis co-developed the Cornell Critical Thinking Test Series (Levels X and Z), which operationalize several of his twelve abilities in standardized assessment form. The tests were among the first validated CT assessments and influenced subsequent instrument development including the Watson-Glaser and CCTDI.",
+    "key_works_extended": [
+      "'A Concept of Critical Thinking' (1962, Harvard Educational Review) — the founding paper",
+      "Cornell Critical Thinking Tests (Levels X and Z) — assessment instruments",
+      "'A Taxonomy of Critical Thinking Dispositions and Abilities' (1987, in Teaching Thinking Skills)",
+      "Critical Thinking (1996) — comprehensive textbook treatment"
+    ]
+  },
+  "distinctive_commitments": [
+    {
+      "commitment": "CT is fundamentally practical — aimed at deciding what to believe or do",
+      "explanation": "Ennis explicitly rejects purely theoretical or academic conceptions of CT. The target of critical thinking is always real decisions about real beliefs and actions. This practical orientation distinguishes Ennis from more purely philosophical definitions and aligns his framework with educational application."
+    },
+    {
+      "commitment": "Both abilities and dispositions are necessary and co-equal",
+      "explanation": "Unlike frameworks that treat disposition as secondary to skill, Ennis positions the fourteen dispositions as equally constitutive of CT. A person who has all twelve abilities but none of the dispositions — who doesn't actually care about seeking evidence or being open-minded — fails to meet Ennis's definition. The co-equality of abilities and dispositions is a central theoretical commitment."
+    },
+    {
+      "commitment": "CT is domain-general but applied in domain-specific ways",
+      "explanation": "Ennis argues that the core CT abilities (especially the twelve) are transferable across domains, but that applying them in any specific domain requires domain knowledge. This moderate position between 'CT is purely general' and 'CT is entirely domain-specific' has been influential in debates about CT curriculum."
+    }
+  ],
+  "common_misconceptions": [
+    {
+      "misconception": "The FRISCO model is the whole framework — just six steps.",
+      "correction": "FRISCO is a simplified mnemonic for classroom use, distilled from the full twelve-ability taxonomy. The full framework includes twelve abilities organized in five clusters plus fourteen dispositions. FRISCO covers the surface of critical evaluation but does not represent Ennis's complete account of CT.",
+      "practical_implication": "Use FRISCO as a starting point for evaluating arguments, but consult the full twelve abilities to diagnose which specific competency gaps are present in a learner's reasoning."
+    },
+    {
+      "misconception": "The fourteen dispositions are soft adjuncts to the real (cognitive) skills.",
+      "correction": "Ennis explicitly co-equalizes abilities and dispositions. Having all twelve abilities without the dispositions does not constitute CT. A student who can analyze arguments correctly but doesn't actually seek evidence, isn't open-minded, and avoids seeking the total situation is not a critical thinker under Ennis's definition.",
+      "practical_implication": "Curriculum design must address both ability development (through practice problems and analysis tasks) and disposition development (through modeling, reflection, and authentic engagement with real uncertainty)."
+    },
+    {
+      "misconception": "Ennis's 'reflective' in 'reasonable, reflective thinking' means slow or deliberative.",
+      "correction": "'Reflective' in Ennis's definition means thinking that examines its own basis — thinking that asks 'what are the reasons for this? what are the standards being applied?' This is metacognitive, not necessarily slow. Expert CT can be both fast and reflective once habits are established.",
+      "practical_implication": "The development of CT expertise involves automating the reflective habits so they become rapid — not transcending reflection but internalizing it."
+    }
+  ],
+  "relationship_to_other_frameworks": {
+    "siegel": "Siegel's Reasons Conception and Ennis's streamlined definition are deeply compatible. Ennis's twelve abilities operationalize Siegel's Reason Assessment Component; his fourteen dispositions operationalize Siegel's Critical Spirit. Siegel's definition is philosophically more parsimonious; Ennis's taxonomy is pedagogically more actionable.",
+    "paul_elder": "Ennis's twelve abilities correspond roughly to the application of Paul-Elder's Intellectual Standards to the Elements of Thought. Paul-Elder provides a more integrated, holistic architecture; Ennis provides a more granular, enumerable taxonomy. Both treat disposition as essential. Paul-Elder's framework is more strongly metacognitive (thinking about thinking); Ennis's is more directly behavioral (what reasoning does).",
+    "watson_glaser": "Watson-Glaser operationalizes five of Ennis's twelve abilities (inference, assumption recognition, deduction, interpretation, argument evaluation) as standardized assessment subtests. The WGCTA is a measurement instrument for a subset of Ennis's ability taxonomy.",
+    "delphi": "The Delphi Report's six core CT skills overlap substantially with Ennis's twelve abilities (especially inference, explanation, analysis, evaluation). The Delphi's dispositional profile maps onto Ennis's fourteen dispositions. The Delphi represents expert consensus drawn partly from frameworks like Ennis's.",
+    "dewey": "Ennis's definition — 'reasonable, reflective thinking focused on deciding what to believe or do' — is a direct elaboration of Dewey's account of reflective thinking as evidence-based inquiry directed at resolving genuine perplexity. Ennis's FRISCO model maps onto Dewey's Five Phases."
+  },
+  "self_assessment_checklist": {
+    "ability_self_checks": [
+      "Can I clearly identify what conclusion this argument is supporting? (Ability 1 — Focus)",
+      "Can I trace the explicit and implicit reasons behind the conclusion? (Ability 2 — Reason identification)",
+      "Can I assess whether the evidence cited actually supports the conclusion? (Ability 7 — Induction)",
+      "Can I identify what assumptions are being made that aren't stated? (Ability 10 — Assumptions)",
+      "Can I distinguish a logically valid inference from one that merely sounds right? (Ability 6 — Deduction)"
+    ],
+    "disposition_self_checks": [
+      "Am I actually trying to be well-informed — seeking out relevant evidence rather than relying on what's convenient?",
+      "Am I genuinely open-minded — willing to change my view if the evidence warrants it?",
+      "Am I attending to the total situation, or focusing only on the pieces that support my preferred conclusion?",
+      "Am I being fair to other positions — representing them accurately before critiquing them?",
+      "Am I taking a position when the evidence is sufficient, rather than retreating to false uncertainty?"
+    ]
+  },
   "app_usage": {
     "template_feature": "FRISCO model as a template for argument evaluation",
     "exercise_feature": "12 ability clusters as exercise categories — each cluster generates a distinct exercise type",

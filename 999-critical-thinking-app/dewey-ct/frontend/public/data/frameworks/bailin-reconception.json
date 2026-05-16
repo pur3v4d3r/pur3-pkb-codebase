@@ -1,0 +1,118 @@
+{
+  "framework": "Bailin's Reconception of Critical Thinking",
+  "authors": ["Sharon Bailin", "Roland Case", "Jerrold Coombs", "Leroi Daniels"],
+  "year": 1999,
+  "key_works": [
+    "Common Misconceptions of Critical Thinking (1999, Journal of Curriculum Studies)",
+    "Conceptualizing Critical Thinking (1999, Journal of Curriculum Studies)"
+  ],
+  "type": "Epistemological Framework / Critique of Generic CT Models",
+  "distinctive_feature": "Systematically argues that critical thinking cannot be domain-general transferable skills, proposing instead that CT is always embedded in domain-specific background knowledge, critical concepts, and standards.",
+  "description": "Bailin and colleagues published a pair of influential papers in 1999 that fundamentally challenged the dominant skill-based conception of critical thinking. Their target was the view — represented by Ennis, Halpern, and most CT assessment frameworks — that critical thinking consists of a set of domain-general skills (identifying assumptions, evaluating evidence, recognizing fallacies) that can be learned in the abstract and then applied across any domain. Bailin et al. argue that this generic model, however pedagogically attractive, is empirically false: there are no such domain-general skills. What appears to be general skill is always dependent on domain-specific knowledge, concepts, and standards that the generic model treats as irrelevant.",
+  "dewey_connection": "Bailin's position aligns with Dewey's emphasis on the contextual and experiential nature of inquiry. Dewey understood that reflective thinking always operates within a context — a specific problem, a domain of practice, a body of accumulated knowledge. Generic thinking skills abstracted from context cannot generate genuine inquiry; they are at best procedural reminders about what to attend to, always requiring domain knowledge to execute.",
+  "central_thesis": "Critical thinking is not a set of domain-general skills that transfer automatically across contexts. Instead, CT is an achievement within a domain — requiring background knowledge of the domain, familiarity with the domain's critical concepts and standards, and practiced judgment in applying those concepts. Teaching CT as generic skills produces students who know the vocabulary of CT but lack the substantive knowledge to exercise it.",
+  "three_components": {
+    "description": "Bailin et al. propose that genuine critical thinking in any domain requires three components working together.",
+    "components": [
+      {
+        "number": 1,
+        "name": "Background Knowledge",
+        "description": "Substantive knowledge about the domain, the topic, and the relevant empirical and theoretical landscape. Background knowledge is not optional context — it is constitutive of the ability to think critically within the domain.",
+        "role_in_ct": "Without relevant background knowledge, one cannot: identify which premises are false, recognize which analogies are disanalogous, assess which evidence is relevant, or detect when an argument is misleading.",
+        "implication": "A person who can competently identify logical fallacies in the abstract may be unable to recognize the specific empirical error in a medical claim, the missing methodological context in a statistics argument, or the historically inaccurate premise in a political argument — because they lack the domain knowledge to detect these errors.",
+        "example": "Evaluating a climate change argument requires knowledge of the science — statistical methodology, the greenhouse effect, paleoclimatology — not only the logical structure of the argument."
+      },
+      {
+        "number": 2,
+        "name": "Critical Concepts",
+        "description": "The conceptual vocabulary specific to the domain's critical standards — the terms and categories used within a domain to evaluate the quality of reasoning and evidence.",
+        "role_in_ct": "Critical concepts are the domain-specific evaluative vocabulary: 'validity' means something precise in logic; 'reliability' in psychology; 'internal validity' in research design; 'materiality' in law. These are not generic concepts.",
+        "implication": "Knowing the general concept of 'evidence quality' does not enable one to apply it in a specific domain. One needs the domain's specific vocabulary for evidence types, evidence standards, and the criteria that make evidence strong or weak.",
+        "example": "Evaluating evidence in law requires knowing legal concepts of admissibility, hearsay, chain of custody, and standards of proof — not merely the general concept that evidence should be reliable."
+      },
+      {
+        "number": 3,
+        "name": "Heuristics, Strategies, and Intellectual Standards",
+        "description": "The domain-specific procedural knowledge about how to conduct inquiry, evaluate arguments, and apply standards in this domain.",
+        "role_in_ct": "Different domains have different intellectual standards: scientific domains require different things from an explanation than historical domains; mathematical proof is different from legal reasoning; literary interpretation is different from policy analysis.",
+        "implication": "The generic CT skill of 'evaluating sources' operates very differently in history (where primary sources, provenance, authorial bias, and historical context are the operative standards) versus medicine (where RCT hierarchy, peer review, and statistical significance matter) versus journalism (where multiple sourcing, contemporaneity, and direct verification apply).",
+        "example": "Evaluating a causal claim in medicine requires understanding the hierarchy of evidence: case report < cohort study < RCT < systematic review. This hierarchy is domain-specific — it does not transfer to history, law, or literary interpretation."
+      }
+    ]
+  },
+  "critique_of_generic_ct": {
+    "target_position": "The generic CT model holds that CT skills are domain-general — that 'identify the assumptions,' 'evaluate the evidence,' 'recognize the logical structure' can be taught independently and then applied to any domain.",
+    "bailin_critique": [
+      {
+        "critique": "Generic skills are pedagogically hollow without domain knowledge",
+        "elaboration": "Telling students to 'identify the assumptions' of a scientific argument does not help them if they lack the domain knowledge to recognize which claims in science are assumptions, which are established findings, and which are contested."
+      },
+      {
+        "critique": "Transfer of CT skills is not automatic and may require domain learning anyway",
+        "elaboration": "The transfer literature shows that skills learned in one domain transfer only when learners have sufficient knowledge of the target domain to recognize where and how to apply the skill. This means acquiring the target domain's knowledge is a prerequisite for transfer."
+      },
+      {
+        "critique": "Generic CT courses may produce vocabulary without competence",
+        "elaboration": "Students who complete CT courses can name the categories ('this is an ad hominem') without being able to evaluate whether a specific complex argument in a specific domain is actually fallacious, because the evaluation requires domain knowledge they were never taught."
+      }
+    ],
+    "constructive_alternative": "CT should be taught within disciplines and domains — each domain should explicitly identify its own critical concepts, standards, and intellectual virtues, and teach students to apply them within that domain. Cross-domain transfer is possible but requires explicit bridging instruction."
+  },
+  "tension_with_generic_models": {
+    "proponents_of_generic_ct": ["Ennis (CT skills are generalizable)", "Halpern (transfer is possible with appropriate instruction)", "Watson-Glaser (assessment of domain-general skills)"],
+    "the_resolution": "The tension is partly empirical (does transfer occur? under what conditions?) and partly definitional (are we teaching 'thinking skills' or 'domain competence'?). Most current CT researchers accept a moderate version: some CT orientations and dispositions are general, but their application always requires domain knowledge. The controversy is about how much domain specificity matters and how to teach most effectively.",
+    "practical_synthesis": "The best current practice integrates both: teach CT frameworks and vocabulary as general orienting tools, while always embedding their application in substantive domain content. Do not separate CT instruction from content learning."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "Bailin's framework implies that CT instruction is impossible without domain expertise.",
+      "correction": "Bailin argues that domain knowledge is necessary for domain-specific CT, not that general CT instruction is worthless. General frameworks can provide orienting vocabulary and scaffolding that helps learners engage domain-specific CT more effectively.",
+      "practical_implication": "Generic CT frameworks are most useful as metacognitive scaffolding — helping learners know what to look for — rather than as substitutes for domain knowledge."
+    },
+    {
+      "misconception": "If CT is domain-specific, then a CT course has no value.",
+      "correction": "A CT course can develop general critical orientations and dispositions, provide vocabulary and frameworks for analysis, and teach students what to look for — even if the application always requires domain knowledge. The mistake is claiming the course itself produces domain-competent critical thinkers without the domain knowledge.",
+      "practical_implication": "CT education should be honest about what it can and cannot deliver. It can develop orientations, vocabulary, and scaffolding; it cannot substitute for the domain knowledge required for competent critical analysis."
+    }
+  ],
+  "historical_origin": {
+    "publication_context": "Sharon Bailin, Roland Case, Jerrold Coombs, and Leroi Daniels published their reconception of CT in two companion papers in the Journal of Curriculum Studies in 1999. The papers — 'Common Misconceptions of Critical Thinking' and 'Conceptualizing Critical Thinking' — were deliberately published together as a critique-and-reconstruction pair: the first dismantles the generic skills model; the second builds the alternative.",
+    "intellectual_background": "Bailin was writing against the dominant CT movement of the 1980s and 1990s, associated primarily with Robert Ennis, Richard Paul, and the informal logic tradition. That movement had generated a constellation of CT curricula (CORT, Lipman's P4C, Paul-Elder's Socratic questioning) that all shared the assumption that CT skills are domain-general and transferable. The Bailin team drew on philosophy of education, the cognitive transfer literature, and educational psychology to challenge this assumption systematically.",
+    "transfer_problem": "The core of Bailin's argument was the empirical literature on transfer, which showed that cognitive skills transfer much less readily than proponents claimed. The key studies (Detterman, Salomon, and Perkins) demonstrated that transfer to new domains requires sufficient knowledge of the target domain to recognize where the skill applies — meaning domain knowledge is not an optional add-on but a prerequisite for transfer. Bailin et al. drew out the educational implications: CT courses that teach skills without domain knowledge are producing vocabulary without competence.",
+    "continuing_influence": "The Bailin et al. reconception became influential in subject-specific CT education and in the critique of generic CT programs. It contributed to the emerging consensus that CT instruction is most effective when embedded in content learning — a view now widely accepted in educational research under the umbrella of 'disciplinary thinking' and 'epistemic cognition.'"
+  },
+  "relationship_to_other_frameworks": {
+    "ennis": "Ennis is Bailin's primary target. Where Ennis argues that his twelve CT abilities are domain-general and transferable, Bailin argues that each ability always requires domain knowledge to execute. The debate is not about whether skills matter but about whether they can be taught independently of domain content. Ennis's moderate position — that CT is domain-general but applied in domain-specific ways — partially accommodates Bailin's critique.",
+    "paul_elder": "Paul-Elder shares some of Bailin's emphasis on intellectual virtues and the role of substantive knowledge (the Elements of Thought always operate on Assumptions and Information that are domain-specific). But Paul-Elder presents its framework as universally applicable — the same Elements and Standards apply in every domain. Bailin would argue this universalism understates the extent to which domain-specific standards govern good reasoning in specific fields.",
+    "halpern": "Halpern's critical thinking framework explicitly addresses transfer — her textbook is subtitled 'A Skills-Based Approach' and includes transfer-promoting activities. Bailin would accept that Halpern's explicit transfer instruction is an improvement over implicit transfer claims, while maintaining that even explicit transfer instruction requires the learner to acquire domain knowledge to be fully effective.",
+    "lipman": "Lipman's Community of Inquiry model is compatible with Bailin's reconception when implemented within substantive content areas. P4C's original emphasis on philosophical concepts (rather than domain-general logical skills) partially accommodates the domain-specificity argument. However, Lipman's framework is often implemented with an implicit general thinking skills emphasis that Bailin's reconception would critique.",
+    "dewey": "Dewey anticipated Bailin's insight in his emphasis on context-specific inquiry. Dewey's reflective thinking is always initiated by a specific problem in a specific context — the inquiry's shape is always determined by the domain and situation. The generic skills model extracts a surface pattern from this context-dependent activity and treats it as independently teachable, which Dewey's account does not support."
+  },
+  "teaching_applications": {
+    "primary_implication": "CT instruction is most effective when embedded in subject content, not isolated in standalone CT courses. The ideal is to teach CT concepts and vocabulary while simultaneously developing the domain knowledge required to apply them. CT and content learning are not in competition for curriculum time — they are mutually reinforcing.",
+    "domain_embedded_ct_strategies": [
+      {
+        "strategy": "Disciplinary thinking instruction",
+        "description": "Explicitly teach the critical concepts and intellectual standards used by practitioners of the discipline: How do historians evaluate primary sources? How do scientists assess statistical significance? How do lawyers evaluate evidence admissibility? These domain-specific standards are the operative vocabulary for CT within the discipline.",
+        "implementation": "Begin content units by making the domain's critical standards explicit: 'In this field, a good argument must...' Then practice applying those standards to representative examples before asking students to apply them independently."
+      },
+      {
+        "strategy": "Anchored CT exercises",
+        "description": "CT exercises are always anchored to a substantive topic or text that provides the domain content the analysis requires. Students analyze real arguments about real topics in real domains — not decontextualized logical puzzles.",
+        "implementation": "Design exercises where students must draw on domain knowledge to complete the analysis. If a student can complete the exercise without knowing anything about the subject matter, the exercise is not testing CT — it is testing pattern recognition."
+      },
+      {
+        "strategy": "Knowledge-deficit diagnosis",
+        "description": "When a student's CT analysis is poor, diagnose whether the problem is a skills deficit (does not know the analytical procedure) or a knowledge deficit (does not have the domain knowledge to execute the procedure). These require different instructional responses.",
+        "implementation": "Ask: 'Is the student failing to identify assumptions because they don't understand what an assumption is, or because they don't know enough about the domain to recognize which claims are assumptions versus established facts?' Skill instruction versus content instruction are different responses."
+      }
+    ],
+    "metacognitive_instruction": "Teach students to self-diagnose knowledge deficits: 'I cannot think well about this argument because I don't know enough about X. To improve my analysis, I need to learn more about X.' This metacognitive awareness — recognizing when poor reasoning reflects lack of domain knowledge rather than analytical failure — is itself a critical thinking competency that generic CT courses do not typically develop."
+  },
+  "app_usage": {
+    "primary_use": "Framework for understanding the relationship between CT skills and domain knowledge — and for setting realistic expectations about what this app can develop",
+    "exercise_integration": "Bailin's reconception motivates the app's use of worked examples from specific domains. The domain-specific elaborations in framework chapters reflect the insight that CT concepts must be applied within domains to be meaningful.",
+    "cross_reference": "Compare with Ennis Framework (generic CT skills — the position Bailin critiques), Siegel's Reasons Conception (another account of what makes CT distinctive), Halpern's Framework (explicit focus on transfer — Bailin would qualify its claims).",
+    "key_insight_for_learners": "The templates and frameworks in this app are scaffolding, not substitutes for knowledge. To think critically about science, you need scientific knowledge. To think critically about history, you need historical knowledge. The app develops your CT orientation; developing domain knowledge is your complementary responsibility."
+  }
+}
