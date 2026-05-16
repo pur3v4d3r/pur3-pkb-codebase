@@ -1,0 +1,55 @@
+{
+  "id": "PP-08",
+  "pp_number": "PP-08",
+  "title": "Diagnose a \"stuck thinker\": Alex's Depth plateau after 20 sessions",
+  "framework": "metacognitive",
+  "framework_label": "Metacognitive Reflection",
+  "object_type": "metacognitive-reflection",
+  "difficulty": "medium",
+  "estimated_minutes": 30,
+  "related_worked_example_id": null,
+  "related_template_id": "metacognitive-reflection-v1",
+  "tags": ["metacognitive", "reflection", "diagnosis", "depth", "frisco-limits", "deliberate-practice"],
+  "object_of_analysis": "Alex's critical thinking development case: 20 sessions, 6 weeks, persistent Depth plateau despite deliberate effort.",
+  "context": "Alex is a colleague who has been using the DeweyCT app for 6 weeks. Alex approaches you after a session and says:\n\n\"I've done 20 sessions now. My Clarity scores are consistently high — I average 4.5. My Accuracy is solid at 4.2. But my Depth scores have been stuck at 2.8 for six weeks. I've been trying to go deeper. I spend more time on sessions. I write more. But the score never moves. I'm starting to think I just don't have the disposition for deep analysis.\"\n\nAlex's session breakdown:\n- 15 of 20 sessions: FRISCO (argument triage)\n- 3 of 20 sessions: Paul-Elder (open-ended analysis)\n- 2 of 20 sessions: SEE-I (concept elaboration)\n\nAlex's average scores by framework:\n- FRISCO: Clarity 4.8, Accuracy 4.3, Depth 2.9\n- Paul-Elder: Clarity 4.0, Accuracy 3.8, Depth 2.6\n- SEE-I: Clarity 4.3, Accuracy 4.0, Depth 3.5",
+  "instructions": "You are acting as a metacognitive coach for Alex. Use the Metacognitive Reflection template as your analytical framework — specifically, focus on the Person Knowledge, Task Knowledge, and Strategy Knowledge sections.\n\nThis is a medium-difficulty problem because:\n1. The diagnosis is not immediately obvious from Alex's self-report — Alex has the right belief (I'm trying) but a wrong theory (I lack disposition)\n2. The primary issue is structural: FRISCO is architecturally a triage tool, not a depth tool — using it for 75% of sessions has a specific consequence\n3. The prescription must be specific and actionable, not generic ('do harder problems')\n\nYour goal: identify the root cause of Alex's Depth plateau, explain why Alex's self-diagnosis (lack of disposition) is likely incorrect, and prescribe a specific 10-session development plan.",
+  "workspace_prompts": {
+    "person_knowledge": "What does Alex know about their own cognitive strengths and weaknesses? What do the score patterns tell you about Alex's actual strengths? Is 'lack of disposition for deep analysis' a plausible self-diagnosis given 4.5 Clarity and 4.2 Accuracy scores?",
+    "task_knowledge": "What is FRISCO structurally designed to do? What does it explicitly evaluate? What is it NOT designed to evaluate? Can FRISCO produce a Depth score of 5 by design — or is there a ceiling built into the framework?",
+    "strategy_knowledge": "What strategies would change Alex's Depth scores specifically? What would 10 Paul-Elder sessions do that 15 FRISCO sessions cannot? What makes the Paul-Elder Implications and Standpoints elements specifically suited to developing depth?",
+    "monitoring": "Alex says 'I spend more time and write more but the score never moves.' What does this tell you about the effectiveness of Alex's current adjustment strategy? What is the relationship between quantity of output and quality of depth?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On FRISCO's structural Depth ceiling",
+      "content": "FRISCO stands for: Focus, Reasons, Inference, Situation, Clarity, Overview. The Inference step asks you to identify fallacies and assess the strength of the argument's inference. The framework does NOT have a step for: (a) examining underlying assumptions, (b) exploring implications beyond the first order, (c) considering alternative standpoints, or (d) tracing conceptual roots. These are exactly what the Depth standard measures. A practitioner who does only FRISCO cannot develop Depth by doing more FRISCO — the framework does not require it."
+    },
+    {
+      "id": "hint-2",
+      "title": "On Alex's self-diagnosis",
+      "content": "Alex attributes the plateau to lacking 'disposition for deep analysis.' Consider: Alex's SEE-I sessions average Depth 3.5 — higher than both FRISCO and Paul-Elder. This means Alex CAN achieve higher Depth when the framework scaffolds depth-oriented thinking (SEE-I's Elaborate step forces conceptual tracing). Alex is not dispositionally incapable of depth. Alex is using a framework that does not elicit depth, then concluding the problem is dispositional."
+    },
+    {
+      "id": "hint-3",
+      "title": "On the 10-session prescription",
+      "content": "A useful prescription has: (1) a specific change in framework distribution, (2) a specific element or step to focus on within those sessions, and (3) a threshold target that will indicate whether the intervention is working. Generic advice ('do more Paul-Elder') is less useful than: 'Do 8 Paul-Elder sessions in the next 10. In each session, write at minimum 3 second-order implications in the Implications element and produce a 150-word steelman of the opposing standpoint. Target: Depth ≥ 3.5 average in Paul-Elder within 5 sessions.'"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "DIAGNOSIS — ROOT CAUSE: Alex's Depth plateau is primarily structural, not dispositional. FRISCO is a triage framework — it is explicitly designed for rapid argument critique and does not contain any structural step that elicits second-order implications, underlying assumptions, or standpoints. Alex has spent 15 of 20 sessions practising a framework that cannot, by design, produce high Depth scores. The plateau is expected, not surprising.",
+      "DISCONFIRM SELF-DIAGNOSIS: Alex's SEE-I Depth scores (3.5 average) are higher than FRISCO and Paul-Elder scores. SEE-I's Elaborate step requires conceptual tracing — exactly the kind of thinking that Depth measures. Alex is NOT dispositionally incapable of depth. The framework mismatch is the cause.",
+      "FRAMEWORK TASK ANALYSIS: FRISCO elements: Focus (identify the claim), Reasons (list the reasons), Inference (assess the inference), Situation (assess context), Clarity (evaluate term clarity), Overview (revised position). None of these steps ask: What are the second-order implications? What assumptions must be true for this to hold? What would an opposing standpoint say at its strongest? These are the Depth-generating moves.",
+      "PAUL-ELDER DEPTH ELEMENTS: Paul-Elder's Implications and Standpoints elements are structurally designed to generate Depth. Implications asks: if this is true, what follows — including things the arguer may not want to acknowledge? Standpoints asks: what is the strongest version of the case against this position? Both require second-order reasoning.",
+      "PRESCRIPTION (10-session plan): (1) Sessions 1-6: Paul-Elder only, using Deliberate Practice Full template which explicitly audits all 9 standards including Depth; (2) Each session: write at minimum 3 second-order implications (consequences of consequences) and one full steelman of the strongest opposing position, minimum 150 words; (3) Sessions 7-8: one SEE-I to reinforce the depth-building that Alex is already doing well; (4) Sessions 9-10: return to Paul-Elder with the full template; (5) Threshold: Depth ≥ 3.5 average in Paul-Elder within 6 sessions; if not achieved, re-diagnose for topic selection or assumptions engagement.",
+      "REASSURANCE: Alex's 4.5 Clarity score is genuinely impressive — it reflects strong ability to identify and articulate claims precisely. This is a prerequisite for depth, not a substitute. The task is to add the second-order reasoning layer on top of the clarity foundation that is already solid."
+    ],
+    "revised_position": "Alex's Depth plateau is a predictable consequence of using a triage framework (FRISCO) for 75% of sessions. The framework ceiling is structural, not dispositional. The prescription is a shift to Paul-Elder with explicit Depth scaffolding (Implications and Standpoints elements) for the next 10 sessions."
+  },
+  "template_prefill": {
+    "template_id": "metacognitive-reflection-v1",
+    "subject_value": "Alex's critical thinking development: 20 sessions, Depth plateau at 2.8",
+    "context_note": "Metacognitive analysis of a colleague's development plateau. Practice Problem PP-08 — Metacognitive medium (est. 30 min). You are acting as a metacognitive coach. The scenario is described in the problem. Key question: is Alex's self-diagnosis ('I lack disposition for depth') correct? What is the structural explanation and what is the specific prescription?"
+  }
+}

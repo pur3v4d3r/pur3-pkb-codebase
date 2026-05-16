@@ -1,0 +1,55 @@
+{
+  "id": "PP-03",
+  "pp_number": "PP-03",
+  "title": "\"Children today spend 7 hours on screens daily — rewiring their brains\"",
+  "framework": "frisco",
+  "framework_label": "FRISCO (Ennis)",
+  "object_type": "argument",
+  "difficulty": "easy",
+  "estimated_minutes": 10,
+  "related_worked_example_id": "WE-02",
+  "related_template_id": "frisco-quick-analysis-v1",
+  "tags": ["frisco", "argument", "children", "technology", "causal-reasoning", "clarity"],
+  "object_of_analysis": "\"Children today spend an average of 7 hours per day on screens — and we are seeing the consequences. ADHD diagnoses have tripled in the past 20 years, anxiety in adolescents is at record highs, and children are losing the ability to engage in deep thought. We are literally rewiring our children's brains in dangerous ways, and the evidence is overwhelming. Parents must drastically cut their children's screen time before this generation's cognitive capacity is permanently damaged.\"",
+  "context": "This claim appears in a parenting newsletter editorial, widely shared on social media. The author is a parenting coach with no listed academic credentials. The newsletter has 200,000 subscribers.",
+  "instructions": "Apply the FRISCO framework to evaluate this argument. You should be able to complete this in under 10 minutes — FRISCO is designed for rapid triage, not exhaustive analysis. See WE-02 for a complete FRISCO example to compare your analysis against.\n\nFocus especially on:\n1. Identifying at least 3 terms in the Clarity step that are doing hidden work\n2. Naming any fallacies in the Inference step by their standard labels — do not describe them generically\n3. Writing a revised claim in the Overview step that is more defensible than the original",
+  "workspace_prompts": {
+    "focus": "Is the main conclusion about screen time causing ADHD, causing anxiety, causing loss of 'deep thought,' 'rewiring' the brain, or all of these? Are these the same claim or multiple separate claims that have been run together?",
+    "reasons": "Number each distinct reason separately. How many does the argument actually provide?",
+    "inference": "What is the inference type? What fallacy is at work in the move from 'ADHD diagnoses tripled' to 'screen time causes ADHD'? What is at work in the move from 'companies have X behavior' to 'evidence is overwhelming'?",
+    "clarity": "What does 'screen time' include — educational use, passive video, social media, gaming, video calling with grandparents? What does 'rewiring' mean that distinguishes it from normal neuroplasticity? What does 'deep thought' mean?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the inference step",
+      "content": "ADHD diagnoses have increased. Screen time has increased. These are simultaneous trends — but simultaneity is not causation. What are at least 3 alternative explanations for rising ADHD diagnoses that have nothing to do with screen time?"
+    },
+    {
+      "id": "hint-2",
+      "title": "On the Clarity step",
+      "content": "The term 'screen time' is doing enormous work. An 8-year-old who spends 3 hours on video calls with grandparents and 4 hours playing Minecraft is in a very different situation from one who spends 7 hours watching passive YouTube content. An adolescent using a tablet for schoolwork is in a different situation still. Does the argument distinguish any of these?"
+    },
+    {
+      "id": "hint-3",
+      "title": "On 'rewiring'",
+      "content": "The brain changes with all experience — this is called neuroplasticity and is not specific to screens. The claim is that screen time rewires the brain 'in dangerous ways that inhibit deep thought.' What specific mechanism is proposed? What would 'dangerous rewiring' look like that could be distinguished from normal learning-related neuroplasticity?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "FOCUS: The argument runs together at least 4 distinct causal claims (screen time → ADHD, screen time → anxiety, screen time → loss of deep thought ability, screen time → brain rewiring) plus one prescriptive conclusion (parents must cut screen time). These deserve separate treatment. An argument that is correct about one correlation may be wrong about the others.",
+      "INFERENCE — CORRELATION/CAUSATION (primary fallacy): ADHD diagnoses have tripled; anxiety is at record highs. These are simultaneous trends with rising screen time — but not causal relationships established by this evidence. Alternative explanations for rising ADHD diagnoses: (1) improved diagnostic criteria and awareness, (2) increased reporting by schools due to funding incentives, (3) reduced physical activity from urbanisation, (4) earlier academic pressure. The argument does not eliminate these alternatives before concluding causation.",
+      "INFERENCE — 'REWIRING' ASSERTION: The claim that screens 'literally rewire children's brains in dangerous ways' is stated as fact with no citation. All experience rewires the brain (neuroplasticity); this does not distinguish screens from reading, sport, or musical practice. The word 'dangerous' and 'inhibit deep thought' are asserted without mechanism or evidence.",
+      "CLARITY — THREE TERMS DOING HIDDEN WORK: (1) 'Screen time' — conflates educational, social, passive, and gaming use. Children watching educational YouTube vs. scrolling social media are in different situations. (2) 'Rewiring' — used to sound neurological but means only 'changes the brain,' which is true of all experience. (3) 'Deep thought' — no definition, no measurement proposed, no established relationship to screen use in the research literature.",
+      "SITUATION: The author is a parenting coach with a newsletter — commercial interest in generating parental anxiety. The newsletter format rewards alarming claims. This does not make the claims false, but is reason to demand higher evidentiary standards than the editorial provides.",
+      "REVISED CLAIM: 'Research on screen time and child development is genuinely mixed and context-dependent. High passive social media use in adolescents is associated (not proven causal) with increased anxiety, particularly in girls, in several well-designed studies. The aggregate \"7 hours of screen time\" statistic obscures enormous variation in content and context. Parents concerned about screen use should consider content type and context rather than total time — and consult paediatric guidance rather than parenting newsletters.'"
+    ],
+    "revised_position": "The argument fails on inference (correlation-causation in three separate places), on clarity (undefined key terms), and on evidence quality ('rewiring' and 'deep thought' claims are asserted without mechanism or citation). A defensible version focuses specifically on social media use and adolescent anxiety, where the research is more consistent."
+  },
+  "template_prefill": {
+    "template_id": "frisco-quick-analysis-v1",
+    "subject_value": "Children today spend an average of 7 hours per day on screens — and we are seeing the consequences. ADHD diagnoses have tripled in the past 20 years, anxiety in adolescents is at record highs, and children are losing the ability to engage in deep thought. We are literally rewiring our children's brains in dangerous ways, and the evidence is overwhelming. Parents must drastically cut their children's screen time before this generation's cognitive capacity is permanently damaged.",
+    "context_note": "Parenting newsletter editorial by a parenting coach, 200,000 subscribers. Practice Problem PP-03 — FRISCO easy (est. 10 min). See WE-02 for a complete FRISCO worked example on a similar argument structure."
+  }
+}

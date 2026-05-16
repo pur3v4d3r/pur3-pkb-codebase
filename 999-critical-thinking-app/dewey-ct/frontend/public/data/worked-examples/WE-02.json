@@ -1,0 +1,59 @@
+{
+  "id": "WE-02",
+  "we_number": "WE-02",
+  "title": "\"Remote work reduces overall worker productivity\"",
+  "subtitle": "A FRISCO Quick Analysis of a common corporate management argument",
+  "framework": "frisco",
+  "framework_label": "FRISCO (Ennis)",
+  "object_type": "argument",
+  "question_type": "factual / evaluative",
+  "stakes": "low",
+  "difficulty": "beginner",
+  "duration_minutes": 8,
+  "pre_confidence": null,
+  "post_confidence": null,
+  "rigor_score": 3.8,
+  "tags": ["frisco", "argument", "work", "productivity", "logical-fallacies", "causal-reasoning"],
+  "summary": "A fictional composite of the common 2024-2025 op-ed / corporate communications argument that remote work reduces productivity. The FRISCO analysis identifies 4 named fallacies: appeal to authority (manager belief ≠ measurement), appeal to popularity (corporate return-to-office mandates as evidence), cherry-picking (citing Amazon/JPMorgan but not Spotify/Atlassian), and an is-ought gap (even if productivity does decrease, it does not follow that remote work should be banned). The revised claim is significantly more defensible than the original.",
+  "how_to_use": "Read through the entire FRISCO analysis before attempting PP-03 (the Screen Time practice problem, which has a similar structure). Notice especially (1) how each fallacy is named specifically rather than described generically, (2) how the Situation step is used to explain WHY a particular source has a particular bias, and (3) how the revised Overview claim is more precise and more defensible than the original. FRISCO is a fast tool — this entire analysis was completed in 8 minutes.",
+  "learning_objectives": [
+    "See how FRISCO handles the difference between 'someone believes X' and 'X is true' — the distinction that resolves the appeal-to-authority fallacy",
+    "Understand cherry-picking as a named fallacy: not 'the argument ignores some evidence' but 'the argument selects evidence that fits the conclusion while ignoring systematically contrary evidence'",
+    "See how the is-ought gap works in a policy argument: even valid descriptive findings do not automatically entail prescriptive conclusions",
+    "Observe the Situation step being used to explain institutional interest, not just note that 'bias might exist'"
+  ],
+  "related_template_id": "frisco-quick-analysis-v1",
+  "related_practice_problems": ["PP-03", "PP-04"],
+  "argument_text": "\"Remote work was a COVID-era experiment that has clearly failed. Research consistently shows that managers believe their remote employees are less productive — a 2023 survey found 70% of managers agreed that remote workers produce lower-quality output. Major companies like Amazon, JPMorgan Chase, and Goldman Sachs have all mandated return to office, which proves the business community has reached a consensus. The human brain requires real-world social interaction to function optimally, and the isolation of home working literally rewires neural pathways in ways that inhibit deep thought. Companies that care about quality and long-term performance must bring their workers back to the office full-time.\"",
+  "argument_source": "Fictional composite — representative of common 2024-2025 corporate communications, op-ed arguments, and manager-survey-based journalism. No single source.",
+  "sections": [
+    {
+      "section_label": "F · Focus",
+      "content": "Main conclusion: Remote workers are less productive than in-office workers, and companies should mandate full-time return to office.\n\nSub-claims (supporting the conclusion):\n1. Managers believe remote workers produce lower-quality output (descriptive)\n2. Major companies have mandated return to office (descriptive)\n3. The human brain requires social interaction and remote work inhibits deep thought (causal-descriptive)\n4. Companies that care about quality must end remote work (prescriptive)\n\nDescriptive/prescriptive distinction: Claims 1-3 are descriptive (claims about what is true). Claim 4 is prescriptive (a claim about what companies should do). The argument moves from descriptive premises to a prescriptive conclusion — this transition will need to be examined in the Inference step (is-ought gap)."
+    },
+    {
+      "section_label": "R · Reasons",
+      "content": "1. A 2023 survey found 70% of managers agreed that remote employees produce lower-quality output\n2. Amazon, JPMorgan Chase, and Goldman Sachs have mandated full-time return to office\n3. 'The human brain requires real-world social interaction to function optimally'\n4. Remote work 'literally rewires neural pathways in ways that inhibit deep thought'\n\nNote: reasons 3 and 4 are stated as facts but contain no source, specific study, or mechanism. They are asserted rather than evidenced."
+    },
+    {
+      "section_label": "I · Inference",
+      "content": "Inference type: The argument is primarily causal-inductive — from correlation patterns and authority to a causal claim about remote work effects on productivity, then to a policy prescription.\n\nFallacy 1 — APPEAL TO AUTHORITY (belief ≠ measurement): Reason 1 offers manager belief as evidence that remote workers are less productive. Manager belief about employee productivity is not a measurement of employee productivity. This is the appeal-to-authority fallacy: the survey tells us what managers believe; it tells us nothing about whether those beliefs are accurate. Note the irony: studies of manager belief about productivity regularly find it poorly calibrated with actual output measures.\n\nFallacy 2 — APPEAL TO POPULARITY (corporate consensus ≠ evidence): Reason 2 argues that because major companies have mandated return to office, this 'proves the business community has reached a consensus.' This is the appeal-to-popularity fallacy: the number of organisations that adopt a policy is not evidence that the policy is effective. Many organisations have adopted demonstrably counterproductive policies.\n\nFallacy 3 — CHERRY-PICKING (systematic evidence selection): The argument cites Amazon, JPMorgan, and Goldman Sachs while ignoring Spotify, Atlassian, and GitLab — companies of comparable scale that have maintained remote-first policies and reported positive productivity outcomes. Cherry-picking is not random omission; it is systematic selection of evidence that fits the conclusion while ignoring systematically contrary evidence.\n\nFallacy 4 — IS-OUGHT GAP (descriptive to prescriptive without bridge): Even if all the descriptive claims were true (productivity decreases with remote work), the prescriptive conclusion ('companies must bring workers back') does not follow automatically. It would require additional premises about how to weigh productivity against employee autonomy, talent acquisition, operational costs, and employee wellbeing. The argument treats the is-ought gap as invisible.\n\nVERDICT: The inference is unacceptable. Three of the four reasons contain named fallacies; the fourth (brain/neural claims) is unsubstantiated assertion. The prescriptive conclusion is not even attempted to be derived from the descriptive premises — it is asserted."
+    },
+    {
+      "section_label": "S · Situation",
+      "content": "This argument circulates primarily in corporate communications, management consulting reports, and business journalism with close relationships to large employers who have made costly real-estate commitments. \n\nSpecific institutional interest: Companies that have signed long-term commercial real-estate leases at pre-pandemic prices have a substantial financial interest in demonstrating that office occupancy is productive — not because it is true, but because the alternative (that they signed expensive leases for property they do not need) is embarrassing and costly. The 70% manager survey was commissioned by a real-estate consultancy with disclosed interest in high office occupancy.\n\nThis is not ad hominem — the argument's claims might still be true. But institutional interest is a legitimate reason to hold the evidence to a higher standard, and to specifically check whether the evidence methodology (manager survey vs. output measurement) has been chosen in a way that favours the conclusion."
+    },
+    {
+      "section_label": "C · Clarity",
+      "content": "Term 1 — 'Productivity': The argument uses this term throughout without defining it. If 'productivity' means total measurable output per hour (what economists measure), the empirical literature is genuinely mixed — some studies show remote workers produce more output/hour. If 'productivity' means manager-perceived quality of output (what the cited survey measures), then Reason 1 is tautological: managers who believe remote workers are less productive... believe remote workers are less productive. These two definitions produce entirely different arguments.\n\nTerm 2 — 'Deep thought': Used without definition and paired with the claim that remote work 'inhibits' it. There is no agreed psychological measure of 'deep thought.' The term is doing rhetorical work without conceptual work — it evokes cognitive quality without specifying what it means or how it would be measured.\n\nTerm 3 — 'Rewires neural pathways': This is neurological-sounding language being used to give a social phenomenon the authority of biology. The human brain does change with experience (neuroplasticity is real), but this does not distinguish remote work from any other experience that changes with practice, and the claim provides no mechanism by which remote work specifically inhibits thought."
+    },
+    {
+      "section_label": "O · Overview / Verdict",
+      "content": "VERDICT: This argument fails on inference (three named fallacies), on clarity (undefined key terms), and on evidence quality (unsubstantiated causal claims, cherry-picked corporate examples). It does not meet the minimum standard for a defensible policy argument.\n\nWhat it gets right: There is a genuine and unresolved empirical question about remote work and productivity — the literature is mixed, not settled. Manager frustration with remote work is real and worth taking seriously as a phenomenon to understand.\n\nREVISED, MORE DEFENSIBLE CLAIM: 'The productivity effects of remote work appear to vary significantly by role type, team structure, task complexity, and individual work style. Some studies show output gains for independent knowledge work; others show collaboration and innovation deficits for roles requiring real-time coordination. Companies should determine their specific productivity drivers before issuing blanket return-to-office mandates, rather than generalising from aggregate manager-belief surveys.'\n\nNOTE ON THE REVISION: The revised claim is more defensible precisely because it is less certain and more specific. It does not argue for a universal policy because the evidence does not support a universal policy."
+    },
+    {
+      "section_label": "Metacognitive Check",
+      "content": "Prior view on remote work: mildly pro-remote, which creates risk of motivated reasoning in the direction of finding the argument weak.\n\nRisks in this analysis: I may have over-weighted the fallacies because I was already skeptical of the conclusion. Counter-check: the three fallacies I identified (appeal to authority, appeal to popularity, cherry-picking) are present in the argument's explicit structure — not just in my reading of it. They are identifiable by anyone applying FRISCO, regardless of their prior view on remote work.\n\nPace: The Inference step took 4 of the 8 minutes. The Situation step was rushed — I should have developed the institutional interest argument more thoroughly. Acceptable for an 8-minute FRISCO, but if this were a high-stakes analysis, I would extend the Situation step."
+    }
+  ]
+}

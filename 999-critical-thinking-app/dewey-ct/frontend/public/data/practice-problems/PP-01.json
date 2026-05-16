@@ -1,0 +1,55 @@
+{
+  "id": "PP-01",
+  "pp_number": "PP-01",
+  "title": "\"Daily exercise is the most important habit for longevity\"",
+  "framework": "paul-elder",
+  "framework_label": "Paul-Elder Framework",
+  "object_type": "argument",
+  "difficulty": "easy",
+  "estimated_minutes": 30,
+  "related_worked_example_id": "WE-01",
+  "related_template_id": "paul-elder-analysis-v1",
+  "tags": ["paul-elder", "argument", "health", "causal-reasoning", "inference"],
+  "object_of_analysis": "\"Daily exercise is the most important habit for longevity. Multiple studies show that people who exercise regularly live longer than those who do not. The research is clear: if you are serious about living a long life, you should exercise every single day.\"",
+  "context": "You encounter this claim in a fitness magazine editorial. The editor is a personal trainer who runs a subscription fitness program. The claim is presented as settled science.",
+  "instructions": "Apply the Paul-Elder framework to evaluate this argument. Use the standard Paul-Elder Analysis template or the Deliberate Practice Full template. Pay particular attention to the Inferences and Assumptions elements — this argument contains a compound inference error that has three distinct steps, each of which requires scrutiny.\n\nAfter completing the analysis, write a revised claim that is more defensible than the original while still capturing what the evidence actually supports.",
+  "workspace_prompts": {
+    "purpose": "What is this editorial trying to accomplish — persuade, inform, or sell? Does the purpose affect the argument?",
+    "question": "What exact question is this argument answering? Is it the right question to be asking?",
+    "information": "What evidence does the argument cite? What evidence would you expect a rigorous version of this argument to include?",
+    "inference": "Trace the inference chain step by step. At each step, ask: does this conclusion follow from the premises, or is it jumping further than the evidence supports?",
+    "assumptions": "What must be true for the conclusion 'exercise every single day' to follow from 'regular exercisers live longer'? What is being assumed about the relationship between the study findings and the individual prescription?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the inference chain",
+      "content": "There are at least three separate inference steps in this argument, each of which should be examined independently. Try numbering them before assessing whether they hold."
+    },
+    {
+      "id": "hint-2",
+      "title": "On the key inference error",
+      "content": "The argument moves from (1) a correlation finding to (2) a causal claim, then from (2) a population-level causal finding to (3) an individual-level prescription, then from (3) 'regular exercise' to (4) 'every single day.' Each of these transitions deserves its own inference assessment."
+    },
+    {
+      "id": "hint-3",
+      "title": "On the most important habit claim",
+      "content": "The word 'most' in 'most important habit for longevity' is doing significant work. What would the evidence need to show to support 'most important' rather than 'important' or 'one of several important habits'? Has the argument provided that evidence?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "INFERENCE CHAIN ERROR — TRIPLE JUMP: The argument contains three inference steps each of which extends beyond the evidence. Step 1: correlation (regular exercisers live longer) → causation (exercise causes longevity). The causal direction is plausible but not established from the correlation alone — healthier people may exercise more because they are healthier, not live longer because they exercise. Step 2: population average finding → prescription for every individual. Even if exercise causes longevity on average in populations, an individual's optimal exercise regime depends on health status, age, genetics, and other factors. Step 3: 'regular exercise' → 'every single day.' The research on exercise and longevity typically uses thresholds like 150 minutes of moderate activity per week — not daily exercise. Daily high-intensity exercise is associated with overtraining syndrome in some populations.",
+      "ASSUMPTIONS ELEMENT: The load-bearing assumption is that the causal mechanism runs in one direction (exercise → longevity) rather than having reverse causation or common cause. A second load-bearing assumption is that the editorial is citing studies correctly — fitness magazines frequently misrepresent effect sizes from exercise research.",
+      "INFORMATION GAPS: The argument says 'multiple studies' without specifying what kind (RCT? prospective cohort? how long?), what effect sizes were found, or what the comparison group was. The absence of specific citations is itself informative about the argument's rigour.",
+      "STANDPOINTS STEELMAN: The steelman for the argument is that exercise is one of the few lifestyle interventions with consistent, replicated, multi-mechanism support for longevity effects (cardiovascular, metabolic, cognitive, musculoskeletal), and that recommending daily exercise as a habit is pragmatically sound even if the daily threshold is not strictly entailed by the research.",
+      "REVISED CLAIM: 'A growing body of prospective cohort research suggests that regular aerobic exercise — typically ≥150 minutes of moderate activity per week — is associated with significantly reduced all-cause mortality, with effect sizes comparable to not smoking and maintaining a healthy weight. Exercise is one of several well-supported longevity habits, alongside sleep quality, social connection, and not smoking. The optimal frequency depends on individual health status; daily exercise is not required by the evidence, though it may be a useful habit target for those who otherwise under-exercise.'"
+    ],
+    "revised_position": "Exercise is one of several well-supported longevity habits with consistent multi-mechanism evidence, but the argument's conclusion (exercise every single day is the most important habit) extends well beyond what the research supports — making three distinct inference jumps from the correlation evidence."
+  },
+  "template_prefill": {
+    "template_id": "paul-elder-analysis-v1",
+    "subject_value": "Daily exercise is the most important habit for longevity. Multiple studies show that people who exercise regularly live longer than those who do not. The research is clear: if you are serious about living a long life, you should exercise every single day.",
+    "context_note": "This argument appears in a fitness magazine editorial by the editor (a personal trainer with a subscription fitness program). Practice Problem PP-01 — Paul-Elder easy (est. 30 min). Focus especially on the Inference and Assumptions elements. See WE-01 for a worked example using this same template on a personal decision."
+  }
+}

@@ -1,5 +1,5 @@
 import type { Chapter, ChapterSummary, CalloutType } from '@/types/chapter';
-import type { Template, Framework } from '@/types/framework';
+import type { Template, Framework, WorkedExample, PracticeProblem } from '@/types/framework';
 import path from 'path';
 import fs from 'fs';
 
@@ -88,6 +88,10 @@ const TEMPLATE_FILES = [
   'blooms-scaffold-v1',
   'socratic-questioning-v1',
   'paul-elder-analysis-v1',
+  'frisco-quick-analysis-v1',
+  'see-i-elaboration-v1',
+  'metacognitive-reflection-v1',
+  'deliberate-practice-full-v1',
 ] as const;
 
 export type TemplateId = (typeof TEMPLATE_FILES)[number];
@@ -99,3 +103,41 @@ export function getTemplate(id: TemplateId): Template {
 export function getAllTemplates(): Template[] {
   return TEMPLATE_FILES.map((id) => getTemplate(id));
 }
+
+// ---- Worked Example loaders ----
+
+const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03'] as const;
+
+export type WorkedExampleId = (typeof WORKED_EXAMPLE_FILES)[number];
+
+export function getWorkedExample(id: WorkedExampleId): WorkedExample {
+  return readJSON<WorkedExample>(`worked-examples/${id}.json`);
+}
+
+export function getAllWorkedExamples(): WorkedExample[] {
+  return WORKED_EXAMPLE_FILES.map((id) => getWorkedExample(id));
+}
+
+// ---- Practice Problem loaders ----
+
+const PRACTICE_PROBLEM_FILES = [
+  'PP-01',
+  'PP-02',
+  'PP-03',
+  'PP-04',
+  'PP-05',
+  'PP-06',
+  'PP-07',
+  'PP-08',
+] as const;
+
+export type PracticeProblemId = (typeof PRACTICE_PROBLEM_FILES)[number];
+
+export function getPracticeProblem(id: PracticeProblemId): PracticeProblem {
+  return readJSON<PracticeProblem>(`practice-problems/${id}.json`);
+}
+
+export function getAllPracticeProblems(): PracticeProblem[] {
+  return PRACTICE_PROBLEM_FILES.map((id) => getPracticeProblem(id));
+}
+

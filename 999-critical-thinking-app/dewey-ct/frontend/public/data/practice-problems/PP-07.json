@@ -1,0 +1,54 @@
+{
+  "id": "PP-07",
+  "pp_number": "PP-07",
+  "title": "Analyse 12 sessions of your own practice history",
+  "framework": "metacognitive",
+  "framework_label": "Metacognitive Reflection",
+  "object_type": "metacognitive-reflection",
+  "difficulty": "easy",
+  "estimated_minutes": 25,
+  "related_worked_example_id": null,
+  "related_template_id": "metacognitive-reflection-v1",
+  "tags": ["metacognitive", "reflection", "practice-history", "standards-audit", "intellectual-virtues"],
+  "object_of_analysis": "A fictional 12-session critical thinking practice log spanning 6 weeks. You are playing the role of the practitioner who completed these sessions, analysing your own pattern of development.",
+  "context": "You have completed 12 practice sessions over 6 weeks using a mix of Paul-Elder, FRISCO, and SEE-I analyses. Each session was scored by a peer on Clarity, Accuracy, Depth, Fairness, and an overall Rigor score. You are now conducting your first metacognitive reflection using the Metacognitive Reflection template.\n\nSession log:\n| # | Framework | Topic | Rigor | Clarity | Accuracy | Depth | Fairness |\n|---|-----------|-------|-------|---------|----------|-------|----------|\n| 1 | paul-elder | career decision (quit job) | 3.2 | 3 | 4 | 3 | 3 |\n| 2 | frisco | news article (climate) | 4.1 | 5 | 4 | 3 | 4 |\n| 3 | paul-elder | ethics case (whistleblowing) | 3.4 | 3 | 4 | 3 | 3 |\n| 4 | see-i | concept: cognitive dissonance | 4.3 | 5 | 4 | 4 | 4 |\n| 5 | frisco | op-ed (immigration) | 3.8 | 4 | 4 | 3 | 4 |\n| 6 | paul-elder | policy (housing) | 3.5 | 4 | 4 | 3 | 3 |\n| 7 | see-i | concept: opportunity cost | 4.2 | 5 | 4 | 4 | 4 |\n| 8 | frisco | speech (political) | 4.2 | 5 | 4 | 4 | 4 |\n| 9 | paul-elder | personal decision (move city) | 3.6 | 4 | 4 | 3 | 4 |\n| 10 | see-i | concept: confirmation bias | 4.4 | 5 | 5 | 4 | 4 |\n| 11 | frisco | study (nutrition) | 4.1 | 5 | 4 | 3 | 4 |\n| 12 | paul-elder | ethical dilemma (AI use) | 3.4 | 3 | 4 | 3 | 3 |",
+  "instructions": "Use the Metacognitive Reflection template to analyse this practice log. Set the reflection period to 'monthly' (covering the last 6 weeks).\n\nThis is an easy metacognitive problem because the patterns in the data are relatively clear — you will not need to do complex statistical analysis to see the trends. The goal is to articulate what you observe, explain WHY the patterns exist (not just describe them), and propose specific adjustments to your practice.\n\nPay particular attention to:\n1. The difference in rigor scores across frameworks (mean rigor: paul-elder 3.42, frisco 4.05, see-i 4.30)\n2. The Depth scores, which have not moved — they are stuck at 3 or 4 across almost all sessions\n3. Which intellectual virtues are present in this practice log and which are absent",
+  "workspace_prompts": {
+    "task_knowledge": "What do these frameworks each require of you? What is it about FRISCO that produces higher clarity scores? What is it about Paul-Elder that seems to produce lower rigor overall? Is the difference a skill gap, a framework suitability gap, or a topic difficulty gap?",
+    "monitoring": "Look at the Depth scores. They are 3 or 4 in every single session except SEE-I sessions. What does Depth mean in the context of critical thinking standards? What does a score of 3 vs 4 vs 5 mean? What would you need to do differently to consistently score 4+ on Depth in Paul-Elder sessions?",
+    "strategy": "Given this pattern, what is the most valuable thing you could change about your practice in the next 6 weeks? Is it: (a) doing more Paul-Elder sessions to improve there, (b) doing more SEE-I sessions to build on your strength, (c) specifically targeting Depth in all sessions regardless of framework, or (d) something else?",
+    "virtues": "Look at what you chose to analyse: career decisions, ethical cases, news articles, political speeches, policy questions. All of these were topics assigned to you or chosen from current events. Did you choose any topic because you were genuinely uncertain about it and wanted to change your mind? Did you choose any topic that challenged your existing views?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the framework performance gap",
+      "content": "Paul-Elder rigor mean: 3.42. FRISCO rigor mean: 4.05. SEE-I rigor mean: 4.30. One explanation: Paul-Elder is harder — it requires generating your own analysis across 8 elements, while FRISCO provides a clear scaffold for argument triage and SEE-I provides a clear scaffold for concept elaboration. Another explanation: you may be selecting harder/more emotionally laden topics for Paul-Elder (career decisions, ethical dilemmas) which are harder to analyse with rigor. A third explanation: Paul-Elder requires Depth and standpoints assessment which are genuinely harder skills."
+    },
+    {
+      "id": "hint-2",
+      "title": "On the Depth plateau",
+      "content": "Depth in Paul-Elder terms means: going beneath the surface of a question, identifying root causes, exploring underlying concepts, examining implications beyond the first order. A consistent score of 3/5 on Depth suggests the analyses are identifying the obvious elements but not pursuing the reasoning chain far enough. In Paul-Elder terms: Purpose, Question, and Information may be fine, but Implications and Standpoints may be thin. Look at which fields in the template you write least about."
+    },
+    {
+      "id": "hint-3",
+      "title": "On intellectual virtues",
+      "content": "The Paul-Elder framework identifies key intellectual virtues: Intellectual Humility (acknowledging limits of your knowledge), Intellectual Courage (examining uncomfortable ideas), Open-Mindedness (genuinely considering alternative views), Intellectual Perseverance (pursuing difficult questions), Intellectual Autonomy (self-directed learning), and Intellectual Integrity (consistent standards). Review your topic choices: were any of them genuinely autonomy-driven (you chose the topic because you wanted to resolve uncertainty for yourself)? Were any chosen specifically because they challenged your own position?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "PERSON KNOWLEDGE — TASK GAP: Paul-Elder is structurally harder than FRISCO or SEE-I for me right now. Paul-Elder requires original generation across 8 open-ended elements; FRISCO provides a 6-step scaffold for argument triage; SEE-I provides a 4-step scaffold for concept elaboration. My strength is in structured elaboration (SEE-I) and structured critique (FRISCO). My weakness is in open-ended analysis (Paul-Elder). This is not a failure — it reflects the difficulty gradient of the frameworks.",
+      "DEPTH PATTERN: Depth stuck at 3 across all 5 Paul-Elder sessions and at 3-4 across FRISCO sessions. SEE-I sessions show 4. This pattern suggests I am producing competent surface-level analysis but not pursuing the reasoning chain to the second and third order. In Paul-Elder terms: my Implications and Standpoints elements are probably thin. Specific intervention: in the next 3 Paul-Elder sessions, I will write at minimum 3 distinct second-order implications and steelman one opposing standpoint before closing.",
+      "RIGOR LIFT STRATEGY: Rather than shifting away from Paul-Elder, I should use the Deliberate Practice Full template (which explicitly audits all 9 standards including Depth) for my next Paul-Elder session. The standard check prompts will make the Depth gap visible in real time.",
+      "INTELLECTUAL VIRTUES AUDIT: Present: Open-mindedness (I analysed views across multiple sides in most sessions), Intellectual Humility (peer scoring shows I accepted low scores without defensiveness), Intellectual Perseverance (12 sessions in 6 weeks is consistent follow-through). ABSENT: Intellectual Autonomy — every single topic was either assigned or chosen from current events. I have not analysed any question because I was personally uncertain about it and wanted to change my mind. This is a significant gap in the authenticity of my practice.",
+      "PROPOSED ADJUSTMENT: (1) Next 3 Paul-Elder sessions: use Deliberate Practice Full template with explicit Depth audit; (2) At least one session per fortnight: choose a question where I genuinely don't know my own position (exercises Intellectual Autonomy and Intellectual Courage); (3) Target: Depth ≥ 4 in all Paul-Elder sessions within 6 weeks."
+    ],
+    "revised_position": "The practice log shows a learner with emerging strengths in structured critique (FRISCO) and concept elaboration (SEE-I) but a persistent gap in open-ended depth analysis (Paul-Elder). The most important single intervention is targeting Depth explicitly in the next several Paul-Elder sessions, not switching frameworks."
+  },
+  "template_prefill": {
+    "template_id": "metacognitive-reflection-v1",
+    "subject_value": "6-week practice log (12 sessions): Paul-Elder, FRISCO, SEE-I",
+    "context_note": "Metacognitive reflection on a fictional 12-session practice history. Practice Problem PP-07 — Metacognitive easy (est. 25 min). The session data is in the problem description. Mean rigor by framework: paul-elder 3.42 / frisco 4.05 / see-i 4.30. Depth is stuck at 3 across paul-elder sessions. Intellectual Autonomy is absent from topic choices."
+  }
+}

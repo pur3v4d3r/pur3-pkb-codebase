@@ -1,0 +1,57 @@
+{
+  "id": "PP-04",
+  "pp_number": "PP-04",
+  "title": "\"Raising the minimum wage to $20 eliminates jobs for low-skilled workers\"",
+  "framework": "frisco",
+  "framework_label": "FRISCO (Ennis)",
+  "object_type": "argument",
+  "difficulty": "medium",
+  "estimated_minutes": 15,
+  "related_worked_example_id": "WE-02",
+  "related_template_id": "frisco-quick-analysis-v1",
+  "tags": ["frisco", "argument", "economics", "policy", "competing-evidence", "clarity"],
+  "object_of_analysis": "\"Basic economics tells us that raising the minimum wage destroys jobs for low-skilled workers. When you artificially raise the price of labour above its market value, employers substitute with automation, cut hours, or close down. We saw this clearly when Seattle raised its minimum wage to $15 — small restaurants closed and workers' total earnings actually fell. The economic science here is settled: minimum wage hikes always hurt the workers they claim to help, and any politician who supports them either doesn't understand economics or is pandering to unions.\"",
+  "context": "This claim appears in a business newspaper op-ed by a regional chamber of commerce president. The chamber represents 2,400 small and medium businesses in a state currently debating a $20 minimum wage bill.",
+  "instructions": "Apply the FRISCO framework to this economic policy argument. This is a medium-difficulty problem because:\n1. The empirical economics literature on minimum wage is genuinely contested — unlike screen time or remote work, there IS a live academic debate here. Your analysis must acknowledge the genuine uncertainty rather than simply dismissing the argument.\n2. The argument uses a specific empirical case (Seattle $15) — you need to assess how that evidence was used, not just whether minimum wage effects are real.\n3. The conclusion (minimum wage hikes 'always hurt workers') is far stronger than the evidence supports, even if some of the evidence is real.\n\nThe goal is to identify what is genuinely defensible in this argument, what is overreach, and what is motivated by the author's institutional position.",
+  "workspace_prompts": {
+    "focus": "The argument makes at least 3 separate claims: (1) price floors cause unemployment in competitive markets, (2) Seattle's $15 minimum wage reduced worker earnings, (3) minimum wage hikes 'always' hurt workers. Are these the same claim? Which is most defensible?",
+    "reasons": "What specific reasons does the argument offer? Which are backed by citations? Which are asserted as 'basic economics' without specific evidence?",
+    "inference": "The word 'always' in the conclusion is doing a lot of work. What would it take to establish that minimum wage hikes 'always' hurt workers? How many counterexamples would it take to defeat that claim?",
+    "situation": "Who is the author? What does the chamber of commerce represent? What is the institutional interest in arguing against a minimum wage increase? Does that interest affect which empirical evidence gets cited?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the Seattle evidence",
+      "content": "The Seattle $15 minimum wage research is a legitimate academic dispute. A 2017 University of Washington study found that total earnings for low-wage workers fell after the increase. A simultaneous UC Berkeley study found modest employment and wage gains. The difference turned on methodology (UW used more complete payroll data; Berkeley used restaurant industry data). Both studies are peer-reviewed. Using only the UW study without acknowledging the Berkeley study is cherry-picking."
+    },
+    {
+      "id": "hint-2",
+      "title": "On 'basic economics'",
+      "content": "The supply/demand model of labour does predict that a price floor above equilibrium reduces employment — in a perfectly competitive labour market. Most labour economists now argue that many low-wage labour markets are not perfectly competitive (employers have monopsony power), which changes the prediction. 'Basic economics' is being cited as settled theory when the empirical application is genuinely contested among economists."
+    },
+    {
+      "id": "hint-3",
+      "title": "On the 'always' claim",
+      "content": "The word 'always' is empirically testable and almost certainly false. The Congressional Budget Office's 2021 analysis of a $15 federal minimum wage projected 1.4 million jobs lost alongside 900,000 people lifted out of poverty — a complex trade-off, not a universally negative outcome. Research on moderate minimum wage increases in low-unemployment markets consistently shows smaller disemployment effects than standard theory predicts. 'Always' is overreach."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "INFERENCE TYPE: The argument is primarily deductive (from economic theory) combined with inductive (from the Seattle case). The deductive move (price floors reduce employment) is theoretically valid under specific assumptions (competitive labour markets) — it is not merely FRISCO's weakest element. The inductive move (Seattle case → universal conclusion) is the overreach.",
+      "CHERRY-PICKING (primary fallacy): The Seattle minimum wage research produced two simultaneous, well-regarded studies with different conclusions. Citing only the one supporting the conclusion (UW study showing earnings fell) while not acknowledging the Berkeley study is classic cherry-picking.",
+      "HASTY GENERALISATION: The argument moves from one case study (Seattle, $15) to a universal claim ('always'). A single case cannot establish a universal negative outcome, especially when the empirical literature is mixed across different minimum wage levels, regional labour markets, and economic conditions.",
+      "APPEAL TO CONSENSUS — MISREPRESENTED: 'The economic science here is settled' is false. The minimum wage literature is one of the most actively debated in empirical economics. The debate involves methodological disputes (how to measure disemployment), theoretical disputes (competitive vs. monopsony models), and empirical disputes (effect sizes vary widely by setting). Claiming the science is settled on the author's preferred side misrepresents the state of the literature.",
+      "CLARITY — 'LOW-SKILLED WORKERS': The claim that minimum wage 'destroys jobs for low-skilled workers' conflates employment levels, hours worked, and total earnings — which can move in different directions. A worker who loses 4 hours/week but receives a wage premium may have higher or lower total income depending on the size of the premium. 'Hurts' needs to be defined as which of these outcomes.",
+      "SITUATION: The chamber of commerce has a clear institutional interest in opposing the minimum wage increase — the member businesses would directly bear the cost. This is a legitimate conflict of interest that warrants higher evidence standards — specifically, citing only evidence supporting the preferred conclusion.",
+      "WHAT THE ARGUMENT GETS RIGHT: The supply/demand argument is theoretically valid under competitive market assumptions, and some evidence does show disemployment effects — particularly for larger minimum wage increases in high-unemployment areas. The concern is not fabricated.",
+      "REVISED CLAIM: 'The effects of minimum wage increases on employment and worker welfare are genuinely contested in the economics literature and appear to vary significantly by the size of the increase, regional labour market conditions, and whether local employers have wage-setting power. Moderate increases in tight labour markets show smaller disemployment effects than standard theory predicts; large increases in slack markets show larger ones. \"Always hurts workers\" is not supported by the evidence; \"sometimes and under some conditions produces disemployment effects that offset wage gains\" is the honest formulation.'"
+    ],
+    "revised_position": "The argument identifies a real economic mechanism (price floors reducing employment in competitive markets) but presents it as a universal law when it is a conditional prediction. It cherry-picks from the empirical literature, uses one case study to reach a universal conclusion, and misrepresents the state of academic debate."
+  },
+  "template_prefill": {
+    "template_id": "frisco-quick-analysis-v1",
+    "subject_value": "Basic economics tells us that raising the minimum wage destroys jobs for low-skilled workers. When you artificially raise the price of labour above its market value, employers substitute with automation, cut hours, or close down. We saw this clearly when Seattle raised its minimum wage to $15 — small restaurants closed and workers' total earnings actually fell. The economic science here is settled: minimum wage hikes always hurt the workers they claim to help, and any politician who supports them either doesn't understand economics or is pandering to unions.",
+    "context_note": "Business newspaper op-ed by a regional chamber of commerce president. Practice Problem PP-04 — FRISCO medium (est. 15 min). Note: this is a genuinely contested empirical domain — the goal is to identify overreach, not to dismiss the entire argument."
+  }
+}

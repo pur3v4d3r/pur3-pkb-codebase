@@ -1,0 +1,55 @@
+{
+  "id": "PP-06",
+  "pp_number": "PP-06",
+  "title": "Epistemic Vigilance",
+  "framework": "see-i",
+  "framework_label": "SEE-I (Paul-Elder)",
+  "object_type": "concept",
+  "difficulty": "medium",
+  "estimated_minutes": 18,
+  "related_worked_example_id": "WE-03",
+  "related_template_id": "see-i-elaboration-v1",
+  "tags": ["see-i", "concept", "epistemology", "cognitive-science", "social-reasoning"],
+  "object_of_analysis": "Epistemic Vigilance — as developed by Dan Sperber, Hugo Mercier, and colleagues in the cognitive science of communication.",
+  "context": "You encountered this concept in an article about why humans are not simply credulous information-absorbers. You want to understand it well enough to apply it to your own media literacy and to explain it to someone who has never heard of it.",
+  "instructions": "Apply the SEE-I method to elaborate epistemic vigilance. This is a medium-difficulty problem because:\n1. The concept is less well-known than confirmation bias or cognitive load — you may need to do 5-10 minutes of research before attempting the State step\n2. The concept is easily confused with skepticism and with critical thinking itself — the counter-example must draw a precise distinction\n3. The Illustrate step requires finding a structural analogy for a social coordination mechanism, which is harder than analogising a within-person process\n\nNote: If you are unfamiliar with this concept, this problem is also a practice in researching a concept sufficiently to elaborate it — itself a metacognitive skill.",
+  "workspace_prompts": {
+    "state": "Before writing: what is the one thing that distinguishes epistemic vigilance from generic skepticism? Epistemic vigilance is specifically a social mechanism — it applies to the evaluation of information received from OTHER PEOPLE, not to self-generated reasoning. How does that distinction shape the State sentence?",
+    "elaborate": "Sperber and Mercier argue that epistemic vigilance is an evolved cognitive capacity. What does it evaluate? What signals trigger higher or lower vigilance? How does it differ from just 'being careful'?",
+    "exemplify": "Give one example from a domain where epistemic vigilance is functioning well (appropriate calibration) and one where it is failing in an interesting direction (either too high — dismissing good information — or too low — accepting poor information).",
+    "counter_example": "What looks like epistemic vigilance but is not? General skepticism? Cynicism? Motivated rejection of information? What is the specific defining feature that distinguishes genuine epistemic vigilance from these lookalikes?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the core concept",
+      "content": "Epistemic vigilance (Sperber, Mercier, Heintz, 2010) is the set of cognitive mechanisms that allow us to assess the reliability and validity of information received from others. The key features: (1) it is specifically triggered by communicated information, not self-generated reasoning; (2) it evaluates both source reliability (can I trust this person?) and content plausibility (does this fit with what I already know?); (3) it operates on a spectrum — too much leads to failure to update on good information; too little leads to credulity."
+    },
+    {
+      "id": "hint-2",
+      "title": "On the counter-example",
+      "content": "Consider: a person who rejects all mainstream media on principle is exercising something that looks like epistemic vigilance but may actually be inverted epistemic vigilance — selectively high scrutiny toward sources they distrust and very low scrutiny toward sources that confirm their worldview. The original concept requires calibration: adjusting scrutiny based on relevant evidence about source reliability, not based on whether the content is agreeable."
+    },
+    {
+      "id": "hint-3",
+      "title": "On why this concept matters for PKM and critical thinking",
+      "content": "The relevance of epistemic vigilance for critical thinking practice: it explains why you need to evaluate the source of information before evaluating its content — because the source's incentives, track record, and epistemic position should calibrate how much evidence you demand before updating your beliefs. FRISCO's Situation step and Paul-Elder's Assumptions element both operationalise epistemic vigilance in structured form."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "STATE: Epistemic vigilance is the evolved capacity to calibrate how much trust to extend to communicated information based on assessments of source reliability and content plausibility — the mechanism that allows social learners to acquire useful knowledge from others without being trivially exploited by misinformation.",
+      "ELABORATE MUST INCLUDE: (1) The distinction between source evaluation (is this person reliable? do they have incentives to mislead?) and content evaluation (does this claim fit with what I know? is it internally coherent?); (2) the two failure modes — too much vigilance (failure to learn from genuine experts) and too little (credulity); (3) the evolved character — Sperber and Mercier argue this developed because the benefits of social learning (access to others' knowledge) outweigh the risks if calibrated vigilance is applied.",
+      "COUNTER-EXAMPLE: Systematic partisan skepticism — the pattern of applying very high scrutiny to sources whose conclusions you dislike and very low scrutiny to sources whose conclusions you find agreeable — looks like epistemic vigilance (you're evaluating sources!) but is actually its inversion. Genuine epistemic vigilance calibrates based on evidence of reliability, not based on whether the output is welcome.",
+      "TRANSFER EXAMPLE: Effective due diligence in venture capital investing: a good investor does not reject all pitches with skepticism (too much vigilance) and does not accept all pitches with enthusiasm (too little). They calibrate scrutiny based on founder track record (source reliability) and whether the business model is internally coherent (content plausibility). The investor who invests in frauds has failed vigilance; the one who rejects all opportunities has excessive vigilance.",
+      "ANALOGY: Epistemic vigilance is like an email spam filter that learns — it does not block all incoming messages (too much vigilance) or pass all messages (too little), but instead uses sender reputation, content patterns, and consistency with known patterns to calibrate scrutiny, with the expectation of error in both directions and a mechanism to update. The 'because' clause: both operate on probabilistic assessment of source reliability combined with content plausibility, both are calibrated rather than binary, and both have the same two failure modes.",
+      "COMMONLY CONFUSED: (1) Epistemic vigilance vs. skepticism — skepticism is an epistemological stance toward all claims; epistemic vigilance is specifically a social mechanism for evaluating communicated information, not self-generated reasoning or abstract claims. (2) Epistemic vigilance vs. confirmation bias — confirmation bias degrades vigilance by making it sensitive to content agreement rather than source reliability. They interact but are distinct mechanisms."
+    ],
+    "revised_position": "Epistemic vigilance is the calibrated social-evaluation mechanism that allows humans to be effective social learners — trusting credible sources and appropriate content while maintaining scrutiny against manipulation. Its key features are source/content dual-evaluation and the calibration spectrum between credulity and closed-mindedness."
+  },
+  "template_prefill": {
+    "template_id": "see-i-elaboration-v1",
+    "subject_value": "Epistemic Vigilance (Sperber, Mercier et al., 2010 — cognitive science of communication)",
+    "context_note": "SEE-I elaboration of a less well-known epistemological concept. Practice Problem PP-06 — SEE-I medium (est. 18 min). Tip: do 5-10 minutes of research first if unfamiliar. Key challenge: distinguishing from generic skepticism in the counter-example, and finding a non-social-science transfer example. See WE-03 for the Confirmation Bias elaboration as a style reference."
+  }
+}

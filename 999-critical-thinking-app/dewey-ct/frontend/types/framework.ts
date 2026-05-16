@@ -79,3 +79,75 @@ export interface PortfolioEntry {
   responses: Record<string, unknown>;
   tags: string[];
 }
+
+// ---- Worked Example types ----
+
+export interface WorkedExampleSection {
+  section_label: string;
+  content?: string;
+  fields?: Array<{ label: string; content: string }>;
+}
+
+export interface WorkedExample {
+  id: string;
+  we_number: string;
+  title: string;
+  subtitle?: string;
+  framework: string;
+  framework_label: string;
+  object_type: string;
+  question_type?: string;
+  stakes?: string;
+  difficulty: 'beginner' | 'intermediate' | 'advanced';
+  duration_minutes: number;
+  pre_confidence?: number;
+  post_confidence?: number;
+  rigor_score?: number;
+  mastery_rating?: number;
+  tags: string[];
+  summary: string;
+  how_to_use: string;
+  learning_objectives: string[];
+  related_template_id?: string;
+  related_practice_problems?: string[];
+  sections: WorkedExampleSection[];
+  [key: string]: unknown;
+}
+
+// ---- Practice Problem types ----
+
+export interface PracticeProblemHint {
+  id: string;
+  title: string;
+  content: string;
+}
+
+export interface PracticeProblem {
+  id: string;
+  pp_number: string;
+  title: string;
+  framework: string;
+  framework_label: string;
+  object_type: string;
+  difficulty: 'easy' | 'medium' | 'hard';
+  estimated_minutes: number;
+  related_worked_example_id?: string | null;
+  related_template_id: string;
+  tags: string[];
+  object_of_analysis: string;
+  context?: string;
+  instructions: string;
+  workspace_prompts?: Record<string, string>;
+  hints: PracticeProblemHint[];
+  solution_sketch: {
+    key_moves: string[];
+    revised_position?: string;
+  };
+  template_prefill: {
+    template_id: string;
+    subject_value?: string;
+    context_note: string;
+  };
+  [key: string]: unknown;
+}
+

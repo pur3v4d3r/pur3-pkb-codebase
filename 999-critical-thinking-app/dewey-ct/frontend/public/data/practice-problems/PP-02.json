@@ -1,0 +1,55 @@
+{
+  "id": "PP-02",
+  "pp_number": "PP-02",
+  "title": "\"Universities should require every undergraduate to complete an AI literacy course\"",
+  "framework": "paul-elder",
+  "framework_label": "Paul-Elder Framework",
+  "object_type": "policy",
+  "difficulty": "hard",
+  "estimated_minutes": 60,
+  "related_worked_example_id": "WE-01",
+  "related_template_id": "deliberate-practice-full-v1",
+  "tags": ["paul-elder", "policy", "AI", "education", "competing-values", "standpoints"],
+  "object_of_analysis": "\"All universities should require every undergraduate, regardless of major, to complete at least one course in AI literacy before graduation. AI is transforming every field — from medicine to law to art — and graduates who do not understand how AI systems work will be at a severe disadvantage in the workforce and as citizens. The cost of not acting is greater than the cost of curriculum disruption.\"",
+  "context": "This policy proposal appears in a university senate discussion paper, authored by a technology faculty coalition. It is being presented to a senate committee that includes faculty from humanities, social sciences, natural sciences, professional programs (medicine, law, engineering), and student representatives.",
+  "instructions": "This is a hard Paul-Elder problem requiring the full Deliberate Practice template. The argument's difficulty comes from three interacting complexities:\n\n1. 'AI literacy' is a contested concept with at least 4 distinct definitions in the education policy literature — each entailing a different course design\n2. The policy displaces existing required courses (curriculum space is finite) — the 'cost of not acting' claim requires examining what gets cut and for whom\n3. The stakeholder landscape is genuinely multi-perspectival — 5+ standpoints with legitimate competing interests\n\nComplete all 8 elements. The Standpoints element and the Implications element will require the most time. The steelman should represent the strongest version of the case for the policy from the perspective of a stakeholder who would be most disrupted by it (not the technology faculty who proposed it).",
+  "workspace_prompts": {
+    "concepts": "Before proceeding: what does 'AI literacy' mean? List at least 3 distinct definitions and explain how each entails a different course, a different assessment, and a different level of resource requirement. Which definition does this proposal appear to be using?",
+    "information": "What would you need to know to assess whether 'graduates who do not understand AI will be at a severe disadvantage'? Is the claim about workforce disadvantage or about civic participation? Are these the same question?",
+    "implications": "If this policy passes: what gets cut from the curriculum to make space? Who decides? Are all undergraduate curricula equally able to absorb a new requirement? Consider a student in a 4-year medical preparatory program with already-compressed elective space.",
+    "standpoints": "Name 5 distinct stakeholders with materially different perspectives on this policy: (1) technology industry employers, (2) humanities faculty, (3) first-generation students with limited elective space, (4) university administration managing accreditation requirements, (5) students in professional tracks. What would the most disrupted stakeholder's best argument against the policy look like?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the concept 'AI literacy'",
+      "content": "At minimum, consider: (a) technical literacy (how LLMs and neural networks actually work), (b) critical literacy (how to evaluate AI outputs, detect hallucinations, understand bias), (c) ethical literacy (governance, labour displacement, privacy), (d) applied literacy (how to use AI tools effectively in a specific domain). Each of these is a different course. The proposal does not specify which, which is itself a significant analytical problem."
+    },
+    {
+      "id": "hint-2",
+      "title": "On curriculum displacement",
+      "content": "University curricula are not infinitely extensible. If a mandatory AI literacy course is added, something else must be reduced or removed. For some programs (liberal arts with significant elective space) this is relatively low-cost. For others (nursing, pre-med, engineering accreditation-heavy programs) this may require removing a required course with professional licensure implications. The proposal's phrase 'cost of not acting is greater than the cost of curriculum disruption' elides this asymmetry."
+    },
+    {
+      "id": "hint-3",
+      "title": "On the steelman",
+      "content": "The strongest steelman is NOT from a technology employer who wants AI-literate graduates (they have an obvious interest). The strongest steelman is from a humanities faculty member who genuinely believes their students are being disadvantaged by AI illiteracy — and who can articulate why a universal requirement is better than an optional course or department-level integration."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "CONCEPTS — 'AI literacy' contains at minimum 4 distinct definitions: (a) technical (architecture, training), (b) critical/evaluative (outputs, bias, hallucination), (c) ethical/governance, (d) applied/domain-specific. The proposal does not specify which. A mandatory course in (a) has very different resource, faculty, and curriculum implications than a mandatory course in (b). The fact that the proposal does not specify this is evidence that 'AI literacy' is being used as a political term rather than a pedagogical one.",
+      "INFORMATION — The claim 'graduates without AI understanding will be at severe disadvantage' has two distinct sub-claims: (1) workforce disadvantage and (2) civic/democratic disadvantage. These may require different literacy levels and different course designs. The evidence base for (1) exists but is contested (AI tool adoption varies enormously by field); the evidence base for (2) is thinner.",
+      "ASSUMPTIONS — Load-bearing assumption: a mandatory course is the right delivery mechanism for AI literacy. This assumes: (a) AI literacy is teachable as a discrete course rather than embedded across the curriculum, (b) students will retain and apply literacy from a compulsory course they may view as irrelevant to their major, (c) the faculty expertise to deliver quality AI literacy courses is available at scale across all universities proposing this. All three are questionable.",
+      "STANDPOINTS — The genuine steelman from the humanities: 'AI tools are already being used by students to complete humanities assignments in ways that undermine the development of the writing and reasoning skills those assignments are designed to build. A mandatory AI literacy course that includes critical evaluation of AI outputs would actually protect humanities learning objectives by helping students understand what AI can and cannot do — not just in technology contexts but in their own disciplines.' This is a genuine counterintuitive pro-policy argument from the most likely opponent of the policy.",
+      "IMPLICATIONS — The policy's most significant unexamined implication is the curriculum governance question: who decides what course gets cut to make space? Technology faculty proposing the mandate benefit; departments that lose required hours are disadvantaged. This is a political economy question embedded in an educational quality argument.",
+      "REVISED CLAIM: 'Universities should develop institutionally specific frameworks for building AI competency across undergraduate curricula, recognising that (a) the relevant literacy type varies significantly by field, (b) mandatory courses may not be the most effective delivery mechanism in all contexts, and (c) the curriculum displacement question requires transparent governance. A blanket mandate across all programs without specifying content, assessment, or displacement mechanism is premature.'"
+    ],
+    "revised_position": "The underlying concern is legitimate — AI literacy matters across fields. But the policy as stated elides four distinct definitions of 'AI literacy,' ignores asymmetric curriculum displacement costs across programs, and proposes the weakest delivery mechanism (compulsory course) without evidence it produces the literacy gains claimed."
+  },
+  "template_prefill": {
+    "template_id": "deliberate-practice-full-v1",
+    "subject_value": "All universities should require every undergraduate, regardless of major, to complete at least one course in AI literacy before graduation. AI is transforming every field — from medicine to law to art — and graduates who do not understand how AI systems work will be at a severe disadvantage in the workforce and as citizens. The cost of not acting is greater than the cost of curriculum disruption.",
+    "context_note": "University senate discussion paper by a technology faculty coalition. Practice Problem PP-02 — Paul-Elder hard (est. 60 min). See PP-01 for an easier Paul-Elder argument to practice on first. Key focus: Concepts (4 definitions of AI literacy), Implications (curriculum displacement), Standpoints (genuine steelman from humanities faculty)."
+  }
+}

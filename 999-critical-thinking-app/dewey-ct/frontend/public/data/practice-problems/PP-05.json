@@ -1,0 +1,55 @@
+{
+  "id": "PP-05",
+  "pp_number": "PP-05",
+  "title": "Cognitive Load",
+  "framework": "see-i",
+  "framework_label": "SEE-I (Paul-Elder)",
+  "object_type": "concept",
+  "difficulty": "easy",
+  "estimated_minutes": 12,
+  "related_worked_example_id": "WE-03",
+  "related_template_id": "see-i-elaboration-v1",
+  "tags": ["see-i", "concept", "cognitive-science", "learning", "instructional-design"],
+  "object_of_analysis": "Cognitive Load — as used in Sweller's Cognitive Load Theory (1988) and its educational applications.",
+  "context": "You are preparing to explain Cognitive Load Theory to a study group preparing for an educational psychology exam. You also want to understand whether the concept is relevant to your own note-taking practice.",
+  "instructions": "Apply the SEE-I method to elaborate the concept of Cognitive Load. Use the SEE-I Elaboration template.\n\nThis concept is a good practice target because:\n1. It is commonly misunderstood (most people think 'cognitive load' just means 'how hard something feels')\n2. The State step requires a careful decision about whether to mention Sweller's three-type distinction in the statement itself or save it for the Elaborate step\n3. The counter-example is non-obvious and reveals the concept's edge condition\n4. The transfer example should be in a domain other than education (where the concept was developed)\n\nSee WE-03 for a complete SEE-I elaboration of Confirmation Bias to compare your style and choices against.",
+  "workspace_prompts": {
+    "state": "Before writing: what is the single most important thing to convey about cognitive load in one sentence? Is it the three types? Is it the relationship to working memory capacity? Is it the design implication? Choose the one thing that most distinguishes this concept from 'how hard something is.'",
+    "elaborate": "Sweller distinguishes three types: intrinsic (complexity inherent to the material), extraneous (complexity created by poor instructional design), and germane (complexity that supports schema formation). Which of these is most commonly confused with the others? What is the exclusion clause — what is cognitive load NOT?",
+    "exemplify": "What would a familiar-domain example look like in a context you know well? Then: what would a transfer example look like in software engineering, cooking, sports coaching, or another non-education domain?",
+    "illustrate": "What structural analogy captures how cognitive load works — specifically the relationship between working memory capacity, intrinsic task complexity, and extraneous design friction? What is the 'because' clause that makes the analogy structural rather than merely evocative?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "On the State step",
+      "content": "The key distinction is that cognitive load specifically refers to demands placed on working memory — not on effort, difficulty, or engagement generally. A task can be difficult (requiring skill, time, or persistence) without placing high cognitive load on working memory. A 100-piece jigsaw puzzle takes skill and time but does not overload working memory. A sentence in 3-clause embedded syntax may take only 5 seconds to read but genuinely exceeds working memory capacity. State should capture the working memory connection."
+    },
+    {
+      "id": "hint-2",
+      "title": "On the counter-example",
+      "content": "The counter-example should be: something that feels difficult, taxing, or laborious, but does NOT produce high cognitive load in the technical sense. Sweller's definition is specifically about working memory. Physical difficulty, emotional difficulty, motivational difficulty, and temporal difficulty are all real — none are cognitive load in Sweller's sense. Find a concrete example of high difficulty with low cognitive load."
+    },
+    {
+      "id": "hint-3",
+      "title": "On germane load",
+      "content": "Germane load is the most misunderstood component. It is NOT 'the effort of learning' — it is specifically the cognitive work involved in forming schemas (mental models that allow chunking of information, reducing future load). Germane load is desirable; extraneous load is not. A well-designed practice exercise that makes you think hard in the right way creates germane load. A poorly formatted textbook that makes you think hard just to parse the presentation creates extraneous load."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "STATE: Cognitive load is the total demand that a mental task places on the limited capacity of working memory — the distinction between cognitive load and difficulty is that difficulty encompasses motivational, temporal, and skill-based demands, while cognitive load specifically measures working memory utilisation.",
+      "ELABORATE MUST INCLUDE: (1) Sweller's three types — intrinsic (inherent to the material's complexity and the learner's prior knowledge), extraneous (caused by poor instructional design), germane (schema-building work that is desirable because it reduces future load); (2) the working memory bottleneck as the causal mechanism; (3) the exclusion clause: cognitive load is NOT the same as difficulty, effort, engagement, or time-on-task.",
+      "COUNTER-EXAMPLE (the key insight): A highly skilled electrician replacing a breaker they have done 200 times is performing a physically demanding, potentially dangerous task requiring professional skill — but the cognitive load is LOW because they have extensive schemas that chunk the procedure into familiar patterns. Difficulty ≠ cognitive load. Alternatively: memorising a 7-digit phone number places HIGH working memory load but is not difficult in the sense requiring skill or strength.",
+      "TRANSFER EXAMPLE: A software engineer onboarding to a new codebase with inconsistent naming conventions, no documentation, and 14 levels of abstraction is experiencing high EXTRANEOUS cognitive load — not because the underlying logic is complex (intrinsic load) but because the presentation makes the logic hard to extract. A senior developer who wrote the code has low cognitive load because they have schemas for the patterns.",
+      "ANALOGY: Cognitive load is like trying to juggle — the number of balls is intrinsic load (determined by the task), having to juggle on a unicycle simultaneously is extraneous load (unnecessary add-on that competes for the same balancing resource), and the hours you spend practicing patterns that become automatic is germane load (the work that builds skill). The analogy captures the three-type structure and the working memory bottleneck (the juggler only has two hands).",
+      "COMMONLY CONFUSED: (1) Cognitive load vs. difficulty — see counter-example above; (2) extraneous vs. intrinsic load — a poorly-written explanation of quantum mechanics has both: the intrinsic load (quantum weirdness is genuinely complex) plus extraneous load (poor explanation). Distinguishing the two is an instructional design question."
+    ],
+    "revised_position": "Cognitive load is the demand a mental task places specifically on working memory capacity. Its key three-component structure (intrinsic/extraneous/germane) is what distinguishes it from generic 'difficulty' — and the distinction has direct practical implications for instructional design and note-taking practice."
+  },
+  "template_prefill": {
+    "template_id": "see-i-elaboration-v1",
+    "subject_value": "Cognitive Load (Sweller's Cognitive Load Theory, 1988)",
+    "context_note": "SEE-I elaboration of a cognitive science concept with direct application to learning and PKM. Practice Problem PP-05 — SEE-I easy (est. 12 min). The key challenge is the counter-example (difficulty ≠ cognitive load) and the transfer to a non-educational domain. See WE-03 for the Confirmation Bias elaboration as a style reference."
+  }
+}
