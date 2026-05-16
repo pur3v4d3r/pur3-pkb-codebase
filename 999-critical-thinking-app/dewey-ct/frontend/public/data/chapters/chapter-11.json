@@ -1,0 +1,77 @@
+{
+  "chapter": 11,
+  "title": "Systematic Method: Control of Data and Evidence",
+  "abstract": "Dewey examines how scientific method achieves rigor not by abandoning the basic inferential structure of ordinary thinking but by systematically controlling the selection, observation, and interpretation of data — transforming raw experience into genuine evidence through hypothesis-guided inquiry.",
+  "overview": "Chapter Eleven opens Part Two's extended treatment of logic by showing that science does not introduce a new kind of thinking but disciplines the ordinary cycle of inference and testing. Dewey argues that facts do not speak for themselves: only a guiding hypothesis turns observation into purposive data-collection, and only experimental variation isolates which features are causally relevant. The chapter traces the mutual dependence of hypothesis and fact — each constrains and refines the other through successive cycles of observation and inference — and warns that both premature closure on a favored hypothesis and the naive accumulation of unguided observations are characteristic failures of undisciplined thought.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "reflection is an operation in which facts on one side",
+      "quote": "Reflection is an operation in which facts on one side and meaning on the other are elicited through constant interaction.",
+      "insight": "Dewey's framing dissolves the supposed opposition between induction (fact-gathering) and deduction (meaning-application). In genuine inquiry the two poles exist only in and through each other: facts without hypotheses are mute; hypotheses without facts are empty."
+    },
+    {
+      "type": "quote",
+      "line_hint": "facts do not select themselves",
+      "quote": "Facts do not select themselves; the mind selects them, and selection is controlled by the dominant interest at the time.",
+      "insight": "This claim carries epistemological weight that is still underappreciated: the observer's guiding interest determines what counts as a fact in the first place. The implication for pedagogy is that teaching observation without teaching the habit of posing guiding questions produces not rigorous data-collection but merely passive looking."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Evidence vs. Raw Fact",
+      "definition": "A raw fact is any observed datum; evidence is a fact that has been selected and interpreted as bearing on a specific hypothesis. The transformation from fact to evidence requires a controlling question that makes the observation purposive.",
+      "why_it_matters": "This distinction explains why naive empiricism — simply accumulating observations — cannot produce scientific knowledge. Evidence is constituted by the hypothesis it bears upon, which means that inquiry must begin with a provisional interpretive framework.",
+      "modern_echo": "Philosophy of science's concept of theory-ladenness of observation directly echoes Dewey's point: what counts as a relevant datum is always relative to an investigative framework."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Hypothesis-Guided Observation",
+      "definition": "The practice of directing perceptual attention by means of a tentative interpretive idea, so that what is noticed and recorded is controlled by the inferential question under investigation rather than by salience or habit.",
+      "why_it_matters": "Hypothesis-guided observation is what separates investigation from mere looking. Without it, learners cannot develop the disciplined selectivity that characterizes expert inquiry.",
+      "modern_echo": "Contemporary inquiry-based science education emphasizes student-generated research questions precisely to install this hypothesis-first orientation."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Experimental Variation",
+      "definition": "The systematic alteration of one factor while holding others constant, in order to isolate which element of a situation is causally responsible for an observed outcome.",
+      "why_it_matters": "Variation is the logical engine of controlled inquiry: it converts correlation into warranted causal inference by eliminating alternative explanations one by one.",
+      "modern_echo": "The modern randomized controlled trial is the institutional realization of Dewey's principle of experimental variation, applied at scale with statistical controls."
+    },
+    {
+      "type": "warning",
+      "misconception": "Scientific method is essentially induction — accumulating a sufficient quantity of similar instances until a general law becomes evident.",
+      "correction": "Dewey argues that quantity of instances matters far less than quality of contrast. A single well-designed experiment that varies the critical factor and holds others constant yields more causal knowledge than a hundred passive observations of the same unvaried phenomenon.",
+      "still_relevant": "Science curricula that emphasize data-collection without teaching hypothesis-formation and experimental design produce students who can observe but not investigate."
+    },
+    {
+      "type": "tip",
+      "principle": "Teach students to formulate a guiding question before any observation activity, and to state what difference in outcome would confirm or disconfirm their tentative answer.",
+      "in_practice": "Before a science lab, require students to write: 'I expect X because of Y; if Z happens instead, my hypothesis is wrong.' This pre-commitment forces hypothesis-formation and makes the subsequent observation genuinely purposive rather than passive."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "Scientific rigor consists not in abandoning ordinary inferential thinking but in systematically controlling both poles of the inference cycle — hypothesis and observation — so that each disciplines the other through successive rounds of purposive data-collection and conceptual revision.",
+      "logical_progression": [
+        "Ordinary inference leaps from present data to an absent conclusion; science disciplines this leap by requiring explicit statement of the guiding hypothesis before observation begins.",
+        "Facts become evidence only when selected and interpreted relative to a hypothesis; hypothesis becomes knowledge only when constrained by evidence gathered under controlled conditions.",
+        "Experimental variation — systematically altering one factor while holding others constant — is the technical instrument by which the mutual constraint of hypothesis and evidence achieves the precision that distinguishes scientific from commonsense inquiry."
+      ],
+      "bridge_to_next": "Having examined how data and evidence are controlled, Chapter Twelve turns to the parallel problem of controlling reasoning itself — the conceptual side of inquiry — through the systematic use of definitions, general principles, and theoretical frameworks."
+    }
+  ],
+  "concepts": [
+    {"name": "Evidence", "definition": "A fact that has been selected and interpreted as bearing on a specific hypothesis; distinguished from raw data by the controlling question that makes the observation purposive."},
+    {"name": "Hypothesis-Guided Observation", "definition": "Perceptual attention directed by a tentative interpretive idea, making what is noticed and recorded controlled by the investigative question rather than by salience or habit."},
+    {"name": "Experimental Variation", "definition": "Systematic alteration of one factor while holding others constant, isolating which element of a situation is causally responsible for an observed outcome."},
+    {"name": "Mutual Constraint of Hypothesis and Fact", "definition": "The iterative relationship in which hypothesis guides observation and observation revises hypothesis, with each cycle tightening the fit between interpretive idea and empirical datum."},
+    {"name": "Purposive Data-Collection", "definition": "The selection and recording of observations governed by an explicit investigative question, as opposed to passive accumulation of whatever is sensorially salient."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 10, "reason": "Chapter Ten established how concepts become stable through definition and intension/extension; Chapter Eleven shows how those stable concepts function as the hypotheses that direct evidential inquiry."}],
+    "anticipates": [{"chapter": 12, "reason": "Having treated the control of data through hypothesis-guided observation, Dewey turns in Chapter Twelve to the complementary problem of controlling reasoning through systematic use of concepts and general principles."}],
+    "contrasts_with": [
+      {"concept": "Naive Inductivism", "reason": "Dewey rejects the view that science proceeds by accumulating instances until patterns become evident; purposive hypothesis-formation precedes and directs observation."},
+      {"concept": "Pure Deductivism", "reason": "Dewey equally rejects the view that inquiry proceeds from fixed axioms by logical necessity alone; hypotheses must be tested against evidence gathered under controlled conditions."}
+    ]
+  }
+}

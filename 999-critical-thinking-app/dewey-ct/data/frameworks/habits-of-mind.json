@@ -1,0 +1,229 @@
+{
+  "framework": "Habits of Mind",
+  "authors": ["Arthur L. Costa", "Bena Kallick"],
+  "key_work": "Habits of Mind: A Curriculum for Thinking (2000)",
+  "type": "Dispositional / Character Framework",
+  "description": "Costa and Kallick identify 16 cognitive dispositions — 'Habits of Mind' — that characterize intelligent, effective thinkers. Unlike skill-based frameworks, HOM focuses on the dispositions to know HOW to behave intelligently when encountering problems for which no easy answer exists. Each habit is a pattern of intellectual behaviors, not just a mental operation.",
+  "core_definition": "A Habit of Mind is a disposition toward behaving intelligently when confronted with problems, the answers to which are not immediately known. A habit of mind involves knowing how to behave, when to use the strategy, and having the dispositions, motivations, and inclinations to deploy that behavior.",
+  "dewey_connection": "Costa and Kallick explicitly situate HOM within Dewey's tradition of reflective thinking. Dewey argued that effective thinking is not reducible to skills but requires what he called 'attitudes' — dispositions to approach problems with curiosity, open-mindedness, and diligence. The 16 habits are a detailed elaboration of the dispositional dimension Dewey identified.",
+  "paul_elder_connection": "Paul and Elder's 7 Intellectual Virtues and Costa/Kallick's 16 HOM overlap substantially. Both frameworks argue that CT requires not just skills but character. Key overlaps: Persisting ↔ Intellectual Perseverance; Managing Impulsivity ↔ Intellectual Humility; Thinking Flexibly ↔ Intellectual Open-mindedness; Thinking about Thinking ↔ Metacognition.",
+  "sixteen_habits": [
+    {
+      "number": 1,
+      "habit": "Persisting",
+      "core_description": "Sticking to a task when the solution is not immediate. Not giving up. Employing systematic methods of problem analysis and solution.",
+      "behavioral_indicators": [
+        "Continues working when confused or uncertain",
+        "Tries different approaches when the first fails",
+        "Sets incremental goals to maintain progress",
+        "Uses internal dialogue to maintain motivation"
+      ],
+      "absence_indicators": ["Gives up quickly when frustrated", "Seeks premature closure", "Says 'I can't do this' and stops"],
+      "dewey_phase": "All phases — persisting is what sustains inquiry",
+      "paul_elder_trait": "Intellectual Perseverance"
+    },
+    {
+      "number": 2,
+      "habit": "Managing Impulsivity",
+      "core_description": "Thinking before acting. Deliberately resisting the urge to respond immediately. Forming a plan before beginning.",
+      "behavioral_indicators": [
+        "Pauses before answering difficult questions",
+        "Counts to ten before reacting in charged situations",
+        "Thinks through multiple approaches before beginning",
+        "Asks clarifying questions before starting"
+      ],
+      "absence_indicators": ["Blurts out first answers", "Acts without planning", "Interrupts with unconsidered responses"],
+      "dewey_phase": "Phase 1/2 — before moving from felt difficulty to intellectualization",
+      "system_connection": "Managing impulsivity = engaging System 2 over System 1 default"
+    },
+    {
+      "number": 3,
+      "habit": "Listening with Understanding and Empathy",
+      "core_description": "Understanding others' points of view. Holding one's own thoughts in abeyance while genuinely attending to another's thinking. Paraphrasing others' ideas before responding.",
+      "behavioral_indicators": [
+        "Paraphrases before responding",
+        "Asks questions to understand rather than to rebut",
+        "Attends to emotional content as well as propositional content",
+        "Holds own views tentatively while listening"
+      ],
+      "absence_indicators": ["Interrupts frequently", "Formulates rebuttal while the other is still speaking", "Responds to what they expected to hear rather than what was said"],
+      "paul_elder_trait": "Intellectual Empathy"
+    },
+    {
+      "number": 4,
+      "habit": "Thinking Flexibly",
+      "core_description": "The capacity to change perspectives, consider alternatives, generate multiple approaches to a problem, and hold multiple viewpoints simultaneously.",
+      "behavioral_indicators": [
+        "Generates multiple alternatives before committing",
+        "Takes opposing perspectives seriously",
+        "Changes approach when initial strategy isn't working",
+        "Uses lateral thinking and analogical reasoning"
+      ],
+      "absence_indicators": ["Insists on a single solution", "Unwilling to reconsider initial approach", "Treats one's own perspective as the only valid one"],
+      "paul_elder_trait": "Intellectual Courage, Intellectual Empathy"
+    },
+    {
+      "number": 5,
+      "habit": "Thinking about Thinking (Metacognition)",
+      "core_description": "Awareness of one's own thinking processes. Ability to plan, monitor, and evaluate one's own cognitive strategies. Knowing what one knows and doesn't know.",
+      "behavioral_indicators": [
+        "Can articulate own thinking strategies",
+        "Monitors comprehension while reading or listening",
+        "Knows when understanding has broken down",
+        "Reflects on cognitive performance after completing tasks"
+      ],
+      "absence_indicators": ["Cannot describe how they solved a problem", "Proceeds without checking understanding", "Unaware of errors in own thinking"],
+      "dewey_connection": "Metacognition is Dewey's reflective consciousness applied to one's own reasoning",
+      "paul_elder_trait": "All Intellectual Standards — applied to one's own thinking"
+    },
+    {
+      "number": 6,
+      "habit": "Striving for Accuracy",
+      "core_description": "The drive to produce excellence — checking work, reviewing, revising, refusing to accept less than quality performance from oneself.",
+      "behavioral_indicators": [
+        "Reviews work before submitting",
+        "Sets personal standards that exceed minimum requirements",
+        "Corrects own errors voluntarily",
+        "Asks 'is this my best work?'"
+      ],
+      "absence_indicators": ["Accepts first draft as final", "Satisfied with approximate answers", "Does not check work"],
+      "paul_elder_standard": "Accuracy + Precision"
+    },
+    {
+      "number": 7,
+      "habit": "Questioning and Posing Problems",
+      "core_description": "Finding out what is unknown. Asking questions for information, clarity, challenge, and exploration. Generating genuine intellectual problems, not just reciting known answers.",
+      "behavioral_indicators": [
+        "Generates original questions, not just answers",
+        "Asks 'what if?' and 'I wonder why?'",
+        "Formulates testable hypotheses",
+        "Seeks to understand rather than to complete assignments"
+      ],
+      "absence_indicators": ["Accepts given information without questioning", "Asks only convergent questions with known answers", "Doesn't wonder"],
+      "dewey_phase": "Phase 1/2 — the generative beginning of inquiry"
+    },
+    {
+      "number": 8,
+      "habit": "Applying Past Knowledge to New Situations",
+      "core_description": "Using prior experience, knowledge, and learning to address novel situations. Transfer — the ultimate goal of education.",
+      "behavioral_indicators": [
+        "Draws analogies from prior experience",
+        "Recognizes patterns across contexts",
+        "Asks 'what do I know that's like this?'",
+        "Adapts previously successful strategies to new contexts"
+      ],
+      "absence_indicators": ["Treats each problem as completely novel", "Cannot connect current to prior learning", "Requires all explicit instruction for each new context"],
+      "dewey_phase": "Phase 3 — hypothesis formation draws on prior experience"
+    },
+    {
+      "number": 9,
+      "habit": "Thinking and Communicating with Clarity and Precision",
+      "core_description": "Using careful, precise language. Avoiding vagueness, over-generalizations, and ambiguous communication. Defining terms, supporting claims with evidence.",
+      "behavioral_indicators": [
+        "Avoids vague quantifiers ('many', 'some', 'they')",
+        "Defines key terms explicitly",
+        "Qualifies claims appropriately",
+        "Speaks in specific, concrete terms rather than abstractions"
+      ],
+      "absence_indicators": ["Uses vague language ('stuff', 'things')", "Makes sweeping generalizations", "Cannot define terms when asked"],
+      "paul_elder_standard": "Clarity + Precision"
+    },
+    {
+      "number": 10,
+      "habit": "Gathering Data through All Senses",
+      "core_description": "Using the full sensory apparatus — paying attention to texture, sound, smell, spatial relationships — in observation and inquiry. Cultivating perceptual acuity.",
+      "behavioral_indicators": [
+        "Uses multiple observational modes",
+        "Notices nuances others miss",
+        "Uses data sources beyond language (visual, auditory, kinesthetic)",
+        "Observes carefully before interpreting"
+      ],
+      "absence_indicators": ["Attends only to verbal/written information", "Misses non-verbal cues", "Interprets before observing carefully"],
+      "dewey_phase": "Phase 3 — observation as the basis for hypothesis"
+    },
+    {
+      "number": 11,
+      "habit": "Creating, Imagining, Innovating",
+      "core_description": "Generating novel ideas, approaches, and solutions. Not being satisfied with the conventional. Trying different ways.",
+      "behavioral_indicators": [
+        "Generates multiple unconventional alternatives",
+        "Approaches familiar tasks in new ways",
+        "Asks 'what if we tried...?'",
+        "Finds creative solutions when standard methods fail"
+      ],
+      "absence_indicators": ["Defaults to established procedures only", "Cannot brainstorm alternatives", "Resists trying new approaches"],
+      "lipman_connection": "Creative thinking — one of Lipman's three thinking modes"
+    },
+    {
+      "number": 12,
+      "habit": "Responding with Wonderment and Awe",
+      "core_description": "Finding what is beautiful, mysterious, and awesome in the world. Maintaining intellectual curiosity. Approaching problems with intrinsic motivation and genuine interest.",
+      "behavioral_indicators": [
+        "Expresses genuine delight in discovery",
+        "Explores voluntarily beyond required inquiry",
+        "Maintains curiosity about phenomena beyond immediate problem",
+        "Connects intellectual work to larger fascinations"
+      ],
+      "absence_indicators": ["Asks only 'will this be on the test?'", "Completes minimum required work", "Treats inquiry as a chore"],
+      "delphi_connection": "Inquisitiveness disposition"
+    },
+    {
+      "number": 13,
+      "habit": "Taking Responsible Risks",
+      "core_description": "Living on the learning edge of one's comfort zone. Accepting challenges without knowing if success is guaranteed. The willingness to be wrong.",
+      "behavioral_indicators": [
+        "Ventures opinions when uncertain",
+        "Attempts novel approaches",
+        "Accepts failure as information rather than catastrophe",
+        "Takes intellectual positions that may be challenged"
+      ],
+      "absence_indicators": ["Avoids attempting difficult problems", "Only answers when certain of success", "Refuses to guess or hypothesize"],
+      "paul_elder_trait": "Intellectual Courage"
+    },
+    {
+      "number": 14,
+      "habit": "Finding Humor",
+      "core_description": "Laughing at one's own mistakes and the incongruities of the world. Using humor to reduce defensive barriers to learning. Finding the comic in the cosmic.",
+      "behavioral_indicators": [
+        "Laughs at own errors without defensiveness",
+        "Uses humor constructively in group work",
+        "Recognizes absurdity and incongruity",
+        "Takes ideas seriously but not self too seriously"
+      ],
+      "absence_indicators": ["Defensively embarrassed by errors", "Takes self overly seriously", "Cannot recover gracefully from being wrong"]
+    },
+    {
+      "number": 15,
+      "habit": "Thinking Interdependently",
+      "core_description": "Being able to work collaboratively and contribute to group thinking. Learning from others. Combining intellectual efforts.",
+      "behavioral_indicators": [
+        "Contributes to and builds on others' ideas",
+        "Shares reasoning processes, not just answers",
+        "Seeks input from others on own thinking",
+        "Creates intellectual community rather than competition"
+      ],
+      "absence_indicators": ["Works only in isolation", "Does not seek or give feedback on thinking", "Views intellectual work as purely individual"],
+      "lipman_connection": "Community of Inquiry — one of Lipman's core constructs"
+    },
+    {
+      "number": 16,
+      "habit": "Remaining Open to Continuous Learning",
+      "core_description": "Having a growth mindset toward one's own intelligence and capacities. Recognizing that one is never fully formed. Approaching each new situation with curiosity.",
+      "behavioral_indicators": [
+        "Updates beliefs when warranted by evidence",
+        "Treats criticism as resource",
+        "Explores areas of ignorance without shame",
+        "Maintains a beginner's mind"
+      ],
+      "absence_indicators": ["Fixed mindset — believes intelligence is static", "Defensive in response to feedback", "Avoids confronting own ignorance"],
+      "paul_elder_trait": "Intellectual Humility + Intellectual Autonomy",
+      "delphi_connection": "Maturity disposition"
+    }
+  ],
+  "app_usage": {
+    "exercise_feature": "Each habit generates a distinct reflection exercise type",
+    "self_assessment": "16 habits as a self-assessment checklist — 'which habits am I strong in? which need development?'",
+    "portfolio_feature": "Track growth in individual habits across multiple exercises",
+    "template_feature": "HOM as a metacognitive reflection template after any learning activity"
+  }
+}

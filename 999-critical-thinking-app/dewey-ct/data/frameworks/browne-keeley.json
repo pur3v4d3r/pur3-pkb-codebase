@@ -1,0 +1,265 @@
+{
+  "framework": "Asking the Right Questions: A Guide to Critical Thinking",
+  "authors": ["M. Neil Browne", "Stuart M. Keeley"],
+  "key_work": "Asking the Right Questions: A Guide to Critical Thinking (1st ed. 1981, 12th ed. 2019)",
+  "type": "Practical Argument Analysis Framework",
+  "description": "Browne and Keeley's framework consists of 10 sequential questions that form a complete protocol for analyzing any argument or persuasive text. The genius of the framework is its sequenced diagnostic logic: each question reveals a different potential failure mode, and applying all 10 ensures comprehensive critical analysis.",
+  "dewey_connection": "The Browne-Keeley sequence maps directly to Dewey's reflective thinking: beginning with framing (questions 1-2), proceeding through analysis (3-8), and arriving at integrative judgment (9-10). The emphasis on 'right questions' echoes Dewey's insistence that the quality of inquiry depends on the quality of the questions it addresses.",
+  "paul_elder_connection": "Questions 1-2 map to Purpose and Question-at-Issue; 3-5 to Concepts and Assumptions; 6-7 to Information and Inference; 8-10 to Implications and Point of View.",
+  "ten_questions": [
+    {
+      "number": 1,
+      "question": "What are the issue and the conclusion?",
+      "purpose": "Identify the focal point of the argument before any evaluation can proceed. Without clear identification of the conclusion, analysis has no target.",
+      "issue_types": [
+        {
+          "type": "Descriptive Issue",
+          "description": "Concerns what is, was, or will be true — empirically resolvable in principle",
+          "example": "Does capital punishment deter crime?"
+        },
+        {
+          "type": "Prescriptive Issue",
+          "description": "Concerns what should be, what is right, what is valuable — requires value judgments",
+          "example": "Should capital punishment be used?"
+        }
+      ],
+      "diagnostic_questions": [
+        "What is the author trying to persuade me to believe or do?",
+        "If I was to summarize this argument in one sentence, what would I say?",
+        "Is this issue descriptive or prescriptive?"
+      ],
+      "failure_modes": [
+        "Confusing the issue with the conclusion",
+        "Mistaking topic for conclusion",
+        "Failing to distinguish prescriptive from descriptive claims"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "What are the reasons?",
+      "purpose": "Identify the explicit and implicit reasons (premises) offered in support of the conclusion. Reasons are what the author wants us to accept as grounds for accepting the conclusion.",
+      "diagnostic_questions": [
+        "Why should I believe this conclusion?",
+        "What reasons are explicitly stated?",
+        "Are there unstated reasons being assumed?",
+        "Can I map the reasoning: 'Because of [reasons], therefore [conclusion]'?"
+      ],
+      "failure_modes": [
+        "Confusing reasons with conclusions",
+        "Accepting conclusions without identifying the reasons",
+        "Treating repetition of conclusion as a reason"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Which words or phrases are ambiguous?",
+      "purpose": "Identify key terms whose vagueness or ambiguity could mask a weak argument or generate false agreement. Different definitions of a key term may make the argument succeed or fail.",
+      "diagnostic_questions": [
+        "What are the key terms in the issue and reasons?",
+        "Could any of these terms be interpreted in multiple ways?",
+        "Which interpretation makes the argument strongest? Which weakest?",
+        "Is the term used consistently throughout the argument?"
+      ],
+      "failure_modes": [
+        "Equivocation — using a term in two different senses",
+        "Vague quantifiers ('many', 'some', 'significant')",
+        "Emotive language smuggling in value judgments as factual claims"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "What are the value conflicts and assumptions?",
+      "purpose": "Identify the value assumptions — beliefs about desirable ends and standards of conduct — that the author must hold for the reasoning to proceed. Value assumptions are especially important in prescriptive arguments.",
+      "diagnostic_questions": [
+        "What values does this reasoning implicitly prioritize?",
+        "If this conclusion is true, what must the author value?",
+        "What are the competing values that someone who disagrees would hold?",
+        "Is there an implicit ranking of values embedded in the argument?"
+      ],
+      "failure_modes": [
+        "Treating one's own value assumptions as universal",
+        "Failing to make value conflicts explicit",
+        "Disguising prescriptive claims as empirical ones"
+      ],
+      "value_conflict_examples": [
+        {"conflict": "Individual liberty vs. collective welfare"},
+        {"conflict": "Economic growth vs. environmental preservation"},
+        {"conflict": "Short-term benefit vs. long-term sustainability"}
+      ]
+    },
+    {
+      "number": 5,
+      "question": "What are the descriptive assumptions?",
+      "purpose": "Identify the factual assumptions — beliefs about how the world is — that the author takes for granted. Descriptive assumptions are unstated premises treated as obvious but that may be contested.",
+      "diagnostic_questions": [
+        "What must be true for this reason to support this conclusion?",
+        "What am I being asked to take on faith?",
+        "Are the reasons relevant to the conclusion only if something else is also true?",
+        "What implicit beliefs about people, institutions, or causation does this argument depend on?"
+      ],
+      "failure_modes": [
+        "Accepting background assumptions as obviously true",
+        "Failing to distinguish assumptions from established facts",
+        "Missing the hidden premises that do the work"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Are there any fallacies in the reasoning?",
+      "purpose": "Identify formal and informal fallacies — errors in the logical structure of the reasoning that are disguised as valid arguments.",
+      "key_fallacies": [
+        {
+          "fallacy": "Ad Hominem",
+          "description": "Attacking the person making the argument rather than the argument itself"
+        },
+        {
+          "fallacy": "Slippery Slope",
+          "description": "Assuming that one event will inevitably lead to a chain of negative events without justification"
+        },
+        {
+          "fallacy": "Appeal to Questionable Authority",
+          "description": "Citing sources that lack relevant expertise, have conflicts of interest, or are not representative of expert consensus"
+        },
+        {
+          "fallacy": "False Dilemma",
+          "description": "Presenting only two options when more exist"
+        },
+        {
+          "fallacy": "Begging the Question",
+          "description": "Using the conclusion (in disguised form) as one of the premises"
+        },
+        {
+          "fallacy": "Straw Man",
+          "description": "Misrepresenting an opponent's position to make it easier to attack"
+        },
+        {
+          "fallacy": "Appeal to Emotion",
+          "description": "Substituting emotional manipulation for logical support"
+        }
+      ],
+      "diagnostic_questions": [
+        "Does the reasoning make illegitimate shortcuts?",
+        "Is the author attacking persons rather than arguments?",
+        "Is the authority cited relevant and unbiased?",
+        "Has the opposing view been accurately represented?"
+      ]
+    },
+    {
+      "number": 7,
+      "question": "How good is the evidence?",
+      "purpose": "Evaluate the quality of the empirical evidence used to support factual claims. Even valid reasoning fails if the evidence is poor.",
+      "evidence_types_to_evaluate": [
+        {
+          "type": "Personal Testimony",
+          "evaluation_criteria": ["Source reliability", "Representativeness", "Potential bias", "Number of cases"]
+        },
+        {
+          "type": "Expert Opinion",
+          "evaluation_criteria": ["Relevant expertise", "Conflicts of interest", "Consensus vs. outlier", "Track record"]
+        },
+        {
+          "type": "Research Studies",
+          "evaluation_criteria": ["Sample size and representativeness", "Control conditions", "Replication", "Publication bias", "Who funded the research?"]
+        },
+        {
+          "type": "Analogies",
+          "evaluation_criteria": ["Relevant similarities outweigh relevant differences?", "Is the analogy being used to prove or illustrate?"]
+        },
+        {
+          "type": "Statistics",
+          "evaluation_criteria": ["What is being measured?", "Averages: mean, median, or mode?", "What is the comparison group?", "Who generated this data?"]
+        }
+      ],
+      "diagnostic_questions": [
+        "What type of evidence is being offered?",
+        "Is this the best type of evidence for this claim?",
+        "What are the limitations of this evidence?",
+        "Could this evidence be interpreted differently?"
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Are there rival causes?",
+      "purpose": "Determine whether alternative explanations for the evidence exist that would undermine the causal claims of the argument. Correlation does not establish causation.",
+      "rival_cause_types": [
+        "Reverse causation — Y causes X rather than X causes Y",
+        "Confounding variable — Z causes both X and Y",
+        "Placebo effect — expectation produces the outcome, not the intervention",
+        "Post hoc ergo propter hoc — temporal precedence confused with causation",
+        "Selection bias — the groups being compared differ in relevant ways"
+      ],
+      "diagnostic_questions": [
+        "Could this correlation be explained by a third variable?",
+        "Could the direction of causation be reversed?",
+        "What would a skeptic say is the real explanation for this data?",
+        "Has the author controlled for alternative explanations?"
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Are the statistics deceptive?",
+      "purpose": "Identify ways in which numerical data can mislead even when technically accurate — through selective presentation, inappropriate comparison groups, or misleading framing.",
+      "common_deceptions": [
+        {
+          "deception": "Selective comparison groups",
+          "example": "'Our drug reduces mortality by 50%!' — from 2% to 1% (relative risk vs. absolute risk)"
+        },
+        {
+          "deception": "Misleading averages",
+          "example": "Using mean income when distribution is highly skewed; median tells a different story"
+        },
+        {
+          "deception": "Omitted baseline",
+          "example": "'Crime increased 100%!' — from 1 case to 2 cases in a small town"
+        },
+        {
+          "deception": "Confusing percentages with percentage points",
+          "example": "'Interest rates increased 50%' — from 2% to 3% is a 50% increase but only 1 percentage point"
+        },
+        {
+          "deception": "Sample bias in surveys",
+          "example": "Voluntary online surveys over-represent people with strong opinions"
+        }
+      ],
+      "diagnostic_questions": [
+        "What is the base rate being compared against?",
+        "What measures of central tendency would show a different picture?",
+        "Who is included and excluded from the statistics?",
+        "Are these relative or absolute numbers?"
+      ]
+    },
+    {
+      "number": 10,
+      "question": "What significant information is omitted?",
+      "purpose": "Identify what the argument does NOT say that would significantly affect one's evaluation of it. All arguments present a selected slice of available information; what is left out is as important as what is included.",
+      "omission_types": [
+        "Evidence that disconfirms the conclusion",
+        "Costs of the recommended action",
+        "Long-term consequences of the proposed policy",
+        "Significant counterarguments not addressed",
+        "Relevant context that would reframe the issue",
+        "The funding source or interests of those making the argument"
+      ],
+      "diagnostic_questions": [
+        "What would someone who disagrees want me to know that this argument doesn't mention?",
+        "What are the costs, risks, or downsides of the proposed conclusion?",
+        "What context would change how I evaluate this argument?",
+        "If the argument is correct, what else should be true that I could check?"
+      ]
+    }
+  ],
+  "application_protocol": {
+    "description": "The 10 questions are designed to be applied sequentially — each question builds on the previous. Stopping at question 3 without completing the sequence produces an incomplete analysis.",
+    "quick_version": {
+      "description": "When time is limited, questions 1, 2, 5, 6, and 10 provide the highest-leverage analysis.",
+      "rationale": "Issue/conclusion, reasons, descriptive assumptions, fallacies, and omitted information cover the most common argument failure modes."
+    },
+    "strong_version": "Apply all 10 questions in sequence to produce a comprehensive argument evaluation."
+  },
+  "app_usage": {
+    "template_feature": "10 questions as a template for structured argument analysis",
+    "exercise_feature": "Each question generates a distinct exercise type",
+    "quick_reference": "Question bank surfaced during argument evaluation tasks",
+    "llm_integration": "Claude can evaluate user arguments against the 10-question rubric"
+  }
+}

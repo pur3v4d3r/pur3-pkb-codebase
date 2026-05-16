@@ -1,0 +1,70 @@
+{
+  "chapter": 6,
+  "title": "Examples of Inference and Testing",
+  "abstract": "Dewey presents three student-sourced cases of genuine reflective thinking — practical deliberation, observation-driven inquiry, and experimental reasoning — to ground his theoretical account of inference and testing in lived experience.",
+  "overview": "Drawing on real student examples arranged from rudimentary to complex, Dewey demonstrates that all reflective thinking follows the same structural arc: inference leaps beyond known facts to an uncertain conclusion, which is then subjected to two forms of testing — coherence in thought and verification through action. Every genuine instance of thinking arises from a directly experienced, troubled situation and moves toward a settled, harmonious one. Dewey uses this chapter to bridge his prior theoretical exposition with the analytic account of thought's five phases that follows in Chapter Seven.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "inference involves a leap beyond what is given",
+      "quote": "Every inference, just because it goes beyond ascertained and known facts, involves a jump from the known into the unknown.",
+      "insight": "Dewey insists that inference is irreducibly venturesome — it cannot be reduced to mechanical deduction from givens. This 'leap' is what makes thinking genuinely productive but also fallible, which is precisely why controlled testing is indispensable."
+    },
+    {
+      "type": "quote",
+      "line_hint": "prove a thing means primarily to test it",
+      "quote": "To prove a thing means primarily to test it.",
+      "insight": "By recovering the etymological root of 'proof' in trial and ordeal, Dewey dissolves the false opposition between empirical testing and logical proof. Both are modes of putting a candidate belief under strain to see whether it holds."
+    },
+    {
+      "type": "quote",
+      "line_hint": "most frequent cause of failure in school",
+      "quote": "Probably the most frequent cause of failure in school to secure genuine thinking from students is the failure to insure the existence of an experienced situation.",
+      "insight": "Dewey locates the root of pedagogical failure not in student deficiency but in the artificial detachment of school problems from lived situations. This is a direct indictment of abstract, decontextualized curriculum design."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Inference as Leap",
+      "definition": "Inference is the cognitive act of moving from established, observable facts to an idea about something absent or unknown, necessarily involving a gap that cannot be bridged by observation alone.",
+      "why_it_matters": "Recognizing inference as a leap explains why reflective thinking requires disciplined control rather than mere logical form. It also explains why experience and cultural context shape what suggestions occur to a thinker.",
+      "modern_echo": "Contemporary cognitive science echoes this in predictive processing models, where the brain constantly generates and tests probabilistic inferences."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Two Modes of Testing",
+      "definition": "Dewey identifies testing in thought — checking whether elements of a suggested inference cohere with known facts — and testing in action — acting on the inference to see whether anticipated consequences actually occur.",
+      "why_it_matters": "Distinguishing these two modes clarifies that both armchair reflection and overt experiment are forms of testing, differing in degree rather than kind.",
+      "modern_echo": "The distinction maps onto the modern scientific method's separation of theoretical model-checking from empirical experimental validation."
+    },
+    {
+      "type": "tip",
+      "principle": "Ground problems in experienced situations before demanding inference.",
+      "in_practice": "When designing learning tasks, ensure the problem arises from a situation the learner actually inhabits or can imaginatively inhabit. When learners feel the actual pressure of a perplexed situation, their thinking is controlled by that situation rather than by rote procedure."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "All genuine reflective thinking shares a single structural logic — a contextually-embedded inference that leaps beyond known data to an uncertain conclusion, controlled by two complementary modes of testing — regardless of whether the thinker is navigating a city or conducting a kitchen experiment.",
+      "logical_progression": [
+        "Three cases of differing complexity are presented to show that reflective thinking is continuous with everyday practical deliberation.",
+        "Analysis of the cases reveals that inference — the move from present data to an absent conclusion — is the common heart of all three.",
+        "Testing, in both its thought-coherence and action-consequence forms, is shown to be the disciplining mechanism that transforms raw inference into warranted belief."
+      ],
+      "bridge_to_next": "Chapter Seven takes this empirical analysis of three cases and abstracts from them the five distinguishable but continuous phases of reflective thought."
+    }
+  ],
+  "concepts": [
+    {"name": "Inference", "definition": "The cognitive operation by which a thinker moves from facts that are present and established — through an associatively aroused suggestion — to a conclusion about something absent or unknown, necessarily involving a gap and therefore risk."},
+    {"name": "Testing (Proof)", "definition": "The active process of subjecting an inference to evaluative strain, either by checking its internal coherence with known facts in thought or by acting on it and observing whether anticipated consequences materialize."},
+    {"name": "Experienced Situation", "definition": "The directly undergone, felt context of activity — something done, suffered, or enjoyed — from which genuine inquiry arises and to which successful reflection returns a clearer, more ordered state."},
+    {"name": "Settled Situation", "definition": "The transformed state of experience that marks the successful conclusion of reflective thinking: a condition of clarity, coherence, and resolved difficulty."},
+    {"name": "Suggestion", "definition": "The spontaneous idea that arises in response to a perplexing situation and serves as the raw material of inference; shaped by the thinker's prior experience, cultural context, and desires."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 5, "reason": "Chapter Five criticized purely formal thinking detached from life-situations; Chapter Six provides concrete cases that show what situated, genuinely inferential thinking looks like in contrast."}],
+    "anticipates": [{"chapter": 7, "reason": "Chapter Six closes by announcing that the next chapter will extract an analytic account of what the three cases share in common, pointing directly to the five-phase model of reflective thought."}],
+    "contrasts_with": [
+      {"concept": "Formal Logic", "reason": "Dewey explicitly contrasts genuine inference — arising from lived situations, involving a leap, tested against consequences — with exclusively formal thought that never engages actual perplexed situations."},
+      {"concept": "Decontextualized School Problems", "reason": "Textbook arithmetic problems solved by rote are contrasted with the lumberyard purchase, where situational stakes compel genuine thought."}
+    ]
+  }
+}

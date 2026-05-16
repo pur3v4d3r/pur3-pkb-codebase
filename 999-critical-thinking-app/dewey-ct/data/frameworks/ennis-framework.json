@@ -1,0 +1,193 @@
+{
+  "framework": "Ennis Streamlined Conception of Critical Thinking",
+  "author": "Robert H. Ennis",
+  "key_works": ["1962", "1985", "1987", "1996", "2011"],
+  "type": "Definition + Skill/Disposition Taxonomy",
+  "core_definition": "Critical thinking is reasonable, reflective thinking focused on deciding what to believe or do.",
+  "definition_analysis": {
+    "quality_criterion": "thinking must be reasonable and reflective",
+    "cognitive_object": "beliefs and actions",
+    "practical_orientation": "positions critical thinking as a practical activity, not merely theoretical contemplation"
+  },
+  "description": "Ennis's streamlined conception is one of the most widely cited definitions in the CT literature. It consists of 12 critical thinking abilities organized into five clusters, plus 14 dispositions organized into three value-clusters. The framework's hallmark is its practical orientation: it positions critical thinking as aimed at real decisions about what to believe or do, not as a purely abstract cognitive exercise.",
+  "dewey_connection": "Ennis's definition aligns closely with Dewey's account of reflective thinking as evidence-based inquiry directed at resolving genuine perplexity. The 'deciding what to believe or do' formulation echoes Dewey's insistence that thinking is always initiated by an obstruction in the smooth flow of activity that demands practical resolution.",
+  "frisco_model": {
+    "description": "Ennis distilled his framework into a six-step practical heuristic for evaluating any piece of reasoning. FRISCO is particularly powerful as a checklist for argument evaluation in pedagogical settings.",
+    "steps": [
+      {
+        "letter": "F",
+        "step": "Focus",
+        "diagnostic_question": "What is the main question, conclusion, or issue?",
+        "description": "Identify the central claim or question the argument is attempting to address. Without a clear focus, evaluation cannot proceed."
+      },
+      {
+        "letter": "R",
+        "step": "Reasons",
+        "diagnostic_question": "What are the reasons offered in support?",
+        "description": "Identify the explicit and implicit reasons given in support of the conclusion. Distinguish reasons from restatements of the conclusion."
+      },
+      {
+        "letter": "I",
+        "step": "Inference",
+        "diagnostic_question": "Is the reasoning from those reasons to the conclusion acceptable?",
+        "description": "Evaluate whether the stated reasons actually support the conclusion. Check for logical validity, relevance, and sufficiency."
+      },
+      {
+        "letter": "S",
+        "step": "Situation",
+        "diagnostic_question": "What is the context — physical, social, intellectual — that frames the argument?",
+        "description": "Consider what contextual factors might affect the validity or applicability of the argument. Context determines which standards of evidence apply."
+      },
+      {
+        "letter": "C",
+        "step": "Clarity",
+        "diagnostic_question": "Are the meanings of key terms clear?",
+        "description": "Examine whether crucial terms are defined and used consistently. Ambiguous language masks both weak and strong arguments."
+      },
+      {
+        "letter": "O",
+        "step": "Overview",
+        "diagnostic_question": "Step back and check the whole — does the reasoning hold up under integrated review?",
+        "description": "After analyzing each component, assess the argument holistically. Sometimes each individual step seems acceptable but the overall reasoning fails."
+      }
+    ],
+    "app_usage": "The FRISCO model is ideal for structured argument evaluation exercises. Each letter maps to a progressive analysis step, making it an excellent template field sequence.",
+    "template_id": "frisco-analysis-v1"
+  },
+  "twelve_abilities": {
+    "cluster_1_basic_clarification": {
+      "cluster_name": "Basic Clarification",
+      "abilities": [
+        {
+          "number": 1,
+          "ability": "Focusing on a question",
+          "description": "Identifying or formulating a question; identifying or formulating criteria for judging possible answers",
+          "dewey_phase": "Phase 2 — Intellectualization"
+        },
+        {
+          "number": 2,
+          "ability": "Analyzing arguments",
+          "description": "Identifying conclusions, stated and unstated reasons, irrelevancies; seeing the structure of an argument",
+          "dewey_phase": "Phase 4 — Reasoning"
+        },
+        {
+          "number": 3,
+          "ability": "Asking and answering clarifying and challenging questions",
+          "description": "Asking and answering questions of clarification and challenge: Why? What is the main point? What do you mean by X?",
+          "dewey_phase": "Phase 2 — Intellectualization"
+        }
+      ]
+    },
+    "cluster_2_bases_for_decision": {
+      "cluster_name": "Bases for a Decision",
+      "abilities": [
+        {
+          "number": 4,
+          "ability": "Judging the credibility of a source",
+          "description": "Considering expertise, conflict of interest, track record, agreement among sources, use of established procedures",
+          "dewey_phase": "Phase 3 — Hypothesis Formation"
+        },
+        {
+          "number": 5,
+          "ability": "Observing and judging observation reports",
+          "description": "Distinguishing direct observation from inference; considering conditions and potential distortions in observation",
+          "dewey_phase": "Phase 3 — Hypothesis Formation"
+        }
+      ]
+    },
+    "cluster_3_inference": {
+      "cluster_name": "Inference",
+      "abilities": [
+        {
+          "number": 6,
+          "ability": "Deducing and judging deductions",
+          "description": "Evaluating whether conclusions follow necessarily from premises; identifying invalid deductive forms",
+          "dewey_phase": "Phase 4 — Reasoning"
+        },
+        {
+          "number": 7,
+          "ability": "Inducing and judging inductions",
+          "description": "Generalizing from data; evaluating inductive strength; identifying sampling issues and causal reasoning errors",
+          "dewey_phase": "Phase 4 — Reasoning"
+        },
+        {
+          "number": 8,
+          "ability": "Making and judging value judgments",
+          "description": "Applying background knowledge and appropriate standards to evaluate the worth or appropriateness of actions and policies",
+          "dewey_phase": "Phase 5 — Testing"
+        }
+      ]
+    },
+    "cluster_4_advanced_clarification": {
+      "cluster_name": "Advanced Clarification",
+      "abilities": [
+        {
+          "number": 9,
+          "ability": "Defining terms and judging definitions",
+          "description": "Recognizing and producing definitions by genus and differentia; by synonym, equivalent, operational, example/non-example",
+          "dewey_phase": "Phase 2 — Intellectualization"
+        },
+        {
+          "number": 10,
+          "ability": "Identifying assumptions",
+          "description": "Identifying unstated premises; identifying premises that, if added, would make the argument valid",
+          "dewey_phase": "Phase 3 — Hypothesis Formation"
+        }
+      ]
+    },
+    "cluster_5_supposition_integration": {
+      "cluster_name": "Supposition and Integration",
+      "abilities": [
+        {
+          "number": 11,
+          "ability": "Considering and reasoning from premises with which one disagrees",
+          "description": "Engaging with opposing premises in their strongest form without endorsing them; conditional reasoning",
+          "dewey_phase": "Phase 4 — Reasoning"
+        },
+        {
+          "number": 12,
+          "ability": "Integrating other abilities and dispositions in making and defending a decision",
+          "description": "The metacognitive ability to coordinate all CT abilities appropriately in an authentic decision context",
+          "dewey_phase": "Phase 5 — Testing"
+        }
+      ]
+    }
+  },
+  "fourteen_dispositions": {
+    "cluster_1_truth_seeking": {
+      "cluster_name": "Care that beliefs be true and decisions justified",
+      "dispositions": [
+        "Seek and offer clear statements of theses or questions",
+        "Seek and offer reasons",
+        "Try to be well-informed",
+        "Use and mention credible sources",
+        "Take into account the total situation",
+        "Keep in mind the original or basic concern",
+        "Look for alternatives",
+        "Be open-minded",
+        "Take a position when the evidence is sufficient",
+        "Seek as much precision as the subject permits",
+        "Be reflective — aware of one's own basic beliefs"
+      ]
+    },
+    "cluster_2_honesty": {
+      "cluster_name": "Represent positions honestly and clearly",
+      "dispositions": [
+        "State one's claims clearly and seek understanding of others' views without bias"
+      ]
+    },
+    "cluster_3_dignity": {
+      "cluster_name": "Care about the dignity and worth of every person",
+      "dispositions": [
+        "Avoid intimidating or shaming others; support rather than undermine interlocutors",
+        "Apply critical thinking abilities in service of constructive ends"
+      ]
+    }
+  },
+  "app_usage": {
+    "template_feature": "FRISCO model as a template for argument evaluation",
+    "exercise_feature": "12 ability clusters as exercise categories — each cluster generates a distinct exercise type",
+    "disposition_feature": "14 dispositions as a self-assessment checklist",
+    "quick_reference": "FRISCO cheat sheet surfaced when user is doing argument analysis"
+  }
+}

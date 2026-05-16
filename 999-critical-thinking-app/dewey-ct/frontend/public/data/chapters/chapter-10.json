@@ -1,0 +1,101 @@
+{
+  "chapter": 10,
+  "title": "Understanding: Conception and Definition",
+  "abstract": "Dewey examines how conceptions — standardized, stable meanings — arise from experience through processes of analysis and synthesis, and how definitions clarify and organize those meanings into the structured knowledge that enables genuine understanding.",
+  "overview": "Dewey argues that conceptions are not abstract extractions from ready-made objects but living instruments built from experience, refined through use, and extended by application. He traces three functions of concepts — identification, supplementation, and systematic placement — and warns against both the rote imposition of verbal formulas and the opposite error of rich activity without intellectual deposit. The chapter closes with a typology of definition (denotative, expository, scientific) showing that scientific definitions, grounded in causal relations rather than surface traits, represent the highest form of conceptual organization.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "vague meanings are too gelatinous to offer",
+      "quote": "Vague meanings are too gelatinous to offer matter for analysis and too pulpy to afford support to other beliefs. They evade testing and responsibility.",
+      "insight": "Dewey's visceral language captures something logically precise: vagueness is not merely imprecision but an active epistemic vice. A vague concept cannot be tested because it shifts its referent to avoid falsification."
+    },
+    {
+      "type": "quote",
+      "line_hint": "deposit is what counts educationally speaking",
+      "quote": "No amount of transient interest, however absorbing and exciting it may be, can compensate for failure to achieve an intellectual deposit.",
+      "insight": "This single sentence encapsulates Dewey's critique of progressive education gone wrong. Activity without conceptualization is pleasant but educationally void. Experience must leave a residue of meaning that can be carried forward and applied."
+    },
+    {
+      "type": "quote",
+      "line_hint": "science consists in grouping facts so that",
+      "quote": "Nothing before had made me thoroughly realize that science consists in grouping facts so that general laws or conclusions may be drawn from them.",
+      "insight": "Darwin's autobiographical remark illustrates how a single embedded fact can threaten or confirm an entire conceptual system. Scientific concepts are not mere labels but nodes in a network of mutual constraint."
+    },
+    {
+      "type": "quote",
+      "line_hint": "generality resides in application to comprehension",
+      "quote": "Generality resides in application to the comprehension of new cases, not in the constituent parts of a notion.",
+      "insight": "Dewey's sharpest blow against the classical abstractionist account of concept formation. Generality is functional, not compositional: a concept is general because it does work across cases, not because it contains only common elements."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Conception (Standardized Meaning)",
+      "definition": "A conception is a meaning that has been confirmed through prior inquiry, stabilized for reliable reuse, and can now serve as a fixed standard of reference for identifying, supplementing, and systematizing new experiences.",
+      "why_it_matters": "Without stable concepts, inquiry cannot accumulate. Concepts are the cognitive savings account that lets prior understanding fund new understanding.",
+      "modern_echo": "Schema theory in cognitive science and 'mental models' in instructional design both echo Dewey's insight that comprehension requires pre-existing conceptual frameworks."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Intension and Extension",
+      "definition": "Intension is the definite, individualized meaning that exclusively characterizes a concept; extension is the set of particular objects or cases that the concept correctly applies to and groups together.",
+      "why_it_matters": "A concept with rich intension can carve out a precise extension, while an extension without a clear intension is merely a list. Together they form the logical structure of scientific classification.",
+      "modern_echo": "The intension/extension distinction maps directly onto contemporary debates in philosophy of language about sense versus reference."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Scientific Definition",
+      "definition": "A scientific definition specifies a concept through the causal, generative, or relational conditions that produce an object's class membership, rather than through the surface perceptual traits by which the object is ordinarily recognized.",
+      "why_it_matters": "Scientific definitions have explanatory power that popular definitions lack: knowing that a whale is a mammal connects it to a web of biological facts about reproduction and descent.",
+      "modern_echo": "The move from descriptive to mechanistic definitions mirrors the shift in contemporary science from phenomenological to reductive explanations."
+    },
+    {
+      "type": "warning",
+      "misconception": "Concepts are formed by comparing many particular instances and abstracting out their common properties — the 'extraction' model of concept formation.",
+      "correction": "Concepts arise from a single initial experience extended tentatively to new cases, refined by success and failure of application. Generality is achieved through use, not through distillation.",
+      "still_relevant": "This misconception still drives curriculum design that asks students to memorize definitions before engaging with varied examples, when the productive sequence is exactly reversed."
+    },
+    {
+      "type": "warning",
+      "misconception": "Rich, hands-on activity in progressive classrooms automatically guarantees genuine learning because students are engaged with real materials and problems.",
+      "correction": "Activity is necessary but not sufficient. Unless experience terminates in an intellectual deposit — a definite, generalizable idea — it may be enjoyable without being educative.",
+      "still_relevant": "Project-based and experiential learning programs risk this error today when projects are evaluated on product quality or engagement rather than the quality of the conceptualization provoked."
+    },
+    {
+      "type": "tip",
+      "principle": "Sequence concept formation to move from direct experience through tentative application to explicit definition, not from definition to application.",
+      "in_practice": "Begin a lesson by placing students in a situation where a concept is needed but not yet named. Then use the term as a handle for extending the insight to new cases. Definition should arrive as a crystallization of accumulated experience, not as a starting point."
+    },
+    {
+      "type": "tip",
+      "principle": "Treat vagueness as an active intellectual danger requiring deliberate remediation, not a neutral starting condition.",
+      "in_practice": "When students use terms loosely, engineer experiences that make the vagueness consequential — situations where the ambiguity causes practical or intellectual failure. Making vagueness costly motivates the effortful precision that produces genuine conceptions."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "Conceptions are not static mental copies of abstract properties but dynamic instruments forged in experience, refined through analysis and synthesis, and elevated to their highest form in scientific definitions that reveal causal structure rather than surface similarity.",
+      "logical_progression": [
+        "Conceptions are established meanings — ideas confirmed by prior inquiry that now serve as stable reference points for identifying and systematizing new experience.",
+        "Concepts arise not by abstracting common traits from ready-made particulars but by extending a meaning tentatively from one experience to others, with the meaning becoming more definite precisely through that process of application and correction.",
+        "Definition and division are the explicit forms of this process: intension specifies the meaning, extension identifies the members, and scientific definition perfects both by grounding them in causal and generative relations rather than observable surface traits."
+      ],
+      "bridge_to_next": "Having established how meanings become stable (conception) and explicit (definition), Dewey is positioned to examine how they become systematically organized into chains of inference."
+    }
+  ],
+  "concepts": [
+    {"name": "Conception", "definition": "A standardized, confirmed meaning that functions as a stable instrument for identifying, supplementing, and systematically placing new experiences within a body of knowledge."},
+    {"name": "Intension", "definition": "The individualized, characteristic meaning of a concept that exclusively marks off the class of things it applies to, made explicit through definition."},
+    {"name": "Extension", "definition": "The set of particular objects or cases that fall under a concept's intension, organized through division and classification."},
+    {"name": "Denotative Definition", "definition": "Definition by direct ostension or first-hand experience, required for sense qualities and moral/emotional concepts that cannot be adequately conveyed through verbal description alone."},
+    {"name": "Scientific Definition", "definition": "Definition grounded in causal, generative, or relational conditions rather than surface perceptual traits, enabling explanatory as well as classificatory power."},
+    {"name": "Intellectual Deposit", "definition": "The generalizable, definite idea that experience must leave behind to be educationally valuable — the conceptual residue that enables future understanding."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 9, "reason": "Chapter 9 established meaning as a property of things and as hypothetical ideas; Chapter 10 takes up what happens when a meaning is confirmed and stabilized, completing the account."}],
+    "anticipates": [{"chapter": 11, "reason": "Once concepts are defined and organized through intension and extension, the next question is how they function as instruments of inference and judgment in reasoning chains."}],
+    "contrasts_with": [
+      {"concept": "Classical Abstractionism (concept formation by common-trait extraction)", "reason": "Dewey rejects the view that concepts are formed by comparing many particulars and retaining only common properties; generality is functional (achieved through use) not compositional."},
+      {"concept": "Verbal / Bookish Instruction", "reason": "Presenting ready-made definitions as substitutes for experience produces only verbal formulas, not genuine conceptions."}
+    ]
+  }
+}

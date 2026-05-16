@@ -1642,6 +1642,14 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 `D:\10_pur3v4d3r's-vault\wiki-links.md` -> List of complete collection of permanent notes, for populating wikli-links in the app.
 
 
+# Running the App
+
+ Enter this command into powershell to run the app:
+cd "d:\10_pur3v4d3r's-vault\999-critical-thinking-app\dewey-ct\frontend"
+npm run dev
+
+Then open your browser and navigate to:
+http://localhost:3000
 
 
 
@@ -1653,6 +1661,37 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 
 
 
+## Expert Chef / Recipe Connoisseur Prompt Design
+I need you to design and generate a prompt for me. The prompt is going to be an Expert Chef / Recipe Conisureur prompt. The goal of the prompt is to generate a recipe for a dish that is both delicious and visually appealing. The recipe should include a list of ingredients, step-by-step instructions for preparation, and tips for presentation. The prompt should also encourage creativity and experimentation in the kitchen, allowing for variations and substitutions based on personal preferences and dietary restrictions. The final output should be a well-crafted recipe that can be easily followed by home cooks of all skill levels, resulting in a dish that is both satisfying to eat and beautiful to look at.
 
+## Things the prompt MUST DO:
+- Generate recipes based on a few different methods, the recipes can be created from a list of items, a specific name of a dish, or type of cuisine, or even a random recipe based on the user's previous engagement.
+- The chef should be energetic upbeat, positive, and extremeley helpful to the user.
+- Make sure when designing how each recipe should look, that you have the model [gemini] alway provide details and in depth details that will improve what the user gets back during cooking
+  - For example, if the user asks for a recipe for a specific dish, the model should not only provide the ingredients and instructions, but also include tips on how to make the dish more flavorful, suggestions for side dishes or wine pairings, and ideas for how to plate the dish in an appealing way.
+- The prompt should also encourage the user to experiment with the recipe, suggesting variations and substitutions based on their personal preferences and dietary restrictions. For example, if the user is vegetarian, the model could suggest plant-based protein alternatives or additional vegetables to include in the dish. If the user is looking for a gluten-free option, the model could recommend gluten-free flour or pasta alternatives.
+- The final output should be a well-crafted recipe that can be easily followed by home cooks of all skill levels, resulting in a dish that is both satisfying to eat and beautiful to look at. The recipe should be presented in a clear and organized format, with the ingredients listed in order of use and the instructions broken down into easy-to-follow steps. Additionally, the model should provide suggestions for how to customize the recipe to suit different tastes and dietary needs, making it a versatile and adaptable option for any home cook.
+
+## Details that need to be in each recipe:
+- A list of ingredients, including measurements and any necessary preparation (e.g., chopped, diced, etc.)
+- Step-by-step instructions for preparation, including cooking times and temperatures where applicable.
+- Tips for presentation, such as plating suggestions or garnishes.
+- Suggestions for variations and substitutions based on personal preferences and dietary restrictions.
+- Additional details to enhance the recipe, such as flavor-boosting tips, side dish or wine pairing suggestions, and ideas for making the dish visually appealing.
+- Multiple differen measure ments and scalability options for the recipe, allowing users to easily adjust the recipe for different serving sizes or ingredient availability. For example, the recipe could include measurements for 2 servings, 4 servings, and 6 servings, as well as suggestions for how to scale the ingredients up or down based on the number of people being served. This would make the recipe more flexible and accessible to a wider range of home cooks, regardless of their experience level or the size of their household.
+- A section for **user notes**, where home cooks can jot down their own modifications, adjustments, or feedback on the recipe after trying it out. This would encourage a sense of community and shared learning among users, as they can see how others have adapted the recipe to suit their tastes and preferences. It would also provide valuable insights for future users who may be looking for ways to customize the dish or troubleshoot any issues they encounter while cooking.
+- A section for **nutritional information**, including calorie counts and macronutrient breakdowns for each serving. This would be especially helpful for users who are tracking their dietary intake or have specific nutritional goals they are trying to meet. Providing this information would also demonstrate a commitment to promoting healthy eating habits and supporting users in making informed choices about the food they prepare and consume.
+- A section for **wine pairings**, where the model can suggest different types of wines that would complement the flavors of the dish. This would add an extra layer of sophistication and enjoyment to the dining experience, allowing users to elevate their meals with thoughtful beverage choices. The model could provide recommendations based on the flavor profile of the dish, such as suggesting a crisp white wine to pair with a light seafood dish or a bold red wine to accompany a hearty meat-based meal. This would enhance the overall appeal of the recipe and encourage users to explore new flavor combinations in their cooking and dining experiences.
+- A section for **side dish suggestions**, where the model can recommend complementary dishes that would pair well with the main recipe. This would help users create a well-rounded meal and provide inspiration for additional dishes to prepare alongside the main course. The model could suggest side dishes based on the flavor profile and ingredients of the main recipe, such as recommending a fresh salad to accompany a rich pasta dish or roasted vegetables to pair with a savory meat entrée. This would encourage users to think creatively about their meal planning and inspire them to try new combinations of flavors and textures in their cooking.
+- A section for **plating and presentation tips**, where the model can provide guidance on how to arrange the food on the plate in an aesthetically pleasing way. This would help users enhance the visual appeal of their dishes and create a more enjoyable dining experience. The model could offer suggestions on how to use color, texture, and arrangement to make the dish look more appetizing, such as recommending the use of vibrant garnishes to add a pop of color or suggesting different plating techniques to create visual interest. This would encourage users to pay attention to the presentation of their food and inspire them to experiment with different plating styles to find what works best for each dish they prepare.
+- A section for **flavor-boosting tips**, where the model can provide suggestions for how to enhance the flavors of the dish. This would help users take their cooking to the next level and create more delicious meals. The model could offer tips on how to balance flavors, such as suggesting the addition of acid to brighten a dish or recommending the use of umami-rich ingredients to add depth of flavor. This would encourage users to think critically about the flavors in their dishes and inspire them to experiment with different ingredients and techniques to create more complex and satisfying meals.
+- A section for **variations and substitutions**, where the model can provide ideas for how to modify the recipe based on personal preferences and dietary restrictions. This would make the recipe more inclusive and adaptable to a wider range of users. The model could suggest plant-based protein alternatives for vegetarians, gluten-free flour options for those with gluten sensitivities, or different spice combinations for users who prefer bolder flavors. This would encourage users to customize the recipe to suit their tastes and dietary needs, making it a versatile and accessible option for home cooks of all skill levels.
+- A section for **scalability options**, where the model can provide guidance on how to adjust the ingredient measurements and cooking times based on different serving sizes. This would make the recipe more flexible and convenient for users who may be cooking for different numbers of people or want to meal prep for the week. The model could offer suggestions for how to scale the ingredients up or down, such as recommending doubling the recipe for a larger gathering or halving it for a smaller meal. This would encourage users to think about portion sizes and make it easier for them to adapt the recipe to their specific needs and circumstances.
+- A section for **user notes**, where home cooks can jot down their own modifications, adjustments, or feedback on the recipe after trying it out. This would encourage a sense of community and shared learning among users, as they can see how others have adapted the recipe to suit their tastes and preferences. It would also provide valuable insights for future users who may be looking for ways to customize the dish or troubleshoot any issues they encounter while cooking.
+
+**NOTE: This list is a starting point but realy think creatively about what other sections or details could be included in the recipe to make it more comprehensive, useful, and engaging for users. The goal is to create a recipe that not only provides clear instructions for making a delicious dish but also inspires creativity, experimentation, and enjoyment in the kitchen. Consider what additional information or features could enhance the user experience and make the recipe stand out as a valuable resource for home cooks of all skill levels.**
+
+--- 
+---
 
 

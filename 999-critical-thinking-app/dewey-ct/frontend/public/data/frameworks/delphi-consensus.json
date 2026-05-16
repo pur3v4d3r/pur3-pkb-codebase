@@ -1,0 +1,194 @@
+{
+  "framework": "Delphi Consensus Framework (APA Report)",
+  "authors": ["Peter Facione (Principal Investigator)", "44 expert panelists"],
+  "year": 1990,
+  "formal_name": "Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction",
+  "publisher": "American Philosophical Association",
+  "description": "The Delphi Report is the single most influential consensus document in the critical thinking field. Via a two-year Delphi process involving 46 experts across disciplines, Facione produced both a canonical definition and a detailed skill/disposition taxonomy that has shaped CT assessment instruments (including the CCTST and CCTDI) ever since.",
+  "canonical_definition": "We understand critical thinking to be purposeful, self-regulatory judgment which results in interpretation, analysis, evaluation, and inference, as well as explanation of the evidential, conceptual, methodological, criteriological, or contextual considerations upon which that judgment is based.",
+  "ideal_critical_thinker_profile": {
+    "description": "The Delphi report generated the most detailed portrait of the 'ideal critical thinker' in the CT literature.",
+    "cognitive_skills": ["habitually inquisitive", "well-informed", "trustful of reason"],
+    "dispositional_qualities": ["open-minded", "flexible", "fair-minded", "honest in facing personal biases"],
+    "epistemic_approach": ["prudent in making judgments", "willing to reconsider", "clear about issues"],
+    "practical_orientation": ["orderly in complex matters", "diligent in seeking relevant information"],
+    "social_dimension": ["reasonable in the selection of criteria", "focused in inquiry", "persistent in seeking results as precise as the subject and the circumstances require"]
+  },
+  "six_core_skills": [
+    {
+      "skill_number": 1,
+      "skill": "Interpretation",
+      "definition": "To comprehend and express the meaning or significance of a wide variety of experiences, situations, data, events, judgments, conventions, beliefs, rules, procedures, or criteria.",
+      "sub_skills": [
+        {
+          "name": "Categorization",
+          "description": "Identifying the kind of claim, argument, or situation; assigning it to an appropriate category"
+        },
+        {
+          "name": "Decoding Significance",
+          "description": "Detecting the intended meaning behind statements, symbolic expressions, or behavioral data; understanding what something means in context"
+        },
+        {
+          "name": "Clarifying Meaning",
+          "description": "Removing ambiguity; specifying how a term is being used; unpacking the meaning of a complex statement"
+        }
+      ],
+      "dewey_connection": "Corresponds to Dewey's Phase 1 (Felt Difficulty) and Phase 2 (Intellectualization) — naming and framing the problem.",
+      "paul_elder_connection": "Maps to Information, Concepts, and Question-at-Issue elements"
+    },
+    {
+      "skill_number": 2,
+      "skill": "Analysis",
+      "definition": "To identify the intended and actual inferential relationships among statements, questions, concepts, descriptions, or other forms of representation intended to express beliefs, judgments, experiences, reasons, information, or opinions.",
+      "sub_skills": [
+        {
+          "name": "Examining Ideas",
+          "description": "Identifying the role ideas play in an argument; identifying similarities and differences among claims and questions"
+        },
+        {
+          "name": "Detecting Arguments",
+          "description": "Recognizing whether a passage contains an argument or merely assertions; identifying unstated conclusions"
+        },
+        {
+          "name": "Analyzing Arguments",
+          "description": "Identifying the stated and unstated premises; mapping the inferential structure; identifying the pattern of reasoning"
+        }
+      ],
+      "dewey_connection": "Corresponds to Dewey's Phase 3 (Hypothesis Formation) — structuring the elements of inquiry.",
+      "paul_elder_connection": "Maps to Information, Assumptions, and Inference elements"
+    },
+    {
+      "skill_number": 3,
+      "skill": "Evaluation",
+      "definition": "To assess the credibility of statements or other representations which are accounts or descriptions of a person's perception, experience, situation, judgment, belief, or opinion; and to assess the logical strength of the actual or intended inferential relationships among statements, questions, descriptions, or other forms of representation.",
+      "sub_skills": [
+        {
+          "name": "Assessing Claims",
+          "description": "Judging whether a statement is credible; evaluating the reliability of sources and evidence"
+        },
+        {
+          "name": "Assessing Arguments",
+          "description": "Judging whether the logical form of the argument is valid; whether the premises are acceptable; whether the premises are relevant and sufficient to support the conclusion"
+        }
+      ],
+      "dewey_connection": "Corresponds to Dewey's Phase 5 (Testing) — evaluating whether the hypothesis holds up to scrutiny.",
+      "paul_elder_connection": "Maps to Intellectual Standards application across all elements"
+    },
+    {
+      "skill_number": 4,
+      "skill": "Inference",
+      "definition": "To identify and secure elements needed to draw reasonable conclusions; to form conjectures and hypotheses; to consider relevant information and to draw out the implications carried by data, statements, principles, evidence, judgments, beliefs, opinions, concepts, descriptions, questions, or other forms of representation.",
+      "sub_skills": [
+        {
+          "name": "Querying Evidence",
+          "description": "Identifying the appropriate type of evidence needed; questioning the adequacy of available evidence; designing ways to gather relevant evidence"
+        },
+        {
+          "name": "Conjecturing Alternatives",
+          "description": "Forming multiple plausible hypotheses about what explains the evidence; generating rival hypotheses rather than accepting the first"
+        },
+        {
+          "name": "Drawing Conclusions",
+          "description": "Identifying the best-supported conclusion; recognizing when evidence is insufficient for a strong conclusion; drawing probabilistic rather than categorical conclusions when appropriate"
+        }
+      ],
+      "dewey_connection": "Corresponds to Dewey's Phase 4 (Reasoning) — drawing out the implications of hypotheses.",
+      "paul_elder_connection": "Maps to Interpretation/Inference and Implications/Consequences elements"
+    },
+    {
+      "skill_number": 5,
+      "skill": "Explanation",
+      "definition": "To state and to justify that reasoning in terms of the evidential, conceptual, methodological, criteriological, and contextual considerations upon which one's results were based; and to present one's reasoning in the form of cogent arguments.",
+      "sub_skills": [
+        {
+          "name": "Stating Results",
+          "description": "Accurately describing the conclusion reached; clearly articulating what one believes and why"
+        },
+        {
+          "name": "Justifying Procedures",
+          "description": "Explaining why particular methods, criteria, or conceptual frameworks were used in the inquiry"
+        },
+        {
+          "name": "Presenting Arguments",
+          "description": "Constructing well-formed arguments; anticipating objections; organizing reasoning for communication to others"
+        }
+      ],
+      "dewey_connection": "Corresponds to Dewey's Phase 5 (Testing) and the communicative dimension of reflection.",
+      "paul_elder_connection": "Maps to Purpose, Point of View, and all elements as they are communicated to others"
+    },
+    {
+      "skill_number": 6,
+      "skill": "Self-Regulation",
+      "definition": "Self-consciously to monitor one's cognitive activities, the elements used in those activities, and the results educed, particularly by applying skills in analysis, and evaluation to one's own inferential judgments with a view toward questioning, confirming, validating, or correcting either one's reasoning or one's results.",
+      "sub_skills": [
+        {
+          "name": "Self-Examination",
+          "description": "Reflecting on one's own beliefs, values, and reasoning processes; identifying one's own biases; asking whether one's own reasoning meets the standards one applies to others"
+        },
+        {
+          "name": "Self-Correction",
+          "description": "Revising conclusions when new evidence warrants; correcting reasoning errors when identified; updating beliefs in light of good arguments"
+        }
+      ],
+      "dewey_connection": "Maps to Dewey's metacognitive dimension — the reflective awareness that supervises all phases of inquiry.",
+      "paul_elder_connection": "Maps to Intellectual Traits/Virtues, particularly Intellectual Humility and the ongoing application of standards",
+      "special_note": "Self-regulation is described as the 'master skill' — it is the skill that makes all other skills function as critical thinking rather than mere analytical competency."
+    }
+  ],
+  "cctdi_dispositions": {
+    "name": "California Critical Thinking Disposition Inventory",
+    "description": "The dispositional component of the Delphi consensus, developed into a psychometric instrument. Measures 7 traits independently, recognizing that someone can be skilled but not disposed, or disposed but not skilled.",
+    "seven_dispositions": [
+      {
+        "disposition": "Truth-Seeking",
+        "description": "Eagerness to seek the best knowledge even if that knowledge challenges one's preconceptions or comfortable beliefs",
+        "behavioral_markers": ["seeks disconfirming evidence", "changes mind when warranted", "follows arguments wherever they lead"]
+      },
+      {
+        "disposition": "Open-Mindedness",
+        "description": "Tolerance of divergent views; sensitivity to the possibility of one's own bias",
+        "behavioral_markers": ["genuinely considers alternative viewpoints", "withholds judgment pending evidence", "seeks out perspectives that challenge one's own"]
+      },
+      {
+        "disposition": "Analyticity",
+        "description": "Prizing the application of reasoning and the use of evidence even for problems that present difficulty",
+        "behavioral_markers": ["anticipates consequences of claims", "alerts oneself to problematic situations", "uses evidence to approach complex problems"]
+      },
+      {
+        "disposition": "Systematicity",
+        "description": "Valuing organization, focus, and diligence in inquiry",
+        "behavioral_markers": ["pursues inquiry with order and thoroughness", "maintains focus across extended analysis", "diligent in information-seeking"]
+      },
+      {
+        "disposition": "CT Self-Confidence",
+        "description": "Trusting one's own reasoning processes and the conclusions reached through fair application of CT",
+        "behavioral_markers": ["leads others in inquiry when appropriate", "makes decisions based on one's own reasoning", "defends well-reasoned conclusions under social pressure"]
+      },
+      {
+        "disposition": "Inquisitiveness",
+        "description": "Intellectual curiosity — valuing acquiring knowledge and learning for its own sake",
+        "behavioral_markers": ["learns even when not required", "curious about wide range of topics", "seeks out new knowledge proactively"]
+      },
+      {
+        "disposition": "Maturity",
+        "description": "Prudent judgment; awareness that multiple perspectives are valid; understanding that sometimes conclusions must be reached despite uncertainty",
+        "behavioral_markers": ["accepts uncertainty as the condition of inquiry", "applies appropriate epistemic standards to different domains", "makes decisions despite incomplete information when required"]
+      }
+    ]
+  },
+  "skill_disposition_interaction": {
+    "key_insight": "Delphi explicitly distinguishes CT skills (cognitive) from CT dispositions (affective). A person may have the skills but not be disposed to use them, or be disposed but lack the skills. The ideal critical thinker exhibits both.",
+    "interaction_matrix": {
+      "high_skills_high_dispositions": "Master critical thinker — uses skills readily and accurately",
+      "high_skills_low_dispositions": "Skilled but intellectually undisciplined — capable but unmotivated",
+      "low_skills_high_dispositions": "Well-intentioned but ineffective — motivated but unable to execute",
+      "low_skills_low_dispositions": "Uncritical thinker — neither capacity nor inclination"
+    }
+  },
+  "app_usage": {
+    "exercise_feature": "6 core skills as exercise categories — each skill generates distinct exercise types",
+    "self_assessment": "7 CCTDI dispositions as self-assessment checklist",
+    "progress_tracking": "Skills map cleanly to learner progress metrics",
+    "template_feature": "Explanation sub-skills as template for written reflections (Stating Results, Justifying Procedures, Presenting Arguments)"
+  }
+}

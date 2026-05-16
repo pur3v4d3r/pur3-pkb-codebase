@@ -1,0 +1,101 @@
+{
+  "chapter": 3,
+  "title": "Native Resources in Training Thought",
+  "abstract": "Dewey identifies three innate psychological resources — curiosity, suggestion, and orderliness — that constitute the native capital from which reflective thinking must be cultivated. Education's task is not to impose thought from without but to redirect these pre-existing tendencies toward their highest intellectual fruition.",
+  "overview": "The chapter opens by establishing that reflective thinking cannot be forced onto minds that do not already think spontaneously; teachers must therefore understand the native stock of mental tendencies available for development. Dewey then analyzes curiosity through three ascending stages (organic, social, intellectual) and describes how it is extinguished by dogmatism and routine. He next treats suggestion as the spontaneous arising of ideas from experience, distinguishing three dimensions — ease, range, and depth — and warns against equating prompt responses with intelligence. Finally, he addresses orderliness as the consecutiveness that transforms mere suggestion into genuine reflection, arguing that for most learners this order grows indirectly through purposeful action rather than through direct instruction in thinking.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "teaching compared to selling commodities no one",
+      "quote": "No one can sell unless someone buys. We should ridicule a merchant who said that he had sold a great many goods although no one had bought any.",
+      "insight": "Dewey's commercial analogy exposes the absurdity of measuring teaching by teacher output rather than learner uptake. The metaphor relocates agency firmly in the learner, making the teacher's role one of facilitation rather than transmission."
+    },
+    {
+      "type": "quote",
+      "line_hint": "curiosity rises above organic social level becomes intellectual",
+      "quote": "Curiosity rises above the organic and the social level and becomes intellectual in the degree in which it is transformed into interest in finding out for oneself.",
+      "insight": "This passage crystallizes Dewey's developmental ladder for curiosity: raw sensory exploration becomes social questioning and finally becomes self-directed inquiry. The transition hinges on whether curiosity gets attached to remote ends that require sustained chains of investigation."
+    },
+    {
+      "type": "quote",
+      "line_hint": "thinking is specific not machinelike ready-made apparatus",
+      "quote": "Thinking is specific, not a machinelike, ready-made apparatus to be turned indifferently and at will upon all subjects.",
+      "insight": "Dewey here dismantles the classical faculty-psychology assumption that 'thinking' is a single transferable mental muscle. By insisting that thought is always content-specific, he grounds cognitive development in the particularity of lived experience rather than abstract mental exercise."
+    },
+    {
+      "type": "quote",
+      "line_hint": "depth sinking into problem determines quality thinking follows",
+      "quote": "The depth to which a sense of the problem, of the difficulty, sinks, determines the quality of the thinking that follows.",
+      "insight": "This observation links the quality of reflection directly to the affective and cognitive weight of the initial perplexity. Shallow engagement with a problem produces shallow thinking, while a genuinely felt difficulty compels the kind of sustained inquiry that develops real intellectual habit."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Three Stages of Curiosity",
+      "definition": "Dewey's developmental taxonomy moves from (1) organic curiosity — raw sensorimotor exploration; to (2) social curiosity — interrogative questioning of persons; to (3) intellectual curiosity — self-directed inquiry oriented toward remote ends that bind a sequence of observations into a unified train of thought.",
+      "why_it_matters": "The taxonomy allows educators to diagnose where a learner currently operates and to design conditions that facilitate upward movement rather than suppression.",
+      "modern_echo": "Contemporary frameworks distinguishing surface motivation from deep learning motivation echo this same developmental arc."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Suggestion",
+      "definition": "The spontaneous arising of ideas — the way present experience calls up associated qualities, objects, or events from prior experience without deliberate volitional effort.",
+      "why_it_matters": "Understanding suggestion as involuntary but structured by past experience explains why education must shape the quality and variety of experiences a learner encounters.",
+      "modern_echo": "Cognitive science's account of spreading activation in semantic networks directly operationalizes what Dewey described qualitatively as suggestion."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Orderliness as Indirect Concomitant",
+      "definition": "Orderliness — the consecutive, goal-directed sequencing of ideas — develops primarily as a byproduct of organizing purposeful action toward ends, not through direct instruction in how to think.",
+      "why_it_matters": "This principle justifies project-based and occupation-centered curricula not as mere motivational relief but as the primary mechanism through which disciplined thinking is actually formed.",
+      "modern_echo": "Problem-based learning and workplace learning research showing that expertise develops through purposeful professional practice instantiate exactly this indirect developmental pathway."
+    },
+    {
+      "type": "warning",
+      "misconception": "Dullness or slowness in responding to school material indicates low general intelligence or limited capacity for thought.",
+      "correction": "Dewey argues that apparent dullness is almost always domain- or context-specific. A pupil labeled hopeless may respond with quickness and liveliness when the subject matter feels worthwhile to them.",
+      "still_relevant": "In standardized testing cultures that reward rapid, uniform responses, this warning remains critically urgent."
+    },
+    {
+      "type": "warning",
+      "misconception": "Any spontaneous overt activity in school is educationally valuable, and any purely academic subject is deadening.",
+      "correction": "Dewey explicitly rejects both extremes. The real problem is selecting occupations that are developmentally appropriate, preparatory for adult responsibilities, and maximally conducive to forming habits of acute observation and consecutive inference.",
+      "still_relevant": "Progressive education reforms that substitute busyness or unstructured exploration for carefully designed occupations risk producing the very intellectual incoherence Dewey diagnoses."
+    },
+    {
+      "type": "tip",
+      "principle": "Teachers should protect curiosity from two opposite threats: sensational overstimulation and premature dogmatic closure.",
+      "in_practice": "Overstimulation leaves learners either addicted to sensation or blase. Dogmatism kills the spirit of inquiry by removing the sense of open questions. The teacher's positive task is to provide materials when curiosity has generated appetite, and to withhold information when a questioning attitude has not yet formed."
+    },
+    {
+      "type": "tip",
+      "principle": "Design educational activities that require learners to select means for remote ends, since this indirectly produces the consecutive ordering of thought.",
+      "in_practice": "Rather than teaching thinking as an explicit subject, structure occupations so that learners must plan, arrange, and adapt actions toward goals that extend beyond the immediate moment. The cognitive discipline that results mirrors the disciplining function that professional vocation serves in adult intellectual life."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "Effective education in reflective thinking does not impose thought from without but cultivates the three native resources — curiosity, suggestion, and orderliness — by creating conditions in which each can develop from its lower, unreflective form into its higher, intellectually disciplined form.",
+      "logical_progression": [
+        "Thinking cannot be forced; it must grow from native psychological tendencies already present in every normal person.",
+        "Curiosity, suggestion, and orderliness each exist in undeveloped forms and in developed intellectual forms.",
+        "The educator's practical task is to design the quality of experiences and activities that facilitate upward transition within each resource."
+      ],
+      "bridge_to_next": "Having established the native psychological resources that must be cultivated, Chapter Four turns to examine how school conditions either support or obstruct the development of these native tendencies."
+    }
+  ],
+  "concepts": [
+    {"name": "Native Capital of Thought", "definition": "The pre-existing psychological tendencies — curiosity, suggestion, orderliness — that every normal person possesses and that constitute the raw material from which reflective habits must be cultivated."},
+    {"name": "Three Dimensions of Suggestion", "definition": "Suggestion varies across individuals in three dimensions: ease or promptness, range or variety, and depth or profundity of the level at which suggestions operate."},
+    {"name": "Intellectual Curiosity", "definition": "The highest developmental stage of curiosity, characterized by self-directed interest in finding answers for oneself, sustained by attachment to remote ends."},
+    {"name": "Consecutiveness", "definition": "The property of ordered, goal-directed sequencing of ideas that distinguishes reflective thought from mere association."},
+    {"name": "Discipline Through Occupation", "definition": "The indirect mechanism by which orderly intellectual habits are formed — through engagement in purposeful occupations that require selecting, arranging, and adapting means to ends."},
+    {"name": "Specificity of Thinking", "definition": "Dewey's claim that thinking is not a single transferable faculty but domain-specific; any subject is intellectual in its power to start and direct significant inquiry for a given person."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 2, "reason": "Chapter Two established the value of reflective habits and the obstacles to their development; Chapter Three answers by identifying the native psychological capital that must be cultivated rather than imposed."}],
+    "anticipates": [{"chapter": 4, "reason": "By arguing that thinking is specific, Dewey sets up the question of how subject matter itself should be structured to align with the psychological order of the learner's developing reflective capacities."}],
+    "contrasts_with": [
+      {"concept": "Faculty Psychology", "reason": "The classical tradition held that thinking is a single mental power that can be strengthened by rigorous formal disciplines; Dewey's account directly refutes this transferability assumption."},
+      {"concept": "Transmission Model of Teaching", "reason": "The transmission model treats teaching as the delivery of content from teacher to passive student; Dewey positions the learner as the active agent."}
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "framework": "ACER Metacognitive Cycle",
+  "acronym": "ACER",
+  "expansion": "Analyze → Connect → Evaluate → Reflect",
+  "authors": ["Composite framework — synthesized from metacognitive research traditions"],
+  "year": 2010,
+  "source": "Metacognitive learning literature; attributed to multiple educational researchers across the 2000s–2010s, codified as a practical instructional cycle in higher education contexts",
+  "description": "The ACER Metacognitive Cycle is a four-phase framework for structured self-regulated learning and thinking. It operationalizes metacognition — thinking about one's own thinking — into a concrete, repeatable sequence applicable to any learning episode, problem-solving session, or intellectual encounter. The framework moves the learner from initial engagement with material (Analyze) through active knowledge construction (Connect), critical assessment (Evaluate), and finally to genuine self-examination of the process itself (Reflect). Each phase is both a cognitive act and a metacognitive one: the learner is simultaneously doing the thinking and monitoring how they are thinking.\n\nThe framework's primary value is that it makes metacognition visible and teachable. Unstructured learners typically perform some version of these phases intuitively, but without the ability to name, sequence, or deliberately improve them. ACER provides the vocabulary and sequence that transforms implicit habits into explicit, improvable practices. The four phases are not strictly linear — skilled thinkers cycle through them iteratively — but the sequential form is the appropriate starting point for learners developing the habit.\n\nThe ACER Metacognitive Cycle is distinct from frameworks that focus primarily on the object of thought (what is being analyzed) rather than the process of thought (how one is thinking about it). Where Bloom's Taxonomy scaffolds cognitive depth at the object level, ACER scaffolds self-regulatory awareness at the process level. The two frameworks complement each other: Bloom's tells you what level of engagement to aim for; ACER tells you how to monitor whether you are actually reaching it.",
+  "dewey_integration": "The ACER Metacognitive Cycle is arguably the closest modern framework to Dewey's own account of reflective thinking in 'How We Think.' Dewey's central claim — that genuine thinking is not just mental activity but self-regulated, evidence-directed inquiry — is operationalized by ACER's insistence that each phase include an explicit monitoring component. The Analyze phase corresponds to Dewey's 'intellectualization' — defining the problem clearly. The Connect phase corresponds to his 'suggestion' and 'reasoning' phases — generating and elaborating hypotheses from prior experience. The Evaluate phase corresponds to his 'testing' phase — empirically or logically checking the hypothesis against grounds. The Reflect phase has no direct Dewey equivalent and represents ACER's most significant addition: Dewey ends his account with testing, but ACER explicitly requires the learner to examine their own process after the inquiry is complete, converting each episode of thinking into a resource for improving future thinking. This is the closest any major framework comes to what Dewey describes in Chapter 2 as the cultivation of 'intellectual responsibility' — taking genuine ownership of one's reasoning and its consequences.",
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Analyze",
+      "also_called": ["Examine", "Deconstruct", "Break Down", "Interrogate"],
+      "definition": "The deliberate decomposition of material, a problem, or a situation into its constituent parts — identifying what is present, what is absent, what is assumed, and what is unclear before any response or solution is attempted. Analyze is the phase that prevents premature closure by requiring the learner to fully map the territory before moving through it.",
+      "cognitive_character": "Active and patient. This phase resists the strong pull toward immediate response. The primary discipline it requires is restraint: not yet generating solutions, not yet forming opinions, not yet connecting to prior knowledge — just attending carefully to what is actually here.",
+      "metacognitive_dimension": "During Analyze, the learner also monitors their own understanding: What do I actually know about this? What am I assuming? Where am I uncertain? What would I need to know to engage this properly?",
+      "template_field_label": "Analyze — What is actually here?",
+      "template_field_placeholder": "Break this down. What are the key components, claims, terms, or tensions in what you are examining? What is explicitly stated vs. implied? What assumptions appear to be operating? What is unclear or undefined? Do not yet form a response — map the territory first.",
+      "example": "Analyzing the claim 'remote work reduces productivity': Key components — 'remote work' (undefined: fully remote? hybrid?), 'productivity' (measured how? for whom?), 'reduces' (compared to what baseline? for all workers or some?). Assumptions operating: productivity is quantifiable; office presence is the baseline; the effect is uniform across job types. Unclear: whether the claim is empirical or normative; what evidence it is based on; what time horizon is meant.",
+      "common_error": "Rushing through Analyze to get to the 'real work.' Most learners spend 10% of the time they should on this phase, then wonder why their responses miss the mark. If your analysis phase takes less than a quarter of your total engagement time, you almost certainly haven't done it thoroughly enough.",
+      "dewey_quote": "Demand for the solution of a perplexity is the steadying and guiding factor in the entire process of reflection. — Chapter 1",
+      "dewey_connection": "Corresponds most directly to Dewey's 'intellectualization' phase — the deliberate conversion of a felt difficulty into a precisely stated problem. Dewey insists that the quality of what follows is entirely determined by the precision of this step.",
+      "bloom_level": "Analyze (Level 4) — though it also incorporates Remember and Understand as prerequisites",
+      "paul_elder_element": "Question at Issue + Information + Assumptions",
+      "practical_challenge": "In professional contexts, there is intense pressure to demonstrate rapid competence by producing answers quickly. Thorough analysis looks slow and can feel like hesitation. The experienced ACER practitioner learns to distinguish the visible pause of genuine analysis from the invisible cost of skipping it: problems that were not properly analyzed generate solutions that create new problems.",
+      "self_assessment_questions": [
+        "Have I identified all the key terms that need definition?",
+        "Have I distinguished what is explicitly stated from what is assumed?",
+        "Have I identified what I don't know that I'd need to know?",
+        "Have I resisted the urge to move to solutions before mapping the problem?"
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Connect",
+      "also_called": ["Link", "Integrate", "Situate", "Build On"],
+      "definition": "The active construction of relationships between what has been analyzed and what the learner already knows — drawing on prior experience, relevant frameworks, analogous cases, and related concepts to generate hypotheses, interpretations, or candidate solutions. Connect transforms isolated new material into an integrated node in the learner's existing knowledge network.",
+      "cognitive_character": "Generative and associative, but disciplined. Unlike free association, Connect is directed: the goal is not to generate everything the material reminds you of, but to identify what prior knowledge is genuinely relevant to the problem that analysis revealed. The discipline is relevance — not all connections are useful ones.",
+      "metacognitive_dimension": "The learner monitors the quality of connections: Is this prior knowledge actually relevant, or am I forcing a connection? Am I drawing on my best relevant experience or defaulting to the most familiar? Are my connections diversifying my hypotheses or all pointing in the same direction (suggesting confirmation bias)?",
+      "template_field_label": "Connect — What does this relate to?",
+      "template_field_placeholder": "What prior knowledge, frameworks, personal experience, or analogous cases are genuinely relevant to what you analyzed? Where have you encountered something similar? What principles apply here? What does this remind you of — and why is that connection meaningful rather than superficial? Generate multiple connections before committing to one.",
+      "example": "Connecting the remote work productivity claim to prior knowledge: Personal experience — my own productivity varied by task type (focused work up, collaborative work down); empirical literature — Stanford study (Bloom, 2015) found 13% productivity increase for call-center workers, but this may not generalize; analogous case — the open-plan office debate, where productivity research was also more nuanced than the popular narrative; relevant framework — job demands-resources model, which would predict that the effect depends on fit between individual resource profiles and work demands.",
+      "common_error": "Making only the first connection that comes to mind — usually the most available, most familiar one — and treating it as sufficient. The most valuable connections are often the third or fourth ones, not the first. Also common: connecting to frameworks you know well rather than those that are most relevant.",
+      "dewey_quote": "Unless there has been some analogous experience, confusion remains mere confusion. — Chapter 1",
+      "dewey_connection": "Corresponds to Dewey's 'suggestion' phase — the generation of hypotheses from prior experience. Dewey's key insight here is that suggestions only arise when there is relevant prior experience to draw on, which is why experience must be built deliberately and why breadth of experience is a cognitive resource.",
+      "bloom_level": "Apply (Level 3) + Analyze (Level 4)",
+      "paul_elder_element": "Concepts + Assumptions + Inferences",
+      "practical_challenge": "Learners with deep expertise in one domain systematically over-connect to that domain. An economist will connect every problem to economics; a psychologist to psychology. The Connect phase requires awareness of your own dominant frameworks and deliberate effort to seek connections outside them when those connections might be more illuminating.",
+      "self_assessment_questions": [
+        "Have I generated at least three distinct connections, not just one?",
+        "Am I connecting to what's most relevant or most familiar?",
+        "Are all my connections pointing the same direction (suggesting I may be seeking confirmation)?",
+        "Have I drawn on frameworks from outside my primary domain?"
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Evaluate",
+      "also_called": ["Assess", "Judge", "Weigh", "Test"],
+      "definition": "The critical assessment of the hypotheses, interpretations, or connections generated in Phase 2 — weighing evidence for and against, testing internal consistency, applying relevant standards, and arriving at a supported position. Evaluate is where the generative work of Connect is subjected to the disciplined scrutiny that separates warranted conclusions from plausible-sounding ones.",
+      "cognitive_character": "Critical and evidence-directed. This phase deliberately introduces resistance to the most attractive hypothesis. It requires the learner to seek disconfirming evidence, consider alternative interpretations, and apply explicit criteria to judge the quality of competing explanations.",
+      "metacognitive_dimension": "The learner monitors their own evaluative process: Am I applying criteria consistently, or relaxing standards for evidence that supports my preferred conclusion? Am I engaging with the strongest counterarguments or only the weak ones? What is my actual confidence level, and is it proportionate to the evidence?",
+      "template_field_label": "Evaluate — What holds up under scrutiny?",
+      "template_field_placeholder": "Apply explicit criteria to what you connected and generated. What evidence supports each interpretation? What evidence counts against it? What is the strongest version of the opposing view? What are the limits of your analysis? What would it take to change your mind? Arrive at a position that honestly reflects the strength of the evidence.",
+      "example": "Evaluating the remote work productivity connections: The Stanford call-center study is methodologically strong (RCT) but highly specific to that job type. My personal experience is subject to recency and availability bias. The JD-R framework predicts heterogeneous effects, which aligns with the mixed empirical literature. Strongest counterargument to 'remote reduces productivity': the effect is highly job-type dependent, making the general claim misleading. Limiting condition: 'productivity' must be defined before the claim is testable. Warranted position: productivity effects of remote work are heterogeneous and job-type dependent; the unqualified claim is too broad to be useful.",
+      "common_error": "Treating Evaluate as a formality — going through the motions of considering counterevidence while actually just building the case for the conclusion already reached in Connect. Also common: evaluating evidence quality only for sources that oppose your view while accepting supportive sources uncritically.",
+      "dewey_quote": "It is at the point where examination and test enter into investigation that the difference between reflective thought and bad thinking comes in. — Chapter 1",
+      "dewey_connection": "Corresponds most directly to Dewey's 'testing' phase — the empirical or logical verification of the hypothesis. Dewey's criterion for this phase is rigorous: a hypothesis is only warranted if it has been honestly tested against evidence that could have disconfirmed it. Evidence that was never at risk of disconfirming is not evidence.",
+      "bloom_level": "Evaluate (Level 5)",
+      "paul_elder_element": "Information + Inferences + Implications",
+      "practical_challenge": "Genuine evaluation of one's own hypotheses requires something that feels socially awkward: actively trying to prove yourself wrong. In group contexts, this can appear as weakness or indecision. The ACER practitioner must learn to hold genuine uncertainty openly — to say 'I've found evidence against my initial view and I'm updating my position' without experiencing this as failure.",
+      "self_assessment_questions": [
+        "Have I applied the same evidentiary standards to supporting and opposing evidence?",
+        "Have I engaged with the strongest version of the opposing view?",
+        "Is my confidence level proportionate to the actual evidence, or inflated?",
+        "What would genuinely change my mind, and have I honestly considered it?"
+      ]
+    },
+    {
+      "phase": 4,
+      "name": "Reflect",
+      "also_called": ["Review", "Integrate Lessons", "Metacognitive Review", "Self-Examine"],
+      "definition": "The structured self-examination of the entire thinking episode — examining not just what conclusion was reached but how the thinking was conducted, what errors were made, what the learner's blind spots revealed, and what should be done differently in future episodes. Reflect converts a single thinking event into a resource for improving future thinking.",
+      "cognitive_character": "Honest and generative. This phase requires a kind of internal candor that does not come naturally: admitting where the thinking was sloppy, where assumptions were unexamined, where the learner was more attached to a conclusion than the evidence warranted. Its output is not just a record of the episode but a concrete update to the learner's self-understanding as a thinker.",
+      "metacognitive_dimension": "This phase is entirely metacognitive — its object is the process of thinking itself, not the subject matter. The learner examines their own cognitive habits, identifies patterns in how they go wrong, and generates specific commitments for future improvement.",
+      "template_field_label": "Reflect — What does this episode reveal about how I think?",
+      "template_field_placeholder": "Review the entire process — not just what you concluded but how you reasoned. Where did you rush? Where did you find genuine insight? What assumptions did you carry in that you only noticed later? What would you do differently? What does this episode reveal about a pattern in how you approach problems? Generate one concrete commitment for future thinking.",
+      "example": "Reflecting on the remote work analysis: I notice I moved too quickly through Analysis — I didn't fully unpack 'productivity' before moving to Connect. In Connect, I defaulted immediately to my own personal experience before consulting better evidence, which suggests I privilege anecdote over data as a first move. In Evaluate, I found I was more generous in accepting the RCT evidence (which aligned with my tentative conclusion) than I should have been given its limited generalizability. Pattern identified: I tend to commit to a direction early in Connect and then subtly use Evaluate to confirm rather than genuinely test. Concrete commitment: In future episodes, write down at least two disconfirming pieces of evidence before any confirming evidence.",
+      "common_error": "Treating Reflect as an optional addendum or completing it too quickly ('I did okay, I'd be more careful next time'). Reflection that does not identify a specific pattern and generate a specific commitment is not doing the metacognitive work the phase requires. The goal is not self-assessment — it is self-improvement through honest pattern recognition.",
+      "dewey_quote": "No one can tell another person in any definite way how he should think... But the various ways in which men do think can be told and can be described in their general features. — Chapter 1",
+      "dewey_connection": "The Reflect phase has no direct equivalent in Dewey's five phases, which end at testing. It corresponds to Dewey's broader educational project — the cultivation of intellectual character over time through the accumulation of disciplined experience. Dewey argues throughout 'How We Think' that genuine thinkers are made, not born, through the accumulation of deliberately examined experience. The Reflect phase is the mechanism by which each thinking episode contributes to that accumulation.",
+      "bloom_level": "Create (Level 6) — generating new self-knowledge that did not exist before the episode",
+      "paul_elder_element": "Point of View + Intellectual Traits (Self-Awareness, Intellectual Humility)",
+      "practical_challenge": "The Reflect phase is the most frequently skipped in professional contexts because time pressure is highest at the end of a task — just when Reflect would need to happen. Building Reflect into structured workflows (written reflection, team debriefs, after-action reviews) is the only reliable way to prevent it from being perpetually deferred. The learner who consistently skips Reflect is the learner who makes the same mistakes across many episodes because no episode ever becomes a learning resource.",
+      "self_assessment_questions": [
+        "Can I name a specific pattern in how I approached this problem?",
+        "Where was I more attached to my conclusion than the evidence warranted?",
+        "What assumption did I carry in that I should have examined earlier?",
+        "What is one concrete and specific thing I will do differently next time?"
+      ]
+    }
+  ],
+  "cycle_dynamics": {
+    "iteration": "Expert thinkers do not move through ACER once, linearly. They cycle — partial Evaluate results send them back to Connect for new hypotheses; Reflect insights reshape how they Analyze in the next episode. The four phases are best understood as a cycle with feedback loops rather than a one-way sequence.",
+    "phase_weighting": "Most learners systematically underinvest in Analyze and Reflect (the phases that feel least productive in the moment) and overinvest in Connect (which is generative and enjoyable). Calibrating attention deliberately toward the underinvested phases is one of the highest-leverage improvements a learner can make.",
+    "failure_cascade": "Phase failures cascade: poor Analysis leads to irrelevant Connections, which leads to Evaluation of the wrong hypotheses, which leads to Reflection on a process that was compromised from the start. This is why time invested in the Analyze phase has the highest multiplier effect.",
+    "signs_of_genuine_cycle_completion": [
+      "You can state precisely what problem you were solving (Analyze quality)",
+      "Your conclusion draws on multiple distinct sources of prior knowledge (Connect quality)",
+      "You can state specifically what would have changed your conclusion (Evaluate quality)",
+      "You can name a specific pattern in your thinking and a specific commitment to change it (Reflect quality)"
+    ]
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "ACER is a writing structure, not a thinking structure",
+      "correction": "ACER is a framework for the process of thinking, and writing can be a vehicle for executing it — but completing ACER in writing does not guarantee that genuine cognitive work at each phase occurred. A learner can produce text at each phase that is formulaic and superficial. The phases are complete when the cognitive work is done, not when the word count is met."
+    },
+    {
+      "misconception": "The phases should always take equal time",
+      "correction": "The time required for each phase varies substantially with the complexity of the material, the learner's prior knowledge, and the stakes of the evaluation. What should be roughly consistent is that Analyze and Reflect receive serious attention — the phases that are most commonly rushed."
+    },
+    {
+      "misconception": "Reflect is just a summary of what was learned",
+      "correction": "Reflect is a self-examination of the process of learning, not a summary of its content. A summary tells you what you concluded; Reflect tells you something about how you think that will change how you approach future problems. These are entirely different outputs."
+    },
+    {
+      "misconception": "ACER is appropriate only for academic or formal learning contexts",
+      "correction": "The ACER cycle is applicable to any episode of deliberate thinking — professional decisions, personal problems, creative projects, interpersonal conflicts. The vocabulary is more formal than everyday language, but the underlying activities are general cognitive ones."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "Template scaffold — the four phases map directly to four fields in the ACER Metacognitive Template, guiding users through structured thinking on any topic or problem they bring to the app",
+    "secondary_use": "Exercise debrief structure — after completing any exercise, users can apply ACER to their own reasoning process: Analyze what the exercise asked, Connect it to their prior knowledge, Evaluate the quality of their response, Reflect on what it reveals about their thinking habits",
+    "integration_with_dewey": "The app positions ACER as the 'meta-framework' that governs how users engage with all other frameworks and templates — Dewey, Bloom's, Toulmin, Paul-Elder. Users are encouraged to run an ACER cycle on their completed templates: Analyze what the template required, Connect it to relevant prior experience, Evaluate the quality of what they produced, Reflect on what the exercise revealed about their thinking",
+    "llm_application": "The LLM uses ACER phase language when providing feedback: 'In your Analysis phase, you defined the key terms clearly but did not identify the assumptions operating in the claim. In your Connect phase, you drew on strong prior knowledge but from a single domain...'"
+  }
+}

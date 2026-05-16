@@ -1,0 +1,202 @@
+{
+  "framework": "Dual-Process Theory of Cognition",
+  "authors": ["Daniel Kahneman (Thinking, Fast and Slow)", "Keith Stanovich", "Richard West", "Jonathan Evans"],
+  "key_works": ["Kahneman 2011 — Thinking, Fast and Slow", "Stanovich & West 2000", "Evans 2003"],
+  "type": "Cognitive Architecture Model",
+  "description": "Dual-process theory proposes that human cognition operates via two fundamentally different systems: a fast, automatic, intuitive system and a slow, deliberate, analytical system. This framework is central to understanding when and why critical thinking fails — and why the mere capacity to think critically doesn't guarantee that it will be used.",
+  "dewey_connection": "Dewey's description of the distinction between 'immediate experience' and 'reflective thinking' anticipates the System 1/System 2 distinction. Dewey noted that most thinking is associative and habit-driven; genuine reflection requires interrupting automatic response patterns. System 2 engagement corresponds to Dewey's five phases of reflective inquiry.",
+  "paul_elder_connection": "Paul and Elder's Intellectual Virtues are essentially System 2 dispositions — intellectual humility, for example, requires override of System 1's egocentric default. The Standards function as System 2 quality criteria that must be deliberately applied.",
+  "systems": {
+    "system_1": {
+      "name": "System 1",
+      "also_called": ["Type 1 Processing", "Fast Thinking", "Intuitive System", "Autonomous System"],
+      "core_characteristics": {
+        "speed": "Fast",
+        "effort": "Low / automatic",
+        "consciousness": "Largely unconscious / implicit",
+        "control": "Autonomous — not readily interrupted",
+        "capacity": "High — can process multiple inputs simultaneously",
+        "evolution": "Evolutionarily older; shared with other animals"
+      },
+      "what_it_does": [
+        "Pattern recognition from experience",
+        "Emotional responses",
+        "Social judgments (trustworthy? threatening?)",
+        "Language comprehension and production",
+        "Completing well-practiced routines",
+        "Rapid causal attribution ('he slipped because the floor was wet')",
+        "Retrieval of associated memories, feelings, and stereotypes",
+        "Facial recognition and emotional reading",
+        "Generating impressions, intuitions, intentions"
+      ],
+      "critical_thinking_risks": [
+        "Produces answers that feel certain but may be wrong",
+        "Subject to heuristic biases — availability, representativeness, anchoring",
+        "Egocentric and socioentric defaults — sees one's own view as obvious",
+        "Motivated reasoning — selectively processes information that confirms existing beliefs",
+        "First-impression anchoring — initial impressions disproportionately shape subsequent evaluation"
+      ]
+    },
+    "system_2": {
+      "name": "System 2",
+      "also_called": ["Type 2 Processing", "Slow Thinking", "Analytical System", "Reflective System"],
+      "core_characteristics": {
+        "speed": "Slow",
+        "effort": "High / deliberate",
+        "consciousness": "Largely conscious / explicit",
+        "control": "Subject to intentional direction and interruption",
+        "capacity": "Limited — serial processing; easily depleted",
+        "evolution": "Evolutionarily newer; more prominent in humans"
+      },
+      "what_it_does": [
+        "Rule-based logical reasoning",
+        "Systematic hypothesis testing",
+        "Working memory-intensive computation",
+        "Perspective-taking that requires explicit effort",
+        "Abstract reasoning beyond direct experience",
+        "Monitoring System 1 outputs for errors",
+        "Deliberate decision-making under complexity",
+        "Following step-by-step procedures and algorithms",
+        "Self-reflective cognition — thinking about one's thinking"
+      ],
+      "critical_thinking_opportunities": [
+        "Can override System 1 defaults when engaged",
+        "Can apply explicit standards to evaluate implicit impressions",
+        "Can generate and systematically evaluate multiple alternatives",
+        "Can recognize and compensate for known biases",
+        "Enables metacognitive monitoring of one's own reasoning processes"
+      ],
+      "limitations": [
+        "Depletes with use — cognitive resource exhaustion",
+        "Often fails to engage even when needed — default acceptance of System 1 outputs",
+        "Can rationalize System 1 conclusions post-hoc rather than evaluate them genuinely",
+        "Slower is not necessarily more accurate — can be wrong in different ways"
+      ]
+    }
+  },
+  "systems_comparison_table": {
+    "dimensions": [
+      {"dimension": "Speed", "system_1": "Fast (milliseconds)", "system_2": "Slow (seconds to minutes)"},
+      {"dimension": "Effort", "system_1": "Effortless (automatic)", "system_2": "Effortful (deliberate)"},
+      {"dimension": "Consciousness", "system_1": "Largely implicit", "system_2": "Largely explicit"},
+      {"dimension": "Capacity", "system_1": "High (parallel)", "system_2": "Limited (serial)"},
+      {"dimension": "Flexibility", "system_1": "Rigid (hardwired or highly practiced)", "system_2": "Flexible (can follow novel rules)"},
+      {"dimension": "Corrigibility", "system_1": "Difficult to override once triggered", "system_2": "Can override System 1 when engaged"},
+      {"dimension": "Emotion", "system_1": "Emotionally loaded", "system_2": "Emotionally neutral (when functioning well)"},
+      {"dimension": "Domain", "system_1": "Familiar domains where patterns exist", "system_2": "Unfamiliar, complex, or high-stakes problems"},
+      {"dimension": "Examples", "system_1": "Recognizing a friend's face; feeling disgust; 2+2=4", "system_2": "Planning a budget; evaluating a novel argument; learning a new procedure"}
+    ]
+  },
+  "stanovich_tripartite_model": {
+    "description": "Stanovich and West (2000) proposed a refinement of the two-system model into three levels, providing a more fine-grained account of why smart people make systematic reasoning errors.",
+    "levels": [
+      {
+        "level": "Autonomous Mind (TASS)",
+        "abbreviation": "TASS = The Autonomous Set of Systems",
+        "corresponds_to": "System 1",
+        "description": "Fast, encapsulated processes that operate automatically. Cannot be directly overridden by intention — can only be inhibited or checked.",
+        "key_insight": "TASS outputs feel like perceptions — they arrive as intuitions, impressions, or feelings, not as conclusions of reasoning."
+      },
+      {
+        "level": "Algorithmic Mind",
+        "corresponds_to": "Roughly System 2 execution",
+        "description": "The processing efficiency of slow, deliberate cognition. Measured by traditional IQ and working memory tests. Represents the computational horsepower for deliberate reasoning.",
+        "key_insight": "Having a high-capacity algorithmic mind does not guarantee good reasoning — it only provides the resource for good reasoning. How those resources are directed is determined by the reflective mind."
+      },
+      {
+        "level": "Reflective Mind",
+        "corresponds_to": "The meta-level of System 2 — what decides when and how to engage the algorithmic mind",
+        "description": "The disposition and values system that determines whether and how cognitive resources are deployed. Encompasses epistemic values: belief in rationality, concern for truth, intellectual virtues.",
+        "key_insight": "Stanovich argues that many reasoning errors are failures of the reflective mind, not the algorithmic mind. Intelligent people often reason poorly because their reflective mind does not value rational scrutiny — or directs their algorithmic power toward motivated reasoning rather than truth-seeking."
+      }
+    ],
+    "ct_implication": "Critical thinking development must address all three levels: automatizing some basic skills (TASS), building processing capacity (Algorithmic), and — most importantly — cultivating the epistemic values and metacognitive dispositions that govern when and how cognitive resources are deployed (Reflective)."
+  },
+  "cognitive_biases": {
+    "description": "Systematic errors in thinking that arise primarily from System 1 defaults. Understanding biases enables System 2 counter-strategies.",
+    "biases": [
+      {
+        "bias": "Confirmation Bias",
+        "mechanism": "Selectively seeking, interpreting, and remembering information that confirms existing beliefs",
+        "example": "A researcher reads only studies that support their preferred hypothesis",
+        "ct_counter_strategy": "Actively seek disconfirming evidence; steel-man opposing positions; ask 'what would change my mind?'",
+        "paul_elder_element": "Information, Assumptions",
+        "delphi_skill": "Truth-Seeking disposition"
+      },
+      {
+        "bias": "Availability Heuristic",
+        "mechanism": "Judging the probability or frequency of events by how easily examples come to mind",
+        "example": "Overestimating the frequency of plane crashes because they are vividly reported in media",
+        "ct_counter_strategy": "Seek base rates and statistical evidence; distinguish memorability from frequency",
+        "paul_elder_element": "Information, Inference",
+        "delphi_skill": "Inference — Querying Evidence"
+      },
+      {
+        "bias": "Anchoring",
+        "mechanism": "Disproportionate reliance on the first piece of information encountered when making judgments",
+        "example": "Negotiators who hear a high initial offer make higher final offers than those who hear a low initial offer",
+        "ct_counter_strategy": "Deliberately generate your own estimate before encountering anchors; consider multiple reference points",
+        "paul_elder_element": "Information, Assumptions",
+        "delphi_skill": "Analysis — Detecting Arguments"
+      },
+      {
+        "bias": "Overconfidence Bias",
+        "mechanism": "Systematic overestimation of one's own knowledge, ability, and the accuracy of one's judgments",
+        "example": "People rate their driving skills or knowledge accuracy well above average across all groups",
+        "ct_counter_strategy": "Track prediction accuracy over time; explicitly consider how you might be wrong; seek calibration feedback",
+        "paul_elder_element": "Assumptions, Point of View",
+        "delphi_skill": "Self-Regulation — Self-Examination"
+      },
+      {
+        "bias": "Representativeness Heuristic",
+        "mechanism": "Judging the probability that something belongs to a category by how similar it is to the prototype of that category, ignoring base rates",
+        "example": "A quiet, book-reading person is assumed more likely to be a librarian than a farmer — ignoring that farmers are far more numerous",
+        "ct_counter_strategy": "Explicitly consider base rates; ask 'what is the prior probability here?'",
+        "paul_elder_element": "Inference, Concepts",
+        "delphi_skill": "Inference — Drawing Conclusions"
+      },
+      {
+        "bias": "Sunk Cost Fallacy",
+        "mechanism": "Continuing to invest resources in a failing course of action because of prior investment (irretrievable costs)",
+        "example": "Staying in an unhappy relationship because 'I've already invested so much time'",
+        "ct_counter_strategy": "Evaluate future options based on future costs and benefits, not past investment; ask 'if I were starting fresh today, would I choose this?'",
+        "paul_elder_element": "Implications/Consequences, Purpose",
+        "delphi_skill": "Evaluation — Assessing Claims"
+      },
+      {
+        "bias": "Dunning-Kruger Effect",
+        "mechanism": "People with low competence in a domain tend to overestimate their own performance, partly because they lack the metacognitive skill to recognize their deficiencies",
+        "example": "A beginning student rates their essay as excellent because they cannot yet recognize its weaknesses",
+        "ct_counter_strategy": "Seek expert feedback; study domain competence standards explicitly; track performance empirically",
+        "paul_elder_element": "Assumptions, Point of View",
+        "delphi_skill": "Self-Regulation; CT Self-Confidence (calibrated)"
+      },
+      {
+        "bias": "In-group Bias",
+        "mechanism": "Evaluating information, arguments, and people more favorably when they are associated with one's own social group",
+        "example": "Accepting weak arguments from politicians one supports while demanding strong evidence from opponents",
+        "ct_counter_strategy": "Apply consistent standards across in-group and out-group claims; test whether one would accept equivalent arguments from the other side",
+        "paul_elder_element": "Point of View, Assumptions, Fairness (standard)",
+        "delphi_skill": "Open-Mindedness; Truth-Seeking"
+      }
+    ]
+  },
+  "crt_example": {
+    "name": "Cognitive Reflection Test (CRT)",
+    "author": "Shane Frederick, 2005",
+    "description": "A three-item test designed to measure the tendency to override an incorrect intuitive response with a correct deliberate one. High CRT scorers are better at System 2 engagement.",
+    "classic_item": {
+      "question": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+      "system_1_response": "$0.10 (wrong — feels immediately obvious)",
+      "correct_answer": "$0.05 (requires System 2 to override intuition and check the math)",
+      "why_hard": "System 1 immediately suggests '10 cents' by decomposing 1.10 into 1.00 + 0.10. System 2 must notice this is wrong: if ball=$0.10 and bat costs $1.00 more, bat=$1.10, total=$1.20 ≠ $1.10."
+    }
+  },
+  "app_usage": {
+    "concept_feature": "Explain System 1/System 2 in Concept Explorer as foundational metacognitive knowledge",
+    "bias_library": "8 biases with examples and counter-strategies — surfaced when reviewing reasoning",
+    "exercise_feature": "CRT-style exercises that require System 2 override",
+    "template_feature": "Bias self-check as a template component in the Dewey Reflective Template",
+    "llm_integration": "Claude can identify System 1 patterns in user reasoning and flag likely biases"
+  }
+}

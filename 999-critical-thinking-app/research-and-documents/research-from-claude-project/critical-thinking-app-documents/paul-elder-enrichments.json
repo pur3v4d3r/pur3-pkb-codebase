@@ -1,0 +1,473 @@
+{
+  "framework": "Paul-Elder Framework — Enrichments",
+  "description": "Supplementary JSON for paul-elder.json. Contains SEE-I method, 7 Stages of CT Development, Standards-Elements Application Matrix, Socratic Question Banks by Element, pathologies per element, and intellectual virtue development practices.",
+  "note": "This enrichment file extends paul-elder.json without duplicating its existing content.",
+  "see_i_method": {
+    "name": "SEE-I",
+    "full_name": "State-Elaborate-Exemplify-Illustrate",
+    "description": "SEE-I is Paul and Elder's practical method for teaching anyone to explain any concept with precision and depth. It is the pedagogical workhorse of the Paul-Elder framework and the primary tool for developing the Clarity and Precision intellectual standards.",
+    "four_steps": [
+      {
+        "letter": "S",
+        "step": "State",
+        "description": "State the concept/idea in a clear, concise sentence using your own words. Do not simply copy a definition.",
+        "example_prompt": "In a single clear sentence, what is critical thinking?",
+        "pitfall": "Copying a textbook definition rather than formulating one's own understanding"
+      },
+      {
+        "letter": "E",
+        "step": "Elaborate",
+        "description": "Expand on the statement. Unpack its meaning. Explain what the statement means in more detail, what is implied by it, what makes it true.",
+        "example_prompt": "What do you mean by that? Explain further.",
+        "pitfall": "Simply restating the same idea with different words rather than genuinely unpacking meaning"
+      },
+      {
+        "letter": "E",
+        "step": "Exemplify",
+        "description": "Provide a concrete, specific example that illustrates the concept. The example must be real, concrete, and clearly connected to the explanation.",
+        "example_prompt": "Give a specific, concrete example of this.",
+        "pitfall": "Providing a vague, generic, or hypothetical example rather than a concrete, well-specified one"
+      },
+      {
+        "letter": "I",
+        "step": "Illustrate",
+        "description": "Provide an analogy, metaphor, or visual representation that captures the concept by connecting it to something familiar.",
+        "example_prompt": "Explain this concept using an analogy or comparison — 'it's like...'",
+        "pitfall": "Using an analogy that is more confusing than illuminating; failing to show how the analogy connects to the concept"
+      }
+    ],
+    "worked_example": {
+      "concept": "Critical Thinking",
+      "S": "Critical thinking is the intellectually disciplined practice of evaluating reasoning by applying universal standards to the elements of thought.",
+      "E": "This means that CT isn't simply being skeptical or disagreeing — it's applying systematic standards (clarity, accuracy, logic, fairness, etc.) to the specific components of any argument (the purpose, the question, the information, the assumptions, the inferences, the implications, and the point of view). The goal is not to reject all claims but to assess them fairly using consistent standards.",
+      "E_example": "When reading a newspaper editorial arguing for a particular immigration policy, a critical thinker doesn't just agree or disagree — they identify the conclusion, examine the evidence offered, look for unstated assumptions, consider alternative perspectives, and evaluate whether the argument is logically valid, accurately informed, and fairly presented.",
+      "I": "Critical thinking is like being an experienced judge rather than a partisan fan. A fan automatically supports their team; a judge evaluates the evidence fairly using established rules, regardless of preferences. Critical thinking is the practice of becoming a judge about your own and others' claims."
+    },
+    "pedagogical_uses": [
+      "Concept clarification exercises — students SEE-I any concept from any chapter",
+      "Template field in Dewey Reflective Template — requires all four steps",
+      "Self-assessment tool — 'Can I SEE-I this concept? If not, my understanding is incomplete'",
+      "Debate preparation — SEE-I one's own position and the opposing position"
+    ]
+  },
+  "stages_of_critical_thinking_development": {
+    "description": "Paul and Elder's developmental model describing how people progress from unreflective to master thinking. This is a formative model, not a fixed typology — people can be at different stages in different domains.",
+    "stages": [
+      {
+        "stage_number": 1,
+        "stage_name": "The Unreflective Thinker",
+        "description": "Unaware of significant problems in one's own thinking. Operates entirely on System 1 intuitions, social conformity, and egocentric defaults. Lacks the concept of 'good' vs. 'poor' reasoning.",
+        "hallmarks": [
+          "Doesn't recognize one is reasoning when one is reasoning",
+          "Views one's opinions as obvious truth, not as one perspective among many",
+          "No awareness of Elements of Thought or Intellectual Standards",
+          "Cannot distinguish inference from observation, assumption from fact"
+        ],
+        "characteristic_statement": "I'm not doing any 'reasoning' — I just know what's true."
+      },
+      {
+        "stage_number": 2,
+        "stage_name": "The Challenged Thinker",
+        "description": "Has become aware that thinking can be problematic. Has encountered the idea that critical thinking requires skill and practice. But lacks the vocabulary, tools, and habits to do anything about it.",
+        "hallmarks": [
+          "Beginning to recognize problems in own thinking",
+          "Aware of CT as a skill but uncertain how to develop it",
+          "May be defensive when thinking is challenged",
+          "Has vocabulary for CT but doesn't apply it spontaneously"
+        ],
+        "characteristic_statement": "I know my thinking could be better — but I don't know how to improve it."
+      },
+      {
+        "stage_number": 3,
+        "stage_name": "The Beginning Thinker",
+        "description": "Has decided to take responsibility for the quality of one's thinking. Beginning to practice CT actively but inconsistently. May be enthusiastic but lacking systematic habits.",
+        "hallmarks": [
+          "Actively works on improving thinking",
+          "Beginning to apply Elements and Standards occasionally",
+          "Identifies some of own biases and limitations",
+          "CT practice is effortful and inconsistent"
+        ],
+        "characteristic_statement": "I'm working on thinking more critically — but I often forget to apply what I know."
+      },
+      {
+        "stage_number": 4,
+        "stage_name": "The Practicing Thinker",
+        "description": "Has established regular practice of CT. Applies Elements and Standards with increasing consistency across domains. Recognizes systematic patterns in own thinking errors.",
+        "hallmarks": [
+          "Applies CT tools regularly, not just occasionally",
+          "Can identify own patterns of bias",
+          "Has developed routines for reflective analysis",
+          "CT is still effortful but becoming habitual in important domains"
+        ],
+        "characteristic_statement": "I regularly evaluate my thinking — and I can see patterns in where I tend to go wrong."
+      },
+      {
+        "stage_number": 5,
+        "stage_name": "The Advanced Thinker",
+        "description": "CT is deeply internalized and increasingly automatic across most important domains. Intellectual virtues are well-developed. The thinker actively monitors and adjusts own thinking.",
+        "hallmarks": [
+          "CT applied consistently across diverse domains",
+          "Deep intellectual humility — genuinely open to being wrong",
+          "Seeks out challenges to own thinking",
+          "Intellectual virtues are characteristic, not effortful"
+        ],
+        "characteristic_statement": "I monitor my thinking across contexts and seek out disconfirming evidence and challenges."
+      },
+      {
+        "stage_number": 6,
+        "stage_name": "The Accomplished Thinker",
+        "description": "CT is now largely automatic and integrated into the way one lives and works. The thinker has high-quality insights across domains and can mentor others in CT development.",
+        "hallmarks": [
+          "CT is fully integrated into habitual thinking patterns",
+          "Has developed individual systematic approach that integrates multiple frameworks",
+          "Can accurately assess the quality of own thinking",
+          "Intellectual integrity and intellectual courage consistently demonstrated"
+        ],
+        "characteristic_statement": "My thinking is generally sound — I notice problems quickly and correct readily."
+      },
+      {
+        "stage_number": 7,
+        "stage_name": "The Master Thinker",
+        "description": "The highest level — a fully integrated CT practitioner. CT is not something the master thinker 'does' but something they are. The intellectual virtues have become character traits. This stage is approached asymptotically rather than fully achieved.",
+        "hallmarks": [
+          "Deep integration of CT across all dimensions of life",
+          "Extraordinary accuracy and precision in own thinking",
+          "Intellectual virtues exhibited consistently even under pressure",
+          "Actively contributes to others' CT development"
+        ],
+        "characteristic_statement": "I take thinking seriously as a craft and continually work to improve it — in every domain of my life."
+      }
+    ],
+    "pedagogical_notes": [
+      "Most adults who have not studied CT are at Stages 1-2",
+      "Undergraduate CT instruction typically moves students from Stage 2 to Stage 3-4",
+      "Stage 5+ requires years of deliberate practice",
+      "Stages are domain-relative — one may be Stage 5 in professional reasoning but Stage 2 in political reasoning",
+      "The model is explicitly aspirational — no one has fully achieved Stage 7"
+    ]
+  },
+  "standards_elements_matrix": {
+    "description": "A 9×8 matrix (9 Standards × 8 Elements) generating 72 targeted diagnostic questions. Apply any standard to any element to produce a specific evaluative question.",
+    "usage_instruction": "Select an Element (row header) and a Standard (column header). The intersection generates a targeted diagnostic question for evaluating the reasoning on that specific dimension.",
+    "matrix": {
+      "Purpose": {
+        "Clarity": "Is my purpose clearly stated?",
+        "Accuracy": "Is my purpose an accurate representation of what I actually seek?",
+        "Precision": "Is my purpose stated with sufficient specificity?",
+        "Relevance": "Is my purpose relevant to the larger context?",
+        "Depth": "Does my purpose address the real complexity of what I seek?",
+        "Breadth": "Have I considered the full range of purposes?",
+        "Logic": "Is my purpose logically coherent?",
+        "Significance": "Is this purpose the most significant one to pursue?",
+        "Fairness": "Am I pursuing this purpose with intellectual integrity?"
+      },
+      "Question": {
+        "Clarity": "Is the question clearly formulated?",
+        "Accuracy": "Does the question accurately frame the real issue?",
+        "Precision": "Is the question specific enough to guide inquiry?",
+        "Relevance": "Is this question relevant to the problem at hand?",
+        "Depth": "Does the question go deep enough?",
+        "Breadth": "Have I considered the full range of questions?",
+        "Logic": "Does the question follow logically from the purpose?",
+        "Significance": "Is this the most significant question to address?",
+        "Fairness": "Am I framing the question fairly?"
+      },
+      "Information": {
+        "Clarity": "Is the information presented clearly?",
+        "Accuracy": "Is the information I'm using accurate?",
+        "Precision": "Is the information sufficiently detailed?",
+        "Relevance": "Is the information relevant to the question?",
+        "Depth": "Have I gathered sufficiently deep information?",
+        "Breadth": "Have I gathered information from sufficient breadth?",
+        "Logic": "Does the information logically support the question?",
+        "Significance": "Am I focusing on the most significant information?",
+        "Fairness": "Am I being fair in my selection and use of information?"
+      },
+      "Inference": {
+        "Clarity": "Are my inferences clearly stated?",
+        "Accuracy": "Are my inferences accurate conclusions from the data?",
+        "Precision": "Are my inferences stated with appropriate precision?",
+        "Relevance": "Are my inferences relevant to the conclusion?",
+        "Depth": "Do my inferences address the real complexity?",
+        "Breadth": "Have I considered the full range of possible inferences?",
+        "Logic": "Do my inferences follow logically from the information?",
+        "Significance": "Am I drawing the most significant inferences?",
+        "Fairness": "Are my inferences free from motivated distortion?"
+      },
+      "Concepts": {
+        "Clarity": "Are my key concepts clearly defined?",
+        "Accuracy": "Are my concepts accurately defined?",
+        "Precision": "Are my concepts precisely defined?",
+        "Relevance": "Are the concepts I'm using relevant?",
+        "Depth": "Do my concepts capture the depth of the phenomena?",
+        "Breadth": "Have I considered alternative conceptual frameworks?",
+        "Logic": "Do my concepts form a logically coherent framework?",
+        "Significance": "Am I using the most significant concepts?",
+        "Fairness": "Am I applying my concepts consistently and fairly?"
+      },
+      "Assumptions": {
+        "Clarity": "Are my assumptions clearly articulated?",
+        "Accuracy": "Are my assumptions accurate?",
+        "Precision": "Are my assumptions precisely stated?",
+        "Relevance": "Are my assumptions relevant to the question?",
+        "Depth": "Have I examined my assumptions at sufficient depth?",
+        "Breadth": "Have I examined the breadth of relevant assumptions?",
+        "Logic": "Do my assumptions logically support my conclusions?",
+        "Significance": "Am I examining the most significant assumptions?",
+        "Fairness": "Am I being honest about my assumptions?"
+      },
+      "Implications": {
+        "Clarity": "Are the implications clearly traced?",
+        "Accuracy": "Are my traced implications accurate?",
+        "Precision": "Are the implications precisely traced?",
+        "Relevance": "Are the implications I traced relevant?",
+        "Depth": "Have I traced implications deeply enough?",
+        "Breadth": "Have I traced the full breadth of implications?",
+        "Logic": "Do my implications logically follow from my conclusions?",
+        "Significance": "Am I tracing the most significant implications?",
+        "Fairness": "Am I tracing implications fairly across all positions?"
+      },
+      "PointOfView": {
+        "Clarity": "Is my perspective clearly identified?",
+        "Accuracy": "Is my characterization of my own perspective accurate?",
+        "Precision": "Is my perspective described with sufficient precision?",
+        "Relevance": "Is the perspective I'm using relevant to this issue?",
+        "Depth": "Does my perspective engage the full depth of the issue?",
+        "Breadth": "Have I considered multiple points of view?",
+        "Logic": "Is my perspective logically consistent?",
+        "Significance": "Am I considering the most significant perspectives?",
+        "Fairness": "Am I representing all perspectives fairly?"
+      }
+    }
+  },
+  "element_pathologies": {
+    "Purpose": [
+      "Purpose is vague — reasoning lacks direction",
+      "Purpose is hidden — from others or from oneself",
+      "Purpose is shifting — changes mid-argument to avoid challenges",
+      "Purpose is unrealistic — reasoning built toward an unachievable goal",
+      "Purpose is unexamined — accepted uncritically from culture or authority"
+    ],
+    "Question": [
+      "Question is ambiguous — multiple interpretations treated as one",
+      "Question is complex — multiple sub-questions conflated",
+      "Question is wrong — the real issue lies elsewhere",
+      "Question is loaded — presupposes a conclusion",
+      "Question is unanswerable as stated — requires reformulation"
+    ],
+    "Information": [
+      "Cherry-picking — selecting only confirming evidence",
+      "Outdated information — applying stale data to current questions",
+      "Conflating facts with interpretations — treating interpretations as raw data",
+      "Insufficient evidence — drawing strong conclusions from weak evidence",
+      "Biased sources — treating partisan sources as neutral",
+      "Ignoring disconfirming evidence — motivated reasoning"
+    ],
+    "Inference": [
+      "Over-inference — drawing stronger conclusions than data supports",
+      "Under-inference — failing to draw conclusions that data warrants",
+      "False dichotomy — inferring only two possibilities when more exist",
+      "Hasty generalization — inferring universal patterns from limited cases",
+      "Non-sequitur — conclusion does not follow from premises",
+      "Confirmation bias in inference — inferring what confirms existing beliefs"
+    ],
+    "Concepts": [
+      "Vague concepts — undefined terms that shift meaning",
+      "Equivocation — using the same term with different meanings",
+      "Inappropriate concepts — using domain-specific concepts outside their valid range",
+      "Concept reification — treating abstractions as concrete things",
+      "Unexamined inherited concepts — accepting disciplinary definitions without scrutiny"
+    ],
+    "Assumptions": [
+      "Hidden assumptions — foundational beliefs that drive conclusions invisibly",
+      "Unjustified assumptions — premises accepted without adequate grounds",
+      "Inconsistent assumptions — contradictory presuppositions within one argument",
+      "Culturally inherited assumptions — unexamined beliefs absorbed from context",
+      "Assumption-as-conclusion — circular reasoning"
+    ],
+    "Implications": [
+      "Implication-blindness — failing to recognize what one's position commits to",
+      "Cherry-picked implications — tracing only favorable consequences",
+      "Short-term bias — attending to immediate consequences while ignoring long-term",
+      "Scope insensitivity — failing to consider scale of consequences",
+      "Responsibility avoidance — acting as if implications belong to someone else"
+    ],
+    "PointOfView": [
+      "Egocentrism — treating one's own perspective as the only valid perspective",
+      "Sociocentrism — treating one's group's perspective as universally correct",
+      "Perspective-blindness — failing to recognize that one has a perspective",
+      "False universalism — claiming neutrality while reasoning from a particular standpoint",
+      "Perspective rigidity — refusing to consider alternative viewpoints seriously"
+    ]
+  },
+  "socratic_question_banks": {
+    "note": "Extended Socratic question banks for each element — supplements the existing probing_questions in paul-elder.json with full Clarifying/Probing/Extension question sets.",
+    "Purpose": {
+      "clarifying": [
+        "What exactly are you trying to accomplish?",
+        "What is the goal driving this reasoning?",
+        "What does success look like here?",
+        "Why is this purpose worth pursuing?"
+      ],
+      "probing": [
+        "Is this your real purpose, or a surface purpose masking another?",
+        "Are there multiple purposes pulling in different directions?",
+        "Is this purpose consistent with your other goals and values?",
+        "Could this purpose be more precisely defined?",
+        "Is this purpose achievable with available means?",
+        "What would you sacrifice to achieve this purpose?"
+      ],
+      "extension": [
+        "What are you assuming about why this purpose matters?",
+        "Who told you this purpose was worth pursuing — and why did you believe them?",
+        "Are you pursuing this purpose because it's genuinely important, or because it's familiar?"
+      ]
+    },
+    "Question": {
+      "clarifying": [
+        "What is the precise question you are trying to answer?",
+        "Can you state the question in one sentence?",
+        "What would count as an adequate answer to this question?"
+      ],
+      "probing": [
+        "Is this a factual question, a conceptual question, or an evaluative question?",
+        "Is this one question or several conflated questions?",
+        "Is this the right question to be asking, or does the real issue lie elsewhere?",
+        "What sub-questions must be answered before this main question can be addressed?",
+        "Who has standing to answer this question — and why?",
+        "Is this question answerable in principle?",
+        "What assumptions are embedded in the framing of this question?",
+        "How would the question change if it were asked by someone with a different purpose?"
+      ],
+      "extension": [
+        "What would a better version of this question look like?",
+        "What related questions should also be on the table?"
+      ]
+    },
+    "Information": {
+      "clarifying": [
+        "What information are you relying on?",
+        "What is your source for that claim?",
+        "How recent is this information?"
+      ],
+      "probing": [
+        "Have you distinguished between observational facts and interpretations?",
+        "What information would challenge your current conclusion?",
+        "Have you actively looked for disconfirming evidence?",
+        "What information might be missing that would change your reasoning?",
+        "Is the source of this information reliable? What conflicts of interest might exist?",
+        "How was this information gathered — and does the method affect its reliability?",
+        "Is this information generalizable to the context you are applying it to?",
+        "Are you giving all relevant information equal weight, or selectively attending?"
+      ],
+      "extension": [
+        "What additional information would you need to be more confident?",
+        "Who would have access to information you currently lack?"
+      ]
+    },
+    "Inference": {
+      "clarifying": [
+        "What conclusions are you drawing?",
+        "How did you get from this evidence to this conclusion?",
+        "Is that conclusion stated explicitly or implied?"
+      ],
+      "probing": [
+        "What other conclusions could be drawn from the same evidence?",
+        "Is your inference the most reasonable one, or just a reasonable one?",
+        "What would you need to believe for this inference to be invalid?",
+        "Are you making only one inference, or a chain of inferences?",
+        "At what point in the chain might error enter?",
+        "Are you confusing correlation with causation?",
+        "Are you generalizing from an adequate sample?",
+        "Have you considered alternative explanations equally?"
+      ],
+      "extension": [
+        "What would it take to definitively validate or falsify this inference?",
+        "How confident should you be in this inference — and why?"
+      ]
+    },
+    "Concepts": {
+      "clarifying": [
+        "What are the key concepts you are using?",
+        "How are you defining this concept?",
+        "Are you using this term consistently throughout?"
+      ],
+      "probing": [
+        "Is there a technical definition of this concept that differs from your usage?",
+        "Are there competing definitions? Why might different thinkers define this differently?",
+        "What is excluded from your concept? What falls outside its boundary?",
+        "Is this concept doing real work in your argument, or is it decorative?",
+        "What assumptions are built into this concept?",
+        "Are you reifying this concept — treating an abstraction as a concrete thing?",
+        "Would your conclusion change if you used a different concept to organize your thinking?"
+      ],
+      "extension": [
+        "Is this concept doing more work than it was designed to do?",
+        "Where did this concept come from, and does its origin affect its validity here?"
+      ]
+    },
+    "Assumptions": {
+      "clarifying": [
+        "What are you taking for granted?",
+        "What must be true for this argument to work?",
+        "What assumptions underlie this claim?"
+      ],
+      "probing": [
+        "Have you examined this assumption — or simply inherited it?",
+        "Why should we accept this assumption?",
+        "What would happen to your reasoning if this assumption were false?",
+        "Are your assumptions consistent with each other?",
+        "Are you aware that you are making this assumption, or has it been invisible?",
+        "Do those who disagree with you hold different assumptions? What are they?",
+        "Could this assumption reflect cultural bias, self-interest, or wishful thinking?",
+        "Is this assumption empirically testable?"
+      ],
+      "extension": [
+        "What is the most dangerous assumption in your current reasoning?",
+        "What assumption are you most reluctant to examine — and why?"
+      ]
+    },
+    "Implications": {
+      "clarifying": [
+        "What follows from this?",
+        "What are the consequences of accepting this position?",
+        "If this is true, what else must be true?"
+      ],
+      "probing": [
+        "Have you traced the most significant implications?",
+        "Are you willing to accept all the implications of this position?",
+        "Are there negative implications you have not considered?",
+        "What are the long-term vs. short-term implications?",
+        "What would happen if everyone acted on this reasoning?",
+        "Are the implications consistent with your other commitments?",
+        "Who would be affected by these implications — and how?",
+        "Are there second-order implications (consequences of consequences)?"
+      ],
+      "extension": [
+        "Is there an implication here that undermines your position from within?",
+        "What implication are you most reluctant to acknowledge?"
+      ]
+    },
+    "PointOfView": {
+      "clarifying": [
+        "From what perspective are you reasoning?",
+        "What experiences shape this viewpoint?",
+        "What values underlie this perspective?"
+      ],
+      "probing": [
+        "What can you see from this perspective that others might miss?",
+        "What are you unable to see because of this perspective?",
+        "How would this issue look from the opposing perspective?",
+        "What would a neutral party say about your perspective?",
+        "Are you confusing your perspective with objective reality?",
+        "What group memberships or allegiances might be shaping your view?",
+        "Have you seriously engaged with perspectives you find uncomfortable?",
+        "Has your perspective changed over time on this issue? What drove the change?"
+      ],
+      "extension": [
+        "What is the most defensible version of a perspective you currently reject?",
+        "What would it take for you to genuinely change your mind on this?"
+      ]
+    }
+  }
+}
