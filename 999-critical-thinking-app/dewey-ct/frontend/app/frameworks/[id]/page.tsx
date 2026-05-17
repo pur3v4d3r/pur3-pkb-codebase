@@ -102,6 +102,36 @@ interface FrameworkData {
   types?: Array<{ name: string; description?: string; [key: string]: unknown }>;
   fallacies?: Array<{ name: string; definition?: string; description?: string; [key: string]: unknown }>;
   models?: Array<{ name: string; description?: string; [key: string]: unknown }>;
+  // Cognitive Biases specific
+  biases?: Array<{
+    id: string;
+    name: string;
+    category?: string;
+    description: string;
+    example?: string;
+    mechanism?: string;
+    severity?: string;
+    counter_strategies?: string[];
+    paul_elder_element?: string;
+    dewey_phase?: string;
+    [key: string]: unknown;
+  }>;
+  heuristics?: Array<{
+    id: string;
+    name: string;
+    description: string;
+    when_useful?: string;
+    when_problematic?: string;
+  }>;
+  dual_process_context?: Record<string, string>;
+  cognitive_reflection_test?: {
+    description?: string;
+    example?: { question?: string; system_1_answer?: string; correct_answer?: string; reasoning?: string; lesson?: string };
+  };
+  bias_intervention_strategies?: {
+    general_principles?: string[];
+    paul_elder_connection?: string;
+  };
   // Enrichment sections (added to 11 frameworks)
   historical_origin?: Record<string, unknown>;
   teaching_applications?: Record<string, unknown>;
@@ -576,6 +606,101 @@ function LevelBlock({ lvl }: { lvl: BloomLevel }) {
   );
 }
 
+// ---- Cognitive Bias block ----
+
+const SEVERITY_COLORS: Record<string, string> = {
+  'High': 'bg-red-100 text-red-700 border-red-200',
+  'Medium-High': 'bg-orange-100 text-orange-700 border-orange-200',
+  'Medium': 'bg-amber-100 text-amber-700 border-amber-200',
+  'Low': 'bg-green-100 text-green-700 border-green-200',
+};
+
+function severityColor(severity: string | undefined): string {
+  if (!severity) return 'bg-slate-100 text-slate-600 border-slate-200';
+  const key = Object.keys(SEVERITY_COLORS).find((k) => severity.startsWith(k)) ?? '';
+  return SEVERITY_COLORS[key] ?? 'bg-slate-100 text-slate-600 border-slate-200';
+}
+
+function BiasBlock({ bias, index }: {
+  bias: NonNullable<FrameworkData['biases']>[number];
+  index: number;
+}) {
+  return (
+    <details className="group rounded-lg border border-slate-200 bg-white">
+      <summary className="flex cursor-pointer items-start gap-3 p-4 marker:hidden list-none hover:bg-slate-50">
+        <span className="flex-shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-full bg-slate-800 text-xs font-bold text-white">
+          {index + 1}
+        </span>
+        <div className="min-w-0 flex-1">
+          <div className="flex flex-wrap items-center gap-2">
+            <p className="font-semibold text-slate-900">{bias.name}</p>
+            {bias.category && (
+              <span className="rounded-full border bg-slate-50 border-slate-200 px-2 py-0.5 text-xs text-slate-500">{bias.category}</span>
+            )}
+            {bias.severity && (
+              <span className={`rounded-full border px-2 py-0.5 text-xs font-medium ${severityColor(bias.severity)}`}>
+                {bias.severity.split(' —')[0]}
+              </span>
+            )}
+          </div>
+          <p className="mt-0.5 text-xs leading-relaxed text-slate-500 line-clamp-2">{bias.description}</p>
+        </div>
+        <svg className="ml-auto mt-1 flex-shrink-0 h-4 w-4 text-slate-400 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+        </svg>
+      </summary>
+      <div className="space-y-4 border-t border-slate-100 px-4 py-4">
+        <p className="text-sm leading-relaxed text-slate-700">{bias.description}</p>
+
+        {bias.example && (
+          <div className="rounded-md border-l-2 border-slate-300 bg-slate-50 px-4 py-2.5">
+            <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-slate-400">Example</p>
+            <p className="text-xs leading-relaxed text-slate-700 italic">{bias.example}</p>
+          </div>
+        )}
+
+        {bias.mechanism && (
+          <div className="rounded-md border-l-2 border-blue-200 bg-blue-50 px-4 py-2.5">
+            <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-blue-400">Mechanism</p>
+            <p className="text-xs leading-relaxed text-blue-800">{bias.mechanism}</p>
+          </div>
+        )}
+
+        {bias.counter_strategies && bias.counter_strategies.length > 0 && (
+          <div>
+            <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-green-600">How to Counteract</p>
+            <ul className="space-y-2">
+              {bias.counter_strategies.map((s, i) => (
+                <li key={i} className="flex items-start gap-2.5">
+                  <span className="mt-1 flex-shrink-0 h-4 w-4 rounded-full bg-green-100 text-green-700 flex items-center justify-center text-xs font-bold">{i + 1}</span>
+                  <span className="text-sm leading-relaxed text-slate-700">{s}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {(bias.paul_elder_element || bias.dewey_phase) && (
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+            {bias.paul_elder_element && (
+              <div className="rounded-md border border-indigo-100 bg-indigo-50 p-3">
+                <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-indigo-500">Paul-Elder Element</p>
+                <p className="text-xs leading-relaxed text-indigo-800">{bias.paul_elder_element}</p>
+              </div>
+            )}
+            {bias.dewey_phase && (
+              <div className="rounded-md border border-cyan-100 bg-cyan-50 p-3">
+                <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-cyan-500">Dewey Phase</p>
+                <p className="text-xs leading-relaxed text-cyan-800">{bias.dewey_phase}</p>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+    </details>
+  );
+}
+
 /** Generic list section for habits, abilities, dispositions, etc. */
 function GenericListSection({
   title,
@@ -764,6 +889,150 @@ export default function FrameworkPage({ params }: { params: { id: string } }) {
           />
         );
       })}
+
+      {/* Dual Process Context */}
+      {fw.dual_process_context && (
+        <section className="space-y-3">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">Dual-Process Foundation</h2>
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+            {Object.entries(fw.dual_process_context).map(([key, val]) => (
+              <div key={key} className="rounded-lg border border-slate-200 bg-white p-4">
+                <p className="mb-1.5 text-xs font-semibold uppercase tracking-wider text-slate-400">{slug2title(key)}</p>
+                <p className="text-sm leading-relaxed text-slate-700">{val}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Cognitive Reflection Test */}
+      {fw.cognitive_reflection_test && (
+        <section className="space-y-3">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">Cognitive Reflection Test</h2>
+          <div className="rounded-xl border border-amber-200 bg-amber-50 p-6 space-y-4">
+            {fw.cognitive_reflection_test.description && (
+              <p className="text-sm leading-relaxed text-amber-900">{fw.cognitive_reflection_test.description}</p>
+            )}
+            {fw.cognitive_reflection_test.example && (() => {
+              const ex = fw.cognitive_reflection_test!.example!;
+              return (
+                <div className="rounded-lg border border-amber-200 bg-white p-4 space-y-3">
+                  {ex.question && (
+                    <p className="text-sm font-semibold text-slate-900 italic">&ldquo;{ex.question}&rdquo;</p>
+                  )}
+                  <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+                    {ex.system_1_answer && (
+                      <div className="rounded-md border border-red-200 bg-red-50 px-3 py-2">
+                        <p className="mb-0.5 text-xs font-semibold uppercase tracking-wider text-red-400">System 1 Answer</p>
+                        <p className="text-xs text-red-800">{ex.system_1_answer}</p>
+                      </div>
+                    )}
+                    {ex.correct_answer && (
+                      <div className="rounded-md border border-green-200 bg-green-50 px-3 py-2">
+                        <p className="mb-0.5 text-xs font-semibold uppercase tracking-wider text-green-500">Correct Answer</p>
+                        <p className="text-xs text-green-800">{ex.correct_answer}</p>
+                      </div>
+                    )}
+                  </div>
+                  {ex.reasoning && (
+                    <p className="text-xs leading-relaxed text-slate-600">{ex.reasoning}</p>
+                  )}
+                  {ex.lesson && (
+                    <div className="rounded-md border-l-2 border-amber-300 bg-amber-50 px-3 py-2">
+                      <p className="text-xs leading-relaxed text-amber-800">{ex.lesson}</p>
+                    </div>
+                  )}
+                </div>
+              );
+            })()}
+          </div>
+        </section>
+      )}
+
+      {/* Cognitive Biases */}
+      {fw.biases && fw.biases.length > 0 && (
+        <section className="space-y-3">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">
+            Cognitive Biases ({fw.biases.length})
+          </h2>
+          <p className="text-xs text-slate-400">
+            Click any bias to expand the description, example, mechanism, and counter-strategies.
+          </p>
+          <div className="space-y-2">
+            {fw.biases.map((bias, i) => (
+              <BiasBlock key={bias.id} bias={bias} index={i} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Heuristics */}
+      {fw.heuristics && fw.heuristics.length > 0 && (
+        <section className="space-y-3">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">
+            Heuristics ({fw.heuristics.length})
+          </h2>
+          <div className="space-y-2">
+            {fw.heuristics.map((h) => (
+              <details key={h.id} className="group rounded-lg border border-slate-200 bg-white">
+                <summary className="flex cursor-pointer items-start gap-3 p-4 marker:hidden list-none hover:bg-slate-50">
+                  <div className="min-w-0 flex-1">
+                    <p className="font-semibold text-slate-900">{h.name}</p>
+                    <p className="mt-0.5 text-xs leading-relaxed text-slate-500 line-clamp-1">{h.description}</p>
+                  </div>
+                  <svg className="ml-auto mt-1 flex-shrink-0 h-4 w-4 text-slate-400 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                  </svg>
+                </summary>
+                <div className="space-y-3 border-t border-slate-100 px-4 py-4">
+                  <p className="text-sm leading-relaxed text-slate-700">{h.description}</p>
+                  {(h.when_useful || h.when_problematic) && (
+                    <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                      {h.when_useful && (
+                        <div className="rounded-md border border-green-200 bg-green-50 p-3">
+                          <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-green-600">When Useful</p>
+                          <p className="text-xs leading-relaxed text-green-800">{h.when_useful}</p>
+                        </div>
+                      )}
+                      {h.when_problematic && (
+                        <div className="rounded-md border border-red-200 bg-red-50 p-3">
+                          <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-red-500">When Problematic</p>
+                          <p className="text-xs leading-relaxed text-red-800">{h.when_problematic}</p>
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Bias Intervention Strategies */}
+      {fw.bias_intervention_strategies && (
+        <section className="space-y-3">
+          <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">General Intervention Strategies</h2>
+          <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm space-y-4">
+            {fw.bias_intervention_strategies.paul_elder_connection && (
+              <div className="rounded-md border-l-2 border-indigo-200 bg-indigo-50 px-4 py-2.5">
+                <p className="mb-1 text-xs font-semibold uppercase tracking-wider text-indigo-500">Paul-Elder Connection</p>
+                <p className="text-xs leading-relaxed text-indigo-900">{fw.bias_intervention_strategies.paul_elder_connection}</p>
+              </div>
+            )}
+            {fw.bias_intervention_strategies.general_principles && fw.bias_intervention_strategies.general_principles.length > 0 && (
+              <ul className="space-y-2">
+                {fw.bias_intervention_strategies.general_principles.map((p, i) => (
+                  <li key={i} className="flex items-start gap-2.5">
+                    <span className="mt-1 flex-shrink-0 h-4 w-4 rounded-full bg-slate-100 text-slate-500 flex items-center justify-center text-xs font-bold">{i + 1}</span>
+                    <span className="text-sm leading-relaxed text-slate-700">{p}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        </section>
+      )}
 
       {/* Common Misconceptions */}
       {fw.common_misconceptions && fw.common_misconceptions.length > 0 && (

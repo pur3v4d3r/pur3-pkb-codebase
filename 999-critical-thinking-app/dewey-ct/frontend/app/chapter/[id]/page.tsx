@@ -80,7 +80,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
       <div className="min-w-0 max-w-3xl flex-1 space-y-8">
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-sm text-slate-500">
-        <Link href="/" className="hover:text-slate-800">Chapters</Link>
+        <Link href="/chapters" className="hover:text-slate-800">Chapters</Link>
         <span>/</span>
         <span className="text-slate-800">Chapter {chapter.chapter}</span>
       </nav>
@@ -245,7 +245,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
             ← Chapter {prevId}
           </Link>
         ) : <span />}
-        <Link href="/" className="text-sm text-slate-400 hover:text-slate-700">
+        <Link href="/chapters" className="text-sm text-slate-400 hover:text-slate-700">
           All chapters
         </Link>
         {nextId ? (

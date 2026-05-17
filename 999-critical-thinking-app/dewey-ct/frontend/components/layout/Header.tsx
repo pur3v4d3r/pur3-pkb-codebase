@@ -12,7 +12,7 @@ interface NavLink {
 
 const NAV_LINKS: NavLink[] = [
   { href: '/dashboard', label: 'Dashboard' },
-  { href: '/', label: 'Chapters' },
+  { href: '/chapters', label: 'Chapters' },
   { href: '/frameworks', label: 'Frameworks' },
   { href: '/mental-models', label: 'Mental Models' },
   { href: '/cheat-sheets', label: 'Cheat Sheets' },
@@ -21,13 +21,13 @@ const NAV_LINKS: NavLink[] = [
   { href: '/detect', label: 'Detect' },
   { href: '/ask', label: 'Ask' },
   { href: '/review', label: 'Review' },
-  { href: '/assess', label: 'Assess' },
+  { href: '/assess', label: 'Evaluate' },
+  { href: '/motivation', label: 'Motivation' },
   { href: '/portfolio', label: 'Portfolio' },
   { href: '/settings', label: 'Settings' },
 ];
 
 function isActive(href: string, pathname: string): boolean {
-  if (href === '/') return pathname === '/';
   return pathname === href || pathname.startsWith(href + '/');
 }
 
@@ -36,10 +36,9 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/80 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-900/80">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
-        <Link href="/" className="flex items-center gap-2">
+      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2">
+        <Link href="/">
           <span className="rounded bg-slate-900 px-2 py-1 text-sm font-bold text-white dark:bg-slate-100 dark:text-slate-900">CT</span>
-          <span className="text-base font-semibold text-slate-800 dark:text-slate-100">DeweyCT</span>
         </Link>
 
         <nav className="flex items-center gap-1">

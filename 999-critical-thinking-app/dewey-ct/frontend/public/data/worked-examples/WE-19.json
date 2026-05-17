@@ -1,0 +1,55 @@
+{
+  "id": "WE-19",
+  "we_number": "WE-19",
+  "title": "\"You need exactly 8 hours of sleep or you will ruin your health\"",
+  "subtitle": "A FRISCO Quick Analysis of a common health prescription",
+  "framework": "frisco",
+  "framework_label": "FRISCO (Ennis)",
+  "object_type": "argument",
+  "question_type": "factual / prescriptive",
+  "stakes": "low",
+  "difficulty": "beginner",
+  "duration_minutes": 9,
+  "pre_confidence": null,
+  "post_confidence": null,
+  "rigor_score": 3.7,
+  "tags": ["frisco", "argument", "health", "sleep", "false-precision", "false-dichotomy"],
+  "summary": "A short but instructive FRISCO analysis of the pervasive '8 hours of sleep' prescription. The analysis identifies three critical issues: (1) false precision — the claim treats 8 hours as a bright-line requirement when the scientific literature describes a population distribution (7–9 hours for most adults, with meaningful individual variation); (2) a false dichotomy — the or-else framing eliminates the gradient where most people actually live; (3) an unsupported universal negative — 'no healthy person thrives on less' is the strongest claim type in logic, asserted without evidence, and falsified by a documented genetic variant affecting 1–3% of the population. The revised claim is substantively different from the original.",
+  "how_to_use": "Use this worked example as your first FRISCO practice before tackling longer analyses like WE-02. The argument is simple and the domain is familiar, which lets you focus on understanding what each FRISCO step does rather than processing unfamiliar content. Pay special attention to: (1) how the Focus step separates the descriptive claim ('sleep deprivation harms you') from the prescriptive claim ('everyone must sleep exactly 8 hours'), and (2) how the Clarity step reveals that 'ruin your health' is doing rhetorical work without conceptual precision.",
+  "learning_objectives": [
+    "See how the Focus step separates a bundled claim into its descriptive and prescriptive components — both are present here but need different standards of assessment",
+    "Understand false precision: a population-average figure being applied as an exact individual prescription is a category error, even when the underlying research is real",
+    "See how the Clarity step identifies terms that sound precise ('ruin your health') but carry no specific meaning until defined",
+    "Observe how the revised Overview claim is more defensible precisely because it is more qualified — precision and nuance strengthen claims, not weaken them"
+  ],
+  "related_template_id": "frisco-quick-analysis-v1",
+  "related_practice_problems": ["PP-03", "PP-04"],
+  "argument_text": "\"Most adults need exactly 8 hours of sleep. This is not an option — it is a biological requirement. Studies consistently show that sleeping less than 8 hours impairs cognitive function, increases the risk of heart disease, obesity, and diabetes, and shortens life expectancy. If you are regularly sleeping 6 or 7 hours, you are running a sleep deficit that is accumulating damage to your brain and body. The research is clear: 8 hours is the minimum. There is no such thing as a healthy person who thrives on less.\"",
+  "argument_source": "Fictional composite — representative of popular health articles, wellness influencer content, and oversimplified sleep science journalism from 2015 to the present.",
+  "sections": [
+    {
+      "section_label": "F · Focus",
+      "content": "Main conclusion: Adults must sleep exactly 8 hours per night or suffer significant health consequences.\n\nSub-claims:\n1. Eight hours is a biological requirement, not a recommendation (descriptive)\n2. Sleeping fewer than 8 hours impairs cognition and increases disease risk (descriptive-causal)\n3. Sleep deficits accumulate damage to the brain and body (descriptive-causal)\n4. No healthy person can thrive on less than 8 hours (descriptive — a universal negative)\n5. You should sleep 8 hours (prescriptive)\n\nKey distinction: The argument mixes descriptive claims (what sleep deprivation does to health) with a universally prescriptive requirement ('exactly 8 hours'). The scientific literature supports some version of the descriptive claims but does not support the precision of the prescription. These need to be assessed separately."
+    },
+    {
+      "section_label": "R · Reasons",
+      "content": "1. 'Studies consistently show' that sleeping under 8 hours impairs cognition and increases disease risk\n2. Sleep deficits accumulate and cause ongoing damage to the brain and body\n3. 'The research is clear: 8 hours is the minimum'\n4. 'There is no such thing as a healthy person who thrives on less'\n\nNote: Reasons 1 and 2 have genuine empirical backing — sleep deprivation research is robust. However, Reason 3 misrepresents what the research actually says (it describes a range, not a single figure). Reason 4 is a universal negative claim — the strongest claim type in logic — asserted without evidence and directly falsified by documented genetic cases."
+    },
+    {
+      "section_label": "I · Inference",
+      "content": "Inference type: The argument is primarily causal-deductive — from general population research to a specific individual prescription.\n\nFallacy 1 — FALSE PRECISION: The claim specifies 'exactly 8 hours' as a biological requirement. The underlying research describes a distribution, not a point value. The 2015 American Academy of Sleep Medicine consensus recommends 7–9 hours for adults — a two-hour range — not 8 hours exactly. Major sleep researchers, including Matthew Walker (whose work popularised the '8 hour' figure), explicitly acknowledge meaningful individual variation. Treating a population-level average as an individual precision requirement is a category error.\n\nFallacy 2 — FALSE DICHOTOMY: The or-else framing ('you need 8 hours or you will ruin your health') eliminates the middle ground where most evidence places most people. The consequence is presented as binary — either 8 hours or health ruin — when the research shows a graded dose-response curve. The relationship between sleep duration and health outcomes is continuous, not a cliff edge at exactly 8 hours.\n\nFallacy 3 — UNSUPPORTED UNIVERSAL NEGATIVE: 'There is no such thing as a healthy person who thrives on less' is a universal negative claim. Establishing it would require evidence covering every healthy adult on earth. It is directly falsified by documented cases of individuals with the ADRB1 gene variant (approximately 1–3% of the population) who function optimally on 6 or fewer hours with no documented health consequences. One counter-example defeats a universal negative.\n\nWHAT THE EVIDENCE DOES SUPPORT: Chronic sleep restriction below 6 hours is genuinely associated with impaired cognitive performance, metabolic risk, and cardiovascular risk in population studies. The qualitative point — that most people underestimate how much sleep affects their functioning — is well-supported. The 'exactly 8 hours' universal prescription is not.\n\nVERDICT: The descriptive core is defensible. The precision of the prescription is not. The or-else framing is a false dichotomy. The universal negative is unsupported and falsified."
+    },
+    {
+      "section_label": "S · Situation",
+      "content": "This argument circulates primarily in wellness content, popular health journalism, and self-help literature. Matthew Walker's 2017 book 'Why We Sleep' is the proximate source of the popularised '8 hour' figure — the book was subsequently criticised by sleep researchers for overstating the strength of findings. A 2019 investigation documented specific factual errors in Walker's claims.\n\nInstitutional interests: The wellness industry has significant commercial interest in simple, alarming health rules. A nuanced 'most people benefit from something in the 7–9 hour range, with meaningful individual variation and context-dependence' message is both more accurate and substantially less marketable than '8 hours or you are damaging your health.' Sleep supplement manufacturers, tracking device makers, and sleep coaching services all benefit from a rule that makes people feel permanently under-slept.\n\nThis is not ad hominem — the underlying claim might still be partially correct. But the commercial context is a legitimate reason to hold the evidence to a higher standard, particularly when the precision ('exactly 8 hours') serves the commercial message better than the actual research does."
+    },
+    {
+      "section_label": "C · Clarity",
+      "content": "Term 1 — 'Exactly 8 hours': The 'exactly' is doing critical rhetorical work. Population average data does not produce exact individual prescriptions. Even if the average optimal sleep duration is approximately 8 hours, the standard deviation in the underlying distribution means that significant portions of the healthy population have different optimal values. 'Exactly' converts a population statistic into an individual requirement, which is a category error.\n\nTerm 2 — 'Ruin your health': This is maximally vague. It could mean 'slightly increase risk on one metric' or 'cause catastrophic multi-system failure over decades.' The argument uses this phrase rhetorically to generate alarm without specifying the nature, magnitude, probability, or time horizon of the claimed harm. A precise version would say: which health outcomes, by how much, over what time period, and at what confidence level.\n\nTerm 3 — 'Running a sleep deficit': Sleep debt is a genuine concept in sleep science, but the claim that it 'accumulates damage' indefinitely is contested. Research on sleep debt recovery suggests that moderate short-term deficits can be substantially recovered. The 'permanent damage' framing is not the consensus position in the current evidence base."
+    },
+    {
+      "section_label": "O · Overview",
+      "content": "VERDICT: The argument's descriptive core is well-grounded — chronic severe sleep restriction is associated with real health risks. The specific prescription ('exactly 8 hours or you will ruin your health') is not supported by the evidence and contains three identifiable logical problems: false precision, a false dichotomy, and an unsupported universal negative claim.\n\nREVISED CLAIM (more defensible): Most adults benefit from sleeping 7–9 hours per night. Chronic restriction below 6 hours is associated with measurable cognitive and metabolic risks in population studies. Optimal sleep duration varies meaningfully across individuals and cannot be prescribed by a single number. A more reliable practical guide than a fixed hour target: if you are consistently functioning poorly, relying on stimulants to stay alert, or unable to maintain attention on tasks you care about, you are likely undersleeping — regardless of the exact hour count."
+    }
+  ]
+}

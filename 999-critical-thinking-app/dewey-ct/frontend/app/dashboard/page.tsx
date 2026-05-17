@@ -239,7 +239,7 @@ function ChaptersCard({
   const progressPct = Math.round((chaptersRead / total) * 100);
 
   return (
-    <StatCard label="Chapters Read" href="/" hrefLabel="Continue reading →" accent="border-violet-400">
+    <StatCard label="Chapters Read" href="/chapters" hrefLabel="Continue reading →" accent="border-violet-400">
       {loading ? (
         <Skeleton className="h-8 w-20 mb-2" />
       ) : (

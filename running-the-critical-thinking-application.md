@@ -200,8 +200,8 @@ Given the app is now past the foundation layer (auth, error handling, search, SR
 
 ---
 
-Im working on building an app for Critical thinking, its a full stack app with a FastAPI backend and Next.js frontend. The app is designed to help users learn and practice critical thinking skills through a structured curriculum, interactive exercises, and an AI tutor.
-Review the files and then start the task.
+
+
 
 ## KEY LOCATIONS
 
@@ -211,23 +211,11 @@ D:\10_pur3v4d3r's-vault\999-critical-thinking-app
 
 
 
-
-- For assesment have options far the different frame works/menal models and have the option to select which one you want to be assessed on. Also have the option to be assessed on all of them at once.
-
-- move portfolio to just befor setting on the main navigation bar
-
-- have the main page when you first load the page be the dashboard
-
-- In Practrice Page add in additional Advanced Worked examples and begginer examples intermediate dominates atm.-> Mainly adcvanced begginer just needs a couple
-
-
-
-
-- Add in  navigation bar like in everywhere so its a standard across the app -> "Cancel" button that brings you back to the main page of that section (e.g. practice, portfolio, assess, etc.) 
+- Cognitive bias page need a complete list with discription and how to counteract of Cognitive bias page
 
 - Add to collection of templates in template page
 
 - Add in another work example for every framework in practice page
 
 
-- Cognitive bias page need a complete list with discription and how to counteract of Cognitive bias page
+All across the application the hover mechanic needs to be the same just like the on on the chapters page where the heading turn blue when hover over tile like in the screen shot

@@ -147,9 +147,9 @@ const CAT_COLORS: Record<string, { badge: string; accent: string; border: string
 };
 
 const RANK_STYLES = [
-  'bg-amber-100 text-amber-700',  // 1st — gold
-  'bg-slate-200 text-slate-600',  // 2nd — silver
-  'bg-orange-100 text-orange-700', // 3rd — bronze
+  'bg-amber-100 text-amber-700 dark:bg-amber-900/60 dark:text-amber-200',   // 1st — gold
+  'bg-slate-200 text-slate-600 dark:bg-slate-600 dark:text-slate-200',      // 2nd — silver
+  'bg-orange-100 text-orange-700 dark:bg-orange-900/60 dark:text-orange-200', // 3rd — bronze
 ];
 
 // ---------- Result card ----------
@@ -254,7 +254,7 @@ export default function ModelSelector({ models }: Props) {
   const showResults = submitted && scoreQuery.trim().length > 0;
 
   return (
-    <section className="rounded-2xl border border-indigo-100 bg-gradient-to-br from-indigo-50/60 to-white p-6">
+    <section className="rounded-2xl border border-indigo-100 bg-gradient-to-br from-indigo-50/60 to-white p-6 dark:border-slate-700 dark:from-slate-800 dark:to-slate-900">
       {/* Heading */}
       <div className="mb-4">
         <div className="flex items-center gap-2 mb-1">
@@ -305,7 +305,7 @@ export default function ModelSelector({ models }: Props) {
           <button
             type="button"
             onClick={handleReset}
-            className="px-4 py-2.5 rounded-lg bg-slate-100 text-slate-600 text-sm hover:bg-slate-200 transition-colors"
+            className="px-4 py-2.5 rounded-lg bg-slate-100 text-slate-600 text-sm hover:bg-slate-200 transition-colors dark:bg-slate-700 dark:hover:bg-slate-600"
           >
             Clear
           </button>

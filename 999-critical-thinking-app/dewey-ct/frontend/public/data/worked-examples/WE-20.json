@@ -1,0 +1,69 @@
+{
+  "id": "WE-20",
+  "we_number": "WE-20",
+  "title": "Opportunity Cost",
+  "subtitle": "A SEE-I elaboration of a foundational concept in decision-making and economics",
+  "framework": "see-i",
+  "framework_label": "SEE-I (Paul-Elder)",
+  "object_type": "concept",
+  "question_type": "conceptual",
+  "stakes": "low",
+  "difficulty": "beginner",
+  "duration_minutes": 13,
+  "mastery_rating": 4,
+  "mastery_checklist": {
+    "can_teach": true,
+    "can_distinguish": true,
+    "can_transfer": true,
+    "knows_element": true
+  },
+  "tags": ["see-i", "concept", "economics", "decision-making", "reasoning", "paul-elder"],
+  "summary": "A complete SEE-I elaboration of opportunity cost — one of the most practically useful concepts in decision theory. The four-step analysis demonstrates how the concept applies far beyond economics: to time allocation, attention, career decisions, and any choice where selecting one option forecloses another. The mastery check reveals that the hardest move is distinguishing opportunity cost from sunk cost — a common confusion with serious practical consequences. The counter-example (sunk cost) is the most instructive section because it highlights the boundary condition of the concept.",
+  "how_to_use": "Read through the State and Elaborate steps first, then try writing your own State and Elaborate for opportunity cost before comparing. The transfer example (land use) is deliberately chosen from a different domain than everyday decision-making — notice how the same conceptual structure applies. The Illustrate step's structural analogy (the silent bid) should help you teach this concept to someone else quickly. This is most valuable when read alongside WE-03 (Confirmation Bias) — both are beginner SEE-I examples showing the pattern at work.",
+  "learning_objectives": [
+    "See what a tight State statement looks like: one sentence that names the concept precisely without jargon displacement, covering the core mechanism",
+    "Understand the Elaborate step's exclusion clause: specifying what the concept is NOT (sunk cost) is not padding — it is the precision move that prevents the most common misapplication",
+    "See how transfer to a non-obvious domain (land use) differs from finding another familiar-domain example — transfer requires identifying the same logical structure in a genuinely different explanatory context",
+    "Observe how a structural analogy in the Illustrate step differs from a simple metaphor: the 'because' clause that names why the analogy holds structurally is what makes it analytically useful"
+  ],
+  "related_template_id": "see-i-elaboration-v1",
+  "related_practice_problems": ["PP-05", "PP-06"],
+  "sections": [
+    {
+      "section_label": "Concept",
+      "content": "Opportunity Cost"
+    },
+    {
+      "section_label": "S · State",
+      "content": "Opportunity cost is the value of the best alternative forgone whenever a choice is made — the specific thing you give up by choosing one option over another, measured not in money but in the value of the next-best option you did not take."
+    },
+    {
+      "section_label": "E · Elaborate",
+      "content": "Opportunity cost operates any time a choice is made between mutually exclusive alternatives — which is almost always, because resources (money, time, attention, capacity) are finite.\n\nTHREE KEY FEATURES:\n\n1. IT IS ALWAYS THE NEXT-BEST ALTERNATIVE, NOT ALL ALTERNATIVES: If you have four options — A, B, C, D — and you choose A, the opportunity cost is the value of B (the best of the remaining options), not the sum of B + C + D. You cannot simultaneously take all rejected options, so they do not all count as costs. Only the one you would have taken counts.\n\n2. IT IS FORWARD-LOOKING, NOT BACKWARD-LOOKING: Opportunity cost concerns what you are giving up now, at the moment of decision. It does not refer to what you already spent — that is sunk cost, which is a different concept and a different error mode. If you bought a cinema ticket last week and now feel unwell, the opportunity cost of going anyway is the value of resting at home. The money you already spent is irrelevant to the current decision — it is gone either way.\n\n3. IT INCLUDES NON-MONETARY VALUE: Economists conventionally express opportunity cost in monetary terms, but the concept applies to time, attention, relationship capital, creative energy, and any finite resource. If you spend Friday evening watching TV, the opportunity cost is whatever you value most among the alternatives you did not take — perhaps reading, exercising, or sleeping.\n\nWHAT IT IS NOT — Opportunity cost is not sunk cost. Sunk cost is what has already been spent and cannot be recovered. Treating sunk cost as a reason to continue a course of action is a fallacy (the sunk cost fallacy). Treating opportunity cost as a reason to continue a course of action is not a fallacy — it is a legitimate consideration, as long as you are valuing the correct thing (the next-best alternative forgone, not the money already spent).\n\nWHY IT MATTERS FOR CRITICAL THINKING: Opportunity cost makes explicit the implicit costs of every decision. Most people evaluate options by asking 'is this worth doing?' without asking 'worth doing compared to what?' Making the opportunity cost explicit is the analytical move that converts 'yes/no' reasoning into comparative reasoning — which is almost always more accurate."
+    },
+    {
+      "section_label": "E · Exemplify — Example 1 (Familiar Domain — Everyday Time Decision)",
+      "content": "A person decides to spend Saturday afternoon scrolling social media for three hours. The stated cost is zero dollars. But the opportunity cost analysis asks: what was the best alternative use of those three hours that the person did not take?\n\nIf the person would otherwise have finished a report they have been postponing (and that report's completion is worth a significant amount in reduced stress, career progress, or monetary value), then the opportunity cost of scrolling is that value — not zero.\n\nThe insight that follows: many 'free' activities have high opportunity costs, and many activities that cost money have low opportunity costs because the alternatives are not valuable. A £20 cinema ticket on a night you would otherwise spend anxiously at home may have a lower opportunity cost than a 'free' hour of mindless scrolling on a night you could have advanced a project that matters to you.\n\nThe concept changes how decisions look. The question is never 'is this worth anything?' — it is 'is this worth more than the next-best alternative?'"
+    },
+    {
+      "section_label": "E · Exemplify — Example 2 (Transfer Domain — Urban Land Use)",
+      "content": "A city council owns a central urban site and is deciding whether to build a public park or a mixed-use residential and commercial development. The council builds the park. The opportunity cost is the value of the development not built — the housing units not created, the commercial activity not generated, the tax revenue not collected, the construction employment not created.\n\nNote what the opportunity cost is NOT: it is not the cost of building the park (that is the direct cost). It is not the value of all alternatives (a library, a school, an emergency facility — these are not the next-best alternative). It is specifically the value of the best alternative the council would have chosen instead.\n\nThis matters: the park might be worth building even though it has a high opportunity cost — if the benefits of the park (environmental, wellbeing, community) exceed the opportunity cost of the foregone development. Opportunity cost analysis does not tell you what to choose; it tells you what you are actually comparing when you choose.\n\nThe transfer reveals the same logical structure in an institutional, long-horizon context: finite resource (land), mutually exclusive options (park or development), and opportunity cost = the value of the best option not taken."
+    },
+    {
+      "section_label": "E · Exemplify — Counter-Example (Sunk Cost)",
+      "content": "A startup has invested £200,000 in a software product over two years. A market analysis now shows there is no viable market for the product. The CEO argues: 'We can't stop now — we've already invested £200,000. We need to keep going to get a return on that investment.'\n\nWhy this is NOT opportunity cost thinking — this is sunk cost thinking:\n\nThe £200,000 is gone. It is a sunk cost — it cannot be recovered regardless of what the company does next. The relevant question is not 'how do we recoup the £200,000?' but 'what is the best use of the next six months of engineering time and the remaining £50,000 in budget?' Continuing the non-viable product has an opportunity cost: the company cannot simultaneously redirect those resources to a viable alternative. Sunk cost thinking leads the company to compound a bad investment; opportunity cost thinking would lead it to ask what the resources are most valuable for going forward.\n\nThe boundary: sunk cost = what was already spent (irrelevant to the current decision). Opportunity cost = what is forgone by the current decision (relevant and often decisive). Confusing them — treating past spending as a reason to continue a current path — is one of the most common and costly reasoning errors in business and personal decision-making."
+    },
+    {
+      "section_label": "I · Illustrate",
+      "content": "Opportunity cost is like a silent bid you submit at an auction for everything you do NOT buy — because at the moment you commit your budget to one item, you simultaneously submit a silent 'no bid' to every other item in the auction, and the most expensive of those silent no-bids is your opportunity cost.\n\nThe analogy captures three structural features:\n\n1. SIMULTANEITY: The moment you bid on one item, you are forgoing all others — you cannot defer the choice. This mirrors how every resource allocation simultaneously creates an opportunity cost: when the time is spent, the capacity is used, the money is committed.\n\n2. THE BEST FORGONE, NOT ALL FORGONE: You would have bid on only one other item if not constrained. The opportunity cost is not the sum of all items you did not buy — it is the value of the one you would have bid on next. This matches how opportunity cost works: only the next-best alternative counts.\n\n3. INVISIBILITY: The silent bid is implicit — you do not see it happen. This is why opportunity cost is so easy to ignore: it does not appear on any receipt or invoice. It is the cost that requires deliberate analysis to make visible.\n\nWhere the analogy fails: An auction has fixed, discrete items with known prices. Real opportunity cost involves continuous, overlapping alternatives with uncertain values — you rarely know with precision what you are giving up. In practice, opportunity cost analysis involves estimating the value of the forgone alternative, not reading it off a price list. The analogy captures the structure but understates the uncertainty inherent in real-world applications."
+    },
+    {
+      "section_label": "Mastery Self-Check",
+      "content": "✅ Can teach this concept to a non-economist — the three-feature Elaborate structure makes it teachable without jargon\n✅ Can distinguish from sunk cost — this was the hardest move; the counter-example required finding a case where the confusion has real consequences, not just a textbook illustration\n✅ Can transfer to a non-obvious domain — the land use example required identifying the same logical structure (finite resource, mutually exclusive options, next-best-alternative cost) in an institutional context\n✅ Knows which Paul-Elder Element — primarily the Implications element (what follows from a decision) and the Assumptions element (what we are taking for granted about what we are giving up)\n\nSelf-Rating: 4/5\nRationale: Strong on State, Elaborate, and Illustrate. The transfer domain (urban planning) was accessible because land is a familiar resource. Reaching 5/5 would require being able to rapidly identify the opportunity cost in cases where the next-best alternative is unclear or where the costs are non-monetary and hard to estimate — which is most real decision-making."
+    },
+    {
+      "section_label": "Commonly Confused Concepts",
+      "content": "1. Opportunity cost vs. Sunk cost: Sunk cost is backward-looking (what was already spent); opportunity cost is forward-looking (what is forgone by the current decision). Sunk cost is irrelevant to rational decision-making; opportunity cost is central to it. The sunk cost fallacy is treating sunk costs as if they were opportunity costs — using past spending as a reason to continue a course of action.\n\n2. Opportunity cost vs. Direct cost: Direct cost is the price you pay for what you choose (the cinema ticket). Opportunity cost is the value of what you do not choose (the book you would have read instead). The total economic cost of a decision is the direct cost plus the opportunity cost. A common reasoning error is evaluating only direct costs and ignoring opportunity costs — which systematically undervalues the cost of 'free' activities and overvalues activities that cost money but have low opportunity costs."
+    }
+  ]
+}

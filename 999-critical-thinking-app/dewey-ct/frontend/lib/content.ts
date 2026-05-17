@@ -104,6 +104,8 @@ const TEMPLATE_FILES = [
   'see-i-elaboration-v1',
   'metacognitive-reflection-v1',
   'deliberate-practice-full-v1',
+  'argument-analysis-v1',
+  'dewey-reflective-v1',
 ] as const;
 
 export type TemplateId = (typeof TEMPLATE_FILES)[number];
@@ -118,7 +120,7 @@ export function getAllTemplates(): Template[] {
 
 // ---- Worked Example loaders ----
 
-const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12', 'WE-13', 'WE-14', 'WE-15', 'WE-16', 'WE-17', 'WE-18'] as const;
+const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12', 'WE-13', 'WE-14', 'WE-15', 'WE-16', 'WE-17', 'WE-18', 'WE-19', 'WE-20', 'WE-21', 'WE-22', 'WE-23'] as const;
 
 export type WorkedExampleId = (typeof WORKED_EXAMPLE_FILES)[number];
 

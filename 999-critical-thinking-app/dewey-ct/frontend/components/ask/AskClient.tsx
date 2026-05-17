@@ -230,7 +230,7 @@ export default function AskClient({ chapters, initialChapterId }: AskClientProps
         <button
           type="submit"
           disabled={loading || !question.trim()}
-          className="w-full rounded-lg bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-slate-700 disabled:cursor-not-allowed disabled:opacity-50"
+          className="w-full rounded-lg border border-slate-900 bg-slate-900 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-white hover:text-slate-900 disabled:cursor-not-allowed disabled:opacity-50"
         >
           {loading ? (
             <span className="flex items-center justify-center gap-2">

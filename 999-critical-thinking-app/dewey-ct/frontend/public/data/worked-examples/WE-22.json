@@ -1,0 +1,137 @@
+{
+  "id": "WE-22",
+  "we_number": "WE-22",
+  "title": "Growth mindset interventions reliably improve academic outcomes",
+  "subtitle": "A Paul-Elder analysis of an educational psychology claim and its popular over-extension",
+  "framework": "paul-elder",
+  "framework_label": "Paul-Elder Framework",
+  "object_type": "argument",
+  "question_type": "evaluative / empirical",
+  "stakes": "high",
+  "difficulty": "advanced",
+  "duration_minutes": 55,
+  "pre_confidence": 4,
+  "post_confidence": 2,
+  "rigor_score": 4.6,
+  "standards_audit": {
+    "clarity": 5,
+    "accuracy": 5,
+    "precision": 4,
+    "relevance": 5,
+    "depth": 5,
+    "breadth": 4,
+    "logic": 5,
+    "significance": 5,
+    "fairness": 4
+  },
+  "tags": ["paul-elder", "argument", "education", "psychology", "research-evaluation", "growth-mindset", "replication"],
+  "summary": "The analyst begins with pre-confidence 4/5 — strongly believing that growth mindset interventions are effective educational tools. The analysis reveals a gap between Carol Dweck's original, carefully qualified research (which describes a real effect under specific conditions) and the popular claim that growth mindset interventions reliably improve academic outcomes for most students. The Concepts element is the pivot: disaggregating 'growth mindset' (the psychological construct) from 'growth mindset intervention' (the classroom programme) and from 'academic outcomes' (a term covering multiple distinct measures) reveals that the popular claim is built on a conflation of these. The replication record — particularly the large-scale 2018 meta-analysis and the 2019 National Study of Learning Mindsets — shows a real but conditional, small effect for specific subpopulations under specific conditions. Post-confidence drops to 2/5.",
+  "how_to_use": "This example is most valuable for understanding how to evaluate an empirical claim in a field you are not an expert in. Notice especially: (1) how the Information element structures evidence into supporting, disconfirming, and information gaps rather than mixing them; (2) how the Concepts element does not challenge whether growth mindset is real but challenges what the research actually shows about interventions targeting it; (3) how the Steelman position defends the classroom utility of the framework while conceding the replication critique — a sophisticated steelman does not require defending the strongest version of the claim.",
+  "learning_objectives": [
+    "See how to evaluate an empirical claim by separating the underlying research from its popular interpretation — and understanding that a real effect in controlled research conditions does not establish reliable effectiveness at scale",
+    "Understand how the Concepts element can reveal a conflation between a psychological construct (growth mindset) and an intervention targeting that construct — a distinction with major implications for evaluating the evidence",
+    "Observe how to handle a replication controversy: not 'the research is fake' vs. 'the research is solid' but 'what does the specific evidence show, under what conditions, for which populations, and how strong is the effect?'",
+    "See how a steelman can be strong and concede the main empirical critique while still defending a genuine position — the framework may be useful for teachers even if the large-scale intervention evidence is weak"
+  ],
+  "related_template_id": "deliberate-practice-full-v1",
+  "related_practice_problems": [],
+  "sections": [
+    {
+      "section_label": "Pre-Analysis Snapshot",
+      "fields": [
+        {
+          "label": "Object of Analysis",
+          "content": "Argument: 'Growth mindset interventions reliably improve academic outcomes. Carol Dweck's research has shown that when students believe their abilities can be developed through effort, their achievement improves. Schools should implement growth mindset programmes to raise attainment, particularly for disadvantaged students.'"
+        },
+        {
+          "label": "Object Type",
+          "content": "Empirical argument with a prescriptive conclusion — requires evaluating both the quality of the evidence and the inference from evidence to policy recommendation."
+        },
+        {
+          "label": "Question Type",
+          "content": "Evaluative / empirical — the core question is whether the evidence base supports the claim as stated. The secondary question is whether the evidence, even if accurate, supports the policy prescription."
+        },
+        {
+          "label": "Stakes",
+          "content": "High — educational policy decisions based on this claim affect resource allocation (time, money, teacher training) across thousands of schools. If the claim is overstated, resources are invested in programmes of uncertain effectiveness while more evidence-based interventions are foregone."
+        },
+        {
+          "label": "Pre-Analysis Confidence",
+          "content": "4/5 — I am fairly confident growth mindset interventions work. I have heard this framing from teachers, educational psychologists, and popular science sources. Dweck's work is widely cited and seems to have solid research backing."
+        }
+      ]
+    },
+    {
+      "section_label": "8 Elements of Thought",
+      "fields": [
+        {
+          "label": "Purpose",
+          "content": "The purpose of this analysis is to evaluate whether the claim that 'growth mindset interventions reliably improve academic outcomes' is well-supported by the evidence, and whether the policy prescription ('schools should implement growth mindset programmes') follows from that evidence.\n\nThis is not an evaluation of whether growth mindset is a real psychological construct — the original research on the construct has held up reasonably well. It is specifically an evaluation of whether interventions designed to shift students' mindsets produce reliable improvements in academic outcomes at scale — a meaningfully different question."
+        },
+        {
+          "label": "Question at Issue",
+          "content": "The central question is: Does the evidence support the claim that growth mindset interventions reliably improve academic outcomes for students in school settings?\n\nSub-questions:\n1. What does the original Dweck research actually show — what populations, what conditions, what effect sizes?\n2. What does the replication record show — large-scale independent studies, meta-analyses?\n3. What is the effect size, and is it educationally significant (not just statistically significant)?\n4. Under what specific conditions do effects appear, and are those conditions reproducible at scale?\n5. Does the evidence support the prescription for broad school implementation, or only targeted use?\n\nKey framing distinction: Dweck's original research and large-scale independent replication attempts are asking meaningfully different questions. The original research identifies the construct and tests its effects in controlled laboratory or small-scale school conditions. The replication literature tests whether those effects generalise to varied, real-world school contexts. These are not competing answers to the same question — they are answers to different questions."
+        },
+        {
+          "label": "Information",
+          "content": "SUPPORTING EVIDENCE:\n1. Dweck's original research (multiple studies from the 1980s–2000s) shows consistent effects of mindset on performance in controlled conditions — students praised for effort rather than ability show greater persistence and better performance after setbacks\n2. Blackwell, Trzesniewski & Dweck (2007) — longitudinal study showing that a brief growth mindset intervention in 7th grade predicted better maths trajectories over two years\n3. National Study of Learning Mindsets (Yeager et al., 2019) — the largest ever mindset intervention study (12,000+ US 9th graders) found a positive effect on GPA for lower-achieving students in 'growth mindset supportive' school contexts (effect size: ~0.1 standard deviations)\n4. The general principle — that effort attributions are preferable to ability attributions — has solid support in the broader self-determination theory and attribution theory literatures\n\nDISCONFIRMING EVIDENCE:\n1. Sisk et al. (2018) — meta-analysis of 43 growth mindset intervention studies found average effect size near zero (d ≈ 0.10) with high heterogeneity, suggesting effects are small and inconsistent across contexts\n2. Foliano et al. (2019) — large UK randomised controlled trial (n = 5,000) of a commercial growth mindset intervention found no statistically significant effects on academic attainment after one year\n3. Li & Bates (2019) — replication of key Dweck studies found near-zero correlations between measured mindset and academic achievement in a large UK cohort\n4. Yeager et al. (2019) — the largest study supporting the intervention ALSO shows that effects are absent for higher-achieving students and in school contexts that do not support growth mindset — meaning the effect is conditional on two factors that most schools cannot guarantee\n5. The 'praise for effort' intervention has produced unexpected negative effects in some studies: students who are told effort is everything may experience failure as a failure of effort (and thus self), rather than reframing it as an opportunity to learn\n\nINFORMATION GAPS:\n- Long-term outcomes (beyond 1-2 years) are rarely measured in the intervention literature\n- Almost no evidence on whether whole-school implementation (as opposed to targeted one-session or six-session interventions) produces different effects\n- Evidence on interactions between growth mindset programmes and other school interventions is sparse"
+        },
+        {
+          "label": "Inferences and Conclusions",
+          "content": "Inference chain in the original argument:\n(1) Growth mindset (the belief that ability is developable) is associated with better performance\n→ (2) Growth mindset can be shifted by brief interventions\n→ (3) Shifting growth mindset via intervention improves academic outcomes\n→ (4) Schools should implement growth mindset programmes\n\nHIGHEST RISK INFERENCE STEPS:\n- Step 1→2: There is evidence that mindset can be shifted in laboratory conditions. The evidence that shifts persist in ecologically valid school contexts is mixed. Many studies measure immediate mindset change but not sustained change.\n- Step 2→3: This is the most contested step. The Sisk meta-analysis (d ≈ 0.10) suggests the effect of intervention on academic outcomes is small and unreliable. The Yeager large-scale study shows the effect only appears for specific student subpopulations and in specific school contexts.\n- Step 3→4: Even if a small, conditional effect exists for specific populations, this does not establish that broad school implementation is a good investment of educational resources. An effect size of 0.10 standard deviations may or may not be educationally significant, and the opportunity cost (teacher time, programme cost, displaced instruction) is not included in the calculus.\n\nVERDICT ON INFERENCE: The original claim ('reliably improve academic outcomes') is not supported. The best available evidence supports 'may produce small improvements for specific student populations under specific school conditions.'"
+        },
+        {
+          "label": "Concepts",
+          "content": "Key concept 1 — 'Growth mindset' (the construct vs. the intervention): Dweck's construct describes a pattern of beliefs about the nature of intelligence — whether it is fixed (entity theory) or malleable (incremental theory). This construct has reasonable empirical support as a psychological category. 'Growth mindset intervention' is a separate category: a programme designed to shift students from fixed to growth mindset thinking. The evidence for the construct does not automatically transfer to evidence for the intervention's effectiveness. A drug can target a real mechanism and still fail to produce clinical outcomes in trials — the same logic applies here.\n\nKey concept 2 — 'Academic outcomes': The claim conflates several distinct measures:\n(a) Standardised test scores (what most people mean by 'academic outcomes')\n(b) Teacher-reported grades (more susceptible to halo effects)\n(c) Student-reported motivation and persistence (what many interventions actually measure)\n(d) Long-term educational trajectory (rarely measured)\nMost growth mindset intervention studies measure (c) — students report feeling more motivated — and fewer measure (a). The popular claim 'improves academic outcomes' reads as (a) when the evidence is primarily about (c).\n\nKey concept 3 — 'Reliably': This adverb is the most important word in the claim. 'Reliably' implies consistency across contexts, populations, and conditions. The Yeager study — the largest in the field — explicitly shows conditional effects: the intervention works for lower-achieving students in supportive school contexts. This is not reliable in any straightforward sense — it is context-dependent and population-specific. The word 'reliably' is doing more work than the evidence supports.\n\nKey concept 4 — 'Intervention': Most growth mindset interventions in the research literature are brief — single sessions or two to six sessions. Many school implementations are much longer (full curriculum programmes). There is almost no evidence that longer, whole-school implementations produce better effects than brief, targeted ones — and some evidence that saturation reduces effectiveness."
+        },
+        {
+          "label": "Assumptions",
+          "content": "LOAD-BEARING ASSUMPTION 1: That academic underperformance is primarily caused by fixed mindset beliefs, such that changing those beliefs will improve performance. This assumes mindset is the bottleneck. But academic underperformance is associated with poverty, trauma, inadequate nutrition, class size, teacher quality, and curriculum design — all of which are typically larger effect sizes than mindset. If a student is underperforming primarily because of chronic poverty or teacher understaffing, a growth mindset intervention addresses none of those causes.\n\nProbability this assumption holds broadly: low. The assumption may hold for a specific subpopulation (students who have fixed ability beliefs and are otherwise resourced and supported) but not as a general model of underperformance.\n\nLOAD-BEARING ASSUMPTION 2: That students do not already hold growth mindset beliefs. The intervention is only useful if students currently hold fixed mindset beliefs that are incorrect. Survey data suggests that most students already report growth mindset beliefs — the distribution is skewed toward growth mindset even before intervention. If the 'fixed mindset students who need intervention' population is smaller than assumed, the target population for the intervention is smaller and the expected average effect is lower.\n\nBACKGROUND ASSUMPTION: That mindset can be effectively and durably changed by brief pedagogical interventions. This is the step that the replication literature most consistently challenges — measured mindset may shift during intervention and quickly revert in the absence of sustained environmental reinforcement.\n\nASSUMPTION I WAS UNAWARE OF AT THE START: I was assuming that 'Dweck's research' refers to a unified body of evidence. It does not — there is the original lab research, the applied classroom research, the large-scale replication attempts, and the commercial growth mindset programme evaluations. These answer different questions and have produced different results. Treating them as one body of evidence obscures the most important finding: original lab research shows the effect; large-scale independent replication in ecologically valid conditions shows it is small and conditional."
+        },
+        {
+          "label": "Implications",
+          "content": "DIRECT IMPLICATIONS of adopting the claim as stated:\n1. Schools invest teacher time, curriculum hours, and programme costs (commercial growth mindset programmes cost £5,000–£15,000 per school) in an intervention with small, conditional effects — opportunity cost of more evidence-based interventions (reading support, tutoring, early intervention)\n2. Teachers who implement growth mindset programmes may attribute student failure to insufficient effort or wrong mindset, rather than to resource deficits or teaching quality — a blame-shifting implication\n3. Students who internalise 'effort is everything' may experience failure as a personal failure of effort rather than as a systemic or situational factor — potentially harmful for students facing genuine structural barriers\n\nIMPLICATIONS OF THE CORRECT, CONDITIONAL CLAIM:\nThe evidence supports a narrower conclusion: growth mindset frameworks may be useful tools for teachers working with specific students (lower-achieving, without significant trauma or resource deficits) in school cultures that reinforce growth-oriented feedback practices across all interactions. This is a useful tool in a toolkit, not a scalable solution.\n\nOPPORTUNITY COST CONSIDERATION: The effect size of 0.10 SDs from Yeager et al. compares unfavourably with well-established educational interventions — small-group tutoring (effect size ~0.4–0.5 SD), high-dosage reading instruction (0.3–0.5 SD), and extended school hours (0.2–0.3 SD). If growth mindset programmes displace these higher-effect interventions in resource-constrained schools, the net effect may be negative."
+        },
+        {
+          "label": "Point of View / Standpoints",
+          "content": "DWECK LAB STANDPOINT: The original researchers consistently emphasise that the construct is real and that the research supports targeted interventions under supportive conditions. They distinguish their work from commercial implementations and frequently note that the popular understanding overstates their findings. Dweck herself has acknowledged that the widespread classroom implementation of growth mindset has often been poorly executed.\n\nEDUCATIONAL RESEARCHER / REPLICATION STANDPOINT: The large-scale replication and meta-analytic literature (Sisk, Li & Bates, Foliano) shows small, inconsistent effects. Many researchers in this tradition argue that the popular adoption of growth mindset programmes outpaced the evidence, and that education systems have a history of adopting psychologically appealing but poorly evidenced interventions.\n\nTEACHER / PRACTITIONER STANDPOINT: Many teachers report that the growth mindset framework gives them useful language and conceptual tools for feedback, regardless of whether the formal intervention produces measurable test score gains. The framework may have value as a pedagogical orientation even if it is overrated as a measurable intervention.\n\nSTEELMAN (the strongest case for growth mindset programmes despite the replication critique): The replication failures and small effect sizes are real — but they do not establish that growth mindset is useless in education. The Yeager study shows a real effect for the students who arguably most need help (lower-achieving students) in the conditions most likely to produce it. More importantly, the framework gives teachers practical tools for attributional feedback ('you tried a different strategy' vs. 'you're smart') that are consistent with motivation research regardless of whether they shift a latent construct called 'mindset.' The measured effect size of 0.10 SD may be educationally meaningful at population scale even if it looks small in any individual comparison. The case against universal mandatory implementation is strong; the case against the framework as a professional tool is weaker.\n\nOBSERVATION: The steelman revealed that my pre-analysis position was too strong in both directions. The original claim ('reliably improve academic outcomes') is overstated. The dismissal ('it's all hype') is also overstated. The defensible position is nuanced and conditional."
+        }
+      ]
+    },
+    {
+      "section_label": "9 Intellectual Standards Self-Audit",
+      "ratings": {
+        "clarity": {"score": 5, "note": "The Concepts element successfully disaggregated four key terms that the original claim conflates: the construct vs. the intervention, academic outcomes vs. motivation measures, 'reliably' vs. 'conditionally,' and brief interventions vs. whole-school programmes. These clarity moves changed the analysis substantially."},
+        "accuracy": {"score": 5, "note": "Specific studies are cited with sample sizes and effect sizes. The Sisk meta-analysis finding (d ≈ 0.10) and the Yeager conditional result are accurately represented. The distinction between the original lab research and the applied replication record is maintained throughout."},
+        "precision": {"score": 4, "note": "The inference chain is traced clearly. The effect size comparisons in the Implications element are appropriately approximate (ranges rather than point estimates). Minor deduction: the claim about 'most students already hold growth mindset beliefs' is cited without a specific reference — this should be verified before relying on it."},
+        "relevance": {"score": 5, "note": "All evidence bears directly on the specific question of intervention effectiveness. The opportunity cost comparison (growth mindset vs. tutoring effect sizes) is directly relevant to the policy prescription and not tangential."},
+        "depth": {"score": 5, "note": "The Concepts element's disaggregation of the construct vs. the intervention is the most significant analytical move. The Assumptions element identified the bottleneck assumption (that mindset is the limiting factor for underperforming students) — which is the assumption that undermines the broadest applications of the claim."},
+        "breadth": {"score": 4, "note": "Three standpoints covered. The student standpoint — how students who internalise 'effort determines outcomes' experience failure — is mentioned in the Implications element but not fully developed as a standpoint. This is a gap, particularly for students facing structural barriers."},
+        "logic": {"score": 5, "note": "The inference chain is rigorously traced. The highest-risk steps are correctly identified and the case for the conditional conclusion is logically sound. The opportunity cost reasoning in the Implications element is valid."},
+        "significance": {"score": 5, "note": "The most significant finding — the construct vs. intervention distinction and the conditional/population-specific nature of the effect — correctly drives the post-analysis conclusion. The analysis focuses on what matters most for the policy prescription."},
+        "fairness": {"score": 4, "note": "The steelman gave genuine credit to the practitioner utility of the framework independent of intervention effect sizes. Minor deduction: Dweck's own qualifications of the popular interpretation are mentioned but not fully represented — she has been a more nuanced critic of the popular implementation than the analysis gives credit for."}
+      }
+    },
+    {
+      "section_label": "Post-Analysis Closure",
+      "fields": [
+        {
+          "label": "Revised Position",
+          "content": "The original claim ('growth mindset interventions reliably improve academic outcomes') is overstated. The best available evidence supports a substantially more conditional conclusion: carefully designed, brief growth mindset interventions produce small, statistically significant improvements in academic outcomes for lower-achieving students in school contexts that consistently reinforce growth-oriented feedback across all teaching interactions.\n\nFor schools considering adoption: the evidence does not support expensive whole-school programme implementation as a primary attainment strategy. It may support the growth mindset framework as a professional development tool for teacher feedback language, and targeted brief interventions for specific lower-achieving student populations. Schools considering investment should compare effect sizes with alternative interventions (tutoring, reading support, attendance programmes) before allocation."
+        },
+        {
+          "label": "Post-Analysis Confidence",
+          "content": "2/5 — Genuinely uncertain about the right policy prescription, but confident that the original claim as stated is overstated and that schools adopting growth mindset programmes as a primary attainment strategy are not well-served by the current evidence base."
+        },
+        {
+          "label": "Confidence Delta Explanation",
+          "content": "Confidence dropped from 4 to 2. Three elements drove this. First, the Concepts element revealed that 'growth mindset intervention' and 'growth mindset construct' are different objects with different evidence bases — the popular claim conflates them. Second, the Assumptions element identified the bottleneck assumption: that fixed mindset beliefs are the primary cause of underperformance for most struggling students. This is almost certainly false for students facing poverty, trauma, or resource deficits — which are the populations the policy claim specifically targets. Third, the effect size comparisons in the Implications element showed that more evidence-based alternatives have substantially larger effects — making the opportunity cost of growth mindset programmes potentially significant for resource-constrained schools. The remaining 2/5 confidence is because the conditional version of the claim (small effects for specific populations under specific conditions) is well-supported and the framework has genuine practitioner utility."
+        },
+        {
+          "label": "Session Debrief",
+          "content": "Three observations about my thinking:\n\n1. The construct/intervention distinction is generalisable across educational and psychological claims. Whenever I hear 'research shows X works,' the first analytical move should be: what exactly was tested, in what conditions, with what population, and is the thing being recommended the same thing that was tested? The gap between lab research and applied intervention is almost always larger than popular reporting suggests.\n\n2. I am susceptible to authority-by-association: 'Dweck's research' feels like a unified endorsement from a credible source. The analysis revealed that Dweck's original research, independent replications, and commercial programme evaluations are three different bodies of evidence pointing in different directions. Credentialing the claim as 'research-based' does not identify which research or what it shows.\n\n3. The steelman was more productive than I expected. The practitioner utility argument — that growth mindset feedback language is valuable for teachers regardless of measured intervention effects — is a genuine and defensible position that I had dismissed as rationalisation. A well-formed steelman should update your view, and this one did: the post-analysis position is not 'growth mindset is wrong' but 'growth mindset programmes are overrated as a measurable intervention, while the underlying framework may still have practical value.'"
+        }
+      ]
+    }
+  ]
+}
