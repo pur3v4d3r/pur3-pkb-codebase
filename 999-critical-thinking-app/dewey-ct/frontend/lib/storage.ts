@@ -3,6 +3,9 @@ import type { PortfolioEntry } from '@/types/framework';
 const PORTFOLIO_KEY = 'deweyct-portfolio';
 const PROGRESS_KEY = 'deweyct-progress';
 
+const BACKEND_URL = (process.env.NEXT_PUBLIC_BACKEND_URL ?? 'http://localhost:8000') as string;
+let _syncTimer: ReturnType<typeof setTimeout> | null = null;
+
 // ---- Portfolio ----
 
 export function getPortfolio(): PortfolioEntry[] {
@@ -24,6 +27,7 @@ export function savePortfolioEntry(entry: PortfolioEntry): void {
     portfolio.push(entry);
   }
   localStorage.setItem(PORTFOLIO_KEY, JSON.stringify(portfolio));
+  syncToBackend();
 }
 
 export function getPortfolioEntry(id: string): PortfolioEntry | undefined {
@@ -33,6 +37,7 @@ export function getPortfolioEntry(id: string): PortfolioEntry | undefined {
 export function deletePortfolioEntry(id: string): void {
   const portfolio = getPortfolio().filter((e) => e.id !== id);
   localStorage.setItem(PORTFOLIO_KEY, JSON.stringify(portfolio));
+  syncToBackend();
 }
 
 // ---- Reading Progress ----
@@ -61,6 +66,7 @@ export function markChapterRead(chapterId: number, timeSpentSeconds?: number): v
     timeSpentSeconds,
   };
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+  syncToBackend();
 }
 
 export function isChapterRead(chapterId: number): boolean {
@@ -185,4 +191,65 @@ export function importAllData(file: File): Promise<void> {
     reader.onerror = () => reject(new Error('Failed to read file.'));
     reader.readAsText(file);
   });
+}
+
+// ---- Backend sync ----
+
+/**
+ * Debounced (400 ms) fire-and-forget sync of all localStorage data to the
+ * FastAPI backend SQLite store. Silent on failure — localStorage remains the
+ * primary source of truth; the backend is a durable mirror.
+ */
+export function syncToBackend(): void {
+  if (typeof window === 'undefined') return;
+  if (_syncTimer !== null) clearTimeout(_syncTimer);
+  _syncTimer = setTimeout(() => {
+    const payload = {
+      portfolio: safeParseLS(ALL_STORAGE_KEYS.portfolio),
+      chapterProgress: safeParseLS(ALL_STORAGE_KEYS.chapterProgress),
+      srsProgress: safeParseLS(ALL_STORAGE_KEYS.srsProgress),
+    };
+    fetch(`${BACKEND_URL}/api/data`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    }).catch(() => {
+      /* backend unavailable — localStorage is still persisted locally */
+    });
+  }, 400);
+}
+
+/**
+ * Called once on app startup. For each localStorage key that is absent,
+ * fills it from the backend SQLite store. Non-destructive: only populates
+ * empty slots so existing local edits are never overwritten.
+ */
+export async function hydrateFromBackend(): Promise<void> {
+  if (typeof window === 'undefined') return;
+  try {
+    const res = await fetch(`${BACKEND_URL}/api/data`);
+    if (!res.ok) return;
+    const remote = (await res.json()) as {
+      portfolio: unknown;
+      chapterProgress: unknown;
+      srsProgress: unknown;
+    };
+    if (remote.portfolio != null && !localStorage.getItem(ALL_STORAGE_KEYS.portfolio)) {
+      localStorage.setItem(ALL_STORAGE_KEYS.portfolio, JSON.stringify(remote.portfolio));
+    }
+    if (
+      remote.chapterProgress != null &&
+      !localStorage.getItem(ALL_STORAGE_KEYS.chapterProgress)
+    ) {
+      localStorage.setItem(
+        ALL_STORAGE_KEYS.chapterProgress,
+        JSON.stringify(remote.chapterProgress),
+      );
+    }
+    if (remote.srsProgress != null && !localStorage.getItem(ALL_STORAGE_KEYS.srsProgress)) {
+      localStorage.setItem(ALL_STORAGE_KEYS.srsProgress, JSON.stringify(remote.srsProgress));
+    }
+  } catch {
+    /* backend unavailable on load — fall through; localStorage is sufficient */
+  }
 }

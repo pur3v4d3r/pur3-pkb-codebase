@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import SearchTrigger from './SearchTrigger';
+import ThemeToggle from './ThemeToggle';
 
 interface NavLink {
   href: string;
@@ -21,11 +22,11 @@ const NAV_LINKS: NavLink[] = [
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/80 backdrop-blur-sm">
+    <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/80 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-900/80">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
         <Link href="/" className="flex items-center gap-2">
-          <span className="rounded bg-slate-900 px-2 py-1 text-sm font-bold text-white">CT</span>
-          <span className="text-base font-semibold text-slate-800">DeweyCT</span>
+          <span className="rounded bg-slate-900 px-2 py-1 text-sm font-bold text-white dark:bg-slate-100 dark:text-slate-900">CT</span>
+          <span className="text-base font-semibold text-slate-800 dark:text-slate-100">DeweyCT</span>
         </Link>
 
         <nav className="flex items-center gap-1">
@@ -33,12 +34,13 @@ export default function Header() {
             <Link
               key={link.href}
               href={link.href}
-              className="rounded-md px-3 py-1.5 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900"
+              className="rounded-md px-3 py-1.5 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-slate-900 dark:text-slate-400 dark:hover:bg-slate-800 dark:hover:text-slate-100"
             >
               {link.label}
             </Link>
           ))}
           <SearchTrigger />
+          <ThemeToggle />
         </nav>
       </div>
     </header>

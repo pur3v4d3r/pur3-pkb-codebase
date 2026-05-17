@@ -89,7 +89,7 @@ http://localhost:3001
 
 21. **Dark mode** — Tailwind + `next-themes`. Slate palette already chosen — easy port.
 22. **Keyboard shortcuts on `/review`** — `1`/`2`/`3`/`4` for Again/Hard/Good/Easy, `Space` for show-answer. Current click-based flow is slow.
-23. **Mobile review polish** — slider thumb targets and rating buttons need ≥44px tap targets; verify on a real phone width.
+
 24. **Print stylesheet for `/cheat-sheets`** — these are reference material; users will want to print. `@media print` rules to strip nav/chrome.
 25. **Page transitions + skeleton loaders** — current loading text ("Loading dispositions…") is fine but feels static. Skeleton blocks matching final layout reduce perceived latency.
 26. **Sticky section nav on long chapter pages** — TOC drawer on the right, scroll-spy.

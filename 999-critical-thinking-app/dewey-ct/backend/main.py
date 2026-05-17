@@ -6,7 +6,7 @@ from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 
 from limiter import limiter
-from routers import qa, feedback
+from routers import qa, feedback, data
 
 # ---------------------------------------------------------------------------
 # CORS — lock to explicit origins; never use "*" with user data
@@ -39,6 +39,7 @@ app.add_middleware(
 
 app.include_router(qa.router, prefix="/api/qa", tags=["Q&A"])
 app.include_router(feedback.router, prefix="/api/feedback", tags=["Feedback"])
+app.include_router(data.router, prefix="/api/data", tags=["Data"])
 
 
 @app.get("/health")

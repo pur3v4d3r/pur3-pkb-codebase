@@ -71,10 +71,10 @@ phase1_qa_status: passed
 
 | Architecture Type | Search Pattern | Backtracking | Exploration Completeness |
 |-------------------|----------------|--------------|--------------------------|
-| **Chain of Thought (CoT)** | Linear sequence | None | Single path |
-| **Tree of Thoughts (ToT)** | Tree search (BFS/DFS) | Yes | Multiple paths, pruning |
-| **Graph of Thoughts (GoT)** | DAG traversal | Limited | Network synthesis |
-| **Self-Consistency (SC)** | Parallel sampling | N/A | Multiple independent paths |
+| **[[Chain-of-Thought|Chain of Thought (CoT)]]** | Linear sequence | None | Single path |
+| **[[Tree-of-Thoughts|Tree of Thoughts (ToT)]]** | Tree search (BFS/DFS) | Yes | Multiple paths, pruning |
+| **[[Graph-of-Thoughts|Graph of Thoughts (GoT)]]** | DAG traversal | Limited | Network synthesis |
+| **[[Self-Consistency|Self-Consistency (SC)]]** | Parallel sampling | N/A | Multiple independent paths |
 | **Beam Search Reasoning** | Constrained tree | Soft (via pruning) | Top-k paths maintained |
 
 **Linear Architectures**:
@@ -154,7 +154,7 @@ Query → [Path_1, Path_2, Path_3, ..., Path_n] → Aggregation → Answer
 |------------------|------------------|------------------|----------------------|
 | **Parametric** | Model weights | Static (training) | CoT, ToT, SC |
 | **Retrieval-Augmented** | External documents | Dynamic (runtime) | RAG + CoT, RAG + CoVe [1][3][4] |
-| **Tool-Augmented** | External APIs/tools | Dynamic (execution) | ReAct, Reflexion [5][8] |
+| **Tool-Augmented** | External APIs/tools | Dynamic (execution) | [[ReAct]], [[Reflexion]] [5][8] |
 | **Hybrid** | Multiple sources | Combined | RAG + ReAct + Reflexion |
 
 **Parametric Reasoning**:
@@ -1073,8 +1073,8 @@ def select_architecture(depth):
 
 **2024: Synthesis Era**
 - **Jan 2024**: Chain of Verification (Dhuliawala et al.) - Self-verification
-- **Apr 2024**: Extended Thinking (Anthropic) - Architectural support
-- **Jul 2024**: Multi-agent Debate - Collaborative reasoning
+- **Apr 2024**: [[Extended-Thinking|Extended Thinking]] (Anthropic) - Architectural support
+- **Jul 2024**: [[Multi-Agent-Debate|Multi-agent Debate]] - Collaborative reasoning
 - **Oct 2024**: Hybrid Architectures - Combined approaches
 
 **2025: Production Era**

@@ -6,6 +6,8 @@
  * Cards with no progress record are treated as new (due immediately).
  */
 
+import { syncToBackend } from '@/lib/storage';
+
 // ---- Types ----
 
 export type CardSource = 'mental-model' | 'dewey-phase' | 'fallacy';
@@ -129,6 +131,7 @@ export function saveCardProgress(progress: CardProgress): void {
   const all = getSRSProgress();
   all[progress.cardId] = progress;
   localStorage.setItem(SRS_KEY, JSON.stringify(all));
+  syncToBackend();
 }
 
 /** Removes all SRS progress from localStorage. */
