@@ -80,9 +80,8 @@ Source: "{#ReleaseDir}\ollama\*";    DestDir: "{app}\ollama";    Flags: ignoreve
 ; Content data files
 Source: "{#ReleaseDir}\data\*";      DestDir: "{app}\data";      Flags: ignoreversion recursesubdirs createallsubdirs
 
-; Default .env (will not overwrite if user already has one)
-Source: "{#ReleaseDir}\.env";        DestDir: "{app}";           Flags: ignoreversion onlyifinternalbuilddebug
-Source: "{#ReleaseDir}\.env";        DestDir: "{app}";           Flags: ignoreversion uninsneveruninstall; DestName: ".env"
+; Default .env — only installed if one does not already exist; preserved on uninstall
+Source: "{#ReleaseDir}\.env";        DestDir: "{app}";           Flags: onlyifdoesntexist uninsneveruninstall; DestName: ".env"
 
 [Icons]
 ; Start Menu

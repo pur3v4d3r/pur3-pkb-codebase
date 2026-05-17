@@ -1300,3 +1300,30 @@ I have two excelent reference markdown files that you can draw from in this proc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# RUNNING MODELS FROM HUGGING FACE LOCALLY

@@ -52,8 +52,9 @@ MODELS: dict[str, dict] = {
 # ---------------------------------------------------------------------------
 
 if getattr(sys, "frozen", False):
-    # PyInstaller bundle: deweyct.exe lives at APP_DIR root
-    APP_DIR = Path(sys.executable).parent
+    # PyInstaller bundle: deweyct.exe lives in {install_root}\deweyct\
+    # All other directories (ollama, python, node, etc.) are siblings of deweyct\
+    APP_DIR = Path(sys.executable).parent.parent
 else:
     # Dev: installer/launcher/launcher.py  →  up 2 levels  →  dewey-ct/
     APP_DIR = Path(__file__).parent.parent.parent

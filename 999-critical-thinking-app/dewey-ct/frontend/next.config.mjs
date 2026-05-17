@@ -8,6 +8,16 @@ const nextConfig = {
    */
   output: 'standalone',
 
+  /** Skip ESLint during production builds (lint separately in CI). */
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
+  /** Skip TypeScript type-check during builds (type-check separately). */
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+
   /**
    * Proxy all /api/* requests to the FastAPI backend.
    * Because this rewrite runs server-side, the browser never makes a

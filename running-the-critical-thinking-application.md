@@ -267,3 +267,4 @@ Executable file requirements:
 Models We will Use:
 - phi3:3.8b
 - qwen3:8b-q4_K_M
+

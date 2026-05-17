@@ -51,6 +51,11 @@ $NodeExeInZip = "node-v$NodeVersion-win-x64\node.exe"
 $OllamaUrl    = "https://github.com/ollama/ollama/releases/latest/download/ollama-windows-amd64.zip"
 $OllamaZip    = "ollama-windows-amd64.zip"
 
+$PythonVersion  = "3.11.9"
+$PythonZipName  = "python-$PythonVersion-embed-amd64.zip"
+$PythonZipUrl   = "https://www.python.org/ftp/python/$PythonVersion/$PythonZipName"
+$GetPipUrl      = "https://bootstrap.pypa.io/get-pip.py"
+
 # ---------------------------------------------------------------------------
 # Helper functions
 # ---------------------------------------------------------------------------
@@ -113,6 +118,11 @@ $ollamaZipPath = Join-Path $CacheDir $OllamaZip
 Download-IfMissing $NodeZipUrl   $nodeZipPath
 Download-IfMissing $OllamaUrl    $ollamaZipPath
 
+$pythonZipPath = Join-Path $CacheDir $PythonZipName
+$getPipPath    = Join-Path $CacheDir "get-pip.py"
+Download-IfMissing $PythonZipUrl $pythonZipPath
+Download-IfMissing $GetPipUrl    $getPipPath
+
 # ---------------------------------------------------------------------------
 # Step 3 — Build Next.js frontend
 # ---------------------------------------------------------------------------
@@ -120,8 +130,9 @@ Write-Step "Building Next.js frontend (npm run build)"
 
 Push-Location $FrontendDir
 try {
-    npm ci --silent
-    npm run build
+    & cmd /c "npm ci --silent"
+    if ($LASTEXITCODE -ne 0) { throw "npm ci failed." }
+    & cmd /c "npm run build"
     if ($LASTEXITCODE -ne 0) { throw "npm run build failed." }
 } finally {
     Pop-Location
@@ -184,37 +195,41 @@ Get-ChildItem $BackendDir -Recurse |
         else { Copy-Item $_.FullName $dest -Force }
     }
 
-# 5c. Install Python packages into a portable python/ layout
-Write-Host "  Setting up portable Python runtime..."
+# 5c. Build a self-contained portable Python using the embeddable distribution
+Write-Host "  Setting up portable Python runtime (embeddable)..."
 $RelPython = Join-Path $ReleaseDir "python"
 New-Item -ItemType Directory -Force -Path $RelPython | Out-Null
 
-# Use a temporary venv to collect packages, then copy site-packages
-$TmpVenv = Join-Path $CacheDir "build-venv"
-if (-not (Test-Path $TmpVenv)) {
-    python -m venv $TmpVenv
+# Extract embeddable Python (already downloaded into cache/)
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+[System.IO.Compression.ZipFile]::ExtractToDirectory($pythonZipPath, $RelPython)
+Write-Host "  Embeddable Python extracted."
+
+# The ._pth file shipped with the embeddable distribution has 'import site'
+# commented out, which prevents pip-installed packages from being found.
+# Uncomment it and add Lib\site-packages explicitly.
+$PthFile = Get-ChildItem $RelPython -Filter "python*._pth" | Select-Object -First 1
+if (-not $PthFile) { throw "Could not find python*._pth in embeddable distribution." }
+$pthContent = Get-Content $PthFile.FullName -Raw
+$pthContent = $pthContent -replace '#import site', 'import site'
+if ($pthContent -notmatch 'Lib\\site-packages') {
+    $pthContent = $pthContent.TrimEnd() + "`r`nLib\site-packages`r`n"
 }
-& "$TmpVenv\Scripts\pip.exe" install `
-    fastapi uvicorn[standard] ollama pydantic python-dotenv slowapi `
-    --quiet --target (Join-Path $RelPython "Lib\site-packages")
+Set-Content $PthFile.FullName $pthContent -NoNewline
+Write-Host "  Enabled 'import site' in $($PthFile.Name)"
 
-# Copy Python interpreter itself from the build venv
-Copy-Item "$TmpVenv\Scripts\python.exe" (Join-Path $RelPython "python.exe") -Force
-Copy-Item "$TmpVenv\Scripts\pythonw.exe" (Join-Path $RelPython "pythonw.exe") -Force -ErrorAction SilentlyContinue
+# Bootstrap pip into the embeddable Python
+Write-Host "  Bootstrapping pip..."
+& "$RelPython\python.exe" $getPipPath --quiet
+if ($LASTEXITCODE -ne 0) { throw "Failed to bootstrap pip into embeddable Python." }
 
-# Copy Python standard library DLLs
-$PythonDll = Get-ChildItem "$TmpVenv" -Filter "python3*.dll" -Recurse | Select-Object -First 1
-if ($PythonDll) { Copy-Item $PythonDll.FullName $RelPython -Force }
-$PythonDll2 = Get-ChildItem "$TmpVenv\Scripts" -Filter "*.dll" | Select-Object -First 5
-foreach ($dll in $PythonDll2) { Copy-Item $dll.FullName $RelPython -Force -ErrorAction SilentlyContinue }
-
-# Copy stdlib zip (pythonXY.zip) if present
-$StdlibZip = Get-ChildItem "$TmpVenv" -Filter "python*.zip" -Recurse | Select-Object -First 1
-if ($StdlibZip) { Copy-Item $StdlibZip.FullName $RelPython -Force }
-
-Write-Host "  NOTE: Python runtime copy uses the build venv. For a fully"
-Write-Host "        self-contained release, consider using the Python embeddable"
-Write-Host "        package instead (see README-packaging.md)."
+# Install backend requirements directly into the embeddable Python
+Write-Host "  Installing backend packages..."
+& "$RelPython\python.exe" -m pip install `
+    fastapi "uvicorn[standard]" ollama pydantic python-dotenv slowapi `
+    --quiet --no-warn-script-location
+if ($LASTEXITCODE -ne 0) { throw "pip install of backend packages failed." }
+Write-Host "  Portable Python runtime ready."
 
 # 5d. Next.js standalone frontend
 Write-Host "  Copying Next.js standalone output..."
@@ -235,7 +250,7 @@ $RelNode = Join-Path $ReleaseDir "node"
 New-Item -ItemType Directory -Force -Path $RelNode | Out-Null
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 $nodeZip = [System.IO.Compression.ZipFile]::OpenRead($nodeZipPath)
-$nodeEntry = $nodeZip.Entries | Where-Object { $_.FullName -like "*\node.exe" } | Select-Object -First 1
+$nodeEntry = $nodeZip.Entries | Where-Object { $_.Name -eq "node.exe" } | Select-Object -First 1
 if ($nodeEntry) {
     $nodeOut = Join-Path $RelNode "node.exe"
     [System.IO.Compression.ZipFileExtensions]::ExtractToFile($nodeEntry, $nodeOut, $true)
