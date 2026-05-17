@@ -1,19 +1,52 @@
 ---
-tags: #reasoning-architectures #theoretical-foundations #implementation-patterns #mathematical-models #research-to-production #comparative-analysis #architecture-design #production-systems
-aliases: [Reasoning Architectures Guide, Theory to Practice Reasoning, Advanced Reasoning Systems, Reasoning Architecture Patterns, Reasoning Theory Implementation]
 id: 20260213000012
-created: 2025-01-06
-modified: 2026-05-16
-status: production
-maturity: evergreen
-certainty: verified
-type: synthesis
+title: "Advanced Reasoning Architectures: Theory to Practice"
+subtitle: "Mathematical Formulations, Algorithmic Analysis, and Production Implementation of Beam Search, MCTS, and Graph-of-Thoughts Reasoning Systems"
+series: "Claude Reasoning Documentation Series"
+doc_number: 3
+tier: 2
+phase: 2
 version: 2.0.0
+status: production
+created: 2025-01-06
+modified: 2026-05-17
+tags:
+  - reasoning-architectures
+  - theoretical-foundations
+  - implementation-patterns
+  - mathematical-models
+  - research-to-production
+  - comparative-analysis
+  - architecture-design
+  - production-systems
+  - tier-2
+  - phase-2
+aliases:
+  - "Reasoning Architectures Guide"
+  - "Theory to Practice Reasoning"
+  - "Advanced Reasoning Systems"
+  - "Reasoning Architecture Patterns"
+  - "Reasoning Theory Implementation"
+  - "Doc3"
+certainty: established
+doc_series_position: 3/10
+related_docs:
+  - doc1-llm-reasoning-techniques-operational-manual
+  - doc2-extended-thinking-architecture-implementation-guide
+word_count: ~5600
+code_blocks: 30
+citations: 12
+wiki_links: 25
+maturity: evergreen
+type: synthesis
 source: claude-sonnet-4.5
 category: reasoning-systems
 priority: critical
-audience: [ai-researchers, ml-engineers, system-architects, advanced-practitioners]
-prerequisites: [doc1-llm-reasoning-techniques-operational-manual, doc2-extended-thinking-architecture-implementation-guide]
+audience:
+  - ai-researchers
+  - ml-engineers
+  - system-architects
+  - advanced-practitioners
 synthesis_source_count: 20
 research_papers_cited: 12
 phase1_qa_date: 2026-05-16

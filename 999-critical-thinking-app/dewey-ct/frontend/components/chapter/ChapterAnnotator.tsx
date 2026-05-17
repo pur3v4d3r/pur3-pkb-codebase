@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { savePortfolioEntry, generateId } from '@/lib/storage';
+import { saveUserSRSCard, type UserSRSCard } from '@/lib/srs';
 
 interface ChapterAnnotatorProps {
   chapterId: number;
@@ -9,7 +10,7 @@ interface ChapterAnnotatorProps {
 }
 
 interface SaveState {
-  status: 'idle' | 'form' | 'saved' | 'error';
+  status: 'idle' | 'form' | 'saved' | 'error' | 'srs-form' | 'srs-saved';
   message?: string;
 }
 
@@ -18,6 +19,7 @@ export default function ChapterAnnotator({ chapterId, chapterTitle }: ChapterAnn
   const [selectedText, setSelectedText] = useState('');
   const [saveState, setSaveState] = useState<SaveState>({ status: 'idle' });
   const [note, setNote] = useState('');
+  const [front, setFront] = useState('');
   const panelRef = useRef<HTMLDivElement>(null);
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -112,8 +114,38 @@ export default function ChapterAnnotator({ chapterId, chapterTitle }: ChapterAnn
   function handleCancel() {
     setSaveState({ status: 'idle' });
     setNote('');
+    setFront('');
     setButtonPos(null);
     window.getSelection()?.removeAllRanges();
+  }
+
+  function handleSrsClick() {
+    setSaveState({ status: 'srs-form' });
+  }
+
+  function handleSrsSave() {
+    if (!front.trim()) return;
+    try {
+      const card: UserSRSCard = {
+        id: `user-${generateId()}`,
+        source: 'user',
+        category: `Chapter ${chapterId}`,
+        front: front.trim(),
+        back: selectedText,
+        createdAt: new Date().toISOString(),
+        chapterId,
+      };
+      saveUserSRSCard(card);
+      setSaveState({ status: 'srs-saved', message: 'Card added to review queue!' });
+      setFront('');
+      timeoutRef.current = setTimeout(() => {
+        setSaveState({ status: 'idle' });
+        setButtonPos(null);
+        window.getSelection()?.removeAllRanges();
+      }, 2000);
+    } catch {
+      setSaveState({ status: 'error', message: 'Could not save — please try again.' });
+    }
   }
 
   if (!buttonPos) return null;
@@ -125,15 +157,26 @@ export default function ChapterAnnotator({ chapterId, chapterTitle }: ChapterAnn
       style={{ top: buttonPos.top, left: buttonPos.left }}
     >
       {saveState.status === 'idle' && (
-        <button
-          type="button"
-          onMouseDown={(e) => e.preventDefault()} // prevent selection loss
-          onClick={handleAnnotateClick}
-          className="flex items-center gap-1.5 rounded-lg bg-slate-900 px-3 py-1.5 text-xs font-medium text-white shadow-lg transition hover:bg-slate-700 active:scale-95"
-        >
-          <span>✏️</span>
-          Annotate
-        </button>
+        <div className="flex gap-1.5">
+          <button
+            type="button"
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={handleAnnotateClick}
+            className="flex items-center gap-1.5 rounded-lg bg-slate-900 px-3 py-1.5 text-xs font-medium text-white shadow-lg transition hover:bg-slate-700 active:scale-95"
+          >
+            <span>✏️</span>
+            Annotate
+          </button>
+          <button
+            type="button"
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={handleSrsClick}
+            className="flex items-center gap-1.5 rounded-lg bg-indigo-600 px-3 py-1.5 text-xs font-medium text-white shadow-lg transition hover:bg-indigo-500 active:scale-95"
+          >
+            <span>🃏</span>
+            SRS Card
+          </button>
+        </div>
       )}
 
       {saveState.status === 'form' && (
@@ -172,12 +215,50 @@ export default function ChapterAnnotator({ chapterId, chapterTitle }: ChapterAnn
         </div>
       )}
 
-      {(saveState.status === 'saved' || saveState.status === 'error') && (
+      {saveState.status === 'srs-form' && (
+        <div className="w-80 rounded-xl border border-slate-200 bg-white p-4 shadow-2xl">
+          <p className="mb-2 text-xs font-semibold text-slate-700">Create SRS card</p>
+          <p className="mb-3 line-clamp-2 rounded bg-indigo-50 px-2 py-1.5 text-xs italic text-indigo-900">
+            &ldquo;{selectedText.slice(0, 120)}{selectedText.length > 120 ? '\u2026' : ''}&rdquo;
+          </p>
+          <p className="mb-1 text-xs text-slate-500">Your question or term (card front):</p>
+          <textarea
+            className="w-full resize-none rounded-md border border-slate-200 bg-slate-50 px-3 py-2 text-xs text-slate-700 placeholder-slate-400 focus:border-indigo-400 focus:outline-none focus:ring-1 focus:ring-indigo-300"
+            placeholder="e.g. What is the role of a leading idea in reflective thinking?"
+            rows={2}
+            value={front}
+            onChange={(e) => setFront(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleSrsSave();
+            }}
+            autoFocus
+          />
+          <div className="mt-3 flex justify-end gap-2">
+            <button
+              type="button"
+              onClick={handleCancel}
+              className="rounded-md px-3 py-1.5 text-xs text-slate-500 transition hover:bg-slate-100"
+            >
+              Cancel
+            </button>
+            <button
+              type="button"
+              onClick={handleSrsSave}
+              disabled={!front.trim()}
+              className="rounded-md bg-indigo-600 px-3 py-1.5 text-xs font-medium text-white shadow-sm transition hover:bg-indigo-700 disabled:opacity-40"
+            >
+              Create card
+            </button>
+          </div>
+        </div>
+      )}
+
+      {(saveState.status === 'saved' || saveState.status === 'srs-saved' || saveState.status === 'error') && (
         <div
           className={`rounded-lg px-4 py-2.5 text-xs font-medium shadow-lg ${
-            saveState.status === 'saved'
-              ? 'bg-green-600 text-white'
-              : 'bg-red-600 text-white'
+            saveState.status === 'error'
+              ? 'bg-red-600 text-white'
+              : 'bg-green-600 text-white'
           }`}
         >
           {saveState.message}

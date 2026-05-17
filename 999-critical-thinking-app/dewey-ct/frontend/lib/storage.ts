@@ -3,7 +3,9 @@ import type { PortfolioEntry } from '@/types/framework';
 const PORTFOLIO_KEY = 'deweyct-portfolio';
 const PROGRESS_KEY = 'deweyct-progress';
 
-const BACKEND_URL = (process.env.NEXT_PUBLIC_BACKEND_URL ?? 'http://localhost:8000') as string;
+const BACKEND_URL = '';
+// Storage sync uses the Next.js proxy (/api/data). The BACKEND_URL env var
+// is consumed by next.config.mjs rewrites, not here.
 let _syncTimer: ReturnType<typeof setTimeout> | null = null;
 
 // ---- Portfolio ----
@@ -86,6 +88,7 @@ const ALL_STORAGE_KEYS = {
   portfolio: PORTFOLIO_KEY,
   chapterProgress: PROGRESS_KEY,
   srsProgress: 'deweyct-srs-progress',
+  userSrsCards: 'deweyct-srs-user-cards',
 } as const;
 
 export interface AppBackup {
@@ -95,6 +98,7 @@ export interface AppBackup {
     portfolio: unknown;
     chapterProgress: unknown;
     srsProgress: unknown;
+    userSrsCards?: unknown;
   };
 }
 
@@ -107,6 +111,7 @@ export function exportAllData(): void {
       portfolio: safeParseLS(ALL_STORAGE_KEYS.portfolio),
       chapterProgress: safeParseLS(ALL_STORAGE_KEYS.chapterProgress),
       srsProgress: safeParseLS(ALL_STORAGE_KEYS.srsProgress),
+      userSrsCards: safeParseLS(ALL_STORAGE_KEYS.userSrsCards),
     },
   };
   const blob = new Blob([JSON.stringify(backup, null, 2)], {
@@ -177,6 +182,12 @@ export function importAllData(file: File): Promise<void> {
           localStorage.setItem(
             ALL_STORAGE_KEYS.srsProgress,
             JSON.stringify(data.srsProgress),
+          );
+        }
+        if (data.userSrsCards != null) {
+          localStorage.setItem(
+            ALL_STORAGE_KEYS.userSrsCards,
+            JSON.stringify(data.userSrsCards),
           );
         }
         resolve();

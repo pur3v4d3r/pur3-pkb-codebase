@@ -1,19 +1,52 @@
 ---
-tags: #agentic-workflows #multi-agent-systems #workflow-orchestration #task-decomposition #tool-integration #state-management #error-handling #production-agents
-aliases: [Agentic Workflow Patterns, Agent Design Guide, Workflow Orchestration, Multi-Agent Systems, Agent Architecture Patterns]
 id: 20260213000013
-created: 2025-01-06
-modified: 2026-05-16
-status: production
-maturity: evergreen
-certainty: verified
-type: implementation-guide
+title: "Agentic Workflow Design Patterns"
+subtitle: "Production Patterns for Single-Agent Systems, Multi-Agent Coordination, Tool Integration, State Management, and Failure Recovery"
+series: "Claude Reasoning Documentation Series"
+doc_number: 4
+tier: 2
+phase: 2
 version: 2.0.0
+status: production
+created: 2025-01-06
+modified: 2026-05-17
+tags:
+  - agentic-workflows
+  - multi-agent-systems
+  - workflow-orchestration
+  - task-decomposition
+  - tool-integration
+  - state-management
+  - error-handling
+  - production-agents
+  - tier-2
+  - phase-2
+aliases:
+  - "Agentic Workflow Patterns"
+  - "Agent Design Guide"
+  - "Workflow Orchestration"
+  - "Multi-Agent Systems"
+  - "Agent Architecture Patterns"
+  - "Doc4"
+certainty: established
+doc_series_position: 4/10
+related_docs:
+  - doc1-llm-reasoning-techniques-operational-manual
+  - doc2-extended-thinking-architecture-implementation-guide
+word_count: ~5800
+code_blocks: 30
+citations: 12
+wiki_links: 25
+maturity: evergreen
+type: implementation-guide
 source: claude-sonnet-4.5
 category: agentic-systems
 priority: critical
-audience: [ai-engineers, system-architects, automation-engineers, advanced-practitioners]
-prerequisites: [doc1-llm-reasoning-techniques-operational-manual, doc2-extended-thinking-architecture-implementation-guide]
+audience:
+  - ai-engineers
+  - system-architects
+  - automation-engineers
+  - advanced-practitioners
 synthesis_source_count: 18
 research_papers_cited: 12
 phase1_qa_date: 2026-05-16

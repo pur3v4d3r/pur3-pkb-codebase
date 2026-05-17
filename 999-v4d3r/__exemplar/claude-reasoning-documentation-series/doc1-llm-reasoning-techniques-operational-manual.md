@@ -1,18 +1,50 @@
 ---
-tags: #llm-reasoning #operational-manual #tree-of-thoughts #self-consistency #chain-of-verification #extended-thinking #agentic-frameworks #prompt-engineering #production-guide #exemplar
-aliases: [LLM Reasoning Manual, Advanced Reasoning Operational Guide, AI Reasoning Exemplar, Reasoning Techniques Reference, Claude Reasoning Protocols]
 id: 20260213000010
-created: 2025-01-06
-modified: 2026-05-16
-status: production
-maturity: evergreen
-certainty: verified
-type: reference
+title: "LLM Reasoning Techniques Operational Manual"
+subtitle: "Operational Protocols for Tree-of-Thoughts, Self-Consistency, ReAct, Reflexion, Chain-of-Verification, and Eight Core Reasoning Systems"
+series: "Claude Reasoning Documentation Series"
+doc_number: 1
+tier: 2
+phase: 2
 version: 2.0.0
+status: production
+created: 2025-01-06
+modified: 2026-05-17
+tags:
+  - llm-reasoning
+  - operational-manual
+  - tree-of-thoughts
+  - self-consistency
+  - chain-of-verification
+  - extended-thinking
+  - agentic-frameworks
+  - prompt-engineering
+  - production-guide
+  - tier-2
+  - phase-2
+aliases:
+  - "LLM Reasoning Manual"
+  - "Advanced Reasoning Operational Guide"
+  - "AI Reasoning Exemplar"
+  - "Reasoning Techniques Reference"
+  - "Claude Reasoning Protocols"
+  - "Doc1"
+certainty: established
+doc_series_position: 1/10
+related_docs: []
+word_count: ~5739
+code_blocks: 28
+citations: 16
+wiki_links: 25
+maturity: evergreen
+type: reference
 source: claude-sonnet-4.5
 category: reasoning-architectures
 priority: critical
-audience: [llm-systems, advanced-practitioners, ai-engineers]
+audience:
+  - llm-systems
+  - advanced-practitioners
+  - ai-engineers
 synthesis_source_count: 25
 research_papers_cited: 16
 phase1_qa_date: 2026-05-16

@@ -1,19 +1,51 @@
 ---
-tags: #extended-thinking #thinking-tags #metacognition #xml-semantics #cognitive-architecture #claude-architecture #thinking-modes #production-deployment #optimization
-aliases: [Extended Thinking Guide, Thinking Tag Architecture, Claude Extended Thinking, Metacognitive Systems, Thinking Mode Configuration]
 id: 20260213000011
-created: 2025-01-06
-modified: 2026-05-16
-status: production
-maturity: evergreen
-certainty: verified
-type: implementation-guide
+title: "Extended Thinking Architecture Implementation Guide"
+subtitle: "XML Semantic Structure, Cognitive Scaffolding, Token Budget Management, and Production Configuration for Claude's Extended Reasoning"
+series: "Claude Reasoning Documentation Series"
+doc_number: 2
+tier: 2
+phase: 2
 version: 2.0.0
+status: production
+created: 2025-01-06
+modified: 2026-05-17
+tags:
+  - extended-thinking
+  - thinking-tags
+  - metacognition
+  - xml-semantics
+  - cognitive-architecture
+  - claude-architecture
+  - thinking-modes
+  - production-deployment
+  - optimization
+  - tier-2
+  - phase-2
+aliases:
+  - "Extended Thinking Guide"
+  - "Thinking Tag Architecture"
+  - "Claude Extended Thinking"
+  - "Metacognitive Systems"
+  - "Thinking Mode Configuration"
+  - "Doc2"
+certainty: established
+doc_series_position: 2/10
+related_docs:
+  - doc1-llm-reasoning-techniques-operational-manual
+word_count: ~7558
+code_blocks: 35
+citations: 15
+wiki_links: 28
+maturity: evergreen
+type: implementation-guide
 source: claude-sonnet-4.5
 category: extended-thinking-systems
 priority: critical
-audience: [llm-developers, ai-engineers, advanced-practitioners]
-related_docs: [doc1-llm-reasoning-techniques-operational-manual]
+audience:
+  - llm-developers
+  - ai-engineers
+  - advanced-practitioners
 synthesis_source_count: 22
 research_papers_cited: 15
 phase1_qa_date: 2026-05-16

@@ -10,7 +10,7 @@ import { syncToBackend } from '@/lib/storage';
 
 // ---- Types ----
 
-export type CardSource = 'mental-model' | 'dewey-phase' | 'fallacy';
+export type CardSource = 'mental-model' | 'dewey-phase' | 'fallacy' | 'user';
 
 /** A single flashcard built from the content JSON files. */
 export interface SRSCard {
@@ -23,6 +23,15 @@ export interface SRSCard {
   back: string;
   /** Optional secondary detail: example sentence or Dewey quote. */
   backDetail?: string;
+}
+
+/** A user-created card (saved from highlighted chapter text). */
+export interface UserSRSCard extends SRSCard {
+  source: 'user';
+  /** ISO timestamp when the card was created. */
+  createdAt: string;
+  /** The chapter this card was created from, if any. */
+  chapterId?: number;
 }
 
 /** SM-2 progress record stored in localStorage per card. */
@@ -157,4 +166,43 @@ export function getNextReviewDate(
     .filter((d): d is string => !!d && d > today)
     .sort();
   return future[0] ?? null;
+}
+
+// ---- User-created cards ----
+
+const USER_CARDS_KEY = 'deweyct-srs-user-cards';
+
+/** Returns all user-created SRS cards from localStorage. */
+export function getUserSRSCards(): UserSRSCard[] {
+  if (typeof window === 'undefined') return [];
+  try {
+    const raw = localStorage.getItem(USER_CARDS_KEY);
+    return raw ? (JSON.parse(raw) as UserSRSCard[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+/** Saves (inserts or updates) a user-created card in localStorage. */
+export function saveUserSRSCard(card: UserSRSCard): void {
+  const cards = getUserSRSCards();
+  const idx = cards.findIndex((c) => c.id === card.id);
+  if (idx >= 0) {
+    cards[idx] = card;
+  } else {
+    cards.push(card);
+  }
+  localStorage.setItem(USER_CARDS_KEY, JSON.stringify(cards));
+}
+
+/** Removes a user-created card and its SRS progress from localStorage. */
+export function deleteUserSRSCard(id: string): void {
+  const cards = getUserSRSCards().filter((c) => c.id !== id);
+  localStorage.setItem(USER_CARDS_KEY, JSON.stringify(cards));
+  // Also remove progress record so it doesn't linger
+  const progress = getSRSProgress();
+  if (id in progress) {
+    delete progress[id];
+    localStorage.setItem(SRS_KEY, JSON.stringify(progress));
+  }
 }

@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { getPortfolio, savePortfolioEntry, generateId } from '@/lib/storage';
 import type { PortfolioEntry } from '@/types/framework';
+import { SkeletonBlock } from '@/components/ui/Skeleton';
 
 // ---- Types ----
 
@@ -684,8 +685,22 @@ export default function AssessPage() {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-32 text-sm text-slate-400">
-        Loading dispositions…
+      <div className="mx-auto max-w-5xl space-y-6">
+        <div className="space-y-2">
+          <SkeletonBlock className="h-8 w-56" />
+          <SkeletonBlock className="h-4 w-80" />
+        </div>
+        <div className="flex gap-6">
+          <div className="flex-1 space-y-4">
+            <SkeletonBlock className="h-48 w-full" />
+            <SkeletonBlock className="h-48 w-full" />
+            <SkeletonBlock className="h-48 w-full" />
+          </div>
+          <div className="w-72 shrink-0 space-y-4">
+            <SkeletonBlock className="h-64 w-full" />
+            <SkeletonBlock className="h-32 w-full" />
+          </div>
+        </div>
       </div>
     );
   }

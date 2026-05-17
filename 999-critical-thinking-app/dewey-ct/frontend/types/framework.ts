@@ -71,7 +71,7 @@ export interface PortfolioEntry {
   id: string;
   createdAt: string;
   updatedAt: string;
-  type: 'template' | 'exercise' | 'reflection';
+  type: 'template' | 'exercise' | 'reflection' | 'practice-feedback';
   title: string;
   templateId?: string;
   exerciseId?: string;

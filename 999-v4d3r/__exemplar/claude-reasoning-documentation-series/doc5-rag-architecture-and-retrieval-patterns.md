@@ -1,32 +1,45 @@
 ---
 id: 20260516000015A
+title: "RAG Architecture and Retrieval Patterns"
+subtitle: "Hybrid Retrieval, HyDE, ColBERT, RAPTOR, and GraphRAG Implementation Reference for Production Knowledge Systems"
+series: "Claude Reasoning Documentation Series"
+doc_number: 5
+tier: 2
+phase: 2
 version: 2.0.0
 status: production
+created: 2026-05-16
+modified: 2026-05-17
+tags:
+  - llm-engineering
+  - rag
+  - retrieval-augmented-generation
+  - vector-databases
+  - production-ai-systems
+  - tier-2
+  - phase-2
+aliases:
+  - "RAG Architecture Guide"
+  - "Retrieval-Augmented Generation Patterns"
+  - "Vector Retrieval Reference"
+  - "Doc5"
+certainty: established
+doc_series_position: 5/10
+related_docs:
+  - doc1-llm-reasoning-techniques-operational-manual
+  - doc2-extended-thinking-architecture-implementation-guide
+word_count: ~5500
+code_blocks: 30
+citations: 15
+wiki_links: 25
 maturity: evergreen
 type: reference-note
-tags:
-  - "#llm-engineering"
-  - "#rag"
-  - "#retrieval-augmented-generation"
-  - "#vector-databases"
-  - "#production-ai-systems"
-aliases:
-  - RAG Architecture Guide
-  - Retrieval-Augmented Generation Patterns
-  - Vector Retrieval Reference
 synthesis_source_count: 22
 research_papers_cited: 15
 phase1_qa_date: 2026-05-16
 phase1_qa_status: passed
 phase2_qa_date:
 phase2_qa_status:
-created: 2026-05-16
-modified: 2026-05-16
-prerequisites:
-  - "[[doc1-llm-reasoning-techniques-operational-manual]]"
-  - "[[doc2-extended-thinking-architecture-implementation-guide]]"
-series_position: 5
-series_total: 10
 ---
 
 # RAG Architecture and Retrieval Patterns

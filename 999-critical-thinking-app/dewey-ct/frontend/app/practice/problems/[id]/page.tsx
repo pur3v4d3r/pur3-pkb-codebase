@@ -1,5 +1,6 @@
 import { getPracticeProblem, type PracticeProblemId } from '@/lib/content';
 import HintAccordion from '@/components/practice/HintAccordion';
+import PracticeEvalPanel from '@/components/practice/PracticeEvalPanel';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -125,6 +126,13 @@ export default function PracticeProblemDetailPage({ params }: { params: { id: st
         </Link>
       </section>
       )}
+
+      {/* AI Evaluation — learner submits their answer for Paul-Elder feedback */}
+      <PracticeEvalPanel
+        problemId={pp.id}
+        problemTitle={pp.title}
+        framework={pp.framework_label}
+      />
 
       {/* Hints (collapsible) */}
       {pp.hints.length > 0 && (

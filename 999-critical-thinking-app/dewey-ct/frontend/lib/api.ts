@@ -1,9 +1,8 @@
 // Client-side API utility for communicating with the FastAPI backend.
-// The backend is expected to be running at localhost:8000 in development,
-// or at the URL specified by NEXT_PUBLIC_API_URL in production.
+// Requests use relative URLs (/api/*) — Next.js rewrites proxy them to the
+// FastAPI server at localhost:8000. This avoids CORS entirely.
 
-const API_BASE =
-  process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, '') ?? 'http://localhost:8000';
+const API_BASE = '';
 
 // ---- Types ----
 
@@ -61,4 +60,59 @@ export function requestFeedback(payload: FeedbackPayload): Promise<FeedbackRespo
  */
 export function askQuestion(payload: QAPayload): Promise<QAResponse> {
   return post<QAResponse>('/api/qa/', payload);
+}
+
+// ---- Evaluate ----
+
+export interface StandardFeedback {
+  standard: string;
+  score: number;  // 1-5
+  comment: string;
+}
+
+export interface EvaluatePayload {
+  problem_id: string;
+  user_answer: string;
+}
+
+export interface EvaluateResponse {
+  overall_score: number;  // 1-5
+  strengths: string[];
+  improvements: string[];
+  next_step: string;
+  standards_feedback: StandardFeedback[];
+}
+
+/**
+ * Submit a learner's free-text answer to a practice problem for
+ * Paul-Elder structured evaluation. Calls POST /api/evaluate/
+ */
+export function evaluatePracticeAnswer(payload: EvaluatePayload): Promise<EvaluateResponse> {
+  return post<EvaluateResponse>('/api/evaluate/', payload);
+}
+
+// ---- Detect ----
+
+export interface DetectedFallacy {
+  name: string;
+  category: string;
+  quote: string;
+  explanation: string;
+}
+
+export interface DetectPayload {
+  text: string;
+}
+
+export interface DetectResponse {
+  fallacies: DetectedFallacy[];
+}
+
+/**
+ * Submit text to the backend for logical fallacy detection.
+ * Returns a (possibly empty) list of identified fallacies grounded in
+ * the logical-fallacies.json reference. Calls POST /api/detect/
+ */
+export function detectFallacies(payload: DetectPayload): Promise<DetectResponse> {
+  return post<DetectResponse>('/api/detect/', payload);
 }

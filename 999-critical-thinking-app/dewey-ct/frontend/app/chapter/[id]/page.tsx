@@ -3,6 +3,7 @@ import CalloutRenderer from '@/components/chapter/CalloutRenderer';
 import MarkReadButton from '@/components/chapter/MarkReadButton';
 import ChapterAnnotator from '@/components/chapter/ChapterAnnotator';
 import FrameworkCrosswalk from '@/components/chapter/FrameworkCrosswalk';
+import ChapterTOC from '@/components/chapter/ChapterTOC';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { MentalModel } from '@/types/framework';
@@ -74,7 +75,9 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
   const nextId = id < 19 ? id + 1 : null;
 
   return (
-    <div className="mx-auto max-w-3xl space-y-8">
+    <div className="flex gap-10">
+      {/* Main content column */}
+      <div className="min-w-0 max-w-3xl flex-1 space-y-8">
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-sm text-slate-500">
         <Link href="/" className="hover:text-slate-800">Chapters</Link>
@@ -109,14 +112,14 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
       </header>
 
       {/* Overview */}
-      <section className="rounded-lg bg-white p-6 shadow-sm ring-1 ring-slate-200">
+      <section id="ch-overview" className="rounded-lg bg-white p-6 shadow-sm ring-1 ring-slate-200">
         <h2 className="mb-3 text-xs font-semibold uppercase tracking-widest text-slate-400">Overview</h2>
         <p className="text-sm leading-relaxed text-slate-700">{chapter.overview}</p>
       </section>
 
       {/* Key Concepts */}
       {chapter.concepts.length > 0 && (
-        <section>
+        <section id="ch-concepts">
           <h2 className="mb-3 text-xs font-semibold uppercase tracking-widest text-slate-400">
             Key Concepts ({chapter.concepts.length})
           </h2>
@@ -132,7 +135,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
       )}
 
       {/* Callouts */}
-      <section>
+      <section id="ch-annotations">
         <h2 className="mb-1 text-xs font-semibold uppercase tracking-widest text-slate-400">
           Annotations &amp; Insights
         </h2>
@@ -145,7 +148,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
 
       {/* Connections */}
       {(chapter.connections.anticipates.length > 0 || chapter.connections.contrasts_with.length > 0) && (
-        <section className="rounded-lg bg-slate-100 p-5">
+        <section id="ch-connections" className="rounded-lg bg-slate-100 p-5">
           <h2 className="mb-3 text-xs font-semibold uppercase tracking-widest text-slate-500">
             Connections
           </h2>
@@ -182,11 +185,13 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
       )}
 
       {/* Framework Crosswalk */}
-      <FrameworkCrosswalk chapterId={id} />
+      <div id="ch-crosswalk">
+        <FrameworkCrosswalk chapterId={id} />
+      </div>
 
       {/* Related Mental Models */}
       {displayModels.length > 0 && (
-        <section>
+        <section id="ch-models">
           <div className="mb-3 flex items-center justify-between">
             <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">
               Related Mental Models ({relatedModels.length})
@@ -255,6 +260,12 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
 
       {/* Text selection → portfolio highlight */}
       <ChapterAnnotator chapterId={id} chapterTitle={chapter.title} />
+      </div>
+
+      {/* Sticky TOC sidebar */}
+      <aside className="hidden xl:block w-52 shrink-0 pt-2">
+        <ChapterTOC />
+      </aside>
     </div>
   );
 }

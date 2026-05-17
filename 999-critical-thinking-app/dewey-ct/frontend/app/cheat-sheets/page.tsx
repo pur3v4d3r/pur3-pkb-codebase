@@ -1,5 +1,6 @@
 import { getCheatSheets } from '@/lib/content';
 import CheatSheetsHub from '@/components/cheat-sheets/CheatSheetsHub';
+import PrintButton from '@/components/cheat-sheets/PrintButton';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -15,14 +16,19 @@ export default function CheatSheetsPage() {
     <div className="max-w-7xl mx-auto px-4 py-10">
       {/* Page header */}
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-slate-800 mb-2">Framework Cheat Sheets</h1>
-        <p className="text-slate-600 max-w-2xl leading-relaxed">
-          The essential structure of every major critical thinking framework — under 30 seconds
-          each. 17 frameworks, from FRISCO to DIKW, ready to deploy in any analysis.
-        </p>
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <h1 className="text-3xl font-bold text-slate-800 mb-2">Framework Cheat Sheets</h1>
+            <p className="text-slate-600 max-w-2xl leading-relaxed print:hidden">
+              The essential structure of every major critical thinking framework — under 30 seconds
+              each. 17 frameworks, from FRISCO to DIKW, ready to deploy in any analysis.
+            </p>
+          </div>
+          <PrintButton />
+        </div>
 
         {/* Category stat strip */}
-        <div className="flex flex-wrap gap-3 mt-6">
+        <div className="flex flex-wrap gap-3 mt-6 print:hidden">
           {[
             { label: 'CT Frameworks', count: 5, color: 'text-indigo-600', bg: 'border-indigo-200 bg-indigo-50' },
             { label: 'Argument Analysis', count: 3, color: 'text-violet-600', bg: 'border-violet-200 bg-violet-50' },
@@ -42,7 +48,7 @@ export default function CheatSheetsPage() {
       </div>
 
       {/* Usage tip */}
-      <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-4 mb-8 flex gap-3">
+      <div className="bg-indigo-50 border border-indigo-200 rounded-xl p-4 mb-8 flex gap-3 print:hidden">
         <span className="text-indigo-400 flex-shrink-0 mt-0.5">💡</span>
         <p className="text-sm text-indigo-800 leading-relaxed">
           <span className="font-semibold">How to use:</span> Scan a sheet before starting any
