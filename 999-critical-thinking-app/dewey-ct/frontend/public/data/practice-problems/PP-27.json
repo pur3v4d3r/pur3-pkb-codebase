@@ -1,0 +1,50 @@
+{
+  "id": "PP-27",
+  "pp_number": "PP-27",
+  "title": "Map the six Toulmin elements in a simple argument",
+  "framework": "toulmin-argument",
+  "framework_label": "Toulmin Argument Model",
+  "object_type": "argument mapping",
+  "difficulty": "easy",
+  "estimated_minutes": 15,
+  "related_worked_example_id": "WE-18",
+  "related_template_id": "toulmin-argument-map-v1",
+  "tags": ["toulmin-argument", "argument-mapping", "beginner", "structure", "reasoning"],
+  "object_of_analysis": "A simple argument made in an everyday conversation about changing internet providers.",
+  "context": "Argument analysis starts with structure recognition. Before you can evaluate whether an argument is good, you need to be able to see its skeleton — the Claim, Grounds, Warrant, Backing, Qualifier, and Rebuttal. This practice problem presents a short passage containing one complete informal argument. Your task is to identify and label all six Toulmin elements. The argument is deliberately simple and familiar so that you can focus entirely on structural recognition rather than content analysis.",
+  "instructions": "Read the argument below and:\n1. Identify the Claim (the conclusion being argued for).\n2. Identify the Grounds (the facts, evidence, or data offered in support).\n3. Identify the Warrant (the principle connecting the Grounds to the Claim — this may be implicit).\n4. Identify the Backing (evidence or authority supporting the Warrant itself — may need to be inferred).\n5. Identify the Qualifier (the conditions or degree of confidence expressed — may be implicit).\n6. Identify the Rebuttal (the conditions under which the Claim would not hold).\n\nFor each element, provide: (a) the text from the passage that corresponds to it (or [implied] if not stated), and (b) a one-sentence explanation of why you classified it as that element.\n\nTHE ARGUMENT:\n'You should switch internet providers. Our current plan costs £45 a month for 50Mb download speed. The provider I've been looking at offers 150Mb for £38 a month — that is three times the speed for less money. In general, if a competing service offers measurably better performance at a lower price, it makes sense to switch, and independent speed tests confirm these are real-world speeds, not just advertised figures. Obviously this assumes the contract termination fee doesn't make the switch uneconomical, and it wouldn't apply if we were locked into a long fixed-term contract that made early exit expensive.'",
+  "workspace_prompts": {
+    "Find the Claim": "What is the speaker trying to convince the listener to do or believe? The Claim is usually the conclusion — often stated at the beginning or end of the argument.",
+    "Find the Grounds": "What facts or evidence is the speaker offering? Grounds are the observable or documentable data — things that could in principle be verified. Look for specific figures, examples, or stated facts.",
+    "Identify the Warrant": "Why do those facts support that conclusion? The Warrant is the bridge — the general principle that makes the Grounds relevant to the Claim. It is often not stated explicitly. Ask: 'What general rule would make this reasoning valid?'",
+    "Qualifier and Rebuttal": "Look for hedging language ('usually', 'in most cases', 'assuming...') for the Qualifier. Look for 'unless', 'except if', 'this wouldn't apply if' for the Rebuttal."
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The Warrant is rarely stated",
+      "content": "In most everyday arguments, the Warrant is implicit — the speaker assumes the listener shares the underlying principle. In this argument, the speaker actually states the warrant explicitly (unusually). Look for a sentence that sounds like a general principle ('in general, if...'). That is the Warrant."
+    },
+    {
+      "id": "hint-2",
+      "title": "Backing vs Grounds — what is the difference?",
+      "content": "Grounds support the Claim. Backing supports the Warrant. In this argument, the specific speed and price figures are Grounds — they support the specific claim to switch providers. The reference to 'independent speed tests' is Backing — it supports the Warrant's assumption that the comparison is based on real performance, not just advertised figures."
+    },
+    {
+      "id": "hint-3",
+      "title": "Two Rebuttal conditions are present",
+      "content": "Look for the phrase 'Obviously this assumes...' — this introduces the Qualifier/Rebuttal section. Two specific conditions are named that would defeat the argument. Identify both and record them."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "CLAIM: 'You should switch internet providers.' This is the action conclusion the argument is trying to establish. Stated at the beginning.",
+      "GROUNDS: 'Our current plan costs £45/month for 50Mb. The new provider offers 150Mb for £38 — three times the speed for less money.' These are the specific factual data points offered as evidence. They are verifiable and concrete.",
+      "WARRANT: 'In general, if a competing service offers measurably better performance at a lower price, it makes sense to switch.' This is the general principle that connects the price/speed data (Grounds) to the switching recommendation (Claim). Unusually, it is explicitly stated here. In most real arguments you would need to infer it.",
+      "BACKING: 'Independent speed tests confirm these are real-world speeds, not just advertised figures.' This supports the Warrant by confirming that the performance comparison being used is reliable — the Warrant assumes the comparison is meaningful, and the backing establishes that it is.",
+      "QUALIFIER: [Partially implied in the Rebuttal section — the argument applies 'assuming the contract termination fee doesn't make the switch uneconomical' and 'provided we are not locked into a long fixed-term contract.']. The Qualifier limits the Claim to situations where these conditions are met.",
+      "REBUTTAL: 'It wouldn't apply if we were locked into a long fixed-term contract that made early exit expensive' / 'assumes the contract termination fee doesn't make the switch uneconomical.' Two explicit defeating conditions — if the exit costs make the financial comparison unfavourable, or if the contract prevents switching, the Claim does not hold.",
+      "META-LESSON: Notice that this is a fairly strong argument — it has explicit Grounds, an explicit Warrant, explicit Backing (unusual), and explicit Rebuttals. Most everyday arguments are weaker than this: they have implicit warrants, no backing, and no stated rebuttals. Knowing the full structure tells you exactly what questions to ask when an argument is incomplete."
+    ]
+  }
+}

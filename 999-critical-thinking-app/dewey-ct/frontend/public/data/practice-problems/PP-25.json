@@ -1,0 +1,48 @@
+{
+  "id": "PP-25",
+  "pp_number": "PP-25",
+  "title": "Name that bias: identify the cognitive bias in each scenario",
+  "framework": "cognitive-biases",
+  "framework_label": "Cognitive Biases",
+  "object_type": "identification",
+  "difficulty": "easy",
+  "estimated_minutes": 20,
+  "related_worked_example_id": "WE-17",
+  "related_template_id": null,
+  "tags": ["cognitive-biases", "identification", "pattern-recognition", "reasoning", "heuristics"],
+  "object_of_analysis": "Six short vignettes, each illustrating a single cognitive bias at work.",
+  "context": "Cognitive bias literacy starts with pattern recognition — being able to recognise familiar bias signatures in real situations. This practice problem presents six scenarios, each of which contains one primary cognitive bias. Your task is to name the bias, explain its mechanism in the specific context of each scenario, and suggest one concrete action that would partially correct for it. The six biases covered are: confirmation bias, availability heuristic, anchoring, sunk cost fallacy, dunning-kruger effect, and bandwagon effect.",
+  "instructions": "For each of the six scenarios below:\n1. Name the cognitive bias that is most prominently active.\n2. In 2-3 sentences, explain how the bias is distorting the person's thinking in this specific scenario.\n3. Suggest one concrete corrective action the person could take.\n\nSCENARIO A:\nA new team leader read an article claiming that 'open-plan offices destroy productivity.' She now notices every time someone in her open-plan office is distracted, and shares these observations at management meetings. She has not tracked or mentioned any instances where her team works effectively in the same environment.\n\nSCENARIO B:\nA safety manager is conducting a risk review of the company's transport fleet. He has been closely following news coverage of a high-profile lorry accident last month. He estimates the probability of a similar incident in their fleet at 15%. The base rate data for companies with their fleet size and safety programme actually suggests a probability of 0.3%.\n\nSCENARIO C:\nA negotiating team's opening offer was £450,000 for a commercial property. After extensive back-and-forth, they agree on £390,000 and feel they have achieved a great deal. An independent valuation later suggests the property's fair market value was £340,000.\n\nSCENARIO D:\nA startup has spent £200,000 developing a software product. Market research now suggests there is insufficient demand for the product to recoup the development costs. The founders decide to invest a further £80,000 in marketing, reasoning that they 'can't just write off £200,000.' \n\nSCENARIO E:\nA junior doctor has just passed her final exams and begins her first month in a hospital. When a senior consultant makes a diagnosis she finds surprising, she thinks privately that she would have made the same call herself. When she reviews her own exam performance, she rates her clinical reasoning as above average compared to her cohort.\n\nSCENARIO F:\nA local council is deciding whether to introduce a new recycling scheme. A councillor argues against it, noting that neighbouring councils have not adopted it. 'If it were a good idea,' he says, 'other councils would already be doing it. The fact that no one else has done it suggests we shouldn't either.'",
+  "workspace_prompts": {
+    "Name First": "Before explaining, commit to a name. The most common error is over-generalising — calling everything 'confirmation bias' or 'bias.' Each scenario is designed to illustrate a distinct mechanism. What is the specific name?",
+    "The Mechanism": "Explain the bias mechanism as it applies in this specific case. 'The person is experiencing confirmation bias' is insufficient. 'The person is selectively attending to evidence that confirms their pre-existing belief that open-plan offices are harmful, while ignoring disconfirming evidence' is the level of specificity required.",
+    "Corrective Action": "The corrective action should be specific and practical — not 'be more aware of biases.' What concrete step, different source of information, or different decision process would partially correct for this specific bias in this specific situation?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Distinguishing confirmation bias from availability heuristic",
+      "content": "Both biases can produce selective attention to evidence, but they have different mechanisms. Confirmation bias: you are selectively attending to evidence that confirms an existing belief. Availability heuristic: you are overestimating the frequency or probability of something because a vivid example is easily retrieved from memory. Scenario A is about a belief that drives selective observation. Scenario B is about a recent vivid event inflating a probability estimate."
+    },
+    {
+      "id": "hint-2",
+      "title": "Sunk cost fallacy — why it is not rational",
+      "content": "The sunk cost fallacy is the error of letting already-spent resources (money, time, effort) influence a forward-looking decision. Rationally, only future costs and future benefits should matter — the £200,000 is gone regardless of what the founders decide next. If the product will not generate sufficient return on another £80,000, that decision should be evaluated on its own merits, not in relation to the prior loss. The fallacy is treating a past loss as a reason to make a future investment."
+    },
+    {
+      "id": "hint-3",
+      "title": "Dunning-Kruger context",
+      "content": "The Dunning-Kruger effect describes the tendency for individuals with limited knowledge or skill in a domain to overestimate their competence, because they lack the metacognitive ability to accurately assess their own limitations. Crucially, Dunning-Kruger appears most strongly at the early stages of skill development — the junior doctor in Scenario E is at exactly this stage. The effect is not about being stupid — it is about the absence of the domain knowledge needed to recognise what you don't know."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "Scenario A: CONFIRMATION BIAS. The team leader's pre-existing belief (open-plan offices harm productivity) is directing her attention toward confirming instances (distractions) and away from disconfirming instances (effective work). Corrective: conduct a structured observation — count both distraction events and effective work episodes over one week, and compare them to the base rate before forming conclusions.",
+      "Scenario B: AVAILABILITY HEURISTIC. The recent, vivid lorry accident is dominating his mental sample of accident probability, inflating the estimate far above the actual base rate (0.3% vs 15% — a 50-fold overestimate). Corrective: explicitly anchor to base rate data. Look up the statistical frequency of incidents for fleet operations with their safety profile before estimating.",
+      "Scenario C: ANCHORING BIAS. The opening offer of £450,000 anchored the entire negotiation. The 'deal' of £390,000 feels good only relative to the anchor, not relative to fair market value. A 13% discount from an inflated anchor is not a good outcome — it is £50,000 above fair value. Corrective: before entering any negotiation, independently establish the best estimate of fair market value and use that as the reference point, not the counterparty's opening figure.",
+      "Scenario D: SUNK COST FALLACY. The £200,000 already spent cannot be recovered. The decision to invest a further £80,000 should be evaluated solely on whether the £80,000 marketing investment has a positive expected value — i.e., whether it would generate more than £80,000 in returns given the market research findings. The prior loss is irrelevant to this forward-looking calculation. Corrective: explicitly reframe the question as 'given what we know now about market demand, should we invest £80,000 in marketing?' — removing the £200,000 from the frame.",
+      "Scenario E: DUNNING-KRUGER EFFECT. The junior doctor is at the earliest stage of clinical expertise. She does not yet have the domain knowledge required to accurately evaluate the complexity of the consultant's diagnostic reasoning. Her self-assessment of 'above average' reflects the absence of a calibrated comparison point. Corrective: seek structured feedback — ask the consultant to explain their reasoning on surprising cases; use objective performance data (diagnostic accuracy over time) rather than subjective self-assessment.",
+      "Scenario F: BANDWAGON EFFECT (also: appeal to popularity / social proof). The councillor is treating 'no one else has done it' as evidence that it is a bad idea. This inverts causality — it is possible that neighbouring councils have also not analysed the scheme rigorously (or that they face different political constraints). Absence of adoption is not evidence of poor quality. Corrective: evaluate the scheme on its own merits — costs, evidence of effectiveness in similar contexts, projected environmental outcomes — rather than using neighbouring councils' adoption rate as a proxy for quality."
+    ]
+  }
+}

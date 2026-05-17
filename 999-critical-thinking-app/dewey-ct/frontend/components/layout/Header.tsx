@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import SearchTrigger from './SearchTrigger';
 
 interface NavLink {
   href: string;
@@ -37,6 +38,7 @@ export default function Header() {
               {link.label}
             </Link>
           ))}
+          <SearchTrigger />
         </nav>
       </div>
     </header>

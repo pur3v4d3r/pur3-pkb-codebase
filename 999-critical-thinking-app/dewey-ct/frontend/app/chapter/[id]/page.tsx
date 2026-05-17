@@ -1,6 +1,8 @@
 import { getChapter, getMentalModelsData } from '@/lib/content';
 import CalloutRenderer from '@/components/chapter/CalloutRenderer';
 import MarkReadButton from '@/components/chapter/MarkReadButton';
+import ChapterAnnotator from '@/components/chapter/ChapterAnnotator';
+import FrameworkCrosswalk from '@/components/chapter/FrameworkCrosswalk';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { MentalModel } from '@/types/framework';
@@ -179,6 +181,9 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
         </section>
       )}
 
+      {/* Framework Crosswalk */}
+      <FrameworkCrosswalk chapterId={id} />
+
       {/* Related Mental Models */}
       {displayModels.length > 0 && (
         <section>
@@ -247,6 +252,9 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
           </Link>
         ) : <span />}
       </nav>
+
+      {/* Text selection → portfolio highlight */}
+      <ChapterAnnotator chapterId={id} chapterTitle={chapter.title} />
     </div>
   );
 }

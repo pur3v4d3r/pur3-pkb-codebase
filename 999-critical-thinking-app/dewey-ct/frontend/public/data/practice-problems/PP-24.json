@@ -1,0 +1,49 @@
+{
+  "id": "PP-24",
+  "pp_number": "PP-24",
+  "title": "Redesign a set of test questions to target higher-order thinking",
+  "framework": "blooms-taxonomy",
+  "framework_label": "Bloom's Taxonomy (Revised)",
+  "object_type": "redesign task",
+  "difficulty": "medium",
+  "estimated_minutes": 30,
+  "related_worked_example_id": "WE-16",
+  "related_template_id": null,
+  "tags": ["blooms-taxonomy", "assessment-design", "higher-order-thinking", "education", "curriculum"],
+  "object_of_analysis": "A set of six exam questions from a Year 10 Biology unit on genetics, all currently targeting Level 1-2.",
+  "context": "You have been asked by a colleague to provide feedback on their draft exam for a Year 10 Biology class covering a unit on Mendelian genetics (dominant/recessive traits, Punnett squares, genotype vs phenotype). Your colleague says: 'I feel like all my questions are just recall — students can answer them by re-reading their notes. I want to test whether they actually understand genetics, not just whether they can memorise it. Can you help me redesign the questions to target higher-order thinking?'\n\nThe six original questions are listed below. Your task is to: (1) classify each question by Bloom's level, (2) rewrite each one to target a higher Bloom's level (Levels 3-6), and (3) explain the cognitive operation the redesigned question requires that the original did not.",
+  "instructions": "For each of the six questions below:\nStep 1: Classify the original question by Bloom's level (1-6) and state why.\nStep 2: Rewrite it to target a higher Bloom's level (at minimum Level 3; aim for Levels 4-6 where natural).\nStep 3: Identify the specific cognitive operation the redesigned question requires that the original did not.\n\nTHE SIX ORIGINAL QUESTIONS:\n1. 'Define the terms 'genotype' and 'phenotype.''\n2. 'List the four bases found in DNA.'\n3. 'What is the difference between a dominant allele and a recessive allele?'\n4. 'Complete the Punnett square for two heterozygous parents (Aa × Aa) and state the expected genotype ratios.'\n5. 'Name two examples of inherited traits in humans.'\n6. 'Explain what happens during meiosis in one paragraph.'",
+  "workspace_prompts": {
+    "Classification First": "Before redesigning, classify each original question precisely. What can a student do with their notes closed that would answer each question? Is it reproduce, explain, apply, break down, judge, or build?",
+    "Redesign Strategy": "For each question, think about what a student who truly understands the concept could do that a memoriser could not. Could you put them in a novel scenario? Ask them to predict an outcome? Ask them to evaluate conflicting data? Ask them to design something?",
+    "The Cognitive Operation": "After writing the redesigned question, name the specific cognitive move it requires. 'Apply' is not enough — what specifically are they applying, to what new context, and why does that require understanding rather than memorisation?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The Apply upgrade pattern",
+      "content": "Any Level 1-2 question ('define X', 'list X', 'explain X') can be upgraded to Level 3 (Apply) by adding: 'Here is a novel scenario — now use the concept.' For example, 'Define phenotype' becomes 'A farmer observes two white-fleeced sheep that produce a black-fleeced lamb. Using the concept of phenotype and genotype, explain how this is possible.' The student must now use the definition in context, not just reproduce it."
+    },
+    {
+      "id": "hint-2",
+      "title": "The Analyze upgrade pattern",
+      "content": "To reach Level 4 (Analyze), introduce comparison, assumption-identification, or causal breakdown. 'What is the difference between dominant and recessive alleles' (Level 2) becomes 'Two scientists disagree about whether a trait is dominant or recessive based on the same family pedigree data. What specific evidence in the pedigree would allow you to determine which scientist is correct?' Now the student must decompose the pedigree, identify the relevant pattern, and reason from evidence."
+    },
+    {
+      "id": "hint-3",
+      "title": "Punnett square question — it is already Level 3",
+      "content": "Question 4 is already Level 3 (Apply) — Punnett squares are a procedure that must be applied to a specific cross. To upgrade to Level 4-5, you might ask students to predict the phenotype ratios of F2 generation offspring when two specific traits are being crossed simultaneously (dihybrid cross), or ask them to evaluate whether the expected Mendelian ratios would actually appear in a real population of 20 offspring (introducing statistical reasoning and the difference between theoretical and empirical probability)."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "Q1 original: Level 1 (Remember) — reproduction of definitions. Redesign example: 'A dog breeder notices that two brown-coated dogs sometimes produce black-coated puppies. The breeder claims this is impossible because both parents are 'the same type.' Using the concepts of genotype and phenotype, evaluate the breeder's claim.' Level 5 (Evaluate) — students must use the concepts as analytical tools, not just reproduce them.",
+      "Q2 original: Level 1 (Remember) — list recall. Redesign example: 'A biochemist proposes replacing adenine with a synthetic base in a DNA sequence. Predict two structural or functional consequences this would have for DNA replication. Justify your predictions.' Level 5 (Evaluate) — requires applying base-pairing rules to predict outcomes and justify reasoning.",
+      "Q3 original: Level 2 (Understand) — explaining a distinction. Redesign example: 'In pea plants, yellow seed colour (Y) is dominant over green (y). A plant breeder wants to create a true-breeding line of yellow peas. Describe the breeding programme they would need to follow, and explain how they would use phenotype observations to confirm the plants are true-breeding (homozygous).' Level 4-5 — apply and evaluate.",
+      "Q4 original: Level 3 (Apply) — already higher-order. Redesign: 'You conduct an Aa × Aa cross and observe 40 offspring: 35 show the dominant phenotype and 5 show the recessive phenotype. The expected Mendelian ratio predicts 30 dominant and 10 recessive. Evaluate whether this result is consistent with Mendelian inheritance. What are two possible explanations for the discrepancy?' Level 5 (Evaluate) + beginning of Level 6 thinking.",
+      "Q5 original: Level 1 (Remember) — list recall. Redesign: 'A family pedigree shows that colour-blindness appears in three generations. Construct a hypothesis about whether the trait is dominant or recessive, and sex-linked or autosomal, based on the pattern in the pedigree. Identify what additional information would allow you to test your hypothesis.' Level 6 (Create) — constructing an original hypothesis and research design.",
+      "Q6 original: Level 2 (Understand) — explain a process. Redesign: 'Meiosis produces genetic variation through two mechanisms. For each mechanism, explain: (a) how it works, (b) at what stage of meiosis it occurs, and (c) why genetic variation is evolutionarily significant. Then evaluate: which mechanism contributes more to variation — justify your evaluation.' Level 5 (Evaluate).",
+      "META-LESSON: The redesign pattern is consistent — every upgrade adds either (a) a novel scenario requiring application, (b) comparative or causal analysis requiring decomposition, or (c) a judgment or construction task requiring evaluation or creation. The cognitive operation named in Step 3 is what distinguishes understanding from memorisation."
+    ]
+  }
+}

@@ -1,6 +1,7 @@
 import { getWorkedExample, type WorkedExampleId } from '@/lib/content';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import ProgressiveWorkedExample from '@/components/practice/ProgressiveWorkedExample';
 
 const VALID_IDS = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12', 'WE-13', 'WE-14', 'WE-15', 'WE-16', 'WE-17', 'WE-18'] satisfies WorkedExampleId[];
 
@@ -98,35 +99,8 @@ export default function WorkedExampleDetailPage({ params }: { params: { id: stri
         </section>
       )}
 
-      {/* Sections */}
-      <div className="space-y-8">
-        {we.sections.map((section, i) => (
-          <section key={i} className="space-y-3">
-            <h2 className="border-b border-slate-200 pb-1.5 text-base font-semibold text-slate-800">
-              {section.section_label}
-            </h2>
-            {section.content && (
-              <p className="whitespace-pre-wrap text-sm leading-relaxed text-slate-700">
-                {section.content}
-              </p>
-            )}
-            {section.fields && (
-              <dl className="space-y-4">
-                {section.fields.map((field, j) => (
-                  <div key={j} className="space-y-1">
-                    <dt className="text-xs font-semibold uppercase tracking-wide text-slate-500">
-                      {field.label}
-                    </dt>
-                    <dd className="whitespace-pre-wrap text-sm leading-relaxed text-slate-700">
-                      {field.content}
-                    </dd>
-                  </div>
-                ))}
-              </dl>
-            )}
-          </section>
-        ))}
-      </div>
+      {/* Sections — progressive reveal */}
+      <ProgressiveWorkedExample sections={we.sections} alwaysVisibleCount={1} />
 
       {/* Related links */}
       <footer className="flex flex-wrap gap-3 border-t border-slate-200 pt-6">

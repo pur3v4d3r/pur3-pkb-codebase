@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import Link from 'next/link';
 import {
   type SRSCard,
   type CardProgress,
@@ -322,13 +323,21 @@ export default function ReviewPage() {
           </p>
         </div>
         {reviewedCount > 0 && (
-          <button
-            type="button"
-            onClick={handleReset}
-            className="shrink-0 text-xs text-slate-400 transition hover:text-red-500"
-          >
-            Reset progress
-          </button>
+          <div className="flex shrink-0 items-center gap-3">
+            <Link
+              href="/review/stats"
+              className="text-xs font-medium text-indigo-600 hover:text-indigo-800 transition"
+            >
+              📊 Stats
+            </Link>
+            <button
+              type="button"
+              onClick={handleReset}
+              className="text-xs text-slate-400 transition hover:text-red-500"
+            >
+              Reset progress
+            </button>
+          </div>
         )}
       </div>
 

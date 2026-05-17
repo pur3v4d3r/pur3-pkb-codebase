@@ -1,0 +1,53 @@
+{
+  "id": "PP-23",
+  "pp_number": "PP-23",
+  "title": "Classify these ten learning activities by Bloom's level",
+  "framework": "blooms-taxonomy",
+  "framework_label": "Bloom's Taxonomy (Revised)",
+  "object_type": "classification",
+  "difficulty": "easy",
+  "estimated_minutes": 15,
+  "related_worked_example_id": "WE-16",
+  "related_template_id": null,
+  "tags": ["blooms-taxonomy", "classification", "learning", "education"],
+  "object_of_analysis": "A list of ten learning activities from a first-year university History course.",
+  "context": "Your lecturer has provided a study guide with ten suggested activities to prepare for the end-of-term essay and oral presentation. The activities are listed below without explanation. Your task is to classify each activity by Bloom's Revised Taxonomy level (Remember, Understand, Apply, Analyze, Evaluate, Create) and use that classification to identify which cognitive levels are missing from your preparation and which are over-represented.",
+  "instructions": "For each of the ten activities listed below, (a) name the Bloom's level it primarily targets, (b) write a one-sentence justification, and (c) after completing all ten, identify the gap: which Bloom's levels are covered and which are absent?\n\nTHE TEN ACTIVITIES:\n1. Re-read your lecture notes from Weeks 1-6.\n2. Write out the key dates of the French Revolution from memory.\n3. In your own words, explain what historians mean by 'primary source' vs 'secondary source.'\n4. Use a primary source document (provided) to illustrate how propaganda was used during the First World War.\n5. Compare two competing historians' interpretations of the causes of World War One.\n6. Identify the implicit assumptions in the following historian's argument: [excerpt provided by lecturer].\n7. Write an essay arguing for one cause of the French Revolution over others.\n8. Create a timeline that shows the sequence of events leading to the fall of the Berlin Wall.\n9. Assess whether the evidence in a given article is sufficient to support its thesis.\n10. Develop a research question for the oral presentation and outline a methodology to investigate it.",
+  "workspace_prompts": {
+    "Activity Classification": "Go through each activity one by one. What cognitive operation does each one require? Does it require recall, comprehension, application to a new case, breaking something into parts, making judgments, or building something new?",
+    "Justify Each Level": "For each activity, can you state in one sentence why you classified it at that level rather than the one above or below it? What is the cognitive operation that defines the boundary?",
+    "Gap Analysis": "After classifying all ten, look at the distribution. What does a gap at Level 4-6 mean for your preparation for an essay assessment? What does over-representation at Level 1-2 mean?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "How to distinguish Remember from Understand",
+      "content": "Remember = can you reproduce information with the notes/text absent? Understand = can you put it in your own words, explain it to someone else, or describe why it matters? Re-reading produces familiarity (recognition memory), which is closer to Remember. Writing a definition in your own words is Understand."
+    },
+    {
+      "id": "hint-2",
+      "title": "How to distinguish Apply from Analyze",
+      "content": "Apply = using a known concept or procedure in a new situation (using a primary source to illustrate propaganda). Analyze = breaking something down into its components and examining how they relate (identifying assumptions in an argument, comparing two historians' interpretations by unpacking their evidence and reasoning)."
+    },
+    {
+      "id": "hint-3",
+      "title": "Timeline classification — harder than it looks",
+      "content": "Creating a timeline (Activity 8) might seem like a Create task because you are 'making' something. But a timeline that merely sequences known events is primarily a Understand/Apply task — you are organising existing information. A Create-level timeline would involve building an original interpretive framework, not just sequencing facts."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "Activity 1 (Re-read notes): REMEMBER. Passive recognition — the reader is not required to reproduce or use the information.",
+      "Activity 2 (Key dates from memory): REMEMBER. Active recall of specific facts — the simplest form of retrieval.",
+      "Activity 3 (Define in own words): UNDERSTAND. Restating concepts in your own language requires comprehension beyond recognition.",
+      "Activity 4 (Use primary source to illustrate): APPLY. Applying an abstract concept (propaganda) to a specific historical document in a new context.",
+      "Activity 5 (Compare historians' interpretations): ANALYZE. Comparison requires decomposing both interpretations, identifying relevant dimensions, and examining how evidence is used differently.",
+      "Activity 6 (Identify implicit assumptions): ANALYZE. Assumption identification requires separating stated claims from unstated premises — this is core analytical work.",
+      "Activity 7 (Write essay arguing a position): EVALUATE + CREATE. Defending one cause requires making evaluative judgments about relative importance; structuring an original argument is also a creative act. Primary level: Evaluate.",
+      "Activity 8 (Create timeline): UNDERSTAND / APPLY. Organising known events in sequence. Only reaches Create if the sequencing involves original interpretive decisions.",
+      "Activity 9 (Assess sufficiency of evidence): EVALUATE. Applying criteria (sufficiency, relevance, quality of evidence) to make a judgment about an argument's support.",
+      "Activity 10 (Develop research question + methodology): CREATE. Generating an original research design by combining knowledge, methodology, and analytical judgment.",
+      "GAP ANALYSIS: Activities 1-3 are at Level 1-2. If a student only does 1-3, they will be severely underprepared for the essay (primarily Level 5-6) and the analysis questions (Level 4). Activities 5, 6, 9 are essential for analytical preparation; Activities 7 and 10 are the only ones that approach the actual assessment level."
+    ]
+  }
+}

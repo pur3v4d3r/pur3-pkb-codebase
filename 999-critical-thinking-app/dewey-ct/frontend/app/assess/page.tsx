@@ -204,11 +204,268 @@ function DispositionRow({
   );
 }
 
-interface PastAssessmentsProps {
-  refreshKey: number;
+// ---- Recommendations engine ----
+
+interface DispRec {
+  chapters: { num: number }[];
+  templateId?: string;
+  templateName?: string;
+  fallacyDrill?: boolean;
 }
 
-function PastAssessments({ refreshKey }: PastAssessmentsProps) {
+const DISP_RECS: { keywords: string[]; rec: DispRec }[] = [
+  {
+    keywords: ['reason', 'evidence', 'source', 'credible', 'information', 'well-informed'],
+    rec: { chapters: [{ num: 11 }, { num: 5 }], templateId: 'argument-analysis-v1', templateName: 'Argument Analysis', fallacyDrill: true },
+  },
+  {
+    keywords: ['open', 'fair', 'alternative', 'position', 'change'],
+    rec: { chapters: [{ num: 2 }, { num: 4 }], templateId: 'socratic-questioning-v1', templateName: 'Socratic Questioning' },
+  },
+  {
+    keywords: ['clear', 'precise', 'definition', 'thesis', 'statement', 'question'],
+    rec: { chapters: [{ num: 10 }, { num: 9 }], templateId: 'see-i-elaboration-v1', templateName: 'SEE-I Elaboration' },
+  },
+  {
+    keywords: ['systematic', 'orderly', 'complex', 'whole', 'relevant', 'main point'],
+    rec: { chapters: [{ num: 7 }], templateId: 'dewey-reflective-v1', templateName: 'Dewey Reflective' },
+  },
+  {
+    keywords: ['sensitiv', 'sophistication', 'feeling'],
+    rec: { chapters: [{ num: 2 }], templateId: 'socratic-questioning-v1', templateName: 'Socratic Questioning' },
+  },
+  {
+    keywords: ['confidence', 'trust', 'self', 'mature'],
+    rec: { chapters: [{ num: 1 }], templateId: 'metacognitive-reflection-v1', templateName: 'Metacognitive Reflection' },
+  },
+  {
+    keywords: ['inquisit', 'curious', 'inquir', 'aware'],
+    rec: { chapters: [{ num: 3 }, { num: 1 }], templateId: 'paul-elder-analysis-v1', templateName: 'Paul-Elder Analysis' },
+  },
+  {
+    keywords: ['analyt', 'interpret', 'inference', 'conclusion', 'truth-seek', 'truth seek'],
+    rec: { chapters: [{ num: 5 }, { num: 12 }], templateId: 'argument-analysis-v1', templateName: 'Argument Analysis', fallacyDrill: true },
+  },
+];
+
+function getRecForDisposition(label: string): DispRec {
+  const lower = label.toLowerCase();
+  for (const { keywords, rec } of DISP_RECS) {
+    if (keywords.some((kw) => lower.includes(kw))) return rec;
+  }
+  // Default fallback
+  return { chapters: [{ num: 7 }], templateId: 'paul-elder-analysis-v1', templateName: 'Paul-Elder Analysis' };
+}
+
+interface AssessRecItem {
+  id: string;
+  label: string;
+  value: number;
+}
+
+function AssessRecommendations({ bottomItems }: { bottomItems: AssessRecItem[] }) {
+  const recs = bottomItems.map((item) => ({
+    item,
+    rec: getRecForDisposition(item.label),
+  }));
+
+  return (
+    <div className="rounded-xl border border-amber-200 bg-amber-50 p-5">
+      <h3 className="mb-1 font-semibold text-amber-900">Recommended next steps</h3>
+      <p className="mb-4 text-xs text-amber-700">
+        Based on your lowest-rated dispositions — pick one to work on first.
+      </p>
+      <div className="space-y-4">
+        {recs.map(({ item, rec }) => (
+          <div key={item.id} className="rounded-lg border border-amber-100 bg-white p-4 shadow-sm">
+            <p className="mb-2 text-xs font-semibold text-slate-700">
+              <span className="mr-1.5 rounded-full bg-red-100 px-1.5 py-0.5 text-xs font-bold text-red-700">
+                {item.value}
+              </span>
+              {item.label}
+            </p>
+            <div className="flex flex-wrap gap-2">
+              {rec.chapters.slice(0, 2).map(({ num }) => (
+                <a
+                  key={num}
+                  href={`/chapter/${num}`}
+                  className="rounded-md border border-indigo-200 bg-indigo-50 px-2.5 py-1 text-xs font-medium text-indigo-700 transition hover:bg-indigo-100"
+                >
+                  📖 Ch. {num}
+                </a>
+              ))}
+              {rec.templateId && (
+                <a
+                  href={`/templates/${rec.templateId}`}
+                  className="rounded-md border border-violet-200 bg-violet-50 px-2.5 py-1 text-xs font-medium text-violet-700 transition hover:bg-violet-100"
+                >
+                  📝 {rec.templateName}
+                </a>
+              )}
+              {rec.fallacyDrill && (
+                <a
+                  href="/review"
+                  className="rounded-md border border-amber-200 bg-amber-50 px-2.5 py-1 text-xs font-medium text-amber-700 transition hover:bg-amber-100"
+                >
+                  🃏 Drill fallacies
+                </a>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// ---- Cluster Breakdown (#14) ----
+
+function ClusterBreakdown({
+  sections,
+  ratings,
+}: {
+  sections: FrameworkSection[];
+  ratings: Record<string, number>;
+}) {
+  return (
+    <div className="mt-6 space-y-5 border-t border-slate-100 pt-6">
+      <p className="text-[10px] font-semibold uppercase tracking-widest text-slate-500">
+        Cluster Breakdown
+      </p>
+      {sections.map((section) => (
+        <div key={section.key}>
+          <p className="mb-2.5 text-[11px] font-semibold text-slate-700">
+            {section.title}
+          </p>
+          <div className="space-y-2">
+            {section.clusters.map((cluster) => {
+              const avg = average(
+                cluster.items.map((i) => ratings[i.id] ?? 5),
+              );
+              return (
+                <div key={cluster.cluster} className="flex items-center gap-3">
+                  <span
+                    className="w-48 shrink-0 truncate text-[11px] text-slate-600"
+                    title={cluster.cluster}
+                  >
+                    {cluster.cluster}
+                  </span>
+                  <div className="flex-1 overflow-hidden rounded-full bg-slate-100 h-2">
+                    <div
+                      className={`h-full rounded-full transition-all duration-700 ${scoreBg(avg)}`}
+                      style={{ width: `${((avg - 1) / 9) * 100}%` }}
+                    />
+                  </div>
+                  <span
+                    className={`w-7 shrink-0 text-right text-xs font-bold tabular-nums ${scoreColor(avg)}`}
+                  >
+                    {avg}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+// ---- Sparkline + TrendRow (#15) ----
+
+function Sparkline({
+  values,
+  width = 80,
+  height = 24,
+}: {
+  values: number[];
+  width?: number;
+  height?: number;
+}) {
+  if (values.length < 2) return null;
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const range = max - min || 1;
+  const pts = values
+    .map((v, i) => {
+      const x = (i / (values.length - 1)) * (width - 4) + 2;
+      const y = height - 2 - ((v - min) / range) * (height - 4);
+      return `${x},${y}`;
+    })
+    .join(' ');
+  const lastVal = values[values.length - 1];
+  const lx = width - 2;
+  const ly = height - 2 - ((lastVal - min) / range) * (height - 4);
+  return (
+    <svg
+      width={width}
+      height={height}
+      viewBox={`0 0 ${width} ${height}`}
+      className="overflow-visible"
+      aria-hidden="true"
+    >
+      <polyline
+        points={pts}
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="1.5"
+        strokeLinejoin="round"
+        strokeLinecap="round"
+      />
+      <circle cx={lx} cy={ly} r={2.5} fill="currentColor" />
+    </svg>
+  );
+}
+
+function TrendRow({
+  label,
+  values,
+}: {
+  label: string;
+  values: number[];
+}) {
+  const latest = values[values.length - 1];
+  const first = values[0];
+  const delta = Math.round((latest - first) * 10) / 10;
+  return (
+    <div className="flex items-center gap-3 rounded px-2 py-1.5 hover:bg-slate-50">
+      <span
+        className="w-44 shrink-0 truncate text-[11px] text-slate-600"
+        title={label}
+      >
+        {label}
+      </span>
+      <span
+        className={`w-7 shrink-0 text-right text-[11px] font-bold tabular-nums ${scoreColor(latest)}`}
+      >
+        {latest}
+      </span>
+      <div className={`flex-1 ${scoreColor(latest)}`}>
+        <Sparkline values={values} width={100} height={22} />
+      </div>
+      <span
+        className={`w-8 shrink-0 text-right text-[10px] font-semibold tabular-nums ${
+          delta > 0
+            ? 'text-green-600'
+            : delta < 0
+              ? 'text-red-500'
+              : 'text-slate-300'
+        }`}
+      >
+        {delta === 0 ? '—' : delta > 0 ? `▲${delta}` : `▼${Math.abs(delta)}`}
+      </span>
+    </div>
+  );
+}
+
+// ---- Past assessments ----
+
+interface PastAssessmentsProps {
+  refreshKey: number;
+  sections: FrameworkSection[];
+}
+
+function PastAssessments({ refreshKey, sections }: PastAssessmentsProps) {
   const [history, setHistory] = useState<PortfolioEntry[]>([]);
 
   useEffect(() => {
@@ -223,42 +480,101 @@ function PastAssessments({ refreshKey }: PastAssessmentsProps) {
 
   if (history.length === 0) return null;
 
+  // Oldest-first for charting
+  const chronological = [...history].reverse();
+
+  const allItems = sections.flatMap((s) =>
+    s.clusters.flatMap((c) => c.items),
+  );
+
+  function clusterAvg(
+    e: PortfolioEntry,
+    items: DispositionItem[],
+  ): number {
+    const r = e.responses as Record<string, number>;
+    const vals = items
+      .map((i) => r[i.id])
+      .filter((v): v is number => typeof v === 'number');
+    return average(vals);
+  }
+
+  function overallAvgFor(e: PortfolioEntry): number {
+    const r = e.responses as Record<string, number>;
+    const vals = allItems
+      .map((i) => r[i.id])
+      .filter((v): v is number => typeof v === 'number');
+    return average(vals);
+  }
+
+  const showTrend = history.length >= 3;
+
   return (
-    <details className="rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm">
-      <summary className="cursor-pointer select-none text-xs font-medium text-slate-600">
-        Past assessments ({history.length})
-      </summary>
-      <div className="mt-3 divide-y divide-slate-100">
-        {history.map((e) => {
-          const responses = e.responses as Record<string, unknown>;
-          const vals = Object.values(responses)
-            .map((v) => (typeof v === 'number' ? v : null))
-            .filter((v): v is number => v !== null);
-          const avg = vals.length > 0 ? average(vals) : null;
-          return (
-            <div
-              key={e.id}
-              className="flex items-center justify-between py-2 text-xs"
-            >
-              <span className="text-slate-600">{e.title}</span>
-              <div className="flex items-center gap-3">
-                {avg !== null && (
+    <div className="space-y-4">
+      {/* ── Trend chart (#15) ── */}
+      {showTrend && (
+        <div className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+          <div className="mb-4 flex items-center justify-between">
+            <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+              Trend
+            </h3>
+            <span className="text-[10px] text-slate-400">
+              {chronological.length} assessments · oldest → newest
+            </span>
+          </div>
+          <div className="space-y-1">
+            {/* Overall */}
+            <TrendRow
+              label="Overall average"
+              values={chronological.map(overallAvgFor)}
+            />
+            <div className="my-2 border-t border-slate-100" />
+            {/* Per cluster */}
+            {sections.flatMap((section) =>
+              section.clusters.map((cluster) => (
+                <TrendRow
+                  key={`${section.key}-${cluster.cluster}`}
+                  label={cluster.cluster}
+                  values={chronological.map((e) =>
+                    clusterAvg(e, cluster.items),
+                  )}
+                />
+              )),
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* ── History list ── */}
+      <details className="rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm">
+        <summary className="cursor-pointer select-none text-xs font-medium text-slate-600">
+          Past assessments ({history.length})
+        </summary>
+        <div className="mt-3 divide-y divide-slate-100">
+          {history.map((e) => {
+            const avg = overallAvgFor(e);
+            return (
+              <div
+                key={e.id}
+                className="flex items-center justify-between py-2 text-xs"
+              >
+                <span className="text-slate-600">{e.title}</span>
+                <div className="flex items-center gap-3">
                   <span className={`font-bold ${scoreColor(avg)}`}>
                     {avg}/10
                   </span>
-                )}
-                <Link
-                  href={`/portfolio/${e.id}`}
-                  className="text-slate-400 hover:text-slate-700"
-                >
-                  view →
-                </Link>
+                  <Link
+                    href={`/portfolio/${e.id}`}
+                    className="text-slate-400 hover:text-slate-700"
+                  >
+                    view →
+                  </Link>
+                </div>
               </div>
-            </div>
-          );
-        })}
-      </div>
-    </details>
+            );
+          })}
+        </div>
+      </details>
+    </div>
   );
 }
 
@@ -508,6 +824,9 @@ export default function AssessPage() {
             1 = Rarely · 5 = Sometimes · 10 = Consistently
           </p>
 
+          {/* Cluster breakdown */}
+          <ClusterBreakdown sections={sections} ratings={ratings} />
+
           {/* Strengths & development areas */}
           <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
             <div>
@@ -552,6 +871,11 @@ export default function AssessPage() {
         </div>
       )}
 
+      {/* ── Recommendations ── */}
+      {allItems.length > 0 && bottom3.length > 0 && (
+        <AssessRecommendations bottomItems={bottom3} />
+      )}
+
       {/* ── Save ── */}
       <div className="flex items-center gap-4">
         <button
@@ -577,7 +901,7 @@ export default function AssessPage() {
       </div>
 
       {/* ── Past assessments ── */}
-      <PastAssessments refreshKey={saveCount} />
+      <PastAssessments refreshKey={saveCount} sections={sections} />
     </div>
   );
 }

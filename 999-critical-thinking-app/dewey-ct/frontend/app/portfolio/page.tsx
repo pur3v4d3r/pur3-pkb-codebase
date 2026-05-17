@@ -14,6 +14,7 @@ const typeColors: Record<string, string> = {
 export default function PortfolioPage() {
   const [entries, setEntries] = useState<PortfolioEntry[]>([]);
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null);
+  const [activeTag, setActiveTag] = useState<string | null>(null);
   const [importStatus, setImportStatus] = useState<
     { type: 'success' | 'error'; message: string } | null
   >(null);
@@ -59,10 +60,13 @@ export default function PortfolioPage() {
     }
   }
 
-  // Sort newest first
-  const sorted = [...entries].sort(
-    (a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime(),
-  );
+  // All unique tags across entries (sorted alphabetically)
+  const allTags = Array.from(new Set(entries.flatMap((e) => e.tags))).sort();
+
+  // Sort newest first, then apply tag filter
+  const sorted = [...entries]
+    .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+    .filter((e) => activeTag === null || e.tags.includes(activeTag));
 
   return (
     <div className="space-y-6">
@@ -116,12 +120,58 @@ export default function PortfolioPage() {
         </div>
       )}
 
+      {/* Tag filter pill bar */}
+      {allTags.length > 0 && (
+        <div className="flex flex-wrap items-center gap-2">
+          <button
+            type="button"
+            onClick={() => setActiveTag(null)}
+            className={`rounded-full px-3 py-1 text-xs font-medium transition ${
+              activeTag === null
+                ? 'bg-slate-800 text-white'
+                : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+            }`}
+          >
+            All
+          </button>
+          {allTags.map((tag) => (
+            <button
+              key={tag}
+              type="button"
+              onClick={() => setActiveTag(activeTag === tag ? null : tag)}
+              className={`rounded-full px-3 py-1 text-xs font-medium transition ${
+                activeTag === tag
+                  ? 'bg-indigo-600 text-white'
+                  : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+              }`}
+            >
+              #{tag}
+            </button>
+          ))}
+        </div>
+      )}
+
       {sorted.length === 0 ? (
         <div className="rounded-lg border border-dashed border-slate-300 bg-white p-12 text-center">
-          <p className="text-sm text-slate-500">No portfolio entries yet.</p>
-          <p className="mt-1 text-xs text-slate-400">
-            Complete a template or exercise to save your first entry.
-          </p>
+          {entries.length === 0 ? (
+            <>
+              <p className="text-sm text-slate-500">No portfolio entries yet.</p>
+              <p className="mt-1 text-xs text-slate-400">
+                Complete a template or exercise to save your first entry.
+              </p>
+            </>
+          ) : (
+            <>
+              <p className="text-sm text-slate-500">No entries tagged #{activeTag}.</p>
+              <button
+                type="button"
+                onClick={() => setActiveTag(null)}
+                className="mt-2 text-xs text-indigo-600 hover:underline"
+              >
+                Clear filter
+              </button>
+            </>
+          )}
         </div>
       ) : (
         <div className="grid grid-cols-1 gap-4">

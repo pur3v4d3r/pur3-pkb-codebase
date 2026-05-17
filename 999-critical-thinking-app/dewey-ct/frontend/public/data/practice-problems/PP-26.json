@@ -1,0 +1,52 @@
+{
+  "id": "PP-26",
+  "pp_number": "PP-26",
+  "title": "Multi-bias audit of a hospital staffing decision",
+  "framework": "cognitive-biases",
+  "framework_label": "Cognitive Biases",
+  "object_type": "analysis",
+  "difficulty": "medium",
+  "estimated_minutes": 40,
+  "related_worked_example_id": "WE-17",
+  "related_template_id": null,
+  "tags": ["cognitive-biases", "decision-analysis", "multi-bias", "healthcare", "institutional-decision"],
+  "object_of_analysis": "A hospital trust's decision to cut overnight nursing staff on surgical wards based on a cost-efficiency review.",
+  "context": "A mid-sized NHS hospital trust has completed an internal cost-efficiency review. The review recommends reducing overnight nursing staff on three surgical wards from 4 nurses per ward to 3, citing two pieces of evidence: (1) incident reports from night shifts over the past year showed 'no critical staffing-related events' on those wards, and (2) a neighbouring trust has operated at 3:1 nurse-to-ward ratios overnight for three years without reported issues. The review committee approves the recommendation 7-1. The one dissenting vote was from the Trust's Director of Nursing, who is on a fixed-term contract and did not elaborate her objections in the meeting minutes.\n\nYour task is to conduct a systematic multi-bias audit of this decision process. You are not being asked to judge whether the staffing reduction is right or wrong — you are being asked to identify which cognitive biases may be distorting the committee's confidence in the evidence, and what corrective actions would produce a more reliable decision.",
+  "instructions": "Part 1 — Bias Identification: Identify at least four cognitive biases that are plausibly active in this decision. For each bias:\n  a) Name the bias precisely.\n  b) Describe the specific mechanism by which it is operating in this scenario.\n  c) Estimate the severity of its distortion effect on the decision (Low / Medium / High) and justify your estimate.\n\nPart 2 — Evidence Quality Assessment: The committee's decision rests on two pieces of evidence. For each piece of evidence, critically assess its quality using the biases you identified in Part 1. What does each piece of evidence actually tell us, and what does it not tell us?\n\nPart 3 — Corrective Actions: Propose three concrete corrective actions the committee should take before finalising the decision. For each action, specify: (a) which bias it addresses, (b) what information or process it adds, and (c) how much time/resource it would realistically require.",
+  "workspace_prompts": {
+    "Part 1 - Bias Scan": "Walk through the scenario systematically. Who generated the evidence? Who is interpreting it? What is the information environment — what is being seen and what is being excluded? What social dynamics are present in the committee? What framing assumptions are embedded in the review's question?",
+    "Part 2 - Evidence Audit": "For Evidence 1 ('no critical staffing-related events'): What would you need to know to assess whether this is meaningful? What could explain this finding besides 'staffing was adequate'? For Evidence 2 (neighbouring trust's ratio): What would make this evidence representative or non-representative?",
+    "Part 3 - Prioritise": "You cannot address all biases equally. Which three corrective actions would give the most return on investment — i.e., which biases represent the highest-risk distortions, and what is the minimum corrective action that would substantially reduce each one?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Survivorship bias is particularly important here",
+      "content": "The committee is looking at reported incidents. What does 'no reported incidents' actually tell you? Think about the difference between 'no incidents occurred' and 'no incidents were reported' — and think about whether current staffing levels are what prevented incidents, or whether current staffing is at the minimum level where incidents become likely. The absence of a fire in the last year is not evidence that removing the smoke detector is safe."
+    },
+    {
+      "id": "hint-2",
+      "title": "The lone dissenter and groupthink",
+      "content": "The Director of Nursing voted against the recommendation and did not elaborate her objections in the meeting minutes. Consider why a domain expert might not elaborate dissenting views, and what structural conditions produce that outcome. Is this the Nursing Director's genuine considered view that the evidence is adequate? Or is there something about the committee dynamics that made elaboration difficult or unlikely to change the outcome?"
+    },
+    {
+      "id": "hint-3",
+      "title": "The anchoring in the review's framing",
+      "content": "The review was framed as a 'cost-efficiency review.' This framing embeds an anchor: the committee is primed to look for cost-reduction opportunities and to evaluate evidence in terms of whether cost reduction is safe, rather than asking 'what is the optimal staffing level given patient outcomes evidence?' The question being asked shapes what evidence feels relevant."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "BIAS 1 — SURVIVORSHIP BIAS (HIGH severity): 'No reported critical incidents' in the incident report system tells us only about events that were reported and classified as critical. It does not tell us about: near-misses not formally logged; incidents attributed to other causes; patient deterioration that was caught late but not classified as a 'critical staffing event'; the long-run base rate. High severity because the committee is treating absence of reported incidents as strong evidence of adequate staffing — but the reporting system is itself imperfect and the absence of a large observed signal does not confirm safety at current margins.",
+      "BIAS 2 — CONFIRMATION BIAS (MEDIUM-HIGH severity): The review was commissioned to identify cost savings. The committee is therefore motivated to find evidence supporting reduction. Two pieces of supportive evidence were brought to the committee; no evidence examining conditions under which the 4:1 ratio has prevented incidents was systematically gathered. Medium-high because the information environment is asymmetric — pro-reduction evidence was sought and presented; disconfirming evidence would require active additional work to surface.",
+      "BIAS 3 — ANCHORING (MEDIUM severity): The neighbouring trust's 3:1 ratio has been adopted as an implicit anchor for what constitutes acceptable staffing. But the neighbouring trust was not selected as a comparison group using any methodology — it was selected because it was convenient and supported the cost-reduction conclusion. Its comparability on relevant dimensions (patient acuity mix, ward complexity, support staff availability) has not been assessed. Medium severity because the anchor may not be the right comparator.",
+      "BIAS 4 — GROUPTHINK (MEDIUM-HIGH severity): The 7-1 vote, combined with the dissenting expert's unexplained vote, is a red flag. The Director of Nursing is the committee's subject-matter expert on nursing workforce. Her dissent without elaboration suggests either that she did elaborate but was not recorded (minutes failure), or that committee dynamics did not create a safe space for domain expert dissent. The absence of documented disagreement from the most relevant expert is itself a signal that groupthink may have suppressed legitimate challenge. Medium-high severity.",
+      "EVIDENCE 1 ASSESSMENT ('no critical staffing-related events'): This evidence tells us that the incident reporting system did not generate critical incident reports attributed to staffing. It does not tell us: the level of unreported near-misses; whether incidents were classified under other root causes; whether the current 4:1 ratio is actively preventing incidents that would occur at 3:1. The correct question to ask is not 'did anything bad happen?' but 'what is our expected incident rate at 3:1, given patient acuity data and research on nurse-to-patient ratios?'",
+      "EVIDENCE 2 ASSESSMENT (neighbouring trust's ratio): One trust's three-year track record at 3:1 provides very weak evidence. We do not know: whether that trust's surgical wards have similar patient acuity; whether they have had unreported or differently-attributed incidents; whether their support staff structure supplements the nursing ratio in ways the reviewing trust lacks. The sample size is 1; the comparison methodology is absent.",
+      "CORRECTIVE ACTION 1 — Systematic literature review on nurse-to-patient ratios and surgical ward outcomes (addresses Confirmation Bias + Anchoring): Commission a rapid evidence review from the NHS England evidence service or academic partner. Time: 2-3 weeks. This replaces the convenience-comparator evidence with actual research evidence.",
+      "CORRECTIVE ACTION 2 — Director of Nursing written briefing (addresses Groupthink): Require the Director of Nursing to submit a written statement of her dissenting reasoning before the decision is finalised. Hold a structured 30-minute session where her concerns are explicitly addressed. Time: 1 week.",
+      "CORRECTIVE ACTION 3 — Near-miss and unreported incident audit (addresses Survivorship Bias): Commission a 3-month review of nursing handover notes, escalation calls, and patient monitoring alerts to identify near-miss events that were not captured as formal incident reports. Time: 4-6 weeks."
+    ],
+    "revised_position": "The committee's 7-1 confidence in this decision is not warranted by the quality of the evidence presented. The evidence base relies on a survivorship-biased incident reporting system and a single non-validated comparator. Before the decision is finalised, the three corrective actions above should be completed. The decision may ultimately be correct — but it cannot be made at 7-1 confidence on current evidence."
+  }
+}

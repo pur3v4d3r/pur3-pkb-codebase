@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { getPortfolioEntry, deletePortfolioEntry } from '@/lib/storage';
 import type { PortfolioEntry } from '@/types/framework';
 import type { RawTemplate, RawTemplateField } from '@/components/template/TemplateForm';
+import ToulminDiagram from '@/components/argument-map/ToulminDiagram';
 
 interface FieldDisplay {
   fieldId: string;
@@ -354,6 +355,26 @@ export default function PortfolioDetailPage({ params }: { params: { id: string }
           </div>
         )}
       </div>
+
+      {/* Toulmin Argument Diagram */}
+      {entry.templateId === 'toulmin-map' && (() => {
+        const r = entry.responses as Record<string, string>;
+        return (
+          <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+            <h2 className="mb-4 text-xs font-semibold uppercase tracking-widest text-slate-500">
+              Argument Structure
+            </h2>
+            <ToulminDiagram
+              claim={r.claim}
+              data={r.data}
+              warrant={r.warrant}
+              backing={r.backing}
+              qualifier={r.qualifier}
+              rebuttal={r.rebuttal}
+            />
+          </div>
+        );
+      })()}
 
       {/* Field responses */}
       {filledFields.length === 0 ? (

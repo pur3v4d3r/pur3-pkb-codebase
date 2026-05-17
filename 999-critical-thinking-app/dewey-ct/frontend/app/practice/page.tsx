@@ -1,5 +1,6 @@
 import { getAllWorkedExamples, getAllPracticeProblems } from '@/lib/content';
 import PracticeFilters from '@/components/practice/PracticeFilters';
+import Link from 'next/link';
 
 export const metadata = {
   title: 'Practice — DeweyCT',
@@ -29,6 +30,14 @@ export default function PracticePage() {
           <a href="#practice-problems" className="font-medium text-indigo-600 hover:underline">
             Practice Problems ({practiceProblems.length})
           </a>
+          <span className="text-slate-300">|</span>
+          <Link href="/practice/spot-the-fallacy" className="font-medium text-indigo-600 hover:underline">
+            Spot the Fallacy (28 scenarios)
+          </Link>
+          <span className="text-slate-300">|</span>
+          <Link href="/argument-map/new" className="font-medium text-indigo-600 hover:underline">
+            Argument Map Builder
+          </Link>
         </div>
       </section>
 

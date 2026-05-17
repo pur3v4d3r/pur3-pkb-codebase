@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import Header from "@/components/layout/Header";
+import SearchPalette from "@/components/layout/SearchPalette";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -28,6 +29,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-slate-50 antialiased`}>
         <Header />
+        <SearchPalette />
         <main className="mx-auto max-w-7xl px-4 py-8">
           {children}
         </main>

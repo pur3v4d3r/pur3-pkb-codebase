@@ -31,6 +31,7 @@ Then open your browser and navigate to:
 
 ```html
 
+http://localhost:3000
 http://localhost:3001
 
 ```
@@ -126,7 +127,6 @@ D:\10_pur3v4d3r's-vault\999-critical-thinking-app
 
 **8. Spaced repetition review queue**  
 Flash-card style review for mental model definitions, framework cheat sheets, and Dewey concepts — with a simple SM-2 scheduling algorithm. Entirely client-side (localStorage). High retention value, ~1 week of build time.
-
 
 
 
