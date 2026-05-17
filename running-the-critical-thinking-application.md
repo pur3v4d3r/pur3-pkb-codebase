@@ -220,8 +220,6 @@ D:\10_pur3v4d3r's-vault\999-critical-thinking-app
 
 - In Practrice Page add in additional Advanced Worked examples and begginer examples intermediate dominates atm.-> Mainly adcvanced begginer just needs a couple
 
-- In practice page -> Drop down for framework there is two different versions of dule prosses theory -> the one to keep -> "Dual Process Theory of Cognition -> works correctly
-page -> spot the fallacy -> add a cancle button that bring you back to the main practice page like aurguments map has
 
 
 
@@ -232,4 +230,4 @@ page -> spot the fallacy -> add a cancle button that bring you back to the main 
 - Add in another work example for every framework in practice page
 
 
-
+- Cognitive bias page need a complete list with discription and how to counteract of Cognitive bias page

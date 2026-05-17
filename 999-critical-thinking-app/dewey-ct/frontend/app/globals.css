@@ -39,17 +39,13 @@ body {
 .dark .text-slate-600 { color: rgb(203 213 225); }  /* → slate-300 */
 .dark .text-slate-500 { color: rgb(148 163 184); }  /* → slate-400 */
 
-/* Card / panel surfaces: soft grey instead of blinding white or pitch-dark */
-.dark .bg-white         { background-color: rgb(241 245 249); }  /* → slate-100 (light grey) */
-.dark .border-slate-200 { border-color:     rgb(203 213 225); }  /* → slate-300            */
+/* Card / panel surfaces: slate-700 gives visible elevation over the slate-900 body */
+.dark .bg-white    { background-color: rgb(51 65 85); }   /* → slate-700 */
+.dark .bg-slate-50 { background-color: rgb(51 65 85); }   /* → slate-700 */
 
-/* Inside those light-grey cards, restore dark text so it remains readable.
-   Higher specificity (3 classes) beats the body-level rules above (2 classes). */
-.dark .bg-white .text-slate-900 { color: rgb(15  23  42);  }  /* original slate-900 */
-.dark .bg-white .text-slate-800 { color: rgb(30  41  59);  }  /* original slate-800 */
-.dark .bg-white .text-slate-700 { color: rgb(51  65  85);  }  /* original slate-700 */
-.dark .bg-white .text-slate-600 { color: rgb(71  85  105); }  /* original slate-600 */
-.dark .bg-white .text-slate-500 { color: rgb(100 116 139); }  /* original slate-500 */
+/* Borders */
+.dark .border-slate-200 { border-color: rgb(71 85 105); }  /* → slate-600 */
+.dark .border-slate-300 { border-color: rgb(71 85 105); }  /* → slate-600 */
 
 /* ─── Print: hide chrome, force white, avoid card breaks ─── */
 @media print {

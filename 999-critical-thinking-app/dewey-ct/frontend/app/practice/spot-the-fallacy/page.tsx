@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
+import Link from 'next/link';
 
 // ---- Types matching logical-fallacies.json ----
 
@@ -166,6 +167,12 @@ export default function SpotTheFallacyPage() {
           >
             Go to SRS Review →
           </a>
+          <Link
+            href="/practice"
+            className="text-sm font-medium text-slate-500 hover:text-slate-800"
+          >
+            ← Back to Practice
+          </Link>
         </div>
       </div>
     );
@@ -177,6 +184,9 @@ export default function SpotTheFallacyPage() {
       {/* Header */}
       <div className="flex items-center justify-between">
         <div>
+          <Link href="/practice" className="mb-1 inline-flex items-center gap-1 text-xs font-medium text-slate-500 hover:text-slate-800">
+            ← Practice
+          </Link>
           <h1 className="text-xl font-bold text-slate-900">Spot the Fallacy</h1>
           <p className="text-xs text-slate-500">
             Read the scenario — which fallacy is being committed?
