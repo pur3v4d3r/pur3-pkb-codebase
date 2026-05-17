@@ -275,10 +275,13 @@ export default function TemplateForm({ template }: TemplateFormProps) {
         framework_context: field.llm_evaluation_criterion,
       });
       setFeedbackMap((prev) => ({ ...prev, [field.field_id]: result }));
-    } catch {
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err);
       setApiError((prev) => ({
         ...prev,
-        [field.field_id]: 'Could not reach the AI backend. Is the server running at localhost:8000?',
+        [field.field_id]: msg.startsWith('API error')
+          ? `Backend error: ${msg}`
+          : `Could not reach the AI backend (${msg}). Is the server running at localhost:8000?`,
       }));
     } finally {
       setLoadingField(null);

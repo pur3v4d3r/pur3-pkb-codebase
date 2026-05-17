@@ -1,0 +1,50 @@
+{
+  "id": "PP-22",
+  "pp_number": "PP-22",
+  "title": "Use Pre-Mortem thinking to stress-test a research project before submission",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Pre-Mortem",
+  "mental_model_id": "pre-mortem",
+  "object_type": "problem",
+  "difficulty": "easy",
+  "estimated_minutes": 20,
+  "related_worked_example_id": null,
+  "related_template_id": null,
+  "tags": ["mental-models", "pre-mortem", "inversion", "planning", "research", "quality", "risk"],
+  "object_of_analysis": "A graduate student is 3 days away from submitting a thesis chapter that represents 6 months of research work. The chapter presents original qualitative analysis of interview data from 22 participants, draws on 40+ sources, and makes 3 central claims about the relationship between institutional culture and individual learning behavior in corporate settings. The student's confidence is 4/5 that the chapter is ready to submit. The supervisor has not yet reviewed the final draft.",
+  "context": "The student has been working on this chapter in isolation for the past 3 weeks, incorporating feedback from a draft review 2 months ago. The chapter is 12,000 words. The supervisor is known for rigorous methodological critique and has returned two previous chapter drafts with major revisions. The student wants to confirm whether the chapter is genuinely ready for submission or whether there are specific weaknesses that should be addressed before sending it to the supervisor.",
+  "instructions": "Apply Pre-Mortem thinking to stress-test the research chapter. The Pre-Mortem technique: instead of asking 'is this ready?', imagine it is 4 weeks from now and the supervisor has returned the chapter with a request for major revisions. The question is not 'might this happen?' but 'given that it has happened, what went wrong?' Generate the 4 most plausible revision scenarios, organized by category (methodology, argument, evidence, presentation). For each scenario: describe what specifically went wrong, identify the early warning signs that would have indicated the problem before submission, and describe what the student should check now to determine whether the problem actually exists.",
+  "workspace_prompts": {
+    "pre_mortem_setup": "You are 4 weeks in the future. The supervisor has returned the chapter requesting major revisions with the note: 'This needs substantial rework before it can proceed.' What went wrong? Do not ask whether this will happen — assume it has happened, and generate the most plausible accounts of why. Generate at least 4 distinct revision scenarios.",
+    "methodology_scenario": "The most common reason for major revisions in qualitative research is methodological. What is the most plausible methodological problem that the supervisor will identify? Consider: the justification for the sample size (n=22), the rigor of the coding process (was it documented and systematic or informal?), the treatment of contradictory data from participants who don't fit the central claims, and the positionality statement.",
+    "argument_scenario": "What is the most plausible argument-level problem? Consider: whether the 3 central claims are clearly stated and independently supported, whether the logical chain from evidence to claims is watertight, whether there are implicit assumptions in the claims that the student has not examined, and whether the claims are appropriately qualified or overstated.",
+    "verification_tasks": "For each revision scenario you identified: what is the specific check the student should perform NOW to determine whether the problem actually exists? The goal is to catch real problems in the next 3 days, not to catastrophize."
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The isolation problem — why the student is at high risk of blind spots",
+      "content": "The student has been working in isolation for 3 weeks since the last draft review. The pre-mortem should include a scenario for 'problems I cannot see because I am too close to this work.' After 6 months of deep immersion in the material, the student will have developed invisible assumptions — about what terms mean, about what background knowledge the reader has, about which claims are obvious and which require support. A common major revision request from supervisors is: 'You have assumed knowledge the reader doesn't have' or 'You use a term on page 4 that you define on page 11.' The check: read the chapter as if you are encountering this topic for the first time."
+    },
+    {
+      "id": "hint-2",
+      "title": "The contradictory participant data — the most commonly avoided problem",
+      "content": "In qualitative research with 22 participants, some participants almost always provide data that does not support the central claims. How the researcher handles this is often a focus of supervisor critique: (1) Are the non-conforming cases acknowledged? (2) Is there an explanation for why they don't conform? (3) Are the central claims appropriately qualified to account for the variation? The pre-mortem check: go through the data and actively look for the 3-4 participants whose interview content most challenges the central claims. Are they in the chapter? How are they treated?"
+    },
+    {
+      "id": "hint-3",
+      "title": "The 'central claims' check — are they actually in the chapter?",
+      "content": "The student describes 3 central claims. The pre-mortem check for argument structure: can you state each claim in one sentence? Is that sentence somewhere explicitly in the chapter, or is the claim implicit? For each claim: what is the evidence that directly supports it (not evidence that is consistent with it — evidence that distinctly supports it over competing explanations)? Supervisors commonly return chapters with 'I couldn't find where you state the main argument' or 'the evidence you cite is consistent with this claim but doesn't uniquely support it.' The check: write down each claim in one sentence, then find the exact page and paragraph where that claim is stated."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "SCENARIO 1 — METHODOLOGICAL RIGOR (HIGH PROBABILITY): The supervisor questions whether the qualitative coding was systematic. Specific problem: the coding process was not documented — the student cannot show how they moved from raw interview transcripts to the codes used to support the claims. Warning signs: if the student cannot describe the coding procedure in 3 sentences, it is not documented. Check now: can the student show a codebook, a coding audit trail, or at minimum a written description of the coding process? If not, spend 4 hours documenting the process before submitting.",
+      "SCENARIO 2 — TREATMENT OF NEGATIVE CASES (HIGH PROBABILITY): Some participants provided data that contradicts or complicates the central claims, and they are either absent from the chapter or mentioned briefly without explanation. Warning signs: the student can identify participants who 'didn't fit' but cannot say where they appear in the analysis. Check now: actively search for the 3-5 participants most likely to challenge each claim and confirm they appear in the chapter with their complexity acknowledged.",
+      "SCENARIO 3 — CLAIM OVERSTATED (MEDIUM PROBABILITY): One or more of the 3 central claims is stated more broadly than the evidence supports. A claim derived from 22 participants in corporate settings may be stated as if it applies to 'organizational learning' generally. Warning signs: the student feels confident in the claims but has not checked whether each claim is appropriately bounded to the sample. Check now: reread each claim and ask 'is this claim scoped to what this specific study can actually support?'",
+      "SCENARIO 4 — ISOLATION BLIND SPOTS (MEDIUM PROBABILITY): After 3 weeks of isolation and 6 months of immersion, the student has developed invisible assumptions about what the reader knows. Warning signs: sections that 'obviously' connect to the student feel dense or confusing when read aloud. Check now: read the entire chapter aloud, marking every place where you have to re-read a sentence to understand it — these are candidate blind spots. Additionally, have someone who has NOT read the chapter read the introduction and tell you what they think the 3 claims are.",
+      "PRE-MORTEM VALUE: The pre-mortem does not predict that any of these problems exist — it identifies the highest-probability failure modes so the student can check for them proactively. If all four checks pass, the student can submit with a higher-quality confidence (4/5 based on active stress-testing) rather than a naive confidence (4/5 based on absence of obvious problems found during normal review)."
+    ]
+  }
+}

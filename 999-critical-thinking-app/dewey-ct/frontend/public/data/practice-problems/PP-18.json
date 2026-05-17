@@ -1,0 +1,52 @@
+{
+  "id": "PP-18",
+  "pp_number": "PP-18",
+  "title": "Apply Second-Order Thinking to a company's transition to fully remote work",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Second-Order Thinking",
+  "mental_model_id": "second-order-thinking",
+  "object_type": "policy",
+  "difficulty": "medium",
+  "estimated_minutes": 25,
+  "related_worked_example_id": "WE-14",
+  "related_template_id": null,
+  "tags": ["mental-models", "second-order-thinking", "policy", "remote-work", "organizations", "systems"],
+  "object_of_analysis": "A 120-person technology company is considering transitioning from a hybrid (3 days in office) policy to fully remote. The stated rationale: (1) reduce office lease costs ($1.8M/year); (2) access a wider talent pool by removing geographic restrictions; (3) respond to employee survey feedback showing 72% prefer fully remote. The company is 8 years old, profitable, with a product team of 40 engineers, a sales team of 25, and a customer success team of 20.",
+  "context": "The CEO and COO are aligned on making the transition. The VP of Engineering is cautiously supportive. The VP of Sales is opposed but has not articulated a specific objection beyond 'culture.' The board is neutral but concerned about productivity metrics. The transition would take effect in 6 months. The company has a 3-year office lease with 18 months remaining, so the earliest the cost savings materialize is at lease expiry.",
+  "instructions": "Apply Second-Order Thinking to evaluate this policy transition. For each first-order effect stated in the rationale, trace the second and third-order effects that each triggers — focusing on 'who responds to this change and how?' Your analysis should cover: (1) the second-order effects of the cost-saving rationale; (2) the second-order effects of the talent-pool rationale; (3) the second-order effects of the employee-preference rationale. Identify at least one second-order effect per rationale that operates in the opposite direction to the first-order effect.",
+  "workspace_prompts": {
+    "first_order_mapping": "List all three stated first-order effects from the rationale. For each, identify: who in the system responds to this change? (Think about employees, managers, candidates, customers, competitors, the real estate market). What is the most rational response of each actor?",
+    "second_order_effects": "For each actor response you identified: what does that response produce as a second-order effect? Look specifically for feedback loops (A causes B which changes A), compensation effects (A causes B which offsets A), and distributional effects (A benefits some actors and harms others within the same group).",
+    "time_horizons": "Second-order effects often operate on different timescales than first-order effects. For each effect you identified, categorize it: immediate (0-3 months), medium-term (3-18 months), or long-term (18+ months). Which effects emerge on a longer timescale than the decision-makers are likely considering?",
+    "conditions": "Based on your second-order analysis, under what specific conditions does this transition achieve its intended goals? Under what conditions does it produce the opposite of its intended goals? What is the most important condition to verify before committing?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The talent pool expansion — who responds and how?",
+      "content": "The first-order effect is: going fully remote expands the talent pool (you can now hire anyone, not just people within commuting distance). The second-order question: if you can hire anyone, so can every other tech company that goes remote. The talent market becomes more competitive, not less, for the most sought-after remote-capable candidates. Consider also: the company's current employees were hired partly because they lived in the local area. Fully remote means they can now also be recruited by any company — the same expansion of optionality that makes your recruiting easier makes your retention harder."
+    },
+    {
+      "id": "hint-2",
+      "title": "The 72% employee preference — who is in that 72%?",
+      "content": "72% prefer fully remote. Who is in the other 28%? In most organizations, early-career and junior employees disproportionately prefer in-office (proximity to mentors, visibility, social connection during career formation). Senior employees and parents of young children disproportionately prefer remote. If the 72% preference is driven by senior employees, the second-order effect on junior employee development, onboarding quality, and promotion-from-within rates may be negative. Consider: what is the distribution of the 72% by tenure, level, and role?"
+    },
+    {
+      "id": "hint-3",
+      "title": "The VP of Sales opposition — what is the real objection?",
+      "content": "The VP of Sales is opposed and says 'culture.' This is a thin articulation of a potentially strong second-order concern. Sales team cohesion is often built through shared social experience — the informal conversations between calls, the peer coaching in the office, the team energy around big wins. Second-order question: what happens to sales team performance and retention if the informal cohesion mechanism is removed? Does the sales team have a disproportionately high share of mid-tenure employees who joined because of the culture, and who may leave or underperform in a fully remote environment?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "FIRST-ORDER 1 — COST SAVING: $1.8M/year saved. SECOND-ORDER: The lease has 18 months remaining — no savings materialize until then. In the interim, the company incurs transition costs (remote infrastructure, async-work tooling, management training, potential attrition and replacement costs). The net cost in year 1 is likely negative, not positive.",
+      "FIRST-ORDER 2 — TALENT POOL EXPANSION: Can hire from a national talent pool. SECOND-ORDER (same direction): access to candidates who are highly productive remote workers. SECOND-ORDER (opposite direction): existing employees can now also be recruited by any national company. Retention risk increases for high performers, particularly those who could access higher-paying remote roles at larger companies. The talent-pool effect works symmetrically against the company.",
+      "FIRST-ORDER 3 — EMPLOYEE PREFERENCE: 72% prefer remote. SECOND-ORDER: The 28% who prefer hybrid/office are disproportionately likely to be junior employees who depend on proximity to senior colleagues for development. If junior employee development slows, the company's internal promotion pipeline degrades, leading to higher hiring costs for senior roles at a 2-3 year lag.",
+      "SECOND-ORDER ON SALES TEAM: The VP of Sales opposition deserves specific second-order investigation. Sales teams have specific culture mechanisms (shared war stories, peer accountability, informal coaching) that are harder to replicate remotely. If sales team cohesion drops and attrition increases, the revenue impact could offset the $1.8M lease saving. The sales team is the most at-risk unit for remote-work productivity degradation.",
+      "THIRD-ORDER — MANAGEMENT COMPETENCY MISMATCH: The current management team was hired and developed in a hybrid/in-office environment. Managing remote teams effectively requires different skills — async communication, documentation culture, trust-building without proximity. The company is implicitly assuming its management competency transfers to remote management, which may not be true for all 15+ managers.",
+      "CONDITIONS FOR SUCCESS: The transition achieves its goals if: (1) retention remains stable among senior employees; (2) an explicit junior development program replaces the informal proximity-based mentorship; (3) the sales team receives specific remote-culture investment (not just tools but structured social rituals); (4) management training precedes the transition, not follows it.",
+      "MOST IMPORTANT CONDITION TO VERIFY: Whether the 28% who prefer hybrid are disproportionately junior employees in critical development roles — this is the second-order effect with the longest lag and the hardest recovery path."
+    ]
+  }
+}

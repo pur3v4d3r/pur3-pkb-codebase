@@ -1,0 +1,53 @@
+{
+  "id": "PP-21",
+  "pp_number": "PP-21",
+  "title": "Apply the Map vs Territory model to diagnose a strategic plan that significantly missed its targets",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Map vs Territory",
+  "mental_model_id": "map-vs-territory",
+  "object_type": "problem",
+  "difficulty": "hard",
+  "estimated_minutes": 35,
+  "related_worked_example_id": null,
+  "related_template_id": null,
+  "tags": ["mental-models", "map-vs-territory", "strategy", "planning", "organizations", "epistemology"],
+  "object_of_analysis": "A SaaS company's 3-year strategic plan projected 40% annual revenue growth, reaching $24M ARR at the end of Year 3. Actual results: Year 1: $10M ARR (target: $12.5M, miss: -20%); Year 2: $14M ARR (target: $17.5M, miss: -20%); Year 3: $17M ARR (target: $24M, miss: -29%). The plan was built on market analysis, customer interviews, and a competitive review that the leadership team described as the most thorough strategic planning process they had undertaken. The leadership team is now asking: what went wrong?",
+  "context": "The strategic plan contained: (1) a market sizing model projecting a $2B TAM in the company's segment; (2) a competitive analysis identifying 4 primary competitors with specific weaknesses the company would exploit; (3) a growth model projecting customer acquisition based on historical conversion rates applied to a planned increase in marketing spend; (4) a product roadmap timed to deliver 3 differentiating features by specific dates in Years 1-2. Actual events: the TAM projection was largely correct; 2 of the 4 identified competitors introduced new features that neutralized the company's planned advantages; the conversion rates declined from historical levels as the market became more saturated; 2 of 3 planned features shipped 6+ months late.",
+  "context_note": "The Map vs Territory model states: the map is not the territory. Any representation of reality (a model, a plan, a forecast, a strategy) is a simplification of the actual system it describes. The map has edges (what it excludes), resolution limits (how precisely it represents what it includes), and assumptions (what it treats as stable). When a plan underperforms, the diagnosis often lies in examining the ways the map diverged from the territory.",
+  "instructions": "Apply the Map vs Territory model to diagnose why the strategic plan underperformed. Your analysis should: (1) identify what the plan's map excluded — the features of the competitive territory that were not represented in the map; (2) identify where the map's resolution was insufficient — where the plan represented something too coarsely; (3) identify the load-bearing assumptions in the plan that turned out to be wrong; (4) distinguish between 'the plan was wrong because the underlying data was wrong' and 'the plan was wrong because the map structure was wrong' — these require different remedies.",
+  "workspace_prompts": {
+    "map_edges": "What was not on the map at all — features of the competitive landscape that the plan simply did not account for? The two competitors who introduced new features: were they not on the map (unidentified), or were they on the map but their response was not represented? What category of uncertainty did the plan treat as known when it was actually unknown?",
+    "map_resolution": "Where was the map's resolution insufficient — where did it represent something real but too coarsely to be useful? The conversion rate projection used historical rates. What did that projection miss about the difference between the historical environment and the projected environment? The product roadmap projected feature delivery dates — what did it fail to represent about the uncertainty in those dates?",
+    "load_bearing_assumptions": "A load-bearing assumption is one that, if wrong, collapses a significant part of the plan's logic. Identify the 3 most important load-bearing assumptions in this plan. For each: state the assumption explicitly, identify where in the plan the assumption was embedded, and assess whether the assumption could have been stress-tested before committing to the plan.",
+    "diagnosis": "Based on your map analysis: was the primary failure that the map's data was wrong (the market research was inaccurate) or that the map's structure was wrong (the plan's framework for thinking about competition and growth was inadequate)? What would a better map have looked like, and what information would it have represented that the actual map did not?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "Static maps and dynamic territories",
+      "content": "The most common failure mode in strategic planning is that the map is built at a point in time and treated as a static representation of a dynamic territory. The competitive analysis identified 4 competitors with specific weaknesses — but competitors are responsive agents, not static features of the landscape. The map treated competitor capabilities as fixed when they were actually time-varying. A more accurate map would have represented competitors as agents with their own strategies, resources, and incentives to respond to the company's moves."
+    },
+    {
+      "id": "hint-2",
+      "title": "The conversion rate assumption — map resolution problem",
+      "content": "The growth model applied historical conversion rates to a projected increase in marketing spend. The map resolution problem: historical conversion rates were measured in a specific competitive and market environment. As the market matures (more competitors, more informed buyers, more comparison-shopping), conversion rates typically decline even as marketing spend increases. The map used a single point estimate for conversion rate when it should have used a range — or a model of how conversion rate changes as a function of market saturation. The assumption of stable conversion rates was a resolution problem, not a data problem."
+    },
+    {
+      "id": "hint-3",
+      "title": "The product roadmap — what maps of complex work systematically get wrong",
+      "content": "Product roadmaps are particularly susceptible to the map/territory gap because software development is a discovery process, not a production process. The plan treated feature delivery dates as approximately predictable. In a discovery process, the estimated time to complete work is systematically underestimated because the map of what needs to be done becomes more accurate only as the work progresses. The 6+ month delays on 2 of 3 features were not a failure of execution — they were the predictable result of treating a discovery process as if it were a production schedule."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "MAP EDGE 1 — COMPETITOR RESPONSE: The competitive analysis identified competitor weaknesses but did not represent competitors as adaptive agents. The plan's competitive advantage was predicated on competitors NOT responding. When 2 of 4 competitors did respond with new features, the plan had no contingency because competitor response was off the edge of the map entirely. A better map would have asked: 'What is each competitor's most likely response to our differentiation strategy, and what is our counter-response?'",
+      "MAP EDGE 2 — MARKET MATURATION DYNAMICS: The conversion rate model was derived from historical data without representing the mechanism by which conversion rates change over time. As a market matures, the 'easy' customers (who convert quickly with minimal sales effort) are acquired first. Later cohorts of customers require more evaluation time, more competitive comparison, and more social proof. The plan's growth model did not represent this dynamic — it treated the conversion rate as a fixed property of the company's sales process when it is actually a property of the interaction between the company's process and the current state of market development.",
+      "LOAD-BEARING ASSUMPTION 1 — STATIC COMPETITIVE LANDSCAPE: The plan assumed the identified competitive advantages would persist for 3 years without requiring active maintenance. This assumption was wrong and was load-bearing — when 2 competitors neutralized the advantages, the entire differentiation strategy required revision.",
+      "LOAD-BEARING ASSUMPTION 2 — DETERMINISTIC PRODUCT DELIVERY: The plan assumed feature delivery dates were approximately predictable within a 2-3 month margin. For a complex software product with significant technical uncertainty, this assumption was systematically optimistic. The plan's go-to-market timing was dependent on feature delivery, so the delivery delays cascaded through the revenue model.",
+      "LOAD-BEARING ASSUMPTION 3 — STABLE CONVERSION RATES: The plan assumed that historical conversion rates applied to a more-mature market. This assumption was wrong because it did not represent the mechanism by which conversion rates change as a function of market saturation and competitive density.",
+      "DATA WRONG VS. MAP STRUCTURE WRONG: The primary failure was map structure, not data accuracy. The market sizing was approximately correct (the territory matched the TAM map). The data for each input was reasonable. The structural problem was that the map treated a dynamic competitive system as static, treated a discovery process as a production process, and treated historical rates as future rates without representing the mechanisms that would change them. Improving the data quality would not have produced a better plan — redesigning the map structure to represent these dynamics would have.",
+      "WHAT A BETTER MAP LOOKS LIKE: A better strategic map would include: scenario planning across 3 competitive response scenarios; conversion rate models that decay with market saturation; product delivery estimates expressed as probability distributions (expected range: 3-9 months), not point estimates; and explicit identification of load-bearing assumptions with stress-test criteria ('this plan breaks if conversion rates fall below X% or if more than 1 competitor responds within 18 months')."
+    ]
+  }
+}

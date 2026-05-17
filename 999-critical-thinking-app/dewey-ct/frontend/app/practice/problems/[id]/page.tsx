@@ -8,6 +8,8 @@ const VALID_IDS = [
   'PP-05', 'PP-06', 'PP-07', 'PP-08',
   'PP-09', 'PP-10', 'PP-11', 'PP-12',
   'PP-13', 'PP-14', 'PP-15', 'PP-16',
+  'PP-17', 'PP-18', 'PP-19', 'PP-20', 'PP-21', 'PP-22',
+  'PP-23', 'PP-24', 'PP-25', 'PP-26', 'PP-27', 'PP-28',
 ] satisfies PracticeProblemId[];
 
 export function generateStaticParams() {

@@ -400,5 +400,363 @@
     "curriculum_design": "The developmental mapping enables adaptive instruction: assess where the learner is developmentally, then apply appropriate framework instruction",
     "assessment_guidance": "The assessment taxonomy helps instructors choose appropriate tools for different evaluation purposes",
     "deeper_reading": "Each section of this synthesis can link to the detailed framework JSON for full exploration"
+  },
+  "quick_reference_cheat_sheets": {
+    "description": "One-page recovery cheat sheets for every major framework — the essential structure in under 30 seconds. Source: Section K of the Critical Thinking Frameworks Master Reference.",
+    "sheets": [
+      {
+        "framework": "Ennis — FRISCO",
+        "elements": [
+          {"letter": "F", "name": "Focus", "description": "Main question or conclusion"},
+          {"letter": "R", "name": "Reasons", "description": "Stated reasons offered in support"},
+          {"letter": "I", "name": "Inference", "description": "Quality of the inference from reasons to conclusion"},
+          {"letter": "S", "name": "Situation", "description": "Context — physical, social, intellectual"},
+          {"letter": "C", "name": "Clarity", "description": "Clarity of key terms and concepts"},
+          {"letter": "O", "name": "Overview", "description": "Integrated check of the whole argument"}
+        ]
+      },
+      {
+        "framework": "Delphi — Six Core Skills",
+        "elements": [
+          {"number": 1, "name": "Interpretation", "sub_skills": ["Categorize", "Decode significance", "Clarify meaning"]},
+          {"number": 2, "name": "Analysis", "sub_skills": ["Examine ideas", "Identify arguments", "Identify reasons and claims"]},
+          {"number": 3, "name": "Evaluation", "sub_skills": ["Assess claims", "Assess arguments"]},
+          {"number": 4, "name": "Inference", "sub_skills": ["Query evidence", "Conjecture alternatives", "Draw conclusions"]},
+          {"number": 5, "name": "Explanation", "sub_skills": ["State results", "Justify procedures", "Present arguments"]},
+          {"number": 6, "name": "Self-Regulation", "sub_skills": ["Self-examine", "Self-correct"]}
+        ]
+      },
+      {
+        "framework": "Bloom Revised — Cognitive Levels",
+        "elements": [
+          {"level": 1, "name": "Remember", "description": "Recall facts, definitions, basic information"},
+          {"level": 2, "name": "Understand", "description": "Explain, summarize, interpret"},
+          {"level": 3, "name": "Apply", "description": "Use knowledge in a new context"},
+          {"level": 4, "name": "Analyze", "description": "Break into components, identify relationships"},
+          {"level": 5, "name": "Evaluate", "description": "Assess quality against criteria"},
+          {"level": 6, "name": "Create", "description": "Generate novel work from elements — highest CT integration"}
+        ],
+        "knowledge_dimension": ["Factual", "Conceptual", "Procedural", "Metacognitive"],
+        "ct_threshold": "Critical thinking proper begins at Analyze (Level 4) — lower levels are preconditions"
+      },
+      {
+        "framework": "Halpern — Five Skill Categories",
+        "elements": [
+          {"number": 1, "name": "Verbal Reasoning", "description": "Evaluating claims and arguments in natural language; resisting rhetorical manipulation"},
+          {"number": 2, "name": "Argument Analysis", "description": "Identifying and evaluating argument structure — premises, conclusions, implicit assumptions"},
+          {"number": 3, "name": "Hypothesis Testing", "description": "Scientific reasoning — forming testable hypotheses, identifying confirming and disconfirming evidence"},
+          {"number": 4, "name": "Likelihood and Uncertainty", "description": "Probabilistic reasoning — base rates, conditional probability, reasoning under uncertainty"},
+          {"number": 5, "name": "Decision Making and Problem Solving", "description": "Selecting among alternatives using evidence and criteria; applying reasoning to practical decisions"}
+        ]
+      },
+      {
+        "framework": "Watson-Glaser — RED Model",
+        "elements": [
+          {"letter": "R", "name": "Recognize Assumptions", "description": "Identify unstated premises underlying statements"},
+          {"letter": "E", "name": "Evaluate Arguments", "description": "Distinguish strong from weak arguments"},
+          {"letter": "D", "name": "Draw Conclusions", "description": "Determine whether conclusions necessarily follow from evidence"}
+        ],
+        "five_subtests": ["Inference", "Recognition of Assumptions", "Deduction", "Interpretation", "Evaluation of Arguments"]
+      },
+      {
+        "framework": "Toulmin Argument Model",
+        "elements": [
+          {"element": "Claim", "description": "The conclusion being argued for", "required": true},
+          {"element": "Data (Grounds)", "description": "The evidence or facts supporting the claim", "required": true},
+          {"element": "Warrant", "description": "The principle or rule connecting data to claim", "required": true},
+          {"element": "Backing", "description": "Support for the warrant itself", "required": false},
+          {"element": "Qualifier", "description": "Strength of the claim (probably, certainly, presumably)", "required": false},
+          {"element": "Rebuttal", "description": "Conditions under which the claim would not hold", "required": false}
+        ],
+        "memory_aid": "Claim ← Data (Warrant) [Backing] {Qualifier} <Rebuttal>"
+      },
+      {
+        "framework": "Browne & Keeley — 10 Critical Questions",
+        "elements": [
+          {"number": 1, "question": "What is the issue and the conclusion?"},
+          {"number": 2, "question": "What are the reasons?"},
+          {"number": 3, "question": "Which words or phrases are ambiguous?"},
+          {"number": 4, "question": "What are the value assumptions and conflicts?"},
+          {"number": 5, "question": "What are the descriptive assumptions?"},
+          {"number": 6, "question": "Are there any fallacies in the reasoning?"},
+          {"number": 7, "question": "How good is the evidence?"},
+          {"number": 8, "question": "Are there rival causes?"},
+          {"number": 9, "question": "Are the statistics deceptive?"},
+          {"number": 10, "question": "What significant information is omitted?"}
+        ]
+      },
+      {
+        "framework": "Lipman — Three Thinking Modes",
+        "elements": [
+          {"mode": "Critical Thinking", "description": "Evaluating and judging reasoning, arguments, and beliefs"},
+          {"mode": "Creative Thinking", "description": "Generating novel ideas, connections, and possibilities"},
+          {"mode": "Caring Thinking", "description": "Attending to what matters; thinking in relationship with others"}
+        ],
+        "key_insight": "Multidimensional thinking requires all three modes simultaneously — critical thinking alone is insufficient"
+      },
+      {
+        "framework": "Brookfield — Four Activities",
+        "elements": [
+          {"number": 1, "activity": "Identify Assumptions", "description": "Surface the taken-for-granted beliefs framing our thinking"},
+          {"number": 2, "activity": "Check Assumptions", "description": "Examine whether assumptions are accurate and valid in context"},
+          {"number": 3, "activity": "See Multiple Viewpoints", "description": "Consider how things look from other perspectives"},
+          {"number": 4, "activity": "Take Informed Action", "description": "Act on the basis of well-grounded, critically examined reasoning"}
+        ],
+        "assumption_types": ["Paradigmatic (worldview-level, hardest to surface)", "Prescriptive (what should happen)", "Causal (cause-effect beliefs)"]
+      },
+      {
+        "framework": "CCTDI — Seven Dispositions",
+        "elements": [
+          {"disposition": "Truth-seeking", "description": "Actively seeking truth even when uncomfortable"},
+          {"disposition": "Open-mindedness", "description": "Tolerant of divergent views; genuinely considers alternatives"},
+          {"disposition": "Analyticity", "description": "Values reasoned analysis; anticipates consequences of choices"},
+          {"disposition": "Systematicity", "description": "Organized, focused, and diligent in inquiry"},
+          {"disposition": "Self-confidence", "description": "Trusts own reasoned judgment"},
+          {"disposition": "Inquisitiveness", "description": "Intellectually curious across many domains"},
+          {"disposition": "Maturity", "description": "Approaches problems with prudent judgment about complexity and uncertainty"}
+        ]
+      },
+      {
+        "framework": "Dual-Process Theory",
+        "systems": [
+          {
+            "system": "System 1",
+            "properties": ["Fast", "Automatic", "Heuristic-based", "Effortless", "Parallel", "Emotionally influenced", "Associative"],
+            "description": "The default cognitive mode — rapid, intuitive responses based on pattern recognition"
+          },
+          {
+            "system": "System 2",
+            "properties": ["Slow", "Deliberate", "Algorithmic", "Effortful", "Serial", "Rule-governed", "Conscious"],
+            "description": "The override cognitive mode — careful, step-by-step reasoning; engaged when System 1 is uncertain or overridden"
+          }
+        ],
+        "stanovich_tripartite": {
+          "autonomous_mind": "System 1 — fast, automatic processes",
+          "algorithmic_mind": "System 2 processing capacity — computational power",
+          "reflective_mind": "System 2 disposition — whether the person decides to engage System 2 at all"
+        },
+        "ct_implication": "Critical thinking requires both the capacity (algorithmic mind) and the disposition (reflective mind) to override System 1 heuristics when inappropriate"
+      },
+      {
+        "framework": "Developmental Models Quick Reference",
+        "perry_phases": [
+          {"phase": 1, "name": "Dualism", "description": "Right vs. wrong; authorities have correct answers"},
+          {"phase": 2, "name": "Multiplicity", "description": "Multiple perspectives exist; all seem equally valid"},
+          {"phase": 3, "name": "Relativism", "description": "Knowledge is contextual; some views are better-supported"},
+          {"phase": 4, "name": "Commitment in Relativism", "description": "Making principled commitments despite acknowledged uncertainty"}
+        ],
+        "king_kitchener_levels": [
+          {"levels": "1–3", "stage": "Pre-reflective", "description": "Knowledge is certain; authority-based reasoning"},
+          {"levels": "4–5", "stage": "Quasi-reflective", "description": "Knowledge is uncertain; all views seem equal"},
+          {"levels": "6–7", "stage": "Reflective", "description": "Knowledge claims can be evaluated; some are better-supported"}
+        ],
+        "kuhn_levels": [
+          {"level": "Realist", "description": "Direct access to an objective world"},
+          {"level": "Absolutist", "description": "Knowledge is certain, obtained correctly or incorrectly"},
+          {"level": "Multiplist", "description": "Knowledge is subjective; comparative evaluation is impossible"},
+          {"level": "Evaluativist", "description": "Comparative evaluation of claims is both possible and meaningful"}
+        ]
+      },
+      {
+        "framework": "SOLO Taxonomy",
+        "levels": [
+          {"level": 1, "name": "Pre-structural", "description": "No understanding; irrelevant or tautological response"},
+          {"level": 2, "name": "Uni-structural", "description": "One relevant element identified — 'it is one thing'"},
+          {"level": 3, "name": "Multi-structural", "description": "Several elements identified but unconnected — 'it is several things'"},
+          {"level": 4, "name": "Relational", "description": "Multiple elements connected into a coherent whole — 'it is a system'"},
+          {"level": 5, "name": "Extended Abstract", "description": "Generalizes beyond given context; transfers abstract structure to new domains"}
+        ]
+      },
+      {
+        "framework": "Webb's Depth of Knowledge (DOK)",
+        "levels": [
+          {"level": 1, "name": "Recall and Reproduction", "description": "Recall facts, definitions, simple procedures; one-step problems"},
+          {"level": 2, "name": "Skills and Concepts", "description": "Use conceptual knowledge; two-step problems requiring some judgment"},
+          {"level": 3, "name": "Strategic Thinking", "description": "Reasoning, planning, using evidence; multiple valid approaches"},
+          {"level": 4, "name": "Extended Thinking", "description": "Extended investigation; complex synthesis; transfer across contexts"}
+        ],
+        "key_insight": "The same verb (e.g., 'analyze') can describe DOK 1 or DOK 3 tasks — DOK forces attention to task structure, not just verb labels"
+      },
+      {
+        "framework": "DIKW Pyramid",
+        "levels": [
+          {"level": "Data", "question": "What are the raw signals?", "description": "Raw, unprocessed facts and signals", "example": "37.5°C"},
+          {"level": "Information", "question": "What does it mean?", "description": "Data with context and meaning added", "example": "Patient temperature is slightly elevated"},
+          {"level": "Knowledge", "question": "What do I understand?", "description": "Information integrated with understanding", "example": "Suggests possible infection"},
+          {"level": "Wisdom", "question": "What should I do?", "description": "Knowledge applied with judgment about action", "example": "Monitor for 24h before treating"}
+        ],
+        "ct_connection": "Critical thinking is most active at the transitions — turning data into information, information into knowledge, knowledge into wisdom"
+      },
+      {
+        "framework": "Marzano's Three Systems",
+        "systems": [
+          {
+            "system": "Self-System",
+            "function": "Decides whether to engage with a task at all",
+            "components": ["Importance (Is this worth attention?)", "Efficacy (Can I succeed?)", "Emotional response", "Overall motivation"]
+          },
+          {
+            "system": "Metacognitive System",
+            "function": "Sets goals and monitors progress",
+            "components": ["Specifying goals", "Process monitoring", "Monitoring clarity", "Monitoring accuracy"]
+          },
+          {
+            "system": "Cognitive System",
+            "function": "Processes information",
+            "components": ["Retrieval", "Comprehension", "Analysis", "Knowledge Utilization"]
+          }
+        ],
+        "key_insight": "Unlike Bloom, Marzano explains why students don't engage with CT tasks — the Self-System can prevent activation before the Cognitive System is even engaged"
+      },
+      {
+        "framework": "Bloom Affective Domain",
+        "levels": [
+          {"level": 1, "name": "Receiving", "description": "Awareness; willingness to attend to phenomena"},
+          {"level": 2, "name": "Responding", "description": "Active participation; reacting to phenomena"},
+          {"level": 3, "name": "Valuing", "description": "Attaching worth; consistent behavior reflecting value"},
+          {"level": 4, "name": "Organizing", "description": "Building a value system; reconciling values into a structure"},
+          {"level": 5, "name": "Characterizing", "description": "The value system becomes a worldview governing all behavior"}
+        ],
+        "ct_connection": "CT dispositions (intellectual humility, truth-seeking, open-mindedness) are affective developments — progressing from knowing about them to embodying them as character traits"
+      }
+    ]
+  },
+  "integrated_thinker_profile": {
+    "description": "The convergent portrait of the critical thinker — derived from synthesizing the shared commitments across all major frameworks. Where frameworks converge, that convergence is empirical evidence for the construct.",
+    "profile_statement": "Combining the convergent commitments across all frameworks, the integrated critical thinker is someone who:",
+    "commitments": [
+      {
+        "number": 1,
+        "commitment": "Understands argument structure",
+        "frameworks": ["Toulmin", "Browne & Keeley"],
+        "description": "Can identify claims, data, warrants, and rebuttals; distinguishes strong arguments from weak ones"
+      },
+      {
+        "number": 2,
+        "commitment": "Deploys core analytical skills",
+        "frameworks": ["Delphi", "Ennis", "Halpern", "Watson-Glaser"],
+        "description": "Interprets, analyzes, evaluates, infers, and explains reasoning systematically"
+      },
+      {
+        "number": 3,
+        "commitment": "Holds productive dispositions",
+        "frameworks": ["Facione/CCTDI", "Ennis", "Costa", "Paul-Elder"],
+        "description": "Is truth-seeking, open-minded, analytic, systematic, inquisitive, self-confident, and mature"
+      },
+      {
+        "number": 4,
+        "commitment": "Recognizes their own cognitive architecture",
+        "frameworks": ["Dual-Process Theory", "Stanovich"],
+        "description": "Understands System 1 heuristics and their failure modes; knows when and how to engage System 2 override"
+      },
+      {
+        "number": 5,
+        "commitment": "Has developed past multiplism into evaluativism",
+        "frameworks": ["Kuhn", "King & Kitchener", "Perry"],
+        "description": "Accepts that uncertainty doesn't mean all views are equally valid — some are better-supported than others"
+      },
+      {
+        "number": 6,
+        "commitment": "Surfaces and examines assumptions",
+        "frameworks": ["Brookfield", "Paul-Elder"],
+        "description": "Identifies paradigmatic, prescriptive, and causal assumptions — especially those most deeply embedded"
+      },
+      {
+        "number": 7,
+        "commitment": "Engages dialogically with other minds",
+        "frameworks": ["Lipman"],
+        "description": "Uses community of inquiry — genuine engagement with others' views — as a CT tool, not just an individual capacity"
+      },
+      {
+        "number": 8,
+        "commitment": "Maintains substantive knowledge in their domains",
+        "frameworks": ["Bailin", "McPeck"],
+        "description": "Recognizes that CT is always thinking about something — domain knowledge enables genuine domain reasoning"
+      },
+      {
+        "number": 9,
+        "commitment": "Operates across cognitive complexity levels",
+        "frameworks": ["Bloom", "Marzano", "SOLO", "Webb DOK"],
+        "description": "Can work at and across all levels of cognitive demand — from recall through extended synthesis and transfer"
+      },
+      {
+        "number": 10,
+        "commitment": "Integrates skills with values and self-regulation",
+        "frameworks": ["Delphi", "Costa", "Bloom Affective Domain"],
+        "description": "Has progressed from knowing CT skills to embodying them — the affective development of the critical spirit"
+      }
+    ],
+    "convergence_principle": "The frameworks converge on this: critical thinking is reasoned thinking aimed at justified belief and action, requiring identifiable skills deployed by characterized dispositions, in contexts requiring both individual judgment and dialogical accountability."
+  },
+  "ennis_14_dispositions": {
+    "description": "Ennis's 14 critical thinking dispositions, organized into three clusters. Dispositions are what motivate the deployment of CT skills — without them, skills remain inert.",
+    "source": "Ennis, R.H. (1985, 1996). The Nature of Critical Thinking.",
+    "clusters": [
+      {
+        "cluster": "Care that beliefs are true and decisions are justified",
+        "dispositions": [
+          "Seek and offer reasons",
+          "Try to be well-informed",
+          "Use and mention credible sources",
+          "Take into account the total situation",
+          "Be open-minded: consider seriously other points of view; withhold judgment when evidence is insufficient",
+          "Take a position and change it when evidence warrants",
+          "Seek as much precision as the subject permits"
+        ]
+      },
+      {
+        "cluster": "Represent positions honestly and clearly",
+        "dispositions": [
+          "Seek and offer clear statements of theses and questions",
+          "Look for alternatives",
+          "Keep in mind the original or basic concern",
+          "Deal with the components of a complex problem in an orderly manner"
+        ]
+      },
+      {
+        "cluster": "Care about the dignity and worth of every person",
+        "dispositions": [
+          "Be reflective — aware of one's own basic beliefs",
+          "Avoid intimidating others or being intimidated"
+        ]
+      }
+    ],
+    "instructional_note": "Ennis argued that dispositions must be developed alongside skills. A person who has CT skills but lacks the disposition to seek reasons or be open-minded will not deploy those skills reliably. The critical spirit (Siegel) and the intellectual virtues (Paul-Elder) describe the same phenomenon in different terminologies."
+  },
+  "delphi_disposition_profile": {
+    "description": "The APA Delphi Report's characterization of the ideal critical thinker's dispositions — developed by consensus among 46 experts in 1990. The dispositional complement to the six core CT skills.",
+    "source": "Facione, P. (1990). Critical Thinking: A Statement of Expert Consensus (The Delphi Report). APA.",
+    "clusters": [
+      {
+        "cluster": "Approach to Life and Living in General",
+        "dispositions": [
+          "Inquisitiveness with regard to a wide range of issues",
+          "Concern to become and remain well-informed",
+          "Alertness to opportunities to use critical thinking",
+          "Trust in the processes of reasoned inquiry",
+          "Self-confidence in one's own ability to reason",
+          "Open-mindedness regarding divergent worldviews",
+          "Flexibility in considering alternatives and opinions",
+          "Understanding of the opinions of other people",
+          "Fair-mindedness in appraising reasoning",
+          "Honesty in facing one's own biases, prejudices, stereotypes, or egocentric tendencies",
+          "Prudence in suspending, making, or altering judgments",
+          "Willingness to reconsider and revise views"
+        ]
+      },
+      {
+        "cluster": "Approach to Specific Issues, Questions, or Problems",
+        "dispositions": [
+          "Clarity in stating the question or concern",
+          "Orderliness in working with complexity",
+          "Diligence in seeking relevant information",
+          "Reasonableness in selecting and applying criteria",
+          "Care in focusing attention on the concern at hand",
+          "Persistence through difficulties",
+          "Precision to the degree permitted by the subject"
+        ]
+      }
+    ],
+    "key_finding": "Skills without dispositions are 'unrealized critical thinking.' The ideal critical thinker is not merely someone who can think critically but someone who habitually, reliably, and willingly does so. The CCTDI research finding: disposition scores predict skill deployment more reliably than skill scores alone — disposition is the practical bottleneck."
   }
 }

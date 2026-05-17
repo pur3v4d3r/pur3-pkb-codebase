@@ -7,8 +7,13 @@ export const metadata = {
   description: 'Critical thinking practice problems across Paul-Elder, FRISCO, SEE-I, and metacognitive frameworks.',
 };
 
-export default function PracticeProblemsPage() {
+export default function PracticeProblemsPage({
+  searchParams,
+}: {
+  searchParams?: { framework?: string };
+}) {
   const problems = getAllPracticeProblems();
+  const initialFramework = searchParams?.framework;
 
   return (
     <div className="mx-auto max-w-5xl space-y-8">
@@ -29,7 +34,7 @@ export default function PracticeProblemsPage() {
         </p>
       </header>
 
-      <FilteredProblemGrid problems={problems} />
+      <FilteredProblemGrid problems={problems} initialFramework={initialFramework} />
     </div>
   );
 }

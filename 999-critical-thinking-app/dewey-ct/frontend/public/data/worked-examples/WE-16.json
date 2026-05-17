@@ -1,0 +1,63 @@
+{
+  "id": "WE-16",
+  "we_number": "WE-16",
+  "title": "Redesigning how I study for an upcoming exam",
+  "subtitle": "A beginner Bloom's Taxonomy application to a concrete personal learning challenge",
+  "framework": "blooms-taxonomy",
+  "framework_label": "Bloom's Taxonomy (Revised)",
+  "object_type": "decision",
+  "question_type": "evaluative / practical",
+  "stakes": "medium",
+  "difficulty": "beginner",
+  "duration_minutes": 25,
+  "pre_confidence": 4,
+  "post_confidence": 2,
+  "rigor_score": 3.8,
+  "mastery_rating": 3,
+  "tags": ["blooms-taxonomy", "learning", "study", "metacognition", "education"],
+  "summary": "The analyst has an important exam in three weeks and has been 're-reading notes' as their primary study method for years. Using Bloom's Revised Taxonomy as a diagnostic tool, they discover that re-reading targets only the lowest cognitive level (Remember) while the exam questions require Analyze and Evaluate. The key insight: not all study activities are cognitively equal — the feeling of familiarity produced by re-reading is real but does not constitute understanding. Redesigning the study plan around higher-order activities (practice questions, self-explanation, concept mapping) dramatically changes the predicted outcome. Pre-confidence in their current study plan drops from 4/5 to 2/5 once they can see which cognitive levels their current activities actually address.",
+  "how_to_use": "Read this worked example before attempting PP-23. Notice especially: (1) the diagnostic step — before redesigning, the analyst lists every current study activity and maps it to a Bloom's level; (2) the gap analysis — comparing which levels the current activities cover against which levels the exam demands; (3) how the redesign adds higher-order activities without necessarily increasing total study time. After reading, apply the same diagnostic to your own upcoming learning task.",
+  "learning_objectives": [
+    "Learn to use Bloom's Taxonomy as a diagnostic tool for evaluating whether your study activities match the cognitive demands of your assessment",
+    "Understand why the feeling of 'knowing the material' after re-reading is unreliable — familiarity (a Remember-level experience) does not predict performance at Analyze or Evaluate level",
+    "See how to redesign a study plan by mapping current activities to Bloom's levels and identifying gaps between current activity coverage and required cognitive levels",
+    "Observe that Bloom's is not just a taxonomy of question types but a model of cognitive prerequisites: you cannot reliably Evaluate content you have not first Analyzed"
+  ],
+  "related_template_id": "blooms-scaffold-v1",
+  "related_practice_problems": ["PP-23", "PP-24"],
+  "sections": [
+    {
+      "section_label": "The Learning Challenge",
+      "fields": [
+        {
+          "label": "Context",
+          "content": "A second-year undergraduate student in a Health Sciences programme has a final exam in three weeks covering 12 weeks of lecture content on research methodology, statistics, and study design. The exam is three hours, entirely short-answer and extended-response — no multiple choice. Past exam papers show questions like: 'Compare the internal validity of a randomised controlled trial and a cohort study in the context of [scenario]' and 'Evaluate whether the researcher's conclusion follows from their data and methodology.'"
+        },
+        {
+          "label": "Current Study Strategy",
+          "content": "The analyst has been studying for exams the same way since secondary school: re-reading lecture notes, highlighting key terms, and occasionally writing out definitions from memory. They feel they know the content — they can recognise the terms and the concepts feel familiar when they read them. Pre-confidence in this study method: 4/5. The plan feels like it is working."
+        },
+        {
+          "label": "The Problem",
+          "content": "In a practice test using last year's paper, the analyst scores 52% despite feeling well-prepared. They can define every term in the exam but cannot answer the 'compare' and 'evaluate' questions fluently. They feel like the knowledge is 'in there' but inaccessible in the exam format. This triggers the Bloom's diagnostic."
+        }
+      ]
+    },
+    {
+      "section_label": "Bloom's Diagnostic: Mapping Current Activities to Cognitive Levels",
+      "content": "The analyst lists every current study activity and maps it to the corresponding Bloom's level:\n\nACTIVITY 1 — Re-reading lecture notes: This is a REMEMBER activity. Reading activates recognition memory — the content feels familiar. It does not produce the ability to reproduce, explain, or apply it without the notes present. Bloom's level: 1 (Remember).\n\nACTIVITY 2 — Highlighting key terms: This is a REMEMBER activity. Highlighting creates a visual signal of importance but does not require the learner to do anything with the content cognitively. Bloom's level: 1 (Remember).\n\nACTIVITY 3 — Writing out definitions from memory: This is an UNDERSTAND activity. Reproducing a definition requires some encoding beyond mere recognition. However, it tests whether the learner can recall the definition — not whether they can use the concept in context. Bloom's level: 2 (Understand).\n\nACTIVITY 4 — Making a 'master summary': Condensing notes into a shorter document requires selecting and reorganising information — this is closer to UNDERSTAND or low APPLY. However, because the analyst is working from their own notes (a familiar structure), the cognitive demand is lower than starting from a novel problem. Bloom's level: 2-3 (Understand / borderline Apply).\n\nDIAGNOSTIC VERDICT: The analyst's current study plan is almost entirely Level 1-2 (Remember and Understand). There is virtually no activity at Level 4 (Analyze), Level 5 (Evaluate), or Level 6 (Create)."
+    },
+    {
+      "section_label": "Exam Demand Mapping: What Cognitive Levels Does the Exam Require?",
+      "content": "The analyst reviews the past three years of exam papers and categorises question types by Bloom's level:\n\n'Define the following terms' (3 questions, 12 marks total): Level 1-2. Remember and Understand.\n\n'Explain how X works in the context of Y' (2 questions, 16 marks): Level 3 (Apply). The student must transfer knowledge to a novel scenario, not reproduce a memorised explanation.\n\n'Compare the strengths and limitations of A and B' (2 questions, 20 marks): Level 4 (Analyze). Comparison requires breaking both concepts into components, identifying relevant dimensions of comparison, and structuring a response around those dimensions.\n\n'Evaluate whether this researcher's conclusion is justified by their methodology' (2 questions, 22 marks): Level 5 (Evaluate). The student must use criteria (internal validity, confounding, appropriate statistical analysis) to make a reasoned judgment about quality.\n\n'Design a study to test [hypothesis] and justify your design choices' (1 question, 20 marks): Level 6 (Create). The student must construct something original, integrating multiple concepts.\n\nMARK DISTRIBUTION BY LEVEL:\n- Level 1-2 (Remember/Understand): 12/90 marks = 13%\n- Level 3 (Apply): 16/90 marks = 18%\n- Level 4-5 (Analyze/Evaluate): 42/90 marks = 47%\n- Level 6 (Create): 20/90 marks = 22%\n\nGAP: The analyst's current study activities are concentrated at Level 1-2, which covers only 13% of the exam marks. The activities that cover the other 87% of exam marks are almost entirely absent from the current study plan."
+    },
+    {
+      "section_label": "Redesigned Study Plan: Adding Higher-Order Activities",
+      "content": "The gap analysis produces a clear redesign directive: add activities that develop Level 3-6 competency without necessarily abandoning Level 1-2 activities that build the foundational knowledge required.\n\nADDED ACTIVITY — PRACTICE QUESTIONS (Level 3-5): The analyst finds 40 past exam questions across the three covered topics. They set aside two sessions per week (90 minutes each) to attempt these under exam-like conditions before checking notes. This develops Apply and Analyze competency — the ability to transfer knowledge to novel problems.\n\nADDED ACTIVITY — SELF-EXPLANATION / THE FEYNMAN TECHNIQUE (Level 2-4): After reviewing a concept, the analyst closes their notes and explains it aloud as if teaching it to someone with no background. Where they hesitate, get confused, or use jargon they cannot unpack, they mark a gap and return to the source. This converts passive familiarity (Level 1) into active understanding (Level 2-4).\n\nADDED ACTIVITY — CONCEPT MAPPING (Level 4): The analyst builds a concept map linking all key terms — not a list of definitions, but a visual structure showing how concepts relate, which concepts are prerequisites for which, and where they conflict or qualify each other. Building the map requires Analyze-level reasoning; reviewing it supports higher-level retrieval.\n\nADDED ACTIVITY — EVALUATE SAMPLE ANSWERS (Level 5): The course provides three marked exam scripts from previous years. The analyst reads each answer, assigns a mark before checking the marker's comments, and compares their judgment. This trains the evaluative criterion application the exam demands.\n\nTIME ALLOCATION: The redesigned plan does not require more total study time — it reallocates 60% of the time that was spent re-reading toward the higher-order activities above."
+    },
+    {
+      "section_label": "Outcome and Reflection",
+      "content": "POST-ANALYSIS CONFIDENCE: 2/5 in the original study plan (it would not have adequately prepared for the high-order questions); 4/5 in the redesigned plan.\n\nKEY INSIGHT: The feeling of knowing the material after re-reading is real but misleading. What re-reading produces is recognition familiarity — a feeling that resembles understanding. What exams requiring Analyze and Evaluate test is something structurally different: the ability to use concepts flexibly in novel contexts. These are not the same cognitive capability, and they are not produced by the same study activities.\n\nBLOOM'S AS DIAGNOSTIC TOOL: The value of Bloom's in this example was not as a general framework to memorise but as a specific diagnostic: map your current activities to levels, map your assessment to levels, identify the gap, and fill the gap with appropriately levelled activities. This is a transferable process that can be applied to any learning challenge.\n\nMETACOGNITIVE LESSON: The pre-confidence of 4/5 was a System 1 confidence signal produced by familiarity, not a System 2 confidence signal produced by tested competency. The analyst notes that they will check confidence against tested performance (practice questions) rather than against felt familiarity going forward."
+    }
+  ]
+}

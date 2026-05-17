@@ -1,16 +1,22 @@
 ---
 tags: #llm-reasoning #operational-manual #tree-of-thoughts #self-consistency #chain-of-verification #extended-thinking #agentic-frameworks #prompt-engineering #production-guide #exemplar
 aliases: [LLM Reasoning Manual, Advanced Reasoning Operational Guide, AI Reasoning Exemplar, Reasoning Techniques Reference, Claude Reasoning Protocols]
+id: 20260213000010
 created: 2025-01-06
-modified: 2025-01-06
-status: evergreen
+modified: 2026-05-16
+status: production
+maturity: evergreen
 certainty: verified
 type: reference
-version: 1.0.0
+version: 2.0.0
 source: claude-sonnet-4.5
 category: reasoning-architectures
 priority: critical
 audience: [llm-systems, advanced-practitioners, ai-engineers]
+synthesis_source_count: 25
+research_papers_cited: 16
+phase1_qa_date: 2026-05-16
+phase1_qa_status: passed
 ---
 
 # LLM Reasoning Techniques Operational Manual

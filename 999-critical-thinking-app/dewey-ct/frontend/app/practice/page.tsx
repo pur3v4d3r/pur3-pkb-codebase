@@ -1,7 +1,5 @@
 import { getAllWorkedExamples, getAllPracticeProblems } from '@/lib/content';
-import WorkedExampleCard from '@/components/practice/WorkedExampleCard';
-import PracticeProblemCard from '@/components/practice/PracticeProblemCard';
-import Link from 'next/link';
+import PracticeFilters from '@/components/practice/PracticeFilters';
 
 export const metadata = {
   title: 'Practice — DeweyCT',
@@ -59,46 +57,7 @@ export default function PracticePage() {
         </ol>
       </section>
 
-      {/* Worked Examples */}
-      <section id="worked-examples" className="space-y-5">
-        <div className="flex items-center justify-between">
-          <h2 className="text-xl font-bold text-slate-900">Worked Examples</h2>
-          <Link
-            href="/practice/worked-examples"
-            className="text-sm text-indigo-600 hover:underline"
-          >
-            View all →
-          </Link>
-        </div>
-        <p className="text-sm text-slate-500">
-          Complete analyses with annotations, confidence tracking, and learning objectives. Read
-          these before attempting the corresponding practice problems.
-        </p>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {workedExamples.map((we) => (
-            <WorkedExampleCard key={we.id} we={we} />
-          ))}
-        </div>
-      </section>
-
-      {/* Practice Problems */}
-      <section id="practice-problems" className="space-y-5">
-        <div className="flex items-center justify-between">
-          <h2 className="text-xl font-bold text-slate-900">Practice Problems</h2>
-          <Link href="/practice/problems" className="text-sm text-indigo-600 hover:underline">
-            View all →
-          </Link>
-        </div>
-        <p className="text-sm text-slate-500">
-          Independent practice with hints, solution sketches, and direct links to the relevant
-          template. Attempt problems without hints first.
-        </p>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {practiceProblems.map((pp) => (
-            <PracticeProblemCard key={pp.id} pp={pp} />
-          ))}
-        </div>
-      </section>
+      <PracticeFilters workedExamples={workedExamples} practiceProblems={practiceProblems} />
     </div>
   );
 }

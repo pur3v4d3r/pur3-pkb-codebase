@@ -1,5 +1,5 @@
 import type { Chapter, ChapterSummary, CalloutType } from '@/types/chapter';
-import type { Template, Framework, WorkedExample, PracticeProblem } from '@/types/framework';
+import type { Template, Framework, WorkedExample, PracticeProblem, MentalModelsData, MentalModel, CheatSheetsData } from '@/types/framework';
 import path from 'path';
 import fs from 'fs';
 
@@ -118,7 +118,7 @@ export function getAllTemplates(): Template[] {
 
 // ---- Worked Example loaders ----
 
-const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12'] as const;
+const WORKED_EXAMPLE_FILES = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12', 'WE-13', 'WE-14', 'WE-15', 'WE-16', 'WE-17', 'WE-18'] as const;
 
 export type WorkedExampleId = (typeof WORKED_EXAMPLE_FILES)[number];
 
@@ -137,6 +137,8 @@ const PRACTICE_PROBLEM_FILES = [
   'PP-05', 'PP-06', 'PP-07', 'PP-08',
   'PP-09', 'PP-10', 'PP-11', 'PP-12',
   'PP-13', 'PP-14', 'PP-15', 'PP-16',
+  'PP-17', 'PP-18', 'PP-19', 'PP-20', 'PP-21', 'PP-22',
+  'PP-23', 'PP-24', 'PP-25', 'PP-26', 'PP-27', 'PP-28',
 ] as const;
 
 export type PracticeProblemId = (typeof PRACTICE_PROBLEM_FILES)[number];
@@ -147,5 +149,25 @@ export function getPracticeProblem(id: PracticeProblemId): PracticeProblem {
 
 export function getAllPracticeProblems(): PracticeProblem[] {
   return PRACTICE_PROBLEM_FILES.map((id) => getPracticeProblem(id));
+}
+
+// ---- Mental Models loaders ----
+
+export function getMentalModelsData(): MentalModelsData {
+  return readJSON<MentalModelsData>('frameworks/mental-models.json');
+}
+
+export function getMentalModel(id: string): MentalModel | undefined {
+  const data = getMentalModelsData();
+  return data.models.find((m) => m.id === id);
+}
+
+// ---- Cheat Sheet loaders ----
+
+export function getCheatSheets(): CheatSheetsData {
+  const raw = readJSON<{ quick_reference_cheat_sheets: CheatSheetsData }>(
+    'frameworks/cross-framework-synthesis.json'
+  );
+  return raw.quick_reference_cheat_sheets;
 }
 

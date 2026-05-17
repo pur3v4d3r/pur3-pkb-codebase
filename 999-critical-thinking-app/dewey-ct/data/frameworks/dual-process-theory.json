@@ -198,5 +198,86 @@
     "exercise_feature": "CRT-style exercises that require System 2 override",
     "template_feature": "Bias self-check as a template component in the Dewey Reflective Template",
     "llm_integration": "Claude can identify System 1 patterns in user reasoning and flag likely biases"
+  },
+  "historical_origin": {
+    "heuristics_and_biases_program": "The intellectual foundation of Dual-Process Theory lies in the 'heuristics and biases' research program initiated by Daniel Kahneman and Amos Tversky at the Hebrew University of Jerusalem beginning in the late 1960s. Their landmark 1974 Science paper 'Judgment under Uncertainty: Heuristics and Biases' documented systematic, predictable departures from rational judgment that were produced by cognitive shortcuts (heuristics) rather than random error. This program demonstrated that intelligent, educated people made consistent, exploitable errors in probabilistic reasoning, causal attribution, and decision-making — errors that could not be explained by ignorance alone.",
+    "system_1_system_2_formalization": "The two-system terminology was introduced and formalized by Keith Stanovich and Richard West in their 2000 paper 'Individual Differences in Reasoning: Implications for the Rationality Debate' in Behavioral and Brain Sciences, where they labeled the systems System 1 and System 2. Jonathan Evans independently developed a similar two-process account from a cognitive-experimental perspective. Daniel Kahneman synthesized and popularized the entire research program in 'Thinking, Fast and Slow' (2011), which became one of the most widely read social science books of the decade and made System 1/System 2 vocabulary part of the general intellectual lexicon.",
+    "stanovich_extensions": "Stanovich's contribution extended beyond the original two-system model. His tripartite model (TASS/Autonomous Mind, Algorithmic Mind, Reflective Mind) provided crucial nuance for CT education by separating the processing capacity available for deliberate reasoning (Algorithmic Mind, measured by IQ) from the disposition to deploy that capacity in truth-seeking ways (Reflective Mind, measured by rational thinking inventories like the CART). This explained why high IQ does not guarantee good reasoning: intelligent people can deploy their cognitive resources in motivated reasoning just as effectively as in truth-seeking.",
+    "ct_implications": "The systematic CT implications of Dual-Process Theory were developed most fully by Stanovich, who argued that CT education must address all three levels: automatizing some CT sub-skills (TASS level), building processing capacity (Algorithmic level), and — most importantly — cultivating the epistemic values and metacognitive monitoring that constitute the Reflective Mind. A critical thinking curriculum that only trains procedures without changing epistemic values will produce people who can apply CT techniques when explicitly prompted but who default to System 1 in unstructured situations."
+  },
+  "teaching_applications": {
+    "overview": "Dual-Process Theory generates teaching strategies aimed at making System 2 engagement more reliable — not by suppressing System 1 (which is impossible and often counterproductive) but by building the habits of metacognitive monitoring that allow System 2 to check System 1 outputs when it matters.",
+    "cognitive_reflection_training": {
+      "description": "The Cognitive Reflection Test (CRT), developed by Shane Frederick (2005), consists of problems designed to produce an intuitively appealing but incorrect System 1 answer that can be overridden by System 2 reflection. Using CRT-style problems as teaching tools builds the habit of checking initial intuitions.",
+      "classic_example": "'A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?' System 1 says 10 cents; System 2 reveals the answer is 5 cents.",
+      "pedagogical_use": "After presenting CRT problems, the crucial teaching moment is not just revealing the correct answer but asking: 'What was your initial intuition? Did you check it? What would have prompted you to check it in a real-world context?' The goal is building the habit of pausing to verify intuitions in high-stakes situations."
+    },
+    "bias_identification_and_counter_strategies": {
+      "description": "Teaching specific biases by name, mechanism, and counter-strategy builds the debiasing toolkit that allows System 2 to correct System 1 errors when they are recognized.",
+      "teaching_structure": [
+        "Step 1: Demonstrate the bias by having students experience it (e.g., present an availability bias scenario and elicit their probability estimates).",
+        "Step 2: Explain the mechanism: which heuristic is being over-extended, and why it produces error in this type of situation.",
+        "Step 3: Provide the counter-strategy: what System 2 procedure corrects or compensates for this bias.",
+        "Step 4: Practice in varied contexts: have students apply the counter-strategy across multiple domains so it becomes recognizable beyond the training context."
+      ],
+      "key_bias_counter_strategy_pairs": [
+        {"bias": "Confirmation Bias", "counter": "Pre-mortem: before committing to a conclusion, spend 5 minutes actively generating reasons it might be wrong."},
+        {"bias": "Availability Heuristic", "counter": "Base rate check: before estimating probability from memorable cases, look up the statistical base rate."},
+        {"bias": "Overconfidence", "counter": "Confidence interval calibration: instead of giving a point estimate, give a range you are 90% confident contains the true answer."},
+        {"bias": "Anchoring", "counter": "Independent estimation: generate your own estimate before encountering any anchor; treat the anchor as just one data point, not a reference point."}
+      ]
+    },
+    "metacognitive_monitoring_practice": {
+      "description": "Building reliable System 2 monitoring requires not just knowing about biases but developing the habit of pausing to check System 1 outputs in consequential situations.",
+      "activities": [
+        {
+          "activity": "The System 2 Checkpoint",
+          "description": "Before making any significant decision or committing to any conclusion, students apply a structured three-question check: (1) What is my intuitive answer? (2) What is the reasoning that would justify this answer? (3) What evidence would change my mind? If they cannot answer questions 2 and 3 clearly, they engage System 2 before proceeding."
+        },
+        {
+          "activity": "Reasoning Autopsy",
+          "description": "After a decision or conclusion that turned out to be wrong, students work backward: which System 1 heuristic produced the initial wrong answer? At what point did System 2 have the opportunity to override it and fail to? What environmental or psychological conditions prevented System 2 engagement?"
+        }
+      ]
+    }
+  },
+  "self_assessment_checklist": {
+    "system_1_awareness": [
+      "What are my signature System 1 heuristic errors — the biases I know I am most susceptible to from past experience or self-observation?",
+      "In what domains do I most strongly trust my intuitions? Is that trust calibrated — am I actually more accurate there, or just more confident?",
+      "When I experience a strong immediate reaction to an argument or claim, do I treat that reaction as evidence about the argument's quality, or as a flag to engage System 2?"
+    ],
+    "system_2_engagement_quality": [
+      "In my last significant decision, did I engage System 2 (deliberate analysis, alternative generation, evidence evaluation) or did I rationalize a System 1 conclusion after the fact?",
+      "Can I distinguish between genuinely changing my mind after System 2 analysis and rationalizing a position my System 1 had already committed to?",
+      "When I am tired, rushed, or emotionally activated — which conditions reliably reduce System 2 engagement for me — do I delay consequential decisions when possible?"
+    ],
+    "debiasing_effectiveness": [
+      "Do I have a specific procedure I use when I notice a potential confirmation bias in my reasoning — or do I just acknowledge the possibility and continue as before?",
+      "Have I explicitly checked base rates before making a probability judgment in the last month? If not, am I actually using the Likelihood and Uncertainty skills I know about?",
+      "After learning about cognitive biases, have I actually changed my decision-making in any observable way, or has my knowledge stayed theoretical?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "cognitive_biases_framework": {
+      "relationship_type": "Parent theory to bias inventory",
+      "description": "The Cognitive Biases framework catalogs the specific systematic errors that arise primarily from System 1 processing. Dual-Process Theory provides the mechanistic explanation for why these biases exist and are so persistent; the Cognitive Biases framework provides the named inventory that makes them recognizable and teachable. System 1's characteristic operating modes (availability heuristic, representativeness heuristic, anchoring) each generate families of specific named biases.",
+      "practical_connection": "Teach Dual-Process Theory first (the why) then the Cognitive Biases taxonomy (the what) — students who understand the mechanism understand why biases are hard to eliminate and why debiasing strategies work when they do."
+    },
+    "paul_elder_intellectual_virtues": {
+      "relationship_type": "Character framework for the Reflective Mind",
+      "description": "Paul and Elder's Intellectual Virtues (Intellectual Humility, Intellectual Courage, Intellectual Autonomy, etc.) can be understood as the character traits that constitute a well-functioning Reflective Mind in Stanovich's tripartite model. Intellectual Humility is the Reflective Mind's disposition to check System 1 outputs rather than ratify them; Intellectual Courage is the Reflective Mind's willingness to follow System 2 analysis to uncomfortable conclusions rather than deferring to System 1 motivated reasoning; Confidence in Reason is the Reflective Mind's epistemic value that drives System 2 engagement.",
+      "key_insight": "Paul-Elder describes what the Reflective Mind should value; Dual-Process Theory explains why those values are necessary for reliable rationality."
+    },
+    "habits_of_mind": {
+      "relationship_type": "Behavioral operationalization",
+      "description": "HOM's habits can be understood as behavioral patterns that promote reliable System 2 engagement. Managing Impulsivity directly targets the impulse to act on System 1 outputs without checking them. Thinking Flexibly combats System 1's tendency to anchor on initial framings. Metacognition is precisely the Reflective Mind capacity that monitors cognitive processing. Persisting is what sustains System 2 engagement when System 1 fatigue effects pull toward cognitive shortcuts.",
+      "combined_use": "Dual-Process Theory provides the theoretical explanation for why each HOM habit matters cognitively; HOM provides the pedagogical framework for cultivating those habits in practice."
+    },
+    "dewey_five_phases": {
+      "relationship_type": "Process model requiring deliberate System 2 engagement",
+      "description": "Dewey's Five Phases describe the structure of reflective inquiry; Dual-Process Theory explains the cognitive conditions required to execute each phase. Phase 1 (Felt Difficulty) is a System 1 trigger — the recognition that something is wrong. Phases 2-4 (Intellectualization, Hypothesis, Reasoning) require sustained System 2 engagement. Phase 5 (Testing) is the System 2 check on System 1's tendency to accept confirming evidence and ignore disconfirming evidence.",
+      "key_insight": "Dewey's reflective thinking is a description of successful System 2 engagement applied to genuine problems. Understanding Dual-Process Theory explains why Dewey's phases are hard to execute and what conditions make them more or less likely to succeed."
+    }
   }
 }

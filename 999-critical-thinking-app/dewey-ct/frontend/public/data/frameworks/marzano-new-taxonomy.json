@@ -142,5 +142,108 @@
     "exercise_integration": "Marzano's Self-System components provide a diagnostic framework for learner self-assessment at the start of practice sessions. The Metacognitive components map onto the app's self-regulation prompts.",
     "cross_reference": "Compare with Bloom's Revised Taxonomy (cognitive process focus), SOLO Taxonomy (response complexity), Halpern's four-component model (disposition + metacognition + skills).",
     "key_insight_for_learners": "Before beginning any CT task, explicitly assess your Self-System: Do you believe this matters? Do you believe you can do it? Are you emotionally positioned to engage? If not, the cognitive work that follows will be compromised."
+  },
+  "historical_origin": {
+    "intellectual_context": "Marzano developed his New Taxonomy in the early 2000s in direct response to growing dissatisfaction with Bloom's taxonomy in educational research. Two critiques drove the revision: Bloom's treated cognition as the only educationally relevant domain, ignoring everything researchers had learned about motivation, affect, and metacognition; and Bloom's category structure was imprecise and empirically unvalidated — built on committee judgment rather than cognitive science. Marzano's 2007 collaboration with John Kendall, 'The New Taxonomy of Educational Objectives,' sought to ground taxonomic design in contemporary research rather than 1950s committee consensus.",
+    "cognitive_science_grounding": "The three-system model reflects thirty years of research in cognitive psychology. The Self-System draws on Albert Bandura's self-efficacy theory and the vast literature on academic motivation showing that whether students engage with tasks is determined by their beliefs about value and capacity, not by their cognitive ability. The Metacognitive System incorporates Flavell's foundational work on metacognition and Zimmerman and Pintrich's research on self-regulated learning. The Cognitive System incorporates information-processing research on knowledge representation and retrieval. Marzano was among the first educational taxonomists to formally integrate all three into a single coherent framework.",
+    "key_innovation": "The most significant innovation was making the Self-System a formal taxonomic component — recognizing that whether learning happens at all is determined by motivational and affective variables before cognitive ones. Previous frameworks treated engagement as a binary precondition: either present or absent. Marzano showed that engagement is itself decomposable into assessable and teachable components: importance judgments, efficacy beliefs, and emotional responses. A student who lacks the Self-System preconditions will not engage cognitively regardless of instructional quality.",
+    "reception_and_influence": "The New Taxonomy has been well received in educational research and instructional coaching contexts but has not displaced Bloom's in widespread practice. Bloom's remains more familiar and more integrated into educational policy and assessment design. Marzano's framework is most influential in the literature on self-regulated learning, in instructional coaching, and in contexts where individual learner diagnosis and differentiated instruction are priorities. The Self-System analysis in particular has been influential in special education and student support contexts."
+  },
+  "teaching_applications": {
+    "overview": "Marzano's three-system framework generates instructional strategies at all three levels. Most instruction operates only at the Cognitive System level; the New Taxonomy exposes the Self and Metacognitive Systems as equally important and equally teachable.",
+    "self_system_interventions": [
+      {
+        "strategy": "Task Relevance Articulation",
+        "description": "Before any cognitively demanding task, explicitly address Self-System importance by asking students to connect the task to their goals or values. Do not assume relevance — establish it through dialogue.",
+        "implementation": "Begin major assignments with a brief written prompt: 'How does this connect to something you genuinely care about or want to be able to do? If you cannot see the connection, say so — and we will address it before you invest effort.'",
+        "diagnostic_use": "If students consistently cannot articulate relevance, the curriculum may lack authentic connection to their goals — a structural problem, not a motivational one."
+      },
+      {
+        "strategy": "Efficacy Scaffolding",
+        "description": "Build mastery experiences before assigning the full challenge. Students who believe they cannot succeed will not engage regardless of interest. Success at a manageable level builds the efficacy belief that enables engagement with harder tasks.",
+        "implementation": "Begin with achievable versions of the target skill. Make success explicit and visible. Progressively increase challenge. Name the progression: 'You just did X — that means you can now try Y.'"
+      },
+      {
+        "strategy": "Emotional Environment Diagnosis",
+        "description": "Regularly assess the affective dimension of learning tasks. High anxiety, boredom, or resentment in the Self-System blocks engagement regardless of instructional quality.",
+        "implementation": "Use brief affective check-ins before demanding cognitive tasks. A simple scale ('How are you feeling about this task: 1-5?') provides actionable data. Adjust timing, framing, or sequencing when emotional barriers are consistently high."
+      }
+    ],
+    "metacognitive_system_interventions": [
+      {
+        "strategy": "Explicit Goal Specification",
+        "description": "Require students to state specific, meaningful learning goals before cognitively demanding tasks — not 'finish the assignment' but 'be able to identify unstated assumptions in an argument without prompting.'",
+        "implementation": "Students write a 2-sentence goal before each major task: what they are trying to learn, and what evidence will show they have learned it. Return to these goals at task completion for self-assessment."
+      },
+      {
+        "strategy": "Strategy Monitoring Checkpoints",
+        "description": "Build in mid-task checkpoints where students assess whether their current approach is working and whether they need to change strategy.",
+        "implementation": "At one-third and two-thirds completion, pause and ask: 'Is your current approach working? Are you making progress toward your stated goal? What would you do differently from here?'"
+      },
+      {
+        "strategy": "Understanding versus Recognition Distinction",
+        "description": "Teach students to distinguish genuine understanding from recognition. Students systematically overestimate their clarity because they can recognize correct information when they see it — but that is not the same as being able to generate it.",
+        "implementation": "Require students to generate their own examples of concepts without reference to source material. If they cannot generate examples, clarity has not been established, regardless of how well they understood the explanation."
+      }
+    ],
+    "cognitive_system_activities": [
+      {
+        "process": "Analysis — Error Analysis",
+        "activity": "Present students with worked examples containing planted errors. Task: identify exactly where the reasoning fails, explain why it is an error, and produce the correct version.",
+        "example": "Provide a logical argument with a subtle fallacy embedded in it. Ask students to diagnose the error and explain why accepting it would lead to a false conclusion."
+      },
+      {
+        "process": "Knowledge Utilization — Decision Making",
+        "activity": "Present a genuine problem with multiple defensible options. Students must apply their knowledge to evaluate the options and justify a choice — not find the 'right answer' but make and defend a reasoned decision.",
+        "example": "Which of three research methodologies is most appropriate for this specific question, and why? Defend your choice against the strongest objection."
+      },
+      {
+        "process": "Knowledge Utilization — Experimental Inquiry",
+        "activity": "Students generate a specific, testable prediction from a principle they are studying, design a way to test it, and reflect on what the outcome means.",
+        "example": "'Confirmation bias causes people to evaluate supporting and opposing evidence differently.' Make a specific prediction about how this bias would affect your own reasoning about a topic you care about. Test it. Report the result honestly."
+      }
+    ]
+  },
+  "self_assessment_checklist": {
+    "self_system_questions": [
+      "Before this task: do I genuinely believe it matters to me — not just that I should find it important, but that I actually do?",
+      "Do I believe I can succeed at this with effort? If not, is that belief based on real evidence of incapacity, or on past discouragement I could overcome?",
+      "What is my honest emotional response to this task right now? Is anxiety, resentment, or boredom blocking my engagement before I even begin?",
+      "If I were not required to do this, what would make me want to engage with it anyway?"
+    ],
+    "metacognitive_system_questions": [
+      "Have I set a specific goal for this task — not 'finish it' but a genuine learning target I can evaluate myself against?",
+      "Am I actively monitoring whether my current approach is working, or am I proceeding on autopilot?",
+      "Can I generate my own examples of this concept without looking at the source material? If not, do I actually understand it or merely recognize it?",
+      "After completing this, did I achieve what I set out to achieve? If not, what was the actual obstacle?"
+    ],
+    "cognitive_system_questions": [
+      "Am I only retrieving and restating information, or am I genuinely analyzing — identifying patterns, relationships, and errors that were not stated explicitly?",
+      "Can I apply this knowledge to a problem I have not encountered before, or only to problems that closely resemble the examples I practiced on?",
+      "Have I checked my own conclusions systematically for accuracy, or am I assuming they are correct because I worked hard?",
+      "Could someone who disagrees with my analysis identify a genuine flaw in it? Have I looked for that flaw myself?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "blooms_revised_taxonomy": {
+      "relationship_type": "Extension and critique",
+      "description": "Marzano directly critiques Bloom's for ignoring the motivational and metacognitive dimensions of learning. His cognitive process levels broadly parallel Bloom's (Retrieval ≈ Remember, Comprehension ≈ Understand, Analysis ≈ Analyze/Evaluate, Knowledge Utilization ≈ Create/Apply) but are embedded within a larger system that Bloom omits. Use Bloom for cognitive complexity classification in curriculum design; use Marzano when diagnosing why performance fails despite apparent cognitive ability.",
+      "key_difference": "Bloom assumes the learner is engaged; Marzano analyzes and addresses why they are or are not."
+    },
+    "halpern_framework": {
+      "relationship_type": "Parallel architecture",
+      "description": "Halpern's four-component model maps closely onto Marzano's three systems: Halpern's Disposition component corresponds to Marzano's Self-System; Halpern's Metacognitive Monitoring corresponds to Marzano's Metacognitive System; Halpern's Skills and Structural Knowledge components correspond to Marzano's Cognitive System. Both frameworks independently arrived at the conclusion that cognition alone is insufficient and that engagement and metacognition must be addressed separately.",
+      "complementarity": "Halpern provides more granular skill categories (five HCTA domains) for cognitive skill diagnosis; Marzano provides more granular Self-System analysis for motivation and engagement diagnosis."
+    },
+    "dual_process_theory": {
+      "relationship_type": "Mechanistic explanation",
+      "description": "Dual-Process Theory provides the cognitive architecture explanation for why the Self-System matters: System 1 determines what we attend to and how we initially frame problems, creating the motivational and affective context before deliberate System 2 reasoning can begin. Marzano's Self-System is in part a description of the System 1 defaults that either facilitate or block System 2 engagement.",
+      "practical_connection": "When Marzano identifies a Self-System barrier, the Dual-Process lens explains the mechanism: negative efficacy beliefs or low importance judgments trigger System 1 avoidance responses that System 2 must work to override."
+    },
+    "cctdi": {
+      "relationship_type": "Dispositional operationalization",
+      "description": "The CCTDI measures dispositional tendencies (Truth-Seeking, Inquisitiveness, Open-mindedness, etc.) that represent positive Self-System profiles in Marzano's framework. A high Truth-Seeking score reflects strong importance and motivation in the Self-System; low CT Self-Confidence reflects a specific efficacy deficit. Marzano provides the diagnostic architecture; the CCTDI provides the psychometric instrument.",
+      "practical_use": "Use Marzano to diagnose which Self-System component is blocking engagement; use CCTDI scores to understand the dispositional patterns that drive those blocks across situations."
+    }
   }
 }

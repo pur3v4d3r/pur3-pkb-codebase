@@ -1,17 +1,23 @@
 ---
 tags: #agentic-workflows #multi-agent-systems #workflow-orchestration #task-decomposition #tool-integration #state-management #error-handling #production-agents
 aliases: [Agentic Workflow Patterns, Agent Design Guide, Workflow Orchestration, Multi-Agent Systems, Agent Architecture Patterns]
+id: 20260213000013
 created: 2025-01-06
-modified: 2025-01-06
-status: evergreen
+modified: 2026-05-16
+status: production
+maturity: evergreen
 certainty: verified
 type: implementation-guide
-version: 1.0.0
+version: 2.0.0
 source: claude-sonnet-4.5
 category: agentic-systems
 priority: critical
 audience: [ai-engineers, system-architects, automation-engineers, advanced-practitioners]
 prerequisites: [doc1-llm-reasoning-techniques-operational-manual, doc2-extended-thinking-architecture-implementation-guide]
+synthesis_source_count: 18
+research_papers_cited: 12
+phase1_qa_date: 2026-05-16
+phase1_qa_status: passed
 ---
 
 # Agentic Workflow Design Patterns: Production Systems

@@ -136,5 +136,89 @@
     "exercise_integration": "DIKW levels provide a vocabulary for distinguishing different kinds of cognitive content in practice exercises. The 'Knowledge to Wisdom' transition maps directly onto the app's highest-level practice tasks.",
     "cross_reference": "Compare with SOLO Taxonomy (response complexity paralleling DIKW levels), Marzano New Taxonomy (cognitive system processing paralleling DIKW transitions), Webb's DOK (cognitive demand at different DIKW levels).",
     "key_insight_for_learners": "When you feel like you 'know' something, ask which DIKW level your knowledge occupies. Do you have data? Information? Genuine understanding of patterns and principles? Or the wisdom to apply that understanding soundly in this specific situation? The difference matters enormously for action quality."
+  },
+  "historical_origin": {
+    "precursors": "The hierarchical relationship between data, information, and knowledge appears throughout mid-twentieth century information theory and library science. Russell Ackoff, an operations researcher and systems thinker, is credited with the first explicit four-level hierarchy in his 1989 paper 'From Data to Wisdom' in the Journal of Applied Systems Analysis. Ackoff was concerned with the distinction between understanding and mere knowledge — a distinction he saw as systematically neglected in both information systems design and management education.",
+    "wisdom_addition": "The addition of Wisdom as a fourth level was Ackoff's most distinctive contribution. Prior knowledge hierarchies (data → information → knowledge) stopped at knowledge. Ackoff argued that knowledge without judgment about when and how to apply it is incomplete and potentially dangerous. Wisdom, in his formulation, is not a mystical property but a practical capacity: the ability to discern what is worth doing and how to do it well in a specific situation. This addition gave the hierarchy both epistemic and ethical dimensions.",
+    "popularization": "The pyramid form of DIKW became widely known through Milan Zeleny's work in systems science in the 1980s and was further popularized in information management and knowledge management literature throughout the 1990s. By 2000, DIKW had become a standard framework in library and information science, knowledge management, and data science pedagogy. Its visual simplicity — a four-level pyramid — made it one of the most reproduced figures in the information sciences.",
+    "contemporary_critiques": "The DIKW hierarchy has been critiqued by philosophers of information (particularly Jennifer Rowley's 2007 analysis) for imprecision: the boundaries between levels are not sharply defined, the transitions are not clearly specified, and the model implies a linear progression that does not always hold. However, these critiques have not diminished the framework's pedagogical utility — precisely because the questions it raises about what kind of cognitive content you possess are valuable even without precise definitions."
+  },
+  "teaching_applications": {
+    "overview": "DIKW provides a vocabulary for distinguishing qualitatively different kinds of knowledge — a vocabulary most learners lack. Teaching with DIKW builds the metacognitive capacity to ask not just 'do I know this?' but 'what kind of knowing do I have, and what am I missing?'",
+    "level_diagnosis_exercise": {
+      "description": "Ask students to classify their current understanding of a topic using DIKW levels, and identify exactly what would move them to the next level.",
+      "implementation": "After initial exposure to a topic, students write: 'What I currently have is: (data/information/knowledge/wisdom). Evidence for this assessment: ___. To move to the next level, I would need to: ___.'",
+      "pedagogical_value": "This exercise reveals the difference between students who know they only have data and those who believe they already have wisdom — a common metacognitive failure in expert blind spot."
+    },
+    "knowledge_to_wisdom_transition": {
+      "description": "The Knowledge → Wisdom transition is the most challenging and the most neglected in formal education. Most assessments stop at Knowledge; Wisdom requires situational judgment that cannot be tested by recall.",
+      "activities": [
+        {
+          "activity": "Divergent Application Cases",
+          "description": "Present students with 3-4 situations that are superficially similar but require different responses. Students must determine which response is appropriate for each and justify the distinction.",
+          "example": "You have knowledge about three different argumentation frameworks. Which would you use to analyze a legal brief vs. a philosophical essay vs. a political speech — and why?"
+        },
+        {
+          "activity": "Judgment Under Uncertainty",
+          "description": "Present cases where the available information is incomplete and a decision must still be made. Students must reason from partial knowledge to a defensible judgment.",
+          "example": "You have reliable information about two of the three key variables in this problem. The third is uncertain. What is the wisest course of action, and what makes it wiser than the alternatives?"
+        }
+      ]
+    },
+    "data_information_distinction": {
+      "description": "Most students arrive with an undifferentiated notion of 'facts.' Teaching the data-to-information transition builds the fundamental skill of interpreting raw observations.",
+      "activities": [
+        {
+          "activity": "Raw Data Analysis",
+          "description": "Present students with raw, uninterpreted data (a table of numbers, a set of events without context) and ask them to generate information from it — to interpret what the data means.",
+          "example": "Here are 20 poll results from different demographic groups. What information do these data contain about political attitudes? What would you need to know to turn this information into knowledge?"
+        },
+        {
+          "activity": "Information Critique",
+          "description": "Present students with claims presented as 'information' and ask them to evaluate whether the underlying data actually supports them.",
+          "example": "A news report claims that 'crime is rising.' What data would that claim require? Is the data cited sufficient to support it? What alternative interpretations of the same data are possible?"
+        }
+      ]
+    }
+  },
+  "self_assessment_checklist": {
+    "level_calibration": [
+      "For the topic I am currently studying, what DIKW level does my current understanding occupy? Am I being honest about this?",
+      "Do I have the ability to generate new, relevant examples of this concept in unfamiliar contexts — the mark of Knowledge rather than Information?",
+      "Can I identify the conditions under which standard applications of this knowledge would fail or need modification — the mark of Wisdom?",
+      "When I say I 'know' something, can I distinguish whether I know it because I can recall it, because I understand the pattern behind it, or because I can judge how to apply it in novel situations?"
+    ],
+    "transition_readiness": [
+      "What would move my understanding from Information to Knowledge? Have I looked for the patterns and principles behind the specific facts I have?",
+      "What would move my understanding from Knowledge to Wisdom? Have I encountered enough diverse cases to develop situational judgment about when and how the knowledge applies?",
+      "Am I using data as if it were information — interpreting before I have sufficient context? Or using information as if it were knowledge — generalizing beyond what the data supports?",
+      "Do I know what I do not know at each level? Can I specify exactly what data, information, or knowledge is missing for the judgment I am trying to make?"
+    ],
+    "quality_of_inference": [
+      "When I draw a conclusion from data, am I making the inferential steps explicit — or am I allowing intuition to skip levels silently?",
+      "Is my 'wisdom' actually generalized knowledge that I am applying without checking whether this situation is sufficiently similar to the cases my knowledge is built on?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "bloom_revised_taxonomy": {
+      "relationship_type": "Parallel hierarchies at different units of analysis",
+      "description": "Bloom's taxonomy classifies cognitive processes; DIKW classifies the content of knowledge at different levels of processing. They are orthogonal axes: you can Remember data, Understand information, or Analyze knowledge. The frameworks complement each other — Bloom tells you what cognitive process the learner is engaging; DIKW tells you what type of cognitive content they are working with.",
+      "combined_use": "Ask both questions simultaneously: 'Is the student Analyzing (Bloom)? Are they analyzing Data, Information, or Knowledge (DIKW)?' A student can perform sophisticated cognitive processes on shallow content — Bloom alone does not reveal this."
+    },
+    "solo_taxonomy": {
+      "relationship_type": "Structural parallel",
+      "description": "SOLO's five levels (Pre-structural, Uni-structural, Multi-structural, Relational, Extended Abstract) map roughly onto DIKW levels: Pre/Uni-structural corresponds to Data; Multi-structural to Information; Relational to Knowledge; Extended Abstract to Wisdom. Both frameworks are hierarchies of intellectual quality that describe progressively more sophisticated cognitive content.",
+      "key_difference": "SOLO focuses on the structure of a learner's response to a specific task; DIKW focuses on the type of cognitive content a person possesses. SOLO is assessment-oriented; DIKW is content-oriented."
+    },
+    "webbs_dok": {
+      "relationship_type": "Cognitive demand parallel",
+      "description": "Webb's Depth of Knowledge levels (Recall, Skill/Concept, Strategic Thinking, Extended Thinking) broadly correspond to DIKW transitions: DOK 1 (Recall) = Data; DOK 2 (Skill/Concept) = Information; DOK 3 (Strategic Thinking) = Knowledge; DOK 4 (Extended Thinking) = Wisdom. Both frameworks are tools for ensuring that instruction and assessment operate at appropriate cognitive depth.",
+      "practical_connection": "Use Webb to design tasks at appropriate cognitive demand; use DIKW to evaluate whether the content the task requires has been built up adequately for the student to succeed at that demand level."
+    },
+    "halpern_structural_knowledge": {
+      "relationship_type": "Mechanistic explanation",
+      "description": "Halpern's fourth component — Structural Knowledge for Transfer — is the mechanism that enables the Knowledge-to-Wisdom transition in DIKW. Structural knowledge is the organized, abstracted understanding of when and why principles apply that allows knowledge to be deployed flexibly in novel situations. Without structural knowledge, a person may have Knowledge-level content but cannot apply it with Wisdom-level judgment.",
+      "key_insight": "Wisdom in the DIKW sense requires exactly what Halpern calls structural knowledge: not just knowing the principle but knowing the conditions under which it applies and when to override it."
+    }
   }
 }

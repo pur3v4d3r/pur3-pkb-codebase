@@ -1640,6 +1640,9 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 ### ADDITIONA USEFUL FILES
 `D:\10_pur3v4d3r's-vault\metadata-template.md` -> How Metadata should be handeled, if needed.
 `D:\10_pur3v4d3r's-vault\wiki-links.md` -> List of complete collection of permanent notes, for populating wikli-links in the app.
+
+
+
 ### TEMPLATE TO CONVERT TO JSON
 `D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-critical-thinking-deliberate-practice-v1.0.0.md`
 `D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-frisco-quick-analysis-v1.0.0.md`
@@ -1727,5 +1730,73 @@ I need you to design and generate a prompt for me. The prompt is going to be an 
 
 --- 
 ---
+
+
+# Designing and Generating advanced Templates for PKB
+
+Im working on traing my self in Critical Thinking useing the various forms of Theory, Framework, Etc.
+I need to be able to susessfully apply these tools to analyze and evaluate information, arguments, and situations effectively.
+Im thinking a Template for Obsidian that takes advantage of Templater , Dataview, Etc, to custimize this template to ask me question and set up a template that can allow me to Diliberatley Practice my Reasoning and Critical Thinking Skills.
+Metacognition also plays a big role in the process and should also be implemented into the template to help me reflect on my thinking process and identify areas for improvement.
+
+I have two excelent reference markdown files that you can draw from in this process of designing and generating a complex Template for my Obsidian based PKB.
+
+## Reference Files
+
+`D:\10_pur3v4d3r's-vault\paul-elder-framework-reference.md`
+`D:\10_pur3v4d3r's-vault\critical-thinking-frameworks-master-reference.md`
+
+### Some Other highly useful References
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app` -> Project files containg alot of useful Critical Thinking References, Research, and Documents.
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\research-and-documents` -> A collection of research and documents that can provide additional context and information for your critical thinking practice.
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\research-and-documents\research-from-claude-project` -> Research and documents from the claude project, which may contain valuable insights and information for your critical thinking practice.
+
+### Some more useful links
+`D:\10_pur3v4d3r's-vault\wiki-links.md` -> A collection of wiki links that can provide additional context and information for your critical thinking practice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Generating Worked Examples, and Practice Problems for Critical Thinking
+
+## CONTEXT/GOAL
+- I have a series of Obsidian templates for use with critical thinking deliberate practice.
+- Now 'm in need of high-quality worked examples to learn from at the beginning of the process.
+- And I am also in need of high-quality practice problems to work on to apply the concepts and skills I am learning.
+
+## TASK
+1. Review Key Location Files for high-quality and very useful reference material for creating the worked-examples/practice-prombles.
+2. Design and generate a series of worked examples for each of the critical thinking frameworks and tools that I am using in my practice. These worked examples should be detailed and should walk me through the process of applying the framework or tool to a specific problem or situation.
+3. Design and generate a series of practice problems for each of the critical thinking frameworks and tools that I am using in my practice. These practice problems should be challenging and should require me to apply the concepts and skills I am learning in order to solve them.
+4. Organize the worked examples and practice problems in a way that makes it easy for me to access and use them in my practice. This could involve creating a dedicated folder in my Obsidian vault for these resources, or creating links to them from within the templates I am using for my practice.
+
+## Key Locations
+### Templates [should-make-worked-examples-from-these]
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-critical-thinking-deliberate-practice-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-frisco-quick-analysis-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-metacognitive-reflection-v1.0.0.md`
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_master-see-i-elaboration-v1.0.0.md`
+
+`D:\10_pur3v4d3r's-vault\99-system\01-quickadd\02-templates\_critical-thinking-deliberate-practice-template.md`
+
+### Additional Reference Files
+`D:\10_pur3v4d3r's-vault\critical-thinking-frameworks-master-reference.md` -> Reference for various critical thinking frameworks, which can provide valuable insights and information for your critical thinking practice.
+`D:\10_pur3v4d3r's-vault\paul-elder-framework-reference.md` -> Reference for Paul Elder Critical Thinking Framework, which can provide valuable insights and information for your critical thinking practice.
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app` -> Project files containg alot of useful Critical Thinking References, Research, and Documents.
+`D:\10_pur3v4d3r's-vault\999-critical-thinking-app\research-and-documents\research-from-claude-project` -> Gold mining for worked examples and practice problems.
+`D:\10_pur3v4d3r's-vault\metadata-template.md` -> How to construct the markdown files metadata.
+`D:\10_pur3v4d3r's-vault\wiki-links.md` -> List of permanent notes dealing with Cog-Sci/Psychology/Critical Thinking, Etc.
+
+
 
 

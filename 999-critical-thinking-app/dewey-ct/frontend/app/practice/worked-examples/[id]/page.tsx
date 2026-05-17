@@ -2,7 +2,7 @@ import { getWorkedExample, type WorkedExampleId } from '@/lib/content';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
-const VALID_IDS = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12'] satisfies WorkedExampleId[];
+const VALID_IDS = ['WE-01', 'WE-02', 'WE-03', 'WE-04', 'WE-05', 'WE-06', 'WE-07', 'WE-08', 'WE-09', 'WE-10', 'WE-11', 'WE-12', 'WE-13', 'WE-14', 'WE-15', 'WE-16', 'WE-17', 'WE-18'] satisfies WorkedExampleId[];
 
 export function generateStaticParams() {
   return VALID_IDS.map((id) => ({ id }));

@@ -469,5 +469,364 @@
         "What would it take for you to genuinely change your mind on this?"
       ]
     }
+  },
+  "intellectual_virtues": {
+    "description": "The seven intellectual virtues (traits) that characterize the ideal critical thinker, as defined by Paul and Elder. Each virtue is defined in opposition to a characteristic vice — the natural failure mode that deliberate practice must overcome.",
+    "virtues": [
+      {
+        "name": "Intellectual Humility",
+        "vice": "Intellectual Arrogance",
+        "definition": "Knowing the limits of one's knowledge. Being aware of bias, prejudice, and the ways in which one's perspective shapes what one sees and concludes. Not claiming more certainty than is warranted.",
+        "manifestations": [
+          "Distinguishing what one knows from what one assumes or infers",
+          "Acknowledging uncertainty openly rather than projecting false confidence",
+          "Recognizing that one's perspective is one perspective among many",
+          "Being genuinely open to evidence that disconfirms one's views",
+          "Asking questions rather than making pronouncements"
+        ],
+        "vice_description": "Overclaiming certainty, dismissing challenges to one's views without genuine engagement, treating one's perspective as the default rational view, intellectual defensiveness.",
+        "development_practice": "At the end of each argument you make, list three things you might be wrong about and three ways your perspective might be limited."
+      },
+      {
+        "name": "Intellectual Courage",
+        "vice": "Intellectual Cowardice",
+        "definition": "Willingness to examine ideas that are unpopular, uncomfortable, or contrary to one's own beliefs — and to take and defend positions based on reason and evidence, even when facing social pressure to conform.",
+        "manifestations": [
+          "Engaging seriously with ideas one initially finds repugnant",
+          "Changing one's mind publicly when evidence warrants",
+          "Defending an unpopular but well-reasoned position",
+          "Raising difficult questions in contexts where conformity is expected",
+          "Following an argument wherever it leads, even to uncomfortable conclusions"
+        ],
+        "vice_description": "Avoiding controversial questions, giving deliberately vague answers to preserve social comfort, pretending to agree with positions one privately rejects, retreating from well-reasoned positions under social pressure.",
+        "development_practice": "Identify one position you hold primarily because it is socially comfortable. Then write the strongest possible argument against it."
+      },
+      {
+        "name": "Intellectual Empathy",
+        "vice": "Intellectual Narrow-Mindedness",
+        "definition": "The capacity to imaginatively enter into the thinking of others — to understand other perspectives from the inside, to reconstruct the reasoning of those with whom one disagrees in its strongest form, and to feel the force of positions one does not hold.",
+        "manifestations": [
+          "Steelmanning opposing positions before critiquing them",
+          "Suspending judgment long enough to genuinely understand an opposing view",
+          "Asking 'How does this make sense from within their framework?'",
+          "Accurately representing views one disagrees with",
+          "Recognizing the legitimacy of perspectives shaped by different experiences"
+        ],
+        "vice_description": "Straw-manning opposing views, dismissing alternative perspectives without genuine engagement, inability to see how reasonable people could hold different views, treating one's own cultural context as universal.",
+        "development_practice": "Take a position you strongly oppose and write the most charitable, most sophisticated version of the argument for it — without including any counter-argument."
+      },
+      {
+        "name": "Intellectual Autonomy",
+        "vice": "Intellectual Conformity",
+        "definition": "Thinking for oneself — using one's own reasoning capacity to form beliefs, rather than uncritically adopting the conclusions of authority, tradition, or peer pressure. Not independence for its own sake, but genuine rational self-direction.",
+        "manifestations": [
+          "Forming beliefs based on evidence and reasoning rather than authority",
+          "Evaluating sources rather than deferring to them",
+          "Questioning consensus when one has grounds to do so",
+          "Recognizing that who says something is distinct from whether it is true",
+          "Holding conclusions provisionally until independently examined"
+        ],
+        "vice_description": "Adopting beliefs because they are mainstream, deferring to authorities without examining their claims, changing one's views based on social pressure rather than evidence, epistemic learned helplessness.",
+        "development_practice": "Identify three beliefs you hold primarily because they are widely held. Trace the actual evidence for each from primary sources."
+      },
+      {
+        "name": "Intellectual Integrity",
+        "vice": "Intellectual Hypocrisy",
+        "definition": "Holding oneself to the same standards one applies to others. Being consistent in applying intellectual principles, acknowledging one's own errors and inconsistencies, and reasoning in accordance with one's stated values.",
+        "manifestations": [
+          "Applying the same standards of evidence to friendly and unfriendly claims",
+          "Acknowledging when one's own position is weaker than initially claimed",
+          "Being consistent in criticism — applying critique to one's own side as readily as to opponents",
+          "Admitting errors and updating positions when warranted",
+          "Not rationalizing — distinguishing genuine reasoning from post-hoc justification"
+        ],
+        "vice_description": "Applying strict standards to opponents and loose standards to one's own claims, demanding evidence one does not provide, changing standards when it's convenient, rationalizing rather than reasoning.",
+        "development_practice": "Review a recent argument you made. Apply the same level of scrutiny to your premises and evidence that you would apply to someone arguing the opposite position."
+      },
+      {
+        "name": "Intellectual Perseverance",
+        "vice": "Intellectual Laziness",
+        "definition": "Willingness to pursue intellectual insight despite difficulty, complexity, and confusion. Maintaining commitment to rational inquiry even when the path is long, the answers are unclear, and the temptation to settle for a quick conclusion is strong.",
+        "manifestations": [
+          "Continuing to work through problems that resist quick resolution",
+          "Tolerating extended intellectual confusion without premature closure",
+          "Returning to a problem after initial failure",
+          "Deepening inquiry past the first adequate answer to find better ones",
+          "Distinguishing genuine understanding from the appearance of understanding"
+        ],
+        "vice_description": "Settling for the first plausible answer, abandoning problems when they become difficult, substituting emotional certainty for reasoned understanding, intellectual impatience.",
+        "development_practice": "Identify one problem you resolved quickly. Return to it and spend three times as long re-examining it, actively searching for what you missed."
+      },
+      {
+        "name": "Confidence in Reason",
+        "vice": "Distrust of Reason",
+        "definition": "Commitment to the view that reason, applied rigorously and fairly, is the best available tool for arriving at truth. Confidence that rational standards can adjudicate between competing claims and that following the evidence is more reliable than following instinct, tradition, or authority.",
+        "manifestations": [
+          "Trusting the conclusions of rigorous reasoning even when they are counterintuitive",
+          "Not abandoning a well-reasoned position merely because it is emotionally uncomfortable",
+          "Believing that disagreements can, in principle, be rationally adjudicated",
+          "Modeling rational discourse rather than rhetorical manipulation"
+        ],
+        "vice_description": "Irrationalism, relativism that refuses to adjudicate between views, privileging emotion or intuition over evidence, treating rational argument as merely one power play among others.",
+        "development_practice": "Identify a conclusion you resist despite strong evidence. Examine whether the resistance is rational (additional evidence) or non-rational (emotional discomfort, social pressure)."
+      }
+    ]
+  },
+  "common_fallacies_per_element": {
+    "description": "Common reasoning errors mapped to the Element of Thought where they typically originate. Useful for self-diagnosis (identifying your own reasoning errors) and for analysis of others' arguments.",
+    "fallacies": {
+      "Purpose": {
+        "primary_errors": ["Hidden agenda", "Shifting goalposts", "Motivated reasoning"],
+        "description": "Errors in the Purpose element typically involve the purpose shaping information selection in ways that are not acknowledged, or the thinker having a different unstated purpose than the declared one."
+      },
+      "Question": {
+        "primary_errors": ["False dilemma", "Loaded question", "Begging the question", "Wrong question"],
+        "description": "Errors in the Question element often restrict or misdirect the inquiry. A false dilemma restricts the question to two options; a loaded question presupposes a conclusion; begging the question assumes what must be proved."
+      },
+      "Information": {
+        "primary_errors": ["Cherry-picking", "Anecdotal evidence", "Appeal to authority", "Outdated information", "Hearsay"],
+        "description": "Errors in the Information element involve selecting, interpreting, or presenting data in ways that systematically distort the reasoning. Cherry-picking is the most pervasive — selecting only confirming evidence."
+      },
+      "Inference": {
+        "primary_errors": ["Hasty generalization", "Slippery slope", "Post hoc ergo propter hoc", "Non sequitur", "False cause"],
+        "description": "Errors in the Inference element involve drawing conclusions that do not follow from or are not sufficiently supported by the evidence. The inference step is where most formal logical fallacies occur."
+      },
+      "Concepts": {
+        "primary_errors": ["Equivocation", "Vague terms", "Category errors", "Reification", "Definitional stretching"],
+        "description": "Errors in the Concepts element involve using key terms inconsistently, imprecisely, or in inappropriate contexts. Equivocation — shifting the meaning of a term mid-argument — is particularly insidious."
+      },
+      "Assumptions": {
+        "primary_errors": ["Circular reasoning", "Naturalistic fallacy", "Appeal to tradition", "False premise"],
+        "description": "Errors in the Assumptions element involve building arguments on unexamined or unjustified foundations. Circular reasoning (assuming the conclusion as a premise) is the signature error of this element."
+      },
+      "Implications": {
+        "primary_errors": ["Ignoring consequences", "Sunk cost fallacy", "Short-termism", "Scope insensitivity"],
+        "description": "Errors in the Implications element involve failing to trace or fairly represent the consequences of a position. Short-termism and scope insensitivity are particularly common in practical reasoning."
+      },
+      "PointOfView": {
+        "primary_errors": ["Ad hominem", "Appeal to authority", "Genetic fallacy", "In-group bias", "Ethnocentrism"],
+        "description": "Errors in the Point of View element involve treating perspective-dependent judgments as objective truths, or dismissing arguments based on who makes them rather than their content."
+      }
+    }
+  },
+  "deliberate_practice_protocols": {
+    "description": "Six structured practice protocols for developing critical thinking skill through deliberate practice. Random exposure to good reasoning does not produce CT skill. These protocols target specific weaknesses with immediate feedback and progressive difficulty.",
+    "protocols": [
+      {
+        "number": 1,
+        "name": "The Daily Element Audit",
+        "purpose": "Build habitual application of the Elements across everyday thinking.",
+        "procedure": [
+          "Select one element per day for focused attention.",
+          "Throughout the day, notice instances of that element in your own thinking and in texts or conversations you encounter.",
+          "At the end of the day, write a one-paragraph self-assessment covering: one instance where you applied this element well; one instance where you failed to apply it; one question this element revealed that you hadn't previously seen."
+        ],
+        "rotation_note": "Cycle through all eight elements over eight days. After one complete cycle, identify the two weakest elements and spend a week on each.",
+        "difficulty": "beginner"
+      },
+      {
+        "number": 2,
+        "name": "The Standards Checklist Review",
+        "purpose": "Develop automatic multi-standard evaluation of reasoning.",
+        "procedure": [
+          "After completing any significant argument, claim, or analysis, run through each standard as a checklist.",
+          "For each standard, provide a specific evaluation with evidence — not just a checkbox.",
+          "Standards checklist: Clarity (Is every key term defined? Is every claim unambiguous?), Accuracy (Is every claim verifiable? Have I cited sources?), Precision (Are vague quantifiers eliminated? Are specifics given?), Relevance (Does every element bear on the central question?), Depth (Have I engaged with genuine complexity and counterarguments?), Breadth (Have I considered multiple perspectives fairly?), Logic (Do conclusions follow from premises? Are there contradictions?), Significance (Am I focusing on what matters most?), Fairness (Am I applying the same standards to all sides?)"
+        ],
+        "difficulty": "intermediate"
+      },
+      {
+        "number": 3,
+        "name": "The Assumption Hunt",
+        "purpose": "Develop skill at surfacing hidden assumptions — the highest-leverage critical thinking skill.",
+        "procedure": [
+          "Take any position you currently hold (personal belief, professional conclusion, political view).",
+          "Write the argument for it in full.",
+          "Identify every premise in the argument.",
+          "For each premise, ask: 'What must be true for me to accept this premise?'",
+          "Continue until you reach bedrock — assumptions you cannot justify further.",
+          "Evaluate whether those bedrock assumptions are defensible."
+        ],
+        "variation": "Apply the same procedure to a text, argument, or position you are analyzing (external version).",
+        "difficulty": "intermediate"
+      },
+      {
+        "number": 4,
+        "name": "The Perspective Rotation",
+        "purpose": "Develop Intellectual Empathy and the capacity to reason from multiple Points of View.",
+        "procedure": [
+          "Identify an issue on which you have a clear position.",
+          "Write a one-page argument for the strongest opposing view — without including your own counterarguments.",
+          "Evaluate that argument using the Standards (Clarity, Accuracy, Logic, etc.).",
+          "Identify: What does this perspective see that mine misses? What does mine see that this misses?",
+          "Revise your original position to incorporate any legitimate insights from the opposing view."
+        ],
+        "target": "The opposing argument you write should be compelling enough that someone who didn't know you wrote it would not be able to tell which side you are on.",
+        "difficulty": "intermediate"
+      },
+      {
+        "number": 5,
+        "name": "The Socratic Self-Interview",
+        "purpose": "Develop fluency with Socratic questioning as a self-directed tool.",
+        "procedure": [
+          "State a position or claim you want to examine.",
+          "For each of the eight elements, select two to three questions from the question bank and apply them to your claim.",
+          "Answer each question seriously and in writing.",
+          "After all eight elements, write a revised version of the original claim that incorporates what the questioning revealed."
+        ],
+        "difficulty_scaling": "Begin with claims where you are confident. As skill develops, apply this protocol to claims where you are uncertain or where stakes are high.",
+        "difficulty": "advanced"
+      },
+      {
+        "number": 6,
+        "name": "The Quality Escalator",
+        "purpose": "Develop precision and depth by progressively applying higher standards to the same content.",
+        "procedure": [
+          "Write a first-pass response to any question or problem.",
+          "Apply the Clarity standard — revise until every ambiguity is resolved.",
+          "Apply the Accuracy standard — verify or qualify every claim.",
+          "Apply the Depth standard — add the complexity and counterarguments you initially omitted.",
+          "Apply the Logic standard — check that all inferences hold.",
+          "Compare the final version to the first-pass version. Write a paragraph describing what the escalation process revealed."
+        ],
+        "difficulty": "advanced"
+      }
+    ]
+  },
+  "self_assessment_rubrics": {
+    "description": "Four scoring rubrics for self-assessment of Paul-Elder critical thinking development. Score each dimension from 1–4. A score of 3 or higher on all dimensions represents competent critical thinking. Use the lowest-scoring dimension to identify the highest-priority development target.",
+    "rubrics": [
+      {
+        "id": "A",
+        "name": "Elements of Thought",
+        "levels": [
+          {
+            "score": 1,
+            "descriptor": "Beginning",
+            "description": "Applies one or two elements incidentally; most elements not recognized or applied."
+          },
+          {
+            "score": 2,
+            "descriptor": "Developing",
+            "description": "Identifies most elements when prompted; applies them inconsistently without prompting."
+          },
+          {
+            "score": 3,
+            "descriptor": "Competent",
+            "description": "Applies all eight elements systematically; recognizes when each is at issue."
+          },
+          {
+            "score": 4,
+            "descriptor": "Advanced",
+            "description": "Applies elements fluidly and simultaneously; uses element analysis to generate questions that would otherwise not arise."
+          }
+        ]
+      },
+      {
+        "id": "B",
+        "name": "Intellectual Standards",
+        "levels": [
+          {
+            "score": 1,
+            "descriptor": "Beginning",
+            "description": "Cannot apply standards; uses colloquial terms ('good argument,' 'makes sense') without criteria."
+          },
+          {
+            "score": 2,
+            "descriptor": "Developing",
+            "description": "Applies two to four standards; identifies when standards are violated but cannot articulate why."
+          },
+          {
+            "score": 3,
+            "descriptor": "Competent",
+            "description": "Applies all nine standards; can explain the difference between, e.g., depth and breadth."
+          },
+          {
+            "score": 4,
+            "descriptor": "Advanced",
+            "description": "Applies standards in the Standards-Elements Matrix; uses standards to diagnose root causes of reasoning failure."
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "name": "Intellectual Traits",
+        "levels": [
+          {
+            "score": 1,
+            "descriptor": "Beginning",
+            "description": "No evidence of trait-oriented development; reasoning is unreflective."
+          },
+          {
+            "score": 2,
+            "descriptor": "Developing",
+            "description": "Can describe traits; occasionally exhibits them but primarily in comfortable contexts."
+          },
+          {
+            "score": 3,
+            "descriptor": "Competent",
+            "description": "Consistently exhibits most traits; has identified personal characteristic vices."
+          },
+          {
+            "score": 4,
+            "descriptor": "Advanced",
+            "description": "Traits have become habitual; engages in deliberate ongoing development targeting specific weaknesses."
+          }
+        ]
+      },
+      {
+        "id": "D",
+        "name": "Integration",
+        "levels": [
+          {
+            "score": 1,
+            "descriptor": "Beginning",
+            "description": "Elements, standards, and traits treated as separate lists; no integration."
+          },
+          {
+            "score": 2,
+            "descriptor": "Developing",
+            "description": "Can apply elements and standards together on specific problems."
+          },
+          {
+            "score": 3,
+            "descriptor": "Competent",
+            "description": "Routinely applies Standards to Elements simultaneously; sees reasoning as a unified activity."
+          },
+          {
+            "score": 4,
+            "descriptor": "Advanced",
+            "description": "Full integration is automatic; can teach the framework to others while continuing to deepen personal mastery."
+          }
+        ]
+      }
+    ]
+  },
+  "quick_reference": {
+    "elements_memory_aid": "PQ-IICAIP: Purpose, Question, Information, Inference, Concepts, Assumptions, Implications, Point of View. All reasoning has a PURPOSE, addresses a QUESTION, uses INFORMATION, makes INFERENCES, employs CONCEPTS, rests on ASSUMPTIONS, has IMPLICATIONS, and is conducted from a POINT OF VIEW.",
+    "elements_summary": [
+      {"element": "Purpose", "one_liner": "What am I trying to accomplish?"},
+      {"element": "Question", "one_liner": "What problem am I trying to solve?"},
+      {"element": "Information", "one_liner": "What data am I using?"},
+      {"element": "Inference", "one_liner": "What conclusions am I drawing?"},
+      {"element": "Concepts", "one_liner": "What ideas and definitions am I using?"},
+      {"element": "Assumptions", "one_liner": "What am I taking for granted?"},
+      {"element": "Implications", "one_liner": "What follows from this?"},
+      {"element": "PointOfView", "one_liner": "From what perspective am I reasoning?"}
+    ],
+    "standards_memory_aid": "CAPRDBLS-F: Clarity, Accuracy, Precision, Relevance, Depth, Breadth, Logic, Significance, Fairness.",
+    "standards_summary": [
+      {"standard": "Clarity", "gateway_question": "Is it understandable?"},
+      {"standard": "Accuracy", "gateway_question": "Is it true?"},
+      {"standard": "Precision", "gateway_question": "Is it specific?"},
+      {"standard": "Relevance", "gateway_question": "Does it bear on the question?"},
+      {"standard": "Depth", "gateway_question": "Does it address complexity?"},
+      {"standard": "Breadth", "gateway_question": "Does it consider all perspectives?"},
+      {"standard": "Logic", "gateway_question": "Does it hold together?"},
+      {"standard": "Significance", "gateway_question": "Does it focus on what matters?"},
+      {"standard": "Fairness", "gateway_question": "Is it free from bias?"}
+    ],
+    "key_insight": "Clarity is the gateway standard — if a statement is not clear, its accuracy, relevance, or depth cannot even be assessed.",
+    "core_diagnostic": "For any reasoning, ask: Is the Purpose clear and significant? Is the Question precise? Is the Information accurate and sufficient? Do the Inferences follow? Are the Concepts well-defined? Are the Assumptions examined? Are the Implications traced? Is the Point of View acknowledged and fair?"
   }
 }

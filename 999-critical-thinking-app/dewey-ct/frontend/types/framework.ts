@@ -80,6 +80,57 @@ export interface PortfolioEntry {
   tags: string[];
 }
 
+// ---- Mental Model types ----
+
+export interface MentalModel {
+  id: string;
+  name: string;
+  category: string;
+  definition: string;
+  origin: string;
+  when_to_use: string;
+  how_to_apply: string[];
+  dewey_connection: string;
+  bloom_level: string;
+  paul_elder_element: string;
+  example: string;
+  common_misuse: string;
+}
+
+export interface MentalModelCategory {
+  category: string;
+  description: string;
+  model_count: number;
+}
+
+export interface MentalModelsData {
+  framework: string;
+  description: string;
+  dewey_integration: string;
+  source: string;
+  common_misconceptions: Array<{
+    misconception: string;
+    correction: string;
+    pedagogical_implication?: string;
+  }>;
+  categories: MentalModelCategory[];
+  models: MentalModel[];
+}
+
+// ---- Cheat Sheet types ----
+
+// Sheets are highly heterogeneous — each framework has a different element schema.
+// We use a flexible record type and narrow at render time.
+export type CheatSheet = {
+  framework: string;
+  [key: string]: unknown;
+};
+
+export interface CheatSheetsData {
+  description: string;
+  sheets: CheatSheet[];
+}
+
 // ---- Worked Example types ----
 
 export interface WorkedExampleSection {

@@ -6,12 +6,13 @@ import PracticeProblemCard from './PracticeProblemCard';
 
 interface Props {
   problems: PracticeProblem[];
+  initialFramework?: string;
 }
 
 const ALL = 'all';
 
-export default function FilteredProblemGrid({ problems }: Props) {
-  const [framework, setFramework] = useState(ALL);
+export default function FilteredProblemGrid({ problems, initialFramework }: Props) {
+  const [framework, setFramework] = useState(initialFramework ?? ALL);
   const [difficulty, setDifficulty] = useState(ALL);
 
   const frameworks = useMemo(() => {

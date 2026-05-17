@@ -1,0 +1,51 @@
+{
+  "id": "PP-20",
+  "pp_number": "PP-20",
+  "title": "Apply Hanlon's Razor to interpret a colleague's pattern of unhelpful behavior",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Hanlon's Razor",
+  "mental_model_id": "hanlons-razor",
+  "object_type": "problem",
+  "difficulty": "easy",
+  "estimated_minutes": 20,
+  "related_worked_example_id": null,
+  "related_template_id": null,
+  "tags": ["mental-models", "hanlons-razor", "attribution", "bias", "interpersonal", "organizations"],
+  "object_of_analysis": "Over the past 6 weeks, your colleague Jordan has: (1) missed two deadlines on a shared project, requiring you to redo parts of the work; (2) not responded to two Slack messages for 48+ hours, forcing you to follow up by email; (3) given a presentation to the team that introduced a technical approach without consulting you, though you are the subject-matter expert; (4) forwarded a customer complaint about your team's work directly to your manager without mentioning it to you first. You have begun to feel that Jordan is deliberately undermining you.",
+  "context": "You and Jordan have worked together for 14 months without significant friction. Jordan is generally considered competent and collaborative by the rest of the team. You are not close — mostly professional interactions — but there has been no obvious conflict before this period. The past 6 weeks coincide with Jordan's team taking on a new high-visibility project that your manager has described as 'the most important work in the department this quarter.'",
+  "instructions": "Apply Hanlon's Razor to interpret Jordan's behavior pattern. Hanlon's Razor states: 'Never attribute to malice that which can be adequately explained by incompetence — or, more precisely, by negligence, ignorance, or inadvertent error.' Your analysis should: (1) explicitly state what the malice explanation looks like in its most coherent form; (2) generate at least 3 alternative explanations (incompetence, negligence, ignorance, system failure, or inadvertent factors) that could account for the same observable pattern; (3) assess the relative probability of the malice vs. non-malice explanations; (4) identify what additional information would most clearly differentiate between the explanations; (5) recommend a course of action that remains appropriate across multiple competing explanations.",
+  "workspace_prompts": {
+    "malice_hypothesis": "State the malice explanation in its most coherent form. What is Jordan's goal, according to this hypothesis? What specific actions would Jordan need to have taken intentionally to produce this pattern? What would Jordan need to know about you, your work, and your manager relationship to execute this pattern deliberately?",
+    "alternative_hypotheses": "Generate at least 3 alternative explanations that do not require malice. For each: describe the specific mechanism (what is actually happening and why?), explain how this mechanism produces each of the 4 observed behaviors, and assess whether this explanation requires Jordan to be acting in bad faith.",
+    "probability_assessment": "Across all your hypotheses (malice + alternatives): which explanation most parsimoniously accounts for all 4 observed behaviors? What prior information about Jordan (14 months of collaborative work, general team reputation) should update your probability estimate for each explanation? Is the malice explanation more or less probable after applying Hanlon's Razor systematically?",
+    "action_recommendation": "What action should you take? The key constraint: the action should be appropriate whether Jordan is acting with malice, acting negligently, or acting without awareness of the impact. Design an intervention that does not require you to have resolved the ambiguity."
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The 6-week temporal coincidence",
+      "content": "All four behaviors began approximately 6 weeks ago, which coincides with Jordan's team taking on a high-visibility new project. The malice explanation requires no explanation for this timing coincidence — Jordan simply chose to start undermining you 6 weeks ago. The non-malice explanations have a ready explanation: Jordan is overwhelmed, distracted, operating under high pressure, and making errors and oversights that have downstream effects on you. The question is which explanation more parsimoniously accounts for the timing."
+    },
+    {
+      "id": "hint-2",
+      "title": "The manager escalation — the most ambiguous behavior",
+      "content": "Forwarding a customer complaint to your manager without telling you first is the behavior most consistent with intentional undermining — it is hard to do this accidentally if you are aware of the professional norms. But it is also consistent with: (1) Jordan being under explicit pressure from your manager to escalate customer issues immediately; (2) Jordan not understanding the implicit norm that you should be told first (norm differences between teams); (3) Jordan assuming you already knew about the complaint. Before interpreting this as malice, it is worth asking: does Jordan's team have different escalation norms than yours? Has your manager ever given Jordan explicit instructions about escalation?"
+    },
+    {
+      "id": "hint-3",
+      "title": "The coherence test for malice",
+      "content": "Apply the coherence test to the malice hypothesis: for the behavior pattern to be intentional, Jordan would need to have: (1) a goal (undermine you for some benefit); (2) the specific knowledge required (what would hurt you with your manager); (3) the risk tolerance to pursue a strategy of indirect undermining rather than direct competition. Most workplace conflict that looks like deliberate sabotage is actually: one person operating under different information or different incentives, combined with poor communication, combined with the observer's pattern-matching imposing a narrative on random or unrelated events. Test whether all four behaviors are equally consistent with the simpler explanation: Jordan is under significant pressure and has become less considerate of how their actions affect you."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "THE MALICE HYPOTHESIS IN COHERENT FORM: Jordan is deliberately undermining your credibility with your manager and in front of the team to position themselves for a promotion, a larger role, or to claim credit for shared work. The missed deadlines are a form of passive sabotage (making the shared work look bad); the slow Slack responses create friction; the unsolicited presentation claims territory; the escalation to management bypasses you to damage your standing.",
+      "ALTERNATIVE 1 — HIGH-PRESSURE OVERLOAD: Jordan is carrying a high cognitive load from the new high-visibility project and has become genuinely less reliable and less socially aware. Missed deadlines: Jordan is behind on everything, not just your shared work. Slow Slack: volume of messages is overwhelming. Unsolicited presentation: Jordan got excited about a new approach and shared it before thinking through the consultation norms. Manager escalation: Jordan's team has an explicit escalation protocol for customer complaints that you are not aware of.",
+      "ALTERNATIVE 2 — INFORMATION GAP: Jordan does not know how their behavior is affecting you. Jordan may not be aware that you are the subject-matter expert they should have consulted (team structure may not be as clear to Jordan as it is to you). Jordan may not know you prefer to be looped in before manager escalations. The 14 months of professional-but-not-close relationship means Jordan may have miscalibrated assumptions about what you expect from them.",
+      "ALTERNATIVE 3 — DIFFERENT INCENTIVE STRUCTURE: Jordan's team is on a high-visibility project and Jordan is being evaluated on visible contributions. The behaviors that look adversarial from your perspective are Jordan operating under an incentive to be visible, responsive to senior stakeholders, and proactive — without malice but also without consideration for the downstream effects on you.",
+      "PROBABILITY ASSESSMENT: The malice hypothesis requires Jordan to be acting deliberately, to have a clear goal, and to have chosen an indirect strategy. The prior of 14 months collaborative working argues against a sudden turn to deliberate sabotage. The 6-week temporal coincidence with a high-pressure project strongly suggests the simpler explanation. The non-malice alternatives collectively account for all four behaviors without requiring Jordan to be acting in bad faith.",
+      "ACTION RECOMMENDATION: Have a direct, low-stakes clarifying conversation with Jordan: 'I want to flag a few things that have created friction over the past few weeks — the deadlines, the presentation without consultation, and the direct escalation to [manager]. I want to understand what's going on from your side and make sure we're aligned on how we work together on this project.' This is appropriate whether Jordan is malicious (puts the pattern on record), negligent (creates awareness), or unaware (resolves the information gap without escalation)."
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "PP-17",
+  "pp_number": "PP-17",
+  "title": "Use Inversion to stress-test the decision to open a second restaurant location",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Inversion",
+  "mental_model_id": "inversion",
+  "object_type": "decision",
+  "difficulty": "medium",
+  "estimated_minutes": 25,
+  "related_worked_example_id": "WE-13",
+  "related_template_id": null,
+  "tags": ["mental-models", "inversion", "decision", "business", "expansion", "risk"],
+  "object_of_analysis": "A successful independent restaurant has been operating profitably for 4 years. The owner is considering opening a second location 3km away. The first location has a loyal customer base, a stable team, and has been profitable for 2 years. The new location has a signed 3-year lease with a break clause at 18 months. The owner has enough savings to cover 12 months of operating losses at the new site.",
+  "context": "The owner's current reasoning for expansion: (1) the first location is at capacity most evenings and is turning away walk-ins; (2) they have been approached by a talented chef who wants to join as a partner; (3) the new location has a lower rent-to-revenue ratio than comparable spaces in the area; (4) two other successful restaurants in the area have recently opened second locations. The owner's confidence is 4/5 in favour of expanding.",
+  "instructions": "Apply Inversion to stress-test this expansion decision. Do NOT begin by evaluating whether the expansion is a good idea. Begin by asking: 'What would have to be true for this to be the worst business decision this owner has made?' Generate at least 3 distinct failure paths. For each failure path: (1) describe the mechanism by which it could occur; (2) assess whether the failure path is verifiable before committing; (3) assess whether the failure path is fatal (decision-ending) or manageable. Conclude by identifying the 2-3 specific unknowns that most need verification before the owner commits.",
+  "workspace_prompts": {
+    "generate_failure_paths": "Imagine the owner, 18 months from now, explaining to a business advisor why opening the second location was a catastrophic mistake. What are the most plausible, specific versions of that story? Think about: what could go wrong with the team, the operations, the finances, the market? Do not list generic startup risks — generate specific, detailed failure narratives.",
+    "evaluate_paths": "For each failure path you identified: Can it be verified before the lease is signed or operations begin? What would verification cost (time, money, effort)? Is the failure path fatal (the business cannot recover) or survivable (painful but recoverable)? Which failure paths are you most confident are real risks vs. unlikely scenarios?",
+    "compare_with_forward": "Compare the failure paths you found through inversion with the owner's current forward reasoning. Which risks did the forward reasoning identify? Which risks did inversion identify that the forward reasoning missed? What does this tell you about the value of the inversion exercise?",
+    "verification_requirements": "What are the 2-3 specific claims or unknowns that most need to be verified before committing? For each, describe: what you would need to find out, how you would find it, and what the answer would need to be to restore confidence in the expansion."
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The key inversion question: What makes a second location fail?",
+      "content": "The most common mechanism by which successful restaurant expansions fail is not that the second location performs badly — it is that the demands of the second location degrade the first location. The founding team's attention, the head chef's time, and the operational systems that made the first location work are all now split. Consider: what happens to the first location if the new location demands 80% of the owner's time for the first 6 months? Is the first location's success dependent on the owner's personal presence?"
+    },
+    {
+      "id": "hint-2",
+      "title": "The partner risk — a specific and commonly overlooked failure path",
+      "content": "The owner is considering bringing in a talented chef as a partner. The inversion question for this element: What are the failure modes specifically created by the partner relationship? Consider: what happens if the chef-partner leaves after 12 months (before the business has stabilized)? What happens if the owner and chef-partner disagree about the menu direction, cost management, or staffing decisions? A partner adds capabilities but also creates a new category of single-point-of-failure risk and decision-making complexity that does not exist in a sole-owner operation."
+    },
+    {
+      "id": "hint-3",
+      "title": "The 'capacity = demand' assumption",
+      "content": "The owner's reasoning includes: 'the first location is at capacity most evenings.' This is being used as evidence that demand exists for a second location. The inversion check: Is the capacity constraint evidence that customers want a second location from this owner, or evidence that they want the specific experience of this specific restaurant at this specific location? A sold-out restaurant in one neighborhood may not translate to a second location 3km away, because some portion of the demand is location-specific (proximity to home, habitual neighborhood choice) rather than brand-specific."
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "FAILURE PATH 1 — FIRST-LOCATION DEGRADATION: The most predictable failure is not that the second location fails in isolation but that the second location's operational demands degrade the first location. The owner's personal attention, operational bandwidth, and the stable team that makes the first location work are a finite resource. Verify: what is the current level of owner-dependence at location 1? Could it operate for 6 months with the owner at 20% involvement?",
+      "FAILURE PATH 2 — PARTNER DEPENDENCY AND MISALIGNMENT: The expansion is partly predicated on the talented chef joining as a partner. If this person does not work out — leaves, underperforms, or creates management conflict — the expansion rationale is weakened at the same time the financial exposure is highest. Verify: what is the partnership agreement? What happens to ownership structure and decision-making if the chef-partner exits before the 18-month break clause?",
+      "FAILURE PATH 3 — LOCATION-SPECIFIC DEMAND: The sold-out first location may be sold out for reasons specific to its location (neighborhood demographics, proximity to evening venues, foot traffic patterns) rather than reasons that transfer to a new location. The 3km distance may cross a neighborhood boundary with different customer demographics. Verify: what percentage of the first location's regulars live within 500m vs. 2km vs. further?",
+      "FAILURE PATH 4 — 12-MONTH RUNWAY IS INSUFFICIENT: The owner has 12 months of operating loss reserves. Restaurant second locations often take 18-24 months to reach break-even. The 18-month break clause is valuable but requires the owner to make a break decision at month 18, not month 12. If losses persist through month 12, the owner is in a financially precarious position when making the break-clause decision. Verify: what is the realistic break-even timeline given comparable restaurant openings in the area?",
+      "WHAT FORWARD ANALYSIS MISSED: The owner's forward analysis focused on the upside case (at-capacity location 1, talented partner, good lease terms, neighbor restaurants expanding). Inversion surfaced: first-location degradation, partner dependency, location-specific demand, and runway duration. None of these appear in the forward reasoning.",
+      "VERIFICATION REQUIREMENTS: (1) Test first-location resilience — can it run profitably for 2 weeks with owner involvement reduced to 2 hours/day? (2) Read the full partnership agreement with a lawyer before signing anything; (3) Run a pop-up or soft-launch event at the new location to test whether the first location's customers follow."
+    ]
+  }
+}

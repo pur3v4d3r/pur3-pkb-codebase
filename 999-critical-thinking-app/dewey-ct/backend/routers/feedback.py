@@ -1,23 +1,14 @@
-import os
+import json
+import re
 from typing import Optional
 
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel, field_validator
-import anthropic
+
+from services.llm import chat
 
 router = APIRouter()
 
-_anthropic_client: Optional[anthropic.Anthropic] = None
-
-
-def get_client() -> anthropic.Anthropic:
-    global _anthropic_client
-    if _anthropic_client is None:
-        api_key = os.environ.get("ANTHROPIC_API_KEY")
-        if not api_key:
-            raise HTTPException(status_code=503, detail="ANTHROPIC_API_KEY not configured")
-        _anthropic_client = anthropic.Anthropic(api_key=api_key)
-    return _anthropic_client
 
 
 class FeedbackRequest(BaseModel):
@@ -52,8 +43,6 @@ class FeedbackResponse(BaseModel):
 
 @router.post("/", response_model=FeedbackResponse)
 def get_feedback(req: FeedbackRequest) -> FeedbackResponse:
-    client = get_client()
-
     framework_note = (
         f"\n\nFramework context: {req.framework_context}" if req.framework_context else ""
     )
@@ -66,29 +55,19 @@ def get_feedback(req: FeedbackRequest) -> FeedbackResponse:
         "Be encouraging but honest. Keep feedback under 200 words."
     )
 
-    message = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=500,
-        system=system_prompt,
-        messages=[
-            {
-                "role": "user",
-                "content": (
-                    f"Template: {req.template_id}\n"
-                    f"Field: {req.field_id}\n"
-                    f"Learner response:\n{req.response_text}"
-                    f"{framework_note}\n\n"
-                    "Please provide feedback in this JSON format:\n"
-                    '{"feedback": "...", "suggestions": ["...", "..."]}'
-                ),
-            }
-        ],
+    user_content = (
+        f"Template: {req.template_id}\n"
+        f"Field: {req.field_id}\n"
+        f"Learner response:\n{req.response_text}"
+        f"{framework_note}\n\n"
+        "Please provide feedback in this JSON format:\n"
+        '{"feedback": "...", "suggestions": ["...", "..."]}'
     )
 
-    raw = message.content[0].text if message.content else "{}"
-
-    # Parse the structured response safely
-    import json, re
+    try:
+        raw = chat(system_prompt=system_prompt, user_content=user_content, max_tokens=500)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=503, detail=str(exc))
 
     json_match = re.search(r'\{.*\}', raw, re.DOTALL)
     if json_match:

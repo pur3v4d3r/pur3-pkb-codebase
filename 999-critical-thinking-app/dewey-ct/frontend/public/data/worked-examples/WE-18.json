@@ -1,0 +1,139 @@
+{
+  "id": "WE-18",
+  "we_number": "WE-18",
+  "title": "\"We should walk to work instead of driving\"",
+  "subtitle": "A beginner Toulmin Argument Model analysis of an everyday household decision",
+  "framework": "toulmin-argument",
+  "framework_label": "Toulmin Argument Model",
+  "object_type": "decision",
+  "question_type": "practical / normative",
+  "stakes": "low",
+  "difficulty": "beginner",
+  "duration_minutes": 20,
+  "pre_confidence": 3,
+  "post_confidence": 4,
+  "rigor_score": 3.5,
+  "tags": ["toulmin-argument", "everyday-reasoning", "practical", "health", "decision"],
+  "summary": "A person argues that their household should walk to work rather than drive on days when weather permits. Using the Toulmin Argument Model, the full structure of this ordinary claim is unpacked: the Claim (walk instead of drive), the Grounds (the commute is 2.3km and takes 8 minutes by car), the Warrant (journeys under 3km that take less than 30 minutes on foot can reasonably be completed by walking), the Backing (NHS physical activity guidelines recommending 150 minutes of moderate activity per week), the Qualifier (on dry days when carrying no heavy equipment), and the Rebuttal (unless there is a time constraint that makes the 25-minute walking commute impractical). The example shows that even simple everyday arguments have this structure — making it explicit builds the habit of identifying what type of support a claim actually needs.",
+  "how_to_use": "Read this worked example before attempting PP-09 or PP-27. Because the argument is simple and familiar, you can focus entirely on understanding what each Toulmin element does — rather than struggling with the content domain. Notice especially: (1) the Warrant is the connective tissue — it is what allows the Grounds to support the Claim; (2) the Qualifier is not a weakness of the argument but a precision improvement — it tightens the claim to the conditions under which it actually holds; (3) the Rebuttal pre-emptively identifies the conditions that would defeat the argument, which strengthens the overall position rather than weakening it.",
+  "learning_objectives": [
+    "Identify all six elements of the Toulmin model in a simple, concrete argument",
+    "Understand the function of the Warrant — why Grounds alone are insufficient to establish a Claim, and what role the Warrant plays in bridging them",
+    "See how Qualifiers and Rebuttals improve argument quality by making the conditions and limits of a claim explicit, rather than leaving them implicit and vulnerable to challenge",
+    "Practice the habit of asking 'where is the warrant?' whenever evaluating any argument — this is often where reasoning fails"
+  ],
+  "related_template_id": "toulmin-argument-map-v1",
+  "related_practice_problems": ["PP-09", "PP-27"],
+  "sections": [
+    {
+      "section_label": "The Original Argument (Unstructured)",
+      "content": "Person A says to Person B: 'We should walk to work instead of driving. It's only about 2km away, it takes like eight minutes by car — we're barely in the car before we've arrived. Walking would probably take twenty-five minutes, which isn't much more, and at least we'd get some exercise. Obviously not if it's pouring rain or we have to bring heavy stuff. But on a normal dry morning? We should just walk.'\n\nThis is a natural, informal argument. It makes intuitive sense but the components are mixed together — the claim, the evidence, the reasoning, the conditions, and the exceptions are all present but jumbled. The Toulmin model gives us a way to sort them."
+    },
+    {
+      "section_label": "Element 1 — The Claim",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Claim is the conclusion the argument is trying to establish — what the arguer wants the audience to believe or do."
+        },
+        {
+          "label": "The claim in this argument",
+          "content": "We should walk to work on suitable mornings rather than driving."
+        },
+        {
+          "label": "Note on claim precision",
+          "content": "The original argument says 'walk instead of driving' but the final word 'on a normal dry morning' immediately qualifies this. Recognising this, we state the Claim in its qualified form from the start. An unqualified claim ('we should always walk') would be easier to defeat; the qualified version ('on suitable mornings') is more defensible. We will handle the qualification formally in Element 4."
+        }
+      ]
+    },
+    {
+      "section_label": "Element 2 — The Grounds",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Grounds are the evidence, data, or facts offered to support the Claim — the 'because...' of the argument. Grounds answer: what is the factual basis you are appealing to?"
+        },
+        {
+          "label": "The grounds in this argument",
+          "content": "The commute distance is approximately 2.3km. The drive takes approximately 8 minutes by car. The walk would take approximately 25 minutes. The walking commute therefore requires approximately 17 additional minutes on the trip."
+        },
+        {
+          "label": "Why grounds alone are insufficient",
+          "content": "These facts are real but they do not, by themselves, establish the claim. Someone could accept all these facts and still disagree — '17 extra minutes is too much.' The facts need to be connected to the claim via a principle. That is the job of the Warrant."
+        }
+      ]
+    },
+    {
+      "section_label": "Element 3 — The Warrant",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Warrant is the rule, principle, or assumption that licenses the move from Grounds to Claim. It answers: 'Why do those facts support that conclusion?' The Warrant is often implicit — skilled critical thinkers make it explicit, because unexpressed warrants are the most common place where arguments fail."
+        },
+        {
+          "label": "The warrant in this argument",
+          "content": "For household commutes under 3km where the walking time is within 30 minutes, the health benefits and convenience benefits of walking make it the preferable option over driving, all else being equal."
+        },
+        {
+          "label": "Identifying the implicit warrant",
+          "content": "Person A never states this principle explicitly — it is assumed. But it is doing a lot of work. If you disputed the warrant ('I don't think 25 minutes of walking beats 8 minutes of driving even for short distances'), the whole argument collapses even if you accept the facts. Making the warrant explicit allows you to ask: 'Is this principle reasonable? Does it apply here? What would change it?'"
+        }
+      ]
+    },
+    {
+      "section_label": "Element 4 — The Backing",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Backing provides the authority or evidence that supports the Warrant itself. If someone challenges the warrant — 'Why should I accept that health benefits make walking preferable for short commutes?' — the Backing is the answer."
+        },
+        {
+          "label": "The backing in this argument",
+          "content": "NHS guidelines and the broader public health evidence base recommend 150 minutes of moderate-intensity physical activity per week for adults. A 25-minute walk constitutes moderate-intensity physical activity for most adults. Five walking commutes per week would contribute 250 minutes, exceeding the guideline. The drive contributes zero minutes of physical activity."
+        },
+        {
+          "label": "Note",
+          "content": "Person A does not cite NHS guidelines in their original argument — they just say 'at least we'd get some exercise.' The Backing is the formalised version of that appeal. Identifying what the backing would need to be (to defend the warrant) is a useful critical thinking exercise even when the backing is not originally stated."
+        }
+      ]
+    },
+    {
+      "section_label": "Element 5 — The Qualifier",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Qualifier expresses the degree of confidence or the conditions under which the Claim holds. It converts an absolute claim into a calibrated claim. Qualifiers include words like 'usually,' 'probably,' 'in most cases,' and conditional phrases like 'when X is the case.'"
+        },
+        {
+          "label": "The qualifier in this argument",
+          "content": "On dry mornings when neither party is carrying heavy equipment and there is no time-sensitive appointment that requires the shorter commute."
+        },
+        {
+          "label": "Why qualifiers strengthen arguments",
+          "content": "A common mistake in argumentation is to treat qualifiers as admissions of weakness. In fact, explicit qualifiers make an argument more honest and more defensible. An unqualified 'we should always walk' is easily defeated by pointing to a rainy day. A qualified 'we should walk on dry mornings without heavy loads' is harder to attack because it has already anticipated and excluded its most obvious counterexamples."
+        }
+      ]
+    },
+    {
+      "section_label": "Element 6 — The Rebuttal",
+      "fields": [
+        {
+          "label": "What it is",
+          "content": "The Rebuttal describes the conditions or counter-arguments that would defeat the Claim — the circumstances under which the claim does not hold, or the strongest objection that must be addressed. Unlike the Qualifier (which expresses known limits), the Rebuttal engages with active opposition."
+        },
+        {
+          "label": "The rebuttal in this argument",
+          "content": "Unless: (a) the weather is unsuitable for walking; (b) one party is transporting equipment that makes a 2.3km walk impractical; (c) there is a time constraint on arrival that makes the 25-minute walk impractical on that specific day. In any of these conditions, the Grounds — while still true — do not override the practical constraints, and driving is the better choice."
+        },
+        {
+          "label": "Engaging with the rebuttal",
+          "content": "The original argument actually anticipated all three of these: 'obviously not if it's pouring rain or we have to bring heavy stuff.' This shows good argumentative instinct — pre-empting obvious counter-arguments builds credibility. The Toulmin model gives us the label (Rebuttal) and the habit: whenever you make a claim, ask 'what would defeat this?' and address it."
+        }
+      ]
+    },
+    {
+      "section_label": "Summary: The Complete Argument Structure",
+      "content": "CLAIM: We should walk to work rather than drive.\n\nGROUNDS: The commute is 2.3km; driving takes 8 minutes; walking takes 25 minutes (17 minutes longer).\n\nWARRANT: For short commutes under 3km where the walking time is within 30 minutes, the health benefits of walking make it preferable to driving all else being equal.\n\nBACKING: NHS and public health guidelines recommend 150 minutes of moderate-intensity physical activity per week; a 25-minute walk counts toward this; the drive contributes nothing.\n\nQUALIFIER: On dry mornings, when neither party is carrying heavy loads and there is no pressing time constraint.\n\nREBUTTAL: Unless weather, heavy loads, or time constraints apply — in which case driving is appropriate.\n\nKEY TAKEAWAY: This is an ordinary, low-stakes everyday argument. But it has exactly the same deep structure as a high-stakes policy argument or a scientific debate. Bloom's taxonomy would say that identifying this structure is at the Analyze level; evaluating whether each element is well-supported is at the Evaluate level. The Toulmin model gives you the analytical vocabulary to do both — for any argument, simple or complex."
+    }
+  ]
+}

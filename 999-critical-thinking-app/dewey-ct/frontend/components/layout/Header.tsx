@@ -8,10 +8,14 @@ interface NavLink {
 const NAV_LINKS: NavLink[] = [
   { href: '/', label: 'Chapters' },
   { href: '/frameworks', label: 'Frameworks' },
+  { href: '/mental-models', label: 'Mental Models' },
+  { href: '/cheat-sheets', label: 'Cheat Sheets' },
   { href: '/templates', label: 'Templates' },
   { href: '/practice', label: 'Practice' },
   { href: '/ask', label: 'Ask' },
   { href: '/portfolio', label: 'Portfolio' },
+  { href: '/review', label: 'Review' },
+  { href: '/assess', label: 'Assess' },
 ];
 
 export default function Header() {

@@ -1,0 +1,69 @@
+{
+  "id": "WE-17",
+  "we_number": "WE-17",
+  "title": "\"We should launch the new feature now — our users are asking for it\"",
+  "subtitle": "Systematic cognitive bias audit of a product development decision under confirmation pressure",
+  "framework": "cognitive-biases",
+  "framework_label": "Cognitive Biases",
+  "object_type": "decision",
+  "question_type": "evaluative / practical",
+  "stakes": "high",
+  "difficulty": "intermediate",
+  "duration_minutes": 40,
+  "pre_confidence": 4,
+  "post_confidence": 2,
+  "rigor_score": 4.2,
+  "tags": ["cognitive-biases", "decision", "product", "confirmation-bias", "anchoring", "survivorship-bias", "groupthink"],
+  "summary": "A product team is deciding whether to accelerate the launch of a major new feature after receiving several enthusiastic user requests. The team's collective confidence is 4/5 in favour of launching early. A systematic bias audit reveals five active cognitive biases distorting the decision: confirmation bias (the team has been selectively collecting user feedback), availability heuristic (memorable enthusiastic users are dominating the mental sample), anchoring bias (the original launch date has anchored all subsequent timeline negotiations), survivorship bias (they are only hearing from power users, not churned users who left because of missing features), and groupthink (the team lead's enthusiasm has suppressed dissenting analysis). Post-audit confidence drops to 2/5 — not that the feature is bad, but that the current evidence base is systematically skewed and the launch timeline decision cannot be trusted until the biases are corrected for.",
+  "how_to_use": "Read this worked example before attempting PP-25 or PP-26. Notice especially: (1) the audit proceeds bias by bias — each one is named, its mechanism explained in this specific context, and its distortion effect estimated; (2) the analyst does not dismiss the user enthusiasm as irrelevant — they assess how much weight it should carry after debiasing; (3) the recommended corrective actions are concrete and proportionate to the bias severity. Apply the same multi-bias audit to a team decision in your own context where group confidence feels higher than the evidence base warrants.",
+  "learning_objectives": [
+    "Learn to name specific biases precisely rather than generically acknowledging 'we might have blind spots' — the value of bias literacy is its diagnostic specificity",
+    "Understand how cognitive biases compound: each individual bias may be minor, but five simultaneously active biases converge to produce a collective confidence level that significantly exceeds what the evidence supports",
+    "See how to design concrete debiasing moves for each identified bias — the goal of bias analysis is not to produce paralysis but to identify specific actions that would allow a better-calibrated decision",
+    "Observe how group contexts amplify individual biases: confirmation bias operates differently at team level (shared information environment) than at individual level"
+  ],
+  "related_practice_problems": ["PP-25", "PP-26"],
+  "sections": [
+    {
+      "section_label": "The Decision Context",
+      "fields": [
+        {
+          "label": "The Decision",
+          "content": "A 6-person product team at a B2B SaaS company is debating whether to accelerate the launch of a bulk-export feature from Q3 to Q2 — a six-week acceleration. The feature is 80% complete. The team has received several enthusiastic messages from users requesting the feature, including two phone calls from power users who said it was a blocker for their workflows. The team lead is strongly in favour of accelerating; two engineers are uncertain; one product manager has concerns but has not escalated them formally."
+        },
+        {
+          "label": "Pre-Audit Confidence",
+          "content": "The team's collective position, as expressed in the last sprint planning meeting: 'We should accelerate to Q2. Our users are asking for it. We're 80% done — let's get it shipped.' Confidence level: approximately 4/5. The team expects minor pushback at the executive review but believes the user evidence is compelling."
+        },
+        {
+          "label": "Trigger for Bias Audit",
+          "content": "The product manager who had undisclosed concerns shares the following observation: 'Of the 500 active users in our segment, we have heard from exactly 6 about this feature. We are calling 6/500 evidence that users are asking for it.' The team lead asks for a structured audit before the executive review."
+        }
+      ]
+    },
+    {
+      "section_label": "Bias 1: Confirmation Bias",
+      "content": "WHAT THE BIAS IS: Confirmation bias is the tendency to search for, interpret, and recall information in a way that confirms existing beliefs. In group settings, it manifests as shared confirmation bias — the group collectively pays attention to information that supports the current preference and discounts information that challenges it.\n\nHOW IT IS ACTIVE HERE: The team's user feedback collection is not systematically designed — it reflects what surfaces organically. The enthusiastic messages from power users arrived through the support channel and were discussed at multiple team meetings. The support channel also contains 3 tickets from users reporting bugs in the existing export flow (suggesting the current feature is already problematic) and 1 message from a user who cancelled their subscription citing missing reporting features — none of these were brought up in the launch discussion.\n\nDISTORTION EFFECT: The team's mental model of 'user demand' is constructed almost entirely from positive signals. The information environment has been curated — not intentionally, but structurally — to favour the launch decision.\n\nCORRECTIVE ACTION: Before the executive review, the team should: (a) systematically review all user feedback from the last 90 days, not just feedback about this feature; (b) specifically search for evidence that would challenge the Q2 launch decision (e.g., are there competing feature requests that rank higher by volume? are there unresolved stability issues with the current product that would be exacerbated by adding new surface area?)."
+    },
+    {
+      "section_label": "Bias 2: Availability Heuristic",
+      "content": "WHAT THE BIAS IS: The availability heuristic is the tendency to estimate frequency or probability based on how easily examples come to mind. Events or cases that are vivid, emotional, or recent feel more representative than they are.\n\nHOW IT IS ACTIVE HERE: The two phone calls from power users are dramatically more available in the team's memory than the aggregate behaviour of the other 494 users. Phone calls are rare, personal, and emotionally engaging — they are remembered and referenced repeatedly. The 494 users who have not contacted the team about this feature are systematically invisible because they have not generated a memorable event.\n\nDISTORTION EFFECT: The team's intuitive sense of 'user demand' is being driven by 2 vivid events, not by the base-rate behaviour of their user base. This would be acceptable if the 2 users were a representative sample; they are almost certainly not — power users who call the support team are disproportionately engaged and atypical.\n\nCORRECTIVE ACTION: Weight user feedback by representativeness, not by vividness. How many users have exported data using the existing (limited) export feature? That usage data represents silent signal from the full user base. Compare that against the explicit requests."
+    },
+    {
+      "section_label": "Bias 3: Anchoring",
+      "content": "WHAT THE BIAS IS: Anchoring is the tendency to rely too heavily on the first piece of information encountered (the 'anchor') when making decisions. Subsequent adjustments from the anchor are typically insufficient — we underadjust.\n\nHOW IT IS ACTIVE HERE: The original Q3 launch date was set during the roadmap planning cycle based on engineering capacity estimates and competing priorities. That date has implicitly become the baseline against which all subsequent timeline discussions are measured. The Q2 accelerated launch is being evaluated as 'bringing the date forward by six weeks' — but the Q3 date itself has not been re-evaluated. If Q3 was set by insufficient analysis, the anchor is itself unreliable, and Q2 acceleration is being measured against a flawed baseline.\n\nDISTORTION EFFECT: The team is debating Q2 vs Q3 as if those are the only options. The Q4 option (additional time to finish properly and build in proper QA) has not been discussed. The anchor has constrained the option space.\n\nCORRECTIVE ACTION: Explicitly re-open the option space. What would a Q4 launch look like? What would a 'fast Q2 but limited scope' launch look like (shipping 60% of the feature now)? Generating these alternatives breaks the two-anchor framing and may surface dominated options that are better than either current candidate."
+    },
+    {
+      "section_label": "Bias 4: Survivorship Bias",
+      "content": "WHAT THE BIAS IS: Survivorship bias is the tendency to focus on entities that 'survived' some selection process while overlooking those that did not, leading to false conclusions about the population.\n\nHOW IT IS ACTIVE HERE: The team's user feedback comes exclusively from active users — specifically, from engaged, vocal power users. The users who churned because the product lacked the export capabilities they needed are no longer in the user base and therefore cannot provide feedback. The team is implicitly assuming that the user feedback they receive is representative of their total addressable market. It is not — it is representative only of users who stayed.\n\nDISTORTION EFFECT: The team may be optimising for the revealed preferences of their survivors while remaining blind to the preferences of the users they lost. If churned users consistently cite missing features as their reason for leaving, that is stronger evidence for feature prioritisation than enthusiastic messages from retained power users.\n\nCORRECTIVE ACTION: Pull churn interview data from the last 6 months. What did churned users cite as reasons for leaving? If missing export capability appears in churn data, it is a strong signal. If it does not appear, the urgency case weakens considerably."
+    },
+    {
+      "section_label": "Bias 5: Groupthink",
+      "content": "WHAT THE BIAS IS: Groupthink is the tendency for groups to prioritise consensus and cohesion over critical analysis, suppressing dissent and producing an illusion of unanimity.\n\nHOW IT IS ACTIVE HERE: The team lead expressed strong enthusiasm for the Q2 launch early in the discussion. One engineer said 'I have some concerns about the QA timeline' but backed down when asked 'what specifically?' The product manager with more substantial concerns did not raise them in the group meeting, planning to raise them 'offline.' The group's public position became 4/5 confidence, but at least two team members privately hold lower confidence that they have not voiced.\n\nDISTORTION EFFECT: The group confidence of 4/5 reflects the team lead's confidence amplified by social dynamics, not the actual distribution of individual views. The real distribution is probably: 5/5 (team lead), 3/5 (two engineers), 2/5 (product manager) — an average closer to 3.25/5, not 4/5.\n\nCORRECTIVE ACTION: Before the executive review, implement a pre-mortem: ask each team member individually to write down the most likely reasons this launch could fail. Aggregate the responses anonymously. This provides a structured mechanism for dissenting views to surface without requiring public contradiction of the team lead."
+    },
+    {
+      "section_label": "Post-Audit Assessment and Recommended Actions",
+      "content": "POST-AUDIT CONFIDENCE: 2/5 in the Q2 launch decision as currently justified. Not 2/5 in the feature itself — the feature may be excellent. 2/5 in the claim that the current evidence base warrants the accelerated timeline.\n\nBIAS SEVERITY RANKING:\n1. Survivorship Bias: HIGH — this is the most structurally serious distortion because it potentially inverts the signal. If churned users cited export limitations, that would change the launch framing completely.\n2. Confirmation Bias: HIGH — the information environment is asymmetric in ways that are not intentional but are systematic.\n3. Availability Heuristic: MEDIUM — the phone calls are vivid but the distortion is correctable with usage data.\n4. Groupthink: MEDIUM — real, but partially correctable with the pre-mortem mechanism.\n5. Anchoring: MEDIUM — the Q3/Q2 framing is constraining but not necessarily leading to the wrong decision.\n\nRECOMMENDED ACTIONS BEFORE THE EXECUTIVE REVIEW:\n1. Pull churn data (Survivorship Bias corrective) — 30 minutes\n2. Systematic support ticket review, positive and negative (Confirmation Bias corrective) — 1 hour\n3. Usage data on existing export feature (Availability Heuristic corrective) — 15 minutes\n4. Anonymous pre-mortem exercise with team (Groupthink corrective) — 45 minutes\n5. Generate Q4 option analysis (Anchoring corrective) — 30 minutes\n\nTOTAL TIME INVESTMENT: ~3 hours. The decision involves 6 engineers for 6 weeks of work (~36 person-weeks). Three hours of structured debiasing work to avoid a potential misallocation of 36 person-weeks is extremely high-leverage."
+    }
+  ]
+}

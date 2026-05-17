@@ -1,0 +1,51 @@
+{
+  "id": "PP-19",
+  "pp_number": "PP-19",
+  "title": "Apply First Principles Thinking to question whether a university degree is necessary for a software development career",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "First Principles Thinking",
+  "mental_model_id": "first-principles-thinking",
+  "object_type": "argument",
+  "difficulty": "medium",
+  "estimated_minutes": 30,
+  "related_worked_example_id": "WE-15",
+  "related_template_id": null,
+  "tags": ["mental-models", "first-principles", "education", "career", "credentials", "skill-acquisition"],
+  "object_of_analysis": "The conventional belief: 'To have a successful career in software development, you should get a computer science or software engineering degree from a recognised university. The degree teaches the fundamentals — algorithms, data structures, systems — that self-taught developers lack, and it signals competence to employers in a way that bootcamp certificates or portfolio projects cannot match.'",
+  "context": "This belief is widely held, including by many senior engineers who hold degrees and hiring managers at large technology companies. It is also contested: a significant number of successful software engineers are self-taught or bootcamp graduates. The question has real stakes for people deciding how to invest 3-4 years and significant financial resources. You are applying First Principles Thinking to examine the belief — not to argue it is false, but to identify which claims within it are supported by first principles and which are convention.",
+  "instructions": "Apply First Principles Thinking to decompose this belief. Separate it into its component claims, then evaluate each claim at the level of first principles rather than convention. Your analysis should answer: (1) What does a software development career actually require — what are the irreducible competencies? (2) Does a university CS degree reliably provide those competencies? (3) Are there alternative paths that provide the same or equivalent competencies? (4) What is the degree actually signalling to employers, and is that signal still accurate? Conclude with a first-principles reformulation of the belief that preserves what is genuinely supported and revises what is conventional.",
+  "workspace_prompts": {
+    "identify_convention": "What parts of the belief are convention — 'this is what people in our industry do' — rather than derived from first principles? What would someone be asserting if they defended the degree requirement purely on the basis of convention vs. purely on the basis of first principles?",
+    "decompose_requirements": "What does a software development career actually require at the level of irreducible competencies? Think about: what does a software developer actually do day-to-day? What are the skills and knowledge that are genuinely non-negotiable vs. the skills that are nice-to-have vs. the skills that are entirely dependent on the specific role? Do not anchor on what degree programs teach — anchor on what the job requires.",
+    "evaluate_the_degree": "Given the irreducible competencies you identified: Does a university CS degree reliably provide them? What does the degree provide that alternatives cannot? What does the degree NOT provide that the conventional belief implies it does? Consider: how many CS graduates are unable to pass a basic coding interview? How many self-taught developers can?",
+    "evaluate_the_signal": "The degree functions as a signal to employers. Apply first-principles analysis to the signal: what information is the employer trying to access when they require a degree? Is the degree still an accurate signal of that information? What alternative signals could provide the same or more accurate information?"
+  },
+  "hints": [
+    {
+      "id": "hint-1",
+      "title": "The credential vs. the competency — they are different things",
+      "content": "First principles separates two claims that the conventional belief conflates: (1) the degree teaches valuable things; (2) the degree is necessary to have a successful career. These are logically independent. A degree could teach valuable things and still not be necessary if those things can be learned through other means. The first-principles question is not 'does the degree teach valuable things?' (it does) but 'are those things uniquely and reliably obtainable through the degree, at the cost the degree requires, compared to alternatives?'"
+    },
+    {
+      "id": "hint-2",
+      "title": "The employer signal — what is actually being screened?",
+      "content": "When a hiring manager requires a CS degree, what are they actually trying to learn? First-principles decomposition of the signal: (1) baseline technical literacy (can this person write working code?); (2) learning capacity (did this person complete a multi-year intellectually demanding program?); (3) conscientiousness and persistence (proxy: they finished something hard); (4) specific technical depth (algorithms, systems, etc.). The question is whether the degree is still the best available signal for each of these, or whether GitHub portfolios, standardized assessments, or technical interviews have superseded it as a more accurate signal."
+    },
+    {
+      "id": "hint-3",
+      "title": "The 'fundamentals' claim — what are the CS fundamentals and when do they matter?",
+      "content": "The conventional belief claims CS degrees teach 'fundamentals that self-taught developers lack.' First-principles check: what are the fundamentals? For most software development work (web applications, mobile apps, business software), the critical fundamentals are: data structures, basic algorithmic complexity, debugging, version control, testing, system design at a basic level. For a subset of roles (compilers, operating systems, graphics, machine learning infrastructure), deeper CS fundamentals are required. The first-principles question: which fundamentals are genuinely required for the specific role in question, and which are required by convention ('CS degree programs teach this so it must be important')?"
+    }
+  ],
+  "solution_sketch": {
+    "key_moves": [
+      "STRIPPING CONVENTION: The conventional belief contains at least three appeals to convention rather than first principles: 'recognised university' (prestige convention); 'signal competence' (credential-market convention); 'fundamentals that self-taught developers lack' (the assertion assumes self-taught developers lack fundamentals, which is itself an empirical claim that varies by individual).",
+      "FIRST-PRINCIPLES DECOMPOSITION OF REQUIREMENTS: What does a software development career actually require? (1) Ability to write working code in at least one relevant language; (2) ability to read and understand existing codebases; (3) problem decomposition — translating an unclear requirement into discrete implementable steps; (4) debugging — systematic diagnosis of why code behaves unexpectedly; (5) communication — explaining technical decisions to non-technical colleagues. None of these are exclusively taught in degree programs. All of them are testable directly.",
+      "WHAT THE DEGREE RELIABLY PROVIDES: (1) Exposure to algorithms and data structures (broadly applicable); (2) exposure to systems concepts (variable applicability by role); (3) a documented signal of multi-year completion of a demanding program; (4) peer network. The degree does NOT reliably provide: practical engineering experience on real codebases; current industry tool proficiency; ability to ship production code.",
+      "THE SIGNAL ANALYSIS: The degree functions as a lazy screen because technical interviews are expensive and error-prone. Hiring managers use degree requirements to reduce the volume of applications rather than because the degree accurately predicts job performance. Multiple hiring studies (LinkedIn, Google's internal data shared by Laszlo Bock) have found that college GPA and prestige have near-zero predictive validity for job performance beyond the first few years. The signal is increasingly inaccurate — but it persists because no cheaper, more accurate signal has been universally adopted.",
+      "FIRST-PRINCIPLES REFORMULATION: 'A software development career requires the ability to write working code, decompose problems, debug systematically, and communicate technical decisions. These competencies can be developed through multiple paths — degree programs, self-directed learning, bootcamps, apprenticeships — and should be evaluated directly through demonstrated work, not proxied through credential signals. A university CS degree accelerates the development of some theoretical fundamentals and provides a credential that reduces friction in employer screening processes. It is neither necessary nor sufficient for a successful software career, and its value relative to alternatives is highly dependent on the specific role, employer, and the individual's alternative learning capacity.'"
+    ],
+    "revised_position": "A university CS degree is one path to a software development career. It reliably provides theoretical computer science foundations and a credential that reduces employer screening friction. It does not reliably produce job-ready engineers without additional practical experience, and its signal value to employers is declining as direct assessment tools improve. The requirement for a degree is increasingly a convention rather than a first-principles requirement — and the most rigorous employers (by hiring outcome data) have recognized this and removed degree requirements from their screening processes."
+  }
+}

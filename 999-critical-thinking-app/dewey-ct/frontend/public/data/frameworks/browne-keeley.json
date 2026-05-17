@@ -261,5 +261,76 @@
     "exercise_feature": "Each question generates a distinct exercise type",
     "quick_reference": "Question bank surfaced during argument evaluation tasks",
     "llm_integration": "Claude can evaluate user arguments against the 10-question rubric"
+  },
+  "historical_origin": {
+    "pedagogical_origins": "M. Neil Browne and Stuart Keeley were both professors at Bowling Green State University in Ohio when they developed 'Asking the Right Questions' in the late 1970s. Browne taught economics and Keeley taught psychology, and both had become frustrated with the gap between their students' ability to reproduce disciplinary content and their ability to critically evaluate the arguments they encountered in coursework, media, and professional life. Their framework was explicitly practical: not a philosophical account of what good reasoning requires, but a usable protocol that students without philosophy training could apply to any persuasive text.",
+    "rhetorical_tradition": "The 10-question framework sits at the intersection of classical rhetoric, informal logic, and consumer advocacy. The concern with value assumptions and descriptive assumptions (Questions 4 and 5) reflects the rhetorical tradition's attention to enthymemes — unstated premises. The concern with evidence quality (Question 7) and alternative explanations (Question 8) reflects the empirical tradition. The concern with practical significance (Question 10) reflects Browne's background in applied social science.",
+    "evolution_across_editions": "The framework has gone through twelve editions from 1981 to 2019, with each edition refining the question sequence, adding examples from contemporary public discourse, and expanding the chapter on statistical and research design evaluation (Question 7). The core 10-question structure has remained stable across all editions, suggesting that Browne and Keeley identified a genuinely robust set of failure modes in public argumentation that have not become less relevant over time.",
+    "practical_vs_philosophical_distinction": "The Browne-Keeley framework occupies a distinctive niche in CT education: it is more practically accessible than philosophical frameworks (Paul-Elder, Delphi, Ennis) but more rigorous than popular CT self-help books. Its audience is explicitly the general educated adult encountering persuasive arguments, not the philosophy student studying logic. This accessibility, combined with its genuine rigor, has made it one of the most widely assigned CT texts in undergraduate general education programs."
+  },
+  "teaching_applications": {
+    "overview": "The 10 questions provide a complete diagnostic protocol that students can apply immediately to any argument. The pedagogical challenge is teaching the questions in sequence without letting students treat them as a checklist to complete perfunctorily — each question must be genuinely engaged, not just nominally addressed.",
+    "sequential_analysis_exercise": {
+      "description": "Have students work through the full 10-question sequence on a single real argument (editorial, advertisement, policy brief). The sequence must be followed in order: each question builds on the previous ones.",
+      "implementation": [
+        "Step 1 (Q1-2): Identify the issue, conclusion type, and explicit reasons before reading further.",
+        "Step 2 (Q3): Identify every ambiguous key term and specify its possible meanings.",
+        "Step 3 (Q4-5): Identify value assumptions and descriptive assumptions. For each, ask: 'What must the author take for granted for this reason to support this conclusion?'",
+        "Step 4 (Q6): Run each reason through a fallacy screen. Name any fallacy specifically.",
+        "Step 5 (Q7-8): Evaluate evidence quality and generate alternative explanations.",
+        "Step 6 (Q9-10): Identify meaningful omissions and assess practical significance."
+      ],
+      "discussion_focus": "After the exercise: which questions were most often skipped informally? Students typically address Q1-2 and Q6-7 intuitively but skip Q4-5 (assumption hunting) and Q8-9. These are the questions that expose the most hidden weaknesses."
+    },
+    "assumptions_workshop": {
+      "description": "Question 4 (Value Assumptions) and Question 5 (Descriptive Assumptions) are the least intuitive questions in the protocol and the ones students most benefit from practicing in isolation before applying within the full sequence.",
+      "activity": "Present students with 5-10 argument fragments (1-2 sentences each: reason + conclusion). For each: What value must the author hold for this reason to support this conclusion? What empirical belief about how the world works must be assumed? Which of these assumptions would someone who disagrees most contest?",
+      "insight_to_draw_out": "Most arguments are contested not at the evidence level but at the assumption level. Identifying the assumptions typically reveals the real locus of disagreement."
+    },
+    "alternatives_exercise": {
+      "description": "Question 8 (alternative explanations) is the inference-quality checkpoint: can the student recognize that the evidence cited is consistent with explanations other than the one offered?",
+      "activity": "Present a causal claim and the evidence cited for it. Students must generate at least three alternative explanations that would account for the same evidence, then evaluate which is most plausible and what additional information would distinguish between them.",
+      "connection": "This is the same as Delphi's Inference sub-skill of 'Conjecturing Alternatives' — the capacity to avoid premature commitment to the first plausible explanation."
+    }
+  },
+  "self_assessment_checklist": {
+    "protocol_completeness": [
+      "Did I identify the issue clearly before evaluating the argument, or did I begin evaluating before I was certain what was being argued?",
+      "Did I distinguish the type of issue (descriptive vs. prescriptive) — and apply the appropriate evaluative standards for each?",
+      "Did I identify the unstated value assumptions in the argument, or did I only examine the explicitly stated reasons?",
+      "Did I generate alternative explanations for the evidence cited, or did I accept the author's explanation and proceed?"
+    ],
+    "habitual_omissions": [
+      "Which of the 10 questions do I habitually skip in informal reading? (Most people skip Q4, Q5, Q8, and Q9.)",
+      "When I identify ambiguity (Q3), do I specify which interpretation makes the argument strongest and which weakest — or do I just note that a term is vague?",
+      "When I find a fallacy (Q6), can I name it specifically and explain exactly what makes it fallacious, or do I rely on a vague sense that 'something is wrong'?",
+      "Do I assess practical significance (Q10), or do I focus entirely on logical structure without asking whether the claimed effect is large enough to matter?"
+    ],
+    "quality_of_engagement": [
+      "Am I treating the 10 questions as a genuine analytical protocol, or as a checklist I can complete quickly without really engaging each one?",
+      "For the arguments that matter most in my life (professional, personal, political), have I ever applied the full 10-question sequence rather than the 2-3 questions that feel most natural?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "toulmin_argument_model": {
+      "relationship_type": "Structural and diagnostic complement",
+      "description": "The Toulmin model provides a structural account of argument (Claim, Data, Warrant, Backing, Qualifier, Rebuttal); Browne-Keeley provides a diagnostic protocol for evaluating arguments. They operate on the same material from different angles. Browne-Keeley's Questions 1-5 map onto Toulmin components: Q1 = Claim, Q2 = Data and Grounds, Q4-5 = Warrant and Backing. Browne-Keeley's Q6-9 provide the evaluation criteria that Toulmin's structural model does not.",
+      "combined_use": "Use Toulmin to diagram an argument's structure; use Browne-Keeley's questions to evaluate whether the structure holds up under scrutiny."
+    },
+    "walton_argumentation_schemes": {
+      "relationship_type": "Scheme identification enables targeted questioning",
+      "description": "Walton's argumentation schemes specify which critical questions are appropriate for each type of argument (Appeal to Authority, Argument from Analogy, Practical Reasoning, etc.). Browne-Keeley's Q6 (fallacies) and Q7 (evidence quality) are generic versions of the more targeted critical questions Walton's schemes prescribe. When the argumentation scheme has been identified (Walton), the specific critical questions for that scheme can replace or supplement the generic Browne-Keeley questions.",
+      "key_insight": "Browne-Keeley's questions work on any argument; Walton's critical questions are more powerful but require first identifying the argument scheme. Browne-Keeley is the general protocol; Walton is the scheme-specific extension."
+    },
+    "delphi_consensus": {
+      "relationship_type": "Practical application of formal skill taxonomy",
+      "description": "The Delphi Report's six skills (Interpretation, Analysis, Evaluation, Inference, Explanation, Self-Regulation) map onto the Browne-Keeley 10 questions: Q1-3 = Interpretation; Q2-5 = Analysis; Q6-7 = Evaluation; Q8 = Inference; Q9-10 = Evaluation/Inference. Browne-Keeley operationalizes Delphi's abstract skill definitions into a concrete sequential question protocol that can be applied without formal training in the Delphi framework.",
+      "key_difference": "Delphi is a formal taxonomic framework for defining and measuring CT; Browne-Keeley is a practical protocol for applying CT to real arguments. Use Delphi to understand the intellectual architecture; use Browne-Keeley to act on it."
+    },
+    "logical_fallacies_framework": {
+      "relationship_type": "Deepens Question 6",
+      "description": "Browne-Keeley's Question 6 ('Are there any fallacies in the reasoning?') references a general fallacy screen. The Logical Fallacies framework provides the complete taxonomy of named informal fallacies that Question 6 draws on. Knowing the names, structures, and distinguishing features of specific fallacies transforms Question 6 from a vague 'something seems wrong' check into a precise diagnostic.",
+      "practical_connection": "A student who knows only Browne-Keeley might answer Q6 with 'yes, I think there's a fallacy here but I'm not sure what kind.' A student who also knows the Logical Fallacies taxonomy answers: 'This is an appeal to questionable authority: the source cited has a financial stake in the conclusion and no relevant expertise.'"
+    }
   }
 }

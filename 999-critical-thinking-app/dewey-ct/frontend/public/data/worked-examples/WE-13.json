@@ -1,0 +1,47 @@
+{
+  "id": "WE-13",
+  "we_number": "WE-13",
+  "title": "Should I accept this job offer from a startup?",
+  "subtitle": "Applying Inversion to a career decision — asking what failure looks like before asking what success looks like",
+  "framework": "mental-models",
+  "framework_label": "Mental Models",
+  "mental_model": "Inversion",
+  "mental_model_id": "inversion",
+  "object_type": "decision",
+  "question_type": "evaluative",
+  "stakes": "high",
+  "difficulty": "intermediate",
+  "duration_minutes": 30,
+  "pre_confidence": 4,
+  "post_confidence": 3,
+  "rigor_score": 4.1,
+  "tags": ["mental-models", "inversion", "decision", "career", "startup", "risk"],
+  "summary": "The analyst receives a compelling job offer from a fast-growing startup — higher base salary, equity upside, more interesting technical work. Pre-analysis confidence is 4/5 in favour of accepting. Rather than continuing to accumulate reasons to accept, the analyst applies Inversion: 'What would have to be true for this to be the worst decision I could make?' This reframe surfaces three failure paths that had not appeared in the forward analysis: dependency on a single charismatic founder, absence of a documented vesting cliff, and a go-to-market strategy built on one enterprise relationship. Post-confidence drops to 3/5 — not a reversal, but a more calibrated belief that requires verifying three specific claims before deciding.",
+  "how_to_use": "Read this before attempting PP-17. Notice: (1) how inversion changes the information you look for — not 'what evidence supports accepting?' but 'what are the cheapest ways this could fail?'; (2) how the failure paths revealed by inversion are almost never the ones the forward-analysis surfaces; (3) how the result of inversion is not necessarily a reversal — it is a set of verification requirements. A decision that survives the inversion test is more robustly held than one that simply accumulated supporting evidence.",
+  "learning_objectives": [
+    "Understand why inversion is not pessimism but calibration: you are not trying to find reasons to reject the offer, you are stress-testing the reasons to accept it",
+    "See how inversion surfaces category-level risks that forward analysis ignores: forward analysis naturally gravitates toward the factors you already know about; inversion forces you toward the factors that could blindside you",
+    "Observe the difference between 'I can think of no reason not to accept' (absence of objections found) and 'I have specifically looked for the ways this fails and none of them are fatal' (verified robustness)",
+    "Notice that the output of inversion is concrete verification tasks, not a binary accept/reject verdict"
+  ],
+  "related_template_id": null,
+  "related_practice_problems": ["PP-17"],
+  "sections": [
+    {
+      "section_label": "The Situation",
+      "content": "CONTEXT: I have been working for a mid-size software company for 4 years. I have received a job offer from a Series B startup, 80 employees, founded 3 years ago. The offer includes: (1) 22% base salary increase; (2) 0.3% equity at a $40M post-money valuation, 4-year vesting; (3) technically more interesting work — distributed systems instead of internal tooling; (4) a leadership role (tech lead on a team of 7, versus individual contributor currently).\n\nFORWARD ANALYSIS (before inversion): The salary increase solves a real problem — I have been underpaid relative to market for two years. The equity is meaningful if the company grows. The technical work aligns with where I want my career to go. The leadership opportunity is something I have been asking for at my current employer for 18 months and been told 'not yet.'\n\nPRE-CONFIDENCE: 4/5 — I am fairly sure I should accept. All four factors point the same direction. The case against is primarily 'startup risk,' which feels generic.\n\nAPPLYING INVERSION: Instead of asking 'Is there more evidence that I should accept?', I now ask: 'What would have to be true for accepting this offer to be the worst career decision I have made in the last decade?'"
+    },
+    {
+      "section_label": "Inversion: Generating the Failure Paths",
+      "content": "STEP 1 — GENERATE FAILURE SCENARIOS WITHOUT FILTERING:\nThe inversion heuristic is: imagine yourself 18 months from now explaining to a trusted friend why accepting was a catastrophic mistake. What are the most plausible versions of that story?\n\nFAILURE PATH 1 — FOUNDER DEPENDENCY: The company's growth is entirely driven by the CEO, who is an exceptional enterprise sales person. The technical product is mediocre. The CEO is the single point of failure: if they burn out, get distracted by a new venture, or become unreasonable to work with, the company stalls immediately. In this scenario: I accepted the equity based on growth potential that is actually a person, not a company — and that person's continued engagement is not something I verified or that is captured in my offer letter.\n\nFAILURE PATH 2 — EQUITY STRUCTURE PROBLEMS: I assumed the 0.3% is straightforward. I have not yet read the actual option agreement. If the vesting schedule has a 6-month cliff (not 1 year), if there is no acceleration on change of control, or if the preference stack means common equity only pays out after $120M+ exit (3x on preferred), the equity is worth substantially less than I modeled. In the failure version of this story, I accepted a 22% salary increase and traded 4 years of career runway for near-zero equity in a non-dilution-adjusted sense.\n\nFAILURE PATH 3 — CUSTOMER CONCENTRATION: The company's revenue growth comes almost entirely from two enterprise relationships, one of which is currently in contract renewal. If the larger relationship churns, the company's financials deteriorate sharply. The Series B closed 14 months ago, which means runway is 20-26 months at current burn. I would be joining with 12-18 months of effective runway before a down-round or bridge. In the failure version: the company is in distress within 12 months of my joining, the equity is wiped in a bridge, and I am looking for a new job with a resume entry that reads 'startup that struggled.'"
+    },
+    {
+      "section_label": "Evaluating the Failure Paths",
+      "content": "STEP 2 — ASSESS WHICH FAILURE PATHS ARE FATAL VS. ACCEPTABLE:\n\nFAILURE PATH 1 (FOUNDER DEPENDENCY):\n- Is this verifiable before accepting? Partially. I can ask to speak with 2-3 people who joined early (they have typically left or been vocal on LinkedIn/company reviews) and ask explicitly how decisions are made when the CEO is unavailable. I can look at the leadership team quality and bench depth.\n- Is this fatal? Yes, if true. A single-founder-dependent company with a charismatic CEO is a job, not a career building block.\n- VERDICT: Requires verification. This is not a disqualifying assumption — it is an unknown. I need to find out.\n\nFAILURE PATH 2 (EQUITY STRUCTURE):\n- Is this verifiable before accepting? Completely. I simply need to read the option agreement and ask a lawyer (or a knowledgeable peer) to review the preference stack and liquidation preferences.\n- Is this fatal? The 22% salary increase is real regardless. But if equity is near-zero, the risk/reward profile of a startup over an established employer changes significantly.\n- VERDICT: Verification is free and easy. Non-negotiable before signing.\n\nFAILURE PATH 3 (CUSTOMER CONCENTRATION):\n- Is this verifiable before accepting? Partially. I can ask directly about top-10 customer revenue concentration during the reference call. Companies often answer this honestly because they assume you already know the number is high.\n- Is this fatal? Not by itself, but combined with a 20-month runway, it creates a specific risk window. I need to know if there is a near-term renewal event.\n- VERDICT: Requires a direct question in the final negotiation call."
+    },
+    {
+      "section_label": "What Inversion Changed",
+      "content": "COMPARISON WITH THE FORWARD ANALYSIS:\n\nMy forward analysis identified: salary increase (verified — offer letter); technical interest (partially verified — job description, not actual codebase); equity upside (unverified); leadership opportunity (unverified — role title vs. actual authority).\n\nMy inversion identified: founder dependency (not examined); equity structure details (not examined); customer concentration (not examined); runway relative to joining date (not examined).\n\nNotice that the forward analysis and the inversion examined almost completely different aspects of the same decision. This is the core value of the model: forward analysis gravitates toward the factors that got you excited about the opportunity. Inversion forces attention toward the factors that you have been implicitly assuming are fine.\n\nPOST-CONFIDENCE: 3/5. Not a reversal. The four original reasons to accept are still valid. But I now have three specific unknowns that need to be resolved before the 4/5 confidence is warranted. If all three check out, I return to 4/5 and accept. If any one of them reveals a real problem, the calculation changes substantially.\n\nTHE INVERSION INSIGHT: A decision that survives inversion — where you have specifically looked for the ways it could fail and checked whether those paths are real — is a better decision than one that simply accumulated supporting evidence. The confidence is higher quality, not just higher level."
+    }
+  ]
+}

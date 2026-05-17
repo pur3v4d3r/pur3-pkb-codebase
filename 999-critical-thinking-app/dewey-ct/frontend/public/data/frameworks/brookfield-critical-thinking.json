@@ -141,5 +141,89 @@
     "exercise_integration": "Assumption-hunting prompts are integrated into reflection templates. The three assumption types provide a classification system for surfacing and examining assumptions in worked examples.",
     "cross_reference": "Compare with Paul-Elder Framework (intellectual standards + intellectual virtues), Dewey Five Phases (reflective inquiry from genuine perplexity), Lipman CoI (social dimension of assumption examination).",
     "key_insight_for_learners": "The most important assumptions to identify are the ones that feel so obviously true that asking about them seems unnecessary. When something seems self-evident, that is precisely when assumption hunting is most needed."
+  },
+  "historical_origin": {
+    "adult_education_context": "Stephen Brookfield's framework emerged directly from his work in adult and continuing education at Teachers College, Columbia University, and later at the University of St. Thomas in Minneapolis. Unlike most CT theorists who developed frameworks from philosophy or cognitive psychology, Brookfield worked with adults in practical professional contexts — teachers, nurses, community educators, managers — who needed tools for critically examining the professional assumptions shaping their practice. His 1987 book 'Developing Critical Thinkers' was written explicitly for adult educators rather than philosophers or academic researchers, and this audience shaped its distinctive character: practical, reflexive, and concerned with power as well as epistemics.",
+    "habermas_and_mezirow": "Brookfield's theoretical roots lie in Jürgen Habermas's critical theory, which distinguishes three cognitive interests: technical interest (controlling the natural world), practical interest (mutual understanding), and emancipatory interest (freedom from domination, including ideological domination). Brookfield's concern with hegemonic assumptions reflects Habermas's emancipatory interest: the goal of critical thinking is not just better reasoning but freedom from ideological constraints that make certain ways of thinking seem natural and inevitable while serving particular power interests. Jack Mezirow's transformative learning theory — which argued that adult learning at its deepest involves the transformation of the meaning-perspectives (frames of reference) through which experience is interpreted — was a parallel development that Brookfield engaged throughout his career.",
+    "freirian_influence": "Paulo Freire's 'Pedagogy of the Oppressed' (1970) significantly influenced Brookfield's attention to the social and political dimensions of assumptions. Freire's concept of 'conscientization' — the process of developing critical consciousness about the social conditions shaping one's experience — informs Brookfield's concept of hegemonic assumption hunting. Both Freire and Brookfield insist that critically examining assumptions is not a purely intellectual activity: it is a political activity with implications for how power is distributed and how social arrangements are justified.",
+    "evolution_of_the_framework": "Brookfield continued developing the framework across multiple books, with 'Teaching for Critical Thinking' (2012) representing his most mature formulation. The later work placed greater emphasis on specific practical tools for assumption hunting in educational settings — critical incident journals, the Jigsaw protocol, scenario analysis, and the classroom critical incident questionnaire. The core concept of assumption hunting as the central CT practice remained consistent throughout his career."
+  },
+  "teaching_applications": {
+    "overview": "Brookfield's framework generates distinctive pedagogical activities centered on creating conditions in which assumptions — especially the deeply held paradigmatic and hegemonic ones — can be safely surfaced and examined. The social dimension of assumption examination is central: Brookfield argues that we often see others' assumptions more clearly than our own.",
+    "critical_incident_journal": {
+      "description": "Students write regular journal entries describing significant incidents from their learning, professional, or personal experience — moments of surprise, confusion, frustration, or revelation. The entries become material for assumption hunting: what did this incident reveal about an assumption you had not previously examined?",
+      "implementation": [
+        "Assign 2-3 critical incident entries per week during a course or program.",
+        "Provide a structured prompt: Describe the incident specifically. What made it significant? What did your reaction reveal about an assumption you were making? Is that assumption defensible?",
+        "Periodically review multiple entries together to identify recurring assumption patterns."
+      ],
+      "pedagogical_rationale": "Experience precedes reflection in adult learning. The incident provides the concrete material that makes abstract assumption examination accessible. Without a specific incident to analyze, assumption hunting tends to remain generic and unconvincing."
+    },
+    "structured_controversy": {
+      "description": "Assign students to positions they do not personally hold and require them to argue those positions as persuasively as possible. The exercise surfaces the assumptions embedded in one's own position by requiring genuine engagement with the alternatives.",
+      "implementation": "For a topic students care about, assign half the class to the position they oppose. Require preparation of the strongest possible argument for that position. After the debate or discussion, reflect: what assumptions in your original position were exposed by taking the opposite view?",
+      "key_insight": "The experience of genuinely making the case for a position one opposes is more powerful than hearing someone else make it, because it requires active rather than passive engagement with the assumptions on which it rests."
+    },
+    "assumption_classification_exercise": {
+      "description": "Present students with a set of professional or personal beliefs and ask them to classify each as paradigmatic, prescriptive, or causal. This builds the analytical vocabulary for recognizing what type of assumption is in play — which matters because different assumption types require different examination strategies.",
+      "examples_for_classification": [
+        "'Students learn better when they have choice in what they study.' (Causal — testable empirically)",
+        "'Good professional practice requires emotional objectivity.' (Prescriptive — requires examination of the underlying value)",
+        "'Individual effort is the primary determinant of success.' (Paradigmatic — requires exposure to genuinely different worldviews)"
+      ]
+    },
+    "hegemonic_assumption_hunt": {
+      "description": "Focus specifically on identifying hegemonic assumptions — beliefs that feel like common sense but serve particular power interests — in a professional or institutional context.",
+      "protocol": [
+        "Identify a professional practice or institutional policy that is treated as obviously necessary or natural.",
+        "Ask: Who benefits most from this arrangement? Who bears its costs? Whose interests does it serve?",
+        "Ask: What would someone from a less powerful position see that you might not?",
+        "Ask: What would have to be true for this arrangement to be questioned rather than accepted as natural?"
+      ]
+    }
+  },
+  "self_assessment_checklist": {
+    "assumption_identification": [
+      "What beliefs about people, institutions, or how the world works am I currently taking for granted without having examined them?",
+      "In my professional practice (or academic work), what do I treat as obviously correct that someone from a very different background might see as questionable?",
+      "What is the most important thing I 'know' in my field — and have I ever actually tested whether it is true, or do I treat it as self-evidently correct?",
+      "What topics do I find myself becoming defensive about when they are questioned? Defensiveness often marks the location of an important unexamined assumption."
+    ],
+    "assumption_checking": [
+      "For the most important assumptions in my current thinking: what evidence would convince me they are wrong? If I cannot specify this, I am treating them as unfalsifiable — which is a warning sign.",
+      "Have I sought out perspectives that would challenge my most strongly held assumptions, or have I surrounded myself with views that confirm them?",
+      "Which of my assumptions are causal (empirically testable) and which are paradigmatic (requiring exposure to alternative worldviews)? Am I applying the right examination strategy for each?"
+    ],
+    "hegemonic_awareness": [
+      "Are there ways in which the dominant culture of my profession or institution has shaped my assumptions in ways I have not consciously chosen?",
+      "What would someone with significantly less power or privilege than me see differently about situations I regard as straightforwardly clear?",
+      "Do I recognize when 'common sense' or 'professional norms' might be serving particular interests rather than being universal truths?"
+    ],
+    "action_orientation": [
+      "When I identify an important assumption and examine it critically, does that examination change anything about how I act — or does it remain an intellectual exercise?",
+      "What is one assumption I have examined recently and changed, and what specific difference did that make to my practice or decisions?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "paul_elder_framework": {
+      "relationship_type": "Complementary with different emphasis",
+      "description": "Paul-Elder's framework focuses on the quality of reasoning through intellectual standards applied to the elements of thought. Brookfield's framework focuses on the assumptions underlying that reasoning. They address different layers of critical thinking: Paul-Elder asks 'Is this reasoning clear, accurate, precise, and well-evidenced?'; Brookfield asks 'What unexamined assumptions are shaping which evidence is sought, how it is interpreted, and what questions are even asked?' The frameworks are complementary: good reasoning (Paul-Elder) still requires examining the assumptions that frame what is being reasoned about (Brookfield).",
+      "combined_use": "Use Paul-Elder to evaluate the quality of explicit reasoning; use Brookfield to examine the assumptions that precede and frame that reasoning. A Paul-Elder analysis can be technically excellent while resting on unexamined paradigmatic assumptions."
+    },
+    "dewey_five_phases": {
+      "relationship_type": "Extension into the assumption layer",
+      "description": "Dewey's reflective inquiry begins with felt perplexity — when habitual responses fail and genuine reflection is triggered. Brookfield extends this by asking: what happens when our habits are so deeply ingrained as assumptions that we do not experience perplexity at all? Hegemonic and paradigmatic assumptions prevent the felt difficulty that would trigger Deweyan inquiry. Brookfield's assumption hunting is the practice of artificially inducing Dewey's Phase 1 for thinking that is too habitual to produce perplexity naturally.",
+      "key_connection": "Dewey says inquiry begins when a habit is interrupted. Brookfield says many of our most important habits (paradigmatic assumptions) never get interrupted because they feel like reality rather than habit. Assumption hunting is the practice of interrupting them deliberately."
+    },
+    "lipman_community_of_inquiry": {
+      "relationship_type": "Social mechanisms for assumption examination",
+      "description": "Lipman's Community of Inquiry provides the social structure that Brookfield's assumption examination requires but does not fully specify. Brookfield argues that we see others' assumptions more clearly than our own; the Community of Inquiry is precisely the intersubjective space where others' perspectives make our assumptions visible. Both frameworks emphasize the social dimension of critical thinking as essential, not optional.",
+      "key_overlap": "Both Brookfield and Lipman reject the image of critical thinking as a solitary individual activity. Genuine critical thinking requires exposure to genuinely different perspectives — and a community practice that makes surfacing and examining assumptions safe and productive."
+    },
+    "delphi_analysis_skill": {
+      "relationship_type": "Specific focus on the Assumptions element",
+      "description": "The Delphi framework's Analysis skill includes identifying stated and unstated premises. Brookfield's entire framework is an elaboration of this skill applied to the deepest level of assumption. Where Delphi's Analysis skill identifies the specific assumptions in a particular argument, Brookfield's assumption hunting targets the paradigmatic and hegemonic background assumptions that precede and shape the argument. Both are forms of assumption identification — Delphi at the argument level, Brookfield at the worldview level.",
+      "combined_use": "Use Delphi's Analysis skill to identify assumptions within a specific argument; use Brookfield's three assumption types to examine the deeper worldview assumptions that generate the argument in the first place."
+    }
   }
 }

@@ -190,5 +190,95 @@
     "self_assessment": "7 CCTDI dispositions as self-assessment checklist",
     "progress_tracking": "Skills map cleanly to learner progress metrics",
     "template_feature": "Explanation sub-skills as template for written reflections (Stating Results, Justifying Procedures, Presenting Arguments)"
+  },
+  "historical_origin": {
+    "commission_and_purpose": "The Delphi Project was commissioned by the American Philosophical Association's Committee on Pre-College Philosophy in 1987 and completed in 1990. The APA recognized that despite decades of CT instruction and assessment in higher education, the field lacked a shared, expert-validated definition of critical thinking — different researchers, educators, and assessment designers were measuring different things under the same label. The project's charge was to produce a consensus definition and framework rigorous enough to ground valid assessment instruments and defensible curriculum design.",
+    "methodology": "Peter Facione, a philosopher and measurement theorist at Santa Clara University, served as principal investigator. The Delphi method — a structured process for achieving expert consensus through multiple rounds of anonymous feedback, revision, and re-evaluation — was used to avoid the dominance of any single theoretical perspective. Forty-six experts across philosophy, cognitive psychology, education, and social sciences participated over two years. The final report represents genuine multi-disciplinary consensus rather than a single school's view.",
+    "scope_and_significance": "The resulting report, formally titled 'Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction,' became the most widely cited foundational document in CT education. Its canonical definition — 'purposeful, self-regulatory judgment' — achieved the definitional consensus the commission sought. More importantly, the six-skill taxonomy (Interpretation, Analysis, Evaluation, Inference, Explanation, Self-Regulation) and seven-disposition inventory became the standard framework against which subsequent CT assessment instruments were validated.",
+    "lasting_influence": "The Delphi Report directly produced or significantly shaped: the California Critical Thinking Skills Test (CCTST), the California Critical Thinking Dispositions Inventory (CCTDI), the Watson-Glaser Critical Thinking Appraisal's subsequent revisions, and dozens of CT curriculum frameworks in higher education. Its influence is present in virtually every serious CT assessment instrument developed since 1990."
+  },
+  "teaching_applications": {
+    "overview": "The Delphi framework's six skills provide a complete taxonomy of the cognitive capacities that CT education should develop. Each skill suggests distinct pedagogical activities that cannot substitute for each other — developing evaluation skill does not automatically develop inference skill, and vice versa.",
+    "skill_specific_activities": [
+      {
+        "skill": "Interpretation",
+        "activity": "Ambiguity Audit: present students with a brief text containing three deliberately ambiguous terms or claims. Task: identify each ambiguity, specify the multiple plausible meanings, and explain what would change about the argument depending on which meaning is operative.",
+        "common_failure": "Students who skip interpretation and proceed directly to evaluation are evaluating their own interpretation of the claim rather than the author's intended claim — a systematic error that produces confident but misdirected analysis."
+      },
+      {
+        "skill": "Analysis",
+        "activity": "Argument Mapping: take a 500-word argument text and produce a visual map showing the conclusion, each stated premise, and the inferential connections between them. Identify every unstated premise that must be assumed for the argument to work.",
+        "common_failure": "Students who can identify stated premises often miss the unstated ones — which frequently do more argumentative work than the stated premises and are more vulnerable to challenge."
+      },
+      {
+        "skill": "Evaluation",
+        "activity": "Evidence Quality Audit: present a set of five claims of varying evidential support quality. Students rank them from most to least well-supported and justify the ranking, citing specific features of the evidence (source reliability, sample quality, design validity, etc.).",
+        "common_failure": "Students conflate agreement with credibility — rating claims they agree with as better supported and claims they disagree with as less supported, regardless of the actual evidence."
+      },
+      {
+        "skill": "Inference",
+        "activity": "Alternative Hypothesis Generation: present a set of data and one proposed explanation. Students must generate three additional explanations that could account for the same data, evaluate which is most supported, and specify what additional evidence would distinguish between them.",
+        "common_failure": "Students accept the first plausible explanation rather than generating alternatives. This is the reasoning failure behind nearly all confirmation bias effects."
+      },
+      {
+        "skill": "Explanation",
+        "activity": "Reasoning Transcript: after completing any analytical task, students write a structured account of their reasoning using the three explanation sub-skills: (1) stating their conclusion clearly, (2) justifying why their method was appropriate for the task, and (3) presenting the argument in a form that anticipates the strongest objections.",
+        "common_failure": "Students state conclusions without justifying procedures and present arguments without anticipating objections — producing conclusions that cannot be evaluated by others."
+      },
+      {
+        "skill": "Self-Regulation",
+        "activity": "Bias Hunt: after completing an analysis, students go back through their reasoning and explicitly look for instances where their own values, prior beliefs, or motivated reasoning may have influenced which evidence they emphasized, which alternatives they considered, and how they evaluated competing claims.",
+        "common_failure": "Students treat self-regulation as a formality — confirming that their reasoning was sound rather than genuinely examining it. Self-regulation requires the truth-seeking disposition to be effective; without it, it becomes a rationalizing ritual."
+      }
+    ],
+    "disposition_cultivation_in_instruction": {
+      "description": "The seven Delphi dispositions are cultivated through the intellectual culture of instruction, not through separate lessons. Each disposition implies specific environmental conditions.",
+      "conditions": [
+        "Truth-Seeking requires intellectual environments where being wrong and updating is visibly rewarded rather than penalized.",
+        "Inquisitiveness requires freedom to pursue questions beyond the assigned scope and regular modeling of authentic intellectual curiosity by instructors.",
+        "Systematicity requires tasks complex enough to reward organized, persistent inquiry over quick approximation.",
+        "Maturity of Judgment requires repeated exposure to genuinely uncertain, complex problems where premature closure demonstrably leads to poor outcomes."
+      ]
+    }
+  },
+  "self_assessment_checklist": {
+    "six_skills_self_assessment": [
+      "Interpretation: When I encounter a complex text or argument, do I spend adequate time clarifying its meaning before evaluating it? Can I state, in my own words, what the author is claiming?",
+      "Analysis: Can I identify not just the stated premises but the unstated assumptions an argument requires? Have I examined what must be taken on faith for this reasoning to work?",
+      "Evaluation: Am I assessing the quality of evidence and argument structure independently of whether I agree with the conclusion? Would I rate this evidence as strong if it supported the opposite conclusion?",
+      "Inference: Have I generated more than one possible explanation for the evidence I am examining, or did I accept the first plausible explanation and stop looking?",
+      "Explanation: Can I state my conclusion, justify the method I used to reach it, and present an argument that addresses the strongest objections — or can I only state the conclusion?",
+      "Self-Regulation: Have I genuinely examined my own reasoning for bias and motivated reasoning, or have I merely confirmed that my reasoning 'seems sound' from inside my own perspective?"
+    ],
+    "seven_dispositions_self_assessment": [
+      "Truth-Seeking: What is the most important piece of evidence that could prove my current position wrong? Have I looked for it?",
+      "Open-mindedness: Can I identify a position I currently hold that I would be most reluctant to change even with good evidence against it? Why is that?",
+      "Analyticity: Do I approach difficult problems with disciplined reasoning, or do I rely on intuition and hope it's right?",
+      "Systematicity: When working through a complex problem, do I maintain organized focus on the central question, or do I lose track of what I was trying to determine?",
+      "CT Self-Confidence: Have I held a position that the majority around me disagreed with — and maintained it because the evidence supported it, not because I was contrarian?",
+      "Inquisitiveness: When did I last pursue a question far beyond what was required because I genuinely wanted to understand?",
+      "Maturity of Judgment: Am I comfortable with the genuine uncertainty that serious inquiry often produces, or do I rush to conclude so I can feel resolved?"
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "cctdi_and_cctst": {
+      "relationship_type": "Parent framework to assessment instruments",
+      "description": "The CCTDI (California Critical Thinking Dispositions Inventory) directly operationalizes the seven Delphi dispositions. The CCTST (California Critical Thinking Skills Test) directly operationalizes the six Delphi skills. Together these three form a coherent ecosystem: the Delphi Report provides the theoretical framework; the CCTST measures skill performance; the CCTDI measures dispositional orientation. Validity studies for both assessment instruments are conducted against the Delphi taxonomy."
+    },
+    "paul_elder_framework": {
+      "relationship_type": "Overlapping frameworks from different traditions",
+      "description": "Paul and Elder's framework (Elements, Standards, Intellectual Virtues) and the Delphi framework both identify the same core requirements for CT but organize them differently. Delphi's six skills map to Paul-Elder's Elements of Thought (Interpretation ≈ Concepts + Purpose; Analysis ≈ Information + Assumptions; Evaluation ≈ Intellectual Standards; Inference ≈ Inference; Explanation ≈ Implications; Self-Regulation ≈ Intellectual Traits). Delphi's dispositions map to Paul-Elder's Intellectual Virtues.",
+      "key_difference": "Paul-Elder provides a more integrated, holistic model centered on the Elements of Thought as the unit of analysis; Delphi provides a more modular, independently-assessable skill taxonomy. Paul-Elder is better for deep thinking analysis; Delphi is better for granular skill assessment."
+    },
+    "dewey_five_phases": {
+      "relationship_type": "Psychological process vs. skill taxonomy",
+      "description": "Dewey's Five Phases describe the temporal structure of reflective thinking (how inquiry unfolds over time); the Delphi framework describes the cognitive skills required to carry out that inquiry (what capacities are required). The two frameworks are orthogonal but complementary: Interpretation and Analysis are most active in Dewey's Phases 1-3; Evaluation and Inference in Phases 3-4; Explanation and Self-Regulation in Phases 4-5.",
+      "combined_use": "Use Dewey's phases to understand where in an inquiry the student is; use Delphi skills to assess the quality of the cognitive work at each phase."
+    },
+    "halpern_framework": {
+      "relationship_type": "Overlapping skill taxonomies from different disciplines",
+      "description": "Both Delphi and Halpern independently produced multi-skill CT taxonomies that converge substantially. Delphi emerged from philosophical consensus; Halpern from cognitive psychology research. Halpern's five skill categories (Verbal Reasoning, Argument Analysis, Hypothesis Testing, Likelihood, Decision Making) map onto subsets of Delphi's six skills. Delphi covers the explanation and self-regulation dimensions more explicitly; Halpern covers statistical reasoning and decision making more explicitly.",
+      "complementarity": "Use both: Delphi for a comprehensive canonical definition and skill taxonomy; Halpern for empirically-validated skill assessment (HCTA) and practical CT skill instruction with explicit transfer focus."
+    }
   }
 }

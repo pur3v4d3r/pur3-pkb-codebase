@@ -1,26 +1,20 @@
-import os
 import json
+import os
 from pathlib import Path
 from typing import Optional
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Request
 from pydantic import BaseModel, field_validator
-import anthropic
+
+from limiter import limiter
+from services.llm import chat
 
 router = APIRouter()
 
 DATA_DIR = Path(__file__).parent.parent.parent / "data"
-_anthropic_client: Optional[anthropic.Anthropic] = None
 
-
-def get_client() -> anthropic.Anthropic:
-    global _anthropic_client
-    if _anthropic_client is None:
-        api_key = os.environ.get("ANTHROPIC_API_KEY")
-        if not api_key:
-            raise HTTPException(status_code=503, detail="ANTHROPIC_API_KEY not configured")
-        _anthropic_client = anthropic.Anthropic(api_key=api_key)
-    return _anthropic_client
+# Rate limit for this router — reads QA_RATE_LIMIT env var, falls back to 10/minute
+_QA_RATE_LIMIT = os.environ.get("QA_RATE_LIMIT", "10/minute")
 
 
 def load_chapter(chapter_id: int) -> dict:
@@ -52,9 +46,8 @@ class QAResponse(BaseModel):
 
 
 @router.post("/", response_model=QAResponse)
-def ask_question(req: QARequest) -> QAResponse:
-    client = get_client()
-
+@limiter.limit(_QA_RATE_LIMIT)
+def ask_question(request: Request, req: QARequest) -> QAResponse:
     context_parts: list[str] = []
     sources: list[str] = []
 
@@ -77,17 +70,13 @@ def ask_question(req: QARequest) -> QAResponse:
         "Keep responses concise (under 300 words) unless the complexity of the question demands more."
     )
 
-    message = client.messages.create(
-        model="claude-haiku-4-5",
-        max_tokens=600,
-        system=system_prompt,
-        messages=[
-            {
-                "role": "user",
-                "content": f"Context:\n{context}\n\nQuestion: {req.question}",
-            }
-        ],
-    )
+    try:
+        answer = chat(
+            system_prompt=system_prompt,
+            user_content=f"Context:\n{context}\n\nQuestion: {req.question}",
+            max_tokens=600,
+        )
+    except RuntimeError as exc:
+        raise HTTPException(status_code=503, detail=str(exc))
 
-    answer = message.content[0].text if message.content else "No response generated."
     return QAResponse(answer=answer, sources=sources)

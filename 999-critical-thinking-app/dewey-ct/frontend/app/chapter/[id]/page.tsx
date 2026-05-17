@@ -1,8 +1,48 @@
-import { getChapter } from '@/lib/content';
+import { getChapter, getMentalModelsData } from '@/lib/content';
 import CalloutRenderer from '@/components/chapter/CalloutRenderer';
 import MarkReadButton from '@/components/chapter/MarkReadButton';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import type { MentalModel } from '@/types/framework';
+
+// Maps each chapter to search terms matched against model.dewey_connection (case-insensitive).
+// Only chapters with meaningful model connections are listed.
+const CHAPTER_DEWEY_KEYWORDS: Record<number, string[]> = {
+  1:  ['Phase 1', 'Suggestion', 'perplexity'],
+  2:  ['Open-Mindedness', 'intellectual virtue', 'intellectual humility', 'Intellectual Empathy'],
+  3:  ['Phase 1', 'Suggestion', 'curiosity'],
+  4:  ['Open-Mindedness', 'Intellectual Empathy'],
+  5:  ['Phase 4', 'Reasoning', 'logical'],
+  6:  ['Phase 4', 'Phase 5', 'testing', 'inference', 'verification'],
+  7:  ['Phase 1', 'Phase 2', 'Phase 3', 'Phase 4', 'Phase 5'],
+  8:  ['judgment'],
+  9:  ['Phase 2', 'Intellectualization', 'ideas', 'meaning'],
+  10: ['Phase 2', 'Intellectualization', 'definition', 'conception'],
+  11: ['Phase 5', 'Testing', 'evidence', 'data', 'empirical'],
+  12: ['Phase 4', 'Reasoning', 'Phase 2'],
+  13: ['Phase 3', 'Phase 5', 'empirical', 'scientific', 'hypothesis'],
+  14: ['Phase 5', 'action'],
+  17: ['Phase 1', 'Phase 2', 'observation'],
+};
+
+const MAX_MODELS_DISPLAYED = 8;
+
+function getRelatedModels(chapterNum: number, models: MentalModel[]): MentalModel[] {
+  const keywords = CHAPTER_DEWEY_KEYWORDS[chapterNum] ?? [];
+  if (keywords.length === 0) return [];
+  const scored = models.map((model) => {
+    const text = model.dewey_connection.toLowerCase();
+    const score = keywords.reduce(
+      (s, kw) => (text.includes(kw.toLowerCase()) ? s + 1 : s),
+      0,
+    );
+    return { model, score };
+  });
+  return scored
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score || a.model.name.localeCompare(b.model.name))
+    .map((x) => x.model);
+}
 
 export async function generateStaticParams() {
   return Array.from({ length: 19 }, (_, i) => ({ id: String(i + 1) }));
@@ -23,6 +63,10 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
   if (isNaN(id) || id < 1 || id > 19) notFound();
 
   const chapter = getChapter(id);
+  const allModels = getMentalModelsData().models;
+  const relatedModels = getRelatedModels(id, allModels);
+  const displayModels = relatedModels.slice(0, MAX_MODELS_DISPLAYED);
+  const hiddenCount = relatedModels.length - displayModels.length;
 
   const prevId = id > 1 ? id - 1 : null;
   const nextId = id < 19 ? id + 1 : null;
@@ -131,6 +175,52 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
                 ))}
               </ul>
             </div>
+          )}
+        </section>
+      )}
+
+      {/* Related Mental Models */}
+      {displayModels.length > 0 && (
+        <section>
+          <div className="mb-3 flex items-center justify-between">
+            <h2 className="text-xs font-semibold uppercase tracking-widest text-slate-400">
+              Related Mental Models ({relatedModels.length})
+            </h2>
+            <Link
+              href="/mental-models"
+              className="text-xs font-medium text-indigo-600 hover:text-indigo-800"
+            >
+              Browse all models →
+            </Link>
+          </div>
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+            {displayModels.map((model) => (
+              <Link
+                key={model.id}
+                href={`/mental-models/${model.id}`}
+                className="group rounded-lg border border-slate-200 bg-white p-4 transition hover:border-indigo-300 hover:shadow-sm"
+              >
+                <div className="mb-1.5 flex items-start justify-between gap-2">
+                  <h3 className="text-sm font-semibold text-slate-900 group-hover:text-indigo-700">
+                    {model.name}
+                  </h3>
+                  <span className="shrink-0 rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-medium text-slate-500">
+                    {model.category.split(' ')[0]}
+                  </span>
+                </div>
+                <p className="text-xs leading-relaxed text-slate-500 line-clamp-2">
+                  {model.dewey_connection.split('.')[0]}.
+                </p>
+              </Link>
+            ))}
+          </div>
+          {hiddenCount > 0 && (
+            <p className="mt-3 text-center text-xs text-slate-400">
+              +{hiddenCount} more —{' '}
+              <Link href="/mental-models" className="font-medium text-indigo-600 hover:text-indigo-800">
+                view all models
+              </Link>
+            </p>
           )}
         </section>
       )}

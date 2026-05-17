@@ -71,9 +71,12 @@ export default function AskClient({ chapters, initialChapterId }: AskClientProps
         },
       ]);
       setQuestion('');
-    } catch {
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err);
       setError(
-        'Could not reach the AI backend. Make sure the server is running at localhost:8000.'
+        msg.startsWith('API error')
+          ? `Backend error: ${msg}`
+          : `Could not reach the AI backend (${msg}). Make sure the server is running at localhost:8000.`
       );
     } finally {
       setLoading(false);
