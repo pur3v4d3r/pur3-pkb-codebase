@@ -218,4 +218,52 @@ D:\10_pur3v4d3r's-vault\999-critical-thinking-app
 - Add in another work example for every framework in practice page
 
 
-All across the application the hover mechanic needs to be the same just like the on on the chapters page where the heading turn blue when hover over tile like in the screen shot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## EXECUTABLE PLANNING
+
+Need to test models for which model will work best on a standard machine with good performance and test the app with those models and see how it performs and then decide on the best model to use for the app -> Model to options to test:
+
+Out of these models which would you reccomend for this purpose based on your knowledge of them and their performance on standard machines:
+or another you know about that would work well for this purpose:
+- llama3.2:1b
+- llama3.2:3b
+- deepseek-r1:1.5b
+- gemma4:e2b
+- gemma4:e4b
+
+- qwen3.5:0.8b
+- qwen3.5:2b
+- qwen3.5:4b
+- qwen3.5:9b
+- qwen3:8b -> with qk compression -> may work on standard computer with compression version
+- phi3:3.8b
+
+
+
+
+
+I want to start packaging the app for easy use on another computer -> meaning non-technical users can also use it without much hassle. For that I need to create an executable file that includes both the frontend and backend of the app and can be run on a standard computer without needing to set up a development environment.
+Executable file requirements:
+1. download a copy of ollama and the model used in the app and include it in the executable file
+2. install all the code for running the app in the executable file
+3. create a script that runs the backend and frontend together when the executable file is opened
+4. create an installer that sets up the executable file on the user's computer and creates a shortcut for easy access
+
+Models We will Use:
+- phi3:3.8b
+- qwen3:8b-q4_K_M

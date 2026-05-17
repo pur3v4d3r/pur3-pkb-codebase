@@ -7,6 +7,7 @@ Reads configuration from environment variables:
 """
 
 import os
+import re
 from typing import Optional
 
 import ollama
@@ -48,7 +49,11 @@ def chat(system_prompt: str, user_content: str, max_tokens: int = 800) -> str:
             ],
             options={"num_predict": max_tokens},
         )
-        return response["message"]["content"]
+        text: str = response["message"]["content"]
+        # Strip qwen3-style <think>...</think> reasoning blocks before returning.
+        # These tags appear when thinking mode is active and must not reach the UI.
+        text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+        return text
     except ollama.ResponseError as exc:
         raise RuntimeError(f"Ollama model error: {exc}") from exc
     except Exception as exc:

@@ -21,7 +21,7 @@ from services.llm import chat
 
 router = APIRouter()
 
-DATA_DIR = Path(__file__).parent.parent.parent / "data"
+from services.config import DATA_DIR
 
 _DETECT_RATE_LIMIT = os.environ.get("DETECT_RATE_LIMIT", "6/minute")
 

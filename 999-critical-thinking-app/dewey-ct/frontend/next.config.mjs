@@ -1,6 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   /**
+   * Standalone output bundles the minimal Node.js server into
+   * .next/standalone/ so the packaged installer can ship node.exe + that
+   * folder without needing the full node_modules tree.
+   * Has no effect on `npm run dev`; only changes `npm run build` output.
+   */
+  output: 'standalone',
+
+  /**
    * Proxy all /api/* requests to the FastAPI backend.
    * Because this rewrite runs server-side, the browser never makes a
    * cross-origin request to localhost:8000 — no CORS issues possible.

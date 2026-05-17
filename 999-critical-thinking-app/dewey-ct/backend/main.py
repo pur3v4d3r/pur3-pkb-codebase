@@ -1,4 +1,19 @@
 import os
+from pathlib import Path
+
+from dotenv import load_dotenv
+
+# Resolve .env path for both dev and packaged distribution.
+# Packaged: launcher sets DEWEYCT_APP_ROOT before spawning this process.
+# Dev:      .env lives one level above backend/ (in dewey-ct/).
+_app_root_env = os.environ.get("DEWEYCT_APP_ROOT")
+if _app_root_env:
+    _env_path = Path(_app_root_env) / ".env"
+else:
+    _env_path = Path(__file__).parent.parent / ".env"
+
+# Must run before any router import so OLLAMA_MODEL is set before llm.py reads it.
+load_dotenv(_env_path)
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware

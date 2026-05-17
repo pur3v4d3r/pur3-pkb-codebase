@@ -25,10 +25,10 @@ export default function TemplatesPage() {
           <Link
             key={t.template_id}
             href={`/templates/${t.template_id}`}
-            className="group rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition hover:border-slate-400 hover:shadow-md"
+            className="group rounded-lg border border-slate-200 bg-white dark:bg-slate-700 p-5 shadow-sm transition-[box-shadow,border-color] duration-150 ease-in-out hover:border-slate-400 hover:shadow-md dark:border-slate-600 dark:hover:bg-slate-600"
           >
             <div className="mb-2 flex flex-wrap items-center gap-2">
-              <h2 className="text-base font-semibold text-slate-900 group-hover:text-slate-700">
+              <h2 className="text-base font-semibold text-slate-900 group-hover:text-blue-700 dark:text-slate-100 dark:group-hover:text-blue-400">
                 {t.name}
               </h2>
               {t.difficulty && (
@@ -43,7 +43,7 @@ export default function TemplatesPage() {
               {t.estimated_time_minutes && <span>~{t.estimated_time_minutes} min</span>}
               {t.fields && <span>{t.fields.length} fields</span>}
             </div>
-            <p className="mt-3 text-xs font-medium text-slate-500 group-hover:text-slate-700">
+            <p className="mt-3 text-xs font-medium text-slate-500 group-hover:text-blue-600 dark:group-hover:text-blue-400">
               Open template →
             </p>
           </Link>

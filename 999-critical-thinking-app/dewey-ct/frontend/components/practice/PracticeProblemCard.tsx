@@ -20,7 +20,7 @@ const frameworkStyle: Record<string, string> = {
 
 export default function PracticeProblemCard({ pp }: Props) {
   return (
-    <div className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+    <div className="group flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition-[box-shadow,border-color] duration-150 ease-in-out hover:border-slate-400 hover:shadow-md">
       <div className="flex items-start justify-between gap-3">
         <span className="shrink-0 rounded-md bg-slate-900 px-2 py-0.5 text-xs font-bold text-white">
           {pp.pp_number}
@@ -39,7 +39,7 @@ export default function PracticeProblemCard({ pp }: Props) {
         </div>
       </div>
 
-      <h3 className="text-sm font-semibold leading-snug text-slate-900">{pp.title}</h3>
+      <h3 className="text-sm font-semibold leading-snug text-slate-900 group-hover:text-blue-700">{pp.title}</h3>
 
       <div className="text-xs text-slate-400">{pp.estimated_minutes} min estimated</div>
 

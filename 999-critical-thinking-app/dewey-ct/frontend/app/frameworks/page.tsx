@@ -48,11 +48,11 @@ export default function FrameworksPage() {
           <Link
             key={fw.id}
             href={`/frameworks/${fw.id}`}
-            className="group rounded-lg border border-slate-200 bg-white p-4 shadow-sm transition hover:border-slate-400 hover:shadow-md"
+            className="group rounded-lg border border-slate-200 bg-white dark:bg-slate-700 dark:border-slate-600 p-4 shadow-sm transition-[box-shadow,border-color] duration-150 ease-in-out hover:border-slate-400 hover:shadow-md dark:hover:bg-slate-600"
           >
-            <h2 className="mb-1 text-sm font-semibold text-slate-900">{fw.name}</h2>
+            <h2 className="mb-1 text-sm font-semibold text-slate-900 group-hover:text-blue-700 dark:text-slate-100 dark:group-hover:text-blue-400">{fw.name}</h2>
             <p className="text-xs leading-relaxed text-slate-600">{fw.desc}</p>
-            <p className="mt-2 text-xs text-slate-400">Read more →</p>
+            <p className="mt-2 text-xs text-slate-400 group-hover:text-blue-600 dark:group-hover:text-blue-400">Read more →</p>
           </Link>
         ))}
       </div>

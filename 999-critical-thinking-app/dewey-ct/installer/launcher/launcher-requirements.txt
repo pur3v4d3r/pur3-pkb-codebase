@@ -1,0 +1,8 @@
+# Build-time dependency only — installs PyInstaller so launcher.py can be compiled.
+# This file is NOT the app runtime requirements.txt.
+#
+# Usage:
+#   pip install -r installer/launcher/launcher-requirements.txt
+#
+# (The build-installer.ps1 script handles this automatically.)
+pyinstaller>=6.0

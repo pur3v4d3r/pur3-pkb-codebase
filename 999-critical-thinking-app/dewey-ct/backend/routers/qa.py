@@ -11,7 +11,7 @@ from services.llm import chat
 
 router = APIRouter()
 
-DATA_DIR = Path(__file__).parent.parent.parent / "data"
+from services.config import DATA_DIR
 
 # Rate limit for this router — reads QA_RATE_LIMIT env var, falls back to 10/minute
 _QA_RATE_LIMIT = os.environ.get("QA_RATE_LIMIT", "10/minute")

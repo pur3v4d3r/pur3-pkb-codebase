@@ -20,9 +20,7 @@ from typing import Any
 
 from fastapi import APIRouter
 
-# Resolve DB path: backend/routers/data.py → dewey-ct/deweyct.db
-# (one directory above the backend/ folder, beside README.md)
-DB_PATH: Path = Path(__file__).resolve().parent.parent.parent / "deweyct.db"
+from services.config import DB_PATH
 
 VALID_KEYS: frozenset[str] = frozenset({"portfolio", "chapterProgress", "srsProgress"})
 
