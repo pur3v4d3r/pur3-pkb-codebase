@@ -129,5 +129,13 @@ id_rsa.pub
 # Audit reports (markdown) — keep latest manually, older are stale
 999-report-organizing/_permanent-notes/_audit-report-2026-0[1-3]-*.md
 
+# ==============================================================================
+# DEWEY-CT APP — build artifacts & installers
+# Added 2026-05-17
+# ==============================================================================
+999-critical-thinking-app/dewey-ct/installer/
+999-critical-thinking-app/dewey-ct/DeweyctInstaller.exe
+99-system/01-quickadd/DeweyctInstaller.exe
+
 # Fixer/checker test outputs
 99-scripts/test-output/
