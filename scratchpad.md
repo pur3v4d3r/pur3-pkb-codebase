@@ -798,9 +798,6 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 Sythesis
 
 
-Generate a report on: [Critical Thinking and Personal Knowledge Management]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 Generate a report on: [Critical Thinking and Metacognition, and Self-Regulated Learning]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
@@ -1311,17 +1308,27 @@ I have two excelent reference markdown files that you can draw from in this proc
 
 
 
+cd "D:\10_pur3v4d3r's-vault\99-scripts\reports-to-tts"
+python reports_to_tts.py "D:\10_pur3v4d3r's-vault\tts-testing-file.md" `
+  --backend xtts `
+  --speaker-wav "samples\_prepared\reference_combined.wav" `
+  --rate -10 `
+  --output-dir "D:\10_pur3v4d3r's-vault"
 
 
 
+python reports_to_tts.py "" --backend edge --voice en-US-AriaNeural --output "D:\10_pur3v4d3r's-vault\tts-testing-file.mp3"
+python reports_to_tts.py "D:\10_pur3v4d3r's-vault\tts-testing-file.md" --backend edge --voice en-US-GuyNeural --output "D:\10_pur3v4d3r's-vault\tts-testing-file.mp3"
 
 
+cd-d-10-pur3v4d3r-s-vault-99-scripts-reports-to-tts-python-reports-to-tts-py-d-10-pur3v4d3r-s-vault-tts-testing-file-md-backend-f5tts-speaker-wav-samples-prepared-reference-combined-wav-rate-10-output-dir-d-10-pur3v4d3r-s-vault
 
-
-
-
-
-
+cd "D:\10_pur3v4d3r's-vault\99-scripts\reports-to-tts"
+python reports_to_tts.py "D:\10_pur3v4d3r's-vault\tts-testing-file.md" `
+  --backend f5tts `
+  --speaker-wav "samples\_prepared\reference_combined.wav" `
+  --rate -10 `
+  --output-dir "D:\10_pur3v4d3r's-vault"
 
 
 

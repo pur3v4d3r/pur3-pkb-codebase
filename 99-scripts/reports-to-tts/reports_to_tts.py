@@ -400,13 +400,19 @@ def clean_markdown(text: str) -> str:
     text = _MULTI_BLANK_RE.sub("\n\n", text)
     text = "\n".join(line.rstrip() for line in text.splitlines())
 
-    # 8. Replace unspeakable / encoding-hostile Unicode with safe substitutes,
-    #    then drop anything that still can't encode to cp1252 (Windows console
-    #    safety — F5-TTS prints gen_text directly to stdout).
+    # 8. Replace unspeakable Unicode glyphs with readable substitutes.
     for src, dst in _UNICODE_SUBSTITUTIONS.items():
         text = text.replace(src, dst)
-    text = text.encode("cp1252", errors="ignore").decode("cp1252")
     return text.strip()
+
+
+def _apply_cp1252_safety(text: str) -> str:
+    """Drop characters that can't encode to cp1252.
+
+    F5-TTS on Windows calls ``print(gen_text)`` internally, which crashes on
+    non-cp1252 codepoints. Apply this only when using the f5tts backend.
+    """
+    return text.encode("cp1252", errors="ignore").decode("cp1252")
 
 
 def derive_title(fields: dict[str, str], cleaned_text: str, fallback: str) -> str:
@@ -895,7 +901,11 @@ def synthesize_report(
             h = hashlib.sha1(ch.text.encode("utf-8")).hexdigest()[:10]
             cf = td_path / f"{ch.index:04d}_{h}.{_chunk_format(backend)}"
             try:
-                backend.synthesize(ch.text, cf)
+                chunk_text_final = (
+                    _apply_cp1252_safety(ch.text)
+                    if backend.name == "f5tts" else ch.text
+                )
+                backend.synthesize(chunk_text_final, cf)
             except SynthesisError as exc:
                 logger.error("chunk %d synthesis failed: %s", ch.index, exc)
                 return SynthesisResult(report, None, ok=False,
@@ -943,6 +953,7 @@ def build_parser() -> argparse.ArgumentParser:
             "Convert Obsidian-flavored academic markdown reports into spoken "
             "audio files via a pluggable TTS backend."
         ),
+        allow_abbrev=False,  # prevent --output from silently matching --output-dir
         epilog=(
             "Examples:\n"
             "  reports_to_tts.py report.md\n"
@@ -1113,8 +1124,9 @@ def main(argv: list[str] | None = None) -> int:
             logger.error("• %-40s FAILED: %s",
                          report.title[:40], result.error)
 
-    logger.warning("Done. %d ok / %d failed / %d total",
-                   len(report_paths) - failures, failures, len(report_paths))
+    log_done = logger.warning if failures else logger.info
+    log_done("Done. %d ok / %d failed / %d total",
+             len(report_paths) - failures, failures, len(report_paths))
     if failures and args.strict:
         return 7
     return 0
