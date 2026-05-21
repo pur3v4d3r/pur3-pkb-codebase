@@ -1,0 +1,49 @@
+concept: Greedy Decoding
+domain: llm-inference
+secondary_domains:
+- llm-inference
+- deterministic-algorithms
+aliases:
+- argmax decoding
+- greedy token selection
+- deterministic decoding
+broader:
+- llm-decoding
+- sequence-decoding
+related:
+- beam-search-decoding
+- temperature-sampling
+- top-p-nucleus-sampling
+- repetition-penalty
+prerequisites:
+- language-model-inference
+- argmax-operation
+confidence: high
+callouts:
+- type: definition
+  title: Greedy Decoding
+  body: Greedy decoding is the simplest LLM decoding strategy in which, at each generation
+    step, the token with the highest probability (argmax over the vocabulary) is selected
+    unconditionally. The resulting sequence is fully deterministic given the model
+    weights and prompt. Greedy decoding is equivalent to temperature sampling at T→0
+    and produces the locally optimal token at every step, but not the globally optimal
+    sequence — it can get trapped by locally high-probability choices that preclude
+    better subsequent tokens. Despite its limitations, greedy decoding is used in
+    latency-critical applications where determinism and speed are priorities.
+- type: key-claim
+  title: Key claim about Greedy Decoding
+  body: Greedy decoding's locally optimal decisions are globally suboptimal in any
+    setting where good sequences require non-obvious intermediate tokens — the standard
+    machine translation example shows that greedy decoding sometimes produces translations
+    of significantly lower BLEU than beam search, precisely because the globally best
+    translation requires committing to a token that is locally unlikely; this makes
+    greedy decoding appropriate only for very well-behaved, low-entropy generation
+    tasks.
+- type: warning
+  title: Common pitfall regarding Greedy Decoding
+  body: Greedy decoding's determinism is often misinterpreted as reliability — a greedy
+    decoder that produces a confident-sounding but incorrect answer provides no epistemic
+    uncertainty signal, whereas a sampled decoder that produces the same incorrect
+    answer most of the time but occasionally produces the correct answer reveals the
+    model's uncertainty; greedy decoding hides the model's distributional uncertainty
+    behind a point estimate.

@@ -1,0 +1,60 @@
+concept: Mechanistic Interpretability
+domain: llm-theory
+secondary_domains:
+- ai-interpretability
+- deep-learning
+- ai-safety
+aliases:
+- mech interp
+- mechanistic understanding
+- reverse engineering neural networks
+- circuit-level interpretability
+broader:
+- ai-interpretability
+- ai-safety
+narrower:
+- circuit-analysis-in-transformers
+- superposition-hypothesis
+- activation-patching
+- sparse-autoencoders-for-interpretability
+related:
+- circuit-analysis-in-transformers
+- superposition-hypothesis
+- activation-patching
+- sparse-autoencoders-for-interpretability
+- grokking-phenomenon
+prerequisites:
+- neural-networks
+- transformer-architecture
+- linear-algebra
+- ai-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Mechanistic Interpretability
+  body: Mechanistic interpretability is the research programme that aims to reverse-engineer
+    the algorithms implemented by neural networks — understanding not just what a
+    model can do, but how it does it, by identifying specific computational structures
+    (circuits, features, attention heads) that implement particular behaviours. Pioneered
+    by Chris Olah at Google Brain/Anthropic and operationalised via the circuits hypothesis,
+    mechanistic interpretability attempts to decompose model computations into human-understandable
+    functional units, akin to understanding a program by reading its source code rather
+    than by observing its input-output behaviour. Key techniques include activation
+    patching, probing, sparse autoencoder feature extraction, and attention head analysis.
+- type: key-claim
+  title: Key claim about Mechanistic Interpretability
+  body: Mechanistic interpretability is the only interpretability approach with a
+    plausible path to providing safety-relevant understanding — post-hoc explanation
+    methods (LIME, SHAP, saliency maps) describe correlations in model behaviour without
+    revealing the underlying computational mechanism, making them unable to predict
+    behaviour in novel contexts; mechanistic interpretability, by identifying the
+    actual algorithm, can predict model behaviour in situations not seen during evaluation,
+    including adversarial scenarios.
+- type: warning
+  title: Common pitfall regarding Mechanistic Interpretability
+  body: Mechanistic interpretability currently scales poorly to frontier-sized models
+    — the techniques that successfully identify clean circuits in toy models and small
+    transformers (GPT-2 scale) become intractable for models with hundreds of billions
+    of parameters and trillions of features; current mechanistic insights come primarily
+    from small, controlled models, and the extent to which those insights generalise
+    to production-scale models is an open empirical question.

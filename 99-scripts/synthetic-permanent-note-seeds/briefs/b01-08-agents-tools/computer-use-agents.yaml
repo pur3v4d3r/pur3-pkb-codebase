@@ -1,0 +1,55 @@
+concept: Computer Use Agents
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- computer-vision
+- human-computer-interaction
+aliases:
+- GUI agents
+- screen-operating agents
+- UI automation agents
+- computer control LLMs
+broader:
+- llm-agents
+- tool-augmented-language-models
+related:
+- browser-automation-agents
+- api-calling-agents
+- action-space-design-for-agents
+- visual-chain-of-thought
+prerequisites:
+- llm-agents
+- computer-vision
+- multimodal-models
+- human-computer-interaction
+confidence: high
+callouts:
+- type: definition
+  title: Computer Use Agents
+  body: Computer use agents are LLM-based systems (typically multimodal) that can
+    observe a computer screen via screenshots and take actions — mouse clicks, keyboard
+    input, scrolling, drag-and-drop — to operate graphical user interfaces (GUIs)
+    on behalf of users. Anthropic's Claude Computer Use (released in public beta in
+    2024) is the primary example; the model receives screenshots as visual input and
+    outputs structured action specifications (click at coordinate, type text, scroll
+    direction) that the system executes on the underlying computer. Computer use agents
+    can operate any GUI application, including legacy software with no API, making
+    them more general than API-calling agents at the cost of higher latency and lower
+    reliability.
+- type: key-claim
+  title: Key claim about Computer Use Agents
+  body: Computer use agents represent a qualitative expansion of agent capability
+    by removing the API availability constraint — while API-calling agents are limited
+    to software that exposes machine-readable interfaces, computer use agents can
+    operate any software a human can operate, including legacy applications, poorly
+    documented internal tools, and GUI-only workflows; this generality comes with
+    substantial reliability and safety trade-offs that make current computer use agents
+    better suited to low-stakes task automation than mission-critical workflows.
+- type: warning
+  title: Common pitfall regarding Computer Use Agents
+  body: Computer use agents operating on real systems are among the highest-risk AI
+    deployments currently available — a reasoning error by the model can execute irreversible
+    system actions (deleting files, submitting forms, sending communications) that
+    the user did not intend; production deployments should operate in sandboxed virtual
+    machines, implement action review and confirmation for high-stakes operations,
+    and maintain strict access controls on what systems the agent can access.

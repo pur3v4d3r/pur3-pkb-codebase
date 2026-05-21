@@ -1,0 +1,51 @@
+concept: PromptBench Robustness
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- adversarial-nlp
+- prompt-engineering
+aliases:
+- PromptBench
+- adversarial prompt robustness
+- prompt perturbation evaluation
+broader:
+- llm-evaluation-benchmarks
+- llm-evaluation
+related:
+- llm-evaluation-benchmarks
+- red-teaming-llms
+- adversarial-suffix-attacks
+- prompt-engineering
+prerequisites:
+- llm-evaluation
+- adversarial-nlp
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: PromptBench Robustness
+  body: 'PromptBench is an adversarial robustness evaluation framework for large language
+    models introduced by Zhu et al. (2023) that measures the sensitivity of LLM performance
+    to adversarial perturbations of input prompts at multiple linguistic levels: character
+    level (typos, swaps), word level (synonym substitution, word deletion), sentence
+    level (paraphrase, back-translation), and semantic level (meaning-preserving reformulation).
+    By evaluating the same benchmark tasks under clean versus perturbed prompts, PromptBench
+    quantifies how much prompt wording affects model performance — high sensitivity
+    indicates low robustness and suggests that benchmark scores may be overly dependent
+    on the specific phrasing used.'
+- type: key-claim
+  title: Key claim about PromptBench Robustness
+  body: PromptBench reveals that LLM benchmark performance is substantially more sensitive
+    to prompt phrasing than previously assumed — the same model on the same task can
+    vary by 10–30 percentage points depending on superficial prompt variations that
+    do not change the underlying task, indicating that reported benchmark scores implicitly
+    reflect not only the model's capabilities but also the evaluator's prompt engineering
+    skill.
+- type: warning
+  title: Common pitfall regarding PromptBench Robustness
+  body: PromptBench's adversarial perturbations are designed to be meaning-preserving,
+    but many perturbations at the character and word level change the distribution
+    in ways that may genuinely require different capabilities from the model rather
+    than testing the same capability under noise; what looks like robustness failure
+    may sometimes be a model correctly identifying that a typo-laden prompt is a different
+    input from the clean version.

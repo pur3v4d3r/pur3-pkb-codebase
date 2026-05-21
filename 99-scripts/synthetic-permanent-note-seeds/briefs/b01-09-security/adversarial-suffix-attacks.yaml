@@ -1,0 +1,55 @@
+concept: Adversarial Suffix Attacks
+domain: llm-security
+secondary_domains:
+- adversarial-machine-learning
+- llm-security
+- ai-safety
+aliases:
+- adversarial suffix
+- GCG attack
+- gradient-based jailbreak
+- universal adversarial perturbation for LLMs
+broader:
+- jailbreak-taxonomy
+- adversarial-machine-learning
+- llm-security
+related:
+- jailbreak-taxonomy
+- many-shot-jailbreaking
+- red-teaming-llms
+- sleeper-agent-robustness
+prerequisites:
+- adversarial-machine-learning
+- gradient-based-optimisation
+- llm-security
+confidence: high
+callouts:
+- type: definition
+  title: Adversarial Suffix Attacks
+  body: Adversarial suffix attacks are a class of white-box jailbreak attacks that
+    use gradient-based optimisation to find short token sequences (adversarial suffixes)
+    that, when appended to harmful requests, reliably elicit compliance from safety-trained
+    language models. The Greedy Coordinate Gradient (GCG) attack introduced by Zou
+    et al. (2023) optimises a suffix by minimising the loss for a target harmful response
+    (e.g., "Sure, here is...") while keeping the harmful request fixed, iteratively
+    updating suffix tokens using gradient information. Discovered suffixes are often
+    semantically meaningless (random-looking token strings) but transfer with surprising
+    effectiveness across models and queries, including to black-box models that the
+    suffix was not optimised against.
+- type: key-claim
+  title: Key claim about Adversarial Suffix Attacks
+  body: Adversarial suffix attacks demonstrated for the first time that current safety
+    training methods for LLMs are not robust to adversarial optimisation — safety
+    fine-tuning can be bypassed by algorithmically searched input perturbations that
+    are essentially invisible to humans but reliably trigger compliance, suggesting
+    that current safety training teaches surface-level pattern avoidance rather than
+    a fundamental capability to refuse harmful requests.
+- type: warning
+  title: Common pitfall regarding Adversarial Suffix Attacks
+  body: The transferability of adversarial suffixes across models is imperfect and
+    decreasing as safety training improves — suffixes optimised against an open-source
+    model may fail against frontier closed models with additional safety fine-tuning
+    layers; however, the existence of transferable adversarial suffixes indicates
+    a structural vulnerability that is not fully addressed by current safety training
+    paradigms, and future optimisation techniques may find more robust transferable
+    attacks.

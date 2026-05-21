@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Arena Elo Ranking",
+    "slug": "arena-elo-ranking",
+    "report_stem": "arena-elo-ranking-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\arena-elo-ranking.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Evals as a Product",
+    "slug": "evals-as-a-product",
+    "report_stem": "evals-as-a-product-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\evals-as-a-product.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Faithfulness vs Factuality",
+    "slug": "faithfulness-vs-factuality",
+    "report_stem": "faithfulness-vs-factuality-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\faithfulness-vs-factuality.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "G-Eval Framework",
+    "slug": "g-eval-framework",
+    "report_stem": "g-eval-framework-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\g-eval-framework.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Human Preference Evaluation",
+    "slug": "human-preference-evaluation",
+    "report_stem": "human-preference-evaluation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\human-preference-evaluation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "LLM Evaluation Benchmarks",
+    "slug": "llm-evaluation-benchmarks",
+    "report_stem": "llm-evaluation-benchmarks-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\llm-evaluation-benchmarks.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Model-Graded Evaluation",
+    "slug": "model-graded-evaluation",
+    "report_stem": "model-graded-evaluation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\model-graded-evaluation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "MT-Bench Evaluation",
+    "slug": "mt-bench-evaluation",
+    "report_stem": "mt-bench-evaluation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\mt-bench-evaluation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "PromptBench Robustness",
+    "slug": "promptbench-robustness",
+    "report_stem": "promptbench-robustness-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\promptbench-robustness.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Self-Evaluation Bias",
+    "slug": "self-evaluation-bias",
+    "report_stem": "self-evaluation-bias-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\self-evaluation-bias.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

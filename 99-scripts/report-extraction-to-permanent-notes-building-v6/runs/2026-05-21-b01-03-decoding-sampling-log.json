@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Classifier-Free Guidance for Text",
+    "slug": "classifier-free-guidance-for-text",
+    "report_stem": "classifier-free-guidance-for-text-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\classifier-free-guidance-for-text.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Greedy Decoding",
+    "slug": "greedy-decoding",
+    "report_stem": "greedy-decoding-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\greedy-decoding.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Logit Bias Manipulation",
+    "slug": "logit-bias-manipulation",
+    "report_stem": "logit-bias-manipulation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\logit-bias-manipulation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Typical Sampling",
+    "slug": "typical-sampling",
+    "report_stem": "typical-sampling-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\typical-sampling.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

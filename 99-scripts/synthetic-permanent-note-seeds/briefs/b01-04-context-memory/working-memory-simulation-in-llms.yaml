@@ -1,0 +1,52 @@
+concept: Working Memory Simulation in LLMs
+domain: llm-context-management
+secondary_domains:
+- ai-agents
+- cognitive-architecture
+- llm-context-management
+aliases:
+- working memory in LLMs
+- scratchpad memory
+- in-context working memory
+broader:
+- memory-augmented-llms
+- llm-context-management
+related:
+- episodic-memory-in-agents
+- semantic-memory-in-agents
+- chain-of-thought-prompting
+- scratchpad-reasoning
+prerequisites:
+- working-memory-in-cognitive-science
+- large-language-models
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Working Memory Simulation in LLMs
+  body: 'Working memory simulation in LLMs refers to the use of the active context
+    window — including chain-of-thought intermediate steps, scratchpad notation, and
+    accumulated partial results — as a functional analogue to the human working memory
+    system that temporarily holds and manipulates information during active reasoning.
+    Unlike episodic or semantic memory which persist across turns, working memory
+    is the space of currently active information that the model is operating on: the
+    current task state, recent reasoning steps, and partial computations. Chain-of-thought
+    prompting and scratchpad techniques explicitly leverage this working memory capacity
+    by externalising intermediate reasoning steps into text, making them available
+    for subsequent reasoning steps.'
+- type: key-claim
+  title: Key claim about Working Memory Simulation in LLMs
+  body: Chain-of-thought prompting works precisely because it simulates working memory
+    externalisation — by writing intermediate reasoning steps into the context, CoT
+    prevents the model from having to maintain multiple reasoning states in its latent
+    space simultaneously, transforming a hard working-memory-limited computation into
+    a sequence of simpler, single-step operations that each fit within the model's
+    effective working memory capacity.
+- type: warning
+  title: Common pitfall regarding Working Memory Simulation in LLMs
+  body: Working memory in LLMs is bounded by the context window and is not persistent
+    — complex multi-step tasks that require accumulating state across many interaction
+    turns quickly exhaust the available working memory space, and context window truncation
+    discards old working memory content that may still be required; agent designs
+    that rely on in-context working memory for long tasks must explicitly manage context
+    through summarisation or external state storage.

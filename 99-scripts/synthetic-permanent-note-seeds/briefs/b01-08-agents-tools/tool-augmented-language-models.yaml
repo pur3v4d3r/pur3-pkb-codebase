@@ -1,0 +1,60 @@
+concept: Tool-Augmented Language Models
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- ai-systems
+- software-engineering
+aliases:
+- tool-use LLMs
+- function-calling models
+- tool-enabled LLMs
+- LLMs with tools
+broader:
+- llm-agents
+- ai-systems
+narrower:
+- code-interpreter-use
+- web-search-augmented-llms
+- api-calling-agents
+- computer-use-agents
+related:
+- code-interpreter-use
+- web-search-augmented-llms
+- api-calling-agents
+- plan-and-solve-prompting
+- action-space-design-for-agents
+- agent-memory-architecture
+prerequisites:
+- large-language-models
+- api-design
+- function-calling
+confidence: high
+callouts:
+- type: definition
+  title: Tool-Augmented Language Models
+  body: 'Tool-augmented language models are LLMs extended with the ability to invoke
+    external tools — such as calculators, search engines, code interpreters, databases,
+    APIs, and file systems — and incorporate the results back into their generation
+    process. Tools address the fundamental limitations of pure language model generation:
+    inability to perform exact computation, access up-to-date information, read and
+    write persistent state, and take actions in external systems. Tool-augmented systems
+    are typically implemented via function calling (where the model outputs structured
+    tool invocation requests) or via agent frameworks (where the model interleaves
+    reasoning steps with tool calls in a loop). Key tool-augmented paradigms include
+    ReAct, Toolformer, and API-calling agents.'
+- type: key-claim
+  title: Key claim about Tool-Augmented Language Models
+  body: Tool augmentation transforms LLMs from pure text generators into genuine agents
+    capable of grounding outputs in real computations, facts, and actions — this is
+    not merely a feature addition but a qualitative capability shift, because many
+    classes of tasks (exact arithmetic, real-time information access, file manipulation)
+    are fundamentally unsolvable by pure language model generation but become tractable
+    with appropriate tool access.
+- type: warning
+  title: Common pitfall regarding Tool-Augmented Language Models
+  body: Tool-augmented LLMs introduce compounding failure modes that pure language
+    model evaluation misses — each tool call is a potential failure point (wrong arguments,
+    tool error, rate limit, network failure, unexpected return format), and agent
+    frameworks that make multiple sequential tool calls multiply these failure probabilities;
+    robust tool-augmented systems require tool-level error handling, retry logic,
+    and fallback strategies that are not needed in pure generation pipelines.

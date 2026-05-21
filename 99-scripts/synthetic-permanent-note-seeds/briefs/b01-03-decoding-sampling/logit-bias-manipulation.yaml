@@ -1,0 +1,52 @@
+concept: Logit Bias Manipulation
+domain: llm-inference
+secondary_domains:
+- llm-inference
+- controlled-generation
+- prompt-engineering
+aliases:
+- logit bias
+- token bias injection
+- token suppression
+- logit adjustment
+broader:
+- llm-decoding
+- inference-quality-control
+related:
+- repetition-penalty
+- temperature-sampling
+- classifier-free-guidance-for-text
+- structured-output-enforcement
+prerequisites:
+- language-model-inference
+- softmax-function
+- token-generation
+confidence: high
+callouts:
+- type: definition
+  title: Logit Bias Manipulation
+  body: Logit bias manipulation is a technique for controlling the token distribution
+    of a language model at inference time by directly adding a fixed scalar value
+    to the logit of specific tokens before the softmax is applied, increasing or decreasing
+    their probability of being sampled. An additive logit bias of +100 effectively
+    forces the token to always be sampled (near-certain selection), while a bias of
+    -100 effectively suppresses it to near-zero probability. OpenAI's API and many
+    open-source serving frameworks expose logit bias as a mapping from token IDs to
+    scalar adjustments, enabling fine-grained control over the vocabulary without
+    retraining.
+- type: key-claim
+  title: Key claim about Logit Bias Manipulation
+  body: Logit bias manipulation is the lowest-level practical control mechanism available
+    at inference time and is particularly useful for hard constraints that must be
+    enforced absolutely — constraining the model to use specific formatting tokens,
+    suppressing specific vocabulary items (e.g., explicit words or competitor brand
+    names), or forcing the model to produce a specific sequence of tokens; these absolute
+    constraints cannot be achieved reliably through prompt engineering alone.
+- type: warning
+  title: Common pitfall regarding Logit Bias Manipulation
+  body: Logit bias manipulation interacts unpredictably with model coherence — suppressing
+    a token does not teach the model to avoid the corresponding concept, it only removes
+    that token from the output, so the model may substitute semantically equivalent
+    tokens or produce incoherent text when its natural completion involves the suppressed
+    token; it is a post-hoc output filter rather than a mechanism for changing the
+    model's underlying generation strategy.

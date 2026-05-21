@@ -1,0 +1,54 @@
+concept: Human Preference Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- user-research
+- annotation
+aliases:
+- human evaluation
+- preference annotation
+- crowdsourced evaluation
+- human rater evaluation
+broader:
+- llm-evaluation
+narrower:
+- arena-elo-ranking
+- comparative-human-evaluation
+related:
+- model-graded-evaluation
+- arena-elo-ranking
+- reward-model-training
+- evals-as-a-product
+prerequisites:
+- llm-evaluation
+- annotation-methodology
+- human-computer-interaction
+confidence: high
+callouts:
+- type: definition
+  title: Human Preference Evaluation
+  body: Human preference evaluation is the evaluation methodology in which human annotators
+    assess language model outputs by comparing pairs of responses (which is better?)
+    or rating individual responses against defined quality criteria (helpfulness,
+    accuracy, harmlessness, coherence). Human preference evaluation is the gold standard
+    for assessing the dimensions of output quality that are most important for end-user
+    satisfaction — helpfulness, tone, clarity, and appropriateness — which are difficult
+    to capture in automated metrics. Collected human preferences are used directly
+    (to rank models or measure improvement) and indirectly (as training data for reward
+    models in RLHF).
+- type: key-claim
+  title: Key claim about Human Preference Evaluation
+  body: Human preference evaluation is the most ecologically valid measure of production
+    deployment quality but suffers from systematic annotator biases that are poorly
+    controlled in practice — annotators consistently prefer confident-sounding answers
+    over hedged accurate ones, longer responses over shorter ones, and responses that
+    match their own prior beliefs over accurate corrections; these biases are the
+    direct cause of many observed failures in RLHF-trained models, making annotator
+    training and bias mitigation as important as annotation scale.
+- type: warning
+  title: Common pitfall regarding Human Preference Evaluation
+  body: Human preference evaluation results are highly sensitive to annotator pool
+    composition — the same pair of responses can yield different preference rates
+    across annotators from different educational, linguistic, and cultural backgrounds;
+    this makes cross-study comparisons unreliable and means that preference evaluation
+    results from one demographic context should not be assumed to generalise to others.

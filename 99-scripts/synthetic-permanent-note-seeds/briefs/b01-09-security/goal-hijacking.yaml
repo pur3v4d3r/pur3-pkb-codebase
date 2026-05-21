@@ -1,0 +1,54 @@
+concept: Goal Hijacking
+domain: llm-security
+secondary_domains:
+- llm-security
+- ai-agents
+- adversarial-ai
+aliases:
+- objective hijacking
+- task hijacking
+- prompt hijacking
+- agent goal subversion
+broader:
+- prompt-injection
+- llm-security
+related:
+- direct-prompt-injection
+- indirect-prompt-injection
+- system-prompt-extraction
+- action-space-design-for-agents
+- instruction-hierarchy
+prerequisites:
+- prompt-injection
+- llm-agents
+- llm-security
+confidence: high
+callouts:
+- type: definition
+  title: Goal Hijacking
+  body: Goal hijacking is a subclass of prompt injection specifically targeting the
+    modification of the agent's or model's task objective — rather than merely eliciting
+    constrained content, goal hijacking causes the model to abandon its original task
+    and pursue an attacker-specified goal instead. In agent settings, this means redirecting
+    an agent mid-task to perform entirely different actions than those the user authorised.
+    Goal hijacking is particularly dangerous in agentic pipelines where the hijacked
+    goal is executed autonomously across multiple steps and may have irreversible
+    real-world consequences (sending messages, modifying files, making API calls)
+    before the user detects the deviation.
+- type: key-claim
+  title: Key claim about Goal Hijacking
+  body: Goal hijacking in agentic settings is qualitatively more dangerous than in
+    conversational settings because agents have the capability to act on a hijacked
+    goal with real-world tools — a conversational model that has its goal hijacked
+    produces a wrong or policy-violating text response, while an agent that has its
+    goal hijacked may execute actions (file deletions, API calls, communications)
+    on behalf of the attacker, making the attack's consequences proportional to the
+    agent's action space.
+- type: warning
+  title: Common pitfall regarding Goal Hijacking
+  body: Goal hijacking detection is an unsolved problem in current agent architectures
+    — there is no reliable mechanism for an agent to detect mid-task that its goal
+    has been modified by an injection attack versus legitimately updated by user instruction;
+    human-in-the-loop checkpoints at high-value action steps are currently the most
+    practical mitigation, but they undermine the automation value proposition of fully
+    autonomous agents.

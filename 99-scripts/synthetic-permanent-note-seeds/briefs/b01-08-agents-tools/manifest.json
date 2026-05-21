@@ -1,0 +1,93 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-08-agents-tools",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-08-agents-tools.md",
+    "notes": "LLM agents and tool use concepts covering tool-augmented LLMs, code interpreter,\nweb search augmentation, API calling, computer use, browser automation, agent memory\narchitecture, plan-and-solve prompting, task planning, and action space design.\nAlso includes QLoRA which belongs in fine-tuning but was inadvertently omitted from b01-01."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-08-agents-tools",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-08-agents-tools"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 10,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Tool-Augmented Language Models",
+      "kebab": "tool-augmented-language-models",
+      "brief_path": "briefs/b01-08-agents-tools/tool-augmented-language-models.yaml",
+      "expected_seed_filename": "tool-augmented-language-models-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Code Interpreter Use",
+      "kebab": "code-interpreter-use",
+      "brief_path": "briefs/b01-08-agents-tools/code-interpreter-use.yaml",
+      "expected_seed_filename": "code-interpreter-use-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Web Search-Augmented LLMs",
+      "kebab": "web-search-augmented-llms",
+      "brief_path": "briefs/b01-08-agents-tools/web-search-augmented-llms.yaml",
+      "expected_seed_filename": "web-search-augmented-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "API-Calling Agents",
+      "kebab": "api-calling-agents",
+      "brief_path": "briefs/b01-08-agents-tools/api-calling-agents.yaml",
+      "expected_seed_filename": "api-calling-agents-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Computer Use Agents",
+      "kebab": "computer-use-agents",
+      "brief_path": "briefs/b01-08-agents-tools/computer-use-agents.yaml",
+      "expected_seed_filename": "computer-use-agents-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Browser Automation Agents",
+      "kebab": "browser-automation-agents",
+      "brief_path": "briefs/b01-08-agents-tools/browser-automation-agents.yaml",
+      "expected_seed_filename": "browser-automation-agents-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Agent Memory Architecture",
+      "kebab": "agent-memory-architecture",
+      "brief_path": "briefs/b01-08-agents-tools/agent-memory-architecture.yaml",
+      "expected_seed_filename": "agent-memory-architecture-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Plan-and-Solve Prompting",
+      "kebab": "plan-and-solve-prompting",
+      "brief_path": "briefs/b01-08-agents-tools/plan-and-solve-prompting.yaml",
+      "expected_seed_filename": "plan-and-solve-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Task Planning with LLMs",
+      "kebab": "task-planning-with-llms",
+      "brief_path": "briefs/b01-08-agents-tools/task-planning-with-llms.yaml",
+      "expected_seed_filename": "task-planning-with-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Action Space Design for Agents",
+      "kebab": "action-space-design-for-agents",
+      "brief_path": "briefs/b01-08-agents-tools/action-space-design-for-agents.yaml",
+      "expected_seed_filename": "action-space-design-for-agents-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "QLoRA",
+      "kebab": "qlora",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/qlora.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at qlora.md"
+    }
+  ],
+  "warnings": []
+}

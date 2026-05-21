@@ -1,0 +1,55 @@
+concept: Context Window Extension
+domain: llm-context-management
+secondary_domains:
+- llm-architecture
+- positional-encoding
+- llm-training
+aliases:
+- context length extension
+- long-context training
+- RoPE extension
+broader:
+- transformer-architecture
+- llm-context-management
+narrower:
+- rope-scaling
+- alibi-positional-encoding
+- yarn-extension
+related:
+- long-context-prompting-strategies
+- positional-bias-in-context
+- needle-in-a-haystack-evaluation
+- retrieval-as-external-memory
+prerequisites:
+- transformer-architecture
+- positional-encoding
+- rotary-position-embedding
+confidence: high
+callouts:
+- type: definition
+  title: Context Window Extension
+  body: 'Context window extension refers to techniques for increasing the maximum
+    token sequence length that a pretrained language model can process beyond its
+    original training context length, without full retraining. Because standard transformer
+    attention is computed over all positions in the context, the maximum context length
+    is constrained by both computational cost (quadratic in sequence length) and positional
+    encoding capacity (the model has not seen position encodings beyond its training
+    length). Extension methods include: RoPE scaling variants (linear scaling, YaRN,
+    LongRoPE), training on progressively longer sequences, and architectural modifications
+    such as sliding window attention. Extended context models are needed for document-level
+    reasoning, multi-document QA, and long conversation history.'
+- type: key-claim
+  title: Key claim about Context Window Extension
+  body: The naive assumption that models trained with context length N can be directly
+    used at context length 2N by doubling the positional encoding scale is incorrect
+    — performance typically degrades sharply beyond the training context length because
+    the model has never seen positional relationships at those scales, and extension
+    methods must carefully preserve the relative positional structure that the model
+    learned during training while extrapolating to new lengths.
+- type: warning
+  title: Common pitfall regarding Context Window Extension
+  body: Context window extension increases the maximum context length but does not
+    uniformly improve retrieval from that context — models with extended context windows
+    still exhibit the "lost in the middle" phenomenon where information in the middle
+    of a long context is retrieved less accurately than information at the beginning
+    or end; extended context window ≠ uniformly improved long-document understanding.

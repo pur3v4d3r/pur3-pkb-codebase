@@ -1,0 +1,53 @@
+concept: Web Search-Augmented LLMs
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- information-retrieval
+- rag
+aliases:
+- search-augmented LLMs
+- web-grounded LLMs
+- retrieval-augmented generation with web
+- Bing-augmented LLMs
+broader:
+- tool-augmented-language-models
+- retrieval-augmented-generation
+related:
+- tool-augmented-language-models
+- retrieval-as-external-memory
+- api-calling-agents
+- llm-evaluation-benchmarks
+prerequisites:
+- tool-augmented-language-models
+- information-retrieval
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Web Search-Augmented LLMs
+  body: Web search-augmented LLMs are language models augmented with the ability to
+    issue real-time web search queries, retrieve results (snippets, full pages, or
+    structured extracts), and ground their responses in retrieved content — enabling
+    access to up-to-date information beyond the model's training cutoff. Implementations
+    range from simple (model generates a search query, retrieves top-N snippets, generates
+    a grounded response) to sophisticated (iterative retrieval with multiple queries,
+    source selection and ranking, citation attribution, contradictory source reconciliation).
+    Major deployments include Bing Chat/Copilot, Perplexity AI, and Google Gemini
+    with Google Search integration.
+- type: key-claim
+  title: Key claim about Web Search-Augmented LLMs
+  body: Web search augmentation resolves the LLM knowledge cutoff problem for factual
+    queries but introduces a new reliability bottleneck — the quality of retrieved
+    information — that is often less controllable than the model's generation quality;
+    low-quality search results, misinformation sources, SEO-optimised content, and
+    result staleness all degrade final answer quality in ways that cannot be fixed
+    by improving the language model alone, making web retrieval quality and source
+    ranking as important as the LLM itself.
+- type: warning
+  title: Common pitfall regarding Web Search-Augmented LLMs
+  body: Web search-augmented LLMs are vulnerable to a web-based form of prompt injection
+    — malicious content on web pages retrieved by the model can contain instructions
+    designed to hijack the model's subsequent actions, cause it to ignore retrieved
+    facts, or exfiltrate user information; this indirect prompt injection via retrieved
+    content is a live production threat that requires input sanitisation of retrieved
+    text and careful design of the system prompt hierarchy.

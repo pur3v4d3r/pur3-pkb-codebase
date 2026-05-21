@@ -1,0 +1,56 @@
+concept: Batch Inference Optimisation
+domain: llm-systems
+secondary_domains:
+- llm-systems
+- performance-engineering
+- mlops
+aliases:
+- batch processing for LLMs
+- offline batch inference
+- LLM batching
+- continuous batching
+broader:
+- llm-systems
+- performance-engineering
+narrower:
+- continuous-batching
+- dynamic-batching
+related:
+- latency-quality-tradeoff
+- cost-per-token-budgeting
+- model-routing-strategies
+- prompt-caching-strategies
+prerequisites:
+- llm-inference
+- systems-programming
+- gpu-computing
+confidence: high
+callouts:
+- type: definition
+  title: Batch Inference Optimisation
+  body: Batch inference optimisation refers to the techniques for maximising GPU utilisation
+    and throughput when processing multiple LLM requests — as opposed to latency optimisation
+    for single-request serving. In offline batch processing, requests are collected
+    and processed together, filling available compute capacity more efficiently than
+    sequential single-request serving. In online serving, continuous batching (also
+    called iteration-level scheduling or in-flight batching) dynamically groups requests
+    at the token generation level, inserting new requests into the batch as others
+    complete rather than waiting for the entire batch to finish — dramatically improving
+    GPU utilisation compared to static batching while maintaining low latency for
+    incoming requests.
+- type: key-claim
+  title: Key claim about Batch Inference Optimisation
+  body: Continuous batching is the most important systems-level optimisation for LLM
+    serving throughput, achieving 10–30× higher throughput than naive static batching
+    by eliminating the GPU idle time that occurs when static batches stall waiting
+    for the longest-running request; the vLLM serving framework's implementation of
+    continuous batching with PagedAttention (efficient KV cache management) became
+    the reference implementation for high-throughput LLM serving.
+- type: warning
+  title: Common pitfall regarding Batch Inference Optimisation
+  body: Batch inference optimisation trades per-request latency for system throughput
+    — techniques that maximise GPU utilisation (continuous batching with large batch
+    sizes) increase individual request queuing time when the system is at capacity;
+    production serving systems must carefully size batch sizes and implement backpressure
+    mechanisms to maintain acceptable tail latency under high load, not just optimise
+    for mean throughput.

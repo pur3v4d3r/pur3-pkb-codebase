@@ -1,0 +1,56 @@
+concept: Constitutional AI
+domain: ai-alignment
+secondary_domains:
+- llm-alignment
+- ai-safety
+- red-teaming-llms
+aliases:
+- CAI
+- constitutional AI principles
+- self-critique alignment
+broader:
+- llm-alignment
+- ai-safety
+narrower:
+- self-critique-and-revision
+- rlaif
+related:
+- reinforcement-learning-from-human-feedback
+- red-teaming-llms
+- scalable-oversight
+- harmlessness-helpfulness-tradeoff
+- sycophancy-mitigation
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- supervised-fine-tuning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Constitutional AI
+  body: 'Constitutional AI (CAI) is an alignment framework developed by Anthropic
+    in which a language model is trained to be helpful, harmless, and honest through
+    a two-stage procedure: Supervised Learning from AI Feedback (SL-CAF), where the
+    model critiques and revises its own outputs against a written constitution of
+    principles, and Reinforcement Learning from AI Feedback (RLAIF), where an AI model
+    labels preference pairs according to the same constitution rather than relying
+    solely on human annotators. The constitution is a set of human-authored principles
+    describing how the model should respond to harmful, sensitive, or ambiguous requests,
+    allowing alignment to be scaled without proportionally scaling human annotation.'
+- type: key-claim
+  title: Key claim about Constitutional AI
+  body: Constitutional AI demonstrates that explicit, inspectable alignment principles
+    can substitute for large-scale human preference data in the RLAIF stage — by having
+    the model itself generate critique and revision according to a constitution, CAI
+    reduces annotation costs, improves consistency across annotators, and makes the
+    alignment objectives transparent and auditable in a way that implicit human preference
+    datasets cannot be.
+- type: warning
+  title: Common pitfall regarding Constitutional AI
+  body: The quality of constitutional AI alignment is bounded by the quality of the
+    constitution — poorly specified or internally inconsistent principles produce
+    inconsistent model behaviour, and the model may learn to satisfy the letter of
+    constitutional principles through superficial text edits rather than genuinely
+    improving its underlying value representations; constitution overfitting, where
+    the model learns to identify constitutional-language patterns rather than the
+    underlying principles, is a documented failure mode.

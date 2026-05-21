@@ -1,0 +1,87 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-02-alignment-safety",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-02-alignment-safety.md",
+    "notes": "Alignment and safety concepts covering red-teaming, sycophancy, reward hacking,\noverrefusal, scalable oversight, debate, sleeper agents, and instruction hierarchy.\nComplements pe-07 with deeper coverage of specific failure modes and techniques."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-02-alignment-safety",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-02-alignment-safety"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 9,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Constitutional AI",
+      "kebab": "constitutional-ai",
+      "brief_path": "briefs/b01-02-alignment-safety/constitutional-ai.yaml",
+      "expected_seed_filename": "constitutional-ai-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Sycophancy Mitigation",
+      "kebab": "sycophancy-mitigation",
+      "brief_path": "briefs/b01-02-alignment-safety/sycophancy-mitigation.yaml",
+      "expected_seed_filename": "sycophancy-mitigation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Reward Hacking in RLHF",
+      "kebab": "reward-hacking-in-rlhf",
+      "brief_path": "briefs/b01-02-alignment-safety/reward-hacking-in-rlhf.yaml",
+      "expected_seed_filename": "reward-hacking-in-rlhf-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Overrefusal Problem",
+      "kebab": "overrefusal-problem",
+      "brief_path": "briefs/b01-02-alignment-safety/overrefusal-problem.yaml",
+      "expected_seed_filename": "overrefusal-problem-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Harmlessness-Helpfulness Tradeoff",
+      "kebab": "harmlessness-helpfulness-tradeoff",
+      "brief_path": "briefs/b01-02-alignment-safety/harmlessness-helpfulness-tradeoff.yaml",
+      "expected_seed_filename": "harmlessness-helpfulness-tradeoff-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Debate as Alignment Technique",
+      "kebab": "debate-as-alignment-technique",
+      "brief_path": "briefs/b01-02-alignment-safety/debate-as-alignment-technique.yaml",
+      "expected_seed_filename": "debate-as-alignment-technique-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "AI Safety via Debate",
+      "kebab": "ai-safety-via-debate",
+      "brief_path": "briefs/b01-02-alignment-safety/ai-safety-via-debate.yaml",
+      "expected_seed_filename": "ai-safety-via-debate-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Sleeper Agent Robustness",
+      "kebab": "sleeper-agent-robustness",
+      "brief_path": "briefs/b01-02-alignment-safety/sleeper-agent-robustness.yaml",
+      "expected_seed_filename": "sleeper-agent-robustness-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Instruction Hierarchy",
+      "kebab": "instruction-hierarchy",
+      "brief_path": "briefs/b01-02-alignment-safety/instruction-hierarchy.yaml",
+      "expected_seed_filename": "instruction-hierarchy-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Red-Teaming LLMs",
+      "kebab": "red-teaming-llms",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/red-teaming-llms.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at red-teaming-llms.md"
+    }
+  ],
+  "warnings": []
+}

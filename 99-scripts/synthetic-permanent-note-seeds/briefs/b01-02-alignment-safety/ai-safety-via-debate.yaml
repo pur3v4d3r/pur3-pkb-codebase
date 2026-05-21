@@ -1,0 +1,51 @@
+concept: AI Safety via Debate
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- scalable-oversight
+- theoretical-ai-safety
+aliases:
+- safety-via-debate
+- debate protocol for AI safety
+- AI debate protocol
+broader:
+- debate-as-alignment-technique
+- scalable-oversight
+- ai-safety
+related:
+- debate-as-alignment-technique
+- scalable-oversight
+- iterated-amplification
+- constitutional-ai
+prerequisites:
+- debate-as-alignment-technique
+- scalable-oversight
+- ai-alignment
+confidence: high
+callouts:
+- type: definition
+  title: AI Safety via Debate
+  body: 'AI safety via debate is a formal scalable oversight framework in which superhuman
+    AI systems are aligned by having them compete in structured debates judged by
+    humans, with the winning position determined by the persuasiveness of arguments
+    rather than the human''s direct knowledge of the subject matter. The Irving et
+    al. (2018) proposal frames debate as a zero-sum game between two AI players: the
+    honest player argues for the truth, the dishonest player argues for a false but
+    plausible position, and the human judge evaluates the quality of the argumentation.
+    Safety is achieved if the game-theoretic equilibrium — assuming both players play
+    optimally — selects for honest behaviour.'
+- type: key-claim
+  title: Key claim about AI Safety via Debate
+  body: AI safety via debate addresses the scalable oversight problem by transforming
+    the alignment task from "how can a human verify claims beyond their expertise"
+    into "how can a human judge the quality of competing arguments," exploiting the
+    asymmetry that evaluating the plausibility and internal consistency of arguments
+    is easier than independently generating correct answers to hard technical questions.
+- type: warning
+  title: Common pitfall regarding AI Safety via Debate
+  body: The practical implementation of AI safety via debate faces a fundamental bootstrapping
+    problem — the debate protocol requires a judge capable of distinguishing better
+    from worse arguments, but if the AI systems are sufficiently superhuman, the judge
+    may lack the cognitive capacity to evaluate even the metacognitive claims each
+    debater makes about the other's reasoning; the protocol's safety guarantees may
+    break down precisely in the regime where they are most needed.

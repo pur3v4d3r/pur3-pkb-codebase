@@ -1,0 +1,59 @@
+concept: Model Routing Strategies
+domain: llm-systems
+secondary_domains:
+- llm-systems
+- system-design
+- cost-management
+aliases:
+- LLM routing
+- query routing
+- model cascade
+- intelligent routing
+- LLM gateway routing
+broader:
+- llm-systems
+- system-design
+narrower:
+- cascade-routing
+- complexity-based-routing
+- semantic-routing
+related:
+- cost-per-token-budgeting
+- latency-quality-tradeoff
+- fallback-prompt-chains
+- model-graded-evaluation
+prerequisites:
+- llm-systems
+- system-design
+- multiple-model-deployment
+confidence: high
+callouts:
+- type: definition
+  title: Model Routing Strategies
+  body: Model routing strategies are system design patterns that direct incoming requests
+    to different LLM models (or model configurations) based on request characteristics
+    — with the goal of matching model capability to task requirements while optimising
+    cost and latency. A complexity-based router classifies requests by difficulty
+    (simple factual questions → fast, cheap model; complex reasoning tasks → large,
+    capable model). A semantic router maps request intent to purpose-built models
+    (code questions → code model; mathematical queries → reasoning model). A cascade
+    router first attempts a cheaper model and escalates to a more capable model only
+    if the cheaper model's confidence is below threshold, minimising average cost
+    while maintaining quality.
+- type: key-claim
+  title: Key claim about Model Routing Strategies
+  body: Model routing strategies can achieve frontier-model quality at substantially
+    lower average cost by routing the majority of requests (which are often simple)
+    to cheaper, faster models while routing the minority of genuinely difficult requests
+    to more capable models — empirical analyses of real production traffic distributions
+    consistently show that 50–80% of requests can be handled well by cheaper models,
+    meaning that routing strategies can reduce average inference cost by 50–70% with
+    minimal quality impact on aggregate metrics.
+- type: warning
+  title: Common pitfall regarding Model Routing Strategies
+  body: Model routing based on automated complexity classification introduces its
+    own error rate — misclassified requests routed to the wrong model tier produce
+    worse quality than a uniform high-capability model would; the routing model's
+    false-negative rate (complex requests classified as simple) determines the frequency
+    of quality failures, and routing strategies should be validated against quality
+    metrics across the full request distribution before deployment.

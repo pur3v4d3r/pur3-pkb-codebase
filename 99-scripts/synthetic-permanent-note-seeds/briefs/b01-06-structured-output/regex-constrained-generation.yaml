@@ -1,0 +1,50 @@
+concept: Regex-Constrained Generation
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- controlled-generation
+- data-extraction
+aliases:
+- regex-guided generation
+- pattern-constrained decoding
+- regex output forcing
+broader:
+- grammar-constrained-decoding
+- structured-output-enforcement
+related:
+- grammar-constrained-decoding
+- logit-bias-manipulation
+- structured-output-enforcement
+- output-length-control
+prerequisites:
+- regular-expressions
+- grammar-constrained-decoding
+- language-model-inference
+confidence: high
+callouts:
+- type: definition
+  title: Regex-Constrained Generation
+  body: Regex-constrained generation is a constrained decoding technique that restricts
+    token sampling to tokens consistent with a regular expression pattern at each
+    generation step, guaranteeing that the final output matches the specified regex.
+    By compiling the regex into a finite state automaton and advancing the automaton
+    state with each generated token, the constraint engine can determine at each step
+    which tokens can legally appear next; tokens that would cause the automaton to
+    reach a dead state are masked before sampling. This technique is used to enforce
+    precise output formats such as dates, phone numbers, product codes, identifiers,
+    and fixed-length numeric outputs.
+- type: key-claim
+  title: Key claim about Regex-Constrained Generation
+  body: Regex-constrained generation is the appropriate tool when the output format
+    is expressible as a regular language but too precise or too low-level to reliably
+    produce through prompt instructions alone — it is faster to implement and more
+    computationally efficient than full CFG-based constraint, making it the right
+    choice for simple pattern enforcement while CFG-based constraint is reserved for
+    context-sensitive structural requirements.
+- type: warning
+  title: Common pitfall regarding Regex-Constrained Generation
+  body: Regex-constrained generation applies only to the surface form of the output
+    and cannot constrain semantic content — a regex that enforces a date format (YYYY-MM-DD)
+    guarantees a syntactically valid date string but not that the date is semantically
+    meaningful in context or that it is factually correct; all semantic correctness
+    checking must be handled separately from the format constraint.

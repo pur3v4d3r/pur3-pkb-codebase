@@ -1,0 +1,54 @@
+concept: Many-Shot Jailbreaking
+domain: llm-security
+secondary_domains:
+- llm-security
+- adversarial-ai
+- ai-safety
+aliases:
+- many-shot jailbreak
+- long-context jailbreaking
+- MSJ
+- in-context jailbreaking
+broader:
+- jailbreak-taxonomy
+- llm-security
+related:
+- jailbreak-taxonomy
+- adversarial-suffix-attacks
+- direct-prompt-injection
+- few-shot-prompting
+- instruction-hierarchy
+prerequisites:
+- jailbreak-taxonomy
+- few-shot-prompting
+- llm-security
+- long-context-prompting-strategies
+confidence: high
+callouts:
+- type: definition
+  title: Many-Shot Jailbreaking
+  body: Many-shot jailbreaking (MSJ) is a jailbreak technique documented by Anil et
+    al. (2024) at Anthropic that exploits large context windows by prepending a long
+    sequence of fabricated question-answer pairs demonstrating the model compliantly
+    answering harmful queries before presenting the actual target query. The technique
+    leverages in-context learning — the model's tendency to continue demonstrated
+    patterns — to override safety training; as the number of examples increases (from
+    a few to hundreds), jailbreak success rate increases substantially, with models
+    becoming progressively more compliant as the context window fills with compliance
+    demonstrations.
+- type: key-claim
+  title: Key claim about Many-Shot Jailbreaking
+  body: Many-shot jailbreaking reveals a fundamental tension between in-context learning
+    capability and safety training — the same mechanism (learning from demonstrations
+    in context) that makes LLMs useful for few-shot tasks can override safety training
+    when given sufficient demonstrations of non-compliance, suggesting that safety
+    training must specifically address the in-context learning vector and not rely
+    on training-time behaviour to hold under adversarial in-context pressure.
+- type: warning
+  title: Common pitfall regarding Many-Shot Jailbreaking
+  body: Many-shot jailbreaking becomes more potent as context windows expand — models
+    with million-token context windows can receive thousands of harmful demonstration
+    pairs before the target query, substantially increasing success rates compared
+    to models with shorter context windows; this means that context window expansion,
+    while beneficial for legitimate use, increases the many-shot jailbreaking attack
+    surface and requires corresponding safety training updates.

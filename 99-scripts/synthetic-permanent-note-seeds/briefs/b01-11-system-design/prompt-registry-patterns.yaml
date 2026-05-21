@@ -1,0 +1,55 @@
+concept: Prompt Registry Patterns
+domain: llm-systems
+secondary_domains:
+- mlops
+- software-engineering
+- system-design
+aliases:
+- prompt registry
+- centralised prompt store
+- prompt catalogue
+- prompt repository system
+broader:
+- prompt-versioning
+- mlops
+- system-design
+related:
+- prompt-versioning
+- ab-testing-prompts
+- prompt-observability
+- prompt-caching-strategies
+- model-routing-strategies
+prerequisites:
+- prompt-versioning
+- software-engineering
+- mlops
+- system-design
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Registry Patterns
+  body: 'A prompt registry is a centralised system for storing, versioning, discovering,
+    and serving prompt templates to LLM-powered applications — analogous to a package
+    registry (npm, PyPI) for code or a model registry (MLflow, Weights & Biases) for
+    ML models. Prompt registries provide: a single source of truth for all production
+    prompts, metadata (version, author, associated model, performance metrics, usage
+    statistics), access controls (who can modify production prompts), environment
+    management (dev/staging/prod promotion), programmatic API for prompt retrieval,
+    and integration with monitoring and evaluation infrastructure. Commercial implementations
+    include LangSmith Hub, PromptLayer, Brainlid, and Helicone.'
+- type: key-claim
+  title: Key claim about Prompt Registry Patterns
+  body: Centralising prompt management in a registry resolves the organisational problem
+    of prompt sprawl — in systems without a prompt registry, production prompts exist
+    in application code, environment variables, database records, and individual developers'
+    notes, making it impossible to audit what is running in production, impossible
+    to coordinate changes, and impossible to measure the impact of modifications;
+    a prompt registry provides the organisational infrastructure for treating prompt
+    engineering as a disciplined engineering practice.
+- type: warning
+  title: Common pitfall regarding Prompt Registry Patterns
+  body: Prompt registries introduce a runtime dependency that must be highly available
+    — if the prompt registry is unavailable, the entire application that retrieves
+    prompts from it at runtime may fail; registries should include local caching,
+    fallback to bundled defaults, and circuit breaker patterns to prevent a registry
+    outage from cascading into application-level failures.

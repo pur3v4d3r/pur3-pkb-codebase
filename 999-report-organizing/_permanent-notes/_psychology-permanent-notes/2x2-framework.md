@@ -17,7 +17,7 @@ subdomains:
   - business-strategy
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - 2x2-framework-synthetic-seed-2026-04-24
@@ -64,8 +64,67 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — 2x2 Framework Structure**
+> *Identify the four quadrants formed by two dimensions.*
+>
+> ```mermaid
+> graph TD
+>   A[Dimension 1]
+>   B[Dimension 2]
+>   C[(Low, Low)]
+>   D[(High, Low)]
+>   E[(Low, High)]
+>   F[(High, High)]
+>   A -->|Low| C
+>   A -->|High| D
+>   B -->|Low| C
+>   B -->|High| F
+>   A -->|Low| E
+>   A -->|High| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Eisenhower Matrix Example**
+> *Understand the prioritization of tasks based on urgency and importance.*
+>
+> ```mermaid
+> graph TD
+>   A[Task]
+>   B[Urgent, Important]
+>   C[Not Urgent, Important]
+>   D[Urgent, Not Important]
+>   E[Not Urgent, Not Important]
+>   A -->|Do Now| B
+>   A -->|Schedule| C
+>   A -->|Delegate| D
+>   A -->|Drop| E
+> ```
+
+
+> [!abstract] **Diagram 3 — BCG Matrix Example**
+> *Categorize products based on market growth and relative share.*
+>
+> ```mermaid
+> graph TD
+>   A[Product]
+>   B[Growth Rate High, Share High]
+>   C[Growth Rate Low, Share High]
+>   D[Growth Rate High, Share Low]
+>   E[Growth Rate Low, Share Low]
+>   A -->|Star| B
+>   A -->|Cash Cow| C
+>   A -->|Question Mark| D
+>   A -->|Dog| E
+> ```
 
 # 2x2 Framework
 

@@ -1,0 +1,51 @@
+concept: Proximal Policy Optimization for LLMs
+domain: llm-fine-tuning
+secondary_domains:
+- reinforcement-learning
+- llm-training
+- ai-alignment
+aliases:
+- PPO for LLMs
+- LLM PPO
+- policy gradient for language models
+broader:
+- reinforcement-learning-from-human-feedback
+- policy-gradient-methods
+related:
+- direct-preference-optimization
+- group-relative-policy-optimization
+- reward-model-training
+- kl-divergence
+prerequisites:
+- proximal-policy-optimization
+- reinforcement-learning
+- reward-model-training
+- supervised-fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Proximal Policy Optimization for LLMs
+  body: Proximal Policy Optimization (PPO) adapted for LLMs is the standard RL algorithm
+    used in the third stage of RLHF to optimise a language model policy against a
+    learned reward model. The LLM generates completions that are scored by the reward
+    model, and PPO updates the policy parameters to maximise reward while a KL-divergence
+    penalty term constrains the updated policy to remain close to the SFT reference
+    model, preventing reward hacking and catastrophic forgetting of pretrained capabilities.
+    The token-level credit assignment in LLM PPO treats each generated token as an
+    action and the reward model's final scalar as a sparse reward at the end of the
+    sequence, typically with a per-token KL penalty added.
+- type: key-claim
+  title: Key claim about Proximal Policy Optimization for LLMs
+  body: PPO's clipped surrogate objective, which limits policy updates to a trust
+    region, is critical for LLM fine-tuning stability — without this constraint, the
+    enormous action space (vocabulary size × sequence length) causes policy gradient
+    updates to be highly variable, leading to training collapse; however, the KL penalty
+    introduces a fundamental tension between reward maximisation and staying close
+    to the reference model that PPO can only partially resolve.
+- type: warning
+  title: Common pitfall regarding Proximal Policy Optimization for LLMs
+  body: PPO for LLMs is computationally expensive and implementation-sensitive — it
+    requires running four forward passes per training step (policy, reference, reward
+    model, value model), making it 3–4× more expensive than SFT, and small implementation
+    errors in the advantage normalisation, KL weighting, or reward whitening often
+    cause training instability that is difficult to diagnose without extensive ablations.

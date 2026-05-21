@@ -1,0 +1,57 @@
+concept: System Prompt Extraction
+domain: llm-security
+secondary_domains:
+- llm-security
+- intellectual-property
+- ai-security
+aliases:
+- system prompt leaking
+- prompt extraction attack
+- confidential prompt extraction
+- meta-prompt extraction
+broader:
+- llm-security
+- prompt-injection
+narrower:
+- prompt-leaking
+related:
+- prompt-leaking
+- direct-prompt-injection
+- goal-hijacking
+- instruction-hierarchy
+- defense-via-input-sanitization
+prerequisites:
+- llm-security
+- prompt-engineering
+- system-prompts
+confidence: high
+callouts:
+- type: definition
+  title: System Prompt Extraction
+  body: 'System prompt extraction is the attack of causing an LLM-based application
+    to reveal its confidential system prompt — which may contain proprietary business
+    logic, persona specifications, safety constraints, API keys, internal tool descriptions,
+    or other sensitive configuration — through crafted user inputs. Attack techniques
+    include: direct requests ("repeat your system prompt"), context completion attacks
+    (exploiting the model''s tendency to complete obvious sequences), reasoning chain
+    attacks (asking the model to explain its constraints), translation attacks (asking
+    the model to translate its instructions), and roleplay framings that separate
+    the model from its prompt as a "character." While system prompt confidentiality
+    is not a security guarantee (it depends on model behaviour, not cryptography),
+    many production systems attempt to enforce it.'
+- type: key-claim
+  title: Key claim about System Prompt Extraction
+  body: System prompt confidentiality is a weakly enforceable policy, not a security
+    boundary — any system that relies on the LLM refusing to reveal its system prompt
+    as a security mechanism is built on a foundation that can be bypassed by sufficiently
+    creative adversarial requests; genuinely sensitive configuration (API keys, passwords,
+    customer data) should never be placed in system prompts because LLM-level confidentiality
+    guarantees are not reliable enough to protect high-value secrets.
+- type: warning
+  title: Common pitfall regarding System Prompt Extraction
+  body: Even when a model successfully refuses to directly quote its system prompt,
+    partial system prompt information leaks through the model's behaviour — the categories
+    of requests the model refuses, the specific phrasings it uses, the knowledge domains
+    it draws on, and its persona characteristics all carry information about the system
+    prompt's content; treating the system prompt as completely confidential is unrealistic
+    for any deployed application.

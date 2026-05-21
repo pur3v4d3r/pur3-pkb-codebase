@@ -1,0 +1,53 @@
+concept: Supervised Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- llm-training
+- deep-learning
+aliases:
+- SFT
+- supervised adaptation
+- standard fine-tuning
+broader:
+- fine-tuning
+- transfer-learning
+narrower:
+- instruction-tuning
+- task-specific-fine-tuning
+related:
+- reinforcement-learning-from-human-feedback
+- direct-preference-optimization
+- parameter-efficient-fine-tuning
+- catastrophic-forgetting-in-llms
+prerequisites:
+- gradient-descent
+- cross-entropy-loss
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Supervised Fine-Tuning
+  body: 'Supervised fine-tuning (SFT) is the procedure of continuing to train a pretrained
+    language model on a labeled dataset using the standard cross-entropy loss over
+    gold-standard output tokens, as opposed to the masked or causal language-modelling
+    objectives used in pretraining. In the context of large language models, SFT is
+    typically the first adaptation stage: the pretrained base model is trained on
+    human-written (prompt, completion) pairs to instil task-relevant behaviour before
+    any preference-alignment stage. SFT is computationally cheaper than pretraining
+    but still requires careful data curation, as the model will overfit to surface-level
+    patterns in low-quality demonstrations.'
+- type: key-claim
+  title: Key claim about Supervised Fine-Tuning
+  body: SFT serves as the foundation for all subsequent preference-alignment methods
+    — models that have not been SFT'd first are difficult to align with RLHF or DPO
+    because the base model lacks the basic instruction-following scaffolding that
+    makes preference data meaningful; the quality of the SFT stage is therefore a
+    critical bottleneck that upstream-determines the ceiling of downstream alignment
+    quality.
+- type: warning
+  title: Common pitfall regarding Supervised Fine-Tuning
+  body: 'SFT is prone to behaviour cloning: the model learns to mimic the distribution
+    of demonstrations rather than acquire the underlying reasoning, making it sensitive
+    to distribution shift and susceptible to producing plausible-looking but incorrect
+    outputs when applied to inputs that differ from the training distribution; overfitting
+    on small SFT datasets can also degrade general-purpose capability.'

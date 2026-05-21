@@ -1,0 +1,53 @@
+concept: Rejection Sampling Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- llm-training
+- ai-alignment
+- data-generation
+aliases:
+- rejection sampling
+- best-of-N fine-tuning
+- RST
+- STaR-based fine-tuning
+broader:
+- llm-alignment
+- self-improvement-methods
+related:
+- direct-preference-optimization
+- rlhf-reinforcement-learning-from-human-feedback
+- group-relative-policy-optimization
+- supervised-fine-tuning
+- reward-model-training
+prerequisites:
+- supervised-fine-tuning
+- reward-model-training
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Rejection Sampling Fine-Tuning
+  body: Rejection sampling fine-tuning (RST) is an iterative alignment method in which
+    the current model policy generates multiple candidate completions for each prompt,
+    a reward model or verifier scores them, and only the highest-scoring completions
+    are used as supervised fine-tuning targets in the next training iteration. By
+    repeatedly cycling between generation, scoring, and filtering, the model distils
+    its own best outputs into training data, allowing it to self-improve without direct
+    RL optimisation. RST is used as a standalone alignment technique and as an auxiliary
+    phase within RLHF pipelines, particularly for tasks with verifiable rewards such
+    as coding and mathematics.
+- type: key-claim
+  title: Key claim about Rejection Sampling Fine-Tuning
+  body: Rejection sampling fine-tuning leverages the gap between a model's average
+    output and its best output — because language models sample stochastically, even
+    a moderately capable model can occasionally produce high-quality completions that
+    it cannot reproduce reliably; RST exploits this by training the model to reproduce
+    its occasional best performances consistently, effectively raising the floor of
+    the output distribution toward the ceiling.
+- type: warning
+  title: Common pitfall regarding Rejection Sampling Fine-Tuning
+  body: Rejection sampling is subject to distributional collapse over iterations —
+    as the model improves on the filtered distribution, the diversity of generated
+    samples decreases, reducing exploration and causing the reward model to overfit
+    to a narrow output manifold; this mode collapse is exacerbated when the reward
+    model itself is the filter, since it cannot distinguish quality from reward-model-exploiting
+    patterns.

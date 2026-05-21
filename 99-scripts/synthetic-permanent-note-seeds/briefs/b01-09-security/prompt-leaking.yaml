@@ -1,0 +1,52 @@
+concept: Prompt Leaking
+domain: llm-security
+secondary_domains:
+- llm-security
+- intellectual-property
+- ai-security
+aliases:
+- prompt leak
+- instruction leaking
+- system prompt leaking
+- confidential prompt disclosure
+broader:
+- system-prompt-extraction
+- llm-security
+related:
+- system-prompt-extraction
+- direct-prompt-injection
+- goal-hijacking
+- defense-via-input-sanitization
+prerequisites:
+- llm-security
+- system-prompts
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Leaking
+  body: Prompt leaking is the unintended disclosure of a language model application's
+    confidential prompt content (system prompt, instruction template, few-shot examples)
+    to end users through the model's outputs — either through direct extraction attacks
+    or through indirect leakage via the model's behaviour. Beyond deliberate extraction
+    attacks, prompt leaking can occur naturally when the model references its instructions
+    in error messages, when it echoes prompt text in generated output, or when it
+    uses phrasing or knowledge that reveals the prompt's structure. Prompt leaking
+    is a concern for applications whose business value depends on proprietary prompt
+    engineering or whose security posture requires confidential system instructions.
+- type: key-claim
+  title: Key claim about Prompt Leaking
+  body: Prompt leaking is structurally inevitable for any system that includes business-sensitive
+    information in the LLM's context — the model has no cryptographic mechanism to
+    prevent it from outputting any content from its context window, and sufficiently
+    creative adversarial probing will eventually surface portions of any confidential
+    prompt; the correct security posture is to design systems that are not broken
+    if the system prompt is disclosed, rather than to rely on prompt confidentiality
+    as a security control.
+- type: warning
+  title: Common pitfall regarding Prompt Leaking
+  body: Confidentiality measures like "do not reveal your system prompt" instructions
+    provide only marginal protection against deliberate extraction attacks and zero
+    protection against accidental leakage — models frequently include system prompt
+    text in long responses, error messages, and reasoning chains without recognising
+    that they are disclosing it.

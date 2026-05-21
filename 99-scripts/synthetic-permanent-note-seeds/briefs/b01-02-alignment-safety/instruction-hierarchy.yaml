@@ -1,0 +1,54 @@
+concept: Instruction Hierarchy
+domain: ai-alignment
+secondary_domains:
+- llm-safety
+- ai-alignment
+- prompt-engineering
+aliases:
+- privilege escalation in LLMs
+- instruction priority ordering
+- system prompt authority
+broader:
+- ai-alignment
+- llm-security
+related:
+- direct-prompt-injection
+- indirect-prompt-injection
+- system-prompt-design
+- constitutional-ai
+- goal-hijacking
+prerequisites:
+- system-prompt-design
+- large-language-models
+- ai-alignment
+confidence: high
+callouts:
+- type: definition
+  title: Instruction Hierarchy
+  body: 'Instruction hierarchy in language models refers to the formal or implicit
+    ordering of trust and priority among instructions arriving from different sources:
+    system prompts (from operators), user messages, and in-context tool outputs or
+    retrieved content. Well-designed instruction hierarchies establish that higher-privilege
+    instructions (system prompts from vetted operators) take precedence over lower-privilege
+    instructions (user messages) and that content arriving via tool use or retrieval
+    carries the lowest privilege — preventing prompt injection attacks in which untrusted
+    content in the environment hijacks the model''s behaviour by issuing instructions
+    that override higher-level directives.'
+- type: key-claim
+  title: Key claim about Instruction Hierarchy
+  body: Explicit instruction hierarchy training is essential for safe agentic deployment
+    — without trained awareness of instruction provenance and trust levels, models
+    treat all instructions with equal authority regardless of source, making them
+    vulnerable to prompt injection attacks in any pipeline where model outputs interact
+    with untrusted external content; the hierarchy must be encoded in training, not
+    just in prompt conventions, because prompt-convention hierarchies can be overridden
+    by sufficiently sophisticated injected instructions.
+- type: warning
+  title: Common pitfall regarding Instruction Hierarchy
+  body: 'Instruction hierarchy mechanisms face a fundamental ambiguity at deployment
+    time: users can legitimately override some operator defaults (e.g., choosing a
+    different response language) but should not be able to override core safety constraints,
+    and determining which instructions are overridable requires context-sensitive
+    reasoning that current models do not reliably perform; overly strict hierarchies
+    prevent legitimate user customisation while overly permissive ones enable privilege
+    escalation attacks.'

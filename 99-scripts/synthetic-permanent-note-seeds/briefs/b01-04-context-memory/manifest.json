@@ -1,0 +1,91 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-04-context-memory",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-04-context-memory.md",
+    "notes": "Context window and memory concepts covering context extension, long-context prompting,\npositional bias, recency effects, memory-augmented LLMs, and episodic/semantic/working\nmemory analogies in language models."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-04-context-memory",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-04-context-memory"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 7,
+    "skipped": 3,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Context Window Extension",
+      "kebab": "context-window-extension",
+      "brief_path": "briefs/b01-04-context-memory/context-window-extension.yaml",
+      "expected_seed_filename": "context-window-extension-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Positional Bias in Context",
+      "kebab": "positional-bias-in-context",
+      "brief_path": "briefs/b01-04-context-memory/positional-bias-in-context.yaml",
+      "expected_seed_filename": "positional-bias-in-context-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Recency Bias in LLMs",
+      "kebab": "recency-bias-in-llms",
+      "brief_path": "briefs/b01-04-context-memory/recency-bias-in-llms.yaml",
+      "expected_seed_filename": "recency-bias-in-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Memory-Augmented LLMs",
+      "kebab": "memory-augmented-llms",
+      "brief_path": "briefs/b01-04-context-memory/memory-augmented-llms.yaml",
+      "expected_seed_filename": "memory-augmented-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Semantic Memory in Agents",
+      "kebab": "semantic-memory-in-agents",
+      "brief_path": "briefs/b01-04-context-memory/semantic-memory-in-agents.yaml",
+      "expected_seed_filename": "semantic-memory-in-agents-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Working Memory Simulation in LLMs",
+      "kebab": "working-memory-simulation-in-llms",
+      "brief_path": "briefs/b01-04-context-memory/working-memory-simulation-in-llms.yaml",
+      "expected_seed_filename": "working-memory-simulation-in-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Retrieval as External Memory",
+      "kebab": "retrieval-as-external-memory",
+      "brief_path": "briefs/b01-04-context-memory/retrieval-as-external-memory.yaml",
+      "expected_seed_filename": "retrieval-as-external-memory-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Long-Context Prompting Strategies",
+      "kebab": "long-context-prompting-strategies",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/long-context-prompting-strategies.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at long-context-prompting-strategies.md"
+    },
+    {
+      "term": "Needle in a Haystack Evaluation",
+      "kebab": "needle-in-a-haystack-evaluation",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/needle-in-a-haystack-evaluation.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at needle-in-a-haystack-evaluation.md"
+    },
+    {
+      "term": "Episodic Memory in Agents",
+      "kebab": "episodic-memory-in-agents",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/episodic-memory-in-agents.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at episodic-memory-in-agents.md"
+    }
+  ],
+  "warnings": []
+}

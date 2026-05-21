@@ -1,0 +1,71 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-05-multimodal",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-05-multimodal.md",
+    "notes": "Multimodal prompting concepts covering vision-language models, image captioning,\nvisual chain-of-thought, few-shot multimodal prompting, audio LMs,\ndocument understanding, and chart/table prompting."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-05-multimodal",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-05-multimodal"
+  },
+  "counts": {
+    "parsed": 7,
+    "accepted": 5,
+    "skipped": 2,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Vision-Language Model Prompting",
+      "kebab": "vision-language-model-prompting",
+      "brief_path": "briefs/b01-05-multimodal/vision-language-model-prompting.yaml",
+      "expected_seed_filename": "vision-language-model-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Multimodal Few-Shot Prompting",
+      "kebab": "multimodal-few-shot-prompting",
+      "brief_path": "briefs/b01-05-multimodal/multimodal-few-shot-prompting.yaml",
+      "expected_seed_filename": "multimodal-few-shot-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Audio Language Model Prompting",
+      "kebab": "audio-language-model-prompting",
+      "brief_path": "briefs/b01-05-multimodal/audio-language-model-prompting.yaml",
+      "expected_seed_filename": "audio-language-model-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Document Understanding Prompting",
+      "kebab": "document-understanding-prompting",
+      "brief_path": "briefs/b01-05-multimodal/document-understanding-prompting.yaml",
+      "expected_seed_filename": "document-understanding-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Chart and Table Prompting",
+      "kebab": "chart-and-table-prompting",
+      "brief_path": "briefs/b01-05-multimodal/chart-and-table-prompting.yaml",
+      "expected_seed_filename": "chart-and-table-prompting-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Image Captioning Prompts",
+      "kebab": "image-captioning-prompts",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/image-captioning-prompts.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at image-captioning-prompts.md"
+    },
+    {
+      "term": "Visual Chain-of-Thought",
+      "kebab": "visual-chain-of-thought",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/visual-chain-of-thought.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at visual-chain-of-thought.md"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,58 @@
+concept: Action Space Design for Agents
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- system-design
+- ai-safety
+aliases:
+- agent action space
+- tool design for agents
+- capability specification for agents
+- LLM tool schema design
+broader:
+- llm-agents
+- ai-safety
+related:
+- api-calling-agents
+- computer-use-agents
+- tool-augmented-language-models
+- task-planning-with-llms
+- defense-via-input-sanitization
+prerequisites:
+- llm-agents
+- api-design
+- ai-safety
+- software-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Action Space Design for Agents
+  body: 'Action space design for agents refers to the deliberate specification of
+    what actions an LLM-based agent can take — which tools are available, what their
+    parameters are, what their side effects are, and what constraints apply — as a
+    first-class design decision that directly impacts both agent capability and safety.
+    The action space determines the scope of possible behaviours: a narrow action
+    space (few, restricted tools) limits capability but simplifies validation; a broad
+    action space (many, powerful tools) enables complex task completion but expands
+    the blast radius of reasoning errors. Action space design involves determining
+    tool granularity (fine-grained atomic actions vs. coarse-grained compound actions),
+    defining parameter types and validation, specifying reversible vs. irreversible
+    actions, and implementing access controls.'
+- type: key-claim
+  title: Key claim about Action Space Design for Agents
+  body: Action space design is the most important safety lever in agent deployment
+    because it determines the worst-case consequence of a reasoning failure — an agent
+    whose action space includes only reversible read-and-query operations can cause
+    minimal harm even if it reasons incorrectly, while an agent with access to delete,
+    send, and publish operations can cause significant irreversible harm from a single
+    reasoning error; the principle of least privilege applied to agent action spaces
+    should match the action space to the minimum needed for the task, not the maximum
+    that might ever be useful.
+- type: warning
+  title: Common pitfall regarding Action Space Design for Agents
+  body: Overly broad tool descriptions in action space specifications cause hallucinated
+    tool calls — when tool descriptions use vague or generic language, the model may
+    apply tools to situations where they are inappropriate or harmful, because the
+    model cannot reliably distinguish the intended scope from the description alone;
+    precise, example-rich tool descriptions with explicit usage constraints and anti-examples
+    reduce spurious tool invocations.

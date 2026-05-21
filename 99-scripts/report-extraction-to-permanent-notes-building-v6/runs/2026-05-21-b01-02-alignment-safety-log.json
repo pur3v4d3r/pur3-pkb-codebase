@@ -1,0 +1,101 @@
+[
+  {
+    "title": "AI Safety via Debate",
+    "slug": "ai-safety-via-debate",
+    "report_stem": "ai-safety-via-debate-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\ai-safety-via-debate.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Constitutional AI",
+    "slug": "constitutional-ai",
+    "report_stem": "constitutional-ai-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\constitutional-ai.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Debate as Alignment Technique",
+    "slug": "debate-as-alignment-technique",
+    "report_stem": "debate-as-alignment-technique-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\debate-as-alignment-technique.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Harmlessness-Helpfulness Tradeoff",
+    "slug": "harmlessness-helpfulness-tradeoff",
+    "report_stem": "harmlessness-helpfulness-tradeoff-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\harmlessness-helpfulness-tradeoff.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Instruction Hierarchy",
+    "slug": "instruction-hierarchy",
+    "report_stem": "instruction-hierarchy-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\instruction-hierarchy.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Overrefusal Problem",
+    "slug": "overrefusal-problem",
+    "report_stem": "overrefusal-problem-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\overrefusal-problem.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Reward Hacking in RLHF",
+    "slug": "reward-hacking-in-rlhf",
+    "report_stem": "reward-hacking-in-rlhf-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\reward-hacking-in-rlhf.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Sleeper Agent Robustness",
+    "slug": "sleeper-agent-robustness",
+    "report_stem": "sleeper-agent-robustness-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\sleeper-agent-robustness.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Sycophancy Mitigation",
+    "slug": "sycophancy-mitigation",
+    "report_stem": "sycophancy-mitigation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\sycophancy-mitigation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

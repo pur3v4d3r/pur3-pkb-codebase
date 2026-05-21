@@ -1,0 +1,57 @@
+concept: LLM Scaling Laws
+domain: llm-theory
+secondary_domains:
+- machine-learning-theory
+- empirical-ml
+- neural-scaling
+aliases:
+- neural scaling laws
+- Chinchilla scaling
+- Kaplan scaling laws
+- compute-optimal scaling
+broader:
+- llm-theory
+- empirical-machine-learning
+narrower:
+- chinchilla-scaling-law
+- kaplan-scaling-law
+- compute-optimal-training
+related:
+- emergent-abilities-in-llms
+- phase-transitions-in-llms
+- parameter-efficient-fine-tuning
+prerequisites:
+- large-language-models
+- neural-network-training
+- empirical-machine-learning
+confidence: high
+callouts:
+- type: definition
+  title: LLM Scaling Laws
+  body: LLM scaling laws are empirical power-law relationships between model performance
+    (measured as test loss), model scale (parameters N, training tokens D, and compute
+    budget C), discovered through systematic experimentation on language models. The
+    seminal Kaplan et al. (2020) scaling laws showed that loss follows a power law
+    in N and D independently, with compute-efficient training allocating most compute
+    to model size. Hoffmann et al. (2022) (Chinchilla) revised this, finding that
+    optimal performance for a given compute budget requires equal scaling of model
+    size and training tokens — a model should be trained on approximately 20 tokens
+    per parameter — substantially reducing the optimal model size and increasing training
+    data relative to Kaplan's prescriptions.
+- type: key-claim
+  title: Key claim about LLM Scaling Laws
+  body: Chinchilla scaling laws revealed that the field's prior practice of undertraining
+    large models (training GPT-3-scale models on far fewer tokens than optimal) was
+    systematically compute-inefficient — the Chinchilla model (70B parameters, 1.4T
+    tokens) outperformed the much larger Gopher model (280B parameters, 300B tokens)
+    by using the same compute budget more efficiently, demonstrating that training
+    data scaling is at least as important as parameter scaling for compute-optimal
+    performance.
+- type: warning
+  title: Common pitfall regarding LLM Scaling Laws
+  body: LLM scaling laws are empirical observations with bounded domain validity —
+    they are measured on specific model architectures, tokenizers, data mixes, and
+    training procedures, and their extrapolation beyond the measured range is uncertain;
+    the discovery of emergent capabilities (qualitative capability jumps at certain
+    scales) suggests that power-law extrapolation may miss qualitative transitions,
+    and architectural innovations can shift the scaling curves substantially.

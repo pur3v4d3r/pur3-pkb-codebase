@@ -1,0 +1,56 @@
+concept: Structured Output Enforcement
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- software-engineering
+- api-design
+aliases:
+- constrained output generation
+- structured generation
+- output schema enforcement
+broader:
+- prompt-engineering
+- controlled-text-generation
+narrower:
+- json-mode-prompting
+- grammar-constrained-decoding
+- schema-following-prompts
+related:
+- json-mode-prompting
+- grammar-constrained-decoding
+- schema-following-prompts
+- regex-constrained-generation
+- output-length-control
+prerequisites:
+- prompt-engineering
+- language-model-inference
+- api-design
+confidence: high
+callouts:
+- type: definition
+  title: Structured Output Enforcement
+  body: Structured output enforcement encompasses the collection of techniques — at
+    the prompt, API, and inference levels — for ensuring that language model outputs
+    conform to a specified format, schema, or structure. Approaches range from soft
+    enforcement (prompt instructions with examples) to hard enforcement (constrained
+    decoding that restricts the token sampling space to structure-valid tokens at
+    each step). Structured output enforcement is critical for programmatic integration
+    of LLM outputs into downstream software pipelines where format violations cause
+    parsing errors or silent data corruption.
+- type: key-claim
+  title: Key claim about Structured Output Enforcement
+  body: The reliability gap between soft (prompt-based) and hard (constrained-decoding-based)
+    structured output enforcement is large and practically significant — even with
+    explicit JSON schema instructions and few-shot examples, LLMs produce invalid
+    or non-conforming outputs at rates of 1–10% in production settings, which is unacceptable
+    for automated pipelines; hard enforcement via constrained decoding or grammar-based
+    sampling eliminates this failure mode entirely at the cost of slightly reduced
+    fluency.
+- type: warning
+  title: Common pitfall regarding Structured Output Enforcement
+  body: Constrained decoding-based structured output enforcement changes the model's
+    generation distribution beyond just enforcing format constraints — by restricting
+    which tokens are sampleable at each step, constrained decoding can cause the model
+    to produce grammatically valid but semantically incoherent outputs when the most
+    plausible token is outside the constraint set; the content quality of grammar-constrained
+    outputs should be validated separately from their structural validity.

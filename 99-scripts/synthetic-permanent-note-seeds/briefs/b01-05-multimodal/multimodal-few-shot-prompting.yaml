@@ -1,0 +1,49 @@
+concept: Multimodal Few-Shot Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- in-context-learning
+- multimodal-ai
+aliases:
+- multimodal in-context learning
+- VLM few-shot
+- image-text few-shot prompting
+broader:
+- few-shot-prompting
+- vision-language-model-prompting
+related:
+- vision-language-model-prompting
+- visual-chain-of-thought
+- in-context-learning
+- few-shot-prompting
+prerequisites:
+- few-shot-prompting
+- vision-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: Multimodal Few-Shot Prompting
+  body: Multimodal few-shot prompting is the technique of providing VLMs with example
+    (image, text) input-output pairs within the prompt context to demonstrate the
+    desired task format and output structure before presenting the query image. By
+    showing the model how to process image inputs and format outputs — with examples
+    that pair images with desired responses — multimodal few-shot prompting leverages
+    in-context learning to adapt VLM behaviour without fine-tuning. Example formats
+    include image-captioning demonstrations, visual question answering examples, image
+    classification examples, and visual reasoning chains.
+- type: key-claim
+  title: Key claim about Multimodal Few-Shot Prompting
+  body: Multimodal few-shot prompting is more sensitive to example selection than
+    text-only few-shot prompting because image examples must match the query in both
+    task type and visual domain — an example from a different visual domain (e.g.,
+    using a photograph as an example for a medical imaging task) provides weaker task
+    signal than domain-matched examples, making strategic example selection even more
+    critical in the multimodal setting.
+- type: warning
+  title: Common pitfall regarding Multimodal Few-Shot Prompting
+  body: Many VLMs have context length limitations that significantly constrain the
+    number of image-text pairs that can be included in a few-shot prompt — each image
+    consumes a large number of tokens (often 500–1000+ for high-resolution images),
+    meaning that even moderate few-shot settings (k=5) may exceed the effective context
+    window and cause degraded performance on the query itself.

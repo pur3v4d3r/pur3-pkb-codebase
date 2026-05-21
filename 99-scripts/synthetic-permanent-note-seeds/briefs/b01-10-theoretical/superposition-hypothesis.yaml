@@ -1,0 +1,52 @@
+concept: Superposition Hypothesis
+domain: llm-theory
+secondary_domains:
+- mechanistic-interpretability
+- ai-interpretability
+- neural-network-theory
+aliases:
+- feature superposition
+- polysemanticity
+- superposition in neural networks
+- compressed feature representation
+broader:
+- mechanistic-interpretability
+related:
+- mechanistic-interpretability
+- sparse-autoencoders-for-interpretability
+- circuit-analysis-in-transformers
+- activation-patching
+prerequisites:
+- mechanistic-interpretability
+- neural-network-representations
+- linear-algebra
+confidence: high
+callouts:
+- type: definition
+  title: Superposition Hypothesis
+  body: The superposition hypothesis, developed by Elhage et al. (2022) at Anthropic,
+    proposes that neural networks represent more features than they have neurons by
+    storing multiple features in superposition — each neuron participates in representing
+    multiple features, and each feature is distributed across multiple neurons — through
+    sparse, nearly-orthogonal directions in the activation space. The hypothesis explains
+    why neurons are polysemantic (responding to multiple unrelated inputs) and why
+    model representations are difficult to interpret at the individual neuron level.
+    Superposition is optimal when features are sparse (rarely active simultaneously),
+    because the cost of occasional interference is outweighed by the benefit of representing
+    exponentially more features.
+- type: key-claim
+  title: Key claim about Superposition Hypothesis
+  body: The superposition hypothesis explains why naive mechanistic interpretability
+    (assigning a semantic meaning to individual neurons) fails for real models — neurons
+    are not the correct unit of analysis because the model uses the full high-dimensional
+    activation space to represent features via superposition; the practical implication
+    is that interpretability techniques must operate in activation space (identifying
+    feature directions) rather than neuron space.
+- type: warning
+  title: Common pitfall regarding Superposition Hypothesis
+  body: The superposition hypothesis is an empirical finding from small, idealised
+    models and a theoretical framework, not a proven theorem about arbitrary neural
+    networks — while the evidence is strong and the framework is influential, the
+    extent to which frontier-scale models rely on superposition versus other representation
+    strategies is not fully characterised; interpretability conclusions derived from
+    the superposition framework should be held tentatively and validated empirically.

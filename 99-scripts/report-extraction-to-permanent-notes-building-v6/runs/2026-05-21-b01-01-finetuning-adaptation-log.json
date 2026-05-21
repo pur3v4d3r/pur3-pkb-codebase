@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Full Fine-Tuning vs PEFT",
+    "slug": "full-fine-tuning-vs-peft",
+    "report_stem": "full-fine-tuning-vs-peft-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\full-fine-tuning-vs-peft.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Group Relative Policy Optimization",
+    "slug": "group-relative-policy-optimization",
+    "report_stem": "group-relative-policy-optimization-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\group-relative-policy-optimization.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Instruction Tuning",
+    "slug": "instruction-tuning",
+    "report_stem": "instruction-tuning-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\instruction-tuning.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Kahneman-Tversky Optimization",
+    "slug": "kahneman-tversky-optimization",
+    "report_stem": "kahneman-tversky-optimization-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\kahneman-tversky-optimization.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Proximal Policy Optimization for LLMs",
+    "slug": "proximal-policy-optimization-for-llms",
+    "report_stem": "proximal-policy-optimization-for-llms-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\proximal-policy-optimization-for-llms.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Rejection Sampling Fine-Tuning",
+    "slug": "rejection-sampling-fine-tuning",
+    "report_stem": "rejection-sampling-fine-tuning-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\rejection-sampling-fine-tuning.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Reward Model Training",
+    "slug": "reward-model-training",
+    "report_stem": "reward-model-training-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\reward-model-training.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "RLHF Reinforcement Learning from Human Feedback",
+    "slug": "rlhf-reinforcement-learning-from-human-feedback",
+    "report_stem": "rlhf-reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\rlhf-reinforcement-learning-from-human-feedback.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Supervised Fine-Tuning",
+    "slug": "supervised-fine-tuning",
+    "report_stem": "supervised-fine-tuning-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\supervised-fine-tuning.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

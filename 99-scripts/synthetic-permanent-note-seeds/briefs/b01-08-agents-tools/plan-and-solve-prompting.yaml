@@ -1,0 +1,51 @@
+concept: Plan-and-Solve Prompting
+domain: llm-agents
+secondary_domains:
+- prompt-engineering
+- llm-agents
+- problem-solving
+aliases:
+- plan-and-solve
+- PS prompting
+- PS+ prompting
+- planning before solving
+broader:
+- prompt-engineering
+- llm-agents
+related:
+- task-planning-with-llms
+- tool-augmented-language-models
+- chain-of-thought-prompting
+- tree-of-thoughts
+prerequisites:
+- chain-of-thought-prompting
+- prompt-engineering
+- llm-agents
+confidence: high
+callouts:
+- type: definition
+  title: Plan-and-Solve Prompting
+  body: Plan-and-Solve (PS) prompting is a zero-shot chain-of-thought prompting strategy
+    introduced by Wang et al. (2023) that improves multi-step reasoning by instructing
+    the model to first devise a plan for solving the problem, then execute the plan
+    step by step. The core insight is that the standard "Let's think step by step"
+    zero-shot CoT prompt sometimes produces calculation errors and missing steps because
+    the model jumps into solution steps without explicitly identifying what steps
+    are needed. PS prompting addresses this by separating planning ("Let's first understand
+    the problem and devise a plan") from execution ("Let's carry out the plan and
+    solve the problem step by step"). An enhanced version, PS+, adds explicit instructions
+    to extract key information and verify calculations.
+- type: key-claim
+  title: Key claim about Plan-and-Solve Prompting
+  body: Plan-and-Solve prompting's improvement over standard zero-shot CoT is largest
+    on multi-step arithmetic problems where intermediate calculation errors compound
+    — by requiring explicit planning of the solution structure before execution, PS
+    reduces the frequency of skipped steps and incorrectly set-up calculations that
+    are the primary error modes in LLM arithmetic reasoning.
+- type: warning
+  title: Common pitfall regarding Plan-and-Solve Prompting
+  body: Plan-and-Solve prompting can actually hurt performance on problems where the
+    most natural solution path is direct and does not benefit from explicit planning
+    — forcing a planning step on simple problems adds verbosity and can cause the
+    model to overcomplicate a straightforward solution; PS prompting should be applied
+    selectively to complex multi-step tasks rather than universally.

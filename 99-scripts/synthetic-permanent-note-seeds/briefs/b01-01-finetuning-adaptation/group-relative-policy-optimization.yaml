@@ -1,0 +1,50 @@
+concept: Group Relative Policy Optimization
+domain: llm-fine-tuning
+secondary_domains:
+- reinforcement-learning
+- llm-training
+- ai-alignment
+aliases:
+- GRPO
+- group-relative policy gradient
+- group-reward normalisation
+broader:
+- reinforcement-learning-from-human-feedback
+- policy-gradient-methods
+related:
+- proximal-policy-optimization-for-llms
+- direct-preference-optimization
+- rejection-sampling-fine-tuning
+- reward-model-training
+prerequisites:
+- proximal-policy-optimization-for-llms
+- reinforcement-learning-from-human-feedback
+- reward-model-training
+confidence: high
+callouts:
+- type: definition
+  title: Group Relative Policy Optimization
+  body: 'Group Relative Policy Optimization (GRPO) is a reinforcement learning algorithm
+    for LLM alignment that eliminates the value network required by PPO by computing
+    advantages through group-relative normalisation: for each prompt, a group of completions
+    is sampled from the current policy, their rewards are computed, and the advantage
+    of each completion is its reward minus the group mean divided by the group standard
+    deviation. This normalised advantage replaces the baseline estimate from a value
+    function, reducing memory cost and simplifying the training infrastructure. GRPO
+    was introduced as the RL algorithm behind DeepSeek-R1 and its reasoning chain
+    models.'
+- type: key-claim
+  title: Key claim about Group Relative Policy Optimization
+  body: GRPO's value-free approach enables training of long chain-of-thought reasoning
+    at scale that would be prohibitively expensive with standard PPO — by deriving
+    baselines from sampled completions rather than a learned value model, GRPO halves
+    the parameter count and GPU memory required for RL training, making it the practical
+    choice for training large reasoning models that require many long rollouts per
+    update.
+- type: warning
+  title: Common pitfall regarding Group Relative Policy Optimization
+  body: GRPO's advantage estimates are high-variance when the group size is small
+    or when the reward distribution within a group is nearly uniform — both situations
+    cause instability or no-learning failures, and the absence of a value model means
+    GRPO provides no signal about individual token-level credit assignment, making
+    it less suitable for tasks where early tokens strongly determine outcome.

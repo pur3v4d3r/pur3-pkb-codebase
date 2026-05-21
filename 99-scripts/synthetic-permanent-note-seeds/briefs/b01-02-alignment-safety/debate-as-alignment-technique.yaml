@@ -1,0 +1,54 @@
+concept: Debate as Alignment Technique
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- scalable-oversight
+- ai-alignment
+aliases:
+- AI debate
+- debate for oversight
+- adversarial debate alignment
+broader:
+- scalable-oversight
+- llm-alignment
+narrower:
+- ai-safety-via-debate
+related:
+- scalable-oversight
+- constitutional-ai
+- ai-safety-via-debate
+- reinforcement-learning-from-human-feedback
+prerequisites:
+- scalable-oversight
+- ai-alignment
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Debate as Alignment Technique
+  body: Debate as an alignment technique is a scalable oversight proposal in which
+    two AI agents argue for opposing positions on a question in front of a human judge,
+    who must determine which agent is more truthful or correct. The hypothesis is
+    that even a human judge who lacks the expertise to directly evaluate complex AI-generated
+    claims can distinguish between two debating agents by identifying which makes
+    more internally consistent, harder-to-refute, and less evasive arguments. Developed
+    by Irving et al. at OpenAI, debate is proposed as a mechanism for aligning superhuman
+    AI systems by decomposing the evaluation problem into a series of simpler judgements
+    accessible to humans.
+- type: key-claim
+  title: Key claim about Debate as Alignment Technique
+  body: Debate's theoretical alignment property rests on the assumption that it is
+    computationally harder for a dishonest debater to defend false claims against
+    a capable honest opponent than for an honest debater to defend true claims — if
+    this asymmetry holds, debate creates a stable equilibrium where honest argumentation
+    dominates dishonest argumentation in the long run, even without the judge understanding
+    the underlying technical content.
+- type: warning
+  title: Common pitfall regarding Debate as Alignment Technique
+  body: Debate's theoretical guarantees depend critically on the assumption that the
+    honest agent has sufficient capability and will to expose the dishonest agent's
+    flaws — if both agents are capable of constructing plausible-sounding arguments
+    for any position, or if the honest agent is systematically weaker than the dishonest
+    one, the debate equilibrium breaks down; empirically, debate is not yet proven
+    to scale to the level of argument complexity where the theoretical advantages
+    would matter most.

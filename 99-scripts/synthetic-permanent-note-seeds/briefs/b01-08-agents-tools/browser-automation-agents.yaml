@@ -1,0 +1,53 @@
+concept: Browser Automation Agents
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- web-automation
+- software-testing
+aliases:
+- web automation agents
+- browser-based agents
+- web-navigating agents
+- Playwright agents
+broader:
+- computer-use-agents
+- llm-agents
+related:
+- computer-use-agents
+- web-search-augmented-llms
+- api-calling-agents
+- indirect-prompt-injection
+prerequisites:
+- llm-agents
+- browser-automation
+- web-technologies
+confidence: high
+callouts:
+- type: definition
+  title: Browser Automation Agents
+  body: Browser automation agents are LLM-based systems that control web browsers
+    programmatically — via Playwright, Selenium, Puppeteer, or native browser APIs
+    — to navigate websites, extract information, fill forms, and perform web-based
+    workflows. Unlike general computer use agents that operate on raw screenshots,
+    browser automation agents typically have access to the structured DOM (Document
+    Object Model), enabling more precise element selection, more reliable interaction,
+    and better error recovery than pixel-based screen agents. Use cases include web
+    scraping, form submission, e-commerce automation, research assistance, and automated
+    testing.
+- type: key-claim
+  title: Key claim about Browser Automation Agents
+  body: Browser automation agents with DOM access are substantially more reliable
+    than pixel-based computer use agents for web tasks because they can identify interactive
+    elements by semantic attributes (aria-label, data-testid, element type) rather
+    than by visual position — a button that moves or changes appearance remains findable
+    by its semantic identifier, while a pixel-based agent would lose track of it;
+    the practical implication is that DOM-aware browser agents should be preferred
+    over general computer use agents for any task that is primarily web-based.
+- type: warning
+  title: Common pitfall regarding Browser Automation Agents
+  body: Browser automation agents that interact with web content are directly exposed
+    to indirect prompt injection attacks — malicious websites can embed hidden text,
+    invisible elements, or HTML comments containing adversarial instructions designed
+    to hijack the agent's behaviour; an agent browsing an attacker-controlled page
+    may be instructed to exfiltrate session cookies, submit forms with attacker-specified
+    values, or navigate to malicious destinations without the user's knowledge.

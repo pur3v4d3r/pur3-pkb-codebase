@@ -1,0 +1,52 @@
+concept: Arena Elo Ranking
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- crowdsourced-evaluation
+- competitive-ranking
+aliases:
+- Chatbot Arena
+- Elo ranking for LLMs
+- LMSYS Arena
+- crowdsourced LLM ranking
+broader:
+- human-preference-evaluation
+- llm-evaluation
+related:
+- human-preference-evaluation
+- model-graded-evaluation
+- mt-bench-evaluation
+- evals-as-a-product
+prerequisites:
+- elo-rating-system
+- llm-evaluation
+- human-preference-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Arena Elo Ranking
+  body: Arena Elo ranking is a crowdsourced evaluation methodology for ranking large
+    language models using the Elo rating system, implemented in the LMSYS Chatbot
+    Arena platform. Users interact with two anonymous models simultaneously on their
+    own queries and vote for the better response; Elo scores are computed from accumulated
+    pairwise preference votes, updating both models' ratings after each comparison
+    using the Elo update formula. With millions of human preference votes across thousands
+    of model pairs, the Arena produces Elo rankings that are among the most ecologically
+    valid comparative assessments of LLM quality, since they reflect real user preferences
+    on user-generated queries rather than designed benchmarks.
+- type: key-claim
+  title: Key claim about Arena Elo Ranking
+  body: Arena Elo is the most ecologically valid large-scale comparative evaluation
+    of LLMs available because it captures real user preferences on real user queries
+    rather than task-designed benchmark questions — the Elo ranking reflects the aggregate
+    of millions of genuine utility judgements rather than performance on a fixed test
+    set, making it a better predictor of deployment success than most automated benchmarks.
+- type: warning
+  title: Common pitfall regarding Arena Elo Ranking
+  body: Arena Elo rankings are systematically biased toward models that are good at
+    making favourable impressions on short interactions — models optimised for first-impression
+    quality (confident tone, immediate helpfulness, engaging style) rank higher than
+    models optimised for correctness on complex tasks, because the Arena's anonymous
+    voting format encourages quick judgements rather than careful accuracy assessment;
+    this bias means Elo is a poor ranking method for specialised or expert-use-case
+    model selection.

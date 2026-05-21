@@ -1,0 +1,52 @@
+concept: Phase Transitions in LLMs
+domain: llm-theory
+secondary_domains:
+- llm-theory
+- statistical-physics
+- empirical-ml
+aliases:
+- phase transitions
+- capability discontinuities
+- sharp learning transitions
+- LLM phase changes
+broader:
+- llm-theory
+- scaling-laws
+related:
+- large-language-model-scaling-laws
+- emergent-abilities-in-llms
+- grokking-phenomenon
+- double-descent-in-neural-networks
+prerequisites:
+- large-language-models
+- scaling-laws
+- statistical-physics-analogies
+confidence: high
+callouts:
+- type: definition
+  title: Phase Transitions in LLMs
+  body: 'Phase transitions in LLMs refer to sharp, nonlinear capability changes that
+    occur at specific scale thresholds — analogous to physical phase transitions (ice
+    melting, magnetisation onset) — where small additional increases in model scale,
+    training data, or compute produce qualitative rather than quantitative changes
+    in model behaviour. Observed phase transitions include: sudden acquisition of
+    in-context learning capability, sharp onset of chain-of-thought reasoning ability,
+    and emergence of calibrated uncertainty estimates. The physical analogy is apt:
+    just as water at 99°C and 101°C behave qualitatively differently despite a small
+    temperature difference, language models at slightly different scales can exhibit
+    qualitatively different capabilities.'
+- type: key-claim
+  title: Key claim about Phase Transitions in LLMs
+  body: Phase transitions in LLMs represent a fundamental challenge to smooth extrapolation-based
+    capability forecasting — if capability acquisition is discontinuous, then projections
+    from lower-scale performance measurements will systematically underestimate capabilities
+    at higher scale, and safety evaluations performed at intermediate scales may not
+    capture the full capability profile of production-scale models.
+- type: warning
+  title: Common pitfall regarding Phase Transitions in LLMs
+  body: The physical phase transition analogy, while instructive, may be misleading
+    if taken too literally — unlike physical systems where phase transitions are thermodynamic
+    properties of the material, LLM phase transitions depend on evaluation methodology,
+    training procedure, architecture, and data distribution; small changes in these
+    variables can shift the apparent threshold, making phase transitions less predictable
+    and more context-dependent than the analogy suggests.

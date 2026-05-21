@@ -1,0 +1,55 @@
+concept: Defense via Input Sanitisation
+domain: llm-security
+secondary_domains:
+- llm-security
+- web-security
+- software-engineering
+aliases:
+- input sanitization defense
+- prompt injection prevention
+- input validation for LLMs
+- context isolation
+broader:
+- llm-security
+- llm-firewall-patterns
+related:
+- direct-prompt-injection
+- indirect-prompt-injection
+- llm-firewall-patterns
+- goal-hijacking
+- web-search-augmented-llms
+prerequisites:
+- llm-security
+- input-validation
+- software-security
+confidence: high
+callouts:
+- type: definition
+  title: Defense via Input Sanitisation
+  body: 'Defense via input sanitisation for LLMs refers to the collection of techniques
+    for detecting and neutralising adversarial instructions in user inputs and retrieved
+    content before they reach the model''s context. Approaches include: content-based
+    filtering (detecting known injection patterns like "ignore previous instructions"),
+    structured delimiters (wrapping untrusted input in XML tags or special tokens
+    that signal its untrusted status to the model), input-output monitoring (running
+    inputs and outputs through a separate safety classifier), context isolation (processing
+    untrusted content in a separate, restricted model call rather than in the main
+    reasoning context), and source-level trust hierarchies (applying different levels
+    of scrutiny to system prompt content vs. retrieved content vs. user input).'
+- type: key-claim
+  title: Key claim about Defense via Input Sanitisation
+  body: Input sanitisation is a necessary but insufficient defense against prompt
+    injection — content-based filters are bypassable via paraphrase, encoding, and
+    language variation; delimiter-based approaches rely on the model respecting the
+    delimiter semantics, which is a soft constraint; and context isolation adds latency
+    and complexity without eliminating all injection paths; defense in depth (combining
+    multiple techniques with human-in-the-loop checkpoints) is the only practical
+    strategy for high-stakes deployments.
+- type: warning
+  title: Common pitfall regarding Defense via Input Sanitisation
+  body: Input sanitisation applied to retrieved content must balance security against
+    utility — overly aggressive sanitisation strips content that the model legitimately
+    needs to process (e.g., code comments, quoted instructions, configuration files
+    containing instruction-like text), degrading task performance; the sanitisation
+    approach must be calibrated to the specific content types and attack vectors of
+    the deployment environment, not applied generically.

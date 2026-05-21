@@ -1,0 +1,83 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-11-system-design",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-11-system-design.md",
+    "notes": "Practical LLM system design concepts. Note: prompt-versioning, latency-quality-tradeoff,\nand prompt-caching-strategies already exist in v6-llm-elaborated — pipeline will auto-skip\nvia --mode skip. Remaining 7 concepts are new."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-11-system-design",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-11-system-design"
+  },
+  "counts": {
+    "parsed": 9,
+    "accepted": 7,
+    "skipped": 2,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Prompt Registry Patterns",
+      "kebab": "prompt-registry-patterns",
+      "brief_path": "briefs/b01-11-system-design/prompt-registry-patterns.yaml",
+      "expected_seed_filename": "prompt-registry-patterns-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "A/B Testing Prompts",
+      "kebab": "ab-testing-prompts",
+      "brief_path": "briefs/b01-11-system-design/ab-testing-prompts.yaml",
+      "expected_seed_filename": "ab-testing-prompts-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Batch Inference Optimisation",
+      "kebab": "batch-inference-optimisation",
+      "brief_path": "briefs/b01-11-system-design/batch-inference-optimisation.yaml",
+      "expected_seed_filename": "batch-inference-optimisation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Cost-Per-Token Budgeting",
+      "kebab": "cost-per-token-budgeting",
+      "brief_path": "briefs/b01-11-system-design/cost-per-token-budgeting.yaml",
+      "expected_seed_filename": "cost-per-token-budgeting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Model Routing Strategies",
+      "kebab": "model-routing-strategies",
+      "brief_path": "briefs/b01-11-system-design/model-routing-strategies.yaml",
+      "expected_seed_filename": "model-routing-strategies-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Fallback Prompt Chains",
+      "kebab": "fallback-prompt-chains",
+      "brief_path": "briefs/b01-11-system-design/fallback-prompt-chains.yaml",
+      "expected_seed_filename": "fallback-prompt-chains-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Prompt Observability",
+      "kebab": "prompt-observability",
+      "brief_path": "briefs/b01-11-system-design/prompt-observability.yaml",
+      "expected_seed_filename": "prompt-observability-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Prompt Versioning",
+      "kebab": "prompt-versioning",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/prompt-versioning.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at prompt-versioning.md"
+    },
+    {
+      "term": "Latency-Quality Tradeoff",
+      "kebab": "latency-quality-tradeoff",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/latency-quality-tradeoff.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at latency-quality-tradeoff.md"
+    }
+  ],
+  "warnings": []
+}

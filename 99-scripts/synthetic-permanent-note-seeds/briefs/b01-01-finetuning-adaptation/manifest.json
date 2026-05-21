@@ -1,0 +1,87 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-01-finetuning-adaptation",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-01-finetuning-adaptation.md",
+    "notes": "Fine-tuning and adaptation concepts for LLMs covering instruction tuning,\nRLHF-family methods (PPO, DPO, KTO, GRPO, rejection sampling), PEFT methods,\nand the key challenge of catastrophic forgetting. Complements pe-08."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-01-finetuning-adaptation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-01-finetuning-adaptation"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 9,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Instruction Tuning",
+      "kebab": "instruction-tuning",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/instruction-tuning.yaml",
+      "expected_seed_filename": "instruction-tuning-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Supervised Fine-Tuning",
+      "kebab": "supervised-fine-tuning",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/supervised-fine-tuning.yaml",
+      "expected_seed_filename": "supervised-fine-tuning-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "RLHF Reinforcement Learning from Human Feedback",
+      "kebab": "rlhf-reinforcement-learning-from-human-feedback",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/rlhf-reinforcement-learning-from-human-feedback.yaml",
+      "expected_seed_filename": "rlhf-reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Reward Model Training",
+      "kebab": "reward-model-training",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/reward-model-training.yaml",
+      "expected_seed_filename": "reward-model-training-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Proximal Policy Optimization for LLMs",
+      "kebab": "proximal-policy-optimization-for-llms",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/proximal-policy-optimization-for-llms.yaml",
+      "expected_seed_filename": "proximal-policy-optimization-for-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Kahneman-Tversky Optimization",
+      "kebab": "kahneman-tversky-optimization",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/kahneman-tversky-optimization.yaml",
+      "expected_seed_filename": "kahneman-tversky-optimization-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Group Relative Policy Optimization",
+      "kebab": "group-relative-policy-optimization",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/group-relative-policy-optimization.yaml",
+      "expected_seed_filename": "group-relative-policy-optimization-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Rejection Sampling Fine-Tuning",
+      "kebab": "rejection-sampling-fine-tuning",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/rejection-sampling-fine-tuning.yaml",
+      "expected_seed_filename": "rejection-sampling-fine-tuning-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Full Fine-Tuning vs PEFT",
+      "kebab": "full-fine-tuning-vs-peft",
+      "brief_path": "briefs/b01-01-finetuning-adaptation/full-fine-tuning-vs-peft.yaml",
+      "expected_seed_filename": "full-fine-tuning-vs-peft-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Direct Preference Optimization",
+      "kebab": "direct-preference-optimization",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/direct-preference-optimization.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at direct-preference-optimization.md"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,57 @@
+concept: RLHF Reinforcement Learning from Human Feedback
+domain: llm-fine-tuning
+secondary_domains:
+- ai-alignment
+- reinforcement-learning
+- llm-training
+aliases:
+- RLHF
+- RL from human feedback
+- human-feedback reinforcement learning
+broader:
+- reinforcement-learning
+- preference-learning
+- llm-alignment
+narrower:
+- proximal-policy-optimization-for-llms
+- reward-model-training
+related:
+- direct-preference-optimization
+- constitutional-ai
+- reward-hacking-in-rlhf
+- supervised-fine-tuning
+- scalable-oversight
+prerequisites:
+- reinforcement-learning
+- reward-modeling
+- supervised-fine-tuning
+- proximal-policy-optimization
+confidence: high
+callouts:
+- type: definition
+  title: RLHF Reinforcement Learning from Human Feedback
+  body: 'Reinforcement Learning from Human Feedback (RLHF) is a training paradigm
+    for aligning large language models with human preferences by using a reward model
+    trained on human preference data to provide a scalar signal that drives policy
+    optimisation via reinforcement learning. The standard pipeline has three stages:
+    (1) supervised fine-tuning on high-quality demonstrations, (2) training a reward
+    model on pairwise human preference comparisons, and (3) optimising the LLM policy
+    against the reward model using an algorithm such as PPO while constraining how
+    far the policy may drift from the SFT initialisation via a KL-divergence penalty.
+    RLHF was central to the development of InstructGPT and the ChatGPT family of models.'
+- type: key-claim
+  title: Key claim about RLHF Reinforcement Learning from Human Feedback
+  body: RLHF dramatically improves perceived response quality on subjective tasks
+    — helpfulness, harmlessness, and honesty — in ways that SFT alone cannot achieve,
+    because preference supervision captures nuanced human judgements (e.g., tone,
+    reasoning transparency, hedging accuracy) that are too complex to specify as a
+    labelling scheme but are naturally expressed in comparative preferences between
+    two outputs.
+- type: warning
+  title: Common pitfall regarding RLHF Reinforcement Learning from Human Feedback
+  body: 'RLHF''s primary failure mode is reward hacking: the policy discovers ways
+    to maximise the reward model''s score without actually improving the underlying
+    quality the reward model was intended to capture, often by exploiting distributional
+    gaps in the preference data; the KL penalty slows but does not prevent reward
+    hacking, and longer training almost always degrades quality on dimensions the
+    reward model does not cover.'

@@ -1,0 +1,53 @@
+concept: Evals as a Product
+domain: llm-evaluation
+secondary_domains:
+- mlops
+- ai-safety
+- software-engineering
+aliases:
+- eval framework design
+- evaluation infrastructure
+- eval pipelines as product
+broader:
+- llm-evaluation
+- mlops
+related:
+- model-graded-evaluation
+- human-preference-evaluation
+- llm-evaluation-benchmarks
+- ab-testing-prompts
+- prompt-observability
+prerequisites:
+- llm-evaluation
+- software-engineering
+- mlops
+confidence: high
+callouts:
+- type: definition
+  title: Evals as a Product
+  body: '"Evals as a product" is an AI development philosophy and organisational practice
+    in which evaluation infrastructure is treated as a first-class software product
+    — with dedicated engineering resources, version control, reproducibility guarantees,
+    and continuous improvement — rather than as an ad-hoc annotation exercise performed
+    once before deployment. Popularised by OpenAI''s evals repository and Anthropic''s
+    model card evaluation methodology, the approach advocates for building eval suites
+    that are maintained in parallel with model development, that cover a comprehensive
+    set of capability and safety dimensions, and that provide fast, automated feedback
+    loops during training and deployment.'
+- type: key-claim
+  title: Key claim about Evals as a Product
+  body: The quality of an AI system's evaluation infrastructure is a leading indicator
+    of its safety and capability ceiling — teams that treat evals as a product systematically
+    catch regressions earlier, measure safety improvements more precisely, and make
+    better-informed model selection decisions than teams that rely on informal or
+    ad-hoc evaluation; the practical implication is that investment in eval infrastructure
+    yields returns throughout the model development lifecycle, not just at deployment
+    time.
+- type: warning
+  title: Common pitfall regarding Evals as a Product
+  body: Treating evals as a product creates an optimisation pressure against the evals
+    themselves — when evaluation results are used to make product and deployment decisions,
+    there is a systematic incentive to make evals easier to pass, to exclude problematic
+    test cases, and to over-index on dimensions that the current model handles well;
+    independent eval teams, external red-teaming, and public benchmark validation
+    are necessary checks on internal eval system capture.

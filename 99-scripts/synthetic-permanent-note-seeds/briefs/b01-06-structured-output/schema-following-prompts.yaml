@@ -1,0 +1,51 @@
+concept: Schema-Following Prompts
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- api-design
+- structured-data
+aliases:
+- schema-guided prompting
+- schema-adherent generation
+- type-safe prompting
+broader:
+- structured-output-enforcement
+- prompt-engineering
+related:
+- json-mode-prompting
+- grammar-constrained-decoding
+- structured-output-enforcement
+- xml-structured-prompting
+- output-length-control
+prerequisites:
+- prompt-engineering
+- json-schema
+- api-design
+confidence: high
+callouts:
+- type: definition
+  title: Schema-Following Prompts
+  body: 'Schema-following prompts are prompt structures that explicitly convey the
+    desired output schema to the model, typically by providing a JSON Schema, Pydantic
+    model definition, TypeScript interface, or annotated example output alongside
+    the task instruction. The schema specification communicates required fields, data
+    types, optional fields, nesting structure, and format constraints, allowing the
+    model to understand exactly what structure the output should conform to. Effective
+    schema-following prompts typically include: the schema definition, a concrete
+    filled example, instructions for handling missing values, and explicit error handling
+    guidance.'
+- type: key-claim
+  title: Key claim about Schema-Following Prompts
+  body: Schema-following prompts that include concrete examples of filled schemas
+    are substantially more reliable than schema-following prompts that only include
+    the schema definition — models have limited ability to consistently infer the
+    expected output format from an abstract schema, but a single filled example provides
+    a template that dramatically reduces format errors even without constrained decoding.
+- type: warning
+  title: Common pitfall regarding Schema-Following Prompts
+  body: Schema-following prompts create an implicit assumption that the model will
+    always have sufficient information to fill the schema — when required fields cannot
+    be populated from the available context, the model tends to hallucinate values
+    rather than return null or raise an explicit error; schema prompts should explicitly
+    instruct the model to use a designated null sentinel value and explain what to
+    do when information is unavailable.

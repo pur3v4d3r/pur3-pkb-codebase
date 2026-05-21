@@ -1,0 +1,59 @@
+concept: Model-Graded Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- ai-judges
+- automated-assessment
+aliases:
+- LLM-as-judge
+- LLM judge evaluation
+- automated LLM evaluation
+- AI judge
+broader:
+- llm-evaluation
+narrower:
+- g-eval-framework
+- mt-bench-evaluation
+- arena-elo-ranking
+related:
+- human-preference-evaluation
+- g-eval-framework
+- mt-bench-evaluation
+- self-evaluation-bias
+- evals-as-a-product
+prerequisites:
+- llm-evaluation
+- large-language-models
+- evaluation-methodology
+confidence: high
+callouts:
+- type: definition
+  title: Model-Graded Evaluation
+  body: Model-graded evaluation (also called LLM-as-judge) is the practice of using
+    a language model to automatically evaluate the quality of other language models'
+    outputs, typically by providing the evaluating model with a rubric, a query, one
+    or more candidate responses, and instructions to score or rank the responses.
+    Pioneered as a scalable alternative to human evaluation, model-graded evaluation
+    leverages frontier LLMs' broad knowledge and instruction-following capability
+    to approximate human expert judgment at much lower cost and higher throughput.
+    Evaluation formats include pairwise comparison (which of A or B is better?), absolute
+    scoring (rate this response 1–10), and rubric-based assessment (score on specific
+    criteria).
+- type: key-claim
+  title: Key claim about Model-Graded Evaluation
+  body: Model-graded evaluation is now sufficiently reliable to substitute for human
+    evaluation in many development contexts — frontier model judges achieve agreement
+    with human preference labels at rates comparable to inter-human agreement on many
+    tasks, making LLM-as-judge viable for rapid, scalable evaluation during development;
+    however, the judge model's biases directly transfer to the evaluation results,
+    making judge model selection and bias characterisation as important as evaluation
+    design.
+- type: warning
+  title: Common pitfall regarding Model-Graded Evaluation
+  body: 'Model-graded evaluation has systematic biases that are well-documented but
+    difficult to fully mitigate: positional bias (preferring the first response in
+    a pairwise comparison), verbosity bias (preferring longer responses regardless
+    of quality), self-preference bias (models favouring outputs similar to their own
+    generation style), and sycophancy bias (favouring responses that agree with the
+    judge model''s views); these biases can produce systematically misleading comparisons,
+    particularly for model families the judge was not trained to evaluate fairly.'

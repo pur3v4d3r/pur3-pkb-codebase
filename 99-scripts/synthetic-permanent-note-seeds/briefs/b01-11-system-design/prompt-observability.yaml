@@ -1,0 +1,56 @@
+concept: Prompt Observability
+domain: llm-systems
+secondary_domains:
+- mlops
+- monitoring
+- system-design
+aliases:
+- LLM observability
+- prompt tracing
+- LLM monitoring
+- inference observability
+- AI observability
+broader:
+- llm-systems
+- mlops
+- observability
+related:
+- prompt-versioning
+- prompt-registry-patterns
+- ab-testing-prompts
+- evals-as-a-product
+- cost-per-token-budgeting
+prerequisites:
+- mlops
+- observability-engineering
+- llm-systems
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Observability
+  body: Prompt observability is the practice of instrumenting LLM-powered applications
+    to provide full visibility into the inputs (prompts), outputs (completions), intermediate
+    steps (tool calls, chain steps, retrieved context), associated metadata (model
+    version, token counts, latency, cost), and quality metrics of every LLM invocation
+    in production — enabling debugging, quality monitoring, cost tracking, and performance
+    analysis of LLM systems at the same level of granularity available for traditional
+    software systems. Prompt observability platforms (LangSmith, Helicone, Brainlid,
+    Weights & Biases Prompts) capture request-response pairs, trace multi-step chains,
+    and aggregate metrics across request populations.
+- type: key-claim
+  title: Key claim about Prompt Observability
+  body: Prompt observability is the prerequisite for data-driven prompt engineering
+    in production — without a complete record of what prompts are being sent, what
+    responses are being received, and what quality metrics they achieve on live traffic,
+    prompt optimisation is based on offline evaluation that may not reflect production
+    behaviour; observability data reveals the real distribution of inputs and failure
+    modes that offline evaluation misses, enabling targeted improvements with measured
+    impact.
+- type: warning
+  title: Common pitfall regarding Prompt Observability
+  body: Prompt observability platforms capture the full content of prompts and completions,
+    which frequently contain sensitive user information — storing complete prompt-response
+    logs creates a data retention and privacy liability that must be governed by an
+    explicit data policy (PII scrubbing, retention limits, access controls, deletion
+    procedures); systems that store prompt logs without a data governance policy create
+    regulatory and ethical exposure that grows with the volume of logged interactions.

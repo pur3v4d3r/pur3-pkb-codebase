@@ -1,0 +1,56 @@
+concept: Task Planning with LLMs
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- ai-planning
+- automation
+aliases:
+- LLM task planning
+- LLM-based planning
+- AI task decomposition
+- hierarchical task planning with LLMs
+broader:
+- llm-agents
+- ai-planning
+narrower:
+- plan-and-solve-prompting
+related:
+- plan-and-solve-prompting
+- tool-augmented-language-models
+- action-space-design-for-agents
+- agent-memory-architecture
+- api-calling-agents
+prerequisites:
+- llm-agents
+- ai-planning
+- task-decomposition
+confidence: high
+callouts:
+- type: definition
+  title: Task Planning with LLMs
+  body: Task planning with LLMs refers to using large language models to generate,
+    refine, and execute multi-step plans for completing complex goals — typically
+    by decomposing a high-level goal into an ordered sequence of subtasks, mapping
+    each subtask to available tools or actions, and executing the plan while monitoring
+    progress and adapting to failures. LLM task planners range from simple one-shot
+    plan generation (generate the full plan upfront and execute linearly) to dynamic
+    replanning systems (update the plan after each execution step based on tool outputs
+    and intermediate results). Key challenges include grounding abstract plans in
+    available tool capabilities, handling planning horizon length, and recovering
+    from unexpected tool failures mid-plan.
+- type: key-claim
+  title: Key claim about Task Planning with LLMs
+  body: LLM task planners are most reliable in domains where the model has strong
+    priors about typical task structures from training data — planning software engineering
+    tasks (where the model has seen thousands of similar workflows) is more reliable
+    than planning novel physical or domain-specific workflows; this means LLM task
+    planning capability is uneven across domains and should be validated in the specific
+    domain before deployment.
+- type: warning
+  title: Common pitfall regarding Task Planning with LLMs
+  body: LLM task planners that commit to a full plan upfront are brittle in dynamic
+    environments — early-step failures, unexpected tool outputs, or revised goal specifications
+    invalidate downstream steps that were planned assuming earlier steps would succeed;
+    planning architectures that support incremental replanning (updating the plan
+    after each execution step) are more robust but require careful design to prevent
+    infinite replanning loops.

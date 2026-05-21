@@ -1,0 +1,53 @@
+concept: Instruction Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- llm-training
+- prompt-engineering
+- ai-alignment
+aliases:
+- instruction fine-tuning
+- supervised instruction tuning
+- IFT
+broader:
+- fine-tuning
+- supervised-learning
+narrower:
+- task-specific-fine-tuning
+- chat-fine-tuning
+related:
+- reinforcement-learning-from-human-feedback
+- direct-preference-optimization
+- parameter-efficient-fine-tuning
+- system-prompt-design
+prerequisites:
+- large-language-models
+- supervised-fine-tuning
+- transformer-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Instruction Tuning
+  body: 'Instruction tuning is a supervised fine-tuning procedure in which a pretrained
+    language model is trained on a curated dataset of (instruction, input, output)
+    triples, transforming a next-token predictor into an assistant that follows natural-language
+    directives. Pioneered by FLAN, InstructGPT, and Alpaca, the method exploits the
+    model''s broad world knowledge acquired during pretraining and teaches it to align
+    its outputs to human intent. A well-designed instruction dataset — diverse in
+    task type, format, and difficulty — enables cross-task generalisation: the model
+    learns to follow novel instructions not seen during training, rather than simply
+    memorising responses to specific prompts.'
+- type: key-claim
+  title: Key claim about Instruction Tuning
+  body: Instruction tuning is the single post-pretraining step that most dramatically
+    increases a model's practical usability — base models trained purely on next-token
+    prediction are brittle at following user intent, while instruction-tuned models
+    of even modest scale reliably act as useful assistants, confirming that instruction-following
+    capability already exists in the base representations and needs only the right
+    supervisory signal to surface.
+- type: warning
+  title: Common pitfall regarding Instruction Tuning
+  body: Dataset quality and diversity dominate dataset size — a small, carefully curated
+    instruction set frequently outperforms a large noisy one, and fine-tuning on a
+    narrow task distribution can regress open-ended generation; formatting artefacts
+    (e.g., rigid response templates) learned during instruction tuning can make the
+    model overly rigid when prompts deviate from the training distribution.

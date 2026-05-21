@@ -1,0 +1,54 @@
+concept: Code Interpreter Use
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- code-generation
+- data-analysis
+aliases:
+- code execution tool
+- Python interpreter integration
+- code sandbox integration
+- REPL tool
+broader:
+- tool-augmented-language-models
+- llm-agents
+related:
+- tool-augmented-language-models
+- web-search-augmented-llms
+- api-calling-agents
+- plan-and-solve-prompting
+prerequisites:
+- tool-augmented-language-models
+- code-generation
+- sandbox-environments
+confidence: high
+callouts:
+- type: definition
+  title: Code Interpreter Use
+  body: Code interpreter use refers to the integration of a sandboxed code execution
+    environment (typically Python) as a tool available to a language model, enabling
+    the model to write code, execute it, observe the output, debug errors, and iterate
+    — solving tasks that require computation, data manipulation, file processing,
+    or visualisation. Popularised by ChatGPT's Code Interpreter/Advanced Data Analysis
+    feature and integrated into major LLM APIs via tool/function calling, code interpreter
+    use is the primary mechanism by which LLMs can perform exact mathematical computation,
+    data analysis, chart generation, file format conversion, and algorithm implementation.
+    The execution environment is sandboxed to prevent harmful system-level operations.
+- type: key-claim
+  title: Key claim about Code Interpreter Use
+  body: Code interpreter use eliminates the most critical class of LLM reasoning failures
+    — exact arithmetic and precise computation — by providing a mechanism for the
+    model to delegate calculation to a correct computational engine rather than attempting
+    to perform it in the language model generation process, which is fundamentally
+    unreliable for multi-step arithmetic; the practical result is that code-interpreter-using
+    LLMs achieve near-perfect performance on tasks that pure language model generation
+    fails on at high rates.
+- type: warning
+  title: Common pitfall regarding Code Interpreter Use
+  body: 'Code interpreter use introduces security and reliability concerns that sandbox
+    design must address: code execution can consume unbounded compute (infinite loops),
+    attempt file system access, attempt network access, import dangerous libraries,
+    and intentionally or unintentionally exfiltrate data; sandboxes must enforce CPU
+    and memory limits, filesystem isolation, network restrictions, and import allowlisting,
+    and even well-designed sandboxes can be bypassed via carefully crafted exploit
+    code.'

@@ -1,0 +1,77 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-06-structured-output",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-06-structured-output.md",
+    "notes": "Structured output concepts covering JSON mode, schema-following, grammar-constrained\ndecoding, markdown/XML output formatting, regex constraints, and output length control."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-06-structured-output",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-06-structured-output"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 6,
+    "skipped": 2,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Structured Output Enforcement",
+      "kebab": "structured-output-enforcement",
+      "brief_path": "briefs/b01-06-structured-output/structured-output-enforcement.yaml",
+      "expected_seed_filename": "structured-output-enforcement-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Schema-Following Prompts",
+      "kebab": "schema-following-prompts",
+      "brief_path": "briefs/b01-06-structured-output/schema-following-prompts.yaml",
+      "expected_seed_filename": "schema-following-prompts-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Markdown Output Prompting",
+      "kebab": "markdown-output-prompting",
+      "brief_path": "briefs/b01-06-structured-output/markdown-output-prompting.yaml",
+      "expected_seed_filename": "markdown-output-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "XML Structured Prompting",
+      "kebab": "xml-structured-prompting",
+      "brief_path": "briefs/b01-06-structured-output/xml-structured-prompting.yaml",
+      "expected_seed_filename": "xml-structured-prompting-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Regex-Constrained Generation",
+      "kebab": "regex-constrained-generation",
+      "brief_path": "briefs/b01-06-structured-output/regex-constrained-generation.yaml",
+      "expected_seed_filename": "regex-constrained-generation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Output Length Control",
+      "kebab": "output-length-control",
+      "brief_path": "briefs/b01-06-structured-output/output-length-control.yaml",
+      "expected_seed_filename": "output-length-control-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "JSON Mode Prompting",
+      "kebab": "json-mode-prompting",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/json-mode-prompting.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at json-mode-prompting.md"
+    },
+    {
+      "term": "Grammar-Constrained Decoding",
+      "kebab": "grammar-constrained-decoding",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/grammar-constrained-decoding.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at grammar-constrained-decoding.md"
+    }
+  ],
+  "warnings": []
+}

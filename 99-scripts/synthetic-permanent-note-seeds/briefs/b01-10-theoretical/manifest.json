@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-10-theoretical",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-10-theoretical.md",
+    "notes": "Theoretical foundations of LLMs covering scaling laws, emergent abilities, grokking,\ndouble descent, phase transitions, mechanistic interpretability, superposition hypothesis,\ncircuit analysis, activation patching, and sparse autoencoders for interpretability."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-10-theoretical",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-10-theoretical"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "LLM Scaling Laws",
+      "kebab": "llm-scaling-laws",
+      "brief_path": "briefs/b01-10-theoretical/llm-scaling-laws.yaml",
+      "expected_seed_filename": "llm-scaling-laws-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Emergent Abilities in LLMs",
+      "kebab": "emergent-abilities-in-llms",
+      "brief_path": "briefs/b01-10-theoretical/emergent-abilities-in-llms.yaml",
+      "expected_seed_filename": "emergent-abilities-in-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Grokking Phenomenon",
+      "kebab": "grokking-phenomenon",
+      "brief_path": "briefs/b01-10-theoretical/grokking-phenomenon.yaml",
+      "expected_seed_filename": "grokking-phenomenon-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Double Descent in Neural Networks",
+      "kebab": "double-descent-in-neural-networks",
+      "brief_path": "briefs/b01-10-theoretical/double-descent-in-neural-networks.yaml",
+      "expected_seed_filename": "double-descent-in-neural-networks-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Phase Transitions in LLMs",
+      "kebab": "phase-transitions-in-llms",
+      "brief_path": "briefs/b01-10-theoretical/phase-transitions-in-llms.yaml",
+      "expected_seed_filename": "phase-transitions-in-llms-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Mechanistic Interpretability",
+      "kebab": "mechanistic-interpretability",
+      "brief_path": "briefs/b01-10-theoretical/mechanistic-interpretability.yaml",
+      "expected_seed_filename": "mechanistic-interpretability-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Superposition Hypothesis",
+      "kebab": "superposition-hypothesis",
+      "brief_path": "briefs/b01-10-theoretical/superposition-hypothesis.yaml",
+      "expected_seed_filename": "superposition-hypothesis-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Circuit Analysis in Transformers",
+      "kebab": "circuit-analysis-in-transformers",
+      "brief_path": "briefs/b01-10-theoretical/circuit-analysis-in-transformers.yaml",
+      "expected_seed_filename": "circuit-analysis-in-transformers-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Activation Patching",
+      "kebab": "activation-patching",
+      "brief_path": "briefs/b01-10-theoretical/activation-patching.yaml",
+      "expected_seed_filename": "activation-patching-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Sparse Autoencoders for Interpretability",
+      "kebab": "sparse-autoencoders-for-interpretability",
+      "brief_path": "briefs/b01-10-theoretical/sparse-autoencoders-for-interpretability.yaml",
+      "expected_seed_filename": "sparse-autoencoders-for-interpretability-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

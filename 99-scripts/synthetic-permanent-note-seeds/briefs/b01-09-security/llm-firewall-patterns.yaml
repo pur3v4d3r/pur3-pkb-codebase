@@ -1,0 +1,59 @@
+concept: LLM Firewall Patterns
+domain: llm-security
+secondary_domains:
+- llm-security
+- system-design
+- mlops
+aliases:
+- LLM guardrails
+- prompt firewall
+- input-output guardrails
+- AI safety rails
+- LLM safety proxy
+broader:
+- llm-security
+- ai-safety
+narrower:
+- defense-via-input-sanitization
+related:
+- defense-via-input-sanitization
+- llm-evaluation-benchmarks
+- instruction-hierarchy
+- red-teaming-llms
+- overrefusal-problem
+prerequisites:
+- llm-security
+- system-design
+- software-architecture
+confidence: high
+callouts:
+- type: definition
+  title: LLM Firewall Patterns
+  body: 'LLM firewall patterns are system architecture approaches that implement safety
+    and security controls around LLM invocations via a separate validation layer —
+    analogous to network firewalls — that inspects, filters, and potentially blocks
+    both inputs to and outputs from language models. Implementations include: input
+    classifiers (screening user inputs for injection patterns, topic violations, or
+    sensitive content before sending to the main model), output classifiers (evaluating
+    model responses for policy violations, harmful content, or unexpected patterns
+    before returning to the user), and proxy models (routing through a smaller, faster
+    safety model before or after the main LLM). Commercial implementations include
+    Guardrails AI, NeMo Guardrails (NVIDIA), Llama Guard, and Anthropic''s prompt-level
+    safety system.'
+- type: key-claim
+  title: Key claim about LLM Firewall Patterns
+  body: LLM firewall patterns are most effective when implemented as layered defenses
+    with independent failure modes — an input classifier that catches a different
+    category of violations than the model's built-in safety training, combined with
+    an output classifier that checks for violations that slipped through, provides
+    redundancy that is substantially harder to bypass than any single defense layer;
+    the independence of failure modes is more important than the sophistication of
+    any individual layer.
+- type: warning
+  title: Common pitfall regarding LLM Firewall Patterns
+  body: LLM firewalls increase the overrefusal problem — each additional filtering
+    layer adds false-positive rate, and multiple independent false-positive-generating
+    classifiers in sequence multiply the probability that a benign request is blocked;
+    production deployments must carefully tune the balance between false-negative
+    rate (missed violations) and false-positive rate (blocked legitimate requests),
+    recognising that optimising aggressively for security degrades utility.

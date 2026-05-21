@@ -1,0 +1,56 @@
+concept: Memory-Augmented LLMs
+domain: llm-context-management
+secondary_domains:
+- llm-architecture
+- ai-agents
+- knowledge-management
+aliases:
+- memory-augmented language models
+- external memory LLMs
+- long-term memory LLMs
+broader:
+- llm-context-management
+- ai-agents
+narrower:
+- retrieval-augmented-generation
+- episodic-memory-in-agents
+- working-memory-simulation-in-llms
+related:
+- retrieval-as-external-memory
+- episodic-memory-in-agents
+- semantic-memory-in-agents
+- working-memory-simulation-in-llms
+- retrieval-augmented-generation
+prerequisites:
+- large-language-models
+- retrieval-augmented-generation
+- vector-databases
+confidence: high
+callouts:
+- type: definition
+  title: Memory-Augmented LLMs
+  body: Memory-augmented LLMs are language model systems that extend the model's effective
+    information storage and retrieval beyond the finite context window by integrating
+    external memory mechanisms — typically vector stores, key-value databases, episodic
+    buffers, or compressed summary states — that the model can read from and write
+    to during inference. Memory augmentation architectures range from simple RAG (retrieve-then-generate)
+    to more sophisticated systems with explicit episodic memory for conversation history,
+    semantic memory for domain knowledge, and procedural memory for learned task strategies.
+    The goal is to enable LLMs to maintain coherent, personalised, and factually grounded
+    responses across sessions and documents that exceed any feasible context window.
+- type: key-claim
+  title: Key claim about Memory-Augmented LLMs
+  body: Memory augmentation addresses the fundamental statelessness of standard LLM
+    inference — base LLMs have no persistent state between API calls, making them
+    unsuitable for longitudinal tasks, personalised assistance, or multi-session projects
+    without explicit memory systems; effective memory architecture is therefore not
+    an optional enhancement but a prerequisite for LLM systems that must maintain
+    task context across interactions.
+- type: warning
+  title: Common pitfall regarding Memory-Augmented LLMs
+  body: Memory augmentation introduces retrieval errors that compound with generation
+    errors — a memory system that retrieves the wrong past fact will cause the model
+    to generate a contextually incoherent response that may appear confident and fluent,
+    creating a failure mode that is harder to detect than a simple knowledge gap;
+    memory system design must include retrieval accuracy monitoring and explicit handling
+    of low-confidence retrievals.

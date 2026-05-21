@@ -1,0 +1,52 @@
+concept: Self-Evaluation Bias
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- cognitive-biases-in-ai
+- model-graded-evaluation
+aliases:
+- self-preference bias
+- self-assessment bias
+- LLM self-evaluation bias
+- narcissistic evaluation
+broader:
+- model-graded-evaluation
+- llm-evaluation
+related:
+- model-graded-evaluation
+- g-eval-framework
+- sycophancy-mitigation
+- human-preference-evaluation
+prerequisites:
+- model-graded-evaluation
+- llm-evaluation
+- cognitive-biases
+confidence: high
+callouts:
+- type: definition
+  title: Self-Evaluation Bias
+  body: Self-evaluation bias in LLMs refers to the documented tendency of language
+    models to rate or prefer their own outputs (or outputs from models with similar
+    generation styles) more highly than outputs from different model families when
+    acting as evaluation judges. Empirically, models acting as judges assign higher
+    scores to responses that match their own characteristic style (sentence structure,
+    verbosity level, vocabulary), reasoning patterns (e.g., chain-of-thought style),
+    and response conventions (e.g., disclaimer style) — even when human raters do
+    not prefer those stylistic choices. Self-evaluation bias corrupts model-graded
+    evaluation when the judge model and the evaluated model share a generation distribution.
+- type: key-claim
+  title: Key claim about Self-Evaluation Bias
+  body: Self-evaluation bias makes within-family model evaluation unreliable — using
+    GPT-4 to evaluate GPT-4o versus Claude will systematically favour the GPT family
+    output regardless of objective quality, and similarly for any model acting as
+    judge when evaluating its own family versus competitors; using multiple diverse
+    judge models and reporting ensemble evaluations is necessary to reduce judge-model
+    bias in comparative assessments.
+- type: warning
+  title: Common pitfall regarding Self-Evaluation Bias
+  body: Self-evaluation bias is particularly pernicious because it is difficult to
+    detect from model-graded scores alone — inflated scores for similar models look
+    like genuine high quality to anyone interpreting the results without access to
+    the underlying judge preferences; independent human validation of a sample of
+    judge decisions is necessary to quantify the magnitude of self-evaluation bias
+    in any specific evaluation setup.

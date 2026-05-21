@@ -1,0 +1,57 @@
+concept: Vision-Language Model Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- computer-vision
+- multimodal-learning
+aliases:
+- VLM prompting
+- vision-language prompting
+- multimodal prompt design
+- GPT-4V prompting
+broader:
+- prompt-engineering
+- multimodal-ai
+narrower:
+- image-captioning-prompts
+- visual-chain-of-thought
+- document-understanding-prompting
+related:
+- image-captioning-prompts
+- visual-chain-of-thought
+- multimodal-few-shot-prompting
+- document-understanding-prompting
+- chart-and-table-prompting
+prerequisites:
+- prompt-engineering
+- vision-language-models
+- transformer-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Vision-Language Model Prompting
+  body: Vision-language model (VLM) prompting encompasses the prompt engineering techniques
+    specific to models that accept both image and text inputs, such as GPT-4V, Claude
+    3.x, LLaVA, and Gemini. Unlike text-only prompting, VLM prompting must account
+    for the relationship between visual and textual modalities — how to reference
+    image regions, how to structure questions about visual content, when to use chain-of-thought
+    for visual reasoning, how to handle multiple images, and how to integrate visual
+    context with textual instructions. The design space includes image placement within
+    the prompt, verbosity of textual grounding, reference styles (spatial, descriptive,
+    bounding-box), and the specificity of visual questions.
+- type: key-claim
+  title: Key claim about Vision-Language Model Prompting
+  body: The principles of effective text prompting transfer substantially to VLM prompting
+    but require visual-specific extensions — specificity, chain-of-thought, and role
+    assignment all improve VLM performance, but VLM prompts additionally benefit from
+    explicit visual grounding instructions that direct the model's attention to specific
+    image regions, and from structured output requests that prevent the model from
+    producing unverifiable visual descriptions.
+- type: warning
+  title: Common pitfall regarding Vision-Language Model Prompting
+  body: VLMs have inconsistent visual grounding capabilities — they may produce confident-sounding
+    descriptions of image details that are not actually present in the image, and
+    spatial reasoning (left/right, above/below) is particularly unreliable in many
+    current VLMs; prompts that require precise spatial reasoning or fine-grained visual
+    detail should include explicit uncertainty elicitation to surface the model's
+    uncertainty about visual claims.

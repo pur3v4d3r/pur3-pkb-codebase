@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Context Window Extension",
+    "slug": "context-window-extension",
+    "report_stem": "context-window-extension-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\context-window-extension.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Memory-Augmented LLMs",
+    "slug": "memory-augmented-llms",
+    "report_stem": "memory-augmented-llms-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\memory-augmented-llms.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Positional Bias in Context",
+    "slug": "positional-bias-in-context",
+    "report_stem": "positional-bias-in-context-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\positional-bias-in-context.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Recency Bias in LLMs",
+    "slug": "recency-bias-in-llms",
+    "report_stem": "recency-bias-in-llms-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\recency-bias-in-llms.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Retrieval as External Memory",
+    "slug": "retrieval-as-external-memory",
+    "report_stem": "retrieval-as-external-memory-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\retrieval-as-external-memory.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Semantic Memory in Agents",
+    "slug": "semantic-memory-in-agents",
+    "report_stem": "semantic-memory-in-agents-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\semantic-memory-in-agents.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Working Memory Simulation in LLMs",
+    "slug": "working-memory-simulation-in-llms",
+    "report_stem": "working-memory-simulation-in-llms-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\working-memory-simulation-in-llms.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

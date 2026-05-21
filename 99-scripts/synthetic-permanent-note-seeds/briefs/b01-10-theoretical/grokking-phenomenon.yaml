@@ -1,0 +1,52 @@
+concept: Grokking Phenomenon
+domain: llm-theory
+secondary_domains:
+- neural-network-theory
+- deep-learning
+- overfitting
+aliases:
+- delayed generalisation
+- grokking
+- slow generalisation after memorisation
+- phase transition in learning
+broader:
+- neural-network-learning-dynamics
+- llm-theory
+related:
+- double-descent-in-neural-networks
+- phase-transitions-in-llms
+- mechanistic-interpretability
+- circuit-analysis-in-transformers
+prerequisites:
+- neural-network-training
+- generalisation-theory
+- deep-learning
+confidence: high
+callouts:
+- type: definition
+  title: Grokking Phenomenon
+  body: Grokking is a neural network learning phenomenon where a model first memorises
+    training data (achieving near-zero training loss but poor generalisation) and
+    then, long after apparent convergence, suddenly transitions to true generalisation
+    (good test performance) without any change in training procedure. First documented
+    by Power et al. (2022) at OpenAI on small modular arithmetic tasks, grokking shows
+    that the traditional heuristic of stopping training when training loss plateaus
+    may be premature — models can achieve dramatically better generalisation with
+    additional training beyond apparent convergence. The phenomenon is most pronounced
+    in regularised models training on algorithmic tasks.
+- type: key-claim
+  title: Key claim about Grokking Phenomenon
+  body: Grokking challenges the conventional understanding of neural network training
+    dynamics by demonstrating that apparent convergence does not imply completion
+    — the network is undergoing a slow, internally reorganising process during the
+    apparent plateau phase where it transitions from a memorisation-based solution
+    to a generalisation-based solution, and stopping training at apparent convergence
+    misses this reorganisation; interpretability studies show that grokking corresponds
+    to the emergence of clean algorithmic circuits in the network.
+- type: warning
+  title: Common pitfall regarding Grokking Phenomenon
+  body: Grokking phenomena in real-world LLMs are not as clear-cut as in the controlled
+    toy settings where they were first documented — the training conditions (large
+    data, diverse tasks, complex architectures) of practical LLMs may obscure or suppress
+    the sharp grokking transition, and drawing direct operational implications from
+    toy grokking experiments for large model training requires careful empirical validation.

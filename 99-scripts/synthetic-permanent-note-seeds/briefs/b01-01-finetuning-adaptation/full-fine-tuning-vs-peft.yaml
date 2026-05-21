@@ -1,0 +1,52 @@
+concept: Full Fine-Tuning vs PEFT
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- llm-training
+- resource-efficient-ai
+aliases:
+- full fine-tuning versus PEFT
+- FFT vs PEFT
+- full-parameter vs parameter-efficient fine-tuning
+broader:
+- fine-tuning
+- transfer-learning
+related:
+- parameter-efficient-fine-tuning
+- lora-low-rank-adaptation
+- catastrophic-forgetting-in-llms
+- adapter-layers
+prerequisites:
+- fine-tuning
+- parameter-efficient-fine-tuning
+- large-language-models
+- gradient-descent
+confidence: high
+callouts:
+- type: definition
+  title: Full Fine-Tuning vs PEFT
+  body: Full fine-tuning (FFT) versus parameter-efficient fine-tuning (PEFT) is a
+    fundamental trade-off in LLM adaptation between updating all model parameters
+    during training and updating a small fraction of task-specific parameters while
+    freezing the pretrained backbone. Full fine-tuning updates every weight in the
+    model, maximising expressivity but requiring gradient storage for all parameters
+    and risking catastrophic forgetting of general capabilities. PEFT methods such
+    as LoRA, adapter layers, and prefix tuning update fewer than 1% of parameters,
+    dramatically reducing memory requirements and allowing multiple task-specific
+    adaptations to share a single backbone at inference time.
+- type: key-claim
+  title: Key claim about Full Fine-Tuning vs PEFT
+  body: For most practical adaptation scenarios — where the target task is reasonably
+    close to the pretraining distribution and the adaptation dataset is small to medium-sized
+    — PEFT matches full fine-tuning performance while using an order of magnitude
+    fewer compute resources, undermining the naive assumption that more trainable
+    parameters always produce better adapted models and pointing to the low intrinsic
+    dimensionality of task-specific adaptation.
+- type: warning
+  title: Common pitfall regarding Full Fine-Tuning vs PEFT
+  body: Full fine-tuning outperforms PEFT on large datasets with substantial domain
+    shift from pretraining, as PEFT's frozen backbone lacks the capacity to represent
+    novel distributional patterns; conversely, PEFT methods are more prone to overfitting
+    on small datasets because the adapter parameters are a compressed bottleneck,
+    and the performance of different PEFT methods varies substantially across model
+    architectures and task types.

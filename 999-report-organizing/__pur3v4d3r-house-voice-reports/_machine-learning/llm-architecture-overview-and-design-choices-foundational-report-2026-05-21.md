@@ -154,6 +154,460 @@ connection-strength:
   exploratory: ["State Space Models", "Flash Attention internals"]
 ---
 
+## 📊 Visual Aid Suite: LLM Architecture Overview and Design Choices
+
+**Report:** LLM Architecture Overview and Design Choices: A Foundational Report
+**Length:** ~32,000 words | **Audience:** Informed generalist
+**Thesis:** The transformer succeeds through organized, selective information reuse at scale: tokens embedded in semantic space, contextualized by self-attention across stacked blocks, trained by next-token prediction, and scaled to emergent capabilities.
+
+**Aids selected:**
+1. **Timeline** — Historical arc from N-grams to modern frontier (§1, §2, §7)
+2. **Process Flow** — Complete inference pipeline, raw text to generated token (§3–5, §8)
+3. **Process Flow** — Transformer block internal mechanics (§4)
+4. **Concept Map** — Self-attention Q/K/V hub-and-spoke (§4)
+5. **Comparison Matrix** — Three architectural families (§6)
+6. **Dimension Map** — Scale axes and Chinchilla insight (§7)
+7. **Comparison Matrix** — Modern efficiency innovations (§9)
+8. **Correspondence Table + Scorecard** — Architecture → behavior (§10)
+
+---
+
+### Visual Aid 1: Historical Evolution of Language Modeling
+
+**Purpose:** Traces the intellectual arc that led to the transformer, identifying the specific failure mode that each generation of models was built to overcome.
+
+```
+N-GRAMS   NEURAL LM  WORD2VEC  BAHDANAU  TRANSFORMER  BERT/GPT  CHINCHILLA
+ 1990s      2003       2013      2015       2017        2018-19    2022
+   │          │          │         │           │           │          │
+   ●──────────●──────────●─────────●───────────●───────────●──────────●
+   │          │          │         │           │           │          │
+ Statist.  Continu-  Standalone  RNN +      Attention   Encoder-  Scaling
+  word     ous word    word      Attention  Is All      only vs   laws +
+  count    vectors    vectors    mechanism  You Need    Decoder-  optimal
+  tables   (Bengio)  (Mikolov)  (Bahdanau) (Vaswani)   only era  training
+   │          │          │         │           │           │          │
+ FAILS:    ADVANCE:   ADVANCE:  ADVANCE:   BREAK-     SCALE:    EFFICIENCY
+  Long-    Semantic   Geometry  Dynamic    THROUGH:   Emergent  MoE / Flash
+  range    distribut  of       relevance  Removes    abilities  Attn / GQA
+  deps     semantics  meaning  weighting  recurrence  appear    / Mamba
+```
+
+**Reading guide:** Follow the ● nodes left-to-right; each marks a paradigm shift driven by the failure mode of its predecessor. The key transition is 2017 (Transformer): removing recurrence entirely allowed full training parallelism, unlimited long-range attention, and the scale growth that produced modern frontier models. The post-2022 era is defined by efficiency engineering rather than architectural reinvention.
+**Source:** §1 (Language as Prediction), §2 (Historical Arc), §7 (Scale and Emergence)
+
+---
+
+### Visual Aid 2: The Inference Pipeline — Text to Generated Token
+
+**Purpose:** Shows the complete forward-pass journey from raw input text through every computational stage to the final sampled token, making the autoregressive loop explicit.
+
+```
+ ┌──────────────────────────────────────────────────┐
+ │                  RAW INPUT TEXT                  │
+ │   "The transformer architecture uses..."         │
+ └──────────────────────┬───────────────────────────┘
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │        TOKENIZER  (BPE / SentencePiece)          │
+ │  Splits text into subword token IDs              │
+ │  Vocabulary size: 30,000 – 200,000 tokens        │
+ │  Tokens ≠ words ("transformer" may be 2+ tokens) │
+ └──────────────────────┬───────────────────────────┘
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │          EMBEDDING LOOKUP TABLE                  │
+ │  Token ID → dense vector (768 – 4,096 dims)      │
+ │  Geometry encodes semantic relationships         │
+ │  Same token always → same initial embedding      │
+ └──────────────────────┬───────────────────────────┘
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │    + POSITIONAL ENCODING (added to embedding)    │
+ │  Injects sequential order into position-agnostic │
+ │  attention; methods: Sinusoidal, RoPE, ALiBi     │
+ └──────────────────────┬───────────────────────────┘
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │        TRANSFORMER BLOCK × N  (stacked)          │
+ │                                                  │
+ │  ┌──────────────────────────────────────────┐    │
+ │  │  MULTI-HEAD SELF-ATTENTION               │    │
+ │  │  Each token attends to all past tokens   │    │
+ │  │  (or all tokens for encoder-only)        │    │
+ │  │  KV Cache stores K,V for prior tokens    │    │
+ │  └────────────────────┬─────────────────────┘    │
+ │                       │                          │
+ │               [ADD + LAYER NORM]                 │
+ │                       │                          │
+ │  ┌────────────────────▼─────────────────────┐    │
+ │  │  FEEDFORWARD NETWORK (or MoE)            │    │
+ │  │  Per-token knowledge transformation      │    │
+ │  └────────────────────┬─────────────────────┘    │
+ │                       │                          │
+ │               [ADD + LAYER NORM]                 │
+ │                                                  │
+ └──────────────────────┬───────────────────────────┘
+                        │  ↺ repeat for N layers
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │   OUTPUT HEAD  (Linear projection + Softmax)     │
+ │  Final embedding → probability over full vocab   │
+ └──────────────────────┬───────────────────────────┘
+                        ▼
+ ┌──────────────────────────────────────────────────┐
+ │   SAMPLING  (Temperature / Top-P / Top-K)        │
+ │  Select next token from distribution             │
+ │  → append to context → repeat entire loop ──────┐│
+ └─────────────────────────────────────────────────┘│
+  ↑ autoregressive generation continues until stop ─┘
+```
+
+**Reading guide:** The loop arrow at the bottom is the key insight: generation is autoregressive — each new token is selected from a probability distribution, appended to the input, and the entire pipeline re-runs. The KV Cache (at the transformer block stage) makes this loop efficient by caching Key and Value vectors for all prior tokens rather than recomputing them. Temperature and Top-P are not architectural; they are sampling hyperparameters applied after the softmax.
+**Source:** §3 (Tokenization and Embeddings), §4 (Transformer Block), §5 (Positional Encoding), §8 (KV Cache)
+
+---
+
+### Visual Aid 3: Inside the Transformer Block
+
+**Purpose:** Breaks open a single transformer block to show the four-component division of labor — attention, feedforward, residual connections, and layer normalization — and how information flows through each.
+
+```
+  INPUT VECTOR  (one per token in sequence)
+         │
+         ├──────────────────────────────────────┐
+         │                                      │ ← RESIDUAL SKIP
+         ▼                                      │
+  ┌──────────────────────────────────────────┐  │
+  │        MULTI-HEAD SELF-ATTENTION         │  │
+  │                                          │  │
+  │  Q = embed × W_Q   ← "what to find"      │  │
+  │  K = embed × W_K   ← "what I broadcast"  │  │
+  │  V = embed × W_V   ← "what I contribute" │  │
+  │                                          │  │
+  │  score = softmax( Q · Kᵀ / √d ) × V      │  │
+  │  H heads run in parallel (multi-head)    │  │
+  │  Causal mask: decoder blocks future toks │  │
+  └──────────────────────┬───────────────────┘  │
+                         │                      │
+                         ▼                      │
+                 [ADD + LAYER NORM] ◄───────────┘
+                         │
+         ├───────────────────────────────────────┐
+         │                                       │ ← RESIDUAL SKIP
+         ▼                                       │
+  ┌───────────────────────────────────────────┐  │
+  │          FEEDFORWARD NETWORK (FFN)        │  │
+  │                                           │  │
+  │  Linear: d_model → 4 × d_model            │  │
+  │  Activation: ReLU or GeLU                 │  │
+  │  Linear: 4 × d_model → d_model            │  │
+  │                                           │  │
+  │  MoE variant: router assigns token to     │  │
+  │  top-2 of N expert FFNs; others inactive  │  │
+  └──────────────────────┬────────────────────┘  │
+                         │                       │
+                         ▼                       │
+                 [ADD + LAYER NORM] ◄────────────┘
+                         │
+                         ▼
+        OUTPUT VECTOR (enriched and context-sensitive)
+        → fed as input to the next transformer block
+```
+
+**Reading guide:** The two horizontal residual skips are architecturally essential: they bypass each sublayer so that information from the original input embedding survives across many stacked layers without degrading. Attention handles *where to look* across the sequence; the FFN handles *what to do* with the retrieved context at each position. Stacked N times, this combination allows increasingly abstract representations to build up layer by layer.
+**Source:** §4 (The Heart of the Machine — The Transformer Block)
+
+---
+
+### Visual Aid 4: Self-Attention Q/K/V — Concept Map
+
+**Purpose:** Unpacks the query/key/value abstraction to show what each component is doing and how the dot-product computation synthesizes them into a contextualized token representation.
+
+```
+                       ┌───────────────────┐
+                       │   SELF-ATTENTION  │
+                       └─────────┬─────────┘
+         ┌──────────┬────────────┼──────────────┬────────────┐
+         ▼          ▼            ▼              ▼            ▼
+   ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
+   │ QUERY(Q) │ │  KEY (K) │ │VALUE (V) │ │  MULTI-  │ │  CAUSAL  │
+   │          │ │          │ │          │ │  HEAD    │ │  MASK    │
+   │"What am  │ │"What     │ │"What     │ │          │ │(decoder  │
+   │ I        │ │ signal   │ │ content  │ │H parallel│ │ only)    │
+   │ searching│ │ do I     │ │ should   │ │ Q/K/V    │ │          │
+   │ for in   │ │ broadcast│ │ I share  │ │ subspaces│ │Blocks    │
+   │ context?"│ │ to all?" │ │ if found?│ │ per head │ │ future   │
+   │          │ │          │ │          │ │          │ │ tokens   │
+   └────┬─────┘ └────┬─────┘ └────┬─────┘ └──────────┘ └──────────┘
+        │            │            │
+        └─────┬──────┘            │
+              ▼                   │
+    ┌─────────────────────┐       │
+    │  Q · Kᵀ / √dim      │       │
+    │  = raw relevance    │       │
+    │    scores           │       │
+    └──────────┬──────────┘       │
+               ▼                  │
+    ┌─────────────────────┐       │
+    │  softmax(scores)    │       │
+    │  = attention weights│       │
+    │    over all positions│      │
+    └──────────┬──────────┘       │
+               └──────────────────┘
+               ▼
+    ┌────────────────────────────────────┐
+    │  weights × V = OUTPUT VECTOR       │
+    │  = contextualized representation   │
+    │  = weighted blend of all Values    │
+    └────────────────────────────────────┘
+```
+
+**Reading guide:** Map Q/K/V to a search engine: Q is the search query, K is the index of all context items, and V is the content of each item. The model learns during training which queries to form, what keys to broadcast, and what values to contribute — none are hand-designed. Multi-head attention runs H independent projections simultaneously, allowing one head to track syntax while another tracks coreference or long-range semantic dependencies.
+**Source:** §4 (The Heart of the Machine), Appendix §8.1 (Self-Attention definition)
+
+---
+
+### Visual Aid 5: Three Architectural Families — Comparison Matrix
+
+**Purpose:** Distinguishes the three major transformer family variants along the dimensions most relevant to understanding, selecting, and deploying models.
+
+```
+┌──────────────┬─────────────────┬─────────────────┬─────────────────┐
+│ DIMENSION    │  ENCODER-ONLY   │  DECODER-ONLY   │  ENC-DECODER    │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Attention    │ Bidirectional:  │ Causal only:    │ Bidir. encoder  │
+│ direction    │ all tokens see  │ each token sees │ + causal dec.;  │
+│              │ all others      │ only past tokens│ cross-attention │
+│              │                 │                 │ links the two   │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Training     │ Masked LM:      │ Next-token      │ Seq-to-seq:     │
+│ objective    │ predict the     │ prediction:     │ reconstruct     │
+│              │ [MASK] tokens   │ predict tok N+1 │ target from src │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Core         │ Rich bidirec-   │ Generation +    │ Structured      │
+│ strength     │ tional context; │ in-context      │ transformation  │
+│              │ understanding   │ learning;       │ between formats │
+│              │ tasks           │ scales to SOTA  │                 │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Core         │ Cannot generate │ Weaker context  │ Higher arch.    │
+│ weakness     │ text natively   │ repr. at small  │ complexity;     │
+│              │ (no causal loop)│ scale           │ two components  │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Canonical    │ BERT, RoBERTa,  │ GPT, Claude,    │ T5, BART,       │
+│ models       │ DeBERTa         │ LLaMA, Gemini,  │ original        │
+│              │                 │ Mistral, Phi    │ Transformer '17 │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ Best for     │ Classification, │ Generation,     │ Translation,    │
+│              │ NER, extractive │ chat, code,     │ summarization,  │
+│              │ QA, embeddings  │ few-shot tasks  │ structured ext. │
+├──────────────┼─────────────────┼─────────────────┼─────────────────┤
+│ 2024 status  │ Niche: embed-   │ ★ DOMINANT     │ Specialized;    │
+│              │ ding / RAG      │ scale advantage │ resource niche  │
+└──────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+**Reading guide:** The causal mask is the structural fork that divides these families: encoding models see all tokens simultaneously (best for comprehending a fixed input), decoding models see only past tokens (best for generating text one token at a time), and encoder-decoder models combine both (best for structured sequence transformation). Decoder-only models dominate at frontier scale because next-token prediction on diverse text is a sufficient pre-training signal for general capability.
+**Source:** §6 (Three Families — Encoder, Decoder, Encoder-Decoder)
+
+---
+
+### Visual Aid 6: Scale, Compute, and the Chinchilla Insight
+
+**Purpose:** Maps the three axes of scale — model size, training data, and compute — and locates the Chinchilla optimal training ratio relative to earlier practice.
+
+```
+        MODEL SIZE (N parameters)
+             ▲
+             │
+   OVER-     │              ▲ GPT-3: 175B params,
+   PARAM-    │              │ ~300B tokens trained
+   ETRIZED   │              │ (under-trained by
+   (pre-2022 │              │  Chinchilla standard)
+   practice) │              │
+             │        ★ CHINCHILLA OPTIMAL REGION
+             │          ~20 tokens per parameter
+             │          (e.g., 70B model → 1.4T tokens)
+             │
+             │    ● GPT-2: 1.5B params
+             │      (well-trained for its era)
+             │
+             └───────────────────────────────────────►
+                         TRAINING DATA (D tokens)
+
+  ─────────────────────────────────────────────────────────
+  COMPUTE (C) ties N and D together:  C ≈ 6 × N × D
+
+  KAPLAN et al. 2020:
+    Loss improves as a power law in N, D, C
+    → Gains are predictable and continuous along each axis
+
+  CHINCHILLA (Hoffmann et al., 2022):
+    For fixed C, scale N and D proportionally.
+    Prior large models were over-parameterized relative to
+    data; a smaller, well-trained model beats a larger
+    under-trained one on most benchmarks.
+
+  ─────────────────────────────────────────────────────────
+  EMERGENCE (not predicted by scaling laws):
+
+    Specific capabilities (arithmetic, multi-step reasoning,
+    code) appear DISCONTINUOUSLY at scale thresholds.
+    Smooth loss improvement ≠ smooth capability improvement.
+
+    Small model ─────────────────────────► Large model
+    [chance-level    [ loss falls      ]   [sudden jump to
+     on the task]    [ gradually       ]    competence]
+```
+
+**Reading guide:** The scatter plot (top) shows the Chinchilla finding visually: pre-2022 models clustered in the over-parameterized region (too many parameters, too little data). The optimal training region sits on a diagonal where N and D scale together. The bottom section distinguishes two phenomena that are often confused: smooth loss improvement (predictable scaling law behavior) and emergent capability jumps (discontinuous and not predicted by loss alone).
+**Source:** §7 (Scale and Emergence — What Happens When Models Get Larger)
+
+---
+
+### Visual Aid 7: Modern Efficiency Innovations — Comparison Matrix
+
+**Purpose:** Organizes the four major post-2020 architectural innovations by the specific bottleneck each targets, making clear that they solve different problems and are largely complementary.
+
+```
+┌─────────────┬──────────────────┬──────────────────┬──────────────────┐
+│ INNOVATION  │ BOTTLENECK IT    │ HOW IT WORKS     │ TRADE-OFF        │
+│             │ TARGETS          │                  │                  │
+├─────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ MIXTURE OF  │ Dense FFN uses   │ N parallel FFN   │ Training         │
+│ EXPERTS     │ 100% of params   │ "experts"; a     │ complexity ↑;    │
+│ (MoE)       │ per token;       │ learned router   │ all experts must │
+│             │ parameter count  │ sends each token │ fit in memory;   │
+│             │ drives memory    │ to top-2 experts;│ load-balancing   │
+│             │ and compute cost │ others inactive  │ required         │
+├─────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ FLASH       │ Standard attn    │ Tiles Q, K, V    │ Mathematically   │
+│ ATTENTION   │ writes full N×N  │ into fast SRAM   │ identical output │
+│ (Dao, 2022) │ matrix to slow   │ blocks; avoids   │ to standard      │
+│             │ GPU HBM memory;  │ slow HBM writes; │ attn; purely an  │
+│             │ bandwidth is the │ kernel fusion    │ engineering win; │
+│             │ real bottleneck  │ → 2–4× speedup   │ no accuracy loss │
+├─────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ GROUPED-    │ Full multi-head  │ Groups H heads   │ Slight quality   │
+│ QUERY ATTN  │ attn: H K/V      │ so they share    │ reduction vs.    │
+│ (GQA)       │ projections per  │ K/V projections; │ full MHA; widely │
+│             │ layer → huge KV  │ dramatically     │ accepted as      │
+│             │ cache footprint  │ shrinks KV cache │ worthwhile       │
+├─────────────┼──────────────────┼──────────────────┼──────────────────┤
+│ STATE SPACE │ Transformer attn │ Compressed       │ Lossy: trades    │
+│ MODELS      │ is O(n²) in seq. │ recurrent hidden │ exact long-range │
+│ (Mamba/SSM) │ length; prohib-  │ state updated    │ recall for       │
+│             │ itive at 1M+     │ per token; O(n)  │ linear-time      │
+│             │ token contexts   │ time scaling     │ efficiency       │
+└─────────────┴──────────────────┴──────────────────┴──────────────────┘
+NOTE: These target different bottlenecks — production models
+may combine MoE + Flash Attention + GQA simultaneously.
+```
+
+**Reading guide:** The "Bottleneck It Targets" column is the key column — it explains why none of these innovations obsoletes the others: MoE targets compute cost per parameter, Flash Attention targets memory bandwidth, GQA targets KV cache size, and SSMs target quadratic time complexity. They address orthogonal constraints and can be combined. The trade-off column is important: no innovation strictly dominates what it replaces.
+**Source:** §9 (Modern Innovations — MoE, Flash Attention, GQA, SSMs)
+
+---
+
+### Visual Aid 8: Architecture → Observable Behavior — Correspondence Table
+
+**Purpose:** Traces the architectural cause of each major observable LLM behavior, grounding behaviors in mechanisms rather than in mysterious properties of "intelligence."
+
+```
+┌──────────────────────────────────┬──────────────────────────────────┐
+│   ARCHITECTURAL CHOICE           │   OBSERVABLE BEHAVIOR            │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Training objective: next-token   │ Produces fluent, plausible       │
+│ prediction (no "I don't know"    │ continuations regardless of      │
+│ signal in training data)         │ factual correctness →            │
+│                                  │ HALLUCINATION is principled,     │
+│                                  │ not a bug to simply patch        │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Causal mask + autoregressive     │ Generates one token at a time;   │
+│ decoding (decoder-only arch.)    │ conditions each on all prior →   │
+│                                  │ IN-CONTEXT LEARNING without      │
+│                                  │ weight updates                   │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Multi-head self-attention        │ Simultaneously captures syntax,  │
+│ (H parallel Q/K/V projections)   │ coreference, and semantic        │
+│                                  │ relations in a single pass       │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Scale: N × D × C co-scaled       │ Emergent capabilities appear     │
+│ to trillions of tokens           │ discontinuously at thresholds;   │
+│                                  │ unpredictable from smaller runs  │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Finite context window +          │ "LOST IN THE MIDDLE" effect:     │
+│ KV cache recency properties      │ primacy and recency bias;        │
+│                                  │ middle positions underused       │
+│                                  │ in long-context inference        │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Temperature / Top-P sampling     │ Same model, different behavior:  │
+│ (post-softmax hyperparameters)   │ low T = precise & repetitive;    │
+│                                  │ high T = creative & inconsistent │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Alignment layer (RLHF / SFT)     │ Helpful & harmless behavior is   │
+│ trained above base architecture  │ a learned surface; base capacity │
+│                                  │ unchanged — alignment ≠ safety   │
+├──────────────────────────────────┼──────────────────────────────────┤
+│ Knowledge stored in weights      │ Facts recalled probabilistically,│
+│ (no retrieval at inference)      │ not looked up; degrades on tail  │
+│                                  │ knowledge → RAG as fix           │
+└──────────────────────────────────┴──────────────────────────────────┘
+```
+
+**Reading guide:** Read this table right-to-left when diagnosing a behavior: start with the observed output and trace it to its architectural cause. Hallucination is a consequence of the training objective, not a reasoning failure. Temperature variation does not alter learned weights; it changes how a fixed probability distribution is sampled. This table is the report's primary practical output — an architectural causal model for LLM behavior.
+**Source:** §10 (Architecture and Behavior), §1 (Language as Prediction)
+
+---
+
+### Synthesis Packet
+
+**Top 5 takeaways from the report:**
+1. The transformer succeeds through *organized, selective information reuse*: attention selects relevant context, feedforward layers transform it, and scale converts these local operations — applied trillions of times — into globally coherent behavior.
+2. Architectural families diverge at the causal mask. Decoder-only models dominate at frontier scale because next-token prediction on diverse text is sufficient for general capability and because the architecture scales cleanly.
+3. Scale has three co-dependent axes (N, D, C). Chinchilla showed prior models were under-trained (~20 tokens per parameter is optimal). Scaling laws predict loss smoothly; emergent abilities appear discontinuously and cannot be predicted from smaller runs.
+4. Every observable LLM behavior — hallucination, in-context learning, lost-in-the-middle, temperature effects — has a traceable architectural cause. Deployed LLMs are composite systems (architecture + alignment + infrastructure); distinguishing these layers is essential for evaluation.
+5. Post-2020 efficiency innovations (MoE, Flash Attention, GQA, SSMs) each target a different bottleneck and are largely complementary; the frontier is defined by combining them at scale.
+
+**Navigator — which aid answers which question:**
+
+| Question | Visual Aid |
+|---|---|
+| How did we get here historically? | Aid 1 — Timeline |
+| How does text become a generated token? | Aid 2 — Pipeline |
+| What is inside one transformer block? | Aid 3 — Block Diagram |
+| What does Q/K/V actually mean? | Aid 4 — Attention Concept Map |
+| How do encoder and decoder models differ? | Aid 5 — Families Matrix |
+| What do scaling laws and Chinchilla say? | Aid 6 — Scale Dimensions |
+| What are MoE, Flash Attention, GQA, and Mamba? | Aid 7 — Innovations Matrix |
+| Why does the model hallucinate / ignore the middle? | Aid 8 — Behavior Table |
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║        REPORT SCORECARD: LLM Architecture Overview            ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Core thesis:   Transformer = organized, selective reuse of    ║
+║                information at scale. Architecture explains    ║
+║                both capabilities and failure modes.           ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Strongest evd: Scaling laws (Kaplan 2020 power laws);         ║
+║               Chinchilla (2022) optimal training ratio;       ║
+║               KV cache engineering precision                  ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Weakest link:  Emergent abilities — correctly identified as   ║
+║               discontinuous but mechanistically unexplained   ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Key action:    Trace every LLM behavior to its architectural  ║
+║               cause; distinguish base architecture from       ║
+║               alignment surface before evaluating a model     ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Read if you:   Build, deploy, evaluate, or write about LLMs   ║
+║ Skip if you:   Need only hands-on prompting tips              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
 # LLM Architecture Overview and Design Choices: A Foundational Report
 
 > [!abstract] Report Overview

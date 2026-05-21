@@ -1,0 +1,53 @@
+concept: Semantic Memory in Agents
+domain: llm-context-management
+secondary_domains:
+- ai-agents
+- knowledge-representation
+- memory-systems
+aliases:
+- factual memory in agents
+- knowledge store
+- world model memory
+broader:
+- memory-augmented-llms
+- ai-agents
+related:
+- episodic-memory-in-agents
+- working-memory-simulation-in-llms
+- memory-augmented-llms
+- retrieval-augmented-generation
+prerequisites:
+- ai-agents
+- memory-augmented-llms
+- knowledge-representation
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Memory in Agents
+  body: Semantic memory in AI agents refers to the long-term storage of general world
+    knowledge, domain facts, and learned relationships in a form that the agent can
+    retrieve and reason over during task execution — analogous to the semantic memory
+    system in human cognition that stores factual knowledge independent of the episodic
+    context in which it was acquired. In agent implementations, semantic memory is
+    typically encoded in structured knowledge bases, vector stores containing factual
+    documents, or the model's own parametric weights, and is queried by similarity
+    search or symbolic lookup when the agent needs domain-specific facts. Semantic
+    memory is distinct from episodic memory (records of specific experiences) and
+    working memory (current context).
+- type: key-claim
+  title: Key claim about Semantic Memory in Agents
+  body: Semantic memory is the agent memory modality most analogous to RAG — both
+    represent the store of retrievable world knowledge that grounds agent responses
+    in facts rather than parametric hallucinations; the key distinction from episodic
+    memory is that semantic memory stores decontextualised facts (e.g., "Python is
+    a dynamically typed language") while episodic memory stores contextualised experiences
+    (e.g., "when I debugged the user's Python script last session, the error was a
+    type mismatch").
+- type: warning
+  title: Common pitfall regarding Semantic Memory in Agents
+  body: The boundary between semantic and episodic memory in AI agents is blurrier
+    than in the neuroscientific analogy — most practical agent implementations use
+    a single unified vector store for both fact-type and experience-type memories,
+    which conflates the retrieval characteristics (recency-weighted for episodic,
+    relevance-weighted for semantic) and can cause retrieval to return outdated specific
+    experiences when general facts are needed and vice versa.

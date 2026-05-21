@@ -1,0 +1,50 @@
+concept: Markdown Output Prompting
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- content-formatting
+- documentation
+aliases:
+- markdown formatting prompts
+- rich text output prompting
+- markdown generation
+broader:
+- structured-output-enforcement
+- prompt-engineering
+related:
+- xml-structured-prompting
+- schema-following-prompts
+- output-length-control
+- json-mode-prompting
+prerequisites:
+- prompt-engineering
+- markdown-format
+confidence: high
+callouts:
+- type: definition
+  title: Markdown Output Prompting
+  body: Markdown output prompting refers to prompt design techniques that cause LLMs
+    to produce responses formatted in Markdown syntax — with appropriate use of headers,
+    bullet lists, bold and italic text, code blocks, tables, and blockquotes — rather
+    than plain text. Markdown output prompting is relevant for content generation
+    (technical documentation, README files, blog posts), chat interfaces that render
+    markdown (Obsidian, GitHub, Notion), and automated pipelines that convert LLM
+    outputs to HTML or PDF. Effective markdown prompting specifies the desired document
+    structure, heading hierarchy, when to use lists versus prose, and code block language
+    tags.
+- type: key-claim
+  title: Key claim about Markdown Output Prompting
+  body: Markdown output prompts that provide a structural skeleton (e.g., specifying
+    heading levels and approximate content for each section) produce more consistently
+    structured outputs than prompts that simply request "markdown format" — without
+    structural guidance, models choose markdown elements based on aesthetic preference
+    rather than semantic appropriateness, producing inconsistent heading levels and
+    gratuitous bullet lists that fragment information that should be prose.
+- type: warning
+  title: Common pitfall regarding Markdown Output Prompting
+  body: Over-relying on markdown formatting instructions can produce outputs that
+    prioritise visual structure over substantive content — models trained on markdown-heavy
+    instruction datasets are biased toward producing heavily formatted responses with
+    shallow content in each bullet point rather than substantive prose; explicitly
+    instructing the model to prefer prose and use lists sparingly counteracts this
+    bias.

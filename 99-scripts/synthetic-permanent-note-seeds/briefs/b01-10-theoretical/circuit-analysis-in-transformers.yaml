@@ -1,0 +1,57 @@
+concept: Circuit Analysis in Transformers
+domain: llm-theory
+secondary_domains:
+- mechanistic-interpretability
+- transformer-architecture
+- ai-interpretability
+aliases:
+- circuits analysis
+- attention circuit analysis
+- transformer circuit tracing
+- induction circuits
+broader:
+- mechanistic-interpretability
+narrower:
+- induction-circuits
+- indirect-object-identification-circuit
+related:
+- mechanistic-interpretability
+- superposition-hypothesis
+- activation-patching
+- grokking-phenomenon
+prerequisites:
+- mechanistic-interpretability
+- transformer-architecture
+- attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Circuit Analysis in Transformers
+  body: Circuit analysis in transformers is the mechanistic interpretability approach
+    of identifying and characterising the subgraphs of the transformer computation
+    graph (involving specific attention heads, MLP neurons, and their interactions)
+    that implement a particular input-output behaviour — called circuits. A circuit
+    is a minimal set of model components that, working together, produce a specific
+    capability; removing circuit components ablates the capability, while preserving
+    them suffices to reproduce it. Identified circuits include the induction circuit
+    (responsible for in-context pattern completion), the indirect object identification
+    circuit (responsible for determining which name a pronoun refers to), and various
+    factual recall circuits.
+- type: key-claim
+  title: Key claim about Circuit Analysis in Transformers
+  body: Circuit analysis has revealed that specific, interpretable algorithms are
+    actually implemented in transformer weights — the induction circuit, comprising
+    a specific pair of attention head types working together to copy repeated patterns,
+    is one of the cleanest examples of an identified algorithm that is simple enough
+    to be fully understood and is found in essentially all transformer models above
+    a minimal scale; this demonstrates that at least some transformer capabilities
+    are implemented as structured, comprehensible algorithms rather than inscrutable
+    numerical patterns.
+- type: warning
+  title: Common pitfall regarding Circuit Analysis in Transformers
+  body: Circuit analysis is labour-intensive and currently relies on manual hypothesis
+    formation and mechanistic validation — identifying a single clean circuit in a
+    small model requires significant research effort, and circuits become increasingly
+    complex and entangled at scale; the feasibility of circuit-level understanding
+    for all safety-relevant capabilities in frontier models is a major open question
+    in the interpretability research programme.

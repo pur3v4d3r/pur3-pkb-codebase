@@ -75,158 +75,586 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 **NOTE**: NO DRY RUN, and you dertermin the batch sizing for the seeds.
 ### Notes to create Seeds for:
 
-`````markdown
-# Prompting Fundamentals
-zero-shot-prompting
-few-shot-prompting
-one-shot-prompting
-system-prompt-design
-instruction-following
-prompt-formatting
-prompt-clarity-principles
-negative-prompting
-positive-framing-in-prompts
-delimiters-and-separators
-role-prompting
-persona-assignment
-output-format-specification
-chain-of-thought-prompting
-step-back-prompting
+## Batch01
+```markdown
+# Fine-Tuning and Adaptation
+instruction-tuning
+supervised-fine-tuning
+rlhf-reinforcement-learning-from-human-feedback
+reward-model-training
+proximal-policy-optimization-for-llms
+direct-preference-optimization
+kahneman-tversky-optimization
+group-relative-policy-optimization
+rejection-sampling-fine-tuning
+parameter-efficient-fine-tuning
+lora-low-rank-adaptation
+qlora-quantized-lora
+adapter-layers
+full-fine-tuning-vs-peft
+catastrophic-forgetting-in-llms
 
-# Reasoning Techniques
-tree-of-thoughts
-graph-of-thoughts
-self-consistency-sampling
-chain-of-verification
-reflexion
-program-of-thoughts
-skeleton-of-thought
-least-to-most-prompting
-decomposed-prompting
-analogical-prompting
-metacognitive-prompting
-self-ask-prompting
-directional-stimulus-prompting
-contrastive-chain-of-thought
-
-# Extended Thinking and Metacognition
-extended-thinking-architecture
-thinking-tag-semantics
-interleaved-thinking-mode
-metacognitive-scaffolding
-inner-monologue-technique
-latent-reasoning-space
-thinking-budget-allocation
-cognitive-asymmetry-in-llms
-
-# In-Context Learning
-in-context-learning
-few-shot-example-selection
-example-ordering-effects
-demonstration-diversity
-label-sensitivity-in-icl
-retrieval-augmented-few-shot
-analogical-in-context-learning
-
-# Prompt Optimization
-automatic-prompt-engineering
-gradient-free-prompt-optimization
-dspy-framework
-prompt-tuning
-soft-prompting
-prefix-tuning
-prompt-compression
-prompt-paraphrasing
-prompt-ensembling
-boosted-prompt-ensembles
-evolutionary-prompt-optimization
-reflexion-based-prompt-refinement
-
-# Retrieval-Augmented Generation
-retrieval-augmented-generation
-dense-passage-retrieval
-hyde-hypothetical-document-embeddings
-self-rag
-corrective-rag
-iterative-retrieval
-knowledge-intensive-nlp
-demonstrate-search-predict
-
-# Agentic Frameworks
-react-reasoning-acting
-plan-and-execute-agents
-reflexion-agent-architecture
-toolformer
-function-calling
-tool-use-in-llms
-multi-agent-debate
-hierarchical-agent-orchestration
-agent-scratchpad
-chain-of-action
-task-decomposition-agents
-critic-agents
-self-refine
-
-# Evaluation and Quality
-llm-as-judge
-chain-of-thought-faithfulness
-hallucination-detection
-factual-consistency-evaluation
-prompt-sensitivity-analysis
-benchmark-overfitting
-gsm8k-benchmark
-hotpotqa-benchmark
-calibration-in-llms
-uncertainty-quantification-llms
-
-# Architecture and Attention
-transformer-attention-mechanism
-context-window-management
-attention-sink-phenomenon
-lost-in-the-middle-effect
-position-encoding-effects
-token-budget-management
-kv-cache-mechanics
-speculative-decoding
-
-# Failure Modes and Mitigations
-prompt-injection
-jailbreaking
-sycophancy-in-llms
-hallucination-taxonomy
-distractor-sensitivity
-instruction-hierarchy-conflict
-overthinking-in-llms
-reward-hacking
-
-# Advanced Patterns
-meta-prompting
-system-2-prompting
-chain-of-density-technique
-socratic-prompting
-maieutic-prompting
-self-play-prompting
-constitutional-ai-method
+# Alignment and Safety
+constitutional-ai
 red-teaming-llms
+sycophancy-mitigation
+reward-hacking-in-rlhf
+overrefusal-problem
+harmlessness-helpfulness-tradeoff
+scalable-oversight
+debate-as-alignment-technique
+ai-safety-via-debate
+sleeper-agent-robustness
+instruction-hierarchy
 
-`````
+# Decoding and Sampling Strategies
+temperature-sampling
+top-k-sampling
+top-p-nucleus-sampling
+beam-search-decoding
+greedy-decoding
+contrastive-decoding
+typical-sampling
+min-p-sampling
+repetition-penalty
+classifier-free-guidance-for-text
+logit-bias-manipulation
+
+# Context and Memory Management
+context-window-extension
+long-context-prompting-strategies
+needle-in-a-haystack-evaluation
+positional-bias-in-context
+recency-bias-in-llms
+memory-augmented-llms
+episodic-memory-in-agents
+semantic-memory-in-agents
+working-memory-simulation-in-llms
+retrieval-as-external-memory
+
+# Multimodal Prompting
+vision-language-model-prompting
+image-captioning-prompts
+visual-chain-of-thought
+multimodal-few-shot-prompting
+audio-language-model-prompting
+document-understanding-prompting
+chart-and-table-prompting
+
+# Structured Output and Formatting
+json-mode-prompting
+structured-output-enforcement
+grammar-constrained-decoding
+schema-following-prompts
+markdown-output-prompting
+xml-structured-prompting
+regex-constrained-generation
+output-length-control
+
+# Evaluation Frameworks
+llm-evaluation-benchmarks
+model-graded-evaluation
+human-preference-evaluation
+evals-as-a-product
+g-eval-framework
+mt-bench-evaluation
+arena-elo-ranking
+promptbench-robustness
+faithfulness-vs-factuality
+self-evaluation-bias
+
+# Agents and Tool Use
+tool-augmented-language-models
+code-interpreter-use
+web-search-augmented-llms
+api-calling-agents
+computer-use-agents
+browser-automation-agents
+agent-memory-architecture
+plan-and-solve-prompting
+task-planning-with-llms
+action-space-design-for-agents
+
+# Prompt Injection and Security
+direct-prompt-injection
+indirect-prompt-injection
+jailbreak-taxonomy
+adversarial-suffix-attacks
+many-shot-jailbreaking
+system-prompt-extraction
+goal-hijacking
+prompt-leaking
+defense-via-input-sanitization
+llm-firewall-patterns
+
+# Theoretical Foundations
+large-language-model-scaling-laws
+emergent-abilities-in-llms
+grokking-phenomenon
+double-descent-in-neural-networks
+phase-transitions-in-llms
+mechanistic-interpretability
+superposition-hypothesis
+circuit-analysis-in-transformers
+activation-patching
+sparse-autoencoders-for-interpretability
+
+# Practical System Design
+prompt-versioning
+prompt-registry-patterns
+ab-testing-prompts
+latency-quality-tradeoff
+prompt-caching-strategies
+batch-inference-optimization
+cost-per-token-budgeting
+model-routing-strategies
+fallback-prompt-chains
+prompt-observability
+```
 
 
 
 
 
+```markdown
+# Batch 2
+## Batch02
+## Knowledge Representation and Grounding
+semantic-grounding-in-llms
+world-model-in-language-models
+commonsense-reasoning-in-llms
+ontology-grounded-prompting
+knowledge-graph-augmented-generation
+entity-linking-in-prompts
+coreference-resolution-prompting
+temporal-reasoning-in-llms
+spatial-reasoning-in-llms
+causal-reasoning-in-llms
+counterfactual-reasoning-prompting
+abductive-reasoning-in-llms
+deductive-reasoning-chains
+inductive-reasoning-in-llms
+analogical-transfer-in-llms
+
+## Prompt Sensitivity and Robustness
+label-sensitivity-in-prompting
+format-sensitivity-in-prompting
+order-sensitivity-in-few-shot
+surface-form-competition
+prompt-brittleness
+adversarial-prompt-robustness
+distribution-shift-in-prompting
+semantic-equivalence-in-prompts
+paraphrase-invariance-testing
+cross-lingual-prompt-transfer
+prompt-calibration-techniques
+verbalized-uncertainty
+hedge-phrases-in-prompts
+overconfidence-in-llm-outputs
+underspecification-in-prompts
+
+## Attention Mechanisms and Internals
+multi-head-attention-mechanics
+cross-attention-in-transformers
+self-attention-patterns
+attention-head-specialization
+induction-heads
+copy-suppression-heads
+attention-sinks
+head-pruning-effects
+positional-encoding-variants
+rotary-position-embedding
+alibi-positional-encoding
+flash-attention-algorithm
+grouped-query-attention
+sliding-window-attention
+sparse-attention-patterns
+
+## Emergent Behavior and Capability
+emergent-prompting-capability
+few-shot-emergent-generalization
+chain-of-thought-emergence
+semantic-parsing-emergence
+multilingual-emergent-transfer
+arithmetic-emergence-threshold
+in-context-learning-as-meta-learning
+task-generalization-in-llms
+zero-shot-generalization-mechanisms
+capability-elicitation-prompting
+latent-capability-unlocking
+model-capability-vs-alignment-gap
+scaling-and-capability-emergence
+instruction-following-emergence
+calibration-emergence-in-scale
+
+## Multi-Turn and Dialogue
+multi-turn-conversation-management
+dialogue-state-tracking-prompts
+conversational-context-compression
+turn-taking-in-llm-dialogue
+persona-consistency-across-turns
+memory-injection-in-dialogue
+dialogue-grounding-prompts
+conversational-repair-prompting
+clarification-request-generation
+follow-up-question-generation
+dialogue-act-classification-prompting
+conversation-summarization-prompts
+slot-filling-via-dialogue
+task-oriented-dialogue-prompting
+open-domain-dialogue-prompting
+
+## Evaluation and Benchmarking
+benchmark-contamination
+train-test-leakage-in-llms
+dynamic-benchmarking
+adversarial-benchmark-construction
+human-vs-llm-eval-agreement
+inter-annotator-agreement-in-evals
+reference-free-evaluation
+rubric-based-llm-evaluation
+likert-scale-prompt-evaluation
+pairwise-preference-evaluation
+win-rate-as-evaluation-metric
+evaluation-prompt-design
+llm-evaluator-bias
+g-eval-scoring-methodology
+prometheus-evaluation-model
+
+## Retrieval and Knowledge Integration
+dense-retrieval-for-rag
+sparse-retrieval-bm25
+hybrid-retrieval-patterns
+query-rewriting-for-retrieval
+iterative-retrieval-augmentation
+self-rag-selective-retrieval
+corrective-rag-pipeline
+adaptive-rag-routing
+late-interaction-retrieval
+cross-encoder-reranking
+reciprocal-rank-fusion
+chunking-strategies-for-rag
+embedding-model-selection
+retrieval-faithfulness
+knowledge-conflict-in-rag
+```
+
+## Batch03
+
+```markdown
+# Batch 3
+
+## Knowledge Representation and Grounding
+semantic-grounding-in-llms
+world-model-in-language-models
+commonsense-reasoning-in-llms
+ontology-grounded-prompting
+knowledge-graph-augmented-generation
+entity-linking-in-prompts
+coreference-resolution-prompting
+temporal-reasoning-in-llms
+spatial-reasoning-in-llms
+causal-reasoning-in-llms
+counterfactual-reasoning-prompting
+abductive-reasoning-in-llms
+deductive-reasoning-chains
+inductive-reasoning-in-llms
+analogical-transfer-in-llms
+
+## Prompt Sensitivity and Robustness
+label-sensitivity-in-prompting
+format-sensitivity-in-prompting
+order-sensitivity-in-few-shot
+surface-form-competition
+prompt-brittleness
+adversarial-prompt-robustness
+distribution-shift-in-prompting
+semantic-equivalence-in-prompts
+paraphrase-invariance-testing
+cross-lingual-prompt-transfer
+prompt-calibration-techniques
+verbalized-uncertainty
+hedge-phrases-in-prompts
+overconfidence-in-llm-outputs
+underspecification-in-prompts
+
+## Attention Mechanisms and Internals
+multi-head-attention-mechanics
+cross-attention-in-transformers
+self-attention-patterns
+attention-head-specialization
+induction-heads
+copy-suppression-heads
+attention-sinks
+head-pruning-effects
+positional-encoding-variants
+rotary-position-embedding
+alibi-positional-encoding
+flash-attention-algorithm
+grouped-query-attention
+sliding-window-attention
+sparse-attention-patterns
+
+## Emergent Behavior and Capability
+emergent-prompting-capability
+few-shot-emergent-generalization
+chain-of-thought-emergence
+semantic-parsing-emergence
+multilingual-emergent-transfer
+arithmetic-emergence-threshold
+in-context-learning-as-meta-learning
+task-generalization-in-llms
+zero-shot-generalization-mechanisms
+capability-elicitation-prompting
+latent-capability-unlocking
+model-capability-vs-alignment-gap
+scaling-and-capability-emergence
+instruction-following-emergence
+calibration-emergence-in-scale
+
+## Multi-Turn and Dialogue
+multi-turn-conversation-management
+dialogue-state-tracking-prompts
+conversational-context-compression
+turn-taking-in-llm-dialogue
+persona-consistency-across-turns
+memory-injection-in-dialogue
+dialogue-grounding-prompts
+conversational-repair-prompting
+clarification-request-generation
+follow-up-question-generation
+dialogue-act-classification-prompting
+conversation-summarization-prompts
+slot-filling-via-dialogue
+task-oriented-dialogue-prompting
+open-domain-dialogue-prompting
+
+## Evaluation and Benchmarking
+benchmark-contamination
+train-test-leakage-in-llms
+dynamic-benchmarking
+adversarial-benchmark-construction
+human-vs-llm-eval-agreement
+inter-annotator-agreement-in-evals
+reference-free-evaluation
+rubric-based-llm-evaluation
+likert-scale-prompt-evaluation
+pairwise-preference-evaluation
+win-rate-as-evaluation-metric
+evaluation-prompt-design
+llm-evaluator-bias
+g-eval-scoring-methodology
+prometheus-evaluation-model
+
+## Retrieval and Knowledge Integration
+dense-retrieval-for-rag
+sparse-retrieval-bm25
+hybrid-retrieval-patterns
+query-rewriting-for-retrieval
+iterative-retrieval-augmentation
+self-rag-selective-retrieval
+corrective-rag-pipeline
+adaptive-rag-routing
+late-interaction-retrieval
+cross-encoder-reranking
+reciprocal-rank-fusion
+chunking-strategies-for-rag
+embedding-model-selection
+retrieval-faithfulness
+knowledge-conflict-in-rag
+```
+
+---
+
+```markdown
+# Batch 4
+
+## Cognitive and Psychological Frameworks Applied to LLMs
+dual-process-theory-applied-to-llms
+cognitive-bias-in-llm-outputs
+anchoring-bias-in-llm-reasoning
+availability-heuristic-in-llms
+framing-effects-on-llm-outputs
+representativeness-heuristic-in-llms
+confirmation-bias-in-chain-of-thought
+base-rate-neglect-in-llms
+dunning-kruger-analog-in-llms
+social-desirability-bias-in-llms
+authority-bias-in-llm-responses
+bandwagon-effect-in-rlhf
+loss-aversion-analog-in-preference-learning
+hindsight-bias-in-llm-evaluation
+primacy-and-recency-effects-in-context
+
+## Output Quality and Coherence
+discourse-coherence-in-llm-outputs
+narrative-consistency-prompting
+logical-entailment-verification
+non-sequitur-detection-in-outputs
+hedging-calibration
+specificity-vs-generality-tradeoff
+abstraction-level-control
+verbosity-control-in-prompts
+information-density-optimization
+redundancy-reduction-in-outputs
+contradiction-detection-in-outputs
+claim-strength-calibration
+nuance-preservation-in-summarization
+stance-consistency-across-output
+register-and-tone-control
+
+## Specialized Domain Prompting
+medical-clinical-prompting
+legal-reasoning-prompting
+scientific-hypothesis-generation
+mathematical-proof-prompting
+code-generation-prompting
+code-review-prompting
+financial-analysis-prompting
+educational-content-prompting
+creative-writing-prompting
+technical-documentation-prompting
+data-analysis-prompting
+ethical-reasoning-prompting
+historical-reasoning-prompting
+philosophical-argument-prompting
+cybersecurity-analysis-prompting
+
+## Prompt Compression and Efficiency
+prompt-distillation
+prompt-pruning
+token-efficient-prompting
+compressive-context-management
+prompt-summarization
+in-context-compression
+kv-cache-reuse-strategies
+selective-context-technique
+llmlingua-compression
+context-distillation-training
+abstractive-context-compression
+prompt-token-budgeting
+latency-aware-prompt-design
+prompt-batching-patterns
+streaming-output-management
+
+## Interpretability and Explainability
+feature-attribution-in-llms
+saliency-mapping-for-prompts
+attention-visualization
+probing-classifiers
+linear-representation-hypothesis
+representation-engineering
+concept-activation-vectors
+logit-lens-technique
+causal-tracing-in-transformers
+knowledge-localization-in-ffn
+factual-association-mechanisms
+attention-knockout-analysis
+path-patching-methodology
+distributed-representations-in-transformers
+polysemanticity-in-neural-networks
+
+## Training Dynamics and Data
+pretraining-data-influence
+memorization-vs-generalization
+data-contamination-effects
+training-data-attribution
+counterfactual-data-augmentation
+synthetic-data-generation-for-training
+curriculum-learning-for-llms
+self-play-data-generation
+constitutional-ai-data-pipeline
+rlaif-rl-from-ai-feedback
+iterative-preference-learning
+data-mixture-effects-on-capability
+deduplication-effects-on-training
+toxic-content-filtering-in-pretraining
+domain-adaptive-pretraining
+```
 
 
 
 
+# V6 Pipeline - Adding Diagrams ASCII diagrams / Mermaid to Permanent Notes
+
+## Context
+I have a pipeline for creating permanent notes for my Obsidian based PKB. The pipeline is at V6.
+What I need you todo is to review the pipeline and accompanying files, so you understand how everything works.
+- You will find all the information you need inside the pipeline folders.
+- The *goal* of this task is to enhance the permanent notes that have been created by the V6 pipeline, specifically by adding relevant diagrams in ASCII format/Mermaid format, to improve the visual representation and understanding of the concepts in the permanent notes.
+- Make sure that the LLM in charge of the diagrams adds a YAML Frontmatter section, that determines if this permanent note has been run through the diagram process yet. **NOTE HELPFUL** look at the Enhance Permanent Notes Pipeline for helpful context, and so you see how it is being done in that script.
+- The LLM should generate the diagrams based on the content of the permanent note, and the concepts it contains, and should use best practices for diagram design to ensure that the diagrams are clear, informative, and visually appealing.
+- Place the created diagrams just below the YAML Frontmatter of each report, and make sure to properly format the diagrams for optimal display in Obsidian.
+- Ensure that each diagram is accompanied by a brief description or caption to provide context and enhance understanding, or how to view the diagram.
+- **POTENTIAL IMPROVEMENT**: Once the main Local LLM is finished with the batch [roughly-100-note-batches], We can have another LLM run through each of the permanent notes done in that run to add additional enhancements or refinements to the diagrams. Such as making sure the ASCII diagrams are properly aligned and visually appealing, and the mermaid is in working order.
+- I'm thinking like 2-4 diagrams each and one mermaid diagram if possible, depending on the content of the permanent note and the concepts it contains.
+- Feel free to suggest improvement or refinments.
+## Key Locations for Pipeline Reference
+
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\README.md` -> Pipeline V6 README
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\enhance_notes.py` -> Script for enhancing permanent notes.
+
+## TASK
+1. Review the V6 pipeline and accompanying files to understand how everything works, with a specific focus on the enhance_notes.py script and how it enhances permanent notes by adding additional information to the permanent note.
+2. Design and genertae thie pipline addition. The pipeline should be designed to run on batches of roughly 100 permanent notes at a time, and should be able to generate 2-4 diagrams in ASCII format/Mermaid format for each permanent note, depending on the content of the permanent note and the concepts it contains.
+
+---
+
+## Deliverables
+
+### add_diagrams.py
+~620-line production script, mirroring enhance_notes.py exactly. Key highlights:
+
+| Component | Detail |
+|---|---|
+| `Diagram` / `DiagramResponse` | Pydantic models; `_strip_code_fences` validator silently removes accidental ` ``` ` wrappers the LLM may emit |
+| `diagram_one()` | Single LLM call; cache key = `(contract_version, model, title, body_sha1[:16])` |
+| `build_diagram_section()` | Renders all diagrams into `## 📊 Visual Overview` with `<!-- diagram-pass:N (date) -->` marker |
+| `_render_diagram_block()` | Mermaid → `[!abstract]` callout + nested fence; ASCII → plain code block with caption |
+| `insert_diagram_section()` | Prepends section before `# Title` in the stripped body |
+| `update_frontmatter()` | Writes `provenance.diagram-passes`, `diagram-model`, `last-diagrammed` |
+| `write_note_atomic()` | `.tmp → replace` pattern; never leaves a half-written file |
+| CLI | `--dry-run`, `--limit`, `--note`, `--re-diagram`, `--bypass-cache`, `--output-dir`, `--model`, `-v/-q`, `--strict` |
+| Exit codes | 0 success / 2 dir missing / 4 no notes / 5 strict+failures / 6 Ollama down / 130 ^C |
+
+### tests/test_add_diagrams.py
+~310 lines, 40+ tests across 10 test classes. Covers every function in the blueprint:
+- Schema validators, `is_empty()`, `has_mermaid()`
+- `load_note` happy path + 5 error paths
+- `scan_notes` gate / re-diagram / filter / limit / missing dir
+- `_body_excerpt` truncation at paragraph boundary
+- `_render_diagram_block` mermaid vs ASCII formatting details
+- `build_diagram_section` header + marker + all-diagram presence
+- `insert_diagram_section` placement order
+- `update_frontmatter` all fields + non-mutation guarantee
+- `write_note_atomic` atomic write, cleanup, parent mkdir
+- CLI `--help`, `--version`, `--dry-run` no-write integration test (mocked Ollama)
+
+### Usage
+```bash
+# Dry-run preview for 5 notes
+python add_diagrams.py --dry-run --limit 5 -v
+
+# Single note
+python add_diagrams.py --note chain-of-thought
+
+# Batch of 100
+python add_diagrams.py --limit 100
+
+# Run tests
+pytest tests/test_add_diagrams.py -v
+```
+
+python add_diagrams.py --limit 100 -v
 
 
 
-
-
-
-
-
+100 -> Cognitive Psychology batch
+cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes" --limit 100 -v 2>&1
 
 
 
@@ -251,162 +679,6 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 3. Please feel free to ask any question you have.
 
 Please feel free to ask any question you have.
-
-### Recent Additions to the Permanent Note Dipository that need to be enhanced:
-
-`````markdown
-
-# Alignment and Safety
-constitutional-ai-principles
-reinforcement-learning-from-human-feedback
-direct-preference-optimization
-reward-model-design
-scalable-oversight
-debate-as-alignment-mechanism
-iterated-amplification
-superalignment
-sandbagging-in-llms
-deceptive-alignment
-value-alignment-problem
-corrigibility
-preference-elicitation
-activation-steering
-representation-engineering
-
-# Fine-Tuning and Adaptation
-instruction-fine-tuning
-parameter-efficient-fine-tuning
-lora-low-rank-adaptation
-qlora
-adapter-layers
-prompt-fine-tuning-vs-rag
-domain-adaptation-llms
-catastrophic-forgetting-in-llms
-continual-learning-llms
-task-specific-fine-tuning
-self-play-fine-tuning
-
-# Tokenization and Vocabulary
-byte-pair-encoding
-tokenization-artifacts
-token-boundary-effects
-vocabulary-size-tradeoffs
-subword-tokenization
-tokenizer-sensitivity
-cross-lingual-tokenization
-whitespace-token-effects
-
-# Embeddings and Semantic Space
-text-embedding-models
-semantic-similarity-in-prompts
-cosine-similarity-retrieval
-embedding-space-geometry
-late-chunking
-sentence-transformers
-bi-encoder-vs-cross-encoder
-matryoshka-representation-learning
-contrastive-learning-embeddings
-
-# Structured Output and Grounding
-json-mode-prompting
-grammar-constrained-decoding
-function-schema-design
-structured-prediction-prompting
-output-schema-enforcement
-constrained-beam-search
-guided-generation
-tool-schema-optimization
-
-# Multimodal Prompting
-vision-language-prompting
-image-captioning-prompts
-visual-chain-of-thought
-multimodal-few-shot
-document-understanding-prompts
-chart-and-table-reasoning
-interleaved-image-text-prompting
-grounded-visual-reasoning
-
-# Memory Systems and Long Context
-episodic-memory-in-agents
-external-memory-augmentation
-memory-augmented-neural-networks
-compressive-memory-mechanisms
-long-context-prompting-strategies
-needle-in-a-haystack-evaluation
-context-distillation
-summarization-as-compression
-working-memory-proxies-in-llms
-
-# Decoding and Sampling
-temperature-sampling
-top-p-nucleus-sampling
-top-k-sampling
-beam-search-decoding
-min-p-sampling
-repetition-penalty
-frequency-penalty-effects
-contrastive-decoding
-speculative-sampling
-best-of-n-sampling
-
-# Knowledge and Grounding
-knowledge-graph-augmented-llms
-entity-linking-in-prompts
-fact-verification-prompting
-knowledge-conflict-resolution
-parametric-vs-contextual-knowledge
-closed-book-vs-open-book-qa
-grounded-generation
-world-model-in-llms
-
-# Code Generation and Reasoning
-code-prompting-strategies
-execution-feedback-prompting
-self-debugging-llm
-code-chain-of-thought
-test-driven-prompting
-docstring-guided-generation
-repair-prompting
-pseudocode-intermediate-step
-
-# Evaluation Frameworks
-lm-evaluation-harness
-big-bench-benchmark
-helm-holistic-evaluation
-mt-bench
-arena-elo-rating
-self-evaluation-prompting
-llm-judge-calibration
-process-reward-models
-outcome-reward-models
-human-preference-datasets
-
-# Cognitive Science Foundations
-dual-process-theory-applied-to-llms
-cognitive-load-theory-applied-to-llms
-working-memory-constraints-in-prompts
-schema-activation-in-prompts
-semantic-priming-effects
-prototype-theory-and-llms
-mental-simulation-in-llms
-epistemological-uncertainty-in-llms
-
-# Production and Deployment
-prompt-versioning
-prompt-regression-testing
-latency-quality-tradeoff
-prompt-caching-strategies
-cost-per-token-optimization
-prompt-monitoring-and-alerting
-a-b-testing-prompts
-prompt-registry-management
-multi-model-routing
-fallback-prompt-strategies
-
-`````
-
-
 
 
 

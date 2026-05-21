@@ -1,0 +1,105 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-03-decoding-sampling",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-03-decoding-sampling.md",
+    "notes": "Decoding and sampling strategies for LLMs covering temperature, top-k, top-p,\nbeam search, greedy, contrastive, typical, min-p sampling, repetition penalty,\nclassifier-free guidance for text, and logit bias manipulation."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-03-decoding-sampling",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-03-decoding-sampling"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 4,
+    "skipped": 7,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Greedy Decoding",
+      "kebab": "greedy-decoding",
+      "brief_path": "briefs/b01-03-decoding-sampling/greedy-decoding.yaml",
+      "expected_seed_filename": "greedy-decoding-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Typical Sampling",
+      "kebab": "typical-sampling",
+      "brief_path": "briefs/b01-03-decoding-sampling/typical-sampling.yaml",
+      "expected_seed_filename": "typical-sampling-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Classifier-Free Guidance for Text",
+      "kebab": "classifier-free-guidance-for-text",
+      "brief_path": "briefs/b01-03-decoding-sampling/classifier-free-guidance-for-text.yaml",
+      "expected_seed_filename": "classifier-free-guidance-for-text-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Logit Bias Manipulation",
+      "kebab": "logit-bias-manipulation",
+      "brief_path": "briefs/b01-03-decoding-sampling/logit-bias-manipulation.yaml",
+      "expected_seed_filename": "logit-bias-manipulation-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Temperature Sampling",
+      "kebab": "temperature-sampling",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/temperature-sampling.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at temperature-sampling.md"
+    },
+    {
+      "term": "Top-K Sampling",
+      "kebab": "top-k-sampling",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/top-k-sampling.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at top-k-sampling.md"
+    },
+    {
+      "term": "Top-P Nucleus Sampling",
+      "kebab": "top-p-nucleus-sampling",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/top-p-nucleus-sampling.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at top-p-nucleus-sampling.md"
+    },
+    {
+      "term": "Beam Search Decoding",
+      "kebab": "beam-search-decoding",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/beam-search-decoding.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at beam-search-decoding.md"
+    },
+    {
+      "term": "Contrastive Decoding",
+      "kebab": "contrastive-decoding",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/contrastive-decoding.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at contrastive-decoding.md"
+    },
+    {
+      "term": "Min-P Sampling",
+      "kebab": "min-p-sampling",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/min-p-sampling.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at min-p-sampling.md"
+    },
+    {
+      "term": "Repetition Penalty",
+      "kebab": "repetition-penalty",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/repetition-penalty.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at repetition-penalty.md"
+    }
+  ],
+  "warnings": []
+}

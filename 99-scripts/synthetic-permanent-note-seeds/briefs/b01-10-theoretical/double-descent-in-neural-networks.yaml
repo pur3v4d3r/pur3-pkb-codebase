@@ -1,0 +1,54 @@
+concept: Double Descent in Neural Networks
+domain: llm-theory
+secondary_domains:
+- neural-network-theory
+- statistical-learning-theory
+- overfitting
+aliases:
+- double descent
+- modern bias-variance tradeoff
+- interpolation threshold
+- epoch-wise double descent
+broader:
+- neural-network-learning-dynamics
+- statistical-learning-theory
+related:
+- grokking-phenomenon
+- large-language-model-scaling-laws
+- phase-transitions-in-llms
+prerequisites:
+- statistical-learning-theory
+- neural-network-training
+- bias-variance-tradeoff
+confidence: high
+callouts:
+- type: definition
+  title: Double Descent in Neural Networks
+  body: 'Double descent is a phenomenon in neural network training and statistical
+    learning where the test error follows a non-monotonic path as model capacity increases:
+    error first decreases (classical regime), then increases sharply to a peak near
+    the interpolation threshold (where the model exactly fits training data), and
+    then decreases again into the over-parameterised regime as model size grows further.
+    Described by Belkin et al. (2019) and Nakkiran et al. (2021), double descent challenges
+    the classical bias-variance tradeoff intuition (more capacity → worse generalisation
+    after the sweet spot) by showing that sufficiently overparameterised models can
+    generalise well despite memorising training data. The phenomenon applies to both
+    model size (more parameters) and training epochs (more training).'
+- type: key-claim
+  title: Key claim about Double Descent in Neural Networks
+  body: Double descent resolves the paradox of why larger neural networks often generalise
+    better than classical statistical theory predicts — the interpolation threshold
+    is a critical transition where models generalise poorly by memorising without
+    structure, but models that far exceed this threshold are implicitly regularised
+    by the optimisation dynamics toward solutions that generalise better; this explains
+    why training the largest available models is often optimal even when smaller models
+    seem sufficient by capacity-based intuitions.
+- type: warning
+  title: Common pitfall regarding Double Descent in Neural Networks
+  body: The epoch-wise double descent (where test loss spikes at intermediate training
+    times before decreasing again) implies that early stopping based on validation
+    performance can prematurely stop training during the peak of the double descent
+    curve, settling at a worse-generalising solution than would be achieved by continuing
+    through the peak; validation-based early stopping should be applied carefully
+    and with awareness that temporary validation loss increases may precede better
+    final generalisation.

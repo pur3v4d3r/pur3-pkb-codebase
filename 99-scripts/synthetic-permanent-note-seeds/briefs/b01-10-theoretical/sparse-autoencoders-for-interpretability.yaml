@@ -1,0 +1,59 @@
+concept: Sparse Autoencoders for Interpretability
+domain: llm-theory
+secondary_domains:
+- mechanistic-interpretability
+- deep-learning
+- unsupervised-learning
+aliases:
+- SAEs
+- dictionary learning for LLMs
+- sparse dictionary learning
+- mechanistic SAE
+- Anthropic sparse autoencoders
+broader:
+- mechanistic-interpretability
+- sparse-representations
+related:
+- mechanistic-interpretability
+- superposition-hypothesis
+- circuit-analysis-in-transformers
+- activation-patching
+prerequisites:
+- mechanistic-interpretability
+- sparse-autoencoders
+- superposition-hypothesis
+- dictionary-learning
+confidence: high
+callouts:
+- type: definition
+  title: Sparse Autoencoders for Interpretability
+  body: Sparse autoencoders (SAEs) for interpretability are a mechanistic interpretability
+    technique that trains a sparse autoencoder on LLM activation vectors to decompose
+    them into a learned dictionary of sparse, monosemantic features — addressing the
+    superposition problem by mapping polysemantic neuron activations to a larger set
+    of sparse, interpretable feature directions. The SAE learns to reconstruct activations
+    as sparse linear combinations of dictionary elements (features), each of which
+    ideally corresponds to a human-interpretable concept (e.g., "references to DNA",
+    "negative sentiment", "the word Python"). Developed and scaled by Anthropic's
+    interpretability team, SAEs have been applied to identify millions of features
+    in Claude Sonnet, including a famous "banana" feature and unexpected multimodal
+    concept features.
+- type: key-claim
+  title: Key claim about Sparse Autoencoders for Interpretability
+  body: Sparse autoencoders for interpretability represent the most scalable current
+    approach to the superposition problem — rather than requiring manual circuit analysis
+    for each capability, SAEs can be trained to automatically extract the feature
+    dictionary of an entire model layer, providing a principled and automated method
+    to identify the semantic features that the model has learned to represent; the
+    challenge is that millions of extracted features require automated interpretation
+    methods rather than human review.
+- type: warning
+  title: Common pitfall regarding Sparse Autoencoders for Interpretability
+  body: SAE features may not correspond cleanly to the model's actual computational
+    primitives — while SAE features are more monosemantic than raw neurons, there
+    is no guarantee that the SAE decomposition reflects the model's true internal
+    representation structure rather than a compressed approximation that captures
+    correlations; features that appear monosemantic in isolated analysis may participate
+    in circuits in ways that do not match their semantic label, and the theoretical
+    relationship between SAE features and mechanistic circuits remains an active research
+    question.

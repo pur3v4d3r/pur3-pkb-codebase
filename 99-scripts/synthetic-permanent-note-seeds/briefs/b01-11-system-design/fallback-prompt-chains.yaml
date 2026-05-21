@@ -1,0 +1,56 @@
+concept: Fallback Prompt Chains
+domain: llm-systems
+secondary_domains:
+- llm-systems
+- reliability-engineering
+- system-design
+aliases:
+- fallback chains
+- prompt fallback
+- graceful degradation for LLMs
+- retry chains
+broader:
+- llm-systems
+- reliability-engineering
+related:
+- model-routing-strategies
+- prompt-versioning
+- prompt-observability
+- latency-quality-tradeoff
+- output-length-control
+prerequisites:
+- llm-systems
+- reliability-engineering
+- system-design
+- error-handling
+confidence: high
+callouts:
+- type: definition
+  title: Fallback Prompt Chains
+  body: 'Fallback prompt chains are system design patterns that define ordered sequences
+    of alternative prompts, models, or response generation strategies that are tried
+    in succession when earlier attempts fail or produce unsatisfactory outputs. Fallback
+    scenarios include: model API unavailability (try primary model → try secondary
+    model → return cached response → return static fallback), quality failures (attempt
+    with long-context prompt → reduce context and retry → fall back to a simpler task
+    formulation), latency timeouts (attempt with full prompt → retry with shortened
+    prompt → return partial response), and content filtering triggers (attempt original
+    request → attempt with rephrased request → return a graceful refusal message).
+    Fallback chains implement graceful degradation, ensuring that a system provides
+    some useful response even under failure conditions.'
+- type: key-claim
+  title: Key claim about Fallback Prompt Chains
+  body: Fallback prompt chains are necessary but commonly absent in early-stage LLM
+    deployments because the immediate development priority is on the happy path, not
+    failure handling — systems without fallback chains produce hard failures (errors,
+    timeouts, blank responses) when any component fails, while systems with fallback
+    chains degrade gracefully; the difference in user experience and system reliability
+    between fallback-equipped and fallback-absent systems is substantial and disproportionate
+    to the implementation cost.
+- type: warning
+  title: Common pitfall regarding Fallback Prompt Chains
+  body: Fallback prompt chains must be monitored to prevent silent quality degradation
+    — if the primary path frequently fails and the fallback is serving most responses,
+    the system is degraded without obvious symptoms; tracking which fallback level
+    serves each request and alerting when fallback activation rates exceed baselines
+    is essential for maintaining awareness of system health.

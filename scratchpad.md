@@ -12,7 +12,7 @@
 
 
 
-
+python 99-scripts/generate_toc.py "D:\10_pur3v4d3r's-vault\scratchpad.md" --execute --no-backup
 
 
 
@@ -31,7 +31,104 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
+<!-- TOC START -->
 
+## Table of Contents
+
+- [RUNNING REPORTS THROUGH V6 PIPELINE](#running-reports-through-v6-pipeline)
+- [Permanent Note Enrichment Workflow](#permanent-note-enrichment-workflow)
+  - [CLI Interface](#cli-interface)
+    - [Processing Loop](#processing-loop)
+    - [Error Handling](#error-handling)
+    - [Internal Structure](#internal-structure)
+    - [Verification](#verification)
+- [1. Dry run — preview 3 stubs, no writes](#1-dry-run--preview-3-stubs-no-writes)
+- [2. Safe preview — write to output dir, diff against originals](#2-safe-preview--write-to-output-dir-diff-against-originals)
+- [3. In-place — enrich 50 stubs for real](#3-in-place--enrich-50-stubs-for-real)
+- [4. Full run — all stubs, strict mode](#4-full-run--all-stubs-strict-mode)
+- [Key Locations for Pipeline Reference](#key-locations-for-pipeline-reference)
+- [Running Obsidian Theme Color Generation Script](#running-obsidian-theme-color-generation-script)
+  - [Themes to Generate and Install](#themes-to-generate-and-install)
+- [TOPIC LIST FOR REPORT GENERATION](#topic-list-for-report-generation)
+- [Reports to Generate](#reports-to-generate)
+  - [Topics for Framework Synthesis Report Generator](#topics-for-framework-synthesis-report-generator)
+  - [Cluster A — Cognition, Memory, and Expertise](#cluster-a--cognition-memory-and-expertise)
+    - [1. A Unified Architecture of Rapid Pattern-Based Cognition](#1-a-unified-architecture-of-rapid-pattern-based-cognition)
+    - [2. The Expertise Engine: From Novice Encoding to Automatized Performance](#2-the-expertise-engine-from-novice-encoding-to-automatized-performance)
+    - [3. A Synthetic Theory of Working Memory Under Cognitive Load](#3-a-synthetic-theory-of-working-memory-under-cognitive-load)
+    - [4. Memory Consolidation as Multi-System Integration](#4-memory-consolidation-as-multi-system-integration)
+    - [5. Encoding–Retrieval Coupling: A Bridge Framework for Durable Learning](#5-encodingretrieval-coupling-a-bridge-framework-for-durable-learning)
+    - [6. The Distributed Mind: A Synthetic Account of Cognition Beyond the Skull](#6-the-distributed-mind-a-synthetic-account-of-cognition-beyond-the-skull)
+  - [Cluster B — Self-Regulated Learning and Metacognition](#cluster-b--self-regulated-learning-and-metacognition)
+    - [7. A Master Architecture of Self-Regulated Learning](#7-a-master-architecture-of-self-regulated-learning)
+    - [8. Metacognition as Layered Control: Knowledge, Monitoring, and Regulation](#8-metacognition-as-layered-control-knowledge-monitoring-and-regulation)
+    - [9. The Forethought–Performance–Reflection Loop as Volitional Engine](#9-the-forethoughtperformancereflection-loop-as-volitional-engine)
+    - [10. Mindset, Attribution, and Self-Efficacy: A Unified Theory of Learner Belief](#10-mindset-attribution-and-self-efficacy-a-unified-theory-of-learner-belief)
+  - [Cluster C — Motivation and Goal Architecture](#cluster-c--motivation-and-goal-architecture)
+    - [11. A Unified Self-Determination Framework Across Its Mini-Theories](#11-a-unified-self-determination-framework-across-its-mini-theories)
+    - [12. Goal Pursuit Under Uncertainty: From Intention to Completion](#12-goal-pursuit-under-uncertainty-from-intention-to-completion)
+    - [13. Achievement Goals and Affective Self-Regulation](#13-achievement-goals-and-affective-self-regulation)
+  - [Cluster D — Reasoning, Inquiry, and Epistemics](#cluster-d--reasoning-inquiry-and-epistemics)
+    - [14. A Synthetic Theory of Reasoning Modes](#14-a-synthetic-theory-of-reasoning-modes)
+    - [15. Pragmatist Inquiry as a Self-Correcting Epistemic Engine](#15-pragmatist-inquiry-as-a-self-correcting-epistemic-engine)
+    - [16. Critical Thinking as Layered Discipline: Standards, Elements, and Reflection](#16-critical-thinking-as-layered-discipline-standards-elements-and-reflection)
+  - [Cluster E — PKB, PKM, and Knowledge Architecture](#cluster-e--pkb-pkm-and-knowledge-architecture)
+    - [17. The Cognitive PKB: A Synthetic Architecture for Externalized Mind](#17-the-cognitive-pkb-a-synthetic-architecture-for-externalized-mind)
+    - [18. PKB Design for Schema Construction and Expertise Development](#18-pkb-design-for-schema-construction-and-expertise-development)
+    - [19. The Self-Regulated PKB: A Synthesis of SRL and Knowledge Architecture](#19-the-self-regulated-pkb-a-synthesis-of-srl-and-knowledge-architecture)
+    - [20. Knowledge Graph Cognition: Spreading Activation, Connectionism, and Personal Networks](#20-knowledge-graph-cognition-spreading-activation-connectionism-and-personal-networks)
+    - [21. Curation as Cognition: A Framework for Generative Knowledge Practice](#21-curation-as-cognition-a-framework-for-generative-knowledge-practice)
+  - [Cluster F — Habit, Volition, and Behavior Change](#cluster-f--habit-volition-and-behavior-change)
+    - [22. The Habit–Volition Bridge: From Effortful Intention to Automatic Action](#22-the-habitvolition-bridge-from-effortful-intention-to-automatic-action)
+    - [23. A Unified Framework of Executive Function in Learning](#23-a-unified-framework-of-executive-function-in-learning)
+  - [Cluster G — Pedagogy, Instruction, and Development](#cluster-g--pedagogy-instruction-and-development)
+    - [24. Scaffolding Across Developmental and Instructional Theory](#24-scaffolding-across-developmental-and-instructional-theory)
+    - [25. Constructivism Reconciled: Piaget, Vygotsky, and Connectivism](#25-constructivism-reconciled-piaget-vygotsky-and-connectivism)
+    - [26. Feedback as a Multi-Level System](#26-feedback-as-a-multi-level-system)
+  - [Cluster H — Philosophy, Ethics, and the Examined Life](#cluster-h--philosophy-ethics-and-the-examined-life)
+    - [27. The Examined Life as Cognitive Architecture](#27-the-examined-life-as-cognitive-architecture)
+    - [28. Virtue, Habit, and Character Formation](#28-virtue-habit-and-character-formation)
+    - [29. A Pragmatist Philosophy of Lifelong Learning](#29-a-pragmatist-philosophy-of-lifelong-learning)
+  - [Cluster I — Decision-Making and Adaptive Expertise](#cluster-i--decision-making-and-adaptive-expertise)
+    - [30. Naturalistic Decision-Making Under Uncertainty](#30-naturalistic-decision-making-under-uncertainty)
+    - [31. Complexity, Chaos, and the Emergence of Personal Learning Environments](#31-complexity-chaos-and-the-emergence-of-personal-learning-environments)
+  - [Cluster J — Transfer, Synthesis, and Integration](#cluster-j--transfer-synthesis-and-integration)
+    - [32. Transfer of Learning as Schema Activation Across Contexts](#32-transfer-of-learning-as-schema-activation-across-contexts)
+    - [33. Dual Coding and Multi-Modal Knowledge Representation](#33-dual-coding-and-multi-modal-knowledge-representation)
+- [New Theme Test](#new-theme-test)
+- [V6 Pipeline - Seeding Permanent Notes](#v6-pipeline---seeding-permanent-notes)
+  - [Key Locations for Pipeline Reference](#key-locations-for-pipeline-reference-1)
+  - [TASK](#task)
+    - [Notes to create Seeds for:](#notes-to-create-seeds-for)
+- [V6 Pipeline - Enhancing Existing Permanent Notes](#v6-pipeline---enhancing-existing-permanent-notes)
+  - [Key Locations for Pipeline Reference](#key-locations-for-pipeline-reference-2)
+  - [TASK](#task-1)
+- [Running the Diagram Prompt for Reports](#running-the-diagram-prompt-for-reports)
+  - [TASK](#task-2)
+- [LLM](#llm)
+- [Continueing the Critical Thinking App Project](#continueing-the-critical-thinking-app-project)
+  - [KEY LOCATIONS](#key-locations)
+    - [HIGH QUALITY REFERENCE MATERIALS](#high-quality-reference-materials)
+    - [ADDITIONA USEFUL FILES](#additiona-useful-files)
+    - [TEMPLATE TO CONVERT TO JSON](#template-to-convert-to-json)
+    - [AN ADDITION](#an-addition)
+- [Running the App](#running-the-app)
+  - [Expert Chef / Recipe Connoisseur Prompt Design](#expert-chef--recipe-connoisseur-prompt-design)
+  - [Things the prompt MUST DO:](#things-the-prompt-must-do)
+  - [Details that need to be in each recipe:](#details-that-need-to-be-in-each-recipe)
+- [Designing and Generating advanced Templates for PKB](#designing-and-generating-advanced-templates-for-pkb)
+  - [Reference Files](#reference-files)
+    - [Some Other highly useful References](#some-other-highly-useful-references)
+    - [Some more useful links](#some-more-useful-links)
+- [Generating Worked Examples, and Practice Problems for Critical Thinking](#generating-worked-examples-and-practice-problems-for-critical-thinking)
+  - [CONTEXT/GOAL](#contextgoal)
+  - [TASK](#task-3)
+  - [Key Locations](#key-locations-1)
+    - [Templates \[should-make-worked-examples-from-these\]](#templates-should-make-worked-examples-from-these)
+    - [Additional Reference Files](#additional-reference-files)
+- [Turning Prompt PDF Papers into Markdown Files for Obsidian PKB](#turning-prompt-pdf-papers-into-markdown-files-for-obsidian-pkb)
+
+<!-- TOC END -->
 
 
 
@@ -65,6 +162,9 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 # RUNNING REPORTS THROUGH V6 PIPELINE
+
+
+
 
 
 
@@ -980,11 +1080,7 @@ I want you to run your prompt on the following reports, generate the appropriate
 4. Place the created diagrams just below the YAML Frontmatter of each report, and make sure to properly format the diagrams for optimal display in Obsidian.
 
 
-`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-as-a-self-directed-learning-goal-annotated-critical-analysis-2026-05-13.md`
-
-`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-and-personal-knowledge-management-framework-synthesis-2026-05-13.md`
-`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-and-expertise-development-framework-synthesis-2026-05-13.md`
-`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-metacognition-srl-framework-synthesis-2026-05-13.md`
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\_machine-learning\llm-architecture-overview-and-design-choices-foundational-report-2026-05-21.md`
 
 
 

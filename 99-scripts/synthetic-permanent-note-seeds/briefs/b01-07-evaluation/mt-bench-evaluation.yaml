@@ -1,0 +1,51 @@
+concept: MT-Bench Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- instruction-following-evaluation
+- conversational-ai
+aliases:
+- MT-Bench
+- multi-turn benchmark
+- MT-bench LLM eval
+broader:
+- model-graded-evaluation
+- llm-evaluation-benchmarks
+related:
+- model-graded-evaluation
+- g-eval-framework
+- arena-elo-ranking
+- human-preference-evaluation
+prerequisites:
+- model-graded-evaluation
+- llm-evaluation
+- instruction-following
+confidence: high
+callouts:
+- type: definition
+  title: MT-Bench Evaluation
+  body: 'MT-Bench is a multi-turn conversational evaluation benchmark developed by
+    Zheng et al. (2023) at LMSYS that assesses language models'' instruction-following
+    and reasoning capabilities across 80 multi-turn question sets spanning eight categories:
+    writing, roleplay, extraction, reasoning, math, coding, knowledge, and STEM. Each
+    question set consists of a first-turn question followed by a second-turn follow-up
+    that tests the model''s ability to maintain context, follow complex instructions,
+    and refine or build on its first-turn response. MT-Bench uses GPT-4 as the judge
+    model, with per-category scoring on a 1–10 scale, and results correlate well with
+    Chatbot Arena human preference rankings.'
+- type: key-claim
+  title: Key claim about MT-Bench Evaluation
+  body: MT-Bench's multi-turn structure is its key discriminative advantage over single-turn
+    benchmarks — many models that perform well on single-turn instruction following
+    degrade significantly when required to maintain context across turns or follow
+    complex turn-2 instructions that presuppose the first-turn response, making multi-turn
+    performance a better predictor of real-world assistant utility than single-turn
+    performance.
+- type: warning
+  title: Common pitfall regarding MT-Bench Evaluation
+  body: 'MT-Bench is a relatively small benchmark (80 questions) with GPT-4 as the
+    sole judge, which creates two limitations: the small question set means results
+    can vary substantially between runs (high variance), and using GPT-4 as judge
+    introduces GPT-4''s specific biases (positional bias, verbosity preference, and
+    self-preference relative to OpenAI-family models) that may disadvantage non-OpenAI-family
+    models.'

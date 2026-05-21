@@ -1,0 +1,50 @@
+concept: Reward Model Training
+domain: llm-fine-tuning
+secondary_domains:
+- llm-alignment
+- preference-learning
+- supervised-learning
+aliases:
+- reward modelling
+- RM training
+- preference model training
+broader:
+- reinforcement-learning-from-human-feedback
+- preference-learning
+narrower:
+- bradley-terry-reward-model
+related:
+- rlhf-reinforcement-learning-from-human-feedback
+- direct-preference-optimization
+- reward-hacking-in-rlhf
+- human-preference-evaluation
+prerequisites:
+- supervised-fine-tuning
+- large-language-models
+- human-preference-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Reward Model Training
+  body: Reward model training is the process of fine-tuning a language model on pairwise
+    human preference data to produce a scalar score estimating the human-preference
+    value of any (prompt, completion) pair. Given a dataset of (prompt, completion_A,
+    completion_B, preferred) tuples, the reward model is trained with a Bradley-Terry-style
+    ranking loss to assign higher scalar scores to preferred completions. The resulting
+    model acts as a learned proxy for human preferences and provides the training
+    signal for the RL stage of RLHF. Reward models are typically initialised from
+    the same checkpoint as the SFT policy or a close variant to ensure domain overlap.
+- type: key-claim
+  title: Key claim about Reward Model Training
+  body: The reward model is the bottleneck of RLHF quality — it must generalise from
+    a finite preference dataset to the full output distribution of the policy, and
+    any systematic bias or coverage gap in the preference data will be amplified by
+    the RL optimisation process; empirically, reward model accuracy on held-out preferences
+    is only weakly predictive of downstream policy quality because the RL policy will
+    find exploits in the reward model that the validation set does not cover.
+- type: warning
+  title: Common pitfall regarding Reward Model Training
+  body: Reward models suffer from distribution shift as the RL policy moves away from
+    the SFT initialisation — the reward model was trained on outputs from the early-stage
+    policy and becomes unreliable as the policy evolves, a problem partially mitigated
+    by online reward model updates but never fully solved in the offline RM paradigm.

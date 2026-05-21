@@ -1,0 +1,52 @@
+concept: Emergent Abilities in LLMs
+domain: llm-theory
+secondary_domains:
+- llm-theory
+- ai-safety
+- empirical-ml
+aliases:
+- emergent capabilities
+- LLM emergence
+- sharp capability transitions
+- emergent skills
+broader:
+- llm-theory
+- llm-scaling
+related:
+- large-language-model-scaling-laws
+- phase-transitions-in-llms
+- grokking-phenomenon
+- mechanistic-interpretability
+prerequisites:
+- large-language-models
+- scaling-laws
+- few-shot-learning
+confidence: high
+callouts:
+- type: definition
+  title: Emergent Abilities in LLMs
+  body: 'Emergent abilities in LLMs are capabilities that appear to be absent in smaller
+    models and to arise sharply (without gradual transition) as model scale increases,
+    first documented systematically by Wei et al. (2022) in the BIG-Bench benchmark.
+    Examples include multi-step arithmetic, chain-of-thought reasoning, analogical
+    reasoning, and certain few-shot learning tasks — skills that appear near-random
+    below a scale threshold and then jump sharply to above-random performance. Emergence
+    as a phenomenon is debated: Schaeffer et al. (2023) argued that emergence is partly
+    an artefact of nonlinear metric choice, appearing smooth on continuous metrics
+    but sharp on pass/fail benchmarks.'
+- type: key-claim
+  title: Key claim about Emergent Abilities in LLMs
+  body: The emergence vs. smooth-scaling debate reveals a fundamental measurement
+    challenge in evaluating LLM capabilities — whether a capability appears to emerge
+    sharply or to improve smoothly depends critically on the evaluation metric chosen;
+    pass/fail metrics produce sharp apparent transitions from smooth underlying capability
+    curves, which means that "emergent" abilities may reflect metric choice as much
+    as genuine discontinuous capability acquisition.
+- type: warning
+  title: Common pitfall regarding Emergent Abilities in LLMs
+  body: Emergence creates safety uncertainty that scaling laws cannot resolve — if
+    capabilities genuinely emerge discontinuously at scale thresholds, a model trained
+    just below an emergence threshold and scaled incrementally may acquire dangerous
+    capabilities without the gradual safety monitoring that continuous capability
+    growth would allow; this possibility motivates careful safety evaluation at each
+    scale increase rather than assuming linear extrapolation of safety properties.

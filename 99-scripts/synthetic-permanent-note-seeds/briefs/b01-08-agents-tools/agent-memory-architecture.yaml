@@ -1,0 +1,62 @@
+concept: Agent Memory Architecture
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- knowledge-management
+- cognitive-architecture
+aliases:
+- agent memory systems
+- LLM agent memory
+- memory-augmented agents
+- agent state management
+broader:
+- llm-agents
+- memory-augmented-llms
+narrower:
+- episodic-memory-in-agents
+- semantic-memory-in-agents
+- working-memory-simulation-in-llms
+related:
+- episodic-memory-in-agents
+- semantic-memory-in-agents
+- working-memory-simulation-in-llms
+- retrieval-as-external-memory
+- task-planning-with-llms
+prerequisites:
+- llm-agents
+- retrieval-augmented-generation
+- vector-databases
+- cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Agent Memory Architecture
+  body: 'Agent memory architecture refers to the structured organisation of memory
+    systems in LLM-based agents, typically drawing on the cognitive science distinction
+    between working memory (in-context, limited capacity), episodic memory (specific
+    past experiences, retrievable by similarity), semantic memory (factual knowledge,
+    structured databases), and procedural memory (skills and how-to knowledge). In
+    practice, agent memory architectures implement these via: the context window (working
+    memory), vector databases over past interactions (episodic memory), structured
+    knowledge bases or RAG corpora (semantic memory), and fine-tuned capabilities
+    or reusable prompt templates (procedural memory). The architecture determines
+    what information the agent can access and how, directly impacting both performance
+    and memory coherence.'
+- type: key-claim
+  title: Key claim about Agent Memory Architecture
+  body: The primary failure mode of long-running agents is memory incoherence — accumulation
+    of conflicting, outdated, or inconsistent information across the agent's memory
+    systems that causes increasingly poor decisions as the interaction history grows;
+    effective agent memory architectures must include memory consolidation (summarising
+    and compressing old information), memory prioritisation (weighting relevant over
+    irrelevant memories), and memory validation (checking retrieved memories for consistency
+    with current context).
+- type: warning
+  title: Common pitfall regarding Agent Memory Architecture
+  body: Agent memory architectures that rely on embedding-based retrieval for episodic
+    memory are susceptible to semantic similarity retrieval failures — two experiences
+    can be semantically similar in their surface description but contextually irrelevant,
+    causing the agent to retrieve misleading past experiences when similar events
+    occur in different contexts; augmenting embedding retrieval with temporal and
+    contextual metadata improves retrieval precision at the cost of increased architecture
+    complexity.

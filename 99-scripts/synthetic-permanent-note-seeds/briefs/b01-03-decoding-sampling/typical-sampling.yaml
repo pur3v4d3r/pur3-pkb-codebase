@@ -1,0 +1,50 @@
+concept: Typical Sampling
+domain: llm-inference
+secondary_domains:
+- llm-inference
+- information-theory
+- generative-models
+aliases:
+- locally typical sampling
+- entropy-based sampling
+- typicality sampling
+broader:
+- llm-decoding
+- sampling-methods
+related:
+- top-p-nucleus-sampling
+- top-k-sampling
+- temperature-sampling
+- min-p-sampling
+prerequisites:
+- language-model-inference
+- information-entropy
+- probability-distributions
+confidence: high
+callouts:
+- type: definition
+  title: Typical Sampling
+  body: Typical sampling is a decoding method proposed by Meister et al. (2023) that
+    selects tokens whose information content is closest to the expected information
+    content (entropy) of the model's next-token distribution, rather than selecting
+    the highest-probability tokens. At each generation step, tokens are ranked by
+    how close their log-probability is to the negative entropy of the distribution
+    (the "typical" amount of information), and the set of typical tokens is sampled
+    from after renormalisation. The method is motivated by information-theoretic arguments
+    that a well-generated sequence should contain tokens whose information content
+    matches the expected entropy of the distribution throughout the sequence.
+- type: key-claim
+  title: Key claim about Typical Sampling
+  body: Typical sampling produces outputs with more consistent local coherence than
+    top-p sampling on tasks requiring narrative consistency, because it explicitly
+    avoids both the safest tokens (which produce repetitive, generic text) and the
+    most surprising tokens (which produce jarring non-sequiturs), keeping generation
+    within the information-theoretically typical region of the distribution that corresponds
+    to natural language patterns.
+- type: warning
+  title: Common pitfall regarding Typical Sampling
+  body: Typical sampling's advantage over top-p is modest in practice and task-dependent
+    — empirical comparisons show mixed results across different generation tasks,
+    and the information-theoretic motivation, while elegant, does not straightforwardly
+    predict which tasks benefit from typical sampling; it is a research-grade technique
+    rather than a production default.

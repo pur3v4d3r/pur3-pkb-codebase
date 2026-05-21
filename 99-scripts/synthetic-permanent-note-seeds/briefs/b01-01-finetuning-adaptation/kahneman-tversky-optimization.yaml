@@ -1,0 +1,50 @@
+concept: Kahneman-Tversky Optimization
+domain: llm-fine-tuning
+secondary_domains:
+- ai-alignment
+- preference-learning
+- behavioural-economics
+aliases:
+- KTO
+- prospect-theory-based alignment
+- binary preference optimisation
+broader:
+- llm-alignment
+- preference-learning
+related:
+- direct-preference-optimization
+- rlhf-reinforcement-learning-from-human-feedback
+- group-relative-policy-optimization
+- rejection-sampling-fine-tuning
+prerequisites:
+- direct-preference-optimization
+- prospect-theory
+- supervised-fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Kahneman-Tversky Optimization
+  body: Kahneman-Tversky Optimization (KTO) is an alignment method that replaces the
+    pairwise preference objective of DPO with a binary desirability signal drawn from
+    prospect theory, the psychological model of human decision-making under uncertainty
+    developed by Kahneman and Tversky. Instead of requiring pairs of (preferred, rejected)
+    completions, KTO trains on (prompt, completion, desirable/undesirable) triples
+    with separate loss terms for desirable and undesirable outputs weighted by asymmetric
+    coefficients that mirror the loss-aversion asymmetry observed in human preference
+    psychology. This eliminates the pairing requirement, enabling alignment from any
+    labelled dataset.
+- type: key-claim
+  title: Key claim about Kahneman-Tversky Optimization
+  body: KTO's prospect-theory loss weighting — which penalises undesirable outputs
+    more heavily than it rewards desirable ones, mirroring human loss aversion — produces
+    alignment that is more robust to reward hacking than DPO in regimes with high
+    proportions of undesirable training examples, while also enabling use of unpaired
+    preference data (individual quality labels rather than comparative pairs), which
+    is far more abundant in practice.
+- type: warning
+  title: Common pitfall regarding Kahneman-Tversky Optimization
+  body: KTO's asymmetric loss introduces a hyperparameter sensitivity not present
+    in DPO — the relative weighting of desirable versus undesirable losses is not
+    derived from first principles and requires empirical tuning that varies by model
+    size and dataset composition; it is also less theoretically well-grounded than
+    DPO, making it harder to diagnose when training behaves unexpectedly.

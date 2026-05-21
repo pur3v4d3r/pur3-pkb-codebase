@@ -1,0 +1,54 @@
+concept: Activation Patching
+domain: llm-theory
+secondary_domains:
+- mechanistic-interpretability
+- causal-inference
+- ai-interpretability
+aliases:
+- causal tracing
+- activation intervention
+- causal patching
+- path patching
+broader:
+- mechanistic-interpretability
+narrower:
+- path-patching
+- iterative-activation-patching
+related:
+- circuit-analysis-in-transformers
+- mechanistic-interpretability
+- superposition-hypothesis
+prerequisites:
+- mechanistic-interpretability
+- causal-inference
+- transformer-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Activation Patching
+  body: Activation patching (also called causal tracing or causal mediation analysis)
+    is a mechanistic interpretability technique that identifies which model components
+    are causally responsible for a specific output by interventionally replacing activation
+    values from one forward pass into another. The technique runs a clean forward
+    pass (correct behaviour) and a corrupted forward pass (incorrect behaviour created
+    by altering the input), then systematically patches individual components' activations
+    from the clean run into the corrupted run, measuring how much each patch restores
+    the correct output; high restoration upon patching indicates the component is
+    causally important. Used by Meng et al. (2022) in ROME to identify factual recall
+    mechanisms in GPT-J.
+- type: key-claim
+  title: Key claim about Activation Patching
+  body: Activation patching provides causal evidence about model mechanisms that purely
+    correlational probing techniques cannot — while probing identifies where information
+    is encoded, patching demonstrates that the information at that location causally
+    influences the output, distinguishing incidental encoding (information is present
+    but not used for this computation) from functionally relevant encoding (information
+    is actively used to produce the output).
+- type: warning
+  title: Common pitfall regarding Activation Patching
+  body: Activation patching results are sensitive to the choice of corruption mechanism
+    — the corrupted baseline must produce meaningfully different behaviour to make
+    the patching comparison informative, but overly aggressive corruption (destroying
+    all information) can cause spurious attributions by creating activations that
+    fall far outside the distribution on which the network was trained; the choice
+    of corruption baseline should be theoretically motivated for each analysis task.

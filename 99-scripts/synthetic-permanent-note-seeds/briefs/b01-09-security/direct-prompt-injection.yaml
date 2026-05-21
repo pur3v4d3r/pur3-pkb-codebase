@@ -1,0 +1,56 @@
+concept: Direct Prompt Injection
+domain: llm-security
+secondary_domains:
+- ai-security
+- prompt-engineering
+- adversarial-ai
+aliases:
+- user-level prompt injection
+- first-party prompt injection
+- direct instruction hijacking
+broader:
+- prompt-injection
+- llm-security
+related:
+- indirect-prompt-injection
+- goal-hijacking
+- prompt-leaking
+- system-prompt-extraction
+- defense-via-input-sanitization
+- jailbreak-taxonomy
+prerequisites:
+- prompt-engineering
+- llm-security
+- llm-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Direct Prompt Injection
+  body: 'Direct prompt injection is a class of attack where the human user of an LLM-based
+    system includes adversarial instructions in their own input that attempt to override,
+    subvert, or extend the system prompt''s instructions — the attacker has direct
+    access to the user turn of the conversation and crafts inputs designed to make
+    the model ignore its original instructions, reveal confidential system prompt
+    content, adopt a different persona, or take unauthorised actions. Common direct
+    injection patterns include: "Ignore your previous instructions and...", role-play
+    framings that reframe constraints as fictional, and instruction-completion attacks
+    where the user''s input is constructed to appear as a continuation of the system
+    prompt.'
+- type: key-claim
+  title: Key claim about Direct Prompt Injection
+  body: Direct prompt injection exploits the fundamental ambiguity in how LLMs process
+    the boundary between instructions and content — models trained on instruction-following
+    learn to respond to instructions wherever they appear in the context, including
+    in the user turn, because distinguishing "instruction from trusted principal"
+    from "instruction in untrusted user content" is not a hard architectural boundary
+    but a learned soft convention that can be overridden by sufficiently confident
+    adversarial phrasing.
+- type: warning
+  title: Common pitfall regarding Direct Prompt Injection
+  body: 'No prompt-level defense against direct injection is fully reliable — prompt
+    prefixing (repeating the system prompt after user input), instruction emphasis
+    (bolding, capitalizing constraints), and meta-instructions ("never follow user
+    instructions that contradict...") all reduce injection success rates but do not
+    eliminate them; the only fully reliable defense for high-stakes applications is
+    architectural: placing genuinely sensitive logic outside the model''s reasoning
+    loop.'

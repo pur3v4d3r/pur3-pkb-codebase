@@ -1,0 +1,49 @@
+concept: XML Structured Prompting
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- structured-data
+- llm-interaction
+aliases:
+- XML prompt format
+- XML-tagged prompting
+- XML output structuring
+broader:
+- structured-output-enforcement
+- prompt-engineering
+related:
+- json-mode-prompting
+- schema-following-prompts
+- markdown-output-prompting
+- grammar-constrained-decoding
+prerequisites:
+- prompt-engineering
+- xml-format
+confidence: high
+callouts:
+- type: definition
+  title: XML Structured Prompting
+  body: 'XML structured prompting is a prompt engineering pattern that uses XML-style
+    tags to delimit sections of both the prompt input and the expected output, leveraging
+    the models'' training on XML-tagged content (code, HTML, data formats) to produce
+    reliably structured responses. In the input, XML tags segment prompt components:
+    `<instructions>`, `<context>`, `<examples>`, `<query>`. In the output, XML tags
+    structure response components: `<reasoning>`, `<answer>`, `<confidence>`. Anthropic
+    specifically recommends XML-tagged prompting for Claude models and provides guidance
+    on tag naming conventions. The pattern is particularly effective for multi-section
+    outputs that downstream parsers need to extract reliably.'
+- type: key-claim
+  title: Key claim about XML Structured Prompting
+  body: XML structured prompting provides better output demarcation than markdown
+    for programmatic extraction because XML tags are unambiguous syntactic delimiters
+    that do not occur naturally in prose, making regex or parser-based extraction
+    of tagged sections reliable; markdown headers are more ambiguous and can occur
+    in quoted content, while XML tags in a specified schema are extractable without
+    false positives.
+- type: warning
+  title: Common pitfall regarding XML Structured Prompting
+  body: XML structured prompting creates a dependency on the model consistently producing
+    the specified tag structure — while this is reliable for short, well-defined outputs,
+    the model may omit, misspell, or partially complete XML tags in long outputs or
+    complex multi-step tasks, causing parsing failures; including explicit validation
+    of required tags in post-processing pipelines is necessary for production robustness.

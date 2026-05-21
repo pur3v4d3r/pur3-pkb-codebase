@@ -1,0 +1,55 @@
+concept: Indirect Prompt Injection
+domain: llm-security
+secondary_domains:
+- ai-security
+- llm-agents
+- adversarial-ai
+aliases:
+- environmental injection
+- third-party prompt injection
+- retrieval-based injection
+- web injection
+broader:
+- prompt-injection
+- llm-security
+related:
+- direct-prompt-injection
+- goal-hijacking
+- web-search-augmented-llms
+- browser-automation-agents
+- defense-via-input-sanitization
+- llm-firewall-patterns
+prerequisites:
+- tool-augmented-language-models
+- prompt-injection
+- llm-agents
+- llm-security
+confidence: high
+callouts:
+- type: definition
+  title: Indirect Prompt Injection
+  body: Indirect prompt injection is a class of attack where adversarial instructions
+    are embedded in external content — websites, documents, database entries, emails,
+    API responses, tool outputs — that an LLM-based agent reads and processes as part
+    of its task. Unlike direct injection (where the attacker is the user), indirect
+    injection requires no direct access to the model interaction; the attacker controls
+    content in the model's environment and crafts it to contain hidden instructions
+    that hijack the agent's behaviour when retrieved. An agent browsing a malicious
+    web page, summarising an attacker-controlled document, or processing a compromised
+    database record is exposed to indirect injection.
+- type: key-claim
+  title: Key claim about Indirect Prompt Injection
+  body: 'Indirect prompt injection is the most critical security threat for deployed
+    LLM agents because it scales with agent capability — the more tools, data sources,
+    and external environments an agent can access, the larger the attack surface for
+    indirect injection; this creates a perverse relationship between agent capability
+    and agent security: every new tool and data source added to an agent''s repertoire
+    is a new injection vector.'
+- type: warning
+  title: Common pitfall regarding Indirect Prompt Injection
+  body: Indirect prompt injection attacks are particularly dangerous when agents have
+    both read access to external content and write/action capabilities — an attacker
+    who embeds injection instructions in a document the agent reads can cause the
+    agent to use its write capabilities against the user's interests (exfiltrating
+    data, modifying records, sending messages), creating an exploitable attack chain
+    from a single poisoned input document.

@@ -1,0 +1,48 @@
+concept: Audio Language Model Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- speech-processing
+- multimodal-ai
+aliases:
+- audio LM prompting
+- speech-language model prompting
+- audio-text prompting
+broader:
+- multimodal-ai
+- vision-language-model-prompting
+related:
+- vision-language-model-prompting
+- multimodal-few-shot-prompting
+- speech-recognition
+prerequisites:
+- speech-language-models
+- prompt-engineering
+- audio-processing
+confidence: high
+callouts:
+- type: definition
+  title: Audio Language Model Prompting
+  body: Audio language model prompting refers to the techniques for structuring inputs
+    and eliciting outputs from models that process audio signals alongside text, such
+    as Gemini 1.5's audio capabilities, AudioPaLM, and emerging speech-native LLMs.
+    Unlike text transcription pipelines (ASR → text LLM), audio LM prompting allows
+    the model to reason about prosody, tone, speaker identity, environmental context,
+    and acoustic events in addition to the linguistic content, enabling richer audio
+    understanding tasks such as sentiment analysis from speech, speaker diarisation,
+    audio scene understanding, and emotion recognition from voice.
+- type: key-claim
+  title: Key claim about Audio Language Model Prompting
+  body: The key advantage of audio language model prompting over cascaded ASR+text
+    pipelines is the preservation of supralinguistic features — prosody, speaking
+    rate, tone, and acoustic environment encode information that is lost in transcription,
+    and audio-native models can leverage this information for tasks like sarcasm detection,
+    clinical speech assessment, and call centre sentiment analysis that are significantly
+    harder without the audio signal.
+- type: warning
+  title: Common pitfall regarding Audio Language Model Prompting
+  body: Audio language model capabilities are less mature and less uniformly available
+    than vision capabilities in frontier models — prompting conventions, failure modes,
+    and effective prompt structures for audio are less well-studied than for image
+    prompting, and available models show high variability in which audio understanding
+    tasks they handle reliably versus those where they hallucinate confidently.

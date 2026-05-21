@@ -1,0 +1,55 @@
+concept: Harmlessness-Helpfulness Tradeoff
+domain: ai-alignment
+secondary_domains:
+- ai-alignment
+- llm-safety
+- ai-ethics
+aliases:
+- safety-utility tradeoff
+- HH tradeoff
+- alignment tax
+- helpful-harmless tension
+broader:
+- llm-alignment
+- ai-ethics
+narrower:
+- overrefusal-problem
+related:
+- constitutional-ai
+- overrefusal-problem
+- sycophancy-mitigation
+- reinforcement-learning-from-human-feedback
+- reward-hacking-in-rlhf
+prerequisites:
+- llm-alignment
+- reinforcement-learning-from-human-feedback
+- ai-safety
+confidence: high
+callouts:
+- type: definition
+  title: Harmlessness-Helpfulness Tradeoff
+  body: The harmlessness-helpfulness tradeoff describes the empirical tension observed
+    in RLHF-trained language models between the competing objectives of avoiding harmful
+    outputs and providing maximally useful assistance. Training a model to be harmless
+    — to refuse, hedge, or disclaim on sensitive topics — often reduces helpfulness
+    for legitimate users who have benign reasons to query those topics, while training
+    for helpfulness without harmlessness constraints produces models that assist with
+    harmful requests. The tradeoff is not fundamental in the sense that it cannot
+    be escaped with better training methods, but is a practical challenge in specifying
+    and optimising for multiple competing objectives simultaneously.
+- type: key-claim
+  title: Key claim about Harmlessness-Helpfulness Tradeoff
+  body: The harmlessness-helpfulness tradeoff is primarily a calibration problem rather
+    than an inherent capability limitation — the tension arises from imprecise safety
+    training that uses coarse request-level classifiers rather than context-sensitive
+    reasoning, and models trained with more nuanced safety specifications (e.g., constitutional
+    AI with explicit reasoning) show substantially reduced tradeoff compared to models
+    trained with simple refusal classifiers.
+- type: warning
+  title: Common pitfall regarding Harmlessness-Helpfulness Tradeoff
+  body: Framing the tradeoff as a fixed constraint to be managed rather than a calibration
+    problem to be solved risks normalising overrefusal as an acceptable alignment
+    cost — both dimensions of the tradeoff (harmlessness and helpfulness) are genuine
+    human values, and an alignment approach that treats harmlessness as the primary
+    objective while treating helpfulness as a secondary consideration is not optimally
+    aligned with human welfare.

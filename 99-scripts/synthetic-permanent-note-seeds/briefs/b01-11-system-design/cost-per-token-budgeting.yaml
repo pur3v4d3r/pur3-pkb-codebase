@@ -1,0 +1,55 @@
+concept: Cost-Per-Token Budgeting
+domain: llm-systems
+secondary_domains:
+- llm-systems
+- cost-management
+- mlops
+aliases:
+- token cost management
+- LLM cost optimisation
+- inference cost budgeting
+- per-token cost control
+broader:
+- llm-systems
+- cost-management
+related:
+- model-routing-strategies
+- latency-quality-tradeoff
+- prompt-caching-strategies
+- batch-inference-optimization
+- output-length-control
+prerequisites:
+- llm-inference
+- cost-management
+- system-design
+confidence: high
+callouts:
+- type: definition
+  title: Cost-Per-Token Budgeting
+  body: 'Cost-per-token budgeting is the practice of explicitly managing the token-denominated
+    costs of LLM-powered systems — both input tokens (context length, system prompt
+    size, retrieved documents) and output tokens (response length) — within defined
+    per-request, per-user, or per-day budget constraints. Since LLM API pricing is
+    typically linear in tokens (input and output priced separately), cost-per-token
+    budgeting involves: auditing token usage across all prompt components, identifying
+    high-cost low-value inputs (overly long system prompts, excessive retrieved context,
+    redundant few-shot examples), implementing dynamic context window management to
+    fit within token budgets, and selecting model tiers based on quality requirements
+    versus cost constraints.'
+- type: key-claim
+  title: Key claim about Cost-Per-Token Budgeting
+  body: System prompt and context token costs are frequently the dominant cost driver
+    in production LLM systems and the most underoptimised — while output token optimisation
+    (limiting response length) is obvious, input token costs from unnecessarily long
+    system prompts, retrieved context that is not selectively filtered, and redundant
+    few-shot examples can account for 50–90% of total token costs in context-heavy
+    applications; rigorous token attribution analysis reveals that most production
+    systems have significant cost reduction opportunities in input token management.
+- type: warning
+  title: Common pitfall regarding Cost-Per-Token Budgeting
+  body: Aggressive cost-per-token budgeting that reduces context quality degrades
+    output quality in ways that are difficult to measure without comprehensive evaluation
+    — removing retrieved context passages to save tokens may save cost while increasing
+    hallucination rate; the cost-quality tradeoff must be quantified, not assumed,
+    for any significant context reduction, and cost savings should be evaluated against
+    downstream quality metrics rather than token counts alone.

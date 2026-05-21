@@ -1,0 +1,53 @@
+concept: G-Eval Framework
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- automated-assessment
+- nlp-research
+aliases:
+- G-Eval
+- chain-of-thought evaluation
+- LLM chain-of-thought judge
+broader:
+- model-graded-evaluation
+- llm-evaluation
+related:
+- model-graded-evaluation
+- human-preference-evaluation
+- mt-bench-evaluation
+- self-evaluation-bias
+prerequisites:
+- model-graded-evaluation
+- chain-of-thought-prompting
+- llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: G-Eval Framework
+  body: G-Eval is a framework for LLM-based evaluation of natural language generation
+    (NLG) tasks that uses chain-of-thought to decompose the evaluation into explicit
+    scoring steps before producing a final score, improving correlation with human
+    judgements compared to direct rating. In G-Eval, the evaluating model is given
+    a task definition, evaluation criteria, and one or more candidate texts; it first
+    generates evaluation steps based on the criteria, then produces a probability-weighted
+    score by computing the probability the model assigns to each score token (1–5)
+    rather than sampling a single score, reducing the high variance of direct sampling-based
+    evaluation. G-Eval was proposed by Liu et al. (2023) and showed stronger human
+    correlation than existing automated metrics (BLEU, ROUGE, BERTScore) on summarisation
+    and dialogue tasks.
+- type: key-claim
+  title: Key claim about G-Eval Framework
+  body: G-Eval's probability weighting of score tokens addresses a fundamental variance
+    problem in sampled LLM judge outputs — sampled scores from LLM judges have high
+    variance because they are single samples from a complex distribution, while G-Eval's
+    expected value over the scoring distribution produces a more stable and consistent
+    numerical score that correlates better with human assessments; the CoT step further
+    reduces variance by providing intermediate reasoning that anchors the score.
+- type: warning
+  title: Common pitfall regarding G-Eval Framework
+  body: G-Eval's correlation with human judgements is task-dependent and does not
+    generalise uniformly — it shows stronger correlation with human judgements on
+    summarisation and coherence dimensions than on factuality and grounding, precisely
+    the dimensions where accurate evaluation is most critical for safety; using G-Eval
+    as a proxy for human evaluation on factuality-sensitive tasks may provide false
+    confidence in output quality.

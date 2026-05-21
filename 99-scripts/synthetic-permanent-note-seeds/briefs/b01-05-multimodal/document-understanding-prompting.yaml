@@ -1,0 +1,55 @@
+concept: Document Understanding Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- document-ai
+- computer-vision
+aliases:
+- document VLM prompting
+- visually rich document understanding
+- layout-aware prompting
+broader:
+- vision-language-model-prompting
+- multimodal-ai
+narrower:
+- invoice-extraction-prompting
+- form-understanding-prompting
+related:
+- vision-language-model-prompting
+- chart-and-table-prompting
+- structured-output-enforcement
+- image-captioning-prompts
+prerequisites:
+- vision-language-models
+- document-ai
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Document Understanding Prompting
+  body: Document understanding prompting refers to the prompt engineering techniques
+    for vision-language models applied to visually rich documents — PDFs, scanned
+    forms, invoices, receipts, contracts, and academic papers — where the document
+    layout, typography, tables, and visual structure carry semantic meaning that must
+    be interpreted alongside the text content. Effective document understanding prompts
+    must instruct the model on how to handle multi-column layouts, how to interpret
+    table headers and cells, how to extract structured data from free-form layouts,
+    and how to reconcile conflicting information in document headers versus body text.
+    Tasks include information extraction, document classification, question answering
+    over documents, and form completion.
+- type: key-claim
+  title: Key claim about Document Understanding Prompting
+  body: Document understanding is one of the most practically valuable VLM applications
+    because the volume of unstructured document data in enterprises dwarfs structured
+    data, yet it is also one of the hardest prompt engineering challenges because
+    documents combine multiple modalities (text, layout, tables, images, logos) in
+    patterns that require integrated understanding; the most effective document understanding
+    prompts provide explicit instructions about layout interpretation rather than
+    assuming the model will infer these from context.
+- type: warning
+  title: Common pitfall regarding Document Understanding Prompting
+  body: Document understanding VLMs are particularly prone to hallucination when document
+    text is partially illegible, when small fonts or compressed images reduce text
+    resolution, or when documents contain form fields that are partially filled or
+    have complex conditional logic — the model may infer plausible field values rather
+    than acknowledging that the content is unclear.

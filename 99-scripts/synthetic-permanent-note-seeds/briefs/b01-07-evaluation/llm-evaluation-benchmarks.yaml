@@ -1,0 +1,56 @@
+concept: LLM Evaluation Benchmarks
+domain: llm-evaluation
+secondary_domains:
+- ml-benchmarking
+- nlp-evaluation
+- ai-safety
+aliases:
+- LLM benchmarks
+- language model evaluation suites
+- NLP benchmarks for LLMs
+broader:
+- llm-evaluation
+- ml-benchmarking
+narrower:
+- mmlu-benchmark
+- hellaswag
+- truthfulqa
+- big-bench
+related:
+- model-graded-evaluation
+- human-preference-evaluation
+- mt-bench-evaluation
+- arena-elo-ranking
+- promptbench-robustness
+prerequisites:
+- large-language-models
+- machine-learning-evaluation
+- natural-language-processing
+confidence: high
+callouts:
+- type: definition
+  title: LLM Evaluation Benchmarks
+  body: LLM evaluation benchmarks are standardised datasets, tasks, and scoring protocols
+    designed to measure specific capabilities of large language models — including
+    reasoning (MMLU, BIG-Bench), commonsense knowledge (HellaSwag, WinoGrande), factual
+    accuracy (TruthfulQA, Natural Questions), coding ability (HumanEval, SWE-Bench),
+    mathematical reasoning (MATH, GSM8K), instruction following (IFEval), and safety
+    (HarmBench, BeaverTails). Benchmarks provide reproducible, comparable measurements
+    that track capability progress across model versions and facilitate research comparisons,
+    though their relationship to real-world utility is imperfect and contested.
+- type: key-claim
+  title: Key claim about LLM Evaluation Benchmarks
+  body: Benchmark saturation is an accelerating problem in LLM evaluation — as models
+    improve, state-of-the-art performance on widely used benchmarks approaches ceiling
+    (100%), making discriminative comparison impossible; MMLU, which distinguishes
+    well between models at the 50–85% accuracy range, becomes uninformative as frontier
+    models exceed 90%, requiring continuous creation of harder benchmarks that stay
+    ahead of model capability, raising the risk of benchmark overfitting in the creation
+    process itself.
+- type: warning
+  title: Common pitfall regarding LLM Evaluation Benchmarks
+  body: LLM benchmark scores are contamination-prone — models are trained on web-crawled
+    text that may include benchmark questions and answers, artificially inflating
+    scores beyond what would be achieved on genuinely unseen test data; benchmark
+    contamination is difficult to detect reliably and may systematically bias leaderboard
+    rankings, particularly for benchmarks released before major training runs.

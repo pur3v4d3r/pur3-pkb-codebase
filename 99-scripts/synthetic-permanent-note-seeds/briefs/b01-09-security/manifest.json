@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-09-security",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-09-security.md",
+    "notes": "LLM security and prompt injection concepts covering direct and indirect injection,\njailbreak taxonomy, adversarial suffixes, many-shot jailbreaking, system prompt\nextraction, goal hijacking, prompt leaking, input sanitization defenses, and firewall patterns."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-09-security",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-09-security"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Direct Prompt Injection",
+      "kebab": "direct-prompt-injection",
+      "brief_path": "briefs/b01-09-security/direct-prompt-injection.yaml",
+      "expected_seed_filename": "direct-prompt-injection-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Indirect Prompt Injection",
+      "kebab": "indirect-prompt-injection",
+      "brief_path": "briefs/b01-09-security/indirect-prompt-injection.yaml",
+      "expected_seed_filename": "indirect-prompt-injection-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Jailbreak Taxonomy",
+      "kebab": "jailbreak-taxonomy",
+      "brief_path": "briefs/b01-09-security/jailbreak-taxonomy.yaml",
+      "expected_seed_filename": "jailbreak-taxonomy-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Adversarial Suffix Attacks",
+      "kebab": "adversarial-suffix-attacks",
+      "brief_path": "briefs/b01-09-security/adversarial-suffix-attacks.yaml",
+      "expected_seed_filename": "adversarial-suffix-attacks-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Many-Shot Jailbreaking",
+      "kebab": "many-shot-jailbreaking",
+      "brief_path": "briefs/b01-09-security/many-shot-jailbreaking.yaml",
+      "expected_seed_filename": "many-shot-jailbreaking-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "System Prompt Extraction",
+      "kebab": "system-prompt-extraction",
+      "brief_path": "briefs/b01-09-security/system-prompt-extraction.yaml",
+      "expected_seed_filename": "system-prompt-extraction-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Goal Hijacking",
+      "kebab": "goal-hijacking",
+      "brief_path": "briefs/b01-09-security/goal-hijacking.yaml",
+      "expected_seed_filename": "goal-hijacking-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Prompt Leaking",
+      "kebab": "prompt-leaking",
+      "brief_path": "briefs/b01-09-security/prompt-leaking.yaml",
+      "expected_seed_filename": "prompt-leaking-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Defense via Input Sanitisation",
+      "kebab": "defense-via-input-sanitisation",
+      "brief_path": "briefs/b01-09-security/defense-via-input-sanitisation.yaml",
+      "expected_seed_filename": "defense-via-input-sanitisation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "LLM Firewall Patterns",
+      "kebab": "llm-firewall-patterns",
+      "brief_path": "briefs/b01-09-security/llm-firewall-patterns.yaml",
+      "expected_seed_filename": "llm-firewall-patterns-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

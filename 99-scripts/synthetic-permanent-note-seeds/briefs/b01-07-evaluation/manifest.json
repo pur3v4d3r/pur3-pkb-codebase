@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b01-07-evaluation",
+    "date": "2026-05-21",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-21-b01-07-evaluation.md",
+    "notes": "LLM evaluation concepts covering benchmarks, model-graded evals, human preference\nevaluation, G-Eval, MT-Bench, Arena Elo, PromptBench, faithfulness vs factuality,\nand self-evaluation bias."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b01-07-evaluation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-21-b01-07-evaluation"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "LLM Evaluation Benchmarks",
+      "kebab": "llm-evaluation-benchmarks",
+      "brief_path": "briefs/b01-07-evaluation/llm-evaluation-benchmarks.yaml",
+      "expected_seed_filename": "llm-evaluation-benchmarks-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Model-Graded Evaluation",
+      "kebab": "model-graded-evaluation",
+      "brief_path": "briefs/b01-07-evaluation/model-graded-evaluation.yaml",
+      "expected_seed_filename": "model-graded-evaluation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Human Preference Evaluation",
+      "kebab": "human-preference-evaluation",
+      "brief_path": "briefs/b01-07-evaluation/human-preference-evaluation.yaml",
+      "expected_seed_filename": "human-preference-evaluation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Evals as a Product",
+      "kebab": "evals-as-a-product",
+      "brief_path": "briefs/b01-07-evaluation/evals-as-a-product.yaml",
+      "expected_seed_filename": "evals-as-a-product-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "G-Eval Framework",
+      "kebab": "g-eval-framework",
+      "brief_path": "briefs/b01-07-evaluation/g-eval-framework.yaml",
+      "expected_seed_filename": "g-eval-framework-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "MT-Bench Evaluation",
+      "kebab": "mt-bench-evaluation",
+      "brief_path": "briefs/b01-07-evaluation/mt-bench-evaluation.yaml",
+      "expected_seed_filename": "mt-bench-evaluation-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Arena Elo Ranking",
+      "kebab": "arena-elo-ranking",
+      "brief_path": "briefs/b01-07-evaluation/arena-elo-ranking.yaml",
+      "expected_seed_filename": "arena-elo-ranking-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "PromptBench Robustness",
+      "kebab": "promptbench-robustness",
+      "brief_path": "briefs/b01-07-evaluation/promptbench-robustness.yaml",
+      "expected_seed_filename": "promptbench-robustness-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Faithfulness vs Factuality",
+      "kebab": "faithfulness-vs-factuality",
+      "brief_path": "briefs/b01-07-evaluation/faithfulness-vs-factuality.yaml",
+      "expected_seed_filename": "faithfulness-vs-factuality-synthetic-seed-2026-05-21_extracted.json"
+    },
+    {
+      "term": "Self-Evaluation Bias",
+      "kebab": "self-evaluation-bias",
+      "brief_path": "briefs/b01-07-evaluation/self-evaluation-bias.yaml",
+      "expected_seed_filename": "self-evaluation-bias-synthetic-seed-2026-05-21_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

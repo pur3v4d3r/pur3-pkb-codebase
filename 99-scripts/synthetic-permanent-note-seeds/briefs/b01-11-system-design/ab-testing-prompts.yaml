@@ -1,0 +1,57 @@
+concept: A/B Testing Prompts
+domain: llm-systems
+secondary_domains:
+- mlops
+- experimentation
+- product-management
+aliases:
+- prompt A/B testing
+- prompt experimentation
+- prompt split testing
+- controlled prompt experiments
+broader:
+- prompt-versioning
+- mlops
+- experimentation
+related:
+- prompt-versioning
+- prompt-registry-patterns
+- prompt-observability
+- evals-as-a-product
+- human-preference-evaluation
+prerequisites:
+- prompt-versioning
+- experimentation-methodology
+- statistics
+- mlops
+confidence: high
+callouts:
+- type: definition
+  title: A/B Testing Prompts
+  body: A/B testing prompts is the practice of running controlled experiments that
+    compare two or more prompt variants simultaneously on live user traffic — routing
+    a fraction of requests to a challenger prompt while the remainder receive the
+    control prompt — and measuring the impact on defined success metrics (task completion
+    rate, user satisfaction, output quality scores, latency, cost) to determine whether
+    the challenger prompt improves on the control. Prompt A/B testing applies the
+    same experimentation methodology used in product development to prompt engineering,
+    enabling evidence-based prompt optimisation rather than relying on offline evaluation
+    or intuition alone.
+- type: key-claim
+  title: Key claim about A/B Testing Prompts
+  body: A/B testing is the only reliable way to measure the production impact of prompt
+    changes — offline evaluation (testing on a fixed dataset) measures performance
+    on historical inputs and may not reflect the distribution of future live traffic,
+    while online A/B testing captures the actual impact on the full range of inputs
+    the system receives in production; the gap between offline evaluation and online
+    A/B test results is frequently large enough to make offline-only prompt validation
+    insufficient for high-stakes systems.
+- type: warning
+  title: Common pitfall regarding A/B Testing Prompts
+  body: A/B testing prompts requires sufficient traffic to achieve statistical power
+    — small systems with low request volumes cannot achieve statistically significant
+    A/B test results in reasonable timeframes, and premature conclusions from underpowered
+    experiments lead to deploying prompts that appear to improve performance by chance;
+    sample size calculations based on expected effect size and acceptable error rates
+    should precede any A/B test launch, and minimum detectable effect sizes should
+    be specified upfront.

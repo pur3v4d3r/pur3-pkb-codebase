@@ -1,0 +1,59 @@
+concept: Jailbreak Taxonomy
+domain: llm-security
+secondary_domains:
+- llm-security
+- ai-safety
+- adversarial-ai
+aliases:
+- jailbreak categories
+- jailbreak classification
+- LLM jailbreak types
+- jailbreak patterns
+broader:
+- llm-security
+- ai-safety
+narrower:
+- adversarial-suffix-attacks
+- many-shot-jailbreaking
+- role-play-jailbreaks
+related:
+- adversarial-suffix-attacks
+- many-shot-jailbreaking
+- direct-prompt-injection
+- red-teaming-llms
+- overrefusal-problem
+- harmlessness-helpfulness-tradeoff
+prerequisites:
+- llm-security
+- adversarial-ai
+- ai-safety
+confidence: high
+callouts:
+- type: definition
+  title: Jailbreak Taxonomy
+  body: 'Jailbreak taxonomy is the systematic classification of techniques used to
+    elicit policy-violating content from safety-trained language models, organising
+    attack patterns by mechanism, required access level, and generalisability. Major
+    categories include: (1) role-play and persona attacks (instructing the model to
+    adopt an unconstrained character), (2) hypothetical and fictional framing (requesting
+    content "for a story" or "hypothetically"), (3) prefix injections (instructing
+    the model to start its response with a compliance token), (4) adversarial suffix
+    attacks (appending optimised adversarial tokens), (5) many-shot jailbreaking (providing
+    many examples of compliance before the target request), (6) encoding and obfuscation
+    (base64 encoding, reversed text, typo injection), and (7) prompt-level distraction
+    attacks.'
+- type: key-claim
+  title: Key claim about Jailbreak Taxonomy
+  body: Jailbreak taxonomy reveals that most successful jailbreaks exploit a fundamental
+    misalignment between how safety training teaches the model to interpret signals
+    of policy-violating content versus how adversarial inputs present those signals
+    — safety training primarily targets direct, unambiguous requests, while successful
+    jailbreaks present the same content via indirect framing, fictional context, or
+    transformed representation that the safety classifier fails to recognise as policy-violating.
+- type: warning
+  title: Common pitfall regarding Jailbreak Taxonomy
+  body: Jailbreak taxonomy becomes outdated quickly — specific attack patterns are
+    patched in model updates faster than new patterns emerge, making any specific
+    taxonomy incomplete within months; the more durable insight is the underlying
+    mechanism (safety training's sensitivity to surface representation rather than
+    semantic intent) rather than any specific attack catalogue.

@@ -1,0 +1,50 @@
+concept: Recency Bias in LLMs
+domain: llm-context-management
+secondary_domains:
+- llm-evaluation
+- cognitive-biases-in-ai
+- conversational-ai
+aliases:
+- recency effect in LLMs
+- serial-position recency
+- tail-end attention bias
+broader:
+- positional-bias-in-context
+- llm-context-management
+related:
+- positional-bias-in-context
+- needle-in-a-haystack-evaluation
+- long-context-prompting-strategies
+- context-window-extension
+prerequisites:
+- positional-bias-in-context
+- transformer-architecture
+- conversational-llms
+confidence: high
+callouts:
+- type: definition
+  title: Recency Bias in LLMs
+  body: Recency bias in language models refers to the phenomenon in which LLMs disproportionately
+    weight recent tokens in the context window when generating responses — information
+    appearing closer to the end of the input receives more attention and has greater
+    influence on the output than semantically equivalent information earlier in the
+    context. Recency bias is most prominent in conversational settings where later
+    turns in a conversation override earlier facts or instructions, in multi-document
+    settings where the last document has disproportionate influence, and in chain-of-thought
+    reasoning where later reasoning steps may contradict but override earlier valid
+    conclusions.
+- type: key-claim
+  title: Key claim about Recency Bias in LLMs
+  body: Recency bias in autoregressive models is partially structural — the causal
+    attention mechanism and left-to-right generation mean the most recent tokens have
+    the most direct access to the generation distribution, making some degree of recency
+    effect an expected consequence of the architecture; however, the degree of recency
+    bias exceeds what the architecture alone predicts and is amplified by training
+    data structure, where conclusions typically follow premises.
+- type: warning
+  title: Common pitfall regarding Recency Bias in LLMs
+  body: Recency bias in multi-turn conversations creates a specific security and reliability
+    failure mode — a malicious later message can effectively override correct earlier
+    instructions or facts by exploiting the model's tendency to prioritise recent
+    context, making instruction-following and factual grounding less reliable in long
+    conversations than in single-turn interactions.

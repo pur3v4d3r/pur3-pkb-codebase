@@ -1,0 +1,52 @@
+concept: Chart and Table Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- data-visualisation
+- multimodal-ai
+aliases:
+- chart reasoning prompts
+- table understanding prompting
+- data visualisation QA
+broader:
+- document-understanding-prompting
+- vision-language-model-prompting
+related:
+- document-understanding-prompting
+- visual-chain-of-thought
+- structured-output-enforcement
+- vision-language-model-prompting
+prerequisites:
+- vision-language-models
+- data-visualisation
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Chart and Table Prompting
+  body: Chart and table prompting refers to the techniques for eliciting accurate
+    analytical and interpretive responses from vision-language models when the input
+    is a data visualisation (bar chart, line graph, scatter plot, pie chart) or tabular
+    data (HTML tables, spreadsheet screenshots, markdown tables). Effective chart
+    and table prompts specify what type of analysis is required (trend identification,
+    value extraction, comparison, statistical summary), instruct the model on how
+    to handle axis labels and units, request explicit numerical extraction before
+    synthesis, and use chain-of-thought to separate data reading from interpretation.
+    These tasks challenge VLMs because they require precise numerical reasoning over
+    visually encoded data.
+- type: key-claim
+  title: Key claim about Chart and Table Prompting
+  body: Chain-of-thought prompting dramatically improves chart and table understanding
+    performance by forcing the model to separately externalise data extraction (reading
+    values from the visualisation) and data interpretation (drawing conclusions from
+    those values) — without explicit CoT, models tend to produce plausible-sounding
+    but numerically inaccurate interpretations that conflate the two steps, while
+    CoT-prompted models can be evaluated for the quality of each step independently.
+- type: warning
+  title: Common pitfall regarding Chart and Table Prompting
+  body: Chart prompting is particularly susceptible to visual encoding errors — VLMs
+    frequently misread y-axis values, mistake ordinal categories for continuous variables,
+    or misinterpret overlapping visual elements; requesting explicit numerical extractions
+    before any synthesis step and cross-checking extracted numbers against stated
+    axis ranges can partially mitigate these errors, but do not eliminate them for
+    complex or cluttered visualisations.

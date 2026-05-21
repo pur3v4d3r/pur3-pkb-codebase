@@ -1,0 +1,51 @@
+concept: Classifier-Free Guidance for Text
+domain: llm-inference
+secondary_domains:
+- llm-inference
+- controlled-generation
+- diffusion-analogies
+aliases:
+- CFG for text
+- text classifier-free guidance
+- language model CFG
+broader:
+- llm-decoding
+- controlled-text-generation
+related:
+- contrastive-decoding
+- logit-bias-manipulation
+- temperature-sampling
+- top-p-nucleus-sampling
+prerequisites:
+- language-model-inference
+- classifier-free-guidance
+- logit-arithmetic
+confidence: high
+callouts:
+- type: definition
+  title: Classifier-Free Guidance for Text
+  body: 'Classifier-free guidance (CFG) for text is an inference technique that adapts
+    the image diffusion CFG method to autoregressive language models by computing
+    a weighted combination of conditional and unconditional next-token distributions.
+    At each generation step, the model produces a conditional distribution p(token
+    | prompt, condition) and an unconditional distribution p(token | condition_removed),
+    and the final sampling distribution is constructed as: logits_final = logits_unconditional
+    + guidance_scale × (logits_conditional − logits_unconditional). This amplifies
+    the influence of the conditioning signal, steering generation more strongly toward
+    the desired attribute or instruction.'
+- type: key-claim
+  title: Key claim about Classifier-Free Guidance for Text
+  body: CFG for text provides a computationally efficient mechanism for amplifying
+    the influence of conditioning information beyond what standard sampling achieves,
+    producing outputs that are more strongly consistent with the specified condition
+    at the cost of slightly reduced fluency at high guidance scales — it is particularly
+    effective when the condition is expressed in a format (e.g., a system prompt or
+    class label) where the unconditional model can naturally represent the counterfactual.
+- type: warning
+  title: Common pitfall regarding Classifier-Free Guidance for Text
+  body: CFG for text requires two forward passes per generation step (conditional
+    and unconditional), doubling inference cost, and the guidance scale is highly
+    sensitive — low values produce little effect while high values amplify artefacts
+    and cause repetitive or incoherent outputs; the unconditional distribution is
+    also ambiguous in open-ended LLM contexts where the notion of "no condition" is
+    not well-defined.

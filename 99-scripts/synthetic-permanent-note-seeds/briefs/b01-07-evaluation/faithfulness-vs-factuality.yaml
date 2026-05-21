@@ -1,0 +1,55 @@
+concept: Faithfulness vs Factuality
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- rag-evaluation
+- information-verification
+aliases:
+- faithfulness versus factuality
+- grounding vs accuracy
+- hallucination dimensions
+broader:
+- llm-evaluation
+- hallucination-in-llms
+related:
+- llm-evaluation-benchmarks
+- model-graded-evaluation
+- self-evaluation-bias
+- retrieval-as-external-memory
+- hallucination-in-llms
+prerequisites:
+- llm-evaluation
+- information-retrieval
+- knowledge-grounded-generation
+confidence: high
+callouts:
+- type: definition
+  title: Faithfulness vs Factuality
+  body: 'Faithfulness versus factuality is a critical distinction in the evaluation
+    of language model outputs that separates two different correctness dimensions:
+    faithfulness (whether the output accurately reflects the provided source context
+    — is it grounded in what was given?) and factuality (whether the output accurately
+    reflects world knowledge — is it true?). A response can be faithful but not factual
+    (accurately quoting an incorrect source), factual but not faithful (providing
+    correct information not in the source document), both, or neither. This distinction
+    is crucial for RAG system evaluation, where faithfulness to the retrieved context
+    and factuality of the final answer are separate quality dimensions requiring separate
+    evaluation methods.'
+- type: key-claim
+  title: Key claim about Faithfulness vs Factuality
+  body: The faithfulness/factuality distinction resolves a systematic evaluation error
+    in RAG systems — evaluating only factuality does not detect hallucinations that
+    fabricate plausible-sounding information not in the retrieved context (faithfulness
+    failures), while evaluating only faithfulness does not detect cases where the
+    model correctly ignored an incorrect source and answered from world knowledge
+    (factuality without faithfulness); both dimensions are necessary for complete
+    quality assessment.
+- type: warning
+  title: Common pitfall regarding Faithfulness vs Factuality
+  body: 'The faithfulness/factuality distinction creates a practical dilemma for RAG
+    system design when a retrieved source is factually incorrect — a faithfully grounded
+    response will reproduce the source''s error, while a factually correct response
+    will contradict the source; current evaluation frameworks have no consensus on
+    whether faithful-but-wrong or unfaithful-but-correct is preferable, and user expectations
+    vary by domain (medical/legal: faithfulness to source; general knowledge: factual
+    accuracy).'

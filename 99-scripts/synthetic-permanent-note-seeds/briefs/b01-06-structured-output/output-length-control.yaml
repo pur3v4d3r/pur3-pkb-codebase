@@ -1,0 +1,53 @@
+concept: Output Length Control
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- llm-inference
+- user-experience
+aliases:
+- response length control
+- verbosity control
+- token budget management
+- length specification
+broader:
+- prompt-engineering
+- structured-output-enforcement
+related:
+- structured-output-enforcement
+- json-mode-prompting
+- markdown-output-prompting
+- logit-bias-manipulation
+- repetition-penalty
+prerequisites:
+- prompt-engineering
+- language-model-inference
+confidence: high
+callouts:
+- type: definition
+  title: Output Length Control
+  body: Output length control encompasses the prompt design and API parameter techniques
+    for constraining or directing the length of language model responses. API-level
+    controls include `max_tokens` (hard ceiling on token count) and stop sequences
+    (terminating generation at specific tokens or patterns). Prompt-level controls
+    include explicit length instructions ("in one paragraph", "in exactly three bullet
+    points", "no more than 100 words"), implicit length anchoring through examples
+    that demonstrate the desired response length, and structural constraints that
+    bound the number of sections or items. Length control is important for latency
+    management, cost control, UI layout constraints, and matching response verbosity
+    to user expectations.
+- type: key-claim
+  title: Key claim about Output Length Control
+  body: The most reliable prompt-level length control technique is providing a concrete
+    structural constraint (e.g., "output exactly 3 bullet points") rather than a word
+    or sentence count instruction — models cannot reliably estimate word counts mid-generation
+    and will frequently overshoot or undershoot count-based targets, while structural
+    constraints that match the natural granularity of the task (number of items, number
+    of steps) are followed more consistently.
+- type: warning
+  title: Common pitfall regarding Output Length Control
+  body: Hard `max_tokens` truncation at the API level produces responses that are
+    cut off mid-sentence, mid-word, or mid-JSON structure — while this prevents runaway
+    long responses, it produces broken outputs that may be worse than shorter but
+    complete responses; combining a soft prompt-level length instruction with a `max_tokens`
+    ceiling set 20–30% above the expected length provides safety against runaway generation
+    while maintaining output completeness.

@@ -1,0 +1,55 @@
+concept: Positional Bias in Context
+domain: llm-context-management
+secondary_domains:
+- llm-evaluation
+- cognitive-biases-in-ai
+- llm-context-management
+aliases:
+- position bias
+- primacy-recency effect in LLMs
+- lost-in-the-middle effect
+broader:
+- llm-context-management
+- context-window-evaluation
+narrower:
+- lost-in-the-middle-effect
+- primacy-bias-in-llms
+- recency-bias-in-llms
+related:
+- needle-in-a-haystack-evaluation
+- recency-bias-in-llms
+- long-context-prompting-strategies
+- context-window-extension
+prerequisites:
+- transformer-architecture
+- positional-encoding
+- attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Positional Bias in Context
+  body: Positional bias in context refers to the systematic tendency of transformer-based
+    language models to assign different importance to information based on its position
+    within the input context, independent of its semantic content or relevance. The
+    most documented variant is the "lost in the middle" phenomenon in which information
+    placed at the beginning (primacy bias) or end (recency bias) of a long context
+    is retrieved significantly more accurately than information in the middle of the
+    context. This bias emerges from the interaction of causal attention patterns,
+    positional encodings, and the training distribution, which typically contains
+    documents where important information appears at the start.
+- type: key-claim
+  title: Key claim about Positional Bias in Context
+  body: Positional bias in context is not a surface-level deficiency that can be corrected
+    purely through architectural improvements — it reflects a deep statistical regularisation
+    learned from training data in which document structure correlates with information
+    importance, making it a feature of how the model represents relevance rather than
+    a bug in position encoding; prompt engineering strategies that exploit known positional
+    biases are therefore more reliable than assuming bias-free retrieval.
+- type: warning
+  title: Common pitfall regarding Positional Bias in Context
+  body: Positional bias interacts with context length non-linearly — models with extended
+    context windows may show different positional bias profiles than the same model
+    at its native context length, and the bias pattern can shift depending on the
+    domain and document structure of the input; evaluating positional bias only at
+    the model's native context length provides an incomplete picture of its long-context
+    behaviour.

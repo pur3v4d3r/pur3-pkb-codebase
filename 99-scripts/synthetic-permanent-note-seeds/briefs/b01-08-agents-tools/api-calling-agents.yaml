@@ -1,0 +1,56 @@
+concept: API-Calling Agents
+domain: llm-agents
+secondary_domains:
+- llm-agents
+- software-engineering
+- automation
+aliases:
+- function-calling agents
+- API-integrated agents
+- LLM function calling
+- OpenAI function calling
+broader:
+- tool-augmented-language-models
+- llm-agents
+related:
+- tool-augmented-language-models
+- computer-use-agents
+- browser-automation-agents
+- action-space-design-for-agents
+- task-planning-with-llms
+prerequisites:
+- tool-augmented-language-models
+- api-design
+- function-calling
+- llm-agents
+confidence: high
+callouts:
+- type: definition
+  title: API-Calling Agents
+  body: 'API-calling agents are LLM-based systems that use function-calling (or tool-calling)
+    capabilities to invoke external APIs — REST APIs, GraphQL endpoints, database
+    query interfaces, third-party service SDKs — and incorporate the responses into
+    their reasoning and generation process. The model receives a set of function descriptions
+    (name, parameters, description) in the system prompt or context; when the model
+    determines it needs external information or wants to take an action, it outputs
+    a structured function call specification with the function name and arguments;
+    the system executes the call and returns the result to the model''s context. API-calling
+    enables agents to take actions in real-world software systems: creating records,
+    sending messages, querying databases, and orchestrating workflows.'
+- type: key-claim
+  title: Key claim about API-Calling Agents
+  body: API-calling agents expose the entire attack surface of the APIs they can call
+    to the LLM's reasoning process — an LLM that can call an API capable of deleting
+    records, sending emails, or making purchases can take those actions when tricked
+    through prompt injection or reasoning errors; the principle of least privilege
+    (providing only APIs necessary for the current task, with the minimum permissions
+    required) is as important in API-calling agent design as in traditional software
+    security.
+- type: warning
+  title: Common pitfall regarding API-Calling Agents
+  body: API-calling agents make irreversible actions based on LLM reasoning that is
+    probabilistic and error-prone — actions like sending emails, posting to social
+    media, modifying database records, or triggering financial transactions cannot
+    be easily undone if the model calls the wrong function or passes incorrect arguments;
+    agents with access to write APIs must implement confirmation steps, dry-run modes,
+    and human-in-the-loop checkpoints for high-stakes actions.

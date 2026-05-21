@@ -1,0 +1,55 @@
+concept: Overrefusal Problem
+domain: ai-alignment
+secondary_domains:
+- ai-alignment
+- llm-safety
+- human-ai-interaction
+aliases:
+- over-refusal
+- safety oversteering
+- excessive refusal
+- unhelpful alignment
+broader:
+- harmlessness-helpfulness-tradeoff
+- llm-alignment
+related:
+- harmlessness-helpfulness-tradeoff
+- constitutional-ai
+- reward-hacking-in-rlhf
+- sycophancy-mitigation
+- red-teaming-llms
+prerequisites:
+- llm-alignment
+- reinforcement-learning-from-human-feedback
+- harmlessness-helpfulness-tradeoff
+confidence: high
+callouts:
+- type: definition
+  title: Overrefusal Problem
+  body: The overrefusal problem is the failure mode in safety-trained language models
+    in which the model refuses or heavily hedges responses to benign requests that
+    superficially resemble harmful content, substantially degrading helpfulness. Overrefusal
+    arises when safety training optimises heavily on harmlessness at the expense of
+    helpfulness — annotation biases, conservative safety thresholds, and imprecise
+    classifier-based filtering collectively teach the model to refuse any request
+    that shares vocabulary or framing with genuinely harmful requests, regardless
+    of context or intent. The result is a model that refuses to discuss medication
+    dosages for medical professionals, provide historical accounts of violence, assist
+    with fiction involving dark themes, or explain cybersecurity concepts for defensive
+    purposes.
+- type: key-claim
+  title: Key claim about Overrefusal Problem
+  body: Overrefusal imposes a real cost on model utility that is less visible than
+    harmful outputs but equally damaging to deployment — while harmful outputs are
+    memorable and widely reported, unhelpful refusals accumulate silently and drive
+    users toward less safety-conscious alternatives, creating a situation where excessive
+    safety training paradoxically reduces overall social benefit by making the safer
+    model less used.
+- type: warning
+  title: Common pitfall regarding Overrefusal Problem
+  body: The boundary between appropriate refusal and overrefusal is context-dependent
+    and cannot be resolved by a context-free classifier — the same request (e.g.,
+    "explain how poisons work") is appropriate for a toxicologist and inappropriate
+    for an anonymous actor with stated harmful intent, making overrefusal fundamentally
+    a calibration problem that requires contextual reasoning rather than keyword-based
+    filtering.

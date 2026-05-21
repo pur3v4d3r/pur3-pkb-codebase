@@ -1,0 +1,52 @@
+concept: Retrieval as External Memory
+domain: llm-context-management
+secondary_domains:
+- retrieval-augmented-generation
+- knowledge-management
+- llm-architecture
+aliases:
+- retrieval-based memory
+- RAG as memory
+- external knowledge retrieval
+broader:
+- memory-augmented-llms
+- retrieval-augmented-generation
+related:
+- retrieval-augmented-generation
+- episodic-memory-in-agents
+- semantic-memory-in-agents
+- memory-augmented-llms
+- context-window-extension
+prerequisites:
+- retrieval-augmented-generation
+- vector-databases
+- dense-passage-retrieval
+confidence: high
+callouts:
+- type: definition
+  title: Retrieval as External Memory
+  body: Retrieval as external memory is the paradigm in which a language model's knowledge
+    is extended at inference time by querying an external document store, knowledge
+    base, or episodic memory repository and injecting retrieved content into the active
+    context. Rather than relying on the parametric knowledge encoded in model weights
+    during training — which is frozen, potentially outdated, and limited in scope
+    — the model dynamically accesses relevant information from an external, updateable
+    store. This architecture separates knowledge storage (external memory) from knowledge
+    processing (model computation), enabling knowledge updates without retraining
+    and scaling stored knowledge independently of model parameters.
+- type: key-claim
+  title: Key claim about Retrieval as External Memory
+  body: Retrieval as external memory decouples knowledge currency from model retraining,
+    solving the temporal knowledge cutoff problem inherent in parametric LLMs — by
+    storing knowledge externally, the system can incorporate new facts by adding to
+    the retrieval store rather than fine-tuning the model; this separation of concerns
+    is the key architectural insight behind RAG and is increasingly seen as a prerequisite
+    for production LLM deployments in rapidly changing knowledge domains.
+- type: warning
+  title: Common pitfall regarding Retrieval as External Memory
+  body: External memory retrieval introduces a retrieval quality ceiling — if the
+    retriever fails to surface relevant documents, the generator has no access to
+    the needed information regardless of its parametric knowledge, and retrieval failures
+    compound silently when the model generates a fluent but factually unsupported
+    response; monitoring retrieval recall, not just generation quality, is essential
+    for maintaining system-level accuracy.
