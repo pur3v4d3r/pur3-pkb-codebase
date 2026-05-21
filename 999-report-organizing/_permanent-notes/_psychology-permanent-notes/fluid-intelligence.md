@@ -18,7 +18,7 @@ subdomains:
   - individual-differences
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - fluid-intelligence-synthetic-seed-2026-04-24
@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fluid Intelligence Process Flow**
+> *Follow the steps from information encoding to problem-solving.*
+>
+> ```mermaid
+> graph TD
+>   A[Information Encoding]
+>   B[Working Memory Manipulation]
+>   C[Executive Function Management]
+>   D[Abstract Representation Formation]
+>   E[Problem Solving]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Fluid vs Crystallized Intelligence Comparison**
+> *Compare the key aspects of Fluid and Crystallized Intelligence.*
+>
+> ```mermaid
+> graph TD
+>   A[Fluid Intelligence]
+>   B[Crystallized Intelligence]
+>   A1[Novel Problem Solving]
+>   A2[Abstract Reasoning]
+>   B1[Accumulated Knowledge]
+>   B2[Skills and Experience]
+>   A -->|Involves| A1
+>   A -->|Requires| A2
+>   B -->|Relies On| B1
+>   B -->|Includes| B2
+> ```
+
+
+> [!abstract] **Diagram 3 — Fluid Intelligence Mechanism Flowchart**
+> *Trace the flow from working memory to problem-solving.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Working Memory]
+>   B[Executive Function]
+>   C[Abstract Representation]
+>   D[Problem Solving]
+>   A -->|Manipulation| B
+>   B -->|Management| C
+>   C -->|Formation| D
+> ```
 
 # Fluid Intelligence
 

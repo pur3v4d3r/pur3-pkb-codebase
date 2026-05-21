@@ -18,7 +18,7 @@ subdomains:
   - behavioral-design
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gamification-synthetic-seed-2026-04-26
@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gamification Elements Overview**
+> *Identify the key game elements used in gamification.*
+>
+> ```mermaid
+> graph TD
+>   A[Points] --> B[Narrative]
+>   C[Badges] --> D[Leaderboards]
+>   E[Levels] --> F[Rewards]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gamification Mechanism Flow**
+> *Follow the flow from intrinsic to extrinsic motivation in gamification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic Motivation] --> B[Internal Rewards]
+>   C[Extrinsic Motivation] --> D[External Factors]
+>   E[Both Types Used] --> F[Potential Backfire]
+> ```
+
+
+> [!abstract] **Diagram 3 — Gamification Applications Hierarchy**
+> *Navigate the hierarchy of gamification applications in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Points & Badges]
+>   C[Workplace Training] --> D[Leaderboards & Narrative]
+>   E[Health & Wellness] --> F[Badges & Challenges]
+> ```
 
 # Gamification
 

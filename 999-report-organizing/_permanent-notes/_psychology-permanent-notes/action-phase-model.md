@@ -21,7 +21,7 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - implementation-intentions-gollwitzer-foundational-report-2026-04-20
@@ -70,8 +70,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Action Phase Model Overview**
+> *Follow the sequence from goal setting to evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Predecisional Deliberation] --> B(Postdecisional Preplanning)
+>   B --> C(Actional Execution)
+>   C --> D(Postactional Evaluation)
+> ```
+
+
+> [!abstract] **Diagram 2 — Implementation Intention Process Flow**
+> *Trace the flow from goal setting to action execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goal] --> B(Formulate Plan)
+>   B --> C(Create Implementation Intentions)
+>   C --> D(Execute Specific Actions)
+> ```
+
+
+> [!abstract] **Diagram 3 — Hierarchical Goals Interaction**
+> *Observe how subordinate and superordinate goals interact.*
+>
+> ```mermaid
+> graph TD
+>   A[Long-term Goal] --> B(Subordinate Goals)
+>   C[Implementation Intentions for Subordinates] --> D(Execute Actions)
+>   E[Strategic Plans for Superordinates] --> F(Overall Progress)
+> ```
 
 # Action Phase Model
 

@@ -18,7 +18,7 @@ subdomains:
   - mathematics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - formal-logic-synthetic-seed-2026-04-25
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Propositional Logic Flowchart**
+> *Follow the flow from simple propositions to compound statements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Simple Proposition] --> B(Logical Connectives)
+>   B --> C[Compound Statement]
+>   C --> D(Evaluation with Truth Tables)
+> ```
+
+
+> [!abstract] **Diagram 2 — Predicate Logic Components**
+> *Identify the components of predicate logic and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Quantifiers] --> B(Predicates)
+>   C[Variables] --> D(Functions)
+>   E[Relations] --> F(Terms)
+> ```
+
+
+> [!abstract] **Diagram 3 — Formal Logic vs Inductive Reasoning**
+> *Compare Formal Logic's focus on syntactic structure with inductive reasoning's reliance on empirical evidence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant FormalLogic as FL
+>   participant InductiveReasoning as IR
+>   FL->>IR: Focuses on logical form
+>   IR-->>FL: Relies on empirical data
+> ```
 
 # Formal Logic
 

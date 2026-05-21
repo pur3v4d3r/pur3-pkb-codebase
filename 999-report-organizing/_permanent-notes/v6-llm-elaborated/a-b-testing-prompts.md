@@ -20,7 +20,7 @@ subdomains:
   - mlops
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - ab-testing-prompts-synthetic-seed-2026-05-20
@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — A/B Testing Process Flow**
+> *Follow the steps from defining objectives to drawing conclusions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Objectives] --> B[Select Metrics]
+>   B --> C[Traffic Splitting]
+>   C --> D[Collect Data]
+>   D --> E[Rigorous Testing]
+>   E --> F[Draw Conclusions]
+> ```
+
+
+> [!abstract] **Diagram 2 — A/B vs Offline Evaluation Comparison**
+> *Compare the evaluation methods based on their environment and accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Offline Evaluation] -->|Distribution Mismatch| B[Inaccurate]
+>   C[A/B Testing] -->|Live Environment| D[Precise]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance vs Learning Outcomes**
+> *Understand the distinction between short-term usability and long-term learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance Metrics] -->|Short-Term Usability| B[Enhanced]
+>   C[Learning Metrics] -->|Long-Term Knowledge| D[Gains]
+> ```
 
 # A/B Testing Prompts
 

@@ -18,7 +18,7 @@ subdomains:
   - virtue-ethics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - character-strengths-synthetic-seed-2026-04-25
@@ -68,8 +68,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — VIA Classification Overview**
+> *Follow the arrows to see how virtues encompass specific strengths.*
+>
+> ```mermaid
+> graph TD
+>   A[Six Virtues]
+>   B[Wisdom] -->|Curiosity, Creativity| A
+>   C[Courage] -->|Bravery, Persistence| A
+>   D[Humanity] -->|Kindness, Love| A
+>   E[Justice] -->|Citizenship, Fairness| A
+>   F[Temperance] -->|Humility, Prudence| A
+>   G[Transcendence] -->|Appreciation of Beauty, Religion| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Character Strengths Mechanism**
+> *Trace the flow from recognizing strengths to personal growth.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Strengths] --> B[Foster Self-Efficacy]
+>   B --> C[Apply in New Contexts]
+>   C --> D[Positive Feedback Loop]
+>   D --> E[Enhance Well-Being]
+> ```
+
+
+> [!abstract] **Diagram 3 — Character Strengths vs Virtues**
+> *Compare the structured framework of strengths with abstract virtues.*
+>
+> ```mermaid
+> classDiagram
+>   class CharacterStrengths{
+>     +Curiosity
+>     +Creativity
+>     +Bravery
+>     +Persistence
+>     +Kindness
+>     +Love
+>     +Citizenship
+>     +Fairness
+>     +Humility
+>     +Prudence
+>     +AppreciationOfBeauty
+>     +Religion
+>   }
+>   class Virtues{
+>     +Wisdom
+>     +Courage
+>     +Humanity
+>     +Justice
+>     +Temperance
+>     +Transcendence
+>   }
+>   CharacterStrengths -->|Encompasses| Virtues
+> ```
 
 # Character Strengths
 

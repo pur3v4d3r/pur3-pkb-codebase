@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Type 1 vs Type 2 Processing**
+> *Follow the flow from automatic to controlled processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Type 1: Intuition] --> B[Default Response]
+>   B -->|Intervention?| C[Type 2: Controlled]
+>   C --> D[Evaluation and Decision]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mindware Mechanism Overview**
+> *Trace the interaction between Type 1 and Type 2 processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Type 1: Intuition] --> B[Default Response]
+>   B -->|Intervention Triggered| C[Type 2: Controlled]
+>   C --> D[Evaluation]
+>   D --> E[Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mindware Application in PKM**
+> *See how mindware supports informed decision-making.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Intuition as I
+>   participant Mindware as M
+>   participant Decision as D
+>   U->>I: Problem Presented
+>   I-->>U: Initial Response
+>   alt Intervention Needed
+>     U->>M: Access Mindware
+>     M-->>D: Evaluate and Decide
+>   else No Intervention
+>     U-->>D: Use Intuition
+>   end
+> ```
 
 # Mindware
 

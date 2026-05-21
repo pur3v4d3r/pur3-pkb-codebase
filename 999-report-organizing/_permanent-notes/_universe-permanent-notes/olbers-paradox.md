@@ -17,7 +17,7 @@ subdomains:
   - history-of-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - olbers-paradox-synthetic-seed-2026-05-14
@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Stellar Distribution Overview**
+> *Follow the flow from uniform distribution to dark sky.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Uniform Star Distribution] --> B[Every Line of Sight]
+>   B --> C[Illuminated by Stars]
+>   C --> D[Dense Light Flow]
+>   D --> E[Night Sky Brightness]
+>   E --> F[Dark Night Sky]
+> ```
+
+
+> [!abstract] **Diagram 2 — Resolution Mechanisms**
+> *Trace the paths of light and understand finite age & redshifting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Light from Distant Stars] --> B[Finite Age]
+>   B --> C[Insufficient Time to Reach Us]
+>   A --> D[Cosmological Redshifting]
+>   D --> E[Brightness Reduced by Wavelength Shift]
+> ```
+
+
+> [!abstract] **Diagram 3 — Concept Hierarchy**
+> *Navigate the hierarchy from Olbers Paradox to modern cosmology.*
+>
+> ```mermaid
+> graph TD
+>   A[Olbers Paradox] --> B[Eternal Static Cosmos]
+>   B --> C[Challenges Prevailing Beliefs]
+>   C --> D[Finite Age of Universe]
+>   D --> E[Big Bang Model]
+>   E --> F[Distant Galaxies Moving Away]
+> ```
 
 # Olbers Paradox
 

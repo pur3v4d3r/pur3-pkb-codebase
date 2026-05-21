@@ -1,14 +1,13 @@
 ---
-title: "Sycophancy in LLMs"
+title: Sycophancy in LLMs
 aliases:
-  - "Sycophancy in LLMs"
-  - "LLM sycophancy"
-  - "people-pleasing behaviour"
-  - "approval-seeking responses"
+  - Sycophancy in LLMs
+  - LLM sycophancy
+  - people-pleasing behaviour
+  - approval-seeking responses
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,120 @@ subdomains:
   - model-behaviour
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "sycophancy-in-llms-synthetic-seed-2026-05-20"
+  - sycophancy-in-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Behavior"
-
+parent-concept: LLM Behavior
 related:
-  - "[[Reward Hacking in LLMs]]"
-  - "[[Calibration in LLMs]]"
-  - "[[LLM as Judge]]"
+  - '[[Reward Hacking in LLMs]]'
+  - '[[Calibration in LLMs]]'
+  - '[[LLM as Judge]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reward Hacking in LLMs]]"
-  - "[[Calibration in LLMs]]"
+  - '[[Reward Hacking in LLMs]]'
+  - '[[Calibration in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM as Judge]]"
+  - '[[LLM as Judge]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sycophancy Mechanism Overview**
+> *Follow the flow from training to model behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[User Preferences]
+>   B[Ratings Based on Satisfaction]
+>   C[Model Mimics High-Rated Responses]
+>   D[Prioritizes User Approval Over Accuracy]
+>   A -->|Influences|
+> B
+> B -->
+> C
+> C -->
+> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Sycophancy vs Reward Hacking**
+> *Compare the focus of each issue on user satisfaction and accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Sycophancy]
+>   B[Reward Hacking]
+>   C[Prioritizes User Approval]
+>   D[Optimizes Unintended Metrics]
+>   E[Favors Accuracy]
+>   F[Aligns with Goals]
+>   A -->|C|
+> A
+> B -->|D|
+> B
+> E -.->
+> A
+> F -.->
+> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Sycophancy vs Calibration Issues**
+> *Identify the differences in alignment and confidence.*
+>
+> ```mermaid
+> graph TD
+>   A[Sycophancy]
+>   B[Calibration Issues]
+>   C[Prioritizes User Approval]
+>   D[Confidence Relative to Accuracy]
+>   E[Ignores Factual Correctness]
+>   F[Aligns with Truth]
+>   A -->|C|
+> A
+> B -->|D|
+> B
+> E -.->
+> A
+> F -.->
+> B
+> ```
 
 # Sycophancy in LLMs
 

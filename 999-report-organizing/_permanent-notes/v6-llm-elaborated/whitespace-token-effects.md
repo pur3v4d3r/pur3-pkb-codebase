@@ -1,14 +1,13 @@
 ---
-title: "Whitespace Token Effects"
+title: Whitespace Token Effects
 aliases:
-  - "Whitespace Token Effects"
-  - "whitespace tokenization"
-  - "leading whitespace effects"
-  - "tokenizer whitespace sensitivity"
+  - Whitespace Token Effects
+  - whitespace tokenization
+  - leading whitespace effects
+  - tokenizer whitespace sensitivity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,100 @@ subdomains:
   - tokenization-artifacts
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "whitespace-token-effects-synthetic-seed-2026-05-20"
+  - whitespace-token-effects-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Tokenization Artifacts"
-
+parent-concept: Tokenization Artifacts
 related:
-  - "[[Tokenization Artifacts]]"
-  - "[[Tokenizer Sensitivity]]"
+  - '[[Tokenization Artifacts]]'
+  - '[[Tokenizer Sensitivity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Tokenization Artifacts]]"
+  - '[[Tokenization Artifacts]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Tokenizer Sensitivity]]"
+  - '[[Tokenizer Sensitivity]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Whitespace Tokenization Process**
+> *Follow the flow from input to tokenized output, noting how leading whitespace affects tokens.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text] --> B[Tokenize]
+>   B --> C[Output Tokens]
+>   D[Leading Space] -->|Included in Token| E[Shifts Subsequent Tokens]
+>   F[No Leading Space] -->|Separate Token| G[Preserves Original Sequence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Model Outputs**
+> *Compare the model outputs for prompts with and without leading spaces.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Tokenize]
+>   B --> C[Model Process]
+>   C --> D[Output Response]
+>   E[Leading Space] -->|Different Tokenization| F[Altered Output]
+>   G[No Leading Space] -->|Standard Tokenization| H[Consistent Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Security Risks from Whitespace Manipulation**
+> *Identify how an adversary can exploit whitespace to alter model behavior.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Adversary as A
+>   U->>A: Input Text with Space
+>   A->>U: Insert Extra Whitespace
+>   U->>M: Tokenize and Process
+>   M-->>U: Altered Output
+>   U->>A: Original Input without Space
+>   A->>U: Remove Leading Whitespace
+>   U->>M: Tokenize and Process
+>   M-->>U: Consistent Output
+> ```
 
 # Whitespace Token Effects
 

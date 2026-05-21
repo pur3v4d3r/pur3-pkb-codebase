@@ -18,7 +18,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - learning-science-synthetic-seed-2026-04-24
@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Learning Science Disciplines**
+> *Identify the disciplines that contribute to Learning Science.*
+>
+> ```mermaid
+> graph TD
+>   A[Education] --> B[Learning Science]
+>   C[Cognitive Psychology] --> B
+>   D[N neuroscience] --> B
+>   E[Computer Science] --> B
+>   F[Anthropology] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Design-Based Research Cycle**
+> *Follow the iterative cycle of design-based research in Learning Science.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Design] --> B[Deployment]
+>   B --> C[Data Collection]
+>   C --> D[Analysis]
+>   D --> E[Revision]
+>   E --> F[Repeat Cycle]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Understand the distinction between intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Difficulty] --> B(Intrinsic Load)
+>   C[Instructional Methods] --> D(Extraneous Load)
+> ```
 
 # Learning Science
 

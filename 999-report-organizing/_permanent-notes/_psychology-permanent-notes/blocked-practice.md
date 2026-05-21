@@ -17,7 +17,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - blocked-practice-synthetic-seed-2026-04-25
@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Blocked Practice Schedule**
+> *Follow the sequence of skill blocks.*
+>
+> ```mermaid
+> graph TD
+>   A[Skill Block 1]
+>   A --> B[Skill Block 2]
+>   B --> C[Skill Block 3]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Switching Costs**
+> *Compare task-switching costs between blocked and interleaved practice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Blocked Practice]
+>   B[Interleaved Practice]
+>   A -->|Low Switch Cost| C[High Within-Session Performance]
+>   B -->|High Switch Cost| D[Lower Within-Session Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Long-Term Retention Comparison**
+> *Compare long-term retention between blocked and interleaved practice.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant BlockedPractice as BP
+>   participant InterleavedPractice as IP
+>   BP->>BP: High Immediate Performance
+>   IP->>IP: Lower Immediate Performance
+>   BP-->>BP: Weaker Long-Term Retention
+>   IP-->>IP: Stronger Long-Term Retention
+> ```
 
 # Blocked Practice
 

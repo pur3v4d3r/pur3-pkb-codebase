@@ -15,7 +15,7 @@ subdomains:
   - ''
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - testing-effect-synthetic-seed-2026-04-24
@@ -62,8 +62,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Testing Effect Process Flow**
+> *Follow the flow from studying to retrieval practice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Studying] --> B[Retrieval Practice]
+>   B --> C[Better Retention]
+> ```
+
+
+> [!abstract] **Diagram 2 — Testing Effect Mechanism Overview**
+> *Trace the process from retrieval to reconsolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval] --> B[Forgetting Incorrect Memories]
+>   B --> C[Reconsolidation of Correct Information]
+> ```
+
+
+> [!abstract] **Diagram 3 — Testing Effect Applications**
+> *Identify the different applications in education.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Regular Quizzes]
+>   C[Study Habits] --> D[Flashcards/Practice Exams]
+>   E[Educational Policy] --> F[Integrated Testing]
+> ```
 
 # Testing Effect
 

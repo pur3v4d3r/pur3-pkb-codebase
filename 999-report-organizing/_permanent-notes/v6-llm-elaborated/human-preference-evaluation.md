@@ -1,15 +1,14 @@
 ---
-title: "Human Preference Evaluation"
+title: Human Preference Evaluation
 aliases:
-  - "Human Preference Evaluation"
-  - "human evaluation"
-  - "preference annotation"
-  - "crowdsourced evaluation"
-  - "human rater evaluation"
+  - Human Preference Evaluation
+  - human evaluation
+  - preference annotation
+  - crowdsourced evaluation
+  - human rater evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,98 @@ subdomains:
   - annotation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "human-preference-evaluation-synthetic-seed-2026-05-21"
+  - human-preference-evaluation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Automated Metrics]]"
-  - "[[Model-Graded Evaluation]]"
+  - '[[Automated Metrics]]'
+  - '[[Model-Graded Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Automated Metrics]]"
-  - "[[Model-Graded Evaluation]]"
+  - '[[Automated Metrics]]'
+  - '[[Model-Graded Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Human Preference Evaluation Process**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Pair] --> B[Annotator]
+>   B --> C[Evaluation Criteria]
+>   C --> D[Preference Decision]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Evaluation Methods**
+> *Compare human preference evaluation with other methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Preference Evaluation] -->|Subjective Criteria| B(Helpfulness)
+>   A -->|Accuracy| C(Accuracy)
+>   A -->|Harmlessness| D(Harmlessness)
+>   A -->|Coherence| E(Coherence)
+>   F[Automated Metrics] -->|Objective Measures| G(Objectivity)
+>   H[Model-Graded Evaluation] -->|Internal Consistency| I(Consistency)
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Training Reward Models**
+> *Trace the process from human feedback to reward model training.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Annotator as A
+>   participant Model as M
+>   participant Trainer as T
+>   A->>M: Provide Input Pair
+>   M-->>A: Generate Outputs
+>   A->>T: Submit Preference Decision
+>   T->>M: Adjust Reward Function
+> ```
 
 # Human Preference Evaluation
 

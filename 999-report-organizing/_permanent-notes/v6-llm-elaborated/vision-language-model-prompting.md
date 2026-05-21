@@ -1,15 +1,14 @@
 ---
-title: "Vision-Language Model Prompting"
+title: Vision-Language Model Prompting
 aliases:
-  - "Vision-Language Model Prompting"
-  - "VLM prompting"
-  - "vision-language prompting"
-  - "multimodal prompt design"
-  - "GPT-4V prompting"
+  - Vision-Language Model Prompting
+  - VLM prompting
+  - vision-language prompting
+  - multimodal prompt design
+  - GPT-4V prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - multimodal-learning
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "vision-language-model-prompting-synthetic-seed-2026-05-21"
+  - vision-language-model-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Text-Only Prompting]]"
-  - "[[Multimodal Few-Shot Learning]]"
+  - '[[Text-Only Prompting]]'
+  - '[[Multimodal Few-Shot Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Text-Only Prompting]]"
+  - '[[Text-Only Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multimodal Few-Shot Learning]]"
+  - '[[Multimodal Few-Shot Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — VLM Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Visual+Text Integration]
+>   B --> C[Prompt Design]
+>   C --> D[Spatial Reasoning]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — VLM Prompt Types Comparison**
+> *Compare the types of VLM prompts and their key features.*
+>
+> ```mermaid
+> graph TD
+>   A[Text-Only] -->|Focuses on text| B[Single Image]
+>   C[Multimodal] -->|Incorporates visual data| D[Multiple Images]
+> ```
+
+
+> [!abstract] **Diagram 3 — VLM Prompting Challenges**
+> *Identify the challenges in VLM prompting and their solutions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Visual Grounding] --> B[Spatial Reasoning]
+>   C[Ambiguity Handling] --> D[Structured Output Requests]
+> ```
 
 # Vision-Language Model Prompting
 

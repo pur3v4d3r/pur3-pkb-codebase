@@ -16,7 +16,7 @@ subdomains:
   - cognitive-neuroscience
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - consciousness-theories-synthetic-seed-2026-04-25
@@ -63,8 +63,89 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Consciousness Theories Overview**
+> *Follow the flow from theory to its key proponent and mechanism.*
+>
+> ```mermaid
+> graph TD
+>   A[Global Workspace Theory]
+>   B[Bernard Baars]
+>   C[Integration of Information Across Brain]
+>   D[Integrated Information Theory]
+>   E[Gilulio Tononi]
+>   F[Causal Integration Φ]
+>   G[Higher-Order Theories]
+>   H[N/A]
+>   I[Differentiation Between Access and Phenomenal Consciousness]
+>   J[Predictive-processing Models]
+>   K[N/A]
+>   L[Reduction of Prediction Errors]
+>   A --> B
+>   A --> C
+>   D --> E
+>   D --> F
+>   G --> H
+>   G --> I
+>   J --> K
+>   J --> L
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Consciousness Theories**
+> *Trace the flow from sensory inputs to conscious experiences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Global Workspace Theory]
+>   B[Integration of Sensory Inputs with Higher-Level Representations]
+>   C[Conscious Experiences]
+>   D[Integrated Information Theory]
+>   E[Causal Integration Φ]
+>   F[Complex and Integrated Conscious States]
+>   G[Predictive-processing Models]
+>   H[Generation of Predictions About Sensory Inputs]
+>   I[Updates Based on Prediction Errors]
+>   J[Conscious Experiences Arise from Minimizing Prediction Errors]
+>   A --> B
+>   B --> C
+>   D --> E
+>   E --> F
+>   G --> H
+>   H --> I
+>   I --> J
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Consciousness Theories**
+> *Identify how each theory is applied in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Predictive-processing Models]
+>   C[Anticipate Student Needs and Adapt Content]
+>   D[Neurotechnology]
+>   E[Integrated Information Theory]
+>   F[Better Interpret and Respond to Conscious States]
+>   G[Spaced Retrieval in MOOCs]
+>   H[Global Workspace Theory]
+>   I[Integrate New Information into Long-Term Memory]
+>   A --> B
+>   D --> E
+>   G --> H
+>   B --> C
+>   E --> F
+>   H --> I
+> ```
 
 # Consciousness Theories
 

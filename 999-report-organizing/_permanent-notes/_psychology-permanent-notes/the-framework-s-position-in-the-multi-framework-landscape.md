@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -71,8 +71,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Phases of Self-Regulated Learning**
+> *Follow the sequence from planning to reflection.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[Preparation]
+>   C[Performance]
+>   D[Self-Reflection]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivational and Cognitive Strategies Interaction**
+> *Identify how strategies interconnect in the learning process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal-Setting]
+>   B[Self-Efficacy]
+>   C[Elaboration]
+>   D[Organization]
+>   E[Performance Monitoring]
+>   F[Strategy Adjustment]
+>   A -->|Motivational|
+>   B -->|Motivational|
+>   C -->|Cognitive|
+>   D -->|Cognitive|
+>   E -->|Cognitive|
+>   F -->|Motivational|
+>   A --> E
+>   B --> E
+>   C --> E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop in Self-Regulation**
+> *Trace the continuous improvement cycle.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Planning
+>   Planning --> Executing
+>   Executing --> Evaluating
+>   Evaluating --> Adjusting
+>   Adjusting --> Planning
+> ```
 
 # Pintrich's Framework of Self-Regulated Learning
 

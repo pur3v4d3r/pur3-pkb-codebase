@@ -1,14 +1,13 @@
 ---
-title: "Semantic Priming Effects"
+title: Semantic Priming Effects
 aliases:
-  - "Semantic Priming Effects"
-  - "priming effects in LLMs"
-  - "contextual priming"
-  - "semantic activation spreading"
+  - Semantic Priming Effects
+  - priming effects in LLMs
+  - contextual priming
+  - semantic activation spreading
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,88 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "semantic-priming-effects-synthetic-seed-2026-05-20"
+  - semantic-priming-effects-synthetic-seed-2026-05-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Schema Activation in Prompts]]"
-  - "[[Prototype Theory and LLMs]]"
+  - '[[Schema Activation in Prompts]]'
+  - '[[Prototype Theory and LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Schema Activation in Prompts]]"
-  - "[[Prototype Theory and LLMs]]"
+  - '[[Schema Activation in Prompts]]'
+  - '[[Prototype Theory and LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Semantic Priming Process Flow**
+> *Follow the flow from initial input to model output, noting how semantic priming influences each step.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Input] --> B[Prompt Processing]
+>   B --> C[Internal Associations]
+>   C --> D[Generated Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic Priming vs Direct Instruction**
+> *Compare the implicit influence of semantic priming with explicit direct instruction in guiding model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Instruction] -->|Explicit Commands| E[Model Output]
+>   B[Semantic Priming] -->|Contextual Cues| F[Generated Text]
+> ```
+
+
+> [!abstract] **Diagram 3 — Priming Effects in Different Domains**
+> *Observe how semantic priming impacts various domains such as instructional design and content moderation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Contextual Cues| B[Coherent Content]
+>   C[Content Moderation] -->|Initial Prompts| D[Harmful Content]
+> ```
 
 # Semantic Priming Effects
 

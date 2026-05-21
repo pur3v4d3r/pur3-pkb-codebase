@@ -18,7 +18,7 @@ subdomains:
   - sleep-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - memory-consolidation-synthetic-seed-2026-04-24
@@ -65,8 +65,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Memory Consolidation Process Flow**
+> *Follow the flow from encoding to consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding] --> B[Hippocampus]
+>   B --> C[LTP]
+>   C --> D[SystemConsolidation]
+>   D --> E[CortexIntegration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Consolidation Stages During Sleep**
+> *Identify the stages of sleep involved in consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[REM] --> B[SWS]
+>   B --> C[Consolidation]
+>   C --> D[Wakefulness]
+> ```
 
 # Memory Consolidation
 

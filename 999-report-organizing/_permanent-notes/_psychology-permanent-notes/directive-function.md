@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Directive Function Process Flow**
+> *Follow the flow from goal setting to performance enhancement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting] --> B[Recognize Goal-Relevant Activities]
+>   B --> C[Filtering Irrelevant Stimuli]
+>   C --> D[Occupying Working Memory]
+>   D --> E[Enhanced Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Directive Function Mechanism Interaction**
+> *See how the directive function works with other mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Directive Function] --> B[Energizing]
+>   A --> C[Persistence]
+>   A --> D[Strategic Functions]
+>   subgraph Performance Gains
+>     E1[(Combined Mechanisms)]
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Directive Function in Educational Settings**
+> *Trace the application of directive function in instructional design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   participant Goal as G
+>   T->>S: Set Clear Goals(G)
+>   S->>T: Focus on Relevant Activities
+>   S-->>G: Enhanced Learning Outcomes
+> ```
 
 # Directive Function
 

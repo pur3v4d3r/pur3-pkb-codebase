@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -70,8 +70,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Study Time Allocation Process**
+> *Follow the flow from assessment to study time allocation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assess Memorability] --> B[Low JOL]
+>   B --> C[Allocate More Time]
+>   A --> D[High JOL]
+>   D --> E[Less Study Time]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop in Learning**
+> *Trace the cycle from assessment to feedback and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assess Memorability] --> B[Low JOL]
+>   B --> C[Allocate More Time]
+>   C --> D[Feedback]
+>   D --> E[Refine JOL]
+>   E --> F[Repeat Assessment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Strategic Learning Prioritization**
+> *Identify the focus areas based on proximity to criterion state.*
+>
+> ```mermaid
+> graph TD
+>   A[Far from Criterion] --> B[Low Priority]
+>   C[Near but Below Criterion] --> D[High Priority]
+>   E[Above Criterion] --> F[No Further Effort]
+> ```
 
 # Discrepancy-Reduction Model of Study Time Allocation
 

@@ -20,7 +20,7 @@ subdomains:
   - llm-agents
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - execution-feedback-prompting-synthetic-seed-2026-05-20
@@ -67,8 +67,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Feedback Loop Process Overview**
+> *Follow the arrows to see how feedback guides iterative refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Code] --> B[Test Suite]
+>   B --> C[Execution Output]
+>   C --> D[Model Refinement]
+>   D --> E[Refined Code]
+>   E --> F[Next Iteration]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Feedback Mechanisms**
+> *Compare the feedback mechanisms used in Execution Feedback Prompting vs Self-Evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Execution Output] --> B(Model Refinement)
+>   C(Self-Assessment) --> D(Internal Adjustment)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Iterative Refinement Workflow**
+> *Trace the workflow from initial code to final refined output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Code] --> B[Test Suite]
+>   B --> C[Execution Output]
+>   C --> D[Feedback Analysis]
+>   D --> E[Code Adjustment]
+>   E --> F[Refined Code]
+>   F --> G[Next Iteration]
+>   G --> H[Final Refined Output]
+> ```
 
 # Execution Feedback Prompting
 

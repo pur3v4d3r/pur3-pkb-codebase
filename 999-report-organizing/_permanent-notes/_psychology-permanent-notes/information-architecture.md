@@ -17,7 +17,7 @@ subdomains:
   - knowledge-organization
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - information-architecture-synthetic-seed-2026-04-25
@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Information Architecture Components**
+> *Follow the flow from understanding to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Research] --> B[Organize]
+>   B --> C[Label]
+>   C --> D[Navigate]
+>   D --> E[Search]
+> ```
+
+
+> [!abstract] **Diagram 2 — IA vs Visual Design**
+> *Compare the focus of IA and visual design.*
+>
+> ```mermaid
+> graph TD
+>   A[Information Architecture] -->|Organize & Present| B[Usability]
+>   C[Visual Design] -->|Aesthetic Appearance| D[Interface]
+> ```
+
+
+> [!abstract] **Diagram 3 — IA Process Flow**
+> *Trace the steps from research to implementation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant UserResearch as UR
+>   participant ContentOrganize as CO
+>   participant Labeling as L
+>   participant NavigationDesign as ND
+>   participant SearchImplementation as SI
+>   UR->>CO: Understand content and users
+>   CO->>L: Organize content into structure
+>   L->>ND: Label structures with clear terms
+>   ND->>SI: Design navigation systems
+>   SI-->>UR: Implement search mechanisms
+> ```
 
 # Information Architecture
 

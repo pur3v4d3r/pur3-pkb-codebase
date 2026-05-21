@@ -17,7 +17,7 @@ subdomains:
   - defeasible-reasoning
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - defeater-synthetic-seed-2026-05-12
@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Defeater Mechanism Overview**
+> *Follow the flow from belief to justificatory relations and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Belief] --> B[Justificatory Relations]
+>   C[New Evidence] -->|Diminishes Justification| B
+>   D[Reassess Confidence] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Types of Defeaters**
+> *Compare rebutting and undercutting defeaters in their impact on justificatory relations.*
+>
+> ```mermaid
+> graph TD
+>   A[Rebutting Defeater] -->|Direct Counter-Evidence| B[Premise]
+>   C[Undercutting Defeater] -->|Challenges Reliability/Relevance| D[Evidence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Defeaters vs Disagreement**
+> *Identify the key differences between defeaters and mere disagreement.*
+>
+> ```mermaid
+> graph TD
+>   A[Disagreement] -->|No Specific Evidence| B[Mere Challenge]
+>   C[Defeater] -->|Tracks Lack of Knowledge| D[Undermines Justification]
+> ```
 
 # Defeater
 

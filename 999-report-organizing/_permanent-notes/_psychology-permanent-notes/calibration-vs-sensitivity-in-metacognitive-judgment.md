@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognition-and-reading-foundational-report-2026-04-20
@@ -67,8 +67,75 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Calibration vs Sensitivity Overview**
+> *Follow the arrows to understand how calibration and sensitivity relate to confidence and performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Confidence]
+>   B[Performance]
+>   C[Calibration]
+>   D[Sensitivity]
+>   A -->|Reflects|
+>   B
+>   A -->|Correlates with|
+>   D
+>   B -->|Tracks|
+>   C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Calibration and Sensitivity**
+> *Trace the feedback loop to see how sensitivity and calibration are influenced by processing and integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Feedback]
+>   B[Cognitive Biases/Heuristics]
+>   C[Sensitivity]
+>   D[Calibration]
+>   A -->|Processed By|
+>   B
+>   B -->|Influences|
+>   D
+>   A -->|Maps To|
+>   C
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Expertise on Calibration and Sensitivity**
+> *Compare the calibration and sensitivity levels between novices and experts.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice]
+>   B[Expert]
+>   C[Poor Calibration]
+>   D[High Sensitivity]
+>   E[Good Calibration]
+>   F[Superior Calibration]
+>   G[Sensitivity]
+>   H[Nuanced Metacognitive Maps]
+>   A -->|Poor|
+>   C
+>   A -->|High|
+>   D
+>   B -->|Good|
+>   E
+>   B -->|Superior|
+>   F
+>   B -->|Enhances|
+>   H
+> ```
 
 # Calibration vs. Sensitivity
 

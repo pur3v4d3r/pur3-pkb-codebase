@@ -1,13 +1,12 @@
 ---
-title: "Negative Prompting"
+title: Negative Prompting
 aliases:
-  - "Negative Prompting"
-  - "exclusion prompting"
-  - "do-not instructions"
+  - Negative Prompting
+  - exclusion prompting
+  - do-not instructions
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,100 @@ subdomains:
   - output-control
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "negative-prompting-synthetic-seed-2026-05-20"
+  - negative-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Positive Framing]]"
-  - "[[Instruction-Following]]"
+  - '[[Positive Framing]]'
+  - '[[Instruction-Following]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Positive Framing]]"
+  - '[[Positive Framing]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction-Following]]"
+  - '[[Instruction-Following]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Negative vs Positive Framing**
+> *Compare the focus of negative and positive framing techniques.*
+>
+> ```mermaid
+> graph TD
+> A[Positive Framing]
+> B[Negative Framing]
+> A -->|Desired Outcomes| C[Primary Task]
+> B -->|Exclusions| D[Cognitive Reliability Issues]
+> ```
+
+
+> [!abstract] **Diagram 2 — Negative Prompting Process Flow**
+> *Follow the steps involved in applying negative prompting.*
+>
+> ```mermaid
+> flowchart LR
+> A[Start]
+> B[Specify Prohibitions]
+> C[Mental Simulation]
+> D[Cognitive Reliability Issues]
+> E[Output Quality]
+> F[End]
+> A --> B
+> B --> C
+> C --> D
+> D --> E
+> E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Negative Prompting Cognitive Process**
+> *Understand the cognitive steps in negative prompting.*
+>
+> ```mermaid
+> stateDiagram-v2
+> [*] --> A[Consider Prohibition]
+> A --> B[Mental Simulation of Prohibited Item]
+> B --> C[Cognitive Reliability Check]
+> C --> D[Exclude Item]
+> D --> [*]
+> ```
 
 # Negative Prompting
 

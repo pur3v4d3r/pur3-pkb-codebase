@@ -1,13 +1,12 @@
 ---
-title: "Self-Ask Prompting"
+title: Self-Ask Prompting
 aliases:
-  - "Self-Ask Prompting"
-  - "self-ask"
-  - "follow-up question prompting"
+  - Self-Ask Prompting
+  - self-ask
+  - follow-up question prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,95 @@ subdomains:
   - question-decomposition
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-ask-prompting-synthetic-seed-2026-05-20"
+  - self-ask-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Least-to-Most Prompting]]"
-  - "[[Decomposed Prompting]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Least-to-Most Prompting]]'
+  - '[[Decomposed Prompting]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Least-to-Most Prompting]]"
-  - "[[Decomposed Prompting]]"
+  - '[[Least-to-Most Prompting]]'
+  - '[[Decomposed Prompting]]'
 contrasts-with:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Ask Prompting Process Flow**
+> *Follow the sequence from initial query to final response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Query] --> B[Generate Follow-Up Questions]
+>   B --> C[Answer Each Question]
+>   C --> D[Synthesize Answers]
+>   D --> E[Final Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Ask vs Chain-of-Thought Comparison**
+> *Compare the externalized and internalized reasoning processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Query] --> B1(Self-Ask: Generate & Answer)
+>   A --> B2(Chain-of-Thought: Internal Reasoning)
+>   B1 --> C1(Synthesize Answers)
+>   C1 --> D1(Final Response Explicit)
+>   B2 --> D2(Final Response Implicit)
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Ask Prompting Taxonomy**
+> *Identify the components and steps involved in Self-Ask Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Query] --> B(Generate Follow-Up)
+>   B --> C(Answer Questions)
+>   C --> D(Synthesize Answers)
+>   D --> E(Final Response)
+> ```
 
 # Self-Ask Prompting
 

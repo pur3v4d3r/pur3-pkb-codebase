@@ -17,7 +17,7 @@ subdomains:
   - metacognition
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognitive-prompting-synthetic-seed-2026-05-20
@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Self-Assessment]
+>   B --> C[Evaluation]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Comparison**
+> *Compare the two paths to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B1[Reactive Response]
+>   A --> B2[Reflective Self-Assessment]
+>   B1 --> C1[Immediate Output]
+>   B2 --> C2[Evaluated Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Prompting Applications**
+> *Identify the applications and their benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B1[Enhanced Learning]
+>   C[Decision Support Systems] --> D1[Reliable Recommendations]
+> ```
 
 # Metacognitive Prompting
 

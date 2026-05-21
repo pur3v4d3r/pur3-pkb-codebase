@@ -18,7 +18,7 @@ subdomains:
   - analogical-reasoning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - analogical-in-context-learning-synthetic-seed-2026-05-20
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Analogical ICL Process Flow**
+> *Follow the flow from source to target problem.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Domain Example] --> B[Identify Structural Analogy]
+>   B --> C[Surface-Level Differences]
+>   C --> D[Underlying Relational Structure]
+>   D --> E[Target Problem]
+> ```
+
+
+> [!abstract] **Diagram 2 — Analogical ICL Taxonomy**
+> *Compare Analogical ICL with other in-context learning methods.*
+>
+> ```mermaid
+> graph TD
+>   A[In-Context Learning]
+>   B[Surface-Level Similarities] -->|Example| A
+>   C[Exact Matches] -->|Target| A
+>   D[Structural Analogy] -->|Analogical ICL| A
+> ```
+
+
+> [!abstract] **Diagram 3 — ICL Application Scenarios**
+> *Identify different application areas for Analogical ICL.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Differential Equations]
+>   C[Low-Data Medical Diagnosis] --> D[Rare Disease Diagnosis]
+>   E[Mathematical Relationships] -.->|Analogous Examples| B
+>   F[Underlying Mechanisms] -.->|Structural Analogy| D
+> ```
 
 # Analogical In-Context Learning
 

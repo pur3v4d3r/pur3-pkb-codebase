@@ -1,14 +1,13 @@
 ---
-title: "Token Budget Management"
+title: Token Budget Management
 aliases:
-  - "Token Budget Management"
-  - "token budget"
-  - "context budget"
-  - "inference token planning"
+  - Token Budget Management
+  - token budget
+  - context budget
+  - inference token planning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,90 @@ subdomains:
   - cost-management
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "token-budget-management-synthetic-seed-2026-05-20"
+  - token-budget-management-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Context Window Management]]"
-  - "[[Prompt Compression]]"
+  - '[[Context Window Management]]'
+  - '[[Prompt Compression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Context Window Management]]"
+  - '[[Context Window Management]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Compression]]"
+  - '[[Prompt Compression]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Token Usage Components**
+> *Identify the main components contributing to token usage.*
+>
+> ```mermaid
+> graph TD
+>   A[System Prompts] --> B[Conversation History]
+>   C[Tool Outputs] --> B
+>   D[Response Generation] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Budget Management Process**
+> *Follow the steps involved in managing token budgets.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Track Token Usage] --> B[Plan Allocation]
+>   B --> C[Evaluate Impact]
+>   C --> D[Tweak Strategies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token Budget vs Performance Trade-off**
+> *Understand the balance between token budget and performance.*
+>
+> ```mermaid
+> graph TD
+>   A[High Token Budget] --> B[Low Cost]
+>   C[High Quality Responses] --> D[High Latency]
+>   E[Low Token Budget] --> F[High Cost]
+>   G[Low Quality Responses] --> H[Low Latency]
+> ```
 
 # Token Budget Management
 

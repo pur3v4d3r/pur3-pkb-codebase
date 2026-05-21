@@ -20,7 +20,7 @@ subdomains:
   - evaluation-methodology
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - llm-judge-calibration-synthetic-seed-2026-05-20
@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LLM Judge Calibration Process Overview**
+> *Follow the flow from bias identification to calibration techniques.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Biases] --> B[Systematic Analysis]
+>   B --> C[Calibration Techniques]
+>   C --> D[Reduce Bias]
+> ```
+
+
+> [!abstract] **Diagram 2 — Types of Calibration Techniques**
+> *See the different techniques and their targets for bias reduction.*
+>
+> ```mermaid
+> graph TD
+>   A[Position-Swapping] -->|Random Assignment| B[Ratings Change]
+>   C[Calibration Prompts] -->|Controlled Conditions| D[Test Biases]
+>   E[Multijudge Ensembling] -->|Consensus| F[Reduce Individual Bias]
+>   G[Fine-Tuning] -->|Human Preference Data| H[Align Judgments]
+> ```
+
+
+> [!abstract] **Diagram 3 — Bias Types and Calibration Techniques**
+> *Match bias types with appropriate calibration techniques.*
+>
+> ```mermaid
+> graph TD
+>   A{Position Bias} --> |Calibration Prompts| B[Controlled Conditions]
+>   C{Verbosity Bias} --> |Fine-Tuning| D[Human Preference Data]
+>   E{Self-Preference Bias} --> |Multijudge Ensembling| F[Consensus]
+> ```
 
 # LLM Judge Calibration
 

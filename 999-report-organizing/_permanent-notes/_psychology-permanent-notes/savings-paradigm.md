@@ -18,7 +18,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - savings-paradigm-synthetic-seed-2026-04-25
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Savings Paradigm Process Flow**
+> *Follow the sequence from initial study to relearning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Study] --> B[Delay Period]
+>   B --> C[Re-exposure]
+>   C --> D[Relearning Trials]
+>   D --> E[Savings Measurement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Trace Reactivation Mechanism**
+> *Trace the path of memory reactivation from initial study to relearning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Study] --> B[Residual Traces]
+>   B --> C[Re-exposure]
+>   C --> D[Improved Performance]
+>   D --> E[Savings]
+> ```
+
+
+> [!abstract] **Diagram 3 — Savings Paradigm Applications**
+> *Identify the applications of Savings Paradigm in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Spaced Repetition]
+>   C[Educational Assessment] --> D[Savings Measurement]
+>   E[MOOCs] --> F[Spaced Retrieval]
+> ```
 
 # Savings Paradigm
 

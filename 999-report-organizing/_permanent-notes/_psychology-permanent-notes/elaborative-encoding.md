@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
@@ -72,8 +72,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Elaborative Encoding Process Flow**
+> *Follow the steps from initial processing to memory retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Key Elements] --> B(Link to Existing Knowledge)
+>   B --> C[Integrate into Schema]
+>   C --> D[Memory Retention]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elaborative vs Maintenance Rehearsal**
+> *Compare the focus of elaborative and maintenance rehearsal.*
+>
+> ```mermaid
+> graph TD
+>   A[Elaborative Rehearsal] -->|Creates Meaningful Connections| B[Deep Processing]
+>   C[Maintenance Rehearsal] -->|Repetitive Rote Memorization| D[Short-Term Recall]
+> ```
+
+
+> [!abstract] **Diagram 3 — Elaborative Encoding Applications**
+> *See how elaborative encoding is applied in different contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Instructor as I
+>   participant KnowledgeBase as KB
+>   S->>I: Explain Concepts
+>   I->>S: Relate to Real-World Scenarios
+>   S->>KB: Link New Material
+>   KB-->>S: Create Interconnected Ideas
+> ```
 
 # Elaborative Encoding
 

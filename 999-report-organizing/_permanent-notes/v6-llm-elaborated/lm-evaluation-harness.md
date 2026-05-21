@@ -20,7 +20,7 @@ subdomains:
   - model-comparison
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - lm-evaluation-harness-synthetic-seed-2026-05-20
@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LM Evaluation Harness Workflow**
+> *Follow the flow from input to standardized evaluation output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Model] --> B[Standardized Interface]
+>   B --> C[Evaluation Criteria]
+>   C --> D[Benchmark Tasks]
+>   D --> E[Consistent Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — LM Evaluation Harness Components**
+> *Identify the core components that enable standardized evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Infrastructure] --> B[Evaluation Criteria]
+>   A --> C[Benchmark Tasks]
+>   A --> D[Consistent Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — LM Evaluation vs Individual Benchmarks**
+> *Understand the distinction between harness and benchmarks.*
+>
+> ```mermaid
+> classDiagram
+>   class LM_Evaluation_Harness{
+>     +provides Infrastructure
+>     +ensures Standardization
+>   }
+>   class Individual_Benchmarks{
+>     -defines Tasks
+>     -measures Performance
+>   }
+>   LM_Evaluation_Harness --> Individual_Benchmarks : applies to
+> ```
 
 # LM Evaluation Harness
 

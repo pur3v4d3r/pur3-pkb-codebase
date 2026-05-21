@@ -18,7 +18,7 @@ subdomains:
   - heuristics-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - representativeness-heuristic-synthetic-seed-2026-04-25
@@ -65,8 +65,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Representativeness Heuristic Process Flow**
+> *Follow the flow from instance to judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instance] --> B[Evaluation]
+>   B --> C[Simplicity]
+>   C --> D[Judgment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Representativeness Heuristic Mechanism Overview**
+> *Trace the steps from prototype to similarity assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Prototype]
+>   B[Instance]
+>   C[Evaluation]
+>   D[Simplicity]
+>   E[Judgment]
+>   A -->|Compare| B
+>   B -->|Evaluate| C
+>   C -->|Simplify| D
+>   D -->|Assess| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Representativeness Heuristic Applications**
+> *Identify the areas where representativeness heuristic is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Decision-Making]
+>   C[Marketing]
+>   D[Spaced Retrieval MOOCs]
+>   subgraph Applications
+>     A -->|Example1|
+>     B -->|Example2|
+>     C -->|Example3|
+>     D -->|Example4|
+>   end
+> ```
 
 # Representativeness Heuristic
 

@@ -1,14 +1,13 @@
 ---
-title: "Sycophancy Mitigation"
+title: Sycophancy Mitigation
 aliases:
-  - "Sycophancy Mitigation"
-  - "anti-sycophancy training"
-  - "sycophancy correction"
-  - "flattery reduction in LLMs"
+  - Sycophancy Mitigation
+  - anti-sycophancy training
+  - sycophancy correction
+  - flattery reduction in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,139 @@ subdomains:
   - human-ai-interaction
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "sycophancy-mitigation-synthetic-seed-2026-05-21"
+  - sycophancy-mitigation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Reward Hacking in RLHF]]"
-  - "[[Constitutional AI]]"
+  - '[[Reward Hacking in RLHF]]'
+  - '[[Constitutional AI]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reward Hacking in RLHF]]"
+  - '[[Reward Hacking in RLHF]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Constitutional AI]]"
+  - '[[Constitutional AI]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sycophancy Mitigation Process Flow**
+> *Follow the steps from training to inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Feedback]
+>   B[Reward Model Bias]
+>   C[Agreement Over Accuracy]
+>   D[Mitigation Strategies]
+>   E[Training Adjustments]
+>   F[Inference Calibration]
+>   G[Accurate Responses]
+>   A -->|Biases in|
+>   B
+>   B -->
+>   C
+>   C -->
+>   D
+>   D -->
+>   E
+>   D -->
+>   F
+>   E -->
+>   G
+>   F -->
+>   G
+> ```
+
+
+> [!abstract] **Diagram 2 — Sycophancy vs Reward Hacking Comparison**
+> *Compare the focus areas of sycophancy and reward hacking.*
+>
+> ```mermaid
+> graph TD
+>   A[Agreement Bias]
+>   B[Misaligned Rewards]
+>   C[Sycophancy Mitigation]
+>   D[Reward Hacking Prevention]
+>   E[Correcting Agreement]
+>   F[Avoiding Exploits]
+>   G[Model Accuracy]
+>   A -->|Focus|
+>   C
+>   B -->|Focus|
+>   D
+>   C -->
+>   E
+>   D -->
+>   F
+>   E -->
+>   G
+>   F -->
+>   G
+> ```
+
+
+> [!abstract] **Diagram 3 — Contrastive Training Example**
+> *See how contrastive training pairs are used.*
+>
+> ```mermaid
+> graph TD
+>   A[Agreeable Response]
+>   B[Sycophantic]
+>   C[Genuine Accuracy]
+>   D[Non-Sycophantic]
+>   E[Model Learning]
+>   F[Distinguishing Bias]
+>   G[Accurate Feedback]
+>   A -->|Sycophancy|
+>   B
+>   C -->
+>   D
+>   B -->
+>   E
+>   D -->
+>   E
+>   E -->
+>   F
+>   F -->
+>   G
+> ```
 
 # Sycophancy Mitigation
 

@@ -1,15 +1,14 @@
 ---
-title: "Self-Debugging Language Model"
+title: Self-Debugging Language Model
 aliases:
-  - "Self-Debugging Language Model"
-  - "Self-Debugging LLM"
-  - "LLM self-repair"
-  - "self-debugging code generation"
-  - "self-correcting code LLM"
+  - Self-Debugging Language Model
+  - Self-Debugging LLM
+  - LLM self-repair
+  - self-debugging code generation
+  - self-correcting code LLM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,95 @@ subdomains:
   - llm-agents
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-debugging-llm-synthetic-seed-2026-05-20"
+  - self-debugging-llm-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Code Generation Techniques"
-
+parent-concept: Code Generation Techniques
 related:
-  - "[[Execution Feedback Prompting]]"
-  - "[[Repair Prompting]]"
-  - "[[Code-Prompting Strategies]]"
+  - '[[Execution Feedback Prompting]]'
+  - '[[Repair Prompting]]'
+  - '[[Code-Prompting Strategies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Execution Feedback Prompting]]"
-  - "[[Repair Prompting]]"
+  - '[[Execution Feedback Prompting]]'
+  - '[[Repair Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Code-Prompting Strategies]]"
+  - '[[Code-Prompting Strategies]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-debugging cycle overview**
+> *Follow the iterative process from generation to correction.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Code] --> B[Detect Errors]
+>   B --> C[Prompt Explanation]
+>   C --> D[Propose Fix]
+>   D --> E[Apply Fix]
+>   E --> F[Evaluate Correctness]
+>   F -->|Yes| G[Final Output]
+>   F -->|No| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Error detection methods comparison**
+> *Compare static analysis and execution feedback approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Analysis] --> B[Identify Syntax Errors]
+>   C[Execution Feedback] --> D[Detect Runtime Issues]
+>   E[Both Methods] --> F[Integrate for Comprehensive Error Detection]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-diagnosis vs Human diagnosis**
+> *Compare the reliability of error detection methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Diagnosis] --> B[Nuanced Understanding]
+>   C[Model Self-Diagnosis] --> D[Data-Driven Patterns]
+>   E[Reliability Comparison] --> F[Human More Contextual]
+> ```
 
 # Self-Debugging Language Model
 

@@ -1,13 +1,12 @@
 ---
-title: "Zero-Shot Prompting"
+title: Zero-Shot Prompting
 aliases:
-  - "Zero-Shot Prompting"
-  - "zero-shot inference"
-  - "zero-shot prediction"
+  - Zero-Shot Prompting
+  - zero-shot inference
+  - zero-shot prediction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,102 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "zero-shot-prompting-synthetic-seed-2026-05-20"
+  - zero-shot-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Few-Shot Prompting]]"
-  - "[[Instruction-Tuning]]"
+  - '[[Few-Shot Prompting]]'
+  - '[[Instruction-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Few-Shot Prompting]]"
+  - '[[Few-Shot Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction-Tuning]]"
+  - '[[Instruction-Tuning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Zero-Shot vs Few-Shot Prompting**
+> *Compare zero-shot and few-shot prompting methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Description]
+>   B[Few-Shot (Examples)]
+>   C[Output]
+>   A -->|Input| B
+>   B -->|Process| C
+>   A -->|Direct Input| D[Zero-Shot Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Model Training Phases**
+> *Understand the training phases of a language model.*
+>
+> ```mermaid
+> graph TD
+>   Pretraining[Pretraining]
+>   InstructionTuning/Instruction-Tuning -->|Fine-tune with Instructions|
+>   ZeroShotPrompting/Zero-Shot Prompting -->|Evaluate Generalization|
+>   Pretraining --> InstructionTuning
+>   InstructionTuning --> ZeroShotPrompting
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Description Flow**
+> *Follow the flow of a task description in zero-shot prompting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B(Task Description)
+>   C[Interpret Task]
+>   D(Generate Output)
+>   E[End]
+>   A --> B
+>   B -->|Parse and Understand|
+>   C
+>   C -->|Execute Based on Patterns|
+>   D
+>   D --> E
+> ```
 
 # Zero-Shot Prompting
 

@@ -1,14 +1,13 @@
 ---
-title: "Supervised Fine-Tuning"
+title: Supervised Fine-Tuning
 aliases:
-  - "Supervised Fine-Tuning"
-  - "SFT"
-  - "supervised adaptation"
-  - "standard fine-tuning"
+  - Supervised Fine-Tuning
+  - SFT
+  - supervised adaptation
+  - standard fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,124 @@ subdomains:
   - deep-learning
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "supervised-fine-tuning-synthetic-seed-2026-05-21"
+  - supervised-fine-tuning-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Parameter-Efficient Fine-Tuning]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Direct Preference Optimization (DPO)]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Direct Preference Optimization (DPO)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Direct Preference Optimization (DPO)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Direct Preference Optimization (DPO)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Supervised Fine-Tuning Process Flow**
+> *Follow the sequence from pretraining to alignment stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretrained Model]
+>   B[Labelled Data]
+>   C[Cross-Entropy Loss]
+>   D[Task-Specific Parameters]
+>   E[Alignment Methods]
+>   A -->|Fine-Tuning|
+>   B -->|Training|
+>   C -->|Optimization|
+>   D
+>   D -->|Foundation|
+>   E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Fine-Tuning Techniques**
+> *Compare supervised fine-tuning with RLHF and DPO.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Fine-Tuning]
+>   B[Reinforcement Learning from Human Feedback (RLHF)]
+>   C[Direct Preference Optimization (DPO)]
+>   A -->|Labeled Data|
+>   B -->|Human Feedback|
+>   C -->|Preference Comparison|
+>   A -->|Cross-Entropy Loss|
+>   B -->|Reward System|
+>   C -->|Comparison-Based Loss|
+>   A -->|Explicit Labeling|
+>   B -->|Dynamic Alignment|
+>   C -->|Direct Optimization|
+> ```
+
+
+> [!abstract] **Diagram 3 — Supervised Fine-Tuning Workflow**
+> *Trace the workflow from data preparation to model optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Preparation]
+>   B[Labeled Dataset]
+>   C[Model Initialization]
+>   D[Fine-Tuning Process]
+>   E[Cross-Entropy Loss Function]
+>   F[Optimized Parameters]
+>   G[Task-Specific Model]
+>   A -->|Curate|
+>   B
+>   B -->|Load|
+>   C
+>   C -->|Start|
+>   D
+>   D -->|Apply|
+>   E
+>   E -->|Adjust|
+>   F
+>   F -->|Result|
+>   G
+> ```
 
 # Supervised Fine-Tuning
 

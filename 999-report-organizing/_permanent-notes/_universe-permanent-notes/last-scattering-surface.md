@@ -18,7 +18,7 @@ subdomains:
   - cmb-research
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - last-scattering-surface-synthetic-seed-2026-05-14
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Recombination Process Timeline**
+> *Follow the sequence from Big Bang to LSS formation.*
+>
+> ```mermaid
+> sequenceDiagram
+> participant BB as "Big Bang"
+> participant Recombination as "Recombination"
+> participant LSS as "LSS Formation"
+> BB->>Recombination: Expansion and Cooling
+> Recombination-->>LSS: Electrons combine with Protons
+> LSS-->>BB: Photons decouple and travel freely
+> ```
+
+
+> [!abstract] **Diagram 2 — CMB Temperature Fluctuations**
+> *Observe the relationship between density perturbations and CMB anisotropies.*
+>
+> ```mermaid
+> graph TD
+> A["Density Perturbations"] --> B["Gravitational Potential"]
+> B --> C["Temperature Anisotropies"]
+> C --> D["CMB Observations"]
+> ```
+
+
+> [!abstract] **Diagram 3 — LSS Thickness and Angular Resolution**
+> *Notice the impact of LSS thickness on small-scale anisotropies.*
+>
+> ```mermaid
+> graph TD
+> A["Recombination Period"] --> B["Finite Shell"]
+> B --> C["Silk Damping"]
+> C --> D["Angular Resolution Limitation"]
+> ```
 
 # Last Scattering Surface
 

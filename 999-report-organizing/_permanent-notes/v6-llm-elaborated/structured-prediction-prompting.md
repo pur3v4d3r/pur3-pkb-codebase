@@ -1,14 +1,13 @@
 ---
-title: "Structured Prediction Prompting"
+title: Structured Prediction Prompting
 aliases:
-  - "Structured Prediction Prompting"
-  - "structured output prompting"
-  - "IE prompting"
-  - "extraction prompting"
+  - Structured Prediction Prompting
+  - structured output prompting
+  - IE prompting
+  - extraction prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - information-extraction
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "structured-prediction-prompting-synthetic-seed-2026-05-20"
+  - structured-prediction-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Grammar-Constrained Decoding]]"
-  - "[[Output Schema Enforcement]]"
+  - '[[Grammar-Constrained Decoding]]'
+  - '[[Output Schema Enforcement]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[Grammar-Constrained Decoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Output Schema Enforcement]]"
+  - '[[Output Schema Enforcement]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Structured Prediction Workflow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Template Embedding]
+>   B --> C[Model Generation]
+>   C --> D[Output Validation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Engineering Components**
+> *Identify the components that make up structured prediction prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt] --> B[Templates]
+>   A --> C[Placeholders]
+>   A --> D[Delimiters]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with API Constraints**
+> *Compare structured prediction prompting and pure API constraints.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pure API Constraints] --> B[Format Compliance]
+>   C[Structured Prediction Prompting] --> D[Schema Instructions]
+>   C --> E[Semantic Guidance]
+> ```
 
 # Structured Prediction Prompting
 

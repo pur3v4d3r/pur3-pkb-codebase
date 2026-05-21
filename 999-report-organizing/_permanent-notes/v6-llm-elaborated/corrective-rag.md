@@ -19,7 +19,7 @@ subdomains:
   - error-correction
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - corrective-rag-synthetic-seed-2026-05-20
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Corrective RAG Process Flow**
+> *Follow the flow from retrieval to generation, noting validation steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Query] --> B[Retrieval]
+>   B --> C[Evaluation]
+>   C -->|Pass| D[Generation]
+>   C -->|Fail| E[Correction]
+>   E --> F[Reformulate/Decompose]
+>   F --> G[Reretrieve]
+>   G --> H[Evaluation]
+>   H -->|Pass| I[Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Corrective RAG vs Standard RAG**
+> *Compare the validation steps in Corrective and Standard RAG.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Query] --> B[Retrieval]
+>   B --> C[Evaluation]
+>   C -->|Pass| D[Generation]
+>   C -->|Fail| E[Correction]
+>   E --> F[Reretrieve]
+>   F --> G[Evaluation]
+>   G -->|Pass| H[Generation]
+>   A --> I[Retrieval]
+>   I --> J[Generation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Corrective RAG Mechanism Stages**
+> *Identify the stages from retrieval to generation, highlighting validation.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval] --> B[Evaluation]
+>   B -->|Pass| C[Generation]
+>   B -->|Fail| D[Correction]
+>   D --> E[Reretrieve]
+>   E --> F[Evaluation]
+>   F -->|Pass| G[Generation]
+> ```
 
 # Corrective RAG
 

@@ -18,7 +18,7 @@ subdomains:
   - dual-process-theory
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - system-2-synthetic-seed-2026-04-24
@@ -66,8 +66,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — System 2 Process Flow**
+> *Follow the steps from input to output, noting controlled attention and explicit calculation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B(Controlled Attention)
+>   C[Explicit Calculation]
+>   D(Output)
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — System 2 vs System 1 Comparison**
+> *Compare the characteristics of System 2 and System 1 to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[System 2]
+>   B[System 1]
+>   A -->|Slow, Effortful| C[Controlled Attention]
+>   A -->|Explicit Calculation| D[Cognitive Load]
+>   B -->|Fast, Automatic| E[Intuitive Processing]
+>   B -->|Resource Efficient| F[Quick Judgments]
+> ```
+
+
+> [!abstract] **Diagram 3 — System 2 Mechanism Overview**
+> *Trace the steps of System 2's mechanism from working memory to reasoned response.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Focused Task Processing]
+>   C[Integration and Analysis]
+>   D[Reasoned Response]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # System 2
 

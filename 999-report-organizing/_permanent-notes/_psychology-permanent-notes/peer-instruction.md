@@ -18,7 +18,7 @@ subdomains:
   - higher-education
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - peer-instruction-synthetic-seed-2026-04-26
@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Peer Instruction Process Flow**
+> *Follow the steps from individual response to revision.*
+>
+> ```mermaid
+> flowchart LR
+>   A[ConcepTest]
+>   B[Individual Response]
+>   C[Peer Discussion]
+>   D[Re-answer]
+>   A --> B
+>   B -->|Discuss| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Processes in Peer Instruction**
+> *Trace the cognitive steps from retrieval to conceptual change.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval]
+>   B[Articulation]
+>   C[Conceptual Change]
+>   A -->|Discuss| B
+>   B -->|Revise| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Traditional Lectures**
+> *Compare the engagement levels in both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Lecture]
+>   B[Peer Instruction]
+>   A -->|Passive Listening|
+>   B -->|Active Participation|
+> ```
 
 # Peer Instruction
 

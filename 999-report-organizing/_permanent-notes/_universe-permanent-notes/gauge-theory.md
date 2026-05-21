@@ -18,7 +18,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gauge-theory-synthetic-seed-2026-05-14
@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gauge Theory Framework Overview**
+> *Follow the flow from local symmetries to physical predictions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Local Symmetry Groups] --> B[Dynamical Fields]
+>   B --> C[Gauge Invariance]
+>   C --> D[Predictive Models]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gauge vs Global Symmetries**
+> *Compare the implications of gauge and global symmetries.*
+>
+> ```mermaid
+> graph TD
+>   A[Global Symmetry] --> B[Conservation Laws]
+>   C[Gauge Symmetry] --> D[Coordinate Choices]
+>   subgraph Implications
+>     E{Observable Phenomena}
+>     F{No Conserved Quantities}
+>   end
+>   B -->|via Noether's Theorem| E
+>   D -->|Reflects Coordinates| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Gauge Theory Applications**
+> *Trace the applications from particle interactions to unification.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant ParticleInteractions as PI
+>   participant UnifyingForces as UF
+>   PI->>PI: Electromagnetism & Weak Interactions
+>   PI-->>UF: Extend Principles
+>   UF->>UF: Strong and Gravitational Forces
+>   UF-->>PI: Predictions about Dark Matter
+> ```
 
 # Gauge Theory
 

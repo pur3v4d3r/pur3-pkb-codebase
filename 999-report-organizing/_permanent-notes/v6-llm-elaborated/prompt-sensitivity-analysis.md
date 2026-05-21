@@ -1,14 +1,13 @@
 ---
-title: "Prompt Sensitivity Analysis"
+title: Prompt Sensitivity Analysis
 aliases:
-  - "Prompt Sensitivity Analysis"
-  - "prompt robustness evaluation"
-  - "instruction sensitivity"
-  - "prompt fragility testing"
+  - Prompt Sensitivity Analysis
+  - prompt robustness evaluation
+  - instruction sensitivity
+  - prompt fragility testing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,100 @@ subdomains:
   - evaluation
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-sensitivity-analysis-synthetic-seed-2026-05-20"
+  - prompt-sensitivity-analysis-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Benchmark Overfitting]]"
-  - "[[Prompt Paraphrasing]]"
+  - '[[Benchmark Overfitting]]'
+  - '[[Prompt Paraphrasing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Benchmark Overfitting]]"
+  - '[[Benchmark Overfitting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Paraphrasing]]"
+  - '[[Prompt Paraphrasing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Sensitivity Analysis Process Flow**
+> *Follow the flow from prompt generation to performance evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Semantically Equivalent Prompts]
+>   B[Apply Minimal Variations]
+>   C[Evaluate Model Performance]
+>   D[Analyze Results]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Sensitivity vs Benchmark Overfitting**
+> *Compare the focus areas of Prompt Sensitivity Analysis and benchmark overfitting.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Sensitivity]
+>   B[Benchmark Overfitting]
+>   A -->|Variations in prompt formulation| C[Model Output Impact]
+>   B -->|Data and task-specific performance| D[Performance Metrics]
+> ```
+
+
+> [!abstract] **Diagram 3 — PSA Workflow Overview**
+> *Trace the steps involved in conducting Prompt Sensitivity Analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Evaluation Criteria]
+>   B[Generate Prompts]
+>   C[Test Model Performance]
+>   D[Evaluate Stability]
+>   E[Report Findings]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
 
 # Prompt Sensitivity Analysis
 

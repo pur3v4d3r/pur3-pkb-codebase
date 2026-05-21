@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -75,8 +75,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Object-Level Process Flow**
+> *Follow the flow from encoding to retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding] --> B[Storage]
+>   B --> C[Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Meta-Level Control Flow**
+> *Trace the control signals from Meta to Object.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Meta-Level] --> B[Object-Level]
+>   B --> C[Feedback]
+> ```
+
+
+> [!abstract] **Diagram 3 — Two-Level Architecture**
+> *Identify the bidirectional relationship between Meta and Object.*
+>
+> ```mermaid
+> graph TD
+>   A[Meta-Level] -->|Initiate| B(Object-Level)
+>   B -->|Feedback| C[Meta-Level]
+> ```
 
 # Object-Level
 

@@ -19,7 +19,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - information-processing-theory-synthetic-seed-2026-04-24
@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Information Processing Flow**
+> *Follow the flow from sensory input to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Sensory Register]
+>   B --> C[Short-Term Memory (STM)]
+>   C --> D[Transformation/Storage]
+>   D --> E[Long-Term Memory (LTM)]
+>   E --> F[Retrieval]
+>   F --> G[Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Stores Hierarchy**
+> *Identify the hierarchy of memory stores and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensory Register] --> B[Short-Term Memory (STM)]
+>   B --> C[Long-Term Memory (LTM)]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Types**
+> *Distinguish between intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant IntrinsicLoad as IL
+>   participant ExtraneousLoad as EL
+>   IL->>IL: Task Difficulty
+>   EL->>EL: Unnecessary Demands
+> ```
 
 # Information Processing Theory
 

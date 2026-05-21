@@ -1,14 +1,13 @@
 ---
-title: "Self-Play Fine-Tuning"
+title: Self-Play Fine-Tuning
 aliases:
-  - "Self-Play Fine-Tuning"
-  - "SPIN"
-  - "self-play training"
-  - "self-improvement via self-play"
+  - Self-Play Fine-Tuning
+  - SPIN
+  - self-play training
+  - self-improvement via self-play
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,92 @@ subdomains:
   - game-theory
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-play-fine-tuning-synthetic-seed-2026-05-20"
+  - self-play-fine-tuning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Language Model Training Techniques"
-
+parent-concept: Language Model Training Techniques
 related:
-  - "[[Self-Refinement]]"
-  - "[[Reinforcement Learning from Human Feedback]]"
-  - "[[Direct Preference Optimization]]"
+  - '[[Self-Refinement]]'
+  - '[[Reinforcement Learning from Human Feedback]]'
+  - '[[Direct Preference Optimization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Self-Refinement]]"
+  - '[[Self-Refinement]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback]]"
-  - "[[Direct Preference Optimization]]"
+  - '[[Reinforcement Learning from Human Feedback]]'
+  - '[[Direct Preference Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Play Fine-Tuning Process Flow**
+> *Follow the iterative feedback loop from generation to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Text] --> B[Evaluate Against Human]
+>   B --> C[Refine Output Quality]
+>   C --> D[Iterate Improvement]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — SPIN vs Supervised Learning Feedback Mechanism**
+> *Compare the feedback sources in SPIN and supervised learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Learning] --> B(Human-Labeled Data)
+>   C(Self-Play Fine-Tuning) --> D(Model's Own Output)
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Play Iteration Cycle**
+> *Track the progression of model improvement through iterations.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial --> Improved : Evaluate & Refine
+>   Improved --> Enhanced : Iterate
+>   Enhanced --> [*]
+> ```
 
 # Self-Play Fine-Tuning
 

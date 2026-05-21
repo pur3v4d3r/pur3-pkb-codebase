@@ -17,7 +17,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - proactive-interference-synthetic-seed-2026-04-25
@@ -65,8 +65,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Proactive Interference Process Flow**
+> *Follow the flow from encoding to retrieval, noting interference points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding New Material] --> B{Similar Old Material?}
+>   B -->|Yes| C[Interference]
+>   B -->|No| D[Successful Encoding]
+>   D --> E[Retrieval Attempt]
+>   E --> F{Old Memory Overlap?}
+>   F -->|Yes| G[Distorted Recall]
+>   F -->|No| H[Clear Recall]
+> ```
+
+
+> [!abstract] **Diagram 2 — Proactive Interference Mechanism Overview**
+> *Identify the stages where proactive interference occurs: encoding and retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Encoding]
+>   B[Retrieval]
+>   C{Similar Old Material?}
+>   D[Interference]
+>   E[CLEAR Recall]
+>   F[DISTORTED Recall]
+>   A -->|New Material| C
+>   C -->|Yes| D
+>   C -->|No| E
+>   B -->|Old Memory Overlap?| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Proactive Interference**
+> *See how proactive interference impacts instructional design and learning strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B{Minimize Overlap}
+>   C[Effective Learning]
+>   D[Learning Strategies]
+>   E{Spaced Repetition}
+>   F[Mitigate Interference]
+>   G[Enhanced Retention]
+>   A -->|Understand PI| B
+>   B -->|Yes| C
+>   D -->|Techniques| E
+>   E -->|Yes| F
+>   F -->|Yes| G
+> ```
 
 # Proactive Interference
 

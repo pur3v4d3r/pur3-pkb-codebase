@@ -18,7 +18,7 @@ subdomains:
   - quantum-gravity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - planck-units-synthetic-seed-2026-05-14
@@ -71,8 +71,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Planck Units Derivation**
+> *Follow the derivation from constants to units.*
+>
+> ```mermaid
+> graph TD
+>   A[Speed of Light (c)] --> B[Fundamental Constants]
+>   ReducedPlanckConstant(ℏ) --> B
+>   GravitationalConstant(G) --> B
+>   BoltzmannConstant(k_B) --> B
+>   B --> C[Planck Units]
+> ```
+
+
+> [!abstract] **Diagram 2 — Quantum Gravity Scales**
+> *Identify scales where quantum and gravitational effects meet.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ClassicalPhysics: Below Planck Scale
+>   ClassicalPhysics --> QuantumEffects: Approaching Planck Length (~1.6×10⁻³⁵ m)
+>   QuantumEffects --> GravitationalQuantumEffects: At Planck Scale
+>   GravitationalQuantumEffects --> Singularity?: Beyond Planck Scale
+> ```
+
+
+> [!abstract] **Diagram 3 — Planck Units vs Atomic Scales**
+> *Compare scales of quantum phenomena.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomic Scale] --> B[Bohr Model]
+>   C[Planck Scale] --> D[Planck Length (~1.6×10⁻³⁵ m)]
+>   E[Gravitational Quantum Effects]
+>   F[Quantum Gravity Theories]
+>   B -->|Much Larger Distances| D
+>   D --> E
+>   E --> F
+> ```
 
 # Planck Units
 

@@ -1,14 +1,13 @@
 ---
-title: "Process Reward Models"
+title: Process Reward Models
 aliases:
-  - "Process Reward Models"
-  - "PRMs"
-  - "step-level reward models"
-  - "reasoning step verifiers"
+  - Process Reward Models
+  - PRMs
+  - step-level reward models
+  - reasoning step verifiers
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,102 @@ subdomains:
   - reasoning-evaluation
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "process-reward-models-synthetic-seed-2026-05-20"
+  - process-reward-models-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Outcome Reward Models]]"
-  - "[[Reinforcement Learning from Human Feedback]]"
+  - '[[Outcome Reward Models]]'
+  - '[[Reinforcement Learning from Human Feedback]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Outcome Reward Models]]"
+  - '[[Outcome Reward Models]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Reinforcement Learning from Human Feedback]]"
+  - '[[Reinforcement Learning from Human Feedback]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Step-level Evaluation Process**
+> *Follow the flow from input to step evaluation and final output.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Step1]
+>   C[Step2]
+>   D[FinalOutput]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Outcome Reward Models**
+> *Compare the evaluation focus of PRMs and outcome reward models.*
+>
+> ```mermaid
+> graph TD
+>   A[Process Reward Model]
+>   B[Outcome Reward Model]
+>   C[Step Evaluation]
+>   D[Final Result Evaluation]
+>   A -->|Focus on| C
+>   B -->|Focus on| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop in PRMs**
+> *Trace the feedback loop from step evaluation to reinforcement learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Step Evaluation]
+>   B[Human Annotation or Automated Verification]
+>   C[Rewards Assignment]
+>   D[Reinforcement Learning]
+>   E[Problem-Solving Strategies Improvement]
+>   A -->|Based on| B
+>   B -->|Guides to| C
+>   C -->|Enhances| D
+>   D -->|Improves| E
+> ```
 
 # Process Reward Models
 

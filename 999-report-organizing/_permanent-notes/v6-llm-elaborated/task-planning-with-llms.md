@@ -1,15 +1,14 @@
 ---
-title: "Task Planning with LLMs"
+title: Task Planning with LLMs
 aliases:
-  - "Task Planning with LLMs"
-  - "LLM task planning"
-  - "LLM-based planning"
-  - "AI task decomposition"
-  - "hierarchical task planning with LLMs"
+  - Task Planning with LLMs
+  - LLM task planning
+  - LLM-based planning
+  - AI task decomposition
+  - hierarchical task planning with LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,93 @@ subdomains:
   - automation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "task-planning-with-llms-synthetic-seed-2026-05-21"
+  - task-planning-with-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Agents"
-
+parent-concept: LLM Agents
 related:
-  - "[[Plan-and-Solve Prompting]]"
-  - "[[Tool-Augmented Language Models]]"
+  - '[[Plan-and-Solve Prompting]]'
+  - '[[Tool-Augmented Language Models]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Plan-and-Solve Prompting]]"
+  - '[[Plan-and-Solve Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Tool-Augmented Language Models]]"
+  - '[[Tool-Augmented Language Models]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Task Planning Process Flow**
+> *Follow the flow from goal to execution, noting key stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Level Goal] --> B[Plan Generation]
+>   B --> C[Subtask Decomposition]
+>   C --> D[Tool Mapping]
+>   D --> E[Execution & Monitoring]
+>   E --> F[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 2 — One-Shot vs Incremental Replanning**
+> *Compare the two approaches to plan generation and execution.*
+>
+> ```mermaid
+> graph TD
+>   A[One-Shot Planning] --> B[Initial Plan]
+>   B --> C[Execution]
+>   D[Incremental Replanning] --> E[Dynamic Updates]
+>   E --> F[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Execution Flowchart**
+> *Trace the steps from subtask to tool execution and feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Subtask] --> B[Tool Selection]
+>   B --> C[Execution]
+>   C --> D[Monitor Progress]
+>   D --> E[Feedback Loop]
+> ```
 
 # Task Planning with LLMs
 

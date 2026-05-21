@@ -18,7 +18,7 @@ subdomains:
   - methodology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - scientific-reasoning-synthetic-seed-2026-04-24
@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Scientific Reasoning Process Flow**
+> *Follow the flow from hypothesis generation to theory comparison.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Hypothesis Generation]
+>   B --> C[Experiment Design]
+>   C --> D[Data Collection]
+>   D --> E[Statistical Analysis]
+>   E --> F[Result Interpretation]
+>   F --> G[Theory Comparison]
+> ```
+
+
+> [!abstract] **Diagram 2 — Disciplinary Practices in Scientific Reasoning**
+> *Identify the specific practices used across different scientific disciplines.*
+>
+> ```mermaid
+> graph TD
+>   A[Hypothesis Generation] --> B[High-Energy Physics]
+>   C[Prediction] --> D[Epidemiology]
+>   E[Controlled Observation] --> F[Biology]
+>   G[Experimentation] --> H[Medicine]
+>   I[Statistical Inference] --> J[Mathematics]
+>   K[Theory Comparison] --> L[Philosophy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hypothesis Testing Mechanism**
+> *Trace the steps from formulating a hypothesis to statistical testing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hypothesis Formulation] --> B[Experiment Design]
+>   B --> C[Data Collection]
+>   C --> D[Statistical Analysis]
+>   D --> E[Result Interpretation]
+> ```
 
 # Scientific Reasoning
 

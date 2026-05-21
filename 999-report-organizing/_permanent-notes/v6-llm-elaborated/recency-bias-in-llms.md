@@ -1,14 +1,13 @@
 ---
-title: "Recency Bias in LLMs"
+title: Recency Bias in LLMs
 aliases:
-  - "Recency Bias in LLMs"
-  - "recency effect in LLMs"
-  - "serial-position recency"
-  - "tail-end attention bias"
+  - Recency Bias in LLMs
+  - recency effect in LLMs
+  - serial-position recency
+  - tail-end attention bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,86 @@ subdomains:
   - conversational-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "recency-bias-in-llms-synthetic-seed-2026-05-21"
+  - recency-bias-in-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Context Management"
-
+parent-concept: LLM Context Management
 related:
-  - "[[Positional Bias in Context]]"
-  - "[[Needle-in-a-Haystack Evaluation]]"
+  - '[[Positional Bias in Context]]'
+  - '[[Needle-in-a-Haystack Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Positional Bias in Context]]"
+  - '[[Positional Bias in Context]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Needle-in-a-Haystack Evaluation]]"
+  - '[[Needle-in-a-Haystack Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Recency Bias Mechanism**
+> *Follow the causal chain from earlier to later tokens.*
+>
+> ```mermaid
+> graph TD
+>   A[Earlier Tokens] --> B[Middle Tokens]
+>   B --> C[Later Tokens]
+> ```
+
+
+> [!abstract] **Diagram 2 — Recency Bias in Conversations**
+> *Notice how later instructions override earlier ones.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Instruction] --> B[Contradictory Statement]
+>   B --> C[Model Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recency Bias vs Frequency Bias**
+> *Compare the influence of recent tokens versus frequent elements.*
+>
+> ```mermaid
+> graph TD
+>   A[Recent Tokens] --> B[Disproportionate Influence]
+>   C[Frequent Elements] --> D[Overall Prevalence]
+> ```
 
 # Recency Bias in LLMs
 

@@ -18,7 +18,7 @@ subdomains:
   - cmb-research
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - planck-satellite-synthetic-seed-2026-05-14
@@ -65,8 +65,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Planck Mission Objectives**
+> *Identify the primary goals of Planck Satellite.*
+>
+> ```mermaid
+> graph TD
+>   A[Measure CMB Temperature]
+>   B[Measure CMB Polarisation]
+>   C[High-Resolution Imaging]
+>   D[Cosmological Parameter Estimation]
+>   E[Test Theoretical Models]
+>   F[Validate ΛCDM Framework]
+>   A -->|Primary Objective| D
+>   B -->|Primary Objective| D
+>   C -->|Supports Objectives|
+>   D -->|Enables| E
+>   E -->|Contributes to| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Planck Data Processing Pipeline**
+> *Understand the steps from raw data to cosmological insights.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Satellite as S
+>   participant GroundStation as G
+>   participant Calibration as C
+>   participant Analysis as A
+>   participant Validation as V
+>   participant FinalMaps as FM
+>   S->>G: Transmit Raw Data
+>   G->>C: Initial Processing
+>   C->>A: Detailed Analysis
+>   A->>V: Rigorous Validation
+>   V-->>FM: Generate Maps
+> ```
+
+
+> [!abstract] **Diagram 3 — Planck's Frequency Bands**
+> *See the range of frequencies Planck measured.*
+>
+> ```mermaid
+> graph TD
+>   A[30 GHz] --> B[44 GHz]
+>   B --> C[70 GHz]
+>   C --> D[100 GHz]
+>   D --> E[143 GHz]
+>   E --> F[217 GHz]
+>   F --> G[353 GHz]
+>   G --> H[545 GHz]
+>   H --> I[857 GHz]
+> ```
 
 # Planck Satellite
 

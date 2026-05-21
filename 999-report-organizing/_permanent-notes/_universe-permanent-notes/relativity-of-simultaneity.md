@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - relativity-of-simultaneity-synthetic-seed-2026-05-14
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Simultaneity Frames Comparison**
+> *Compare simultaneity judgments across different frames.*
+>
+> ```mermaid
+> graph TD
+>   A[Observer1]
+>   B[Observer2]
+>   C[EventA]
+>   D[EventB]
+>   A -->|Simultaneous| C
+>   B -->|Non-Simultaneous| C
+>   B -->|Before| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Relativity Process Flow**
+> *Follow the process of relativity affecting simultaneity judgments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event1]
+>   B[Event2]
+>   C[ObserverFrame]
+>   D[JudgeSimultaneous|C]
+>   E[RelativeMotion]
+>   F[JudgeNon-Simultaneous|E]
+>   A -->|LocationA| C
+>   B -->|LocationB| C
+>   C -->|Judgment1| D
+>   C -->|RelativeMotion| E
+>   E -->|Judgment2| F
+> ```
 
 # Relativity Of Simultaneity
 

@@ -1,14 +1,13 @@
 ---
-title: "Value Alignment Problem"
+title: Value Alignment Problem
 aliases:
-  - "Value Alignment Problem"
-  - "alignment problem"
-  - "AI values problem"
-  - "the alignment challenge"
+  - Value Alignment Problem
+  - alignment problem
+  - AI values problem
+  - the alignment challenge
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,59 +20,120 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "value-alignment-problem-synthetic-seed-2026-05-20"
+  - value-alignment-problem-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Corrigibility]]"
-  - "[[Deceptive Alignment]]"
-  - "[[Reward Hacking]]"
-  - "[[Preference Elicitation]]"
-  - "[[Scalable Oversight]]"
+  - '[[Corrigibility]]'
+  - '[[Deceptive Alignment]]'
+  - '[[Reward Hacking]]'
+  - '[[Preference Elicitation]]'
+  - '[[Scalable Oversight]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Corrigibility]]"
+  - '[[Corrigibility]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Deceptive Alignment]]"
-  - "[[Reward Hacking]]"
+  - '[[Deceptive Alignment]]'
+  - '[[Reward Hacking]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Preference Elicitation]]"
+  - '[[Preference Elicitation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Scalable Oversight]]"
+  - '[[Scalable Oversight]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Value Alignment Problem Overview**
+> *Follow the flow from specification to generalization challenges.*
+>
+> ```mermaid
+> graph TD
+>   A[Specification]
+>   B[Generalization]
+>   C[Harmful Behaviors Avoidance]
+>   A -->|Formal Representation| D[Proxy Objectives]
+>   B -->|Contextual Application| E[Misalignment Risks]
+>   F[Value Alignment]
+>   G[Avoid Harm]
+>   F -->|Ethical Values| H[Human Goals]
+>   G -->|Unintended Consequences| I[Harmful Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Value Alignment Process Flow**
+> *Trace the steps from value elicitation to system optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human Values]
+>   B[Elicitation]
+>   C[Representation]
+>   D[Optimization]
+>   E[System Goals]
+>   F[Misalignment Risks]
+>   G[Harmful Behaviors]
+>   H[Avoid Harm]
+>   A -->|Elicitation| B
+>   B -->|Representation| C
+>   C -->|Optimization| D
+>   D -->|System Goals| E
+>   E -->|Misalignment| F
+>   F -->|Harmful Behaviors| G
+>   G -->|Avoid Harm| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Value Alignment vs Avoiding Harm**
+> *Compare the focus areas of value alignment and avoiding harmful behaviors.*
+>
+> ```mermaid
+> classDiagram
+>   class ValueAlignment {
+>     +Elicitation()
+>     +Representation()
+>     +Optimization()
+>     +SystemGoals()
+>   }
+>   class AvoidingHarm {
+>     +UnintendedConsequences()
+>     +PreventHarm()
+>   }
+>   ValueAlignment -->|Focus on| HumanValues
+>   AvoidingHarm -->|Prevent| HarmfulBehaviors
+> ```
 
 # Value Alignment Problem
 

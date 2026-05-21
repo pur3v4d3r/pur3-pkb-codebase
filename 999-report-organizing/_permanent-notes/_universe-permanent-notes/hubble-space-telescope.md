@@ -17,7 +17,7 @@ subdomains:
   - space-instrumentation
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hubble-space-telescope-synthetic-seed-2026-05-14
@@ -65,8 +65,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hubble's Observational Capabilities**
+> *Identify the spectral ranges Hubble can observe.*
+>
+> ```mermaid
+> graph TD
+>   A[Optical]
+>   B[Ultraviolet]
+>   C[Near-Infrared]
+>   A -->|Spectral Range| D[Hubble Telescope]
+>   B -->|Spectral Range| D
+>   C -->|Spectral Range| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Hubble's Impact on Dark Energy Research**
+> *Trace the steps from observations to dark energy evidence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Astronomer as A
+>   participant HST as H
+>   participant Supernova as S
+>   participant DataAnalysis as D
+>   A->>H: Request Observation of Distant Galaxies
+>   H-->>A: Captured Images of Distant Galaxies
+>   A->>S: Identify and Measure Redshifts of Supernovae
+>   S-->>D: Provide Spectral Data for Analysis
+>   D-->>A: Confirm Accelerated Expansion Evidence
+> ```
+
+
+> [!abstract] **Diagram 3 — Hubble vs JWST Capabilities**
+> *Compare the key observational strengths of Hubble and JWST.*
+>
+> ```mermaid
+> classDiagram
+>   class Hubble {
+>     +Optical_UV_NIR_Observations()
+>     +Serviceable_Instrumentation()
+>   }
+>   class JWST {
+>     +Infrared_Sensitivity()
+>     +Larger_Aperture()
+>   }
+>   Hubble -->|Complements| JWST
+>   JWST -->|Complements| Hubble
+> ```
 
 # Hubble Space Telescope
 

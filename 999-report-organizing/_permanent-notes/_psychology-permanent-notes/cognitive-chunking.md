@@ -17,7 +17,7 @@ subdomains:
   - expertise-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-chunking-synthetic-seed-2026-04-24
@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cognitive Chunking Process Flow**
+> *Follow the flow from basic knowledge to chunked units.*
+>
+> ```mermaid
+> graph TD
+>   A[Basic Knowledge] --> B[Integration]
+>   B --> C[Schemas Development]
+>   C --> D[Chunk Creation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Hierarchy in Chunking**
+> *Trace the hierarchical structure from low-level elements to higher-order chunks.*
+>
+> ```mermaid
+> graph TD
+>   A[Low-Level Elements] --> B[Lower Schemas]
+>   B --> C[Middle Schemas]
+>   C --> D[Higher-Order Chunks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Chunking in Problem Solving**
+> *Identify how complex problems are broken down into chunks.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Task] --> B[Breakdown]
+>   B --> C[Chunks Creation]
+>   C --> D[Solution]
+> ```
 
 # Cognitive Chunking
 

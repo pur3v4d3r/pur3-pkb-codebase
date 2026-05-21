@@ -1,14 +1,13 @@
 ---
-title: "Summarisation as Compression"
+title: Summarisation as Compression
 aliases:
-  - "Summarisation as Compression"
-  - "summarisation for context compression"
-  - "recursive summarisation"
-  - "context summarisation"
+  - Summarisation as Compression
+  - summarisation for context compression
+  - recursive summarisation
+  - context summarisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - long-context-llms
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "summarisation-as-compression-synthetic-seed-2026-05-20"
+  - summarisation-as-compression-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Context Management Techniques"
-
+parent-concept: Context Management Techniques
 related:
-  - "[[Compressive Memory Mechanisms]]"
-  - "[[Context Distillation]]"
+  - '[[Compressive Memory Mechanisms]]'
+  - '[[Context Distillation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Compressive Memory Mechanisms]]"
+  - '[[Compressive Memory Mechanisms]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Context Distillation]]"
+  - '[[Context Distillation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Summarisation Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[Segmentation]
+>   B --> C[Summary Generation]
+>   C --> D[Context Update]
+> ```
+
+
+> [!abstract] **Diagram 2 — Summarisation Methods Comparison**
+> *Compare the methods based on their summary length and information richness.*
+>
+> ```mermaid
+> graph TD
+>   A[Rolling Summarization] -->|Shorter Summary| B[Rich Information]
+>   C[Hierarchical Summarization] -->|Multi-Level Detail| D[Less Immediate Richness]
+>   E[Query-Specific Compression] -->|Focused Summary| F[Highly Relevant Info]
+> ```
+
+
+> [!abstract] **Diagram 3 — Summarisation vs Lossless Compression**
+> *Identify the differences in application and outcome between summarization and lossless compression.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Summarisation as S
+>   participant LosslessCompression as L
+>   S->>S: Reduces context volume, loses details
+>   L->>L: Retains all original data, no detail loss
+> ```
 
 # Summarisation as Compression
 

@@ -17,7 +17,7 @@ subdomains:
   - relationship-research
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attachment-theory-synthetic-seed-2026-04-24
@@ -64,8 +64,63 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Attachment Theory Core Mechanism**
+> *Follow the stages from early attachment to internal working models.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Caregiver Responsiveness]
+>   B[Forming Expectations]
+>   C[Internally Represented Models]
+>   D[Influence Future Interactions]
+>   A -->|Initial Attachment| B
+>   B -->|Develop Expectations| C
+>   C -->|Internalize Models| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Attachment Types and Outcomes**
+> *Compare the outcomes of different attachment types in children.*
+>
+> ```mermaid
+> graph TD
+>   A[Secure Attachment]
+>   B[Insecure Avoidant]
+>   C[Anxious Attachment]
+>   D[Disorganized Attachment]
+>   A -->|Better Social Skills & Resilience|
+>   B -->|Avoidance of Close Relationships|
+>   C -->|High Anxiety and Dependency|
+>   D -->|Confusion in Behavior and Emotions|
+> ```
+
+
+> [!abstract] **Diagram 3 — Neurobiological Impact of Attachment**
+> *Trace the effects of secure attachment on brain development.*
+>
+> ```mermaid
+> graph TD
+>   A[Secure Caregiving]
+>   B[Right Hemisphere Limbic System]
+>   C[Amygdala & Anterior Cingulate Cortex]
+>   D[Stress Modulation Pathways]
+>   E[Hypothalamus-Pituitary-Adrenal Axis]
+>   F[Cortisol Regulation]
+>   A -->|Modulates Development| B
+>   B -->|Regulates Emotional Responses| C
+>   C -->|Develops Distress Modulation| D
+>   D -->|Efficient Top-Down Emotion Regulation| E
+>   E -->|Lower Cortisol Reactivity| F
+> ```
 
 # Attachment Theory
 

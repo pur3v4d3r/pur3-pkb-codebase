@@ -18,7 +18,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - meaningful-learning-theory-synthetic-seed-2026-04-24
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Meaningful Learning Process Flow**
+> *Follow the flow from advance organizers to assimilation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Advance Organizers] --> B[Prior Knowledge Activation]
+>   B --> C[Integration of New Information]
+>   C --> D[Absorption into Cognitive Structure]
+> ```
+
+
+> [!abstract] **Diagram 2 — Meaningful vs Rote Learning Comparison**
+> *Compare the two learning methods based on their outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Meaningful Learning] --> B[Deep Understanding]
+>   A --> C[Better Retention]
+>   D[Rote Learning] --> E[Superficial Recall]
+>   D --> F[Mere Memorization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Assimilation and Accommodation in Cognitive Development**
+> *Identify the focus of meaningful learning within cognitive development.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Assimilation: New Info Fits Existing Schema
+>   Assimilation --> [*]
+>   [*] --> Accommodation: Adjusting Schemas for New Info
+>   Accommodation --> [*]
+> ```
 
 # Meaningful Learning Theory
 

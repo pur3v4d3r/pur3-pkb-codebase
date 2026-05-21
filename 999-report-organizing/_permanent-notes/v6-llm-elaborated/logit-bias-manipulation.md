@@ -1,15 +1,14 @@
 ---
-title: "Logit Bias Manipulation"
+title: Logit Bias Manipulation
 aliases:
-  - "Logit Bias Manipulation"
-  - "logit bias"
-  - "token bias injection"
-  - "token suppression"
-  - "logit adjustment"
+  - Logit Bias Manipulation
+  - logit bias
+  - token bias injection
+  - token suppression
+  - logit adjustment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,100 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "logit-bias-manipulation-synthetic-seed-2026-05-21"
+  - logit-bias-manipulation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Inference Techniques"
-
+parent-concept: LLM Inference Techniques
 related:
-  - "[[Temperature Sampling]]"
-  - "[[Classifier-Free Guidance For Text]]"
+  - '[[Temperature Sampling]]'
+  - '[[Classifier-Free Guidance For Text]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Temperature Sampling]]"
+  - '[[Temperature Sampling]]'
 contrasts-with:
-  - "[[Classifier-Free Guidance For Text]]"
+  - '[[Classifier-Free Guidance For Text]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Logit Bias Process Flow**
+> *Follow the steps from input to output, noting where bias is applied.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Tokens] --> B[Token IDs]
+>   B --> C[Add Bias]
+>   C --> D[Softmax]
+>   D --> E[Output Probabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Logit Bias Applications**
+> *Identify the different applications of logit bias manipulation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Content Moderation)
+>   B --> C[Sequence Forcing]
+>   A --> D[Formatting Requirements]
+>   D --> E[Harmful Content Suppression]
+> ```
+
+
+> [!abstract] **Diagram 3 — Logit Bias vs Prompt Engineering**
+> *Compare logit bias manipulation with prompt engineering.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant LogitBias as LB
+>   participant PromptEngineering as PE
+>   U->>M: Input Text
+>   alt Logit Bias
+>     M->>LB: Adjust Token Probabilities
+>     LB-->>M: Apply Bias
+>   else Prompt Engineering
+>     M->>PE: Modify Input Prompts
+>     PE-->>M: New Prompt
+>   end
+> ```
 
 # Logit Bias Manipulation
 

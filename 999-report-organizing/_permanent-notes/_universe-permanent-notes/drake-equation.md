@@ -16,7 +16,7 @@ subdomains:
   - astrobiology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - drake-equation-synthetic-seed-2026-05-14
@@ -66,8 +66,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Drake Equation Variables**
+> *Follow the flow from star formation to detectable civilizations.*
+>
+> ```mermaid
+> graph TD
+>   A[R*]
+>   B[f_p]
+>   C[n_e]
+>   D[f_l]
+>   E[f_i]
+>   F[f_c]
+>   G[L]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — SETI Search Strategy**
+> *Identify regions with higher star formation rates and habitable planets.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Star Formation Regions
+>   participant B as Habitable Planets
+>   participant C as SETI Efforts
+>   A->>B: Identify high star formation areas
+>   B->>C: Focus on planets in habitable zones
+>   C-->>A: Optimize search strategies
+> ```
+
+
+> [!abstract] **Diagram 3 — Heuristic Framework Overview**
+> *Understand the Drake Equation as a framework for organizing research.*
+>
+> ```mermaid
+> graph TD
+>   A[Star Formation]
+>   B[Habitable Planets]
+>   C[Life Emergence]
+>   D[Intelligent Life]
+>   E[Civilizations with Technology]
+>   F[Detectable Signals]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
 
 # Drake Equation
 

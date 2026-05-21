@@ -17,7 +17,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - growth-mindset-synthetic-seed-2026-04-24
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Growth Mindset vs Fixed Mindset**
+> *Compare the beliefs and outcomes of each mindset.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed Mindset]
+>   B[Growth Mindset]
+>   A -->|Believes intelligence is fixed| C[Resigns to failure]
+>   B -->|Believes abilities can grow| D[Persists through challenges]
+> ```
+
+
+> [!abstract] **Diagram 2 — Behavioral Outcomes of Growth Mindset**
+> *Identify behaviors influenced by a growth mindset.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Embrace Challenges] --> B[Persist Through Difficulties]
+>   B --> C[Solicit Feedback]
+>   C --> D[Engage in Improvement Strategies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Growth Mindset on Learning Environment**
+> *Understand how fostering a growth mindset enhances learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   participant Parent as P
+>   S->>T: Seeks challenging tasks
+>   T-->>S: Provides formative assessments
+>   S->>P: Shares progress and setbacks
+>   P-->>S: Encourages effort over innate ability
+> ```
 
 # Growth Mindset
 

@@ -17,7 +17,7 @@ subdomains:
   - semantics-of-knowledge-attributions
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - contextualism-in-epistemology-synthetic-seed-2026-05-12
@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Contextualism vs Relativism**
+> *Compare how contextualism and relativism view knowledge attributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextualism]
+>   B[Relativism]
+>   A -->|Semantic View| C[Attribution Standards]
+>   B -->|Individual/Cultural Varying| D[Knowledge Standards]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Attribution Contexts**
+> *See how knowledge attributions vary in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Low-Stakes]
+>   B[High-Stakes]
+>   C[Court of Law]
+>   D[Casual Conversation]
+>   A -->|Reasonably Confident| E[Knowing]
+>   B -->|Strict Standards| F[Knowing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the role of context in top-down processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextualism]
+>   B[Top-Down]
+>   C[Bottom-Up]
+>   A -->|Context Shapes Understanding| B
+>   A -->|Equivalent Instances| C
+> ```
 
 # Contextualism In Epistemology
 

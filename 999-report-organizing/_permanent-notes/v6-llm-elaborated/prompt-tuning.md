@@ -1,13 +1,12 @@
 ---
-title: "Prompt Tuning"
+title: Prompt Tuning
 aliases:
-  - "Prompt Tuning"
-  - "soft prompt tuning"
-  - "learned prompts"
+  - Prompt Tuning
+  - soft prompt tuning
+  - learned prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,84 @@ subdomains:
   - nlp-research
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-tuning-synthetic-seed-2026-05-20"
+  - prompt-tuning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Parameter-Efficient Fine-Tuning Techniques"
-
+parent-concept: Parameter-Efficient Fine-Tuning Techniques
 related:
-  - "[[Soft Prompting]]"
-  - "[[Prefix-Tuning]]"
+  - '[[Soft Prompting]]'
+  - '[[Prefix-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Soft Prompting]]"
-  - "[[Prefix-Tuning]]"
+  - '[[Soft Prompting]]'
+  - '[[Prefix-Tuning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Tuning Process Flow**
+> *Follow the flow from initialization to optimization of soft prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialize Soft Prompts] --> B[Prepend to Input]
+>   B --> C[Pass Through LLM]
+>   C --> D[Calculate Loss]
+>   D --> E[Backpropagate Gradients]
+>   E --> F[Adjust Embeddings]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Tuning vs Full Fine-Tuning**
+> *Compare the resource usage and performance of Prompt Tuning versus full fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Resource Usage]
+>   B[Performance]
+>   C[Prompt Tuning] -->|Low| A
+>   C -->|Competitive| B
+>   D[Full Fine-Tuning] -->|High| A
+>   D -->|Better| B
+> ```
 
 # Prompt Tuning
 

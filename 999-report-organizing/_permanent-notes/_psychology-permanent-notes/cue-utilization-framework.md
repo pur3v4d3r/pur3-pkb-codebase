@@ -24,7 +24,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -73,8 +73,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cue Categories Overview**
+> *Identify the three types of cues and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Cues]
+>   B[Extrinsic Cues]
+>   C[Mnemonic Cues]
+>   A -->|Properties of Material| D[Comprehension Level]
+>   B -->|Learning Conditions| E[Study Environment]
+>   C -->|Internal Signals| F[Familiarity Feeling]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Taxonomy of Judgments**
+> *Trace the sequence of metacognitive judgments over time.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant EOL as Estimation Of Learning (EOL)
+>   participant JOL as Judgment Of Learning (JOL)
+>   participant FOK as Feeling Of Knowing (FOK)
+>   participant RCJ as Recall Confidence Judgement (RCJ)
+>   EOL ->> JOL: Before Study
+>   JOL ->> FOK: After Retrieval Failure
+>   FOK -->> RCJ: During/After Study
+>   RCJ --> EOL: Feedback Loop
+> ```
+
+
+> [!abstract] **Diagram 3 — Cue Utilization Process Flow**
+> *Follow the flow of cue utilization in metacognitive judgments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stimulus]
+>   B[Intrinsic Cues]
+>   C[Extrinsic Cues]
+>   D[Mnemonic Cues]
+>   E[Metacognitive Judgment]
+>   F[Accuracy of Assessment]
+>   A -->|Material Properties| B
+>   A -->|Learning Conditions| C
+>   A -->|Internal Signals| D
+>   B --> E
+>   C --> E
+>   D --> E
+>   E --> F
+> ```
 
 # Cue-Utilization Framework
 

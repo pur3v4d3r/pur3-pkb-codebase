@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -71,8 +71,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Goal Specificity vs Vagueness**
+> *Compare specific and vague goals to understand clarity.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Goal]
+>   B[Vague Goal]
+>   A -->|Clear Criterion| C[Success]
+>   B -->|Ambiguous Criterion| D[Uncertainty]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Specificity Mechanism**
+> *Track how specificity leads to clear criteria and feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Specific Goal]
+>   B[Monitor Progress]
+>   C[Adjust Efforts]
+>   D[Achieve Success]
+>   A --> B
+>   B -->|Feedback Loop| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Specificity and Difficulty Interaction**
+> *See how specificity interacts with goal difficulty for optimal performance.*
+>
+> ```mermaid
+> graph TD
+>   A[High Specificity]
+>   B[Moderate Difficulty]
+>   C[Optimal Performance]
+>   D[Low Specificity]
+>   E[High Difficulty]
+>   F[Dissatisfactory Performance]
+>   G[Easy Goals]
+>   H[No Challenge]
+>   I[Dissatisfactory Performance]
+>   A -->|Moderate| B
+>   B --> C
+>   D -->|High| E
+>   E --> F
+>   G -->|Low| H
+>   H --> I
+> ```
 
 # Goal Specificity
 

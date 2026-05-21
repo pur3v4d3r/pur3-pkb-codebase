@@ -1,14 +1,13 @@
 ---
-title: "Self-Evaluation Prompting"
+title: Self-Evaluation Prompting
 aliases:
-  - "Self-Evaluation Prompting"
-  - "LLM self-assessment"
-  - "self-critique prompting"
-  - "self-checking prompts"
+  - Self-Evaluation Prompting
+  - LLM self-assessment
+  - self-critique prompting
+  - self-checking prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,96 @@ subdomains:
   - alignment
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-evaluation-prompting-synthetic-seed-2026-05-20"
+  - self-evaluation-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Fact Verification Prompting]]"
-  - "[[LLM Judge Calibration]]"
+  - '[[Fact Verification Prompting]]'
+  - '[[LLM Judge Calibration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Fact Verification Prompting]]"
+  - '[[Fact Verification Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[LLM Judge Calibration]]"
+  - '[[LLM Judge Calibration]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Evaluation Mechanisms Overview**
+> *Identify the different mechanisms used for self-evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Rating Scales]
+>   B(Error Identification)
+>   C(Criteria Comparison)
+>   D(Probability Prediction)
+>   A -->|Example| E[Model Rates Output]
+>   B -->|Example| F[Identify Errors]
+>   C -->|Example| G[Compare Against Criteria]
+>   D -->|Example| H[Predict Likelihood]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Evaluation vs Human Assessment**
+> *Understand the key distinctions between self-evaluation and human assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Evaluation]
+>   B[Human Assessment]
+>   A -->|Internal Mechanisms| C[Model's Own Evaluation]
+>   B -->|External Evaluators| D[Predefined Criteria]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Self-Evaluation**
+> *See the applications in instructional design and content moderation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   A -->|Enhance Quality| C[Filter Out Subpar Material]
+>   B -->|Flag Inappropriate Content| D[Human Review]
+> ```
 
 # Self-Evaluation Prompting
 

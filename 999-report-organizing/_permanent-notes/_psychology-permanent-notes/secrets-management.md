@@ -18,7 +18,7 @@ subdomains:
   - devops
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - secrets-management-synthetic-seed-2026-05-01
@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Secrets Management Process Flow**
+> *Follow the flow from secret storage to application usage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Store Secrets] --> B[Distribute]
+>   B --> C[Audit Access]
+>   C --> D[Rotate Secrets]
+>   D --> E[Revoke Access]
+> ```
+
+
+> [!abstract] **Diagram 2 — Secrets Management Components**
+> *Identify the key components involved in managing secrets.*
+>
+> ```mermaid
+> graph TD
+>   A[Secure Vault] --> B(Authenticated Identity)
+>   B --> C[Application]
+>   D[Audit Logs] --> E(Rotation Mechanism)
+> ```
+
+
+> [!abstract] **Diagram 3 — Secrets Retrieval in CI/CD Pipeline**
+> *Observe the stages where secrets are retrieved and used.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Application
+>   participant B as Vault
+>   participant C as Test Environment
+>   A->>B: Request Secret
+>   B-->>A: Provide Secret
+>   A->>C: Use Secret for Testing
+> ```
 
 # Secrets Management
 

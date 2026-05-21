@@ -18,7 +18,7 @@ subdomains:
   - psychometrics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - motivated-strategies-for-learning-questionnaire-mslq-synthetic-seed-2026-04-25
@@ -69,8 +69,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — MSLQ Sub-Scales Overview**
+> *Identify the main sub-scales of MSLQ.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal Orientation]
+>   B[Motivation Beliefs]
+>   C[Cognitive Strategies]
+>   D[Metacognitive Strategies]
+>   E[Resource Management]
+>   F[Task Value]
+>   G[Test Anxiety]
+>   H[A --> B]
+>   I[B --> C]
+>   J[C --> D]
+>   K[D --> E]
+>   L[E --> F]
+>   M[F --> G]
+> ```
+
+
+> [!abstract] **Diagram 2 — MSLQ Assessment Process Flow**
+> *Follow the steps of completing an MSLQ assessment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Participant]
+>   B[Rate Statements]
+>   C[Likert Scale]
+>   D[Quantify Behaviors]
+>   E[Analyze Data]
+>   F[A --> B]
+>   G[B --> C]
+>   H[C --> D]
+>   I[D --> E]
+> ```
+
+
+> [!abstract] **Diagram 3 — MSLQ Application in Education**
+> *See how MSLQ data informs educational practices.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant Institution as I
+>   S->>E: Low Metacognitive Strategies Score
+>   E->>I: Request Support Services
+>   I->>S: Workshop on Study Skills
+>   S-->>E: Improved Academic Performance
+> ```
 
 # Motivated Strategies for Learning Questionnaire MSLQ
 

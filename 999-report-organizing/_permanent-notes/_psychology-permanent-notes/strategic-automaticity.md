@@ -21,7 +21,7 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - implementation-intentions-gollwitzer-foundational-report-2026-04-20
@@ -73,8 +73,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Strategic Automaticity Process Flow**
+> *Follow the flow from planning to automatic execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Deliberate Planning] --> B[Cue Detection]
+>   B --> C[Behavior Execution]
+>   C --> D[Efficient Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strategic Automaticity Mechanism Overview**
+> *Trace the cognitive process from if-then planning to automatic action.*
+>
+> ```mermaid
+> graph TD
+>   A[Implementation Intention] --> B[Cue]
+>   B --> C[Behavior]
+>   C --> D[Automatic Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Strategic Automaticity Applications**
+> *Identify the applications in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Time Management]
+>   B --> C[Health Behavior Change]
+>   C --> D[Spaced Retrieval MOOCs]
+> ```
 
 # Strategic Automaticity
 

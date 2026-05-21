@@ -17,7 +17,7 @@ subdomains:
   - epistemology
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - skepticism-synthetic-seed-2026-05-01
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Skepticism's Core Mechanisms**
+> *Follow the flow from knowledge claims to skeptical challenges.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Knowledge Claims] --> B[Skeptical Scenarios]
+>   B --> C[Paradoxes for Theories]
+>   C --> D[Refinement of Epistemological Theories]
+> ```
+
+
+> [!abstract] **Diagram 2 — Skepticism's Impact on Epistemology**
+> *Trace the influence from skeptical challenges to new epistemological theories.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Skeptical Challenges] --> B[Development of New Theories]
+>   B --> C[Coherentism and Reliabilism]
+>   C --> D[Rigorous Testing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Skepticism in Practical Applications**
+> *Identify how skepticism influences instructional design and scientific research.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Rigorous Validation Methods]
+>   C[Scientific Research] --> D[Test Rigorously Against Evidence]
+> ```
 
 # Skepticism
 

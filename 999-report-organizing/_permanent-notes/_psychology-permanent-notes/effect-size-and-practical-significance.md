@@ -19,7 +19,7 @@ subdomains:
   - meta-science
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - effect-size-and-practical-significance-synthetic-seed-2026-04-26
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Effect Size Metrics Overview**
+> *Identify the different metrics used for effect sizes.*
+>
+> ```mermaid
+> graph TD
+>   A["Cohen's d"] --> B["Pearson's r"]
+>   C["Odds Ratios"] --> D["Eta Squared"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Effect Size Interpretation Flowchart**
+> *Follow the decision-making process based on effect sizes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B{Is Effect Significant?}
+>   B -->|Yes| C[Consider Practical Significance]
+>   B -->|No| D[Further Investigation Needed]
+>   C --> E[Implement if Beneficial]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications in Different Fields**
+> *See how effect sizes impact decision-making across fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Education] --> B[Instructional Design]
+>   C[Healthcare] --> D[Treatment Recommendations]
+>   E[E-Learning] --> F[Spaced Retrieval Techniques]
+> ```
 
 # Effect Size and Practical Significance
 

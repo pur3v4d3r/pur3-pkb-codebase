@@ -18,7 +18,7 @@ subdomains:
   - ai-assisted-coding
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - ai-assisted-development-workflows-synthetic-seed-2026-05-01
@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — AI-Assisted Development Workflow Overview**
+> *Follow the flow from coding to testing and committing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Edit Code] --> B[Test Suggestions]
+>   B --> C[Code Review Assistance]
+>   C --> D[Commit Changes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of AI-Assisted Coding**
+> *Identify the different mechanisms used in AI-assisted coding.*
+>
+> ```mermaid
+> graph TD
+>   A(Code Generation) --> B(Test Suggestions)
+>   B --> C(Code Review Assistance)
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Reduction**
+> *See how AI reduces extraneous cognitive load.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> IntrinsicLoad: Developer Focuses on Complex Tasks
+>   IntrinsicLoad --> ExtraneousLoadReduction: AI Handles Routine Coding
+>   ExtraneousLoadReduction --> CorrectnessVerification: Human Verifies Output
+> ```
 
 # AI-Assisted Development Workflows
 

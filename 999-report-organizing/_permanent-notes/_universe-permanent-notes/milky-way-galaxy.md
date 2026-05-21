@@ -17,7 +17,7 @@ subdomains:
   - galactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - milky-way-galaxy-synthetic-seed-2026-05-14
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Milky Way Structure Overview**
+> *Identify the main components of the Milky Way Galaxy.*
+>
+> ```mermaid
+> graph TD
+>   A[Central Bulge] --> B[Bar]
+>   B --> C[Spiral Arms]
+>   C --> D[Disc]
+>   E[Dust Obscuration] -->|Obscures| F[Galactic Core]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sgr A* Influence on Galactic Dynamics**
+> *Trace the gravitational influence of Sgr A* on surrounding matter.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CentralBH as SgrA*
+>   participant Stars
+>   participant GasDust
+>   SgrA*->>Stars: Gravitational Pull
+>   Stars-->>SgrA*: Elliptical Orbits
+>   SgrA*->>GasDust: Attracts Matter
+>   GasDust-->>SgrA*: Density Waves
+> ```
+
+
+> [!abstract] **Diagram 3 — Star Formation in Spiral Arms**
+> *Follow the process of star formation triggered by density waves.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Interstellar Medium] --> B[Density Wave]
+>   B --> C[Gas Compression]
+>   C --> D[Star Formation]
+> ```
 
 # Milky Way Galaxy
 

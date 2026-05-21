@@ -1,14 +1,13 @@
 ---
-title: "Top-K Sampling"
+title: Top-K Sampling
 aliases:
-  - "Top-K Sampling"
-  - "k-sampling"
-  - "top-k decoding"
-  - "k-best sampling"
+  - Top-K Sampling
+  - k-sampling
+  - top-k decoding
+  - k-best sampling
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,80 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "top-k-sampling-synthetic-seed-2026-05-20"
+  - top-k-sampling-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Strategies"
-
+parent-concept: LLM Decoding Strategies
 related:
-  - "[[Temperature-Sampling]]"
-  - "[[Top-P-Nucleus-Sampling]]"
+  - '[[Temperature-Sampling]]'
+  - '[[Top-P-Nucleus-Sampling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Temperature-Sampling]]"
-  - "[[Top-P-Nucleus-Sampling]]"
+  - '[[Temperature-Sampling]]'
+  - '[[Top-P-Nucleus-Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Top-K Sampling Process Flow**
+> *Follow the steps from token selection to sampling.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Distribution] --> B[Select Top K]
+>   B --> C[Renormalize Probabilities]
+>   C --> D[Sample Token]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Sampling Methods**
+> *Compare how each method handles token probability.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-K] -->|Hard cutoff| B[Temperature]
+>   A -->|Fixed K| C[Nucleus]
+>   B -->|Smooth probabilities| D[All Tokens]
+>   C -->|Cumulative threshold| E[Diverse Tokens]
+> ```
 
 # Top-K Sampling
 

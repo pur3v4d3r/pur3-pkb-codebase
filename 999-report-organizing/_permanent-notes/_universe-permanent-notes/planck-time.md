@@ -17,7 +17,7 @@ subdomains:
   - fundamental-units
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - planck-time-synthetic-seed-2026-05-14
@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Planck Time Derivation**
+> *Follow the derivation from constants to Planck Time.*
+>
+> ```mermaid
+> graph TD
+>   A[Speed of Light (c)] --> B[Gravitational Constant (G)]
+>   B --> C[Reduced Planck Constant (&#8491;)]
+>   C --> D[Planck Time (t_P = √(&#8491;G/c⁵))]
+> ```
+
+
+> [!abstract] **Diagram 2 — Classical to Quantum Transition**
+> *Trace the transition from classical physics to quantum gravity.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ClassicalPhysics
+>   ClassicalPhysics --> BreakdownAtPlanckTime
+>   BreakdownAtPlanckTime --> QuantumGravity
+>   QuantumGravity --> UnifiedTheory
+> ```
+
+
+> [!abstract] **Diagram 3 — Early Universe Timeline**
+> *Identify the role of Planck Time in early universe studies.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant BigBang as BB
+>   participant ClassicalPhysics as CP
+>   participant QuantumGravity as QG
+>   BB -> CP: Initial Expansion
+>   CP -->> QG: Breakdown at Planck Scale
+>   QG --> CP: Re-emergence of Classical Descriptions
+> ```
 
 # Planck Time
 

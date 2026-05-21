@@ -1,14 +1,13 @@
 ---
-title: "Plan-and-Execute Agents"
+title: Plan-and-Execute Agents
 aliases:
-  - "Plan-and-Execute Agents"
-  - "plan-then-execute"
-  - "two-phase agent"
-  - "planner-executor agent"
+  - Plan-and-Execute Agents
+  - plan-then-execute
+  - two-phase agent
+  - planner-executor agent
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,99 @@ subdomains:
   - task-planning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "plan-and-execute-agents-synthetic-seed-2026-05-20"
+  - plan-and-execute-agents-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+parent-concept: Cognitive Architecture
 related:
-  - "[[Reactive Agents]]"
-  - "[[Hierarchical Agent Orchestration]]"
+  - '[[Reactive Agents]]'
+  - '[[Hierarchical Agent Orchestration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reactive Agents]]"
+  - '[[Reactive Agents]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Hierarchical Agent Orchestration]]"
+  - '[[Hierarchical Agent Orchestration]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Plan-and-Execute Architecture Overview**
+> *Follow the flow from planning to execution.*
+>
+> ```mermaid
+> graph TD
+>   A[Planner]
+>   B[Executor]
+>   A -->|Generate Plan| C[Plan]
+>   C -->|Handover| D{Execute}
+>   D -->|Yes| E[Execution]
+>   E --> F[Complete Task]
+> ```
+
+
+> [!abstract] **Diagram 2 — Planning and Execution Workflow**
+> *Trace the steps from task analysis to final execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Analysis] --> B[Scenario Evaluation]
+>   B --> C[Optimization]
+>   C --> D[Plan Generation]
+>   D --> E{Replan Needed?}
+>   E -->|No| F[Execution Start]
+>   F --> G[Sequential Execution]
+>   G --> H[Task Completion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hierarchical Task Orchestration Example**
+> *Observe the breakdown of complex tasks into sub-tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Task] --> B{Sub-Task1}
+>   B --> C[Plan Sub-Task1]
+>   C --> D[Execute Sub-Task1]
+>   A --> E{Sub-Task2}
+>   E --> F[Plan Sub-Task2]
+>   F --> G[Execute Sub-Task2]
+> ```
 
 # Plan-and-Execute Agents
 

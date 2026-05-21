@@ -1,15 +1,14 @@
 ---
-title: "Computer Use Agents"
+title: Computer Use Agents
 aliases:
-  - "Computer Use Agents"
-  - "GUI agents"
-  - "screen-operating agents"
-  - "UI automation agents"
-  - "computer control LLMs"
+  - Computer Use Agents
+  - GUI agents
+  - screen-operating agents
+  - UI automation agents
+  - computer control LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,78 @@ subdomains:
   - human-computer-interaction
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "computer-use-agents-synthetic-seed-2026-05-21"
+  - computer-use-agents-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Agents"
-
+parent-concept: LLM Agents
 related:
-  - "[[Multimodal Models]]"
-  - "[[API-Calling Agents]]"
+  - '[[Multimodal Models]]'
+  - '[[API-Calling Agents]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Multimodal Models]]"
+  - '[[Multimodal Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[API-Calling Agents]]"
+  - '[[API-Calling Agents]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Computer Use Agent Process Flow**
+> *Follow the sequence from screenshot capture to action execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture Screenshot] --> B[Process Image]
+>   B --> C[Interpret GUI Elements]
+>   C --> D[Formulate Actions]
+>   D --> E[Execute Actions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Automation Methods**
+> *Compare API-calling agents with computer use agents based on their interaction methods.*
+>
+> ```mermaid
+> graph TD
+>   A[API-Calling Agents] -->|Requires Machine-Readable Interfaces| B[Traditional Automation]
+>   C[Computer Use Agents] -->|Interprets Visual Input| D[Sophisticated GUI Interaction]
+> ```
 
 # Computer Use Agents
 

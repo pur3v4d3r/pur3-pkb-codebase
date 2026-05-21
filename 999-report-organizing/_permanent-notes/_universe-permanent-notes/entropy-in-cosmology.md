@@ -17,7 +17,7 @@ subdomains:
   - cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - entropy-in-cosmology-synthetic-seed-2026-05-14
@@ -66,8 +66,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Entropy Budget Breakdown**
+> *Identify the primary contributors to cosmic entropy.*
+>
+> ```mermaid
+> graph TD
+>   A[Supermassive Black Holes]
+>   B[Cosmic Microwave Background Radiation]
+>   C[Other Sources]
+>   A -->|10^104 k_B| D[Total Entropy]
+>   B -->|10^89 k_B| D
+>   C -->|Minor Contribution| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Entropy Evolution Timeline**
+> *Trace the entropy increase from early universe to future heat death.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant EarlyUniverse as EU
+>   participant Expansion as E
+>   participant HeatDeath as HD
+>   EU->>E: Low Entropy State
+>   E-->>HD: Gradual Increase in Entropy
+>   HD-->: Heat Death Scenario
+> ```
+
+
+> [!abstract] **Diagram 3 — Entropy vs Local Thermodynamics**
+> *Compare macroscopic entropy with local thermodynamic processes.*
+>
+> ```mermaid
+> classDiagram
+>   class MacroCosmicEntropy{
+>     +ContributesToTotalEntropy()
+>     +InfluencesTimeArrow()
+>   }
+>   class LocalThermodynamics{
+>     +EnergyTransfer()
+>     +EquilibriumProcesses()
+>   }
+>   MacroCosmicEntropy -->|Dominates| TotalEntropy
+>   LocalThermodynamics -->|ConfinedSystems| Equilibrium
+> ```
 
 # Entropy In Cosmology
 

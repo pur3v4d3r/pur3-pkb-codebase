@@ -16,7 +16,7 @@ subdomains:
   - particle-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - baryogenesis-synthetic-seed-2026-05-14
@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sakharov Conditions Overview**
+> *Identify the three necessary conditions for baryogenesis.*
+>
+> ```mermaid
+> graph TD
+>   A["Baryon Number Violation"] --> B["CP Symmetry Breaking"]
+>   B --> C["Departure from Thermal Equilibrium"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Leptogenesis Mechanism Flow**
+> *Follow the sequence of events leading to baryon asymmetry.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HeavyNeutrino as HN
+>   participant Lepton as L
+>   participant Baryon as B
+>   HN->>L: Decay
+>   L-->>HN: CP Violation
+>   L->>B: Asymmetry Transfer
+> ```
+
+
+> [!abstract] **Diagram 3 — Theoretical Frameworks for Baryogenesis**
+> *Explore the different theoretical approaches to baryon asymmetry.*
+>
+> ```mermaid
+> graph TD
+>   A["Electroweak"] --> B["GUT"]
+>   C["Leptogenesis"] --> D["Affleck-Dine"]
+> ```
 
 # Baryogenesis
 

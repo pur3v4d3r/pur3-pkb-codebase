@@ -1,13 +1,12 @@
 ---
-title: "Hasty Generalization"
+title: Hasty Generalization
 aliases:
-  - "Hasty Generalization"
-  - "hasty generalisation"
-  - "insufficient sample fallacy"
+  - Hasty Generalization
+  - hasty generalisation
+  - insufficient sample fallacy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,87 @@ subdomains:
   - statistics
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "hasty-generalization-synthetic-seed-2026-05-12"
+  - hasty-generalization-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Informal Fallacies"
-
+parent-concept: Informal Fallacies
 related:
-  - "[[Neglect of Probability]]"
-  - "[[Texas Sharpshooter Fallacy]]"
+  - '[[Neglect of Probability]]'
+  - '[[Texas Sharpshooter Fallacy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Neglect of Probability]]"
+  - '[[Neglect of Probability]]'
 contrasts-with:
-  - "[[Texas Sharpshooter Fallacy]]"
+  - '[[Texas Sharpshooter Fallacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hasty Generalization Process Flow**
+> *Follow the flow from insufficient data to flawed conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Insufficient Data] --> B[Sweeping Conclusion]
+>   B --> C[Flawed Inference]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sample Adequacy vs Generalization Scope**
+> *Compare the adequacy of sample size with the scope of generalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Sample] --> B[Inadequate]
+>   C[Adequate Sample] --> D[Sufficient]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hasty Generalization in Domains**
+> *Identify common domains where hasty generalizations occur.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policy-Making] --> B[Hasty Decision]
+>   C[Marketing] --> D[Misguided Strategy]
+>   E[Scientific Research] --> F[Erroneous Conclusion]
+> ```
 
 # Hasty Generalization
 

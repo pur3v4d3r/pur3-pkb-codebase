@@ -17,7 +17,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - spaced-retrieval-synthetic-seed-2026-04-24
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Spaced Retrieval Intervals**
+> *Follow the intervals to see how recall timing increases over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Day 1] --> B[Day 3]
+>   B --> C[Day 7]
+>   C --> D[Day 21]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spaced Retrieval Mechanism**
+> *Trace the path from initial learning to long-term retention through spaced intervals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning] --> B[First Recall]
+>   B --> C[Second Recall]
+>   C --> D[Third Recall]
+>   D --> E[Long-Term Retention]
+> ```
+
+
+> [!abstract] **Diagram 3 — Spaced Retrieval Applications**
+> *Identify the different contexts where Spaced Retrieval can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Self-Study)
+>   A --> C(Corporate Training)
+> ```
 
 # Spaced Retrieval
 

@@ -1,14 +1,13 @@
 ---
-title: "Tool Schema Optimization"
+title: Tool Schema Optimization
 aliases:
-  - "Tool Schema Optimization"
-  - "function schema optimization"
-  - "tool call quality"
-  - "function schema engineering"
+  - Tool Schema Optimization
+  - function schema optimization
+  - tool call quality
+  - function schema engineering
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,102 @@ subdomains:
   - tool-use-llms
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tool-schema-optimization-synthetic-seed-2026-05-20"
+  - tool-schema-optimization-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Structured Generation"
-
+parent-concept: Structured Generation
 related:
-  - "[[Function Schema Design]]"
-  - "[[Output Schema Enforcement]]"
+  - '[[Function Schema Design]]'
+  - '[[Output Schema Enforcement]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Function Schema Design]]"
+  - '[[Function Schema Design]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Output Schema Enforcement]]"
+  - '[[Output Schema Enforcement]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Optimization Process Flow**
+> *Follow the steps from schema design to testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Design Schema]
+>   B --> C[Test Fields]
+>   C --> D[A/B Test Phrasings]
+>   D --> E[Add Examples]
+>   E --> F[Consolidate Functions]
+>   F --> G[Order Tools]
+>   G --> H[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Design Techniques Overview**
+> *Identify the techniques used in schema optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Ablation Studies]
+>   A --> C[A/B Testing Phrasings]
+>   A --> D[Add Few-Shot Examples]
+>   A --> E[Consolidate Functions]
+>   A --> F[Order Tools]
+>   G[End]
+> ```
+
+
+> [!abstract] **Diagram 3 — Tool Schema Optimization Workflow**
+> *See the iterative process from design to evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Design Initial Schema]
+>   B --> C[Test Impact of Fields]
+>   C --> D[A/B Test Phrasings]
+>   D --> E[Evaluate Results]
+>   E --> F[Iterate on Design]
+>   F --> G[End]
+> ```
 
 # Tool Schema Optimization
 

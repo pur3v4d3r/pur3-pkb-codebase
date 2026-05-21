@@ -1,13 +1,12 @@
 ---
-title: "Skeleton of Thought"
+title: Skeleton of Thought
 aliases:
-  - "Skeleton of Thought"
-  - "SoT"
-  - "skeleton-of-thought prompting"
+  - Skeleton of Thought
+  - SoT
+  - skeleton-of-thought prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,81 @@ subdomains:
   - parallel-inference
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "skeleton-of-thought-synthetic-seed-2026-05-20"
+  - skeleton-of-thought-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Decomposed-Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Decomposed-Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Decomposed-Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Decomposed-Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Skeleton of Thought Process Flow**
+> *Follow the stages from outline generation to parallel elaboration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Generate Skeleton]
+>   B --> C[Elaborate Independently]
+>   C --> D[Combine Elaborations]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Skeleton of Thought vs Chain-of-Thought**
+> *Compare the sequential and parallel processing stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Skeleton] --> B[Parallel Elaboration]
+>   C[Chain-of-Thought] --> D[Sequential Generation]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#f96,stroke:#333,stroke-width:4px
+> ```
 
 # Skeleton of Thought
 

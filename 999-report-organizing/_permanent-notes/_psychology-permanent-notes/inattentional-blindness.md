@@ -18,7 +18,7 @@ subdomains:
   - attention-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - inattentional-blindness-synthetic-seed-2026-04-25
@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Inattentional Blindness Process Flow**
+> *Follow the flow from attention focus to stimulus perception.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attention Focus] --> B[Task Engagement]
+>   B --> C[Stimulus Present]
+>   C --> D[Perception Filtered]
+>   D --> E[Conscious Perception]
+>   E --> F[Reported Awareness]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inattentional Blindness Mechanism Overview**
+> *Trace the cognitive resource allocation from attention to perception.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention Allocation] --> B[Cognitive Resources]
+>   B --> C[Sensory Input Processing]
+>   C --> D[Relevance Filtering]
+>   D --> E[Conscious Perception]
+> ```
+
+
+> [!abstract] **Diagram 3 — Inattentional Blindness Applications Summary**
+> *Identify the applications and their corresponding cognitive challenges.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant TrafficSafety as TS
+>   participant SecurityScreening as SS
+>   participant MOOCs as M
+>   ID->>ID: Ensure critical info visibility
+>   TS->>TS: Prevent distractions while driving
+>   SS->>SS: Maintain sustained attention in screening
+>   M->>M: Periodic review of key concepts
+> ```
 
 # Inattentional Blindness
 

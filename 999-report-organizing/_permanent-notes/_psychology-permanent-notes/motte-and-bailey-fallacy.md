@@ -18,7 +18,7 @@ subdomains:
   - social-epistemology
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - motte-and-bailey-fallacy-synthetic-seed-2026-05-12
@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Motte And Bailey Fallacy Process Flow**
+> *Follow the flow from bold claim to retreat and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Bold Claim] --> B[Challenge]
+>   B --> C[Retreat To Weak Position]
+>   C --> D[Reassert Original Claim]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motte And Bailey Fallacy Conceptual Hierarchy**
+> *Identify the relationship between strong and weak claims.*
+>
+> ```mermaid
+> graph TD
+>   A[Strong (Bailey)] --> B[Weak (Motte)]
+>   B --> C[Return To Strong]
+>   A -->|Confusion| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Argumentative Deception Mechanism**
+> *Trace the strategic retreat and reassertion process.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant BoldClaim as BC
+>   participant WeakPosition as WP
+>   participant Critic as C
+>   BC->>C: Present Strong Claim
+>   C-->>BC: Challenge
+>   BC->>WP: Retreat To Weak Position
+>   WP->>BC: Reassert Original Claim
+> ```
 
 # Motte And Bailey Fallacy
 

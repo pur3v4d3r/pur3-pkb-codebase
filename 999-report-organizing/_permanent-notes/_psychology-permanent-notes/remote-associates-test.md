@@ -18,7 +18,7 @@ subdomains:
   - individual-differences
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - remote-associates-test-synthetic-seed-2026-04-25
@@ -65,8 +65,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RAT Process Flow**
+> *Follow the steps from triad presentation to solution finding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Present Triads] --> B[Access Semantic Network]
+>   B --> C[Identify Common Associations]
+>   C --> D[Find Connecting Word]
+> ```
+
+
+> [!abstract] **Diagram 2 — RAT Application Areas**
+> *See the diverse contexts where RAT is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Assess Creativity|
+>   B[Corporate Innovation] -->|Screen Candidates|
+>   C[MOOCs] -->|Enhance Retention]
+> ```
 
 # Remote Associates Test
 

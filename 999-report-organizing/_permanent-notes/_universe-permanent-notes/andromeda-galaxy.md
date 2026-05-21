@@ -17,7 +17,7 @@ subdomains:
   - galactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - andromeda-galaxy-synthetic-seed-2026-05-14
@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Local Group Galaxy Interaction**
+> *Follow the gravitational interactions between galaxies.*
+>
+> ```mermaid
+> graph TD
+>   A[Andromeda]
+>   B[Milky Way]
+>   C[Other Galaxies]
+>   A -->|Gravitational Attraction| B
+>   B -->|Gravitational Attraction| A
+>   A -->|Influence| C
+>   B -->|Influence| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Galactic Dynamics Model**
+> *Trace the process from theoretical models to observational data.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Theorist as T
+>   participant Observer as O
+>   participant Andromeda as A
+>   T->>A: Predicts Galaxy Merger Outcome
+>   A-->>O: Observed Motion Data
+>   O->>T: Infers Gravitational Forces
+> ```
+
+
+> [!abstract] **Diagram 3 — Galactic Evolution Timeline**
+> *Track the timeline of Andromeda's approach and eventual merger.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Present: "Current State"
+>   Present --> Approaching: "4-5 Billion Years"
+>   Approaching --> Merging: "Collision Phase"
+>   Merging --> Milkomeda: "Final Elliptical Galaxy"
+> ```
 
 # Andromeda Galaxy
 

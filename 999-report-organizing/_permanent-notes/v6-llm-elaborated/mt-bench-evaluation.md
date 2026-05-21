@@ -1,14 +1,13 @@
 ---
-title: "MT-Bench Evaluation"
+title: MT-Bench Evaluation
 aliases:
-  - "MT-Bench Evaluation"
-  - "MT-Bench"
-  - "multi-turn benchmark"
-  - "MT-bench LLM eval"
+  - MT-Bench Evaluation
+  - MT-Bench
+  - multi-turn benchmark
+  - MT-bench LLM eval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,94 @@ subdomains:
   - conversational-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "mt-bench-evaluation-synthetic-seed-2026-05-21"
+  - mt-bench-evaluation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Single-Turn Benchmarks]]"
-  - "[[GPT-4]]"
+  - '[[Single-Turn Benchmarks]]'
+  - '[[GPT-4]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Single-Turn Benchmarks]]"
+  - '[[Single-Turn Benchmarks]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[GPT-4]]"
+  - '[[GPT-4]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — MT-Bench Evaluation Categories**
+> *Identify the categories assessed by MT-Bench.*
+>
+> ```mermaid
+> graph TD
+>   A[Writing]
+>   B[Roleplay]
+>   C[Extraction]
+>   D[Reasoning]
+>   E[Math]
+>   F[Coding]
+>   G[Knowledge]
+>   H[STEM]
+> ```
+
+
+> [!abstract] **Diagram 2 — MT-Bench Scoring Process**
+> *Understand the flow from question sets to final scores.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Question Sets] --> B[Multi-Turn Conversations]
+>   B --> C[GPT-4 Judge Model]
+>   C --> D[Per-Category Scores]
+> ```
+
+
+> [!abstract] **Diagram 3 — MT-Bench Application Areas**
+> *See the practical applications of MT-Bench Evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Robust Conversational Interfaces]
+>   C[Model Development] --> D[Critical Insights for Improvement]
+>   E[Benchmarking] --> F[Fair Comparisons Across Models]
+> ```
 
 # MT-Bench Evaluation
 

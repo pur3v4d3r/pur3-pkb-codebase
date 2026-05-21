@@ -17,7 +17,7 @@ subdomains:
   - decision-science
 
 created: 2026-04-27
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - reference-dependence-synthetic-seed-2026-04-27
@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reference Dependence Process Flow**
+> *Follow the flow from outcome to perception through reference point.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Outcome] --> B[Deviation]
+>   B --> C[Perception]
+>   A --> D[Reference Point]
+>   B -.-> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Contextual Reference Points**
+> *Identify the different types of reference points and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A(Status Quo) -->|Example| B(Aspiration)
+>   C[Forecast] --> D(Social Norm)
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavioral Impact Diagram**
+> *Trace the impact of reference points on decision-making and behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A(Reference Point) --> B[Perception]
+>   B --> C[Emotional Response]
+>   C --> D(Behavior)
+>   A -->|Contextual Shifts| E(New Reference)
+>   E --> F(Different Perception)
+>   F --> G[Divergent Behavior]
+> ```
 
 # Reference Dependence
 

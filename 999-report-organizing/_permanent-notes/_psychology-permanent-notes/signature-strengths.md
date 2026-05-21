@@ -18,7 +18,7 @@ subdomains:
   - virtue-ethics
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - signature-strengths-synthetic-seed-2026-05-01
@@ -66,8 +66,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Signature Strengths Hierarchy**
+> *Identify the top strengths within an individual's character.*
+>
+> ```mermaid
+> graph TD
+>   A[Character]
+>   B[Strengths]
+>   C[General]
+>   D[Intrinsic Identity]
+>   E[Signature]
+>   F[Alignment]
+>   G[Enhanced Well-being]
+>   A -->|Includes| B
+>   B -->|Includes| C
+>   B -->|Aligns with| D
+>   D -->|Identifies| E
+>   E -->|Fosters| F
+>   F -->|Leads to| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Signature Strengths**
+> *Understand the process from strengths alignment to enhanced well-being.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Signature Strengths]
+>   B[Alignment with Identity]
+>   C[Affirmation and Engagement]
+>   D[Sustained Positive Emotions]
+>   E[Reduced Negative Affect]
+>   F[Enhanced Well-being]
+>   A -->|Aligns with| B
+>   B -->|Fosters| C
+>   C -->|Leads to| D
+>   D -->|Reduces| E
+>   E -->|Contributes to| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Instructional Design**
+> *See how signature strengths enhance learning outcomes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant Activity as A
+>   S->>E: Identifies Curiosity Strength
+>   E->>A: Designs Interactive Activities
+>   A-->>S: Engages in Exploration
+>   S-->>S: Experiences Greater Engagement
+> ```
 
 # Signature Strengths
 

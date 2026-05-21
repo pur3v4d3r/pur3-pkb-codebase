@@ -1,14 +1,13 @@
 ---
-title: "Tokenizer Sensitivity"
+title: Tokenizer Sensitivity
 aliases:
-  - "Tokenizer Sensitivity"
-  - "tokenization sensitivity"
-  - "prompt tokenization sensitivity"
-  - "tokenizer brittleness"
+  - Tokenizer Sensitivity
+  - tokenization sensitivity
+  - prompt tokenization sensitivity
+  - tokenizer brittleness
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,95 @@ subdomains:
   - robustness
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tokenizer-sensitivity-synthetic-seed-2026-05-20"
+  - tokenizer-sensitivity-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "NLP Tokenization"
-
+parent-concept: NLP Tokenization
 related:
-  - "[[Tokenization Artifacts]]"
-  - "[[Subword Tokenization]]"
+  - '[[Tokenization Artifacts]]'
+  - '[[Subword Tokenization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Tokenization Artifacts]]"
+  - '[[Tokenization Artifacts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Subword Tokenization]]"
+  - '[[Subword Tokenization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Tokenizer Sensitivity Process Flow**
+> *Follow the flow from input to output, noting how tokenization affects model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Tokenization]
+>   B --> C[Model Processing]
+>   C --> D[Output Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tokenizer Sensitivity Examples**
+> *Compare the different outputs based on variations in token sequences.*
+>
+> ```mermaid
+> graph TD
+>   A[Capitalization] --> B["Different Outputs"]
+>   C[Punctuation] --> D["Different Outputs"]
+>   E[Word Order] --> F["Different Outputs"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token Sensitivity vs Semantic Uncertainty**
+> *Understand the distinction between token sensitivity and semantic uncertainty.*
+>
+> ```mermaid
+> classDiagram
+>   class TokenizerSensitivity{
+>     +TokenizerVariations
+>     -DifferentOutputs
+>   }
+>   class SemanticUncertainty{
+>     +AmbiguousInputs
+>     -InconsistentUnderstanding
+>   }
+>   TokenizerSensitivity --> SemanticUncertainty : Distinct Phenomena
+> ```
 
 # Tokenizer Sensitivity
 

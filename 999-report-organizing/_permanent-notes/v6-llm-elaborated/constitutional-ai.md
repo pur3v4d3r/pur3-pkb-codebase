@@ -1,14 +1,13 @@
 ---
-title: "Constitutional AI"
+title: Constitutional AI
 aliases:
-  - "Constitutional AI"
-  - "CAI"
-  - "constitutional AI principles"
-  - "self-critique alignment"
+  - Constitutional AI
+  - CAI
+  - constitutional AI principles
+  - self-critique alignment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,92 @@ subdomains:
   - red-teaming-llms
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "constitutional-ai-synthetic-seed-2026-05-21"
+  - constitutional-ai-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Supervised Fine-Tuning]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Supervised Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Supervised Fine-Tuning]]"
+  - '[[Supervised Fine-Tuning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — CAI Process Flow**
+> *Follow the stages from SL-CAF to RLAIF.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[SL-CAF: Self-Critique Against Constitution]
+>   B --> C[RLAIF: Reinforcement Learning From AI Feedback]
+>   C --> D[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — CAI vs Traditional Supervision**
+> *Compare CAI's reliance on constitutions and self-critique with traditional human supervision.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Human Supervision]
+>   B[Constitutional AI]
+>   A -->|Human Annotations| C[Alignment]
+>   B -->|Explicit Constitution| D[Self-Critique Mechanisms]
+> ```
+
+
+> [!abstract] **Diagram 3 — CAI Applications Overview**
+> *Identify the applications of CAI in instructional design and content moderation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   A -->|Ensure Ethical & Accurate Content| C[Constitutional AI]
+>   B -->|Reduce Human Annotators| D[Flag Inappropriate Content]
+> ```
 
 # Constitutional AI
 

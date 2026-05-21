@@ -18,7 +18,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - networked-thought-synthetic-seed-2026-04-26
@@ -67,8 +67,83 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Networked Thought Overview**
+> *Identify the core components of Networked Thought.*
+>
+> ```mermaid
+> graph TD
+>   A[Concepts]
+>   B[Ideas]
+>   C[Associations]
+>   D[Activation]
+>   E[Retrieval]
+>   F[Efficency]
+>   G[Interconnectedness]
+>   H[Flexibility]
+>   I[Enhanced Thinking]
+>   A -->|Nodes| B
+>   B -->|Links| C
+>   C -->|Triggering| D
+>   D -->|Rapid| E
+>   E -->|Efficient| F
+>   F -->|Dense| G
+>   G -->|Lateral| H
+>   H -->|Creative| I
+> ```
+
+
+> [!abstract] **Diagram 2 — Spreading Activation Process**
+> *Follow the flow of activation through interconnected nodes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Activate Node]
+>   B[Trigger Associated Nodes]
+>   C[Ripple Effect]
+>   D[Rapid Retrieval]
+>   E[Enhanced Understanding]
+>   F[Efficient Cognitive Network]
+>   A -->|Activation| B
+>   B -->|Ripples| C
+>   C -->|Quick Access| D
+>   D -->|Improved Comprehension| E
+>   E -->|Optimized Processing| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Networked Thought vs Hierarchical Models**
+> *Compare the structure and benefits of Networked Thought with traditional hierarchical models.*
+>
+> ```mermaid
+> graph TD
+>   A[Networked Thought]
+>   B[Hierarchical Model]
+>   C[Flexible Retrieval]
+>   D[Rigid Categories]
+>   E[Dense Interconnections]
+>   F[Limited Flexibility]
+>   G[Enhanced Thinking]
+>   H[Narrow Focus]
+>   I[Creative Problem Solving]
+>   J[Linear Thought]
+>   A -->|Flexible| C
+>   A -->|Dense| E
+>   A -->|Enhanced| G
+>   A -->|Creative| I
+>   B -->|Rigid| D
+>   B -->|Limited| F
+>   B -->|Narrow| H
+>   B -->|Linear| J
+> ```
 
 # Networked Thought
 

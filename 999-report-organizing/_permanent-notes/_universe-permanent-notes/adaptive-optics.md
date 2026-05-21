@@ -17,7 +17,7 @@ subdomains:
   - instrumentation
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - adaptive-optics-synthetic-seed-2026-05-14
@@ -64,8 +64,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — AO System Components**
+> *Follow the flow from wavefront sensing to mirror adjustment.*
+>
+> ```mermaid
+> graph TD
+>   A[Wavefront Sensor]
+>   B[Deformable Mirror]
+>   C[Control System]
+>   A -->|Measure Distortion| C
+>   C -->|Adjust Mirror| B
+> ```
+
+
+> [!abstract] **Diagram 2 — AO Feedback Loop**
+> *Trace the real-time correction cycle from sensor to mirror.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant WavefrontSensor as WS
+>   participant ControlSystem as CS
+>   participant DeformableMirror as DM
+>   WS->>CS: Measure Distortion
+>   CS-->>DM: Adjust Mirror
+>   loop Kilohertz Updates
+>     DM-->>WS: Reflect Light
+>     WS->>CS: Measure Distortion
+>     CS-->>DM: Adjust Mirror
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — AO Imaging Quality Comparison**
+> *Compare AO-corrected and non-AO corrected imaging clarity.*
+>
+> ```mermaid
+> graph TD
+>   A[Non-AO Corrected]
+>   B[AO-Corrected]
+>   subgraph Blurry
+>     A -->|Atmospheric Turbulence| C[Faint Details Lost]
+>   end
+>   subgraph Clear
+>     B -->|Near-Diffraction Limited| D[Detailed Observations]
+>   end
+> ```
 
 # Adaptive Optics
 

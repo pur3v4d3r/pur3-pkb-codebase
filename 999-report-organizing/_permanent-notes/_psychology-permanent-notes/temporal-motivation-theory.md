@@ -17,7 +17,7 @@ subdomains:
   - self-regulation
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - temporal-motivation-theory-synthetic-seed-2026-04-25
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — TMT Core Components**
+> *Identify the key factors influencing motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Expectancy] --> B[(E * V) / (I * D)]
+>   C[Value] --> B
+>   D[Impulsiveness] --> B
+>   E[Delay] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — TMT Application Workflow**
+> *Follow the steps to apply TMT in instructional design.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Clear Deadlines]
+>   A --> B[(E * V) / (I * D)]
+>   B --> C[Emphasize Value]
+>   C --> D[Reduce Perceived Delay]
+> ```
+
+
+> [!abstract] **Diagram 3 — TMT Motivation Equation**
+> *Understand how motivation changes with delay and impulsiveness.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial: (E * V) / (I * D)
+>   Initial --> Delayed : Increase Delay
+>   Delayed: Low Motivation
+>   Delayed --> ReducedImpulsiveness : Decrease Impulsiveness
+>   ReducedImpulsiveness: High Motivation
+> ```
 
 # Temporal Motivation Theory
 

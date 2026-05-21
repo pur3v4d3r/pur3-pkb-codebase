@@ -17,7 +17,7 @@ subdomains:
   - psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - competence-need-synthetic-seed-2026-04-24
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Competence Need Process Flow**
+> *Follow the flow from task engagement to competence satisfaction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Engagement] --> B[Optimal Challenge]
+>   B --> C[Clear Feedback]
+>   C --> D[Sense of Efficacy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Competence Need Mechanism Components**
+> *Identify the key elements that support competence satisfaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Clear Expectations] --> B[Scaffolded Difficulty]
+>   B --> C[Informative Feedback]
+> ```
+
+
+> [!abstract] **Diagram 3 — Competence Need in Different Contexts**
+> *Compare how competence need is addressed in various settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Progressive Challenges]
+>   C[Game Development] --> D[Incremental Difficulty]
+>   E[Workplace Training] --> F[Challenging Tasks]
+> ```
 
 # Competence Need
 

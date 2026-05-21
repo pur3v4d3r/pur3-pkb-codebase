@@ -17,7 +17,7 @@ subdomains:
   - knowledge-management
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - knowledge-graph-synthetic-seed-2026-04-25
@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Knowledge Graph Structure**
+> *Identify nodes as atomic concept-notes and edges as relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Node1] --> B[Edge]
+>   B --> C[Node2]
+>   D[Node3] --> E[Edge]
+>   E --> F[Node4]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Graph Mechanism**
+> *Follow the process of creating and maintaining a Knowledge Graph.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Nodes] --> B[Interconnect Edges]
+>   B --> C[Maintain Coherence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Graph Applications**
+> *Explore various applications of Knowledge Graphs in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Research]
+>   B --> C[Personal KM]
+>   C --> D[Collaborative Building]
+> ```
 
 # Knowledge Graph
 

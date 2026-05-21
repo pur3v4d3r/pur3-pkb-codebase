@@ -1,14 +1,13 @@
 ---
-title: "Semantic Similarity in Prompts"
+title: Semantic Similarity in Prompts
 aliases:
-  - "Semantic Similarity in Prompts"
-  - "prompt semantic similarity"
-  - "embedding-based prompt selection"
-  - "similarity-based retrieval for prompts"
+  - Semantic Similarity in Prompts
+  - prompt semantic similarity
+  - embedding-based prompt selection
+  - similarity-based retrieval for prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,113 @@ subdomains:
   - in-context-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "semantic-similarity-in-prompts-synthetic-seed-2026-05-20"
+  - semantic-similarity-in-prompts-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Embedding-Based Retrieval Techniques"
-
+parent-concept: Embedding-Based Retrieval Techniques
 related:
-  - "[[Cosine Similarity Retrieval]]"
-  - "[[Text Embedding Models]]"
+  - '[[Cosine Similarity Retrieval]]'
+  - '[[Text Embedding Models]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Cosine Similarity Retrieval]]"
+  - '[[Cosine Similarity Retrieval]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Text Embedding Models]]"
+  - '[[Text Embedding Models]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Semantic Similarity Workflow**
+> *Follow the flow from query to semantically similar prompt selection.*
+>
+> ```mermaid
+> graph TD
+>   A[Query]
+>   B[Embed Query]
+>   C[Retrieve Examples]
+>   D[Embed Examples]
+>   E[Compare Embeddings]
+>   F[Select Similar Prompts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Syntactic Similarity**
+> *Notice the difference in focus between semantic and syntactic similarity.*
+>
+> ```mermaid
+> graph TD
+>   A[Text]
+>   B{Syntactic}
+>   C{Semantic}
+>   D[Surface-Level Features]
+>   E[Deeper Meaning]
+>   F[Word Order]
+>   G[Context]
+>   H[Structure]
+>   I[Meaning Relationships]
+>   B -->|Focus| D
+>   B -->|Ignores| E
+>   C -->|Focus| G
+>   C -->|Ignores| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Random vs Semantic Selection**
+> *Compare the outcomes of random and semantic selection methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Query]
+>   B{Random}
+>   C{Semantic}
+>   D[Unrelated Examples]
+>   E[Related Examples]
+>   F[Better Generalization]
+>   G[Worse Performance]
+>   H[Improved Task Completion]
+>   I[Worse Task Completion]
+>   B -->|Selects| D
+>   B -->|Outcome| G
+>   C -->|Selects| E
+>   C -->|Outcome| F
+>   C -->|Outcome| H
+> ```
 
 # Semantic Similarity in Prompts
 

@@ -17,7 +17,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - differential-geometry-synthetic-seed-2026-05-14
@@ -66,8 +66,40 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Manifold Structures Overview**
+> *Identify the key structures on manifolds.*
+>
+> ```mermaid
+> graph TD
+>   A[Manifold] --> B[Metric]
+>   A --> C[Connection]
+>   A --> D[Curvature]
+>   A --> E[Fibre Bundle]
+> ```
+
+
+> [!abstract] **Diagram 2 — Yang-Mills Gauge Theory Mechanism**
+> *Trace the geometric interpretation of gauge symmetries.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant BaseSpace as B
+>   participant FibreBundle as F
+>   participant Connection as C
+>   participant FieldChange as FC
+>   B->F: Attach fibres to each point
+>   F->C: Define connection for parallel transport
+>   C->FC: Determine field changes along paths
+> ```
 
 # Differential Geometry
 

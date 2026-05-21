@@ -1,14 +1,13 @@
 ---
-title: "Working Memory Simulation in LLMs"
+title: Working Memory Simulation in LLMs
 aliases:
-  - "Working Memory Simulation in LLMs"
-  - "working memory in LLMs"
-  - "scratchpad memory"
-  - "in-context working memory"
+  - Working Memory Simulation in LLMs
+  - working memory in LLMs
+  - scratchpad memory
+  - in-context working memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,87 @@ subdomains:
   - llm-context-management
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "working-memory-simulation-in-llms-synthetic-seed-2026-05-21"
+  - working-memory-simulation-in-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Context Management"
-
+parent-concept: LLM Context Management
 related:
-  - "[[Working Memory in Cognitive Science]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Working Memory in Cognitive Science]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[Working Memory in Cognitive Science]]"
+  - '[[Working Memory in Cognitive Science]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Working Memory Simulation Process**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Chain-of-Thought Prompting]
+>   B --> C[Intermediate Steps]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory vs Persistent Memories**
+> *Compare the characteristics of working memory and persistent memories.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] -->|Transient, Limited Capacity| B[Persistent Memories]
+>   B -->|Episodic, Semantic| C[Limited by Context Window]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Identify the sources of cognitive load in working memory simulation.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Complexity] -->|Intrinsic Load| B[Cognitive Overload]
+>   C[Distracting Elements] -->|Extraneous Load| B
+> ```
 
 # Working Memory Simulation in LLMs
 

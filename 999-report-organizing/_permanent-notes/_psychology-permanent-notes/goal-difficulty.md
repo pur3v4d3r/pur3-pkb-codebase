@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Goal Difficulty Influence on Performance**
+> *Follow the flow from goal difficulty to performance outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Easy Goals] --> B[Low Effort]
+>   C[Moderate Goals] --> D[Highest Effort]
+>   E[Difficult Goals] --> F[Decreased Commitment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Difficulty Mechanism Stages**
+> *Trace the stages from goal setting to performance enhancement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goal] --> B[Capture Attention]
+>   B --> C[Allocate Resources]
+>   C --> D[Persist and Effort]
+>   D --> E[Implementation Intentions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Difficulty Interaction with Self-Efficacy**
+> *Observe how goal difficulty interacts with self-efficacy to influence performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Self-Efficacy] --> B[Overly Difficult Goals]
+>   C[High Self-Efficacy] --> D[Moderate Goals]
+>   E[Achievable Goals] --> F[Highest Performance]
+> ```
 
 # Goal Difficulty
 

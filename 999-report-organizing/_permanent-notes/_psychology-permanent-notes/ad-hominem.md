@@ -19,7 +19,7 @@ subdomains:
   - argumentation
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - ad-hominem-synthetic-seed-2026-04-26
@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Ad Hominem Fallacy Structure**
+> *Follow the flow from argument to personal attack.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument] --> B[Personal Attack]
+>   B --> C[Dismissal of Argument]
+> ```
+
+
+> [!abstract] **Diagram 2 — Ad Hominem in Digital Discourse**
+> *Trace the feedback loop from personal attacks to engagement metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Personal Attack] --> B[Engagement]
+>   B --> C[Algorithmic Amplification]
+>   C --> D[Normalized Critiques]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ad Hominem vs. Relevant Critique**
+> *Identify the boundary between fallacious and valid personal critiques.*
+>
+> ```mermaid
+> graph TD
+>   A[Relevant Personal Attributes] --> B[Argument Validity]
+>   C[Irrelevant Personal Attributes] --> D[Argument Dismissal]
+> ```
 
 # Ad Hominem Fallacy
 

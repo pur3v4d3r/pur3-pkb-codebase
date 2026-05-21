@@ -19,7 +19,7 @@ subdomains:
   - llm-training
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - continual-learning-llms-synthetic-seed-2026-05-20
@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Continual Learning Process Overview**
+> *Follow the flow from initial training to new data integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Training] --> B[New Data]
+>   B --> C[Catastrophic Forgetting Prevention]
+>   C --> D[Regularization]
+>   C --> E[Arc Modif.]
+>   C --> F[Replay Methods]
+> ```
+
+
+> [!abstract] **Diagram 2 — Continual Learning Mechanisms**
+> *Identify the strategies used to prevent forgetting and adapt.*
+>
+> ```mermaid
+> graph TD
+>   A[Regularization] --> B[Parameter Constraints]
+>   C[Arc Modif.] --> D[Capacity Expansion]
+>   E[Replay Methods] --> F[Past Data Buffer]
+> ```
 
 # Continual Learning LLMs
 

@@ -20,7 +20,7 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-efficacy-theory-foundational-report-2026-04-20
@@ -70,8 +70,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Efficacy Hierarchy Structure**
+> *Follow the hierarchy from general to specific beliefs.*
+>
+> ```mermaid
+> graph TD
+>   A[General Self-Efficacy] --> B(Task Competencies)
+>   B --> C(Specific Task Performance)
+> ```
+
+
+> [!abstract] **Diagram 2 — Belief Coupling Process**
+> *Identify how higher-level beliefs influence lower-level judgments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceived Similarity] --> B(Cognitive Appraisal)
+>   B --> C(Drawing on Higher-Level Beliefs)
+> ```
+
+
+> [!abstract] **Diagram 3 — Dynamic Efficacy Hierarchy**
+> *Observe how experiences and feedback shift efficacy beliefs.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> NewExperience
+>   NewExperience --> ShiftBeliefs: Positive Feedback
+>   ShiftBeliefs --> ReinforceHierarchy: Existing Beliefs Strengthened
+>   ShiftBeliefs --> DisruptHierarchy: New Beliefs Formed
+> ```
 
 # Efficacy Hierarchy
 

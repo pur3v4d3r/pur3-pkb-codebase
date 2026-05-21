@@ -17,7 +17,7 @@ subdomains:
   - near-field-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dwarf-galaxy-synthetic-seed-2026-05-14
@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Dwarf Galaxy Types Overview**
+> *Identify the different types of dwarf galaxies and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Dwarf Elliptical] -->|Smooth, featureless|
+>   B[Dwarf Spheroidal] -->|High dark matter content|
+>   C[Dwarf Irregular] -->|Chaotic structure, star formation|
+>   D[Ultra-faint Dwarf] -->|Low luminosity, high mass-to-light ratio
+> ```
+
+
+> [!abstract] **Diagram 2 — Dwarf Galaxy Formation Process**
+> *Trace the hierarchical assembly process of dwarf galaxies in ΛCDM theory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Small Structures] --> B[Merge]
+>   B --> C[Dwarf Galaxies]
+>   C --> D[Satellite Galaxies]
+>   D --> E[Larger Hosts]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dark Matter Inference Methodology**
+> *Understand the process of inferring dark matter content in dwarf galaxies.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant DwarfGalaxy as DG
+>   participant DarkMatterModel as DM
+>   O->>DG: Measure stellar velocity dispersion
+>   DG-->>O: Data on star velocities
+>   O->>DM: Apply virial equilibrium assumption
+>   DM-->>O: Estimate dark matter mass
+> ```
 
 # Dwarf Galaxy
 

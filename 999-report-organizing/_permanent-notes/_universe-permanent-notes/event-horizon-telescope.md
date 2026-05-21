@@ -17,7 +17,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - event-horizon-telescope-synthetic-seed-2026-05-14
@@ -64,8 +64,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — EHT Interferometry Process**
+> *Follow the data flow from telescopes to image reconstruction.*
+>
+> ```mermaid
+> graph TD
+>   A[Telescopes]
+>   B[Data Collection]
+>   C[Synchronization]
+>   D[Interferometry]
+>   E[Uv-plane Data]
+>   F[Image Reconstruction]
+>   G[Final Image]
+>   A -->|Collect Signals| B
+>   B -->|Synchronize Timing| C
+>   C -->|Combine Signals| D
+>   D -->|Generate Uv-data| E
+>   E -->|Reconstruct Image| F
+>   F -->|Produce Final Image| G
+> ```
+
+
+> [!abstract] **Diagram 2 — EHT vs Traditional Radio Telescopes**
+> *Compare the aperture sizes and resolutions of both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Telescope]
+>   B[EHT Interferometry]
+>   C[Astronomical Object]
+>   D[Resolution]
+>   E[Aperture Size]
+>   F[Low Resolution]
+>   G[High Resolution]
+>   H[Single Dish]
+>   I[Earth-sized Aperture]
+>   A -->|H| H
+>   B -->|I| I
+>   C -->|F| A
+>   C -->|G| B
+>   H -->|E| F
+>   I -->|E| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the differences in image reconstruction approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Raw Data]
+>   B[Theoretical Models]
+>   C[Prior Knowledge]
+>   D[Image Reconstruction]
+>   E[Final Image]
+>   F[Top-Down]
+>   G[Bottom-Up]
+>   A -->|F| D
+>   B -->|F| D
+>   C -->|F| D
+>   A -->|G| D
+>   D -->|E| E
+> ```
 
 # Event Horizon Telescope
 

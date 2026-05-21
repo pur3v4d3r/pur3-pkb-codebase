@@ -21,7 +21,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-foundational-report-2026-04-18
@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — CLT vs Desirable Difficulties Timeline**
+> *Follow the timeline to see how CLT and desirable difficulties are sequenced in learning.*
+>
+> ```mermaid
+> sequenceDiagram
+> participant InitialInstruction as I
+> participant SchemaConstruction as S
+> participant RetentionStrategies as R
+> I->>S: Optimize for schema construction
+> S-->>R: Foundational knowledge acquired
+> R->>R: Introduce retrieval practice and spacing
+> ```
+
+
+> [!abstract] **Diagram 2 — CLT Instructional Techniques**
+> *Identify the techniques used in CLT to reduce cognitive load during initial instruction.*
+>
+> ```mermaid
+> graph TD
+> A[InitialInstruction] --> B[WorkedExamples]
+> B --> C[MinimizeCognitiveLoad]
+> C --> D[SchemaConstruction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Desirable Difficulties Techniques**
+> *See the techniques used to enhance retention and consolidation through desirable difficulties.*
+>
+> ```mermaid
+> graph TD
+> A[RetentionStrategies] --> B[RetrievalPractice]
+> B --> C[TemportalSpacing]
+> C --> D[MemoryConsolidation]
+> ```
 
 # CLT–Desirable Difficulties Reconciliation
 

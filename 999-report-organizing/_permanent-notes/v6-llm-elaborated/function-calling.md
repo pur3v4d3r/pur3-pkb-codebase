@@ -19,7 +19,7 @@ subdomains:
   - tool-use
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - function-calling-synthetic-seed-2026-05-20
@@ -66,8 +66,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Function Calling Process Flow**
+> *Follow the steps from input to structured output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Prompt Interpretation]
+>   B --> C[Model Inference]
+>   C --> D[Structured Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Function Calling Applications**
+> *Identify the applications and their corresponding benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Streamlined Content)
+>   C[Automated Customer Service] --> D(Accurate Responses)
+>   E[Financial Transaction Processing] --> F(Critical Accuracy)
+> ```
 
 # Function Calling
 

@@ -1,14 +1,13 @@
 ---
-title: "Regex-Constrained Generation"
+title: Regex-Constrained Generation
 aliases:
-  - "Regex-Constrained Generation"
-  - "regex-guided generation"
-  - "pattern-constrained decoding"
-  - "regex output forcing"
+  - Regex-Constrained Generation
+  - regex-guided generation
+  - pattern-constrained decoding
+  - regex output forcing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,81 @@ subdomains:
   - data-extraction
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "regex-constrained-generation-synthetic-seed-2026-05-21"
+  - regex-constrained-generation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Constrained Decoding Techniques"
-
+parent-concept: Constrained Decoding Techniques
 related:
-  - "[[Logit Bias Manipulation]]"
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[Logit Bias Manipulation]]'
+  - '[[Grammar-Constrained Decoding]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Logit Bias Manipulation]]"
+  - '[[Logit Bias Manipulation]]'
 contrasts-with:
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[Grammar-Constrained Decoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Regex-Constrained Generation Process Flow**
+> *Follow the flow from input regex to final output text.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Regex] --> B[Compile FSA]
+>   B --> C[Token Sampling]
+>   C --> D[Check Validity]
+>   D -->|Valid| E[Output Text]
+>   D -->|Invalid| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Regex vs CFG Constraints Comparison**
+> *Compare the complexity and application of regex-constrained and CFG-based constraints.*
+>
+> ```mermaid
+> graph TD
+>   A[Regex-Constrained]
+>   B[CFG-Based]
+>   A -->|Simple, Efficient| C[Surface Form Patterns]
+>   B -->|Complex, Deep Analysis| D[Context-Sensitive Structures]
+> ```
 
 # Regex-Constrained Generation
 

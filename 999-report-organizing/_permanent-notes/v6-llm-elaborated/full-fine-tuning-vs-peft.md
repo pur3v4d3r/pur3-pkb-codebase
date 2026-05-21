@@ -1,15 +1,14 @@
 ---
-title: "Full Fine-Tuning vs Parameter-Efficient Fine-Tuning"
+title: Full Fine-Tuning vs Parameter-Efficient Fine-Tuning
 aliases:
-  - "Full Fine-Tuning vs Parameter-Efficient Fine-Tuning"
-  - "Full Fine-Tuning vs PEFT"
-  - "full fine-tuning versus PEFT"
-  - "FFT vs PEFT"
-  - "full-parameter vs parameter-efficient fine-tuning"
+  - Full Fine-Tuning vs Parameter-Efficient Fine-Tuning
+  - Full Fine-Tuning vs PEFT
+  - full fine-tuning versus PEFT
+  - FFT vs PEFT
+  - full-parameter vs parameter-efficient fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - resource-efficient-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "full-fine-tuning-vs-peft-synthetic-seed-2026-05-21"
+  - full-fine-tuning-vs-peft-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Parameter-Efficient Fine-Tuning Methods]]"
-  - "[[Catastrophic Forgetting in LLMs]]"
+  - '[[Parameter-Efficient Fine-Tuning Methods]]'
+  - '[[Catastrophic Forgetting in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Parameter-Efficient Fine-Tuning Methods]]"
+  - '[[Parameter-Efficient Fine-Tuning Methods]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Catastrophic Forgetting in LLMs]]"
+  - '[[Catastrophic Forgetting in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — FFT vs PEFT Memory Usage**
+> *Compare memory usage between FFT and PEFT methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning]
+>   B(Parameter-Efficient Fine-Tuning)
+>   A -->|High Memory Demand| C[All Parameters]
+>   B -->|Low Memory Demand| D[Few Task-Specific Params]
+> ```
+
+
+> [!abstract] **Diagram 2 — FFT vs PEFT Computational Cost**
+> *Compare computational cost between FFT and PEFT methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning]
+>   B(Parameter-Efficient Fine-Tuning)
+>   A -->|High Compute Resources| C[All Parameters]
+>   B -->|Low Compute Resources| D[Few Task-Specific Params]
+> ```
+
+
+> [!abstract] **Diagram 3 — FFT vs PEFT Trade-Offs**
+> *Understand the trade-offs between FFT and PEFT methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning]
+>   B(Parameter-Efficient Fine-Tuning)
+>   A -->|Maximal Expressivity| C[High Compute, Risk of Forgetting]
+>   B -->|Efficient Adaptation| D[Low Memory, Multiple Tasks]
+> ```
 
 # Full Fine-Tuning vs Parameter-Efficient Fine-Tuning
 

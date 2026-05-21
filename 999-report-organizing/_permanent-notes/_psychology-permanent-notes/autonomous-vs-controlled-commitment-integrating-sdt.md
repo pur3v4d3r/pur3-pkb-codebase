@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -71,8 +71,44 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Autonomous vs Controlled Commitment Overview**
+> *Compare the sources of motivation for each type.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation] --> B(Autonomous)
+>   C[External Pressures] --> D(Controlled)
+> ```
+
+
+> [!abstract] **Diagram 2 — Commitment Quality Mechanism**
+> *Trace how commitment types affect psychological needs satisfaction.*
+>
+> ```mermaid
+> flowchart LR
+>   A(Basic Needs) --> B(Autonomous)
+>   B --> C(Satisfaction)
+>   D(Controlled) --> E(Frustration)
+> ```
+
+
+> [!abstract] **Diagram 3 — Commitment Types in Learning Environments**
+> *Identify factors that promote autonomous vs controlled commitments.*
+>
+> ```mermaid
+> graph TD
+>   A[Meaningful Tasks] --> B(Autonomous)
+>   C[External Validation] --> D(Controlled)
+> ```
 
 # Autonomous vs Controlled Commitment
 

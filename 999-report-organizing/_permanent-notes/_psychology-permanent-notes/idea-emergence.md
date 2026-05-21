@@ -18,7 +18,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - idea-emergence-synthetic-seed-2026-04-25
@@ -67,8 +67,91 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Idea Emergence Process Flow**
+> *Follow the stages from atomicity to novel insights.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomicity]
+>   B[Linking]
+>   C[Density]
+>   D[Juxtapositions]
+>   E[Novel Insights]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Idea Emergence Taxonomy**
+> *Navigate the hierarchical relationship between concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomicity]
+>   B[Linking]
+>   C[Density]
+>   D[Juxtapositions]
+>   E[Novel Insights]
+>   F[Idea Emergence]
+>   G[Cognitive Architecture]
+>   H[Zettelkasten Method]
+>   I[PKM]
+>   J[Creative Problem-Solving]
+>   A -->|Enables|
+>   B
+>   B -->|Facilitates|
+>   C
+>   C -->|Increases|
+>   D
+>   D -->|Leads to|
+>   E
+>   F -->|Part of|
+>   G
+>   H -->|Inspires|
+>   F
+>   I -->|Applies|
+>   F
+>   J -->|Uses|
+>   F
+> ```
+
+
+> [!abstract] **Diagram 3 — Idea Emergence Applications**
+> *Compare the applications in different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Creative Problem-Solving]
+>   C[Personal Knowledge Management]
+>   D[Idea Emergence Framework]
+>   E[Traditional Top-Down Instruction]
+>   F[Structured Methods]
+>   G[Passive Note Collection]
+>   A -->|Contrasts with|
+>   E
+>   B -->|Contrasts with|
+>   F
+>   C -->|Transforms into|
+>   G
+>   D -->|Applies to|
+>   A
+>   D -->|Provides Framework for|
+>   B
+>   D -->|Enhances|
+>   C
+> ```
 
 # Idea Emergence
 

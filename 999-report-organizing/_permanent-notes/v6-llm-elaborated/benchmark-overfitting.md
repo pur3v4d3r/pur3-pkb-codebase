@@ -19,7 +19,7 @@ subdomains:
   - meta-learning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - benchmark-overfitting-synthetic-seed-2026-05-20
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Benchmark Overfitting Process Flow**
+> *Follow the flow from training to benchmarking, noting where overfitting occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Model Training]
+>   B --> C[Benchmark Questions]
+>   C --> D[Benchmark Scores]
+>   E[Generalization Ability] --> F[Genuine Capability]
+>   C -->|Contamination| G[High Benchmark Scores]
+>   G --> H[Fake Performance Indicators]
+> ```
+
+
+> [!abstract] **Diagram 2 — Benchmark Overfitting vs General Overfitting**
+> *Compare the two types of overfitting and their impact on model evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[General Overfitting] -->|Performance Drop| B(Unseen Data)
+>   C[Benchmark Overfitting] -->|High Scores| D(Benchmark Questions)
+>   E[Model Evaluation]
+>   F[Genuine Capability]
+>   G[Fake Performance Indicators]
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface Processing vs Deep Understanding**
+> *Identify the difference between surface processing and deep understanding in model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing] -->|Memorization| B(Benchmark Questions)
+>   C[Deep Understanding] -->|Generalization| D(New Situations)
+>   E[Genuine Capability]
+>   F[Fake Performance Indicators]
+> ```
 
 # Benchmark Overfitting
 

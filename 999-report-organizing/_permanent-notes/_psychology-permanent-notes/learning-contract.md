@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -70,8 +70,38 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Learning Contract Process Flow**
+> *Follow the steps from goal setting to evaluation criteria establishment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Goals] --> B[Discuss with Facilitator]
+>   B --> C[Develop Strategies]
+>   C --> D[Identify Resources]
+>   D --> E[Evidence of Accomplishment]
+>   E --> F[Evaluation Criteria]
+> ```
+
+
+> [!abstract] **Diagram 2 — Learning Contract Components Hierarchy**
+> *See the hierarchical relationship between different components of a Learning Contract.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Goals] --> B[Strategies]
+>   A --> C[Evaluation Criteria]
+>   B --> D[Resources]
+>   C --> E[Evidence of Accomplishment]
+> ```
 
 # Learning Contract
 

@@ -2,7 +2,7 @@
 title: Behavior Change Techniques
 aliases:
   - Behavior Change Techniques
-  - "Behavior-Change Techniques"
+  - Behavior-Change Techniques
   - BCTs
   - BCT taxonomy
 type: permanent-note
@@ -19,7 +19,7 @@ subdomains:
   - intervention-design
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - behavior-change-techniques-synthetic-seed-2026-04-25
@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — BCT Taxonomy Overview**
+> *Identify the major categories and techniques within BCTs.*
+>
+> ```mermaid
+> graph TD
+>   A[Behavior Change Techniques]
+>   A --> B[Taxonomy v1 (93 items)]
+>   A --> C[Taxonomy v1.0 (+12 items)]
+>   B --> D[Goal Setting]
+>   B --> E[Action Planning]
+>   C --> F[Social Comparison]
+>   C --> G[Tailored Feedback]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Self-Monitoring**
+> *Understand how self-monitoring leads to behavior change.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A[Track Behavior]
+>   A --> B[Awareness Increase]
+>   B --> C[Identify Patterns & Triggers]
+>   C --> D[Informed Decisions]
+>   D --> E[Behavior Change]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Application**
+> *See how goal setting and action planning are used in instructional design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student
+>   participant Course
+>   Course ->> Student: Set Specific Goals for Each Module
+>   Student -->> Course: Acknowledge Goals
+>   Course ->> Student: Provide Action Plans to Achieve Goals
+>   Student -->> Course: Follow Action Plans
+> ```
 
 # Behavior Change Techniques
 

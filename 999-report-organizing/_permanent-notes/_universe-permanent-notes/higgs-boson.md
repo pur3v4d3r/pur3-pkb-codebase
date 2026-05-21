@@ -17,7 +17,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - higgs-boson-synthetic-seed-2026-05-14
@@ -64,8 +64,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Higgs Mechanism Overview**
+> *Follow the flow from Higgs field to mass generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Electroweak Symmetry]
+>   B[Higgs Field VEV]
+>   C[W/Z Bosons Mass]
+>   D[Fermions Mass]
+>   A --> B
+>   B -->|Yukawa Couplings| C
+>   B -->|Yukawa Couplings| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Higgs Boson Discovery Process**
+> *Trace the steps from theory to experimental confirmation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P[Peter Higgs]
+>   participant F[François Englert]
+>   participant L[LHC]
+>   participant A[ATLAS]
+>   participant C[CMS]
+>   P->>F: Propose Theory
+>   F-->>L: Experiment Setup
+>   L->>A: Data Collection
+>   L->>C: Data Analysis
+>   A+C-->>P+F: Discovery Confirmation
+> ```
+
+
+> [!abstract] **Diagram 3 — Higgs Boson vs Other Particles**
+> *Compare the role of Higgs Boson with other particles in mass generation.*
+>
+> ```mermaid
+> classDiagram
+>   class Particle{
+>     +mass: float
+>     +charge: int
+>   }
+>   class GaugeBoson <|-- WZbosons : Mass from Higgs
+>   class Fermion <|-- QuarksLeptons : Mass from Higgs
+>   class ScalarParticle <|-- HiggsBoson : Mechanism for mass generation
+> ```
 
 # Higgs Boson
 

@@ -18,7 +18,7 @@ subdomains:
   - decision-making
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - open-mindedness-synthetic-seed-2026-05-12
@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Open Mindedness Process Flow**
+> *Follow the steps from initial belief to evidence evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Belief] --> B[Evaluate Evidence]
+>   B --> C[Revised Belief or Confirmation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Open Mindedness vs Intellectual Humility**
+> *Compare the focus of Open Mindedness and Intellectual Humility.*
+>
+> ```mermaid
+> graph TD
+>   A[Open Mindedness] -->|Focus on| B[Evaluating New Evidence]
+>   C[Intellectual Humility] -->|Focus on| D[Acknowledging Limitations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Open Mindedness**
+> *Identify the contexts where Open Mindedness is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Encourages| B[Critical Thinking]
+>   C[Research Methodology] -->|Ensures| D[Integrity and Objectivity]
+>   E[Personal Development] -->|Enhances| F[Growth]
+> ```
 
 # Open Mindedness
 

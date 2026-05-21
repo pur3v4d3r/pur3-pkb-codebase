@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Forethought Process Flow**
+> *Follow the sequence from goal setting to task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting] --> B[Strategy Selection]
+>   B --> C[Effort Allocation Planning]
+>   C --> D[Task Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Forethought vs Performance Phases**
+> *Compare the preparatory and performance phases of learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Preparatory Phase]
+>   B[Performance Phase]
+>   A -->|Includes Goal Setting, Strategy Selection| C[Front-Loading Activities]
+>   B -->|Involves Monitoring and Control| D[Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Forethought Mechanism Components**
+> *Identify the key components involved in forethought.*
+>
+> ```mermaid
+> graph TD
+>   A[Motivational Beliefs] --> B[Goal Setting]
+>   C[Strategy Selection] --> D[Effort Allocation Planning]
+>   E[Environmental Arrangement]
+> ```
 
 # Forethought as Regulatory Front-Loading
 

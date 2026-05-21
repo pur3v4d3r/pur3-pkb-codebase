@@ -1,15 +1,14 @@
 ---
-title: "Vision-Language Prompting"
+title: Vision-Language Prompting
 aliases:
-  - "Vision-Language Prompting"
-  - "VL prompting"
-  - "visual prompting"
-  - "multimodal prompting"
-  - "image+text prompting"
+  - Vision-Language Prompting
+  - VL prompting
+  - visual prompting
+  - multimodal prompting
+  - image+text prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,91 @@ subdomains:
   - multimodal-llms
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "vision-language-prompting-synthetic-seed-2026-05-20"
+  - vision-language-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Multimodal AI Techniques"
-
+parent-concept: Multimodal AI Techniques
 related:
-  - "[[Visual Chain-of-Thought Prompting]]"
-  - "[[Image Captioning Prompts]]"
-  - "[[Multimodal Few-Shot Learning]]"
+  - '[[Visual Chain-of-Thought Prompting]]'
+  - '[[Image Captioning Prompts]]'
+  - '[[Multimodal Few-Shot Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Visual Chain-of-Thought Prompting]]"
+  - '[[Visual Chain-of-Thought Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Image Captioning Prompts]]"
-  - "[[Multimodal Few-Shot Learning]]"
+  - '[[Image Captioning Prompts]]'
+  - '[[Multimodal Few-Shot Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Vision-Language Prompting Process Flow**
+> *Follow the flow from image input to final response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Image Input] --> B[Textual Instructions]
+>   B --> C[Integration of Modalities]
+>   C --> D[Cognitive Processing]
+>   D --> E[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Vision-Language Prompting Applications Overview**
+> *Identify the applications and their corresponding tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Image Captioning] -->|Descriptive Captions| B[Few-Shot Learning]
+>   B -->|Contextual Examples| C[Document Understanding]
+>   C -->|Comprehensive Interpretation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Text-Only vs Vision-Language Prompting Comparison**
+> *Compare the input modalities and cognitive processing required.*
+>
+> ```mermaid
+> graph TD
+>   A[Text-Only Prompting] -->|Linguistic Structures Only| B[Cognitive Processing]
+>   C[Vision-Language Prompting] -->|Visual & Textual Integration| D[Cognitive Processing Enhanced]
+> ```
 
 # Vision-Language Prompting
 

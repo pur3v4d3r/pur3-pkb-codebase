@@ -19,7 +19,7 @@ subdomains:
   - robustness
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - label-sensitivity-in-icl-synthetic-seed-2026-05-20
@@ -66,8 +66,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Label Sensitivity Mechanism**
+> *Follow the flow from input to output, noting how format and style influence model performance despite label corruption.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Format]
+>   B[Output Style]
+>   C[Corrupted Labels]
+>   D[Model Performance]
+>   A -->|Learned From Examples| D
+>   B -->|Generalized Effectively| D
+>   C -.-> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Dependency of Label Sensitivity**
+> *Compare the performance impact on different tasks under label corruption, noting which tasks are robust and which suffer degradation.*
+>
+> ```mermaid
+> graph TD
+>   A[Binary Sentiment]
+>   B[Multiclass Classification]
+>   C[NLP Translation]
+>   D[Performance Under Corruption]
+>   A -->|Significant Degradation| D
+>   B -->|Moderate Impact| D
+>   C -->|Robust Performance| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Considerations**
+> *Identify the balance between teaching format and ensuring label accuracy in instructional design for different tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Format Learning]
+>   B[Label Accuracy]
+>   C[Tasks Requiring Precision]
+>   D[General Tasks]
+>   A -->|Emphasize Format| D
+>   B -.-> C
+>   A -->|Balanced Approach| C
+> ```
 
 # Label Sensitivity in ICL
 

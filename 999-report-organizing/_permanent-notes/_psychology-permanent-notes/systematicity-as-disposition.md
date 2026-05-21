@@ -18,7 +18,7 @@ subdomains:
   - methodology
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - systematicity-as-disposition-synthetic-seed-2026-05-12
@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Systematic Approach vs Intuition-Based Reasoning**
+> *Compare the structured examination of alternatives with immediate impressions.*
+>
+> ```mermaid
+> graph TD
+>   A[Systematicity As Disposition] --> B[Structured Examination]
+>   C[Intuition-Based Reasoning] --> D[Gut Feelings]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Modes**
+> *Identify the differences between deliberate and immediate responses in problem-solving.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Deliberate Consideration]
+>   C[Reactive Thinking] --> D[Immediate Responses]
+> ```
+
+
+> [!abstract] **Diagram 3 — Systematicity vs Procedural Fetishism**
+> *Understand the focus on substance over rigid adherence to process.*
+>
+> ```mermaid
+> graph TD
+>   A[Systematicity As Disposition] --> B[Substance-Focused Reasoning]
+>   C[Procedural Fetishism] --> D[Process-Oriented]
+> ```
 
 # Systematicity As Disposition
 

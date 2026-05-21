@@ -1,14 +1,13 @@
 ---
-title: "Tokenization Artifacts"
+title: Tokenization Artifacts
 aliases:
-  - "Tokenization Artifacts"
-  - "tokenisation artifacts"
-  - "tokenizer quirks"
-  - "tokenization side effects"
+  - Tokenization Artifacts
+  - tokenisation artifacts
+  - tokenizer quirks
+  - tokenization side effects
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,123 @@ subdomains:
   - llm-reasoning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tokenization-artifacts-synthetic-seed-2026-05-20"
+  - tokenization-artifacts-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "NLP Tokenization"
-
+parent-concept: NLP Tokenization
 related:
-  - "[[Byte-Pair Encoding]]"
-  - "[[Subword Tokenization]]"
+  - '[[Byte-Pair Encoding]]'
+  - '[[Subword Tokenization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Byte-Pair Encoding]]"
+  - '[[Byte-Pair Encoding]]'
 broader:
-  - "[[Subword Tokenization]]"
+  - '[[Subword Tokenization]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Tokenization Artifacts Overview**
+> *Identify the sources and impacts of tokenization artifacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text]
+>   B(Tokenization)
+>   C[Tokenized Input]
+>   D(Model Processing)
+>   E[Output]
+>   F[Tokenization Artifacts]
+>   G[Reasoning Failures]
+>   H[Model Performance Issues]
+>   A -->|Text Representation| B
+>   B -->|Granularity and Structure Changes| C
+>   C -->|Input for Model| D
+>   D --> E
+>   C -->|Systematic Errors| F
+>   E -->|Performance Impact| H
+>   E -->|Correct Understanding| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Tokenization Methods Comparison**
+> *Compare different tokenization methods and their artifacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Byte-Pair Encoding]
+>   B[Whitespace-Based]
+>   C[Character-Aware]
+>   D[Systematic Errors]
+>   E[Fine-Grained Analysis]
+>   F[Model Efficiency]
+>   G[Performance Impact]
+>   A -->|Granular Tokens| D
+>   B -->|Word Boundaries| D
+>   C -->|Detailed Representation| E
+>   A -->|Efficient Training| F
+>   B -->|Simple Processing| F
+>   C -->|Complex Computation| F
+>   D --> G
+>   E --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Tokenization Artifact Mitigation Strategies**
+> *Explore strategies to mitigate tokenization artifacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Hybrid Tokenization]
+>   B[Character-Aware Models]
+>   C[Empirical Studies]
+>   D[Mitigate Artifacts]
+>   E[Better Performance]
+>   F[Efficiency Trade-offs]
+>   G[Research Insights]
+>   A -->|Balanced Representation| D
+>   B -->|Detailed Input| D
+>   C -->|Comparative Analysis| G
+>   D --> E
+>   A -->|Complexity Increase| F
+>   B -->|Resource Intensive| F
+> ```
 
 # Tokenization Artifacts
 

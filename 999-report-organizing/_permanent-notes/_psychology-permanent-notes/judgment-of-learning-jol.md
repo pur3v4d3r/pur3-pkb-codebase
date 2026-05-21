@@ -18,7 +18,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - judgment-of-learning-jol-synthetic-seed-2026-04-25
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — JOL Process Flowchart**
+> *Follow the sequence from study to delayed JOL.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Study] --> B[Immediate JOL]
+>   B --> C[Overconfidence]
+>   A --> D[Delay]
+>   D --> E[Retrieval]
+>   E --> F[Accurate JOL]
+> ```
+
+
+> [!abstract] **Diagram 2 — JOL Factors Influence Diagram**
+> *Identify factors affecting immediate and delayed JOL accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceptual Fluency Cues] --> B[Immediate JOL]
+>   D[Retroactive Interference] --> B
+>   E[Retrieval Cues] --> F[Delayed JOL]
+>   G[Lack of Retrieval Cues] --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — JOL Application Areas Diagram**
+> *See how JOL applies to different learning contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[JOL Assessments]
+>   C[Test Preparation] --> D[Predict Performance]
+>   E[Study Habits] --> F[Retrieval Practice]
+> ```
 
 # Judgment of Learning JOL
 

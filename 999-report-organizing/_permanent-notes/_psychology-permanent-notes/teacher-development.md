@@ -18,7 +18,7 @@ subdomains:
   - professional-development
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - teacher-development-synthetic-seed-2026-05-01
@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Teacher Development Process Flow**
+> *Follow the stages from initial learning to cumulative improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning] --> B[Daily Practice]
+>   B --> C[Reflection and Adjustment]
+>   C --> D[Cumulative Improvement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Teacher Development Mechanisms Hierarchy**
+> *Identify the different mechanisms that contribute to teacher development.*
+>
+> ```mermaid
+> graph TD
+>   A[Content-Specific Learning]
+>   B[Mentoring Programs]
+>   C[Communities of Practice]
+>   D[Reflective Thinking]
+>   A -->|Embedded in Daily Practice| E[Cumulative Improvement]
+>   B -->|Guidance and Support| E
+>   C -->|Collaborative Learning| E
+>   D -->|Self-Assessment| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Teacher Development Components**
+> *Understand the key components that make up teacher development.*
+>
+> ```mermaid
+> graph TD
+>   A[Pedagogical Knowledge] --> B[Instructional Skills]
+>   C[Professional Identity] --> D[Adaptive Expertise]
+>   E[Content-Specific Learning] --> F[Cumulative Improvement]
+>   G[Mentoring Programs] --> H[Fostering Professional Growth]
+> ```
 
 # Teacher Development
 

@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - entity-theory-of-intelligence-synthetic-seed-2026-04-24
@@ -64,8 +64,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Entity Theory Process Flow**
+> *Follow the flow from belief to behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief in Fixed Intelligence] --> B[Avoid Challenging Tasks]
+>   B --> C[Lack of Engagement and Practice]
+>   C --> D[Lower Academic Achievement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Entity vs Incremental Theory Comparison**
+> *Compare Entity (fixed) with Incremental (growth) theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Entity Theory]
+>   B[Incremental Theory]
+>   A -->|Fixed Intelligence| C[Avoid Challenges]
+>   B -->|Growth Mindset| D[Embrace Challenges]
+> ```
 
 # Entity Theory of Intelligence
 

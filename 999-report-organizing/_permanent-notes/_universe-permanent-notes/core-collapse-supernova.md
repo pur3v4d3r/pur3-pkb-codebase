@@ -18,7 +18,7 @@ subdomains:
   - nuclear-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - core-collapse-supernova-synthetic-seed-2026-05-14
@@ -67,8 +67,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Core Collapse Supernova Process Flow**
+> *Follow the sequence from core collapse to explosion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star Exhausts Fuel] --> B[Iron Core Forms]
+>   B --> C[Collapse Under Gravity]
+>   C --> D[Neutrino Emission]
+>   D --> E[Bounce Shock Wave]
+>   E --> F[Supernova Explosion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Core Collapse Supernova Remnants**
+> *Identify the possible remnants after a supernova explosion.*
+>
+> ```mermaid
+> graph TD
+>   A[Neutron Star] --> B[Remnant]
+>   C[Black Hole] --> D[Remnant]
+> ```
+
+
+> [!abstract] **Diagram 3 — Core Collapse vs Type Ia Supernovae**
+> *Compare the key differences between core collapse and type Ia supernovae.*
+>
+> ```mermaid
+> classDiagram
+>   class CoreCollapseSupernova{
+>     +IronCoreCollapse()
+>     +Explosion()
+>     -Remnants(NeutronStar|BlackHole)
+>   }
+>   class TypeIA{
+>     +WhiteDwarfAccretion()
+>     +ThermonuclearBurnout()
+>     -Remnants(None)
+>   }
+> ```
 
 # Core Collapse Supernova
 

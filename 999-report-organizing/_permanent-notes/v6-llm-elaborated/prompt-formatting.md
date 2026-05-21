@@ -1,13 +1,12 @@
 ---
-title: "Prompt Formatting"
+title: Prompt Formatting
 aliases:
-  - "Prompt Formatting"
-  - "prompt structure"
-  - "prompt layout"
+  - Prompt Formatting
+  - prompt structure
+  - prompt layout
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,92 @@ subdomains:
   - llm-inference
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-formatting-synthetic-seed-2026-05-20"
+  - prompt-formatting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Delimiters and Separators]]"
-  - "[[Output Format Specification]]"
-  - "[[Prompt Clarity Principles]]"
+  - '[[Delimiters and Separators]]'
+  - '[[Output Format Specification]]'
+  - '[[Prompt Clarity Principles]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Delimiters and Separators]]"
-  - "[[Output Format Specification]]"
+  - '[[Delimiters and Separators]]'
+  - '[[Output Format Specification]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Prompt Clarity Principles]]"
+  - '[[Prompt Clarity Principles]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Structured vs Unstructured Prompts**
+> *Compare the clarity of structured and unstructured prompts.*
+>
+> ```mermaid
+> graph TD
+> A[Unstructured Prompt]
+> B[Structured Prompt]
+> A -->|Ambiguity| C[Confusion]
+> B -->|Clarity| D[Cohesion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Formatting Components**
+> *Identify key components used in prompt formatting.*
+>
+> ```mermaid
+> graph TD
+> A[Delimiters] --> B[Markdown]
+> B --> C[Labels]
+> C --> D[Whitespace]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Design Process Flow**
+> *Follow the steps in designing a structured prompt.*
+>
+> ```mermaid
+> flowchart LR
+> A[Define Task] --> B[Choose Delimiters]
+> B --> C[Add Labels]
+> C --> D[Test Across Models]
+> ```
 
 # Prompt Formatting
 

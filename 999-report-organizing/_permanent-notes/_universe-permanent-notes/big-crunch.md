@@ -16,7 +16,7 @@ subdomains:
   - theoretical-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - big-crunch-synthetic-seed-2026-05-14
@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Big Crunch Process Flow**
+> *Follow the sequence from expansion to collapse.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expansion] --> B[Dark Energy Dominance]
+>   B --> C[Matter Overpowering Dark Energy]
+>   C --> D[Collapse into Big Crunch]
+> ```
+
+
+> [!abstract] **Diagram 2 — Big Crunch vs Other End-States**
+> *Compare the Big Crunch with heat death and big rip scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Big Crunch] -->|Collapse into dense state| E[Hot Dense State]
+>   B[Heat Death] -->|Uniform temperature| F[No Energy Gradients]
+>   C[Big Rip] -->|Dark energy tears apart structures| G[Torn Apart Universe]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Trace the contrasting approaches to understanding dark energy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TopDown as TD
+>   participant BottomUp as BU
+>   alt GeneralRelativity
+>     TD->>BU: Use overarching models
+>     BU-->>TD: Infer properties from data
+>   end
+> ```
 
 # Big Crunch
 

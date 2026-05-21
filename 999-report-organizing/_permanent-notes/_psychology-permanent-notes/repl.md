@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-practitioners-field-guide-2026-04-19
@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — REPL Process Flow**
+> *Follow the loop from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Read Input] --> B[Evaluate]
+>   B --> C[Print Output]
+>   C --> D[Loop Back]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — REPL Interactive Learning Cycle**
+> *Trace the cycle from experimentation to reflection.*
+>
+> ```mermaid
+> flowchart LR
+>   E[Experiment] --> F[Test Code]
+>   F --> G[Feedback]
+>   G --> H[Reflect]
+>   H --> I[Cycle Back]
+>   I --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — REPL Application Areas**
+> *Identify the different use cases for REPL.*
+>
+> ```mermaid
+> graph TD
+>   J[Instructional Design] --> K[Test Concepts]
+>   L[Debugging] --> M[Isolate Issues]
+>   N[Exploration] --> O[Rapid Prototyping]
+> ```
 
 # REPL
 

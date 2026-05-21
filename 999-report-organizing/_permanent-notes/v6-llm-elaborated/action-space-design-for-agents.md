@@ -1,15 +1,14 @@
 ---
-title: "Action Space Design for Agents"
+title: Action Space Design for Agents
 aliases:
-  - "Action Space Design for Agents"
-  - "agent action space"
-  - "tool design for agents"
-  - "capability specification for agents"
-  - "LLM tool schema design"
+  - Action Space Design for Agents
+  - agent action space
+  - tool design for agents
+  - capability specification for agents
+  - LLM tool schema design
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,104 @@ subdomains:
   - ai-safety
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "action-space-design-for-agents-synthetic-seed-2026-05-21"
+  - action-space-design-for-agents-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM-Agent Design"
-
+parent-concept: LLM-Agent Design
 related:
-  - "[[API Calling Agents]]"
-  - "[[Task Planning with LLMs]]"
+  - '[[API Calling Agents]]'
+  - '[[Task Planning with LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[API Calling Agents]]"
-  - "[[Task Planning with LLMs]]"
+  - '[[API Calling Agents]]'
+  - '[[Task Planning with LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Action Space Design Components**
+> *Identify the key components of action space design.*
+>
+> ```mermaid
+> graph TD
+>   A[Tool Granularity]
+>   B(Parameter Types)
+>   C(Validation Mechanisms)
+>   D(Access Controls)
+>   A -->|defines level of detail| E(Action Space Design)
+>   B -->|specifies inputs| E
+>   C -->|ensures criteria met| E
+>   D -->|limits availability| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrow vs Broad Action Spaces**
+> *Compare the implications of narrow and broad action spaces.*
+>
+> ```mermaid
+> graph TD
+>   A[Narrow]
+>   B[Broad]
+>   A -->|limits impact, reduces risk| C[Safe but restrictive]
+>   B -->|enables complex operations| D[Risky but flexible]
+> ```
+
+
+> [!abstract] **Diagram 3 — Action Space Design Process Flow**
+> *Follow the steps in designing an action space.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Goals]
+>   B[Determine Granularity]
+>   C[Specify Parameters]
+>   D[Implement Validation]
+>   E[Set Access Controls]
+>   F[Test and Refine]
+>   A -->|identify tasks| B
+>   B -->|define actions| C
+>   C -->|validate inputs| D
+>   D -->|control access| E
+>   E -->|test outcomes| F
+> ```
 
 # Action Space Design for Agents
 

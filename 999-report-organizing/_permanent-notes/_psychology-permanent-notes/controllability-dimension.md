@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -70,8 +70,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Controllability Dimension Overview**
+> *Identify controllable and uncontrollable causes.*
+>
+> ```mermaid
+> graph TD
+>   A[Effort] -->|Controllable| C[Guilty]
+>   B[Ability] -->|Uncontrollable| D[Pity]
+>   C --> E[Take Corrective Action]
+>   D --> F[Feel Less Motivated]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional Responses Based on Controllability**
+> *Understand emotional reactions to controllable vs uncontrollable causes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Controllable Cause] --> B[Guilt]
+>   C[Uncontrollable Cause] --> D[Pity or Shame]
+>   B --> E[Take Corrective Action]
+>   D --> F[Feel Less Motivated]
+> ```
+
+
+> [!abstract] **Diagram 3 — Attribution in Performance Reviews**
+> *See how controllability influences feedback and motivation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Manager as M
+>   participant Employee as E
+>   M->>E: Evaluate Effort (Controllable)
+>   E-->>M: Show Improvement
+>   M->>E: Evaluate Innate Ability (Uncontrollable)
+>   E-->>M: No Change
+> ```
 
 # Controllability Dimension
 

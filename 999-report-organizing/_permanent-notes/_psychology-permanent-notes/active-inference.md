@@ -18,7 +18,7 @@ subdomains:
   - predictive-processing
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - active-inference-synthetic-seed-2026-04-26
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Active Inference Process Flow**
+> *Follow the flow from sensory input to action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Perception]
+>   B --> C[Prediction Errors]
+>   C --> D[Action]
+>   D --> E[Sensory Input Match]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hierarchical Prediction Error Resolution**
+> *Trace how prediction errors propagate and are resolved across levels.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Goals] --> B[Motor Commands]
+>   B --> C[Proprioceptive Predictions]
+>   C --> D[Sensory-Motor Adjustments]
+> ```
+
+
+> [!abstract] **Diagram 3 — Perception-Action Cycle**
+> *Observe the cycle between perception and action updates.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Perception as P
+>   participant Action as A
+>   loop Continuous Process
+>     P->>A: Prediction Errors
+>     A->>P: Motor Commands
+>     P-->>P: Update Model
+>     A-->>A: Adjust Environment
+>   end
+> ```
 
 # Active Inference
 

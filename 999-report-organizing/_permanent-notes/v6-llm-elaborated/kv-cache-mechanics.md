@@ -19,7 +19,7 @@ subdomains:
   - systems
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - kv-cache-mechanics-synthetic-seed-2026-05-20
@@ -66,8 +66,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — KV Cache Process Flow**
+> *Follow the flow from token processing to caching and reuse.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Token Processing] --> B[Compute Key-Value]
+>   B --> C[Caching]
+>   D[Next Token] --> E[Retrieve Cached KV]
+>   E --> F[Reuse for Comparison]
+> ```
+
+
+> [!abstract] **Diagram 2 — KV Cache Efficiency Gain**
+> *Compare the computational cost with and without caching.*
+>
+> ```mermaid
+> graph TD
+>   A[Without Caching] --> B[O(N^2)]
+>   C[With Caching] --> D[O(N)]
+> ```
 
 # KV Cache Mechanics
 

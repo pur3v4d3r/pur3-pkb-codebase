@@ -17,7 +17,7 @@ subdomains:
   - productivity
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - note-taking-systems-comparison-synthetic-seed-2026-04-25
@@ -73,8 +73,84 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Zettelkasten vs PARA Mechanisms**
+> *Compare the mechanisms of Zettelkasten and PARA in PKM.*
+>
+> ```mermaid
+> graph TD
+>   A[Capture]
+>   B[Linking]
+>   C[Networked Structure]
+>   D[Hierarchical File]
+>   E[Clear Instructions]
+>   F[Task Management]
+>   G[Intrinsic Cognitive Processes]
+>   H[Extrinsic Task Management]
+>   A -->|Zettelkasten| B
+>   B -->|Non-Hierarchical| C
+>   C -->|Serendipitous Connections| G
+>   A -->|PARA| D
+>   D -->|Hierarchical| E
+>   E -->|Clear Steps| F
+>   F -->|Task Management| H
+> ```
+
+
+> [!abstract] **Diagram 2 — PKM Frameworks Comparison**
+> *Compare the focus areas of different PKM frameworks.*
+>
+> ```mermaid
+> graph TD
+>   A[Capture]
+>   B[Organization]
+>   C[Distillation]
+>   D[Retrieval]
+>   E[Creative Output]
+>   F[Zettelkasten]
+>   G[PARA]
+>   H[Building a Second Brain]
+>   I[GTD]
+>   J[Evergreen Notes]
+>   K[Digital Gardens]
+>   F -->|Capture| A
+>   F -->|Organization| B
+>   F -->|Distillation| C
+>   F -->|Retrieval| D
+>   F -->|Creative Output| E
+>   G -->|Capture| A
+>   G -->|Organization| B
+>   G -->|Distillation| C
+>   G -->|Retrieval| D
+>   G -->|Creative Output| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Zettelkasten vs PARA Applications**
+> *Compare applications of Zettelkasten and PARA in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Project Management]
+>   C[Academic Research]
+>   D[Public Publishing]
+>   E[Zettelkasten]
+>   F[PARA]
+>   G[Digital Gardens]
+>   E -->|Flexible Curriculum| A
+>   E -->|Enhanced Creativity| C
+>   F -->|Task Roadmap| B
+>   G -->|Continuous Updates| D
+> ```
 
 # Note Taking Systems Comparison
 

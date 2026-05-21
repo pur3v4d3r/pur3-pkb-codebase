@@ -17,7 +17,7 @@ subdomains:
   - nuclear-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - neutron-star-synthetic-seed-2026-05-14
@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Neutron Star Structure Overview**
+> *Follow the layers from outer crust to inner core.*
+>
+> ```mermaid
+> graph TD
+>   A[Outer Crust]
+>   B[Liquid Core]
+>   C[Inner Core]
+>   A -->|Nuclei & Electrons| B
+>   B -->|Neutrons, Hyperons, Quark Matter| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Formation Process of Neutron Stars**
+> *Trace the stages from supernova to neutron star formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Massive Star]
+>   B[Supernova Explosion]
+>   C[Collapse]
+>   D[Neutron Degeneracy Pressure]
+>   E[Neutron Star Formation]
+>   A -->|Core Collapse| B
+>   B -->|Gravitational Collapse| C
+>   C -->|Support by Neutron Degeneracy| D
+>   D -->|Stable Configuration| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Neutron Star vs Black Hole Comparison**
+> *Compare the key features of neutron stars and black holes.*
+>
+> ```mermaid
+> classDiagram
+>   class NeutronStar {
+>     +Surface
+>     +Electromagnetic Emissions
+>     -No Event Horizon
+>   }
+>   class BlackHole {
+>     +Event Horizon
+>     -No Surface
+>     -No Electromagnetic Emissions from Inside
+>   }
+>   NeutronStar -->|Similarity| BlackHole : Both Extremely Dense
+>   NeutronStar ..> BlackHole : Key Distinction
+> ```
 
 # Neutron Star
 

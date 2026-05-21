@@ -18,7 +18,7 @@ subdomains:
   - critical-thinking
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - informal-logic-synthetic-seed-2026-05-01
@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Informal Logic Core Components**
+> *Identify the key elements of Informal Logic.*
+>
+> ```mermaid
+> graph TD
+>   A[Logical Form] --> B[Dialectical Context]
+>   A --> C[Epistemic Warrant]
+>   B --> D[Argument Diagrams]
+>   C --> E[Dialogue Rules]
+> ```
+
+
+> [!abstract] **Diagram 2 — Informal Logic Applications**
+> *See the diverse applications of Informal Logic.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhance Critical Thinking]
+>   C[Scientific Debate] --> D[Evaluate Claims]
+>   E[Legal Argumentation] --> F[Persuasive Reasoning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Informal Logic vs Formal Deduction**
+> *Compare Informal Logic with formal deduction methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Formal Deduction] --> B[Deductive Methods]
+>   C[Informal Logic] --> D[Natural-Language Discourse]
+>   E[Argument Diagrams] --> F[Dialectical Tools]
+> ```
 
 # Informal Logic
 

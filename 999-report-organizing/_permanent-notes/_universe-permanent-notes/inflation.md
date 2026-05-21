@@ -19,7 +19,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - inflation-synthetic-seed-2026-05-14
@@ -70,8 +70,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Inflation Epoch Overview**
+> *Follow the timeline from quantum scale to observable universe.*
+>
+> ```mermaid
+> graph TD
+>   A[Quantum Scale]
+>   B(Inflation)
+>   C[Observable Universe]
+>   A -->|Rapid Expansion| B
+>   B -->|End of Inflation| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Inflation Mechanism Flow**
+> *Trace the flow from inflaton field to primordial perturbations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inflaton Field]
+>   B[Potential Energy]
+>   C[Rapid Expansion]
+>   D[Quantum Fluctuations]
+>   E[Primordial Perturbations]
+>   F[CMB Imprints]
+>   A -->|Potential Energy| B
+>   B -->|Rapid Expansion| C
+>   C -->|Stretches Quantum Fluctuations| D
+>   D -->|To Cosmic Scales| E
+>   E -->|Imprint on CMB| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Inflation's Role in Structure Formation**
+> *See how primordial perturbations evolve into cosmic structures.*
+>
+> ```mermaid
+> graph TD
+>   A[Primordial Perturbations]
+>   B[Density Variations]
+>   C[Galaxies and Clusters]
+>   D[Large-Scale Structures]
+>   A -->|Evolve Under Gravity| B
+>   B -->|Form Galaxies| C
+>   C -->|Cluster into Large Structures| D
+> ```
 
 # Inflation
 

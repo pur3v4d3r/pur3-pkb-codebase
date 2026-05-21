@@ -18,7 +18,7 @@ subdomains:
   - thermodynamics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - conservation-of-energy-synthetic-seed-2026-05-14
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Energy Conservation Process Flow**
+> *Follow the flow from input to output, noting energy transformations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Energy] --> B[Energetic Processes]
+>   B --> C[Output Energy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Energy Conservation in Astrophysics**
+> *Trace the energy flow through stellar evolution and black hole dynamics.*
+>
+> ```mermaid
+> graph TD
+>   A[Star Formation] --> B[Solar Processes]
+>   B --> C[Supernova Explosion]
+>   C --> D[Matter Near Black Holes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conservation Laws Comparison**
+> *Compare Conservation of Energy with other laws like Momentum and Angular Momentum.*
+>
+> ```mermaid
+> classDiagram
+>   class Energy {
+>     +Conserves Total Energy Over Time
+>   }
+>   class Momentum {
+>     +Conserves Total Momentum Over Time
+>   }
+>   class AngularMomentum {
+>     +Conserves Total Angular Momentum Over Time
+>   }
+> ```
 
 # Conservation Of Energy
 

@@ -74,148 +74,6 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 **NOTE**: NO DRY RUN, and you dertermin the batch sizing for the seeds.
 ### Notes to create Seeds for:
-
-## Batch01
-```markdown
-# Fine-Tuning and Adaptation
-instruction-tuning
-supervised-fine-tuning
-rlhf-reinforcement-learning-from-human-feedback
-reward-model-training
-proximal-policy-optimization-for-llms
-direct-preference-optimization
-kahneman-tversky-optimization
-group-relative-policy-optimization
-rejection-sampling-fine-tuning
-parameter-efficient-fine-tuning
-lora-low-rank-adaptation
-qlora-quantized-lora
-adapter-layers
-full-fine-tuning-vs-peft
-catastrophic-forgetting-in-llms
-
-# Alignment and Safety
-constitutional-ai
-red-teaming-llms
-sycophancy-mitigation
-reward-hacking-in-rlhf
-overrefusal-problem
-harmlessness-helpfulness-tradeoff
-scalable-oversight
-debate-as-alignment-technique
-ai-safety-via-debate
-sleeper-agent-robustness
-instruction-hierarchy
-
-# Decoding and Sampling Strategies
-temperature-sampling
-top-k-sampling
-top-p-nucleus-sampling
-beam-search-decoding
-greedy-decoding
-contrastive-decoding
-typical-sampling
-min-p-sampling
-repetition-penalty
-classifier-free-guidance-for-text
-logit-bias-manipulation
-
-# Context and Memory Management
-context-window-extension
-long-context-prompting-strategies
-needle-in-a-haystack-evaluation
-positional-bias-in-context
-recency-bias-in-llms
-memory-augmented-llms
-episodic-memory-in-agents
-semantic-memory-in-agents
-working-memory-simulation-in-llms
-retrieval-as-external-memory
-
-# Multimodal Prompting
-vision-language-model-prompting
-image-captioning-prompts
-visual-chain-of-thought
-multimodal-few-shot-prompting
-audio-language-model-prompting
-document-understanding-prompting
-chart-and-table-prompting
-
-# Structured Output and Formatting
-json-mode-prompting
-structured-output-enforcement
-grammar-constrained-decoding
-schema-following-prompts
-markdown-output-prompting
-xml-structured-prompting
-regex-constrained-generation
-output-length-control
-
-# Evaluation Frameworks
-llm-evaluation-benchmarks
-model-graded-evaluation
-human-preference-evaluation
-evals-as-a-product
-g-eval-framework
-mt-bench-evaluation
-arena-elo-ranking
-promptbench-robustness
-faithfulness-vs-factuality
-self-evaluation-bias
-
-# Agents and Tool Use
-tool-augmented-language-models
-code-interpreter-use
-web-search-augmented-llms
-api-calling-agents
-computer-use-agents
-browser-automation-agents
-agent-memory-architecture
-plan-and-solve-prompting
-task-planning-with-llms
-action-space-design-for-agents
-
-# Prompt Injection and Security
-direct-prompt-injection
-indirect-prompt-injection
-jailbreak-taxonomy
-adversarial-suffix-attacks
-many-shot-jailbreaking
-system-prompt-extraction
-goal-hijacking
-prompt-leaking
-defense-via-input-sanitization
-llm-firewall-patterns
-
-# Theoretical Foundations
-large-language-model-scaling-laws
-emergent-abilities-in-llms
-grokking-phenomenon
-double-descent-in-neural-networks
-phase-transitions-in-llms
-mechanistic-interpretability
-superposition-hypothesis
-circuit-analysis-in-transformers
-activation-patching
-sparse-autoencoders-for-interpretability
-
-# Practical System Design
-prompt-versioning
-prompt-registry-patterns
-ab-testing-prompts
-latency-quality-tradeoff
-prompt-caching-strategies
-batch-inference-optimization
-cost-per-token-budgeting
-model-routing-strategies
-fallback-prompt-chains
-prompt-observability
-```
-
-
-
-
-
 ```markdown
 # Batch 2
 ## Batch02
@@ -338,6 +196,13 @@ embedding-model-selection
 retrieval-faithfulness
 knowledge-conflict-in-rag
 ```
+
+
+
+
+
+
+
 
 ## Batch03
 
@@ -649,14 +514,23 @@ python add_diagrams.py --limit 100
 pytest tests/test_add_diagrams.py -v
 ```
 
-python add_diagrams.py --limit 100 -v
+### _v6-llm-elaborated batch of 100 command:
+```bash
+cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated" --limit 100
 
+### _psychology-permanent-notes batch of 100 command:
+```bash
+cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes" --limit 100
+```
 
+### _universe-permanent-notes batch of 100 command:
+```bash
+cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_universe-permanent-notes" --limit 100
 
-100 -> Cognitive Psychology batch
-cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes" --limit 100 -v 2>&1
-
-
+### _machine-learning-permanent-notes batch of 100 command:
+```bash
+cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_machine-learning-permanent-notes" --limit 100
+```
 
 
 

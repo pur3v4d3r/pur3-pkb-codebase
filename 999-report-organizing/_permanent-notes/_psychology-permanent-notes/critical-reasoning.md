@@ -17,7 +17,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - critical-reasoning-synthetic-seed-2026-04-24
@@ -64,8 +64,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Argument Structure Overview**
+> *Follow the flow from premises to final conclusion.*
+>
+> ```mermaid
+> graph TD
+>   A[Premises] --> B[Intermediate Conclusions]
+>   B --> C[Final Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Critical Reasoning Process Flow**
+> *Trace the steps from argument breakdown to conclusion evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Break Down Argument] --> B[Evaluate Premises]
+>   B --> C[Evaluate Inferential Steps]
+>   C --> D[Identify Assumptions]
+>   D --> E[Evaluate Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare the cognitive loads involved in critical reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B[Structured Analysis]
+>   C[Extraneous Load] --> D[Emotional Reactions]
+>   subgraph Critical Reasoning
+>     A --> E[Evaluation of Evidence]
+>   end
+>   subgraph Mere Disagreement
+>     C --> F[Skepticism Based on Emotion]
+>   end
+> ```
 
 # Critical Reasoning
 

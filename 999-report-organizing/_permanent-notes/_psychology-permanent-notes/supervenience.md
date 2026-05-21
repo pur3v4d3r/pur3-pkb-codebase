@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - supervenience-synthetic-seed-2026-05-01
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Supervenience Relationship Overview**
+> *Follow the arrows to see how higher-level properties depend on lower-level base properties.*
+>
+> ```mermaid
+> graph TD
+>   A[Lower-Level Base Properties] --> B[Higher-Level Properties]
+>   C{Change in Higher Level}
+>   D{Corresponding Change in Lower Level}
+>   C -->|Yes| E[No Further Change Possible]
+>   C -->|No| F[Must Have Corresponding Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Supervenience vs Reduction Comparison**
+> *Compare the arrows to understand the difference between supervenience and reduction.*
+>
+> ```mermaid
+> graph TD
+>   A[Higher-Level Properties] --> B{Reduction}
+>   C{Supervenience}
+>   D[Lower-Level Base Properties]
+>   A -->|Fully Explained By| E[Yes, Reduction]
+>   A -->|Covariation Only| F[No, Supervenience]
+> ```
+
+
+> [!abstract] **Diagram 3 — Supervenience in Moral Philosophy**
+> *Trace the relationship between ethical principles and social/biological facts.*
+>
+> ```mermaid
+> graph TD
+>   A[Ethical Principles] --> B{Change}
+>   C[Social/Biological Facts]
+>   D{Corresponding Change Required}
+>   B -->|Yes| E[No Further Change Possible]
+>   B -->|No| F[Must Have Corresponding Change]
+> ```
 
 # Supervenience
 

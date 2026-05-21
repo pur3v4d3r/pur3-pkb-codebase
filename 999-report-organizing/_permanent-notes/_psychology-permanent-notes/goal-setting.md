@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-synthetic-seed-2026-04-24
@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Goal Setting Process Overview**
+> *Follow the flow from goal formulation to achievement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formulate Goals] --> B[Implementation Intention]
+>   B --> C[Mental Contrasting]
+>   C --> D[Strategic Automaticity]
+>   D --> E[Reflective Review]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Setting Mechanisms Interaction**
+> *Identify the interplay between different mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Implementation Intention] --> B[Mental Contrasting]
+>   C[Strategic Automaticity] --> D[Reflective Review]
+>   E[Feedback Loop] -->|Adjust Strategies| F[Goal Achievement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Setting Applications**
+> *Compare different application areas of Goal Setting.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant WorkplaceManagement as WM
+>   participant PersonalDevelopment as PD
+>   ID->>ID: Set Specific Learning Objectives
+>   WM->>WM: Set Clear, Difficult Goals for Employees
+>   PD->>PD: Set Health/Fitness/Career Goals
+> ```
 
 # Goal Setting
 

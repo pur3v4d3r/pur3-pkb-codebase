@@ -18,7 +18,7 @@ subdomains:
   - strategy
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - second-order-thinking-synthetic-seed-2026-04-25
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Second-Order Thinking Process Flow**
+> *Follow the flow from initial decision to long-term consequences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Decision] --> B[First-Order Impact]
+>   B --> C[Other Actors' Responses]
+>   C --> D[New Equilibria and Feedback Loops]
+>   D --> E[Long-Term Consequences]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism in Second-Order Thinking**
+> *Identify how initial actions lead to changes that affect the original decision.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Action] --> B[Change in Environment]
+>   B --> C[Affected Original Decision]
+>   C --> D[New Actions Required]
+>   D --> E[Further Changes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Second-Order Thinking Applications Overview**
+> *Compare different application areas and their specific considerations.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Long-term Student Outcomes| B(Corporate Strategy)
+>   B -->|Market Entry Strategies| C(Public Policy)
+>   C -->|Well-intentioned Policies| D(Strategic Environmental Planning)
+> ```
 
 # Second-Order Thinking
 

@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -70,8 +70,39 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Monitoring and Control Levels**
+> *Identify the flow of information between monitoring and control levels.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitoring]
+>   B[Control]
+>   A -->|Reports on Cognitive Activities| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Information Flow Stages**
+> *Follow the stages of information flow from assessment to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   InitialAssessment[Initial Assessment]
+>   FeedbackGeneration[Feedback Generation]
+>   DecisionMaking[Decision-Making]
+>   ImplementationChanges[Implementation of Changes]
+>   InitialAssessment -->|Data| FeedbackGeneration
+>   FeedbackGeneration -->|Decisions| DecisionMaking
+>   DecisionMaking -->|Actions| ImplementationChanges
+> ```
 
 # Architectural Imperative
 

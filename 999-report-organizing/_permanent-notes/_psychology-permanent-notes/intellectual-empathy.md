@@ -18,7 +18,7 @@ subdomains:
   - communication
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - intellectual-empathy-synthetic-seed-2026-05-12
@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Intellectual Empathy Process Flow**
+> *Follow the steps to practice Intellectual Empathy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Position] --> B[Reconstruct Reasoning]
+>   B --> C[Evaluate Fairly]
+>   C --> D[Engage Respectfully]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intellectual Empathy vs Sympathy Comparison**
+> *Compare Intellectual Empathy and Sympathy to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Intellectual Empathy] -->|No Agreement Required| B[Descriptive Reconstruction]
+>   C[Sympathy] -->|Agreement or Endorsement| D[Emotional Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between Reflective and Reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Intellectual Empathy] -->|Requires| B[Reflective Thinking]
+>   C[Quick Judgments] -->|Typical of| D[Reactive Thinking]
+> ```
 
 # Intellectual Empathy
 

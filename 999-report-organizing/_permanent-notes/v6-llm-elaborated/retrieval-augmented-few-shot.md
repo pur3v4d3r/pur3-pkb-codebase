@@ -1,14 +1,13 @@
 ---
-title: "Retrieval-Augmented Few-Shot"
+title: Retrieval-Augmented Few-Shot
 aliases:
-  - "Retrieval-Augmented Few-Shot"
-  - "retrieve-then-prompt"
-  - "dynamic few-shot retrieval"
-  - "adaptive ICL"
+  - Retrieval-Augmented Few-Shot
+  - retrieve-then-prompt
+  - dynamic few-shot retrieval
+  - adaptive ICL
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,91 @@ subdomains:
   - in-context-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "retrieval-augmented-few-shot-synthetic-seed-2026-05-20"
+  - retrieval-augmented-few-shot-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering"
-
+parent-concept: Prompt-Engineering
 related:
-  - "[[Few-shot Prompting]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Few-shot Prompting]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Few-shot Prompting]]"
+  - '[[Few-shot Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Dynamic Example Selection Process**
+> *Follow the flow from input to retrieval and selection of relevant examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Demonstration Corpus]
+>   B --> C[Retrieve Relevant Examples]
+>   C --> D[Select Few-Shot Demonstrations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Static Few-Shot Sets**
+> *Compare the static and dynamic approaches to few-shot example selection.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Few-Shot Set] --> B[Fixed Examples]
+>   C[Dynamic Few-Shot Set] --> D[Demonstration Corpus]
+>   D --> E[Retrieve Relevant Examples]
+> ```
+
+
+> [!abstract] **Diagram 3 — Retrieval-Augmented Few-Shot Workflow**
+> *Trace the workflow from input to output, highlighting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Demonstration Corpus]
+>   B --> C[Semantic Search]
+>   C --> D[Select Relevant Examples]
+>   D --> E[Generate Prompt]
+>   E --> F[Output]
+> ```
 
 # Retrieval-Augmented Few-Shot
 

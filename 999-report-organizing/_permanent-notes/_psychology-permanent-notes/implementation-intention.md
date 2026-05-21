@@ -21,7 +21,7 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - implementation-intentions-gollwitzer-foundational-report-2026-04-20
@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Implementation Intention Process Flow**
+> *Follow the flow from goal intention to action execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Intention] --> B[Preplanning]
+>   B --> C[Cue-Action Linking]
+>   C --> D[Cue Detection]
+>   D --> E[Behavior Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Engineering of Cue-Behavior Links**
+> *Identify how cues trigger behaviors through implementation intentions.*
+>
+> ```mermaid
+> graph TD
+>   A[Morning Coffee] --> B[Open Book]
+>   C[Email from Boss] --> D[Respond Within 24 Hours]
+> ```
+
+
+> [!abstract] **Diagram 3 — Action Phase Model Integration**
+> *Trace the role of implementation intentions in the Action Phase Model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Predecisional Deliberation] --> B[Postdecisional Preplanning]
+>   B --> C[Cue-Action Linking]
+>   C --> D[Action Execution]
+>   D --> E[Postaction Evaluation]
+> ```
 
 # Implementation Intention
 

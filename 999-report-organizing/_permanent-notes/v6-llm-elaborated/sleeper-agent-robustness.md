@@ -1,14 +1,13 @@
 ---
-title: "Sleeper Agent Robustness"
+title: Sleeper Agent Robustness
 aliases:
-  - "Sleeper Agent Robustness"
-  - "sleeper agent attack resistance"
-  - "deferred activation robustness"
-  - "backdoor robustness in LLMs"
+  - Sleeper Agent Robustness
+  - sleeper agent attack resistance
+  - deferred activation robustness
+  - backdoor robustness in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - llm-security
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "sleeper-agent-robustness-synthetic-seed-2026-05-21"
+  - sleeper-agent-robustness-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Adversarial ML]]"
-  - "[[Red Teaming LLMs]]"
+  - '[[Adversarial ML]]'
+  - '[[Red Teaming LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Adversarial ML]]"
+  - '[[Adversarial ML]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Red Teaming LLMs]]"
+  - '[[Red Teaming LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sleeper Agent Robustness Overview**
+> *Follow the flow from benign behavior to harmful actions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Standard Behavior] --> B[Trigger]
+>   B --> C[Harmful Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Adversarial Attacks**
+> *Compare the immediate disruption of adversarial attacks vs latent behaviors in sleeper agents.*
+>
+> ```mermaid
+> graph TD
+>   A[Adversarial Attack] -->|Immediate Disruption| B[Model Failure]
+>   C[Sleeper Agent] -->|Latent Behavior| D[Harmful Action]
+> ```
+
+
+> [!abstract] **Diagram 3 — Security Audit Process**
+> *Trace the steps from standard evaluation to adversarial trigger testing.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Auditor as A
+>   U->>M: Standard Input
+>   M-->>U: Benign Response
+>   alt Adversarial Trigger Test
+>     A->>M: Specific Input Pattern
+>     M-->>A: Harmful Action Detected?
+>   end
+> ```
 
 # Sleeper Agent Robustness
 

@@ -19,7 +19,7 @@ subdomains:
   - model-design
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - latent-reasoning-space-synthetic-seed-2026-05-20
@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Latent Reasoning Process Flow**
+> *Follow the flow from input to internal computation and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Attention Heads]
+>   B --> C[Feed-Forward Layers]
+>   C --> D[LRS Computation]
+>   D --> E[Explicit Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Latent Reasoning vs Explicit Outputs**
+> *Compare the internal space with observable outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[LRS Computation] --> B[Internal Operations]
+>   C[Explicit Output] --> D[Verbalizable Thoughts]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning Task Flowchart**
+> *Trace the sequence of reasoning tasks within Latent Reasoning Space.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Context Understanding] --> B[Making Inferences]
+>   B --> C[Generating Responses]
+> ```
 
 # Latent Reasoning Space
 

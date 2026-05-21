@@ -17,7 +17,7 @@ subdomains:
   - moral-psychology
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - prejudice-synthetic-seed-2026-05-01
@@ -68,8 +68,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prejudice Components Overview**
+> *Follow the arrows to see how prejudice integrates affective, cognitive, and behavioral components.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Category Membership]
+>   B[Affective (Antipathy)]
+>   C[Cognitive (Stereotypes)]
+>   D[Behavioral (Discrimination Tendency)]
+>   A -->|Links to|
+>   B & C & D
+> ```
+
+
+> [!abstract] **Diagram 2 — Explicit vs Implicit Prejudice**
+> *Compare the explicit and implicit pathways of prejudice formation.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Category Membership]
+>   B1[Affective (Antipathy)]
+>   C1[Cognitive (Stereotypes)]
+>   D1[Behavioral (Discrimination Tendency)]
+>   E[Explicit Prejudice]
+>   F[Implicit Prejudice]
+>   A -->|Conscious|
+>   B1 & C1
+>   B1 & C1 -->|Accessible to Introspection|
+>   E
+>   A -->|Automatic Associations|
+>   F
+>   F -->|Unconscious|
+>   D1
+> ```
+
+
+> [!abstract] **Diagram 3 — Intergroup Contact Model**
+> *Trace the steps of how intergroup contact can reduce prejudice.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Experiences]
+>   B[Common Goals]
+>   C[Favorable Attitudes]
+>   D[Intergroup Contact]
+>   E[Diverse Individuals]
+>   F[Inclusive Environments]
+>   D -->|Promotes|
+>   A & B
+>   A & B -->|Fosters|
+>   C
+>   D -->|Engage Meaningfully|
+>   E & F
+> ```
 
 # Prejudice
 

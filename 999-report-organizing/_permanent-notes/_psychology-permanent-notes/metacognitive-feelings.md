@@ -18,7 +18,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognitive-feelings-synthetic-seed-2026-04-24
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Feelings Process Flow**
+> *Follow the flow from processing fluency to metacognitive feelings and potential biases.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Processing Fluency] --> B[Familiarity]
+>   B --> C[Confidence]
+>   C --> D[Misleading Feelings]
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Feelings and Learning Strategies**
+> *Identify how metacognitive feelings influence learning strategies and outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Fluency] --> B[Familiarity]
+>   B --> C[Confidence]
+>   C --> D[Illusion of Competence]
+>   E[Effective Learning] --> F[Spaced Repetition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Feelings in Instructional Design**
+> *Understand the role of metacognitive feelings in designing effective assessments.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Material as M
+>   participant Assessment as A
+>   L->>M: Engages with material
+>   M-->>L: Fluently presented
+>   L-->>A: Feels confident
+>   A-->>L: Misleading confidence measure
+> ```
 
 # Metacognitive Feelings
 

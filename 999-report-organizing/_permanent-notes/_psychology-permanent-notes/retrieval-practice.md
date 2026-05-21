@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Retrieval Practice Mechanism**
+> *Follow the flow from retrieval to memory reconstruction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Memory Trace] --> B[Retrieval]
+>   B --> C[Reconstruction]
+>   C --> D[Adapted Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Study Methods**
+> *Compare retrieval practice with passive re-reading.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Practice] -->|Strengthening| B[Memory Retention]
+>   C[Passive Re-Reading] -->|Weakening| D[Superficial Learning]
+> ```
+
+
+> [!abstract] **Diagram 3 — PKB Review System Workflow**
+> *Trace the process from spaced repetition to metacognitive monitoring.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant PKB as P
+>   U->>P: Create Flashcards
+>   P-->>U: Active Recall Exercise
+>   U->>P: Spaced Repetition Schedule
+>   P-->>U: Metacognitive Monitoring
+> ```
 
 # Retrieval Practice
 

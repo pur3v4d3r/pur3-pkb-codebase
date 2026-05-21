@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Controllability Dimension Overview**
+> *Identify controllable and uncontrollable causes.*
+>
+> ```mermaid
+> graph TD
+>   A[Effort] -->|Controllable| B[Pride]
+>   C[Ablty] -->|Uncontrollable| D[Pity]
+>   E[Lazyns] -->|Controllable| F[Guilt]
+>   G[Illness] -->|Uncontrollable| H[Smpthy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional Responses to Controllability**
+> *Trace the emotional responses based on controllability.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success] --> B[Ftr]
+>   B -->|Controllable| C[Pride]
+>   B -->|Uncontrollable| D[Smpthy]
+>   E[Failure] --> F[Ftr]
+>   F -->|Controllable| G[Guilt]
+>   F -->|Uncontrollable| H[Smpthy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Locus and Stability Dimensions**
+> *Compare controllability with locus and stability dimensions.*
+>
+> ```mermaid
+> graph TD
+>   A[Controllability] -->|Internal, Unstable| B[Eft]
+>   A -->|External, Stable| C[TskDfclt]
+>   D[Locus] -->|Internal| E[Ablty]
+>   D -->|External| F[SocEnv]
+>   G[Stability] -->|Unstable| H[Mood]
+>   G -->|Stable| I[TskDfclt]
+> ```
 
 # Controllability Dimension
 

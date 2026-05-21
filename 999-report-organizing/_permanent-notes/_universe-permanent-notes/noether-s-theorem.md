@@ -18,7 +18,7 @@ subdomains:
   - classical-field-theory
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - noethers-theorem-synthetic-seed-2026-05-14
@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Symmetry to Conservation Mapping**
+> *Follow the arrows from symmetry types to their corresponding conservation laws.*
+>
+> ```mermaid
+> graph TD
+>   A[Time Translation] --> B(Energy)
+>   C[Spatial Translation] --> D(Momentum)
+>   E[Rotational Invariance] --> F(Angular Momentum)
+>   G[Gauge Invariance] --> H(Charge)
+> ```
+
+
+> [!abstract] **Diagram 2 — Noether's Theorem Process Flow**
+> *Trace the steps from identifying symmetries to deriving conservation laws.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Symmetry in Lagrangian] --> B(Transformation Invariance)
+>   B --> C[Construct Noether Current]
+>   C --> D(Derive Conservation Law)
+> ```
+
+
+> [!abstract] **Diagram 3 — Theoretical and Practical Applications**
+> *See how theoretical principles connect to practical physics applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Symmetry in Lagrangian] --> B(Conservation Law)
+>   B --> C(Particle Interactions)
+>   B --> D(Experiment Design)
+>   B --> E(Field Theory Applications)
+> ```
 
 # Noether's Theorem
 

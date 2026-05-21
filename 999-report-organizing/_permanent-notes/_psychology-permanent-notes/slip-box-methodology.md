@@ -18,7 +18,7 @@ subdomains:
   - note-taking
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - slip-box-methodology-synthetic-seed-2026-04-25
@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Atomic Note Structure**
+> *Follow the flow from idea capture to linking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture Idea] --> B(Create Atomic Note)
+>   B --> C(Link Notes)
+> ```
+
+
+> [!abstract] **Diagram 2 — Conceptual Linking Process**
+> *Trace the connections between notes and ideas.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Note1] -->|Links to| B(Note2)
+>   B --> C(Note3)
+>   A --> D(Note4)
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Network Overview**
+> *Identify the interconnected network of notes.*
+>
+> ```mermaid
+> graph TD
+>   A[Note1] --> B(Note2)
+>   B --> C(Note3)
+>   A --> D(Note4)
+>   C --> E(Note5)
+> ```
 
 # Slip Box Methodology
 

@@ -1,14 +1,13 @@
 ---
-title: "Self-Refine"
+title: Self-Refine
 aliases:
-  - "Self-Refine"
-  - "iterative self-refinement"
-  - "self-improvement loop"
-  - "generate-refine loop"
+  - Self-Refine
+  - iterative self-refinement
+  - self-improvement loop
+  - generate-refine loop
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,112 @@ subdomains:
   - self-improvement
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-refine-synthetic-seed-2026-05-20"
+  - self-refine-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering"
-
+parent-concept: Prompt-Engineering
 related:
-  - "[[Iterative Refinement]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Iterative Refinement]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Iterative Refinement]]"
+  - '[[Iterative Refinement]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Refine Iteration Process**
+> *Follow the cycle from initial response to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Generate Response]
+>   B --> C[Evaluate Output]
+>   C --> D[Feedback on Errors]
+>   D --> E[Refine Output]
+>   E --> F[Check Stopping Criterion]
+>   F -->|No| B
+>   F -->|Yes| G[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Refine vs External Feedback**
+> *Compare Self-Refine with iterative refinement using external feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Response]
+>   B[Self-Refine Iteration]
+>   C[Final Output]
+>   D[External Feedback Iteration]
+>   E[Human Input]
+>   F[Improved Output]
+>   A -->|Self-Refine| B
+>   B -->|No Criterion Met| B
+>   B -->|Criterion Met| C
+>   A -->|External Refinement| D
+>   D -->|Human Input| E
+>   E -->|Iterate| D
+>   E -->|Final Output| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Refine Applications Overview**
+> *Identify the applications where Self-Refine can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue Generation]
+>   B[Code Writing]
+>   C[Mathematical Reasoning]
+>   D[Initial Prompt]
+>   E[Self-Refine Iteration]
+>   F[Final Output]
+>   D -->|A| A
+>   D -->|B| B
+>   D -->|C| C
+>   A -->|E| F
+>   B -->|E| F
+>   C -->|E| F
+> ```
 
 # Self-Refine
 

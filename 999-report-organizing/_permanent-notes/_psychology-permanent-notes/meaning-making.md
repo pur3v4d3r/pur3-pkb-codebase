@@ -18,7 +18,7 @@ subdomains:
   - narrative-psychology
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - meaning-making-synthetic-seed-2026-05-01
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Meaning-Making Process Flow**
+> *Follow the flow from event appraisal to narrative integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event] --> B(Appraisal)
+>   B --> C[Integration]
+>   C --> D[Narrative]
+> ```
+
+
+> [!abstract] **Diagram 2 — Situational vs Global Levels**
+> *Identify the two levels of meaning-making and their interaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Situational] -->|Appraisal| B(Event)
+>   C[Global] -->|Integration| D(Narrative)
+> ```
+
+
+> [!abstract] **Diagram 3 — Meaning-Making Mechanism Flow**
+> *Trace the stages from event to coherent narrative.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event] --> B(Appraisal)
+>   B --> C[Integration]
+>   C --> D[Narrative]
+>   D --> E[Beliefs & Goals]
+> ```
 
 # Meaning-Making
 

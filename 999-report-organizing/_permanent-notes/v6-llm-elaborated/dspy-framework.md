@@ -19,7 +19,7 @@ subdomains:
   - nlp-systems
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dspy-framework-synthetic-seed-2026-05-20
@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — DSPy Framework Workflow**
+> *Follow the flow from task definition to optimized prompt generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Definition] --> B[Metric Specification]
+>   B --> C[Prompt Optimization]
+>   C --> D[Optimized Prompt]
+> ```
+
+
+> [!abstract] **Diagram 2 — DSPy Framework Iteration Process**
+> *Observe the iterative refinement of prompts based on performance metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Evaluation]
+>   B -->|Good| C[Optimization]
+>   B -->|Bad| D[Tuning]
+>   C --> E[Next Iteration]
+>   D --> F[Next Iteration]
+> ```
+
+
+> [!abstract] **Diagram 3 — DSPy Framework vs Manual Tuning**
+> *Compare the automated and manual approaches to prompt optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Definition] --> B[DSPy Optimization]
+>   C[Manual Tuning] --> D[Trial-and-Error]
+>   B --> E[Optimized Prompt]
+>   D --> F[Manually Crafted Prompt]
+> ```
 
 # DSPy Framework
 

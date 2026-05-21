@@ -18,7 +18,7 @@ subdomains:
   - discourse-comprehension
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - narrative-cognition-synthetic-seed-2026-04-25
@@ -70,8 +70,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Narrative Cognition Process Flow**
+> *Follow the sequence from identifying elements to updating mental representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Elements]
+>   B[Integrate Structure]
+>   C[Update Representations]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrative Dimensions Integration**
+> *Trace the connections between spatial, temporal, causal, intentional, and protagonist dimensions.*
+>
+> ```mermaid
+> graph TD
+>   A[Spacial]
+>   B[Temporal]
+>   C[Causal]
+>   D[Intentional]
+>   E[Protagonist]
+>   A -->|Integrate| B
+>   B -->|Connect| C
+>   C -->|Link| D
+>   D -->|Infer| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Narrative Applications Overview**
+> *Explore the various applications of narrative cognition in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Advertising]
+>   C[Legal Communication]
+>   D[Narrative Therapy]
+>   A -->|Enhance Learning|
+>   B -->|Create Emotional Connections|
+>   C -->|Persuade Juries|
+>   D -->|Reframe Experiences
+> ```
 
 # Narrative Cognition
 

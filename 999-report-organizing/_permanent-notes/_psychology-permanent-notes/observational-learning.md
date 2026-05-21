@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - observational-learning-synthetic-seed-2026-04-25
@@ -66,8 +66,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Observational Learning Process Flow**
+> *Follow the sequence from attention to motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attention] --> B[R retention]
+>   B --> C[Reproduction]
+>   C --> D[Motivation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Observational Learning Applications**
+> *Identify the different settings where observational learning is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Enhances Engagement| B(Corporate Training)
+>   B -->|Reduces Errors| C(Parental Guidance)
+>   C -->|Effective Teaching| D(MOOCs)
+> ```
 
 # Observational Learning
 

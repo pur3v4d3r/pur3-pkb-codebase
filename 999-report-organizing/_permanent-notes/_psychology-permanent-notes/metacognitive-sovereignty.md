@@ -21,7 +21,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-directed-learning-foundational-report-2026-04-19
@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Sovereignty Dimensions**
+> *Identify the three interacting dimensions of metacognitive sovereignty.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognitive Knowledge]
+>   B[Metacognitive Monitoring]
+>   C[Metacognitive Control]
+>   A -->|Informs| B
+>   B -->|Guides| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Metacognitive Sovereignty**
+> *Follow the cycle from monitoring to adjustment.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Monitoring
+>   Monitoring --> Evaluation
+>   Evaluation --> Adjustment
+>   Adjustment -->|Feedback Loop| Monitoring
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Sovereignty**
+> *See how metacognitive sovereignty applies in instructional design and professional development.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Educator as E
+>   participant Professional as P
+>   L->>E: Reflective Journals
+>   E-->>L: Feedback on Learning Strategies
+>   P->>P: Self-Assessment Tasks
+>   P-->>P: Skill Improvement
+> ```
 
 # Metacognitive Sovereignty
 

@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-practitioners-field-guide-2026-04-19
@@ -67,8 +67,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Python Package Structure Overview**
+> *Follow the flow from directory to modules.*
+>
+> ```mermaid
+> graph TD
+>   A[Directory]
+>   B[__init__.py]
+>   C[Module1.py]
+>   D[Module2.py]
+>   E[...]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Package Import Flow**
+> *Trace the steps from import statement to module execution.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Package as P
+>   participant Module1 as M1
+>   participant Module2 as M2
+>   U->>P: import package
+>   P->>M1: execute __init__.py
+>   P->>M2: load module code
+> ```
+
+
+> [!abstract] **Diagram 3 — Package vs Module Comparison**
+> *Compare the structure and components of packages and modules.*
+>
+> ```mermaid
+> classDiagram
+>   class Package {
+>     +__init__.py
+>     +Module1.py
+>     +Module2.py
+>   }
+>   class Module {
+>     +code
+>   }
+>   Package --> Module : contains
+> ```
 
 # Python Package
 

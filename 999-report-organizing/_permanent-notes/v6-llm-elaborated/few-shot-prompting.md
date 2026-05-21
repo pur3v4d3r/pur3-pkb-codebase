@@ -18,7 +18,7 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - few-shot-prompting-synthetic-seed-2026-05-20
@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Few-Shot Prompting Process Flow**
+> *Follow the flow from input examples to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Examples] --> B(Model)
+>   B --> C[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Few-Shot vs Zero-Shot Comparison**
+> *Compare Few-Shot and Zero-Shot prompting methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Few-Shot] --> B[Examples]
+>   C[Zero-Shot] --> D[Natural Language]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Few-Shot Prompting**
+> *Understand the difference between recognition and recall.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition] --> B[Match Examples]
+>   C[Recall] --> D[Generate Outputs]
+> ```
 
 # Few-Shot Prompting
 

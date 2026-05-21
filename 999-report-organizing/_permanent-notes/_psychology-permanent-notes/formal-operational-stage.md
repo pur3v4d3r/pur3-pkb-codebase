@@ -18,7 +18,7 @@ subdomains:
   - education
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - formal-operational-stage-synthetic-seed-2026-04-26
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cognitive Development Stages Timeline**
+> *Follow the progression from Sensorimotor to Formal Operational stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensorimotor] --> B[Preoperational]
+>   B --> C[Concrete Operational]
+>   C --> D[Formal Operational]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hypothetico-Deductive Reasoning Process**
+> *Trace the steps from hypothesis generation to outcome deduction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hypothesis] --> B[Test]
+>   B --> C[Outcome]
+>   C --> D[Deduction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Abstract vs Concrete Reasoning Comparison**
+> *Compare the reasoning types across Formal and Concrete Operational stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Concrete Operational] -->|Reasons based on|
+>   B[Concrete Objects]
+>   C[Formal Operational] -->|Reasons about|
+>   D[Hypothetical Scenarios]
+> ```
 
 # Formal Operational Stage
 

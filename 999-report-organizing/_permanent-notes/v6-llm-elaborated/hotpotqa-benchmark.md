@@ -18,7 +18,7 @@ subdomains:
   - multi-hop-reasoning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hotpotqa-benchmark-synthetic-seed-2026-05-20
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — HotpotQA Question Flow**
+> *Follow the flow from question to answer synthesis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Question] --> B[Document Retrieval]
+>   B --> C[Information Synthesis]
+>   C --> D[Answer Formulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multi-Hop Reasoning Process**
+> *Trace the steps from document to final answer.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Document1] --> B[Fact Extraction]
+>   C[Document2] --> D[Fact Extraction]
+>   E[Synthesis] --> F[Answer]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning vs Retrieval Accuracy**
+> *Compare retrieval and reasoning accuracy in models.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval]
+>   B[Reasoning]
+>   C[Correct Answer]
+>   D[Incorrect Answer]
+>   A -->|High| C
+>   A -->|Low| D
+>   B -->|High| C
+>   B -->|Low| D
+> ```
 
 # HotpotQA Benchmark
 

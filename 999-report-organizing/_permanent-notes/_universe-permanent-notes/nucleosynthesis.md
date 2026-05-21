@@ -16,7 +16,7 @@ subdomains:
   - nuclear-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nucleosynthesis-synthetic-seed-2026-05-14
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Nucleosynthesis Process Overview**
+> *Follow the flow from Big Bang to supernovae.*
+>
+> ```mermaid
+> graph TD
+>   A[Big Bang Nucleosynthesis]
+>   B[Stellar Nucleosynthesis]
+>   C[Explosive Nucleosynthesis]
+>   A -->|produces H, He, Li, Be| D[Early Universe]
+>   B -->|synthesizes up to Fe| E[Main Sequence Stars]
+>   C -->|creates elements > Fe| F[Supernovae and Neutron Star Mergers]
+> ```
+
+
+> [!abstract] **Diagram 2 — Element Synthesis in Different Environments**
+> *Identify the environments where each element type is synthesized.*
+>
+> ```mermaid
+> graph TD
+>   A[Big Bang Nucleosynthesis] -->|H, He, Li, Be| B[Early Universe]
+>   C[Stellar Nucleosynthesis] -->|up to Fe| D[Main Sequence Stars]
+>   E[Explosive Nucleosynthesis] -->|elements > Fe| F[Supernovae and Neutron Star Mergers]
+> ```
+
+
+> [!abstract] **Diagram 3 — Nuclear Reactions in Stellar Evolution**
+> *Trace the nuclear reactions from hydrogen to iron.*
+>
+> ```mermaid
+> graph TD
+>   A[Hydrogen Fusion] -->|Triple-Alpha Process| B[Helium]
+>   B -->|CNO Cycle| C[Carbon, Nitrogen, Oxygen]
+>   C -->|Further Fusion| D[Iron Core]
+> ```
 
 # Nucleosynthesis
 

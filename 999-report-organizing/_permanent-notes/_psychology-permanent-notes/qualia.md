@@ -18,7 +18,7 @@ subdomains:
   - consciousness-studies
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - qualia-synthetic-seed-2026-04-25
@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Qualia vs Functional Descriptions**
+> *Compare the subjective experience of qualia with functional descriptions.*
+>
+> ```mermaid
+> graph TD
+>   A[Functional Description]
+>   B[Neural Correlate]
+>   C[Qualitative Experience]
+>   A -->|Incomplete| C
+>   B -->|Inadequate| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Argument Flowchart**
+> *Follow the thought experiment of Mary and her color experience.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Scientific Knowledge]
+>   B[No Qualitative Experience]
+>   C[Qualitative Experience]
+>   D[Complete Understanding]
+>   A -->|Lacks| B
+>   B -->|Gains| C
+>   C -->|Achieves| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[Qualia from Reflection]
+>   D[Qualia from Reaction]
+>   A -->|Involves Analysis| C
+>   B -->|Immediate Response| D
+> ```
 
 # Qualia
 

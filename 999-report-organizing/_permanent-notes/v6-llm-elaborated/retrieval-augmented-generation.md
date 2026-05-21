@@ -1,14 +1,13 @@
 ---
-title: "Retrieval-Augmented Generation"
+title: Retrieval-Augmented Generation
 aliases:
-  - "Retrieval-Augmented Generation"
-  - "RAG"
-  - "retrieve-then-generate"
-  - "retrieval-grounded generation"
+  - Retrieval-Augmented Generation
+  - RAG
+  - retrieve-then-generate
+  - retrieval-grounded generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,92 @@ subdomains:
   - knowledge-intensive-nlp
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "retrieval-augmented-generation-synthetic-seed-2026-05-20"
+  - retrieval-augmented-generation-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering"
-
+parent-concept: Prompt-Engineering
 related:
-  - "[[Large Language Models]]"
-  - "[[Information Retrieval]]"
+  - '[[Large Language Models]]'
+  - '[[Information Retrieval]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Large Language Models]]"
-  - "[[Information Retrieval]]"
+  - '[[Large Language Models]]'
+  - '[[Information Retrieval]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RAG Workflow Overview**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B(Query Derivation)
+>   B --> C(Document Retrieval)
+>   C --> D(Language Model Conditioning)
+>   D --> E(Generated Text)
+> ```
+
+
+> [!abstract] **Diagram 2 — RAG vs Traditional LLMs**
+> *Compare the two approaches in terms of knowledge sources.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional LLM]
+>   B[RAG]
+>   A -->|Internal Parametric Memory| C[Generated Text]
+>   B -->|External Retrieval Mechanism| D(Document Evidence)
+>   B -->|Document Evidence + Input| E(Generated Text)
+> ```
+
+
+> [!abstract] **Diagram 3 — RAG Application Areas**
+> *Identify the areas where RAG can be applied effectively.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Reliable Educational Content)
+>   C(Customer Service) --> D(Contextually Relevant Responses)
+> ```
 
 # Retrieval-Augmented Generation
 

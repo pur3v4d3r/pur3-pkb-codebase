@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Extrinsic Regulatory Styles Hierarchy**
+> *Follow the developmental sequence from external regulation to integration.*
+>
+> ```mermaid
+> graph TD
+>   A[External Regulation] --> B[Introjection]
+>   B --> C[Identification]
+>   C --> D[Integration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Regulatory Styles Impact on Motivation**
+> *Compare the impact of each regulatory style on intrinsic motivation and well-being.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Regulation] -->|Low| E[Motivation]
+>   B[Introjection] -->|Medium| F[Well-Being]
+>   C[Identification] -->|High| G[Motivation]
+>   D[Integration] -->|Highest| H[Well-Being]
+> ```
+
+
+> [!abstract] **Diagram 3 — Developmental Sequence of Regulatory Styles**
+> *Trace the developmental stages from external regulation to integration.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ExternalRegulation : Early Childhood
+>   ExternalRegulation --> Introjection : Internalization Begins
+>   Introjection --> Identification : Personal Endorsement
+>   Identification --> Integration : Seamless Self-Concept
+> ```
 
 # Central Claim of OIT
 

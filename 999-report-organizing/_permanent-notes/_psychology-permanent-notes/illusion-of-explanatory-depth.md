@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognition-and-reading-foundational-report-2026-04-20
@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Illusion Process Flowchart**
+> *Follow the flow from felt understanding to inability to explain.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Surface-Level Familiarity] --> B[Felt Understanding]
+>   B --> C[Trying To Explain]
+>   C --> D[Inability To Articulate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Explanatory Depth vs Recognition**
+> *Compare the distinctions between explanatory depth and recognition.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition] -->|Strong| B[Felt Understanding]
+>   C[Explanatory Depth] -->|Weak| D[Inability To Explain]
+> ```
+
+
+> [!abstract] **Diagram 3 — Processing Fluency Mechanism**
+> *Trace the path from processing fluency to illusion of understanding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Familiar Presentation] --> B[Processing Fluency]
+>   B --> C[Illusion Of Understanding]
+>   C --> D[Inability To Explain]
+> ```
 
 # Illusion of Explanatory Depth
 

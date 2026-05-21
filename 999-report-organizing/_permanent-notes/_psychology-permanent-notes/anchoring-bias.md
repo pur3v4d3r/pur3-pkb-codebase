@@ -18,7 +18,7 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - anchoring-bias-synthetic-seed-2026-04-25
@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Anchoring Bias Process Flow**
+> *Follow the flow from initial anchor to final judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Anchor] --> B[Selective Accessibility]
+>   B --> C[Insufficient Adjustment]
+>   C --> D[Final Judgment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Anchoring Bias in Negotiations**
+> *See how anchoring affects negotiation outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Arbitrary Initial Price] --> B[Adjustment Based on Anchor]
+>   B --> C[Suboptimal Agreement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Digital Anchoring Mechanism**
+> *Trace the influence of default values in online decisions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Default Values] --> B[Potent Anchors]
+>   B --> C[Influenced Decisions]
+> ```
 
 # Anchoring Bias
 

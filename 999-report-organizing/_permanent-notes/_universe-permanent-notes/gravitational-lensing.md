@@ -18,7 +18,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gravitational-lensing-synthetic-seed-2026-05-14
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gravitational Lensing Process Flow**
+> *Follow the path of light from source to observer.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Light Source] --> B[Massive Object]
+>   B --> C[Bent Path]
+>   C --> D[Observer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strong vs Weak Lensing Comparison**
+> *Compare the effects of strong and weak lensing.*
+>
+> ```mermaid
+> graph TD
+>   A[Strong Lensing] -->|High Magnification| B[Multiple Images]
+>   C[Weak Lensing] -->|Subtle Distortions| D[Mass Distribution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Gravitational Lensing Mechanism**
+> *Trace the curvature of spacetime around a massive object.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Spacetime] -->|Massive Object| B[Sagging Spacetime]
+>   C[Light Path] --> D[Bent Light]
+>   E[Observer] <--> F[Lensed Image]
+> ```
 
 # Gravitational Lensing
 

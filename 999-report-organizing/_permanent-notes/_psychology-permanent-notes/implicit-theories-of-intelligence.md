@@ -19,7 +19,7 @@ subdomains:
   - social-cognitive-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - implicit-theories-of-intelligence-synthetic-seed-2026-04-24
@@ -70,8 +70,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fixed vs Incremental Theories**
+> *Compare the beliefs and behaviors of fixed and incremental theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed Theory]
+>   B[Incremental Theory]
+>   A -->|Believes intelligence is stable| C[Attributes failure to inherent limitations]
+>   B -->|Believes intelligence can grow| D[Attributes failure to controllable factors]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Goal Selection**
+> *Understand how implicit theories influence goal selection and resilience.*
+>
+> ```mermaid
+> graph TD
+>   A[Mastery Goals]
+>   B[Performance Goals]
+>   C[Growth Mindset]
+>   D[Fixed Mindset]
+>   C -->|Pursues Mastery Goals| A
+>   D -->|Pursues Performance Goals| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavioral Outcomes**
+> *See how different theories affect persistence and resilience.*
+>
+> ```mermaid
+> graph TD
+>   A[Incremental Theory]
+>   B[Fixed Theory]
+>   A -->|More Resilient| C[Persistent Under Challenges]
+>   B -->|Less Resilient| D[Avoids Challenges]
+> ```
 
 # Implicit Theories of Intelligence
 

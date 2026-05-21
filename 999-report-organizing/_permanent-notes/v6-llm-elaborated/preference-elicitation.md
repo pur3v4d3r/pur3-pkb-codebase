@@ -1,14 +1,13 @@
 ---
-title: "Preference Elicitation"
+title: Preference Elicitation
 aliases:
-  - "Preference Elicitation"
-  - "human preference learning"
-  - "value elicitation"
-  - "preference discovery"
+  - Preference Elicitation
+  - human preference learning
+  - value elicitation
+  - preference discovery
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,91 @@ subdomains:
   - decision-theory
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "preference-elicitation-synthetic-seed-2026-05-20"
+  - preference-elicitation-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Reward Model Design]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reward Model Design]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reward Model Design]]"
+  - '[[Reward Model Design]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Preference Elicitation Process Flow**
+> *Follow the steps from task design to bias mitigation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Design] --> B[Comparison Tasks]
+>   B --> C[Rating Scales]
+>   C --> D[Bias Mitigation]
+>   D --> E[Quality Control]
+> ```
+
+
+> [!abstract] **Diagram 2 — Preference Elicitation Challenges**
+> *Identify and understand the challenges in preference elicitation.*
+>
+> ```mermaid
+> graph TD
+>   A[Labeller Fatigue] --> B[Bias]
+>   C[Presentation Effects] --> D[Bias]
+>   E[Labealler Demographics] --> F[Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Preference vs Reward Model Design**
+> *Compare Preference Elicitation with Reward Model Design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant PE as Preference Elicitation
+>   participant RM as Reward Model Design
+>   PE->>PE: Directly elicit user preferences
+>   RM->>RM: Predict rewards based on inputs
+> ```
 
 # Preference Elicitation
 

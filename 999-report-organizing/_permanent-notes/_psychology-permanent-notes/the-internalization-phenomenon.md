@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -65,8 +65,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Internalization Process Overview**
+> *Follow the stages from external regulation to integration.*
+>
+> ```mermaid
+> graph TD
+>   A[External Regulation]
+>   B[Introjection]
+>   C[Identification]
+>   D[Integration]
+>   A -->|Over Time| B
+>   B -->|Increased Investment| C
+>   C -->|Personal Satisfaction| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Factors Influencing Internalization**
+> *Identify the key factors that impact internalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Relatedness]
+>   C[Competence]
+>   D[Positive Reinforcement]
+>   E[Negative Feedback]
+>   F[Personal Values]
+>   G[Social Context]
+>   H[Tasks Nature]
+>   I[Future Goals]
+>   A -->|Influences| D
+>   B -->|Influences| D
+>   C -->|Influences| D
+>   E -->|Hinders| D
+>   F -->|Hinders| E
+>   G -->|Influences| H
+>   H -->|Influences| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Internalization in Learning Contexts**
+> *Trace the shift from external to internal motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Rewards/Punishments]
+>   B[Surface-Level Compliance]
+>   C[Introjection]
+>   D[Identification]
+>   E[Integration]
+>   A -->|Initial Response| B
+>   B -->|Increased Engagement| C
+>   C -->|Value Recognition| D
+>   D -->|Personal Satisfaction| E
+> ```
 
 # Internalization Phenomenon
 

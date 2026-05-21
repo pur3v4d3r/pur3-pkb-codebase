@@ -1,14 +1,13 @@
 ---
-title: "Task-Specific Fine-Tuning"
+title: Task-Specific Fine-Tuning
 aliases:
-  - "Task-Specific Fine-Tuning"
-  - "task-adaptive fine-tuning"
-  - "supervised task fine-tuning"
-  - "downstream fine-tuning"
+  - Task-Specific Fine-Tuning
+  - task-adaptive fine-tuning
+  - supervised task fine-tuning
+  - downstream fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,94 @@ subdomains:
   - transfer-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "task-specific-fine-tuning-synthetic-seed-2026-05-20"
+  - task-specific-fine-tuning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Instruction Fine-Tuning]]"
-  - "[[Domain Adaptation LLMs]]"
-  - "[[Catastrophic Forgetting in LLMS]]"
+  - '[[Instruction Fine-Tuning]]'
+  - '[[Domain Adaptation LLMs]]'
+  - '[[Catastrophic Forgetting in LLMS]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Instruction Fine-Tuning]]"
-  - "[[Domain Adaptation LLMs]]"
+  - '[[Instruction Fine-Tuning]]'
+  - '[[Domain Adaptation LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Catastrophic Forgetting in LLMS]]"
+  - '[[Catastrophic Forgetting in LLMS]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Task-Specific Fine-Tuning Process Flow**
+> *Follow the steps from pre-trained model to task-specific fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pre-Trained Model] --> B[Select Task]
+>   B --> C[Collect Task Data]
+>   C --> D[Label Data]
+>   D --> E[Fine-Tune Model]
+>   E --> F[Test Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Specific vs Instruction Fine-Tuning Comparison**
+> *Compare the focus of task-specific and instruction fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Specific Fine-Tuning] --> B[Narrow Focus]
+>   C/InstructionFineTuning --> D[Broad Focus]
+>   B --> E[High Performance on Specific Task]
+>   D --> F[General Instruction Following]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task-Specific Fine-Tuning Applications**
+> *Identify the applications of task-specific fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Student Essays]
+>   C/CustomerServiceChatbots --> D[Common Queries]
+>   E/LegalDocumentAnalysis --> F[Legal Documents]
+> ```
 
 # Task-Specific Fine-Tuning
 

@@ -17,7 +17,7 @@ subdomains:
   - string-theory
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - m-theory-synthetic-seed-2026-05-14
@@ -64,8 +64,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — M Theory Unification Process**
+> *Follow the flow from individual string theories to unified M Theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Type IIA]
+>   B[Type IIB]
+>   C[Heterotic E8xE8]
+>   D[Heterotic SO(32)]
+>   E[Fractional String]
+>   F[M Theory]
+>   G[11D Supergravity]
+>   A -->|Duality| F
+>   B -->|Duality| F
+>   C -->|Duality| F
+>   D -->|Duality| F
+>   E -->|Duality| F
+>   G -->|Limit| F
+> ```
+
+
+> [!abstract] **Diagram 2 — M Theory Dimensions and Dualities**
+> *Trace the connections between dimensions and dualities in M Theory.*
+>
+> ```mermaid
+> graph TD
+>   A[10D IIA]
+>   B[10D IIB]
+>   C[10D Heterotic E8xE8]
+>   D[10D Heterotic SO(32)]
+>   E[Fractional String]
+>   F[11D M Theory]
+>   G[11D Supergravity]
+>   A -->|T-Duality| B
+>   C -->|S-Duality| D
+>   E -->|Duality| F
+>   F -->|Limit| G
+> ```
+
+
+> [!abstract] **Diagram 3 — M Theory's Top-Down Approach**
+> *Identify how M Theory guides understanding from overarching principles.*
+>
+> ```mermaid
+> graph TD
+>   A[Overarching Principles]
+>   B[M Theory Framework]
+>   C[String Theories]
+>   D[Cosmological Models]
+>   E[Quantum Gravity]
+>   F[Nature of Space-Time]
+>   A -->|Guides Understanding| B
+>   B -->|Unifies| C
+>   B -->|Refines| D
+>   B -->|Explains| E
+>   B -->|Challenges| F
+> ```
 
 # M Theory
 

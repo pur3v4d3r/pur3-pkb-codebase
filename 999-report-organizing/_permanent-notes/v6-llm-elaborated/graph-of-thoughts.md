@@ -18,7 +18,7 @@ subdomains:
   - graph-theory
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - graph-of-thoughts-synthetic-seed-2026-05-20
@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Graph of Thoughts Structure**
+> *Identify the nodes representing different reasoning paths and their connections.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Hypothesis] --> B[Intermediate Conclusion]
+>   B --> C[Sub-problem Exploration]
+>   C --> D[Merge Insights]
+>   D --> E[Final Solution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Graph of Thoughts vs Tree of Thoughts**
+> *Compare the linear structure of Tree of Thoughts with the cyclic and merging capabilities of Graph of Thoughts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Tree of Thoughts] --> B[Linear Path]
+>   C(Graph of Thoughts) --> D[Cycles & Merges]
+> ```
+
+
+> [!abstract] **Diagram 3 — Thought Node Dynamics**
+> *Observe how thought nodes can be merged and revisited in the Graph of Thoughts framework.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A[Initial Thought]
+>   A --> B[Merge with New Insight]
+>   B --> C[Revisit Previous Node]
+>   C --> D[Final Synthesis]
+> ```
 
 # Graph of Thoughts
 

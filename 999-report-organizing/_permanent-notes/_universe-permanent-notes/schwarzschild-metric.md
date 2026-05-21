@@ -18,7 +18,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - schwarzschild-metric-synthetic-seed-2026-05-14
@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schwarzschild Metric Applications**
+> *Identify the three key applications of the Schwarzschild metric.*
+>
+> ```mermaid
+> graph TD
+>   A[Mercury's Perihelion Precession] --> B[Light Bending]
+>   B --> C[Black Hole Event Horizons]
+> ```
+
+
+> [!abstract] **Diagram 2 — Coordinate vs Physical Singularities**
+> *Distinguish between coordinate and physical singularities in the Schwarzschild metric.*
+>
+> ```mermaid
+> graph TD
+>   A[Coordinate Singularity] --> B[Fake]
+>   C[Physical Singularity] --> D[Real]
+> ```
+
+
+> [!abstract] **Diagram 3 — Static vs Dynamic Spacetime**
+> *Compare static and dynamic spacetimes in the context of Schwarzschild metric.*
+>
+> ```mermaid
+> graph TD
+>   A[Schwarzschild Metric] --> B[Static]
+>   C[Vaidya Metric/Perturbative Approaches] --> D[Dynamic]
+> ```
 
 # Schwarzschild Metric
 

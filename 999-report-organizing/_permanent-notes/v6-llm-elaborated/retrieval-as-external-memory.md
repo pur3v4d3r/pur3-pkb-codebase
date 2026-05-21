@@ -1,14 +1,13 @@
 ---
-title: "Retrieval as External Memory"
+title: Retrieval as External Memory
 aliases:
-  - "Retrieval as External Memory"
-  - "retrieval-based memory"
-  - "RAG as memory"
-  - "external knowledge retrieval"
+  - Retrieval as External Memory
+  - retrieval-based memory
+  - RAG as memory
+  - external knowledge retrieval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - llm-architecture
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "retrieval-as-external-memory-synthetic-seed-2026-05-21"
+  - retrieval-as-external-memory-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Context Management"
-
+parent-concept: LLM Context Management
 related:
-  - "[[Episodic Memory in Agents]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Episodic Memory in Agents]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Episodic Memory in Agents]]"
+  - '[[Episodic Memory in Agents]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Retrieval Process Flow**
+> *Follow the flow from query to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[External Memory]
+>   B --> C[Integrate Content]
+>   C --> D[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Management Comparison**
+> *Compare parametric LLMs with retrieval-based systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Parametric LLM]
+>   B[Retrieval-Based System]
+>   A -->|Static Parameters| C[Frozen Knowledge]
+>   B -->|Dynamic Retrieval| D[Updatable Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples**
+> *Identify applications where retrieval as external memory is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Integrate Up-to-Date KB]
+>   C[Customer Service Chatbots] --> D[Access Latest Info]
+> ```
 
 # Retrieval as External Memory
 

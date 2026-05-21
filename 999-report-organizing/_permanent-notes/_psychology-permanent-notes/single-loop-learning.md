@@ -17,7 +17,7 @@ subdomains:
   - systems-thinking
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - single-loop-learning-synthetic-seed-2026-05-01
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Single-Loop Learning Process Flow**
+> *Follow the steps from error detection to adjustment within existing frameworks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Error/Gap Detection] --> B(Discrepancy Identification)
+>   B --> C(Action Adjustment Within Frameworks)
+>   C --> D(Implementation Without Altering Goals)
+> ```
+
+
+> [!abstract] **Diagram 2 — Single-Loop vs Double-Loop Learning Scope**
+> *Compare the scope of Single-Loop and Double-Loop learning in addressing underlying goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Single-Loop]
+>   B[Double-Loop]
+>   A -->|Adjust Actions Within Frameworks| C[No Change to Goals/Values]
+>   B -->|Revising Governing Variables| D[Change Goals/Values]
+> ```
+
+
+> [!abstract] **Diagram 3 — Single-Loop Learning Applications Overview**
+> *Identify the various contexts where Single-Loop Learning is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Refine Teaching Methods|
+>   B[Business Operations] -->|Adjust Strategies/Processes|
+>   C[Healthcare] -->|Modify Treatment Protocols|
+>   D[MOOCs] -->|Enhance Content Delivery Based on Data
+> ```
 
 # Single-Loop Learning
 

@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19
@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Traditional vs Cargo-Cult Learning Trajectories**
+> *Compare the traditional understanding-first approach with the intent-code-understanding cycle.*
+>
+> ```mermaid
+> graph TD
+>   A[Understand] --> B[Implement]
+>   C[Intend] --> D[Code]
+>   D --> E[Understand]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cargo-Cult Coding Mechanism Flow**
+> *Follow the flow from initial code generation to understanding through iterative modification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intend] --> B[Generate]
+>   B --> C[Modify]
+>   C --> D[Understand]
+> ```
+
+
+> [!abstract] **Diagram 3 — Documentation Dependency Loop**
+> *Trace the loop between AI-generated code and external documentation without deep conceptual understanding.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Dev as Developer
+>   participant AI as AI Tool
+>   participant Doc as Documentation
+>   Dev->>AI: Generate Code
+>   AI-->>Dev: Generated Code
+>   Dev->>Doc: Refer to Docs
+>   Doc-->>Dev: Explanation
+>   Dev->>AI: Modify Code
+> ```
 
 # Cargo-Cult Coding
 

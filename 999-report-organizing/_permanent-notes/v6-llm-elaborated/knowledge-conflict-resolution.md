@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - knowledge-conflict-resolution-synthetic-seed-2026-05-20
@@ -70,8 +70,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Knowledge Conflict Resolution Process Flow**
+> *Follow the flow from input to output, noting decision points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Contextual Check]
+>   B -->|Yes| C[Update Parametric]
+>   B -->|No| D[Prioritize Contextual]
+>   C --> E[Output]
+>   D --> F[Flag Suspicious]
+>   F --> G[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Parametric vs Contextual Knowledge Distinction**
+> *Compare the reliability and recency of parametric versus contextual knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Parametric Knowledge] -->|Reliable but Outdated| B[Training Data]
+>   C[Contextual Knowledge] -->|Current but Potentially Erroneous| D[External Sources]
+> ```
+
+
+> [!abstract] **Diagram 3 — Type I vs Type II Errors in Conflict Resolution**
+> *Identify the consequences of false positives and negatives.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TypeI: False Positive
+>   TypeI -->|Incorrectly Prioritize Contextual| Error1
+>   [*] --> TypeII: False Negative
+>   TypeII -->|Fail to Update Parametric| Error2
+> ```
 
 # Knowledge Conflict Resolution
 

@@ -1,13 +1,12 @@
 ---
-title: "Toolformer"
+title: Toolformer
 aliases:
-  - "Toolformer"
-  - "Toolformer model"
-  - "tool-using LLM"
+  - Toolformer
+  - Toolformer model
+  - tool-using LLM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,115 @@ subdomains:
   - self-supervised-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "toolformer-synthetic-seed-2026-05-20"
+  - toolformer-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Large Language Models]]"
-  - "[[Self-Supervised Learning]]"
+  - '[[Large Language Models]]'
+  - '[[Self-Supervised Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Large Language Models]]"
+  - '[[Large Language Models]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Self-Supervised Learning]]"
+  - '[[Self-Supervised Learning]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Toolformer Process Flow**
+> *Follow the sequence from generation to retention.*
+>
+> ```mermaid
+> graph TD
+>   A[Generation]
+>   B[Evaluation]
+>   C[Retention]
+>   A --> B
+>   B -->|If useful| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Tool Call Evaluation Criteria**
+> *Identify the criteria used to evaluate tool calls.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Clues]
+>   B[Existing Knowledge]
+>   C[Perplexity Reduction]
+>   D[Relevance]
+>   E[Utility]
+>   F[Retain]
+>   G[Discard]
+>   A -->|Generate Calls| B
+>   B -->|Evaluate Perplexity| C
+>   C -->|Is Useful?| D
+>   D -->|Yes| F
+>   D -->|No| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Toolformer Application Scenarios**
+> *Compare the applications in instructional design and customer service.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service]
+>   C[Integrate Tools]
+>   D[Enhance Learning]
+>   E[Improve Efficiency]
+>   F[Interactive Materials]
+>   G[Accurate Responses]
+>   H[Immediate Feedback]
+>   I[Timely Information]
+>   A -->|C| D
+>   B -->|C| E
+>   D -->|F|
+>   E -->|G & H|
+>   C -->|Integrate External Tools|
+>   F -->|Interactive and Relevant|
+>   G -->|Accurate Responses|
+>   H -->|Immediate Feedback|
+>   I -->|Timely Information
+> ```
 
 # Toolformer
 

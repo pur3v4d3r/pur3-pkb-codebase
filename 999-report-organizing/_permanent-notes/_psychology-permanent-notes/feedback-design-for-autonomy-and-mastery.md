@@ -18,7 +18,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - feedback-design-for-autonomy-and-mastery-synthetic-seed-2026-04-24
@@ -67,8 +67,76 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Feedback Design Components**
+> *Identify the key components of feedback design.*
+>
+> ```mermaid
+> graph TD
+>   A[Competence]
+>   B[Autonomy]
+>   C[Mastery Focus]
+>   D[Work-focused Feedback]
+>   E[Progress Information]
+>   F[Suggestions as Options]
+>   G[Learner Perspective Acknowledgment]
+>   A -->|Supports| D
+>   B -->|Respects| F
+>   C -->|Encourages| E
+>   D -->|Clear Criteria|
+>   E -->|Against Task|
+>   F -->|As Choices|
+>   G -->|Valued Learner
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Mechanism Flow**
+> *Follow the flow of feedback from initial input to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Work]
+>   B[Specific Feedback on Work]
+>   C[Clear Progress Info Against Criteria]
+>   D[Suggestions Framed as Options]
+>   E[Acknowledge Learner Perspective]
+>   F[Empowerment and Ownership]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Types Comparison**
+> *Compare feedback types based on their impact.*
+>
+> ```mermaid
+> graph TD
+>   A[Controlling Feedback]
+>   B[Evaluative-Controlling]
+>   C[Autonomy and Mastery Focus]
+>   D[Intrinsic Motivation]
+>   E[Better Learning Outcomes]
+>   F[Worse Well-being]
+>   G[Better Well-being]
+>   H[Enhanced Engagement]
+>   A -->|Negative Impact| B
+>   B -->|Decreases| D
+>   B -->|Worsens| F
+>   C -->|Positive Impact| E
+>   C -->|Improves| G
+>   C -->|Increases| H
+> ```
 
 # Feedback Design for Autonomy and Mastery
 

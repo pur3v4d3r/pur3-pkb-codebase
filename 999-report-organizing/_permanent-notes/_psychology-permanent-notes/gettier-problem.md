@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gettier-problem-synthetic-seed-2026-04-26
@@ -69,8 +69,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gettier Problem Overview**
+> *Identify the components of justified true belief and how they fail to constitute knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Justified True Belief]
+>   B[Knowledge]
+>   C[Luck]
+>   D[False Lemma]
+>   E[Circumstantial Evidence]
+>   F[Rote Memorization]
+>   G[Deep Understanding]
+>   A -->|can fail to be| B
+>   A -.-> C
+>   A -.-> D
+>   A -.-> E
+>   A -.-> F
+>   B --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Gettier Example Mechanism**
+> *Follow the flow of justification and truth in a Gettier example.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief]
+>   B[Justification]
+>   C[Truth]
+>   D[Luck]
+>   E[Knowledge]
+>   A -->|via| B
+>   B -->|is| C
+>   A -.-> D
+>   A -.-> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Gettier Problem**
+> *See how the Gettier Problem applies in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Reasoning]
+>   C[Scientific Research]
+>   D[Spaced Retrieval MOOCs]
+>   E[Ensuring Deep Understanding]
+>   F[Rigorous Evidence and Logical Reasoning]
+>   G[Avoid Accidental Correlations or False Lemmas]
+>   H[Mere Recall Does Not Guarantee Knowledge]
+>   A -->|Highlights Importance of| E
+>   B -->|Underlines Need for| F
+>   C -->|Caution Against Accepting Hypotheses Based on| G
+>   D -->|Suggests Merely Recalling Facts Correctly Does Not Ensure| H
+> ```
 
 # Gettier Problem
 

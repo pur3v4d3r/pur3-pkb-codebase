@@ -1,14 +1,13 @@
 ---
-title: "Schema Activation in Prompts"
+title: Schema Activation in Prompts
 aliases:
-  - "Schema Activation in Prompts"
-  - "schema priming in prompts"
-  - "frame activation"
-  - "cognitive schema prompting"
+  - Schema Activation in Prompts
+  - schema priming in prompts
+  - frame activation
+  - cognitive schema prompting
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,87 @@ subdomains:
   - few-shot-prompting
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "schema-activation-in-prompts-synthetic-seed-2026-05-20"
+  - schema-activation-in-prompts-synthetic-seed-2026-05-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Semantic Priming Effects]]"
-  - "[[Schema Theory]]"
+  - '[[Semantic Priming Effects]]'
+  - '[[Schema Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Semantic Priming Effects]]"
+  - '[[Semantic Priming Effects]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Schema Theory]]"
+  - '[[Schema Theory]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Activation Process Flow**
+> *Follow the flow from contextual cues to schema activation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Contextual Cues] --> B[Match Schema]
+>   B --> C[Activate Schema]
+>   C --> D[Enhanced Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Activation vs General Priming**
+> *Compare the focus of schema activation and general priming techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema Activation] -->|Structured Mental Schemas| B[Specific Knowledge]
+>   C[General Priming] -->|Broader Cognitive Processes| D[Broad Influence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Role Prompts vs Few-shot Examples**
+> *Understand the difference between role prompts and few-shot examples.*
+>
+> ```mermaid
+> graph TD
+>   A[Role Prompts] -->|Frame Tasks as Expert Role| B[Activate Schema]
+>   C[Few-shot Examples] -->|Provide Concrete Instances| D[Prime for Similar Outputs]
+> ```
 
 # Schema Activation in Prompts
 

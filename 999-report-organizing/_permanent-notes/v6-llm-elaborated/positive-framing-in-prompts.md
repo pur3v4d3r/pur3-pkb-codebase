@@ -1,13 +1,12 @@
 ---
-title: "Positive Framing in Prompts"
+title: Positive Framing in Prompts
 aliases:
-  - "Positive Framing in Prompts"
-  - "positive instruction framing"
-  - "affirmative prompting"
+  - Positive Framing in Prompts
+  - positive instruction framing
+  - affirmative prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,106 @@ subdomains:
   - cognitive-linguistics
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "positive-framing-in-prompts-synthetic-seed-2026-05-20"
+  - positive-framing-in-prompts-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Negative Prompting]]"
-  - "[[Instruction Following]]"
+  - '[[Negative Prompting]]'
+  - '[[Instruction Following]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Negative Prompting]]"
+  - '[[Negative Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Following]]"
+  - '[[Instruction Following]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Positive Framing vs Negative Prompting**
+> *Compare the focus of positive and negative framing.*
+>
+> ```mermaid
+> graph TD
+>   A[Desired Behavior]
+>   B[Prohibited Behavior]
+>   C(Positive Framing)
+>   D(Negative Prompting)
+>   C -->|Directly Specify| A
+>   D -->|Specify Avoidance| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Reduction**
+> *Understand how positive framing reduces cognitive load.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Activation]
+>   B[Inhibition]
+>   C[Positive Framing]
+>   D[Cognitive Load]
+>   E[Desired Behavior]
+>   A -->|Activate Unwanted|
+>   B
+>   B -->|Cognitively Taxing|
+>   D
+>   C -->|Directly Activate|
+>   E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications**
+> *See examples of positive framing in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Safety-Critical Systems]
+>   C(Positive Framing)
+>   D(Affirmative Instructions)
+>   E(Direct Actions)
+>   A -->|Minimize Confusion|
+>   D
+>   B -->|Reduce Ambiguity|
+>   E
+> ```
 
 # Positive Framing in Prompts
 

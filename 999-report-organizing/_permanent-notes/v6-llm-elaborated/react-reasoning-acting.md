@@ -1,14 +1,13 @@
 ---
-title: "ReAct Reasoning Acting"
+title: ReAct Reasoning Acting
 aliases:
-  - "ReAct Reasoning Acting"
-  - "ReAct"
-  - "reason-then-act"
-  - "synergised reasoning and acting"
+  - ReAct Reasoning Acting
+  - ReAct
+  - reason-then-act
+  - synergised reasoning and acting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,93 @@ subdomains:
   - reasoning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "react-reasoning-acting-synthetic-seed-2026-05-20"
+  - react-reasoning-acting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Plan-and-Execute Agents]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Plan-and-Execute Agents]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Plan-and-Execute Agents]]"
+  - '[[Plan-and-Execute Agents]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — ReAct Process Flow**
+> *Follow the sequence from reasoning to action and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reasoning Step] --> B[Action Call]
+>   B --> C[Result Interpretation]
+>   C --> D[Next Reasoning Step]
+> ```
+
+
+> [!abstract] **Diagram 2 — ReAct vs Chain-of-Thought**
+> *Compare the integration of actions in ReAct with pure reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain-of-Thought] --> B[Reasoning]
+>   C[ReAct] --> D[Reasoning]
+>   D --> E[Action Call]
+>   E --> F[Result Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios**
+> *Identify the steps in instructional design and customer service.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Reasoning]
+>   B --> C[Action Call]
+>   C --> D[Result Interpretation]
+>   E[Customer Service] --> F[Reasoning]
+>   F --> G[Action Call]
+>   G --> H[Result Interpretation]
+> ```
 
 # ReAct Reasoning Acting
 

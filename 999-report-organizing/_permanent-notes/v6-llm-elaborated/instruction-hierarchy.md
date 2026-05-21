@@ -1,14 +1,13 @@
 ---
-title: "Instruction Hierarchy"
+title: Instruction Hierarchy
 aliases:
-  - "Instruction Hierarchy"
-  - "privilege escalation in LLMs"
-  - "instruction priority ordering"
-  - "system prompt authority"
+  - Instruction Hierarchy
+  - privilege escalation in LLMs
+  - instruction priority ordering
+  - system prompt authority
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "instruction-hierarchy-synthetic-seed-2026-05-21"
+  - instruction-hierarchy-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Model Security"
-
+parent-concept: Large Language Model Security
 related:
-  - "[[Prompt Injection Attacks]]"
-  - "[[System Prompt Design]]"
+  - '[[Prompt Injection Attacks]]'
+  - '[[System Prompt Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prompt Injection Attacks]]"
+  - '[[Prompt Injection Attacks]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[System Prompt Design]]"
+  - '[[System Prompt Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Instruction Hierarchy Overview**
+> *Identify the trust levels assigned to different instruction sources.*
+>
+> ```mermaid
+> graph TD
+>   A[System Prompts] -->|High Privilege| B[Model Behavior]
+>   C[User Messages] -->|Low Privilege| B
+>   D[Tool Outputs] -->|Medium Privilege| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Flow Process**
+> *Follow the flow of instructions from input to model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Instruction]
+>   A --> B[System Validation]
+>   B --> C[Hierarchy Check]
+>   C --> D[Model Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Security vs Customization Trade-off**
+> *Analyze the balance between security and user customization flexibility.*
+>
+> ```mermaid
+> graph TD
+>   A[Strict Hierarchy] -->|Enhanced Security| B[System Integrity]
+>   C[Permissive Hierarchy] -->|User Flexibility| D[Security Risk]
+> ```
 
 # Instruction Hierarchy
 

@@ -1,14 +1,13 @@
 ---
-title: "Prompt Regression Testing"
+title: Prompt Regression Testing
 aliases:
-  - "Prompt Regression Testing"
-  - "prompt test suites"
-  - "prompt quality regression"
-  - "prompt evaluation CI"
+  - Prompt Regression Testing
+  - prompt test suites
+  - prompt quality regression
+  - prompt evaluation CI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,89 @@ subdomains:
   - mlops
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-regression-testing-synthetic-seed-2026-05-20"
+  - prompt-regression-testing-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[A/B Testing Prompts]]"
-  - "[[Prompt Monitoring and Alerting]]"
-  - "[[Prompt Versioning]]"
+  - '[[A/B Testing Prompts]]'
+  - '[[Prompt Monitoring and Alerting]]'
+  - '[[Prompt Versioning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[A/B Testing Prompts]]"
+  - '[[A/B Testing Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Monitoring and Alerting]]"
+  - '[[Prompt Monitoring and Alerting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Prompt Versioning]]"
+  - '[[Prompt Versioning]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Regression Testing Process Flow**
+> *Follow the flow from prompt changes to test results.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Changes in Prompt or Model] --> B[Test Suite]
+>   B --> C[Evaluation Against Baseline]
+>   C --> D[Identify Regressions]
+>   D --> E[Take Corrective Actions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Regression Testing vs General Software RT**
+> *Compare the focus areas of both types of testing.*
+>
+> ```mermaid
+> graph TD
+>   A[General Software RT] -->|System Integration| B[System Functionality]
+>   C[Prompt Regression Testing] -->|AI Model Contexts| D[Prompt Inputs/Outputs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Regression vs A/B Testing in AI**
+> *Understand the difference between regression and A/B testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Regression Testing] -->|Maintain Quality Against Changes|
+>   B[A/B Testing] -->|Compare Different Versions for User Preference|
+> ```
 
 # Prompt Regression Testing
 

@@ -18,7 +18,7 @@ subdomains:
   - neuroscience
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - spatial-reference-frames-synthetic-seed-2026-05-01
@@ -65,8 +65,34 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Spatial Reference Frames Overview**
+> *Identify the three main types of spatial reference frames.*
+>
+> ```mermaid
+> graph TD
+>   A["Egocentric"] -->|Relative to observer's body|
+>   B["Allocentric"] -->|Based on external landmarks|
+>   C["Intrinsic"] -->|Object inherent features|
+> ```
+
+
+> [!abstract] **Diagram 2 — Neural Correlates of Reference Frames**
+> *Understand the neural regions associated with each reference frame.*
+>
+> ```mermaid
+> graph TD
+>   A["Egocentric"] -->|Parietal Cortex|
+>   B["Allocentric"] -->|Hippocampus & Entorhinal Cortex|
+> ```
 
 # Spatial Reference Frames
 

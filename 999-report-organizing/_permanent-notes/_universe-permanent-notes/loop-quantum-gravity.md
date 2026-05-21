@@ -17,7 +17,7 @@ subdomains:
   - quantum-gravity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - loop-quantum-gravity-synthetic-seed-2026-05-14
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Spin Network Representation**
+> *Identify the nodes representing quantum states and edges as spatial relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Node] --> B[Edge]
+>   C[Node] --> D[Edge]
+>   E[Node] --> F[Edge]
+> ```
+
+
+> [!abstract] **Diagram 2 — Non-Perturbative vs Perturbative Approaches**
+> *Compare the background spacetime dependency of perturbative methods with LQG's non-perturbative approach.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Background Spacetime] --> B[Perturbative Methods]
+>   C[No Background Spacetime] --> D[LQG Non-Perturbative]
+> ```
+
+
+> [!abstract] **Diagram 3 — Quantum Geometry Spectra**
+> *Observe the discrete spectra of areas and volumes at Planck scale.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> DiscreteSpectra
+>   DiscreteSpectra --> Areas
+>   DiscreteSpectra --> Volumes
+> ```
 
 # Loop Quantum Gravity
 

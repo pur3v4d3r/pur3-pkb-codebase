@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - learning-theories-synthetic-seed-2026-04-24
@@ -70,8 +70,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Learning Theories Overview**
+> *Identify the main theories and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Behaviorism] --> B[Cognitivism]
+>   C[Constructivism] --> D[Social-Cognitive Theory]
+>   E[Situated Learning] --> F[Connectivism]
+> ```
+
+
+> [!abstract] **Diagram 2 — Behaviorist Mechanisms**
+> *Understand the principles of classical and operant conditioning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Classical Conditioning]
+>   B[Operant Conditioning]
+>   C[Immediate Feedback]
+>   D[Reward Systems]
+>   A -->|Associates Stimuli & Responses| C
+>   B -->|Reinforces Behaviors| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitivist Mechanisms**
+> *Explore the mental processes involved in learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Perception]
+>   B[Memory]
+>   C[Problem-Solving]
+>   D[Cognitive Structures]
+>   E[Schema Evolution]
+>   A -->|Input Processing| B
+>   B -->|Storage & Retrieval| C
+>   C -->|Application of Knowledge| D
+>   D -->|Refinement Over Time| E
+> ```
 
 # Learning Theories
 

@@ -18,7 +18,7 @@ subdomains:
   - semantics
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - prototype-theory-of-concepts-synthetic-seed-2026-04-26
@@ -67,8 +67,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Conceptual Hierarchy of Prototype Theory**
+> *Follow the hierarchy from general to specific aspects.*
+>
+> ```mermaid
+> graph TD
+>   A[Category]
+>   B[Prototype]
+>   C[Typicality]
+>   D[Processing]
+>   E[Membership]
+>   F[Information Organization]
+>   G[Cognitive Architecture]
+>   A -->|Includes| G
+>   G -->|Focuses On| F
+>   F -->|Involves| B
+>   B -->|Determines| C
+>   C -->|Affects| D
+>   D -->|Impacts| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Typicality Effects in Bird Category**
+> *Compare typicality ratings for different birds.*
+>
+> ```mermaid
+> graph TD
+>   A[Robin]
+>   B[Sparrow]
+>   C[Penguin]
+>   D[Ostrich]
+>   A -->|Most Typical| "Bird"
+>   B -->|More Typical Than| C
+>   B -->|Less Typical Than| A
+>   C -->|Least Typical| "Bird"
+>   D -->|Intermediate Typicality| "Bird"
+> ```
+
+
+> [!abstract] **Diagram 3 — Prototype-Based Learning Process**
+> *Follow the flow from input to output in learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Processing]
+>   C[Output]
+>   D[Typical Example]
+>   E[Categorization]
+>   F[Recognition]
+>   A -->|Presenting| D
+>   D -->|Evaluating Against| B
+>   B -->|Forming Prototype| E
+>   E -->|Facilitating| F
+> ```
 
 # Prototype Theory of Concepts
 

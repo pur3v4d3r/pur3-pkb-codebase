@@ -1,14 +1,13 @@
 ---
-title: "Test-Driven Prompting"
+title: Test-Driven Prompting
 aliases:
-  - "Test-Driven Prompting"
-  - "test-first code generation"
-  - "TDD prompting"
-  - "test-driven LLM coding"
+  - Test-Driven Prompting
+  - test-first code generation
+  - TDD prompting
+  - test-driven LLM coding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - software-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "test-driven-prompting-synthetic-seed-2026-05-20"
+  - test-driven-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Code-Prompting Strategies"
-
+parent-concept: Code-Prompting Strategies
 related:
-  - "[[Execution Feedback Prompting]]"
-  - "[[Docstring-Guided Generation]]"
+  - '[[Execution Feedback Prompting]]'
+  - '[[Docstring-Guided Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Execution Feedback Prompting]]"
+  - '[[Execution Feedback Prompting]]'
 contrasts-with:
-  - "[[Docstring-Guided Generation]]"
+  - '[[Docstring-Guided Generation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Test-Driven Prompting Process Flow**
+> *Follow the iterative refinement cycle from test suite to function implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Test Suite]
+>   B --> C[Generate Code]
+>   C --> D[Execute Tests]
+>   D -->|Failures| E[Rewrite Code]
+>   E --> C
+>   D -->|Passes| F[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Prompting Strategies**
+> *Compare Test-Driven Prompting with other code generation methods based on their feedback mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Test-Driven Prompting] -->|Executable Tests| B[Refine Code]
+>   C[Docstring-Guided Generation] -->|Natural Language Specs| D[Generate Code]
+>   E[Execution Feedback Prompting] -->|Less Structured Input| F[Rewrite Code]
+> ```
+
+
+> [!abstract] **Diagram 3 — Test-Driven Prompting Mechanism Overview**
+> *Trace the cyclical process from initial code generation to final test suite satisfaction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Function] --> B[Test Suite]
+>   B -->|Failures| C[Rewrite Code]
+>   C --> B
+>   B -->|Passes| D[Final Implementation]
+> ```
 
 # Test-Driven Prompting
 

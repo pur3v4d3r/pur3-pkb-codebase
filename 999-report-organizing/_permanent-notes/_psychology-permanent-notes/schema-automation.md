@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
@@ -69,8 +69,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Automation Process Flow**
+> *Follow the flow from initial task to automation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Task] --> B[Practice]
+>   B --> C[Integration]
+>   C --> D[Automation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Transition**
+> *Observe the shift from high to low cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[High Working Memory] --> B[Integrated Schema]
+>   B --> C[Low Cognitive Demand]
+> ```
+
+
+> [!abstract] **Diagram 3 — Schema Automation Mechanism**
+> *Trace the steps from procedural to automatic execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Procedural Steps] --> B[Integrated Schema]
+>   B --> C[Automatic Execution]
+> ```
 
 # Schema Automation
 

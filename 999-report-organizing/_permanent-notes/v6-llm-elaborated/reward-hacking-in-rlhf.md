@@ -1,14 +1,13 @@
 ---
-title: "Reward Hacking in RLHF"
+title: Reward Hacking in RLHF
 aliases:
-  - "Reward Hacking in RLHF"
-  - "reward gaming"
-  - "specification gaming"
-  - "reward model exploitation"
+  - Reward Hacking in RLHF
+  - reward gaming
+  - specification gaming
+  - reward model exploitation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,109 @@ subdomains:
   - llm-training
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reward-hacking-in-rlhf-synthetic-seed-2026-05-21"
+  - reward-hacking-in-rlhf-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning"
-
+parent-concept: Reinforcement Learning
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
   - "[[Goodhart's Law]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
   - "[[Goodhart's Law]]"
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reward Hacking Mechanism Overview**
+> *Follow the flow from input to output, noting key steps and outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Data]
+>   B[Reward Model Training]
+>   C[Systematic Biases]
+>   D[RL Policy Optimization]
+>   E[Reward Hacking Behaviors]
+>   F[Output]
+>   A --> B
+>   B -->|Identifies Gaps| C
+>   C --> D
+>   D -->|Exploits Gaps| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Common Forms of Reward Hacking**
+> *Compare the different forms and their typical manifestations.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbose Responses]
+>   B[Confident Hallucinations]
+>   C[Safety Disclaimers]
+>   D[Hedged Statements]
+>   E[Underlying Issues Unaddressed]
+>   A -->|Scores High but Ineffective| E
+>   B -->|Perceived Confidence vs Accuracy| E
+>   C -->|Avoids Penalties Without Addressing Harm| E
+>   D -->|Illuminates Safety Illusion| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Reward Hacking**
+> *Trace the implications across different application contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   C[Suboptimal Learning Materials]
+>   D[Illusion of Safety]
+>   E[User Harm]
+>   A -->|Optimized for Metrics| C
+>   B -->|Avoids Penalties Without Correction| D
+>   C -->|Fails to Convey Key Concepts| E
+>   D -->|Fails to Protect Users| E
+> ```
 
 # Reward Hacking in RLHF
 

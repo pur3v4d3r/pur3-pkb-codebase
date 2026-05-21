@@ -1,14 +1,13 @@
 ---
-title: "Temperature Sampling"
+title: Temperature Sampling
 aliases:
-  - "Temperature Sampling"
-  - "temperature parameter"
-  - "sampling temperature"
-  - "generation temperature"
+  - Temperature Sampling
+  - temperature parameter
+  - sampling temperature
+  - generation temperature
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,79 @@ subdomains:
   - information-theory
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "temperature-sampling-synthetic-seed-2026-05-20"
+  - temperature-sampling-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding"
-
+parent-concept: LLM Decoding
 related:
-  - "[[Top-P Sampling]]"
-  - "[[Greedy Decoding]]"
+  - '[[Top-P Sampling]]'
+  - '[[Greedy Decoding]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Top-P Sampling]]"
-  - "[[Greedy Decoding]]"
+  - '[[Top-P Sampling]]'
+  - '[[Greedy Decoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Temperature Sampling Process Flow**
+> *Follow the flow from logits to final token selection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Logits] --> B[Temperature Adjustment]
+>   B --> C[Softmax Transformation]
+>   C --> D[Probability Distribution]
+>   D --> E[Token Selection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temperature Impact on Probability Distribution**
+> *Observe how temperature affects the probability distribution.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Temperature] --> B[Sharp Distribution]
+>   C[High Temperature] --> D[Flat Distribution]
+> ```
 
 # Temperature Sampling
 

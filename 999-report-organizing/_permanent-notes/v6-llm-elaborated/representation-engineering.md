@@ -1,14 +1,13 @@
 ---
-title: "Representation Engineering"
+title: Representation Engineering
 aliases:
-  - "Representation Engineering"
-  - "RepE"
-  - "linear representation control"
-  - "internal representation manipulation"
+  - Representation Engineering
+  - RepE
+  - linear representation control
+  - internal representation manipulation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,58 +20,112 @@ subdomains:
   - llm-internals
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "representation-engineering-synthetic-seed-2026-05-20"
+  - representation-engineering-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Activation Steering]]"
-  - "[[Superposition Hypothesis]]"
-  - "[[Constitutional AI Principles]]"
-  - "[[Mechanistic Interpretability]]"
+  - '[[Activation Steering]]'
+  - '[[Superposition Hypothesis]]'
+  - '[[Constitutional AI Principles]]'
+  - '[[Mechanistic Interpretability]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Activation Steering]]"
-  - "[[Superposition Hypothesis]]"
+  - '[[Activation Steering]]'
+  - '[[Superposition Hypothesis]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Constitutional AI Principles]]"
+  - '[[Constitutional AI Principles]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Mechanistic Interpretability]]"
+  - '[[Mechanistic Interpretability]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Concept Identification Process**
+> *Follow the steps from probing to control vectors.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Probing]
+>   B[Contrast Pairs]
+>   C[Reading Vectors]
+>   D[Control Vectors]
+>   A -->|Identify Patterns| B
+>   B -->|Refine Directions| C
+>   C -->|Measure Attributes| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Representation Engineering Workflow**
+> *See the flow from concept identification to application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Concepts]
+>   B[Reading Vectors]
+>   C[Control Vectors]
+>   D[Instructional Design]
+>   E[Ethical Alignment]
+>   F[Model Auditing]
+>   A -->|Probing & Contrast Pairs| B
+>   B -->|Measure Attributes| C
+>   C -->|Modify Behavior| D
+>   C -->|Align Ethically| E
+>   C -->|Audit Compliance| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Concept Directions in Residual Stream**
+> *Trace the directions identified through linear probing.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A : Start
+>   A[Linear Probing]
+>   A --> B : Identify Patterns
+>   B[Contrast Pairs]
+>   B --> C : Refine Directions
+>   C[Concept Direction]
+>   C --> D : Reading Vector
+>   D[Measure Attributes]
+>   D --> E : Control Vector
+>   E[Modify Behavior]
+>   E --> F : End
+> ```
 
 # Representation Engineering
 

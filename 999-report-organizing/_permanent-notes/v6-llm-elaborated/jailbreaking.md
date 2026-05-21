@@ -19,7 +19,7 @@ subdomains:
   - adversarial-prompting
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - jailbreaking-synthetic-seed-2026-05-20
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Jailbreaking Process Flow**
+> *Follow the steps from crafting prompts to bypassing safety measures.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Craft Adversarial Prompt] --> B[Determine Training Patterns]
+>   B --> C[Elicit Policy-Violating Output]
+>   C --> D[Bypass Safety Constraints]
+> ```
+
+
+> [!abstract] **Diagram 2 — Jailbreaking vs Benign Prompt Engineering**
+> *Compare the purposes and outcomes of jailbreaking versus benign prompt engineering.*
+>
+> ```mermaid
+> graph TD
+>   A[Manipulate Model Outputs] --> B[Jailbreaking]
+>   A --> C[Benign Prompt Engineering]
+>   B[Exploit Vulnerabilities for Unethical Ends] --> D[Ethical Concerns]
+>   C[Enhance Performance Within Ethical Boundaries] --> E[Improve Model Utility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Jailbreaking Mechanism Overview**
+> *Trace the mechanism from rephrasing requests to generating prohibited outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Rephrase Requests] --> B[Contextualize or Obfuscate]
+>   B --> C[Bypass Policy-Conditioned Refusals]
+>   C --> D[Generate Prohibited Outputs]
+> ```
 
 # Jailbreaking
 

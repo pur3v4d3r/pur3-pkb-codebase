@@ -1,15 +1,14 @@
 ---
-title: "Web Search-Augmented LLMs"
+title: Web Search-Augmented LLMs
 aliases:
-  - "Web Search-Augmented LLMs"
-  - "search-augmented LLMs"
-  - "web-grounded LLMs"
-  - "retrieval-augmented generation with web"
-  - "Bing-augmented LLMs"
+  - Web Search-Augmented LLMs
+  - search-augmented LLMs
+  - web-grounded LLMs
+  - retrieval-augmented generation with web
+  - Bing-augmented LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - rag
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "web-search-augmented-llms-synthetic-seed-2026-05-21"
+  - web-search-augmented-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Language Model Augmentation Techniques"
-
+parent-concept: Language Model Augmentation Techniques
 related:
-  - "[[Information Retrieval]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Information Retrieval]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[Information Retrieval]]"
+  - '[[Information Retrieval]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Web Search Mechanism Overview**
+> *Follow the flow from user input to final response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Query Generation]
+>   B --> C[Search Execution]
+>   C --> D[Result Integration]
+>   D --> E[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Process Flow of Web Search-Augmented LLMs**
+> *Trace the stages from query to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Query] --> B[Query Formulation]
+>   B --> C[Web Search]
+>   C --> D[Result Processing]
+>   D --> E[Integration into Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Sophisticated Implementation Stages**
+> *Identify the advanced stages of information retrieval and integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query Generation] --> B[Multistage Retrieval]
+>   B --> C[Source Selection & Ranking]
+>   C --> D[Citation Attribution]
+>   D --> E[Contradictory Source Reconciliation]
+> ```
 
 # Web Search-Augmented LLMs
 

@@ -1,13 +1,12 @@
 ---
-title: "Role Prompting"
+title: Role Prompting
 aliases:
-  - "Role Prompting"
-  - "role assignment"
-  - "role-based prompting"
+  - Role Prompting
+  - role assignment
+  - role-based prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,92 @@ subdomains:
   - llm-inference
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "role-prompting-synthetic-seed-2026-05-20"
+  - role-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[System-Prompt Design]]"
-  - "[[Persona Assignment]]"
+  - '[[System-Prompt Design]]'
+  - '[[Persona Assignment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[System-Prompt Design]]"
+  - '[[System-Prompt Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Persona Assignment]]"
+  - '[[Persona Assignment]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Role Prompting Process Flow**
+> *Follow the sequence from role assignment to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B(Role Assignment)
+>   B --> C(Model Response Generation)
+>   C --> D(Output)
+> ```
+
+
+> [!abstract] **Diagram 2 — Role Prompting vs Direct Command**
+> *Compare the two prompting techniques and their outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Command]
+>   B(Role Prompting)
+>   C[Output - Specific Instructions]
+>   D[Output - Role-Influenced]
+>   A -->|Explicit Instruction| C
+>   B -->|Role Assignment| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Role Prompting Applications**
+> *Identify the different applications of role prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Supportive Tutor|
+>   B(Content Generation) -->|Brand Ambassador|
+>   C[Ethical Considerations] -->|Medical Doctor|
+> ```
 
 # Role Prompting
 

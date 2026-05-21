@@ -18,7 +18,7 @@ subdomains:
   - sociology-of-science
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - fermi-paradox-synthetic-seed-2026-05-14
@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Drake Equation Factors**
+> *Follow the flow to understand factors influencing civilization count.*
+>
+> ```mermaid
+> graph TD
+>   A[Star Formation Rate] --> B[Fraction with Planets]
+>   B --> C[Fraction Habitable]
+>   C --> D[Lifespan of Civilizations]
+>   D --> E[Intelligent Life Likelihood]
+>   E --> F[Communication Technology]
+>   F --> G[Detection Probability]
+> ```
+
+
+> [!abstract] **Diagram 2 — Civilization Expansion Timeline**
+> *Trace the potential rapid expansion of civilizations over time.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> GalaxyFormation: Milky Way Forms
+>   GalaxyFormation --> StarBirths: Stars Form
+>   StarBirths --> HabitablePlanets: Planets Form
+>   HabitablePlanets --> LifeEmerges: Life Arises
+>   LifeEmerges --> IntelligenceDevelops: Intelligent Life Develops
+>   IntelligenceDevelops --> TechnologyAdvances: Technological Advancement
+>   TechnologyAdvances --> ExpansionBegins: Expansion Begins
+>   ExpansionBegins --> GalaxyColonized: Colonization Complete
+> ```
+
+
+> [!abstract] **Diagram 3 — SETI Research Methods**
+> *Explore various methods used in SETI to detect extraterrestrial signals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Radio Signals] --> B[Laser Beams]
+>   B --> C[Nanotechnology Beacons]
+>   C --> D[Biological Markers]
+>   D --> E[Gravitational Waves]
+> ```
 
 # Fermi Paradox
 

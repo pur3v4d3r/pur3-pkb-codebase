@@ -16,7 +16,7 @@ subdomains:
   - self-regulation
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - temptation-bundling-synthetic-seed-2026-04-25
@@ -67,8 +67,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Temptation Bundling Process Flow**
+> *Follow the sequence from temptation to should-do activity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Enjoyable Activity] -->|Contingent On|
+>   B[Necessary Task]
+>   B --> C[Tempered Indulgence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temptation Bundling Mechanism Overview**
+> *Identify the key components that make Temptation Bundling effective.*
+>
+> ```mermaid
+> graph TD
+>   A[Implementation Intentions]
+>   B[Commitment Devices]
+>   C[Hyperbolic Discounting]
+>   D[Presents Bias]
+>   E[Tempered Indulgence]
+>   F[Necessary Task]
+>   G[Enjoyable Activity]
+>   A -->|Creates Specific Plans|
+>   B
+>   B -->|External Constraints|
+>   C
+>   C -->|Immediate Gratification Preference|
+>   D
+>   D -->|Future Benefits Discounted|
+>   E
+>   E -->|Contingent On Necessary Task|
+>   F
+>   F -->|Prerequisite for Temptation|
+>   G
+> ```
+
+
+> [!abstract] **Diagram 3 — Temptation Bundling Applications**
+> *See how different scenarios apply the concept.*
+>
+> ```mermaid
+> graph TD
+>   A[Education]
+>   B[Personal Finance]
+>   C[Workplace Productivity]
+>   D[Health and Wellness]
+>   A -->|Pair Homework with Videos|
+>   B -->|Pair Spending with Bills|
+>   C -->|Pair Breaks with Tasks|
+>   D -->|Pair Exercise with Entertainment]
+> ```
 
 # Temptation Bundling
 

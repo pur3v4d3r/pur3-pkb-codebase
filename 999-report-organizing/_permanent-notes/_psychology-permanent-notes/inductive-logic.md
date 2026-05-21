@@ -18,7 +18,7 @@ subdomains:
   - statistics
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - inductive-logic-synthetic-seed-2026-04-24
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Bayesian Inference Process Flow**
+> *Follow the steps from prior to posterior probability.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Prior Probability]
+>   C[Likelihood Ratio]
+>   D[Bayes' Theorem]
+>   E[Posterior Probability]
+>   A --> B
+>   B -->|Evidence| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Inductive Logic Applications**
+> *Identify the fields where Bayesian inductive logic is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Medical Diagnosis]
+>   C[Financial Modeling]
+>   D[Bayesian Inference]
+>   D --> A
+>   D --> B
+>   D --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Bayesian Updating Mechanism**
+> *Trace the flow of probability updates with new evidence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Prior as P
+>   participant Likelihood as L
+>   participant Posterior as Po
+>   P->>L: Provide Initial Belief
+>   L-->>P: Calculate Support Ratio
+>   P->>Po: Update Probability
+>   Po-->>P: Reflect New Evidence
+> ```
 
 # Inductive Logic
 

@@ -19,7 +19,7 @@ subdomains:
   - memory-science
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - amygdala-and-learning-synthetic-seed-2026-04-26
@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Amygdala's Role in Memory Consolidation**
+> *Follow the flow from amygdala to hippocampus for memory enhancement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Emotionally Charged Event] --> B[Amygdala]
+>   B --> C[Cortisol/Norepinephrine Release]
+>   C --> D[Hippocampus]
+>   D --> E[Enhanced Memory Consolidation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Amygdala-Driven Stress Hormone Pathway**
+> *Trace the pathway from amygdala to hippocampus via entorhinal cortex.*
+>
+> ```mermaid
+> graph TD
+>   A[BLA] --> B[Entorhinal Cortex]
+>   B --> C[Hippocampus]
+>   A --> D[Beta-Adrenergic Receptors]
+>   D --> E[LTP Enhancement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Window for Amygdala Modulation**
+> *Identify the critical time frame for amygdala's influence on memory consolidation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Emotional_Arousal
+>   Emotional_Arousal --> Peak_Hormone_Release : 0-30 min
+>   Peak_Hormone_Release --> Neural_Communication : 30-60 min
+>   Neural_Communication --> Memory_Enhancement
+> ```
 
 # Amygdala and Learning
 

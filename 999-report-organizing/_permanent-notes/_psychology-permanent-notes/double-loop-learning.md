@@ -18,7 +18,7 @@ subdomains:
   - management
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - double-loop-learning-synthetic-seed-2026-04-24
@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Double Loop Learning Process Flow**
+> *Follow the steps from recognition to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Discrepancies] --> B[Reflective Thinking]
+>   B --> C[Revising Assumptions and Goals]
+>   C --> D[Develop New Strategies]
+>   D --> E[Implement and Monitor]
+> ```
+
+
+> [!abstract] **Diagram 2 — Double Loop vs Single Loop Learning**
+> *Compare the scope of Double Loop with Single Loop learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Double Loop Learning]
+>   B[Single Loop Learning]
+>   C[Revising Strategies]
+>   D[Revising Assumptions and Goals]
+>   A -->|Includes| C
+>   A -->|Includes| D
+>   B -->|Excludes| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Double Loop Learning Applications**
+> *Identify the areas where Double Loop Learning can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Double Loop]
+>   C[Product Development] --> D[Double Loop]
+>   E[Strategic Planning] --> F[Double Loop]
+> ```
 
 # Double Loop Learning
 

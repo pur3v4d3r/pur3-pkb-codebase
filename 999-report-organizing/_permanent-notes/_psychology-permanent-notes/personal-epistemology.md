@@ -18,7 +18,7 @@ subdomains:
   - metacognition
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - personal-epistemology-synthetic-seed-2026-04-26
@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Personal Epistemology Process Flow**
+> *Follow the stages of belief revision based on new evidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Evidence] --> B[Evaluation]
+>   B --> C[Alignment Check]
+>   C -->|Update Belief| D[Revised Commitment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Personal Epistemology vs Intellectual Taste**
+> *Compare the structured beliefs of Personal Epistemology with subjective preferences.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Epistemology] -->|Structured Beliefs| B[Evidence-Based]
+>   C[Intellectual Taste] -->|Subjective Preferences| D[Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Epistemic Stance Flexibility**
+> *Understand how Personal Epistemology allows for integrating diverse viewpoints.*
+>
+> ```mermaid
+> graph TD
+>   A[Core Beliefs] --> B[Integration]
+>   C[Diverse Viewpoints] -->|Alternative Methods| D[Fostering Openness]
+> ```
 
 # Personal Epistemology
 

@@ -18,7 +18,7 @@ subdomains:
   - cognitive-linguistics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - sapir-whorf-hypothesis-synthetic-seed-2026-04-25
@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Strong vs Weak Form**
+> *Compare the constraints of strong and weak forms.*
+>
+> ```mermaid
+> graph TD
+> 	A[Strong Form]
+> 	B[Weak Form]
+> 	A -->|Determines Thought| C[(Key-Claim)]
+> 	B -->|Biases Attention & Categorization| D[(Key-Claim)]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Influence**
+> *Identify the mechanisms through which language influences thought.*
+>
+> ```mermaid
+> graph TD
+> 	A[Language]
+> 	B[Categorization]
+> 	C[Spatial Reference Frames]
+> 	D[Color Categorization]
+> 	E[Object Categorization]
+> 	A --> B
+> 	A -->|Grammatical Gender| E
+> 	A -->|Describing Space| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications**
+> *Explore the applications of linguistic relativity in various fields.*
+>
+> ```mermaid
+> graph TD
+> 	A[Instructional Design]
+> 	B[Pycholinguistics Research]
+> 	C[Cross-Cultural Communication]
+> 	D[Enhance Learning Outcomes]
+> 	E[Test Cognitive Processes]
+> 	F[Avoid Misinterpretation]
+> 	A --> D
+> 	B --> E
+> 	C --> F
+> ```
 
 # Sapir Whorf Hypothesis
 

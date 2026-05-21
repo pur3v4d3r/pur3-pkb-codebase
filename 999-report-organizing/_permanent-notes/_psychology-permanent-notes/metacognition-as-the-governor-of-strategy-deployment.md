@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
@@ -68,8 +68,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Regulation Cycle**
+> *Follow the cycle from assessment to adjustment.*
+>
+> ```mermaid
+> graph TD
+>   A[Assessment]
+>   B[Strategy Selection]
+>   C[Deployment]
+>   D[Feedback]
+>   E[Adjustment]
+>   A -->|Monitor Comprehension| B
+>   B -->|Choose Strategy| C
+>   C -->|Apply Strategy| D
+>   D -->|Evaluate Feedback| E
+>   E -->|Make Adjustments| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Regulation Mechanism**
+> *Trace the steps from monitoring to adjustment.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitoring]
+>   B[Selection]
+>   C[Deployment]
+>   D[Adjustment]
+>   A -->|Assess Comprehension| B
+>   B -->|Choose Strategy| C
+>   C -->|Apply Strategy| D
+>   D -->|Evaluate Feedback| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Regulation in Practice**
+> *Identify the applications and their benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Educational Practices]
+>   C[Learning Environments]
+>   D[Enhanced Learning Outcomes]
+>   E[Foster Self-Regulation]
+>   F[Effective Knowledge Management]
+>   A -->|Worked Examples & Prompts| D
+>   B -->|Reflective Journals| E
+>   C -->|Adaptive Technologies| F
+> ```
 
 # Metacognitive Regulation
 

@@ -18,7 +18,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - quantum-field-theory-synthetic-seed-2026-05-14
@@ -65,8 +65,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — QFT Interaction Mechanism**
+> *Follow the flow of interactions mediated by gauge bosons.*
+>
+> ```mermaid
+> graph TD
+>   A[Particles] --> B[Gauge Boson Exchange]
+>   B --> C[Field Excitations]
+>   C --> D[Interactions]
+> ```
+
+
+> [!abstract] **Diagram 2 — QFT vs Classical Field Theories**
+> *Compare the key principles of QFT and classical field theories.*
+>
+> ```mermaid
+> classDiagram
+>   class QuantumFieldTheory{
+>     +QuantumMechanicsPrinciples
+>     +RelativisticFramework
+>     -Superposition
+>     -Uncertainty}
+>   class ClassicalFieldTheories{
+>     +DeterministicFields
+>     -QuantumMechanicsPrinciples
+>     -RelativisticFramework}
+> ```
+
+
+> [!abstract] **Diagram 3 — QFT Particle Creation and Annihilation**
+> *Trace the process of particle creation from field excitations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Field] --> B[Excitation]
+>   B --> C[Particle]
+>   C --> D[Annihilation]
+>   D --> E[Field]
+> ```
 
 # Quantum Field Theory
 

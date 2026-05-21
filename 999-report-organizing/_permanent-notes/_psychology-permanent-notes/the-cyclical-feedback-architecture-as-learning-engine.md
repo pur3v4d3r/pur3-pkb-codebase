@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cyclical Feedback Loop Overview**
+> *Follow the loop from Forethought to Adaptive Inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought] --> B[Performance]
+>   B --> C[Self-Reflection]
+>   C --> D[Adaptive Inference]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Cyclical Feedback Loop**
+> *Trace the flow from prediction to refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Forethought] --> B[Prediction]
+>   B --> C[Test Against Reality]
+>   C --> D[Evaluate Gap]
+>   D --> E[Refine Future Plans]
+>   E --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of the Model**
+> *Identify how each application integrates the cycle.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Set Goals]
+>   B --> C[Test Tasks]
+>   C --> D[Evaluate Progress]
+>   D --> E[Adjust Strategies]
+>   F[Metacognitive Scaffolding] --> G[Manage Cognitive Load]
+>   H[Self-Study] --> I[Reflect on Learning]
+>   J[Spaced Retrieval in MOOCs] --> K[Review Sessions]
+> ```
 
 # Cyclical Feedback Architecture
 

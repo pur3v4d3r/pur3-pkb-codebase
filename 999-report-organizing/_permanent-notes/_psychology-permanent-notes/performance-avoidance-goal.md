@@ -22,7 +22,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -70,8 +70,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Performance-Avoidance Goal Orientation**
+> *Identify the key factors contributing to performance-avoidance goals.*
+>
+> ```mermaid
+> graph TD
+>   A[External Pressures]
+>   B[Internal Factors]
+>   C[Performance-Avoidance Goals]
+>   A -->|Peer Competition, Societal Expectations| C
+>   B -->|Fear of Failure, Self-Doubt| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Learning Strategies**
+> *Understand the cognitive processes influenced by performance-avoidance goals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Performance-Avoidance Goals]
+>   B[Rote Memorization]
+>   C[Surface-Level Processing]
+>   D[Deep Understanding]
+>   A -->|Encourages| B
+>   A -->|Discourages| D
+>   B -->|Lack of| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Strategies to Mitigate Impact**
+> *Explore instructional and support strategies to reduce performance-avoidance goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Student Support]
+>   C[Classroom Climate]
+>   D[Feedback in Workplaces]
+>   A -->|Foster Growth Mindset, Focus on Effort| Mitigate
+>   B -->|Set Realistic Expectations, Encourage Self-Efficacy| Mitigate
+>   C -->|Promote Collaboration, Value Diversity| Mitigate
+>   D -->|Constructive Criticism, Highlight Improvement| Mitigate
+> ```
 
 # Performance-Avoidance Goal
 

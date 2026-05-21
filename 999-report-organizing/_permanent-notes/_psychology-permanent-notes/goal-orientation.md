@@ -17,7 +17,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-orientation-synthetic-seed-2026-04-24
@@ -65,8 +65,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — 2x2 Framework of Goal Orientation**
+> *Identify the four types based on axes.*
+>
+> ```mermaid
+> graph TD
+>   A[Competence-Definition]
+>   B[Mastery] --> C1[Mastery-Approach]
+>   D[Normative Performance] --> E1[Normative-Performance-Avoidance]
+>   F[Competence-Valence]
+>   G[Approach] --> H1[Mastery-Approach]
+>   I[Avoidance] --> J1[Normative-Performance-Avoidance]
+>   K[Mastery-Approach]
+>   L[Normative-Performance-Avoidance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Processing Strategies**
+> *Compare deep vs surface processing strategies.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Deep Processing] --> B[Elaboration]
+>   C[Organization] --> D[Long-term Retention]
+>   E[Surface Processing] --> F[Rote Memorization]
+>   G[Focused on External Validation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Orientation Influences**
+> *See how Goal Orientations affect learning behaviors.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant MasteryApproach as MA
+>   participant PerformanceAvoidance as PA
+>   MA->>Learning: Deep Processing Strategies
+>   MA-->>HelpSeeking: Effective Use of Assistance
+>   PA->>Learning: Surface Processing
+>   PA-->>HelpSeeking: Avoid or Misuse Help
+> ```
 
 # Goal Orientation
 

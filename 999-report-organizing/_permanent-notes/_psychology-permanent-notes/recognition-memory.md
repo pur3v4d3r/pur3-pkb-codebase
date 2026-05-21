@@ -17,7 +17,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - recognition-memory-synthetic-seed-2026-04-25
@@ -64,8 +64,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Recognition Memory Process Flow**
+> *Follow the flow from familiarity signal to recollective retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encounter Item] --> B[Familiarity Signal]
+>   B --> C[Recollective Retrieval]
+>   C --> D[Contextual Information]
+> ```
+
+
+> [!abstract] **Diagram 2 — Recognition vs Recall Comparison**
+> *Compare the processes of recognition and recall in cognitive testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition Test] -->|Familiarity| B[Fast Recognition]
+>   A -->|Contextual Details| C[Slow Recollection]
+>   D[Recall Test] --> E[No Cue]
+>   F[Cued Recall] --> G[Prompted Retrieval]
+> ```
 
 # Recognition Memory
 

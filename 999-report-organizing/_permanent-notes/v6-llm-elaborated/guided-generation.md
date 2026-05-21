@@ -20,7 +20,7 @@ subdomains:
   - structured-prediction
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - guided-generation-synthetic-seed-2026-05-20
@@ -72,8 +72,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Guided Generation Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Logit Masking]
+>   B --> C[Custom Processor Injection]
+>   C --> D[Token Sampling]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Logit Modifying Techniques**
+> *Identify the components involved in logit modification.*
+>
+> ```mermaid
+> graph TD
+>   A[Logits] --> B[Masking]
+>   A --> C[Custom Processor]
+>   B --> D[Enforced Tokens]
+>   C --> E[External Signals]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Explore the various applications of Guided Generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Ensures Educational Standards]
+>   C[Code Generation] --> D[Enforces Syntactic Correctness]
+>   E[MOOCs Adaptive Quizzes] --> F[Optimal Question Spacing]
+> ```
 
 # Guided Generation
 

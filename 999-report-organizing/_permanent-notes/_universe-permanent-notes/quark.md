@@ -16,7 +16,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - quark-synthetic-seed-2026-05-14
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Quark Types and Charges**
+> *Identify the six quarks by their electric and color charges.*
+>
+> ```mermaid
+> graph TD
+>   A[Up (+⅔)] --> B[Down (−⅓)]
+>   C[Charm (+⅔)] --> D[Strange (−⅓)]
+>   E[TOP (+⅔)] --> F[Bottom (−⅓)]
+> ```
+
+
+> [!abstract] **Diagram 2 — Quark Confinement Process**
+> *Follow the path from free quarks to confined hadrons.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Free Quarks] --> B[Strong Interaction]
+>   B --> C[Hadron Formation]
+>   C --> D[Confined Hadrons]
+> ```
+
+
+> [!abstract] **Diagram 3 — Quark Masses in QCD**
+> *Compare current mass and constituent mass of quarks.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Mass] --> B[QCD Lagrangian]
+>   C[Constituent Mass] --> D[Hadron Interaction]
+>   E[Energy Scale]
+> ```
 
 # Quark
 

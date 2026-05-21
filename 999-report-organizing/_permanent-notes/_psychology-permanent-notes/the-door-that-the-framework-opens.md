@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Regulation Process Overview**
+> *Follow the flow from setting goals to adjusting efforts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goals] --> B[Motivate]
+>   B --> C[Monitor Progress]
+>   C --> D[Adjust Efforts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivation Regulation Mechanism**
+> *Identify the key steps in developing motivational regulation skills.*
+>
+> ```mermaid
+> graph TD
+>   A[Deliberate Practice]
+>   B[Set Specific Goals]
+>   C[Monitor Progress]
+>   D[Adjust Strategies Based on Feedback]
+>   A -->|Involves| B
+>   B -->|Includes| C
+>   C -->|Leads to| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Summary**
+> *See the different ways this concept can be applied in educational settings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Teacher as T
+>   participant Student as S
+>   participant Parent as P
+>   participant EducatorPD as E
+>   T->>S: Goal-Setting Exercises
+>   S-->>T: Feedback Requests
+>   P->>S: Structured Activities at Home
+>   E->>T: Training on Motivational Regulation
+> ```
 
 # Regulation of Motivation
 

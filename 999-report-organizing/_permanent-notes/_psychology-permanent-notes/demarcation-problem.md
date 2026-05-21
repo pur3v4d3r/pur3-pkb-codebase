@@ -17,7 +17,7 @@ subdomains:
   - history-of-science
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - demarcation-problem-synthetic-seed-2026-05-12
@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Demarcation Problem Overview**
+> *Identify the core components of the Demarcation Problem.*
+>
+> ```mermaid
+> graph TD
+>   A[Historical Context] --> B(Core Explanation)
+>   C(Theoretical Roots) --> D(Nuances and Challenges)
+>   E[Nuances and Challenges] --> F(Complexity in Modern Science)
+> ```
+
+
+> [!abstract] **Diagram 2 — Single Criterion vs Cluster Approach**
+> *Compare the single criterion approach with the cluster approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Criterion] --> B(Falsifiability)
+>   C(Cluster Approach) --> D(Multiple Criteria)
+>   E[Falsifiability] --> F(Too Restrictive)
+>   G[Multiple Criteria] --> H(Inclusive Definition)
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Demarcation Problem**
+> *Understand the impact on education, research funding, and public policy.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Critical Thinking Skills)
+>   C[Research Funding] --> D(Innovative Approaches)
+>   E[Public Policy] --> F(Evidence-Based Decisions)
+> ```
 
 # Demarcation Problem
 

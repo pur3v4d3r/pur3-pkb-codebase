@@ -18,7 +18,7 @@ subdomains:
   - data-selection
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - demonstration-diversity-synthetic-seed-2026-05-20
@@ -65,8 +65,91 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Demonstration Diversity Overview**
+> *Identify the key components of Demonstration Diversity.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Types]
+>   B[Reasoning Patterns]
+>   C[Output Variations]
+>   D[Demonstration Diversity]
+>   E[Homogeneous Example Sets]
+>   F[Overfitting]
+>   G[Generalization]
+>   H[Performance Improvement]
+>   I[Narrow Distribution]
+>   J[Surface-Level Features]
+>   K[Out-of-Distribution Test Cases]
+>   D --> A
+>   D --> B
+>   D --> C
+>   E --> F
+>   F --> I
+>   G --> H
+>   H --> K
+> ```
+
+
+> [!abstract] **Diagram 2 — Diversity vs Coherence in Example Selection**
+> *Compare Demonstration Diversity with coherence in example selection.*
+>
+> ```mermaid
+> graph TD
+>   A[Demonstration Diversity]
+>   B[Coherence]
+>   C[Broad Spectrum]
+>   D[Stylistic Consistency]
+>   E[Narrow Distribution]
+>   F[Semantic Consistency]
+>   G[Overfitting]
+>   H[Confusion]
+>   I[Generalization]
+>   J[Prioritization]
+>   A --> C
+>   B --> F
+>   C --> I
+>   F --> J
+>   E --> G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Demonstration Diversity on Model Performance**
+> *Understand how diverse examples improve model performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Homogeneous Example Sets]
+>   B[Diverse Examples]
+>   C[Narrow Distribution]
+>   D[Broad Spectrum]
+>   E[Overfitting]
+>   F[Mitigated Overfitting]
+>   G[Surface-Level Features]
+>   H[Robust Representations]
+>   I[Poor Generalization]
+>   J[Improved Performance]
+>   K[Out-of-Distribution Test Cases]
+>   A --> C
+>   B --> D
+>   C --> E
+>   D --> F
+>   E --> I
+>   F --> H
+>   G --> I
+>   H --> J
+>   I --> K
+> ```
 
 # Demonstration Diversity
 

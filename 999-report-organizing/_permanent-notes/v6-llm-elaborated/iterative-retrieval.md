@@ -19,7 +19,7 @@ subdomains:
   - multi-hop-reasoning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - iterative-retrieval-synthetic-seed-2026-05-20
@@ -66,8 +66,39 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Iterative Retrieval Process Flow**
+> *Follow the cycle from initial query to final response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Query] --> B[Generate Partial Response]
+>   B --> C[Formulate New Query]
+>   C --> D[Retreive Documents]
+>   D --> E[Integrate Evidence]
+>   E --> F[Repeat Cycle]
+>   F --> G[Final Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Iterative Retrieval vs Single-Pass RAG**
+> *Compare the adaptability of iterative and single-pass strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Single-Pass RAG] --> B[Static Query]
+>   C[Iterative Retrieval] --> D[Dynamic Queries]
+>   E{Adapt Based on Context}
+>   F{Fixed Initial Query}
+> ```
 
 # Iterative Retrieval
 

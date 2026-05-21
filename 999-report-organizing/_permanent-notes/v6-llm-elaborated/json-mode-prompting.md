@@ -20,7 +20,7 @@ subdomains:
   - llm-reliability
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - json-mode-prompting-synthetic-seed-2026-05-20
@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — JSON Mode Prompting Process Flow**
+> *Follow the flow from API settings to system prompts and output validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[API Settings] --> B[System Prompts]
+>   B --> C[Output Validation]
+>   C --> D[Syntactically Correct JSON]
+>   D --> E[Semantically Meaningful JSON]
+> ```
+
+
+> [!abstract] **Diagram 2 — JSON Mode Prompting Components**
+> *Identify the key components involved in generating structured JSON outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[API Settings] --> B[System Prompts]
+>   C[Schema Descriptions] --> D[Examples]
+>   E[Field-Level Documentation] --> F[Output Validation]
+> ```
+
+
+> [!abstract] **Diagram 3 — JSON Mode vs Grammar-Constrained Decoding**
+> *Compare JSON Mode Prompting with grammar-constrained decoding in terms of output focus.*
+>
+> ```mermaid
+> classDiagram
+>   class JSONModePrompting{
+>     +SyntacticallyCorrectJSON()
+>     +SemanticallyMeaningfulJSON()
+>   }
+>   class GrammarConstrainedDecoding{
+>     +SyntacticallyCorrectOutput()
+>   }
+>   JSONModePrompting --> GrammarConstrainedDecoding : Focuses on
+> ```
 
 # JSON Mode Prompting
 

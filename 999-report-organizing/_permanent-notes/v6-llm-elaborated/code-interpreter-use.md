@@ -1,15 +1,14 @@
 ---
-title: "Code Interpreter Use"
+title: Code Interpreter Use
 aliases:
-  - "Code Interpreter Use"
-  - "code execution tool"
-  - "Python interpreter integration"
-  - "code sandbox integration"
-  - "REPL tool"
+  - Code Interpreter Use
+  - code execution tool
+  - Python interpreter integration
+  - code sandbox integration
+  - REPL tool
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,80 @@ subdomains:
   - data-analysis
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "code-interpreter-use-synthetic-seed-2026-05-21"
+  - code-interpreter-use-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Tool-Augmented Language Models"
-
+parent-concept: Tool-Augmented Language Models
 related:
-  - "[[Tool-Augmented Language Models]]"
-  - "[[Sandbox Environments]]"
+  - '[[Tool-Augmented Language Models]]'
+  - '[[Sandbox Environments]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Tool-Augmented Language Models]]"
+  - '[[Tool-Augmented Language Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Sandbox Environments]]"
+  - '[[Sandbox Environments]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Code Interpreter Workflow**
+> *Follow the flow from user input to computational output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[LLM Generates Code]
+>   B --> C[Sandboxed Execution]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sandbox Security Model**
+> *Identify the restricted resources and computational limits.*
+>
+> ```mermaid
+> graph TD
+>   A[File System] -->|Restricted Access| B[Sandbox]
+>   C[System Calls] -->|Restricted Access| B
+>   D[Network Interfaces] -->|Restricted Access| B
+>   E[CPU Time] -->|Limited Usage| B
+>   F[Memory Usage] -->|Limited Usage| B
+> ```
 
 # Code Interpreter Use
 

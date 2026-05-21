@@ -1,14 +1,13 @@
 ---
-title: "Markdown Output Prompting"
+title: Markdown Output Prompting
 aliases:
-  - "Markdown Output Prompting"
-  - "markdown formatting prompts"
-  - "rich text output prompting"
-  - "markdown generation"
+  - Markdown Output Prompting
+  - markdown formatting prompts
+  - rich text output prompting
+  - markdown generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,90 @@ subdomains:
   - documentation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "markdown-output-prompting-synthetic-seed-2026-05-21"
+  - markdown-output-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[XML Structured Prompting]]"
-  - "[[Schema Following Prompts]]"
-  - "[[Output Length Control]]"
+  - '[[XML Structured Prompting]]'
+  - '[[Schema Following Prompts]]'
+  - '[[Output Length Control]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[XML Structured Prompting]]"
-  - "[[Schema Following Prompts]]"
+  - '[[XML Structured Prompting]]'
+  - '[[Schema Following Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Output Length Control]]"
+  - '[[Output Length Control]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Markdown Output Prompting Process Flow**
+> *Follow the flow from input prompt to structured markdown output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[LLM Processing]
+>   B --> C[Structured Markdown Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Markdown vs Plain Text Comparison**
+> *Compare the structure and utility of markdown versus plain text outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Plain Text] -->|Lacks Structure| D[Readability]
+>   B[Markdown] -->|Structured Syntax| C[Enhanced Readability]
+>   C --> E[Convertibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios in Markdown Output Prompting**
+> *Identify the different application scenarios for markdown output prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Technical Documentation] -->|Structured Guides|
+>   B[Chat Interfaces] -->|Markdown Formatted Responses|
+>   C[Automated Pipelines] -->|Efficient Content Conversion|
+> ```
 
 # Markdown Output Prompting
 

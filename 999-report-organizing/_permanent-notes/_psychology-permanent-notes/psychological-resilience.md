@@ -17,7 +17,7 @@ subdomains:
   - clinical-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - psychological-resilience-synthetic-seed-2026-04-25
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Resilience Mechanism Overview**
+> *Follow the flow from adversity to resilience outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Adversity] --> B[Negative Outcomes]
+>   A --> C[Positive Emotions]
+>   C --> D[Coping Skills]
+>   D --> E[Enhanced Resilience]
+>   B --> F[Chronic Distress]
+>   E --> G[Functional Continuity]
+> ```
+
+
+> [!abstract] **Diagram 2 — Resilience Interventions**
+> *Identify the interventions that foster resilience.*
+>
+> ```mermaid
+> graph TD
+>   A[Enhancing Coping Skills] --> B[CBT]
+>   C[Buidling Social Support] --> D[Mindfulness]
+>   E[Promoting Positive States] --> F[Social Connections]
+> ```
+
+
+> [!abstract] **Diagram 3 — Resilience Applications**
+> *See how resilience is applied in different contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant MentalHealthInterventions as MH
+>   participant DisasterResponse as DR
+>   ID->>MH: Inform coping skills training
+>   MH-->>DR: Guide community-based interventions
+> ```
 
 # Psychological Resilience
 

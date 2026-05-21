@@ -1,14 +1,13 @@
 ---
-title: "Reinforcement Learning from Human Feedback"
+title: Reinforcement Learning from Human Feedback
 aliases:
-  - "Reinforcement Learning from Human Feedback"
-  - "RLHF"
-  - "RLHF training"
-  - "human preference learning"
+  - Reinforcement Learning from Human Feedback
+  - RLHF
+  - RLHF training
+  - human preference learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,83 @@ subdomains:
   - ai-safety
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-20"
+  - reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning"
-
+parent-concept: Reinforcement Learning
 related:
-  - "[[Reward Model Design]]"
-  - "[[Direct Preference Optimization]]"
-  - "[[Constitutional AI Principles]]"
+  - '[[Reward Model Design]]'
+  - '[[Direct Preference Optimization]]'
+  - '[[Constitutional AI Principles]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Reward Model Design]]"
+  - '[[Reward Model Design]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
-  - "[[Constitutional AI Principles]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Constitutional AI Principles]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RLHF Process Flowchart**
+> *Follow the stages from fine-tuning to policy optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Supervised Fine-Tuning] --> B[Reward Model Training]
+>   B --> C[Policy Optimization]
+> ```
+
+
+> [!abstract] **Diagram 2 — RLHF Taxonomy Overview**
+> *Identify the relationship between RLHF and other reinforcement learning methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Reinforcement Learning]
+>   B{Human Feedback}
+>   C[RLHF]
+>   D[Direct Preference Optimization]
+>   A -->|Involves Human Feedback| B
+>   B -->|Yes| C
+>   B -->|No| D
+> ```
 
 # Reinforcement Learning from Human Feedback
 

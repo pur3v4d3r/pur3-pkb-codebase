@@ -1,14 +1,13 @@
 ---
-title: "Thinking Budget Allocation"
+title: Thinking Budget Allocation
 aliases:
-  - "Thinking Budget Allocation"
-  - "thinking token budget"
-  - "reasoning budget"
-  - "compute budget for thinking"
+  - Thinking Budget Allocation
+  - thinking token budget
+  - reasoning budget
+  - compute budget for thinking
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,90 @@ subdomains:
   - resource-management
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "thinking-budget-allocation-synthetic-seed-2026-05-20"
+  - thinking-budget-allocation-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Extended Thinking Architecture"
-
+parent-concept: Extended Thinking Architecture
 related:
-  - "[[Token Budget Management]]"
-  - "[[Context Window Management]]"
+  - '[[Token Budget Management]]'
+  - '[[Context Window Management]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Token Budget Management]]"
+  - '[[Token Budget Management]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Context Window Management]]"
+  - '[[Context Window Management]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Token Budget Management Process**
+> *Follow the flow from setting budget to generating response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Budget] --> B[Determine Complexity]
+>   B --> C[Evaluate Task]
+>   C --> D[Allocate Tokens]
+>   D --> E[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Budget vs Performance Trade-off**
+> *Observe the relationship between budget and performance efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Budget] --> B[High Latency]
+>   A --> C[Low Quality]
+>   D[High Budget] --> E[Low Latency]
+>   D --> F[High Quality]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Identify the different application scenarios and their budget requirements.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Complex Logical Puzzles]
+>   C[Cost-sensitive Applications] --> D[Real-time Customer Service]
+> ```
 
 # Thinking Budget Allocation
 

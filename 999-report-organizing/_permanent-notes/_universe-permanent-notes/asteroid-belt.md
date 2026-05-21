@@ -18,7 +18,7 @@ subdomains:
   - planetary-science
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - asteroid-belt-synthetic-seed-2026-05-14
@@ -65,8 +65,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Asteroid Belt Structure Overview**
+> *Identify the major asteroids and Kirkwood gaps.*
+>
+> ```mermaid
+> graph TD
+>   A[Sun] --> B[Mars]
+>   B --> C[Asteroid Belt]
+>   C --> D[Jupiter]
+>   E[Ceres] -->|1/3 Mass| C
+>   F[Vesta] -->|2nd Largest| C
+>   G[Pallas] -->|3rd Largest| C
+>   H[Hygiea] -->|4th Largest| C
+>   I[Kirkwood Gaps] -->|Resonances with Jupiter| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Asteroid Belt Density and Navigation**
+> *Notice the vast empty spaces between asteroids.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Spacecraft] --> B[Asteroid]
+>   B --> C[Vast Empty Space]
+>   C --> D[Asteroid]
+>   D --> E[Vast Empty Space]
+>   E --> F[Kirkwood Gap]
+>   F --> G[Asteroid]
+>   G --> H[Vast Empty Space]
+> ```
+
+
+> [!abstract] **Diagram 3 — Jupiter's Gravitational Influence**
+> *Observe how Jupiter creates Kirkwood gaps.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Sun as S
+>   participant Jupiter as J
+>   participant Asteroid as A
+>   participant Kirkwood Gap as K
+>   S->>A: Orbital Path
+>   J->>A: Gravitational Pull
+>   J->>K: Resonance Clearing
+>   A-->>K: Absence of Asteroids
+> ```
 
 # Asteroid Belt
 

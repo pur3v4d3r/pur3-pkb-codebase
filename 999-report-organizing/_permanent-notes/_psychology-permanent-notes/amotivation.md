@@ -16,7 +16,7 @@ subdomains:
   - self-determination-theory
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - amotivation-synthetic-seed-2026-04-24
@@ -65,8 +65,69 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Amotivation Mechanism Overview**
+> *Follow the path from need thwarting to amotivated state.*
+>
+> ```mermaid
+> graph TD
+>   A[Need Thwarting]
+>   B[Helplessness Experiences]
+>   C[Persistent Belief in Futility]
+>   D[Amotivation State]
+>   A -->|Repeated Failures| B
+>   B -->|Internalization of Failure| C
+>   C -->|Diminished Reward Processing| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Neurocognitive Correlates of Amotivation**
+> *Identify the brain regions involved in amotivated states.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Engagement]
+>   B[Ventral Striatum]
+>   C[Amygdala]
+>   D[Threat Perception]
+>   E[Reward Processing]
+>   F['Meaninglessness']
+>   A -->|Reduced Activation| B
+>   A -->|Heightened Activity| C
+>   C -->|Perceived Threat| D
+>   B -->|Diminished Reward| E
+>   E -->|Futility Perception| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Developmental Manifestations of Amotivation**
+> *Trace the different manifestations across developmental stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Younger Children]
+>   B['Physical Withdrawal']
+>   C[Adolescents]
+>   D['Social Disengagement']
+>   E['Passive Resistance']
+>   F[Elementary Settings]
+>   G[High School]
+>   H['Refusal to Participate']
+>   I['Disinterest in Extracurriculars']
+>   A --> B
+>   C --> D
+>   C --> E
+>   F -->|Group Activities| H
+>   G -->|Extracurriculars| I
+> ```
 
 # Amotivation
 

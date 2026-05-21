@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19
@@ -66,8 +66,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PATH Variable Search Process**
+> *Follow the search order from left to right.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Command Entered] --> B[Search PATH]
+>   B --> C1[(Directory 1)]
+>   C1 -->|No Match| D1[(Directory 2)]
+>   D1 -->|No Match| E1[(Directory n)]
+>   E1 -->|Match Found| F[Execute Command]
+>   E1 -->|No Match| G['Command Not Found']
+> ```
+
+
+> [!abstract] **Diagram 2 — PATH Variable Configuration Example**
+> *Identify the directories added to PATH for Python.*
+>
+> ```mermaid
+> graph TD
+>   A[User Home] --> B[.local/bin]
+>   C[/usr/local/bin] --> D[/usr/bin]
+>   E[/opt/python/bin]
+>   F[PATH Variable]
+>   F -->|1| B
+>   F -->|2| C
+>   F -->|3| D
+>   F -->|4| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of PATH Configuration on Python Development**
+> *Understand the consequences of incorrect PATH setup.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Terminal as T
+>   participant System as S
+>   participant PythonInterpreter as P
+>   U->>T: python
+>   T->>S: Search PATH for 'python'
+>   S->>P: Execute correct version of Python
+>   alt Correct PATH
+>     P-->>U: Python runs successfully
+>   else Incorrect PATH
+>     S-->>U: Command not found error
+>   end
+> ```
 
 # PATH Environment Variable
 

@@ -17,7 +17,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - note-making-vs-note-taking-synthetic-seed-2026-04-24
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Note Making vs Note Taking Process Flow**
+> *Follow the flow from source material to cognitive engagement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Material] --> B(Note-Taking)
+>   B --> C(Verbatim or Summary)
+>   D(Note-Making) --> E(Active Reformulation)
+>   E --> F(Integration with Prior Knowledge)
+>   G(Cognitive Engagement) --> H(Long-term Retention)
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load in Note Making and Taking**
+> *Compare intrinsic vs extraneous cognitive load for each method.*
+>
+> ```mermaid
+> graph TD
+>   A[Note-Taking] --> B(Extraneous Cognitive Load)
+>   C(Note-Making) --> D(Intrinsic Cognitive Load)
+>   E(Long-term Retention) --- F(Better Memory Traces)
+> ```
+
+
+> [!abstract] **Diagram 3 — Stages of Note Making Process**
+> *Trace the steps from identifying concepts to integrating knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Key Concepts] --> B(Paraphrase into Own Words)
+>   B --> C(Integrate with Existing Knowledge)
+>   C --> D(Create Meaningful Links)
+> ```
 
 # Note Making vs Note Taking
 

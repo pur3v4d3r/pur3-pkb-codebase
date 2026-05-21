@@ -18,7 +18,7 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - commonplace-book-synthetic-seed-2026-04-25
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Commonplace Book Process Flow**
+> *Follow the steps from selection to cross-referencing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Select passages] --> B[Transcribe]
+>   B --> C[Index by topic]
+>   C --> D[Cross-reference entries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Commonplace Book Mechanism Overview**
+> *See how the book integrates indexing and cross-referencing.*
+>
+> ```mermaid
+> graph TD
+>   A[Quotations] --> B[Index]
+>   C[Annotations] --> D[Cross-reference]
+>   E[Topics] --> F[Entries]
+> ```
+
+
+> [!abstract] **Diagram 3 — Commonplace Book Applications**
+> *Identify the applications in instructional design, research, and PKM.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Organize learning]
+>   C[Research] --> D[Systematic organization]
+>   E[Personal Knowledge Management] --> F[Focused information retention]
+> ```
 
 # Commonplace Book
 

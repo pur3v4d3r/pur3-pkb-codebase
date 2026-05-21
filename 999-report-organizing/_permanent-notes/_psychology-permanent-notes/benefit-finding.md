@@ -18,7 +18,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - benefit-finding-synthetic-seed-2026-04-25
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Benefit Finding Process Flow**
+> *Follow the steps from recognizing an adverse event to integrating insights into self-concept.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Adverse Event] --> B[Reflect on Positive Aspects]
+>   B --> C[Integrate Insights]
+>   C --> D[Foster Resilience]
+> ```
+
+
+> [!abstract] **Diagram 2 — Benefit Finding vs PTG Comparison**
+> *Compare Benefit Finding with Post Traumatic Growth, noting their distinct focuses.*
+>
+> ```mermaid
+> graph TD
+>   A[Benefit Finding] -->|Identifies Positive Outcomes| B[Adverse Experiences]
+>   C[Post Traumatic Growth] -->|Transformative Changes| D[Broad Impact]
+>   A -.-> E[Focused on Benefits]
+>   C -.-> F[Wider Scope]
+> ```
+
+
+> [!abstract] **Diagram 3 — Benefit Finding Taxonomy**
+> *Explore the different types of benefits identified through Benefit Finding.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Strength] --> B[Adverse Event]
+>   C[Relationships] --> D[Support Networks]
+>   E[New Possibilities] --> F[Future Opportunities]
+> ```
 
 # Benefit Finding
 

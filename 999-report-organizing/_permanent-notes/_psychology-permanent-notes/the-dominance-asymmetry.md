@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -72,8 +72,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Monitoring-Control Loop Overview**
+> *Follow the flow from meta-level to object-level control.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Meta-Level] --> B[Monitor]
+>   B --> C[Control Directives]
+>   C --> D[Object-Level Operations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dominance Asymmetry in Cognitive Processes**
+> *Notice the one-way direction from meta-level to object-level.*
+>
+> ```mermaid
+> graph TD
+>   A[Meta-Level] --> B[Object-Level]
+>   B -->|Feedback| C[Meta-Level]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Instructional Design**
+> *See how the teacher's meta-level controls student learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Teacher as T
+>   participant Student as S
+>   T->>S: Monitor Progress
+>   S-->>T: Feedback on Understanding
+>   T->>S: Adjust Teaching Method
+> ```
 
 # Dominance Asymmetry
 

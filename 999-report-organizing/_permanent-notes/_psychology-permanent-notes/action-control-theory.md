@@ -18,7 +18,7 @@ subdomains:
   - self-regulation
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - action-control-theory-synthetic-seed-2026-04-25
@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — State vs Action Orientation**
+> *Compare state-oriented and action-oriented processes.*
+>
+> ```mermaid
+> graph TD
+>   A[State-Oriented]
+>   B[Action-Oriented]
+>   A -->|Dwells on past/future| C[Intention-Action Gap]
+>   B -->|Focuses on task| D[Efficient Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Volitional Process Flow**
+> *Follow the flow from intention to action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intention]
+>   B[Affect Regulation]
+>   C[Distractions]
+>   D[Action]
+>   A -->|Strength| B
+>   B -->|Deficits| C
+>   C -->|Challenges| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Intervention Strategies**
+> *Identify strategies to bridge the intention-action gap.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Workplace Management]
+>   C[Reduce Distractions]
+>   D[Structured Routines]
+>   E[Focused Attention]
+>   F[Bridge Gap]
+>   A -->|Minimize Distractions| C
+>   B -->|Provide Support| D
+>   C -->|Enhance Focus| E
+>   D -->|Maintain Focus| F
+> ```
 
 # Action Control Theory
 

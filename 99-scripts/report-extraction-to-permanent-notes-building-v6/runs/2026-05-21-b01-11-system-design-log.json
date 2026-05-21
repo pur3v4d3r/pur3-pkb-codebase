@@ -1,0 +1,79 @@
+[
+  {
+    "title": "A/B Testing Prompts",
+    "slug": "a-b-testing-prompts",
+    "report_stem": "ab-testing-prompts-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "file exists at a-b-testing-prompts.md",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Batch Inference Optimisation",
+    "slug": "batch-inference-optimisation",
+    "report_stem": "batch-inference-optimisation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\batch-inference-optimisation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Cost-Per-Token Budgeting",
+    "slug": "cost-per-token-budgeting",
+    "report_stem": "cost-per-token-budgeting-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\cost-per-token-budgeting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Fallback Prompt Chains",
+    "slug": "fallback-prompt-chains",
+    "report_stem": "fallback-prompt-chains-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\fallback-prompt-chains.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Model Routing Strategies",
+    "slug": "model-routing-strategies",
+    "report_stem": "model-routing-strategies-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\model-routing-strategies.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Prompt Observability",
+    "slug": "prompt-observability",
+    "report_stem": "prompt-observability-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\prompt-observability.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Prompt Registry Patterns",
+    "slug": "prompt-registry-patterns",
+    "report_stem": "prompt-registry-patterns-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\prompt-registry-patterns.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

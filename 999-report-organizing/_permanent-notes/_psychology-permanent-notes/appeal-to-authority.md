@@ -18,7 +18,7 @@ subdomains:
   - epistemology
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - appeal-to-authority-synthetic-seed-2026-04-26
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Appeal to Authority Flowchart**
+> *Follow the flow from claim assertion to acceptance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Claim Assertion] --> B[Authority Figure]
+>   B --> C[Evaluation]
+>   C --> D[Acceptance or Rejection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Legitimate Deference vs Fallacious Appeal**
+> *Compare the conditions for legitimate deference and fallacious appeal.*
+>
+> ```mermaid
+> graph TD
+>   A[Expertise & Evidence] --> B(Legitimate Deference)
+>   C(Opinion Only) --> D(Fallacious Appeal)
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Cognitive Shortcut**
+> *Trace the cognitive shortcut from authority status to claim acceptance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceived Expertise] --> B(Status]
+>   B --> C[Claim Acceptance]
+>   C --> D[Without Evaluation]
+> ```
 
 # Appeal to Authority
 

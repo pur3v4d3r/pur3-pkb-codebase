@@ -1,15 +1,14 @@
 ---
-title: "Text Embedding Models"
+title: Text Embedding Models
 aliases:
-  - "Text Embedding Models"
-  - "sentence embeddings"
-  - "text encoders"
-  - "embedding models"
-  - "dense representations"
+  - Text Embedding Models
+  - sentence embeddings
+  - text encoders
+  - embedding models
+  - dense representations
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - semantic-search
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "text-embedding-models-synthetic-seed-2026-05-20"
+  - text-embedding-models-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Processing"
-
+parent-concept: Natural Language Processing
 related:
-  - "[[Cosine Similarity Retrieval]]"
-  - "[[Sentence Transformers]]"
+  - '[[Cosine Similarity Retrieval]]'
+  - '[[Sentence Transformers]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Cosine Similarity Retrieval]]"
+  - '[[Cosine Similarity Retrieval]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Sentence Transformers]]"
+  - '[[Sentence Transformers]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Text Embedding Process Flow**
+> *Follow the flow from text input to dense vector output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenization]
+>   B --> C[Embedding Layer]
+>   C --> D[Dense Vector]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bi-Encoder vs Cross-Encoder Comparison**
+> *Compare the processing flow of bi-encoders and cross-encoders.*
+>
+> ```mermaid
+> graph TD
+>   A[Text1] --> B[Bi-Encoder]
+>   C[Text2] --> D[Bi-Encoder]
+>   E[Text Pair] --> F[Cross-Encoder]
+> ```
+
+
+> [!abstract] **Diagram 3 — Semantic Search Workflow**
+> *Trace the steps from query to document retrieval.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant Index as I
+>   participant Document as D
+>   Q->>I: Map Query to Embedding
+>   I->>D: Retrieve Similar Documents
+>   D-->>Q: Return Relevant Results
+> ```
 
 # Text Embedding Models
 

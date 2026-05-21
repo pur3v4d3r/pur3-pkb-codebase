@@ -1,14 +1,13 @@
 ---
-title: "Document Understanding Prompting"
+title: Document Understanding Prompting
 aliases:
-  - "Document Understanding Prompting"
-  - "document VLM prompting"
-  - "visually rich document understanding"
-  - "layout-aware prompting"
+  - Document Understanding Prompting
+  - document VLM prompting
+  - visually rich document understanding
+  - layout-aware prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - computer-vision
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "document-understanding-prompting-synthetic-seed-2026-05-21"
+  - document-understanding-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Vision-Language Model Prompting"
-
+parent-concept: Vision-Language Model Prompting
 related:
-  - "[[Vision-Language Model Prompting]]"
-  - "[[Chart-and-Table-Prompting]]"
+  - '[[Vision-Language Model Prompting]]'
+  - '[[Chart-and-Table-Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Vision-Language Model Prompting]]"
+  - '[[Vision-Language Model Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Chart-and-Table-Prompting]]"
+  - '[[Chart-and-Table-Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Document Understanding Workflow**
+> *Follow the steps from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Document] --> B[Identify Layout]
+>   B --> C[Determine Visual Elements]
+>   C --> D[Integrate Text and Visuals]
+>   D --> E[Extract Structured Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — Complex Document Structure**
+> *Navigate the hierarchy of document components.*
+>
+> ```mermaid
+> graph TD
+>   A[Document] --> B[Layout]
+>   A --> C[Typography]
+>   A --> D[Tables]
+>   A --> E[Images]
+>   A --> F[Logos]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompting Steps for VLMs**
+> *Trace the logical steps in document understanding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Identify Headers]
+>   B --> C[Extract Data Rows]
+>   C --> D[Reconcile Information]
+>   D --> E[End]
+> ```
 
 # Document Understanding Prompting
 

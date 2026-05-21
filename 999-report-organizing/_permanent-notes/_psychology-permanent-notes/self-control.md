@@ -17,7 +17,7 @@ subdomains:
   - self-regulated-learning
 
 created: 2026-04-27
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-control-synthetic-seed-2026-04-27
@@ -70,8 +70,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Strategic Portfolio Model Overview**
+> *Follow the flow from proactive strategies to long-term goal achievement.*
+>
+> ```mermaid
+> graph TD
+>   A[Proactive Strategies]
+>   B[Attentional Deployment]
+>   C[Cognitive Reappraisal]
+>   D[Environment Design]
+>   E[Long-Term Goals]
+>   A -->|Situation Selection| B
+>   A -->|Pre-Commitment| C
+>   A -->|Default Settings| D
+>   B --> E
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Control Mechanisms Flowchart**
+> *Trace the process from initial impulse to long-term goal achievement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Impulse]
+>   B[Attentional Deployment]
+>   C[Cognitive Reappraisal]
+>   D[Long-Term Goals Achieved]
+>   A -->|Redirect Attention| B
+>   B -->|Reframe Temptation| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Control Strategies Hierarchy**
+> *Identify the hierarchical relationship between different self-control strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Proactive Strategies]
+>   B1{Situation Selection}
+>   B2{Pre-Commitment}
+>   B3{Default Settings}
+>   C1{Attentional Deployment}
+>   C2{Cognitive Reappraisal}
+>   D[Long-Term Goals Achieved]
+>   A --> B1
+>   A --> B2
+>   A --> B3
+>   B1 -->|Minimize Temptation| C1
+>   B2 -->|Commit to Future Self| C1
+>   B3 -->|Nudge Desired Behaviors| C2
+>   C1 --> D
+>   C2 --> D
+> ```
 
 # Self-Control
 

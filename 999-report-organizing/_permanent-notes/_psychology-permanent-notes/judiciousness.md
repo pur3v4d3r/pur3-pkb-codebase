@@ -18,7 +18,7 @@ subdomains:
   - decision-making
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - judiciousness-synthetic-seed-2026-05-12
@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Judiciousness Process Flow**
+> *Follow the steps from consideration to balanced judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Consider All Factors] --> B[Evaluate Evidence]
+>   B --> C[Integrate Perspectives]
+>   C --> D[Weigh Implications]
+>   D --> E[Make Balanced Judgment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Judiciousness vs Risk-Aversion**
+> *Compare the approaches of judiciousness and risk-aversion.*
+>
+> ```mermaid
+> graph TD
+>   A[Judiciousness]
+>   B[Risk-Aversion]
+>   A -->|Balanced Judgment| C[Comprehensive Evaluation]
+>   B -->|Minimize Losses| D[Cautious Avoidance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   A -->|Thorough Deliberation| C[Thoughtful Analysis]
+>   B -->|Immediate Response| D[Impulsive Action]
+> ```
 
 # Judiciousness
 

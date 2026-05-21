@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Adversarial Suffix Attacks",
+    "slug": "adversarial-suffix-attacks",
+    "report_stem": "adversarial-suffix-attacks-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\adversarial-suffix-attacks.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Defense via Input Sanitisation",
+    "slug": "defense-via-input-sanitisation",
+    "report_stem": "defense-via-input-sanitisation-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\defense-via-input-sanitisation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Direct Prompt Injection",
+    "slug": "direct-prompt-injection",
+    "report_stem": "direct-prompt-injection-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\direct-prompt-injection.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Goal Hijacking",
+    "slug": "goal-hijacking",
+    "report_stem": "goal-hijacking-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\goal-hijacking.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Indirect Prompt Injection",
+    "slug": "indirect-prompt-injection",
+    "report_stem": "indirect-prompt-injection-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\indirect-prompt-injection.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Jailbreak Taxonomy",
+    "slug": "jailbreak-taxonomy",
+    "report_stem": "jailbreak-taxonomy-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\jailbreak-taxonomy.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "LLM Firewall Patterns",
+    "slug": "llm-firewall-patterns",
+    "report_stem": "llm-firewall-patterns-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\llm-firewall-patterns.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Many-Shot Jailbreaking",
+    "slug": "many-shot-jailbreaking",
+    "report_stem": "many-shot-jailbreaking-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\many-shot-jailbreaking.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Prompt Leaking",
+    "slug": "prompt-leaking",
+    "report_stem": "prompt-leaking-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\prompt-leaking.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "System Prompt Extraction",
+    "slug": "system-prompt-extraction",
+    "report_stem": "system-prompt-extraction-synthetic-seed-2026-05-21",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\system-prompt-extraction.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

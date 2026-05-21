@@ -18,7 +18,7 @@ subdomains:
   - learning-theory
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - idea-compression-synthetic-seed-2026-04-26
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Idea Compression Process Flow**
+> *Follow the steps from full idea to core essence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Idea] --> B[Condense]
+>   B --> C[Test Understanding]
+>   C --> D[Core Essence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic vs Extraneous Load Focus**
+> *Identify the focus on intrinsic load reduction.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Idea] --> B(Intrinisic Load)
+>   C(Extraneous Load) --> D[Simplified Core]
+>   A -->|Reduce| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Areas of Idea Compression**
+> *See the various applications in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Compress Objectives)
+>   C[Research] --> D(Refine Hypotheses)
+>   E[Knowledge Management] --> F(Distill Information)
+>   G[Collaborative Learning] --> H(Sync Understanding)
+> ```
 
 # Idea Compression
 

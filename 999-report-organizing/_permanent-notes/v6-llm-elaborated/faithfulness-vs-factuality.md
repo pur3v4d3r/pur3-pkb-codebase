@@ -1,14 +1,13 @@
 ---
-title: "Faithfulness vs Factuality"
+title: Faithfulness vs Factuality
 aliases:
-  - "Faithfulness vs Factuality"
-  - "faithfulness versus factuality"
-  - "grounding vs accuracy"
-  - "hallucination dimensions"
+  - Faithfulness vs Factuality
+  - faithfulness versus factuality
+  - grounding vs accuracy
+  - hallucination dimensions
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,92 @@ subdomains:
   - information-verification
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "faithfulness-vs-factuality-synthetic-seed-2026-05-21"
+  - faithfulness-vs-factuality-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation Metrics"
-
+parent-concept: LLM Evaluation Metrics
 related:
-  - "[[Model-Graded Evaluation]]"
-  - "[[LLM Evaluation Benchmarks]]"
+  - '[[Model-Graded Evaluation]]'
+  - '[[LLM Evaluation Benchmarks]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Model-Graded Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM Evaluation Benchmarks]]"
+  - '[[LLM Evaluation Benchmarks]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Faithfulness vs Factuality Overview**
+> *Follow the flow to understand the distinction between faithfulness and factuality.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Context] --> B[Faithful]
+>   C[World Knowledge] --> D[Factual]
+>   B --> E[Accurate Response]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Framework Components**
+> *Identify the components that ensure both faithfulness and factuality in evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Faithful]
+>   C[Medical Contexts] --> D[Factual]
+>   E[Grounded Response] --> F[Incorrect Source]
+>   G[World Knowledge] --> H[Updated Guidance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Error Types in RAG Systems**
+> *Trace the paths to identify different error types based on faithfulness and factuality.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Incorrect Source] --> B[Faithful]
+>   C[Outdated Advice] --> D[Factual]
+>   E[Correct Answer] --> F[Factually Correct]
+>   G[Diverges Context] --> H[Faithless]
+> ```
 
 # Faithfulness vs Factuality
 

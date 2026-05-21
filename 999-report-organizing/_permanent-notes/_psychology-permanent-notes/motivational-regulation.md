@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -72,8 +72,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Motivational Regulation Process Flow**
+> *Follow the steps from monitoring to strategy deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor Motivational States] --> B[Identify Issues]
+>   B --> C[Select Strategies]
+>   C --> D[Deploy Strategies]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivational Regulation Strategy Examples**
+> *See examples of strategies to manage motivational states.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Consequating] --> B[Interest Enhancement]
+>   C[Goal Reframing] --> D[Feedback on Progress]
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivational Regulation in Educational Settings**
+> *Explore how motivational regulation impacts academic performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor Motivation] --> B[Deploy Strategies]
+>   B --> C[Maintain Engagement]
+>   C --> D[Better Learning Outcomes]
+> ```
 
 # Motivational Regulation
 

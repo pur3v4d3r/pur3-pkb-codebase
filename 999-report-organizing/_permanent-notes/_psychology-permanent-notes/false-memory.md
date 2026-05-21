@@ -18,7 +18,7 @@ subdomains:
   - eyewitness-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - false-memory-synthetic-seed-2026-04-25
@@ -67,8 +67,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — False Memory Formation Process**
+> *Follow the stages from gist formation to false recollection.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Event]
+>   B[Gist Representation]
+>   C[Schema Expectations]
+>   D[Post-Event Suggestions]
+>   E[source-monitoring Failures]
+>   F[False Recollections]
+>   A -->|Form Gist| B
+>   B -->|Interact with Schema| C
+>   C -->|Influence by Suggestions| D
+>   D -->|Source Monitoring Errors| E
+>   E -->|Result in False Memory| F
+> ```
+
+
+> [!abstract] **Diagram 2 — False Memory Mechanisms Interaction**
+> *Identify how different mechanisms interact to create false memories.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema Expectations]
+>   B[Gist Representations]
+>   C[Post-Event Suggestions]
+>   D[source-monitoring Failures]
+>   E[False Memory Creation]
+>   A -->|Influence Gist| B
+>   B -->|Integrate with Schema| A
+>   B -->|Influence by Suggestions| C
+>   C -->|Source Monitoring Errors| D
+>   D -->|Result in False Memory| E
+> ```
+
+
+> [!abstract] **Diagram 3 — False Memory Impact on Eyewitness Testimony**
+> *Trace the influence of false memory on legal settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Event Witnessing]
+>   B[Gist Formation]
+>   C[Suggestions from Investigators]
+>   D[source-monitoring Failures]
+>   E[False Recollection]
+>   F[Confident Testimony]
+>   G[Wrongful Conviction]
+>   A -->|Form Gist| B
+>   B -->|Influence by Suggestions| C
+>   C -->|Source Monitoring Errors| D
+>   D -->|Result in False Memory| E
+>   E -->|Confident Recollection| F
+>   F -->|Leads to Wrongful Conviction| G
+> ```
 
 # False Memory
 

@@ -1,12 +1,11 @@
 ---
-title: "Self-RAG"
+title: Self-RAG
 aliases:
-  - "Self-RAG"
-  - "self-reflective RAG"
+  - Self-RAG
+  - self-reflective RAG
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,100 @@ subdomains:
   - self-supervised-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-rag-synthetic-seed-2026-05-20"
+  - self-rag-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
-  - "[[Reflection Tokens]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
+  - '[[Reflection Tokens]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reflection Tokens]]"
+  - '[[Reflection Tokens]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-RAG Process Flow**
+> *Follow the steps from query to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Query] --> B[Evaluate Retrieval Need]
+>   B -->|Yes| C[Retrieve Information]
+>   C --> D[Critique Retrieved Passages]
+>   D --> E[Generate Output]
+>   B -->|No| F[Use Internal Knowledge]
+>   F --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflection Tokens Mechanism**
+> *Identify the role of reflection tokens in self-critique.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Query] --> B[Evaluate Retrieval]
+>   B -->|Yes| C[Retrieve Information]
+>   C --> D[Critique Passages]
+>   D --> E[Generate Output with Reflection Tokens]
+>   B -->|No| F[Use Internal Knowledge]
+>   F --> G[Generate Output without Tokens]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-RAG vs Standard RAG**
+> *Compare Self-RAG's decision-making process with standard RAG.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Query] --> B[Evaluate Retrieval]
+>   B -->|Yes| C[Retrieve Information]
+>   C --> D[Critique Passages]
+>   D --> E[Generate Output]
+>   B -->|No| F[Use Internal Knowledge]
+>   F --> G[Generate Output]
+>   H[Standard RAG] --> I[Unconditional Retrieval]
+>   I --> J[Generate Output]
+> ```
 
 # Self-RAG
 

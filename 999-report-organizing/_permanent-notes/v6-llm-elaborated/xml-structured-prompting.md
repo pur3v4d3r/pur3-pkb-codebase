@@ -1,14 +1,13 @@
 ---
-title: "XML Structured Prompting"
+title: XML Structured Prompting
 aliases:
-  - "XML Structured Prompting"
-  - "XML prompt format"
-  - "XML-tagged prompting"
-  - "XML output structuring"
+  - XML Structured Prompting
+  - XML prompt format
+  - XML-tagged prompting
+  - XML output structuring
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,135 @@ subdomains:
   - llm-interaction
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "xml-structured-prompting-synthetic-seed-2026-05-21"
+  - xml-structured-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[JSON Mode Prompting]]"
-  - "[[Markdown Output Prompting]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Markdown Output Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[JSON Mode Prompting]]"
-  - "[[Markdown Output Prompting]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Markdown Output Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — XML Prompt Structure Overview**
+> *Identify the sections of an XML prompt and their tags.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Instructions]
+>   C[Context]
+>   D[Examples]
+>   E[Query]
+>   F[Output]
+>   G[Reasoning]
+>   H[Answer]
+>   I[Confidence]
+>   A -->|<instructions>| B
+>   A -->|<context>| C
+>   A -->|<examples>| D
+>   A -->|<query>| E
+>   F -->|<reasoning>| G
+>   F -->|<answer>| H
+>   F -->|<confidence>| I
+> ```
+
+
+> [!abstract] **Diagram 2 — XML Prompt to Output Flow**
+> *Follow the flow from input prompt to structured output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Model Processing]
+>   C[Output]
+>   D[Instructions]
+>   E[Context]
+>   F[Examples]
+>   G[Query]
+>   H[Reasoning]
+>   I[Answer]
+>   J[Confidence]
+>   A -->|<instructions>| D
+>   A -->|<context>| E
+>   A -->|<examples>| F
+>   A -->|<query>| G
+>   B --> C
+>   C -->|<reasoning>| H
+>   C -->|<answer>| I
+>   C -->|<confidence>| J
+> ```
+
+
+> [!abstract] **Diagram 3 — XML vs JSON Prompt Comparison**
+> *Compare XML and JSON structuring methods for prompts.*
+>
+> ```mermaid
+> classDiagram
+>   class XML {
+>     +<instructions>
+>     +<context>
+>     +<examples>
+>     +<query>
+>     +<reasoning>
+>     +<answer>
+>     +<confidence>
+>   }
+>   class JSON {
+>     +"instruction"
+>     +"context"
+>     +"examples"
+>     +"query"
+>     +"reasoning"
+>     +"answer"
+>     +"confidence"
+>   }
+>   XML -->|Unambiguous Delimiters| XML
+>   JSON -->|Ambiguous Syntax| JSON
+> ```
 
 # XML Structured Prompting
 

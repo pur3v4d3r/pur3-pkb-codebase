@@ -19,7 +19,7 @@ subdomains:
   - rhetoric
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - slippery-slope-fallacy-synthetic-seed-2026-04-26
@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Slippery Slope Process Flow**
+> *Follow the chain of events from initial action to dire consequences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Action] --> B[Step 1]
+>   B --> C[Step 2]
+>   C --> D[Step 3]
+>   D --> E[Dire Consequences]
+> ```
+
+
+> [!abstract] **Diagram 2 — Slippery Slope Mechanism Overview**
+> *Identify how low-probability transitions are exaggerated.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Action] --> B{Low Probability}
+>   B -->|Exaggerated| C[Dire Consequences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Slippery Slope in Policy Debates**
+> *Trace the argument from policy change to extreme outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policy Change] --> B{Intermediate Steps}
+>   B -->|Unlikely| C[Dire Consequences]
+> ```
 
 # Slippery Slope Fallacy
 

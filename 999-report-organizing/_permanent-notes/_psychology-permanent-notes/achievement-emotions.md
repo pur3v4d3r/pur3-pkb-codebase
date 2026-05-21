@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - achievement-emotions-synthetic-seed-2026-04-25
@@ -65,8 +65,62 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Achievement Emotions Influence Loop**
+> *Follow the arrows to see how emotions affect learning behaviors and vice versa.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotion]
+>   B[Cognitive Processes]
+>   C[Learning Behaviors]
+>   A -->|Influences|
+>   B
+>   B -->|Influences|
+>   C
+>   C -->|Feedback|
+>   A
+> ```
+
+
+> [!abstract] **Diagram 2 — Positive vs Negative Emotions Impact**
+> *Compare the effects of positive and negative emotions on learning outcomes.*
+>
+> ```mermaid
+> graph TD
+>   P[Positive Emotions] -->|Enhances|
+>   A[Focus]
+>   A -->|Improves|
+>   B[Retention]
+>   C[Negative Emotions] -->|Impedes|
+>   D[Processing]
+>   D -->|Reduces|
+>   E[Retailion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Emotion-Driven Metacognitive Loop**
+> *Trace the cycle of emotions influencing metacognition and vice versa.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Emotions] -->|Facilitates|
+>   B[Accurate Appraisals]
+>   B -->|Enhances|
+>   C[Efficacy]
+>   D[Negative Emotions] -->|Impedes|
+>   E[Misappraisals]
+>   E -->|Reduces|
+>   F[Effort]
+> ```
 
 # Achievement Emotions
 

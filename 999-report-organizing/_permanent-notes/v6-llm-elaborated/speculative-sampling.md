@@ -1,14 +1,13 @@
 ---
-title: "Speculative Sampling"
+title: Speculative Sampling
 aliases:
-  - "Speculative Sampling"
-  - "speculative decoding"
-  - "draft-then-verify"
-  - "assisted decoding"
+  - Speculative Sampling
+  - speculative decoding
+  - draft-then-verify
+  - assisted decoding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,82 @@ subdomains:
   - llm-decoding
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "speculative-sampling-synthetic-seed-2026-05-20"
+  - speculative-sampling-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Techniques"
-
+parent-concept: LLM Decoding Techniques
 related:
-  - "[[Beam Search Decoding]]"
-  - "[[Temperature Sampling]]"
+  - '[[Beam Search Decoding]]'
+  - '[[Temperature Sampling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Beam Search Decoding]]"
-  - "[[Temperature Sampling]]"
+  - '[[Beam Search Decoding]]'
+  - '[[Temperature Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Speculative Sampling Process Flow**
+> *Follow the flow from draft model proposal to target model verification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Draft Model]
+>   B --> C[Candidate Tokens]
+>   C --> D[Target Model]
+>   D --> E[Verification]
+>   E --> F[Accepted Token]
+>   F --> G[Output Sequence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Beam Search Decoding**
+> *Compare speculative sampling's proposal-verification approach to beam search's hypothesis generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Draft Model Proposal] --> C[Target Model Verification]
+>   D[Beam Search Hypothesis Generation] --> E[Cumulative Probability Scoring]
+> ```
 
 # Speculative Sampling
 

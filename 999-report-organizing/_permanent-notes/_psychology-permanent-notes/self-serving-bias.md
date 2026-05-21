@@ -18,7 +18,7 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-serving-bias-synthetic-seed-2026-04-25
@@ -66,8 +66,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Serving Bias Mechanism**
+> *Follow the flow from success to internal attribution, and failure to external attribution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success] --> B[Internals]
+>   F[Failure] --> G[Externals]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Serving Bias vs Fundamental Attribution Error**
+> *Compare the focus of each bias on internal and external attributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Serving Bias] -->|Internal Success| B[Internals]
+>   A -->|External Failure| C[Externals]
+>   D[Fundamental Attribution Error] -->|Internal Others' Behavior| E[Internals]
+>   D -->|External Situational Factors| F[Externals]
+> ```
 
 # Self-Serving Bias
 

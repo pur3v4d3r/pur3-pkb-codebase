@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -73,8 +73,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Mastery Approach Goal Hierarchy**
+> *Identify the types of goals within the goal orientation framework.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal Orientation Framework]
+>   B[Mastery-Approach Goals]
+>   C[Mastery-Avoidance Goals]
+>   D[Performance-Approach Goals]
+>   E[Performance-Avoidance Goals]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Mastery Approach Goals**
+> *Understand the cognitive processes involved in pursuing mastery-approach goals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic Motivation]
+>   B[Self-Efficacy]
+>   C[Positive Feedback Loop]
+>   D[Enhanced Learning Outcomes]
+>   A -->|drives engagement| C
+>   B -->|influences success perception| C
+>   C -->|improves outcomes| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Mastery Approach Goals**
+> *Explore how mastery-approach goals can be applied in educational settings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Student as S
+>   participant Instructional Design as ID
+>   participant Classroom Culture as CC
+>   participant Motivation as M
+>   E ->> ID: Emphasize personal growth
+>   E ->> CC: Foster cooperative learning
+>   E ->> M: Enhance intrinsic motivation
+>   ID -->> S: Formative feedback
+>   CC -->> S: Recognize effort and progress
+>   M -->> S: Personalized learning opportunities
+> ```
 
 # Mastery-Approach Goal
 

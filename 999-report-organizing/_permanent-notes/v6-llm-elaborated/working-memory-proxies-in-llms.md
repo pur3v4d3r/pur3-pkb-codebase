@@ -1,14 +1,13 @@
 ---
-title: "Working Memory Proxies in LLMs"
+title: Working Memory Proxies in LLMs
 aliases:
-  - "Working Memory Proxies in LLMs"
-  - "working memory simulation"
-  - "scratchpad memory"
-  - "chain-of-thought as working memory"
+  - Working Memory Proxies in LLMs
+  - working memory simulation
+  - scratchpad memory
+  - chain-of-thought as working memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,108 @@ subdomains:
   - ai-agents
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "working-memory-proxies-in-llms-synthetic-seed-2026-05-20"
+  - working-memory-proxies-in-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Cognitive Architecture"
-
+parent-concept: LLM Cognitive Architecture
 related:
-  - "[[Working Memory]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Working Memory]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Working Memory Proxy Mechanism**
+> *Follow the flow from input to output, noting how intermediate steps are managed.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Chain-of-Thought Prompting]
+>   C[Intermediate Steps]
+>   D[Output]
+>   A --> B
+>   B -->|Externalize Steps| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Process Flow**
+> *Trace the sequence of steps in a reasoning task, highlighting how state is maintained.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Task Breakdown]
+>   C[Intermediate Computation]
+>   D[Result Aggregation]
+>   E[End]
+>   A --> B
+>   B -->|Maintain State| C
+>   C -->|Sequential Processing| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Human vs AI Working Memory**
+> *Compare the human and LLM working memory processes, noting key differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Human WM]
+>   B[Ai WM Proxy]
+>   C[Maintain State]
+>   D[Metacognitive Monitoring]
+>   E[Error Propagation]
+>   F[No Correction]
+>   A -->|Maintain State| C
+>   A -->|Monitor and Correct| D
+>   B -->|Maintain State| C
+>   B -->|No Metacognition| F
+>   C -->|Correct Errors| D
+>   C -->|Propagate Errors| E
+> ```
 
 # Working Memory Proxies in LLMs
 

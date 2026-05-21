@@ -20,7 +20,7 @@ subdomains:
   - information-retrieval
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - late-chunking-synthetic-seed-2026-05-20
@@ -67,8 +67,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Late Chunking Process Flow**
+> *Follow the sequence from document encoding to chunk-level embeddings.*
+>
+> ```mermaid
+> graph TD
+>   A[Document]
+>   B[Long-Context Model Encoding]
+>   C[Chunking]
+>   D[Mean Pooling]
+>   E[Chunk-Level Embeddings]
+>   A --> B
+>   B -->|Embeddings| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Late vs Early Chunking Comparison**
+> *Compare the contextual information flow in Late and Early Chunking.*
+>
+> ```mermaid
+> graph TD
+>   A[Document]
+>   B1[Early Chunking: Split Document]
+>   B2[Early Chunking: Encode Chunks]
+>   C1[Late Chunking: Encode Full Document]
+>   C2[Late Chunking: Split into Chunks]
+>   D1[Local Context Embeddings]
+>   D2[Global Context Embeddings]
+>   E1[Chunk-Level Embeddings]
+>   A --> B1
+>   A --> C1
+>   B1 -->|Chunks| B2
+>   C1 -->|Full Document| C2
+>   B2 --> D1
+>   C2 --> D2
+>   D1 --> E1
+>   D2 --> E1
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the flow of information in top-down and bottom-up processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Document]
+>   B1[Bottom-Up: Local Features]
+>   B2[Aggregate Local Features]
+>   C1[Top-Down: Global Context]
+>   C2[Late Chunking: Encode Full Document]
+>   D[Chunk-Level Embeddings]
+>   A --> B1
+>   A --> C1
+>   B1 -->|Local Features| B2
+>   C1 -->|Global Context| C2
+>   B2 --> D
+>   C2 --> D
+> ```
 
 # Late Chunking
 

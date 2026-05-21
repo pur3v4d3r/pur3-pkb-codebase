@@ -1,14 +1,13 @@
 ---
-title: "Positional Bias in Context"
+title: Positional Bias in Context
 aliases:
-  - "Positional Bias in Context"
-  - "position bias"
-  - "primacy-recency effect in LLMs"
-  - "lost-in-the-middle effect"
+  - Positional Bias in Context
+  - position bias
+  - primacy-recency effect in LLMs
+  - lost-in-the-middle effect
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,102 @@ subdomains:
   - llm-context-management
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "positional-bias-in-context-synthetic-seed-2026-05-21"
+  - positional-bias-in-context-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Context Management"
-
+parent-concept: LLM Context Management
 related:
-  - "[[Recency Bias in LLMs]]"
-  - "[[Primacy Bias in LLMs]]"
+  - '[[Recency Bias in LLMs]]'
+  - '[[Primacy Bias in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Recency Bias in LLMs]]"
-  - "[[Primacy Bias in LLMs]]"
+  - '[[Recency Bias in LLMs]]'
+  - '[[Primacy Bias in LLMs]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Positional Bias Overview**
+> *Identify the favored positions and biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Primacy Bias]
+>   C[Recency Bias]
+>   D[Middle Loss]
+>   A -->|Favors Start| B
+>   A -->|Favors End| C
+>   A -->|Less Attention| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Patterns and Encodings**
+> *Understand the interaction of attention patterns with positional encodings.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Causal Attention]
+>   C[Positional Encoding]
+>   D[Attention Weights]
+>   A -->|Causal Patterns| B
+>   A -->|Positional Cues| C
+>   B -->|Modulated by Encodings| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Data Influence**
+> *See how training data shapes positional biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Critical Info at Start/End]
+>   C[Learns Patterns]
+>   D[Biased Attention]
+>   A -->|Critical Info| B
+>   B -->|Learned Patterns| C
+>   C -->|Biases Persist| D
+> ```
 
 # Positional Bias in Context
 

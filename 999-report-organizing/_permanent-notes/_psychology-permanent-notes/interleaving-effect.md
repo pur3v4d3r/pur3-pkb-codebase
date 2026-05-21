@@ -18,7 +18,7 @@ subdomains:
   - study-strategies
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - interleaving-effect-synthetic-seed-2026-04-24
@@ -66,8 +66,83 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Interleaved vs Blocked Practice**
+> *Compare the structure of interleaved and blocked practice schedules.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Set 1]
+>   B[Problem Set 2]
+>   C[Problem Set 3]
+>   D[Problem Set 4]
+>   E[Problem Set 5]
+>   F[Problem Set 6]
+>   G[Problem Set 7]
+>   H[Problem Set 8]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+>   subgraph Interleaved Practice
+>     A -->|Category A| B
+>     B -->|Category B| C
+>     C -->|Category A| D
+>     D -->|Category B| E
+>     E -->|Category A| F
+>     F -->|Category B| G
+>     G -->|Category A| H
+>   end
+>   subgraph Blocked Practice
+>     A -->|Category A| B
+>     B -->|Category A| C
+>     C -->|Category A| D
+>     D -->|Category B| E
+>     E -->|Category B| F
+>     F -->|Category B| G
+>     G -->|Category B| H
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load During Practice**
+> *Observe the cognitive load changes during interleaved practice.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> IntrinsicLoad: Category A Problem
+>   IntrinsicLoad --> DiscriminativeJudgment: Switch to Category B
+>   DiscriminativeJudgment --> IntrinsicLoad: Category B Problem
+>   IntrinsicLoad --> DiscriminativeJudgment: Switch back to Category A
+>   DiscriminativeJudgment --> [*]
+> ```
+
+
+> [!abstract] **Diagram 3 — Interleaving in Instructional Design**
+> *See how interleaving can be applied in instructional design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   T->>S: Present Category A Problem
+>   S-->>T: Solve Category A Problem
+>   T->>S: Present Category B Problem
+>   S-->>T: Solve Category B Problem
+>   T->>S: Present Category C Problem
+>   S-->>T: Solve Category C Problem
+> ```
 
 # Interleaving Effect
 

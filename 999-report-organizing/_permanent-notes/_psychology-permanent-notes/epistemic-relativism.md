@@ -18,7 +18,7 @@ subdomains:
   - sociology-of-knowledge
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemic-relativism-synthetic-seed-2026-05-12
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemic Relativism Frameworks**
+> *Identify the relative nature of epistemic standards across different frameworks.*
+>
+> ```mermaid
+> graph TD
+>   A[Framework1] --> B[Justified Beliefs]
+>   C[Framework2] --> D[Justified Beliefs]
+>   E[Framework3] --> F[Justified Beliefs]
+>   subgraph Frameworks
+>     A -->|Relative Standards| G[No Neutral Standpoint]
+>     C -->|Relative Standards| G
+>     E -->|Relative Standards| G
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Relativism vs Contextualism**
+> *Compare Epistemic Relativism with Contextualism in terms of neutral epistemic court.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Relativism] --> B[No Neutral Standpoint]
+>   C[Contextualism] --> D[Neutral Court Allowed]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the distinction between reflective and reactive thinking in Epistemic Relativism.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] --> B[Cultural Context]
+>   C[Reactive] --> D[Immediate Belief]
+> ```
 
 # Epistemic Relativism
 

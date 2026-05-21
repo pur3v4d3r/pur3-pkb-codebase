@@ -16,7 +16,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - emergence-synthetic-seed-2026-04-25
@@ -64,8 +64,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Emergence Process Flowchart**
+> *Follow the flow from individual behaviors to emergent patterns.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Individual Behaviors] --> B[Interactions]
+>   B --> C[Emergent Patterns]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emergence in Complex Systems Hierarchy**
+> *Trace the hierarchy from components to emergent phenomena.*
+>
+> ```mermaid
+> graph TD
+>   A[Components] --> B[Interactions]
+>   B --> C[Emergent Phenomena]
+> ```
+
+
+> [!abstract] **Diagram 3 — Emergence in Practical Applications**
+> *Identify the emergent phenomena in various fields.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Educational Outcomes]
+>   C[Economics] --> D[Market Prices]
+>   E[Technology] --> F[User Interfaces]
+> ```
 
 # Emergence
 

@@ -18,7 +18,7 @@ subdomains:
   - educational-measurement
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - summative-assessment-synthetic-seed-2026-04-26
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Summative Assessment Process Flow**
+> *Follow the flow from instruction to certification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instruction] --> B[Test Preparation]
+>   B --> C[Evaluation]
+>   C --> D[Certification]
+> ```
+
+
+> [!abstract] **Diagram 2 — Summative vs Formative Assessment Comparison**
+> *Compare the purposes and timing of both types.*
+>
+> ```mermaid
+> graph TD
+>   A[Formative]
+>   B[Summative]
+>   A -->|Ongoing Feedback| C[Improvement During Instruction]
+>   B -->|Final Evaluation| D[Certification at End]
+> ```
+
+
+> [!abstract] **Diagram 3 — Washback Effects on Instruction**
+> *Trace the impact of high-stakes assessments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Stakes Summative Assessment] --> B[Narrow Focus]
+>   B --> C[Negative Washback]
+>   C --> D[Degraded Learning Outcomes]
+> ```
 
 # Summative Assessment
 

@@ -1,14 +1,13 @@
 ---
-title: "Socratic Prompting"
+title: Socratic Prompting
 aliases:
-  - "Socratic Prompting"
-  - "Socratic method prompting"
-  - "question-driven reasoning"
-  - "elenctic prompting"
+  - Socratic Prompting
+  - Socratic method prompting
+  - question-driven reasoning
+  - elenctic prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,101 @@ subdomains:
   - educational-methods
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "socratic-prompting-synthetic-seed-2026-05-20"
+  - socratic-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Metacognitive Prompting]]"
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Self-Ask Prompting]]"
+  - '[[Metacognitive Prompting]]'
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Self-Ask Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Metacognitive Prompting]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Metacognitive Prompting]]'
+  - '[[Chain-of-Thought Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Self-Ask Prompting]]"
+  - '[[Self-Ask Prompting]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Socratic Prompting Process Flow**
+> *Follow the sequence of questions and answers to understand the reasoning process.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Question]
+>   B[Subsequent Questions]
+>   C[Answer Evaluation]
+>   D[Refinement]
+>   A --> B
+>   B -->|Challenges Assumptions| C
+>   C -->|Justifies Claims| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Socratic Prompting vs Other Methods**
+> *Compare Socratic Prompting with direct answer generation and free-form reasoning chains.*
+>
+> ```mermaid
+> graph TD
+>   A[Socratic Prompting]
+>   B[Direct Answer Generation]
+>   C[Free-Form Reasoning Chains]
+>   A -->|Structured Questions| D[Epistemic Discipline]
+>   B -->|Quick Answers| E[Lack of Justification]
+>   C -->|Unstructured Exploration| F[Lack of Rigor]
+> ```
+
+
+> [!abstract] **Diagram 3 — Socratic Prompting Applications**
+> *Identify the different areas where Socratic Prompting can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Critical Thinking Enhancement]
+>   C[Model Reasoning Improvement]
+>   A -->|Guided Problem Solving|
+>   B -->|Question-driven Learning|
+>   C -->|Structured Thought Process|
+> ```
 
 # Socratic Prompting
 

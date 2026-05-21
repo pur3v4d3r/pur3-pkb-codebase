@@ -18,7 +18,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - quasar-synthetic-seed-2026-05-14
@@ -65,8 +65,73 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Quasar Luminosity Mechanism**
+> *Follow the path of energy from accretion to emission.*
+>
+> ```mermaid
+> graph TD
+>   A[Accretion Disc]
+>   B[Matter Inflow]
+>   C[Black Hole]
+>   D[Emission]
+>   E[Radiation]
+>   F[Jets]
+>   G[Intergalactic Medium]
+>   B --> A
+>   A -->|Heating| C
+>   C -->|Gravitational Energy| D
+>   D -->|Radiation| E
+>   D -->|Magnetic Fields| F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Quasar vs Seyfert Galaxies Comparison**
+> *Compare the luminosity and emission characteristics of quasars and Seyferts.*
+>
+> ```mermaid
+> graph TD
+>   A[Quasar]
+>   B[Seyfert Galaxy]
+>   C[Luminous AGN]
+>   D[Less Luminous AGN]
+>   E[Intense Radiation]
+>   F[Strong Emission Lines]
+>   G[High Accretion Rate]
+>   H[Lower Accretion Rate]
+>   A -->|C| C
+>   B -->|D| D
+>   A -->|E| E
+>   B -->|F| F
+>   A -->|G| G
+>   B -->|H| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Quasar Discovery Process**
+> *Trace the steps from initial observation to confirmation of quasars.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant Telescope as T
+>   participant Spectrograph as S
+>   participant Astronomer as A
+>   O->>T: Observes Bright Object
+>   T->>S: Captures Spectrum
+>   S->>A: Analyzes Data
+>   A->>O: Identifies Broad Emission Lines
+>   O->>A: Confirms Redshifted Hydrogen Balmer Features
+> ```
 
 # Quasar
 

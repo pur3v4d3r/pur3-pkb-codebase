@@ -1,14 +1,13 @@
 ---
-title: "Task Decomposition Agents"
+title: Task Decomposition Agents
 aliases:
-  - "Task Decomposition Agents"
-  - "task decomposition"
-  - "sub-goal generation"
-  - "hierarchical task planning"
+  - Task Decomposition Agents
+  - task decomposition
+  - sub-goal generation
+  - hierarchical task planning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,93 @@ subdomains:
   - problem-solving
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "task-decomposition-agents-synthetic-seed-2026-05-20"
+  - task-decomposition-agents-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Hierarchical Task Planning"
-
+parent-concept: Hierarchical Task Planning
 related:
-  - "[[Hierarchical Task Planning]]"
-  - "[[Decomposed Prompting]]"
+  - '[[Hierarchical Task Planning]]'
+  - '[[Decomposed Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Hierarchical Task Planning]]"
+  - '[[Hierarchical Task Planning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Decomposed Prompting]]"
+  - '[[Decomposed Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Task Decomposition Process Flow**
+> *Follow the flow from task analysis to sub-task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Analysis] --> B[Identify Components]
+>   B --> C[Break Down Sub-Tasks]
+>   C --> D[Verify Each Sub-Task]
+>   D --> E[Integrate Solutions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Static vs Dynamic Decomposition Comparison**
+> *Compare static and dynamic decomposition methods for flexibility.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Decomposition] --> B[Predefined Rules]
+>   C[Dynamic Decomposition] --> D[Real-Time Adjustments]
+>   A ---|Less Flexible| E[Execution]
+>   C ---|More Adaptive| F[Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Hierarchy Example**
+> *Observe how a complex task is broken down into sub-tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Task] --> B[Sub-Task1]
+>   A --> C[Sub-Task2]
+>   B --> D[Sub-SubTask1]
+>   B --> E[Sub-SubTask2]
+>   C --> F[Sub-SubTask3]
+> ```
 
 # Task Decomposition Agents
 

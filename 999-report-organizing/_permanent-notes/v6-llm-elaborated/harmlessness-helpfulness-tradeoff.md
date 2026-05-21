@@ -1,15 +1,14 @@
 ---
-title: "Harmlessness-Helpfulness Tradeoff"
+title: Harmlessness-Helpfulness Tradeoff
 aliases:
-  - "Harmlessness-Helpfulness Tradeoff"
-  - "safety-utility tradeoff"
-  - "HH tradeoff"
-  - "alignment tax"
-  - "helpful-harmless tension"
+  - Harmlessness-Helpfulness Tradeoff
+  - safety-utility tradeoff
+  - HH tradeoff
+  - alignment tax
+  - helpful-harmless tension
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,124 @@ subdomains:
   - ai-ethics
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "harmlessness-helpfulness-tradeoff-synthetic-seed-2026-05-21"
+  - harmlessness-helpfulness-tradeoff-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Constitutional AI]]"
-  - "[[Overrefusal Problem]]"
+  - '[[Constitutional AI]]'
+  - '[[Overrefusal Problem]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Constitutional AI]]"
+  - '[[Constitutional AI]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Overrefusal Problem]]"
+  - '[[Overrefusal Problem]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Harmlessness vs Helpfulness Tradeoff**
+> *Follow the arrows to see how safety and utility are balanced.*
+>
+> ```mermaid
+> graph TD
+>   A[Refusal]
+>   B[Hedging/Disclaiming]
+>   C[Overrefusal Problem]
+>   D[Constitutional AI]
+>   E[Nuanced Safety]
+>   F[Context-Sensitive Reasoning]
+>   G[Helpfulness]
+>   H[Utility]
+>   A -->|Reduces Helpfulness| B
+>   B -->|Balances Harmlessness| C
+>   C -->|Overemphasizes Safety| D
+>   D -->|Explicit Reasoning| E
+>   E -->|Better Calibration| F
+>   F -->|Enhanced Utility| G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — Calibration Issues vs Capability Limitations**
+> *Compare the paths to understand the difference between calibration and capability.*
+>
+> ```mermaid
+> graph TD
+>   A[Imprecise Safety Training]
+>   B[Nuanced Specifications]
+>   C[Constitutional AI]
+>   D[Better Calibration]
+>   E[Harmlessness vs Helpfulness Tradeoff]
+>   F[Intrinsic Capability Limitations]
+>   G[Fixed Tradeoff]
+>   H[Ambiguous Requests]
+>   A -->|Improves with Nuance| B
+>   B --> C
+>   C -->|Reduces Tension| D
+>   D --> E
+>   F -->|No Improvement Possible| G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Tradeoff**
+> *Trace the flow to see how safety and utility are balanced in instructional design.*
+>
+> ```mermaid
+> graph TD
+>   A[Legitimate Queries]
+>   B[Harmful Behaviors]
+>   C[Misinformation]
+>   D[Cautious Refusal]
+>   E[Nuanced Safety]
+>   F[Educational Content]
+>   G[Utility]
+>   H[Safety]
+>   A -->|Balancing Act| B
+>   B -->|Avoid Harmful Behaviors| C
+>   C -->|Prevent Misinformation| D
+>   D -->|Overcautious Refusal| E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
 
 # Harmlessness-Helpfulness Tradeoff
 

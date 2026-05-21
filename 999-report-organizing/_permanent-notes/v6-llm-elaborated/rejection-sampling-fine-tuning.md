@@ -1,15 +1,14 @@
 ---
-title: "Rejection Sampling Fine-Tuning"
+title: Rejection Sampling Fine-Tuning
 aliases:
-  - "Rejection Sampling Fine-Tuning"
-  - "rejection sampling"
-  - "best-of-N fine-tuning"
-  - "RST"
-  - "STaR-based fine-tuning"
+  - Rejection Sampling Fine-Tuning
+  - rejection sampling
+  - best-of-N fine-tuning
+  - RST
+  - STaR-based fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,95 @@ subdomains:
   - data-generation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "rejection-sampling-fine-tuning-synthetic-seed-2026-05-21"
+  - rejection-sampling-fine-tuning-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning Techniques"
-
+parent-concept: LLM Fine-Tuning Techniques
 related:
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Rejection Sampling Process Flow**
+> *Follow the iterative cycle from generation to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Candidates] --> B[Score Completions]
+>   B --> C{Top-Scoring?}
+>   C -- Yes --> D[Fine-Tune Model]
+>   C -- No --> E[Discard]
+>   D --> F[Next Iteration]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — RST vs RLHF Comparison**
+> *Compare the feedback sources in RST and RLHF.*
+>
+> ```mermaid
+> graph TD
+>   A[RST] --> B[Internal Best Performances]
+>   C[RLHF] --> D[External Human Feedback]
+>   E{Feedback Source}
+>   E -- Internal --> A
+>   E -- External --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — RST Application Areas**
+> *Identify the tasks where RST is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[RST]
+>   C[Math Problem Solving] --> B
+>   D[Code Generation] --> B
+> ```
 
 # Rejection Sampling Fine-Tuning
 

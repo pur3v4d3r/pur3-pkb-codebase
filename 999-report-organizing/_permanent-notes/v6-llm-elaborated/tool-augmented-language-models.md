@@ -1,15 +1,14 @@
 ---
-title: "Tool-Augmented Language Models"
+title: Tool-Augmented Language Models
 aliases:
-  - "Tool-Augmented Language Models"
-  - "tool-use LLMs"
-  - "function-calling models"
-  - "tool-enabled LLMs"
-  - "LLMs with tools"
+  - Tool-Augmented Language Models
+  - tool-use LLMs
+  - function-calling models
+  - tool-enabled LLMs
+  - LLMs with tools
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,80 @@ subdomains:
   - software-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tool-augmented-language-models-synthetic-seed-2026-05-21"
+  - tool-augmented-language-models-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Large Language Models]]"
-  - "[[Function Calling Models]]"
+  - '[[Large Language Models]]'
+  - '[[Function Calling Models]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Large Language Models]]"
+  - '[[Large Language Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Function Calling Models]]"
+  - '[[Function Calling Models]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Tool-Augmented Language Model Process Flow**
+> *Follow the flow from task identification to tool invocation and back into text generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Identification] --> B[External Information Needed]
+>   B --> C[Invoke Tool]
+>   C --> D[Integrate Output]
+>   D --> E[Text Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tool-Augmented Language Model Mechanism Overview**
+> *Trace the steps from task recognition to tool integration and final output.*
+>
+> ```mermaid
+> graph TD
+>   A(Task Recognition) --> B(Formulate Request)
+>   B --> C(INVOKE Tool)
+>   C --> D(Integrate Output)
+>   D --> E(Generate Text)
+> ```
 
 # Tool-Augmented Language Models
 

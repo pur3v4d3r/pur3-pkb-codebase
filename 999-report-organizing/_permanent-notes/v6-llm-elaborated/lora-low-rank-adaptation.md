@@ -20,7 +20,7 @@ subdomains:
   - linear-algebra
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - lora-low-rank-adaptation-synthetic-seed-2026-05-20
@@ -69,8 +69,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Weight Update Approximation Process**
+> *Follow the flow of weight update approximation from original matrix to low-rank matrices.*
+>
+> ```mermaid
+> graph TD
+>   A[Original Weight Matrix W]
+>   B[Factorize into A (d×r)]
+>   C[Factorize into B (r×k)]
+>   D[Compute ΔW = BA]
+>   A -->|Factorization| B
+>   A -->|Factorization| C
+>   B -->|Multiplication| D
+>   C -->|Multiplication| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Full Fine-Tuning**
+> *Compare the parameter efficiency and performance of LoRA against full fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[LoRA]
+>   B[Full Fine-Tuning]
+>   C[Parameter Efficiency]
+>   D[Performance]
+>   E[Low Parameters]
+>   F[High Parameters]
+>   G[Effective Adaptation]
+>   H[Effective Adaptation]
+>   A -->|C| E
+>   A -->|D| G
+>   B -->|C| F
+>   B -->|D| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Task-Specific Adaptation Workflow**
+> *Trace the workflow from task-specific adaptation to model deployment.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Specific Data]
+>   B[Train LoRA Matrices A and B]
+>   C[Compute ΔW = BA]
+>   D[Merge Updates into Original Weights]
+>   E[Test Model Performance]
+>   F[Deploy Adapted Model]
+>   A -->|Input| B
+>   B -->|Training| C
+>   C -->|Update| D
+>   D -->|Evaluation| E
+>   E -->|Validation| F
+> ```
 
 # Low-Rank Adaptation
 

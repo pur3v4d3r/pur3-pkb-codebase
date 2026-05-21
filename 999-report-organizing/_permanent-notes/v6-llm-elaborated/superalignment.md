@@ -1,13 +1,12 @@
 ---
-title: "Superalignment"
+title: Superalignment
 aliases:
-  - "Superalignment"
-  - "superintelligence alignment"
-  - "scalable alignment for superintelligent systems"
+  - Superalignment
+  - superintelligence alignment
+  - scalable alignment for superintelligent systems
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,84 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "superalignment-synthetic-seed-2026-05-20"
+  - superalignment-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Scalable Oversight]]"
-  - "[[Iterated Amplification]]"
-  - "[[Constitutional AI Principles]]"
+  - '[[Scalable Oversight]]'
+  - '[[Iterated Amplification]]'
+  - '[[Constitutional AI Principles]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Scalable Oversight]]"
+  - '[[Scalable Oversight]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Iterated Amplification]]"
+  - '[[Iterated Amplification]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Constitutional AI Principles]]"
+  - '[[Constitutional AI Principles]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Superalignment vs Conventional Alignment**
+> *Compare the oversight mechanisms required for each approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Conventional Alignment]
+>   B[Superalignment]
+>   A -->|Direct Human Evaluation| C[Human Oversight]
+>   B -->|Robust Mechanisms| D[Scalable Oversight]
+> ```
+
+
+> [!abstract] **Diagram 2 — Iterative Superalignment Process**
+> *Follow the feedback loop from current AI to future superintelligent systems.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Current AI]
+>   B[Evaluate Potential Misalignments]
+>   C[Preemptive Adjustments]
+>   D[Future Superintelligent AI]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # Superalignment
 

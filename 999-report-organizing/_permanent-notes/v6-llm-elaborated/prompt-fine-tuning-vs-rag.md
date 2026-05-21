@@ -1,14 +1,13 @@
 ---
-title: "Prompt Fine-Tuning vs RAG"
+title: Prompt Fine-Tuning vs RAG
 aliases:
-  - "Prompt Fine-Tuning vs RAG"
-  - "fine-tuning vs RAG"
-  - "FT vs RAG tradeoff"
-  - "parametric vs retrieval knowledge"
+  - Prompt Fine-Tuning vs RAG
+  - fine-tuning vs RAG
+  - FT vs RAG tradeoff
+  - parametric vs retrieval knowledge
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,86 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-fine-tuning-vs-rag-synthetic-seed-2026-05-20"
+  - prompt-fine-tuning-vs-rag-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Instruction Fine-Tuning]]"
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Instruction Fine-Tuning]]'
+  - '[[Parameter-Efficient Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Instruction Fine-Tuning]]"
+  - '[[Instruction Fine-Tuning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fine-Tuning vs RAG Core Concepts**
+> *Compare persistent behavioral patterns with up-to-date factual knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A["Persistent Behavioral Patterns"] --> B[Fine-Tuning]
+>   C["Up-to-Date Factual Knowledge"] --> D[RAG]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Design Tradeoff**
+> *See how fine-tuning and RAG impact instructional consistency.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Consistent Teaching Styles"] --> B[Fine-Tuning]
+>   C["Dynamic Content Delivery"] --> D[RAG]
+> ```
+
+
+> [!abstract] **Diagram 3 — Customer Service Chatbot Tradeoff**
+> *Understand the balance between consistent responses and up-to-date information.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Consistent Brand Voice"] --> B[Fine-Tuning]
+>   C["Current Product Info"] --> D[RAG]
+> ```
 
 # Prompt Fine-Tuning vs RAG
 

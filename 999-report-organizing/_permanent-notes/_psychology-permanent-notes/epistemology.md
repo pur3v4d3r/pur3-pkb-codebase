@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemology-synthetic-seed-2026-04-25
@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemology Theories Overview**
+> *Identify the main theories and their focus areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Justified-True-Belief]
+>   B[Virtue Epistemology] --> C[Intellectual Virtues]
+>   D[Reliabilism] --> E[Cognitive Reliability]
+>   F[Foundationalism] --> G[Indubitable Beliefs]
+>   H[Coherentism] --> I[Interconnected Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemology Evaluation Criteria**
+> *Trace the criteria used to evaluate knowledge claims.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Knowledge Claims]
+>   B[Evaluation Against Alternatives] --> C[Belief]
+>   D[Opinion] --> E[Ignorance]
+>   F[Virtue Epistemology] --> G[Character and Reliability]
+>   H[Reliabilism] --> I[Cognitive Process Reliability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Epistemological Applications**
+> *See how epistemology applies in different fields.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Researcher as R
+>   participant MOOC Designer as M
+>   E->>E: Foster genuine knowledge acquisition
+>   R->>R: Develop robust methodologies
+>   M->>M: Enhance knowledge retention
+> ```
 
 # Epistemology
 

@@ -17,7 +17,7 @@ subdomains:
   - social-cognition
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - need-for-cognition-synthetic-seed-2026-04-25
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — NFC Concept Hierarchy**
+> *Follow the hierarchy from general to specific aspects of NFC.*
+>
+> ```mermaid
+> graph TD
+>   A[Personality Traits] --> B[NFC]
+>   B --> C[System-2 Thinking]
+>   B --> D[Cognitive Effort Enjoyment]
+> ```
+
+
+> [!abstract] **Diagram 2 — NFC vs Cognitive Ability**
+> *Compare NFC with cognitive ability to understand their distinct roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Need for Cognition] --> B[Intrinsic Motivation]
+>   C[Cognitive Ability] --> D[Intelligence Measure]
+>   E[NFC and CA Distinct] --> F[Orthogonal Measures]
+> ```
+
+
+> [!abstract] **Diagram 3 — NFC in Decision-Making**
+> *Trace the decision-making process for high vs low NFC individuals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Issue] --> B[NFC High]
+>   B --> C[Thorough Analysis]
+>   A --> D[NFC Low]
+>   D --> E[Simpler Heuristics]
+> ```
 
 # Need for Cognition
 

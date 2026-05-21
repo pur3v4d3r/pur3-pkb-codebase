@@ -17,7 +17,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - explicit-instruction-synthetic-seed-2026-04-25
@@ -64,8 +64,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Explicit Instruction Process Flow**
+> *Follow the sequence from demonstration to independent practice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Demonstration]
+>   B --> C[Worked Examples]
+>   C --> D[Guided Practice]
+>   D --> E[Immediate Feedback]
+>   E --> F[Reduced Support]
+>   F --> G[Independent Problem Solving]
+> ```
+
+
+> [!abstract] **Diagram 2 — Explicit Instruction vs Discovery Learning**
+> *Compare the guided and unguided approaches to learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Instruction] --> B[Demonstration]
+>   A --> C[Worked Examples]
+>   A --> D[Guided Practice]
+>   A --> E[Immediate Feedback]
+>   F[Discovery Learning] --> G[Student Exploration]
+>   F --> H[Self-Discovered Solutions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Reduction Mechanism**
+> *Trace how Explicit Instruction reduces cognitive load.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Task] --> B[Breakdown]
+>   B --> C[Manageable Steps]
+>   C --> D[Clear Instructions]
+>   D --> E[Focused Attention]
+>   E --> F[Reduced Cognitive Load]
+> ```
 
 # Explicit Instruction
 

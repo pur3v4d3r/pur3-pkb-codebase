@@ -1,14 +1,13 @@
 ---
-title: "Outcome Reward Models"
+title: Outcome Reward Models
 aliases:
-  - "Outcome Reward Models"
-  - "ORMs"
-  - "outcome-based reward models"
-  - "final-answer reward models"
+  - Outcome Reward Models
+  - ORMs
+  - outcome-based reward models
+  - final-answer reward models
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,95 @@ subdomains:
   - llm-training
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "outcome-reward-models-synthetic-seed-2026-05-20"
+  - outcome-reward-models-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Process Reward Models]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Process Reward Models]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Process Reward Models]]"
+  - '[[Process Reward Models]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — ORM Evaluation Process**
+> *Follow the flow from preference data to model alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Preference Data]
+>   B[Train ORM]
+>   C[Evaluate Output]
+>   D[Align LLM]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — ORM vs Process-based Models**
+> *Compare the evaluation criteria of both model types.*
+>
+> ```mermaid
+> graph TD
+>   ORM[Outcome Reward Model]
+>   PB[Process-Based Model]
+>   ORM -->|Final Output Only|
+>   PB -->|Every Step in Generation|
+> ```
+
+
+> [!abstract] **Diagram 3 — ORM Application Areas**
+> *Identify the key application areas for Outcome Reward Models.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   ORM --> A
+>   ORM --> B
+> ```
 
 # Outcome Reward Models
 

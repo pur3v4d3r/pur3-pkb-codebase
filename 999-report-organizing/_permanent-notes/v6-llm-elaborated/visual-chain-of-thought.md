@@ -1,14 +1,13 @@
 ---
-title: "Visual Chain of Thought"
+title: Visual Chain of Thought
 aliases:
-  - "Visual Chain of Thought"
-  - "visual CoT"
-  - "multimodal CoT"
-  - "image reasoning chain"
+  - Visual Chain of Thought
+  - visual CoT
+  - multimodal CoT
+  - image reasoning chain
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,102 @@ subdomains:
   - chain-of-thought-prompting
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "visual-chain-of-thought-synthetic-seed-2026-05-20"
+  - visual-chain-of-thought-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Multimodal Reasoning"
-
+parent-concept: Multimodal Reasoning
 related:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Vision-Language Models]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Vision-Language Models]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Vision-Language Models]]"
+  - '[[Vision-Language Models]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Visual CoT Process Flow**
+> *Follow the steps from observation to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Image] --> B[Identify Elements]
+>   B --> C[Reason Relationships]
+>   C --> D[Refine Understanding]
+>   D --> E[Final Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Visual CoT Mechanism Overview**
+> *Trace the iterative reasoning process from start to finish.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Observation] --> B[Element Identification]
+>   B --> C[Reasoning Step]
+>   C --> D[Refinement]
+>   D --> E[Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 3 — Visual CoT vs Traditional Reasoning**
+> *Compare the explicit steps in Visual CoT with traditional reasoning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   U->>M: Provide Image Input
+>   alt Visual CoT
+>     loop Iterative Reasoning
+>       M->>U: Describe Observation
+>       U->>M: Identify Elements
+>       M->>U: Reason Relationships
+>       U->>M: Refine Understanding
+>     end
+>     M-->>U: Final Conclusion
+>   else Traditional Reasoning
+>     M->>U: Direct Answer
+>   end
+> ```
 
 # Visual Chain of Thought
 

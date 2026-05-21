@@ -1,14 +1,13 @@
 ---
-title: "Working Memory Constraints in Prompts"
+title: Working Memory Constraints in Prompts
 aliases:
-  - "Working Memory Constraints in Prompts"
-  - "effective working memory LLMs"
-  - "context processing limits"
-  - "information chunk limits in prompts"
+  - Working Memory Constraints in Prompts
+  - effective working memory LLMs
+  - context processing limits
+  - information chunk limits in prompts
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,83 @@ subdomains:
   - context-window-management
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "working-memory-constraints-in-prompts-synthetic-seed-2026-05-20"
+  - working-memory-constraints-in-prompts-synthetic-seed-2026-05-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Working Memory]]"
-  - "[[Context Processing Limits]]"
+  - '[[Working Memory]]'
+  - '[[Context Processing Limits]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[Context Processing Limits]]"
+  - '[[Context Processing Limits]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Positional Bias in LLMs**
+> *Identify how information position affects accessibility.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[Beginning]
+>   A --> C[Middle]
+>   A --> D[End]
+>   style B fill:#f96,stroke:#333,stroke-width:4px
+>   style D fill:#f96,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — Chunking Information Strategy**
+> *Understand how to break down complex data for better processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Data] --> B[Chunk1]
+>   B --> C[Chunk2]
+>   C --> D[Chunk3]
+>   style B fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#f96,stroke:#333,stroke-width:4px
+>   style D fill:#f96,stroke:#333,stroke-width:4px
+> ```
 
 # Working Memory Constraints in Prompts
 

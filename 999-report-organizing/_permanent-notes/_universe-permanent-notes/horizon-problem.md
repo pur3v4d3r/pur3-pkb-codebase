@@ -16,7 +16,7 @@ subdomains:
   - theoretical-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - horizon-problem-synthetic-seed-2026-05-14
@@ -63,8 +63,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Causal Horizon Limitation**
+> *Follow the timeline to see how regions were never causally connected.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial State]
+>   B[Expansion]
+>   C[Recombination]
+>   D[Current State]
+>   A -->|Rapid Expansion| B
+>   B -->|Cooling and Expansion| C
+>   C -->|No Direct Contact| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Temperature Uniformity Across Sky**
+> *Observe the uniform temperature distribution despite causal disconnect.*
+>
+> ```mermaid
+> graph TD
+>   A[Region1]
+>   B[Region2]
+>   C[Region3]
+>   D[Region4]
+>   E[Uniform Temperature]
+>   F[CMB Decoupling]
+>   G[Distant Regions]
+>   H[No Contact Before Recombination]
+>   A -->|E| B
+>   B -->|E| C
+>   C -->|E| D
+>   A -->|F| G
+>   G -->|H| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Inflationary Solution Overview**
+> *Trace the sequence from initial state to uniformity through inflation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InitialState as I
+>   participant InflationPhase as P1
+>   participant UniformCosmos as U
+>   I->>P1: Rapid Expansion Begins
+>   P1-->>U: All Regions Causally Connected
+>   U-->>I: Universe Expands and Cools
+> ```
 
 # Horizon Problem
 

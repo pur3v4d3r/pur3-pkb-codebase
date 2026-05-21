@@ -17,7 +17,7 @@ subdomains:
   - stellar-explosions
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hypernova-synthetic-seed-2026-05-14
@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hypernova Energy Release Process**
+> *Follow the energy release stages from core collapse to gamma-ray burst.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Core Collapse] --> B[Black Hole Formation]
+>   B --> C[Jets Launch]
+>   C --> D[Gamma-Ray Burst]
+>   D --> E[Broad-Line Supernova]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hypernova vs Core-Collapse Supernovae**
+> *Compare the characteristics of hypernovae and ordinary core-collapse supernovae.*
+>
+> ```mermaid
+> graph TD
+>   A[Core-Collapse Supernova] --> B[Energy Output]
+>   C[Hypernova] --> D[High Energy Output]
+>   E[Black Hole Formation] --> F[Rapid Rotation]
+>   G[Gamma-Ray Burst] --> H[Broad-Line Type Ic]
+> ```
+
+
+> [!abstract] **Diagram 3 — Collapsar Mechanism Overview**
+> *Trace the sequence of events from core collapse to black hole formation and jet production.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Core as C
+>   participant Proto-NeutronStar as PNS
+>   participant BlackHole as BH
+>   participant Jets as J
+>   participant StellarEnvelope as SE
+>   C->>PNS: Collapse into proto-neutron star
+>   PNS->>BH: Implosion forms black hole
+>   BH->>J: Rapid rotation launches jets
+>   J->>SE: Jets interact with stellar envelope
+> ```
 
 # Hypernova
 

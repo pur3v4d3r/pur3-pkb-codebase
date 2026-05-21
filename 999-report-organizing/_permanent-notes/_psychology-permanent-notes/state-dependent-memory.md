@@ -18,7 +18,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - state-dependent-memory-synthetic-seed-2026-04-25
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — State Dependent Memory Process Flow**
+> *Follow the flow from encoding to retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding State] --> B[Memory Encoding]
+>   B --> C[Test State]
+>   C --> D[Memory Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — State Dependent Memory Mechanism Overview**
+> *Trace the neural pathways involved in memory encoding and retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal State] --> B[Neural Pathways]
+>   B --> C[Memory Encoding]
+>   D[Test State] --> E[Reactivated Pathways]
+>   E --> F[Enhanced Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 3 — State Dependent Memory Applications**
+> *Identify the applications in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Optimal Learning]
+>   C[Personal Study Habits] --> D[Enhanced Recall]
+>   E[Pharmacological Interventions] --> F[Harnessed for Therapy]
+>   G[Spaced Retrieval in MOOCs] --> H[Improved Assessments]
+> ```
 
 # State Dependent Memory
 

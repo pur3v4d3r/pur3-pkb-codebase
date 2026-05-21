@@ -18,7 +18,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dark-energy-synthetic-seed-2026-05-14
@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Dark Energy vs Cosmological Constant**
+> *Compare the placeholder term Dark Energy with the static energy density model.*
+>
+> ```mermaid
+> graph TD
+>   A[Dark Energy] --> B[Cosmological Constant]
+>   A --> C[Quintessence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cosmic Expansion Process**
+> *Follow the flow from observations to theoretical models.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observations of Type Ia Supernovae] --> B[Unexplained Acceleration]
+>   B --> C[Introduction of Dark Energy]
+>   C --> D[Cosmological Models Incorporating DE]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dark Energy's Role in the Universe**
+> *Understand the components and their contributions to cosmic energy density.*
+>
+> ```mermaid
+> graph TD
+>   A[Total Cosmic Energy Density] --> B[Matter]
+>   A --> C[Dark Matter]
+>   A --> D[Dark Energy]
+> ```
 
 # Dark Energy
 

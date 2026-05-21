@@ -1,14 +1,13 @@
 ---
-title: "Schema-Following Prompts"
+title: Schema-Following Prompts
 aliases:
-  - "Schema-Following Prompts"
-  - "schema-guided prompting"
-  - "schema-adherent generation"
-  - "type-safe prompting"
+  - Schema-Following Prompts
+  - schema-guided prompting
+  - schema-adherent generation
+  - type-safe prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,88 @@ subdomains:
   - structured-data
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "schema-following-prompts-synthetic-seed-2026-05-21"
+  - schema-following-prompts-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Engineering]]"
-  - "[[Grammar-Constrained Decoding]]"
-  - "[[JSON Mode Prompting]]"
+  - '[[Prompt Engineering]]'
+  - '[[Grammar-Constrained Decoding]]'
+  - '[[JSON Mode Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[Grammar-Constrained Decoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[JSON Mode Prompting]]"
+  - '[[JSON Mode Prompting]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema-Following Prompt Structure**
+> *Identify the components of a schema-following prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Instructions] --> B[Output Schema]
+>   B --> C[Filled Examples]
+>   C --> D[Error Handling Guidelines]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema-Following vs Grammar-Constrained Decoding**
+> *Compare the focus areas of schema-following prompts and grammar-constrained decoding.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema-Following Prompts] --> B[Structure]
+>   C[Grammar-Constrained Decoding] --> D[Syntax]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Schema-Following Prompts**
+> *Explore the various applications where schema-following prompts are beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(API Documentation)
+>   B --> C(Data Entry Automation)
+> ```
 
 # Schema-Following Prompts
 

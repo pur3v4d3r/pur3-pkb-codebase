@@ -18,7 +18,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - active-learning-synthetic-seed-2026-04-24
@@ -65,8 +65,70 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Active Learning Techniques Overview**
+> *Identify the various techniques that promote active learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Practice]
+>   B[Self-Explanation]
+>   C[Elaborative Interrogation]
+>   D[Productive Failure]
+>   E[Instructed Problem-Solving]
+>   A -->|Enhances Retention|
+>   B -->|Deepens Understanding|
+>   C -->|Promotes Critical Thinking|
+>   D -->|Fosters Resilience|
+>   E -->|Improves Application Skills|
+> ```
+
+
+> [!abstract] **Diagram 2 — Active vs Passive Learning Comparison**
+> *Compare active learning techniques with passive methods like lectures.*
+>
+> ```mermaid
+> graph TD
+>   A[Passive Methods]
+>   B[Lectures]
+>   C[Reading Assignments]
+>   D[Active Techniques]
+>   E[Retrieval Practice]
+>   F[Self-Explanation]
+>   G[Elaborative Interrogation]
+>   H[Productive Failure]
+>   I[Instructed Problem-Solving]
+>   A --> B
+>   A --> C
+>   D --> E
+>   D --> F
+>   D --> G
+>   D --> H
+>   D --> I
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load in Active Learning**
+> *Understand the role of intrinsic and extraneous cognitive load.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> IntrinsicLoad
+>   IntrinsicLoad --> SchemaConstruction
+>   SchemaConstruction --> GermaneLoad
+>   GermaneLoad --> Consolidation
+>   [*] --> ExtraneousLoad
+>   ExtraneousLoad --> Distractions
+>   Distractions --> ReducedLearning
+> ```
 
 # Active Learning
 

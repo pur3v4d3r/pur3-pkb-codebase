@@ -17,7 +17,7 @@ subdomains:
   - philosophy
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - informal-fallacy-synthetic-seed-2026-05-01
@@ -64,8 +64,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Informal Fallacy Types Overview**
+> *Identify the different types of informal fallacies and their descriptions.*
+>
+> ```mermaid
+> graph TD
+>   A[Ad Hominem]
+>   B[Slippery Slope]
+>   C[Appeal to Authority]
+>   D[Hasty Generalization]
+>   A -->|Description: Dismisses argument based on the person making it|
+>   B -->|Description: Assumes small step leads to negative consequences|
+>   C -->|Description: Accepts claim due to respected figure|
+>   D -->|Description: Draws broad conclusion from insufficient evidence|
+> ```
+
+
+> [!abstract] **Diagram 2 — Contextual Analysis of Informal Fallacies**
+> *Understand how informal fallacies arise in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument]
+>   B[Dialectical Context]
+>   C[Relevance]
+>   D[Inferential Transitions]
+>   E[Contextual Analysis]
+>   A -->|Content| B
+>   A -->|Premises| C
+>   A -->|Transitions| D
+>   B & C & D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Informal Fallacy Recognition**
+> *See how recognizing informal fallacies can improve various fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Reasoning]
+>   C[Public Discourse]
+>   D[Academic Writing]
+>   A -->|Enhance Critical Thinking|
+>   B -->|Construct Stronger Cases|
+>   C -->|Engage in Productive Debates|
+>   D -->|Maintain Scholarly Integrity|
+> ```
 
 # Informal Fallacy
 

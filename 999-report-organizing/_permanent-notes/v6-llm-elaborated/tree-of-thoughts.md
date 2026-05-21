@@ -1,13 +1,12 @@
 ---
-title: "Tree of Thoughts"
+title: Tree of Thoughts
 aliases:
-  - "Tree of Thoughts"
-  - "ToT"
-  - "tree-of-thought reasoning"
+  - Tree of Thoughts
+  - ToT
+  - tree-of-thought reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,97 @@ subdomains:
   - search-algorithms
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tree-of-thoughts-synthetic-seed-2026-05-20"
+  - tree-of-thoughts-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Graph of Thoughts]]"
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Self-Consistency Sampling]]"
+  - '[[Graph of Thoughts]]'
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Self-Consistency Sampling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Graph of Thoughts]]"
+  - '[[Graph of Thoughts]]'
 contrasts-with:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Self-Consistency Sampling]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Self-Consistency Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Tree Structure Overview**
+> *Follow the branches to see how each thought leads to another.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[Thought1]
+>   B --> C[Thought2]
+>   B --> D[Thought3]
+>   C --> E[Thought4]
+>   D --> F[Thought5]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Process Flow**
+> *Trace the flow from input to output, noting backtracking points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Initial Thought]
+>   B --> C[Evaluation]
+>   C -->|Good Path| D[Next Thought]
+>   C -->|Bad Path| E[Backtrack]
+>   E --> F[New Thought]
+>   F --> G[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Value Function Evaluation**
+> *Observe how nodes are evaluated and pruned based on their value.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A[Initial Thought]
+>   A --> B[Evaluate]
+>   B -->|High Value| C[Expand Branch]
+>   B -->|Low Value| D[Prune Path]
+> ```
 
 # Tree of Thoughts
 

@@ -1,14 +1,13 @@
 ---
-title: "Output Schema Enforcement"
+title: Output Schema Enforcement
 aliases:
-  - "Output Schema Enforcement"
-  - "schema validation for LLMs"
-  - "output validation"
-  - "response schema enforcement"
+  - Output Schema Enforcement
+  - schema validation for LLMs
+  - output validation
+  - response schema enforcement
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,98 @@ subdomains:
   - llm-reliability
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "output-schema-enforcement-synthetic-seed-2026-05-20"
+  - output-schema-enforcement-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Structured Generation"
-
+parent-concept: Structured Generation
 related:
-  - "[[JSON Mode Prompting]]"
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Grammar-Constrained Decoding]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[JSON Mode Prompting]]"
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Grammar-Constrained Decoding]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Output Schema Enforcement Process Flow**
+> *Follow the flow from input to final output validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Schema] --> B[Prompt Model]
+>   B --> C[Generate Output]
+>   C --> D[API Validation]
+>   D --> E[Schema Validation]
+>   E --> F[Retry/Correct]
+>   F --> G[Fallback Mechanism]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism Layers in Enforcement**
+> *Identify the layers involved in enforcing output schemas.*
+>
+> ```mermaid
+> graph TD
+>   A[Model-Level Constraints] --> B(Application-Level Validations)
+>   B --> C[Retry-with-Error Prompting]
+>   C --> D[Fallback Handling]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Input Schema Validation**
+> *Compare the focus areas of output and input schema validation.*
+>
+> ```mermaid
+> classDiagram
+>   class OutputSchemaEnforcement{
+>     +ValidateAndCorrectAfterGeneration()
+>   }
+>   class InputSchemaValidation{
+>     +EnsureComplianceBeforeProcessing()
+>   }
+>   OutputSchemaEnforcement -->|Focus on| ValidateAndCorrectAfterGeneration()
+>   InputSchemaValidation -->|Focus on| EnsureComplianceBeforeProcessing()
+> ```
 
 # Output Schema Enforcement
 

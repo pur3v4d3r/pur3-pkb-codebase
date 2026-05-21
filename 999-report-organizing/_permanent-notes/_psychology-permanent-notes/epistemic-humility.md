@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemic-humility-synthetic-seed-2026-05-12
@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemic Humility vs Low Confidence**
+> *Compare specific knowledge gaps with general inadequacy.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Knowledge Gaps]
+>   B[General Inadequacy]
+>   A -->|Characterizes Epistemic Humility| C[Actionable Insights]
+>   B -->|Does Not Provide Actionable Insights|
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Identify the process of critical evaluation in Epistemic Humility.*
+>
+> ```mermaid
+> graph TD
+>   A[Deliberate Consideration]
+>   B[Immediate Responses]
+>   A -->|Characterizes Reflective Thinking|
+>   C[Critical Analysis]
+>   D[Habitual Thought Patterns]
+>   C -->|Required by Epistemic Humility|
+> ```
+
+
+> [!abstract] **Diagram 3 — Epistemic Humility in Practice**
+> *Trace the application of Epistemic Humility across different scenarios.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] -->|Recognize Limitations|
+>   B[Adaptive Teaching Strategies]
+>   C[Policy-Making] -->|Engage Diverse Perspectives|
+>   D[Informed Decisions]
+>   E[MOOCs] -->|Acknowledge Learner Differences|
+>   F[Educational Assessments]
+> ```
 
 # Epistemic Humility
 

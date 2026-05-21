@@ -20,7 +20,7 @@ subdomains:
   - safety
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - constitutional-ai-method-synthetic-seed-2026-05-20
@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Constitutional AI Process Flow**
+> *Follow the flow from principles to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Principles] --> B[Train Model]
+>   B --> C[Evaluate Outputs]
+>   C --> D[Revise Responses]
+>   D --> E[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constitutional AI Mechanism Overview**
+> *Trace the steps from principles to self-critique.*
+>
+> ```mermaid
+> graph TD
+>   A[Principles] --> B[Model Training]
+>   B --> C[Self-Critique]
+>   C --> D[Output Revision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Constitutional AI vs Traditional Methods**
+> *Compare Constitutional AI with traditional reinforcement learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Human as H
+>   participant Principles as P
+>   M->>P: Apply Principles
+>   loop Self-Critique
+>     M-->>M: Evaluate Output
+>     M-->>M: Revise Response
+>   end
+>   alt Traditional RL
+>     M->>H: Request Feedback
+>     H-->>M: Provide Reward
+>   else Constitutional AI
+>     M-->>P: Apply Principles
+>   end
+> ```
 
 # Constitutional AI Method
 

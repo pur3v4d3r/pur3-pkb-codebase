@@ -1,15 +1,14 @@
 ---
-title: "Prompt Registry Management"
+title: Prompt Registry Management
 aliases:
-  - "Prompt Registry Management"
-  - "prompt registry"
-  - "prompt store"
-  - "prompt management system"
-  - "prompt catalog"
+  - Prompt Registry Management
+  - prompt registry
+  - prompt store
+  - prompt management system
+  - prompt catalog
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,114 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-registry-management-synthetic-seed-2026-05-20"
+  - prompt-registry-management-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Versioning]]"
-  - "[[Prompt Regression Testing]]"
+  - '[[Prompt Versioning]]'
+  - '[[Prompt Regression Testing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Versioning]]"
+  - '[[Prompt Versioning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Regression Testing]]"
+  - '[[Prompt Regression Testing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Registry Components**
+> *Identify the key components of a prompt registry.*
+>
+> ```mermaid
+> graph TD
+>   A[Version History]
+>   B[Metedata Management]
+>   C[Access Control]
+>   D[Search Functionality]
+>   E[Central Repository]
+>   F[Rollback Capabilities]
+>   A -->|tracks changes| E
+>   B -->|stores details| E
+>   C -->|controls access| E
+>   D -->|facilitates discovery| E
+>   F -->|reverts changes| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Registry Workflow**
+> *Follow the workflow from prompt creation to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Prompt]
+>   B[Store in Registry]
+>   C[Version Control]
+>   D[Maintain Metadata]
+>   E[Access Control]
+>   F[Deploy]
+>   G[Test]
+>   H[Rollback if Needed]
+>   A -->|Initial Creation| B
+>   B -->|Add Version History| C
+>   C -->|Update Metadata| D
+>   D -->|Set Access Rules| E
+>   E -->|Grant Permissions| F
+>   F -->|Conduct Tests| G
+>   G -->|Deploy if Successful| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Dependency Management**
+> *Understand the dependency issues and management strategies.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Base_Prompt
+>   Base_Prompt --> Dependent_Feature1 : Used in
+>   Base_Prompt --> Dependent_Feature2 : Used in
+>   Dependent_Feature1 --> Update_Needed : Dependency Changed
+>   Dependent_Feature2 --> Update_Needed : Dependency Changed
+>   [*] --> Resolve_Issues
+>   Resolve_Issue --> Reevaluate_Dependencies : Check Impact
+>   Resolve_Issue --> Update_Dependent_Features : Adjust as Needed
+> ```
 
 # Prompt Registry Management
 

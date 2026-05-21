@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - chunking-and-expertise-development-foundational-report-2026-04-20
@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Retrieval Structure Overview**
+> *Follow the flow from practice to retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Practice] --> B[Feedback]
+>   B --> C[Cue-Content Associations]
+>   C --> D[Rapid Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Retrieval Structure Mechanism**
+> *Trace the steps from engagement to cue formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Engagement] --> B[Feedback]
+>   B --> C[Cue Formation]
+>   C --> D[Rapid Access]
+> ```
+
+
+> [!abstract] **Diagram 3 — Retrieval Structure Applications**
+> *Identify the applications in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Organizational Capability]
+>   B --> C[Cultural Transmission]
+>   C --> D[Spaced Retrieval MOOCs]
+> ```
 
 # Retrieval Structure
 

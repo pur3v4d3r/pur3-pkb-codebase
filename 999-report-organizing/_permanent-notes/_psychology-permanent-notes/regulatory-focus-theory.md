@@ -18,7 +18,7 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - regulatory-focus-theory-synthetic-seed-2026-04-25
@@ -65,8 +65,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Promotion vs Prevention Focus**
+> *Compare the strategies and outcomes of promotion and prevention focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Promotion Focus]
+>   B[Prevention Focus]
+>   A -->|Strategies: Exploratory, Risk-Taking|
+>   B -->|Strategies: Cautious, Vigilant|
+>   A -->|Outcomes: Cheerfulness/Dejection|
+>   B -->|Outcomes: Quiescence/Agitated
+> ```
+
+
+> [!abstract] **Diagram 2 — Regulatory Focus Mechanism**
+> *Understand the factors influencing focus shift between promotion and prevention.*
+>
+> ```mermaid
+> graph TD
+>   A[Chronic Tendencies]
+>   B[Situational Factors]
+>   C[Shift to Promotion]
+>   D[Shift to Prevention]
+>   A -->|Personality, Past Experiences|
+>   B -->|Time Pressure, Risk Level|
+>   A --> C
+>   B --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Pursuit Strategies**
+> *Identify the strategies and emotional outcomes for promotion and prevention focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Promotion Focus]
+>   B[Prevention Focus]
+>   A -->|Strategies: Eagerness|
+>   B -->|Strategies: Vigilance|
+>   A -->|Emotional Outcomes: Cheerfulness/Dejection|
+>   B -->|Emotional Outcomes: Quiescence/Agitated
+> ```
 
 # Regulatory Focus Theory
 

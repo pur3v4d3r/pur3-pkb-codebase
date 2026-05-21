@@ -1,15 +1,14 @@
 ---
-title: "Uncertainty Quantification for LLMs"
+title: Uncertainty Quantification for LLMs
 aliases:
-  - "Uncertainty Quantification for LLMs"
-  - "Uncertainty Quantification LLMs"
-  - "LLM uncertainty quantification"
-  - "epistemic uncertainty in LLMs"
-  - "UQ for language models"
+  - Uncertainty Quantification for LLMs
+  - Uncertainty Quantification LLMs
+  - LLM uncertainty quantification
+  - epistemic uncertainty in LLMs
+  - UQ for language models
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,86 @@ subdomains:
   - reliability
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "uncertainty-quantification-llms-synthetic-seed-2026-05-20"
+  - uncertainty-quantification-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Hallucination Detection]]"
-  - "[[Calibration in LLMs]]"
+  - '[[Hallucination Detection]]'
+  - '[[Calibration in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Hallucination Detection]]"
+  - '[[Hallucination Detection]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Calibration in LLMs]]"
+  - '[[Calibration in LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Aleatoric vs Epistemic Uncertainty**
+> *Identify the sources of uncertainty in LLM predictions.*
+>
+> ```mermaid
+> graph TD
+>   A[Inherent Ambiguity] --> B[Aleatoric]
+>   C[Lack of Knowledge] --> D[Epistemic]
+> ```
+
+
+> [!abstract] **Diagram 2 — Uncertainty Quantification Techniques**
+> *Understand the methods used to quantify uncertainty in LLMs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Ensemble Methods] --> B[Elicit Uncertainty]
+>   C[Auxiliary Models] --> D[Elicit Uncertainty]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of UQ in LLMs**
+> *Explore how uncertainty quantification is applied in different scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Tailored Teaching Strategies]
+>   C[Risk Assessment] --> D[Conservative Decision-Making]
+> ```
 
 # Uncertainty Quantification for LLMs
 

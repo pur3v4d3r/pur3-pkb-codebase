@@ -21,7 +21,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-directed-learning-foundational-report-2026-04-19
@@ -68,8 +68,67 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Autonomy Motivational Drivers**
+> *Identify the key motivational drivers for autonomy.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation]
+>   B[Competence]
+>   C[Relatedness]
+>   D[Autonomy]
+>   E[Optimal Functioning]
+>   A -->|Primary Driver| D
+>   D -->|Enhances| B
+>   D -->|Fosters| C
+>   B & C -->|Contributes to| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Autonomy in Learning Process**
+> *Trace the flow of autonomy from choice to cognitive processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Choice]
+>   B[Meaningful Actions]
+>   C[Sense of Ownership]
+>   D[Cognitive Processing]
+>   E[Deeper Engagement]
+>   F[Better Retention & Application]
+>   A -->|Aligns with Values| B
+>   B -->|Fosters| C
+>   C -->|Enhances| D
+>   D -->|Leads to| E
+>   E -->|Results in| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Autonomy and Social Dynamics**
+> *Understand the social impact of autonomy on collaborative learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Peer Mentoring]
+>   B[Co-Creation]
+>   C[Sense of Ownership]
+>   D[Willingness to Contribute]
+>   E[Fosters Community]
+>   F[Shared Norms]
+>   C -->|Translates into| D
+>   D -->|Encourages| A & B
+>   A & B -->|Shapes| E
+>   E -->|Creates| F
+> ```
 
 # Autonomy in Self-Directed Learning
 

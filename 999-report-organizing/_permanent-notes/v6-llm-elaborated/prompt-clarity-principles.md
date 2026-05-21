@@ -1,13 +1,12 @@
 ---
-title: "Prompt Clarity Principles"
+title: Prompt Clarity Principles
 aliases:
-  - "Prompt Clarity Principles"
-  - "prompt clarity"
-  - "clear prompting"
+  - Prompt Clarity Principles
+  - prompt clarity
+  - clear prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,102 @@ subdomains:
   - llm-inference
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-clarity-principles-synthetic-seed-2026-05-20"
+  - prompt-clarity-principles-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Negative Prompting]]"
-  - "[[Instruction Following]]"
+  - '[[Negative Prompting]]'
+  - '[[Instruction Following]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Negative Prompting]]"
+  - '[[Negative Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Following]]"
+  - '[[Instruction Following]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Clarity Principles Overview**
+> *Identify the key principles and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Specificity]
+>   B[Atomicity]
+>   C[Positive Framing]
+>   D[Pronoun Disambiguation]
+>   E[Avoid Implicit Assumptions]
+>   F --> A
+>   F --> B
+>   F --> C
+>   F --> D
+>   F --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Positive Framing vs Negative Prompting**
+> *Compare positive framing with negative prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Framing]
+>   B[Negative Prompting]
+>   C['Clearly State Desired Outcome'] --> A
+>   D['Avoid Unwanted Elements'] --> B
+>   E['Model Understands Expectations'] --> A
+>   F['Ambiguity if Not All Negatives Stated'] --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Principles**
+> *See how principles apply in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Creative Writing]
+>   C['Specify Detail Level'] --> A
+>   D['Define Genre, Setting, Tone'] --> B
+>   E['Consistent Educational Outputs'] --> A
+>   F['Focused and Coherent Narratives'] --> B
+> ```
 
 # Prompt Clarity Principles
 

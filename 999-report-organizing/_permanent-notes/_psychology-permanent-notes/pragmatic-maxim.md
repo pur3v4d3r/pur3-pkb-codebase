@@ -17,7 +17,7 @@ subdomains:
   - semantics
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pragmatic-maxim-synthetic-seed-2026-04-24
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Pragmatic Maxim Process Flow**
+> *Follow the steps from concept to practical consequences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Concept] --> B[Imagine Scenarios]
+>   B --> C[Evaluate Outcomes]
+>   C --> D[Concrete Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Pragmatic Maxim vs Verification Principle**
+> *Compare the focus of Pragmatic Maxim and Verification Principle.*
+>
+> ```mermaid
+> graph TD
+>   A[Pragmatic Maxim] -->|Focus on| B[Practical Consequences]
+>   C[Verification Principle] -->|Focus on| D[Empirical Verifiability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Consider Practical Implications|
+>   B[Reactive Thinking] -->|Immediate Response|
+>   A --> C[Deeper Analysis]
+>   B --> D[Less Deliberative]
+> ```
 
 # Pragmatic Maxim
 

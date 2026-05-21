@@ -1,13 +1,12 @@
 ---
-title: "Prefix Tuning"
+title: Prefix Tuning
 aliases:
-  - "Prefix Tuning"
-  - "prefix vectors"
-  - "trainable prefix"
+  - Prefix Tuning
+  - prefix vectors
+  - trainable prefix
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,107 @@ subdomains:
   - nlp-research
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prefix-tuning-synthetic-seed-2026-05-20"
+  - prefix-tuning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Soft Prompting]]"
-  - "[[Gradient-Free Prompt Optimization]]"
+  - '[[Soft Prompting]]'
+  - '[[Gradient-Free Prompt Optimization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Soft Prompting]]"
-  - "[[Gradient-Free Prompt Optimization]]"
+  - '[[Soft Prompting]]'
+  - '[[Gradient-Free Prompt Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Layer-wise Injection Process**
+> *Follow the flow of prefix vectors through transformer layers.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Layer]
+>   B[Transformer Layer 1]
+>   C[Transformer Layer 2]
+>   D[Transformer Layer N]
+>   E[Output]
+>   A -->|Prefix Vectors| B
+>   B -->|Prefix Vectors| C
+>   C -->|Prefix Vectors| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Soft Prompting**
+> *Compare the propagation of task-specific signals in both methods.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Layer]
+>   B[Transformer Layers]
+>   C[Output]
+>   D[Prefix Tuning]
+>   E[Soft Prompting]
+>   D -->|Direct Injection| B
+>   E -->|Forward Pass| B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Overhead in Production**
+> *Identify the challenges of KV-cache management.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Prefix as P
+>   participant Cache as C
+>   M->>P: Generate Token
+>   P->>C: Store Key-Value Pair
+>   loop For Each Layer
+>     M->>P: Request Next Token
+>     P->>C: Retrieve KV Pair
+>   end
+> ```
 
 # Prefix Tuning
 

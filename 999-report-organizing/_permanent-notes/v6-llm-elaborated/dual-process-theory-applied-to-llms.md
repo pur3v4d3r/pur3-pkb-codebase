@@ -20,7 +20,7 @@ subdomains:
   - reasoning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-applied-to-llms-synthetic-seed-2026-05-20
@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — System 1 vs System 2 Processes**
+> *Identify tasks handled by each system.*
+>
+> ```mermaid
+> graph TD
+>   A[Quick, Pattern-Based]
+>   B[Careful, Deliberate Reasoning]
+>   A -->|System 1|
+>   B -->|System 2|
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Design Strategies**
+> *Match prompt type to task complexity.*
+>
+> ```mermaid
+> graph TD
+>   A[Quick Recall]
+>   B[Pattern Recognition]
+>   C[Multi-Step Reasoning]
+>   D[Direct Generation]
+>   E[Chain-of-Thought Prompting]
+>   A -->|Use|
+>   B -->|D
+>   C -->|E
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Efficiency Optimization**
+> *Balance intrinsic and extraneous loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Efficiency]
+>   D[Effectiveness]
+>   A -->|High|
+>   B -->|Low|
+>   C -->|Optimal|
+>   D -->|Maximized|
+> ```
 
 # Dual-Process Theory Applied to LLMs
 

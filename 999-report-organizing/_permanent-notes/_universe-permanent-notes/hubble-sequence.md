@@ -18,7 +18,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hubble-sequence-synthetic-seed-2026-05-14
@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hubble Sequence Tuning Fork Diagram**
+> *Follow the branches to see galaxy types from ellipticals to irregulars.*
+>
+> ```mermaid
+> graph TD
+>   E0["E0"] -->|to| E7["E7"]
+>   S0["S0"] --> SBa["SBa"]
+>   SBa --> Sbc["Sbc"]
+>   Sbc --> Scd["Scd"]
+>   Scd --> Irr1["Irr"]
+>   S0 --> Sa["Sa"]
+>   Sa --> Sab["Sab"]
+>   Sab --> Sb["Sb"]
+>   Sb --> Sbd["Sbd"]
+>   Sbd --> Sc["Sc"]
+>   Sc --> Scd
+>   Irr1 -->|and| Irr2["Irr"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Galaxy Properties Correlation**
+> *Trace the connections to see how galaxy types relate to star formation and gas content.*
+>
+> ```mermaid
+> graph TD
+>   E0 -->|Old Populations| GasDepleted["Gas Depleted"]
+>   S0 -->|Intermediate Ages| StarFormationLow["Star Formation Low"]
+>   SBa -->|Youthful Stars| StarFormationHigh["Star Formation High"]
+>   Sa -->|Active Arms| ISMRich["ISM Rich"]
+>   Sab -->|Mixed Populations| StarBirthingSites["Star Birthing Sites"]
+>   Sb -->|Ongoing Starbirth| GasAbundant["Gas Abundant"]
+>   Scd -->|Recent Starbursts| StarFormationPeaks["Star Formation Peaks"]
+>   Irr1 -->|Chaotic Star Formation| GasScattered["Gas Scattered"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Galactic Evolution Overview**
+> *Follow the arrows to understand the morphological progression from ellipticals to irregulars.*
+>
+> ```mermaid
+> flowchart LR
+>   E0["E0 Elliptical"] -->|to| S0["S0 Lenticular"]
+>   S0 --> SBa["SBa Barred Spiral"]
+>   SBa --> Sbc["Sbc Spiral"]
+>   Sbc --> Scd["Scd Spiral"]
+>   Scd --> Irr1["Irr Irregular"]
+>   E7["E7 Elliptical"] -->|to| Irr2["Irr Irregular"]
+> ```
 
 # Hubble Sequence
 

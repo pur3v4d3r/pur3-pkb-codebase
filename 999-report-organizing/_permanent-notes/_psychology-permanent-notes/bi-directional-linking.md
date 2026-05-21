@@ -2,7 +2,7 @@
 title: Bi Directional Linking
 aliases:
   - Bi Directional Linking
-  - "Bi-directional Linking"
+  - Bi-directional Linking
   - backlinks
   - two-way links
 type: permanent-note
@@ -19,7 +19,7 @@ subdomains:
   - hypertext
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - bi-directional-linking-synthetic-seed-2026-04-26
@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Bi Directional Linking Overview**
+> *Follow the arrows to see how links are reciprocal.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Note A] --> B[Note B]
+>   B --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Bi Directional Linking Mechanism**
+> *Track the flow of updates between notes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant NoteA as N1
+>   participant NoteB as N2
+>   U->>N1: Create link to N2
+>   N1->>N2: Update with backlink from N1
+>   N2->>N1: Update with backlink from N2
+> ```
+
+
+> [!abstract] **Diagram 3 — Bi Directional Linking in Practice**
+> *See how links enhance associative discovery.*
+>
+> ```mermaid
+> graph TD
+>   A[Note A] --> B[Note B]
+>   B --> C[Backlink from A]
+>   D[Advanced Topic] --> E[Prerequisite]
+>   E --> F[Backlink from Advanced]
+> ```
 
 # Bi Directional Linking
 

@@ -19,7 +19,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - grice-maxims-synthetic-seed-2026-04-26
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Grice Maxims Overview**
+> *Identify the four maxims and their brief descriptions.*
+>
+> ```mermaid
+> graph TD
+>   A[Quantity]
+>   B(Quality)
+>   C[Relation]
+>   D[Manner]
+>   A -->|Provide适量信息| E[Neither too much nor too little]
+>   B -->|Be truthful| F[Avoid lies and provide accurate info]
+>   C -->|Be relevant| G(Avoid irrelevant contributions)
+>   D -->|Be clear and orderly| H(Avoid ambiguity, be concise)
+> ```
+
+
+> [!abstract] **Diagram 2 — Conversational Implicature Flow**
+> *Follow the sequence of events leading to conversational implicatures.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Speaker as S
+>   participant Listener as L
+>   S->>L: Flout a Grice Maxim
+>   alt Cooperative context
+>     L->>S: Derive conversational implicature
+>   else Non-cooperative context
+>     L->>S: Misinterpretation or confusion
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Pragmatic Inference vs Grice Maxims**
+> *Compare pragmatic inference with the application of Grice maxims.*
+>
+> ```mermaid
+> classDiagram
+>   class PragmaticInference{
+>     +Derive meaning from context
+>   }
+>   class GriceMaxims{
+>     +Provide rules for cooperative communication
+>   }
+>   PragmaticInference -->|Example: Flouting Quantity Maxim| GriceMaxims
+> ```
 
 # Grice Maxims
 

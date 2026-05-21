@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - constructivism-synthetic-seed-2026-04-24
@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Constructivism Theoretical Roots**
+> *Identify the key figures and their contributions to constructivism.*
+>
+> ```mermaid
+> graph TD
+>   A[Piaget]
+>   B[Vygotsky]
+>   C[von Glasersfeld]
+>   A -->|Cognitive Constructivism|
+>   B -->|Social Constructivism|
+>   C -->|Radical Constructivism|
+> ```
+
+
+> [!abstract] **Diagram 2 — Constructivist Learning Cycle**
+> *Follow the cycle of assimilation, accommodation, and equilibration in learning.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Assimilation
+>   Assimilation --> Accommodation : Cognitive Conflict
+>   Accommodation --> Equilibration : Resolution
+>   Equilibration --> [*]
+> ```
+
+
+> [!abstract] **Diagram 3 — Constructivist Pedagogical Approaches**
+> *Explore the instructional design strategies in a constructivist classroom.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem-Solving Tasks] --> B[Formative Assessment]
+>   B --> C[Inquiry-Based Learning]
+>   A -->|Hands-on Activities| C
+> ```
 
 # Constructivism
 

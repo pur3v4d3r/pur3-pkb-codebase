@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - intellectual-standards-synthetic-seed-2026-04-24
@@ -64,8 +64,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Intellectual Standards Overview**
+> *Identify the core standards and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Clarity]
+>   B[A准确性]
+>   C[Precision]
+>   D[Relevance]
+>   E[Depth]
+>   F[Breadth]
+>   G[Logic]
+>   H[Significance]
+>   I[Fairness]
+>   A -->|Ensures clear expression| J[Well-reasoned Thought]
+>   B -->|Checks factual correctness| J
+>   C -->|Hones arguments to be exact| J
+>   D -->|Maintains topic relevance| J
+>   E -->|Explores issues deeply| J
+>   F -->|Considers multiple perspectives| J
+>   G -->|Ensures logical coherence| J
+>   H -->|Evaluates importance| J
+>   I -->|Promotes impartiality| J
+> ```
+
+
+> [!abstract] **Diagram 2 — Application of Intellectual Standards**
+> *Understand how standards are applied in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Ensure Clarity & Accuracy]
+>   C[Professional Development] --> D[Evaluate Decisions]
+>   E[Spaced Retrieval in MOOCs] --> F[Prompt Reflection]
+>   G[Socratic Questioning] -->|Challenges Thinking| H[Refine Reasoning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Guided by Standards]
+>   C[Reactive Thinking] --> D[Lacks Structured Evaluation]
+> ```
 
 # Intellectual Standards
 

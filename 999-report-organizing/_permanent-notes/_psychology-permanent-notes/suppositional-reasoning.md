@@ -19,7 +19,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - suppositional-reasoning-synthetic-seed-2026-05-12
@@ -66,8 +66,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Suppositional Reasoning Process Flow**
+> *Follow the flow from assumption to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assume P] --> B[Deduce Q]
+>   B --> C[Discharge P]
+> ```
+
+
+> [!abstract] **Diagram 2 — Suppositional Reasoning vs Other Techniques**
+> *Compare suppositional reasoning with deductive and inductive methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Suppositional]
+>   B[Deductive]
+>   C[Inductive]
+>   A -->|Temporary Assumption| B
+>   A -->|Hypothetical Scenarios| C
+> ```
 
 # Suppositional Reasoning
 

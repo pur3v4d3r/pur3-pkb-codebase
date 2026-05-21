@@ -17,7 +17,7 @@ subdomains:
   - cognitive-architecture
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - memory-systems-synthetic-seed-2026-04-24
@@ -66,8 +66,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Memory Systems Overview**
+> *Identify the distinct subsystems and their neural substrates.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] -->|Short-term processing| B(Declarative)
+>   B --> C(Episodic)
+>   B --> D(Semantic)
+>   E[Non-Declarative] --> F(Procedural Skills)
+>   G[Perceptual Memory]
+>   H[Hippocampus & Related Structures] --> C
+>   I[Left Anterior Temporal Lobe] --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Interaction During Learning**
+> *Trace the flow of information from working memory to long-term storage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Working Memory] --> B(Declarative)
+>   B --> C(Episodic)
+>   B --> D(Semantic)
+>   E[Non-Declarative] --> F(Procedural Skills)
+>   G[Perceptual Memory]
+>   H[Facts & Concepts] -->|Encoding| I
+>   J[Skills & Habits] -->|Practice| K
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Interference Example**
+> *Observe how competing tasks affect memory subsystems.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant WM as Working Memory
+>   participant DM as Declarative Memory
+>   participant NDM as Non-Declarative Memory
+>   WM ->> DM: Attempt to encode facts
+>   WM ->> NDM: Attempt to learn a skill
+>   DM -->> WM: Encoding disrupted by competing task
+>   NDM -->> WM: Skill learning impaired due to competition
+> ```
 
 # Memory Systems
 

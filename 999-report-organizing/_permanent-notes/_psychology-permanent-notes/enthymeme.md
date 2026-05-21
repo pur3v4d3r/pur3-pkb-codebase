@@ -18,7 +18,7 @@ subdomains:
   - rhetoric
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - enthymeme-synthetic-seed-2026-05-12
@@ -65,8 +65,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Enthymeme Structure Overview**
+> *Identify the missing premises and conclusion.*
+>
+> ```mermaid
+> graph TD
+>   A[Premise1] --> B(Conclusion)
+>   C[Premise2] -->|Unstated|
+>   D[Shared Knowledge] -->|Assumed|
+>   E[Context] -->|Inferred|
+>   F[Implicit Premises]
+> ```
+
+
+> [!abstract] **Diagram 2 — Enthymeme vs Syllogism Comparison**
+> *Compare the explicit and implicit structures.*
+>
+> ```mermaid
+> graph TD
+>   A[Syllogism] -->|All premises stated|
+>   B[Explicit Premise1]
+>   C[Explicit Premise2]
+>   D[Conclusion]
+>   E{Enthymeme} -->|One or more unstated|
+>   F[Stated Premise]
+>   G[Unstated Premise] -->|Assumed by audience|
+>   H[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Enthymemes**
+> *Understand the cognitive processes involved.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument Presented] --> B(Reactive)
+>   C{Implicit Premises} -->|Quickly assumed|
+>   D[Shared Beliefs]
+>   E[Contextual Knowledge]
+>   F[Emotional Resonance]
+>   G[Argument Reconstructed] --> H(Reflective)
+>   I{Unstated Premises} -->|Consciously evaluated|
+>   J[Critical Analysis]
+> ```
 
 # Enthymeme
 

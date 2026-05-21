@@ -17,7 +17,7 @@ subdomains:
   - professional-skill
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - expertise-synthetic-seed-2026-05-01
@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Expertise Development Stages**
+> *Follow the stages from initial learning to refinement.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Learning]
+>   B[Consolidation]
+>   C[Refinement]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Expertise vs Novice Performance**
+> *Compare the performance differences between experts and novices.*
+>
+> ```mermaid
+> flowchart LR
+>   E[Expert] -->|Quick Pattern Recognition| F[Efficient Decision Making]
+>   N[Novice] -->|Slow Processing| O[Inefficient Problem Solving]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deliberate Practice Components**
+> *Identify the key components of deliberate practice.*
+>
+> ```mermaid
+> graph TD
+>   P[Problem-Solving]
+>   Q[Feedback Sessions]
+>   R[Self-Assessment]
+>   P -->|Integrate Knowledge| Q
+>   Q -->|Refine Strategies| R
+> ```
 
 # Expertise
 

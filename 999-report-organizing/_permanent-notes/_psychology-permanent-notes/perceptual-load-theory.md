@@ -17,7 +17,7 @@ subdomains:
   - attention-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - perceptual-load-theory-synthetic-seed-2026-04-25
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Perceptual Load Theory Overview**
+> *Follow the flow from low to high perceptual load conditions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Low Perceptual Load] --> B[Irrelevant Stimuli Processed]
+>   C[High Perceptual Load] --> D[Irrelevant Stimuli Ignored]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attentional Resource Allocation**
+> *Trace the allocation of attentional resources under different perceptual loads.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Demands] --> B[Low Load]
+>   C[High Load] --> D[Spare Capacity]
+>   E[Exhausted Resources]
+> ```
+
+
+> [!abstract] **Diagram 3 — Selective Attention Mechanism**
+> *Identify the stages where irrelevant stimuli are filtered out.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Sensory Processing]
+>   C[Early Selection] --> D[Irrelevant Stimuli Filtered Out]
+>   E[Late Selection] --> F[Relevant Stimuli Processed]
+> ```
 
 # Perceptual Load Theory
 

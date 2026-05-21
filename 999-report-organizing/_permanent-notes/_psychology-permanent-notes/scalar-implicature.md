@@ -18,7 +18,7 @@ subdomains:
   - semantics
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - scalar-implicature-synthetic-seed-2026-05-01
@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Scalar Implicature Process Flow**
+> *Follow the steps from speaker's choice to listener's inference.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Speaker Chooses Term] --> B[Listener Processes]
+>   B --> C[Deduces Stronger Alternative]
+>   C --> D[Infers Omission Grounds]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scalar Implicature Scale Example**
+> *Observe the scale from weaker to stronger terms and their implications.*
+>
+> ```mermaid
+> graph TD
+>   A[None] --> B[Some]
+>   B --> C[Many]
+>   C --> D[Most]
+>   D --> E[All]
+> ```
+
+
+> [!abstract] **Diagram 3 — Scalar vs Conversational Implicature Comparison**
+> *Compare the specific focus of scalar implicature with broader conversational implicature.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Speaker as S
+>   participant Listener as L
+>   S->>L: Uses Scale Term (e.g., 'some')
+>   alt Scalar Implicature
+>     L-->>S: Infers Stronger Alternative Not Used
+>   else Conversational Implicature
+>     L-->>S: Interprets Based on Context and Cooperative Principle
+>   end
+> ```
 
 # Scalar Implicature
 

@@ -18,7 +18,7 @@ subdomains:
   - positive-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - eudaimonia-synthetic-seed-2026-04-24
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Eudaimonia Components Overview**
+> *Identify the six key components of eudaimonic well-being.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   D[Purpose]
+>   E[Growth]
+>   F[Self-Acceptance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Eudaimonia vs Hedonic Well-Being**
+> *Compare eudaimonic and hedonic conceptions of well-being.*
+>
+> ```mermaid
+> flowchart LR
+>   E[Eudaimonia] -->|Quality of Life| Q[Well-being]
+>   H[Hedonism] -->|Subjective Pleasure| S[Well-being]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Determination Theory Framework**
+> *Understand the three basic needs in SDT and their role in eudaimonia.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy] -->|Intrinsic Motivation| E[Eudaimonia]
+>   B[Competence] -->|Feeling Capable| E
+>   C[Relatedness] -->|Connecting with Others| E
+> ```
 
 # Eudaimonia
 

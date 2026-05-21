@@ -18,7 +18,7 @@ subdomains:
   - methodology
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hypothetico-deductive-method-synthetic-seed-2026-05-12
@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hypothetico Deductive Method Process Flow**
+> *Follow the logical steps from hypothesis to empirical testing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formulate Hypothesis] --> B[Deduce Predictions]
+>   B --> C[Test Against Data]
+>   C --> D[Evaluate Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hypothetico Deductive Method Components**
+> *Identify the key components involved in hypothesis testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Observations] --> B[Hypothesis]
+>   B --> C[Predictions]
+>   C --> D[Test Data]
+>   D --> E[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hypothetico Deductive Method Application Examples**
+> *See how the method is applied in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Test Teaching Strategies]
+>   C[Medical Research] --> D[Test New Treatments]
+> ```
 
 # Hypothetico Deductive Method
 

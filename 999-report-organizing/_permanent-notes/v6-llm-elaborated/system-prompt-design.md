@@ -1,13 +1,12 @@
 ---
-title: "System Prompt Design"
+title: System Prompt Design
 aliases:
-  - "System Prompt Design"
-  - "system message design"
-  - "system-level prompting"
+  - System Prompt Design
+  - system message design
+  - system-level prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,88 @@ subdomains:
   - instruction-following
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "system-prompt-design-synthetic-seed-2026-05-20"
+  - system-prompt-design-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Role-Prompting]]"
-  - "[[Instruction Following]]"
+  - '[[Role-Prompting]]'
+  - '[[Instruction Following]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Role-Prompting]]"
+  - '[[Role-Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Following]]"
+  - '[[Instruction Following]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — System Prompt Design Process Flow**
+> *Follow the sequence from initial setup to user interaction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Setup] --> B[System Prompt]
+>   B --> C[User Interaction]
+>   C --> D[Model Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — System vs User-Specific Prompts**
+> *Compare the scope and application of system prompts versus user-specific ones.*
+>
+> ```mermaid
+> graph TD
+>   A[System Prompt] -->|Overarching Instructions| B[Session]
+>   C{User-Specific Prompt} -->|Individual Interaction| D[Query]
+> ```
+
+
+> [!abstract] **Diagram 3 — System Prompt Design Components**
+> *Identify the key elements that make up a system prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Tone] --> B[Task Scope]
+>   B --> C[Output Style]
+>   C --> D[Constraints]
+> ```
 
 # System Prompt Design
 

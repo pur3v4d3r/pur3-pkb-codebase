@@ -1,13 +1,12 @@
 ---
-title: "Reflexion"
+title: Reflexion
 aliases:
-  - "Reflexion"
-  - "reflexion prompting"
-  - "verbal reinforcement learning"
+  - Reflexion
+  - reflexion prompting
+  - verbal reinforcement learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,89 @@ subdomains:
   - agent-frameworks
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reflexion-synthetic-seed-2026-05-20"
+  - reflexion-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering"
-
+parent-concept: Prompt-Engineering
 related:
-  - "[[Working Memory]]"
-  - "[[Chain-of-Verification]]"
+  - '[[Working Memory]]'
+  - '[[Chain-of-Verification]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Chain-of-Verification]]"
+  - '[[Chain-of-Verification]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reflexion Process Flow**
+> *Follow the iterative cycle of task attempt and reflection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Attempt] --> B[Reflection]
+>   B --> C[Working Memory Update]
+>   C --> D[Next Task Attempt]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Reflexion**
+> *Trace the steps from task analysis to reflection and improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Analysis] --> B[Identify Failure]
+>   B --> C[Generate Reflection]
+>   C --> D[Integrate Reflection]
+>   D --> E[Improve Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Traditional RL**
+> *Compare Reflexion's reliance on verbal feedback to traditional numerical rewards.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflexion] --> B[Verbal Feedback]
+>   C[Traditional RL] --> D[Numerical Rewards]
+> ```
 
 # Reflexion
 

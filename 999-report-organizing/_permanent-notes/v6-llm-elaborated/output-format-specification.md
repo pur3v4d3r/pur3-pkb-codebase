@@ -1,14 +1,13 @@
 ---
-title: "Output Format Specification"
+title: Output Format Specification
 aliases:
-  - "Output Format Specification"
-  - "format specification"
-  - "output structuring"
-  - "output constraints"
+  - Output Format Specification
+  - format specification
+  - output structuring
+  - output constraints
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,92 @@ subdomains:
   - llm-deployment
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "output-format-specification-synthetic-seed-2026-05-20"
+  - output-format-specification-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Formatting]]"
-  - "[[Instruction Following]]"
+  - '[[Prompt Formatting]]'
+  - '[[Instruction Following]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prompt Formatting]]"
+  - '[[Prompt Formatting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Following]]"
+  - '[[Instruction Following]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Output Format Specification Process Flow**
+> *Follow the flow from input to structured output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Prompt Processing]
+>   B --> C[Language Model Response]
+>   C --> D[Format Specification]
+>   D --> E[Structured Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Output Format Elements Hierarchy**
+> *Identify the hierarchical structure of output format elements.*
+>
+> ```mermaid
+> graph TD
+>   A[JSON Schema] --> B[Response Structure]
+>   A --> C[Markdown Formatting]
+>   A --> D[Section Headings]
+>   A --> E[Enumeration Format]
+> ```
+
+
+> [!abstract] **Diagram 3 — Structured vs Free-form Responses Comparison**
+> *Compare the benefits and drawbacks of structured and free-form responses.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Structured as "Consistent, Machine-readable"
+>   participant FreeForm as "Natural, Varied Expression"
+>   note over Structured: Ensures integration without additional processing.
+>   note over FreeForm: Allows for natural content generation.
+> ```
 
 # Output Format Specification
 

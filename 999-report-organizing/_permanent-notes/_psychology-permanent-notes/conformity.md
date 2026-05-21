@@ -18,7 +18,7 @@ subdomains:
   - influence
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - conformity-synthetic-seed-2026-04-26
@@ -66,8 +66,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Conformity Motives Overview**
+> *Identify the two main motives of conformity.*
+>
+> ```mermaid
+> graph TD
+>   A[Informational Influence]
+>   B[Normative Influence]
+>   C[Conformity]
+>   A -->|align with perceived accuracy| C
+>   B -->|avoid social conflict| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Asch's Line-Judgment Paradigm**
+> *Understand the experimental setup for normative influence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P as Participant
+>   participant G as Group
+>   P->>G: Presented with a line and three comparison lines
+>   G-->>P: Unanimously choose an incorrect answer
+>   P->>G: Conform to the group's choice despite knowing it is wrong
+> ```
+
+
+> [!abstract] **Diagram 3 — Conformity Factors Impacting Rates**
+> *See how different factors affect conformity rates.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Dissenting Voice]
+>   B[Cultural Context]
+>   C[Group Composition]
+>   D[Task Ambiguity]
+>   E[Conformity Rate]
+>   A -->|Reduces Conformity| E
+>   B -->|Influences Conformity| E
+>   C -->|Affects Conformity| E
+>   D -->|Increases Conformity| E
+> ```
 
 # Conformity
 

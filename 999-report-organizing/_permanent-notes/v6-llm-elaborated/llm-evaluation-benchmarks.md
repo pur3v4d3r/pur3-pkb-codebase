@@ -1,14 +1,13 @@
 ---
-title: "LLM Evaluation Benchmarks"
+title: LLM Evaluation Benchmarks
 aliases:
-  - "LLM Evaluation Benchmarks"
-  - "LLM benchmarks"
-  - "language model evaluation suites"
-  - "NLP benchmarks for LLMs"
+  - LLM Evaluation Benchmarks
+  - LLM benchmarks
+  - language model evaluation suites
+  - NLP benchmarks for LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,102 @@ subdomains:
   - ai-safety
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "llm-evaluation-benchmarks-synthetic-seed-2026-05-21"
+  - llm-evaluation-benchmarks-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Model-Graded Evaluation]]"
-  - "[[Human-Preference Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
+  - '[[Human-Preference Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Model-Graded Evaluation]]"
-  - "[[Human-Preference Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
+  - '[[Human-Preference Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LLM Evaluation Benchmarks Overview**
+> *Identify the key distinctions between reasoning and commonsense knowledge benchmarks.*
+>
+> ```mermaid
+> graph TD
+>   A[Reasoning]
+>   B(Commonsense Knowledge)
+>   C[MMLU]
+>   D[HellaSwag]
+>   E[WinoGrande]
+>   A -->|Example Benchmark| C
+>   B -->|Examples| D, E
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Evaluation Challenges**
+> *Understand the challenges of benchmark saturation and contamination.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Saturation]
+>   B[Contamination]
+>   C[Develop New Benchmarks]
+>   D[Implement Data Cleaning Protocols]
+>   E[Use Out-of-Domain Test Sets]
+>   A -->|Solution| C
+>   B -->|Solutions| D, E
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Evaluation Applications**
+> *See how benchmarks are used in instructional design and research comparison.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Designer as D
+>   participant Researcher as R
+>   participant Benchmark as B
+>   D->>B: Assess Instruction Following
+>   B-->>D: Feedback on Commonsense Knowledge
+>   R->>B: Compare Model Performance
+>   B-->>R: Standardized Scores
+> ```
 
 # LLM Evaluation Benchmarks
 

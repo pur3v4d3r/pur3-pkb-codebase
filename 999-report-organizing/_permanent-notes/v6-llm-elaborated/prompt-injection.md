@@ -1,14 +1,13 @@
 ---
-title: "Prompt Injection"
+title: Prompt Injection
 aliases:
-  - "Prompt Injection"
-  - "prompt injection attack"
-  - "instruction injection"
-  - "indirect prompt injection"
+  - Prompt Injection
+  - prompt injection attack
+  - instruction injection
+  - indirect prompt injection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,90 @@ subdomains:
   - adversarial-prompting
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-injection-synthetic-seed-2026-05-20"
+  - prompt-injection-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Adversarial Attacks on AI Systems"
-
+parent-concept: Adversarial Attacks on AI Systems
 related:
-  - "[[Tool Use in LLMs]]"
-  - "[[Jailbreaking]]"
-  - "[[Instruction Hierarchy Conflict]]"
+  - '[[Tool Use in LLMs]]'
+  - '[[Jailbreaking]]'
+  - '[[Instruction Hierarchy Conflict]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Tool Use in LLMs]]"
+  - '[[Tool Use in LLMs]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Jailbreaking]]"
+  - '[[Jailbreaking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Hierarchy Conflict]]"
+  - '[[Instruction Hierarchy Conflict]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Injection Process Flow**
+> *Follow the flow from input to output, noting where malicious instructions are injected and how they affect model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Untrusted Input] --> B[LLM Processing]
+>   B --> C[Malicious Instructions Embedded]
+>   C --> D[Model Output Manipulated]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Injection vs Other Attacks**
+> *Compare Prompt Injection with other adversarial attacks to understand their distinct characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Injection] -->|Embeds Malicious Instructions| B[LLM Processing]
+>   C[Model Poisoning] -->|Alters Training Data| D[System Behavior Induced]
+>   E[Evasion Attack] -->|Manipulates Input Data| F[Bypasses Detection]
+> ```
+
+
+> [!abstract] **Diagram 3 — Agentic System Threat Model**
+> *Identify the potential threats in agentic systems due to Prompt Injection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[LLM with External Authority] --> B[Untrusted Input]
+>   B --> C[Malicious Instructions Embedded]
+>   C --> D[Unauthorized Actions or Data Exfiltration]
+> ```
 
 # Prompt Injection
 

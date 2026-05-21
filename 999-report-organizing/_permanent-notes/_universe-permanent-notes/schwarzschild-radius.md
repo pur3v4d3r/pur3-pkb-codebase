@@ -17,7 +17,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - schwarzschild-radius-synthetic-seed-2026-05-14
@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schwarzschild Radius Formula Breakdown**
+> *Follow the formula to understand how mass, gravitational constant, and speed of light relate.*
+>
+> ```mermaid
+> graph TD
+>   A[Mass (M)] --> B[Gravitational Constant (G)]
+>   C[Speed of Light (c)] --> D[(2GM/c²) -> Schwarzschild Radius]
+>   B --> D
+>   A --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Coordinate Singularity vs Physical Singularity**
+> *Compare coordinate singularities with physical singularities in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Schwarzschild Radius] --> B[Coordinate Singularity]
+>   C[Physical Singularity] --> D[Real Discontinuity]
+>   E[Different Coordinates] --> F[No Anomaly]
+>   G[Same Coordinates] --> H[Singularity Present]
+> ```
+
+
+> [!abstract] **Diagram 3 — Black Hole Formation Process**
+> *Trace the steps from mass compression to black hole formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mass Compression] --> B[(M/R) > c²/(2G)]
+>   B --> C[Gravitational Collapse]
+>   C --> D[Black Hole Formation]
+> ```
 
 # Schwarzschild Radius
 

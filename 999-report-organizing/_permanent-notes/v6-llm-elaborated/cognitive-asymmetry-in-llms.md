@@ -18,7 +18,7 @@ subdomains:
   - model-behaviour
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-asymmetry-in-llms-synthetic-seed-2026-05-20
@@ -66,8 +66,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LLM Cognitive Asymmetry Overview**
+> *Identify the strengths and weaknesses of LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Abstract Reasoning]
+>   B[Precise Symbolic Manipulation]
+>   C[Ordinal Tracking]
+>   D[Working Memory]
+>   A -->|Strength| E[LLM Performance]
+>   B -->|Weakness| E
+>   C -->|Weakness| E
+>   D -->|Weakness| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Training Data and Architectural Design**
+> *Understand the impact of training data on LLM performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Architectural Design]
+>   B[Training Data]
+>   C[Vast Diverse Dataset]
+>   D[Fine-Grained Understanding]
+>   E[Statistical Regularities]
+>   F[Precise Manipulation]
+>   G[Breadth and Depth]
+>   H[Evaluation]
+>   A -->|Influences| B
+>   B -->|Covers| C
+>   B -->|Requires| D
+>   C -->|Captures| E
+>   D -->|Struggles with| F
+>   G -->|Consider| H
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Benchmarking Suite**
+> *See the comprehensive tests for LLM evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Pattern-Matching Tasks]
+>   B[Precise Symbolic Manipulation Tasks]
+>   C[Benchmarking Suite]
+>   D[Comprehensive Evaluation]
+>   A -->|Includes| C
+>   B -->|Includes| C
+>   C -->|Ensures| D
+> ```
 
 # Cognitive Asymmetry in LLMs
 

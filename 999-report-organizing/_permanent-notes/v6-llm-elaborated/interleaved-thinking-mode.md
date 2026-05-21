@@ -18,7 +18,7 @@ subdomains:
   - model-design
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - interleaved-thinking-mode-synthetic-seed-2026-05-20
@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Interleaved Thinking Process Flow**
+> *Follow the iterative process from thought to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Thought Segment]
+>   B --> C[Response Segment]
+>   C --> D[Feedback Loop]
+>   D --> E[Refinement]
+>   E --> F[Next Thought Segment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Interleaved vs Front-Loaded Modes Comparison**
+> *Compare the two modes' approaches to generating responses.*
+>
+> ```mermaid
+> graph TD
+>   A[Front-Loaded Mode] --> B[Complete Reasoning]
+>   B --> C[Output Response]
+>   D[Interleaved Mode] --> E[Thought Segment]
+>   E --> F[Response Segment]
+>   F --> G[Feedback Loop]
+>   G --> H[Refinement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Contrast**
+> *Identify the differences in thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Interleaved Mode] --> B[Reflective]
+>   C[Front-Loaded Mode] --> D[Reactive]
+>   E[Reflective] --> F[Review and Adjust]
+>   G[Reactive] --> H[Immediate Response]
+> ```
 
 # Interleaved Thinking Mode
 

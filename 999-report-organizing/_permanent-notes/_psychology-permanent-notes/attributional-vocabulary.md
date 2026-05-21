@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -71,8 +71,78 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Attributional Vocabulary Dimensions**
+> *Follow the arrows to see how different dimensions influence attributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal]
+>   B[External]
+>   C[Stable]
+>   D[Unstable]
+>   E[Controllable]
+>   F[Uncontrollable]
+>   A -->|Locus| G[Attributional Vocabulary]
+>   B -->|Locus| G
+>   C -->|Stability| G
+>   D -->|Stability| G
+>   E -->|Control| G
+>   F -->|Control| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional Consequences of Attributions**
+> *Trace the paths to understand how different attributions lead to emotional outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success]
+>   B[Failure]
+>   C[Effort]
+>   D[Able]
+>   E[Test Unfair]
+>   F[Shame]
+>   G[Pride]
+>   H[Confidence]
+>   I[Lack Effort]
+>   J[Self-Blame]
+>   A -->|Attribution: Effort| G
+>   B -->|Attribution: Able| F
+>   C -->|Attribution: Test Unfair| H
+>   D -->|Attribution: Lack Effort| J
+>   E -->|Attribution: Self-Blame| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural Influence on Attributional Vocabulary**
+> *Compare the cultural dimensions that shape attributional vocabularies.*
+>
+> ```mermaid
+> graph TD
+>   A[Japanese]
+>   B[English]
+>   C['Effort Distinction']
+>   D['Ability Distinction']
+>   E[Nuanced Attribution]
+>   F[Simplified Attribution]
+>   G[Adaptive Attributions]
+>   H[Less Adaptive]
+>   A -->|Causal Language: Nuanced| E
+>   B -->|Causal Language: Simplified| F
+>   C -->|Effort Lexeme| G
+>   D -->|Ability Lexeme| G
+>   E -->|Adaptive Attributions| G
+>   F -->|Less Adaptive| H
+> ```
 
 # Attributional Vocabulary
 

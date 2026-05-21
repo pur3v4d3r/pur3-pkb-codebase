@@ -1,15 +1,14 @@
 ---
-title: "Adversarial Suffix Attacks"
+title: Adversarial Suffix Attacks
 aliases:
-  - "Adversarial Suffix Attacks"
-  - "adversarial suffix"
-  - "GCG attack"
-  - "gradient-based jailbreak"
-  - "universal adversarial perturbation for LLMs"
+  - Adversarial Suffix Attacks
+  - adversarial suffix
+  - GCG attack
+  - gradient-based jailbreak
+  - universal adversarial perturbation for LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,91 @@ subdomains:
   - ai-safety
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "adversarial-suffix-attacks-synthetic-seed-2026-05-21"
+  - adversarial-suffix-attacks-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Security"
-
+parent-concept: LLM Security
 related:
-  - "[[Gradient-Based Optimization]]"
-  - "[[Jailbreak Taxonomy]]"
+  - '[[Gradient-Based Optimization]]'
+  - '[[Jailbreak Taxonomy]]'
 prerequisites:
-  - "[[Gradient-Based Optimization]]"
+  - '[[Gradient-Based Optimization]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Jailbreak Taxonomy]]"
+  - '[[Jailbreak Taxonomy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Adversarial Suffix Attack Process**
+> *Follow the flow from request to compliance through suffix optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Request] --> B[Gradient-Based Optimization]
+>   B --> C[Suffix Sequence Found]
+>   C --> D[Compliance Elicited]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adversarial Suffix Attack Mechanism**
+> *Trace the iterative refinement process using gradient information.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Harmful Request] --> B[Fixed]
+>   C[Suffix Tokens] --> D[Gradient Information]
+>   E[Loss Minimization] --> F[Iterative Update]
+> ```
+
+
+> [!abstract] **Diagram 3 — Adversarial Suffix Attack Taxonomy**
+> *Identify the specific focus and methods of adversarial suffix attacks.*
+>
+> ```mermaid
+> graph TD
+>   A[Adversarial Attacks] --> B[Jailbreak Techniques]
+>   B --> C[White-Box Jailbreaking]
+>   D{Focus}
+>   E[Appending Specific Sequences] --> D
+>   F[Gradient-Based Optimization] --> D
+> ```
 
 # Adversarial Suffix Attacks
 

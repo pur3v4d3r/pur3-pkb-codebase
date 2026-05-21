@@ -18,7 +18,7 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - construal-level-theory-synthetic-seed-2026-04-25
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Construal Level Process Flow**
+> *Follow the flow from near to distant events and observe the shift in abstraction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Near Event] --> B[Concrete Representation]
+>   B --> C[Specific Details]
+>   D[Distant Event] --> E[Abstract Representation]
+>   E --> F[Core Features]
+> ```
+
+
+> [!abstract] **Diagram 2 — Construal Level Taxonomy**
+> *Identify the hierarchical relationship between different types of psychological distance and their corresponding construal levels.*
+>
+> ```mermaid
+> graph TD
+>   A[Temporal Distance] --> B(Abstract)
+>   C[Spatial Distance] --> D(Abstract)
+>   E[Social Distance] --> F(Abstract)
+>   G[Hypothetical Distance] --> H(Abstract)
+> ```
+
+
+> [!abstract] **Diagram 3 — Construal Level Applications**
+> *Notice how different applications leverage CLT to influence behavior and decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B(Abstract for Long-Term Goals)
+>   C[Persuasion] --> D(Abstract for Future Benefits)
+>   E[Self-Control] --> F(Concrete for Immediate Temptations)
+> ```
 
 # Construal Level Theory
 

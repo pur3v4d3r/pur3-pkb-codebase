@@ -18,7 +18,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - deep-processing-synthetic-seed-2026-04-24
@@ -65,8 +65,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Deep Processing Mechanisms**
+> *Follow the flow from input to deep processing techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Elaborative Rehearsal]
+>   C[Self-Explanation]
+>   D[Application]
+>   A -->|Linking New Info| B
+>   B -->|Articulating Understanding| C
+>   C -->|Using in Different Contexts| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Deep vs Shallow Processing**
+> *Compare the focus of deep and shallow processing strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Deep Processing]
+>   B[Shallow Processing]
+>   A -->|Semantic Analysis| C[Meaningful Engagement]
+>   B -->|Physical/Phonological Features| D[Mere Scrutiny]
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Outcomes Through Deep Processing**
+> *Trace the path from deep processing to enhanced learning outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Deep Processing]
+>   B[Elaborative Rehearsal]
+>   C[Self-Explanation]
+>   D[Application]
+>   E[Better Retention]
+>   F[Transferability]
+>   G[Understanding]
+>   H[Adaptability]
+>   A -->|Linking New Info| B
+>   B -->|Articulating Understanding| C
+>   C -->|Using in Different Contexts| D
+>   D -->|Enhanced Encoding| E
+>   E -->|Transfer Beyond Classroom| F
+>   F -->|Improved Long-Term Retention| G
+>   G -->|Adaptable to New Situations| H
+> ```
 
 # Deep Processing
 

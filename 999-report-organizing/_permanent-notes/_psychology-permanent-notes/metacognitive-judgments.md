@@ -19,7 +19,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognitive-judgments-synthetic-seed-2026-04-24
@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Judgments Process Flow**
+> *Follow the flow from cues to judgments and regulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Fluency] --> B[Familiarity]
+>   B --> C[Confidence in Recall]
+>   C --> D[Ease-of-Learning]
+>   D --> E[Metacognitive Regulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Judgment Timing Accuracy**
+> *Compare immediate and delayed judgments' accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Immediate Judgment] --> B[Fluency Bias]
+>   C[Delayed Judgment] --> D[Retrieval-Based Cue]
+>   B --> E[Less Accurate]
+>   D --> F[More Reliable]
+> ```
+
+
+> [!abstract] **Diagram 3 — Judgment Types Comparison**
+> *Distinguish between Metacognitive Judgments and other types.*
+>
+> ```mermaid
+> classDiagram
+>   class Metacognitive_Judgments{
+>     +Confidence_in_Recall()
+>     +Ease_of_Learning()
+>   }
+>   class Retrospective_Confidence{
+>     +Past_Performance_Assessment()
+>   }
+>   class Intrinsic_Load{
+>     +Task_Difficulty()
+>   }
+>   class Extraneous_Load{
+>     +Instructional_Design_Issues()
+>   }
+>   Metacognitive_Judgments -->|Guides Current Strategies| Retrospective_Confidence
+>   Metacognitive_Judgments -->|Not Related To| Intrinsic_Load
+>   Metacognitive_Judgments -->|Not Related To| Extraneous_Load
+> ```
 
 # Metacognitive Judgments
 

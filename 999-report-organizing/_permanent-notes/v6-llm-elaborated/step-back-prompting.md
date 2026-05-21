@@ -1,13 +1,12 @@
 ---
-title: "Step-Back Prompting"
+title: Step-Back Prompting
 aliases:
-  - "Step-Back Prompting"
-  - "step-back abstraction"
-  - "abstraction-first prompting"
+  - Step-Back Prompting
+  - step-back abstraction
+  - abstraction-first prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,78 @@ subdomains:
   - llm-inference
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "step-back-prompting-synthetic-seed-2026-05-20"
+  - step-back-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering"
-
+parent-concept: Prompt-Engineering
 related:
-  - "[[Chain-of-Thought-Prompting]]"
-  - "[[Analogical-Prompting]]"
+  - '[[Chain-of-Thought-Prompting]]'
+  - '[[Analogical-Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Chain-of-Thought-Prompting]]"
-  - "[[Analogical-Prompting]]"
+  - '[[Chain-of-Thought-Prompting]]'
+  - '[[Analogical-Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Step-Back Prompting Process Flow**
+> *Follow the two-stage process from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Question] --> B[Identify Abstraction]
+>   B --> C[Generate Answer Using Abstraction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Single-Stage Prompting Techniques**
+> *Compare Step-Back Prompting with other single-stage techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Step-Back Prompting] -->|Two stages| B[Identify Abstraction]
+>   B --> C[Generate Answer Using Abstraction]
+>   D[Single-Stage Techniques] --> E[Directly Generate Answer]
+> ```
 
 # Step-Back Prompting
 

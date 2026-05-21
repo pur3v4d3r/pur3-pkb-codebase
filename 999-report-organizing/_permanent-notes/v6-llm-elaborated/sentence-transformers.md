@@ -1,15 +1,14 @@
 ---
-title: "Sentence Transformers"
+title: Sentence Transformers
 aliases:
-  - "Sentence Transformers"
-  - "SBERT"
-  - "Sentence-BERT"
-  - "sentence encoder"
-  - "bi-encoder sentence embedding"
+  - Sentence Transformers
+  - SBERT
+  - Sentence-BERT
+  - sentence encoder
+  - bi-encoder sentence embedding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,127 @@ subdomains:
   - semantic-search
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "sentence-transformers-synthetic-seed-2026-05-20"
+  - sentence-transformers-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Text Embedding Models"
-
+parent-concept: Text Embedding Models
 related:
-  - "[[Text Embedding Models]]"
-  - "[[Siamese Networks]]"
-  - "[[Cosine Similarity]]"
+  - '[[Text Embedding Models]]'
+  - '[[Siamese Networks]]'
+  - '[[Cosine Similarity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Text Embedding Models]]"
+  - '[[Text Embedding Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Siamese Networks]]"
+  - '[[Siamese Networks]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Cosine Similarity]]"
+  - '[[Cosine Similarity]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sentence Transformer Architecture Overview**
+> *Identify the two main encoder types: bi-encoder and cross-encoder.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sentence]
+>   subgraph Bi-Encoder
+>     B1[Encode Independently]
+>     C1[Produce Embedding]
+>   end
+>   subgraph Cross-Encoder
+>     D1[Process Pairs Together]
+>     E1[Compute Similarity]
+>   end
+>   A -->|Bi-Encoder Path| B1
+>   B1 --> C1
+>   A -->|Cross-Encoder Path| D1
+>   D1 --> E1
+> ```
+
+
+> [!abstract] **Diagram 2 — Siamese Network for Sentence Similarity**
+> *Observe how two sentences are encoded and compared using cosine similarity.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sentence 1]
+>   B[Input Sentence 2]
+>   C[Encoder]
+>   D[Embedding 1]
+>   E[Embedding 2]
+>   F[Cosine Similarity]
+>   G[Similarity Score]
+>   A -->|Sentence 1| C
+>   B -->|Sentence 2| C
+>   C --> D
+>   C --> E
+>   D -->|Embedding 1| F
+>   E -->|Embedding 2| F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Triplet Network for Semantic Embeddings**
+> *Notice the triplet structure and how it influences embedding distances.*
+>
+> ```mermaid
+> graph TD
+>   A[Anchor Sentence]
+>   B[Positive Sentence]
+>   C[Negative Sentence]
+>   D[Encoder]
+>   E[Embedding Anchor]
+>   F[Embedding Positive]
+>   G[Embedding Negative]
+>   H[Cosine Similarity]
+>   I[Similarity Score]
+>   A -->|Anchor| D
+>   B -->|Positive| D
+>   C -->|Negative| D
+>   D --> E
+>   D --> F
+>   D --> G
+>   E -->|Embedding Anchor| H
+>   F -->|Embedding Positive| H
+>   G -->|Embedding Negative| H
+>   H --> I
+> ```
 
 # Sentence Transformers
 

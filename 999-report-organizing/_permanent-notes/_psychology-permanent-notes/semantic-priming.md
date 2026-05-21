@@ -16,7 +16,7 @@ subdomains:
   - psycholinguistics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - semantic-priming-synthetic-seed-2026-04-25
@@ -63,8 +63,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Semantic Priming Process Flow**
+> *Follow the sequence from word processing to activation spread.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Word Processing] --> B[Activation]
+>   B --> C[Related Concepts]
+>   C --> D[Faster Processing]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic Network Example**
+> *Trace the connections between related concepts in semantic memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Apple] --> B[Fruit]
+>   A --> C[Eating]
+>   B --> D[Garden]
+>   C --> E[Taste]
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Priming**
+> *Compare the conscious and unconscious effects of semantic priming.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Explicit as E
+>   participant Implicit as I
+>   E->>E: Aware & Adjusts Response
+>   I->>I: Unconscious Influence
+> ```
 
 # Semantic Priming
 

@@ -18,7 +18,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - constructivist-learning-theory-synthetic-seed-2026-04-24
@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Constructivist Learning Process**
+> *Follow the flow from experience to accommodation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Experience] --> B[Absorption]
+>   B --> C[Evaluation]
+>   C --> D[Assimilation|Accommodation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constructivist Learning Strategies**
+> *Identify the instructional methods and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Guided Discovery] --> B[Problem Solving]
+>   C[Scaffolding] --> D[Supporting Learners]
+> ```
+
+
+> [!abstract] **Diagram 3 — Constructivist Learning Mechanisms**
+> *Trace the stages from experience to schema modification.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Experience
+>   Experience --> SimilarityCheck
+>   SimilarityCheck -->|Similar| Assimilation
+>   SimilarityCheck -->|Different| Accommodation
+>   Accommodation --> SchemaModification
+> ```
 
 # Constructivist Learning Theory
 

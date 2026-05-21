@@ -17,7 +17,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gravitational-wave-astronomy-synthetic-seed-2026-05-14
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gravitational Wave Detection Process**
+> *Follow the flow from source to detection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Event] --> B[Wave Propagation]
+>   B --> C[Detection Instrument]
+>   C --> D[Data Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gravitational Wave Astronomy vs Electromagnetic Astronomy**
+> *Compare the focus of each observational technique.*
+>
+> ```mermaid
+> graph TD
+>   A[Gravitational Wave Astronomy] -->|Focus On| E[Waves]
+>   B[Electromagnetic Astronomy] -->|Focus On| F[Photons]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the flow of information in each approach.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TheoreticalModels as TM
+>   participant DataDrivenApproach as DDA
+>   TM->>DDA: Predictions and Models
+>   DDA-->>TM: Observations and Inferences
+> ```
 
 # Gravitational Wave Astronomy
 

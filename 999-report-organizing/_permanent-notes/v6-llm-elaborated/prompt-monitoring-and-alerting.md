@@ -1,14 +1,13 @@
 ---
-title: "Prompt Monitoring and Alerting"
+title: Prompt Monitoring and Alerting
 aliases:
-  - "Prompt Monitoring and Alerting"
-  - "prompt quality monitoring"
-  - "LLM output monitoring"
-  - "production prompt observability"
+  - Prompt Monitoring and Alerting
+  - prompt quality monitoring
+  - LLM output monitoring
+  - production prompt observability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,104 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-monitoring-and-alerting-synthetic-seed-2026-05-20"
+  - prompt-monitoring-and-alerting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Production Observability Practices"
-
+parent-concept: Production Observability Practices
 related:
-  - "[[Prompt Regression Testing]]"
-  - "[[Prompt Versioning]]"
+  - '[[Prompt Regression Testing]]'
+  - '[[Prompt Versioning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Regression Testing]]"
-  - "[[Prompt Versioning]]"
+  - '[[Prompt Regression Testing]]'
+  - '[[Prompt Versioning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LLM Monitoring Metrics Overview**
+> *Identify the key metrics monitored for LLM performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Latency]
+>   B[Cost]
+>   C[Safety Violations]
+>   D[User Satisfaction]
+>   E[Prompt Inputs]
+>   F[Model Outputs]
+>   A --> G[Quality Metrics]
+>   B --> G
+>   C --> G
+>   D --> G
+>   E --> H[Automated Evaluation]
+>   F --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Monitoring Workflow**
+> *Follow the flow from prompt input to alert generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Prompt Analysis]
+>   B --> C[Model Execution]
+>   C --> D[Output Evaluation]
+>   D --> E[Automated Metrics]
+>   E --> F[Threshold Comparison]
+>   F --> G[Alert Generation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Quality Assurance Mechanisms**
+> *Understand the balance between automated and human oversight.*
+>
+> ```mermaid
+> graph TD
+>   A[Automated Metrics] --> B[Trends & Anomalies]
+>   C[Human Review] --> D[Nuanced Quality Checks]
+>   E[Integration Point] --> F[Comprehensive View]
+>   B -->|Trends| E
+>   D -->|Checks| E
+> ```
 
 # Prompt Monitoring and Alerting
 

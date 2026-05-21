@@ -16,7 +16,7 @@ subdomains:
   - stellar-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - planetary-nebula-synthetic-seed-2026-05-14
@@ -63,8 +63,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Planetary Nebula Formation Process**
+> *Follow the stages from red giant to white dwarf.*
+>
+> ```mermaid
+> graph TD
+>   A[Red Giant] --> B[Eject Outer Layers]
+>   B --> C[Ionized Gas Shell]
+>   C --> D[Intense UV Radiation]
+>   D --> E[Planetary Nebula]
+>   E --> F[White Dwarf]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Types of Nebulae**
+> *Compare Planetary Nebula to supernova remnants and H II regions.*
+>
+> ```mermaid
+> graph TD
+>   A[Planetary Nebula] --> B[Low-Intermediate Mass Stars]
+>   C[Supernova Remnant] --> D[Massive Star Explosion]
+>   E[HII Region] --> F[Star Formation Area]
+> ```
+
+
+> [!abstract] **Diagram 3 — Chemical Enrichment Process**
+> *Trace the flow of elements from star to interstellar medium.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Red Giant] --> B[Ejects Elements]
+>   B --> C[Ionized Gas Shell]
+>   C --> D[Intersellar Medium]
+>   D --> E[New Star Formation]
+> ```
 
 # Planetary Nebula
 

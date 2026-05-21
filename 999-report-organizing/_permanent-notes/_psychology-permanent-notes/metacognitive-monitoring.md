@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -72,8 +72,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Monitoring Process Flow**
+> *Follow the flow from cues to meta-level inference.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Processing Fluency] --> B[Meta-Level Inference]
+>   C[Retrieval Latency] --> B
+>   D[Cue Interpretation] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Monitoring in Cognitive Architecture**
+> *Identify the hierarchical relationship between meta-level and object-level.*
+>
+> ```mermaid
+> graph TD
+>   A[Meta-Level] -->|Monitors|
+>   B[Object-Level]
+>   C[Processing Fluency]
+>   D[Retrieval Latency]
+>   E[Cues]
+>   F[Inference]
+>   A --> C
+>   A --> D
+>   C --> E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Monitoring Applications**
+> *See the various domains where metacognitive monitoring is applied.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant SoftwareEngineering as SE
+>   participant ArtificialIntelligence as AI
+>   participant MOOCs as M
+>   ID->>SE: Code Review
+>   SE-->>AI: Self-Monitoring Systems
+>   AI-->>M: Spaced Retrieval Techniques
+> ```
 
 # Metacognitive Monitoring
 

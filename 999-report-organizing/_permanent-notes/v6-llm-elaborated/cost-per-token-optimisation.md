@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cost-per-token-optimisation-synthetic-seed-2026-05-20
@@ -71,8 +71,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cost Per Token Optimisation Strategies**
+> *Identify the strategies used to reduce token usage.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Token Reduction]
+>   B[Output Length Control]
+>   C[Model Routing]
+>   D[Prompt Compression]
+>   E[Quantization]
+>   F[Batch Processing]
+>   G[Prompt Caching]
+>   A -->|Summarisation, Extraction| D
+>   B -->|Instruct Models to be Concise|
+>   C -->|Use Smaller Models for Simple Queries|
+>   D -->|Reduce Input Token Count|
+>   E -->|Reduce Memory and Compute Requirements|
+>   F -->|Improve GPU Utilization|
+>   G -->|Reuse KV States for Repeated Prefixes
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Usage Workflow**
+> *Follow the flow of token usage from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Query] --> B[Prompt Compression]
+>   B --> C[Model Inference]
+>   C --> D[Output Response]
+>   D --> E[Token Count Reduction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Economic and Environmental Impact**
+> *Understand the economic and environmental benefits of reducing token usage.*
+>
+> ```mermaid
+> graph TD
+>   A[Reduce Token Usage] --> B[Lower Inference Costs]
+>   A --> C[Decrease Energy Consumption]
+>   B --> D[Economically Viable Applications]
+>   C --> E[Sustainability Efforts]
+> ```
 
 # Cost Per Token Optimisation
 

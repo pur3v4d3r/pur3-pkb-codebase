@@ -18,7 +18,7 @@ subdomains:
   - judgement-and-decision-making
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - motivated-reasoning-synthetic-seed-2026-04-24
@@ -67,8 +67,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Motivated Reasoning Process Flow**
+> *Follow the flow from belief to evidence processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief] --> B[Evidence Search]
+>   B --> C[Evaluation]
+>   C --> D[Memory]
+>   D --> E[Confidence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Evidence Standards in Motivated Reasoning**
+> *Compare standards for supporting vs. challenging evidence.*
+>
+> ```mermaid
+> graph TD
+>   A[Supporting Evidence] --> B[Lower Standard]
+>   C[Challenging Evidence] --> D[Higher Standard]
+> ```
 
 # Motivated Reasoning
 

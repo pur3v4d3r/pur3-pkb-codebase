@@ -17,7 +17,7 @@ subdomains:
   - cognitive-load-theory
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - multimedia-learning-synthetic-seed-2026-04-25
@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Dual-channel model overview**
+> *Follow the flow of information through verbal and visual channels.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal Channel]
+>   B[Visual Channel]
+>   C[Narration] --> A
+>   D[Text] --> A
+>   E[Diagrams] --> B
+>   F[Animations] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive load reduction principles**
+> *Identify how modality and redundancy affect cognitive load.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Modality Effect]
+>   B[Redundancy Effect]
+>   C[Narration & Diagrams] -->|Enhances Learning| A
+>   D[Text & Narration] -->|Decreases Learning| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional design applications**
+> *Trace the integration of multimedia elements in instructional materials.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Narrator as N
+>   participant Animator as A
+>   participant Writer as W
+>   participant Learner as L
+>   N->>L: Narration
+>   A->>L: Animations
+>   W->>L: Textual Summaries
+> ```
 
 # Multimedia Learning
 

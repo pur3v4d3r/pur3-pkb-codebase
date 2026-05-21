@@ -16,7 +16,7 @@ subdomains:
   - expertise-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - domain-specific-knowledge-synthetic-seed-2026-04-25
@@ -63,8 +63,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Domain Specific Knowledge Hierarchy**
+> *Follow the hierarchical structure from foundational to complex schemas.*
+>
+> ```mermaid
+> graph TD
+>   A[Foundational Concepts] --> B[Intermediate Schemas]
+>   B --> C[Complex Schemas]
+> ```
+
+
+> [!abstract] **Diagram 2 — Domain Specific Knowledge vs General Intelligence**
+> *Compare the roles of Domain Specific Knowledge and general intelligence in performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[General Intelligence] -->|Limited Role| D[Performance]
+>   B[Domain Specific Knowledge] -->|Critical Role| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Strategies for Domain Specific Knowledge**
+> *Identify the strategies that enhance acquisition and application of domain-specific knowledge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Surface Processing] -->|Limited Retention| C[Performance]
+>   B[Deep Processing] -->|Enhanced Retention| C
+> ```
 
 # Domain Specific Knowledge
 

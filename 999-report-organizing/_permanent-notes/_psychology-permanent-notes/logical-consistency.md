@@ -18,7 +18,7 @@ subdomains:
   - formal-logic
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - logical-consistency-synthetic-seed-2026-05-12
@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Logical Consistency vs Truth**
+> *Compare logical consistency with truth to understand their distinct roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Logical Consistency]
+>   B[Truth]
+>   A -->|Ensures no contradictions| C[Coherent Beliefs]
+>   B -->|Represents reality accurately| D[Accurate Beliefs]
+>   C -.-> E[Can be false]
+>   D -.-> F[True]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Identify the difference between reflective and reactive thinking in maintaining logical consistency.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking]
+>   B[Reactive Thinking]
+>   A -->|Critically evaluates beliefs| C[Prevents Contradictions]
+>   B -->|Immediate response| D[Potential Inconsistencies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Logical Consistency in Practice**
+> *Understand the practical applications of logical consistency in instructional design and legal argumentation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Argumentation]
+>   A -->|Ensures coherent information| C[Educational Materials]
+>   B -->|Constructs sound arguments| D[Legal Decisions]
+> ```
 
 # Logical Consistency
 

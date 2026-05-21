@@ -18,7 +18,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - logical-reasoning-synthetic-seed-2026-04-25
@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Logical Reasoning Types Overview**
+> *Identify the three main types of logical reasoning and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Premises] --> B[Deductive]
+>   A --> C[Inductive]
+>   A --> D[Abductive]
+> ```
+
+
+> [!abstract] **Diagram 2 — Logical Reasoning Process Flow**
+> *Follow the stages of logical reasoning from identifying premises to evaluating conclusions.*
+>
+> ```mermaid
+> flowchart LR
+>   I[Identify Premises] --> F[Formulate Conclusion]
+>   F --> E[Evaluate Validity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Logical Reasoning Applications**
+> *See the diverse applications of logical reasoning in different fields.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant LegalDecisionMaking as LD
+>   participant BusinessProblemSolving as BP
+>   participant MOOCs as M
+>   ID->>LD: Critical Thinking Skills
+>   LD-->>BP: Deductive Reasoning
+>   BP-->>M: Strategic Planning
+> ```
 
 # Logical Reasoning
 

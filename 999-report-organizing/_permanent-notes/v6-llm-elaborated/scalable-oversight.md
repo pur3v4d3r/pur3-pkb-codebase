@@ -1,13 +1,12 @@
 ---
-title: "Scalable Oversight"
+title: Scalable Oversight
 aliases:
-  - "Scalable Oversight"
-  - "scalable human oversight"
-  - "oversight scalability"
+  - Scalable Oversight
+  - scalable human oversight
+  - oversight scalability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,96 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "scalable-oversight-synthetic-seed-2026-05-20"
+  - scalable-oversight-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Corrigibility]]"
-  - "[[Debate-as-Alignment-Mechanism]]"
-  - "[[Iterated Amplification]]"
+  - '[[Corrigibility]]'
+  - '[[Debate-as-Alignment-Mechanism]]'
+  - '[[Iterated Amplification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Corrigibility]]"
+  - '[[Corrigibility]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Debate-as-Alignment-Mechanism]]"
-  - "[[Iterated Amplification]]"
+  - '[[Debate-as-Alignment-Mechanism]]'
+  - '[[Iterated Amplification]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Scalable Oversight Process Flow**
+> *Follow the flow from AI outputs to human oversight.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AI Outputs] --> B[Ambiguity]
+>   B --> C[Task Decomposition]
+>   C --> D[AI Assistance]
+>   D --> E[Human Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scalable Oversight vs Conventional Alignment**
+> *Compare the two approaches to AI oversight.*
+>
+> ```mermaid
+> graph TD
+>   A[Conventional Alignment] -->|Direct Human Evaluation| B[Infeasible]
+>   C[Scalable Oversight] -->|AI Assistance & Task Decomposition| D[Feasible]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Scalable Oversight**
+> *Identify the applications in instructional design and quality assurance.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Complex Educational Materials| B[Ambiguity]
+>   C[Quality Assurance] -->|Software Development| D[Ambiguity]
+>   B --> E[Decompose Tasks]
+>   D --> F[Decompose Tasks]
+>   E --> G[AI Assistance]
+>   F --> H[AI Assistance]
+>   G --> I[Human Oversight]
+>   H --> J[Human Oversight]
+> ```
 
 # Scalable Oversight
 

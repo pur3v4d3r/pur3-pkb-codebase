@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - formative-assessment-synthetic-seed-2026-04-24
@@ -65,8 +65,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Formative Assessment Mechanisms**
+> *Follow the flow from retrieval to self-assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Practice]
+>   B[Identify Gaps]
+>   C[Evaluate Understanding]
+>   D[Foster Growth Mindset]
+>   A -->|Recall Information| B
+>   B -->|Surface Misconceptions| C
+>   C -->|Encourage Reflection| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Formative Assessment in Instructional Design**
+> *Trace the integration of formative assessment into lesson planning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Lesson Plan]
+>   B[Quick Quiz]
+>   C[Gauge Understanding]
+>   D[Tailor Lessons]
+>   A -->|Include| B
+>   B -->|Administer| C
+>   C -->|Analyze| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Formative Assessment Feedback Loop**
+> *Observe the continuous feedback loop between teacher and student.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   S->>T: Submit Work
+>   T-->>S: Provide Feedback
+>   S->>T: Reflect on Feedback
+>   T-->>S: Adjust Instruction
+> ```
 
 # Formative Assessment
 

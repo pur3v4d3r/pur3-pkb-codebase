@@ -16,7 +16,7 @@ subdomains:
   - star-formation
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - protostar-synthetic-seed-2026-05-14
@@ -64,8 +64,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Protostar Evolution Tracks**
+> *Follow the tracks to see how a protostar evolves.*
+>
+> ```mermaid
+> graph TD
+>   A[High Luminosity]
+>   B[Cooling and Contracting]
+>   C[Luminosity Decreases]
+>   D[Temperature Increases]
+>   E[H-R Diagram Main Sequence]
+>   A -->|Gravitational Contraction| B
+>   B -->|Cooling| C
+>   B -->|Contracting| D
+>   C & D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Protostar vs Main Sequence Star**
+> *Compare the energy sources of protostars and main sequence stars.*
+>
+> ```mermaid
+> classDiagram
+>   class Protostar{
+>     +Gravitational Contraction
+>     +Accretion
+>     -Nuclear Fusion
+>     +Luminosity from Gravitation
+>   }
+>   class MainSequenceStar{
+>     +Hydrostatic Equilibrium
+>     +Nuclear Fusion
+>     -Accretion
+>     +Luminosity from Fusion
+>   }
+>   Protostar -->|Evolution| MainSequenceStar
+> ```
+
+
+> [!abstract] **Diagram 3 — Observational Techniques for Protostars**
+> *Identify the wavelengths used to detect protostars.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Infrared as IR
+>   participant Submillimeter as SM
+>   participant DustCloud as DC
+>   participant Protostar as PS
+>   IR->>DC: Penetrate Clouds
+>   SM->>DC: Penetrate Clouds
+>   DC-->>IR: Emission Detected
+>   DC-->>SM: Emission Detected
+>   IR->>PS: Identify Protostar
+>   SM->>PS: Identify Protostar
+> ```
 
 # Protostar
 

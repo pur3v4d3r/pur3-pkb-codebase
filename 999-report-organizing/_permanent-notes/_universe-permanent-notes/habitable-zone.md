@@ -19,7 +19,7 @@ subdomains:
   - planetary-science
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - habitable-zone-synthetic-seed-2026-05-14
@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — HZ Inner and Outer Boundaries**
+> *Identify the limits of the Habitable Zone.*
+>
+> ```mermaid
+> graph TD
+>   A[Star]
+>   B[Runaway Greenhouse Limit] -->|Inner Edge| C[Habitable Zone]
+>   D[Maximum Greenhouse Limit] -->|Outer Edge| C
+> ```
+
+
+> [!abstract] **Diagram 2 — HZ Climate Feedback Mechanisms**
+> *Understand how clouds and ice-albedo feedback affect the HZ.*
+>
+> ```mermaid
+> graph TD
+>   A[Cloud Cover]
+>   B[Ice-Albedo Feedback]
+>   C[Habitable Zone Shifts]
+>   A -->|Reflects Solar Radiation| C
+>   B -->|Enhances Greenhouse Effect| C
+> ```
+
+
+> [!abstract] **Diagram 3 — HZ in Exoplanet Search Strategy**
+> *See how the HZ guides exoplanet searches.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Astronomer as A
+>   participant Telescope as T
+>   participant Habitable Zone as HZ
+>   A->>T: Target stars with known planets
+>   T->>HZ: Scan for planets within HZ boundaries
+>   HZ-->>A: Identify potentially habitable exoplanets
+> ```
 
 # Habitable Zone
 

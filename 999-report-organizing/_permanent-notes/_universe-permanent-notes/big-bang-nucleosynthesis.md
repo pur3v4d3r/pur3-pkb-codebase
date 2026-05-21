@@ -18,7 +18,7 @@ subdomains:
   - nuclear-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - big-bang-nucleosynthesis-synthetic-seed-2026-05-14
@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Nuclear Reactions Timeline**
+> *Follow the sequence of reactions from protons to helium.*
+>
+> ```mermaid
+> graph TD
+>   A[Proton] --> B[Deuterium]
+>   B --> C[Tritium]
+>   C --> D[Helium-3]
+>   D --> E[Helium-4]
+>   F[Lithium-7]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temperature vs Time Chart**
+> *Observe how temperature drops over time during nucleosynthesis.*
+>
+> ```mermaid
+> graph TD
+>   A[10^9 K] --> B[3x10^8 K]
+>   B --> C[10^7 K]
+> ```
+
+
+> [!abstract] **Diagram 3 — Element Abundance Comparison**
+> *Compare predicted and observed abundances of light elements.*
+>
+> ```mermaid
+> graph TD
+>   A[Predicted H] --> B[Observed H]
+>   C[Predicted He-4] --> D[Observed He-4]
+>   E[Predicted Li-7] --> F[Observed Li-7]
+> ```
 
 # Big Bang Nucleosynthesis
 

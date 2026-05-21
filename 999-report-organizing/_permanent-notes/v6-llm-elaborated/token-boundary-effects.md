@@ -1,14 +1,13 @@
 ---
-title: "Token Boundary Effects"
+title: Token Boundary Effects
 aliases:
-  - "Token Boundary Effects"
-  - "tokenization boundary effects"
-  - "subword boundary effects"
-  - "segmentation effects"
+  - Token Boundary Effects
+  - tokenization boundary effects
+  - subword boundary effects
+  - segmentation effects
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,102 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "token-boundary-effects-synthetic-seed-2026-05-20"
+  - token-boundary-effects-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "NLP Tokenization"
-
+parent-concept: NLP Tokenization
 related:
-  - "[[Byte-Pair Encoding]]"
-  - "[[Tokenization Artifacts]]"
+  - '[[Byte-Pair Encoding]]'
+  - '[[Tokenization Artifacts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Byte-Pair Encoding]]"
+  - '[[Byte-Pair Encoding]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Tokenization Artifacts]]"
+  - '[[Tokenization Artifacts]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Token Boundary Impact Flowchart**
+> *Follow the flow to see how token boundaries affect model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenization]
+>   B --> C[Model Processing]
+>   C --> D[Output]
+>   A -.-> E[Token Boundary Decisions]
+>   E --> F[Segmentation Variations]
+>   F --> G[Artifact Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tokenization Mechanism Overview**
+> *Trace the steps to understand how token boundaries influence model outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Data] --> B(Tokenization)
+>   B --> C(Model Training)
+>   C --> D(Model Inference)
+>   E[Token Boundary Decisions] --> F(Segmentation Variations)
+>   F --> G(Artifact Generation)
+>   H[Output]
+>   D -.-> H
+>   G -.-> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact on Multilingual Applications**
+> *Examine how token boundaries affect multilingual model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text] --> B(Tokenization)
+>   B --> C(Model Processing)
+>   C --> D(Output)
+>   E[Linguistic Differences] --> F(Cross-Lingual Tokenization)
+>   F --> G(Consistency Issues)
+>   H[Model Reliability]
+>   D -.-> H
+>   G -.-> H
+> ```
 
 # Token Boundary Effects
 

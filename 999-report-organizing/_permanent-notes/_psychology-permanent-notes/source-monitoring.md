@@ -17,7 +17,7 @@ subdomains:
   - metacognition
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - source-monitoring-synthetic-seed-2026-04-25
@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Source Monitoring Process Flow**
+> *Follow the flow from encoding to retrieval and reconstruction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding] --> B[Storage]
+>   B --> C[Retrieval]
+>   C --> D[Reconstruction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Factors Influencing Source Monitoring**
+> *Identify the factors that can affect source monitoring accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Vividness] --> B[Influence]
+>   C[Emotion] --> B
+>   D[Misinformation] --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Source Monitoring in Legal Contexts**
+> *Trace the process from information intake to testimony.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Witness as W
+>   participant Record as R
+>   participant Court as C
+>   W->>R: Intake Information
+>   R-->>W: Detailed Record
+>   W->>C: Testimony
+> ```
 
 # Source Monitoring
 

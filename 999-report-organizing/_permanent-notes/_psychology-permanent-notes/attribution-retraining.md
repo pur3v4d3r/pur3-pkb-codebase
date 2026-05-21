@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Two-stage Attribution Retraining Process**
+> *Follow the stages from induction to consolidation.*
+>
+> ```mermaid
+> graph TD
+>   A[Induction Stage]
+>   B[Consolidation Stage]
+>   A -->|Identify & Learn Alternatives| B
+>   B -->|Reinforce Through Practice| C[Behavior Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attribution Retraining Mechanism**
+> *Trace the flow from maladaptive to adaptive attributions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Maladaptive Attribution]
+>   B[Adaptive Attribution]
+>   C[Induction Stage]
+>   D[Consolidation Stage]
+>   A -->|Identify Maladaptives| C
+>   C -->|Learn Alternatives| B
+>   B -->|Reinforce Through Practice| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Key Figures in Attribution Retraining**
+> *Connect the theorists to their contributions.*
+>
+> ```mermaid
+> classDiagram
+>   class Bandura {
+>     +selfEfficacyTheory()
+>   }
+>   class Seligman {
+>     +helplessnessTheory()
+>   }
+>   Bandura -->|Developed Attribution Retraining Through| selfEfficacyTheory()
+>   Seligman -->|Provided Foundation for Understanding Maladaptive Attributions| helplessnessTheory()
+> ```
 
 # Attribution Retraining
 

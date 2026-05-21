@@ -1,14 +1,13 @@
 ---
-title: "Audio Language Model Prompting"
+title: Audio Language Model Prompting
 aliases:
-  - "Audio Language Model Prompting"
-  - "audio LM prompting"
-  - "speech-language model prompting"
-  - "audio-text prompting"
+  - Audio Language Model Prompting
+  - audio LM prompting
+  - speech-language model prompting
+  - audio-text prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - multimodal-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "audio-language-model-prompting-synthetic-seed-2026-05-21"
+  - audio-language-model-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Multimodal AI"
-
+parent-concept: Multimodal AI
 related:
-  - "[[Multimodal Few-Shot Prompting]]"
-  - "[[Vision-Language Model Prompting]]"
+  - '[[Multimodal Few-Shot Prompting]]'
+  - '[[Vision-Language Model Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Multimodal Few-Shot Prompting]]"
+  - '[[Multimodal Few-Shot Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Vision-Language Model Prompting]]"
+  - '[[Vision-Language Model Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Audio Language Model Workflow**
+> *Follow the flow from audio input to nuanced output analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Audio Clip] --> B[Auditory Processing]
+>   B --> C[Linguistic Analysis]
+>   C --> D[Supralinguistic Features]
+>   D --> E[Nuanced Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with ASR+Text Pipelines**
+> *Compare the preservation of non-verbal cues in both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Audio Clip] --> B1[ASR Transcription]
+>   B1 --> C1[Text Analysis]
+>   A --> B2[Auditory Processing]
+>   B2 --> C2[Linguistic & Supralinguistic Features]
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of Audio Language Models**
+> *Identify the different applications enabled by audio language models.*
+>
+> ```mermaid
+> graph TD
+>   A[Sentiment Analysis] --> B1[Words]
+>   A --> B2[Tone & Prosody]
+>   C[Speaker Diarisation] --> D1[Prosodic Features]
+>   E[Emotion Recognition] --> F1[Pitch Variations]
+>   E --> F2[Speaking Rate]
+> ```
 
 # Audio Language Model Prompting
 

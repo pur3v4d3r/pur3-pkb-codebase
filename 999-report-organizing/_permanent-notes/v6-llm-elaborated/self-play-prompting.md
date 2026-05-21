@@ -1,14 +1,13 @@
 ---
-title: "Self-Play Prompting"
+title: Self-Play Prompting
 aliases:
-  - "Self-Play Prompting"
-  - "self-play reasoning"
-  - "debate-with-self"
-  - "adversarial self-prompting"
+  - Self-Play Prompting
+  - self-play reasoning
+  - debate-with-self
+  - adversarial self-prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,101 @@ subdomains:
   - adversarial-training
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-play-prompting-synthetic-seed-2026-05-20"
+  - self-play-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt-Engineering Techniques"
-
+parent-concept: Prompt-Engineering Techniques
 related:
-  - "[[Multi-Agent Debate]]"
-  - "[[Adversarial Training]]"
+  - '[[Multi-Agent Debate]]'
+  - '[[Adversarial Training]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Multi-Agent Debate]]"
+  - '[[Multi-Agent Debate]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Adversarial Training]]"
+  - '[[Adversarial Training]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Play Process Flow**
+> *Follow the sequence from argument to counterargument.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Argument]
+>   B[Generate Counterargument]
+>   C[Evaluate Robustness]
+>   D[Final Output]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Play vs Single-Perspective**
+> *Compare the two approaches in terms of output robustness.*
+>
+> ```mermaid
+> graph TD
+>   A[Single-Perspective]
+>   B[Self-Play]
+>   C[Output Robustness]
+>   D[Weak Output]
+>   E[Robust Output]
+>   A -->|Produces| D
+>   B -->|Generates| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Play Applications**
+> *Identify the practical applications of Self-Play Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Ethical AI Development]
+>   C[Generate Arguments & Counterarguments]
+>   D[Robust Educational Materials]
+>   E[Ethically Robust Systems]
+>   A -->|C| D
+>   B -->|C| E
+> ```
 
 # Self-Play Prompting
 

@@ -1,14 +1,13 @@
 ---
-title: "Transformer Attention Mechanism"
+title: Transformer Attention Mechanism
 aliases:
-  - "Transformer Attention Mechanism"
-  - "self-attention"
-  - "multi-head attention"
-  - "scaled dot-product attention"
+  - Transformer Attention Mechanism
+  - self-attention
+  - multi-head attention
+  - scaled dot-product attention
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,95 @@ subdomains:
   - model-architecture
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "transformer-attention-mechanism-synthetic-seed-2026-05-20"
+  - transformer-attention-mechanism-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Models"
-
+parent-concept: Transformer Models
 related:
-  - "[[Scaled Dot-Product Attention]]"
-  - "[[Multi-Head Attention]]"
-  - "[[Recurrent Neural Networks (RNNs)]]"
+  - '[[Scaled Dot-Product Attention]]'
+  - '[[Multi-Head Attention]]'
+  - '[[Recurrent Neural Networks (RNNs)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Scaled Dot-Product Attention]]"
+  - '[[Scaled Dot-Product Attention]]'
 broader:
-  - "[[Multi-Head Attention]]"
+  - '[[Multi-Head Attention]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Recurrent Neural Networks (RNNs)]]"
+  - '[[Recurrent Neural Networks (RNNs)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Attention Mechanism Flow**
+> *Follow the flow from query to weighted sum of values.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Key]
+>   B --> C[Dot Product]
+>   C --> D[Weights]
+>   D --> E[Value]
+>   E --> F[Weighted Sum]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Interaction Overview**
+> *See how each token interacts with all others in the sequence.*
+>
+> ```mermaid
+> graph TD
+>   A[Token1] -->|Query| B[Token2]
+>   C[Token3] -->|Query| D[Token4]
+>   E[Token5] -->|Query| F[Token6]
+> ```
+
+
+> [!abstract] **Diagram 3 — Direct vs Sequential Interaction**
+> *Compare direct token interaction with sequential processing.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Token1 as T1
+>   participant Token2 as T2
+>   participant Token3 as T3
+>   T1 ->> T2: Query-Attention
+>   T1 ->> T3: Query-Attention
+>   T2 ->> T3: Sequential Propagation
+> ```
 
 # Transformer Attention Mechanism
 

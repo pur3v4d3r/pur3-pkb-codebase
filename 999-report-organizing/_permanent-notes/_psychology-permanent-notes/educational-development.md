@@ -17,7 +17,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - educational-development-synthetic-seed-2026-04-24
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Educational Development Components**
+> *Identify the interconnected elements of Educational Development.*
+>
+> ```mermaid
+> graph TD
+>   A[Curriculum Reform] --> B[Teacher PD]
+>   A --> C[Institutional Research]
+>   A --> D[Pedagogical Practice]
+>   B --> E[Implementation Support]
+>   C --> F[Evaluation Data]
+>   D --> G[Cultivate Culture]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Educational Development**
+> *Understand the sequential steps in driving sustainable improvements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Curriculum Reform] --> B[Teacher PD]
+>   B --> C[Evidence Collection]
+>   C --> D[Data Analysis]
+>   D --> E[Implementation Support]
+>   E --> F[Cultivate Culture]
+> ```
+
+
+> [!abstract] **Diagram 3 — Historical Evolution of Educational Development**
+> *Trace the progression from curriculum reform to comprehensive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Curriculum Reform] --> B[Teacher PD]
+>   B --> C[Institutional Research]
+>   C --> D[Cultivate Culture]
+> ```
 
 # Educational Development
 

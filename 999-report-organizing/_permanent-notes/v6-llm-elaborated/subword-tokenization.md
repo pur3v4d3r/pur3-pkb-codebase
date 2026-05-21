@@ -1,14 +1,13 @@
 ---
-title: "Subword Tokenization"
+title: Subword Tokenization
 aliases:
-  - "Subword Tokenization"
-  - "subword segmentation"
-  - "subword encoding"
-  - "subword-based tokenisation"
+  - Subword Tokenization
+  - subword segmentation
+  - subword encoding
+  - subword-based tokenisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,61 +19,112 @@ subdomains:
   - language-modelling
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "subword-tokenization-synthetic-seed-2026-05-20"
+  - subword-tokenization-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "NLP Tokenization"
-
+parent-concept: NLP Tokenization
 related:
-  - "[[Byte-Pair Encoding (BPE)]]"
-  - "[[WordPiece Tokenization]]"
-  - "[[Unigram Language Model Tokenization]]"
-  - "[[Character-Level Models]]"
-  - "[[Word-Level Tokenization]]"
+  - '[[Byte-Pair Encoding (BPE)]]'
+  - '[[WordPiece Tokenization]]'
+  - '[[Unigram Language Model Tokenization]]'
+  - '[[Character-Level Models]]'
+  - '[[Word-Level Tokenization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Byte-Pair Encoding (BPE)]]"
-  - "[[WordPiece Tokenization]]"
-  - "[[Unigram Language Model Tokenization]]"
+  - '[[Byte-Pair Encoding (BPE)]]'
+  - '[[WordPiece Tokenization]]'
+  - '[[Unigram Language Model Tokenization]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Character-Level Models]]"
-  - "[[Word-Level Tokenization]]"
+  - '[[Character-Level Models]]'
+  - '[[Word-Level Tokenization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Subword Tokenization Mechanisms**
+> *Compare BPE, WordPiece, and Unigram methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text]
+>   subgraph Byte-Pair Encoding (BPE)
+>     B1[Merge Frequent Pairs]
+>     B2[Tokenize]
+>   end
+>   subgraph WordPiece
+>     C1[Maximize Likelihood]
+>     C2[Introduce ## Continuation]
+>     C3[Tokenize]
+>   end
+>   subgraph Unigram
+>     D1[Train Probabilistic Model]
+>     D2[Vocabulary Pruning]
+>     D3[Tokenize]
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Subword Tokenization Workflow**
+> *Follow the process from text to tokens.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Segment into Subwords]
+>   B --> C[Generate Tokens]
+>   C --> D[Train Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Subword Tokenization Comparison**
+> *Compare coverage and efficiency of methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Coverage]
+>   B[Efficiency]
+>   C[Byte-Pair Encoding (BPE)] -->|Balanced| A
+>   D[WordPiece] -->|High| A
+>   E[Unigram] -->|High| A
+>   F[BPE] -->|Moderate| B
+>   G[WordPiece] -->|Low-Moderate| B
+>   H[Unigram] -->|Moderate-High| B
+> ```
 
 # Subword Tokenization
 

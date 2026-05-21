@@ -19,7 +19,7 @@ subdomains:
   - attention
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pomodoro-technique-synthetic-seed-2026-04-26
@@ -66,8 +66,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Pomodoro Technique Workflow**
+> *Follow the sequence of work intervals and breaks.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Pomodoro (25 min)]
+>   B --> C[Short Break (3-5 min)]
+>   C --> D[Pomodoro (25 min)]
+>   D --> E[Short Break (3-5 min)]
+>   E --> F[Pomodoro (25 min)]
+>   F --> G[Short Break (3-5 min)]
+>   G --> H[Pomodoro (25 min)]
+>   H --> I[Long Break (15-30 min)]
+> ```
+
+
+> [!abstract] **Diagram 2 — Pomodoro Technique Applications**
+> *Identify the different contexts where Pomodoro can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Project Management]
+>   C[Personal Productivity]
+>   A --> |Structure Lessons| J[Pomodoro Technique]
+>   B --> |Break Down Projects| J
+>   C --> |Manage Daily Tasks| J
+> ```
+
+
+> [!abstract] **Diagram 3 — Pomodoro Cycle Breakdown**
+> *Understand the cycle of work and break intervals.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Pomodoro (25 min)]
+>   B --> C[Short Break (3-5 min)]
+>   C --> D[Pomodoro (25 min)]
+>   D --> E[Short Break (3-5 min)]
+>   E --> F[Pomodoro (25 min)]
+>   F --> G[Short Break (3-5 min)]
+>   G --> H[Pomodoro (25 min)]
+>   H --> I[Long Break (15-30 min)]
+> ```
 
 # Pomodoro Technique
 

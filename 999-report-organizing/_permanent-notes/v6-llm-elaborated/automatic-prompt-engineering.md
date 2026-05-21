@@ -19,7 +19,7 @@ subdomains:
   - nlp-research
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - automatic-prompt-engineering-synthetic-seed-2026-05-20
@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Automatic Prompt Engineering Process Flow**
+> *Follow the flow from prompt generation to evaluation and refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Candidates] --> B[Evaluate Prompts]
+>   B --> C[Refine Search Space]
+>   C --> D[Identify High-Performing Prompts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Engineering Approaches Comparison**
+> *Compare the manual and automatic approaches to prompt engineering.*
+>
+> ```mermaid
+> graph TD
+>   A[Manual Prompt Engineering] -->|Human Intuition| B[Iterative Refinement]
+>   C[Automatic Prompt Engineering] -->|Computational Methods| D[Systematic Search]
+> ```
+
+
+> [!abstract] **Diagram 3 — Optimization Techniques in Automatic PE**
+> *Identify the optimization techniques used in automatic prompt engineering.*
+>
+> ```mermaid
+> graph TD
+>   A[Gradient-Free Methods] -->|Navigate Prompt Space|
+>   B[Evolutionary Algorithms] -->|Refine Prompts Iteratively|
+>   C[Optimization Problem]
+>   A --> C
+>   B --> C
+> ```
 
 # Automatic Prompt Engineering
 

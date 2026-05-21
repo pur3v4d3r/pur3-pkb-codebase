@@ -18,7 +18,7 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - analogical-mapping-synthetic-seed-2026-04-25
@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Analogical Mapping Process Flow**
+> *Follow the stages from identifying elements to projecting inferences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Key Elements] --> B[Align Relational Structure]
+>   B --> C[Project Inferences]
+> ```
+
+
+> [!abstract] **Diagram 2 — Structural Alignment Example**
+> *Compare the base and target domains to see preserved relational structure.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Domain] -->|Relational Structure| B(Target Domain)
+>   C[Familiar Elements] --> D[Unfamiliar Elements]
+>   E[Surface Attributes] -.-> F[Higher-Order Relations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Dynamics of Mapping**
+> *Observe the shift from surface to structural alignment over time.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> SurfaceAlignment : Initial Alignment
+>   SurfaceAlignment --> StructuralRefinement : Inhibit Superficial Features
+>   StructuralRefinement --> DeepStructuralMapping : Focus on Relations
+> ```
 
 # Analogical Mapping
 

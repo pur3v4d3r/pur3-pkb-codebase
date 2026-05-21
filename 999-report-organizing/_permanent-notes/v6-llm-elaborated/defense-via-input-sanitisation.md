@@ -1,15 +1,14 @@
 ---
-title: "Defense via Input Sanitisation"
+title: Defense via Input Sanitisation
 aliases:
-  - "Defense via Input Sanitisation"
-  - "input sanitization defense"
-  - "prompt injection prevention"
-  - "input validation for LLMs"
-  - "context isolation"
+  - Defense via Input Sanitisation
+  - input sanitization defense
+  - prompt injection prevention
+  - input validation for LLMs
+  - context isolation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,107 @@ subdomains:
   - software-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "defense-via-input-sanitisation-synthetic-seed-2026-05-21"
+  - defense-via-input-sanitisation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Security"
-
+parent-concept: LLM Security
 related:
-  - "[[Prompt Injection]]"
-  - "[[LLM Firewall Patterns]]"
+  - '[[Prompt Injection]]'
+  - '[[LLM Firewall Patterns]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prompt Injection]]"
+  - '[[Prompt Injection]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[LLM Firewall Patterns]]"
+  - '[[LLM Firewall Patterns]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Input Sanitisation Techniques Overview**
+> *Identify the different sanitisation techniques and their goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Content-Based Filtering]
+>   B[Structured Delimiters]
+>   C[Context Isolation]
+>   D[Input-Output Monitoring]
+>   A -->|Detect known patterns| E[Neutralise Adversarial Instructions]
+>   B -->|Wrap untrusted content| F[Prevent processing as regular input]
+>   C -->|Process suspicious inputs separately| G[Avoid affecting main context]
+>   D -->|Monitor for threats| H[Mitigate potential damage]
+> ```
+
+
+> [!abstract] **Diagram 2 — Input Sanitisation Mechanism Flow**
+> *Follow the flow of input sanitisation from detection to neutralisation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input]
+>   B[Content-Based Filtering]
+>   C[Structured Delimiters]
+>   D[Context Isolation]
+>   E[Input-Output Monitoring]
+>   F[Safe Output]
+>   A -->|Scanned for patterns| B
+>   B -->|Wrapped with delimiters| C
+>   C -->|Processed in isolation| D
+>   D -->|Monitored for threats| E
+>   E -->|Ensures safety| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Input vs Output Filtering**
+> *Compare the proactive and reactive approaches to LLM security.*
+>
+> ```mermaid
+> classDiagram
+>   class InputSanitisation {
+>     +detectAndNeutralise()
+>   }
+>   class OutputFiltering {
+>     +monitorResponses()
+>   }
+>   InputSanitisation -->|Proactive Prevention| NeutraliseAdversarialInstructions
+>   OutputFiltering -->|Reactive Mitigation| DetectPotentialThreats
+> ```
 
 # Defense via Input Sanitisation
 

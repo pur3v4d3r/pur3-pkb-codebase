@@ -1,14 +1,13 @@
 ---
-title: "Prompt Paraphrasing"
+title: Prompt Paraphrasing
 aliases:
-  - "Prompt Paraphrasing"
-  - "instruction paraphrasing"
-  - "prompt rewriting"
-  - "equivalent prompt generation"
+  - Prompt Paraphrasing
+  - instruction paraphrasing
+  - prompt rewriting
+  - equivalent prompt generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,89 @@ subdomains:
   - robustness
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-paraphrasing-synthetic-seed-2026-05-20"
+  - prompt-paraphrasing-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Automatic Prompt Engineering]]"
-  - "[[Gradient-Free Prompt Optimization]]"
-  - "[[Prompt Sensitivity Analysis]]"
+  - '[[Automatic Prompt Engineering]]'
+  - '[[Gradient-Free Prompt Optimization]]'
+  - '[[Prompt Sensitivity Analysis]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Automatic Prompt Engineering]]"
+  - '[[Automatic Prompt Engineering]]'
 contrasts-with:
-  - "[[Gradient-Free Prompt Optimization]]"
+  - '[[Gradient-Free Prompt Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Sensitivity Analysis]]"
+  - '[[Prompt Sensitivity Analysis]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Paraphrasing Process Flow**
+> *Follow the flow from original prompt to model evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Original Prompt] --> B[Generate Variations]
+>   B --> C[Evaluate Responses]
+>   C --> D[Analyze Consistency]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Paraphrasing vs Optimization**
+> *Compare the goals and methods of Prompt Paraphrasing and Optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Paraphrasing] -->|Generate Variations| B[Evaluate Robustness]
+>   C[Prompt Optimization] -->|Find Best Phrasing| D[Maximize Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Sensitivity Analysis Workflow**
+> *Trace the steps from prompt variation to performance assessment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Variations] --> B[Test Responses]
+>   B --> C[Evaluate Differences]
+>   C --> D[Determine Fragility]
+> ```
 
 # Prompt Paraphrasing
 

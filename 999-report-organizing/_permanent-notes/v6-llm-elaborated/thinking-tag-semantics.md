@@ -1,14 +1,13 @@
 ---
-title: "Thinking Tag Semantics"
+title: Thinking Tag Semantics
 aliases:
-  - "Thinking Tag Semantics"
-  - "thinking tags"
-  - "reasoning tags"
-  - "scratchpad tags"
+  - Thinking Tag Semantics
+  - thinking tags
+  - reasoning tags
+  - scratchpad tags
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,102 @@ subdomains:
   - model-design
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "thinking-tag-semantics-synthetic-seed-2026-05-20"
+  - thinking-tag-semantics-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Extended-Thinking-Architecture]]"
-  - "[[Interleaved-Thinking-Mode]]"
+  - '[[Extended-Thinking-Architecture]]'
+  - '[[Interleaved-Thinking-Mode]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Extended-Thinking-Architecture]]"
+  - '[[Extended-Thinking-Architecture]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Interleaved-Thinking-Mode]]"
+  - '[[Interleaved-Thinking-Mode]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Thinking Tag Structure**
+> *Follow the flow from input to output, noting the distinction between thinking and final response.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[<thinking>Internal Reasoning</thinking>]
+>   C[Final Output]
+>   A -->|Prompt| B
+>   B -->|Reasoning Process| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Genuine vs Post-Hoc Rationalization**
+> *Compare the genuine reasoning path with post-hoc rationalization to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B1[Genuine Reasoning]
+>   B2[Post-Hoc Rationalization]
+>   C[Final Output]
+>   A -->|Prompt| B1
+>   A -->|Misleading Prompt| B2
+>   B1 -->|Authentic Process| C
+>   B2 -->|Mimicked Steps| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Ethical Implications Flow**
+> *Trace the ethical implications from transparency to trustworthiness and accountability.*
+>
+> ```mermaid
+> graph TD
+>   A[Transparency]
+>   B[Accountability]
+>   C[Trustworthiness]
+>   D[Misuse]
+>   E[Integrity]
+>   A -->|Ensures| B
+>   B -->|Fosters| C
+>   A -->|Undermines| D
+>   D -->|Compromises| E
+> ```
 
 # Thinking Tag Semantics
 

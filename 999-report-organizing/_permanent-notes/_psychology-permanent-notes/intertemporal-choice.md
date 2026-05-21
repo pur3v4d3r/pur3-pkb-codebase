@@ -18,7 +18,7 @@ subdomains:
   - self-regulation
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - intertemporal-choice-synthetic-seed-2026-04-26
@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Exponential vs Hyperbolic Discounting**
+> *Compare the discount rates over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Exponential]
+>   B[Hyperbolic]
+>   A -->|Constant Rate| C[Future Value]
+>   B -->|Accelerating Rate| D[Future Value]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intertemporal Choice Process Flow**
+> *Follow the decision-making process from immediate to future rewards.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Immediate Reward]
+>   B[Future Reward]
+>   C[Decision Point]
+>   D[Present Bias]
+>   E[Long-term Benefit]
+>   A -->|Evaluate| C
+>   B -->|Evaluate| C
+>   C -->|Choose Immediate| D
+>   C -->|Choose Future| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Brain Regions in Intertemporal Choice**
+> *Identify brain regions involved in immediate vs future rewards.*
+>
+> ```mermaid
+> graph TD
+>   A[VMPFC]
+>   B[DLPFC]
+>   C[Immediate Rewards]
+>   D[Future Benefits]
+>   A -->|Evaluates| C
+>   B -->|Considers| D
+> ```
 
 # Intertemporal Choice
 

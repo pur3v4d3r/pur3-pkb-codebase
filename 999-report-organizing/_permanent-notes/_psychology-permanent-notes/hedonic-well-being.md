@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-well-being
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hedonic-well-being-synthetic-seed-2026-05-01
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hedonic Well-Being Components**
+> *Identify the components of Hedonic Well-Being.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Emotions]
+>   B[Negative Emotions]
+>   C[Life Satisfaction]
+>   A -->|Pleasant Affect| D[Hedonic Well-Being]
+>   B -->|Unpleasant Affect| D
+>   C -->|Global Evaluation| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Hedonic Adaptation Process**
+> *Understand the process of hedonic adaptation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial_Happiness
+>   Initial_Happiness --> Event
+>   Event --> New_Level
+>   New_Level --> Hedonic_Adaptation
+>   Hedonic_Adaptation --> Baseline_Happiness
+> ```
+
+
+> [!abstract] **Diagram 3 — Hedonic vs Eudaimonic Well-Being**
+> *Compare Hedonic and Eudaimonic aspects of well-being.*
+>
+> ```mermaid
+> graph TD
+>   A[Hedonic]
+>   B[Eudaimonic]
+>   A -->|Emotional States| C[Immediate Satisfaction]
+>   B -->|Meaning & Purpose| D[Long-term Fulfillment]
+> ```
 
 # Hedonic Well-Being
 

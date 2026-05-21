@@ -17,7 +17,7 @@ subdomains:
   - quantum-gravity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - big-bounce-synthetic-seed-2026-05-14
@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Big Bounce Cycle Overview**
+> *Follow the cycle from contraction to expansion.*
+>
+> ```mermaid
+> graph TD
+>   A[Contraction] -->|Quantum Fluctuations| B[Bounce]
+>   B --> C[Expansion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Big Bang vs Big Bounce Transition**
+> *Compare the singularity in Big Bang with smooth transition in Big Bounce.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Singularity] -->|Classical GR| B[Expansion]
+>   C[Contraction] -->|Quantum Gravity| D[Bounce]
+>   D --> E[Expansion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Big Bounce Mechanism in LQC**
+> *Trace the mechanism from contraction to bounce and expansion.*
+>
+> ```mermaid
+> graph TD
+>   A[Contraction] -->|Minimum Volume| B[Bounce]
+>   B --> C[Expansion]
+> ```
 
 # Big Bounce
 

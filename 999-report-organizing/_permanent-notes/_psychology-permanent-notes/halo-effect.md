@@ -18,7 +18,7 @@ subdomains:
   - judgment
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - halo-effect-synthetic-seed-2026-04-26
@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Halo Effect Process Flow**
+> *Follow the flow from initial impression to attribute evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Impression] --> B[Evaluative Coherence]
+>   B --> C[Attribute Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Halo Effect in Hiring Process**
+> *Trace the influence of initial impressions on hiring decisions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Interview] --> B[Positive Impression]
+>   B --> C[Evaluation Bias]
+>   C --> D[Hiring Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Halo Effect Mechanism Overview**
+> *Understand how evaluative coherence simplifies complex information.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Information] --> B[Evaluative Coherence]
+>   B --> C[Global Affective Summary]
+> ```
 
 # Halo Effect
 

@@ -1,14 +1,13 @@
 ---
-title: "AI Safety via Debate"
+title: AI Safety via Debate
 aliases:
-  - "AI Safety via Debate"
-  - "safety-via-debate"
-  - "debate protocol for AI safety"
-  - "AI debate protocol"
+  - AI Safety via Debate
+  - safety-via-debate
+  - debate protocol for AI safety
+  - AI debate protocol
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,98 @@ subdomains:
   - theoretical-ai-safety
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "ai-safety-via-debate-synthetic-seed-2026-05-21"
+  - ai-safety-via-debate-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment"
-
+parent-concept: AI Alignment
 related:
-  - "[[Scalable Oversight]]"
-  - "[[Iterated Amplification]]"
+  - '[[Scalable Oversight]]'
+  - '[[Iterated Amplification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Scalable Oversight]]"
+  - '[[Scalable Oversight]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Iterated Amplification]]"
+  - '[[Iterated Amplification]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Debate Protocol Overview**
+> *Follow the flow from AI players to human judge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AI Player 1] --> B[Argument]
+>   C[AI Player 2] --> D[Counter-Argument]
+>   E[Human Judge] <--> B
+>   E <--> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Truthful Behavior**
+> *Trace the path from optimal play to truthful behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Optimal Play] --> B[Truthful Argument]
+>   C[Dishonesty] --> D[Plausible Lie]
+>   E[Human Judge Evaluation] <--> B
+>   E <--> D
+>   F[Equilibrium] --> G[Truth Favoring]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Direct Verification**
+> *Compare the two approaches in evaluating AI claims.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Verification]
+>   B[Evaluate Claims]
+>   C[Human Expertise Required]
+>   D[AISafetyDebate]
+>   E[Evaluate Arguments]
+>   F[Human Judgment Feasible]
+>   A -->|Requires| C
+>   D -->|Transforms to| E
+>   D -->|Feasible for| F
+> ```
 
 # AI Safety via Debate
 

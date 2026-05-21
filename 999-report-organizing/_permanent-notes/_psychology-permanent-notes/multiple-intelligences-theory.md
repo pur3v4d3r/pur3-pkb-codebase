@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - multiple-intelligences-theory-synthetic-seed-2026-04-25
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Multiple Intelligences Overview**
+> *Identify the eight distinct intelligences proposed by Gardner.*
+>
+> ```mermaid
+> graph TD
+>   A["Linguistic"] --> B["Logical-Mathematical"]
+>   C["Spatial"] --> D["Musical"]
+>   E["Bodily-Kinesthetic"] --> F["Interpersonal"]
+>   G["Intrapersonal"] --> H["Naturalist"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intelligence Types Comparison**
+> *Compare the focus areas of each intelligence type.*
+>
+> ```mermaid
+> graph TD
+>   A["Linguistic"] --> |Words| B["Logical-Mathematical"]
+>   C["Spatial"] --> |Images| D["Musical"]
+>   E["Bodily-Kinesthetic"] --> |Body Movements| F["Interpersonal"]
+>   G["Intrapersonal"] --> |Self-Reflection| H["Naturalist"]
+> ```
+
+
+> [!abstract] **Diagram 3 — MIT vs General Factor Theory**
+> *Understand the key distinction between MIT and general factor theory.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant MI as Multiple Intelligences
+>   participant g as General Factor (g)
+>   MI->>MI: Independent intelligences
+>   g->>g: Single underlying intelligence
+> ```
 
 # Multiple Intelligences Theory
 

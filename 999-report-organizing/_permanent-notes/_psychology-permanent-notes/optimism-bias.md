@@ -19,7 +19,7 @@ subdomains:
   - planning
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - optimism-bias-synthetic-seed-2026-05-12
@@ -69,8 +69,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Optimism Bias vs General Optimism**
+> *Compare the self-focused nature of Optimism Bias with general optimism.*
+>
+> ```mermaid
+> graph TD
+>   A[General Optimism]
+>   B[Optimism Bias]
+>   A -->|Overall Positive Outlook|
+>   B -->|Self-Focused Overestimation|
+> ```
+
+
+> [!abstract] **Diagram 2 — Decision-Making Process with Optimism Bias**
+> *Follow the flow from initial expectation to final decision, highlighting bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Expectation]
+>   B[Positive Overestimation]
+>   C[Negative Underestimation]
+>   D[Hasty Decision]
+>   A -->|Forming Expectations|
+>   B -->|Overestimating Benefits|
+>   C -->|Underestimating Risks|
+>   D -->|Making Decisions|
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of Optimism Bias Understanding**
+> *Identify how understanding Optimism Bias can improve various professional approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Healthcare]
+>   C[Financial Planning]
+>   A -->|Tailored Interventions|
+>   B -->|Effective Communication|
+>   C -->|Realistic Assessments|
+> ```
 
 # Optimism Bias
 

@@ -18,7 +18,7 @@ subdomains:
   - history-of-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - isaac-newton-synthetic-seed-2026-05-14
@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Newton's Laws Overview**
+> *Follow the flow from laws to applications.*
+>
+> ```mermaid
+> flowchart LR
+>   A[First Law] --> B[Second Law]
+>   B --> C[Third Law]
+>   D[Gravitation] --> E[Calculus]
+>   F[Engineering] --> G[Astronomy]
+>   H[Principia Mathematica] -->|Laws of Motion| A
+>   H -->|Universal Gravitation| D
+>   H -->|Calculus| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Newtonian Mechanics vs Relativity**
+> *Compare Newton's laws with special and general relativity.*
+>
+> ```mermaid
+> graph TD
+>   A[Newtonian Mechanics] --> B[Special Relativity]
+>   C[General Relativity] --> D[Strong Gravitational Fields]
+>   E[High Velocities] --> F[Relative Measurements]
+>   G[Absolute Space & Time] --> H[Curvature of Spacetime]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Summary**
+> *Identify the applications in engineering and astronomy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Engineer as E
+>   participant Astronomer as A
+>   E->>E: Design structures using Newton's laws
+>   A->>A: Predict planetary orbits with Newtonian mechanics
+> ```
 
 # Isaac Newton
 

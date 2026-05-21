@@ -1,14 +1,13 @@
 ---
-title: "Persona Assignment"
+title: Persona Assignment
 aliases:
-  - "Persona Assignment"
-  - "persona prompting"
-  - "character assignment"
-  - "bot persona"
+  - Persona Assignment
+  - persona prompting
+  - character assignment
+  - bot persona
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,97 @@ subdomains:
   - conversational-ai
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "persona-assignment-synthetic-seed-2026-05-20"
+  - persona-assignment-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Role Prompting]]"
-  - "[[System-Prompt Design]]"
+  - '[[Role Prompting]]'
+  - '[[System-Prompt Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Role Prompting]]"
+  - '[[Role Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[System-Prompt Design]]"
+  - '[[System-Prompt Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Persona Assignment vs Role Prompting**
+> *Compare the coherence of Persona Assignment and Role Prompting over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Role Prompting]
+>   B[Persona Assignment]
+>   A -->|Inconsistent Coherence| C[Task-Specific Behavior]
+>   B -->|Consistent Character| D[Coherent Persona]
+> ```
+
+
+> [!abstract] **Diagram 2 — Application Areas of Persona Assignment**
+> *Identify the key application areas where Persona Assignment is used.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service]
+>   C[System-Prompt Design]
+>   A -->|Educational Assistants| D[Consistent Character]
+>   B -->|Brand Aligned Chatbots| E[Enhanced User Satisfaction]
+>   C -->|Reliable Conversational Agents| F[Predictable Interactions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Persona Assignment Process Flow**
+> *Follow the steps to implement Persona Assignment in AI models.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Attributes]
+>   B[Embed Identity Block]
+>   C[Test Coherence]
+>   D[Deploy Model]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # Persona Assignment
 

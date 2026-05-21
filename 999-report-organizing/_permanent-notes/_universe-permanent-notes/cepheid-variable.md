@@ -18,7 +18,7 @@ subdomains:
   - distance-determination
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cepheid-variable-synthetic-seed-2026-05-14
@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cepheid Period-Luminosity Relation**
+> *Follow the curve to see how period relates to luminosity.*
+>
+> ```mermaid
+> graph TD
+>   A[Short Period] --> B[Luminous]
+>   C[Long Period] --> D[Duller]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cepheid Distance Measurement Process**
+> *Trace the steps from observation to distance calculation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant Cepheid as C
+>   participant Astronomer as A
+>   O->>C: Observe Periodic Brightness Changes
+>   C-->>O: Send Light Signal
+>   O->>A: Report Data to Astronomer
+>   A->>A: Apply Period-Luminosity Relation
+>   A->>A: Calculate Intrinsic Luminosity
+>   A->>A: Determine Distance
+> ```
+
+
+> [!abstract] **Diagram 3 — Cepheid Variables in Cosmic Scale Calibration**
+> *See how Cepheids calibrate other distance indicators.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Galaxies] --> B[Cepheid Variables]
+>   B --> C[Intrinsic Luminosity]
+>   C --> D[Determine Distance]
+>   D --> E[Type Ia Supernovae]
+>   E --> F[Measure Greater Distances]
+> ```
 
 # Cepheid Variable
 

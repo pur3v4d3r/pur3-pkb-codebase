@@ -1,15 +1,14 @@
 ---
-title: "Self-Evaluation Bias"
+title: Self-Evaluation Bias
 aliases:
-  - "Self-Evaluation Bias"
-  - "self-preference bias"
-  - "self-assessment bias"
-  - "LLM self-evaluation bias"
-  - "narcissistic evaluation"
+  - Self-Evaluation Bias
+  - self-preference bias
+  - self-assessment bias
+  - LLM self-evaluation bias
+  - narcissistic evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,91 @@ subdomains:
   - model-graded-evaluation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "self-evaluation-bias-synthetic-seed-2026-05-21"
+  - self-evaluation-bias-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Cognitive Biases]]"
-  - "[[Model-Graded Evaluation]]"
+  - '[[Cognitive Biases]]'
+  - '[[Model-Graded Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Cognitive Biases]]"
+  - '[[Cognitive Biases]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Model-Graded Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Evaluation Bias Process Flow**
+> *Follow the flow from input to evaluation outcome.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Evaluator]
+>   B --> C[Favorable Evaluation]
+>   C --> D[Inflated Scores]
+>   E[Objective Evaluation] --> F[Accurate Scores]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Evaluation Bias vs Confirmation Bias**
+> *Compare the contexts and outcomes of both biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Evaluation Bias] --> B[Evaluating Model Outputs]
+>   C[Confirmation Bias] --> D[Situational Beliefs]
+>   E[Favoring Familiar Styles] --> F[Biased Judgments]
+>   G[Seeking Confirmatory Info] --> H[Biased Interpretations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Self-Evaluation Bias**
+> *Identify the areas where bias can impact evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Over-reliance on Model Content]
+>   C[Model Comparison Studies] --> D[Biased Results Favoring Same Family]
+>   E[HUMAN Validation Needed] --> F[Ensuring True Quality]
+> ```
 
 # Self-Evaluation Bias
 

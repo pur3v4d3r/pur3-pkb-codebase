@@ -17,7 +17,7 @@ subdomains:
   - organisational-learning
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - communities-of-practice-synthetic-seed-2026-04-24
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Community Integration Process**
+> *Follow the path of a newcomer becoming an old-timer.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Newcomer] --> B[Peripheral Participation]
+>   B --> C[Integration]
+>   C --> D[Old-Timer]
+> ```
+
+
+> [!abstract] **Diagram 2 — CoP Mechanisms Overview**
+> *Identify the key mechanisms that facilitate learning in CoPs.*
+>
+> ```mermaid
+> graph TD
+>   A[Mentoring] --> B[Storytelling]
+>   B --> C[Collaborative Problem-Solving]
+>   C --> D[Reflective Conversations]
+> ```
+
+
+> [!abstract] **Diagram 3 — CoP Application Areas**
+> *See how CoPs are applied in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Workplace Learning]
+>   B --> C[Educational Policy]
+> ```
 
 # Communities of Practice
 

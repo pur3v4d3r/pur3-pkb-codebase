@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -68,8 +68,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Relatedness Concept Hierarchy**
+> *Follow the hierarchy from general to specific aspects of relatedness.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Determination Theory]
+>   B[Basic Needs]
+>   C[Autonomy]
+>   D[Competence]
+>   E[Relatedness]
+>   A --> B
+>   B -->|One of Three| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Internalization Process Flow**
+> *Trace the steps from external regulation to internalized behaviors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Regulation]
+>   B[Introjection]
+>   C[Identification]
+>   D[Integration]
+>   A -->|Feeling Supported and Valued| B
+>   B -->|Behavior Internalization| C
+>   C -->|Stable Self-Regulation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Pedagogical Strategies for Relatedness**
+> *Identify strategies that enhance relatedness in educational settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Student-Centered Approaches]
+>   B[Foster Classroom Communities]
+>   C[Take Time to Build Relationships]
+>   D[Enhance Sense of Relatedness]
+>   E[Better Engagement and Motivation]
+>   A -->|Encourages Collaboration| B
+>   B -->|Valued and Heard| C
+>   C -->|Meaningful Connections| D
+>   D -->|Long-Term Engagement| E
+> ```
 
 # Relatedness
 

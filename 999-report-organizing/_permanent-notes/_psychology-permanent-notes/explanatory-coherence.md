@@ -18,7 +18,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - explanatory-coherence-synthetic-seed-2026-04-25
@@ -65,8 +65,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Explanatory Coherence Principles**
+> *Identify the seven principles and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Symmetry]
+>   B[Explanation]
+>   C[Analogy]
+>   D[Data Priority]
+>   E[Contradiction]
+>   F[Competition]
+>   G[Aceeptance]
+>   A -->|supports| B
+>   B -->|draws on| C
+>   C -->|prioritizes| D
+>   D -->|avoids| E
+>   E -->|favors| F
+>   F -->|reflects| G
+> ```
+
+
+> [!abstract] **Diagram 2 — ECHO Model Process Flow**
+> *Follow the flow from propositions to coherence score.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Proposition Nodes]
+>   B[Weighted Links]
+>   C[Coherence Score]
+>   A -->|representing relationships| B
+>   B -->|computing connections| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Scientific Research**
+> *Trace the evaluation process from hypotheses to best explanation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Hypothesis1 as H1
+>   participant Hypothesis2 as H2
+>   participant EstablishedTheory as ET
+>   participant EmpiricalData as ED
+>   participant BestExplanation as BE
+>   H1->>ET: Coherence Check
+>   H1->>ED: Data Fit
+>   H2->>ET: Coherence Check
+>   H2->>ED: Data Fit
+>   BE->>H1:H1 wins if more coherent and fits data better
+>   BE->>H2:H2 wins if more coherent and fits data better
+> ```
 
 # Explanatory Coherence
 

@@ -19,7 +19,7 @@ subdomains:
   - mathematics
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gsm8k-benchmark-synthetic-seed-2026-05-20
@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — GSM8K Problem Structure**
+> *Follow the flow from problem input to solution output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem Input] --> B[Multi-Step Reasoning]
+>   B --> C[Solution Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — GSM8K Benchmark Challenges**
+> *Identify the main challenges faced by GSM8K.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Overfitting] --> B[Contamination]
+>   C[Near-Perfect Scores] --> D[Misleading Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning vs Prediction**
+> *Compare multi-step reasoning with direct answer prediction.*
+>
+> ```mermaid
+> graph TD
+>   A[Multi-Step Reasoning] --> B[Genuine Problem-Solving]
+>   C[Predict Answer] --> D[Superficial Knowledge]
+> ```
 
 # GSM8K Benchmark
 

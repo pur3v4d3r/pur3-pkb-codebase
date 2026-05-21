@@ -1,14 +1,13 @@
 ---
-title: "Evals as a Product"
+title: Evals as a Product
 aliases:
-  - "Evals as a Product"
-  - "eval framework design"
-  - "evaluation infrastructure"
-  - "eval pipelines as product"
+  - Evals as a Product
+  - eval framework design
+  - evaluation infrastructure
+  - eval pipelines as product
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,117 @@ subdomains:
   - software-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "evals-as-a-product-synthetic-seed-2026-05-21"
+  - evals-as-a-product-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[LLM Evaluation Benchmarks]]"
-  - "[[Model-Graded Evaluation]]"
+  - '[[LLM Evaluation Benchmarks]]'
+  - '[[Model-Graded Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LLM Evaluation Benchmarks]]"
+  - '[[LLM Evaluation Benchmarks]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Model-Graded Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Evals as a Product Workflow**
+> *Follow the flow from development to deployment, highlighting continuous evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Development]
+>   B[Evaluation Frameworks]
+>   C[Continuous Evaluation]
+>   D[Feedback Loop]
+>   E[Model Improvement]
+>   F[Deployment]
+>   G[Post-Deployment Monitoring]
+>   A -->|Develop Model| B
+>   B -->|Maintain and Improve| C
+>   C -->|Collect Data| D
+>   D -->|Improve Models| E
+>   E -->|Prepare for Deployment| F
+>   F -->|Monitor Performance| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Evals vs Ad-hoc Evaluations**
+> *Compare the continuous and comprehensive nature of evals as a product with one-time ad-hoc evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Evals as Product]
+>   B[Ad-hoc Evaluations]
+>   C[Dedicated Resources]
+>   D[Comprehensive Coverage]
+>   E[One-time Assessment]
+>   F[Limited Scope]
+>   A -->|Dedicated Resources| C
+>   A -->|Comprehensive Coverage| D
+>   B -->|One-time Assessment| E
+>   B -->|Limited Scope| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation Feedback Loop**
+> *Trace the feedback loop from evaluation to model improvement and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Model]
+>   B[Evaluation Suite]
+>   C[Feedback]
+>   D[Improvement]
+>   E[Test Cases]
+>   F[Data Collection]
+>   G[Analysis]
+>   H[Iteration]
+>   A -->|Run Test Cases| B
+>   B -->|Collect Data| F
+>   F -->|Analyze Results| G
+>   G -->|Generate Feedback| C
+>   C -->|Improve Model| D
+>   D -->|Iterate on Tests| E
+> ```
 
 # Evals as a Product
 

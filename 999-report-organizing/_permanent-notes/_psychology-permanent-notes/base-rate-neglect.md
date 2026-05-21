@@ -19,7 +19,7 @@ subdomains:
   - heuristics-and-biases
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - base-rate-neglect-synthetic-seed-2026-04-25
@@ -68,8 +68,79 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Base-Rate Neglect Process Flow**
+> *Follow the flow from base rate to specific case information.*
+>
+> ```mermaid
+> graph TD
+>   A[Receive Base Rate]
+>   B[Receive Specific Case Info]
+>   C{Use Base Rate}
+>   D{Use Specific Case Info}
+>   E[Underweight Base Rate]
+>   F[Over-rely on Specific Case]
+>   G[Error in Judgment]
+>   A -->|Base Rate| C
+>   B -->|Specific Case Info| D
+>   C -->|No| E
+>   D -->|Yes| F
+>   E --> G
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Representativeness Heuristic vs Base-Rate Neglect**
+> *Compare the two biases in their decision-making processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Rate]
+>   B{Use}
+>   C[Specific Case Info]
+>   D{Use}
+>   E[Error: Underweighting Base Rate]
+>   F[Representativeness Heuristic]
+>   G[Prototype/Stereotype]
+>   H{Match}
+>   I[Error: Over-relying on Specifics]
+>   A -->|Base-Rate Neglect| B
+>   C -->|Base-Rate Neglect| D
+>   B -->|No| E
+>   D -->|Yes| E
+>   F -->|Representativeness Heuristic| H
+>   G -->|Prototype/Stereotype| H
+>   H -->|Match| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Base-Rate Neglect in Decision-Making**
+> *Identify the steps leading to judgment errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Receive Information]
+>   B{Focus on Specifics}
+>   C[Underweight Base Rate]
+>   D[Error in Judgment]
+>   E[Bayesian Normativity]
+>   F[Correct Posterior Probability]
+>   G[Spontaneous Deployment Failure]
+>   A -->|Base-Rate Neglect| B
+>   B -->|Yes| C
+>   C --> D
+>   A -->|Bayesian Reasoning| E
+>   E --> F
+>   F --> G
+> ```
 
 # Base-Rate Neglect
 

@@ -18,7 +18,7 @@ subdomains:
   - ethics-of-belief
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemic-trust-synthetic-seed-2026-05-12
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemic Trust Process Flow**
+> *Follow the steps from initial testimony to belief formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Testimony] --> B[Evaluation]
+>   B --> C[Assessment of Reliability and Sincerity]
+>   C --> D[Calibrated Trust Allocation]
+>   D --> E[Belief Formation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Trust vs Other Concepts**
+> *Compare Epistemic Trust with blind faith, uncritical acceptance, and skepticism.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Trust] -->|Evaluative Component| B[Calibrated]
+>   C[Blind Faith/Uncritical Acceptance] -->|No Evaluation| D[Unwarranted]
+>   E[Skepticism] -->|Rejects Testimonial Knowledge| F[Blanket Rejection]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Trust**
+> *Compare reflective and reactive approaches to evaluating testimonial sources.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Considers Expertise & Reliability| B[Critical Assessment]
+>   C[Reactive Thinking] -->|Quick Judgments| D[Biases & Misjudgments]
+> ```
 
 # Epistemic Trust
 

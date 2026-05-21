@@ -18,7 +18,7 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - heuristics-and-biases-synthetic-seed-2026-04-24
@@ -65,8 +65,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Heuristics and Biases Overview**
+> *Identify the main heuristics and their biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Representativeness]
+>   B[Availability]
+>   C[Anchoring]
+>   A -->|Biased Judgment| D[Bias1]
+>   B -->|Overestimation| E[Bias2]
+>   C -->|Insufficient Adjustment| F[Bias3]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dual-Process Theory in Decision-Making**
+> *Understand the relationship between System 1 and System 2.*
+>
+> ```mermaid
+> graph TD
+>   A[System 1]
+>   B[System 2]
+>   A -->|Intuitive| G[Heuristics]
+>   B -->|Analytical| H[Rational Thinking]
+>   G -->|Prone to Biases| I[Biased Decisions]
+>   H -->|Accurate Judgments| J[Unbiased Decisions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Heuristics in Instructional Design**
+> *See how heuristics affect instructional design.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design]
+>   B[Anchoring Bias]
+>   C[Availability Heuristic]
+>   D[Balanced Information]
+>   E[Risk Management Strategies]
+>   A -->|Avoiding Anchoring| B
+>   A -->|Balancing Availability| C
+>   B -->|Mitigation Strategy| D
+>   C -->|Mitigation Strategy| E
+> ```
 
 # Heuristics and Biases
 

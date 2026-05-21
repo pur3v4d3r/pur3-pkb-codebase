@@ -18,7 +18,7 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-bias-synthetic-seed-2026-04-24
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cognitive Bias Heuristics Overview**
+> *Identify the heuristics and their typical biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Type-1 Processing]
+>   B[Availability Heuristic] -->|Overestimates likelihood| A
+>   C[Representativeness Heuristic] -->|Judges based on similarity| A
+>   D[Anchoring Heuristic] -->|Relies heavily on initial info| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Bias Mechanism Flow**
+> *Follow the flow from heuristics to biases.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Type-1 Processing]
+>   B[Heuristic Operation] -->|Ecological Validity Low| C[Bias Arises]
+>   C --> D[Systematic Errors]
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Bias Impact on Decision-Making**
+> *Trace the impact from bias to decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Heuristic Operation]
+>   B[Bias Arises] -->|Skewed Judgments| C[Decision-Making Errors]
+>   D[Cognitive Forcing Functions] -->|Mitigates Bias| C
+> ```
 
 # Cognitive Bias
 

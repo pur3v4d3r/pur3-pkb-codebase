@@ -18,7 +18,7 @@ subdomains:
   - organizational-learning
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - knowledge-decay-synthetic-seed-2026-04-25
@@ -65,8 +65,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Knowledge Decay Mechanisms**
+> *Identify the key mechanisms of knowledge decay.*
+>
+> ```mermaid
+> graph TD
+>   A[Fact Obsolescence]
+>   B[Link Breakage]
+>   C[Context Erosion]
+>   D[Language Drift]
+>   A -->|Example: New research contradicts old findings|
+>   B -->|Example: Websites move or disappear|
+>   C -->|Example: Audience needs change|
+>   D -->|Example: Language conventions evolve|
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Decay Process Flow**
+> *Follow the flow of how knowledge decays over time.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recorded Knowledge]
+>   B[Facts Change]
+>   C[Links Move/Disappear]
+>   D[Audience Needs Shift]
+>   E[Language Evolves]
+>   F[Decayed Knowledge]
+>   A -->|Over Time| B
+>   A -->|Over Time| C
+>   A -->|Over Time| D
+>   A -->|Over Time| E
+>   B --> F
+>   C --> F
+>   D --> F
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Knowledge Decay**
+> *See the various areas affected by knowledge decay.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Organizational Memory]
+>   C[Personal Note-Taking]
+>   D[Spaced Retrieval in MOOCs]
+>   A -->|Outdated Curricula|
+>   B -->|Eroded Collective Memory|
+>   C -->|Cluttered Archive|
+>   D -->|Quick Forgetting and Decay|
+> ```
 
 # Knowledge Decay
 

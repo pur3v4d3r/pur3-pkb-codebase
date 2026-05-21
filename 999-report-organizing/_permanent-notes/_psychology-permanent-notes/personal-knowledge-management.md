@@ -21,7 +21,7 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PKM Process Flowchart**
+> *Follow the flow from capturing to applying knowledge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture] --> B[Organize]
+>   B --> C[Integrate]
+>   C --> D[Retreive]
+>   D --> E[Apply]
+> ```
+
+
+> [!abstract] **Diagram 2 — PKM Mechanisms Overview**
+> *Identify the key mechanisms used in PKM.*
+>
+> ```mermaid
+> graph TD
+>   A[Spaced Repetition] --> B[Worked Examples]
+>   C[Integration Techniques] --> D[Reflective Thinking]
+> ```
+
+
+> [!abstract] **Diagram 3 — PKM Tools and Strategies**
+> *See how tools support cognitive strategies in PKM.*
+>
+> ```mermaid
+> graph TD
+>   A[Note-taking] --> B[Digital Vaults]
+>   C[Annotation Systems] --> D[Associative Networks]
+> ```
 
 # Personal Knowledge Management
 

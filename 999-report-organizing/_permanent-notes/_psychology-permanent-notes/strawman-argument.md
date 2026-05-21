@@ -18,7 +18,7 @@ subdomains:
   - dialectics
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - strawman-argument-synthetic-seed-2026-05-01
@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Strawman Argument Process Flow**
+> *Follow the steps to understand how a Strawman Argument is constructed.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Opponent's Position] --> B[Selective Quoting]
+>   B --> C[Misrepresentation]
+>   C --> D[Refutation of Misrepresentation]
+>   D --> E[Victory Claimed]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strawman Argument vs Reflective Thinking**
+> *Compare Strawman Arguments with reflective thinking to see the contrast.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Consider Nuances]
+>   C[Reactive Thinking] --> D[Misrepresent Argument]
+>   E[Strawman Argument] --> F[Victory Claimed]
+> ```
+
+
+> [!abstract] **Diagram 3 — Misrepresentation in Strawman Arguments**
+> *Identify the key steps where misrepresentation occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Original Position] --> B[Misrepresent]
+>   B --> C[Weaken Argument]
+>   C --> D[Easily Refute]
+>   D --> E[Victory Claimed]
+> ```
 
 # Strawman Argument
 

@@ -17,7 +17,7 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - declarative-memory-synthetic-seed-2026-04-24
@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Declarative Memory Subtypes**
+> *Identify the two main subtypes of declarative memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic]
+>   B[Episodic]
+>   C[Declarative Memory]
+>   A -->|Subtype| C
+>   B -->|Subtype| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Encoding Process**
+> *Follow the flow of memory encoding from hippocampus to neocortex.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hippocampus]
+>   B[Neocortex]
+>   C[Encoding]
+>   D[Integration]
+>   E[Consolidation]
+>   A -->|C| D
+>   D -->|E| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Types Interaction**
+> *See how semantic and episodic memories interact in decision-making.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Semantic
+>   participant Episodic
+>   participant DecisionMaker
+>   Semantic->>DecisionMaker: Past Experiences
+>   Episodic->>DecisionMaker: Factual Knowledge
+>   DecisionMaker-->>Semantic: Recall Similar Situations
+>   DecisionMaker-->>Episodic: Apply Relevant Facts
+> ```
 
 # Declarative Memory
 

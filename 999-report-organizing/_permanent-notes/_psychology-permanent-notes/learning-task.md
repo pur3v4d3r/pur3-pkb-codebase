@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -69,8 +69,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Learning Task Classes Overview**
+> *Follow the progression from worked examples to conventional tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Worked Examples] --> B[Completion Tasks]
+>   B --> C[Conventional Tasks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Construction and Automation Process**
+> *Trace the dual-mechanism process within each task class.*
+>
+> ```mermaid
+> graph TD
+>   A[Non-Recurrent Skills] --> B[Flexible Mental Models]
+>   C[Recurrent Skills] --> D[Automatic Procedural Knowledge]
+>   B & D --> E[Integrated Task Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Task vs Traditional Methods**
+> *Compare the holistic approach of learning tasks with isolated skill practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Tasks] --> B[Integrate Multiple Skills]
+>   C[Traditional Methods] --> D[Isolate Skill Components]
+> ```
 
 # Learning Task
 

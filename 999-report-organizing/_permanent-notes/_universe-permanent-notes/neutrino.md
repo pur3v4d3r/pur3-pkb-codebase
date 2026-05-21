@@ -17,7 +17,7 @@ subdomains:
   - astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - neutrino-synthetic-seed-2026-05-14
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Neutrino Interaction Mechanism**
+> *Follow the flow from production to detection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Production] --> B[Nuclear Reactions]
+>   B --> C[Weak Decays]
+>   C --> D[Travel Through Space]
+>   D --> E[Interaction with Matter]
+>   E --> F[Detection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Neutrino Flavor Oscillation**
+> *Observe the oscillation between electron, muon, and tau flavors.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Electron
+>   Electron --> Muon : Probability Amplitude
+>   Muon --> Tau : Probability Amplitude
+>   Tau --> Electron : Probability Amplitude
+> ```
+
+
+> [!abstract] **Diagram 3 — Neutrino Detection Process**
+> *Trace the steps from neutrino interaction to signal detection.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Neutrino as N
+>   participant Matter as M
+>   participant Detector as D
+>   N->>M: Interaction
+>   M->>D: Signal Generation
+>   D-->>Observer: Detection
+> ```
 
 # Neutrino
 

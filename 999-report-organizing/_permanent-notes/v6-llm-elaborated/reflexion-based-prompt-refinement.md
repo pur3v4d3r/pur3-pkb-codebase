@@ -1,13 +1,12 @@
 ---
-title: "Reflexion-Based Prompt Refinement"
+title: Reflexion-Based Prompt Refinement
 aliases:
-  - "Reflexion-Based Prompt Refinement"
-  - "reflexion prompt loop"
-  - "iterative prompt refinement via reflection"
+  - Reflexion-Based Prompt Refinement
+  - reflexion prompt loop
+  - iterative prompt refinement via reflection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,110 @@ subdomains:
   - iterative-refinement
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reflexion-based-prompt-refinement-synthetic-seed-2026-05-20"
+  - reflexion-based-prompt-refinement-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Gradient-Based Optimization]]"
-  - "[[Chain-of-Verification]]"
+  - '[[Gradient-Based Optimization]]'
+  - '[[Chain-of-Verification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Gradient-Based Optimization]]"
+  - '[[Gradient-Based Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chain-of-Verification]]"
+  - '[[Chain-of-Verification]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Refinement Cycle Overview**
+> *Follow the cycle from initial failure to refined prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Failure]
+>   B[Reflection Phase]
+>   C[Identify Shortcomings]
+>   D[Generate Improved Prompt]
+>   E[Refined Prompt]
+>   A -->|Trigger Reflection| B
+>   B -->|Analyze Response| C
+>   C -->|Pinpoint Issues| D
+>   D -->|Linguistic Reasoning| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism Flowchart**
+> *Trace the steps from failure to refined prompt through linguistic reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt]
+>   B[Model Response]
+>   C[Evaluation Failure]
+>   D[Reflection Analysis]
+>   E[Linguistic Reasoning]
+>   F[Refined Prompt]
+>   A -->|Generate Response| B
+>   B -->|Evaluate Response| C
+>   C -->|Identify Issues| D
+>   D -->|Analyze Context| E
+>   E -->|Improve Prompt| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Numerical Optimization**
+> *Compare Reflexion-Based refinement with numerical optimization methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflexion-Based]
+>   B[Linguistic Reasoning]
+>   C[Targeted Improvements]
+>   D[Numerical Optimization]
+>   E[Mathematical Gradients]
+>   F[Opaque Adjustments]
+>   A -->|Leverages Reflection| B
+>   B -->|Identify Shortcomings| C
+>   D -->|Uses Gradients| E
+>   E -->|Adjust Numerically| F
+> ```
 
 # Reflexion-Based Prompt Refinement
 

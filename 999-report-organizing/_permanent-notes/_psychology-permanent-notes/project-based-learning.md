@@ -17,7 +17,7 @@ subdomains:
   - instructional-method
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - project-based-learning-synthetic-seed-2026-04-25
@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PjBL Learning Sequence**
+> *Follow the flow from project initiation to completion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initiation] --> B[Planning]
+>   B --> C[Execution]
+>   C --> D[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — PjBL Skill Integration**
+> *See how disciplinary content and skills are integrated through feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Disciplinary Content] --> B[Skills]
+>   B --> C[Feedback]
+>   C --> D[Integration]
+> ```
+
+
+> [!abstract] **Diagram 3 — PjBL Assessment Criteria**
+> *Identify the key criteria used to assess project quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Quality] --> B[Critique]
+>   C[Feedback] --> D[Revision]
+>   E[Standards] --> F[Completion]
+> ```
 
 # Project-Based Learning
 

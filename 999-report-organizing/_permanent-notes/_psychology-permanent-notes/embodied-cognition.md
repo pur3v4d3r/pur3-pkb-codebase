@@ -18,7 +18,7 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - embodied-cognition-synthetic-seed-2026-04-24
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Embodied Cognition Process Flow**
+> *Follow the flow from perception to action simulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception] --> B[Motor Cortex Activation]
+>   B --> C[Action Simulation]
+>   C --> D[Cognitive Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strong vs Weak Grounding Concepts**
+> *Compare strongly and weakly grounded concepts in Embodied Cognition.*
+>
+> ```mermaid
+> graph TD
+>   A[Strongly Grounded] -->|Motor Cortex Activation| B[Understanding Actions]
+>   C[Weakly Grounded] -->|Logical/Mathematical Ideas| D[Better Retention with Gestures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Embodied Learning Mechanism**
+> *Trace the interaction between gestures and learning outcomes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   participant Concept as C
+>   S->>T: Uses Gestures
+>   T->>S: Explains Concepts
+>   S->>C: Better Understanding
+> ```
 
 # Embodied Cognition
 

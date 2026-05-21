@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — High Performance Cycle Overview**
+> *Follow the flow from goal setting to performance evaluation and reward.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting] --> B[Attention]
+>   B --> C[Effort]
+>   C --> D[Persistence]
+>   D --> E[Means Search]
+>   E --> F[Performance Evaluation]
+>   F --> G[Rewards]
+>   G --> H[Commitment Reinforcement]
+>   H --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms in Action**
+> *Identify the four mechanisms activated during goal pursuit.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention] --> B[Effort]
+>   B --> C[Persistence]
+>   C --> D[Means Search]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cycle Feedback Loop**
+> *Trace the feedback loop from performance evaluation to commitment reinforcement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Performance Evaluation] --> B[Rewards]
+>   B --> C[Commitment Reinforcement]
+>   C --> D[Goal Setting]
+> ```
 
 # High Performance Cycle
 

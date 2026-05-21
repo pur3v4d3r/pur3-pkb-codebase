@@ -17,7 +17,7 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - constraint-relaxation-synthetic-seed-2026-04-25
@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Constraint Relaxation Process Flow**
+> *Follow the steps from identifying to relaxing constraints.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Implicit Constraint] --> B[Recognize Restriction]
+>   B --> C[Systematically Relax]
+>   C --> D[Explore New Possibilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constraint Relaxation in Problem Solving**
+> *See how Constraint Relaxation fits into the broader problem-solving process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem Representation] --> B[Identify Constraints]
+>   B --> C[Relax Constraints]
+>   C --> D[Generate New Solutions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Constraint Relaxation Applications**
+> *Notice the different contexts where Constraint Relaxation can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Cognitive Training]
+>   B --> C[Spaced Retrieval in MOOCs]
+> ```
 
 # Constraint Relaxation
 

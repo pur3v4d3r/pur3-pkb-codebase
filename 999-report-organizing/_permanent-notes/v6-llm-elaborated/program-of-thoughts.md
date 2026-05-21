@@ -1,13 +1,12 @@
 ---
-title: "Program of Thoughts"
+title: Program of Thoughts
 aliases:
-  - "Program of Thoughts"
-  - "PoT"
-  - "program-of-thought prompting"
+  - Program of Thoughts
+  - PoT
+  - program-of-thought prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,89 @@ subdomains:
   - reasoning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "program-of-thoughts-synthetic-seed-2026-05-20"
+  - program-of-thoughts-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Function Calling]]"
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Tool Use in LLMs]]"
+  - '[[Function Calling]]'
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Tool Use in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Function Calling]]"
+  - '[[Function Calling]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Tool Use in LLMs]]"
+  - '[[Tool Use in LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Program of Thoughts Process Flow**
+> *Follow the logical steps from reasoning to computation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reasoning] --> B[Express as Code]
+>   B --> C[External Interpreter]
+>   C --> D[Numerical Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Program of Thoughts vs Natural-Language Reasoning**
+> *Compare the offloading process in PoT with natural-language reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[PoT] --> B[Numerical Computation Offloaded]
+>   C[Natural-Language Reasoning] --> D[Computation within NL]
+> ```
+
+
+> [!abstract] **Diagram 3 — Program of Thoughts Applications**
+> *Identify the areas where PoT can be applied effectively.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Accurate Problem Solving]
+>   C[Financial Analysis] --> D[Precision in Calculations]
+>   E[Limits] --> F[Natural-Language Tasks]
+> ```
 
 # Program of Thoughts
 

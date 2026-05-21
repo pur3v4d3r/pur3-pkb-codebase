@@ -17,7 +17,7 @@ subdomains:
   - deductive-reasoning
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - modus-tollens-synthetic-seed-2026-04-26
@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Modus Tollens Structure**
+> *Follow the logical flow from premises to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[If P then Q] --> B[not Q]
+>   B --> C[not P]
+> ```
+
+
+> [!abstract] **Diagram 2 — Modus Tollens in Science**
+> *Trace the hypothesis testing process using MT.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hypothesis] --> B[Prediction]
+>   B --> C[Observation]
+>   C --> D[not Q]
+>   D --> E[Reject Hypothesis]
+> ```
+
+
+> [!abstract] **Diagram 3 — Modus Tollens Applications**
+> *Identify the logical structure in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Interactive Lessons]
+>   B --> C[No Improvement]
+>   C --> D[Hypothesis Incorrect]
+>   E[Medical Research] --> F[Treatment Effectiveness]
+>   F --> G[No Improvement]
+>   G --> H[Hypothesis Incorrect]
+>   I[MOOCs] --> J[Spaced Retrieval]
+>   J --> K[No Improvement]
+>   K --> L[Hypothesis Incorrect]
+> ```
 
 # Modus Tollens
 

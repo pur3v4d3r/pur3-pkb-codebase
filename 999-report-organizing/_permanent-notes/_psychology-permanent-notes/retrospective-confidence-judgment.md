@@ -18,7 +18,7 @@ subdomains:
   - decision-making
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - retrospective-confidence-judgment-synthetic-seed-2026-04-25
@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RCJ Process Flowchart**
+> *Follow the steps from answer recall to confidence rating.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recall Answer] --> B[Evaluate Correctness]
+>   B --> C[Identify Post-Hoc Cues]
+>   C --> D[Ratings Based on Cues]
+> ```
+
+
+> [!abstract] **Diagram 2 — RCJ Factors Influence Diagram**
+> *Trace how different factors affect confidence judgments.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Difficulty] --> B[Confidence]
+>   C[Prior Knowledge] --> B
+>   D[Metacognitive Skills] --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — RCJ Application Areas**
+> *Identify the contexts where RCJ is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Application]
+>   C[Memory Research] --> B
+>   D[Decision-Making] --> B
+> ```
 
 # Retrospective Confidence Judgment
 

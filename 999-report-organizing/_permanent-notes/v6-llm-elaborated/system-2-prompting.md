@@ -1,14 +1,13 @@
 ---
-title: "System 2 Prompting"
+title: System 2 Prompting
 aliases:
-  - "System 2 Prompting"
-  - "System-2 prompting"
-  - "deliberate reasoning prompting"
-  - "slow-thinking prompting"
+  - System 2 Prompting
+  - System-2 prompting
+  - deliberate reasoning prompting
+  - slow-thinking prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,111 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "system-2-prompting-synthetic-seed-2026-05-20"
+  - system-2-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Extended Thinking Architecture]]"
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Metacognitive Prompting]]"
+  - '[[Extended Thinking Architecture]]'
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Metacognitive Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Extended Thinking Architecture]]"
+  - '[[Extended Thinking Architecture]]'
 see-also:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Metacognitive Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Metacognitive Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — System 2 Prompting Process Flow**
+> *Follow the steps from prompt design to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Design Complex Task]
+>   B[Break Down into Steps]
+>   C[Prompt for Verification]
+>   D[Generate Deliberate Response]
+>   E[Evaluate Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — System 1 vs System 2 Thinking in LLMs**
+> *Compare fast intuitive responses with slower deliberate reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Fast Intuitive Response]
+>   B[Slow Deliberate Reasoning]
+>   C[Intuitive Generation Bias]
+>   D[First-Response Bias Mitigation]
+>   E[Quick but Potentially Flawed]
+>   F[Avoids Oversimplification and Errors]
+>   A -->|System 1| C
+>   B -->|System 2| D
+>   C --> E
+>   D --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of System 2 Prompting**
+> *Identify areas where multi-step reasoning is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Document Analysis]
+>   C[Break Down Complex Problems]
+>   D[Prompt for Detailed Breakdowns]
+>   E[Enhance Understanding and Accuracy]
+>   F[Mitigate Oversights]
+>   A -->|Multi-Step Reasoning Tasks| C
+>   B -->|Comprehensive Evaluation| D
+>   C --> E
+>   D --> F
+> ```
 
 # System 2 Prompting
 

@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-psychology
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - behaviorism-synthetic-seed-2026-04-25
@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Behaviorism Core Tenets**
+> *Follow the flow from stimuli to responses and reinforcement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stimuli] --> B(Response)
+>   C[Reinforcement/Punishment] --> D(Behavior Modification)
+> ```
+
+
+> [!abstract] **Diagram 2 — Classical Conditioning Process**
+> *Trace the steps from neutral stimulus to conditioned response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Neutral Stimulus] --> B(Unconditioned Stimulus)
+>   C[Unconditioned Response] --> D(Conditioned Response)
+> ```
+
+
+> [!abstract] **Diagram 3 — Operant Conditioning Mechanisms**
+> *Identify the effects of reinforcement and punishment on behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Reinforcement] --> B(Increase Behavior)
+>   C[Negative Reinforcement] --> D(Decrease Unwanted Stimulus)
+>   E[Punishment] --> F(Decrease Behavior)
+> ```
 
 # Behaviorism
 

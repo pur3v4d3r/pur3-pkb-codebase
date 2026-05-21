@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -69,8 +69,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Four-by-Four Matrix Structure**
+> *Identify the four phases and areas of self-regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought] -->|Cognition| B1
+>   A -->|Motivation/Affect| C1
+>   A -->|Behavior| D1
+>   A -->|Context| E1
+>   F[Monitoring] -->|Cognition| B2
+>   F -->|Motivation/Affect| C2
+>   F -->|Behavior| D2
+>   F -->|Context| E2
+>   G[Control] -->|Cognition| B3
+>   G -->|Motivation/Affect| C3
+>   G -->|Behavior| D3
+>   G -->|Context| E3
+>   H[Reaction-and-Reflection] -->|Cognition| B4
+>   H -->|Motivation/Affect| C4
+>   H -->|Behavior| D4
+>   H -->|Context| E4
+> ```
+
+
+> [!abstract] **Diagram 2 — Phase-Area Interaction Model**
+> *Observe how phases interact with areas in a continuous cycle.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Forethought
+>   Forethought --> Monitoring : Cognition, Motivation/Affect, Behavior, Context
+>   Monitoring --> Control : Cognition, Motivation/Affect, Behavior, Context
+>   Control --> Reaction-and-Reflection : Cognition, Motivation/Affect, Behavior, Context
+>   Reaction-and-Reflection --> Forethought : Cognition, Motivation/Affect, Behavior, Context
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Application Examples**
+> *See how the matrix applies to different scenarios.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Student as S
+>   participant Professional as P
+>   participant Therapist as T
+>   E->>S: Forethought-Cognition (Planning)
+>   S-->>E: Monitoring-Motivation (Tracking Progress)
+>   E->>S: Control-Behavior (Effective Study Techniques)
+>   S-->>E: Reaction-Reflection (Reviewing What Worked)
+>   P->>P: Forethought-Cognition (Select Focus Areas)
+>   P-->>P: Monitoring-Motivation (Setting Goals, Tracking Progress)
+>   T->>T: Forethought-Context (Planning Daily Activities)
+>   T-->>T: Monitoring-Behavior (Noticing Physiological Signals)
+> ```
 
 # Four-by-Four Matrix
 

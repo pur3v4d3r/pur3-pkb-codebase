@@ -1,15 +1,14 @@
 ---
-title: "API-Calling Agents"
+title: API-Calling Agents
 aliases:
-  - "API-Calling Agents"
-  - "function-calling agents"
-  - "API-integrated agents"
-  - "LLM function calling"
-  - "OpenAI function calling"
+  - API-Calling Agents
+  - function-calling agents
+  - API-integrated agents
+  - LLM function calling
+  - OpenAI function calling
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,83 @@ subdomains:
   - automation
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "api-calling-agents-synthetic-seed-2026-05-21"
+  - api-calling-agents-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Agents"
-
+parent-concept: LLM Agents
 related:
-  - "[[LLM Agents]]"
-  - "[[Function Calling]]"
+  - '[[LLM Agents]]'
+  - '[[Function Calling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LLM Agents]]"
+  - '[[LLM Agents]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Function Calling]]"
+  - '[[Function Calling]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — API-Calling Process Flow**
+> *Follow the sequence from decision-making to API execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Context Evaluation] --> B[Function Selection]
+>   B --> C[Generate Function Call]
+>   C --> D[Execute API Call]
+>   D --> E[Integrate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — API-Calling Agent Mechanism**
+> *Trace the interaction between LLM and external APIs.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant API_Calling_Agent as A
+>   participant External_API as E
+>   U->>A: Request Action
+>   A->>E: Function Call
+>   E-->>A: Response
+>   A->>U: Processed Output
+> ```
 
 # API-Calling Agents
 

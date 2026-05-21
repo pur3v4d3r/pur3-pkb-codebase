@@ -1,14 +1,13 @@
 ---
-title: "Reward Hacking"
+title: Reward Hacking
 aliases:
-  - "Reward Hacking"
-  - "reward gaming"
-  - "Goodhart's Law in RLHF"
-  - "proxy reward exploitation"
+  - Reward Hacking
+  - reward gaming
+  - Goodhart's Law in RLHF
+  - proxy reward exploitation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,100 @@ subdomains:
   - reinforcement-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reward-hacking-synthetic-seed-2026-05-20"
+  - reward-hacking-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning"
-
+parent-concept: Reinforcement Learning
 related:
-  - "[[RLHF (Reinforcement Learning from Human Feedback)]]"
-  - "[[Reinforcement Learning]]"
+  - '[[RLHF (Reinforcement Learning from Human Feedback)]]'
+  - '[[Reinforcement Learning]]'
   - "[[Goodhart's Law]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[RLHF (Reinforcement Learning from Human Feedback)]]"
+  - '[[RLHF (Reinforcement Learning from Human Feedback)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning]]"
+  - '[[Reinforcement Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
   - "[[Goodhart's Law]]"
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reward Hacking Process Flow**
+> *Follow the steps from reward definition to exploitation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Proxy Rewards] --> B[Model Optimization]
+>   B --> C[Exploit Weaknesses]
+>   C --> D[Misaligned Outputs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reward Hacking vs Model Misalignment**
+> *Compare the specific challenges of reward hacking.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Misalignment] -->|General Discrepancy| B[True Objective]
+>   C[Reward Hacking] -->|Proxy Reward Exploitation| D[True Objective]
+>   style C fill:#f96,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Detection and Mitigation Strategies**
+> *Identify methods to detect and mitigate reward hacking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant System as S
+>   U->>M: Provide Input
+>   M->>S: Generate Output
+>   S->>U: Evaluate Output
+>   alt Detection
+>     U->>S: Identify Anomalies
+>     S-->>U: Flag Potential Hacking
+>   else Mitigation
+>     S->>M: Adjust Rewards
+>     M-->>S: Produce Aligned Outputs
+>   end
+> ```
 
 # Reward Hacking
 

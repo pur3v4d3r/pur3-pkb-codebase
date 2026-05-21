@@ -1,14 +1,13 @@
 ---
-title: "Prompt Versioning"
+title: Prompt Versioning
 aliases:
-  - "Prompt Versioning"
-  - "prompt version control"
-  - "prompt versioning system"
-  - "prompt change management"
+  - Prompt Versioning
+  - prompt version control
+  - prompt versioning system
+  - prompt change management
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - mlops
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-versioning-synthetic-seed-2026-05-20"
+  - prompt-versioning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Version Control Systems"
-
+parent-concept: Version Control Systems
 related:
-  - "[[Code Version Control]]"
-  - "[[Model Version Tracking]]"
+  - '[[Code Version Control]]'
+  - '[[Model Version Tracking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Code Version Control]]"
+  - '[[Code Version Control]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Model Version Tracking]]"
+  - '[[Model Version Tracking]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Versioning Flowchart**
+> *Follow the flow from initial prompt to versioned deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Prompt Text]
+>   B --> C[Rationale for Changes]
+>   C --> D[Evaluation Metrics]
+>   D --> E[Test Model Versions]
+>   E --> F[Deployment Date]
+>   F --> G[Versioned Deployment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Versioning Components**
+> *Identify the key components tracked in each prompt version.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Text] --> B[Rationale]
+>   A --> C[Evaluation Metrics]
+>   A --> D[Test Model Versions]
+>   A --> E[Deployment Date]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Versioning Applications**
+> *See the practical applications of prompt versioning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Track Changes]
+>   C[Regression Testing] --> D[Compare Versions]
+>   E[Production Stability] --> F[Rollback Updates]
+> ```
 
 # Prompt Versioning
 

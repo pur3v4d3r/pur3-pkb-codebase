@@ -17,7 +17,7 @@ subdomains:
   - transit-photometry
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - kepler-space-telescope-synthetic-seed-2026-05-14
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Kepler's Transit Method Overview**
+> *Follow the path from star observation to planet detection.*
+>
+> ```mermaid
+> graph TD
+>   A[Star Observation]
+>   B[Light Curve Analysis]
+>   C[Transit Signal Identification]
+>   D[Planet Detection]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Kepler vs JWST Mission Focus**
+> *Compare the mission objectives of Kepler and JWST.*
+>
+> ```mermaid
+> graph TD
+>   A[Kepler]
+>   B[James Webb Space Telescope (JWST)]
+>   C[Detecting Planets via Transit Method]
+>   D[Spectroscopic Analysis & Direct Imaging]
+>   A -->|Focus on| C
+>   B -->|Optimized for| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Exoplanet Detection Errors**
+> *Identify the types of errors in exoplanet detection.*
+>
+> ```mermaid
+> graph TD
+>   A[Type I Error]
+>   B[False Positive]
+>   C[Type II Error]
+>   D[False Negative]
+>   E[Transit Signal Misidentification]
+>   F[Signal Missed Due to Noise or Precision]
+>   A -->|Definition| B
+>   C -->|Definition| D
+>   B -->|Cause| E
+>   D -->|Cause| F
+> ```
 
 # Kepler Space Telescope
 

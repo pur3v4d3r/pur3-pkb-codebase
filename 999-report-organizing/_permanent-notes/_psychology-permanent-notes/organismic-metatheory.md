@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -70,8 +70,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Organismic Metatheory Overview**
+> *Identify the core components of organismic metatheory.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Potential]
+>   B[Intrinsic Motivation]
+>   C[Autonomy Support]
+>   D[Growth Tendency]
+>   E[External Determinism]
+>   F[Psychological Nutriments]
+>   G[Self-Actualization]
+>   H[Internal Regulation]
+>   A -->|Rooted In| B
+>   B -->|Supports| C
+>   C -->|Fosters| D
+>   D -->|Depends On| F
+>   E -->|Contrasts With| D
+>   G -->|Aims For| D
+>   H -->|Undermines| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivation Support Mechanism**
+> *Trace the flow of support and undermining factors in motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Autonomy-Supportive Environment] --> B[Internalization]
+>   B --> C[Growth Tendency]
+>   D[Controlling Environment] --> E[External Regulation]
+>   E --> F[Undermines Motivation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extrinsic Load**
+> *Compare intrinsic and extrinsic motivational loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Inttrinsic Load] --> B[Natural Growth]
+>   C[Extrinsic Load] --> D[Undermines Motivation]
+>   E[Autonomy Support] -->|Reduces| C
+>   F[External Control] -->|Increases| C
+> ```
 
 # Organismic Metatheory
 

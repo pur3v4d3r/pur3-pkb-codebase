@@ -19,7 +19,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - open-science-practices-synthetic-seed-2026-04-26
@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Preregistration Process Flow**
+> *Follow the steps from research design to data collection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Research Design] --> B[Commitment]
+>   B --> C[Data Collection]
+>   C --> D[Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Registered Reports Workflow**
+> *See the peer review process based on methodology.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Methodology] --> B[Peer Review]
+>   B --> C[Data Collection]
+>   C --> D[Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — Open Science Practices Components**
+> *Identify the key practices and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Preregistration] --> B[Transparency]
+>   C[Registered Reports] --> D[Integrity]
+>   E[Open Data] --> F[Verification]
+> ```
 
 # Open Science Practices
 

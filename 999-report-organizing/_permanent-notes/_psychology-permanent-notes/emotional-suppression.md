@@ -18,7 +18,7 @@ subdomains:
   - clinical-psychology
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - emotional-suppression-synthetic-seed-2026-04-26
@@ -69,8 +69,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Emotion Regulation Strategies Comparison**
+> *Compare emotional suppression with cognitive reappraisal.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotional Suppression]
+>   B[Cognitive Reappraisal]
+>   A -->|Later in process| C[Outward Expression]
+>   B -->|Earlier intervention| D[Perception/Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional Suppression Mechanism Flow**
+> *Follow the steps from emotion generation to expression inhibition.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Emotion Generated]
+>   B[Cognitive Effort]
+>   C[Inhibit Expression]
+>   D[Internal Experience]
+>   A -->|Already generated| B
+>   B -->|Control outward display| C
+>   C -->|Maintain internally| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Emotional Suppression Outcomes**
+> *Identify the negative impacts of emotional suppression.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotional Suppression]
+>   B[Negative Emotions]
+>   C[Memory Impairment]
+>   D[Arousal Increase]
+>   A -->|Does not reduce| B
+>   A -->|Impairs memory| C
+>   A -->|Elevates arousal| D
+> ```
 
 # Emotional Suppression
 

@@ -18,7 +18,7 @@ subdomains:
   - research-methods
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - preregistration-synthetic-seed-2026-05-01
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Preregistration Process Flow**
+> *Follow the steps from hypothesis to registry submission.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Hypotheses] --> B[Specify Design]
+>   B --> C[Plan Analysis]
+>   C --> D[Commit Registry]
+> ```
+
+
+> [!abstract] **Diagram 2 — Preregistration Mechanism Overview**
+> *Trace the binding effect from hypotheses to analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Hypotheses] --> B[Design]
+>   B --> C[Analysis Plan]
+>   C --> D[Auditability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Preregistration vs. Flexibility Spectrum**
+> *Compare the spectrum from rigid to flexible preregistrations.*
+>
+> ```mermaid
+> graph TD
+>   A[Vague Prereg] -->|Preserves Analytic Flexibility| B[Analytic Decisions]
+>   C[Rigid Prereg] -->|Discourages Exploratory Analysis| D[Analytic Decisions]
+>   B --> E[False Positives]
+>   D --> F[False Positives]
+> ```
 
 # Preregistration
 

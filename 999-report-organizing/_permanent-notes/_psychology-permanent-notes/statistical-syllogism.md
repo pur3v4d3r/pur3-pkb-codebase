@@ -19,7 +19,7 @@ subdomains:
   - critical-thinking
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - statistical-syllogism-synthetic-seed-2026-04-26
@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Statistical Syllogism Structure**
+> *Follow the flow from major premise to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Major Premise: Most F are G] --> B[Minor Premise: This is an F]
+>   B --> C[Conclusion: Probably this is G]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reference-Class Problem Illustration**
+> *Notice how different reference classes yield varying probabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Most F are G] --> B[This is an F]
+>   C[Most H are I] --> D[This is a H]
+>   B --> E{Probability of G}
+>   D --> F{Probability of I}
+> ```
+
+
+> [!abstract] **Diagram 3 — Statistical Syllogism Mechanism**
+> *Trace the steps from identifying statistical regularity to individual inference.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Reference Class] --> B[Determine Frequency]
+>   B --> C[Apply Probability to Individual]
+> ```
 
 # Statistical Syllogism
 

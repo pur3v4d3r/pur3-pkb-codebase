@@ -18,7 +18,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - large-scale-structure-of-the-cosmos-synthetic-seed-2026-05-14
@@ -69,8 +69,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cosmic Web Structure Overview**
+> *Identify the major components of large-scale structure.*
+>
+> ```mermaid
+> graph TD
+>   A[Galaxy Clusters] --> B[Filaments]
+>   B --> C[Sheets]
+>   C --> D[Voids]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dark Matter and Galaxy Distribution**
+> *Notice the distinction between visible galaxies and dark matter halos.*
+>
+> ```mermaid
+> graph TD
+>   A[Visible Galaxies] --> B[Tracers]
+>   C[Dark Matter Halos] --> D[Underlying Structure]
+>   B -->|Inaccurate Tracing| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Compare the two approaches in interpreting observational data.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TheoreticalModels as TM
+>   participant ObservationalData as OD
+>   participant Analysis as A
+>   TM->>OD: Predictions Based on Lambda-CDM Model
+>   OD-->>A: Raw Data Collection
+>   A->>TM: Refinement of Models
+>   A->>OD: Interpretation Without Initial Constraints
+> ```
 
 # Large Scale Structure Of The Cosmos
 

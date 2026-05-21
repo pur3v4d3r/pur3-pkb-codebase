@@ -17,7 +17,7 @@ subdomains:
   - learning-science
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - schema-induction-synthetic-seed-2026-05-01
@@ -64,8 +64,42 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Induction Process Flow**
+> *Follow the sequence from encountering instances to abstracting schemas.*
+>
+> ```mermaid
+> graph TD
+>   A[Encounter Instances] --> B[Compare Cases]
+>   B --> C[Identify Commonalities]
+>   C --> D[Abstract Schema]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Induction vs Direct Instruction**
+> *Compare the processes of schema induction and direct instruction.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema Induction] --> B[Inductive Process]
+>   C[Direct Instruction] --> D[Schematic End Product]
+>   subgraph Schema Induction
+>     A
+>     B
+>   end
+>   subgraph Direct Instruction
+>     C
+>     D
+>   end
+> ```
 
 # Schema Induction
 

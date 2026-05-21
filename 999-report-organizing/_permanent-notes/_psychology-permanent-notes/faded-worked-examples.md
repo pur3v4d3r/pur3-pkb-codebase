@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - faded-worked-examples-synthetic-seed-2026-04-25
@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Faded Worked Example Process Flow**
+> *Follow the progression from full to faded examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Example] --> B[Partial Example]
+>   B --> C[Faded Example]
+> ```
+
+
+> [!abstract] **Diagram 2 — Faded Worked Examples in Cognitive Load Theory**
+> *Identify how fading reduces extraneous load and increases germane load.*
+>
+> ```mermaid
+> graph TD
+>   A[Extraneous Load]
+>   B[Germane Load]
+>   C[Faded Example Process]
+>   A -->|Reduction| C
+>   C -->|Increase| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Fading Progression in Mathematics Education**
+> *Observe the gradual removal of steps from fully guided to unguided.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Example]
+>   B[Partial Example]
+>   C[Faded Example]
+>   D[Unguided Problem]
+>   A -->|Remove Steps| B
+>   B -->|Further Fading| C
+>   C -->|Final Step| D
+> ```
 
 # Faded Worked Examples
 

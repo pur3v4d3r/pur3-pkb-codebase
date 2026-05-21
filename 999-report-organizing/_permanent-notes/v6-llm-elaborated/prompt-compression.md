@@ -1,14 +1,13 @@
 ---
-title: "Prompt Compression"
+title: Prompt Compression
 aliases:
-  - "Prompt Compression"
-  - "context compression"
-  - "prompt distillation"
-  - "prompt pruning"
+  - Prompt Compression
+  - context compression
+  - prompt distillation
+  - prompt pruning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,94 @@ subdomains:
   - nlp-systems
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-compression-synthetic-seed-2026-05-20"
+  - prompt-compression-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Optimization"
-
+parent-concept: Prompt Optimization
 related:
-  - "[[Token-Budget Management]]"
-  - "[[Context Window Management]]"
+  - '[[Token-Budget Management]]'
+  - '[[Context Window Management]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Token-Budget Management]]"
+  - '[[Token-Budget Management]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Context Window Management]]"
+  - '[[Context Window Management]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Compression Mechanisms**
+> *Identify the different methods used for compressing prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Extractive Summarization]
+>   B[Learned Compression Networks]
+>   C[LLM-Based Distillation]
+>   A -->|Retain Key Phrases| D[Shorter Sequences]
+>   B -->|Encode Longer Inputs| D
+>   C -->|Rewrite Verbose Instructions| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Compression vs General Efficiency**
+> *Compare Prompt Compression with general model efficiency improvements.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Compression]
+>   B[General Model Efficiency]
+>   A -->|Reduce Token Length| C[Efficiency]
+>   B -->|Optimize Architecture/Training| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Prompt Compression**
+> *Understand the real-world applications where prompt compression is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Real-Time Applications]
+>   A -->|Enhance User Experience| C[Faster Responses]
+>   B -->|Maintain Low Latency| D[High Throughput]
+> ```
 
 # Prompt Compression
 

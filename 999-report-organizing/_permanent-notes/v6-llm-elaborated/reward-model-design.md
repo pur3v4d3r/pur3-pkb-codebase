@@ -1,14 +1,13 @@
 ---
-title: "Reward Model Design"
+title: Reward Model Design
 aliases:
-  - "Reward Model Design"
-  - "reward modelling"
-  - "preference model"
-  - "RM training"
+  - Reward Model Design
+  - reward modelling
+  - preference model
+  - RM training
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - machine-learning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reward-model-design-synthetic-seed-2026-05-20"
+  - reward-model-design-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning from Human Feedback"
-
+parent-concept: Reinforcement Learning from Human Feedback
 related:
-  - "[[Reinforcement Learning]]"
-  - "[[Direct Preference Optimization]]"
+  - '[[Reinforcement Learning]]'
+  - '[[Direct Preference Optimization]]'
 prerequisites:
-  - "[[Reinforcement Learning]]"
+  - '[[Reinforcement Learning]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
+  - '[[Direct Preference Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reward Model Design Process Flow**
+> *Follow the steps from initialization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialize Reward Model]
+>   B[Fine-Tune on Human Comparisons]
+>   C[Predict Human Preferences]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison Formats Taxonomy**
+> *Compare the characteristics of pairwise and ranked formats.*
+>
+> ```mermaid
+> graph TD
+>   Pairwise[Pairwise Comparisons]
+>   Ranked[Ranked Comparisons]
+>   Pairwise -->|Intuitive but requires larger datasets| C1[Intuition]
+>   Ranked -->|Broader evaluation, nuanced preferences| C2[Nuance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reward Model Challenges State Machine**
+> *Track the states and transitions in reward model design.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initializing
+>   Initializing --> FineTuning: Human Comparisons
+>   FineTuning --> Overfitting: Bias or Reward Hacking
+>   FineTuning --> Generalizing: Reliable Rewards
+> ```
 
 # Reward Model Design
 

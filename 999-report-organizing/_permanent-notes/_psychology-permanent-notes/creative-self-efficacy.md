@@ -16,7 +16,7 @@ subdomains:
   - creativity-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - creative-self-efficacy-synthetic-seed-2026-04-25
@@ -65,8 +65,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Creative Self Efficacy Concept Hierarchy**
+> *Follow the hierarchy from general self-efficacy to creative self-efficacy.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Efficacy]
+>   B[Generalized Self-Efficacy]
+>   C[Creative Self Efficacy]
+>   A -->|specific instantiation| C
+>   A -->|general construct| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Creative Self Efficacy**
+> *Trace the path from supportive contexts to creative output via self-efficacy beliefs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Supportive Contexts]
+>   B[Managerial Support]
+>   C[Autonomy]
+>   D[Skill Development Opportunities]
+>   E[Creative Self Efficacy Beliefs]
+>   F[Creative Output]
+>   A -->|includes| B
+>   A -->|includes| C
+>   A -->|includes| D
+>   B --> E
+>   C --> E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Creative Self Efficacy vs Generalized Self-Efficacy**
+> *Compare the domains and implications of both constructs.*
+>
+> ```mermaid
+> classDiagram
+>   class CreativeSelfEfficacy {
+>     +Domain: Creativity
+>     +Focus: Creative Performance
+>   }
+>   class GeneralizedSelfEfficacy {
+>     +Domain: General Capabilities
+>     +Focus: Overall Efficacy
+>   }
+>   CreativeSelfEfficacy -->|distinct from| GeneralizedSelfEfficacy
+> ```
 
 # Creative Self Efficacy
 

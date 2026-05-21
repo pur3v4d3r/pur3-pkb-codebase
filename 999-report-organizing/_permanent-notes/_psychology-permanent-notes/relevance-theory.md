@@ -17,7 +17,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - relevance-theory-synthetic-seed-2026-05-01
@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Relevance Theory Process Flow**
+> *Follow the flow from utterance to interpretation, noting cognitive effects and processing effort.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Utterance] --> B[Evaluation]
+>   B --> C[Cognitive Effects]
+>   B --> D[Processing Effort]
+>   C --> E[Interpretation]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Relevance Theory Taxonomy**
+> *Identify the relationship between cognitive effects, processing effort, and interpretation.*
+>
+> ```mermaid
+> graph TD
+>   A[Interpretation]
+>   B[Cognitive Effects] --> A
+>   C[Processing Effort] --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Relevance Theory Applications**
+> *See how Relevance Theory applies to different fields like instructional design and NLP.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant SpeechActAnalysis as SA
+>   participant NaturalLanguageProcessing as NL
+>   participant MOOCs as M
+>   ID->>NL: Informative & Easy Processing
+>   SA->>ID: Maximize Relevance
+>   NL->>SA: Context-Aware Interpretation
+>   M->>NL: Spaced Retrieval Optimization
+> ```
 
 # Relevance Theory
 

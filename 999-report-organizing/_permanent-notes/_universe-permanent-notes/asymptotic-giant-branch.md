@@ -17,7 +17,7 @@ subdomains:
   - stellar-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - asymptotic-giant-branch-synthetic-seed-2026-05-14
@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — AGB Evolution Process Flow**
+> *Follow the sequence of events during AGB phase.*
+>
+> ```mermaid
+> graph TD
+>   A[Core Helium Exhaustion] --> B[Helium Shell Burning]
+>   B --> C[Thermal Pulses]
+>   C --> D[H-Shell Flashes]
+>   D --> E[Intense Mass Loss]
+>   E --> F[s-Process Nucleosynthesis]
+> ```
+
+
+> [!abstract] **Diagram 2 — AGB vs Red Giant Branch Comparison**
+> *Compare key differences between AGB and red giant branch phases.*
+>
+> ```mermaid
+> graph TD
+>   AG[Asymptotic Giant Branch] -->|Alternating Thermal Pulses| TP[Thermal Pulses]
+>   AG -->|Significant Mass Loss| ML[Intense Mass Loss]
+>   RG[Red Giant Branch] -->|Steady H-Shell Burning| SB[H-Shell Burning]
+> ```
+
+
+> [!abstract] **Diagram 3 — AGB Nucleosynthesis Pathways**
+> *Trace the nucleosynthetic processes in AGB stars.*
+>
+> ```mermaid
+> graph TD
+>   TP[Thermal Pulses] -->|Helium Shell Burning| HS[H-Shell]
+>   HS -->|Third Dredge-Up| TD[Third Dredge-Up]
+>   TD -->|Hot-Bottom Burning| HBB[Hot-Bottom Burning]
+>   HBB -->|s-Process Nucleosynthesis| SP[s-Process]
+> ```
 
 # Asymptotic Giant Branch
 

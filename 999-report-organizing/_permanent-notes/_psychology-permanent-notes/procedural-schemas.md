@@ -18,7 +18,7 @@ subdomains:
   - skill-acquisition
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - procedural-schemas-synthetic-seed-2026-04-24
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Procedural Schema Process Flow**
+> *Follow the steps from initial learning to automatic performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning] --> B[Conscious Monitoring]
+>   B --> C[Practice and Refinement]
+>   C --> D[Automatic Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Procedural Schema Example in ACT-R**
+> *Identify the condition-action rules for a driving scenario.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Car Moving Forward] --> B[Brake Pedal Pressed]
+>   B --> C[Apply Brakes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Procedural vs Declarative Knowledge**
+> *Compare the characteristics of procedural and declarative knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Declarative]
+>   B[Procedural]
+>   A -->|Facts/Rules| C[(Verbalizable)]
+>   B -->|Task Performance| D[(Practice-Dependent)]
+> ```
 
 # Procedural Schemas
 

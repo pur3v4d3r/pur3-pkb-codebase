@@ -20,7 +20,7 @@ subdomains:
   - linear-algebra
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cosine-similarity-retrieval-synthetic-seed-2026-05-20
@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cosine Similarity Process Flow**
+> *Follow the flow from text input to cosine similarity calculation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Text Input] --> B[Embedding]
+>   B --> C[Cosine Calculation]
+>   C --> D[Similarity Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Distance Metrics**
+> *Compare cosine similarity with Euclidean and Manhattan distances.*
+>
+> ```mermaid
+> graph TD
+>   A[Cosine Similarity] -->|Directional Alignment| B[Semantic Relationships]
+>   C[Euclidean Distance] -->|Magnitude| D[Irrelevant Lengths]
+>   E[Manhattan Distance] -->|Magnitude| F[Irrelevant Lengths]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the differences between top-down and bottom-up approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-existing Knowledge] --> B[Directional Alignment]
+>   C[Raw Data Features] --> D[Irrelevant Lengths]
+>   E[Top-Down Processing] --> F[Better Accuracy]
+>   G[Bottom-Up Processing] --> H[Prior Assumptions]
+> ```
 
 # Cosine Similarity Retrieval
 

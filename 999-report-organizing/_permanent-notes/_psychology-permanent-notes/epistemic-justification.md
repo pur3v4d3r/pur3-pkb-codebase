@@ -16,7 +16,7 @@ subdomains:
   - analytic-epistemology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemic-justification-synthetic-seed-2026-04-25
@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemic Justification Mechanisms**
+> *Identify the two main mechanisms: evidentialism and coherentism.*
+>
+> ```mermaid
+> graph TD
+>   A[Belief]
+>   B[Evidentialism] -->|Supported by evidence| A
+>   C[Coherentism] -->|Coheres with other justified beliefs| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Justification vs Truth**
+> *Understand the distinction between justification and truth.*
+>
+> ```mermaid
+> graph TD
+>   A[Justified Belief] -->|Can be false| B(False)
+>   C(True) -->|May lack evidence| D[Unjustified Belief]
+> ```
+
+
+> [!abstract] **Diagram 3 — Epistemic Justification in Practice**
+> *See how justification applies across different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Ensures evidence-based learning|
+>   B[Scientific Research] -->|Supports robust data and testing|
+>   C[Legal Reasoning] -->|Evaluates reliable grounds for decisions
+> ```
 
 # Epistemic Justification
 

@@ -18,7 +18,7 @@ subdomains:
   - ethics
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - moral-development-synthetic-seed-2026-04-26
@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Kohlberg's Six Stages of Moral Development**
+> *Follow the progression from preconventional to postconventional stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Preconventional]
+>   B[Conventional]
+>   C[Postconventional]
+>   A -->|Stage Progression| B
+>   B -->|Stage Progression| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Moral Reasoning Mechanism**
+> *Observe the hierarchical build-up from personal gain to universal principles.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Self-Interest]
+>   B[Societal Norms]
+>   C[Universal Principles]
+>   A -->|Perspective Expansion| B
+>   B -->|Abstract Thinking| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Moral Development Applications**
+> *Identify the applications for each stage of moral reasoning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Preconventional as P
+>   participant Conventional as C
+>   participant Postconventional as PC
+>   P->>P: Instructional Design
+>   C->>C: Ethics Training
+>   PC->>PC: Social Policy & AI
+> ```
 
 # Moral Development
 

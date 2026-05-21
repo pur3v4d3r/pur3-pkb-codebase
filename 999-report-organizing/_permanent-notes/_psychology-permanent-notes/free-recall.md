@@ -16,7 +16,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - free-recall-synthetic-seed-2026-04-25
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Free Recall Process Flow**
+> *Follow the steps from study to recall.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Study Material] --> B[Internal Encoding]
+>   B --> C[Generate Retrieval Pathways]
+>   C --> D[Recall Without Cues]
+> ```
+
+
+> [!abstract] **Diagram 2 — Free Recall vs Other Recalls**
+> *Compare Free Recall with other recall methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Free Recall] -->|No External Cues| B[Internal Retrieval]
+>   C[Cued-Recall] -->|External Prompts| D[Partial Recall]
+>   E[Recognition-Memory] -->|Recognize Stimuli| F[Familiarity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Free Recall Mechanism Overview**
+> *Trace the neural pathways during Free Recall.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Studied Material] --> B[Internal Cues]
+>   B --> C[Neural Network Activation]
+>   C --> D[Retrieval Pathways Strengthened]
+> ```
 
 # Free Recall
 

@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - conceptual-change-synthetic-seed-2026-04-24
@@ -64,8 +64,84 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Conceptual Change Process Overview**
+> *Follow the stages from cognitive dissonance to assimilation.*
+>
+> ```mermaid
+> graph TD
+>   A[Existing Conceptions]
+>   B[Cognitive Dissonance]
+>   C[Acommodation]
+>   D[Integration]
+>   E[New Conception]
+>   F[Assimilation]
+>   G[Updated Knowledge Structure]
+>   A -->|Contradictory Data| B
+>   B -->|Seeking Alternatives| C
+>   C -->|Adopt New Concept| E
+>   E -->|Integrate into Existing Frameworks| D
+>   D -->|Refine and Expand| F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Conceptual Change Mechanism Flowchart**
+> *Trace the iterative cycle from dissonance to accommodation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Existing Knowledge]
+>   B[Cognitive Dissonance]
+>   C[Acommodation]
+>   D[Integration]
+>   E[New Conception]
+>   F[Assimilation]
+>   G[Updated Knowledge Structure]
+>   H[More Evidence]
+>   I[Revisit Understanding]
+>   A -->|Contradictory Data| B
+>   B -->|Seeking Alternatives| C
+>   C -->|Adopt New Concept| E
+>   E -->|Integrate into Existing Frameworks| D
+>   D -->|Refine and Expand| F
+>   F --> G
+>   G -->|More Evidence| H
+>   H -->|Revisit Understanding| I
+>   I --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Conceptual Change Stages Diagram**
+> *Identify the stages from initial dissonance to final assimilation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Dissonance : Encounter Contradictory Data
+>   state Dissonance
+>     Dissonance --> SeekAlternatives : Cognitive Dissonance
+>   end
+>   state SeekAlternatives
+>     SeekAlternatives --> AdoptNewConcept : Accommodation
+>   end
+>   state AdoptNewConcept
+>     AdoptNewConcept --> IntegrateIntoExistingFrameworks : Integration
+>   end
+>   state IntegrateIntoExistingFrameworks
+>     IntegrateIntoExistingFrameworks --> RefineAndExpand : Assimilation
+>   end
+>   state RefineAndExpand
+>     RefineAndExpand --> [*] : Updated Knowledge Structure
+>   end
+> ```
 
 # Conceptual Change
 

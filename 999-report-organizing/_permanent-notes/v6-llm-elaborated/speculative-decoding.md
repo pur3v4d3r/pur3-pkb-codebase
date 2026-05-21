@@ -1,14 +1,13 @@
 ---
-title: "Speculative Decoding"
+title: Speculative Decoding
 aliases:
-  - "Speculative Decoding"
-  - "speculative sampling"
-  - "draft-then-verify decoding"
-  - "assisted generation"
+  - Speculative Decoding
+  - speculative sampling
+  - draft-then-verify decoding
+  - assisted generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,85 @@ subdomains:
   - systems
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "speculative-decoding-synthetic-seed-2026-05-20"
+  - speculative-decoding-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Inference Efficiency Techniques"
-
+parent-concept: Inference Efficiency Techniques
 related:
-  - "[[Autoregressive Decoding]]"
-  - "[[Beam Search]]"
-  - "[[Token Budget Management]]"
+  - '[[Autoregressive Decoding]]'
+  - '[[Beam Search]]'
+  - '[[Token Budget Management]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Autoregressive Decoding]]"
-  - "[[Beam Search]]"
+  - '[[Autoregressive Decoding]]'
+  - '[[Beam Search]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Token Budget Management]]"
+  - '[[Token Budget Management]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Speculative Decoding Process Flow**
+> *Follow the flow from input to output, noting stages and interactions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Draft Model]
+>   B --> C[Generate Sequence]
+>   C --> D[Target Model]
+>   D --> E[Verify Tokens]
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Decoding Methods**
+> *Compare speculative decoding with autoregressive and beam search methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Speculative Decoding]
+>   B[Autoregressive Decoding]
+>   C[Beam Search]
+>   A -->|Single Pass Verification| F[High Quality Output]
+>   B -->|Sequential Token Generation| G[Higher Latency]
+>   C -->|Multiple Sequences Evaluated| H[Lower Throughput]
+> ```
 
 # Speculative Decoding
 

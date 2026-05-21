@@ -1,14 +1,13 @@
 ---
-title: "Repetition Penalty"
+title: Repetition Penalty
 aliases:
-  - "Repetition Penalty"
-  - "repeat penalty"
-  - "anti-repetition penalty"
-  - "repetition suppression"
+  - Repetition Penalty
+  - repeat penalty
+  - anti-repetition penalty
+  - repetition suppression
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,119 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "repetition-penalty-synthetic-seed-2026-05-20"
+  - repetition-penalty-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Techniques"
-
+parent-concept: LLM Decoding Techniques
 related:
-  - "[[Frequency Penalty]]"
-  - "[[Temperature Sampling]]"
+  - '[[Frequency Penalty]]'
+  - '[[Temperature Sampling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Frequency Penalty]]"
-  - "[[Temperature Sampling]]"
+  - '[[Frequency Penalty]]'
+  - '[[Temperature Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Repetition Penalty Mechanism**
+> *Follow the flow of logit adjustment based on token frequency.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Logits]
+>   B[Check Token Frequency]
+>   C{Has Token Appeared?}
+>   D[Apply Repetition Penalty]
+>   E[Adjusted Logits]
+>   F[Select Next Token]
+>   A --> B
+>   B -->|Yes| C
+>   C -->|Yes| D
+>   C -->|No| F
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Repetition Penalty vs Frequency Penalty**
+> *Compare the scope and application of both penalties.*
+>
+> ```mermaid
+> graph TD
+>   A[Repetition Penalty]
+>   B[Frequency Penalty]
+>   C{Immediate Repetition}
+>   D{Overall Token Frequency}
+>   E[Single Output Sequence]
+>   F[Multiple Outputs]
+>   G[Narrative Flow]
+>   H[Token Variety]
+>   A -->|C Yes| E
+>   A -->|D No|
+>   B -->|C No|
+>   B -->|D Yes| F
+>   E --> G
+>   F --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Repetition Penalty in Text Generation**
+> *Trace the impact of Repetition Penalty on generated text.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt]
+>   B[Token Generation]
+>   C{Apply Repetition Penalty}
+>   D[Generated Text]
+>   E[Coherent Output]
+>   F[Monothonous Output]
+>   A --> B
+>   B -->|Yes| C
+>   B -->|No| D
+>   C --> D
+>   D -->|Effective| E
+>   D -->|Ineffective| F
+> ```
 
 # Repetition Penalty
 

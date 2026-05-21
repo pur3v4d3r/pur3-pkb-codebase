@@ -21,7 +21,7 @@ subdomains:
   - transfer-learning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - adapter-layers-synthetic-seed-2026-05-20
@@ -68,8 +68,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Adapter Layer Architecture Overview**
+> *Follow the flow from input to output through down-projection, non-linearity, and up-projection.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Down-Projection]
+>   C{Non-Linearity}
+>   D[Up-Projection]
+>   E[Output]
+>   A --> B
+>   B -->|Reduce Dimensionality| C
+>   C -->|Apply Non-Linearity| D
+>   D -->|Restore Original Size| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Adapter Layer vs Full Retraining Comparison**
+> *Compare the scope of parameter updates in Adapter Layers and full model retraining.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretrained Model]
+>   B(Adapter Layers)[Adapter Layers]
+>   C(Full Retraining)[Full Retraining]
+>   D[Task-Specific Fine-Tuning]
+>   E[New Task]
+>   F[Original Weights Preserved]
+>   G[All Parameters Updated]
+>   A -->|Frozen Backbone| B
+>   A -->|Update All| C
+>   B -->|Preserve Original Weights| F
+>   C -->|Retrain Entire Model| G
+>   B --> D
+>   C --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Adapter Layer vs LoRA Comparison**
+> *Compare the insertion of new layers in Adapter Layers with weight modifications in LoRA.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretrained Model]
+>   B(Adapter Layers)[Adapter Layers]
+>   C(LoRA)[LoRA]
+>   D[Task-Specific Fine-Tuning]
+>   E[New Task]
+>   F[Introduce New Layers]
+>   G(Modify Existing Weights)
+>   H[Merge Weights]
+>   A -->|Frozen Backbone| B
+>   A -->|Modify Weights| C
+>   B -->|Insert Adapter Layers| F
+>   C -->|Update Low-Rank Matrices| G
+>   B --> D
+>   C --> E
+>   C -->|Merge into Original Model| H
+> ```
 
 # Adapter Layers
 

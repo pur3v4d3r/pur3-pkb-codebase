@@ -1,14 +1,13 @@
 ---
-title: "Repair Prompting"
+title: Repair Prompting
 aliases:
-  - "Repair Prompting"
-  - "code repair prompts"
-  - "bug repair prompting"
-  - "automated program repair prompting"
+  - Repair Prompting
+  - code repair prompts
+  - bug repair prompting
+  - automated program repair prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,86 @@ subdomains:
   - program-synthesis
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "repair-prompting-synthetic-seed-2026-05-20"
+  - repair-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Code Generation Techniques"
-
+parent-concept: Code Generation Techniques
 related:
-  - "[[Self-Debugging LLMs]]"
-  - "[[Execution Feedback Prompting]]"
+  - '[[Self-Debugging LLMs]]'
+  - '[[Execution Feedback Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Self-Debugging LLMs]]"
+  - '[[Self-Debugging LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Execution Feedback Prompting]]"
+  - '[[Execution Feedback Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Repair Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Defective Code] --> B[Provide Defect Info]
+>   B --> C[Generate Corrected Code]
+> ```
+
+
+> [!abstract] **Diagram 2 — Repair Prompting vs Self-Debugging Comparison**
+> *Compare the two approaches by their key characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Repair Prompting] -->|Guided Solution| B[Efficient]
+>   C[Self-Debugging] -->|Unsupervised Diagnosis| D[Time-consuming]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Identify the contexts where Repair Prompting is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Automated Program Repair] --> B[Efficiency]
+>   C[Interactive Development Assistants] --> D[Real-time Feedback]
+> ```
 
 # Repair Prompting
 

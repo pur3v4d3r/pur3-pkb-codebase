@@ -20,7 +20,7 @@ subdomains:
   - llm-capabilities
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - code-prompting-strategies-synthetic-seed-2026-05-20
@@ -67,8 +67,90 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Code Prompting Strategy Overview**
+> *Identify the main components of Code Prompting Strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Specification]
+>   B[Decomposition]
+>   C[Surface Processing]
+>   D[Deep Processing]
+>   E[Ambiguity Reduction]
+>   F[Efficiency Improvement]
+>   G[Educational Tool]
+>   H[Test Case Generation]
+>   I[Spaced Retrieval]
+>   A -->|Clear Instructions| E
+>   B -->|Breakdown Tasks| E
+>   C -->|Superficial Understanding|
+>   D -->|Meaningful Comprehension|
+>   F -->|Reduce Manual Coding|
+>   G -->|Enhance Learning Outcomes|
+>   H -->|Comprehensive Coverage|
+>   I -->|Maximize Retention
+> ```
+
+
+> [!abstract] **Diagram 2 — Code Prompting Strategy Applications**
+> *Understand the practical applications of Code Prompting Strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Automated Testing]
+>   C[Spaced Retrieval in MOOCs]
+>   D[Docstring-First Approach]
+>   E[Test Cases Generation]
+>   F[Distributed Practice]
+>   G[Learning Outcomes]
+>   H[Comprehensive Coverage]
+>   I[Long-Term Retention]
+>   A -->|Clear Coding Tasks|
+>   B -->|Generate Test Cases|
+>   C -->|Reinforce Concepts|
+>   D -->|Ensure Correctness|
+>   E -->|Cover Edge Conditions|
+>   F -->|Maximize Recall|
+>   G -->|Enhance Understanding|
+>   H -->|Reduce Information Overload|
+>   I -->|Improve Retention
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompting Strategy Mechanism**
+> *Understand how Code Prompting Strategies reduce ambiguity and improve output quality.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Clear Instructions]
+>   B[Ambiguity Reduction]
+>   C[Evidence-Based Improvement]
+>   D[Cognitive Load Theory]
+>   E[Natural Language Prompts]
+>   F[Vague Descriptions]
+>   G[Explicit Specifications]
+>   H[Correct Code Generation]
+>   I[Manual Coding Tasks]
+>   A --> B
+>   B -->|Reduces Unnecessary Effort|
+>   C --> D
+>   D -->|Empirical Evidence|
+>   E --> F
+>   F -->|Multiple Interpretations|
+>   G --> H
+>   H -->|Improves Output Quality|
+>   I -->|Reduce Time Spent|
+> ```
 
 # Code Prompting Strategies
 

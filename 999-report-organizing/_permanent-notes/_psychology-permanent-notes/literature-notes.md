@@ -18,7 +18,7 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - literature-notes-synthetic-seed-2026-04-25
@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Literature Notes Workflow**
+> *Follow the steps from reading to indexing.*
+>
+> ```mermaid
+> graph TD
+>   A[Read Passage]
+>   A --> B[Restate in Own Words]
+>   B --> C[Index to Original Source]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Note Types**
+> *Compare Literature Notes with Fleeting and Evergreen Notes.*
+>
+> ```mermaid
+> graph TD
+>   A[Literature Notes]
+>   B[Fleeting Notes]
+>   C[Evergreen Notes]
+>   A -->|Restate in Own Words| D[Deep Understanding]
+>   B -->|Temporary Records| E[Quick Recall]
+>   C -->|Key Points and Insights| F[Quick Reference]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Context**
+> *Understand the role of intrinsic vs extraneous load.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Literature Notes]
+>   D[Deep Processing]
+>   E[Shallow Processing]
+>   A -->|Enhanced by Literature Notes| D
+>   B -->|Reduced by Literature Notes| E
+> ```
 
 # Literature Notes
 

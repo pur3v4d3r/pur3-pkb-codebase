@@ -17,7 +17,7 @@ subdomains:
   - quantum-information
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - quantum-entanglement-synthetic-seed-2026-05-14
@@ -65,8 +65,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Quantum Entanglement Process Flow**
+> *Follow the steps from entangled pair creation to measurement.*
+>
+> ```mermaid
+> graph TD
+>   A[Entangled Pair Creation]
+>   B[Photon Emission]
+>   C[Detection]
+>   D[Measurement]
+>   A --> B
+>   B -->|Alice| C1
+>   B -->|Bob| C2
+>   C1 --> D1
+>   C2 --> D2
+> ```
+
+
+> [!abstract] **Diagram 2 — Non-Local Correlations in Entanglement**
+> *Observe the non-local correlations between measurements on entangled particles.*
+>
+> ```mermaid
+> graph TD
+>   A[Measurement Alice]
+>   B[Measurement Bob]
+>   C[Correlation]
+>   A -->|Outcome X| C1
+>   B -->|Outcome Y| C2
+>   C1 -.-> C2
+> ```
+
+
+> [!abstract] **Diagram 3 — Quantum vs Classical Correlations**
+> *Compare quantum entanglement with classical correlations.*
+>
+> ```mermaid
+> graph TD
+>   A[Classical Correlation]
+>   B[Quantum Entanglement]
+>   C[Shared Information]
+>   D[Intertwined State]
+>   E[Local Hidden Variables]
+>   F[Non-Local]
+>   G[No Superluminal Signaling]
+>   H[Bell's Inequalities Violation]
+>   A -->|Direct Interaction| C
+>   B -->|Intrinsic Property| D
+>   A -->|Explained by| E
+>   B -->|Violates| F
+>   B -->|No Communication| G
+>   B -->|Bell's Inequality| H
+> ```
 
 # Quantum Entanglement
 

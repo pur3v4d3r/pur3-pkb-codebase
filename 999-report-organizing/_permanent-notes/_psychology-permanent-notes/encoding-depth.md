@@ -21,7 +21,7 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Encoding Depth Levels**
+> *Follow the hierarchy from shallow to deep processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Shallow Processing]
+>   B[Deep Processing]
+>   C[Semantic Elaboration]
+>   D[Self-Referential Processing]
+>   A -->|Surface Features| B
+>   B -->|Meaningful Connections| C
+>   B -->|Personal Experiences| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Deep Processing Mechanisms**
+> *Identify the connections between semantic elaboration and self-referential processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Elaboration]
+>   B[Self-Referential Processing]
+>   C[Existing Knowledge]
+>   D[Personal Experiences]
+>   A -->|Links to| C
+>   B -->|Connects to| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Deep Processing**
+> *Trace the applications from instructional design to knowledge management.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Note-Taking]
+>   C[Knowledge Management]
+>   D[Spaced Retrieval in MOOCs]
+>   A -->|Summarization, Self-Explanation| B
+>   B -->|Mind Maps, Summaries| C
+>   C -->|Integration with Schemas| D
+> ```
 
 # Encoding Depth
 

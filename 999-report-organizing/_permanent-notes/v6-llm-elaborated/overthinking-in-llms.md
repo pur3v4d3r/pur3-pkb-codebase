@@ -1,14 +1,13 @@
 ---
-title: "Overthinking in LLMs"
+title: Overthinking in LLMs
 aliases:
-  - "Overthinking in LLMs"
-  - "LLM overthinking"
-  - "excessive reasoning"
-  - "inefficient chain-of-thought"
+  - Overthinking in LLMs
+  - LLM overthinking
+  - excessive reasoning
+  - inefficient chain-of-thought
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,94 @@ subdomains:
   - reasoning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "overthinking-in-llms-synthetic-seed-2026-05-20"
+  - overthinking-in-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Extended Thinking Architecture]]"
-  - "[[Thinking Budget Allocation]]"
+  - '[[Extended Thinking Architecture]]'
+  - '[[Thinking Budget Allocation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Extended Thinking Architecture]]"
+  - '[[Extended Thinking Architecture]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Thinking Budget Allocation]]"
+  - '[[Thinking Budget Allocation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Overthinking Process Flow**
+> *Follow the flow from input to output, noting where overthinking occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Reasoning]
+>   B --> C[Valid Solution]
+>   C --> D[Unnecessary Elaboration]
+>   D --> E[Degraded Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Productive vs Unproductive Reasoning**
+> *Compare the paths of productive and unproductive reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Productive]
+>   A --> C[Unproductive]
+>   B --> D[Clear Explanation]
+>   C --> E[Necessary Complexity]
+>   D --> F[Enhanced Quality]
+>   E --> G[Degrades Quality]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Application**
+> *Identify the balance between intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Task] --> B[Necessary Cognitive Demand]
+>   A --> C[Unnecessary Elaboration]
+>   B --> D[Enhanced Understanding]
+>   C --> E[Degrades Performance]
+> ```
 
 # Overthinking in LLMs
 

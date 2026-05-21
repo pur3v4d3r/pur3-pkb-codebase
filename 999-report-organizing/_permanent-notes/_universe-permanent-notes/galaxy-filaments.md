@@ -17,7 +17,7 @@ subdomains:
   - large-scale-structure
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - galaxy-filaments-synthetic-seed-2026-05-14
@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cosmic Web Structure Overview**
+> *Identify the densest structures connecting galaxy clusters.*
+>
+> ```mermaid
+> graph TD
+>   A[Galaxy Clusters] --> B[Filaments]
+>   B --> C[Voids]
+> ```
+
+
+> [!abstract] **Diagram 2 — WHIM in Galaxy Filaments**
+> *Trace the distribution of warm-hot intergalactic medium.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Galaxy Filament] --> B[Warm-Hot Intergalactic Medium (WHIM)]
+>   B --> C[Missing Baryons]
+> ```
+
+
+> [!abstract] **Diagram 3 — Filament Detection Methods**
+> *Compare top-down and bottom-up approaches in filament detection.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Top-Down as T
+>   participant Bottom-Up as B
+>   T->>B: Theoretical Models Predict Filaments
+>   B->>T: Raw Observational Data Identifies Structures
+> ```
 
 # Galaxy Filaments
 

@@ -18,7 +18,7 @@ subdomains:
   - space-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - heliosphere-synthetic-seed-2026-05-14
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Heliosphere Structure Overview**
+> *Identify the key components and boundaries of the Heliosphere.*
+>
+> ```mermaid
+> graph TD
+>   A[Sun]
+>   B[Solar Wind]
+>   C[Heliosheath]
+>   D[Heliopause]
+>   E[Intergalactic Medium]
+>   A -->|Emanates| B
+>   B -->|Pushes Against| C
+>   C -->|Boundary| D
+>   D -->|Transition Zone| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Solar Wind Interaction with Interstellar Medium**
+> *Observe the dynamic interaction between solar wind and interstellar medium.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Interstellar Medium]
+>   B[Solar Wind]
+>   C[Heliopause]
+>   D[Intergalactic Space]
+>   A -->|Denser Plasma| C
+>   B -->|Supersonic Flow| C
+>   C -->|Boundary| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Heliosphere's Dynamic Nature Over Solar Cycles**
+> *Notice how the Heliosphere expands and contracts with solar activity.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> HighActivity
+>   HighActivity : High Solar Activity
+>   HighActivity -->|Expands| HeliopauseExpanded
+>   HeliopauseExpanded --> LowActivity
+>   LowActivity : Low Solar Activity
+>   LowActivity -->|Contracts| HeliopauseContracted
+>   HeliopauseContracted --> [*]
+> ```
 
 # Heliosphere
 

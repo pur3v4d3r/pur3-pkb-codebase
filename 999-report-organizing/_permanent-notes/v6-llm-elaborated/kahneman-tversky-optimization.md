@@ -1,14 +1,13 @@
 ---
-title: "Kahneman-Tversky Optimization"
+title: Kahneman-Tversky Optimization
 aliases:
-  - "Kahneman-Tversky Optimization"
-  - "KTO"
-  - "prospect-theory-based alignment"
-  - "binary preference optimisation"
+  - Kahneman-Tversky Optimization
+  - KTO
+  - prospect-theory-based alignment
+  - binary preference optimisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,99 @@ subdomains:
   - behavioural-economics
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "kahneman-tversky-optimization-synthetic-seed-2026-05-21"
+  - kahneman-tversky-optimization-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Alignment Techniques"
-
+parent-concept: LLM Alignment Techniques
 related:
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — KTO vs DPO Comparison**
+> *Compare KTO and DPO methods for alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Preference Optimization]
+>   B[Kahneman-Tversky Optimization]
+>   A -->|Pairwise Comparisons|
+>   B -->|Binary Desirability Signals|
+> ```
+
+
+> [!abstract] **Diagram 2 — KTO Training Process Flow**
+> *Follow the flow of KTO training process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Outputs]
+>   B[Desirability Labels]
+>   C[Loss Terms Computation]
+>   D[Asymmetric Loss Weighting]
+>   E[Tuned Model]
+>   A -->|Label as Desirable/Undesirable|
+>   B -->|Compute Separate Loss Terms|
+>   C -->|Apply Asymmetric Weights|
+>   D -->
+>   E
+> ```
+
+
+> [!abstract] **Diagram 3 — KTO vs RLHF Comparison**
+> *Compare KTO and RLHF methods for alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Reinforcement Learning from Human Feedback]
+>   B[Kahneman-Tversky Optimization]
+>   A -->|Interactions & Feedback Loops|
+>   B -->|Static Preference Labels|
+> ```
 
 # Kahneman-Tversky Optimization
 

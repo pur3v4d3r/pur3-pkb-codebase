@@ -1,14 +1,13 @@
 ---
-title: "Instruction Tuning"
+title: Instruction Tuning
 aliases:
-  - "Instruction Tuning"
-  - "instruction fine-tuning"
-  - "supervised instruction tuning"
-  - "IFT"
+  - Instruction Tuning
+  - instruction fine-tuning
+  - supervised instruction tuning
+  - IFT
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,113 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "instruction-tuning-synthetic-seed-2026-05-21"
+  - instruction-tuning-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Parameter-Efficient Fine-Tuning]]"
-  - "[[Reinforcement Learning from Human Feedback]]"
-  - "[[Direct Preference Optimization]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
+  - '[[Reinforcement Learning from Human Feedback]]'
+  - '[[Direct Preference Optimization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback]]"
-  - "[[Direct Preference Optimization]]"
+  - '[[Reinforcement Learning from Human Feedback]]'
+  - '[[Direct Preference Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Instruction Tuning Process Flow**
+> *Follow the flow from dataset creation to model fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Curate Dataset]
+>   B[Prepare (instruction, input, output) triples]
+>   C[Fine-Tune Model]
+>   D[Test Performance]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Tuning vs Reinforcement Learning**
+> *Compare the two approaches in terms of learning method and feedback source.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Learning]
+>   B[Reinforcement Learning]
+>   C[Labeled Examples]
+>   D[Environment Feedback]
+>   E[Fine-Tuning Process]
+>   F[Model Actions Over Time]
+>   G[Curated Dataset]
+>   H[Dynamic Environment]
+>   A -->|Uses| C
+>   B -->|Uses| D
+>   A -->|Involves| E
+>   B -->|Involves| F
+>   E -->|With| G
+>   F -->|Over| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Instruction Tuning Dataset Quality Impact**
+> *Observe the relationship between dataset quality and model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Quality Datasets]
+>   B[Low-Quality Datasets]
+>   C[Enhanced Performance]
+>   D[Deteriorated Performance]
+>   E[Fine-Tuned Model]
+>   F[Fine-Tuned Model]
+>   A -->|Results in| C
+>   B -->|Results in| D
+>   C -->|Improves| E
+>   D -->|Impairs| F
+> ```
 
 # Instruction Tuning
 

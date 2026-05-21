@@ -16,7 +16,7 @@ subdomains:
   - neurodevelopment
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - synaptic-pruning-synthetic-seed-2026-04-25
@@ -63,8 +63,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Synaptic Pruning Process Overview**
+> *Follow the sequence from excess synapses to efficient network.*
+>
+> ```mermaid
+> graph TD
+>   A[Excess Synapses]
+>   B[Neuronal Activity]
+>   C[Microglia Identification]
+>   D[Tagging for Phagocytosis]
+>   E[Phagocytosis and Removal]
+>   F[Efficient Network]
+>   A -->|Early Development| B
+>   B -->|Activity-Dependent Pruning| C
+>   C -->|Microglia Signaling| D
+>   D -->|Synapse Tagging| E
+>   E -->|Phagocytosis| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Synaptic Pruning**
+> *Trace the steps from microglia identification to synaptic removal.*
+>
+> ```mermaid
+> graph TD
+>   A[Microglia]
+>   B[Cytokine Release]
+>   C[Synapse Identification]
+>   D[Tagging]
+>   E[Phagocytosis]
+>   F[Digestion]
+>   G[Removal]
+>   A -->|Release Cytokines| B
+>   B -->|Identify Weak Synapses| C
+>   C -->|Mark for Removal| D
+>   D -->|Engulf and Digest| E
+>   E -->|Digest Targeted Structures| F
+>   F -->|Remove Synapse| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Synaptic Pruning Timeline**
+> *Observe the timeline of synaptic pruning from early childhood to adulthood.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Child as C
+>   participant Teenager as T
+>   participant Adult as A
+>   C ->> Microglia: Excess Synapses Produced
+>   Microglia -->> C: Identify and Tag Weak Connections
+>   C ->> Microglia: Phagocytosis Begins
+>   C -->> T: Continued Pruning in Prefrontal Regions
+>   T ->> Microglia: Further Refinement of Networks
+>   T -->> A: Reduced Activity, Minimal Pruning
+> ```
 
 # Synaptic Pruning
 

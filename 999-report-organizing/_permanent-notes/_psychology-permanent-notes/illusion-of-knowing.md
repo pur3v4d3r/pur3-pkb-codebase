@@ -17,7 +17,7 @@ subdomains:
   - reading-comprehension
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - illusion-of-knowing-synthetic-seed-2026-04-25
@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Illusion of Knowing Mechanism**
+> *Follow the flow from ease-of-processing to overconfidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Easy Processing] --> B[Familiarity]
+>   B --> C[Fluency]
+>   C --> D[Overconfidence]
+>   D --> E[Misalignment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Illusion of Knowing vs. Deep Understanding**
+> *Compare the paths leading to overconfidence and true comprehension.*
+>
+> ```mermaid
+> graph TD
+>   A[Material] --> B[Familiarity]
+>   B --> C[Fluency]
+>   C --> D[Overconfidence]
+>   A --> E[Deep Processing]
+>   E --> F[Comprehension]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mitigation Strategies Overview**
+> *Identify the strategies that reduce the Illusion of Knowing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Re-reading] --> B[Overconfidence]
+>   C[Retrieval Practice] --> D[Comprehension]
+>   E[Self-explanation] --> F[Comprehension]
+>   G[Spaced Retrieval] --> H[Comprehension]
+> ```
 
 # Illusion of Knowing
 

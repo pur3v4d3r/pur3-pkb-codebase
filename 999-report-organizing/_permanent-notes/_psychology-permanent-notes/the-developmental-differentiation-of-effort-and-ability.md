@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -67,8 +67,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Effort vs Ability Developmental Timeline**
+> *Follow the timeline from early childhood to adolescence.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Childhood]
+>   B[Middle Childhood]
+>   C[Around Age 10]
+>   D[Late Childhood/Adolescence]
+>   A -->|Fused Effort & Ability| B
+>   B -->|Recognizing Distinction| C
+>   C -->|Effort Indicates Low Ability| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Attribution Process Flowchart**
+> *Trace the cognitive process from experience to attribution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Experience]
+>   B[Heuristic Processing]
+>   C[Simple Attribution]
+>   D[Sophisticated Attribution]
+>   E[Effort & Ability Distinction]
+>   A -->|Stable/Global Factors| B
+>   B -->|Success/Failure| C
+>   C -->|Task Difficulty, Luck| D
+>   D -->|Effort Indicates Low Ability| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Strategies**
+> *Compare strategies for different developmental stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Younger Students]
+>   B[Emphasize Effort]
+>   C[Older Students]
+>   D[Beware of Backfire]
+>   E[Tailored Interventions]
+>   A -->|Intervention| B
+>   C -->|Intervention| D
+>   B -->|Effective| E
+>   D -->|Backfires| E
+> ```
 
 # Developmental Differentiation of Effort and Ability
 

@@ -1,16 +1,15 @@
 ---
-title: "Parametric vs Contextual Knowledge"
+title: Parametric vs Contextual Knowledge
 aliases:
-  - "Parametric vs Contextual Knowledge"
-  - "Parametric vs. Contextual Knowledge"
-  - "parametric knowledge"
-  - "in-weights knowledge"
-  - "contextual knowledge"
-  - "in-context knowledge"
+  - Parametric vs Contextual Knowledge
+  - Parametric vs. Contextual Knowledge
+  - parametric knowledge
+  - in-weights knowledge
+  - contextual knowledge
+  - in-context knowledge
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,86 @@ subdomains:
   - llm-architecture
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "parametric-vs-contextual-knowledge-synthetic-seed-2026-05-20"
+  - parametric-vs-contextual-knowledge-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Knowledge Grounding"
-
+parent-concept: Knowledge Grounding
 related:
-  - "[[Knowledge Grounding]]"
-  - "[[Closed-Book vs Open-Book QA]]"
+  - '[[Knowledge Grounding]]'
+  - '[[Closed-Book vs Open-Book QA]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Knowledge Grounding]]"
+  - '[[Knowledge Grounding]]'
 contrasts-with:
-  - "[[Closed-Book vs Open-Book QA]]"
+  - '[[Closed-Book vs Open-Book QA]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Parametric vs Contextual Knowledge Overview**
+> *Identify the sources of knowledge for LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data] --> B[Parametric]
+>   C[Prompt Input] --> D[Contextual]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Types in Practice**
+> *Understand the practical implications of each knowledge type.*
+>
+> ```mermaid
+> graph TD
+>   A[Fine-Tuning] --> B[Parametric]
+>   C[Prompt Design] --> D[Contextual]
+> ```
+
+
+> [!abstract] **Diagram 3 — Frozen vs Dynamic Knowledge**
+> *Compare the temporal characteristics of parametric and contextual knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Frozen] --> B[Parametric]
+>   C[Dynamic] --> D[Contextual]
+> ```
 
 # Parametric vs Contextual Knowledge
 

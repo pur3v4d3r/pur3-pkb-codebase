@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cognitive-flexibility-synthetic-seed-2026-04-25
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cognitive Flexibility Process Flow**
+> *Follow the steps from disengagement to engagement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Disengage Current Set] --> B(Inhibitory Control)
+>   B --> C(Working Memory Maintenance)
+>   C --> D(Engage New Set)
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Flexibility in Educational Settings**
+> *Trace the path from varied tasks to enhanced adaptability.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Varied Tasks] --> B[Integrate New Info]
+>   B --> C(Adapt and Switch Strategies)
+>   C --> D[Enhanced Adaptability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Flexibility Mechanisms**
+> *Identify the key mechanisms involved in task switching.*
+>
+> ```mermaid
+> graph TD
+>   A(Inhibitory Control) --> B(Working Memory)
+>   B --> C[Task Switching]
+>   D(Response Time/Costs) --> C
+> ```
 
 # Cognitive Flexibility
 

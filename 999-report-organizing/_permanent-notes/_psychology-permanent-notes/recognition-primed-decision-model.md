@@ -18,7 +18,7 @@ subdomains:
   - expertise-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - recognition-primed-decision-model-synthetic-seed-2026-04-25
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RPD Process Flow**
+> *Follow the decision-making process from recognition to commitment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Situation] --> B[Reteive Action]
+>   B --> C[Mental Simulation]
+>   C --> D[Validate Decision]
+>   D --> E[Commit]
+> ```
+
+
+> [!abstract] **Diagram 2 — RPD vs Option-Comparison**
+> *Compare RPD's pattern-matching approach with explicit option-comparison.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognize Situation] --> B[Reteive Action]
+>   C[Option Comparison] --> D[Evaluate Options]
+>   B --> E[Mental Simulation]
+>   D --> F[Select Option]
+>   E --> G[Validate Decision]
+>   F --> H[Commit]
+>   G --> I[Commit]
+> ```
+
+
+> [!abstract] **Diagram 3 — RPD Applications**
+> *Identify the applications of RPD in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Simulations]
+>   C[Military Operations] --> D[Situational Awareness]
+>   E[Emergency Response] --> F[Recognition Skills]
+>   G[MOOCs] --> H[Spaced Retrieval]
+> ```
 
 # Recognition Primed Decision Model
 

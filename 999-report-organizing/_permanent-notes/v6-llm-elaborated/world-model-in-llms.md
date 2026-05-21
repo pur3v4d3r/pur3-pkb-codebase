@@ -1,15 +1,14 @@
 ---
-title: "World Model Hypothesis"
+title: World Model Hypothesis
 aliases:
-  - "World Model Hypothesis"
-  - "World Model in LLMs"
-  - "internal world model"
-  - "implicit world model"
-  - "mental simulation in LLMs"
+  - World Model Hypothesis
+  - World Model in LLMs
+  - internal world model
+  - implicit world model
+  - mental simulation in LLMs
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,117 @@ subdomains:
   - commonsense-reasoning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "world-model-in-llms-synthetic-seed-2026-05-20"
+  - world-model-in-llms-synthetic-seed-2026-05-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Theory"
-
+parent-concept: LLM Theory
 related:
-  - "[[Parametric Knowledge]]"
-  - "[[Contextual Knowledge]]"
-  - "[[Commonsense Reasoning]]"
+  - '[[Parametric Knowledge]]'
+  - '[[Contextual Knowledge]]'
+  - '[[Commonsense Reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Parametric Knowledge]]"
-  - "[[Contextual Knowledge]]"
+  - '[[Parametric Knowledge]]'
+  - '[[Contextual Knowledge]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Commonsense Reasoning]]"
+  - '[[Commonsense Reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — World Model Hypothesis Overview**
+> *Follow the flow from surface-level text to deeper reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Text]
+>   B[Statistical Pattern Matching]
+>   C[Genuine World Modeling]
+>   D[Systematic Reasoning]
+>   E[Causal and Physical Understanding]
+>   F[Tasks Requiring Deep Understanding]
+>   A -->|Pattern Matching| B
+>   B -->|Deeper Reasoning| C
+>   C -->|Structured Planning| D
+>   D -->|Causal/Physical Tasks| E
+>   E -->|Task Performance| F
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Task Capabilities**
+> *Identify tasks where LLMs show structured reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Prompting Strategies]
+>   C[Causal Reasoning]
+>   D[Physical Simulation]
+>   E[Spatial Reasoning]
+>   F[Commonsense Tasks]
+>   A -->|Activate World Model| C
+>   B -->|Complex Scenarios| C
+>   C -->|Tasks Requiring Coherence| D
+>   D -->|Simulation of Events| E
+>   E -->|Basic Physical Reasoning| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Pattern Matching vs World Modeling**
+> *Compare genuine world modeling with pattern matching.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Text]
+>   B[Statistical Patterns]
+>   C[Genuine Internal Representations]
+>   D[Causal and Physical Understanding]
+>   E[Pattern Matching]
+>   F[Systematic Reasoning]
+>   G[Tasks Requiring Deep Understanding]
+>   A -->|Patterns| B
+>   B -->|Surface-Level| E
+>   A -->|Internal Models| C
+>   C -->|Structured Planning| F
+>   E -->|Tasks| G
+>   F -->|Tasks| G
+> ```
 
 # World Model Hypothesis
 

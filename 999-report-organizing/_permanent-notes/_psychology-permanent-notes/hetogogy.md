@@ -18,7 +18,7 @@ subdomains:
   - adult-learning
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hetogogy-synthetic-seed-2026-04-24
@@ -67,8 +67,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hetogogy Process Flow**
+> *Follow the steps from goal setting to evaluation criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal Setting]
+>   B[Content Selection]
+>   C[Method Choice]
+>   D[Evaluation Criteria]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Hetogogy vs Pedagogy Andragogy**
+> *Compare Hetogogy with pedagogy and andragogy on the autonomy continuum.*
+>
+> ```mermaid
+> graph TD
+>   A[Pedagogy]
+>   B[Andragogy]
+>   C[Hetogogy]
+>   A -->|Less Autonomous| B
+>   B -->|More Autonomous| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Hetogogy Mechanism Overview**
+> *Trace the flow from setting goals to evaluating progress.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goals]
+>   B[Select Content]
+>   C[Choose Methods]
+>   D[Evaluate Progress]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # Hetogogy
 

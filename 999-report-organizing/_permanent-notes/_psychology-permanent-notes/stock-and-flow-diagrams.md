@@ -18,7 +18,7 @@ subdomains:
   - modeling
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - stock-and-flow-diagrams-synthetic-seed-2026-05-01
@@ -65,8 +65,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Stocks and Flows Representation**
+> *Identify stocks as rectangles, flows as pipes.*
+>
+> ```mermaid
+> graph TD
+>   A[Population] -->|Birth Rate| B[Inflow]
+>   C[Death Rate] --> D[Outflow]
+>   B --> E[Stock Change]
+>   D --> E
+>   E --> F[New Population]
+> ```
+
+
+> [!abstract] **Diagram 2 — System Dynamics Workflow**
+> *Follow the steps to create a Stock and Flow Diagram.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Stocks] --> B[Determine Flows]
+>   B --> C[Evaluate Units]
+>   C --> D[Construct Diagram]
+> ```
 
 # Stock and Flow Diagrams
 

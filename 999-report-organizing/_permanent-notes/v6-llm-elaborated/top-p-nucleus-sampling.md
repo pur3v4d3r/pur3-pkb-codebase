@@ -1,14 +1,13 @@
 ---
-title: "Top-P Nucleus Sampling"
+title: Top-P Nucleus Sampling
 aliases:
-  - "Top-P Nucleus Sampling"
-  - "nucleus sampling"
-  - "top-p sampling"
-  - "cumulative probability sampling"
+  - Top-P Nucleus Sampling
+  - nucleus sampling
+  - top-p sampling
+  - cumulative probability sampling
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,104 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "top-p-nucleus-sampling-synthetic-seed-2026-05-20"
+  - top-p-nucleus-sampling-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Strategies"
-
+parent-concept: LLM Decoding Strategies
 related:
-  - "[[Temperature Sampling]]"
-  - "[[Top-K Sampling]]"
-  - "[[LLM Generation]]"
+  - '[[Temperature Sampling]]'
+  - '[[Top-K Sampling]]'
+  - '[[LLM Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Temperature Sampling]]"
+  - '[[Temperature Sampling]]'
 contrasts-with:
-  - "[[Top-K Sampling]]"
+  - '[[Top-K Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM Generation]]"
+  - '[[LLM Generation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Top-P Sampling Process Flow**
+> *Follow the steps from token probability sorting to renormalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Sort Tokens by Probability]
+>   B[Cumulative Sum Probabilities]
+>   C[Determine Threshold p]
+>   D[Identify Subset]
+>   E[Renormalize Subset]
+>   F[Sampling from Adjusted Distribution]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Fixed Top-K Sampling**
+> *Compare the static nature of top-k with the dynamic threshold p in Top-P.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-K]
+>   B[Fixed Candidate Set Size]
+>   C[Top-P]
+>   D[Dynamically Adjusted Candidate Set]
+>   A -->|Static Method| B
+>   C -->|Dynamic Threshold| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Token Pool Adjustment Based on Confidence**
+> *Observe how the nucleus size varies with model confidence.*
+>
+> ```mermaid
+> graph TD
+>   A[High Confidence]
+>   B[Small Nucleus Size]
+>   C[Low Confidence]
+>   D[Larger Nucleus Size]
+>   A -->|Peaky Distribution| B
+>   C -->|Evenly Distributed Probabilities| D
+> ```
 
 # Top-P Nucleus Sampling
 

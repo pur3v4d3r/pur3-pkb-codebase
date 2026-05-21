@@ -18,7 +18,7 @@ subdomains:
   - higher-education
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - competency-based-education-synthetic-seed-2026-04-26
@@ -66,8 +66,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Competency Based Education Flowchart**
+> *Follow the progression from competency definition to assessment and feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Competencies]
+>   B[Design Assessments]
+>   C[Provide Feedback]
+>   D[Adjust Learning Pathways]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — CBE vs Traditional Models Comparison**
+> *Compare the key differences between Competency Based Education and traditional models.*
+>
+> ```mermaid
+> graph TD
+>   A[Competency Based Education]
+>   B[Traditional Models]
+>   A1[Progression by Mastery]
+>   B1[Progression by Time]
+>   A2[Decoupled Credentialing]
+>   B2[Coupled Credentialing]
+>   A3[Personalized Pathways]
+>   B3[Uniform Pace]
+>   A4[Focus on Outcomes]
+>   B4[Focused on Seat-Time]
+>   A --> A1
+>   A --> A2
+>   A --> A3
+>   A --> A4
+>   B --> B1
+>   B --> B2
+>   B --> B3
+>   B --> B4
+> ```
+
+
+> [!abstract] **Diagram 3 — CBE Learning Cycle Diagram**
+> *Trace the cycle of assessment and feedback in Competency Based Education.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Assess
+>   Assess --> Feedback
+>   Feedback --> Reflect
+>   Reflect --> Adjust
+>   Adjust --> Assess
+> ```
 
 # Competency Based Education
 

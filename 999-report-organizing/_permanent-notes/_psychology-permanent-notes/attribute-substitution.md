@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -70,8 +70,34 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Attribute Substitution Process Flow**
+> *Follow the flow from complex question to heuristic answer.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Question] --> B[Heuristic Search]
+>   B --> C[Simpler Heuristic]
+>   C --> D[Answer Heuristic]
+> ```
+
+
+> [!abstract] **Diagram 2 — System 1 vs System 2 Processing**
+> *Compare the processing paths for Type 1 and Type 2 systems.*
+>
+> ```mermaid
+> graph TD
+>   A[System 1] --> B[Quick Answer]
+>   C[System 2] --> D[Slow, Accurate Answer]
+> ```
 
 # Attribute Substitution
 

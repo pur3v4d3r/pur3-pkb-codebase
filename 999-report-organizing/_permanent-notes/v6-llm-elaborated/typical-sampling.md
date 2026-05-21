@@ -1,14 +1,13 @@
 ---
-title: "Typical Sampling"
+title: Typical Sampling
 aliases:
-  - "Typical Sampling"
-  - "locally typical sampling"
-  - "entropy-based sampling"
-  - "typicality sampling"
+  - Typical Sampling
+  - locally typical sampling
+  - entropy-based sampling
+  - typicality sampling
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,101 @@ subdomains:
   - generative-models
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "typical-sampling-synthetic-seed-2026-05-21"
+  - typical-sampling-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Techniques"
-
+parent-concept: LLM Decoding Techniques
 related:
-  - "[[Information Entropy]]"
-  - "[[Top-P Sampling]]"
+  - '[[Information Entropy]]'
+  - '[[Top-P Sampling]]'
 prerequisites:
-  - "[[Information Entropy]]"
+  - '[[Information Entropy]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Top-P Sampling]]"
+  - '[[Top-P Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Typical Sampling Process Flow**
+> *Follow the steps from token selection to output generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Rank tokens by log-probability proximity to negative entropy]
+>   B --> C[Identify typical tokens]
+>   C --> D[Renormalize probabilities for selected tokens]
+>   D --> E[Sample a token]
+>   E --> F[Generate output]
+>   F --> G[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Top-P Sampling**
+> *Compare the focus of typical sampling and top-p sampling on token selection.*
+>
+> ```mermaid
+> graph TD
+>   A[Typical Sampling]
+>   B[Top-P Sampling]
+>   A -->|Selects tokens based on log-probability proximity to negative entropy|
+>   B -->|Focuses on highest cumulative probability subset|
+>   A --> C[Ensures coherence and naturalness]
+>   B --> D[Aims for diversity and novelty]
+> ```
+
+
+> [!abstract] **Diagram 3 — Typical Sampling Mechanism Overview**
+> *Understand the steps involved in typical sampling's mechanism.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Compute log-probabilities for all tokens]
+>   C[Determine negative entropy of distribution]
+>   D[Rank tokens by proximity to negative entropy]
+>   E[Select typical tokens]
+>   F[Renormalize probabilities]
+>   G[Sample a token]
+>   H[Generate output sequence]
+> ```
 
 # Typical Sampling
 

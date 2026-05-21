@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - automaticity-synthetic-seed-2026-04-24
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Automaticity Process Flow**
+> *Follow the progression from schema compilation to automatic task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Schema Compilation] --> B[Practice]
+>   B --> C[Automation]
+>   C --> D[Effortless Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Automaticity vs Working Memory**
+> *Observe how automatic processes reduce working memory load.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Automatic Processes] -->|Reduces Load| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Automaticity in Expert Performance**
+> *Trace the path from novice to expert through automatic task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novice] --> B[Intensive Practice]
+>   B --> C[Automatic Sub-tasks]
+>   C --> D[Expert]
+> ```
 
 # Automaticity
 

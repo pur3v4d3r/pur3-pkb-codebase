@@ -21,7 +21,7 @@ subdomains:
   - structured-prediction
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - grammar-constrained-decoding-synthetic-seed-2026-05-20
@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Grammar-Constrained Decoding Process Flow**
+> *Follow the flow from input to output, noting where grammar constraints are applied.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Token Sampling]
+>   B --> C[Logit Masking]
+>   C --> D[Grammar Validation]
+>   D --> E[Output Token]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Logit Masking**
+> *Observe how logits are masked based on grammar rules to ensure syntactic validity.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Sampling] --> B[Logits]
+>   B --> C{Grammar Rules}
+>   C -- Violates Grammar --> D[Maske Logit]
+>   C -- Consistent with Grammar --> E[Keep Logit]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples in Practice**
+> *Identify the applications where syntactic validity is crucial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Generate Correct Sentences]
+>   C[Code Generation] --> D[Ensure Syntactically Correct Code]
+> ```
 
 # Grammar-Constrained Decoding
 

@@ -18,7 +18,7 @@ subdomains:
   - source-monitoring-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - source-amnesia-synthetic-seed-2026-04-25
@@ -65,8 +65,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Memory Systems Interaction**
+> *Follow the flow from working memory to long-term storage.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Semantic Memory]
+>   C[Episodic Memory]
+>   D[source monitoring]
+>   E[Source Amnesia]
+>   A -->|processes and integrates| B & C
+>   B & C -->|stores content| D
+>   D -->|tracks origin| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Source Amnesia**
+> *Trace the steps from encoding to recall and misattribution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding]
+>   B[Working Memory]
+>   C[source monitoring]
+>   D[Long-term Storage]
+>   E[Recall]
+>   F[Misattribution]
+>   A -->|processes content| B
+>   B -->|tracks origin| C
+>   C -->|stores content and source| D
+>   D -->|retrieves content| E
+>   E -->|fails to retrieve source| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Factors Influencing Source Amnesia**
+> *Identify the factors that can lead to weaker source connections.*
+>
+> ```mermaid
+> graph TD
+>   A[Divided Attention]
+>   B[High Similarity]
+>   C[Delayed Recall]
+>   D[source monitoring failure]
+>   E[source amnesia]
+>   A -->|weakens connection| D
+>   B -->|confuses origin| D
+>   C -->|reduces accuracy| D
+>   D -->|leads to| E
+> ```
 
 # Source Amnesia
 

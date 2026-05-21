@@ -18,7 +18,7 @@ subdomains:
   - neuroscience
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - memory-science-synthetic-seed-2026-05-01
@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Memory Process Flowchart**
+> *Follow the flow from encoding to retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding] --> B[Storage]
+>   B --> C[Transformation]
+>   C --> D[Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Systems Hierarchy**
+> *Navigate the hierarchy from sensory to procedural memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensory] --> B[Working]
+>   B --> C[Episodic]
+>   C --> D[Semantic]
+>   B --> E[Procedural]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Consolidation Process**
+> *Trace the consolidation process during sleep.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> S1: Encoding
+>   S1 --> S2: Storage
+>   S2 --> S3: Transformation
+>   S3 --> S4: Retrieval
+>   S4 --> S5: Sleep (SWS)
+>   S5 --> S6: Replay and Reconsolidation
+>   S6 --> [*]
+> ```
 
 # Memory Science
 

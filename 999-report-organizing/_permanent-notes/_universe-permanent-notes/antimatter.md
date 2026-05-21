@@ -17,7 +17,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - antimatter-synthetic-seed-2026-05-14
@@ -64,8 +64,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Antimatter vs Matter Properties**
+> *Compare the properties of particles and their antiparticles.*
+>
+> ```mermaid
+> graph TD
+>   A[Electron]
+>   B[Positron]
+>   C[Proton]
+>   D[Antiproton]
+>   E[Neutron]
+>   F[Antineutron]
+>   A -->|Opposite Charge| B
+>   C -->|Opposite Charge| D
+>   E -->|No Net Charge| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Annihilation Process Flowchart**
+> *Follow the steps of matter-antimatter annihilation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Particle]
+>   B[Antiparticle]
+>   C[Contact]
+>   D[E=mc² Energy Release]
+>   E[Annihilation]
+>   A -->|Meets| C
+>   B -->|Meets| C
+>   C -->|Converts Mass to Energy| D
+>   D -->|Conserves Energy and Momentum| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Key Figures Timeline**
+> *Track the contributions of key figures in antimatter research.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Dirac as D
+>   participant Anderson as A
+>   D->>A: Predicts antiparticles (1928)
+>   A->>D: Discovers positrons (1932)
+> ```
 
 # Antimatter
 

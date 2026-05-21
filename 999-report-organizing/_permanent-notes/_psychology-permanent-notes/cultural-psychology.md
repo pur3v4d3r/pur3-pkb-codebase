@@ -17,7 +17,7 @@ subdomains:
   - anthropology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cultural-psychology-synthetic-seed-2026-04-25
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cultural Psychology Overview**
+> *Follow the flow from culture to mind and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Culture] --> B[Mind]
+>   B --> C[Culture]
+>   A --> D[Norms & Values]
+>   D --> E[Cognitive Processes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Construal in Cultures**
+> *Compare individualistic and collectivistic self-construal.*
+>
+> ```mermaid
+> graph TD
+>   A[Individualistic] --> B[Independent Self]
+>   C[Collectivistic] --> D[Group-Defined Self]
+>   B --> E[Cultural Norms]
+>   D --> F[Cultural Practices]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Processing Styles**
+> *Analyze the cognitive styles in individualistic vs collectivistic cultures.*
+>
+> ```mermaid
+> graph TD
+>   A[Individualistic] --> B[Analytic]
+>   C[Collectivistic] --> D[Holistic]
+>   B --> E[Focus on Details]
+>   D --> F[Contextual Understanding]
+> ```
 
 # Cultural Psychology
 

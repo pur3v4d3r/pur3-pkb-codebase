@@ -18,7 +18,7 @@ subdomains:
   - cognitive-neuroscience
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - neuroscience-of-learning-synthetic-seed-2026-05-01
@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Neural Mechanisms of Learning**
+> *Follow the flow from encoding to consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding] --> B[Synaptic Plasticity]
+>   B --> C[Prediction-Error Driven]
+>   C --> D[Memory Consolidation]
+>   D --> E[Sleep Replay]
+> ```
+
+
+> [!abstract] **Diagram 2 — Neuromodulator Influence on Learning**
+> *Trace the impact of dopamine on learning processes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning] --> B[Dopamine]
+>   B --> C[Prediction-Error Driven Plasticity]
+>   C --> D[Motivation and Reward Processing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Sleep-Dependent Consolidation Process**
+> *Observe the stages of memory consolidation during sleep.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Encoding
+>   Encoding --> Replay
+>   Replay --> Stabilization
+>   Stabilization --> LongTermMemory
+> ```
 
 # Neuroscience of Learning
 

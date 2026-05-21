@@ -17,7 +17,7 @@ subdomains:
   - social-cognition
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pluralistic-ignorance-synthetic-seed-2026-05-01
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Pluralistic Ignorance Feedback Loop**
+> *Follow the cycle to see how norms persist.*
+>
+> ```mermaid
+> graph TD
+>   A[Private Rejection] --> B[Misperception]
+>   B --> C[Silence as Agreement]
+>   C --> D[No Challenge]
+>   D --> E[Norm Persistence]
+>   E --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Pluralistic Ignorance vs False Consensus Effect**
+> *Compare the focus of each phenomenon.*
+>
+> ```mermaid
+> classDiagram
+>   class Pluralistic_Ignorance{
+> - Norms within a group
+> + Misperception of others' acceptance}
+>   class False_Consensus_Effect{
+> - Overestimating agreement with own beliefs
+> + Not specific to norms}
+> ```
+
+
+> [!abstract] **Diagram 3 — Pluralistic Ignorance Mechanism Flow**
+> *Trace the steps from observation to norm persistence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Others' Silence] --> B[Interpret as Agreement]
+>   B --> C[Assume Norm is Widely Accepted]
+>   C --> D[No One Challenges the Norm]
+>   D --> E[Norm Persists]
+> ```
 
 # Pluralistic Ignorance
 

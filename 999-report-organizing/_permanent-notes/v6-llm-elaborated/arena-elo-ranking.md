@@ -1,15 +1,14 @@
 ---
-title: "Arena Elo Ranking"
+title: Arena Elo Ranking
 aliases:
-  - "Arena Elo Ranking"
-  - "Chatbot Arena"
-  - "Elo ranking for LLMs"
-  - "LMSYS Arena"
-  - "crowdsourced LLM ranking"
+  - Arena Elo Ranking
+  - Chatbot Arena
+  - Elo ranking for LLMs
+  - LMSYS Arena
+  - crowdsourced LLM ranking
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,93 @@ subdomains:
   - competitive-ranking
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "arena-elo-ranking-synthetic-seed-2026-05-21"
+  - arena-elo-ranking-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Human Preference Evaluation]]"
-  - "[[Model-Grounded Evaluation]]"
+  - '[[Human Preference Evaluation]]'
+  - '[[Model-Grounded Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Human Preference Evaluation]]"
-  - "[[Model-Grounded Evaluation]]"
+  - '[[Human Preference Evaluation]]'
+  - '[[Model-Grounded Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Arena Elo Ranking Process Flow**
+> *Follow the flow from user interaction to model ranking update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Interaction] --> B[Voting]
+>   B --> C[Elo Update Formula]
+>   C --> D[Ratings Adjustment]
+>   D --> E[Ranking Refinement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elo Rating System Overview**
+> *Trace the relationship between model performance and Elo score updates.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Model Ratings] --> B[User Votes]
+>   B --> C[Elo Score Update]
+>   C --> D[Ratings Adjustment]
+>   D --> E[Updated Model Rankings]
+> ```
+
+
+> [!abstract] **Diagram 3 — Crowdsourced vs Automated Benchmarks**
+> *Compare the two evaluation methods based on their data sources.*
+>
+> ```mermaid
+> graph TD
+>   A[Crowdsourced Evaluation] --> B[Human Interactions]
+>   C[Automated Benchmarking] --> D[Pre-designed Test Cases]
+>   E[Real User Preferences] -.-> F[Eco-valid Measure]
+>   G[Fixed Scenarios] -.-> H[Limited Validity]
+> ```
 
 # Arena Elo Ranking
 

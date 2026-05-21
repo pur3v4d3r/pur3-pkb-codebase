@@ -18,7 +18,7 @@ subdomains:
   - dialectic
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - appeal-to-ignorance-synthetic-seed-2026-05-12
@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Appeal To Ignorance Fallacy Structure**
+> *Follow the flow to understand how ignorance is treated as evidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Claim] --> B[Absence of Evidence]
+>   B --> C[Treat Absence As Proof]
+>   C --> D[Fallacious Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking in Fallacy**
+> *Compare the paths of reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Claim] --> B1(Reactive)
+>   A --> B2(Reflective)
+>   B1 --> C1[Fallacious Conclusion]
+>   B2 --> D1[Evaluate Evidence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Type I vs Type II Errors in Fallacy**
+> *Identify the error types based on how ignorance is treated.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> S1[Claim]
+>   S1 --> S2: Absence of Evidence Against Claim?
+>   S2 --> S3[Type I Error]
+>   S2 --> S4[Type II Error]
+>   S3 --> [*]
+>   S4 --> [*]
+> ```
 
 # Appeal To Ignorance
 

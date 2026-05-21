@@ -1,15 +1,14 @@
 ---
-title: "Proximal Policy Optimization for Language Models"
+title: Proximal Policy Optimization for Language Models
 aliases:
-  - "Proximal Policy Optimization for Language Models"
-  - "Proximal Policy Optimization for LLMs"
-  - "PPO for LLMs"
-  - "LLM PPO"
-  - "policy gradient for language models"
+  - Proximal Policy Optimization for Language Models
+  - Proximal Policy Optimization for LLMs
+  - PPO for LLMs
+  - LLM PPO
+  - policy gradient for language models
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,95 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "proximal-policy-optimization-for-llms-synthetic-seed-2026-05-21"
+  - proximal-policy-optimization-for-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning Algorithms"
-
+parent-concept: Reinforcement Learning Algorithms
 related:
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
+  - '[[Direct Preference Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PPO Process Flow for Language Models**
+> *Follow the iterative process from policy update to reward feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policy Update] --> B[Reward Model]
+>   B --> C[KL Divergence Check]
+>   C --> D[Trust Region Adjustment]
+>   D --> E[New Policy]
+>   E --> F[Generate Outputs]
+>   F --> G[Rewards]
+>   G --> H[Iterate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token-Level Credit Assignment in PPO**
+> *Trace the flow of token actions and their corresponding rewards.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generated Token] --> B[Reward Model]
+>   B --> C[Sequence Reward]
+>   C --> D[KL Penalty Calculation]
+>   D --> E[Policy Update]
+> ```
+
+
+> [!abstract] **Diagram 3 — PPO Training Workflow Overview**
+> *Identify the four forward passes required for each training step.*
+>
+> ```mermaid
+> graph TD
+>   A[Policy Forward Pass] --> B[Reference Policy]
+>   B --> C[Reward Model Forward Pass]
+>   C --> D[Value Model Forward Pass]
+>   D --> E[KL Penalty Calculation]
+> ```
 
 # Proximal Policy Optimization for Language Models
 

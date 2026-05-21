@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — 4C/ID Components Overview**
+> *Identify the four main components of the model.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Tasks] --> B[Supportive Information]
+>   A --> C[Procedural Information]
+>   A --> D[Part-Task Practice]
+> ```
+
+
+> [!abstract] **Diagram 2 — 4C/ID Instructional Flow**
+> *Follow the sequence of instructional steps in 4C/ID.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant L as Learning Tasks
+>   participant S as Supportive Information
+>   participant P as Procedural Information
+>   participant PT as Part-Task Practice
+>   L->>S: Introduce Worked Examples
+>   L->>P: Provide Step-by-Step Guidance
+>   L->>PT: Focus on Individual Components
+> ```
+
+
+> [!abstract] **Diagram 3 — 4C/ID Learning Process**
+> *Understand the integration of schema construction and automation.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema Construction] --> B[Supportive Information]
+>   C[Schema Automation] --> D[Procedural Information]
+>   E[Whole-Task Instruction] --> F[Part-Task Practice]
+>   A -->|Non-Recurrent Aspects| G[Integration]
+>   C -->|Recurrent Components| G
+>   B --> G
+>   D --> G
+>   F --> G
+> ```
 
 # Four-Component Instructional Design (4C/ID)
 

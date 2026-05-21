@@ -18,7 +18,7 @@ subdomains:
   - dialectic
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - begging-the-question-synthetic-seed-2026-05-12
@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Begging The Question Fallacy Structure**
+> *Identify the circular relationship between premise and conclusion.*
+>
+> ```mermaid
+> graph TD
+>   A[Conclusion] --> B[Premise]
+>   B --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Common Misuse vs Technical Fallacy**
+> *Notice the difference between everyday usage and formal logic.*
+>
+> ```mermaid
+> graph TD
+>   A[Everyday Usage] -->|"raises question"| B[Context]
+>   C[Technical Fallacy] -->|"circular reasoning"| D[Formal Logic]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Observe the contrast in argument evaluation approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive] -->|"accepts premises quickly"| B[Conclusion]
+>   C[Reflective] -->|"questions assumptions critically"| D[Justified Conclusion]
+> ```
 
 # Begging The Question
 

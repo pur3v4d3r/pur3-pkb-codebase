@@ -17,7 +17,7 @@ subdomains:
   - metaphysics
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - philosophy-of-mind-synthetic-seed-2026-05-01
@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Philosophy of Mind Overview**
+> *Identify the main philosophical positions and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Identity Theory] --> B(Functionalism)
+>   C[Dualism] --> D(Property Dualism)
+>   E[Eliminativism] --> F(Panpsychism)
+> ```
+
+
+> [!abstract] **Diagram 2 — Dualism vs Physicalism**
+> *Understand the key distinctions between dualistic and physicalist stances.*
+>
+> ```mermaid
+> graph TD
+>   A[Dualism] --> B[Non-Physical Mind]
+>   C[Physicalism] --> D[Brain States]
+> ```
+
+
+> [!abstract] **Diagram 3 — Philosophical Influence on AI Design**
+> *See how different philosophical theories impact AI development approaches.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Designer as D
+>   participant Eliminativist as E
+>   participant Functionalism as F
+>   D->>E: Reject belief-desire frameworks
+>   D->>F: Mimic cognitive functions
+> ```
 
 # Philosophy of Mind
 

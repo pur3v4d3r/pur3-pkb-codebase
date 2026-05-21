@@ -18,7 +18,7 @@ subdomains:
   - rhetoric
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - premise-acceptability-synthetic-seed-2026-05-12
@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Premise Acceptability Flowchart**
+> *Follow the steps to evaluate premise acceptability.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B[Evaluate Context]
+>   B --> C[Consider Evidence]
+>   C --> D[Audience Perspective]
+>   D --> E[Reasonable Acceptance?]
+>   E -->|Yes| F[Accept Premise]
+>   E -->|No| G[Reject Premise]
+>   F --> H[End]
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — Premise Acceptability vs Truth Evaluation**
+> *Compare the criteria for premise acceptability and strict truth evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Premise Acceptability]
+>   B[Truth Evaluation]
+>   A -->|Reasonable Acceptance| C[Audience Context]
+>   B -->|Absolute Proof| D[Evidence Verification]
+>   A -->|Public Criteria| E[Fairness]
+>   B -->|Individual Assertion| F[Subjectivity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between reflective and reactive thinking in evaluating premises.*
+>
+> ```mermaid
+> graph TD
+>   A[Premise Acceptability]
+>   B[Reflective Thinking]
+>   C[Reactive Thinking]
+>   A -->|Critical Evaluation| B
+>   A -->|Immediate Response| C
+> ```
 
 # Premise Acceptability
 

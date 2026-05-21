@@ -17,7 +17,7 @@ subdomains:
   - learning-and-memory
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - synaptic-plasticity-synthetic-seed-2026-05-01
@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — LTP vs LTD Process Flow**
+> *Follow the arrows to see how LTP and LTD occur.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Increased Activity] --> B[LTP]
+>   C[Decreased Activity] --> D[LTD]
+> ```
+
+
+> [!abstract] **Diagram 2 — Synaptic Plasticity Mechanism Overview**
+> *Trace the steps from activity to synaptic strength change.*
+>
+> ```mermaid
+> graph TD
+>   A[Activity]
+>   B[NMDA Receptor Activation]
+>   C[Calcium Influx]
+>   D[AMPA Insertion/Removal]
+>   E[Synaptic Strength Change]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Strategies and Synaptic Plasticity**
+> *Compare how different learning strategies affect synaptic plasticity.*
+>
+> ```mermaid
+> graph TD
+>   A[Spaced Repetition] --> B[LTP]
+>   C[Passive Study] --> D[LTD]
+>   E[Cramming] --> F[LTD]
+> ```
 
 # Synaptic Plasticity
 

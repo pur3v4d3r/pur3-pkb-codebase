@@ -1,13 +1,12 @@
 ---
-title: "Prompt Ensembling"
+title: Prompt Ensembling
 aliases:
-  - "Prompt Ensembling"
-  - "multi-prompt ensembling"
-  - "prompt aggregation"
+  - Prompt Ensembling
+  - multi-prompt ensembling
+  - prompt aggregation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,96 @@ subdomains:
   - robustness
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-ensembling-synthetic-seed-2026-05-20"
+  - prompt-ensembling-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Paraphrasing]]"
-  - "[[Self-Consistency Sampling]]"
+  - '[[Prompt Paraphrasing]]'
+  - '[[Self-Consistency Sampling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Paraphrasing]]"
+  - '[[Prompt Paraphrasing]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Self-Consistency Sampling]]"
+  - '[[Self-Consistency Sampling]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Ensembling Process Flow**
+> *Follow the flow from input to aggregated output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Generate Prompt1]
+>   A --> C[Generate Prompt2]
+>   B --> D[Process Prompt1]
+>   C --> E[Process Prompt2]
+>   D --> F[Aggregate Results]
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Diversity and Error Decorrelation**
+> *Observe how different prompts reduce error correlation.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt1] --> B[Error1]
+>   C[Prompt2] --> D[Error2]
+>   E[Prompt3] --> F[Error3]
+>   G[Different Prompt Aspects] --> H[Decorrelated Errors]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Ensembling vs Boosting Comparison**
+> *Compare the principles of Prompt Ensembling and boosting.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P as PromptEnsemble
+>   participant B as Boosting
+>   P->>P: Generate diverse prompts
+>   P-->>P: Aggregate results
+>   B->>B: Train model iteratively
+>   B-->>B: Correct errors from previous iterations
+> ```
 
 # Prompt Ensembling
 

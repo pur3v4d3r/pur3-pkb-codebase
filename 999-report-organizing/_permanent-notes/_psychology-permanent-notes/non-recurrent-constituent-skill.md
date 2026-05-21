@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -69,8 +69,40 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Non-Recurrent Skill Process Flow**
+> *Follow the steps from problem instance to schema construction.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Instance] --> B[Elaboration]
+>   B --> C[Induction]
+>   C --> D[Schemas]
+> ```
+
+
+> [!abstract] **Diagram 2 — Skill Type Comparison Table**
+> *Compare non-recurrent skills with recurrent ones based on execution variability.*
+>
+> ```mermaid
+> classDiagram
+>   class NonRecurrent {
+>     +Adapt to context
+>     -Follow consistent rules
+>   }
+>   class Recurrent {
+>     -Adapt to context
+>     +Follow consistent rules
+>   }
+> ```
 
 # Non-Recurrent Constituent Skill
 

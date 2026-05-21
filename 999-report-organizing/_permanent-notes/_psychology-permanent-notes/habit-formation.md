@@ -18,7 +18,7 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - habit-formation-synthetic-seed-2026-04-24
@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Habit Formation Process Flow**
+> *Follow the stages from intention to automaticity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal-Intention] --> B[Implementation Intention]
+>   B --> C[Repeated Execution]
+>   C --> D[Automatic Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Type Processing Transition**
+> *Track the shift from conscious to automatic processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A(Type-2) --> B[Conscious Deliberation]
+>   B --> C(Type-1)
+>   C --> D[Automaticity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Habit Formation Applications**
+> *Identify the applications in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Learning Strategies)
+>   C(Personal Development) --> D(Healthy Routines)
+>   E(Organizational Behavior) --> F(Efficient Work Practices)
+> ```
 
 # Habit Formation
 

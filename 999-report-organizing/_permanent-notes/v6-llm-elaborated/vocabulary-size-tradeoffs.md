@@ -1,14 +1,13 @@
 ---
-title: "Vocabulary Size Tradeoffs"
+title: Vocabulary Size Tradeoffs
 aliases:
-  - "Vocabulary Size Tradeoffs"
-  - "tokenizer vocabulary size"
-  - "vocab tradeoffs"
-  - "vocabulary selection"
+  - Vocabulary Size Tradeoffs
+  - tokenizer vocabulary size
+  - vocab tradeoffs
+  - vocabulary selection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,91 @@ subdomains:
   - resource-efficient-ai
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "vocabulary-size-tradeoffs-synthetic-seed-2026-05-20"
+  - vocabulary-size-tradeoffs-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "NLP Tokenization"
-
+parent-concept: NLP Tokenization
 related:
-  - "[[Byte-Pair Encoding]]"
-  - "[[Subword Tokenization]]"
-  - "[[Cross-Lingual Tokenization]]"
+  - '[[Byte-Pair Encoding]]'
+  - '[[Subword Tokenization]]'
+  - '[[Cross-Lingual Tokenization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Byte-Pair Encoding]]"
+  - '[[Byte-Pair Encoding]]'
 broader:
-  - "[[Subword Tokenization]]"
+  - '[[Subword Tokenization]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Cross-Lingual Tokenization]]"
+  - '[[Cross-Lingual Tokenization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Vocabulary Size Tradeoffs Overview**
+> *Identify the tradeoff between larger and smaller vocabularies.*
+>
+> ```mermaid
+> graph TD
+>   A[Smaller Vocabulary]
+>   B[Larger Vocabulary]
+>   A -->|Simpler Model, Longer Sequences| C[Increased Cross-Attention Costs]
+>   B -->|Better Representation, Shorter Sequences| D[Harder Training, Larger Embedding Matrix]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Computational Resources**
+> *Understand the impact of vocabulary size on computational resources.*
+>
+> ```mermaid
+> graph TD
+>   A[Vocabulary Size]
+>   B[Smaller Vocabulary] -->|Simpler Model, Reduced Embedding Matrix| C[Lower Training Complexity]
+>   D[Larger Vocabulary] -->|Better Representation, Increased Embedding Matrix| E[Higer Training Complexity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Performance Tradeoffs**
+> *Analyze the tradeoff between model performance and vocabulary size.*
+>
+> ```mermaid
+> graph TD
+>   A[Vocabulary Size]
+>   B[Smaller Vocabulary] -->|Simpler Model, Longer Sequences| C[Better Cross-Lingual Coverage]
+>   D[Larger Vocabulary] -->|Better Representation, Shorter Sequences| E[Higer Training Complexity]
+> ```
 
 # Vocabulary Size Tradeoffs
 

@@ -21,7 +21,7 @@ subdomains:
   - ai-augmented-programming
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-with-copilot-foundational-report-2026-04-19
@@ -69,8 +69,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — GitHub Copilot Workflow Overview**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Developer Input] --> B[Copilot Context Analysis]
+>   B --> C[Code Suggestion Generation]
+>   C --> D[Inline Suggestions Displayed]
+>   D --> E[Developer Acceptance/Modification]
+> ```
+
+
+> [!abstract] **Diagram 2 — GitHub Copilot Interfaces Overview**
+> *Identify the two main interfaces and their functions.*
+>
+> ```mermaid
+> graph TD
+>   A[Inline Suggestions] -->|Real-time Code Completion| B[Developer Workflow]
+>   C[Copilot Chat] -->|Interactive Coding Assistance| D[Developer Workflow]
+> ```
 
 # GitHub Copilot
 

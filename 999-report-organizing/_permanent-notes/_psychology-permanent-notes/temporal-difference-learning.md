@@ -17,7 +17,7 @@ subdomains:
   - reinforcement-learning
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - temporal-difference-learning-synthetic-seed-2026-05-01
@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — TD Learning Process Flow**
+> *Follow the flow from prediction to update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Prediction]
+>   B --> C[Actual Outcome]
+>   C --> D[T-Difference Error]
+>   D --> E[Update Value Estimate]
+>   E --> F[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — TD Learning vs Model-Based RL**
+> *Compare the update mechanisms of TD and model-based approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[TD Learning] --> B[Prediction Update]
+>   C[Model-Based RL] --> D[Environment Modeling]
+>   B --> E[Immediate Feedback]
+>   D --> F[Terminal Outcome]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reactive vs Reflective Thinking**
+> *Identify the differences in thinking styles.*
+>
+> ```mermaid
+> graph TD
+>   A[TD Learning] --> B[Immediate Feedback]
+>   C[Reflective Thinking] --> D[Past Review]
+>   B --> E[Faster Adaptation]
+>   D --> F[Long-Term Benefits]
+> ```
 
 # Temporal-Difference Learning
 

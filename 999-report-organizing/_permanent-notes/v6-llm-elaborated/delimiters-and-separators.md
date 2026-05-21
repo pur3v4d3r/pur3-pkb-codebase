@@ -19,7 +19,7 @@ subdomains:
   - llm-inference
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - delimiters-and-separators-synthetic-seed-2026-05-20
@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Delimiter Functionality Overview**
+> *Follow the flow from input to output, noting how delimiters guide processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Parse Delimiter]
+>   B --> C[Extract Content]
+>   C --> D[Process Data]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Delimiter Types and Usage**
+> *Identify the different types of delimiters used in prompt engineering.*
+>
+> ```mermaid
+> graph TD
+>   A[XML Tags] --> B[<|Triple Backticks|>]
+>   C[Dashes] --> D[Capitalized Labels]
+> ```
+
+
+> [!abstract] **Diagram 3 — Security and Clarity Benefits**
+> *Trace the path from input to output, observing how delimiters enhance clarity and security.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Delimiter Parsing]
+>   B --> C[Content Extraction]
+>   C --> D[Model Processing]
+>   D --> E[Clear Output]
+> ```
 
 # Delimiters and Separators
 

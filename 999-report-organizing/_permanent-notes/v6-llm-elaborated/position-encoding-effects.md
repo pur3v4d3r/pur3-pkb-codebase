@@ -1,14 +1,13 @@
 ---
-title: "Position Encoding Effects"
+title: Position Encoding Effects
 aliases:
-  - "Position Encoding Effects"
-  - "positional encoding"
-  - "position bias"
-  - "context position effects"
+  - Position Encoding Effects
+  - positional encoding
+  - position bias
+  - context position effects
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,106 @@ subdomains:
   - long-context
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "position-encoding-effects-synthetic-seed-2026-05-20"
+  - position-encoding-effects-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Transformer Attention Mechanism]]"
-  - "[[Lost-in-the-Middle Effect]]"
+  - '[[Transformer Attention Mechanism]]'
+  - '[[Lost-in-the-Middle Effect]]'
 prerequisites:
-  - "[[Transformer Attention Mechanism]]"
+  - '[[Transformer Attention Mechanism]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Lost-in-the-Middle Effect]]"
+  - '[[Lost-in-the-Middle Effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Position Encoding Types Overview**
+> *Identify the types of positional encodings and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed Absolute]
+>   B[Relative]
+>   C[Rotary (RoPE)]
+>   A -->|Unique vector per position|
+>   B -->|Distance between tokens|
+>   C -->|Rotational embedding|
+> ```
+
+
+> [!abstract] **Diagram 2 — Performance Degradation Patterns**
+> *Observe how different positional encodings affect performance with increasing sequence length.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sequence Length]
+>   B1[Fixed Absolute]
+>   B2[Relative]
+>   B3[Rotary (RoPE)]
+>   A -->|Increases|
+>   B1 -->|Sharp drop|
+>   B2 -->|Moderate drop|
+>   B3 -->|Gradual drop|
+> ```
+
+
+> [!abstract] **Diagram 3 — Context Length Impact on Performance**
+> *Compare performance degradation across different positional encoding schemes as context length grows.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> FixedAbsolute : Training Context
+>   FixedAbsolute -->|Longer Sequences|
+>   DegradationSharp : Sharp Drop
+>   DegradationSharp --> [*]
+>   [*] --> Relative : Training Context
+>   Relative -->|Longer Sequences|
+>   DegradationModerate : Moderate Drop
+>   DegradationModerate --> [*]
+>   [*] --> RoPE : Training Context
+>   RoPE -->|Longer Sequences|
+>   DegradationGradual : Gradual Drop
+>   DegradationGradual --> [*]
+> ```
 
 # Position Encoding Effects
 

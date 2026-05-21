@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -69,8 +69,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Construction Process**
+> *Follow the flow from encoding to integration.*
+>
+> ```mermaid
+> graph TD
+>   A[Encoding]
+>   B[Categorization]
+>   C[Integration]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Automation Mechanism**
+> *Trace the progression from conscious effort to automation.*
+>
+> ```mermaid
+> graph TD
+>   D[Conscious Effort]
+>   E[Practice]
+>   F[Automation]
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Dual-Mechanism Interaction Over Time**
+> *Observe the interplay between construction and automation.*
+>
+> ```mermaid
+> graph TD
+>   G[Initial Construction]
+>   H[Intensive Practice]
+>   I[Automation]
+>   J[Maintenance]
+>   G -->|Refinement| H
+>   H -->|Automation| I
+>   I -->|Maintenance| J
+> ```
 
 # Dual-Mechanism Thesis
 

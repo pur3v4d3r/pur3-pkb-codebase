@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -70,8 +70,53 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Achievement Goal Framework**
+> *Identify the four types of achievement goals and their focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Mastery]
+>   B[Performance]
+>   C[Approach]
+>   D[Avoidance]
+>   A --> E[Mastery-Approach]
+>   A --> F[Mastery-Avoidance]
+>   B --> G[Performance-Approach]
+>   B --> H[Performance-Avoidance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Influence on Learning Strategies**
+> *Understand how different achievement goals affect learning strategies.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mastery-Approach] --> B[Deep Processing]
+>   C[Performance-Approach] --> D[Surface-Level Learning]
+>   E[Mastery-Avoidance] --> F[Avoid Challenging Tasks]
+>   G[Performance-Avoidance] --> H[Cheat to Appear Competent]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural Context Impact**
+> *Compare the impact of performance-approach goals in different cultural contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant W[Western]
+>   participant E[A East Asian]
+>   W->>W: Performance-Approach Goals -> Anxiety
+>   E->>E: Performance-Approach Goals -> Higher Achievement
+> ```
 
 # Achievement Goal
 

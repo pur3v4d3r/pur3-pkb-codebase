@@ -1,15 +1,14 @@
 ---
-title: "Model-Graded Evaluation"
+title: Model-Graded Evaluation
 aliases:
-  - "Model-Graded Evaluation"
-  - "LLM-as-judge"
-  - "LLM judge evaluation"
-  - "automated LLM evaluation"
-  - "AI judge"
+  - Model-Graded Evaluation
+  - LLM-as-judge
+  - LLM judge evaluation
+  - automated LLM evaluation
+  - AI judge
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - automated-assessment
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "model-graded-evaluation-synthetic-seed-2026-05-21"
+  - model-graded-evaluation-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Human-Preference Evaluation]]"
-  - "[[G-Eval Framework]]"
+  - '[[Human-Preference Evaluation]]'
+  - '[[G-Eval Framework]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Human-Preference Evaluation]]"
+  - '[[Human-Preference Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[G-Eval Framework]]"
+  - '[[G-Eval Framework]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Model-Graded Evaluation Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Rubric] --> B[Query]
+>   B --> C[Candidate Responses]
+>   C --> D[Evaluating Model]
+>   D --> E[Score/Rank Outputs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Evaluation Methods**
+> *Compare automated and human evaluation methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Evaluation] -->|Subjective Judgment| B[Inter-human Agreement]
+>   C[Model-Graded Evaluation] -->|Automated Criteria| D[Consistent Application]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Model Grading**
+> *Identify the applications in instructional design and QA.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Refine Prompts| B[Automated Assessment]
+>   C[Quality Assurance] -->|Continuous Monitoring| D[Evaluation Against Standards]
+> ```
 
 # Model-Graded Evaluation
 

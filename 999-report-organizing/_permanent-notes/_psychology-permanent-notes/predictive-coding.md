@@ -17,7 +17,7 @@ subdomains:
   - computational-neuroscience
 
 created: 2026-04-27
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - predictive-coding-synthetic-seed-2026-04-27
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Perceptual Process Flow**
+> *Follow the flow from sensory input to perception through prediction and error correction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Prediction]
+>   B --> C[Error]
+>   C --> D[Correction]
+>   D --> E[Perception]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cortical Hierarchy Overview**
+> *Trace the direction of information flow from sensory input to top-down predictions.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensory Input] --> B[Primary Cortex]
+>   B --> C[Secondary Cortex]
+>   C --> D[Tertiary Cortex]
+>   D --> E[Prediction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Bayesian Inference Process**
+> *Observe how beliefs are updated based on prior knowledge and new sensory evidence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Prior as P
+>   participant Sensory as S
+>   participant Belief as B
+>   P->>B: Update with Prior Knowledge
+>   S->>B: New Sensory Evidence
+>   B->>P: Adjusted Prediction
+>   B->>S: Residual Error
+> ```
 
 # Predictive Coding
 

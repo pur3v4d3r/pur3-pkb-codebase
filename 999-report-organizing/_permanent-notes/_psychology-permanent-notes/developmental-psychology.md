@@ -17,7 +17,7 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - developmental-psychology-synthetic-seed-2026-04-24
@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Developmental Psychology Phases**
+> *Follow the stages of cognitive development from infancy to adulthood.*
+>
+> ```mermaid
+> graph TD
+>   A[Infancy] --> B[Toddlerhood]
+>   B --> C[Childhood]
+>   C --> D[Adolescence]
+>   D --> E[Young Adulthood]
+>   E --> F[Middle Age]
+>   F --> G[Old Age]
+> ```
+
+
+> [!abstract] **Diagram 2 — Developmental Psychology Mechanisms**
+> *Trace the interaction between biological and environmental factors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Genetic Predispositions] --> B[Brain Development]
+>   C[Social Interactions] --> D[Educational Experiences]
+>   E[Cultural Norms] --> F[Behavioral Outcomes]
+>   B --> G[Cognitive, Emotional & Behavioral Outcomes]
+>   D --> G
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Developmental Psychology Applications**
+> *Identify practical applications in instructional design and policy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Parent as P
+>   participant Educator as E
+>   participant PolicyMaker as PM
+>   P->>E: Age-Appropriate Teaching Methods
+>   E-->>P: Supportive Learning Environment
+>   PM->>E: Tailored Educational Programs
+>   E-->>PM: Effective Interventions
+> ```
 
 # Developmental Psychology
 

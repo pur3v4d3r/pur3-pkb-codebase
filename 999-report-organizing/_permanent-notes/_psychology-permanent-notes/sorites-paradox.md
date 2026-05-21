@@ -19,7 +19,7 @@ subdomains:
   - vagueness
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - sorites-paradox-synthetic-seed-2026-05-12
@@ -66,8 +66,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Sorites Paradox Process Flow**
+> *Follow the chain of premises leading to the paradox.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start with one grain]
+>   B[Remove a grain]
+>   C[Still a heap?]
+>   D[Repeat until few grains left]
+>   E[No longer a heap]
+>   F[Absurd conclusion]
+>   A -->|Initial premise| B
+>   B -->|Iterative step| C
+>   C -->|Affirmation| B
+>   B -->|Final iteration| D
+>   D -->|Negative affirmation| E
+>   E -->|Contradiction| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Sorites Paradox Taxonomy**
+> *Identify the Sorites Paradox within the broader category of paradoxes.*
+>
+> ```mermaid
+> graph TD
+>   A[Paradoxes]
+>   B[Self-Referential Paradoxes]
+>   C[Vagueness Paradoxes]
+>   D[Sorites Paradox]
+>   E[Liar Paradox]
+>   F[Zeno's Paradox]
+>   G[Buridan's Ass]
+>   A -->|Includes| B
+>   A -->|Also includes| C
+>   C -->|Example| D
+>   B -->|Example| E
+>   B -->|Example| F
+>   B -->|Example| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Sorites Paradox Cognitive Process**
+> *Trace the cognitive shift from reactive to reflective thinking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reactive
+>   participant Reflective
+>   participant SoritesParadox
+>   Reactive ->> SoritesParadox: Quick judgment based on prototype
+>   SoritesParadox -->> Reactive: Consistent with past experiences
+>   Reflective ->> SoritesParadox: Deliberate analysis of premises
+>   SoritesParadox -->> Reflective: Reveals inconsistencies in vague predicates
+> ```
 
 # Sorites Paradox
 

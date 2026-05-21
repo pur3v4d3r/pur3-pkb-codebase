@@ -20,7 +20,7 @@ subdomains:
   - tool-use-llms
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - function-schema-design-synthetic-seed-2026-05-20
@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Function Schema Design Process Flow**
+> *Follow the steps from schema creation to validation.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Function]
+>   B[Specify Parameters]
+>   C[Create Examples]
+>   D[Test Schema]
+>   E[Maintain and Refine]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Function Schema Design vs General API Documentation**
+> *Compare the focus areas of Function Schema Design and general API documentation.*
+>
+> ```mermaid
+> classDiagram
+>   class Function_Schema_Design{
+>     +Define Interfaces
+>     +Ensure Clarity
+>     +Maintain Over Time
+>   }
+>   class General_API_Documentation{
+>     +Provide Broad Information
+>     +Not Specific to Language Models
+>   }
+>   Function_Schema_Design -->|Focus On| General_API_Documentation
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Memory in Schema Design**
+> *Understand the role of explicit and implicit memory in schema design.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Memory]
+>   B[Implicit Memory]
+>   A -->|Conscious Recall| C[Clear Interfaces]
+>   B -.-> D[Unconscious Operation]
+>   C --> E[Reliable Function Calling]
+> ```
 
 # Function Schema Design
 

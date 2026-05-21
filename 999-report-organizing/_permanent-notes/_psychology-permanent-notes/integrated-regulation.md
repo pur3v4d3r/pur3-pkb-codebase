@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Regulatory Continuum Overview**
+> *Follow the progression from external to internal regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[External Regulation] --> B[Introjected Regulation]
+>   B --> C[Identified Regulation]
+>   C --> D[Integrated Regulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Integrated Regulation Process Flow**
+> *Trace the stages from initial endorsement to deep integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Conscious Endorsement] --> B[Reinforcement]
+>   B --> C[Integration]
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavioral Integration Mechanism**
+> *Identify the key stages leading to integrated regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[Value Endorsement] --> B[Alignment]
+>   B --> C[Integration]
+> ```
 
 # Integrated Regulation
 

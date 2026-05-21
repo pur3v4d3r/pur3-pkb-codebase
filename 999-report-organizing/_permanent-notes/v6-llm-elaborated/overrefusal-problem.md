@@ -1,15 +1,14 @@
 ---
-title: "Overrefusal Problem"
+title: Overrefusal Problem
 aliases:
-  - "Overrefusal Problem"
-  - "over-refusal"
-  - "safety oversteering"
-  - "excessive refusal"
-  - "unhelpful alignment"
+  - Overrefusal Problem
+  - over-refusal
+  - safety oversteering
+  - excessive refusal
+  - unhelpful alignment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,115 @@ subdomains:
   - human-ai-interaction
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "overrefusal-problem-synthetic-seed-2026-05-21"
+  - overrefusal-problem-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Safety"
-
+parent-concept: AI Safety
 related:
-  - "[[Harmlessness- helpfulness tradeoff]]"
-  - "[[Constitutional AI]]"
+  - '[[Harmlessness- helpfulness tradeoff]]'
+  - '[[Constitutional AI]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Harmlessness- helpfulness tradeoff]]"
+  - '[[Harmlessness- helpfulness tradeoff]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Constitutional AI]]"
+  - '[[Constitutional AI]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Overrefusal Mechanism Overview**
+> *Follow the flow from training to overrefusal.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Emphasis]
+>   B[Harmlessness Over Helpfulness]
+>   C[Conservative Thresholds]
+>   D[Imprecise Classifiers]
+>   E[Annotation Biases]
+>   F[Overrefusal]
+>   A -->|Prioritizes Harmlessness| B
+>   B -->|Sets High Safety Standards| C
+>   C -->|Uses Inexact Filters| D
+>   D -->|Skewed Training Data| E
+>   E -->|Errs on Refusal Side| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Overrefusal Impact Areas**
+> *Identify the areas where overrefusal impacts model utility.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Medical Professionals]
+>   C[Creative Writing]
+>   D[Harmlessness Over Helpfulness]
+>   E[Overrefusal Impact]
+>   A -->|Hinders Learning| E
+>   B -->|Barriers to Information| E
+>   C -->|Limits Artistic Expression| E
+>   E -->|Reduces Model Utility| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Overrefusal vs Harmlessness Tradeoff**
+> *Compare overrefusal with the harmlessness-helpfulness tradeoff.*
+>
+> ```mermaid
+> graph TD
+>   A[Overrefusal]
+>   B[Harmlessness-Helperiness Tradeoff]
+>   C[Excessive Refusal]
+>   D[Unhelpful Responses]
+>   E[Misaligned Safety Training]
+>   F[Contextual Understanding]
+>   G[Annotation Biases]
+>   H[Conservative Thresholds]
+>   I[Imprecise Classifiers]
+>   A -->|Misalignment| E
+>   B -->|Balanced Approach| F
+>   C -->|Avoid Harmful Outputs| D
+>   E -->|Skewed Training Data| G
+>   G -->|High Safety Standards| H
+>   H -->|Inexact Filters| I
+> ```
 
 # Overrefusal Problem
 

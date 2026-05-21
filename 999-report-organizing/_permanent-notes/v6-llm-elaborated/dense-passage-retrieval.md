@@ -19,7 +19,7 @@ subdomains:
   - embedding-models
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dense-passage-retrieval-synthetic-seed-2026-05-20
@@ -66,8 +66,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — DPR Query-Passage Matching Process**
+> *Follow the flow from query input to passage retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query Input] --> B[Query Encoder]
+>   C[Passage Collection] --> D[Passage Encoder]
+>   B --> E[Dense Query Embedding]
+>   D --> F[Dense Passage Embeddings]
+>   E --> G[Semantic Similarity Calculation]
+>   F --> G
+>   G --> H[Ranking and Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — DPR Training Objective**
+> *Identify the goal of maximizing similarity for relevant pairs.*
+>
+> ```mermaid
+> graph TD
+>   A[Query-Positive Passage Pair] --> B[Semantic Similarity]
+>   C[Query-Negative Passage Pair] --> D[Semantic Dissimilarity]
+>   E[Dual Encoder Models] --> F[Maximize B]
+>   E --> G[Minimize D]
+> ```
+
+
+> [!abstract] **Diagram 3 — DPR vs BM25 Comparison**
+> *Compare DPR's semantic matching with BM25's keyword approach.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant Passage as P
+>   participant DPR as D
+>   participant BM25 as B
+>   Q->>D: Dense Vector Embedding
+>   D->>P: Semantic Similarity Calculation
+>   Q->>B: Keyword Matching
+>   B->>P: Exact Term Matches
+> ```
 
 # Dense Passage Retrieval
 

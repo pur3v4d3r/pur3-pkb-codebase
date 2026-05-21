@@ -1,13 +1,12 @@
 ---
-title: "One-Shot Prompting"
+title: One-Shot Prompting
 aliases:
-  - "One-Shot Prompting"
-  - "single-shot prompting"
-  - "one-example prompting"
+  - One-Shot Prompting
+  - single-shot prompting
+  - one-example prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,89 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "one-shot-prompting-synthetic-seed-2026-05-20"
+  - one-shot-prompting-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Few-shot Prompting]]"
-  - "[[Zero-shot Prompting]]"
+  - '[[Few-shot Prompting]]'
+  - '[[Zero-shot Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Few-shot Prompting]]"
+  - '[[Few-shot Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Zero-shot Prompting]]"
+  - '[[Zero-shot Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — One-Shot Prompting Process Flow**
+> *Follow the flow from Input to Output, noting the single example provided.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Single Example]
+>   B --> C[Model Interpretation]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Prompting Methods**
+> *Compare One-Shot Prompting to Zero-shot and Multi-example methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Zero-shot]
+>   B[One-shot] -->|Single Example| C[Model Interpretation]
+>   D[Multi-example] -->|Multiple Examples| E[Model Learning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Complexity vs Prompting Method**
+> *Identify the appropriate prompting method based on task complexity.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Task] --> B[Zero-shot]
+>   C[Complex Task] --> D[Multi-example]
+>   E[Moderate Task] --> F[One-shot]
+> ```
 
 # One-Shot Prompting
 

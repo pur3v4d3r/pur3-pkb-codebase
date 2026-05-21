@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
@@ -69,8 +69,54 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Calibration-Adaptation Cycle Overview**
+> *Follow the cycle from prediction to planning.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Prediction]
+>   B --> C[Outcome Comparison]
+>   C --> D[Multidimensional Self-Assessment]
+>   D --> E[Adaptive Planning Prompts]
+>   E --> F[Next Cycle]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Component Interaction Flowchart**
+> *Trace the flow from prediction to feedback and planning.*
+>
+> ```mermaid
+> flowchart LR
+>   P[Prediction] --> O[Outcome Comparison]
+>   O --> S[Multidimensional Self-Assessment]
+>   S --> A[Adaptive Planning Prompts]
+> ```
+
+
+> [!abstract] **Diagram 3 — Iterative Study Cycle Process**
+> *Observe the progression through each cycle.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant System as S
+>   L->>S: Make Prediction
+>   S-->>L: Outcome Comparison Feedback
+>   L->>S: Multidimensional Self-Assessment
+>   S-->>L: Adaptive Planning Prompts
+>   L->>S: Next Cycle
+> ```
 
 # Calibration-Adaptation Engine
 

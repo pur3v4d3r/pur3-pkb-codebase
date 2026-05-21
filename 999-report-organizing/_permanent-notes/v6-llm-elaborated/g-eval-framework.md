@@ -1,14 +1,13 @@
 ---
-title: "G-Eval Framework"
+title: G-Eval Framework
 aliases:
-  - "G-Eval Framework"
-  - "G-Eval"
-  - "chain-of-thought evaluation"
-  - "LLM chain-of-thought judge"
+  - G-Eval Framework
+  - G-Eval
+  - chain-of-thought evaluation
+  - LLM chain-of-thought judge
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,94 @@ subdomains:
   - nlp-research
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "g-eval-framework-synthetic-seed-2026-05-21"
+  - g-eval-framework-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Human-Preference Evaluation]]"
-  - "[[MT-Bench Evaluation]]"
-  - "[[Model-Graded Evaluation]]"
+  - '[[Human-Preference Evaluation]]'
+  - '[[MT-Bench Evaluation]]'
+  - '[[Model-Graded Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Human-Preference Evaluation]]"
-  - "[[MT-Bench Evaluation]]"
+  - '[[Human-Preference Evaluation]]'
+  - '[[MT-Bench Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Model-Graded Evaluation]]"
+  - '[[Model-Graded Evaluation]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — G-Eval Process Flowchart**
+> *Follow the steps from task definition to final score calculation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Definition] --> B[Evaluation Criteria]
+>   B --> C[Candidate Texts]
+>   C --> D[Intermediate Reasoning Steps]
+>   D --> E[Probability-Weighted Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — G-Eval vs Traditional Metrics**
+> *Compare G-Eval's method to traditional automated metrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Definition] --> B[Evaluation Criteria]
+>   B --> C[Candidate Texts]
+>   C --> D[G-Eval: Intermediate Reasoning Steps]
+>   D --> E[G-Eval: Probability-Weighted Score]
+>   F[BLEU/ROUGE: Direct Scoring] --> G[Final Score]
+> ```
+
+
+> [!abstract] **Diagram 3 — G-Eval Application Areas**
+> *Identify the different areas where G-Eval can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Evaluation of Prompts]
+>   C[Dialogue Systems] --> D[Evaluation of Responses]
+>   E[Summarization Tasks] --> F[Evaluation of Summaries]
+> ```
 
 # G-Eval Framework
 

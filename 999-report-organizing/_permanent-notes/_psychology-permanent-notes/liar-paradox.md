@@ -19,7 +19,7 @@ subdomains:
   - semantic-paradoxes
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - liar-paradox-synthetic-seed-2026-05-12
@@ -66,8 +66,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Liar Paradox Structure**
+> *Follow the circular logic of self-reference.*
+>
+> ```mermaid
+> graph TD
+>   A["This sentence is false"] --> B[False]
+>   B --> C[True]
+>   C --> D[False]
+>   D --> E[True]
+>   E --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Truth Value Flowchart**
+> *Trace the paradoxical loop of truth and falsity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B{Is it true?}
+>   B -->|Yes| C[False]
+>   C --> D{Is it false?}
+>   D -->|No| E[True]
+>   E --> F{Is it true?}
+>   F -->|Yes| G[False]
+>   G --> H{Is it false?}
+>   H -->|No| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Paradox Variations Comparison**
+> *Compare the structural similarities and differences.*
+>
+> ```mermaid
+> graph TD
+>   Liar["Liar Paradox"]
+>   Curry["Curry's Paradox"] -->|Self-referential|
+>   Yablo["Yablo's Paradox"] -->|Infinite chain of references|
+>   Sorites["Sorites Paradox"] -->|Vagueness in boundaries|
+>   Liar -->|Direct contradiction|
+>   Curry
+>   Yablo
+>   Sorites
+> ```
 
 # Liar Paradox
 

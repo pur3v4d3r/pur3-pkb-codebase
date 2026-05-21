@@ -18,7 +18,7 @@ subdomains:
   - galactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gaia-mission-synthetic-seed-2026-05-14
@@ -70,8 +70,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gaia Mission Workflow Overview**
+> *Follow the data flow from observation to analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Observation]
+>   B[Data Processing]
+>   C[Calibration]
+>   D[Data Release]
+>   E[Astronomical Studies]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Gaia's Data Releases Timeline**
+> *Track the progression of data releases and their impact.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Initial Release (DR1)
+>   participant B as Subsequent Releases (DR2, EDR3/DR3)
+>   A->>B: Provides early insights
+>   B->>A: Offers detailed information on over a billion stars
+> ```
+
+
+> [!abstract] **Diagram 3 — Gaia's Measurement Capabilities**
+> *Identify the types of measurements Gaia can perform.*
+>
+> ```mermaid
+> graph TD
+>   A[Positions]
+>   B[Brightness]
+>   C[Color]
+>   D[Radial Velocities]
+>   E[Chemical Composition]
+>   A -->|Parallax, Proper Motions| F[Astronomical Insights]
+>   B -->|Stellar Properties| F
+>   C -->|Stellar Properties| F
+>   D -->|Kinematics| F
+>   E -->|Nucleosynthesis| F
+> ```
 
 # Gaia Mission
 

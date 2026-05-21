@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — 4C/ID Model Overview**
+> *Follow the flow from whole-task to part-task practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Whole-Task Practice]
+>   B[Integrated Knowledge & Skills]
+>   C[Coordination Abilities]
+>   D[Real-World Scenarios]
+>   A -->|Develops| B
+>   B -->|Enhances| C
+>   C -->|Enables| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Complex Learning Process Flow**
+> *Trace the process from complex task to integrated performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Task]
+>   B(Element Interactivity)
+>   C[Whole-Task Coordination]
+>   D[Integrated Performance]
+>   A -->|High Element Interactivity| B
+>   B -->|Requires Whole-Task Practice| C
+>   C -->|Ensures Integrated Knowledge & Skills| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Integration**
+> *Identify how intrinsic and extraneous loads affect learning efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Integrated Whole-Task Practice]
+>   D[Learning Efficiency]
+>   A -->|Increases| D
+>   B -->|Increases| D
+>   C -->|Reduces Both Loads| D
+> ```
 
 # Four Component Instructional Design (4C/ID)
 

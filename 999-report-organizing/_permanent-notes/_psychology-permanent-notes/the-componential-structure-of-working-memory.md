@@ -18,7 +18,7 @@ subdomains:
   - memory
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - the-componential-structure-of-working-memory-synthetic-seed-2026-04-25
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Working Memory Components Overview**
+> *Identify the main components and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   CE[Central Executive]
+>   PL[Phonological Loop] -->|Verbal Info| CE
+>   VSSP[Visuospatial Sketchpad] -->|Spatial Info| CE
+>   EB[Episodic Buffer] -->|Integrate Info| CE
+> ```
+
+
+> [!abstract] **Diagram 2 — Central Executive Coordination Flow**
+> *Follow the flow of task management by the central executive.*
+>
+> ```mermaid
+> flowchart LR
+>   CE[Central Executive]
+>   subgraph Tasks
+>     T1(Task 1) -->|Attention| CE
+>     T2(Task 2) -->|Attention| CE
+>   end
+>   CE -->|Allocate Resources| PL
+>   CE -->|Allocate Resources| VSSP
+> ```
+
+
+> [!abstract] **Diagram 3 — Information Processing Mechanism**
+> *Trace the processing flow from input to output.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Input as I
+>   participant PhonologicalLoop as PL
+>   participant VisuospatialSketchpad as VSSP
+>   participant CentralExecutive as CE
+>   participant EpisodicBuffer as EB
+>   participant Output as O
+>   I->>PL: Verbal Info
+>   I->>VSSP: Spatial Info
+>   PL->>CE: Processed Verbal Info
+>   VSSP->>CE: Processed Spatial Info
+>   CE->>EB: Integrated Info
+>   EB->>O: Output
+> ```
 
 # Componential Structure of Working Memory
 

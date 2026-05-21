@@ -17,7 +17,7 @@ subdomains:
   - methodology
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cross-cultural-psychology-synthetic-seed-2026-04-24
@@ -64,8 +64,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cross-Cultural Research Methodology**
+> *Follow the flow from study design to data analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Study Design]
+>   B[Adaptation for Local Contexts]
+>   C[Data Collection]
+>   D[Cultural Bias Consideration]
+>   E[Analysis Techniques]
+>   F[Validation and Reliability Checks]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Cross-Cultural vs Indigenous Psychology**
+> *Compare the methodologies of both approaches.*
+>
+> ```mermaid
+> classDiagram
+>   class CrossCultural{
+>     +emphasizes cross-cultural comparisons
+>     +identifies universal versus culturally constructed traits
+>   }
+>   class Indigenous{
+>     +focuses on local knowledge systems
+>     +preserves indigenous ways of knowing
+>   }
+>   CrossCultural -->|differs in methodology from| Indigenous
+> ```
+
+
+> [!abstract] **Diagram 3 — Cross-Cultural Application Areas**
+> *Identify the practical applications highlighted.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design]
+>   B[Marketing]
+>   C[Develop Culturally Sensitive Materials] --> A
+>   D[Cognitive Task Adaptation] --> A
+>   E[Design Effective Teaching Strategies] --> A
+>   F[Identify Universal Consumer Behaviors] --> B
+>   G[Determine Cultural Preferences] --> B
+>   H[Create Resonant Branding Strategies] --> B
+> ```
 
 # Cross-Cultural Psychology
 

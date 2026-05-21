@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognition-and-reading-foundational-report-2026-04-20
@@ -71,8 +71,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Comprehension Monitoring Process**
+> *Follow the flow from reading to monitoring and potential silent failures.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reading] --> B[Working Memory]
+>   B --> C[Attentional Control]
+>   C --> D[Executive Functions]
+>   D --> E[Monitoring]
+>   E --> F[Silent Failure]
+>   F --> G[Unwarranted Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Strategies for Monitoring**
+> *Identify the strategies that can help detect silent comprehension failures.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Explanation]
+>   B[Questioning Text]
+>   C[Summarization]
+>   D[Graphic Organizers]
+>   E[Spaced Retrieval]
+>   F[Ai-Assisted Feedback]
+>   A -->|Detects Misunderstandings| G[Improves Monitoring]
+>   B -->|Highlights Confusions| G
+>   C -->|Identifies Gaps| G
+>   D -->|Organizes Information| G
+>   E -->|Encourages Review| G
+>   F -->|Provides Real-Time Feedback| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Silent Failures on Learning Outcomes**
+> *Trace the consequences of silent failures from initial misunderstanding to poor performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Misunderstanding] --> B[Lack of Monitoring]
+>   B --> C[Unwarranted Confidence]
+>   C --> D[Poor Performance]
+>   D --> E[Hindered Strategy Development]
+> ```
 
 # The Central Diagnostic Phenomenon
 

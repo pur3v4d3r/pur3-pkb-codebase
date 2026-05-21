@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
@@ -68,8 +68,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Knowledge Components**
+> *Identify the three types of metacognitive knowledge: person, task, and strategy.*
+>
+> ```mermaid
+> graph TD
+>   A[Person]
+>   B[Task]
+>   C[Strategy]
+>   subgraph MetacognitiveKnowledge
+>     A -->|Beliefs about oneself as a cognitive agent| B
+>     B -->|Understanding tasks and their demands| C
+>     C -->|Awareness of different strategies|
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Knowledge Application Process**
+> *Follow the flow from goal-setting to strategy selection and implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal-Setting]
+>   B[StrategySelection]
+>   C[ImplementationIntentions]
+>   D[ActionExecution]
+>   A -->|Convert vague intentions into specific objectives| B
+>   B -->|Activate metacognitive knowledge| C
+>   C -->|Bridge intention-action gap with if-then plans| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Knowledge in Self-Regulated Learning**
+> *Trace the influence of metacognitive knowledge on self-regulation phases.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[PerformanceControl]
+>   C[Evaluation]
+>   subgraph MetacognitiveKnowledgeInfluence
+>     A -->|Goal-setting and strategy selection| B
+>     B -->|Monitoring progress and adjusting strategies| C
+>     C -->|Reflecting on performance|
+>   end
+> ```
 
 # Metacognitive Knowledge
 

@@ -1,14 +1,13 @@
 ---
-title: "Group Relative Policy Optimization"
+title: Group Relative Policy Optimization
 aliases:
-  - "Group Relative Policy Optimization"
-  - "GRPO"
-  - "group-relative policy gradient"
-  - "group-reward normalisation"
+  - Group Relative Policy Optimization
+  - GRPO
+  - group-relative policy gradient
+  - group-reward normalisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,80 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "group-relative-policy-optimization-synthetic-seed-2026-05-21"
+  - group-relative-policy-optimization-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning Algorithms"
-
+parent-concept: Reinforcement Learning Algorithms
 related:
-  - "[[Proximal Policy Optimization (PPO)]]"
-  - "[[Direct Preference Optimization (DPO)]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Proximal Policy Optimization (PPO)]]'
+  - '[[Direct Preference Optimization (DPO)]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Proximal Policy Optimization (PPO)]]"
-  - "[[Direct Preference Optimization (DPO)]]"
+  - '[[Proximal Policy Optimization (PPO)]]'
+  - '[[Direct Preference Optimization (DPO)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — GRPO Training Process Overview**
+> *Follow the flow from sampling to parameter update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sample Completions] --> B[Evaluate Rewards]
+>   B --> C[Normalize Advantages]
+>   C --> D[Update Parameters]
+> ```
+
+
+> [!abstract] **Diagram 2 — Advantage Calculation in GRPO**
+> *See how normalized advantages are computed from group rewards.*
+>
+> ```mermaid
+> graph TD
+>   A[Reward_i] --> B{Mean Reward}
+>   C[Std Deviation] --> D[(Reward_i - Mean) / Std]
+>   B -->|Subtract| E[Normalized Advantage]
+> ```
 
 # Group Relative Policy Optimization
 

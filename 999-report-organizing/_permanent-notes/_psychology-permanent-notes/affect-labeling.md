@@ -18,7 +18,7 @@ subdomains:
   - neuroscience
 
 created: 2026-04-26
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - affect-labeling-synthetic-seed-2026-04-26
@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Affect Labeling Process Flow**
+> *Follow the steps from emotion onset to labeling and regulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Emotion Onset] --> B[Identify Emotion]
+>   B --> C[Label Emotion]
+>   C --> D[Reduce Intensity]
+> ```
+
+
+> [!abstract] **Diagram 2 — Neural Mechanism of Affect Labeling**
+> *Trace the activation and deactivation in brain regions during labeling.*
+>
+> ```mermaid
+> graph TD
+>   A[Right Ventrolateral Prefrontal Cortex] --> B[Amygdala]
+>   A -->|Activate| C[Reduce Emotional Intensity]
+>   B -->|Deactivate| D[Decrease Physiological Arousal]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Dynamics of Labeling Effectiveness**
+> *Compare immediate and delayed labeling effects on physiological arousal.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant E as Emotion Onset
+>   participant F as Immediate Labeling
+>   participant G as Delayed Labeling
+>   E->>F: Within 2 seconds
+>   F-->>E: Reduced Arousal by 37%
+>   E->>G: After 10 seconds
+>   G-->>E: Reduced Arousal by 15%
+> ```
 
 # Affect Labeling
 

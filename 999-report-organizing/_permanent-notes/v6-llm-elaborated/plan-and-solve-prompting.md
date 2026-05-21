@@ -1,15 +1,14 @@
 ---
-title: "Plan-and-Solve Prompting"
+title: Plan-and-Solve Prompting
 aliases:
-  - "Plan-and-Solve Prompting"
-  - "plan-and-solve"
-  - "PS prompting"
-  - "PS+ prompting"
-  - "planning before solving"
+  - Plan-and-Solve Prompting
+  - plan-and-solve
+  - PS prompting
+  - PS+ prompting
+  - planning before solving
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,90 @@ subdomains:
   - problem-solving
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "plan-and-solve-prompting-synthetic-seed-2026-05-21"
+  - plan-and-solve-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Tree-of-Thoughts]]"
-  - "[[Zero-Shot Learning]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Tree-of-Thoughts]]'
+  - '[[Zero-Shot Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Tree-of-Thoughts]]"
+  - '[[Tree-of-Thoughts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Zero-Shot Learning]]"
+  - '[[Zero-Shot Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Plan-and-Solve Process Flow**
+> *Follow the steps from problem understanding to solution execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Understand Problem] --> B[Devise Plan]
+>   B --> C[Execute Steps]
+> ```
+
+
+> [!abstract] **Diagram 2 — PS vs Direct Solution Comparison**
+> *Compare the two approaches in terms of planning and execution phases.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Solution] --> B[Execution]
+>   C[Plan-and-Solve] --> D[Planning]
+>   D --> E[Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Reduction Mechanism**
+> *Identify how PS prompting breaks down complex tasks into simpler steps.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ComplexTask
+>   ComplexTask --> ManageableSteps: Breakdown
+>   ManageableSteps --> PlanningPhase: Plan
+>   PlanningPhase --> ExecutionPhase: Execute
+> ```
 
 # Plan-and-Solve Prompting
 

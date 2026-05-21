@@ -18,7 +18,7 @@ subdomains:
   - geometry
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - shape-of-the-universe-synthetic-seed-2026-05-14
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Curvature Types Overview**
+> *Identify the three main types of spatial curvature.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Curvature] -->|Closed Universe| B[Finite and Bound]
+>   C[Negative Curvature] -->|Open Universe| D[Infinite and Expanding]
+>   E[Zero Curvature] -->|Flat Universe| F[Infinite or Finite]
+> ```
+
+
+> [!abstract] **Diagram 2 — Observational Methods for Geometry**
+> *Follow the flow from observations to geometric conclusions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observations] --> B[CMB Radiation]
+>   B --> C[Acoustic Peaks Analysis]
+>   C --> D[Geometry Constraints]
+> ```
+
+
+> [!abstract] **Diagram 3 — Lambda-CDM Model Components**
+> *Trace the components contributing to a flat universe in Lambda-CDM.*
+>
+> ```mermaid
+> graph TD
+>   A[Dark Energy] -->|Cosmological Constant|
+>   B[Dark Matter]
+>   C[Baryonic Matter]
+>   D[Radiation]
+>   E[Curvature Term]
+> ```
 
 # Shape Of The Universe
 

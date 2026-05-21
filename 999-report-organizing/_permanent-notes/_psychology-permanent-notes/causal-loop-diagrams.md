@@ -17,7 +17,7 @@ subdomains:
   - system-dynamics
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - causal-loop-diagrams-synthetic-seed-2026-04-25
@@ -66,8 +66,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Causal Loop Diagram Structure**
+> *Identify reinforcing (R) and balancing (B) loops.*
+>
+> ```mermaid
+> graph TD
+>   A[Student Engagement] -->|B| B[Learning Outcomes]
+>   B -->|R| C[Motivation]
+>   C -->|B| D[Teaching Methods]
+>   D -->|R| E[Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Policy Impact Assessment CLD**
+> *Analyze long-term impacts of agricultural subsidies.*
+>
+> ```mermaid
+> graph TD
+>   A[Agricultural Subsidies] -->|R| B[Crop Yields]
+>   B -->|B| C[Farmer Incomes]
+>   C -->|R| D[Environmental Health]
+> ```
 
 # Causal Loop Diagrams
 

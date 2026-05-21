@@ -18,7 +18,7 @@ subdomains:
   - emotion-regulation
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-compassion-synthetic-seed-2026-04-25
@@ -66,8 +66,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-Compassion Triad Overview**
+> *Identify the three components of self-compassion.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Kindness]
+>   B[Common Humanity]
+>   C[Mindful Awareness]
+>   A -->|Includes| D(Self-Compassion)
+>   B -->|Includes| D
+>   C -->|Includes| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Compassion vs Self-Esteem Comparison**
+> *Compare self-compassion and self-esteem in handling failure.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Compassion]
+>   B(Self-Esteem)
+>   A -->|Focuses on Emotional Regulation|
+>   B -->|Involves Positive Self-Evaluation|
+>   A -->|No Defensive Avoidance|
+>   B -->|Can Lead to Defensive Avoidance|
+>   A -->|Constructive Response to Setbacks|
+>   B -->|Positive Evaluation Required|
+>   A -->|Does Not Require Positive Evaluations|
+>   B -->|Requires Positive Self-Judgment
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Compassion Mechanism Flow**
+> *Follow the process of self-compassion from suffering to constructive response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Failure or Suffering]
+>   B[Judgment vs Kindness]
+>   C[Acknowledge Mistakes]
+>   D[Isolation vs Common Humanity]
+>   E[Pain Over-Identification vs Mindful Awareness]
+>   F[Constructive Response]
+>   A -->|Judgment| B
+>   A -->|Kindness| B
+>   B -->|Judgment| G(Defensive Avoidance)
+>   B -->|Kindness| C
+>   C --> D
+>   D -->|Isolation| H(Felt Alone)
+>   D -->|Common Humanity| E
+>   E -->|Over-Identification| I(Overwhelmed by Pain)
+>   E -->|Mindful Awareness| F
+> ```
 
 # Self-Compassion
 

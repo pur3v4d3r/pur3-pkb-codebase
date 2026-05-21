@@ -1,14 +1,13 @@
 ---
-title: "Reward Model Training"
+title: Reward Model Training
 aliases:
-  - "Reward Model Training"
-  - "reward modelling"
-  - "RM training"
-  - "preference model training"
+  - Reward Model Training
+  - reward modelling
+  - RM training
+  - preference model training
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,94 @@ subdomains:
   - supervised-learning
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reward-model-training-synthetic-seed-2026-05-21"
+  - reward-model-training-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Model Fine-Tuning"
-
+parent-concept: Large Language Model Fine-Tuning
 related:
-  - "[[Supervised Fine-Tuning (SFT)]]"
-  - "[[Direct Preference Optimization]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Supervised Fine-Tuning (SFT)]]'
+  - '[[Direct Preference Optimization]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Supervised Fine-Tuning (SFT)]]"
+  - '[[Supervised Fine-Tuning (SFT)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Direct Preference Optimization]]"
+  - '[[Direct Preference Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reward Model Training Process Flow**
+> *Follow the flow from initialization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialize from SFT checkpoint] --> B[Fine-tune on preference data]
+>   B --> C[Predict preferred completions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reward Model Training Mechanism**
+> *Trace the steps of training with Bradley-Terry loss.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human evaluators compare pairs] --> B[Reward model assigns scores]
+>   B --> C[Update parameters based on ranking loss]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reward Model vs Direct Preference Optimization**
+> *Compare the approaches to improving language models.*
+>
+> ```mermaid
+> classDiagram
+>   class RewardModel {
+>     +Bradley-Terry ranking loss
+>     +Proxy reward function
+>   }
+>   class DirectPreferenceOptimization {
+>     +Explicit feedback optimization
+>     +Direct policy improvement
+>   }
+>   RewardModel -->|More scalable but may suffer from distribution shift| DirectPreferenceOptimization
+> ```
 
 # Reward Model Training
 

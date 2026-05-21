@@ -17,7 +17,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - academic-emotions-synthetic-seed-2026-04-24
@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Control-value theory framework**
+> *Follow the arrows to see how control and value influence emotions.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Control] --> B(Positive Emotions)
+>   C[Low Perceived Control] --> D(Negative Emotions)
+>   E[High Value] --> F(Positive Emotions)
+>   G[Low Value] --> H(Negative Emotions)
+> ```
+
+
+> [!abstract] **Diagram 2 — Academic emotion cycle during learning**
+> *Trace the sequence of emotions as a student progresses through a task.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student
+>   participant Task
+>   Student->>Task: Initial Engagement
+>   alt Enjoyment or Hope
+>     Task-->>Student: Positive Feedback Loop
+>     loop Problem Solving Phase
+>       Student->>Task: Encounter Challenges
+>       opt Anxiety
+>         Task-->>Student: Negative Feedback Loop
+>       end
+>     end
+>     Student->>Task: Successful Completion
+>     Task-->>Student: Pride or Satisfaction
+>   else Boredom or Disengagement
+>     Task-->>Student: Withdrawal from Material
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural variations in academic emotions**
+> *Compare the emotional responses across individualistic and collectivist cultures.*
+>
+> ```mermaid
+> graph TD
+>   A[Individualistic Culture] --> B[Pride]
+>   C[Collectivist Culture] --> D[Shame]
+>   E[Success] --> F[Achievement]
+>   G[Failure] --> H[Disappointment]
+> ```
 
 # Academic Emotions
 

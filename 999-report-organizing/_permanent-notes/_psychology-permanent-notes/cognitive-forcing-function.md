@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Type 1 vs Type 2 Reasoning Flow**
+> *Follow the flow from intuitive to analytical thinking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Type 1 Intuition] --> B[Decision Point]
+>   B -->|Default| C[Intuitive Decision]
+>   B -->|Forcing Function| D[Analytical Thinking]
+>   D --> E[Rational Decision]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Forcing Function Mechanism**
+> *Trace the steps from context to analytical engagement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Context] --> B[Introduction]
+>   B --> C[Interruption]
+>   C --> D[Engagement]
+>   D --> E[Rational Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Domains Overview**
+> *Identify the domains where cognitive forcing functions are applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Enhance Learning|
+>   B[Organizational Decision-Making] -->|Prevent Groupthink|
+>   C[Ai Alignment] -->|Improve Reasoning Quality|
+> ```
 
 # Cognitive Forcing Function
 

@@ -18,7 +18,7 @@ subdomains:
   - emotion
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - academic-anxiety-synthetic-seed-2026-04-25
@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Academic Anxiety Process Flow**
+> *Follow the flow from anxiety triggers to working memory hijack.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Anxiety Triggers] --> B[Irrelevant Thoughts]
+>   B --> C[Hijacked Working Memory]
+>   C --> D[Performance Decline]
+> ```
+
+
+> [!abstract] **Diagram 2 — Academic Anxiety Thought Patterns**
+> *Identify the specific types of intrusive thoughts during academic tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Irrelevant Thoughts] --> B['What-If Scenarios']
+>   B --> C['Fear of Failure']
+>   C --> D[Hijacked Working Memory]
+> ```
+
+
+> [!abstract] **Diagram 3 — Academic Anxiety Over Time**
+> *Trace the evolution from test anxiety to broader academic contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[1950s-70s] --> B[Test Anxiety]
+>   B --> C[Cognitive Psychology (80s-90s)]
+>   C --> D[Academic Anxiety (2000s)]
+> ```
 
 # Academic Anxiety
 

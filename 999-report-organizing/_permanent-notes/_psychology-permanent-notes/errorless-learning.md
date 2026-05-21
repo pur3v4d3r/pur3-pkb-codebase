@@ -18,7 +18,7 @@ subdomains:
   - neuropsychology
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - errorless-learning-synthetic-seed-2026-04-26
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Errorless Learning Process Flow**
+> *Follow the sequence from initial prompt to independent performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Carefully Guided]
+>   B --> C[Correct Response]
+>   C --> D[Fading Support]
+>   D --> E[Independent Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Errorless Learning vs Productive Failure**
+> *Compare the two approaches in terms of error handling and feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Errorless Learning] --> B[Prevent Errors]
+>   C[Productive Failure] --> D[Introduce Errors]
+>   B --> E[Immediate Correct Feedback]
+>   D --> F[Follow-up with Correction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Errorless Learning Applications**
+> *Identify the contexts where Errorless Learning is most beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Medical Training] --> B[Costly Mistakes]
+>   C[High-Stakes Certification] --> D[Demotivating Errors]
+>   E[Special Education] --> F[Impaired Explicit Memory]
+>   G[Language Instruction] --> H[Prevent Incorrect Patterns]
+> ```
 
 # Errorless Learning
 

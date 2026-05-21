@@ -18,7 +18,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - elements-of-thought-synthetic-seed-2026-04-25
@@ -66,8 +66,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Interlocking Elements Overview**
+> *Follow the arrows to see how changing one element affects others.*
+>
+> ```mermaid
+> graph TD
+>   A[Purpose] --> B[Question]
+>   B --> C[Information]
+>   C --> D[Interpretation]
+>   D --> E[Concept]
+>   E --> F[Assumption]
+>   F --> G[Implication]
+>   G --> H[Point of View]
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Analysis Flowchart**
+> *Start at Purpose and follow the sequence to understand argument formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Purpose] --> B[Question]
+>   B --> C[Information]
+>   C --> D[Interpretation]
+>   D --> E[Concept]
+>   E --> F[Assumption]
+>   F --> G[Implication]
+>   G --> H[Point of View]
+> ```
+
+
+> [!abstract] **Diagram 3 — Component Relationships Diagram**
+> *Identify how each element influences the next in the reasoning process.*
+>
+> ```mermaid
+> graph TD
+>   A[Purpose] --> B[Question]
+>   B --> C[Information]
+>   C --> D[Interpretation]
+>   D --> E[Concept]
+>   E --> F[Assumption]
+>   F --> G[Implication]
+>   G --> H[Point of View]
+> ```
 
 # Elements of Thought
 

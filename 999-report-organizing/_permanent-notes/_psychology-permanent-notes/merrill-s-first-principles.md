@@ -17,7 +17,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - merrill-s-first-principles-synthetic-seed-2026-04-25
@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Merrill's First Principles Overview**
+> *Follow the sequence of learning stages from problem-solving to integration.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem-Solving] --> B[Prior Knowledge]
+>   B --> C[Demonstration]
+>   C --> D[Application]
+>   D --> E[Integration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Learning Process Flowchart**
+> *Trace the learner's journey from engagement to mastery through feedback loops.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Engage] --> B[Activate]
+>   B --> C[Demonstrate]
+>   C --> D[Apply]
+>   D --> E[Integrate]
+>   E --> F[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Application**
+> *Identify how Merrill's principles are applied in instructional design and training.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem-Centered Curricula] --> B[Activate Prior Knowledge]
+>   B --> C[Demonstrate New Skills]
+>   C --> D[Apply in Scenarios]
+>   D --> E[Integrate into Practice]
+> ```
 
 # Merrill S First Principles
 

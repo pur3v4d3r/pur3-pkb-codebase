@@ -21,7 +21,7 @@ subdomains:
   - mlops
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - fallback-prompt-strategies-synthetic-seed-2026-05-20
@@ -69,8 +69,79 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fallback Mechanism Flowchart**
+> *Follow the flow from primary to secondary fallbacks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Primary Model Call] -->|Fail or Low Quality| B[Secondary Model Call]
+>   B -->|Fail or Low Quality| C[Simplified Prompt]
+>   C -->|Fail or Low Quality| D[Safe Default Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Fallback Strategy Hierarchy**
+> *Identify the fallback hierarchy from primary to default.*
+>
+> ```mermaid
+> graph TD
+>   A[Primary Model Call] --> B{Fail or Low Quality}
+>   B -->|Yes| C[Secondary Model Call]
+>   B -->|No| D[Simplified Prompt]
+>   C -->|Fail or Low Quality| E{Retry with Simplified Prompt}
+>   E -->|Yes| F[Different Secondary Model]
+>   E -->|No| G[Safe Default Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples Comparison**
+> *Compare fallback strategies across different applications.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant CustomerService as CS
+>   participant MOOCs as M
+>   ID->>PrimaryModel: Call Primary Model
+>   opt Fail or Low Quality
+>     ID->>SecondaryModel: Call Secondary Model
+>     alt Fail or Low Quality
+>       ID->>SimplifiedPrompt: Simplified Prompt
+>       opt Fail or Low Quality
+>         ID->>SafeDefault: Safe Default Response
+>       end
+>     end
+>   end
+>   CS->>PrimaryModel: Call Primary Model
+>   opt Fail or Low Quality
+>     CS->>SecondaryModel: Call Secondary Model
+>     alt Fail or Low Quality
+>       CS->>SimplifiedPrompt: Simplified Prompt
+>       opt Fail or Low Quality
+>         CS->>SafeDefault: Safe Default Response
+>       end
+>     end
+>   end
+>   M->>PrimaryModel: Call Primary Model
+>   opt Fail or Low Quality
+>     M->>SecondaryModel: Call Secondary Model
+>     alt Fail or Low Quality
+>       M->>SimplifiedPrompt: Simplified Prompt
+>       opt Fail or Low Quality
+>         M->>SafeDefault: Safe Default Response
+>       end
+>     end
+>   end
+> ```
 
 # Fallback Prompt Strategies
 

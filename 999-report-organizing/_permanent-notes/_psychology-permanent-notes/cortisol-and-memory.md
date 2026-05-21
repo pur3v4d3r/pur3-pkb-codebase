@@ -19,7 +19,7 @@ subdomains:
   - stress-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - cortisol-and-memory-synthetic-seed-2026-04-25
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Cortisol-Memory Relationship**
+> *Follow the inverted-U curve to understand cortisol's effect on memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Cortisol] --> B[Moderate]
+>   B --> C[High Cortisol]
+>   A --> D[Impaired Memory]
+>   B --> E[Enhanced Memory]
+>   C --> F[Impaired Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Amygdala-Hippocampal Interaction**
+> *Trace the pathways to see how cortisol affects memory consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Amygdala] --> B[Hippocampus]
+>   C[Cortisol] -->|Moderate Levels| D[Enhanced Interaction]
+>   E[Chronic Exposure] --> F[Dendritic Atrophy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Consolidation Process**
+> *Observe the flow from emotional processing to memory consolidation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Amygdala as A
+>   participant Hippocampus as H
+>   participant Cortisol as C
+>   A->>H: Emotionally Salient Information
+>   C->>A: Moderate Levels
+>   A->>H: Enhanced Interaction
+>   H-->>C: Memory Consolidation
+> ```
 
 # Cortisol and Memory
 

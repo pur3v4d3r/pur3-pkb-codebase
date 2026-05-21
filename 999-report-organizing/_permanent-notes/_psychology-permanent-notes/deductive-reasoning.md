@@ -17,7 +17,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - deductive-reasoning-synthetic-seed-2026-04-24
@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Deductive Reasoning Process Flow**
+> *Follow the flow from premises to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premises] --> B[Logical Rules]
+>   B --> C[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Deductive Reasoning Example**
+> *Trace the logical steps from general to specific.*
+>
+> ```mermaid
+> flowchart LR
+>   A[All men are mortal] --> B[Socrates is a man]
+>   B --> C[Socrates is mortal]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deductive Reasoning Applications**
+> *Identify the different contexts where deductive reasoning is used.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Mathematical Proofs]
+>   C[Legal Arguments] --> D[Formal Proofs]
+> ```
 
 # Deductive Reasoning
 

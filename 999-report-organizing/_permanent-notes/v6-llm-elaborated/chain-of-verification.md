@@ -18,7 +18,7 @@ subdomains:
   - factual-accuracy
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - chain-of-verification-synthetic-seed-2026-05-20
@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Chain Verification Process Flow**
+> *Follow the sequence from generation to revision.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Response]
+>   B[Formulate Questions]
+>   C[Answer Questions]
+>   D[Revise Output]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Verification vs Other Techniques**
+> *Compare Chain Verification with other prompting methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain of Thought]
+>   B[Self-Refine]
+>   C[Chain Verification]
+>   D[External Verify]
+>   E[No Explicit Step]
+>   F[Explicit Step]
+>   A -->|Inaccurate| E
+>   B -->|Inaccurate| E
+>   C -->|Accurate| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Chain Verification Stages**
+> *Identify the three stages of Chain Verification.*
+>
+> ```mermaid
+> graph TD
+>   A[Generation]
+>   B[Verification]
+>   C[Revision]
+>   A -->|Initial Response|
+>   A --> B
+>   B -->|Factual Questions|
+>   B --> C
+>   C -->|Corrected Output|
+> ```
 
 # Chain of Verification
 

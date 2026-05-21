@@ -17,7 +17,7 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - social-cognition-synthetic-seed-2026-04-25
@@ -66,8 +66,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Dual-process theory overview**
+> *Follow the flow from System 1 to System 2 processes.*
+>
+> ```mermaid
+> graph TD
+>   A[System 1]
+>   B(System 2)
+>   A -->|Automatic, unconscious| B
+>   B -->|Controlled reasoning|
+> ```
+
+
+> [!abstract] **Diagram 2 — Social cognition process flow**
+> *Trace the steps from perception to social judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception]
+>   B[Encoding]
+>   C[Storage]
+>   D[Retrieval]
+>   E[Judgment]
+>   F[Behavior]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Social cognition applications**
+> *Identify the areas where social cognition is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B(Therapeutic Interventions)
+>   C(Marketing Strategies)
+>   D(Spaced Retrieval in MOOCs)
+>   subgraph Applications
+>     A -->|System 1 & System 2|
+>     B -->|Dual-process|
+>     C -->|Schema-driven|
+>     D -->|Spaced retrieval|
+>   end
+> ```
 
 # Social Cognition
 

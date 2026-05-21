@@ -1,14 +1,13 @@
 ---
-title: "Memory-Augmented LLMs"
+title: Memory-Augmented LLMs
 aliases:
-  - "Memory-Augmented LLMs"
-  - "memory-augmented language models"
-  - "external memory LLMs"
-  - "long-term memory LLMs"
+  - Memory-Augmented LLMs
+  - memory-augmented language models
+  - external memory LLMs
+  - long-term memory LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,117 @@ subdomains:
   - knowledge-management
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "memory-augmented-llms-synthetic-seed-2026-05-21"
+  - memory-augmented-llms-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Context Management"
-
+parent-concept: LLM Context Management
 related:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
-  - "[[Episodic Memory in Agents]]"
-  - "[[Semantic Memory in Agents]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
+  - '[[Episodic Memory in Agents]]'
+  - '[[Semantic Memory in Agents]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Episodic Memory in Agents]]"
-  - "[[Semantic Memory in Agents]]"
+  - '[[Episodic Memory in Agents]]'
+  - '[[Semantic Memory in Agents]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Memory-Augmented LLM Architecture Overview**
+> *Identify the components and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[LLM Core]
+>   C[External Memory]
+>   D[Output]
+>   A -->|Process Input| B
+>   B -->|Store/Retrieve Data| C
+>   B -->|Generate Response| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Types in LLMs**
+> *Understand the different types of external memory used.*
+>
+> ```mermaid
+> graph TD
+>   A[Vector Stores]
+>   B[Key-Value Databases]
+>   C[Episodic Buffers]
+>   D[Compressed Summary States]
+>   subgraph External Memory Systems
+>     A -->|Store and Retrieve Vectors|
+>     B -->|Store and Retrieve Key-Value Pairs|
+>     C -->|Maintain Temporal Context|
+>     D -->|Condense Information for Storage|
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Standard LLM vs Memory-Augmented LLM**
+> *Compare the context handling capabilities of both models.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant StandardLLM as SLLM
+>   participant MemoryAugmentedLLM as MALLM
+>   participant User as U
+>   U ->> SLLM: Request
+>   SLLM -->> U: Response
+>   alt Persistent State
+>     U ->> MALLM: Request
+>     MALLM -->|Store Data in External Memory|
+>     MALLM -->> U: Response
+>     loop Next Session
+>       U ->> MALLM: New Request
+>       MALLM -->|Retrieve Stored Data|
+>       MALLM -->> U: Updated Response
+>     end
+>   else No Persistent State
+>     U ->> SLLM: New Request
+>     SLLM -->> U: Fresh Response
+>   end
+> ```
 
 # Memory-Augmented LLMs
 

@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Self-handicapping process flow**
+> *Follow the steps from identifying a situation to attributing failure.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify achievement situation] --> B[Reduce success chances]
+>   B --> C[Fail]
+>   C --> D[Attribute failure to lack of effort]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-handicapping in educational context**
+> *See how self-handicapping manifests in different academic scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Exam] --> B[Procrastinate]
+>   C[Presentation] --> D[Late arrival]
+>   E[Athletic competition] --> F[Sabotage practice]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance-avoidance vs mastery goals**
+> *Compare performance-avoidance and mastery orientations in achievement goal theory.*
+>
+> ```mermaid
+> classDiagram
+>   class PerformanceAvoidance {
+>     +striveToAvoidIncompetence()
+>     -engageInSelfHandicapping()
+>   }
+>   class Mastery {
+>     +focusOnImprovement()
+>     +embraceChallenges()
+>   }
+>   PerformanceAvoidance -->|leads to| SelfHandicapping
+>   Mastery -->|promotes| GrowthMindset
+> ```
 
 # Self-Handicapping
 

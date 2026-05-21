@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -69,8 +69,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Supportive Information Mechanism**
+> *Follow the flow from existing knowledge to new task demands.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Existing Knowledge] --> B[Cognitive Bridging]
+>   B --> C[New Task Demands]
+> ```
+
+
+> [!abstract] **Diagram 2 — Supportive Information in Instructional Design**
+> *Trace the integration of supportive information into learning tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning Tasks] --> B[Integrated Supportive Info]
+>   B --> C[Efficacy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Supportive Information Evolution**
+> *Observe the progression from initial clarification to advanced strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Clarification] --> B[Detailed Explanations]
+>   B --> C[Cognitive Strategies]
+> ```
 
 # Supportive Information
 

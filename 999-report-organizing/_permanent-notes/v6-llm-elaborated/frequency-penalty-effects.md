@@ -20,7 +20,7 @@ subdomains:
   - openai-api
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - frequency-penalty-effects-synthetic-seed-2026-05-20
@@ -68,8 +68,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Frequency Penalty Mechanism**
+> *Follow the flow from token generation to penalty application.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Generation]
+>   B[Score Calculation]
+>   C[Frequency Counting]
+>   D[Negative Reward Addition]
+>   E[Probability Adjustment]
+>   F[Output Selection]
+>   A -->|Generate Token| B
+>   B -->|Calculate Score| C
+>   C -->|Count Frequency| D
+>   D -->|Apply Negative Reward| E
+>   E -->|Adjust Probability| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Frequency Penalty vs Repetition Penalty**
+> *Compare the penalty application methods of frequency and repetition penalties.*
+>
+> ```mermaid
+> graph TD
+>   A[Frequency Penalty]
+>   B[Repetition Penalty]
+>   C[Token Appears Once]
+>   D[Token Appears Multiple Times]
+>   E[Fixed Multiplicative Penalty]
+>   F[Additive Linear Penalty]
+>   A -->|Linearly Scales with Frequency| F
+>   B -->|Applies Fixed Penalty| E
+>   C --> A
+>   C --> B
+>   D --> A
+>   D -.-> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Frequency Penalty in Practice**
+> *Identify scenarios where frequency penalty impacts text quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Tech Documentation]
+>   C[Natural Text]
+>   D[Unnatural Text]
+>   E[Cohesion Issues]
+>   F[Ambiguity]
+>   A -->|High Penalties| D
+>   A -->|Low Penalties| C
+>   B -->|High Penalties| E
+>   B -->|Low Penalties| F
+> ```
 
 # Frequency Penalty Effects
 

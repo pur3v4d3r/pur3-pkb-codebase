@@ -1,15 +1,14 @@
 ---
-title: "Reinforcement Learning from Human Feedback"
+title: Reinforcement Learning from Human Feedback
 aliases:
-  - "Reinforcement Learning from Human Feedback"
-  - "RLHF Reinforcement Learning from Human Feedback"
-  - "RLHF"
-  - "RL from human feedback"
-  - "human-feedback reinforcement learning"
+  - Reinforcement Learning from Human Feedback
+  - RLHF Reinforcement Learning from Human Feedback
+  - RLHF
+  - RL from human feedback
+  - human-feedback reinforcement learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,101 @@ subdomains:
   - llm-training
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "rlhf-reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-21"
+  - rlhf-reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Fine-Tuning"
-
+parent-concept: LLM Fine-Tuning
 related:
-  - "[[Supervised Fine-Tuning]]"
-  - "[[Reward Hacking in RLHF]]"
+  - '[[Supervised Fine-Tuning]]'
+  - '[[Reward Hacking in RLHF]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Supervised Fine-Tuning]]"
+  - '[[Supervised Fine-Tuning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reward Hacking in RLHF]]"
+  - '[[Reward Hacking in RLHF]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — RLHF Process Overview**
+> *Follow the stages from supervised fine-tuning to reinforcement learning optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Fine-Tuning]
+>   B[Reward Model Training]
+>   C[Reinforcement Learning Optimization]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — RLHF vs Supervised Fine-Tuning**
+> *Compare the approaches of RLHF and supervised fine-tuning in aligning language models.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Fine-Tuning]
+>   B[RLHF]
+>   C[Labeled Examples]
+>   D[Preference Data]
+>   E[Direct Instruction]
+>   F[Reinforcement Learning Optimization]
+>   G[Nuanced Human Judgments]
+>   H[Tech. Correctness]
+>   I[Pedagogical Soundness]
+>   A -->|C,E,H| C
+>   B -->|D,F,G,I| B
+> ```
+
+
+> [!abstract] **Diagram 3 — RLHF Mechanism Flow**
+> *Trace the flow from initial policy to reward model training and reinforcement learning optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Policy]
+>   B[Reward Model Training]
+>   C[Reinforcement Learning Optimization]
+>   A --> B
+>   B -->|PPO| C
+> ```
 
 # Reinforcement Learning from Human Feedback
 

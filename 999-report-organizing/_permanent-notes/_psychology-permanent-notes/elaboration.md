@@ -17,7 +17,7 @@ subdomains:
   - study-strategies
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - elaboration-synthetic-seed-2026-04-24
@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Elaboration Process Flowchart**
+> *Follow the sequence from identifying prior knowledge to integrating new connections.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Prior Knowledge] --> B[Generate Links]
+>   B --> C[Integrate Connections]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elaboration Mechanism Stages**
+> *Trace the stages from initial identification to final integration of new information.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Relevant Knowledge] --> B[Generate Connections]
+>   B --> C[Integrate into Network]
+> ```
+
+
+> [!abstract] **Diagram 3 — Elaboration vs Cognitive Load**
+> *Compare intrinsic and extraneous load impacts of elaboration.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant NewInfo as NI
+>   participant PriorKnowledge as PK
+>   L->>NI: Encounter New Information
+>   NI-->>L: Processed with Elaboration
+>   L->>PK: Identify Relevant Knowledge
+>   PK-->>L: Generate Connections
+>   L->>CognitiveLoad: Reduce Intrinsic Load
+>   L->>CognitiveLoad: Increase Extraneous Load
+> ```
 
 # Elaboration
 

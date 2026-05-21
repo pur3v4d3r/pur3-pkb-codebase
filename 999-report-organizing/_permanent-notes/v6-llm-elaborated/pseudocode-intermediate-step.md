@@ -1,14 +1,13 @@
 ---
-title: "Pseudocode Intermediate Step"
+title: Pseudocode Intermediate Step
 aliases:
-  - "Pseudocode Intermediate Step"
-  - "pseudocode-first generation"
-  - "pseudocode intermediate representation"
-  - "algorithmic planning step"
+  - Pseudocode Intermediate Step
+  - pseudocode-first generation
+  - pseudocode intermediate representation
+  - algorithmic planning step
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - chain-of-thought-prompting
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "pseudocode-intermediate-step-synthetic-seed-2026-05-20"
+  - pseudocode-intermediate-step-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Code Generation Techniques"
-
+parent-concept: Code Generation Techniques
 related:
-  - "[[Code Generation Techniques]]"
-  - "[[Algorithm Design]]"
+  - '[[Code Generation Techniques]]'
+  - '[[Algorithm Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Code Generation Techniques]]"
+  - '[[Code Generation Techniques]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Algorithm Design]]"
+  - '[[Algorithm Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Pseudocode Generation Process**
+> *Follow the flow from problem to pseudocode then implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Pseudocode]
+>   B --> C[Implementation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Algorithm Design vs Implementation Separation**
+> *Compare the distinct phases of algorithm design and language-specific implementation.*
+>
+> ```mermaid
+> graph TD
+>   A[Algorithm Design] --> B[Pseudocode]
+>   C[Implementation] --> D[Language-Specific Code]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pseudocode Workflow in Collaborative Projects**
+> *See how pseudocode facilitates communication among team members.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Developer1 as Dev1
+>   participant Developer2 as Dev2
+>   participant Pseudocode as Psd
+>   Dev1->>Psd: Design Algorithm
+>   Psd-->>Dev2: Share Pseudocode
+>   Dev2->>Psd: Implement Code
+> ```
 
 # Pseudocode Intermediate Step
 

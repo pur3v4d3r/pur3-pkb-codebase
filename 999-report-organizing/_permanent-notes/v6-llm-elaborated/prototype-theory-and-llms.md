@@ -1,14 +1,13 @@
 ---
-title: "Prototype Theory and LLMs"
+title: Prototype Theory and LLMs
 aliases:
-  - "Prototype Theory and LLMs"
-  - "prototype-based categorisation LLMs"
-  - "exemplar theory LLMs"
-  - "typicality effects LLMs"
+  - Prototype Theory and LLMs
+  - prototype-based categorisation LLMs
+  - exemplar theory LLMs
+  - typicality effects LLMs
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,97 @@ subdomains:
   - categorisation
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prototype-theory-and-llms-synthetic-seed-2026-05-20"
+  - prototype-theory-and-llms-synthetic-seed-2026-05-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Science"
-
+parent-concept: Cognitive Science
 related:
-  - "[[Typicality Effects]]"
-  - "[[Prototype Theory]]"
+  - '[[Typicality Effects]]'
+  - '[[Prototype Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Typicality Effects]]"
+  - '[[Typicality Effects]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Prototype Theory]]"
+  - '[[Prototype Theory]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prototype Theory Overview**
+> *Follow the flow from human prototypes to model prototypes.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Prototypes]
+>   B[Model Prototypes]
+>   A -->|Cognitive Processes| C[Training Data]
+>   C -->|Statistical Patterns| D
+>   D -->|Category Representation| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Typicality Effects in LLMs**
+> *Observe the confidence levels for typical vs atypical inputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Typical Input] -->|High Confidence| C[Coherent Response]
+>   D[Atypical Input] -->|Low Confidence| E[Irrelevant Response]
+>   A --> B
+>   A --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Engineering Workflow**
+> *Trace the steps from prototype selection to model response.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant PromptEngineer as P
+>   P->>M: Provide Typical Example
+>   M-->>U: Generate Coherent Response
+>   P->>M: Provide Atypical Example
+>   M-->>U: Generate Irrelevant Response
+> ```
 
 # Prototype Theory and LLMs
 

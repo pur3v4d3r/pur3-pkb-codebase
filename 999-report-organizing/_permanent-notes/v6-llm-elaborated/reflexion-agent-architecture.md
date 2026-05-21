@@ -1,14 +1,13 @@
 ---
-title: "Reflexion Agent Architecture"
+title: Reflexion Agent Architecture
 aliases:
-  - "Reflexion Agent Architecture"
-  - "Reflexion agents"
-  - "reflective agent"
-  - "self-reflecting agent"
+  - Reflexion Agent Architecture
+  - Reflexion agents
+  - reflective agent
+  - self-reflecting agent
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,89 @@ subdomains:
   - self-improvement
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "reflexion-agent-architecture-synthetic-seed-2026-05-20"
+  - reflexion-agent-architecture-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Agentic Frameworks"
-
+parent-concept: Agentic Frameworks
 related:
-  - "[[Episodic Memory]]"
-  - "[[Self-Reflection]]"
-  - "[[Language-Mediated Learning]]"
+  - '[[Episodic Memory]]'
+  - '[[Self-Reflection]]'
+  - '[[Language-Mediated Learning]]'
 prerequisites:
-  - "[[Episodic Memory]]"
-  - "[[Self-Reflection]]"
+  - '[[Episodic Memory]]'
+  - '[[Self-Reflection]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Language-Mediated Learning]]"
+  - '[[Language-Mediated Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reflexion Agent Process Flow**
+> *Follow the sequence from attempt to reflection and improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attempt] --> B[Failure]
+>   B --> C[Self-Reflection]
+>   C --> D[Verbal Summary]
+>   D --> E[Store in Memory]
+>   E --> F[Inform Future Attempts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Traditional Learning Methods**
+> *Compare Reflexion Agent's language-mediated learning to numerical feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflexion Agent]
+>   B[Numerical Feedback]
+>   C[Verbal Summaries]
+>   D[Gradient Updates]
+>   E[Reflection Models]
+>   F[Reinforcement Signals]
+>   A -->|Language-mediated Reflection| C
+>   B -->|Numerical Feedback| D
+>   A -.-> E
+>   B -.-> F
+> ```
 
 # Reflexion Agent Architecture
 

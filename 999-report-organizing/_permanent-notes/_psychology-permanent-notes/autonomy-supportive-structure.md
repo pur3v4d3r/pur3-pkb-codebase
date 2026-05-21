@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -70,8 +70,50 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Autonomy-Supportive Structure Overview**
+> *Identify the balance between structure and autonomy.*
+>
+> ```mermaid
+> graph TD
+>   A[Clear Expectations] --> B[Explicit Rationale]
+>   B --> C[Meaningful Choice]
+>   C --> D[Well-Defined Boundaries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Internalization**
+> *Trace the process from external structures to internal self-regulation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ExternalStructure
+>   ExternalStructure --> EngageWithCurriculum
+>   EngageWithCurriculum --> DevelopSkillsAndValues
+>   DevelopSkillsAndValues --> InternalSelfRegulatoryCapacities
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Adaptive Learning Platforms**
+> *Follow the personalized learning path and feedback loop.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student
+>   participant Platform
+>   Student->>Platform: Choose Problem-Solving Approach
+>   Platform->>Student: Provide Rationale-Based Feedback
+>   Student->>Platform: Solve Problems
+>   Platform->>Student: Adjust Difficulty Based on Performance
+> ```
 
 # Autonomy-Supportive Structure
 

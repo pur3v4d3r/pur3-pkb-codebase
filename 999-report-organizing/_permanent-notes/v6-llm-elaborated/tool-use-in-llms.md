@@ -1,14 +1,13 @@
 ---
-title: "Tool Use in LLMs"
+title: Tool Use in LLMs
 aliases:
-  - "Tool Use in LLMs"
-  - "LLM tool use"
-  - "external tool integration"
-  - "augmented language models"
+  - Tool Use in LLMs
+  - LLM tool use
+  - external tool integration
+  - augmented language models
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,80 @@ subdomains:
   - api-integration
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "tool-use-in-llms-synthetic-seed-2026-05-20"
+  - tool-use-in-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Function Calling]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Function Calling]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Function Calling]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Function Calling]]'
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Tool Use Process Flow**
+> *Follow the sequence from input to output, noting tool invocation steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Prompt Generation]
+>   B --> C[Tool Invocation]
+>   C --> D[Tool Execution]
+>   D --> E[Integration with Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Application Areas of Tool Use**
+> *Identify the different application areas and their specific tool requirements.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Integration with Educational Resources]
+>   C[Customer Service] --> D[Integration with Real-Time Data Retrieval]
+>   E[Code Generation] --> F[Integration with Code Interpreters]
+> ```
 
 # Tool Use in LLMs
 

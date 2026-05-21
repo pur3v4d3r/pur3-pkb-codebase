@@ -19,7 +19,7 @@ subdomains:
   - recursive-reasoning
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - meta-prompting-synthetic-seed-2026-05-20
@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Meta-Prompting Process Flow**
+> *Follow the flow from high-level description to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Level Description] --> B[LLM Analysis]
+>   B --> C[Prompt Generation]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Prompting**
+> *Compare the reflective and reactive approaches to prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Description] --> B[LLM Analysis]
+>   B --> C[Prompt Generation]
+>   D[Predefined Template] --> E[Immediate Output]
+>   subgraph Reflective
+>     A
+>     B
+>     C
+>   end
+>   subgraph Reactive
+>     D
+>     E
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Meta-Prompting Applications**
+> *Identify the applications of Meta-Prompting in different fields.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Generate Step-by-Step Instructions]
+>   C[Content Generation] --> D[Create Specific Text]
+>   subgraph Applications
+>     A
+>     B
+>     C
+>     D
+>   end
+> ```
 
 # Meta-Prompting
 

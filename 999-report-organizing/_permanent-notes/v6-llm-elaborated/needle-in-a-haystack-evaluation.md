@@ -1,15 +1,14 @@
 ---
-title: "Needle in a Haystack Evaluation"
+title: Needle in a Haystack Evaluation
 aliases:
-  - "Needle in a Haystack Evaluation"
-  - "NIAH"
-  - "NIAH benchmark"
-  - "long-context recall evaluation"
-  - "pressure test"
+  - Needle in a Haystack Evaluation
+  - NIAH
+  - NIAH benchmark
+  - long-context recall evaluation
+  - pressure test
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,118 @@ subdomains:
   - benchmark-design
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "needle-in-a-haystack-evaluation-synthetic-seed-2026-05-20"
+  - needle-in-a-haystack-evaluation-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[LLM Evaluation]]"
-  - "[[Long-context prompting strategies]]"
+  - '[[LLM Evaluation]]'
+  - '[[Long-context prompting strategies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LLM Evaluation]]"
+  - '[[LLM Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Long-context prompting strategies]]"
+  - '[[Long-context prompting strategies]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — NIAH Evaluation Process Flow**
+> *Follow the steps from embedding facts to generating recall heatmaps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Embed Facts]
+>   B[Query for Information]
+>   C[Evaluate Recall Accuracy]
+>   D[Generate Heatmap]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Recall Performance Across Context Lengths**
+> *Observe how recall accuracy varies with context length and fact position.*
+>
+> ```mermaid
+> graph TD
+>   A[Short Context]
+>   B[Moderate Context]
+>   C[Long Context]
+>   D[Very Long Context]
+>   A -->|High Recall| E[Beginning]
+>   A -->|Medium Recall| F[Midpoint]
+>   A -->|Low Recall| G[End]
+>   B -->|Moderate Recall| H[Beginning]
+>   B -->|Low Recall| I[Midpoint]
+>   B -->|Very Low Recall| J[End]
+>   C -->|Low Recall| K[Beginning]
+>   C -->|Very Low Recall| L[Midpoint]
+>   C -->|Extremely Low Recall| M[End]
+>   D -->|Very Low Recall| N[Beginning]
+>   D -->|Extremely Low Recall| O[Midpoint]
+>   D -->|Near Zero Recall| P[End]
+> ```
+
+
+> [!abstract] **Diagram 3 — NIAH vs Multi-Hop Reasoning**
+> *Compare NIAH evaluation with multi-hop reasoning tasks.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant User as U
+>   participant Task1 as T1
+>   participant Task2 as T2
+>   U->>M: Query for Verbatim Fact (NIAH)
+>   M-->>U: Retrieve Exact Information
+>   alt Multi-Hop Reasoning
+>     U->>T1: Provide Context and Question
+>     T1->>M: Extract Relevant Facts
+>     M->>T2: Synthesize Answer from Facts
+>     T2-->>U: Return Integrated Response
+>   else Verbatim Recall Only
+>     U->>M: Query for Specific Fact
+>     M-->>U: Retrieve Exact Information
+>   end
+> ```
 
 # Needle in a Haystack Evaluation
 

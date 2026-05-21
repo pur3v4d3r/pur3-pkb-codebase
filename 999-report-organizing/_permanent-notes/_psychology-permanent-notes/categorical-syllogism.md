@@ -19,7 +19,7 @@ subdomains:
   - history-of-logic
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - categorical-syllogism-synthetic-seed-2026-05-12
@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Categorical Syllogism Structure**
+> *Identify the three categorical propositions and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Major Premise] --> B[Middle Term]
+>   C[Minor Premise] --> B
+>   B --> D[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Categorical Syllogism Validity Testing**
+> *Follow the logical flow to determine syllogistic validity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Major Premise] --> B[Middle Term]
+>   C[Minor Premise] --> B
+>   D[Conclusion] --> E[Validity Check]
+> ```
+
+
+> [!abstract] **Diagram 3 — Categorical vs Relational Reasoning**
+> *Compare the scope and complexity of categorical versus relational reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Categorical Syllogism] --> B[Quantifiers]
+>   C[Relational Reasoning] --> D[Complex Structures]
+> ```
 
 # Categorical Syllogism
 

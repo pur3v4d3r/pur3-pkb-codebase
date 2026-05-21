@@ -1,14 +1,13 @@
 ---
-title: "Greedy Decoding"
+title: Greedy Decoding
 aliases:
-  - "Greedy Decoding"
-  - "argmax decoding"
-  - "greedy token selection"
-  - "deterministic decoding"
+  - Greedy Decoding
+  - argmax decoding
+  - greedy token selection
+  - deterministic decoding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,84 @@ subdomains:
   - deterministic-algorithms
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "greedy-decoding-synthetic-seed-2026-05-21"
+  - greedy-decoding-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Decoding Strategies"
-
+parent-concept: LLM Decoding Strategies
 related:
-  - "[[Temperature Sampling]]"
-  - "[[Beam Search Decoding]]"
+  - '[[Temperature Sampling]]'
+  - '[[Beam Search Decoding]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Temperature Sampling]]"
+  - '[[Temperature Sampling]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Beam Search Decoding]]"
+  - '[[Beam Search Decoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Greedy Decoding Process Flow**
+> *Follow the sequence from input to output, noting the deterministic selection at each step.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Context Window]
+>   B --> C[Token Probabilities]
+>   C --> D{Highest Probability}
+>   D --> E[Select Token]
+>   E --> F[Output Sequence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Greedy vs Beam Search Comparison**
+> *Compare the paths taken by greedy decoding and beam search to understand their differences in sequence generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B{Greedy}
+>   B --> C[Select Highest]
+>   C --> D[End Sequence]
+>   A --> E{Beam Search}
+>   E --> F[Multiple Paths]
+>   F --> G[Cumulative Score]
+>   G --> H[Best Path]
+> ```
 
 # Greedy Decoding
 

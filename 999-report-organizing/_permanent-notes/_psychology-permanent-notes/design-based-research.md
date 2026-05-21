@@ -18,7 +18,7 @@ subdomains:
   - learning-science
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - design-based-research-synthetic-seed-2026-05-01
@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — DBR Iterative Cycle Overview**
+> *Follow the cycle from design to redesign.*
+>
+> ```mermaid
+> graph TD
+>   A[Design]
+>   B[Implementation]
+>   C[Analysis]
+>   D[Redesign]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — DBR vs Other Research Methods**
+> *Compare DBR with controlled experimentation and action research.*
+>
+> ```mermaid
+> graph TD
+>   A[Design-Based Research]
+>   B(Controlled Experimentation)
+>   C(Action Research)
+>   A -->|Ecological Validity| D
+>   A -->|Theory Development| E
+>   B -->|Controlled Environment| F
+>   B -->|Hypothesis Testing| G
+>   C -->|Immediate Application| H
+>   C -->|Stakeholder Involvement| I
+> ```
+
+
+> [!abstract] **Diagram 3 — DBR Mechanism Flowchart**
+> *Trace the flow from initial design to final iteration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Problem]
+>   B[Design Intervention]
+>   C[Implement]
+>   D[Analyze Effectiveness]
+>   E[Redesign Based on Analysis]
+>   F[Iterate Until Effective]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
 
 # Design-Based Research
 

@@ -20,7 +20,7 @@ subdomains:
   - natural-language-inference
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - fact-verification-prompting-synthetic-seed-2026-05-20
@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fact Verification Mechanisms**
+> *Identify the two primary mechanisms of fact verification.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Verification]
+>   B(Cross-Model Verification)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Verification Process Flow**
+> *Follow the steps involved in self-verifying a model's claims.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Claim]
+>   B(Re-examine Claims)
+>   C[Search for Contradictions]
+>   D[Flag Uncertain Assertions]
+>   E[Provide Evidence]
+>   A --> B
+>   B --> C
+>   C -->|Yes| D
+>   C -->|No| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Cross-Model Verification Flow**
+> *Trace the interaction between two models for cross-model verification.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model1 as M1
+>   participant Model2 as M2
+>   participant ExternalKB as KB
+>   M1->>M2: Generate Claim
+>   M2->>KB: Query Evidence
+>   KB-->>M2: Return Evidence
+>   M2->>M1: Verify or Refute
+> ```
 
 # Fact Verification Prompting
 

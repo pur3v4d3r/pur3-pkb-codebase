@@ -1,14 +1,13 @@
 ---
-title: "Debate as Alignment Technique"
+title: Debate as Alignment Technique
 aliases:
-  - "Debate as Alignment Technique"
-  - "AI debate"
-  - "debate for oversight"
-  - "adversarial debate alignment"
+  - Debate as Alignment Technique
+  - AI debate
+  - debate for oversight
+  - adversarial debate alignment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,106 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "debate-as-alignment-technique-synthetic-seed-2026-05-21"
+  - debate-as-alignment-technique-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "AI Alignment Techniques"
-
+parent-concept: AI Alignment Techniques
 related:
-  - "[[Scalable Oversight]]"
-  - "[[Constitutional AI]]"
+  - '[[Scalable Oversight]]'
+  - '[[Constitutional AI]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Scalable Oversight]]"
+  - '[[Scalable Oversight]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Constitutional AI]]"
+  - '[[Constitutional AI]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Debate Process Flowchart**
+> *Follow the flow from AI agents to human judge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AI Agent 1] --> B[Argument]
+>   C[AI Agent 2] --> D[Counter-Argument]
+>   E[Human Judge] --> F[Judgment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Debate Mechanism Overview**
+> *Identify the roles of AI agents and human judge.*
+>
+> ```mermaid
+> graph TD
+>   A[AI Agent 1] -->|Argue for Position| B(Human Judge)
+>   C[AI Agent 2] -->|Counter-Argument| B
+>   D[Honesty]
+>   E[Dishonesty]
+>   F[Truthfulness]
+>   G[Robustness]
+>   H[Human Judgment]
+>   A -->|Honesty| D
+>   C -->|Dishonesty| E
+>   B -->|Truthfulness| F
+>   B -->|Robustness| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Debate Application Areas**
+> *See the different application areas for debate technique.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Ensure Accuracy| B(Human Judge)
+>   C[Legal Argumentation] -->|Robust Legal Advice| D(Human Judge)
+>   E[Honest AI Agent]
+>   F[Dishonest AI Agent]
+>   G[Judgment]
+>   H[Educational Content]
+>   I[Legal Advice]
+>   A -->|Honesty| E
+>   C -->|Dishonesty| F
+>   B -->|Judgment| G
+>   A -->|Content Quality| H
+>   C -->|Reliability| I
+> ```
 
 # Debate as Alignment Technique
 

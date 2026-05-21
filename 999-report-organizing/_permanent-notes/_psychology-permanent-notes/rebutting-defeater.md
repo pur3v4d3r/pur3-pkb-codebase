@@ -17,7 +17,7 @@ subdomains:
   - defeasible-reasoning
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - rebutting-defeater-synthetic-seed-2026-05-12
@@ -64,8 +64,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Rebutting Defeater Process Flow**
+> *Follow the flow to understand how a rebutting defeater challenges an argument's conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument Conclusion] --> B[Presents New Evidence]
+>   B --> C[Evaluates Conclusion]
+>   C --> D[Reassesses Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Defeaters**
+> *Compare the direct challenge of rebutting defeaters with the indirect approach of undercutting defeaters.*
+>
+> ```mermaid
+> graph TD
+>   A[Rebutting Defeater] -->|Directly Challenges Truth Value| B[Argument Conclusion]
+>   C[Undercutting Defeater] -->|Undermines Supporting Evidence| D[Argument Premises]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the differences between reflective and reactive thinking in handling rebutting defeaters.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Considers Counterarguments| B[Evaluates Arguments]
+>   C[Reactive Thinking] -->|Quick Judgments| D[Ignores Complex Counterarguments]
+> ```
 
 # Rebutting Defeater
 

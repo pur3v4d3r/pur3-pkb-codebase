@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -70,8 +70,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PLOC Concept Hierarchy**
+> *Follow the hierarchy from general to specific aspects of PLOC.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Locus of Causality]
+>   B[Internal PLOC]
+>   C[External PLOC]
+>   A -->|Includes| B
+>   A -->|Includes| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism Shift in PLOC**
+> *Trace the shift from internal to external PLOC due to controlling events.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Internal PLOC]
+>   B[External Rewards]
+>   C[Controlling Events]
+>   D[External PLOC]
+>   A -->|Experience of Controlling Events| C
+>   C -->|Shifts to| D
+>   B -->|Triggers Controlling Events| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic Motivation Impact**
+> *Observe the impact on intrinsic motivation based on PLOC.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Internal PLOC]
+>   B[External PLOC]
+>   C[Affirms Competence]
+>   D[Reduces Intrinsic Motivation]
+>   E[Maintains/Enhances Intrinsic Motivation]
+>   A -->|Affirms Competence| C
+>   C -->|Maintains/Enhances IM| E
+>   B -->|Triggers Controlling Events| D
+> ```
 
 # Perceived Locus of Causality
 

@@ -1,14 +1,13 @@
 ---
-title: "Chart and Table Prompting"
+title: Chart and Table Prompting
 aliases:
-  - "Chart and Table Prompting"
-  - "chart reasoning prompts"
-  - "table understanding prompting"
-  - "data visualisation QA"
+  - Chart and Table Prompting
+  - chart reasoning prompts
+  - table understanding prompting
+  - data visualisation QA
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,86 @@ subdomains:
   - multimodal-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "chart-and-table-prompting-synthetic-seed-2026-05-21"
+  - chart-and-table-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Vision-Language Model Prompting"
-
+parent-concept: Vision-Language Model Prompting
 related:
-  - "[[Document Understanding Prompting]]"
-  - "[[Structured Output Enforcement]]"
-  - "[[Visual Chain-of-Thought]]"
+  - '[[Document Understanding Prompting]]'
+  - '[[Structured Output Enforcement]]'
+  - '[[Visual Chain-of-Thought]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Document Understanding Prompting]]"
-  - "[[Structured Output Enforcement]]"
+  - '[[Document Understanding Prompting]]'
+  - '[[Structured Output Enforcement]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Visual Chain-of-Thought]]"
+  - '[[Visual Chain-of-Thought]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Chart Prompting Process Flow**
+> *Follow the steps from data extraction to synthesis.*
+>
+> ```mermaid
+> graph TD
+>   A[Extract Data]
+>   B[Interpret Values]
+>   C[Synthesize Answer]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Chart and Table Prompting Mechanism**
+> *Identify the key steps in chain-of-thought prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain-Of-Thought]
+>   B[Numerical Extraction]
+>   C[Interpretation]
+>   D[Synthesis]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # Chart and Table Prompting
 

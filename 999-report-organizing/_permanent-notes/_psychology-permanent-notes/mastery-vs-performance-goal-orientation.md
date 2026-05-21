@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -68,8 +68,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Mastery vs Performance Orientation Overview**
+> *Compare the focus of mastery and performance orientations.*
+>
+> ```mermaid
+> graph TD
+>   A[Development]
+>   B[Demonstration]
+>   C[Errors as Growth]
+>   D[Errors as Inadequacy]
+>   E[Long-term Goals]
+>   F[Short-term Outcomes]
+>   G[Deep Processing]
+>   H[Rote Memorization]
+>   I[Constructive Criticism]
+>   J[Defensive/Disengaged]
+>   A -->|Mastery Orientation| C
+>   A -->|Mastery Orientation| E
+>   A -->|Mastery Orientation| G
+>   A -->|Mastery Orientation| I
+>   B -->|Performance Orientation| D
+>   B -->|Performance Orientation| F
+>   B -->|Performance Orientation| H
+>   B -->|Performance Orientation| J
+> ```
+
+
+> [!abstract] **Diagram 2 — Learning Strategies and Feedback Interpretation**
+> *See how orientations influence learning strategies and feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Elaboration]
+>   B[Self-Explanation]
+>   C[Rote Memorization]
+>   D[Constructive Criticism]
+>   E[Defensive/Disengaged]
+>   F[Mastery Orientation] -->|Learning Strategies| A
+>   F -->|Feedback Interpretation| D
+>   G[Performance Orientation] -->|Learning Strategies| C
+>   G -->|Feedback Interpretation| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Understand the cognitive load associated with each orientation.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Mastery Orientation] -->|Associated With| A
+>   D[Performance Orientation] -->|Includes| B
+> ```
 
 # Mastery vs. Performance Goal Orientation
 

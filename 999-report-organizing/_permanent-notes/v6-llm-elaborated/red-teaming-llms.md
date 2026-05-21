@@ -1,14 +1,13 @@
 ---
-title: "Red Teaming LLMs"
+title: Red Teaming LLMs
 aliases:
-  - "Red Teaming LLMs"
-  - "LLM red teaming"
-  - "adversarial stress testing"
-  - "AI red team"
+  - Red Teaming LLMs
+  - LLM red teaming
+  - adversarial stress testing
+  - AI red team
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,78 @@ subdomains:
   - adversarial-evaluation
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "red-teaming-llms-synthetic-seed-2026-05-20"
+  - red-teaming-llms-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Jailbreaking]]"
-  - "[[Prompt Injection]]"
-  - "[[Constitutional AI Method]]"
+  - '[[Jailbreaking]]'
+  - '[[Prompt Injection]]'
+  - '[[Constitutional AI Method]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Jailbreaking]]"
+  - '[[Jailbreaking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Injection]]"
+  - '[[Prompt Injection]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Constitutional AI Method]]"
+  - '[[Constitutional AI Method]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Red Teaming Process Flow**
+> *Follow the steps from prompt creation to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Adversarial Prompts] --> B[Test Model]
+>   B --> C[Evaluate Outputs]
+>   C --> D[Identify Vulnerabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Red Teaming vs Standard Benchmarks**
+> *Compare the focus areas of red teaming and standard benchmarks.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Safety Benchmarks] -->|Evaluate Known Failure Modes|
+>   B[Red Teaming LLMs] -->|Uncover Unknown Vulnerabilities|
+> ```
 
 # Red Teaming LLMs
 

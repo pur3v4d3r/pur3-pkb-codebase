@@ -1,14 +1,13 @@
 ---
-title: "Prompt Caching Strategies"
+title: Prompt Caching Strategies
 aliases:
-  - "Prompt Caching Strategies"
-  - "KV cache reuse"
-  - "prefix caching"
-  - "prompt cache management"
+  - Prompt Caching Strategies
+  - KV cache reuse
+  - prefix caching
+  - prompt cache management
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,111 @@ subdomains:
   - cost-optimization
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "prompt-caching-strategies-synthetic-seed-2026-05-20"
+  - prompt-caching-strategies-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Inference Optimization"
-
+parent-concept: LLM Inference Optimization
 related:
-  - "[[Latency-Quality Tradeoff]]"
-  - "[[Cost-Per-Token Optimization]]"
+  - '[[Latency-Quality Tradeoff]]'
+  - '[[Cost-Per-Token Optimization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Latency-Quality Tradeoff]]"
+  - '[[Latency-Quality Tradeoff]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Cost-Per-Token Optimization]]"
+  - '[[Cost-Per-Token Optimization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Prompt Caching Mechanism Overview**
+> *Follow the flow from static prefix to KV cache reuse.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Prefix]
+>   B[KV Cache]
+>   C[Dynamic Suffix]
+>   D[LLM Computation]
+>   E[Response]
+>   A -->|Prompt Structure| B
+>   B -->|KV State Reuse| D
+>   C -->|Input Variations| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Prompt Caching Strategies**
+> *Compare prompt caching with other caching techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Caching]
+>   B[Full Response Caching]
+>   C[Context Token Caching]
+>   A -->|KV State Reuse|
+>   B -->|Complete Output Storage|
+>   C -->|Token Continuity|
+>   A -.->|Static Prefixes|
+>   B -.->|Entire Responses|
+>   C -.->|Conversation Tokens|
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Structure and Cache Hit Rates**
+> *Identify how static prefixes impact cache hit rates.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Prefix]
+>   B[Dynamic Suffix]
+>   C[KV Cache]
+>   D[LLM Computation]
+>   E[Cache Hit Rate]
+>   F[Response Time]
+>   G[Compute Cost]
+>   A -->|Fixed Prompt Part| C
+>   B -->|Variable Input| D
+>   C -->|Reuse KV States| D
+>   D --> E
+>   E --> F
+>   E --> G
+> ```
 
 # Prompt Caching Strategies
 

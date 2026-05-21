@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - fallibilism-synthetic-seed-2026-04-24
@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fallibilism vs Skepticism & Dogmatism**
+> *Compare fallibilism with skepticism and dogmatism.*
+>
+> ```mermaid
+> graph TD
+>   A[Dogmatism]
+>   B[Fallibilism] -->|Open to revision| C[Skepticism]
+> ```
+
+
+> [!abstract] **Diagram 2 — Fallibilist Process Flow**
+> *Follow the continuous inquiry and re-evaluation process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B[Seek new information]
+>   B --> C[Critically assess existing knowledge]
+>   C --> D[Re-evaluate beliefs]
+>   D --> E[Update based on evidence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Fallibilism Applications**
+> *See practical applications of fallibilist principles.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional design]
+>   B[Scientific research]
+>   C[Decision-making]
+>   A -->|Flexible approach| D[Curricula updates]
+>   B -->|Test hypotheses| E[Rigorous testing]
+>   C -->|Consider perspectives| F[Diverse data]
+> ```
 
 # Fallibilism
 

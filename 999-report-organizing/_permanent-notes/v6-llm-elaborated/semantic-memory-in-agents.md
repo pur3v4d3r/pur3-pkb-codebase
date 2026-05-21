@@ -1,14 +1,13 @@
 ---
-title: "Semantic Memory in Agents"
+title: Semantic Memory in Agents
 aliases:
-  - "Semantic Memory in Agents"
-  - "factual memory in agents"
-  - "knowledge store"
-  - "world model memory"
+  - Semantic Memory in Agents
+  - factual memory in agents
+  - knowledge store
+  - world model memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,98 @@ subdomains:
   - memory-systems
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "semantic-memory-in-agents-synthetic-seed-2026-05-21"
+  - semantic-memory-in-agents-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Agent Memory Modalities"
-
+parent-concept: Agent Memory Modalities
 related:
-  - "[[Episodic Memory in Agents]]"
-  - "[[Working Memory Simulation in LLMs]]"
+  - '[[Episodic Memory in Agents]]'
+  - '[[Working Memory Simulation in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Episodic Memory in Agents]]"
-  - "[[Working Memory Simulation in LLMs]]"
+  - '[[Episodic Memory in Agents]]'
+  - '[[Working Memory Simulation in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Semantic Memory vs Episodic Memory**
+> *Compare the storage of decontextualized facts versus contextualized experiences.*
+>
+> ```mermaid
+> graph TD
+>   A[Decontextualized Facts]
+>   B[Contextualized Experiences]
+>   A -->|Stored in Semantic Memory|
+>   B -->|Stored in Episodic Memory|
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic Memory Retrieval Process**
+> *Follow the flow from query to factual response retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query]
+>   B[Similarity Search or Symbolic Lookup]
+>   C[Factual Response]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Semantic Memory in Agent Architecture**
+> *Identify the components involved in semantic memory implementation.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge Base]
+>   B[Vector Store]
+>   C[Agent Query Engine]
+>   D[Factual Response]
+>   A -->|Contains Factual Documents|
+>   B -->|Stores Learned Relationships|
+>   C -->|Retrieves Information from Knowledge Base and Vector Store|
+>   C --> D
+> ```
 
 # Semantic Memory in Agents
 

@@ -18,7 +18,7 @@ subdomains:
   - judgment
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - hindsight-bias-synthetic-seed-2026-04-25
@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Hindsight Bias Process Flow**
+> *Follow the sequence from initial belief to outcome adjustment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Belief] --> B[Outcome Known]
+>   B --> C[Adjustment of Recollection]
+>   C --> D[Predictability Overestimation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hindsight Bias in Decision-Making**
+> *Trace the impact on decision-making from initial uncertainty to perceived certainty.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Uncertainty] --> B[Outcome Revealed]
+>   B --> C[Predictability Emphasis]
+>   C --> D[Overconfidence in Foresight]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hindsight Bias Mechanism Overview**
+> *Identify the key steps from outcome to memory reconstruction.*
+>
+> ```mermaid
+> graph TD
+>   A[Outcome Known] --> B[Memory Reconstruction]
+>   B --> C[Predictability Adjustment]
+>   C --> D[Perceived Probability Shift]
+> ```
 
 # Hindsight Bias
 

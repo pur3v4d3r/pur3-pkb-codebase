@@ -21,7 +21,7 @@ subdomains:
   - chatbot-evaluation
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - arena-elo-rating-synthetic-seed-2026-05-20
@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Arena ELO Rating Process Flow**
+> *Follow the flow from user queries to model ratings.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Submits Query] --> B[Two Model Responses]
+>   B --> C[User Preference]
+>   C --> D[Ratings Calculation]
+> ```
+
+
+> [!abstract] **Diagram 2 — ELO Rating Mechanism Overview**
+> *Track how user preferences update model ratings.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Model Ratings] --> B[User Preferences]
+>   B --> C[Ratings Update]
+>   C --> D[Final Model Ratings]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Traditional Benchmarks**
+> *Compare Arena ELO to traditional evaluation methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Benchmarking]
+>   B[Arena ELO Rating]
+>   A -->|Curated Datasets| C[Technical Metrics]
+>   B -->|Organic Queries| D[User Preferences]
+> ```
 
 # Arena ELO Rating
 

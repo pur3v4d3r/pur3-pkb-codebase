@@ -16,7 +16,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - research-methods-in-education-synthetic-seed-2026-04-25
@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Research Methods Hierarchy**
+> *Identify the different research methods used in education.*
+>
+> ```mermaid
+> graph TD
+>   A[Research Methods In Education] --> B(Randomized Controlled Trials)
+>   A --> C(Quasi-Experiments)
+>   A --> D(DBR)
+>   A --> E(Qualitative Studies)
+> ```
+
+
+> [!abstract] **Diagram 2 — RCT Mechanism Flow**
+> *Understand the mechanism of Randomized Controlled Trials.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Random Assignment] --> B[Intervention]
+>   B --> C[Data Collection]
+>   C --> D[Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — DBR Iterative Process**
+> *Follow the iterative process of Design-Based Research.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A[Design]
+>   A --> B[Enactment]
+>   B --> C[Analysis]
+>   C --> D[Revision]
+>   D --> A
+> ```
 
 # Research Methods In Education
 

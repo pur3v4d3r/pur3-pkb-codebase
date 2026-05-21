@@ -18,7 +18,7 @@ subdomains:
   - social-cognition
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - reconstructive-memory-synthetic-seed-2026-04-24
@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reconstructive Memory Process Flow**
+> *Follow the flow from retrieval cues to reconstructed memory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval Cues] --> B[Schemas Activation]
+>   B --> C[Integration of Past Experiences]
+>   C --> D[Active Reconstruction]
+>   D --> E[Reconstructed Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Influence on Recall**
+> *See how schemas guide the reconstruction process.*
+>
+> ```mermaid
+> graph TD
+>   A[Schemas] --> B[Integration]
+>   C[Past Experiences] --> B
+>   D[Reconstruction] --> E[Memory Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare intrinsic and extraneous cognitive loads in learning.*
+>
+> ```mermaid
+> classDiagram
+>   class IntrinsicLoad{
+>     +inherentToTask()
+>   }
+>   class ExtraneousLoad{
+>     +imposedByDesign()
+>   }
+>   IntrinsicLoad -->|affects| LearningOutcomes
+>   ExtraneousLoad -->|impedes| LearningOutcomes
+> ```
 
 # Reconstructive Memory
 

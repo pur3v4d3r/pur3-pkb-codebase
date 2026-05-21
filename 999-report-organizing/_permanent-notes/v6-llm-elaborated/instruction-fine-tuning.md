@@ -21,7 +21,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - instruction-fine-tuning-synthetic-seed-2026-05-20
@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Instruction Fine-Tuning Process Flow**
+> *Follow the flow from dataset to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Dataset]
+>   B[Pretrained Model]
+>   C[Fine-Tuned Model]
+>   D[Outputs]
+>   A -->|Instructions, Inputs, Outputs| B
+>   B -->|Fine-Tuning| C
+>   C -->|Task-Agnostic Responses| D
+> ```
+
+
+> [!abstract] **Diagram 2 — IFT vs RLHF Comparison**
+> *Compare the training methods and their outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Instruction Fine-Tuning]
+>   B[Reinforcement Learning from Human Feedback]
+>   C[Fine-Tuned Model]
+>   D[Model Performance]
+>   A -->|Supervised Learning with Explicit Instructions| C
+>   B -->|Iterative Trial-and-Error Based on User Evaluations| C
+>   C -->|Enhanced Usability and Contextual Responses| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Models**
+> *Compare reflective thinking in IFT-trained models.*
+>
+> ```mermaid
+> graph TD
+>   A[Instruction Fine-Tuning]
+>   B[System 1 (Reactive)]
+>   C[System 2 (Reflective)]
+>   D[Contextual Responses]
+>   A -->|Guided by Instructions| C
+>   B -->|Immediate Input Response| D
+> ```
 
 # Instruction Fine-Tuning
 

@@ -16,7 +16,7 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - laniakea-supercluster-synthetic-seed-2026-05-14
@@ -64,8 +64,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Laniakea Supercluster Structure Overview**
+> *Identify the major components and their relationships within Laniakea.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Group] --> B[Milky Way]
+>   C[Virgo Cluster] --> D[Laniakea Core]
+>   E[Centaurus Cluster] --> F[Laniakea Edge]
+>   G[Southern Supergalactic Plane] --> H[Laniakea Periphery]
+>   I[Nearby Galaxies] --> J[Laniakea Boundary]
+> ```
+
+
+> [!abstract] **Diagram 2 — Peculiar Velocity Flow in Laniakea Supercluster**
+> *Trace the flow of peculiar velocities converging towards Laniakea.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Galaxy1] --> B[Laniakea Core]
+>   C[Galaxy2] --> D[Laniakea Core]
+>   E[Galaxy3] --> F[Laniakea Core]
+>   G[Galaxy4] --> H[Laniakea Edge]
+>   I[Galaxy5] --> J[Laniakea Periphery]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dynamic Nature of Laniakea Supercluster**
+> *Understand the balance between gravity and cosmic expansion.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> GravitationalAttraction
+>   GravitationalAttraction --> CosmicExpansion
+>   CosmicExpansion --> TransientRegion
+>   TransientRegion --> [*]
+> ```
 
 # Laniakea Supercluster
 

@@ -18,7 +18,7 @@ subdomains:
   - software
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - obsidian-synthetic-seed-2026-04-24
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Obsidian Core Components**
+> *Identify the main components and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Markdown Notes] --> B[Bidirectional Links]
+>   B --> C[Graph View]
+>   D[Plugins] -->|Extend Functionality| E(Core App)
+>   E --> F[Zettelkasten Method]
+> ```
+
+
+> [!abstract] **Diagram 2 — Obsidian Bidirectional Link Mechanism**
+> *Understand how bidirectional links work in Obsidian.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Note A] --> B[Note B]
+>   B --> C[Reverse Link to Note A]
+> ```
+
+
+> [!abstract] **Diagram 3 — Obsidian Plugin Ecosystem**
+> *See the variety of plugins that enhance Obsidian's core features.*
+>
+> ```mermaid
+> graph TD
+>   A[Dataview] -->|Data Visualization| B(Core App)
+>   C[Templater] -->|Templating| D(Core App)
+>   E[Tasks] -->|Task Management| F(Core App)
+>   G[QuickAdd] -->|Quick Note Creation| H(Core App)
+>   I[Meta-Bind] -->|Metadata Binding| J(Core App)
+> ```
 
 # Obsidian
 

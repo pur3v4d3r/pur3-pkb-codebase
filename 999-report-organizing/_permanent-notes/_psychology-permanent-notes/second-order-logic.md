@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-logic
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - second-order-logic-synthetic-seed-2026-05-01
@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Second-Order Logic Expressiveness**
+> *Compare expressiveness between FOL and SOL.*
+>
+> ```mermaid
+> graph TD
+>   A[First-Order Logic]
+>   B[Second-Order Logic]
+>   A -->|Limited quantification over individuals| C[FOL]
+>   B -->|Quantifies over predicates and relations| D[SOL]
+>   C -->|Requires extensive axiom schemas| E[Categorical definitions]
+>   D -->|Directly expresses categorical definitions| F[Enhanced expressiveness]
+> ```
+
+
+> [!abstract] **Diagram 2 — SOL Metalogical Properties**
+> *Identify metalogical properties of SOL and FOL.*
+>
+> ```mermaid
+> graph TD
+>   A[First-Order Logic]
+>   B[Second-Order Logic]
+>   A -->|Completeness| C[Yes]
+>   A -->|Compactness| D[Yes]
+>   B -->|Completeness| E[No]
+>   B -->|Compactness| F[No]
+> ```
+
+
+> [!abstract] **Diagram 3 — SOL Applications Overview**
+> *See various applications of SOL.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Set Theory]
+>   C[Formal Verification]
+>   D[Second-Order Logic]
+>   D -->|Creates precise learning objectives| A
+>   D -->|Defines complex mathematical structures| B
+>   D -->|Ensures correctness in software systems| C
+> ```
 
 # Second-Order Logic
 

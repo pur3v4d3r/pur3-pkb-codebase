@@ -2,7 +2,7 @@
 title: Autonomy Supportive Teaching
 aliases:
   - Autonomy Supportive Teaching
-  - "Autonomy-Supportive Teaching"
+  - Autonomy-Supportive Teaching
   - autonomy-supportive instruction
   - ASI
 type: permanent-note
@@ -19,7 +19,7 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: '2026-04-27'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - autonomy-supportive-teaching-synthetic-seed-2026-04-25
@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Autonomy Supportive Teaching Components**
+> *Identify the key components of AST and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Empowerment]
+>   B[Acknowledge Perspectives]
+>   C[Provide Rationales]
+>   D[Offer Choices]
+>   E[Minimize Controlling Language]
+>   F[Sufficient Structure]
+>   A -->|Includes| B
+>   A -->|Includes| C
+>   A -->|Includes| D
+>   A -->|Balances| E
+>   A -->|Within| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Autonomy Supportive Teaching**
+> *Follow the flow from teacher actions to student outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   T1[Teacher Acknowledges Perspectives]
+>   T2[Provides Meaningful Rationales]
+>   T3[Offers Choices Within Structure]
+>   T4[Minimizes Controlling Language]
+>   S1[Student Feels Included & Respected]
+>   S2[Understands Task Relevance]
+>   S3[Felt Competent Through Decisions]
+>   S4[Reduces Anxiety, Positive Environment]
+>   T1 -->|->| S1
+>   T2 -->|->| S2
+>   T3 -->|->| S3
+>   T4 -->|->| S4
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Reduction in AST**
+> *Trace how autonomy support reduces extraneous load and enhances germane load.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TeacherProvidesRationales : Provides Meaningful Rationales
+>   TeacherProvidesRationales --> StudentFocusesOnContent : Reduces Extraneous Load
+>   StudentFocusesOnContent --> StudentConstructsSchema : Enhances Germane Load
+>   [*] --> TeacherOffersChoices : Offers Choices Within Structure
+>   TeacherOffersChoices --> StudentFeelsCompetent : Reduces Anxiety, Positive Environment
+> ```
 
 # Autonomy Supportive Teaching
 

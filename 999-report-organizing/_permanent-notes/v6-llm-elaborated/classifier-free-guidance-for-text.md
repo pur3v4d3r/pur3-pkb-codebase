@@ -1,14 +1,13 @@
 ---
-title: "Classifier-Free Guidance for Text"
+title: Classifier-Free Guidance for Text
 aliases:
-  - "Classifier-Free Guidance for Text"
-  - "CFG for text"
-  - "text classifier-free guidance"
-  - "language model CFG"
+  - Classifier-Free Guidance for Text
+  - CFG for text
+  - text classifier-free guidance
+  - language model CFG
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,85 @@ subdomains:
   - diffusion-analogies
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "classifier-free-guidance-for-text-synthetic-seed-2026-05-21"
+  - classifier-free-guidance-for-text-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Language Model Inference Techniques"
-
+parent-concept: Language Model Inference Techniques
 related:
-  - "[[Contrastive Decoding]]"
-  - "[[Logit Bias Manipulation]]"
+  - '[[Contrastive Decoding]]'
+  - '[[Logit Bias Manipulation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Contrastive Decoding]]"
-  - "[[Logit Bias Manipulation]]"
+  - '[[Contrastive Decoding]]'
+  - '[[Logit Bias Manipulation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — CFG Process Flowchart**
+> *Follow the steps from input to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Conditional Distribution]
+>   C[Unconditional Distribution] --> D[Weighted Combination]
+>   B --> D
+>   E[Guidance Scale] --> D
+>   D --> F[Final Sampling Distribution]
+> ```
+
+
+> [!abstract] **Diagram 2 — CFG Mechanism Diagram**
+> *Observe the formula and its components for CFG.*
+>
+> ```mermaid
+> graph TD
+>   A[Unconditional Logits] --> B{+}
+>   C[Conditional Logits] --> D{-}
+>   E[Guidance Scale] --> F{*}
+>   G[Difference] --> H{+}
+>   B --> I[Weighted Sum]
+>   D --> H
+>   F --> H
+> ```
 
 # Classifier-Free Guidance for Text
 

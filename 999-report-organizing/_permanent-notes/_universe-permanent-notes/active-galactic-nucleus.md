@@ -18,7 +18,7 @@ subdomains:
   - high-energy-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - active-galactic-nucleus-synthetic-seed-2026-05-14
@@ -65,8 +65,78 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — AGN Unified Model Overview**
+> *Follow the arrows to see how viewing angle affects AGN classification.*
+>
+> ```mermaid
+> graph TD
+>   A[Type-1 Seyfert]
+>   B[Quasar]
+>   C[Type-2 Seyfert]
+>   D[Torus]
+>   E[Black Hole]
+>   F[Acretion Disk]
+>   A -->|Face-on View| E
+>   B -->|Face-on View| E
+>   C -->|Edge-on View| D
+>   D -->|Obscures Broad Lines| C
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — AGN Multi-Wavelength Observations**
+> *Trace the arrows to see how different wavelengths reveal distinct AGN features.*
+>
+> ```mermaid
+> graph TD
+>   A[Radio]
+>   B[X-ray]
+>   C[Infrared]
+>   D[Optical]
+>   E[Gamma Ray]
+>   F[Acretion Disk]
+>   G[Torus]
+>   H[Jets]
+>   I[Narrow Line Region]
+>   J[Broad Line Region]
+>   A -->|Cold Gas Clouds| F
+>   B -->|Innermost Regions| F
+>   C -->|Outer Layers| F
+>   D -->|Broad Lines| J
+>   E -->|High Energy Jets| H
+>   G -->|Obscures Broad Lines| I
+> ```
+
+
+> [!abstract] **Diagram 3 — AGN Feedback Mechanisms**
+> *Follow the arrows to understand how AGNs influence their host galaxies.*
+>
+> ```mermaid
+> graph TD
+>   A[Supermassive Black Hole]
+>   B[Acretion Disk]
+>   C[Jets]
+>   D[Winds]
+>   E[Galactic Gas Clouds]
+>   F[Star Formation]
+>   G[Galaxy Evolution]
+>   A -->|Gravitational Pull| B
+>   B -->|Heating and Radiation| E
+>   A -->|Jet Emission| C
+>   C -->|Energy Transfer| E
+>   D -->|Outflow of Gas| E
+>   E -->|Inhibits Star Formation| F
+>   F -->|Regulates Galaxy Growth| G
+> ```
 
 # Active Galactic Nucleus
 

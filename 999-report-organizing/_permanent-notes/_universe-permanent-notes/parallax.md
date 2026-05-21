@@ -18,7 +18,7 @@ subdomains:
   - distance-determination
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - parallax-synthetic-seed-2026-05-14
@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Stellar Parallax Process Flow**
+> *Follow the steps from Earth's position to star observation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Earth Position] --> B[Observe Star]
+>   B --> C[Wait Half Orbit]
+>   C --> D[Re-observe Star]
+>   D --> E[Calculate Parallax Angle]
+> ```
+
+
+> [!abstract] **Diagram 2 — Parallax vs Other Distance Techniques**
+> *Compare parallax with standard candles and Hubble's law.*
+>
+> ```mermaid
+> graph TD
+>   A[Parallax] --> B[Direct Measurement]
+>   C[Standard Candles] --> D[Brightness Calibration]
+>   E[Hubble's Law] --> F[Redshift Distance]
+>   A -.->|Geometric| G[Short Distances]
+>   C -.->|Intrinsic Brightness| H[Distant Objects]
+>   E -.->|Cosmic Expansion| I[Cosmological Scales]
+> ```
+
+
+> [!abstract] **Diagram 3 — Parallax Measurement Accuracy Over Time**
+> *Track improvements in parallax measurement accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[19th Century] --> B[Friedrich Bessel]
+>   B --> C[Broaden Understanding]
+>   D[Gaia Mission] --> E[Unprecedented Accuracy]
+>   F[Future Innovations] --> G[Refined Measurements]
+> ```
 
 # Parallax
 

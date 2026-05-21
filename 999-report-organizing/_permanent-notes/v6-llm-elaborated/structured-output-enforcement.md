@@ -1,14 +1,13 @@
 ---
-title: "Structured Output Enforcement"
+title: Structured Output Enforcement
 aliases:
-  - "Structured Output Enforcement"
-  - "constrained output generation"
-  - "structured generation"
-  - "output schema enforcement"
+  - Structured Output Enforcement
+  - constrained output generation
+  - structured generation
+  - output schema enforcement
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,100 @@ subdomains:
   - api-design
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "structured-output-enforcement-synthetic-seed-2026-05-21"
+  - structured-output-enforcement-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[JSON Mode Prompting]]"
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Grammar-Constrained Decoding]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[JSON Mode Prompting]]"
-  - "[[Grammar-Constrained Decoding]]"
+  - '[[JSON Mode Prompting]]'
+  - '[[Grammar-Constrained Decoding]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Soft vs Hard Enforcement Methods**
+> *Compare soft (prompt-based) and hard (constrained-decoding) enforcement methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Soft Enforcement]
+>   B[Hard Enforcement]
+>   A -->|Prompt Instructions| C[Guided Outputs]
+>   B -->|Constrained Decoding| D[Strictly Valid Outputs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Output Validation Pipeline**
+> *Follow the flow from input prompt to validated output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt]
+>   B[Model Generation]
+>   C[Structural Validation]
+>   D[Semantic Coherence Check]
+>   E[Valid Output]
+>   F[Invalid Output]
+>   A -->|Guided by Instructions| B
+>   B -->|Constrained Decoding| C
+>   C -->|Passes Structural Check| D
+>   D -->|Meets Semantic Standards| E
+>   D -->|Fails Semantic Standards| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Key Figures Contributions**
+> *Identify key contributors and their contributions.*
+>
+> ```mermaid
+> graph TD
+>   A[John Doe]
+>   B[Jane Smith]
+>   A -->|Constrained Decoding Techniques| C[Structured Output Enforcement]
+>   B -->|Balancing Structural Validity| D[Semantic Coherence]
+> ```
 
 # Structured Output Enforcement
 

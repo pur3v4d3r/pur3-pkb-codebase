@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-education
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - intellectual-autonomy-synthetic-seed-2026-05-12
@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Intellectual Autonomy Process Flow**
+> *Follow the steps from evidence evaluation to belief formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Evidence] --> B[Evaluate Arguments]
+>   B --> C[Form Beliefs]
+>   C --> D[Re-evaluate Continuously]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intellectual Autonomy vs Isolationism**
+> *Compare the key differences between autonomy and isolationism.*
+>
+> ```mermaid
+> graph TD
+>   A[Intellectual Autonomy] --> B[Independent Thinking]
+>   A --> C[Rely on Expert Testimony]
+>   D[Intellectual Isolationism] --> E[Reject All Authority]
+>   D --> F[Ignore Expertise]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the contrast between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Consider Information]
+>   B --> C[Evaluate Arguments]
+>   D[Reactive Thinking] --> E[Immediate Response]
+>   E --> F[Surface-Level Processing]
+> ```
 
 # Intellectual Autonomy
 

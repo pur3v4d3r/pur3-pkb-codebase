@@ -1,14 +1,13 @@
 ---
-title: "PromptBench Robustness"
+title: PromptBench Robustness
 aliases:
-  - "PromptBench Robustness"
-  - "PromptBench"
-  - "adversarial prompt robustness"
-  - "prompt perturbation evaluation"
+  - PromptBench Robustness
+  - PromptBench
+  - adversarial prompt robustness
+  - prompt perturbation evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,112 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "promptbench-robustness-synthetic-seed-2026-05-21"
+  - promptbench-robustness-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Adversarial NLP Attacks]]"
-  - "[[Prompt Engineering]]"
+  - '[[Adversarial NLP Attacks]]'
+  - '[[Prompt Engineering]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Adversarial NLP Attacks]]"
+  - '[[Adversarial NLP Attacks]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PromptBench Linguistic Levels**
+> *Identify the different linguistic levels tested by PromptBench.*
+>
+> ```mermaid
+> graph TD
+>   A[Character]
+>   B[Word]
+>   C[Sentence]
+>   D[Semantic]
+>   A -->|Sub-levels| E[Typos]
+>   A -->|Sub-levels| F[Swapping Characters]
+>   B -->|Sub-levels| G[Synonym Substitution]
+>   B -->|Sub-levels| H[Deleting Words]
+>   C -->|Sub-levels| I[Paraphrasing]
+>   C -->|Sub-levels| J[Back-Translation]
+>   D -->|Sub-levels| K[Meaning-Preserving Reformulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — PromptBench Evaluation Flow**
+> *Understand the process of applying perturbations and evaluating model performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Define Task]
+>   C[Systematically Vary Prompts]
+>   D[Evaluate Clean vs Perturbed Conditions]
+>   E[Compare Model Performance]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — PromptBench Robustness Impact**
+> *See the variability in model performance across different prompt conditions.*
+>
+> ```mermaid
+> graph TD
+>   A[Clean Prompt]
+>   B[Perturbed Prompts]
+>   C[Performance Variability]
+>   D[10-30 Percentage Points]
+>   A -->|Baseline Performance| E[High Consistency]
+>   B -->|Substantial Differences| F[Low Consistency]
+>   C -->|Evident in Benchmark Tasks|
+>   D -->|Highlighting Sensitivity to Prompt Phrasing|
+>   E -->|Reflects Model Robustness|
+>   F -->|Indicates Need for Standardized Evaluation]
+> ```
 
 # PromptBench Robustness
 

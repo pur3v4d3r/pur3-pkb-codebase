@@ -18,7 +18,7 @@ subdomains:
   - radio-astronomy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - pulsar-synthetic-seed-2026-05-14
@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Pulsar Emission Mechanism**
+> *Follow the path of charged particles and observe how they emit radiation.*
+>
+> ```mermaid
+> graph TD
+>   A[Charged Particles]
+>   B[Magnetic Field Lines]
+>   C[Acceleration]
+>   D[Radiation Emission]
+>   A -->|along| B
+>   B -->|to| C
+>   C -->|produces| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Pulsar vs Magnetar Comparison**
+> *Compare the emission characteristics of pulsars and magnetars.*
+>
+> ```mermaid
+> graph TD
+>   A[Pulsar]
+>   B[Magnetar]
+>   C[Periodic Pulses]
+>   D[Strong Magnetic Field]
+>   E[Irregular Emission]
+>   F[Even Stronger Magnetic Field]
+>   A -->|C|
+>   A -->|D|
+>   B -->|E|
+>   B -->|F|
+>   style C fill:#f96,stroke:#333,stroke-width:4px
+>   style D fill:#ccf,stroke:#333,stroke-width:4px
+>   style E fill:#f96,stroke:#333,stroke-width:4px
+>   style F fill:#ccf,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Pulsar Timing and Detection**
+> *Trace the path of pulsar signals from emission to detection.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P as Pulsar
+>   participant E as Earth Observer
+>   participant D as Detector
+>   P->>E: Beam Sweeps Past Earth
+>   E->>D: Signal Detected
+>   D-->>E: Data Recorded
+> ```
 
 # Pulsar
 

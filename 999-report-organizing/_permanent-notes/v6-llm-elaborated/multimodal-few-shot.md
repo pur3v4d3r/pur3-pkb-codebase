@@ -21,7 +21,7 @@ subdomains:
   - computer-vision
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - multimodal-few-shot-synthetic-seed-2026-05-20
@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Multimodal Few-Shot Prompting Process Flow**
+> *Follow the flow from input to output, noting the integration of image-text pairs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Image-Text Pairs] --> B[Demonstrate Task]
+>   B --> C[Model Learns Patterns]
+>   C --> D[Answer Query]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multimodal Few-Shot Prompting Applications**
+> *Identify the applications and their corresponding tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Radiological Image Interpretation] --> B[Medical Imaging]
+>   C[Industrial Defect Detection] --> D[Manufacturing Inspection]
+>   E[Document Information Extraction] --> F[Legal/Medical Records]
+> ```
+
+
+> [!abstract] **Diagram 3 — Multimodal Few-Shot Prompting Workflow**
+> *Trace the workflow from annotation to model deployment.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Human as H
+>   participant Model as M
+>   participant Task as T
+>   H->>M: Provide Image-Text Pairs
+>   M->>T: Learn Patterns and Features
+>   T->>H: Query Response
+>   H-->>T: Evaluate and Deploy
+> ```
 
 # Multimodal Few-Shot Prompting
 

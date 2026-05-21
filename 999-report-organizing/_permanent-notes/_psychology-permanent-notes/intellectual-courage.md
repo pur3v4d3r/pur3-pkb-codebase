@@ -17,7 +17,7 @@ subdomains:
   - ethics
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - intellectual-courage-synthetic-seed-2026-05-12
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Intellectual Courage Process Flow**
+> *Follow the steps from idea evaluation to public assertion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Engage with Challenging Ideas] --> B[Evaluate Evidence]
+>   B --> C[Form Well-Founded Conclusions]
+>   C --> D[Navigate Social Pressures]
+>   D --> E[Assert Conclusions Publicly]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intellectual Courage vs Contrarianism Comparison**
+> *Compare Intellectual Courage with contrarianism based on motivations and outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Intellectual Courage] --> B[Evidence-Based]
+>   A --> C[Sound Reasoning]
+>   D[Contrarianism] --> E[Unpopular Stance]
+>   D --> F[Desire to Stand Out]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Contrast**
+> *Identify the differences between reflective and reactive thinking in decision-making.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Examine Ideas]
+>   A --> C[Form Conclusions]
+>   D[Reactive Thinking] --> E[Immediate Response]
+>   D --> F[Knee-Jerk Reaction]
+> ```
 
 # Intellectual Courage
 

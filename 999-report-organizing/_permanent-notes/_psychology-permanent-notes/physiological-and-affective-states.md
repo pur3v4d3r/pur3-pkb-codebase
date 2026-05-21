@@ -20,7 +20,7 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - self-efficacy-theory-foundational-report-2026-04-20
@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Physiological and Affective States Interpretation Process**
+> *Follow the flow from state awareness to capability belief formation.*
+>
+> ```mermaid
+> graph TD
+>   A[State Awareness]
+>   B[Evaluation Context]
+>   C[Belief Formation]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of State Interpretation on Self-Efficacy**
+> *Compare positive and negative interpretations' effects on self-efficacy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Interpretation] --> B[Enhanced Efficacy]
+>   C[Negative Interpretation] --> D[Doubtful Efficacy]
+>   subgraph Positive
+>     A
+>     B
+>   end
+>   subgraph Negative
+>     C
+>     D
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Mechanism in Self-Regulated Learning**
+> *Trace the loop from state recognition to strategy adjustment.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Task as T
+>   S->>T: Notice State (e.g., Heart Rate)
+>   T-->>S: Evaluate State Meaning
+>   S->>T: Adjust Strategy Based on Evaluation
+> ```
 
 # Physiological and Affective States
 

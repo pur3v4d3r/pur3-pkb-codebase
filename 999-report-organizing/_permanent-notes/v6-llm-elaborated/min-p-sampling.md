@@ -18,7 +18,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-20'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - min-p-sampling-synthetic-seed-2026-05-20
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Min-P Sampling Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Determine Highest Probability]
+>   B --> C[Set Relative Threshold p_min]
+>   C --> D[Filter Tokens Below Threshold]
+>   D --> E[Select Token for Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Min-P vs Top-P Comparison**
+> *Compare the dynamic threshold of Min-P with static top-p.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-P Sampling]
+>   B[Min-P Sampling]
+>   C[Highest Probability Token]
+>   D[Cumulative Threshold]
+>   E[Relative Threshold p_min]
+>   F[Filter Tokens Below Threshold]
+>   G[Select Token for Output]
+>   A -->|Cumulative Threshold| F
+>   B -->|Highest Probability Token| C
+>   C -->|Set Relative Threshold| E
+>   E -->|Filter Tokens Below Threshold| F
+>   F -->|Select Token for Output| G
+> ```
 
 # Min-P Sampling
 

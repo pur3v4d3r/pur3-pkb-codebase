@@ -1,14 +1,13 @@
 ---
-title: "Multimodal Few-Shot Prompting"
+title: Multimodal Few-Shot Prompting
 aliases:
-  - "Multimodal Few-Shot Prompting"
-  - "multimodal in-context learning"
-  - "VLM few-shot"
-  - "image-text few-shot prompting"
+  - Multimodal Few-Shot Prompting
+  - multimodal in-context learning
+  - VLM few-shot
+  - image-text few-shot prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,92 @@ subdomains:
   - multimodal-ai
 
 created: 2026-05-21
-updated: 2026-05-21
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "multimodal-few-shot-prompting-synthetic-seed-2026-05-21"
+  - multimodal-few-shot-prompting-synthetic-seed-2026-05-21
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Vision-Language Models"
-
+parent-concept: Vision-Language Models
 related:
-  - "[[Vision-Language Models]]"
-  - "[[In-Context Learning]]"
+  - '[[Vision-Language Models]]'
+  - '[[In-Context Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Vision-Language Models]]"
+  - '[[Vision-Language Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[In-Context Learning]]"
+  - '[[In-Context Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Multimodal Few-Shot Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Image] --> B[Select Example Pairs]
+>   B --> C[Embed Examples in Prompt]
+>   C --> D[Model Generates Response]
+>   D --> E[Output Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multimodal vs Text-Only Few-Shot Prompting Comparison**
+> *Compare the inputs and outputs of both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Text-Only Input] --> B[Text-Based Examples]
+>   C[Multimodal Input] --> D[Image-Text Pairs]
+>   E[Text Output] --> F[Infer Task Format]
+>   G[Text Output] --> H[Contextual Learning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Example Selection Process for Multimodal Prompting**
+> *Trace the steps from query to example selection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query Image] --> B[Determine Task Type]
+>   B --> C[Identify Relevant Examples]
+>   C --> D[Align Visual and Textual Inputs]
+>   D --> E[Embed in Prompt]
+> ```
 
 # Multimodal Few-Shot Prompting
 

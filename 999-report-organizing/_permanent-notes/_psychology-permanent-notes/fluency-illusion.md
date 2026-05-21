@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - metacognition-and-reading-foundational-report-2026-04-20
@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Fluency Sources Overview**
+> *Identify sources of fluency unrelated to comprehension.*
+>
+> ```mermaid
+> graph TD
+>   A[Visual Clarity]
+>   B[Familiarity]
+>   C[Rapid Consumption]
+>   D[Charisma]
+>   E[Clear Delivery]
+>   F[Visual Aids]
+> ```
+
+
+> [!abstract] **Diagram 2 — Fluency Illusion Mechanism**
+> *Trace the flow from fluency to overestimated comprehension.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Fluent Processing]
+>   B[Familiarity & Clarity]
+>   C[Metacognitive Monitoring]
+>   D[High Confidence]
+>   E[Lack of Comprehension]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications Summary**
+> *See how different contexts are affected by the illusion.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Digital Reading Environments]
+>   C[Self-Directed Learning]
+> ```
 
 # Fluency Illusion
 

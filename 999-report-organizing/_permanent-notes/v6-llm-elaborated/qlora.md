@@ -1,14 +1,13 @@
 ---
-title: "QLoRA"
+title: QLoRA
 aliases:
-  - "QLoRA"
-  - "Quantised LoRA"
-  - "QLoRA fine-tuning"
-  - "4-bit fine-tuning"
+  - QLoRA
+  - Quantised LoRA
+  - QLoRA fine-tuning
+  - 4-bit fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,81 @@ subdomains:
   - parameter-efficient-fine-tuning
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "qlora-synthetic-seed-2026-05-20"
+  - qlora-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Parameter-Efficient Fine-Tuning"
-
+parent-concept: Parameter-Efficient Fine-Tuning
 related:
-  - "[[Low-Rank Adaptation (LoRA)]]"
-  - "[[Model Quantization]]"
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Low-Rank Adaptation (LoRA)]]'
+  - '[[Model Quantization]]'
+  - '[[Parameter-Efficient Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Low-Rank Adaptation (LoRA)]]"
-  - "[[Model Quantization]]"
+  - '[[Low-Rank Adaptation (LoRA)]]'
+  - '[[Model Quantization]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Parameter-Efficient Fine-Tuning]]"
+  - '[[Parameter-Efficient Fine-Tuning]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — QLoRA Process Flow**
+> *Follow the steps from quantization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Base Model] --> B[Quantize (4-bit NF4)]
+>   B --> C[Fine-Tune Low-Rank Matrices]
+>   C --> D[Adaptive Learning]
+> ```
+
+
+> [!abstract] **Diagram 2 — QLoRA Mechanism Overview**
+> *Identify the key components and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Model] --> B(Quantization)
+>   B --> C(Fine-Tuning)
+>   D[Low-Rank Matrices] -->|Higher Precision| C
+>   E[Double Quantization] --> F(Paged Optimizers)
+> ```
 
 # QLoRA
 

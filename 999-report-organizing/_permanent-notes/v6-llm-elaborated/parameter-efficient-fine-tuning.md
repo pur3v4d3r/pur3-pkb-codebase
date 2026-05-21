@@ -1,14 +1,13 @@
 ---
-title: "Parameter-Efficient Fine-Tuning"
+title: Parameter-Efficient Fine-Tuning
 aliases:
-  - "Parameter-Efficient Fine-Tuning"
-  - "PEFT"
-  - "parameter-efficient adaptation"
-  - "efficient fine-tuning"
+  - Parameter-Efficient Fine-Tuning
+  - PEFT
+  - parameter-efficient adaptation
+  - efficient fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - resource-efficient-ai
 
 created: 2026-05-20
-updated: 2026-05-20
-
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
-  - "parameter-efficient-fine-tuning-synthetic-seed-2026-05-20"
+  - parameter-efficient-fine-tuning-synthetic-seed-2026-05-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Model Fine-Tuning"
-
+parent-concept: Large Language Model Fine-Tuning
 related:
-  - "[[LoRA-Low-Rank-Adaptation]]"
-  - "[[Fine-Tuning]]"
+  - '[[LoRA-Low-Rank-Adaptation]]'
+  - '[[Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LoRA-Low-Rank-Adaptation]]"
+  - '[[LoRA-Low-Rank-Adaptation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Fine-Tuning]]"
+  - '[[Fine-Tuning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — PEFT Process Overview**
+> *Follow the flow from pretrained model to fine-tuned task-specific model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretrained Model] --> B[Task-Specific Data]
+>   B --> C[LoRA Parameters]
+>   C --> D[Fine-Tuning Process]
+>   D --> E[Tuned Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — PEFT vs Full Fine-Tuning**
+> *Compare the parameter update scope between PEFT and full fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning] -->|Update All Parameters| B[Fine-Tuned Model]
+>   C[PEFT] -->|Update <1% Parameters| D[Tuned Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — LoRA Mechanism Flow**
+> *Trace the steps of LoRA from low-rank matrices to model adaptation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant PretrainedModel as PM
+>   participant LowRankMatrices as LRMs
+>   participant FineTuningProcess as FTP
+>   participant TunedModel as TM
+>   PM->>LRMs: Introduce Low-Rank Matrices
+>   LRMs->>FTP: Modify Weights During Training
+>   FTP-->>TM: Adapt Model to Task
+> ```
 
 # Parameter-Efficient Fine-Tuning
 

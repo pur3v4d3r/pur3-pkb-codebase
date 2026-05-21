@@ -21,7 +21,7 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - implementation-intentions-gollwitzer-foundational-report-2026-04-20
@@ -71,8 +71,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Intention-Behavior Gap Overview**
+> *Identify the key components of the gap.*
+>
+> ```mermaid
+> graph TD
+>   A[Strong Intentions] --> B[Intention-Action Transition]
+>   B --> C[Behavioral Performance]
+>   D[Intention-Behavior Gap] --> E[25% Behavioral Variance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Failure Modes of Intention-Behavior Gap**
+> *Understand the common reasons for intention failure.*
+>
+> ```mermaid
+> graph TD
+>   A[Forgetting] --> B[Attentional Distraction]
+>   C[Competing Impulses] --> D[Motivational Decay]
+>   E[Executive Overload]
+> ```
+
+
+> [!abstract] **Diagram 3 — Implementation Intention Process**
+> *See how implementation intentions bridge the gap.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Environment as E
+>   U->>E: Set Specific Plan ('When X, I will Y')
+>   E-->>U: Reminder Triggered at Time X
+>   U->>E: Execute Behavior Y
+> ```
 
 # Intention-Behavior Gap
 

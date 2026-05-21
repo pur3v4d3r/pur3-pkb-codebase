@@ -17,7 +17,7 @@ subdomains:
   - justification-theory
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - epistemic-externalism-synthetic-seed-2026-05-12
@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Epistemic Externalism vs Internalism**
+> *Compare the focus of justification between external and internal theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Justification]
+>   B[Internal States]
+>   C[External Factors]
+>   A -->|Internalism| B
+>   A -->|Epistemic Externalism| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Reliability vs Truth-Tracking Approaches**
+> *Understand the two main approaches within Epistemic Externalism.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Externalism]
+>   B[Reliability-Based]
+>   C[Truth-Tracking]
+>   A -->|Process Focus| B
+>   A -->|Relation to Truth| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Differentiate between reflective and reactive processes in Epistemic Externalism.*
+>
+> ```mermaid
+> graph TD
+>   A[Justified Beliefs]
+>   B[Reflective Processes]
+>   C[Reactive Processes]
+>   A -->|Introspective Access| B
+>   A -->|Automatic Formation| C
+> ```
 
 # Epistemic Externalism
 

@@ -18,7 +18,7 @@ subdomains:
   - motivational-neuroscience
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - dopaminergic-reward-system-synthetic-seed-2026-04-25
@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Reward Prediction Error Process**
+> *Follow the flow from expectation to outcome and observe dopamine response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expectation] --> B[Outcome]
+>   B --> C[Reward Prediction Error]
+>   C --> D[Dopamine Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dopaminergic Neuron Firing Patterns**
+> *Identify the firing patterns for positive and negative prediction errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Unexpected Reward] --> B[Dopamine Release]
+>   C[Unmet Expectation] --> D[Dopamine Decrease]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal-Difference Learning Model**
+> *Trace the update process from current state to future reward prediction.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CurrentState as CS
+>   participant FutureRewardPrediction as FRP
+>   participant PredictionError as PE
+>   participant ValueUpdate as VU
+>   CS->>FRP: Predicts Reward
+>   FRP-->>CS: Actual Outcome
+>   CS->>PE: Computes Error
+>   PE->>VU: Updates Value
+> ```
 
 # Dopaminergic Reward System
 

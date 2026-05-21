@@ -16,7 +16,7 @@ subdomains:
   - bounded-rationality
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - satisficing-synthetic-seed-2026-04-25
@@ -63,8 +63,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Satisficing Process Flow**
+> *Follow the decision-making process from setting aspiration to selecting an option.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Aspiration Level] --> B[Evaluate Options]
+>   B -->|Meets Aspiration| C[Select Option]
+>   B -->|Does Not Meet| D[Continue Search]
+> ```
+
+
+> [!abstract] **Diagram 2 — Satisficing in Decision Science Hierarchy**
+> *Identify satisficing's place within the broader context of decision science.*
+>
+> ```mermaid
+> graph TD
+>   A[Decision Science] --> B[Bounded Rationality]
+>   B --> C[Satisficing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Satisficing vs Exhaustive Search**
+> *Compare the cost-benefit trade-offs between satisficing and exhaustive search strategies.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Satisficer as S
+>   participant Option1 as O1
+>   participant Option2 as O2
+>   participant AspirationLevel as A
+>   S->>O1: Evaluate?
+>   O1-->>S: Does Not Meet
+>   loop Until Meets Aspiration
+>     S->>O2: Evaluate?
+>     O2-->>S: Does Not Meet
+>   end
+>   S->>A: Compare Against Level
+>   A-->>S: Meets
+>   S->>S: Select Option
+> ```
 
 # Satisficing
 

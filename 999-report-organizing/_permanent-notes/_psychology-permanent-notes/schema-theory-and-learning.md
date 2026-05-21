@@ -17,7 +17,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - schema-theory-and-learning-synthetic-seed-2026-04-24
@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Schema Activation Process**
+> *Follow the flow from new information to schema assimilation or accommodation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] -->|Match?| B1[Integrate]
+>   A -->|No Match| C2[Adjust Schema]
+>   B1 --> D[Assimilation]
+>   C2 --> E[Acommodation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Evolution Over Time**
+> *Trace the progression from initial schemas to more complex, interconnected structures.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Schemas] --> B[Surface Features]
+>   B --> C[Deep Patterns]
+>   C --> D[Interconnected Structures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design for Schema Theory**
+> *Identify how instructional design can support schema development through worked examples and activation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Instruction as I
+>   L->>I: Encounter New Information
+>   I-->>L: Worked Examples
+>   L->>L: Activate Existing Schemas
+>   L->>L: Integrate New Knowledge
+> ```
 
 # Schema Theory
 

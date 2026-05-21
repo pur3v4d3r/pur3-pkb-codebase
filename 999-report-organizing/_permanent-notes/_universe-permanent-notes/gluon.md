@@ -17,7 +17,7 @@ subdomains:
   - quantum-chromodynamics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gluon-synthetic-seed-2026-05-14
@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gluon Interaction Dynamics**
+> *Follow the flow to understand gluon interactions and their effects.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Quarks] --> B[Gluons]
+>   B --> C[Strong Force]
+>   B --> D[Gluon-Gluon Interaction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gluon vs Photon Comparison**
+> *Compare the properties and interactions of gluons and photons.*
+>
+> ```mermaid
+> graph TD
+>   A[Photon] --> B[Neutral]
+>   A --> C[No Self-Interaction]
+>   D[Gluon] --> E[Carries Color Charge]
+>   D --> F[Self-Interacts]
+> ```
+
+
+> [!abstract] **Diagram 3 — Gluon Dynamics in QCD**
+> *Trace the dynamics of gluons within quantum chromodynamics.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Quarks
+>   Quarks --> StrongForce : Mediated by Gluons
+>   StrongForce --> Confinement : Phenomena
+>   Confinement --> AsymptoticFreedom : Dynamics
+> ```
 
 # Gluon
 

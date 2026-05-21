@@ -16,7 +16,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - gravitational-time-dilation-synthetic-seed-2026-05-14
@@ -63,8 +63,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Gravitational Time Dilation Overview**
+> *Follow the flow from strong to weak gravitational fields.*
+>
+> ```mermaid
+> flowchart TD
+>   A[Strong Gravitational Field] --> B[Clock Slows Down]
+>   C[Weak Gravitational Field] --> D[Clock Runs Faster]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gravitational Time Dilation vs Redshift**
+> *Compare the effects of time dilation and redshift on light.*
+>
+> ```mermaid
+> graph TD
+>   A[Time Dilation] --> B[Clock Slows Down]
+>   C[Redshift] --> D[Frequency Decreases]
+> ```
+
+
+> [!abstract] **Diagram 3 — GPS Timekeeping Adjustment**
+> *Trace the time correction process in GPS satellites.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant GroundClock as GC
+>   participant SatelliteClock as SC
+>   GC->>SC: Clocks run faster due to weaker gravity
+>   SC-->>GC: Adjust for time dilation effect
+> ```
 
 # Gravitational Time Dilation
 

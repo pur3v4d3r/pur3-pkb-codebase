@@ -19,7 +19,7 @@ subdomains:
   - lifespan-development
 
 created: 2026-04-26
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - eriksons-psychosocial-stages-synthetic-seed-2026-04-26
@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Erikson's Psychosocial Stages Overview**
+> *Follow the stages from infancy to old age.*
+>
+> ```mermaid
+> graph TD
+>   A[Infancy: Trust vs Mistrust] --> B[Early Childhood: Autonomy vs Shame]
+>   B --> C[Middle Childhood: Initiative vs Guilt]
+>   C --> D[Adolescence: Identity vs Role Confusion]
+>   D --> E[Young Adulthood: Intimacy vs Isolation]
+>   E --> F[Midlife: Generativity vs Stagnation]
+>   F --> G[Old Age: Integrity vs Despair]
+> ```
+
+
+> [!abstract] **Diagram 2 — Psychosocial Crisis Tensions**
+> *Identify the opposing forces in each stage.*
+>
+> ```mermaid
+> graph TD
+>   A[Infancy] --> B[Trust]
+>   A --> C[Mistrust]
+>   D[Early Childhood] --> E[Autonomy]
+>   D --> F[Shame & Doubt]
+>   G[Middle Childhood] --> H[Initiative]
+>   G --> I[Guilt]
+>   J[Adolescence] --> K[Identity]
+>   J --> L[Role Confusion]
+>   M[Young Adulthood] --> N[Intimacy]
+>   M --> O[Isolation]
+>   P[Midlife] --> Q[Generativity]
+>   P --> R[Stagnation]
+>   S[Old Age] --> T[Integrity]
+>   S --> U[Despair]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ego Strength Development**
+> *Track the development of ego strengths through stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Infancy] --> B[Basic Trust]
+>   C[Early Childhood] --> D[Self-Control]
+>   E[Middle Childhood] --> F[Purpose & Accomplishment]
+>   G[Adolescence] --> H[Cohesive Identity]
+>   I[Young Adulthood] --> J[Intimate Relationships]
+>   K[Midlife] --> L[Generativity]
+>   M[Old Age] --> N[Integrity]
+> ```
 
 # Erikson's Psychosocial Stages
 

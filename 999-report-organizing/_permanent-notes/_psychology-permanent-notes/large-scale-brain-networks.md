@@ -18,7 +18,7 @@ subdomains:
   - cognitive-neuroscience
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-21'
 source-type: report-extraction
 source-reports:
   - large-scale-brain-networks-synthetic-seed-2026-05-01
@@ -67,8 +67,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-21'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-21) -->
+
+> [!abstract] **Diagram 1 — Large-Scale Brain Networks Overview**
+> *Identify the major networks and their functions.*
+>
+> ```mermaid
+> graph TD
+>   A[Default Mode Network]
+>   B[Saliency Network]
+>   C[Executive Control Network]
+>   D[Dorsal Attention Network]
+>   E[Ventral Attention Network]
+>   F[Sensorimotor Network]
+>   A -->|Internally Directed Thought|
+>   B -->|Detecting Salient Events|
+>   C -->|Cognitive Control|
+>   D -->|External Focus Tasks|
+>   E -->|Internal Focus Tasks|
+>   F -->|Sensory Processing and Motor Actions
+> ```
+
+
+> [!abstract] **Diagram 2 — Dynamic Network Reconfiguration**
+> *Observe how networks shift during cognitive tasks.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> DMN : Resting State
+>   DMN --> DAN : External Focus Task
+>   DAN --> EMN : Cognitive Control Required
+>   EMN --> SMN : Motor Execution
+>   SMN --> DMN : Post-Task Reflection
+> ```
+
+
+> [!abstract] **Diagram 3 — Network Interaction During Tasks**
+> *Trace the interaction between networks during cognitive shifts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant DefaultMode as DMN
+>   participant DorsalAttention as DAN
+>   participant ExecutiveControl as EMN
+>   DMN->>DAN: Decrease Activity
+>   DAN->>EMN: Increase Activity
+>   EMN->>DMN: Post-Task Reflection
+> ```
 
 # Large-Scale Brain Networks
 
