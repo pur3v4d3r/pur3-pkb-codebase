@@ -1,0 +1,51 @@
+[
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\$k$nn prompting beyondcontext learning with calibrationfree nearest neighbor inference.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\$k$nn prompting beyondcontext learning with calibrationfree nearest neighbor inference\\$k$nn prompting beyondcontext learning with calibrationfree nearest neighbor inference.md",
+    "status": "skipped",
+    "error": "",
+    "timestamp": "2026-05-21T02:18:21.313804"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\2nd place winning solution for the cvpr2023 visual anomaly and novelty detection challenge multimodal prompting for datacentric anomaly detection.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\2nd place winning solution for the cvpr2023 visual anomaly and novelty detection challenge multimodal prompting for datacentric anomaly detection\\2nd place winning solution for the cvpr2023 visual anomaly and novelty detection challenge multimodal prompting for datacentric anomaly detection.md",
+    "status": "skipped",
+    "error": "",
+    "timestamp": "2026-05-21T02:18:21.313994"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\a chain of aibased solutions for resolving fqns and fixing syntax errors in partial code.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\a chain of aibased solutions for resolving fqns and fixing syntax errors in partial code\\a chain of aibased solutions for resolving fqns and fixing syntax errors in partial code.md",
+    "status": "skipped",
+    "error": "",
+    "timestamp": "2026-05-21T02:18:21.314131"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\a benchmark for learning to translate a new language from one grammar book.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\a benchmark for learning to translate a new language from one grammar book\\a benchmark for learning to translate a new language from one grammar book.md",
+    "status": "skipped",
+    "error": "",
+    "timestamp": "2026-05-21T02:18:21.314175"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\a chat about boring problems studying gptbased text normalization.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\a chat about boring problems studying gptbased text normalization\\a chat about boring problems studying gptbased text normalization.md",
+    "status": "skipped",
+    "error": "",
+    "timestamp": "2026-05-21T02:18:21.314262"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\a communication theory perspective on prompting engineering methods for large language models.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\a communication theory perspective on prompting engineering methods for large language models\\a communication theory perspective on prompting engineering methods for large language models.md",
+    "status": "success",
+    "error": "",
+    "timestamp": "2026-05-21T02:23:52.705217"
+  },
+  {
+    "pdf_path": "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\__prompt-engineering-guidance\\research-papers\\pdf\\a closer look at incontext learning under distribution shifts.pdf",
+    "md_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\pdf-to-markdown\\a closer look at incontext learning under distribution shifts\\a closer look at incontext learning under distribution shifts.md",
+    "status": "success",
+    "error": "",
+    "timestamp": "2026-05-21T02:24:28.457387"
+  }
+]
