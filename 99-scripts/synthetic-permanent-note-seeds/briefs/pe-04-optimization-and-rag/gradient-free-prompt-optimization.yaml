@@ -1,0 +1,42 @@
+concept: Gradient-Free Prompt Optimization
+domain: prompt-engineering
+secondary_domains:
+- combinatorial-optimization
+- meta-learning
+aliases:
+- discrete prompt optimisation
+- black-box prompt search
+broader:
+- automatic-prompt-engineering
+- prompt-optimization
+related:
+- automatic-prompt-engineering
+- evolutionary-prompt-optimization
+- dspy-framework
+- prompt-tuning
+prerequisites:
+- automatic-prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Gradient-Free Prompt Optimization
+  body: Gradient-Free Prompt Optimization refers to methods that search for better
+    prompt templates or instructions using only forward-pass evaluations of a language
+    model — without access to model gradients — relying instead on techniques such
+    as genetic algorithms, hill climbing, Bayesian optimisation, beam search over
+    candidate instructions, or LLM-as-proposer strategies.
+- type: key-claim
+  title: Key claim about Gradient-Free Prompt Optimization
+  body: Gradient-Free Prompt Optimization is the only viable prompt optimisation approach
+    when the target model is accessed via an API that exposes only logits or text
+    outputs, not gradients; this practical constraint makes gradient-free methods
+    the dominant paradigm for optimising prompts against commercial frontier models,
+    despite their lower sample efficiency compared to gradient-based alternatives.
+- type: warning
+  title: Common pitfall regarding Gradient-Free Prompt Optimization
+  body: Gradient-Free Prompt Optimization can be computationally expensive when the
+    evaluation budget is limited; each evaluation requires a full model forward pass,
+    and the discrete nature of the prompt space means small changes in wording can
+    cause discontinuous jumps in performance, making smooth landscape assumptions
+    from continuous optimisation inapplicable and search convergence unreliable.

@@ -1,0 +1,40 @@
+concept: System Prompt Design
+domain: prompt-engineering
+secondary_domains:
+- llm-deployment
+- instruction-following
+aliases:
+- system message design
+- system-level prompting
+broader:
+- prompting
+related:
+- instruction-following
+- role-prompting
+- persona-assignment
+- output-format-specification
+prerequisites:
+- large-language-models
+- instruction-following
+confidence: high
+callouts:
+- type: definition
+  title: System Prompt Design
+  body: System Prompt Design is the craft of writing the persistent, high-authority
+    instruction block that frames an LLM's behaviour across an entire conversation
+    or API session. The system prompt sets the model's persona, operating constraints,
+    output style, and task scope before any user turn, and typically carries higher
+    interpretive weight than user instructions in aligned models.
+- type: key-claim
+  title: Key claim about System Prompt Design
+  body: System Prompt Design is the single highest-leverage point in a deployed LLM
+    application because it establishes the interpretation context for every downstream
+    user message; poorly scoped or ambiguous system prompts propagate their defects
+    into every response, while well-designed ones make the entire interaction robust
+    to prompt variation.
+- type: warning
+  title: Common pitfall regarding System Prompt Design
+  body: System Prompt Design is not a security boundary in itself; sophisticated users
+    can often override, extract, or circumvent system-prompt instructions through
+    carefully crafted user messages, which means security-critical constraints must
+    be enforced at the application layer, not solely in the system prompt text.

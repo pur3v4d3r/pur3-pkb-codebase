@@ -1,0 +1,49 @@
+concept: Test-Driven Prompting
+domain: code-generation
+secondary_domains:
+- software-testing
+- prompt-engineering
+- software-engineering
+aliases:
+- test-first code generation
+- TDD prompting
+- test-driven LLM coding
+broader:
+- code-prompting-strategies
+- execution-feedback-prompting
+related:
+- execution-feedback-prompting
+- self-debugging-llm
+- code-prompting-strategies
+- docstring-guided-generation
+prerequisites:
+- code-prompting-strategies
+- software-testing
+confidence: high
+callouts:
+- type: definition
+  title: Test-Driven Prompting
+  body: Test-Driven Prompting is a code generation strategy that mirrors test-driven
+    development (TDD) by prompting the model to generate a function implementation
+    that satisfies a provided test suite, rather than generating code from a prose
+    description. The test suite serves as a precise, executable specification that
+    defines the function's required behaviour at multiple points — including edge
+    cases, error conditions, and expected outputs — in a way that natural language
+    specifications cannot. By executing the generated code against the tests and feeding
+    back failures to the model, test-driven prompting leverages execution feedback
+    to progressively refine the implementation toward full test suite passage.
+- type: key-claim
+  title: Key claim about Test-Driven Prompting
+  body: Test-driven prompting is the most effective technique for aligning code generation
+    outputs with precise specifications, because executable tests provide an unambiguous,
+    machine-verifiable definition of correct behaviour that eliminates the interpretation
+    ambiguity inherent in natural language specifications, and the generation objective
+    (make all tests pass) is directly evaluable without human judgment.
+- type: warning
+  title: Common pitfall regarding Test-Driven Prompting
+  body: Test-driven prompting is only as reliable as the test suite it is given —
+    an incomplete test suite (covering only the happy path and a few expected edge
+    cases) will cause the model to optimise for passing the provided tests, potentially
+    producing implementations that satisfy all tests but fail on unstated edge cases
+    that were not included, reproducing the classic problem of test suite coverage
+    gaps in a new context.

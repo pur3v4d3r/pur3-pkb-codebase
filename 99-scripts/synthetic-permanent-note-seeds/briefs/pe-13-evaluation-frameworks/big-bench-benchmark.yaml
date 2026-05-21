@@ -1,0 +1,50 @@
+concept: BIG-Bench Benchmark
+domain: llm-evaluation
+secondary_domains:
+- benchmark-design
+- llm-capabilities
+- collaborative-research
+aliases:
+- BIG-bench
+- Beyond the Imitation Game Benchmark
+- BIG-bench Hard
+- BBH
+broader:
+- llm-evaluation
+- benchmark-design
+related:
+- lm-evaluation-harness
+- helm-holistic-evaluation
+- mt-bench
+- llm-capabilities
+prerequisites:
+- llm-evaluation
+- benchmark-design
+confidence: high
+callouts:
+- type: definition
+  title: BIG-Bench Benchmark
+  body: BIG-Bench (Beyond the Imitation Game Benchmark) is a collaborative benchmark
+    comprising hundreds of tasks contributed by researchers worldwide that are specifically
+    designed to probe capabilities believed to be beyond contemporary model capabilities
+    at the time of creation — including tasks in language, mathematics, reasoning,
+    commonsense, and creative domains. BIG-bench Hard (BBH) is a curated subset of
+    23 tasks where state-of-the-art models struggled at the time of collection, now
+    used as a challenging reasoning benchmark. BIG-bench's design philosophy focuses
+    on tasks that require capabilities rather than knowledge memorisation and that
+    scale in difficulty with model size.
+- type: key-claim
+  title: Key claim about BIG-Bench Benchmark
+  body: BIG-bench's collaborative curation model produces a richer and more diverse
+    benchmark than benchmarks designed by a single team — the breadth of task types
+    exposes capability profiles that single-capability benchmarks miss, revealing
+    that models can be simultaneously excellent at some capabilities and surprisingly
+    poor at others, which has implications for safety assessment and deployment planning.
+- type: warning
+  title: Common pitfall regarding BIG-Bench Benchmark
+  body: BIG-bench tasks vary widely in quality, definition clarity, and construct
+    validity — some tasks are well-defined with clear correct answers while others
+    involve subjective judgements about "best" responses; the heterogeneity of the
+    benchmark means aggregate scores mask important within-benchmark variation, and
+    individual task results require careful interpretation of what capability is actually
+    being measured.

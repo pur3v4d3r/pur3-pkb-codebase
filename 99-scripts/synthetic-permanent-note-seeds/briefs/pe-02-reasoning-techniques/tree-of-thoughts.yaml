@@ -1,0 +1,41 @@
+concept: Tree of Thoughts
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- search-algorithms
+aliases:
+- ToT
+- tree-of-thought reasoning
+broader:
+- reasoning-techniques
+- prompting
+related:
+- chain-of-thought-prompting
+- graph-of-thoughts
+- self-consistency-sampling
+- decomposed-prompting
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Tree of Thoughts
+  body: Tree of Thoughts is a prompting framework that structures LLM reasoning as
+    an explicit search over a tree of intermediate "thought" states, where each node
+    is a partial solution, branches represent alternative reasoning moves, and the
+    search is guided by a value function (implemented via LLM self-evaluation) that
+    prunes low-promise paths and backtracks to explore more productive branches.
+- type: key-claim
+  title: Key claim about Tree of Thoughts
+  body: Tree of Thoughts overcomes the key limitation of linear chain-of-thought prompting
+    — the inability to recover from early reasoning errors — by making backtracking
+    and branch exploration first-class operations, which is why it outperforms CoT
+    on tasks where the optimal path requires trying and discarding multiple intermediate
+    hypotheses.
+- type: warning
+  title: Common pitfall regarding Tree of Thoughts
+  body: Tree of Thoughts is computationally expensive in proportion to the tree's
+    branching factor and depth; naive implementations require many LLM calls per problem
+    and can produce costs that make the method impractical for latency-sensitive or
+    budget-constrained deployments without careful pruning strategies.

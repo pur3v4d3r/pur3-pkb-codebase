@@ -1,0 +1,48 @@
+concept: Chart and Table Reasoning
+domain: multimodal-ai
+secondary_domains:
+- data-visualisation
+- prompt-engineering
+- computer-vision
+aliases:
+- chart reasoning prompts
+- table understanding
+- visual data reasoning
+broader:
+- vision-language-prompting
+- visual-chain-of-thought
+related:
+- visual-chain-of-thought
+- document-understanding-prompts
+- grounded-visual-reasoning
+- numerical-reasoning-prompts
+prerequisites:
+- vision-language-prompting
+- visual-chain-of-thought
+confidence: high
+callouts:
+- type: definition
+  title: Chart and Table Reasoning
+  body: Chart and Table Reasoning refers to the specialised prompting strategies and
+    evaluation considerations for tasks where a vision-language model must extract
+    data, identify trends, compute derived statistics, or answer analytical questions
+    from visual representations of quantitative data. Effective prompts for chart
+    and table reasoning typically combine visual chain-of-thought instructions with
+    explicit guidance to read axis labels and scales before interpreting trends, to
+    identify the chart type before making data claims, and to express numerical uncertainty
+    when data values are difficult to read precisely from the visual representation.
+- type: key-claim
+  title: Key claim about Chart and Table Reasoning
+  body: Chart and table reasoning is among the most challenging multimodal tasks for
+    current VLMs because it requires integrating spatial reasoning (where is a data
+    point?), visual processing (what value does this bar/point represent?), and quantitative
+    reasoning (what is the trend/comparison/statistic?) in a way that errors compound
+    across steps — making explicit visual CoT prompts that decompose these sub-tasks
+    significantly more reliable than direct answer prompts.
+- type: warning
+  title: Common pitfall regarding Chart and Table Reasoning
+  body: VLMs systematically underperform on precise numerical reading from charts
+    — the models tend to produce approximate values that are in the right range but
+    incorrect at the level of precision suggested by their confident phrasing, and
+    they frequently misread logarithmic scales, dual-axis charts, and stacked bar
+    charts in ways that produce directionally plausible but numerically wrong conclusions.

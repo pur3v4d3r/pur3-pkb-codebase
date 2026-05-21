@@ -1,0 +1,48 @@
+concept: Red Teaming LLMs
+domain: prompt-engineering
+secondary_domains:
+- safety
+- adversarial-evaluation
+aliases:
+- LLM red teaming
+- adversarial stress testing
+- AI red team
+broader:
+- safety
+- evaluation-methods
+related:
+- jailbreaking
+- prompt-injection
+- constitutional-ai-method
+- hallucination-detection
+prerequisites:
+- large-language-models
+- alignment
+- security
+confidence: high
+callouts:
+- type: definition
+  title: Red Teaming LLMs
+  body: Red Teaming LLMs is the systematic adversarial evaluation of language models
+    by a dedicated team (the red team) whose goal is to find prompts, attack vectors,
+    or use patterns that cause the model to produce harmful, dangerous, policy-violating,
+    or misleading outputs — stress-testing the model's safety, robustness, and alignment
+    before deployment and identifying failure modes that benign evaluation cannot
+    discover.
+- type: key-claim
+  title: Key claim about Red Teaming LLMs
+  body: Red Teaming LLMs is a necessary complement to standard safety benchmarks because
+    alignment failures are adversarially distributed — the prompts that elicit unsafe
+    behaviour are precisely those that the model developer did not anticipate, and
+    static benchmarks can only evaluate the known failure modes; red teaming provides
+    open-ended coverage of the unknown failure mode space through creative adversarial
+    exploration that cannot be captured by any fixed evaluation set.
+- type: warning
+  title: Common pitfall regarding Red Teaming LLMs
+  body: Red Teaming LLMs faces a scalability challenge as models become safer on known
+    attack patterns; effective red teaming requires continuously evolving attack strategies
+    to stay ahead of the model's defences, and the expertise and creativity required
+    for effective red teaming are scarce resources that create an asymmetry between
+    the red team's ability to find new attacks and the blue team's ability to prevent
+    them — meaning red teaming is a continuous process requirement, not a one-time
+    deployment gate.

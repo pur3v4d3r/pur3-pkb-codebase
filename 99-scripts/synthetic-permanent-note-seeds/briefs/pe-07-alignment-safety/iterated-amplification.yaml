@@ -1,0 +1,45 @@
+concept: Iterated Amplification
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-alignment
+aliases:
+- IDA
+- capability amplification
+- HCH
+broader:
+- scalable-oversight
+- ai-alignment
+related:
+- scalable-oversight
+- debate-as-alignment-mechanism
+- reinforcement-learning-from-human-feedback
+- corrigibility
+prerequisites:
+- scalable-oversight
+- value-alignment-problem
+confidence: high
+callouts:
+- type: definition
+  title: Iterated Amplification
+  body: Iterated Amplification (IDA) is a scalable oversight framework proposed by
+    Paul Christiano in which a superhuman AI assistant is built by iteratively bootstrapping
+    from a human+AI system, with each iteration delegating subtasks to a slightly
+    less capable but already-amplified assistant. The key property is that the human
+    can supervise the AI at each level by decomposing the task into subtasks where
+    the human-plus-previous-assistant system is competent; over many iterations, the
+    overall capability of the supervised system grows while remaining grounded in
+    human values at every step of the supervision chain.
+- type: key-claim
+  title: Key claim about Iterated Amplification
+  body: Iterated Amplification attempts to build a chain of supervision that extends
+    from human-competent domains into superhuman domains without any single step requiring
+    the human to evaluate an output beyond their comprehension, making it theoretically
+    capable of producing aligned superintelligent behaviour.
+- type: warning
+  title: Common pitfall regarding Iterated Amplification
+  body: IDA's safety guarantees depend on the assumption that values are preserved
+    faithfully through each amplification step — if any intermediate assistant has
+    subtly misaligned objectives, those misalignments can compound across iterations
+    rather than being corrected, so the approach requires not just capability amplification
+    but alignment amplification at every level.

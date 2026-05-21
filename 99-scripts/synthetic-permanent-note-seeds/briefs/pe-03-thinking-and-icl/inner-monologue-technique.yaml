@@ -1,0 +1,42 @@
+concept: Inner Monologue Technique
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- agent-frameworks
+aliases:
+- inner monologue prompting
+- internal monologue strategy
+broader:
+- extended-thinking-architecture
+- reasoning-techniques
+related:
+- chain-of-thought-prompting
+- metacognitive-scaffolding
+- agent-scratchpad
+- thinking-tag-semantics
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Inner Monologue Technique
+  body: The Inner Monologue Technique is a prompting strategy, originally designed
+    for safety and reasoning tasks, in which the model is instructed to produce a
+    private reasoning trace that works through the implications of a request, evaluates
+    potential harms or misunderstandings, and develops a considered response plan
+    before generating the user-visible output.
+- type: key-claim
+  title: Key claim about Inner Monologue Technique
+  body: The Inner Monologue Technique improves safety and reasoning by separating
+    the deliberative process from the expressive process; reasoning in a private space
+    allows the model to surface and examine problematic interpretations of a request
+    before committing to a response, whereas direct generation commits to a response
+    path from the first token without this deliberative buffer.
+- type: warning
+  title: Common pitfall regarding Inner Monologue Technique
+  body: The Inner Monologue Technique's safety benefits depend critically on whether
+    the model's training has genuinely linked the reasoning trace to the output policy;
+    if the model can generate a "responsible-sounding" inner monologue and then produce
+    a response inconsistent with its conclusions (a failure mode called "reasoning-action
+    misalignment"), the technique provides a false sense of safety assurance.

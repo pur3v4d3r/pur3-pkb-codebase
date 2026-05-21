@@ -1,0 +1,48 @@
+concept: Cognitive Load Theory Applied to LLMs
+domain: cognitive-science
+secondary_domains:
+- prompt-engineering
+- instructional-design
+- llm-capabilities
+aliases:
+- cognitive load in prompting
+- extraneous load in prompts
+- intrinsic cognitive load LLM
+broader:
+- cognitive-science
+- prompt-engineering
+related:
+- dual-process-theory-applied-to-llms
+- working-memory-constraints-in-prompts
+- schema-activation-in-prompts
+- prompt-engineering
+prerequisites:
+- cognitive-load-theory
+- prompt-engineering
+confidence: medium
+callouts:
+- type: definition
+  title: Cognitive Load Theory Applied to LLMs
+  body: Cognitive Load Theory Applied to LLMs draws on Sweller's cognitive load theory
+    — which distinguishes intrinsic load (complexity inherent in the task), extraneous
+    load (complexity from poor presentation), and germane load (productive processing
+    that builds schemas) — to analyse how prompt design affects LLM performance. Under
+    this framework, complex prompts with poorly organised instructions, irrelevant
+    context, or ambiguous task framing create extraneous processing demand that degrades
+    task performance, while well-structured prompts with clear instruction hierarchy
+    and progressive task complexity manage cognitive load to improve output quality.
+- type: key-claim
+  title: Key claim about Cognitive Load Theory Applied to LLMs
+  body: Extraneous cognitive load in prompts — created by redundant information, inconsistent
+    terminology, unclear task hierarchy, or distracting context — measurably degrades
+    LLM performance by consuming the model's effective context processing capacity,
+    supporting prompt design principles that prioritise clarity, information hierarchy,
+    and elimination of irrelevant context.
+- type: warning
+  title: Common pitfall regarding Cognitive Load Theory Applied to LLMs
+  body: Cognitive load theory was developed to explain human learning and performance,
+    not language model processing — applying it to LLMs assumes a structural parallel
+    between human working memory constraints and LLM attention-based context processing
+    that may not hold in detail; the theory provides useful design intuitions but
+    its specific predictions (such as the split-attention effect or redundancy effect)
+    have not been systematically validated in LLM contexts.

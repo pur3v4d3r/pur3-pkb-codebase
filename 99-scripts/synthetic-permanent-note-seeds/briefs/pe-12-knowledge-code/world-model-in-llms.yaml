@@ -1,0 +1,54 @@
+concept: World Model in LLMs
+domain: knowledge-grounding
+secondary_domains:
+- cognitive-science
+- llm-theory
+- commonsense-reasoning
+aliases:
+- internal world model
+- implicit world model
+- mental simulation in LLMs
+broader:
+- knowledge-grounding
+- commonsense-reasoning
+narrower:
+- mental-simulation-in-llms
+related:
+- parametric-vs-contextual-knowledge
+- commonsense-reasoning
+- dual-process-theory-applied-to-llms
+- grounded-generation
+prerequisites:
+- llm-theory
+- cognitive-science
+- commonsense-reasoning
+confidence: medium
+callouts:
+- type: definition
+  title: World Model in LLMs
+  body: 'The World Model hypothesis in LLM research posits that large language models
+    develop implicit internal representations of the structure and dynamics of the
+    world — not merely statistical patterns over word sequences — that enable coherent
+    reasoning about entities, events, causality, and physical processes beyond what
+    can be inferred from surface text statistics alone. Evidence comes from observations
+    that models can perform structured planning, counterfactual reasoning, and physical
+    simulation tasks that would not be possible from surface-level text pattern matching.
+    The hypothesis is contested: some researchers argue that apparent world modelling
+    is sophisticated pattern matching, while others argue that the patterns are dense
+    enough to constitute a functionally equivalent world model.'
+- type: key-claim
+  title: Key claim about World Model in LLMs
+  body: Whether or not LLMs have genuine world models in the cognitive science sense,
+    the practical implication is the same — models can be prompted to reason as if
+    they have such models, and prompts that activate systematic world-model-like reasoning
+    (e.g., "think about what would physically happen if…") produce more coherent and
+    accurate responses on tasks requiring causal or physical reasoning than prompts
+    that request direct answers.
+- type: warning
+  title: Common pitfall regarding World Model in LLMs
+  body: The world model hypothesis is partially falsified by LLMs' known failure patterns
+    — models make systematic errors on basic physical reasoning, spatial reasoning,
+    and commonsense causal tasks that would be trivially correct under even a minimal
+    world model, suggesting that whatever internal representations models have are
+    incomplete, inconsistent, or different in important ways from the structured world
+    models proposed in cognitive science.

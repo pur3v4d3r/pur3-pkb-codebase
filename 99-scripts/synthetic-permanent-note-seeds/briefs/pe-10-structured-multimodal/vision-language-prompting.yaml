@@ -1,0 +1,56 @@
+concept: Vision-Language Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- computer-vision
+- multimodal-llms
+aliases:
+- VL prompting
+- visual prompting
+- multimodal prompting
+- image+text prompting
+broader:
+- prompt-engineering
+- multimodal-ai
+narrower:
+- image-captioning-prompts
+- visual-chain-of-thought
+- multimodal-few-shot
+- grounded-visual-reasoning
+related:
+- image-captioning-prompts
+- visual-chain-of-thought
+- multimodal-few-shot
+- document-understanding-prompts
+- grounded-visual-reasoning
+prerequisites:
+- prompt-engineering
+- vision-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Vision-Language Prompting
+  body: Vision-Language Prompting refers to the set of techniques for constructing
+    prompts that combine image and text inputs to steer the behaviour of multimodal
+    language models (VLMs). Effective VL prompting involves decisions about how to
+    describe the visual analysis task in the text portion, how to reference specific
+    image regions or elements, how to use few-shot image+text examples to establish
+    output format and reasoning depth, and how to elicit structured visual reasoning
+    rather than surface-level description. The field adapts principles from text-only
+    prompt engineering to the multimodal setting where the model must integrate two
+    distinct input modalities.
+- type: key-claim
+  title: Key claim about Vision-Language Prompting
+  body: Vision-language prompting requires a qualitatively different approach to few-shot
+    example design compared to text-only prompting — because visual semantics are
+    not fully expressible in text, the few-shot images themselves carry substantial
+    information that the text cannot replicate, and selecting visually representative
+    examples requires understanding the distribution of visual content rather than
+    just semantic task framing.
+- type: warning
+  title: Common pitfall regarding Vision-Language Prompting
+  body: Vision-language models are particularly susceptible to visual distractors
+    — text in the image that conflicts with the text prompt, image regions irrelevant
+    to the query, and misleading visual context can all override the intent of the
+    text prompt, because the cross-modal attention mechanism may attend more strongly
+    to salient visual features than to the instruction text.

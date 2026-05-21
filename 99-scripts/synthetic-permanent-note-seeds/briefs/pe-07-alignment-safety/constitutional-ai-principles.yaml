@@ -1,0 +1,46 @@
+concept: Constitutional AI Principles
+domain: ai-alignment
+secondary_domains:
+- prompt-engineering
+- ai-safety
+- llm-training
+aliases:
+- Constitutional AI
+- CAI principles
+- self-critique alignment
+broader:
+- ai-alignment
+- reinforcement-learning-from-human-feedback
+narrower:
+- red-teaming-llms
+related:
+- reinforcement-learning-from-human-feedback
+- scalable-oversight
+- reward-model-design
+- corrigibility
+prerequisites:
+- large-language-models
+- instruction-fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Constitutional AI Principles
+  body: Constitutional AI Principles is an alignment technique developed by Anthropic
+    in which a language model's harmlessness is trained not through direct human feedback
+    on harmful outputs but through a set of natural-language principles — a "constitution"
+    — against which the model critiques and revises its own responses. The method
+    combines supervised learning from AI-generated revisions with reinforcement learning
+    from AI-generated preference labels (RLAIF), reducing reliance on human labellers
+    for the harm-avoidance dimension of alignment while maintaining helpfulness.
+- type: key-claim
+  title: Key claim about Constitutional AI Principles
+  body: Constitutional AI decouples helpfulness training from harmlessness training
+    by letting a model self-critique against explicit principles, producing models
+    that can explain *why* a response is problematic rather than merely learning to
+    avoid surface-level patterns flagged by human raters.
+- type: warning
+  title: Common pitfall regarding Constitutional AI Principles
+  body: The constitutional approach does not eliminate value judgements — it relocates
+    them from individual human rater decisions to the choice of principles in the
+    constitution itself, meaning the values baked in depend entirely on how the principles
+    are authored and which are prioritised.

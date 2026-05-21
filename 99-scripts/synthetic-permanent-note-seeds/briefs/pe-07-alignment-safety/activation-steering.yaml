@@ -1,0 +1,48 @@
+concept: Activation Steering
+domain: ai-alignment
+secondary_domains:
+- mechanistic-interpretability
+- llm-internals
+- ai-alignment
+aliases:
+- activation addition
+- representation steering
+- latent space steering
+broader:
+- representation-engineering
+- mechanistic-interpretability
+- ai-alignment
+related:
+- representation-engineering
+- mechanistic-interpretability
+- superposition-hypothesis
+- linear-representation-hypothesis
+prerequisites:
+- transformer-attention-mechanism
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Activation Steering
+  body: Activation Steering is an interpretability and alignment technique in which
+    a model's behaviour is modified by adding a steering vector directly to its residual
+    stream or other internal activations during inference, without changing any weights.
+    The steering vector is typically derived by computing the difference in activations
+    between contrasting prompts (e.g., "act friendly" vs "act hostile") and is added
+    scaled by a coefficient during the forward pass. The technique allows researchers
+    to test hypotheses about what concepts are linearly represented in the model's
+    internals and to induce or suppress specific behaviours at inference time.
+- type: key-claim
+  title: Key claim about Activation Steering
+  body: Activation steering demonstrates that many high-level behavioural attributes
+    — emotions, ethical dispositions, factual beliefs — are encoded as approximately
+    linear directions in the model's residual stream, making them manipulable without
+    any fine-tuning, which both enables interpretability research and raises safety
+    concerns about adversarial manipulation of model internals.
+- type: warning
+  title: Common pitfall regarding Activation Steering
+  body: Activation steering is sensitive to the magnitude of the steering coefficient
+    — underpowered steering may have no effect, while overpowered steering degrades
+    coherence or produces bizarre outputs, and the effect generalises imperfectly
+    across contexts, so lab demonstrations of steering may not reflect robustly controllable
+    alignment tools.

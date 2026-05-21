@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-12-knowledge-code",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-12-knowledge-code.md",
+    "notes": "Sixteen concepts across two clusters: knowledge-grounding and factuality\nin LLMs (eight terms), and code generation prompting strategies (eight\nterms). The knowledge section covers the mechanisms by which LLMs are\naugmented with external knowledge (KG-augmented LLMs, entity linking,\nfact verification prompting), the challenge of knowledge conflicts and\nambiguity (parametric vs. contextual knowledge, knowledge-conflict\nresolution, closed-book vs. open-book QA), and higher-level knowledge\nchallenges (grounded generation, world models). The code section covers\nthe full range of prompting strategies specific to code generation tasks\n(code-prompting, execution feedback, self-debugging, code-CoT, test-driven,\ndocstring-guided, repair prompting, pseudocode intermediate steps)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-12-knowledge-code",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-12-knowledge-code"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Knowledge Graph-Augmented LLMs",
+      "kebab": "knowledge-graph-augmented-llms",
+      "brief_path": "briefs/pe-12-knowledge-code/knowledge-graph-augmented-llms.yaml",
+      "expected_seed_filename": "knowledge-graph-augmented-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Entity Linking in Prompts",
+      "kebab": "entity-linking-in-prompts",
+      "brief_path": "briefs/pe-12-knowledge-code/entity-linking-in-prompts.yaml",
+      "expected_seed_filename": "entity-linking-in-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Fact Verification Prompting",
+      "kebab": "fact-verification-prompting",
+      "brief_path": "briefs/pe-12-knowledge-code/fact-verification-prompting.yaml",
+      "expected_seed_filename": "fact-verification-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Knowledge Conflict Resolution",
+      "kebab": "knowledge-conflict-resolution",
+      "brief_path": "briefs/pe-12-knowledge-code/knowledge-conflict-resolution.yaml",
+      "expected_seed_filename": "knowledge-conflict-resolution-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Parametric vs. Contextual Knowledge",
+      "kebab": "parametric-vs-contextual-knowledge",
+      "brief_path": "briefs/pe-12-knowledge-code/parametric-vs-contextual-knowledge.yaml",
+      "expected_seed_filename": "parametric-vs-contextual-knowledge-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Closed-Book vs. Open-Book QA",
+      "kebab": "closed-book-vs-open-book-qa",
+      "brief_path": "briefs/pe-12-knowledge-code/closed-book-vs-open-book-qa.yaml",
+      "expected_seed_filename": "closed-book-vs-open-book-qa-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Grounded Generation",
+      "kebab": "grounded-generation",
+      "brief_path": "briefs/pe-12-knowledge-code/grounded-generation.yaml",
+      "expected_seed_filename": "grounded-generation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "World Model in LLMs",
+      "kebab": "world-model-in-llms",
+      "brief_path": "briefs/pe-12-knowledge-code/world-model-in-llms.yaml",
+      "expected_seed_filename": "world-model-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Code Prompting Strategies",
+      "kebab": "code-prompting-strategies",
+      "brief_path": "briefs/pe-12-knowledge-code/code-prompting-strategies.yaml",
+      "expected_seed_filename": "code-prompting-strategies-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Execution Feedback Prompting",
+      "kebab": "execution-feedback-prompting",
+      "brief_path": "briefs/pe-12-knowledge-code/execution-feedback-prompting.yaml",
+      "expected_seed_filename": "execution-feedback-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Debugging LLM",
+      "kebab": "self-debugging-llm",
+      "brief_path": "briefs/pe-12-knowledge-code/self-debugging-llm.yaml",
+      "expected_seed_filename": "self-debugging-llm-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Code Chain of Thought",
+      "kebab": "code-chain-of-thought",
+      "brief_path": "briefs/pe-12-knowledge-code/code-chain-of-thought.yaml",
+      "expected_seed_filename": "code-chain-of-thought-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Test-Driven Prompting",
+      "kebab": "test-driven-prompting",
+      "brief_path": "briefs/pe-12-knowledge-code/test-driven-prompting.yaml",
+      "expected_seed_filename": "test-driven-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Docstring-Guided Generation",
+      "kebab": "docstring-guided-generation",
+      "brief_path": "briefs/pe-12-knowledge-code/docstring-guided-generation.yaml",
+      "expected_seed_filename": "docstring-guided-generation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Repair Prompting",
+      "kebab": "repair-prompting",
+      "brief_path": "briefs/pe-12-knowledge-code/repair-prompting.yaml",
+      "expected_seed_filename": "repair-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Pseudocode Intermediate Step",
+      "kebab": "pseudocode-intermediate-step",
+      "brief_path": "briefs/pe-12-knowledge-code/pseudocode-intermediate-step.yaml",
+      "expected_seed_filename": "pseudocode-intermediate-step-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

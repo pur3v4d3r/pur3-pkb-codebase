@@ -1,0 +1,46 @@
+concept: Prompt Sensitivity Analysis
+domain: prompt-engineering
+secondary_domains:
+- robustness
+- evaluation
+aliases:
+- prompt robustness evaluation
+- instruction sensitivity
+- prompt fragility testing
+broader:
+- evaluation-methods
+- prompt-optimization
+related:
+- prompt-paraphrasing
+- benchmark-overfitting
+- llm-as-judge
+- label-sensitivity-in-icl
+prerequisites:
+- large-language-models
+- evaluation-methods
+- prompt-formatting
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Sensitivity Analysis
+  body: Prompt Sensitivity Analysis is the systematic evaluation of how much a model's
+    performance varies across semantically equivalent or minimally different prompt
+    formulations — measuring the instability in model outputs caused by surface-level
+    changes to the instruction wording, question framing, or few-shot example selection,
+    to quantify and diagnose prompt fragility.
+- type: key-claim
+  title: Key claim about Prompt Sensitivity Analysis
+  body: Prompt Sensitivity Analysis reveals that reported benchmark performance is
+    often contingent on the specific prompt formulation used, not just the model's
+    underlying capability; high sensitivity scores indicate that performance numbers
+    are not reproducible across natural prompt variations, making sensitivity analysis
+    an essential component of rigorous LLM evaluation that is systematically underreported
+    in published benchmarks.
+- type: warning
+  title: Common pitfall regarding Prompt Sensitivity Analysis
+  body: Prompt Sensitivity Analysis requires many evaluation runs to produce statistically
+    reliable sensitivity estimates, and the cost scales with both the number of prompt
+    variants and the benchmark size; in practice, most published evaluations use a
+    single prompt formulation per task, meaning that apparent capability differences
+    between models may reflect prompt-model interaction effects rather than genuine
+    capability differences.

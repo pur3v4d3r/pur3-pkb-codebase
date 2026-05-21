@@ -1,0 +1,51 @@
+concept: Arena ELO Rating
+domain: llm-evaluation
+secondary_domains:
+- comparative-evaluation
+- human-preference-evaluation
+- chatbot-evaluation
+aliases:
+- Chatbot Arena
+- LMSYS Arena
+- ELO leaderboard
+- pairwise LLM evaluation
+broader:
+- llm-evaluation
+- human-preference-evaluation
+related:
+- mt-bench
+- human-preference-datasets
+- llm-judge-calibration
+- self-evaluation-prompting
+prerequisites:
+- llm-evaluation
+- pairwise-comparison
+- elo-rating-systems
+confidence: high
+callouts:
+- type: definition
+  title: Arena ELO Rating
+  body: Arena ELO Rating is the application of pairwise tournament-style comparison
+    and ELO rating to language model evaluation, implemented in Chatbot Arena (LMSYS).
+    In this framework, human users submit queries, see anonymous responses from two
+    randomly selected models side by side, and indicate which response they prefer;
+    the pairwise preference outcomes are used to compute ELO ratings that represent
+    each model's relative quality in head-to-head comparisons. The large volume of
+    organic human comparisons (millions of votes) provides a signal that is free from
+    benchmark contamination and reflects diverse real-world user preferences.
+- type: key-claim
+  title: Key claim about Arena ELO Rating
+  body: Arena ELO ratings derived from real user preference comparisons are among
+    the most ecologically valid evaluation signals available for chat models, because
+    they reflect actual human utility judgements on real user queries rather than
+    curated benchmark questions — models that rank highly on Arena ELO consistently
+    receive high user satisfaction in deployment, while some models that rank highly
+    on standard benchmarks show a gap in Arena performance that reveals benchmark-specific
+    optimisation.
+- type: warning
+  title: Common pitfall regarding Arena ELO Rating
+  body: Arena ELO ratings reflect the preferences of the population of users who participate
+    in the arena, which tends to skew toward technically sophisticated English-speaking
+    users interested in model comparison — this population may not represent the preferences
+    of target deployment users for specific applications, making Arena ELO a measure
+    of crowd preference rather than task-specific quality.

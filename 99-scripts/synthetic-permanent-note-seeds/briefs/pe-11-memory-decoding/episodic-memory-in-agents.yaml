@@ -1,0 +1,52 @@
+concept: Episodic Memory in Agents
+domain: llm-memory
+secondary_domains:
+- ai-agents
+- cognitive-science
+- prompt-engineering
+aliases:
+- agent episodic memory
+- LLM episodic memory
+- event-based agent memory
+broader:
+- external-memory-augmentation
+- llm-memory
+related:
+- external-memory-augmentation
+- working-memory-proxies-in-llms
+- memory-augmented-neural-networks
+- long-context-prompting-strategies
+- retrieval-augmented-generation
+prerequisites:
+- ai-agents
+- in-context-learning
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Episodic Memory in Agents
+  body: Episodic Memory in Agents refers to the capability of LLM-based agents to
+    retain and retrieve memories of specific past interactions, events, or experiences
+    — distinct from semantic (factual) memory stored in model weights and from working
+    memory (the current context window). Episodic memory is typically implemented
+    by storing interaction records in an external database (vector store, key-value
+    store, or structured database), encoding them as retrievable memories, and injecting
+    relevant past episodes into the agent's context when they are semantically relevant
+    to the current query. This enables the agent to personalise responses based on
+    conversation history, learn from past mistakes, and maintain coherent long-term
+    task state.
+- type: key-claim
+  title: Key claim about Episodic Memory in Agents
+  body: Episodic memory is the foundational architectural element that separates stateless
+    LLM assistants from genuinely intelligent agents — without a mechanism for persistent
+    experience storage and retrieval, an agent cannot improve from past interactions,
+    cannot maintain coherent relationships with users over time, and cannot execute
+    tasks that require referencing events that occurred beyond the current context
+    window.
+- type: warning
+  title: Common pitfall regarding Episodic Memory in Agents
+  body: Episodic memory retrieval introduces a selection problem — the agent must
+    decide which past episodes are relevant to the current context, and poor retrieval
+    can inject irrelevant or misleading memories that degrade performance, making
+    the quality of the episodic memory retrieval system as important as the memory
+    storage itself.

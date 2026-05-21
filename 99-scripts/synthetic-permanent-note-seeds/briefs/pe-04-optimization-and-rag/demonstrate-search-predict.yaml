@@ -1,0 +1,46 @@
+concept: Demonstrate Search Predict
+domain: prompt-engineering
+secondary_domains:
+- pipeline-design
+- retrieval
+aliases:
+- DSP
+- demonstrate-search-predict framework
+broader:
+- retrieval-augmented-generation
+- automatic-prompt-engineering
+related:
+- retrieval-augmented-generation
+- dspy-framework
+- iterative-retrieval
+- few-shot-prompting
+prerequisites:
+- retrieval-augmented-generation
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Demonstrate Search Predict
+  body: Demonstrate Search Predict is a compositional framework for knowledge-intensive
+    NLP tasks that decomposes inference into three programmatic stages — demonstrate
+    (retrieve or generate few-shot demonstrations), search (retrieve relevant passages
+    using an intermediate query), and predict (generate the final answer conditioned
+    on demonstrations and retrieved passages) — with each stage's behaviour specified
+    programmatically and optimised jointly.
+- type: key-claim
+  title: Key claim about Demonstrate Search Predict
+  body: Demonstrate Search Predict shows that the composition of retrieval and generation
+    can be expressed as a modular program with explicit inter-stage interfaces, enabling
+    systematic optimisation of each stage independently before joint optimisation
+    — a modular decomposition that inspired the later DSPy framework and established
+    the principle that RAG systems should be designed as programs rather than monolithic
+    end-to-end prompts.
+- type: warning
+  title: Common pitfall regarding Demonstrate Search Predict
+  body: Demonstrate Search Predict's multi-stage architecture introduces latency at
+    each stage and requires careful orchestration to avoid cascading errors where
+    a bad demonstration retrieved in the first stage biases both the search query
+    in the second stage and the prediction in the third stage, producing a correlated
+    error chain that is harder to debug than the independent failures in a simpler
+    single-stage RAG system.

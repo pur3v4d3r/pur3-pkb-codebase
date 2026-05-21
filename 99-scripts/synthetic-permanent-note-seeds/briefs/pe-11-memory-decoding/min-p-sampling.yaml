@@ -1,0 +1,46 @@
+concept: Min-P Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+aliases:
+- minimum probability sampling
+- min-p decoding
+broader:
+- llm-decoding
+related:
+- temperature-sampling
+- top-p-nucleus-sampling
+- top-k-sampling
+- llm-generation
+prerequisites:
+- llm-decoding
+- top-p-nucleus-sampling
+- temperature-sampling
+confidence: high
+callouts:
+- type: definition
+  title: Min-P Sampling
+  body: Min-P Sampling is a decoding strategy that filters the vocabulary by removing
+    any tokens whose probability falls below a fraction p_min of the probability of
+    the highest-probability token. Rather than using an absolute threshold (top-k)
+    or a cumulative probability cutoff (top-p), min-p uses a relative threshold that
+    scales with the model's confidence — when the most likely token has probability
+    0.9, tokens with probability below 0.09 (p_min=0.1) are excluded; when the distribution
+    is flat and the most likely token has probability 0.05, the cutoff is 0.005. This
+    produces a nucleus that scales dynamically with the model's confidence state.
+- type: key-claim
+  title: Key claim about Min-P Sampling
+  body: Min-P sampling provides better quality-diversity tradeoffs than top-p at higher
+    temperatures by more aggressively filtering incoherent low-probability tokens
+    while preserving genuine alternatives — at high temperatures where top-p's nucleus
+    becomes very large and includes many garbage tokens, min-p's relative threshold
+    continues to exclude tokens that are far below the best option, maintaining generation
+    quality in creative or exploratory modes.
+- type: warning
+  title: Common pitfall regarding Min-P Sampling
+  body: Min-P is sensitive to the specific value of p_min in a way that differs from
+    top-p's sensitivity to p — because min-p sets a relative threshold, small changes
+    to p_min can dramatically change the effective vocabulary size when the model's
+    confidence distribution is multimodal, making it require more careful calibration
+    than top-p in some generation regimes.

@@ -1,0 +1,50 @@
+concept: Prompt Caching Strategies
+domain: production-deployment
+secondary_domains:
+- infrastructure
+- prompt-engineering
+- cost-optimization
+aliases:
+- KV cache reuse
+- prefix caching
+- prompt cache management
+broader:
+- production-deployment
+- cost-per-token-optimization
+related:
+- cost-per-token-optimization
+- latency-quality-tradeoff
+- multi-model-routing
+- prompt-versioning
+prerequisites:
+- llm-inference
+- kv-cache
+- production-deployment
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Caching Strategies
+  body: Prompt Caching Strategies refer to techniques for reducing the computational
+    cost and latency of LLM inference by caching and reusing the key-value (KV) cache
+    computed for the prompt prefix — specifically the system prompt and any fixed
+    context that does not change between requests. When a new request arrives with
+    the same prompt prefix as a previous request, the cached KV states for that prefix
+    can be reused directly, avoiding recomputation. Many inference providers and APIs
+    now support prompt caching as a cost-reduction feature; effective cache utilisation
+    requires structuring prompts with fixed prefixes and dynamic suffixes.
+- type: key-claim
+  title: Key claim about Prompt Caching Strategies
+  body: Prompt caching is one of the highest-leverage cost optimisation techniques
+    available for production LLM applications with repeated prompt structure — applications
+    with long system prompts processed across millions of requests can achieve 50–90%
+    reduction in compute costs for the system prompt prefix by structuring prompts
+    to maximise cache hit rates, with commensurate latency benefits due to reduced
+    computation.
+- type: warning
+  title: Common pitfall regarding Prompt Caching Strategies
+  body: Prompt caching invalidation requires careful management — cached KV states
+    become stale when the prompt prefix changes (e.g., during system prompt updates),
+    and stale cache usage can cause the model to respond based on the old system prompt
+    rather than the updated one; cache invalidation policies must be coordinated with
+    prompt versioning to prevent stale cache states from causing silent behaviour
+    regressions.

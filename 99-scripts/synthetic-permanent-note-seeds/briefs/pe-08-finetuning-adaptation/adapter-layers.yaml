@@ -1,0 +1,47 @@
+concept: Adapter Layers
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- parameter-efficient-fine-tuning
+- transfer-learning
+aliases:
+- adapters
+- bottleneck adapters
+- Houlsby adapters
+- task adapters
+broader:
+- parameter-efficient-fine-tuning
+related:
+- parameter-efficient-fine-tuning
+- lora-low-rank-adaptation
+- prefix-tuning
+- prompt-tuning
+prerequisites:
+- fine-tuning
+- transformer-attention-mechanism
+- transfer-learning
+confidence: high
+callouts:
+- type: definition
+  title: Adapter Layers
+  body: Adapter Layers are small bottleneck modules inserted within the layers of
+    a pretrained transformer model, trained while the original model weights are frozen.
+    The canonical architecture (Houlsby et al., 2019) inserts an adapter after each
+    attention sub-layer and feed-forward sub-layer; each adapter consists of a down-projection
+    to a small hidden size, a non-linearity, and an up-projection back to the original
+    dimension. Only the adapter weights are updated during task-specific fine-tuning,
+    preserving the pretrained representations and allowing a single backbone to serve
+    multiple tasks simultaneously by swapping adapter sets.
+- type: key-claim
+  title: Key claim about Adapter Layers
+  body: Adapter layers demonstrated the viability of the modular adaptation paradigm
+    — that a frozen pretrained model can be specialised for diverse tasks through
+    small trainable additions rather than full retraining, establishing the conceptual
+    foundation for the entire PEFT research direction that LoRA later refined with
+    lower parameter counts.
+- type: warning
+  title: Common pitfall regarding Adapter Layers
+  body: Adapters add inference latency because they introduce additional forward-pass
+    operations that cannot be trivially merged with the original weights (unlike LoRA),
+    making them less deployment-friendly than methods that support weight merging,
+    especially in latency-sensitive production environments.

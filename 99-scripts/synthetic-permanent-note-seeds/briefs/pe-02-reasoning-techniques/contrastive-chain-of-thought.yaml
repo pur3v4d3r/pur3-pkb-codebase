@@ -1,0 +1,44 @@
+concept: Contrastive Chain of Thought
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- contrastive-learning
+aliases:
+- contrastive CoT
+- positive-negative chain-of-thought
+broader:
+- reasoning-techniques
+- chain-of-thought-prompting
+related:
+- chain-of-thought-prompting
+- self-consistency-sampling
+- chain-of-verification
+- few-shot-prompting
+prerequisites:
+- chain-of-thought-prompting
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Contrastive Chain of Thought
+  body: Contrastive Chain of Thought is a few-shot prompting strategy that pairs each
+    demonstration with both a correct reasoning chain and an explicitly labelled incorrect
+    reasoning chain (annotated with the error type), so the model learns not only
+    the reasoning pattern that leads to the right answer but also the error patterns
+    that lead to wrong ones.
+- type: key-claim
+  title: Key claim about Contrastive Chain of Thought
+  body: Contrastive Chain of Thought improves reasoning accuracy beyond standard few-shot
+    CoT by using negative examples to define the decision boundary of correct reasoning;
+    the contrast between the correct chain and the annotated error chain makes the
+    distinguishing features of valid inference more salient, reducing the model's
+    tendency to replicate the specific error types included in the demonstration set.
+- type: warning
+  title: Common pitfall regarding Contrastive Chain of Thought
+  body: Contrastive Chain of Thought requires careful error selection and annotation;
+    including poorly chosen or mislabelled negative examples can mislead the model
+    by presenting ambiguous reasoning as definitively incorrect, and the annotation
+    overhead (identifying and labelling representative error types for each demo)
+    significantly increases the cost of prompt construction compared to standard few-shot
+    CoT.

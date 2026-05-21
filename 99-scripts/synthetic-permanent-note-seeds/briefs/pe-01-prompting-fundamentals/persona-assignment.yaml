@@ -1,0 +1,42 @@
+concept: Persona Assignment
+domain: prompt-engineering
+secondary_domains:
+- llm-deployment
+- conversational-ai
+aliases:
+- persona prompting
+- character assignment
+- bot persona
+broader:
+- role-prompting
+- system-prompt-design
+related:
+- role-prompting
+- system-prompt-design
+- output-format-specification
+prerequisites:
+- large-language-models
+- system-prompt-design
+confidence: high
+callouts:
+- type: definition
+  title: Persona Assignment
+  body: Persona Assignment is the sustained, multi-attribute specification of a model's
+    identity, communication style, values, and knowledge scope through the system
+    prompt or a persistent identity block, creating a consistent character that persists
+    across the full conversation rather than merely activating a domain prior as in
+    simple role prompting.
+- type: key-claim
+  title: Key claim about Persona Assignment
+  body: Persona Assignment goes beyond role prompting by locking in a coherent constellation
+    of stylistic, tonal, and behavioural attributes simultaneously; this consistency
+    is the foundation of character-based products (assistants, chatbots, NPCs) and
+    is what makes the model's behaviour predictable at deployment scale rather than
+    task-by-task.
+- type: warning
+  title: Common pitfall regarding Persona Assignment
+  body: Persona Assignment can create brittleness at persona boundaries; when users
+    ask questions that fall outside the persona's designated scope, the model faces
+    a conflict between persona-coherence and task-completion, sometimes producing
+    persona-inconsistent responses, sometimes producing refusals that frustrate users
+    expecting general capability.

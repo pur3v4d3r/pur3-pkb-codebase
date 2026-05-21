@@ -1,0 +1,49 @@
+concept: Document Understanding Prompts
+domain: multimodal-ai
+secondary_domains:
+- information-extraction
+- computer-vision
+- prompt-engineering
+aliases:
+- document AI prompts
+- visual document understanding
+- document parsing prompts
+broader:
+- vision-language-prompting
+related:
+- vision-language-prompting
+- chart-and-table-reasoning
+- image-captioning-prompts
+- json-mode-prompting
+- structured-prediction-prompting
+prerequisites:
+- vision-language-prompting
+- structured-prediction-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Document Understanding Prompts
+  body: Document Understanding Prompts are prompting strategies designed for VLM-based
+    processing of scanned or rendered documents — invoices, contracts, forms, academic
+    papers, presentations — where text, tables, figures, and layout all carry semantic
+    information. Effective document understanding prompts specify the extraction target
+    precisely (e.g., "extract all line items from the invoice table and return as
+    a JSON array"), instruct the model on how to handle uncertain or partially visible
+    text, and often combine visual prompting with structured output instructions to
+    produce machine-parseable extraction results. This is a key modality for enterprise
+    document automation.
+- type: key-claim
+  title: Key claim about Document Understanding Prompts
+  body: Document understanding with VLMs supersedes traditional OCR + rule-based extraction
+    pipelines on complex layouts because the model can jointly reason about text content,
+    visual layout, and document structure — but this power comes with the requirement
+    for more sophisticated prompting that explicitly frames the document type and
+    the extraction semantics, since generic description prompts produce descriptive
+    rather than structured outputs.
+- type: warning
+  title: Common pitfall regarding Document Understanding Prompts
+  body: Document understanding prompts are highly sensitive to document quality —
+    when input documents have poor scan quality, unusual layouts, or handwritten elements,
+    VLMs can produce confident but incorrect extractions without signalling uncertainty,
+    making human review and confidence-based routing essential for production document
+    processing pipelines.

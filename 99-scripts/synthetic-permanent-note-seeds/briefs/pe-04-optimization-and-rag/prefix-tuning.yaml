@@ -1,0 +1,43 @@
+concept: Prefix Tuning
+domain: prompt-engineering
+secondary_domains:
+- parameter-efficient-fine-tuning
+- nlp-research
+aliases:
+- prefix vectors
+- trainable prefix
+broader:
+- prompt-tuning
+- soft-prompting
+related:
+- soft-prompting
+- prompt-tuning
+- gradient-free-prompt-optimization
+prerequisites:
+- large-language-models
+- fine-tuning
+- transformer-attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Prefix Tuning
+  body: Prefix Tuning is a parameter-efficient fine-tuning method that learns a sequence
+    of continuous vectors prepended to the key and value matrices of every transformer
+    attention layer across the entire network depth, providing the model with a richer
+    adaptation signal that penetrates all layers simultaneously rather than only conditioning
+    the input embedding layer.
+- type: key-claim
+  title: Key claim about Prefix Tuning
+  body: Prefix Tuning's layer-wise injection of learnable prefix vectors provides
+    a more expressive adaptation mechanism than input-layer-only soft prompting because
+    each attention layer receives task-specific context directly, allowing the prefix
+    to shape intermediate representations rather than relying on the model's forward
+    pass to propagate task information from the input embedding through all subsequent
+    layers.
+- type: warning
+  title: Common pitfall regarding Prefix Tuning
+  body: Prefix Tuning increases KV-cache memory requirements at inference time proportional
+    to the prefix sequence length multiplied by the number of layers, since the prefix
+    key–value pairs must be stored and attended to in every layer for every generated
+    token — a cost that becomes significant for long prefixes or large models deployed
+    in memory-constrained production environments.

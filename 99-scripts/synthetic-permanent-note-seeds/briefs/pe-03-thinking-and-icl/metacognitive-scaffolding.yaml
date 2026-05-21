@@ -1,0 +1,42 @@
+concept: Metacognitive Scaffolding
+domain: prompt-engineering
+secondary_domains:
+- cognitive-science
+- instructional-design
+aliases:
+- metacognitive support structures
+- scaffolded self-monitoring
+broader:
+- metacognition
+- extended-thinking-architecture
+related:
+- metacognitive-prompting
+- thinking-tag-semantics
+- chain-of-thought-prompting
+- inner-monologue-technique
+prerequisites:
+- metacognition
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Scaffolding
+  body: Metacognitive Scaffolding in LLM prompting refers to the explicit structural
+    supports embedded in a prompt — such as self-monitoring checkpoints, uncertainty-flagging
+    instructions, confidence-rating steps, and "pause and reconsider" directives —
+    that guide the model to monitor its own reasoning process rather than generating
+    output on autopilot.
+- type: key-claim
+  title: Key claim about Metacognitive Scaffolding
+  body: Metacognitive Scaffolding improves output quality on tasks that require ongoing
+    self-correction by externalising the monitoring process into the prompt structure;
+    without explicit scaffolding, the model's default is to generate fluently forward
+    without re-evaluating prior claims, and the scaffolding provides the trigger conditions
+    that override this default.
+- type: warning
+  title: Common pitfall regarding Metacognitive Scaffolding
+  body: Metacognitive Scaffolding can produce performative metacognition; a model
+    trained with RLHF may learn to generate the expected self-monitoring phrases (e.g.,
+    "let me reconsider this step") without actually altering its generative trajectory,
+    producing scaffolding-shaped text that does not reflect genuine reasoning revision
+    and misleads the reader about the quality of the self-monitoring performed.

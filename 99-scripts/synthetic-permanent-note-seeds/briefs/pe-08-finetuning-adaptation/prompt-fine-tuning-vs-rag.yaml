@@ -1,0 +1,46 @@
+concept: Prompt Fine-Tuning vs RAG
+domain: llm-fine-tuning
+secondary_domains:
+- retrieval-augmented-generation
+- prompt-engineering
+aliases:
+- fine-tuning vs RAG
+- FT vs RAG tradeoff
+- parametric vs retrieval knowledge
+broader:
+- fine-tuning
+- retrieval-augmented-generation
+related:
+- retrieval-augmented-generation
+- instruction-fine-tuning
+- parameter-efficient-fine-tuning
+- domain-adaptation-llms
+- knowledge-conflict-resolution
+prerequisites:
+- fine-tuning
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Fine-Tuning vs RAG
+  body: 'The Fine-Tuning vs RAG tradeoff is the strategic decision between two approaches
+    to improving a language model''s behaviour in a specific domain or task: (1) fine-tuning,
+    which bakes knowledge or behaviour into the model''s weights through additional
+    training; and (2) Retrieval-Augmented Generation (RAG), which supplies relevant
+    information at inference time through retrieval from an external corpus. Fine-tuning
+    is better suited to instilling persistent behavioural patterns, style, or task
+    formats, while RAG is better suited to providing factual knowledge that changes
+    over time or that is too voluminous to be encoded in model weights.'
+- type: key-claim
+  title: Key claim about Prompt Fine-Tuning vs RAG
+  body: 'The choice between fine-tuning and RAG is not binary — the two approaches
+    are complementary rather than mutually exclusive, and the most effective production
+    systems often combine them: fine-tuning for behavioural alignment (format, tone,
+    task adherence) and RAG for factual grounding (up-to-date, source-attributable
+    information).'
+- type: warning
+  title: Common pitfall regarding Prompt Fine-Tuning vs RAG
+  body: A common error is using fine-tuning to inject factual knowledge into model
+    weights as a substitute for retrieval — this approach is expensive to update,
+    prone to hallucination when knowledge is incomplete, and lacks source attribution,
+    whereas RAG supports all three requirements natively.

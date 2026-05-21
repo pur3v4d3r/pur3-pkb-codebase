@@ -1,0 +1,45 @@
+concept: Calibration in LLMs
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- uncertainty-quantification
+aliases:
+- LLM calibration
+- confidence calibration
+- probability calibration
+broader:
+- evaluation-methods
+- uncertainty-quantification-llms
+related:
+- uncertainty-quantification-llms
+- hallucination-detection
+- benchmark-overfitting
+- calibration
+prerequisites:
+- large-language-models
+- probability-theory
+- evaluation-methods
+confidence: high
+callouts:
+- type: definition
+  title: Calibration in LLMs
+  body: Calibration in LLMs is the alignment between a model's expressed confidence
+    in its responses and the actual accuracy of those responses — a well-calibrated
+    model expresses 80% confidence only on claims it gets right 80% of the time, while
+    an overconfident model expresses high certainty on claims it gets wrong and an
+    underconfident model expresses low certainty on claims it reliably gets right.
+- type: key-claim
+  title: Key claim about Calibration in LLMs
+  body: 'Calibration in LLMs is a critical safety property for high-stakes applications:
+    a poorly calibrated model that is confidently wrong is more dangerous than an
+    accurately uncertain one, because overconfidence suppresses the user''s natural
+    scepticism and reduces the likelihood of verification, making calibration failure
+    a precursor to harm in domains such as medical advice, legal interpretation, and
+    financial guidance.'
+- type: warning
+  title: Common pitfall regarding Calibration in LLMs
+  body: Calibration in LLMs is frequently degraded by RLHF training; reinforcement
+    learning from human feedback tends to reward confident, assertive responses because
+    human raters often prefer confident answers over hedged ones, systematically training
+    models toward overconfidence — meaning calibration and perceived response quality
+    are in tension, and improving one often comes at the cost of degrading the other.

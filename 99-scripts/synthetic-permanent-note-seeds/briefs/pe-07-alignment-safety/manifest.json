@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-07-alignment-safety",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-07-alignment-safety.md",
+    "notes": "Fifteen core alignment and AI safety concepts covering the theoretical and\npractical dimensions of making AI systems behave as intended. Includes\ntraining methods (RLHF, DPO, constitutional AI), oversight frameworks\n(scalable oversight, debate, iterated amplification), threat models\n(deceptive alignment, sandbagging), and alignment-relevant mechanisms\n(corrigibility, preference elicitation, activation steering, representation\nengineering). Intended to complement the prompt-engineering cluster with\nthe safety-and-values layer."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-07-alignment-safety",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-07-alignment-safety"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Constitutional AI Principles",
+      "kebab": "constitutional-ai-principles",
+      "brief_path": "briefs/pe-07-alignment-safety/constitutional-ai-principles.yaml",
+      "expected_seed_filename": "constitutional-ai-principles-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reinforcement Learning from Human Feedback",
+      "kebab": "reinforcement-learning-from-human-feedback",
+      "brief_path": "briefs/pe-07-alignment-safety/reinforcement-learning-from-human-feedback.yaml",
+      "expected_seed_filename": "reinforcement-learning-from-human-feedback-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Direct Preference Optimization",
+      "kebab": "direct-preference-optimization",
+      "brief_path": "briefs/pe-07-alignment-safety/direct-preference-optimization.yaml",
+      "expected_seed_filename": "direct-preference-optimization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reward Model Design",
+      "kebab": "reward-model-design",
+      "brief_path": "briefs/pe-07-alignment-safety/reward-model-design.yaml",
+      "expected_seed_filename": "reward-model-design-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Scalable Oversight",
+      "kebab": "scalable-oversight",
+      "brief_path": "briefs/pe-07-alignment-safety/scalable-oversight.yaml",
+      "expected_seed_filename": "scalable-oversight-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Debate as Alignment Mechanism",
+      "kebab": "debate-as-alignment-mechanism",
+      "brief_path": "briefs/pe-07-alignment-safety/debate-as-alignment-mechanism.yaml",
+      "expected_seed_filename": "debate-as-alignment-mechanism-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Iterated Amplification",
+      "kebab": "iterated-amplification",
+      "brief_path": "briefs/pe-07-alignment-safety/iterated-amplification.yaml",
+      "expected_seed_filename": "iterated-amplification-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Superalignment",
+      "kebab": "superalignment",
+      "brief_path": "briefs/pe-07-alignment-safety/superalignment.yaml",
+      "expected_seed_filename": "superalignment-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Sandbagging in LLMs",
+      "kebab": "sandbagging-in-llms",
+      "brief_path": "briefs/pe-07-alignment-safety/sandbagging-in-llms.yaml",
+      "expected_seed_filename": "sandbagging-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Deceptive Alignment",
+      "kebab": "deceptive-alignment",
+      "brief_path": "briefs/pe-07-alignment-safety/deceptive-alignment.yaml",
+      "expected_seed_filename": "deceptive-alignment-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Value Alignment Problem",
+      "kebab": "value-alignment-problem",
+      "brief_path": "briefs/pe-07-alignment-safety/value-alignment-problem.yaml",
+      "expected_seed_filename": "value-alignment-problem-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Corrigibility",
+      "kebab": "corrigibility",
+      "brief_path": "briefs/pe-07-alignment-safety/corrigibility.yaml",
+      "expected_seed_filename": "corrigibility-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Preference Elicitation",
+      "kebab": "preference-elicitation",
+      "brief_path": "briefs/pe-07-alignment-safety/preference-elicitation.yaml",
+      "expected_seed_filename": "preference-elicitation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Activation Steering",
+      "kebab": "activation-steering",
+      "brief_path": "briefs/pe-07-alignment-safety/activation-steering.yaml",
+      "expected_seed_filename": "activation-steering-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Representation Engineering",
+      "kebab": "representation-engineering",
+      "brief_path": "briefs/pe-07-alignment-safety/representation-engineering.yaml",
+      "expected_seed_filename": "representation-engineering-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

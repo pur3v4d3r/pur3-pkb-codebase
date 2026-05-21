@@ -1,0 +1,53 @@
+concept: Human Preference Datasets
+domain: llm-evaluation
+secondary_domains:
+- reinforcement-learning-from-human-feedback
+- dataset-construction
+- alignment
+aliases:
+- preference data
+- RLHF data
+- comparison data
+- pairwise preference data
+broader:
+- llm-evaluation
+- dataset-construction
+- reinforcement-learning-from-human-feedback
+related:
+- outcome-reward-models
+- process-reward-models
+- reinforcement-learning-from-human-feedback
+- arena-elo-rating
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- reward-model-design
+- dataset-construction
+confidence: high
+callouts:
+- type: definition
+  title: Human Preference Datasets
+  body: Human Preference Datasets are annotated datasets where human raters have expressed
+    preferences between pairs or sets of language model outputs for the same prompt,
+    used primarily to train reward models in RLHF pipelines. A preference annotation
+    typically involves presenting two model completions to a human annotator who indicates
+    which is better, along with optional free-text explanations. The quality of the
+    reward model trained from preference data is heavily influenced by the quality
+    of the annotators (domain expertise, instruction calibration, inter-annotator
+    agreement), the diversity of the prompts, and the quality of the model outputs
+    being compared.
+- type: key-claim
+  title: Key claim about Human Preference Datasets
+  body: Human preference data is the bottleneck resource in RLHF-based alignment —
+    the quality of the reward model, and therefore the quality of the final RLHF-trained
+    model, is primarily determined by the quality and diversity of preference annotations;
+    dataset quality issues including annotator disagreement, annotation artifacts,
+    demographic biases, and domain gaps in the prompts propagate through the entire
+    training pipeline and are difficult to correct after the fact.
+- type: warning
+  title: Common pitfall regarding Human Preference Datasets
+  body: Human preference datasets encode the preferences and values of the specific
+    annotator population used to create them, which may not represent the diverse
+    global population of model users — when annotator demographics, cultural backgrounds,
+    and value systems are not representative, the aligned model will reflect those
+    specific values as universal preferences, potentially causing harm to users whose
+    preferences differ from the annotator population.

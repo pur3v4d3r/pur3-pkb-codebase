@@ -1,0 +1,48 @@
+concept: LM Evaluation Harness
+domain: llm-evaluation
+secondary_domains:
+- benchmark-design
+- open-source-llms
+- model-comparison
+aliases:
+- EleutherAI eval harness
+- lm-eval
+- lm_eval
+broader:
+- llm-evaluation
+- benchmark-design
+related:
+- big-bench-benchmark
+- helm-holistic-evaluation
+- mt-bench
+- arena-elo-rating
+- model-comparison
+prerequisites:
+- llm-evaluation
+- benchmark-design
+confidence: high
+callouts:
+- type: definition
+  title: LM Evaluation Harness
+  body: 'LM Evaluation Harness is an open-source framework developed by EleutherAI
+    for standardised, reproducible evaluation of language models across a large suite
+    of benchmark tasks. The harness provides: a unified interface for evaluating any
+    language model (API-based or locally hosted) across hundreds of tasks including
+    knowledge, reasoning, code, and language understanding benchmarks; standardised
+    prompting for each task; and consistent logging that enables rigorous comparison
+    across model families. It has become the de facto standard for open-source model
+    evaluation and underpins leaderboards such as the Open LLM Leaderboard.'
+- type: key-claim
+  title: Key claim about LM Evaluation Harness
+  body: Standardised evaluation through a shared harness is essential for valid model
+    comparison — without a common evaluation infrastructure, seemingly small differences
+    in prompt formatting, few-shot example selection, or answer normalisation can
+    produce large apparent differences in benchmark scores that do not reflect genuine
+    capability differences, making the harness as important as the benchmarks themselves.
+- type: warning
+  title: Common pitfall regarding LM Evaluation Harness
+  body: LM Evaluation Harness scores can be inflated by training-data contamination
+    — if benchmark test examples were present in a model's pretraining corpus, the
+    model has effectively memorised the answers, producing scores that reflect memorisation
+    rather than generalisation; contamination analysis is an important but often omitted
+    companion to harness evaluation scores.

@@ -1,0 +1,54 @@
+concept: Code Prompting Strategies
+domain: code-generation
+secondary_domains:
+- prompt-engineering
+- software-engineering
+- llm-capabilities
+aliases:
+- code generation prompting
+- coding prompts
+- software generation prompting
+broader:
+- prompt-engineering
+- code-generation
+narrower:
+- code-chain-of-thought
+- test-driven-prompting
+- docstring-guided-generation
+- pseudocode-intermediate-step
+related:
+- execution-feedback-prompting
+- self-debugging-llm
+- repair-prompting
+- chain-of-thought-prompting
+prerequisites:
+- prompt-engineering
+- code-generation
+confidence: high
+callouts:
+- type: definition
+  title: Code Prompting Strategies
+  body: 'Code Prompting Strategies encompass the set of prompting techniques specifically
+    adapted to eliciting high-quality code from language models. These include: specification
+    prompts that describe function behaviour precisely (docstring-first, test-first,
+    example-first); decomposition prompts that break a complex coding task into smaller
+    subtasks before implementation; role prompts that position the model as an expert
+    in a specific language or framework; format prompts that specify indentation,
+    style, and comment conventions; and constraint prompts that enumerate requirements
+    the generated code must satisfy (e.g., time complexity, no external dependencies,
+    Python 3.10+).'
+- type: key-claim
+  title: Key claim about Code Prompting Strategies
+  body: The single most impactful code prompting strategy is providing a precise,
+    unambiguous function specification — models generate substantially more correct
+    code when given explicit docstrings, type signatures, and example input-output
+    pairs compared to natural language task descriptions, because precise specifications
+    map directly onto the model's learned patterns of well-documented code rather
+    than requiring the model to infer specification from imprecise language.
+- type: warning
+  title: Common pitfall regarding Code Prompting Strategies
+  body: LLMs can generate syntactically correct, plausible-looking code that contains
+    subtle logical errors, security vulnerabilities, or incorrect edge-case handling
+    that is difficult to detect without execution testing — making code generation
+    prompts that do not include verification (execution feedback, test generation,
+    or explicit review instructions) unsafe to use without human code review.

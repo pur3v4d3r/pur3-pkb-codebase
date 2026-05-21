@@ -1,0 +1,49 @@
+concept: Interleaved Image-Text Prompting
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- multimodal-llms
+- in-context-learning
+aliases:
+- mixed-modality prompting
+- interleaved multimodal prompting
+- image-text interleaving
+broader:
+- vision-language-prompting
+- multimodal-few-shot
+related:
+- multimodal-few-shot
+- vision-language-prompting
+- visual-chain-of-thought
+- document-understanding-prompts
+prerequisites:
+- vision-language-prompting
+- multimodal-few-shot
+confidence: high
+callouts:
+- type: definition
+  title: Interleaved Image-Text Prompting
+  body: Interleaved Image-Text Prompting is a prompting paradigm for models that support
+    arbitrary interleaving of image and text tokens within a single prompt, allowing
+    images to appear at any position in the input sequence rather than only as a prefix
+    or suffix. This enables richer prompting structures such as image-then-question-then-image-then-analysis
+    patterns, multi-image comparison tasks, sequential visual reasoning chains where
+    intermediate text instructions reference specific images, and multi-turn dialogues
+    that mix image and text turns. Models like GPT-4V, Gemini, and LLaVA series support
+    varying degrees of interleaving capability.
+- type: key-claim
+  title: Key claim about Interleaved Image-Text Prompting
+  body: Interleaved image-text prompting enables a qualitatively new class of visual
+    reasoning tasks — those requiring comparative analysis across multiple images,
+    sequential visual observation, or cross-modal reference in multi-step reasoning
+    — that cannot be expressed in prefix-image prompting architectures, making it
+    the enabling capability for advanced visual agents and complex document analysis
+    workflows.
+- type: warning
+  title: Common pitfall regarding Interleaved Image-Text Prompting
+  body: The relative positioning of image and text elements in an interleaved prompt
+    can create unexpected attention patterns — models may attend more strongly to
+    whichever modality appears most recently before the generation target, meaning
+    that the order of image and text elements in a multi-turn interleaved prompt is
+    a significant prompt design variable with empirically measurable effects on output
+    quality.

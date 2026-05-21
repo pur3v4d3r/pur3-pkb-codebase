@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-02-reasoning-techniques",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-02-reasoning-techniques.md",
+    "notes": "Fourteen reasoning-technique concepts covering structured inference\nstrategies for large language models. Spans tree-based search, verification\nloops, program synthesis prompting, decomposition strategies, and analogical\nmethods. Intended as the second-tier layer above foundational chain-of-thought."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-02-reasoning-techniques",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-02-reasoning-techniques"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Tree of Thoughts",
+      "kebab": "tree-of-thoughts",
+      "brief_path": "briefs/pe-02-reasoning-techniques/tree-of-thoughts.yaml",
+      "expected_seed_filename": "tree-of-thoughts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Graph of Thoughts",
+      "kebab": "graph-of-thoughts",
+      "brief_path": "briefs/pe-02-reasoning-techniques/graph-of-thoughts.yaml",
+      "expected_seed_filename": "graph-of-thoughts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Consistency Sampling",
+      "kebab": "self-consistency-sampling",
+      "brief_path": "briefs/pe-02-reasoning-techniques/self-consistency-sampling.yaml",
+      "expected_seed_filename": "self-consistency-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chain of Verification",
+      "kebab": "chain-of-verification",
+      "brief_path": "briefs/pe-02-reasoning-techniques/chain-of-verification.yaml",
+      "expected_seed_filename": "chain-of-verification-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reflexion",
+      "kebab": "reflexion",
+      "brief_path": "briefs/pe-02-reasoning-techniques/reflexion.yaml",
+      "expected_seed_filename": "reflexion-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Program of Thoughts",
+      "kebab": "program-of-thoughts",
+      "brief_path": "briefs/pe-02-reasoning-techniques/program-of-thoughts.yaml",
+      "expected_seed_filename": "program-of-thoughts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Skeleton of Thought",
+      "kebab": "skeleton-of-thought",
+      "brief_path": "briefs/pe-02-reasoning-techniques/skeleton-of-thought.yaml",
+      "expected_seed_filename": "skeleton-of-thought-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Least-to-Most Prompting",
+      "kebab": "least-to-most-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/least-to-most-prompting.yaml",
+      "expected_seed_filename": "least-to-most-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Decomposed Prompting",
+      "kebab": "decomposed-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/decomposed-prompting.yaml",
+      "expected_seed_filename": "decomposed-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Analogical Prompting",
+      "kebab": "analogical-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/analogical-prompting.yaml",
+      "expected_seed_filename": "analogical-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Metacognitive Prompting",
+      "kebab": "metacognitive-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/metacognitive-prompting.yaml",
+      "expected_seed_filename": "metacognitive-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Ask Prompting",
+      "kebab": "self-ask-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/self-ask-prompting.yaml",
+      "expected_seed_filename": "self-ask-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Directional Stimulus Prompting",
+      "kebab": "directional-stimulus-prompting",
+      "brief_path": "briefs/pe-02-reasoning-techniques/directional-stimulus-prompting.yaml",
+      "expected_seed_filename": "directional-stimulus-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Contrastive Chain of Thought",
+      "kebab": "contrastive-chain-of-thought",
+      "brief_path": "briefs/pe-02-reasoning-techniques/contrastive-chain-of-thought.yaml",
+      "expected_seed_filename": "contrastive-chain-of-thought-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

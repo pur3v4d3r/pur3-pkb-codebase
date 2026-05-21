@@ -1,0 +1,51 @@
+concept: Sentence Transformers
+domain: embeddings-and-semantic-space
+secondary_domains:
+- natural-language-processing
+- text-embedding-models
+- semantic-search
+aliases:
+- SBERT
+- Sentence-BERT
+- sentence encoder
+- bi-encoder sentence embedding
+broader:
+- text-embedding-models
+related:
+- text-embedding-models
+- bi-encoder-vs-cross-encoder
+- contrastive-learning-embeddings
+- semantic-similarity-in-prompts
+- cosine-similarity-retrieval
+prerequisites:
+- transformer-attention-mechanism
+- text-embedding-models
+confidence: high
+callouts:
+- type: definition
+  title: Sentence Transformers
+  body: Sentence Transformers (SBERT) are transformer-based models fine-tuned to produce
+    semantically meaningful fixed-size embeddings for sentences and paragraphs, using
+    a siamese or triplet network architecture to train the model on sentence-pair
+    tasks (semantic textual similarity, natural language inference). The key innovation
+    of the original SBERT paper (Reimers and Gurevych, 2019) was demonstrating that
+    standard BERT, when used for semantic similarity by computing similarity between
+    [CLS] representations, was orders of magnitude slower for pairwise comparison
+    than necessary — and that fine-tuning with a siamese structure produced embeddings
+    that could be compared with cosine similarity at inference time, enabling scalable
+    semantic search.
+- type: key-claim
+  title: Key claim about Sentence Transformers
+  body: Sentence Transformers solved the practical scalability problem of semantic
+    search with BERT-class models — by producing embeddings that can be indexed once
+    and searched offline rather than requiring a full cross-encoder forward pass per
+    query-document pair, they reduced the cost of semantic retrieval from O(n) forward
+    passes per query to a single embedding plus a vector search, making it economically
+    viable at scale.
+- type: warning
+  title: Common pitfall regarding Sentence Transformers
+  body: Sentence Transformer models are highly sensitive to the domain and the nature
+    of the sentence-pair tasks used for fine-tuning — an SBERT model trained on NLI
+    and STS may produce poor embeddings for specialised domains (e.g., legal text,
+    biomedical literature, code) where the semantic relationships differ structurally
+    from the fine-tuning distribution.

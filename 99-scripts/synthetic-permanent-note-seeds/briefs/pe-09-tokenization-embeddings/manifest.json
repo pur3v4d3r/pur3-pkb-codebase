@@ -1,0 +1,126 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-09-tokenization-embeddings",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-09-tokenization-embeddings.md",
+    "notes": "Seventeen concepts spanning tokenization and embedding semantics. The\ntokenization section covers the mechanics of subword tokenisation\n(BPE, vocabulary tradeoffs, whitespace effects) and its second-order\neffects on model behaviour (artifacts, boundary effects, tokenizer\nsensitivity, cross-lingual gaps). The embedding section covers the\ngeometry of semantic space (text embedding models, cosine retrieval,\nembedding space geometry, late chunking) and the architectural patterns\nthat produce it (sentence transformers, bi-encoder vs cross-encoder,\nMatryoshka representations, contrastive learning). Together these\nbridge the gap between raw text and the numerical substrate on which\nprompting and RAG operate."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-09-tokenization-embeddings",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-09-tokenization-embeddings"
+  },
+  "counts": {
+    "parsed": 17,
+    "accepted": 17,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Byte-Pair Encoding",
+      "kebab": "byte-pair-encoding",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/byte-pair-encoding.yaml",
+      "expected_seed_filename": "byte-pair-encoding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Tokenization Artifacts",
+      "kebab": "tokenization-artifacts",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/tokenization-artifacts.yaml",
+      "expected_seed_filename": "tokenization-artifacts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Token Boundary Effects",
+      "kebab": "token-boundary-effects",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/token-boundary-effects.yaml",
+      "expected_seed_filename": "token-boundary-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Vocabulary Size Tradeoffs",
+      "kebab": "vocabulary-size-tradeoffs",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/vocabulary-size-tradeoffs.yaml",
+      "expected_seed_filename": "vocabulary-size-tradeoffs-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Subword Tokenization",
+      "kebab": "subword-tokenization",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/subword-tokenization.yaml",
+      "expected_seed_filename": "subword-tokenization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Tokenizer Sensitivity",
+      "kebab": "tokenizer-sensitivity",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/tokenizer-sensitivity.yaml",
+      "expected_seed_filename": "tokenizer-sensitivity-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Cross-Lingual Tokenization",
+      "kebab": "cross-lingual-tokenization",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/cross-lingual-tokenization.yaml",
+      "expected_seed_filename": "cross-lingual-tokenization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Whitespace Token Effects",
+      "kebab": "whitespace-token-effects",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/whitespace-token-effects.yaml",
+      "expected_seed_filename": "whitespace-token-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Text Embedding Models",
+      "kebab": "text-embedding-models",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/text-embedding-models.yaml",
+      "expected_seed_filename": "text-embedding-models-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Semantic Similarity in Prompts",
+      "kebab": "semantic-similarity-in-prompts",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/semantic-similarity-in-prompts.yaml",
+      "expected_seed_filename": "semantic-similarity-in-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Cosine Similarity Retrieval",
+      "kebab": "cosine-similarity-retrieval",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/cosine-similarity-retrieval.yaml",
+      "expected_seed_filename": "cosine-similarity-retrieval-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Embedding Space Geometry",
+      "kebab": "embedding-space-geometry",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/embedding-space-geometry.yaml",
+      "expected_seed_filename": "embedding-space-geometry-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Late Chunking",
+      "kebab": "late-chunking",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/late-chunking.yaml",
+      "expected_seed_filename": "late-chunking-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Sentence Transformers",
+      "kebab": "sentence-transformers",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/sentence-transformers.yaml",
+      "expected_seed_filename": "sentence-transformers-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Bi-Encoder vs Cross-Encoder",
+      "kebab": "bi-encoder-vs-cross-encoder",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/bi-encoder-vs-cross-encoder.yaml",
+      "expected_seed_filename": "bi-encoder-vs-cross-encoder-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Matryoshka Representation Learning",
+      "kebab": "matryoshka-representation-learning",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/matryoshka-representation-learning.yaml",
+      "expected_seed_filename": "matryoshka-representation-learning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Contrastive Learning Embeddings",
+      "kebab": "contrastive-learning-embeddings",
+      "brief_path": "briefs/pe-09-tokenization-embeddings/contrastive-learning-embeddings.yaml",
+      "expected_seed_filename": "contrastive-learning-embeddings-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

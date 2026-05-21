@@ -1,0 +1,37 @@
+concept: Instruction Following
+domain: prompt-engineering
+secondary_domains:
+- alignment
+- llm-training
+aliases:
+- instruction compliance
+- instruction adherence
+broader:
+- alignment
+related:
+- system-prompt-design
+- prompt-clarity-principles
+- instruction-hierarchy-conflict
+prerequisites:
+- large-language-models
+- reinforcement-learning-from-human-feedback
+confidence: high
+callouts:
+- type: definition
+  title: Instruction Following
+  body: Instruction Following is the capacity of a language model to execute explicit
+    directives contained in a prompt accurately, completely, and without silent reinterpretation
+    — including format constraints, scope limitations, persona maintenance, and multi-step
+    procedural requirements.
+- type: key-claim
+  title: Key claim about Instruction Following
+  body: Instruction Following is the core behavioural objective of instruction-tuning;
+    models that fail at it do not merely produce suboptimal outputs but actively violate
+    user intent in ways that are difficult to detect without systematic testing, because
+    surface fluency is orthogonal to directive compliance.
+- type: warning
+  title: Common pitfall regarding Instruction Following
+  body: Instruction Following degrades non-linearly with prompt complexity; adding
+    more constraints to a single prompt eventually causes the model to satisfy some
+    directives while silently dropping others, and empirical evidence shows that mid-prompt
+    constraints are disproportionately likely to be ignored.

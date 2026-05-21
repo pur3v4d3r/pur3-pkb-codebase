@@ -1,0 +1,50 @@
+concept: Knowledge Graph-Augmented LLMs
+domain: knowledge-grounding
+secondary_domains:
+- retrieval-augmented-generation
+- knowledge-representation
+- llm-architecture
+aliases:
+- KG-augmented LLMs
+- knowledge graph retrieval
+- graph-augmented generation
+broader:
+- retrieval-augmented-generation
+- knowledge-grounding
+related:
+- entity-linking-in-prompts
+- grounded-generation
+- knowledge-conflict-resolution
+- retrieval-augmented-generation
+- world-model-in-llms
+prerequisites:
+- retrieval-augmented-generation
+- knowledge-graphs
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Graph-Augmented LLMs
+  body: Knowledge Graph-Augmented LLMs are systems that combine language models with
+    structured knowledge graphs — such as Wikidata, DBpedia, or domain-specific knowledge
+    bases — to improve factual accuracy, enable multi-hop reasoning, and provide verifiable
+    provenance for model claims. The integration can occur at inference time (retrieving
+    relevant KG triples and injecting them into the prompt), through fine-tuning on
+    KG-derived data, or through specialised architecture components that learn to
+    read from the graph. KG augmentation is particularly valuable for structured relational
+    queries (e.g., "what is the capital of the country whose president graduated from
+    X?") that require chaining across multiple entity relationships.
+- type: key-claim
+  title: Key claim about Knowledge Graph-Augmented LLMs
+  body: Knowledge graph augmentation provides a fundamentally different quality of
+    factual grounding than unstructured text retrieval — because KG triples represent
+    discrete, verifiable facts with explicit entity and relationship semantics, KG-augmented
+    generation can trace factual claims to specific triple sources, enabling interpretable
+    citation and fact-checking that is not possible with passage-based RAG.
+- type: warning
+  title: Common pitfall regarding Knowledge Graph-Augmented LLMs
+  body: Knowledge graphs have high construction and maintenance costs and typically
+    have limited coverage compared to unstructured text — a KG-augmented system will
+    outperform pure RAG on the facts it covers but will have no response on the much
+    larger space of facts not yet encoded in the graph, making KG augmentation most
+    appropriate for closed-domain applications where a complete knowledge base can
+    be curated.

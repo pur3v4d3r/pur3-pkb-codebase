@@ -1,0 +1,48 @@
+concept: Late Chunking
+domain: embeddings-and-semantic-space
+secondary_domains:
+- retrieval-augmented-generation
+- text-embedding-models
+- information-retrieval
+aliases:
+- late interaction chunking
+- contextual chunking
+- jina late chunking
+broader:
+- chunking-strategies
+- text-embedding-models
+related:
+- text-embedding-models
+- cosine-similarity-retrieval
+- retrieval-augmented-generation
+- chunking-strategies
+- long-context-prompting-strategies
+prerequisites:
+- text-embedding-models
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Late Chunking
+  body: Late Chunking is a text embedding strategy in which long-form documents are
+    first encoded in full by a long-context embedding model, so that each token receives
+    a contextually-informed representation from the entire document, and then the
+    token-level embeddings are mean-pooled within the boundaries of the desired chunks
+    to produce chunk-level embeddings. This contrasts with early chunking, where the
+    document is split into chunks before encoding, so each chunk's embedding is computed
+    without access to context from other parts of the document. Late chunking retains
+    cross-chunk contextual information in the resulting chunk embeddings.
+- type: key-claim
+  title: Key claim about Late Chunking
+  body: Late chunking addresses the core limitation of early chunking — that context
+    boundaries cut off information that the embedding model would use to resolve coreference,
+    disambiguate terms, and represent discourse structure — by ensuring that each
+    chunk's embedding is informed by the full document before pooling, producing embeddings
+    that more faithfully represent what a chunk means in context.
+- type: warning
+  title: Common pitfall regarding Late Chunking
+  body: Late chunking requires a long-context embedding model capable of processing
+    the full document in a single forward pass, which limits its applicability to
+    documents within the model's context window and is computationally more expensive
+    than early chunking — it also does not help for retrieval across documents, where
+    the full inter-document context is not available during encoding.

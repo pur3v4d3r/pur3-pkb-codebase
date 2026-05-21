@@ -1,0 +1,49 @@
+concept: Transformer Attention Mechanism
+domain: prompt-engineering
+secondary_domains:
+- deep-learning
+- model-architecture
+aliases:
+- self-attention
+- multi-head attention
+- scaled dot-product attention
+broader:
+- model-architecture
+- deep-learning
+narrower:
+- attention-sink-phenomenon
+- kv-cache-mechanics
+- context-window-management
+related:
+- kv-cache-mechanics
+- attention-sink-phenomenon
+- context-window-management
+- position-encoding-effects
+prerequisites:
+- neural-networks
+- linear-algebra
+confidence: high
+callouts:
+- type: definition
+  title: Transformer Attention Mechanism
+  body: Transformer Attention Mechanism is the core computational primitive of transformer
+    models in which each token in a sequence attends to every other token by computing
+    query–key dot products to derive attention weights, then using those weights to
+    form a value-weighted sum — enabling the model to build context-sensitive representations
+    where each token's meaning is informed by the relevant parts of its surrounding
+    context.
+- type: key-claim
+  title: Key claim about Transformer Attention Mechanism
+  body: 'Transformer Attention Mechanism''s global context integration is the capability
+    that distinguishes transformers from recurrent architectures: every token can
+    directly attend to every other token in a single layer rather than relying on
+    information propagated through a sequential bottleneck, making it possible to
+    capture long-range dependencies without the vanishing gradient problems that limited
+    RNN-based models.'
+- type: warning
+  title: Common pitfall regarding Transformer Attention Mechanism
+  body: 'Transformer Attention Mechanism scales quadratically with sequence length
+    in both time and memory: doubling the context window quadruples the attention
+    computation, making the attention mechanism the primary bottleneck for context-window
+    scaling, and understanding this scaling relationship is essential for making informed
+    decisions about context length, batch size, and inference hardware requirements.'

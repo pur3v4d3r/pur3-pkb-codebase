@@ -1,0 +1,48 @@
+concept: Prompt Injection
+domain: prompt-engineering
+secondary_domains:
+- security
+- adversarial-prompting
+aliases:
+- prompt injection attack
+- instruction injection
+- indirect prompt injection
+broader:
+- failure-modes
+- adversarial-prompting
+related:
+- jailbreaking
+- instruction-hierarchy-conflict
+- tool-use-in-llms
+- sycophancy-in-llms
+prerequisites:
+- large-language-models
+- tool-use-in-llms
+- agentic-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Injection
+  body: Prompt Injection is an adversarial attack in which malicious instructions
+    are embedded in data processed by an LLM — such as web pages retrieved by an agent,
+    documents passed as context, or tool outputs returned to the model — with the
+    intent to override or augment the system prompt's instructions, redirect the model's
+    behaviour, or exfiltrate information from the model's context.
+- type: key-claim
+  title: Key claim about Prompt Injection
+  body: Prompt Injection is qualitatively more dangerous in agentic systems than in
+    single-turn chat applications because agentic LLMs act on their instructions through
+    tool calls with real-world consequences; an injected instruction that convinces
+    an agent to exfiltrate user data, make unauthorised API calls, or perform malicious
+    actions can cause harm that persists beyond the conversation session, making prompt
+    injection an existential security consideration for any system that grants the
+    LLM authority over external resources.
+- type: warning
+  title: Common pitfall regarding Prompt Injection
+  body: Prompt Injection has no complete technical solution with current LLM architectures
+    because the model cannot reliably distinguish between trusted instructions in
+    the system prompt and adversarial instructions embedded in untrusted data — both
+    are just tokens in the context window; defence strategies (input sanitisation,
+    instruction hierarchy separation, output monitoring) reduce risk but cannot provide
+    security guarantees, meaning prompt injection should be considered in the threat
+    model of any LLM system that processes untrusted external content.

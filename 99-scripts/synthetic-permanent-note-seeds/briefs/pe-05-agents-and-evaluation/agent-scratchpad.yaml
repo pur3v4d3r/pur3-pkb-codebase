@@ -1,0 +1,45 @@
+concept: Agent Scratchpad
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- working-memory
+aliases:
+- agent working memory
+- agent notepad
+- intermediate reasoning buffer
+broader:
+- agentic-frameworks
+- extended-thinking-architecture
+related:
+- react-reasoning-acting
+- inner-monologue-technique
+- extended-thinking-architecture
+- chain-of-action
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Agent Scratchpad
+  body: Agent Scratchpad is a designated section of the agent's context window used
+    to record intermediate reasoning steps, tool outputs, partial conclusions, and
+    working hypotheses during multi-step task execution — functioning as an explicit
+    working memory space that accumulates evidence and planning state across a sequence
+    of actions before the final answer is synthesised.
+- type: key-claim
+  title: Key claim about Agent Scratchpad
+  body: Agent Scratchpad externalises the agent's working memory into the context
+    window, making the reasoning process auditable and persistent across tool calls;
+    without a dedicated scratchpad, the agent must re-derive intermediate conclusions
+    at each step from the growing action-result trace, introducing redundant computation
+    and risking loss of key intermediate findings that have been pushed out of effective
+    attention range.
+- type: warning
+  title: Common pitfall regarding Agent Scratchpad
+  body: Agent Scratchpad has finite capacity bounded by the context window, and long-running
+    agentic tasks accumulate scratchpad content that eventually crowds out the original
+    task specification or early important findings; without explicit scratchpad management
+    strategies (compression, summarisation, or structured note-taking), the scratchpad
+    becomes a liability rather than an asset as task length grows.

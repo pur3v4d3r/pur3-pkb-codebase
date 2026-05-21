@@ -1,0 +1,144 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-04-optimization-and-rag",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-04-optimization-and-rag.md",
+    "notes": "Twenty concepts covering prompt optimisation methods and retrieval-augmented\ngeneration. Optimisation section spans automated prompt engineering, gradient-\nfree search, DSPy, soft/prefix tuning, compression, paraphrasing, and ensemble\nstrategies. RAG section covers dense retrieval, HyDE, self-RAG, corrective RAG,\niterative retrieval, KILT, and DSP frameworks."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-04-optimization-and-rag",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-04-optimization-and-rag"
+  },
+  "counts": {
+    "parsed": 20,
+    "accepted": 20,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Automatic Prompt Engineering",
+      "kebab": "automatic-prompt-engineering",
+      "brief_path": "briefs/pe-04-optimization-and-rag/automatic-prompt-engineering.yaml",
+      "expected_seed_filename": "automatic-prompt-engineering-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Gradient-Free Prompt Optimization",
+      "kebab": "gradient-free-prompt-optimization",
+      "brief_path": "briefs/pe-04-optimization-and-rag/gradient-free-prompt-optimization.yaml",
+      "expected_seed_filename": "gradient-free-prompt-optimization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "DSPy Framework",
+      "kebab": "dspy-framework",
+      "brief_path": "briefs/pe-04-optimization-and-rag/dspy-framework.yaml",
+      "expected_seed_filename": "dspy-framework-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Tuning",
+      "kebab": "prompt-tuning",
+      "brief_path": "briefs/pe-04-optimization-and-rag/prompt-tuning.yaml",
+      "expected_seed_filename": "prompt-tuning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Soft Prompting",
+      "kebab": "soft-prompting",
+      "brief_path": "briefs/pe-04-optimization-and-rag/soft-prompting.yaml",
+      "expected_seed_filename": "soft-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prefix Tuning",
+      "kebab": "prefix-tuning",
+      "brief_path": "briefs/pe-04-optimization-and-rag/prefix-tuning.yaml",
+      "expected_seed_filename": "prefix-tuning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Compression",
+      "kebab": "prompt-compression",
+      "brief_path": "briefs/pe-04-optimization-and-rag/prompt-compression.yaml",
+      "expected_seed_filename": "prompt-compression-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Paraphrasing",
+      "kebab": "prompt-paraphrasing",
+      "brief_path": "briefs/pe-04-optimization-and-rag/prompt-paraphrasing.yaml",
+      "expected_seed_filename": "prompt-paraphrasing-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Ensembling",
+      "kebab": "prompt-ensembling",
+      "brief_path": "briefs/pe-04-optimization-and-rag/prompt-ensembling.yaml",
+      "expected_seed_filename": "prompt-ensembling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Boosted Prompt Ensembles",
+      "kebab": "boosted-prompt-ensembles",
+      "brief_path": "briefs/pe-04-optimization-and-rag/boosted-prompt-ensembles.yaml",
+      "expected_seed_filename": "boosted-prompt-ensembles-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Evolutionary Prompt Optimization",
+      "kebab": "evolutionary-prompt-optimization",
+      "brief_path": "briefs/pe-04-optimization-and-rag/evolutionary-prompt-optimization.yaml",
+      "expected_seed_filename": "evolutionary-prompt-optimization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reflexion-Based Prompt Refinement",
+      "kebab": "reflexion-based-prompt-refinement",
+      "brief_path": "briefs/pe-04-optimization-and-rag/reflexion-based-prompt-refinement.yaml",
+      "expected_seed_filename": "reflexion-based-prompt-refinement-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Retrieval-Augmented Generation",
+      "kebab": "retrieval-augmented-generation",
+      "brief_path": "briefs/pe-04-optimization-and-rag/retrieval-augmented-generation.yaml",
+      "expected_seed_filename": "retrieval-augmented-generation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Dense Passage Retrieval",
+      "kebab": "dense-passage-retrieval",
+      "brief_path": "briefs/pe-04-optimization-and-rag/dense-passage-retrieval.yaml",
+      "expected_seed_filename": "dense-passage-retrieval-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "HyDE Hypothetical Document Embeddings",
+      "kebab": "hyde-hypothetical-document-embeddings",
+      "brief_path": "briefs/pe-04-optimization-and-rag/hyde-hypothetical-document-embeddings.yaml",
+      "expected_seed_filename": "hyde-hypothetical-document-embeddings-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-RAG",
+      "kebab": "self-rag",
+      "brief_path": "briefs/pe-04-optimization-and-rag/self-rag.yaml",
+      "expected_seed_filename": "self-rag-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Corrective RAG",
+      "kebab": "corrective-rag",
+      "brief_path": "briefs/pe-04-optimization-and-rag/corrective-rag.yaml",
+      "expected_seed_filename": "corrective-rag-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Iterative Retrieval",
+      "kebab": "iterative-retrieval",
+      "brief_path": "briefs/pe-04-optimization-and-rag/iterative-retrieval.yaml",
+      "expected_seed_filename": "iterative-retrieval-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Knowledge-Intensive NLP",
+      "kebab": "knowledge-intensive-nlp",
+      "brief_path": "briefs/pe-04-optimization-and-rag/knowledge-intensive-nlp.yaml",
+      "expected_seed_filename": "knowledge-intensive-nlp-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Demonstrate Search Predict",
+      "kebab": "demonstrate-search-predict",
+      "brief_path": "briefs/pe-04-optimization-and-rag/demonstrate-search-predict.yaml",
+      "expected_seed_filename": "demonstrate-search-predict-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

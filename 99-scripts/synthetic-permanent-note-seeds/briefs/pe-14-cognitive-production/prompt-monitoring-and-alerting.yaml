@@ -1,0 +1,49 @@
+concept: Prompt Monitoring and Alerting
+domain: production-deployment
+secondary_domains:
+- mlops
+- observability
+- prompt-engineering
+aliases:
+- prompt quality monitoring
+- LLM output monitoring
+- production prompt observability
+broader:
+- production-deployment
+- mlops
+related:
+- prompt-regression-testing
+- prompt-versioning
+- a-b-testing-prompts
+- prompt-registry-management
+prerequisites:
+- mlops
+- observability
+- production-deployment
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Monitoring and Alerting
+  body: 'Prompt Monitoring and Alerting refers to the production observability practices
+    applied to LLM-powered applications — collecting, analysing, and alerting on prompt
+    inputs, model outputs, latency, cost, and quality metrics in real time. Monitoring
+    covers: output quality degradation detection (using automated quality metrics
+    or sample-based human review), anomalous input detection (identifying queries
+    outside the training distribution or policy boundaries), latency and cost tracking,
+    safety and policy violation detection, and user satisfaction signals. Effective
+    alerting notifies on-call teams when quality or safety metrics cross defined thresholds.'
+- type: key-claim
+  title: Key claim about Prompt Monitoring and Alerting
+  body: Production LLM systems without monitoring are operationally blind — unlike
+    deterministic software where errors produce exceptions, LLM quality degradation
+    is gradual and silent (outputs continue to be generated but at lower quality),
+    making automated monitoring with defined quality thresholds the only reliable
+    mechanism for detecting production quality regressions.
+- type: warning
+  title: Common pitfall regarding Prompt Monitoring and Alerting
+  body: Monitoring metrics for LLM outputs are imperfect proxies for the quality dimensions
+    that matter — automated metrics (BLEU, ROUGE, perplexity, self-consistency scores)
+    capture some quality dimensions but miss others (creativity, safety, reasoning
+    correctness), and monitoring systems that rely entirely on automated metrics without
+    human-in-the-loop review will fail to catch quality failures that fall in the
+    gap between the metrics.

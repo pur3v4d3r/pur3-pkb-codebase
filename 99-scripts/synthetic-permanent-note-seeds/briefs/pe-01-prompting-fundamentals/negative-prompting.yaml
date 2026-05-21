@@ -1,0 +1,37 @@
+concept: Negative Prompting
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- output-control
+aliases:
+- exclusion prompting
+- do-not instructions
+broader:
+- prompting
+related:
+- positive-framing-in-prompts
+- prompt-clarity-principles
+- instruction-following
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Negative Prompting
+  body: Negative Prompting is the technique of specifying what the model should not
+    do, avoid, or include in its output — using explicit prohibitions, exclusion lists,
+    or counterfactual framing — in addition to or instead of positively specifying
+    the desired behaviour.
+- type: key-claim
+  title: Key claim about Negative Prompting
+  body: Negative Prompting is cognitively less reliable than positive framing because
+    language models, like humans, mentally simulate the prohibited item when processing
+    negations, making the model's internal representation closer to the unwanted output
+    than a positive reframe would achieve; this is why "do not use bullet points"
+    frequently produces fewer bullets than zero bullets.
+- type: warning
+  title: Common pitfall regarding Negative Prompting
+  body: Negative Prompting interacts poorly with instruction-following limitations
+    at scale; long lists of prohibitions compete for attention with the primary task
+    instruction, and empirical testing consistently shows that models begin dropping
+    constraints once the negation list exceeds three to five items in a single prompt.

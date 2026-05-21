@@ -1,0 +1,49 @@
+concept: Pseudocode Intermediate Step
+domain: code-generation
+secondary_domains:
+- prompt-engineering
+- software-engineering
+- chain-of-thought-prompting
+aliases:
+- pseudocode-first generation
+- pseudocode intermediate representation
+- algorithmic planning step
+broader:
+- code-prompting-strategies
+- code-chain-of-thought
+related:
+- code-chain-of-thought
+- docstring-guided-generation
+- code-prompting-strategies
+- chain-of-thought-prompting
+prerequisites:
+- code-prompting-strategies
+- code-chain-of-thought
+confidence: high
+callouts:
+- type: definition
+  title: Pseudocode Intermediate Step
+  body: Pseudocode Intermediate Step is a code generation technique in which the model
+    is prompted to first generate pseudocode — language-agnostic algorithmic description
+    — before generating the final implementation in the target language. The pseudocode
+    step externalises the algorithmic structure and control flow, making the logic
+    explicit and verifiable at an abstract level before the distracting details of
+    language syntax are introduced. The final implementation step is then conditioned
+    on the previously generated pseudocode, providing a high-level structural guide
+    that reduces the probability of logical errors in the final code.
+- type: key-claim
+  title: Key claim about Pseudocode Intermediate Step
+  body: Pseudocode intermediate steps improve code generation accuracy for algorithmic
+    tasks by separating the problem of algorithm design (what steps to take) from
+    the problem of language-specific implementation (how to express those steps in
+    a specific language) — models that attempt to solve both simultaneously are more
+    prone to errors in both dimensions, while the two-step approach allows each step
+    to be evaluated independently.
+- type: warning
+  title: Common pitfall regarding Pseudocode Intermediate Step
+  body: The pseudocode intermediate step is redundant for simple, well-defined coding
+    tasks where the algorithm is obvious — in these cases, the pseudocode step adds
+    token generation cost without quality improvement, and the additional latency
+    may outweigh the benefit; the technique should be reserved for algorithmically
+    non-trivial tasks where the design-before-implementation separation provides tangible
+    value.

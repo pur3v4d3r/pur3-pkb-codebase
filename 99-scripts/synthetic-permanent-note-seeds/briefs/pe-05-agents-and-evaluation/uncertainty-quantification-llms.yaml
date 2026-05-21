@@ -1,0 +1,48 @@
+concept: Uncertainty Quantification LLMs
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- reliability
+aliases:
+- LLM uncertainty quantification
+- epistemic uncertainty in LLMs
+- UQ for language models
+broader:
+- evaluation-methods
+- calibration-in-llms
+related:
+- calibration-in-llms
+- hallucination-detection
+- llm-as-judge
+- prompt-sensitivity-analysis
+prerequisites:
+- large-language-models
+- probability-theory
+- calibration-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: Uncertainty Quantification LLMs
+  body: Uncertainty Quantification for LLMs is the set of methods for estimating and
+    communicating the degree of uncertainty in a language model's predictions, distinguishing
+    between aleatoric uncertainty (inherent ambiguity in the task or query) and epistemic
+    uncertainty (the model's lack of knowledge about the correct answer), to enable
+    users and downstream systems to make risk-appropriate decisions based on model
+    outputs.
+- type: key-claim
+  title: Key claim about Uncertainty Quantification LLMs
+  body: Uncertainty Quantification for LLMs is technically challenging because language
+    model probabilities are not raw measures of epistemic uncertainty — they reflect
+    the training distribution's frequency of tokens, not the model's knowledge state
+    — and eliciting calibrated uncertainty from language models requires either specialised
+    training objectives, ensemble methods, or auxiliary uncertainty models rather
+    than naive confidence scores from the generation process.
+- type: warning
+  title: Common pitfall regarding Uncertainty Quantification LLMs
+  body: 'Uncertainty Quantification for LLMs based on token-level probabilities fails
+    for high-level semantic uncertainty: a model may assign high probability to each
+    token in a response while being deeply uncertain about the overall claim, and
+    conversely may express high semantic confidence (e.g., "I am certain that...")
+    while generating tokens at relatively low probability; bridging the gap between
+    token-level probability and sentence-level semantic confidence remains an open
+    research problem.'

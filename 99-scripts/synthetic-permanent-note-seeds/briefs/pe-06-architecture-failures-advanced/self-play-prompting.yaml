@@ -1,0 +1,46 @@
+concept: Self-Play Prompting
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- adversarial-training
+aliases:
+- self-play reasoning
+- debate-with-self
+- adversarial self-prompting
+broader:
+- advanced-patterns
+- multi-agent-debate
+related:
+- multi-agent-debate
+- critic-agents
+- reflexion
+- constitutional-ai-method
+prerequisites:
+- large-language-models
+- multi-agent-debate
+- adversarial-training
+confidence: high
+callouts:
+- type: definition
+  title: Self-Play Prompting
+  body: Self-Play Prompting is a reasoning and alignment technique in which a single
+    language model plays both sides of a structured adversarial interaction — generating
+    an argument or claim in one turn, then generating the strongest possible counter-argument
+    in the next, and iterating — to surface weaknesses in its own reasoning and produce
+    more robust, balanced, or thoroughly considered outputs.
+- type: key-claim
+  title: Key claim about Self-Play Prompting
+  body: Self-Play Prompting overcomes the echo-chamber limitation of single-perspective
+    generation by systematically instantiating an adversarial perspective; because
+    the model is capable of generating strong arguments for positions it initially
+    disagrees with, forcing it to steelman opposing views within a structured dialogue
+    produces outputs that have considered and addressed the most compelling objections
+    — a quality improvement that single-pass generation cannot achieve.
+- type: warning
+  title: Common pitfall regarding Self-Play Prompting
+  body: Self-Play Prompting's adversarial quality depends on whether the model can
+    generate genuinely strong counter-arguments rather than weak strawmen; a model
+    with strong priors toward particular positions may generate nominally adversarial
+    responses that are actually designed to fail — producing the appearance of balanced
+    consideration while ensuring the model's preferred conclusion wins the debate,
+    a failure mode that mimics rigour without delivering it.

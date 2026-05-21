@@ -1,0 +1,48 @@
+concept: Image Captioning Prompts
+domain: multimodal-ai
+secondary_domains:
+- computer-vision
+- natural-language-generation
+- prompt-engineering
+aliases:
+- image description prompts
+- visual description prompting
+- alt-text prompting
+broader:
+- vision-language-prompting
+related:
+- vision-language-prompting
+- visual-chain-of-thought
+- grounded-visual-reasoning
+- document-understanding-prompts
+prerequisites:
+- vision-language-prompting
+- vision-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Image Captioning Prompts
+  body: 'Image Captioning Prompts are the text instructions provided alongside an
+    image to a vision-language model to control the type, detail level, style, and
+    focus of the generated description. The quality of captioning output varies substantially
+    with prompting choices — a generic "describe this image" produces a different
+    style of description than "list the objects in this image with their positions",
+    "write an alt-text description for accessibility", or "describe the emotional
+    tone of this scene in three sentences". Effective captioning prompts specify:
+    the intended use of the caption, the target audience, the required detail level,
+    the aspects of the image to prioritise or ignore, and any formatting constraints.'
+- type: key-claim
+  title: Key claim about Image Captioning Prompts
+  body: The framing of an image captioning prompt fundamentally determines what the
+    model attends to — models produce more accurate and useful captions when the prompt
+    specifies the purpose and relevant dimensions rather than asking for a generic
+    description, because VLMs have learned different captioning registers from their
+    training data and selecting the right register via prompting is as important as
+    the image content itself.
+- type: warning
+  title: Common pitfall regarding Image Captioning Prompts
+  body: Image captioning models can produce confidently-stated descriptions of image
+    regions they cannot actually resolve — small, blurry, occluded, or ambiguous elements
+    in an image may be described as if they are clearly visible, and the model's language
+    fluency can mask its visual uncertainty, making hallucinations in image descriptions
+    harder to detect than hallucinations in text-only tasks.

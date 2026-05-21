@@ -1,0 +1,48 @@
+concept: Task-Specific Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- nlp
+- transfer-learning
+aliases:
+- task-adaptive fine-tuning
+- supervised task fine-tuning
+- downstream fine-tuning
+broader:
+- fine-tuning
+- instruction-fine-tuning
+related:
+- instruction-fine-tuning
+- domain-adaptation-llms
+- catastrophic-forgetting-in-llms
+- parameter-efficient-fine-tuning
+prerequisites:
+- fine-tuning
+- large-language-models
+- transfer-learning
+confidence: high
+callouts:
+- type: definition
+  title: Task-Specific Fine-Tuning
+  body: Task-Specific Fine-Tuning refers to the process of further training a pretrained
+    language model on labelled data from a specific target task — such as sentiment
+    classification, question answering, natural language inference, or summarisation
+    — to improve its performance on that task. Unlike instruction fine-tuning, which
+    trains across diverse task formats to improve general instruction-following, task-specific
+    fine-tuning is narrowly targeted at optimising for a single task's metric. It
+    typically requires a labelled dataset for the target task and is evaluated by
+    the task's primary benchmark metric.
+- type: key-claim
+  title: Key claim about Task-Specific Fine-Tuning
+  body: Task-specific fine-tuning remains the most reliable approach for achieving
+    state-of-the-art performance on well-defined tasks with sufficient labelled data,
+    because it directly optimises the model for the evaluation distribution — but
+    its narrowness is also its limitation, as it trades breadth of capability for
+    depth in a single domain.
+- type: warning
+  title: Common pitfall regarding Task-Specific Fine-Tuning
+  body: Task-specific fine-tuning on small datasets frequently overfits to annotation
+    artefacts rather than the underlying task structure, producing models that score
+    well on the specific benchmark but fail on slight paraphrases or held-out distributions
+    — a consistent problem in the GLUE/SuperGLUE era that drove the move toward instruction-tuned
+    generalist models.

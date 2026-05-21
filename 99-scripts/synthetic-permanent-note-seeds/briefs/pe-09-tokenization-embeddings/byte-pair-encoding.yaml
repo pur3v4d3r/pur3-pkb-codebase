@@ -1,0 +1,47 @@
+concept: Byte-Pair Encoding
+domain: nlp-tokenization
+secondary_domains:
+- natural-language-processing
+- llm-tokenization
+- data-compression
+aliases:
+- BPE
+- BPE tokenization
+- subword BPE
+broader:
+- subword-tokenization
+related:
+- subword-tokenization
+- tokenization-artifacts
+- token-boundary-effects
+- vocabulary-size-tradeoffs
+- tokenizer-sensitivity
+prerequisites:
+- natural-language-processing
+- language-modelling
+confidence: high
+callouts:
+- type: definition
+  title: Byte-Pair Encoding
+  body: Byte-Pair Encoding (BPE) is a subword tokenisation algorithm originally developed
+    for data compression that was adapted for use in neural machine translation and
+    has since become the dominant tokenisation strategy for large language models.
+    BPE starts with a vocabulary of individual characters (or bytes) and iteratively
+    merges the most frequent pair of adjacent tokens in the training corpus, continuing
+    until the vocabulary reaches a target size. The result is a vocabulary of frequent
+    words, common morphemes, and rare character sequences, allowing the model to represent
+    both common words as single tokens and novel or rare words as decomposed subword
+    sequences.
+- type: key-claim
+  title: Key claim about Byte-Pair Encoding
+  body: BPE achieves the optimal practical tradeoff between vocabulary size and the
+    ability to represent arbitrary text by encoding frequent patterns efficiently
+    as single tokens while retaining the ability to decompose unknown words into interpretable
+    subword units — this property is what allows a fixed vocabulary to handle open-ended
+    natural language without explicit out-of-vocabulary handling.
+- type: warning
+  title: Common pitfall regarding Byte-Pair Encoding
+  body: BPE tokenisation is language and domain sensitive — a vocabulary trained on
+    English text will over-segment text from morphologically rich languages, code,
+    or technical domains, increasing token counts and degrading model performance
+    on those domains even for a model with sufficient parameters to handle the content.

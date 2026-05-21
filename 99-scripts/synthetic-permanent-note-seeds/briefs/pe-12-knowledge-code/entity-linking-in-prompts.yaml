@@ -1,0 +1,50 @@
+concept: Entity Linking in Prompts
+domain: knowledge-grounding
+secondary_domains:
+- natural-language-processing
+- information-extraction
+- retrieval-augmented-generation
+aliases:
+- entity disambiguation
+- mention linking
+- entity resolution in prompts
+broader:
+- knowledge-grounding
+- information-extraction
+related:
+- knowledge-graph-augmented-llms
+- fact-verification-prompting
+- grounded-generation
+- retrieval-augmented-generation
+prerequisites:
+- named-entity-recognition
+- knowledge-graphs
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Entity Linking in Prompts
+  body: Entity Linking in Prompts refers to the process of identifying named entities
+    in a user query or document and linking them to their canonical representations
+    in a knowledge base (such as a Wikidata QID or a domain-specific entity identifier)
+    before or during LLM processing. By disambiguating "Apple" (the company vs. the
+    fruit), "Paris" (the city vs. the person), or "Python" (the language vs. the animal)
+    to specific knowledge base entries, entity linking enables the prompt or retrieval
+    system to fetch the correct structured knowledge about the intended entity, reducing
+    hallucination and improving factual grounding for entity-centric queries.
+- type: key-claim
+  title: Key claim about Entity Linking in Prompts
+  body: Entity linking is a prerequisite for reliable knowledge-grounded generation
+    in domains with high entity ambiguity — without entity linking, an LLM or retrieval
+    system may process a query about one entity using knowledge about a different
+    entity with the same surface form, producing confidently stated but completely
+    incorrect information that is difficult to detect without verifying against the
+    knowledge base.
+- type: warning
+  title: Common pitfall regarding Entity Linking in Prompts
+  body: Entity linking is imperfect — ambiguous entity mentions in short or context-poor
+    prompts may be mislinked to the wrong knowledge base entry, and the error rate
+    can be particularly high for rare entities, emerging entities not yet in the knowledge
+    base, or entities whose names overlap with common words, making entity linking
+    a potential failure point that must be monitored in production knowledge-grounded
+    systems.

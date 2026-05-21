@@ -1,0 +1,50 @@
+concept: Cost Per Token Optimisation
+domain: production-deployment
+secondary_domains:
+- mlops
+- infrastructure
+- prompt-engineering
+aliases:
+- token cost optimization
+- LLM cost management
+- inference cost reduction
+broader:
+- production-deployment
+- mlops
+related:
+- latency-quality-tradeoff
+- prompt-caching-strategies
+- multi-model-routing
+- fallback-prompt-strategies
+prerequisites:
+- llm-inference
+- production-deployment
+- token-economics
+confidence: high
+callouts:
+- type: definition
+  title: Cost Per Token Optimisation
+  body: 'Cost Per Token Optimisation encompasses the engineering practices for reducing
+    the monetary cost of LLM inference at scale, measured in dollars per million input
+    or output tokens. Optimisation strategies include: prompt compression (reducing
+    input token count through summarisation or extraction), output length control
+    (instructing models to be concise), model routing (using smaller, cheaper models
+    for simpler queries), prompt caching (reusing KV states for repeated prefixes),
+    batching (grouping requests to improve GPU utilisation), and quantisation (using
+    lower-precision model weights to reduce memory and compute). Each strategy involves
+    trade-offs with output quality and system complexity.'
+- type: key-claim
+  title: Key claim about Cost Per Token Optimisation
+  body: Cost per token optimisation is often the determining factor for production
+    LLM application viability — applications that are technically functional at development
+    scale frequently become economically unviable at production scale without systematic
+    cost optimisation, making cost analysis a first-class engineering concern from
+    early development rather than a post-launch optimisation.
+- type: warning
+  title: Common pitfall regarding Cost Per Token Optimisation
+  body: Cost optimisation that reduces output quality may have hidden costs that exceed
+    the direct inference savings — if cost-optimised outputs require more human review,
+    produce higher user churn, or generate downstream errors that require correction,
+    the total cost of ownership may be higher than for the more expensive higher-quality
+    approach, requiring total cost of ownership analysis rather than inference cost
+    analysis alone.

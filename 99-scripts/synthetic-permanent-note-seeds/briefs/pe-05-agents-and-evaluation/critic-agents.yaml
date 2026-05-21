@@ -1,0 +1,47 @@
+concept: Critic Agents
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- quality-assurance
+aliases:
+- evaluator agent
+- judge agent
+- review agent
+broader:
+- agentic-frameworks
+- llm-as-judge
+related:
+- llm-as-judge
+- self-refine
+- multi-agent-debate
+- chain-of-verification
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- llm-as-judge
+confidence: high
+callouts:
+- type: definition
+  title: Critic Agents
+  body: Critic Agents are specialised agent components whose role is to evaluate the
+    outputs of other agents or the generating agent itself, identifying errors, inconsistencies,
+    policy violations, or quality deficiencies and providing structured feedback that
+    the generating agent uses to revise its outputs — implementing a separation of
+    generation and evaluation concerns within a multi-agent pipeline.
+- type: key-claim
+  title: Key claim about Critic Agents
+  body: 'Critic Agents improve output quality by externalising the evaluation function:
+    a model that generates and evaluates its own output in the same forward pass cannot
+    maintain full independence between the generation and evaluation perspectives,
+    but a dedicated critic agent — which may use a different model, different prompting
+    strategy, or different context — applies genuinely independent evaluation criteria,
+    reducing the self-serving bias that afflicts single-agent self-critique.'
+- type: warning
+  title: Common pitfall regarding Critic Agents
+  body: Critic Agents can introduce critic-induced degradation when the critic's evaluation
+    criteria are misaligned with the actual quality objective; a critic that penalises
+    verbosity may cause the generator to produce responses that satisfy the critic
+    while omitting information the user needs, and a critic that rewards confident-sounding
+    claims may incentivise the generator to sound more certain than the evidence warrants
+    — making critic alignment a critical design consideration alongside generator
+    alignment.

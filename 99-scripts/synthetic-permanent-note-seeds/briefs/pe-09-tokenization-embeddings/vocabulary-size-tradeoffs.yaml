@@ -1,0 +1,47 @@
+concept: Vocabulary Size Tradeoffs
+domain: nlp-tokenization
+secondary_domains:
+- natural-language-processing
+- llm-architecture
+- resource-efficient-ai
+aliases:
+- tokenizer vocabulary size
+- vocab tradeoffs
+- vocabulary selection
+broader:
+- subword-tokenization
+- llm-architecture
+related:
+- byte-pair-encoding
+- subword-tokenization
+- cross-lingual-tokenization
+- tokenization-artifacts
+prerequisites:
+- byte-pair-encoding
+- language-modelling
+confidence: high
+callouts:
+- type: definition
+  title: Vocabulary Size Tradeoffs
+  body: Vocabulary Size Tradeoffs refers to the design tension in choosing the number
+    of distinct tokens in a language model's vocabulary. A larger vocabulary means
+    more frequent words and phrases are encoded as single tokens (shorter sequences,
+    less compute per token, better handling of rare morphemes), but it also increases
+    the size of the embedding matrix and the output projection layer, adds parameters
+    that are hard to train for rare tokens, and may harm low-frequency token representations.
+    A smaller vocabulary produces shorter models but longer token sequences with more
+    cross-attention cost and greater sensitivity to token boundary effects.
+- type: key-claim
+  title: Key claim about Vocabulary Size Tradeoffs
+  body: Vocabulary size is a fundamental architectural decision that propagates through
+    training efficiency, inference cost, cross-lingual coverage, and model size —
+    most large models converge on vocabularies of 32,000–128,000 tokens as an empirical
+    sweet spot, but optimal vocabulary size depends critically on the target languages
+    and domains, with larger multilingual models requiring larger vocabularies.
+- type: warning
+  title: Common pitfall regarding Vocabulary Size Tradeoffs
+  body: Vocabulary size alone does not determine tokenisation quality — a large vocabulary
+    trained on a biased corpus will encode that bias, over-representing some languages
+    and underrepresenting others, and the training procedure (BPE vs. Unigram vs.
+    WordPiece) interacts with vocabulary size in non-obvious ways that make cross-method
+    comparison difficult.

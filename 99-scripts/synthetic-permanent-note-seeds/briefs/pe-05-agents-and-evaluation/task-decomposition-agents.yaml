@@ -1,0 +1,47 @@
+concept: Task Decomposition Agents
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- problem-solving
+aliases:
+- task decomposition
+- sub-goal generation
+- hierarchical task planning
+broader:
+- agentic-frameworks
+- plan-and-execute-agents
+related:
+- plan-and-execute-agents
+- hierarchical-agent-orchestration
+- decomposed-prompting
+- least-to-most-prompting
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- decomposed-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Task Decomposition Agents
+  body: Task Decomposition Agents are agent systems designed to recursively break
+    complex tasks into smaller, more tractable sub-tasks, either statically before
+    execution begins or dynamically during execution as the agent discovers that a
+    current sub-task requires further subdivision — enabling the agent to handle task
+    complexity that exceeds what a single generation step can address reliably.
+- type: key-claim
+  title: Key claim about Task Decomposition Agents
+  body: 'Task Decomposition Agents operationalise the divide-and-conquer principle
+    for LLM reasoning: by reducing each generation step to a manageable cognitive
+    unit, decomposition reduces the per-step reasoning complexity and the associated
+    error rate, and the correctness of the overall solution can be maintained by verifying
+    each sub-task independently before integration — a quality assurance structure
+    unavailable in non-decomposed approaches.'
+- type: warning
+  title: Common pitfall regarding Task Decomposition Agents
+  body: Task Decomposition Agents introduce decomposition overhead and risk; the decomposition
+    step itself is a reasoning operation that can fail, producing a set of sub-tasks
+    that together do not cover the original task, that contain duplications, or that
+    impose an ordering that makes later sub-tasks impossible to execute with the outputs
+    of earlier ones — and these structural decomposition errors are harder to detect
+    than sub-task execution errors because they are not visible in any single sub-task's
+    output.

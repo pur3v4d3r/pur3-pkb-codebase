@@ -1,0 +1,46 @@
+concept: Reflexion-Based Prompt Refinement
+domain: prompt-engineering
+secondary_domains:
+- self-improvement
+- iterative-refinement
+aliases:
+- reflexion prompt loop
+- iterative prompt refinement via reflection
+broader:
+- automatic-prompt-engineering
+- reflexion
+related:
+- reflexion
+- self-refine
+- automatic-prompt-engineering
+- dspy-framework
+- chain-of-verification
+prerequisites:
+- automatic-prompt-engineering
+- reflexion
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Reflexion-Based Prompt Refinement
+  body: Reflexion-Based Prompt Refinement is an iterative prompt optimisation technique
+    in which the model is prompted to reflect on the failures of a previous prompt
+    version — identifying what went wrong and why — and to generate an improved prompt
+    that addresses the identified failure modes, using linguistic reasoning about
+    the prompt's shortcomings rather than gradient-based optimisation to drive improvement.
+- type: key-claim
+  title: Key claim about Reflexion-Based Prompt Refinement
+  body: Reflexion-Based Prompt Refinement leverages the model's meta-linguistic reasoning
+    ability to perform targeted, interpretable prompt improvements without requiring
+    numerical optimisation infrastructure; because the improvement process is expressed
+    in natural language, each refinement step is auditable, and the reasoning behind
+    each change can be inspected, making this approach uniquely aligned with the transparency
+    and controllability requirements of production prompt engineering workflows.
+- type: warning
+  title: Common pitfall regarding Reflexion-Based Prompt Refinement
+  body: Reflexion-Based Prompt Refinement can enter an improvement loop where the
+    model generates plausible-sounding critiques and revisions that do not actually
+    address the root cause of the failures; the model may overfit its reflections
+    to the specific failure examples provided, producing a revised prompt that resolves
+    the presented examples while introducing new failure modes on other input types
+    not represented in the reflection context.

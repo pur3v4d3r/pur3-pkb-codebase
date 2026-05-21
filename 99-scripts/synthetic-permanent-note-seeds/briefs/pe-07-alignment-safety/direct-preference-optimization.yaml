@@ -1,0 +1,45 @@
+concept: Direct Preference Optimization
+domain: ai-alignment
+secondary_domains:
+- llm-training
+- ai-alignment
+- machine-learning
+aliases:
+- DPO
+- direct alignment
+- preference-based fine-tuning
+broader:
+- ai-alignment
+- reinforcement-learning-from-human-feedback
+related:
+- reinforcement-learning-from-human-feedback
+- reward-model-design
+- identity-preference-optimization
+- kahneman-tversky-optimization
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- supervised-fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Direct Preference Optimization
+  body: Direct Preference Optimization (DPO) is a fine-tuning method that aligns language
+    models to human preferences without explicitly training a separate reward model
+    or running online RL. DPO reformulates the RLHF objective so that the optimal
+    policy can be expressed as a closed-form function of preference data, enabling
+    a supervised cross-entropy loss directly on paired preferred and dispreferred
+    completions. The loss increases the log-probability of preferred responses relative
+    to dispreferred ones, implicitly implementing the reward maximisation that RLHF
+    achieves through explicit policy-gradient updates.
+- type: key-claim
+  title: Key claim about Direct Preference Optimization
+  body: DPO achieves comparable or superior alignment quality to RLHF on many tasks
+    while being substantially simpler to implement — eliminating the reward model
+    training, the sampling loop, and the PPO hyperparameter sensitivity that makes
+    RLHF engineering-intensive.
+- type: warning
+  title: Common pitfall regarding Direct Preference Optimization
+  body: DPO is sensitive to the quality and coverage of the preference dataset; if
+    the paired comparisons are noisy, systematically biased, or cover a narrow distribution,
+    the resulting model can exhibit similar failure modes to RLHF models trained on
+    poor reward signals, despite the apparent simplicity of the method.

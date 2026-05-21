@@ -1,0 +1,49 @@
+concept: Tokenizer Sensitivity
+domain: nlp-tokenization
+secondary_domains:
+- prompt-engineering
+- llm-reliability
+- robustness
+aliases:
+- tokenization sensitivity
+- prompt tokenization sensitivity
+- tokenizer brittleness
+broader:
+- tokenization-artifacts
+- robustness-in-llms
+related:
+- tokenization-artifacts
+- token-boundary-effects
+- whitespace-token-effects
+- prompt-sensitivity-analysis
+prerequisites:
+- byte-pair-encoding
+- subword-tokenization
+- prompt-sensitivity-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Tokenizer Sensitivity
+  body: Tokenizer Sensitivity refers to the phenomenon where semantically equivalent
+    or near-equivalent prompt formulations that tokenize differently produce significantly
+    different model outputs. Because a language model's input is a sequence of token
+    IDs rather than raw text, two prompts that differ only in surface form (e.g.,
+    capitalisation, whitespace, punctuation, equivalent phrasings) can produce token
+    sequences that look structurally different to the model, activating different
+    patterns and producing divergent responses. This is a form of distributional sensitivity
+    that is distinct from the model's semantic uncertainty.
+- type: key-claim
+  title: Key claim about Tokenizer Sensitivity
+  body: Tokenizer sensitivity is a fundamental reliability concern for production
+    LLM deployments because it means that the model's behaviour cannot be fully characterised
+    by the semantic content of prompts alone — surface-level variation that would
+    be irrelevant to a human reader can trigger qualitatively different outputs, making
+    the system harder to test, validate, and trust.
+- type: warning
+  title: Common pitfall regarding Tokenizer Sensitivity
+  body: Tokenizer sensitivity is not uniformly reduced by scaling — larger models
+    exhibit different patterns of tokenizer sensitivity rather than necessarily lower
+    overall sensitivity, and for certain types of sensitivity (e.g., capitalisation
+    effects in code models), larger models can be more sensitive because they have
+    learned more precise associations between specific token patterns and their semantic
+    contexts.

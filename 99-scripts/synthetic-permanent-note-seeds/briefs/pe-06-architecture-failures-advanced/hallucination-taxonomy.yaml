@@ -1,0 +1,50 @@
+concept: Hallucination Taxonomy
+domain: prompt-engineering
+secondary_domains:
+- factuality
+- model-behaviour
+aliases:
+- LLM hallucination types
+- hallucination classification
+- confabulation taxonomy
+broader:
+- failure-modes
+- hallucination-detection
+narrower:
+- intrinsic-hallucination
+- extrinsic-hallucination
+- factual-hallucination
+related:
+- hallucination-detection
+- factual-consistency-evaluation
+- calibration-in-llms
+prerequisites:
+- large-language-models
+- evaluation-methods
+confidence: high
+callouts:
+- type: definition
+  title: Hallucination Taxonomy
+  body: Hallucination Taxonomy is a structured classification of the types of fabrications
+    and factual errors that language models produce, distinguishing at minimum between
+    intrinsic hallucinations (outputs that contradict the provided source material),
+    extrinsic hallucinations (outputs that introduce claims not derivable from or
+    verifiable against the source), and factual hallucinations (outputs that contradict
+    verifiable world knowledge), with further subdivisions by error type, severity,
+    and detectability.
+- type: key-claim
+  title: Key claim about Hallucination Taxonomy
+  body: 'Hallucination Taxonomy provides the conceptual infrastructure necessary for
+    rigorous hallucination research and mitigation: without a shared taxonomy, methods
+    targeting different hallucination types are compared on incompatible metrics,
+    and apparent progress in one category may mask regressions in another — making
+    taxonomic clarity a prerequisite for scientifically valid hallucination evaluation
+    and cumulative progress in hallucination reduction.'
+- type: warning
+  title: Common pitfall regarding Hallucination Taxonomy
+  body: Hallucination Taxonomy boundaries are contested and task-dependent; what constitutes
+    an intrinsic versus extrinsic hallucination depends on what is defined as the
+    source, and source boundaries are often ambiguous in RAG systems where the retrieval
+    corpus is the implicit source, making taxonomy application in practice require
+    judgement calls that reduce measurement consistency across studies and complicate
+    cross-paper comparisons.

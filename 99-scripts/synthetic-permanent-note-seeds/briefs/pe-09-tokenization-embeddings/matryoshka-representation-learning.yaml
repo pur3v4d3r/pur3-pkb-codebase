@@ -1,0 +1,50 @@
+concept: Matryoshka Representation Learning
+domain: embeddings-and-semantic-space
+secondary_domains:
+- representation-learning
+- text-embedding-models
+- information-retrieval
+aliases:
+- MRL
+- Matryoshka embeddings
+- nested representations
+- variable-size embeddings
+broader:
+- text-embedding-models
+- representation-learning
+related:
+- text-embedding-models
+- embedding-space-geometry
+- cosine-similarity-retrieval
+- late-chunking
+prerequisites:
+- text-embedding-models
+- representation-learning
+confidence: high
+callouts:
+- type: definition
+  title: Matryoshka Representation Learning
+  body: Matryoshka Representation Learning (MRL) is a training paradigm for producing
+    embedding models that encode information in a nested, hierarchical manner across
+    dimensions, such that truncating the embedding vector to a smaller dimension still
+    yields a useful and coherent representation. Named after Russian nesting dolls
+    (Matryoshka), MRL trains the model with a loss that simultaneously optimises multiple
+    dimensionality checkpoints — e.g., the first 64, 128, 256, 512, 1024, and 2048
+    dimensions all independently encode task-relevant information — so that the first
+    d dimensions always form a complete embedding at that resolution.
+- type: key-claim
+  title: Key claim about Matryoshka Representation Learning
+  body: Matryoshka embeddings provide a practical solution to the storage and compute
+    cost tradeoffs in large-scale retrieval — by training a single model that supports
+    multiple embedding sizes, MRL allows operators to choose the dimensionality that
+    satisfies their latency and storage budget without retraining, and empirically
+    produces embeddings where truncation to 2× smaller dimensionality loses only 1–5%
+    of retrieval quality.
+- type: warning
+  title: Common pitfall regarding Matryoshka Representation Learning
+  body: Matryoshka representations are not equally structured at all dimensionalities
+    — the information in earlier dimensions is selected by the training loss to be
+    the most task-relevant information, but what "most relevant" means depends on
+    the training task, meaning that MRL embeddings used for a different downstream
+    task than their training objective may not have the most useful information concentrated
+    in the first d dimensions.

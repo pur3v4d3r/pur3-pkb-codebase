@@ -1,0 +1,47 @@
+concept: Hierarchical Agent Orchestration
+domain: prompt-engineering
+secondary_domains:
+- multi-agent-systems
+- system-design
+aliases:
+- hierarchical agent architecture
+- orchestrator-subagent pattern
+- master-worker agent
+broader:
+- agentic-frameworks
+- multi-agent-systems
+related:
+- plan-and-execute-agents
+- task-decomposition-agents
+- multi-agent-debate
+- react-reasoning-acting
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- task-decomposition-agents
+confidence: high
+callouts:
+- type: definition
+  title: Hierarchical Agent Orchestration
+  body: Hierarchical Agent Orchestration is a multi-agent architecture in which an
+    orchestrator agent decomposes a complex task into sub-tasks and delegates each
+    sub-task to specialised subordinate agents, coordinates the results, and synthesises
+    a final response — creating a management layer that abstracts over the implementation
+    details of each sub-task's execution.
+- type: key-claim
+  title: Key claim about Hierarchical Agent Orchestration
+  body: 'Hierarchical Agent Orchestration enables parallelism and specialisation that
+    flat agent architectures cannot achieve: subordinate agents can be optimised for
+    their specific sub-task types, multiple sub-tasks can be executed concurrently,
+    and the orchestrator''s context remains focused on high-level coordination rather
+    than being consumed by the implementation details of every sub-task — improving
+    both throughput and task performance on complex, heterogeneous workflows.'
+- type: warning
+  title: Common pitfall regarding Hierarchical Agent Orchestration
+  body: Hierarchical Agent Orchestration amplifies the cost of orchestrator-level
+    planning errors; an incorrect decomposition at the top level propagates to all
+    subordinate agents, and the synthesis step cannot recover information that was
+    not delegated for retrieval or computation — making the orchestrator's initial
+    task decomposition a high-stakes single point of failure whose errors are expensive
+    to diagnose because they manifest in the subordinates' outputs rather than in
+    the orchestrator's own actions.

@@ -1,0 +1,49 @@
+concept: Grounded Visual Reasoning
+domain: multimodal-ai
+secondary_domains:
+- computer-vision
+- prompt-engineering
+- spatial-reasoning
+aliases:
+- visual grounding
+- spatially grounded reasoning
+- region-referenced visual reasoning
+broader:
+- vision-language-prompting
+- visual-chain-of-thought
+related:
+- vision-language-prompting
+- visual-chain-of-thought
+- chart-and-table-reasoning
+- document-understanding-prompts
+prerequisites:
+- vision-language-prompting
+- visual-chain-of-thought
+confidence: high
+callouts:
+- type: definition
+  title: Grounded Visual Reasoning
+  body: Grounded Visual Reasoning refers to the capability and prompting strategies
+    by which a vision-language model reasons about specific, localised regions of
+    an image — naming, describing, comparing, or drawing conclusions about particular
+    objects, spatial relationships, or image areas rather than the image globally.
+    Grounded reasoning requires the model to (a) identify the relevant spatial region(s)
+    for a given question, (b) attend to those regions for detailed visual interpretation,
+    and (c) produce a response that is connected to specific visual evidence. Prompting
+    for grounded reasoning often involves region descriptions, coordinate-based references
+    (bounding boxes), or instructions to cite specific image elements in the response.
+- type: key-claim
+  title: Key claim about Grounded Visual Reasoning
+  body: Grounded visual reasoning is a more reliable evaluation target than holistic
+    image description because it provides a verifiable correspondence between the
+    model's stated reasoning and specific visual evidence — a model that says "the
+    red object in the upper left corner is a sphere" can be checked against the image,
+    while a holistic "this image shows a colorful room" is harder to falsify, making
+    grounding a key component of trustworthy visual AI systems.
+- type: warning
+  title: Common pitfall regarding Grounded Visual Reasoning
+  body: Prompting for grounded visual reasoning can produce over-confident localisation
+    — models may confidently claim that a response is grounded in a specific image
+    region when the region they reference does not actually support their claim, producing
+    a false appearance of evidence-based reasoning that can mislead human reviewers
+    who trust the model's spatial references without verification.

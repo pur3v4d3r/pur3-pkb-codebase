@@ -1,0 +1,43 @@
+concept: Demonstration Diversity
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- data-selection
+aliases:
+- demo diversity
+- diverse few-shot examples
+broader:
+- in-context-learning
+- few-shot-example-selection
+related:
+- few-shot-example-selection
+- few-shot-prompting
+- example-ordering-effects
+- label-sensitivity-in-icl
+prerequisites:
+- in-context-learning
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Demonstration Diversity
+  body: Demonstration Diversity is the principle that few-shot examples should collectively
+    cover a wide range of input types, reasoning patterns, and output variations relevant
+    to the task, rather than sampling redundant examples from a narrow region of the
+    task distribution, to maximise the model's ability to generalise the task specification
+    to out-of-distribution test inputs.
+- type: key-claim
+  title: Key claim about Demonstration Diversity
+  body: Demonstration Diversity mitigates a core failure mode of homogeneous example
+    sets — the model overfitting to the surface features of the narrow distribution
+    represented by the demos — and empirical evidence shows that diversity-aware selection
+    algorithms consistently outperform similarity-maximising selection on test inputs
+    that differ from the average demo, which is the typical deployment scenario.
+- type: warning
+  title: Common pitfall regarding Demonstration Diversity
+  body: Demonstration Diversity must be balanced against coherence; selecting the
+    most diverse possible set of examples can introduce demonstrations that are stylistically
+    or semantically inconsistent with each other, confusing the model about which
+    task interpretation to prioritise and leading to output that tries to satisfy
+    multiple conflicting demonstration patterns simultaneously.

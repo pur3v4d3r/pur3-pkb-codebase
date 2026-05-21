@@ -1,0 +1,40 @@
+concept: Directional Stimulus Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- guided-generation
+aliases:
+- DSP
+- stimulus-directed prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- chain-of-thought-prompting
+- step-back-prompting
+- instruction-following
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Directional Stimulus Prompting
+  body: Directional Stimulus Prompting is a technique that provides the model with
+    a targeted hint or keyword stimulus alongside the input to steer the model's reasoning
+    toward the desired type of analysis, framing, or conclusion domain, without explicitly
+    prescribing the answer — operating as a directional nudge rather than a full instruction.
+- type: key-claim
+  title: Key claim about Directional Stimulus Prompting
+  body: Directional Stimulus Prompting exploits the model's associative priming; a
+    well-chosen stimulus keyword activates a cluster of related representations in
+    the model's attention mechanisms that make the intended analytical frame more
+    salient, improving performance on tasks where the challenge is not capability
+    but focus — picking the right analytical lens from many available ones.
+- type: warning
+  title: Common pitfall regarding Directional Stimulus Prompting
+  body: Directional Stimulus Prompting requires careful calibration of stimulus strength;
+    an over-specific stimulus collapses into explicit instruction and removes the
+    model's interpretive flexibility, while an under-specific stimulus fails to activate
+    the intended frame and leaves the model anchored to whatever default frame the
+    input alone suggests.

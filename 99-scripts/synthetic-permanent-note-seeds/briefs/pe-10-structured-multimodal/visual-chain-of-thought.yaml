@@ -1,0 +1,49 @@
+concept: Visual Chain of Thought
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- computer-vision
+- chain-of-thought-prompting
+aliases:
+- visual CoT
+- multimodal CoT
+- image reasoning chain
+broader:
+- vision-language-prompting
+- chain-of-thought-prompting
+related:
+- vision-language-prompting
+- chart-and-table-reasoning
+- grounded-visual-reasoning
+- chain-of-thought-prompting
+- multimodal-few-shot
+prerequisites:
+- chain-of-thought-prompting
+- vision-language-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Visual Chain of Thought
+  body: Visual Chain of Thought (Visual CoT) is an adaptation of chain-of-thought
+    prompting to multimodal inputs, in which the model is prompted to explicitly reason
+    through visual content step-by-step before producing a final answer. In its basic
+    form, the text prompt instructs the model to describe what it observes, identify
+    relevant elements, reason about their relationships, and then draw a conclusion
+    — externalising the visual reasoning process in the text portion of the output.
+    More advanced forms interleave visual attention operations with reasoning steps,
+    allowing the model to refer back to specific image regions during the reasoning
+    chain.
+- type: key-claim
+  title: Key claim about Visual Chain of Thought
+  body: Visual chain-of-thought dramatically improves accuracy on tasks requiring
+    multi-step visual reasoning — such as diagram interpretation, spatial relationship
+    reasoning, and mathematical figure analysis — by forcing the model to commit to
+    intermediate visual observations that can be checked, rather than directly mapping
+    visual input to an answer in a way that is opaque and error-prone.
+- type: warning
+  title: Common pitfall regarding Visual Chain of Thought
+  body: Visual CoT can introduce a new class of hallucination where the model generates
+    plausible-sounding but visually incorrect reasoning steps — because the model
+    is producing natural language, its reasoning chains can satisfy linguistic coherence
+    even when they are visually inaccurate, making it important to evaluate the intermediate
+    reasoning steps independently from the final answer.

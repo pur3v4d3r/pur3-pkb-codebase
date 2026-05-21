@@ -1,0 +1,41 @@
+concept: Decomposed Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- task-decomposition
+aliases:
+- DECOMP
+- decomposed task prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- least-to-most-prompting
+- skeleton-of-thought
+- task-decomposition-agents
+- chain-of-thought-prompting
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Decomposed Prompting
+  body: Decomposed Prompting is a framework that routes complex tasks to specialised
+    sub-prompts, each handling one atomic operation, by having a controller prompt
+    dynamically dispatch to handlers for specific subtasks (such as string manipulation,
+    retrieval, or arithmetic), then recombine their outputs into a final answer.
+- type: key-claim
+  title: Key claim about Decomposed Prompting
+  body: Decomposed Prompting improves robustness on compositional tasks by replacing
+    a single monolithic chain-of-thought with a modular routing system where each
+    handler prompt is purpose-built for its operation, enabling independent optimisation
+    and testing of each component — a software-engineering decomposition principle
+    applied to prompt chains.
+- type: warning
+  title: Common pitfall regarding Decomposed Prompting
+  body: Decomposed Prompting requires the controller prompt to correctly identify
+    which subtask applies at each step; controller errors (misrouting, missing handlers,
+    or incorrect recombination) compound across the pipeline, and debugging multi-step
+    decompositions is substantially more difficult than debugging a single-shot chain-of-thought
+    failure.

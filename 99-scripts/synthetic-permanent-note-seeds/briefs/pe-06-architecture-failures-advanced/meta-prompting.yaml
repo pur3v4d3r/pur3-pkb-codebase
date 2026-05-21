@@ -1,0 +1,46 @@
+concept: Meta-Prompting
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- recursive-reasoning
+aliases:
+- meta-prompt
+- prompt-generating prompt
+- recursive prompting
+broader:
+- advanced-patterns
+- automatic-prompt-engineering
+related:
+- automatic-prompt-engineering
+- chain-of-thought-prompting
+- constitutional-ai-method
+- system-2-prompting
+prerequisites:
+- large-language-models
+- automatic-prompt-engineering
+- prompt-formatting
+confidence: high
+callouts:
+- type: definition
+  title: Meta-Prompting
+  body: Meta-Prompting is a prompting strategy in which the model is given a high-level
+    task description and instructed to generate the specific prompt that would best
+    elicit the desired output from itself or another model — treating prompt construction
+    as a task that the LLM can perform rather than something that must be done exclusively
+    by a human engineer.
+- type: key-claim
+  title: Key claim about Meta-Prompting
+  body: 'Meta-Prompting leverages the model''s language understanding to search the
+    prompt space more efficiently than human intuition: because the model has been
+    trained on vast amounts of task-structured text, it can often generate more precisely
+    targeted prompts for a given task than a human without domain expertise in both
+    the task and the model''s idiosyncrasies — making meta-prompting a practical bootstrap
+    for entering unfamiliar task domains.'
+- type: warning
+  title: Common pitfall regarding Meta-Prompting
+  body: Meta-Prompting can produce prompts that are optimised for the model's self-reported
+    capabilities rather than its actual capabilities; the model's prompt suggestions
+    are constrained by what it believes about itself, and if that self-knowledge is
+    inaccurate (which is often the case for edge-case performance characteristics),
+    the generated prompts may be confidently suboptimal in ways that a human engineer
+    with empirical benchmarking data would avoid.

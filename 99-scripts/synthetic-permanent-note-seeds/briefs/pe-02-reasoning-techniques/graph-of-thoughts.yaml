@@ -1,0 +1,42 @@
+concept: Graph of Thoughts
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- graph-theory
+aliases:
+- GoT
+- graph-of-thought reasoning
+broader:
+- reasoning-techniques
+- prompting
+related:
+- tree-of-thoughts
+- chain-of-thought-prompting
+- decomposed-prompting
+- hierarchical-agent-orchestration
+prerequisites:
+- tree-of-thoughts
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Graph of Thoughts
+  body: Graph of Thoughts is a reasoning framework that generalises Tree of Thoughts
+    by representing the reasoning process as an arbitrary directed graph rather than
+    a tree, enabling thought nodes to be merged (aggregation of partial solutions)
+    and revisited (cycles for refinement), which allows the model to combine insights
+    from independent reasoning paths into a single integrated conclusion.
+- type: key-claim
+  title: Key claim about Graph of Thoughts
+  body: Graph of Thoughts enables reasoning operations — such as merging two partial
+    proofs, refining an answer with a counterexample, and then aggregating the correction
+    — that are structurally impossible in tree-based frameworks, making it the appropriate
+    abstraction for tasks where the final solution is a synthesis of heterogeneous
+    intermediate results rather than the best single reasoning path.
+- type: warning
+  title: Common pitfall regarding Graph of Thoughts
+  body: Graph of Thoughts substantially increases the complexity of the orchestration
+    layer required to implement it; managing node states, determining merge conditions,
+    and detecting cycles adds engineering overhead that often outweighs the performance
+    gains on tasks that are adequately solved by tree-based or linear chain-of-thought
+    approaches.

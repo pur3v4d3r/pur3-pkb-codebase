@@ -1,0 +1,50 @@
+concept: External Memory Augmentation
+domain: llm-memory
+secondary_domains:
+- ai-agents
+- retrieval-augmented-generation
+- llm-architecture
+aliases:
+- external memory
+- memory augmented LLMs
+- retrieval memory augmentation
+broader:
+- llm-memory
+- retrieval-augmented-generation
+narrower:
+- episodic-memory-in-agents
+related:
+- episodic-memory-in-agents
+- memory-augmented-neural-networks
+- retrieval-augmented-generation
+- long-context-prompting-strategies
+prerequisites:
+- retrieval-augmented-generation
+- ai-agents
+confidence: high
+callouts:
+- type: definition
+  title: External Memory Augmentation
+  body: 'External Memory Augmentation refers to the architectural pattern of supplementing
+    a language model''s in-context and parametric memory with one or more external
+    memory stores that can be read from and written to during inference. External
+    memory can take several forms: vector databases (semantic memories retrieved by
+    embedding similarity), key-value stores (structured memories retrieved by exact
+    or fuzzy key lookup), relational databases (structured facts queried by SQL),
+    and document stores (retrieved by full-text or hybrid search). The model interacts
+    with external memory through tool calls or retrieval operations that inject relevant
+    memory content into the context.'
+- type: key-claim
+  title: Key claim about External Memory Augmentation
+  body: External memory augmentation is the primary practical mechanism for giving
+    language models effective unlimited memory — because the context window imposes
+    a hard limit on how much information can be directly attended to, external memory
+    allows the effective information space of an agent to be arbitrarily large while
+    keeping the active context focused on the most relevant subset.
+- type: warning
+  title: Common pitfall regarding External Memory Augmentation
+  body: External memory augmentation creates a new failure mode — memory poisoning
+    and memory staleness — where incorrect, outdated, or adversarially crafted memories
+    can be retrieved and influence agent behaviour in ways that are difficult to detect,
+    because the agent has no internal mechanism to distinguish the trustworthiness
+    of retrieved memories from trustworthy in-context information.

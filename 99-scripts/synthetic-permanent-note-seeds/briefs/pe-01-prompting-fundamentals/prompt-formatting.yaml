@@ -1,0 +1,37 @@
+concept: Prompt Formatting
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- llm-inference
+aliases:
+- prompt structure
+- prompt layout
+broader:
+- prompting
+related:
+- delimiters-and-separators
+- output-format-specification
+- prompt-clarity-principles
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Formatting
+  body: Prompt Formatting refers to the deliberate structuring of a prompt's visual
+    and syntactic layout — including the use of headings, labels, delimiters, whitespace,
+    and markdown — to communicate structure to the model, reduce ambiguity about role
+    boundaries, and improve parse reliability for complex multi-part instructions.
+- type: key-claim
+  title: Key claim about Prompt Formatting
+  body: Prompt Formatting affects model behaviour not through aesthetics but through
+    tokenisation and attention patterns; structured prompts that clearly demarcate
+    instruction sections from data sections reduce the probability that the model
+    conflates instruction tokens with content tokens, which is the root cause of many
+    instruction-following failures.
+- type: warning
+  title: Common pitfall regarding Prompt Formatting
+  body: Prompt Formatting guidelines are model-family specific; markdown that significantly
+    improves performance in one model family can degrade it in another (especially
+    base models without markdown fine-tuning), so formatting choices established on
+    one model should be re-validated when switching providers.

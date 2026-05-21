@@ -1,0 +1,56 @@
+concept: Parameter-Efficient Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- llm-training
+- resource-efficient-ai
+aliases:
+- PEFT
+- parameter-efficient adaptation
+- efficient fine-tuning
+broader:
+- fine-tuning
+- transfer-learning
+narrower:
+- lora-low-rank-adaptation
+- qlora
+- adapter-layers
+- prefix-tuning
+- prompt-tuning
+related:
+- lora-low-rank-adaptation
+- qlora
+- adapter-layers
+- prefix-tuning
+- prompt-tuning
+- catastrophic-forgetting-in-llms
+prerequisites:
+- fine-tuning
+- large-language-models
+- gradient-descent
+confidence: high
+callouts:
+- type: definition
+  title: Parameter-Efficient Fine-Tuning
+  body: Parameter-Efficient Fine-Tuning (PEFT) is a family of techniques for adapting
+    pretrained language models to new tasks or domains by updating only a small fraction
+    of the total parameters, rather than all of them. The motivation is that full
+    fine-tuning of large models is computationally expensive and memory-intensive,
+    and it risks catastrophic forgetting of general capabilities. PEFT methods achieve
+    comparable performance to full fine-tuning on many tasks while updating as few
+    as 0.1–1% of parameters, making it possible to run fine-tuning on consumer hardware
+    and to maintain multiple task-specific adapters on a single backbone.
+- type: key-claim
+  title: Key claim about Parameter-Efficient Fine-Tuning
+  body: PEFT demonstrates that the task-specific information learned during fine-tuning
+    is highly compressible — the delta between a pretrained model and its fine-tuned
+    version lies in a low-dimensional subspace, which is why methods like LoRA that
+    explicitly model this low-rank structure match full fine-tuning performance at
+    a fraction of the compute cost.
+- type: warning
+  title: Common pitfall regarding Parameter-Efficient Fine-Tuning
+  body: PEFT methods trained on small datasets are susceptible to overfitting to the
+    adapter parameters while the backbone remains frozen, and different PEFT methods
+    interact differently with the model architecture — results do not transfer cleanly
+    across model families, making empirical validation essential rather than relying
+    on general PEFT claims.

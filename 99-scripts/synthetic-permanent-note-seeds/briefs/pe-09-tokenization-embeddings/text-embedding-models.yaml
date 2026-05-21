@@ -1,0 +1,54 @@
+concept: Text Embedding Models
+domain: embeddings-and-semantic-space
+secondary_domains:
+- natural-language-processing
+- retrieval-augmented-generation
+- semantic-search
+aliases:
+- sentence embeddings
+- text encoders
+- embedding models
+- dense representations
+broader:
+- representation-learning
+- natural-language-processing
+narrower:
+- sentence-transformers
+- bi-encoder-vs-cross-encoder
+related:
+- sentence-transformers
+- cosine-similarity-retrieval
+- embedding-space-geometry
+- retrieval-augmented-generation
+- dense-passage-retrieval
+prerequisites:
+- neural-networks
+- natural-language-processing
+- transformer-attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Text Embedding Models
+  body: Text Embedding Models are neural networks that encode text (words, sentences,
+    passages, or documents) as dense vector representations in a continuous high-dimensional
+    space, such that semantically similar texts are mapped to nearby vectors while
+    dissimilar texts are mapped to distant vectors. These models are trained using
+    contrastive objectives that pull similar pairs together and push dissimilar pairs
+    apart, typically using large corpora of (query, relevant passage) pairs or natural
+    language inference datasets. The resulting embeddings support downstream tasks
+    including semantic search, duplicate detection, clustering, and cross-modal retrieval.
+- type: key-claim
+  title: Key claim about Text Embedding Models
+  body: Text embedding models transform the retrieval problem from a sparse lexical
+    matching problem (keyword overlap) into a dense semantic matching problem (geometric
+    proximity in a learned space), enabling retrieval of semantically related content
+    that shares no keywords — which is the core technical enabler of modern RAG systems
+    and semantic search engines.
+- type: warning
+  title: Common pitfall regarding Text Embedding Models
+  body: Text embedding models have a fundamental context length limitation — most
+    models encode text through pooling of transformer outputs, meaning that longer
+    documents are compressed into a fixed-size vector at a cost of information loss,
+    and embedding a 10,000-word document into the same dimensionality as a 10-word
+    sentence necessarily loses fine-grained detail that may be critical for precision
+    retrieval.

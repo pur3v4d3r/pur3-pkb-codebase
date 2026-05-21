@@ -1,0 +1,45 @@
+concept: Top-K Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+aliases:
+- k-sampling
+- top-k decoding
+- k-best sampling
+broader:
+- llm-decoding
+related:
+- temperature-sampling
+- top-p-nucleus-sampling
+- min-p-sampling
+- greedy-decoding
+prerequisites:
+- llm-decoding
+- probability-theory
+confidence: high
+callouts:
+- type: definition
+  title: Top-K Sampling
+  body: Top-K Sampling is a decoding strategy that restricts the vocabulary of candidate
+    tokens at each generation step to the K most probable tokens according to the
+    model's distribution, then samples from these K tokens with probabilities renormalised
+    to sum to 1. All tokens outside the top K are assigned zero probability. The parameter
+    K is a fixed integer — typically values between 10 and 100 for natural language
+    generation. Top-K was widely used before nucleus sampling became standard, and
+    is still used in combination with temperature and top-p in many production configurations.
+- type: key-claim
+  title: Key claim about Top-K Sampling
+  body: Top-K sampling prevents the generation of clearly low-probability, incoherent
+    tokens (which pure temperature sampling allows) by enforcing a hard cutoff below
+    which tokens are never selected — but its fixed cardinality is a weakness, because
+    an appropriate vocabulary size varies substantially across generation contexts,
+    and a fixed K is simultaneously too small in uncertain contexts (cutting off reasonable
+    alternatives) and too large in confident contexts (allowing poor alternatives).
+- type: warning
+  title: Common pitfall regarding Top-K Sampling
+  body: Top-K sampling with a small K value in combination with low temperature can
+    cause mode collapse in long-form generation — the interaction between a small
+    candidate set and high probability concentration can create degenerate repetitive
+    loops where the most probable token at each step leads back to tokens seen recently,
+    producing repetitive or circular text.

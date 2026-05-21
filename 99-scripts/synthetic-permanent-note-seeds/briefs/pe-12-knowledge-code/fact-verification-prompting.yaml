@@ -1,0 +1,48 @@
+concept: Fact Verification Prompting
+domain: knowledge-grounding
+secondary_domains:
+- prompt-engineering
+- hallucination-reduction
+- natural-language-inference
+aliases:
+- claim verification prompts
+- factual consistency prompting
+- NLI-based verification
+broader:
+- knowledge-grounding
+- hallucination-reduction
+related:
+- knowledge-graph-augmented-llms
+- parametric-vs-contextual-knowledge
+- grounded-generation
+- self-evaluation-prompting
+prerequisites:
+- prompt-engineering
+- natural-language-inference
+- hallucination-reduction
+confidence: high
+callouts:
+- type: definition
+  title: Fact Verification Prompting
+  body: Fact Verification Prompting encompasses the prompting strategies used to check
+    the factual accuracy of language model outputs — either by prompting the model
+    to verify its own claims, by prompting a separate model to evaluate claims against
+    retrieved evidence, or by using natural language inference (NLI) techniques to
+    check whether claims are entailed by a source document. Self-verification prompts
+    instruct the model to re-examine each factual claim in its output, search for
+    contradictions, and flag uncertain claims. Cross-model verification uses a second
+    LLM as a fact-checker with access to the original source.
+- type: key-claim
+  title: Key claim about Fact Verification Prompting
+  body: Fact verification prompting reduces hallucination rates in factual question
+    answering by introducing an explicit self-checking step that catches errors the
+    model's primary generation missed — the verification step does not need to be
+    perfect to add value; even catching 50–70% of hallucinations improves system reliability
+    substantially for high-stakes factual applications.
+- type: warning
+  title: Common pitfall regarding Fact Verification Prompting
+  body: 'Self-verification prompting has a fundamental limitation: the same model
+    that generated a hallucinated claim may also confirm it during verification, because
+    both generation and verification draw on the same underlying knowledge representation,
+    making the verification step ineffective for systematic hallucinations where the
+    model is confidently wrong about a class of facts.'

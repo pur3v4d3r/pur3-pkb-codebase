@@ -1,0 +1,48 @@
+concept: Chain of Density Technique
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- summarisation
+aliases:
+- chain-of-density
+- CoD summarisation
+- iterative density summarisation
+broader:
+- advanced-patterns
+- prompt-compression
+related:
+- prompt-compression
+- prompt-paraphrasing
+- iterative-refinement
+- self-refine
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+- summarisation
+confidence: high
+callouts:
+- type: definition
+  title: Chain of Density Technique
+  body: 'Chain of Density Technique is an iterative summarisation prompting method
+    in which the model produces a series of progressively more information-dense summaries:
+    starting from a verbose, fluent summary and iteratively compressing it across
+    multiple rounds by identifying missing entities and key details and incorporating
+    them into a shorter, denser version — trading naturalness for information density
+    in a controlled, measurable way.'
+- type: key-claim
+  title: Key claim about Chain of Density Technique
+  body: 'Chain of Density Technique produces more faithful and complete summaries
+    than single-pass summarisation at equal length by separating the compression task
+    from the extraction task: the initial verbose summary captures the full range
+    of relevant content, and subsequent compression rounds optimise for density without
+    losing coverage, whereas single-pass density-constrained summarisation sacrifices
+    coverage to fit the length constraint in ways that are hard to control or predict.'
+- type: warning
+  title: Common pitfall regarding Chain of Density Technique
+  body: Chain of Density Technique's progressive compression produces summaries that
+    can become grammatically strained and difficult to read at high density levels;
+    the technique optimises for information content per token rather than for naturalness
+    or reader comprehension, and summaries at the highest density levels may require
+    the reader to perform significant interpretive work to reconstruct the full context
+    from the compressed form — making the technique most appropriate for machine consumption
+    rather than general readership.

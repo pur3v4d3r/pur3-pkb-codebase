@@ -1,0 +1,46 @@
+concept: Context Window Management
+domain: prompt-engineering
+secondary_domains:
+- inference-efficiency
+- model-deployment
+aliases:
+- context management
+- context length management
+- context budget
+broader:
+- token-budget-management
+- transformer-attention-mechanism
+related:
+- token-budget-management
+- prompt-compression
+- attention-sink-phenomenon
+- lost-in-the-middle-effect
+- kv-cache-mechanics
+prerequisites:
+- transformer-attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Context Window Management
+  body: Context Window Management refers to the strategies and techniques for organising,
+    prioritising, and curating the content of a language model's context window to
+    ensure that the most task-relevant information is positioned and retained within
+    the finite token limit — including techniques for document truncation, dynamic
+    summarisation, selective retention, and positional placement of critical information.
+- type: key-claim
+  title: Key claim about Context Window Management
+  body: Context Window Management is a performance-critical engineering discipline
+    because the position and amount of information in the context window directly
+    affect both what the model attends to and the quality of its responses; empirical
+    evidence shows that models attend non-uniformly to context position, with recency
+    and primacy biases meaning that poorly managed context placement can degrade performance
+    even when all the required information is technically present.
+- type: warning
+  title: Common pitfall regarding Context Window Management
+  body: Context Window Management strategies that maximise information density by
+    aggressively compressing or truncating content trade off a known efficiency gain
+    against an uncertain quality loss; the information removed by compression may
+    appear low-relevance based on general heuristics but prove critical for specific
+    queries, making overly aggressive context compression a source of intermittent,
+    hard-to-diagnose response failures on atypical inputs.

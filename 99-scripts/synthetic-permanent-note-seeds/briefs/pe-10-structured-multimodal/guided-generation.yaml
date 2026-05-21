@@ -1,0 +1,50 @@
+concept: Guided Generation
+domain: structured-generation
+secondary_domains:
+- llm-decoding
+- prompt-engineering
+- structured-prediction
+aliases:
+- logit guidance
+- token-level generation control
+- outlines generation
+broader:
+- structured-generation
+- llm-decoding
+narrower:
+- grammar-constrained-decoding
+- constrained-beam-search
+related:
+- grammar-constrained-decoding
+- constrained-beam-search
+- json-mode-prompting
+- output-schema-enforcement
+prerequisites:
+- llm-decoding
+- structured-prediction-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Guided Generation
+  body: Guided Generation is the broad class of techniques that shape a language model's
+    output at the token-sampling level by modifying logit distributions before sampling,
+    using structural information about the desired output format. This includes grammar-constrained
+    decoding (logit masking based on formal grammar state), regex-guided generation
+    (masking based on partial regex match), JSON schema guided generation (masking
+    based on schema state machine), and custom logit processors that inject external
+    signals into the sampling process. Libraries such as Outlines, Guidance, and LMQL
+    expose these techniques as composable programming abstractions.
+- type: key-claim
+  title: Key claim about Guided Generation
+  body: 'Guided generation reframes language model prompting as a form of constrained
+    programming — rather than hoping the model will follow format instructions probabilistically,
+    guided generation uses the model''s probability distribution for semantic content
+    while using formal constraints for structural requirements, achieving the best
+    of both: LLM creativity within hard structural guarantees.'
+- type: warning
+  title: Common pitfall regarding Guided Generation
+  body: Guided generation is implemented at the inference level and is typically not
+    compatible with API-only access to models — it requires either running the model
+    locally (e.g., via vLLM, llama.cpp, or HuggingFace Transformers) or using a provider
+    that exposes logit-level access, which currently excludes most commercial API
+    endpoints and limits its practical applicability to self-hosted deployments.

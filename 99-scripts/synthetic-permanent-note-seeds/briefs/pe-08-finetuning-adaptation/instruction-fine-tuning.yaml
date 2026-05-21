@@ -1,0 +1,52 @@
+concept: Instruction Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- ai-alignment
+- llm-training
+- prompt-engineering
+aliases:
+- IFT
+- instruction tuning
+- FLAN-style tuning
+- supervised fine-tuning on instructions
+broader:
+- fine-tuning
+- supervised-learning
+narrower:
+- task-specific-fine-tuning
+related:
+- reinforcement-learning-from-human-feedback
+- parameter-efficient-fine-tuning
+- direct-preference-optimization
+- system-prompt-design
+prerequisites:
+- large-language-models
+- supervised-fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Instruction Fine-Tuning
+  body: 'Instruction Fine-Tuning (IFT) is a supervised training procedure in which
+    a pretrained language model is trained on a dataset of (instruction, input, output)
+    triples, teaching the model to follow natural-language directives across diverse
+    tasks. The procedure was popularised by models such as FLAN and InstructGPT and
+    is the primary technique by which base language models — which predict the next
+    token in a corpus — are transformed into assistant models that respond to user
+    queries. A key property of instruction fine-tuning is generalisation: a model
+    trained on a diverse instruction set develops an ability to follow novel instructions
+    not seen during training.'
+- type: key-claim
+  title: Key claim about Instruction Fine-Tuning
+  body: Instruction fine-tuning is the single step that most dramatically improves
+    the practical usability of a language model — base models trained purely on next-token
+    prediction are unreliable at following user intent, while instruction-tuned models
+    of even modest size can be deployed as useful assistants, demonstrating that the
+    capability exists in the base model but requires the right training signal to
+    surface.
+- type: warning
+  title: Common pitfall regarding Instruction Fine-Tuning
+  body: The quality and diversity of the instruction dataset matters more than its
+    size — a small, high-quality instruction set often outperforms a large noisy one,
+    but instruction fine-tuning on a narrow task distribution produces a model that
+    follows instructions from that distribution well but may regress on tasks outside
+    it, including open-ended generation.

@@ -1,0 +1,48 @@
+concept: Execution Feedback Prompting
+domain: code-generation
+secondary_domains:
+- prompt-engineering
+- software-testing
+- llm-agents
+aliases:
+- execution-based prompting
+- runtime feedback prompting
+- code execution loop
+broader:
+- code-generation
+- agentic-workflows
+related:
+- self-debugging-llm
+- repair-prompting
+- test-driven-prompting
+- code-prompting-strategies
+- tool-use-llms
+prerequisites:
+- code-generation
+- tool-use-llms
+confidence: high
+callouts:
+- type: definition
+  title: Execution Feedback Prompting
+  body: Execution Feedback Prompting is a prompting pattern for code generation in
+    which the generated code is executed against a test suite or interpreter, and
+    the execution output (including errors, stack traces, assertion failures, and
+    test results) is fed back to the model as additional context, prompting it to
+    diagnose the failure and produce a corrected version. This creates a closed-loop
+    code generation system where the model iteratively refines its output based on
+    objective runtime feedback rather than self-evaluation alone, dramatically improving
+    the probability that the final output is functionally correct.
+- type: key-claim
+  title: Key claim about Execution Feedback Prompting
+  body: Execution feedback is the most reliable mechanism for improving code generation
+    quality because it provides ground-truth objective signal — a failing test or
+    runtime error is an unambiguous indicator that the code is wrong, while self-evaluation
+    prompts ask the model to judge its own output using the same potentially flawed
+    internal representation that produced the error in the first place.
+- type: warning
+  title: Common pitfall regarding Execution Feedback Prompting
+  body: Execution feedback prompting requires a secure sandboxed execution environment
+    — executing LLM-generated code on the host system without sandboxing creates a
+    severe security risk, because even in non-adversarial settings LLMs can generate
+    code with destructive side effects (file deletion, network calls, resource exhaustion)
+    as unintended consequences of trying to satisfy the specified task.

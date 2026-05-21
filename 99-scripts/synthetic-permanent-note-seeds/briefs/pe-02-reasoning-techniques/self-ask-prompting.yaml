@@ -1,0 +1,43 @@
+concept: Self-Ask Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- question-decomposition
+aliases:
+- self-ask
+- follow-up question prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- least-to-most-prompting
+- decomposed-prompting
+- chain-of-thought-prompting
+- react-reasoning-acting
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Self-Ask Prompting
+  body: Self-Ask Prompting is a technique in which the model explicitly generates
+    the intermediate follow-up questions it needs to answer in order to resolve the
+    main question, then answers each follow-up sequentially before synthesising those
+    answers into a final response — externalising the question-decomposition process
+    that chain-of-thought performs implicitly.
+- type: key-claim
+  title: Key claim about Self-Ask Prompting
+  body: Self-Ask Prompting makes the question-decomposition structure explicit and
+    inspectable rather than leaving it implicit in the reasoning trace, which enables
+    targeted retrieval (each follow-up can be issued as a search query) and targeted
+    correction (each follow-up can be verified independently), making it the natural
+    bridge between pure language-model reasoning and tool-augmented retrieval-based
+    reasoning.
+- type: warning
+  title: Common pitfall regarding Self-Ask Prompting
+  body: Self-Ask Prompting is sensitive to the quality of the follow-up questions
+    the model generates; if the decomposition produces redundant, circular, or off-target
+    follow-ups, the model wastes context budget answering irrelevant sub-questions,
+    and the synthesis step must then reconcile contradictory or tangential answers,
+    often producing worse results than a direct chain-of-thought approach.

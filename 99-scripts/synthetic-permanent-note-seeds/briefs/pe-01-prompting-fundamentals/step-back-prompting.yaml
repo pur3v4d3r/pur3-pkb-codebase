@@ -1,0 +1,41 @@
+concept: Step-Back Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- llm-inference
+aliases:
+- step-back abstraction
+- abstraction-first prompting
+broader:
+- prompting
+- reasoning-techniques
+related:
+- chain-of-thought-prompting
+- analogical-prompting
+- metacognitive-prompting
+- least-to-most-prompting
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Step-Back Prompting
+  body: Step-Back Prompting is a two-stage prompting strategy in which the model is
+    first asked to identify the abstract principle, domain concept, or general category
+    that the specific question instantiates, and then uses that higher-level abstraction
+    as a retrieved context scaffold before generating the answer to the original question.
+- type: key-claim
+  title: Key claim about Step-Back Prompting
+  body: 'Step-Back Prompting exploits the asymmetry between abstract and specific
+    reasoning in large language models: models are often better at generating accurate
+    general principles from their training distribution than at applying those principles
+    to novel specifics directly, so elevating abstraction level first then grounding
+    improves accuracy for knowledge-intensive tasks.'
+- type: warning
+  title: Common pitfall regarding Step-Back Prompting
+  body: Step-Back Prompting adds a reasoning step that can introduce its own errors;
+    if the model retrieves an incorrect or inapplicable abstraction in the first stage,
+    it will ground the second stage on a flawed premise, potentially producing a confident
+    but mistaken answer with an internally coherent but externally false justification
+    chain.

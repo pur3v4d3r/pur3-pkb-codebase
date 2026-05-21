@@ -1,0 +1,39 @@
+concept: One-Shot Prompting
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- natural-language-processing
+aliases:
+- single-shot prompting
+- one-example prompting
+broader:
+- few-shot-prompting
+- prompting
+related:
+- zero-shot-prompting
+- few-shot-prompting
+- demonstration-diversity
+prerequisites:
+- large-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: One-Shot Prompting
+  body: One-Shot Prompting is a special case of few-shot prompting in which exactly
+    one worked example is included in the prompt context before the target input.
+    The single demonstration anchors the model's interpretation of the task format
+    and expected output style without the overhead of constructing a full few-shot
+    set.
+- type: key-claim
+  title: Key claim about One-Shot Prompting
+  body: One-Shot Prompting often captures most of the format-specification benefit
+    of few-shot prompting for highly constrained output formats, because a single
+    high-quality example disambiguates structure completely, making the marginal value
+    of additional demonstrations negligible for such tasks.
+- type: warning
+  title: Common pitfall regarding One-Shot Prompting
+  body: One-Shot Prompting is particularly vulnerable to atypical or unrepresentative
+    examples; with only one demonstration, an outlier example can bias the model's
+    output distribution far more severely than it would in a three- or five-shot set
+    where the remaining examples provide corrective signal.

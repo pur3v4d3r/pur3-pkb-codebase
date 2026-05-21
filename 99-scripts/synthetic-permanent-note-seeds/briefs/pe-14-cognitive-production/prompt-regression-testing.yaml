@@ -1,0 +1,48 @@
+concept: Prompt Regression Testing
+domain: production-deployment
+secondary_domains:
+- software-testing
+- prompt-engineering
+- mlops
+aliases:
+- prompt test suites
+- prompt quality regression
+- prompt evaluation CI
+broader:
+- production-deployment
+- prompt-engineering
+related:
+- prompt-versioning
+- prompt-monitoring-and-alerting
+- a-b-testing-prompts
+- prompt-registry-management
+prerequisites:
+- prompt-engineering
+- software-testing
+- mlops
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Regression Testing
+  body: 'Prompt Regression Testing is the practice of maintaining a suite of test
+    cases — prompt inputs with expected or evaluated outputs — and running the prompt
+    against this suite whenever the prompt or the underlying model changes, to detect
+    quality regressions before they reach production. Test cases cover: the happy
+    path, known edge cases, previously problematic inputs (regression tests from past
+    failures), and boundary conditions. Regression test results are typically expressed
+    as aggregate quality metrics (precision on a classification task, preference win
+    rate, factuality score) that can be compared against a baseline.'
+- type: key-claim
+  title: Key claim about Prompt Regression Testing
+  body: Prompt regression testing prevents silent prompt quality degradation — without
+    regression testing, prompt changes or model upgrades may degrade performance on
+    previously handled cases while appearing to improve the target case, creating
+    a whack-a-mole dynamic where fixing one failure introduces new ones; systematic
+    regression testing catches these regressions before deployment.
+- type: warning
+  title: Common pitfall regarding Prompt Regression Testing
+  body: Prompt regression test suites require active maintenance — test cases that
+    were challenging at the time of creation may become trivially easy as models improve,
+    or they may become irrelevant as the application's requirements change, requiring
+    periodic review and augmentation of the test suite to remain an effective quality
+    gate.

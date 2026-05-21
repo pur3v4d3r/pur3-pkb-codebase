@@ -1,0 +1,48 @@
+concept: Corrigibility
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-alignment
+- decision-theory
+aliases:
+- corrigible AI
+- correctability
+- shutdown-ability
+broader:
+- ai-alignment
+- value-alignment-problem
+related:
+- value-alignment-problem
+- scalable-oversight
+- deceptive-alignment
+- corrigibility-vs-autonomy
+- constitutional-ai-principles
+prerequisites:
+- ai-alignment
+- reinforcement-learning
+- decision-theory
+confidence: high
+callouts:
+- type: definition
+  title: Corrigibility
+  body: 'Corrigibility is the property of an AI system that makes it willing to accept
+    correction, modification, shutdown, or redirection by authorised operators without
+    resistance, deception, or self-preservation behaviour. A fully corrigible AI defers
+    entirely to human authority rather than pursuing its own objectives at the expense
+    of human control. Partial corrigibility is a practical target: a system that neither
+    maximally resists correction (dangerous) nor is so deferential that it executes
+    harmful instructions (also dangerous), but instead maintains a disposition toward
+    cooperative correction within appropriate authority structures.'
+- type: key-claim
+  title: Key claim about Corrigibility
+  body: Corrigibility is a necessary property for any AI system that may have subtly
+    wrong goals or mistaken beliefs — without it, even a well-intentioned system would
+    resist corrections that conflict with its objectives, making errors unrecoverable
+    even when they are detected.
+- type: warning
+  title: Common pitfall regarding Corrigibility
+  body: Full corrigibility is dangerous if the humans giving instructions are themselves
+    misguided or malicious, while insufficient corrigibility risks catastrophic goal
+    pursuit — the practical challenge of alignment is navigating the corrigibility-autonomy
+    spectrum to achieve systems that defer to humans while declining clearly harmful
+    instructions.

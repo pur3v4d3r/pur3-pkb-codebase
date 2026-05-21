@@ -1,0 +1,48 @@
+concept: Latency-Quality Tradeoff
+domain: production-deployment
+secondary_domains:
+- mlops
+- prompt-engineering
+- infrastructure
+aliases:
+- inference latency vs quality
+- speed-accuracy tradeoff LLMs
+- latency-accuracy Pareto
+broader:
+- production-deployment
+- mlops
+related:
+- cost-per-token-optimization
+- multi-model-routing
+- prompt-caching-strategies
+- fallback-prompt-strategies
+prerequisites:
+- llm-inference
+- production-deployment
+confidence: high
+callouts:
+- type: definition
+  title: Latency-Quality Tradeoff
+  body: The Latency-Quality Tradeoff in LLM systems describes the fundamental engineering
+    tension between response latency (time to first token and time to complete token)
+    and output quality — techniques that improve quality (larger models, longer generation,
+    chain-of-thought reasoning, best-of-N selection) typically increase latency and
+    cost, while techniques that reduce latency (smaller models, speculative decoding,
+    shorter outputs) often reduce quality. Managing this tradeoff requires identifying
+    the quality floor required for the specific application and then optimising for
+    minimum latency given that constraint.
+- type: key-claim
+  title: Key claim about Latency-Quality Tradeoff
+  body: The latency-quality Pareto frontier varies by application — conversational
+    applications typically require latency < 2 seconds for user experience acceptability,
+    which constrains the model size and generation strategy independently of quality
+    considerations; analytical applications can tolerate multi-second or multi-minute
+    latency in exchange for higher quality, creating fundamentally different system
+    design requirements for the same underlying models.
+- type: warning
+  title: Common pitfall regarding Latency-Quality Tradeoff
+  body: Latency measurement must account for tail latency (99th percentile) rather
+    than just median latency — LLM inference has high variance latency due to variable
+    output length, batching effects, and infrastructure variability, and systems designed
+    for median latency requirements will frequently violate user experience thresholds
+    due to tail latency spikes.

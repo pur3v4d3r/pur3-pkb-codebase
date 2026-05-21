@@ -1,0 +1,51 @@
+concept: Structured Prediction Prompting
+domain: structured-generation
+secondary_domains:
+- prompt-engineering
+- natural-language-processing
+- information-extraction
+aliases:
+- structured output prompting
+- IE prompting
+- extraction prompting
+broader:
+- prompt-engineering
+- structured-generation
+narrower:
+- json-mode-prompting
+- function-schema-design
+related:
+- json-mode-prompting
+- output-schema-enforcement
+- grammar-constrained-decoding
+- information-extraction-prompts
+prerequisites:
+- prompt-engineering
+- structured-generation
+confidence: high
+callouts:
+- type: definition
+  title: Structured Prediction Prompting
+  body: 'Structured Prediction Prompting encompasses the set of prompting strategies
+    used to elicit structured, machine-parseable outputs from language models in the
+    absence of or in addition to API-level structural constraints. Techniques include:
+    providing output templates with placeholders, using delimiters to mark fields
+    (e.g., XML tags, JSON keys), including annotated few-shot examples that demonstrate
+    the exact output structure, instructing the model to think step-by-step before
+    producing the final structured output, and adding explicit validation instructions
+    (e.g., "verify your output conforms to the schema before finalising").'
+- type: key-claim
+  title: Key claim about Structured Prediction Prompting
+  body: Structured prediction prompting must work in concert with model-level structural
+    constraints — prompting alone is unreliable for strict structural requirements
+    because language models optimise for fluency rather than format compliance, but
+    prompting provides the semantic guidance that structural constraints lack, making
+    the combination of clear schema instructions and API-level format enforcement
+    significantly more reliable than either alone.
+- type: warning
+  title: Common pitfall regarding Structured Prediction Prompting
+  body: Including lengthy schema descriptions and many few-shot examples for structured
+    prediction can push important task context earlier in the prompt out of effective
+    attention range, creating a quality-reliability tradeoff where the prompt length
+    needed for reliable structure may degrade the quality of the semantic content
+    within that structure.

@@ -1,0 +1,49 @@
+concept: Reflexion Agent Architecture
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- self-improvement
+aliases:
+- Reflexion agents
+- reflective agent
+- self-reflecting agent
+broader:
+- agentic-frameworks
+- reflexion
+related:
+- reflexion
+- react-reasoning-acting
+- critic-agents
+- self-refine
+- chain-of-verification
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- reflexion
+confidence: high
+callouts:
+- type: definition
+  title: Reflexion Agent Architecture
+  body: Reflexion Agent Architecture is an agent framework in which the agent maintains
+    an episodic memory of past attempts and their outcomes, uses a self-reflection
+    component to generate verbal summaries of what went wrong in failed attempts,
+    and incorporates these reflections into subsequent attempts — enabling the agent
+    to improve across trials without gradient updates by using language-mediated self-critique
+    as the learning signal.
+- type: key-claim
+  title: Key claim about Reflexion Agent Architecture
+  body: 'Reflexion Agent Architecture demonstrates that language-mediated trial-and-error
+    learning is viable for LLM agents: by externalising failure analysis into explicit
+    reflection notes stored in the agent''s memory, the architecture enables systematic
+    improvement over multiple attempts at the same task, achieving performance on
+    complex reasoning and decision-making benchmarks that significantly exceeds that
+    of non-reflective baselines.'
+- type: warning
+  title: Common pitfall regarding Reflexion Agent Architecture
+  body: Reflexion Agent Architecture's improvement depends critically on the quality
+    of the reflection model; if the reflection model fails to identify the true cause
+    of failure (a common occurrence when failures arise from subtle world-model errors
+    rather than obvious reasoning mistakes), the stored reflection notes will encode
+    incorrect causal attributions that guide subsequent attempts in the wrong direction,
+    and the agent may confidently repeat its original errors under the impression
+    that it has learned from them.

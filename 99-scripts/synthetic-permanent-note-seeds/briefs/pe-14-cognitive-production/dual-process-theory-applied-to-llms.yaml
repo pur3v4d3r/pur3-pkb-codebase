@@ -1,0 +1,49 @@
+concept: Dual-Process Theory Applied to LLMs
+domain: cognitive-science
+secondary_domains:
+- llm-theory
+- prompt-engineering
+- reasoning
+aliases:
+- System 1 / System 2 in LLMs
+- fast and slow thinking LLMs
+- dual-process LLM prompting
+broader:
+- cognitive-science
+- llm-theory
+related:
+- cognitive-load-theory-applied-to-llms
+- chain-of-thought-prompting
+- world-model-in-llms
+- mental-simulation-in-llms
+prerequisites:
+- cognitive-science
+- dual-process-theory
+- chain-of-thought-prompting
+confidence: medium
+callouts:
+- type: definition
+  title: Dual-Process Theory Applied to LLMs
+  body: Dual-Process Theory Applied to LLMs is the application of Kahneman's System
+    1 / System 2 framework to language model behaviour — treating standard next-token
+    generation as a fast, intuitive, pattern-matching process (System 1 analogue)
+    and chain-of-thought or deliberative reasoning as a slower, resource-intensive,
+    step-by-step process (System 2 analogue). This framing suggests that prompts which
+    require careful reasoning should activate the System 2 mode through explicit instructions
+    ("think step by step", "before answering, reason through this carefully"), while
+    routine retrieval tasks can be handled through direct generation without reasoning
+    chains.
+- type: key-claim
+  title: Key claim about Dual-Process Theory Applied to LLMs
+  body: The dual-process framing predicts the well-documented empirical finding that
+    chain-of-thought prompting most benefits tasks that require deliberate multi-step
+    reasoning (mathematics, logical inference, planning) rather than tasks that benefit
+    from fast pattern retrieval (factual lookup, simple classification), supporting
+    the prescription to use reasoning-eliciting prompts selectively rather than universally.
+- type: warning
+  title: Common pitfall regarding Dual-Process Theory Applied to LLMs
+  body: The dual-process analogy is a useful heuristic but not a mechanistic model
+    — LLMs do not have distinct System 1 and System 2 circuits; the analogy maps onto
+    different prompting strategies and their effects, not onto internal model architecture,
+    and extrapolating the analogy too far (e.g., claiming LLMs have genuine reflective
+    awareness) leads to anthropomorphic mischaracterisations of model capabilities.

@@ -1,0 +1,49 @@
+concept: Reinforcement Learning from Human Feedback
+domain: ai-alignment
+secondary_domains:
+- machine-learning
+- llm-training
+- ai-safety
+aliases:
+- RLHF
+- RLHF training
+- human preference learning
+broader:
+- ai-alignment
+- reinforcement-learning
+narrower:
+- reward-model-design
+- direct-preference-optimization
+related:
+- reward-model-design
+- direct-preference-optimization
+- constitutional-ai-principles
+- preference-elicitation
+- proximal-policy-optimization
+prerequisites:
+- reinforcement-learning
+- large-language-models
+- fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Reinforcement Learning from Human Feedback
+  body: 'Reinforcement Learning from Human Feedback (RLHF) is a training paradigm
+    in which a language model is fine-tuned to maximise a reward signal derived from
+    human preferences. The process has three stages: supervised fine-tuning on demonstration
+    data; training a reward model on human comparisons between model outputs; and
+    optimising the language model with a policy-gradient algorithm (typically PPO)
+    against the reward model while applying a KL-divergence penalty to prevent the
+    policy from drifting too far from the supervised baseline.'
+- type: key-claim
+  title: Key claim about Reinforcement Learning from Human Feedback
+  body: RLHF is the dominant method that transformed base pretrained models into the
+    instruction-following, helpful, and harm-avoiding assistants deployed commercially,
+    because it aligns behaviour to the *distribution of human preferences* rather
+    than the narrow objective encoded in pretraining loss.
+- type: warning
+  title: Common pitfall regarding Reinforcement Learning from Human Feedback
+  body: 'RLHF introduces reward hacking: the policy optimises the proxy reward model
+    rather than true human preferences, so if the reward model is imperfect — which
+    it always is — the policy can diverge from intended behaviour in ways that score
+    well on the reward model but poorly in actual use.'

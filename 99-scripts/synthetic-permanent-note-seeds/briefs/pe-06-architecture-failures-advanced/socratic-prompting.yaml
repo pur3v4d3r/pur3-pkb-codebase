@@ -1,0 +1,45 @@
+concept: Socratic Prompting
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- educational-methods
+aliases:
+- Socratic method prompting
+- question-driven reasoning
+- elenctic prompting
+broader:
+- advanced-patterns
+- metacognitive-prompting
+related:
+- metacognitive-prompting
+- maieutic-prompting
+- chain-of-thought-prompting
+- self-ask-prompting
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Socratic Prompting
+  body: Socratic Prompting is a prompting strategy that structures model reasoning
+    as a series of guided questions and answers — either by having the model pose
+    and answer its own questions to work toward a solution, or by using a sequence
+    of increasingly focused questions to elicit the model's knowledge and expose gaps
+    in its reasoning — rather than directing the model to produce a direct answer.
+- type: key-claim
+  title: Key claim about Socratic Prompting
+  body: 'Socratic Prompting improves reasoning quality on complex problems by forcing
+    the model to explicitly justify each step through the question-answer structure:
+    the requirement to pose a question implies acknowledging uncertainty, and the
+    requirement to answer it implies seeking a basis for the claim, which together
+    impose a level of epistemic discipline that free-form reasoning chains do not
+    structurally require.'
+- type: warning
+  title: Common pitfall regarding Socratic Prompting
+  body: Socratic Prompting can degenerate into question-generation theatre when the
+    model generates superficially probing questions that do not actually challenge
+    its assumptions; if the questions are too aligned with the model's existing beliefs,
+    the Socratic dialogue becomes a performance of inquiry rather than a genuine challenge
+    to the model's reasoning, producing the appearance of rigorous self-questioning
+    without the substance of genuine critical scrutiny.

@@ -1,0 +1,40 @@
+concept: Interleaved Thinking Mode
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- model-design
+aliases:
+- interleaved reasoning
+- thinking-output interleaving
+broader:
+- extended-thinking-architecture
+related:
+- extended-thinking-architecture
+- thinking-tag-semantics
+- thinking-budget-allocation
+prerequisites:
+- extended-thinking-architecture
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Interleaved Thinking Mode
+  body: Interleaved Thinking Mode is a variant of extended thinking architecture in
+    which thinking blocks and response blocks alternate throughout the generation
+    — the model produces a thinking segment, emits a response segment, then produces
+    another thinking segment, and so on — rather than completing all thinking before
+    beginning the final response.
+- type: key-claim
+  title: Key claim about Interleaved Thinking Mode
+  body: Interleaved Thinking Mode enables the model to reason about parts of the response
+    that have already been written before generating subsequent parts, which is essential
+    for tasks like long-form structured document generation where later sections should
+    be conditioned on decisions made in earlier sections, a dependency that front-loaded
+    thinking cannot address.
+- type: warning
+  title: Common pitfall regarding Interleaved Thinking Mode
+  body: Interleaved Thinking Mode substantially complicates response rendering and
+    streaming in production systems; client-side code must distinguish thinking blocks
+    from response blocks in real time, and users who expect a clean progressive output
+    stream see thinking-tag artifacts unless the deployment layer strips or buffers
+    them, adding engineering complexity without guaranteed user experience improvement.

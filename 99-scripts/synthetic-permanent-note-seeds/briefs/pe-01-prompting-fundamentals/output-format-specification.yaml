@@ -1,0 +1,38 @@
+concept: Output Format Specification
+domain: prompt-engineering
+secondary_domains:
+- structured-output
+- llm-deployment
+aliases:
+- format specification
+- output structuring
+- output constraints
+broader:
+- prompting
+related:
+- prompt-formatting
+- instruction-following
+- system-prompt-design
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Output Format Specification
+  body: Output Format Specification is the practice of explicitly defining the structure,
+    schema, style, and boundaries of the model's expected response — including specifications
+    for JSON schema, markdown structure, response length, section headings, and enumeration
+    format — to make the output machine-parseable or directly embeddable in downstream
+    systems.
+- type: key-claim
+  title: Key claim about Output Format Specification
+  body: Output Format Specification is the highest-leverage intervention for deterministic
+    integration of LLM outputs into production pipelines; a model that reliably emits
+    structured output eliminates an entire class of downstream parsing failures, reducing
+    the application's fragility to the model's stylistic variance.
+- type: warning
+  title: Common pitfall regarding Output Format Specification
+  body: Output Format Specification degrades model helpfulness when the format constraint
+    conflicts with the natural expression of the content; forcing a complex analytical
+    conclusion into a rigid JSON schema can lead to information loss, truncation,
+    or syntactically valid but semantically impoverished responses.

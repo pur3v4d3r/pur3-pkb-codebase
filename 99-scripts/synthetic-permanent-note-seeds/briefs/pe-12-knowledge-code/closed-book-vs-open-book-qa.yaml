@@ -1,0 +1,50 @@
+concept: Closed-Book vs. Open-Book QA
+domain: knowledge-grounding
+secondary_domains:
+- question-answering
+- llm-evaluation
+- retrieval-augmented-generation
+aliases:
+- closed-book QA
+- open-book QA
+- with-context vs. without-context QA
+broader:
+- question-answering
+- knowledge-grounding
+related:
+- parametric-vs-contextual-knowledge
+- retrieval-augmented-generation
+- knowledge-conflict-resolution
+- grounded-generation
+prerequisites:
+- question-answering
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Closed-Book vs. Open-Book QA
+  body: 'The Closed-Book vs. Open-Book QA distinction describes two evaluation and
+    deployment paradigms for language model question answering: closed-book QA tests
+    the model''s parametric knowledge without providing any external documents or
+    retrieval, evaluating how well the model can answer questions from memory alone;
+    open-book QA provides relevant documents, retrieved passages, or other contextual
+    information and evaluates the model''s ability to extract and reason over that
+    information to produce accurate answers. The distinction maps closely to the parametric
+    vs. contextual knowledge distinction and has important implications for the failure
+    modes expected in each paradigm.'
+- type: key-claim
+  title: Key claim about Closed-Book vs. Open-Book QA
+  body: Open-book QA is generally more reliable for factual questions about specific
+    events, entities, or data, because it decouples answer accuracy from the model's
+    training data coverage and recency — but it introduces the additional challenges
+    of retrieval quality, context utilisation, and knowledge conflict resolution,
+    making it a more complex system with more potential failure points despite its
+    typically higher factual accuracy ceiling.
+- type: warning
+  title: Common pitfall regarding Closed-Book vs. Open-Book QA
+  body: Evaluating models only on closed-book QA benchmarks significantly overestimates
+    their performance on real-world factual questions — most production applications
+    implicitly or explicitly provide context, and models that perform well on closed-book
+    benchmarks may behave differently (better or worse) when context is available,
+    making open-book evaluation an essential complement to closed-book benchmarks
+    for production deployment decisions.

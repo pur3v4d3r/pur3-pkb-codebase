@@ -1,0 +1,51 @@
+concept: Parametric vs. Contextual Knowledge
+domain: knowledge-grounding
+secondary_domains:
+- llm-factuality
+- retrieval-augmented-generation
+- llm-architecture
+aliases:
+- parametric knowledge
+- in-weights knowledge
+- contextual knowledge
+- in-context knowledge
+broader:
+- knowledge-grounding
+- llm-factuality
+related:
+- knowledge-conflict-resolution
+- closed-book-vs-open-book-qa
+- grounded-generation
+- retrieval-augmented-generation
+prerequisites:
+- llm-architecture
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Parametric vs. Contextual Knowledge
+  body: 'The Parametric vs. Contextual Knowledge distinction categorises LLM knowledge
+    by its source: parametric knowledge refers to information encoded in the model''s
+    weights during training — the model "knows" this information intrinsically; contextual
+    knowledge refers to information provided in the input context at inference time
+    — the model accesses this information through attention rather than weight lookup.
+    The distinction matters because parametric knowledge is frozen at training time
+    (creating temporal staleness), while contextual knowledge is dynamic; parametric
+    knowledge is distributed across billions of parameters (making it hard to edit
+    or verify), while contextual knowledge is explicit and auditable; and the two
+    sources can conflict.'
+- type: key-claim
+  title: Key claim about Parametric vs. Contextual Knowledge
+  body: Distinguishing between parametric and contextual knowledge is essential for
+    diagnosing LLM factual failures — many hallucinations are parametric knowledge
+    failures (the model states outdated or incorrect training-time information), while
+    others are contextual knowledge failures (the model ignores or misinterprets provided
+    context), and these failure modes require different remediation strategies (fine-tuning
+    for parametric, prompting for contextual).
+- type: warning
+  title: Common pitfall regarding Parametric vs. Contextual Knowledge
+  body: LLMs do not reliably signal which type of knowledge they are using when making
+    a claim — a model may present parametric knowledge with the same confident phrasing
+    as contextual knowledge, or may blend the two in a single claim, making it difficult
+    for users or downstream systems to distinguish model-memorised from context-derived
+    information without explicit prompting to cite sources.

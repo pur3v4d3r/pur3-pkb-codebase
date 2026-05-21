@@ -1,0 +1,45 @@
+concept: Evolutionary Prompt Optimization
+domain: prompt-engineering
+secondary_domains:
+- evolutionary-algorithms
+- meta-learning
+aliases:
+- genetic prompt search
+- evolutionary prompt search
+- EvoPrompt
+broader:
+- gradient-free-prompt-optimization
+- automatic-prompt-engineering
+related:
+- gradient-free-prompt-optimization
+- automatic-prompt-engineering
+- prompt-paraphrasing
+- dspy-framework
+prerequisites:
+- automatic-prompt-engineering
+- gradient-free-prompt-optimization
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Evolutionary Prompt Optimization
+  body: Evolutionary Prompt Optimization applies evolutionary algorithm principles
+    — selection, crossover, and mutation — to the search for optimal prompt templates,
+    maintaining a population of candidate prompts that are evaluated on a fitness
+    function (task performance), recombined, and mutated across generations to progressively
+    discover higher-performing prompt formulations.
+- type: key-claim
+  title: Key claim about Evolutionary Prompt Optimization
+  body: Evolutionary Prompt Optimization handles non-convex, discontinuous prompt
+    fitness landscapes more effectively than greedy hill-climbing because the population-based
+    search maintains diversity and can escape local optima through crossover operations
+    that combine beneficial features from multiple independently-developed candidate
+    prompts — a qualitative advantage that greedy methods cannot replicate by construction.
+- type: warning
+  title: Common pitfall regarding Evolutionary Prompt Optimization
+  body: Evolutionary Prompt Optimization has high computational cost because evaluating
+    each member of a population requires forward passes on a validation set across
+    potentially hundreds of generations; the total evaluation budget can reach thousands
+    of model calls, making it cost-prohibitive for large models or large validation
+    sets, and practitioners must carefully balance population size against the number
+    of generations to stay within budget.

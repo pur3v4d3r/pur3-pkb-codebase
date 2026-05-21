@@ -1,0 +1,50 @@
+concept: Speculative Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-inference-optimisation
+- llm-decoding
+aliases:
+- speculative decoding
+- draft-then-verify
+- assisted decoding
+broader:
+- llm-decoding
+- inference-optimisation
+related:
+- beam-search-decoding
+- temperature-sampling
+- llm-inference-optimisation
+- best-of-n-sampling
+prerequisites:
+- llm-decoding
+- inference-optimisation
+confidence: high
+callouts:
+- type: definition
+  title: Speculative Sampling
+  body: Speculative Sampling (also called speculative decoding) is an inference acceleration
+    technique that uses a small, fast draft model to propose a sequence of K candidate
+    tokens, and then uses the large target model to evaluate all K tokens in a single
+    parallel forward pass, accepting or rejecting each proposed token based on whether
+    the target model's probability for that token exceeds the draft model's probability.
+    Accepted tokens are kept; the first rejected token is resampled from the target
+    distribution. Because transformer forward passes are often compute-bounded rather
+    than bandwidth-bounded for small batch sizes, the parallel verification of K tokens
+    is not much more expensive than verifying 1 token, while producing K tokens' worth
+    of output.
+- type: key-claim
+  title: Key claim about Speculative Sampling
+  body: Speculative sampling provides 2–4× inference speedup with zero degradation
+    in output quality — the key insight is that if the draft model's proposals are
+    accepted, the target model's verification step is essentially free relative to
+    generating K tokens sequentially, making speculative sampling practically appealing
+    for latency-sensitive deployments without compromising the integrity of the target
+    model's distribution.
+- type: warning
+  title: Common pitfall regarding Speculative Sampling
+  body: Speculative sampling's speedup depends on the draft model's acceptance rate
+    — if the draft model's distribution diverges significantly from the target model's
+    distribution, most tokens will be rejected, negating the speedup, so the choice
+    of draft model (typically a 7B model drafting for a 70B target) requires careful
+    alignment of training data and instruction-tuning distributions to maintain a
+    high acceptance rate.

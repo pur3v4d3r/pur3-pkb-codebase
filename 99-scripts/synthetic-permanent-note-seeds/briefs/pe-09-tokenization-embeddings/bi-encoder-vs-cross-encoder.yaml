@@ -1,0 +1,51 @@
+concept: Bi-Encoder vs Cross-Encoder
+domain: embeddings-and-semantic-space
+secondary_domains:
+- information-retrieval
+- natural-language-processing
+- semantic-search
+aliases:
+- dual encoder vs cross encoder
+- bi-encoder architecture
+- cross-encoder reranking
+broader:
+- text-embedding-models
+- information-retrieval
+related:
+- sentence-transformers
+- text-embedding-models
+- dense-passage-retrieval
+- cosine-similarity-retrieval
+prerequisites:
+- transformer-attention-mechanism
+- text-embedding-models
+- sentence-transformers
+confidence: high
+callouts:
+- type: definition
+  title: Bi-Encoder vs Cross-Encoder
+  body: The Bi-Encoder vs Cross-Encoder distinction describes two architectural approaches
+    to computing relevance between a query and a document. A bi-encoder encodes query
+    and document independently into separate embeddings and computes their similarity
+    using a lightweight function (typically cosine similarity); it is efficient because
+    document embeddings can be pre-computed and indexed. A cross-encoder encodes the
+    concatenated (query, document) pair in a single forward pass, allowing full attention
+    between query and document tokens; it is more accurate because it models their
+    interaction directly but is too slow for first-stage retrieval over large corpora.
+    In production systems, bi-encoders are used for retrieval and cross-encoders for
+    re-ranking.
+- type: key-claim
+  title: Key claim about Bi-Encoder vs Cross-Encoder
+  body: 'The bi-encoder/cross-encoder hybrid architecture — retrieve with bi-encoder,
+    rerank with cross-encoder — is the standard production pattern for neural retrieval
+    because it optimally separates the tasks that each architecture is suited for:
+    bi-encoders provide the scalability needed to search millions of documents, while
+    cross-encoders provide the precision needed to order the top candidates after
+    the search space has been narrowed.'
+- type: warning
+  title: Common pitfall regarding Bi-Encoder vs Cross-Encoder
+  body: The quality gap between bi-encoder and cross-encoder relevance scoring is
+    substantial for queries that require understanding fine-grained semantic dependencies
+    between query and document — for such queries, using a bi-encoder without reranking
+    significantly degrades precision, and the number of candidates passed to the cross-encoder
+    (the "top-k") is a critical hyperparameter that trades off quality against latency.

@@ -1,0 +1,44 @@
+concept: Least-to-Most Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- decomposition
+aliases:
+- L2M prompting
+- least-to-most
+- compositional generalisation prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- decomposed-prompting
+- chain-of-thought-prompting
+- analogical-prompting
+- skeleton-of-thought
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Least-to-Most Prompting
+  body: Least-to-Most Prompting is a two-stage decomposition strategy in which the
+    model first breaks a complex problem into an ordered sequence of progressively
+    more complex subproblems, then solves them from simplest to most complex, using
+    each solved subproblem as context for the next — ensuring that each step has full
+    access to the conclusions that it depends on.
+- type: key-claim
+  title: Key claim about Least-to-Most Prompting
+  body: Least-to-Most Prompting achieves compositional generalisation by making the
+    dependency structure of the problem explicit in the solving order; by ensuring
+    that each step can condition on all previously solved steps, it enables models
+    to solve problems that require more reasoning steps than appeared in their training
+    examples, overcoming a key limitation of standard few-shot chain-of-thought.
+- type: warning
+  title: Common pitfall regarding Least-to-Most Prompting
+  body: Least-to-Most Prompting requires correct problem decomposition in the first
+    stage; if the initial breakdown is wrong (either by ordering steps incorrectly
+    or by omitting a necessary intermediate), the second stage will solve the wrong
+    sequence of subproblems and arrive at a confident but flawed answer, with the
+    structured presentation giving the appearance of rigour to an internally inconsistent
+    reasoning chain.

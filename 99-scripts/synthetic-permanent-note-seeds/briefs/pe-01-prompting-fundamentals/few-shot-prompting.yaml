@@ -1,0 +1,41 @@
+concept: Few-Shot Prompting
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- natural-language-processing
+aliases:
+- few-shot in-context learning
+- few-shot ICL
+broader:
+- in-context-learning
+- prompting
+narrower:
+- one-shot-prompting
+related:
+- zero-shot-prompting
+- chain-of-thought-prompting
+- demonstration-diversity
+prerequisites:
+- large-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: Few-Shot Prompting
+  body: Few-Shot Prompting is the practice of prepending a small number of worked
+    input–output examples to a prompt so that the model can infer the expected task
+    format, output style, and reasoning pattern from the demonstrations rather than
+    from the task description alone. The examples act as a transient, prompt-level
+    specification of the desired behaviour.
+- type: key-claim
+  title: Key claim about Few-Shot Prompting
+  body: Few-Shot Prompting shifts task specification from natural-language description
+    — which is inherently ambiguous — to ostensive demonstration, and empirical evidence
+    consistently shows that even two or three high-quality examples outperform elaborate
+    zero-shot instructions on format-sensitive tasks.
+- type: warning
+  title: Common pitfall regarding Few-Shot Prompting
+  body: Few-Shot Prompting is sensitive to the ordering and surface features of the
+    examples; models can pick up on spurious correlations in the demo set (e.g., all
+    correct outputs having a particular length or lexical pattern), leading to brittle
+    behaviour that appears excellent in development and fails silently at deployment.

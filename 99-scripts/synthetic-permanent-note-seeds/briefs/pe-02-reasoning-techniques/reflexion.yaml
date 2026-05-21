@@ -1,0 +1,42 @@
+concept: Reflexion
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- agent-frameworks
+aliases:
+- reflexion prompting
+- verbal reinforcement learning
+broader:
+- reasoning-techniques
+- agentic-frameworks
+related:
+- self-refine
+- chain-of-verification
+- reflexion-agent-architecture
+- reflexion-based-prompt-refinement
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Reflexion
+  body: Reflexion is a framework in which an LLM agent improves its performance on
+    a task over multiple trials by generating a verbal self-reflection on the previous
+    trial's failure modes and storing that reflection as a persistent memory that
+    conditions the next attempt, effectively implementing a verbal analogue of reinforcement
+    learning without gradient updates.
+- type: key-claim
+  title: Key claim about Reflexion
+  body: Reflexion demonstrates that language models can perform policy improvement
+    purely through natural language self-critique, bypassing the need for numerical
+    reward signals or parameter updates; the stored verbal reflection acts as a working
+    memory that prevents the agent from repeating the same failure mode in subsequent
+    attempts.
+- type: warning
+  title: Common pitfall regarding Reflexion
+  body: Reflexion is bounded by the model's capacity for accurate self-diagnosis;
+    if the model cannot correctly identify why it failed (a common limitation when
+    failures are caused by knowledge gaps rather than reasoning errors), the generated
+    reflection is inaccurate and may encode the wrong lesson, leading to persistent
+    misalignment between the reflection and the actual failure mode.

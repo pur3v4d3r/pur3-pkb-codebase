@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Chain-of-Thought Prompting",
+    "slug": "chain-of-thought-prompting",
+    "report_stem": "chain-of-thought-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\chain-of-thought-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Delimiters and Separators",
+    "slug": "delimiters-and-separators",
+    "report_stem": "delimiters-and-separators-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\delimiters-and-separators.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Few-Shot Prompting",
+    "slug": "few-shot-prompting",
+    "report_stem": "few-shot-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\few-shot-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Instruction Following",
+    "slug": "instruction-following",
+    "report_stem": "instruction-following-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\instruction-following.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Negative Prompting",
+    "slug": "negative-prompting",
+    "report_stem": "negative-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\negative-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "One-Shot Prompting",
+    "slug": "one-shot-prompting",
+    "report_stem": "one-shot-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\one-shot-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Output Format Specification",
+    "slug": "output-format-specification",
+    "report_stem": "output-format-specification-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\output-format-specification.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Persona Assignment",
+    "slug": "persona-assignment",
+    "report_stem": "persona-assignment-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\persona-assignment.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Positive Framing in Prompts",
+    "slug": "positive-framing-in-prompts",
+    "report_stem": "positive-framing-in-prompts-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\positive-framing-in-prompts.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Prompt Clarity Principles",
+    "slug": "prompt-clarity-principles",
+    "report_stem": "prompt-clarity-principles-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\prompt-clarity-principles.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Prompt Formatting",
+    "slug": "prompt-formatting",
+    "report_stem": "prompt-formatting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\prompt-formatting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Role Prompting",
+    "slug": "role-prompting",
+    "report_stem": "role-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\role-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Step-Back Prompting",
+    "slug": "step-back-prompting",
+    "report_stem": "step-back-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\step-back-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "System Prompt Design",
+    "slug": "system-prompt-design",
+    "report_stem": "system-prompt-design-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\system-prompt-design.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Zero-Shot Prompting",
+    "slug": "zero-shot-prompting",
+    "report_stem": "zero-shot-prompting-synthetic-seed-2026-05-20",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\zero-shot-prompting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

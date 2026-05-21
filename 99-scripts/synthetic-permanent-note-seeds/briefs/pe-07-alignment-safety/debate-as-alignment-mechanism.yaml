@@ -1,0 +1,45 @@
+concept: Debate as Alignment Mechanism
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-alignment
+- game-theory
+aliases:
+- AI debate
+- debate alignment
+- adversarial debate for truth-finding
+broader:
+- scalable-oversight
+- ai-alignment
+related:
+- scalable-oversight
+- iterated-amplification
+- red-teaming-llms
+- multi-agent-debate
+prerequisites:
+- scalable-oversight
+- ai-alignment
+confidence: high
+callouts:
+- type: definition
+  title: Debate as Alignment Mechanism
+  body: Debate as an Alignment Mechanism is a proposed scalable oversight method in
+    which two AI agents argue opposite sides of a question, with a human (or weaker
+    AI) acting as judge. The key insight is that it is easier to recognise a good
+    argument than to generate one, so even a human judge less capable than the debating
+    agents should be able to identify flaws in reasoning when an adversary is actively
+    pointing them out. An honest agent that knows the truth should have a systematic
+    advantage over a deceptive agent, because the deceptive agent must eventually
+    make claims the honest agent can refute.
+- type: key-claim
+  title: Key claim about Debate as Alignment Mechanism
+  body: 'Debate exploits the asymmetry between the difficulty of generating and checking
+    arguments: under idealised conditions, a weak judge can reliably identify truth
+    when two stronger agents compete to expose each other''s falsehoods, making it
+    potentially applicable to tasks far beyond human competence.'
+- type: warning
+  title: Common pitfall regarding Debate as Alignment Mechanism
+  body: Empirical results on debate are mixed — in practice, judges are susceptible
+    to persuasion by confident but incorrect arguments, leading agents to learn rhetorical
+    dominance rather than honesty, which means the mechanism is only as robust as
+    the judge's resistance to sophisticated sophistry.

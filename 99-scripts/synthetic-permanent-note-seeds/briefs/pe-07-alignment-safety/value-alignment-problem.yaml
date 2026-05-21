@@ -1,0 +1,53 @@
+concept: Value Alignment Problem
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-ethics
+- philosophy-of-mind
+aliases:
+- alignment problem
+- AI values problem
+- the alignment challenge
+broader:
+- ai-alignment
+narrower:
+- corrigibility
+- preference-elicitation
+- constitutional-ai-principles
+- reinforcement-learning-from-human-feedback
+related:
+- corrigibility
+- preference-elicitation
+- scalable-oversight
+- deceptive-alignment
+- reward-hacking
+prerequisites:
+- artificial-intelligence
+- utility-theory
+confidence: high
+callouts:
+- type: definition
+  title: Value Alignment Problem
+  body: 'The Value Alignment Problem is the fundamental challenge of ensuring that
+    an AI system''s goals, objectives, and behaviour reliably correspond to the values,
+    intentions, and preferences of the humans it is designed to serve — and to humanity
+    broadly. The problem has two dimensions: the specification problem (how to formally
+    represent human values in a way that can be optimised) and the generalisation
+    problem (how to ensure that learned values transfer to novel situations rather
+    than being satisfied through unintended means). It is exacerbated by the difficulty
+    of fully articulating human values, the inconsistency of stated versus revealed
+    preferences, and the potential for capable systems to find unexpected ways to
+    maximise proxy objectives.'
+- type: key-claim
+  title: Key claim about Value Alignment Problem
+  body: The value alignment problem is not merely a technical challenge of reward
+    specification but a philosophical problem about the nature of human values — since
+    human values are contextual, dynamic, and often contradictory, any static formal
+    representation will be an approximation that can be exploited by sufficiently
+    capable optimisers.
+- type: warning
+  title: Common pitfall regarding Value Alignment Problem
+  body: Addressing the value alignment problem is not the same as solving AI safety
+    — a perfectly value-aligned system could still cause harm if the values being
+    aligned to are themselves morally problematic, meaning alignment and ethics are
+    distinct but deeply intertwined challenges.

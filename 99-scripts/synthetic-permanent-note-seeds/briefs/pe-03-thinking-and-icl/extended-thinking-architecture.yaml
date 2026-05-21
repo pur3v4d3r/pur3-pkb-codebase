@@ -1,0 +1,46 @@
+concept: Extended Thinking Architecture
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- cognitive-architecture
+aliases:
+- thinking mode
+- extended reasoning mode
+- scratch-pad reasoning
+broader:
+- reasoning-techniques
+narrower:
+- thinking-tag-semantics
+- interleaved-thinking-mode
+- thinking-budget-allocation
+related:
+- chain-of-thought-prompting
+- thinking-tag-semantics
+- latent-reasoning-space
+- thinking-budget-allocation
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Extended Thinking Architecture
+  body: Extended Thinking Architecture is a model-level design in which the LLM is
+    trained and prompted to produce an explicit internal reasoning trace — typically
+    enclosed in special-purpose tags — before emitting the final user-visible response,
+    giving the model a dedicated computational space for multi-step planning, hypothesis
+    generation, and self-correction that is separate from the output token stream.
+- type: key-claim
+  title: Key claim about Extended Thinking Architecture
+  body: Extended Thinking Architecture separates the model's computational process
+    from its communication process; the thinking trace can contain exploratory, tentative,
+    or contradicted reasoning that would be inappropriate in a polished final response,
+    meaning the architecture enables harder problems to be solved without burdening
+    the output with the scaffolding required to reach the solution.
+- type: warning
+  title: Common pitfall regarding Extended Thinking Architecture
+  body: Extended Thinking Architecture incurs real inference costs proportional to
+    the length of the thinking trace; thinking tokens consume context budget and add
+    latency, and the benefit of extended thinking is not uniform across all task types
+    — simple factual retrievals or format-transformation tasks rarely benefit and
+    may be degraded by the overhead of mandatory reasoning scaffolding.

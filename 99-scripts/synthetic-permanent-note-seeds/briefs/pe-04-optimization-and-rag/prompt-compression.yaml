@@ -1,0 +1,47 @@
+concept: Prompt Compression
+domain: prompt-engineering
+secondary_domains:
+- inference-efficiency
+- nlp-systems
+aliases:
+- context compression
+- prompt distillation
+- prompt pruning
+broader:
+- token-budget-management
+- prompt-optimization
+related:
+- token-budget-management
+- context-window-management
+- prompt-paraphrasing
+- kv-cache-mechanics
+prerequisites:
+- large-language-models
+- context-window-management
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Compression
+  body: Prompt Compression is the set of techniques that reduce the token length of
+    a prompt while preserving the task-relevant information it contains, including
+    methods such as extractive summarisation of retrieved documents, learned compression
+    networks that encode long contexts into shorter token sequences, and LLM-based
+    distillation that rewrites verbose instructions into semantically equivalent but
+    more concise forms.
+- type: key-claim
+  title: Key claim about Prompt Compression
+  body: Prompt Compression directly reduces inference cost and latency for long-context
+    tasks; because transformer attention scales quadratically with sequence length,
+    halving the prompt length can reduce attention computation by approximately 75%,
+    and empirical results show that aggressive compression (retaining only 10–30%
+    of tokens) incurs surprisingly small performance penalties on downstream tasks
+    when the compression preserves the information most predictive of the correct
+    output.
+- type: warning
+  title: Common pitfall regarding Prompt Compression
+  body: Prompt Compression optimised for token reduction can inadvertently remove
+    context that is not obviously task-relevant but is critical for edge-case handling;
+    compression models trained on average-case performance profiles may systematically
+    discard information that matters for the long tail of inputs, leading to selectively
+    degraded performance on atypical queries that are precisely the cases where robust
+    handling matters most.

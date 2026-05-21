@@ -1,0 +1,49 @@
+concept: Reward Model Design
+domain: ai-alignment
+secondary_domains:
+- llm-training
+- ai-alignment
+- machine-learning
+aliases:
+- reward modelling
+- preference model
+- RM training
+broader:
+- reinforcement-learning-from-human-feedback
+- ai-alignment
+narrower:
+- process-reward-models
+- outcome-reward-models
+related:
+- reinforcement-learning-from-human-feedback
+- direct-preference-optimization
+- process-reward-models
+- outcome-reward-models
+- reward-hacking
+prerequisites:
+- supervised-fine-tuning
+- human-preference-datasets
+confidence: high
+callouts:
+- type: definition
+  title: Reward Model Design
+  body: Reward Model Design refers to the principles and engineering decisions involved
+    in building a model that scores language model outputs according to human preferences,
+    serving as a proxy for human judgement during RL fine-tuning. A reward model is
+    typically initialised from the same pretrained checkpoint as the policy, then
+    fine-tuned on a dataset of human comparison pairs to output a scalar reward that
+    ranks completions. Key design decisions include the model architecture and size,
+    the comparison format (pairwise vs. ranked), the labelling protocol, and the regularisation
+    strategy to prevent overfit to labeller idiosyncrasies.
+- type: key-claim
+  title: Key claim about Reward Model Design
+  body: The quality of the reward model is the single largest bottleneck in RLHF pipelines
+    — an overfit or biased reward model will be exploited by the policy during optimisation,
+    producing reward hacking rather than genuine alignment.
+- type: warning
+  title: Common pitfall regarding Reward Model Design
+  body: Reward models generalise poorly to out-of-distribution outputs; as the RL
+    policy diverges from the SFT baseline, the reward model increasingly operates
+    on examples unlike its training data, and its scores become unreliable — a core
+    motivation for KL penalties and for process reward models that supervise intermediate
+    steps.

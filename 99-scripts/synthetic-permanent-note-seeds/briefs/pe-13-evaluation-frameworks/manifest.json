@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-13-evaluation-frameworks",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-13-evaluation-frameworks.md",
+    "notes": "Ten concepts covering the frameworks, benchmarks, and methodologies used to\nevaluate large language models. The batch spans three layers of evaluation:\nstandardised external benchmarks (lm-evaluation-harness, big-bench,\nhelm, mt-bench), arena-based comparative evaluation (arena-elo-rating),\nmodel-as-judge approaches (self-evaluation-prompting, llm-judge-calibration),\nand reward signal quality for RL-based training (process-reward-models,\noutcome-reward-models, human-preference-datasets). Together these represent\nthe full landscape of how model quality is currently measured and the\nongoing challenges of reliable, valid, and generalizable LLM evaluation."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-13-evaluation-frameworks",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-13-evaluation-frameworks"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "LM Evaluation Harness",
+      "kebab": "lm-evaluation-harness",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/lm-evaluation-harness.yaml",
+      "expected_seed_filename": "lm-evaluation-harness-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "BIG-Bench Benchmark",
+      "kebab": "big-bench-benchmark",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/big-bench-benchmark.yaml",
+      "expected_seed_filename": "big-bench-benchmark-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "HELM Holistic Evaluation",
+      "kebab": "helm-holistic-evaluation",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/helm-holistic-evaluation.yaml",
+      "expected_seed_filename": "helm-holistic-evaluation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "MT-Bench",
+      "kebab": "mt-bench",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/mt-bench.yaml",
+      "expected_seed_filename": "mt-bench-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Arena ELO Rating",
+      "kebab": "arena-elo-rating",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/arena-elo-rating.yaml",
+      "expected_seed_filename": "arena-elo-rating-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Evaluation Prompting",
+      "kebab": "self-evaluation-prompting",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/self-evaluation-prompting.yaml",
+      "expected_seed_filename": "self-evaluation-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "LLM Judge Calibration",
+      "kebab": "llm-judge-calibration",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/llm-judge-calibration.yaml",
+      "expected_seed_filename": "llm-judge-calibration-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Process Reward Models",
+      "kebab": "process-reward-models",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/process-reward-models.yaml",
+      "expected_seed_filename": "process-reward-models-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Outcome Reward Models",
+      "kebab": "outcome-reward-models",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/outcome-reward-models.yaml",
+      "expected_seed_filename": "outcome-reward-models-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Human Preference Datasets",
+      "kebab": "human-preference-datasets",
+      "brief_path": "briefs/pe-13-evaluation-frameworks/human-preference-datasets.yaml",
+      "expected_seed_filename": "human-preference-datasets-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

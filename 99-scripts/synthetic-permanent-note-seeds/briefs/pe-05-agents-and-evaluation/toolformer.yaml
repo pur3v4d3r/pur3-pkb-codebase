@@ -1,0 +1,47 @@
+concept: Toolformer
+domain: prompt-engineering
+secondary_domains:
+- tool-use
+- self-supervised-learning
+aliases:
+- Toolformer model
+- tool-using LLM
+broader:
+- tool-use-in-llms
+- agentic-frameworks
+related:
+- tool-use-in-llms
+- function-calling
+- react-reasoning-acting
+- agentic-frameworks
+prerequisites:
+- large-language-models
+- fine-tuning
+- tool-use-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: Toolformer
+  body: 'Toolformer is a method for training language models to use external tools
+    — such as calculators, search engines, calendars, and translation systems — by
+    having the model self-supervise its own tool-use training data: the model generates
+    candidate tool call insertions in text, evaluates whether the tool output improves
+    perplexity on the subsequent tokens, and retains only beneficial tool calls, creating
+    a self-curated dataset for tool-use fine-tuning.'
+- type: key-claim
+  title: Key claim about Toolformer
+  body: 'Toolformer demonstrates that tool-use capability can be bootstrapped from
+    a small number of few-shot tool-use examples without massive human annotation:
+    the self-supervised filtering mechanism leverages the model''s own language modelling
+    objective to determine which tool calls are genuinely useful, producing high-quality
+    tool-use training data at scale that enables the model to learn when — and when
+    not — to invoke each tool.'
+- type: warning
+  title: Common pitfall regarding Toolformer
+  body: Toolformer's self-supervised data generation is biased toward tool calls that
+    reduce perplexity on the immediately following text, which may not align with
+    tool calls that improve final task accuracy; a tool call that retrieves slightly
+    tangential information may reduce perplexity on the next tokens (because it introduces
+    domain vocabulary) while actually degrading the quality of the final answer, meaning
+    the self-supervised signal selects for locally plausible rather than globally
+    useful tool use.

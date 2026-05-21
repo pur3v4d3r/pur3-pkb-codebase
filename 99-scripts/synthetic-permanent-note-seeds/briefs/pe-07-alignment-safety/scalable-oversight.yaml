@@ -1,0 +1,49 @@
+concept: Scalable Oversight
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-alignment
+aliases:
+- scalable human oversight
+- oversight scalability
+broader:
+- ai-alignment
+- corrigibility
+narrower:
+- debate-as-alignment-mechanism
+- iterated-amplification
+related:
+- debate-as-alignment-mechanism
+- iterated-amplification
+- superalignment
+- corrigibility
+- reinforcement-learning-from-human-feedback
+prerequisites:
+- ai-alignment
+- value-alignment-problem
+confidence: high
+callouts:
+- type: definition
+  title: Scalable Oversight
+  body: Scalable Oversight is the research programme concerned with maintaining meaningful
+    human oversight and control over AI systems as those systems become more capable
+    than humans in specific domains. The core problem is that conventional alignment
+    approaches — where humans directly evaluate AI outputs — break down when the AI
+    can produce outputs that are too complex, voluminous, or opaque for humans to
+    reliably assess. Scalable oversight techniques attempt to amplify human evaluative
+    capacity, typically by using AI assistance to help humans judge AI outputs, by
+    decomposing complex tasks into sub-tasks humans can evaluate, or by creating adversarial
+    settings where AI disagreement surfaces errors.
+- type: key-claim
+  title: Key claim about Scalable Oversight
+  body: Scalable oversight is a necessary component of any long-term alignment strategy
+    because as AI systems improve, the assumption that humans can directly verify
+    AI behaviour becomes untenable — without mechanisms to extend oversight beyond
+    human-competent domains, alignment guarantees erode precisely where they are most
+    needed.
+- type: warning
+  title: Common pitfall regarding Scalable Oversight
+  body: Many scalable oversight proposals assume that AI assistance used to amplify
+    human oversight will itself remain aligned during the amplification process —
+    this circularity is a deep unsolved problem, and proposals that rely on AI-assisted
+    oversight can fail if the assisting AI is already misaligned.

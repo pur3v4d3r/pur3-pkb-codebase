@@ -1,0 +1,48 @@
+concept: Continual Learning LLMs
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- llm-training
+aliases:
+- lifelong learning
+- sequential learning
+- online learning for LLMs
+broader:
+- machine-learning
+- fine-tuning
+related:
+- catastrophic-forgetting-in-llms
+- parameter-efficient-fine-tuning
+- domain-adaptation-llms
+- elastic-weight-consolidation
+- knowledge-distillation
+prerequisites:
+- fine-tuning
+- catastrophic-forgetting-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: Continual Learning LLMs
+  body: Continual Learning for LLMs is the research area concerned with enabling language
+    models to acquire new knowledge and skills sequentially — without forgetting previously
+    learned capabilities and without access to all historical training data simultaneously.
+    The challenge is that standard stochastic gradient descent optimises for the current
+    batch, causing catastrophic forgetting of earlier knowledge. Continual learning
+    methods include regularisation approaches (preventing important weights from changing),
+    architectural approaches (expanding capacity for new knowledge), and replay approaches
+    (maintaining a buffer of past data or generated exemplars to interleave with new
+    training).
+- type: key-claim
+  title: Key claim about Continual Learning LLMs
+  body: Continual learning is essential for deploying language models in dynamic real-world
+    environments where knowledge, norms, and user requirements evolve — a model that
+    can only be updated by full retraining is impractical at scale, so continual learning
+    methods that enable targeted knowledge updates are a prerequisite for sustainable
+    long-term deployment.
+- type: warning
+  title: Common pitfall regarding Continual Learning LLMs
+  body: Continual learning methods that use a replay buffer — storing past training
+    examples to prevent forgetting — raise privacy and copyright concerns, especially
+    in domains where training data is sensitive, making the choice between replay
+    and regularisation approaches partly a legal and ethical decision rather than
+    purely a technical one.

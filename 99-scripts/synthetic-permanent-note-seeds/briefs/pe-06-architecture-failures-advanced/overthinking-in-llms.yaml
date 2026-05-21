@@ -1,0 +1,48 @@
+concept: Overthinking in LLMs
+domain: prompt-engineering
+secondary_domains:
+- model-behaviour
+- reasoning
+aliases:
+- LLM overthinking
+- excessive reasoning
+- inefficient chain-of-thought
+broader:
+- failure-modes
+- extended-thinking-architecture
+related:
+- extended-thinking-architecture
+- thinking-budget-allocation
+- chain-of-thought-prompting
+- cognitive-asymmetry-in-llms
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+- extended-thinking-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Overthinking in LLMs
+  body: Overthinking in LLMs is the failure mode in which a model generates excessively
+    long, repetitive, or circuitous reasoning traces that consume thinking budget
+    without improving answer quality — and in some cases degrade it — by introducing
+    late-stage confusion, contradicting earlier correct conclusions, or failing to
+    commit to an answer after reaching a valid solution.
+- type: key-claim
+  title: Key claim about Overthinking in LLMs
+  body: Overthinking in LLMs reveals that longer reasoning traces are not monotonically
+    better; there exists a task-specific optimal reasoning length beyond which additional
+    reasoning steps introduce noise rather than signal, and models trained to use
+    large thinking budgets can overshoot this optimum by generating reasoning content
+    to fill the budget rather than stopping when the reasoning task is complete —
+    a training artefact that requires explicit mitigation through budget calibration
+    or early-stopping signals.
+- type: warning
+  title: Common pitfall regarding Overthinking in LLMs
+  body: Overthinking in LLMs is particularly problematic when the additional reasoning
+    steps introduce self-doubt about previously correct conclusions; empirical observations
+    show cases where models arrive at the correct answer early in a reasoning trace,
+    then reason themselves out of it through unnecessary elaboration, producing a
+    final answer that is worse than if the model had stopped at the first correct
+    conclusion — a failure mode that is invisible without inspecting the full reasoning
+    trace.

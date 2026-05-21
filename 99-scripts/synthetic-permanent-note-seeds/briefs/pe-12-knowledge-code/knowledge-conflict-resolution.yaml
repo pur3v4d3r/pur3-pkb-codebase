@@ -1,0 +1,50 @@
+concept: Knowledge Conflict Resolution
+domain: knowledge-grounding
+secondary_domains:
+- retrieval-augmented-generation
+- llm-factuality
+- prompt-engineering
+aliases:
+- knowledge conflict handling
+- source conflict resolution
+- parametric-contextual conflict
+broader:
+- knowledge-grounding
+- retrieval-augmented-generation
+related:
+- parametric-vs-contextual-knowledge
+- closed-book-vs-open-book-qa
+- grounded-generation
+- fact-verification-prompting
+prerequisites:
+- retrieval-augmented-generation
+- parametric-vs-contextual-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Conflict Resolution
+  body: Knowledge Conflict Resolution refers to the strategies for handling situations
+    in which the information retrieved from an external source conflicts with the
+    parametric knowledge encoded in a language model's weights — for example, when
+    a retrieved document states that X is the current CEO of a company but the model's
+    parametric knowledge reflects an outdated predecessor. Effective conflict resolution
+    prompting instructs the model to prioritise contextual (retrieved) information
+    over parametric knowledge for facts where recency matters, while recognising when
+    contextual information may itself be erroneous and should be flagged for human
+    review.
+- type: key-claim
+  title: Key claim about Knowledge Conflict Resolution
+  body: Knowledge conflicts between parametric and contextual sources are a fundamental
+    challenge in retrieval-augmented generation, not an edge case — given that parametric
+    knowledge encodes the state of the world at training time and contextual information
+    reflects a retrieval snapshot, any rapidly changing domain will produce frequent
+    conflicts, and the model's default behaviour (which varies by model) may not align
+    with the application's requirements for which source to trust.
+- type: warning
+  title: Common pitfall regarding Knowledge Conflict Resolution
+  body: Instructing models to always prioritise retrieved context over parametric
+    knowledge creates a vulnerability to retrieval poisoning — if an adversarial or
+    erroneous document is retrieved, the model will incorporate and propagate its
+    incorrect information rather than falling back to its (possibly more reliable)
+    parametric knowledge, making conflict resolution policy a security and reliability
+    consideration rather than purely an accuracy optimisation.

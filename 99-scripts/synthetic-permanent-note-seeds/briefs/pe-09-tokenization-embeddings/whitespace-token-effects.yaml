@@ -1,0 +1,48 @@
+concept: Whitespace Token Effects
+domain: nlp-tokenization
+secondary_domains:
+- prompt-engineering
+- llm-reliability
+- tokenization-artifacts
+aliases:
+- whitespace tokenization
+- leading whitespace effects
+- tokenizer whitespace sensitivity
+broader:
+- tokenization-artifacts
+- tokenizer-sensitivity
+related:
+- tokenization-artifacts
+- token-boundary-effects
+- tokenizer-sensitivity
+- byte-pair-encoding
+prerequisites:
+- byte-pair-encoding
+- tokenization-artifacts
+confidence: high
+callouts:
+- type: definition
+  title: Whitespace Token Effects
+  body: 'Whitespace Token Effects are a specific class of tokenization artifact caused
+    by the fact that most BPE-based tokenizers treat leading whitespace as part of
+    a token — a word preceded by a space tokenizes differently than the same word
+    at the start of a string or after a special token. This means that prompts with
+    subtle whitespace differences can produce different token sequences and different
+    model outputs. Common manifestations include: differences in model behaviour when
+    the user prompt has a leading space vs. no leading space; different tokenisations
+    of words appearing after punctuation vs. spaces; and inconsistencies in how code
+    models handle indentation.'
+- type: key-claim
+  title: Key claim about Whitespace Token Effects
+  body: Whitespace token effects create a hidden input-sensitivity that affects prompt
+    engineering reliability — prompts that appear visually identical but differ in
+    invisible whitespace characters can produce measurably different outputs, and
+    this sensitivity is especially pronounced for the first token after a system-prompt
+    boundary or role separator.
+- type: warning
+  title: Common pitfall regarding Whitespace Token Effects
+  body: Whitespace token effects are trivially exploitable as a prompt injection or
+    evaluation manipulation vector — an adversary who controls input text can manipulate
+    tokenisation to shift the model into a different behavioural regime by inserting
+    or removing whitespace characters at strategic positions, making whitespace normalisation
+    a necessary preprocessing step in security-sensitive deployments.

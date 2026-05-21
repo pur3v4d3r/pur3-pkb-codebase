@@ -1,0 +1,50 @@
+concept: Prompt Registry Management
+domain: production-deployment
+secondary_domains:
+- software-engineering
+- mlops
+- prompt-engineering
+aliases:
+- prompt registry
+- prompt store
+- prompt management system
+- prompt catalog
+broader:
+- production-deployment
+- prompt-engineering
+related:
+- prompt-versioning
+- prompt-regression-testing
+- a-b-testing-prompts
+- prompt-monitoring-and-alerting
+prerequisites:
+- prompt-engineering
+- software-engineering
+- mlops
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Registry Management
+  body: 'Prompt Registry Management refers to the practice of maintaining a centralised
+    repository — the prompt registry — that stores, versions, and governs all production
+    prompts used across an organisation or application. A prompt registry provides:
+    a single source of truth for prompt definitions, version history and rollback
+    capability, metadata (model version, evaluation metrics, deployment dates, owners),
+    access control and approval workflows for prompt changes, and search and discovery
+    for prompt reuse. The registry enables coordination across teams working with
+    multiple LLM-powered features and prevents prompt sprawl in which different teams
+    independently maintain overlapping prompts.'
+- type: key-claim
+  title: Key claim about Prompt Registry Management
+  body: Prompt registry management becomes essential at scale — organisations with
+    more than a few LLM-powered features quickly accumulate dozens or hundreds of
+    prompts across products and teams, and without a registry these prompts exist
+    as fragmented configuration strings in code repositories, databases, and documentation
+    files, making it impossible to audit, update, or reason about the organisation's
+    total prompt inventory.
+- type: warning
+  title: Common pitfall regarding Prompt Registry Management
+  body: Prompt registries create dependency management complexity — when a shared
+    base prompt is updated in the registry, all features that depend on it must be
+    re-evaluated and potentially updated, creating a dependency graph that must be
+    managed explicitly to prevent registry-wide regression from a single prompt change.

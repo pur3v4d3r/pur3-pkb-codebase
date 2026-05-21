@@ -1,0 +1,47 @@
+concept: System 2 Prompting
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- cognitive-science
+aliases:
+- System-2 prompting
+- deliberate reasoning prompting
+- slow-thinking prompting
+broader:
+- advanced-patterns
+- chain-of-thought-prompting
+related:
+- chain-of-thought-prompting
+- extended-thinking-architecture
+- metacognitive-prompting
+- cognitive-asymmetry-in-llms
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+- dual-process-theory
+confidence: high
+callouts:
+- type: definition
+  title: System 2 Prompting
+  body: System 2 Prompting refers to prompting strategies explicitly designed to engage
+    the language model's slower, more deliberate reasoning mode rather than its fast,
+    fluent, intuitive generation mode — using techniques such as explicit reasoning
+    instructions, mandatory pause-and-verify steps, multiple-hypothesis generation,
+    and adversarial self-questioning to resist the first-response bias of autoregressive
+    generation.
+- type: key-claim
+  title: Key claim about System 2 Prompting
+  body: 'System 2 Prompting draws on the cognitive-science dual-process framework
+    as a design heuristic: because LLMs trained on fluent human text have a strong
+    prior toward generating plausible-but-fast responses (analogous to System 1 thinking),
+    explicitly prompting for slower, more effortful reasoning (System 2) can override
+    this prior on tasks where System 1 generation characteristically errs — though
+    the analogy is heuristic rather than mechanistic.'
+- type: warning
+  title: Common pitfall regarding System 2 Prompting
+  body: System 2 Prompting's cognitive science analogy should not be over-literalised;
+    LLM generation does not have two distinct computational modes that cleanly correspond
+    to System 1 and System 2 thinking, and the prompting strategies grouped under
+    this label work through different and poorly understood mechanisms — meaning the
+    framework is useful for generating prompting ideas but unreliable as a precise
+    explanation of why the resulting prompts work.

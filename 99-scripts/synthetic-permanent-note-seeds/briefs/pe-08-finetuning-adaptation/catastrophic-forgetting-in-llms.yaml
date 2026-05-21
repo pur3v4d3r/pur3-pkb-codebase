@@ -1,0 +1,49 @@
+concept: Catastrophic Forgetting in LLMs
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- continual-learning
+- llm-training
+aliases:
+- catastrophic interference
+- catastrophic forgetting
+- neural network forgetting
+broader:
+- continual-learning-llms
+- fine-tuning
+related:
+- continual-learning-llms
+- parameter-efficient-fine-tuning
+- domain-adaptation-llms
+- elastic-weight-consolidation
+prerequisites:
+- fine-tuning
+- neural-networks
+- gradient-descent
+confidence: high
+callouts:
+- type: definition
+  title: Catastrophic Forgetting in LLMs
+  body: Catastrophic Forgetting in LLMs (also called catastrophic interference) is
+    the tendency of a neural network to abruptly lose performance on previously learned
+    tasks when it is trained on new data. In the context of language models, fine-tuning
+    on task-specific data causes the model's weights to be shifted in ways that degrade
+    its generalisation capabilities on the pretraining distribution and other tasks
+    — the model "forgets" what it knew before, because gradient updates that optimise
+    for the new task overwrite parameters that were critical for prior tasks. The
+    severity is proportional to the distance between the new task distribution and
+    the original training distribution.
+- type: key-claim
+  title: Key claim about Catastrophic Forgetting in LLMs
+  body: Catastrophic forgetting is the primary reason parameter-efficient fine-tuning
+    methods (which freeze most weights) and regularisation-based approaches have become
+    standard practice — full fine-tuning of large models on task data is dangerous
+    precisely because the model's general capabilities, which took enormous resources
+    to acquire, can be degraded rapidly by narrow supervision signals.
+- type: warning
+  title: Common pitfall regarding Catastrophic Forgetting in LLMs
+  body: Catastrophic forgetting does not always manifest as a visible regression on
+    held-out benchmarks — it can appear as subtle degradation in long-form coherence,
+    cross-domain generalisation, or robustness to out-of-distribution prompts, making
+    it easy to overlook in standard fine-tuning evaluations that only measure target-task
+    performance.

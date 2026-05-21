@@ -1,0 +1,49 @@
+concept: Semantic Priming Effects
+domain: cognitive-science
+secondary_domains:
+- prompt-engineering
+- llm-behaviour
+- natural-language-processing
+aliases:
+- priming effects in LLMs
+- contextual priming
+- semantic activation spreading
+broader:
+- cognitive-science
+- prompt-engineering
+related:
+- schema-activation-in-prompts
+- prototype-theory-and-llms
+- semantic-similarity-in-prompts
+- cognitive-load-theory-applied-to-llms
+prerequisites:
+- cognitive-science
+- semantic-priming-theory
+- prompt-engineering
+confidence: medium
+callouts:
+- type: definition
+  title: Semantic Priming Effects
+  body: Semantic Priming Effects in LLMs refers to the phenomenon in which words,
+    concepts, or context cues earlier in a prompt influence the generation of subsequent
+    content in ways that go beyond the literal information provided — analogous to
+    the cognitive science finding that exposure to a stimulus lowers the threshold
+    for recognising or generating related stimuli. In prompting contexts, the vocabulary,
+    tone, domain, and conceptual content of the preamble and instructions systematically
+    prime the model's generation toward semantically related content and vocabulary,
+    even for parts of the output that are not directly constrained by the instructions.
+- type: key-claim
+  title: Key claim about Semantic Priming Effects
+  body: Semantic priming in LLMs is a significant source of both prompt design opportunities
+    and unintended prompt artifacts — using domain-specific vocabulary in the system
+    prompt primes the model to use similar vocabulary throughout the response (an
+    opportunity for style consistency), but unintended emotional, political, or stylistic
+    priming in the preamble can influence subsequent model outputs in ways that the
+    prompt author did not intend.
+- type: warning
+  title: Common pitfall regarding Semantic Priming Effects
+  body: Semantic priming effects are hard to control precisely — the model's response
+    to semantic priming is an emergent property of the pre-training distribution that
+    is difficult to predict from first principles, meaning that prompt engineers cannot
+    fully anticipate which vocabulary choices will prime what associations, necessitating
+    empirical testing rather than purely theoretical prompt design.

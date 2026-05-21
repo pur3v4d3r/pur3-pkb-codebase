@@ -1,0 +1,48 @@
+concept: Multimodal Few-Shot
+domain: multimodal-ai
+secondary_domains:
+- prompt-engineering
+- in-context-learning
+- computer-vision
+aliases:
+- multimodal ICL
+- image-text few-shot
+- visual few-shot prompting
+broader:
+- vision-language-prompting
+- few-shot-prompting
+related:
+- vision-language-prompting
+- visual-chain-of-thought
+- few-shot-prompting
+- semantic-similarity-in-prompts
+prerequisites:
+- few-shot-prompting
+- vision-language-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Multimodal Few-Shot
+  body: Multimodal Few-Shot Prompting extends the few-shot in-context learning paradigm
+    to multimodal inputs by providing interleaved (image, text) example pairs that
+    demonstrate the desired task format before the target query. In a multimodal few-shot
+    prompt, each demonstration consists of an image and a corresponding text response
+    that shows the model what kind of answer is expected for that type of visual input.
+    The selection of appropriate example images, the construction of the accompanying
+    text demonstrations, and the ordering of examples are all prompt engineering decisions
+    with significant impact on final output quality.
+- type: key-claim
+  title: Key claim about Multimodal Few-Shot
+  body: Multimodal few-shot prompting enables VLMs to perform specialised visual analysis
+    tasks — such as radiological image interpretation, industrial defect detection,
+    or document information extraction — without fine-tuning, by providing visual
+    examples that constrain the distribution of expected outputs in ways that text
+    instructions alone cannot express.
+- type: warning
+  title: Common pitfall regarding Multimodal Few-Shot
+  body: Multimodal few-shot prompting is sensitive to the visual similarity between
+    demonstration images and the test image — when test images differ significantly
+    in style, lighting, viewpoint, or domain from the demonstration images, the few-shot
+    examples may establish a misleading prior that degrades performance relative to
+    zero-shot prompting, which does not constrain the response distribution toward
+    a visually dissimilar example set.

@@ -1,0 +1,45 @@
+concept: Lost in the Middle Effect
+domain: prompt-engineering
+secondary_domains:
+- model-behaviour
+- context-management
+aliases:
+- lost-in-the-middle
+- middle-context degradation
+- primacy-recency effect
+broader:
+- context-window-management
+- transformer-attention-mechanism
+related:
+- context-window-management
+- attention-sink-phenomenon
+- retrieval-augmented-generation
+- position-encoding-effects
+prerequisites:
+- transformer-attention-mechanism
+- context-window-management
+confidence: high
+callouts:
+- type: definition
+  title: Lost in the Middle Effect
+  body: Lost in the Middle Effect is the empirical finding that language models retrieve
+    and use information from the beginning and end of their context window more reliably
+    than information positioned in the middle, with performance on multi-document
+    question answering tasks declining substantially when relevant information is
+    placed at intermediate positions — even when the total context length is well
+    within the model's stated limit.
+- type: key-claim
+  title: Key claim about Lost in the Middle Effect
+  body: Lost in the Middle Effect invalidates the assumption that filling a model's
+    context window uniformly with relevant information is the optimal RAG strategy;
+    empirical evidence shows that retrieval quality can be improved by ordering documents
+    so that the most relevant passages occupy either the beginning or the end of the
+    context, and that naive concatenation of retrieved documents in arbitrary order
+    leaves significant performance on the table.
+- type: warning
+  title: Common pitfall regarding Lost in the Middle Effect
+  body: Lost in the Middle Effect has been partially mitigated in more recent frontier
+    models but has not been eliminated; practitioners should not assume that longer
+    context windows in newer models have solved the positional sensitivity problem,
+    and should empirically validate their specific use case's sensitivity to document
+    ordering rather than relying on general capability claims about long-context performance.

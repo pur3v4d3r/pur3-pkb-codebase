@@ -1,0 +1,45 @@
+concept: Maieutic Prompting
+domain: prompt-engineering
+secondary_domains:
+- advanced-patterns
+- belief-revision
+aliases:
+- maieutic reasoning
+- consistency-driven reasoning
+- belief-tree prompting
+broader:
+- advanced-patterns
+- chain-of-thought-prompting
+related:
+- socratic-prompting
+- chain-of-thought-prompting
+- self-consistency-sampling
+- metacognitive-prompting
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Maieutic Prompting
+  body: Maieutic Prompting is a structured reasoning technique that recursively elicits
+    and verifies the model's justifications for each claim, building a tree of beliefs
+    where each node is a statement and each edge is a support relationship, and then
+    identifies inconsistencies within the belief tree to resolve contradictions and
+    improve the reliability of the final conclusion.
+- type: key-claim
+  title: Key claim about Maieutic Prompting
+  body: 'Maieutic Prompting improves factual accuracy by treating the model''s output
+    as a set of internally constrained beliefs rather than independent statements:
+    by requiring each claim to be supported by subclaims and checking that the subclaims
+    are mutually consistent, the technique leverages the model''s own consistency
+    constraints to surface and eliminate errors that would remain hidden in linear
+    chain-of-thought reasoning.'
+- type: warning
+  title: Common pitfall regarding Maieutic Prompting
+  body: 'Maieutic Prompting is computationally expensive relative to its performance
+    gains: building and verifying a belief tree requires multiple model calls per
+    node, and the recursive depth needed to catch subtle errors can make the total
+    token cost an order of magnitude higher than standard chain-of-thought — making
+    it practical only for high-stakes queries where the cost of error significantly
+    exceeds the cost of extensive reasoning.'

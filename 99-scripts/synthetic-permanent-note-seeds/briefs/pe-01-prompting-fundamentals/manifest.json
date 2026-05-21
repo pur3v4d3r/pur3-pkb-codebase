@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-01-prompting-fundamentals",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-01-prompting-fundamentals.md",
+    "notes": "Fifteen foundational prompting concepts covering the core vocabulary and\nmechanics of writing effective prompts for large language models. Covers\nzero-shot through chain-of-thought techniques, role mechanics, and\nstructural formatting principles. Intended as the foundation layer for\nall downstream prompt-engineering permanent notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-01-prompting-fundamentals",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-01-prompting-fundamentals"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Zero-Shot Prompting",
+      "kebab": "zero-shot-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/zero-shot-prompting.yaml",
+      "expected_seed_filename": "zero-shot-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Few-Shot Prompting",
+      "kebab": "few-shot-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/few-shot-prompting.yaml",
+      "expected_seed_filename": "few-shot-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "One-Shot Prompting",
+      "kebab": "one-shot-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/one-shot-prompting.yaml",
+      "expected_seed_filename": "one-shot-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "System Prompt Design",
+      "kebab": "system-prompt-design",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/system-prompt-design.yaml",
+      "expected_seed_filename": "system-prompt-design-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Instruction Following",
+      "kebab": "instruction-following",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/instruction-following.yaml",
+      "expected_seed_filename": "instruction-following-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Formatting",
+      "kebab": "prompt-formatting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/prompt-formatting.yaml",
+      "expected_seed_filename": "prompt-formatting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Clarity Principles",
+      "kebab": "prompt-clarity-principles",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/prompt-clarity-principles.yaml",
+      "expected_seed_filename": "prompt-clarity-principles-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Negative Prompting",
+      "kebab": "negative-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/negative-prompting.yaml",
+      "expected_seed_filename": "negative-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Positive Framing in Prompts",
+      "kebab": "positive-framing-in-prompts",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/positive-framing-in-prompts.yaml",
+      "expected_seed_filename": "positive-framing-in-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Delimiters and Separators",
+      "kebab": "delimiters-and-separators",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/delimiters-and-separators.yaml",
+      "expected_seed_filename": "delimiters-and-separators-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Role Prompting",
+      "kebab": "role-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/role-prompting.yaml",
+      "expected_seed_filename": "role-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Persona Assignment",
+      "kebab": "persona-assignment",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/persona-assignment.yaml",
+      "expected_seed_filename": "persona-assignment-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Output Format Specification",
+      "kebab": "output-format-specification",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/output-format-specification.yaml",
+      "expected_seed_filename": "output-format-specification-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chain-of-Thought Prompting",
+      "kebab": "chain-of-thought-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/chain-of-thought-prompting.yaml",
+      "expected_seed_filename": "chain-of-thought-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Step-Back Prompting",
+      "kebab": "step-back-prompting",
+      "brief_path": "briefs/pe-01-prompting-fundamentals/step-back-prompting.yaml",
+      "expected_seed_filename": "step-back-prompting-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

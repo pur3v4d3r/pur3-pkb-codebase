@@ -1,0 +1,44 @@
+concept: Example Ordering Effects
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- recency-bias
+aliases:
+- demo ordering
+- sequence effects in ICL
+- positional bias in few-shot
+broader:
+- in-context-learning
+- few-shot-prompting
+related:
+- few-shot-prompting
+- few-shot-example-selection
+- demonstration-diversity
+- lost-in-the-middle-effect
+prerequisites:
+- in-context-learning
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Example Ordering Effects
+  body: Example Ordering Effects refer to the empirical phenomenon whereby the performance
+    of a few-shot prompt depends significantly on the sequence in which the demonstrations
+    are presented, with models exhibiting recency bias (stronger influence from examples
+    near the end of the prompt) and primacy effects (strong anchoring to the first
+    example's format) that interact in task-dependent ways.
+- type: key-claim
+  title: Key claim about Example Ordering Effects
+  body: Example Ordering Effects reveal that in-context learning is not permutation-invariant
+    despite theoretical assumptions; the model treats demonstrations as an ordered
+    narrative rather than an unordered set, and the last example before the target
+    input disproportionately shapes the output format, meaning the final demonstration
+    should always be the most representative of the expected output style.
+- type: warning
+  title: Common pitfall regarding Example Ordering Effects
+  body: 'Example Ordering Effects create a reproducibility problem in few-shot evaluation:
+    reported benchmark numbers based on one demonstration order may not hold with
+    different orders, and the variance introduced by ordering can be large enough
+    to reverse the direction of comparisons between models or prompting strategies
+    — making order-controlled ablations essential for valid few-shot performance claims.'

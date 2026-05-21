@@ -1,0 +1,47 @@
+concept: Contrastive Decoding
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- llm-alignment
+- hallucination-reduction
+aliases:
+- CD decoding
+- adaptive contrastive decoding
+- CAD
+broader:
+- llm-decoding
+related:
+- temperature-sampling
+- top-p-nucleus-sampling
+- hallucination-reduction
+- speculative-sampling
+prerequisites:
+- llm-decoding
+- hallucination-reduction
+confidence: high
+callouts:
+- type: definition
+  title: Contrastive Decoding
+  body: Contrastive Decoding is a search objective for language model generation that
+    produces text by maximising the difference in log-probability between a large
+    expert model and a small amateur model evaluated on the same sequence. The intuition
+    is that both models share similar content but differ in quality — the expert model
+    assigns higher probability to coherent, factual text while the amateur model does
+    not penalise as strongly for incoherence or hallucination, so the difference between
+    their log-probabilities captures a "quality" signal that can guide generation
+    toward more faithful outputs. Contrastive decoding has been shown to reduce factual
+    hallucination and improve coherence in long-form generation.
+- type: key-claim
+  title: Key claim about Contrastive Decoding
+  body: Contrastive decoding offers a principled way to improve generation faithfulness
+    without fine-tuning by using the amateur model as a representation of low-quality
+    generation patterns to avoid — the method exploits the assumption that errors
+    and hallucinations are more probable under the amateur model, so subtracting amateur
+    log-probabilities removes those patterns from the generation distribution.
+- type: warning
+  title: Common pitfall regarding Contrastive Decoding
+  body: Contrastive decoding requires access to two models of different sizes during
+    inference, doubling (or more) the computational cost compared to standard sampling
+    — and the quality improvement is sensitive to how well the small model characterises
+    the "bad" generation distribution, which varies across tasks and domains, making
+    it an advanced technique with significant infrastructure and calibration requirements.

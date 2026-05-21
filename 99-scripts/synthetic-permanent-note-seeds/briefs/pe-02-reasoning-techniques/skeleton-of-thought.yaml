@@ -1,0 +1,40 @@
+concept: Skeleton of Thought
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- parallel-inference
+aliases:
+- SoT
+- skeleton-of-thought prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- chain-of-thought-prompting
+- decomposed-prompting
+- least-to-most-prompting
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Skeleton of Thought
+  body: Skeleton of Thought is a two-stage prompting strategy designed to reduce latency
+    by first generating a structured skeleton (an outline of the answer's key points)
+    and then elaborating each point independently and in parallel, rather than generating
+    the full response sequentially from token to token.
+- type: key-claim
+  title: Key claim about Skeleton of Thought
+  body: Skeleton of Thought reduces generation latency for long-form responses by
+    parallelising the elaboration stage across skeleton points, allowing the wall-clock
+    time to scale sub-linearly with response length; the trade-off is that inter-point
+    coherence must be managed explicitly, since parallel elaboration breaks the sequential
+    conditioning that ensures consistency in standard autoregressive generation.
+- type: warning
+  title: Common pitfall regarding Skeleton of Thought
+  body: Skeleton of Thought degrades for tasks where the answer's structure cannot
+    be determined before knowing the answer's content; when correct elaboration of
+    one point depends on the content of a previously elaborated point, the parallel
+    independence assumption is violated and the resulting response exhibits logical
+    discontinuities between sections.

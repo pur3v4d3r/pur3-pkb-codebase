@@ -1,0 +1,47 @@
+concept: Prompt Tuning
+domain: prompt-engineering
+secondary_domains:
+- parameter-efficient-fine-tuning
+- nlp-research
+aliases:
+- soft prompt tuning
+- learned prompts
+broader:
+- parameter-efficient-fine-tuning
+- prompt-optimization
+narrower:
+- soft-prompting
+- prefix-tuning
+related:
+- soft-prompting
+- prefix-tuning
+- gradient-free-prompt-optimization
+- prompt-tuning
+prerequisites:
+- large-language-models
+- fine-tuning
+- backpropagation
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Tuning
+  body: Prompt Tuning is a parameter-efficient fine-tuning technique in which a small
+    set of continuous embedding vectors — the "soft prompt" — is prepended to the
+    input and optimised via backpropagation on a task-specific dataset while all original
+    model weights remain frozen, allowing the model to be adapted to new tasks at
+    a fraction of the cost of full fine-tuning.
+- type: key-claim
+  title: Key claim about Prompt Tuning
+  body: Prompt Tuning demonstrates that at sufficiently large model scale (billions
+    of parameters), adapting only a few hundred learnable embedding vectors achieves
+    competitive performance with full model fine-tuning on many NLP benchmarks, fundamentally
+    changing the cost structure of task adaptation by replacing the need to train
+    and store a full model copy per task with a small per-task prompt embedding that
+    can be swapped in at inference time.
+- type: warning
+  title: Common pitfall regarding Prompt Tuning
+  body: Prompt Tuning requires gradient access to the model's embedding layer, making
+    it inapplicable to API-only model deployments; additionally, the learned soft
+    prompts are not human-interpretable and do not transfer across different model
+    architectures or tokenisers, meaning task adaptation artefacts are tightly coupled
+    to the specific model checkpoint they were trained against.

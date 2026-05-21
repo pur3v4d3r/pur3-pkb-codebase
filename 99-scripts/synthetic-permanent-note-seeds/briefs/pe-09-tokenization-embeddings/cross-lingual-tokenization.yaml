@@ -1,0 +1,50 @@
+concept: Cross-Lingual Tokenization
+domain: nlp-tokenization
+secondary_domains:
+- multilingual-nlp
+- language-modelling
+- natural-language-processing
+aliases:
+- multilingual tokenization
+- cross-lingual segmentation
+- multilingual vocabulary
+broader:
+- subword-tokenization
+- multilingual-nlp
+related:
+- subword-tokenization
+- byte-pair-encoding
+- vocabulary-size-tradeoffs
+- tokenizer-sensitivity
+prerequisites:
+- subword-tokenization
+- multilingual-nlp
+confidence: high
+callouts:
+- type: definition
+  title: Cross-Lingual Tokenization
+  body: Cross-Lingual Tokenization refers to the design of tokenisation vocabularies
+    and algorithms that serve multiple languages within a single model, and to the
+    study of how tokenisation choices affect cross-lingual transfer, model performance,
+    and computational equity across languages. Multilingual models like mBERT, XLM-R,
+    and multilingual LLaMA use a shared vocabulary trained on multilingual corpora,
+    but the distribution of vocabulary tokens across languages is rarely proportional
+    to language use, producing token-count disparities where a concept expressed in
+    a single English token requires many tokens in other languages, consuming more
+    context window and compute.
+- type: key-claim
+  title: Key claim about Cross-Lingual Tokenization
+  body: Cross-lingual tokenization inequity is a systematic source of multilingual
+    model performance gaps — languages that are tokenised less efficiently (more tokens
+    per character) have less effective context window capacity per semantic unit and
+    face higher computational costs per query, meaning that surface-level parameter
+    equality between languages in a multilingual model masks deep computational inequality
+    in practice.
+- type: warning
+  title: Common pitfall regarding Cross-Lingual Tokenization
+  body: Fixing cross-lingual tokenization inequity by increasing vocabulary size alone
+    is insufficient without also addressing the data distribution used for vocabulary
+    training — a larger vocabulary trained on an unbalanced multilingual corpus will
+    still over-represent high-resource languages, because the merge or likelihood-based
+    tokenisation procedures optimise for the most frequent patterns in the training
+    data.

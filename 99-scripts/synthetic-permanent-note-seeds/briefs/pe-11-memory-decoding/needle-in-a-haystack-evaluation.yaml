@@ -1,0 +1,50 @@
+concept: Needle in a Haystack Evaluation
+domain: llm-memory
+secondary_domains:
+- llm-evaluation
+- long-context-llms
+- benchmark-design
+aliases:
+- NIAH
+- NIAH benchmark
+- long-context recall evaluation
+- pressure test
+broader:
+- llm-evaluation
+- long-context-llms
+related:
+- long-context-prompting-strategies
+- context-distillation
+- lm-evaluation-harness
+- benchmark-design
+prerequisites:
+- long-context-llms
+- llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Needle in a Haystack Evaluation
+  body: Needle in a Haystack (NIAH) Evaluation is a methodology for testing a language
+    model's recall ability across its full context length by embedding a specific
+    piece of information (the "needle") at different positions within a large, otherwise
+    irrelevant document (the "haystack") and then querying for that information. The
+    evaluation produces a two-dimensional recall heatmap showing model accuracy as
+    a function of both total context length and needle position within the context.
+    NIAH tests are widely used as a diagnostic for long-context capability and have
+    revealed characteristic failure patterns such as the "lost in the middle" effect,
+    where recall degrades for information in the middle of very long contexts.
+- type: key-claim
+  title: Key claim about Needle in a Haystack Evaluation
+  body: NIAH evaluation revealed that a model's advertised maximum context length
+    is not an accurate indicator of its practical recall ability across that context
+    — models that claim 128K context can show dramatic recall failures at 64K tokens
+    for needles placed in the middle of the context, demonstrating a systematic gap
+    between context capacity and context comprehension that had not been captured
+    by prior benchmarks.
+- type: warning
+  title: Common pitfall regarding Needle in a Haystack Evaluation
+  body: NIAH evaluates only verbatim or near-verbatim retrieval of a specific fact
+    and does not measure the ability to reason over, synthesise, or integrate information
+    from across a long context — a model that scores well on NIAH may still struggle
+    on tasks requiring multi-hop reasoning across a long document, so NIAH is a necessary
+    but not sufficient benchmark for long-context utility.

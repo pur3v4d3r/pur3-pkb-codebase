@@ -1,0 +1,51 @@
+concept: Fallback Prompt Strategies
+domain: production-deployment
+secondary_domains:
+- reliability-engineering
+- prompt-engineering
+- mlops
+aliases:
+- prompt fallback
+- model fallback chain
+- degraded-mode prompt
+- graceful degradation
+broader:
+- production-deployment
+- reliability-engineering
+related:
+- multi-model-routing
+- latency-quality-tradeoff
+- prompt-monitoring-and-alerting
+- prompt-registry-management
+prerequisites:
+- production-deployment
+- reliability-engineering
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Fallback Prompt Strategies
+  body: 'Fallback Prompt Strategies are reliability patterns for LLM applications
+    that define graceful degradation behaviours when primary model calls fail or produce
+    unacceptable outputs — analogous to try-catch error handling in traditional software.
+    A fallback chain might specify: try the primary model; if unavailable, try a secondary
+    model API; if the response fails quality checks, retry with a simplified prompt;
+    if quality remains insufficient, return a safe default response. Fallback strategies
+    ensure that model unavailability or quality failures produce bounded, predictable
+    degradation rather than application errors that surface to users.'
+- type: key-claim
+  title: Key claim about Fallback Prompt Strategies
+  body: Fallback prompt strategies are a critical reliability engineering requirement
+    for production LLM applications — primary model APIs have non-trivial downtime
+    rates and latency spikes, quality failures are stochastic, and applications without
+    defined fallback behaviour will surface unexpected errors to users when these
+    events occur; the fallback chain is the LLM application's equivalent of error
+    handling and defensive programming.
+- type: warning
+  title: Common pitfall regarding Fallback Prompt Strategies
+  body: Fallback strategies introduce response inconsistency — a user who receives
+    a primary-model response and then a fallback-model response to similar queries
+    may observe noticeable quality or style differences that create a confusing user
+    experience, requiring that fallback responses be designed to blend with primary
+    responses as much as possible or be explicitly communicated to users as operating
+    in a reduced-capability mode.

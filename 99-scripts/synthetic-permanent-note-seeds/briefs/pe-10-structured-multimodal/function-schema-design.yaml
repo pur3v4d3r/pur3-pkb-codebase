@@ -1,0 +1,49 @@
+concept: Function Schema Design
+domain: structured-generation
+secondary_domains:
+- prompt-engineering
+- api-integration
+- tool-use-llms
+aliases:
+- tool schema design
+- function calling schema
+- OpenAI function schema
+broader:
+- tool-use-llms
+- structured-prediction-prompting
+related:
+- json-mode-prompting
+- output-schema-enforcement
+- tool-use-llms
+- tool-schema-optimization
+- guided-generation
+prerequisites:
+- tool-use-llms
+- json-schema
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Function Schema Design
+  body: Function Schema Design is the practice of authoring the JSON Schema descriptions
+    of tools and functions that are exposed to a language model through a function-calling
+    API, such that the model reliably selects the correct function for a given user
+    request and generates the correct argument structure. A well-designed function
+    schema includes a precise and unambiguous function name and description, parameter
+    names and types that are self-documenting, enumerated values for constrained parameters,
+    clear documentation of required vs. optional parameters, and examples in the description
+    when the parameter semantics are non-obvious.
+- type: key-claim
+  title: Key claim about Function Schema Design
+  body: Function schema quality is the primary determinant of function-calling reliability
+    — a poorly described schema causes the model to select incorrect functions, generate
+    wrong argument types, hallucinate unsupported parameter names, or fail to call
+    a function when one is appropriate, all of which are failures that cannot be reliably
+    compensated by general instruction prompting when the schema itself is ambiguous.
+- type: warning
+  title: Common pitfall regarding Function Schema Design
+  body: Function schemas have an optimal specificity — over-specified schemas with
+    too many functions or too many parameters cause the model to make incorrect selections
+    from a long menu of options, while under-specified schemas cause ambiguity in
+    argument generation; the practical design principle is to minimise the function
+    surface area and keep parameter semantics orthogonal and self-documenting.

@@ -1,0 +1,49 @@
+concept: Preference Elicitation
+domain: ai-alignment
+secondary_domains:
+- ai-alignment
+- human-computer-interaction
+- decision-theory
+aliases:
+- human preference learning
+- value elicitation
+- preference discovery
+broader:
+- reinforcement-learning-from-human-feedback
+- ai-alignment
+related:
+- reinforcement-learning-from-human-feedback
+- reward-model-design
+- human-preference-datasets
+- direct-preference-optimization
+- constitutional-ai-principles
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- decision-theory
+confidence: high
+callouts:
+- type: definition
+  title: Preference Elicitation
+  body: Preference Elicitation refers to the methods and protocols used to extract
+    reliable signals about human preferences from human annotators, users, or stakeholders
+    in order to train or evaluate AI systems. In the context of RLHF and related alignment
+    approaches, preference elicitation involves designing comparison tasks (e.g.,
+    "which of these two responses is better?"), rating scales, annotation guidelines,
+    and quality-control mechanisms to obtain preference data that accurately represents
+    the intended values — rather than labeller biases, fatigue, anchoring effects,
+    or inconsistencies. The field draws on decision theory, psychometrics, and human-computer
+    interaction.
+- type: key-claim
+  title: Key claim about Preference Elicitation
+  body: The quality of preference elicitation determines the ceiling of what RLHF
+    and related methods can achieve — even with perfect optimisation, a model trained
+    on poorly elicited preferences will encode the artefacts of the elicitation process
+    rather than the intended values, making elicitation methodology as important as
+    the training algorithm.
+- type: warning
+  title: Common pitfall regarding Preference Elicitation
+  body: Preference elicitation is systematically biased by presentation effects, labeller
+    demographics, and the difficulty of the task — annotators tend to prefer responses
+    that are confident and fluent over responses that are accurate and appropriately
+    uncertain, creating a systematic pressure toward sycophancy in models trained
+    on naively elicited preferences.

@@ -1,0 +1,48 @@
+concept: Summarisation as Compression
+domain: llm-memory
+secondary_domains:
+- natural-language-generation
+- prompt-engineering
+- long-context-llms
+aliases:
+- summarisation for context compression
+- recursive summarisation
+- context summarisation
+broader:
+- compressive-memory-mechanisms
+- long-context-prompting-strategies
+related:
+- compressive-memory-mechanisms
+- context-distillation
+- long-context-prompting-strategies
+- chain-of-density-summarization
+prerequisites:
+- natural-language-generation
+- long-context-prompting-strategies
+confidence: high
+callouts:
+- type: definition
+  title: Summarisation as Compression
+  body: Summarisation as Compression is the technique of using a language model to
+    produce compact summaries of earlier context segments — conversation history,
+    document sections, or prior reasoning chains — as a mechanism for extending effective
+    context length beyond the model's window limit. In practice, this is implemented
+    through rolling summarisation (periodically summarising the oldest portion of
+    the context to free space for new information), hierarchical summarisation (summarising
+    increasingly coarser chunks to produce a multi-level memory representation), or
+    query-specific compression (summarising context to retain only information relevant
+    to the current query).
+- type: key-claim
+  title: Key claim about Summarisation as Compression
+  body: Summarisation as compression enables persistent agents to maintain coherent
+    conversation history and task state across arbitrarily long interactions — the
+    lossy nature of summarisation is acceptable for most conversational contexts because
+    the compressed summary retains the semantically important events while discarding
+    verbatim details, preserving conversational coherence at the cost of precise recall.
+- type: warning
+  title: Common pitfall regarding Summarisation as Compression
+  body: Summarisation as compression introduces an irreversible information loss —
+    once context is summarised, the original details are gone, and if the summary
+    omits information that becomes relevant later in the interaction, that information
+    is unrecoverable without reprocessing the original source, making the timing and
+    granularity of summarisation decisions critical for high-stakes applications.

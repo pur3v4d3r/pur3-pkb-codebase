@@ -1,0 +1,49 @@
+concept: Self-Evaluation Prompting
+domain: llm-evaluation
+secondary_domains:
+- prompt-engineering
+- llm-calibration
+- alignment
+aliases:
+- LLM self-assessment
+- self-critique prompting
+- self-checking prompts
+broader:
+- llm-evaluation
+- llm-as-judge
+related:
+- llm-judge-calibration
+- mt-bench
+- fact-verification-prompting
+- chain-of-thought-prompting
+prerequisites:
+- prompt-engineering
+- llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Self-Evaluation Prompting
+  body: 'Self-Evaluation Prompting refers to techniques that elicit a language model''s
+    self-assessment of its own outputs'' quality, correctness, or adherence to requirements.
+    Common implementations include: asking the model to rate its answer on a scale
+    and explain the rating, asking the model to identify potential errors or weaknesses
+    in its response, prompting the model to compare its output against stated criteria
+    and flag violations, and asking the model to predict the probability that its
+    answer is correct. Self-evaluation can be used as a standalone quality signal,
+    as input to a selection-among-candidates strategy, or as a trigger for self-revision.'
+- type: key-claim
+  title: Key claim about Self-Evaluation Prompting
+  body: 'Self-evaluation prompting improves output quality through two mechanisms:
+    it serves as a quality filter (rejecting outputs rated poorly by the model itself)
+    and as a self-improvement signal (the model''s critique of its output provides
+    context that guides revision) — but its effectiveness is bounded by the model''s
+    ability to accurately evaluate its own outputs, which degrades for systematic
+    errors the model cannot recognise.'
+- type: warning
+  title: Common pitfall regarding Self-Evaluation Prompting
+  body: Self-evaluation is subject to overconfidence calibration failures — models
+    frequently rate incorrect outputs as correct and correct outputs as uncertain,
+    with the error rate depending on the task domain, the model's training, and the
+    framing of the self-evaluation prompt; empirical calibration of self-evaluation
+    scores against ground truth is required before using self-evaluation as a reliable
+    quality gate.

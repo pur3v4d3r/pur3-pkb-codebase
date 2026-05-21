@@ -72,36 +72,142 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 3. After you have created the seeds for the permanent notes, run the pipeline on the seeds you just created, creating the permanent notes.
 4. Please feel free to ask any question you have.
 
+**NOTE**: NO DRY RUN, and you dertermin the batch sizing for the seeds.
 ### Notes to create Seeds for:
 
 `````markdown
-arno-penzias
-hubble-tension
-grand-unification-epoch
-electroweak-epoch
-quark-epoch
-hadron-epoch
-baryon-to-photon-ratio
-lithium-problem
-wimps
-cold-dark-matter
-bullet-cluster
-scalar-spectral-index
-ekpyrotic-universe-models
-cmb-temperature-anisotropies
-chaotic-inflation
-eternal-inflation
-many-worlds-interpretation
-probability-measure-on-multiverse
-ginzburg-landau-theory
-inflaton
-chaos-theory
-scalar-field
-reheating
+# Prompting Fundamentals
+zero-shot-prompting
+few-shot-prompting
+one-shot-prompting
+system-prompt-design
+instruction-following
+prompt-formatting
+prompt-clarity-principles
+negative-prompting
+positive-framing-in-prompts
+delimiters-and-separators
+role-prompting
+persona-assignment
+output-format-specification
+chain-of-thought-prompting
+step-back-prompting
 
+# Reasoning Techniques
+tree-of-thoughts
+graph-of-thoughts
+self-consistency-sampling
+chain-of-verification
+reflexion
+program-of-thoughts
+skeleton-of-thought
+least-to-most-prompting
+decomposed-prompting
+analogical-prompting
+metacognitive-prompting
+self-ask-prompting
+directional-stimulus-prompting
+contrastive-chain-of-thought
 
+# Extended Thinking and Metacognition
+extended-thinking-architecture
+thinking-tag-semantics
+interleaved-thinking-mode
+metacognitive-scaffolding
+inner-monologue-technique
+latent-reasoning-space
+thinking-budget-allocation
+cognitive-asymmetry-in-llms
 
+# In-Context Learning
+in-context-learning
+few-shot-example-selection
+example-ordering-effects
+demonstration-diversity
+label-sensitivity-in-icl
+retrieval-augmented-few-shot
+analogical-in-context-learning
 
+# Prompt Optimization
+automatic-prompt-engineering
+gradient-free-prompt-optimization
+dspy-framework
+prompt-tuning
+soft-prompting
+prefix-tuning
+prompt-compression
+prompt-paraphrasing
+prompt-ensembling
+boosted-prompt-ensembles
+evolutionary-prompt-optimization
+reflexion-based-prompt-refinement
+
+# Retrieval-Augmented Generation
+retrieval-augmented-generation
+dense-passage-retrieval
+hyde-hypothetical-document-embeddings
+self-rag
+corrective-rag
+iterative-retrieval
+knowledge-intensive-nlp
+demonstrate-search-predict
+
+# Agentic Frameworks
+react-reasoning-acting
+plan-and-execute-agents
+reflexion-agent-architecture
+toolformer
+function-calling
+tool-use-in-llms
+multi-agent-debate
+hierarchical-agent-orchestration
+agent-scratchpad
+chain-of-action
+task-decomposition-agents
+critic-agents
+self-refine
+
+# Evaluation and Quality
+llm-as-judge
+chain-of-thought-faithfulness
+hallucination-detection
+factual-consistency-evaluation
+prompt-sensitivity-analysis
+benchmark-overfitting
+gsm8k-benchmark
+hotpotqa-benchmark
+calibration-in-llms
+uncertainty-quantification-llms
+
+# Architecture and Attention
+transformer-attention-mechanism
+context-window-management
+attention-sink-phenomenon
+lost-in-the-middle-effect
+position-encoding-effects
+token-budget-management
+kv-cache-mechanics
+speculative-decoding
+
+# Failure Modes and Mitigations
+prompt-injection
+jailbreaking
+sycophancy-in-llms
+hallucination-taxonomy
+distractor-sensitivity
+instruction-hierarchy-conflict
+overthinking-in-llms
+reward-hacking
+
+# Advanced Patterns
+meta-prompting
+system-2-prompting
+chain-of-density-technique
+socratic-prompting
+maieutic-prompting
+self-play-prompting
+constitutional-ai-method
+red-teaming-llms
 
 `````
 
@@ -150,125 +256,153 @@ Please feel free to ask any question you have.
 
 `````markdown
 
-# Critical Thinking
+# Alignment and Safety
+constitutional-ai-principles
+reinforcement-learning-from-human-feedback
+direct-preference-optimization
+reward-model-design
+scalable-oversight
+debate-as-alignment-mechanism
+iterated-amplification
+superalignment
+sandbagging-in-llms
+deceptive-alignment
+value-alignment-problem
+corrigibility
+preference-elicitation
+activation-steering
+representation-engineering
 
-## Epistemic Dispositions
-intellectual-courage
-intellectual-perseverance
-fair-mindedness
-intellectual-empathy
-intellectual-integrity
-open-mindedness
-intellectual-autonomy
-epistemic-cowardice
-epistemic-humility
-intellectual-conscientiousness
-epistemic-responsibility
-truth-seeking-disposition
-systematicity-as-disposition
-judiciousness
-inquisitiveness-as-disposition
+# Fine-Tuning and Adaptation
+instruction-fine-tuning
+parameter-efficient-fine-tuning
+lora-low-rank-adaptation
+qlora
+adapter-layers
+prompt-fine-tuning-vs-rag
+domain-adaptation-llms
+catastrophic-forgetting-in-llms
+continual-learning-llms
+task-specific-fine-tuning
+self-play-fine-tuning
 
-## Argument Theory & Structure
-argument-structure
-valid-argument
-sound-argument
-cogent-argument
-strong-argument
-syllogism
-categorical-syllogism
-enthymeme
-argument-mapping
-steelmanning
-burden-of-proof
-defeater
-rebutting-defeater
-undercutting-defeater
-premise-acceptability
+# Tokenization and Vocabulary
+byte-pair-encoding
+tokenization-artifacts
+token-boundary-effects
+vocabulary-size-tradeoffs
+subword-tokenization
+tokenizer-sensitivity
+cross-lingual-tokenization
+whitespace-token-effects
 
-## Informal Fallacies
-hasty-generalization
-false-cause-fallacy
-appeal-to-ignorance
-appeal-to-emotion
-appeal-to-tradition
-appeal-to-nature
-genetic-fallacy
-equivocation-fallacy
-motte-and-bailey-fallacy
-no-true-scotsman-fallacy
-nirvana-fallacy
-texas-sharpshooter-fallacy
-red-herring-fallacy
-begging-the-question
-argument-from-silence
+# Embeddings and Semantic Space
+text-embedding-models
+semantic-similarity-in-prompts
+cosine-similarity-retrieval
+embedding-space-geometry
+late-chunking
+sentence-transformers
+bi-encoder-vs-cross-encoder
+matryoshka-representation-learning
+contrastive-learning-embeddings
 
-## Epistemology
-epistemic-internalism
-epistemic-externalism
-internalism-vs-externalism-epistemology
-epistemic-regress
-agrippa-trilemma
-epistemic-closure
-contextualism-in-epistemology
-epistemic-relativism
-a-posteriori-knowledge
-analytic-synthetic-distinction
-propositional-knowledge
-epistemic-akrasia
-epistemic-trust
-collective-epistemology
-reflective-equilibrium
+# Structured Output and Grounding
+json-mode-prompting
+grammar-constrained-decoding
+function-schema-design
+structured-prediction-prompting
+output-schema-enforcement
+constrained-beam-search
+guided-generation
+tool-schema-optimization
 
-## Reasoning Biases
-belief-bias
-myside-bias
-naive-realism
-curse-of-knowledge
-illusion-of-transparency
-optimism-bias
-third-person-effect
-restraint-bias
-impact-bias
-neglect-of-probability
+# Multimodal Prompting
+vision-language-prompting
+image-captioning-prompts
+visual-chain-of-thought
+multimodal-few-shot
+document-understanding-prompts
+chart-and-table-reasoning
+interleaved-image-text-prompting
+grounded-visual-reasoning
 
-## Scientific Reasoning
-falsifiability
-hypothetico-deductive-method
-demarcation-problem
-paradigm-shift
-pseudo-science
-null-hypothesis
-inductive-confirmation
-operationalization
-replication-and-reproducibility
-theoretical-virtues
+# Memory Systems and Long Context
+episodic-memory-in-agents
+external-memory-augmentation
+memory-augmented-neural-networks
+compressive-memory-mechanisms
+long-context-prompting-strategies
+needle-in-a-haystack-evaluation
+context-distillation
+summarization-as-compression
+working-memory-proxies-in-llms
 
-## Formal Logic
-necessary-and-sufficient-conditions
-contrapositive
-conditional-reasoning
-logical-consistency
-logical-form
-validity-vs-soundness
-logical-consequence
-sorites-paradox
-liar-paradox
-suppositional-reasoning
+# Decoding and Sampling
+temperature-sampling
+top-p-nucleus-sampling
+top-k-sampling
+beam-search-decoding
+min-p-sampling
+repetition-penalty
+frequency-penalty-effects
+contrastive-decoding
+speculative-sampling
+best-of-n-sampling
 
-## Critical Thinking Frameworks
-facione-critical-thinking-model
-ennis-critical-thinking-model
-critical-thinking-dispositions-taxonomy
-watson-glaser-model
-argument-reconstruction
+# Knowledge and Grounding
+knowledge-graph-augmented-llms
+entity-linking-in-prompts
+fact-verification-prompting
+knowledge-conflict-resolution
+parametric-vs-contextual-knowledge
+closed-book-vs-open-book-qa
+grounded-generation
+world-model-in-llms
 
-## Truth Theories
-coherence-theory-of-truth
-pragmatic-theory-of-truth
-deflationary-theory-of-truth
-epistemic-theory-of-truth
-truth-aptness
+# Code Generation and Reasoning
+code-prompting-strategies
+execution-feedback-prompting
+self-debugging-llm
+code-chain-of-thought
+test-driven-prompting
+docstring-guided-generation
+repair-prompting
+pseudocode-intermediate-step
+
+# Evaluation Frameworks
+lm-evaluation-harness
+big-bench-benchmark
+helm-holistic-evaluation
+mt-bench
+arena-elo-rating
+self-evaluation-prompting
+llm-judge-calibration
+process-reward-models
+outcome-reward-models
+human-preference-datasets
+
+# Cognitive Science Foundations
+dual-process-theory-applied-to-llms
+cognitive-load-theory-applied-to-llms
+working-memory-constraints-in-prompts
+schema-activation-in-prompts
+semantic-priming-effects
+prototype-theory-and-llms
+mental-simulation-in-llms
+epistemological-uncertainty-in-llms
+
+# Production and Deployment
+prompt-versioning
+prompt-regression-testing
+latency-quality-tradeoff
+prompt-caching-strategies
+cost-per-token-optimization
+prompt-monitoring-and-alerting
+a-b-testing-prompts
+prompt-registry-management
+multi-model-routing
+fallback-prompt-strategies
 
 `````
 

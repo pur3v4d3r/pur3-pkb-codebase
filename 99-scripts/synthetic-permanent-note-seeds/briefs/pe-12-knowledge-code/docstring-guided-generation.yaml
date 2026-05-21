@@ -1,0 +1,48 @@
+concept: Docstring-Guided Generation
+domain: code-generation
+secondary_domains:
+- software-engineering
+- prompt-engineering
+- documentation
+aliases:
+- docstring-driven generation
+- documentation-first coding
+- spec-driven code generation
+broader:
+- code-prompting-strategies
+related:
+- code-prompting-strategies
+- test-driven-prompting
+- code-chain-of-thought
+- pseudocode-intermediate-step
+prerequisites:
+- code-prompting-strategies
+- software-documentation
+confidence: high
+callouts:
+- type: definition
+  title: Docstring-Guided Generation
+  body: 'Docstring-Guided Generation is a code prompting strategy in which a complete,
+    well-structured function or class docstring is provided as the primary specification
+    from which the model generates the implementation. The docstring includes: a one-line
+    summary, a detailed description, typed argument documentation, return value documentation,
+    raised exceptions documentation, and concrete usage examples. By providing this
+    structured specification in the docstring format that the model has been extensively
+    trained on in its pretraining data, docstring-guided generation leverages the
+    model''s learned associations between documentation patterns and implementation
+    patterns to produce higher-quality code than natural language task descriptions.'
+- type: key-claim
+  title: Key claim about Docstring-Guided Generation
+  body: Docstring-guided generation outperforms equivalent natural language specification
+    prompting because documentation format is closer in distribution to what precedes
+    implementations in the model's pretraining data — the model has processed billions
+    of code files where function docstrings are immediately followed by their implementations,
+    creating a strong learned association between well-structured documentation and
+    correct implementations.
+- type: warning
+  title: Common pitfall regarding Docstring-Guided Generation
+  body: The quality of docstring-guided generation degrades when the docstring is
+    inconsistent or underspecified — if the one-line summary, argument descriptions,
+    and usage examples contain contradictions or if the examples do not match the
+    described behaviour, the model must resolve the inconsistency and may generate
+    an implementation that satisfies some but not all documentation elements.

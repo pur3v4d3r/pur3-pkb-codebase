@@ -1,0 +1,49 @@
+concept: Repair Prompting
+domain: code-generation
+secondary_domains:
+- software-engineering
+- prompt-engineering
+- program-synthesis
+aliases:
+- code repair prompts
+- bug repair prompting
+- automated program repair prompting
+broader:
+- code-prompting-strategies
+- self-debugging-llm
+related:
+- self-debugging-llm
+- execution-feedback-prompting
+- code-prompting-strategies
+- code-chain-of-thought
+prerequisites:
+- code-prompting-strategies
+- self-debugging-llm
+confidence: high
+callouts:
+- type: definition
+  title: Repair Prompting
+  body: Repair Prompting is the prompting technique of presenting a model with a defective
+    code fragment alongside a description of the defect — either a natural language
+    description of the bug, an error trace, a failing test, or a diff between expected
+    and actual behaviour — and instructing the model to produce a corrected version.
+    Unlike self-debugging (where the model diagnoses the error from the code alone),
+    repair prompting provides explicit defect information that constrains the repair
+    search space, making it more effective for known defect types. Repair prompting
+    is used in automated program repair (APR) systems, code review automation, and
+    interactive development assistants.
+- type: key-claim
+  title: Key claim about Repair Prompting
+  body: Repair prompting is more reliable than regeneration from scratch for fixing
+    known bugs — providing the model with the specific failure information focuses
+    its revision on the relevant code sections rather than requiring it to regenerate
+    the entire function, and the combination of original code and defect description
+    constrains the solution space in a way that typically preserves the correct portions
+    of the original implementation.
+- type: warning
+  title: Common pitfall regarding Repair Prompting
+  body: Repair prompting can produce minimal patches that fix the reported defect
+    while introducing new defects — the model's repair optimises for the specific
+    failure described, not for overall code correctness, and this can cause overfitting
+    to the test case used to describe the defect, producing a fix that passes the
+    triggering case but fails on related edge cases.

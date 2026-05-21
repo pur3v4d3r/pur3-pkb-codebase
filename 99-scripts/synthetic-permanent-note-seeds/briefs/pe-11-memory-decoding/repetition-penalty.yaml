@@ -1,0 +1,48 @@
+concept: Repetition Penalty
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- natural-language-generation
+- prompt-engineering
+aliases:
+- repeat penalty
+- anti-repetition penalty
+- repetition suppression
+broader:
+- llm-decoding
+related:
+- frequency-penalty-effects
+- temperature-sampling
+- top-p-nucleus-sampling
+- llm-generation
+prerequisites:
+- llm-decoding
+confidence: high
+callouts:
+- type: definition
+  title: Repetition Penalty
+  body: Repetition Penalty is a post-processing modification to token logits that
+    reduces the probability of tokens that have already appeared in the current generation
+    context, discouraging the model from repeating the same words, phrases, or patterns
+    within a single output. Implemented as a multiplicative penalty applied to logits
+    of previously seen tokens (logits are divided by the penalty factor if they are
+    positive and multiplied if they are negative), repetition penalty directly reduces
+    the frequency with which the model loops or produces repetitive filler. The penalty
+    can apply uniformly to all tokens in the context or can decay with distance from
+    the current position.
+- type: key-claim
+  title: Key claim about Repetition Penalty
+  body: Repetition penalty addresses a failure mode that is most severe in small or
+    quantised models — the tendency to loop into repetitive phrases or sentences when
+    the model's probability distribution collapses onto a small set of high-frequency
+    tokens — but at high penalty values it suppresses legitimate repetition (e.g.,
+    proper nouns, technical terms that must recur) and can degrade coherence by forcing
+    the model to avoid necessary referential repetition.
+- type: warning
+  title: Common pitfall regarding Repetition Penalty
+  body: Repetition penalty and temperature interact — a high repetition penalty with
+    high temperature can produce incoherent text that avoids repetition by choosing
+    increasingly improbable diverse tokens, while a high repetition penalty with low
+    temperature can cause the model to terminate early or become stuck when all plausible
+    continuations involve tokens already used, so the two parameters should be tuned
+    jointly.

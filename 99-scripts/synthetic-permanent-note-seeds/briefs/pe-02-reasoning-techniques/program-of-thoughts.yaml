@@ -1,0 +1,42 @@
+concept: Program of Thoughts
+domain: prompt-engineering
+secondary_domains:
+- code-generation
+- reasoning
+aliases:
+- PoT
+- program-of-thought prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- chain-of-thought-prompting
+- tool-use-in-llms
+- function-calling
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+- code-generation
+confidence: high
+callouts:
+- type: definition
+  title: Program of Thoughts
+  body: Program of Thoughts is a reasoning technique in which the model expresses
+    its reasoning as a formal program (typically Python) rather than natural-language
+    prose, then executes the program via an external interpreter to obtain the final
+    answer, offloading precise numerical computation and symbolic manipulation to
+    the interpreter rather than performing them in natural language.
+- type: key-claim
+  title: Key claim about Program of Thoughts
+  body: Program of Thoughts separates reasoning (what to compute) from computation
+    (how to compute it precisely), and empirical evidence shows that this separation
+    significantly reduces arithmetic errors on multi-step quantitative tasks because
+    the model no longer attempts to perform multi-digit arithmetic in the token generation
+    process, where it is unreliable, but delegates it to a reliable symbolic executor.
+- type: warning
+  title: Common pitfall regarding Program of Thoughts
+  body: Program of Thoughts is limited to problems that can be fully formalised as
+    executable code; tasks requiring commonsense judgment, subjective evaluation,
+    or open-ended creativity resist complete formalisation, and forcing them into
+    the program-of-thoughts framework produces code that compiles but does not capture
+    the actual reasoning the task requires.

@@ -1,0 +1,44 @@
+concept: Latent Reasoning Space
+domain: prompt-engineering
+secondary_domains:
+- cognitive-architecture
+- model-design
+aliases:
+- latent compute space
+- hidden reasoning space
+- internal representational space
+broader:
+- extended-thinking-architecture
+- transformer-attention-mechanism
+related:
+- extended-thinking-architecture
+- thinking-tag-semantics
+- kv-cache-mechanics
+- token-budget-management
+prerequisites:
+- transformer-attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Latent Reasoning Space
+  body: Latent Reasoning Space refers to the high-dimensional activation space within
+    a transformer model where implicit reasoning operations occur as information propagates
+    through attention heads and feed-forward layers, constituting a computational
+    resource that is distinct from and prior to the explicitly verbalisable chain-of-thought
+    produced in the token output stream.
+- type: key-claim
+  title: Key claim about Latent Reasoning Space
+  body: Latent Reasoning Space is the substrate where much of the model's actual inference
+    computation takes place, and extended thinking architectures partially externalise
+    this space into the context window; the distinction matters because token-level
+    reasoning traces are only a partial projection of the model's internal inference
+    process, not a complete readout of it.
+- type: warning
+  title: Common pitfall regarding Latent Reasoning Space
+  body: Latent Reasoning Space is not directly inspectable by prompt engineers or
+    end users; claims about what "the model is actually thinking" based solely on
+    the token-level output (including thinking-tag traces) are interpretations of
+    a projection, not direct observations, making attribution of specific reasoning
+    errors to specific internal mechanisms inherently uncertain without interpretability
+    tooling.

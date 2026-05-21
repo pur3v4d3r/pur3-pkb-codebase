@@ -1,0 +1,48 @@
+concept: QLoRA
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- quantization
+- parameter-efficient-fine-tuning
+aliases:
+- Quantised LoRA
+- QLoRA fine-tuning
+- 4-bit fine-tuning
+broader:
+- lora-low-rank-adaptation
+- model-quantization
+related:
+- lora-low-rank-adaptation
+- parameter-efficient-fine-tuning
+- model-quantization
+- bitsandbytes
+prerequisites:
+- lora-low-rank-adaptation
+- model-quantization
+- fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: QLoRA
+  body: QLoRA (Quantised Low-Rank Adaptation) is a fine-tuning method that combines
+    4-bit quantisation of the frozen base model with LoRA adaptation of the trainable
+    low-rank matrices, enabling fine-tuning of models that would otherwise not fit
+    in GPU memory. Introduced by Dettmers et al. (2023), QLoRA uses a novel 4-bit
+    NormalFloat (NF4) quantisation data type, double quantisation to reduce memory
+    further, and paged optimisers to manage memory spikes during gradient computation.
+    The result is that a 65B-parameter model can be fine-tuned on a single 48 GB GPU
+    with performance comparable to full 16-bit fine-tuning.
+- type: key-claim
+  title: Key claim about QLoRA
+  body: QLoRA fundamentally democratised large-model fine-tuning by reducing the hardware
+    requirements from multi-GPU clusters to single-consumer GPUs, demonstrating that
+    the information bottleneck in fine-tuning is not VRAM-limited in the way previously
+    assumed and that quantisation noise in the frozen backbone is small enough to
+    be compensated by the LoRA adapter layers.
+- type: warning
+  title: Common pitfall regarding QLoRA
+  body: QLoRA's quantisation introduces irreducible noise in the frozen backbone weights,
+    which can accumulate with longer training or when fine-tuning on tasks that require
+    precise numerical outputs — for applications where small errors matter (e.g.,
+    code generation, mathematical reasoning), full-precision or 8-bit fine-tuning
+    may be preferable despite the higher memory cost.

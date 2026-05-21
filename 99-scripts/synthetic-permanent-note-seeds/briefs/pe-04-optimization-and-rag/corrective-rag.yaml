@@ -1,0 +1,44 @@
+concept: Corrective RAG
+domain: prompt-engineering
+secondary_domains:
+- retrieval
+- error-correction
+aliases:
+- CRAG
+- corrective retrieval
+- retrieval with validation
+broader:
+- retrieval-augmented-generation
+related:
+- retrieval-augmented-generation
+- self-rag
+- chain-of-verification
+- hallucination-detection
+prerequisites:
+- retrieval-augmented-generation
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Corrective RAG
+  body: Corrective RAG is a retrieval-augmented generation strategy that adds a lightweight
+    relevance evaluator to the retrieval stage; if the evaluator judges retrieved
+    documents to be irrelevant or ambiguous, the system triggers a corrective action
+    — such as web search, query reformulation, or decomposition into sub-queries —
+    before passing the context to the generator, rather than blindly conditioning
+    on potentially unhelpful retrievals.
+- type: key-claim
+  title: Key claim about Corrective RAG
+  body: Corrective RAG dramatically reduces the impact of retrieval failures by treating
+    the retrieved context as a hypothesis to be validated rather than a fact to be
+    accepted; by interposing a quality gate between retrieval and generation, it breaks
+    the assumption in standard RAG that whatever the retriever returns is beneficial,
+    and empirical results show it substantially reduces hallucination rates on questions
+    where the initial retrieval is insufficient.
+- type: warning
+  title: Common pitfall regarding Corrective RAG
+  body: Corrective RAG adds latency and complexity to the retrieval pipeline; when
+    the relevance evaluator triggers corrective retrieval, the total number of retrieval
+    and generation calls approximately doubles, making Corrective RAG unsuitable for
+    latency-sensitive applications where the first-pass retrieval failure rate is
+    high enough to make the average-case latency unacceptable.

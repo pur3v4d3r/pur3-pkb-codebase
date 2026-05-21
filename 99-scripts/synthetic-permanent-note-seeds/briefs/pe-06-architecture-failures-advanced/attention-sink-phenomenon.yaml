@@ -1,0 +1,47 @@
+concept: Attention Sink Phenomenon
+domain: prompt-engineering
+secondary_domains:
+- model-behaviour
+- interpretability
+aliases:
+- attention sink
+- initial token attention
+- streaming LLM artefact
+broader:
+- transformer-attention-mechanism
+- model-behaviour
+related:
+- transformer-attention-mechanism
+- context-window-management
+- lost-in-the-middle-effect
+- kv-cache-mechanics
+prerequisites:
+- transformer-attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Attention Sink Phenomenon
+  body: Attention Sink Phenomenon refers to the empirical observation that transformer
+    models consistently assign disproportionately high attention weights to the initial
+    tokens in a sequence — particularly the first token — across many layers and heads,
+    regardless of the semantic content of those tokens, suggesting that these tokens
+    serve as structural anchors for the attention mechanism rather than semantically
+    meaningful context.
+- type: key-claim
+  title: Key claim about Attention Sink Phenomenon
+  body: 'Attention Sink Phenomenon has practical implications for context window extension
+    and streaming inference: because attention sinks concentrate at fixed initial
+    positions, removing or sliding the context window past the initial tokens (as
+    required for infinite-length streaming) disrupts the attention pattern and degrades
+    model performance significantly — a finding that motivated architectures like
+    StreamingLLM which preserve initial "sink tokens" even when sliding the context
+    window.'
+- type: warning
+  title: Common pitfall regarding Attention Sink Phenomenon
+  body: Attention Sink Phenomenon means that special tokens or filler tokens at the
+    beginning of the context — including BOS tokens, system prompt structural tokens,
+    or even empty padding — influence the model's attention distribution across the
+    entire context in ways that are not visible at the output level, creating a subtle
+    dependence on input prefix structure that prompt engineers rarely account for
+    and that can produce unexpected behaviour when prompt structure changes.

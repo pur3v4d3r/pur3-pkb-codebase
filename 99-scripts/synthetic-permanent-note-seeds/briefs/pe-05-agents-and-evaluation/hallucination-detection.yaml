@@ -1,0 +1,47 @@
+concept: Hallucination Detection
+domain: prompt-engineering
+secondary_domains:
+- factuality
+- evaluation
+aliases:
+- hallucination identification
+- factual error detection
+- confabulation detection
+broader:
+- evaluation-methods
+- hallucination-taxonomy
+related:
+- hallucination-taxonomy
+- factual-consistency-evaluation
+- llm-as-judge
+- chain-of-verification
+prerequisites:
+- large-language-models
+- evaluation-methods
+- natural-language-inference
+confidence: high
+callouts:
+- type: definition
+  title: Hallucination Detection
+  body: Hallucination Detection is the task of automatically identifying whether a
+    language model's output contains fabricated, unsupported, or factually incorrect
+    claims — including both intrinsic hallucinations (contradictions of provided source
+    material) and extrinsic hallucinations (unverifiable claims not derivable from
+    the source) — using methods ranging from NLI-based entailment checking to retrieval-based
+    verification and LLM-as-judge approaches.
+- type: key-claim
+  title: Key claim about Hallucination Detection
+  body: Hallucination Detection is a prerequisite for deploying language models in
+    high-stakes applications, but it remains an open research problem rather than
+    a solved engineering challenge; current detection methods have substantial false
+    negative rates on subtle factual errors, and the methods that are most accurate
+    (human expert review) are not scalable, creating a reliability gap between what
+    is measurable and what is deployable.
+- type: warning
+  title: Common pitfall regarding Hallucination Detection
+  body: Hallucination Detection systems trained on one domain or hallucination type
+    often fail to generalise to others; a detector calibrated on Wikipedia-style factual
+    claims may miss domain-specific technical errors, and a detector that identifies
+    citation hallucinations may completely miss logical hallucinations where the claims
+    are individually accurate but their stated causal relationship is fabricated —
+    making coverage across hallucination types a critical but rarely evaluated dimension.

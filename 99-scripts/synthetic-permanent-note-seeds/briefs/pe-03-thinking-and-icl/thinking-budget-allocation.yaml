@@ -1,0 +1,43 @@
+concept: Thinking Budget Allocation
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- resource-management
+aliases:
+- thinking token budget
+- reasoning budget
+- compute budget for thinking
+broader:
+- extended-thinking-architecture
+- token-budget-management
+related:
+- extended-thinking-architecture
+- token-budget-management
+- thinking-tag-semantics
+- context-window-management
+prerequisites:
+- extended-thinking-architecture
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Thinking Budget Allocation
+  body: Thinking Budget Allocation refers to the explicit specification of a maximum
+    number of tokens reserved for the model's thinking trace in an extended-thinking
+    session, acting as a resource constraint that forces the model to prioritise its
+    reasoning effort and that allows the deployment system to balance computational
+    cost against reasoning depth.
+- type: key-claim
+  title: Key claim about Thinking Budget Allocation
+  body: 'Thinking Budget Allocation reveals a fundamental capability–cost trade-off
+    in extended thinking: larger thinking budgets improve performance on hard reasoning
+    tasks but increase latency and cost, and empirical evidence shows diminishing
+    returns beyond a task-specific threshold — meaning optimal budget allocation requires
+    task complexity estimation, not a single universal setting.'
+- type: warning
+  title: Common pitfall regarding Thinking Budget Allocation
+  body: Thinking Budget Allocation can produce budget-filling artefacts when the model
+    has been trained on signals that reward using the full budget; the model may generate
+    low-value exploratory content to reach the token limit rather than stopping when
+    reasoning is complete, which wastes budget and sometimes introduces late-stage
+    confusion that degrades the final response quality.

@@ -1,0 +1,47 @@
+concept: Self-Play Fine-Tuning
+domain: llm-fine-tuning
+secondary_domains:
+- ai-alignment
+- reinforcement-learning
+- game-theory
+aliases:
+- SPIN
+- self-play training
+- self-improvement via self-play
+broader:
+- fine-tuning
+- reinforcement-learning-from-human-feedback
+related:
+- reinforcement-learning-from-human-feedback
+- direct-preference-optimization
+- self-refine
+- self-consistency-sampling
+- iterated-amplification
+prerequisites:
+- fine-tuning
+- reinforcement-learning-from-human-feedback
+confidence: high
+callouts:
+- type: definition
+  title: Self-Play Fine-Tuning
+  body: Self-Play Fine-Tuning (SPIN) is a method for improving a language model's
+    capabilities without additional human-labelled data by training the model to distinguish
+    its own outputs from human-written text. The model acts as both a generator (producing
+    synthetic training examples) and a discriminator (learning to identify them as
+    inferior to human text), creating a self-improving loop analogous to GAN training.
+    Over iterations, the generator improves to produce outputs that are harder to
+    distinguish from human text, effectively distilling the patterns in the human
+    data more thoroughly than a single supervised fine-tuning pass.
+- type: key-claim
+  title: Key claim about Self-Play Fine-Tuning
+  body: Self-play fine-tuning demonstrates that the supervision signal in human-written
+    text can be extracted iteratively without additional human annotation — the quality
+    gap between model outputs and human text itself encodes a meaningful learning
+    signal that the model can exploit through the discriminator objective, effectively
+    providing a form of curriculum that tightens as the model improves.
+- type: warning
+  title: Common pitfall regarding Self-Play Fine-Tuning
+  body: Self-play fine-tuning can introduce or amplify existing biases in the model's
+    outputs if the generator component drifts toward a mode collapse — producing a
+    narrow distribution of high-confidence outputs that fool the discriminator but
+    poorly represent the diversity of the original human text distribution.

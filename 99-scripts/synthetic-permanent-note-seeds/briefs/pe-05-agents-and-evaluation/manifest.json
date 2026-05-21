@@ -1,0 +1,162 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-05-agents-and-evaluation",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-05-agents-and-evaluation.md",
+    "notes": "Twenty-three concepts covering agentic LLM frameworks and evaluation methods.\nAgentic section covers ReAct, plan-and-execute, reflexion agents, toolformer,\nfunction calling, multi-agent debate, hierarchical orchestration, scratchpad,\nchain-of-action, task decomposition, critic agents, and self-refine.\nEvaluation section covers LLM-as-judge, CoT faithfulness, hallucination\ndetection, factual consistency, prompt sensitivity, benchmark overfitting,\nGSM8K, HotpotQA, calibration, and uncertainty quantification."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-05-agents-and-evaluation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-05-agents-and-evaluation"
+  },
+  "counts": {
+    "parsed": 23,
+    "accepted": 23,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "ReAct Reasoning Acting",
+      "kebab": "react-reasoning-acting",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/react-reasoning-acting.yaml",
+      "expected_seed_filename": "react-reasoning-acting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Plan-and-Execute Agents",
+      "kebab": "plan-and-execute-agents",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/plan-and-execute-agents.yaml",
+      "expected_seed_filename": "plan-and-execute-agents-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reflexion Agent Architecture",
+      "kebab": "reflexion-agent-architecture",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/reflexion-agent-architecture.yaml",
+      "expected_seed_filename": "reflexion-agent-architecture-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Toolformer",
+      "kebab": "toolformer",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/toolformer.yaml",
+      "expected_seed_filename": "toolformer-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Function Calling",
+      "kebab": "function-calling",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/function-calling.yaml",
+      "expected_seed_filename": "function-calling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Tool Use in LLMs",
+      "kebab": "tool-use-in-llms",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/tool-use-in-llms.yaml",
+      "expected_seed_filename": "tool-use-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Multi-Agent Debate",
+      "kebab": "multi-agent-debate",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/multi-agent-debate.yaml",
+      "expected_seed_filename": "multi-agent-debate-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Hierarchical Agent Orchestration",
+      "kebab": "hierarchical-agent-orchestration",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/hierarchical-agent-orchestration.yaml",
+      "expected_seed_filename": "hierarchical-agent-orchestration-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Agent Scratchpad",
+      "kebab": "agent-scratchpad",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/agent-scratchpad.yaml",
+      "expected_seed_filename": "agent-scratchpad-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chain of Action",
+      "kebab": "chain-of-action",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/chain-of-action.yaml",
+      "expected_seed_filename": "chain-of-action-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Task Decomposition Agents",
+      "kebab": "task-decomposition-agents",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/task-decomposition-agents.yaml",
+      "expected_seed_filename": "task-decomposition-agents-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Critic Agents",
+      "kebab": "critic-agents",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/critic-agents.yaml",
+      "expected_seed_filename": "critic-agents-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Refine",
+      "kebab": "self-refine",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/self-refine.yaml",
+      "expected_seed_filename": "self-refine-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "LLM as Judge",
+      "kebab": "llm-as-judge",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/llm-as-judge.yaml",
+      "expected_seed_filename": "llm-as-judge-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chain of Thought Faithfulness",
+      "kebab": "chain-of-thought-faithfulness",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/chain-of-thought-faithfulness.yaml",
+      "expected_seed_filename": "chain-of-thought-faithfulness-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Hallucination Detection",
+      "kebab": "hallucination-detection",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/hallucination-detection.yaml",
+      "expected_seed_filename": "hallucination-detection-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Factual Consistency Evaluation",
+      "kebab": "factual-consistency-evaluation",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/factual-consistency-evaluation.yaml",
+      "expected_seed_filename": "factual-consistency-evaluation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Sensitivity Analysis",
+      "kebab": "prompt-sensitivity-analysis",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/prompt-sensitivity-analysis.yaml",
+      "expected_seed_filename": "prompt-sensitivity-analysis-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Benchmark Overfitting",
+      "kebab": "benchmark-overfitting",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/benchmark-overfitting.yaml",
+      "expected_seed_filename": "benchmark-overfitting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "GSM8K Benchmark",
+      "kebab": "gsm8k-benchmark",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/gsm8k-benchmark.yaml",
+      "expected_seed_filename": "gsm8k-benchmark-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "HotpotQA Benchmark",
+      "kebab": "hotpotqa-benchmark",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/hotpotqa-benchmark.yaml",
+      "expected_seed_filename": "hotpotqa-benchmark-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Calibration in LLMs",
+      "kebab": "calibration-in-llms",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/calibration-in-llms.yaml",
+      "expected_seed_filename": "calibration-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Uncertainty Quantification LLMs",
+      "kebab": "uncertainty-quantification-llms",
+      "brief_path": "briefs/pe-05-agents-and-evaluation/uncertainty-quantification-llms.yaml",
+      "expected_seed_filename": "uncertainty-quantification-llms-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

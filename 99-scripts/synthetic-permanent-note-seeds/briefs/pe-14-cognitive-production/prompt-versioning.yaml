@@ -1,0 +1,46 @@
+concept: Prompt Versioning
+domain: production-deployment
+secondary_domains:
+- software-engineering
+- prompt-engineering
+- mlops
+aliases:
+- prompt version control
+- prompt versioning system
+- prompt change management
+broader:
+- production-deployment
+- prompt-engineering
+related:
+- prompt-regression-testing
+- prompt-registry-management
+- a-b-testing-prompts
+- prompt-monitoring-and-alerting
+prerequisites:
+- prompt-engineering
+- software-version-control
+- mlops
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Versioning
+  body: 'Prompt Versioning is the practice of applying systematic version control
+    to prompt templates — tracking changes, maintaining history, and managing multiple
+    versions of prompts across development and production environments, analogous
+    to code version control. A prompt versioning system records: the prompt text at
+    each version, the rationale for the change, evaluation metrics before and after
+    the change, the model version the prompt was evaluated with, and the deployment
+    date. Without versioning, prompt changes are difficult to audit, roll back, or
+    diagnose when they cause production quality regressions.'
+- type: key-claim
+  title: Key claim about Prompt Versioning
+  body: Prompt versioning is as important as code versioning for LLM-powered applications
+    — prompts are program code in natural language form, and their unversioned modification
+    is a leading cause of unexplained production quality regressions that are difficult
+    to diagnose and fix without a prompt version history to compare against.
+- type: warning
+  title: Common pitfall regarding Prompt Versioning
+  body: Prompt versioning must be coupled with model version tracking — a prompt optimised
+    for one model version may produce degraded outputs on a new model version, and
+    version control systems that track prompt changes without tracking the model version
+    the prompt was evaluated against cannot diagnose model-upgrade regressions.

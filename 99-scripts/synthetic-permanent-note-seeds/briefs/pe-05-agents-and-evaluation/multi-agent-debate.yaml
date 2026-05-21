@@ -1,0 +1,45 @@
+concept: Multi-Agent Debate
+domain: prompt-engineering
+secondary_domains:
+- multi-agent-systems
+- ensemble-methods
+aliases:
+- society of mind prompting
+- multi-agent argumentation
+- LLM debate
+broader:
+- agentic-frameworks
+- ensemble-methods
+related:
+- critic-agents
+- self-refine
+- self-consistency-sampling
+- agentic-frameworks
+prerequisites:
+- large-language-models
+- agentic-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Multi-Agent Debate
+  body: Multi-Agent Debate is a prompting strategy in which multiple instances of
+    a language model each independently generate a response to the same input, then
+    engage in multiple rounds of argumentation where each agent reads the other agents'
+    responses and revises its own position, converging on a final answer through the
+    adversarial dialogue process.
+- type: key-claim
+  title: Key claim about Multi-Agent Debate
+  body: 'Multi-Agent Debate achieves error correction through structured disagreement:
+    independent agents often make different errors, and the debate process creates
+    pressure to defend claims with reasoning — exposing unsupported assertions that
+    would survive unchallenged in single-agent generation, empirically improving accuracy
+    on complex reasoning tasks compared to single-agent chain-of-thought or majority
+    voting across independent samples.'
+- type: warning
+  title: Common pitfall regarding Multi-Agent Debate
+  body: Multi-Agent Debate exhibits a capitulation failure mode in which minority-position
+    agents abandon correct positions to conform with the majority, especially when
+    the majority agents express their incorrect positions confidently; the social
+    dynamics of argumentation modelled by the LLM can override epistemic standards,
+    meaning debate can increase rather than decrease error rates on tasks where the
+    majority agents initially converge on the wrong answer.

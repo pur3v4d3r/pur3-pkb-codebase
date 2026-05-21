@@ -1,0 +1,50 @@
+concept: Output Schema Enforcement
+domain: structured-generation
+secondary_domains:
+- api-integration
+- software-engineering
+- llm-reliability
+aliases:
+- schema validation for LLMs
+- output validation
+- response schema enforcement
+broader:
+- structured-generation
+- structured-prediction-prompting
+related:
+- json-mode-prompting
+- grammar-constrained-decoding
+- function-schema-design
+- guided-generation
+- pydantic-output-parsing
+prerequisites:
+- json-schema
+- structured-generation
+- api-integration
+confidence: high
+callouts:
+- type: definition
+  title: Output Schema Enforcement
+  body: 'Output Schema Enforcement refers to the system-level mechanisms used to guarantee
+    that language model outputs conform to a specified schema, combining model-level
+    constraints (JSON mode, grammar-constrained decoding) with application-level validation
+    (Pydantic models, JSON Schema validators, retry logic). A complete output schema
+    enforcement pipeline typically involves: schema definition in a type-safe format,
+    schema injection into the model prompt, API-level format constraints where available,
+    post-generation schema validation, retry-with-error prompting when validation
+    fails, and fallback handling for persistent validation failures.'
+- type: key-claim
+  title: Key claim about Output Schema Enforcement
+  body: Robust output schema enforcement requires defence in depth — relying on any
+    single mechanism (prompt instructions, JSON mode, or runtime validation alone)
+    produces a system with an unacceptable failure rate in production, while layering
+    multiple enforcement mechanisms reduces the failure rate multiplicatively, making
+    schema enforcement architecturally similar to fault-tolerant system design.
+- type: warning
+  title: Common pitfall regarding Output Schema Enforcement
+  body: Retry-with-error prompting — showing the model its malformed output and asking
+    it to fix the error — is effective for simple schema violations but can create
+    failure loops for systematic schema misunderstandings, where the model repeatedly
+    produces the same type of violation because it does not understand the schema
+    constraint; these failures require updating the schema documentation or few-shot
+    examples rather than more retries.

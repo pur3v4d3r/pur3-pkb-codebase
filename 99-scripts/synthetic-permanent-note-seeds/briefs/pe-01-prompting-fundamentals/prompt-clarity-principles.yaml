@@ -1,0 +1,37 @@
+concept: Prompt Clarity Principles
+domain: prompt-engineering
+secondary_domains:
+- technical-writing
+- llm-inference
+aliases:
+- prompt clarity
+- clear prompting
+broader:
+- prompting
+related:
+- instruction-following
+- prompt-formatting
+- negative-prompting
+- positive-framing-in-prompts
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Clarity Principles
+  body: Prompt Clarity Principles are the set of compositional and rhetorical guidelines
+    — including specificity, atomicity, positive framing, disambiguation of pronouns,
+    and avoidance of implicit assumptions — that reduce the gap between the prompt
+    author's intent and the model's interpretation of the task.
+- type: key-claim
+  title: Key claim about Prompt Clarity Principles
+  body: 'Prompt Clarity Principles address the fundamental asymmetry between prompt
+    authoring and prompt reading: the author knows what they mean; the model must
+    infer it from tokens alone, making the elimination of interpretive ambiguity the
+    single most reliable path to consistent outputs without increasing prompt length.'
+- type: warning
+  title: Common pitfall regarding Prompt Clarity Principles
+  body: Prompt Clarity Principles do not guarantee unique interpretation; even maximally
+    clear prompts contain semantic degrees of freedom that the model resolves via
+    its training distribution, so clarity reduces variance but does not eliminate
+    it — especially for tasks where the training corpus contains divergent conventions.

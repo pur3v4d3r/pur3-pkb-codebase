@@ -1,0 +1,50 @@
+concept: Compressive Memory Mechanisms
+domain: llm-memory
+secondary_domains:
+- llm-architecture
+- long-context-llms
+- cognitive-science
+aliases:
+- memory compression
+- context compression
+- compressive transformers
+broader:
+- llm-memory
+- long-context-llms
+related:
+- long-context-prompting-strategies
+- summarization-as-compression
+- context-distillation
+- memory-augmented-neural-networks
+prerequisites:
+- transformer-attention-mechanism
+- long-context-llms
+- llm-memory
+confidence: high
+callouts:
+- type: definition
+  title: Compressive Memory Mechanisms
+  body: Compressive Memory Mechanisms are architectures and techniques that compress
+    older or less relevant context into more compact representations to extend effective
+    memory capacity beyond the context window, rather than simply discarding old context.
+    Examples include the Compressive Transformer, which compresses the oldest activations
+    into a secondary memory with a lossy compression operation; H2O (Heavy Hitter
+    Oracle), which selectively retains attention heads that have contributed most
+    to previous predictions; MemGPT, which manages a hierarchical memory system with
+    explicit compression and promotion operations; and various recurrent summarisation
+    approaches that distil older context into summary tokens.
+- type: key-claim
+  title: Key claim about Compressive Memory Mechanisms
+  body: Compressive memory mechanisms demonstrate that the choice between exact recall
+    and capacity is not binary — by selectively compressing information based on its
+    predicted relevance to future queries, it is possible to retain substantially
+    more historical context than the raw context window allows while incurring smaller
+    degradation in recall quality than simple truncation.
+- type: warning
+  title: Common pitfall regarding Compressive Memory Mechanisms
+  body: Compressive memory mechanisms introduce a lossy compression step that can
+    produce catastrophic retrieval failures on long-range dependencies — information
+    that appears low-priority at compression time may be critical for a query that
+    occurs much later, and the challenge of predicting what will be relevant in the
+    future remains unsolved, making compressive approaches less reliable than full-context
+    attention for tasks with unpredictable long-range dependencies.

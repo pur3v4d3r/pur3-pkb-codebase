@@ -1,0 +1,46 @@
+concept: DSPy Framework
+domain: prompt-engineering
+secondary_domains:
+- framework-design
+- nlp-systems
+aliases:
+- DSPy
+- Declarative Self-improving Python
+- DSPy programming model
+broader:
+- automatic-prompt-engineering
+- gradient-free-prompt-optimization
+related:
+- automatic-prompt-engineering
+- gradient-free-prompt-optimization
+- prompt-tuning
+- chain-of-thought-prompting
+prerequisites:
+- automatic-prompt-engineering
+- large-language-models
+- few-shot-prompting
+confidence: high
+callouts:
+- type: definition
+  title: DSPy Framework
+  body: DSPy Framework is a programming model for building language model pipelines
+    in which the developer specifies the desired input–output behaviour of each module
+    declaratively, and a DSPy compiler automatically optimises the prompts, few-shot
+    demonstrations, and module configurations to maximise a user-defined metric on
+    a development set, replacing manual prompt engineering with algorithm-driven prompt
+    compilation.
+- type: key-claim
+  title: Key claim about DSPy Framework
+  body: 'DSPy Framework reconceptualises prompt engineering as a software engineering
+    problem: rather than hand-tuning natural language instructions, the developer
+    defines a task specification and a metric, and the framework''s optimiser finds
+    the prompt artefacts that satisfy the specification, enabling reproducible, version-controlled,
+    and systematically improved LLM pipelines rather than artisanal prompt collections.'
+- type: warning
+  title: Common pitfall regarding DSPy Framework
+  body: DSPy Framework introduces significant learning curve and infrastructure overhead;
+    the compilation step requires a labelled development set (even a small one), a
+    metric function, and sufficient computational budget for multiple optimisation
+    rounds, meaning it is most cost-effective for stable production pipelines and
+    less appropriate for one-off exploratory tasks where manual prompting is faster
+    to iterate.

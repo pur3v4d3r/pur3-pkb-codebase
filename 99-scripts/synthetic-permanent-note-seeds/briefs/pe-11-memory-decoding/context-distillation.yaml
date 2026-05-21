@@ -1,0 +1,50 @@
+concept: Context Distillation
+domain: llm-memory
+secondary_domains:
+- prompt-engineering
+- knowledge-distillation
+- llm-fine-tuning
+aliases:
+- prompt distillation
+- context compression via distillation
+- system prompt distillation
+broader:
+- knowledge-distillation
+- long-context-prompting-strategies
+related:
+- long-context-prompting-strategies
+- summarization-as-compression
+- compressive-memory-mechanisms
+- knowledge-distillation
+- few-shot-prompting
+prerequisites:
+- knowledge-distillation
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Context Distillation
+  body: Context Distillation is the process of training a language model to internalise
+    the knowledge or behavioural guidelines contained in a long prompt — such as a
+    detailed system prompt, a set of few-shot examples, or a rules document — so that
+    the model exhibits those behaviours without requiring the prompt to be included
+    at inference time. The distillation procedure involves generating training examples
+    using the full prompt and then fine-tuning the model on those examples without
+    the prompt, teaching the model to reproduce the prompt-conditioned behaviour from
+    its weights alone. This reduces inference cost and latency while preserving the
+    behavioural benefits of the original prompt.
+- type: key-claim
+  title: Key claim about Context Distillation
+  body: Context distillation is the mechanism by which the knowledge in prompt engineering
+    can be converted into parametric model improvements — it provides a principled
+    path from "the right prompt makes this model behave correctly" to "the model behaves
+    correctly without the prompt", making it a key technique for deploying refined
+    prompt-derived behaviours at scale without per-request prompt overhead.
+- type: warning
+  title: Common pitfall regarding Context Distillation
+  body: Context distillation can inadvertently encode the distribution-specific biases
+    of the examples used for distillation — if the training examples generated under
+    the full prompt represent a narrow distribution, the distilled model may fail
+    to generalise the desired behaviour to prompts that differ from the distillation
+    distribution, reproducing the failure modes of narrow fine-tuning rather than
+    the generalisation benefits of the original prompt.

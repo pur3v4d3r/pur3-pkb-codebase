@@ -1,0 +1,46 @@
+concept: Automatic Prompt Engineering
+domain: prompt-engineering
+secondary_domains:
+- meta-learning
+- nlp-research
+aliases:
+- APE
+- auto-prompt
+- automated prompt search
+broader:
+- prompt-optimization
+narrower:
+- gradient-free-prompt-optimization
+- evolutionary-prompt-optimization
+related:
+- gradient-free-prompt-optimization
+- dspy-framework
+- prompt-paraphrasing
+- reflexion-based-prompt-refinement
+prerequisites:
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Automatic Prompt Engineering
+  body: Automatic Prompt Engineering is the use of computational methods — including
+    LLM-generated candidates, scoring functions, and search algorithms — to discover
+    high-performing prompt templates without relying solely on human intuition and
+    manual trial-and-error, typically framing prompt selection as an optimisation
+    problem over a discrete or continuous prompt space.
+- type: key-claim
+  title: Key claim about Automatic Prompt Engineering
+  body: Automatic Prompt Engineering demonstrates that human-authored prompts are
+    frequently sub-optimal even when written by domain experts, and that systematically
+    searching the space of possible instructions with an automated evaluator can find
+    prompts that generalise better across input distributions than those produced
+    by any individual prompt engineer operating within a limited budget of manual
+    attempts.
+- type: warning
+  title: Common pitfall regarding Automatic Prompt Engineering
+  body: Automatic Prompt Engineering risks overfitting the discovered prompts to the
+    evaluation set used during the search process; prompts found by optimising on
+    a fixed validation split may fail to generalise to slightly different task distributions
+    or input styles, and the benchmark performance of automatically engineered prompts
+    should always be validated on held-out data before deployment.

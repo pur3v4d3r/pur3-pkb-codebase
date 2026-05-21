@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-10-structured-multimodal",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-10-structured-multimodal.md",
+    "notes": "Sixteen concepts covering structured output generation and multimodal\nprompting. The structured output section covers the methods by which\nLLM outputs are constrained to machine-parseable formats (JSON mode,\ngrammar-constrained decoding, function schemas, guided generation,\nconstrained beam search, tool schema optimisation). The multimodal\nsection covers prompting patterns specific to vision-language models\n(VL prompting, image captioning, visual CoT, multimodal few-shot,\ndocument understanding, chart and table reasoning, interleaved\nimage-text, grounded visual reasoning). These two clusters represent\ndistinct capability surfaces that are increasingly foundational for\nproduction AI applications."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-10-structured-multimodal",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-10-structured-multimodal"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "JSON Mode Prompting",
+      "kebab": "json-mode-prompting",
+      "brief_path": "briefs/pe-10-structured-multimodal/json-mode-prompting.yaml",
+      "expected_seed_filename": "json-mode-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Grammar-Constrained Decoding",
+      "kebab": "grammar-constrained-decoding",
+      "brief_path": "briefs/pe-10-structured-multimodal/grammar-constrained-decoding.yaml",
+      "expected_seed_filename": "grammar-constrained-decoding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Function Schema Design",
+      "kebab": "function-schema-design",
+      "brief_path": "briefs/pe-10-structured-multimodal/function-schema-design.yaml",
+      "expected_seed_filename": "function-schema-design-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Structured Prediction Prompting",
+      "kebab": "structured-prediction-prompting",
+      "brief_path": "briefs/pe-10-structured-multimodal/structured-prediction-prompting.yaml",
+      "expected_seed_filename": "structured-prediction-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Output Schema Enforcement",
+      "kebab": "output-schema-enforcement",
+      "brief_path": "briefs/pe-10-structured-multimodal/output-schema-enforcement.yaml",
+      "expected_seed_filename": "output-schema-enforcement-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Constrained Beam Search",
+      "kebab": "constrained-beam-search",
+      "brief_path": "briefs/pe-10-structured-multimodal/constrained-beam-search.yaml",
+      "expected_seed_filename": "constrained-beam-search-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Guided Generation",
+      "kebab": "guided-generation",
+      "brief_path": "briefs/pe-10-structured-multimodal/guided-generation.yaml",
+      "expected_seed_filename": "guided-generation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Tool Schema Optimization",
+      "kebab": "tool-schema-optimization",
+      "brief_path": "briefs/pe-10-structured-multimodal/tool-schema-optimization.yaml",
+      "expected_seed_filename": "tool-schema-optimization-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Vision-Language Prompting",
+      "kebab": "vision-language-prompting",
+      "brief_path": "briefs/pe-10-structured-multimodal/vision-language-prompting.yaml",
+      "expected_seed_filename": "vision-language-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Image Captioning Prompts",
+      "kebab": "image-captioning-prompts",
+      "brief_path": "briefs/pe-10-structured-multimodal/image-captioning-prompts.yaml",
+      "expected_seed_filename": "image-captioning-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Visual Chain of Thought",
+      "kebab": "visual-chain-of-thought",
+      "brief_path": "briefs/pe-10-structured-multimodal/visual-chain-of-thought.yaml",
+      "expected_seed_filename": "visual-chain-of-thought-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Multimodal Few-Shot",
+      "kebab": "multimodal-few-shot",
+      "brief_path": "briefs/pe-10-structured-multimodal/multimodal-few-shot.yaml",
+      "expected_seed_filename": "multimodal-few-shot-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Document Understanding Prompts",
+      "kebab": "document-understanding-prompts",
+      "brief_path": "briefs/pe-10-structured-multimodal/document-understanding-prompts.yaml",
+      "expected_seed_filename": "document-understanding-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chart and Table Reasoning",
+      "kebab": "chart-and-table-reasoning",
+      "brief_path": "briefs/pe-10-structured-multimodal/chart-and-table-reasoning.yaml",
+      "expected_seed_filename": "chart-and-table-reasoning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Interleaved Image-Text Prompting",
+      "kebab": "interleaved-image-text-prompting",
+      "brief_path": "briefs/pe-10-structured-multimodal/interleaved-image-text-prompting.yaml",
+      "expected_seed_filename": "interleaved-image-text-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Grounded Visual Reasoning",
+      "kebab": "grounded-visual-reasoning",
+      "brief_path": "briefs/pe-10-structured-multimodal/grounded-visual-reasoning.yaml",
+      "expected_seed_filename": "grounded-visual-reasoning-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

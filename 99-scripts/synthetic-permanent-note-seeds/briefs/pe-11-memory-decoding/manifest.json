@@ -1,0 +1,138 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-11-memory-decoding",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-11-memory-decoding.md",
+    "notes": "Nineteen concepts across two clusters: LLM memory systems and long-context\nmanagement (nine terms), and decoding and sampling strategies (ten terms).\nThe memory section covers the types of memory architecture available to LLM-\nbased agents (episodic memory, external augmentation, MANNs, compressive\nmemory, working memory proxies), the challenges of long-context use (needle\nin a haystack evaluation, long-context prompting strategies, summarisation as\ncompression), and the concept of context distillation. The decoding section\ncovers the full range of sampling strategies (temperature, top-p, top-k,\nmin-p, beam search, best-of-n) and post-hoc quality mechanisms (repetition\npenalty, frequency penalty, contrastive decoding, speculative sampling)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-11-memory-decoding",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-11-memory-decoding"
+  },
+  "counts": {
+    "parsed": 19,
+    "accepted": 19,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Episodic Memory in Agents",
+      "kebab": "episodic-memory-in-agents",
+      "brief_path": "briefs/pe-11-memory-decoding/episodic-memory-in-agents.yaml",
+      "expected_seed_filename": "episodic-memory-in-agents-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "External Memory Augmentation",
+      "kebab": "external-memory-augmentation",
+      "brief_path": "briefs/pe-11-memory-decoding/external-memory-augmentation.yaml",
+      "expected_seed_filename": "external-memory-augmentation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Memory-Augmented Neural Networks",
+      "kebab": "memory-augmented-neural-networks",
+      "brief_path": "briefs/pe-11-memory-decoding/memory-augmented-neural-networks.yaml",
+      "expected_seed_filename": "memory-augmented-neural-networks-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Compressive Memory Mechanisms",
+      "kebab": "compressive-memory-mechanisms",
+      "brief_path": "briefs/pe-11-memory-decoding/compressive-memory-mechanisms.yaml",
+      "expected_seed_filename": "compressive-memory-mechanisms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Long-Context Prompting Strategies",
+      "kebab": "long-context-prompting-strategies",
+      "brief_path": "briefs/pe-11-memory-decoding/long-context-prompting-strategies.yaml",
+      "expected_seed_filename": "long-context-prompting-strategies-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Needle in a Haystack Evaluation",
+      "kebab": "needle-in-a-haystack-evaluation",
+      "brief_path": "briefs/pe-11-memory-decoding/needle-in-a-haystack-evaluation.yaml",
+      "expected_seed_filename": "needle-in-a-haystack-evaluation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Context Distillation",
+      "kebab": "context-distillation",
+      "brief_path": "briefs/pe-11-memory-decoding/context-distillation.yaml",
+      "expected_seed_filename": "context-distillation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Summarisation as Compression",
+      "kebab": "summarisation-as-compression",
+      "brief_path": "briefs/pe-11-memory-decoding/summarisation-as-compression.yaml",
+      "expected_seed_filename": "summarisation-as-compression-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Working Memory Proxies in LLMs",
+      "kebab": "working-memory-proxies-in-llms",
+      "brief_path": "briefs/pe-11-memory-decoding/working-memory-proxies-in-llms.yaml",
+      "expected_seed_filename": "working-memory-proxies-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Temperature Sampling",
+      "kebab": "temperature-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/temperature-sampling.yaml",
+      "expected_seed_filename": "temperature-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Top-P Nucleus Sampling",
+      "kebab": "top-p-nucleus-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/top-p-nucleus-sampling.yaml",
+      "expected_seed_filename": "top-p-nucleus-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Top-K Sampling",
+      "kebab": "top-k-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/top-k-sampling.yaml",
+      "expected_seed_filename": "top-k-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Beam Search Decoding",
+      "kebab": "beam-search-decoding",
+      "brief_path": "briefs/pe-11-memory-decoding/beam-search-decoding.yaml",
+      "expected_seed_filename": "beam-search-decoding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Min-P Sampling",
+      "kebab": "min-p-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/min-p-sampling.yaml",
+      "expected_seed_filename": "min-p-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Repetition Penalty",
+      "kebab": "repetition-penalty",
+      "brief_path": "briefs/pe-11-memory-decoding/repetition-penalty.yaml",
+      "expected_seed_filename": "repetition-penalty-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Frequency Penalty Effects",
+      "kebab": "frequency-penalty-effects",
+      "brief_path": "briefs/pe-11-memory-decoding/frequency-penalty-effects.yaml",
+      "expected_seed_filename": "frequency-penalty-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Contrastive Decoding",
+      "kebab": "contrastive-decoding",
+      "brief_path": "briefs/pe-11-memory-decoding/contrastive-decoding.yaml",
+      "expected_seed_filename": "contrastive-decoding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Speculative Sampling",
+      "kebab": "speculative-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/speculative-sampling.yaml",
+      "expected_seed_filename": "speculative-sampling-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Best-of-N Sampling",
+      "kebab": "best-of-n-sampling",
+      "brief_path": "briefs/pe-11-memory-decoding/best-of-n-sampling.yaml",
+      "expected_seed_filename": "best-of-n-sampling-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

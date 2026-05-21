@@ -1,0 +1,44 @@
+concept: Self-RAG
+domain: prompt-engineering
+secondary_domains:
+- retrieval
+- self-supervised-learning
+aliases:
+- self-reflective RAG
+- Self-RAG
+broader:
+- retrieval-augmented-generation
+related:
+- retrieval-augmented-generation
+- corrective-rag
+- chain-of-verification
+- reflexion
+prerequisites:
+- retrieval-augmented-generation
+- large-language-models
+- fine-tuning
+confidence: high
+callouts:
+- type: definition
+  title: Self-RAG
+  body: Self-RAG is a retrieval-augmented generation framework in which the model
+    is trained to dynamically decide whether to retrieve at all for a given input,
+    to critique the relevance and supportedness of retrieved passages inline, and
+    to assess whether its own generated segments are supported by the retrieved evidence
+    — inserting special reflection tokens that make the retrieval and self-critique
+    process explicit and controllable.
+- type: key-claim
+  title: Key claim about Self-RAG
+  body: Self-RAG addresses the fundamental limitation of standard RAG systems that
+    retrieve unconditionally for every input; by training the model to judge when
+    retrieval is helpful and when the parametric knowledge suffices, Self-RAG reduces
+    noise from irrelevant retrievals on knowledge-sufficient queries while focusing
+    retrieval capacity on genuinely knowledge-demanding ones, improving both efficiency
+    and factual accuracy simultaneously.
+- type: warning
+  title: Common pitfall regarding Self-RAG
+  body: Self-RAG requires fine-tuning the language model on reflection-token supervision,
+    making it inapplicable to API-only models; the quality of the self-critique is
+    only as good as the training signal used to teach the reflection tokens, and if
+    the training data underrepresents certain failure modes, the model's inline self-critique
+    will be confidently wrong on exactly those cases it was not trained to recognise.

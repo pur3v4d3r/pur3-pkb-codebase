@@ -1,0 +1,48 @@
+concept: Frequency Penalty Effects
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+- openai-api
+aliases:
+- frequency penalty
+- presence penalty
+- diversity penalty
+broader:
+- llm-decoding
+related:
+- repetition-penalty
+- temperature-sampling
+- top-p-nucleus-sampling
+prerequisites:
+- llm-decoding
+- repetition-penalty
+confidence: high
+callouts:
+- type: definition
+  title: Frequency Penalty Effects
+  body: Frequency Penalty is a decoding modifier (used in the OpenAI API and similar
+    systems) that applies a negative reward to tokens proportional to how many times
+    they have already appeared in the generated output — the more times a token has
+    appeared, the more its probability is reduced for future generation. Unlike repetition
+    penalty (which applies a fixed multiplicative penalty to any repeated token regardless
+    of frequency), frequency penalty applies an additive penalty that scales linearly
+    with count, progressively discouraging the model from using tokens it has already
+    used many times. Presence penalty is a related parameter that applies a fixed
+    penalty for any token that has appeared at least once, regardless of frequency.
+- type: key-claim
+  title: Key claim about Frequency Penalty Effects
+  body: 'Frequency penalty and presence penalty serve different text diversity objectives:
+    frequency penalty primarily reduces the overuse of high-frequency words (articles,
+    conjunctions, specific domain terms used repeatedly), producing more lexically
+    varied text; presence penalty primarily encourages topic diversity by discouraging
+    the model from returning to any concept already mentioned, which can be counterproductive
+    for focused analytical writing where topic consistency is desirable.'
+- type: warning
+  title: Common pitfall regarding Frequency Penalty Effects
+  body: Frequency penalty can produce unnatural text when applied to content that
+    inherently requires repetition — technical documentation that must repeatedly
+    reference a technical term, legal text with mandatory boilerplate, or multi-step
+    instructions that must refer to the same object at each step are all degraded
+    by high frequency penalties, making it a generation-diversity tool that is inappropriate
+    for precision writing tasks.

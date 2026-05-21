@@ -1,0 +1,47 @@
+concept: GSM8K Benchmark
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- mathematics
+aliases:
+- GSM8K
+- Grade School Math 8K
+- elementary math reasoning benchmark
+broader:
+- benchmark-overfitting
+- evaluation-methods
+related:
+- benchmark-overfitting
+- chain-of-thought-prompting
+- calibration-in-llms
+- hotpotqa-benchmark
+prerequisites:
+- large-language-models
+- evaluation-methods
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: GSM8K Benchmark
+  body: GSM8K Benchmark is an evaluation dataset of approximately 8,500 grade-school-level
+    mathematical word problems requiring multi-step arithmetic reasoning, designed
+    to test LLMs' ability to perform elementary mathematical reasoning through natural
+    language problem solving — serving as a standard benchmark for measuring step-by-step
+    numerical reasoning capability.
+- type: key-claim
+  title: Key claim about GSM8K Benchmark
+  body: GSM8K Benchmark became the primary benchmark driving chain-of-thought research
+    because it is difficult enough to differentiate models that reason in steps from
+    those that attempt direct answer prediction, yet tractable enough for meaningful
+    progress to be measured; its problems require genuine multi-step reasoning but
+    not advanced mathematical knowledge, making it a clean test of the reasoning process
+    rather than the knowledge of mathematical techniques.
+- type: warning
+  title: Common pitfall regarding GSM8K Benchmark
+  body: GSM8K Benchmark has been heavily saturated by frontier models and is increasingly
+    affected by benchmark contamination; models now routinely achieve near-perfect
+    scores on GSM8K, and these scores reflect a combination of genuine mathematical
+    reasoning improvement and training-data contamination that is practically impossible
+    to disentangle — making GSM8K a weak discriminator for comparing current frontier
+    models and an unreliable signal for extrapolating mathematical reasoning to harder
+    problems.

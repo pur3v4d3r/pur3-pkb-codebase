@@ -1,0 +1,44 @@
+concept: HyDE Hypothetical Document Embeddings
+domain: prompt-engineering
+secondary_domains:
+- information-retrieval
+- zero-shot-retrieval
+aliases:
+- HyDE
+- hypothetical document embeddings
+- query expansion via generation
+broader:
+- retrieval-augmented-generation
+- dense-passage-retrieval
+related:
+- dense-passage-retrieval
+- retrieval-augmented-generation
+- zero-shot-prompting
+prerequisites:
+- dense-passage-retrieval
+- large-language-models
+- information-retrieval
+confidence: high
+callouts:
+- type: definition
+  title: HyDE Hypothetical Document Embeddings
+  body: HyDE Hypothetical Document Embeddings is a zero-shot dense retrieval technique
+    in which the language model first generates a hypothetical answer document for
+    a query, and then retrieves real documents by embedding the generated hypothetical
+    document rather than the original query — bridging the semantic gap between short
+    question-style queries and longer answer-style passages in the retrieval corpus.
+- type: key-claim
+  title: Key claim about HyDE Hypothetical Document Embeddings
+  body: HyDE Hypothetical Document Embeddings solves the query–document vocabulary
+    mismatch problem at zero training cost; by having the LLM generate a document
+    in the same style and vocabulary as the retrieval corpus, the embedding comparison
+    is transformed from a question-to-answer embedding comparison (high mismatch)
+    to an answer-to-answer embedding comparison (low mismatch), enabling high-recall
+    retrieval without any fine-tuning of the retrieval encoder.
+- type: warning
+  title: Common pitfall regarding HyDE Hypothetical Document Embeddings
+  body: HyDE Hypothetical Document Embeddings propagates hallucinations into the retrieval
+    stage; if the LLM generates a confident but factually incorrect hypothetical document,
+    the subsequent retrieval will return real documents that are topically similar
+    to the wrong content rather than to the true answer, making the downstream generation
+    condition on a misleading retrieval context that appears well-supported.

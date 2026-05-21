@@ -1,0 +1,39 @@
+concept: Role Prompting
+domain: prompt-engineering
+secondary_domains:
+- persona-design
+- llm-inference
+aliases:
+- role assignment
+- role-based prompting
+broader:
+- prompting
+narrower:
+- persona-assignment
+related:
+- persona-assignment
+- system-prompt-design
+- instruction-following
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Role Prompting
+  body: Role Prompting is the technique of assigning the model a named role, profession,
+    or character at the start of a prompt (e.g., "You are an expert data analyst")
+    to shift its response distribution toward the knowledge, vocabulary, tone, and
+    epistemic norms associated with that role in the training data.
+- type: key-claim
+  title: Key claim about Role Prompting
+  body: Role Prompting works because language models encode rich associations between
+    role labels and characteristic discourse patterns in their training data; instructing
+    the model to adopt a role activates a distributional prior that shifts outputs
+    without requiring explicit instruction of every detail implied by that role.
+- type: warning
+  title: Common pitfall regarding Role Prompting
+  body: Role Prompting can produce overconfident outputs when the assigned role has
+    high epistemic authority (e.g., "You are a medical doctor"); the model may generate
+    role-consistent content even when the correct answer to a question within that
+    role domain is "I am uncertain" or "consult a professional," suppressing appropriate
+    hedging.

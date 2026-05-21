@@ -1,0 +1,52 @@
+concept: Semantic Similarity in Prompts
+domain: embeddings-and-semantic-space
+secondary_domains:
+- prompt-engineering
+- retrieval-augmented-generation
+- in-context-learning
+aliases:
+- prompt semantic similarity
+- embedding-based prompt selection
+- similarity-based retrieval for prompts
+broader:
+- in-context-learning
+- retrieval-augmented-generation
+- text-embedding-models
+related:
+- text-embedding-models
+- cosine-similarity-retrieval
+- retrieval-augmented-few-shot
+- few-shot-example-selection
+- dense-passage-retrieval
+prerequisites:
+- text-embedding-models
+- cosine-similarity-retrieval
+- few-shot-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Similarity in Prompts
+  body: Semantic Similarity in Prompts refers to the use of embedding-based similarity
+    measures to select, rank, or retrieve content for inclusion in prompts — including
+    few-shot examples, retrieved passages, and context documents — based on their
+    semantic proximity to the current query or task. Rather than selecting examples
+    by hand or at random, semantic similarity retrieval uses a text embedding model
+    to find examples that are closest in meaning to the current input, exploiting
+    the finding that few-shot examples semantically similar to the test instance produce
+    better performance than random examples. This approach is fundamental to retrieval-augmented
+    few-shot prompting and RAG system design.
+- type: key-claim
+  title: Key claim about Semantic Similarity in Prompts
+  body: Semantically similar few-shot examples consistently outperform random or hand-crafted
+    fixed examples across diverse tasks, because the semantic proximity between example
+    and test instance reduces the distribution gap the model must bridge — effectively
+    narrowing the task scope within the context window to the specific sub-domain
+    most relevant to the current query.
+- type: warning
+  title: Common pitfall regarding Semantic Similarity in Prompts
+  body: Semantic similarity retrieval can introduce a feedback loop in which examples
+    that are too similar to the test instance cause the model to copy surface patterns
+    rather than reason about the underlying task, and in adversarial settings, a retrieval
+    corpus that has been poisoned with adversarially crafted documents can steer the
+    model's behaviour by exploiting the assumption that retrieved documents are relevant
+    and trustworthy.

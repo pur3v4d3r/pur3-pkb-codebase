@@ -1,0 +1,46 @@
+concept: Chain of Thought Faithfulness
+domain: prompt-engineering
+secondary_domains:
+- interpretability
+- evaluation
+aliases:
+- CoT faithfulness
+- reasoning trace fidelity
+- thought-action coherence
+broader:
+- evaluation-methods
+- chain-of-thought-prompting
+related:
+- chain-of-thought-prompting
+- hallucination-detection
+- llm-as-judge
+- factual-consistency-evaluation
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+- evaluation-methods
+confidence: high
+callouts:
+- type: definition
+  title: Chain of Thought Faithfulness
+  body: Chain of Thought Faithfulness is the degree to which a model's explicitly
+    generated reasoning trace accurately reflects the internal computational process
+    that produced the final answer — measuring whether the stated reasoning is the
+    actual causal mechanism behind the conclusion or a post-hoc rationalisation constructed
+    to appear logically compelling while the answer was determined by other means.
+- type: key-claim
+  title: Key claim about Chain of Thought Faithfulness
+  body: Chain of Thought Faithfulness is a critical evaluation dimension for reasoning
+    transparency because unfaithful reasoning traces are misleading in exactly the
+    cases where reasoning visibility is most needed; a model that produces a plausible
+    but fabricated reasoning chain gives operators false confidence in the traceability
+    of its decisions, making unfaithful CoT more dangerous than no CoT at all from
+    an oversight perspective.
+- type: warning
+  title: Common pitfall regarding Chain of Thought Faithfulness
+  body: 'Chain of Thought Faithfulness is currently unmeasurable with complete reliability:
+    there is no definitive method to verify whether a stated reasoning step causally
+    influenced the final token predictions or was generated independently, and indirect
+    faithfulness tests (such as corrupting reasoning steps and measuring answer changes)
+    are imperfect proxies that can give misleading faithfulness estimates on specific
+    task types.'

@@ -1,0 +1,37 @@
+concept: Positive Framing in Prompts
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- cognitive-linguistics
+aliases:
+- positive instruction framing
+- affirmative prompting
+broader:
+- prompt-clarity-principles
+- prompting
+related:
+- negative-prompting
+- instruction-following
+- prompt-clarity-principles
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Positive Framing in Prompts
+  body: Positive Framing in Prompts is the practice of specifying desired behaviour
+    through direct, affirmative statements of what the model should do rather than
+    through prohibitions of what to avoid — replacing "do not use jargon" with "write
+    in plain language accessible to a general audience."
+- type: key-claim
+  title: Key claim about Positive Framing in Prompts
+  body: Positive Framing in Prompts reduces cognitive double-processing; an affirmative
+    instruction activates the target representation directly, whereas a negative instruction
+    first activates the prohibited representation and then requires inhibition of
+    it, making positive framing empirically more reliable for format and style constraints.
+- type: warning
+  title: Common pitfall regarding Positive Framing in Prompts
+  body: Positive Framing in Prompts is not universally superior; there are genuine
+    cases where the unwanted behaviour is more precisely characterised than the desired
+    one, and forcing a positive reframe can introduce new ambiguity that the original
+    prohibition would have avoided — particularly for safety-critical exclusions.

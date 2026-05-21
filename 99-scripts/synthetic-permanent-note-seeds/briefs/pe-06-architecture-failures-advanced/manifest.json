@@ -1,0 +1,168 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-06-architecture-failures-advanced",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-06-architecture-failures-advanced.md",
+    "notes": "Twenty-four concepts covering transformer architecture mechanics, failure modes\nand mitigations, and advanced prompting patterns. Architecture section covers\nattention, context windows, attention sinks, lost-in-the-middle, position\nencoding, token budgets, KV cache, and speculative decoding. Failure modes\nsection covers prompt injection, jailbreaking, sycophancy, hallucination\ntaxonomy, distractor sensitivity, instruction hierarchy conflict, overthinking,\nand reward hacking. Advanced patterns section covers meta-prompting, System-2\nprompting, chain-of-density, Socratic and maieutic prompting, self-play,\nconstitutional AI, and red-teaming."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-06-architecture-failures-advanced",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-06-architecture-failures-advanced"
+  },
+  "counts": {
+    "parsed": 24,
+    "accepted": 24,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Transformer Attention Mechanism",
+      "kebab": "transformer-attention-mechanism",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/transformer-attention-mechanism.yaml",
+      "expected_seed_filename": "transformer-attention-mechanism-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Context Window Management",
+      "kebab": "context-window-management",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/context-window-management.yaml",
+      "expected_seed_filename": "context-window-management-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Attention Sink Phenomenon",
+      "kebab": "attention-sink-phenomenon",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/attention-sink-phenomenon.yaml",
+      "expected_seed_filename": "attention-sink-phenomenon-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Lost in the Middle Effect",
+      "kebab": "lost-in-the-middle-effect",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/lost-in-the-middle-effect.yaml",
+      "expected_seed_filename": "lost-in-the-middle-effect-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Position Encoding Effects",
+      "kebab": "position-encoding-effects",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/position-encoding-effects.yaml",
+      "expected_seed_filename": "position-encoding-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Token Budget Management",
+      "kebab": "token-budget-management",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/token-budget-management.yaml",
+      "expected_seed_filename": "token-budget-management-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "KV Cache Mechanics",
+      "kebab": "kv-cache-mechanics",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/kv-cache-mechanics.yaml",
+      "expected_seed_filename": "kv-cache-mechanics-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Speculative Decoding",
+      "kebab": "speculative-decoding",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/speculative-decoding.yaml",
+      "expected_seed_filename": "speculative-decoding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Injection",
+      "kebab": "prompt-injection",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/prompt-injection.yaml",
+      "expected_seed_filename": "prompt-injection-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Jailbreaking",
+      "kebab": "jailbreaking",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/jailbreaking.yaml",
+      "expected_seed_filename": "jailbreaking-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Sycophancy in LLMs",
+      "kebab": "sycophancy-in-llms",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/sycophancy-in-llms.yaml",
+      "expected_seed_filename": "sycophancy-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Hallucination Taxonomy",
+      "kebab": "hallucination-taxonomy",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/hallucination-taxonomy.yaml",
+      "expected_seed_filename": "hallucination-taxonomy-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Distractor Sensitivity",
+      "kebab": "distractor-sensitivity",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/distractor-sensitivity.yaml",
+      "expected_seed_filename": "distractor-sensitivity-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Instruction Hierarchy Conflict",
+      "kebab": "instruction-hierarchy-conflict",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/instruction-hierarchy-conflict.yaml",
+      "expected_seed_filename": "instruction-hierarchy-conflict-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Overthinking in LLMs",
+      "kebab": "overthinking-in-llms",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/overthinking-in-llms.yaml",
+      "expected_seed_filename": "overthinking-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Reward Hacking",
+      "kebab": "reward-hacking",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/reward-hacking.yaml",
+      "expected_seed_filename": "reward-hacking-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Meta-Prompting",
+      "kebab": "meta-prompting",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/meta-prompting.yaml",
+      "expected_seed_filename": "meta-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "System 2 Prompting",
+      "kebab": "system-2-prompting",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/system-2-prompting.yaml",
+      "expected_seed_filename": "system-2-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Chain of Density Technique",
+      "kebab": "chain-of-density-technique",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/chain-of-density-technique.yaml",
+      "expected_seed_filename": "chain-of-density-technique-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Socratic Prompting",
+      "kebab": "socratic-prompting",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/socratic-prompting.yaml",
+      "expected_seed_filename": "socratic-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Maieutic Prompting",
+      "kebab": "maieutic-prompting",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/maieutic-prompting.yaml",
+      "expected_seed_filename": "maieutic-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Play Prompting",
+      "kebab": "self-play-prompting",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/self-play-prompting.yaml",
+      "expected_seed_filename": "self-play-prompting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Constitutional AI Method",
+      "kebab": "constitutional-ai-method",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/constitutional-ai-method.yaml",
+      "expected_seed_filename": "constitutional-ai-method-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Red Teaming LLMs",
+      "kebab": "red-teaming-llms",
+      "brief_path": "briefs/pe-06-architecture-failures-advanced/red-teaming-llms.yaml",
+      "expected_seed_filename": "red-teaming-llms-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

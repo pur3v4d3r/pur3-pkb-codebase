@@ -1,0 +1,49 @@
+concept: Beam Search Decoding
+domain: llm-decoding
+secondary_domains:
+- natural-language-generation
+- sequence-to-sequence-models
+aliases:
+- beam search
+- beam decoding
+- breadth-first decoding
+broader:
+- llm-decoding
+narrower:
+- constrained-beam-search
+related:
+- temperature-sampling
+- top-p-nucleus-sampling
+- best-of-n-sampling
+- constrained-beam-search
+- greedy-decoding
+prerequisites:
+- llm-decoding
+- dynamic-programming
+confidence: high
+callouts:
+- type: definition
+  title: Beam Search Decoding
+  body: Beam Search Decoding is a deterministic decoding algorithm that maintains
+    a beam of the B most probable partial sequences at each generation step, expanding
+    each by all possible next tokens, and pruning back to the top-B sequences by cumulative
+    log-probability. By simultaneously tracking multiple high-probability hypotheses,
+    beam search produces more globally coherent sequences than greedy decoding (which
+    commits irrevocably to the highest probability token at each step) — particularly
+    for tasks with a strong correct answer structure, such as translation, summarisation,
+    and code generation.
+- type: key-claim
+  title: Key claim about Beam Search Decoding
+  body: Beam search is the appropriate decoding strategy for sequence-to-sequence
+    tasks where the output has a well-defined correct answer and global coherence
+    matters more than diversity — translation and code generation benefit from beam
+    search's ability to recover from locally suboptimal token choices, while open-ended
+    text generation is better served by sampling methods that avoid the repetitive,
+    safe outputs that beam search tends to produce.
+- type: warning
+  title: Common pitfall regarding Beam Search Decoding
+  body: Beam search exhibits a well-documented failure mode for open-ended generation
+    — it produces bland, repetitive, and high-probability text because it systematically
+    prefers safe completions that have been seen frequently in training data, a problem
+    that became visible at scale and was a key motivation for the development of sampling-based
+    decoding strategies.

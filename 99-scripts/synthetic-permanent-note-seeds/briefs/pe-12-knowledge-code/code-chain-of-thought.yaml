@@ -1,0 +1,49 @@
+concept: Code Chain of Thought
+domain: code-generation
+secondary_domains:
+- prompt-engineering
+- chain-of-thought-prompting
+- software-engineering
+aliases:
+- code CoT
+- algorithmic CoT
+- step-by-step code generation
+broader:
+- code-prompting-strategies
+- chain-of-thought-prompting
+related:
+- chain-of-thought-prompting
+- code-prompting-strategies
+- pseudocode-intermediate-step
+- self-debugging-llm
+prerequisites:
+- chain-of-thought-prompting
+- code-prompting-strategies
+confidence: high
+callouts:
+- type: definition
+  title: Code Chain of Thought
+  body: 'Code Chain of Thought is the application of chain-of-thought prompting to
+    code generation tasks, instructing the model to articulate its algorithmic thinking
+    — the design decisions, data structure choices, and logic flow — before writing
+    the implementation. The reasoning chain might include: identifying edge cases,
+    choosing an algorithm with the required time complexity, designing the function
+    interface, and sketching the implementation in natural language or pseudocode
+    before converting to code. This externalisation of planning reduces the probability
+    of code that is locally coherent but globally incorrect due to missing an early
+    design decision.'
+- type: key-claim
+  title: Key claim about Code Chain of Thought
+  body: Code chain of thought improves performance on algorithmic and complex implementation
+    tasks by forcing the model to commit to a high-level design before filling in
+    implementation details — this prevents the common failure mode of generating syntactically
+    plausible code that satisfies the immediate token context but violates the global
+    requirements of the algorithm.
+- type: warning
+  title: Common pitfall regarding Code Chain of Thought
+  body: Code chain of thought increases token generation cost proportional to the
+    length of the reasoning chain, and the benefit varies substantially by task —
+    for simple, well-defined coding tasks (implement a binary search), the overhead
+    of generating a reasoning chain is not justified by quality improvements, while
+    for complex algorithmic or system design tasks, the reasoning chain produces substantial
+    quality benefits.

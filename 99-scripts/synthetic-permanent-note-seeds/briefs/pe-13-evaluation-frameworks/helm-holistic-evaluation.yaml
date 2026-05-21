@@ -1,0 +1,53 @@
+concept: HELM Holistic Evaluation
+domain: llm-evaluation
+secondary_domains:
+- benchmark-design
+- llm-fairness
+- responsible-ai
+aliases:
+- HELM
+- holistic evaluation
+- Stanford HELM
+- HELM-classic
+broader:
+- llm-evaluation
+- benchmark-design
+related:
+- lm-evaluation-harness
+- big-bench-benchmark
+- mt-bench
+- llm-fairness
+- responsible-ai
+prerequisites:
+- llm-evaluation
+- benchmark-design
+- responsible-ai
+confidence: high
+callouts:
+- type: definition
+  title: HELM Holistic Evaluation
+  body: HELM (Holistic Evaluation of Language Models) is an evaluation framework developed
+    by Stanford CRFM that attempts to evaluate language models across a multi-dimensional
+    set of metrics that goes beyond accuracy to include efficiency, robustness, calibration,
+    fairness, bias, toxicity, and copyright/privacy risk. HELM organises evaluation
+    around scenarios (task + domain + format combinations) and metrics (accuracy plus
+    harm dimensions), producing a multi-dimensional profile of model quality rather
+    than a single leaderboard score. Its holistic design reflects the argument that
+    no single benchmark captures the full space of relevant model properties for safe
+    and beneficial deployment.
+- type: key-claim
+  title: Key claim about HELM Holistic Evaluation
+  body: HELM's multi-dimensional evaluation framework has shifted discourse in LLM
+    evaluation from single-number ranking toward multi-criteria assessment — by simultaneously
+    measuring performance and potential harms, HELM makes explicit the trade-offs
+    that single-score benchmarks conceal, and has been influential in establishing
+    that responsible model evaluation must include harm dimensions alongside capability
+    metrics.
+- type: warning
+  title: Common pitfall regarding HELM Holistic Evaluation
+  body: HELM's comprehensiveness creates a practical challenge — the breadth of scenarios
+    and metrics makes it expensive to run and difficult to interpret, and practitioners
+    frequently reduce it to a subset of metrics that are most relevant to their specific
+    application, defeating the goal of holistic comparison; the framework's value
+    is realised only when its full multi-dimensional profile is used for deployment
+    decisions rather than selectively reported accuracy numbers.

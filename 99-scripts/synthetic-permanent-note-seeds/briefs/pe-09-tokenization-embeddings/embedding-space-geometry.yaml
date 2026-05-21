@@ -1,0 +1,50 @@
+concept: Embedding Space Geometry
+domain: embeddings-and-semantic-space
+secondary_domains:
+- representation-learning
+- nlp
+- linear-algebra
+aliases:
+- semantic space geometry
+- representation space geometry
+- latent space structure
+broader:
+- text-embedding-models
+- representation-learning
+related:
+- text-embedding-models
+- cosine-similarity-retrieval
+- matryoshka-representation-learning
+- contrastive-learning-embeddings
+- superposition-hypothesis
+prerequisites:
+- text-embedding-models
+- linear-algebra
+- representation-learning
+confidence: high
+callouts:
+- type: definition
+  title: Embedding Space Geometry
+  body: 'Embedding Space Geometry refers to the structural properties of the high-dimensional
+    vector spaces produced by text embedding models — the patterns, regularities,
+    and pathologies that shape how semantic relationships are encoded. Key geometric
+    phenomena include: linear analogy structure (king - man + woman ≈ queen), anisotropy
+    (embeddings cluster in a narrow cone rather than filling the space uniformly),
+    isotropy failure (the average cosine similarity between random pairs is high rather
+    than near zero), neighbourhood structure (whether the space supports meaningful
+    k-nearest-neighbour retrieval), and the geometry of subspaces corresponding to
+    specific semantic dimensions.'
+- type: key-claim
+  title: Key claim about Embedding Space Geometry
+  body: Embedding space geometry determines the practical utility of embedding-based
+    retrieval more than any individual model's benchmark scores — an embedding space
+    that is anisotropic or that does not separate semantically distinct concepts into
+    well-defined neighbourhoods will produce poor retrieval quality regardless of
+    the model's performance on static evaluation datasets.
+- type: warning
+  title: Common pitfall regarding Embedding Space Geometry
+  body: Common embedding space pathologies — high anisotropy, collapsed representations,
+    and poor isotropy — are often invisible in standard embedding benchmarks that
+    measure pairwise similarity on curated datasets, but they manifest as degraded
+    retrieval quality on real-world query distributions, meaning that benchmark scores
+    are insufficient proxies for production retrieval quality.

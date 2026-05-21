@@ -1,0 +1,49 @@
+concept: Process Reward Models
+domain: llm-evaluation
+secondary_domains:
+- reinforcement-learning-from-human-feedback
+- alignment
+- reasoning-evaluation
+aliases:
+- PRMs
+- step-level reward models
+- reasoning step verifiers
+broader:
+- llm-evaluation
+- reinforcement-learning-from-human-feedback
+related:
+- outcome-reward-models
+- reward-model-design
+- reinforcement-learning-from-human-feedback
+- best-of-n-sampling
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- reward-model-design
+confidence: high
+callouts:
+- type: definition
+  title: Process Reward Models
+  body: Process Reward Models (PRMs) are reward models trained to evaluate the correctness
+    or quality of individual reasoning steps in a chain-of-thought or multi-step solution,
+    as opposed to evaluating only the final answer. By assigning per-step rewards,
+    PRMs provide denser training signal than outcome-only reward, enable detection
+    of errors at the step where they occur rather than only at the final answer, and
+    support tree-search-based inference methods (such as MCTS) that explore and evaluate
+    reasoning branches. PRMs are trained on human annotations or verified reasoning
+    datasets where each step is labelled as correct or incorrect.
+- type: key-claim
+  title: Key claim about Process Reward Models
+  body: Process reward models enable qualitatively better training signal for complex
+    reasoning tasks than outcome reward models — by providing credit assignment at
+    the step level, PRMs allow the training signal to propagate to the exact reasoning
+    step that caused a failure, enabling more precise reinforcement of correct reasoning
+    patterns and punishment of specific types of errors rather than holistic outcome-level
+    signals.
+- type: warning
+  title: Common pitfall regarding Process Reward Models
+  body: Constructing high-quality process reward model training data is extremely
+    laborious — annotating individual reasoning steps as correct or incorrect requires
+    domain expertise, time, and careful annotation guidelines, making PRM training
+    data significantly more expensive to collect than outcome-level preference data;
+    this cost constraint has limited PRM application to domains (primarily mathematics
+    and code) where step correctness can be verified algorithmically.

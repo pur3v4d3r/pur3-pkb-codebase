@@ -1,0 +1,45 @@
+concept: Benchmark Overfitting
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- meta-learning
+aliases:
+- benchmark contamination
+- dataset contamination
+- benchmark saturation
+broader:
+- evaluation-methods
+related:
+- gsm8k-benchmark
+- hotpotqa-benchmark
+- calibration-in-llms
+- prompt-sensitivity-analysis
+prerequisites:
+- large-language-models
+- evaluation-methods
+- machine-learning
+confidence: high
+callouts:
+- type: definition
+  title: Benchmark Overfitting
+  body: Benchmark Overfitting refers to the phenomenon in which a model achieves high
+    scores on a specific evaluation benchmark due to exposure to the benchmark's questions
+    or answers during pretraining or fine-tuning, rather than due to genuine capability
+    in the skill the benchmark was designed to measure — contaminating benchmark performance
+    as an indicator of generalisation ability.
+- type: key-claim
+  title: Key claim about Benchmark Overfitting
+  body: Benchmark Overfitting is endemic in frontier LLM evaluation because the training
+    corpora of large language models often contain benchmark data from the internet,
+    and the distinction between "the model memorised this benchmark item" and "the
+    model has the skill this item tests" is not detectable from accuracy scores alone;
+    this contamination invalidates benchmark comparisons as capability measurements
+    to an unknown degree that is rarely disclosed or measured.
+- type: warning
+  title: Common pitfall regarding Benchmark Overfitting
+  body: Benchmark Overfitting cannot be fully prevented by held-out evaluation sets
+    because new benchmarks eventually become training data for the next generation
+    of models; this creates an evaluation arms race where benchmarks must be continuously
+    created to stay ahead of training data coverage, and the community's reliance
+    on saturated benchmarks for capability claims introduces systematic overestimation
+    of progress that misleads both researchers and practitioners.

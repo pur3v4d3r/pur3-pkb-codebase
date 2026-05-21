@@ -1,0 +1,49 @@
+concept: Constrained Beam Search
+domain: structured-generation
+secondary_domains:
+- llm-decoding
+- natural-language-generation
+- structured-prediction
+aliases:
+- lexically constrained beam search
+- constrained decoding
+- CBC
+broader:
+- beam-search-decoding
+- guided-generation
+related:
+- beam-search-decoding
+- grammar-constrained-decoding
+- guided-generation
+- structured-prediction-prompting
+prerequisites:
+- beam-search-decoding
+- llm-decoding
+confidence: high
+callouts:
+- type: definition
+  title: Constrained Beam Search
+  body: Constrained Beam Search is a decoding algorithm that extends beam search by
+    enforcing lexical or structural constraints on the generated sequence, ensuring
+    that specified tokens, phrases, or structural patterns must appear or must not
+    appear in the output. Hard constraints mandate the inclusion of specified tokens
+    (positive constraints) or the exclusion of specified tokens (negative constraints),
+    while soft constraints add a reward signal that encourages but does not mandate
+    specific patterns. The algorithm maintains a beam of partial hypotheses and prunes
+    any that have violated hard constraints or that can no longer satisfy them given
+    the remaining positions.
+- type: key-claim
+  title: Key claim about Constrained Beam Search
+  body: Constrained beam search provides a deterministic guarantee that specified
+    content will appear in generated text — enabling applications where faithfulness
+    to source materials or adherence to domain terminology is required (e.g., medical
+    report generation, legal document drafting, machine translation with domain lexicons)
+    — at the cost of potential reduction in output fluency when the constraints conflict
+    with the model's learned generation probabilities.
+- type: warning
+  title: Common pitfall regarding Constrained Beam Search
+  body: Constrained beam search becomes computationally expensive as the number and
+    complexity of constraints increases — each additional hard constraint can multiply
+    the number of beam states that must be maintained to track constraint satisfaction
+    status, potentially making it slower than unconstrained beam search with a large
+    beam by orders of magnitude for richly constrained generation tasks.

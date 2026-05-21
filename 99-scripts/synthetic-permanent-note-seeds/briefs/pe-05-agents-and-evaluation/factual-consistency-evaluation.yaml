@@ -1,0 +1,47 @@
+concept: Factual Consistency Evaluation
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- natural-language-inference
+aliases:
+- factual consistency
+- source grounding evaluation
+- faithfulness evaluation
+broader:
+- evaluation-methods
+- hallucination-detection
+related:
+- hallucination-detection
+- hallucination-taxonomy
+- llm-as-judge
+- chain-of-thought-faithfulness
+prerequisites:
+- large-language-models
+- natural-language-inference
+- evaluation-methods
+confidence: high
+callouts:
+- type: definition
+  title: Factual Consistency Evaluation
+  body: Factual Consistency Evaluation is the assessment of whether a generated text
+    is consistent with a given reference source — such as a retrieved document, a
+    conversation history, or a provided fact base — measuring the degree to which
+    the generation introduces claims that are not supported by or contradict the reference,
+    independently of the generation's absolute factual accuracy relative to world
+    knowledge.
+- type: key-claim
+  title: Key claim about Factual Consistency Evaluation
+  body: Factual Consistency Evaluation decouples source grounding from world-knowledge
+    accuracy, enabling evaluation of RAG and summarisation systems on the tractable
+    question of "does this generation faithfully represent its source?" rather than
+    the intractable question of "is this generation true?"; this decomposition makes
+    factual consistency a practically measurable evaluation target that can be automated
+    at scale, unlike global factual accuracy.
+- type: warning
+  title: Common pitfall regarding Factual Consistency Evaluation
+  body: Factual Consistency Evaluation metrics can be gamed by generations that are
+    technically consistent with the source but misleading to the reader; a generation
+    that omits critical context from the source, cherry-picks only the source's uncertainty
+    statements, or frames source content in a misleading way may score high on consistency
+    metrics while providing a substantially distorted picture of the source's content
+    — highlighting the gap between consistency and usefulness as evaluation objectives.

@@ -1,0 +1,42 @@
+concept: Metacognitive Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- metacognition
+aliases:
+- metacognitive self-reflection prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- chain-of-thought-prompting
+- step-back-prompting
+- analogical-prompting
+- metacognitive-scaffolding
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Prompting
+  body: Metacognitive Prompting is a technique that elicits explicit self-monitoring
+    behaviour from the model — asking it to assess its own confidence, identify knowledge
+    gaps, flag uncertain inferences, and describe the limitations of its reasoning
+    — to produce outputs that surface epistemic status alongside content rather than
+    presenting uncertain conclusions with the same surface fluency as certain ones.
+- type: key-claim
+  title: Key claim about Metacognitive Prompting
+  body: 'Metacognitive Prompting addresses the fundamental calibration problem of
+    fluent text generation: confident-sounding outputs and well-grounded outputs are
+    stylistically indistinguishable without explicit epistemic marking, and by eliciting
+    the model''s own uncertainty assessment, metacognitive prompting creates the epistemic
+    metadata that downstream human or automated review processes need to make appropriate
+    trust decisions.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Prompting
+  body: Metacognitive Prompting is susceptible to sycophantic calibration; models
+    trained with RLHF may learn to express high confidence because it satisfies human
+    preferences rather than because it accurately reflects the model's actual epistemic
+    state, making the elicited confidence scores unreliable proxies for ground-truth
+    uncertainty especially in domains where the model lacks genuine knowledge.

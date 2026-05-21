@@ -1,0 +1,45 @@
+concept: Distractor Sensitivity
+domain: prompt-engineering
+secondary_domains:
+- robustness
+- model-behaviour
+aliases:
+- distractor effects
+- irrelevant context sensitivity
+- noise sensitivity in context
+broader:
+- failure-modes
+- context-window-management
+related:
+- lost-in-the-middle-effect
+- retrieval-augmented-generation
+- prompt-sensitivity-analysis
+- context-window-management
+prerequisites:
+- large-language-models
+- context-window-management
+confidence: high
+callouts:
+- type: definition
+  title: Distractor Sensitivity
+  body: Distractor Sensitivity refers to the degree to which a language model's accuracy
+    or behaviour is degraded by the presence of irrelevant, misleading, or contradictory
+    information in its context window — measuring how much the model is pulled off
+    course by "noise" documents in a RAG context, by adversarial filler text, or by
+    plausible-but-incorrect claims embedded in the input.
+- type: key-claim
+  title: Key claim about Distractor Sensitivity
+  body: 'Distractor Sensitivity reveals that LLMs do not robustly filter irrelevant
+    context: models with high distractor sensitivity treat all context content as
+    potentially relevant rather than selectively attending only to task-relevant passages,
+    and this failure to ignore noise means that retrieval quality (ensuring only relevant
+    documents are in context) is a stronger lever for RAG performance than retrieval
+    recall (ensuring relevant documents are present).'
+- type: warning
+  title: Common pitfall regarding Distractor Sensitivity
+  body: 'Distractor Sensitivity is not uniform across distractor types; models are
+    generally more sensitive to distractors that are semantically similar to the correct
+    answer (plausible distractors) than to obviously irrelevant noise, meaning that
+    RAG pipelines with imperfect retrievers face the worst-case scenario: the most
+    likely retrieval failures (retrieving topically related but incorrect documents)
+    are exactly the failure modes that produce the most degraded downstream answers.'

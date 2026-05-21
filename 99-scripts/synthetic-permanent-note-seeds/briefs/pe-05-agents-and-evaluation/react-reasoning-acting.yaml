@@ -1,0 +1,46 @@
+concept: ReAct Reasoning Acting
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- reasoning
+aliases:
+- ReAct
+- reason-then-act
+- synergised reasoning and acting
+broader:
+- agentic-frameworks
+related:
+- plan-and-execute-agents
+- chain-of-action
+- agent-scratchpad
+- tool-use-in-llms
+- function-calling
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+- tool-use-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: ReAct Reasoning Acting
+  body: ReAct Reasoning Acting is a prompting framework in which the language model
+    interleaves reasoning traces (thought steps) with action calls (tool invocations
+    or environment interactions) in an alternating sequence, so each action is preceded
+    by an explicit reasoning step that justifies it and each action result is followed
+    by a reasoning step that interprets the result and plans the next action.
+- type: key-claim
+  title: Key claim about ReAct Reasoning Acting
+  body: 'ReAct Reasoning Acting resolves the core limitation of chain-of-thought-only
+    reasoning for multi-step tasks that require external information: by grounding
+    each reasoning step in real environment feedback rather than allowing the reasoning
+    chain to hallucinate evidence, ReAct substantially reduces compounding errors
+    over long action sequences and produces reasoning traces that are interpretable
+    and revisable by human supervisors.'
+- type: warning
+  title: Common pitfall regarding ReAct Reasoning Acting
+  body: ReAct Reasoning Acting degrades gracefully but not robustly on long-horizon
+    tasks; as the thought-action trace grows, the model's effective context for planning
+    the next action shrinks, and older parts of the trace may be effectively ignored
+    due to attention dilution, causing the model to repeat actions, lose track of
+    prior conclusions, or fail to maintain consistent sub-goal tracking across many
+    steps.

@@ -1,0 +1,46 @@
+concept: Dense Passage Retrieval
+domain: prompt-engineering
+secondary_domains:
+- information-retrieval
+- embedding-models
+aliases:
+- DPR
+- bi-encoder retrieval
+- dense retrieval
+broader:
+- retrieval-augmented-generation
+- information-retrieval
+related:
+- retrieval-augmented-generation
+- hyde-hypothetical-document-embeddings
+- self-rag
+- embedding-models
+prerequisites:
+- information-retrieval
+- embedding-models
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Dense Passage Retrieval
+  body: Dense Passage Retrieval is an information retrieval method in which both queries
+    and passages are encoded into dense vector representations by dual encoder neural
+    networks, and retrieval is performed by finding passages whose embeddings have
+    the highest inner product or cosine similarity with the query embedding — replacing
+    traditional sparse keyword matching with semantic vector search.
+- type: key-claim
+  title: Key claim about Dense Passage Retrieval
+  body: Dense Passage Retrieval achieves substantially better recall than sparse BM25
+    retrieval on semantically complex queries where the query and relevant passage
+    share little lexical overlap, because dense encoders can learn to represent the
+    semantic relationship between question intent and answer content regardless of
+    surface vocabulary — but this advantage comes at the cost of requiring large-scale
+    training data and approximate nearest-neighbour indexing infrastructure.
+- type: warning
+  title: Common pitfall regarding Dense Passage Retrieval
+  body: Dense Passage Retrieval is sensitive to distribution shift between the queries
+    seen during encoder training and the queries at deployment time; an encoder trained
+    on a specific domain's query–passage pairs may fail to generalise to out-of-domain
+    queries that use different vocabulary, framing, or conceptual granularity, and
+    this degradation can be silent because top-ranked results still look superficially
+    relevant while being semantically mismatched.

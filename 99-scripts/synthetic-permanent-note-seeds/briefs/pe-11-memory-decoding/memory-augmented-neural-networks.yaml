@@ -1,0 +1,50 @@
+concept: Memory-Augmented Neural Networks
+domain: llm-memory
+secondary_domains:
+- machine-learning
+- cognitive-science
+- neural-networks
+aliases:
+- MANNs
+- differentiable memory
+- neural memory architectures
+- NTMs
+broader:
+- llm-memory
+- neural-networks
+related:
+- external-memory-augmentation
+- episodic-memory-in-agents
+- compressive-memory-mechanisms
+- recurrent-neural-networks
+prerequisites:
+- neural-networks
+- attention-mechanism
+- recurrent-neural-networks
+confidence: high
+callouts:
+- type: definition
+  title: Memory-Augmented Neural Networks
+  body: Memory-Augmented Neural Networks (MANNs) are a class of neural network architectures
+    that couple a neural computation module with an explicit, addressable external
+    memory store that can be read from and written to through differentiable operations
+    — allowing the model to learn what to store and retrieve as part of end-to-end
+    training. Pioneer architectures include Neural Turing Machines (NTMs), Differentiable
+    Neural Computers (DNCs), and Memory Networks. In the modern LLM context, MANNs
+    are relevant as a theoretical foundation for understanding how transformer attention
+    acts as a form of implicit memory, and as an architectural inspiration for external
+    memory systems used in production agents.
+- type: key-claim
+  title: Key claim about Memory-Augmented Neural Networks
+  body: Memory-augmented neural networks established the theoretical principle that
+    external, differentiable memory can be integrated with neural computation to enable
+    tasks requiring long-range information retention and structured data manipulation
+    — tasks that recurrent networks failed on due to gradient vanishing, and that
+    transformers can only handle within their fixed context window.
+- type: warning
+  title: Common pitfall regarding Memory-Augmented Neural Networks
+  body: Pure MANN architectures did not scale to the sizes required for language modelling,
+    and transformer self-attention effectively replaced them as a practical mechanism
+    for within-context memory — but the conceptual distinction between the computation
+    module and the memory store remains architecturally relevant for modern LLM-agent
+    designs that combine transformer models with external retrieval systems.

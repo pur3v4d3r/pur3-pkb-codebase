@@ -1,0 +1,49 @@
+concept: Cosine Similarity Retrieval
+domain: embeddings-and-semantic-space
+secondary_domains:
+- information-retrieval
+- retrieval-augmented-generation
+- linear-algebra
+aliases:
+- cosine distance search
+- cosine similarity search
+- cosine nearest-neighbour retrieval
+broader:
+- text-embedding-models
+- information-retrieval
+related:
+- text-embedding-models
+- embedding-space-geometry
+- dense-passage-retrieval
+- approximate-nearest-neighbour
+prerequisites:
+- linear-algebra
+- text-embedding-models
+confidence: high
+callouts:
+- type: definition
+  title: Cosine Similarity Retrieval
+  body: Cosine Similarity Retrieval is the most common approach to finding semantically
+    similar texts in an embedding space, using the cosine of the angle between two
+    embedding vectors as the similarity metric. Cosine similarity measures directional
+    alignment rather than magnitude — two embeddings that point in the same direction
+    are considered similar regardless of their absolute norms — which makes it robust
+    to differences in vector magnitude that arise from variable-length input texts.
+    In practice, cosine retrieval is implemented through approximate nearest-neighbour
+    (ANN) algorithms (FAISS, ScaNN, HNSW) that scale to billions of vectors by trading
+    small amounts of recall for large gains in query speed.
+- type: key-claim
+  title: Key claim about Cosine Similarity Retrieval
+  body: Cosine similarity is the appropriate metric for retrieval over normalised
+    embedding spaces because it measures semantic direction (what the text is *about*)
+    rather than magnitude (how much text there is) — in embedding models trained with
+    contrastive objectives, the semantic content of a passage is encoded in the direction
+    of its embedding vector, making cosine the natural similarity measure.
+- type: warning
+  title: Common pitfall regarding Cosine Similarity Retrieval
+  body: Cosine similarity assumes that the embedding space is approximately isotropic
+    — that all directions carry equal semantic signal — but in practice embedding
+    spaces are highly anisotropic, with certain directions encoding generic frequency
+    information rather than semantics, which means that cosine retrieval can surface
+    many high-scoring but semantically irrelevant results when queries are in low-information-density
+    regions of the embedding space.

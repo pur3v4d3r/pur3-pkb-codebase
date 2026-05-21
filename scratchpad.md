@@ -699,9 +699,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 ---
 
 
-Generate a report on: [insert-topic-here]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
 
 
 
@@ -1094,6 +1092,25 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 
 
 
+# LLM
+
+Generate a report on: [topic-here]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\_machine-learning]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links_prompt-engineering-ml-llm]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1333,4 +1350,36 @@ python reports_to_tts.py "D:\10_pur3v4d3r's-vault\tts-testing-file.md" `
 
 
 
-# RUNNING MODELS FROM HUGGING FACE LOCALLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Turning Prompt PDF Papers into Markdown Files for Obsidian PKB
+
+I have a huge collection of PDF papers that are prompt templates for various LLM prompting techniques, frameworks, and methods. I want to turn these PDF papers into markdown files that I can use in my Obsidian PKB. The goal is to have these prompt templates easily accessible and organized in my PKB so that I can refer to them when I need to create prompts for my LLM projects.
+
+The idea is this:
+1. Turn the pdf papers into Markdown files/and maybe JSON
+2. Start the process of turning the markdown files into full fledged PKB notes with wiki-link, Metadata using my Scheme.
+
+
+
+

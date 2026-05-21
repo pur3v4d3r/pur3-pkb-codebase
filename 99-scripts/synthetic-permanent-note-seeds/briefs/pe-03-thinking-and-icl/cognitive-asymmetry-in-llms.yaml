@@ -1,0 +1,42 @@
+concept: Cognitive Asymmetry in LLMs
+domain: prompt-engineering
+secondary_domains:
+- cognitive-science
+- model-behaviour
+aliases:
+- LLM cognitive asymmetry
+- reasoning-generation asymmetry
+broader:
+- extended-thinking-architecture
+- reasoning-techniques
+related:
+- extended-thinking-architecture
+- latent-reasoning-space
+- chain-of-thought-prompting
+- step-back-prompting
+prerequisites:
+- large-language-models
+- transformer-attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Asymmetry in LLMs
+  body: Cognitive Asymmetry in LLMs refers to the empirical observation that large
+    language models show systematically different performance profiles across tasks
+    that humans would consider cognitively equivalent or parallel — excelling at certain
+    abstract pattern-matching and generalisation tasks while failing at related tasks
+    that require precise symbolic manipulation, ordinal tracking, or stable working
+    memory.
+- type: key-claim
+  title: Key claim about Cognitive Asymmetry in LLMs
+  body: Cognitive Asymmetry in LLMs challenges simple anthropomorphic performance
+    predictions; a model that outperforms human experts on complex medical diagnosis
+    may simultaneously fail at elementary arithmetic, and understanding this asymmetry
+    is a prerequisite for reliable capability assessment because human intuition about
+    "what should be easy" is systematically miscalibrated for transformer-based architectures.
+- type: warning
+  title: Common pitfall regarding Cognitive Asymmetry in LLMs
+  body: Cognitive Asymmetry in LLMs is not static across model scale; asymmetries
+    that are stable at smaller model sizes sometimes invert at larger sizes (emergence
+    phenomena), making performance extrapolations from benchmarked model sizes unreliable
+    guides for capability at frontier scale.

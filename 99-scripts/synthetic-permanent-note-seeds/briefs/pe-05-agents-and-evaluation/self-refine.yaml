@@ -1,0 +1,45 @@
+concept: Self-Refine
+domain: prompt-engineering
+secondary_domains:
+- iterative-refinement
+- self-improvement
+aliases:
+- iterative self-refinement
+- self-improvement loop
+- generate-refine loop
+broader:
+- agentic-frameworks
+- reflexion
+related:
+- reflexion
+- critic-agents
+- chain-of-verification
+- reflexion-based-prompt-refinement
+prerequisites:
+- large-language-models
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Self-Refine
+  body: Self-Refine is an iterative prompting framework in which a model generates
+    an initial response, then generates feedback on that response, then generates
+    a revised response incorporating the feedback — repeating this generate-feedback-refine
+    cycle multiple times until a stopping criterion is met, without any external feedback
+    or additional training.
+- type: key-claim
+  title: Key claim about Self-Refine
+  body: 'Self-Refine demonstrates that LLMs can serve as their own quality-improvement
+    mechanisms on many tasks: the same model that made the initial errors often has
+    sufficient meta-knowledge to identify those errors when prompted to critique rather
+    than generate, and applying this critique iteratively produces outputs that measurably
+    outperform single-pass generation on tasks including dialogue generation, code
+    writing, and mathematical reasoning.'
+- type: warning
+  title: Common pitfall regarding Self-Refine
+  body: Self-Refine has a ceiling determined by the model's evaluation capability;
+    if the model cannot reliably identify the errors in its own outputs (which is
+    often the case for subtle factual errors or complex logical fallacies), the feedback
+    loop will not converge toward the correct answer but will instead converge toward
+    a local optimum defined by the model's evaluation standards — which may be systematically
+    lower than the true quality standard the user requires.

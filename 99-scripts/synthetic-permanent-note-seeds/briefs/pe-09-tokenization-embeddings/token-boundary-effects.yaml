@@ -1,0 +1,49 @@
+concept: Token Boundary Effects
+domain: nlp-tokenization
+secondary_domains:
+- natural-language-processing
+- llm-reasoning
+- prompt-engineering
+aliases:
+- tokenization boundary effects
+- subword boundary effects
+- segmentation effects
+broader:
+- tokenization-artifacts
+- subword-tokenization
+related:
+- tokenization-artifacts
+- byte-pair-encoding
+- tokenizer-sensitivity
+- whitespace-token-effects
+prerequisites:
+- byte-pair-encoding
+- tokenization-artifacts
+confidence: high
+callouts:
+- type: definition
+  title: Token Boundary Effects
+  body: 'Token Boundary Effects are a class of tokenization artifact in which the
+    precise location of subword boundaries affects model behaviour in ways that are
+    not semantically motivated. When a word is split at different positions depending
+    on context (e.g., whether it appears at the start of a sentence vs. after a space),
+    the model may produce different outputs for semantically identical inputs. Token
+    boundary effects are particularly pronounced for: numbers and arithmetic, where
+    digit groupings affect computation; names, where capitalisation changes tokenisation;
+    code, where indentation and punctuation create boundary shifts; and multilingual
+    text, where cross-lingual tokenisation is often inconsistent.'
+- type: key-claim
+  title: Key claim about Token Boundary Effects
+  body: Token boundary effects reveal that the apparent compositional structure that
+    LLMs display in their outputs is partly an artefact of token boundaries rather
+    than genuine syntactic or semantic decomposition — because the model processes
+    token-level representations, its "understanding" of word structure is shaped by
+    the tokeniser's segmentation decisions in ways that can be exploited or inadvertently
+    triggered.
+- type: warning
+  title: Common pitfall regarding Token Boundary Effects
+  body: Token boundary effects are difficult to detect through standard benchmark
+    evaluation because most benchmarks were designed assuming character- or word-level
+    processing — a model may appear competent on the benchmark while systematically
+    failing on inputs that happen to trigger pathological tokenisation boundaries,
+    creating a hidden reliability gap.

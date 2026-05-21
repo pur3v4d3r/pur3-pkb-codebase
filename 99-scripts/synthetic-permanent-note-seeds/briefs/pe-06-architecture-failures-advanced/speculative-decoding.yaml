@@ -1,0 +1,46 @@
+concept: Speculative Decoding
+domain: prompt-engineering
+secondary_domains:
+- inference-efficiency
+- systems
+aliases:
+- speculative sampling
+- draft-then-verify decoding
+- assisted generation
+broader:
+- inference-efficiency
+- kv-cache-mechanics
+related:
+- kv-cache-mechanics
+- token-budget-management
+- large-language-models
+prerequisites:
+- large-language-models
+- transformer-attention-mechanism
+- kv-cache-mechanics
+confidence: high
+callouts:
+- type: definition
+  title: Speculative Decoding
+  body: Speculative Decoding is an inference acceleration technique in which a small,
+    fast draft model generates a candidate sequence of tokens speculatively, and a
+    large target model then verifies the entire candidate sequence in a single parallel
+    forward pass — accepting tokens up to the first point of disagreement, achieving
+    target-model-quality outputs at speeds approaching the draft model's throughput.
+- type: key-claim
+  title: Key claim about Speculative Decoding
+  body: 'Speculative Decoding exploits the fundamental asymmetry between verification
+    and generation in autoregressive transformers: verifying whether a sequence is
+    likely under the target model requires one forward pass regardless of sequence
+    length, while generating that sequence autoregressively requires N sequential
+    forward passes — and this asymmetry means that a good draft model can achieve
+    near-target-model quality at substantially lower latency when draft acceptance
+    rates are high.'
+- type: warning
+  title: Common pitfall regarding Speculative Decoding
+  body: Speculative Decoding's throughput gains are highly sensitive to the draft
+    model's accuracy on the specific deployment distribution; if the draft model frequently
+    proposes tokens that the target model rejects, the speculative passes become wasted
+    compute and the effective latency can exceed standard decoding — making draft
+    model selection a critical engineering decision that must be validated empirically
+    on production traffic rather than assumed from benchmark acceptance rates.

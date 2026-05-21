@@ -1,0 +1,49 @@
+concept: Domain Adaptation LLMs
+domain: llm-fine-tuning
+secondary_domains:
+- llm-training
+- transfer-learning
+- nlp
+aliases:
+- domain-adaptive pretraining
+- domain-specific LLMs
+- domain specialisation
+broader:
+- fine-tuning
+- transfer-learning
+related:
+- instruction-fine-tuning
+- catastrophic-forgetting-in-llms
+- continual-learning-llms
+- prompt-fine-tuning-vs-rag
+- task-specific-fine-tuning
+prerequisites:
+- fine-tuning
+- large-language-models
+- transfer-learning
+confidence: high
+callouts:
+- type: definition
+  title: Domain Adaptation LLMs
+  body: Domain Adaptation for LLMs refers to the set of techniques used to specialise
+    a general-purpose language model for a specific domain — such as medicine, law,
+    finance, or code — by further training on domain-specific corpora, task data,
+    or combinations thereof. Approaches range from domain-adaptive pretraining (DAPT),
+    where the model continues pretraining on in-domain text before task fine-tuning,
+    to domain-specific instruction fine-tuning, to retrieval augmentation with domain
+    corpora. Effective domain adaptation improves the model's use of domain terminology,
+    reasoning patterns, and implicit knowledge while preserving general language capabilities.
+- type: key-claim
+  title: Key claim about Domain Adaptation LLMs
+  body: Domain adaptation via continued pretraining on domain text provides the most
+    durable improvements to domain-specific performance because it updates the model's
+    internal representations of domain concepts rather than merely teaching output
+    formats, but it is expensive and risks catastrophic forgetting of general capabilities
+    without careful regularisation.
+- type: warning
+  title: Common pitfall regarding Domain Adaptation LLMs
+  body: Domain adaptation can create a false confidence in the model's expertise —
+    a model adapted to medical text may produce fluent medical-sounding responses
+    that are factually incorrect in subtle domain-specific ways, so domain-adapted
+    models require more stringent evaluation on domain-specific factual accuracy,
+    not less.

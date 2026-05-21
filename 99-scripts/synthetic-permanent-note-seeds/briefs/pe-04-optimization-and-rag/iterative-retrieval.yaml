@@ -1,0 +1,46 @@
+concept: Iterative Retrieval
+domain: prompt-engineering
+secondary_domains:
+- information-retrieval
+- multi-hop-reasoning
+aliases:
+- multi-hop retrieval
+- iterative document gathering
+- adaptive retrieval
+broader:
+- retrieval-augmented-generation
+related:
+- retrieval-augmented-generation
+- self-rag
+- demonstrate-search-predict
+- dense-passage-retrieval
+prerequisites:
+- retrieval-augmented-generation
+- dense-passage-retrieval
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Iterative Retrieval
+  body: Iterative Retrieval is a multi-round retrieval strategy in which the language
+    model generates a partial response or intermediate reasoning step, uses that intermediate
+    output to formulate a new retrieval query, retrieves additional documents, and
+    integrates the new evidence before continuing generation — repeating this cycle
+    until the model has gathered sufficient evidence to produce a complete, well-supported
+    response.
+- type: key-claim
+  title: Key claim about Iterative Retrieval
+  body: Iterative Retrieval is necessary for multi-hop question answering where the
+    answer to the final question requires first answering intermediate questions that
+    cannot be identified from the original query alone; single-pass RAG fails on these
+    tasks because the initial retrieval query cannot anticipate the intermediate concepts
+    needed to bridge from the question to the answer, while iterative retrieval can
+    follow the reasoning chain to collect the required evidence at each step.
+- type: warning
+  title: Common pitfall regarding Iterative Retrieval
+  body: Iterative Retrieval amplifies both the benefits and risks of retrieval in
+    proportion to the number of rounds; each additional retrieval round introduces
+    a new opportunity for the retriever to return a misleading document, and the model's
+    growing reasoning context may increase susceptibility to distractor passages that
+    are relevant to intermediate conclusions but inconsistent with the final correct
+    answer.

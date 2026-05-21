@@ -1,0 +1,45 @@
+concept: HotpotQA Benchmark
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- multi-hop-reasoning
+aliases:
+- HotpotQA
+- multi-hop question answering benchmark
+broader:
+- benchmark-overfitting
+- evaluation-methods
+related:
+- benchmark-overfitting
+- iterative-retrieval
+- dense-passage-retrieval
+- retrieval-augmented-generation
+prerequisites:
+- large-language-models
+- evaluation-methods
+- information-retrieval
+confidence: high
+callouts:
+- type: definition
+  title: HotpotQA Benchmark
+  body: HotpotQA Benchmark is a multi-hop question answering dataset that requires
+    reasoning over two or more Wikipedia documents to answer each question, specifically
+    designed to evaluate a model's ability to perform multi-step reasoning by identifying
+    supporting facts across multiple passages and synthesising them into a coherent
+    answer.
+- type: key-claim
+  title: Key claim about HotpotQA Benchmark
+  body: 'HotpotQA Benchmark exposes the distinction between retrieval accuracy and
+    reasoning accuracy: a system can retrieve both relevant documents correctly but
+    still fail to synthesise the multi-hop reasoning chain, and conversely a system
+    can appear to answer correctly by exploiting statistical shortcuts in the dataset
+    without performing genuine multi-hop reasoning — making HotpotQA evaluation results
+    difficult to interpret as pure measures of either retrieval or reasoning capability.'
+- type: warning
+  title: Common pitfall regarding HotpotQA Benchmark
+  body: 'HotpotQA Benchmark''s multi-hop structure has been found to be partially
+    shortcuttable: many questions in the dataset can be answered using only one of
+    the required supporting passages rather than genuinely integrating both, because
+    the question wording or answer pattern provides sufficient signal without multi-hop
+    reasoning; models that exploit these shortcuts achieve competitive scores without
+    developing the intended multi-hop reasoning capability.'

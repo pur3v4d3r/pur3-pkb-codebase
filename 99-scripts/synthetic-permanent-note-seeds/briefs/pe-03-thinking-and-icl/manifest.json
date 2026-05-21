@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-03-thinking-and-icl",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-03-thinking-and-icl.md",
+    "notes": "Fifteen concepts covering extended thinking architectures and in-context\nlearning mechanisms. Extended thinking section covers Claude's thinking\nmode semantics, metacognitive scaffolding, and latent reasoning constructs.\nICL section covers example selection, ordering effects, label sensitivity,\nand retrieval-augmented demonstration strategies."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-03-thinking-and-icl",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-03-thinking-and-icl"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Extended Thinking Architecture",
+      "kebab": "extended-thinking-architecture",
+      "brief_path": "briefs/pe-03-thinking-and-icl/extended-thinking-architecture.yaml",
+      "expected_seed_filename": "extended-thinking-architecture-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Thinking Tag Semantics",
+      "kebab": "thinking-tag-semantics",
+      "brief_path": "briefs/pe-03-thinking-and-icl/thinking-tag-semantics.yaml",
+      "expected_seed_filename": "thinking-tag-semantics-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Interleaved Thinking Mode",
+      "kebab": "interleaved-thinking-mode",
+      "brief_path": "briefs/pe-03-thinking-and-icl/interleaved-thinking-mode.yaml",
+      "expected_seed_filename": "interleaved-thinking-mode-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Metacognitive Scaffolding",
+      "kebab": "metacognitive-scaffolding",
+      "brief_path": "briefs/pe-03-thinking-and-icl/metacognitive-scaffolding.yaml",
+      "expected_seed_filename": "metacognitive-scaffolding-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Inner Monologue Technique",
+      "kebab": "inner-monologue-technique",
+      "brief_path": "briefs/pe-03-thinking-and-icl/inner-monologue-technique.yaml",
+      "expected_seed_filename": "inner-monologue-technique-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Latent Reasoning Space",
+      "kebab": "latent-reasoning-space",
+      "brief_path": "briefs/pe-03-thinking-and-icl/latent-reasoning-space.yaml",
+      "expected_seed_filename": "latent-reasoning-space-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Thinking Budget Allocation",
+      "kebab": "thinking-budget-allocation",
+      "brief_path": "briefs/pe-03-thinking-and-icl/thinking-budget-allocation.yaml",
+      "expected_seed_filename": "thinking-budget-allocation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Cognitive Asymmetry in LLMs",
+      "kebab": "cognitive-asymmetry-in-llms",
+      "brief_path": "briefs/pe-03-thinking-and-icl/cognitive-asymmetry-in-llms.yaml",
+      "expected_seed_filename": "cognitive-asymmetry-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "In-Context Learning",
+      "kebab": "in-context-learning",
+      "brief_path": "briefs/pe-03-thinking-and-icl/in-context-learning.yaml",
+      "expected_seed_filename": "in-context-learning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Few-Shot Example Selection",
+      "kebab": "few-shot-example-selection",
+      "brief_path": "briefs/pe-03-thinking-and-icl/few-shot-example-selection.yaml",
+      "expected_seed_filename": "few-shot-example-selection-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Example Ordering Effects",
+      "kebab": "example-ordering-effects",
+      "brief_path": "briefs/pe-03-thinking-and-icl/example-ordering-effects.yaml",
+      "expected_seed_filename": "example-ordering-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Demonstration Diversity",
+      "kebab": "demonstration-diversity",
+      "brief_path": "briefs/pe-03-thinking-and-icl/demonstration-diversity.yaml",
+      "expected_seed_filename": "demonstration-diversity-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Label Sensitivity in ICL",
+      "kebab": "label-sensitivity-in-icl",
+      "brief_path": "briefs/pe-03-thinking-and-icl/label-sensitivity-in-icl.yaml",
+      "expected_seed_filename": "label-sensitivity-in-icl-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Retrieval-Augmented Few-Shot",
+      "kebab": "retrieval-augmented-few-shot",
+      "brief_path": "briefs/pe-03-thinking-and-icl/retrieval-augmented-few-shot.yaml",
+      "expected_seed_filename": "retrieval-augmented-few-shot-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Analogical In-Context Learning",
+      "kebab": "analogical-in-context-learning",
+      "brief_path": "briefs/pe-03-thinking-and-icl/analogical-in-context-learning.yaml",
+      "expected_seed_filename": "analogical-in-context-learning-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

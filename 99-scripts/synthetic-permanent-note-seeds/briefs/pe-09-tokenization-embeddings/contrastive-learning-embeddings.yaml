@@ -1,0 +1,51 @@
+concept: Contrastive Learning Embeddings
+domain: embeddings-and-semantic-space
+secondary_domains:
+- representation-learning
+- text-embedding-models
+- self-supervised-learning
+aliases:
+- contrastive representation learning
+- SimCSE
+- InfoNCE training
+- contrastive sentence embeddings
+broader:
+- representation-learning
+- self-supervised-learning
+related:
+- text-embedding-models
+- sentence-transformers
+- matryoshka-representation-learning
+- embedding-space-geometry
+prerequisites:
+- representation-learning
+- neural-networks
+- text-embedding-models
+confidence: high
+callouts:
+- type: definition
+  title: Contrastive Learning Embeddings
+  body: Contrastive Learning for Embeddings is a training paradigm in which an embedding
+    model is trained to map similar inputs to nearby vectors and dissimilar inputs
+    to distant vectors, using a loss function that contrasts positive pairs (similar
+    inputs, ideally sharing the same meaning) against negative pairs (dissimilar inputs
+    or in-batch random samples). Seminal approaches include SimCSE (which uses dropout
+    as a data augmentation to create positive pairs from a single sentence), InfoNCE
+    (which maximises mutual information between positive pairs), and supervised contrastive
+    learning (which uses human-labelled semantic similarity as the positive/negative
+    signal).
+- type: key-claim
+  title: Key claim about Contrastive Learning Embeddings
+  body: Contrastive learning is the dominant training paradigm for text embedding
+    models because it directly optimises the geometric property that makes embeddings
+    useful for retrieval — the separation of similar and dissimilar texts in the embedding
+    space — without requiring intermediate supervision signals like pairwise similarity
+    scores, enabling effective training from large unsupervised corpora.
+- type: warning
+  title: Common pitfall regarding Contrastive Learning Embeddings
+  body: Contrastive learning is highly sensitive to the quality and construction of
+    the negative samples — easy negatives (random sentences) produce embeddings that
+    cannot distinguish subtle semantic differences, while false negatives (pairs that
+    are labelled dissimilar but are actually semantically related) actively harm embedding
+    quality, making negative mining strategy a critical hyperparameter with large
+    practical impact on downstream retrieval quality.

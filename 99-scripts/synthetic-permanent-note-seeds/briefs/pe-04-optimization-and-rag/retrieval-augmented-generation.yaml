@@ -1,0 +1,52 @@
+concept: Retrieval-Augmented Generation
+domain: prompt-engineering
+secondary_domains:
+- information-retrieval
+- knowledge-intensive-nlp
+aliases:
+- RAG
+- retrieve-then-generate
+- retrieval-grounded generation
+broader:
+- knowledge-intensive-nlp
+narrower:
+- self-rag
+- corrective-rag
+- iterative-retrieval
+- retrieval-augmented-few-shot
+related:
+- dense-passage-retrieval
+- hyde-hypothetical-document-embeddings
+- self-rag
+- knowledge-intensive-nlp
+- demonstrate-search-predict
+prerequisites:
+- large-language-models
+- information-retrieval
+- embedding-models
+confidence: high
+callouts:
+- type: definition
+  title: Retrieval-Augmented Generation
+  body: Retrieval-Augmented Generation is an architecture that augments a language
+    model's generation process by first retrieving relevant documents or passages
+    from an external corpus using a query derived from the input, then conditioning
+    the generation on both the original input and the retrieved evidence — enabling
+    the model to ground its responses in up-to-date, verifiable external knowledge
+    rather than relying solely on parametric memory.
+- type: key-claim
+  title: Key claim about Retrieval-Augmented Generation
+  body: Retrieval-Augmented Generation separates the knowledge storage problem from
+    the reasoning problem; rather than requiring the LLM to memorise all world knowledge
+    during pretraining, RAG externalises knowledge storage to a retrievable corpus,
+    making knowledge updates cheap (reindex the corpus) and providing natural attribution
+    (the retrieved documents serve as citations), fundamentally changing the reliability
+    and maintainability profile of knowledge-intensive applications.
+- type: warning
+  title: Common pitfall regarding Retrieval-Augmented Generation
+  body: Retrieval-Augmented Generation introduces retrieval as a critical failure
+    point that is often harder to debug than generation failures; if the retriever
+    returns irrelevant, misleading, or adversarially crafted documents, the generator
+    will confidently incorporate that content into its response — a failure mode called
+    "retrieval poisoning" — and because the generation appears grounded in cited sources,
+    these errors may be more trusted and less scrutinised than uncited hallucinations.

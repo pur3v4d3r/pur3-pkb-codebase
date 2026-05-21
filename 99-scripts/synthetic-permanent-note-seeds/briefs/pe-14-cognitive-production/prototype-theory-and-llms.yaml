@@ -1,0 +1,48 @@
+concept: Prototype Theory and LLMs
+domain: cognitive-science
+secondary_domains:
+- llm-theory
+- natural-language-processing
+- categorisation
+aliases:
+- prototype-based categorisation LLMs
+- exemplar theory LLMs
+- typicality effects LLMs
+broader:
+- cognitive-science
+- llm-theory
+related:
+- schema-activation-in-prompts
+- semantic-priming-effects
+- world-model-in-llms
+- few-shot-prompting
+prerequisites:
+- prototype-theory
+- cognitive-science
+- natural-language-processing
+confidence: medium
+callouts:
+- type: definition
+  title: Prototype Theory and LLMs
+  body: 'Prototype Theory and LLMs examines how Rosch''s prototype theory of categorisation
+    — which holds that categories are represented by prototypical members rather than
+    rigid definitions, and that instances are judged as category members by graded
+    similarity to the prototype — maps onto LLM classification and generation behaviour.
+    LLMs trained on human text exhibit typicality effects analogous to human categorisation:
+    they respond more reliably and confidently to typical category members (a robin
+    is a more typical bird than a penguin) than to atypical members, and they use
+    prototypical exemplars as implicit reference points when generating category descriptions.'
+- type: key-claim
+  title: Key claim about Prototype Theory and LLMs
+  body: Prototype-theory-based prompt design — using typical, central examples in
+    few-shot demonstrations rather than unusual edge cases — activates the most stable
+    and well-defined category representations in the model, producing more reliable
+    classification and description performance than demonstrations based on atypical
+    examples that lie near category boundaries.
+- type: warning
+  title: Common pitfall regarding Prototype Theory and LLMs
+  body: Prototype effects in LLMs reflect statistical patterns in training data distribution
+    — a category's "prototype" in an LLM is the instance most frequently and centrally
+    associated with the category label in the training corpus, which may not align
+    with the prototype for the target user population, creating domain-specific misalignments
+    that require careful few-shot example selection for each deployment context.

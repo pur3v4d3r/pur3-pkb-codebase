@@ -1,0 +1,46 @@
+concept: Position Encoding Effects
+domain: prompt-engineering
+secondary_domains:
+- model-architecture
+- long-context
+aliases:
+- positional encoding
+- position bias
+- context position effects
+broader:
+- transformer-attention-mechanism
+- context-window-management
+related:
+- transformer-attention-mechanism
+- lost-in-the-middle-effect
+- context-window-management
+- attention-sink-phenomenon
+prerequisites:
+- transformer-attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Position Encoding Effects
+  body: Position Encoding Effects refer to the influence of a token's absolute or
+    relative position in the input sequence on the model's processing and output,
+    arising from the positional encoding scheme embedded in the transformer architecture
+    — including both the intended effect (enabling the model to distinguish token
+    order) and unintended biases (such as recency bias, primacy effects, and degraded
+    attention on positions unseen during training).
+- type: key-claim
+  title: Key claim about Position Encoding Effects
+  body: Position Encoding Effects become performance-critical at context lengths approaching
+    or exceeding the training context length; models trained with fixed absolute positional
+    encodings degrade sharply when deployed with longer contexts, while models using
+    relative or rotary positional encodings (RoPE) generalise better to longer contexts
+    but still exhibit degradation patterns that depend on the specific extension method
+    used and the distribution of positions seen during training.
+- type: warning
+  title: Common pitfall regarding Position Encoding Effects
+  body: Position Encoding Effects are not fully visible from standard benchmarks because
+    most benchmarks evaluate tasks that fit comfortably within the training context
+    length; deploying a model on tasks that require attention across long distances
+    or at positions outside the training range — such as full-document analysis or
+    very long conversation histories — may reveal position-encoding-related failures
+    that standard evaluations do not predict.

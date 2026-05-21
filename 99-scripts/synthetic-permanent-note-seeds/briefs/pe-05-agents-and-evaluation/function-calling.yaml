@@ -1,0 +1,46 @@
+concept: Function Calling
+domain: prompt-engineering
+secondary_domains:
+- api-design
+- tool-use
+aliases:
+- structured tool calling
+- JSON function calling
+- API tool use
+broader:
+- tool-use-in-llms
+related:
+- tool-use-in-llms
+- toolformer
+- react-reasoning-acting
+- agentic-frameworks
+prerequisites:
+- large-language-models
+- tool-use-in-llms
+- json
+confidence: high
+callouts:
+- type: definition
+  title: Function Calling
+  body: Function Calling is a capability of instruction-tuned language models to generate
+    structured, schema-conformant outputs that represent calls to predefined external
+    functions — specifying the function name and argument values in a machine-parseable
+    format (typically JSON) — rather than describing tool use in free-form prose,
+    enabling reliable programmatic parsing and execution of the model's tool invocation
+    decisions.
+- type: key-claim
+  title: Key claim about Function Calling
+  body: Function Calling resolves the reliability gap between the model's intent to
+    use a tool and the downstream system's ability to parse and execute that intent;
+    by constraining the tool-invocation output to a structured schema rather than
+    free text, function calling makes tool use robust to the surface variation and
+    formatting inconsistencies that make prose-based tool invocation pipelines brittle
+    at production scale.
+- type: warning
+  title: Common pitfall regarding Function Calling
+  body: Function Calling can produce schema-valid outputs that are semantically incorrect
+    — the function name and argument types may be valid according to the schema while
+    the argument values are hallucinated or inappropriate for the current context;
+    schema validation catches structural errors but not semantic errors, meaning function
+    calling reduces (but does not eliminate) the need for downstream validation of
+    the model's tool invocation decisions.

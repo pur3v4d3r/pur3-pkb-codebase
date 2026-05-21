@@ -1,0 +1,45 @@
+concept: Token Budget Management
+domain: prompt-engineering
+secondary_domains:
+- inference-efficiency
+- cost-management
+aliases:
+- token budget
+- context budget
+- inference token planning
+broader:
+- context-window-management
+related:
+- context-window-management
+- prompt-compression
+- thinking-budget-allocation
+- kv-cache-mechanics
+prerequisites:
+- large-language-models
+- context-window-management
+confidence: high
+callouts:
+- type: definition
+  title: Token Budget Management
+  body: Token Budget Management is the practice of explicitly tracking, planning,
+    and controlling the number of tokens consumed across all components of an LLM
+    interaction — including system prompts, retrieved context, conversation history,
+    tool outputs, thinking traces, and generated responses — to stay within context
+    window limits and to optimise the trade-off between information richness and inference
+    cost.
+- type: key-claim
+  title: Key claim about Token Budget Management
+  body: Token Budget Management is a first-order engineering concern in production
+    LLM systems because token consumption directly determines per-query cost and latency;
+    without explicit budgeting, unconstrained context accumulation across a multi-turn
+    conversation or a RAG pipeline will exhaust the context window, force costly context
+    truncation, or inflate costs unpredictably — making budget awareness a prerequisite
+    for financially and technically sustainable deployment.
+- type: warning
+  title: Common pitfall regarding Token Budget Management
+  body: Token Budget Management optimisation strategies that reduce tokens to minimise
+    cost can inadvertently degrade response quality in ways that are difficult to
+    detect through standard evaluations; a system tuned to minimise tokens may silently
+    truncate context that is critical for rare but important queries, producing a
+    reliability profile that appears acceptable on average while failing on the high-stakes
+    edge cases where reliability matters most.

@@ -1,0 +1,45 @@
+concept: Superalignment
+domain: ai-alignment
+secondary_domains:
+- ai-safety
+- ai-alignment
+aliases:
+- superintelligence alignment
+- scalable alignment for superintelligent systems
+broader:
+- ai-alignment
+- scalable-oversight
+related:
+- scalable-oversight
+- iterated-amplification
+- debate-as-alignment-mechanism
+- constitutional-ai-principles
+- corrigibility
+- value-alignment-problem
+prerequisites:
+- ai-alignment
+- scalable-oversight
+confidence: high
+callouts:
+- type: definition
+  title: Superalignment
+  body: Superalignment refers specifically to the challenge and research programme
+    of aligning AI systems that are more capable than humans in all or most cognitive
+    domains — i.e., ensuring that superintelligent AI systems reliably pursue goals
+    that are beneficial to humanity. The term was popularised by OpenAI, which established
+    a dedicated Superalignment team in 2023 with the stated goal of solving the technical
+    problem of supervising and aligning AI systems smarter than the world's best scientists
+    within four years. Approaches being explored include using current AI systems
+    to help evaluate and improve future, more capable systems.
+- type: key-claim
+  title: Key claim about Superalignment
+  body: Superalignment represents a qualitative shift from conventional alignment
+    research because it cannot rely on any direct human evaluation of model outputs
+    — the fundamental technical challenge is building robust oversight mechanisms
+    that scale to systems whose capabilities exceed the evaluators' own.
+- type: warning
+  title: Common pitfall regarding Superalignment
+  body: 'The superalignment programme faces a bootstrapping paradox: the tools being
+    developed to align superintelligent systems must themselves be trustworthy, but
+    we cannot fully verify their trustworthiness without already having the aligned
+    superintelligence we are trying to build.'

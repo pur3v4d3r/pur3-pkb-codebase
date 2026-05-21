@@ -1,0 +1,50 @@
+concept: A/B Testing Prompts
+domain: production-deployment
+secondary_domains:
+- experimentation
+- prompt-engineering
+- mlops
+aliases:
+- prompt A/B testing
+- prompt split testing
+- prompt experimentation
+broader:
+- production-deployment
+- experimentation
+related:
+- prompt-versioning
+- prompt-regression-testing
+- prompt-monitoring-and-alerting
+- prompt-registry-management
+prerequisites:
+- a-b-testing
+- prompt-engineering
+- production-deployment
+confidence: high
+callouts:
+- type: definition
+  title: A/B Testing Prompts
+  body: 'A/B Testing Prompts is the application of controlled experimentation principles
+    to prompt optimisation — splitting production traffic between two or more prompt
+    variants and measuring outcome metrics (quality scores, user satisfaction, task
+    completion rates, engagement) to determine which variant performs better. Prompt
+    A/B testing requires: a reliable traffic splitting mechanism, sample size calculation
+    to detect meaningful effect sizes with statistical power, a defined primary metric
+    and guardrail metrics, and statistical significance testing before concluding
+    the experiment. The result is an empirical quality comparison that is robust to
+    the subjective biases of offline prompt evaluation.'
+- type: key-claim
+  title: Key claim about A/B Testing Prompts
+  body: A/B testing is the gold standard for prompt optimisation decisions in production
+    — offline evaluation metrics frequently fail to predict production performance
+    due to distribution mismatch between test datasets and production traffic, and
+    A/B testing against production traffic with real users and real queries provides
+    the only reliable signal that a prompt change will improve the metric it was designed
+    to improve.
+- type: warning
+  title: Common pitfall regarding A/B Testing Prompts
+  body: A/B testing prompts requires careful metric selection — optimising for easy-to-measure
+    metrics (click-through rate, response length) rather than the true quality dimension
+    of interest (user satisfaction, task accuracy) can cause the winning prompt variant
+    to be the one that games the measurement metric rather than genuinely performing
+    better, a form of Goodhart's law applied to prompt optimisation.

@@ -1,0 +1,49 @@
+concept: JSON Mode Prompting
+domain: structured-generation
+secondary_domains:
+- prompt-engineering
+- api-integration
+- llm-reliability
+aliases:
+- JSON output prompting
+- structured JSON generation
+- JSON constrained generation
+broader:
+- structured-prediction-prompting
+- output-schema-enforcement
+related:
+- output-schema-enforcement
+- grammar-constrained-decoding
+- function-schema-design
+- guided-generation
+- tool-schema-optimization
+prerequisites:
+- prompt-engineering
+- api-integration
+- structured-prediction-prompting
+confidence: high
+callouts:
+- type: definition
+  title: JSON Mode Prompting
+  body: JSON Mode Prompting refers to the combination of prompting strategies and
+    model API settings used to elicit well-formed JSON output from language models,
+    enabling reliable programmatic parsing of model responses. Modern APIs (OpenAI,
+    Anthropic, Google) offer a "JSON mode" or "response format" setting that constrains
+    generation to valid JSON syntax; effective JSON mode prompting supplements this
+    with explicit schema descriptions in the system prompt, worked examples of the
+    target schema, and field-level documentation that guides the model on types, optionality,
+    and enumerated values.
+- type: key-claim
+  title: Key claim about JSON Mode Prompting
+  body: Structured JSON output generation is the primary mechanism by which LLMs are
+    integrated into software pipelines — the ability to produce machine-parseable
+    responses transforms a language model from a text generator into a structured
+    data processor, making reliable JSON generation a prerequisite for any production
+    system that passes model outputs to downstream code.
+- type: warning
+  title: Common pitfall regarding JSON Mode Prompting
+  body: JSON mode constraints apply only at the syntactic level — the model can produce
+    syntactically valid JSON that is semantically incorrect (wrong types for values,
+    missing required fields, hallucinated keys, values that violate business rules),
+    meaning that JSON mode is necessary but not sufficient for reliable structured
+    output and must be supplemented with schema validation at the application layer.

@@ -1,0 +1,45 @@
+concept: Label Sensitivity in ICL
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- robustness
+aliases:
+- label noise sensitivity
+- ICL label sensitivity
+- mislabelled demo effects
+broader:
+- in-context-learning
+- few-shot-prompting
+related:
+- few-shot-prompting
+- demonstration-diversity
+- few-shot-example-selection
+- prompt-sensitivity-analysis
+prerequisites:
+- in-context-learning
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Label Sensitivity in ICL
+  body: Label Sensitivity in ICL refers to the finding that in-context learning performance
+    is surprisingly robust to label corruption in many settings — randomly flipping
+    the labels of demonstrations has less impact than expected — suggesting that the
+    demonstrations primarily teach input format and output style rather than conveying
+    ground-truth label mappings.
+- type: key-claim
+  title: Key claim about Label Sensitivity in ICL
+  body: Label Sensitivity in ICL challenges the intuitive interpretation of why few-shot
+    learning works; if performance is maintained under random label assignment, then
+    the demonstrations are not functioning as supervised examples that teach correct
+    label mappings but as distributional anchors that define the output space, which
+    reframes what "learning from examples" means in the ICL context.
+- type: warning
+  title: Common pitfall regarding Label Sensitivity in ICL
+  body: Label Sensitivity in ICL is task-dependent and should not be generalised into
+    a design principle; on tasks where label content is central to the task specification
+    (e.g., binary sentiment classification), label corruption does significantly degrade
+    performance, and treating all tasks as format-learning tasks based on the label-sensitivity
+    literature leads to careless example construction that degrades performance in
+    exactly those cases where labels matter most.

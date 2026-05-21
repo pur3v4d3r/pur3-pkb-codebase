@@ -1,0 +1,49 @@
+concept: Mental Simulation in LLMs
+domain: cognitive-science
+secondary_domains:
+- llm-capabilities
+- reasoning
+- world-model-in-llms
+aliases:
+- mental model simulation
+- scenario simulation prompting
+- predictive simulation LLMs
+broader:
+- cognitive-science
+- llm-capabilities
+- world-model-in-llms
+related:
+- world-model-in-llms
+- dual-process-theory-applied-to-llms
+- chain-of-thought-prompting
+- physical-reasoning
+prerequisites:
+- cognitive-science
+- world-model-in-llms
+- llm-capabilities
+confidence: medium
+callouts:
+- type: definition
+  title: Mental Simulation in LLMs
+  body: Mental Simulation in LLMs refers to the model's capacity — observed empirically
+    but imperfectly — to simulate the unfolding of events, processes, or scenarios
+    in time, space, or causal structure, as if running an internal mental model of
+    how the world works. When prompted to predict what will happen if a given action
+    is taken, or to trace through the consequences of an event, models sometimes exhibit
+    behaviour consistent with systematic simulation rather than pure pattern recall.
+    Mental simulation capacity is relevant to planning tasks, physical reasoning,
+    social reasoning, and counterfactual reasoning.
+- type: key-claim
+  title: Key claim about Mental Simulation in LLMs
+  body: Prompts that explicitly invoke mental simulation — "imagine stepping through
+    this scenario one event at a time" or "trace what would happen physically if X
+    occurred" — elicit more coherent causal reasoning than prompts that request direct
+    answers, suggesting that the simulation capacity exists but requires activation
+    through specific prompting patterns.
+- type: warning
+  title: Common pitfall regarding Mental Simulation in LLMs
+  body: LLMs fail systematically on tasks that require precise physical, spatial,
+    or temporal simulation — the apparent simulation capacity observed on some tasks
+    does not generalise reliably to all simulation tasks, and overconfident claims
+    about LLM simulation ability based on successes in text-based scenario planning
+    do not predict performance on tasks requiring accurate physical or spatial reasoning.

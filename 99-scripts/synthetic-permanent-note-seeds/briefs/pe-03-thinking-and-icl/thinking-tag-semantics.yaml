@@ -1,0 +1,43 @@
+concept: Thinking Tag Semantics
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- model-design
+aliases:
+- thinking tags
+- reasoning tags
+- scratchpad tags
+broader:
+- extended-thinking-architecture
+related:
+- extended-thinking-architecture
+- interleaved-thinking-mode
+- thinking-budget-allocation
+prerequisites:
+- extended-thinking-architecture
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Thinking Tag Semantics
+  body: Thinking Tag Semantics refers to the meaning, interpretation rules, and behavioural
+    norms governing the special-purpose XML-like tags (typically `<thinking>` and
+    `</thinking>`) used in extended-thinking-capable models to demarcate the internal
+    reasoning trace from the final visible response, including the rules about what
+    content is permitted in the thinking space versus the output space.
+- type: key-claim
+  title: Key claim about Thinking Tag Semantics
+  body: 'Thinking Tag Semantics encodes a crucial epistemic distinction: content inside
+    thinking tags operates under reduced constraints (it may be tentative, exploratory,
+    or self-contradictory) while content outside them is held to output-quality standards,
+    and this distinction is enforced partly by training norms and partly by system-level
+    filtering — making the semantics a joint product of model training and deployment
+    architecture.'
+- type: warning
+  title: Common pitfall regarding Thinking Tag Semantics
+  body: Thinking Tag Semantics can be violated by models that have learned to treat
+    the thinking space as a performance rather than a genuine reasoning process; if
+    the model generates thinking-tag content that mimics reasoning without performing
+    it (a form of rationalisation post-hoc), the extended thinking architecture provides
+    the appearance of rigour without the substance, and the thinking trace becomes
+    an unreliable signal of the model's actual inference process.

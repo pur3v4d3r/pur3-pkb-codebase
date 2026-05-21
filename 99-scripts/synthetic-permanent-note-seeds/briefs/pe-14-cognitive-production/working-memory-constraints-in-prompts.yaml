@@ -1,0 +1,52 @@
+concept: Working Memory Constraints in Prompts
+domain: cognitive-science
+secondary_domains:
+- prompt-engineering
+- llm-capabilities
+- context-window-management
+aliases:
+- effective working memory LLMs
+- context processing limits
+- information chunk limits in prompts
+broader:
+- cognitive-science
+- prompt-engineering
+- long-context-prompting-strategies
+related:
+- cognitive-load-theory-applied-to-llms
+- long-context-prompting-strategies
+- context-distillation
+- working-memory-proxies-in-llms
+prerequisites:
+- working-memory-theory
+- prompt-engineering
+- long-context-prompting-strategies
+confidence: medium
+callouts:
+- type: definition
+  title: Working Memory Constraints in Prompts
+  body: Working Memory Constraints in Prompts refers to the observation that language
+    models, despite their large context windows, have a limited effective capacity
+    for actively integrating information within a prompt — analogous to human working
+    memory limits. Empirically, models perform better when the information most relevant
+    to the task is located near the generation point (recency bias), when competing
+    or distracting information is minimised, and when complex information is chunked
+    into digestible units rather than presented as a continuous dense block. These
+    observations suggest prompt design should account for effective working memory
+    limitations rather than assuming that all information in the context is equally
+    accessible.
+- type: key-claim
+  title: Key claim about Working Memory Constraints in Prompts
+  body: The "lost in the middle" finding — that language models retrieve information
+    more reliably from the beginning and end of long contexts than from the middle
+    — empirically demonstrates that LLMs have effective working memory constraints
+    that are not fully described by their nominal context window size, and that prompt
+    organisation must account for positional accessibility of information.
+- type: warning
+  title: Common pitfall regarding Working Memory Constraints in Prompts
+  body: Working memory constraints in LLMs differ fundamentally from human working
+    memory — LLMs do not have a time-decay-based forgetting mechanism, and their context
+    processing limitations are better described by attention patterns and positional
+    biases than by the capacity-based metaphor of human working memory; the cognitive
+    science analogy provides useful design intuitions but should not be interpreted
+    as a mechanistic claim about LLM internals.

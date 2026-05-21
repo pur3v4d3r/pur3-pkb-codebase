@@ -1,0 +1,48 @@
+concept: Temperature Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+- information-theory
+aliases:
+- temperature parameter
+- sampling temperature
+- generation temperature
+broader:
+- llm-decoding
+related:
+- top-p-nucleus-sampling
+- top-k-sampling
+- min-p-sampling
+- greedy-decoding
+- llm-generation
+prerequisites:
+- llm-decoding
+- probability-theory
+confidence: high
+callouts:
+- type: definition
+  title: Temperature Sampling
+  body: Temperature Sampling is a decoding parameter that controls the sharpness of
+    the probability distribution from which the next token is sampled by dividing
+    the model's logits by the temperature value before applying the softmax function.
+    A temperature of 1.0 leaves the model's learned probabilities unchanged. Temperatures
+    below 1.0 sharpen the distribution, making it more deterministic and concentrated
+    on high-probability tokens — reducing diversity and increasing consistency. Temperatures
+    above 1.0 flatten the distribution, increasing the probability of low-probability
+    tokens — increasing diversity and creativity at the cost of coherence.
+- type: key-claim
+  title: Key claim about Temperature Sampling
+  body: Temperature is the most intuitive and universally applicable decoding parameter
+    — it directly controls the exploration-exploitation tradeoff in generation, allowing
+    the same model to be configured for deterministic, reproducible outputs (low temperature,
+    near-zero) for factual tasks and for creative, diverse outputs (higher temperature)
+    for generative tasks, without changing any other system component.
+- type: warning
+  title: Common pitfall regarding Temperature Sampling
+  body: Temperature interacts non-linearly with the model's calibration — a model
+    that is overconfident in its wrong predictions will produce even more overconfident
+    wrong predictions at low temperatures, while a model that is underconfident in
+    its correct predictions will produce incoherent outputs at high temperatures,
+    meaning that the optimal temperature is model-specific and task-specific and cannot
+    be determined without empirical evaluation.

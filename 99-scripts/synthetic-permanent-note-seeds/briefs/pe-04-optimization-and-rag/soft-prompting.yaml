@@ -1,0 +1,43 @@
+concept: Soft Prompting
+domain: prompt-engineering
+secondary_domains:
+- parameter-efficient-fine-tuning
+- nlp-research
+aliases:
+- continuous prompting
+- learnable prompt embeddings
+broader:
+- prompt-tuning
+related:
+- prompt-tuning
+- prefix-tuning
+- gradient-free-prompt-optimization
+- automatic-prompt-engineering
+prerequisites:
+- large-language-models
+- fine-tuning
+- backpropagation
+confidence: high
+callouts:
+- type: definition
+  title: Soft Prompting
+  body: Soft Prompting is the general technique of prepending or inserting learnable
+    continuous-valued embedding vectors into the model's input representation, where
+    these vectors exist only in the embedding space and have no corresponding natural-language
+    tokens, trained end-to-end against a task objective while model parameters remain
+    fixed.
+- type: key-claim
+  title: Key claim about Soft Prompting
+  body: Soft Prompting separates the expressiveness of task adaptation from the constraint
+    of natural language; because the learnable vectors are unconstrained in the embedding
+    space rather than restricted to the convex hull of token embeddings, they can
+    represent task-relevant directions that no human-authored natural language instruction
+    could encode, potentially accessing adaptation signal unavailable to discrete
+    prompt engineering.
+- type: warning
+  title: Common pitfall regarding Soft Prompting
+  body: 'Soft Prompting produces completely opaque adaptation: the learned embedding
+    vectors cannot be decoded into interpretable language, there is no way to audit
+    what task-specific information they encode, and debugging failures requires interpreting
+    model behaviour rather than reading the prompt — which substantially raises the
+    barrier to understanding why a soft-prompted model produces unexpected outputs.'

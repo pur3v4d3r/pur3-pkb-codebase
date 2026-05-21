@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-08-finetuning-adaptation",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-08-finetuning-adaptation.md",
+    "notes": "Eleven fine-tuning and adaptation concepts covering the methods used to\nspecialise pretrained language models for particular tasks or domains.\nSpans full fine-tuning paradigms (instruction fine-tuning, task-specific\nfine-tuning), parameter-efficient methods (LoRA, QLoRA, adapter layers,\nprompt/prefix tuning), and the challenges of adaptation (catastrophic\nforgetting, continual learning, domain adaptation). Also covers the\ntradeoff between fine-tuning and RAG, and self-play as a fine-tuning\nstrategy. Intended to complement the alignment cluster."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-08-finetuning-adaptation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-08-finetuning-adaptation"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 11,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Instruction Fine-Tuning",
+      "kebab": "instruction-fine-tuning",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/instruction-fine-tuning.yaml",
+      "expected_seed_filename": "instruction-fine-tuning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Parameter-Efficient Fine-Tuning",
+      "kebab": "parameter-efficient-fine-tuning",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/parameter-efficient-fine-tuning.yaml",
+      "expected_seed_filename": "parameter-efficient-fine-tuning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "LoRA Low-Rank Adaptation",
+      "kebab": "lora-low-rank-adaptation",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/lora-low-rank-adaptation.yaml",
+      "expected_seed_filename": "lora-low-rank-adaptation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "QLoRA",
+      "kebab": "qlora",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/qlora.yaml",
+      "expected_seed_filename": "qlora-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Adapter Layers",
+      "kebab": "adapter-layers",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/adapter-layers.yaml",
+      "expected_seed_filename": "adapter-layers-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Fine-Tuning vs RAG",
+      "kebab": "prompt-fine-tuning-vs-rag",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/prompt-fine-tuning-vs-rag.yaml",
+      "expected_seed_filename": "prompt-fine-tuning-vs-rag-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Domain Adaptation LLMs",
+      "kebab": "domain-adaptation-llms",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/domain-adaptation-llms.yaml",
+      "expected_seed_filename": "domain-adaptation-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Catastrophic Forgetting in LLMs",
+      "kebab": "catastrophic-forgetting-in-llms",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/catastrophic-forgetting-in-llms.yaml",
+      "expected_seed_filename": "catastrophic-forgetting-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Continual Learning LLMs",
+      "kebab": "continual-learning-llms",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/continual-learning-llms.yaml",
+      "expected_seed_filename": "continual-learning-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Task-Specific Fine-Tuning",
+      "kebab": "task-specific-fine-tuning",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/task-specific-fine-tuning.yaml",
+      "expected_seed_filename": "task-specific-fine-tuning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Self-Play Fine-Tuning",
+      "kebab": "self-play-fine-tuning",
+      "brief_path": "briefs/pe-08-finetuning-adaptation/self-play-fine-tuning.yaml",
+      "expected_seed_filename": "self-play-fine-tuning-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

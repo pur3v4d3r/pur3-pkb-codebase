@@ -1,0 +1,49 @@
+concept: Self-Debugging LLM
+domain: code-generation
+secondary_domains:
+- prompt-engineering
+- software-engineering
+- llm-agents
+aliases:
+- LLM self-repair
+- self-debugging code generation
+- self-correcting code LLM
+broader:
+- code-generation
+- execution-feedback-prompting
+related:
+- execution-feedback-prompting
+- repair-prompting
+- self-evaluation-prompting
+- code-prompting-strategies
+prerequisites:
+- code-generation
+- execution-feedback-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Self-Debugging LLM
+  body: 'Self-Debugging LLM refers to the paradigm in which a language model is prompted
+    to diagnose and fix errors in its own previously generated code, using either
+    the error trace from execution, the code itself as input, or both. The process
+    involves: (1) generating an initial code solution, (2) detecting that the solution
+    contains an error (via execution or static analysis), (3) prompting the model
+    to explain the error and propose a fix, and (4) applying the fix and iterating.
+    Self-debugging can be implemented purely through prompting (showing the model
+    its error output and asking it to fix the code) or through agentic tool-use patterns
+    that give the model programmatic access to a Python interpreter.'
+- type: key-claim
+  title: Key claim about Self-Debugging LLM
+  body: Self-debugging LLMs close a significant quality gap between initial code generation
+    and correct code by leveraging the model's natural language error explanation
+    capability — models are often better at explaining why code is wrong (in natural
+    language) than at writing correct code directly, and the debugging prompt activates
+    a different reasoning mode that reduces the same errors that were present in the
+    original generation.
+- type: warning
+  title: Common pitfall regarding Self-Debugging LLM
+  body: Self-debugging can fail to converge when the model misdiagnoses the error
+    — if the model's explanation of the failure is incorrect, its proposed fix will
+    not address the root cause and may introduce new errors while appearing to address
+    the symptoms, causing the debugging loop to iterate without progress and eventually
+    requiring human intervention.

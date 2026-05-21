@@ -1,0 +1,42 @@
+concept: Chain of Verification
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- factual-accuracy
+aliases:
+- CoVe
+- chain-of-verification prompting
+broader:
+- reasoning-techniques
+- prompting
+related:
+- self-consistency-sampling
+- hallucination-detection
+- chain-of-thought-prompting
+- self-refine
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Chain of Verification
+  body: Chain of Verification is a prompting strategy in which the model first generates
+    an initial response, then explicitly plans a set of factual verification questions
+    about that response, answers each question independently (to avoid anchoring on
+    the original response), and finally revises the initial response based on the
+    verification answers to produce a more factually grounded output.
+- type: key-claim
+  title: Key claim about Chain of Verification
+  body: Chain of Verification reduces hallucinations by decoupling generation from
+    verification; when verification questions are answered independently rather than
+    in the context of the original claim, the model's confirmation bias is broken,
+    making it more likely to detect and correct factual errors that it would have
+    reinforced had it been asked to review its own output directly.
+- type: warning
+  title: Common pitfall regarding Chain of Verification
+  body: Chain of Verification's independence assumption is imperfect; even when answering
+    verification questions without the original text, the model retains its parametric
+    memory of the initial generation through the conversation context, meaning the
+    claimed independence is partial rather than absolute and the technique underperforms
+    expectations when context windows are shared.

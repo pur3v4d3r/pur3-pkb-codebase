@@ -1,0 +1,52 @@
+concept: Working Memory Proxies in LLMs
+domain: llm-memory
+secondary_domains:
+- cognitive-science
+- prompt-engineering
+- ai-agents
+aliases:
+- working memory simulation
+- scratchpad memory
+- chain-of-thought as working memory
+broader:
+- llm-memory
+- cognitive-science-foundations
+related:
+- episodic-memory-in-agents
+- external-memory-augmentation
+- chain-of-thought-prompting
+- working-memory-constraints-in-prompts
+prerequisites:
+- cognitive-science
+- llm-memory
+- chain-of-thought-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Working Memory Proxies in LLMs
+  body: Working Memory Proxies in LLMs refers to the mechanisms by which language
+    models simulate working memory — the cognitive system responsible for temporary
+    information maintenance and manipulation during complex reasoning — using the
+    context window rather than a dedicated neurological architecture. Chain-of-thought
+    reasoning acts as an explicit working memory proxy by externalising intermediate
+    computation steps into the context, where they persist and can be referenced by
+    subsequent reasoning steps. Scratchpads, explicit note-taking instructions, and
+    structured reasoning formats serve similar functions, allowing models to maintain
+    state across complex multi-step operations that would fail if only relying on
+    implicit in-weights computation.
+- type: key-claim
+  title: Key claim about Working Memory Proxies in LLMs
+  body: Chain-of-thought prompting works primarily through its function as a working
+    memory proxy — by externalising intermediate reasoning steps into the context
+    window, it converts tasks that require maintaining multiple active constraints
+    in parallel (which the model cannot do reliably in a single forward pass) into
+    sequential token generation where each step can attend to all prior steps, effectively
+    converting a working-memory-limited single-step task into a working-memory-unlimited
+    sequential task.
+- type: warning
+  title: Common pitfall regarding Working Memory Proxies in LLMs
+  body: Working memory proxies in LLMs are limited by the quality of the model's self-monitoring
+    — a model that makes an error in an intermediate reasoning step will build subsequent
+    steps on that error, producing a reasoning chain where confidence accumulates
+    on a faulty foundation; unlike human working memory, the model has no metacognitive
+    mechanism to flag that an intermediate step is likely wrong.

@@ -1,0 +1,39 @@
+concept: Zero-Shot Prompting
+domain: prompt-engineering
+secondary_domains:
+- llm-inference
+- natural-language-processing
+aliases:
+- zero-shot inference
+- zero-shot prediction
+broader:
+- prompting
+narrower:
+- zero-shot chain-of-thought
+related:
+- few-shot-prompting
+- one-shot-prompting
+- instruction-following
+prerequisites:
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Zero-Shot Prompting
+  body: Zero-Shot Prompting is the practice of asking a large language model to perform
+    a task by providing only the task description and the input, without including
+    any worked examples or demonstrations in the prompt. The model must rely entirely
+    on patterns learned during pretraining and instruction-tuning to generate an appropriate
+    response.
+- type: key-claim
+  title: Key claim about Zero-Shot Prompting
+  body: Zero-Shot Prompting reveals the extent to which a model has internalised a
+    task format from pretraining alone; strong zero-shot performance is the primary
+    signal of a well-instruction-tuned model, because it confirms that capability
+    generalises beyond memorised input–output pairs.
+- type: warning
+  title: Common pitfall regarding Zero-Shot Prompting
+  body: Zero-Shot Prompting is often assumed to be simpler than few-shot prompting,
+    but ambiguous or underspecified task descriptions frequently produce worse outputs
+    under zero-shot conditions than under few-shot conditions, because examples do
+    more than demonstrate format — they constrain the interpretation of the task.

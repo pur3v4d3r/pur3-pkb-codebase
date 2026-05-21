@@ -1,0 +1,43 @@
+concept: Boosted Prompt Ensembles
+domain: prompt-engineering
+secondary_domains:
+- ensemble-methods
+- meta-learning
+aliases:
+- adaptive prompt ensembles
+- boosted prompting
+broader:
+- prompt-ensembling
+- ensemble-methods
+related:
+- prompt-ensembling
+- automatic-prompt-engineering
+- prompt-paraphrasing
+prerequisites:
+- prompt-ensembling
+- large-language-models
+- boosting-algorithms
+confidence: high
+callouts:
+- type: definition
+  title: Boosted Prompt Ensembles
+  body: Boosted Prompt Ensembles are an ensemble construction strategy in which prompts
+    are added to the ensemble sequentially, with each new prompt weighted to compensate
+    for errors made by the current ensemble — analogous to boosting in classical machine
+    learning — producing an ensemble where successive members are specifically designed
+    to address the residual mistakes of their predecessors.
+- type: key-claim
+  title: Key claim about Boosted Prompt Ensembles
+  body: Boosted Prompt Ensembles improve over naive uniform-weight ensembles by concentrating
+    diversity on the error-prone regions of the input space; while a uniform ensemble
+    reduces variance uniformly across all inputs, a boosted ensemble directs additional
+    capacity toward the examples that the existing members collectively fail on, making
+    the performance improvement on difficult instances disproportionately large relative
+    to the number of ensemble members added.
+- type: warning
+  title: Common pitfall regarding Boosted Prompt Ensembles
+  body: Boosted Prompt Ensembles require a held-out error signal to guide the boosting
+    process, which means they need a labelled development set and multiple rounds
+    of evaluation before deployment; in rapid-iteration settings or low-data regimes,
+    the overhead of boosting calibration may outweigh its performance benefits compared
+    to a simpler uniform ensemble of diverse prompts.

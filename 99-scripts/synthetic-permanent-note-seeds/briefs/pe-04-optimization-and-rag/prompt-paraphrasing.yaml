@@ -1,0 +1,45 @@
+concept: Prompt Paraphrasing
+domain: prompt-engineering
+secondary_domains:
+- nlp-research
+- robustness
+aliases:
+- instruction paraphrasing
+- prompt rewriting
+- equivalent prompt generation
+broader:
+- prompt-optimization
+- automatic-prompt-engineering
+related:
+- automatic-prompt-engineering
+- prompt-sensitivity-analysis
+- prompt-ensembling
+- gradient-free-prompt-optimization
+prerequisites:
+- large-language-models
+- prompt-formatting
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Paraphrasing
+  body: Prompt Paraphrasing is the systematic generation of semantically equivalent
+    alternative phrasings of a prompt instruction or context, used either as a source
+    of candidates in automated prompt search, as a robustness evaluation method to
+    measure how sensitive a model is to surface-level instruction variation, or as
+    an ensemble technique that averages predictions across multiple paraphrases to
+    reduce variance.
+- type: key-claim
+  title: Key claim about Prompt Paraphrasing
+  body: 'Prompt Paraphrasing reveals a fundamental fragility in LLM task specification:
+    semantically equivalent instructions can produce performance differences of 10–40
+    percentage points on structured benchmarks, demonstrating that model performance
+    is partly a function of the specific surface form of the instruction rather than
+    its meaning — a finding with serious implications for prompt engineering reliability
+    and evaluation validity.'
+- type: warning
+  title: Common pitfall regarding Prompt Paraphrasing
+  body: Prompt Paraphrasing-based ensembles improve robustness but multiply inference
+    cost proportionally to the number of paraphrases sampled; in production systems
+    where latency and cost are constrained, the reliability gains from paraphrase
+    ensembling must be weighed against the option of investing the same compute budget
+    in a single, carefully selected high-performing prompt formulation.

@@ -1,0 +1,47 @@
+concept: Jailbreaking
+domain: prompt-engineering
+secondary_domains:
+- security
+- adversarial-prompting
+aliases:
+- LLM jailbreak
+- alignment bypass
+- safety bypass
+broader:
+- failure-modes
+- adversarial-prompting
+related:
+- prompt-injection
+- instruction-hierarchy-conflict
+- reward-hacking
+- constitutional-ai-method
+prerequisites:
+- large-language-models
+- rlhf
+- alignment
+confidence: high
+callouts:
+- type: definition
+  title: Jailbreaking
+  body: Jailbreaking refers to the use of adversarial prompts that circumvent an LLM's
+    safety training and alignment constraints to elicit policy-violating outputs —
+    including harmful content, dangerous instructions, or restricted information —
+    that the model would refuse to generate in response to direct requests, exploiting
+    gaps between the model's training distribution and the space of possible inputs.
+- type: key-claim
+  title: Key claim about Jailbreaking
+  body: 'Jailbreaking demonstrates that safety training via RLHF and constitutional
+    methods does not provide robust adversarial guarantees: because alignment training
+    creates policy-conditioned refusals rather than fundamental incapability, adversarial
+    prompts that rephrase, contextualise, or obfuscate the request can systematically
+    bypass the refusal while leaving the underlying capability intact — meaning the
+    safety of aligned models must be evaluated under adversarial conditions, not just
+    benign evaluation distributions.'
+- type: warning
+  title: Common pitfall regarding Jailbreaking
+  body: 'Jailbreaking research creates a dual-use tension: publishing effective jailbreak
+    techniques enables both the safety research community to patch vulnerabilities
+    and malicious actors to exploit them, and the cat-and-mouse dynamic between jailbreak
+    discovery and safety patch deployment means that current safety evaluations reflect
+    a model''s robustness to known jailbreak patterns, not its robustness to novel
+    adversarial strategies yet to be discovered.'

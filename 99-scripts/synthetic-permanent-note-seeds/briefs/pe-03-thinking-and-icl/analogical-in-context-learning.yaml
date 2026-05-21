@@ -1,0 +1,46 @@
+concept: Analogical In-Context Learning
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- analogical-reasoning
+aliases:
+- analogical ICL
+- structure-mapping ICL
+broader:
+- in-context-learning
+- analogical-prompting
+related:
+- analogical-prompting
+- few-shot-prompting
+- in-context-learning
+- retrieval-augmented-few-shot
+prerequisites:
+- in-context-learning
+- analogical-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Analogical In-Context Learning
+  body: Analogical In-Context Learning is a variant of few-shot prompting in which
+    the demonstrations are selected or constructed to be structurally analogous to
+    the target problem — sharing the same relational structure but in a different
+    surface domain — so the model can apply the abstract reasoning pattern from the
+    demonstration to the target by structural mapping rather than surface pattern
+    matching.
+- type: key-claim
+  title: Key claim about Analogical In-Context Learning
+  body: Analogical In-Context Learning exploits the model's capacity for relational
+    reasoning rather than its capacity for distributional matching; by providing a
+    structurally isomorphic example from a well-understood domain, the prompt engineer
+    transfers the reasoning pattern across domains without requiring domain-matched
+    training examples, enabling effective prompting in low-data scenarios where surface-similar
+    demonstrations are unavailable.
+- type: warning
+  title: Common pitfall regarding Analogical In-Context Learning
+  body: Analogical In-Context Learning requires the analogy itself to be structurally
+    valid; if the source-domain example is not a genuine structural analogue of the
+    target problem (a common failure when analogies are chosen for intuitive familiarity
+    rather than formal structural correspondence), the model may apply an inappropriate
+    reasoning pattern that superficially resembles the correct approach while arriving
+    at systematically wrong conclusions.

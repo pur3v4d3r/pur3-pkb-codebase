@@ -1,0 +1,49 @@
+concept: Long-Context Prompting Strategies
+domain: llm-memory
+secondary_domains:
+- prompt-engineering
+- long-context-llms
+aliases:
+- long document prompting
+- extended context prompting
+- large context prompting strategies
+broader:
+- prompt-engineering
+- long-context-llms
+related:
+- needle-in-a-haystack-evaluation
+- context-distillation
+- summarization-as-compression
+- retrieval-augmented-generation
+- episodic-memory-in-agents
+prerequisites:
+- prompt-engineering
+- long-context-llms
+confidence: high
+callouts:
+- type: definition
+  title: Long-Context Prompting Strategies
+  body: 'Long-Context Prompting Strategies are the collection of techniques for effectively
+    using language models with large context windows — models that support 32K to
+    1M+ tokens — in ways that maximise recall of relevant information and minimise
+    the degradation in attention quality that occurs when context is extremely long.
+    Key strategies include: placing the most critical information at the beginning
+    or end of the context (exploiting primacy and recency effects); using explicit
+    section markers and hierarchical headings to aid navigation; summarising background
+    context before appending verbatim source material; using retrieval-augmented approaches
+    to pre-select relevant context rather than loading everything; and including explicit
+    instructions to attend to specific sections.'
+- type: key-claim
+  title: Key claim about Long-Context Prompting Strategies
+  body: Long-context models exhibit a "lost in the middle" effect — they recall information
+    near the beginning and end of the context reliably but show significantly degraded
+    recall for information placed in the middle of very long contexts — making context
+    organisation a critical prompt engineering variable that determines whether long-context
+    capability translates to long-context performance in practice.
+- type: warning
+  title: Common pitfall regarding Long-Context Prompting Strategies
+  body: The availability of large context windows can create a false sense of security
+    — loading all available information into a context window without curation is
+    not equivalent to the model having processed that information meaningfully, because
+    attention dilutes and recall degrades with context length, and a well-curated
+    shorter prompt can outperform an uncurated long prompt on most tasks.

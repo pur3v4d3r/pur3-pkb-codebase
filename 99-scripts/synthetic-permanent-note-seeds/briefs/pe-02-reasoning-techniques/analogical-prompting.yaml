@@ -1,0 +1,42 @@
+concept: Analogical Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- analogical-reasoning
+aliases:
+- self-generated analogy prompting
+- analogical few-shot
+broader:
+- reasoning-techniques
+- prompting
+related:
+- step-back-prompting
+- analogical-in-context-learning
+- chain-of-thought-prompting
+- metacognitive-prompting
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Analogical Prompting
+  body: Analogical Prompting is a technique in which the model is instructed to self-generate
+    relevant analogous examples or solved problems from its own parametric knowledge
+    before tackling the target problem, using these self-retrieved analogies as reasoning
+    scaffolds rather than relying on hand-crafted few-shot examples from the prompt
+    author.
+- type: key-claim
+  title: Key claim about Analogical Prompting
+  body: Analogical Prompting eliminates the bottleneck of human few-shot example construction
+    by having the model retrieve its own analogies, and empirical evidence shows it
+    matches or exceeds hand-crafted few-shot chains on reasoning benchmarks, suggesting
+    that the model's internal knowledge of relevant analogues is a more reliable few-shot
+    pool than any fixed human-authored example set.
+- type: warning
+  title: Common pitfall regarding Analogical Prompting
+  body: Analogical Prompting is bounded by the quality of analogies the model can
+    self-generate; if the model cannot identify genuinely structurally similar problems
+    (a failure mode more likely in novel or domain-specific tasks), it generates superficially
+    similar but structurally irrelevant analogies that mislead rather than scaffold
+    the reasoning.

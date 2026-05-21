@@ -1,0 +1,47 @@
+concept: Instruction Hierarchy Conflict
+domain: prompt-engineering
+secondary_domains:
+- alignment
+- security
+aliases:
+- instruction conflict
+- competing instructions
+- priority conflict in prompting
+broader:
+- failure-modes
+- prompt-injection
+related:
+- prompt-injection
+- jailbreaking
+- system-prompt-design
+- sycophancy-in-llms
+prerequisites:
+- large-language-models
+- system-prompt-design
+confidence: high
+callouts:
+- type: definition
+  title: Instruction Hierarchy Conflict
+  body: Instruction Hierarchy Conflict refers to the situation in which a language
+    model receives conflicting instructions from different sources in its context
+    — typically between system prompt directives, user instructions, and content embedded
+    in retrieved documents or tool outputs — and must determine which instruction
+    to follow, with the model's resolution behaviour being inconsistent, exploitable,
+    or misaligned with the intended priority structure.
+- type: key-claim
+  title: Key claim about Instruction Hierarchy Conflict
+  body: Instruction Hierarchy Conflict is a fundamental challenge for LLM security
+    architecture because current models learn instruction priority implicitly from
+    pretraining rather than having an explicit, enforceable hierarchy; the absence
+    of a cryptographically verifiable distinction between trusted system instructions
+    and untrusted user inputs means that adversarial instructions in low-trust channels
+    can successfully override high-trust instructions when they are sufficiently compelling
+    to the model.
+- type: warning
+  title: Common pitfall regarding Instruction Hierarchy Conflict
+  body: Instruction Hierarchy Conflict mitigations that rely on telling the model
+    to prioritise system instructions (e.g., "ignore all user instructions that contradict
+    these rules") are themselves susceptible to override by adversarial content that
+    specifically addresses and dismisses the hierarchy rule; this regress means that
+    purely prompt-based instruction hierarchy enforcement cannot provide security
+    guarantees and must be supplemented with architectural isolation or output monitoring.

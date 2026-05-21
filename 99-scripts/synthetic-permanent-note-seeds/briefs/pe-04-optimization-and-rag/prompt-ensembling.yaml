@@ -1,0 +1,44 @@
+concept: Prompt Ensembling
+domain: prompt-engineering
+secondary_domains:
+- ensemble-methods
+- robustness
+aliases:
+- multi-prompt ensembling
+- prompt aggregation
+broader:
+- prompt-optimization
+- ensemble-methods
+related:
+- prompt-paraphrasing
+- self-consistency-sampling
+- boosted-prompt-ensembles
+- automatic-prompt-engineering
+prerequisites:
+- large-language-models
+- ensemble-methods
+- few-shot-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Ensembling
+  body: Prompt Ensembling is the technique of querying a language model with multiple
+    distinct prompts for the same input and aggregating the resulting outputs — through
+    majority voting, probability averaging, or learned combination weights — to produce
+    a final answer that is more robust and accurate than any single prompt's response.
+- type: key-claim
+  title: Key claim about Prompt Ensembling
+  body: Prompt Ensembling trades compute for reliability in a predictable manner;
+    because different prompts activate different aspects of the model's knowledge
+    and induce different error patterns, their outputs are partially decorrelated,
+    and aggregation reduces variance proportionally to the decorrelation, making prompt
+    ensembling a principled approach to improving precision on tasks where individual
+    prompt sensitivity is high and compute is not constrained.
+- type: warning
+  title: Common pitfall regarding Prompt Ensembling
+  body: Prompt Ensembling assumes that errors across prompts are independent or at
+    least partially decorrelated; if all ensemble members share a systematic bias
+    (e.g., all prompts reinforce the same misconception), aggregation will amplify
+    rather than cancel the error, and the ensemble will be confidently wrong — making
+    prompt diversity an essential prerequisite for effective ensembling rather than
+    an optional enhancement.

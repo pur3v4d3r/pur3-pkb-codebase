@@ -1,0 +1,48 @@
+concept: Tool Use in LLMs
+domain: prompt-engineering
+secondary_domains:
+- agentic-frameworks
+- api-integration
+aliases:
+- LLM tool use
+- external tool integration
+- augmented language models
+broader:
+- agentic-frameworks
+narrower:
+- function-calling
+- toolformer
+- react-reasoning-acting
+related:
+- function-calling
+- toolformer
+- react-reasoning-acting
+- retrieval-augmented-generation
+prerequisites:
+- large-language-models
+- agentic-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Tool Use in LLMs
+  body: Tool Use in LLMs refers to the capability of language models to invoke external
+    software tools — including search engines, code interpreters, databases, APIs,
+    and calculators — during inference to overcome limitations of parametric knowledge
+    and to perform operations that require precise symbolic computation rather than
+    approximate statistical generation.
+- type: key-claim
+  title: Key claim about Tool Use in LLMs
+  body: 'Tool Use in LLMs extends the effective capability frontier of language models
+    beyond what is achievable through generation alone: by delegating precise, verifiable
+    operations (arithmetic, database queries, code execution, real-time information
+    retrieval) to purpose-built tools, the model can focus its generative capacity
+    on reasoning, planning, and communication while tools handle the operations where
+    LLM generation is systematically unreliable.'
+- type: warning
+  title: Common pitfall regarding Tool Use in LLMs
+  body: Tool Use in LLMs introduces security attack surfaces that are not present
+    in generation-only systems; external tool calls can trigger side effects, expose
+    sensitive data, or be manipulated by adversarial content in the environment (prompt
+    injection via tool outputs), and the composability of tool calls means that a
+    single compromised tool invocation can cascade through a multi-step agent pipeline
+    with significant real-world consequences.

@@ -1,0 +1,46 @@
+concept: Plan-and-Execute Agents
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- task-planning
+aliases:
+- plan-then-execute
+- two-phase agent
+- planner-executor agent
+broader:
+- agentic-frameworks
+related:
+- react-reasoning-acting
+- task-decomposition-agents
+- hierarchical-agent-orchestration
+- chain-of-action
+prerequisites:
+- large-language-models
+- task-decomposition-agents
+- agentic-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Plan-and-Execute Agents
+  body: Plan-and-Execute Agents are a two-phase agent architecture in which a planner
+    module first generates a complete multi-step plan for the task before any execution
+    begins, and an executor module then carries out each plan step sequentially —
+    separating the strategic planning function from the tactical execution function
+    to allow higher-quality planning without the distraction of moment-to-moment action
+    selection.
+- type: key-claim
+  title: Key claim about Plan-and-Execute Agents
+  body: 'Plan-and-Execute Agents outperform reactive agents on tasks with predictable
+    structure by front-loading the reasoning about task decomposition: by producing
+    the full plan before execution, the planner can reason about step ordering, anticipate
+    dependencies between sub-tasks, and allocate tool calls efficiently — advantages
+    that reactive interleaved approaches cannot fully realise because each step only
+    reasons about the next immediate action.'
+- type: warning
+  title: Common pitfall regarding Plan-and-Execute Agents
+  body: Plan-and-Execute Agents are brittle when the environment is stochastic or
+    partially observable; if an early execution step produces unexpected results that
+    invalidate the assumptions underlying the remaining plan, the executor has no
+    native mechanism to trigger replanning, and the agent will continue executing
+    a plan that is no longer valid unless explicit replanning triggers are built into
+    the architecture.

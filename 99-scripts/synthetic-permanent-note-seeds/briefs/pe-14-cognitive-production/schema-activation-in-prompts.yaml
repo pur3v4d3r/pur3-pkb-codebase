@@ -1,0 +1,49 @@
+concept: Schema Activation in Prompts
+domain: cognitive-science
+secondary_domains:
+- prompt-engineering
+- cognitive-science
+- few-shot-prompting
+aliases:
+- schema priming in prompts
+- frame activation
+- cognitive schema prompting
+broader:
+- cognitive-science
+- prompt-engineering
+related:
+- semantic-priming-effects
+- prototype-theory-and-llms
+- cognitive-load-theory-applied-to-llms
+- few-shot-prompting
+prerequisites:
+- schema-theory
+- prompt-engineering
+- cognitive-science
+confidence: medium
+callouts:
+- type: definition
+  title: Schema Activation in Prompts
+  body: Schema Activation in Prompts applies schema theory — the cognitive science
+    framework holding that prior knowledge is organised into structured mental schemas
+    that are activated by contextual cues — to the design of prompts. Under this framework,
+    providing the model with context cues that match the schema associated with a
+    target task (e.g., using technical vocabulary, framing the task as expert analysis,
+    or providing few-shot examples in the target style) activates the corresponding
+    knowledge schema and primes the model to produce outputs consistent with that
+    schema. Role prompts, few-shot examples, and domain-specific context framing can
+    all be understood as schema activation techniques.
+- type: key-claim
+  title: Key claim about Schema Activation in Prompts
+  body: Schema activation is the cognitive mechanism underlying the effectiveness
+    of role prompts and few-shot examples — by providing context that matches the
+    schema of an expert in the target domain, the prompt activates the model's learned
+    representations of how experts in that domain reason and write, shifting the generation
+    distribution toward higher-quality, domain-appropriate outputs.
+- type: warning
+  title: Common pitfall regarding Schema Activation in Prompts
+  body: Schema activation can cause over-application of a schema — if the activated
+    schema is too narrow or specific, the model may apply it rigidly even in situations
+    where flexibility or a different schema would produce better outputs, analogous
+    to the cognitive science concept of schema-driven errors where prior expectations
+    override accurate perception of new information.

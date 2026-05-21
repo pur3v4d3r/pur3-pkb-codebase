@@ -1,0 +1,52 @@
+concept: Constitutional AI Method
+domain: prompt-engineering
+secondary_domains:
+- alignment
+- safety
+aliases:
+- Constitutional AI
+- CAI
+- principle-based RLHF
+- critique-revision alignment
+broader:
+- alignment
+- advanced-patterns
+related:
+- red-teaming-llms
+- jailbreaking
+- reward-hacking
+- sycophancy-in-llms
+- self-refine
+prerequisites:
+- large-language-models
+- rlhf
+- alignment
+confidence: high
+callouts:
+- type: definition
+  title: Constitutional AI Method
+  body: Constitutional AI Method is an alignment training technique in which a language
+    model is given an explicit set of principles (a "constitution") and trained to
+    critique and revise its own outputs for principle violations before generating
+    the final response — using self-critique as a scalable alternative to human feedback
+    for iterative alignment, reducing the volume of harmful human feedback required
+    and encoding alignment objectives as natural-language principles rather than implicit
+    reward model preferences.
+- type: key-claim
+  title: Key claim about Constitutional AI Method
+  body: 'Constitutional AI Method demonstrates that language-mediated self-alignment
+    is viable at scale: by using the model''s language understanding to operationalise
+    alignment principles through critique and revision, the technique achieves alignment
+    improvements on safety and harmlessness dimensions without requiring humans to
+    rate harmful outputs directly — a practical and ethical advantage over standard
+    RLHF that requires human annotators to engage with large volumes of policy-violating
+    content.'
+- type: warning
+  title: Common pitfall regarding Constitutional AI Method
+  body: Constitutional AI Method's alignment quality is bounded by the quality of
+    the constitution and the model's ability to correctly apply its principles; an
+    ambiguous or incomplete constitution will produce inconsistent critique behaviour,
+    and the model's interpretation of each principle is not transparent — meaning
+    two behaviours can appear to satisfy the same constitutional principle while being
+    substantively different, and the alignment guarantees of CAI are qualitative commitments
+    rather than formal safety properties.

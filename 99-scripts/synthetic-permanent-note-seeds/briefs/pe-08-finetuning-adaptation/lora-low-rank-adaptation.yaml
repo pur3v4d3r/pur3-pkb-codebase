@@ -1,0 +1,51 @@
+concept: LoRA Low-Rank Adaptation
+domain: llm-fine-tuning
+secondary_domains:
+- machine-learning
+- parameter-efficient-fine-tuning
+- linear-algebra
+aliases:
+- LoRA
+- Low-Rank Adaptation
+- low-rank fine-tuning
+broader:
+- parameter-efficient-fine-tuning
+narrower:
+- qlora
+- dora
+related:
+- parameter-efficient-fine-tuning
+- qlora
+- adapter-layers
+- prefix-tuning
+- catastrophic-forgetting-in-llms
+prerequisites:
+- matrix-factorization
+- fine-tuning
+- transformer-attention-mechanism
+confidence: high
+callouts:
+- type: definition
+  title: LoRA Low-Rank Adaptation
+  body: LoRA (Low-Rank Adaptation) is a parameter-efficient fine-tuning method that
+    approximates the weight updates during fine-tuning as the product of two low-rank
+    matrices. For each weight matrix W that would be updated, LoRA instead trains
+    two smaller matrices A (d×r) and B (r×k) where the rank r is much smaller than
+    the original dimensions, and the effective weight update is ΔW = BA. During inference,
+    the LoRA weights can be merged into the original weights at zero additional cost,
+    or kept separate to allow hot-swapping of different adaptations. The original
+    weights are frozen throughout training, so only the low-rank matrices are updated.
+- type: key-claim
+  title: Key claim about LoRA Low-Rank Adaptation
+  body: 'LoRA''s effectiveness confirms the low-rank intrinsic dimensionality hypothesis
+    for fine-tuning: weight updates during adaptation occupy a very low-dimensional
+    subspace of the full weight space, meaning that fine-tuning with rank-4 or rank-8
+    matrices can match full fine-tuning despite being orders of magnitude smaller,
+    because the task-specific information is structurally concentrated.'
+- type: warning
+  title: Common pitfall regarding LoRA Low-Rank Adaptation
+  body: The choice of rank is a significant hyperparameter — too low a rank may underfits
+    the task while too high a rank eliminates the parameter savings without improving
+    quality, and applying LoRA to the correct set of weight matrices (e.g., attention
+    only vs. all linear layers) requires empirical tuning that varies by model architecture
+    and task.

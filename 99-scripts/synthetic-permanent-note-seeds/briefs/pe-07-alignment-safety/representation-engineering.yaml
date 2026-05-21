@@ -1,0 +1,51 @@
+concept: Representation Engineering
+domain: ai-alignment
+secondary_domains:
+- mechanistic-interpretability
+- ai-alignment
+- llm-internals
+aliases:
+- RepE
+- linear representation control
+- internal representation manipulation
+broader:
+- mechanistic-interpretability
+- ai-alignment
+narrower:
+- activation-steering
+related:
+- activation-steering
+- mechanistic-interpretability
+- constitutional-ai-principles
+- superposition-hypothesis
+prerequisites:
+- transformer-attention-mechanism
+- linear-algebra
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Representation Engineering
+  body: Representation Engineering (RepE) is a framework for understanding and modifying
+    AI behaviour by identifying and manipulating the geometric structure of concepts
+    in a model's internal representation space. Developed by Zou et al. (2023), the
+    approach uses linear probing and contrast pairs to locate concept directions in
+    the residual stream, then applies these directions via reading vectors (to measure
+    the presence of a concept) and control vectors (to modify it). RepE treats the
+    model's internal representations as a readable and writable state that can be
+    queried and edited, offering a more principled foundation for steering than heuristic
+    activation addition.
+- type: key-claim
+  title: Key claim about Representation Engineering
+  body: Representation Engineering provides empirical evidence that emotionally and
+    ethically significant attributes — including honesty, power-seeking, and harm
+    avoidance — have robust linear representations in transformer models, opening
+    a principled path to measuring and controlling model dispositions without full
+    fine-tuning.
+- type: warning
+  title: Common pitfall regarding Representation Engineering
+  body: RepE's effectiveness depends on the linear representation hypothesis being
+    accurate for the concepts being manipulated — not all concepts are well-represented
+    as linear directions, and for concepts that involve polysemanticity or superposition,
+    reading and writing vectors may be unreliable or have unintended side effects
+    on other concepts sharing the same representational space.

@@ -1,0 +1,39 @@
+concept: Delimiters and Separators
+domain: prompt-engineering
+secondary_domains:
+- prompt-formatting
+- llm-inference
+aliases:
+- prompt delimiters
+- section separators
+- context separators
+broader:
+- prompt-formatting
+related:
+- prompt-formatting
+- prompt-clarity-principles
+- system-prompt-design
+prerequisites:
+- large-language-models
+- tokenisation
+confidence: high
+callouts:
+- type: definition
+  title: Delimiters and Separators
+  body: Delimiters and Separators in prompt engineering are syntactic markers — such
+    as triple backticks, XML tags, dashes, or capitalised labels — used to demarcate
+    distinct semantic zones within a prompt (e.g., separating the instruction from
+    the user-supplied data) and to prevent the model from treating injected content
+    as authoritative instruction.
+- type: key-claim
+  title: Key claim about Delimiters and Separators
+  body: Delimiters and Separators are the primary structural defence against prompt-injection
+    attacks at the prompt level; by clearly demarcating where user-controlled content
+    begins and ends, they reduce (though do not eliminate) the model's tendency to
+    treat adversarial content embedded in that zone as an instruction to be followed.
+- type: warning
+  title: Common pitfall regarding Delimiters and Separators
+  body: Delimiters and Separators are not robust security boundaries; any delimiter
+    scheme that the model can parse can also be escaped or replicated by an adversarial
+    user, so delimiters should be treated as a UX tool for structure clarity rather
+    than as a security mechanism in high-stakes deployments.

@@ -1,0 +1,48 @@
+concept: Outcome Reward Models
+domain: llm-evaluation
+secondary_domains:
+- reinforcement-learning-from-human-feedback
+- alignment
+- llm-training
+aliases:
+- ORMs
+- outcome-based reward models
+- final-answer reward models
+broader:
+- llm-evaluation
+- reinforcement-learning-from-human-feedback
+related:
+- process-reward-models
+- reward-model-design
+- reinforcement-learning-from-human-feedback
+- best-of-n-sampling
+prerequisites:
+- reinforcement-learning-from-human-feedback
+- reward-model-design
+confidence: high
+callouts:
+- type: definition
+  title: Outcome Reward Models
+  body: Outcome Reward Models (ORMs) are reward models trained to evaluate only the
+    final output of a model — the final answer, completed code, or generated text
+    — without evaluating the intermediate reasoning steps that produced it. ORMs represent
+    the most common implementation of reward modelling in RLHF pipelines and are trained
+    on human preference data where annotators indicate which of two responses they
+    prefer. Because ORMs evaluate only the outcome, they provide sparse training signal
+    (one reward per full generation) but can be trained on preference data that is
+    much cheaper to collect than step-level annotations.
+- type: key-claim
+  title: Key claim about Outcome Reward Models
+  body: Outcome reward models are the practical foundation of current RLHF training
+    — despite their theoretical limitations relative to process reward models, their
+    data efficiency (preference data can be collected from non-expert annotators at
+    scale) has made them the dominant training signal for aligning LLMs with human
+    preferences in deployed systems, and the models trained with ORM-based RLHF represent
+    the current state of the art in human-preferred outputs.
+- type: warning
+  title: Common pitfall regarding Outcome Reward Models
+  body: Outcome reward models are vulnerable to reward hacking — the generator model
+    can find outputs that score highly on the ORM's learned preference function without
+    genuinely satisfying the underlying human preference, a phenomenon that worsens
+    as the generator model becomes more capable relative to the reward model, requiring
+    regular retraining of the ORM to stay ahead of the generator's optimisation.

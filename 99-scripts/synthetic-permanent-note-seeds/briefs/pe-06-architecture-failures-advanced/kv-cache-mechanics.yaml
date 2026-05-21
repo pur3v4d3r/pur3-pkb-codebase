@@ -1,0 +1,46 @@
+concept: KV Cache Mechanics
+domain: prompt-engineering
+secondary_domains:
+- inference-efficiency
+- systems
+aliases:
+- key-value cache
+- KV cache
+- attention key-value caching
+broader:
+- transformer-attention-mechanism
+- inference-efficiency
+related:
+- transformer-attention-mechanism
+- context-window-management
+- token-budget-management
+- speculative-decoding
+prerequisites:
+- transformer-attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: KV Cache Mechanics
+  body: KV Cache Mechanics refers to the technique of caching the key and value tensors
+    computed from the attention mechanism for previously processed tokens, so that
+    autoregressive generation can reuse these cached representations rather than recomputing
+    them on every generation step — reducing the per-token generation cost from O(N²)
+    to O(N) in the attention computation where N is the current sequence length.
+- type: key-claim
+  title: Key claim about KV Cache Mechanics
+  body: KV Cache Mechanics is the primary engineering mechanism that makes autoregressive
+    generation practical at long context lengths; without caching, generating a 1000-token
+    response at 1000-token context requires a million attention operations per layer,
+    while with caching each new token only requires N new key-query comparisons —
+    a distinction that becomes the difference between feasible and infeasible inference
+    latency as context lengths grow into the tens of thousands.
+- type: warning
+  title: Common pitfall regarding KV Cache Mechanics
+  body: 'KV Cache Mechanics introduces a memory scaling problem that competes with
+    context window expansion: the KV cache size grows linearly with both sequence
+    length and batch size, and for frontier-scale models with large context windows,
+    the KV cache can consume more GPU memory than the model weights themselves — forcing
+    engineers to choose between large batch sizes (throughput) and large context windows
+    (capability), creating a production deployment tension that does not exist in
+    the research setting where single-request evaluation hides the memory pressure.'

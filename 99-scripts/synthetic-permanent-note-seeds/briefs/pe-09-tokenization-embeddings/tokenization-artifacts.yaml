@@ -1,0 +1,47 @@
+concept: Tokenization Artifacts
+domain: nlp-tokenization
+secondary_domains:
+- natural-language-processing
+- llm-reasoning
+aliases:
+- tokenisation artifacts
+- tokenizer quirks
+- tokenization side effects
+broader:
+- tokenization
+- subword-tokenization
+related:
+- byte-pair-encoding
+- token-boundary-effects
+- tokenizer-sensitivity
+- whitespace-token-effects
+prerequisites:
+- byte-pair-encoding
+- subword-tokenization
+confidence: high
+callouts:
+- type: definition
+  title: Tokenization Artifacts
+  body: 'Tokenization Artifacts are systematic errors and failure modes in language
+    model behaviour that originate from the tokenisation process rather than from
+    limitations in the model''s knowledge or reasoning. Examples include: models that
+    fail to reverse strings or count characters because they operate on token sequences
+    rather than character sequences; models that struggle with words split across
+    unexpected token boundaries (e.g., "token" + "isation" vs "tokenisation"); models
+    that behave differently on semantically equivalent text that tokenises differently;
+    and models that exhibit sensitivity to leading/trailing whitespace because it
+    changes token boundaries.'
+- type: key-claim
+  title: Key claim about Tokenization Artifacts
+  body: Tokenization artifacts demonstrate that language models do not process language
+    the way humans do — many apparent "reasoning failures" are actually tokenisation
+    failures where the model's inability to solve a character-level task (e.g., anagram
+    detection, syllable counting) reflects the fact that its input representation
+    never contained character-level information, not that it lacks the underlying
+    reasoning capability.
+- type: warning
+  title: Common pitfall regarding Tokenization Artifacts
+  body: Tokenization artifacts are stable across model scales — scaling up a model
+    trained on BPE-tokenised text does not eliminate artifacts caused by the tokenisation
+    scheme; only changing the tokenisation method or training a model with character-aware
+    representations addresses the root cause.

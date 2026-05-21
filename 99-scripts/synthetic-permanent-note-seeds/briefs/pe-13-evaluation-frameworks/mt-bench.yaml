@@ -1,0 +1,48 @@
+concept: MT-Bench
+domain: llm-evaluation
+secondary_domains:
+- chatbot-evaluation
+- llm-as-judge
+- instruction-following-evaluation
+aliases:
+- Multi-Turn Benchmark
+- LLM-as-judge benchmark
+- Vicuna MT-bench
+broader:
+- llm-evaluation
+- benchmark-design
+related:
+- lm-evaluation-harness
+- arena-elo-rating
+- llm-judge-calibration
+- self-evaluation-prompting
+prerequisites:
+- llm-evaluation
+- instruction-following
+confidence: high
+callouts:
+- type: definition
+  title: MT-Bench
+  body: MT-Bench is a benchmark that evaluates large language models on multi-turn
+    conversational ability using an LLM-as-judge approach — a strong model (typically
+    GPT-4) is used to score model responses on a set of 80 multi-turn dialogues spanning
+    reasoning, coding, mathematics, roleplay, writing, and knowledge tasks. Each dialogue
+    involves two turns, testing the model's ability to follow up coherently on the
+    first turn in the second. The LLM-as-judge scoring correlates well with human
+    preferences, making MT-bench a scalable alternative to expensive human evaluation
+    for comparing chat-optimised models.
+- type: key-claim
+  title: Key claim about MT-Bench
+  body: MT-Bench's LLM-as-judge approach demonstrated that a strong language model
+    can serve as a reliable proxy for human evaluation on instruction-following tasks
+    — GPT-4's scores correlate significantly with human preference judgements on the
+    same dialogues, enabling systematic evaluation of conversational models at the
+    scale required to compare the rapidly growing ecosystem of fine-tuned chat models.
+- type: warning
+  title: Common pitfall regarding MT-Bench
+  body: MT-Bench scores are subject to judge model bias — the GPT-4 judge tends to
+    favour responses that resemble GPT-4's own style (verbose, well-structured, qualifications
+    included), systematically disadvantaging models fine-tuned on different style
+    preferences; this means MT-bench scores reflect alignment with GPT-4 style in
+    addition to objective quality, and should be interpreted with knowledge of the
+    judge model's preferences.

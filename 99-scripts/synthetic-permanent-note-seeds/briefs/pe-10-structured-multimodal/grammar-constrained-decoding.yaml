@@ -1,0 +1,51 @@
+concept: Grammar-Constrained Decoding
+domain: structured-generation
+secondary_domains:
+- llm-decoding
+- formal-languages
+- structured-prediction
+aliases:
+- constrained generation
+- grammar-guided generation
+- GBNF generation
+- CFG-constrained decoding
+broader:
+- guided-generation
+- constrained-beam-search
+related:
+- guided-generation
+- constrained-beam-search
+- json-mode-prompting
+- output-schema-enforcement
+- structured-prediction-prompting
+prerequisites:
+- llm-decoding
+- formal-grammar
+- structured-prediction-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Grammar-Constrained Decoding
+  body: Grammar-Constrained Decoding is a generation technique in which the language
+    model's token sampling is restricted at each step to only those tokens that can
+    extend the current output while remaining consistent with a formal grammar — such
+    as a context-free grammar (CFG), GBNF (GGUF BNF Format), or regular expression.
+    By masking the logits of tokens that would violate the grammar, the method guarantees
+    that every possible output satisfies the grammar by construction, making it possible
+    to produce valid JSON, YAML, SQL, code, or any other formally defined structure
+    with zero syntactic errors.
+- type: key-claim
+  title: Key claim about Grammar-Constrained Decoding
+  body: Grammar-constrained decoding provides a hard guarantee of syntactic validity
+    that prompt-based approaches cannot match — no matter how well-prompted a model
+    is, it will occasionally produce malformed structured output on adversarial inputs
+    or edge cases, while grammar constraints enforce structure at the generation level,
+    making downstream parsing failure-free by construction.
+- type: warning
+  title: Common pitfall regarding Grammar-Constrained Decoding
+  body: Grammar-constrained decoding can degrade output quality by forcing the model
+    to commit to token choices that are syntactically valid but semantically poor
+    — if the most likely semantically correct continuation is grammatically invalid
+    under the current constraint state, the model is forced to choose a less likely
+    but grammatically valid alternative, and this can compound into outputs that are
+    syntactically correct but semantically incoherent for complex schemas.

@@ -1,0 +1,49 @@
+concept: Top-P Nucleus Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+aliases:
+- nucleus sampling
+- top-p sampling
+- cumulative probability sampling
+broader:
+- llm-decoding
+related:
+- temperature-sampling
+- top-k-sampling
+- min-p-sampling
+- llm-generation
+prerequisites:
+- llm-decoding
+- probability-theory
+- temperature-sampling
+confidence: high
+callouts:
+- type: definition
+  title: Top-P Nucleus Sampling
+  body: Top-P Nucleus Sampling (Holtzman et al., 2020) is a decoding strategy that
+    at each token generation step considers only the smallest set of tokens whose
+    cumulative probability mass exceeds a threshold p, and samples from that set with
+    probabilities renormalised to sum to 1. Unlike top-k which always uses the same
+    number of candidates, top-p dynamically adjusts the candidate set size based on
+    the distribution shape — when the model is highly confident, the nucleus may contain
+    only 1–2 tokens; when the model is uncertain, the nucleus may contain hundreds
+    of tokens. This adaptive behaviour produces more coherent text than fixed top-k
+    by avoiding forced sampling from very low-probability tokens when a confident
+    prediction exists.
+- type: key-claim
+  title: Key claim about Top-P Nucleus Sampling
+  body: Top-p sampling improves generation quality over top-k by adapting the vocabulary
+    truncation to the model's confidence at each step — when the model has a strong
+    preference (peaky distribution), top-p respects that preference by using a small
+    candidate set, while top-k would force sampling from many low-probability alternatives,
+    introducing incoherence.
+- type: warning
+  title: Common pitfall regarding Top-P Nucleus Sampling
+  body: Top-p and temperature are typically both applied in production systems, and
+    they interact — a high temperature flattens the distribution (making the nucleus
+    larger) while a low temperature sharpens it (making the nucleus smaller), so the
+    effective behaviour of top-p depends on the temperature setting, and setting them
+    independently without considering their interaction can produce unexpected generation
+    characteristics.

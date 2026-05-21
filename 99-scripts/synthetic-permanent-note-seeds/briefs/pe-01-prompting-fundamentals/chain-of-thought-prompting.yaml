@@ -1,0 +1,45 @@
+concept: Chain-of-Thought Prompting
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- llm-inference
+aliases:
+- CoT prompting
+- chain of thought
+- let's think step by step
+broader:
+- reasoning-techniques
+- prompting
+narrower:
+- zero-shot-chain-of-thought
+- few-shot-chain-of-thought
+related:
+- tree-of-thoughts
+- least-to-most-prompting
+- step-back-prompting
+- self-consistency-sampling
+prerequisites:
+- large-language-models
+- few-shot-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Chain-of-Thought Prompting
+  body: Chain-of-Thought Prompting is a prompting technique that elicits multi-step
+    reasoning from a language model by instructing it to produce intermediate reasoning
+    steps before arriving at a final answer, either through worked examples that demonstrate
+    the reasoning trace (few-shot CoT) or through a simple instruction like "think
+    step by step" (zero-shot CoT).
+- type: key-claim
+  title: Key claim about Chain-of-Thought Prompting
+  body: Chain-of-Thought Prompting improves performance on multi-step reasoning tasks
+    not merely by slowing the model down but by externalising the reasoning process
+    into the context window, where each intermediate conclusion becomes available
+    as a retrieved premise for subsequent steps — a mechanism unavailable in single-token
+    final-answer prompting.
+- type: warning
+  title: Common pitfall regarding Chain-of-Thought Prompting
+  body: Chain-of-Thought Prompting does not guarantee faithful reasoning; models can
+    produce convincing reasoning chains that arrive at correct answers via logically
+    invalid paths, or produce plausible-sounding wrong chains that the reader accepts
+    because of their fluency — a failure mode sometimes called "rationalisation prompting."

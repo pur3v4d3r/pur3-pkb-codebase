@@ -1,0 +1,51 @@
+concept: Subword Tokenization
+domain: nlp-tokenization
+secondary_domains:
+- natural-language-processing
+- language-modelling
+aliases:
+- subword segmentation
+- subword encoding
+- subword-based tokenisation
+broader:
+- tokenization
+narrower:
+- byte-pair-encoding
+- wordpiece
+- unigram-language-model-tokenization
+related:
+- byte-pair-encoding
+- vocabulary-size-tradeoffs
+- tokenizer-sensitivity
+- cross-lingual-tokenization
+prerequisites:
+- language-modelling
+- natural-language-processing
+confidence: high
+callouts:
+- type: definition
+  title: Subword Tokenization
+  body: 'Subword Tokenization is the class of text segmentation methods that split
+    text into units smaller than words but larger than individual characters — subword
+    units that balance the expressiveness of word-level representations with the open-vocabulary
+    coverage of character-level models. The three dominant subword methods are Byte-Pair
+    Encoding (BPE), which greedily merges frequent pairs; WordPiece, which maximises
+    likelihood under a language model and uses a ## prefix for continuation tokens;
+    and Unigram, which trains a probabilistic model and prunes the vocabulary to maximise
+    the likelihood of the corpus. All three methods produce a segmentation that encodes
+    frequency information about the training corpus.'
+- type: key-claim
+  title: Key claim about Subword Tokenization
+  body: Subword tokenization solved the fundamental open-vocabulary problem in neural
+    language modelling — prior character-level models were slow due to long sequences
+    and prior word-level models failed on unseen words, while subword methods achieve
+    efficient sequence lengths with full coverage of the character set, enabling the
+    scaling that produced modern LLMs.
+- type: warning
+  title: Common pitfall regarding Subword Tokenization
+  body: Subword tokenization is not language-neutral — methods trained on data with
+    heavy English bias will tokenise English words into single tokens while tokenising
+    equivalent concepts in other languages into many tokens, producing systematic
+    disparities in the computational resources and context-window space available
+    to different languages, which can compound into performance gaps for non-English
+    speakers.

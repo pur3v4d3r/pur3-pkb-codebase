@@ -1,0 +1,50 @@
+concept: Epistemological Uncertainty in LLMs
+domain: cognitive-science
+secondary_domains:
+- llm-calibration
+- alignment
+- prompt-engineering
+aliases:
+- LLM epistemic uncertainty
+- uncertainty awareness prompting
+- LLM calibration
+broader:
+- cognitive-science
+- llm-calibration
+related:
+- self-evaluation-prompting
+- llm-judge-calibration
+- fact-verification-prompting
+- cognitive-load-theory-applied-to-llms
+prerequisites:
+- epistemology
+- llm-calibration
+- prompt-engineering
+confidence: medium
+callouts:
+- type: definition
+  title: Epistemological Uncertainty in LLMs
+  body: Epistemological Uncertainty in LLMs refers to a model's awareness of, and
+    ability to communicate, the limits and reliability of its own knowledge — distinguishing
+    between what it knows confidently, what it believes with uncertainty, and what
+    it does not know. Well-calibrated epistemic uncertainty expressions improve user
+    trust calibration by signalling when a model's outputs should be verified, and
+    can be elicited through prompting techniques that instruct the model to explicitly
+    state its confidence level, provide hedging language appropriate to its knowledge
+    state, or refuse to answer when uncertainty is too high.
+- type: key-claim
+  title: Key claim about Epistemological Uncertainty in LLMs
+  body: Epistemic uncertainty expression is a critical safety-relevant prompt engineering
+    concern — models that do not express appropriate uncertainty may state uncertain
+    or incorrect claims with confident language, leading users to over-rely on unverified
+    outputs; prompts that explicitly instruct the model to communicate uncertainty
+    (using phrases like "I'm not certain but…" or "you should verify this") significantly
+    improve user trust calibration in high-stakes domains.
+- type: warning
+  title: Common pitfall regarding Epistemological Uncertainty in LLMs
+  body: Current language models are poorly calibrated with respect to their stated
+    confidence — models may express high confidence in incorrect claims and uncertainty
+    about correct claims, and the calibration varies dramatically by domain, question
+    type, and phrasing; expressed uncertainty should be treated as a qualitative signal
+    rather than a reliable probabilistic estimate without empirical calibration for
+    the specific use case.

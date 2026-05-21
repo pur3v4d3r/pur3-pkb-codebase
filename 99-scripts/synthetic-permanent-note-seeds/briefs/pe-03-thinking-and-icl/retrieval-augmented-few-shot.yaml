@@ -1,0 +1,46 @@
+concept: Retrieval-Augmented Few-Shot
+domain: prompt-engineering
+secondary_domains:
+- retrieval
+- in-context-learning
+aliases:
+- retrieve-then-prompt
+- dynamic few-shot retrieval
+- adaptive ICL
+broader:
+- in-context-learning
+- retrieval-augmented-generation
+related:
+- few-shot-example-selection
+- retrieval-augmented-generation
+- demonstration-diversity
+- few-shot-prompting
+prerequisites:
+- in-context-learning
+- retrieval-augmented-generation
+- few-shot-prompting
+confidence: high
+callouts:
+- type: definition
+  title: Retrieval-Augmented Few-Shot
+  body: Retrieval-Augmented Few-Shot is a prompting strategy that dynamically selects
+    few-shot demonstrations for each test input at inference time by retrieving the
+    most relevant examples from a demonstration corpus using dense semantic search,
+    rather than using a fixed few-shot set shared across all inputs — making the example
+    set adaptive to the specific test input characteristics.
+- type: key-claim
+  title: Key claim about Retrieval-Augmented Few-Shot
+  body: Retrieval-Augmented Few-Shot achieves the benefit of similarity-based few-shot
+    selection at scale; by embedding a large demonstration corpus and retrieving at
+    inference time, it approximates the ideal scenario of always having the most relevant
+    examples for any given input without the combinatorial cost of evaluating all
+    possible few-shot subsets, and empirical evidence shows it matches or exceeds
+    carefully hand-curated static few-shot sets on heterogeneous test distributions.
+- type: warning
+  title: Common pitfall regarding Retrieval-Augmented Few-Shot
+  body: Retrieval-Augmented Few-Shot inherits all the failure modes of the underlying
+    retrieval system; noisy embeddings, distribution mismatch between demonstration
+    and test encoders, and retrieval latency all degrade its benefits, and the additional
+    complexity of maintaining and querying a demonstration corpus can outweigh the
+    performance gains for tasks where a small static few-shot set already performs
+    well.

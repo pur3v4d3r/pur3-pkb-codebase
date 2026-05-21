@@ -1,0 +1,44 @@
+concept: LLM as Judge
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- quality-assurance
+aliases:
+- model-based evaluation
+- LLM evaluator
+- GPT-as-judge
+broader:
+- evaluation-methods
+- agentic-frameworks
+related:
+- critic-agents
+- chain-of-thought-faithfulness
+- hallucination-detection
+- factual-consistency-evaluation
+prerequisites:
+- large-language-models
+- evaluation-methods
+confidence: high
+callouts:
+- type: definition
+  title: LLM as Judge
+  body: LLM as Judge is an evaluation paradigm in which a language model, rather than
+    a human annotator or a programmatic metric, is used to assess the quality, correctness,
+    helpfulness, or safety of another model's outputs — leveraging the LLM's language
+    understanding and task knowledge to provide scalable, nuanced evaluations that
+    approximate expert human judgement at a fraction of the annotation cost.
+- type: key-claim
+  title: Key claim about LLM as Judge
+  body: LLM as Judge enables evaluation at scales and granularities that human annotation
+    cannot support, making it the practical foundation for evaluating open-ended generation
+    tasks where reference-based metrics (BLEU, ROUGE, exact match) are inadequate;
+    empirical studies show that well-prompted LLM judges achieve agreement rates with
+    human annotators comparable to inter-human agreement on many text quality dimensions.
+- type: warning
+  title: Common pitfall regarding LLM as Judge
+  body: LLM as Judge inherits systematic biases from the judge model's training, including
+    preference for verbosity, familiarity with certain writing styles, positional
+    bias (favouring the first of two options presented), and self-enhancement bias
+    (models tend to rate outputs resembling their own training data more favourably)
+    — biases that can corrupt evaluation results in ways that are hard to detect without
+    extensive calibration against human judgements.

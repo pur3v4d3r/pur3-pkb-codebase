@@ -1,0 +1,47 @@
+concept: In-Context Learning
+domain: prompt-engineering
+secondary_domains:
+- machine-learning
+- llm-inference
+aliases:
+- ICL
+- few-shot learning via prompting
+- in-context adaptation
+broader:
+- machine-learning
+- prompting
+narrower:
+- few-shot-prompting
+- few-shot-example-selection
+- analogical-in-context-learning
+related:
+- few-shot-prompting
+- demonstration-diversity
+- label-sensitivity-in-icl
+- retrieval-augmented-few-shot
+prerequisites:
+- large-language-models
+- pretraining
+confidence: high
+callouts:
+- type: definition
+  title: In-Context Learning
+  body: In-Context Learning is the ability of a large language model to adapt its
+    output behaviour to a new task or distribution by conditioning on a small set
+    of input–output demonstrations provided in the prompt context, without any update
+    to the model's parameters — achieving task adaptation at inference time rather
+    than through fine-tuning.
+- type: key-claim
+  title: Key claim about In-Context Learning
+  body: In-Context Learning is emergent rather than designed; it arises from pretraining
+    on diverse text corpora that contain implicit examples of reasoning from prior
+    context, and its effectiveness scales with model size in a discontinuous fashion
+    — making it one of the primary capabilities that distinguishes frontier-scale
+    models from smaller language models at a fundamental architectural level.
+- type: warning
+  title: Common pitfall regarding In-Context Learning
+  body: In-Context Learning is not equivalent to learning in the traditional sense;
+    the model does not retain information from the demonstrations after the context
+    window closes, and its "learning" is better understood as a form of sophisticated
+    conditional generation that exploits distributional priors already encoded in
+    model weights rather than forming durable new associations.

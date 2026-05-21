@@ -1,0 +1,50 @@
+concept: Grounded Generation
+domain: knowledge-grounding
+secondary_domains:
+- natural-language-generation
+- retrieval-augmented-generation
+- hallucination-reduction
+aliases:
+- attribution-grounded generation
+- evidence-grounded NLG
+- faithfulness-grounded generation
+broader:
+- knowledge-grounding
+- hallucination-reduction
+related:
+- retrieval-augmented-generation
+- fact-verification-prompting
+- parametric-vs-contextual-knowledge
+- knowledge-conflict-resolution
+prerequisites:
+- retrieval-augmented-generation
+- natural-language-generation
+confidence: high
+callouts:
+- type: definition
+  title: Grounded Generation
+  body: Grounded Generation is a natural language generation paradigm in which every
+    claim in the output is explicitly tied to a source document or piece of evidence
+    that supports it — outputs are only permitted to assert claims that can be traced
+    to specific spans of provided source material. This is in contrast to free generation,
+    where the model may draw on any parametric or contextual knowledge without citation.
+    Grounded generation is typically implemented through prompting (instructing the
+    model to cite sources), through constrained generation techniques, or through
+    post-hoc attribution systems that verify and annotate the generated text with
+    evidence links.
+- type: key-claim
+  title: Key claim about Grounded Generation
+  body: Grounded generation is the primary mechanism for achieving reliable LLM outputs
+    in high-stakes factual applications — by requiring every claim to be traceable
+    to an explicit source, it simultaneously reduces hallucination (the model cannot
+    assert unsupported claims) and enables auditability (humans can verify claims
+    against sources), which are both essential requirements for legal, medical, and
+    scientific AI applications.
+- type: warning
+  title: Common pitfall regarding Grounded Generation
+  body: Grounded generation can produce outputs that are faithfully grounded to sources
+    that are themselves incorrect — if the retrieved source contains an error, a grounded
+    generation system will faithfully reproduce and cite that error, presenting it
+    as verified; this means grounded generation guarantees faithfulness to sources,
+    not truth, and source quality management is a prerequisite for grounded generation
+    reliability.

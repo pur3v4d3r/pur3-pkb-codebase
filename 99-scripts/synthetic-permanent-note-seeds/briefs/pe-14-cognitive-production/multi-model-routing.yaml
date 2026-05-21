@@ -1,0 +1,51 @@
+concept: Multi-Model Routing
+domain: production-deployment
+secondary_domains:
+- mlops
+- infrastructure
+- prompt-engineering
+aliases:
+- model routing
+- LLM router
+- intelligent model selection
+- query routing
+broader:
+- production-deployment
+- mlops
+related:
+- latency-quality-tradeoff
+- cost-per-token-optimization
+- fallback-prompt-strategies
+- prompt-registry-management
+prerequisites:
+- production-deployment
+- mlops
+- llm-capabilities
+confidence: high
+callouts:
+- type: definition
+  title: Multi-Model Routing
+  body: 'Multi-Model Routing is a production infrastructure pattern in which incoming
+    queries are classified and routed to different language models based on query
+    characteristics — typically balancing cost, latency, and quality requirements.
+    A router analyses each query and directs it to the cheapest and fastest model
+    capable of handling it at acceptable quality: simple factual queries go to a small,
+    fast, cheap model; complex reasoning tasks go to a large, capable, expensive model;
+    domain-specific queries may go to a fine-tuned specialist model. Routing logic
+    can be rule-based, classification-model-based, or LLM-based.'
+- type: key-claim
+  title: Key claim about Multi-Model Routing
+  body: Multi-model routing reduces inference costs by 50–80% in applications with
+    heterogeneous query complexity distributions — the insight is that production
+    traffic contains a mix of simple and complex queries, and routing all traffic
+    through a large expensive model overpays for the simple queries while routing
+    everything through a small cheap model under-serves the complex queries; the router
+    exploits this distribution.
+- type: warning
+  title: Common pitfall regarding Multi-Model Routing
+  body: Router errors create tail quality failures — when the router misclassifies
+    a complex query as simple and routes it to a small model, the user receives a
+    degraded response that the system does not recognise as suboptimal (because the
+    small model still produces a fluent, plausible-looking output), making routing
+    errors difficult to detect without quality monitoring and creating a failure mode
+    that is systematically harder to catch than model errors.

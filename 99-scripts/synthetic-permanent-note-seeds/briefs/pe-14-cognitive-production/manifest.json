@@ -1,0 +1,132 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pe-14-cognitive-production",
+    "date": "2026-05-20",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-20-pe-14-cognitive-production.md",
+    "notes": "Eighteen concepts across two clusters: cognitive science applied to LLMs and\nprompting (eight terms) and production deployment of prompt-based systems\n(ten terms). The cognitive science cluster draws on established frameworks —\ndual-process theory, cognitive load theory, working memory, schema theory,\nsemantic priming, prototype theory, mental simulation, and epistemic\nuncertainty — and analyses how each framework illuminates LLM capabilities\nor prompt design principles. The production cluster covers the engineering\npractices required to deploy, monitor, and iterate on prompts in production:\nversioning, regression testing, latency-quality tradeoffs, caching,\ncost optimisation, monitoring, A/B testing, registry management,\nmulti-model routing, and fallback strategies."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pe-14-cognitive-production",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-20-pe-14-cognitive-production"
+  },
+  "counts": {
+    "parsed": 18,
+    "accepted": 18,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Dual-Process Theory Applied to LLMs",
+      "kebab": "dual-process-theory-applied-to-llms",
+      "brief_path": "briefs/pe-14-cognitive-production/dual-process-theory-applied-to-llms.yaml",
+      "expected_seed_filename": "dual-process-theory-applied-to-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Cognitive Load Theory Applied to LLMs",
+      "kebab": "cognitive-load-theory-applied-to-llms",
+      "brief_path": "briefs/pe-14-cognitive-production/cognitive-load-theory-applied-to-llms.yaml",
+      "expected_seed_filename": "cognitive-load-theory-applied-to-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Working Memory Constraints in Prompts",
+      "kebab": "working-memory-constraints-in-prompts",
+      "brief_path": "briefs/pe-14-cognitive-production/working-memory-constraints-in-prompts.yaml",
+      "expected_seed_filename": "working-memory-constraints-in-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Schema Activation in Prompts",
+      "kebab": "schema-activation-in-prompts",
+      "brief_path": "briefs/pe-14-cognitive-production/schema-activation-in-prompts.yaml",
+      "expected_seed_filename": "schema-activation-in-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Semantic Priming Effects",
+      "kebab": "semantic-priming-effects",
+      "brief_path": "briefs/pe-14-cognitive-production/semantic-priming-effects.yaml",
+      "expected_seed_filename": "semantic-priming-effects-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prototype Theory and LLMs",
+      "kebab": "prototype-theory-and-llms",
+      "brief_path": "briefs/pe-14-cognitive-production/prototype-theory-and-llms.yaml",
+      "expected_seed_filename": "prototype-theory-and-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Mental Simulation in LLMs",
+      "kebab": "mental-simulation-in-llms",
+      "brief_path": "briefs/pe-14-cognitive-production/mental-simulation-in-llms.yaml",
+      "expected_seed_filename": "mental-simulation-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Epistemological Uncertainty in LLMs",
+      "kebab": "epistemological-uncertainty-in-llms",
+      "brief_path": "briefs/pe-14-cognitive-production/epistemological-uncertainty-in-llms.yaml",
+      "expected_seed_filename": "epistemological-uncertainty-in-llms-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Versioning",
+      "kebab": "prompt-versioning",
+      "brief_path": "briefs/pe-14-cognitive-production/prompt-versioning.yaml",
+      "expected_seed_filename": "prompt-versioning-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Regression Testing",
+      "kebab": "prompt-regression-testing",
+      "brief_path": "briefs/pe-14-cognitive-production/prompt-regression-testing.yaml",
+      "expected_seed_filename": "prompt-regression-testing-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Latency-Quality Tradeoff",
+      "kebab": "latency-quality-tradeoff",
+      "brief_path": "briefs/pe-14-cognitive-production/latency-quality-tradeoff.yaml",
+      "expected_seed_filename": "latency-quality-tradeoff-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Caching Strategies",
+      "kebab": "prompt-caching-strategies",
+      "brief_path": "briefs/pe-14-cognitive-production/prompt-caching-strategies.yaml",
+      "expected_seed_filename": "prompt-caching-strategies-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Cost Per Token Optimisation",
+      "kebab": "cost-per-token-optimisation",
+      "brief_path": "briefs/pe-14-cognitive-production/cost-per-token-optimisation.yaml",
+      "expected_seed_filename": "cost-per-token-optimisation-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Monitoring and Alerting",
+      "kebab": "prompt-monitoring-and-alerting",
+      "brief_path": "briefs/pe-14-cognitive-production/prompt-monitoring-and-alerting.yaml",
+      "expected_seed_filename": "prompt-monitoring-and-alerting-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "A/B Testing Prompts",
+      "kebab": "ab-testing-prompts",
+      "brief_path": "briefs/pe-14-cognitive-production/ab-testing-prompts.yaml",
+      "expected_seed_filename": "ab-testing-prompts-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Prompt Registry Management",
+      "kebab": "prompt-registry-management",
+      "brief_path": "briefs/pe-14-cognitive-production/prompt-registry-management.yaml",
+      "expected_seed_filename": "prompt-registry-management-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Multi-Model Routing",
+      "kebab": "multi-model-routing",
+      "brief_path": "briefs/pe-14-cognitive-production/multi-model-routing.yaml",
+      "expected_seed_filename": "multi-model-routing-synthetic-seed-2026-05-20_extracted.json"
+    },
+    {
+      "term": "Fallback Prompt Strategies",
+      "kebab": "fallback-prompt-strategies",
+      "brief_path": "briefs/pe-14-cognitive-production/fallback-prompt-strategies.yaml",
+      "expected_seed_filename": "fallback-prompt-strategies-synthetic-seed-2026-05-20_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

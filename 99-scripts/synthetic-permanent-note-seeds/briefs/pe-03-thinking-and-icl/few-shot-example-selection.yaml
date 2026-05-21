@@ -1,0 +1,44 @@
+concept: Few-Shot Example Selection
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- retrieval
+aliases:
+- demonstration selection
+- example curation for ICL
+broader:
+- in-context-learning
+- few-shot-prompting
+related:
+- few-shot-prompting
+- demonstration-diversity
+- retrieval-augmented-few-shot
+- example-ordering-effects
+prerequisites:
+- in-context-learning
+- few-shot-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Few-Shot Example Selection
+  body: Few-Shot Example Selection is the systematic process of choosing which demonstrations
+    to include in a few-shot prompt from a candidate pool, optimising criteria such
+    as semantic similarity to the test input, coverage of the output space, diversity
+    of reasoning patterns, and task-representativeness to maximise the performance
+    lift that the examples provide.
+- type: key-claim
+  title: Key claim about Few-Shot Example Selection
+  body: Few-Shot Example Selection is among the highest-variance decisions in prompt
+    engineering; the same model with the same number of shots can have performance
+    swing by 20–30 percentage points across different example sets on the same task,
+    making principled selection — rather than arbitrary or convenience sampling —
+    a critical engineering discipline for production-quality prompting.
+- type: warning
+  title: Common pitfall regarding Few-Shot Example Selection
+  body: 'Few-Shot Example Selection based on semantic similarity to the test input,
+    while often effective, introduces a distribution shift risk: examples that are
+    superficially similar to the test input but represent different underlying task
+    types can mislead the model by activating a task-interpretation prior that does
+    not match the actual task, producing plausible-format but semantically incorrect
+    responses.'

@@ -1,0 +1,42 @@
+concept: Self-Consistency Sampling
+domain: prompt-engineering
+secondary_domains:
+- reasoning
+- ensemble-methods
+aliases:
+- self-consistency
+- majority-vote prompting
+- consistency sampling
+broader:
+- reasoning-techniques
+- prompt-ensembling
+related:
+- chain-of-thought-prompting
+- tree-of-thoughts
+- chain-of-verification
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Self-Consistency Sampling
+  body: Self-Consistency Sampling is a decoding strategy for chain-of-thought reasoning
+    that generates multiple independent reasoning traces for the same question using
+    high-temperature sampling, then aggregates the final answers by majority vote,
+    discarding the individual reasoning paths and selecting the answer that appears
+    most frequently across the sampled traces.
+- type: key-claim
+  title: Key claim about Self-Consistency Sampling
+  body: Self-Consistency Sampling improves reasoning accuracy by treating each sampled
+    chain-of-thought as an independent estimator and exploiting the fact that correct
+    reasoning paths are more likely to converge on the same answer than incorrect
+    ones, even when each individual path may contain errors — making ensemble diversity
+    the error-correction mechanism.
+- type: warning
+  title: Common pitfall regarding Self-Consistency Sampling
+  body: Self-Consistency Sampling assumes that correctness correlates with majority
+    vote, which breaks down on tasks where the model's error distribution is systematically
+    biased; if the model makes the same type of error across most sampled traces,
+    the majority answer will be consistently wrong, and the sampling overhead provides
+    false confidence without improving accuracy.

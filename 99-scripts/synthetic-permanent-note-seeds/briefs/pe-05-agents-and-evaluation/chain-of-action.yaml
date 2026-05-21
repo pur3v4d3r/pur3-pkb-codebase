@@ -1,0 +1,46 @@
+concept: Chain of Action
+domain: prompt-engineering
+secondary_domains:
+- agent-frameworks
+- planning
+aliases:
+- action chain
+- sequential action execution
+- action sequence planning
+broader:
+- agentic-frameworks
+- react-reasoning-acting
+related:
+- react-reasoning-acting
+- plan-and-execute-agents
+- task-decomposition-agents
+- agent-scratchpad
+prerequisites:
+- large-language-models
+- agentic-frameworks
+- tool-use-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: Chain of Action
+  body: Chain of Action is an agent execution pattern in which a sequence of discrete
+    actions — each consuming the output of the previous action as input — is planned
+    or executed in series to accomplish a complex goal that cannot be achieved by
+    any single action, with the agent maintaining state and context across the action
+    sequence to ensure coherent progress toward the goal.
+- type: key-claim
+  title: Key claim about Chain of Action
+  body: 'Chain of Action formalises the sequential dependency structure of multi-step
+    agentic tasks: by representing task execution as a directed chain where each action''s
+    output is a direct input to the next, the architecture makes inter-action dependencies
+    explicit, enables systematic failure localisation (the error can be traced to
+    the specific action step where the chain diverges from the correct trajectory),
+    and supports resumability when a step fails.'
+- type: warning
+  title: Common pitfall regarding Chain of Action
+  body: 'Chain of Action creates compounding error propagation: an incorrect output
+    at step N is passed as a correct input to step N+1, which builds on the error
+    and passes a further-corrupted output to step N+2, and so on; without validation
+    gates between chain links, errors accumulate multiplicatively, and the chain''s
+    final output can be arbitrarily wrong while each individual step appears locally
+    reasonable given its corrupted input.'

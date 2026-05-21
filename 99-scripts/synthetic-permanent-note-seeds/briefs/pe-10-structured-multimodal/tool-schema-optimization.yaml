@@ -1,0 +1,49 @@
+concept: Tool Schema Optimization
+domain: structured-generation
+secondary_domains:
+- prompt-engineering
+- api-integration
+- tool-use-llms
+aliases:
+- function schema optimization
+- tool call quality
+- function schema engineering
+broader:
+- function-schema-design
+- prompt-engineering
+related:
+- function-schema-design
+- json-mode-prompting
+- output-schema-enforcement
+- tool-use-llms
+- few-shot-tool-calling
+prerequisites:
+- function-schema-design
+- tool-use-llms
+confidence: high
+callouts:
+- type: definition
+  title: Tool Schema Optimization
+  body: 'Tool Schema Optimization is the empirical process of iterating on function
+    and tool descriptions to maximise correct tool selection and argument generation
+    accuracy. It involves techniques such as: ablation of individual schema fields
+    to identify which descriptions have the most impact on selection behaviour; A/B
+    testing of alternative description phrasings; adding few-shot examples within
+    tool descriptions; reducing schema surface area by consolidating functions with
+    overlapping semantics; and ordering tools in the schema to influence model selection
+    bias. The process treats the tool schema as a trainable artefact rather than a
+    static documentation product.'
+- type: key-claim
+  title: Key claim about Tool Schema Optimization
+  body: Tool schema optimization can produce substantial improvements in function-calling
+    accuracy for complex multi-tool environments without any changes to the model
+    or base prompt — the description quality, field naming conventions, and schema
+    structure each independently influence tool selection, making schema design a
+    first-class engineering discipline with measurable outcomes.
+- type: warning
+  title: Common pitfall regarding Tool Schema Optimization
+  body: Tool schema optimization results are model-specific — a schema optimised for
+    one model family's function-calling behaviour may perform worse on another model
+    due to differences in how models were trained to interpret tool descriptions,
+    making schema portability across model providers an engineering challenge that
+    requires separate validation for each deployment target.

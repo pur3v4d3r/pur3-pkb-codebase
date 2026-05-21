@@ -1,0 +1,49 @@
+concept: LLM Judge Calibration
+domain: llm-evaluation
+secondary_domains:
+- benchmark-design
+- llm-as-judge
+- evaluation-methodology
+aliases:
+- judge model calibration
+- LLM evaluator calibration
+- judge bias correction
+broader:
+- llm-evaluation
+- llm-as-judge
+related:
+- mt-bench
+- self-evaluation-prompting
+- arena-elo-rating
+- human-preference-datasets
+prerequisites:
+- llm-evaluation
+- mt-bench
+- calibration-theory
+confidence: high
+callouts:
+- type: definition
+  title: LLM Judge Calibration
+  body: 'LLM Judge Calibration refers to the process of measuring and correcting for
+    the systematic biases of language models used as evaluators (judges) of other
+    model outputs. Known calibration issues include: position bias (judging the first
+    or second response as better regardless of quality), verbosity bias (rating longer
+    responses higher regardless of content), self-preference bias (rating outputs
+    that resemble the judge''s own style higher), sycophancy (rating outputs that
+    are confident or agree with prior statements higher), and intra-judge inconsistency
+    (giving different scores to identical outputs on repeated evaluation). Calibration
+    techniques include: position-swapping, calibration prompts, multi-judge ensembling,
+    and fine-tuning judges on human preference data.'
+- type: key-claim
+  title: Key claim about LLM Judge Calibration
+  body: LLM judge calibration is essential before using any language model as a scalable
+    evaluator — uncalibrated judges introduce systematic biases that produce rankings
+    that reflect judge artefacts rather than genuine quality differences, and the
+    magnitude of these biases can rival the quality differences between models being
+    evaluated, making uncalibrated LLM judging misleading for model comparison.
+- type: warning
+  title: Common pitfall regarding LLM Judge Calibration
+  body: Calibration is model-specific and task-specific — a judge that has been calibrated
+    for one task domain or family of models may still exhibit biases when applied
+    to a new domain or a model family it has not seen during calibration, requiring
+    re-validation when the evaluation context changes.

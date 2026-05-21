@@ -1,0 +1,47 @@
+concept: Knowledge-Intensive NLP
+domain: prompt-engineering
+secondary_domains:
+- nlp-research
+- information-retrieval
+aliases:
+- KI-NLP
+- knowledge-grounded NLP
+- KILT benchmark
+broader:
+- retrieval-augmented-generation
+- natural-language-processing
+related:
+- retrieval-augmented-generation
+- dense-passage-retrieval
+- hallucination-detection
+- factual-consistency-evaluation
+prerequisites:
+- large-language-models
+- information-retrieval
+- natural-language-processing
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge-Intensive NLP
+  body: Knowledge-Intensive NLP refers to natural language processing tasks that require
+    access to specific world knowledge beyond what can be inferred from the immediate
+    input alone — including open-domain question answering, fact verification, slot
+    filling, and entity linking — and the research agenda concerned with building
+    systems that can retrieve and reason over external knowledge to perform these
+    tasks reliably.
+- type: key-claim
+  title: Key claim about Knowledge-Intensive NLP
+  body: Knowledge-Intensive NLP establishes a fundamental architectural dichotomy
+    between parametric knowledge (stored in model weights, fixed at training time)
+    and non-parametric knowledge (stored in retrievable corpora, updatable at inference
+    time); the design choice between these storage modes determines the system's trade-offs
+    between knowledge freshness, update cost, attribution capability, and inference
+    latency in ways that have profound implications for production deployment.
+- type: warning
+  title: Common pitfall regarding Knowledge-Intensive NLP
+  body: Knowledge-Intensive NLP benchmarks measure performance on specific knowledge
+    domains and question types that may not represent the knowledge-intensity profile
+    of a target application; a system that achieves state-of-the-art performance on
+    KILT or Natural Questions may still fail on domain-specific knowledge-intensive
+    tasks because the required knowledge is absent from the retrieval corpus or represented
+    at insufficient granularity.

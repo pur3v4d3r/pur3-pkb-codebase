@@ -1,0 +1,51 @@
+concept: Best-of-N Sampling
+domain: llm-decoding
+secondary_domains:
+- llm-generation
+- prompt-engineering
+- reinforcement-learning-from-human-feedback
+aliases:
+- BoN sampling
+- best-of-n
+- rejection sampling
+- sample and select
+broader:
+- llm-decoding
+- inference-scaling
+related:
+- temperature-sampling
+- speculative-sampling
+- process-reward-models
+- outcome-reward-models
+- inference-scaling-laws
+prerequisites:
+- llm-decoding
+- reward-model-design
+confidence: high
+callouts:
+- type: definition
+  title: Best-of-N Sampling
+  body: 'Best-of-N Sampling is a generation strategy in which the model generates
+    N independent candidate completions for the same prompt, scores each candidate
+    using an external reward model or verifier, and returns the highest-scoring candidate
+    as the final output. It is the simplest form of inference-time scaling: by spending
+    N times the compute at inference time to generate N candidates, the expected quality
+    of the best candidate improves systematically as N increases. BoN sampling has
+    been shown to be remarkably competitive with more expensive RL-based methods for
+    certain tasks, and it is the reference strategy against which more sophisticated
+    search methods are benchmarked.'
+- type: key-claim
+  title: Key claim about Best-of-N Sampling
+  body: Best-of-N sampling demonstrates that inference-time compute is a powerful
+    lever for improving output quality — for a wide range of tasks, spending N times
+    the computation at inference time to sample and select among N candidates produces
+    better results than spending N times the computation during training, because
+    the selection step can target the specific query rather than the average of the
+    training distribution.
+- type: warning
+  title: Common pitfall regarding Best-of-N Sampling
+  body: The effectiveness of best-of-n sampling depends entirely on the quality of
+    the scoring function — if the verifier or reward model is imprecise, biased, or
+    gameable, the selected "best" sample may be the one that best games the scorer
+    rather than the one of highest actual quality, reproducing the reward hacking
+    failure mode of RL training but at inference time.

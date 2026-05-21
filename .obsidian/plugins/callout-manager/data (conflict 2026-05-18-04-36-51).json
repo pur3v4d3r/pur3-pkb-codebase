@@ -1,0 +1,45 @@
+{
+  "callouts": {
+    "custom": [
+      "in-note-metadata",
+      "stoic-quote"
+    ],
+    "settings": {
+      "in-note-metadata": [
+        {
+          "changes": {
+            "color": "158, 108, 211"
+          }
+        }
+      ],
+      "stoic-quote": [
+        {
+          "changes": {
+            "icon": "lucide-quote"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 199, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 199, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
