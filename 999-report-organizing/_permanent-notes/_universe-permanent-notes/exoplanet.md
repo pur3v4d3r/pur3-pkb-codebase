@@ -83,8 +83,6 @@ provenance:
 > graph TD
 >   A[Transit Method]
 >   B[Radial Velocity Technique]
->   A -->|Detects periodic dimming in star's brightness|
->   B -->|Measures gravitational pull on host star|
 > ```
 
 
@@ -97,10 +95,6 @@ provenance:
 >   B[Super-Earths]
 >   C[Mini-Neptunes]
 >   D[Ultrashort-period Planets]
->   A -->|Gas giants close to star|
->   B -->|Rocky planets larger than Earth|
->   C -->|Gaseous planets smaller than Neptune|
->   D -->|Orbit very close to their stars|
 > ```
 
 
@@ -114,13 +108,9 @@ provenance:
 >   C[Analysis]
 >   D[Categorization]
 >   E[Publishing]
->   A -->|Monitor star brightness|
 >   A --> B
->   B -->|Gather radial velocity data|
 >   B --> C
->   C -->|Analyze transit and wobble patterns|
 >   C --> D
->   D -->|Classify exoplanet type|
 >   D --> E
 > ```
 

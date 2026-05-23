@@ -79,7 +79,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A["Kinetic Energy T"] --> B["Potential Energy V"]
->   B --> C[L(q,q̇,t) = T - V]
+>   B --> C["L(q,q̇,t) = T - V"]
 >   C --> D[Euler-Lagrange Equations]
 > ```
 

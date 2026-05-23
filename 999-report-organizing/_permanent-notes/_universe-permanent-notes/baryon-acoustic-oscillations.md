@@ -120,14 +120,6 @@ provenance:
 >   F[Interpretation]
 >   G[Pattern Extraction]
 >   H[Novel Discoveries]
->   A -->|Use CDM Model|
->   B -->|Extract Patterns|
->   C -->|Predictions|
->   D -->|Data|
->   E -->|Analyze Data|
->   F -->|Interpret Results|
->   G -->|Discover New Insights|
->   H -->|Challenge Paradigms|
 >   A --> C
 >   B --> D
 >   C --> E

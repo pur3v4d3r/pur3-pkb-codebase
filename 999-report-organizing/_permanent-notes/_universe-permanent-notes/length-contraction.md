@@ -81,8 +81,8 @@ provenance:
 > graph TD
 >   A[Speed of Light c]
 >   B[Relative Velocity v]
->   C[(1 - (v^2/c^2))]
->   D[sqrt(C)]
+>   C["(1 - (v^2/c^2))"]
+>   D["sqrt(C)"]
 >   E[γ = 1 / D]
 > ```
 

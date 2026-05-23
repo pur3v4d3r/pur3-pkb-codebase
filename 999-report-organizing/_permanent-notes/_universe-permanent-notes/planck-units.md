@@ -85,7 +85,7 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Speed of Light (c)] --> B[Fundamental Constants]
+>   A["Speed of Light (c)"] --> B[Fundamental Constants]
 >   ReducedPlanckConstant(ℏ) --> B
 >   GravitationalConstant(G) --> B
 >   BoltzmannConstant(k_B) --> B
@@ -111,7 +111,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Atomic Scale] --> B[Bohr Model]
->   C[Planck Scale] --> D[Planck Length (~1.6×10⁻³⁵ m)]
+>   C[Planck Scale] --> D["Planck Length (~1.6×10⁻³⁵ m)"]
 >   E[Gravitational Quantum Effects]
 >   F[Quantum Gravity Theories]
 >   B -->|Much Larger Distances| D

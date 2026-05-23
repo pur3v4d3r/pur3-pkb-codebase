@@ -78,7 +78,7 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Velocity (v)] --> B[Distance (d)]
+>   A["Velocity (v)"] --> B["Distance (d)"]
 >   C[H₀] --> A
 >   D[Galaxy Redshift]
 >   E[Distant Galaxies]

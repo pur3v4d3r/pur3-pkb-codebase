@@ -87,7 +87,6 @@ provenance:
 >   F[Validate ΛCDM Framework]
 >   A -->|Primary Objective| D
 >   B -->|Primary Objective| D
->   C -->|Supports Objectives|
 >   D -->|Enables| E
 >   E -->|Contributes to| F
 > ```

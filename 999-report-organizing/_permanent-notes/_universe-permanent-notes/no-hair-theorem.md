@@ -111,8 +111,6 @@ provenance:
 >   A[Observational Astronomy]
 >   B[Theoretical Modeling]
 >   C[Information Paradox]
->   A -->|Simplifies Descriptions|
->   B -->|Provides Simplified Models|
 >   C -->|Challenges Current Understanding| style A fill:#f96,stroke:#333,stroke-width:4px
 >   style B fill:#f96,stroke:#333,stroke-width:4px
 >   style C fill:#f96,stroke:#333,stroke-width:4px

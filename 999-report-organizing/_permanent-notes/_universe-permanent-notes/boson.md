@@ -96,9 +96,6 @@ provenance:
 >   C[Occupied Quantum States]
 >   D[More Bosons Join]
 >   E[All in Same State]
->   A -->|Bosons|
->   B -->|No Restriction|
->   C -->|Further Occupation|
 >   D -->|Same State| E
 > ```
 

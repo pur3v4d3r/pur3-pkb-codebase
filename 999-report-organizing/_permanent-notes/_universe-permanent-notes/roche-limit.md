@@ -81,7 +81,7 @@ provenance:
 > graph TD
 >   A["R_Roche"] --> B("≈")
 >   C[2.44] --> D(R_primary)
->   E[(ρ_primary/ρ_satellite)^(1/3)]
+>   E["(ρ_primary/ρ_satellite)^(1/3)"]
 > ```
 
 

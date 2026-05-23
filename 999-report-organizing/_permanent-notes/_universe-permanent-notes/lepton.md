@@ -88,11 +88,11 @@ provenance:
 >   B[Generation II]
 >   C[Generation III]
 >   A --> D[Electron]
->   A --> E[Neutrino (e)]
+>   A --> E["Neutrino (e)"]
 >   B --> F[Muon]
->   B --> G[Neutrino (μ)]
+>   B --> G["Neutrino (μ)"]
 >   C --> H[Tau]
->   C --> I[Neutrino (τ)]
+>   C --> I["Neutrino (τ)"]
 > ```
 
 

@@ -625,7 +625,11 @@ def _fix_mermaid_content(content: str) -> str:
     4. **Paren-in-brackets quoting** — ``A[Node (detail)]`` →
        ``A["Node (detail)"]`` (parentheses inside ``[]`` break Mermaid's
        shape parser; applies to ALL content, not just one-liners).
-    5. **One-liner re-split** — when the entire diagram is collapsed onto one
+    5. **Dangling arrow removal** — ``A -->|label|`` lines with no target
+       node are removed.  Fix 1 already joined arrows whose target was merely
+       on the next line; any surviving bare-tail lines are orphaned and cause
+       Mermaid parse errors.
+    6. **One-liner re-split** — when the entire diagram is collapsed onto one
        line the diagram-type header and node boundaries are split out.
 
     Args:
@@ -662,12 +666,26 @@ def _fix_mermaid_content(content: str) -> str:
         content,
     )
 
+    # ── Fix 5: remove dangling arrows (arrow with label but no target node) ──
+    # e.g.  "A -->|Detects dimming|"  with nothing after the closing pipe.
+    # Mermaid requires a target node: "A -->|label| B".  Lines that end with
+    # an arrow tail (optionally a |label|) and no target are syntax errors;
+    # the safest repair is removal rather than guessing the intended target.
+    # Fix 1 (_fix_bare_arrows) already joined arrows whose target was merely
+    # on the next line, so any remaining bare-tail lines are truly orphaned.
+    content = re.sub(
+        r"^[ \t]*\S[^\n]*?(?:--[>\-xo]+>?|\.\.\.|==>)(?:\|[^|\n]*\|)?\s*$\n?",
+        "",
+        content,
+        flags=re.MULTILINE,
+    )
+
     # ── Early-return for well-formed multi-line content ───────────────────────
-    # Fix 5 only makes sense for degenerate one-liner LLM output.
+    # Fix 6 only makes sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
 
-    # ── Fix 5: split one-liner — diagram-type header from first node ──────────
+    # ── Fix 6: split one-liner — diagram-type header from first node ──────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",

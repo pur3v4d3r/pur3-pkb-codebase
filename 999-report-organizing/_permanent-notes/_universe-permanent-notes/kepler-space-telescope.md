@@ -96,7 +96,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Kepler]
->   B[James Webb Space Telescope (JWST)]
+>   B["James Webb Space Telescope (JWST)"]
 >   C[Detecting Planets via Transit Method]
 >   D[Spectroscopic Analysis & Direct Imaging]
 >   A -->|Focus on| C

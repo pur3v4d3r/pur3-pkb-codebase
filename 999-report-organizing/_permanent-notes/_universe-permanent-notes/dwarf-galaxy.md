@@ -78,10 +78,7 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Dwarf Elliptical] -->|Smooth, featureless|
->   B[Dwarf Spheroidal] -->|High dark matter content|
->   C[Dwarf Irregular] -->|Chaotic structure, star formation|
->   D[Ultra-faint Dwarf] -->|Low luminosity, high mass-to-light ratio
+> D[Ultra-faint Dwarf] -->|Low luminosity, high mass-to-light ratio
 > ```
 
 

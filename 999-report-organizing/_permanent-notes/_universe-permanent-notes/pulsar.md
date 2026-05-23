@@ -101,9 +101,6 @@ provenance:
 >   D[Strong Magnetic Field]
 >   E[Irregular Emission]
 >   F[Even Stronger Magnetic Field]
->   A -->|C|
->   A -->|D|
->   B -->|E|
 >   B -->|F| style C fill:#f96,stroke:#333,stroke-width:4px
 >   style D fill:#ccf,stroke:#333,stroke-width:4px
 >   style E fill:#f96,stroke:#333,stroke-width:4px

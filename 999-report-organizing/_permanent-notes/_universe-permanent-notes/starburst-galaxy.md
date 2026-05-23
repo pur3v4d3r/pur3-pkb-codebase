@@ -84,7 +84,7 @@ provenance:
 >   D[Gas Compression]
 >   E[Dense Concentrations]
 >   F[Intense Star Formation]
->   G[Ultraluminous Infrared Galaxies (ULIRGs)]
+>   G["Ultraluminous Infrared Galaxies (ULIRGs)"]
 >   A -->|Trigger| B
 >   B -->|Drive Gas to Center| C
 >   C -->|Compress and Funnel| D

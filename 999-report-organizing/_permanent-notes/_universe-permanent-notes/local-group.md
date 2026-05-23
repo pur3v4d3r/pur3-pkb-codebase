@@ -82,8 +82,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Galactic Association]
->   B[Milky Way] -->|Dominant|
->   C[Andromeda (M31)] -->|Dominant| D[Triangulum (M33)]
+>   C["Andromeda (M31)"] -->|Dominant| D["Triangulum (M33)"]
 >   E[Dwarf Galaxies] -->|Satellite| F[Hundreds of Dwarf Galaxies]
 >   A --> B
 >   A --> C
@@ -108,8 +107,8 @@ provenance:
 >
 > ```mermaid
 > flowchart LR
->   A[Milky Way] -->|Gravitational Influence| B[Andromeda (M31)]
->   C[Triangulum (M33)] -->|Influence| D[Dwarf Galaxies]
+>   A[Milky Way] -->|Gravitational Influence| B["Andromeda (M31)"]
+>   C["Triangulum (M33)"] -->|Influence| D[Dwarf Galaxies]
 >   E[Hundreds of Dwarf Galaxies]
 > ```
 

@@ -94,7 +94,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Compact-Object Accretion] --> B[Black Hole/Neutron Star]
->   C[Active Galactic Nuclei (AGN)] --> D[Supermassive Black Holes]
+>   C["Active Galactic Nuclei (AGN)"] --> D[Supermassive Black Holes]
 >   E[Galaxy Clusters] --> F[Hot Intracluster Medium]
 > ```
 

@@ -78,8 +78,8 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Mass (M)] --> B[Gravitational Constant (G)]
->   C[Speed of Light (c)] --> D[(2GM/c²) -> Schwarzschild Radius]
+>   A["Mass (M)"] --> B["Gravitational Constant (G)"]
+>   C["Speed of Light (c)"] --> D["(2GM/c²) -> Schwarzschild Radius"]
 >   B --> D
 >   A --> D
 > ```
@@ -102,7 +102,7 @@ provenance:
 >
 > ```mermaid
 > flowchart LR
->   A[Mass Compression] --> B[(M/R) > c²/(2G)]
+>   A[Mass Compression] --> B["(M/R) > c²/(2G)"]
 >   B --> C[Gravitational Collapse]
 >   C --> D[Black Hole Formation]
 > ```

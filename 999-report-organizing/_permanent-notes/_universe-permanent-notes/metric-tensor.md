@@ -81,7 +81,7 @@ provenance:
 > flowchart LR
 >   A[ds²] --> B[g_μν]
 >   C[dx^μ] --> D[dx^ν]
->   B --> E[(g_μν * dx^μ) * dx^ν]
+>   B --> E["(g_μν * dx^μ) * dx^ν"]
 >   E --> A
 > ```
 

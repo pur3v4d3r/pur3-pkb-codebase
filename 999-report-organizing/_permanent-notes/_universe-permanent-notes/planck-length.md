@@ -79,8 +79,8 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Speed of Light (c)] --> B[Reduced Planck Constant (ℏ)]
->   C[Gravitational Constant (G)] --> D[Planck Length (l_P)]
+>   A["Speed of Light (c)"] --> B["Reduced Planck Constant (ℏ)"]
+>   C["Gravitational Constant (G)"] --> D["Planck Length (l_P)"]
 >   B --> D
 >   C --> D
 > ```

@@ -90,7 +90,7 @@ provenance:
 >
 > ```mermaid
 > flowchart LR
->   A[Bulk (d+1)-dim Spacetime] --> B[Boundary d-dim CFT]
+>   A["Bulk (d+1)-dim Spacetime"] --> B[Boundary d-dim CFT]
 >   B --> C[Operators and Correlation Functions]
 > ```
 

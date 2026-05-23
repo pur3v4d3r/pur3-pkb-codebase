@@ -79,10 +79,10 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Launch (1997)] --> B[Saturn Orbit Insertion (2004)]
->   B --> C[Huygens Titan Landing (2005)]
+>   A["Launch (1997)"] --> B["Saturn Orbit Insertion (2004)"]
+>   B --> C["Huygens Titan Landing (2005)"]
 >   C --> D[Extended Missions]
->   D --> E[Mission End (2017)]
+>   D --> E["Mission End (2017)"]
 > ```
 
 

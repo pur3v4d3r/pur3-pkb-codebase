@@ -101,8 +101,8 @@ provenance:
 > ```mermaid
 > stateDiagram-v2
 >   [*] --> S1[Detection]
->   S1 --> S2[False Positive (Type I Error)]
->   S1 --> S3[Genuine Transit Missed (Type II Error)]
+>   S1 --> S2["False Positive (Type I Error)"]
+>   S1 --> S3["Genuine Transit Missed (Type II Error)"]
 > ```
 
 # Transit Method

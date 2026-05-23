@@ -91,7 +91,7 @@ provenance:
 > ```mermaid
 > flowchart LR
 >   A[Scalar Field Evolution]
->   B[Evolving w(z)]
+>   B["Evolving w(z)"]
 >   C[Cosmic Acceleration]
 >   D[Observational Tests]
 >   A --> B

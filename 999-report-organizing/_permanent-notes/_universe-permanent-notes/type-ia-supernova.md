@@ -99,7 +99,6 @@ provenance:
 >   A[No Hydrogen Lines]
 >   B[Strong Silicon-II Absorption]
 >   C[Near Maximum Light]
->   A -->|Absence of|
 >   B -->|Presence of| C
 > ```
 

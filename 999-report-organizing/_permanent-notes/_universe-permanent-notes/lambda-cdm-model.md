@@ -83,7 +83,7 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Dark Energy (Λ)] --> B[Cold Dark Matter]
+>   A["Dark Energy (Λ)"] --> B[Cold Dark Matter]
 >   B --> C[Baryonic Matter]
 >   C --> D[Photons]
 >   D --> E[Neutrinos]

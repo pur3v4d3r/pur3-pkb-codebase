@@ -91,7 +91,7 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Position q^i] --> B[Momentum p_i]
->   B --> C[Hamiltonian H(q, p)]
+>   B --> C["Hamiltonian H(q, p)"]
 >   C --> D[Dynamics]
 > ```
 

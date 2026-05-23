@@ -86,12 +86,6 @@ provenance:
 >   D[Ergosphere]
 >   E[Frame-Dragging]
 >   F[Spacetime Geometry]
->   A -->|Characterizes|
->   B -->|Symmetry|
->   C -->|Rotation|
->   D -->|Region|
->   E -->|Effect|
->   F -->|Geometry|
 > ```
 
 
@@ -109,14 +103,6 @@ provenance:
 >   G[No Rotation]
 >   H[No Ergosphere]
 >   I[No Frame-Dragging]
->   A -->|Axial|
->   B -->|Spherical|
->   A -->|Rotates|
->   B -->|Static|
->   A -->|Ergosphere|
->   B -->|None|
->   A -->|Frame-Dragging|
->   B -->|None|
 > ```
 
 
@@ -133,14 +119,6 @@ provenance:
 >   F[System Dynamics]
 >   G[Mechanism Modeling]
 >   H[Signal Interpretation]
->   A -->|Structure|
->   B -->|Emissions|
->   C -->|Influence|
->   D -->|Effects|
->   E -->|Output|
->   F -->|Dynamics|
->   G -->|Mechanisms|
->   H -->|Interpretation|
 > ```
 
 # Kerr Metric

@@ -99,7 +99,7 @@ provenance:
 > graph TD
 >   A[White Dwarf]
 >   B[Neutron Star]
->   C[Chandrasekhar Limit (1.4 M)]
+>   C["Chandrasekhar Limit (1.4 M)"]
 >   D[Tolman-Oppenheimer-Volkoff Limit]
 >   A -->|Electron Degeneracy Pressure| C
 >   B -->|Nuclear Degeneracy Pressure| D

@@ -83,7 +83,6 @@ provenance:
 >   A["Emission Nebula"] -->|Glowing due to recombination lines| B["Reflection Nebula"]
 >   B -->|Reflects starlight without emitting own light| C["Dark Nebula"]
 >   C -->|Blocks background light, appears dark| D["Supernova Remnant"]
->   D -->|Expanding shell of gas and dust from exploded stars|
 > ```
 
 

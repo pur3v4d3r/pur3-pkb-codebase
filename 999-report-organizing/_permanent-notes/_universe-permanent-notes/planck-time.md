@@ -80,9 +80,9 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Speed of Light (c)] --> B[Gravitational Constant (G)]
->   B --> C[Reduced Planck Constant (&#8491;)]
->   C --> D[Planck Time (t_P = √(&#8491;G/c⁵))]
+>   A["Speed of Light (c)"] --> B["Gravitational Constant (G)"]
+>   B --> C["Reduced Planck Constant (&#8491;)"]
+>   C --> D["Planck Time (t_P = √(&#8491;G/c⁵))"]
 > ```
 
 

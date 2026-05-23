@@ -81,8 +81,6 @@ provenance:
 > graph TD
 >   A[No observer's location is special]
 >   B[Conditions for life must be considered]
->   A -->|Copernican Principle|
->   B -->|Anthropic Reasoning|
 > ```
 
 
@@ -95,7 +93,6 @@ provenance:
 >   B[Isotropy]
 >   C[Copernican Principle]
 >   D[Cosmological Principle]
->   C -->|Underpins|
 >   C -->|Assumes| A
 >   B
 >   D

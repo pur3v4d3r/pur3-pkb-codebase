@@ -106,11 +106,6 @@ provenance:
 >   C[L3]
 >   D[L4]
 >   E[L5]
->   A -->|Unstable|
->   B -->|Unstable|
->   C -->|Unstable|
->   D -->|Stable|
->   E -->|Stable|
 > ```
 
 
@@ -128,11 +123,6 @@ provenance:
 >   G[L2]
 >   H[Solar Monitoring]
 >   I[Astronomy Observatories]
->   A -->|Sun-Earth L1|
->   B -->|Sun-Earth L1|
->   C -->|Sun-Earth L2|
->   D -->|Sun-Earth L2|
->   E -->|Sun-Earth L2|
 >   F --> H
 >   G --> I
 > ```

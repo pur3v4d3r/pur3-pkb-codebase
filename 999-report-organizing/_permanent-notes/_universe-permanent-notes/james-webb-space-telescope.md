@@ -109,10 +109,6 @@ provenance:
 >   B[Exoplanet Atmospheres]
 >   C[Dark Ages Exploration]
 >   D[Stellar Populations]
->   A -->|Early Universe|
->   B -->|Habitable Conditions|
->   C -->|Cosmic Dark Ages|
->   D -->|Nearby Galaxies|
 > ```
 
 # James Webb Space Telescope

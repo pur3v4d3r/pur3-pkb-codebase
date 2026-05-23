@@ -97,7 +97,6 @@ provenance:
 > ```mermaid
 > flowchart LR
 >   A[Red Dwarf]
->   B[Tidal Locking] -->|Extreme Temperature Differences|
 >   C[XUV Radiation] -->|Atmospheric Erosion| D[Habitability Zone]
 >   A --> B
 >   A --> C

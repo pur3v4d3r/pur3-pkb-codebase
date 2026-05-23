@@ -98,19 +98,6 @@ provenance:
 > graph TD
 >   A[Long-Duration GRBs]
 >   B[Short-Duration GRBs]
->   A -->|Progenitor: Massive Star Collapse|
->   B -->|Progenitor: Compact Object Merger|
->   A -->|Duration: >2 seconds|
->   B -->|Duration: <2 seconds|
->   A -->|Mechanism: Jet Ejection from Rotational Axis|
->   B -->|Mechanism: Jet Emission During Merger|
->   A -->|Associated with Supernovae Afterglow|
->   B -->|No Associated Supernova Afterglow|
->   A -->|More Common in Star-Forming Galaxies|
->   B -->|Found in All Types of Galaxies|
->   A -->|Often at High Redshifts|
->   B -->|Can Occur Closer to Us|
->   A -->|Studied for Cosmic Probes and Black Hole Formation|
 >   B -->|Studied for Neutron Star Properties and Gravitational Waves
 > ```
 

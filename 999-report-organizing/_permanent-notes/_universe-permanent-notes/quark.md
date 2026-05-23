@@ -79,9 +79,9 @@ provenance:
 >
 > ```mermaid
 > graph TD
->   A[Up (+⅔)] --> B[Down (−⅓)]
->   C[Charm (+⅔)] --> D[Strange (−⅓)]
->   E[TOP (+⅔)] --> F[Bottom (−⅓)]
+>   A["Up (+⅔)"] --> B["Down (−⅓)"]
+>   C["Charm (+⅔)"] --> D["Strange (−⅓)"]
+>   E["TOP (+⅔)"] --> F["Bottom (−⅓)"]
 > ```
 
 

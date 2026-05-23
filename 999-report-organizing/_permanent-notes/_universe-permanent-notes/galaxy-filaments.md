@@ -88,7 +88,7 @@ provenance:
 >
 > ```mermaid
 > flowchart LR
->   A[Galaxy Filament] --> B[Warm-Hot Intergalactic Medium (WHIM)]
+>   A[Galaxy Filament] --> B["Warm-Hot Intergalactic Medium (WHIM)"]
 >   B --> C[Missing Baryons]
 > ```
 
