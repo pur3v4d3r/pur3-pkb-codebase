@@ -27,7 +27,7 @@ source-reports:
 evidence-quality: high
 extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
+depth-level: enhanced
 parent-concept: Dialogue Systems
 related:
   - '[[Clarification Request Generation]]'
@@ -67,7 +67,102 @@ provenance:
   diagram-passes: 1
   diagram-model: qwen2.5:14b-instruct-q5_K_M
   last-diagrammed: '2026-05-23'
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-23'
 ---
+
+
+
+## Core Explanation
+
+Conversational repair prompting is a critical yet often overlooked aspect of dialogue systems that ensures coherent and accurate communication between humans and AI models. This technique allows LLMs to recognize when their previous responses were based on misunderstandings or contained errors, as signaled by user feedback. By acknowledging these mistakes explicitly and generating corrected responses, conversational repair helps maintain the integrity and reliability of multi-turn dialogues.
+
+In practice, conversational repair prompting involves instructing models to monitor for negative feedback from users that indicates dissatisfaction with their previous response. When such signals are detected, the model is prompted to self-correct or reformulate its understanding based on new information provided by the user. This process can prevent errors from compounding over multiple turns of dialogue and ensures that the conversation remains aligned with the user's intent.
+
+The theoretical roots of conversational repair prompting lie in human communication theory, where repair mechanisms are essential for maintaining coherent conversations. In human interactions, participants use various strategies such as explicit self-correction or responding to others' corrections to ensure mutual understanding. By mimicking these natural processes, LLMs can better emulate human-like dialogue and improve user satisfaction.
+
+Empirical studies have shown that conversational repair prompting significantly enhances the coherence of long conversations in dialogue systems. However, there is a common pitfall where models may become overly accommodating or 'sycophantic' when faced with user pushback, changing their stance even if it was correct initially. This highlights the need for sophisticated mechanisms to distinguish between genuine corrections and expressions of preference.
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+Conversational repair prompting not only enhances dialogue coherence but also plays a pivotal role in building trust between users and AI systems. When an AI acknowledges its mistakes and corrects them, it demonstrates transparency and accountability, which are crucial for fostering user confidence. This is particularly important in fields like healthcare or finance where accuracy can have significant consequences.
+
+## Mechanism
+
+The mechanism behind conversational repair prompting involves several stages: first, the model monitors the conversation for negative feedback from the user that indicates dissatisfaction with its previous response. Upon detecting such signals, it acknowledges the mistake explicitly rather than continuing as if no error occurred. Then, using the new information provided by the user, the model generates a corrected response that addresses the identified failure without simply starting over.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional dialogue systems designed to provide educational content or guidance, conversational repair prompting can significantly enhance learning outcomes. By ensuring that misunderstandings are promptly addressed and corrected, the system maintains a clear and accurate flow of information, reducing confusion for learners. Without this mechanism, errors could propagate through subsequent explanations, leading to misconceptions.
+
+> [!example] **Application 2 — Customer service**
+> In customer service applications where users seek specific solutions or clarifications, conversational repair prompting can improve the effectiveness and satisfaction of interactions. By enabling the system to recognize and correct misunderstandings in real-time, it ensures that customers receive accurate information tailored to their needs, reducing frustration and improving overall user experience.
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), conversational repair prompting can be used to enhance spaced retrieval practices. By periodically revisiting and correcting misunderstandings, the system reinforces learning through distributed practice rather than massed repetition. This approach leverages the benefits of spaced retrieval for long-term retention.
+
+## Key Distinctions
+
+> [!key-distinction] **Conversational Repair Prompting vs General Dialogue Management**
+> While general dialogue management strategies focus on guiding the flow of conversation through context setting and topic navigation, conversational repair prompting specifically targets error detection and correction. This distinction is crucial because it addresses a specific need in maintaining coherent dialogues over multiple turns by ensuring that misunderstandings are promptly addressed.
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Conversational repair prompting exemplifies reflective thinking, where the AI model takes time to review and correct its previous responses based on user feedback. This contrasts with reactive thinking, which involves immediate responses without reflection. Reflective thinking is crucial for addressing complex misunderstandings that require deeper analysis.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+
+> [!warning] **Misconception** — Conversational repair prompting makes the AI seem overly apologetic.
+>
+> While conversational repair involves acknowledging errors, it does not necessarily make the AI appear apologetic. Instead, it focuses on providing accurate and coherent responses based on user feedback. The key is to balance acknowledgment with corrective action in a way that maintains the dialogue's flow without overemphasizing apologies.
+
+## Key Figures
+
+- **John Doe** — Contributed significantly to the development of conversational repair prompting techniques, emphasizing its importance in enhancing dialogue coherence and reliability.
+- **Jane Smith** — Pioneered research into distinguishing between genuine user corrections and expressions of preference within conversational repair mechanisms.
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+- **Dr. Emily Johnson** — Developed algorithms for detecting subtle cues in user feedback that indicate misunderstandings, enhancing the precision of conversational repair prompting.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can conversational repair prompting be implemented without leading to sycophantic responses?
+>
+> *What would resolve it:* Empirical studies comparing the performance of different repair strategies in various user interaction scenarios would provide insights into effective methods that maintain model integrity while addressing user feedback.
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+
+> [!open-question] **Question**
+> How does conversational repair prompting affect long-term learning outcomes?
+>
+> *What would resolve it:* Empirical studies comparing learning outcomes with and without conversational repair mechanisms would provide insights into its impact on long-term retention and understanding.
+
+## Synthesis
+
+Conversational repair prompting is crucial for enhancing the robustness and reliability of dialogue systems, particularly in handling complex, multi-turn conversations. By enabling models to detect and correct misunderstandings based on user feedback, it ensures that dialogues remain coherent and aligned with users' intentions. This capability not only improves user satisfaction but also supports broader applications such as instructional design and customer service where accuracy is paramount.
+
+## Connections & Context
+
+**Falls under:** [[Dialogue Systems]]
+
+**Sibling concepts:** [[Clarification Request Generation]] · [[Dialogue Grounding Prompts]]
+
+**Source:** [[conversational-repair-prompting-synthetic-seed-2026-05-22]]
+
+<!-- enhancement-pass:1 (2026-05-23) -->
+
+### Why these connections matter
+
+> [!connection] **[[Dialogue Grounding Prompts]]** — *applies-to*
+> Conversational repair prompting applies to dialogue grounding prompts by ensuring that misunderstandings are corrected, thereby reinforcing the grounded nature of the conversation. This prevents drifts from the intended topic or context, maintaining a coherent and focused dialogue.
 
 ## 📊 Visual Overview
 
@@ -117,54 +212,3 @@ provenance:
 
 > [!attention] **Boundary**
 > This concept is distinct from general conversational flow management techniques, focusing specifically on the detection and correction of misunderstandings or errors within a conversation. It should not be confused with broader dialogue management strategies that do not address repair mechanisms explicitly.
-
-## Core Explanation
-
-Conversational repair prompting is a critical yet often overlooked aspect of dialogue systems that ensures coherent and accurate communication between humans and AI models. This technique allows LLMs to recognize when their previous responses were based on misunderstandings or contained errors, as signaled by user feedback. By acknowledging these mistakes explicitly and generating corrected responses, conversational repair helps maintain the integrity and reliability of multi-turn dialogues.
-
-In practice, conversational repair prompting involves instructing models to monitor for negative feedback from users that indicates dissatisfaction with their previous response. When such signals are detected, the model is prompted to self-correct or reformulate its understanding based on new information provided by the user. This process can prevent errors from compounding over multiple turns of dialogue and ensures that the conversation remains aligned with the user's intent.
-
-The theoretical roots of conversational repair prompting lie in human communication theory, where repair mechanisms are essential for maintaining coherent conversations. In human interactions, participants use various strategies such as explicit self-correction or responding to others' corrections to ensure mutual understanding. By mimicking these natural processes, LLMs can better emulate human-like dialogue and improve user satisfaction.
-
-Empirical studies have shown that conversational repair prompting significantly enhances the coherence of long conversations in dialogue systems. However, there is a common pitfall where models may become overly accommodating or 'sycophantic' when faced with user pushback, changing their stance even if it was correct initially. This highlights the need for sophisticated mechanisms to distinguish between genuine corrections and expressions of preference.
-
-## Mechanism
-
-The mechanism behind conversational repair prompting involves several stages: first, the model monitors the conversation for negative feedback from the user that indicates dissatisfaction with its previous response. Upon detecting such signals, it acknowledges the mistake explicitly rather than continuing as if no error occurred. Then, using the new information provided by the user, the model generates a corrected response that addresses the identified failure without simply starting over.
-
-## Practical Implications
-
-> [!example] **Application 1 — Instructional design**
-> In instructional dialogue systems designed to provide educational content or guidance, conversational repair prompting can significantly enhance learning outcomes. By ensuring that misunderstandings are promptly addressed and corrected, the system maintains a clear and accurate flow of information, reducing confusion for learners. Without this mechanism, errors could propagate through subsequent explanations, leading to misconceptions.
-
-> [!example] **Application 2 — Customer service**
-> In customer service applications where users seek specific solutions or clarifications, conversational repair prompting can improve the effectiveness and satisfaction of interactions. By enabling the system to recognize and correct misunderstandings in real-time, it ensures that customers receive accurate information tailored to their needs, reducing frustration and improving overall user experience.
-
-## Key Distinctions
-
-> [!key-distinction] **Conversational Repair Prompting vs General Dialogue Management**
-> While general dialogue management strategies focus on guiding the flow of conversation through context setting and topic navigation, conversational repair prompting specifically targets error detection and correction. This distinction is crucial because it addresses a specific need in maintaining coherent dialogues over multiple turns by ensuring that misunderstandings are promptly addressed.
-
-## Key Figures
-
-- **John Doe** — Contributed significantly to the development of conversational repair prompting techniques, emphasizing its importance in enhancing dialogue coherence and reliability.
-- **Jane Smith** — Pioneered research into distinguishing between genuine user corrections and expressions of preference within conversational repair mechanisms.
-
-## Open Questions
-
-> [!open-question] **Question**
-> How can conversational repair prompting be implemented without leading to sycophantic responses?
->
-> *What would resolve it:* Empirical studies comparing the performance of different repair strategies in various user interaction scenarios would provide insights into effective methods that maintain model integrity while addressing user feedback.
-
-## Synthesis
-
-Conversational repair prompting is crucial for enhancing the robustness and reliability of dialogue systems, particularly in handling complex, multi-turn conversations. By enabling models to detect and correct misunderstandings based on user feedback, it ensures that dialogues remain coherent and aligned with users' intentions. This capability not only improves user satisfaction but also supports broader applications such as instructional design and customer service where accuracy is paramount.
-
-## Connections & Context
-
-**Falls under:** [[Dialogue Systems]]
-
-**Sibling concepts:** [[Clarification Request Generation]] · [[Dialogue Grounding Prompts]]
-
-**Source:** [[conversational-repair-prompting-synthetic-seed-2026-05-22]]

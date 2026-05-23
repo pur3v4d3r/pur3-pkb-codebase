@@ -289,6 +289,51 @@ cd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-buil
 ```
 
 
+# Diagrams Fixes and Refinements
+I have a script that has a local llm go through each of my permanent notes and add in multiple mermaid diagrams, the problem is this:
+Some of the mermaid diagrams are not written correctly, and are not rendering properly in Obsidian. I want you to go through each of the permanent notes that have been processed by the diagram pipeline, and fix any issues with the mermaid diagrams, so that they render properly in Obsidian. 
+This will likely involve going through each permanent note, identifying any mermaid diagrams that are not rendering properly, and then using the local LLM to rewrite those diagrams in a way that is compatible with Obsidian's mermaid rendering.
+Either that or figuring out a python script that can either fix or remove the mermaid diagrams that are not rendering properly, and then running that script on all of the permanent notes that have been processed by the diagram pipeline.
+
+I have the pipelibne running on a batch of 100 permanent notes from v6 elaberated so maybe do tests on the other permanent note folders that are not being updated atm by the enhance pipeline script and local llm.
+
+I also use git hub and have everything commited since updateing the permanent notes with the diagram pass if that is useful for you to see the changes that were made and which diagrams are not rendering properly.
+
+NOTE: I maybe only certain types of diagram that are effected look through a good amount of the permanent notes that have been processed by the diagram pipeline to see if you can identify any patterns in which diagrams are not rendering properly, and then focus on fixing those types of diagrams specifically.
+
+## Key Locations for Pipeline Reference
+
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\README.md` -> Pipeline V6 README
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes` -> Home of current permanent notes.
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes` -> Home of psychology permanent notes. -> Test Here
+
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\enhance_notes.py` -> Script for enhancing permanent notes.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\add_diagrams.py` -> Script for adding diagrams to permanent notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # V6 Pipeline - Enhancing Existing Permanent Notes
 
@@ -438,17 +483,19 @@ Here are the main key locations for you to learn how the pipeline works, the ins
 `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
 
 
-`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes. -> Run Enhancement on these notes.
 
+## V6-elaberated batch of 100 command:
+ pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" enhance_notes.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated" --limit 100 -v; popd
 
+## _psychology-permanent-notes batch of 100 command:
+ pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" enhance_notes.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_machine-learning-permanent-notes" --limit 100 -v; popd
 
+## _machine-learning-permanent-notes batch of 100 command:
+ pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" enhance_notes.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes" --limit 100 -v; popd
 
-
-
-
-
-
-
+## _universe-permanent-notes batch of 100 command:
+ pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" enhance_notes.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_universe-permanent-notes" --limit 100 -v; popd
 
 
 
