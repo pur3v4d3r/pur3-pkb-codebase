@@ -67,8 +67,75 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Faithfulness vs Factuality Overview**
+> *Identify the focus of each metric.*
+>
+> ```mermaid
+> graph TD
+>   A[Context]
+>   B[Faithful]
+>   C[Factually Correct]
+>   D[Incorrect Source]
+>   E[General Knowledge]
+>   F[Contradictory Evidence]
+>   G[Outdated Guidelines]
+>   H[Recent Research]
+>   A -->|Faithfulness| B
+>   A -->|Factuality| C
+>   B -->|Incorrect Source| D
+>   C -->|General Knowledge| E
+>   B -->|Contradictory Evidence| F
+>   C -->|Outdated Guidelines| G
+>   C -->|Recent Research| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Pitfalls**
+> *Notice the common pitfalls in evaluations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Only Faithfulness]
+>   B[Ignores Incorrect Source]
+>   C[Correct Answer]
+>   D[Factuality Focus]
+>   E[Hallucinations]
+>   F[Fabricated Response]
+>   G[No Provided Context]
+>   A -->|Ignores Incorrect Source| B
+>   B -->|Correct Answer| C
+>   D -->|Hallucinations| E
+>   E -->|Fabricated Response| F
+>   F -->|No Provided Context| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference in thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Source Material]
+>   B[Reflective Thinking]
+>   C[Factual Correctness]
+>   D[Reactive Thinking]
+>   E[Immediate Response]
+>   F[Contextual Faithfulness]
+>   A -->|Reflective Thinking| B
+>   B -->|Factual Correctness| C
+>   A -->|Reactive Thinking| D
+>   D -->|Immediate Response| E
+>   E -->|Contextual Faithfulness| F
+> ```
 
 ## Core Explanation
 

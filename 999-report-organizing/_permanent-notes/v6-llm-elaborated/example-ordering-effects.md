@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Recency Bias vs Primacy Effects**
+> *Follow the arrows to see how recency bias and primacy effects influence model output.*
+>
+> ```mermaid
+> graph TD
+>   A[First Example] --> B[Primacy Effect]
+>   C[Last Example] --> D[Recency Bias]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Order on Model Output**
+> *Observe how different orders affect the model's final output format.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Order1] --> B[Output1]
+>   C[Order2] --> D[Output2]
+> ```
+
+
+> [!abstract] **Diagram 3 — Example Ordering Process Flow**
+> *Trace the sequence from input examples to final model output, highlighting key stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Examples] --> B[Integration]
+>   B --> C[Recency Bias]
+>   C --> D[Primacy Effect]
+>   D --> E[Final Output]
+> ```
 
 # Example Ordering Effects
 

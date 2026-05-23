@@ -65,8 +65,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Clarity Principles Overview**
+> *Follow the flow from principles to application.*
+>
+> ```mermaid
+> graph TD
+>   A[Specificity]
+>   B[Atomicity]
+>   C[Positive Framing]
+>   D[Pronoun Disambiguation]
+>   E[Avoid Implicit Assumptions]
+>   F[Instructional Design]
+>   G[Creative Writing Prompts]
+>   H[Dataset Curation]
+>   A -->|Applies to|F
+>   B -->|Applies to|G
+>   C -->|Applies to|H
+>   D -->|Applies to|F
+>   E -->|Applies to|G
+> ```
+
+
+> [!abstract] **Diagram 2 — Positive Framing vs Negative Prompting**
+> *Compare the clarity benefits of each approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Framing]
+>   B[Negative Prompting]
+>   C[Clear Intent]
+>   D[Ambiguity Risk]
+>   A -->|Ensures|C
+>   B -->|Risks|D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference in prompt clarity.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[Clear and Unambiguous]
+>   D[Rely on Inference]
+>   A -->|Ensures|C
+>   B -->|Risks|D
+> ```
 
 ## Core Explanation
 

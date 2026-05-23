@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Superposition Mechanism Overview**
+> *Follow the flow from neurons to features, noting sparse activation patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Neurons] --> B[Feature Representation]
+>   C[Sparse Activation Patterns] --> D[Efficient Feature Storage]
+> ```
+
+
+> [!abstract] **Diagram 2 — Superposition vs Single-Feature Per Neuron**
+> *Compare the two approaches to understand their differences in feature representation.*
+>
+> ```mermaid
+> graph TD
+>   A[Neurons] --> B[Multiple Features]
+>   C[Single Feature] --> D[Per Neuron]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Trace the information flow to see how higher-level features influence lower-level representations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HigherLevelFeatures as HL
+>   participant LowerLevelRepresentations as LL
+>   participant SensoryInputs as SI
+>   HL->>LL: Influence Representation
+>   SI-->>LL: Shape Activations
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Typical Sampling Process Flow**
+> *Follow the steps from token ranking to sampling.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Rank Tokens by Log-Probability]
+>   B --> C[Determine Negative Entropy]
+>   C --> D[Identify Typical Tokens]
+>   D --> E[Renormalize Probabilities]
+>   E --> F[Sample Token]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Top-P Sampling**
+> *Compare typical sampling's focus on entropy to top-p's cumulative probability.*
+>
+> ```mermaid
+> graph TD
+>   A[Typical Sampling]
+>   B[Top-P Sampling]
+>   A --> C[Ranks by Log-Prob Proximity to Entropy]
+>   B --> D[Cumulative Probability Threshold]
+> ```
+
+
+> [!abstract] **Diagram 3 — Bottom-Up vs Top-Down Processing**
+> *Understand the intrinsic data focus of typical sampling versus higher-level schemas.*
+>
+> ```mermaid
+> graph TD
+>   A[Typical Sampling]
+>   B[Top-Down Approaches]
+>   A --> C[Focused on Token Probabilities]
+>   B --> D[Influenced by Higher-Level Concepts]
+> ```
 
 ## Core Explanation
 

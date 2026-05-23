@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RLHF Process Overview**
+> *Follow the stages from supervised fine-tuning to reinforcement learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Fine-Tuning]
+>   B[Reward Model Training]
+>   C[Policy Optimization]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — RLHF vs Supervised Fine-Tuning**
+> *Compare the approaches used in RLHF and supervised fine-tuning.*
+>
+> ```mermaid
+> classDiagram
+>   class RLHF{
+>     +Initial Policy
+>     +Reward Model Training
+>     +Policy Optimization
+>   }
+>   class SFT{
+>     +Labeled Examples
+>     +Direct Instruction
+>   }
+>   RLHF --> SFT
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Types in RLHF**
+> *Identify the differences between explicit and implicit feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Feedback]
+>   B[Implicit Feedback]
+> ```
 
 ## Core Explanation
 

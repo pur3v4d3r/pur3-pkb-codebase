@@ -67,8 +67,40 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pairwise Comparison Process Flow**
+> *Follow the flow from input to final ranking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Evaluator]
+>   B --> C[Compare Outputs]
+>   C --> D[Choose Preferred]
+>   D --> E[Ratings Update]
+>   E --> F[Global Ranking]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tournament-Style Ranking Methods**
+> *See how different models accumulate points in a tournament.*
+>
+> ```mermaid
+> graph TD
+>   A[Elo Rating]
+>   B[Bradley-Terry Model]
+>   C[Thurstone Scaling]
+>   A -->|Aggregates Judgments| D[Global Rankings]
+>   B -->|Aggregates Judgments| D
+>   C -->|Aggregates Judgments| D
+> ```
 
 ## Core Explanation
 

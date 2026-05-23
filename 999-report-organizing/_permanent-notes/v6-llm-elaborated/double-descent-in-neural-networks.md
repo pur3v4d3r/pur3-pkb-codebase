@@ -69,8 +69,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Double Descent Performance Curve**
+> *Follow the curve to see how error changes with model complexity.*
+>
+> ```mermaid
+> graph TD
+>   A[Underfitting] --> B[Optimal Fit]
+>   B --> C[Overfitting]
+>   C --> D[Improved Generalization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bias-Variance Tradeoff Comparison**
+> *Compare the classical and double descent views on model complexity.*
+>
+> ```mermaid
+> graph TD
+>   A[Classical] --> B[Bias-Var Tradeoff]
+>   C[Double Descent] --> D[Improved Generalization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Dynamics Flowchart**
+> *Trace the flow from underfitting to improved generalization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Underfitting] --> B[Fits Training Data]
+>   B --> C[Memoizes Noise]
+>   C --> D[Improved Generalization]
+> ```
 
 ## Core Explanation
 

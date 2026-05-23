@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Skeleton of Thought Process Flow**
+> *Follow the stages from outline generation to parallel elaboration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Outline Generation] --> B[Parallel Elaboration]
+>   B --> C[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Chain-of-Thought Prompting**
+> *Compare the sequential vs parallel processing stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Skeleton of Thought] --> B[Parallel Elaboration]
+>   C[Chain-of-Thought] --> D[Sequential Generation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective Thinking Process**
+> *Trace the steps from planning to final output in reflective thinking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Planning] --> B[Structured Outline]
+>   B --> C[Parallel Elaboration]
+>   C --> D[Final Output]
+> ```
 
 ## Core Explanation
 

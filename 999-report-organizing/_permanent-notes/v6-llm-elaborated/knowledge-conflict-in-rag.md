@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Conflict Sources**
+> *Identify the sources of knowledge conflicts.*
+>
+> ```mermaid
+> graph TD
+>   A[Temporal Inconsistencies] --> B(Knowledge Conflict)
+>   C[Domain Specificity] --> B
+>   D[Errors in Retrieval or Model Parameters] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Conflict Resolution Bias**
+> *Understand the bias towards retrieved context.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieved Context]
+>   B[Parametric Knowledge]
+>   C[Explicit Conflict in Retrieval] -->|Prioritize Retrieved| A
+>   D[Indirect or Inferred Conflict] -->|Favor Parametric| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Adaptive Process Flow**
+> *Follow the adaptive process for resolving conflicts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant ExternalSource as E
+>   participant InternalKnowledge as I
+>   M->>E: Retrieve Context
+>   E-->>M: Retrieved Information
+>   alt Conflict Detected
+>     M->>I: Compare with Parametric Knowledge
+>     opt Explicit Conflict
+>       M->>E: Prioritize Retrieved Info
+>     else Indirect Conflict
+>       M->>I: Favor Internal Representation
+>     end
+>   end
+> ```
 
 ## Core Explanation
 

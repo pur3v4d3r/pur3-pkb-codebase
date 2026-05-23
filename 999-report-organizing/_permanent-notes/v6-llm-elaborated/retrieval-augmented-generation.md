@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RAG Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B(Query Derivation)
+>   B --> C(Document Retrieval)
+>   C --> D(Language Model Conditioning)
+>   D --> E(Generated Text)
+> ```
+
+
+> [!abstract] **Diagram 2 — RAG vs Traditional LLMs**
+> *Compare the components and data flow in both systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Prompt] --> B(Language Model)
+>   B --> C(Generated Text)
+>   D[Input Prompt] --> E(Query Derivation)
+>   E --> F(Document Retrieval)
+>   F --> G(Language Model Conditioning)
+>   G --> H(Generated Text)
+> ```
+
+
+> [!abstract] **Diagram 3 — RAG Applications Overview**
+> *Identify the applications and their benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Enhanced Content)
+>   C[Customer Service] --> D(Reliable Responses)
+>   E[MOOCs] --> F(Spaced Retrieval)
+> ```
 
 ## Core Explanation
 

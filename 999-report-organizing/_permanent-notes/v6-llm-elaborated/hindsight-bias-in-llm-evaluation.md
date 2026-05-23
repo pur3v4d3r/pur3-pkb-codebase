@@ -68,8 +68,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mechanism of Hindsight Bias**
+> *Follow the two-step process from exposure to outcome-based assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Exposure to Known Outcomes]
+>   B[Evaluation Context]
+>   C[Rates Favorably]
+>   D[Ignoring Logical Soundness]
+>   A -->|During Training/Evaluation| B
+>   B -->|Outcome Alignment| C
+>   C -->|Favorable Rating| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Evaluation Frameworks**
+> *Trace the feedback loop from overrated models to inflated training cycles.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Overrated Models]
+>   B[Inflated Sense of Capabilities]
+>   C[Feedback Loop]
+>   D[Subsequent Iterations]
+>   E[Ignored Critical Flaws]
+>   F[Targeted Improvements]
+>   A -->|Consistent Overrating| B
+>   B -->|Training with Inflated Perception| C
+>   C -->|Inflated Training Data| D
+>   D -->|Ongoing Bias| E
+>   E -->|Missed Opportunities for Improvement| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluator vs Benchmark Contamination**
+> *Compare evaluator bias and benchmark contamination in LLM evaluation.*
+>
+> ```mermaid
+> classDiagram
+>   class Evaluator_Bias{
+>     +Exposure_to_Outcomes()
+>     +Outcome_Alignment()
+>     +Favorable_Rating()
+>   }
+>   class Benchmark_Contamination{
+>     +Training_Data_Includes_Outcomes()
+>     +Memorization_instead_of_Learning()
+>     +Inflated_Benchmark_Scores()
+>   }
+>   Evaluator_Bias --> Benchmark_Contamination
+> ```
 
 ## Core Explanation
 

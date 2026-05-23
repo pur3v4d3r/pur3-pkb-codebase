@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PSA Process Flowchart**
+> *Follow the steps from prompt generation to performance evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Prompt Variations] --> B[Test Model Performance]
+>   B --> C[Evaluate Sensitivity]
+> ```
+
+
+> [!abstract] **Diagram 2 — PSA vs Benchmark Overfitting Comparison**
+> *Compare PSA and benchmark overfitting in evaluating model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[PSA] -->|Variations in Prompt Formulation| D[Evaluation]
+>   B[Benchmark Overfitting] -->|Task-Specific Performance| E[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between reflective and reactive thinking in PSA.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] -->|Vary Prompts Deliberately| B[Evaluate Model]
+>   C[Reactive] -->|Immediate Response to Prompt| D[Evaluate Model]
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Framing Effects Process Flow**
+> *Follow the flow from prompt framing to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Framing] --> B[Model Interpretation]
+>   C[Negative Framing] --> B
+>   B --> D[Different Outputs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Framing Sensitivity in LLMs**
+> *Compare how different framings affect model outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Gain Framing] --> B[Positive Evaluation]
+>   C[Loss Framing] --> D[Negative Evaluation]
+>   E[Same Policy] -.-> B & D
+> ```
+
+
+> [!abstract] **Diagram 3 — Framing vs Other Biases**
+> *Identify how framing differs from other biases.*
+>
+> ```mermaid
+> classDiagram
+>   class Framing_Effects{
+>     +Presentation Style
+>     -Different Outputs
+>   }
+>   class Confirmation_Bias{
+>     +Pre-existing Beliefs
+>     -Favor Information Alignment
+>   }
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Probing Process Flowchart**
+> *Follow the flow from model selection to classifier training and evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Select Layer] --> B[Extract Activations]
+>   B --> C[Train Classifier]
+>   C --> D[Evaluate Accuracy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Classifier Types Hierarchy**
+> *Identify the progression from simple to complex classifiers.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Models] --> B[Logistic Regression]
+>   A --> C[SVM]
+>   D[Non-Linear Models] --> E[Decision Trees]
+>   D --> F[Neural Networks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Information Hierarchy in Layers**
+> *Trace the progression of information from surface-level to complex semantic features.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Features] --> B[Morphology]
+>   A --> C[Part-of-Speech]
+>   D[Complex Semantic Content] --> E[Semantic Similarity]
+>   D --> F[Pragmatic Content]
+> ```
 
 ## Core Explanation
 

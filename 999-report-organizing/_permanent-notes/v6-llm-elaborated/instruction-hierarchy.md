@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Instruction Hierarchy Overview**
+> *Identify the privilege levels of different instruction sources.*
+>
+> ```mermaid
+> graph TD
+>   A[User Messages] -->|Low Privilege| C[System Prompts]
+>   B[Tool Outputs] -->|Medium Privilege| C
+>   C --> D[Highest Privilege]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Flow Process**
+> *Follow the flow of instructions from input to model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[System Prompt]
+>   B --> C[Reflective Thinking]
+>   C --> D[Highest Privilege Command]
+>   A --> E[User Message]
+>   E --> F[Reactive Response]
+>   F --> G[Lower Privilege Action]
+> ```
+
+
+> [!abstract] **Diagram 3 — Privilege Levels Comparison**
+> *Compare the privilege levels of different instruction types.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 ## Core Explanation
 

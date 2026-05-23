@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Local vs Global Coherence**
+> *Identify the differences between local and global coherence.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Coherence]
+>   B[Global Coherence]
+>   A -->|Within Paragraphs| C[Fluency]
+>   B -->|Across Text| D[Consistency]
+> ```
+
+
+> [!abstract] **Diagram 2 — Discourse Relations in LLM Outputs**
+> *Understand the discourse relations that contribute to coherence.*
+>
+> ```mermaid
+> graph TD
+>   A[Elaboration]
+>   B[Cause-Effect]
+>   C[Contrast]
+>   D[Exemplification]
+>   E[Temporal Sequence]
+>   F[Coherence]
+>   A -->|Builds on Previous Information| F
+>   B -->|Explains Consequences| F
+>   C -->|Provides Alternatives| F
+>   D -->|Illustrates Examples| F
+>   E -->|Orders Events Chronologically| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Coherence Strategies in Instructional Design**
+> *See strategies to ensure coherence in instructional design.*
+>
+> ```mermaid
+> graph TD
+>   A[Outline-First Prompting]
+>   B[Section-by-Section Generation]
+>   C[Coherence Checkpoints]
+>   D[Hierarchical Outlining]
+>   E[Iterative Refinement]
+>   F[Effective Learning Materials]
+>   A -->|Structures Content| F
+>   B -->|Ensures Flow| F
+>   C -->|Maintains Consistency| F
+>   D -->|Organizes Concepts| F
+>   E -->|Refines Information| F
+> ```
 
 ## Core Explanation
 

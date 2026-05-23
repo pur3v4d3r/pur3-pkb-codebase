@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Emergent Prompting Mechanism**
+> *Follow the flow from latent knowledge to revealed capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Latent Knowledge]
+>   B[Effective Prompt Structure]
+>   C[Guided Reasoning]
+>   D[Revealed Capabilities]
+>   A -->|Internal Architecture Alignment| B
+>   B -->|Step-by-Step Guidance| C
+>   C -->|Complex Task Breakdown| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompting Strategy Comparison**
+> *Compare naive prompts with emergent strategies for performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Naive Prompt]
+>   B[Standard Performance]
+>   C[Emergent Prompt]
+>   D[Better Performance]
+>   A -->|Direct Query| B
+>   C -->|Latent Capability Unlocking| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Architecture Alignment Factors**
+> *Identify factors influencing prompt effectiveness.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data Distribution]
+>   B[Attention Mechanisms]
+>   C[Tokenization Strategies]
+>   D[Prompt Effectiveness]
+>   A -->|Influence| D
+>   B -->|Influence| D
+>   C -->|Influence| D
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Philosophical Argument Workflow**
+> *Follow the steps from input to output analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Argument Reconstruction]
+>   B --> C[Evaluation]
+>   C --> D[Counterarguments]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Analytical Tasks in Prompting**
+> *Identify the tasks involved in rigorous philosophical analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument Reconstruction] --> B[Validity Assessment]
+>   A --> C[Counterargument Generation]
+>   B --> D[Steelman Construction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking processes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reflective as R
+>   participant Reactive as Re
+>   R->>R: Deliberate Analysis
+>   Re->>Re: Immediate Response
+> ```
 
 ## Core Explanation
 

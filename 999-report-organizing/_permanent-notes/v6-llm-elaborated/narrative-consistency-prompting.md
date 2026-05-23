@@ -68,8 +68,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Narrative Consistency Mechanism**
+> *Follow the flow from database to context window.*
+>
+> ```mermaid
+> graph TD
+>   A[Character Sheets]
+>   B[World-State Dictionaries]
+>   C[Event Timelines]
+>   D[Narrative Generation]
+>   E[Context Window]
+>   A -->|Attributes & Motivations| F
+>   B -->|Narrative Environment| G
+>   C -->|Causal Continuity| H
+>   F -->|Database Refresh| I
+>   G -->|Database Refresh| I
+>   H -->|Database Refresh| I
+>   I --> E
+>   E --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrative Consistency Challenges**
+> *Identify the challenges in maintaining consistency.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Dynamic Narrative Generation]
+>   B[Primacy-Recency Effect]
+>   C[User Input Alterations]
+>   D[Narrative Coherence]
+>   E[Engagement & Creativity Balance]
+>   F[Context Window Limitation]
+>   A -->|New Information Interaction| G
+>   B -->|Underweighted Early Facts| H
+>   C -->|Real-Time Adjustments| I
+>   D -->|Multiple Levels Management| J
+>   E -->|Balancing Coherence & Flexibility| K
+>   F -->|Effective Context Window Size| L
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive approaches.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reflective as R
+>   participant Reactive as Re
+>   R->>R: Deliberate Consideration of Elements
+>   R-->>Narrative: Ensure Consistency
+>   Re->>Re: Immediate Responses Based on Context
+>   Re-->>Narrative: Potential Inconsistencies
+> ```
 
 ## Core Explanation
 

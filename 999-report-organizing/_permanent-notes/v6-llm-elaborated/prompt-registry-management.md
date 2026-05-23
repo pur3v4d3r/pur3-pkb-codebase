@@ -68,8 +68,78 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Registry Components**
+> *Identify the key components of a prompt registry.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompts]
+>   B[Version History]
+>   C[METADATA]
+>   D[Access Control]
+>   E[Search Capabilities]
+>   F[Collaboration Tools]
+>   A -->|Contains| B
+>   A -->|Includes| C
+>   A -->|Enforced by| D
+>   A -->|Enabled by| E
+>   A -->|Facilitated by| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Registry Workflow**
+> *Follow the typical workflow for managing prompts in a registry.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Prompt]
+>   B[Version Control]
+>   C[METADATA Entry]
+>   D[Access Request]
+>   E[Approval]
+>   F[Deployment]
+>   G[Search & Reuse]
+>   H[Update Prompt]
+>   I[Rollback]
+>   A -->|Add to Registry| B
+>   B -->|Attach METADATA| C
+>   C -->|Request Access| D
+>   D -->|Get Approval| E
+>   E -->|Deploy| F
+>   G -->|Find & Reuse| H
+>   H -->|Update| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Dependency Management**
+> *Understand the dependency issues and management strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Shared Prompt]
+>   B[Dependent Feature1]
+>   C[Dependent Feature2]
+>   D[Update Shared Prompt]
+>   E[Evaluate Dependent Features]
+>   F[Re-evaluate & Update]
+>   G[Ensure Consistency]
+>   A -->|Used by| B
+>   A -->|Used by| C
+>   B -->|Affected by| D
+>   C -->|Affected by| D
+>   D -->|Trigger Evaluation| E
+>   E -->|Identify Issues| F
+>   F -->|Resolve Issues| G
+> ```
 
 ## Core Explanation
 

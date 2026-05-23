@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Training Data Attribution Process Flow**
+> *Follow the flow from data to model influence estimation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B(Model Training)
+>   B --> C(Influence Function Computation)
+>   C --> D(Gradient Estimation)
+>   D --> E(Impact Analysis)
+> ```
+
+
+> [!abstract] **Diagram 2 — Influence Functions vs TracIn Comparison**
+> *Compare the two methods for attributing influence.*
+>
+> ```mermaid
+> graph TD
+>   A[Influence Function]
+>   B[TracIn]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Data Attribution Applications**
+> *Identify the applications of Training Data Attribution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Debugging Models] --> B(Addressing Biases)
+>   B --> C(Supporting Copyright Attribution)
+> ```
 
 ## Core Explanation
 

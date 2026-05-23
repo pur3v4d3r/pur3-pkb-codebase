@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RoPE Mechanism Overview**
+> *Follow the flow from position to rotated vectors.*
+>
+> ```mermaid
+> graph TD
+>   A[Position Index] --> B[Sinusoidal Function]
+>   B --> C[Rotation Matrix]
+>   C --> D[Query/Key Vectors]
+>   D --> E[Rotated Query/Key]
+> ```
+
+
+> [!abstract] **Diagram 2 — RoPE vs Explicit Bias Matrices**
+> *Compare RoPE's intrinsic encoding with explicit bias matrices.*
+>
+> ```mermaid
+> classDiagram
+>   class RoPE {
+>     +EncodePositionInVectors()
+>   }
+>   class ExplicitBiasMatrices {
+>     +AddPositionSpecificBiases()
+>   }
+>   RoPE --> AttentionComputation
+>   ExplicitBiasMatrices --> AttentionComputation
+> ```
+
+
+> [!abstract] **Diagram 3 — RoPE Performance Boundaries**
+> *Identify the sequence length limits for stable performance.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TrainingSequenceLength
+>   TrainingSequenceLength --> StablePerformance
+>   StablePerformance -->|Beyond Twice Length| UnstableAttentionPatterns
+>   UnstableAttentionPatterns --> [*]
+> ```
 
 ## Core Explanation
 

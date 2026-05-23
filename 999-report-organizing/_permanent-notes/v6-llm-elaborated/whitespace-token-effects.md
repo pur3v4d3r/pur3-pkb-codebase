@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tokenization Process Flow**
+> *Follow the flow from input to tokenized output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenizer]
+>   B --> C[Subword Units]
+>   C --> D[Model Input]
+> ```
+
+
+> [!abstract] **Diagram 2 — Whitespace Handling Variations**
+> *Compare how leading spaces affect tokenization.*
+>
+> ```mermaid
+> graph TD
+>   A["Word with Leading Space"] --> B[Token1]
+>   B --> C[Token2]
+>   D["Word without Leading Space"] --> E[Token3]
+>   E --> F[Token4]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Trace the influence of context on token interpretation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Context as C
+>   participant Tokenizer as T
+>   participant Model as M
+>   C->>T: Input with Leading Space
+>   T->>C: Top-Down Interpretation
+>   T->>M: Bottom-Up Processing
+> ```
 
 ## Core Explanation
 

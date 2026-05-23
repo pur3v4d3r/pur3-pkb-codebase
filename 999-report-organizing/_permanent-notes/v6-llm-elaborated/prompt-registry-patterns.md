@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Registry Workflow Overview**
+> *Follow the flow from prompt creation to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Developer Creates Prompt] --> B[Prompt Versioned]
+>   B --> C[Test and Validate]
+>   C --> D[Deploy to Registry]
+>   D --> E[Application Retrieves Latest]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt vs Model Registries Comparison**
+> *Compare the focus of prompt registries with model registries.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Registry] -->|Manages Templates| B[LLM Responses]
+>   C[Model Registry] -->|Stores Models| D[Inference]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective Prompt Management Process**
+> *Track the steps in reflective thinking for prompt refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Evaluate Effectiveness]
+>   B --> C[Identify Improvements]
+>   C --> D[Iterate and Refine]
+> ```
 
 ## Core Explanation
 

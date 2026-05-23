@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Calibration Emergence Process Flow**
+> *Follow the stages from model scaling to calibration improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Scaling] --> B[Increased Capacity]
+>   B --> C[Nuanced Pattern Capture]
+>   C --> D[Enhanced Discrimination]
+>   D --> E[Better Calibration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Calibration vs Tuning Impact**
+> *Compare intrinsic calibration before and extrinsic after tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Calibration] --> B[Natural Alignment]
+>   C[Tuning/RLHF] --> D[Degraded Alignment]
+>   E[Extrinsic Calibration] --> F[Adjustments Needed]
+> ```
+
+
+> [!abstract] **Diagram 3 — Calibration Mechanism Overview**
+> *Trace the statistical properties and training processes involved.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Statistical Properties] --> B[Model Architecture]
+>   C[Training Processes] --> D[Fitting Data Closer]
+>   E[Less Regularization] --> F[Better Calibration]
+> ```
 
 ## Core Explanation
 

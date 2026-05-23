@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Calibration Techniques Overview**
+> *Follow the flow from general to specific calibration methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextual]
+>   B[Prototypical]
+>   C[Verbal]
+>   D[Domain]
+> ```
+
+
+> [!abstract] **Diagram 2 — Contextual vs Prototypical Calibration**
+> *Compare the focus of each calibration method.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextual]
+>   B[Prototypical]
+> ```
+
+
+> [!abstract] **Diagram 3 — Verbal vs Domain Calibration**
+> *Understand the differences in calibration approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal]
+>   B[Domain]
+> ```
 
 ## Core Explanation
 

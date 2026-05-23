@@ -67,8 +67,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Summarisation Methods Overview**
+> *Identify the different summarization techniques and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Rolling Summarization]
+>   B[Hierarchical Summarization]
+>   C[Query-Specific Compression]
+>   A -->|Periodic Condensation| D[Keeps Recent Context]
+>   B -->|Multi-Level Memory| E[Successive Summaries]
+>   C -->|Pertinent Info| F[Current Interaction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Summarisation as Compression Process Flow**
+> *Follow the flow of data from input to output through summarization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Old Context]
+>   B[Summarize]
+>   C[New Information]
+>   D[Combined History]
+>   E[Discard Less Relevant Details]
+>   F[Pertinent Summary]
+>   A -->|Input| B
+>   B -->|Process| C
+>   C -->|Combine| D
+>   D -->|Filter| E
+>   E -->|Output| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing in Summarisation**
+> *Compare surface and deep processing approaches to summarization.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing]
+>   B[Deep Processing]
+>   C[Superficial Details]
+>   D[Perceptual Aspects]
+>   E[Less Meaningful Summaries]
+>   F[Semantic Analysis]
+>   G[Key Concepts]
+>   H[Efficacious Context Compression]
+>   A -->|Focus| C
+>   B -->|Analyze| F
+>   C -->|Result| E
+>   D -->|Aspect| C
+>   F -->|Extract| G
+>   G -->|Outcome| H
+> ```
 
 ## Core Explanation
 

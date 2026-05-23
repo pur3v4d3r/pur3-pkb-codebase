@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Test-Driven Prompting Process Flow**
+> *Follow the iterative refinement cycle from test suite to function implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Test Suite]
+>   B --> C[Generate Code]
+>   C --> D[Execute Tests]
+>   D -->|Failures| E[Raise Feedback]
+>   E --> F[Refine Output]
+>   F --> G[Pass All Tests]
+>   G --> H[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Test-Driven vs Docstring-Guided Generation**
+> *Compare the feedback mechanisms of Test-Driven Prompting and docstring-guided generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Executable Tests] --> B[Test-Driven]
+>   C[Natural Language Descriptions] --> D[Docstring-Guided]
+>   B -->|Unambiguous Requirements| E[Precision]
+>   D -->|Human Interpretation| F[Ambiguity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Test-Driven Prompting vs Execution Feedback**
+> *Distinguish the initial prompting approach between Test-Driven and Execution Feedback methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Test Suite] --> B[Test-Driven]
+>   C[Less Structured Input] --> D[Execution Feedback]
+>   B -->|Iterative Refinement| E[Precise Code]
+>   D -->|Feedback Loop| F[Refined Output]
+> ```
 
 ## Core Explanation
 

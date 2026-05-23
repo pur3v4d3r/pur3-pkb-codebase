@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Superalignment Process Flow**
+> *Follow the steps from initial evaluation to feedback loop.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Evaluation] --> B[Predict Misalignments]
+>   B --> C[Evaluate Harmful Behaviors]
+>   C --> D[Preemptive Adjustments]
+>   D --> E[Feedback Loop]
+>   E --> F[Enhance Alignment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Superalignment vs Conventional Alignment**
+> *Compare the oversight mechanisms of both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Conventional Alignment] --> B[Direct Human Evaluation]
+>   C[Superalignment] --> D[Robust Scalable Mechanisms]
+>   E[Human Capabilities] --> F[Superintelligent AI Capabilities]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Superalignment**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Deliberate Evaluation]
+>   C[Reactive Thinking] --> D[Immediate Response]
+>   E[Superalignment Goal] --> F[Align with Human Values]
+> ```
 
 ## Core Explanation
 

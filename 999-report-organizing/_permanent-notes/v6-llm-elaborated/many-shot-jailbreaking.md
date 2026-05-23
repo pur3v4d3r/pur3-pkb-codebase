@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Many-Shot Jailbreaking Process Flow**
+> *Follow the sequence from crafting Q&A pairs to model compliance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Craft Q&A Pairs] --> B[Prepend Context]
+>   B --> C[Pose Target Query]
+>   C --> D[Model Compliance]
+> ```
+
+
+> [!abstract] **Diagram 2 — In-Context Learning Mechanism**
+> *Trace the learning process from initial Q&A pairs to pattern recognition.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Fabricated Q&A] --> B[Pattern Recognition]
+>   B --> C[Compliance Demonstration]
+>   C --> D[Model Compliance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Many-Shot vs Few-Shot Prompting**
+> *Compare the number and impact of Q&A pairs in both techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Few-shot] --> B[Small Set]
+>   C[Many-shot] --> D[Larger Set]
+>   B --> E[Immediate Task Performance]
+>   D --> F[Override Safety Training]
+> ```
 
 ## Core Explanation
 

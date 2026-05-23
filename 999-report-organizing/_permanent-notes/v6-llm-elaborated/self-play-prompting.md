@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Play Prompting Process Flow**
+> *Follow the sequence from initial argument to final balanced output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Argument] --> B[Strongest Counterargument]
+>   B --> C[Evaluation and Refinement]
+>   C --> D[Balanced Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Comparison**
+> *Compare the steps in reflective thinking with those in reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Thought] --> B[Analysis]
+>   B --> C[Evaluation]
+>   C --> D[Conclusion]
+>   E[Initial Reaction] --> F[Immediate Response]
+>   G[Feedback Loop] --> H[Adjustment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Play Prompting Applications**
+> *Identify the applications where Self-Play Prompting is used.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Educational Materials]
+>   C[Ethical AI Development] --> D[Moral Dilemmas]
+> ```
 
 ## Core Explanation
 

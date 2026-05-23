@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Parametric vs Contextual Knowledge Overview**
+> *Identify the static and dynamic nature of knowledge types.*
+>
+> ```mermaid
+> graph TD
+>   A[Parametric]
+>   B[Contextual]
+>   A -->|Frozen at Training Time| C[Factual Failures]
+>   B -->|Dynamic During Inference| D[Up-to-Date Information]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Types in LLMs**
+> *Understand the distribution and explicitness of knowledge types.*
+>
+> ```mermaid
+> graph TD
+>   A[Distributed]
+>   B[Explicit]
+>   A -->|Parametric Knowledge| C[Hard to Edit]
+>   B -->|Contextual Knowledge| D[Auditable]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Response Generation Flow**
+> *Trace the flow from input context to model response.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Context as C
+>   U->>C: Provide Input Context
+>   C->>M: Feed Contextual Knowledge
+>   M-->>U: Generate Response Using Parametric and Contextual Knowledge
+> ```
 
 ## Core Explanation
 

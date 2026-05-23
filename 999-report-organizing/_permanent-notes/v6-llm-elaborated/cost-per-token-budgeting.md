@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token Usage Breakdown**
+> *Identify high-cost inputs and outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Tokens]
+>   B[Output Tokens]
+>   C[System Prompts] -->|High Cost| A
+>   D[Retrieved Context] -->|Excessive| A
+>   E[Few-shot Examples] -->|Redundant| A
+>   F[Response Lengths] -->|Priced Separately| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Budgeting Process Flow**
+> *Follow the steps to implement cost-per-token budgeting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Token Usage Audit]
+>   B[Identify Inefficiencies]
+>   C[Dynamic Context Window Management]
+>   D[Select Model Tiers]
+>   E[Implement Budgets]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios**
+> *See how cost-per-token budgeting applies in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service Chatbots]
+>   C[Dynamic Pricing Models]
+>   D --> A
+>   E --> B
+>   F --> C
+> ```
 
 ## Core Explanation
 

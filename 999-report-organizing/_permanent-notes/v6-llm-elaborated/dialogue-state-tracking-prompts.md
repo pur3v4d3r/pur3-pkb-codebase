@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — DST Prompt Process Flow**
+> *Follow the flow from input to belief state update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Interpretation]
+>   B --> C[Belief State Update]
+>   C --> D[System Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — DST vs Implicit Memory Comparison**
+> *Compare explicit DST with implicit memory handling.*
+>
+> ```mermaid
+> graph TD
+>   A[DST Prompt] --> B[Explicit Recall]
+>   C[Implicit Memory] --> D[Unconscious Handling]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dialogue State Tracking Applications**
+> *Identify applications where DST prompts are effective.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhanced Clarity]
+>   C[Customer Service] --> D[Clear Record Keeping]
+>   E[MOOCs] --> F[Spaced Retrieval]
+> ```
 
 ## Core Explanation
 

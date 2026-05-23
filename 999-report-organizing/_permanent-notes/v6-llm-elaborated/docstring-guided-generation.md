@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Docstring Structure Overview**
+> *Identify the components of a structured docstring.*
+>
+> ```mermaid
+> graph TD
+>   A[Summary]
+>   B[Detailed Description] --> A
+>   C[Typed Arguments] --> B
+>   D[Return Value] --> C
+>   E[Raised Exceptions] --> D
+>   F[Usage Examples] --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Docstring-Guided Generation Workflow**
+> *Follow the process from docstring to code generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Write Docstring]
+>   B[Input to Model] --> A
+>   C[Generate Code] --> B
+>   D[Integrate Documentation] --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Structured vs Unstructured Input Comparison**
+> *Compare structured docstrings with unstructured inputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Docstring-Guided Generation]
+>   B[Natural Language Task Description] -->|Higher Quality Code| A
+>   C[Unstructured Input] -->|Lower Quality Code| A
+> ```
 
 # Docstring-Guided Generation
 

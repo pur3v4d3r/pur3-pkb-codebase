@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Benchmark Contamination Mechanisms**
+> *Identify the two primary pathways of contamination.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbatim Memorization]
+>   B[Near-Duplicate Contamination]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Benchmark Contamination**
+> *Understand the effects on model performance metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inflated Performance Metrics]
+>   B[Altered Model Rankings]
+>   C[Misrepresented Improvements]
+>   A --> B
+>   A --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Contamination Detection Methods**
+> *Explore methods to detect verbatim and near-duplicate contamination.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbatim Memorization]
+>   B[Near-Duplicate Contamination]
+>   C[n-Gram Overlap Analysis]
+>   D[Robust Evaluation Frameworks]
+>   A --> C
+>   B --> D
+> ```
 
 ## Core Explanation
 

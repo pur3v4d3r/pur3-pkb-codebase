@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Phase Transition Diagram**
+> *Identify the scale thresholds where capability emergence occurs.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Scale] --> B[Threshold]
+>   B --> C[Larger Scale]
+>   A --> D[Gradual Improvement]
+>   C --> E[Sudden Leap in Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic vs Extrinsic Load**
+> *Understand the impact of intrinsic and extrinsic load on model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Complexity] --> B(Intrinsic Load)
+>   C(Extrinsic Load) --> D(Model Performance)
+>   E[Optimized Training] --> F(Smooth Transition)
+> ```
+
+
+> [!abstract] **Diagram 3 — Scaling and Data Diversity Impact**
+> *See how scaling and diverse data contribute to capability emergence.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Scale] --> B(Internal Representation)
+>   C[Diverse Training Data] --> D(Richer Representations)
+>   E[Sudden Capability Leap] --> F[Complex Task Performance]
+> ```
 
 ## Core Explanation
 

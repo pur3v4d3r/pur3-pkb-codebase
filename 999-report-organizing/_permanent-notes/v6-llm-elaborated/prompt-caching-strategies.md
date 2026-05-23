@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Caching Workflow Overview**
+> *Follow the flow from input to output, noting cache hits and misses.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Request] --> B{Cache Check}
+>   B -->|Hit| D[Cached KV States]
+>   B -->|Miss| C[Compute New KV States]
+>   D --> E[Reuse Cached States]
+>   C --> F[Store in Cache]
+>   F --> G[Reuse Computed States]
+> ```
+
+
+> [!abstract] **Diagram 2 — KV Cache Reuse vs Full Response Caching**
+> *Compare the two caching strategies and their respective outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[KV Cache Reuse] --> B[Reuse KV States]
+>   B -->|Dynamic Suffixes| C[Faster Processing]
+>   D[Full Response Caching] --> E[Store Complete Output]
+>   E -->|Stale Responses| F[Risk of Inconsistency]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Structure for Caching**
+> *Identify the static prefix and dynamic suffix in a typical prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Prefix] --> B{Dynamic Suffix}
+>   B -->|Varying Inputs| C[Compute KV States]
+>   C --> D[Cached KV States]
+> ```
 
 ## Core Explanation
 

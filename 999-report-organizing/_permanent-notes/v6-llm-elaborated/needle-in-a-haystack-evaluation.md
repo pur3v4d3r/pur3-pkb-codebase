@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — NIAH Evaluation Process Flow**
+> *Follow the steps from embedding to heatmap generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Embed Information] --> B(Create Document)
+>   B --> C(Query for Info)
+>   C --> D(Generate Heatmap)
+> ```
+
+
+> [!abstract] **Diagram 2 — Recall Accuracy by Position and Length**
+> *Observe how recall accuracy varies with context length and position.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Length]
+>   B[Position of Fact]
+>   C["(Short, Start)"] -->|High Recall| D["(Long, End)"]
+>   E["(Long, Middle)"] -->|Low Recall| F["(Short, Middle)"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Performance Heatmap Example**
+> *Identify areas where models struggle with long-context recall.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Length]
+>   B[Position of Fact]
+>   C["(Short, Start)"] -->|High Recall| D["(Long, End)"]
+>   E["(Long, Middle)"] -->|Low Recall| F["(Short, Middle)"]
+> ```
 
 ## Core Explanation
 

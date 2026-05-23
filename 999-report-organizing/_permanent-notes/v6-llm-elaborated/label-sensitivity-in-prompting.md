@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Label Sensitivity Process Flow**
+> *Follow the flow from input to model output, noting label influence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Training Data]
+>   B --> C[Model Learning]
+>   C --> D[Prompt Examples]
+>   D --> E[Label Sensitivity]
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Label Frequency Impact**
+> *Compare the impact of different label frequencies on model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Frequent Label] --> B[High Output]
+>   C[Rare Label] --> D[Low Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Label Sensitivity vs Input-Output Mapping Bias**
+> *Identify the differences between label sensitivity and input-output mapping bias.*
+>
+> ```mermaid
+> classDiagram
+>   class LabelSensitivity{
+>     +InfluenceByFrequency()
+>     +BiasTowardsCommonLabels()
+>   }
+>   class InputOutputMappingBias{
+>     +LearnedMappings()
+>     +DemonstratedExamples()
+>   }
+>   LabelSensitivity --> InputOutputMappingBias
+> ```
 
 ## Core Explanation
 

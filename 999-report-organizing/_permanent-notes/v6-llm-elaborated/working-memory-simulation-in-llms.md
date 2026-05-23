@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Simulation Process**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Chain-of-Thought Prompting]
+>   B --> C[Intermediate Steps]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking in LLMs**
+> *Compare the two thinking styles and their impact on problem-solving.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Deliberate Review]
+>   C[Reactive Thinking] --> D[Immediate Response]
+>   A --- E[More Nuanced Problem-Solving]
+>   C --- F[Instinct-Based Decisions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load in LLMs**
+> *Identify the sources of cognitive load and their effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Complexity] --> B(Intrinsic Load)
+>   C[Distracting Elements] --> D(Extraneous Load)
+>   B --- E(Model Overload)
+>   D --- F(Efficiency Reduction)
+> ```
 
 ## Core Explanation
 

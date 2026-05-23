@@ -69,8 +69,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Types Overview**
+> *Identify the types of memory used by LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Long-Term Memory]
+>   C[Vector Stores]
+>   D[Key-Value DB]
+>   E[Epiodic Buffers]
+>   F[Summary States]
+>   A -->|Handles Immediate Processing| G[LLM Interaction]
+>   B -->|Stores Data for Future Use| G
+>   F -->|External Memory System
+> ```
+
+
+> [!abstract] **Diagram 2 — Context Management Flow**
+> *Follow the flow of context management in memory-augmented LLMs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start Interaction]
+>   B[Input Data]
+>   C[Process Input]
+>   D[Write to Memory]
+>   E[Retrieve from Memory]
+>   F[Generate Response]
+>   G[End Interaction]
+>   A --> B
+>   B --> C
+>   C -->|If New Info| D
+>   C -->|If Context Needed| E
+>   D --> C
+>   E --> C
+>   C --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios**
+> *See the applications where memory-augmented LLMs are used.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service]
+>   C[Healthcare]
+>   D[LLM Interaction]
+>   D --> A
+>   D --> B
+>   D --> C
+> ```
 
 ## Core Explanation
 

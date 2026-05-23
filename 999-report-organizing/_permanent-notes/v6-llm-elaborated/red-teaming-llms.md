@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Red Teaming Process Flow**
+> *Follow the steps from crafting prompts to identifying vulnerabilities.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Craft Novel Prompts] --> B[Explore Interaction Patterns]
+>   B --> C[Test Model Defenses]
+>   C --> D[Identify Vulnerabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the two approaches in red teaming LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   A -->|Systematic Analysis| C[Enhanced Preparedness]
+>   B -->|Immediate Response| D[Less Comprehensive]
+> ```
+
+
+> [!abstract] **Diagram 3 — Red Teaming vs Standard Benchmarks**
+> *Understand the difference in evaluation scope and depth.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Safety Benchmarks] -->|Known Failure Modes| B[Predefined Tests]
+>   C[Red Teaming] -->|Uncover Unknown Vulnerabilities| D[Comprehensive Evaluation]
+> ```
 
 ## Core Explanation
 

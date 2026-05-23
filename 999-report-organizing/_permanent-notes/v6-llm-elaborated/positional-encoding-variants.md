@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positional Encoding Variants Overview**
+> *Identify the different types of positional encodings and their applications.*
+>
+> ```mermaid
+> graph TD
+>   A["Sinusoidal Encodings"] --> B["Fixed, Continuous Representation"]
+>   C["Learned Absolute Embeddings"] --> D["Adapts During Training"]
+>   E["Relative Positional Encodings"] --> F["Focuses on Relative Distances"]
+>   G["RoPE (Rotary Positional Encoding)"] --> H["Handles Long Contexts Gracefully"]
+>   I["ALiBi (Attention with Linear Biases)"] --> J["Linear Bias for Attention"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Performance vs Sequence Length**
+> *Compare how different positional encodings perform as sequence length increases.*
+>
+> ```mermaid
+> graph TD
+>   A["Sinusoidal Encodings"] --> B["Scalable, Fixed Representation"]
+>   C["Learned Absolute Embeddings"] --> D["Fails Beyond Training Lengths"]
+>   E["Relative Positional Encodings"] --> F["Handles Longer Sequences Well"]
+>   G["RoPE (Rotary Positional Encoding)"] --> H["Graceful Degradation with Length"]
+>   I["ALiBi (Attention with Linear Biases)"] --> J["Improved Performance with Length"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hybrid Positional Encoding Approach**
+> *Understand the combination of learned absolute embeddings and relative positional encodings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant LearnedAbsEmbeddings as L
+>   participant RelPosEncodings as R
+>   participant Model as M
+>   L->>M: Adapts to Shorter Contexts
+>   R->>M: Handles Longer Sequences Gracefully
+>   L->>R: Combines Strengths of Both Methods
+> ```
 
 ## Core Explanation
 

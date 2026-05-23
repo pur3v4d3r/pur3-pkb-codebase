@@ -68,8 +68,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Distillation Process Flow**
+> *Follow the flow from teacher model to student model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Context Prompt] --> B[Teacher Model]
+>   B --> C[Output]
+>   C --> D[Student Model Fine-Tuning]
+>   D --> E[Distilled Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 2 — Context Distillation vs Traditional Fine-Tuning**
+> *Compare the two approaches in terms of context handling.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Fine-Tuning] -->|Direct Input-Output Pairs| B[Model Parameters]
+>   C[Context Distillation Training] -->|Teacher Model Outputs| D[Embedded Contextual Knowledge]
+> ```
 
 ## Core Explanation
 

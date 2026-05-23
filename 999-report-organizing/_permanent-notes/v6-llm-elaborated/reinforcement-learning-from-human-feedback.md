@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RLHF Process Flow**
+> *Follow the stages from fine-tuning to policy optimization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Supervised Fine-Tuning] --> B[Reward Model Training]
+>   B --> C[Policy Optimization]
+> ```
+
+
+> [!abstract] **Diagram 2 — RLHF Taxonomy Overview**
+> *Identify the key components and their relationships in RLHF.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-trained Model] --> B{Human Feedback}
+>   B --> C[Reward Model]
+>   B --> D[Supervised Fine-Tuning]
+>   C --> E[Policy Optimization]
+> ```
+
+
+> [!abstract] **Diagram 3 — RLHF vs Direct Preference Optimization**
+> *Compare the two approaches in aligning AI with human preferences.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant RLHF as "RLHF"
+>   participant DPO as "Direct Pref. Opt.">
+>   RLHF->>DPO: Uses reward model trained on feedback
+>   DPO-->>RLHF: Directly optimizes for user preferences
+> ```
 
 ## Core Explanation
 

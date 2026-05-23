@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Decomposition Process Flow**
+> *Follow the flow from task analysis to sub-task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Analysis] --> B[Identify Components]
+>   B --> C[Break Down Sub-Tasks]
+>   C --> D[Static or Dynamic Decomposition]
+>   D --> E[Execute Sub-Task]
+>   E --> F[Integrate Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Static vs Dynamic Decomposition Comparison**
+> *Compare the static and dynamic approaches to task decomposition.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Decomposition] --> B[Predefined Rules]
+>   C[Dynamic Decomposition] --> D[Real-Time Adjustments]
+>   E[Advantages Static] --> F[Efficiency]
+>   G[Disadvantages Static] --> H[Rigidity]
+>   I[Advantages Dynamic] --> J[Flexibility]
+>   K[Disadvantages Dynamic] --> L[Cognitive Load]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the difference between top-down and bottom-up approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Goal] --> B[Break Down Sub-Tasks]
+>   C[Solve Simple Tasks] --> D[Build Complex Solutions]
+>   E[Top-Down Approach] --> F[Advantage: Complexity Management]
+>   G[Bottom-Up Approach] --> H[Disadvantage: Initial Cognitive Load]
+> ```
 
 ## Core Explanation
 

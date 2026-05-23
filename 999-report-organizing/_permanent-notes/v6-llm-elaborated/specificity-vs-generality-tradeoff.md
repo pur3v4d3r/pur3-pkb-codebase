@@ -69,8 +69,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Specificity vs Generality Tradeoff Overview**
+> *Identify the balance point for different user needs.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice]
+>   B[Expert]
+>   C[Moderate General]
+>   D[High Specific]
+>   E[High General]
+>   F[Low Specific]
+>   A -->|Needs More General Principles| C
+>   C -->|Default Output| B
+>   B -->|Requires High Detail| D
+>   A -->|Falls Short for Novices| F
+>   B -->|Falls Short for Experts| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load and Information Balance**
+> *Understand the impact of specificity on cognitive load.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Overly Specific]
+>   B[Cognitive Overload]
+>   C[Insufficient Detail]
+>   D[Appropriate Balance]
+>   E[Surface Processing]
+>   F[Deep Processing]
+>   G[High Retention]
+>   H[Low Retention]
+>   A -->|Too Much Detail| B
+>   B -->|Overwhelms Working Memory| C
+>   C -->|Fails to Provide Actionable Guidance| D
+>   E -->|Superficial Engagement| H
+>   F -->|Meaningful Connections| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Engineering Techniques**
+> *See how prompts guide LLMs to desired specificity.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant PromptEngineer as P
+>   U->>P: Request Specificity Adjustment
+>   P->>L: Adjust Prompt for High Detail
+>   L-->>U: Detailed Output
+>   alt General Guidance Needed
+>     U->>P: Request Broader Principles
+>     P->>L: Adjust Prompt for Broad Applicability
+>     L-->>U: General Overview
+>   end
+> ```
 
 ## Core Explanation
 

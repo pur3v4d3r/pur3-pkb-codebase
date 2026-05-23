@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Role Prompting Process Flow**
+> *Follow the flow from role assignment to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assign Role] --> B[Prompt Model]
+>   B --> C[Activate Associations]
+>   C --> D[Generate Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Role Prompting vs Direct Command Comparison**
+> *Compare the subtlety and nuance introduced by Role Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Command] -->|Explicit Instructions| B[Output]
+>   C[Role Prompting] -->|Subtle Guidance| D[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Notice the difference in processing between reflective and reactive modes.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] -->|Deliberate Processing| B[Contextual Output]
+>   C[Reactive] -->|Immediate Response| D[Automatic Output]
+> ```
 
 ## Core Explanation
 

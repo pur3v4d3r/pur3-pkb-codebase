@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Verbosity Control Process Flow**
+> *Follow the steps from input to output verbosity control.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[LLM Processing]
+>   B --> C[Output Response]
+>   C --> D[Post-Generation Filtering]
+>   D --> E[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Verbosity Control Strategies Comparison**
+> *Compare explicit guidance and post-generation filtering techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Length Guidance] --> B[Output]
+>   C[Post-Generation Filtering] --> D[Output]
+>   E{Informativeness}
+>   F{Brevity}
+>   G{Quality}
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing in Verbosity Control**
+> *Identify the differences between surface and deep processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing] --> B[Shallow Understanding]
+>   C[Deep Processing] --> D[Thorough Comprehension]
+> ```
 
 ## Core Explanation
 

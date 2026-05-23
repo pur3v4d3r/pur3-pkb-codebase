@@ -70,8 +70,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memorization vs Generalization Spectrum**
+> *Follow the spectrum from memorization to generalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbatim Memorization] --> B(Robust Generalization)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6c6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Training Data Duplication**
+> *Observe how duplication affects memorization rates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Single Occurrence] --> B(Memorization Rate: Low)
+>   C[Tenfold Duplications] --> D(Memorization Rate: High)
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Size and Memorization Capacity**
+> *Notice the relationship between model size and memorization.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Model] --> B(Memorizes Unique Patterns: Low)
+>   C[Larger Model] --> D(Memorizes Unique Patterns: High)
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Temperature Sampling Process Flow**
+> *Follow the flow from logits to probabilities.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Logits] --> B[Temperature Adjustment]
+>   B --> C[Softmax Function]
+>   C --> D[Probabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temperature Impact on Probability Distribution**
+> *Observe how temperature affects the probability curve.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Temperature] --> B[Sharpened Distribution]
+>   C[High Temperature] --> D[Flattened Distribution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temperature Sampling Applications**
+> *Identify the temperature settings for different tasks.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant CreativeWriting as CW
+>   participant BalancingCoherence as BC
+>   ID->>ID: Low Temperature (Consistency)
+>   CW->>CW: Moderate to High Temperature (Creativity)
+>   BC->>BC: Iterative Refinement (Balance)
+> ```
 
 ## Core Explanation
 

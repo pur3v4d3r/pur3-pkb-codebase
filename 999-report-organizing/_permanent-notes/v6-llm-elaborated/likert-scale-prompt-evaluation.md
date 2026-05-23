@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Likert-Scale Evaluation Process**
+> *Follow the flow from input to output ratings.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Evaluator]
+>   B --> C[Ratings Scale]
+>   C --> D[Average Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — Likert-Scale vs Rubric-Based Evaluations**
+> *Compare the simplicity of Likert with detailed rubrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Likert Scale]
+>   B[Rubric-Based Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Likert-Scale vs Pairwise Preference Ratings**
+> *Compare Likert's absolute scores with pairwise comparisons.*
+>
+> ```mermaid
+> graph TD
+>   A[Likert Scale]
+>   B[Pairwise Preference]
+> ```
 
 ## Core Explanation
 

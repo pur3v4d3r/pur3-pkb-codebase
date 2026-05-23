@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — In-context Learning Process Overview**
+> *Follow the flow from demonstrations to task vector construction and output adjustment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Examples] --> B[Demonstrations]
+>   B --> C[Task Vector Construction]
+>   C --> D[Virtual Update Steps]
+>   D --> E[Output Adjustment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Linear Attention Mechanism in Transformers**
+> *Trace the path from input data to residual stream activations and task vector representation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Transformer Layers]
+>   B --> C[Residual Stream Activations]
+>   C --> D[Task Vector Representation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in LLMs**
+> *Compare the reflective process of task vector construction with reactive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Process] --> B(Task Vector Construction)
+>   C(Reactive Approach) --> D(Pre-existing Knowledge)
+>   B ---|Guides Performance| E(New Task Output)
+>   D -.-> F(Output Based on Pre-existing Knowledge)
+> ```
 
 ## Core Explanation
 

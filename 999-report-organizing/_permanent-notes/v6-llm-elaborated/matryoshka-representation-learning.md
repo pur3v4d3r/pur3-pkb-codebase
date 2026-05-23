@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hierarchical Embedding Structure**
+> *Follow the hierarchy from full to truncated embeddings.*
+>
+> ```mermaid
+> graph TD
+>   A["Full Embedding (2048)"] --> B["Truncated Embedding (1024)"]
+>   B --> C["Truncated Embedding (512)"]
+>   C --> D["Truncated Embedding (256)"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Training Checkpoints Overview**
+> *Identify the different dimensionality checkpoints during training.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[64 Dimensions]
+>   B --> C[128 Dimensions]
+>   C --> D[256 Dimensions]
+>   D --> E[512 Dimensions]
+>   E --> F[1024 Dimensions]
+>   F --> G[2048 Dimensions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance vs Dimensionality Trade-off**
+> *Observe the performance drop with decreasing embedding size.*
+>
+> ```mermaid
+> graph TD
+>   A["Full Embedding (2048)"] -->|1-5% Loss| B["Truncated Embedding (1024)"]
+>   B -->|1-3% Loss| C["Truncated Embedding (512)"]
+> ```
 
 # Matryoshka Representation Learning
 

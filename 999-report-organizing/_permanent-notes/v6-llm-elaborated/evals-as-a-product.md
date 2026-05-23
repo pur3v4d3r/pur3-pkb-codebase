@@ -67,8 +67,84 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Evaluation Framework Components**
+> *Identify the key components of a robust evaluation framework.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Development]
+>   B[Evaluation Suite]
+>   C[Feedback Loop]
+>   D[Version Control]
+>   E[Reproducibility]
+>   F[Safety & Capability]
+>   G[Test Cases]
+>   H[Quantitative Metrics]
+>   I[Qualitative Assessments]
+>   A -->|Parallel Development| B
+>   B -->|Continuous Feedback| C
+>   B -->|Version Control| D
+>   B -->|Reproducibility| E
+>   B -->|Safety & Capability| F
+>   B -->|Test Cases| G
+>   B -->|Quantitative Metrics| H
+>   B -->|Qualitative Assessments| I
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Process Flow**
+> *Follow the flow of an evaluation process from development to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Development]
+>   B[Evaluation Suite Setup]
+>   C[Test Cases Creation]
+>   D[Execution & Data Collection]
+>   E[Analysis & Feedback]
+>   F[Iterative Improvement]
+>   G[Deployment Decision]
+>   H[Continuous Monitoring]
+>   A -->|Parallel Evaluation| B
+>   B -->|Define Test Cases| C
+>   C -->|Execute Tests| D
+>   D -->|Analyze Results| E
+>   E -->|Provide Feedback| F
+>   F -->|Iterate Models| A
+>   F -->|Make Deployment Decision| G
+>   G -->|Monitor in Production| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation vs Ad-hoc Comparison**
+> *Compare the continuous and one-time evaluation approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Evals as a Product]
+>   B[Ad-hoc Evaluations]
+>   C[Dedicated Resources]
+>   D[Comprehensive Frameworks]
+>   E[Lifecycle Maintenance]
+>   F[One-Time Assessments]
+>   G[Risk of Overlooking Issues]
+>   H[Continuous Improvement]
+>   A -->|Dedicated Resources| C
+>   A -->|Comprehensive Frameworks| D
+>   A -->|Lifecycle Maintenance| E
+>   B -->|One-Time Assessments| F
+>   B -->|Risk of Overlooking| G
+>   A -->|Continuous Improvement| H
+> ```
 
 ## Core Explanation
 

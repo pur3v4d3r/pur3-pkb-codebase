@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Priming Process Flow**
+> *Follow the sequence from input to output, noting how priming influences text generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Input] --> B[Prompt Processing]
+>   B --> C[Internal Associations]
+>   C --> D[Text Generation]
+>   D --> E[Output Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare the two processing paths and observe how top-down influences text generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Bottom-Up]
+>   A --> C[Top-Down]
+>   B --> D[Immediate Analysis]
+>   C --> E[Prior Context]
+>   D --> F[Output]
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Priming Effects in Applications**
+> *Identify the applications and their corresponding priming effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Coherent Content]
+>   C[Content Moderation] --> D[Mitigate Harmful Content]
+>   E[Creative Writing] --> F[Consistent Tone]
+> ```
 
 ## Core Explanation
 

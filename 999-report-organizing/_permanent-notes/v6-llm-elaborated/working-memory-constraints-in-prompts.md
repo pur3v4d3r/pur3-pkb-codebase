@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positional Bias Overview**
+> *Identify the regions of highest and lowest information accessibility.*
+>
+> ```mermaid
+> graph TD
+>   A[Beginning] --> B[Middle]
+>   C[End] --> B
+>   B --> D[Loss in Middle]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Decay Pattern**
+> *Observe how attention decays over time within a prompt.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial --> Midpoint : Decaying Attention
+>   Midpoint --> End : Further Decay
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall Process**
+> *Compare the reliability of recognition and recall in LLMs.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   U->>M: Present Information with Cues
+>   alt Recognition
+>     M-->>U: Reliable Retrieval
+>   else Recall
+>     M-->>U: Unreliable Retrieval
+>   end
+> ```
 
 ## Core Explanation
 

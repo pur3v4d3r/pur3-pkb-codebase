@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — ICL Process Flow**
+> *Follow the sequence from prompt to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Demonstrations]
+>   B --> C[Model Inference]
+>   C --> D[Output Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — ICL vs Traditional Learning**
+> *Compare the key differences in learning paradigms.*
+>
+> ```mermaid
+> graph TD
+>   A[In-Context Learning] -->|No Parameter Update| B[Adapt Output]
+>   C[Traditional Learning] -->|Parameter Update| D[Retain Information]
+> ```
+
+
+> [!abstract] **Diagram 3 — ICL Application Scenarios**
+> *Identify the different application areas of ICL.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Dynamic Learning]
+>   C[Analogical Learning] --> D[Knowledge Transfer]
+> ```
 
 # In-Context Learning
 

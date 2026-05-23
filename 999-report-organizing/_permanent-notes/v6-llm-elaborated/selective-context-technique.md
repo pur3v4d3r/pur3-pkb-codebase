@@ -70,8 +70,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Selective Context Process Flow**
+> *Follow the steps from input to output, noting key filtering stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[Relevance Scoring]
+>   B --> C[Dependency Analysis]
+>   C --> D[Filtering Irrelevant Segments]
+>   D --> E[Output Relevant Context]
+> ```
+
+
+> [!abstract] **Diagram 2 — Selective vs Full-context Provision Comparison**
+> *Compare the two approaches in terms of context handling and model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Full-Context]
+>   B[Selective Context]
+>   C[Extraneous Information]
+>   D[Relevant Content]
+>   E[Model Performance]
+>   F[Attention Mechanism]
+>   G[Filtered Segments]
+>   H[Optimal Focus]
+>   A -->|Incorporates|C
+>   A -->|Overwhelms|E
+>   B -->|Filters Out|C
+>   B -->|Retains|D
+>   B -->|Ensures|H
+>   E -.-> F
+>   G -->|Improves|H
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Identify the applications where Selective Context Technique is most beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Document Summarization]
+>   C[Spaced Retrieval in MOOCs]
+>   D[Complex Reasoning Tasks]
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task-Oriented Dialogue Pipeline**
+> *Follow the flow from state tracking to response generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue State Tracking] --> B[Slot Filling]
+>   B --> C[Action Selection]
+>   C --> D[Natural Language Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Oriented vs Conversational AI**
+> *Compare the focus of task-oriented and conversational AI.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Oriented]
+>   B[Conversational]
+>   A -->|Efficiency| C[Complete Task]
+>   B -->|Engagement| D[Maintain Conversation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dialogue State Management Components**
+> *Identify the components involved in managing dialogue state.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Dialogue]
+>   B[Needed Information]
+>   C[Available Data]
+>   D[Next Steps]
+>   C -->|Decide| D
+> ```
 
 ## Core Explanation
 

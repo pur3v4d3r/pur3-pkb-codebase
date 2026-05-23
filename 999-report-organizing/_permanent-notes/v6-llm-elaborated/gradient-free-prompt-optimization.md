@@ -65,8 +65,40 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Gradient-Free Optimization Process Flow**
+> *Follow the iterative process from initial prompts to final optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Prompts] --> B[Evaluation]
+>   B --> C[Selection]
+>   C --> D[Refinement]
+>   D --> E[Iteration]
+>   E --> F[Optimized Prompt]
+> ```
+
+
+> [!abstract] **Diagram 2 — Techniques for Gradient-Free Optimization**
+> *Identify the key techniques used in gradient-free optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Genetic Algorithms] --> B[Mutation]
+>   A --> C[Crossover]
+>   A --> D[Selection]
+>   E[Bayesian Optimization] --> F[Prior Model]
+>   F --> G[Evaluation]
+>   G --> H[Update Prior]
+> ```
 
 # Gradient-Free Prompt Optimization
 

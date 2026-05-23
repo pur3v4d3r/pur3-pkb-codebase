@@ -66,8 +66,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Refine Process Flow**
+> *Follow the iterative refinement cycle from initial prompt to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Model Response]
+>   B --> C[Feedback Generation]
+>   C --> D[Output Refinement]
+>   D --> E[Iteration Check]
+>   E -->|Continue| A
+>   E -->|Stop| F[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Refine vs External Feedback**
+> *Compare Self-Refine with iterative refinement using external feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Prompt] --> B[Model Response]
+>   B --> C[Feedback Generation]
+>   C --> D[Output Refinement]
+>   D -->|Self-Refine| E[Iteration Check]
+>   E -->|Continue| A
+>   E -->|Stop| F[Final Output]
+>   G[Initial Prompt] --> H[Model Response]
+>   H --> I[External Feedback]
+>   I --> J[Output Refinement]
+>   J --> K[Iteration Check]
+>   K -->|Continue| G
+>   K -->|Stop| L[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the difference between reflective and reactive thinking processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Input] --> B[Immediate Response]
+>   style B fill:#f96,stroke:#333,stroke-width:4px
+>   C[Reflective Thinking] --> D[Internal Evaluation]
+>   D --> E[Refined Output]
+>   style C fill:#6f9,stroke:#333,stroke-width:4px
+> ```
 
 ## Core Explanation
 

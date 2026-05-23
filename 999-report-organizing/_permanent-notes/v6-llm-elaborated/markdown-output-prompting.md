@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Markdown Output Prompting Process Flow**
+> *Follow the flow from input to structured markdown output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[LLM Processing]
+>   B --> C[Structured Markdown Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Markdown Structure Guidance in Prompts**
+> *Identify the key structural elements specified in markdown prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Heading Levels] --> B[List Usage]
+>   B --> C[Code Blocks]
+>   A --> D[Bold Text]
+>   A --> E[Tables]
+> ```
+
+
+> [!abstract] **Diagram 3 — Markdown Output vs Plain Text Comparison**
+> *Compare the benefits of markdown output over plain text.*
+>
+> ```mermaid
+> graph TD
+>   A[Plain Text] --> B[Readability]
+>   C[Markdown Output] --> D[Structure]
+>   E[Convertibility] --> F[Formats]
+> ```
 
 ## Core Explanation
 

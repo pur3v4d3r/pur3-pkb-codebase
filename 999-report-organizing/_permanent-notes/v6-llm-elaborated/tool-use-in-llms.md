@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tool Use Process Flow**
+> *Follow the flow from input to tool invocation and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Prompt Generation]
+>   B --> C[Tool Invocation]
+>   C --> D[Tool Response]
+>   D --> E[Integration into Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the two thinking styles in LLM operations.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Reactive]
+>   A --> C[Reflective]
+>   B --> D[Immediate Response]
+>   C --> E[Plan and Reason]
+>   E --> F[Invoke Tool if Needed]
+> ```
+
+
+> [!abstract] **Diagram 3 — Tool Use vs Pure Generation**
+> *Compare the two approaches in LLM output generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Pure Generation] --> B[Internal Knowledge]
+>   C[Tool Use] --> D[External Tools]
+>   B --> E[Output]
+>   D --> F[Enhanced Output]
+> ```
 
 ## Core Explanation
 

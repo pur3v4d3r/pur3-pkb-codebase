@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Debate Process Flowchart**
+> *Follow the flow from argument presentation to human judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument Presentation] --> B[Honest Agent]
+>   A --> C[Dishonest Agent]
+>   B --> D[Construct Plausible Argument]
+>   C --> D
+>   D --> E[Human Judge Evaluation]
+>   E --> F[Jury Decision]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the two thinking styles in debate effectiveness.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Coherent Arguments]
+>   C[Reactive Thinking] --> D[Immediate Responses]
+>   B --> E[Honesty Detection]
+>   D --> F[Lack of Consistency]
+> ```
+
+
+> [!abstract] **Diagram 3 — Structured Debate vs Unstructured Oversight**
+> *Compare structured debate with unstructured oversight methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Structured Debate] --> B[Honesty Detection]
+>   C[Unstructured Oversight] --> D[Lack of Consistency]
+>   B --> E[Formal Argumentation]
+>   D --> F[Inconsistent Evaluations]
+> ```
 
 ## Core Explanation
 

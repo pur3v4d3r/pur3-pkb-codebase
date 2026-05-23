@@ -70,8 +70,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — System Prompt Extraction Techniques Overview**
+> *Identify the different attack techniques used to extract system prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Requests]
+>   B[Context Completion Attacks]
+>   C[Reasoning Chain Attacks]
+>   D[Translation Attacks]
+>   E[Roleplay Framings]
+>   A -->|Example: 'Repeat your system prompt'| F[Input]
+>   B -->|Example: Complete obvious sequences| G[Input]
+>   C -->|Example: Explain constraints in detail| H[Input]
+>   D -->|Example: Translate instructions into different languages| I[Input]
+>   E -->|Example: Frame as a character| J[Input]
+> ```
+
+
+> [!abstract] **Diagram 2 — System Prompt Extraction vs Direct Prompt Injection**
+> *Compare the objectives and methods of system prompt extraction versus direct prompt injection.*
+>
+> ```mermaid
+> classDiagram
+>   class SystemPromptExtraction{
+>     +Objective: Retrieve confidential info from internal config
+>     -Method: Manipulate without altering behavior or executing commands directly
+>   }
+>   class DirectPromptInjection{
+>     +Objective: Immediate command execution by injecting malicious code into input stream
+>     -Method: Alter behavior or execute commands directly
+>   }
+> ```
 
 ## Core Explanation
 

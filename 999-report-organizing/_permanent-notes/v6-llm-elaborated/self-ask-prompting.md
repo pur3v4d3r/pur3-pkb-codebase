@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Ask Prompting Process Flow**
+> *Follow the sequence from initial query to final synthesis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Query] --> B[Generate Follow-Up Questions]
+>   B --> C[Answer Each Question Sequentially]
+>   C --> D[Synthesize Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Ask vs Chain-of-Thought Comparison**
+> *Compare the externalized and internalized reasoning processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Ask Prompting] --> B[Externalize Question Decomposition]
+>   C[Chain-of-Thought Prompting] --> D[Internalize Question Decomposition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective Thinking Process**
+> *Trace the reflective thinking cycle from question generation to final response.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> GenerateQuestions
+>   GenerateQuestions --> AnswerQuestions
+>   AnswerQuestions --> SynthesizeResponse
+>   SynthesizeResponse --> [*]
+> ```
 
 ## Core Explanation
 

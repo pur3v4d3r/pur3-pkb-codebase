@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Tuning Process Flow**
+> *Follow the flow from initialization to optimization of soft prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialize Soft Prompts] --> B[Prepend to Input]
+>   B --> C[Predict Outputs]
+>   C --> D[Calculate Loss]
+>   D --> E[Backpropagate Gradients]
+>   E --> F[Adjust Embeddings]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Tuning vs Full Fine-Tuning**
+> *Compare the resource usage and performance of Prompt Tuning versus full fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Model Fine-Tuning] -->|High Resource Usage| B[High Performance]
+>   C[Prompt Tuning] -->|Low Resource Usage| D[Competitive Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Tuning Applications**
+> *Identify the different applications where Prompt Tuning can be effectively used.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chart Reasoning Process Flow**
+> *Follow the steps from visual interpretation to quantitative analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Visual Interpretation] --> B[Identify Structure]
+>   B --> C[Extract Data Points]
+>   C --> D[Quantitative Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Common Chart Types and Challenges**
+> *Notice the challenges associated with each chart type.*
+>
+> ```mermaid
+> graph TD
+>   A(Logarithmic Scale) -->|Misreading Scales| B[Dual-Axis Charts]
+>   B -->|Confusing Axes| C(Stacked Bar Charts)
+>   C -->|Misinterpreting Values| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning Skills Integration**
+> *Identify the skills required for accurate chart and table reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A(Spatial Awareness) --> B(Numerical Cognition)
+>   B --> C(Contextual Sensitivity)
+> ```
 
 # Chart and Table Reasoning
 

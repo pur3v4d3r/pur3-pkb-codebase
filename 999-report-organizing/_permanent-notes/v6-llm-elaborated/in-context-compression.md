@@ -68,8 +68,79 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — In-Context Compression Process Flow**
+> *Follow the flow from input analysis to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context/Prompt]
+>   B[Analysis of Critical Elements]
+>   C{Learned or Extractive}
+>   D1[Train Model for Learned Compression]
+>   D2[Select Informative Tokens]
+>   E[Generate Compact Representation]
+>   F[Use as Input Prefix]
+>   G[Output Generation]
+>   A --> B
+>   B -->|Critical Elements Identified| C
+>   C -->|Learned| D1
+>   C -->|Extractive| D2
+>   D1 --> E
+>   D2 --> E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Learned vs Extractive Compression**
+> *Compare the compression ratios and performance for both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Learned Compression]
+>   B{High Compression Ratio}
+>   C{Maintain Task Performance}
+>   D[Extractive Compression]
+>   E{Lower Compression Ratio}
+>   F{Preserve Specific Information}
+>   A -->|Training on Large Datasets| B
+>   A -->|Joint Training with Generation Model| C
+>   D -->|Select Informative Tokens Directly| E
+>   D -->|Task-Specific Information Retained| F
+> ```
+
+
+> [!abstract] **Diagram 3 — In-Context Compression Mechanism Overview**
+> *Trace the steps from context analysis to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context/Prompt]
+>   B[Analysis of Critical Elements]
+>   C{Learned or Extractive}
+>   D1[Train Model for Learned Compression]
+>   D2[Select Informative Tokens]
+>   E[Generate Compact Representation]
+>   F[Use as Input Prefix]
+>   G[Output Generation]
+>   A --> B
+>   B -->|Critical Elements Identified| C
+>   C -->|Learned| D1
+>   C -->|Extractive| D2
+>   D1 --> E
+>   D2 --> E
+>   E --> F
+>   F --> G
+> ```
 
 ## Core Explanation
 

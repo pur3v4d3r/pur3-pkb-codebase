@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-RAG Decision Flow**
+> *Follow the decision-making process from Retrieve to ISUSE.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieve] --> B(ISREL)
+>   B --> C(ISSUP)
+>   C --> D(ISUSE)
+> ```
+
+
+> [!abstract] **Diagram 2 — Selective vs Fixed Retrieval**
+> *Compare the decision paths for selective and fixed retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed] --> B(Always Retrieve)
+>   C[Selective] --> D(Retrieve if Necessary)
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-RAG Mechanism Overview**
+> *Trace the sequence of tokens generated during Self-RAG process.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Retrieve as R
+>   participant ISREL as I1
+>   participant ISSUP as I2
+>   participant ISUSE as I3
+>   M->>R: Generate Retrieve token
+>   R->>I1: Evaluate relevance
+>   I1->>I2: Ensure correct use of retrieved content
+>   I2->>I3: Assess overall usefulness
+> ```
 
 ## Core Explanation
 

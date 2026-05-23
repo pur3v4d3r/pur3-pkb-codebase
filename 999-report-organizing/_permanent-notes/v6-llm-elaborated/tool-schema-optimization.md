@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tool Schema Optimization Process Flow**
+> *Follow the iterative steps from schema refinement to testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Refine Schema Fields]
+>   B --> C[A/B Test Phrasings]
+>   C --> D[Ablation Studies]
+>   D --> E[Test Impact on Accuracy]
+>   E --> F[Iterate Based on Feedback]
+>   F --> G[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Design Techniques Overview**
+> *Identify the various techniques used in schema optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Ablation Studies]
+>   A --> C[A/B Testing]
+>   A --> D[Few-Shot Examples]
+>   A --> E[Consolidate Functions]
+>   A --> F[Order Tools]
+> ```
+
+
+> [!abstract] **Diagram 3 — Tool Schema Optimization vs General Prompt Engineering**
+> *Compare the focus areas of Tool Schema Optimization and general prompt engineering.*
+>
+> ```mermaid
+> graph TD
+>   A[General Prompt Engineering]
+>   B[Tool Schema Optimization]
+>   B -->|Ablation Studies, A/B Testing]
+> ```
 
 ## Core Explanation
 

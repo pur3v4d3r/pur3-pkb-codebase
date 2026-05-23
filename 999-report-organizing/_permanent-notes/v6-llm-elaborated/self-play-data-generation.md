@@ -68,8 +68,87 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Play Iteration Process**
+> *Follow the arrows to see how data is generated and refined.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Initial Set]
+>   B[Attempt Answer/Prompt]
+>   C[Successful Responses]
+>   D[Unsuccessful Responses]
+>   E[Improve Model]
+>   F[Satisfactory Performance?]
+>   G[Continue Iteration]
+>   H[End Process]
+> 
+>   A -->|Generate Questions/Prompts| B
+>   B -->|Success| C
+>   C -->|Use as Training Data| E
+>   E -->|Improve Model| A
+>   B -->|Failure| D
+>   D -->|Highlight Weaknesses| G
+>   F -->|Yes| H
+>   F -->|No| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Play Data Generation Workflow**
+> *Trace the flow from initial generation to final training data.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Model]
+>   B[Generate Questions/Prompts]
+>   C[Try Answers/Responses]
+>   D[Evaluate Success/Failure]
+>   E[Successful Responses]
+>   F[Unsuccessful Responses]
+>   G[Refine Model]
+>   H[New Training Data]
+> 
+>   A -->|Current Capabilities| B
+>   B -->|Generate Questions/Prompts| C
+>   C --> D
+>   D -->|Success| E
+>   E -->|Training Data| H
+>   D -->|Failure| F
+>   F --> G
+>   G --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Play Application in Instructional Design**
+> *See how self-play adapts learning materials to student performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Student Performance]
+>   B[Generate Questions/Prompts]
+>   C[Try Answers/Responses]
+>   D[Evaluate Success/Failure]
+>   E[Adjust Difficulty Level]
+>   F[Provide Feedback]
+>   G[Optimal Challenge]
+> 
+>   A -->|Current Skill Level| B
+>   B -->|Generate Questions/Prompts| C
+>   C --> D
+>   D -->|Success| E
+>   E -->|Increase Difficulty| F
+>   D -->|Failure| E
+>   E -->|Decrease Difficulty| F
+>   F --> G
+> ```
 
 ## Core Explanation
 

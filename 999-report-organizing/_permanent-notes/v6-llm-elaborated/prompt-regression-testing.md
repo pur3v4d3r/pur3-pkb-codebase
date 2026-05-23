@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Regression Testing Process Flow**
+> *Follow the flow from prompt changes to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Changes in Prompt or Model] --> B[Test Suite]
+>   B --> C[Evaluation Against Baseline]
+>   C --> D[Identify Regressions]
+>   D --> E[Address Issues]
+>   E --> F[Deploy if No Regression]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Testing Metrics Comparison**
+> *Compare different quality metrics used in testing.*
+>
+> ```mermaid
+> graph TD
+>   A[Precision] --> B[Factual Score]
+>   C[Preference Win Rate] --> D[Baseline]
+>   E[A/B Test Results] --> F[Type I/II Errors]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Regression Testing vs Other Methods**
+> *Compare Prompt Regression Testing with other testing methods.*
+>
+> ```mermaid
+> classDiagram
+>   class PromptRegressionTesting {
+>     +Evaluate Quality Against Baseline
+>     +Maintain Model Integrity Over Time
+>   }
+>   class GeneralSoftwareRegressionTesting {
+>     +System Integration and Functionality
+>   }
+>   class ABTesting {
+>     +Compare User Preferences
+>   }
+>   PromptRegressionTesting --> GeneralSoftwareRegressionTesting
+>   PromptRegressionTesting ..> ABTesting : Not Comparable
+> ```
 
 ## Core Explanation
 

@@ -69,8 +69,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GRPO Training Process Overview**
+> *Follow the flow from sampling to parameter update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sample Completions] --> B[Evaluate Rewards]
+>   B --> C[Normalize Advantages]
+>   C --> D[Update Parameters]
+> ```
+
+
+> [!abstract] **Diagram 2 — Advantage Calculation in GRPO**
+> *See how normalized advantages are computed from rewards.*
+>
+> ```mermaid
+> graph TD
+>   A[Reward_i] -->|Subtract Mean Reward| B[Normalized Advantage]
+>   C[Mean Reward of Group] --> B
+>   D[Std Deviation of Rewards] --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Traditional PPO**
+> *Compare GRPO's value-free approach to traditional PPO.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant ValueFunction as V
+>   participant ExternalReward as E
+>   U->>M: Sample Completions
+>   alt GRPO
+>     M->>E: Evaluate Rewards
+>     M->>M: Normalize Advantages
+>     M->>M: Update Parameters
+>   else PPO
+>     M->>V: Estimate Value
+>     V->>M: Compute Advantage
+>     E->>M: Evaluate Rewards
+>     M->>M: Update Parameters
+>   end
+> ```
 
 ## Core Explanation
 

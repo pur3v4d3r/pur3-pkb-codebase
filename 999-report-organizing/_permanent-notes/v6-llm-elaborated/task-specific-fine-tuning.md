@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task-Specific Fine-Tuning Process**
+> *Follow the flow from pre-trained model to task-specific fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pre-Trained Model] --> B[Select Task]
+>   B --> C[Collect Data]
+>   C --> D[Label Data]
+>   D --> E[Fine-Tune Model]
+>   E --> F[Test Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Specific vs Instruction Fine-Tuning**
+> *Compare the focus of task-specific fine-tuning and instruction fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Specific Fine-Tuning] --> B[High Performance on Specific Task]
+>   C/InstructionFineTuning --> D[Improved Ability to Follow Instructions Across Tasks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task-Specific vs Domain Adaptation**
+> *Compare the focus of task-specific fine-tuning and domain adaptation.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Specific Fine-Tuning] --> B[Precise Performance on Defined Benchmark]
+>   C/DomainAdaptation --> D[Different Contexts Within Same Task Type]
+> ```
 
 ## Core Explanation
 

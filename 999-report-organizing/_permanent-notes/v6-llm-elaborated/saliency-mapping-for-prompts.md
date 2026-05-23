@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Saliency Mapping Process Flow**
+> *Follow the flow from input to output gradients.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Tokens] --> B[Embedding]
+>   B --> C[Model Processing]
+>   C --> D[Output Gradients]
+>   D --> E[Saliency Scores]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Importance Aggregation**
+> *Identify how gradients are aggregated to produce importance scores.*
+>
+> ```mermaid
+> graph TD
+>   A[Gradient w.r.t Token1] -->|Aggregation| F[Saliency Score]
+>   B[Gradient w.r.t Token2] -->|Aggregation| F
+>   C[Gradient w.r.t Token3] -->|Aggregation| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Debugging Workflow**
+> *See how saliency maps help in identifying and fixing issues.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Debugger as D
+>   U->>M: Input Prompt
+>   M-->>U: Output Response
+>   U->>D: Analyze Saliency Map
+>   D->>U: Identify Problematic Tokens
+>   U->>M: Adjust Prompt
+> ```
 
 ## Core Explanation
 

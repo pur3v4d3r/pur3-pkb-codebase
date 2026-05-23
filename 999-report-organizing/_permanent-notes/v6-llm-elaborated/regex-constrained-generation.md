@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Regex-constrained Generation Process Flow**
+> *Follow the flow from input regex to valid output text.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Regex] --> B[Compile FSA]
+>   B --> C[Token Sampling]
+>   C --> D[Check Validity]
+>   D -->|Valid| E[Output Text]
+>   D -->|Invalid| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Regex-constrained vs CFG-based Constraints Comparison**
+> *Compare the complexity and application of both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Regex-constrained]
+>   B[CFG-based]
+>   A -->|Simple, Efficient| C[Surface Form Patterns]
+>   B -->|Complex, Analytical| D[Context-sensitive Structures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token Sampling with FSA Validation**
+> *Track the token sampling process guided by the FSA.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Sample Token]
+>   B -->|Valid State| C[Next Token]
+>   C --> D[Check Validity]
+>   D -->|Continue| E[End]
+>   D -->|Invalid| B
+> ```
 
 ## Core Explanation
 

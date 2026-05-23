@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Play Fine-Tuning Process Flow**
+> *Follow the iterative cycle from generation to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Text] --> B[Evaluate Against Human]
+>   B --> C[Refine Output Quality]
+>   C --> D[Iterate]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Feedback Mechanisms**
+> *Compare SPIN's self-generated feedback with supervised learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Learning] --> B[Human-Labeled Data]
+>   C(Self-Play Fine-Tuning) --> D[Synthetic Data Generated]
+>   B -->|Feedback| E[Model Improvement]
+>   D -->|Feedback| F[Model Improvement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Models**
+> *Identify the iterative refinement in SPIN versus immediate response.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive] --> B[Immediate Response]
+>   C[Reflective] --> D[Evaluate Own Output]
+>   D --> E[Iterative Improvement]
+> ```
 
 ## Core Explanation
 

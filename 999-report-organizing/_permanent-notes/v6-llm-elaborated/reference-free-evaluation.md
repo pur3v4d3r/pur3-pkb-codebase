@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reference-Free Evaluation Mechanisms**
+> *Identify the different mechanisms used for reference-free evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[LLM-as-Judge]
+>   B[Quality Estimation Models]
+>   C[Checklist-Based Verification]
+>   A -->|Evaluates Output Based on Criteria| D[Intrinsic Quality Assessment]
+>   B -->|Trained on Human Judgments Without References| D
+>   C -->|Verifies Against Predefined Checklist| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Evaluation Methods**
+> *Compare reference-free and reference-based evaluation methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Reference-Free]
+>   B[Reference-Based]
+>   A -->|Focuses on Intrinsic Merit| C[Semantic Adequacy]
+>   B -->|Depends on Surface Form Overlap| D[Simplistic Comparison]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Reference-Free Evaluation**
+> *Understand the practical applications in different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Creative Writing]
+>   B[Medical Analysis]
+>   C[Workshops]
+>   A -->|Multiple Valid Outputs, No Gold Standard| E[Fairer Assessment]
+>   B -->|Expensive and Time-Consuming References| F[Cost-Effective Assessments]
+>   C -->|Human Judgments Training| G[Nuanced Critiques]
+> ```
 
 ## Core Explanation
 

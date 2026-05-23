@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dense Retrieval Process Flow**
+> *Follow the flow from query to document retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Encode Query]
+>   C[Document Collection] --> D[Encode Documents]
+>   E[Index Documents]
+>   F[Search Index]
+>   G[Retrieve Relevant Docs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dense Retrieval vs Sparse Retrieval Comparison**
+> *Compare the two methods based on their retrieval criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Dense Retrieval] -->|Semantic Similarity| B[Contextual Relevance]
+>   C[Sparse Retrieval] -->|Exact Term Matches| D[Nuanced Relationships]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dense Retrieval Mechanism Overview**
+> *Trace the steps from query to document retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Neural Encoder]
+>   B --> C[Dense Vector]
+>   D[Index Database]
+>   E[Search Query]
+>   F[Retrieve Documents]
+> ```
 
 ## Core Explanation
 

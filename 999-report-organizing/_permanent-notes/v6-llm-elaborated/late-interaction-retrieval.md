@@ -68,8 +68,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token-Level Interaction Process**
+> *Follow the flow from query encoding to document matching.*
+>
+> ```mermaid
+> graph TD
+>   A[Query Tokenization]
+>   B[Document Tokenization]
+>   C[Embedding Generation]
+>   D[MaxSim Aggregation]
+>   E[Relevance Scoring]
+>   A -->|Encode Query Tokens| F
+>   B -->|Encode Doc Tokens| G
+>   F -->|Generate Embeddings| H
+>   G -->|Generate Embeddings| I
+>   H --> C
+>   I --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Cross-Encoder Reranking**
+> *Compare the latency and accuracy of both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Cross-Encoder]
+>   B[Late Interaction Retrieval]
+>   C[Near-Cross Encoder Accuracy]
+>   D[Faster Latency]
+>   E[High Precision]
+>   F[Scalable for Real-Time]
+>   A -->|Joint Encoding| C
+>   A -->|Prohibitive Latency| G
+>   B -->|Token-Level Matching| H
+>   B -->|Near-Cross Encoder Accuracy| I
+>   B -->|Faster Latency| J
+>   B -->|Scalable for Real-Time| K
+>   G --> E
+>   H --> E
+>   C --> D
+>   I --> D
+>   F --> J
+>   K --> J
+> ```
+
+
+> [!abstract] **Diagram 3 — Token-Level Matching Mechanism**
+> *Trace the interaction between query and document tokens.*
+>
+> ```mermaid
+> graph TD
+>   A[Query Token]
+>   B[Document Token]
+>   C[Similarity Score]
+>   D[MaxSim Aggregation]
+>   E[Relevance Score]
+>   A -->|Compute Similarity| C
+>   B -->|Compute Similarity| C
+>   C --> D
+>   D --> E
+> ```
 
 ## Core Explanation
 

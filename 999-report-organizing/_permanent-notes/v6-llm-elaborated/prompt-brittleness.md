@@ -68,8 +68,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Brittleness Mechanism**
+> *Follow the flow from training to prompt development and performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[LLM Training]
+>   C[Prompt Development]
+>   D[Brittleness]
+>   E[Performance]
+>   A --> B
+>   B -->|Learn Patterns| C
+>   C -->|Fine-Tuning| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Surface vs Deep Processing**
+> *Compare surface and deep processing in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Patterns]
+>   B[Deep Semantics]
+>   C[Brittleness]
+>   D[Robustness]
+>   A -->|High Performance on Specific Phrasings| C
+>   B -->|Consistent Across Variants| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Robustness Evaluation**
+> *Follow the steps to evaluate prompt robustness.*
+>
+> ```mermaid
+> graph TD
+>   A[Develop Prompt]
+>   B[Test on Paraphrases]
+>   C[Evaluate Performance]
+>   D[Assess Robustness]
+>   A --> B
+>   B -->|Across Variants| C
+>   C --> D
+> ```
 
 ## Core Explanation
 

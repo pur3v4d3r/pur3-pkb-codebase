@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — DPO vs RLHF Process Flow**
+> *Compare the simplified DPO process with complex RLHF.*
+>
+> ```mermaid
+> flowchart TD
+>   A[Collect Preference Data] --> B[Fine-Tune Model]
+>   B --> C[Evaluate Output]
+>   C --> D[Adjust Based on Preferences]
+>   D --> E[Optimize]
+>   E --> F[Deploy]
+>   G[Train Reward Model] --> H[Policy Gradient Updates]
+>   H --> I[Online Reinforcement Learning]
+>   I --> J[Deploy]
+> ```
+
+
+> [!abstract] **Diagram 2 — DPO Mechanism Overview**
+> *Understand how DPO uses preference data for optimization.*
+>
+> ```mermaid
+> graph TD
+>   A[Preferred Responses] --> B[Increase Log-Probability]
+>   C[Dispreferred Responses] --> B
+>   B --> D[Supervised Cross-Entropy Loss]
+>   D --> E[Adjust Model Outputs]
+> ```
+
+
+> [!abstract] **Diagram 3 — DPO Application Areas**
+> *See the diverse applications of DPO in real-world scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Fine-Tune AI Systems]
+>   C[Customer Service Chatbots] --> D[Improve Interaction Quality]
+>   E[Enhanced Personalized Tutoring] --> F[Refine Responses Based on Feedback]
+> ```
 
 # Direct Preference Optimization
 

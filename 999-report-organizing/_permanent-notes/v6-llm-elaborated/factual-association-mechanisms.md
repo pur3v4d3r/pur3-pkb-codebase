@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Two-stage retrieval pattern**
+> *Follow the flow from subject token to final factual completion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Subject Token] --> B[Middle-layer MLP]
+>   B --> C[Late-position Attention Head]
+>   C --> D[Final Factual Completion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Factual recall pathway**
+> *Trace the computational pathway from query to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Middle-layer MLP]
+>   B --> C[Late-position Attention Head]
+>   C --> D[Factual Completion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional design strategy**
+> *Identify key components for effective instructional prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Subject Token] --> B[Middle-layer MLP]
+>   C[Late-position Attention Head] --> D[Factual Completion]
+>   E[Effective Prompts] --> F[Awareness of Retrieval Patterns]
+> ```
 
 ## Core Explanation
 

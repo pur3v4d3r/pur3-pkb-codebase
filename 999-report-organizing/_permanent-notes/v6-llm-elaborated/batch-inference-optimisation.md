@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Batch Inference Optimization Flow**
+> *Follow the flow from request arrival to batch processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Request Arrival] --> B[Queue]
+>   B --> C[Determine Batch Size]
+>   C --> D[Batch Processing]
+>   D --> E[Response Delivery]
+> ```
+
+
+> [!abstract] **Diagram 2 — Static vs Continuous Batching Comparison**
+> *Compare the static and continuous batching approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Batching] -->|Fixed Batch Size| B[Inefficient Utilization]
+>   C[Continuous Batching] -->|Dynamic Adjustment| D[Efficient Utilization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Batch Inference Optimization Mechanism**
+> *Trace the mechanism of continuous batching from monitoring to processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor Requests] --> B[Determine Batch Size]
+>   B --> C[Adjust Batch Size]
+>   C --> D[Batch Processing]
+>   D --> E[Deliver Responses]
+> ```
 
 ## Core Explanation
 

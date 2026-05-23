@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Representativeness Heuristic Process Flow**
+> *Follow the flow from input to output, noting where prototypes influence classification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Prototype Matching]
+>   B --> C[Evaluation]
+>   C --> D[Classification]
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Prototype Matching vs Bayesian Reasoning**
+> *Compare the two reasoning methods and their outcomes in probabilistic scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Prototype Matching] --> B[Confident Classification]
+>   C[Bayesian Reasoning] --> D[Probabilistic Updating]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Decision-Making Bias in Applications**
+> *Identify how representativeness heuristic affects different application areas.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Medical Diagnosis] --> B[Misclassification]
+>   C[Legal Decision-Making] --> D[Biased Judgments]
+>   E[Security Classification] --> F[Fraud Detection Errors]
+> ```
 
 ## Core Explanation
 

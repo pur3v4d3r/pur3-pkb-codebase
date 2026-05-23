@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Superposition Hypothesis Overview**
+> *Follow the flow from high-dimensional space to feature encoding.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Dimensional Space] --> B[Nearly-Orthogonal Directions]
+>   B --> C[Feature Encoding]
+>   C --> D[Interference Between Features]
+> ```
+
+
+> [!abstract] **Diagram 2 — Distributed vs Local Representations**
+> *Compare the two representation types and their implications.*
+>
+> ```mermaid
+> classDiagram
+>   class Distributed {
+>     +SpreadFeaturesAcrossNeurons()
+>     +RobustnessAgainstDamage()
+>     -ComplexInterpretability()
+>   }
+>   class LocalSymbolic {
+>     +OneNeuronPerConcept()
+>     +SimplifiedInterpretation()
+>     -ReducedRepresentationalCapacity()
+>   }
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Examine the differences between surface and deep processing approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[SuperficialAnalysis] --> B[OverlooksInterplay]
+>   C[ThoroughExamination] --> D[CapturesComplexity]
+>   A -.-> E[SurfaceProcessing]
+>   C -.-> F[DeepProcessing]
+> ```
 
 ## Core Explanation
 

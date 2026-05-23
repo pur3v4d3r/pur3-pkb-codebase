@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Counterfactual Reasoning Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Scenario] --> B[Alter Facts]
+>   B --> C[Evaluate Consequences]
+>   C --> D[Generate Counterfactuals]
+> ```
+
+
+> [!abstract] **Diagram 2 — Causal vs Correlational Knowledge Comparison**
+> *Compare the outputs of causal and correlational models in response to counterfactual prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Scenario] --> B[Causal Model]
+>   A --> C[Correlational Model]
+>   B --> D[Deep Understanding]
+>   C --> E[Near-Minimal Changes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Contrast**
+> *Identify the differences in thinking styles between reflective and reactive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Counterfactual Prompt] --> B[Reflective Model]
+>   A --> C[Reactive Model]
+>   B --> D[Hypothetical Scenarios]
+>   C --> E[Immediate Responses]
+> ```
 
 ## Core Explanation
 

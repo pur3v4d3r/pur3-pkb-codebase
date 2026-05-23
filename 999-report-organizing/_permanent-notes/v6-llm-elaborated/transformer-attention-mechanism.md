@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Transformer Attention Flowchart**
+> *Follow the sequence from Query to Weighted Sum.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Key]
+>   B --> C[Dot Product]
+>   C --> D[Weight]
+>   D --> E[Value]
+>   E --> F[Weighted Sum]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Interaction Diagram**
+> *Observe how each token interacts with all others.*
+>
+> ```mermaid
+> graph TD
+>   A[Token1] -->|Query| B[Token2]
+>   C[Token3] -->|Query| D[Token4]
+>   E[Token5] -->|Query| F[Token6]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Compare the influence of global context and individual tokens.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant GlobalContext as GC
+>   participant Token1 as T1
+>   participant Token2 as T2
+>   GC->>T1: Influences Representation
+>   T1->>GC: Contributes to Sequence
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Follow-Up Question Generation Process Flow**
+> *Identify the steps from user input to follow-up question generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Context Analysis]
+>   B --> C[Intent Inference]
+>   C --> D[Question Generation]
+>   D --> E[Output Follow-Up Question]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking in FQG**
+> *Compare reflective and reactive thinking approaches in follow-up question generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Understanding] --> B(Reactive)
+>   C[Deep Contextual Analysis] --> D(Reflective)
+> ```
+
+
+> [!abstract] **Diagram 3 — User Intent vs Generic Topical Questions**
+> *Distinguish between user intent and generic topical follow-up questions.*
+>
+> ```mermaid
+> graph TD
+>   A[Generic Question] --> B(No User Specificity)
+>   C[Intent-Based Question] --> D(User Specific)
+> ```
 
 ## Core Explanation
 

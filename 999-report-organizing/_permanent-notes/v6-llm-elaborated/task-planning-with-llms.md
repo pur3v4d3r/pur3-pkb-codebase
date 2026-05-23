@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Planning Process Flow**
+> *Follow the sequence from goal to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Level Goal] --> B[Plan Generation]
+>   B --> C[Subtask Mapping]
+>   C --> D[Execution & Monitoring]
+>   D --> E[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 2 — One-Shot vs Incremental Replanning**
+> *Compare the two approaches to plan generation.*
+>
+> ```mermaid
+> graph TD
+>   A[One-Shot Plan Generation] --> B[Initial Sequence]
+>   B --> C[No Further Adjustments]
+>   D[Incremental Replanning] --> E[Continuous Updates]
+>   E --> F[Avoid Infinite Loops]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the contrasting approaches to task planning.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Goal] --> B[Break Down Subtasks]
+>   C[Specific Tasks/Data Points] --> D[Emerge Plan]
+>   B --> E[Top-Down Approach]
+>   D --> F[Bottom-Up Approach]
+> ```
 
 ## Core Explanation
 

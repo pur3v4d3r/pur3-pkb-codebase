@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Head Pruning Process Flow**
+> *Follow the steps from identifying heads to pruning them.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Heads]
+>   B[Assess Contribution]
+>   C[Select Heads for Removal]
+>   D[Apply Pruning Method]
+>   E[Test Performance]
+>   F[Optimize Model]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Head Importance Distribution**
+> *Notice the heavy-tailed distribution of head importance.*
+>
+> ```mermaid
+> graph TD
+>   A[Critical Heads]
+>   B[Less Important Heads]
+>   C[Irrelevant Heads]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pruning Methods Comparison**
+> *Compare the different methods of head pruning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HardAblation as HA
+>   participant StructuredPruning as SP
+>   participant SoftPruning as SO
+>   HA->>Model: Zero Out Head Output
+>   SP->>Model: Remove Parameters
+>   SO->>Model: Apply Learned Masks
+> ```
 
 ## Core Explanation
 

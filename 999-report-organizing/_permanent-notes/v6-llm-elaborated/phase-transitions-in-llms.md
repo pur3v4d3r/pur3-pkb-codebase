@@ -70,8 +70,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Phase Transition Overview**
+> *Follow the flow from gradual to abrupt changes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gradual Improvement] --> B[Threshold]
+>   B --> C[Abrupt Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Phase Transition Factors**
+> *Identify the factors influencing phase transitions.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Size] --> D[Threshold]
+>   B[Training Data Quality] --> D
+>   C[Architecture Design] --> D
+>   E[Learning Dynamics] --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Incremental vs Abrupt Learning**
+> *Compare the two learning paradigms.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Incremental as I
+>   participant Abrupt as A
+>   I->>I: Steady Improvement
+>   opt Threshold Reached
+>     I-->>A: Sudden Qualitative Shift
+>   end
+> ```
 
 ## Core Explanation
 

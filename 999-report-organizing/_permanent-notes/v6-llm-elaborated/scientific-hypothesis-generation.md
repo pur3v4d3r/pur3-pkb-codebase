@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hypothesis Generation Process Flow**
+> *Follow the steps from prompt to hypothesis generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Provide Prompt] --> B[LLM Processing]
+>   B --> C[Hypotheses Generated]
+>   C --> D[Systematic Check]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cross-Domain Knowledge Synthesis**
+> *Identify connections between different scientific domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Genetics] --> B[Computational Theory]
+>   C[Nanotechnology] --> D[Neuroscience]
+>   E[AI Ethics] --> F[Cognitive Science]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM vs Human Hypothesis Generation**
+> *Compare the breadth of knowledge used by LLMs and humans.*
+>
+> ```mermaid
+> classDiagram
+>   class LLMS {
+>     +CrossDomainSynthesis()
+>     +BroadTrainingData()
+>   }
+>   class Humans {
+>     +DeepExpertise()
+>     +NarrowFocus()
+>   }
+>   LLMS --> Hypotheses
+>   Humans --> Hypotheses
+> ```
 
 ## Core Explanation
 

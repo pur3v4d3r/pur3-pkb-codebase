@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Open-Domain Dialogue Components**
+> *Identify the key components of open-domain dialogue prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Persona Definition]
+>   B[Interest Specification]
+>   C[Conversation Style]
+>   D[Safety Constraints]
+>   A -->|defines character| E[Consistent Persona]
+>   B -->|delineates competence| F[Broad Interests]
+>   C -->|specifies formality| G[Casual or Formal]
+>   D -->|ensures appropriateness| H[Safe Responses]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking approaches in dialogue prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   A -->|careful consideration| C[Coherent Response]
+>   B -->|immediate response| D[Saliency-Based Reply]
+> ```
+
+
+> [!abstract] **Diagram 3 — Open-Domain vs Task-Oriented Dialogue**
+> *Understand the differences between open-domain and task-oriented dialogue prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Open-Domain]
+>   B[Task-Oriented]
+>   A -->|general conversation| C[No Predefined Goals]
+>   B -->|specific goals| D[Achieve Objectives]
+> ```
 
 ## Core Explanation
 

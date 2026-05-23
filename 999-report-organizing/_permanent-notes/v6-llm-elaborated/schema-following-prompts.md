@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Schema-Following Prompt Structure**
+> *Identify the components of a schema-following prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Provide Schema Definition]
+>   C[Include Concrete Examples]
+>   D[Guide Output Format]
+>   E[Handle Missing Information]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema-Following vs Grammar-Constrained Decoding**
+> *Compare schema-following prompts with grammar-constrained decoding.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema-Following]
+>   B[Grammar-Constrained]
+>   A -->|Overall Structure| C[Fields, Types, Nesting]
+>   B -->|Syntactic Rules| D[Sentence Construction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Schema-Following Prompts**
+> *Explore various applications of schema-following prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[API Documentation Generation]
+>   C[Data Entry Automation]
+>   D[Dynamic API Docs]
+> ```
 
 ## Core Explanation
 

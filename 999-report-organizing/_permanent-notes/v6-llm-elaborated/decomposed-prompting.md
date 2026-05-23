@@ -65,8 +65,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Decomposed Prompting Workflow**
+> *Follow the flow from input to final output through specialized handlers.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B(Controller)
+>   B --> C1[String Manipulation]
+>   B --> C2[Aithmetic Calculation]
+>   C1 --> D1[Output Fragment]
+>   C2 --> D2[Output Fragment]
+>   D1 --> E[Recombination]
+>   D2 --> E
+>   E --> F(Output)
+> ```
+
+
+> [!abstract] **Diagram 2 — Decomposed vs Monolithic Prompting**
+> *Compare the modular structure of Decomposed with monolithic approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Task] --> B1(Decomposed)
+>   A --> B2(Monolithic)
+>   B1 --> C1(Controller)
+>   C1 --> D1[String Manipulation]
+>   C1 --> D2[Aithmetic Calculation]
+>   B2 --> E1(Single Prompt)
+>   F[Output] <-.-> C1
+>   G(Output) <-.-> E1
+> ```
+
+
+> [!abstract] **Diagram 3 — Controller Dispatch Mechanism**
+> *Trace how the controller directs tasks to appropriate handlers.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B(Controller)
+>   B --> C[String Manipulation]
+>   B --> D[Aithmetic Calculation]
+>   B --> E[Logical Operation]
+>   F[Output Fragment] <-.-> C
+>   G(Output Fragment) <-.-> D
+>   H(Output Fragment) <-.-> E
+> ```
 
 # Decomposed Prompting
 

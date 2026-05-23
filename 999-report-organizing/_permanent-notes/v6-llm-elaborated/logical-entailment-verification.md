@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logical Entailment Verification Process**
+> *Follow the flow from input to verification and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[NLI Model]
+>   B --> C[Evaluation]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Logical Entailment vs Contradiction Detection**
+> *Compare the focus of entailment verification and contradiction detection.*
+>
+> ```mermaid
+> graph TD
+>   A(Logical Entailment)
+>   B(Contradiction Detection)
+>   A -->|Evaluates entailment from premises| C[Output]
+>   B -->|Identifies contradictions| D[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Chain-of-Thought Prompting Flow**
+> *Trace the steps of chain-of-thought prompting in LLMs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Claim] --> B[Prior Facts]
+>   B --> C[Justification]
+>   C --> D[Next Claim]
+> ```
 
 ## Core Explanation
 

@@ -66,8 +66,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tokenization Process Flow**
+> *Follow the flow from text to tokens, noting where artifacts occur.*
+>
+> ```mermaid
+> graph TD
+>   A[Text Input] --> B[Whitespace Tokenization]
+>   B --> C[Token Sequence]
+>   D[Byte-Pair Encoding] --> E[Token Sequence]
+>   F[Character-Aware Representation] --> G[Token Sequence]
+>   H[Model Processing] --> I[Output]
+>   B -.-> J[Artifacts]
+>   D -.-> K[Artifacts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Tokenization Methods**
+> *Compare the token sequences produced by different methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Text: 'tokenisation'] --> B[Byte-Pair Encoding]
+>   A --> C[Whitespace Tokenization]
+>   A --> D[Character-Aware]
+>   B --> E["toke|nisa|tion"]
+>   C --> F['token' 'isation']
+>   D --> G["t.o.k.e.n.i.s.a.t.i.o.n."]
+> ```
+
+
+> [!abstract] **Diagram 3 — Tokenization Artifacts vs Reasoning Failures**
+> *Identify the source of failure: tokenization or reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text] --> B[Tokenized Input]
+>   B --> C[Model Processing]
+>   C --> D[Output]
+>   E[Reasoning Failure] --> F["Misunderstood Context"]
+>   G[Tokenization Artifact] --> H["Incorrect Token Boundaries"]
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Overrefusal Mechanism Overview**
+> *Follow the flow from training to overrefusal.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Emphasis]
+>   B[Harmlessness Thresholds]
+>   C[Imprecise Classifiers]
+>   D[Annotation Biases]
+>   E[Overrefusal]
+>   B --> E
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Overrefusal Impact Areas**
+> *Identify the areas where overrefusal impacts utility.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Medical Professionals]
+>   C[Creative Writing]
+>   D[Patient Care Delays]
+>   E[Overrefusal Impact]
+>   A --> E
+>   B --> E
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Overrefusal Process Flow**
+> *Trace the process from request to refusal.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Request]
+>   B[Harmfulness Check]
+>   C[Refusal Decision]
+>   D[Response Output]
+>   C -->|Refusal or Hedging| D[Refusal]
+>   C --> D
+>   A --> B
+> ```
 
 ## Core Explanation
 

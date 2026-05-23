@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Base Rate Neglect Process Flow**
+> *Follow the flow from input to output, noting where base rate neglect occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Detailed Case Information] --> B[Narrative Richness]
+>   B --> C[Ignoring Base Rates]
+>   C --> D[Skewed Probability Estimates]
+> ```
+
+
+> [!abstract] **Diagram 2 — Base Rate Neglect vs Heuristics Comparison**
+> *Compare the focus of base rate neglect with representativeness and availability heuristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Rate Neglect] --> B[Ignoring Statistical Frequencies]
+>   C[Representativeness Heuristic] --> D[Judging Typicality]
+>   E[Availability Heuristic] --> F[Basing on Accessibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Training Paradigms Impact**
+> *Trace the influence of training paradigms on model behavior and biases.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Datasets] --> B[Narrative Coherence]
+>   B --> C[Prioritizing Surface-Level Features]
+>   C --> D[Ignoring Underlying Probabilities]
+> ```
 
 ## Core Explanation
 

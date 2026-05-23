@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Paraphrase Invariance Testing Process**
+> *Follow the flow from prompt creation to response evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Semantically Equivalent Prompts]
+>   B[Evaluate LLM Responses]
+>   C[Determine Consistency Across Variants]
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Response Variability Across Paraphrases**
+> *Observe the variability in model responses to different phrasings.*
+>
+> ```mermaid
+> graph TD
+>   A[Original Prompt]
+>   B[Paraphrase 1]
+>   C[Paraphrase 2]
+>   D[Paraphrase 3]
+>   A -->|Response X| E[Model Response]
+>   B -->|Response Y| F[Model Response]
+>   C -->|Response Z| G[Model Response]
+>   D -->|Response W| H[Model Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Paraphrase Invariance vs Syntactic Variation Testing**
+> *Compare the focus of each testing method on semantic understanding.*
+>
+> ```mermaid
+> classDiagram
+>   class ParaphraseInvarianceTesting {
+>     +Ensure Semantic Equivalence
+>     +Evaluate Consistency Across Variants
+>   }
+>   class SyntacticVariationTesting {
+>     +Include Meaning Altering Variations
+>     -Focus Less on True Semantic Comprehension
+>   }
+>   ParaphraseInvarianceTesting --> LLM
+>   SyntacticVariationTesting --> LLM
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positional Bias Mechanism**
+> *Follow the flow from input to output, noting biases at each stage.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence] --> B[Causal Attention]
+>   B --> C[Primacy Bias]
+>   B --> D[Recency Bias]
+>   C --> E[Positional Encodings]
+>   D --> E
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Training Data Influence on Positional Bias**
+> *Observe how training data distribution shapes positional biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data] --> B[Critical Info at Start]
+>   A --> C[Critical Info at End]
+>   B --> D[Primacy Bias Learned]
+>   C --> E[Recency Bias Learned]
+> ```
+
+
+> [!abstract] **Diagram 3 — Context Management Strategies**
+> *Identify strategies to mitigate positional bias in context management.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Place Key Info at Ends]
+>   C[Context Length Optimization] --> D[Avoid Middle Dilution]
+>   E[Summarization Algorithms] --> F[Mitigate or Leverage Biases]
+> ```
 
 ## Core Explanation
 

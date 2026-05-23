@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Closed-book vs Open-book QA Paradigms**
+> *Compare the evaluation focus of closed-book and open-book paradigms.*
+>
+> ```mermaid
+> graph TD
+>   A[Closed-Book QA]
+>   B[Open-Book QA]
+>   A -->|Parametric Knowledge| C[Internal Consistency]
+>   B -->|Contextual Information| D[Integration with External Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — QA Paradigm Evaluation Scenarios**
+> *Understand the practical application scenarios for each QA paradigm.*
+>
+> ```mermaid
+> graph TD
+>   A[Closed-Book]
+>   B[Open-Book]
+>   A -->|Benchmarking Parametric Knowledge| C[Simple, Direct Assessment]
+>   B -->|Real-world Contextual Use| D[Complex, Dynamic Evaluation]
+> ```
 
 # Closed-Book vs. Open-Book QA
 

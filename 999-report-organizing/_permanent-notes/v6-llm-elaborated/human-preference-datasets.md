@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Human Preference Dataset Creation Process**
+> *Follow the flow from prompt to preference annotation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Present Prompt] --> B[Generate Outputs]
+>   B --> C[Select Preferred Output]
+>   C --> D[Qualitative Feedback]
+>   D --> E[Dataset Compilation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Human Preference Dataset Quality Factors**
+> *Identify the key factors that influence dataset quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Annotator Expertise] --> B[Inter-Annotator Agreement]
+>   C[Diverse Prompts] --> D[Model Output Quality]
+>   E[Bias Mitigation] --> F[Representative Annotators]
+> ```
+
+
+> [!abstract] **Diagram 3 — Human Preference Dataset vs General Metrics**
+> *Compare preference datasets with general performance metrics.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HumanPreferenceDataset as HPD
+>   participant GeneralMetrics as GM
+>   HPD->>HPD: Captures nuanced human judgments
+>   GM->>GM: Relies on quantitative measures
+>   HPD-->>HPD: Reflects user preferences
+>   GM-->>GM: May not fully reflect preferences
+> ```
 
 # Human Preference Datasets
 

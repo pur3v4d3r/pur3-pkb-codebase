@@ -67,8 +67,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Aleatoric vs Epistemic Uncertainty**
+> *Identify the sources of uncertainty in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Inherent Ambiguity] --> B(Aleatoric)
+>   C[Lack of Training Data] --> D(Epistemic)
+> ```
+
+
+> [!abstract] **Diagram 2 — Uncertainty Quantification Techniques**
+> *Understand the methods to quantify uncertainty.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Ensemble Methods] --> B[Calibrated Uncertainty]
+>   C[Auxiliary Models] --> D[Semantic Confidence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Deliberate Analysis] --> B(Reflective)
+>   C[Automatic Adjustment] --> D(Reactive)
+> ```
 
 ## Core Explanation
 

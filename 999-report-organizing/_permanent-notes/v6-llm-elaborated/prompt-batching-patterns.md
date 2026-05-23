@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Batching Patterns Overview**
+> *Identify the different types of batching patterns and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Static]
+>   B[Dynamic]
+>   C[Continuous]
+>   D[Prefill-Decode Separation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Continuous Batching Mechanism**
+> *Understand how continuous batching fills available slots in ongoing batch processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sequence Completion]
+>   B[Freed Slot]
+>   C[New Request Insertion]
+>   D[GPU Utilization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Static vs Dynamic Batching Comparison**
+> *Compare static and dynamic batching in terms of batch size consistency and resource utilization.*
+>
+> ```mermaid
+> graph TD
+>   A[Static]
+>   B[Dynamic]
+>   C[Consistent Batch Sizes]
+>   D[Immediate Resource Utilization]
+>   E[Potential Underutilization]
+>   F[Introduced Variability]
+> ```
 
 ## Core Explanation
 

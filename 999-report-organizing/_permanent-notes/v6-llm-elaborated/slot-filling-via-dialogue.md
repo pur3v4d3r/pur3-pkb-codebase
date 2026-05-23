@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Slot Filling Process Flow**
+> *Follow the stages from identifying slots to task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Unfilled Slots] --> B(Formulate Questions)
+>   B --> C[Interpret User Answers]
+>   C --> D[Extract Information]
+>   D --> E[Confirm Data]
+>   E --> F(Task Execution)
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM vs Template Slot Filling**
+> *Compare the flexibility and error-proneness of LLM-based versus template-based approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[LLM-Based] -->|Flexible, Multi-Slot Utterances| B(Advantages)
+>   A -->|Prone to Hallucinations| C(Disadvantages)
+>   D[Template-Based] -->|Constrained Conversation Flows| E(Advantages)
+>   D -->|Less Error-Prone| F(Disadvantages)
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Memory**
+> *Understand the differences in data collection methods.*
+>
+> ```mermaid
+> graph TD
+>   A[User Provides Direct Info] --> B(Specific Slots Filled)
+>   C[System Infers Missing Values] --> D(Contextual Cues Used)
+> ```
 
 ## Core Explanation
 

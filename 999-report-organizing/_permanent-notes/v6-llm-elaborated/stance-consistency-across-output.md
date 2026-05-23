@@ -67,8 +67,75 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stance Consistency Mechanism**
+> *Follow the flow from input to output, noting stance annotations.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Generate Section]
+>   C[Check Stance Annotation]
+>   D[Next Prompt]
+>   E[Output]
+>   A --> B
+>   B -->|Stance Inconsistency?| C
+>   C -->|Yes| B
+>   C -->|No| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the paths for reflective and reactive thinking in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B1[Reflective Thinking]
+>   B2[Reactive Thinking]
+>   C1[Consider Multiple Perspectives]
+>   D1[Form Consistent Stance]
+>   E1[Output]
+>   F1[Immediate Response]
+>   G1[Potential Inconsistency]
+>   H1[Output]
+>   A --> B1
+>   A --> B2
+>   B1 --> C1
+>   C1 --> D1
+>   D1 --> E1
+>   B2 --> F1
+>   F1 -->|Potential Shifts| G1
+>   G1 --> H1
+> ```
+
+
+> [!abstract] **Diagram 3 — Stance Inconsistency Examples**
+> *Identify examples of stance inconsistency in different sections.*
+>
+> ```mermaid
+> graph TD
+>   A[Section 1]
+>   B[Section 2]
+>   C[Section 3]
+>   D[Inconsistent Stance]
+>   E[Consistent Stance]
+>   F[Conclusion]
+>   A -->|Agree| D
+>   B -->|Disagree| D
+>   C -->|Neutral| E
+>   D --> F
+>   E --> F
+> ```
 
 ## Core Explanation
 

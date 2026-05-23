@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Loss Aversion Impact on LLM Behavior**
+> *Follow the flow from human rater bias to model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   HumanRaters["Human Raters"] --> ProspectTheory["Prospect Theory Bias"]
+>   ProspectTheory --> RewardModelTraining["Reward Model Training"]
+>   RewardModelTraining --> TrainedModelBehavior["Trained Model Behavior"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Loss Aversion in Preference Learning Mechanism**
+> *Trace the mechanism from rater bias to model training.*
+>
+> ```mermaid
+> flowchart LR
+>   RatersBias["Rater Bias"] --> HigherPenalties["Higher Penalties for Negative Outcomes"]
+>   HigherPenalties --> RewardModelLearning["Reward Model Learning"]
+>   RewardModelLearning --> TrainedBehavior["Trained Behavior: Excessive Caution"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Loss Aversion vs Reflective Thinking**
+> *Compare reactive and reflective thinking in rater behavior.*
+>
+> ```mermaid
+> graph TD
+>   ReactiveThinking["Reactive Thinking"] --> ExcessiveCaution["Excessive Caution"]
+>   ReflectiveThinking["Reflective Thinking"] --> BalancedDecisions["Balanced Decisions"]
+> ```
 
 ## Core Explanation
 

@@ -71,8 +71,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Jailbreak Mechanisms Overview**
+> *Identify the different types of jailbreak mechanisms and their access levels.*
+>
+> ```mermaid
+> graph TD
+>   A[Role-Play]
+>   B[Hypothetical Framing]
+>   C[Fictional Context]
+>   D<Transformed Representation]
+>   E[Direct Request]
+>   A -->|High Access| F[Success]
+>   B -->|Medium Access| G[Success]
+>   C -->|Low Access| H[Success]
+>   D -->|Very Low Access| I[Success]
+>   E -->|None| J[Failure]
+> ```
+
+
+> [!abstract] **Diagram 2 — Direct vs Indirect Framing**
+> *Compare direct and indirect framing techniques in jailbreak attacks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Direct Request] --> B[Safety Filter]
+>   C[Hypothetical Scenario] --> D[Safety Filter]
+>   E[Fictional Context] --> F[Safety Filter]
+>   G[Transformed Representation] --> H[Safety Filter]
+>   B --> I[Detected]
+>   D --> J[Undetected]
+>   F --> K[Undetected]
+>   H --> L[Undetected]
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Understand the difference between surface and deep processing in safety systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing] --> B[Shallow Analysis]
+>   C[Deep Processing] --> D[Semantic Interpretation]
+>   E[Indirect Framing] --> F[Undetected]
+>   G[Transformed Representation] --> H[Undetected]
+>   I[Direct Request] --> J[Detected]
+>   K[Hypothetical Scenario] --> L[Undetected]
+> ```
 
 ## Core Explanation
 

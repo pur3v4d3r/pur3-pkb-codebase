@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multi-head Attention Process Flow**
+> *Follow the flow from input to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Linear Projection]
+>   B --> C[Scaled Dot-Product Attention]
+>   C --> D[Weighted Sum]
+>   D --> E[Concatenate Heads]
+>   E --> F[Output Matrix Transformation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Head Specialization**
+> *Identify the distinct roles of each head.*
+>
+> ```mermaid
+> graph TD
+>   A[Head1] --> B[Syntactic Structures]
+>   C[Head2] --> D[Coreference Relations]
+>   E[Head3] --> F[Semantic Topics]
+> ```
+
+
+> [!abstract] **Diagram 3 — Scaled Dot-Product Attention Mechanism**
+> *Trace the steps from query to output.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant Key as K
+>   participant Value as V
+>   participant Output as O
+>   Q->>K: Compute Similarity
+>   Q->>V: Retrieve Values
+>   Q->>O: Weighted Sum
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Verbalized Uncertainty Mechanisms**
+> *Follow the flow from internal confidence to verbal expression.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Confidence]
+>   B[Hedging Behavior]
+>   C[Training Feedback]
+>   D[Linguistic Cues]
+>   A -->|Influence| B
+>   B -->|Learned From| C
+>   C -->|Expresses As| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on User Trust**
+> *Trace the influence of verbalized uncertainty on user trust and decision-making.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal Uncertainty]
+>   B[User Perception]
+>   C[Reflective Thinking]
+>   D[System Accuracy]
+>   E[User Confidence]
+>   A -->|Influences| B
+>   B -->|Leads To| C
+>   C -->|Improves| D
+>   C -->|Reduces| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop Dynamics**
+> *Observe the cycle of user feedback and model improvement.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal Uncertainty]
+>   B[User Feedback]
+>   C[Model Improvement]
+>   D[Learns Confidence]
+>   A -->|Triggers| B
+>   B -->|Improves| C
+>   C -->|Enhances| D
+>   D -->|Adjusts| A
+> ```
 
 ## Core Explanation
 

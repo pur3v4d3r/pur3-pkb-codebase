@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CFG Process Flowchart**
+> *Follow the steps from input to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Conditional Logits]
+>   C[Unconditional Logits] --> D[Weighted Combination]
+>   E[Guidance Scale] --> D
+>   F[Final Sampling Distribution] --> G[Generated Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — CFG Mechanism Diagram**
+> *Observe the formula and its components for CFG.*
+>
+> ```mermaid
+> graph TD
+>   A[logits_unconditional] --> B["(logits_conditional - logits_unconditional)"]
+>   C[guidance_scale] --> D{×}
+>   E[D] --> F{+}
+>   G[F] --> H[logits_final]
+> ```
+
+
+> [!abstract] **Diagram 3 — CFG Applications Overview**
+> *Identify the different application areas of CFG.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Generate Text]
+>   C[Content Moderation] --> D[Ensure Safety]
+>   E[Personalized Learning] --> F[Tailored Content]
+> ```
 
 ## Core Explanation
 

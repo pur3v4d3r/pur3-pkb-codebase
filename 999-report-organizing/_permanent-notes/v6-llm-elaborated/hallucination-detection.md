@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hallucination Detection Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[NLI Techniques]
+>   B --> C[Verification Against Facts]
+>   C --> D[Hallucination Identified?]
+>   D -->|Yes| E[Report Hallucination]
+>   D -->|No| F[Output Verified]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hallucination Detection Methods Comparison**
+> *Compare the strengths and limitations of each method.*
+>
+> ```mermaid
+> graph TD
+>   A[NLI Techniques] --> B[Factual Accuracy]
+>   A --> C[Logical Consistency]
+>   D[Retrieval-Based Verification] --> E[Cross-Referencing Claims]
+>   D --> F[External Knowledge Base]
+>   G[Hallucination Identified?]
+>   H[High Specificity, Low Generalization]
+>   I[Low Specificity, High Generalization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hallucination Detection Applications Overview**
+> *Identify the applications and their specific concerns.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Factual Accuracy]
+>   C[Legal Advice] --> D[Hallucination Prevention]
+>   E[MOOCs] --> F[Content Reliability]
+> ```
 
 # Hallucination Detection
 

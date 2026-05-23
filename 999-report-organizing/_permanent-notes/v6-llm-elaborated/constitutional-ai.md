@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Constitutional AI Process Flow**
+> *Follow the stages from SL-CAF to RLAIF.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[SL-CAF]
+>   B --> C[RLAIF]
+>   C --> D[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constitutional AI Mechanism Overview**
+> *Trace the feedback loop from output to revision.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Output] --> B[Critique]
+>   B --> C[Non-Compliant?]
+>   C -->|Yes| D[Revise Output]
+>   C -->|No| E[Acknowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Constitutional AI vs Traditional Supervision**
+> *Compare CAI's self-critique with human supervision.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Annotations] --> B[Alignment]
+>   C[Self-Critique] --> D[Alignment]
+>   E[CAI Constitution] --> C
+> ```
 
 ## Core Explanation
 

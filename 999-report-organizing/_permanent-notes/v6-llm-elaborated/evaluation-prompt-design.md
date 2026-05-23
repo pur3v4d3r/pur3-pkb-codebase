@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Evaluation Prompt Design Process**
+> *Follow the steps from prompt creation to validation.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Criteria]
+>   B[Craft Prompts]
+>   C[Test Bias]
+>   D[Inter-Evaluator Agreement]
+>   E[Human Correlation Calibration]
+>   F[Final Validation]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Design Theoretical Underpinnings**
+> *Understand the balance between extraneous and intrinsic load.*
+>
+> ```mermaid
+> graph TD
+>   A[Minimize Extraneous Load]
+>   B[Maximize Intrinsic Load]
+>   C[Evaluation Quality]
+>   A -->|Ensures Focus on Task| C
+>   B -->|Enhances Meaningful Processing| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation Prompt vs Task Completion Prompt**
+> *Compare the focus of each prompt type.*
+>
+> ```mermaid
+> graph TD
+>   A[Evaluation Prompt]
+>   B[Task Completion Prompt]
+>   A -->|Assess Quality Based on Criteria| C[Predefined Standards]
+>   B -->|Guide Model to Perform Task| D[No External Standards]
+> ```
 
 ## Core Explanation
 

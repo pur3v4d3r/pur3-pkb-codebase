@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — G-Eval Evaluation Process Flowchart**
+> *Follow the steps from task definition to final score calculation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Definition] --> B[Evaluation Criteria]
+>   B --> C[Candidate Texts]
+>   C --> D[Reasoning Steps]
+>   D --> E[Probability-Weighted Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — G-Eval Application Areas Comparison**
+> *Compare the application areas and their evaluation criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Coherence, Context| B[Dialogue Systems]
+>   B -->|Relevance, Continuity| C[Summarization Tasks]
+> ```
+
+
+> [!abstract] **Diagram 3 — G-Eval Reasoning Steps Breakdown**
+> *Identify the components of each reasoning step in the evaluation process.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Definition] --> B[Evaluation Criteria]
+>   B --> C[Candidate Texts]
+>   C --> D1[Relevance]
+>   C --> D2[Brevity]
+>   C --> D3[Coherence]
+>   C --> D4[Factual Accuracy]
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Attention Patterns Overview**
+> *Identify the distinct patterns like diagonal lines and vertical stripes.*
+>
+> ```mermaid
+> graph TD
+>   A[Diagonal Lines] --> B[Syntactic Dependency]
+>   C[Vertical Stripes] --> D[Semantic Role Labeling]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Understand the influence of higher-level concepts on token analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Higher-Level Concepts] --> B[Broad Attention]
+>   C[Individual Tokens] --> D[Larger Structures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Attention Weight Matrices vs Value Vectors**
+> *Notice how identical patterns can implement different operations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Attention Weights
+>   participant B as Value Vectors
+>   A->>B: Multiply to Determine Output
+> ```
 
 ## Core Explanation
 

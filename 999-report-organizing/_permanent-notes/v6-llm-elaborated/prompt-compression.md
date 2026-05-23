@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Compression Mechanisms Overview**
+> *Identify the different methods used for compressing prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Extractive Summarization]
+>   B[Learned Compression Networks]
+>   C[LLM-Based Distillation]
+>   A -->|Retain Key Phrases| D[Shorter Sequences]
+>   B -->|Neural Encoding| D
+>   C -->|Rewrite Concisely| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Compression Workflow**
+> *Follow the flow from input prompt to compressed output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt]
+>   B[Identify Key Information]
+>   C[Compress Tokens]
+>   D[Output Compressed Prompt]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Compression vs General Efficiency**
+> *Compare the focus areas of prompt compression and general model efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Compression]
+>   B[General Model Efficiency]
+>   A -->|Reduce Token Length| C[Efficiency]
+>   B -->|Optimize Architecture/Training| C
+> ```
 
 ## Core Explanation
 

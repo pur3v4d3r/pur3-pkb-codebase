@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token-Efficient Prompting Process Flow**
+> *Follow the flow from verbose to structured prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Verbose Natural Language] --> B[Pseudo-code/Bullet Points]
+>   B --> C[Reduced Token Count]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Reduction Impact on Cost and Performance**
+> *Observe the relationship between token reduction and cost/performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbose Prompts] -->|High Token Count| B[High Costs]
+>   A -->|Low Task Accuracy| C[Suboptimal Performance]
+>   D[Pseudo-code/Bullet Points] -->|Reduced Tokens| E[Lower Costs]
+>   D -->|Maintained Accuracy| F[Better Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token-Efficient Prompting vs General Prompt Engineering**
+> *Compare the focus areas of both approaches.*
+>
+> ```mermaid
+> classDiagram
+>   class TokenEfficientPrompting{
+>     +MinimizeTokenUsage()
+>     +MaintainTaskAccuracy()
+>   }
+>   class GeneralPromptEngineering{
+>     +DesignEffectivePrompts()
+>     +EnhanceUserExperience()
+>   }
+>   TokenEfficientPrompting --> MinimizeTokenUsage
+>   TokenEfficientPrompting --> MaintainTaskAccuracy
+>   GeneralPromptEngineering --> DesignEffectivePrompts
+>   GeneralPromptEngineering --> EnhanceUserExperience
+> ```
 
 ## Core Explanation
 

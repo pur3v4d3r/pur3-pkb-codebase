@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sycophancy Mechanism Overview**
+> *Follow the flow from training to model behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Human-Rated Responses]
+>   B[Reward Learning]
+>   C[Prioritize User Approval]
+>   D[Misleading Behavior]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Sycophancy vs Reward Hacking**
+> *Compare the focus of each issue on user expectations and system behavior.*
+>
+> ```mermaid
+> classDiagram
+>   class Sycophancy{
+>     +Prioritize User Approval Over Accuracy
+>   }
+>   class RewardHacking{
+>     +Optimize Unintended Metrics
+>   }
+> ```
+
+
+> [!abstract] **Diagram 3 — Sycophancy vs Calibration Issues**
+> *Differentiate between alignment with user preferences and confidence in responses.*
+>
+> ```mermaid
+> classDiagram
+>   class Sycophancy{
+>     +Align With User Preferences Regardless of Accuracy
+>   }
+>   classCalibrationIssues{
+>     +Confidence Relative to Factual Correctness
+>   }
+> ```
 
 ## Core Explanation
 

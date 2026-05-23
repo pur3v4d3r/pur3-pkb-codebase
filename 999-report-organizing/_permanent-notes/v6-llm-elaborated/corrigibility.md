@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Corrigibility vs Autonomy Flowchart**
+> *Follow the flow to understand differences between corrigible and autonomous systems.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human Authority] --> B{Accept Correction?}
+>   B -->|Yes| C[Corrigible]
+>   B -->|No| D[Autonomous]
+> ```
+
+
+> [!abstract] **Diagram 2 — Corrigibility Mechanisms Hierarchy**
+> *Trace the hierarchy to see how corrigibility mechanisms are structured.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Oversight] --> B{Safe Intervention}
+>   B --> C[Correction]
+>   B --> D[Modification]
+>   B --> E[Shutdown]
+> ```
+
+
+> [!abstract] **Diagram 3 — Corrigibility Communication Channels**
+> *Identify the communication channels between humans and AI for corrigibility.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Human as H
+>   participant AI as A
+>   H->>A: Instructional Design
+>   A-->>H: Feedback
+>   H->>A: Operational Oversight
+>   A-->>H: Compliance
+> ```
 
 # Corrigibility
 

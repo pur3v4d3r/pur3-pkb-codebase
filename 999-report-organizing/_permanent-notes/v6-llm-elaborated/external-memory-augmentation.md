@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — External Memory Augmentation Flow**
+> *Follow the flow from model to external memory and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Language Model] --> B[Query External Memory]
+>   B --> C[Retrieve Data]
+>   C --> D[Integrate into Context]
+>   D --> E[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — External vs Internal Memory Management**
+> *Compare the sources of memory storage for language models.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Mechanisms] -->|Manage Data Within Model| B(Language Model)
+>   C[External Databases] -->|Augment Capabilities| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Working Memory vs External Augmentation**
+> *Compare the limitations and capabilities of working memory versus external augmentation.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] -->|Limited Capacity & Duration| B(Language Model)
+>   C[External Databases] -->|Scalable Data Access| B
+> ```
 
 # External Memory Augmentation
 

@@ -68,8 +68,39 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Contrastive Decoding Process Flow**
+> *Follow the flow from input to output, noting the role of each model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Expert Model]
+>   B --> C[Amateur Model]
+>   C --> D[Log-Probability Comparison]
+>   D --> E[Output Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Contrastive Decoding vs Temperature Sampling**
+> *Compare the methods to understand their distinct approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Model]
+>   B[Two Models]
+>   C[Temperature Sampling]
+>   D[Contrastive Decoding]
+>   A -->|Adjust Randomness| C
+>   B -->|Log-Probability Comparison| D
+> ```
 
 # Contrastive Decoding
 

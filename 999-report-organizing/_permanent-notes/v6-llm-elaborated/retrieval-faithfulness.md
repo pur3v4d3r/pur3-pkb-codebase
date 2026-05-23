@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Retrieval Faithfulness Process Flow**
+> *Follow the flow from input to output, noting key steps and challenges.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Document] --> B[Retrieve Relevant Passages]
+>   B --> C[Evaluate Claim-Level Entailment]
+>   C --> D[Generate Response]
+>   D --> E[Maintain Fidelity vs Accuracy Balance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Retrieval Faithfulness vs Other Objectives**
+> *Compare retrieval faithfulness with factual accuracy and answer accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Faithfulness] -->|Focus on Source Integrity| B[Factual Accuracy]
+>   A -->|Avoid Parametric Knowledge| C[Answer Accuracy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in RAG Systems**
+> *Identify the differences between recognition and recall processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition] -->|Strictly Source-Based| B[Faithfulness]
+>   C[Recall] -->|Free Knowledge Generation| D[Parametric Knowledge]
+> ```
 
 ## Core Explanation
 

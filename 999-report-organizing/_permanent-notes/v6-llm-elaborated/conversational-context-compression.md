@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conversational Context Compression Techniques**
+> *Identify the different techniques used for compression.*
+>
+> ```mermaid
+> graph TD
+>   A[Abstractive Summarization]
+>   B[Belief-State Extraction]
+>   C[Retrieval-Based Inclusion]
+>   D[Event-Level Reduction]
+>   E[Hierarchical Summarization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Oriented vs Open-Domain Dialogues**
+> *Compare the strategies for task-oriented and open-domain dialogues.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Oriented]
+>   B[Open-Domain]
+>   A --> C[Belief-State Extraction]
+>   B --> D[Abstractive Summarization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conversational Context Flow**
+> *Follow the flow of information from input to compressed context.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Dialogue]
+>   B[Abstractive Summarization]
+>   C[Belief-State Extraction]
+>   D[Retrieval-Based Inclusion]
+>   E[Event-Level Reduction]
+>   F[Hierarchical Summarization]
+>   G[Compressed Context]
+>   A -->|Process| B
+>   A -->|Process| C
+>   A -->|Process| D
+>   A -->|Process| E
+>   A -->|Process| F
+>   B --> G
+>   C --> G
+>   D --> G
+>   E --> G
+>   F --> G
+> ```
 
 ## Core Explanation
 

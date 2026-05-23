@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — System 2 Prompting Process Flow**
+> *Follow the steps from prompt design to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Prompt Design]
+>   B --> C[Breakdown Tasks]
+>   C --> D[Verification Steps]
+>   D --> E[Model Output]
+>   E --> F[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — System 1 vs System 2 Thinking in LLMs**
+> *Compare the characteristics of System 1 and System 2 thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[System 1]
+>   B[System 2]
+>   A -->|Fast, Intuitive| C[Quick Responses]
+>   B -->|Slow, Deliberate| D[Nuanced Outputs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Prompting**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive]
+>   B[Reflective]
+>   A -->|Immediate Response| C[Surface-Level Understanding]
+>   B -->|Deliberate Consideration| D[Deeper Processing]
+> ```
 
 ## Core Explanation
 

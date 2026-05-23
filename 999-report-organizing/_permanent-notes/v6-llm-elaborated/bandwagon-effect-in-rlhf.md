@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bandwagon Effect Process Flow**
+> *Follow the flow from raters' conformity to model outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Popular Opinion] --> B[Raters Conform]
+>   B --> C[Model Rewards Consensus]
+>   C --> D[Outputs Reflect Majority]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bandwagon vs Social Desirability Bias**
+> *Compare Bandwagon Effect with Social Desirability Bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Social Conformity]
+>   B[Raters Favor Consensus]
+>   C[Socially Favorable Light]
+>   D[Present Self-Favorably]
+>   A -->|Bandwagon| B
+>   A -->|Desirability| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Consider Evidence]
+>   B[Evaluate Alternatives]
+>   C[Immediate Alignment]
+>   D[Social Cues Influence]
+>   A -->|Reflective| B
+>   C -->|Reactive| D
+> ```
 
 ## Core Explanation
 

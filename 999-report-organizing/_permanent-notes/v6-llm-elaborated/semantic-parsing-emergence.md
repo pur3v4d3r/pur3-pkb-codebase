@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Parsing Process Flow**
+> *Follow the flow from natural language input to formal representation generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Interpretation]
+>   B --> C[Parsing]
+>   C --> D[Representation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the paths of reflective and reactive thinking in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B1[Reactive]
+>   A --> B2[Reflective]
+>   B1 --> C1[Immediate Response]
+>   B2 --> D1[Deliberation]
+>   D1 --> E1[Contextual Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Observe the difference between surface and deep processing in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B1[Surface]
+>   A --> B2[Deep]
+>   B1 --> C1[Superficial Understanding]
+>   B2 --> D1[In-depth Analysis]
+>   C1 --> E1[Shallow Output]
+>   D1 --> F1[Detailed Representation]
+> ```
 
 ## Core Explanation
 

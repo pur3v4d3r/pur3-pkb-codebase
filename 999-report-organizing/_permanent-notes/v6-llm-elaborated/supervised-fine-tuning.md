@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Supervised Fine-Tuning Process Overview**
+> *Follow the flow from pretraining to alignment stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretrained Model] --> B[Labeled Data]
+>   B --> C[Cross-Entropy Loss]
+>   C --> D[Fine-Tuned Model]
+>   D --> E[Alignment Methods]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Fine-Tuning Techniques**
+> *Compare SFT with RLHF and DPO for alignment methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Fine-Tuning] -->|Labeled Data| B[Fine-Tuned Model]
+>   C[Reinforcement Learning from Human Feedback] -->|Human Feedback| D[Aligned Model]
+>   E[Direct Preference Optimization] -->|Preference Comparison| F[Optimized Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — SFT Mechanism Flowchart**
+> *Trace the steps from input to output during fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Labeled]
+>   B --> C[Predicted Output]
+>   C --> D[Cross-Entropy Loss Calculation]
+>   D --> E[Parameter Adjustment]
+> ```
 
 ## Core Explanation
 

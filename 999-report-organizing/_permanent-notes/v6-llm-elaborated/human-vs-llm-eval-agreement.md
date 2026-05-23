@@ -68,8 +68,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Human vs. LLM Evaluation Agreement Process**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[LLM Evaluation]
+>   B --> C[Human Annotation]
+>   C --> D[Comparison]
+>   D --> E[Agreement Metric]
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Agreement Metrics Comparison**
+> *Compare the metrics used to measure agreement.*
+>
+> ```mermaid
+> graph TD
+> C[Inter-rater Reliability] -->|Human vs. Human Baseline]
+> ```
+
+
+> [!abstract] **Diagram 3 — Agreement in Different Evaluation Scenarios**
+> *Identify scenarios where agreement is high or low.*
+>
+> ```mermaid
+> graph TD
+> C[Safety-adjacent Content] -->|Divergence in Standards]
+> ```
 
 ## Core Explanation
 

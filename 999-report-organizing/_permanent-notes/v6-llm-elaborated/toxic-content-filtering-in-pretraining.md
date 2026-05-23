@@ -73,8 +73,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Toxic Content Filtering Methods Overview**
+> *Identify the different filtering techniques used.*
+>
+> ```mermaid
+> graph TD
+>   A[Classifier-Based]
+>   B[Word-List]
+>   C[Heuristic Quality]
+>   A -->|Scores Documents| D[Remove Toxic]
+>   B -->|Removes Offensive Terms| E[Exclude Text]
+>   C -->|Targets Low-Quality Sources| F[Remove Harmful Content]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Filtering Stringency Levels**
+> *Understand the trade-offs between model capability and safety.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Aggressive]
+>   B[Sufficient]
+>   C[Insufficient]
+>   A -->|Reduces Harmful Outputs| D[Harmful Content Reduced]
+>   B -->|Balanced Trade-Offs| E[Harmful Content Controlled]
+>   C -->|Allows Toxic Patterns| F[Harmful Content Persist]
+> ```
+
+
+> [!abstract] **Diagram 3 — Classifier-Based Filtering Process Flow**
+> *Follow the steps in classifier-based filtering.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Classifier as C
+>   participant Dataset as D
+>   U->>C: Submit Document for Scoring
+>   C->>D: Score Based on Toxicity Levels
+>   alt Above Threshold
+>     C-->>U: Remove from Training Corpus
+>   else Below Threshold
+>     C-->>U: Include in Training Corpus
+>   end
+> ```
 
 ## Core Explanation
 

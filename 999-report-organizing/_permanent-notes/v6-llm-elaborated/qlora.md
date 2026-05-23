@@ -69,8 +69,42 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — QLoRA Process Flow**
+> *Follow the steps from base model quantization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Base Model] --> B["Quantize (NF4)"]
+>   B --> C[Fine-Tune Low-Rank Matrices]
+>   C --> D[Adaptive Learning]
+> ```
+
+
+> [!abstract] **Diagram 2 — QLoRA Memory Usage Comparison**
+> *Compare memory usage between full-precision and QLoRA methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Precision] -->|High VRAM| B[Fine-Tuning]
+>   C["QLoRA (NF4)"] -->|Low VRAM| D[Fine-Tune Low-Rank Matrices]
+> ```
+
+
+> [!abstract] **Diagram 3 — QLoRA Application Scenarios**
+> *Identify different application areas for QLoRA.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 ## Core Explanation
 

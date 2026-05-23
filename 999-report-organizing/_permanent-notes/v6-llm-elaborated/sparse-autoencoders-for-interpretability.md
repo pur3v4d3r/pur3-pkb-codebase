@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sparse Autoencoder Process Flow**
+> *Follow the flow from input activations to sparse feature reconstruction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Activations] --> B[Encoder]
+>   B --> C[Latent Space]
+>   C --> D[Decoder]
+>   D --> E[Sparse Features]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feature Decomposition Hierarchy**
+> *Trace the hierarchy from complex activations to sparse, monosemantic features.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Activations] --> B[High-Level Features]
+>   B --> C[Middle-Level Features]
+>   C --> D[Sparse Monosemantic Features]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Workflow Diagram**
+> *Identify the steps from model training to feature analysis and application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Train SAE] --> B[Extract Features]
+>   B --> C[Analyze Features]
+>   C --> D[Guide Curriculum]
+>   C --> E[Predictive Debugging]
+>   C --> F[Ethical Evaluation]
+> ```
 
 ## Core Explanation
 

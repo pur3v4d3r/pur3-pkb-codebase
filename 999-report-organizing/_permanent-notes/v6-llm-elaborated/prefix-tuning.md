@@ -66,8 +66,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Layer-wise Injection Process**
+> *Follow the flow of prefix vectors through transformer layers.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Layer]
+>   B1[Layer 1 Key/Value]
+>   B2[Layer 1 Attention]
+>   C1[Layer 2 Key/Value]
+>   C2[Layer 2 Attention]
+>   D1[Layer N Key/Value]
+>   D2[Layer N Attention]
+>   A -->|Prefix Vectors| B1
+>   B1 --> B2
+>   B2 --> C1
+>   C1 --> C2
+>   C2 --> D1
+>   D1 --> D2
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Prompting Methods**
+> *Compare Prefix Tuning with input-layer-only soft prompting.*
+>
+> ```mermaid
+> classDiagram
+>   class InputLayerOnlySoftPrompting{
+>     +ForwardPass()
+>     -DilutesInitialSignal()
+>   }
+>   class PrefixTuning{
+>     +InjectPrefixVectors()
+>     -RichAdaptationSignal()
+>   }
+>   InputLayerOnlySoftPrompting --> PrefixTuning
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Management in Prefix Tuning**
+> *Identify strategies to manage KV-cache requirements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Token]
+>   B1[Store Prefix Key/Value]
+>   B2[Attend to Prefixes]
+>   C[Next Token Generation]
+>   D[Cache Management]
+>   E[Vector Optimization]
+>   F[Quantization]
+>   A -->|KV-Requirements| B1
+>   B1 --> B2
+>   B2 --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
 
 ## Core Explanation
 

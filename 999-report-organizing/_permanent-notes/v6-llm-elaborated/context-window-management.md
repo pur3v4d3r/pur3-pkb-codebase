@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Window Biases Overview**
+> *Identify the biases and their impact on model attention.*
+>
+> ```mermaid
+> graph TD
+>   A[Recency Bias]
+>   B[Primacy Bias]
+>   C[Impact on Attention]
+>   A -->|Recent data preferred| C
+>   B -->|Initial information favored| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Strategic Placement Techniques**
+> *Understand the placement strategies for effective management.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Instructions]
+>   B[Leverage Primacy Bias]
+>   C[Recent Queries]
+>   D[Leverage Recency Bias]
+>   A -->|Place key concepts early| B
+>   C -->|Reinforce earlier concepts| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Context Window Applications**
+> *See the practical applications of context window management.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Dynamic Summarization]
+>   C[Selective Retention]
+>   D[Positional Placement]
+>   D -->|Place key information strategically for better performance
+> ```
 
 # Context Window Management
 

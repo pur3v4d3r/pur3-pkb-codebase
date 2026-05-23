@@ -68,8 +68,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Vocabulary Size Tradeoffs Overview**
+> *Identify the tradeoff between vocabulary size and computational load.*
+>
+> ```mermaid
+> graph TD
+>   A[Smaller Vocabulary]
+>   B[Larger Vocabulary]
+>   C[Reduced Embedding Matrix]
+>   D[Increased Training Complexity]
+>   E[Shorter Token Sequences]
+>   F[Richer Linguistic Representation]
+>   G[Higher Computational Load]
+>   H[Efficient Handling of Rare Tokens]
+>   A -->|Simplifies Model Architecture| C
+>   A -->|Increases Cross-Attention Costs| D
+>   B -->|Enables Shorter Sequences| E
+>   B -->|Better Morphological Representation| F
+>   B -->|Requires More Powerful Hardware| G
+>   B -->|Challenges Training Rare Tokens| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Tokenization Strategies Impact**
+> *Understand how tokenization strategies affect vocabulary size tradeoffs.*
+>
+> ```mermaid
+> graph TD
+>   A[Byte-Pair Encoding]
+>   B[Subword Tokenization]
+>   C[Larger Vocabulary]
+>   D[Smaller Vocabulary]
+>   E[Dynamic Granularity Adjustment]
+>   F[Rare Tokens Representation]
+>   G[Reduced Embedding Matrix Size]
+>   H[Improved Efficiency for Rare Words]
+>   A -->|Adjusts Granularity Based on Frequency| E
+>   B -->|Reduces Number of Rare Tokens| F
+>   C -->|Increases Model Complexity| D
+>   C -->|Requires More Training Data| G
+>   D -->|Simplifies Model Architecture| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Historical Vocabulary Size Trends**
+> *Trace the evolution of vocabulary size in language models over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Models]
+>   B[Larger Vocabularies Feasible]
+>   C[Current State]
+>   D[Smaller Vocabularies]
+>   E[Increased Computational Power]
+>   F[Vocabulary Size Tradeoffs]
+>   G[Empirical Sweet Spot]
+>   H[Optimized for Cloud Services]
+>   A -->|Limited Processing Power| D
+>   B -->|Shift to Larger Vocabularies| C
+>   C -->|Balancing Representation and Complexity| F
+>   C -->|32,000-128,000 Tokens| G
+>   C -->|Optimized for Cloud Services| H
+> ```
 
 ## Core Explanation
 

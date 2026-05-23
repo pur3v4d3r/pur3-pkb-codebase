@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — BIG-Bench Task Domains**
+> *Identify the diverse domains covered by BIG-Bench tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge Recall] --> B[Mathematics]
+>   A --> C[Reasoning]
+>   A --> D[Creativity]
+>   A --> E[Commonsense Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — BIG-Bench Evaluation Workflow**
+> *Follow the process from task design to model evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   TaskDesign(Task Design) --> CurateTasks(Curate Tasks)
+>   CurateTasks --> ModelEvaluation(Model Evaluation)
+>   ModelEvaluation --> AnalyzeResults(Analyze Results)
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Capabilities vs Limitations**
+> *Compare model strengths and weaknesses across domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Strengths] --> B[Mathematics]
+>   A --> C[Reasoning]
+>   D[Limits] --> E[Creativity]
+>   D --> F[Commonsense Understanding]
+> ```
 
 # BIG-Bench Benchmark
 

@@ -66,8 +66,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hallucination Types Overview**
+> *Identify the three types of hallucinations and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Hallucinations]
+>   B[Extrinsic Hallucinations]
+>   C[Factual Hallucinations]
+>   A -->|Contradicts Source Material| D[Error Origin]
+>   B -->|Introduces Unverifiable Claims| E[Error Origin]
+>   C -->|Contradicts Verifiable Knowledge| F[Error Origin]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hallucination Taxonomy Flow**
+> *Follow the flow to understand how errors are categorized.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Material]
+>   B[Factual Knowledge]
+>   C[Output]
+>   A --> D
+>   B --> F
+>   C --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[Error Detection]
+>   D[Immediate Response]
+>   A -->|Deliberate Review| C
+>   B -->|Available Cues| D
+> ```
 
 # Hallucination Taxonomy
 

@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Process Flow for Few-Shot Learning**
+> *Follow the sequence from input examples to output generalisation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Examples] --> B[Contextual Understanding]
+>   B --> C[Rule Induction]
+>   C --> D[Generalization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Taxonomy of Few-Shot Generalisation**
+> *Navigate the hierarchy from basic to advanced forms of generalisation.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Analogies] --> B[Surface-Level Details]
+>   B --> C[Abstract Rules]
+>   C --> D[Emergent Flexibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Identify the different application areas and their specific challenges.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Efficient Protocols]
+>   C[Complex Tasks] --> D[Abstract Reasoning]
+>   E[Real-World Deployment] --> F[Rigorous Testing]
+> ```
 
 ## Core Explanation
 

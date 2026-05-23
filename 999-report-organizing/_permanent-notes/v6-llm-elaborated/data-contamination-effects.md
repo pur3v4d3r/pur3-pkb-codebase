@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Contamination Process Flow**
+> *Follow the flow from training to evaluation, noting contamination points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Model Training]
+>   C[Evaluation Benchmark] --> D[Performance Evaluation]
+>   E[Internet Text] --> F[Overlap with Training]
+>   G[Internet Text] --> H[Overlap with Benchmark]
+>   I[Benchmark Examples] --> J[Misleading Scores]
+> ```
+
+
+> [!abstract] **Diagram 2 — Contamination Impact on Model Performance**
+> *Compare the performance scores before and after contamination.*
+>
+> ```mermaid
+> graph TD
+>   A[Generalized Model] --> B[Performance Score]
+>   C[Misleading Scores] --> D[Inflated Performance]
+>   E[True Capability] -.-> F[Novel Data]
+>   G[Benchmark Examples] --> H[Memorization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Contamination Mechanism Overview**
+> *Trace the path from pretraining to evaluation, highlighting memorization and contamination.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretraining Data] --> B[Model Pretraining]
+>   C[Evaluation Benchmark] --> D[Benchmark Examples]
+>   E[Misleading Scores] --> F[Inflated Performance]
+>   G[Internet Text] --> H[Overlap with Training]
+>   I[Internet Text] --> J[Overlap with Benchmark]
+> ```
 
 ## Core Explanation
 

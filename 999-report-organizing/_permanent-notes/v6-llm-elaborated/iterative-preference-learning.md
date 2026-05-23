@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Iterative Preference Learning Cycle**
+> *Follow the cycle from Model to Feedback and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model] --> B[Generate Responses]
+>   B --> C[Collect Feedback]
+>   C --> D[Update Parameters]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Alignment Process**
+> *Track how feedback aligns with model output distribution.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Model Output] --> B[Preference Data]
+>   B --> C[Update Reward Function]
+>   C --> D[Next Iteration's Model]
+>   D --> E[New Preference Data]
+>   E --> F[Refined Reward Function]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples in Instructional Design**
+> *See how feedback loops improve educational content.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant Model as M
+>   S->>M: Response from Current Content
+>   M-->>S: Feedback on Effectiveness
+>   S->>E: Preference Data
+>   E->>M: Update Teaching Strategy
+>   loop Iteration
+>     M-->>S: New Educational Material
+>     S->>E: Updated Preferences
+>     E->>M: Refine Model Parameters
+>   end
+> ```
 
 ## Core Explanation
 

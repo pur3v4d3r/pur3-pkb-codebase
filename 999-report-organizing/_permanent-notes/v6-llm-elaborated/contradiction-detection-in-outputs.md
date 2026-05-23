@@ -70,8 +70,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Contradiction Detection Pipeline**
+> *Follow the flow from generation to verification.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Text]
+>   B[Identify Contradictions]
+>   C[Verify Output]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Contradiction Types Overview**
+> *Compare explicit and soft contradictions.*
+>
+> ```mermaid
+> graph TD
+>   E[Explicit Contradictions] --> F["X is true; X is false"]
+>   G[Soft Contradictions] --> H["all X are Y; some X are not Y"]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Generation Process**
+> *Trace the steps from input to output.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant ContradictionDetector as C
+>   U->>L: Generate Text
+>   L-->>U: Output
+>   U->>C: Detect Contradictions
+>   C-->>U: Verified Output
+> ```
 
 ## Core Explanation
 

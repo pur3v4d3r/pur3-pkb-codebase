@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GQA vs MHA Memory Usage**
+> *Compare memory usage between GQA and MHA.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard MHA]
+>   B[GQA]
+>   A -->|High KV-cache growth| C[High Memory Usage]
+>   B -->|Reduced KV-cache growth| D[Lower Memory Usage]
+> ```
+
+
+> [!abstract] **Diagram 2 — GQA Mechanism Overview**
+> *Understand the partitioning of query heads in GQA.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Total Query Heads]
+>   A --> B1
+>   A --> B2
+>   A --> B3
+> ```
+
+
+> [!abstract] **Diagram 3 — GQA vs MQA Quality Comparison**
+> *Compare quality retention between GQA and MQA.*
+>
+> ```mermaid
+> graph TD
+>   A[MQA]
+>   B[GQA]
+>   C[MHA]
+>   A --> D[High Efficiency, Low Quality]
+>   B --> E[Efficient and Good Quality]
+>   C --> F[Less Efficient, High Quality]
+> ```
 
 ## Core Explanation
 

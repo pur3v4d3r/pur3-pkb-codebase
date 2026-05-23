@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Entity Linking Process Flow**
+> *Follow the flow from text input to entity linking and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Text Input] --> B[Recognition]
+>   B --> C[Context Analysis]
+>   C --> D[Linking]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Entity Ambiguity Examples**
+> *Identify how different contexts can lead to ambiguous interpretations.*
+>
+> ```mermaid
+> graph TD
+>   A[Paris] -->|City| B(City)
+>   A -->|Person| C(Person)
+>   D[Python] -->|Language| E(Language)
+>   D -->|Reptile| F(Reptile)
+> ```
 
 # Entity Linking in Prompts
 

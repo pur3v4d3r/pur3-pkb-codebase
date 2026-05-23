@@ -69,8 +69,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Beam Search Process Flow**
+> *Follow the sequence from initialization to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialization] --> B[Expand Beam]
+>   B --> C[Prune Beam]
+>   C --> D[Check Stopping Criterion]
+>   D -->|No| E[Next Step]
+>   E --> B
+>   D -->|Yes| F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Beam Search vs Greedy Decoding**
+> *Compare the paths taken by Beam Search and Greedy Decoding.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B1{Greedy}
+>   B1 --> C1[Highest Prob Token]
+>   C1 --> D1[End]
+>   A --> B2{Beam Search}
+>   B2 -->|Expand Beam| E1[All Next Tokens]
+>   E1 -->|Prune to Top-B| F1[Top-B Sequences]
+>   F1 --> G1[Check Stopping Criterion]
+>   G1 -->|No| H1[Next Step]
+>   H1 --> B2
+>   G1 -->|Yes| I1[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Beam Search Applications**
+> *Identify the tasks where Beam Search is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Translation] --> B[Coherent Translations]
+>   C[Code Generation] --> D[Well-Structured Code]
+>   E[Open-ended Text Gen] --> F[Bland Repetitive Text]
+> ```
 
 # Beam Search Decoding
 

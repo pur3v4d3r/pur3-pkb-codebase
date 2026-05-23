@@ -67,8 +67,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Top-P Sampling Process Flow**
+> *Follow the steps from token sorting to sampling.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sort Tokens]
+>   B[Cumulative Sum]
+>   C[Determine Nucleus]
+>   D[Renormalize Probabilities]
+>   E[Sample Token]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-P vs Top-K Comparison**
+> *Compare the fixed and dynamic candidate set sizes.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed Candidate Set]
+>   B[Dynamic Candidate Set]
+>   C[Top-K Sampling]
+>   D[Top-P Nucleus Sampling]
+>   E[Candidate Tokens]
+>   F[Cumulative Probabilities]
+>   G[Threshold p]
+>   H[Renormalized Distribution]
+>   A -->|Fixed Size| C
+>   B -->|Dynamic Size| D
+>   C --> E
+>   D --> F
+>   F --> G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Confidence Level Adaptation**
+> *Observe how nucleus size changes with model confidence.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> HighConfidence
+>   HighConfidence : Small Nucleus
+>   HighConfidence --> MediumConfidence
+>   MediumConfidence : Moderate Nucleus
+>   MediumConfidence --> LowConfidence
+>   LowConfidence : Large Nucleus
+> ```
 
 ## Core Explanation
 

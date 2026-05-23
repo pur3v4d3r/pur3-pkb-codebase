@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Latency-Quality Tradeoff Overview**
+> *Follow the arrows to see how quality and latency interact.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Quality] --> B[High Latency]
+>   C[High Quality] --> D[Low Latency]
+>   A -->|Increase Quality| E{Optimize}
+>   E --> F[Choose Larger Model]
+>   F --> G[Higher Latency]
+>   E --> H[Reduce Complexity]
+>   H --> I[Lower Latency]
+> ```
+
+
+> [!abstract] **Diagram 2 — Latency-Quality Tradeoff in Applications**
+> *Compare conversational and analytical applications' latency-quality needs.*
+>
+> ```mermaid
+> graph TD
+>   A[Conversational]
+>   B[Analytical]
+>   C{Low Latency}
+>   D{High Quality}
+>   A -->|Maintain Low Latency| C
+>   A -->|Accept Lower Quality| E[User Engagement]
+>   B -->|Tolerate Higher Latency| D
+>   B -->|Enhance Output Quality| F[Insightful Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — Latency-Quality Tradeoff Strategies**
+> *Identify strategies to balance latency and quality.*
+>
+> ```mermaid
+> graph TD
+>   A{Strategy}
+>   B[Speculative Decoding]
+>   C[Best-of-N Selection]
+>   D[Resource Allocation]
+>   E[System Design]
+>   F[Model Architecture Choice]
+>   A -->|Conversational Apps| B
+>   A -->|Analytical Apps| C
+>   A -->|Operational Decisions| D
+>   A -->|Engineering Choices| E
+>   A -->|Architectural Decisions| F
+> ```
 
 # Latency-Quality Tradeoff
 

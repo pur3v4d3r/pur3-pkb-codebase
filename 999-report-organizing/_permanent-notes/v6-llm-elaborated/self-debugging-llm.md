@@ -70,8 +70,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-debugging LLM Cycle Overview**
+> *Follow the iterative process from generation to correction.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate Code] --> B[Detect Errors]
+>   B --> C[Explain Error]
+>   C --> D[Propose Fix]
+>   D --> E[Apply Fix]
+>   E --> F[Evaluate Correctness]
+>   F -->|Not Correct| A
+>   F -->|Correct| G[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Error Detection and Correction Phases**
+> *Identify the steps involved in detecting and correcting errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Execution]
+>   B[Static Analysis]
+>   C[Explain Error]
+>   D[Propose Fix]
+>   E[Apply Fix]
+>   F[Evaluate Correctness]
+>   A -->|Error Detected| C
+>   B -->|Error Detected| C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in LLMs**
+> *Compare the two thinking approaches for error correction.*
+>
+> ```mermaid
+> graph TD
+>   A[Error Detected]
+>   B[Reflective Analysis] --> C[Propose Fix]
+>   D[Reactive Adjustment] --> E[Immediate Fix]
+>   F[Evaluate Correctness]
+>   A --> B
+>   A --> D
+>   C --> F
+>   E --> F
+> ```
 
 ## Core Explanation
 

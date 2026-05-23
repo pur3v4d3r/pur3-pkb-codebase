@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RRF Scoring Mechanism**
+> *Follow the flow to understand how RRF scores documents.*
+>
+> ```mermaid
+> graph TD
+>   A[Document Rank]
+>   B[Reciprocal Score Calculation]
+>   C[Sum Across Systems]
+>   D[Final Ranking]
+>   A -->|rank_i(d)| B
+>   B -->|1/(rank_i(d) + c)| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Rank Aggregation Process**
+> *Trace the process from individual rankings to final fused ranking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant System1 as S1
+>   participant System2 as S2
+>   participant Fusion as F
+>   S1->>F: Rank(d)
+>   S2->>F: Rank(d)
+>   F-->>F: RRF Score Calculation
+>   F-->>F: Final Ranking
+> ```
+
+
+> [!abstract] **Diagram 3 — Parameter-Free Design**
+> *Notice the absence of parameter tuning in the RRF process.*
+>
+> ```mermaid
+> graph TD
+>   A[Ranking System]
+>   B[Reciprocal Rank Calculation]
+>   C[Final Ranking]
+>   D[Constant c]
+>   A -->|rank_i(d)| B
+>   B -->|1/(rank_i(d) + c)| C
+>   D -- Smoothing Factor --> B
+> ```
 
 ## Core Explanation
 

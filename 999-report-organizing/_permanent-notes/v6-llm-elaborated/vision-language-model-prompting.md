@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — VLM Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Visual Analysis]
+>   B --> C[Linguistic Interpretation]
+>   C --> D[Integration]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare the two processing approaches and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-Down] --> B[Integration]
+>   C[Bottom-Up] --> B
+>   D[Contextual Clues] -->|Guides| A
+>   E[Sensory Input] -->|Raw Data| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Design Considerations**
+> *Identify the key elements in designing effective VLM prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Instructions] --> B[Attention Guidance]
+>   C[Visual Grounding] --> D[Spatial Reasoning]
+>   E[Linguistic Clarity] --> F[Integrated Output]
+> ```
 
 ## Core Explanation
 

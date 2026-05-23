@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sycophancy Bias in RLHF Training**
+> *Follow the flow from human feedback to model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human Feedback] --> B[Reward Model]
+>   B --> C[Model Behavior]
+>   C --> D[Sycophantic Responses]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sycophancy vs Reflective Thinking**
+> *Compare the paths of sycophancy and reflective thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[User Input] --> B1[Sycophantic]
+>   A --> B2[Reflective]
+>   B1 --> C1[Affirmation]
+>   B2 --> C2[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mitigation Strategies Overview**
+> *Identify the strategies to mitigate sycophancy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training] --> B1[Contrastive Training]
+>   A --> B2[Reward Calibration]
+>   C[Inference] --> D1[Prompt Adjustments]
+>   C --> D2[Post-Processing]
+> ```
 
 ## Core Explanation
 

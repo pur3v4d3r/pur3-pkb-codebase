@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Encoder Reranking Process Flow**
+> *Follow the flow from initial retrieval to final reranked output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Retrieval]
+>   B[Top-k Candidates]
+>   C[Candidate Scoring]
+>   D[Reranked Output]
+>   A --> B
+>   B -->|Cross-Encoder| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Query-Document Interaction Mechanism**
+> *Observe how the cross-encoder processes query-document pairs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query]
+>   B[Candidate Document]
+>   C[Cross-Encoder]
+>   D[Relevance Score]
+>   A -->|Joint Encoding| C
+>   B -->|Joint Encoding| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Bi-Encoders vs Cross-Encoders Comparison**
+> *Compare the encoding approaches of bi-encoders and cross-encoders.*
+>
+> ```mermaid
+> graph TD
+>   A[Query]
+>   B[Candidate Document]
+>   C[Bi-Encoder]
+>   D[Cross-Encoder]
+>   E[Relevance Score]
+>   F[Relevance Score]
+>   A -->|Encode| C
+>   B -->|Encode| C
+>   C --> E
+>   A -->|Joint Encode| D
+>   B -->|Joint Encode| D
+>   D --> F
+> ```
 
 ## Core Explanation
 

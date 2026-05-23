@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Surface Form Variations**
+> *Identify the different surface forms of a single semantic entity.*
+>
+> ```mermaid
+> graph TD
+>   A[positive] --> B(Positive)
+>   A --> C[POSITIVE]
+>   A --> D[pos]
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Metrics Impact**
+> *Understand how surface form competition affects evaluation metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Evaluation] --> B[Probability Distribution]
+>   B --> C1{Normalized Probabilities}
+>   B --> C2{Unnormalized Probabilities}
+>   C1 --> D[Accurate Semantic Intention]
+>   C2 --> E[Misleading Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — Generation Outputs Bias**
+> *See how surface form competition influences generation outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Output] --> B1{High-Probability Token}
+>   A --> B2{Semantic Evidence Match}
+>   B1 --> C[Favored Form]
+>   B2 --> D[Better Semantic Fit]
+> ```
 
 ## Core Explanation
 

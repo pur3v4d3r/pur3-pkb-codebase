@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Causal Reasoning Process Flow**
+> *Follow the steps from pattern recognition to causal inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Pattern Recognition]
+>   B[Linguistic Cues]
+>   C[Causal Inference]
+>   A -->|Identify Correlations| B
+>   B -->|Surface-Form Indicators| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Correlation vs Causation**
+> *Compare the two concepts and their implications in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Correlation]
+>   B[Causation]
+>   A -->|LLMs Often Confuse| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the contrasting approaches in causal reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-Down]
+>   B[Bottom-Up]
+>   A -->|Pre-existing Knowledge| B
+> ```
 
 ## Core Explanation
 

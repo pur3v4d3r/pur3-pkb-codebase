@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Versioning Workflow**
+> *Follow the flow from initial prompt to versioned deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Rationale]
+>   B --> C[Evaluation Metrics]
+>   C --> D[Test Model Versions]
+>   D --> E[Deployment Date]
+>   E --> F[Version Control]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Versioning Components**
+> *Identify the key elements tracked in each prompt version.*
+>
+> ```mermaid
+> graph TD
+>   A[Text of Prompt] --> B[Rationale]
+>   C[Evaluation Metrics] --> D[Test Model Versions]
+>   E[Deployment Date] --> F[Version Control]
+>   subgraph KeyComponents
+>     A
+>     B
+>     C
+>     D
+>     E
+>     F
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Versioning Applications**
+> *See how prompt versioning supports different use cases.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant RegressionTesting as RT
+>   participant ProductionStability as PS
+>   participant DynamicContentGeneration as DC
+>   ID->>ID: Track instructional changes
+>   RT->>RT: Compare prompt versions for issues
+>   PS->>PS: Roll back to stable prompts
+>   DC->>DC: Adapt to user preferences
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token Boundary Effects Overview**
+> *Follow the flow from input to model output, noting tokenization impact.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenization]
+>   B --> C[Model Processing]
+>   C --> D[Output Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multilingual Token Boundary Variability**
+> *Compare token boundaries across languages to see variability.*
+>
+> ```mermaid
+> graph TD
+>   A[English] --> B[Word-Level Tokens]
+>   C[Turkish] --> D[Morpheme-Level Tokens]
+>   E[Finnish] --> F[Morpheme-Level Tokens]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token Boundary vs Semantic Understanding**
+> *Compare token boundary effects with semantic understanding in NLP models.*
+>
+> ```mermaid
+> classDiagram
+>   class TokenBoundaryEffects{
+>     +tokenization_impact()
+>     -segmentation_errors()
+>   }
+>   class SemanticUnderstanding{
+>     +semantic_meaning()
+>     -contextual_awareness()
+>   }
+>   TokenBoundaryEffects --> SemanticUnderstanding
+> ```
 
 ## Core Explanation
 

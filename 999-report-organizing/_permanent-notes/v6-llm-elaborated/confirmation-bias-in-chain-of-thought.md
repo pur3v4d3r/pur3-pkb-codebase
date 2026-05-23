@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Confirmation Bias Mechanism**
+> *Follow the sequence from initial premise to confirmatory conclusion.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Premise]
+>   B[Subsequent Steps]
+>   C[Confirmatory Conclusion]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Chain of Thought Process Flow**
+> *Trace the flow from prompt to reasoning chain.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Prompt]
+>   B[Initial Claim]
+>   C[Supporting Evidence]
+>   D[Conclusion]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Learning Process Impact**
+> *Observe how confirmatory bias affects learning from diverse data.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Claim]
+>   B[Favor Confirmatory Evidence]
+>   C[Ignored Contradictory Data]
+>   D[Skewed Understanding]
+>   A --> B
+>   B -->|Favors Consistency| C
+>   C -->|Underweights Accuracy| D
+> ```
 
 ## Core Explanation
 

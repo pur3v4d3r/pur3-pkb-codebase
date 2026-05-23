@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Computer Use Agent Process Flow**
+> *Follow the sequence from screenshot capture to action execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture Screenshot] --> B[Process Image]
+>   B --> C[Generate Action Specs]
+>   C --> D[Execute Actions]
+> ```
+
+
+> [!abstract] **Diagram 2 — API-calling vs GUI Operation Comparison**
+> *Compare the two methods of software interaction.*
+>
+> ```mermaid
+> graph TD
+>   A[API-calling Agents] -->|Requires API Access| B[Traditional Automation]
+>   C(GUI Operation) -->|Interprets Screenshots| D[Computer Use Agents]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Automation Workflow**
+> *Identify the stages involved in task automation by computer use agents.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Capture Screenshot]
+>   B --> C[Process Image]
+>   C --> D[Generate Action Specs]
+>   D --> E[Execute Actions]
+>   E --> F[End]
+> ```
 
 ## Core Explanation
 

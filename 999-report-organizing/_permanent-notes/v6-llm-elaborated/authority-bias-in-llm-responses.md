@@ -68,8 +68,75 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Authority Bias Mechanism Overview**
+> *Follow the flow from training data to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Expert Endorsements]
+>   C[Affirmative Framing]
+>   D[Reinforcement Learning]
+>   E[Socially Appropriate Behaviors]
+>   F[Model Output]
+>   G[Confidence Boost]
+>   H[Hallucination]
+>   A -->|Learn Patterns| B
+>   B -->|Associate with Correctness| C
+>   C --> D
+>   D -->|Reward Alignment| E
+>   E --> F
+>   F -->|Boost Confidence| G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Output Comparison Based on Authority**
+> *Compare the model's response to identical claims from different sources.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Claim]
+>   B[Nobel Laureate Attribution]
+>   C[Anonymous Attribution]
+>   D[Detailed Response]
+>   E[Confident Tone]
+>   F[Brief Response]
+>   G[Skeptical Tone]
+>   A -->|Attributed to Nobel Laureate| B
+>   A -->|Attributed Anonymously| C
+>   B --> D
+>   B --> E
+>   C --> F
+>   C --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Authority Bias**
+> *Identify the impact on different application areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Advice]
+>   C[Overly Simplified Content]
+>   D[Biased Educational Materials]
+>   E[Simplified Legal Guidance]
+>   F[Misleading Advice]
+>   A -->|LLM Generates Summary| C
+>   C --> D
+>   B -->|LLM Provides Interpretation| E
+>   E --> F
+> ```
 
 ## Core Explanation
 

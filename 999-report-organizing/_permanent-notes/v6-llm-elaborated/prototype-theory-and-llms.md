@@ -67,8 +67,73 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prototype Theory Overview**
+> *Identify the key components of prototype theory and their application to LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Category]
+>   B[Prototypical Examples]
+>   C[Statistical Patterns]
+>   D[Confidence in Classification]
+>   E[Cohesive Responses]
+>   F[Creative Output]
+>   A -->|Graded Membership| B
+>   B -->|Training Data Distribution| C
+>   C -->|Emergence of Prototypes| D
+>   D -->|Typical Category Members| E
+>   E -->|Contextual Appropriateness| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Understand the influence of top-down and bottom-up processing on LLM text generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Abstract Prototypes]
+>   C[Sensory Information]
+>   D[Text Generation]
+>   E[Cohesive Output]
+>   F[Diverse Output]
+>   A -->|Top-Down| B
+>   A -->|Bottom-Up| C
+>   B -->|Learned Patterns| D
+>   C -->|Immediate Features| D
+>   D -->|Cohesive Text| E
+>   D -->|Diverse Text| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Prototype Theory in LLMs**
+> *Trace the flow of prototype theory from human cognition to model behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Prototypes]
+>   B[Cognitive Processes]
+>   C[LLM Training Data]
+>   D[Model Prototypes]
+>   E[Classification Performance]
+>   F[Prompt Engineering]
+>   G[User Interaction]
+>   A -->|Cognitive Mechanisms| B
+>   B -->|Training Examples| C
+>   C -->|Statistical Patterns| D
+>   D -->|Confidence in Classification| E
+>   E -->|Effective Prompts| F
+>   F -->|Enhanced User Experience| G
+> ```
 
 ## Core Explanation
 

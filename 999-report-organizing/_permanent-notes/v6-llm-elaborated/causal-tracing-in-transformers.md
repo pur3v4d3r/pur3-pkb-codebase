@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Causal Tracing Process Flow**
+> *Follow the steps from clean prompt to corrupted pass and restoration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Clean Prompt] --> B[Record Activations]
+>   C[Corrupted Forward Pass] --> D[Restore Activations]
+>   E[Observe Behavior Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Activation Patching Granularity**
+> *Identify the different levels at which activation patching can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Level] --> B[Layer Level]
+>   C[Module Level]
+> ```
+
+
+> [!abstract] **Diagram 3 — Causal Tracing vs Attention Knockout**
+> *Compare the methods of activation patching and attention knockout.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CleanRun as CR
+>   participant CorruptedPass as CP
+>   participant ActivationPatching as AP
+>   participant AttentionKnockout as AK
+>   CR->>AP: Replace Activations
+>   CP-->>AK: Remove/Alter Heads
+> ```
 
 ## Core Explanation
 

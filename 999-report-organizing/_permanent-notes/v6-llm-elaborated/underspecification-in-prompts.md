@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sources of Underspecification**
+> *Identify the different sources that lead to underspecified prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Unclear Scope]
+>   B[Missing Output Format]
+>   C[Audience Specifications]
+>   D[Vague Success Criteria]
+>   E[Undefined Knowledge Source Boundaries]
+>   A -->|Example| F[Summarize Entire Document vs Sections]
+>   B -->|Example| G[Length and Structure Constraints]
+>   C -->|Example| H[Intended Audience]
+>   D -->|Example| I[Success Metrics]
+>   E -->|Example| J[Knowledge Base Boundaries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Underspecification**
+> *Understand how underspecified prompts affect model behavior and learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Underspecified Prompt] --> B[Variability in Model Behavior]
+>   B --> C[Brittleness in Responses]
+>   C --> D[Sensitivity to Ambiguity]
+>   A --> E[Habits or Biases Development]
+>   E --> F[Lack of Flexibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Creative vs Underspecified Tasks**
+> *Distinguish between intentional vagueness for creativity and unintended underspecification.*
+>
+> ```mermaid
+> classDiagram
+>   class Intentional_Vagueness{
+>     +Encourage_Creativity()
+>     +Leave_Room_For_Interpretation()
+>   }
+>   class Underspecified_Tasks{
+>     -Poor_Prompt_Design()
+>     -Task_Failures()
+>     -Multiple_Interpretations()
+>   }
+>   Intentional_Vagueness --> Encourage_Creativity
+>   Underspecified_Tasks --> Poor_Prompt_Design
+> ```
 
 ## Core Explanation
 

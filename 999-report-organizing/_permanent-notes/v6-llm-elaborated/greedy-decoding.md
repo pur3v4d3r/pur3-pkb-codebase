@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Greedy Decoding Process Flow**
+> *Follow the sequence from input to output, noting local optimality at each step.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Token Probability Calculation]
+>   B --> C[Select Most Probable Token]
+>   C --> D[Generate Next Token]
+>   D --> E[Output Sequence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Decoding Strategies**
+> *Compare greedy decoding with beam search in terms of local vs global optimality.*
+>
+> ```mermaid
+> graph TD
+>   A[Greedy Decoding] -->|Local Optimal| B[Immediate Output]
+>   C[Beam Search] -->|Global Optimal| D[Better Overall Sequence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the contrasting approaches of greedy decoding and beam search.*
+>
+> ```mermaid
+> graph TD
+>   A[Greedy Decoding] -->|Bottom-Up| B[Immediate Token Choice]
+>   C[Beam Search] -->|Top-Down| D[Broad Context Consideration]
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Curriculum Learning Process Flow**
+> *Follow the progression from simple to complex examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Simpler Examples]
+>   B --> C[Complex Examples]
+>   C --> D[Final Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — Curriculum vs Anti-Curriculum Comparison**
+> *Compare the order of difficulty in both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B1{Curriculum}
+>   B1 -->|Easy to Hard| C1[Final Model]
+>   A --> B2{Anti-Curriculum}
+>   B2 -->|Hard to Easy| C2[Final Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Spaced vs Massed Practice**
+> *Observe the difference in task sequencing.*
+>
+> ```mermaid
+> graph TD
+>   A1[Simpler Examples] --> B1[Complex Examples]
+>   A2[Simpler Examples] --> C1[Pause]
+>   C1 --> D1[Complex Examples]
+>   subgraph Spaced Practice
+>     A1
+>     C1
+>     D1
+>   end
+>   subgraph Massed Practice
+>     A2
+>     B1
+>   end
+> ```
 
 ## Core Explanation
 

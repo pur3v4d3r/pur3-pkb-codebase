@@ -69,8 +69,83 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Nuance Preservation Mechanisms**
+> *Identify the factors contributing to nuance loss.*
+>
+> ```mermaid
+> graph TD
+>   A[Complexity]
+>   B[Density]
+>   C[Length Targets]
+>   D[Nuance Loss]
+>   E[Training Data]
+>   F[Systematic Stripping]
+>   G[Audience Expectations]
+>   H[Space Constraints]
+>   I[Context Lack]
+>   A -->|Increases| D
+>   B -->|Increases| D
+>   C -->|Encourages| F
+>   E -->|Incorporates| F
+>   G -->|Limits| D
+>   H -->|Limits| D
+>   I -->|Lacks| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Summarization Techniques Comparison**
+> *Compare extractive and abstractive summarization methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Extractive]
+>   B[Abstractive]
+>   C[Nuance Preservation]
+>   D[Coherence]
+>   E[Redundancy]
+>   F[Simplification Risk]
+>   G[Audience Clarity]
+>   H[Essence Capture]
+>   I[Context Understanding]
+>   A -->|Preserves More Nuances| C
+>   A -->|Risk of Redundancy| E
+>   B -->|Ensures Coherence| D
+>   B -->|Risks Simplification| F
+>   G -->|Balanced Clarity| A
+>   H -->|Captures Essence| B
+>   I -->|Requires Context| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Nuance Preservation in Scientific Research**
+> *Understand the importance of nuance preservation in scientific summaries.*
+>
+> ```mermaid
+> graph TD
+>   A[Summary]
+>   B[Nuances]
+>   C[Fabrication]
+>   D[Nuance Stripping]
+>   E[Integrity]
+>   F[Misleading Claims]
+>   G[Qualifications]
+>   H[Likely Accurate]
+>   I[Inaccurate Assumptions]
+>   A -->|Omits Nuances| B
+>   C -->|Rarely Occurs| D
+>   D -->|Leads To| E
+>   F -->|Misleads Readers| G
+>   H -->|Often True| I
+> ```
 
 ## Core Explanation
 

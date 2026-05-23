@@ -68,8 +68,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Maieutic Prompting Process Flow**
+> *Follow the recursive verification process from claim to subclaims.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Claim]
+>   C[Justification]
+>   D[Subclaim]
+>   E[Verification]
+>   F[Consistency Check]
+>   G[End]
+>   A --> B
+>   B -->|If True?| C
+>   C --> D
+>   D --> E
+>   E -->|If Consistent?| F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Belief Tree Structure**
+> *Observe the hierarchical structure of claims and subclaims.*
+>
+> ```mermaid
+> graph TD
+>   A[Root Claim]
+>   B1[Subclaim 1]
+>   B2[Subclaim 2]
+>   C11[Sub-subclaim 1.1]
+>   C12[Sub-subclaim 1.2]
+>   C21[Sub-subclaim 2.1]
+>   A --> B1
+>   A --> B2
+>   B1 --> C11
+>   B1 --> C12
+>   B2 --> C21
+> ```
+
+
+> [!abstract] **Diagram 3 — Recursive Verification Flowchart**
+> *Trace the recursive questioning and verification process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Claim]
+>   B[Verify Justification]
+>   C1[Subclaim 1]
+>   C2[Subclaim 2]
+>   D1[Sub-subclaim 1.1]
+>   D2[Sub-subclaim 1.2]
+>   E1[Sub-subclaim 2.1]
+>   A --> B
+>   B -->|If True?| C1
+>   B -->|Else| C2
+>   C1 -->|Verify Justification| D1
+>   C1 -->|Verify Justification| D2
+>   C2 -->|Verify Justification| E1
+> ```
 
 # Maieutic Prompting
 

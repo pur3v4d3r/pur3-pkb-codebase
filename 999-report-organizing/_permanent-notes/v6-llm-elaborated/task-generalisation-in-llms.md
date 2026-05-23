@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Generalisation Process Flow**
+> *Follow the flow from pretraining to task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretraining] --> B[Tuning]
+>   B --> C[Instructional Design]
+>   C --> D[Model Deployment]
+>   D --> E[User Interaction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Generalisation Taxonomy**
+> *Identify the different types of task generalisation.*
+>
+> ```mermaid
+> graph TD
+>   A(Task-Generalisation) --> B(Task-Type)
+>   A --> C(Structural-Novelty)
+>   B --> D(Known-Tasks)
+>   C --> E(New-Capabilities)
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Performance Across Training Phases**
+> *Compare performance on known vs novel tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Known-Tasks] --> B(Effective-Performance)
+>   C[Novel-Tasks] --> D(Limited-Generalisation)
+> ```
 
 ## Core Explanation
 

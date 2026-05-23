@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Copy-Suppression Mechanism Overview**
+> *Follow the flow from input to output, noting penalties for repetitive sequences.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Tokens] --> B[Attention Heads]
+>   B --> C[Token Sequences]
+>   C --> D[Penalty Calculation]
+>   D --> E[Output Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Copy-Suppression vs Induction**
+> *Compare the roles of copy-suppression and induction heads in token generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Induction Heads] --> B[Boost Token Matching]
+>   C[Copy-Suppression Heads] --> D[Penalize Repetitive Sequences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify how copy-suppression promotes reflective thinking over reactive.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive] --> B[Token-by-Token Copying]
+>   C[Reflective] --> D[Penalize Repetitive Sequences]
+> ```
 
 ## Core Explanation
 

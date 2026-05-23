@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Win Rate Calculation Process**
+> *Follow the flow from input to final win rate calculation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Pair] --> B[Evaluation]
+>   B --> C[Outcome]
+>   C --> D[Aggregation]
+>   D --> E[Win Rate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Win Rate and Accuracy Metrics**
+> *Compare the focus areas of win rate and accuracy metrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Win Rate]
+>   B[Accuracy]
+>   A -->|Reflects User Preference| C[Comparative Measure]
+>   B -->|Correctness of Predictions| D[Quantifies Correctness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Elo-Style Ranking System**
+> *See how win rates contribute to dynamic model rankings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant ModelA as A
+>   participant ModelB as B
+>   participant EloSystem as E
+>   U->>A: Input
+>   U->>B: Input
+>   A-->>U: Output
+>   B-->>U: Output
+>   U->>E: Compare Outputs
+>   E->>A: Update Rank
+>   E->>B: Update Rank
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Temporal Reasoning Tasks Overview**
+> *Identify the types of temporal reasoning tasks LLMs can perform.*
+>
+> ```mermaid
+> graph TD
+>   A[Event Ordering] --> B[Forward Chains]
+>   A --> C[Backward Chains]
+>   D[Integration Across Documents] --> E[Complex Tasks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Reasoning Challenges in LLMs**
+> *Notice the asymmetry between forward and backward temporal chains.*
+>
+> ```mermaid
+> graph TD
+>   A[Forward Chains] --> B[Well-Handled]
+>   C[Backward Chains] --> D[Poorly Handled]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Reasoning Applications**
+> *Observe the diverse applications of temporal reasoning in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[News Summarization]
+>   C[Legal Document Analysis] --> D[Historical Event Analysis]
+> ```
 
 ## Core Explanation
 

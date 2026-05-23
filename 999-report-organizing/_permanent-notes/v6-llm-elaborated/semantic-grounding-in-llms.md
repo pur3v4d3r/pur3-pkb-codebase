@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Grounding Process Flow**
+> *Follow the stages from pretraining to inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretraining]
+>   B[Instruction Tuning]
+>   C[Supplementary Mechanisms]
+>   D(Inference)
+>   A -->|Imbue Factual Knowledge| B
+>   B -->|Refine World-Knowledge Retrieval| C
+>   C -->|Enhance Robustness| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Statistical vs Semantic Grounding**
+> *Compare the focus of statistical and semantic grounding.*
+>
+> ```mermaid
+> graph TD
+>   A[Statistical Co-occurrence]
+>   B[True Semantic Grounding]
+>   A -->|Frequency Focus| "Recall Phrases"
+>   B -->|Meaning Focus| "Retrieve Accurate Knowledge"
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Application Scenarios**
+> *Identify key applications and their grounding requirements.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Cross-Lingual Applications]
+>   C[Contextual Understanding in Chatbots]
+> ```
 
 ## Core Explanation
 

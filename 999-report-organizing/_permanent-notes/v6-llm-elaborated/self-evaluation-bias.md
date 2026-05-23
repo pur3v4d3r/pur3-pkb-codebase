@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Evaluation Bias Process Flow**
+> *Follow the flow from model generation to evaluation bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Generation] --> B[Evaluation]
+>   B --> C[Bias Favoring Own Style]
+>   C --> D[Favorable Scores for Similar Models]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Evaluation Bias vs Confirmation Bias Comparison**
+> *Compare the contexts and mechanisms of both biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Evaluation Bias] -->|Context| B[Evaluating Model Outputs]
+>   C[Confirmation Bias] -->|Context| D[Human Decision-Making]
+>   A -->|Mechanism| E[Favoring Own Style]
+>   C -->|Mechanism| F[Confirming Pre-Existing Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Evaluation**
+> *Identify the differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Characteristics| B[Deliberate Review]
+>   C[Reactive Thinking] -->|Characteristics| D[Immediate Response]
+>   E[Evaluation Process] -->|Outcome| F[Critically Assessing Alternatives]
+>   G[Hasty Favoritism] -->|Outcome| H[Favoring Familiar Patterns]
+> ```
 
 ## Core Explanation
 

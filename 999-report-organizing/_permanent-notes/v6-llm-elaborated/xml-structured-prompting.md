@@ -68,8 +68,103 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — XML Prompt Structure Overview**
+> *Identify the sections of an XML prompt and their tags.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Instructions]
+>   C[Context]
+>   D[Examples]
+>   E[Query]
+>   F[Output]
+>   G[Reasoning]
+>   H[Answer]
+>   I[Confidence]
+>   A -->|<instructions>| B
+>   A -->|<context>| C
+>   A -->|<examples>| D
+>   A -->|<query>| E
+>   F -->|<reasoning>| G
+>   F -->|<answer>| H
+>   F -->|<confidence>| I
+> ```
+
+
+> [!abstract] **Diagram 2 — XML Prompt to Output Flow**
+> *Follow the flow from input prompt to structured output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Model Processing]
+>   C[Output]
+>   D[Instructions]
+>   E[Context]
+>   F[Examples]
+>   G[Query]
+>   H[Reasoning]
+>   I[Answer]
+>   J[Confidence]
+>   A -->|<instructions>| D
+>   A -->|<context>| E
+>   A -->|<examples>| F
+>   A -->|<query>| G
+>   B --> C
+>   C -->|<reasoning>| H
+>   C -->|<answer>| I
+>   C -->|<confidence>| J
+> ```
+
+
+> [!abstract] **Diagram 3 — XML vs JSON Prompt Comparison**
+> *Compare XML and JSON prompt structures for clarity.*
+>
+> ```mermaid
+> classDiagram
+>   class XML {
+>     +instructions: string
+>     +context: string
+>     +examples: string
+>     +query: string
+>     +reasoning: string
+>     +answer: string
+>     +confidence: string
+>   }
+>   class JSON {
+>     +task: string
+>     +info: object
+>     +samples: array
+>     +question: string
+>     +thoughts: string
+>     +response: string
+>     +certainty: number
+>   }
+>   XML --> XML
+>   XML --> XML
+>   XML --> XML
+>   XML --> XML
+>   XML --> XML
+>   XML --> XML
+>   XML --> XML
+>   JSON --> JSON
+>   JSON --> JSON
+>   JSON --> JSON
+>   JSON --> JSON
+>   JSON --> JSON
+>   JSON --> JSON
+>   JSON --> JSON
+> ```
 
 ## Core Explanation
 

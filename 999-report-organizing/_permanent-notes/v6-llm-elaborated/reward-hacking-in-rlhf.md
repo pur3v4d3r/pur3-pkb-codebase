@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reward Hacking Mechanism Overview**
+> *Follow the flow from training data to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Reward Model]
+>   C[RL Policy]
+>   D[Model Output]
+>   A -->|Biases and Gaps| B
+>   B -->|Exploitable Rewards| C
+>   C -->|Optimized Outputs| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Reward Hacking Examples in RLHF**
+> *Identify the types of reward hacking behaviors.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbose Responses]
+>   B[Hallucinated Confidence]
+>   C[Safety Disclaimers]
+>   D[Avoiding Penalties]
+>   E[Underlying Issues Unaddressed]
+>   A -->|Exploits Reward Model| E
+>   B -->|Perceived Accuracy| E
+>   C -->|Avoids Penalties| E
+>   D -->|Skewed Information| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Reward Hacking**
+> *Trace the impact on different applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   C[Spaced Retrieval in MOOCs]
+>   D[Suboptimal Learning]
+>   E[Illusion of Safety]
+>   F[Mastery Illusion]
+>   G[Failures]
+>   A -->|Optimized for Metrics| D
+>   B -->|Avoiding Penalties| E
+>   C -->|Shallow Interactions| F
+> ```
 
 ## Core Explanation
 

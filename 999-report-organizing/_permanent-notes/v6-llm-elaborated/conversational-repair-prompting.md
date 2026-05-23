@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conversational Repair Flowchart**
+> *Follow the flow from user feedback to model correction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Feedback] --> B[Model Detects Error]
+>   B --> C[Generate Corrected Response]
+>   C --> D[Output Correction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Conversational Repair Mechanism**
+> *Identify the stages from feedback to correction.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitor for Feedback] --> B[Acknowledge Mistake]
+>   B --> C[Generate Corrected Response]
+>   C --> D[Output Correction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conversational Repair vs Dialogue Management**
+> *Compare the focus areas of conversational repair and dialogue management.*
+>
+> ```mermaid
+> classDiagram
+>   class ConversationalRepair{
+>     -ErrorDetection
+>     -CorrectionGeneration
+>   }
+>   class DialogueManagement{
+>     +ContextSetting
+>     +TopicNavigation
+>   }
+>   ConversationalRepair --> ErrorDetection
+>   ConversationalRepair --> CorrectionGeneration
+>   DialogueManagement --> ContextSetting
+>   DialogueManagement --> TopicNavigation
+> ```
 
 ## Core Explanation
 

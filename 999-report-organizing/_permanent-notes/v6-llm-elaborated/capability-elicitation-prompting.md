@@ -67,8 +67,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Types for Capability Elicitation**
+> *Identify different types of prompts used to elicit latent capabilities.*
+>
+> ```mermaid
+> graph TD
+> A[Role Prompting]
+> B[Chain-of-Thought Framing]
+> C[Step-by-Step Decomposition]
+> D[Meta-Prompting]
+> E[Format Scaffolding]
+> A -->|Activates Expert Persona| F[Specialized Knowledge Frames]
+> B -->|Encourages Deliberate Reasoning| G[Reasoning Processes]
+> C -->|Guides Subgoals| H[Structured Problem-Solving]
+> D -->|Reflects on Task Nature| I[Higer-Order Thinking Skills]
+> E -->|Provides Structural Cues| J[Internal Representation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Application Areas of Capability Elicitation**
+> *Understand the practical implications in different fields.*
+>
+> ```mermaid
+> graph TD
+> A[Instructional Design]
+> B[Model Evaluation]
+> C[Deployment Reliability]
+> A -->|Simulates Real-World Scenarios| D[Educational Materials]
+> B -->|Incorporates Elicitation Techniques| E[Accurate Model Potential]
+> C -->|Assesses Accessibility and Robustness| F[Consistent Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Theoretical Foundations of Capability Elicitation**
+> *Trace the cognitive science principles underlying capability elicitation.*
+>
+> ```mermaid
+> graph TD
+> A[Cognitive Science]
+> B[Schema Theory]
+> C[Human Cognition Frameworks]
+> D[Prompt Design Alignment]
+> E[Elicits Latent Capabilities]
+> F[Enhances Model Performance]
+> G[Complex Problem-Solving Tasks]
+> H[Sophisticated Elicitation Techniques]
+> I[Broad Functionalities]
+> J[Achieves Practical Utility]
+> A --> B
+> B --> C
+> C --> D
+> D --> E
+> E --> F
+> F --> G
+> G --> H
+> H --> I
+> I --> J
+> ```
 
 ## Core Explanation
 

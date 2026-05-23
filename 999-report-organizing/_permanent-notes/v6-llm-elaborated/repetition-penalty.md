@@ -68,8 +68,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Repetition Penalty Mechanism**
+> *Follow the flow of token processing and penalty application.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Logits]
+>   B[Check Token Frequency]
+>   C{Has Token Been Seen?}
+>   D[Apply Penalty Factor]
+>   E[Adjusted Logits]
+>   F[Select Next Token]
+>   A --> B
+>   B -->|Yes| C
+>   C -->|No| F
+>   C -->|Yes| D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Frequency Decay Example**
+> *Observe how penalties decay with distance from the current position.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Position]
+>   B{Penalty for Token at -1}
+>   C{Penalty for Token at -2}
+>   D{Penalty for Token at -3}
+>   E{Penalty for Token at -4}
+>   F[No Penalty Beyond]
+>   A -->|Token at Position -1| B
+>   B -->|Penalty Factor * 0.9| C
+>   C -->|Penalty Factor * 0.8| D
+>   D -->|Penalty Factor * 0.7| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Repetition Penalty in Context**
+> *Trace the impact of Repetition Penalty on generated text quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Generated Text]
+>   B{Contains Repetitive Patterns?}
+>   C[Apply Repetition Penalty]
+>   D[Improved Coherence and Diversity]
+>   E[Enhanced Output Quality]
+>   A --> B
+>   B -->|Yes| C
+>   C --> D
+>   D --> E
+> ```
 
 ## Core Explanation
 

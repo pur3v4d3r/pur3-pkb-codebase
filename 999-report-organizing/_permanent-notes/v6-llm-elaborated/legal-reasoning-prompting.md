@@ -69,8 +69,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Legal Reasoning Prompt Structure**
+> *Identify the key components of a legal reasoning prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Jurisdiction]
+>   C[Facts]
+>   D[Laws]
+>   E[OutputFormat]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Jurisdictional Consistency in Legal Reasoning**
+> *Understand the importance of jurisdiction-specific prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[General Prompt]
+>   B[Jurisdiction1]
+>   C[Jurisdiction2]
+>   D[Jurisdiction3]
+>   E[Different Outputs]
+>   F[Consistent Output]
+>   A -->|Jurisdiction1| B
+>   A -->|Jurisdiction2| C
+>   A -->|Jurisdiction3| D
+>   B -->|Output1| E
+>   C -->|Output2| E
+>   D -->|Output3| E
+>   F -->|Consistent Across Jurisdictions| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Legal Reasoning**
+> *Compare reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Scenario]
+>   B1[Review & Analyze]
+>   C1[Formulate Response]
+>   D1[Reflective]
+>   B2[Immediate Response]
+>   C2[Reactive]
+>   D2[Reactive]
+>   A -->|Reflective| B1
+>   B1 --> C1
+>   C1 --> D1
+>   A -->|Reactive| B2
+>   B2 --> C2
+>   C2 --> D2
+> ```
 
 ## Core Explanation
 

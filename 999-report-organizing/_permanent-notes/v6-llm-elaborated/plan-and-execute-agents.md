@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Plan-and-Execute Workflow Overview**
+> *Follow the flow from planning to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Planning]
+>   B --> C[Execution]
+>   C --> D[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Plan-and-Execute Agent Modules**
+> *Identify the roles of planner and executor modules.*
+>
+> ```mermaid
+> graph TD
+>   A[Planner] --> B[Executor]
+>   A --> C[Generate Plan]
+>   B --> D[Execute Plan]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Decomposition Example**
+> *Trace the hierarchical breakdown of a complex task.*
+>
+> ```mermaid
+> graph TD
+>   A[T1] --> B[T2]
+>   A --> C[T3]
+>   B --> D[T4]
+>   C --> E[T5]
+> ```
 
 ## Core Explanation
 

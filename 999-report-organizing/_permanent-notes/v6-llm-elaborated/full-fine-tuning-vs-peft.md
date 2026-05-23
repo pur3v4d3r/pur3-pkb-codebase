@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — FFT vs PEFT Memory Usage**
+> *Compare memory usage between FFT and PEFT methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning]
+>   B(Parameter-Efficient Fine-Tuning)
+>   A -->|High Memory Demand| C[All Parameters]
+>   B -->|Low Memory Demand| D[Few Parameters]
+> ```
+
+
+> [!abstract] **Diagram 2 — FFT vs PEFT Computational Cost**
+> *Compare computational cost between FFT and PEFT methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning]
+>   B(Parameter-Efficient Fine-Tuning)
+>   A -->|High Compute Cost| C[All Parameters]
+>   B -->|Low Compute Cost| D[Few Parameters]
+> ```
+
+
+> [!abstract] **Diagram 3 — FFT vs PEFT Adaptation Scenarios**
+> *Identify scenarios where FFT or PEFT is more suitable.*
+>
+> ```mermaid
+> graph TD
+>   A[Small to Medium Datasets]
+>   B[Large Datasets]
+>   C[Tasks Close to Pretraining]
+>   D[Tasks Far from Pretraining]
+>   A -->|PEFT| E[Efficient Adaptation]
+>   B -->|FFT| F[Maximal Expressivity]
+>   C -->|PEFT| G[Resource Efficiency]
+>   D -->|FFT| H[Better Performance]
+> ```
 
 ## Core Explanation
 

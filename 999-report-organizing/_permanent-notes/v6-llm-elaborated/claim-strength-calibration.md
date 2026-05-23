@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Claim Strength Calibration Process Flow**
+> *Follow the flow from input data to output claim strength.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Data]
+>   B[Training Bias Analysis]
+>   C[Evidentiary Support Assessment]
+>   D[Systematic Biases Evaluation]
+>   E[Hedge Calibration Adjustment]
+>   F[Output Claim Strength]
+> ```
+
+
+> [!abstract] **Diagram 2 — Claim Strength vs Evidence Alignment**
+> *Compare claim strength with evidence levels across different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Evidence Level Low] --> B[Claim Strength Understated]
+>   C[Evidence Level Medium] --> D[Claim Strength Misaligned]
+>   E[Evidence Level High] --> F[Claim Strength Overstated]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Calibration**
+> *Identify the differences between reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking]
+>   B[Evaluate Evidence]
+>   C[Judge Assertion Accuracy]
+>   D[Reactive Thinking]
+>   E[Immediate Response]
+>   F[Automatic Assessment]
+> ```
 
 ## Core Explanation
 

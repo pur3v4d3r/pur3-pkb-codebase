@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Injection Process Flow**
+> *Follow the flow from input to memory retrieval and response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Context Analysis]
+>   B --> C[Memory Retrieval]
+>   C --> D[Integration into Context]
+>   D --> E[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Types of Memory in Dialogue Systems**
+> *Identify the different types of memory used and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A(Working Memory) --> B(Episodic Memory)
+>   A --> C(Semantic Memory)
+>   A --> D(Procedural Memory)
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Injection in Customer Service**
+> *Trace the flow of memory injection from initial interaction to personalized response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Interaction] --> B[Retrieve Past Interactions]
+>   B --> C[Integrate User History]
+>   C --> D[Generate Personalized Response]
+> ```
 
 ## Core Explanation
 

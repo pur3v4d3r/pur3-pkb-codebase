@@ -68,8 +68,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Window Management Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Truncate History]
+>   C[Prioritize Recent]
+>   D[Compress Irrelevant]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Context Window Degradation Over Turns**
+> *Observe how performance drops with increasing conversation length.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial --> Turn1 : Turn 1
+>   Turn1 --> Turn2 : Turn 2
+>   Turn2 --> Turn3 : Turn 3
+>   Turn3 --> Turn4 : Turn 4
+>   Turn4 --> Degradation : >20 Turns
+>   Initial --> Degradation : Direct Path (>20)
+>   state Initial {Initial}
+>   state Turn1 {Turn 1}
+>   state Turn2 {Turn 2}
+>   state Turn3 {Turn 3}
+>   state Turn4 {Turn 4}
+>   state Degradation {Degradation}
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Context Management**
+> *Compare explicit and implicit methods for context tracking.*
+>
+> ```mermaid
+> classDiagram
+>   class Explicit {
+>     +TrackContext()
+>     +UpdateState()
+>     -contextData
+>   }
+>   class Implicit {
+>     +InferContext()
+>     -contextPatterns
+>   }
+>   Explicit --> ContextWindow
+>   Implicit --> ContextWindow
+> ```
 
 ## Core Explanation
 

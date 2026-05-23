@@ -68,8 +68,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Output Length Control Mechanisms**
+> *Identify the different methods to control output length.*
+>
+> ```mermaid
+> graph TD
+>   A[API Parameters]
+>   B[Prompt-Level Controls]
+>   C[max_tokens]
+>   D[Stop Sequences]
+>   E[Embedded Instructions]
+>   F[Structural Constraints]
+>   A -->|Includes| C
+>   A -->|Includes| D
+>   B -->|Includes| E
+>   B -->|Includes| F
+> ```
+
+
+> [!abstract] **Diagram 2 — API vs Prompt-Level Controls**
+> *Compare API-level and prompt-level methods for output length control.*
+>
+> ```mermaid
+> graph TD
+>   A[API Control]
+>   B[Prompt-Level Constraints]
+>   C[max_tokens]
+>   D[Stop Sequences]
+>   E[Embedded Instructions]
+>   F[Structural Constraints]
+>   A -->|Hard Limit| C
+>   A -->|Termination| D
+>   B -->|Guidance| E
+>   B -->|Constraints| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Output Length Control Applications**
+> *Explore various applications of output length control.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Cost Control]
+>   C[Latency Management]
+>   D[Enterprise Optimization]
+> ```
 
 ## Core Explanation
 

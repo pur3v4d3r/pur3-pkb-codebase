@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Medical Clinical Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps and outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Prompt Design]
+>   B --> C[LLM Processing]
+>   C --> D[Output Response]
+>   D --> E[Safety Mechanisms]
+>   E --> F[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Medical Clinical Prompting Safety Mechanisms**
+> *Identify the safety mechanisms that ensure output reliability and accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Uncertainty Quantification] --> B[Mandatory Escalation]
+>   C[Out-of-Scope Refusal] --> D[Error Detection]
+>   E[Human Oversight] --> F[Robust Correction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Clinical Workflow Integration Diagram**
+> *Trace the integration of prompts into clinical workflows for decision support.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant PromptEngine as P
+>   participant LLM as L
+>   participant SafetyMechanism as S
+>   participant Output as O
+>   U->>P: Provide Patient Data
+>   P->>L: Generate Prompt
+>   L->>S: Process and Validate
+>   S-->>O: Deliver Safe Response
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PEFT Workflow Overview**
+> *Follow the flow from Pretrained Model to Fine-Tuned Model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretrained Model] --> B[Task-Specific Data]
+>   B --> C[LoRA Parameters]
+>   C --> D[Fine-Tuning Process]
+>   D --> E[Fine-Tuned Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — PEFT vs Full Fine-Tuning**
+> *Compare the parameter update scope between PEFT and full fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Full Fine-Tuning] -->|Update All Parameters| B[Fine-Tuned Model]
+>   C[PEFT] -->|Update Low-Rank Matrices| D[Fine-Tuned Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — LoRA Mechanism Overview**
+> *Trace the steps from pretrained weights to modified model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretrained Weights] --> B[Introduce Low-Rank Matrices]
+>   B --> C[Modify Pretrained Weights]
+>   C --> D[Fine-Tuned Model]
+> ```
 
 ## Core Explanation
 

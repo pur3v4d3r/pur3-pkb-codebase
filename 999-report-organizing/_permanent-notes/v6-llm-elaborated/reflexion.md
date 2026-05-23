@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reflexion Iterative Process**
+> *Follow the cycle from Trial to Reflection and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Trial]
+>   B --> C[Evaluation]
+>   C --> D[Reflection]
+>   D --> E[Input for Next Attempt]
+>   E --> F[Trial]
+>   F --> G[Evaluation]
+>   G --> H[Reflection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the paths of Reflective and Reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[Immediate Response]
+>   A --> C[Analysis & Reflection]
+>   B --> D[Next Action]
+>   C --> E[Informed Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Mechanism in Reflexion**
+> *Trace the flow from Task to Verbal Feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task] --> B[Evaluation]
+>   B --> C[Verbal Reflection]
+>   C --> D[Input for Next Attempt]
+>   D --> E[Next Task]
+> ```
 
 ## Core Explanation
 

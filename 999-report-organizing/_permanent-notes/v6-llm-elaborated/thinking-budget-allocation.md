@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token Budget vs Task Complexity**
+> *Identify the optimal budget for different task complexities.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Tasks] --> B[Low Budget]
+>   C[Complex Tasks] --> D[High Budget]
+>   E[Moderate Tasks] --> F[Medium Budget]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dynamic Adjustment Strategy**
+> *Understand the real-time adjustment of thinking budgets.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Monitor as Mo
+>   U->>M: Task Request
+>   M->>Mo: Performance Data
+>   Mo-->>M: Adjust Budget
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare resource requirements for reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] --> B[High Resource]
+>   C[Reactive] --> D[Low Resource]
+> ```
 
 ## Core Explanation
 

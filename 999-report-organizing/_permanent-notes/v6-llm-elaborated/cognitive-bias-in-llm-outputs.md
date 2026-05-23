@@ -68,8 +68,79 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Bias Manifestation Factors**
+> *Identify factors influencing LLM bias manifestation.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Architecture]
+>   B[Training Data]
+>   C[Prompt Format]
+>   D[Context]
+>   E[RLHF Alignment]
+>   F[Scale]
+>   A -->|Influences| G[Bias Manifestation]
+>   B -->|Influences| G
+>   C -->|Influences| G
+>   D -->|Influences| G
+>   E -->|Influences| G
+>   F -->|Influences| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Bias Dynamics in Models**
+> *Compare bias dynamics between transformer and RNN models.*
+>
+> ```mermaid
+> graph TD
+>   A[Transformer]
+>   B[RNN]
+>   C[Long-Range Dependencies]
+>   D[Cumulative Errors]
+>   E[Holistic Processing]
+>   F[Sequential Processing]
+>   G[Bias Propagation]
+>   H[Localized Biases]
+>   I[Compounded Distortions]
+>   A -->|Captures| C
+>   B -->|Propagates| D
+>   A -->|Holistic| E
+>   B -->|Sequential| F
+>   C -->|Reduces| G
+>   D -->|Increases| G
+>   E -->|Localized| H
+>   F -->|Cumulative| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Bias Types and Examples**
+> *Understand different types of biases with examples.*
+>
+> ```mermaid
+> graph TD
+>   A[Anchoring]
+>   B[Framing]
+>   C[Avaliability Bias]
+>   D[Social Desirability]
+>   E[Confirmation Seeking]
+>   F[Over-reliance on Initial Info]
+>   G[Evidence Overemphasis]
+>   H[Hypothesis Confirmation]
+>   I[Demographic Prejudices]
+>   A -->|Example| F
+>   B -->|Example| H
+>   C -->|Example| G
+>   D -->|Example| I
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hedge Phrases Functionality**
+> *Identify the intended and observed functions of hedge phrases.*
+>
+> ```mermaid
+> graph TD
+>   A[Well-Known Facts]
+>   B[Obscure or Fabricated Facts]
+>   C[Intended Signal: Uncertainty]
+>   D[Observed Behavior: Overconfidence]
+>   E[Intended Signal: Confidence]
+>   F[Observed Behavior: Uncertainty]
+>   A -->|Intended| C
+>   A -->|Observed| D
+>   B -->|Intended| E
+>   B -->|Observed| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Hedge Phrases in Instructional Design**
+> *Understand the impact of hedge phrases on learner perception.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Prompt]
+>   B[Hedged Output]
+>   C[Uncertainty Acknowledgment]
+>   D[Critical Thinking]
+>   E[Over-Hedged Output]
+>   F[Degraded User Experience]
+>   A -->|Incorporate Hedging| B
+>   B -->|Encourage Skepticism| D
+>   A -->|Excessive Hedging| E
+>   E -->|Undermine Trust| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Hedge Phrases in Content Moderation**
+> *Identify how hedge phrases signal potential misinformation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Content Prompt]
+>   B[Hedged Output]
+>   C[Potential Misinformation]
+>   D[Flag for Review]
+>   E[Obscure Topic]
+>   F[Overconfidence]
+>   G[Verify Against Sources]
+>   A -->|Hedge Phrases Present| B
+>   B -->|Indicate Uncertainty| C
+>   C -->|Flag for Further Review| D
+>   E -->|Lack of Evidence| F
+>   F -->|Encourage Verification| G
+> ```
 
 ## Core Explanation
 

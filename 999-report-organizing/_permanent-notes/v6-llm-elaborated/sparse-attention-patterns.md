@@ -68,8 +68,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sparse Attention Mechanisms Overview**
+> *Identify the different types of sparse attention patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Windows]
+>   B(Global Tokens)
+>   C(Approximate Sparse)
+>   A -->|Limited Interactions| D[Reduced Complexity]
+>   B -->|Global Attention| D
+>   C -->|LSH Approximation| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Sparse Attention Workflow**
+> *Follow the flow of data through sparse attention mechanisms.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence]
+>   B[Sparse Pattern Selection]
+>   C[Query-Key Interaction]
+>   D[Output Weights]
+>   E[Contextual Output]
+>   A --> B
+>   B -->|Local/Global Tokens| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Sparse Attention Performance Trade-offs**
+> *Compare the performance and efficiency of different sparse patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Windows]
+>   B(Global Tokens)
+>   C(Approximate Sparse)
+>   D[Performance]
+>   E[Efficiency]
+>   F[Interpretability]
+>   A -->|High Efficiency| E
+>   A -->|Moderate Performance| D
+>   A -->|Good Interpretability| F
+>   B -->|High Performance| D
+>   B -->|Low Efficiency| E
+>   B -->|Poor Interpretability| F
+>   C -->|Variable Efficiency| E
+>   C -->|Variable Performance| D
+>   C -->|Moderate Interpretability| F
+> ```
 
 ## Core Explanation
 

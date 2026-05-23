@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reflexion Cycle Overview**
+> *Follow the cycle from Attempt to Reflection and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attempt] --> B[Failure]
+>   B --> C[Reflection]
+>   C --> D[Verbal Summary]
+>   D --> E[Integrate into Memory]
+>   E --> F[Next Attempt]
+> ```
+
+
+> [!abstract] **Diagram 2 — Learning Through Reflection**
+> *Trace the path from Failure to Improved Performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Failure] --> B[Analyze]
+>   B --> C[Identify Issues]
+>   C --> D[Generate Summary]
+>   D --> E[Integrate Memory]
+>   E --> F[Improve Next Attempt]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflection vs Numerical Feedback**
+> *Compare the two learning approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Numerical Feedback] --> B[Quantitative Improvement]
+>   C[Language-Mediated Reflection] --> D[Nuanced Learning]
+>   E{Outcome}
+>   B -->|Often Limited| E
+>   D -->|Detailed Insights| E
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,42 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — G-Eval Process Flowchart**
+> *Follow the steps from form generation to scoring.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Evaluator LLM Generates Form]
+>   B --> C[Score Using Token Probability Distributions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Probability Scoring vs Sampled Ratings**
+> *Compare the reliability of token probability scoring versus sampled ratings.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Probability Scoring] -->|Captures Uncertainty| B[Reliable Scores]
+>   C[Sampled Ratings] -->|Introduces Variance| D[Inconsistent Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — G-Eval Applications Overview**
+> *Identify the applications where G-Eval can be effectively used.*
+>
+> ```mermaid
+> graph TD
+> C[Creative Writing] -->|Nuanced Feedback| D[Spaced Retrieval in MOOCs]
+> ```
 
 ## Core Explanation
 

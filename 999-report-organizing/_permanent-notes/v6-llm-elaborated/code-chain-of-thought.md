@@ -67,8 +67,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Chain of Thought Process Flow**
+> *Follow the sequence from problem identification to implementation.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Problem]
+>   B[Choose Algorithm/Data Structure]
+>   C[Design Function Interface]
+>   D[Pseudocode Implementation]
+>   E[Executable Code]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Code Chain of Thought Taxonomy**
+> *Navigate the hierarchy from general problem-solving to specific coding steps.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Solving]
+>   B[Algorithmic Thinking]
+>   C[Planning Steps]
+>   D[Pseudocode]
+>   E[Implementation]
+>   A -->|Involves| B
+>   B -->|Includes| C
+>   C -->|Leads to| D
+>   D -->|Becomes| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Code Chain of Thought Applications**
+> *Explore the different applications in instructional design, system architecture, and debugging.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[System Architecture]
+>   C[Debugging Complex Systems]
+>   D[Problem Solving Enhancement]
+>   E[Error Reduction]
+>   F[Pedagogical Tool]
+>   G[Cost Prevention]
+>   H[Root Cause Identification]
+>   I[Logical Debugging]
+>   A -->|Enhances| D
+>   B -->|Ensures| G
+>   C -->|Improves| H
+>   D -->|Reduces| E
+>   F -->|Fosters| I
+> ```
 
 # Code Chain of Thought
 

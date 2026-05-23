@@ -67,8 +67,78 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Train-test leakage pathways**
+> *Follow the arrows to see how benchmarks influence model development.*
+>
+> ```mermaid
+> graph TD
+>   A[Development]
+>   B[Evaluation]
+>   C[Hyperparameter Tuning]
+>   D[Architectural Decisions]
+>   E[Benchmark Metrics]
+>   F[Test Data]
+>   G[Real-world Tasks]
+>   A -->|Influences| B
+>   B -->|Feedback| C
+>   B -->|Feedback| D
+>   C -->|Optimizes for| E
+>   D -->|Chooses based on| E
+>   E -->|Shapes| F
+>   F -->|Contaminates| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Structural leakage feedback loop**
+> *Trace the cycle to understand how repeated evaluations shape model design.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Development
+>   Development --> Evaluation : Evaluate
+>   Evaluation --> HyperparameterTuning : Feedback
+>   HyperparameterTuning --> ArchitecturalDecisions : Adjust
+>   ArchitecturalDecisions --> Development : Iterate
+>   loop Structural Leakage
+>     Development --> Evaluation
+>     Evaluation --> HyperparameterTuning
+>     HyperparameterTuning --> ArchitecturalDecisions
+>     ArchitecturalDecisions --> Development
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Direct vs structural leakage**
+> *Compare the two types of leakage and their impact on model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Development]
+>   B[Evaluation]
+>   C[Test Data]
+>   D[Benchmark Metrics]
+>   E[Model Performance]
+>   F[Real-world Tasks]
+>   G[Direct Contamination]
+>   H[Structural Leakage]
+>   A -->|Influences| B
+>   B -->|Feedback| D
+>   D -->|Shapes| E
+>   E -->|Impacts| F
+>   C -->|Contaminates| A
+>   A -->|Adjusts for| G
+>   B -->|Influences| H
+>   H -->|Shapes| E
+> ```
 
 ## Core Explanation
 

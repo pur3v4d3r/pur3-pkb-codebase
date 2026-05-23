@@ -65,8 +65,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Refinement Cycle Overview**
+> *Follow the iterative process from failure to refinement.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Prompt]
+>   B[Failure]
+>   C[Reflection]
+>   D[Identify Shortcomings]
+>   E[Generate Improved Prompt]
+>   F[Success]
+>   A --> B
+>   B -->|Trigger Reflection| C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the reflective and reactive approaches to prompt refinement.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive]
+>   B[Reflective]
+>   B -->|Analyze Past Performance| C[Improve Based on Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — Linguistic Reasoning Process**
+> *Trace the linguistic reasoning steps from reflection to refinement.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflection]
+>   B[Evaluate Response]
+>   C[Prompt Analysis]
+>   D[Linguistic Critique]
+>   E[Generate New Prompt]
+>   F[Refinement]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
 
 ## Core Explanation
 

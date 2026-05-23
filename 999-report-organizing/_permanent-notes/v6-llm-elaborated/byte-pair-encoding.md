@@ -67,8 +67,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — BPE Iterative Process Overview**
+> *Follow the flow from character-level to target vocabulary size.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Character-Level Vocabulary] --> B[Merge Most Frequent Pairs]
+>   B --> C[Vocabulary Size Check]
+>   C -->|Yes| D[Target Vocabulary Reached]
+>   C -->|No| E[Repeat Merging Process]
+>   E --> F[Merge Next Most Frequent Pair]
+>   F --> G[Vocabulary Size Check]
+>   G -->|Yes| H[Target Vocabulary Reached]
+>   G -->|No| B
+> ```
+
+
+> [!abstract] **Diagram 2 — BPE Tokenization Example Flow**
+> *Trace the transformation of text into subword tokens.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Text Input] --> B[Sentence Split]
+>   B --> C[Character-Level Tokens]
+>   C --> D[Merge Most Frequent Pairs]
+>   D --> E[Vocabulary Expansion]
+>   E --> F[Tokenize Text with New Vocabulary]
+>   F --> G[Output Subword Tokens]
+> ```
+
+
+> [!abstract] **Diagram 3 — BPE Tokenization Mechanism**
+> *Observe the iterative merging of token pairs.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Characters] --> B[Merge Pairs]
+>   B --> C[Vocabulary Update]
+>   C --> D[Check Vocabulary Size]
+>   D -->|Yes| E[Target Reached]
+>   D -->|No| F[Next Iteration]
+>   F --> G[Merge Next Most Frequent Pair]
+>   G --> H[Vocabulary Update]
+>   H --> I[Check Vocabulary Size]
+> ```
 
 # Byte-Pair Encoding
 

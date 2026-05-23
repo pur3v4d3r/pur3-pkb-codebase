@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Deductive Reasoning Process Flow**
+> *Follow the logical steps from premises to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premises] --> B[Inference Rules]
+>   B --> C[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Complex Deductive Reasoning Challenges**
+> *Identify the factors that lead to errors in complex chains.*
+>
+> ```mermaid
+> graph TD
+>   A[Belief Bias] --> B[Error Accumulation]
+>   C[Plausibility Over Logic] --> D[World Knowledge Conflict]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deductive vs Inductive Reasoning Comparison**
+> *Compare the guarantees and roles of deductive and inductive reasoning.*
+>
+> ```mermaid
+> classDiagram
+>   class DeductiveReasoning{
+>     +Guaranteed True Conclusions
+>     +Logical Structure Validation
+>   }
+>   class InductiveReasoning{
+>     +Probable Generalizations
+>     +Specific Instance Analysis
+>   }
+> ```
 
 ## Core Explanation
 

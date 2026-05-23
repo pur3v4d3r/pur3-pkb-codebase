@@ -67,8 +67,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dialogue Act Classification Flow**
+> *Follow the flow from input to classification and response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Interpretation]
+>   B --> C[Act Classification]
+>   C --> D[System Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dialogue Act Taxonomy Hierarchy**
+> *Navigate the hierarchy from general to specific dialogue acts.*
+>
+> ```mermaid
+> graph TD
+>   A[General Acts] --> B[Questioning]
+>   A --> C[Requesting Info]
+>   A --> D[Making Assertions]
+>   A --> E[Soliciting Clarification]
+>   A --> F[Expressing Gratitude]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt vs Supervised Learning Comparison**
+> *Compare the approaches for handling novel and domain-specific acts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant Classifier as C
+>   U->>L: Novel Input (LLM-based Prompting)
+>   L-->>U: Classified Act
+>   alt Domain-Specific Acts
+>     U->>C: Annotated Data (Supervised Learning)
+>     C-->>U: Trained Classification
+>   end
+> ```
 
 ## Core Explanation
 

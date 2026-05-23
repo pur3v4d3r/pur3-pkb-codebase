@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Commonsense Reasoning Mechanism**
+> *Follow the flow from data to latent knowledge activation.*
+>
+> ```mermaid
+> graph TD
+>   A[Text Data]
+>   B[Pattern Recognition]
+>   C[Latent Knowledge]
+>   D[Prompt Activation]
+>   E[Contextual Understanding]
+>   A --> B
+>   B -->|Learn Associations| C
+>   C -->|Specific Prompt| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Commonsense vs Specialized Knowledge**
+> *Compare the types of knowledge and their sources.*
+>
+> ```mermaid
+> classDiagram
+>   class CommonsenseReasoning {
+>     - Physical Norms
+>     - Social Norms
+>     - Causal Understanding
+>     + InferFromContext()
+>   }
+>   class SpecializedFactualKnowledge {
+>     - Explicit Information
+>     + RetrieveFact()
+>   }
+>   CommonsenseReasoning --> "Latent Knowledge"
+>   SpecializedFactualKnowledge --> "Explicit Facts"
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Framing for LLMs**
+> *Understand how task framing impacts model performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Surface-Level Cue]
+>   B[Pattern Matching]
+>   C[Intuitive Understanding]
+>   D[Genuine Comprehension]
+>   C -->|Contextual Relevance| D
+> ```
 
 ## Core Explanation
 

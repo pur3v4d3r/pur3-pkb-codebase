@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Information Density Optimization Process Flow**
+> *Follow the flow from prompt to optimized output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Minimize Redundancy]
+>   B --> C[Preserve Uncertainty Markers]
+>   C --> D[Enhance Information Density]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Application Areas of IDO**
+> *Identify the contexts where IDO is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Optimize Clarity| B
+>   C[Technical Documentation] -->|Streamline Information| B
+>   D[Legal Briefs] -->|Preserve Precision| B
+>   E[Social Media Posts] -->|Enhance Comprehension| B
+>   F[Quick Reference Guides] -->|Improve Usability| B
+>   B[IDO Applications]
+> ```
+
+
+> [!abstract] **Diagram 3 — Information Density vs Compression Ratio**
+> *Compare the focus of IDO and compression techniques.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant IDO as A
+>   participant CR as B
+>   A->>B: Focus on informational content per token
+>   B-->>A: General reduction in size, may lose nuances
+> ```
 
 ## Core Explanation
 

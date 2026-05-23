@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — KGAG Process Flow**
+> *Follow the steps from query to LLM prompt integration.*
+>
+> ```mermaid
+> graph TD
+>   A[User Query] --> B[Identify Relevant Nodes]
+>   B --> C[Linearize into Fragments]
+>   C --> D[Integrate with Prompt]
+>   D --> E[LLM Generates Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — KGAG vs Text-Based RAG**
+> *Compare KGAG's structured approach to text-based retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[User Query] --> B[KGAG: Traverse Knowledge Graph]
+>   C[RAG: Retrieve Unstructured Texts] --> D[Bypass Keyword Mismatches]
+>   E[Integrate with Prompt] --> F[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Graph Traversal**
+> *Trace multi-hop reasoning paths in the knowledge graph.*
+>
+> ```mermaid
+> graph TD
+>   A[Start Node] --> B[First Hop]
+>   B --> C[Second Hop]
+>   C --> D[Third Hop]
+>   D --> E[End Node]
+> ```
 
 ## Core Explanation
 

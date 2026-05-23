@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Process Reward Model Workflow**
+> *Follow the flow from input to step-level evaluation and output.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Step-Level Evaluation]
+>   C[Feedback]
+>   D[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Outcome vs Step-level Feedback Comparison**
+> *Compare the feedback mechanisms of outcome and step-level models.*
+>
+> ```mermaid
+> graph TD
+>   A[Process]
+>   B[Step-Level Evaluation]
+>   C[Feedback at Each Step]
+>   D[Final Outcome]
+>   E[Outcome Evaluation]
+>   F[Single Feedback]
+>   A -->|Steps| B
+>   B -->|Correctness| C
+>   C -->|Continuous| D
+>   A -->|Result| E
+>   E -->|Overall| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Process**
+> *Trace the difference between reflective and reactive thinking processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem]
+>   B[Immediate Response]
+>   C[Step-by-Step Analysis]
+>   D[Deeper Consideration]
+>   E[Solution]
+>   A -->|Reactive| B
+>   A -->|Reflective| C
+>   B -->|Quick Fix| E
+>   C -->|Detailed Review| D
+>   D -->|Refined Solution| E
+> ```
 
 ## Core Explanation
 

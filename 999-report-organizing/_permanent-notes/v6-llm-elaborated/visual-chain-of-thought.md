@@ -67,8 +67,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Visual CoT Process Flow**
+> *Follow the steps from observation to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Image] --> B[Identify Elements]
+>   B --> C[Reason Relationships]
+>   C --> D[Refine Understanding]
+>   D --> E[Final Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Visual CoT Taxonomy**
+> *See the hierarchical breakdown of reasoning steps.*
+>
+> ```mermaid
+> graph TD
+>   A[Observation] --> B[Identification]
+>   B --> C[Reasoning]
+>   C --> D[Refinement]
+>   D --> E[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Reasoning**
+> *Compare explicit and implicit reasoning methods.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Human as H
+>   alt Explicit
+>     M->>H: Describe Observation
+>     M->>H: Identify Elements
+>     M->>H: Reason Relationships
+>     M->>H: Refine Understanding
+>     M->>H: Final Conclusion
+>   else Implicit
+>     M-->>H: Direct Answer
+>   end
+> ```
 
 ## Core Explanation
 

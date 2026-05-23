@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Top-K Sampling Process Flow**
+> *Follow the steps from input to output text generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Distribution]
+>   B --> C[K Most Probable Tokens]
+>   C --> D[Renormalized Probabilities]
+>   D --> E[Sampling]
+>   E --> F[Output Token]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Decoding Methods**
+> *Compare Top-K Sampling with other decoding strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-K Sampling] -->|Restricts to K tokens| B[Greedy Decoding]
+>   A -->|Excludes low-probability options| C[Temperature Sampling]
+>   A -->|Fixed number of tokens| D[Nucleus Sampling]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the influence of prior knowledge and raw probabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Top-Down] -->|Guided by expectations| B[Coherent Sequences]
+>   C[Bottom-Up] -->|Based on input probabilities| D[Diverse Sequences]
+> ```
 
 ## Core Explanation
 

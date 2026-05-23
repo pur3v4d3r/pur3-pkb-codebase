@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Similarity Process Flow**
+> *Follow the steps from query to semantically similar prompt retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Embed Query]
+>   B --> C[Retrieve Examples]
+>   C --> D[Embed Examples]
+>   D --> E[Compare Embeddings]
+>   E --> F[Select Similar Prompts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Syntactic Similarity Comparison**
+> *Identify the differences between semantic and syntactic similarity measures.*
+>
+> ```mermaid
+> graph TD
+>   A[Syntactic Similarity] -->|Surface-Level Features| B[Word Order]
+>   A -->|Structure| C[Grammar]
+>   D[Semantic Similarity] -->|Deeper Meaning| E[Context]
+>   D -->|Shared Concepts| F[Meaning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Memory Usage**
+> *Understand the contrast between explicit and implicit memory in prompt selection.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Memory] -->|Conscious Recall| B[Semantically Relevant Prompts]
+>   C[Implicit Memory] -->|Unconscious Influence| D[Behavioral Impact]
+> ```
 
 ## Core Explanation
 

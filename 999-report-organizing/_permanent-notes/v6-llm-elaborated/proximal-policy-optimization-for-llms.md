@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PPO Iteration Process Overview**
+> *Follow the flow from policy update to reward feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policy Update] --> B[Generate Completions]
+>   B --> C[Reward Model Evaluation]
+>   C --> D[Feedback Rewards]
+>   D --> E[KL Divergence Check]
+>   E --> F[Penalize KL Divergence]
+>   F --> G[Update Policy Parameters]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token-Level Credit Assignment Mechanism**
+> *Trace the path from token generation to reward feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Token] --> B[Reward Model Score]
+>   B --> C[KL Penalty Check]
+>   C --> D[Penalize KL Divergence]
+>   D --> E[Update Policy Parameters]
+> ```
+
+
+> [!abstract] **Diagram 3 — PPO Computational Workflow**
+> *Identify the four forward passes required for each training step.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant PolicyModel as PM
+>   participant ReferencePolicy as RP
+>   participant RewardModel as RM
+>   participant ValueModel as VM
+>   PM->>RM: Forward Pass (Policy)
+>   PM->>RP: Forward Pass (Reference)
+>   RM->>PM: Feedback Rewards
+>   PM->>VM: Forward Pass (Value)
+>   VM->>PM: Advantage Calculation
+> ```
 
 ## Core Explanation
 

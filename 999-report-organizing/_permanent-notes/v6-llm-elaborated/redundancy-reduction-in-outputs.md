@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Redundancy Reduction Metrics**
+> *Identify the metrics used to quantify redundancy.*
+>
+> ```mermaid
+> graph TD
+>   A[Novelty of Each Sentence]
+>   B[Relative to Preceding Sentences]
+>   C[20-40% Redundant Content]
+>   D[Higher Rates in Longer Texts]
+>   E[Highest in Introductions and Conclusions]
+>   A -->|Measures| B
+>   B -->|Typical Range| C
+>   C -->|Influence of Length| D
+>   D -->|Structural Patterns| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Redundancy Reduction Mechanisms**
+> *Understand the methods to reduce redundancy in LLM outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Explicit Prompting]
+>   B[Post-Generation Deduplication]
+>   C["Do Not Repeat Previously Stated Points"]
+>   D["Ensure Each Sentence Introduces New Substance"]
+>   E[Analyze Generated Text]
+>   F[Remove Redundant Sentences]
+>   A -->|Guidance| C
+>   B -->|Analysis| E
+>   C -->|Instructions| A
+>   E -->|Removal| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Reduction**
+> *Explore the applications in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Technical Documentation]
+>   C[Spaced Retrieval in MOOCs]
+>   D[Avoid Unnecessary Repetition]
+>   E[Introduce New Information]
+>   F[Introduce New Insights or Perspectives]
+>   A -->|Ensure Clarity and Conciseness| D
+>   B -->|Maintain Precision| E
+>   C -->|Enhance Learning Retention| F
+> ```
 
 ## Core Explanation
 

@@ -70,8 +70,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Vision-Language Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Image] --> B[Visual Analysis]
+>   B --> C[Integrate Textual Instructions]
+>   C --> D[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Vision-Language Prompting Applications Overview**
+> *Identify the applications and their corresponding tasks.*
+>
+> ```mermaid
+> graph TD
+>   A(Image Captioning) --> B(Descriptive Captions)
+>   C(Few-Shot Learning) --> D(Contextual Examples)
+>   E(Document Understanding) --> F(Integrated Analysis)
+> ```
+
+
+> [!abstract] **Diagram 3 — Text-Only vs Multimodal Prompting Comparison**
+> *Compare the input modalities and processing complexity.*
+>
+> ```mermaid
+> classDiagram
+>   class TextOnlyPrompting {
+>     +Input: Textual Instructions\n    +Process: Linguistic Structures\n    +Output: Text-Based Responses\n  }
+>   class VisionLanguagePrompting {
+>     +Input: Visual & Textual Inputs\n    +Process: Cross-Modal Integration\n    +Output: Contextually Relevant Responses\n  }
+> ```
 
 ## Core Explanation
 

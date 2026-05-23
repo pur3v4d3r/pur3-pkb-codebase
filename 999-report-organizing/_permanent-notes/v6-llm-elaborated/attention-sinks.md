@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Sink Formation Process**
+> *Follow the flow to understand how attention sinks form during softmax normalization.*
+>
+> ```mermaid
+> flowchart TD
+>   A[Token Weights] --> B[Softmax Normalization]
+>   B --> C[Sum Constraint]
+>   C --> D[Excess Probability Absorption]
+>   D --> E[Sink Tokens]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Sinks vs Semantic Importance**
+> *Compare the labels to distinguish between artefactual and semantically important attention weights.*
+>
+> ```mermaid
+> graph TD
+>   A[Artefactual Weights] -->|Softmax Constraint| B[Sink Tokens]
+>   C[Semantic Importance] --> D[Meaningful Attention]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Dynamics with Sinks**
+> *Trace the interactions to see how attention sinks affect model training and gradient updates.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant SinkTokens as ST
+>   participant GradientUpdate as GU
+>   M->>ST: Allocate Attention Weights
+>   ST-->>M: Absorb Excess Probability Mass
+>   M->>GU: Compute Gradients
+>   GU-->>M: Update Parameters
+> ```
 
 ## Core Explanation
 

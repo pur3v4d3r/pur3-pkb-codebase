@@ -67,8 +67,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tree of Thoughts Structure**
+> *Follow the branches to see different reasoning paths.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Thought Node]
+>   B --> C1[Branch 1]
+>   B --> C2[Branch 2]
+>   C1 --> D1[Subthought]
+>   C2 --> D2[Subthought]
+> ```
+
+
+> [!abstract] **Diagram 2 — Value Function Evaluation**
+> *Identify how nodes are evaluated and pruned.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B[Thought Node]
+>   B -->|Evaluate| C1[High Value]
+>   B -->|Evaluate| C2[Low Value]
+>   C1 --> D1[Continue]
+>   C2 -.-> E1[Prune]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Chain-of-Thought**
+> *Compare linear vs branching reasoning paths.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CoT
+>   participant ToT
+>   CoT->>CoT: Linear Step 1
+>   CoT->>CoT: Linear Step 2
+>   ToT->>ToT: Thought Node
+>   ToT->>ToT: Branch 1
+>   ToT->>ToT: Branch 2
+> ```
 
 ## Core Explanation
 

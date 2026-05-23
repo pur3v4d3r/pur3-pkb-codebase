@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Confidence vs Competence**
+> *Identify the mismatch between confidence and competence in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Confidence]
+>   B[Competence]
+>   A -->|Mismatch| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Data Sparsity Impact**
+> *Understand how sparse data affects LLM outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sparse Data] --> B[Hallucinations]
+>   B --> C[Inaccuracies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   B -->|Confident Output>
+> ```
 
 ## Core Explanation
 

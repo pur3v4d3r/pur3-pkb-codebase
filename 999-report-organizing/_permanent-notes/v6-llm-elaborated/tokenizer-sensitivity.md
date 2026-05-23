@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tokenizer Sensitivity Process Flow**
+> *Follow the flow from input to output, noting how minor changes affect tokenization and model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenize]
+>   B --> C[Surface-Level Variations]
+>   C --> D[Token Sequence]
+>   D --> E[Model Processing]
+>   E --> F[Output Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tokenizer Sensitivity Examples**
+> *Compare the different outputs based on variations in input text.*
+>
+> ```mermaid
+> graph TD
+>   A["Prompt: 'Find me a restaurant'"] --> B[Token Sequence]
+>   C["Prompt: 'find me a Restaurant'"] --> D[Token Sequence]
+>   E["Prompt: 'Find Me A Restaurant'"] --> F[Token Sequence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Subword Tokenization Variability**
+> *Observe how different tokenization schemes can lead to varied token sequences.*
+>
+> ```mermaid
+> graph TD
+>   A[Byte Pair Encoding] --> B[Token Sequence]
+>   C[WordPiece Model] --> D[Token Sequence]
+> ```
 
 ## Core Explanation
 

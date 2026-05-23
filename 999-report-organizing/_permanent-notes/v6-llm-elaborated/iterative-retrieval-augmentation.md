@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Iterative Retrieval Process Flow**
+> *Follow the flow from query formulation to final answer generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Query] --> B[Retrieve Documents]
+>   B --> C[Integrate Information]
+>   C --> D[Evaluate Completion]
+>   D -->|Further Retrieval Needed| E[Formulate New Query]
+>   E --> F[Repeat Process]
+>   F --> G[Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multi-hop Question Handling**
+> *Trace the path of information retrieval across multiple documents.*
+>
+> ```mermaid
+> graph TD
+>   A[Document1] --> B[Partial Information]
+>   C[Document2] --> D[Additional Info]
+>   E[Document3] --> F[Final Piece]
+>   B -->|Chained Together| G[Comprehensive Answer]
+>   D -->|Chained Together| G
+>   F -->|Chained Together| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Single-retrieval vs Multi-hop Questions**
+> *Compare the retrieval process for single and multi-hop questions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant SingleRetrieval as SR
+>   participant MultiHop as MH
+>   participant Document1 as D1
+>   participant Document2 as D2
+>   participant Document3 as D3
+>   SR->>D1: Retrieve Information
+>   SR-->>SR: Generate Answer
+>   note right of SR: Single document retrieval
+>   MH->>D1: Retrieve Initial Info
+>   MH->>D2: Retrieve Additional Info
+>   MH->>D3: Retrieve Final Piece
+>   MH-->>MH: Assemble Comprehensive Answer
+> ```
 
 ## Core Explanation
 

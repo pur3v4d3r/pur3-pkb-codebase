@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Types of Distribution Shifts**
+> *Identify the different types of distribution shifts and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Domain-Specific]
+>   B[Format-Specific]
+>   C[Linguistic]
+>   D[Task-Specific]
+>   A -->|Examples: New Topics| E[Performance Degradation]
+>   B -->|Examples: Novel Templates| E
+>   C -->|Examples: Non-Native Phrasing| E
+>   D -->|Examples: Different Task Formulations| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Brittleness vs Robustness**
+> *Understand the relationship between brittleness and robustness in model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Brittleness]
+>   B[Robustness]
+>   C[Small Changes Sensitivity]
+>   D[Varying Inputs Performance]
+>   A -->|Sensitivity to| C
+>   B -->|Performance Across| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Transfer-Near vs Transfer-Far**
+> *Differentiate between near and far transfer scenarios in model deployment.*
+>
+> ```mermaid
+> graph TD
+>   A[Transfer-Near]
+>   B[Transfer-Far]
+>   C[Similar Contexts]
+>   D[Different Scenarios]
+>   E[Slight Variations from Training Data]
+>   F[New Types of Prompts/User Behaviors]
+>   A -->|Within Similar Contexts| C
+>   B -->|Across Different Scenarios| D
+>   A -->|Slight Variations| E
+>   B -->|New Types of Prompts/Behaviors| F
+> ```
 
 ## Core Explanation
 

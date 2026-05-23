@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multimodal Few-Shot Prompting Process Flow**
+> *Follow the flow from input to output, noting the role of examples in guiding model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Image] --> B[Select Examples]
+>   B --> C[Prompt with Examples]
+>   C --> D[Model Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Multimodal vs Text-Only Prompting Comparison**
+> *Compare the inputs and outputs of multimodal and text-only prompting methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Multimodal Input] --> B[Image+Text]
+>   C[Text-Only Input] --> D[Text Only]
+>   E[Multimodal Output] --> F[Richer Context]
+>   G[Text-Only Output] --> H[Simplified Context]
+> ```
+
+
+> [!abstract] **Diagram 3 — Example Selection Process in Multimodal Prompting**
+> *Trace the steps from query to example selection, highlighting the importance of relevance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query Image] --> B[Evaluate Examples]
+>   B --> C[Select Relevant Pair]
+>   C --> D[Integrate into Prompt]
+> ```
 
 ## Core Explanation
 

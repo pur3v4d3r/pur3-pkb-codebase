@@ -68,8 +68,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Input Sanitisation Techniques Overview**
+> *Identify the different sanitisation techniques and their purposes.*
+>
+> ```mermaid
+> graph TD
+>   A[Content-Based Filtering]
+>   B[Structured Delimiters]
+>   C[Context Isolation]
+>   D[Input-Output Monitoring]
+>   A -->|Detects Malicious Patterns| E[Neutralises Adversarial Instructions]
+>   B -->|Wraps Untrusted Content| F[Ignores Harmful Input]
+>   C -->|Processes Suspicious Inputs Separately| G[Avoids Main Context Impact]
+>   D -->|Monitors Both Inputs and Outputs| H[Detects Potential Threats]
+> ```
+
+
+> [!abstract] **Diagram 2 — Input Sanitisation Mechanism Flow**
+> *Follow the flow of input sanitisation from detection to neutralisation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input]
+>   B[Content-Based Filtering]
+>   C[Structured Delimiters]
+>   D[Context Isolation]
+>   E[Input-Output Monitoring]
+>   F[Safe Context]
+>   G[Harmful Content Detected]
+>   H[Neutralised Instructions]
+>   I[Processed Inputs]
+>   A --> B
+>   B -->|Malicious Patterns Found| C
+>   C --> D
+>   D --> E
+>   E -->|Threats Identified| F
+>   E -->|No Threats| G
+>   G --> H
+>   H --> I
+> ```
+
+
+> [!abstract] **Diagram 3 — Input vs Output Filtering Comparison**
+> *Compare input sanitisation with output filtering in terms of proactive/reactive measures.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant InputSanitiser as IS
+>   participant OutputFilter as OF
+>   U->>IS: Unsafe Input
+>   IS-->>M: Safe Context
+>   alt Proactive Measure
+>     IS-->>U: Neutralised Instructions
+>   else Reactive Measure
+>     M->>OF: Model Response
+>     OF-->>U: Cleaned Output
+>   end
+> ```
 
 ## Core Explanation
 

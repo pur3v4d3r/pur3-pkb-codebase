@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Ensembling Process Flow**
+> *Follow the flow from input to aggregated output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Generate Prompts]
+>   B --> C[Query Model]
+>   C --> D[Collect Outputs]
+>   D --> E[Aggregate Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Diversity and Error Decorrelation**
+> *Notice how different prompts lead to decorrelated errors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Prompt1] --> B[Error1]
+>   C[Prompt2] --> D[Error2]
+>   E[Prompt3] --> F[Error3]
+>   G[Aggregation] --> H[Reduced Error]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Ensembling vs Boosting Comparison**
+> *Compare the principles of Prompt Ensembling and boosting.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Ensembling] --> B[Diverse Prompts]
+>   C[Boosting] --> D[Iterative Training]
+>   E[Avoids Iteration] --> F[Leverages Existing Model]
+>   G[Corrects Errors Sequentially]
+> ```
 
 ## Core Explanation
 

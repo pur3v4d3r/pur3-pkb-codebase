@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Web Search Mechanism Overview**
+> *Follow the flow from user input to final response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Query Generation]
+>   B --> C[Search Execution]
+>   C --> D[Result Integration]
+>   D --> E[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare the two processing approaches in handling ambiguity.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-existing Knowledge] --> B(Formulate Queries)
+>   B --> C(Interpret Results)
+>   D(Data-driven Approach) --> E(Learn from Retrieved Info)
+>   E --> F(Handle Ambiguity)
+> ```
+
+
+> [!abstract] **Diagram 3 — Sophisticated Implementation Stages**
+> *Trace the stages of a more advanced implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query Generation] --> B[Mult-Query Retrieval]
+>   B --> C(Source Selection)
+>   C --> D[Citation Attribution]
+>   D --> E(Contradictory Reconciliation)
+> ```
 
 ## Core Explanation
 

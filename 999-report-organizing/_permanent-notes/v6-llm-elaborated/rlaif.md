@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RLAIF Iterative Process Flow**
+> *Follow the feedback loop from AI evaluation to model training.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Responses] --> B[Ai Evaluation]
+>   B --> C[Preference Scores]
+>   C --> D[Reward Signal]
+>   D --> E[Model Training]
+>   E --> F[Improved Behaviors]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — RLAIF vs RLHF Comparison**
+> *Compare the key differences in data collection and cost between RLAIF and traditional RLHF.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Annotations] --> B[High Cost]
+>   C[Ai Generated Preferences] --> D[Low Cost]
+>   E[RLAIF] --> F[Consistent Rewards]
+>   G[Traditional RLHF] --> H[Variance in Rewards]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop Mechanism Overview**
+> *Trace the flow of preference scores from AI evaluation to reinforcement learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant LLM as Labelling AI
+>   participant RL as Reinforcement Learning Algorithm
+>   participant M as Model
+>   LLM->>RL: Preference Scores
+>   RL->>M: Reward Signal
+>   M-->>LLM: Improved Behaviors
+> ```
 
 ## Core Explanation
 

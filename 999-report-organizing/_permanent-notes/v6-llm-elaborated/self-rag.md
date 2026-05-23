@@ -64,8 +64,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-RAG Process Flow**
+> *Follow the steps from query to output generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Query] --> B[Evaluate Need]
+>   B -->|Yes| C[Retrieve Information]
+>   C --> D[Critique Retrieved Info]
+>   D --> E[Generate Output]
+>   B -->|No| F[Use Internal Knowledge]
+>   F --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-RAG vs Standard RAG**
+> *Compare the decision-making process in both systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard RAG] --> B(Retrieve Unconditionally)
+>   C(Self-RAG) --> D[Evaluate Need]
+>   D -->|Yes| E[Retrieve Information]
+>   D -->|No| F(Use Internal Knowledge)
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflection Tokens in Self-RAG**
+> *Identify where reflection tokens guide the process.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant ReflectionToken as RT
+>   U->>M: Input Query
+>   M->>RT: Evaluate Need for Retrieval
+>   RT-->>M: Decision (Retrieve or Use Internal)
+>   alt Retrieve Needed
+>     M->>ExternalDB: Fetch Data
+>     M->>RT: Critique Retrieved Info
+>     RT-->>M: Feedback on Relevance
+>   else No Retrieval Needed
+>     M->>InternalKB: Access Knowledge Base
+>   end
+>   M->>U: Generate Output
+> ```
 
 ## Core Explanation
 

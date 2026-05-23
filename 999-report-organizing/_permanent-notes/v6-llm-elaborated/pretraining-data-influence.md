@@ -69,8 +69,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pretraining Data Influence Mechanisms**
+> *Identify the methods used to measure influence.*
+>
+> ```mermaid
+> graph TD
+>   A[Influence Functions] --> B(Measure Predictions)
+>   C(Data Ablation Studies) --> D(Assess Impact)
+>   E[Contamination Analysis] --> F(Evaluate Influence)
+> ```
+
+
+> [!abstract] **Diagram 2 — Pretraining Data Types Impact**
+> *Compare the impact of different data types on model performance.*
+>
+> ```mermaid
+> graph TD
+>   A(Code) --> B(Enhances Reasoning)
+>   C[Structured Reference] --> D(Improves Accuracy)
+>   E[Unstructured Text] --> F(Limited Impact)
+> ```
+
+
+> [!abstract] **Diagram 3 — Bias Mitigation Strategies**
+> *Understand the targeted approach to mitigate biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Biased Data] --> B(Remove Sources)
+>   C(Develop Equitable Outcomes) --> D(Targeted Approach)
+> ```
 
 ## Core Explanation
 

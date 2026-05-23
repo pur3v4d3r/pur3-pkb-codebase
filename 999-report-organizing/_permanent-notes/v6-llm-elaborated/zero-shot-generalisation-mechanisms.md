@@ -67,8 +67,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Zero-Shot Generalisation Mechanisms**
+> *Identify the key mechanisms involved in zero-shot generalisation.*
+>
+> ```mermaid
+> graph TD
+>   A[Pattern Recognition]
+>   B[Parametric Knowledge Retrieval]
+>   C[Compositional Reasoning]
+>   D[Pragmatic Intent Inference]
+>   A -->|Infer Task Requirements| E[Zero-Shot Generalisation]
+>   B -->|Generate Factually Correct Answers| E
+>   C -->|Combine Known Operations| E
+>   D -->|Understand User Needs| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Design Impact on Zero-Shot Performance**
+> *Observe how instruction design affects zero-shot performance in LLMs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Instructions]
+>   B[Familiar Templates]
+>   C[Different Phrasing]
+>   D[High Performance]
+>   E[Poor Performance]
+>   F[Genuine Understanding]
+>   A -->|Match Familiar Templates| B
+>   A -->|Different Phrasing| C
+>   B -->|High Performance| D
+>   C -->|Poor Performance| E
+>   D -->|Surface-Level Cues| F
+>   E -->|Superficial Cues| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Zero-Shot vs One-Shot Learning Comparison**
+> *Compare the key differences between zero-shot and one-shot learning approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Zero-Shot]
+>   B[One-Shot]
+>   C[Instruction-Following]
+>   D[Pretraining Knowledge]
+>   E[Task-Specific Example]
+>   F[Minimal Training Data]
+>   G[Different Levels of Support]
+>   A -->|Instruction-Following| C
+>   A -->|Pretraining Knowledge| D
+>   B -->|Task-Specific Example| E
+>   A -->|No Task Examples| F
+>   B -->|At Least One Example| F
+>   A -->|Different Levels of Support| G
+>   B -->|Different Levels of Support| G
+> ```
 
 ## Core Explanation
 

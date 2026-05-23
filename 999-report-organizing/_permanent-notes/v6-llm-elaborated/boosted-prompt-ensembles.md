@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Boosted Prompt Ensemble Process Flow**
+> *Follow the iterative refinement process from initial to final prompt.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Evaluation]
+>   B --> C[Error Identification]
+>   C --> D[Prompt Refinement]
+>   D --> E[New Prompt Addition]
+>   E --> F[Iteration Loop]
+>   F --> G[Final Ensemble]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Uniform-weight Ensembles**
+> *Compare the focus areas of boosted and uniform ensembles.*
+>
+> ```mermaid
+> graph TD
+>   A[Boosted Prompt Ensembles] --> B(Error-prone Regions)
+>   C[Uniform-weight Ensembles] --> D(All Input Data Points)
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective Thinking Process in Boosted Ensembles**
+> *Trace the reflective thinking cycle from error analysis to prompt refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Error Analysis] --> B[Prompt Design]
+>   B --> C[Evaluation]
+>   C --> D[Feedback Loop]
+>   D --> E[Iteration]
+> ```
 
 # Boosted Prompt Ensembles
 

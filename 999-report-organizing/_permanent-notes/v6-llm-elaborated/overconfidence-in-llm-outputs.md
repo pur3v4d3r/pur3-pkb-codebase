@@ -68,8 +68,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Output Overconfidence Mechanism**
+> *Follow the flow from training to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Raters]
+>   B[Fluent, Confident Responses]
+>   C[Reward Signal]
+>   D[Model Training]
+>   E[Overconfident Outputs]
+>   A -->|Evaluate| B
+>   B -->|Reward| C
+>   C -->|Train| D
+>   D -->|Generate| E
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Overconfidence in Legal Contexts**
+> *Identify the areas where overconfident outputs can lead to errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Legal Documents]
+>   B[Confident Assertions]
+>   C[Numerical Values]
+>   D[Dates]
+>   E[Precise Facts]
+>   F[Misinformation]
+>   G[Serious Consequences]
+>   A -->|Contain| B
+>   B -->|Assert| C
+>   B -->|State| D
+>   B -->|Provide| E
+>   C -->|Lead to| F
+>   D -->|Lead to| F
+>   E -->|Lead to| F
+>   F -->|Result in| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Overconfidence Due to Architecture and Training**
+> *Understand the dual sources of overconfidence.*
+>
+> ```mermaid
+> graph TD
+>   A[Autoregressive Mechanism]
+>   B[Lack of Decline Option]
+>   C[Definitive Statements]
+>   D[RLHF Training]
+>   E[Reward for Confidence]
+>   F[Hedged Responses Penalized]
+>   G[Overconfident Outputs]
+>   A -->|Inherently| B
+>   B -->|Generate| C
+>   D -->|Reward| E
+>   E -->|Penalize| F
+>   C -->|Contribute to| G
+>   F -->|Contribute to| G
+> ```
 
 ## Core Explanation
 

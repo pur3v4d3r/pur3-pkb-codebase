@@ -70,8 +70,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Concept Identification Process**
+> *Follow the steps from probing to control vectors.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Probing]
+>   B[Contrast Pairs]
+>   C[Reading Vectors]
+>   D[Control Vectors]
+>   A -->|Identify Patterns| B
+>   B -->|Refine Directions| C
+>   C -->|Measure Attributes| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Concept Manipulation Workflow**
+> *See how reading and control vectors are applied.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant ReadingVector as RV
+>   participant ControlVector as CV
+>   U->>M: Apply Reading Vector
+>   RV->>M: Measure Concept Presence
+>   U->>RV: Analyze Results
+>   U->>CV: Adjust Control Vector
+>   CV->>M: Modify Internal State
+> ```
+
+
+> [!abstract] **Diagram 3 — Concept Directions in Model Space**
+> *Observe the geometric structure of concept representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Residual Stream]
+>   B[Honesty]
+>   C[Power-Seeking]
+>   D[Harm Avoidance]
+>   A -->|Identified Directions| B
+>   A -->|Identified Directions| C
+>   A -->|Identified Directions| D
+> ```
 
 ## Core Explanation
 

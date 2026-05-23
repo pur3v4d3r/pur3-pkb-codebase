@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dimensions of Prompt Variation**
+> *Identify the dimensions that affect prompt equivalence.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Content] --> B(Syntactic Structure)
+>   A --> C(Surface Form)
+>   A --> D(Discourse Organization)
+>   A --> E(Pragmatic Implicature)
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Syntactic Variations**
+> *Understand the difference between semantic and syntactic variations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Semantic Variation] --> B(Alters Meaning)
+>   C[Syntactic Variation] --> D(Does Not Alter Meaning)
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Differentiate between surface and deep processing in model responses.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Surface Processing] --> B(Literal Wording)
+>   C[Deep Processing] --> D(Underlying Meaning)
+> ```
 
 ## Core Explanation
 

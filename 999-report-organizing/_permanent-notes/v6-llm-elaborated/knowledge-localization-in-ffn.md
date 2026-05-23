@@ -68,8 +68,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Localization Mechanism**
+> *Follow the flow from input to localized memory retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Subject Features]
+>   C[Factual Associations]
+>   D[Localized Memory]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Key-Value Pair Storage in FFN**
+> *Identify how keys and values are stored and retrieved.*
+>
+> ```mermaid
+> graph TD
+>   A[Keys]
+>   B[Values]
+>   C[Bias Stream]
+>   D[Factual Predictions]
+>   A -->|Subject Features| B
+>   B -->|Localized Memory| C
+>   C -->|Bias| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Localization vs Distributed Representation**
+> *Compare localized and distributed knowledge storage.*
+>
+> ```mermaid
+> graph TD
+>   A[Localized Knowledge]
+>   B[Distributed Knowledge]
+>   C[Factual Associations]
+>   D[Multilayer Spread]
+>   A -->|Specific FFN Modules| C
+>   B -->|Multiple Layers| D
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Financial Analysis Prompting Process Flow**
+> *Follow the flow from data input to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Current Financial Data] --> B[Prompt Structuring]
+>   B --> C[LLM Processing]
+>   C --> D[Accurate Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Prompting Techniques**
+> *Compare the focus areas of financial and general data analysis prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Financial Analysis Prompting] -->|Requires Current Data| B[Regulatory Compliance]
+>   C[General Data-Analysis Prompting] -->|Broader Datasets| D[Less Time-Sensitive]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Financial Analysis**
+> *Identify the key differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Careful Consideration| B[Accurate Decisions]
+>   C[Reactive Thinking] -->|Immediate Action| D[Potential Errors]
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Availability Heuristic Process Flow**
+> *Follow the data flow from training to output bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Frequent Events]
+>   B --> C[Ease of Recall]
+>   C --> D[Biased Probability Estimation]
+>   D --> E[LLM Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Availability Heuristic vs Anchoring Bias Comparison**
+> *Compare the focus areas of both biases in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Availability Heuristic] --> B[Frequency Estimation]
+>   C[Anchoring Bias] --> D[Initial Value Stickiness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in LLMs**
+> *Identify the thinking modes aligned with each heuristic.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Thorough Evaluation]
+>   C[Reactive Thinking] --> D[Rapid Judgments]
+> ```
 
 ## Core Explanation
 

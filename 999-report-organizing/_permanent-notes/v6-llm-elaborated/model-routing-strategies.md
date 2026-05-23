@@ -70,8 +70,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Complexity-based Routing Flow**
+> *Follow the flow from simple to complex queries.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Simple Query] --> B1[Less Powerful Model]
+>   C[Complex Query] --> B2[More Capable Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic Router Mapping**
+> *Trace how different intents map to specialized models.*
+>
+> ```mermaid
+> graph TD
+>   A1(Code Inquiry) --> C1[Code-Specialized Model]
+>   A2(Math Query) --> C2[Math-Optimized Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cascade Routing Strategy**
+> *Observe the escalation process from cheaper to more capable models.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant CheaperModel as CM
+>   participant CapableModel as CPM
+>   U->>CM: Initial Query
+>   alt Confidence < Threshold
+>     CM-->>CPM: Escalate Request
+>     CPM-->>U: Processed Response
+>   else Confidence >= Threshold
+>     CM-->>U: Processed Response
+>   end
+> ```
 
 ## Core Explanation
 

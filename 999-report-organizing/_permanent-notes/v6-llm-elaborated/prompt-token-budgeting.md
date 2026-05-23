@@ -68,8 +68,76 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token Budgeting Process Flow**
+> *Follow the steps from profiling to reallocation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Profiling]
+>   B[Value Measurement]
+>   C[Prioritization]
+>   D[Dynamical Reallocations]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Allocation Comparison**
+> *Compare budgeted allocation with heuristic methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Heuristic Methods]
+>   B[Budgeted Allocation]
+>   C[Few-shot Learning]
+>   D[Instructional Design]
+>   E[Dynamic Conversation]
+>   F[First-fit/Recency]
+>   G[Systematic Profiling]
+>   H[Prioritize Efficiency]
+>   I[Dynamical Reallocations]
+>   A -->|First-fit/Recency| F
+>   B -->|Systematic Profiling| G
+>   B -->|Prioritize Efficiency| H
+>   B -->|Dynamical Reallocations| I
+>   C -.-> A
+>   D -.-> A
+>   E -.-> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extrinsic Load**
+> *Identify components contributing to intrinsic and extrinsic load.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Prompt Components]
+>   D[Task Performance]
+>   E[Marginal Value]
+>   F[Token Contribution]
+>   G[System Efficiency]
+>   H[User Experience]
+>   I[Complexity Management]
+>   A -->|Focus on Complexity| C
+>   B -->|Design Choices| C
+>   C -->|Marginal Value| E
+>   D -->|Task Performance| F
+>   G -->|System Efficiency| F
+>   H -->|User Experience| F
+>   I -->|Complexity Management| C
+> ```
 
 ## Core Explanation
 

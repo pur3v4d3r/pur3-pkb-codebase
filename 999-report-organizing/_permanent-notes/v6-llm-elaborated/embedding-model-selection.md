@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Embedding Model Selection Process**
+> *Follow the flow from criteria evaluation to model selection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Criteria Evaluation] --> B[Dimensionality]
+>   B --> C[Input Token Length]
+>   C --> D[Domain Alignment]
+>   D --> E[Fine-Tuning]
+>   E --> F[Model Selection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Symmetric vs Asymmetric Retrieval**
+> *Compare the two retrieval approaches and their implications.*
+>
+> ```mermaid
+> graph TD
+>   A[Symmetric] --> B[Single Model]
+>   C[Asymmetric] --> D[Separate Models]
+>   B --> E[Simpler System]
+>   D --> F[Better Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extrinsic Load Factors**
+> *Identify the sources of load in RAG systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B[Task Complexity]
+>   C[Extrinsic Load] --> D[System Design Choices]
+>   E[High-Dimensional Embeddings] --> F[Increased Computational Cost]
+> ```
 
 ## Core Explanation
 

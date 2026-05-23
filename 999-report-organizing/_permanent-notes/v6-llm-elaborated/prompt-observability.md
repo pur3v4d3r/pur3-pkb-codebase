@@ -69,8 +69,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Interaction Flow**
+> *Follow the flow from prompt to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Prompt]
+>   B --> C[Model Processing]
+>   C --> D[Response]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Observability Components**
+> *Identify the key components in prompt observability.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt] --> B[Response]
+>   B --> C[Intermediate Steps]
+>   C --> D[Metric Logs]
+>   E[Metadata] --> F[Token Counts]
+>   G[Latency] --> H[Cost]
+> ```
+
+
+> [!abstract] **Diagram 3 — Observability vs Offline Evaluation**
+> *Compare live traffic tracking with offline evaluation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as M
+>   participant Platform as P
+>   U->>M: Live Prompt
+>   M-->>U: Live Response
+>   alt Live Tracking
+>     P->>P: Log Interaction
+>   else Offline Evaluation
+>     P->>P: Simulate Data
+>   end
+> ```
 
 ## Core Explanation
 

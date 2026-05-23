@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Synthetic Data Generation Process Flow**
+> *Follow the flow from prompting to data generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Seed Instructions] --> B[Prompt LLM]
+>   B --> C[Generate Examples]
+>   C --> D[Labeled Training Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Instruct vs Bootstrapped Annotation**
+> *Compare the two mechanisms for synthetic data generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Instruct] --> B[Prompt LLM]
+>   C[Bootstrapped Annotation] --> D[Label Unannotated Data]
+>   B --> E[Labeled Training Data]
+>   D --> F[Labeled Training Data]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the differences in data generation approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Instructions] --> B[Generate Complex Scenarios]
+>   C[Raw Data] --> D[Infer Patterns]
+>   B --> E[Potential Biases]
+>   D --> F[Larger Dataset Required]
+> ```
 
 ## Core Explanation
 

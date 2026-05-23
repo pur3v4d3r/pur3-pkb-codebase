@@ -68,8 +68,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Educational Content Prompting Process Flow**
+> *Follow the flow from goal setting to review sessions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Behavioral Goals] --> B[Prompt Model]
+>   B --> C[Generate Content]
+>   C --> D[Incorporate Learning Principles]
+>   D --> E[Manage Cognitive Load]
+>   E --> F[Expert Review]
+>   F --> G[Deploy Materials]
+> ```
+
+
+> [!abstract] **Diagram 2 — Application Areas of Educational Content Prompting**
+> *Identify the different applications in education.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Customized Learning Modules]
+>   C[Curriculum Development] --> D[Diverse Learning Resources]
+>   E[Assessment Design] --> F[Authentic Assessments]
+>   G[MOOCs] --> H[Spaced Retrieval Activities]
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavioral Objectives vs Topic Coverage**
+> *Compare the focus on behavioral objectives versus topic coverage.*
+>
+> ```mermaid
+> classDiagram
+>   class BehavioralObjectives{
+>     +SpecificLearningOutcomes()
+>     +PerformanceTasks()
+>     +Assessments()
+>   }
+>   class TopicCoverage{
+>     +ComprehensiveInformation()
+>     +SubjectMatter()
+>   }
+>   BehavioralObjectives --> SpecificLearningOutcomes
+>   BehavioralObjectives --> PerformanceTasks
+>   BehavioralObjectives --> Assessments
+>   TopicCoverage --> ComprehensiveInformation
+>   TopicCoverage --> SubjectMatter
+> ```
 
 ## Core Explanation
 

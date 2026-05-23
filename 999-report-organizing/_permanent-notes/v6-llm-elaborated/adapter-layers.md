@@ -100,8 +100,8 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Pretrained Model]
->   B(Adapter Layers)[Adapter Layers]
->   C(Full Retraining)[Full Retraining]
+>   B(Adapter Layers)
+>   C(Full Retraining)
 >   D[Task-Specific Fine-Tuning]
 >   E[New Task]
 >   F[Original Weights Preserved]
@@ -121,8 +121,8 @@ provenance:
 > ```mermaid
 > graph TD
 >   A[Pretrained Model]
->   B(Adapter Layers)[Adapter Layers]
->   C(LoRA)[LoRA]
+>   B(Adapter Layers)
+>   C(LoRA)
 >   D[Task-Specific Fine-Tuning]
 >   E[New Task]
 >   F[Introduce New Layers]

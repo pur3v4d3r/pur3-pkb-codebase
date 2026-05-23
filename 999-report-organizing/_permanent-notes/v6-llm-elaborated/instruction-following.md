@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Instruction Following Process Flow**
+> *Follow the flow from prompt to output, noting directive compliance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Model Processing]
+>   B --> C[Output Response]
+>   D[Directive Compliance Check] --> E[Compliant Output]
+>   D --> F[Non-Compliant Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Explicit vs Implicit Instructions**
+> *Compare explicit instructions with implicit ones in prompt design.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Instruction] --> B[Clear Benchmark]
+>   C[Implicit Instruction] --> D[Contextual Cue]
+>   E[Directive Compliance Check] --> F[Unambiguous Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instruction Following vs Silent Reinterpretation**
+> *Identify the difference between accurate following and silent reinterpretation.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Directive] --> B[A Accurate]
+>   C[Silent Reinterpretation] --> D[B Non-Accurate]
+> ```
 
 # Instruction Following
 

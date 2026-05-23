@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Zero-Shot Prompting Process Flow**
+> *Follow the flow from task description to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Description] --> B[Model Interpretation]
+>   B --> C[Pattern Recognition]
+>   C --> D[Output Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Zero-Shot vs Few-Shot Prompting Comparison**
+> *Compare the inputs and outputs of zero-shot and few-shot prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Description] --> B[Output]
+>   C[Examples + Task Description] --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Zero-Shot Prompting**
+> *Identify the difference between recognition and recall processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Description] --> B[Recognize Pattern]
+>   C[Recall from Memory] --> D[Generate Response]
+> ```
 
 ## Core Explanation
 

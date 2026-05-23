@@ -68,8 +68,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Memory Structure**
+> *Identify the components of semantic memory and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge Bases]
+>   B[Vector Stores]
+>   C[Factual Documents]
+>   D[Learnt Relationships]
+>   E[Similarity Search]
+>   F[Symbolic Lookup]
+>   A -->|Contains| C
+>   A -->|Contains| D
+>   A -->|Query Method| E
+>   A -->|Query Method| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Episodic Memory**
+> *Compare the storage and retrieval characteristics of semantic and episodic memory.*
+>
+> ```mermaid
+> graph TD
+>   S[Semantic Memory]
+>   E[Episodic Memory]
+>   E -->|Specific Experiences
+> ```
+
+
+> [!abstract] **Diagram 3 — Semantic Memory in Task Execution**
+> *Understand the flow of information from semantic memory to task execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Requirement]
+>   B[Query Semantic Memory]
+>   C[Retreive Factual Knowledge]
+>   D[Integrate Information]
+>   E[Execute Task]
+>   A --> B
+>   B -->|Facts and Relationships| C
+>   C --> D
+>   D --> E
+> ```
 
 ## Core Explanation
 

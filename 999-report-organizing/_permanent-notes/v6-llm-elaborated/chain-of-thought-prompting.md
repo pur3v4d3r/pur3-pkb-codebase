@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chain-of-Thought Process Flow**
+> *Follow the steps from input to output, noting intermediate reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Reasoning Step]
+>   B --> C[Intermediate Conclusion]
+>   C --> D[Next Reasoning Step]
+>   D --> E[Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Prompting Techniques**
+> *Compare CoT prompting with single-token and least-to-most techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain-of-Thought]
+>   B[Single-Token Final-Answer]
+>   C[Least-to-Most-Prompting]
+>   A -->|Intermediate Steps| D[Iterative Refinement]
+>   B -.-> E[No Externalized Reasoning]
+>   C --> F[Simpler to Complex Tasks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the key differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain-of-Thought]
+>   B[Reactive Thinking]
+>   A -->|Step-by-Step Reasoning| C[Intermediate Steps]
+>   B -.-> D[Immediate Response]
+> ```
 
 # Chain-of-Thought Prompting
 

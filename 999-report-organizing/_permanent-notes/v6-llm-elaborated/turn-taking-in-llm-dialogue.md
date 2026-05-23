@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Turn-Taking Process Overview**
+> *Follow the flow from user input to system response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Complete Turn Detection]
+>   B --> C[Clarification Needed?]
+>   C -->|Yes| D[Ask Clarifying Questions]
+>   C -->|No| E[Provide Full Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Context-Sensitive vs Rigid Turn-Taking**
+> *Compare the two strategies in different interaction contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Stakes Interaction] --> B{Rigid Strategy}
+>   B -->|Clarify Too Much| F[User Dissatisfaction]
+>   B -->|Not Enough Clarification| G[Incorrect Responses]
+>   A --> H{Context-Sensitive Strategy}
+>   H -->|Properly Balanced| I[Satisfied User, Accurate Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Turn-Taking**
+> *Understand the trade-offs between reflective and reactive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[User Input] --> B{Reactive}
+>   B -->|Immediate Response| C[Quick but Risky]
+>   A --> D{Reflective}
+>   D -->|Consider Multiple Options| E[Precise but Slower]
+> ```
 
 ## Core Explanation
 

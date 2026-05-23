@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Query Rewriting Process Flow**
+> *Follow the steps from query input to document retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Query] --> B(LLM Paraphrasing)
+>   B --> C[Hypothetical Answer Generation]
+>   C --> D(Document Retrieval)
+>   D --> E(Relevant Documents)
+> ```
+
+
+> [!abstract] **Diagram 2 — HyDE Mechanism Overview**
+> *See the sequence of steps in HyDE's query rewriting process.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant Hypothetical Answer Generator as H
+>   participant Document Retriever as D
+>   U->>L: Original Query
+>   L->>H: Generate Paraphrases
+>   H->>D: Generate Hypothetical Answer
+>   D-->>U: Retrieve Relevant Documents
+> ```
+
+
+> [!abstract] **Diagram 3 — Query Rewriting Applications**
+> *Identify the applications where query rewriting is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Enhance Retrieval| B(Educational Materials)
+>   C[Medical Research] -->|Retrieve Precise Literature| D(Published Articles)
+>   E[MOOCs Spaced Retrieval] -->|Tailor Search Queries| F(Review Materials)
+> ```
 
 ## Core Explanation
 

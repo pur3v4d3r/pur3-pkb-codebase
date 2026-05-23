@@ -69,8 +69,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Inductive Reasoning Process Flow**
+> *Follow the flow from input to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Instance Retrieval]
+>   B --> C[Pattern Recognition]
+>   C --> D[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inductive vs Deductive Reasoning Comparison**
+> *Compare the flow of inductive and deductive reasoning processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Examples] --> B[General Rule]
+>   C[General Rule] --> D[Specific Case]
+>   subgraph Inductive Reasoning
+>     A -->|Inferring| B
+>   end
+>   subgraph Deductive Reasoning
+>     C -->|Applying| D
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing in LLMs**
+> *Identify the differences between surface and deep processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Superficial Similarities] --> B[Pattern Matching]
+>   C[Underlying Rules] --> D[Rule Application]
+>   subgraph Surface Processing
+>     A -->|Surface Features| B
+>   end
+>   subgraph Deep Processing
+>     C -->|Abstract Understanding| D
+>   end
+> ```
 
 ## Core Explanation
 

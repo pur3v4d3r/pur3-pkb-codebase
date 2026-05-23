@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Repair Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Developer Identifies Bug] --> B[Provide Defect Info]
+>   B --> C[Input Faulty Code and Info]
+>   C --> D[LLM Analyzes and Corrects]
+>   D --> E[Output Fixed Code]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Repair Prompting vs Self-Debugging**
+> *Compare the two approaches to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Repair Prompting]
+>   B[Self-Debugging]
+>   C{Defect Information Provided}
+>   D{Model Diagnoses Errors Alone}
+>   E(Targeted Solution)
+>   F(Generalized Solution)
+>   G(Type I & II Errors Minimized)
+>   H(Type I & II Errors Common)
+>   A -->|Yes| C
+>   B -->|No| D
+>   C -->|Guided| E
+>   D -->|Unconstrained| F
+>   A -->|Minimized| G
+>   B -->|Common| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Type I & II Errors in Repair Prompting**
+> *Identify the conditions leading to each error type.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TypeIError
+>   TypeIError: False Positive (Model Identifies Nonexistent Issue)
+>   TypeIError --> [*]
+>   [*] --> TypeIIError
+>   TypeIIError: False Negative (Model Misses Real Defect)
+>   TypeIIError --> [*]
+> ```
 
 ## Core Explanation
 

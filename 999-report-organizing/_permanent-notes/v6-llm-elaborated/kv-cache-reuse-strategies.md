@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — KV Cache Reuse Mechanisms**
+> *Identify the different caching strategies and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Prefix Caching]
+>   B[Semantic Caching]
+>   C[Shared Attention Prefixes]
+>   A -->|extends| B
+>   A -->|supports| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Cache Reuse Workflow**
+> *Follow the flow from request to KV cache reuse.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inference Request]
+>   B[Identify Shared Prefix]
+>   C[Reuse Cache]
+>   D[Compute New Cache]
+>   E[Output Response]
+>   A -->|if prefix exists| B
+>   B -->|match found| C
+>   B -->|no match| D
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Multi-Tenant Cache Management**
+> *Understand the isolation and security policies for multi-tenant deployments.*
+>
+> ```mermaid
+> graph TD
+>   A[Tenant1]
+>   B[Tenant2]
+>   C[Shared Prompt]
+>   D[Cached KV States]
+>   E[Isolation Policies]
+>   F[Security Checks]
+>   A -->|uses| C
+>   B -->|uses| C
+>   C --> D
+>   D -.-> E
+>   D -.-> F
+> ```
 
 ## Core Explanation
 

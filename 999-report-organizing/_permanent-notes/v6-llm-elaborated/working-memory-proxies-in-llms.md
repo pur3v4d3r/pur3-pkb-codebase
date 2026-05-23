@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Proxy Mechanism**
+> *Follow the flow from input to output, noting intermediate steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Chain-of-Thought]
+>   B --> C[Intermediate Steps]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Process Flow**
+> *Trace the sequence of steps in a complex reasoning task.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Problem Breakdown]
+>   B --> C[Step1]
+>   C --> D[Step2]
+>   D --> E[Step3]
+>   E --> F[End]
+> ```
+
+
+> [!abstract] **Diagram 3 — Working Memory Proxy Techniques**
+> *Identify the different techniques used as proxies for working memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Chain-of-Thought Prompting] --> B[Scratchpads]
+>   B --> C[Structured Reasoning Formats]
+> ```
 
 ## Core Explanation
 

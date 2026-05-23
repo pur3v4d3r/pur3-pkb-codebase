@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Format Sensitivity Mechanism**
+> *Follow the flow from input format to output formatting.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Format] --> B[Learnt Associations]
+>   B --> C[Reasoning Strategy]
+>   C --> D[Output Formatting]
+> ```
+
+
+> [!abstract] **Diagram 2 — Format Sensitivity vs Semantic Content Changes**
+> *Compare the impact of format and semantic changes on LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Same Semantic Content] --> B[Different Formats]
+>   B --> C[Performance Variations]
+>   D[Semantic Change] --> E[New Meaning] --> F[Output Differences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Considerations**
+> *Identify key considerations for instructional designers.*
+>
+> ```mermaid
+> graph TD
+>   A[Select Prompt Formats] --> B[Align with Tuning]
+>   B --> C[Enhance Performance]
+>   D[Ignoring Nuances] --> E[Suboptimal Results]
+> ```
 
 ## Core Explanation
 

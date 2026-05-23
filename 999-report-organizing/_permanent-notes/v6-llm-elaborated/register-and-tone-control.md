@@ -70,8 +70,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Register and Tone Control Process Flow**
+> *Follow the flow from role specification to output style.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Role Specification] --> B[Linguistic Norms]
+>   B --> C[Output Style]
+> ```
+
+
+> [!abstract] **Diagram 2 — Register and Tone Control Applications**
+> *Identify the different contexts where Register and Tone Control is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Role Specification| B[Output Style]
+>   C[Creative Writing] -->|Genre/Style| D[Output Style]
+>   E[Customer Service] -->|Profile/Tone| F[Output Style]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Role Specification vs Direct Instruction**
+> *Compare how role specification and direct instruction influence output.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as M
+>   U->>M: Role Specification
+>   M->>M: Activate Pre-learned Norms
+>   M-->>U: Contextually Appropriate Output
+>   alt Direct Instruction
+>     U->>M: Stylistic Instructions
+>     M->>M: Infer Conventions
+>     M-->>U: Abstractly Guided Output
+>   end
+> ```
 
 ## Core Explanation
 

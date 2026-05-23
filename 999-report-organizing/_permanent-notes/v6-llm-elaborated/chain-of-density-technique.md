@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chain Iteration Process**
+> *Follow the flow from initial to final dense summary.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Summary] --> B[Identify Missing]
+>   B --> C[Incorporate Details]
+>   C --> D[Dense Summary]
+> ```
+
+
+> [!abstract] **Diagram 2 — Density vs Coverage Trade-off**
+> *Compare density and coverage across iterations.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial] --> B[Verbose]
+>   A --> C[Comprehensive]
+>   D[Dense1] --> E[Denser]
+>   F[Dense2] --> G[MOST Dense]
+> ```
+
+
+> [!abstract] **Diagram 3 — Iterative Refinement Steps**
+> *Track the iterative refinement process over rounds.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Initial as I
+>   participant Round1 as R1
+>   participant Round2 as R2
+>   participant Final as F
+>   I->>R1: Identify Missing Details
+>   R1->>I: Feedback
+>   R1->>R2: Incorporate Details
+>   R2->>F: Achieve Density
+> ```
 
 # Chain of Density Technique
 

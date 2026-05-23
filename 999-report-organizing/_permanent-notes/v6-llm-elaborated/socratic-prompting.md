@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Socratic Prompting Process Flow**
+> *Follow the sequence from initial question to final conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Question] --> B[Probing Deeper]
+>   B --> C[Evaluating Assumptions]
+>   C --> D[Seeking Justifications]
+>   D --> E[Reaching Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Socratic Prompting vs Direct Answer Generation**
+> *Compare the structured reasoning process with direct answer generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Socratic Prompting] --> B[Structured Reasoning]
+>   C[Direct Answer Generation] --> D[Rapid Solution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Socratic Prompting Taxonomy**
+> *Identify the hierarchical structure of Socratic Prompting components.*
+>
+> ```mermaid
+> graph TD
+>   A[Core Mechanism] --> B[Epistemic Discipline]
+>   A --> C[Guided Questioning]
+>   B --> D[Pose Questions]
+>   B --> E[Answer Justifications]
+> ```
 
 ## Core Explanation
 

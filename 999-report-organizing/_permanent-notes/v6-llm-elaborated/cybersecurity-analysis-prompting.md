@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cybersecurity Analysis Workflow**
+> *Follow the flow from system analysis to threat identification and mitigation.*
+>
+> ```mermaid
+> graph TD
+>   A[System Analysis] --> B[Threat Modeling]
+>   B --> C[Prompt Specification]
+>   C --> D[LLM Processing]
+>   D --> E[Vulnerability Identification]
+>   E --> F[Mitigation Strategies]
+> ```
+
+
+> [!abstract] **Diagram 2 — STRIDE Threat Categories**
+> *Identify potential threats using the STRIDE framework.*
+>
+> ```mermaid
+> graph TD
+>   A[Spoofing] --> B[Tampering]
+>   B --> C[Repudiation]
+>   C --> D[Information Disclosure]
+>   D --> E[Denial of Service]
+>   E --> F[Elevation of Privilege]
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Compare surface and deep processing approaches in cybersecurity analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface] --> B[Superficial]
+>   C[Deep] --> D[Thorough]
+>   B &lt;--|&gt; D
+> ```
 
 ## Core Explanation
 

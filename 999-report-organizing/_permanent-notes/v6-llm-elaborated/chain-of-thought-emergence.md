@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chain-of-Thought Emergence Process Flow**
+> *Follow the progression from small to large models and observe how coherence improves.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Small Model] --> B[Fragments]
+>   C[Larger Model] --> D[Coherent Chains]
+>   E[Task Complexity] --> F[Threshold]
+>   G[Chain-of-Thought Prompting] --> H[Benefits]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Models**
+> *Compare the reasoning capabilities of small and large models in handling multi-step logical sequences.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Model] -->|Reactive| B[Fragments]
+>   C[Larger Model] -->|Reflective| D[Coherent Chains]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Complexity and Model Capacity Alignment**
+> *Identify the threshold where chain-of-thought prompting becomes beneficial for different model sizes.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Tasks] -->|Small Models| B[Fragments]
+>   C[Complex Tasks] -->|Large Models| D[Coherent Chains]
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pseudocode Generation Process**
+> *Follow the flow from problem to pseudocode, then implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Pseudocode]
+>   B --> C[Implementation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Algorithm Design vs Implementation Separation**
+> *Compare the steps in algorithm design and language-specific implementation.*
+>
+> ```mermaid
+> graph TD
+>   A[Design Algorithm] --> B[Pseudocode]
+>   C[Implementation] --> D[Code]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Workflow**
+> *Identify the stages of reflective and reactive thinking in development.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Pseudocode]
+>   B --> C[Implementation]
+>   D[Immediate Coding] --> E[Code]
+> ```
 
 ## Core Explanation
 

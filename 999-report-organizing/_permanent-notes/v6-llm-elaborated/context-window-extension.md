@@ -67,8 +67,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Window Extension Mechanism**
+> *Follow the flow from input to output, noting key steps and methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Rope Scaling Variants]
+>   C[Linear Scaling]
+>   D[Yarn]
+>   E[Maintain Performance]
+>   F[Output Sequence]
+>   A -->|Longer Input| B
+>   B --> C
+>   B --> D
+>   C --> E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Context Window vs Positional Encoding Scale Doubling**
+> *Compare the two approaches and their impact on model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Window Extension]
+>   B[Positional Encoding Scale Doubling]
+>   C[Maintain Learned Structures]
+>   D[Performance Degradation]
+>   E[Effective Handling of Extended Contexts]
+>   F[Ineffective at New Scales]
+>   A -->|C| E
+>   B -->|D| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of Context Window Extension**
+> *Identify the various applications where context window extension is beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Document-level Reasoning]
+>   B[Multi-document QA]
+>   C[Long Conversation History]
+>   D[Document-level Summarization]
+>   E[Context Window Extension]
+>   E --> A
+>   E --> B
+>   E --> C
+>   E --> D
+> ```
 
 ## Core Explanation
 

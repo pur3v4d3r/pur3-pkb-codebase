@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mechanistic Interpretability Process Flow**
+> *Follow the steps from input to output analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Activation Patching]
+>   B --> C[Identify Activations]
+>   C --> D[Analyze Circuits]
+>   D --> E[Predict Behavior]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanistic Interpretability Techniques Hierarchy**
+> *Navigate from general techniques to specific methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Techniques] --> B[Activation Patching]
+>   A --> C[Probing]
+>   A --> D[Sparse Autoencoder Feature Extraction]
+>   A --> E[Attention Head Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanistic Interpretability Applications Overview**
+> *See the applications in different domains.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AI Safety] --> B[Novel Context Prediction]
+>   C[Model Behavior Understanding] --> D[Complexity Management]
+>   E[Healthcare Transparency] --> F[Diagnostic Confidence]
+> ```
 
 ## Core Explanation
 

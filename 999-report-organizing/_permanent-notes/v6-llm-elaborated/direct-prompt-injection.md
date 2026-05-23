@@ -67,8 +67,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Direct Prompt Injection Process Flow**
+> *Follow the sequence from input to output, noting where injection occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Processing]
+>   B --> C[LLM Response]
+>   D[Adversarial Command] -->|Embedded in Input| A
+>   E[Manipulated Behavior] -->|Result of Injection| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Direct Prompt Injection Vulnerability Factors**
+> *Identify the factors that contribute to LLM vulnerability.*
+>
+> ```mermaid
+> graph TD
+>   A[Instruction-Following]
+>   B[Flexibility in Context Handling]
+>   C[Vast Training Datasets]
+>   D[Ambiguity in Instruction Interpretation]
+>   E[Challenges in Input Validation]
+>   F[Complexity and Scale of Models]
+>   A -->|Enables| B
+>   B -->|Increases| C
+>   C -->|Creates| D
+>   D -->|Highlights| E
+>   E -->|Exacerbates| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Direct Prompt Injection Attack Scenarios**
+> *Trace the different attack vectors and their impacts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Misinformation]
+>   C[Confidentiality Breaches] --> D[Data Disclosure]
+>   E[Persona Manipulation] --> F[Inappropriate Actions]
+>   G[Application 4 Example] --> H[Internal Document Leakage]
+> ```
 
 ## Core Explanation
 

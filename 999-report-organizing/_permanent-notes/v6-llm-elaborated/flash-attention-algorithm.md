@@ -68,8 +68,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — FlashAttention Computation Flow**
+> *Follow the flow from input to output, noting SRAM and HBM operations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Tiling into Blocks]
+>   B --> C[SRAM Operations]
+>   C --> D[HBM Access Minimized]
+>   D --> E[Incremental Softmax]
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Hierarchy Utilization**
+> *Identify the roles of SRAM and HBM in FlashAttention's efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[SRA]
+>   B[HBM]
+>   C[Computation]
+>   D[Data Storage]
+>   A -->|Primary Operations| C
+>   B -->|Secondary Access| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Standard Attention**
+> *Compare the memory and computational steps between FlashAttention and standard attention.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InputSeq as I
+>   participant SRAMOp as S
+>   participant HBMAccess as H
+>   participant Output as O
+>   I->>S: Tiled Blocks
+>   S-->>H: Minimized Accesses
+>   S->>O: Exact Computation
+>   alt Standard Attention
+>     I->>H: Full Matrix
+>     H->>O: High Bandwidth Usage
+>   end
+> ```
 
 ## Core Explanation
 

@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Position Encoding Types Overview**
+> *Identify the types of positional encodings and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed Absolute]
+>   B[Relative]
+>   C["Rotary (RoPE)"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Performance Degradation with Sequence Length**
+> *Observe how performance degrades with sequence length for different encodings.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sequence Length]
+>   B1[Fixed Absolute]
+>   B2[Relative]
+>   B3["Rotary (RoPE)"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Context Length Impact on Model Performance**
+> *Compare model performance across different context lengths and encoding types.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Context]
+>   B1[Fixed Absolute]
+>   B2[Relative]
+>   B3["Rotary (RoPE)"]
+>   C[Longer Context]
+>   D1[Sharp drop]
+>   D2[Moderate drop]
+>   D3[Gradual drop]
+> ```
 
 ## Core Explanation
 

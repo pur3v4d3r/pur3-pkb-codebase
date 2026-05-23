@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Intensive NLP Tasks**
+> *Identify tasks that require external knowledge retrieval and reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Open-Domain QA] -->|Requires External Knowledge| B(Fact Verification)
+>   C[Sentiment Analysis] -->|Does Not Require External Knowledge| D(Text Summarization)
+> ```
+
+
+> [!abstract] **Diagram 2 — Retrieval and Reasoning Paradigms**
+> *Understand the dual focus of retrieval-based and reasoning frameworks.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval] -->|Efficient Knowledge Finding| B(Reasoning)
+>   C[Rich Knowledge Base] -->|Context-Specific Interpretation| D[Complex Reasoning Mechanisms]
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Intensive vs Non-Knowledge Intensive NLP**
+> *Distinguish between tasks that rely on external knowledge and those that do not.*
+>
+> ```mermaid
+> graph TD
+>   A[Sentiment Analysis] -->|Non-Knowledge-Intensive| B(Text Summarization)
+>   C[Open-Domain QA] -->|Knowledge-Intensive| D(Fact Verification)
+> ```
 
 # Knowledge-Intensive NLP
 

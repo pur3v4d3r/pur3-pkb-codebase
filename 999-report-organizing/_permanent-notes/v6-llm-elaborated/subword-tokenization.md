@@ -72,8 +72,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Subword Tokenization Mechanisms**
+> *Compare BPE, WordPiece, and Unigram methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text]
+>   subgraph Byte-Pair Encoding (BPE)
+>     B1[Merge Frequent Pairs]
+>     B2[Tokenize]
+>   end
+>   subgraph WordPiece
+>     C1[Maximize Likelihood]
+>     C2[Introduce ## Continuation]
+>     C3[Tokenize]
+>   end
+>   subgraph Unigram
+>     D1[Train Probabilistic Model]
+>     D2[Vocabulary Pruning]
+>     D3[Tokenize]
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Subword vs Word-Level Tokenization**
+> *Compare coverage and efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Word-Level]
+>   B[Character-Level]
+>   C[Subword]
+>   A -->|Handles Unknown Words Poorly| D[Low Coverage]
+>   B -->|Long Sequences| E[High Computational Overhead]
+>   C -->|Decompose into Known Units| F[Full Coverage]
+>   C -->|Manageable Sequence Lengths| G[Efficient]
+> ```
+
+
+> [!abstract] **Diagram 3 — Subword Tokenization Applications**
+> *See diverse use cases in NLP.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Language Model Training]
+>   C[Spaced Retrieval MOOCs]
+>   A -->|Enhance Vocabulary Handling| D[Educational Tools]
+>   B -->|Improve Efficiency and Coverage| E[Large-Scale Models]
+>   C -->|Track Learning Over Time| F[Distributed Practice]
+> ```
 
 ## Core Explanation
 

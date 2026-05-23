@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Order Sensitivity Mechanism**
+> *Follow the flow from input to output, noting positional weighting.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Positional Attention Weighting]
+>   C[Recency Bias]
+>   D[Primacy Effect]
+>   E[Output]
+>   A --> B
+>   B -->|Recent Examples| C
+>   B -->|Earlier Examples| D
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Practical Implications Overview**
+> *Identify the strategies and their corresponding benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Active Demonstration Reordering]
+>   C[Query-Conditioned Example Retrieval]
+>   D[Spaced Retrieval in MOOCs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Order Sensitivity vs Label Sensitivity**
+> *Compare the focus of each sensitivity type.*
+>
+> ```mermaid
+> graph TD
+>   A[Order Sensitivity]
+>   B[Label Sensitivity]
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Injection Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Untrusted Input] --> B[Malicious Instructions]
+>   B --> C[LLM Processing]
+>   C --> D[Manipulated Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Injection vs Other Attacks**
+> *Compare Prompt Injection with other adversarial attack types.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Injection] -->|Embeds Instructions| B[LLM Output]
+>   C[Model Poisoning] -->|Alters Training Data| D[Induced Behaviors]
+>   E[Evasion Attack] -->|Manipulates Input| F[Bypasses Detection]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Models**
+> *Identify the differences in how reflective and reactive models handle injected prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Model] -->|Evaluates Instructions| B[Safeguarded]
+>   C[Reactive Model] -->|Executes Quickly| D[Vulnerable]
+> ```
 
 ## Core Explanation
 

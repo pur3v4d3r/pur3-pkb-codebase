@@ -68,8 +68,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Indirect Prompt Injection Process Flow**
+> *Follow the flow from attacker to agent behavior hijack.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attacker]
+>   B[External Content]
+>   C[LLM Agent]
+>   D[Hijacked Behavior]
+>   A -->|Embeds Malicious Instructions| B
+>   B -->|Processed by Agent| C
+>   C -->|Triggers Unintended Actions| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Direct vs Indirect Prompt Injection Comparison**
+> *Compare the attack vectors of direct and indirect injection.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Interaction]
+>   B[Indirect Content Processing]
+>   C[Attacker]
+>   D[LLM Agent]
+>   E[Hijacked Behavior]
+>   F[Sanitization Mechanisms]
+>   G[External Inputs]
+>   H[Agent's Environment]
+>   C -->|Direct Interaction| A
+>   A -->|Embedded Instructions| D
+>   C -->|Embeds Malicious Content| B
+>   B -->|Processed by Agent| D
+>   D -->|Triggers Unintended Actions| E
+>   G -->|Bypassed by Indirect Attack| H
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Implicit Memory Process**
+> *Trace how LLM absorbs and acts on embedded instructions.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Absorbing_External_Content : External Content Input
+>   Absorbing_External_Content --> Interpreting_Instructions : Interpret Embedded Instructions
+>   Interpreting_Instructions --> Acting_On_Instructions : Execute Unintended Actions
+>   Acting_On_Instructions --> [*]
+> ```
 
 ## Core Explanation
 

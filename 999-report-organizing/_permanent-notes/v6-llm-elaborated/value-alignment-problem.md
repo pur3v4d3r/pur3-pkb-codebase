@@ -71,8 +71,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Value Alignment Process Flow**
+> *Follow the steps from goal setting to outcome evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting] --> B[Objective Definition]
+>   B --> C[System Design]
+>   C --> D[Implementation]
+>   D --> E[Test and Evaluation]
+>   E --> F[Outcome Analysis]
+>   F --> G[Feedback Loop]
+>   G --> H[Iterative Improvement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Value Alignment Challenges**
+> *Identify the main challenges in aligning AI with human values.*
+>
+> ```mermaid
+> graph TD
+>   A[Dynamic Human Values] --> B[Complexity]
+>   C[Ethical Implications] --> D[Harmful Behaviors]
+>   E[Cultural Differences] --> F[Misalignment]
+>   G[Proxy Objectives] --> H[Exploitation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivation Types in Value Alignment**
+> *Compare intrinsic and extrinsic motivations for AI alignment.*
+>
+> ```mermaid
+> classDiagram
+>   class Intrinsic_Motivation {
+>     +Personal_Satisfaction()
+>     +Curiosity()
+>   }
+>   class Extrinsic_Motivation {
+>     +Financial_Incentives()
+>     +Social_Recognition()
+>   }
+>   Intrinsic_Motivation --> Value_Alignment
+>   Extrinsic_Motivation --> Value_Alignment
+> ```
 
 ## Core Explanation
 

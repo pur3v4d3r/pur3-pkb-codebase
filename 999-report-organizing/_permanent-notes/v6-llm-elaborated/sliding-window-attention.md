@@ -67,8 +67,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sliding Window Attention Flow**
+> *Follow the flow from input to output, noting the window size and buffer.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Window Size w]
+>   C[Compute Attention Weights]
+>   D[Rolling Buffer KV-cache]
+>   E[Output Token]
+>   A -->|Token t| B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Scope Comparison**
+> *Compare the attention scope of sliding window vs full-attention mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Token t]
+>   B[Sliding Window w]
+>   C[Full Attention All Tokens]
+>   A -->|Scope| B
+>   A -->|Scope| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Efficiency vs Context Trade-off**
+> *Observe the trade-off between computational efficiency and context depth.*
+>
+> ```mermaid
+> graph TD
+>   A[Computational Efficiency]
+>   B[Context Depth]
+>   C[Sliding Window Attention]
+>   D[Full Attention Mechanism]
+>   A -->|Efficient| C
+>   B -->|Shallow| C
+>   A -->|Inefficient| D
+>   B -->|Deep| D
+> ```
 
 ## Core Explanation
 

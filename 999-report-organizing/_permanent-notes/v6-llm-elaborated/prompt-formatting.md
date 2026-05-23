@@ -67,8 +67,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Structured Prompt Example**
+> *Identify the sections separated by delimiters.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Instructions]
+>   C[---]
+>   D[Data]
+>   E[# Summary]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Processing Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Parse Delimiters]
+>   C[Determine Sections]
+>   D[Execute Instructions]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Compare surface and deep processing stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B1[Parse Delimiters]
+>   C1[Determine Sections]
+>   D1[Execute Instructions]
+>   E1[Output]
+>   F1[Surface Processing]
+>   G1[Deep Processing]
+>   H1[Semantic Understanding]
+>   I1[Nuanced Interpretation]
+>   A --> B1
+>   B1 --> C1
+>   C1 --> D1
+>   D1 --> E1
+>   A --> F1
+>   F1 --> G1
+>   G1 --> H1
+>   H1 --> I1
+> ```
 
 ## Core Explanation
 

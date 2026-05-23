@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RST Iterative Process Flow**
+> *Follow the flow from generation to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Candidates] --> B[Score Completions]
+>   B --> C[Select Top Scoring]
+>   C --> D[Fine-Tune Model]
+>   D --> E[Iterate Until Convergence]
+> ```
+
+
+> [!abstract] **Diagram 2 — RST vs RLHF Comparison**
+> *Compare the feedback sources in RST and RLHF.*
+>
+> ```mermaid
+> graph TD
+>   A[RST] --> B[Internal Best Performances]
+>   C[RLHF] --> D[External Human Feedback]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — RST Application Areas**
+> *Identify the areas where RST is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Code Generation)
+>   C[Math Problem Solving] --> D[Spaced Retrieval in MOOCs]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#f96,stroke:#333,stroke-width:4px
+>   style D fill:#f96,stroke:#333,stroke-width:4px
+> ```
 
 ## Core Explanation
 

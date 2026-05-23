@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mathematical Proof Process Flow**
+> *Follow the steps from prompt to formal proof generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Prompt Design]
+>   B --> C[Formal Language Specification]
+>   C --> D[Model Execution]
+>   D --> E[Proof Verification]
+> ```
+
+
+> [!abstract] **Diagram 2 — Natural vs Formal Proof Comparison**
+> *Compare the clarity and rigor of natural language versus formal proofs.*
+>
+> ```mermaid
+> graph TD
+>   A[Natural Language] -->|Intuitive but Error-Prone| B[Logical Errors]
+>   C[Formal Proofs] -->|Rigorous and Verifiable| D[No Logical Errors]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Process**
+> *Trace the methodical steps of reflective thinking versus immediate responses.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Heuristic Response]
+>   C[Step-by-Step Reasoning] --> D[Rigorous Justification]
+> ```
 
 ## Core Explanation
 

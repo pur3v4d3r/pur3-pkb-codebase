@@ -69,8 +69,86 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sentence Transformers Architecture Overview**
+> *Identify the two main encoder types: bi-encoder and cross-encoder.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sentence]
+>   subgraph Bi-Encoder
+>     B1[Encode Independently]
+>     C1[Index Embeddings]
+>   end
+>   subgraph Cross-Encoder
+>     D1[Process Pairs Together]
+>     E1[Compute Similarity]
+>   end
+>   A -->|Bi-Encoder Path| B1
+>   B1 --> C1
+>   A -->|Cross-Encoder Path| D1
+>   D1 --> E1
+> ```
+
+
+> [!abstract] **Diagram 2 — Siamese Network Fine-Tuning Process**
+> *Follow the flow from input sentences to cosine similarity calculation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sentence 1]
+>   B[Input Sentence 2]
+>   C[Shared Encoder]
+>   D[Embedding 1]
+>   E[Embedding 2]
+>   F[Cosine Similarity]
+>   G[Similarity Score]
+>   A -->|Sentence 1| C
+>   B -->|Sentence 2| C
+>   C --> D
+>   C --> E
+>   D --> F
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Triplet Network Fine-Tuning Process**
+> *Trace the flow from anchor and positive/negative pairs to similarity learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Anchor Sentence]
+>   B[Positive Sentence]
+>   C[Negative Sentence]
+>   D[Shared Encoder]
+>   E[Embedding Anchor]
+>   F[Embedding Positive]
+>   G[Embedding Negative]
+>   H[Cosine Similarity Anchor-Pos]
+>   I[Cosine Similarity Anchor-Neg]
+>   J[Loss Function]
+>   A -->|Anchor| D
+>   B -->|Positive| D
+>   C -->|Negative| D
+>   D --> E
+>   D --> F
+>   D --> G
+>   E --> H
+>   E --> I
+>   F --> H
+>   G --> I
+>   H --> J
+>   I --> J
+> ```
 
 ## Core Explanation
 

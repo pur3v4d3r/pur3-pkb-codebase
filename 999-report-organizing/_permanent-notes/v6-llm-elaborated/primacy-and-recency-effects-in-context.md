@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Context Window Bias**
+> *Identify the bias towards beginning and end of context window.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[Primacy]
+>   C[Middle] --> D[Recency]
+>   E[End] --> F[Recency]
+>   B --> G[High Recall]
+>   D --> H[Low Recall]
+>   F --> I[High Recall]
+> ```
+
+
+> [!abstract] **Diagram 2 — Positional Encoding Methods**
+> *Compare different positional encoding methods and their biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Rotary PE] --> B[Varying Sensitivity]
+>   C[ALiBi] --> D[Varying Sensitivity]
+>   E[Absolute PE] --> F[Fixed Bias]
+>   G[Sinusoidal PE] --> H[Fixed Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Strategic Information Placement**
+> *Understand optimal placement of key information in documents.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[High Recall]
+>   C[Middle] --> D[Low Recall]
+>   E[End] --> F[High Recall]
+>   G[Key Info] --> H[Begin or End]
+> ```
 
 ## Core Explanation
 

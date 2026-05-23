@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Soft vs Hard Enforcement Methods**
+> *Compare the reliability of soft and hard enforcement techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Soft Enforcement]
+>   B[Hard Enforcement]
+>   A -->|Guided by Instructions| C[Inconsistent Structural Validity]
+>   B -->|Ensures Structure Validity| D[Reduced Semantic Coherence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism Overview of Structured Output Enforcement**
+> *Understand the two primary mechanisms: prompt instructions and constrained decoding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Prompt Instructions]
+>   C[Constrained Decoding]
+>   D[Output]
+>   A --> B
+>   A --> C
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios of Structured Output Enforcement**
+> *Identify the key application areas where structured output enforcement is critical.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Data Integration]
+>   C[Data Transformation]
+>   D[Integrity Maintenance]
+> ```
 
 ## Core Explanation
 

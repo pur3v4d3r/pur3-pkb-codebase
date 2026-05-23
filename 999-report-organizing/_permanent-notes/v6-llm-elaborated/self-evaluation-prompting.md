@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Evaluation Mechanisms Overview**
+> *Identify the different mechanisms used for self-evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Rating Scales]
+>   B(Error Identification)
+>   C(Criteria Comparison)
+>   D(Probability Prediction)
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Evaluation vs Human Assessment**
+> *Compare self-evaluation with direct human assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Evaluation]
+>   B[Human Assessment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Self-Evaluation**
+> *Explore the applications in instructional design, content moderation, and feedback loops.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Content Moderation]
+>   C[Feedback Loops]
+> ```
 
 ## Core Explanation
 

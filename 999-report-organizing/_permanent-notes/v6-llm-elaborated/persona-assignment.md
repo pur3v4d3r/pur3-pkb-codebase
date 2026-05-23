@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Persona Assignment Process Flow**
+> *Follow the steps from persona definition to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Persona Attributes] --> B[Embed Identity Block]
+>   B --> C[Integrate with Model]
+>   C --> D[Test Consistency]
+>   D --> E[Deploy Conversational Agent]
+> ```
+
+
+> [!abstract] **Diagram 2 — Persona Assignment vs Role Prompting Comparison**
+> *Compare the coherence and consistency of Persona Assignment versus role prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Role Prompting] -->|No Coherence Over Time| B[Inconsistent Responses]
+>   C[Persona Assignment] -->|Maintains Coherent Character| D[Predictable Interactions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in AI Models**
+> *Understand the difference between reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive] -->|Context-Dependent Responses| B[Inconsistent]
+>   C[Reflective] -->|Persistent Identity Blocks| D[Predictable]
+> ```
 
 ## Core Explanation
 

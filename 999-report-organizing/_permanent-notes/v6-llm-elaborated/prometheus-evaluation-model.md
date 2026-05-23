@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prometheus Training Data Flow**
+> *Follow the data flow from input to fine-tuned model.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Large Model Evaluation Feedback]
+>   C[Fine-Tuning Process]
+>   D[Prometheus Model]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Prometheus Evaluation Mechanism**
+> *Trace the evaluation process from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generated Text]
+>   B[Rubric-Based Prompt]
+>   C[Prometheus Model]
+>   D[Quality Score & Rationale]
+>   A -->|Input| C
+>   B -->|Criteria| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Prometheus Application Scenarios**
+> *Identify the applications and their benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Privacy Concerns]
+>   C[Cost-Effectiveness]
+>   D[Privacy-Preserving Evaluations]
+>   subgraph Benefits
+>     E[Rapid Feedback]
+>     F[Data Security]
+>     G[Reduced Costs]
+>     H[Confidentiality]
+>   end
+>   A -->|E| E
+>   B -->|F| F
+>   C -->|G| G
+>   D -->|H| H
+> ```
 
 ## Core Explanation
 

@@ -69,8 +69,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Mechanism Overview**
+> *Follow the flow from input to attention weights.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence] --> B[Token Embedding]
+>   B --> C[Multi-Head Attention]
+>   C --> D[Weight Matrix]
+>   D --> E[Heatmap Visualization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Patterns in Heatmaps**
+> *Identify diagonal, horizontal, and block patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Diagonal] --> B[Self-Attention]
+>   C[Horizontal] --> D[Broad Context]
+>   E[Block] --> F[Group Relationships]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Attention Patterns Analysis**
+> *Observe changes in attention over training epochs.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Token1 as T1
+>   participant Token2 as T2
+>   M->>T1: High Attention (Initial)
+>   M-->>T2: Low Attention (Initial)
+>   alt Overfitting
+>     M->>T1: Excessive Weight (Later)
+>     M-->>T2: Neglected (Later)
+>   end
+> ```
 
 ## Core Explanation
 

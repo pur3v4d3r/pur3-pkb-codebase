@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Instruction Tuning Process Flow**
+> *Follow the flow from dataset curation to model fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Curate Dataset] --> B["Prepare (instruction, input, output) triples"]
+>   B --> C[Fine-Tune Model]
+>   C --> D[Test and Validate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Tuning vs Reactive Systems**
+> *Compare reflective thinking in instruction tuning with reactive systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Process Instructions]
+>   C[Reactive System] --> D[Immediate Output]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Instruction Tuning Applications**
+> *Identify the diverse applications of instruction tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Task Generalization)
+>   C(Customer Service Chatbots) --> D(Enhanced Usability)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style C fill:#6f6,stroke:#333,stroke-width:4px
+> ```
 
 ## Core Explanation
 

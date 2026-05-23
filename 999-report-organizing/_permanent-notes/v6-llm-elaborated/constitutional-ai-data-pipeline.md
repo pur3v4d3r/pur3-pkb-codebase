@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Constitutional AI Data Pipeline Flow**
+> *Follow the stages from initial to reinforcement learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Supervised Learning] --> B[Critique Against Principles]
+>   B --> C[Revised Outputs]
+>   C --> D[Preference Model Training]
+>   D --> E[Reinforcement Learning with Reward Signal]
+> ```
+
+
+> [!abstract] **Diagram 2 — CAI vs RLHF Comparison**
+> *Compare refusal behaviors of CAI and RLHF models.*
+>
+> ```mermaid
+> graph TD
+>   A[Constitutional AI] --> B[Improved Refusal Behaviors]
+>   C[Reinforcement Learning from Human Feedback] --> D[Less Effective Refusals]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ethical Principles Integration**
+> *Trace how ethical principles guide the training process.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Ethical Guidelines] --> B[Supervised Learning]
+>   B --> C[Critique and Revision]
+>   C --> D[Preference Model Training]
+>   D --> E[Reinforcement Learning]
+> ```
 
 ## Core Explanation
 

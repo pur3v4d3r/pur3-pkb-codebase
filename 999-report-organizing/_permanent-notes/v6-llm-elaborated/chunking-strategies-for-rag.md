@@ -67,8 +67,76 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chunking Strategies Overview**
+> *Identify the balance between coarse and fine chunks.*
+>
+> ```mermaid
+> graph TD
+>   A[Coarse Chunks]
+>   B[Fine Chunks]
+>   C[Precision]
+>   D[Completeness]
+>   E[Context]
+>   F[Irrelevant Details]
+>   G[Specific Information]
+>   H[Necessary Context]
+>   A -->|Preserves More Surrounding Text| C
+>   A -->|Risk of Irrelevant Details| F
+>   B -->|More Precise Capturing| G
+>   B -->|Risk of Omitting Necessary Context| H
+>   A --> D
+>   B --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Fixed-Size vs Semantic Chunking**
+> *Compare the characteristics of fixed-size and semantic chunking.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed-Size Windows]
+>   B[Semantic Boundaries]
+>   C[Predetermined Length]
+>   D[Natural Linguistic Structures]
+>   E[Overlaps for Continuity]
+>   F[Preserves Coherent Units]
+>   G[Variable Chunk Sizes]
+>   H[Introduces Variability]
+>   A -->|Predetermined Length| C
+>   A -->|With Overlaps| E
+>   B -->|Natural Linguistic Structures| D
+>   B -->|Preserves Coherent Units| F
+>   A -->|Introduces Variability| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Computational Efficiency Trade-offs**
+> *Understand the trade-offs between chunk size and computational efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Larger Chunks]
+>   B[Fine-Grained Chunks]
+>   C[Reduces Retrieval Operations]
+>   D[Potential Latency Reduction]
+>   E[Increased Memory Usage]
+>   F[Higher Frequency of Interactions]
+>   G[Optimizes Resource Use]
+>   A -->|Reduces Retrieval Operations| C
+>   A -->|Potential Latency Reduction| D
+>   A -->|Increases Memory Usage| E
+>   B -->|Higher Frequency of Interactions| F
+>   B -->|Optimizes Resource Use| G
+> ```
 
 ## Core Explanation
 

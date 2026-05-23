@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Rubric Evaluation Process Flow**
+> *Follow the steps from criteria definition to assessment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Criteria] --> B[Describe Levels]
+>   B --> C[Evaluate Outputs]
+>   C --> D[Provide Feedback]
+> ```
+
+
+> [!abstract] **Diagram 2 — Rubric vs Holistic Evaluation Comparison**
+> *Compare the breakdown of rubric-based and holistic evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Rubric-Based] --> B[Specific Criteria]
+>   C[Holistic] --> D[Overall Score]
+>   E[Reflective Thinking] --> F[Structured Reflection]
+>   G[Reactive Thinking] --> H[Immediate Judgments]
+> ```
+
+
+> [!abstract] **Diagram 3 — Rubric Evaluation Dimensions**
+> *Identify the key dimensions assessed in rubric-based evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Factual Accuracy] --> B/Instruction Compliance
+>   C[Completeness] --> D/Clarity
+>   E[Safety]
+> ```
 
 ## Core Explanation
 

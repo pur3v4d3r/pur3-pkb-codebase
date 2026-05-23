@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logit Bias Process Flow**
+> *Follow the sequence from input to output, noting bias application points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Tokens] --> B[Token IDs]
+>   B --> C[Bias Adjustment]
+>   C --> D[Softmax Normalization]
+>   D --> E[Output Probabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Logit Bias Applications**
+> *Identify the various applications and their specific use cases.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Formatting Requirements]
+>   C[Content Moderation] --> D[Harmful Content Suppression]
+>   E[Sequence Forcing] --> F[Key Phrase Inclusion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Logit Bias vs Prompt Engineering**
+> *Compare logit bias manipulation with prompt engineering techniques.*
+>
+> ```mermaid
+> classDiagram
+>   class LogitBias {
+>     +AdjustTokenProbabilities()
+>     +EnforceConstraints()
+>   }
+>   class PromptEngineering {
+>     +CraftInputPrompts()
+>     +GuideModelBehavior()
+>   }
+>   LogitBias --> OutputDistribution
+>   PromptEngineering --> ModelOutput
+> ```
 
 ## Core Explanation
 

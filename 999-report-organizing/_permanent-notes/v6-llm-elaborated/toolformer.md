@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Toolformer Process Flow**
+> *Follow the sequence from generation to retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generation]
+>   B[Evaluation]
+>   C[Retention]
+>   A -->|Generate Potential Tool Calls| B
+>   B -->|Evaluate Perplexity Reduction| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Toolformer Mechanism Overview**
+> *Identify the stages and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Clues]
+>   B[Existing Knowledge]
+>   C[Generate Tool Calls]
+>   D[Evaluate Perplexity]
+>   E[Retain or Discard]
+>   F[Fine-Tune LLM]
+>   A -->|Input| C
+>   B -->|Input| C
+>   C -->|Output| D
+>   D -->|Decision| E
+>   E -->|Beneficial Calls| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Toolformer Application Scenarios**
+> *Compare the different application areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service]
+>   C[Problem Solving]
+> ```
 
 ## Core Explanation
 

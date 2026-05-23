@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — KTO Training Process Overview**
+> *Follow the flow from model outputs to training with asymmetric loss terms.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Outputs] --> B[Labeling]
+>   B --> C[Desirable/Undesirable Labels]
+>   C --> D[Asymmetric Loss Terms]
+>   D --> E[Training]
+> ```
+
+
+> [!abstract] **Diagram 2 — KTO vs DPO Comparison**
+> *Compare the labeling and training processes of KTO and DPO.*
+>
+> ```mermaid
+> graph TD
+>   A[KTO] --> B[Binary Labels]
+>   C[DPO] --> D[Pairwise Comparisons]
+>   E[Training Process] --> F[Asymmetric Loss Terms]
+>   G[Training Process] --> H[Symmetric Rewards/Penalties]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prospect Theory in KTO**
+> *Understand the asymmetric weighting of losses and gains.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   state Losses{
+>     [High Penalty]
+>   }
+>   state Gains{
+>     [Low Reward]
+>   }
+>   A --> Losses : Undesirable Outputs
+>   B --> Gains : Desirable Outputs
+> ```
 
 ## Core Explanation
 

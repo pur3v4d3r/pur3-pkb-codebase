@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Output Format Specification Process Flow**
+> *Follow the flow from input to structured output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Prompt Processing]
+>   B --> C[Model Response Generation]
+>   C --> D[Format Specification Application]
+>   D --> E[Structured Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Output Format Comparison Table**
+> *Compare structured vs free-form response formats.*
+>
+> ```mermaid
+> graph TD
+>   A[Structured Output] -->|Machine-Readable| B[Consistent]
+>   C[Free-Form Response] -->|Natural Language| D[Variability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Integration Pipeline with Output Format Specification**
+> *Trace the data flow from model output to database.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Database as D
+>   U->>M: Provide Prompt
+>   M-->>U: Generate Response
+>   U->>D: Insert into DB
+>   alt Structured Output
+>     D->>U: Confirmation
+>   else Unstructured Output
+>     U->>D: Parse and Insert
+>   end
+> ```
 
 ## Core Explanation
 

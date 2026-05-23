@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Structured Prediction Flowchart**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Template Embedding]
+>   B --> C[Schema Instructions]
+>   C --> D[Semantic Context]
+>   D --> E[Output Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — API Constraints vs Structured Prompting**
+> *Compare the two approaches to ensure structured outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[API-Level Constraints] -->|Enforce Format| B[Structured Prediction]
+>   B -->|Provide Semantic Guidance| C[Output Quality]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the differences in processing approaches.*
+>
+> ```mermaid
+> graph TD
+>   B[Bottom-Up] -->|Infer Structure from Data| C[Reliability]
+>   D[Consistency]
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Output Schema Enforcement Process Flow**
+> *Follow the flow from input to final output validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Schema] --> B[Prompt Model]
+>   B --> C[Generate Output]
+>   C --> D[API Validation]
+>   D --> E[Schema Validation]
+>   E --> F[Retry/Correct]
+>   F --> G[Fallback Mechanism]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Schema Enforcement Layers**
+> *Identify the layers involved in enforcing schema compliance.*
+>
+> ```mermaid
+> graph TD
+>   A[Model-Level Constraints] --> B[Prompting]
+>   C[Application-Level Validations] --> D[Validation Tools]
+>   E[Retry Mechanism] --> F[Correction]
+>   G[Fallback Handling] --> H[Error Resolution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Output vs Input Schema Validation**
+> *Compare the focus areas of output and input schema validation.*
+>
+> ```mermaid
+> classDiagram
+>   class OutputSchemaEnforcement {
+>     +validateAfterGeneration()
+>     +retryWithCorrection()
+>     +fallbackMechanism()
+>   }
+>   class InputSchemaValidation {
+>     +validateBeforeProcessing()
+>   }
+>   OutputSchemaEnforcement --> validateAfterGeneration()
+>   InputSchemaValidation --> validateBeforeProcessing()
+> ```
 
 ## Core Explanation
 

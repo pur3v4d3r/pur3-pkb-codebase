@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Gradient vs Attention Methods**
+> *Compare gradient-based and attention-based attribution methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Features] --> B1[Gradient-Based]
+>   A --> B2[Attention-Based]
+>   B1 --> C1[Sensitivity to Inputs]
+>   B2 --> C2[Token Importance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Understand top-down and bottom-up feature attribution approaches.*
+>
+> ```mermaid
+> graph TD
+>   A1[Higher-Level Outputs] --> B1[Top-Down]
+>   A2[Input Changes] --> B2[Bottom-Up]
+>   B1 --> C1[Broad Context]
+>   B2 --> C2[Fine Insights]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feature Attribution Applications**
+> *Identify applications of feature attribution in debugging and trust.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Debugging Failures] --> B1[Pinpoint Errors]
+>   A --> B2[Cause Analysis]
+>   C[Spurious Correlations] --> D1[Surface Superficial Cues]
+>   C --> D2[Context Understanding]
+>   E[Trust in Outputs] --> F1[Explainable Decisions]
+>   E --> F2[User Confidence]
+> ```
 
 ## Core Explanation
 

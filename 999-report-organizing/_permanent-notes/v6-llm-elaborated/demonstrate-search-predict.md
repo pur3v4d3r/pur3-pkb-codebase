@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — DSP Three Stage Process**
+> *Follow the flow from Demonstrate to Predict stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Demonstrate]
+>   B --> C[Search]
+>   C --> D[Predict]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — DSP Input-Output Flow**
+> *Track the data flow from input to output through each stage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Demonstrate]
+>   B -->|Contextual Examples| C[Search]
+>   C -->|Relevant Passages| D[Predict]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — DSP Modular Components**
+> *Identify the distinct modules and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Demonstrate] --> B[Search]
+>   B --> C[Predict]
+> ```
 
 # Demonstrate Search Predict
 

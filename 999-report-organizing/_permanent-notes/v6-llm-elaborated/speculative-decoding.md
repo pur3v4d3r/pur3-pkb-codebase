@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Speculative Decoding Process Flow**
+> *Follow the flow from input to final output, noting stages and model roles.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Draft Model]
+>   B --> C[Sequence Generation]
+>   C --> D[Target Model]
+>   D --> E[Verification]
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Decoding Methods**
+> *Compare speculative decoding with traditional methods in terms of passes and latency.*
+>
+> ```mermaid
+> graph TD
+>   A[Autoregressive Generation] -->|Sequential Passes| B[High Latency]
+>   C[Beam Search] -->|Multiple Sequential Passes| D[Reduced but High Latency]
+>   E[Speculative Decoding] -->|Single Verification Pass| F[Low Latency]
+> ```
+
+
+> [!abstract] **Diagram 3 — Draft Model vs Target Model Interaction**
+> *Observe the interaction between draft and target models during speculative decoding.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant DraftModel as DM
+>   participant TargetModel as TM
+>   DM->>TM: Generate Sequence
+>   TM-->>DM: Verify Up To Disagreement Point
+> ```
 
 ## Core Explanation
 

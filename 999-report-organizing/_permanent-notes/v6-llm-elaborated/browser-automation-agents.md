@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Browser Automation Workflow**
+> *Follow the flow from command to browser action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Command] --> B[API]
+>   B --> C[Browser Action]
+>   C --> D[DOM Interaction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Browser Automation Applications**
+> *Identify the applications and their corresponding tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Web Scraping] --> B[Navigate & Extract]
+>   C[E-commerce Automation] --> D[Place Orders]
+>   E[Research Assistance] --> F[Gather Data]
+>   G[Automated Testing] --> H[Test Scenarios]
+> ```
+
+
+> [!abstract] **Diagram 3 — Browser Control Mechanisms**
+> *See the interaction between LLMs and browser APIs.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant API as A
+>   participant Browser as B
+>   U->>L: Complex Instruction
+>   L->>A: Command
+>   A->>B: Execute Action
+>   B-->>U: Feedback
+> ```
 
 ## Core Explanation
 

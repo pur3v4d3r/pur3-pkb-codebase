@@ -68,8 +68,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Scaling Factors Overview**
+> *Identify the key factors influencing LLM performance scaling.*
+>
+> ```mermaid
+> graph TD
+>   A[Parameters]
+>   B[Training Tokens]
+>   C[Compute Budget]
+>   D[Data Quality & Diversity]
+>   E[Model Architecture]
+>   F[Tokenizer]
+>   G[Hardware Technology]
+>   A -->|Influence| H[Performance Scaling]
+>   B -->|Influence| H
+>   C -->|Influence| H
+>   D -->|Influence| H
+>   E -->|Influence| H
+>   F -->|Influence| H
+>   G -->|Impact| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Compute-Efficient vs Compute-Optimal Scaling**
+> *Compare compute-efficient and compute-optimal scaling strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Compute-Efficient]
+>   B[Compute-Optimal]
+>   B -->|Balance Model Size & Training Data| C[Performance]
+>   D[Budget]
+>   E[Fixed Budget]
+>   F[Efficiency]
+>   G[Performance]
+>   H[Within Budget]
+>   A -->|Goal| C
+>   B -->|Goal| G
+>   A -->|Constraint| E
+>   B -->|Constraint| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load in Scaling Laws**
+> *Understand the difference between intrinsic and extraneous load.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Tasks Complexity]
+>   D[Design-Imposed Difficulties]
+>   E[Efficient Training Procedures]
+>   F[Optimal Resource Allocation]
+>   G[Isolate Intrinsic Challenges]
+>   H[Minimize Extraneous Load]
+>   A -->|Refers To| C
+>   B -->|Includes| D
+>   B -->|Includes| E
+>   B -->|Includes| F
+>   A -->|Goal| G
+>   B -->|Goal| H
+> ```
 
 ## Core Explanation
 

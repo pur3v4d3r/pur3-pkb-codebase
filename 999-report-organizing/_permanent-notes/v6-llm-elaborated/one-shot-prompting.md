@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — One-Shot Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Example]
+>   B --> C[Tasks]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — One-Shot vs Zero-Shot Prompting Comparison**
+> *Compare the guidance provided by one-shot and zero-shot methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Zero-Shot] -->|No Examples| B[Model]
+>   C[One-Shot] -->|Single Example| D[Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in One-Shot Prompting**
+> *Identify the difference between recognition and recall processes.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Recognition
+>   Recognition -->|Apply Pattern| Output
+>   Recognition --> Recall
+>   Recall -->|Generate Response| Output
+> ```
 
 ## Core Explanation
 

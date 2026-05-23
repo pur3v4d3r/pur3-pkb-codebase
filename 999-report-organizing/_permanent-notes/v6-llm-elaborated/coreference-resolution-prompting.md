@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Coreference Resolution Process Flow**
+> *Follow the steps from input to output, noting key stages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Identify Mentions]
+>   B --> C[Determine Antecedents]
+>   C --> D[Resolve Coreferences]
+>   D --> E[Output Resolved Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Explicit vs Implicit Resolution Comparison**
+> *Compare the explicit and implicit approaches to coreference resolution.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text] --> B[Explicit]
+>   A --> C[Implicit]
+>   B --> D[Intermediate Step]
+>   D --> E[Resolved Output]
+>   C --> F[Direct Resolution]
+>   F --> G[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Coreference**
+> *Understand the difference between recognition and recall processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Text Cues] --> B[Recognition]
+>   B --> C[Resolved Output]
+>   D[Memory Access] --> E[Recall]
+>   E --> F[Resolved Output]
+> ```
 
 ## Core Explanation
 

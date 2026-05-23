@@ -68,8 +68,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Soft Prompting Mechanism Overview**
+> *Follow the flow from input to output, noting key components.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Learnable Continuous-Valued Embeddings]
+>   C[Fine-Tuning Against Task Objective]
+>   D[Preserved Original Model Parameters]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Soft Prompting vs Fine-Tuning Comparison**
+> *Compare the approaches to model adaptation.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Parameters]
+>   B[Fine-Tuning]
+>   C[Overfitting or Loss of Generalization]
+>   D[Learnable Embeddings]
+>   E[Non-Intrusive Adaptation]
+>   F[Persistence of Original Model]
+>   A -->|Adjustment| B
+>   B -->|Risk| C
+>   A -->|Addition| D
+>   D -->|Optimization| E
+>   E -->|Preservation| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Task-Specific Adaptation Workflow**
+> *Trace the steps from task definition to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Task]
+>   B[Create Task-Specific Embeddings]
+>   C[Fine-Tune Model with Embeddings]
+>   D[Test and Validate Output]
+>   E[Generate Task-Relevant Content]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
 
 ## Core Explanation
 

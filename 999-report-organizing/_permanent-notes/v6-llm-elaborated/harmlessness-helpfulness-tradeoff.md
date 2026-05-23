@@ -68,8 +68,78 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Harmlessness vs Helpfulness Tradeoff**
+> *Follow the arrows to see how safety and utility are balanced.*
+>
+> ```mermaid
+> graph TD
+>   A[Refusal]
+>   B[Hedging/Disclaiming]
+>   C[Helpful Responses]
+>   D[Harmful Requests]
+>   E[Benign Queries]
+>   F[Overrefusal Problem]
+>   G[Nuanced Approaches]
+>   H[Reflective Thinking]
+>   A -->|Harmlessness| B
+>   B -->|Contextual Reasoning| C
+>   C -->|Helpfulness| E
+>   D -->|Safety Concerns| A
+>   E -->|Legitimate Queries| F
+>   F -->|Overcautiousness| G
+>   G -->|Better Calibration| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Type I vs Type II Errors in Safety Training**
+> *Identify the errors and their impacts on AI alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Benign Request]
+>   B[Harmful Request]
+>   C[False Positive]
+>   D[False Negative]
+>   E[Refusal]
+>   F[Approval]
+>   G[Error Impact]
+>   H[Impact]
+>   I[Impact]
+>   A -->|Type II Error| F
+>   B -->|Type I Error| E
+>   C -->|Misclassified as Harmless| D
+>   E -->|Refusal of Benign| G
+>   F -->|Approval of Harmful| H
+> ```
+
+
+> [!abstract] **Diagram 3 — User Trust Dynamics in AI Systems**
+> *Trace the impact of cautious vs permissive responses on user trust.*
+>
+> ```mermaid
+> graph TD
+>   A[Overly Cautious]
+>   B[Eroded Confidence]
+>   C[Permissive Behavior]
+>   D[Doubt Reliability]
+>   E[Cautious Trust]
+>   F[Reliable Trust]
+>   G[User Perception]
+>   H[Trust Impact]
+>   A -->|Erodes Trust| B
+>   C -->|Questions Safety| D
+>   E -->|Balanced Responses| F
+>   F -->|Enhances Trust| G
+> ```
 
 ## Core Explanation
 

@@ -70,8 +70,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — World Model Components**
+> *Identify the key components of an LLM's world model.*
+>
+> ```mermaid
+> graph TD
+>   A[Entities]
+>   B[Properties]
+>   C[Relations]
+>   D[State Variables]
+>   E[Position]
+>   F[Time]
+>   G[Color]
+>   H[Categorical Attributes]
+>   A -->|Encode| D
+>   B -->|Encode| D
+>   C -->|Encode| D
+>   E -->|Linear Representation| D
+>   F -->|Linear Representation| D
+>   G -->|Linear Representation| D
+>   H -->|Linear Representation| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Training Process Flow**
+> *Follow the flow of training data through an LLM's world model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Tokenization]
+>   B --> C[Prediction]
+>   C --> D[Activation Patching]
+>   D --> E[Probing Studies]
+>   E --> F[Causal Upstream]
+>   F --> G[World-State Tracking]
+> ```
+
+
+> [!abstract] **Diagram 3 — Implicit vs Explicit Knowledge**
+> *Compare implicit and explicit knowledge representation in LLMs.*
+>
+> ```mermaid
+> classDiagram
+>   class Implicit {
+>     -Distributed Parameters
+>     +Accessed Stochastically
+>   }
+>   class Explicit {
+>     -Clearly Defined
+>     +Accessible Directly
+>   }
+>   Implicit --> Explicit
+> ```
 
 ## Core Explanation
 

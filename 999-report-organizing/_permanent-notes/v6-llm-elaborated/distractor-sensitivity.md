@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Distractor Sensitivity Process Flow**
+> *Follow the flow from input to output, noting where distractors impact model performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[Model Processing]
+>   B --> C[Distractor Filtering]
+>   C --> D[Output Quality]
+>   A --> E[Distractors]
+>   E -->|Interferes With| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Distractor Types Impact on Models**
+> *Compare the impact of semantically similar and obviously irrelevant distractors.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantically Similar] -->|Highly Misleading| B(Model Performance)
+>   C[Irrelevant Noise] -->|Less Impactful| B
+>   D[Distractor Filtering]
+>   A --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Retrieval Quality vs Recall Trade-off**
+> *Focus on the balance between retrieval quality and recall in context window management.*
+>
+> ```mermaid
+> graph TD
+>   A[High Retrieval Quality] -->|Minimizes Distractors| B(Model Performance)
+>   C[Low Retrieval Quality] -->|Increases Noise| B
+>   D[Retrieval Recall]
+>   E[High Recall] -->|Ensures All Relevant Info| D
+>   F[Low Recall] -->|Misses Some Relevant Info| D
+> ```
 
 # Distractor Sensitivity
 

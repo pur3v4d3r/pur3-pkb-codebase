@@ -66,8 +66,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — ReAct Process Flow**
+> *Follow the iterative cycle of reasoning and action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reasoning Step] --> B(Action Call)
+>   B --> C[Result Interpretation]
+>   C --> D[Next Reasoning Step]
+>   D --> E[Decision]
+>   E --> F[Action Execution]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning vs Action Integration**
+> *Compare reasoning-only and ReAct approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reasoning Step] --> B(Decision)
+>   C[Reasoning Step] --> D(Action Call)
+>   D --> E(Result Interpretation)
+>   E --> F(Next Reasoning Step)
+>   subgraph Reasoning Only
+>     A -->|Decision| B
+>   end
+>   subgraph ReAct Integration
+>     C --> D
+>     E --> F
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Distinguish between reflective and reactive decision-making.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   U->>M: Query
+>   opt Reflective
+>     M->>M: Reasoning Step
+>     M->>U: Action Call
+>     U->>M: Result Interpretation
+>     M->>M: Next Reasoning Step
+>     M->>U: Decision
+>   end
+>   alt Reactive
+>     M->>U: Immediate Response
+>   end
+> ```
 
 ## Core Explanation
 

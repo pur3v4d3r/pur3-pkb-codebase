@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Recency Bias Mechanism Overview**
+> *Follow the causal chain from input to output.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Causal Attention]
+>   C[Token Generation]
+>   D[Output]
+>   A -->|Recent Tokens Influence| B
+>   B -->|Direct Access| C
+>   C -->|Sequential Generation| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Recency Bias vs Frequency Bias Comparison**
+> *Compare the influence of recent tokens versus frequent elements.*
+>
+> ```mermaid
+> graph TD
+>   A[Recent Tokens]
+>   B[Frequent Elements]
+>   C[Output Influence]
+>   A -->|Greater Weight| C
+>   B -->|Overall Prevalence| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Alignment**
+> *Identify the alignment of LLM thinking with human cognitive styles.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[LLM Output]
+>   D[Human Cognitive Style]
+>   A -->|Comprehensive Review| D
+>   B -->|Recent Inputs| C
+> ```
 
 ## Core Explanation
 

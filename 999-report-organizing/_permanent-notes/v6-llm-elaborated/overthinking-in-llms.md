@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Overthinking Process Flow**
+> *Follow the flow from initial reasoning to overthinking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Reasoning] --> B[Necessary Elaboration]
+>   B --> C[Valid Solution]
+>   C --> D[Unnecessary Elaboration]
+>   D --> E[Overthinking]
+>   E --> F[Degrading Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Types Comparison**
+> *Compare productive and unproductive reasoning types.*
+>
+> ```mermaid
+> graph TD
+>   A[Productive Reasoning] --> B[Clear, Concise]
+>   C[Unproductive Reasoning] --> D[Necessary Complexity]
+>   E[Introduces Contradictions] --> F[Degrades Quality]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Excessive Review]
+>   C[Reactive Thinking] --> D[Immediate Response]
+>   E[Negative Impact] --> F[Positive Impact]
+> ```
 
 ## Core Explanation
 

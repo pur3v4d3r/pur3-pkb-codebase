@@ -67,8 +67,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Audio Language Model Workflow**
+> *Follow the flow from audio input to output analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Audio]
+>   B[Speech Recognition]
+>   C[Linguistic Analysis]
+>   D[Supralinguistic Features Extraction]
+>   E[Nuanced Output]
+>   A -->|Raw Data| B
+>   B -->|Transcription| C
+>   C -->|Linguistic Content| D
+>   D -->|Prosody, Tone| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with ASR+Text Pipelines**
+> *Compare the preservation of supralinguistic features in both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Audio]
+>   B1[ASR+Text Pipeline]
+>   B2[Audiolang Model Prompting]
+>   C1[Transcribed Text]
+>   C2[Linguistic & Supralinguistic Features]
+>   D1[Nuanced Analysis]
+>   D2[Richer Understanding]
+>   A -->|Raw Data| B1
+>   A -->|Raw Data| B2
+>   B1 -->|Text Only| C1
+>   B2 -->|Linguistic & Supralinguistic| C2
+>   C1 -->|Limited Analysis| D1
+>   C2 -->|Richer Understanding| D2
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall Tasks**
+> *Identify the differences in task difficulty based on context clues.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Clues]
+>   B1[Recognition Task]
+>   B2[Recall Task]
+>   C1[Cued Retrieval]
+>   C2[Deeper Understanding]
+>   D1[Easier]
+>   D2[Challenging]
+>   A -->|Present| B1
+>   A -->|Absent| B2
+>   B1 -->|Contextual Clues| C1
+>   B2 -->|No Direct Cues| C2
+>   C1 -->|Easier Task| D1
+>   C2 -->|Challenging Task| D2
+> ```
 
 ## Core Explanation
 

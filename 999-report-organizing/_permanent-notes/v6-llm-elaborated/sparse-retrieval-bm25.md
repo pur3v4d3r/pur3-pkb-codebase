@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — BM25 Scoring Process Overview**
+> *Follow the flow from query to document scoring.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Term Frequency]
+>   B --> C[IDF Calculation]
+>   C --> D[Damping Factor]
+>   D --> E[Document Length Normalization]
+>   E --> F[Final Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — BM25 vs Dense Retrieval Comparison**
+> *Compare the focus areas of BM25 and dense retrieval methods.*
+>
+> ```mermaid
+> graph TD
+>   A[BM25] --> B[Exact Term Matching]
+>   C[Dense Retrieval] --> D[Semantic Similarity]
+>   E[Focus Area] -->|Precision| A
+>   F[Focus Area] -->|Relevance| C
+> ```
+
+
+> [!abstract] **Diagram 3 — BM25 Application Scenarios**
+> *Identify the specific use cases for BM25.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Technical Documentation] --> B[Exact Phrase Matching]
+>   C[Legal Document Search] --> D[Specific Statute References]
+>   E[E-commerce Product Descriptions] --> F[Key Feature Proximity]
+> ```
 
 ## Core Explanation
 

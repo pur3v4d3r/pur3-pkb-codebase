@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Fine-Tuning vs RAG Workflow**
+> *Follow the flow from model training to inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Training]
+>   B[Fine-Tuning]
+>   C[RAG Integration]
+>   D[Inference]
+>   A -->|Fine-Tune| B
+>   A -->|RAG Setup| C
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Behavioral Patterns vs Up-to-dateness**
+> *Compare the focus of fine-tuning and RAG.*
+>
+> ```mermaid
+> graph TD
+>   A[Fine-Tuning]
+>   B[RAG]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference in thinking styles.*
+>
+> ```mermaid
+> graph TD
+>   A[Fine-Tuning]
+>   B[RAG]
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Transformer Circuit Analysis Process**
+> *Follow the steps from hypothesis to validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Behaviors] --> B[Hypothesize Circuits]
+>   B --> C[Test Hypotheses]
+>   C --> D[Validate Circuits]
+> ```
+
+
+> [!abstract] **Diagram 2 — Circuit Analysis vs General Interpretability**
+> *Compare the focus of circuit analysis with general interpretability techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[General Interpretability] -->|Broad Overview| B[Attention Visualization]
+>   C[Circuit Analysis] -->|Specific Subgraphs| D[Hypothesis Testing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the influence of top-down on bottom-up mechanisms.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TopDown: Higher-Level Guidance
+>   TopDown --> BottomUp: Influences Computation
+>   BottomUp --> [*]: Data-Driven Inputs
+> ```
 
 ## Core Explanation
 

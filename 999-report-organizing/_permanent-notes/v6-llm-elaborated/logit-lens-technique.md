@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Layer-wise Token Prediction Evolution**
+> *Follow the progression of token predictions from early to later layers.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Layer] --> B[Middle Layers]
+>   B --> C[Late Layers]
+>   A -->|Random Guesses| D[Early Predictions]
+>   B -->|Emerging Patterns| E[Refined Predictions]
+>   C -->|Final Refinement| F[Accurate Prediction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Logit Lens Mechanism Flowchart**
+> *Trace the steps from identifying unembedding matrix to observing token predictions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Unembedding Matrix] --> B[Apply to Hidden States]
+>   B --> C[Observe Token Distributions]
+>   C --> D[Track Predictions Across Layers]
+> ```
+
+
+> [!abstract] **Diagram 3 — Attention vs Logit Lens Focus**
+> *Compare the focus of attention mechanisms and logit lens technique.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 ## Core Explanation
 

@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Deduplication Effects Overview**
+> *Follow the flow from high duplication to moderate deduplication, observing performance changes.*
+>
+> ```mermaid
+> graph TD
+>   A[High Duplication] --> B[Moderate Deduplication]
+>   A --> C[Overfitting]
+>   B --> D[Better Generalization]
+>   C --> E[Poor Novel Input Performance]
+>   D --> F[Improved Benchmark Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Deduplication Methods Comparison**
+> *Compare the strengths and weaknesses of exact, near, and semantic deduplication methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Exact Deduplication] -->|Removes Identical Docs| B[Strength: High Effectiveness]
+>   A -->|Weakness: Misses Semantically Similar Docs| C[Weakness]
+>   D[Near-Deduplication] -->|Uses MinHash/LSH| E[Strength: Reduces N-Gram Overlap]
+>   D -->|Weakness: Computational Cost| F[Weakness]
+>   G[Semantic Deduplication] -->|Focuses on Semantics| H[Strength: Preserves Textual Diversity]
+>   G -->|Weakness: Requires Complex Models| I[Weakness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Deduplication on Model Robustness**
+> *Trace the relationship between deduplication and model robustness against adversarial attacks.*
+>
+> ```mermaid
+> graph TD
+>   A[Deduplicated Data] --> B[Reduced Redundancy]
+>   B --> C[Better Generalization]
+>   C --> D[Improved Robustness Against Adversarial Attacks]
+> ```
 
 ## Core Explanation
 

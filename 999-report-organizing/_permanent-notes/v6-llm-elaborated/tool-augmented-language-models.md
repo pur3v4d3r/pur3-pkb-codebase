@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tool-Augmented LLM Process Flow**
+> *Follow the flow from task identification to tool invocation and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Identification] --> B[External Information Needed]
+>   B --> C[Formulate Request]
+>   C --> D[Invoke Tool]
+>   D --> E[Integrate Output]
+>   E --> F[Text Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tool Integration Mechanisms**
+> *Compare function calling and agent frameworks for tool integration.*
+>
+> ```mermaid
+> graph TD
+>   A[Function Calling] --> B[Integrate Tool Output]
+>   C[Agent Frameworks] --> D[Interspersed Reasoning Steps]
+>   E[Iterative Reasoning] --> F[Integrate Tool Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples Overview**
+> *Identify the applications and their corresponding benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Dynamically Generate Content]
+>   C[Automated Workflow Management] --> D[Integrate External Systems]
+>   E[Dynamic Content Generation] --> F[Adapt Based on Feedback]
+> ```
 
 ## Core Explanation
 

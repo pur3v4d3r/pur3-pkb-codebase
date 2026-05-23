@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — MT-Bench Evaluation Categories**
+> *Identify the categories of questions in MT-Bench.*
+>
+> ```mermaid
+> graph TD
+>   A[Writing] --> B(Roleplay)
+>   C[Extraction] --> D[Reasoning]
+>   E[Math] --> F[Coding]
+>   G[Knowledge] --> H[STEM]
+> ```
+
+
+> [!abstract] **Diagram 2 — MT-Bench Scoring Process**
+> *Understand the flow of scoring from questions to final scores.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Questions] --> B[GPT-4 Judge]
+>   C[Category Scores] --> D[Final Score]
+> ```
+
+
+> [!abstract] **Diagram 3 — Multi-Turn vs Single-Turn Evaluation**
+> *Compare multi-turn and single-turn evaluation approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Single-Turn]
+>   B[Maintain Context] --> C[Multi-Turn]
+>   D[Isolated Tasks] --> E[Complex Instructions]
+> ```
 
 ## Core Explanation
 

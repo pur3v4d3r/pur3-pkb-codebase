@@ -68,8 +68,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reward Model Training Process Flow**
+> *Follow the steps from initialization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initialize from SFT checkpoint] --> B["Fine-tune on (prompt, completion_A, completion_B, preferred) tuples"]
+>   B --> C[Iteratively update based on human feedback]
+>   C --> D[Better prediction of preferences]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reward Model vs Direct Preference Optimization**
+> *Compare the approaches to improving language models.*
+>
+> ```mermaid
+> graph TD
+>   A[Reward model training] --> B[Proxy reward function]
+>   C[Direct preference optimization] --> D[Explicit feedback]
+>   A ---|More scalable but may suffer from distribution shift issues| E{Comparison}
+>   C ---|Optimize policy directly| E
+> ```
 
 ## Core Explanation
 

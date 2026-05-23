@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Latent Capability Unlocking Process Flow**
+> *Follow the flow from pretraining to unlocking capabilities.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretraining] --> B[Fine-tuning]
+>   B --> C[Prompting/LoRA]
+>   C --> D[Unlock Capabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Latent Capability Unlock Mechanism**
+> *Trace the steps from specialized prompting to capability activation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Prompting] --> B[Access Pretraining Knowledge]
+>   C[LoRA Fine-tuning] --> D[Activate Specific Knowledge]
+>   E[Continued Pretraining] --> F[Establish New Output Regimes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Latent Capability Applications**
+> *Compare instructional design and medical reasoning applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Tailored Educational Content]
+>   C[Medical Reasoning] --> D[Accurate Medical Advice]
+> ```
 
 ## Core Explanation
 

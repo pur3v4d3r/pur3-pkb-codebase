@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Paraphrasing Process Flow**
+> *Follow the steps from original prompt to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Original Prompt] --> B[Generate Variations]
+>   B --> C[Evaluate Responses]
+>   C --> D[Analyze Consistency]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Paraphrasing vs Optimization Comparison**
+> *Compare the goals and approaches of both techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Paraphrasing] -->|Evaluate Robustness| B[Generate Variations]
+>   C[Prompt Optimization] -->|Maximize Performance| D[Find Best Phrasing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Prompting**
+> *Understand the difference between reflective and reactive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] -->|Deliberate Modification| B[Evaluate Model]
+>   C[Reactive] -->|Immediate Response| D[Ignoring Analysis]
+> ```
 
 ## Core Explanation
 

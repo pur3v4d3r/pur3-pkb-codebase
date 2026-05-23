@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Grokking Phase Transition Diagram**
+> *Follow the phases from memorization to generalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Memorization]
+>   B[Plateau]
+>   C[Generalization]
+>   A -->|Initial Training| B
+>   B -->|Internal Reorganization| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Grokking Mechanism Flowchart**
+> *Trace the internal reorganization process during grokking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data]
+>   B[Misleading Loss]
+>   C[Internal Reorg]
+>   D[Circuit Emergence]
+>   E[Generalization]
+>   A -->|Memorize Training Data| B
+>   B -->|Plateau Phase| C
+>   C -->|Clean Algorithmic Circuits| D
+>   D -->|Improved Generalization| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Grokking vs Overfitting/Underfitting**
+> *Compare grokking with overfitting and underfitting phases.*
+>
+> ```mermaid
+> graph TD
+>   A[Overfitting]
+>   B[Underfitting]
+>   C[Grokking]
+>   D[Generalization]
+>   A -->|Poor Generalization| D
+>   B -->|Fails to Capture Patterns| D
+>   C -->|Delayed Transition| D
+> ```
 
 ## Core Explanation
 

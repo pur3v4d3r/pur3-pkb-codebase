@@ -68,8 +68,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Non-Sequitur Mechanism Overview**
+> *Follow the flow from attention failure to coherence drift.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention Failure]
+>   B[Knowledge Injection Patterns]
+>   C[Contextual Inappropriateness]
+>   D[Coherence Drift in Long-Form Generation]
+>   E[Thematic Disconnection]
+>   A -->|Shifts Focus| B
+>   B -->|Introduces Facts| C
+>   A -->|Accumulated Context| D
+>   D -->|Dilutes Topical Constraints| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Non-Sequitur vs Contradiction Comparison**
+> *Compare the nature of non-sequiturs and contradictions in logical flow.*
+>
+> ```mermaid
+> graph TD
+>   A[Non-Sequitur]
+>   B[Contradiction]
+>   C[Contextually Plausible]
+>   D[Thematic Disconnection]
+>   E[Direct Logical Opposition]
+>   F[Single Sentence]
+>   G[Multiple Sentences]
+>   A -->|C| D
+>   B -->|E| F
+>   A -.-> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Detection**
+> *Identify the difference between reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive]
+>   B[Surface-Level Coherence Checks]
+>   C[Immediate Automatic Response]
+>   D[Reflective]
+>   E[Thematic Inconsistencies Analysis]
+>   F[Deliberate Evaluation]
+>   A -->|C| B
+>   D -->|F| E
+> ```
 
 ## Core Explanation
 

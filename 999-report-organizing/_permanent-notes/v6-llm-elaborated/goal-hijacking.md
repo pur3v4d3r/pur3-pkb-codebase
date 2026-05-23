@@ -70,8 +70,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Goal Hijacking Process Flow**
+> *Follow the sequence from input to unauthorized action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Prompt Injection]
+>   B --> C[System Interpretation]
+>   C --> D[Task Redirection]
+>   D --> E[Unauthorized Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Hijacking vs Content Elicitation**
+> *Compare the impact of altering task objectives versus output content.*
+>
+> ```mermaid
+> graph TD
+>   A[Content Elicitation] --> B[Extract Info]
+>   C[Goal Hijacking] --> D[Change Objective]
+>   subgraph Impact
+>     B --> E[No Task Alteration]
+>     D --> F[Task Redirection]
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in AI**
+> *Identify the difference between reflective and reactive processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Reactive] --> B[Quick Action]
+>   C[Reflective] --> D[Deliberation]
+>   subgraph Goal Alignment
+>     B --> E[Task Verification]
+>     D --> F[Goal Validation]
+>   end
+> ```
 
 ## Core Explanation
 

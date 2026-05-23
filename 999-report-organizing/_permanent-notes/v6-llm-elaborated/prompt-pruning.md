@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Pruning Process Flow**
+> *Follow the steps from initial prompt to optimized output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Evaluation]
+>   B --> C[Test Removals]
+>   C --> D[Measure Impact]
+>   D --> E[Optimized Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Pruning vs Distillation Comparison**
+> *Compare the approaches of prompt pruning and distillation.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Pruning] --> B[Remove Unnecessary]
+>   C[Prompt Distillation] --> D[Reword Content]
+>   E{Token Reduction}
+>   B -->|No Alteration| E
+>   D -->|Rephrasing| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Identify intrinsic and extraneous load in prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Essential Information] --> B(Intrinsic Load)
+>   C[Unnecessary Elements] --> D(Extraneous Load)
+> ```
 
 ## Core Explanation
 

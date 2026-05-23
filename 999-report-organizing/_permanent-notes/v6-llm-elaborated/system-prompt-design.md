@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — System Prompt Design Process Flow**
+> *Follow the steps from initial setup to final application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Setup] --> B[Context Establishment]
+>   B --> C[System Integration]
+>   C --> D[Test and Validation]
+>   D --> E[Deployment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Prompt Types**
+> *Compare the characteristics of reflective and reactive prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Prompts] -->|Deeper Analysis| B[Nuanced Understanding]
+>   C[Reactive Prompts] -->|Quick Responses| D[Limited Depth]
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivation Types in Prompt Design**
+> *Understand the differences between intrinsic and extrinsic motivations.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation] -->|Internal Satisfaction| B[Creative Responses]
+>   C[Extrinsic Motivation] -->|External Rewards| D[Performance Metrics]
+> ```
 
 ## Core Explanation
 

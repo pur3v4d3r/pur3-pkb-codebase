@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Attention Process Flow**
+> *Follow the flow from query to key-value pairs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Decoder Query] --> B[Encoder Keys]
+>   B --> C[Encoder Values]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cross-Attention vs Self-Attention**
+> *Compare the intra-sequence and inter-sequence attention mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Attention] -->|Intra-sequence| B[Single Sequence]
+>   C[Cross-Attention] -->|Inter-sequence| D[Two Sequences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Identify the guidance direction in each processing type.*
+>
+> ```mermaid
+> graph TD
+>   A[Decoder Query] -->|High-Level Context| B[Encoder]
+>   C[Local Features] --> D[No Guidance]
+> ```
 
 ## Core Explanation
 

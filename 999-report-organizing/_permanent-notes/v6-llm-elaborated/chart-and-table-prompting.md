@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chart Prompting Process Flow**
+> *Follow the steps from data extraction to synthesis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Extract Data] --> B[Interpret Values]
+>   B --> C[Synthesize Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Chart and Table Prompting Applications**
+> *Identify the applications in different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Business Intelligence] -->|Extract KPIs| B[Financial Data]
+>   C[Scientific Research] -->|Analyze Trends| D[Experimental Results]
+>   E[Educational Assessment] -->|Evaluate Comprehension| F[Student Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Chain-of-Thought Prompting Mechanism**
+> *Understand the separation of extraction and synthesis steps.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ExtractData
+>   ExtractData --> InterpretValues : Interpretation
+>   InterpretValues --> SynthesizeAnswer : Synthesis
+>   SynthesizeAnswer --> [*]
+> ```
 
 ## Core Explanation
 

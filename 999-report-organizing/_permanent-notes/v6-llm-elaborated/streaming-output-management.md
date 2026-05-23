@@ -68,8 +68,73 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Streaming vs Non-streaming Delivery Methods**
+> *Compare the flow of output generation and delivery.*
+>
+> ```mermaid
+> graph TD
+>   A[Output Generation]
+>   B[Token Production]
+>   C[Delivery to Client]
+>   D[User Interaction]
+>   A --> B
+>   B -->|Non-streaming| C
+>   C --> D
+>   A --> B
+>   B -.->|Streaming| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Real-time Collaboration Workflow**
+> *Follow the interaction flow in a collaborative environment.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User1 as U1
+>   participant User2 as U2
+>   participant LLM as M
+>   participant UI as I
+>   U1->>M: Input Query
+>   M-->>I: Partial Output
+>   I->>U1: Display Update
+>   loop Continuous Interaction
+>     U1->>M: Follow-up Query
+>     M-->>I: Updated Output
+>     I->>U2: Notification
+>     U2->>M: Response
+>     M-->>I: New Output
+>     I->>U1, U2: Display Update
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Process**
+> *Compare the decision-making processes in both modes.*
+>
+> ```mermaid
+> graph TD
+>   A[Information]
+>   B[Decision Making]
+>   C[Action]
+>   D[Complete Information]
+>   E[Partial Information]
+>   A -->|Reflective Thinking| D
+>   D --> B
+>   B --> C
+>   A -->|Reactive Thinking| E
+>   E -.-> B
+>   B --> C
+> ```
 
 ## Core Explanation
 

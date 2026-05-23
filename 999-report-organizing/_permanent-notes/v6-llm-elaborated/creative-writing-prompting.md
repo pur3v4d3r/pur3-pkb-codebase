@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Creative Writing Prompting Process Flow**
+> *Follow the steps from initial prompt to final revision.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[First Generation]
+>   B --> C[Critique]
+>   C --> D[Revision]
+>   D --> E[Final Revision]
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrative Structure and Stylistic Criteria**
+> *Identify the key narrative and stylistic elements evaluated during critique.*
+>
+> ```mermaid
+> graph TD
+>   A[Narrative Coherence] --> B[Plot Development]
+>   C[Sensory Specificity] --> D[Character Depth]
+>   E[Show vs Tell] --> F[Thematic Consistency]
+> ```
+
+
+> [!abstract] **Diagram 3 — Creative Writing Prompting Applications**
+> *Explore the various applications of Creative Writing Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Teaching Narrative Structure]
+>   C[Creative Non-Fiction] --> D[Exploring New Styles]
+>   E[Virtual Reality] --> F[Integrating AI Narratives]
+> ```
 
 ## Core Explanation
 

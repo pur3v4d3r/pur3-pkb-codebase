@@ -70,8 +70,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Concept Representation Directions**
+> *Identify the linear directions for different concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Sentiment] --> B[Activation Space]
+>   C[Negative Sentiment] --> B
+>   D[Mammal] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Linear Manipulation Process**
+> *Follow the process of manipulating linear directions in activation space.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Activation] -->|Add Positive Sentiment Direction| B[Modified Activation]
+>   B --> C[Predicted Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Concept Interaction Limitations**
+> *Notice the limitations of linear representations in capturing complex interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Approximation] -->|Polysemanticity| B[Multiple Concepts]
+>   A -->|Superposition| C[Non-Orthogonal Directions]
+>   A -->|Context Dependence| D[Different Contexts]
+> ```
 
 ## Core Explanation
 

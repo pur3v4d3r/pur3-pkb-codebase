@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Program of Thoughts Workflow**
+> *Follow the steps from problem breakdown to computation execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Breakdown]
+>   B --> C[Logical Steps]
+>   C --> D[Executable Code]
+>   D --> E[External Interpreter]
+>   E --> F[Numerical Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the structured approach of PoT with spontaneous problem-solving.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem] --> B[PoT]
+>   A --> C[Reactive]
+>   B --> D[Step-by-Step Breakdown]
+>   C --> E[Immediate Solution]
+>   D --> F[Executable Code]
+>   E --> G[Natural Language Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — PoT vs Natural-Language Reasoning**
+> *Identify the separation of logical reasoning and numerical computation.*
+>
+> ```mermaid
+> graph TD
+>   A[Logical Steps] --> B[Natural Language]
+>   C[Executable Code] --> D[External Interpreter]
+>   E[Computation Errors] --> F[Avoided]
+>   G[Accuracy Improvement] --> H[Enhanced]
+> ```
 
 ## Core Explanation
 

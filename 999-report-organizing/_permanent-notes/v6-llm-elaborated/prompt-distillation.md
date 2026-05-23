@@ -69,8 +69,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Distillation Process Flow**
+> *Follow the iterative refinement and validation steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Initial Prompt]
+>   B --> C[Automated Compression]
+>   C --> D[Irrelevant Tokens Removed]
+>   D --> E[Prompt Shortened]
+>   E --> F[Test Output Quality]
+>   F --> G[Iterate if Necessary]
+>   G --> H[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Distillation Mechanisms Overview**
+> *Identify the different mechanisms used in prompt distillation.*
+>
+> ```mermaid
+> graph TD
+>   A[Iterative Refinement] --> B(Automated Compression)
+>   A --> C(Fine-Tuning Smaller Models)
+>   A --> D(Structural Rewriting)
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Distillation Applications**
+> *See the various applications of prompt distillation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(High-Volume Production)
+>   A --> C(Spaced Retrieval in MOOCs)
+> ```
 
 ## Core Explanation
 

@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Lingual Prompt Transfer Flow**
+> *Follow the flow from English prompts to other languages.*
+>
+> ```mermaid
+> flowchart TD
+>   A[English Prompts] --> B[High-Resource Languages]
+>   A --> C[Low-Resource Languages]
+>   B --> D[Efficacy]
+>   C --> E[Inefficacy]
+>   F[Adaptation Needed] --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Transfer Success Rates**
+> *Compare success rates across different language pairs.*
+>
+> ```mermaid
+> graph TD
+>   A[English-Other High-Resource]
+>   B[High Success Rate] -->|Success| A
+>   C[Low-Resource Languages]
+>   D[Low Success Rate] -->|Failure| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Architecture Impact**
+> *See how different architectures affect cross-lingual transfer.*
+>
+> ```mermaid
+> graph TD
+>   A[Transformer Models]
+>   B[High Transferability] -->|Success| A
+>   C[RNN Architectures]
+>   D[Low Transferability] -->|Failure| C
+> ```
 
 ## Core Explanation
 

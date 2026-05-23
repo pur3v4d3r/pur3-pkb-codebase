@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reward Model Initialization Process**
+> *Follow the flow from initialization to fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pretrained Checkpoint] --> B[Reward Model]
+>   B --> C[Fine-Tune on Human Comparisons]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison Formats for Labeling**
+> *Compare the two formats and their implications.*
+>
+> ```mermaid
+> graph TD
+>   A[Pairwise Comparison] -->|Intuitive but requires large datasets| B[Intuitive]
+>   C[Ranked Comparison] -->|More nuanced understanding| D[Nuanced]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reward Model Challenges and Solutions**
+> *Identify the challenges and corresponding solutions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Overfitting] --> B[Regularize]
+>   C[Bias in Labelers] --> D[Diverse Training Data]
+>   E[Reward Hacking] --> F[Avoid Flaws]
+> ```
 
 ## Core Explanation
 

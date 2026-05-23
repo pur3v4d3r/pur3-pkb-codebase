@@ -68,8 +68,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Analysis Prompting Process Flow**
+> *Follow the flow from defining dataset to receiving insights.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Dataset]
+>   B[Articulate Analytical Questions]
+>   C[Specify Assumptions/Constraints]
+>   D[Leverage LLM for Analysis]
+>   E[Receive Insights]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Question-First vs Method-First Prompting Comparison**
+> *Compare the two approaches in terms of flexibility and accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Question-First]
+>   B(Method-First)
+>   C[Flexible Techniques]
+>   D[Precise Insights]
+>   E[Rigid Methods]
+>   F[Less Relevant]
+>   A -->|Flexible Techniques| C
+>   A -->|Precise Insights| D
+>   B -->|Rigid Methods| E
+>   B -->|Less Relevant| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Prompting**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[Consider Implications]
+>   D[Immediate Response]
+>   E[Careful Framing]
+>   F[Intuition/Pre-existing Knowledge]
+>   A -->|Careful Framing| E
+>   A -->|Consider Implications| C
+>   B -->|Immediate Response| D
+>   B -->|Intuition/Pre-existing Knowledge| F
+> ```
 
 ## Core Explanation
 

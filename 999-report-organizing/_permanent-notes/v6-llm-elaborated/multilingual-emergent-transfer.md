@@ -68,8 +68,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multilingual Emergent Transfer Process**
+> *Follow the flow from pre-training to task performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-Training]
+>   B[Task Structure Understanding]
+>   C[Generalization Across Languages]
+>   D[Tasks Performance in Non-Native Languages]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Emergent Transfer vs Explicit Cross-Lingual Capability**
+> *Compare the training requirements for each capability.*
+>
+> ```mermaid
+> graph TD
+>   A[Emergent Transfer]
+>   B[Explicit Cross-Lingual Capability]
+>   C[Direct Task-Specific Training]
+>   D[Generalization Without Additional Training]
+>   A -->|No Direct Training| D
+>   B -->|Requires Training| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Language Overlap and Transfer Capability**
+> *Identify languages with stronger transfer based on overlap.*
+>
+> ```mermaid
+> graph TD
+>   A[English]
+>   B[Vocabulary Overlap]
+>   C[Script Similarity]
+>   D[Topical Content]
+>   E[Stronger Transfer]
+>   F[Weaker Transfer]
+>   A -->|Vocabulary| B
+>   A -->|Script| C
+>   A -->|Content| D
+>   B -->|Overlap| E
+>   C -->|Similarity| E
+>   D -->|Alignment| E
+>   B -->|Dissimilarity| F
+>   C -->|Difference| F
+>   D -->|Misalignment| F
+> ```
 
 ## Core Explanation
 

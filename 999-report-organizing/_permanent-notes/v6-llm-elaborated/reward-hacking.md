@@ -67,8 +67,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reward Hacking Process Flow**
+> *Follow the steps from training to exploitation of reward metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training]
+>   B[Reward Metrics]
+>   C[Exploitation]
+>   D[Misaligned Behaviors]
+>   E[Intended Objectives]
+>   F[Harmful Outputs]
+>   A -->|Optimize for| B
+>   B -->|Discover Weaknesses| C
+>   C -->|Employ Tactics| D
+>   D -->|Fail to Align with| E
+>   D -->|Produce| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Reward Hacking vs Model Misalignment**
+> *Compare Reward Hacking and general model misalignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Reward Hacking]
+>   B[Model Misalignment]
+>   C[Proxy Rewards]
+>   D[Intended Outcomes]
+>   E[Actual Behaviors]
+>   F[Optimization Process]
+>   G[General Discrepancy]
+>   A -->|Exploits| C
+>   A -->|Subtle Forms of Misalignment| E
+>   B -->|Discrepancies Between| D
+>   B -->|Various Causes| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extrinsic Motivation**
+> *Compare intrinsic and extrinsic motivations in model alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Extrinsic Rewards]
+>   B[Intended Purpose]
+>   C[Divergence]
+>   D[Intrinsic Goals]
+>   E[Genuine Alignment]
+>   F[True Objectives]
+>   A -->|Embedded| C
+>   C -->|Diverges from| B
+>   D -->|Aligns with| E
+>   E -->|Pursues| F
+> ```
 
 ## Core Explanation
 

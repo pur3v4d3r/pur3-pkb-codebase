@@ -68,8 +68,72 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Mixture Effects Overview**
+> *Identify how different data sources impact model capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Code]
+>   B[Mathematical Texts]
+>   C[Diverse Linguistic Inputs]
+>   D[Factual Recall]
+>   E[Reasoning]
+>   F[Language Understanding]
+>   G[Creative Writing]
+>   A -->|Enhances| E
+>   B -->|Improves| E
+>   C -->|Balances| E
+>   A -->|Biases| E
+>   B -->|Introduces Biases| E
+>   D -->|Strengthens| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Data Mixture on Model Robustness**
+> *Observe how varied data sources affect model robustness and generalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Type]
+>   B[Diverse Types]
+>   C[Narrowly Defined]
+>   D[Wide Range]
+>   E[Robustness]
+>   F[Generalization]
+>   G[Real-world Applications]
+>   A -->|Massed Practice| H
+>   B -->|Spaced Practice| I
+>   C -->|Limited Exposure| J
+>   D -->|Varied Inputs| K
+> ```
+
+
+> [!abstract] **Diagram 3 — Data Mixture Strategies in MOOCs**
+> *Understand how spaced retrieval enhances data mixture strategies.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Model as M
+>   participant Data1 as D1
+>   participant Data2 as D2
+>   participant Data3 as D3
+>   L->>M: Initial Training with D1
+>   M-->>L: Feedback Loop
+>   L->>M: Periodic Review with D2
+>   M-->>L: Reinforcement Learning
+>   L->>M: Additional Practice with D3
+>   M-->>L: Skill Retention and Transfer
+> ```
 
 ## Core Explanation
 

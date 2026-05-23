@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Generation Process Flow**
+> *Follow the steps from initial prompt to final refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Basic Functionality]
+>   B --> C[Performance Feedback]
+>   C --> D[Security Checks]
+>   D --> E[Maintainability Iterations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Code Generation Taxonomy**
+> *Identify the key components and their relationships in Code Generation Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Functional Requirements] --> B[Test Cases]
+>   A --> C[Coding Styles]
+>   B --> D[Performance Constraints]
+>   C --> E[Maintainability]
+> ```
+
+
+> [!abstract] **Diagram 3 — Code Generation vs Generic Methodologies**
+> *Compare the focus areas of Code Generation Prompting and generic software development.*
+>
+> ```mermaid
+> classDiagram
+>   class CodeGenerationPrompting{
+>     +FunctionalRequirements
+>     +TestCases
+>     +CodingStyles
+>     +PerformanceConstraints
+>     +Maintainability
+>   }
+>   class GenericMethodologies{
+>     -BroadPrinciples
+>     -CodingStandards
+>     -BestPractices
+>   }
+> ```
 
 ## Core Explanation
 

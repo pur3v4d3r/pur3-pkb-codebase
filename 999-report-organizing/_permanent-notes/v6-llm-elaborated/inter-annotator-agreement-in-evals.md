@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — IAA Levels for Evaluation Criteria**
+> *Compare IAA levels between holistic and binary criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Holistic Scale]
+>   B(Binary Criteria)
+>   A -->|Cohen's Kappa: 0.3-0.5| C[Holistic Agreement]
+>   B -->|Cohen's Kappa > 0.7| D[Binary Agreement]
+> ```
+
+
+> [!abstract] **Diagram 2 — IAA and Evaluation Reliability**
+> *Understand the impact of IAA on evaluation reliability.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Low IAA]
+>   B(High IAA)
+>   A -->|Unreliable Results| C[Annotator Variability]
+>   B -->|Reliable Assessments| D[Model Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — IAA Reporting in Studies**
+> *See the importance of reporting IAA alongside primary results.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Study as S
+>   participant Reader as R
+>   S->>R: Primary Results
+>   alt Low IAA
+>     S-->>R: Unreliable Findings
+>   else High IAA
+>     S-->>R: Reliable Assessments
+>   end
+> ```
 
 ## Core Explanation
 

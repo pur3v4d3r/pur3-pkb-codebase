@@ -70,8 +70,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dialogue Grounding Process Flow**
+> *Follow the flow from user input to system confirmation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Interpretation]
+>   B --> C[Is Ambiguous?]
+>   C -- Yes --> D[Grounding Prompt]
+>   C -- No --> E[Proceed]
+>   D --> F[User Response]
+>   F --> G[Confirm Understanding]
+>   G --> H[Proceed]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dialogue Grounding vs Coreference Resolution**
+> *Compare the focus areas of dialogue grounding and coreference resolution.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue Grounding]
+>   B(Coreference Resolution)
+>   A -->|Clarify Ambiguous Inputs| C[Confirm Understanding]
+>   B -->|Resolve References| D[Contextual Clarity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dialogue State Tracking vs Dialogue Grounding**
+> *Differentiate between dialogue state tracking and grounding in real-time.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue Grounding]
+>   B(Dialogue State Tracking)
+>   A -->|Real-Time Interpretation| C[Confirm Mutual Understanding]
+>   B -->|Track Conversation Progress| D[Maintain Context]
+> ```
 
 ## Core Explanation
 

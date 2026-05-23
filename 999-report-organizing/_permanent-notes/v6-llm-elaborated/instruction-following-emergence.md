@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Instruction-following Process Flow**
+> *Follow the flow from training to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Diverse Instructions]
+>   B --> C[Model Adaptation]
+>   C --> D[Generalization]
+>   D --> E[Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Processing Depth**
+> *Compare surface and deep processing approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing] --> B[Faster Response]
+>   C[Deep Processing] --> D[Accurate Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instruction Types Hierarchy**
+> *Explore the hierarchy of instruction types and their impact.*
+>
+> ```mermaid
+> graph TD
+>   A[General Instructions] --> B[Diverse Tasks]
+>   B --> C[Narrowly Defined Tasks]
+> ```
 
 ## Core Explanation
 

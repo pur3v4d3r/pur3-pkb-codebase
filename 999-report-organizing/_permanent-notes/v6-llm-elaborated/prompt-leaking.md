@@ -71,8 +71,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Leaking Mechanisms**
+> *Follow the flow from input to output, noting where leaks occur.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[System]
+>   B --> C[Context Window]
+>   C --> D[Output]
+>   C -.-> E[Leakage]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Leaking vs Direct Injection**
+> *Compare the paths of prompt leaking and direct injection.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt] --> B[Model]
+>   B --> C[Output]
+>   B -.-> D[Leakage]
+>   E[Injection] --> F[Context Window]
+>   F --> G[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Prompt Leaking**
+> *Identify the difference between recognition and recall paths.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt] --> B[Model]
+>   B --> C[Output]
+>   D[Recognition] -.-> E[Cue]
+>   F[Recall] -.-> G[Understanding]
+> ```
 
 ## Core Explanation
 

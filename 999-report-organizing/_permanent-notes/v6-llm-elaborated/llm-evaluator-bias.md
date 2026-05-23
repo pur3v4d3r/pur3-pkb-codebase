@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Evaluator Bias Types**
+> *Identify different types of biases and their effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Positional Bias]
+>   B[Verbosity Bias]
+>   C[Self-Enhancement Bias]
+>   D[Sycophancy-Induced Bias]
+>   D -->|Confirms expressed views
+> ```
+
+
+> [!abstract] **Diagram 2 — Bias Mitigation Strategies**
+> *Understand how to mitigate different biases.*
+>
+> ```mermaid
+> graph TD
+>   A[De-biasing Instructions]
+>   B[Randomize Output Positions]
+>   C[Take Reflective Thinking]
+>   D[Avoid Confirmation Bias]
+>   D -->|Avoids sycophancy-induced bias
+> ```
+
+
+> [!abstract] **Diagram 3 — Bias Impact on Evaluation**
+> *See how biases affect evaluation outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Positional Bias]
+>   B[Verbosity Bias]
+>   C[Self-Enhancement Bias]
+>   D[Sycophancy-Induced Bias]
+>   D -->|Confirms expressed views
+> ```
 
 ## Core Explanation
 

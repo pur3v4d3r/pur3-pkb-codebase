@@ -67,8 +67,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CRAG Pipeline Overview**
+> *Follow the flow from query to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Retrieve Documents]
+>   B --> C[Evaluate Relevance]
+>   C -->|Below Threshold| D[Web-Search for Higher Quality Sources]
+>   C -->|Above Threshold| E[Filter Out Irrelevant Content]
+>   D --> F[Integrate New Sources]
+>   E --> F
+>   F --> G[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — CRAG vs Standard RAG Comparison**
+> *Compare the steps in CRAG and standard RAG processes.*
+>
+> ```mermaid
+> graph TD
+>   A1[Query] --> B1[Retrieve Documents]
+>   B1 --> C1[Generate Response]
+>   subgraph Standard RAG
+>     A1
+>     B1
+>     C1
+>   end
+>   A2[Query] --> B2[Retrieve Documents]
+>   B2 --> C2[Evaluate Relevance]
+>   C2 -->|Below Threshold| D2[Web-Search for Higher Quality Sources]
+>   C2 -->|Above Threshold| E2[Filter Out Irrelevant Content]
+>   subgraph CRAG
+>     A2
+>     B2
+>     C2
+>     D2
+>     E2
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — CRAG Quality Assessment Flow**
+> *Trace the decision-making process for document quality.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieve Documents] --> B[Evaluate Relevance]
+>   B -->|Below Threshold| C[Web-Search for Higher Quality Sources]
+>   B -->|Above Threshold| D[Integrate Document]
+>   C --> E[Integrate New Sources]
+>   D --> F[Generate Response]
+>   E --> F
+> ```
 
 ## Core Explanation
 

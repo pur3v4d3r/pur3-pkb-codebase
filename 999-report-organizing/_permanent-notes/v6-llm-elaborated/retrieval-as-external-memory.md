@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Retrieval Process Flow**
+> *Follow the flow from query to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[External Repository]
+>   B --> C[Integrate Content]
+>   C --> D[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Management Comparison**
+> *Compare parametric LLMs with retrieval-based systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Parametric LLM]
+>   B[Retrieval-Based System]
+>   A -->|Static Parameters| C[Outdated Knowledge]
+>   B -->|External Memory| D[Up-to-Date Information]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Role Analogy**
+> *Analogize working memory and long-term memory in systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Long-Term Memory]
+>   C[External Memory]
+>   A -->|Limited Capacity| D[Static Parameters]
+>   B -->|Persistent Storage| E[Vast Repository]
+>   C -->|Dynamic Access| F[Integrate Content]
+> ```
 
 ## Core Explanation
 

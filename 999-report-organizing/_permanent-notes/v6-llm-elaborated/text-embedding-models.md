@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Text Embedding Process Flow**
+> *Follow the flow from input text to dense vector output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Tokenization]
+>   B --> C[Embedding Lookup]
+>   C --> D[Dense Vector]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bi-Encoder vs Cross-Encoder Comparison**
+> *Compare the processing flow of bi-encoders and cross-encoders.*
+>
+> ```mermaid
+> graph TD
+>   A[Query] --> B1[Bi-Encoder]
+>   C[Document] --> D1[Bi-Encoder]
+>   E[Query & Document] --> F1[Cross-Encoder]
+>   B1 --> G1[Dense Vector Query]
+>   D1 --> H1[Dense Vector Doc]
+>   F1 --> I1[Dense Vector Pair]
+> ```
+
+
+> [!abstract] **Diagram 3 — Text Embedding Applications Overview**
+> *Identify the applications of text embedding models.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Search] --> B[Find Similar Documents]
+>   C[Duplicate Detection] --> D[Compare Texts]
+>   E[Clustering] --> F[Group Related Docs]
+>   G[Cross-Modal Retrieval] --> H[Retrieve Semantically Relevant Text]
+> ```
 
 ## Core Explanation
 

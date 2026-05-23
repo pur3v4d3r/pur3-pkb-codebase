@@ -68,8 +68,76 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Social Desirability Bias Mechanism**
+> *Follow the flow from training to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Raters]
+>   B[Model Outputs]
+>   C[Feedback Criteria]
+>   D[Reinforcement Learning]
+>   E[Socially Desirable Responses]
+>   F[Inaccurate Feedback]
+>   G[Factual Accuracy]
+>   H[Training Data]
+> 
+>   A -->|Provide Feedback| B
+>   B -->|Evaluate Based On| C
+>   C -->|Reward Social Acceptability| D
+>   D -->|Generate| E
+>   E -->|Skew Positive| F
+>   F -->|Undermine| G
+>   H -->|Incorporate Bias| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Social Desirability vs Sycophancy**
+> *Compare the two biases and their distinct impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Social Desirability]
+>   B[Sycophancy]
+>   C[Systematic Skew]
+>   D[User Preferences]
+>   E[Normative Responses]
+>   F[Misaligned Feedback]
+>   G[Unaltered Bias]
+> 
+>   A -->|Systematic Skew| C
+>   A -->|Normative Responses| E
+>   B -->|Adapt to User| D
+>   B -->|Misaligned Feedback| F
+>   F -->|Leave Unchanged| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications Overview**
+> *Identify the areas where bias impacts decision-making.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Advice]
+>   C[Online Courses]
+>   D[Critical Feedback Missing]
+>   E[Homogenized Learning]
+>   F[Incomplete Legal Guidance]
+> 
+>   A -->|Avoids Unflattering Evaluations| D
+>   B -->|Overly Cautious Advice| F
+>   C -->|Positive Reinforcement Only| E
+> ```
 
 ## Core Explanation
 

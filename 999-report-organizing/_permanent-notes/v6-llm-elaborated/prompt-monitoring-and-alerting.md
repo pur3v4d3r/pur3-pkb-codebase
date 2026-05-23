@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Monitoring Process Flow**
+> *Follow the flow from input to alert generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Metric Evaluation]
+>   B --> C[Threshold Comparison]
+>   C --> D[Anomaly Detection]
+>   D --> E[Alert Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Quality Assurance Workflow**
+> *Trace the path from automated metrics to human review.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Metric Evaluation] --> B[Automated Alerts]
+>   B --> C[Human Review]
+>   C --> D[Validation and Action]
+> ```
+
+
+> [!abstract] **Diagram 3 — Error Types in Monitoring**
+> *Identify Type I and II errors in the monitoring process.*
+>
+> ```mermaid
+> graph TD
+>   A(Type I Error) --> B(False Positive)
+>   C(Type II Error) --> D(False Negative)
+> ```
 
 ## Core Explanation
 

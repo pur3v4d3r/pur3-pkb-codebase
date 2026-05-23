@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Ethical Reasoning Process Flow**
+> *Follow the steps from dilemma to analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Present Dilemma] --> B[Specify Context]
+>   B --> C[Apply Frameworks]
+>   C --> D[Compare Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Ethical Framework Comparison**
+> *Identify the different ethical perspectives used.*
+>
+> ```mermaid
+> graph TD
+>   A[Consequentialism] -->|vs.| B[Deontology]
+>   C[Virtue Ethics] -->|vs.| D[Care Ethics]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *See how Ethical Reasoning applies in different fields.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policy-making] --> B[Business Decisions]
+>   C[Design Choices] --> D[Transparency & Accountability]
+> ```
 
 ## Core Explanation
 

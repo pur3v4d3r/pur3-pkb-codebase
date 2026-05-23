@@ -67,8 +67,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PromptBench Linguistic Levels**
+> *Identify the different linguistic levels tested by PromptBench.*
+>
+> ```mermaid
+> graph TD
+>   A[Character]
+>   B[Word]
+>   C[Sentence]
+>   D[Semantic]
+>   A -->|Minor Errors| E[Robustness]
+>   B -->|Synonym Substitution| E
+>   C -->|Paraphrasing| E
+>   D -->|Meaning Preservation| E
+> ```
+
+
+> [!abstract] **Diagram 2 — PromptBench Process Flow**
+> *Understand the process flow of applying perturbations in PromptBench.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Define Task]
+>   C[Prompt Creation]
+>   D[Perturbation Application]
+>   E[Performance Comparison]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — PromptBench Robustness Insights**
+> *See how PromptBench reveals model sensitivity to prompt variations.*
+>
+> ```mermaid
+> graph TD
+>   A[Clean Prompt]
+>   B[Perturbed Prompt]
+>   C[Performance Drop]
+>   D[Sensitivity Indication]
+>   A -->|Task Unchanged| E[Comparison]
+>   B -->|Same Task, Different Wording| E
+>   E -->|Often Exceeds 10-30%| C
+>   C -->|Highlights Prompt Sensitivity| D
+> ```
 
 ## Core Explanation
 

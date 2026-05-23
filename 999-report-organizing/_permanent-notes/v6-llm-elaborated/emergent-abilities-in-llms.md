@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Emergent Abilities Thresholds**
+> *Identify scale thresholds where emergent abilities appear.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Scale] --> B[Threshold]
+>   B --> C[Larger Scale]
+>   A --> D[No Emergence]
+>   C --> E[Emergent Abilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking in LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Pattern Recognition] --> B[Gradual Improvement]
+>   C[Complex Reasoning] --> D[Sudden Emergence]
+>   E[Reactive Skills] --> F[Immediate]
+>   G[Reflective Capabilities] --> H[Deliberate Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance vs Learning Mechanisms**
+> *Understand the difference between performance and learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance] --> B[Sudden Improvement]
+>   C[Learning] --> D[Effective Generalization]
+>   E[Task Execution] --> F[Any Given Moment]
+>   G[Knowledge Retention] --> H[Different Scenarios]
+> ```
 
 ## Core Explanation
 

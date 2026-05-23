@@ -644,7 +644,12 @@ def _fix_mermaid_content(content: str) -> str:
        Mermaid expects ``-->|label| Target``; lines ending with an open label
        text cause a parse error ("got '1'" / unexpected token).  The target is
        unrecoverable so the line is dropped.
-   10. **One-liner re-split** — when the entire diagram is collapsed onto one
+   10. **Stacked shape descriptor removal** — ``B(Adapter Layers)[Adapter Layers]``
+       — a node with a stadium shape ``(...)`` immediately followed by a bracket
+       shape ``[...]``.  Mermaid's parser sees the second ``[`` as unexpected
+       (``SQS`` token) after the first shape closes.  The trailing ``[...]`` is
+       stripped, keeping the ``(...)`` form.
+   11. **One-liner re-split** — when the entire diagram is collapsed onto one
        line the diagram-type header and node boundaries are split out.
 
     Args:
@@ -747,12 +752,25 @@ def _fix_mermaid_content(content: str) -> str:
         flags=re.MULTILINE,
     )
 
+    # ── Fix 10: stacked shape descriptors ────────────────────────────────────
+    # e.g.  "B(Adapter Layers)[Adapter Layers]" — the LLM emitted a stadium
+    # shape (...)  immediately followed by a bracket shape [...] on the same
+    # node.  Mermaid's tokenizer raises "got 'SQS'" because only one shape
+    # descriptor is allowed per node.  Strip the trailing [...] to leave the
+    # valid (...)  form.
+    content = re.sub(
+        r"(\b[A-Za-z_]\w*)\(([^)\n]+)\)\[([^\]\n]+)\]",
+        r"\1(\2)",
+        content,
+        flags=re.MULTILINE,
+    )
+
     # ── Early-return for well-formed multi-line content ───────────────────────
-    # Fix 10 only makes sense for degenerate one-liner LLM output.
+    # Fix 11 only makes sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
 
-    # ── Fix 10: split one-liner — diagram-type header from first node ─────────
+    # ── Fix 11: split one-liner — diagram-type header from first node ─────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",

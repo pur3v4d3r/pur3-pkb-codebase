@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Load Types Overview**
+> *Identify the three types of cognitive loads and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load] -->|Consumes resources without contributing to task completion| C[Degraded Performance]
+>   D[Germane Load] -->|Aids in building schemas for better performance| E[Better Future Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Design Process Flow**
+> *Follow the steps to design effective prompts based on cognitive load theory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B[Identify Task Complexity]
+>   B --> C[Evaluate Intrinsic Load]
+>   C --> D[Determine Extraneous Loads]
+>   D --> E[Reduce Redundant Information]
+>   E --> F[Promote Germane Load]
+>   F --> G[Test and Optimize]
+>   G --> H[End]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Prompt Structure on LLM Performance**
+> *Understand how different aspects of prompt design affect model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Prompts]
+>   B[Ambiguous Instructions] -->|Forces additional processing power| C[Distracts from core task]
+>   D[Redundant Information] -->|Consumes resources without contributing to task completion| E[Degraded Performance]
+>   F[Clear Hierarchies and Progressive Complexity] -->|Improves output quality| G[Better Performance]
+> ```
 
 # Cognitive Load Theory Applied to LLMs
 

@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Consistency Sampling Process Flow**
+> *Follow the flow from high-temperature sampling to majority vote.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Temperature Sampling] --> B[Generate Multiple Traces]
+>   B --> C[Aggregation via Majority Vote]
+>   C --> D[Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Consistency vs Simple Averaging**
+> *Compare Self-Consistency Sampling with simple averaging in error correction.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Consistency Sampling] --> B[Ensemble Diversity]
+>   C[Simple Averaging] --> D[Linear Combination]
+>   B -.->|Error Correction| E[Corrected Output]
+>   D -.->|Potential Bias| F[Biased Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the differences between reflective and reactive thinking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Thorough Examination]
+>   C[Reactive Thinking] --> D[Immediate Response]
+>   B -.->|Error Correction| E[Accurate Decision]
+>   D -.->|No Deep Analysis| F[Less Accurate]
+> ```
 
 ## Core Explanation
 

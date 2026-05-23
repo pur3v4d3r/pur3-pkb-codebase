@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Interpreter Workflow Overview**
+> *Follow the flow from user input to secure execution and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B(Code Generation)
+>   B --> C[Sandboxed Execution]
+>   C --> D(Output)
+> ```
+
+
+> [!abstract] **Diagram 2 — Sandbox Environment Security Measures**
+> *Identify the security controls in place for code execution.*
+>
+> ```mermaid
+> graph TD
+>   A[File System Access] -->|Restricted| B(Security)
+>   C(Network Communication) -->|Blocked| B
+>   D(CPU Time Limit) -->|Enforced| B
+>   E(Memory Usage Cap) -->|Enforced| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Code Interpreter Use Cases**
+> *Explore the different applications of code interpreters in various fields.*
+>
+> ```mermaid
+> graph TD
+>   A --> F[LLM Integration]
+>   B --> F
+>   C --> F
+> ```
 
 ## Core Explanation
 

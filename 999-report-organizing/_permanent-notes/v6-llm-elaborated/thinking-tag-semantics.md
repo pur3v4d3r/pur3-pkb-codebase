@@ -66,8 +66,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Thinking Tag Process Flow**
+> *Follow the flow from input to final output, noting the thinking space.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[<thinking>]
+>   B --> C[Internal Reasoning]
+>   C --> D[</thinking>]
+>   D --> E[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Types Comparison**
+> *Compare genuine reasoning with post-hoc rationalization and reflective vs reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[<thinking>]
+>   B{Genuine Reasoning}
+>   C{Post-Hoc Rationalization}
+>   D{Reflective Thinking}
+>   E{Reactive Thinking}
+>   A -->|Internal Steps| B
+>   A -->|Generated Content| C
+>   A -->|Self-Critical Examination| D
+>   A -->|Immediate Process| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Norms Hierarchy**
+> *Understand the hierarchy of norms guiding model behavior with thinking tags.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Behavior]
+>   B{Thinking Space}
+>   C{Output Space}
+>   D{Self-Contradictory Statements Allowed}
+>   E{Consistency Required}
+>   F{Training Norms}
+>   G{Final Output Standards}
+>   A -->|Guided by| F
+>   F -->|In Thinking Space| B
+>   F -->|For Final Output| C
+>   B --> D
+>   C --> E
+> ```
 
 ## Core Explanation
 

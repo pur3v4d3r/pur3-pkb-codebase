@@ -71,8 +71,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hybrid Retrieval Process Flow**
+> *Follow the query through dense and sparse retrieval systems.*
+>
+> ```mermaid
+> flowchart LR
+>   Query --> Dense["Dense Embedding"]
+>   Query --> Sparse["Sparse Term-Matching"]
+>   Dense --> RankFusion["Rank Fusion"]
+>   Sparse --> RankFusion
+>   RankFusion --> FinalResults["Final Document Set"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hybrid Retrieval Techniques Comparison**
+> *Compare dense and sparse retrieval methods' strengths.*
+>
+> ```mermaid
+> graph TD
+>   Dense["Dense Embedding"] -->|Strengths| SemanticUnderstanding["Semantic Understanding"]
+>   Sparse["Sparse Term-Matching"] -->|Strengths| LexicalPrecision["Lexical Precision"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reciprocal Rank Fusion (RRF) Mechanism**
+> *Understand how RRF combines dense and sparse retrieval scores.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant DenseRanking as DR
+>   participant SparseRanking as SR
+>   participant FinalRanking as FR
+>   Q->>DR: Retrieve Documents
+>   Q->>SR: Retrieve Documents
+>   DR-->>FR: Provide Scores
+>   SR-->>FR: Provide Scores
+>   FR->>Q: Rank Fusion Output
+> ```
 
 ## Core Explanation
 
