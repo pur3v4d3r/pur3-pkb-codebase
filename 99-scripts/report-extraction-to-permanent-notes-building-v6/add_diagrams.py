@@ -629,7 +629,17 @@ def _fix_mermaid_content(content: str) -> str:
        node are removed.  Fix 1 already joined arrows whose target was merely
        on the next line; any surviving bare-tail lines are orphaned and cause
        Mermaid parse errors.
-    6. **One-liner re-split** — when the entire diagram is collapsed onto one
+    6. **Pipe-in-brackets quoting** — ``A[text|value]`` → ``A["text|value"]``
+       (unquoted ``|`` inside ``[]`` is ambiguous — the Mermaid parser may
+       read it as an edge-label delimiter rather than literal text).
+    7. **classDiagram edge-label strip** — ``-->|label|`` is flowchart syntax
+       and is invalid inside ``classDiagram`` blocks.  The ``|...|`` wrapper is
+       removed; any trailing ``: note`` label on the same line is kept intact.
+    8. **Arrow+style hybrid removal** — ``B -->|F| style C fill:#f96`` —
+       the LLM placed a ``style`` directive where the arrow target should be.
+       Mermaid’s parser sees ``style`` as a node ID and fails.  The intended
+       target cannot be recovered so the whole line is dropped.
+    9. **One-liner re-split** — when the entire diagram is collapsed onto one
        line the diagram-type header and node boundaries are split out.
 
     Args:
@@ -680,12 +690,49 @@ def _fix_mermaid_content(content: str) -> str:
         flags=re.MULTILINE,
     )
 
+    # ── Fix 6: [label|with|pipes] → ["label|with|pipes"] ────────────────────
+    # e.g.  D[JudgeSimultaneous|C]  →  D["JudgeSimultaneous|C"]
+    # An unquoted '|' inside '[]' is ambiguous to Mermaid's parser, which also
+    # uses '|...|' as edge-label delimiters.  Quote the whole label if it
+    # contains a pipe and is not already double-quoted.
+    content = re.sub(
+        r"\[([^\]\"\[]*\|[^\]\"\[]*)\]",
+        r'["\1"]',
+        content,
+    )
+
+    # ── Fix 7: classDiagram — strip flowchart edge-label syntax ───────────────
+    # In classDiagram, '-->' already expresses direction; edge labels are written
+    # as ": note" at the end of the line.  The flowchart form  -->|label|  is a
+    # lexical error.  Strip the |...| wrapper; preserve any trailing ": note".
+    # e.g.  "A -->|Similarity| B : Both Dense"  →  "A --> B : Both Dense"
+    #        "A -->|Contrast| B"               →  "A --> B"
+    if re.search(r"^\s*classDiagram", content, re.MULTILINE):
+        content = re.sub(
+            r"((?:--|\.\.)[>\-xo*+]+)\|[^|\n]+\|",
+            r"\1",
+            content,
+            flags=re.MULTILINE,
+        )
+
+    # ── Fix 8: remove arrow+style hybrid lines ────────────────────────────────
+    # The LLM occasionally places a ``style`` directive where the arrow target
+    # should be, e.g.  "B -->|F| style C fill:#f96,..."
+    # Mermaid treats "style" as a node ID and fails on "C fill:...".  The
+    # intended target cannot be recovered, so the whole line is dropped.
+    content = re.sub(
+        r"^[ \t]*[^\n]*?(?:--[>\-xo]+|\.\.>)(?:\|[^|\n]*\|)?\s+style\b[^\n]*\n?",
+        "",
+        content,
+        flags=re.MULTILINE,
+    )
+
     # ── Early-return for well-formed multi-line content ───────────────────────
-    # Fix 6 only makes sense for degenerate one-liner LLM output.
+    # Fix 9 only makes sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
 
-    # ── Fix 6: split one-liner — diagram-type header from first node ──────────
+    # ── Fix 9: split one-liner — diagram-type header from first node ──────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",

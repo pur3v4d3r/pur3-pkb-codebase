@@ -121,7 +121,7 @@ provenance:
 >     -No Surface
 >     -No Electromagnetic Emissions from Inside
 >   }
->   NeutronStar -->|Similarity| BlackHole : Both Extremely Dense
+>   NeutronStar --> BlackHole : Both Extremely Dense
 >   NeutronStar ..> BlackHole : Key Distinction
 > ```
 
