@@ -64,8 +64,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Solar Wind Components Overview**
+> *Identify the origins of slow and fast solar wind components.*
+>
+> ```mermaid
+> graph TD
+>   A[Slow Wind]
+>   B[Fast Wind]
+>   C[Coronal Holes]
+>   D[Magnetic Fields]
+>   E[Sun's Corona]
+>   F[Planetary Magnetospheres]
+>   A -->|Origins from partially open/closed fields| E
+>   B -->|Origins from coronal holes| C
+>   C --> B
+>   D --> A
+>   D --> B
+>   A --> F
+>   B --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Solar Wind Interaction with Magnetospheres**
+> *Trace the path of solar wind particles from the Sun to planetary magnetospheres.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sun]
+>   B[Corona]
+>   C[Solar Wind]
+>   D[Interplanetary Space]
+>   E[Magnetosphere]
+>   F[Planets]
+>   A --> B
+>   B -->|Emanates from Corona| C
+>   C --> D
+>   D -->|Influences Magnetospheres| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Solar Wind Speeds and Origins**
+> *Compare the origins and speeds of slow and fast solar wind.*
+>
+> ```mermaid
+> graph TD
+>   A[Slow Wind]
+>   B[Fast Wind]
+>   C[Speed: 400 km/s]
+>   D[Speed: 800 km/s]
+>   E[Coronal Holes]
+>   F[Magnetic Fields]
+>   A -->|Origins from Magnetic Fields| F
+>   B -->|Origins from Coronal Holes| E
+>   C --> A
+>   D --> B
+> ```
 
 # Solar Wind
 

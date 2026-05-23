@@ -70,8 +70,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Binary Star System Overview**
+> *Identify the components and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Star1] -->|Gravitational Interaction| B(Orbit)
+>   C[Star2] -->|Gravitational Interaction| B
+>   D[Common Center of Mass]
+>   B --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Mass Transfer in Close Binaries**
+> *Trace the path of mass transfer between stars.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star1] -->|Roche Lobe Overflow| B(Transfer)
+>   C[Star2]
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Binary Star Evolutionary Paths**
+> *Compare the evolutionary paths of close and wide binaries.*
+>
+> ```mermaid
+> graph TD
+>   A[Close Binary] -->|Mass Transfer| B[Altered Evolution]
+>   C[Wide Visual Binary] -->|Minimal Interaction| D[Individual Evolution]
+> ```
 
 # Binary Star System
 

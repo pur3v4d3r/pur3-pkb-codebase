@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chandra's Key Observations**
+> *Identify the main celestial objects Chandra studies.*
+>
+> ```mermaid
+> graph TD
+>   A[Supernova Remnants] --> B(Accretion Disks)
+>   B --> C(Active Galactic Nuclei)
+>   C --> D(Galaxy Clusters)
+> ```
+
+
+> [!abstract] **Diagram 2 — X-ray Imaging vs Visible Light**
+> *Compare Chandra's X-ray imaging with Hubble's visible light.*
+>
+> ```mermaid
+> classDiagram
+>   class Chandra{
+>     +0.1-10 keV Energy Range
+>     +High Resolution X-ray Imaging
+>   }
+>   class Hubble{
+>     +Visible Light Imaging
+>     +Optical Emissions from Stars and Galaxies
+>   }
+> ```
+
+
+> [!abstract] **Diagram 3 — Dark Matter Evidence**
+> *Trace the evidence for dark matter through Chandra's observations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Chandra Observations] --> B[Spatial Separation]
+>   B --> C[Evidence of Dark Matter]
+> ```
 
 # Chandra X Ray Observatory
 

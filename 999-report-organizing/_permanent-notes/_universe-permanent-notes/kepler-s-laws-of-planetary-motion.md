@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Kepler's First Law Overview**
+> *Identify the Sun and planet positions on an elliptical orbit.*
+>
+> ```mermaid
+> graph TD
+>   A[Sun] --> B[Ellipse]
+>   C[Planet] -->|Orbit| D[Foci]
+>   E[Focus1] --> F[Focus2]
+> ```
+
+
+> [!abstract] **Diagram 2 — Kepler's Second Law Diagram**
+> *Observe the areas swept by the line connecting planet and Sun.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Planet] --> B[Sun]
+>   C[A1] -->|Area| D[T1]
+>   E[A2] -->|Area| F[T2]
+> ```
+
+
+> [!abstract] **Diagram 3 — Kepler's Third Law Relationship**
+> *Notice the proportional relationship between period and semi-major axis.*
+>
+> ```mermaid
+> graph TD
+>   A[Period^2] --> B[Ratio]
+>   C[Axes^3] -->|Proportional To| D[Constant]
+> ```
 
 # Kepler's Laws Of Planetary Motion
 

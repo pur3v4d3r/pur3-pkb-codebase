@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cyclic Universe Model Overview**
+> *Follow the cycle from Big Bang to Big Bounce.*
+>
+> ```mermaid
+> graph TD
+>   A[Big Bang]
+>   A -->|Expansion Phase| B[Expansion]
+>   B -->|Contraction Phase| C[Contraction]
+>   C -->|Big Bounce| D[New Expansion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Non-Cyclical Models**
+> *Compare the cyclic model with steady-state and Big Bang theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Steady-State]
+>   B[Big Bang]
+>   C[Cyclic Universe]
+>   A -->|Static Universe| "No cycles"
+>   B -->|One-time creation| Continuous expansion
+>   C -->|Endless cycles| Big Bang-like events
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Primordial Gravitational Waves**
+> *Observe the absence or low levels in cyclic models.*
+>
+> ```mermaid
+> graph TD
+>   A[Inflationary Models]
+>   B[Cyclic Universe Model]
+>   A -->|Predicts high levels| "Gravitational waves"
+>   B -->|Predicts low levels| "Primordial waves"
+> ```
 
 # Cyclic Universe Model
 

@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hubble Deep Field Observations Timeline**
+> *Follow the progression of Hubble Deep Field observations over time.*
+>
+> ```mermaid
+> graph TD
+>   A[1995 - HDF]
+>   B[1998 - HDF South]
+>   C[2004 - HUDF]
+>   D[2012 - XDF]
+>   A -->|Next Deep Field| B
+>   B -->|Deeper Observations| C
+>   C -->|Even Deeper| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Galaxy Evolution Through Hubble Deep Fields**
+> *Trace the evolution of galaxies from early chaotic structures to mature forms.*
+>
+> ```mermaid
+> graph TD
+>   A[Chaotic Early Galaxies]
+>   B[Mature Spiral Galaxies]
+>   C[Elliptical Galaxies]
+>   A -->|Galactic Mergers and Evolution| B
+>   B -->|Further Evolution| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Instrument Sensitivity Comparison**
+> *Compare the sensitivity of Hubble Deep Field observations with James Webb Space Telescope.*
+>
+> ```mermaid
+> graph TD
+>   A[Hubble Deep Field]
+>   B[James Webb Space Telescope]
+>   A -->|Limited to Faint Objects Near Detection Limit| C[Faintest Galaxies Detected]
+>   B -->|Enhanced Sensitivity| D[Even Fainter Galaxies]
+> ```
 
 # Hubble Deep Field
 

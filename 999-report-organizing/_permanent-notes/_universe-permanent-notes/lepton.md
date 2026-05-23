@@ -70,8 +70,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Lepton Generations Overview**
+> *Identify the three generations of leptons and their associated neutrinos.*
+>
+> ```mermaid
+> graph TD
+>   A[Generation I]
+>   B[Generation II]
+>   C[Generation III]
+>   A --> D[Electron]
+>   A --> E[Neutrino (e)]
+>   B --> F[Muon]
+>   B --> G[Neutrino (μ)]
+>   C --> H[Tau]
+>   C --> I[Neutrino (τ)]
+> ```
+
+
+> [!abstract] **Diagram 2 — Lepton Interaction Forces**
+> *Understand which fundamental forces leptons interact with.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gravitational]
+>   B[Electromagnetic]
+>   C[Weak Nuclear]
+>   D[Strong Nuclear] -->|Excluded| E[Quarks]
+>   F[Leptons] -->|Interacts With| A
+>   F -->|Interacts With| B
+>   F -->|Interacts With| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Neutrino Oscillation Process**
+> *Trace the process of neutrinos oscillating between flavors.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Neutrino as N
+>   participant Electron as E
+>   participant Muon as M
+>   participant Tau as T
+>   N->>N: Propagates
+>   N->>E: Oscillates to Electron Flavor
+>   N->>M: Oscillates to Muon Flavor
+>   N->>T: Oscillates to Tau Flavor
+> ```
 
 # Lepton
 

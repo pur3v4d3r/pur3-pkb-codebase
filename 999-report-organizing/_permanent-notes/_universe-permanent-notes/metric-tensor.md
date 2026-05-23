@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metric Tensor Definition**
+> *Follow the flow to understand how ds² is defined using g_μν and dx^μ.*
+>
+> ```mermaid
+> flowchart LR
+>   A[ds²] --> B[g_μν]
+>   C[dx^μ] --> D[dx^ν]
+>   B --> E[(g_μν * dx^μ) * dx^ν]
+>   E --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Metric Tensor vs Derived Quantities**
+> *Identify the relationship between Metric Tensor and other tensors like Christoffel symbols and Riemann curvature tensor.*
+>
+> ```mermaid
+> graph TD
+>   A[Metric Tensor g_μν]
+>   B[Christoffel Symbols Γ^λ_μν]
+>   C[Riemann Curvature Tensor R^ρ_σμν]
+>   A -->|defines geometry| B
+>   A -->|quantifies curvature| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Causal Structure Indicators**
+> *Observe how the Metric Tensor distinguishes between timelike, spacelike, and null intervals.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Timelike
+>   [*] --> Spacelike
+>   [*] --> Null
+>   Timelike : ds² < 0
+>   Spacelike : ds² > 0
+>   Null : ds² = 0
+> ```
 
 # Metric Tensor
 

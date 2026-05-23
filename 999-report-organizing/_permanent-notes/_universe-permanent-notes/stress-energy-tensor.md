@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SET Components Overview**
+> *Identify the components representing energy and momentum.*
+>
+> ```mermaid
+> graph TD
+>   A[Energy Density]
+>   B[Momentum Flux]
+>   C[Stress]
+>   A -->|T⁰⁰| D[SET]
+>   B -->|T⁰i/Tⁱ⁰| D
+>   C -->|Tⁱʲ| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Energy-Momentum Conservation Mechanism**
+> *Follow the flow to understand how conservation is ensured.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stress Energy Tensor]
+>   B[Covariant Divergence]
+>   C[Vanishes]
+>   A -->|∇_μ T^μν| B
+>   B -->|=0| C
+> ```
+
+
+> [!abstract] **Diagram 3 — SET in Einstein Equations**
+> *Trace the relationship between SET and spacetime curvature.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant SET as T_μν
+>   participant RicciTensor as R_μν
+>   participant ScalarCurvature as R
+>   SET->>RicciTensor: Encodes Energy-Momentum
+>   RicciTensor-->>ScalarCurvature: Curvature Information
+>   ScalarCurvature-->>SET: Influences Spacetime Geometry
+> ```
 
 # Stress Energy Tensor
 

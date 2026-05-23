@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Local Group Composition**
+> *Identify the major galaxies and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Galactic Association]
+>   B[Milky Way] -->|Dominant|
+>   C[Andromeda (M31)] -->|Dominant| D[Triangulum (M33)]
+>   E[Dwarf Galaxies] -->|Satellite| F[Hundreds of Dwarf Galaxies]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Hierarchical Formation Model**
+> *Trace the formation process from small to large galaxies.*
+>
+> ```mermaid
+> graph TD
+>   A[Dwarf Galaxies] -->|Merge| B[Intermediate Systems]
+>   B -->|Merge| C[Larger Galaxies]
+>   C -->|Dominant Influence| D[Local Group]
+> ```
+
+
+> [!abstract] **Diagram 3 — Galactic Dynamics and Interactions**
+> *Observe the gravitational influences within the Local Group.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Milky Way] -->|Gravitational Influence| B[Andromeda (M31)]
+>   C[Triangulum (M33)] -->|Influence| D[Dwarf Galaxies]
+>   E[Hundreds of Dwarf Galaxies]
+> ```
 
 # Local Group
 

@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tensor Transformation Rules**
+> *Follow the arrows to see how tensors transform under coordinate changes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Coordinate System] --> B[Tensor]
+>   B --> C[Transformation Rule]
+>   C --> D[Covariant Tensor]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tensor Calculus Applications**
+> *Identify the applications of tensor calculus in different physical theories.*
+>
+> ```mermaid
+> graph TD
+>   A[General Relativity] --> B[Tensor]
+>   C[Gauge Field Theories] --> D[Tensor]
+>   E[Electromagnetism] --> F[Tensor]
+>   G[Weak Nuclear Force] --> H[Tensor]
+>   I[Strong Nuclear Force] --> J[Tensor]
+> ```
 
 # Tensor Calculus
 

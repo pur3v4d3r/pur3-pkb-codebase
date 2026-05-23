@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Entropy Increase Over Time**
+> *Follow the arrow to see entropy increase from low to high states.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Entropy State] --> B[High Entropy State]
+>   A -->|Initial Condition| C[Time Arrow]
+>   B -->|Macroscopic Irreversibility| D[Future States]
+> ```
+
+
+> [!abstract] **Diagram 2 — Microscopic vs Macroscopic Behavior**
+> *Compare the time-symmetric microscopic laws with macroscopic irreversibility.*
+>
+> ```mermaid
+> graph TD
+>   A[Microscopic Laws] -->|Time-Symmetric| B[Reversible]
+>   C[Macroscopic Systems] -->|Irreversible| D[Irreversibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Process Flow Of Time Arrow**
+> *Trace the flow from initial low entropy to high entropy states.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Low Entropy] --> B[Entropy Increase]
+>   B --> C[High Entropy State]
+>   C --> D[Irreversible Processes]
+> ```
 
 # Arrow Of Time
 

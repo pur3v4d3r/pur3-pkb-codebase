@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Quintessence vs Cosmological Constant**
+> *Compare the dynamic nature of quintessence with the static cosmological constant.*
+>
+> ```mermaid
+> graph TD
+>   A[Quintessence]
+>   B[Cosmological Constant]
+>   A -->|Dynamic w(z)| C[Evolutionary Scalar Field]
+>   B -->|Static w = -1| D[Cosmological Constant Λ]
+> ```
+
+
+> [!abstract] **Diagram 2 — Quintessence Process Flow**
+> *Follow the flow from scalar field evolution to cosmic acceleration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Scalar Field Evolution]
+>   B[Evolving w(z)]
+>   C[Cosmic Acceleration]
+>   D[Observational Tests]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Understand the interplay between theoretical modeling and observational validation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TheoreticalModel as TM
+>   participant ObservationalData as OD
+>   TM->>OD: Predicts Cosmic Dynamics
+>   OD-->>TM: Constraints from Surveys
+> ```
 
 # Quintessence
 

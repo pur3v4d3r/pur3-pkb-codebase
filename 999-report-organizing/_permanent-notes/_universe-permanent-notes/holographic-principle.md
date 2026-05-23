@@ -66,8 +66,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Holographic Principle Overview**
+> *Follow the flow from volume to surface information encoding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Volume Information] --> B[Surface Area]
+>   B --> C[Encoded Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — AdS/CFT Correspondence**
+> *Trace the mapping from bulk to boundary in AdS/CFT.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Bulk (d+1)-dim Spacetime] --> B[Boundary d-dim CFT]
+>   B --> C[Operators and Correlation Functions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Black Hole Entropy**
+> *Observe the relationship between black hole entropy and surface area.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Black Hole Volume] --> B[Surface Area]
+>   B --> C[Entropy Proportional to Surface]
+> ```
 
 # Holographic Principle
 

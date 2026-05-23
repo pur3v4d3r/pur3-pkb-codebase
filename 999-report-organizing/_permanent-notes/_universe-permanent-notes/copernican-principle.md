@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Copernican Principle vs. Anthropic Reasoning**
+> *Compare the assumptions of Copernican and anthropic principles.*
+>
+> ```mermaid
+> graph TD
+>   A[No observer's location is special]
+>   B[Conditions for life must be considered]
+>   A -->|Copernican Principle|
+>   B -->|Anthropic Reasoning|
+> ```
+
+
+> [!abstract] **Diagram 2 — Cosmological Assumptions Hierarchy**
+> *Understand the relationship between Copernican and cosmological principles.*
+>
+> ```mermaid
+> graph TD
+>   A[Homogeneity]
+>   B[Isotropy]
+>   C[Copernican Principle]
+>   D[Cosmological Principle]
+>   C -->|Underpins|
+>   C -->|Assumes| A
+>   B
+>   D
+> ```
+
+
+> [!abstract] **Diagram 3 — Observational Astronomy Workflow**
+> *Follow the process of using Copernican Principle in observational astronomy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Earth-based Observations]
+>   B[Redshift Measurements]
+>   C[Distant Galaxies Properties]
+>   D[Models of Expanding Universe]
+>   A -->|Assume no unique vantage point| B
+>   B -->|Estimate distances and velocities| C
+>   C -->|Contribute to models| D
+> ```
 
 # Copernican Principle
 

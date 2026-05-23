@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Physical Constants for Life**
+> *Identify constants crucial for life formation.*
+>
+> ```mermaid
+> graph TD
+>   A[Gravitational Constant] --> B[Cosmological Constant]
+>   C[Electromagnetic Force] --> D[Nuclear Force]
+>   E[Planck's Constant] --> F[Boltzmann Constant]
+> ```
+
+
+> [!abstract] **Diagram 2 — Implications of Fine Tuning**
+> *Understand the consequences of slight deviations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star Formation] --> B[Galaxy Formation]
+>   C[Life Support] --> D[Chemistry Stability]
+>   E[Cosmic Expansion] --> F[Structure Prevention]
+> ```
+
+
+> [!abstract] **Diagram 3 — Theoretical Explanations**
+> *Explore different theories explaining fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Multiverse Theory] --> B[Design Hypothesis]
+>   C[Naturalistic Explanation] --> D[Anthropic Principle]
+> ```
 
 # Fine Tuned Universe
 

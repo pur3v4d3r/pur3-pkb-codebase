@@ -65,8 +65,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Vacuum Energy vs Dark Energy**
+> *Compare Vacuum Energy with other forms of dark energy.*
+>
+> ```mermaid
+> graph TD
+>   A[Dark Energy]
+>   B[Vacuum Energy]
+>   C[Quintessence]
+>   D[Other Forms]
+>   A -->|includes| B
+>   A -->|excludes| C
+>   A -->|excludes| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Vacuum Energy Components**
+> *Identify the components contributing to Vacuum Energy.*
+>
+> ```mermaid
+> graph TD
+>   A[Quantum Fluctuations]
+>   B[Planck Scale Cutoff]
+>   C[Vacuum Energy Density]
+>   A -->|contributes to| C
+>   B -->|regulates| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Cosmic Acceleration Mechanism**
+> *Understand how Vacuum Energy leads to cosmic acceleration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gravitational Attraction]
+>   B[Vacuum Energy as Dark Energy]
+>   C[Cosmic Expansion]
+>   D[Accelerating Expansion]
+>   A -->|without VE| C
+>   B -->|with VE| D
+> ```
 
 # Vacuum Energy
 

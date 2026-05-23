@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Boson vs Fermion Spin Comparison**
+> *Compare the spin quantum numbers of bosons and fermions.*
+>
+> ```mermaid
+> graph TD
+>   A[Integer Spin]
+>   B[Half-Integer Spin]
+>   A -->|Bosons| C[Bose-Einstein Stats]
+>   B -->|Fermions| D[Fermi-Dirac Stats]
+> ```
+
+
+> [!abstract] **Diagram 2 — Boson State Occupancy Process**
+> *Follow the process of bosons occupying quantum states.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Unoccupied Quantum States]
+>   B[Bosons Enter]
+>   C[Occupied Quantum States]
+>   D[More Bosons Join]
+>   E[All in Same State]
+>   A -->|Bosons|
+>   B -->|No Restriction|
+>   C -->|Further Occupation|
+>   D -->|Same State| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Superfluid Helium Process Flow**
+> *Trace the process of superfluid helium formation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Temperature
+>   participant B as Helium Atoms
+>   participant C as Quantum State
+>   A ->> B: Cool Below 2.17K
+>   B -->> C: Bosons Occupy Same State
+>   C -->> B: Superfluidity Achieved
+> ```
 
 # Boson
 

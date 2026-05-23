@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Lorentz Factor γ Calculation**
+> *Follow the formula to understand how γ is calculated.*
+>
+> ```mermaid
+> graph TD
+>   A[Speed of Light c]
+>   B[Relative Velocity v]
+>   C[(1 - (v^2/c^2))]
+>   D[sqrt(C)]
+>   E[γ = 1 / D]
+> ```
+
+
+> [!abstract] **Diagram 2 — Length Contraction Process Flow**
+> *Trace the steps from relative motion to observed contraction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Relative Motion]
+>   B[Lorentz Transformations]
+>   C[γ Factor Calculation]
+>   D[Observed Length Contraction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Length Contraction vs Visual Distortions**
+> *Compare the real contraction with visual distortions.*
+>
+> ```mermaid
+> graph TD
+>   A[Real Contraction]
+>   B[γ Factor]
+>   C[Observed Shorter Length]
+>   D[Visual Distortion]
+>   E[Lorentz Rotation]
+>   F[Apparent Shape Change]
+> ```
 
 # Length Contraction
 

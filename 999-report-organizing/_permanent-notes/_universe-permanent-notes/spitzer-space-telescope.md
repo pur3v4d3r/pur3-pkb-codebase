@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spitzer's Infrared Channels Timeline**
+> *Follow the timeline to see channel usage changes.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Cryogenic
+>   Cryogenic --> Warm-Mission : 2009 (Coolant Depletion)
+>   Cryogenic : All channels active
+>   Warm-Mission : Channels 3.6 & 4.5 active
+> ```
+
+
+> [!abstract] **Diagram 2 — Spitzer's Scientific Contributions**
+> *Identify key areas of Spitzer’s scientific impact.*
+>
+> ```mermaid
+> graph TD
+>   A[Exoplanet Atmospheres] --> B[Thermal Emissions]
+>   A --> C[Ambient Composition]
+>   D[Distant Galaxies] --> E[High-Redshift Observations]
+>   D --> F[Galaxy Evolution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Spitzer's Operational Phases**
+> *Track Spitzer’s operational phases and their durations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Cryogenic as C
+>   participant Warm-Mission as W
+>   C->>C: Full Capacity (2003-2009)
+>   C-->>W: Coolant Depletion
+>   W->>W: Limited Channels (2009-2020)
+> ```
 
 # Spitzer Space Telescope
 

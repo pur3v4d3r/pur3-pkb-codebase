@@ -622,11 +622,11 @@ def _fix_mermaid_content(content: str) -> str:
        ``participant X as Label`` (sequence-diagram syntax error).
     3. **Single-quoted labels** — ``B['text']`` → ``B["text"]``
        (Mermaid only accepts double-quoted strings).
-    4. **One-liner re-split** — when the entire diagram is collapsed onto one
-       line the diagram-type header and node boundaries are split out.
-    5. **Paren-in-brackets quoting** — ``A[Node (detail)]`` →
+    4. **Paren-in-brackets quoting** — ``A[Node (detail)]`` →
        ``A["Node (detail)"]`` (parentheses inside ``[]`` break Mermaid's
-       shape parser).
+       shape parser; applies to ALL content, not just one-liners).
+    5. **One-liner re-split** — when the entire diagram is collapsed onto one
+       line the diagram-type header and node boundaries are split out.
 
     Args:
         content: Raw mermaid content string (no fences, no callout ``> `` prefix).
@@ -652,12 +652,22 @@ def _fix_mermaid_content(content: str) -> str:
     # ── Fix 3: ['single-quoted labels'] → ["double-quoted labels"] ───────────
     content = re.sub(r"\['([^']+)'\]", r'["\1"]', content)
 
+    # ── Fix 4: [label with (parens)] → ["label with (parens)"] ──────────────
+    # e.g.  A[Scale Factor a(t)]  →  A["Scale Factor a(t)"]
+    # Mermaid treats '(' inside '[]' as a shape operator — must run on ALL
+    # content (multi-line and one-liner alike).
+    content = re.sub(
+        r"\[([^\]\"]*\([^)]*\)[^\]\"'.]*)\]",
+        r'["\1"]',
+        content,
+    )
+
     # ── Early-return for well-formed multi-line content ───────────────────────
-    # Fixes 4 & 5 only make sense for degenerate one-liner LLM output.
+    # Fix 5 only makes sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
 
-    # ── Fix 4: split one-liner — diagram-type header from first node ──────────
+    # ── Fix 5: split one-liner — diagram-type header from first node ──────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",
@@ -672,14 +682,6 @@ def _fix_mermaid_content(content: str) -> str:
         content,
     )
 
-    # ── Fix 5: quote square-bracket labels that contain parentheses ───────────
-    # e.g.  A[AI Player (Honest)]  →  A["AI Player (Honest)"]
-    # Mermaid treats '(' inside '[]' as a shape operator, breaking rendering.
-    content = re.sub(
-        r"\[([^\]\"]*\([^)]*\)[^\]\"']*)\]",
-        r'["\1"]',
-        content,
-    )
     return content
 
 
@@ -924,7 +926,12 @@ def diagram_all(
             diagram_section = build_diagram_section(
                 result.response, pass_n=pass_n, today=today,
             )
-            new_body = insert_diagram_section(note.body, diagram_section)
+            # Strip any pre-existing diagram section before inserting the new
+            # one — ensures re-diagram runs (pass ≥ 2) don't double-up blocks.
+            clean_body = re.sub(
+                r"## 📊 Visual Overview[\s\S]*?(?=\n# |\Z)", "", note.body,
+            )
+            new_body = insert_diagram_section(clean_body, diagram_section)
             new_fm = update_frontmatter(
                 note.frontmatter, pass_n=pass_n, model=model, today=today,
             )

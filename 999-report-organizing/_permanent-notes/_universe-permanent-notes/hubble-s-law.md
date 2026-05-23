@@ -64,8 +64,81 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hubble's Law Overview**
+> *Follow the relationship between velocity and distance.*
+>
+> ```mermaid
+> graph TD
+>   A[Velocity (v)] --> B[Distance (d)]
+>   C[H₀] --> A
+>   D[Galaxy Redshift]
+>   E[Distant Galaxies]
+>   F[Expansion of Space]
+>   G[Cosmic Parameters Estimation]
+>   H[Age and Size of Universe]
+>   I[Astronomical Observations]
+>   J[Mysterious Dark Energy]
+>   A --> D
+>   B --> E
+>   C --> F
+>   F --> G
+>   G --> H
+>   I --> D
+>   I --> E
+>   I --> F
+>   I --> G
+>   I --> H
+>   J --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Redshift Measurement Process**
+> *Trace the steps from observation to velocity calculation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant Galaxy as G
+>   participant Spectrograph as S
+>   participant Calculator as C
+>   O->>G: Observe Light Emission
+>   G-->>O: Redshifted Light
+>   O->>S: Analyze Wavelengths
+>   S-->>C: Observed Wavelength Data
+>   C->>O: Calculate Velocity
+> ```
+
+
+> [!abstract] **Diagram 3 — Hubble Constant Estimation Flow**
+> *See the steps to estimate H₀ from galaxy data.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Select Distant Galaxies]
+>   B[Measure Redshifts]
+>   C[Determine Distances]
+>   D[Collapse Data Points]
+>   E[Plot Velocity vs Distance]
+>   F[Calculate Slope H₀]
+>   G[Average Multiple Observations]
+>   H[Tune for Precision]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
 
 # Hubble's Law
 

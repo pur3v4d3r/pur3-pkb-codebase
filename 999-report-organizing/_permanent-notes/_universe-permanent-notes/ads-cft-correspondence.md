@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — AdS CFT Duality Overview**
+> *Follow the arrows to see how information flows from AdS_5 to Minkowski space.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AdS_5] --> B[Minkowski Space]
+>   B --> C[N=4 SYM Theory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Holographic Principle in AdS CFT**
+> *Observe how the boundary theory (C) encodes all information from the bulk space (A).*
+>
+> ```mermaid
+> graph TD
+>   A[AdS_5 Bulk] -->|Encodes Information| B[Bulk Dynamics]
+>   B --> C[Minkowski Boundary Theory]
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of AdS CFT**
+> *Trace the arrows to see how different fields utilize AdS CFT Correspondence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HeavyIonPhysics as H
+>   participant CondensedMatterPhysics as CM
+>   participant QuantumGravityTheory as QG
+>   H->QG: Studies Quark-Gluon Plasma Dynamics
+>   CM->QG: Investigates Strongly Coupled Systems
+> ```
 
 # AdS CFT Correspondence
 

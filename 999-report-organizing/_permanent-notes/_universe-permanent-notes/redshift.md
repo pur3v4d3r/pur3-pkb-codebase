@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Redshift Mechanisms Overview**
+> *Identify the three mechanisms causing redshift.*
+>
+> ```mermaid
+> graph TD
+>   A[Light Emission]
+>   B[Doppler Effect] -->|Relative Motion| C[Longer Wavelengths]
+>   D[Expansion of Space] -->|Stretches Light| C
+>   E[Gravitational Redshift] -->|Difference in Potential| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Redshift vs Blueshift Comparison**
+> *Compare redshift and blueshift based on source motion.*
+>
+> ```mermaid
+> graph TD
+>   A[Source Moving Away] --> B[Redshift]
+>   C[Source Approaching] --> D[Blueshift]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cosmic Distance and Redshift Relationship**
+> *Understand how redshift relates to cosmic distances.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Redshift Measurement] --> B[Cosmic Distance]
+>   C[Hubble's Law] -->|z = H0 * d| D[Distance Determination]
+> ```
 
 # Redshift
 

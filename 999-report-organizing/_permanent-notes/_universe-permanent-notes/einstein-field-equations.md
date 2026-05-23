@@ -66,8 +66,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Einstein Field Equations Overview**
+> *Follow the flow from mass-energy to spacetime curvature.*
+>
+> ```mermaid
+> graph TD
+>   A[Mass-Energy Distribution]
+>   B[Spacetime Curvature]
+>   C[Einstein Field Equations]
+>   A -->|T_μν| C
+>   C -->|G_μν + Λg_μν| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Einstein's Quest for Gravity**
+> *Trace Einstein's journey from relativity to the field equations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Special Relativity]
+>   B[Gravity Incompatibility]
+>   C[Einstein Field Equations]
+>   D[General Relativity]
+>   A -->|Incompatible with Gravity| B
+>   B -->|Formulate G_μν = T_μν + Λg_μν| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Field Equations Applications**
+> *Identify key applications derived from the field equations.*
+>
+> ```mermaid
+> graph TD
+>   A[Black Holes]
+>   B[Gravitational Waves]
+>   C[Cosmological Models]
+>   D[Einstein Field Equations]
+>   D -->|Schwarzschild Solution| A
+>   D -->|LIGO Detection| B
+>   D -->|FLRW Model| C
+> ```
 
 # Einstein Field Equations
 

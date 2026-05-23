@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multiverse Theoretical Frameworks**
+> *Identify the mechanisms generating multiple universes.*
+>
+> ```mermaid
+> graph TD
+>   A[Inflationary Multiverse]
+>   B[String Theory Landscape]
+>   C[Quantum Mechanics Branching]
+>   A -->|Eternal Inflation| D[Universes]
+>   B -->|Extra Dimensions| D
+>   C -->|Wavefunction Splitting| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Multiverse Hypothesis Implications**
+> *Understand the implications of multiverse theories.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Infinite Universes]
+>   B[Cosmological Fine-Tuning]
+>   C[Anthropic Principle]
+>   D[Philosophical Considerations]
+>   A -->|Varying Constants| B
+>   A -->|Existence Probability| C
+>   A -->|Uniqueness of Life| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Multiverse vs Singular Universe Models**
+> *Compare multiverse theories with singular universe models.*
+>
+> ```mermaid
+> graph TD
+>   A[Inflationary Multiverse]
+>   B[String Theory Landscape]
+>   C[Many-Worlds Interpretation]
+>   D[Singular Universe]
+>   E[Different Physical Laws]
+>   F[Single Set of Constants]
+>   G[Varying Outcomes]
+>   H[One Outcome]
+>   A -->|Eternal Inflation| E
+>   B -->|Extra Dimensions| E
+>   C -->|Wavefunction Splitting| G
+>   D -->|Unified Physics| F
+>   D -->|Single Reality| H
+> ```
 
 # Multiverse
 

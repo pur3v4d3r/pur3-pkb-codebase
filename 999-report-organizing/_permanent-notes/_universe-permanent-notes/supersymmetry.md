@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bosons vs Fermions Symmetry**
+> *Identify the symmetry between bosons and fermions.*
+>
+> ```mermaid
+> graph TD
+>   A["Boson\n(e.g., Photon)"] --> B["Fermion\n(e.g., Electron)"]
+>   C["Fermion\n(e.g., Quark)"] --> D["Boson\n(e.g., Gluon)"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Supersymmetry Research Approaches**
+> *Compare top-down and bottom-up approaches in SUSY research.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TopDown as "String Theory"
+>   participant BottomUp as "Experimental Data"
+>   TopDown->>BottomUp: Derives Predictions
+>   BottomUp-->>TopDown: Validates Theories
+> ```
+
+
+> [!abstract] **Diagram 3 — Supersymmetry Particle Partnerships**
+> *Trace the superpartner relationships for known particles.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Boson\n(e.g., Photon)"] --> B["Fermion\n(Photino)"]
+>   C["Fermion\n(e.g., Electron)"] --> D["Boson\n(Electronino)"]
+> ```
 
 # Supersymmetry
 

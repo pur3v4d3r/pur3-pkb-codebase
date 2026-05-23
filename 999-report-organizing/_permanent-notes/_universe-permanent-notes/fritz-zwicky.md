@@ -64,8 +64,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dark Matter Discovery Process**
+> *Follow the steps from observation to theory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation of Coma Cluster]
+>   B[Virial Theorem Application]
+>   C[Mass-to-Light Ratio Calculation]
+>   D[Discovery of Dark Matter]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Zwicky's Contributions Timeline**
+> *Track Zwicky's key discoveries and predictions over time.*
+>
+> ```mermaid
+> graph TD
+>   A[1933 - Dark Matter]
+>   B[1934 - Neutron Stars Prediction]
+>   C[Systematic Supernova Search]
+>   D[Galactic Dynamics Insights]
+>   A -->|Next Year| B
+>   B -->|Continued Work| C
+>   C -->|Further Research| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Dark Matter vs Visible Matter in Coma Cluster**
+> *Compare the mass contributions from visible and dark matter.*
+>
+> ```mermaid
+> graph TD
+>   A[Visible Stars]
+>   B[Dark Matter]
+>   C[Tot. Mass]
+>   A -->|Contributes to| C
+>   B -->|Dominates| C
+> ```
 
 # Fritz Zwicky
 

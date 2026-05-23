@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dark Matter's Gravitational Influence**
+> *Follow the arrows to see how dark matter affects cosmic structures.*
+>
+> ```mermaid
+> graph TD
+>   A[Galactic Rotation Curves] --> B[Gravitational Lensing]
+>   B --> C[CMB Power Spectrum]
+>   A --> D[Large-Scale Structure Formation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Lambda-CDM Model Overview**
+> *Trace the flow from Big Bang to current universe state.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Big Bang] --> B[Structure Formation]
+>   B --> C[Galaxy Clusters]
+>   C --> D[Current State]
+>   D --> E[Future Evolution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dark Matter vs Dark Energy**
+> *Compare the roles of dark matter and dark energy in cosmology.*
+>
+> ```mermaid
+> classDiagram
+>   class Dark_Matter{
+>     +Clusters
+>     +Attractive_Gravity
+>     -Electromagnetic_Inert
+>   }
+>   class Dark_Energy{
+>     +Smooth
+>     +Repulsive_Gravity
+>     -Cosmic_Expansion
+>   }
+> ```
 
 # Dark Matter
 

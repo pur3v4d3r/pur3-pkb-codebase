@@ -64,8 +64,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — IMBH Mass Range Comparison**
+> *Compare IMBH mass range with other black hole types.*
+>
+> ```mermaid
+> graph TD
+>   A[Stellar-Mass BH]
+>   B(IMBH)
+>   C[Supermassive BH]
+>   A -->|<10² Msun|-- B
+>   B -->|<10⁵ Msun|-- C
+> ```
+
+
+> [!abstract] **Diagram 2 — IMBH Formation Mechanisms**
+> *Identify potential formation pathways for IMBHs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Direct Collapse]
+>   B[Mergers in Clusters]
+>   C[Seed Supermassive BH]
+>   A -->|From Massive Gas Clouds|-- C
+>   B -->|In Dense Stellar Clusters|-- C
+> ```
+
+
+> [!abstract] **Diagram 3 — IMBH Detection Methods**
+> *Understand indirect methods used to detect IMBHs.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Stars as S
+>   participant Gas Clouds as G
+>   participant X-ray Emissions as X
+>   participant Gravitational Waves as GW
+>   S->>X: Dynamics of Surrounding Stars
+>   G->>X: Accretion Disk Activity
+>   GW->>GW: Binary Systems or Mergers
+> ```
 
 # Intermediate Mass Black Hole
 

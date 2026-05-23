@@ -63,8 +63,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spectroscopy Process Flow**
+> *Follow the light path from source to analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Light Source] --> B[Spectrometer]
+>   B --> C[Spectrum Analysis]
+>   C --> D[Data Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spectral Line Identification**
+> *Identify elements by matching spectral lines to known transitions.*
+>
+> ```mermaid
+> graph TD
+>   A[Hydrogen] --> B[Balmer Series]
+>   C[Helium] --> D[He I Lines]
+>   E[Sodium] --> F[Doublestroke Line]
+>   G[Iron] --> H[Fe II Lines]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temperature Classification via Spectral Lines**
+> *Observe line width and shape to estimate temperature.*
+>
+> ```mermaid
+> graph TD
+>   A[Temperature Estimation] --> B[Broad Lines]
+>   C[Narrow Lines] --> D[Sharp Lines]
+>   E[Hot Object] --> F[Cool Object]
+> ```
 
 # Spectroscopy
 

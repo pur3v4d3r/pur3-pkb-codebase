@@ -67,8 +67,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Blazar Jet Orientation**
+> *Follow the jet alignment relative to Earth's line of sight.*
+>
+> ```mermaid
+> graph TD
+>   A[AGN]
+>   B[Relativistic Jet]
+>   C[Earth]
+>   D[Doppler Boosted Emissions]
+>   A -->|Supermassive Black Hole| B
+>   B -->|Aligned with Earth| C
+>   C -->|Highly Doppler-Boosted| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Blazar vs Misaligned Radio Galaxy**
+> *Compare the jet orientation and observed emissions.*
+>
+> ```mermaid
+> graph TD
+>   A[AGN]
+>   B1[Relativistic Jet]
+>   C1[Doppler Boosted Emissions]
+>   D1[Blazar]
+>   A -->|Supermassive Black Hole| B1
+>   B1 -->|Aligned with Earth| C1
+>   C1 --> D1
+>   B2[Relativistic Jet]
+>   C2[Misaligned Emissions]
+>   D2[Misaligned Radio Galaxy]
+>   A -->|Supermassive Black Hole| B2
+>   B2 -->|Misaligned from Earth| C2
+>   C2 --> D2
+> ```
+
+
+> [!abstract] **Diagram 3 — Blazar Emission Mechanism**
+> *Trace the emission process from jet to observed flux.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Relativistic Jet]
+>   B[Doppler Boosting Effect]
+>   C[Intense and Variable Emissions]
+>   D[Non-Thermal Continuum Radiation]
+>   A -->|Highly Doppler-Boosted| B
+>   B -->|Intense Flux| C
+>   A -->|Non-Thermal Source| D
+> ```
 
 # Blazar
 

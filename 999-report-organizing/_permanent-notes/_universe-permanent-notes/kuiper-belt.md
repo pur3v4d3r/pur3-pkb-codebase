@@ -65,8 +65,74 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Kuiper Belt vs Oort Cloud Location**
+> *Compare the locations of Kuiper Belt and Oort Cloud.*
+>
+> ```mermaid
+> graph TD
+>   A[Oort Cloud]
+>   B[Kuiper Belt] --> C[Neptune's Orbit]
+>   D[50 AU]
+>   E[30 AU]
+>   F[Planetary Plane]
+>   G[Solar System Center]
+>   H[Astronomical Units]
+>   A -- Spherical Shell --> G
+>   B -- Disc-Shaped Region --> F
+>   C --> B
+>   D --> B
+>   E --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Kuiper Belt Object Populations**
+> *Identify the distinct populations within Kuiper Belt.*
+>
+> ```mermaid
+> graph TD
+>   A[Cold Classical]
+>   B[Hot Classical]
+>   C[Resonant Bodies]
+>   D[Scattered Disc Objects]
+>   E[Kuiper Belt]
+>   F[Stable Orbits]
+>   G[Dynamical Behaviors]
+>   H[Gravitational Interactions]
+>   A -->|F|-- E
+>   B -->|G|-- E
+>   C -->|H|-- E
+>   D -->|H|-- E
+> ```
+
+
+> [!abstract] **Diagram 3 — Kuiper Belt Composition**
+> *Understand the composition of Kuiper Belt objects.*
+>
+> ```mermaid
+> graph TD
+>   A[Icy Bodies]
+>   B[Volatile Rich]
+>   C[Methane]
+>   D[NH3 Ammonia]
+>   E[H2O Water Ice]
+>   F[Early Solar System Insights]
+>   G[Kuiper Belt Objects]
+>   H[Formation Period Remnants]
+>   A -->|B|-- G
+>   C -->|C|-- A
+>   D -->|D|-- A
+>   E -->|E|-- A
+>   F -->|F|-- H
+> ```
 
 # Kuiper Belt
 

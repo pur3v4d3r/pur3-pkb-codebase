@@ -65,8 +65,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cassini Mission Phases Overview**
+> *Follow the timeline from launch to Saturn arrival and mission end.*
+>
+> ```mermaid
+> graph TD
+>   A[Launch (1997)] --> B[Saturn Orbit Insertion (2004)]
+>   B --> C[Huygens Titan Landing (2005)]
+>   C --> D[Extended Missions]
+>   D --> E[Mission End (2017)]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cassini Huygens vs Voyager Comparison**
+> *Compare the objectives and technologies of Cassini and Voyager missions.*
+>
+> ```mermaid
+> graph TD
+>   A[Objective]
+>   B[Technology]
+>   C[Cassini Orbiter + Probe]
+>   D[Voyager Flyby Missions]
+>   A -->|Detailed Study| C
+>   A -->|Overview| D
+>   B -->|Advanced Instruments| C
+>   B -->|Basic Imaging| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Data Processing Workflow**
+> *Trace the flow from raw data to scientific insights.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Raw Data] --> B[Surface Processing]
+>   B --> C[Quick Analysis]
+>   A --> D[Deep Processing]
+>   D --> E[Detailed Modeling]
+> ```
 
 # Cassini Huygens Mission
 

@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — White Dwarf Formation Process**
+> *Follow the stages from star to white dwarf.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star Exhausts Fuel] --> B[Gravitational Collapse]
+>   B --> C[Electron Degeneracy Pressure]
+>   C --> D[Planetary Nebula Ejection]
+>   D --> E[White Dwarf Remnant]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cooling Sequence of White Dwarfs**
+> *Observe the cooling timeline from hot to cold.*
+>
+> ```mermaid
+> graph TD
+>   A[Hot] --> B[Warm]
+>   B --> C[Cool]
+>   C --> D[Cold]
+> ```
+
+
+> [!abstract] **Diagram 3 — White Dwarf Mass and Cooling Rate Relationship**
+> *Notice how mass affects cooling rate.*
+>
+> ```mermaid
+> graph TD
+>   A[Light White Dwarf] -->|Slow Cooling| B[Cooling]
+>   C[Heavy White Dwarf] -->|Fast Cooling| D[Cooling]
+> ```
 
 # White Dwarf
 

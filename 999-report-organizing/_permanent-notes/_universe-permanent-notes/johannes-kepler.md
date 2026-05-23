@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Kepler's Laws Overview**
+> *Follow the sequence of Kepler's laws from first to third.*
+>
+> ```mermaid
+> graph TD
+>   A[First Law: Elliptical Orbits]
+>   B[Second Law: Equal Areas]
+>   C[Third Law: Period-Distance Relation]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Planetary Motion Dynamics**
+> *Observe how the speed of a planet changes with its distance from the Sun.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Close to Sun] -->|Faster| B[Far from Sun]
+>   B -->|Slower| C[Close to Sun]
+> ```
+
+
+> [!abstract] **Diagram 3 — Kepler's Law Application**
+> *See how Kepler's laws are used in modern astronomy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Student as S
+>   participant Researcher as R
+>   E->>S: Teach elliptical orbits and speed variation
+>   R->>R: Model exoplanet orbits using period-distance relation
+> ```
 
 # Johannes Kepler
 

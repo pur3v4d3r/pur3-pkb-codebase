@@ -64,8 +64,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — JWST's Infrared Sensitivity Range**
+> *Identify the wavelength range from visible to mid-infrared.*
+>
+> ```mermaid
+> graph TD
+>   A[Visible Light]
+>   B(Infrared)
+>   C[Mid-Infrared]
+>   A -->|0.6 µm|-- B
+>   B -->|28 µm|-- C
+> ```
+
+
+> [!abstract] **Diagram 2 — JWST's Operational Location and Stability**
+> *Understand the Sun-Earth L2 Lagrange point stability.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Earth as E
+>   participant JWST as J
+>   participant Sun as S
+>   E->>S: Gravitational Balance Point
+>   J->>E: Continuous Observation
+>   J->>S: Thermal Management
+> ```
+
+
+> [!abstract] **Diagram 3 — JWST's Scientific Goals Overview**
+> *See the primary scientific objectives of JWST.*
+>
+> ```mermaid
+> graph TD
+>   A[Galaxy Formation]
+>   B[Exoplanet Atmospheres]
+>   C[Dark Ages Exploration]
+>   D[Stellar Populations]
+>   A -->|Early Universe|
+>   B -->|Habitable Conditions|
+>   C -->|Cosmic Dark Ages|
+>   D -->|Nearby Galaxies|
+> ```
 
 # James Webb Space Telescope
 

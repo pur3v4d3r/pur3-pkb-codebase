@@ -65,8 +65,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tidal Locking Process Overview**
+> *Follow the sequence from initial rotation to tidal locking.*
+>
+> ```mermaid
+> sequenceDiagram
+> participant Primary as P
+> participant Secondary as S
+> P->>S: Gravitational Attraction
+> S-->>P: Bulge Formation
+> loop Angular Momentum Redistribution
+> S->>S: Internal Friction
+> S-->>P: Torque Application
+> end
+> S->>S: Rotation Slows Down
+> S-->>P: Orbital Period Matches
+> ```
+
+
+> [!abstract] **Diagram 2 — Tidal Locking Factors Influence Diagram**
+> *Identify the factors affecting tidal locking and their relationships.*
+>
+> ```mermaid
+> graph TD
+> A[Internal Dissipation Rates] --> B[Torque]
+> B --> C[Rotation Rate]
+> C --> D[Orbital Period]
+> E[Distance Between Bodies] --> F[Bulge Formation]
+> F --> G[Angular Momentum Redistribution]
+> G --> H[Rotation Rate]
+> H --> I[Orbital Period]
+> J[Relative Masses] --> K[Torque]
+> K --> L[Rotation Rate]
+> L --> M[Orbital Period]
+> ```
+
+
+> [!abstract] **Diagram 3 — Tidal Locking vs Perpetual Day Side Comparison**
+> *Compare tidal locking with the misconception of perpetual day and night sides.*
+>
+> ```mermaid
+> graph TD
+> A[Perpetual Day Side] --> B[Temperature Extremes]
+> B --> C[Extreme Contrast]
+> D[Tidal Locking] --> E[Bulge Alignment]
+> E --> F[One Face Towards Primary]
+> F --> G[Atmospheric Circulation]
+> G --> H[Mitigated Temperature Contrast]
+> ```
 
 # Tidal Locking
 

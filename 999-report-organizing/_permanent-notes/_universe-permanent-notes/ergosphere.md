@@ -67,8 +67,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Ergosphere Region Overview**
+> *Identify the Ergosphere, Event Horizon, and Static Limit boundaries.*
+>
+> ```mermaid
+> graph TD
+>   A[Outside]
+>   B[Static Limit] --> C[Ergosphere]
+>   D[Event Horizon] --> E[Singularity]
+>   A --> B
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Frame-Dragging Forces in Ergosphere**
+> *Observe the direction of frame-dragging forces and particle movement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Outside] --> B[Ergosphere]
+>   B --> C[Event Horizon]
+>   D[Singularity]
+>   subgraph Frame-Dragging
+>     E[Co-Rotation] --> F[Inevitable Co-Rotation]
+>   end
+>   G[Particle Entry] -->|Frame-Dragging| H[Co-Rotational Path]
+>   I[Against Rotation] -->|Opposing Forces| J[Challenging Path]
+> ```
+
+
+> [!abstract] **Diagram 3 — Penrose Process Energy Extraction**
+> *Trace the energy extraction process from particles entering the Ergosphere.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Particle as P
+>   participant Black_Hole as BH
+>   participant Escape_Particle as EP
+>   participant Negative_Energy as NE
+>   P->>BH: Enters Ergosphere
+>   note over P, BH: Frame-Dragging Forces Apply
+>   P->>BH: Splits into Two Parts
+>   EP-->>P: Escapes with More Energy
+>   NE-->>P: Falls Inward with Negative Energy
+> ```
 
 # Ergosphere
 

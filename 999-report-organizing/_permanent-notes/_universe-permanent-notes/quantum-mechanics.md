@@ -67,8 +67,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Quantum Mechanics Core Concepts**
+> *Follow the flow from state vector to observable properties.*
+>
+> ```mermaid
+> graph TD
+>   A[State Vector]
+>   B[Observable Properties]
+>   C[Schrödinger Equation]
+>   D[Superposition & Entanglement]
+>   A -->|Describes State| B
+>   A -->|Time Evolution| C
+>   B -->|Predicts Phenomena| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Quantum Mechanics Applications**
+> *Trace the applications from atomic to particle physics.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomic Physics]
+>   B[Condensed Matter Physics]
+>   C[Particle Physics]
+>   D[Spectral Lines & Orbitals]
+>   E[Superconductivity & Semiconductors]
+>   F[Subatomic Particles & Interactions]
+>   A -->|Wavefunctions & Operators| D
+>   B -->|Electron Behavior in Solids| E
+>   C -->|Particle Decay Rates| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Interpretations of Quantum Mechanics**
+> *Compare the Copenhagen and Many-Worlds interpretations.*
+>
+> ```mermaid
+> graph TD
+>   A[Copenhagen Interpretation]
+>   B[Many-Worlds Interpretation]
+>   C[Quantum States Collapse]
+>   D[Parallel Universes]
+>   E[Born Rule Probabilities]
+>   F[Empirical Predictions Agreement]
+>   A -->|States Collapse| C
+>   A -->|Born Rule| E
+>   B -->|Parallel Universes| D
+>   A -.->|Agree on Empirics| F
+>   B -.->|Agree on Empirics| F
+> ```
 
 # Quantum Mechanics
 

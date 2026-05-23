@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Symmetry Breaking Process Overview**
+> *Follow the flow from laws to ground state and observable phenomena.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Underlying Laws] --> B[Ground State]
+>   B --> C[Reduced Symmetry Phenomena]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spontaneous vs Explicit Symmetry Breaking**
+> *Compare the two types of symmetry breaking at the Lagrangian and ground state levels.*
+>
+> ```mermaid
+> graph TD
+>   A[Underlying Laws] --> B[Ground State]
+>   C[Lagrangian] --> D[Explicit Break]
+>   A --> E[Spontaneous Break]
+>   subgraph Ground State
+>     F[Reduced Symmetry]
+>   end
+>   subgraph Lagrangian
+>     G[Asymmetric Equations]
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Symmetry Breaking in Particle Physics**
+> *Trace the interaction between particles and fields leading to mass generation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant HiggsField as HF
+>   participant WZBosons as WB
+>   participant Photons as PT
+>   HF->>WB: Interact
+>   WB-->>HF: Gain Mass
+>   PT->>HF: No Interaction
+>   PT-->>HF: Remain Massless
+> ```
 
 # Symmetry Breaking
 

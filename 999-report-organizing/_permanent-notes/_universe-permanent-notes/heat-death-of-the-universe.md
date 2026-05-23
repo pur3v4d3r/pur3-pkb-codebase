@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Heat Death Process Flowchart**
+> *Follow the sequence from dark energy to thermal equilibrium.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Dark Energy] --> B[Accelerating Expansion]
+>   B --> C[Causal Disconnection]
+>   C --> D[Thermal Equilibrium]
+> ```
+
+
+> [!abstract] **Diagram 2 — Heat Death vs Big Rip Comparison**
+> *Compare the conditions and outcomes of Heat Death and Big Rip.*
+>
+> ```mermaid
+> graph TD
+>   A[Heat Death] -->|Dark Energy Expansion| B[Thermal Equilibrium]
+>   C[Big Rip] -->|Faster-than-light Expansion| D[Tear Apart Structures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Entropy Increase Over Time**
+> *Trace the increase in entropy from current state to Heat Death.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> CurrentState : Present Universe
+>   CurrentState --> IntermediateState : Entropy Increases
+>   IntermediateState --> FinalState : Maximum Entropy Achieved
+>   FinalState --> [*] : Heat Death
+> ```
 
 # Heat Death Of The Universe
 

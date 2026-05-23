@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elliptical Galaxy Dynamics**
+> *Follow the arrows to see how velocity dispersion supports structure.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> OrderedRotation
+>   OrderedRotation --> :No
+>   :No --> VelocityDispersion
+>   VelocityDispersion --> EllipticalGalaxy
+> ```
+
+
+> [!abstract] **Diagram 2 — Elliptical Galaxy Formation Process**
+> *Trace the steps from disc galaxies to massive ellipticals.*
+>
+> ```mermaid
+> graph TD
+>   A[Disc Galaxies] --> B[Dry Mergers]
+>   B --> C[Larger Ellipticals]
+>   C --> D[Accretion Events]
+>   D --> E[cD Galaxies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Galaxy Morphological Types Comparison**
+> *Compare structural characteristics of different galaxy types.*
+>
+> ```mermaid
+> graph TD
+>   A[Elliptical] --> |Smooth, Ellipsoidal| B[No Arms/Discs]
+>   C[Spiral] --> |Prominent Disc| D[Arms]
+>   E[Irregular] --> F[Chaotic Structure]
+> ```
 
 # Elliptical Galaxy
 

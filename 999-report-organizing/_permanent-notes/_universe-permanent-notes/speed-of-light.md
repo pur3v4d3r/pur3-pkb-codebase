@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Speed Of Light Invariance Across Frames**
+> *Follow the arrows to see how speed remains constant across different inertial frames.*
+>
+> ```mermaid
+> graph TD
+>   A[Observer1] -->|c| B[Light]
+>   C[Observer2] -->|c| B
+>   D[Observer3] -->|c| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Relativistic Effects in GPS Systems**
+> *Trace the signal path and observe how relativistic effects impact timekeeping.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Satellite as S
+>   participant GroundStation as G
+>   S->>G: Transmit Signal at c
+>   G-->>S: Receive Signal at c
+>   note right of G: Time Dilation Adjustments
+> ```
+
+
+> [!abstract] **Diagram 3 — Implications for Causality and Information Transfer**
+> *Identify the causal relationships that ensure no signal can travel faster than light.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> SpeedLimit: Signal Propagation
+>   SpeedLimit --> NoFasterThanC: c is Absolute Limit
+>   NoFasterThanC --> CausalityPreserved: Ensures Consistent Order
+> ```
 
 # Speed Of Light
 

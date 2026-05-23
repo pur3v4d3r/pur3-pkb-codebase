@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Riemannian Geometry Overview**
+> *Identify the core components of Riemannian geometry.*
+>
+> ```mermaid
+> graph TD
+>   A[Smooth Manifolds] --> B[Riemannian Metric]
+>   B --> C[Positive-Definite Tensor]
+>   C --> D[Distance and Angle Measurement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Pseudo-Riemannian Geometry**
+> *Compare the key differences between Riemannian and pseudo-Riemannian metrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive-Definite Metric] --> B[Non-Negative Distances]
+>   C[Pseudo-Riemannian Metric] --> D[Both Positive & Negative Values]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in General Relativity**
+> *Understand the role of Riemannian geometry in Einstein's theory.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Spacetime
+>   participant Gravitational Phenomena
+>   participant Curvature
+>   Spacetime->>Curvature: Described by Pseudo-Riemannian Metric
+>   Curvature-->>Gravitational Phenomena: Geometric Properties of Spacetime
+> ```
 
 # Riemannian Geometry
 

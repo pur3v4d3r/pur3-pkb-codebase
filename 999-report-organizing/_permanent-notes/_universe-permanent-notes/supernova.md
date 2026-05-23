@@ -66,8 +66,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Supernova Types Overview**
+> *Identify the two main types of supernovae and their subtypes.*
+>
+> ```mermaid
+> graph TD
+>   A[Thermonuclear]
+>   B(Core-Collapse)
+>   A --> C(Type Ia)
+>   B --> D(Type II)
+>   B --> E(Types Ib, Ic)
+> ```
+
+
+> [!abstract] **Diagram 2 — Supernova Mechanism Flowchart**
+> *Follow the sequence of events leading to a supernova explosion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star Exhausts Fuel]
+>   B[Nuclear Instability]
+>   C[Runaway Thermonuclear Reaction] --> D[Explosion]
+>   E[Core Collapse] --> F[Rebound & Explosion]
+>   G[Accretion of Mass] --> H[Exceed Chandrasekhar Limit]
+>   A -->|Thermonuclear| C
+>   A -->|Core-Collapse| E
+>   B --> C
+>   B --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Supernova Impact on Cosmic Evolution**
+> *Trace the impact of supernovae on nucleosynthesis and cosmic structure.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star Fusion]
+>   B[Nuclear Instability]
+>   C[Runaway Reaction/Collapse]
+>   D[Explosion & Element Synthesis]
+>   E[Dispersal of Elements]
+>   F[Interstellar Medium Enrichment]
+>   G[Planetary Formation]
+>   H[Life Support]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
 
 # Supernova
 

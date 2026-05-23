@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Venus Greenhouse Effect Discovery Process**
+> *Follow the steps from observation to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation of Venus] --> B[Data Collection]
+>   B --> C[Hypothesis Formation]
+>   C --> D[Modeling and Simulation]
+>   D --> E[Greenhouse Effect Theory]
+>   E --> F[Conclusion: Runaway Greenhouse]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sagan's Scientific Contributions Timeline**
+> *Track Sagan's key contributions over his career.*
+>
+> ```mermaid
+> graph TD
+>   A[Venus Atmosphere Research] --> B[Greenhouse Effect Discovery]
+>   B --> C[Astrobiology Pioneering]
+>   C --> D[Cosmos Series and Book]
+> ```
+
+
+> [!abstract] **Diagram 3 — Sagan's Communication Approach Flowchart**
+> *See how Sagan engaged audiences with complex ideas.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Scientific Concepts] --> B[Meaningful Narratives]
+>   B --> C[Engagement Through Storytelling]
+>   C --> D[Genuine Understanding]
+> ```
 
 # Carl Sagan
 

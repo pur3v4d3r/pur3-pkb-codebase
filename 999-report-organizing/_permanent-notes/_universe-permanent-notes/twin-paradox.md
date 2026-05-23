@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Twin Paradox Process Flow**
+> *Follow the timeline to see how time dilation affects each twin.*
+>
+> ```mermaid
+> graph TD
+>   A[Stay on Earth] --> B[Travel at Relativistic Speeds]
+>   C[Accelerate and Decelerate] --> D(Return)
+>   E[Experience Time Dilation] --> F[Return Younger]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inertial vs Non-Inertial Frames**
+> *Compare the frames of reference for each twin during their journey.*
+>
+> ```mermaid
+> graph TD
+>   A[Stationary Twin] --> B(Inertial Frame)
+>   C[Traveling Twin] --> D(Non-Inertial Frame During Acceleration)
+>   E(Return to Inertial Frame)
+> ```
+
+
+> [!abstract] **Diagram 3 — Proper Time vs Coordinate Time**
+> *Observe the difference in time experienced by each twin.*
+>
+> ```mermaid
+> graph TD
+>   A[Stationary Twin] --> B(Coordinate Time)
+>   C[Traveling Twin] --> D(Proper Time During Acceleration and Deceleration)
+>   E(Return to Coordinate Time)
+> ```
 
 # Twin Paradox
 

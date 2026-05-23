@@ -66,8 +66,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chandrasekhar Limit Process Flow**
+> *Follow the sequence from white dwarf formation to supernova explosion.*
+>
+> ```mermaid
+> graph TD
+>   A[White Dwarf Formation]
+>   B[Accretion of Mass]
+>   C[Mass Exceeds Chandrasekhar Limit]
+>   D[Catastrophic Core-Collapse]
+>   E[Type Ia Supernova Explosion]
+>   A --> B
+>   B -->|If mass exceeds 1.4 solar masses| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Chandrasekhar Limit vs Neutron Star Stability**
+> *Compare the stability limits of white dwarfs and neutron stars.*
+>
+> ```mermaid
+> graph TD
+>   A[White Dwarf]
+>   B[Neutron Star]
+>   C[Chandrasekhar Limit (1.4 M)]
+>   D[Tolman-Oppenheimer-Volkoff Limit]
+>   A -->|Electron Degeneracy Pressure| C
+>   B -->|Nuclear Degeneracy Pressure| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Type Ia Supernova Progenitor Channels**
+> *Identify sub-Chandrasekhar and super-Chandrasekhar progenitors.*
+>
+> ```mermaid
+> graph TD
+>   A[Sub-Chandrasekhar]
+>   B[Super-Chandrasekhar]
+>   C[Type Ia Supernova]
+>   A -->|Below 1.4 M| C
+>   B -->|Above 1.4 M| C
+> ```
 
 # Chandrasekhar Limit
 

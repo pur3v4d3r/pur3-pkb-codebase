@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cosmological Epoch Timeline**
+> *Follow the timeline from Big Bang to Cosmic Dawn.*
+>
+> ```mermaid
+> graph TD
+>   A[Big Bang] --> B[Recombination]
+>   B --> C[Dark Ages]
+>   C --> D[Cosmic Dawn]
+>   D --> E[Reionization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Radiation Absorption Process**
+> *Trace the path of radiation through neutral hydrogen.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Redshifted Radiation] --> B[Neutral Hydrogen]
+>   B --> C[Absorbed Radiation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Radio Telescope Design Requirements**
+> *Identify key features for detecting 21-cm hydrogen-line emission.*
+>
+> ```mermaid
+> graph TD
+>   A[Low-Frequency Sensitivity] --> B[Interstellar Medium Penetration]
+>   B --> C[Faint Signal Detection]
+>   C --> D[Cosmic Dawn Insights]
+> ```
 
 # Dark Ages Of The Universe
 

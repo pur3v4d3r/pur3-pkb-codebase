@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Lorentz Transformation Equations**
+> *Follow the flow from time to space transformations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Time t] --> B[t']
+>   C[x] --> D[x']
+>   E[y] --> F[y']
+>   G[z] --> H[z']
+> ```
+
+
+> [!abstract] **Diagram 2 — Lorentz vs Galilean Transformations**
+> *Compare the transformations for time and space.*
+>
+> ```mermaid
+> graph TD
+>   A[Galilean Time t] --> B[t']
+>   C[Lorentz Time t] --> D[t']
+>   E[Galilean Space x] --> F[x']
+>   G[Lorentz Space x] --> H[x']
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Lorentz Transformation**
+> *Trace the applications from GPS to particle accelerators.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant GPS
+>   participant ParticleAccelerator
+>   participant Observer
+>   GPS->>Observer: Synchronize clocks due to time dilation
+>   ParticleAccelerator->>Observer: Interpret length contraction and time dilation
+> ```
 
 # Lorentz Transformation
 

@@ -67,8 +67,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GRB Mechanism Overview**
+> *Follow the flow from star collapse to gamma-ray emission.*
+>
+> ```mermaid
+> graph TD
+>   A[Star Collapse]
+>   B[Magnetized Neutron Star or Black Hole Formation]
+>   C[Jets Ejected Along Rotational Axis]
+>   D[GAMMA-RAY EMISSION Through Synchrotron and Inverse Compton Scattering]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — GRB Types Comparison**
+> *Compare the characteristics of long-duration and short-duration GRBs.*
+>
+> ```mermaid
+> graph TD
+>   A[Long-Duration GRBs]
+>   B[Short-Duration GRBs]
+>   A -->|Progenitor: Massive Star Collapse|
+>   B -->|Progenitor: Compact Object Merger|
+>   A -->|Duration: >2 seconds|
+>   B -->|Duration: <2 seconds|
+>   A -->|Mechanism: Jet Ejection from Rotational Axis|
+>   B -->|Mechanism: Jet Emission During Merger|
+>   A -->|Associated with Supernovae Afterglow|
+>   B -->|No Associated Supernova Afterglow|
+>   A -->|More Common in Star-Forming Galaxies|
+>   B -->|Found in All Types of Galaxies|
+>   A -->|Often at High Redshifts|
+>   B -->|Can Occur Closer to Us|
+>   A -->|Studied for Cosmic Probes and Black Hole Formation|
+>   B -->|Studied for Neutron Star Properties and Gravitational Waves
+> ```
+
+
+> [!abstract] **Diagram 3 — GRB Detection Pipeline**
+> *Trace the steps from initial detection to scientific analysis.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Telescope as T
+>   participant DataCenter as D
+>   participant Astronomer as A
+>   participant Observatory as O
+>   participant Publication as P
+>   T->>D: Detects GRB Signal
+>   D->>A: Alerts Astronomers
+>   A->>O: Observes Afterglow
+>   O->>P: Publishes Results
+>   P->>T: Updates Catalogue
+> ```
 
 # Gamma Ray Burst
 

@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Red Dwarf Formation Process**
+> *Follow the sequence from interstellar medium to Red Dwarf formation.*
+>
+> ```mermaid
+> graph TD
+>   A[Interstellar Medium]
+>   B[Dense Cloud Collapse]
+>   C[Nuclear Fusion Begins]
+>   D[Low Mass Star]
+>   E[Red Dwarf]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Habitability Challenges of Red Dwarfs**
+> *Identify the factors affecting habitability around a Red Dwarf.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Red Dwarf]
+>   B[Tidal Locking] -->|Extreme Temperature Differences|
+>   C[XUV Radiation] -->|Atmospheric Erosion| D[Habitability Zone]
+>   A --> B
+>   A --> C
+>   A --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Red Dwarf vs Brown Dwarf Comparison**
+> *Compare the evolutionary paths and characteristics of Red Dwarfs and brown dwarfs.*
+>
+> ```mermaid
+> classDiagram
+>   class RedDwarf{
+>     +Achieves Stellar Fusion
+>     +Long Main Sequence Lifetime
+>   }
+>   class BrownDwarf{
+>     -Does Not Achieve Stellar Fusion
+>     -Follows Different Evolutionary Path
+>   }
+>   RedDwarf -->|Comparison| BrownDwarf
+> ```
 
 # Red Dwarf
 

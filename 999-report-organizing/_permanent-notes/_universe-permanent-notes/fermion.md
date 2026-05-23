@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Fermion Spin States**
+> *Identify the half-integer spin values of fermions.*
+>
+> ```mermaid
+> graph TD
+>   A[1/2] --> B[3/2]
+>   B --> C[5/2]
+> ```
+
+
+> [!abstract] **Diagram 2 — Fermion vs Boson Statistics**
+> *Compare Fermi-Dirac and Bose-Einstein statistics.*
+>
+> ```mermaid
+> graph TD
+>   A[Fermions] --> B[Half-Integer Spin]
+>   C[Bosons] --> D[Integer Spin]
+>   E[Antisymmetric Wavefunctions] --> F[Fermi-Dirac Statistics]
+>   G[Symmetric Wavefunctions] --> H[Bose-Einstein Statistics]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pauli Exclusion Principle in Atoms**
+> *Trace the electron arrangement due to Pauli exclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Electron] --> B[Orbital]
+>   C[Shell1] --> D[Orbital1]
+>   E[Shell2] --> F[Orbital2]
+>   G[Shell3] --> H[Orbital3]
+> ```
 
 # Fermion
 

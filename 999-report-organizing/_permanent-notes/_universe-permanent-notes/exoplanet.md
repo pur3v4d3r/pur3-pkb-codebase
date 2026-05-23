@@ -67,8 +67,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Exoplanet Detection Methods**
+> *Identify the two primary methods used to detect exoplanets.*
+>
+> ```mermaid
+> graph TD
+>   A[Transit Method]
+>   B[Radial Velocity Technique]
+>   A -->|Detects periodic dimming in star's brightness|
+>   B -->|Measures gravitational pull on host star|
+> ```
+
+
+> [!abstract] **Diagram 2 — Exoplanet Types Comparison**
+> *Compare the characteristics of different exoplanet types.*
+>
+> ```mermaid
+> graph TD
+>   A[Hot Jupiters]
+>   B[Super-Earths]
+>   C[Mini-Neptunes]
+>   D[Ultrashort-period Planets]
+>   A -->|Gas giants close to star|
+>   B -->|Rocky planets larger than Earth|
+>   C -->|Gaseous planets smaller than Neptune|
+>   D -->|Orbit very close to their stars|
+> ```
+
+
+> [!abstract] **Diagram 3 — Exoplanet Discovery Process Flow**
+> *Follow the steps involved in discovering and cataloging exoplanets.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation]
+>   B[Data Collection]
+>   C[Analysis]
+>   D[Categorization]
+>   E[Publishing]
+>   A -->|Monitor star brightness|
+>   A --> B
+>   B -->|Gather radial velocity data|
+>   B --> C
+>   C -->|Analyze transit and wobble patterns|
+>   C --> D
+>   D -->|Classify exoplanet type|
+>   D --> E
+> ```
 
 # Exoplanet
 

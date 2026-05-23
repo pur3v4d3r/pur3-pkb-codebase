@@ -63,8 +63,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Brown Dwarf Classification Hierarchy**
+> *Identify the position of Brown Dwarfs relative to other celestial objects.*
+>
+> ```mermaid
+> graph TD
+>   A[Stars] --> B[Substellar Objects]
+>   C[Brown Dwarfs] -->|Deuterium Burning| B
+>   D[Gas Giants] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Brown Dwarf Life Cycle Process Flow**
+> *Follow the stages of a Brown Dwarf's life cycle, highlighting deuterium burning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formation] --> B[Deuterium Burning]
+>   B --> C[Cooling]
+>   C --> D[Dormant State]
+> ```
+
+
+> [!abstract] **Diagram 3 — Brown Dwarf vs Red Dwarf Comparison**
+> *Compare the key differences between Brown Dwarfs and Red Dwarfs.*
+>
+> ```mermaid
+> classDiagram
+>   class BrownDwarf {
+>     - Mass: >13 Jupiter masses
+>     - Fusion: Deuterium only
+>   }
+>   class RedDwarf {
+>     - Mass: <0.5 Solar masses
+>     - Fusion: Hydrogen to Helium
+>   }
+> ```
 
 # Brown Dwarf
 

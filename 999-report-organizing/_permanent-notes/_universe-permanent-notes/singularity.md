@@ -70,8 +70,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Singularity Formation Process**
+> *Follow the sequence from initial conditions to singularity formation.*
+>
+> ```mermaid
+> sequenceDiagram
+> Alice->>Bob: Non-negative matter density condition
+> Bob->>Charlie: Causality preservation condition
+> Charlie->>Dave: General Relativity equations
+> Dave-->>Eve: Singularity formation
+> ```
+
+
+> [!abstract] **Diagram 2 — Singularity Types in Cosmology**
+> *Identify the types of singularities and their locations.*
+>
+> ```mermaid
+> graph TD
+> A[Black Hole] --> B[Singularity]
+> C[Big Bang] --> D[Singularity]
+> E[General Relativity] --> F[Limits]
+> F --> G[Quantum Gravity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Singularity Theorems Overview**
+> *Trace the logical flow from conditions to singularity inevitability.*
+>
+> ```mermaid
+> flowchart LR
+> A[Non-negative Matter Density] --> B[Causality Preservation]
+> B --> C[General Relativity Equations]
+> C --> D[Singularity Inevitability]
+> D --> E[Quantum Gravity Needed]
+> ```
 
 # Singularity
 

@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Oort Cloud vs Kuiper Belt**
+> *Compare the spherical Oort Cloud with the disk-shaped Kuiper Belt.*
+>
+> ```mermaid
+> graph TD
+>   A[Oort Cloud]
+>   B[Kuiper Belt]
+>   A -->|Spherical| C[Far from Sun]
+>   B -->|Disk-Shaped| D[Near Plane]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comet Formation Mechanism**
+> *Trace the process of comet formation in the Oort Cloud.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Scattered Planetesimals] --> B[Giant-Planet Migration]
+>   B --> C[Perturbations from Stars]
+>   C --> D[Galactic Tide]
+>   D --> E[Nudged Orbits]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comet Recognition vs Recall**
+> *Understand the difference between recognizing and recalling comet details.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition]
+>   B[Recall]
+>   A -->|Repeated Exposure| C[Easier]
+>   B -->|Infrequent Observations| D[Challenging]
+> ```
 
 # Oort Cloud
 

@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — TOV Limit Concept Overview**
+> *Follow the flow from neutron star to black hole formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Neutron Star] --> B[Tolman Oppenheimer Volkoff Limit]
+>   B --> C[Stable Neutron Star]
+>   C --> D[Collapse into Black Hole]
+> ```
+
+
+> [!abstract] **Diagram 2 — TOV vs Chandrasekhar Limits**
+> *Compare the limits for neutron stars and white dwarfs.*
+>
+> ```mermaid
+> graph TD
+>   A[Chandrasekhar Limit] --> B[White Dwarf]
+>   C[Tolman Oppenheimer Volkoff Limit] --> D[Neutron Star]
+> ```
+
+
+> [!abstract] **Diagram 3 — Observational Constraints on TOV Limit**
+> *See how mass measurements and GW observations constrain the limit.*
+>
+> ```mermaid
+> flowchart LR
+>   A[PSR J0740+6620] --> B[Tolman Oppenheimer Volkoff Limit]
+>   C[GW170817 Remnant Collapse] --> D[BH Formation Threshold]
+> ```
 
 # Tolman Oppenheimer Volkoff Limit
 

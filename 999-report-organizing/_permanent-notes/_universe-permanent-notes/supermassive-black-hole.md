@@ -64,8 +64,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Black Hole Mass Classes Overview**
+> *Identify the mass range of supermassive black holes compared to other classes.*
+>
+> ```mermaid
+> graph TD
+>   A[Stellar-Mass]
+>   B(Intermediate)
+>   C[Supermassive]
+>   A -->|<10 solar masses| D[Mass Class]
+>   B -->|10-100,000 solar masses| D
+>   C -->|10^5 to 10^10 solar masses| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Supermassive Black Hole Formation Theories**
+> *Explore the proposed pathways for supermassive black hole formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Primordial Gas Cloud]
+>   B[RUNAWAY MERGERS]
+>   C[EXOTIC PROCESSES]
+>   D[Supermassive Black Hole]
+>   A -->|Direct Collapse| D
+>   B -->|Stellar-Mass BH Mergers| D
+>   C -->|Other Hypotheses| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Galactic Influence of SMBHs**
+> *Understand how supermassive black holes affect their host galaxies.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Supermassive Black Hole]
+>   B[Powerful Jets/Winds]
+>   C[Star Formation Regulation]
+>   D[Galactic Morphology]
+>   E[Dynamics]
+>   F[Stellar Populations]
+>   A -->|Jets/Winds| B
+>   B -->|Regulates Gas| C
+>   C -->|Influences Structure| D
+>   C -->|Affects Dynamics| E
+>   C -->|Shapes Populations| F
+> ```
 
 # Supermassive Black Hole
 

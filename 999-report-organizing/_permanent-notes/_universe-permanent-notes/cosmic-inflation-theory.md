@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Inflation Mechanism Overview**
+> *Follow the flow from initial conditions to cosmic flatness.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Conditions] --> B[Potential Energy]
+>   B --> C[Rapid Expansion]
+>   C --> D[Smoothed Irregularities]
+>   D --> E[Near-Perfect Flatness]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inflation vs Other Theories**
+> *Compare Cosmic Inflation with other early universe theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Big Bang] -->|Puzzles| B[Predictions]
+>   C[Cosmic Inflation] -->|Solves Puzzles| D[Uniformity]
+>   E[Other Theories] -->|No Inflation| F[Different Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 3 — CMB Observations Confirmation**
+> *Trace the path from inflation to CMB observations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InitialConditions as IC
+>   participant InflationField as IF
+>   participant RapidExpansion as RE
+>   participant SmoothedIrregularities as SI
+>   participant NearPerfectFlatness as NP
+>   participant AdiabaticPerturbations as AP
+>   participant CMBObservations as CO
+>   IC->>IF: Potential Energy
+>   IF->>RE: Drives Expansion
+>   RE->>SI: Smoothes Irregularities
+>   SI->>NP: Achieves Flatness
+>   NP->>AP: Seeds Perturbations
+>   AP->>CO: Observed in CMB
+> ```
 
 # Cosmic Inflation Theory
 

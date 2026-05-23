@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Relativistic Jet Formation Process**
+> *Follow the flow from accretion disk to jet ejection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Accretion Disk] --> B[Magnetic Field]
+>   B --> C[Ergosphere Interaction]
+>   C --> D[Jets Ejected]
+> ```
+
+
+> [!abstract] **Diagram 2 — Blandford-Znajek Mechanism Overview**
+> *Trace the energy extraction from black hole to jet.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Black Hole Spin] --> B[Ergosphere]
+>   B --> C[Magnetic Field Interaction]
+>   C --> D[Jets Acceleration]
+> ```
+
+
+> [!abstract] **Diagram 3 — Relativistic Jet Impact on Galaxy Evolution**
+> *See how jets influence star formation and galaxy structure.*
+>
+> ```mermaid
+> flowchart LR
+>   A[AGN Jets] --> B[Energetic Outflows]
+>   B --> C[Star Formation Regulation]
+>   C --> D[Galaxy Structure]
+> ```
 
 # Relativistic Jets
 

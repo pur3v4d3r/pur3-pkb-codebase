@@ -64,8 +64,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Curvature Tensor Relationships**
+> *Follow the arrows to see how tensors relate.*
+>
+> ```mermaid
+> graph TD
+>   A["Riemann Curvature Tensor"] --> B[Ricci Tensor]
+>   B --> C[Scalar Curvature]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gravitational Lensing Process**
+> *Trace the path of light around a massive object.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Light Source"] --> B["Massive Object"]
+>   B --> C["Bent Light Path"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Time Dilation Scenario**
+> *Compare time passage in different gravitational fields.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Clock1 as "Clock at High Altitude"
+>   participant Clock2 as "Clock at Low Altitude"
+>   Clock1->>Clock2: Time passes slower
+> ```
 
 # Curvature Of Space Time
 

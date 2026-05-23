@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Quark Star Formation Process**
+> *Follow the path from hadronic matter to deconfined quarks.*
+>
+> ```mermaid
+> graph TD
+>   A[Hadronic Matter] --> B[Hypothetical Phase Change]
+>   B --> C[Deconfined Quarks]
+>   C --> D[Strange Quark Matter]
+> ```
+
+
+> [!abstract] **Diagram 2 — Compact Object Comparison**
+> *Compare the composition and properties of different compact objects.*
+>
+> ```mermaid
+> graph TD
+>   A[Neutron Star] --> B[Composed of Neutrons]
+>   C[Quark Star] --> D[Deconfined Quarks]
+>   E[Hypothetical Compact Object] --> F[Speculative]
+> ```
+
+
+> [!abstract] **Diagram 3 — QCD Phase Diagram Overview**
+> *Identify the region where quark deconfinement is theorized.*
+>
+> ```mermaid
+> graph TD
+>   A[Density] --> B[High Density]
+>   C[Temperature] --> D[High Temperature]
+>   E[Beyond Neutron Star Limits] --> F[Quark Deconfinement]
+> ```
 
 # Quark Star
 

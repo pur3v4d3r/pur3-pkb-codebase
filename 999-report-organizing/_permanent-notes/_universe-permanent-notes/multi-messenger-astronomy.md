@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multi Messenger Data Integration**
+> *Follow the flow of data from different messengers to a unified analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Gravitational Waves] --> D[Integration]
+>   B[Electromagnetic Radiation] --> D
+>   C[Cosmic Rays] --> D
+>   E[Neutrinos] --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare the two approaches in interpreting multi-messenger data.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TopDown as T
+>   participant BottomUp as B
+>   participant Data as D
+>   T->>D: Use theoretical models
+>   D-->>T: Predicted outcomes
+>   B->>D: Direct observations
+>   D-->>B: Observed data
+> ```
+
+
+> [!abstract] **Diagram 3 — Neutron Star Mergers Data Flow**
+> *Trace the integration of gravitational waves and electromagnetic radiation in neutron star mergers.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gravitational Waves] --> B[Integration]
+>   C[Electromagnetic Radiation] --> B
+>   D[Location Pinpointing] --> E[Nature Determination]
+>   B --> D
+>   F[Heavy Elements Production] --> E
+> ```
 
 # Multi Messenger Astronomy
 

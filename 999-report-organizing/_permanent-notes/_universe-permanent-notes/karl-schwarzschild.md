@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Schwarzschild Metric Overview**
+> *Follow the flow from Einstein's equations to Schwarzschild radius.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Einsteins Field Equations] --> B[Spherically Symmetric Vacuum]
+>   B --> C[Schwarzschild Solution]
+>   C --> D[Schwarzschild Radius]
+>   D --> E[Event Horizon]
+> ```
+
+
+> [!abstract] **Diagram 2 — Practical Applications of Schwarzschild Metric**
+> *Identify the applications in cosmology, gravitational waves, and astrophysics.*
+>
+> ```mermaid
+> graph TD
+>   A[Cosmological Modeling] --> B[Gravitational Lensing]
+>   C[Gravitational Wave Detection] --> D[Binary Black Hole Mergers]
+>   E[Astrophysical Observations] --> F[Black Hole Properties]
+> ```
+
+
+> [!abstract] **Diagram 3 — Schwarzschild vs Kerr Metrics**
+> *Compare the features of non-rotating and rotating black holes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Non-Rotating] --> B[No Frame-Dragging]
+>   C[Rotating] --> D[Frame-Dragging & Ergosphere]
+>   E[Schwarzschild Metric] --> F[Kerr Metric]
+> ```
 
 # Karl Schwarzschild
 

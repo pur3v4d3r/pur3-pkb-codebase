@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Galileo's Observational Evidence**
+> *Follow the flow of Galileo's telescopic discoveries and their impact on astronomy.*
+>
+> ```mermaid
+> graph TD
+>   A[Mountains on Moon] --> B[Moons orbiting Jupiter]
+>   B --> C[Phases of Venus]
+>   C --> D[Starry Milky Way]
+>   A --> E[Evidence against Geocentric Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — Galileo's Empirical Method in Physics**
+> *Trace the steps Galileo took to establish principles of uniform acceleration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inclined Planes Experiment] --> B[Falling Bodies]
+>   B --> C[Uniform Acceleration]
+>   C --> D[Contradicts Aristotle's Theory]
+> ```
+
+
+> [!abstract] **Diagram 3 — Galileo vs Aristotelian Reasoning**
+> *Compare Galileo's empirical method with Aristotelian theoretical approach.*
+>
+> ```mermaid
+> classDiagram
+>   class Galileo{
+>     +Observation
+>     +Experimentation
+>   }
+>   class Aristotle{
+>     +Theoretical Deduction
+>     +First Principles
+>   }
+> ```
 
 # Galileo Galilei
 

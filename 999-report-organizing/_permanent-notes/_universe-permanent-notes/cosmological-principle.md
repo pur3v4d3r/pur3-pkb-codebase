@@ -64,8 +64,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cosmological Principle Overview**
+> *Identify the key components of the Cosmological Principle.*
+>
+> ```mermaid
+> graph TD
+>   A[Universe]
+>   B[Homogeneous]
+>   C[Isotropic]
+>   D[Large Scales]
+>   E[Local Structures Excluded]
+>   F[CMB Uniformity]
+>   G[Galaxy Surveys]
+>   H[FLRW Metric]
+>   I[Lambda-CDM Model]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+>   B --> F
+>   C --> G
+>   D --> H
+>   H --> I
+> ```
+
+
+> [!abstract] **Diagram 2 — Cosmological vs Copernican Principles**
+> *Compare the Cosmological and Copernican principles.*
+>
+> ```mermaid
+> classDiagram
+>   class CosmologicalPrinciple {
+>     +Universe is homogeneous on large scales
+>     +Excludes local structures
+>     +Supports FLRW metric
+>   }
+>   class CopernicanPrinciple {
+>     +No special place for Earth in the universe
+>     +Focuses on our position within the cosmos
+>   }
+>   CosmologicalPrinciple -->|related but distinct| CopernicanPrinciple
+> ```
+
+
+> [!abstract] **Diagram 3 — Cosmic Expansion Modeling**
+> *Understand how the principle guides cosmic expansion models.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant FLRWMetric as F
+>   participant LambdaCDMModel as L
+>   O->>F: Assume homogeneous and isotropic universe
+>   F-->>O: Derive equations for space expansion
+>   O->>L: Apply derived equations to model evolution
+>   L-->>O: Predict cosmic dynamics
+> ```
 
 # Cosmological Principle
 

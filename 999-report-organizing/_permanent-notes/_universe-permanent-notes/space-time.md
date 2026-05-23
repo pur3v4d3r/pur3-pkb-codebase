@@ -69,8 +69,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Space Time Interval Definition**
+> *Follow the equation to understand how space and time are integrated.*
+>
+> ```mermaid
+> graph TD
+>   A[ds²]
+>   B[c²dt²]
+>   C[dx² + dy² + dz²]
+>   A -->|−| B
+>   A -->|+| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Light Cone Structure in Space Time**
+> *Identify the regions of causally connected and disconnected space-time.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event]
+>   B[Future Light Cone] -->|Causally Connected| A
+>   C[Past Light Cone] -->|Causally Connected| A
+>   D[Outside Light Cones] -.->|Causally Disconnected| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Trace the arrows to see how theoretical frameworks and empirical observations interact.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Theory as T
+>   participant Observation as O
+>   T->>O: Predicts Phenomena
+>   O-->>T: Validates or Refines Theories
+> ```
 
 # Space Time
 

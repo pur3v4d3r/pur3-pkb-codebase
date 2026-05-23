@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Gravitational Wave Generation Process**
+> *Follow the flow from cosmic events to gravitational wave emission.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Massive Objects] --> B[Acceleration]
+>   B --> C[Quadrupole Radiation]
+>   C --> D[Gravitational Waves]
+> ```
+
+
+> [!abstract] **Diagram 2 — Detection Methods Comparison**
+> *Compare direct detection with indirect evidence methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Detection] --> B[LIGO Observations]
+>   C[Indirect Evidence] --> D[Pulsar Orbital Decay]
+> ```
+
+
+> [!abstract] **Diagram 3 — Wave Polarization States**
+> *Identify the two polarization states of gravitational waves.*
+>
+> ```mermaid
+> graph TD
+> A["Plus (+)"] -->|Transverse| B["Cross (×)"]
+> ```
 
 # Gravitational Waves
 
