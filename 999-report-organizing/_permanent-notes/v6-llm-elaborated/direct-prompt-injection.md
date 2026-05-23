@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,43 +166,6 @@ Direct prompt injection exploits the ambiguity in how LLMs process instructions 
 > [!connection] **[[Goal Hijacking]]** — *contrasts-with*
 > While goal hijacking involves altering a model's objectives through indirect means, direct prompt injection targets the immediate processing of instructions. This distinction is crucial because it highlights different attack vectors and defense strategies: goal hijacking requires understanding long-term behavior changes, whereas direct prompt injection focuses on real-time command manipulation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Direct Prompt Injection Process Flow**
-> *Follow the sequence from user input to model response.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[System]
->   B --> C[Model Processing]
->   C --> D[Response Generation]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Direct vs Indirect Prompt Injection Comparison**
-> *Compare the direct and indirect methods of prompt injection.*
->
-> ```mermaid
-> graph TD
->   A[Direct Prompt Injection] -->|Embeds adversarial commands in user input|
->   B[Indirect Prompt Injection] -->|Exploits system vulnerabilities or misconfigurations|
->   C[Both aim to subvert model behavior]
-> ```
-
-
-> [!abstract] **Diagram 3 — LLM Instruction Handling Vulnerability**
-> *Identify the ambiguity in LLM's instruction handling.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Instruction Detection]
->   B --> C[Trusted Source Check]
->   C -->|Ambiguity| D[Execute Instruction]
->   D --> E[Response]
-> ```
 
 # Direct Prompt Injection
 

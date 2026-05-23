@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,67 +158,6 @@ In synthesizing Toolformer's contributions to LLM capabilities, it becomes evide
 > [!connection] **[[Self-Supervised Learning]]** — *instance-of*
 > Toolformer exemplifies self-supervised learning by enabling LLMs to generate and evaluate their own tool calls without extensive human intervention. This approach contrasts with traditional supervised learning, where models rely on labeled datasets provided by humans. By leveraging the model's inherent capabilities, Toolformer reduces reliance on labor-intensive annotation processes while still achieving high-quality performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Toolformer Process Flow**
-> *Follow the sequence from generation to retention.*
->
-> ```mermaid
-> graph TD
->   A[Generation]
->   B[Evaluation]
->   C[Retention]
->   A --> B
->   B -->|If useful| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Tool Call Evaluation Criteria**
-> *Identify the criteria used to evaluate tool calls.*
->
-> ```mermaid
-> graph TD
->   A[Context Clues]
->   B[Existing Knowledge]
->   C[Perplexity Reduction]
->   D[Relevance]
->   E[Utility]
->   F[Retain]
->   G[Discard]
->   A -->|Generate Calls| B
->   B -->|Evaluate Perplexity| C
->   C -->|Is Useful?| D
->   D -->|Yes| F
->   D -->|No| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Toolformer Application Scenarios**
-> *Compare the applications in instructional design and customer service.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Customer Service]
->   C[Integrate Tools]
->   D[Enhance Learning]
->   E[Improve Efficiency]
->   F[Interactive Materials]
->   G[Accurate Responses]
->   H[Immediate Feedback]
->   I[Timely Information]
->   A -->|C| D
->   B -->|C| E
->   D -->|F|
->   E -->|G & H|
->   C -->|Integrate External Tools|
->   F -->|Interactive and Relevant|
->   G -->|Accurate Responses|
->   H -->|Immediate Feedback|
->   I -->|Timely Information
-> ```
 
 # Toolformer
 

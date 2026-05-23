@@ -18,7 +18,7 @@ subdomains:
   - professional-practice
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - software-engineering-synthetic-seed-2026-05-01
@@ -67,63 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Software Engineering Practices Overview**
-> *Identify the key practices and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Version Control]
->   B[Test-Driven Development]
->   C[Automated Testing]
->   D[Continuous Integration]
->   E[Documentation]
->   F[Architectural Design]
->   A -->|Tracks Changes| B
->   B -->|Ensures Quality| C
->   C -->|Frequent Feedback| D
->   D -->|Maintains Stability| E
->   E -->|Guides Development| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Software Engineering Workflow**
-> *Follow the sequence of steps in a typical software engineering project.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Developer as D
->   participant Tester as T
->   participant VersionControl as VC
->   participant CI as CI
->   D->>VC: Commit Code
->   VC-->>T: Pull Request
->   T->>D: Review Feedback
->   D->>CI: Trigger Build
->   CI-->>D: Test Results
-> ```
-
-
-> [!abstract] **Diagram 3 — Software Engineering Methodologies Comparison**
-> *Compare the key characteristics of Agile and Waterfall methodologies.*
->
-> ```mermaid
-> graph TD
->   A[Agile]
->   B[Waterfall]
->   A -->|Iterative Development| C[Continuous Feedback]
->   B -->|Sequential Stages| D[Defined Phases]
->   A -->|Adaptable Planning| E[Flexible Scope]
->   B -->|Fixed Deliverables| F[Rigid Schedule]
-> ```
 
 # Software Engineering
 

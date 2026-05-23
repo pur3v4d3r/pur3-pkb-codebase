@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,62 +158,6 @@ Self-Consistency Sampling exemplifies a sophisticated approach to enhancing mode
 > [!connection] **[[Majority Vote Aggregation]]** — *applies-to*
 > Self-Consistency Sampling applies Majority Vote Aggregation as a critical step in its process. By aggregating the final answers from multiple reasoning paths through majority vote, it ensures that the most consistent and reliable answer is selected. This application underscores how ensemble methods can enhance model accuracy by leveraging collective wisdom.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Consistency Sampling Process Flow**
-> *Follow the steps from high-temperature sampling to majority vote.*
->
-> ```mermaid
-> graph TD
->   A[Generate Multiple Traces]
->   B[High-Temperature Sampling]
->   C[Collect Final Answers]
->   D[Majority Vote Selection]
->   A --> B
->   B -->|Multiple Samples| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Consistency vs Simple Averaging**
-> *Compare Self-Consistency Sampling with simple averaging in error correction.*
->
-> ```mermaid
-> graph TD
->   A[Self-Consistency]
->   B[Simple Averaging]
->   C[Majority Vote]
->   D[Average Output]
->   E[Ensemble Diversity]
->   F[Systematic Bias]
->   G[Error Correction]
->   H[Linear Combination]
->   A -->|C| G
->   B -->|H| G
->   A -->|E| C
->   B -->|F| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Consistency Sampling Mechanism Overview**
-> *Trace the flow from input to final answer selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Question]
->   B[High-Temperature Sampling]
->   C[Generate Multiple Traces]
->   D[Collect Final Answers]
->   E[Majority Vote Selection]
->   F[Final Answer]
->   A --> B
->   B -->|Multiple Samples| C
->   C --> D
->   D --> E
->   E --> F
-> ```
 
 # Self-Consistency Sampling
 

@@ -18,7 +18,7 @@ subdomains:
   - organizational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - practical-intelligence-synthetic-seed-2026-04-25
@@ -67,86 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Practical Intelligence Components**
-> *Identify the key components of Practical Intelligence.*
->
-> ```mermaid
-> graph TD
->   A[Context]
->   B[Tacit Knowledge]
->   C[Intuitive Understanding]
->   D[Navigating Complex Situations]
->   E[Adaptation and Refinement]
->   F[Pattern Recognition]
->   G[Intuitive Judgments]
->   H[Strategic Adjustment]
->   A -->|Influences| B
->   B -->|Develops| C
->   C -->|Enables| D
->   D -->|Requires| E
->   E -->|Facilitates| F
->   F -->|Supports| G
->   G -->|Guides| H
-> ```
-
-
-> [!abstract] **Diagram 2 — Practical Intelligence vs Analytical Intelligence**
-> *Compare Practical Intelligence with Analytical Intelligence.*
->
-> ```mermaid
-> graph TD
->   A[Practical Intelligence]
->   B[Analytical Intelligence]
->   C[Tacit Knowledge]
->   D[Intuitive Understanding]
->   E[Navigating Complex Situations]
->   F[Adaptation and Refinement]
->   G[Pattern Recognition]
->   H[Intuitive Judgments]
->   I[Strategic Adjustment]
->   J[Formal Training]
->   K[Theoretical Problem-Solving]
->   A -->|Includes| C
->   A -->|Includes| D
->   A -->|Enables| E
->   A -->|Facilitates| F
->   A -->|Supports| G
->   A -->|Guides| H
->   A -->|Influences| I
->   B -->|Relies On| J
->   B -->|Focuses On| K
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Intelligence Mechanism**
-> *Understand the process of acquiring and applying tacit knowledge.*
->
-> ```mermaid
-> flowchart LR
->   A[Exposure to Real-World Situations]
->   B[Learning by Doing]
->   C[Observing]
->   D[Integration with Existing Knowledge]
->   E[Deliberate Practice]
->   F[Mentorship]
->   G[Immersion in Relevant Environments]
->   A -->|Facilitates| B
->   A -->|Influences| C
->   B -->|Enhances| D
->   C -->|Supports| D
->   D -->|Improves| E
->   D -->|Guides| F
->   D -->|Encourages| G
-> ```
 
 # Practical Intelligence
 

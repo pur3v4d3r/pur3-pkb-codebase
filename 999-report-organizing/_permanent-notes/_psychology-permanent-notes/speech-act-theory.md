@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - speech-act-theory-synthetic-seed-2026-05-01
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Speech Act Levels Overview**
-> *Follow the flow from locutionary to perlocutionary acts.*
->
-> ```mermaid
-> graph TD
->   A[Locutionary]
->   B[Illucutionary]
->   C[Perlocutionary]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Speech Act Types Example**
-> *Identify the type of speech act in each example.*
->
-> ```mermaid
-> flowchart LR
->   A["It is raining"] -->|Locutionary|
->   B["It is raining, so you should take an umbrella."] -->|Illocutionary|
->   C[You must be joking] -->|Perlocutionary|
-> ```
-
-
-> [!abstract] **Diagram 3 — Speech Act Applications**
-> *Trace the application areas and their specific uses.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Contexts]
->   C[Ethical Discussions]
->   D[Philosophical Analysis]
->   A -->|Direct Instructions|
->   B -->|Interpreting Statements|
->   C -->|Influencing Judgments|
->   D -->|Analyzing Language|
-> ```
 
 # Speech Act Theory
 

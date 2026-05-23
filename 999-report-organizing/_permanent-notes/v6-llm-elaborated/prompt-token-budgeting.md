@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,60 +164,6 @@ Experiments comparing budgeted allocation methods with heuristic-based approache
 > [!connection] **[[Token-Efficient Prompting]]** — *specializes*
 > Prompt Token Budgeting specializes in Token-Efficient Prompting by providing a systematic approach to token allocation. Unlike general strategies for efficient prompting, budgeting focuses on profiling and prioritizing prompt components based on their marginal value, ensuring that each token is used as effectively as possible.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Token Budgeting Process Flow**
-> *Follow the flow from profiling to reallocation.*
->
-> ```mermaid
-> flowchart LR
->   A[Profiling]
->   B[Analysis]
->   C[Prioritization]
->   D[Distribution]
->   E[Reallocation]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Token Budgeting Components**
-> *Identify the components and their value contributions.*
->
-> ```mermaid
-> graph TD
->   A[Instructions]
->   B[Taskspecs]
->   C[Examples]
->   D[HistContext]
->   E[CurrentExch]
->   F[QualityContribution]
->   G[EfficencyMetrics]
->   A -->|High Value| F
->   B -->|Medium Value| F
->   C -->|Critical Value| F
->   D -->|Low Value| F
->   E -->|Dynamic Realloc| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Budgeted vs Heuristic Methods**
-> *Compare budgeted allocation with heuristic methods.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Budgeted as B
->   participant Heuristic as H
->   B->>B: Systematic Profiling
->   B->>B: Set Priorities
->   B->>B: Dynamic Realloc
->   H->>H: First-Fit Allocation
->   H->>H: Recency-Based Rules
-> ```
 
 # Prompt Token Budgeting
 

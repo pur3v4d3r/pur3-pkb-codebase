@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,61 +166,6 @@ Understanding and optimizing chunking strategies is crucial for effective RAG sy
 > [!connection] **[[Retrieval-Augmented Generation]]** — *falls-under*
 > Chunking strategies for RAG are a foundational aspect of the broader Retrieval-Augmented Generation framework. They directly influence how information is retrieved and used to generate responses, impacting both the efficiency and effectiveness of the system. Understanding these strategies is essential for optimizing RAG systems as they underpin the balance between precision and completeness in information retrieval.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Chunking Strategies Overview**
-> *Identify the balance between precision and completeness.*
->
-> ```mermaid
-> graph TD
->   A[Coarse Chunks]
->   B[Fine Chunks]
->   C[Precision]
->   D[Completeness]
->   A -->|Preserves Context|-- D
->   B -->|Captures Specifics|-- C
-> ```
-
-
-> [!abstract] **Diagram 2 — Chunking Mechanism Flow**
-> *Follow the process from documents to chunks.*
->
-> ```mermaid
-> flowchart LR
->   A[Documents]
->   B[Fixed-Size Windows]
->   C[Semantic Boundaries]
->   D[Chunks]
->   A -->|Segmentation|-- B & C
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Comparison**
-> *Compare instructional design and legal document analysis.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Document Analysis]
->   C[Coarse Chunks]
->   D[Fine Chunks]
->   E[Broad Understanding]
->   F[Precision]
->   G[Comprehensive Info]
->   H[Necessary Points]
->   I[Context Retention]
->   J[Cross-References]
->   A -->|Prefer|-- C
->   B -->|Prefer|-- D
->   C -->|Supports|-- E & G
->   D -->|Ensures|-- F & H
->   C -->|Risk|-- I
->   D -->|Requires|-- J
-> ```
 
 # Chunking Strategies for RAG
 

@@ -19,7 +19,7 @@ subdomains:
   - security
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - instruction-hierarchy-conflict-synthetic-seed-2026-05-20
@@ -67,58 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Instruction Hierarchy Conflict Overview**
-> *Identify the sources of conflicting instructions.*
->
-> ```mermaid
-> graph TD
->   A[User Input] -->|Conflicting|
->   B[System Prompt] -->|Instructions|
->   C[Adversarial Content] -->|Override|
->   D[Model Decision]
->   A --> D
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
-> *Compare reflective and reactive thinking approaches.*
->
-> ```mermaid
-> graph TD
->   A[Reflective]
->   B[Reactive]
->   C[Instruction Hierarchy Conflict]
->   A -->|Prioritize Instructions|
->   B -->|Immediate Response|
->   A --> C
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — Security Contexts and Adversarial Inputs**
-> *Understand the impact of adversarial inputs in security contexts.*
->
-> ```mermaid
-> graph TD
->   A[Security Context]
->   B[System Instructions]
->   C[Adversarial Input]
->   D[Model Output]
->   A -->|Override|
->   B -->|Filter Out Harmful Content|
->   C --> D
-> ```
 
 # Instruction Hierarchy Conflict
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,43 +157,6 @@ By understanding the limitations of text-statistical approaches in spatial reaso
 > [!connection] **[[Temporal Reasoning in LLMs]]** — *contrasts-with*
 > While both involve reasoning about sequences of events, temporal and spatial reasoning differ fundamentally. Temporal reasoning focuses on the sequencing and timing of events over time, whereas spatial reasoning deals with geometric relationships between objects at a given moment or across different moments. This contrast highlights how LLMs must adapt their processing strategies to handle distinct types of sequential information.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Spatial Reasoning Process Flow**
-> *Follow the flow from text input to geometric inference.*
->
-> ```mermaid
-> flowchart LR
->   A[Text Input] --> B[Parsing]
->   B --> C[Linguistic Patterns]
->   C --> D[Geometric Inference]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Spatial Reasoning Performance Factors**
-> *Identify the factors affecting LLM spatial reasoning performance.*
->
-> ```mermaid
-> graph TD
->   A[Familiar Formats] --> B[Reliable]
->   C[Novel Formats] --> D[Deteriorates]
->   E[Linguistic Patterns] --> F[Performance]
->   G[Complex Configurations] --> H[Brittle]
-> ```
-
-
-> [!abstract] **Diagram 3 — Spatial Reasoning Applications**
-> *See the applications where spatial reasoning is critical.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Cohere Guidance]
->   C[Robotics Path Planning] --> D[Risk Verification]
->   E[Architectural Layout] --> F[Validation]
-> ```
 
 # Spatial Reasoning in LLMs
 

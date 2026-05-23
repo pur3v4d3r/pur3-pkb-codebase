@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,39 +156,6 @@ By integrating self-reflection with episodic memory and leveraging language-medi
 > [!connection] **[[Language-Mediated Learning]]** — *applies-to*
 > The Reflexion Agent Architecture exemplifies language-mediated learning by using verbal summaries as a key mechanism for reflection. This approach leverages the power of language to facilitate deeper understanding and correction, making it an ideal application domain for this concept.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reflexion Agent Process Flow**
-> *Follow the sequence from attempt to reflection and improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Attempt] --> B[Failure]
->   B --> C[Self-Reflection]
->   C --> D[Verbal Summary]
->   D --> E[Store in Memory]
->   E --> F[Inform Future Attempts]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Traditional Learning Methods**
-> *Compare Reflexion Agent's language-mediated learning to numerical feedback.*
->
-> ```mermaid
-> graph TD
->   A[Reflexion Agent]
->   B[Numerical Feedback]
->   C[Verbal Summaries]
->   D[Gradient Updates]
->   E[Reflection Models]
->   F[Reinforcement Signals]
->   A -->|Language-mediated Reflection| C
->   B -->|Numerical Feedback| D
->   A -.-> E
->   B -.-> F
-> ```
 
 # Reflexion Agent Architecture
 

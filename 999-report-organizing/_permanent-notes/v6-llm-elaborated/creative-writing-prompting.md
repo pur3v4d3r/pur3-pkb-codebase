@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,43 +170,6 @@ Empirical evidence supports the effectiveness of Creative Writing Prompting in p
 > [!connection] **[[Narrative Consistency Prompting]]** — *specializes*
 > Creative Writing Prompting specializes in Narrative Consistency Prompting by focusing on maintaining coherent narratives across iterative revisions. This specialization is critical as it ensures that the generated literary content not only innovates but also adheres to a consistent storyline, enhancing reader engagement and narrative integrity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Creative Writing Prompting Process Flow**
-> *Follow the steps from initial prompt to final output.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Model Generation]
->   B --> C[Critique and Revision]
->   C --> D[Refinement]
->   D --> E[Final Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Creative Writing vs Task-Oriented Prompting**
-> *Compare the approaches to understand their differences.*
->
-> ```mermaid
-> graph TD
->   A[Task-Oriented Prompting] -->|Exact Outputs| F[High Precision]
->   B[Creative Writing Prompting] -->|Iterative Generation| G[High Quality Literary Content]
-> ```
-
-
-> [!abstract] **Diagram 3 — Narrative Structure and Critique Cycle**
-> *Trace the cycle from initial generation to final refinement.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> InitialGeneration
->   InitialGeneration --> CritiqueAndRevision
->   CritiqueAndRevision --> Refinement
->   Refinement --> FinalOutput
->   FinalOutput --> [*]
-> ```
 
 # Creative Writing Prompting
 

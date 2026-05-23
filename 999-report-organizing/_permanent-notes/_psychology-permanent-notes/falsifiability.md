@@ -18,7 +18,7 @@ subdomains:
   - methodology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - falsifiability-synthetic-seed-2026-05-12
@@ -65,63 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Falsifiability vs Verificationism**
-> *Compare the criteria for scientific status between falsifiability and verificationism.*
->
-> ```mermaid
-> graph TD
->   A[Verificationism]
->   B[Falsifiability]
->   A -->|Conclusive Proof| C[(Non-scientific)]
->   B -->|Potential Refutation| D[(Scientific)]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hypothetico-Deductive Method**
-> *Follow the flow of hypothesis testing in the hypothetico-deductive method.*
->
-> ```mermaid
-> flowchart LR
->   A[Observation]
->   B[Hypothesis]
->   C[Prediction]
->   D[Test]
->   E[Refutation or Confirmation]
->   F[New Hypothesis]
->   A -->|Inspires| B
->   B -->|Derives| C
->   C -->|Guides| D
->   D -->|Results in| E
->   E -->|Leads to| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Falsifiability Process Flow**
-> *Understand the steps involved in applying falsifiability to a scientific theory.*
->
-> ```mermaid
-> flowchart LR
->   A[Propose Theory]
->   B[Formulate Conditions for Refutation]
->   C[Conduct Experiments or Observations]
->   D[Evaluate Results]
->   E[Refute or Retain Theory]
->   F[Revise and Repeat]
->   A -->|Specify Testable Predictions| B
->   B -->|Design Tests| C
->   C -->|Analyze Data| D
->   D -->|Determine Outcome| E
->   E -->|Iterate| F
-> ```
 
 # Falsifiability
 

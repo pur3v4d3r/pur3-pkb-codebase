@@ -17,7 +17,7 @@ subdomains:
   - system-dynamics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - stocks-and-flows-synthetic-seed-2026-04-25
@@ -65,43 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Stocks And Flows Overview**
-> *Identify the relationship between stocks and flows.*
->
-> ```mermaid
-> graph TD
->   A[Stock] -->|Inflow| B[Flow]
->   C[Stock] <--|Outflow| D[Flow]
-> ```
-
-
-> [!abstract] **Diagram 2 — Bathtub Model Example**
-> *Observe how inflow and outflow affect the water level.*
->
-> ```mermaid
-> graph TD
->   A[Inflow] --> B[Tub]
->   C[Tub] --> D[Outflow]
-> ```
-
-
-> [!abstract] **Diagram 3 — Atmospheric CO2 Levels**
-> *See how emissions impact atmospheric CO₂ levels.*
->
-> ```mermaid
-> graph TD
->   A[Emissions] --> B[CO2]
->   C[CO2] --> D[Levels]
-> ```
 
 # Stocks And Flows
 

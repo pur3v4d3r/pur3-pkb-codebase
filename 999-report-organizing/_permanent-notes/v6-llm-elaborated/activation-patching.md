@@ -68,15 +68,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,29 +161,6 @@ By integrating insights from both top-down and bottom-up processing perspectives
 > [!connection] **[[Iterative Activation Patching]]** — *specializes*
 > Activation patching is generalized to handle single interventions, whereas iterative activation patching involves repeated cycles of intervention and analysis. This specialization allows for a more nuanced understanding of how small changes propagate through the network over multiple layers or time steps.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Activation Patching Process Flow**
-> *Follow the steps from clean pass to output restoration.*
->
-> ```mermaid
-> flowchart LR
->   A[Clean Forward Pass] --> B[Corrupted Forward Pass]
->   B --> C[Patch Activations]
->   C --> D[Evaluate Output Restoration]
-> ```
-
-
-> [!abstract] **Diagram 2 — Causal vs Correlational Encoding**
-> *Compare the two approaches to understand their differences.*
->
-> ```mermaid
-> graph TD
->   A[Correlational Probing] -->|Identifies encoding| B[Incidental or Functional]
->   C[Activation Patching] -->|Demonstrates causality| D[Causally Relevant]
-> ```
 
 # Activation Patching
 

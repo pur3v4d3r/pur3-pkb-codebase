@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - metacognition-and-reading-foundational-report-2026-04-20
@@ -68,53 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Standard Levels Overview**
-> *Identify the different levels of coherence standards.*
->
-> ```mermaid
-> graph TD
->   A[Lexical]
->   B[Structural]
->   C[Informational]
->   A -->|Cohesion| B
->   B -->|Promises| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Monitoring Process Flow**
-> *Follow the flow of monitoring during reading.*
->
-> ```mermaid
-> flowchart LR
->   A[Engagement]
->   B[Evaluation]
->   C[Detection]
->   D[Intervention]
->   A -->|Set Standards| B
->   B -->|Monitor Comprehension| C
->   C -->|Detect Breakdowns| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Skill Bandwidth Mechanism**
-> *Compare the bandwidth of monitoring for different skill levels.*
->
-> ```mermaid
-> graph TD
->   A[Less Skilled]
->   B[More Skilled]
->   A -->|Lower Bandwidth|
->   B -->|Higher Bandwidth|
-> ```
 
 # Standard of Coherence
 

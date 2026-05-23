@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,42 +154,6 @@ Studies comparing models pretrained with DAPT followed by task-specific fine-tun
 > [!connection] **[[Task-Specific Fine-Tuning]]** — *contrasts-with*
 > Domain-Adaptive Pretraining (DAPT) contrasts with Task-Specific Fine-Tuning in that DAPT focuses on enhancing a model's domain-specific knowledge through additional pretraining before fine-tuning, whereas task-specific fine-tuning directly trains the model for specific tasks without an intermediate step of domain adaptation. This distinction is crucial as it highlights how DAPT can improve performance by better aligning the model with the target domain prior to task-specific training.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Domain-Adaptive Pretraining Process Flow**
-> *Follow the sequence from initial pretraining to task-specific fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Pretraining] --> B[Domain-Specific Pretraining]
->   B --> C[Task-Specific Fine-Tuning]
-> ```
-
-
-> [!abstract] **Diagram 2 — DAPT vs Initial Pretraining Comparison**
-> *Compare the starting point and training data of DAPT with initial pretraining.*
->
-> ```mermaid
-> graph TD
->   A[Initial Pretraining]
->   B[DAPT]
->   A -->|From Scratch| C[General Corpus]
->   B -->|Pretrained Model| D[Domain-Specific Text]
-> ```
-
-
-> [!abstract] **Diagram 3 — DAPT vs Task-Specific Fine-Tuning Comparison**
-> *Compare the training data and objective of DAPT with task-specific fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[DAPT]
->   B[Task-Specific Fine-Tuning]
->   A -->|Unlabelled Domain Text| C[Pretraining Objective]
->   B -->|Labeled Task Data| D[Fine-Tuning Objective]
-> ```
 
 # Domain-Adaptive Pretraining
 

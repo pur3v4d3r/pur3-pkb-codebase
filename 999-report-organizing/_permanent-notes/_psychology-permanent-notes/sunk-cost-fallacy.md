@@ -18,7 +18,7 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - sunk-cost-fallacy-synthetic-seed-2026-04-25
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sunk Cost Fallacy Mechanisms**
-> *Identify the two primary mechanisms driving the fallacy.*
->
-> ```mermaid
-> graph TD
->   A["Waste Aversion"] --> B["Continuing Investment"]
->   C["Consistency Intuitions"] --> D["Maintaining Coherence"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sunk Cost Fallacy in Business Context**
-> *Follow the decision flow from initial investment to continuation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Investment] --> B[Failing Project]
->   B --> C[Continuing Investment]
->   C --> D[Poor Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Sunk Cost Fallacy in Personal Life**
-> *Trace the decision-making process in personal relationships.*
->
-> ```mermaid
-> flowchart LR
->   A[Emotional Investment] --> B[Failing Relationship]
->   B --> C[Continuing Effort]
->   C --> D[Growing Dissatisfaction]
-> ```
 
 # Sunk Cost Fallacy
 

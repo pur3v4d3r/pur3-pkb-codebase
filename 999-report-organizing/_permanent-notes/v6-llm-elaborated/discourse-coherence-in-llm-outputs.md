@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,44 +152,6 @@ Understanding and addressing discourse coherence in LLM outputs is essential for
 > [!connection] **[[Local Coherence]]** — *contrasts-with*
 > While local coherence focuses on the smoothness of individual sentences within a paragraph, global discourse coherence ensures that the entire text maintains logical consistency and thematic relevance across multiple paragraphs. This distinction is crucial because assessing only local fluency metrics can overlook broader narrative inconsistencies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Local vs Global Coherence**
-> *Compare local coherence within paragraphs to global coherence across the text.*
->
-> ```mermaid
-> graph TD
->   A[Local Coherence]
->   B[Global Coherence]
->   A -->|Within Paragraphs| C[Fluency]
->   B -->|Across Text| D[Consistency]
-> ```
-
-
-> [!abstract] **Diagram 2 — Coherence in Long-form Outputs**
-> *Identify coherence issues that arise with increasing text length.*
->
-> ```mermaid
-> flowchart LR
->   A[Short Snippets] -->|Rare Coherence Issues|
->   B[Long Texts]
->   B -->|Common Coherence Failures| C[Contradictions, Drifts]
-> ```
-
-
-> [!abstract] **Diagram 3 — Strategies for Maintaining Coherence**
-> *Explore prompting strategies to ensure coherent long-form outputs.*
->
-> ```mermaid
-> graph TD
->   A[Outline-First Prompting]
->   B[Section-by-Section Generation]
->   C[Coherence Checkpoints]
->   A -->|Ensures Logical Flow|
->   D[Clear and Consistent Text]
-> ```
 
 # Discourse Coherence in LLM Outputs
 

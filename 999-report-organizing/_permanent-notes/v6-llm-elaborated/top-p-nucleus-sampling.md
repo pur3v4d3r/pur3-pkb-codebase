@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,55 +167,6 @@ Top-P Nucleus Sampling represents a sophisticated approach to balancing coherenc
 > [!connection] **[[Temperature Sampling]]** — *contrasts-with*
 > Top-P Nucleus Sampling and Temperature Sampling both aim to control text generation but do so through fundamentally different mechanisms. While Top-P adjusts the size of the candidate token pool based on cumulative probability thresholds, temperature sampling modifies the probabilities themselves by scaling them with a temperature parameter. This contrast is crucial for understanding how each method influences output diversity versus coherence.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Top-P Sampling Process Flow**
-> *Follow the steps from token probability sorting to renormalization.*
->
-> ```mermaid
-> graph TD
->   A[Sort Tokens by Probability]
->   B[Cumulative Sum Probabilities]
->   C[Determine Threshold p]
->   D[Identify Subset]
->   E[Renormalize Subset]
->   F[Sampling from Adjusted Distribution]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Fixed Top-K Sampling**
-> *Compare the static nature of top-k with the dynamic threshold p in Top-P.*
->
-> ```mermaid
-> graph TD
->   A[Top-K]
->   B[Fixed Candidate Set Size]
->   C[Top-P]
->   D[Dynamically Adjusted Candidate Set]
->   A -->|Static Method| B
->   C -->|Dynamic Threshold| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Token Pool Adjustment Based on Confidence**
-> *Observe how the nucleus size varies with model confidence.*
->
-> ```mermaid
-> graph TD
->   A[High Confidence]
->   B[Small Nucleus Size]
->   C[Low Confidence]
->   D[Larger Nucleus Size]
->   A -->|Peaky Distribution| B
->   C -->|Evenly Distributed Probabilities| D
-> ```
 
 # Top-P Nucleus Sampling
 

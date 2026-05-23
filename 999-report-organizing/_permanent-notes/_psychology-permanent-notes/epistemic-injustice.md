@@ -17,7 +17,7 @@ subdomains:
   - political-philosophy
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemic-injustice-synthetic-seed-2026-04-25
@@ -66,43 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemic Injustice Types Overview**
-> *Identify the two main forms of epistemic injustice.*
->
-> ```mermaid
-> graph TD
->   A[Epistemic Injustice] --> B[Testimonial]
->   A --> C[Hermeneutical]
-> ```
-
-
-> [!abstract] **Diagram 2 — Testimonial Injustice Process Flow**
-> *Follow the steps of testimonial injustice from prejudice to credibility assessment.*
->
-> ```mermaid
-> flowchart LR
->   Prejudice --> CredibilityAssessment[Reduced Credibility]
->   CredibilityAssessment --> Dismissal[Dismiss or Discredit]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hermeneutical Injustice Conceptual Framework**
-> *Understand the relationship between marginalized groups and collective conceptual resources.*
->
-> ```mermaid
-> graph TD
->   A[Marginalized Groups] --> B[Inadequate Resources]
->   B --> C[Difficulty in Interpretation]
-> ```
 
 # Epistemic Injustice
 

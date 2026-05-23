@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,44 +153,6 @@ By integrating insights from both educational psychology and artificial intellig
 > [!connection] **[[Working Memory]]** — *prerequisites*
 > Understanding the limitations of working memory is crucial for designing prompts that optimize learning. By considering how much information can be processed at once, educators can create content that avoids overwhelming learners and instead supports effective cognitive processing.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Educational Content Prompting Process Flow**
-> *Follow the flow from specifying behavioral goals to generating educational content.*
->
-> ```mermaid
-> flowchart LR
->   A[Specify Behavioral Goals] --> B[Design Prompts]
->   B --> C[Generate Educational Content]
->   C --> D[Review by Experts]
->   D --> E[Deploy Materials]
-> ```
-
-
-> [!abstract] **Diagram 2 — Behavioral Objectives vs Topic Coverage**
-> *Compare the focus of educational content prompting with general-purpose explanation.*
->
-> ```mermaid
-> graph TD
->   A[Behavioral Objectives] --> B[Specific Learning Outcomes]
->   C[Topic Coverage] --> D[Comprehensive Information]
->   E{Focus}
->   E -.->|Educational Content Prompting|A
->   E -.->|General-Purpose Explanation|C
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Applications**
-> *Identify the steps in instructional design using educational content prompting.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Learning Objectives] --> B[Prompt Model for Content]
->   B --> C[Generate Customized Modules]
->   C --> D[Test and Refine]
-> ```
 
 # Educational Content Prompting
 

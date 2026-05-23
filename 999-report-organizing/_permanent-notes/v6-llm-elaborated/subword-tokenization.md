@@ -68,15 +68,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,58 +170,6 @@ Subword tokenization stands out in its ability to bridge the gap between charact
 > [!connection] **[[Unigram Language Model Tokenization]]** — *contrasts-with*
 > Unlike Unigram Language Model Tokenization, which relies on probabilistic modeling to prune vocabulary based on corpus likelihood, subword tokenization focuses on decomposing words into smaller units. This distinction is crucial as it highlights the trade-offs between capturing global text statistics versus local word structure.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Subword Tokenization Mechanisms**
-> *Compare BPE, WordPiece, and Unigram methods.*
->
-> ```mermaid
-> graph TD
->   A[Input Text]
->   subgraph Byte-Pair Encoding (BPE)
->     B1[Merge Frequent Pairs]
->     B2[Tokenize]
->   end
->   subgraph WordPiece
->     C1[Maximize Likelihood]
->     C2[Introduce ## Continuation]
->     C3[Tokenize]
->   end
->   subgraph Unigram
->     D1[Train Probabilistic Model]
->     D2[Vocabulary Pruning]
->     D3[Tokenize]
->   end
-> ```
-
-
-> [!abstract] **Diagram 2 — Subword Tokenization Workflow**
-> *Follow the process from text to tokens.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Segment into Subwords]
->   B --> C[Generate Tokens]
->   C --> D[Train Model]
-> ```
-
-
-> [!abstract] **Diagram 3 — Subword Tokenization Comparison**
-> *Compare coverage and efficiency of methods.*
->
-> ```mermaid
-> graph TD
->   A[Coverage]
->   B[Efficiency]
->   C[Byte-Pair Encoding (BPE)] -->|Balanced| A
->   D[WordPiece] -->|High| A
->   E[Unigram] -->|High| A
->   F[BPE] -->|Moderate| B
->   G[WordPiece] -->|Low-Moderate| B
->   H[Unigram] -->|Moderate-High| B
-> ```
 
 # Subword Tokenization
 

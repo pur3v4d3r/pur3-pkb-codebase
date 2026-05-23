@@ -20,7 +20,7 @@ subdomains:
   - llm-training
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - catastrophic-forgetting-in-llms-synthetic-seed-2026-05-20
@@ -68,38 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Gradient Update Process**
-> *Follow the flow of gradient updates during fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Parameters] --> B[Loss Calculation]
->   B --> C[Gradient Computation]
->   C --> D[Parameter Adjustment]
->   D --> E[New Task Optimization]
->   E --> F[Previous Task Degradation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Performance Over Time**
-> *Observe the performance changes across different tasks over fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[Initial Performance] --> B[New Task Fine-Tuning]
->   B --> C[Performance Drop on Old Tasks]
->   C --> D[Stabilization with New Task]
->   D --> E[Overall Model Degradation]
-> ```
 
 # Catastrophic Forgetting in LLMs
 

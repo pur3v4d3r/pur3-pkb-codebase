@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,57 +164,6 @@ KV Cache Reuse Strategies represent a critical advancement in the optimization o
 > [!connection] **[[Transformer Architecture]]** — *applies-to*
 > KV Cache Reuse Strategies are directly applied to transformer models, which rely on self-attention mechanisms. By optimizing the reuse of key-value attention caches for common prefixes, these strategies enhance the efficiency and scalability of transformer architectures in handling large volumes of text data. Understanding KV cache reuse thus provides insights into how transformer models can be fine-tuned for specific use cases.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — KV Cache Reuse Mechanisms**
-> *Identify the different mechanisms of KV cache reuse.*
->
-> ```mermaid
-> graph TD
->   A[Prefix Caching]
->   B[Semantic Caching]
->   C[Shared Attention Prefixes]
->   A -->|Exact Matches| D[Reuse Precomputed Cache]
->   B -->|Similar Prompts| E[Extend Reuse Scope]
->   C -->|Common Segments| F[Direct Parameter Sharing]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prefix Caching Workflow**
-> *Follow the flow of prefix caching from computation to reuse.*
->
-> ```mermaid
-> flowchart LR
->   A[Compute KV Cache]
->   B[Store in Cache]
->   C[Identify Shared Prefix]
->   D[Reuse Cached KV]
->   A --> B
->   B -->|Shared Prefix Found?| C
->   C -->|Yes| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Multi-Tenant Cache Management**
-> *Understand cache isolation and security in multi-tenant deployments.*
->
-> ```mermaid
-> graph TD
->   A[Shared Prompt]
->   B[Tenant1 Cache]
->   C[Tenant2 Cache]
->   D[Isolation Policy]
->   E[Security Checks]
->   F[Cache Invalidation]
->   A -->|Tenant1| B
->   A -->|Tenant2| C
->   B -->|Isolated| D
->   C -->|Isolated| D
->   D -->|Secure Access| E
->   E -->|Stale Cache?| F
-> ```
 
 # KV Cache Reuse Strategies
 

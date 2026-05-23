@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,67 +162,6 @@ The integration of various forms of external memory in LLMs not only enhances th
 > [!connection] **[[Episodic Memory in Agents]]** — *supports*
 > Memory-augmented LLMs support episodic memory by enabling agents to recall specific past events and interactions. This capability is essential for maintaining continuity in personalized assistance, as it allows the system to reference previous conversations or actions when providing current responses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Memory-Augmented LLM Architecture Overview**
-> *Identify the components and their interactions.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[LLM Core]
->   C[External Memory]
->   D[Output]
->   A -->|Process Input| B
->   B -->|Store/Retrieve Data| C
->   B -->|Generate Response| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Memory Types in LLMs**
-> *Understand the different types of external memory used.*
->
-> ```mermaid
-> graph TD
->   A[Vector Stores]
->   B[Key-Value Databases]
->   C[Episodic Buffers]
->   D[Compressed Summary States]
->   subgraph External Memory Systems
->     A -->|Store and Retrieve Vectors|
->     B -->|Store and Retrieve Key-Value Pairs|
->     C -->|Maintain Temporal Context|
->     D -->|Condense Information for Storage|
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Standard LLM vs Memory-Augmented LLM**
-> *Compare the context handling capabilities of both models.*
->
-> ```mermaid
-> sequenceDiagram
->   participant StandardLLM as SLLM
->   participant MemoryAugmentedLLM as MALLM
->   participant User as U
->   U ->> SLLM: Request
->   SLLM -->> U: Response
->   alt Persistent State
->     U ->> MALLM: Request
->     MALLM -->|Store Data in External Memory|
->     MALLM -->> U: Response
->     loop Next Session
->       U ->> MALLM: New Request
->       MALLM -->|Retrieve Stored Data|
->       MALLM -->> U: Updated Response
->     end
->   else No Persistent State
->     U ->> SLLM: New Request
->     SLLM -->> U: Fresh Response
->   end
-> ```
 
 # Memory-Augmented LLMs
 

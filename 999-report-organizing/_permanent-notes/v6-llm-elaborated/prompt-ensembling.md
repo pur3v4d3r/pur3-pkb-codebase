@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -152,48 +148,6 @@ Prompt Ensembling exemplifies how leveraging the inherent variability in languag
 > [!connection] **[[Self-Consistency Sampling]]** — *contrasts-with*
 > While Prompt Ensembling relies on diverse prompts to decorrelate errors, Self-Consistency Sampling focuses on generating multiple samples from a single prompt to ensure consistency. This contrast highlights the different strategies for improving model outputs: one through diversity and the other through redundancy.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Ensembling Process Flow**
-> *Follow the flow from input to aggregated output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Generate Prompt1]
->   A --> C[Generate Prompt2]
->   B --> D[Process Prompt1]
->   C --> E[Process Prompt2]
->   D --> F[Aggregate Results]
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Diversity and Error Decorrelation**
-> *Observe how different prompts reduce error correlation.*
->
-> ```mermaid
-> graph TD
->   A[Prompt1] --> B[Error1]
->   C[Prompt2] --> D[Error2]
->   E[Prompt3] --> F[Error3]
->   G[Different Prompt Aspects] --> H[Decorrelated Errors]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Ensembling vs Boosting Comparison**
-> *Compare the principles of Prompt Ensembling and boosting.*
->
-> ```mermaid
-> sequenceDiagram
->   participant P as PromptEnsemble
->   participant B as Boosting
->   P->>P: Generate diverse prompts
->   P-->>P: Aggregate results
->   B->>B: Train model iteratively
->   B-->>B: Correct errors from previous iterations
-> ```
 
 # Prompt Ensembling
 

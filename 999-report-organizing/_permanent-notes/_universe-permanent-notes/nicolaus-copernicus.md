@@ -16,7 +16,7 @@ subdomains:
   - history-of-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - nicolaus-copernicus-synthetic-seed-2026-05-14
@@ -64,53 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Heliocentric Model Overview**
-> *Follow the arrows to see how planets orbit the Sun.*
->
-> ```mermaid
-> graph TD
->   A[Sun] --> B[Merc]
->   B --> C[Venus]
->   C --> D[Earth]
->   D --> E[Mars]
->   E --> F[Jupiter]
->   F --> G[Saturn]
-> ```
-
-
-> [!abstract] **Diagram 2 — Conceptual Shift in Astronomy**
-> *Compare the geocentric and heliocentric models.*
->
-> ```mermaid
-> graph TD
->   A[Geocentric] --> B[Earth at Center]
->   C[Heliocentric] --> D[Sun at Center]
->   E[Around Earth] --> F[Around Sun]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of Heliocentrism**
-> *Trace the path from observation to Copernicus's model.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Observer as O
->   participant Ptolemy as P
->   participant Copernicus as C
->   O->>P: Observes Planetary Motion
->   P-->>O: Geocentric Model with Epicycles
->   O->>C: Challenges Existing Paradigm
->   C-->>O: Heliocentric Model Simplifies Some Aspects
-> ```
 
 # Nicolaus Copernicus
 

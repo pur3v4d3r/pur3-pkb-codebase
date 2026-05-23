@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -176,41 +172,6 @@ Empirical studies have shown that retrieval augmentation techniques significantl
 > [!connection] **[[Hedging Calibration]]** — *contrasts-with*
 > While both claim strength calibration and hedging calibration aim to improve the reliability of AI-generated claims, they focus on different aspects. Claim strength calibration ensures that assertions match their evidentiary support, whereas hedging calibration adjusts language to reflect uncertainty without necessarily addressing underlying evidence levels.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Claim Strength Calibration Process**
-> *Follow the flow from input to output, noting key steps and adjustments.*
->
-> ```mermaid
-> graph TD
->   A[Input Data] --> B[Training]
->   B --> C[Evidentiary Support Analysis]
->   C --> D[Assertion Strength Alignment]
->   D --> E[Output Claims]
-> ```
-
-
-> [!abstract] **Diagram 2 — Claim Strength Calibration Errors**
-> *Identify the types of errors and their causes in the calibration process.*
->
-> ```mermaid
-> graph TD
->   A[Overstated Certainty] --> B[Abundant Confident Training Data]
->   C[Underestimated Findings] --> D[Rigorous but Less-Publicized Research]
->   E[Hedging Well-Established Findings] --> F[Controversy in Training Corpus]
-> ```
-
-
-> [!abstract] **Diagram 3 — Claim Strength Calibration vs Hedging Calibration**
-> *Compare the focus of claim strength calibration with hedging calibration.*
->
-> ```mermaid
-> graph TD
->   A[Claim Strength Calibration] --> B[Evidentiary Support]
->   C[Hedging Calibration] --> D[Uncertainty Adjustment]
-> ```
 
 # Claim Strength Calibration
 

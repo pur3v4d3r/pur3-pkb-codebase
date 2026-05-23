@@ -19,7 +19,7 @@ subdomains:
   - formal-logic
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - conditional-reasoning-synthetic-seed-2026-05-12
@@ -67,54 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Conditional Reasoning Flowchart**
-> *Follow the flow from 'if P then Q' to valid or invalid conclusions.*
->
-> ```mermaid
-> flowchart LR
->   A[If P then Q] --> B(Modus Ponens)
->   B --> C(Q is true)
->   A --> D(Affirming the Consequent)
->   D --> E(P is true, Invalid)
->   A --> F(Modus Tollens)
->   F --> G(Not-Q is true) --> H(Not-P is true)
->   A --> I(Denying the Antecedent)
->   I --> J(Not-P is true) --> K(Not-Q is true, Invalid)
-> ```
-
-
-> [!abstract] **Diagram 2 — Conditional Inference Patterns**
-> *Identify valid and invalid inference patterns from conditional statements.*
->
-> ```mermaid
-> graph TD
->   A[Modus Ponens] --> B(Valid)
->   C[Affirming the Consequent] --> D(Invalid)
->   E[Modus Tollens] --> F(Valid)
->   G[Demonishing the Antecedent] --> H(Invalid)
-> ```
-
-
-> [!abstract] **Diagram 3 — Conditional Reasoning Taxonomy**
-> *Understand the hierarchy of logical reasoning types, focusing on conditional statements.*
->
-> ```mermaid
-> graph TD
->   A[Logical Reasoning] --> B(Conditional)
->   B --> C(Modus Ponens)
->   B --> D(Affirming the Consequent)
->   B --> E(Modus Tollens)
->   B --> F(Denying the Antecedent)
-> ```
 
 # Conditional Reasoning
 

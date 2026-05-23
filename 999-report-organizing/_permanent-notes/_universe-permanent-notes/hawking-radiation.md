@@ -17,7 +17,7 @@ subdomains:
   - black-hole-thermodynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hawking-radiation-synthetic-seed-2026-05-14
@@ -64,49 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hawking Radiation Process Overview**
-> *Follow the flow from vacuum fluctuations to black hole evaporation.*
->
-> ```mermaid
-> flowchart LR
->   A[Quantum Vacuum Fluctuations] --> B[Particle-Antiparticle Pairs]
->   B --> C[Pair Annihilation Near Horizon]
->   C --> D[One Particle Falls In, One Escapes]
->   D --> E[Hawking Radiation Emission]
-> ```
-
-
-> [!abstract] **Diagram 2 — Black Hole Thermodynamics Laws**
-> *Trace the laws from zeroth to fourth, noting their parallels with classical thermodynamics.*
->
-> ```mermaid
-> graph TD
->   A[Zeroth Law] --> B[First Law]
->   B --> C[Second Law]
->   C --> D[Third Law]
->   D --> E[Fourth Law]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hawking Radiation vs Observed Radiation**
-> *Compare the sources and processes of Hawking Radiation with observed radiation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant H as HawkingRadiation
->   participant O as ObservedRadiation
->   H->>O: Quantum Effects in Curved Spacetime
->   O-->>H: Directly Observable Processes
-> ```
 
 # Hawking Radiation
 

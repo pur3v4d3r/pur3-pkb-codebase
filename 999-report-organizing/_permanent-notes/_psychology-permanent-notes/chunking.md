@@ -18,7 +18,7 @@ subdomains:
   - expertise-research
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - chunking-synthetic-seed-2026-04-24
@@ -66,53 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Chunking Process Flowchart**
-> *Follow the flow from input to chunk formation and retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Elements] --> B[Bind into Chunks]
->   B --> C[Store in Long-Term Memory]
->   C --> D[Retrieve Chunks]
->   D --> E[Rapid Processing]
-> ```
-
-
-> [!abstract] **Diagram 2 — Chunking Mechanism Overview**
-> *Trace the cycle from initial elements to chunk formation and back.*
->
-> ```mermaid
-> graph TD
->   A[Initial Elements] --> B[Meaningful Units]
->   B --> C[Long-Term Memory]
->   C --> D[Retrieve Chunks]
->   D --> E[Rapid Processing]
->   E --> F[Feedback Loop]
->   F --> G[Refinement and Updating]
->   G --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Chunking in Expertise Development**
-> *Identify the stages from novice to expert through chunking.*
->
-> ```mermaid
-> graph TD
->   A[Novice] --> B[Surface-Level Encoding]
->   B --> C[Begin Chunk Formation]
->   C --> D[Practice and Reinforcement]
->   D --> E[Automaticity and Strategic Thinking]
->   E --> F[Expert]
-> ```
 
 # Chunking
 

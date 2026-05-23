@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,33 +161,6 @@ Speculative Sampling exemplifies a broader trend in LLM research towards hybrid 
 > [!connection] **[[Beam Search Decoding]]** — *contrasts-with*
 > Speculative Sampling and Beam Search Decoding both aim to optimize LLM decoding but do so through fundamentally different mechanisms. While beam search generates multiple hypotheses for each token position and selects the most probable sequence based on cumulative probability, speculative sampling uses a draft model to propose tokens which are then verified by the target model in parallel. This contrast highlights how speculative sampling leverages model diversity rather than hypothesis generation to enhance efficiency.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Speculative Sampling Process Flow**
-> *Follow the flow from draft model proposal to target model verification.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Sequence] --> B[Draft Model]
->   B --> C[Candidate Tokens]
->   C --> D[Target Model]
->   D --> E[Verification]
->   E --> F[Accepted Token]
->   F --> G[Output Sequence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Beam Search Decoding**
-> *Compare speculative sampling's proposal-verification approach to beam search's hypothesis generation.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Draft Model Proposal] --> C[Target Model Verification]
->   D[Beam Search Hypothesis Generation] --> E[Cumulative Probability Scoring]
-> ```
 
 # Speculative Sampling
 

@@ -17,7 +17,7 @@ subdomains:
   - foundations-of-physics
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - wave-particle-duality-synthetic-seed-2026-05-14
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Wave Particle Duality Process Flow**
-> *Follow the flow from wave-like to particle-like behavior based on experimental setup.*
->
-> ```mermaid
-> flowchart TD
->   A[Start Experiment]
->   A --> B{Detectors Placed?}
->   B -->|No| C[Waves Interfere]
->   B -->|Yes| D[Particles Detected]
-> ```
-
-
-> [!abstract] **Diagram 2 — Wave Function Interpretation**
-> *Trace the relationship between wave functions and observable behaviors in quantum experiments.*
->
-> ```mermaid
-> graph TD
->   A[Wave Function]
->   A --> B[Interference Patterns]
->   A --> C[Discrete Events]
-> ```
-
-
-> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
-> *Compare theoretical predictions with experimental observations in quantum mechanics.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Theorist as T
->   participant Observer as O
->   T->>O: Predict using Wave Function
->   O-->>T: Observe Interference Patterns or Discrete Events
-> ```
 
 # Wave Particle Duality
 

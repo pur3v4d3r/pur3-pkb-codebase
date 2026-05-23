@@ -21,7 +21,7 @@ subdomains:
   - self-supervised-learning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - contrastive-learning-embeddings-synthetic-seed-2026-05-20
@@ -69,56 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Contrastive Learning Process Flow**
-> *Follow the flow from input to embedding space optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Data] --> B[Positive Pair Formation]
->   B --> C[Negative Pair Formation]
->   C --> D[InfoNCE Loss Calculation]
->   D --> E[Embedding Space Optimization]
-> ```
-
-
-> [!abstract] **Diagram 2 — Contrastive Learning Taxonomy**
-> *Identify the relationship between contrastive learning and other unsupervised paradigms.*
->
-> ```mermaid
-> graph TD
->   A[Unsupervised Learning]
->   B[Self-Supervised Learning]
->   C[Contrastive Learning Embeddings]
->   D[Supervised Learning]
->   A -->|includes| B
->   B -->|specific case of| C
->   A -->|excludes| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Positive vs Negative Pairing Mechanism**
-> *Observe how positive and negative pairs are formed during training.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InputData as I
->   participant PositivePairFormation as PPF
->   participant NegativePairFormation as NPF
->   participant InfoNCELossCalculation as IL
->   I->>PPF: Similar Inputs
->   PPF-->>IL: Positive Pair
->   I->>NPF: Random Samples
->   NPF-->>IL: Negative Pair
-> ```
 
 # Contrastive Learning Embeddings
 

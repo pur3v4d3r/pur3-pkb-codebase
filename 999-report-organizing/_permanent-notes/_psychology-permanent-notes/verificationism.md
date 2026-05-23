@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - verificationism-synthetic-seed-2026-05-01
@@ -67,52 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Verificationism Process Flow**
-> *Follow the flow from statement to verification/falsification.*
->
-> ```mermaid
-> flowchart LR
->   A[Statement] --> B[Empirical Verification]
->   B --> C[Meaningful]
->   A --> D[Falsification]
->   D --> E[Meaningless]
-> ```
-
-
-> [!abstract] **Diagram 2 — Verificationism vs Falsificationism Comparison**
-> *Compare the criteria for meaningful statements in both theories.*
->
-> ```mermaid
-> graph TD
->   A[Verificationism]
->   B[Falsificationism]
->   A -->|Verifiable| C[Meaningful]
->   B -->|Falsifiable| D[Meaningful]
-> ```
-
-
-> [!abstract] **Diagram 3 — Verificationist Criteria for Meaningfulness**
-> *Identify the conditions that make a statement meaningful.*
->
-> ```mermaid
-> graph TD
->   A[Empirical Verification]
->   B[Testable Observations]
->   C[Measurable Outcomes]
->   D[Verifiable Data]
->   A -->|Requires| B
->   A -->|Ensures| C
->   A -->|Based On| D
-> ```
 
 # Verificationism
 

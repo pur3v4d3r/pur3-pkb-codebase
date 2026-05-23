@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,51 +164,6 @@ Understanding the nuances of Plan-and-Execute Agents is crucial for designing co
 > [!connection] **[[Reactive Agents]]** — *contrasts-with*
 > Plan-and-Execute Agents contrast sharply with reactive systems in their approach to task execution. While reactive agents respond directly to sensory inputs, Plan-and-Execute Agents separate planning from execution, allowing for more strategic reasoning during the planning phase but potentially less adaptability during execution.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Plan-and-Execute Architecture Overview**
-> *Follow the flow from planning to execution.*
->
-> ```mermaid
-> graph TD
->   A[Planner]
->   B[Executor]
->   A -->|Generate Plan| C[Plan]
->   C -->|Handover| D{Execute}
->   D -->|Yes| E[Execution]
->   E --> F[Complete Task]
-> ```
-
-
-> [!abstract] **Diagram 2 — Planning and Execution Workflow**
-> *Trace the steps from task analysis to final execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Analysis] --> B[Scenario Evaluation]
->   B --> C[Optimization]
->   C --> D[Plan Generation]
->   D --> E{Replan Needed?}
->   E -->|No| F[Execution Start]
->   F --> G[Sequential Execution]
->   G --> H[Task Completion]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hierarchical Task Orchestration Example**
-> *Observe the breakdown of complex tasks into sub-tasks.*
->
-> ```mermaid
-> graph TD
->   A[Complex Task] --> B{Sub-Task1}
->   B --> C[Plan Sub-Task1]
->   C --> D[Execute Sub-Task1]
->   A --> E{Sub-Task2}
->   E --> F[Plan Sub-Task2]
->   F --> G[Execute Sub-Task2]
-> ```
 
 # Plan-and-Execute Agents
 

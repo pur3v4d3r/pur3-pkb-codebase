@@ -20,7 +20,7 @@ subdomains:
   - linear-algebra
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - embedding-space-geometry-synthetic-seed-2026-05-20
@@ -68,66 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Embedding Space Geometry Overview**
-> *Follow the flow from core concepts to practical implications.*
->
-> ```mermaid
-> graph TD
->   A[Core Explanation]
->   B[Theoretical Roots]
->   C[Practical Implications]
->   D[Key Distinctions]
->   E[Common Misconceptions]
->   A -->|Structural Properties| B
->   B -->|Optimization Methods| C
->   C -->|Retrieval Quality| D
->   D -->|Top-Down vs Bottom-Up| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Anisotropy and Isotropy Comparison**
-> *Compare the distribution of embeddings in anisotropic versus isotropic spaces.*
->
-> ```mermaid
-> graph TD
->   A[Isotropic Space]
->   B[Anisotropic Space]
->   C[Uniform Distribution]
->   D[Narrow Cones]
->   E[High Cosine Similarity]
->   F[Skewed Similarity Measures]
->   A -->|C|
->   B -->|D|
->   A -->|E|
->   B -->|F
-> ```
-
-
-> [!abstract] **Diagram 3 — Linear Analogy Structure Example**
-> *Trace the analogy path from 'king' to 'queen'.*
->
-> ```mermaid
-> flowchart LR
->   A[King]
->   B[Man]
->   C[Woman]
->   D[Queen]
->   A -->|Subtract|
->   B
->   C -->|Add|
->   A
->   A -->|Approximates|
->   D
-> ```
 
 # Embedding Space Geometry
 

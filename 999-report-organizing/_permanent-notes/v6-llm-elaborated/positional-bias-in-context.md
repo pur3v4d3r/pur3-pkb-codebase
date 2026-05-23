@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,53 +163,6 @@ Positional bias reflects a deep-seated statistical regularization learned by tra
 > [!connection] **[[Recency Bias in LLMs]]** — *specializes*
 > Positional bias encompasses both primacy and recency biases, with the latter being a specific instance where recent information is favored. This specialization highlights how positional bias can manifest differently depending on the sequence's end, offering insights into tailoring model inputs for optimal performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Positional Bias Overview**
-> *Identify the favored positions and biases.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   B[Primacy Bias]
->   C[Recency Bias]
->   D[Middle Loss]
->   A -->|Favors Start| B
->   A -->|Favors End| C
->   A -->|Less Attention| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Patterns and Encodings**
-> *Understand the interaction of attention patterns with positional encodings.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence]
->   B[Causal Attention]
->   C[Positional Encoding]
->   D[Attention Weights]
->   A -->|Causal Patterns| B
->   A -->|Positional Cues| C
->   B -->|Modulated by Encodings| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Training Data Influence**
-> *See how training data shapes positional biases.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[Critical Info at Start/End]
->   C[Learns Patterns]
->   D[Biased Attention]
->   A -->|Critical Info| B
->   B -->|Learned Patterns| C
->   C -->|Biases Persist| D
-> ```
 
 # Positional Bias in Context
 

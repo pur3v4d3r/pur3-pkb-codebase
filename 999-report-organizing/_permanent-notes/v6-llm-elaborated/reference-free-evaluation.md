@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,61 +160,6 @@ By focusing on intrinsic qualities rather than surface-level comparisons, refere
 > [!connection] **[[LLM Evaluator Bias]]** — *applies-to*
 > Reference-free evaluation is particularly susceptible to evaluator bias because it relies heavily on intrinsic qualities that can be subjective. Understanding and mitigating these biases is crucial for ensuring fair and accurate assessments. For instance, cross-validation using evaluators from different model families helps identify and mitigate biases introduced by specific preferences or limitations of the evaluator models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Reference-Free Evaluation Mechanisms**
-> *Identify the key mechanisms used in reference-free evaluation.*
->
-> ```mermaid
-> graph TD
->   A[LLM-as-Judge]
->   B[Quality Estimation Models]
->   C[Checklist-Based Verification]
->   A -->|Mechanism| D[Intrinsic Merit Assessment]
->   B -->|Mechanism| D
->   C -->|Mechanism| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Reference-Based Metrics**
-> *Compare reference-free evaluation to traditional metrics like BLEU.*
->
-> ```mermaid
-> graph TD
->   A[Reference-Free Evaluation]
->   B[Traditional Metrics (BLEU, ROUGE)]
->   A -->|Focus on Intrinsic Merit|
->   B -->|Surface Form Overlap with Reference|
->   A -->|No Gold Standard Required|
->   B -->|Depends on Single Reference Output|
->   A -->|Captures Nuanced Aspects of NLG|
->   B -->|Often Misses Quality Nuances|
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Understand the practical applications of reference-free evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Creative Writing]
->   B[Medical Analysis]
->   C[LLM-as-Judge]
->   D[Quality Estimation Models]
->   E[Checklist-Based Verification]
->   A -->|Application|
->   C
->   A -->|Application|
->   D
->   A -->|Application|
->   E
->   B -->|Application|
->   C
->   B -->|Application|
->   D
-> ```
 
 # Reference-Free Evaluation
 

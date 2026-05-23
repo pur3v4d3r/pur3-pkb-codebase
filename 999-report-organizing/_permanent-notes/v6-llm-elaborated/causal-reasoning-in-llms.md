@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,40 +161,6 @@ LLMs often confuse correlation with causation in tasks that require distinguishi
 > [!connection] **[[Chain-of-Thought Prompting]]** — *supports*
 > Chain-of-thought prompting can enhance causal reasoning in LLMs by guiding the model to articulate its thought process step-by-step. This approach helps mitigate issues like spurious correlations and encourages a more reflective, deliberative form of thinking that is crucial for accurate causal inference.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Causal Reasoning Process Flow**
-> *Follow the steps from pattern recognition to causal inference.*
->
-> ```mermaid
-> flowchart LR
->   A[Pattern Recognition] --> B[Linguistic Cues]
->   B --> C[Causal Inference]
->   C --> D[Predictions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Correlation vs Causation in LLMs**
-> *Compare the distinctions between correlation and causation.*
->
-> ```mermaid
-> graph TD
->   A[Correlation] -->|Observed Together| B[Lack of Direct Influence]
->   C[Causation] -->|Direct Influence| D[Underlying Structural Model]
-> ```
-
-
-> [!abstract] **Diagram 3 — LLM Limitations in Decision-making**
-> *Identify how LLMs can lead to flawed strategic planning.*
->
-> ```mermaid
-> flowchart LR
->   A[LLM Prediction] --> B[Confusion Between Correlation and Causation]
->   B --> C[Ineffective Strategies]
->   C --> D[Misguided Recommendations]
-> ```
 
 # Causal Reasoning in LLMs
 

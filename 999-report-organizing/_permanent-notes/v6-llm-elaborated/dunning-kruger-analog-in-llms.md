@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,51 +156,6 @@ By integrating insights from the Dunning-Kruger Analog in LLMs with broader cogn
 > [!connection] **[[LLM Hallucination]]** — *applies-to*
 > The Dunning-Kruger Analog in LLMs directly applies to the phenomenon of hallucinations, where models generate plausible but incorrect outputs. Both concepts highlight how overconfidence can arise from a lack of awareness about knowledge limitations, underscoring the need for better calibration techniques and data quality improvements.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Confidence vs Competence**
-> *Identify the mismatch between expressed confidence and actual competence.*
->
-> ```mermaid
-> graph TD
->   A[Confidence]
->   B[Competence]
->   A -->|Mismatch in Sparse Data Areas| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Data Density Impact on LLMs**
-> *Understand how sparse training data leads to overconfidence.*
->
-> ```mermaid
-> flowchart LR
->   A[High Data Density]
->   B[Low Data Density]
->   C[Overconfident Output]
->   D[Awareness of Limits]
->   A -->|Robust Knowledge Boundaries| D
->   B -->|Inaccurate Assertions| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Human vs LLM Metacognition**
-> *Compare human metacognitive errors with model data limitations.*
->
-> ```mermaid
-> graph TD
->   A[Humans]
->   B[LLMs]
->   C[Lack of Self-Awareness]
->   D[Sparse Training Data]
->   E[Overconfidence]
->   F[Inaccurate Assertions]
->   A -->|Cognitive Bias| C
->   B -->|Data Limitations| D
->   C -->|Overestimation| E
->   D -->|Hallucinations| F
-> ```
 
 # Dunning-Kruger Analog in LLMs
 

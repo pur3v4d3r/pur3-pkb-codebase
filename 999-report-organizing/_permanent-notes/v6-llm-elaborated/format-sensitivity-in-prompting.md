@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,55 +168,6 @@ Empirical evidence underscores the substantial impact of format sensitivity on L
 > [!connection] **[[Surface-Form Competition]]** — *applies-to*
 > Format sensitivity in prompting directly applies to the concept of surface-form competition, where different prompt structures can compete for attention and influence model outputs. Understanding how various formats signal task types helps explain why certain prompts might be more effective than others in guiding LLMs towards desired outcomes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Format Sensitivity Mechanism**
-> *Follow the flow from input format to output quality.*
->
-> ```mermaid
-> graph TD
->   A[Input Format]
->   B[Learned Associations]
->   C[Reasoning Strategy]
->   D[Output Quality]
->   A -->|Surface-Form Patterns| B
->   B -->|Task Type Recognition| C
->   C -->|Guides Output Formatting| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Format Sensitivity vs Semantic Content Changes**
-> *Compare the impact of format and semantic changes on LLM outputs.*
->
-> ```mermaid
-> graph TD
->   A[Semantic Content]
->   B[Structural Format]
->   C[LLM Output]
->   D[Performance Impact]
->   A -->|Unchanged| C
->   B -->|Varies| C
->   A -->|Changes| D
->   B -->|Varying Associations| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Format Sensitivity vs Task Complexity**
-> *Differentiate between format sensitivity and task complexity impacts.*
->
-> ```mermaid
-> graph TD
->   A[Task Complexity]
->   B[Structural Format]
->   C[LLM Output]
->   D[Performance Impact]
->   A -->|Increases/Decreases| C
->   B -->|Varies| C
->   A -->|Affects Difficulty| D
->   B -->|Influences Formatting| D
-> ```
 
 # Format Sensitivity in Prompting
 

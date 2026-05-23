@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - the-history-and-evolution-of-cognitive-load-theory-synthetic-seed-2026-04-25
@@ -65,58 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Load Types Overview**
-> *Identify the three types of cognitive loads and their interactions.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic]
->   B[Extraneous]
->   C[Germane]
->   A -->|Interacts with| B
->   A -->|Interacts with| C
->   B -->|Interacts with| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Working Memory and Long-Term Memory Interaction**
-> *Understand the flow of information between working memory and long-term memory.*
->
-> ```mermaid
-> sequenceDiagram
->   participant WM as WorkingMemory
->   participant LTM as LongTermMemory
->   WM->>LTM: Encoding (Germane Load)
->   LTM-->>WM: Retrieval (Intrinsic Load)
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Principles**
-> *See how instructional design can reduce extraneous load and enhance germane load.*
->
-> ```mermaid
-> graph TD
->   A[Worked Examples]
->   B[Solving Problems]
->   C[Integrated Multimedia]
->   D[Illustrative Texts]
->   E[Extraneous Load]
->   F[Germane Load]
->   A -->|Reduces| E
->   A -->|Enhances| F
->   B -->|Increases| E
->   C -->|Supports| F
->   D -->|Adds| E
-> ```
 
 # Cognitive Load Theory
 

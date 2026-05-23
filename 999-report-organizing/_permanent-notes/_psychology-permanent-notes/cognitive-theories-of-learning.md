@@ -16,7 +16,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-theories-of-learning-synthetic-seed-2026-04-24
@@ -64,52 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Learning Process Flow**
-> *Follow the flow from attention to retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Attention] --> B[Working Memory]
->   B --> C[Encoding]
->   C --> D[Long-Term Memory]
->   D --> E[Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Learning Components Hierarchy**
-> *Identify the hierarchical relationship between components.*
->
-> ```mermaid
-> graph TD
->   A[Cognitive Theories]
->   B[Schemas] --> A
->   C[Working Memory] --> A
->   D[Attention] --> A
->   E[Encoding] --> A
->   F[Retrieval] --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Strategies Flowchart**
-> *Trace the steps from attention to spaced retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Attention]
->   B[Multimedia Elements] --> A
->   C[Clear Instructions] --> A
->   D[Regular Breaks] --> A
->   E[Spaced Retrieval] --> A
-> ```
 
 # Cognitive Theories of Learning
 

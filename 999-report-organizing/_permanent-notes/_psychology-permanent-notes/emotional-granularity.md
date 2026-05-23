@@ -18,7 +18,7 @@ subdomains:
   - affective-science
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - emotional-granularity-synthetic-seed-2026-04-26
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Emotional Granularity Process Flow**
-> *Follow the flow from experience to labeling and regulation.*
->
-> ```mermaid
-> flowchart LR
->   A[Experience] --> B[Interoception]
->   B --> C[Prediction]
->   C --> D[Labeling]
->   D --> E[Regulation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotional Granularity Taxonomy**
-> *Navigate the hierarchy from broad to specific emotional states.*
->
-> ```mermaid
-> graph TD
->   A[Emotions]
->   B[Upset] --> A
->   C[Frustrated] --> B
->   D[Irritated] --> B
->   E[Resentful] --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Brain Regions Involved in Granularity**
-> *Identify the brain regions involved in interoceptive awareness.*
->
-> ```mermaid
-> graph TD
->   A[Interoception]
->   B[Insula] --> A
->   C[AnteriorCingulateCortex] --> A
-> ```
 
 # Emotional Granularity
 

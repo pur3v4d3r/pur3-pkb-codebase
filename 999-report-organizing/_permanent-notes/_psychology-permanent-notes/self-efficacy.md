@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-efficacy-synthetic-seed-2026-04-24
@@ -65,65 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Efficacy Sources Overview**
-> *Identify the four sources that build Self-Efficacy.*
->
-> ```mermaid
-> graph TD
->   A[Enactive Mastery]
->   B[Vicarious Experience]
->   C[Verbal Persuasion]
->   D[Affective States]
->   A -->|Contributes to|
->   B -->|Contributes to|
->   C -->|Contributes to|
->   D -->|Contributes to|
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Efficacy Mechanism Flow**
-> *Follow the flow from Self-Efficacy beliefs to behavioral outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[High Self-Efficacy]
->   B{Engage in Challenging Tasks}
->   C[Persist Through Difficulties]
->   D[Achieve Better Results]
->   A -->|Influences|
->   B -->|Leads to|
->   C -->|Contributes to|
->   D
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Efficacy and Goal Setting**
-> *Compare how Self-Efficacy affects goal setting.*
->
-> ```mermaid
-> graph TD
->   A[High Self-Efficacy]
->   B{Choose Challenging Goals}
->   C[Achieve Better Outcomes]
->   D[Low Self-Efficacy]
->   E{Avoid Challenging Goals}
->   F[Achieve Poorer Outcomes]
->   A -->|Influences|
->   B -->|Leads to|
->   C
->   D -->|Influences|
->   E -->|Leads to|
->   F
-> ```
 
 # Self-Efficacy
 

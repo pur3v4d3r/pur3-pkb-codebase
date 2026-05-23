@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,63 +167,6 @@ Prompt caching is one of the highest-leverage cost optimization techniques avail
 > [!connection] **[[Latency-Quality Tradeoff]]** — *contrasts-with*
 > While latency-quality tradeoffs often involve balancing response time against model accuracy, prompt caching strategies aim to reduce latency without necessarily compromising quality. By minimizing redundant computations through KV state reuse, these strategies can improve efficiency and maintain or even enhance the quality of responses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Caching Mechanism Overview**
-> *Follow the flow from static prefix to KV cache reuse.*
->
-> ```mermaid
-> graph TD
->   A[Static Prefix]
->   B[KV Cache]
->   C[Dynamic Suffix]
->   D[LLM Computation]
->   E[Response]
->   A -->|Prompt Structure| B
->   B -->|KV State Reuse| D
->   C -->|Input Variations| D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Prompt Caching Strategies**
-> *Compare prompt caching with other caching techniques.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Caching]
->   B[Full Response Caching]
->   C[Context Token Caching]
->   A -->|KV State Reuse|
->   B -->|Complete Output Storage|
->   C -->|Token Continuity|
->   A -.->|Static Prefixes|
->   B -.->|Entire Responses|
->   C -.->|Conversation Tokens|
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Structure and Cache Hit Rates**
-> *Identify how static prefixes impact cache hit rates.*
->
-> ```mermaid
-> graph TD
->   A[Static Prefix]
->   B[Dynamic Suffix]
->   C[KV Cache]
->   D[LLM Computation]
->   E[Cache Hit Rate]
->   F[Response Time]
->   G[Compute Cost]
->   A -->|Fixed Prompt Part| C
->   B -->|Variable Input| D
->   C -->|Reuse KV States| D
->   D --> E
->   E --> F
->   E --> G
-> ```
 
 # Prompt Caching Strategies
 

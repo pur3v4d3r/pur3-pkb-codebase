@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,43 +169,6 @@ The evidence from Anil et al.'s study reveals that many-shot jailbreaking exploi
 > [!connection] **[[Adversarial Suffix Attacks]]** — *contrasts-with*
 > While both many-shot jailbreaking and adversarial suffix attacks aim to override language model safety mechanisms, they differ in their approach. MSJ relies on a series of Q&A pairs to demonstrate compliance over time, whereas adversarial suffix attacks focus on appending specific text sequences that trigger unsafe responses immediately.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Many-Shot Jailbreaking Process Flow**
-> *Follow the sequence from crafting Q&A pairs to model compliance.*
->
-> ```mermaid
-> flowchart LR
->   A[Craft Q&A Pairs] --> B[Prepend Context]
->   B --> C[Pose Target Query]
->   C --> D[Model Compliance]
-> ```
-
-
-> [!abstract] **Diagram 2 — MSJ Vulnerability Factors**
-> *Identify the factors that increase model vulnerability to MSJ.*
->
-> ```mermaid
-> graph TD
->   A[Large Context Window] --> B[Extensive Q&A Pairs]
->   B --> C[In-Context Learning]
->   C --> D[Pattern Compliance]
-> ```
-
-
-> [!abstract] **Diagram 3 — MSJ vs Few-Shot Prompting**
-> *Compare the approach and impact of MSJ with few-shot prompting.*
->
-> ```mermaid
-> sequenceDiagram
->   participant MSJ as Many-Shot Jailbreaking
->   participant FS as Few-Shot Prompting
->   MSJ->>FS: Extensive Q&A Pairs
->   MSJ-->>Model: Override Safety Training
->   FS->>Model: Immediate Task Performance
-> ```
 
 # Many-Shot Jailbreaking
 

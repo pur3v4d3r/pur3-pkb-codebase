@@ -18,7 +18,7 @@ subdomains:
   - social-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - priming-synthetic-seed-2026-04-24
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Priming Process Overview**
-> *Follow the flow from initial exposure to faster recognition.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Exposure] --> B[Activation]
->   B --> C[Faster Recognition]
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic Memory Network Activation**
-> *Trace the activation spread from prime to related nodes.*
->
-> ```mermaid
-> graph TD
->   A[Prime] --> B[Related Node1]
->   A --> C[Related Node2]
->   B --> D[Further Nodes]
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Explicit vs Implicit Priming Comparison**
-> *Compare the mechanisms and effects of explicit and implicit priming.*
->
-> ```mermaid
-> classDiagram
->   class ExplicitPriming {
->     +Direct Instruction
->     +Awareness
->     +Deliberate Retrieval}
->   class ImplicitPriming {
->     +Unconscious Influence
->     +Automatic Associations
->     +Semantic Memory Activation}
-> ```
 
 # Priming
 

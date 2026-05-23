@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,41 +151,6 @@ Understanding attention sinks is crucial for optimizing transformer models, as i
 > [!connection] **[[Streaming LLM Architecture]]** — *supports*
 > Attention sinks are particularly relevant to streaming architectures in large language models (LLMs) because they can disrupt the stable attention distributions required for efficient context window management. Understanding and mitigating these artefacts is crucial for designing effective KV-cache strategies that support real-time, continuous processing without degradation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Attention Sink Mechanism**
-> *Follow the flow from input to sink formation.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence]
->   B[Softmax Normalization]
->   C[Excess Probability Mass]
->   D[Sink Tokens]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Sink Implications**
-> *Identify the impact on context window and model performance.*
->
-> ```mermaid
-> graph TD
->   A[Context Window]
->   B[KV-Cache Strategies]
->   C[Model Performance]
->   D[Catastrophic Collapse]
->   E[Flawed Optimizations]
->   F[Poor Efficiency]
->   A -->|Evict Sink Tokens| D
->   B -->|Preserve Stable Distribution| C
->   C -->|Ignore Sinks| E
->   E -->|Degradation| F
-> ```
 
 # Attention Sinks
 

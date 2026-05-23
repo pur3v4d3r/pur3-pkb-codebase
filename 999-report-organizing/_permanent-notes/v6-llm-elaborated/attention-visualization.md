@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,42 +168,6 @@ Studies using Attention Visualization have revealed functionally specialized att
 > [!connection] **[[Feature Attribution]]** — *contrasts-with*
 > Attention Visualization contrasts with Feature Attribution by focusing on the flow of information rather than individual feature contributions. While Feature Attribution highlights how specific features impact model outputs, Attention Visualization reveals the dynamic interplay between tokens during processing. This distinction is vital for understanding different aspects of transformer behavior.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Attention Mechanism Overview**
-> *Follow the flow from input to attention weights.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence] --> B[Token Embedding]
->   B --> C[Multi-Head Attention]
->   C --> D[Weight Matrix]
->   D --> E[Visualization]
-> ```
-
-
-> [!abstract] **Diagram 2 — Heatmap Visualization Example**
-> *Brighter colors indicate higher attention weights.*
->
-> ```mermaid
-> graph TD
->   A[Token1] -->|0.2| B[Token2]
->   A -->|0.8| C[Token3]
->   A -->|0.4| D[Token4]
-> ```
-
-
-> [!abstract] **Diagram 3 — Pattern Identification in Attention Maps**
-> *Identify diagonal, horizontal, and block patterns.*
->
-> ```mermaid
-> graph TD
->   A[Diagonal] --> B[Self-Attention]
->   C[Horizontal] --> D[Broad Context]
->   E[Block] --> F[Group Relationships]
-> ```
 
 # Attention Visualization
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,41 +153,6 @@ Studies measuring the correspondence between linguistic hedge strength and empir
 > [!connection] **[[Claim Strength Calibration]]** — *sibling*
 > Both Hedging Calibration and Claim Strength Calibration address the alignment of linguistic expressions with claim reliability. However, while Claim Strength Calibration encompasses a broader range of indicators for assessing overall claim strength, Hedging Calibration specifically focuses on how well linguistic hedges reflect true uncertainty levels.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Hedging Calibration Process Flow**
-> *Follow the flow from input to output, noting key steps and outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[LLM Processing]
->   B --> C[Hedge Generation]
->   C --> D[Evaluation]
->   D --> E[Output with Hedges]
->   E --> F[User Interpretation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hedging Calibration vs General Claim Strength**
-> *Compare the focus areas of Hedging Calibration and General Claim Strength.*
->
-> ```mermaid
-> graph TD
->   A[Hedging Calibration] --> B[Focus on Linguistic Hedges]
->   C[General Claim Strength] --> D[Broad Indicators for Reliability]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hedging Calibration Applications**
-> *Identify the applications where Hedging Calibration is crucial.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Ensuring Reliable Learning]
->   C[Legal Advice] --> D[Clear and Reliable Guidance]
-> ```
 
 # Hedging Calibration
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,51 +158,6 @@ By integrating induction heads into transformer architectures, researchers can s
 > [!connection] **[[Self-Attention Mechanisms]]** — *specializes*
 > Induction heads specialize in self-attention mechanisms by focusing on specific patterns of token recurrence. This specialization allows induction heads to enhance the model's ability to predict future tokens based on past occurrences, thereby enriching the overall pattern completion capabilities of transformer models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Induction Head Mechanism Overview**
-> *Follow the flow from previous token to induction head.*
->
-> ```mermaid
-> graph TD
->   A[Previous Token]
->   B[Current Token]
->   C[Follower Tokens]
->   D[Similar Previous Occurrences]
->   E[Identified Similarity]
->   F[Induction Head]
->   A -->|Attend from token to preceding token|
->   B -->|Identify similar previous occurrences|
->   D
->   D -->|Use identified similarity|
->   F
->   F -->|Attend from current token to follower tokens|
->   C
-> ```
-
-
-> [!abstract] **Diagram 2 — Induction Head vs Self-Attention Mechanisms**
-> *Compare the focus of induction heads and self-attention.*
->
-> ```mermaid
-> graph TD
->   A[Self-Attention]
->   B[Induction Heads]
->   C[All Tokens in Sequence]
->   D[Tokens Following Previous Occurrences]
->   E[General Pattern Completion]
->   F[Specific Pattern Completion]
->   A -->|Attend to|
->   C
->   B -->|Focus on|
->   D
->   A -->|Supports|
->   E
->   B -->|Enhances|
->   F
-> ```
 
 # Induction Heads
 

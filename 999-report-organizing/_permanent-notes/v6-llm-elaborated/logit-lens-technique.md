@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,45 +159,6 @@ By providing insights into the progressive refinement of token predictions acros
 > [!connection] **[[Layer-wise Token Prediction]]** — *instance-of*
 > The Logit Lens Technique is an instance of layer-wise token prediction, which involves analyzing how tokens are predicted at each layer in a neural network. This relationship highlights the technique's role as a specific method within this broader category, emphasizing its focus on tracking predictions through layers rather than just final outputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Logit Lens Process Flow**
-> *Follow the flow from input to final prediction refinement.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Layer1]
->   B --> C[Layer2]
->   C --> D[Layer3]
->   D --> E[Final Prediction]
-> ```
-
-
-> [!abstract] **Diagram 2 — Token Prediction Evolution**
-> *Track how token predictions evolve through layers.*
->
-> ```mermaid
-> graph TD
->   A[Initial Guess] --> B[Middle Layer]
->   B --> C[Late Refinement]
-> ```
-
-
-> [!abstract] **Diagram 3 — Layer Contribution to Prediction**
-> *Identify which layers contribute most to prediction refinement.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Input as I
->   participant Layer1 as L1
->   participant Layer2 as L2
->   participant FinalPrediction as FP
->   I->>L1: Hidden State
->   L1->>L2: Refinement
->   L2-->>FP: Prediction
-> ```
 
 # Logit Lens Technique
 

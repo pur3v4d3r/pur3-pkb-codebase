@@ -18,7 +18,7 @@ subdomains:
   - formal-epistemology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - inductive-confirmation-synthetic-seed-2026-05-12
@@ -65,45 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Inductive Confirmation Process Flow**
-> *Follow the flow from evidence to hypothesis confirmation.*
->
-> ```mermaid
-> flowchart LR
->   A[Collect Evidence] --> B[Evaluate Evidence]
->   B --> C[Adjust Belief]
->   C --> D[Test Hypothesis]
->   D --> E[Confirm Probability]
-> ```
-
-
-> [!abstract] **Diagram 2 — Inductive vs Deductive Confirmation Comparison**
-> *Compare the probabilistic nature of inductive confirmation with deductive certainty.*
->
-> ```mermaid
-> graph TD
->   A[Deductive Confirmation] -->|Absolute Certainty| B[True Premises]
->   C[Inductive Confirmation] -->|Probabilistic Support| D[Evidence Increases Likelihood]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Inductive Confirmation**
-> *Identify the differences between reflective and reactive thinking processes.*
->
-> ```mermaid
-> graph TD
->   A[Reflective Thinking] -->|Thorough Analysis| B[Robust Hypothesis]
->   C[Reactive Thinking] -->|Quick Conclusions| D[Flawed Beliefs]
-> ```
 
 # Inductive Confirmation
 

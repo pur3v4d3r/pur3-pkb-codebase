@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,30 +154,6 @@ Understanding Confirmation Bias in Chain of Thought is pivotal for harnessing th
 > [!connection] **[[Chain-of-Thought Prompting]]** — *applies-to*
 > Confirmation Bias in Chain of Thought specifically applies to the process of chain-of-thought prompting, where initial prompts or intermediate steps can set a direction that subsequent reasoning heavily favors. Understanding this connection helps designers and users anticipate and mitigate biases by crafting more balanced and comprehensive prompts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Confirmation Bias Process Flow**
-> *Follow the steps from initial premise to biased conclusion.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Premise] --> B[Evidence Selection]
->   B --> C[Chain Generation]
->   C --> D[Biased Conclusion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Chain-of-Thought Bias**
-> *Trace the stages from premise to biased reasoning.*
->
-> ```mermaid
-> flowchart LR
->   A[Premise] --> B[Evidence]
->   B --> C[Supporting Arguments]
->   C --> D[Biased Conclusion]
-> ```
 
 # Confirmation Bias in Chain of Thought
 

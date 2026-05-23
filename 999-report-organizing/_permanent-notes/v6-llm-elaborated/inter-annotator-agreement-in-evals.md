@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,37 +153,6 @@ Understanding and improving inter-annotator agreement (IAA) is essential for enh
 > [!connection] **[[Human vs. LLM Agreement]]** — *contrasts-with*
 > Inter-annotator agreement (IAA) and human vs. LLM agreement both assess the reliability of evaluations in language model assessments, but they focus on different aspects. IAA measures consistency among human evaluators, highlighting issues with subjective judgment formation. In contrast, human vs. LLM agreement evaluates how well a machine can replicate or predict human judgments, focusing on the alignment between human and artificial intelligence systems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — IAA Levels for Different Criteria**
-> *Compare IAA levels between holistic and categorical evaluations.*
->
-> ```mermaid
-> graph TD
->   A[Holistic Scale]
->   B[Categorical Criteria]
->   A -->|Cohen's Kappa: 0.3-0.5| C[Moderate Agreement]
->   B -->|Cohen's Kappa > 0.7| D[High Agreement]
-> ```
-
-
-> [!abstract] **Diagram 2 — IAA in Evaluation Process**
-> *Follow the flow from model output to final evaluation report.*
->
-> ```mermaid
-> flowchart LR
->   A[Model Output]
->   B[Evaluation Rubric]
->   C[Human Annotators]
->   D[Cohen's Kappa Calculation]
->   E[Final Report]
->   A -->|Rated by| C
->   C -->|Using| B
->   C -->|IAA Calculated| D
->   D -->|Included in| E
-> ```
 
 # Inter-Annotator Agreement
 

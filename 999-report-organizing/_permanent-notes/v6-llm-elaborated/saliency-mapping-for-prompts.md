@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,31 +162,6 @@ Saliency Mapping for Prompts has proven particularly effective in prompt debuggi
 > [!connection] **[[Feature Attribution in LLMs]]** — *specializes*
 > Saliency mapping for prompts is a specialized application of feature attribution techniques tailored to the input tokens of language models. This specialization allows it to provide granular insights into how specific words or phrases influence model outputs, making it particularly useful in prompt engineering contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Saliency Mapping Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Tokens] --> B[Token Embeddings]
->   B --> C[Gradient Calculation]
->   C --> D[Aggregation]
->   D --> E[Saliency Scores]
-> ```
-
-
-> [!abstract] **Diagram 2 — Saliency Mapping Applications**
-> *Identify the applications and their focus areas.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Debugging] -->|Highlights influential tokens| B[Efficient Refinement]
->   C[Prompt Compression] -->|Removes low salience tokens| D[Simplification]
->   E[Adversarial Analysis] -->|Identifies problematic elements| F[Mitigation Strategies]
-> ```
 
 # Saliency Mapping for Prompts
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,51 +169,6 @@ CRAG's innovative approach to enhancing retrieval quality not only improves the 
 > [!connection] **[[Web Search Fallback]]** — *applies-to*
 > CRAG applies to Web Search Fallback scenarios by providing an alternative mechanism for improving retrieval quality when local sources are insufficient. This application is particularly useful in enterprise settings where access to external web searches may be restricted, necessitating the design of corrective actions that do not rely on such fallbacks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — CRAG Process Flow**
-> *Follow the flow from query to response generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Retreive Documents]
->   B --> C[Evaluate Relevance]
->   C -->|Below Threshold| D[Corrective Actions]
->   C -->|Above Threshold| E[Generate Response]
->   D --> F[Web-Search or Filter]
->   F --> G[Re-evaluate]
->   G -->|Above Threshold| H[Generate Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — CRAG vs Standard RAG Comparison**
-> *Compare the steps in CRAG and standard RAG processes.*
->
-> ```mermaid
-> graph TD
->   A[Query] --> B[Retreive Documents]
->   B --> C[Evaluate Relevance]
->   C -->|Below Threshold| D[Corrective Actions]
->   C -->|Above Threshold| E[Generate Response]
->   F[Standard RAG Query] --> G[Retreive Documents]
->   G --> H[Generate Response]
-> ```
-
-
-> [!abstract] **Diagram 3 — CRAG Quality Assessment Mechanism**
-> *Trace the evaluation and corrective actions in CRAG.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Retreive Documents]
->   B --> C[Evaluate Relevance]
->   C -->|Below Threshold| D[Web-Search or Filter]
->   D --> E[Re-evaluate]
->   E -->|Above Threshold| F[Generate Response]
->   C -->|Above Threshold| G[Generate Response]
-> ```
 
 # Corrective RAG Pipeline
 

@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -72,45 +72,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Assessment for Autonomy Process Flow**
-> *Follow the steps from initial feedback to self-evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Provide Clear Criteria] --> B[Model Evaluation]
->   B --> C[Reduce External Feedback]
->   C --> D[Increase Self-Assessment Opportunities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Assessment for Autonomy Mechanism Overview**
-> *Trace the transfer of evaluative function from assessors to learners.*
->
-> ```mermaid
-> graph TD
->   A[External Feedback] --> B[Guided Practice]
->   B --> C[Internalization of Criteria]
->   C --> D[Self-Assessment]
-> ```
-
-
-> [!abstract] **Diagram 3 — Assessment for Autonomy in Educational Contexts**
-> *Compare individual and collective approaches to self-evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Individual Self-Assessment] --> B[Shared Rubrics]
->   C[Peer Evaluation] --> D[Collective Goal-Setting]
-> ```
 
 # Assessment for Autonomy
 

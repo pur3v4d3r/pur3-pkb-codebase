@@ -19,7 +19,7 @@ subdomains:
   - interpretability
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attention-sink-phenomenon-synthetic-seed-2026-05-20
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attention Sink Process Flow**
-> *Follow the flow from input to attention distribution.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Sequence] --> B[Initial Tokens]
->   B --> C[High Attention Weights]
->   C --> D[Consistent Across Layers]
->   D --> E[Maintain Coherence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Streaming Inference Impact**
-> *See how disrupting initial tokens affects model performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Tokens] --> B[Structural Anchors]
->   B --> C[Prioritize Context]
->   D[Disrupt Initial Tokens] --> E[Degraded Performance]
->   F[Preserve Sink Tokens] --> G[Optimal Streaming]
-> ```
-
-
-> [!abstract] **Diagram 3 — Context Window Management**
-> *Understand the role of initial tokens in context window handling.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Tokens] --> B[Prioritize Context]
->   C[Extend Context Window] --> D[Disrupt Anchors]
->   E[Careful Management] --> F[Maintain Coherence]
-> ```
 
 # Attention Sink Phenomenon
 

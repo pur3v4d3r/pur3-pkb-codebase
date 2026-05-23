@@ -18,7 +18,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - linguistic-relativity-synthetic-seed-2026-05-01
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Linguistic Relativity Hypothesis Overview**
-> *Follow the flow from language structure to cognitive processes.*
->
-> ```mermaid
-> graph TD
->   A[Language Structure] --> B[Cognitive Processes]
->   B --> C[Thought Determinism]
->   B --> D[Attention & Categorization]
->   B --> E[Memory Influence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Color Perception Experiment Flow**
-> *Trace the steps from task setup to outcome analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Setup] --> B[Participant Selection]
->   B --> C[Language Differences]
->   C --> D[Time Pressure]
->   D --> E[Categorization Speed]
-> ```
-
-
-> [!abstract] **Diagram 3 — Linguistic Relativity Applications**
-> *Identify the applications and their corresponding cognitive impacts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Learning Outcomes]
->   C[Marketing Strategies] --> D[Consumer Behavior]
->   E[Language Education] --> F[Cognitive Retention]
->   G[International Business] --> H[Cultural Resonance]
-> ```
 
 # Linguistic Relativity
 

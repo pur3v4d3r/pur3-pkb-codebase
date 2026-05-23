@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,60 +160,6 @@ The concept of working memory proxies in LLMs underscores a broader trend in AI 
 > [!connection] **[[Working Memory]]** — *prerequisite*
 > Understanding human working memory is foundational to grasping how LLMs simulate this cognitive function. The limitations and mechanisms of human working memory provide critical insights into the design and optimization of working memory proxies in AI systems, highlighting key principles such as managing cognitive load.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Working Memory Proxy Mechanism**
-> *Follow the flow from input to output, noting how intermediate steps are managed.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Chain-of-Thought Prompting]
->   C[Intermediate Steps]
->   D[Output]
->   A --> B
->   B -->|Externalize Steps| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Reasoning Process Flow**
-> *Trace the sequence of steps in a reasoning task, highlighting how state is maintained.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Task Breakdown]
->   C[Intermediate Computation]
->   D[Result Aggregation]
->   E[End]
->   A --> B
->   B -->|Maintain State| C
->   C -->|Sequential Processing| D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — Human vs AI Working Memory**
-> *Compare the human and LLM working memory processes, noting key differences.*
->
-> ```mermaid
-> graph TD
->   A[Human WM]
->   B[Ai WM Proxy]
->   C[Maintain State]
->   D[Metacognitive Monitoring]
->   E[Error Propagation]
->   F[No Correction]
->   A -->|Maintain State| C
->   A -->|Monitor and Correct| D
->   B -->|Maintain State| C
->   B -->|No Metacognition| F
->   C -->|Correct Errors| D
->   C -->|Propagate Errors| E
-> ```
 
 # Working Memory Proxies in LLMs
 

@@ -16,7 +16,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - encoding-variability-synthetic-seed-2026-04-25
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Encoding Variability Process Flow**
-> *Follow the flow from initial study to enhanced recall.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Study] --> B[Varying Contexts]
->   B --> C[Multiple Retrieval Paths]
->   C --> D[Enhanced Recall]
-> ```
-
-
-> [!abstract] **Diagram 2 — Encoding Variability in Educational Settings**
-> *Identify the different contexts and methods used to enhance learning.*
->
-> ```mermaid
-> graph TD
->   A[Online Study] --> B[Offline Study]
->   C[Video Learning] --> D[Diagram Review]
->   E[Morning Home Study] --> F[Eve Coffee Shop Review]
-> ```
-
-
-> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load Distinction**
-> *Compare intrinsic and extraneous variations in cognitive load.*
->
-> ```mermaid
-> classDiagram
->   class Intrinsic{
->     +Meaningful Variation
->     +Enhances Memory
->   }
->   class Extraneous{
->     +Irrelevant Variations
->     +Increases Cognitive Burden
->   }
-> ```
 
 # Encoding Variability
 

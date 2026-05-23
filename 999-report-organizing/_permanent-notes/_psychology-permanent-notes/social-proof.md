@@ -17,7 +17,7 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - social-proof-synthetic-seed-2026-04-25
@@ -66,45 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Social Proof Mechanism Overview**
-> *Follow the flow from observation to behavior change.*
->
-> ```mermaid
-> flowchart LR
->   A[Observation] --> B[Evaluation]
->   B --> C[Decision]
->   C --> D[Behavior Change]
-> ```
-
-
-> [!abstract] **Diagram 2 — Social Proof in Social Networks**
-> *See how behaviors spread through a network.*
->
-> ```mermaid
-> graph TD
->   A[Individual] --> B[Neighbors]
->   B --> C[Community]
->   C --> D[Wider Network]
-> ```
-
-
-> [!abstract] **Diagram 3 — Social Proof Applications**
-> *Identify the different contexts where social proof is applied.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] --> B[Public Policy]
->   B --> C[Marketing]
-> ```
 
 # Social Proof
 

@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,35 +170,6 @@ The key claim about Superalignment highlights its qualitative shift from convent
 > [!connection] **[[Constitutional AI Principles]]** — *supports*
 > Superalignment supports Constitutional AI Principles by providing a framework for ensuring that superintelligent systems adhere to foundational principles designed to align with human values. This connection is vital as it ensures that the scalable oversight mechanisms developed in Superalignment are grounded in ethical and moral guidelines.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Superalignment vs Conventional Alignment**
-> *Compare the oversight mechanisms required for each approach.*
->
-> ```mermaid
-> graph TD
->   A[Conventional Alignment]
->   B[Superalignment]
->   A -->|Direct Human Evaluation| C[Human Oversight]
->   B -->|Robust Mechanisms| D[Scalable Oversight]
-> ```
-
-
-> [!abstract] **Diagram 2 — Iterative Superalignment Process**
-> *Follow the feedback loop from current AI to future superintelligent systems.*
->
-> ```mermaid
-> flowchart LR
->   A[Current AI]
->   B[Evaluate Potential Misalignments]
->   C[Preemptive Adjustments]
->   D[Future Superintelligent AI]
->   A --> B
->   B --> C
->   C --> D
-> ```
 
 # Superalignment
 

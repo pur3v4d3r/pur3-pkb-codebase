@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,41 +157,6 @@ Experiments comparing standard prompting with information-density-optimized stra
 > [!connection] **[[Verbosity Control in Prompts]]** — *specializes*
 > Information Density Optimization specializes Verbosity Control in Prompts by focusing specifically on crafting prompts that minimize unnecessary verbosity while maximizing informational content. This specialization ensures that language models are guided to produce outputs that are both concise and rich in information, enhancing the overall quality of generated text.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Information Density Optimization Process Flow**
-> *Follow the flow from prompt to optimized output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Crafting Instructions]
->   B --> C[Language Model Processing]
->   C --> D[Output Generation]
->   D --> E[Optimized Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Information Density vs Compression Ratio**
-> *Compare the focus of each technique on textual outputs.*
->
-> ```mermaid
-> graph TD
->   A[Information Density Optimization] -->|Maximize Info/Token| B[Efficient NLG]
->   C[Compression Techniques] -->|Reduce Size Generically| D[General Text Reduction]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Areas of IDO**
-> *Identify the key areas where Information Density Optimization is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Reduce Redundancy| B[Enhance Clarity]
->   C[Technical Documentation] -->|Minimize Boilerplate| D[Efficient Access]
->   E[Legal Briefs] -->|Eliminate Hedging| F[Concise Robustness]
-> ```
 
 # Information Density Optimization
 

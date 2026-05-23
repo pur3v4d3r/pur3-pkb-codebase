@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -67,55 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Explanatory Style Dimensions**
-> *Identify the dimensions of internality, stability, and globality.*
->
-> ```mermaid
-> graph TD
->   A[Externality]
->   B[Internality] --> C[Stability]
->   D[Unstable] --> E[Global]
->   F[Pervasive] --> G[Specific]
->   H[Stable] --> I[Global]
->   J[Pervasive] --> K[Specific]
-> ```
-
-
-> [!abstract] **Diagram 2 — Optimistic vs Pessimistic Style**
-> *Compare optimistic and pessimistic explanatory styles.*
->
-> ```mermaid
-> flowchart LR
->   A[Failure]
->   B[External] --> C[Unstable] --> D[Specific]
->   E[Internality] --> F[Stable] --> G[Pervasive]
->   H[Optimism] --> I[Effort]
->   J[Pessimism] --> K[Learned Helplessness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Attribution Process Flow**
-> *Follow the cognitive process of generating causal attributions.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Event
->   participant Internality
->   participant Stability
->   participant Globality
->   Event->>Internality: Evaluate Internal/External Cause
->   Internality->>Stability: Assess Fixed/Variable Over Time
->   Stability->>Globality: Determine Broad/Specific Impact
-> ```
 
 # Explanatory Style
 

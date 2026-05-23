@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -69,58 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — External Regulation Mechanism**
-> *Follow the flow from external contingencies to behavior reinforcement.*
->
-> ```mermaid
-> graph TD
->   A[External Contingency]
->   B[Reward/Punishment]
->   C[Behavior]
->   D[Reinforcement]
->   A -->|Triggers| B
->   B -->|Influences| C
->   C -->|Produces| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Motivational Styles**
-> *Compare the levels of internalization across different motivational styles.*
->
-> ```mermaid
-> graph TD
->   A[External Regulation]
->   B[Introjection]
->   C[Identification]
->   D[Integration]
->   A -->|Least Internalized| B
->   B -->|More Internalized| C
->   C -->|Most Internalized| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Operant Conditioning in External Regulation**
-> *Trace the cycle from behavior to reinforcement and back.*
->
-> ```mermaid
-> graph TD
->   A[Behavior]
->   B[Reward/Punishment]
->   C[Reinforcement]
->   D[Future Behavior]
->   A -->|Produces| B
->   B -->|Influences| C
->   C -->|Triggers| D
-> ```
 
 # External Regulation
 

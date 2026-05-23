@@ -67,15 +67,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,43 +170,6 @@ Understanding prompt leaking requires a nuanced approach that considers both the
 > [!connection] **[[Goal Hijacking]]** — *contrasts-with*
 > Unlike goal hijacking, which involves altering the model’s behavior to pursue unintended objectives, prompt leaking is about unintentional exposure of system instructions or data. This distinction underscores that security measures must address both types of vulnerabilities separately.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Leaking Mechanisms**
-> *Follow the flow from input to output, noting where leakage occurs.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[System]
->   B --> C[Model Processing]
->   C --> D[Output Response]
->   E[Error Message] --> F[Leakage]
->   G[Reasoning Chain] --> H[Leakage]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Leaking vs Direct Injection**
-> *Compare the paths of natural leakage and deliberate injection.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Content]
->   B[Natural Leakage] -->|Output| C[Model Response]
->   D[Direct Injection] -->|Context Window| E[Model Response]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Leaking vs Goal Hijacking**
-> *Identify the differences in outcomes between leakage and hijacking.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Content]
->   B[Leakage] -->|Output| C[Confidential Data Disclosure]
->   D[Hijacking] -->|Behavior Change| E[Intended Function Alteration]
-> ```
 
 # Prompt Leaking
 

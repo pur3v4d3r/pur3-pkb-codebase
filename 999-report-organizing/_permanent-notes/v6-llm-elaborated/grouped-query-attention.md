@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,55 +161,6 @@ The synthesis of Grouped-Query Attention (GQA) within the broader context of tra
 > [!connection] **[[Multi-Query Attention]]** — *contrasts-with*
 > GQA contrasts with Multi-Query Attention (MQA) in its approach to sharing key-value pairs. MQA shares a single set of keys and values across all queries, whereas GQA allows for multiple groups of query heads that share their own sets of keys and values, providing a balance between memory efficiency and attention quality.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — GQA vs MHA Memory Usage**
-> *Compare memory usage between GQA and MHA.*
->
-> ```mermaid
-> graph TD
->   A[Standard MHA]
->   B[Grouped-Query Attention (GQA)]
->   A -->|High KV-cache growth| C[Memory Intensive]
->   B -->|Reduced KV-cache growth| D[Efficient Memory Usage]
-> ```
-
-
-> [!abstract] **Diagram 2 — GQA Mechanism Overview**
-> *Understand the partitioning of query heads in GQA.*
->
-> ```mermaid
-> flowchart LR
->   A[Total Query Heads]
->   B1[Group 1]
->   B2[Group 2]
->   B3[Group g]
->   A -->|Partition into g groups| B1
->   A -->|Partition into g groups| B2
->   A -->|Partition into g groups| B3
->   B1 --> C[Share Key-Value Pairs]
->   B2 --> C
->   B3 --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — GQA vs MQA Quality Trade-off**
-> *Compare quality and efficiency between GQA, MHA, and MQA.*
->
-> ```mermaid
-> graph TD
->   A[Multi-Query Attention (MQA)]
->   B[Grouped-Query Attention (GQA)]
->   C[Multi-Head Attention (MHA)]
->   A -->|High Efficiency| D1[Low Quality]
->   B -->|Balanced Efficiency-Quality| E
->   C -->|High Quality| F1[High Memory Usage]
->   E -->|Moderate Memory Usage|
->   E -->|Moderate Quality|
->   E -->|Moderate Efficiency|
-> ```
 
 # Grouped-Query Attention
 

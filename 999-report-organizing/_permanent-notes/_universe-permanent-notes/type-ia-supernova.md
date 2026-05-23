@@ -17,7 +17,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - type-ia-supernova-synthetic-seed-2026-05-14
@@ -65,61 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Type Ia Supernova Mechanism Overview**
-> *Follow the path from mass accumulation to explosion.*
->
-> ```mermaid
-> graph TD
->   A[White Dwarf]
->   B[Accretion/Merger]
->   C[Chandrasekhar Limit Reached]
->   D[Thermonuclear Runaway]
->   E[Supernova Explosion]
->   A -->|Accumulates Mass| B
->   B -->|Reaches Chandrasekhar Limit| C
->   C -->|Initiates Thermonuclear Reaction| D
->   D -->|Explosion| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Type Ia Supernova Spectral Features**
-> *Identify the key spectral characteristics of Type Ia.*
->
-> ```mermaid
-> graph TD
->   A[No Hydrogen Lines]
->   B[Strong Silicon-II Absorption]
->   C[Near Maximum Light]
->   A -->|Absence of|
->   B -->|Presence of|
->   C
-> ```
-
-
-> [!abstract] **Diagram 3 — Type Ia Supernova Distance Measurement Process**
-> *Trace the steps from observation to cosmological parameter estimation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Observer as O
->   participant TypeIaSupernova as S
->   participant CepheidVariable as CV
->   participant HubbleConstant as HC
->   participant DarkEnergyDensity as DE
->   O->>S: Observes Supernova Light Curve
->   O->>CV: Calibrates Nearby Galaxies with Cepheids
->   O->>HC: Estimates Hubble Constant
->   O->>DE: Determines Dark Energy Density
-> ```
 
 # Type Ia Supernova
 

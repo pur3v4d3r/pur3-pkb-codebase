@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,30 +165,6 @@ Attention Knockout Analysis not only serves as a diagnostic tool but also as a m
 > [!connection] **[[Causal Tracing in Transformers]]** — *applies-to*
 > Attention Knockout Analysis is a specific application of causal tracing techniques tailored for transformer models. By systematically disabling attention heads, researchers can trace the causal impact on model outputs, thereby elucidating the functional roles and dependencies within these complex architectures.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Attention Knockout Process Flow**
-> *Follow the steps from input to output, observing how attention patterns are altered and performance is measured.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Model] --> B[Systematic Zeroing]
->   B --> C[Test Performance]
->   C --> D[Measure Impact]
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Heads Importance Distribution**
-> *Identify the sparse distribution of causally important heads and their impact on performance loss.*
->
-> ```mermaid
-> graph TD
->   A[All Attention Heads] --> B[2-10% Important]
->   B --> C[50-80% Performance Loss]
->   A --> D[90-98% Redundant]
-> ```
 
 # Attention Knockout Analysis
 

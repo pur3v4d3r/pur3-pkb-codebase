@@ -19,7 +19,7 @@ subdomains:
   - quantum-mechanics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - spinor-synthetic-seed-2026-05-14
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Spinor Transformation Properties**
-> *Follow the transformation path under rotations and Lorentz transformations.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Spinor
->   Spinor --> Rotation360: 360° rotation
->   Rotation360 --> NegativeSpinor: -1 state
->   NegativeSpinor --> Rotation720: Additional 360°
->   Rotation720 --> OriginalSpinor: +1 state
-> ```
-
-
-> [!abstract] **Diagram 2 — Spinor vs Vector Transformation**
-> *Compare the transformation behavior of Spinors and Vectors under rotations.*
->
-> ```mermaid
-> graph TD
->   A[Rotation] --> B[Vector]
->   A --> C[Spinor]
->   B --> D[-1 state]
->   C --> E[-1 state after 720°]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dirac vs Weyl Spinors**
-> *Identify the distinct transformation properties of Dirac and Weyl spinors.*
->
-> ```mermaid
-> graph TD
->   A[Parity] --> B[Dirac: Chiral]
->   A --> C[Weyl: Pure L/R-handed]
->   D[Time-Reversal] --> E[Dirac: Opposite chirality]
->   D --> F[Weyl: Same handedness]
->   G[Charge-Conjugation] --> H[Dirac: Complex conjugate]
->   G --> I[Weyl: Complex conjugate]
-> ```
 
 # Spinor
 

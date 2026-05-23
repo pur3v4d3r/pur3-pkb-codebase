@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,40 +161,6 @@ In summary, Model-Graded Evaluation represents a pivotal advancement in LLM asse
 > [!connection] **[[G-Eval Framework]]** — *applies-to*
 > The G-Eval Framework provides a structured approach for evaluating LLMs, which can be enhanced or adapted to incorporate Model-Graded Evaluation. By integrating automated judgments from advanced LLMs into the evaluation process, developers can leverage the framework's robustness while benefiting from the scalability and consistency offered by model-graded evaluations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Model-Graded Evaluation Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Rubric] --> B[Query]
->   B --> C[Candidate Responses]
->   C --> D[Evaluating Model]
->   D --> E[Score/Rank Outputs]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Evaluation Methods**
-> *Compare automated and human evaluation methods.*
->
-> ```mermaid
-> graph TD
->   A[Human Evaluation] -->|Subjective Judgment| B[Inter-human Agreement]
->   C[Model-Graded Evaluation] -->|Automated Criteria| D[Consistent Application]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Model Grading**
-> *Identify the applications in instructional design and QA.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Refine Prompts| B[Automated Assessment]
->   C[Quality Assurance] -->|Continuous Monitoring| D[Evaluation Against Standards]
-> ```
 
 # Model-Graded Evaluation
 

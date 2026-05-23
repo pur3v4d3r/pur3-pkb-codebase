@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,32 +157,6 @@ Verbosity Control in Prompts is pivotal not just for optimizing the output lengt
 > [!connection] **[[Information Density Optimization]]** — *specializes*
 > Verbosity Control in Prompts specializes Information Density Optimization by focusing specifically on the output of LLMs. This specialization is crucial because it addresses the unique challenges and opportunities presented by AI-generated text, such as managing the inherent verbosity biases in model training.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Verbosity Control Process Flow**
-> *Follow the flow from prompt design to output management.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Goals] --> B[Prompt Design]
->   B --> C[LLM Processing]
->   C --> D[Output Generation]
->   D --> E[Post-Generation Filtering]
-> ```
-
-
-> [!abstract] **Diagram 2 — Verbosity Control Techniques Comparison**
-> *Compare explicit guidance and post-generation filtering techniques.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Design]
->   B[Explicit Length Guidance] -->|Examples| C[Word Count]
->   D[Sentence Structure] -->|Examples| E[Bullet Points]
->   F[Post-Generation Filtering] -->|Techniques| G[Key Content Extraction]
-> ```
 
 # Verbosity Control in Prompts
 

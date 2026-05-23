@@ -20,7 +20,7 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cross-lingual-tokenization-synthetic-seed-2026-05-20
@@ -69,52 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cross-Lingual Tokenization Process Flow**
-> *Follow the flow from input text to tokenized output across languages.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Vocabulary Selection]
->   B --> C[Tokenization Technique]
->   C --> D[Cross-Lingual Alignment]
->   D --> E[Output Tokens]
-> ```
-
-
-> [!abstract] **Diagram 2 — Subword Tokenization Techniques Comparison**
-> *Compare subword tokenization methods and their impact on model performance.*
->
-> ```mermaid
-> graph TD
->   A[Word-Level]
->   B[Byte-Pair Encoding]
->   C[Unigram]
->   D[SentencePiece]
->   A -->|Efficiency| E[Performance]
->   B -->|Flexibility| F[Complexity]
->   C -->|Simplicity| G[Coverage]
->   D -->|Customizability| H[Accuracy]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cross-Lingual Tokenization Challenges**
-> *Identify challenges in balancing model performance and computational equity.*
->
-> ```mermaid
-> graph TD
->   A[Vocabulary Imbalance] --> B[Unequal Context Window]
->   C[Morphological Variations] --> D[Increased Computational Costs]
->   E[Linguistic Disparities] --> F[Performance Gaps]
-> ```
 
 # Cross-Lingual Tokenization
 

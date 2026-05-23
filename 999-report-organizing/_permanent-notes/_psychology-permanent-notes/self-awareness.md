@@ -18,7 +18,7 @@ subdomains:
   - social-emotional-learning
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-awareness-synthetic-seed-2026-05-01
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Awareness Competencies**
-> *Identify the three main competencies of self-awareness.*
->
-> ```mermaid
-> graph TD
->   A[Interoceptive Awareness] --> B[Reflective Self-Awareness]
->   A --> C[Emotional Self-Awareness]
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Awareness Mechanism**
-> *Trace the cognitive processes involved in self-awareness.*
->
-> ```mermaid
-> flowchart LR
->   A[Attentional Control] --> B[Metacognition]
->   B --> C[Emotional Regulation]
->   C --> D[Integration by Prefrontal Cortex]
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Awareness in Practice**
-> *See how self-awareness applies to instructional design and leadership.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant Educator as E
->   participant Leader as LD
->   participant TeamMember as TM
->   L->>E: Reflective Practices
->   E-->>L: Metacognitive Strategies
->   LD->>TM: Strengths and Weaknesses
->   TM-->>LD: Feedback
-> ```
 
 # Self-Awareness
 

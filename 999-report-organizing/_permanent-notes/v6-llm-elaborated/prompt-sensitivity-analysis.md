@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,52 +152,6 @@ In summary, Prompt Sensitivity Analysis is a vital tool for advancing the field 
 > [!connection] **[[Benchmark Overfitting]]** — *contrasts-with*
 > While Benchmark Overfitting focuses on how well a model performs on the training data versus unseen data, PSA contrasts by examining performance variability due to prompt formulation. This distinction highlights that robustness in language models requires attention not just to task-specific performance but also to prompt sensitivity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Sensitivity Analysis Process Flow**
-> *Follow the flow from prompt generation to performance evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Generate Semantically Equivalent Prompts]
->   B[Apply Minimal Variations]
->   C[Evaluate Model Performance]
->   D[Analyze Results]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Sensitivity vs Benchmark Overfitting**
-> *Compare the focus areas of Prompt Sensitivity Analysis and benchmark overfitting.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Sensitivity]
->   B[Benchmark Overfitting]
->   A -->|Variations in prompt formulation| C[Model Output Impact]
->   B -->|Data and task-specific performance| D[Performance Metrics]
-> ```
-
-
-> [!abstract] **Diagram 3 — PSA Workflow Overview**
-> *Trace the steps involved in conducting Prompt Sensitivity Analysis.*
->
-> ```mermaid
-> graph TD
->   A[Define Evaluation Criteria]
->   B[Generate Prompts]
->   C[Test Model Performance]
->   D[Evaluate Stability]
->   E[Report Findings]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
 
 # Prompt Sensitivity Analysis
 

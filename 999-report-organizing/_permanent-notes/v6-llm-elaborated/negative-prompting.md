@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,52 +159,6 @@ Empirical testing consistently shows that long lists of prohibitions in Negative
 > [!connection] **[[Positive Framing]]** — *contrasts-with*
 > The contrast between Positive and Negative Framing is crucial for optimizing prompt engineering. While Positive Framing focuses on specifying desired outcomes, Negative Prompting emphasizes exclusions. This distinction highlights the cognitive processes involved in interpreting instructions and underscores the importance of balancing prohibitions with positive directives to achieve optimal results.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Negative vs Positive Framing**
-> *Compare the focus of negative and positive framing techniques.*
->
-> ```mermaid
-> graph TD
-> A[Positive Framing]
-> B[Negative Framing]
-> A -->|Desired Outcomes| C[Primary Task]
-> B -->|Exclusions| D[Cognitive Reliability Issues]
-> ```
-
-
-> [!abstract] **Diagram 2 — Negative Prompting Process Flow**
-> *Follow the steps involved in applying negative prompting.*
->
-> ```mermaid
-> flowchart LR
-> A[Start]
-> B[Specify Prohibitions]
-> C[Mental Simulation]
-> D[Cognitive Reliability Issues]
-> E[Output Quality]
-> F[End]
-> A --> B
-> B --> C
-> C --> D
-> D --> E
-> E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Negative Prompting Cognitive Process**
-> *Understand the cognitive steps in negative prompting.*
->
-> ```mermaid
-> stateDiagram-v2
-> [*] --> A[Consider Prohibition]
-> A --> B[Mental Simulation of Prohibited Item]
-> B --> C[Cognitive Reliability Check]
-> C --> D[Exclude Item]
-> D --> [*]
-> ```
 
 # Negative Prompting
 

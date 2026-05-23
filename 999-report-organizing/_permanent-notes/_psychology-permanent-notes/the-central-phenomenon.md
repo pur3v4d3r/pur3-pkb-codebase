@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - chunking-and-expertise-development-foundational-report-2026-04-20
@@ -68,52 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Expert vs Novice Processing Flow**
-> *Follow the arrows to see how experts use recognition-based processing while novices rely on analytic processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Novice Analytic] --> B[Slow Decision]
->   C[Expert Recognition] --> D[Quick Pattern]
->   A --> E[Detailed Analysis]
->   C --> F[Pattern Recognition]
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Structure Hierarchy**
-> *Trace the hierarchy to understand how schemas and chunks are built through deliberate practice.*
->
-> ```mermaid
-> graph TD
->   A[Deliberate Practice] --> B[Schemas]
->   B --> C[Chunks]
->   C --> D[Patterns]
-> ```
-
-
-> [!abstract] **Diagram 3 — Process of Schema Building**
-> *Follow the sequence to see how schemas are constructed and refined over time.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Novice as N
->   participant Expert as E
->   participant DomainKnowledge as DK
->   N->>DK: Initial Exposure
->   DK-->>N: Basic Understanding
->   N->>E: Deliberate Practice
->   E-->>N: Feedback and Refinement
->   N->>DK: Advanced Knowledge
-> ```
 
 # The Central Phenomenon
 

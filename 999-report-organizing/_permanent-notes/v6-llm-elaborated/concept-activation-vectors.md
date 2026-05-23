@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,54 +170,6 @@ By focusing on human-interpretable concepts, Concept Activation Vectors (CAVs) n
 > [!connection] **[[Probing Classifiers]]** — *generalizes-to*
 > Concept Activation Vectors (CAVs) generalize the probing classifiers approach by focusing on human-interpretable concepts rather than individual features. This shift allows for a more nuanced understanding of model behavior, as CAVs can reveal how sensitive predictions are to specific conceptual inputs that align with human cognition.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Concept Activation Vectors Process Flow**
-> *Follow the steps from data collection to model sensitivity analysis.*
->
-> ```mermaid
-> graph TD
->   A[Collect Positive Examples]
->   B[Collect Negative Examples]
->   C[Train Linear Classifier]
->   D[Generate Concept Vector]
->   E[Measure Sensitivity]
->   A -->|Positive Set| C
->   B -->|Negative Set| C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — CAVs vs Gradient Attribution**
-> *Compare the focus of Concept Activation Vectors and gradient attribution methods.*
->
-> ```mermaid
-> graph TD
->   A[Concept Activation Vectors]
->   B[Gradient Attribution]
->   A -->|Focus on concept-level sensitivity|
->   B -->|Focus on individual feature contributions|
-> ```
-
-
-> [!abstract] **Diagram 3 — CAVs Application Workflow**
-> *Trace the workflow from dataset creation to model debugging.*
->
-> ```mermaid
-> graph TD
->   A[Create Curated Dataset]
->   B[Train Linear Classifier]
->   C[Generate Concept Vectors]
->   D[Evaluate Model Sensitivity]
->   E[Debug/Refine Model]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
 
 # Concept Activation Vectors
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -176,43 +172,6 @@ The discovery by Zou et al. (2023) that adversarial suffixes can bypass safety-t
 > [!connection] **[[Gradient-Based Optimization]]** — *prerequisites*
 > Adversarial suffix attacks rely on gradient-based optimization techniques to find effective adversarial sequences. Understanding these optimization methods is crucial for grasping how attackers can systematically identify and exploit vulnerabilities in language models, making it a foundational prerequisite.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Adversarial Suffix Attack Process**
-> *Follow the flow from request to compliance through suffix optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Request] --> B[Gradient-Based Optimization]
->   B --> C[Suffix Sequence Found]
->   C --> D[Compliance Elicited]
-> ```
-
-
-> [!abstract] **Diagram 2 — Adversarial Suffix Attack Mechanism**
-> *Trace the iterative refinement process using gradient information.*
->
-> ```mermaid
-> flowchart LR
->   A[Harmful Request] --> B[Fixed]
->   C[Suffix Tokens] --> D[Gradient Information]
->   E[Loss Minimization] --> F[Iterative Update]
-> ```
-
-
-> [!abstract] **Diagram 3 — Adversarial Suffix Attack Taxonomy**
-> *Identify the specific focus and methods of adversarial suffix attacks.*
->
-> ```mermaid
-> graph TD
->   A[Adversarial Attacks] --> B[Jailbreak Techniques]
->   B --> C[White-Box Jailbreaking]
->   D{Focus}
->   E[Appending Specific Sequences] --> D
->   F[Gradient-Based Optimization] --> D
-> ```
 
 # Adversarial Suffix Attacks
 

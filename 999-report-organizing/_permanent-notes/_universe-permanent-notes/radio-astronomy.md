@@ -16,7 +16,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - radio-astronomy-synthetic-seed-2026-05-14
@@ -67,51 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Radio Astronomy Workflow Overview**
-> *Follow the flow from observation to analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Observation] --> B[Data Collection]
->   B --> C[Signal Processing]
->   C --> D[Analysis]
-> ```
-
-
-> [!abstract] **Diagram 2 — Radio Telescope Types and Techniques**
-> *Identify the different types of radio telescopes used.*
->
-> ```mermaid
-> graph TD
->   A[Single Dish] --> B[Interferometry]
->   C[Dish Array] --> D[VLA]
->   E[VLBI] --> F[Event Horizon Telescope]
-> ```
-
-
-> [!abstract] **Diagram 3 — Radio Astronomy vs Optical Astronomy Comparison**
-> *Compare the wavelengths and applications of both fields.*
->
-> ```mermaid
-> classDiagram
->   class RadioAstronomy{
->     +Wavelengths: mm to tens of metres
->     +Applications: CMB, Pulsars
->   }
->   class OpticalAstronomy{
->     +Wavelengths: Visible light
->     +Applications: Star and galaxy imaging
->   }
-> ```
 
 # Radio Astronomy
 

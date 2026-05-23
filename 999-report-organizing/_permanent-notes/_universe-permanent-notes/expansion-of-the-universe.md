@@ -18,7 +18,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - expansion-of-the-universe-synthetic-seed-2026-05-14
@@ -68,44 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cosmic Expansion Process Flow**
-> *Follow the flow from cosmic expansion to redshift observation.*
->
-> ```mermaid
-> flowchart LR
->   A[Expansion of Space] --> B[Distant Galaxies Move Away]
->   B --> C[Light Waves Stretch]
->   C --> D[Redshift Observed]
-> ```
-
-
-> [!abstract] **Diagram 2 — FLRW Scale Factor Overview**
-> *Trace the relationship between scale factor and cosmic time.*
->
-> ```mermaid
-> graph TD
->   A[Scale Factor a(t)] --> B[Cosmic Time t]
->   B --> C[Distant Galaxy Separation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Expansion vs Local Dynamics**
-> *Compare cosmic expansion with local gravitational effects.*
->
-> ```mermaid
-> graph TD
->   A[Unbound Objects] --> B[Expand Over Time]
->   C[Gravitationally Bound Systems] --> D[Dont Expand]
-> ```
 
 # Expansion Of The Universe
 

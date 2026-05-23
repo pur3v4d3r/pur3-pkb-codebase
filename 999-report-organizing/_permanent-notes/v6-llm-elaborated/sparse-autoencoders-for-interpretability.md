@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,43 +167,6 @@ Sparse autoencoders serve as a bridge between the opaque internal workings of LL
 > [!connection] **[[Superposition Problem in LLMs]]** — *applies-to*
 > Sparse autoencoders directly address the superposition problem by decomposing polysemantic neuron activations into sparse, monosemantic features. This decomposition helps mitigate issues arising from neurons encoding multiple meanings simultaneously, thereby enhancing interpretability and model transparency.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sparse Autoencoder Process Flow**
-> *Follow the flow from input activations to sparse feature reconstruction.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Activations] --> B[Encoder]
->   B --> C[Latent Space]
->   C --> D[Decoder]
->   D --> E[Sparse Features]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sparse Feature Decomposition**
-> *Identify how sparse features are used to reconstruct input activations.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Activations] --> B[Dictionary]
->   B --> C[Sparse Features]
->   C --> D[Reconstruction]
-> ```
-
-
-> [!abstract] **Diagram 3 — Feature Analysis Workflow**
-> *Trace the steps from training to feature analysis and application.*
->
-> ```mermaid
-> flowchart LR
->   A[Training] --> B[Dictionary]
->   B --> C[Sparse Features]
->   C --> D[Analysis]
->   D --> E[Application]
-> ```
 
 # Sparse Autoencoders for Interpretability
 

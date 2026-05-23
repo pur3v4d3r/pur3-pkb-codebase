@@ -17,7 +17,7 @@ subdomains:
   - large-scale-structure
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - voids-in-cosmology-synthetic-seed-2026-05-14
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Cosmic Web Overview**
-> *Identify the positions of voids and dense structures.*
->
-> ```mermaid
-> graph TD
->   A[Void] --> B[Filament]
->   B --> C[Cluster]
->   A --> D[Void]
->   C --> E[Void]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dark Energy Effect Through Voids**
-> *Trace the influence of dark energy on voids and surrounding structures.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Void as V
->   participant DarkEnergy as DE
->   participant Filament as F
->   participant Cluster as C
->   DE->>V: Expansion Influence
->   V-->>F: Density Contrast
->   F-->>C: Gravitational Attraction
-> ```
-
-
-> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
-> *Compare theoretical predictions with observational data.*
->
-> ```mermaid
-> classDiagram
->   class TopDownProcessing{
->     +PredictDistribution()
->     +AnalyzeDarkEnergy()
->   }
->   class BottomUpProcessing{
->     +InferCharacteristics()
->     +DirectObservation()
->   }
-> ```
 
 # Voids In Cosmology
 

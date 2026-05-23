@@ -18,7 +18,7 @@ subdomains:
   - decision-making
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - overconfidence-bias-synthetic-seed-2026-04-25
@@ -68,66 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Overconfidence Bias Variants**
-> *Identify the three main variants of overconfidence bias.*
->
-> ```mermaid
-> graph TD
->   A[Overprecision]
->   B[Overestimation]
->   C[Overplacement]
->   A -->|Most consequential for decision-making| D[Core Explanation]
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Overconfidence Bias Mechanism**
-> *Understand the cognitive process leading to overprecision.*
->
-> ```mermaid
-> flowchart LR
->   A[Information Processing]
->   B[Rapid Decision-Making]
->   C[Lack of Feedback]
->   D[High Stakes]
->   E[Overestimation of Accuracy]
->   F[Narrow Confidence Intervals]
->   G[Miscalibrated Judgments]
->   A --> B
->   A --> C
->   A --> D
->   B --> E
->   C --> E
->   D --> E
->   E --> F
->   F --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Overconfidence Bias Applications**
-> *Explore practical implications across different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Finance]
->   C[Medicine]
->   D[MOOCs]
->   A -->|Underestimating difficulty or overestimating understanding| E[Learning Outcomes]
->   B -->|Overestimating market prediction ability| F[Risky Investments]
->   C -->|Overestimating diagnostic skills| G[Misdiagnoses]
->   D -->|Overestimating mastery of material| H[Poor Recall]
-> ```
 
 # Overconfidence Bias
 

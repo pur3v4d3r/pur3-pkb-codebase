@@ -17,7 +17,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-worth-theory-synthetic-seed-2026-04-25
@@ -65,60 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Worth Theory Mechanism**
-> *Follow the flow from perception to self-handicapping behaviors.*
->
-> ```mermaid
-> graph TD
->   A[Perception of Ability]
->   B[Visible Effort]
->   C[Failure]
->   D[Evidence of Low Competence]
->   E[Self-Protective Behaviors]
->   F[Under-preparation or Self-handicapping]
->   A -->|If Failure Linked to Low Ability| B
->   B -->|Results in| C
->   C -->|Interpreted as| D
->   D -->|Leads To| E
->   E -->|Such As| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Worth Theory vs Fixed-Mindset**
-> *Compare the focus of Self-Worth Theory with that of a fixed-mindset theory.*
->
-> ```mermaid
-> graph TD
->   A[Self-Worth Theory]
->   B[Fixed-Mindset Theory]
->   A -->|Maintaining Personal Worth Through Achievement|
->   B -->|Belief in Static Abilities|
->   A -->|Motivational Aspect|
->   B -->|Perception of Ability Only
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Worth Theory vs Achievement-Goal Theory**
-> *Compare the focus of Self-Worth Theory with that of achievement-goal theory.*
->
-> ```mermaid
-> graph TD
->   A[Self-Worth Theory]
->   B[Achievement-Goal Theory]
->   A -->|Maintaining Personal Worth Through Effort|
->   B -->|Goals for Success in Academic Settings|
->   A -->|Specifically How Students Maintain Worth|
->   B -->|Mastery or Performance Goals
-> ```
 
 # Self-Worth Theory
 

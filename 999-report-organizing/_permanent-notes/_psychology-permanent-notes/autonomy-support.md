@@ -19,7 +19,7 @@ subdomains:
   - organizational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - autonomy-support-synthetic-seed-2026-04-24
@@ -68,46 +68,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Autonomy Support Process Flow**
-> *Follow the steps from providing choices to fostering internal motivation.*
->
-> ```mermaid
-> flowchart LR
->   A[Provide Choices] --> B[Offer Rationale]
->   B --> C[Minimize Controlling Language]
->   C --> D[Foster Internal Motivation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Autonomy Support Mechanism Overview**
-> *Trace the pathway from autonomy support to intrinsic motivation and internalization.*
->
-> ```mermaid
-> flowchart LR
->   A[Autonomy Support] --> B[Satisfy Autonomy Needs]
->   B --> C[Foster Intrinsic Motivation]
->   C --> D[Internalize Goals]
-> ```
-
-
-> [!abstract] **Diagram 3 — Neurocognitive Impact of Autonomy Support**
-> *Observe the neural changes from autonomy support to intrinsic reward processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Autonomy Support] --> B[Reduce Dorsolateral PFC]
->   B --> C[Increase ACC-Reward Pathways]
->   C --> D[Foster Spontaneous Engagement]
-> ```
 
 # Autonomy Support
 

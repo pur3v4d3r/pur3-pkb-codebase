@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,40 +165,6 @@ Ethical Reasoning Prompting has been shown to produce more epistemically defensi
 > [!connection] **[[Constitutional AI Data Pipeline]]** — *applies-to*
 > Ethical Reasoning Prompting is integral to the Constitutional AI Data Pipeline as it ensures that large language models are trained and evaluated not just on factual accuracy but also on ethical reasoning. By integrating multiple ethical frameworks into the prompting process, this approach helps maintain a balance between technical performance and moral integrity in AI systems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Ethical Reasoning Process Flow**
-> *Follow the steps from dilemma to ethical analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Present Dilemma] --> B[Specify Context]
->   B --> C[Apply Frameworks]
->   C --> D[Evaluate Results]
-> ```
-
-
-> [!abstract] **Diagram 2 — Ethical Reasoning Taxonomy**
-> *Identify the different ethical frameworks used in analysis.*
->
-> ```mermaid
-> graph TD
->   A[Consequentialism] --> B[Deontology]
->   C[Virtue Ethics] --> D[Care Ethics]
->   E[Contractualism]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *See how Ethical Reasoning Prompting applies in different contexts.*
->
-> ```mermaid
-> flowchart LR
->   A[Policymaking] --> B[Business Decisions]
->   C[Design Choices] --> D[Ethical Analysis]
-> ```
 
 # Ethical Reasoning Prompting
 

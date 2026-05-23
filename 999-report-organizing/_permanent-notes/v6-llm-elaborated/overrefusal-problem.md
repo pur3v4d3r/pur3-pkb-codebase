@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,67 +160,6 @@ Addressing the overrefusal problem requires a nuanced approach that balances str
 > [!connection] **[[Harmlessness- helpfulness tradeoff]]** — *contrasts-with*
 > The overrefusal problem highlights a critical tension within the harmlessness-helpfulness tradeoff. While this tradeoff acknowledges that prioritizing safety can sometimes limit utility, overrefusal exemplifies an extreme case where excessive emphasis on harmlessness leads to significant reductions in helpfulness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Overrefusal Mechanism Overview**
-> *Follow the flow from training to overrefusal.*
->
-> ```mermaid
-> graph TD
->   A[Training Emphasis]
->   B[Harmlessness Over Helpfulness]
->   C[Conservative Thresholds]
->   D[Imprecise Classifiers]
->   E[Annotation Biases]
->   F[Overrefusal]
->   A -->|Prioritizes Harmlessness| B
->   B -->|Sets High Safety Standards| C
->   C -->|Uses Inexact Filters| D
->   D -->|Skewed Training Data| E
->   E -->|Errs on Refusal Side| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Overrefusal Impact Areas**
-> *Identify the areas where overrefusal impacts model utility.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Medical Professionals]
->   C[Creative Writing]
->   D[Harmlessness Over Helpfulness]
->   E[Overrefusal Impact]
->   A -->|Hinders Learning| E
->   B -->|Barriers to Information| E
->   C -->|Limits Artistic Expression| E
->   E -->|Reduces Model Utility| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Overrefusal vs Harmlessness Tradeoff**
-> *Compare overrefusal with the harmlessness-helpfulness tradeoff.*
->
-> ```mermaid
-> graph TD
->   A[Overrefusal]
->   B[Harmlessness-Helperiness Tradeoff]
->   C[Excessive Refusal]
->   D[Unhelpful Responses]
->   E[Misaligned Safety Training]
->   F[Contextual Understanding]
->   G[Annotation Biases]
->   H[Conservative Thresholds]
->   I[Imprecise Classifiers]
->   A -->|Misalignment| E
->   B -->|Balanced Approach| F
->   C -->|Avoid Harmful Outputs| D
->   E -->|Skewed Training Data| G
->   G -->|High Safety Standards| H
->   H -->|Inexact Filters| I
-> ```
 
 # Overrefusal Problem
 

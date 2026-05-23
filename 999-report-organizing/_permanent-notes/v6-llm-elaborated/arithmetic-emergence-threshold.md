@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,77 +150,6 @@ Understanding the nuances of how different training strategies and task complexi
 > [!connection] **[[Chain-of-Thought Prompting]]** — *applies-to*
 > The arithmetic emergence threshold is significantly influenced by the application of chain-of-thought prompting techniques. These methods guide models through step-by-step reasoning, enhancing their ability to solve complex arithmetic problems accurately once they have surpassed the initial threshold.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Arithmetic Emergence Threshold Overview**
-> *Identify the transition from unreliable to reliable performance.*
->
-> ```mermaid
-> graph TD
->   A[Small Scale]
->   B[Large Scale]
->   A -->|Unreliable Performance|
->   B -->|Reliable Performance|
->   C[Numerical Reasoning]
->   D[Complex Arithmetic Tasks]
->   E[Simpler Arithmetic Tasks]
->   F[Chain-of-Thought Prompting]
->   G[Tool-Augmented Approaches]
->   A --> C
->   B --> C
->   B --> D
->   B --> E
->   B --> F
->   B --> G
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Complexity and Prompting Techniques**
-> *Understand the impact of task complexity and prompting methods.*
->
-> ```mermaid
-> graph TD
->   A[Simple Arithmetic]
->   B[Multi-Digit Operations]
->   C[Modular Arithmetic]
->   D[Chain-of-Thought]
->   E[Tool-Augmented]
->   F[Numerical Reasoning]
->   G[Reliable Performance]
->   H[Unreliable Performance]
->   A -->|Low Scale|
->   B -->|High Scale|
->   C -->|Very High Scale|
->   D --> F
->   E --> F
->   A -->|D| G
->   B -->|E| G
->   C -->|F| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompting Strategies and Number Representations**
-> *Explore the effectiveness of different prompting strategies.*
->
-> ```mermaid
-> graph TD
->   A[Arabic Numerals]
->   B[Word-Form Numbers]
->   C[Roman Numerals]
->   D[Chain-of-Thought]
->   E[Tool-Augmented]
->   F[Numerical Reasoning]
->   G[Robust Performance]
->   H[Vulnerable Performance]
->   A -->|D| F
->   B -->|E| F
->   C -->|F| G
->   A -->|E| H
->   B -->|D| H
->   C -->|D| H
-> ```
 
 # Arithmetic Emergence Threshold
 

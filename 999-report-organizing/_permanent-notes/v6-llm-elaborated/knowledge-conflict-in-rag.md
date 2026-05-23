@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,42 +163,6 @@ Empirical evidence highlights the context-priority bias in conflict resolution w
 > [!connection] **[[Context-Parameter Conflict]]** — *instance-of*
 > Knowledge conflicts in RAG systems are a specific instance of context-parameter conflicts, where the retrieved context directly contradicts the model's internal parameters. This relationship underscores that understanding broader context-parameter dynamics is essential for addressing knowledge-specific issues within RAG models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Knowledge Conflict Scenarios**
-> *Identify the sources of knowledge conflict.*
->
-> ```mermaid
-> graph TD
->   A[Temporal Inconsistency] --> B(Knowledge Conflict)
->   C[Domain Specificity] --> B
->   D[Source Errors] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Conflict Resolution Mechanisms**
-> *Understand the model's prioritization in conflict resolution.*
->
-> ```mermaid
-> flowchart LR
->   A[Retrieved Context] -->|Explicit Conflict| C(Resolution)
->   B[Parametric Knowledge] -->|Implicit Conflict| D(Resolution)
->   C --> E[Context Priority]
->   D --> F[Knowledge Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Conflicts**
-> *See how knowledge conflicts impact different applications.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(Knowledge Conflict)
->   C[Legal Advice] --> D(Knowledge Conflict)
->   E[Reliability Impact] --> F(Accuracy Issues)
-> ```
 
 # Knowledge Conflict in RAG
 

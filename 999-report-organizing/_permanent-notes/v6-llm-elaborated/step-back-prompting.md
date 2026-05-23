@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -150,29 +146,6 @@ Step-Back Prompting is a valuable technique in prompt-engineering for large lang
 > [!connection] **[[Chain-of-Thought-Prompting]]** — *contrasts-with*
 > Step-Back Prompting contrasts with Chain-of-Thought-Prompting because while the latter focuses on guiding models through a step-by-step reasoning process to reach an answer, Step-Back Prompting first elevates the abstraction level before applying it. This difference highlights how each technique leverages different aspects of model capabilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Step-Back Prompting Process Flow**
-> *Follow the two-stage process from input to output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Question] --> B[Identify Abstraction]
->   B --> C[Generate Answer Using Abstraction]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Single-Stage Prompting Techniques**
-> *Compare Step-Back Prompting with other single-stage techniques.*
->
-> ```mermaid
-> graph TD
->   A[Step-Back Prompting] -->|Two stages| B[Identify Abstraction]
->   B --> C[Generate Answer Using Abstraction]
->   D[Single-Stage Techniques] --> E[Directly Generate Answer]
-> ```
 
 # Step-Back Prompting
 

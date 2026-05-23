@@ -20,7 +20,7 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - activation-steering-synthetic-seed-2026-05-20
@@ -69,47 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Activation Steering Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Compute Activations]
->   B --> C[Derive Steering Vector]
->   C --> D[Multiply by Coefficient]
->   D --> E[Add to Residual Stream]
->   E --> F[Output Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Activation Steering vs Weight Adjustment Techniques**
-> *Compare the two techniques and their impact on model behavior.*
->
-> ```mermaid
-> graph TD
->   A[Activation Steering] -->|No weight change| B[Manipulate Activations]
->   C[Weight Adjustment] -->|Change weights| D[Alter Model Behavior]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conceptual Hierarchy of Activation Steering**
-> *Identify the relationship between high-level concepts and internal activations.*
->
-> ```mermaid
-> graph TD
->   A[High-Level Concepts] --> B[Linear Directions]
->   B --> C[Residual Streams]
->   C --> D[Activation Steering]
-> ```
 
 # Activation Steering
 

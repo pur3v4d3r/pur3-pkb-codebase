@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,35 +175,6 @@ The principle of least privilege is paramount in designing secure API-calling ag
 > [!connection] **[[Function Calling]]** — *applies-to*
 > API-calling agents exemplify the application of function calling in practical scenarios. By integrating function calling into their architecture, these agents can perform a wide range of tasks beyond text-based interactions, thereby extending the utility and scope of language models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — API-Calling Process Flow**
-> *Follow the sequence from decision-making to API execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Context Evaluation] --> B[Function Selection]
->   B --> C[Generate Function Call]
->   C --> D[Execute API Call]
->   D --> E[Integrate Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — API-Calling Agent Mechanism**
-> *Trace the interaction between LLM and external APIs.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant API_Calling_Agent as A
->   participant External_API as E
->   U->>A: Request Action
->   A->>E: Function Call
->   E-->>A: Response
->   A->>U: Processed Output
-> ```
 
 # API-Calling Agents
 

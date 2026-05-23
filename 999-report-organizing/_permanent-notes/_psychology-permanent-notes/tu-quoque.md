@@ -18,7 +18,7 @@ subdomains:
   - dialectics
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - tu-quoque-synthetic-seed-2026-05-01
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Tu Quoque Fallacy Structure**
-> *Follow the flow from claim to Tu Quoque response.*
->
-> ```mermaid
-> flowchart LR
->   A[Claim] --> B[Hypocrisy]
->   B --> C[Tu Quoque Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tu Quoque in Context**
-> *Identify the key elements involved in Tu Quoque.*
->
-> ```mermaid
-> graph TD
->   A[Claimant] --> B[Hypocrisy]
->   C[Critic] --> D[Tu Quoque Response]
->   B --> E[Dismissal]
-> ```
-
-
-> [!abstract] **Diagram 3 — Tu Quoque Mechanism**
-> *Trace the psychological response triggered by Tu Quoque.*
->
-> ```mermaid
-> flowchart LR
->   A[Hypocrisy] --> B[Credibility Concerns]
->   B --> C[Psychological Response]
->   C --> D[Prioritize Consistency]
-> ```
 
 # Tu Quoque
 

@@ -17,7 +17,7 @@ subdomains:
   - individual-differences
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - divergent-thinking-synthetic-seed-2026-04-25
@@ -64,61 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Divergent Thinking Components**
-> *Identify the key aspects of divergent thinking.*
->
-> ```mermaid
-> graph TD
-> A[Fluency]
-> B[Flexibility]
-> C[Originality]
-> D[Elaboration]
-> A -->|Generates many ideas| E[Assessment]
-> B -->|Range and variety| E
-> C -->|Unique responses| E
-> D -->|Details each idea| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Divergent Thinking Process Flow**
-> *Follow the cognitive steps in divergent thinking.*
->
-> ```mermaid
-> flowchart LR
-> A[Access Information]
-> B[Make Associations]
-> C[Inhibit Familiar Solutions]
-> D[Working Memory]
-> A --> D
-> B --> D
-> C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Divergent Thinking**
-> *See the various domains where divergent thinking is applied.*
->
-> ```mermaid
-> graph TD
-> A[Instructional Design]
-> B[Innovation]
-> C[Problem-Solving]
-> D[Foster Creative Ideas]
-> E[Generate Novel Concepts]
-> F[Explore Multiple Solutions]
-> A --> D
-> B --> E
-> C --> F
-> ```
 
 # Divergent Thinking
 

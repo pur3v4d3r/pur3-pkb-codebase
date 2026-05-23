@@ -17,7 +17,7 @@ subdomains:
   - expertise
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-compilation-synthetic-seed-2026-04-25
@@ -64,47 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Compilation Process Flow**
-> *Follow the flow from declarative to procedural knowledge.*
->
-> ```mermaid
-> flowchart LR
->   A[Declarative Knowledge] --> B[Initial Encoding]
->   B --> C[Repeated Application]
->   C --> D[Consolidation into Procedural Rules]
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Compilation Cycle Diagram**
-> *Observe the iterative cycle of application and reflection.*
->
-> ```mermaid
-> graph TD
->   A[Application] --> B[Reflection]
->   B --> C[Adjustment]
->   C --> D[Refinement]
->   D --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Knowledge Compilation Mechanism Flowchart**
-> *Trace the stages from encoding to automatic execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Encoding] --> B[Repeated Application]
->   B --> C[Automatic Execution]
->   C --> D[Reduced Cognitive Load]
-> ```
 
 # Knowledge Compilation
 

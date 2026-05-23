@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,50 +167,6 @@ In essence, emergent prompting capability represents a paradigm shift in underst
 > [!connection] **[[Latent Capability Unlocking]]** — *falls-under*
 > Emergent prompting capability is an instance of latent capability unlocking, where specific prompts reveal hidden functionalities within models. This relationship underscores the broader concept that model capabilities are not always immediately apparent and can be uncovered through targeted interaction.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Emergent Prompting Mechanism**
-> *Follow the flow from latent knowledge to revealed capabilities.*
->
-> ```mermaid
-> graph TD
->   A[Latent Knowledge]
->   B[Effective Prompt Structure]
->   C[Revealed Capabilities]
->   A -->|Guides Utilization| B
->   B -->|Unlocks Latent Abilities| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Emergent vs Inflated Performance**
-> *Compare qualitative shifts with quantitative improvements.*
->
-> ```mermaid
-> graph TD
->   A[Qualitative Shifts]
->   B[Quantitative Improvements]
->   C[Evaluation Without Prompting]
->   D[Evaluation With Prompting]
->   A -->|Emergent Capability| D
->   B -->|Performance Inflation| D
->   C -->|Unprompted Evaluation| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Identify the three main applications of emergent prompting.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Task-Specific Optimization]
->   C[Benchmarking]
->   A -->|Enhance Performance|
->   B -->|Optimize Without Retraining|
->   C -->|Accurate Benchmarking|
-> ```
 
 # Emergent Prompting Capability
 

@@ -16,7 +16,7 @@ subdomains:
   - stellar-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - stellar-mass-black-hole-synthetic-seed-2026-05-14
@@ -65,71 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Stellar Mass Black Hole Formation Process**
-> *Follow the steps from star collapse to black hole formation.*
->
-> ```mermaid
-> graph TD
->   A[Star Exhausts Fuel]
->   B[Core Collapse Supernova]
->   C[TOV Limit Exceeded]
->   D[Black Hole Forms]
->   A --> B
->   B -->|If Remnant > TOV|
->   C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Stellar Mass Black Holes vs Other Types**
-> *Compare Stellar Mass BHs with other black hole types and remnants.*
->
-> ```mermaid
-> graph TD
->   A[Stellar Mass BH]
->   B[Supermassive BH]
->   C[Primordial BH]
->   D[Neutron Star]
->   E[White Dwarf]
->   F[Black Hole Remnant]
->   A -->|3-100 Solar Masses|
->   B
->   A -->|Not Formed by Stellar Collapse|
->   C
->   A -->|TOV Limit Exceeded|
->   D
->   A -->|No Known Force Can Prevent Collapse|
->   F
-> ```
-
-
-> [!abstract] **Diagram 3 — Observational Methods for Stellar Mass BHs**
-> *Identify the methods used to detect and study these black holes.*
->
-> ```mermaid
-> graph TD
->   A[X-ray Binaries]
->   B[Gravitational Waves]
->   C[Microlensing Events]
->   D[Stellar Evolution Models]
->   E[Binary Mergers]
->   F[Dynamics of BH Populations]
->   A -->|Accretion from Companion Stars|
->   D
->   B -->|LIGO/Virgo Detection|
->   E
->   C -->|Confirmation of Masses|
->   F
-> ```
 
 # Stellar Mass Black Hole
 

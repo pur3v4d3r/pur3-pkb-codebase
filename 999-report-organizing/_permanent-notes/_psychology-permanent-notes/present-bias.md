@@ -17,7 +17,7 @@ subdomains:
   - self-regulation
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - present-bias-synthetic-seed-2026-04-25
@@ -67,66 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Present Bias Mechanism Overview**
-> *Follow the flow from immediate to future rewards.*
->
-> ```mermaid
-> graph TD
->   A[Immediate Rewards]
->   B[Future Rewards]
->   C[Preference Reversal]
->   D[Short-term Gratification]
->   E[Long-term Benefits]
->   A -->|Value More| C
->   C -->|Shifts Preference| D
->   B -->|Less Valued| C
->   C -->|Overlooks| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Temporal Myopia in Present Bias**
-> *Notice the underestimation of future event duration.*
->
-> ```mermaid
-> graph TD
->   A[Now]
->   B[Near Future]
->   C[Distant Future]
->   D[Immediate Rewards]
->   E[Future Benefits]
->   A -->|Feels Closer| B
->   B -->|Feels Further| C
->   A -->|Value More| D
->   C -->|Underestimated| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Present Bias in Decision-Making Process**
-> *Track the decision flow from initial to final choice.*
->
-> ```mermaid
-> flowchart LR
->   A[Decision Moment]
->   B[Immediate Reward]
->   C[Future Reward]
->   D[Commitment Against Future Self]
->   E[Short-term Decision]
->   F[Long-term Benefit]
->   A -->|Preference Reversal| B
->   A -->|Time Discounting| C
->   B -->|Chooses| E
->   C -->|Overlooked| F
->   E -->|Negative Impact| D
-> ```
 
 # Present Bias
 

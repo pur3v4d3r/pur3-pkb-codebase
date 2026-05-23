@@ -18,7 +18,7 @@ subdomains:
   - study-skills
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - question-generation-strategy-synthetic-seed-2026-04-25
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Question Generation Process Flow**
-> *Follow the sequence from identifying key information to answering questions.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Key Info] --> B[Determine Understanding]
->   B --> C[Formulate Questions]
->   C --> D[Try Answering]
-> ```
-
-
-> [!abstract] **Diagram 2 — Question Generation Cognitive Steps**
-> *Trace the cognitive steps involved in generating questions.*
->
-> ```mermaid
-> graph TD
->   A[Engage Critically] --> B[Determine Uncertainties]
->   B --> C[Formulate Questions]
->   C --> D[Try Answering]
-> ```
-
-
-> [!abstract] **Diagram 3 — Question Generation Applications**
-> *Explore the different applications of question generation in learning.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InstructionalDesign as ID
->   participant SelfStudy as SS
->   participant Assessment as A
->   ID->>SS: Encourage Active Engagement
->   SS-->>A: Monitor Understanding and Track Progress
->   A->>ID: Evaluate Knowledge and Metacognitive Skills
-> ```
 
 # Question Generation Strategy
 

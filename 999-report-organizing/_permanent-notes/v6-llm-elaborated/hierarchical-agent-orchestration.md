@@ -19,7 +19,7 @@ subdomains:
   - system-design
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hierarchical-agent-orchestration-synthetic-seed-2026-05-20
@@ -66,58 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hierarchical Task Decomposition**
-> *Follow the flow from top-level task to sub-tasks.*
->
-> ```mermaid
-> graph TD
->   A[Complex Task] --> B1[Sub-task 1]
->   A --> B2[Sub-task 2]
->   A --> B3[Sub-task 3]
->   B1 --> C1a[Task Component 1]
->   B1 --> C1b[Task Component 2]
->   B2 --> C2a[Task Component 1]
->   B2 --> C2b[Task Component 2]
->   B3 --> C3a[Task Component 1]
-> ```
-
-
-> [!abstract] **Diagram 2 — Agent Specialization Hierarchy**
-> *Identify the specialized roles of each agent in the hierarchy.*
->
-> ```mermaid
-> graph TD
->   A[Orchestrator] --> B1[Content Delivery]
->   A --> B2[Understanding Assessment]
->   A --> B3[Feedback Provisioning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Execution Flow**
-> *Trace the sequence of task execution from start to finish.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Orchestrator as O
->   participant ContentDelivery as CD
->   participant UnderstandingAssessment as UA
->   participant FeedbackProvisioning as FP
->   O->>CD: Assign Task
->   CD-->>O: Complete Task
->   O->>UA: Assign Task
->   UA-->>O: Complete Task
->   O->>FP: Assign Task
->   FP-->>O: Complete Task
-> ```
 
 # Hierarchical Agent Orchestration
 

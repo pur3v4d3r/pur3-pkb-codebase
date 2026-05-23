@@ -18,7 +18,7 @@ subdomains:
   - dual-process-theory
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - system-1-synthetic-seed-2026-04-24
@@ -66,54 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System 1 vs System 2**
-> *Compare the characteristics of both systems.*
->
-> ```mermaid
-> graph TD
->   A[System 1]
->   B[System 2]
->   A -->|Automatic, Effortless| C[Quick Decisions]
->   B -->|Deliberate, Controlled| D[Complex Reasoning]
-> ```
-
-
-> [!abstract] **Diagram 2 — System 1 Mechanism Flow**
-> *Follow the flow of associative memory and pattern recognition.*
->
-> ```mermaid
-> flowchart LR
->   A[Input]
->   B[Associative Memory]
->   C[Pattern Recognition]
->   D[Rapid Judgment]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — System 1 Applications**
-> *Identify the applications of System 1 in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Decision-Making Strategies]
->   C[Cognitive Bias Mitigation]
->   A -->|Engage System 1|
->   B -->|Leverage Efficiency|
->   C -->|Mitigate Biases|
-> ```
 
 # System 1
 

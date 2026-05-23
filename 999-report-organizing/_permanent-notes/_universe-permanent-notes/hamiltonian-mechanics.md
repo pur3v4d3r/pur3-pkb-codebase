@@ -18,7 +18,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hamiltonian-mechanics-synthetic-seed-2026-05-14
@@ -66,51 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Canonical Coordinates Evolution**
-> *Follow the arrows to see how coordinates evolve over time.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial State] --> B[Hamilton's Equations]
->   B --> C[Evolving States]
-> ```
-
-
-> [!abstract] **Diagram 2 — Phase Space Dynamics**
-> *Observe the relationship between position and momentum in phase space.*
->
-> ```mermaid
-> graph TD
->   A[Position q^i] --> B[Momentum p_i]
->   B --> C[Hamiltonian H(q, p)]
->   C --> D[Dynamics]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Lagrangian Mechanics**
-> *Compare the focus on coordinates and velocities between Hamiltonian and Lagrangian mechanics.*
->
-> ```mermaid
-> classDiagram
->   class HamiltonianMechanics{
->     +CanonicalCoordinates(q^i, p_i)
->     +HamiltonsEquations()
->   }
->   class LagrangianMechanics{
->     +GeneralizedCoordinates(q)
->     +Velocities(\dot{q})
->   }
->   HamiltonianMechanics --> LagrangianMechanics : Contrasts
-> ```
 
 # Hamiltonian Mechanics
 

@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-perception
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - naive-realism-synthetic-seed-2026-05-12
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Naive Realism Process Flow**
-> *Follow the steps from perception to disagreement.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Evaluation]
->   B --> C[Belief in Objectivity]
->   C --> D[Disagreement]
->   D --> E[Attribution of Bias]
-> ```
-
-
-> [!abstract] **Diagram 2 — Naive Realism vs Philosophical Naive Realism**
-> *Compare the two concepts and their implications.*
->
-> ```mermaid
-> graph TD
->   A[NR (Psychological)] --> B[Belief in Objective Perception]
->   C[NR (Philosophical)] --> D[Direct Theory of Mind-Independent Objects]
-> ```
-
-
-> [!abstract] **Diagram 3 — Naive Realism Impact on Social Dynamics**
-> *Trace the cycle from perception to echo chambers.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Evaluation]
->   B --> C[Belief in Objectivity]
->   C --> D[Disagreement]
->   D --> E[Attribution of Bias]
->   E --> F[Ignoring Contradictory Evidence]
->   F --> G[Echo Chambers]
-> ```
 
 # Naive Realism
 

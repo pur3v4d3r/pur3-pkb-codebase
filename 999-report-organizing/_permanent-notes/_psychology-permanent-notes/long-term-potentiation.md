@@ -18,7 +18,7 @@ subdomains:
   - synaptic-plasticity
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - long-term-potentiation-synthetic-seed-2026-04-25
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — LTP Induction Process**
-> *Follow the sequence from high-frequency stimulation to synaptic strengthening.*
->
-> ```mermaid
-> graph TD
->   A[High-Frequency Stimulation] --> B(Calcium Influx)
->   B --> C[NMDA Receptor Activation]
->   C --> D[AMPA Receptor Phosphorylation]
->   D --> E(Synaptic Strengthening)
-> ```
-
-
-> [!abstract] **Diagram 2 — LTP vs LTD Comparison**
-> *Compare the effects of LTP and LTD on synaptic strength.*
->
-> ```mermaid
-> graph TD
->   A[Long-Term Potentiation] --> B(Strengthen Synapses)
->   C[Long-Term Depression] --> D(Weaken Synapses)
-> ```
-
-
-> [!abstract] **Diagram 3 — LTP in Learning and Memory**
-> *Trace the pathway from neural activity to memory formation.*
->
-> ```mermaid
-> graph TD
->   A[Neural Activity] --> B(LTP Induction)
->   B --> C(Synaptic Strengthening)
->   C --> D(Memory Formation)
-> ```
 
 # Long-Term Potentiation
 

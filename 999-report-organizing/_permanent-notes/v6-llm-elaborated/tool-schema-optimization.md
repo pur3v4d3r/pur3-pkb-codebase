@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,54 +151,6 @@ By treating tool and function descriptions as dynamic, trainable artifacts rathe
 > [!connection] **[[Function Schema Design]]** — *specializes*
 > Tool Schema Optimization specializes in Function Schema Design by focusing specifically on the optimization of function descriptions within schemas. This specialization allows for targeted improvements that enhance model performance without altering broader aspects of schema design.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Schema Optimization Process Flow**
-> *Follow the steps from schema design to testing.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Design Schema]
->   B --> C[Test Fields]
->   C --> D[A/B Test Phrasings]
->   D --> E[Add Examples]
->   E --> F[Consolidate Functions]
->   F --> G[Order Tools]
->   G --> H[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Schema Design Techniques Overview**
-> *Identify the techniques used in schema optimization.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Ablation Studies]
->   A --> C[A/B Testing Phrasings]
->   A --> D[Add Few-Shot Examples]
->   A --> E[Consolidate Functions]
->   A --> F[Order Tools]
->   G[End]
-> ```
-
-
-> [!abstract] **Diagram 3 — Tool Schema Optimization Workflow**
-> *See the iterative process from design to evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Design Initial Schema]
->   B --> C[Test Impact of Fields]
->   C --> D[A/B Test Phrasings]
->   D --> E[Evaluate Results]
->   E --> F[Iterate on Design]
->   F --> G[End]
-> ```
 
 # Tool Schema Optimization
 

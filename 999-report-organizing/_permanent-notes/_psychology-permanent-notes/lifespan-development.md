@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lifespan-development-synthetic-seed-2026-04-25
@@ -67,59 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Gain-Loss Dynamics Across Lifespan**
-> *Follow the arrows to see how gains and losses shift over time.*
->
-> ```mermaid
-> graph TD
->   A[Infancy] --> B[Childhood]
->   B --> C[Adolescence]
->   C --> D[Young Adulthood]
->   D --> E[Middle Age]
->   E --> F[Old Age]
->   A -- Gains --> B
->   B -- Losses --> C
->   C -- Gains --> D
->   D -- Losses --> E
->   E -- Gains --> F
->   F -- Losses --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Lifespan Development Mechanisms**
-> *Identify the interactions between learning, memory, and cognitive flexibility.*
->
-> ```mermaid
-> graph TD
->   A[Learning] --> B[Memory]
->   B --> C[Cognitive Flexibility]
->   C --> D[Gains]
->   D --> E[Losses]
->   F[Educational Programs] --> G[Social Engagement]
->   H[Lifestyle Choices] --> I[Genetic Predispositions]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications in Different Fields**
-> *Trace the connections between Lifespan Development and real-world applications.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Healthcare]
->   C[Policymaking] --> D[MOOCs]
->   E[Lifelong Learning] --> F[Accessible Technology]
->   G[Mental Exercises] --> H[Cognitive Health]
->   I[Spaced Retrieval] --> J[Optimized Learning]
-> ```
 
 # Lifespan Development
 

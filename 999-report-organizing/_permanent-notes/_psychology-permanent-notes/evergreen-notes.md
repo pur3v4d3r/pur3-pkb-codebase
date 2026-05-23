@@ -17,7 +17,7 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - evergreen-notes-synthetic-seed-2026-04-25
@@ -65,86 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Evergreen Notes Cycle**
-> *Follow the cycle from creation to continuous refinement.*
->
-> ```mermaid
-> graph TD
->   A[Create Note]
->   B[Initial Focus]
->   C[Revisit and Update]
->   D[New Insights]
->   E[Modify Content]
->   F[Link to Related Notes]
->   G[Review Network]
->   H[Ensure Relevance]
->   I[Return to A]
->   A --> B
->   B -->|Over Time| C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   H --> I
-> ```
-
-
-> [!abstract] **Diagram 2 — Evergreen vs Static Notes**
-> *Compare the lifecycle of Evergreen and static notes.*
->
-> ```mermaid
-> graph TD
->   A[Create Note]
->   B[Archive]
->   C[Revisit Update]
->   D[Link Network]
->   E[Ensure Relevance]
->   F[Return to C]
->   G[Static Notes]
->   H[Evergreen Notes]
->   A -->|Once| B
->   A -->|Continuously| C
->   C --> D
->   D --> E
->   E --> F
->   B -.-> G
->   C --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective Thinking Process**
-> *Trace the reflective thinking process in Evergreen Notes.*
->
-> ```mermaid
-> graph TD
->   A[Initial Note]
->   B[Regular Review]
->   C[Evaluate Understanding]
->   D[Integrate New Insights]
->   E[Update Content]
->   F[Link to Related]
->   G[Review Network]
->   H[Ensure Relevance]
->   I[Return to B]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   H --> I
-> ```
 
 # Evergreen Notes
 

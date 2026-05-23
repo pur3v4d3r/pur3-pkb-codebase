@@ -17,7 +17,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - neuroscience-synthetic-seed-2026-05-01
@@ -71,53 +71,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Neuroscience Levels of Analysis**
-> *Follow the hierarchy from molecular to behavioral levels.*
->
-> ```mermaid
-> graph TD
->   A["Molecular & Cellular"] --> B[Anatomical]
->   B --> C[Neural Circuit Dynamics]
->   C --> D[Behavioral/Cognitive Relationships]
-> ```
-
-
-> [!abstract] **Diagram 2 — Key Brain Regions and Functions**
-> *Identify the regions involved in specific cognitive processes.*
->
-> ```mermaid
-> graph TD
->   A["Prefrontal Cortex"] -->|Decision-making| B[Problem-solving]
->   C[Default Mode Network] -->|Mind-wandering| D[Self-referential Thinking]
->   E[Executive Attention Network] -->|Working Memory| F[Cognitive Control]
->   G[Saliency Network] -->|Attention Direction| H[Important Stimuli]
-> ```
-
-
-> [!abstract] **Diagram 3 — Neuroscience Multi-Level Approach**
-> *See how different levels of analysis interact to understand cognition.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Molecular as M
->   participant Cellular as C
->   participant Anatomical as A
->   participant NeuralCircuit as N
->   participant Behavioral as B
->   M->>C: Study Ion Channels & Neurotransmitters
->   C->>A: Understand Structural Organization
->   A->>N: Investigate Circuit Dynamics
->   N->>B: Link to Behavior and Cognitive Functions
-> ```
 
 # Neuroscience
 

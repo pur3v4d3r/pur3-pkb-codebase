@@ -17,7 +17,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - paul-elder-critical-thinking-framework-synthetic-seed-2026-04-24
@@ -66,35 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Elements of Thought Process**
-> *Follow the flow from identifying purpose to evaluating assumptions.*
->
-> ```mermaid
-> graph TD
->   A[Identify Purpose] --> B[Examine Question]
->   B --> C[Evaluate Assumptions]
->   C --> D[Analyze Implications]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intellectual Standards Evaluation**
-> *Trace the evaluation process from clarity to depth.*
->
-> ```mermaid
-> graph TD
->   A[Clarity] --> B[Accuracy]
->   B --> C[Relevance]
->   C --> D[Depth]
-> ```
 
 # Paul-Elder Critical Thinking Framework
 

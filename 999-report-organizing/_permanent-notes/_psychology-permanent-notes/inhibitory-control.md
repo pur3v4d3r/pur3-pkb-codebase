@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - inhibitory-control-synthetic-seed-2026-04-25
@@ -66,44 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Inhibitory Control Process Flow**
-> *Follow the sequence from detection to suppression.*
->
-> ```mermaid
-> flowchart LR
->   A[Detection of Pre-Potent Response] --> B[Evaluation]
->   B -->|Appropriate| C[Execution]
->   B -->|Not Appropriate| D[Suppression]
-> ```
-
-
-> [!abstract] **Diagram 2 — Behavioral vs Cognitive Inhibition**
-> *Compare the two types of inhibitory control processes.*
->
-> ```mermaid
-> graph TD
->   A[Behavioral Response Inhibition] --> B[Stopping Actions]
->   C[Cognitive Interference Control] --> D[Filtering Irrelevant Info]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Identify the differences between reflective and reactive thinking.*
->
-> ```mermaid
-> graph TD
->   A[Reflective Thinking] --> B[Deliberate Consideration]
->   C[Reactive Thinking] --> D[Immediate Response]
-> ```
 
 # Inhibitory Control
 

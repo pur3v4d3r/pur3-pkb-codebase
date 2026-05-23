@@ -17,7 +17,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - trace-decay-synthetic-seed-2026-05-01
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Trace Decay Process Overview**
-> *Follow the flow from memory encoding to decay.*
->
-> ```mermaid
-> flowchart LR
->   A[Memory Encoding] --> B[Activation]
->   B --> C[Rehearsal]
->   C -->|Without Rehearsal| D[Decay]
->   C -->|With Rehearsal| E[Maintenance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Trace Decay vs Interference Theory**
-> *Compare the mechanisms of decay and interference.*
->
-> ```mermaid
-> graph TD
->   A[Trace Decay] --> B[Decay Over Time]
->   C[Interference Theory] --> D[Displacement by New Info]
-> ```
-
-
-> [!abstract] **Diagram 3 — Memory Trace Maintenance Cycle**
-> *Observe the cycle of memory trace maintenance and decay.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Activated
->   Activated --> Rehearsed : With Rehearsal
->   Rehearsed --> Activated : Maintained
->   Activated --> Decayed : Without Rehearsal
->   Decayed --> [*] : Forgetting
-> ```
 
 # Trace Decay
 

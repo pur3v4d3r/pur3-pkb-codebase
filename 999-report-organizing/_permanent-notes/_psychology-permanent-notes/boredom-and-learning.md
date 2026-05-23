@@ -17,7 +17,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - boredom-and-learning-synthetic-seed-2026-04-25
@@ -66,55 +66,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Control-value theory framework**
-> *Follow the arrows to understand how control and value influence boredom.*
->
-> ```mermaid
-> graph TD
->   A[High Control] --> B[Boredom]
->   C[Low Control] --> B
->   D[High Value] --> E[Engagement]
->   F[Low Value] --> G[Mind-wandering]
->   B -->|Disengagement| H[Shallow Processing]
-> ```
-
-
-> [!abstract] **Diagram 2 — Boredom's impact on learning outcomes**
-> *Trace the path from boredom to long-term effects on motivation and retention.*
->
-> ```mermaid
-> flowchart LR
->   A[Boredom] --> B[Reduced Attention]
->   B --> C[Mind-wandering]
->   C --> D[Poor Comprehension]
->   D --> E[Limited Retention]
->   F[Chronic Boredom] --> G[Lower Motivation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of academic boredom**
-> *Follow the sequence to see how boredom affects attention and learning.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Task as T
->   participant Mind as M
->   S->>T: Engages with task
->   T-->>S: Lack of control/value
->   S->>M: Boredom arises
->   M->>S: Attention drifts
->   S->>T: Shallow processing
-> ```
 
 # Boredom and Learning
 

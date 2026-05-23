@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,41 +158,6 @@ Addressing anchoring bias requires a multifaceted approach that combines underst
 > [!connection] **[[Cognitive Bias in LLM Outputs]]** — *falls-under*
 > Anchoring bias is a specific instance of cognitive biases observed in large language models. It highlights how initial information can disproportionately influence reasoning, which is a broader phenomenon encompassed by the study of various cognitive biases in AI outputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Anchoring Bias Process Flow**
-> *Follow the flow from initial anchor to biased output.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Anchor] --> B[LLM Processing]
->   B --> C[Biased Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Anchoring vs Confirmation Bias Comparison**
-> *Compare anchoring and confirmation biases in LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Anchoring Bias] -->|Over-reliance on initial reference|
->   B[Confirmation Bias] -->|Favoring supportive evidence|
->   A --> C[Biased Output]
->   B --> D[Biased Output]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Anchoring Bias**
-> *Identify areas where anchoring bias can impact decision-making.*
->
-> ```mermaid
-> graph TD
->   A[Cost Estimation] -->|Over/Under-estimation|
->   B[Risk Assessment] -->|Flawed Judgments|
->   C[Survey Response Generation] -->|Skewed Perception|
-> ```
 
 # Anchoring Bias in LLM Reasoning
 

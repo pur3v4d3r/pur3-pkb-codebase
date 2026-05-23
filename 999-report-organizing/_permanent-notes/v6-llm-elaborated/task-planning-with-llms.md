@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,45 +169,6 @@ Task planning with LLMs represents a significant advancement in leveraging AI fo
 > [!connection] **[[Plan-and-Solve Prompting]]** — *applies-to*
 > LLM task planning applies Plan-and-Solve Prompting by guiding LLMs to generate plans for solving complex tasks. This prompting technique helps the model understand and break down high-level goals into actionable steps, making it a foundational method in task planning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Task Planning Process Flow**
-> *Follow the flow from goal to execution, noting key stages.*
->
-> ```mermaid
-> flowchart LR
->   A[High-Level Goal] --> B[Plan Generation]
->   B --> C[Subtask Decomposition]
->   C --> D[Tool Mapping]
->   D --> E[Execution & Monitoring]
->   E --> F[Feedback Loop]
-> ```
-
-
-> [!abstract] **Diagram 2 — One-Shot vs Incremental Replanning**
-> *Compare the two approaches to plan generation and execution.*
->
-> ```mermaid
-> graph TD
->   A[One-Shot Planning] --> B[Initial Plan]
->   B --> C[Execution]
->   D[Incremental Replanning] --> E[Dynamic Updates]
->   E --> F[Feedback Loop]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Execution Flowchart**
-> *Trace the steps from subtask to tool execution and feedback.*
->
-> ```mermaid
-> flowchart LR
->   A[Subtask] --> B[Tool Selection]
->   B --> C[Execution]
->   C --> D[Monitor Progress]
->   D --> E[Feedback Loop]
-> ```
 
 # Task Planning with LLMs
 

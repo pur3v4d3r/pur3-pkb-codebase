@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,54 +150,6 @@ Strong performance in zero-shot prompting indicates that a model has effectively
 > [!connection] **[[Instruction-Tuning]]** — *applies-to*
 > Zero-shot prompting relies heavily on instruction-tuning, which prepares models to understand and execute tasks based on descriptions. This connection is crucial because effective instruction-tuning enhances a model's ability to generalize from pretraining data, enabling it to perform well in zero-shot scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Zero-Shot vs Few-Shot Prompting**
-> *Compare zero-shot and few-shot prompting methods.*
->
-> ```mermaid
-> graph TD
->   A[Task Description]
->   B[Few-Shot (Examples)]
->   C[Output]
->   A -->|Input| B
->   B -->|Process| C
->   A -->|Direct Input| D[Zero-Shot Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Model Training Phases**
-> *Understand the training phases of a language model.*
->
-> ```mermaid
-> graph TD
->   Pretraining[Pretraining]
->   InstructionTuning/Instruction-Tuning -->|Fine-tune with Instructions|
->   ZeroShotPrompting/Zero-Shot Prompting -->|Evaluate Generalization|
->   Pretraining --> InstructionTuning
->   InstructionTuning --> ZeroShotPrompting
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Description Flow**
-> *Follow the flow of a task description in zero-shot prompting.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B(Task Description)
->   C[Interpret Task]
->   D(Generate Output)
->   E[End]
->   A --> B
->   B -->|Parse and Understand|
->   C
->   C -->|Execute Based on Patterns|
->   D
->   D --> E
-> ```
 
 # Zero-Shot Prompting
 

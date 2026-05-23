@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,39 +175,6 @@ Studies have shown that incorporating reflective thinking techniques into chain-
 > [!connection] **[[Working Memory in Cognitive Science]]** — *prerequisites*
 > Understanding the principles of working memory from cognitive science is foundational for developing effective working memory simulations in LLMs. This includes knowing how humans prioritize, store, and manipulate information temporarily, which informs the design of algorithms that mimic these processes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Working Memory Simulation Process**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Chain-of-Thought Prompting]
->   B --> C[Intermediate Steps]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Working Memory vs Persistent Memories**
-> *Compare the characteristics of working memory and persistent memories.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory] -->|Transient, Limited Capacity| B[Persistent Memories]
->   B -->|Episodic, Semantic| C[Limited by Context Window]
-> ```
-
-
-> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
-> *Identify the sources of cognitive load in working memory simulation.*
->
-> ```mermaid
-> graph TD
->   A[Task Complexity] -->|Intrinsic Load| B[Cognitive Overload]
->   C[Distracting Elements] -->|Extraneous Load| B
-> ```
 
 # Working Memory Simulation in LLMs
 

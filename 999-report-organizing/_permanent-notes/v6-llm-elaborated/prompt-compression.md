@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,46 +160,6 @@ In essence, Prompt Compression is a multifaceted approach that not only optimize
 > [!connection] **[[Context Window Management]]** — *supports*
 > Prompt Compression supports Context Window Management by enabling more efficient use of limited attention spans in LLMs. By compressing prompts to fit within the context window, it helps maintain model effectiveness even when dealing with long sequences of input data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Compression Mechanisms**
-> *Identify the different methods used for compressing prompts.*
->
-> ```mermaid
-> graph TD
->   A[Extractive Summarization]
->   B[Learned Compression Networks]
->   C[LLM-Based Distillation]
->   A -->|Retain Key Phrases| D[Shorter Sequences]
->   B -->|Encode Longer Inputs| D
->   C -->|Rewrite Verbose Instructions| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Compression vs General Efficiency**
-> *Compare Prompt Compression with general model efficiency improvements.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Compression]
->   B[General Model Efficiency]
->   A -->|Reduce Token Length| C[Efficiency]
->   B -->|Optimize Architecture/Training| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Prompt Compression**
-> *Understand the real-world applications where prompt compression is beneficial.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Real-Time Applications]
->   A -->|Enhance User Experience| C[Faster Responses]
->   B -->|Maintain Low Latency| D[High Throughput]
-> ```
 
 # Prompt Compression
 

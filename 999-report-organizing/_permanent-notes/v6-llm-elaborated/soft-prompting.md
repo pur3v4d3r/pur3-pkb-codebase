@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -153,78 +149,6 @@ By integrating learnable embeddings into the input sequence, Soft Prompting not 
 > [!connection] **[[Gradient-Free Prompt Optimization]]** — *contrasts-with*
 > Soft Prompting contrasts with Gradient-Free Prompt Optimization in its reliance on gradient-based optimization methods. While both aim to adapt language models without altering core parameters, Soft Prompting uses continuous embeddings optimized through gradients, whereas Gradient-Free approaches avoid explicit gradient computation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Soft Prompting Mechanism Overview**
-> *Follow the flow from input to output, noting where embeddings are added and optimized.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence]
->   B[Add Soft Prompts]
->   C[Model Processing]
->   D[Task-Specific Embeddings]
->   E[Optimize Embeddings]
->   F[Output]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Fine-Tuning and Traditional Prompting**
-> *Compare the approaches to see how they differ in terms of model parameters and input types.*
->
-> ```mermaid
-> graph TD
->   A[Soft Prompting]
->   B[Fine-Tuning]
->   C[Traditional Prompting]
->   D[Model Parameters]
->   E[Natural-Language Tokens]
->   F[Embedding Vectors]
->   G[Adjust Model Weights]
->   H[Add to Input Sequence]
->   A -->|No Change|D
->   A -->|Use|F
->   B -->|Change|G
->   C -->|Use|E
->   D --> "Preserve"
->   E --> "Discrete"
->   F --> "Continuous"
->   G --> "Adjust Weights"
->   H --> "Add to Input"
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Adaptation Process Flow**
-> *Trace the steps from task definition to model output, highlighting where embeddings are learned and applied.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Task]
->   B[Prepare Input Sequence]
->   C[Initialize Soft Prompts]
->   D[Model Processing]
->   E[Task-Specific Embeddings]
->   F[Optimize Embeddings]
->   G[Generate Output]
->   H[Evaluate Performance]
->   I[Iterate if Necessary]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   H -->|Yes|I
->   H -->|No|G
-> ```
 
 # Soft Prompting
 

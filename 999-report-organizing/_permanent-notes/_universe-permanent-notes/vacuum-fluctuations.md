@@ -18,7 +18,7 @@ subdomains:
   - cosmology
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - vacuum-fluctuations-synthetic-seed-2026-05-14
@@ -66,45 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Vacuum Fluctuation Mechanism**
-> *Follow the flow from zero-point energy to observable effects.*
->
-> ```mermaid
-> flowchart LR
->   A[Zero-Point Energy] --> B[Vacuum Fluctuations]
->   B --> C[Casimir Effect]
->   B --> D[Lamb Shift]
-> ```
-
-
-> [!abstract] **Diagram 2 — Casimir Effect Process Flow**
-> *Trace the process from plate placement to force measurement.*
->
-> ```mermaid
-> flowchart LR
->   A[Place Plates] --> B[Exclude Wavelengths]
->   B --> C[Attractive Force]
-> ```
-
-
-> [!abstract] **Diagram 3 — Quantum Field Theory Hierarchy**
-> *Navigate the hierarchy from general theory to specific phenomena.*
->
-> ```mermaid
-> graph TD
->   A[Quantum Field Theory] --> B[Vacuum Fluctuations]
->   B --> C[Casimir Effect]
->   B --> D[Lamb Shift]
-> ```
 
 # Vacuum Fluctuations
 

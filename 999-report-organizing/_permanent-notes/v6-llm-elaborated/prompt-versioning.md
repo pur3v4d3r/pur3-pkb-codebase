@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,45 +167,6 @@ Prompt versioning is a foundational practice that enhances both the technical ro
 > [!connection] **[[Model Version Tracking]]** — *supports*
 > Prompt versioning supports model version tracking by providing a comprehensive record of how prompts evolve alongside changes in model versions. This interdependence ensures that developers can understand the full context of performance metrics and make informed decisions about which prompt-model combinations yield optimal results.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Versioning Flowchart**
-> *Follow the flow from initial prompt to versioned deployment.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Prompt Text]
->   B --> C[Rationale for Changes]
->   C --> D[Evaluation Metrics]
->   D --> E[Test Model Versions]
->   E --> F[Deployment Date]
->   F --> G[Versioned Deployment]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Versioning Components**
-> *Identify the key components tracked in each prompt version.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Text] --> B[Rationale]
->   A --> C[Evaluation Metrics]
->   A --> D[Test Model Versions]
->   A --> E[Deployment Date]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Versioning Applications**
-> *See the practical applications of prompt versioning.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Track Changes]
->   C[Regression Testing] --> D[Compare Versions]
->   E[Production Stability] --> F[Rollback Updates]
-> ```
 
 # Prompt Versioning
 

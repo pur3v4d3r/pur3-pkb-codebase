@@ -19,7 +19,7 @@ subdomains:
   - expertise-research
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curse-of-knowledge-synthetic-seed-2026-05-12
@@ -67,48 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Curse Of Knowledge Process Flow**
-> *Follow the flow from knowledge acquisition to communication breakdown.*
->
-> ```mermaid
-> flowchart LR
->   A[Knowledge Acquisition] --> B[Expertise Established]
->   B --> C[Perspective Shift]
->   C --> D[Assumption of Shared Knowledge]
->   D --> E[Communication Breakdown]
-> ```
-
-
-> [!abstract] **Diagram 2 — Curse Of Knowledge Communication Cycle**
-> *Identify the feedback loop that perpetuates ineffective communication.*
->
-> ```mermaid
-> flowchart LR
->   A[Expert Communicates] --> B[Audience Misunderstands]
->   B --> C[Feedback Loop]
->   C --> D[Expert Repeats Complexities]
->   D --> E[Miscommunication Continues]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curse Of Knowledge Mitigation Strategies**
-> *Explore the strategies to overcome communication barriers.*
->
-> ```mermaid
-> graph TD
->   A[Anticipate Misunderstandings] --> B[Test on Naive Audiences]
->   B --> C[Simplify Language]
->   C --> D[Provide Clear Explanations]
-> ```
 
 # Curse Of Knowledge
 

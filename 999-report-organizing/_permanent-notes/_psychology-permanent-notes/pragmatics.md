@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pragmatics-synthetic-seed-2026-04-25
@@ -66,60 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Grice's Maxims Overview**
-> *Identify the four maxims and their roles.*
->
-> ```mermaid
-> graph TD
->   A[Quality]
->   B[Quantity]
->   C[Relation]
->   D[Manner]
->   subgraph Grice's Maxims
->     A -->|Truthfulness| B
->     B -->|Relevance| C
->     C -->|Clarity| D
->     D -->|Brevity|
->   end
-> ```
-
-
-> [!abstract] **Diagram 2 — Speech Act Theory Breakdown**
-> *Understand the three types of speech acts.*
->
-> ```mermaid
-> graph TD
->   A[Locus]
->   B[Force]
->   C[Efficacy]
->   subgraph Speech Acts
->     A -->|Locutionary|
->     B -->|Illocutionary|
->     C -->|Perlocutionary|
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Pragmatic Inference Process**
-> *Follow the steps of pragmatic inference.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Cooperative Principle]
->   B[Recognize Implicatures]
->   C[Apply Speech-Act Theory]
->   A --> B
->   B --> C
-> ```
 
 # Pragmatics
 

@@ -18,7 +18,7 @@ subdomains:
   - spectroscopy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - doppler-effect-in-astronomy-synthetic-seed-2026-05-14
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Doppler Effect Overview**
-> *Follow the flow from source to observer, noting blueshift and redshift.*
->
-> ```mermaid
-> flowchart LR
->   A[Source] -->|Blueshift| B[Observer]
->   A -->|Redshift| C[Observer]
-> ```
-
-
-> [!abstract] **Diagram 2 — Non-Relativistic vs Relativistic Formulas**
-> *Compare the formulas for low and high velocities.*
->
-> ```mermaid
-> graph TD
->   A[Δλ/λ = v/c]
->   B[Δλ/λ = √((1 + β)/(1 - β)) - 1]
->   C{v ≪ c}
->   D{v → c}
->   C -->|Yes| A
->   C -->|No| D
->   D --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Applications of Doppler Effect**
-> *Trace the applications from exoplanet detection to dark matter discovery.*
->
-> ```mermaid
-> sequenceDiagram
->   participant ExoplanetDetection as E
->   participant DarkMatterDiscovery as D
->   participant StellarMassMeasurements as S
->   E->>E: Detects radial-velocity variations
->   D->>D: Analyzes galaxy rotation curves
->   S->>S: Measures periodic changes in spectral lines
-> ```
 
 # Doppler Effect In Astronomy
 

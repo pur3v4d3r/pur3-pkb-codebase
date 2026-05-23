@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,53 +152,6 @@ By integrating reflective thinking and adversarial scenarios, Self-Play Promptin
 > [!connection] **[[Adversarial Training]]** — *applies-to*
 > Self-Play Prompting is an application of adversarial training principles in the context of language model output generation. Both techniques involve exposing models to challenging scenarios to improve their robustness and generalization capabilities, but Self-Play Prompting specifically targets the quality and balance of generated arguments.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Play Process Flow**
-> *Follow the sequence from argument to counterargument.*
->
-> ```mermaid
-> graph TD
->   A[Generate Argument]
->   B[Generate Counterargument]
->   C[Evaluate Robustness]
->   D[Final Output]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Play vs Single-Perspective**
-> *Compare the two approaches in terms of output robustness.*
->
-> ```mermaid
-> graph TD
->   A[Single-Perspective]
->   B[Self-Play]
->   C[Output Robustness]
->   D[Weak Output]
->   E[Robust Output]
->   A -->|Produces| D
->   B -->|Generates| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Play Applications**
-> *Identify the practical applications of Self-Play Prompting.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Ethical AI Development]
->   C[Generate Arguments & Counterarguments]
->   D[Robust Educational Materials]
->   E[Ethically Robust Systems]
->   A -->|C| D
->   B -->|C| E
-> ```
 
 # Self-Play Prompting
 

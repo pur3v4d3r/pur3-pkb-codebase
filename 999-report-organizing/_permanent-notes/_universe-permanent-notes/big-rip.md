@@ -17,7 +17,7 @@ subdomains:
   - theoretical-cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - big-rip-synthetic-seed-2026-05-14
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Big Rip Process Flow**
-> *Follow the sequence from expansion to tearing apart of matter.*
->
-> ```mermaid
-> flowchart LR
->   A[Universe Expansion] --> B[Accelerating Expansion]
->   B --> C[Diverging Expansion Rate]
->   C --> D[Tearing Apart Matter]
-> ```
-
-
-> [!abstract] **Diagram 2 — Phantom Dark Energy Mechanism**
-> *Trace the relationship between phantom dark energy and expansion rate.*
->
-> ```mermaid
-> flowchart LR
->   A[Phantom Dark Energy] --> B[w < -1]
->   B --> C[Density Increases with Expansion]
->   C --> D[Acceleration Grows Over Time]
-> ```
-
-
-> [!abstract] **Diagram 3 — Big Rip vs Other End-States**
-> *Compare Big Rip to Heat Death and Big Crunch scenarios.*
->
-> ```mermaid
-> graph TD
->   A[Heat Death] -->|Gradual Cooling| B[End]
->   C{Big Rip} -->|Accelerating Expansion| D[Tearing Apart Matter]
->   E[Big Crunch] -->|Gravity Collapse| F[End]
-> ```
 
 # Big Rip
 

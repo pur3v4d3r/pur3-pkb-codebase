@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -185,56 +181,6 @@ Empirical studies have shown that ontology-grounded prompting significantly redu
 > [!connection] **[[Knowledge-Graph-Augmented Generation]]** — *see-also*
 > Both approaches leverage external knowledge sources to guide generation tasks. However, while knowledge-graph-augmented generation focuses on integrating diverse pieces of information from a graph structure, ontology-grounded prompting emphasizes the use of formal ontologies to constrain and direct output based on predefined categories and relations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Ontology-Grounded Prompting Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Ontology]
->   B[Embed in Prompt]
->   C[LLM Processing]
->   D[Generate Text]
->   E[Output]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Few-Shot Learning**
-> *Compare the guiding principles of both approaches.*
->
-> ```mermaid
-> graph TD
->   A[Ontology-Grounded Prompting]
->   B[Few-Shot Learning]
->   A -->|Formal Ontologies| C[Structured Guidance]
->   B -->|Example-Based| D[Open-Ended Generation]
->   C --> E[Reduced Errors]
->   D --> F[Possibly More Hallucinations]
-> ```
-
-
-> [!abstract] **Diagram 3 — Ontology Integration in Prompting**
-> *Trace the integration of ontology into prompt and LLM output.*
->
-> ```mermaid
-> flowchart LR
->   A[Domain-Specific Ontology]
->   B[Integrate into Prompt]
->   C[LLM Receives Prompt]
->   D[Generate Structured Output]
->   E[Output Adheres to Schema]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
 
 # Ontology-Grounded Prompting
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,36 +160,6 @@ Classifier-free guidance (CFG) for text stands out as a versatile technique with
 > [!connection] **[[Contrastive Decoding]]** — *contrasts-with*
 > While both techniques aim to enhance text generation control, contrastive decoding operates by comparing conditional distributions directly, whereas CFG combines them through a weighted sum. This fundamental difference impacts how each method handles conditionality and influences the trade-offs between output consistency and fluency.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — CFG Process Flowchart**
-> *Follow the steps from input to output generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Conditional Distribution]
->   C[Unconditional Distribution] --> D[Weighted Combination]
->   B --> D
->   E[Guidance Scale] --> D
->   D --> F[Final Sampling Distribution]
-> ```
-
-
-> [!abstract] **Diagram 2 — CFG Mechanism Diagram**
-> *Observe the formula and its components for CFG.*
->
-> ```mermaid
-> graph TD
->   A[Unconditional Logits] --> B{+}
->   C[Conditional Logits] --> D{-}
->   E[Guidance Scale] --> F{*}
->   G[Difference] --> H{+}
->   B --> I[Weighted Sum]
->   D --> H
->   F --> H
-> ```
 
 # Classifier-Free Guidance for Text
 

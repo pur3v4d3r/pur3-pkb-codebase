@@ -19,7 +19,7 @@ subdomains:
   - ensemble-methods
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - multi-agent-debate-synthetic-seed-2026-05-20
@@ -69,50 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Multi-Agent Debate Process Flow**
-> *Follow the flow from initial response to final answer.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Response] --> B[Argumentation Round]
->   B --> C[Revised Position]
->   C --> D[Final Answer]
-> ```
-
-
-> [!abstract] **Diagram 2 — Structured Argumentation Rounds**
-> *Observe the iterative refinement process through debate rounds.*
->
-> ```mermaid
-> flowchart LR
->   A[Round 1] --> B[Round 2]
->   B --> C[Round 3]
->   C --> D[Final Answer]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Compare the iterative refinement process with immediate responses.*
->
-> ```mermaid
-> graph TD
->   A[Reactive] --> B[Immediate Response]
->   C[Reflective] --> D[Iterative Refinement]
->   subgraph Iteration
->     E[Round 1]
->     F[Round 2]
->     G[Final Answer]
->   end
-> ```
 
 # Multi-Agent Debate
 

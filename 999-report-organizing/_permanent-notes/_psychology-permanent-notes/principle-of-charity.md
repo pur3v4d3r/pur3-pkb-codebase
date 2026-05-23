@@ -18,7 +18,7 @@ subdomains:
   - argumentation
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - principle-of-charity-synthetic-seed-2026-04-26
@@ -65,37 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Principle of Charity Process Flow**
-> *Follow the steps to apply Principle of Charity.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Claims] --> B[Consider Context]
->   B --> C[Rational Interpretation]
->   C --> D[Test Against Evidence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Principle of Charity in Academic Debate**
-> *See how Principle of Charity enhances academic discourse.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Participant1
->   participant B as Participant2
->   A->>B: Present Strongest Argument
->   B->>A: Engage Constructively
->   A->>B: Refute Based on Strength
-> ```
 
 # Principle of Charity
 

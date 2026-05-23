@@ -20,7 +20,7 @@ subdomains:
   - instruction-following-evaluation
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mt-bench-synthetic-seed-2026-05-20
@@ -67,60 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — MT-Bench Evaluation Process**
-> *Follow the flow from dialogue creation to scoring.*
->
-> ```mermaid
-> graph TD
->   A[Dialogue Creation]
->   B[Model Response Generation]
->   C[GPT-4 Scoring]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — MT-Bench Dialogue Tasks**
-> *Identify the various tasks covered in MT-Bench dialogues.*
->
-> ```mermaid
-> graph TD
->   A[Reasoning]
->   B[Coding]
->   C[Mathematics]
->   D[Roleplay]
->   E[Writing]
->   F[Knowledge-Based]
->   A -->|Task|
->   B -->|Task|
->   C -->|Task|
->   D -->|Task|
->   E -->|Task|
->   F -->|Task|
-> ```
-
-
-> [!abstract] **Diagram 3 — MT-Bench Scoring Criteria**
-> *Understand the criteria used for scoring model responses.*
->
-> ```mermaid
-> graph TD
->   A[Coherence]
->   B[Relevance]
->   C[Engagement]
->   A -->|Criterion|
->   B -->|Criterion|
->   C -->|Criterion|
-> ```
 
 # MT-Bench
 

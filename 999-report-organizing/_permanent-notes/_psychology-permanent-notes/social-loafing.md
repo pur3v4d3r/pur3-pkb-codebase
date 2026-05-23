@@ -18,7 +18,7 @@ subdomains:
   - motivation
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - social-loafing-synthetic-seed-2026-04-26
@@ -67,54 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Social Loafing Mechanism Overview**
-> *Follow the flow from reduced personal responsibility to decreased effort.*
->
-> ```mermaid
-> flowchart LR
->   A[Reduced Personal Responsibility] --> B[Perceived Ineffectiveness]
->   B --> C[Decreased Effort]
-> ```
-
-
-> [!abstract] **Diagram 2 — Social Loafing Mitigation Strategies**
-> *Identify the strategies that can mitigate Social Loafing in group settings.*
->
-> ```mermaid
-> graph TD
->   A[Assign Specific Roles]
->   B[Track Individual Contributions]
->   C[Unique Inputs Required]
->   D[Regular Progress Updates]
->   A -->|Example: Instructional Design| E[Mitigation Strategies]
->   B -->|Example: Project Management| E
->   C -->|Example: Education| E
->   D -->|Example: Virtual Teams| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Social Loafing vs Intrinsic Load**
-> *Compare Social Loafing with intrinsic load to understand their distinct impacts.*
->
-> ```mermaid
-> classDiagram
->   class SocialLoafing{
->     +reduced effort due to lack of accountability
->   }
->   class IntrinsicLoad{
->     +cognitive demands placed on individuals
->   }
->   SocialLoafing -->|distinct from| IntrinsicLoad
-> ```
 
 # Social Loafing
 

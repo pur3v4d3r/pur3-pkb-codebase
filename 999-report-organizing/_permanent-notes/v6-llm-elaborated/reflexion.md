@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,41 +164,6 @@ Reflexion represents a significant advancement in prompt-engineering by demonstr
 > [!connection] **[[Chain-of-Verification]]** — *see-also*
 > Both Reflexion and Chain-of-Verification involve iterative cycles of task execution and evaluation. However, while Chain-of-Verification focuses on verifying the correctness of a sequence of steps through explicit checks, Reflexion emphasizes self-reflection to improve performance based on verbal feedback.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reflexion Process Flow**
-> *Follow the iterative cycle of task attempt and reflection.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Attempt] --> B[Reflection]
->   B --> C[Working Memory Update]
->   C --> D[Next Task Attempt]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Reflexion**
-> *Trace the steps from task analysis to reflection and improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Analysis] --> B[Identify Failure]
->   B --> C[Generate Reflection]
->   C --> D[Integrate Reflection]
->   D --> E[Improve Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Traditional RL**
-> *Compare Reflexion's reliance on verbal feedback to traditional numerical rewards.*
->
-> ```mermaid
-> graph TD
->   A[Reflexion] --> B[Verbal Feedback]
->   C[Traditional RL] --> D[Numerical Rewards]
-> ```
 
 # Reflexion
 

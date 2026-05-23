@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,44 +150,6 @@ The choice between full fine-tuning (FFT) and parameter-efficient fine-tuning (P
 > [!connection] **[[Catastrophic Forgetting in LLMs]]** — *contrasts-with*
 > The contrast between FFT and catastrophic forgetting highlights the risk of losing general capabilities when fine-tuning large language models. While FFT can lead to significant performance improvements on specific tasks, it also increases the likelihood of catastrophic forgetting where the model may forget previously learned information. PEFT methods mitigate this issue by preserving the pretrained backbone while adapting only a subset of parameters.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — FFT vs PEFT Memory Usage**
-> *Compare memory usage between FFT and PEFT methods.*
->
-> ```mermaid
-> graph TD
->   A[Full Fine-Tuning]
->   B(Parameter-Efficient Fine-Tuning)
->   A -->|High Memory Demand| C[All Parameters]
->   B -->|Low Memory Demand| D[Few Task-Specific Params]
-> ```
-
-
-> [!abstract] **Diagram 2 — FFT vs PEFT Computational Cost**
-> *Compare computational cost between FFT and PEFT methods.*
->
-> ```mermaid
-> graph TD
->   A[Full Fine-Tuning]
->   B(Parameter-Efficient Fine-Tuning)
->   A -->|High Compute Resources| C[All Parameters]
->   B -->|Low Compute Resources| D[Few Task-Specific Params]
-> ```
-
-
-> [!abstract] **Diagram 3 — FFT vs PEFT Trade-Offs**
-> *Understand the trade-offs between FFT and PEFT methods.*
->
-> ```mermaid
-> graph TD
->   A[Full Fine-Tuning]
->   B(Parameter-Efficient Fine-Tuning)
->   A -->|Maximal Expressivity| C[High Compute, Risk of Forgetting]
->   B -->|Efficient Adaptation| D[Low Memory, Multiple Tasks]
-> ```
 
 # Full Fine-Tuning vs Parameter-Efficient Fine-Tuning
 

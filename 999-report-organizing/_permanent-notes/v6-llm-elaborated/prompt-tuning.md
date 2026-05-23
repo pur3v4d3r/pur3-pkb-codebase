@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,35 +156,6 @@ Prompt Tuning exemplifies a shift towards more efficient and adaptable methods i
 > [!connection] **[[Soft-Prompting]]** — *specializes*
 > Prompt Tuning specializes in the use of soft prompts, which are learnable embeddings that can be optimized for specific tasks. This specialization allows Prompt Tuning to leverage the strengths of large language models while minimizing the need for extensive retraining. Understanding Soft Prompting provides insight into how Prompt Tuning achieves its efficiency and adaptability.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Tuning Process Flow**
-> *Follow the flow from initialization to optimization of soft prompts.*
->
-> ```mermaid
-> flowchart LR
->   A[Initialize Soft Prompts] --> B[Prepend to Input]
->   B --> C[Pass Through LLM]
->   C --> D[Calculate Loss]
->   D --> E[Backpropagate Gradients]
->   E --> F[Adjust Embeddings]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Tuning vs Full Fine-Tuning**
-> *Compare the resource usage and performance of Prompt Tuning versus full fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[Resource Usage]
->   B[Performance]
->   C[Prompt Tuning] -->|Low| A
->   C -->|Competitive| B
->   D[Full Fine-Tuning] -->|High| A
->   D -->|Better| B
-> ```
 
 # Prompt Tuning
 

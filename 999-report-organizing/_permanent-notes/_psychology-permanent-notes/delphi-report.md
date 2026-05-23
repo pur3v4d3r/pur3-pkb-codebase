@@ -18,7 +18,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - delphi-report-synthetic-seed-2026-04-24
@@ -66,63 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Delphi Report Core Components**
-> *Identify the six cognitive skills and dispositional habits.*
->
-> ```mermaid
-> graph TD
->   A[Interpretation]
->   B[Analysis]
->   C[Evaluation]
->   D[Inference]
->   E[Explanation]
->   F[Self-Regulation]
->   G[Dispositional Habits]
->   A -->|Cognitive Skills| G
->   B -->|Cognitive Skills| G
->   C -->|Cognitive Skills| G
->   D -->|Cognitive Skills| G
->   E -->|Cognitive Skills| G
->   F -->|Cognitive Skills| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Delphi Method Process Flow**
-> *Follow the iterative rounds of expert surveys.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Survey]
->   B[Round 1 Feedback]
->   C[Round 2 Refinement]
->   D[Final Consensus]
->   A -->|Round 1| B
->   B -->|Round 2| C
->   C -->|Consensus Reached| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Critical Thinking Assessment Tools**
-> *See how the Delphi Report influenced assessment development.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Educator as E
->   participant Student as S
->   participant CCTST as C
->   E->>S: Teach Critical Thinking Skills and Habits
->   S->>C: Take CCTST Assessment
->   C-->>E: Evaluate Student Progress
-> ```
 
 # Delphi Report
 

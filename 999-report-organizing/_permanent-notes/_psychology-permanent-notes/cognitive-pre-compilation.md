@@ -21,7 +21,7 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - implementation-intentions-gollwitzer-foundational-report-2026-04-20
@@ -69,48 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Pre-compilation Process Flow**
-> *Follow the steps from goal setting to automatic execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Goal Setting] --> B[Situational Analysis]
->   B --> C[Cue-Behavior Linking]
->   C --> D[Automatic Execution]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Pre-compilation Mechanism Overview**
-> *Identify the key components and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Goal]
->   B[Situational Analysis] --> C[Cue-Behavior Linking]
->   D[Automatic Execution]
->   A -->|Formulates Goal| B
->   C -->|Activates Pre-compiled Representation| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Pre-compilation in Practice**
-> *See how different applications utilize pre-compilation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Worked Examples]
->   C[Behavioral Change] --> D[Implementation Intentions]
->   E[Workplace Productivity] --> F[Cue-Triggered Behaviors]
-> ```
 
 # Cognitive Pre-Compilation
 

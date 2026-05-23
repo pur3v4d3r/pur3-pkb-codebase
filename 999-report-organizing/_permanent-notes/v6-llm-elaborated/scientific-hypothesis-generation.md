@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,31 +151,6 @@ The integration of LLMs into scientific hypothesis generation represents a signi
 > [!connection] **[[Claim Strength Calibration]]** — *refines*
 > The process of scientific hypothesis generation via LLMs benefits significantly from claim strength calibration. By refining the output of these models through rigorous evaluation and adjustment, researchers can enhance the credibility and robustness of generated hypotheses. This refinement ensures that proposed mechanisms are not only novel but also plausible within existing theoretical frameworks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Hypothesis Generation Process**
-> *Follow the flow from prompt to hypothesis generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Background Info] --> B[Prompt Crafting]
->   B --> C[Hypothesis Generation]
->   C --> D[Systematic Check]
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM vs Human Expert Hypotheses**
-> *Compare the approaches of LLMs and human experts.*
->
-> ```mermaid
-> graph TD
->   A[LLMs] --> B[Broad Training Data]
->   C[Human Experts] --> D[Narrow Domain Expertise]
->   B --> E(Cross-Domain Hypotheses)
->   D --> F(Specialized Hypotheses)
-> ```
 
 # Scientific Hypothesis Generation
 

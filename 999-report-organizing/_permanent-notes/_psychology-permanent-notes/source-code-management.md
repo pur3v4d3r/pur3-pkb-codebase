@@ -18,7 +18,7 @@ subdomains:
   - devops
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - source-code-management-synthetic-seed-2026-05-01
@@ -68,52 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — SCM Workflow Overview**
-> *Follow the flow from commit to merge.*
->
-> ```mermaid
-> flowchart LR
->   A[Commit] --> B[Branch]
->   B --> C[Merge]
->   C --> D[Integrate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Git Commit Model**
-> *Trace the directed acyclic graph structure.*
->
-> ```mermaid
-> graph TD
->   A[Commit1] --> B[Commit2]
->   B --> C[Commit3]
->   D[Commit4] -->|Merge| E[Commit5]
->   E --> F[Commit6]
-> ```
-
-
-> [!abstract] **Diagram 3 — Branching Strategies Comparison**
-> *Compare different branching strategies.*
->
-> ```mermaid
-> sequenceDiagram
->   participant TrunkBased as TB
->   participant GitFlow as GF
->   participant GitHubFlow as GHF
->   participant ReleaseBranching as RB
->   TB->>TB: Develop on main branch
->   GF->>GF: Feature branches, release branches
->   GHF->>GHF: Feature branches, deploy to production
->   RB->>RB: Long-lived release branches
-> ```
 
 # Source Code Management
 

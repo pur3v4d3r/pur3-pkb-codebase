@@ -18,7 +18,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - group-theory-in-physics-synthetic-seed-2026-05-14
@@ -68,45 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Group Theory Applications In Physics**
-> *Identify the core applications of group theory in physics.*
->
-> ```mermaid
-> graph TD
->   A[Particle Physics] --> B1[Standard Model]
->   A --> B2[General Relativity]
->   A --> B3[Unification Theories]
-> ```
-
-
-> [!abstract] **Diagram 2 — Symmetry And Conservation Laws**
-> *Understand the relationship between symmetries and conservation laws.*
->
-> ```mermaid
-> flowchart LR
->   A[Symmetry] --> B1[Noether's Theorem]
->   B1 --> C1[Conservation Laws]
-> ```
-
-
-> [!abstract] **Diagram 3 — Lie Groups And Algebras In Physics**
-> *Explore the distinction between Lie groups and algebras in physics.*
->
-> ```mermaid
-> graph TD
->   A[Lie Group] --> B1[Full Symmetries]
->   A --> B2[Topological Constraints]
->   C[Lie Algebra] --> D1[Infinitesimal Transformations]
-> ```
 
 # Group Theory In Physics
 

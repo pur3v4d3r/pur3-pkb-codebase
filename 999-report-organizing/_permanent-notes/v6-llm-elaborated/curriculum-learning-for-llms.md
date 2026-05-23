@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,41 +159,6 @@ Curriculum Learning for LLMs represents a sophisticated approach to optimizing t
 > [!connection] **[[Pretraining Data Influence]]** — *applies-to*
 > Curriculum Learning for LLMs applies the concept of pretraining data influence by strategically ordering the presentation of training examples to optimize model learning. This application is particularly relevant in the context of language models, where the quality and sequence of pretraining data can significantly impact final performance on downstream tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Curriculum Learning Process Flow**
-> *Follow the sequence from simple to complex examples.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Simples]
->   B --> C[Complexes]
->   C --> D[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Curriculum Learning vs Anti-Curriculum**
-> *Compare the direction of difficulty progression.*
->
-> ```mermaid
-> graph TD
->   A[Start] --> B[C-Learn]
->   B --> C[Complexes]
->   A --> D[Anti-C]
->   D --> E[Simples]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curriculum Scoring Methods**
-> *Identify the different scoring methods used.*
->
-> ```mermaid
-> graph TD
->   A[Perplexity] --> B[Quality]
->   C[Length] --> D[Complexity]
-> ```
 
 # Curriculum Learning for LLMs
 

@@ -17,7 +17,7 @@ subdomains:
   - counselling
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - motivational-interviewing-synthetic-seed-2026-04-24
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — MI Process Flow**
-> *Follow the sequence from open questions to summaries.*
->
-> ```mermaid
-> flowchart LR
->   A[Open Questions] --> B[Affirmations]
->   B --> C[Reflective Listening]
->   C --> D[Summaries]
-> ```
-
-
-> [!abstract] **Diagram 2 — MI Mechanism Overview**
-> *Trace the steps from open questions to enhanced autonomous regulation.*
->
-> ```mermaid
-> graph TD
->   A[Open Questions] --> B[Affirmations]
->   B --> C[Reflective Listening]
->   C --> D[Summaries]
->   D --> E[Enhanced Self-Awareness]
->   E --> F[Autonomous Regulation]
-> ```
-
-
-> [!abstract] **Diagram 3 — MI Applications Summary**
-> *Compare the applications in substance use, health behavior, and adherence.*
->
-> ```mermaid
-> graph TD
->   A[Substance Use] --> B[Engage Dialogue]
->   C[Health Behavior] --> D[Address Ambivalence]
->   E[Adherence] --> F[Aid Medication Adherence]
-> ```
 
 # Motivational Interviewing
 

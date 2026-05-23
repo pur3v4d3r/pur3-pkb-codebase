@@ -17,7 +17,7 @@ subdomains:
   - large-scale-structure
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cosmic-web-synthetic-seed-2026-05-14
@@ -67,46 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cosmic Web Structure Overview**
-> *Identify the major components of the Cosmic Web.*
->
-> ```mermaid
-> graph TD
->   A[Void] --> B[Filament]
->   B --> C[Walls]
->   C --> D[Dense Regions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Gravitational Collapse Process**
-> *Follow the steps of gravitational collapse forming the Cosmic Web.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Perturbations] --> B[Density Fluctuations]
->   B --> C[Hierarchical Clustering]
->   C --> D[Filaments and Voids]
-> ```
-
-
-> [!abstract] **Diagram 3 — Matter Distribution vs Biased Tracers**
-> *Compare the distribution of matter with biased tracers like galaxies.*
->
-> ```mermaid
-> graph TD
->   A[Matter Distribution] --> B[Galaxies]
->   C[Biased Tracers] --> D[Ionized Hydrogen Clouds]
->   E[Selection Artifacts] --> F[Genuine Cosmic Structures]
-> ```
 
 # Cosmic Web
 

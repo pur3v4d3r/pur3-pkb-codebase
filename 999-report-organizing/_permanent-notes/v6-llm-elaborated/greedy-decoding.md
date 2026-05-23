@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,36 +156,6 @@ The choice between greedy decoding and more sophisticated methods like beam sear
 > [!connection] **[[Beam Search Decoding]]** — *contrasts-with*
 > Greedy decoding contrasts with beam search decoding by prioritizing immediate token selection over long-term sequence optimization. While greedy decoding ensures quick, deterministic outputs, beam search explores multiple paths to find the globally optimal sequence, highlighting a trade-off between speed and quality.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Greedy Decoding Process Flow**
-> *Follow the sequence from input to output, noting the deterministic selection at each step.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Sequence] --> B[Context Window]
->   B --> C[Token Probabilities]
->   C --> D{Highest Probability}
->   D --> E[Select Token]
->   E --> F[Output Sequence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Greedy vs Beam Search Comparison**
-> *Compare the paths taken by greedy decoding and beam search to understand their differences in sequence generation.*
->
-> ```mermaid
-> graph TD
->   A[Start] --> B{Greedy}
->   B --> C[Select Highest]
->   C --> D[End Sequence]
->   A --> E{Beam Search}
->   E --> F[Multiple Paths]
->   F --> G[Cumulative Score]
->   G --> H[Best Path]
-> ```
 
 # Greedy Decoding
 

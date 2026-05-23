@@ -18,7 +18,7 @@ subdomains:
   - computer-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - dependency-management-synthetic-seed-2026-04-24
@@ -65,36 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Dependency Management Process Flow**
-> *Follow the steps from manifest reading to installation.*
->
-> ```mermaid
-> flowchart LR
->   A[Manifest File] --> B[Package Registry]
->   B --> C[Version Selection]
->   C --> D[Lock File]
->   D --> E[Installation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dependency Management in Microservices**
-> *Identify how dependency conflicts are resolved between microservices.*
->
-> ```mermaid
-> graph TD
->   A[Microservice1] -->|Requires v2.0| F[Conflict]
->   B[Microservice2] -->|Requires v1.5| F
->   C[Dependency Manager] -->|Resolves Conflict| G[Consistent Versions]
-> ```
 
 # Dependency Management
 

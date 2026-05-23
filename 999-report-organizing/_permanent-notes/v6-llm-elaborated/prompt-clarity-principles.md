@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,54 +156,6 @@ By integrating reflective thinking and minimizing extraneous cognitive load thro
 > [!connection] **[[Negative Prompting]]** — *contrasts-with*
 > While negative prompting focuses on avoiding unwanted elements, prompt clarity principles emphasize clear and specific instructions to achieve desired outcomes. This distinction highlights the proactive versus reactive nature of these approaches in guiding AI responses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Clarity Principles Overview**
-> *Identify the key principles and their roles.*
->
-> ```mermaid
-> graph TD
->   A[Specificity]
->   B[Atomicity]
->   C[Positive Framing]
->   D[Pronoun Disambiguation]
->   E[Avoid Implicit Assumptions]
->   F --> A
->   F --> B
->   F --> C
->   F --> D
->   F --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Positive Framing vs Negative Prompting**
-> *Compare positive framing with negative prompting.*
->
-> ```mermaid
-> graph TD
->   A[Positive Framing]
->   B[Negative Prompting]
->   C['Clearly State Desired Outcome'] --> A
->   D['Avoid Unwanted Elements'] --> B
->   E['Model Understands Expectations'] --> A
->   F['Ambiguity if Not All Negatives Stated'] --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Principles**
-> *See how principles apply in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Creative Writing]
->   C['Specify Detail Level'] --> A
->   D['Define Genre, Setting, Tone'] --> B
->   E['Consistent Educational Outputs'] --> A
->   F['Focused and Coherent Narratives'] --> B
-> ```
 
 # Prompt Clarity Principles
 

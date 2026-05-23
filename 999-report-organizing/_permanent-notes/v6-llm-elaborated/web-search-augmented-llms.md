@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,44 +171,6 @@ Web search-augmented LLMs resolve the knowledge cutoff problem for factual queri
 > [!connection] **[[Retrieval-Augmented Generation]]** — *specializes*
 > Web search-augmented LLMs specialize in retrieval-augmented generation by integrating web searches into the response generation process. This specialization allows them to leverage vast amounts of online data, enhancing their ability to provide accurate and up-to-date information.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Web Search Mechanism Overview**
-> *Follow the flow from user input to final response.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Query Generation]
->   B --> C[Search Execution]
->   C --> D[Result Integration]
->   D --> E[Response Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Process Flow of Web Search-Augmented LLMs**
-> *Trace the stages from query to response.*
->
-> ```mermaid
-> flowchart LR
->   A[User Query] --> B[Query Formulation]
->   B --> C[Web Search]
->   C --> D[Result Processing]
->   D --> E[Integration into Response]
-> ```
-
-
-> [!abstract] **Diagram 3 — Sophisticated Implementation Stages**
-> *Identify the advanced stages of information retrieval and integration.*
->
-> ```mermaid
-> flowchart LR
->   A[Query Generation] --> B[Multistage Retrieval]
->   B --> C[Source Selection & Ranking]
->   C --> D[Citation Attribution]
->   D --> E[Contradictory Source Reconciliation]
-> ```
 
 # Web Search-Augmented LLMs
 

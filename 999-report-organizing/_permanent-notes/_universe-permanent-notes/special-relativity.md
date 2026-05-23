@@ -17,7 +17,7 @@ subdomains:
   - theoretical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - special-relativity-synthetic-seed-2026-05-14
@@ -68,54 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Special Relativity Postulates**
-> *Follow the flow to understand Einstein's two postulates.*
->
-> ```mermaid
-> flowchart LR
->   A[Postulate 1] --> B[Laws of Physics]
->   C[Postulate 2] --> D[Speed of Light]
->   B --> E[Ideal Inertial Frames]
->   D --> F[Constant Across Frames]
-> ```
-
-
-> [!abstract] **Diagram 2 — Time Dilation and Length Contraction**
-> *Observe the effects on time and space as velocity increases.*
->
-> ```mermaid
-> graph TD
->   A[Velocity] --> B[Time Dilation]
->   A --> C[Length Contraction]
->   B --> D[Slower Time]
->   C --> E[Shorter Length]
-> ```
-
-
-> [!abstract] **Diagram 3 — Special vs General Relativity**
-> *Compare the scope of Special and General Relativity.*
->
-> ```mermaid
-> classDiagram
->   class SpecialRelativity{
->     +InertialFramesOnly()
->     +NoGravityEffects()
->   }
->   class GeneralRelativity{
->     +IncludesGravitationalFields()
->     +NonInertialFramesIncluded()
->   }
->   SpecialRelativity -->|Extends to| GeneralRelativity
-> ```
 
 # Special Relativity
 

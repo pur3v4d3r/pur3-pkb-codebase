@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -69,69 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mastery Climate Structural Features**
-> *Identify the key structural features that create a mastery climate.*
->
-> ```mermaid
-> graph TD
->   A[Task Design]
->   B[Autority Distribution]
->   C[Evaluation Methods]
->   D[Recognition Criteria]
->   E[Grouping Practices]
->   F[Time Organization]
->   A -->|Promotes Exploration| G[Mastery Climate]
->   B -->|Democratic Input| G
->   C -->|Emphasizes Process| G
->   D -->|Quality Over Competition| G
->   E -->|Collaborative Projects| G
->   F -->|Flexible Scheduling| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Mastery Climate vs Performance-Oriented Environment**
-> *Compare the focus of a mastery climate with that of a performance-oriented environment.*
->
-> ```mermaid
-> flowchart LR
->   A[Performance Metrics]
->   B[Deep Understanding]
->   C[Immediate Outcomes]
->   D[Process Emphasis]
->   E[Competition]
->   F[Celebration of Effort]
->   G[Mastery Climate] -->|Focus On| B
->   G -->|Emphasizes| D
->   G -->|Celebrates| F
->   H[Performance-Oriented Environment] -->|Focus On| A
->   H -->|Emphasizes| C
->   H -->|Encourages| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanisms of Mastery Climate Creation**
-> *Understand the key mechanisms involved in creating a mastery climate.*
->
-> ```mermaid
-> graph TD
->   A[Challenging Tasks]
->   B[Collaborative Authority]
->   C[Quality Recognition]
->   D[Formative Feedback]
->   E[Mastery Climate] -->|Encourages| A
->   E -->|Fosters| B
->   E -->|Focuses On| C
->   E -->|Emphasizes| D
-> ```
 
 # Mastery Climate
 

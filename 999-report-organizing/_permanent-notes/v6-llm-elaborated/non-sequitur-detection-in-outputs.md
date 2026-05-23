@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,47 +155,6 @@ By integrating Non-Sequitur Detection into the evaluation pipeline of LLMs, we n
 > [!connection] **[[Logical Entailment Verification]]** — *contrasts-with*
 > While Logical Entailment Verification ensures that each sentence logically follows from the previous one, Non-Sequitur Detection focuses on thematic coherence across sentences. This distinction is crucial because entailment verification can miss contextually plausible but thematically irrelevant content.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Logical Flow Analysis**
-> *Follow the arrows to see how non-sequiturs disrupt logical flow.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Context]
->   B --> C[Coherent Sentence]
->   C --> D[Non-Sequitur]
->   D --> E[Disruption]
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Failure Mechanism**
-> *Identify how attention shifts lead to non-sequiturs.*
->
-> ```mermaid
-> graph TD
->   A[Context]
->   B[Thematic Focus]
->   C[Semantic Proximity]
->   D[Non-Sequitur]
->   A -->|Shifts Attention| B
->   B -->|Ignores Thematic Relevance| C
->   C -->|Introduces Non-Relevant Content| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Coherence Drift in Long-Form Generation**
-> *Track how coherence deteriorates over long text generation.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Context
->   Context --> Coherent: Maintains Thematic Focus
->   Coherent --> Divergent: Accumulated Context Dilutes Original Constraints
->   Divergent --> Non-Sequitur: Logical Disconnects Emerge
-> ```
 
 # Non-Sequitur Detection in Outputs
 

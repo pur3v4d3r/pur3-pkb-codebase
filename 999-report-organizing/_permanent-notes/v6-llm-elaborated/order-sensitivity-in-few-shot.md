@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,46 +164,6 @@ By integrating insights from cognitive psychology and machine learning, order se
 > [!connection] **[[Recency Bias]]** — *specializes*
 > Order sensitivity in few-shot prompting is a specific instance of recency bias, where the most recent information receives disproportionate attention. This specialization highlights how recency bias manifests uniquely within the constrained context of few-shot learning, emphasizing the need for tailored mitigation strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Order Sensitivity Phenomenon Overview**
-> *Follow the flow from input to output, noting key effects.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Examples] --> B[Positional Attention]
->   B --> C[Recency Bias]
->   B --> D[Primacy Effects]
->   C --> E[Output Accuracy]
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Positional Attention Weighting**
-> *Trace the path from query to output, highlighting positional influence.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Closer Examples]
->   C[Farther Examples] --> D[Output]
->   B --> D
->   B -.-> E[Higher Weighting]
->   C --> D
->   C -.-> F[Lower Weighting]
-> ```
-
-
-> [!abstract] **Diagram 3 — Strategies to Mitigate Order Sensitivity**
-> *Identify the strategies and their impact on model output.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Reduce Recency Bias]
->   C[Active Reordering] --> D[Enhance Relevance]
->   E[Query-Conditioned Retrieval] --> F[Align with Query]
-> ```
 
 # Order Sensitivity in Few-Shot
 

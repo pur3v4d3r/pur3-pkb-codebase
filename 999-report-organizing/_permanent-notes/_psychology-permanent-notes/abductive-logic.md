@@ -17,7 +17,7 @@ subdomains:
   - ai
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - abductive-logic-synthetic-seed-2026-04-24
@@ -66,46 +66,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
-> *Follow the flow from observations to best explanation.*
->
-> ```mermaid
-> flowchart LR
->   A[Observations] --> B[Hypotheses]
->   B --> C[Evaluation Criteria]
->   C --> D[Best Explanation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Abductive Logic Evaluation Criteria**
-> *Identify the criteria used to assess hypotheses.*
->
-> ```mermaid
-> graph TD
->   A[Simplicity] --> B[Coherence]
->   C[Scope] --> D[Fertility]
-> ```
-
-
-> [!abstract] **Diagram 3 — Abductive vs Bayesian Inference**
-> *Compare abductive and Bayesian approaches in AI.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Abductive Logic
->   participant B as Bayesian Methods
->   A->>B: Prioritizes explanatory coherence
->   B->>A: Emphasizes statistical likelihood
-> ```
 
 # Abductive Logic
 

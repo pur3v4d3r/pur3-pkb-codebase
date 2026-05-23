@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -72,48 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Internalization Stages Overview**
-> *Follow the progression from external to internal regulation.*
->
-> ```mermaid
-> graph TD
->   A[Externally Controlled] --> B[Introjected]
->   B --> C[Identified]
->   C --> D[Integrated]
-> ```
-
-
-> [!abstract] **Diagram 2 — Motivational Hydraulics Model**
-> *Trace the flow from need satisfaction to internalization.*
->
-> ```mermaid
-> sequenceDiagram
->   participant NeedSatisfaction as NS
->   participant AutonomySupport as AS
->   participant Internalization as I
->   NS->>AS: Creates Pressure Differential
->   AS-->>I: Facilitates Transformation
-> ```
-
-
-> [!abstract] **Diagram 3 — Internalization in Educational Settings**
-> *See how clear expectations and scaffolding support internalization.*
->
-> ```mermaid
-> flowchart LR
->   A[Clear Expectations] --> B[Competence-Supportive Scaffolding]
->   B --> C[Sense of Effectiveness]
->   C --> D[Taking Ownership]
-> ```
 
 # Internalization
 

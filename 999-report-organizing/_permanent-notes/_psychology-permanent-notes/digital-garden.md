@@ -18,7 +18,7 @@ subdomains:
   - web-publishing
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - digital-garden-synthetic-seed-2026-04-25
@@ -67,46 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Digital Garden Structure Overview**
-> *Follow the flow from note creation to revision and linking.*
->
-> ```mermaid
-> graph TD
->   A[Note Creation] --> B(Note Revision)
->   B --> C(Note Linking)
->   C --> D(Garden Maintenance)
-> ```
-
-
-> [!abstract] **Diagram 2 — Digital Garden vs Blogging Comparison**
-> *Compare the non-chronological structure of a Digital Garden with the reverse-chronological timeline of blogs.*
->
-> ```mermaid
-> graph TD
->   A[Blog Timeline] -->|Reverse-Chronological| B(Blog Post)
->   C[Digital Garden] -->|Non-Chronological| D(Note Linking)
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective Thinking Cycle in Digital Gardens**
-> *Trace the cycle of revisiting and refining notes over time.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Revisit
->   Revisit --> Reflect
->   Reflect --> Refine
->   Refine --> Revisit
-> ```
 
 # Digital Garden
 

@@ -19,7 +19,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - instructional-design-synthetic-seed-2026-04-24
@@ -72,47 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Instructional Design Process Flow**
-> *Follow the sequence from planning to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Planning] --> B[Design]
->   B --> C[Development]
->   C --> D[Implementation]
->   D --> E[Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Theory in ID**
-> *Identify how intrinsic, extraneous, and germane loads are managed.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load] --> B[Task Complexity]
->   C[Extraneous Load] --> D[Irrelevant Information]
->   E[Germane Load] --> F[Cognitive Processing]
-> ```
-
-
-> [!abstract] **Diagram 3 — Scaffolding Techniques Overview**
-> *Trace the progression from initial support to independent learning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Instruction] --> B[Guided Practice]
->   B --> C[Faded Support]
->   C --> D[Independent Application]
-> ```
 
 # Instructional Design
 

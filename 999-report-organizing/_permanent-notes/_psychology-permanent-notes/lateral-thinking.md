@@ -18,7 +18,7 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lateral-thinking-synthetic-seed-2026-04-25
@@ -65,50 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lateral Thinking Process Overview**
-> *Follow the flow from problem to solution through provocations.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem] --> B[Introduce Provocation]
->   B --> C[Evaluate New Perspective]
->   C --> D[Reframe Problem]
->   D --> E[Solution]
-> ```
-
-
-> [!abstract] **Diagram 2 — Lateral vs Vertical Thinking Comparison**
-> *Compare the fixed frame of vertical thinking with the restructured approach of lateral thinking.*
->
-> ```mermaid
-> graph TD
->   A[Vertical Thinking] -->|Fixed Frame|
->   B[Lateral Thinking] -->|Restructured Frame|
->   C[Introduce Provocation]
->   D[Evaluate New Perspective]
-> ```
-
-
-> [!abstract] **Diagram 3 — Provocative Perturbations in Lateral Thinking**
-> *Identify the different types of provocations used to reframe problems.*
->
-> ```mermaid
-> graph TD
->   A[Random Entry] -->|Introduce Unrelated Element|
->   B[Reversal] -->|Flip Problem Perspective|
->   C[Fractionation] -->|Break Down Complex Issue|
->   D[Concept Challenge] -->|Question Fundamental Assumptions|
->   E[New Insights]
-> ```
 
 # Lateral Thinking
 

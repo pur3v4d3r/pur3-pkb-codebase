@@ -17,7 +17,7 @@ subdomains:
   - social-cognition
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemic-vigilance-synthetic-seed-2026-04-24
@@ -66,45 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemic Vigilance Process Flow**
-> *Follow the steps from source evaluation to information acceptance.*
->
-> ```mermaid
-> flowchart LR
->   A[Source Evaluation] --> B[Competence Check]
->   B --> C[Benevolence Check]
->   C --> D[Coherence with Knowledge]
->   D --> E[Information Acceptance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Epistemic Vigilance vs Confirmation Bias**
-> *Compare the focus of Epistemic Vigilance and confirmation bias.*
->
-> ```mermaid
-> graph TD
->   A[Epistemic Vigilance] --> B[Evaluating Trustworthiness]
->   C[Confirmation Bias] --> D[Favoring Pre-existing Beliefs]
-> ```
-
-
-> [!abstract] **Diagram 3 — Epistemic Vigilance vs Motivated Reasoning**
-> *Distinguish between evaluating testimony and forming justifications.*
->
-> ```mermaid
-> graph TD
->   A[Epistemic Vigilance] --> B[Evaluating Testimony]
->   C[Motivated Reasoning] --> D[Forming Justifications]
-> ```
 
 # Epistemic Vigilance
 

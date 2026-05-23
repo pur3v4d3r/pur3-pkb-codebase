@@ -17,7 +17,7 @@ subdomains:
   - star-formation
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - starburst-galaxy-synthetic-seed-2026-05-14
@@ -64,68 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Starburst Galaxy Mechanism Overview**
-> *Follow the flow from gravitational interactions to star formation.*
->
-> ```mermaid
-> graph TD
->   A[Gravitational Interactions]
->   B[Mergers]
->   C[Tidal Forces]
->   D[Gas Compression]
->   E[Dense Concentrations]
->   F[Intense Star Formation]
->   G[Ultraluminous Infrared Galaxies (ULIRGs)]
->   A -->|Trigger| B
->   B -->|Drive Gas to Center| C
->   C -->|Compress and Funnel| D
->   D -->|Form Dense Clouds| E
->   E -->|Efficient Star Formation| F
->   F -->|High Luminosity in IR| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Starburst Galaxy Impact on Chemical Enrichment**
-> *Trace the path from star formation to interstellar medium enrichment.*
->
-> ```mermaid
-> graph TD
->   A[Massive Star Formation]
->   B[Supernova Explosions]
->   C[Release of Heavy Elements]
->   D[Intersellar Medium Enrichment]
->   E[Affects Subsequent Generations]
->   A -->|Explosions| B
->   B -->|Releases Metals| C
->   C -->|Enriches ISM| D
->   D -->|Influences Future Stars| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Starburst Galaxy Feedback Loops**
-> *Identify the feedback cycle from star formation to gas expulsion.*
->
-> ```mermaid
-> graph TD
->   A[Massive Star Formation]
->   B[Intense Radiation]
->   C[Supernova Explosions]
->   D[Gas Expulsion]
->   E[Halt or Reduce Future SF Rates]
->   A -->|Radiation and Energy| B
->   A -->|Explosions| C
->   B & C -->|Expel Gas from Galaxy| D
->   D -->|Regulate Star Formation| E
-> ```
 
 # Starburst Galaxy
 

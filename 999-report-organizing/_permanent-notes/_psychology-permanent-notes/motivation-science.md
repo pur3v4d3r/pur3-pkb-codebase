@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - motivation-science-synthetic-seed-2026-04-25
@@ -70,69 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Motivation Theories Overview**
-> *Identify the key theories and their focus areas.*
->
-> ```mermaid
-> graph TD
->   A[Self-Determination Theory]
->   B[Achievement-Goal Theory]
->   C[Expectancy-Value Theory]
->   D[Control-Value Theory]
->   A -->|Autonomy, Competence, Relatedness| E[Motivation]
->   B -->|Mastery, Performance Goals| F[Motivation]
->   C -->|Expectations, Values| G[Motivation]
->   D -->|Perceived Control, Value| H[Motivation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Motivation Science Mechanism**
-> *Trace the flow from psychological needs to motivation outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Psychological Needs]
->   B[Autonomy, Competence, Relatedness]
->   C[Satisfaction of Needs]
->   D[Intrinsic Motivation]
->   E[Well-being]
->   F[Decreased Engagement]
->   G[Neglecting Needs]
->   H[Decreased Well-being]
->   A --> B
->   B -->|Satisfied| C
->   C -->|Enhanced| D
->   D --> E
->   B -->|Neglected| G
->   G --> F
->   F --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Motivation Science Applications**
-> *Compare educational and workplace applications.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Manager as M
->   participant Environment as E
->   S->>E: Choices in Learning Activities
->   E-->>S: Autonomy-Supportive Practices
->   S->>M: Job Satisfaction, Productivity
->   M-->>S: Supportive Work Environment
->   S->>E: Growth Mindset Development
->   E-->>S: Enhanced Belief in Skills
-> ```
 
 # Motivation Science
 

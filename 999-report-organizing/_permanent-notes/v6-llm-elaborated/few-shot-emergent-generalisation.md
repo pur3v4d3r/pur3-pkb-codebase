@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,44 +166,6 @@ Moreover, by elucidating how few-shot emergent generalisation differs from other
 > [!connection] **[[Task-Generalisation-in-LLMs]]** — *applies-to*
 > Few-shot emergent generalisation is crucial for understanding how large language models can generalize to new tasks with minimal data. This concept underpins the ability of LLMs to perform complex reasoning and adapt to novel contexts, making it a key aspect of task-generalization in these systems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Few-Shot Emergent Generalisation Process**
-> *Follow the flow from examples to rule induction and application.*
->
-> ```mermaid
-> flowchart LR
->   A[Examples] --> B[Rules]
->   B --> C[New Inputs]
->   C --> D[Generalisation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Few-Shot Learning and Zero-Shot Generalisation**
-> *Compare the differences in how each method handles task completion.*
->
-> ```mermaid
-> graph TD
->   A[Few-Shot Emergent Gen]
->   B[Few-Shot Learning]
->   C[Zero-Shot Generalisation]
->   A -->|Infer Rules from Examples| D[Apply to New Inputs]
->   B -->|Find Similar Training Instances| E[Solve with Analogies]
->   C -->|No Demonstrations| F[Complete Task]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Few-Shot Emergent Generalisation**
-> *Identify the applications in instructional design, task complexity, and real-world deployment.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Efficient Protocols| B[High-Quality Examples]
->   C[Task Complexity] -->|Abstract Reasoning| D[Limited Examples]
->   E[Real-World Deployment] -->|Robustness Testing| F[Complex Environments]
-> ```
 
 # Few-Shot Emergent Generalisation
 

@@ -17,7 +17,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - stephen-hawking-synthetic-seed-2026-05-14
@@ -64,50 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Black Hole Thermodynamics Overview**
-> *Follow the flow from classical to quantum thermodynamics.*
->
-> ```mermaid
-> graph TD
->   A[Classical Thermodynamics] --> B[Singularity Theorems]
->   B --> C[Black-Hole Mechanics]
->   C --> D[Hawking Radiation]
->   D --> E[Quantum Cosmology]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hawking Radiation Mechanism**
-> *Trace the particle-antiparticle interaction near a black hole.*
->
-> ```mermaid
-> sequenceDiagram
->   participant QFT as Quantum Field Theory
->   participant BH as Black Hole
->   QFT->>BH: Particle-Antiparticle Pair Creation
->   BH-->>QFT: One Particle Falls In
->   QFT-->>BH: Other Particle Escapes
-> ```
-
-
-> [!abstract] **Diagram 3 — Scientific Contributions Timeline**
-> *Identify key milestones in Hawking's career.*
->
-> ```mermaid
-> graph TD
->   A[1970] --> B[Singularity Theorems]
->   B --> C[Hawking Radiation Prediction]
->   C --> D[Black-Hole Thermodynamics Laws]
->   D --> E[No-Boundary Proposal]
-> ```
 
 # Stephen Hawking
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,76 +171,6 @@ Empirical evidence underscores the importance of providing explicit code context
 > [!connection] **[[Information Density Optimization]]** — *applies-to*
 > Technical Documentation Prompting directly applies Information Density Optimization principles by carefully managing the amount and type of information included in documentation. This ensures that technical documents are neither overwhelming nor insufficient, striking a balance that caters to diverse user needs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Technical Documentation Workflow**
-> *Follow the flow from prompt crafting to documentation generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Craft Prompt]
->   B[Embed Code/API]
->   C[Generate Doc]
->   D[Review Accuracy]
->   E[Audit Accessibility]
->   F[Finalize Document]
->   A --> B
->   B --> C
->   C -->|Inaccurate?| A
->   C -->|Accurate| D
->   D -->|Not Accessible?| B
->   D -->|Accessible| E
->   E -->|Unsatisfactory Accessibility| B
->   E -->|Satisfactory Accessibility| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Documentation Quality Factors**
-> *Identify the balance between accuracy and accessibility in documentation.*
->
-> ```mermaid
-> graph TD
->   A[Accuracy]
->   B[Audience Needs]
->   C[Accessibility]
->   D[Code Context]
->   E[Prompt Crafting]
->   F[Model Output]
->   G[Review Process]
->   H[Final Document]
->   A -->|Balanced| C
->   B -->|Balanced| C
->   D --> E
->   E --> F
->   F --> G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Engineering Strategies**
-> *Understand the strategies for embedding code and API signatures in prompts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant PromptEngineer as PE
->   participant LLM as M
->   U->>PE: Request Documentation
->   PE->>M: Craft Prompt with Code/API
->   M-->>PE: Generate Document Draft
->   PE->>U: Review for Accuracy and Accessibility
->   alt Inaccurate or Unaccessible
->     PE->>M: Refine Prompt
->     loop Until Satisfactory
->       M-->>PE: Generate New Draft
->       PE->>U: Review Again
->     end
->   else Accurate and Accessible
->     U-->>U: Finalize Document
->   end
-> ```
 
 # Technical Documentation Prompting
 

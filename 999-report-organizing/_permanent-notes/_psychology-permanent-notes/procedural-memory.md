@@ -18,7 +18,7 @@ subdomains:
   - motor-learning
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - procedural-memory-synthetic-seed-2026-04-24
@@ -67,54 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Procedural Memory Process Flow**
-> *Follow the flow from initial learning to automatic execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Learning] --> B[Conscious Control]
->   B --> C[Repetition and Feedback]
->   C --> D[Automatic Execution]
-> ```
-
-
-> [!abstract] **Diagram 2 — Skill Acquisition Phases**
-> *Track the progression from conscious to automatic skill execution.*
->
-> ```mermaid
-> graph TD
->   A[Conscious Control] --> B[Repetition]
->   B --> C[Feedback]
->   C --> D[Automatic Execution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Procedural vs Declarative Memory**
-> *Compare procedural memory with declarative memory in terms of knowledge type.*
->
-> ```mermaid
-> classDiagram
->   class ProceduralMemory {
->     +Skills
->     +Habits
->     -AutomaticExecution
->   }
->   class DeclarativeMemory {
->     +Facts
->     +Events
->     +Concepts
->   }
->   ProceduralMemory -->|Contrast with| DeclarativeMemory
-> ```
 
 # Procedural Memory
 

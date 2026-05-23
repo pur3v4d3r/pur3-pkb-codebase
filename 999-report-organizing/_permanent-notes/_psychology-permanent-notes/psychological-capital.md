@@ -17,7 +17,7 @@ subdomains:
   - applied-psychology
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - psychological-capital-synthetic-seed-2026-04-26
@@ -68,68 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Psychological Capital Components**
-> *Identify the four key resources of PsyCap.*
->
-> ```mermaid
-> graph TD
->   A[Self-Efficacy]
->   B[Hope]
->   C[Optimism]
->   D[Resilience]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
->   style D fill:#f96,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 2 — PsyCap Influence Mechanism**
-> *Trace the flow from PsyCap to performance and well-being.*
->
-> ```mermaid
-> flowchart LR
->   A[Self-Efficacy] --> B[Persistence]
->   C[Hope] --> D[Motivation]
->   E[Optimism] --> F[Engagement]
->   G[Resilience] --> H[Recovery]
->   I[Performance]
->   J[Satisfaction]
->   K[Well-being]
->   B --> I
->   D --> I
->   F --> I
->   H --> I
->   I --> J
->   I --> K
-> ```
-
-
-> [!abstract] **Diagram 3 — PsyCap in Instructional Design**
-> *See how PsyCap components are integrated into training.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Trainer as T
->   S->>T: Sets Achievable Goals
->   T-->>S: Provides Constructive Feedback
->   S->>T: Engages in Goal-Setting Exercises
->   T-->>S: Teaches Problem-Solving Strategies
->   S->>T: Receives Positive Reinforcement
->   T-->>S: Encourages Optimism
->   S->>T: Learns Coping Mechanisms
->   T-->>S: Strengthens Resilience
-> ```
 
 # Psychological Capital
 

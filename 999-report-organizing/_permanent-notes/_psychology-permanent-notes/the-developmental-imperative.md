@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
@@ -68,48 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Developmental Imperative Process Flow**
-> *Follow the stages from initial support to independence.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Support] --> B[Growing Proficiency]
->   B --> C[Reduced Guidance]
->   C --> D[Independence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Scaffold Reduction Mechanism**
-> *Observe the gradual removal of scaffolding elements.*
->
-> ```mermaid
-> flowchart LR
->   A[Comprehensive Support] --> B[Hints and Steps]
->   B --> C[Open-Ended Questions]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Identify the stages of support reduction in each application.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[High Support]
->   B --> C[Growing Independence]
->   D[Study Planning] --> E[Initial Tools]
->   E --> F[Independent Methods]
->   G[Pers. Knowledge Mgmt.] --> H[Comprehensive System]
->   H --> I[Personalized Notes]
-> ```
 
 # The Developmental Imperative
 

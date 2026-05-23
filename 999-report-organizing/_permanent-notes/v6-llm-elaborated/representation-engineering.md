@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -182,61 +178,6 @@ Representation Engineering stands out as a pivotal technique for AI alignment by
 > [!connection] **[[Constitutional AI Principles]]** — *applies-to*
 > Representation Engineering (RepE) aligns closely with Constitutional AI principles by providing a method to enforce ethical guidelines within AI systems. By manipulating internal representations, RepE can ensure that models adhere to predefined ethical standards without the need for extensive retraining or redesign.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Concept Identification Process**
-> *Follow the steps from probing to control vectors.*
->
-> ```mermaid
-> graph TD
->   A[Linear Probing]
->   B[Contrast Pairs]
->   C[Reading Vectors]
->   D[Control Vectors]
->   A -->|Identify Patterns| B
->   B -->|Refine Directions| C
->   C -->|Measure Attributes| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Representation Engineering Workflow**
-> *See the flow from concept identification to application.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Concepts]
->   B[Reading Vectors]
->   C[Control Vectors]
->   D[Instructional Design]
->   E[Ethical Alignment]
->   F[Model Auditing]
->   A -->|Probing & Contrast Pairs| B
->   B -->|Measure Attributes| C
->   C -->|Modify Behavior| D
->   C -->|Align Ethically| E
->   C -->|Audit Compliance| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Concept Directions in Residual Stream**
-> *Trace the directions identified through linear probing.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> A : Start
->   A[Linear Probing]
->   A --> B : Identify Patterns
->   B[Contrast Pairs]
->   B --> C : Refine Directions
->   C[Concept Direction]
->   C --> D : Reading Vector
->   D[Measure Attributes]
->   D --> E : Control Vector
->   E[Modify Behavior]
->   E --> F : End
-> ```
 
 # Representation Engineering
 

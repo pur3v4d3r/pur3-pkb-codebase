@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,30 +160,6 @@ Browser automation agents stand out due to their ability to interact with web co
 > [!connection] **[[Web Technologies]]** — *applies-to*
 > Browser automation agents rely on web technologies to interact with websites, specifically the Document Object Model (DOM). Understanding these underlying web technologies is essential for developing and optimizing browser automation strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Browser Automation Workflow**
-> *Follow the flow from LLM to DOM interaction.*
->
-> ```mermaid
-> flowchart LR
->   A[LLM Interpretation] --> B[Navigate Website]
->   B --> C[Interact with DOM]
->   C --> D[Extract Data]
-> ```
-
-
-> [!abstract] **Diagram 2 — Browser Automation Applications**
-> *Identify the various applications of browser automation agents.*
->
-> ```mermaid
-> graph TD
->   A(Web Scraping) -->|Collect Structured Info| B(E-commerce)
->   B -->|Automate Repetitive Tasks| C(Research Assistance)
->   C -->|Speed Up Data Collection| D(Automated Testing)
-> ```
 
 # Browser Automation Agents
 

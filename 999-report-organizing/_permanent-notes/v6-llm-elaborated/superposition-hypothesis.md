@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,41 +150,6 @@ The Superposition Hypothesis is pivotal for advancing our comprehension of neura
 > [!connection] **[[Sparse Autoencoders for Interpretability]]** — *supports*
 > Superposition supports the use of sparse autoencoders in interpretability because these models naturally encourage sparse activation patterns, which align with superposition principles. By promoting sparsity, sparse autoencoders can help reveal the underlying distributed representations that are key to understanding neural network behavior.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Superposition Mechanism Overview**
-> *Follow the flow from neurons to features through superposition.*
->
-> ```mermaid
-> graph TD
->   A[Neurons] --> B[Sparse Activation]
->   B --> C[Superposition]
->   C --> D[Features]
-> ```
-
-
-> [!abstract] **Diagram 2 — Feature Representation Through Superposition**
-> *Observe how features are distributed across neurons in superposition.*
->
-> ```mermaid
-> graph TD
->   A[Neuron1] -->|FeatureA| B[Feature]
->   C[Neuron2] -->|FeatureB| B
->   D[Neuron3] -->|FeatureC| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Superposition vs Single-Feature Representation**
-> *Compare superposition with single-feature per neuron representation.*
->
-> ```mermaid
-> graph TD
->   A[Neuron1] -->|FeatureA| B[Single Feature]
->   C[Neuron2] -->|FeatureB| D[Superposition]
->   E[Neuron3] -->|FeatureC| D
-> ```
 
 # Superposition Hypothesis
 

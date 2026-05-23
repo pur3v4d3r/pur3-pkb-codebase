@@ -21,7 +21,7 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
@@ -68,55 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Types of Cognitive Load**
-> *Identify the three types and their impacts on learning.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic]
->   B[Extraneous]
->   C[Germane]
->   A -->|Complexity| D[Working Memory Overload]
->   B -->|Design Elements| D
->   C -->|Schema Construction| E[Enhanced Learning]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Interaction Mechanism**
-> *Understand how different loads interact with working memory.*
->
-> ```mermaid
-> flowchart LR
->   A[Working Memory]
->   B[Intrinsic Load] -->|Complexity| A
->   C[Extraneous Load] -->|Distractions| A
->   D[Germane Load] -->|Schema Formation| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Strategies**
-> *See how instructional design can manage cognitive loads.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner
->   participant Content
->   participant Interface
->   participant Support
->   Learner->>Content: Process Information
->   Interface-->>Learner: Minimize Extraneous Load
->   Support-->>Learner: Scaffold Intrinsic Load
->   Learner->>Support: Build Schema
-> ```
 
 # Cognitive Load Theory
 

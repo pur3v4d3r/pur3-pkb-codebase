@@ -17,7 +17,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - linguistics-synthetic-seed-2026-05-01
@@ -70,68 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Linguistic Levels of Representation**
-> *Follow the hierarchy from sounds to discourse.*
->
-> ```mermaid
-> graph TD
->   A[Phonetics]
->   B[Phonology]
->   C[Morphology]
->   D[Syntax]
->   E[Semantics]
->   F[Pragmatics]
->   G[Discourse]
->   A -->|Sound Patterns| B
->   B -->|Word Structure| C
->   C -->|Sentence Structure| D
->   D -->|Meaning Assignment| E
->   E -->|Contextual Use| F
->   F -->|Social Dimensions| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Linguistic Interaction Mechanism**
-> *Trace the feedback loops between linguistic levels.*
->
-> ```mermaid
-> flowchart LR
->   A[Phonetics] --> B[Phonology]
->   B --> C[Morphology]
->   C --> D[Syntax]
->   D --> E[Semantics]
->   E --> F[Pragmatics]
->   F --> G[Discourse]
->   B -->|Feedback| A
->   C -->|Feedback| B
->   D -->|Feedback| C
->   E -->|Feedback| D
->   F -->|Feedback| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Linguistic Evolution and Change**
-> *Observe the processes leading to language development.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Trade as T
->   participant Pidgin as P
->   participant Creole as C
->   participant NativeLanguage as NL
->   T->P: Emerges from trade interactions
->   P->C: Develops into a full-fledged language
->   C->NL: Evolves with native speakers
-> ```
 
 # Linguistics
 

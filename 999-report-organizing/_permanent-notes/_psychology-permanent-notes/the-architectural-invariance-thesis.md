@@ -21,7 +21,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-foundational-report-2026-04-18
@@ -68,71 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Working Memory Capacity**
-> *Identify the fixed capacity of working memory.*
->
-> ```mermaid
-> graph TD
->   A[Novel Elements]
->   B[Fixed Capacity]
->   C[Training/Motivation]
->   D[Instructional Techniques]
->   A -->|Cannot Process More Than|
->   B
->   C -->|Does Not Increase|
->   B
->   D -->|Does Not Expand|
->   B
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Management**
-> *Understand how schemas reduce working memory load.*
->
-> ```mermaid
-> graph TD
->   A[Complex Information]
->   B[Schemas in LTM]
->   C[Break Down into Chunks]
->   D[Treat as Single Unit]
->   E[Reduce Working Memory Load]
->   A -->|Facilitate|
->   B
->   B -->|Process|
->   C
->   C -->|Automate|
->   D
->   D -->|Efficient Processing|
->   E
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Process**
-> *Follow the steps for effective instructional design.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant Instructor as I
->   participant WorkedExample as WE
->   participant ComplexTask as CT
->   participant Schemas in LTM as SLT
->   L->>I: Needs to Learn CT
->   I->>WE: Provide Worked Example
->   WE-->>L: Break Down CT into Steps
->   L->>SLT: Internalize Process
->   SLT-->>L: Treat Multiple Steps as Single Unit
->   L->>CT: Efficiently Solve Problem
-> ```
 
 # Architectural Invariance Thesis
 

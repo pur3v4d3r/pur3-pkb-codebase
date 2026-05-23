@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,50 +165,6 @@ By integrating reflective thinking training with structured argumentation, AI sa
 > [!connection] **[[Iterated Amplification]]** — *contrasts-with*
 > While iterated amplification focuses on breaking down complex tasks into simpler sub-tasks to ensure alignment, AI safety via debate tackles the challenge of verifying claims by leveraging structured argumentation. This contrast highlights different approaches to ensuring that superhuman AIs align with human values.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Debate Protocol Overview**
-> *Follow the flow from AI players to human judge.*
->
-> ```mermaid
-> flowchart LR
->   A[AI Player 1] --> B[Argument]
->   C[AI Player 2] --> D[Counter-Argument]
->   E[Human Judge] <--> B
->   E <--> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Truthful Behavior**
-> *Trace the path from optimal play to truthful behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Optimal Play] --> B[Truthful Argument]
->   C[Dishonesty] --> D[Plausible Lie]
->   E[Human Judge Evaluation] <--> B
->   E <--> D
->   F[Equilibrium] --> G[Truth Favoring]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Direct Verification**
-> *Compare the two approaches in evaluating AI claims.*
->
-> ```mermaid
-> graph TD
->   A[Direct Verification]
->   B[Evaluate Claims]
->   C[Human Expertise Required]
->   D[AISafetyDebate]
->   E[Evaluate Arguments]
->   F[Human Judgment Feasible]
->   A -->|Requires| C
->   D -->|Transforms to| E
->   D -->|Feasible for| F
-> ```
 
 # AI Safety via Debate
 

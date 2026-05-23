@@ -21,7 +21,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - multi-model-routing-synthetic-seed-2026-05-20
@@ -69,50 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Query Routing Process**
-> *Follow the flow from query input to model output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Query] --> B[Classifier]
->   B -->|Simple| C1[Small Model]
->   B -->|Complex| C2[Large Model]
->   C1 --> D1[Output Response]
->   C2 --> D2[Output Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Routing Strategies Comparison**
-> *Compare rule-based and classification-model-based routing.*
->
-> ```mermaid
-> graph TD
->   A[Rule-Based Routing] --> B1[Predefined Rules]
->   C[Classification-Model Based Routing] --> D1[ML Model Prediction]
->   B1 --> E1[Simple Queries]
->   D1 --> F1[Complex Queries]
-> ```
-
-
-> [!abstract] **Diagram 3 — Resource Allocation Optimization**
-> *See how resource allocation is optimized based on query complexity.*
->
-> ```mermaid
-> graph TD
->   A[Simple Query] --> B[Small Model]
->   C[Complex Query] --> D[Large Model]
->   B --> E[Low Cost, Quick Response]
->   D --> F[High Cost, Detailed Answer]
-> ```
 
 # Multi-Model Routing
 

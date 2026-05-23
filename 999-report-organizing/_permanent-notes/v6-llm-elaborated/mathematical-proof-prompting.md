@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,44 +162,6 @@ Mathematical Proof Prompting stands out in the landscape of prompt engineering b
 > [!connection] **[[Logical Entailment Verification]]** — *supports*
 > Mathematical Proof Prompting supports Logical Entailment Verification by ensuring that each step in a proof is logically justified. This alignment with formal verification standards allows for the automatic checking of proofs, thereby enhancing the accuracy and reliability of logical entailments generated through large language models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Mathematical Proof Process Flow**
-> *Follow the steps from prompt to formal proof generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Prompt Specification]
->   B --> C[Axioms and Premises]
->   C --> D[Inference Rules Application]
->   D --> E[Formal Proof Generation]
->   E --> F[Verification]
-> ```
-
-
-> [!abstract] **Diagram 2 — Natural Language vs Formal Proofs Comparison**
-> *Compare the clarity and rigor of natural language versus formal proofs.*
->
-> ```mermaid
-> graph TD
->   A[Natural Language Proof] --> B[Clear Intuition]
->   C[Formal Proof] --> D[Rigorous Justification]
->   E[Logical Errors] --> F[Difficult to Detect]
->   G[Verification] --> H[Easily Verifiable]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Areas of Mathematical Proof Prompting**
-> *Identify the key areas where mathematical proof prompting is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Educational Tools]
->   C[Research Collaboration] --> D[Mechanized Proofs]
->   E[Industry Validation] --> F[Rigorous Models]
-> ```
 
 # Mathematical Proof Prompting
 

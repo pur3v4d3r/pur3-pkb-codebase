@@ -17,7 +17,7 @@ subdomains:
   - large-scale-structure
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - baryon-acoustic-oscillations-synthetic-seed-2026-05-14
@@ -64,78 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — BAO Formation Process**
-> *Follow the timeline from photon-baryon plasma to CMB anisotropies.*
->
-> ```mermaid
-> graph TD
->   A[Photon-Baryon Plasma]
->   B[Sound Waves Propagate]
->   C[Coupling Weakens]
->   D[Recombination]
->   E[CMB Anisotropies]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — BAO as Standard Ruler**
-> *Observe how the characteristic scale changes with redshift.*
->
-> ```mermaid
-> graph TD
->   A[Redshift z=0]
->   B[Redshift z=1]
->   C[Redshift z=2]
->   D[Characteristic Scale]
->   E[Different Redshifts]
->   A -->|Scale S(z)| D
->   B -->|Scale S(z+1)| D
->   C -->|Scale S(z+2)| D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — BAO Analysis Approaches**
-> *Compare top-down and bottom-up methods in BAO analysis.*
->
-> ```mermaid
-> graph TD
->   A[Top-Down]
->   B[Bottom-Up]
->   C[Lambda-CDM Model]
->   D[Galaxy Surveys]
->   E[Observational Data]
->   F[Interpretation]
->   G[Pattern Extraction]
->   H[Novel Discoveries]
->   A -->|Use CDM Model|
->   B -->|Extract Patterns|
->   C -->|Predictions|
->   D -->|Data|
->   E -->|Analyze Data|
->   F -->|Interpret Results|
->   G -->|Discover New Insights|
->   H -->|Challenge Paradigms|
->   A --> C
->   B --> D
->   C --> E
->   D --> F
->   E --> F
->   F --> H
->   G --> H
-> ```
 
 # Baryon Acoustic Oscillations
 

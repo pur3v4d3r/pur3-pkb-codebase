@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,41 +162,6 @@ The interplay between data diversity and redundancy through deduplication is a c
 > [!connection] **[[Pretraining Data Influence]]** — *applies-to*
 > Deduplication effects on training data directly influence the quality and diversity of pretraining datasets, which in turn shapes model performance. By reducing redundancy, deduplication enhances generalization capabilities but must be balanced to avoid diminishing dataset richness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Deduplication Impact on Memorization**
-> *Follow the arrows to see how deduplication affects memorization rates.*
->
-> ```mermaid
-> flowchart LR
->   A[High Duplication] --> B[Memorization]
->   C[Moderate Deduplication] --> D[Generalization]
->   E[Excessive Deduplication] --> F[Diversity Loss]
-> ```
-
-
-> [!abstract] **Diagram 2 — Deduplication Mechanism Overview**
-> *Trace the flow to understand how different deduplication methods impact training data.*
->
-> ```mermaid
-> flowchart LR
->   A[Training Data] --> B[Exact Deduplication]
->   C[Near-Deduplication] --> D[Semantic Deduplication]
->   E[Reduced Redundancy] --> F[Diverse Training Examples]
-> ```
-
-
-> [!abstract] **Diagram 3 — Deduplication vs Generalization Tradeoff**
-> *Observe the balance between deduplication and generalization to understand optimal thresholds.*
->
-> ```mermaid
-> graph TD
->   A[Low Deduplication] --> B[High Memorization]
->   C[Moderate Deduplication] --> D[Balanced Generalization]
->   E[High Deduplication] --> F[Diversity Loss]
-> ```
 
 # Deduplication Effects on Training
 

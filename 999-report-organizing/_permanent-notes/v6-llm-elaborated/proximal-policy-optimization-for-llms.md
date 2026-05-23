@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,47 +159,6 @@ The integration of Proximal Policy Optimization into the realm of language model
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > PPO is particularly well-suited to RLHF scenarios because it can iteratively refine a model's policy based on human-provided feedback, even when the reward signals are sparse or indirect. This makes PPO an essential component in training language models that need to adapt their behavior according to nuanced human preferences.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — PPO Process Flow for Language Models**
-> *Follow the iterative process from policy update to reward feedback.*
->
-> ```mermaid
-> flowchart LR
->   A[Policy Update] --> B[Reward Model]
->   B --> C[KL Divergence Check]
->   C --> D[Trust Region Adjustment]
->   D --> E[New Policy]
->   E --> F[Generate Outputs]
->   F --> G[Rewards]
->   G --> H[Iterate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Token-Level Credit Assignment in PPO**
-> *Trace the flow of token actions and their corresponding rewards.*
->
-> ```mermaid
-> flowchart LR
->   A[Generated Token] --> B[Reward Model]
->   B --> C[Sequence Reward]
->   C --> D[KL Penalty Calculation]
->   D --> E[Policy Update]
-> ```
-
-
-> [!abstract] **Diagram 3 — PPO Training Workflow Overview**
-> *Identify the four forward passes required for each training step.*
->
-> ```mermaid
-> graph TD
->   A[Policy Forward Pass] --> B[Reference Policy]
->   B --> C[Reward Model Forward Pass]
->   C --> D[Value Model Forward Pass]
->   D --> E[KL Penalty Calculation]
-> ```
 
 # Proximal Policy Optimization for Language Models
 

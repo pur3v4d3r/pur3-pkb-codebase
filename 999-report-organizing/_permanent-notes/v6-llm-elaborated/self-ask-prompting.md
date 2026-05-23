@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,45 +164,6 @@ Self-Ask Prompting represents a significant advancement in prompt engineering by
 > [!connection] **[[Chain-of-Thought Prompting]]** — *contrasts-with*
 > Self-Ask Prompting contrasts with Chain-of-Thought Prompting in that it externalizes the reasoning process through explicit question generation, whereas Chain-of-Thought relies on internalized reasoning without making intermediate steps visible. This distinction is crucial as Self-Ask Prompting provides a transparent path for debugging and improving model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Ask Prompting Process Flow**
-> *Follow the sequence from initial query to final response.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Query] --> B[Generate Follow-Up Questions]
->   B --> C[Answer Each Question]
->   C --> D[Synthesize Answers]
->   D --> E[Final Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Ask vs Chain-of-Thought Comparison**
-> *Compare the externalized and internalized reasoning processes.*
->
-> ```mermaid
-> graph TD
->   A[Initial Query] --> B1(Self-Ask: Generate & Answer)
->   A --> B2(Chain-of-Thought: Internal Reasoning)
->   B1 --> C1(Synthesize Answers)
->   C1 --> D1(Final Response Explicit)
->   B2 --> D2(Final Response Implicit)
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Ask Prompting Taxonomy**
-> *Identify the components and steps involved in Self-Ask Prompting.*
->
-> ```mermaid
-> graph TD
->   A[Initial Query] --> B(Generate Follow-Up)
->   B --> C(Answer Questions)
->   C --> D(Synthesize Answers)
->   D --> E(Final Response)
-> ```
 
 # Self-Ask Prompting
 

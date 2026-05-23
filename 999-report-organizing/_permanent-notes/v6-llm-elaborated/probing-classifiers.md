@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,43 +163,6 @@ Probing classifiers serve as a foundational tool for advancing mechanistic inter
 > [!connection] **[[Linear Representation Hypothesis]]** — *supports*
 > Probing classifiers support the Linear Representation Hypothesis by demonstrating that simple linear models can often achieve high accuracy when predicting linguistic features from model activations. This suggests that many of these features are encoded in a relatively straightforward, linearly separable manner within the model's representations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Probing Process Flowchart**
-> *Follow the flow from model layer selection to classifier training and evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Select Layer] --> B[Extract Activations]
->   B --> C[Train Classifier]
->   C --> D[Evaluate Accuracy]
-> ```
-
-
-> [!abstract] **Diagram 2 — Classifier Mechanism Overview**
-> *Trace the path from model activations to linguistic label prediction.*
->
-> ```mermaid
-> flowchart LR
->   A[Model Activations] --> B[Feature Input]
->   B --> C[Classifier Training]
->   C --> D[Predict Labels]
-> ```
-
-
-> [!abstract] **Diagram 3 — Layer-wise Information Hierarchy**
-> *Observe the progression of information from lower to higher layers.*
->
-> ```mermaid
-> graph TD
->   A[Lower Layers] --> B[Middle Layers]
->   B --> C[Higher Layers]
->   A -->|Surface Features| D[Part-of-Speech]
->   B -->|Syntactic Roles| E[Grammar]
->   C -->|Semantic Content| F[World Knowledge]
-> ```
 
 # Probing Classifiers
 

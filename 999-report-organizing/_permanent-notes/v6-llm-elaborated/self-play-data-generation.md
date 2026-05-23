@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,46 +171,6 @@ Empirical evidence from methods like STaR and Quiet-STaR demonstrates that self-
 > [!connection] **[[Synthetic Data Generation for Training]]** — *instance-of*
 > Self-play data generation is a specific instance of synthetic data generation, tailored to enhance model capabilities through adversarial interactions. This connection underscores the broader applicability of synthetic data techniques in machine learning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Self-Play Process Flowchart**
-> *Follow the iterative process from question generation to training data.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Initial Questions] --> B[Try to Answer]
->   B -->|Success| C[Use as Training Data]
->   B -->|Failure| D[Ideate New Challenges]
->   C --> E[Iterate Model Improvement]
->   D --> F[Refine Question Generation]
->   F --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Play vs Human Data Comparison**
-> *Compare self-play and human-generated data in terms of input reliance.*
->
-> ```mermaid
-> graph TD
->   A[Self-Play] -->|Internal Interaction| B[Continuous Improvement]
->   C[Human-Generated] -->|External Input| D[Diverse Training Examples]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of Self-Play Data Generation**
-> *Trace the steps from initial generation to model improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Initial Prompts] --> B[Try to Solve]
->   B -->|Success| C[Use as Training]
->   B -->|Failure| D[Ideate New Problems]
->   C --> E[Iterate Model]
->   D --> F[Refine Prompt Generation]
->   F --> A
-> ```
 
 # Self-Play Data Generation
 

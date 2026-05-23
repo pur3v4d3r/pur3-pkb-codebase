@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,40 +161,6 @@ The concept of chain-of-thought emergence not only illuminates the intricate rel
 > [!connection] **[[Scaling Laws]]** — *applies-to*
 > Chain-of-thought emergence is a specific instance of how scaling laws apply to large language models. Scaling laws describe the relationship between model size and performance on various tasks, but chain-of-thought emergence provides a more detailed look at this relationship for reasoning tasks. Understanding these dynamics helps in predicting when larger models will exhibit improved reasoning capabilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Chain-of-Thought Thresholds**
-> *Identify the scale threshold for effective chain-of-thought prompting.*
->
-> ```mermaid
-> graph TD
->   A[Small Models] -->|Incoherent Reasoning| B[Threshold]
->   C[Larger Models] -->|Coherent Reasoning| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Complexity Matching**
-> *Understand how task complexity aligns with model capacity.*
->
-> ```mermaid
-> graph TD
->   A[Simple Tasks] -->|Effective Prompting| C[Coherent Reasoning]
->   B[Complex Tasks] -->|Ineffective Prompting| D[Fragmented Reasoning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reasoning Mechanism Flow**
-> *Trace the flow from fragmented to coherent reasoning as model size increases.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Small Model]
->   B -->|Fragmented Reasoning| C[Incoherent Output]
->   A --> D[Larger Model]
->   D -->|Coherent Reasoning| E[Cohesive Output]
-> ```
 
 # Chain-of-Thought Emergence
 

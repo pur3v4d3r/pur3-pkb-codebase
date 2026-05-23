@@ -23,7 +23,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -72,49 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — EOL Judgment Process Flow**
-> *Follow the sequence from initial assessment to study behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Assessment] --> B[Prior Knowledge]
->   B --> C[Surface Features]
->   C --> D[Ease-of-Learning Prediction]
->   D --> E[Study Behavior]
-> ```
-
-
-> [!abstract] **Diagram 2 — EOL vs JOL Temporal Comparison**
-> *Compare when EOL and JOL judgments are made relative to study.*
->
-> ```mermaid
-> graph TD
->   A[Before Study] --> B[Ease-of-Learning]
->   C[During/After Study] --> D[Judgment of Learning]
-> ```
-
-
-> [!abstract] **Diagram 3 — EOL Judgment Influences**
-> *Identify factors affecting EOL judgments and their outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Surface Features] --> B[Ease-of-Learning]
->   C[Prior Knowledge] --> B
->   D[Motivation] --> B
->   E[Affect] --> B
->   F[Biases] --> B
->   G[Study Behavior] --> H[Retention]
-> ```
 
 # Ease-of-Learning Judgment
 

@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -67,64 +67,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attribution Dimensions Overview**
-> *Identify the three dimensions of attribution: locus, stability, and controllability.*
->
-> ```mermaid
-> graph TD
->   A[Internal]
->   B[External]
->   C[Stable]
->   D[Unstable]
->   E[Controllable]
->   F[Uncontrollable]
->   A -->|Locus of Causality| B
->   C -->|Stability| D
->   E -->|Controllability| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotional and Motivational Responses**
-> *Understand how different attributions affect emotions and motivation.*
->
-> ```mermaid
-> graph TD
->   A[Internal, Unstable]
->   B[Increased Motivation]
->   C[Internal, Stable]
->   D[Learned Helplessness]
->   E[External, Uncontrollable]
->   F[Guilt]
->   G[External, Controllable]
->   H[Anger]
->   A -->|Emotion| B
->   C -->|Emotion| D
->   E -->|Emotion| F
->   G -->|Emotion| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Causal Analysis Asymmetry**
-> *Notice the difference in causal analysis between failure and success.*
->
-> ```mermaid
-> flowchart LR
->   A[Failure]
->   B[Causal Analysis]
->   C[Success]
->   D[Less Analysis]
->   A -->|More Analysis| B
->   C -->|Less Analysis| D
-> ```
 
 # Attribution Theory
 

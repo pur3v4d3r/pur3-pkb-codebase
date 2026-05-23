@@ -17,7 +17,7 @@ subdomains:
   - semantic-web
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - ontology-design-synthetic-seed-2026-04-25
@@ -64,53 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Ontology Design Process Flow**
-> *Follow the steps from identifying concepts to specifying constraints.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Concepts] --> B[Define Classes]
->   B --> C[Properties & Relations]
->   C --> D[Hierarchical Relationships]
->   D --> E[Constraints]
-> ```
-
-
-> [!abstract] **Diagram 2 — Ontology Design Taxonomy**
-> *Navigate the hierarchy from general classes to specific properties.*
->
-> ```mermaid
-> graph TD
->   A[Entities] --> B[Classes]
->   B --> C[Properties]
->   C --> D[Hierarchical Relations]
->   D --> E[Constraints]
-> ```
-
-
-> [!abstract] **Diagram 3 — Ontology Design Applications**
-> *See the diverse applications of ontology design across different fields.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InstructionalDesign as ID
->   participant BiomedicalResearch as BR
->   participant SemanticWeb as SW
->   participant HealthcareInteroperability as HI
->   ID->>SW: Structured Curriculum Framework
->   BR->>HI: Phenotypic Data Integration
->   SW->>BR: Enhanced Search Results
->   HI->>ID: Seamless Patient Data Exchange
-> ```
 
 # Ontology Design
 

@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-transfer-synthetic-seed-2026-04-24
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Transfer Mechanisms**
-> *Identify the mechanisms that facilitate knowledge transfer.*
->
-> ```mermaid
-> graph TD
->   A[Worked Examples] --> B[Problem-Solving Strategies]
->   B --> C[Reflective Thinking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Transfer Types Overview**
-> *Understand the difference between near and far transfer.*
->
-> ```mermaid
-> graph TD
->   A[Near Transfer] -->|Highly Similar Contexts|
->   B[Far Transfer] -->|Structurally Novel Demands|
->   A --> C[Algebra to Physics]
->   B --> D[Economics]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curriculum Design for Transfer**
-> *See how curriculum design supports knowledge transfer.*
->
-> ```mermaid
-> flowchart LR
->   A[Intrinsic Load] -->|Minimize|
->   B[Extraneous Load]
->   C[Problem-Solving Strategies] --> D[Worked Examples]
->   E[Curriculum Design] --> F[Near Transfer Tasks]
->   G[Far Transfer Tasks]
-> ```
 
 # Knowledge Transfer
 

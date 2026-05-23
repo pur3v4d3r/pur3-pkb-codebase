@@ -17,7 +17,7 @@ subdomains:
   - knowledge-management
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-graph-topology-synthetic-seed-2026-04-25
@@ -64,52 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Graph Topology Overview**
-> *Identify the key components of a knowledge graph topology.*
->
-> ```mermaid
-> graph TD
->   A[Nodes] --> B[Hubs]
->   A --> C[Orphans]
->   A --> D[Short Path Lengths]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hub and Spoke Topology Example**
-> *Observe how hubs connect various nodes in a hub-and-spoke topology.*
->
-> ```mermaid
-> flowchart LR
->   A[Central Hub] --> B[Node1]
->   A --> C[Node2]
->   A --> D[Node3]
-> ```
-
-
-> [!abstract] **Diagram 3 — Tree-like vs Hub-and-Spoke Comparison**
-> *Compare the connectivity and discovery potential of tree-like versus hub-and-spoke topologies.*
->
-> ```mermaid
-> graph TD
->   subgraph Tree-Like Topology
->     A[Node1] --> B[Node2]
->     B --> C[Node3]
->   end
->   subgraph Hub-and-Spoke Topology
->     D[Central Hub] --> E[Node4]
->     D --> F[Node5]
->     D --> G[Node6]
->   end
-> ```
 
 # Knowledge Graph Topology
 

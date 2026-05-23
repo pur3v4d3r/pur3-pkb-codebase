@@ -20,7 +20,7 @@ subdomains:
   - llm-architecture
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-graph-augmented-llms-synthetic-seed-2026-05-20
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — KG-Augmented LLM Process Flow**
-> *Follow the flow from input to output, noting KG integration points.*
->
-> ```mermaid
-> flowchart LR
->   A[User Query] --> B[KG Retrieval]
->   B --> C[Inject Triples]
->   C --> D[LLM Inference]
->   D --> E[System Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — KG vs RAG Comparison**
-> *Compare the explicit KG sources with implicit text retrieval in RAG.*
->
-> ```mermaid
-> graph TD
->   A[Knowledge Graph] --> B[Explicit Sources]
->   C[RAG] --> D[Implicit Text Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 3 — KG-Augmented Mechanism Overview**
-> *Trace the different ways KG can be integrated with LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Fine-Tuning] --> B[Inference Injection]
->   C[Specialized Architecture] --> D[KG Reading Components]
-> ```
 
 # Knowledge Graph-Augmented LLMs
 

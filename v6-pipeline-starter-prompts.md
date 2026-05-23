@@ -316,12 +316,12 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 
 
+pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_psychology-permanent-notes" --limit 100 -v
 
 
+pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\_universe-permanent-notes" --limit 100 -v
 
-
-
-
+pushd "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6" && "D:\10_pur3v4d3r's-vault\.venv\Scripts\python.exe" add_diagrams.py --input-dir "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated" --limit 100 -v
 
 
 

@@ -17,7 +17,7 @@ subdomains:
   - implicit-cognition
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - non-declarative-memory-synthetic-seed-2026-04-24
@@ -64,51 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Non-declarative memory subsystems**
-> *Identify the different types of non-declarative memories and their influence on behavior.*
->
-> ```mermaid
-> graph TD
->   A[Procedural Memory] -->|Influences Behavior Without Conscious Recollection|
->   B[Priming]
->   C[Conditioning]
->   D[Habituation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Classical conditioning process**
-> *Follow the sequence of events in classical conditioning from neutral stimulus to conditioned response.*
->
-> ```mermaid
-> sequenceDiagram
->   participant NS as Neutral Stimulus
->   participant US as Unconditioned Stimulus
->   participant CR as Conditioned Response
->   NS->>US: Present together
->   US-->>CR: Unconditioned Response
->   NS->>NS: Repeatedly paired with US
->   NS-->>CR: Conditioned Response
-> ```
-
-
-> [!abstract] **Diagram 3 — Skill acquisition stages**
-> *Track the progression from declarative knowledge to procedural memory in skill development.*
->
-> ```mermaid
-> flowchart LR
->   A[Declarative Knowledge] --> B[Practice]
->   B --> C[Procedural Memory]
->   C --> D[Automaticity]
-> ```
 
 # Non-Declarative Memory
 

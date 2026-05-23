@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,45 +164,6 @@ Empirical evidence supports the claim that task-specific information learned dur
 > [!connection] **[[LoRA-Low-Rank-Adaptation]]** — *specializes*
 > Parameter-Efficient Fine-Tuning (PEFT) is a broad approach to adapting large language models efficiently, while LoRA (Low-Rank Adaptation) is a specific method within this family. LoRA specializes in modeling task-specific information using low-rank matrices, which allows for efficient updates and performance gains with minimal parameter changes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — PEFT Process Overview**
-> *Follow the flow from pretrained model to fine-tuned task-specific model.*
->
-> ```mermaid
-> flowchart LR
->   A[Pretrained Model] --> B[Task-Specific Data]
->   B --> C[LoRA Parameters]
->   C --> D[Fine-Tuning Process]
->   D --> E[Tuned Model]
-> ```
-
-
-> [!abstract] **Diagram 2 — PEFT vs Full Fine-Tuning**
-> *Compare the parameter update scope between PEFT and full fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[Full Fine-Tuning] -->|Update All Parameters| B[Fine-Tuned Model]
->   C[PEFT] -->|Update <1% Parameters| D[Tuned Model]
-> ```
-
-
-> [!abstract] **Diagram 3 — LoRA Mechanism Flow**
-> *Trace the steps of LoRA from low-rank matrices to model adaptation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant PretrainedModel as PM
->   participant LowRankMatrices as LRMs
->   participant FineTuningProcess as FTP
->   participant TunedModel as TM
->   PM->>LRMs: Introduce Low-Rank Matrices
->   LRMs->>FTP: Modify Weights During Training
->   FTP-->>TM: Adapt Model to Task
-> ```
 
 # Parameter-Efficient Fine-Tuning
 

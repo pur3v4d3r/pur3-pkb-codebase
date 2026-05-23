@@ -18,7 +18,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-management-synthetic-seed-2026-04-25
@@ -70,52 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Management Process Flow**
-> *Follow the flow from capturing to applying knowledge.*
->
-> ```mermaid
-> flowchart LR
->   A[Capture] --> B[Organize]
->   B --> C[Retrieve]
->   C --> D[Share]
->   D --> E[Apply]
-> ```
-
-
-> [!abstract] **Diagram 2 — Explicit vs Tacit Knowledge Types**
-> *Compare explicit and tacit knowledge characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Explicit Knowledge] -->|Easily Documented| B[Tacit Knowledge]
->   A -->|Structured Systems|
->   B -->|Informal Sharing|
->   A -->|Codified Information|
->   B -->|Personal Contextual Knowledge|
-> ```
-
-
-> [!abstract] **Diagram 3 — Knowledge Management Mechanisms Integration**
-> *See how people, processes, and technology interact.*
->
-> ```mermaid
-> sequenceDiagram
->   participant People as P
->   participant Processes as Pr
->   participant Technology as T
->   P->>Pr: Training & Incentives
->   Pr->>T: Collaborative Platforms
->   T-->>P: Facilitated Interactions
-> ```
 
 # Knowledge Management
 

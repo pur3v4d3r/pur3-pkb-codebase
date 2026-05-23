@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,44 +173,6 @@ Empirical evidence supports the effectiveness of hierarchical compression over f
 > [!connection] **[[KV-Cache Reuse Strategies]]** — *supports*
 > Compressive Context Management supports KV-Cache Reuse Strategies by optimizing the storage and retrieval of context data. By compressing and summarizing historical interactions, it ensures that key-value pairs in the cache are both efficient to store and relevant for future queries, enhancing overall system performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Compressive Context Mechanism Overview**
-> *Follow the flow from raw data to hierarchical compression.*
->
-> ```mermaid
-> graph TD
->   A[Raw Interaction Data] --> B[Rolling Window Summarization]
->   B --> C[Hierarchical Compression]
->   C --> D[Efficient Representation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hierarchical Compression Levels**
-> *Notice the varying degrees of compression based on recency.*
->
-> ```mermaid
-> graph TD
->   A[Recent Interaction] --> B[Full Fidelity]
->   C[Older Interaction] --> D[Aggressive Compression]
->   E[Distant Past] --> F[Minimal Detail]
-> ```
-
-
-> [!abstract] **Diagram 3 — Compressive Context in Customer Service**
-> *Track the flow of context from capture to retrieval.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Agent as A
->   participant System as S
->   U->>S: New Interaction
->   S-->>A: Compressed Context
->   A->>U: Response
-> ```
 
 # Compressive Context Management
 

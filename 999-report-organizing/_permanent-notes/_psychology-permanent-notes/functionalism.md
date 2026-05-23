@@ -18,7 +18,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - functionalism-synthetic-seed-2026-04-25
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Functionalism vs Behaviorism**
-> *Compare the focus of functionalism and behaviorism on mental states.*
->
-> ```mermaid
-> graph TD
->   A[Behaviorism]
->   B[Functionalism]
->   A -->|External Stimuli & Behaviors| C[Mental States]
->   B -->|Internal Processes| D[Causal Relations]
-> ```
-
-
-> [!abstract] **Diagram 2 — Multiple Realizability Example**
-> *Illustrate how pain can be realized differently in humans and AI.*
->
-> ```mermaid
-> graph TD
->   A[Human]
->   B[AI]
->   C[Pain]
->   D[Pain]
->   A -->|Neural Activity| C
->   B -->|Other Mechanism| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Applications**
-> *Show how different technologies achieve similar cognitive outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Virtual Reality]
->   B[Traditional Textbooks]
->   C[Cognitive Outcomes]
->   A -->|Learning Experience| C
->   B -->|Learning Experience| C
-> ```
 
 # Functionalism
 

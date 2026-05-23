@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -153,54 +149,6 @@ In summary, Thinking Tag Semantics plays a pivotal role in enhancing the transpa
 > [!connection] **[[Extended-Thinking-Architecture]]** — *specializes*
 > Thinking Tag Semantics specializes within Extended-Thinking-Architecture by providing a structured framework for how models should use tags to encapsulate their internal reasoning. This specialization is crucial as it enables the architecture to support more nuanced and transparent interactions, enhancing both user understanding and model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Thinking Tag Structure**
-> *Follow the flow from input to output, noting the distinction between thinking and final response.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[<thinking>Internal Reasoning</thinking>]
->   C[Final Output]
->   A -->|Prompt| B
->   B -->|Reasoning Process| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Genuine vs Post-Hoc Rationalization**
-> *Compare the genuine reasoning path with post-hoc rationalization to understand their differences.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B1[Genuine Reasoning]
->   B2[Post-Hoc Rationalization]
->   C[Final Output]
->   A -->|Prompt| B1
->   A -->|Misleading Prompt| B2
->   B1 -->|Authentic Process| C
->   B2 -->|Mimicked Steps| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Ethical Implications Flow**
-> *Trace the ethical implications from transparency to trustworthiness and accountability.*
->
-> ```mermaid
-> graph TD
->   A[Transparency]
->   B[Accountability]
->   C[Trustworthiness]
->   D[Misuse]
->   E[Integrity]
->   A -->|Ensures| B
->   B -->|Fosters| C
->   A -->|Undermines| D
->   D -->|Compromises| E
-> ```
 
 # Thinking Tag Semantics
 

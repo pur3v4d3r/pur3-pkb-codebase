@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,40 +162,6 @@ Empirical evidence demonstrates that Program of Thoughts significantly reduces a
 > [!connection] **[[Chain-of-Thought Prompting]]** — *see-also*
 > Both PoT and Chain-of-Thought Prompting aim to improve the logical reasoning process in large language models. However, while Chain-of-Thought focuses on making the model's thought processes more transparent through natural-language explanations, PoT specifically offloads numerical computations to an external interpreter for enhanced accuracy.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Program of Thoughts Process Flow**
-> *Follow the logical steps from reasoning to computation.*
->
-> ```mermaid
-> flowchart LR
->   A[Reasoning] --> B[Express as Code]
->   B --> C[External Interpreter]
->   C --> D[Numerical Results]
-> ```
-
-
-> [!abstract] **Diagram 2 — Program of Thoughts vs Natural-Language Reasoning**
-> *Compare the offloading process in PoT with natural-language reasoning.*
->
-> ```mermaid
-> graph TD
->   A[PoT] --> B[Numerical Computation Offloaded]
->   C[Natural-Language Reasoning] --> D[Computation within NL]
-> ```
-
-
-> [!abstract] **Diagram 3 — Program of Thoughts Applications**
-> *Identify the areas where PoT can be applied effectively.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Accurate Problem Solving]
->   C[Financial Analysis] --> D[Precision in Calculations]
->   E[Limits] --> F[Natural-Language Tasks]
-> ```
 
 # Program of Thoughts
 

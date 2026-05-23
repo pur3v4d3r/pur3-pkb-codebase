@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,86 +150,6 @@ By leveraging the structured tagging capabilities of XML, prompt engineering not
 > [!connection] **[[JSON Mode Prompting]]** — *contrasts-with*
 > Both XML structured prompting and JSON mode prompting aim to guide model responses through structured tagging, but they differ in their syntax and applicability. While JSON is more suited for data-heavy applications due to its lightweight nature and ease of parsing with JavaScript, XML offers a richer set of tags that can be more descriptive and contextually meaningful. This makes XML particularly advantageous when detailed structural guidance is required.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — XML Prompt Structure Overview**
-> *Identify the sections of an XML prompt and their tags.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Instructions]
->   C[Context]
->   D[Examples]
->   E[Query]
->   F[Output]
->   G[Reasoning]
->   H[Answer]
->   I[Confidence]
->   A -->|<instructions>| B
->   A -->|<context>| C
->   A -->|<examples>| D
->   A -->|<query>| E
->   F -->|<reasoning>| G
->   F -->|<answer>| H
->   F -->|<confidence>| I
-> ```
-
-
-> [!abstract] **Diagram 2 — XML Prompt to Output Flow**
-> *Follow the flow from input prompt to structured output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input]
->   B[Model Processing]
->   C[Output]
->   D[Instructions]
->   E[Context]
->   F[Examples]
->   G[Query]
->   H[Reasoning]
->   I[Answer]
->   J[Confidence]
->   A -->|<instructions>| D
->   A -->|<context>| E
->   A -->|<examples>| F
->   A -->|<query>| G
->   B --> C
->   C -->|<reasoning>| H
->   C -->|<answer>| I
->   C -->|<confidence>| J
-> ```
-
-
-> [!abstract] **Diagram 3 — XML vs JSON Prompt Comparison**
-> *Compare XML and JSON structuring methods for prompts.*
->
-> ```mermaid
-> classDiagram
->   class XML {
->     +<instructions>
->     +<context>
->     +<examples>
->     +<query>
->     +<reasoning>
->     +<answer>
->     +<confidence>
->   }
->   class JSON {
->     +"instruction"
->     +"context"
->     +"examples"
->     +"query"
->     +"reasoning"
->     +"answer"
->     +"confidence"
->   }
->   XML -->|Unambiguous Delimiters| XML
->   JSON -->|Ambiguous Syntax| JSON
-> ```
 
 # XML Structured Prompting
 

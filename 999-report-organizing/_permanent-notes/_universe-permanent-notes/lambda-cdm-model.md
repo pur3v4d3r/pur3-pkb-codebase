@@ -19,7 +19,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lambda-cdm-model-synthetic-seed-2026-05-14
@@ -69,49 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lambda Cdm Model Components**
-> *Identify the six key components of the model.*
->
-> ```mermaid
-> graph TD
->   A[Dark Energy (Λ)] --> B[Cold Dark Matter]
->   B --> C[Baryonic Matter]
->   C --> D[Photons]
->   D --> E[Neutrinos]
->   E --> F[Curvature]
-> ```
-
-
-> [!abstract] **Diagram 2 — Lambda Cdm Model Data Fit**
-> *Trace the flow of data from observations to model fitting.*
->
-> ```mermaid
-> flowchart LR
->   A[Cosmic Microwave Background] --> B[Model Prediction]
->   C[Baryon Acoustic Oscillations] --> D[Model Prediction]
->   E[Supernova Observations] --> F[Model Prediction]
->   G[Large-Scale Structure Surveys] --> H[Model Prediction]
->   I[Model Prediction] --> J[Fitting Parameters]
-> ```
-
-
-> [!abstract] **Diagram 3 — Lambda Cdm Model vs Alternatives**
-> *Compare the Lambda CDM model with alternative models.*
->
-> ```mermaid
-> graph TD
->   A[Lambda CDM Model] --> B[Best Fit Observational Data]
->   C[Alternative Models] --> D[Worse Fit Observational Data]
-> ```
 
 # Lambda Cdm Model
 

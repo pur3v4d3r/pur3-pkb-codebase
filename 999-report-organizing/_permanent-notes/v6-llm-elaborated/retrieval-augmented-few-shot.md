@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,43 +152,6 @@ Empirical evidence demonstrates that Retrieval-Augmented Few-Shot matches or exc
 > [!connection] **[[Retrieval-Augmented Generation]]** — *supports*
 > RAFS supports Retrieval-Augmented Generation by providing a mechanism to dynamically retrieve relevant examples at inference time, which can then be used to generate more accurate and contextually appropriate responses. This integration enhances the overall performance of retrieval-augmented models across various tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Dynamic Example Selection Process**
-> *Follow the flow from input to retrieval and selection of relevant examples.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Demonstration Corpus]
->   B --> C[Retrieve Relevant Examples]
->   C --> D[Select Few-Shot Demonstrations]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Static Few-Shot Sets**
-> *Compare the static and dynamic approaches to few-shot example selection.*
->
-> ```mermaid
-> graph TD
->   A[Static Few-Shot Set] --> B[Fixed Examples]
->   C[Dynamic Few-Shot Set] --> D[Demonstration Corpus]
->   D --> E[Retrieve Relevant Examples]
-> ```
-
-
-> [!abstract] **Diagram 3 — Retrieval-Augmented Few-Shot Workflow**
-> *Trace the workflow from input to output, highlighting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Demonstration Corpus]
->   B --> C[Semantic Search]
->   C --> D[Select Relevant Examples]
->   D --> E[Generate Prompt]
->   E --> F[Output]
-> ```
 
 # Retrieval-Augmented Few-Shot
 

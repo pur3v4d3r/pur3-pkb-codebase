@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -182,33 +178,6 @@ Empirical comparisons have shown that allocating a fixed annotation budget acros
 > [!connection] **[[Distribution Mismatch Problem]]** — *applies-to*
 > Iterative Preference Learning directly addresses the Distribution Mismatch Problem by continuously generating preference data aligned with the current model's output distribution. This ensures that each iteration provides relevant feedback for improving the model, thereby mitigating issues arising from mismatched distributions between training and real-world scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Iterative Preference Learning Cycle**
-> *Follow the cycle from generation to model update.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Responses] --> B[Collect Feedback]
->   B --> C[Update Model]
->   C --> D[Next Iteration]
->   D --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Feedback Alignment Process**
-> *Track how feedback aligns with model output distribution.*
->
-> ```mermaid
-> graph TD
->   A[Current Model Output] --> B[Human Feedback]
->   B --> C[Align Preferences]
->   C --> D[Update Reward Function]
->   D --> E[Next Iteration]
->   E --> F[New Model Output]
-> ```
 
 # Iterative Preference Learning
 

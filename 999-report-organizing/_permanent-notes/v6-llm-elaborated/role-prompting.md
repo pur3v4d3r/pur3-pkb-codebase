@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,44 +155,6 @@ Role Prompting is effective because it leverages learned associations between ro
 > [!connection] **[[Persona Assignment]]** — *instance-of*
 > Role Prompting is an instance of Persona Assignment, where assigning a specific role to a language model involves attributing it with characteristics and behaviors typical of that persona. This relationship underscores the importance of understanding how different personas can influence model outputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Role Prompting Process Flow**
-> *Follow the sequence from role assignment to output generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B(Role Assignment)
->   B --> C(Model Response Generation)
->   C --> D(Output)
-> ```
-
-
-> [!abstract] **Diagram 2 — Role Prompting vs Direct Command**
-> *Compare the two prompting techniques and their outputs.*
->
-> ```mermaid
-> graph TD
->   A[Direct Command]
->   B(Role Prompting)
->   C[Output - Specific Instructions]
->   D[Output - Role-Influenced]
->   A -->|Explicit Instruction| C
->   B -->|Role Assignment| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Role Prompting Applications**
-> *Identify the different applications of role prompting.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Supportive Tutor|
->   B(Content Generation) -->|Brand Ambassador|
->   C[Ethical Considerations] -->|Medical Doctor|
-> ```
 
 # Role Prompting
 

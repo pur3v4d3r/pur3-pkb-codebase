@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,43 +153,6 @@ Addressing self-evaluation bias requires a multi-faceted approach that includes 
 > [!connection] **[[Model-Graded Evaluation]]** — *applies-to*
 > Self-evaluation bias directly impacts model-graded evaluation by skewing the assessment of language models' outputs. This connection is crucial because it underscores how biases in evaluation methods can undermine the reliability and fairness of AI systems, necessitating robust mitigation strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Evaluation Bias Process Flow**
-> *Follow the flow from input to evaluation outcome.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Evaluator]
->   B --> C[Favorable Evaluation]
->   C --> D[Inflated Scores]
->   E[Objective Evaluation] --> F[Accurate Scores]
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Evaluation Bias vs Confirmation Bias**
-> *Compare the contexts and outcomes of both biases.*
->
-> ```mermaid
-> graph TD
->   A[Self-Evaluation Bias] --> B[Evaluating Model Outputs]
->   C[Confirmation Bias] --> D[Situational Beliefs]
->   E[Favoring Familiar Styles] --> F[Biased Judgments]
->   G[Seeking Confirmatory Info] --> H[Biased Interpretations]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Self-Evaluation Bias**
-> *Identify the areas where bias can impact evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Over-reliance on Model Content]
->   C[Model Comparison Studies] --> D[Biased Results Favoring Same Family]
->   E[HUMAN Validation Needed] --> F[Ensuring True Quality]
-> ```
 
 # Self-Evaluation Bias
 

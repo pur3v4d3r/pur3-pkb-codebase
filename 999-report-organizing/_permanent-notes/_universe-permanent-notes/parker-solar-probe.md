@@ -18,7 +18,7 @@ subdomains:
   - space-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - parker-solar-probe-synthetic-seed-2026-05-14
@@ -65,72 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Parker Solar Probe Mission Objectives**
-> *Identify the primary goals of the mission.*
->
-> ```mermaid
-> graph TD
->   A[Study Sun's Corona]
->   B[Origins of Solar Wind]
->   C[Navigate Extreme Conditions]
->   D[Collect Data on Solar Wind and Magnetic Fields]
->   A -->|Primary Objective| E[Unprecedented Insights]
->   B -->|Key Findings| F['Switchbacks Discovery']
->   C -->|Success Factors| G[Data Collection]
->   D -->|Mechanism| H[Sensors for Plasma, Magnetic Fields]
-> ```
-
-
-> [!abstract] **Diagram 2 — Parker Solar Probe Data Flow**
-> *Understand the flow of data from collection to analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Collection]
->   B[Sensors for Plasma, Magnetic Fields]
->   C[Navigation Systems]
->   D[In-Situ Measurements]
->   E[Data Transmission]
->   F[Earth-Based Analysis]
->   G[Predictive Models]
->   H[Space Weather Prediction]
->   I[Mitigation Strategies]
->   A --> B
->   A --> C
->   A --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   G --> I
-> ```
-
-
-> [!abstract] **Diagram 3 — Switchbacks Discovery Process**
-> *Trace the process of discovering switchbacks.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Probe as P
->   participant Sun as S
->   participant Earth as E
->   participant Analysis as A
->   P->>S: Approaches Sun's Corona
->   S-->>P: Solar Wind Data Collected
->   P->>E: Transmits Data to Earth
->   E->>A: Analyzes Data for Patterns
->   A->>E: Identifies 'Switchbacks'
->   E->>P: Validates Findings with Further Approaches
-> ```
 
 # Parker Solar Probe
 

@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -68,51 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reaction and Reflection Cycle**
-> *Follow the flow from task completion to strategy adjustment.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Completion] --> B[Evaluation]
->   B --> C[Strategy Revision]
->   C --> D[Next Task]
->   D --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Reaction and Reflection**
-> *Trace the steps from cognitive evaluation to contextual updating.*
->
-> ```mermaid
-> flowchart LR
->   A[Cognitive Evaluation] --> B[Motivational Attribution]
->   B --> C[Updating Beliefs]
->   C --> D[Behavioral Revision]
->   D --> E[Contextual Updating]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cyclic Coupling in Long-Term Projects**
-> *Observe the extended temporal perspective over multiple sessions.*
->
-> ```mermaid
-> graph TD
->   A[Session 1] --> B[Evaluation]
->   B --> C[Strategy Revision]
->   C --> D[Session 2]
->   D --> E[Evaluation]
->   E --> F[Strategy Revision]
->   F --> G[Session 3]
-> ```
 
 # Reaction and Reflection as Cyclic Coupling
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,54 +171,6 @@ Dynamic benchmarking addresses the critical issue of benchmark contamination by 
 > [!connection] **[[Evaluation Prompt Design]]** — *applies-to*
 > Dynamic benchmarking directly applies to the design of evaluation prompts by ensuring that each prompt is unique and representative of a wide range of linguistic challenges. This application enhances the validity of LLM evaluations, as it prevents models from simply memorizing specific prompts and instead tests their ability to generalize across diverse scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Dynamic Benchmarking Mechanisms**
-> *Identify the different mechanisms used for generating new evaluation instances.*
->
-> ```mermaid
-> graph TD
->   A[Generative Evaluation]
->   B[Procedurally Generated Benchmarks]
->   C[Rotating Benchmark Pools]
->   D[Adversarial Benchmarking]
->   A -->|Novel Tasks| E[Dynamic Benchmarking]
->   B -->|Infinite Variations| E
->   C -->|Fresh Subsets| E
->   D -->|Target Weaknesses| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Dynamic vs Static Benchmarks**
-> *Compare the key differences between dynamic and static benchmarking approaches.*
->
-> ```mermaid
-> graph TD
->   A[Static Benchmark]
->   B[Dynamic Benchmark]
->   A -->|Fixed Tasks| C[Contamination Risk]
->   B -->|New Instances| D[Prevent Contamination]
->   A -->|Outdated Assessments| E[Inaccurate Evaluation]
->   B -->|Continuous Assessment| F[Avoid Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dynamic Benchmarking Workflow**
-> *Follow the workflow from task generation to model evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Generation]
->   B[Model Evaluation]
->   C[Result Analysis]
->   D[Feedback Loop]
->   A -->|Generative Methods| B
->   B -->|Performance Metrics| C
->   C -->|Identify Weaknesses| D
->   D -->|Improve Tasks| A
-> ```
 
 # Dynamic Benchmarking
 

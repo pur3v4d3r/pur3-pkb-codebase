@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,39 +155,6 @@ The Linear Representation Hypothesis serves as a foundational concept in the bro
 > [!connection] **[[Concept Activation Vectors]]** — *supports*
 > The Linear Representation Hypothesis supports the use of concept activation vectors by providing a theoretical framework that explains why these vectors can reliably represent specific concepts. By assuming linear directions for concepts, researchers and practitioners can confidently utilize activation vectors to manipulate model behavior or diagnose issues in representation learning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Concept Representation as Linear Directions**
-> *Identify how concepts are represented linearly in high-dimensional spaces.*
->
-> ```mermaid
-> graph TD
->   A[High-Dimensional Space] --> B[Linear Direction]
->   B --> C[Concept Representation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Activation Steering Process**
-> *Follow the steps to steer model behavior by manipulating activation vectors.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Activation] --> B[Intervention]
->   B --> C[Modified Activation]
->   C --> D[Predicted Output]
-> ```
-
-
-> [!abstract] **Diagram 3 — Linear vs Non-Linear Interactions**
-> *Compare linear and non-linear interactions in concept representations.*
->
-> ```mermaid
-> graph TD
->   A[Linear Direction] --> B[Simple Manipulation]
->   C[Non-Linear Interaction] --> D[Complex Phenomena]
-> ```
 
 # Linear Representation Hypothesis
 

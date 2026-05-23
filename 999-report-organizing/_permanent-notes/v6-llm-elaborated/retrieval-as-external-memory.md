@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,41 +160,6 @@ Retrieval as external memory represents a paradigm shift in LLM context manageme
 > [!connection] **[[Episodic Memory in Agents]]** — *applies-to*
 > Retrieval as external memory applies the concept of episodic memory from cognitive science, where agents can recall specific past events or experiences. By mimicking this process, language models can access and utilize contextually relevant information stored externally, improving their performance in tasks requiring temporal reasoning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Retrieval Process Flow**
-> *Follow the flow from query to response generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[External Memory]
->   B --> C[Integrate Content]
->   C --> D[Generate Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Management Comparison**
-> *Compare parametric LLMs with retrieval-based systems.*
->
-> ```mermaid
-> graph TD
->   A[Parametric LLM]
->   B[Retrieval-Based System]
->   A -->|Static Parameters| C[Frozen Knowledge]
->   B -->|Dynamic Retrieval| D[Updatable Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Examples**
-> *Identify applications where retrieval as external memory is beneficial.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Integrate Up-to-Date KB]
->   C[Customer Service Chatbots] --> D[Access Latest Info]
-> ```
 
 # Retrieval as External Memory
 

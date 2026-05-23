@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,40 +155,6 @@ Key findings from Prompt Paraphrasing research indicate that semantically equiva
 > [!connection] **[[Prompt Sensitivity Analysis]]** — *applies-to*
 > Prompt Paraphrasing applies to Prompt Sensitivity Analysis as it provides a method for systematically varying prompts to assess how sensitive model outputs are to input changes. This application helps in identifying robustness issues and understanding the impact of different phrasings on performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Paraphrasing Process Flow**
-> *Follow the flow from original prompt to model evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Original Prompt] --> B[Generate Variations]
->   B --> C[Evaluate Responses]
->   C --> D[Analyze Consistency]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Paraphrasing vs Optimization**
-> *Compare the goals and methods of Prompt Paraphrasing and Optimization.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Paraphrasing] -->|Generate Variations| B[Evaluate Robustness]
->   C[Prompt Optimization] -->|Find Best Phrasing| D[Maximize Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Sensitivity Analysis Workflow**
-> *Trace the steps from prompt variation to performance assessment.*
->
-> ```mermaid
-> flowchart LR
->   A[Create Variations] --> B[Test Responses]
->   B --> C[Evaluate Differences]
->   C --> D[Determine Fragility]
-> ```
 
 # Prompt Paraphrasing
 

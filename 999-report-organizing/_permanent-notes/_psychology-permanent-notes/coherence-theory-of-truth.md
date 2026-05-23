@@ -19,7 +19,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - coherence-theory-of-truth-synthetic-seed-2026-05-12
@@ -67,64 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Coherence Theory Structural Overview**
-> *Identify the core components and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Core Explanation]
->   B[Practical Implications]
->   C[Key Distinctions]
->   D(Common Misconceptions)
->   A -->|defines theory| E[Coherent Truth]
->   E --> F[Internal Consistency]
->   E --> G[Belief Revision]
->   B --> H[Instructional Design]
->   B --> I[Legal Reasoning]
->   C --> J[Reflective Thinking]
->   C --> K[Reactive Thinking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Coherence vs Correspondence Truth Comparison**
-> *Compare the validation criteria of Coherent and Correspondent truth.*
->
-> ```mermaid
-> graph TD
->   A[Coherent Truth]
->   B[Correspondent Truth]
->   A -->|Internal Consistency| C[Beliefs Fit Together]
->   B -->|External Reality Alignment| D[Statements Match World]
-> ```
-
-
-> [!abstract] **Diagram 3 — Process of Belief Revision in Coherence Theory**
-> *Follow the steps for revising beliefs to maintain coherence.*
->
-> ```mermaid
-> flowchart LR
->   A[New Information]
->   B[Contradicts Existing Beliefs]
->   C[Evaluate New Info]
->   D[Reject New Info]
->   E[Revise Existing Beliefs]
->   F[Maintain Coherence]
->   A -->|?| B
->   B -->|Yes| C
->   C -->|No| F
->   C -->|Yes| D
->   D --> F
->   B -->|No| F
-> ```
 
 # Coherence Theory Of Truth
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,42 +163,6 @@ Empirical evidence suggests that most large-scale NLP models converge on vocabul
 > [!connection] **[[Subword Tokenization]]** — *generalizes-to*
 > Vocabulary Size Tradeoffs generalizes to Subword Tokenization by addressing the broader challenge of balancing linguistic representation and computational efficiency across different tokenization methods. While Subword Tokenization specifically deals with breaking down words into subunits, the principles underlying vocabulary size tradeoffs apply universally, influencing how these methods are optimized for performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Vocabulary Size Tradeoffs Overview**
-> *Identify the tradeoff between larger and smaller vocabularies.*
->
-> ```mermaid
-> graph TD
->   A[Smaller Vocabulary]
->   B[Larger Vocabulary]
->   A -->|Simpler Model, Longer Sequences| C[Increased Cross-Attention Costs]
->   B -->|Better Representation, Shorter Sequences| D[Harder Training, Larger Embedding Matrix]
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact on Computational Resources**
-> *Understand the impact of vocabulary size on computational resources.*
->
-> ```mermaid
-> graph TD
->   A[Vocabulary Size]
->   B[Smaller Vocabulary] -->|Simpler Model, Reduced Embedding Matrix| C[Lower Training Complexity]
->   D[Larger Vocabulary] -->|Better Representation, Increased Embedding Matrix| E[Higer Training Complexity]
-> ```
-
-
-> [!abstract] **Diagram 3 — Model Performance Tradeoffs**
-> *Analyze the tradeoff between model performance and vocabulary size.*
->
-> ```mermaid
-> graph TD
->   A[Vocabulary Size]
->   B[Smaller Vocabulary] -->|Simpler Model, Longer Sequences| C[Better Cross-Lingual Coverage]
->   D[Larger Vocabulary] -->|Better Representation, Shorter Sequences| E[Higer Training Complexity]
-> ```
 
 # Vocabulary Size Tradeoffs
 

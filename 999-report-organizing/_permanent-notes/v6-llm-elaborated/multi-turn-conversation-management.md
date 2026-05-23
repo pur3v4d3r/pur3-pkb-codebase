@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,57 +157,6 @@ Empirical evidence underscores the non-linear degradation of performance in mult
 > [!connection] **[[Dialogue State Tracking]]** — *specializes*
 > Multi-turn conversation management specializes in Dialogue State Tracking by providing specific strategies to manage the accumulation of conversational history. This specialization is crucial because it addresses how dialogue states evolve over time and how to maintain an accurate representation of these states without overwhelming the context window.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Context Window Management Flow**
-> *Follow the flow to understand how context is managed over turns.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Collect Input]
->   B --> C[Evaluate Relevance]
->   C -->|Relevant| D[Store in Context Window]
->   C -->|Irrelevant| E[Discard]
->   D --> F[Check Window Size]
->   F -->|Full| G[Truncate History]
->   F -->|Not Full| H[Continue Conversation]
->   G --> H
->   H --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Structured State Representation**
-> *Identify the components of a structured state representation.*
->
-> ```mermaid
-> graph TD
->   A[Recent Context] --> B[Prioritized Information]
->   C[Role-Based Compression] --> D[Selective Truncation]
->   E[Explicit State Extraction] --> F[Efficient Flow]
->   B -->|Example: Last Turn| G[User Query]
->   D -->|Example: Remove Old Queries| H[Optimized Context]
->   F -->|Example: Extract Key Points| I[Pertinent Details]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conversation State Machine**
-> *Track the states and transitions in a multi-turn conversation.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Active: "Start"
->   Active --> CollectingInput: "Collect Input"
->   CollectingInput --> EvaluatingRelevance: "Evaluate Relevance"
->   EvaluatingRelevance -->|Relevant| StoringContext: "Store in Context Window"
->   EvaluatingRelevance -->|Irrelevant| Discarding: "Discard"
->   StoringContext --> CheckingSize: "Check Window Size"
->   CheckingSize -->|Full| TruncatingHistory: "Truncate History"
->   CheckingSize -->|Not Full| ContinuingConversation: "Continue Conversation"
->   TruncatingHistory --> ContinuingConversation
->   ContinuingConversation --> Active
-> ```
 
 # Multi-Turn Conversation Management
 

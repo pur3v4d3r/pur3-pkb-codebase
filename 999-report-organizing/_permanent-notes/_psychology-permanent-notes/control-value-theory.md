@@ -18,7 +18,7 @@ subdomains:
   - achievement-emotions-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - control-value-theory-synthetic-seed-2026-04-25
@@ -65,69 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Emotion Appraisal Process**
-> *Follow the flow from perception to emotion generation.*
->
-> ```mermaid
-> graph TD
->   A[Perception of Task]
->   B[Evaluation Controllability]
->   C[Assessment Value]
->   D[Enjoyment]
->   E[Anxiety]
->   F[Pride]
->   G[Hopelessness]
->   A -->|High Control, High Value| D
->   A -->|Low Control, Low Value| G
->   A -->|High Control, Low Value| F
->   A -->|Low Control, High Value| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotion-Outcome Relationship**
-> *Trace how emotions affect engagement and performance.*
->
-> ```mermaid
-> graph TD
->   A[Positive Emotions]
->   B[Negative Emotions]
->   C[Enhanced Engagement]
->   D[Hindered Engagement]
->   E[Improved Performance]
->   F[Deteriorated Performance]
->   A -->|High Control, High Value| C
->   C -->|Motivation and Learning|
->   A -->|Motivation and Learning| E
->   B -->|Low Control, Low Value| D
->   D -->|Disengagement|
->   B -->|Disengagement| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Identify how each application addresses controllability and value.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Student Counseling]
->   C[Curriculum Development]
->   D[Challenging & Achievable Tasks]
->   E[Coping Strategies]
->   F[Engaging Learning Experiences]
->   A -->|High Control, High Value| D
->   B -->|Address Low Controllability| E
->   C -->|Clear Instructions & Feedback| F
-> ```
 
 # Control-Value Theory
 

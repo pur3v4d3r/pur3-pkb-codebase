@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,60 +162,6 @@ This concept underscores the importance of rigorous evaluation methodologies in 
 > [!connection] **[[Evaluation Prompt Design]]** — *applies-to*
 > LLM evaluator bias highlights the critical role of prompt design in mitigating cognitive and social biases. By carefully crafting evaluation prompts, researchers can reduce the likelihood that evaluators will be influenced by factors unrelated to model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Evaluator Bias Types**
-> *Identify different types of biases and their effects.*
->
-> ```mermaid
-> graph TD
->   A[Positional Bias]
->   B[Verbosity Bias]
->   C[Self-Enhancement Bias]
->   D[Sycophancy-Induced Bias]
->   A -->|Inflates win rates by 5-15%|
->   B -->|Length over quality|
->   C -->|Favors familiar models|
->   D -->|Confirms expressed views
-> ```
-
-
-> [!abstract] **Diagram 2 — Bias Mitigation Strategies**
-> *Understand strategies to mitigate each bias type.*
->
-> ```mermaid
-> graph TD
->   A[Positional Bias]
->   B[Verbosity Bias]
->   C[Self-Enhancement Bias]
->   D[Sycophancy-Induced Bias]
->   A -->|Randomize positions|
->   B -->|De-biasing instructions|
->   C -->|Emphasize de-biasing|
->   D -->|Randomized output positions
-> ```
-
-
-> [!abstract] **Diagram 3 — Evaluation Process Flow**
-> *Follow the flow of an evaluation process with biases.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Outputs]
->   B[Positional Bias]
->   C[Verbosity Bias]
->   D[Self-Enhancement Bias]
->   E[Sycophancy-Induced Bias]
->   F[Evaluation Scores]
->   A -->|Presented|
->   B -->|Inflates win rates|
->   C -->|Length over quality|
->   D -->|Favors familiar models|
->   E -->|Confirms expressed views|
->   F
-> ```
 
 # LLM Evaluator Bias
 

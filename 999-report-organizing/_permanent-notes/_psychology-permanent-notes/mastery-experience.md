@@ -17,7 +17,7 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mastery-experience-synthetic-seed-2026-04-25
@@ -64,44 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mastery Experience Mechanism**
-> *Follow the steps from facing a challenge to attributing success.*
->
-> ```mermaid
-> graph TD
->   A[Face Challenge] --> B[Overcome Obstacle]
->   B --> C[Attribute Success]
->   C --> D[Integrate Belief]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mastery vs Vicarious Experiences**
-> *Compare personal success attribution with observed success.*
->
-> ```mermaid
-> graph TD
->   A[Personal Success] --> B[Direct Attribution]
->   C[Observed Success] --> D[Vicarious Attribution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mastery vs Verbal Persuasion**
-> *Compare direct evidence of capability with indirect encouragement.*
->
-> ```mermaid
-> graph TD
->   A[Direct Evidence] --> B[Strong Belief]
->   C[Verbal Encouragement] --> D[Weak Belief]
-> ```
 
 # Mastery Experience
 

@@ -19,7 +19,7 @@ subdomains:
   - pkm
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cornell-note-taking-synthetic-seed-2026-04-26
@@ -66,55 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cornell Note Taking Structure**
-> *Identify the sections of a Cornell note-taking page.*
->
-> ```mermaid
-> graph TD
->   A[Notes Column]
->   B[Cue Column]
->   C[Summary Band]
->   A -->|Wide space for detailed notes| B
->   B -->|Narrow column for cues and questions| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Cornell Note Taking Process Flow**
-> *Follow the steps of Cornell note-taking from lecture to review.*
->
-> ```mermaid
-> flowchart LR
->   A[Capture Notes]
->   B[Generate Cues]
->   C[Write Summary]
->   D[Test Yourself]
->   A -->|During Lecture/Reading| B
->   B -->|After Class| C
->   C -->|Review Session| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Cornell Note Taking Benefits**
-> *Compare intrinsic and extraneous cognitive load.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load]
->   B[Extraneous Load]
->   C[Active Engagement]
->   D[Cognitive Distractions]
->   A -->|Increased by cue questions and summaries| C
->   B -->|Decreased by structured notes| D
-> ```
 
 # Cornell Note Taking
 

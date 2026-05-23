@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,33 +166,6 @@ Sliding window attention represents a pivotal advancement in transformer archite
 > [!connection] **[[Sparse Attention Patterns]]** — *contrasts-with*
 > While sparse attention patterns reduce computational load by selectively attending to a subset of tokens, sliding window attention does so by limiting the scope to recent tokens. This contrast highlights different strategies for managing long sequences and their implications on model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Sliding Window Attention Flowchart**
-> *Follow the flow from input to output, noting the window size and buffer.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Sequence] --> B[Window Slice]
->   B --> C[Attention Weights]
->   C --> D[Cached KV Buffer]
->   D --> E[Output Token]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sliding Window Mechanism Overview**
-> *Observe how the window slides over tokens and updates attention weights.*
->
-> ```mermaid
-> flowchart LR
->   A[Token1] --> B[Window]
->   B --> C[Attention Weights]
->   C --> D[Token2]
->   D --> E[New Window]
->   E --> F[Updated Attention]
-> ```
 
 # Sliding Window Attention
 

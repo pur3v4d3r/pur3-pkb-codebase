@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,66 +166,6 @@ Stance Consistency Across Output is a foundational aspect of coherent argumentat
 > [!connection] **[[Narrative Consistency Prompting]]** — *applies-to*
 > Stance consistency across output is a specific application of narrative consistency prompting, which aims to ensure that the overall story or argument remains coherent. By focusing on stance annotations at section boundaries, narrative consistency can be achieved even in complex arguments where maintaining a consistent evaluative position is crucial.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Stance Consistency Mechanism**
-> *Follow the flow from input to output, noting where stance annotations are used.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Generate Segment]
->   C[Check Stance]
->   D[Apply Annotation]
->   E[Next Segment]
->   F[Output]
->   A --> B
->   B -->|Inconsistent?| C
->   C -->|Yes| D
->   C -->|No| E
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Stance Consistency in Legal Documents**
-> *Identify the steps where stance annotations are crucial for maintaining consistency.*
->
-> ```mermaid
-> graph TD
->   A[Initial Prompt]
->   B[Generate Section]
->   C[Check Stance]
->   D[Apply Annotation]
->   E[Next Section]
->   F[Final Output]
->   A --> B
->   B -->|Inconsistent?| C
->   C -->|Yes| D
->   C -->|No| E
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Stance Consistency vs Multi-Perspective Analysis**
-> *Compare the two approaches to understand their differences.*
->
-> ```mermaid
-> graph TD
->   A[Stance Inconsistency]
->   B[Multiperspective Analysis]
->   C[Explicit Annotations]
->   D[Intended Shifts]
->   E[Contextual Understanding]
->   F[Genuine Contradictions]
->   A -->|Genuine Contradictions| C
->   B -->|Intended Shifts| D
->   A -->|Lack of Context| F
->   B -->|Requires Discourse-Level Context| E
-> ```
 
 # Stance Consistency Across Output
 

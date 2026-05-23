@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,65 +170,6 @@ Empirical evidence underscores the predictable degradation of persona consistenc
 > [!connection] **[[Memory Injection in Dialogue]]** — *supports*
 > Persona consistency across turns relies on the ability to inject relevant information into ongoing conversations, a technique supported by memory injection. By strategically reintroducing persona attributes through memory injection, dialogue systems can maintain character coherence even as conversational history accumulates and dilutes initial context.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Persona Consistency Mechanism**
-> *Follow the flow to understand how persona consistency is maintained over turns.*
->
-> ```mermaid
-> graph TD
->   A[Initial Persona Definition]
->   B[Recent Conversational History]
->   C[Drift Towards Default Behavior]
->   D[Persona Reminders]
->   E[Compressed History]
->   F[Persona-Consistent Summaries]
->   G[Maintained Persona Traits]
->   A -->|Context Window Influence| B
->   B -->|Over Time| C
->   C -->|Intervention Strategies| D
->   C -->|Intervention Strategies| E
->   C -->|Intervention Strategies| F
->   D -->|Counteract Drift| G
->   E -->|Reduce Cognitive Load| G
->   F -->|Maintain Consistency| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Persona Reminder vs Verbatim History**
-> *Compare the two strategies for maintaining persona consistency.*
->
-> ```mermaid
-> graph TD
->   A[Persona Reminders]
->   B[Verbatim History Retention]
->   C[Maintained Persona Traits]
->   D[Drift in Character Consistency]
->   E[Cognitive Load on Model]
->   F[Reduced Cognitive Load]
->   G[Inconsistent Advice or Behavior]
->   A -->|Periodic Reinforcement| C
->   B -->|Keeps All History| D
->   B -->|Increases Load| E
->   A -->|Reduces Drift| F
->   B -->|May Lead to Inconsistencies| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Persona Consistency Over Turns**
-> *Track how persona consistency degrades and is maintained over multiple turns.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Initial: Start with Persona Definition
->   Initial --> RecentHistory: Conversational History Accumulates
->   RecentHistory --> Drift: Persona Traits Degrade Over Time
->   Drift --> Intervention: Apply Strategies to Counteract Drift
->   Intervention --> Maintained: Persona Traits Remain Stable
->   Maintained --> [*]: End of Conversation
-> ```
 
 # Persona Consistency Across Turns
 

@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,38 +150,6 @@ The decision between prompt fine-tuning and RAG fundamentally hinges on balancin
 > [!connection] **[[Parameter-Efficient Fine-Tuning]]** — *contrasts-with*
 > While parameter-efficient fine-tuning aims to minimize the number of parameters that need updating during retraining, prompt fine-tuning and RAG take a different approach by focusing on how prompts are used or external knowledge is retrieved. This contrast highlights alternative strategies for adapting language models without extensive retraining.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Fine-Tuning vs RAG Core Concepts**
-> *Compare persistent behavioral patterns with up-to-date factual knowledge.*
->
-> ```mermaid
-> graph TD
->   A["Persistent Behavioral Patterns"] --> B[Fine-Tuning]
->   C["Up-to-Date Factual Knowledge"] --> D[RAG]
-> ```
-
-
-> [!abstract] **Diagram 2 — Instructional Design Tradeoff**
-> *See how fine-tuning and RAG impact instructional consistency.*
->
-> ```mermaid
-> flowchart LR
->   A["Consistent Teaching Styles"] --> B[Fine-Tuning]
->   C["Dynamic Content Delivery"] --> D[RAG]
-> ```
-
-
-> [!abstract] **Diagram 3 — Customer Service Chatbot Tradeoff**
-> *Understand the balance between consistent responses and up-to-date information.*
->
-> ```mermaid
-> flowchart LR
->   A["Consistent Brand Voice"] --> B[Fine-Tuning]
->   C["Current Product Info"] --> D[RAG]
-> ```
 
 # Prompt Fine-Tuning vs RAG
 

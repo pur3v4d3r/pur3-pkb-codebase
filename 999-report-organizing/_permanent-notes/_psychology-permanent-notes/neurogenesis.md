@@ -17,7 +17,7 @@ subdomains:
   - learning-and-memory
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - neurogenesis-synthetic-seed-2026-04-25
@@ -64,51 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Neurogenesis Process Overview**
-> *Follow the flow from neural stem cells to mature neurons.*
->
-> ```mermaid
-> graph TD
->   A[Neural Stem Cells] --> B[Proliferation]
->   B --> C[Progenitor Cells]
->   C --> D[Differentiation]
->   D --> E[Mature Neurons]
->   E --> F[Integration]
-> ```
-
-
-> [!abstract] **Diagram 2 — Neurogenesis and Cognitive Functions**
-> *Identify the brain regions involved in neurogenesis and their cognitive impacts.*
->
-> ```mermaid
-> graph TD
->   A[Neural Stem Cells] --> B[Hippocampus]
->   C[Learning & Memory] --> D[Integration]
->   E[Aerobic Exercise] --> F[Enhanced Neurogenesis]
->   G[Chronic Stress] --> H[Reduced Neurogenesis]
-> ```
-
-
-> [!abstract] **Diagram 3 — Neurogenesis Mechanism Flowchart**
-> *Trace the steps from stem cell division to synaptic integration.*
->
-> ```mermaid
-> flowchart LR
->   A[Stem Cell Division] --> B[Progenitor Cells]
->   B --> C[Differentiation]
->   C --> D[Integration]
->   D --> E[Migrating Neurons]
->   E --> F[Synaptic Pruning & Strengthening]
-> ```
 
 # Neurogenesis
 

@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -68,60 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reflective Disposition Process Flow**
-> *Follow the steps from problem to decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem] --> B[Intuitive Response]
->   A --> C[Pause and Reflect]
->   B --> D[Immediate Decision]
->   C --> E[Multisolution Consideration]
->   D --> F[Outcome]
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective Disposition vs Cognitive Capacity**
-> *Compare reflective disposition and cognitive capacity.*
->
-> ```mermaid
-> graph TD
->   A[High Reflective Disposition] --> B[Better Decision-Making]
->   C[High Cognitive Capacity] --> D[Potential Bias]
->   E[Low Reflective Disposition] --> F[Worse Decisions]
->   G[Low Cognitive Capacity] --> H[Inefficient Thinking]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective Process in Decision-Making**
-> *Trace the decision-making process with reflective disposition.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Intuition as I
->   participant Reflection as R
->   participant Outcome as O
->   U->>I: Encounter Problem
->   I-->>U: Suggest Immediate Solution
->   alt Reflective Disposition
->     U->>R: Pause and Consider Alternatives
->     R-->>U: Evaluate Solutions
->     U->>O: Make Informed Decision
->   else Intuitive Response
->     U->>O: Accept Initial Solution
->   end
-> ```
 
 # Reflective Disposition
 

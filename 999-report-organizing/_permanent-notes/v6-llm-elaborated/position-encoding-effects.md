@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,58 +150,6 @@ Empirical studies have demonstrated that Position Encoding Effects become partic
 > [!connection] **[[Lost-in-the-Middle Effect]]** — *contrasts-with*
 > Position Encoding Effects contrast with the Lost-in-the-Middle Effect in how they influence transformer performance across sequence lengths. While Position Encoding Effects highlight challenges related to maintaining positional information, the Lost-in-the-Middle Effect focuses on difficulties transformers face in attending to tokens that are neither at the beginning nor end of a sequence. Understanding both effects is crucial for optimizing model architectures and training strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Position Encoding Types Overview**
-> *Identify the types of positional encodings and their characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Fixed Absolute]
->   B[Relative]
->   C[Rotary (RoPE)]
->   A -->|Unique vector per position|
->   B -->|Distance between tokens|
->   C -->|Rotational embedding|
-> ```
-
-
-> [!abstract] **Diagram 2 — Performance Degradation Patterns**
-> *Observe how different positional encodings affect performance with increasing sequence length.*
->
-> ```mermaid
-> flowchart LR
->   A[Sequence Length]
->   B1[Fixed Absolute]
->   B2[Relative]
->   B3[Rotary (RoPE)]
->   A -->|Increases|
->   B1 -->|Sharp drop|
->   B2 -->|Moderate drop|
->   B3 -->|Gradual drop|
-> ```
-
-
-> [!abstract] **Diagram 3 — Context Length Impact on Performance**
-> *Compare performance degradation across different positional encoding schemes as context length grows.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> FixedAbsolute : Training Context
->   FixedAbsolute -->|Longer Sequences|
->   DegradationSharp : Sharp Drop
->   DegradationSharp --> [*]
->   [*] --> Relative : Training Context
->   Relative -->|Longer Sequences|
->   DegradationModerate : Moderate Drop
->   DegradationModerate --> [*]
->   [*] --> RoPE : Training Context
->   RoPE -->|Longer Sequences|
->   DegradationGradual : Gradual Drop
->   DegradationGradual --> [*]
-> ```
 
 # Position Encoding Effects
 

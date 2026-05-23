@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -67,60 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Three Basic Psychological Needs Overview**
-> *Identify the three core needs and their definitions.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Competence]
->   C[Relatedness]
->   A -->|Definition: Self-endorsed actions|
->   B -->|Definition: Effective interaction with environment|
->   C -->|Definition: Connected to others who matter|
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Need Satisfaction**
-> *Understand how each need is satisfied in practice.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Competence]
->   C[Relatedness]
->   A -->|Satisfaction: Choices and self-determination|
->   B -->|Satisfaction: Challenging tasks matching skill level|
->   C -->|Satisfaction: Valued relationships without conditional regard|
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications in Different Settings**
-> *See how the needs are applied in various contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Therapeutic Practices]
->   C[MOOCs]
->   A -->|Autonomy: Choice menus|
->   A -->|Competence: Challenging tasks|
->   A -->|Relatedness: Collaborative activities|
->   B -->|Autonomy: Goal-setting with clients|
->   B -->|Competence: Gradual exposure to challenges|
->   B -->|Relatedness: Supportive environment|
->   C -->|Competence: Spaced retrieval techniques|
->   C -->|Relatedness: Peer interaction and support|
-> ```
 
 # The Three Basic Psychological Needs
 

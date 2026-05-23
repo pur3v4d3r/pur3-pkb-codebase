@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,40 +162,6 @@ The quality of clarification request generation is critically dependent on a mod
 > [!connection] **[[Dialogue Grounding Prompts]]** — *applies-to*
 > Clarification request generation is an essential component of dialogue grounding prompts, which aim to ensure that the conversation remains on topic and coherent. By asking targeted questions when faced with ambiguous inputs, systems can effectively ground the dialogue in a shared understanding, preventing misunderstandings and ensuring that subsequent interactions are meaningful and productive.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Clarification Request Process Flow**
-> *Follow the sequence from user input to clarification request generation.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Interpretation]
->   B --> C[Evaluation of Ambiguity]
->   C --> D[Generate Clarification Request]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Clarification Request Characteristics**
-> *Identify the key characteristics that make an effective clarification request.*
->
-> ```mermaid
-> graph TD
->   A[Specificity] --> B[Informativeness]
->   C[User-Friendliness] --> D[Sequential Optimality]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *See the different application areas where clarification request generation is used.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(Customer Service Chatbots)
->   C[Healthcare Consultation] --> D(Travel Assistance Systems)
-> ```
 
 # Clarification Request Generation
 

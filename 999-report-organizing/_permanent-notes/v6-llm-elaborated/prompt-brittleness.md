@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,76 +155,6 @@ Prompt brittleness poses a significant threat to the validity of reported LLM pe
 > [!connection] **[[Format Sensitivity in Prompting]]** — *specializes*
 > Prompt brittleness is a broader issue that encompasses format sensitivity, which specifically refers to how variations in prompt structure can affect model performance. Understanding format sensitivity provides insights into the mechanisms underlying prompt brittleness and guides strategies for developing more robust prompts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prompt Brittleness Mechanism**
-> *Follow the flow from training to prompt development and performance drop.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[LLM Training]
->   C[Prompt Development]
->   D[Specific Surface Patterns]
->   E[High Performance]
->   F[Slight Variations]
->   G[Performance Drop]
->   A --> B
->   B -->|Learned Patterns| D
->   D --> C
->   C --> E
->   E --> F
->   F --> G
-> ```
-
-
-> [!abstract] **Diagram 2 — Brittle vs Robust Prompts Comparison**
-> *Compare the performance of brittle and robust prompts across different variants.*
->
-> ```mermaid
-> graph TD
->   A[Specific Prompt]
->   B[High Performance]
->   C[Slight Variations]
->   D[Performance Drop]
->   E[Diverse Prompts]
->   F[Consistent Performance]
->   G[Varying Phrases]
->   H[Robust Output]
->   A -->|Brittle Prompt| B
->   B -->|Slight Changes| C
->   C -->|Drop in Accuracy| D
->   E -->|Robust Prompt| F
->   F -->|Varying Inputs| G
->   G -->|Maintain Performance| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Brittleness Impact on Benchmarking**
-> *Trace the impact of brittleness from prompt development to performance metrics.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Development]
->   B[Specific Prompt]
->   C[Test Performance]
->   D[Peak Metrics]
->   E[Varying Prompts]
->   F[Misleading Metrics]
->   G[Awareness Needed]
->   H[Robust Testing]
->   I[Accurate Metrics]
->   A -->|Fine-Tuned| B
->   B --> C
->   C --> D
->   D -->|Selective Reporting| E
->   E --> F
->   F --> G
->   G --> H
->   H --> I
-> ```
 
 # Prompt Brittleness
 

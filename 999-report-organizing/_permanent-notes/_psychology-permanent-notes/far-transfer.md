@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - far-transfer-synthetic-seed-2026-04-24
@@ -65,60 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Far Transfer Mechanism Overview**
-> *Follow the flow from learning to application across contexts.*
->
-> ```mermaid
-> graph TD
->   A[Learning]
->   B(Abstract Principle Extraction)
->   C[Explicit Comparison]
->   D[Application Across Contexts]
->   A --> B
->   B -->|Identify Core Concepts| C
->   C -->|Highlight Similarities/Differences| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Near vs Far Transfer Distinction**
-> *Compare the contexts in which skills are applied.*
->
-> ```mermaid
-> graph TD
->   A[Near Transfer]
->   B[Far Transfer]
->   C[Similar Contexts]
->   D[Dissimilar Situations]
->   A -->|Within Similar Contexts| C
->   B -->|Across Dissimilar Situations| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Deep vs Surface Processing**
-> *Understand the difference in cognitive processing depth.*
->
-> ```mermaid
-> graph TD
->   A[Surface-Level Processing]
->   B[Deep Processing]
->   C[Rote Memorization]
->   D[Semantic Elaboration]
->   E[Flexible Application]
->   F[Abstract Principles]
->   A -->|Focus on Surface Features| C
->   B -->|Engage in Semantic Elaboration| D
->   D -->|Extract Abstract Principles| F
->   F -->|Facilitate Flexible Application| E
-> ```
 
 # Far Transfer
 

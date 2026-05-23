@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - emotional-regulation-synthetic-seed-2026-04-24
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Emotional Regulation Strategies Overview**
-> *Identify the two main categories of strategies: antecedent-focused and response-focused.*
->
-> ```mermaid
-> graph TD
->   A[Antecedent-Focused]
->   B(Response-Focused)
->   A -->|Situation Selection, Modification|
->   A -->|Attention Deployment, Cognitive Change|
->   B -->|Response Modulation|
-> ```
-
-
-> [!abstract] **Diagram 2 — Adaptive vs Maladaptive Strategies Comparison**
-> *Compare adaptive strategies like cognitive reappraisal with maladaptive ones such as expressive suppression.*
->
-> ```mermaid
-> graph TD
->   A[Adaptive]
->   B(Maladaptive)
->   A -->|Cognitive Reappraisal|
->   A -->|Response Modulation|
->   B -->|Expressive Suppression|
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Process Flow**
-> *Follow the flow from immediate emotional response to deliberate modification through reflective thinking.*
->
-> ```mermaid
-> flowchart LR
->   A[Emotional Stimulus]
->   B(Immediate Response)
->   C[Deliberate Modification]
->   D[Reflective Thinking]
->   A --> B
->   B -->|Without Reflection|
->   A -->|With Reflection|
->   C
->   C --> D
-> ```
 
 # Emotional Regulation
 

@@ -17,7 +17,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - x-ray-astronomy-synthetic-seed-2026-05-14
@@ -65,50 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — X Ray Astronomy Process Flow**
-> *Follow the flow from X-ray emission to detection.*
->
-> ```mermaid
-> flowchart LR
->   A[High-Energy Emission] --> B[X-Ray Production]
->   B --> C[Astronomical Object]
->   C --> D[Emit X-Rays]
->   D --> E[Atmosphere Absorption]
->   E --> F[Space Telescope]
->   F --> G[Detection]
-> ```
-
-
-> [!abstract] **Diagram 2 — X Ray Astronomy Applications**
-> *Identify the key applications of X-ray astronomy.*
->
-> ```mermaid
-> graph TD
->   A[Compact-Object Accretion] --> B[Black Hole/Neutron Star]
->   C[Active Galactic Nuclei (AGN)] --> D[Supermassive Black Holes]
->   E[Galaxy Clusters] --> F[Hot Intracluster Medium]
-> ```
-
-
-> [!abstract] **Diagram 3 — Historical vs Modern Observations**
-> *Compare early rocket-based to modern satellite observations.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Rocket as R
->   participant Satellite as S
->   R->>R: Short-duration flights (1970s)
->   S->>S: Deep, focused observations (Modern)
-> ```
 
 # X Ray Astronomy
 

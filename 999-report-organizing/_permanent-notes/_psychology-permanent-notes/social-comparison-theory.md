@@ -17,7 +17,7 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - social-comparison-theory-synthetic-seed-2026-04-25
@@ -64,43 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Social Comparison Process Flow**
-> *Follow the stages from identifying a relevant other to adjusting self-perception.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Relevant Other] --> B[Evaluate Self]
->   B --> C[Adjust Self-Perception]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison Types and Outcomes**
-> *Trace the effects of upward and downward comparisons on self-evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Upward Comparison] --> B[Motivation]
->   C[Downward Comparison] --> D[Self-Esteem Protection]
-> ```
-
-
-> [!abstract] **Diagram 3 — Social Media Impact on Self-Comparison**
-> *Observe how social media influences self-evaluation through curated content.*
->
-> ```mermaid
-> flowchart LR
->   A[Curated Profiles] --> B[Upward Comparison]
->   B --> C[Inadequacy/Satisfaction]
-> ```
 
 # Social Comparison Theory
 

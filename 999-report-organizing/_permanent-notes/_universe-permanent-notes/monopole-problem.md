@@ -17,7 +17,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - monopole-problem-synthetic-seed-2026-05-14
@@ -67,33 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — GUT Symmetry Breaking Process**
-> *Follow the flow from high energy to symmetry breaking and monopole production.*
->
-> ```mermaid
-> graph TD
->   A[High Energy State] --> B[Symmetry Breaking]
->   B --> C[Magnetic Monopoles Produced]
-> ```
-
-
-> [!abstract] **Diagram 2 — Inflationary Dilution Mechanism**
-> *Trace the exponential expansion's effect on monopole density.*
->
-> ```mermaid
-> graph TD
->   A[Pre-Inflation Density] --> B[Exponential Expansion]
->   B --> C[Diluted Monopoles]
-> ```
 
 # Monopole Problem
 

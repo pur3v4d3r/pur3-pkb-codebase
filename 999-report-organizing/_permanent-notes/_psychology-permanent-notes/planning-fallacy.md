@@ -18,7 +18,7 @@ subdomains:
   - project-management
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - planning-fallacy-synthetic-seed-2026-04-25
@@ -65,44 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Planning Fallacy Mechanism**
-> *Follow the flow from inside view to optimistic forecast.*
->
-> ```mermaid
-> flowchart LR
->   A[Inside View] --> B[Focused Details]
->   B --> C[Optimistic Forecast]
-> ```
-
-
-> [!abstract] **Diagram 2 — Planning Fallacy vs Anchoring Bias**
-> *Compare the contexts where each bias is more likely to occur.*
->
-> ```mermaid
-> graph TD
->   A[Anchoring Bias] -->|Various Contexts| B[General]
->   C[Planning Fallacy] -->|Future Planning| D[Specific]
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact on Project Management**
-> *Trace the flow from overestimation to resource misallocation.*
->
-> ```mermaid
-> flowchart LR
->   A[Overestimate Benefits] --> B[Underestimate Costs]
->   B --> C[Risk Underestimation]
->   C --> D[Resource Misallocation]
-> ```
 
 # Planning Fallacy
 

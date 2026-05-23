@@ -18,7 +18,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - implicit-bias-synthetic-seed-2026-04-26
@@ -67,74 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Implicit Bias Mechanism Overview**
-> *Follow the flow from societal norms to implicit biases.*
->
-> ```mermaid
-> graph TD
->   A[Media]
->   B[Stereotypes]
->   C[Repetition]
->   D[Automatic Associations]
->   E[Subconscious Judgments]
->   F[Behavioral Outcomes]
->   A -->|Portrayals| B
->   B -->|Internalization| C
->   C -->|Learning| D
->   D -->|Activation| E
->   E -->|Influence| F
-> ```
-
-
-> [!abstract] **Diagram 2 — IAT Process Flowchart**
-> *Trace the steps of an Implicit Association Test.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Category Categorization]
->   C[Reaction Time Measurement]
->   D[Analysis]
->   E[Results]
->   F[End]
->   A --> B
->   B -->|Measure Speed| C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Implicit Bias in Decision-Making**
-> *Identify the sources and impacts of implicit biases.*
->
-> ```mermaid
-> graph TD
->   A[Policy Makers]
->   B[Policymaking]
->   C[Systemic Inequality]
->   D[Hiring Managers]
->   E[Hiring Decisions]
->   F[Discrimination]
->   G[Law Enforcement Officers]
->   H[Decision-Making]
->   I[Bias Incidents]
->   A -->|Biases| B
->   B --> C
->   D -->|Biases| E
->   E --> F
->   G -->|Biases| H
->   H --> I
-> ```
 
 # Implicit Bias
 

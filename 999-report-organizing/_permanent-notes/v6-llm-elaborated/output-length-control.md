@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,61 +162,6 @@ Empirical evidence supports the effectiveness of structural constraints over wor
 > [!connection] **[[Prompt Design Techniques]]** — *applies-to*
 > Output length control applies to various prompt design techniques by providing methods to guide the verbosity and structure of model responses. This application is vital because it ensures that prompts not only elicit desired content but also do so within specified format constraints, enhancing usability across different contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Output Length Control Mechanisms**
-> *Identify the different methods to control output length.*
->
-> ```mermaid
-> graph TD
->   A[API Parameters]
->   B[Prompt Design]
->   C[max_tokens]
->   D[Stop Sequences]
->   E[Structural Constraints]
->   F[Word Count Instructions]
->   A -->|Includes| C
->   A -->|Includes| D
->   B -->|Includes| E
->   B -->|Includes| F
-> ```
-
-
-> [!abstract] **Diagram 2 — API-Level vs Prompt-Level Controls**
-> *Compare API-level and prompt-level controls for output length.*
->
-> ```mermaid
-> graph TD
->   A[API-Level]
->   B[Prompt-Level]
->   C[max_tokens]
->   D[Stop Sequences]
->   E[Structural Constraints]
->   F[Word Count Instructions]
->   A -->|Hard Limit| C
->   A -->|Abrupt Truncation| D
->   B -->|Natural Guidance| E
->   B -->|Embedded Instructions| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Output Length Control**
-> *Understand the various applications of output length control.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Cost Control]
->   C[Latency Management]
->   D[Ensure Format]
->   E[Prompt Constraints]
->   F[Faster Generation]
->   A -->|Ensure Format| D
->   B -->|Prompt Constraints| E
->   C -->|Faster Generation| F
-> ```
 
 # Output Length Control
 

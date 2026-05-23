@@ -17,7 +17,7 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-esteem-synthetic-seed-2026-04-25
@@ -66,60 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self Esteem Factors Influence**
-> *Follow the arrows to see how factors influence Self Esteem.*
->
-> ```mermaid
-> graph TD
->   A[Positive Feedback]
->   B[Negative Experiences]
->   C[Social Interactions]
->   D[Personal Goals]
->   E(Self Esteem)
->   A -->|Boosts|
->   B -->|Lowers|
->   C -->
->   D -->
-> ```
-
-
-> [!abstract] **Diagram 2 — Self Esteem vs Self-Efficacy Comparison**
-> *Compare the focus of Self Esteem and self-efficacy.*
->
-> ```mermaid
-> classDiagram
->   class SelfEsteem {
->     +Overall Evaluation
->     -Stable Trait
->     +State-Level Fluctuations
->   }
->   class SelfEfficacy {
->     +Task-Specific Confidence
->     -Not Overall Worth
->   }
-> ```
-
-
-> [!abstract] **Diagram 3 — Self Esteem State Machine**
-> *Track the state transitions of Self Esteem based on events.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> High
->   High --> Medium : Negative Feedback
->   Medium --> Low : Persistent Challenges
->   Low --> Medium : Positive Reinforcement
->   Medium --> High : Success
-> ```
 
 # Self Esteem
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,50 +169,6 @@ Empirical evidence highlights the critical need to distinguish between superfici
 > [!connection] **[[Entity Linking in Prompts]]** — *supports*
 > Semantic grounding supports entity linking by ensuring that entities mentioned in prompts are accurately mapped to their corresponding real-world concepts. This alignment is crucial for models to retrieve and use correct information, enhancing the reliability of responses generated from complex or ambiguous prompts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Semantic Grounding Process**
-> *Follow the stages from pretraining to inference.*
->
-> ```mermaid
-> graph TD
->   A[Pretraining]
->   B[Instruction Tuning]
->   C[Supplementary Mechanisms]
->   D(Inference)
->   A -->|Factual Knowledge Imbued| B
->   B -->|Refined World-Knowledge Retrieval| C
->   C -->|Enhanced Robustness Anchors| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Statistical vs Semantic Grounding**
-> *Compare the two approaches in terms of meaning and reliability.*
->
-> ```mermaid
-> graph TD
->   A[Statistical Co-occurrence]
->   B[True Semantic Grounding]
->   A -->|Frequency-Based Recall| C[Superficially Correct]
->   B -->|Stable Meaning Associations| D[Robust World-Knowledge Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 3 — LLM Knowledge Representation Flow**
-> *Trace the flow from linguistic symbols to real-world facts.*
->
-> ```mermaid
-> flowchart LR
->   A[Linguistic Symbols]
->   B[Stable Meanings]
->   C[Real-World Facts]
->   D[Inference Processes]
->   A -->|Semantic Grounding| B
->   B -->|Accurate World-Knowledge Retrieval| C
->   C -->|Constrained Inference| D
-> ```
 
 # Semantic Grounding in LLMs
 

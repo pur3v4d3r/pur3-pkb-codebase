@@ -18,7 +18,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - combinatorial-creativity-synthetic-seed-2026-04-25
@@ -68,54 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Combinatorial Creativity Process Flow**
-> *Follow the steps from identifying concepts to synthesizing ideas.*
->
-> ```mermaid
-> graph TD
->   A[Identify Concepts]
->   B[Explore Connections]
->   C[Synthesize Ideas]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Combinatorial vs Other Creativity Types**
-> *Compare combinatorial creativity with exploratory and transformational types.*
->
-> ```mermaid
-> graph TD
->   A[Combinatorial]
->   B[Exploratory]
->   C[Transformational]
->   A -->|Combines Familiar Ideas| D(New Outcomes)
->   B -->|Novel Within Boundaries| E(Novel Results)
->   C -->|Modifies Conceptual Spaces| F(Altered Perception)
-> ```
-
-
-> [!abstract] **Diagram 3 — Combinatorial Creativity Environments**
-> *Identify settings that encourage cross-disciplinary thinking and collaboration.*
->
-> ```mermaid
-> graph TD
->   A[Interdisciplinary Research]
->   B[Hackathons]
->   C[Integrating Diverse Expertise]
->   A -->|Fosters Combinatorial Creativity|
->   B -->|Encourages Collaboration|
->   C -->|Leads to Novel Juxtapositions
-> ```
 
 # Combinatorial Creativity
 

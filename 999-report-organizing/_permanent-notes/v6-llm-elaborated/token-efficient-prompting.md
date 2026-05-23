@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,38 +161,6 @@ Empirical evidence demonstrates that structured format compression can achieve s
 > [!connection] **[[Prompt Pruning]]** — *specializes*
 > Token-Efficient Prompting specializes in the technique of Prompt Pruning by focusing specifically on reducing token usage. While Prompt Pruning is a broader concept that can involve various methods to refine prompts, Token-Efficient Prompting narrows its scope to optimizing for fewer tokens without compromising task performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Token-Efficient Prompting Process Flow**
-> *Follow the flow from verbose to structured prompts.*
->
-> ```mermaid
-> flowchart LR
->   A[Verbose Natural Language] --> B[Pseudo-code/Bullet Points]
->   B --> C[Reduced Token Count]
-> ```
-
-
-> [!abstract] **Diagram 2 — Token-Efficient Prompting Mechanism Overview**
-> *Trace the steps from analysis to structured format.*
->
-> ```mermaid
-> flowchart LR
->   A[Analyze Prompt Content] --> B[Identify Redundancy]
->   B --> C[Convert to Structured Format]
-> ```
-
-
-> [!abstract] **Diagram 3 — Token-Efficient vs General Prompt Engineering**
-> *Compare the focus areas of both approaches.*
->
-> ```mermaid
-> graph TD
->   A[General Prompt Engineering] -->|Various Techniques| B[Effective Prompts]
->   C[Token-Efficient Prompting] -->|Minimize Tokens| D[Efficiency without Sacrificing Effectiveness]
-> ```
 
 # Token-Efficient Prompting
 

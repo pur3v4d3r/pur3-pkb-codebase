@@ -18,7 +18,7 @@ subdomains:
   - theoretical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - black-hole-synthetic-seed-2026-05-14
@@ -68,59 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Black Hole Formation Process**
-> *Follow the lifecycle from star to black hole.*
->
-> ```mermaid
-> graph TD
->   A[Star]
->   B[Massive Star Collapse]
->   C[Singularity]
->   D[Event Horizon]
->   E[Black Hole]
->   A -->|End of Life Cycle| B
->   B -->|Gravitational Collapse| C
->   C -->|Formation| D
->   D -->|Boundary| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Event Horizon and Ergosphere**
-> *Identify the regions around a rotating black hole.*
->
-> ```mermaid
-> graph TD
->   A[Outside]
->   B[Ergosphere]
->   C[Event Horizon]
->   D[Singularity]
->   A -->|Rotating Black Hole| B
->   B -->|Boundary| C
->   C -->|Point of No Return| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Gravitational Lensing Effect**
-> *Observe how light bends around a black hole.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Light
->   participant Black_Hole
->   participant Observer
->   Light->>Black_Hole: Approaches
->   Black_Hole-->>Light: Bends Path
->   Light->>Observer: Reaches
-> ```
 
 # Black Hole
 

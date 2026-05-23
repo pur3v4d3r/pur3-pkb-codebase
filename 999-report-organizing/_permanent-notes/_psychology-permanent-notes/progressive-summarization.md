@@ -17,7 +17,7 @@ subdomains:
   - knowledge-management
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - progressive-summarization-synthetic-seed-2026-04-25
@@ -64,62 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Progressive Summarization Layers**
-> *Follow the flow from initial capture to executive summary.*
->
-> ```mermaid
-> graph TD
->   A[Initial Capture]
->   B[Bolding Key Passages]
->   C[Highlighting Essentials]
->   D[Executive Summary]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Progressive Summarization Process Flow**
-> *Trace the steps from initial reading to final summary.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Reading]
->   B[Bold Key Passages]
->   C[Highlight Essentials]
->   D[Write Executive Summary]
->   A -->|First Layer| B
->   B -->|Second Layer| C
->   C -->|Final Layer| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Progressive Summarization Applications**
-> *Identify the different contexts where this method is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Personal Knowledge Management]
->   C[Professional Development]
->   A -->|Detailed Notes & Refinement|
->   B -->|Flexible Note System|
->   C -->|Engage at Own Pace|
->   subgraph Applications
->     A
->     B
->     C
->   end
-> ```
 
 # Progressive Summarization
 

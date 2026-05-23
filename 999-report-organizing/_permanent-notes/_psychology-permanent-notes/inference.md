@@ -18,7 +18,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - inference-synthetic-seed-2026-04-24
@@ -69,52 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Inference Types Overview**
-> *Identify the three main types of inference and their characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Inference]
->   A --> B[Deductive]
->   A --> C[Inductive]
->   A --> D[Abductive]
-> ```
-
-
-> [!abstract] **Diagram 2 — Deductive Inference Example**
-> *Follow the logical steps from premises to conclusion in deductive reasoning.*
->
-> ```mermaid
-> flowchart LR
->   P1[All men are mortal]
->   P2[Socrates is a man]
->   C[Socrates is mortal]
->   P1 -->|Premise| C
->   P2 -->|Premise| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Inference Mechanism Flow**
-> *Trace the process of each type of inference from input to output.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Deductive as D
->   participant Inductive as I
->   participant Abductive as A
->   D->>D: Premises -> Logical Rules -> Conclusion
->   I->>I: Observations -> Probabilistic Reasoning -> Generalization
->   A->>A: Data -> Heuristic Explanation -> Best Fit
-> ```
 
 # Inference
 

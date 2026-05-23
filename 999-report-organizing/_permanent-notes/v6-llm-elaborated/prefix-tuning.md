@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,58 +159,6 @@ By enabling direct injection of task-specific context at each layer, Prefix Tuni
 > [!connection] **[[Soft Prompting]]** — *contrasts-with*
 > Prefix Tuning contrasts with Soft Prompting in its approach to injecting task-specific context into transformer models. While Soft Prompting relies on input-layer-only conditioning that propagates through subsequent layers, potentially diluting the initial signal, Prefix Tuning injects learnable prefix vectors directly into each layer's key and value matrices, ensuring a richer adaptation signal throughout the network.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Layer-wise Injection Process**
-> *Follow the flow of prefix vectors through transformer layers.*
->
-> ```mermaid
-> graph TD
->   A[Input Layer]
->   B[Transformer Layer 1]
->   C[Transformer Layer 2]
->   D[Transformer Layer N]
->   E[Output]
->   A -->|Prefix Vectors| B
->   B -->|Prefix Vectors| C
->   C -->|Prefix Vectors| D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Soft Prompting**
-> *Compare the propagation of task-specific signals in both methods.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Layer]
->   B[Transformer Layers]
->   C[Output]
->   D[Prefix Tuning]
->   E[Soft Prompting]
->   D -->|Direct Injection| B
->   E -->|Forward Pass| B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — Memory Overhead in Production**
-> *Identify the challenges of KV-cache management.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Model as M
->   participant Prefix as P
->   participant Cache as C
->   M->>P: Generate Token
->   P->>C: Store Key-Value Pair
->   loop For Each Layer
->     M->>P: Request Next Token
->     P->>C: Retrieve KV Pair
->   end
-> ```
 
 # Prefix Tuning
 

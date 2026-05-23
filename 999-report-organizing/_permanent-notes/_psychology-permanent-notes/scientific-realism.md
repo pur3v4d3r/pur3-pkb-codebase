@@ -17,7 +17,7 @@ subdomains:
   - epistemology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - scientific-realism-synthetic-seed-2026-05-01
@@ -66,64 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Scientific Realism vs Anti-realist Positions**
-> *Compare the ontological commitments of different philosophical positions.*
->
-> ```mermaid
-> graph TD
->   A[Scientific Realism]
->   B(Instrumentalism)
->   C(Constructive Empiricism)
->   D[Structural Realism]
->   E(Entity Realism)
->   A -->|Commit to unobservable entities| F[Observer-Independent Reality]
->   B -.-> G[No ontological commitment]
->   C -.-> H[Only observable phenomena]
->   D -->|Focus on structure| I[Partial truth about reality]
->   E -->|Commit to certain entities| J[Partial truth about reality]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Scientific Realism**
-> *Follow the flow from theory success to ontological commitment.*
->
-> ```mermaid
-> flowchart LR
->   A[Mature, Predictive Success]
->   B[No-Miracles Argument]
->   C[Underlying Truth]
->   D[Ontological Commitment]
->   E[Genuine Description of Reality]
->   A -->|Supports| B
->   B -->|Justifies| C
->   C -->|Leads to| D
->   D -->|Interpreted as| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Key Distinctions in Realism**
-> *Identify the differences between various forms of realism.*
->
-> ```mermaid
-> graph TD
->   A[Scientific Realism]
->   B(Constructive Empiricism)
->   C[Structural Realism]
->   D(Entity Realism)
->   A -->|Commit to unobservable entities| F[Full ontological commitment]
->   B -.-> G[No ontological commitment]
->   C -->|Focus on structure| H[Partial truth about reality]
->   D -->|Commit to certain entities| I[Partial truth about reality]
-> ```
 
 # Scientific Realism
 

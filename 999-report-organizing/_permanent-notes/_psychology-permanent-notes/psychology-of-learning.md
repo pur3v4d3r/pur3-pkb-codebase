@@ -17,7 +17,7 @@ subdomains:
   - psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - psychology-of-learning-synthetic-seed-2026-04-24
@@ -64,70 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Learning Processes Overview**
-> *Follow the flow from conditioning to cognitive mechanisms.*
->
-> ```mermaid
-> graph TD
->   A[Conditioning]
->   B[Perceptual Learning]
->   C[Declarative Encoding]
->   D[Skill Acquisition]
->   E[Social Learning]
->   A -->|Classical & Operant|
->   B -->|Attention, Perception|
->   C -->|Memory Encoding|
->   D -->|Motor Skills|
->   E -->|Observational Learning|
-> ```
-
-
-> [!abstract] **Diagram 2 — Memory Encoding Mechanism**
-> *Trace the path from attention to retrieval practice.*
->
-> ```mermaid
-> flowchart LR
->   A[Attention]
->   B[Elaborative Rehearsal]
->   C[Encoding]
->   D[Retrieval Practice]
->   E[Consolidation]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Principles**
-> *Identify the key principles and their applications.*
->
-> ```mermaid
-> graph TD
->   A[Spacing Effect]
->   B[Cramming]
->   C[Distributed Learning]
->   D[Massed Practice]
->   E[Retrieval Practice]
->   F[Self-Testing]
->   G[Flashcards]
->   A -->|Better Retention|
->   B -->|Worse Retention|
->   C -->|Efficient Learning|
->   D -->|Inefficient Learning|
->   E -->|Strengthen Memory|
->   F -->|Consolidate Memories|
->   G -->|Optimize Efficiency|
-> ```
 
 # Psychology of Learning
 

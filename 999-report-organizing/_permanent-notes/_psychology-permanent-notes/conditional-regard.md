@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Conditional Regard Process Flow**
-> *Follow the stages from initial learning to introjected regulation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Learning] --> B[Tied Self-Worth]
->   B --> C[Introjected Regulation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Conditional Regard vs Autonomous Regulation**
-> *Compare the sources of motivation in both types of regulation.*
->
-> ```mermaid
-> graph TD
->   A[Conditional Regard] -->|External Contingencies| B[Introjected Regulation]
->   C[Autonomous Regulation] -->|Personal Values| D[Genuine Interest]
-> ```
-
-
-> [!abstract] **Diagram 3 — Feedback Mechanisms in Online Learning**
-> *Trace the path from external rewards to introjected regulation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant System as S
->   L->>S: Correct Answer
->   S-->>L: Points/Badges
->   L->>L: Introjected Regulation
-> ```
 
 # Conditional Regard
 

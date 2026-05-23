@@ -17,7 +17,7 @@ subdomains:
   - self-regulated-learning
 
 created: 2026-04-27
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - willpower-synthetic-seed-2026-04-27
@@ -66,71 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Willpower as a Dynamic Process**
-> *Follow the flow from beliefs to self-control outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Beliefs about Willpower]
->   B[Perceived Depletion]
->   C[Sustainable Effort]
->   D[Mindset]
->   E[Self-Control Outcomes]
->   A -->|Influences| B
->   A -->|Supports| C
->   B -->|Negative Impact| E
->   C -->|Positive Impact| E
->   D -->|Shapes Beliefs| A
-> ```
-
-
-> [!abstract] **Diagram 2 — Historical Shift in Willpower Models**
-> *Trace the evolution from resource-based to belief-driven models.*
->
-> ```mermaid
-> graph TD
->   A[Resource-Based Model]
->   B[Ego Depletion Hypothesis]
->   C[Failed Replications]
->   D[Motivational Accounts]
->   E[Belief-Driven Frameworks]
->   A -->|Popularized by Baumeister| B
->   B -->|Challenged by Meta-Analyses| C
->   C -->|Shift to Motivation| D
->   D -->|Current Focus| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Strategies for Willpower Enhancement**
-> *Compare health behavior change and academic persistence strategies.*
->
-> ```mermaid
-> graph TD
->   A[Health Behavior Change]
->   B[Avoid Temptation]
->   C[Structure Environment]
->   D[Implementation Intentions]
->   E[Academic Persistence]
->   F[Reduce Procrastination]
->   G[Embed Routine]
->   H[Foster Consistency]
->   A -->|Lay Out Clothes| C
->   B -->|Skip Workout| A
->   C -->|Automatic Action| D
->   D -->|Fixed Appointments| E
->   E -->|Open Textbook| F
->   F -->|30 Min Study| G
->   G -->|Consistent Engagement| H
-> ```
 
 # Willpower
 

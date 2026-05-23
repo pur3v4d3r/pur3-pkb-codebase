@@ -18,7 +18,7 @@ subdomains:
   - foundations-of-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - heisenbergs-uncertainty-principle-synthetic-seed-2026-05-14
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Non-commuting observables relationship**
-> *Identify the non-commutative pairs and their uncertainty bounds.*
->
-> ```mermaid
-> graph TD
->   A[Position] -->|Δx| B[Momentum]
->   C[Energy] -->|ΔE| D[Time]
->   E[A_x] -->|ΔA_x| F[A_p]
->   G[B_x] -->|ΔB_x| H[B_p]
-> ```
-
-
-> [!abstract] **Diagram 2 — Quantum measurement process flow**
-> *Follow the sequence from preparation to observation, noting uncertainty.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Observer as O
->   participant System as S
->   participant MeasurementDevice as M
->   O->>S: Prepare state with ΔxΔp ≥ ℏ/2
->   S->>M: Interact with measurement device
->   M-->>O: Obtain probabilistic outcome
-> ```
-
-
-> [!abstract] **Diagram 3 — Variance theorem vs measurement disturbance**
-> *Compare the variance theorem and measurement disturbance concepts.*
->
-> ```mermaid
-> classDiagram
->   class VarianceTheorem{
->     +intrinsic limits
->     -regardless of measurements
->   }
->   class MeasurementDisturbance{
->     +direct consequence
->     -of measurement process
->   }
->   VarianceTheorem -->|not equivalent to| MeasurementDisturbance
-> ```
 
 # Heisenberg's Uncertainty Principle
 

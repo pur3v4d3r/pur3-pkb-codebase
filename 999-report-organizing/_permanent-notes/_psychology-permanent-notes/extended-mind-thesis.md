@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
@@ -68,47 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Offloading Process**
-> *Follow the flow from internal to external processes.*
->
-> ```mermaid
-> flowchart LR
->   A[Internal Cognition] --> B[Task Identification]
->   B --> C[Cognitive Offload]
->   C --> D[External Artefact]
->   D --> E[Integration into Workflow]
-> ```
-
-
-> [!abstract] **Diagram 2 — Metacognitive System Integration**
-> *See how PKB scaffolds become part of the metacognitive system.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory] --> B[Note-Making Scaffold]
->   C[Planning & Reflection] --> D[Integration into Workflow]
->   E[Monitoring Understanding] --> F[Cognitive Processing]
-> ```
-
-
-> [!abstract] **Diagram 3 — Extended Mind Components**
-> *Identify the components that extend cognitive processes.*
->
-> ```mermaid
-> graph TD
->   A[Brain] --> B[Tools]
->   C[Tech] --> D[Social Interactions]
->   E[Environment] --> F[Cognitive Processes]
-> ```
 
 # Extended Mind Thesis
 

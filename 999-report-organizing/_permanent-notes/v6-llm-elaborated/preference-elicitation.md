@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,43 +152,6 @@ By addressing both the technical and ethical dimensions of Preference Elicitatio
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > Preference Elicitation is a critical component in RLHF, where human feedback guides the reinforcement learning process. By accurately capturing user preferences, Preference Elicitation ensures that AI systems learn to make decisions aligned with human values.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Preference Elicitation Process Flow**
-> *Follow the steps from task design to bias mitigation.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Design] --> B[Comparison Tasks]
->   B --> C[Rating Scales]
->   C --> D[Bias Mitigation]
->   D --> E[Quality Control]
-> ```
-
-
-> [!abstract] **Diagram 2 — Preference Elicitation Challenges**
-> *Identify and understand the challenges in preference elicitation.*
->
-> ```mermaid
-> graph TD
->   A[Labeller Fatigue] --> B[Bias]
->   C[Presentation Effects] --> D[Bias]
->   E[Labealler Demographics] --> F[Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Preference vs Reward Model Design**
-> *Compare Preference Elicitation with Reward Model Design.*
->
-> ```mermaid
-> sequenceDiagram
->   participant PE as Preference Elicitation
->   participant RM as Reward Model Design
->   PE->>PE: Directly elicit user preferences
->   RM->>RM: Predict rewards based on inputs
-> ```
 
 # Preference Elicitation
 

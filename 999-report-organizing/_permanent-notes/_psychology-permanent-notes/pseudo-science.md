@@ -17,7 +17,7 @@ subdomains:
   - science-communication
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pseudo-science-synthetic-seed-2026-05-12
@@ -64,82 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Pseudo Science Methodology Failures**
-> *Identify the structural failures of pseudo science compared to genuine scientific methodology.*
->
-> ```mermaid
-> graph TD
->   A[Scientific Inquiry]
->   B[Falsifiability]
->   C[Evidential Rigor]
->   D[Testability]
->   E[Openness to Revision]
->   F[Pseudo Science]
->   G[Anecdotal Evidence]
->   H[Unfalsifiable Claims]
->   A -->|Adheres To| B
->   A -->|Adheres To| C
->   A -->|Adheres To| D
->   A -->|Adheres To| E
->   F -->|Lacks| G
->   F -->|Lacks| H
-> ```
-
-
-> [!abstract] **Diagram 2 — Pseudo Science vs Bad/Fringe Science**
-> *Compare pseudo science with bad and fringe science to understand their distinctions.*
->
-> ```mermaid
-> graph TD
->   A[Pseudo Science]
->   B[Bad Science]
->   C[Fringe Science]
->   D[Structural Failure]
->   E[Flawed but Adheres Methodology]
->   F[Unconventional Research]
->   G[Not Subject to Revision]
->   H[Open to Revision]
->   I[Claims as Valid Without Evidence]
->   J[Evidence-Based Claims]
->   A -->|D| D
->   B -->|E| E
->   C -->|F| F
->   A -->|G| G
->   B -->|H| H
->   C -->|I| I
->   A -->|J| J
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Understand the difference between reflective and reactive thinking in evaluating scientific claims.*
->
-> ```mermaid
-> graph TD
->   A[Reflective Thinking]
->   B[Evaluation of Information]
->   C[Critical Analysis]
->   D[Reactive Thinking]
->   E[Immediate Responses]
->   F[Preconceived Notions]
->   G[Emotional Reactions]
->   H[Susceptible to Pseudo Science]
->   A -->|Involves| B
->   A -->|Involves| C
->   D -->|Based On| E
->   D -->|Based On| F
->   D -->|Based On| G
->   D -->|Makes Individuals| H
-> ```
 
 # Pseudo Science
 

@@ -19,7 +19,7 @@ subdomains:
   - mathematics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - non-classical-logic-synthetic-seed-2026-04-25
@@ -68,56 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Non Classical Logic Types Overview**
-> *Identify the different types of non-classical logics and their core principles.*
->
-> ```mermaid
-> graph TD
->   A[Modal]
->   B[Intuitionistic]
->   C[Fuzzy]
->   D[Paraconsistent]
->   A --> |Necessity & Possibility| E[Operators]
->   B --> |Constructive Proof| F[Evidence-Based Truth]
->   C --> |Graded Truth| G[Degree of Truth]
->   D --> |Contradictions Without Explosion| H[Logical Stability]
-> ```
-
-
-> [!abstract] **Diagram 2 — Modal Logic Operators Flowchart**
-> *Follow the flow to understand how modal operators modify statements.*
->
-> ```mermaid
-> flowchart LR
->   A[Statement]
->   B[Necessarily (□)]
->   C[Possibly (◇)]
->   A --> |Modify| B
->   A --> |Modify| C
->   B --> |Expresses Necessity| I[True in All Worlds]
->   C --> |Expresses Possibility| J[True in At Least One World]
-> ```
-
-
-> [!abstract] **Diagram 3 — Non Classical Logic Applications**
-> *See how non-classical logics are applied in various fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> |Fuzzy Logic| B[Adaptive Teaching]
->   C[Artificial Intelligence] --> |Paraconsistent Logic| D[Complex Decision-Making]
->   E[Mathematics] --> |Intuitionistic Logic| F[Rigorous Proofs]
->   G[Database Management] --> |Paraconsistent Logic| H[Inconsistency Handling]
-> ```
 
 # Non Classical Logic
 

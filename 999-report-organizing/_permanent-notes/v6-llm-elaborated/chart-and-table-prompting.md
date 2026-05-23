@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,36 +162,6 @@ Chart and table prompting is crucial for advancing VLM capabilities in handling 
 > [!connection] **[[Visual Chain-of-Thought]]** — *applies-to*
 > Chart and table prompting directly applies the visual chain-of-thought mechanism by guiding models through a structured reasoning process. This ensures that each step in interpreting complex visual data is clearly articulated, enhancing accuracy and transparency.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Chart Prompting Process Flow**
-> *Follow the steps from data extraction to synthesis.*
->
-> ```mermaid
-> graph TD
->   A[Extract Data]
->   B[Interpret Values]
->   C[Synthesize Answer]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Chart and Table Prompting Mechanism**
-> *Identify the key steps in chain-of-thought prompting.*
->
-> ```mermaid
-> graph TD
->   A[Chain-Of-Thought]
->   B[Numerical Extraction]
->   C[Interpretation]
->   D[Synthesis]
->   A --> B
->   B --> C
->   C --> D
-> ```
 
 # Chart and Table Prompting
 

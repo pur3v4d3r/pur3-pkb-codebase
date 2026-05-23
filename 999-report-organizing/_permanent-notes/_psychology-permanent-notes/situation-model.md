@@ -17,7 +17,7 @@ subdomains:
   - discourse-comprehension
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - situation-model-synthetic-seed-2026-04-24
@@ -64,47 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Situation Model Construction Process**
-> *Follow the flow from text input to Situation Model output.*
->
-> ```mermaid
-> flowchart LR
->   A[Text Input] --> B[Integrate Information]
->   B --> C[Bridge Gaps Between Sentences]
->   C --> D[Maintain Coherence]
->   D --> E[Situation Model Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Situation Model vs Surface Form and Propositional Meaning**
-> *Compare the three types of text representation.*
->
-> ```mermaid
-> graph TD
->   A[Surface Form] -->|Distinct From| B[Situation Model]
->   C[Propositional Meaning] -->|Distinct From| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Working Memory in Situation Model Construction**
-> *Identify the role of working memory in each step.*
->
-> ```mermaid
-> flowchart LR
->   A[Text Input] --> B[Integrate Information]
->   B -->|Working Memory| C[Bridge Gaps Between Sentences]
->   C -->|Working Memory| D[Maintain Coherence]
->   D --> E[Situation Model Output]
-> ```
 
 # Situation Model
 

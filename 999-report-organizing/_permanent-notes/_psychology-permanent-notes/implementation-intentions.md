@@ -22,7 +22,7 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
@@ -69,43 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Implementation Intention Process Flow**
-> *Follow the flow from situational cue to behavioral response.*
->
-> ```mermaid
-> flowchart LR
->   A[Encounter Cue] --> B[Trigger Response]
->   B --> C[Execute Action]
-> ```
-
-
-> [!abstract] **Diagram 2 — Implementation Intention Mechanism Overview**
-> *Trace the encoding process from cue to automatic response.*
->
-> ```mermaid
-> graph TD
->   A[Environmental Cue] --> B(Encoding)
->   B --> C(Automatic Response)
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Examples in PKM**
-> *Identify the situational cues and corresponding actions.*
->
-> ```mermaid
-> flowchart LR
->   A[Finish Chapter] --> B(Take Summary)
->   C[New Citation] --> D(Add Reference)
-> ```
 
 # Implementation Intentions
 

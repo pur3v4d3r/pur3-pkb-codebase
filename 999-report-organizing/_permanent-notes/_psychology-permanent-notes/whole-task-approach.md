@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -69,52 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Whole-Task Approach Overview**
-> *Follow the flow from task simplification to integration.*
->
-> ```mermaid
-> graph TD
->   A[Complex Task]
->   B[Simplified Task]
->   C[Integrated Competence]
->   A -->|Simplify| B
->   B -->|Integrate| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Cognitive Scaffolding**
-> *Trace the reduction in support as competence increases.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> InitialSupport: Start with full support
->   InitialSupport --> ReducedSupport: Gradually reduce support
->   ReducedSupport --> Independent: Learner becomes independent
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Integration in Medical Education**
-> *See how complete tasks are used to teach diagnostic reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Symptoms]
->   B[TestResults]
->   C[DifferentialDiagnosis]
->   D[IntegratedScenario]
->   A -->|Contextualize| D
->   B -->|Contextualize| D
->   C -->|Contextualize| D
-> ```
 
 # Whole-Task Approach
 

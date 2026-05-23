@@ -21,7 +21,7 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - goal-setting-theory-locke-latham-foundational-report-2026-04-20
@@ -69,56 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Conditions for Translation Window**
-> *Identify the conditions necessary for goal alignment.*
->
-> ```mermaid
-> graph TD
->   A[Proxy Fidelity]
->   B[Honest Attainability]
->   C[Measurement Adequacy]
->   D[Failure Tolerance]
->   A -->|Ensures accurate reflection of performance|
->   B -->|Guarantees realistic and achievable goals|
->   C -->|Provides reliable and valid data|
->   D -->|Allows for minor setbacks without derailing goals|
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Translation Window**
-> *Understand how the conditions interact to support goal achievement.*
->
-> ```mermaid
-> flowchart LR
->   A[Proxy Fidelity] --> B[Honest Attainability]
->   B --> C[Measurement Adequacy]
->   C --> D[Failure Tolerance]
->   D --> E[Reinforcement Alignment]
->   E -->|Supports continued progress towards goal|
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Examples in Different Domains**
-> *See how the Translation Window applies across various contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Honest Attainability]
->   C[Project Management] --> D[Honest Attainability]
->   E[Personal Goal Setting] --> F[Honest Attainability]
->   B -->|Set realistic goals based on current abilities|
->   D -->|Based on available resources and time constraints|
->   F -->|Based on one's current capabilities and resources|
-> ```
 
 # Translation Window
 

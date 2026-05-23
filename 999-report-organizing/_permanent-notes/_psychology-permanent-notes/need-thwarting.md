@@ -17,7 +17,7 @@ subdomains:
   - well-being-research
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - need-thwarting-synthetic-seed-2026-04-24
@@ -64,46 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Need Thwarting Mechanisms**
-> *Identify the mechanisms that thwart autonomy, competence, and relatedness.*
->
-> ```mermaid
-> graph TD
->   A[Controlling Pressure] --> B(Autonomy)
->   C[Demeaning Feedback] --> D(Competence)
->   E[Conditional Treatment] --> F(Relatedness)
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of Need Thwarting**
-> *Follow the flow from need thwarting to negative outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Need Thwarting] --> B[Negative Outcomes]
->   B --> C(Defensive Disengagement)
->   B --> D(Ill-Being)
-> ```
-
-
-> [!abstract] **Diagram 3 — Educational Setting Examples**
-> *See how need thwarting manifests in educational settings.*
->
-> ```mermaid
-> graph TD
->   A[Overly Prescriptive Teaching] --> B(Autonomy)
->   C[Demeaning Feedback] --> D(Competence)
->   E[Micromanagement] --> F(Relatedness)
-> ```
 
 # Need Thwarting
 

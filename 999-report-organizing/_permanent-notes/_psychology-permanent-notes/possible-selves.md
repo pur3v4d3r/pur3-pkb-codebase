@@ -17,7 +17,7 @@ subdomains:
   - identity-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - possible-selves-synthetic-seed-2026-04-25
@@ -66,46 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Ideal vs Feared Selves**
-> *Compare the positive and negative motivational aspects of Possible Selves.*
->
-> ```mermaid
-> graph TD
->   A["Ideal Self"] -->|Inspire Actions|
->   B["Feared Self"] -->|Avoid Negative Outcomes|
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Possible Selves**
-> *Follow the steps from forming images to integrating strategies into daily actions.*
->
-> ```mermaid
-> flowchart LR
->   A["Form Images"] --> B["Develop Strategies"]
->   B --> C[Integrate Actions]
-> ```
-
-
-> [!abstract] **Diagram 3 — Motivational Feedback Loop**
-> *Trace the continuous cycle of goal-directed behavior reinforcement.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> IdealSelf : Form Image
->   IdealSelf --> Strategies : Develop
->   Strategies --> Actions : Integrate
->   Actions --> Evaluation : Assess Progress
->   Evaluation --> [*]
-> ```
 
 # Possible Selves
 

@@ -18,7 +18,7 @@ subdomains:
   - moral-psychology
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - virtues-synthetic-seed-2026-05-01
@@ -67,61 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Virtue Development Process**
-> *Follow the steps from initial challenge to habitual virtue.*
->
-> ```mermaid
-> graph TD
->   A[Initial Challenge]
->   B[Refinement Over Time]
->   C[Habitual Virtue]
->   A -->|Engage in Activities| B
->   B -->|Gradual Refinement| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Virtues and Social Contexts**
-> *See how social contexts influence virtuous behavior.*
->
-> ```mermaid
-> graph TD
->   A[Social Norms]
->   B[Peer Pressure]
->   C[Virtuous Behavior]
->   D[Perceived Observation]
->   A -->|Influence| B
->   B -->|Endorsement| C
->   C -->|Observation| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Virtues in Positive Psychology**
-> *Trace the relationship between virtues and psychological well-being.*
->
-> ```mermaid
-> graph TD
->   A[Positive Psychology]
->   B[Virtues]
->   C[Eudaimonia]
->   D[Happiness]
->   E[Wisdom]
->   F[Cultivation Programs]
->   G[Flourishing]
->   A -->|Key Component| B
->   B -->|Aristotle's Concept| C
->   C -->|Path to| D
->   B -->|Empirical Research| F
->   F -->|Enhance Well-being| G
-> ```
 
 # Virtues
 

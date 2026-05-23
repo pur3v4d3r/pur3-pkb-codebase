@@ -21,7 +21,7 @@ subdomains:
   - responsible-ai
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - helm-holistic-evaluation-synthetic-seed-2026-05-20
@@ -68,51 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — HELM Evaluation Scenarios**
-> *Follow the flow from scenario definition to metric application.*
->
-> ```mermaid
-> graph TD
->   A[Scenario Definition] --> B[Metric Selection]
->   B --> C[Evaluation Execution]
->   C --> D[Result Analysis]
-> ```
-
-
-> [!abstract] **Diagram 2 — HELM Metric Dimensions**
-> *Identify the multi-dimensional metrics HELM evaluates.*
->
-> ```mermaid
-> graph TD
->   A[Efficiency] -->|and|
->   B[Risk]
->   C[Robustness] -->|or|
->   D[Fairness]
->   E[Bias] -->|and|
->   F[Toxicity]
->   G[Privacy Risk]
-> ```
-
-
-> [!abstract] **Diagram 3 — HELM vs Single-score Benchmarking**
-> *Compare HELM's multi-dimensional approach with single-score methods.*
->
-> ```mermaid
-> sequenceDiagram
->   participant HELM as Multi-Dimensional
->   participant SingleScore as Single-Score
->   Multi-Dimensional->>Multi-Dimensional: Evaluate Efficiency, Robustness, Fairness, Bias, Toxicity, Privacy Risk
->   SingleScore-->>SingleScore: Provide a single score for model performance
-> ```
 
 # HELM Holistic Evaluation
 

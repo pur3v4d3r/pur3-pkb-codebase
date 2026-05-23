@@ -18,7 +18,7 @@ subdomains:
   - learning-theory
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - arcs-motivation-model-synthetic-seed-2026-04-26
@@ -68,63 +68,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — ARCS Model Components**
-> *Follow the flow from Attention to Satisfaction.*
->
-> ```mermaid
-> graph TD
->   A[Attention]
->   B[Relevance]
->   C[Confidence]
->   D[Satisfaction]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — ARCS Diagnostic Questions**
-> *Identify gaps and apply strategies for each component.*
->
-> ```mermaid
-> flowchart LR
->   A[Is content novel enough?]
->   B[Does it align with personal goals?]
->   C[Are instructions clear?]
->   D[Do learners feel accomplished?]
->   A -->|Attention| E[Use multimedia]
->   B -->|Relevance| F[Relate to real-world]
->   C -->|Confidence| G[Provide support]
->   D -->|Satisfaction| H[Offer feedback]
-> ```
-
-
-> [!abstract] **Diagram 3 — ARCS Theoretical Roots**
-> *See the synthesis of various motivation theories.*
->
-> ```mermaid
-> classDiagram
->   class MotivationalDesign {
->     +MotivationalDesign()
->   }
->   class SelfDeterminationTheory {}
->   class ExpectancyValueTheory {}
->   class ARCSModel {
->     +ARCSModel()
->   }
->   MotivationalDesign <|-- ARCSModel : Uses
->   ARCSModel ..> SelfDeterminationTheory : Incorporates
->   ARCSModel ..> ExpectancyValueTheory : Incorporates
-> ```
 
 # ARCS Motivation Model
 

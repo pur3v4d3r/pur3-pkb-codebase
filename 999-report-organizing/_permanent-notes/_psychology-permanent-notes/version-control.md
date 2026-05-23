@@ -19,7 +19,7 @@ subdomains:
   - computer-science
 
 created: 2026-04-24
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - version-control-synthetic-seed-2026-04-24
@@ -68,63 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Version Control Process Flow**
-> *Follow the flow from commit to merge.*
->
-> ```mermaid
-> flowchart LR
->   A[Developer makes changes]
->   B[Commit changes locally]
->   C[Pull latest code]
->   D[Merge changes]
->   E[Test merged code]
->   F[Push changes to remote]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Version Control Branching Model**
-> *Identify the main branches and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Main]
->   B[Feature1] -->|Merge| A
->   C[Feature2] -->|Merge| A
->   D[BugFix] -->|Merge| A
->   E[Hotfix] -->|Merge| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Centralized vs Distributed VCS**
-> *Compare the data storage models of centralized and distributed systems.*
->
-> ```mermaid
-> classDiagram
->   class Centralized {
->     +storeAllDataOnServer()
->   }
->   class Distributed {
->     +replicateDataAcrossMachines()
->   }
->   Centralized -->|Simpler setup| Client1
->   Centralized -->|Simpler setup| Client2
->   Distributed -->|Better fault tolerance| Machine1
->   Distributed -->|Better fault tolerance| Machine2
-> ```
 
 # Version Control
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,76 +155,6 @@ Addressing train-test leakage requires a multi-faceted approach that includes no
 > [!connection] **[[Dynamic Benchmarking]]** — *contrasts-with*
 > While dynamic benchmarking aims to adapt benchmarks over time to better reflect real-world scenarios, train-test leakage in LLMs highlights the risks of such adaptations. If not carefully managed, dynamic benchmarking can inadvertently introduce new biases and structural leaks into model development.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Train-test leakage pathways**
-> *Follow the arrows to see how benchmarks influence model development.*
->
-> ```mermaid
-> graph TD
->   A[Development]
->   B[Evaluation]
->   C[Benchmark Datasets]
->   A -->|Influence of|
->   B -->|Feedback on|
->   A -->|Hyperparameter Tuning|
->   A -->|Architectural Decisions|
->   B -->|Performance Metrics|
->   C -->|Indirect Influence|
->   C -->|Public Availability|
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of structural leakage**
-> *Trace the flow from benchmarks to model performance discrepancies.*
->
-> ```mermaid
-> flowchart LR
->   A[Development]
->   B[Evaluation]
->   C[Benchmark Datasets]
->   D[Performance Metrics]
->   E[Real-world Tasks]
->   F[Inflated Performance]
->   G[Underperformance]
->   H[Generalization Gap]
->   A -->|Uses|
->   C
->   C -->|Shapes|
->   B
->   B -->|Feedback on|
->   D
->   D -->|Influences|
->   A
->   A -->|Results in|
->   F
->   E -->|Shows|
->   G
->   H -->|Caused by|
->   F
-> ```
-
-
-> [!abstract] **Diagram 3 — Direct vs structural leakage**
-> *Compare the two types of train-test contamination.*
->
-> ```mermaid
-> classDiagram
->   class Direct_Contamination {
->     +Inclusion in Training Data
->     +Explicit Feedback Loop
->     -Detection: Easier
->     }
->   class Structural_Leakage {
->     +Indirect Influence on Development
->     +Public Benchmarks and Metrics
->     -Detection: Harder
->     }
->   Direct_Contamination -->|Direct Pathway|
->   Structural_Leakage -->|Indirect Pathways|
-> ```
 
 # Train-Test Leakage in LLMs
 

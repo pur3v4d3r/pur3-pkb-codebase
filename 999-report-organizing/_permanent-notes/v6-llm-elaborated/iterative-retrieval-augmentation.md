@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,56 +151,6 @@ Iterative retrieval augmentation represents a significant advancement in the fie
 > [!connection] **[[Multi-Hop Reasoning]]** — *applies-to*
 > Iterative retrieval augmentation directly applies to the concept of multi-hop reasoning by enabling models to retrieve and integrate information from multiple sources in successive steps. This iterative process is essential for addressing questions that require chaining together facts distributed across different documents, thereby making it a critical component in enhancing the capability of RAG systems to perform multi-hop reasoning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Iterative Retrieval Process Flow**
-> *Follow the flow from query to final answer generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Query] --> B[Retrieve Documents]
->   B --> C[Integrate Information]
->   C --> D[Evaluate Answer Completeness]
->   D -->|Incomplete| E[Formulate New Query]
->   E --> F[Repeat Retrieval]
->   F --> G[Integrate More Info]
->   G --> H[Evaluate Again]
->   H -->|Complete| I[Generate Final Answer]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Single vs Iterative Retrieval**
-> *Compare the single retrieval process with iterative retrieval.*
->
-> ```mermaid
-> graph TD
->   A[Single Query] --> B[Retrieve One Document]
->   C[Iterative Queries] --> D[First Retrieve]
->   D --> E[Integrate Info]
->   E --> F[Evaluate Completeness]
->   F -->|Incomplete| G[Next Retrieve]
->   G --> H[Integrate More]
->   H --> I[Evaluate Again]
-> ```
-
-
-> [!abstract] **Diagram 3 — Iterative Retrieval State Machine**
-> *Track the state transitions during iterative retrieval.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> InitialQuery: Start
->   InitialQuery --> RetrieveDocuments: Query Formulation
->   RetrieveDocuments --> IntegrateInfo: Information Integration
->   IntegrateInfo --> EvaluateCompleteness: Answer Evaluation
->   EvaluateCompleteness -->|Incomplete| FormulateNewQuery: New Query Formation
->   FormulateNewQuery --> RepeatRetrieval: Next Retrieval Round
->   RepeatRetrieval --> IntegrateMoreInfo: Further Info Integration
->   IntegrateMoreInfo --> EvaluateAgain: Re-evaluation
->   EvaluateAgain -->|Complete| GenerateFinalAnswer: Final Answer Generation
-> ```
 
 # Iterative Retrieval Augmentation
 

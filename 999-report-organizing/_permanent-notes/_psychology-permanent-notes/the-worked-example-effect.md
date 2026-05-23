@@ -21,7 +21,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-foundational-report-2026-04-18
@@ -69,48 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Worked Example Process Flow**
-> *Follow the flow from novice to schema construction.*
->
-> ```mermaid
-> flowchart LR
->   A[Novice] --> B[Heavy Cognitive Load]
->   B --> C[Means-Ends Analysis]
->   C --> D[Cognitive Overload]
->   E[Worked Example] --> F[Solution Path]
->   F --> G[Schema Construction]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Comparison**
-> *Compare the cognitive load between means-ends and worked examples.*
->
-> ```mermaid
-> graph TD
->   A[Means-Ends Analysis] -->|Heavy| B[Cognitive Overload]
->   C[Worked Example] -->|Light| D[Solution Path]
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Applications**
-> *Identify the applications of worked examples in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Education] --> B[Mathematics]
->   C[Clinical Settings] --> D[Decision Support Systems]
->   E[Programming Courses] --> F[Solving Problems Step-by-Step]
->   G[MOOCs] --> H[Interspersed Worked Examples]
-> ```
 
 # Worked Example Effect
 

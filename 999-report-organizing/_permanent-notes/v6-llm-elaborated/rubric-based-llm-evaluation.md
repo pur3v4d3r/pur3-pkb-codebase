@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -152,42 +148,6 @@ By integrating reflective thinking and structured criteria, rubric-based evaluat
 > [!connection] **[[Likert Scale Prompt Evaluation]]** — *applies-to*
 > Rubric-based evaluation and Likert scale prompt evaluation both leverage structured frameworks to assess model outputs. However, while rubrics break down quality into specific dimensions, Likert scales focus on the degree of agreement with statements about performance. This complementary relationship allows for a more comprehensive assessment approach.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Rubric Evaluation Process Flow**
-> *Follow the steps from input to detailed assessment.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Define Criteria]
->   B --> C[Evaluate Outputs]
->   C --> D[Provide Feedback]
-> ```
-
-
-> [!abstract] **Diagram 2 — Rubric vs Holistic Evaluation Comparison**
-> *Compare the breakdown of rubric-based versus holistic evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Rubric-Based] --> B[Specific Dimensions]
->   C[Holistic] --> D[Overall Score]
->   B --> E[Nuanced Insights]
->   D --> F[Subjective Judgments]
-> ```
-
-
-> [!abstract] **Diagram 3 — Rubric Evaluation Criteria Hierarchy**
-> *Identify the hierarchical structure of rubric evaluation criteria.*
->
-> ```mermaid
-> graph TD
->   A[Factual Accuracy] --> B[Instruction Compliance]
->   C[Completeness] --> D[Clarity]
->   E[Safety]
-> ```
 
 # Rubric-Based LLM Evaluation
 

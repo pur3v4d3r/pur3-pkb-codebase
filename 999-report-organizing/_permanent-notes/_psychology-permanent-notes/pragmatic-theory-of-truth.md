@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pragmatic-theory-of-truth-synthetic-seed-2026-05-12
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Pragmatic Truth Process Flow**
-> *Follow the flow from inquiry to practical outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Inquiry] --> B[Test]
->   B --> C[Evaluate]
->   C --> D[Refine]
->   D --> E[Consistent Utility]
->   E --> F[Truth]
-> ```
-
-
-> [!abstract] **Diagram 2 — James vs Peirce Formulations**
-> *Compare James's immediate success with Peirce's ideal limit.*
->
-> ```mermaid
-> graph TD
->   A[James]
->   B[Peirce]
->   A -->|Immediate Success| C['What Works']
->   B -->|Ideal Limit| D['Converge Through Inquiry']
-> ```
-
-
-> [!abstract] **Diagram 3 — Pragmatic Truth Applications**
-> *See how pragmatic truth applies in scientific and policy contexts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant SciResearch as SR
->   participant PolicyMaking as PM
->   SR->>SR: Refine Hypotheses Based on Outcomes
->   PM->>PM: Evaluate Policies by Practical Impact
-> ```
 
 # Pragmatic Theory Of Truth
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,42 +164,6 @@ The hypothesis is supported by empirical evidence showing that linear attention 
 > [!connection] **[[Meta-Learning]]** — *contrasts-with*
 > While both involve learning to learn, meta-learning typically requires explicit parameter updates across multiple tasks. In contrast, in-context learning as meta-learning operates within a single forward pass without altering model weights, making it a gradient-free approach that simulates task adaptation through virtual update steps.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — In-context Learning Process Flow**
-> *Follow the flow from demonstrations to task vector construction and output improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Demonstrations] --> B(Task Vector Construction)
->   B --> C(Performance Improvement)
->   C --> D(Output)
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Vector Mechanism Overview**
-> *Trace the path of task vectors from residual stream activations to virtual update steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Residual Stream Activations] --> B(Task Vectors)
->   B --> C(Virtual Update Steps)
->   C --> D(Performance Improvement)
-> ```
-
-
-> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
-> *Compare intrinsic and extraneous cognitive loads in instructional design for LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load] --> B(Task Complexity)
->   C[Extraneous Load] --> D(Poor Design/Presentation)
->   E[Optimization Goal] -->|Improve Performance| B
->   E -->|Reduce Unnecessary Effort| D
-> ```
 
 # In-Context Learning as Meta-Learning
 

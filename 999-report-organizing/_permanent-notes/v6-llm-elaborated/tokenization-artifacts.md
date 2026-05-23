@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,75 +155,6 @@ Tokenization artifacts demonstrate that many apparent 'reasoning failures' in la
 > [!connection] **[[Subword Tokenization]]** — *applies-to*
 > Tokenization artifacts are particularly relevant to subword tokenization because this method breaks down words into smaller units, which can lead to unexpected segmentation. For instance, the word 'tokenization' might be split into 'tok', 'en', and 'ation'. This approach, while beneficial for handling out-of-vocabulary words in languages with rich morphology, introduces complexities that can result in artifacts if not carefully managed.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tokenization Artifacts Overview**
-> *Identify the sources and impacts of tokenization artifacts.*
->
-> ```mermaid
-> graph TD
->   A[Input Text]
->   B(Tokenization)
->   C[Tokenized Input]
->   D(Model Processing)
->   E[Output]
->   F[Tokenization Artifacts]
->   G[Reasoning Failures]
->   H[Model Performance Issues]
->   A -->|Text Representation| B
->   B -->|Granularity and Structure Changes| C
->   C -->|Input for Model| D
->   D --> E
->   C -->|Systematic Errors| F
->   E -->|Performance Impact| H
->   E -->|Correct Understanding| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Tokenization Methods Comparison**
-> *Compare different tokenization methods and their artifacts.*
->
-> ```mermaid
-> graph TD
->   A[Byte-Pair Encoding]
->   B[Whitespace-Based]
->   C[Character-Aware]
->   D[Systematic Errors]
->   E[Fine-Grained Analysis]
->   F[Model Efficiency]
->   G[Performance Impact]
->   A -->|Granular Tokens| D
->   B -->|Word Boundaries| D
->   C -->|Detailed Representation| E
->   A -->|Efficient Training| F
->   B -->|Simple Processing| F
->   C -->|Complex Computation| F
->   D --> G
->   E --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Tokenization Artifact Mitigation Strategies**
-> *Explore strategies to mitigate tokenization artifacts.*
->
-> ```mermaid
-> graph TD
->   A[Hybrid Tokenization]
->   B[Character-Aware Models]
->   C[Empirical Studies]
->   D[Mitigate Artifacts]
->   E[Better Performance]
->   F[Efficiency Trade-offs]
->   G[Research Insights]
->   A -->|Balanced Representation| D
->   B -->|Detailed Input| D
->   C -->|Comparative Analysis| G
->   D --> E
->   A -->|Complexity Increase| F
->   B -->|Resource Intensive| F
-> ```
 
 # Tokenization Artifacts
 

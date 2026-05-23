@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,45 +164,6 @@ Causal tracing studies have consistently identified middle-layer MLP modules as 
 > [!connection] **[[Path Patching Methodology]]** — *contrasts-with*
 > While both causal tracing and path patching involve manipulating activations to understand model behavior, they differ in their approach. Path patching focuses on altering the flow of information through specific paths within the network, whereas causal tracing targets restoring specific activations from a clean run. This contrast highlights different strategies for probing causality within transformer models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Causal Tracing Process Flow**
-> *Follow the steps from clean prompt to activation patching.*
->
-> ```mermaid
-> flowchart LR
->   A[Clean Prompt] --> B[Record Activations]
->   B --> C[Corrupted Forward Pass]
->   C --> D[Patch Clean Activations]
->   D --> E[Test Behavior Recovery]
-> ```
-
-
-> [!abstract] **Diagram 2 — Activation Patching Granularity**
-> *Identify the different levels at which activation patching can be applied.*
->
-> ```mermaid
-> graph TD
->   A[Token Level] --> B[Layer Level]
->   C[Component Level] --> D[System Level]
-> ```
-
-
-> [!abstract] **Diagram 3 — Causal Tracing vs Other Methods**
-> *Compare causal tracing with attention knockout and path patching.*
->
-> ```mermaid
-> sequenceDiagram
->   participant CT as Causal Tracing
->   participant AK as Attention Knockout
->   participant PP as Path Patching
->   CT->>AK: Replaces activations
->   CT->>PP: Isolates component effects
->   AK-->>CT: Alters attention heads
->   PP-->>CT: Manipulates information flow
-> ```
 
 # Causal Tracing in Transformers
 

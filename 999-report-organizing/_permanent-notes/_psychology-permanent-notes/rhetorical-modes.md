@@ -20,7 +20,7 @@ subdomains:
   - persuasion
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - rhetorical-modes-synthetic-seed-2026-04-25
@@ -77,49 +77,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Aristotelian Appeals Overview**
-> *Identify the three core elements of persuasive communication.*
->
-> ```mermaid
-> graph TD
->   A["Ethos (Credibility)"] --> B["Pathos (Emotion)"]
->   A --> C["Logos (Logic)"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Composition-Studies Modes Hierarchy**
-> *Understand the purpose and structure of each mode.*
->
-> ```mermaid
-> graph TD
->   N["Narration"] -->|Tells a story| D["Description"]
->   E["Exposition"] -->|Explains concepts| A["Argumentation"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Interaction Between Modes**
-> *See how different modes work together in a persuasive message.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Narrator as N
->   participant Describer as D
->   participant Expositor as E
->   participant Arguer as A
->   N->>D: Sets context
->   D->>E: Provides details
->   E->>A: Builds argument
->   A-->>Narrator: Concludes with a call to action
-> ```
 
 # Rhetorical Modes
 

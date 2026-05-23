@@ -17,7 +17,7 @@ subdomains:
   - personality-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - locus-of-control-synthetic-seed-2026-04-24
@@ -64,39 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Locus of Control Attribution Patterns**
-> *Follow the arrows to see how internal and external attributions influence behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Success] -->|Internal| B1[Effort]
->   A -->|External| C1[Luck]
->   F[A Failure] -->|Internal| G1[Insufficient Effort]
->   F -->|External| H1[Fate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Locus of Control Impact on Self-Regulation**
-> *Trace the paths to understand how locus of control affects self-regulatory behaviors.*
->
-> ```mermaid
-> flowchart LR
->   A[Internal Locus] --> B1[Proactive Coping]
->   B1 --> C1[Goal Setting]
->   C1 --> D1[Persistence]
->   E[External Locus] --> F1[Passive Coping]
->   F1 --> G1[Luck Attribution]
->   G1 --> H1[Helplessness]
-> ```
 
 # Locus of Control
 

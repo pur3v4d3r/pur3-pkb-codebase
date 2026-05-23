@@ -18,7 +18,7 @@ subdomains:
   - contrastive-learning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - contrastive-chain-of-thought-synthetic-seed-2026-05-20
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Contrastive Chain of Thought Process Flow**
-> *Follow the flow from input to output, noting correct and incorrect chains.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Correct Chain]
->   A --> C[Incorrect Chain]
->   B --> D[Output]
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Contrastive vs Standard Few-shot CoT**
-> *Compare the inclusion of negative examples in Contrastive and standard few-shot CoT.*
->
-> ```mermaid
-> graph TD
->   A[Standard Few-shot CoT]
->   B[Contrastive Chain of Thought]
->   A -->|Positive Examples Only|
->   B -->|Correct & Incorrect Chains|
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in CCT**
-> *Identify the reflective thinking process facilitated by Contrastive Chain of Thought.*
->
-> ```mermaid
-> graph TD
->   A[Reactive]
->   B[Reflective]
->   A -->|Immediate Response|
->   B -->|Review & Analysis|
->   C[Contrastive Chain of Thought] -->|Facilitates Reflective Thinking|
-> ```
 
 # Contrastive Chain of Thought
 

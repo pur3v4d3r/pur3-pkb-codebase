@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,44 +163,6 @@ By integrating human preference data with statistical modeling techniques, Arena
 > [!connection] **[[Human Preference Evaluation]]** — *applies-to*
 > Arena Elo ranking directly applies the principles of human preference evaluation by using pairwise comparisons to assess model performance. This method captures user preferences in a way that is both scalable and reflective of real-world interactions, making it an essential tool for evaluating large language models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Arena Elo Ranking Process Flow**
-> *Follow the flow from user interaction to model ranking update.*
->
-> ```mermaid
-> flowchart LR
->   A[User Interaction] --> B[Voting]
->   B --> C[Elo Update Formula]
->   C --> D[Ratings Adjustment]
->   D --> E[Ranking Refinement]
-> ```
-
-
-> [!abstract] **Diagram 2 — Elo Rating System Overview**
-> *Trace the relationship between model performance and Elo score updates.*
->
-> ```mermaid
-> graph TD
->   A[Initial Model Ratings] --> B[User Votes]
->   B --> C[Elo Score Update]
->   C --> D[Ratings Adjustment]
->   D --> E[Updated Model Rankings]
-> ```
-
-
-> [!abstract] **Diagram 3 — Crowdsourced vs Automated Benchmarks**
-> *Compare the two evaluation methods based on their data sources.*
->
-> ```mermaid
-> graph TD
->   A[Crowdsourced Evaluation] --> B[Human Interactions]
->   C[Automated Benchmarking] --> D[Pre-designed Test Cases]
->   E[Real User Preferences] -.-> F[Eco-valid Measure]
->   G[Fixed Scenarios] -.-> H[Limited Validity]
-> ```
 
 # Arena Elo Ranking
 

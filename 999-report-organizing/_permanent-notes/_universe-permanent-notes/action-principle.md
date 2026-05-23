@@ -19,7 +19,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - action-principle-synthetic-seed-2026-05-14
@@ -68,46 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Action Principle Overview**
-> *Follow the flow from action to equations of motion.*
->
-> ```mermaid
-> flowchart LR
->   A[Physical System] --> B(Action Functional)
->   B --> C(Euler-Lagrange Equations)
->   C --> D(Stationary Path)
-> ```
-
-
-> [!abstract] **Diagram 2 — Symmetry and Conservation Laws**
-> *Identify how symmetries lead to conservation laws via Noether's theorem.*
->
-> ```mermaid
-> flowchart LR
->   A[Time Translation] --> B(Action Invariance)
->   B --> C(Noether's Theorem)
->   C --> D(Energy Conservation)
-> ```
-
-
-> [!abstract] **Diagram 3 — Action Principle in Quantum Physics**
-> *Trace the path from classical to quantum mechanics via Feynman's path integral.*
->
-> ```mermaid
-> flowchart LR
->   A[Classical Mechanics] --> B(Action Functional)
->   B --> C(Feynman Path Integral)
->   C --> D(Quantum Mechanics)
-> ```
 
 # Action Principle
 

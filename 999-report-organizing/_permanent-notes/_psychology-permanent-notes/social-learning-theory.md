@@ -17,7 +17,7 @@ subdomains:
   - behavior-change
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - social-learning-theory-synthetic-seed-2026-05-01
@@ -65,37 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Social Learning Process Flowchart**
-> *Follow the sequence from attention to motivation.*
->
-> ```mermaid
-> flowchart LR
->   A[Attention] --> B[R retention]
->   B --> C[M motor reproduction]
->   C --> D[V vicarious reinforcement]
->   D --> E[M motivation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Social Learning Theory Components**
-> *Identify the four key sub-processes and their roles.*
->
-> ```mermaid
-> graph TD
->   A[Attention] -->|Noting what to learn| B[R retention]
->   B -->|Storing information for future use| C[M motor reproduction]
->   C -->|Performing observed behavior| D[V vicarious reinforcement]
->   D -->|Adjusting behavior based on outcomes| E[M motivation]
-> ```
 
 # Social Learning Theory
 

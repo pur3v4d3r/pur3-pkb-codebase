@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,44 +164,6 @@ Empirical evidence highlights the critical role of example selection sensitivity
 > [!connection] **[[In-Context Learning]]** — *applies-to*
 > Multimodal few-shot prompting is a specific application of in-context learning tailored for vision-language models. It leverages the ability to learn from contextually relevant examples without extensive training, making it particularly suited for tasks that require understanding both visual and textual information simultaneously.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Multimodal Few-Shot Prompting Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Image] --> B[Select Example Pairs]
->   B --> C[Embed Examples in Prompt]
->   C --> D[Model Generates Response]
->   D --> E[Output Text]
-> ```
-
-
-> [!abstract] **Diagram 2 — Multimodal vs Text-Only Few-Shot Prompting Comparison**
-> *Compare the inputs and outputs of both approaches.*
->
-> ```mermaid
-> graph TD
->   A[Text-Only Input] --> B[Text-Based Examples]
->   C[Multimodal Input] --> D[Image-Text Pairs]
->   E[Text Output] --> F[Infer Task Format]
->   G[Text Output] --> H[Contextual Learning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Example Selection Process for Multimodal Prompting**
-> *Trace the steps from query to example selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Query Image] --> B[Determine Task Type]
->   B --> C[Identify Relevant Examples]
->   C --> D[Align Visual and Textual Inputs]
->   D --> E[Embed in Prompt]
-> ```
 
 # Multimodal Few-Shot Prompting
 

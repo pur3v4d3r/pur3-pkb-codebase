@@ -18,7 +18,7 @@ subdomains:
   - semantics
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - propositional-knowledge-synthetic-seed-2026-05-12
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Propositional Knowledge Hierarchy**
-> *Follow the hierarchy from general to specific knowledge types.*
->
-> ```mermaid
-> graph TD
->   A[Epistemology] --> B[Knowledge]
->   B --> C[Propositional Knowledge]
->   B --> D[Non-Propositional Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 2 — Explicit vs Implicit Memory**
-> *Compare the characteristics of explicit and implicit memory.*
->
-> ```mermaid
-> classDiagram
->   class ExplicitMemory {
->     +ConsciousRecall()
->     +FactualInformation()
->   }
->   class ImplicitMemory {
->     +UnconsciousInfluence()
->     +AutomaticProcesses()
->   }
-> ```
-
-
-> [!abstract] **Diagram 3 — Propositional Knowledge Process Flow**
-> *Trace the flow from acquiring to applying propositional knowledge.*
->
-> ```mermaid
-> flowchart LR
->   A[Acquisition] --> B[Storage]
->   B --> C[Retrieval]
->   C --> D[Application]
-> ```
 
 # Propositional Knowledge
 

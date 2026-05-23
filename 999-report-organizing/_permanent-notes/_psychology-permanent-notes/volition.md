@@ -19,7 +19,7 @@ subdomains:
   - philosophy-of-action
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - volition-synthetic-seed-2026-05-01
@@ -67,56 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Volition Process Flow**
-> *Follow the flow from intention to execution, noting key mechanisms.*
->
-> ```mermaid
-> flowchart LR
->   A[Decision] --> B[Intention]
->   B --> C[Attentional Control]
->   C --> D[Motivational Regulation]
->   D --> E[Environmental Adaptation]
->   E --> F[Parsimonious Processing]
->   F --> G[Execution]
-> ```
-
-
-> [!abstract] **Diagram 2 — Volition Mechanisms Hierarchy**
-> *Identify the hierarchical relationship between volitional mechanisms.*
->
-> ```mermaid
-> graph TD
->   A[Attentional Control]
->   B[Motivational Regulation]
->   C(Environmental Adaptation)
->   D[Parsimonious Processing]
->   A -->|Supports| B
->   B -->|Enhances| C
->   C -->|Facilitates| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Volition State Machine**
-> *Track the state transitions in volitional control processes.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Intention
->   Intention --> AttentionalControl : Focus
->   AttentionalControl --> MotivationalRegulation : Commitment
->   MotivationalRegulation --> EnvironmentalAdaptation : Support
->   EnvironmentalAdaptation --> ParsimoniousProcessing : Simplify
->   ParsimoniousProcessing --> Execution : Execute
-> ```
 
 # Volition
 

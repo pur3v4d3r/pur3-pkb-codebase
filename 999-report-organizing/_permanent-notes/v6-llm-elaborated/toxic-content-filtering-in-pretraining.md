@@ -69,15 +69,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -184,54 +180,6 @@ Empirical studies have shown that while toxic content filtering during pretraini
 > [!connection] **[[Content Moderation]]** — *contrasts-with*
 > Toxic Content Filtering in Pretraining contrasts with content moderation by focusing on the prevention of harmful content through dataset cleaning before model training, rather than post-training intervention. This shift from reactive to proactive measures aims to embed safety directly into the model's architecture.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Toxic Content Filtering Methods Overview**
-> *Identify the different filtering methods used.*
->
-> ```mermaid
-> graph TD
->   A[Classifier-based]
->   B[Word-list]
->   C[Heuristic Quality]
->   A -->|Scores documents based on toxicity|
->   B -->|Removes specific offensive terms|
->   C -->|Targets low-quality or toxic domains
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of Filtering Stringency Levels**
-> *Understand the trade-offs between model capability and safety.*
->
-> ```mermaid
-> flowchart LR
->   A[Aggressive]
->   B[Insufficient]
->   C[Moderate]
->   A -->|Reduces harmful outputs but may remove beneficial content|
->   B -->|Allows toxic patterns to persist|
->   C -->|Balances between safety and capability
-> ```
-
-
-> [!abstract] **Diagram 3 — Classifier-based Filtering Process Flow**
-> *Follow the steps of classifier-based filtering.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Classifier as C
->   participant Dataset as D
->   U->>C: Request toxicity score for document
->   C-->>U: Return toxicity level
->   alt Level > Threshold
->     U->>D: Remove document from corpus
->   else Level <= Threshold
->     U->>D: Keep document in corpus
->   end
-> ```
 
 # Toxic Content Filtering in Pretraining
 

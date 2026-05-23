@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,70 +157,6 @@ Empirical studies using NIAH Evaluation have revealed that even models with high
 > [!connection] **[[LLM Evaluation]]** — *specializes*
 > NIAH Evaluation specializes under LLM Evaluation by focusing on a specific aspect of model performance: the ability to retrieve facts from extensive contexts. This specialization is crucial because it allows researchers and practitioners to drill down into the nuances of long-context recall, which is often overlooked in broader evaluations that may not emphasize this particular skill.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — NIAH Evaluation Process Flow**
-> *Follow the steps from embedding facts to generating recall heatmaps.*
->
-> ```mermaid
-> flowchart LR
->   A[Embed Facts]
->   B[Query for Information]
->   C[Evaluate Recall Accuracy]
->   D[Generate Heatmap]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Recall Performance Across Context Lengths**
-> *Observe how recall accuracy varies with context length and fact position.*
->
-> ```mermaid
-> graph TD
->   A[Short Context]
->   B[Moderate Context]
->   C[Long Context]
->   D[Very Long Context]
->   A -->|High Recall| E[Beginning]
->   A -->|Medium Recall| F[Midpoint]
->   A -->|Low Recall| G[End]
->   B -->|Moderate Recall| H[Beginning]
->   B -->|Low Recall| I[Midpoint]
->   B -->|Very Low Recall| J[End]
->   C -->|Low Recall| K[Beginning]
->   C -->|Very Low Recall| L[Midpoint]
->   C -->|Extremely Low Recall| M[End]
->   D -->|Very Low Recall| N[Beginning]
->   D -->|Extremely Low Recall| O[Midpoint]
->   D -->|Near Zero Recall| P[End]
-> ```
-
-
-> [!abstract] **Diagram 3 — NIAH vs Multi-Hop Reasoning**
-> *Compare NIAH evaluation with multi-hop reasoning tasks.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Model as M
->   participant User as U
->   participant Task1 as T1
->   participant Task2 as T2
->   U->>M: Query for Verbatim Fact (NIAH)
->   M-->>U: Retrieve Exact Information
->   alt Multi-Hop Reasoning
->     U->>T1: Provide Context and Question
->     T1->>M: Extract Relevant Facts
->     M->>T2: Synthesize Answer from Facts
->     T2-->>U: Return Integrated Response
->   else Verbatim Recall Only
->     U->>M: Query for Specific Fact
->     M-->>U: Retrieve Exact Information
->   end
-> ```
 
 # Needle in a Haystack Evaluation
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,70 +169,6 @@ Key evidence highlights Repetition Penalty's effectiveness in reducing repetitiv
 > [!connection] **[[Frequency Penalty]]** — *contrasts-with*
 > Repetition Penalty contrasts with Frequency Penalty in that the former targets immediate token repetitions within a single output sequence, whereas the latter aims to reduce the overall frequency of certain tokens across multiple outputs. This distinction is important because while Repetition Penalty focuses on maintaining diversity within individual sequences, Frequency Penalty addresses broader patterns of repetition over time.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Repetition Penalty Mechanism**
-> *Follow the flow of logit adjustment based on token frequency.*
->
-> ```mermaid
-> graph TD
->   A[Token Logits]
->   B[Check Token Frequency]
->   C{Has Token Appeared?}
->   D[Apply Repetition Penalty]
->   E[Adjusted Logits]
->   F[Select Next Token]
->   A --> B
->   B -->|Yes| C
->   C -->|Yes| D
->   C -->|No| F
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Repetition Penalty vs Frequency Penalty**
-> *Compare the scope and application of both penalties.*
->
-> ```mermaid
-> graph TD
->   A[Repetition Penalty]
->   B[Frequency Penalty]
->   C{Immediate Repetition}
->   D{Overall Token Frequency}
->   E[Single Output Sequence]
->   F[Multiple Outputs]
->   G[Narrative Flow]
->   H[Token Variety]
->   A -->|C Yes| E
->   A -->|D No|
->   B -->|C No|
->   B -->|D Yes| F
->   E --> G
->   F --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Repetition Penalty in Text Generation**
-> *Trace the impact of Repetition Penalty on generated text.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt]
->   B[Token Generation]
->   C{Apply Repetition Penalty}
->   D[Generated Text]
->   E[Coherent Output]
->   F[Monothonous Output]
->   A --> B
->   B -->|Yes| C
->   B -->|No| D
->   C --> D
->   D -->|Effective| E
->   D -->|Ineffective| F
-> ```
 
 # Repetition Penalty
 

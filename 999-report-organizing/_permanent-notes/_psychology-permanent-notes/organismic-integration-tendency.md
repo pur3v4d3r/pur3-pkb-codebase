@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -71,50 +71,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Organismic Integration Process Flow**
-> *Follow the steps from awareness to internalization.*
->
-> ```mermaid
-> graph TD
->   A[Encounter]
->   B[Evaluation]
->   C[Integration]
->   A --> B
->   B -->|Relevant| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Integration vs Introjection Comparison**
-> *Compare the depth of internalization in both processes.*
->
-> ```mermaid
-> graph TD
->   I[Integration]
->   In[Introjection]
->   I -->|Active Processing| Self-Structure
->   In -->|Passive Absorption| External Regulation
-> ```
-
-
-> [!abstract] **Diagram 3 — Integration vs Assimilation Comparison**
-> *Notice the transformative nature of integration.*
->
-> ```mermaid
-> graph TD
->   I[Integration]
->   A[Assimilation]
->   I -->|Transformative Process| Core Self-Structure
->   A -->|Minimal Change| Existing Cognitive Structures
-> ```
 
 # Organismic Integration Tendency
 

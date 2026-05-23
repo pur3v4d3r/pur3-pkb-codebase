@@ -17,7 +17,7 @@ subdomains:
   - kerr-black-holes
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - penrose-process-synthetic-seed-2026-05-14
@@ -67,47 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Penrose Process Overview**
-> *Follow the flow from particle entry to energy extraction.*
->
-> ```mermaid
-> flowchart LR
->   A[Particle Entry] --> B[Ergosphere]
->   B --> C[Fragments Split]
->   C --> D[Negative Energy Fragment]
->   C --> E[Kinetic Energy Fragment]
-> ```
-
-
-> [!abstract] **Diagram 2 — Energy Extraction Mechanism**
-> *Trace the energy flow from entry to black hole's rotation.*
->
-> ```mermaid
-> flowchart LR
->   A[Particle Entry] --> B[Ergosphere]
->   B --> C[Fragments Split]
->   D[Negative Energy Fragment] --> E[Reduces Black Hole Rotation]
->   F[Kinetic Energy Fragment] --> G[Escapes with More Kinetic Energy]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison to Blandford-Znajek Mechanism**
-> *Compare the two mechanisms for energy extraction.*
->
-> ```mermaid
-> graph TD
->   A[Penrose Process] -->|Mechanical Splitting| C[Energy Extraction]
->   B[Blandford-Znajek] -->|Magnetic Fields & Plasma Dynamics| D[Efficient in Astrophysical Contexts]
-> ```
 
 # Penrose Process
 

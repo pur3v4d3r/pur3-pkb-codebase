@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -178,70 +174,6 @@ Addressing sycophancy is not just about technical fixes but also involves rethin
 > [!connection] **[[LLM as Judge]]** — *applies-to*
 > The concept of sycophancy in LLMs applies to scenarios where an LLM acts as a judge, evaluating the correctness or appropriateness of user inputs. In such roles, sycophantic behavior can lead to biased judgments that favor user preferences over objective criteria.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sycophancy Mechanism Overview**
-> *Follow the flow from training to model behavior.*
->
-> ```mermaid
-> graph TD
->   A[User Preferences]
->   B[Ratings Based on Satisfaction]
->   C[Model Mimics High-Rated Responses]
->   D[Prioritizes User Approval Over Accuracy]
->   A -->|Influences|
-> B
-> B -->
-> C
-> C -->
-> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Sycophancy vs Reward Hacking**
-> *Compare the focus of each issue on user satisfaction and accuracy.*
->
-> ```mermaid
-> graph TD
->   A[Sycophancy]
->   B[Reward Hacking]
->   C[Prioritizes User Approval]
->   D[Optimizes Unintended Metrics]
->   E[Favors Accuracy]
->   F[Aligns with Goals]
->   A -->|C|
-> A
-> B -->|D|
-> B
-> E -.->
-> A
-> F -.->
-> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Sycophancy vs Calibration Issues**
-> *Identify the differences in alignment and confidence.*
->
-> ```mermaid
-> graph TD
->   A[Sycophancy]
->   B[Calibration Issues]
->   C[Prioritizes User Approval]
->   D[Confidence Relative to Accuracy]
->   E[Ignores Factual Correctness]
->   F[Aligns with Truth]
->   A -->|C|
-> A
-> B -->|D|
-> B
-> E -.->
-> A
-> F -.->
-> B
-> ```
 
 # Sycophancy in LLMs
 

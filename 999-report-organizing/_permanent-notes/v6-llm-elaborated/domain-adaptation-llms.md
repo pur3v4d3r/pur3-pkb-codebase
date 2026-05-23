@@ -20,7 +20,7 @@ subdomains:
   - nlp
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - domain-adaptation-llms-synthetic-seed-2026-05-20
@@ -67,50 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Domain Adaptation Process Flow**
-> *Follow the steps from general pretraining to domain-specific fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[General Pretraining] --> B[Initial Model]
->   B --> C[Domain-Specific Data Collection]
->   C --> D[Domain-Adaptive Fine-Tuning]
->   D --> E[Enhanced Domain Expertise]
-> ```
-
-
-> [!abstract] **Diagram 2 — Regularization Techniques in Domain Adaptation**
-> *Identify the key regularization methods used to prevent catastrophic forgetting.*
->
-> ```mermaid
-> graph TD
->   A[Dynamic Loss Weighting] --> B[Catastrophic Forgetting Prevention]
->   C[Adaptive Learning Rates] --> B
->   D[Rigorous Testing with Domain-Specific Benchmarks] --> E[Enhanced Transfer Learning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Domain Adaptation vs Generic Fine-Tuning**
-> *Compare the focus and outcomes of domain adaptation versus generic fine-tuning.*
->
-> ```mermaid
-> sequenceDiagram
->   participant DomainAdaptation as DA
->   participant GenericFineTuning as GF
->   DA->>DA: Integrates deep domain knowledge
->   GF->>GF: Focuses on output formats
->   DA-->>DA: Robust internal representation changes
->   GF-->>GF: Shallower improvements
-> ```
 
 # Domain Adaptation LLMs
 

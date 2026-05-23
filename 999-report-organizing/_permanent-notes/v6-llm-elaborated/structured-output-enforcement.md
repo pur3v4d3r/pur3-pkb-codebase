@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -181,51 +177,6 @@ Recent empirical studies have shown that while hard enforcement methods signific
 > [!connection] **[[Grammar-Constrained Decoding]]** — *specializes*
 > Structured output enforcement and grammar-constrained decoding share a common goal of ensuring structural validity in generated text. However, while structured output enforcement can encompass various schema types (e.g., JSON, XML), grammar-constrained decoding specifically targets linguistic structures through syntactic rules. This specialization allows for more precise control over the grammatical correctness of outputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Soft vs Hard Enforcement Methods**
-> *Compare soft (prompt-based) and hard (constrained-decoding) enforcement methods.*
->
-> ```mermaid
-> graph TD
->   A[Soft Enforcement]
->   B[Hard Enforcement]
->   A -->|Prompt Instructions| C[Guided Outputs]
->   B -->|Constrained Decoding| D[Strictly Valid Outputs]
-> ```
-
-
-> [!abstract] **Diagram 2 — Output Validation Pipeline**
-> *Follow the flow from input prompt to validated output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt]
->   B[Model Generation]
->   C[Structural Validation]
->   D[Semantic Coherence Check]
->   E[Valid Output]
->   F[Invalid Output]
->   A -->|Guided by Instructions| B
->   B -->|Constrained Decoding| C
->   C -->|Passes Structural Check| D
->   D -->|Meets Semantic Standards| E
->   D -->|Fails Semantic Standards| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Key Figures Contributions**
-> *Identify key contributors and their contributions.*
->
-> ```mermaid
-> graph TD
->   A[John Doe]
->   B[Jane Smith]
->   A -->|Constrained Decoding Techniques| C[Structured Output Enforcement]
->   B -->|Balancing Structural Validity| D[Semantic Coherence]
-> ```
 
 # Structured Output Enforcement
 

@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - document-understanding-prompts-synthetic-seed-2026-05-20
@@ -67,65 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Document Understanding Workflow**
-> *Follow the flow from input to structured output.*
->
-> ```mermaid
-> graph TD
->   A[Input Document]
->   B[Vision-Language Model]
->   C[Extract Structured Data]
->   D[Output JSON Array]
->   A -->|Scan and Render| B
->   B -->|Process and Reason| C
->   C -->|Generate Output| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt vs Generic Captioning**
-> *Compare the focus of Document Understanding Prompts with generic image captioning.*
->
-> ```mermaid
-> graph TD
->   A[Document Understanding Prompt]
->   B[Generic Image Captioning]
->   C[Extract Structured Data]
->   D[Describe Visual Content]
->   E[Precise Output]
->   F[Descriptive Output]
->   A -->|Focus| C
->   B -->|Focus| D
->   C -->|Result| E
->   D -->|Result| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Pipeline Comparison**
-> *Compare Document Understanding Prompts with traditional OCR pipelines.*
->
-> ```mermaid
-> graph TD
->   A[Input Document]
->   B[Vision-Language Model]
->   C[OCR + Rule-Based Extraction]
->   D[Output JSON Array]
->   E[Lack Joint Reasoning]
->   F[Joints Reasoning]
->   A -->|Scan and Render| B
->   A -->|Extract Text| C
->   B -->|Process and Reason| D
->   C -->|Lack Layout Analysis| E
->   B -->|Layout + Semantic Interpretation| F
-> ```
 
 # Document Understanding Prompts
 

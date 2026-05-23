@@ -18,7 +18,7 @@ subdomains:
   - social-cognition
 
 created: 2026-04-27
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mental-simulation-synthetic-seed-2026-04-27
@@ -69,53 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mental Simulation Process Flow**
-> *Follow the flow from scenario construction to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Scenario Construction] --> B[Sensory Integration]
->   B --> C[Evaluation]
->   C --> D[Bias Check]
-> ```
-
-
-> [!abstract] **Diagram 2 — Neural Network for Mental Simulation**
-> *Identify the key neural regions involved in simulation.*
->
-> ```mermaid
-> graph TD
->   A[Default-Mode Network] --> B[Hippocampal Regions]
->   B --> C[Sensory-Motor Systems]
-> ```
-
-
-> [!abstract] **Diagram 3 — Simulation vs. Other Cognitive Processes**
-> *Compare Mental Simulation with passive recall and statistical prediction.*
->
-> ```mermaid
-> classDiagram
->   class Passive_Recall{
->     +Retrieve Past Experiences
->   }
->   class Statistical_Prediction{
->     +Use External Data
->   }
->   class Mental_Simulation{
->     +Construct Future Scenarios
->   }
->   Passive_Recall -->|Distinct From| Mental_Simulation
->   Statistical_Prediction -->|Distinct From| Mental_Simulation
-> ```
 
 # Mental Simulation
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,45 +150,6 @@ The integration of supralinguistic features in audio language models not only en
 > [!connection] **[[Multimodal Few-Shot Prompting]]** — *specializes*
 > Audio language model prompting is a specialized form of multimodal few-shot prompting that focuses on integrating audio and linguistic data. This specialization allows for more nuanced understanding and interaction with speech, leveraging the unique characteristics of auditory information to enhance performance in tasks such as sentiment analysis or speaker diarization.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Audio Language Model Workflow**
-> *Follow the flow from audio input to nuanced output analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Audio Clip] --> B[Auditory Processing]
->   B --> C[Linguistic Analysis]
->   C --> D[Supralinguistic Features]
->   D --> E[Nuanced Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with ASR+Text Pipelines**
-> *Compare the preservation of non-verbal cues in both approaches.*
->
-> ```mermaid
-> graph TD
->   A[Input Audio Clip] --> B1[ASR Transcription]
->   B1 --> C1[Text Analysis]
->   A --> B2[Auditory Processing]
->   B2 --> C2[Linguistic & Supralinguistic Features]
-> ```
-
-
-> [!abstract] **Diagram 3 — Applications of Audio Language Models**
-> *Identify the different applications enabled by audio language models.*
->
-> ```mermaid
-> graph TD
->   A[Sentiment Analysis] --> B1[Words]
->   A --> B2[Tone & Prosody]
->   C[Speaker Diarisation] --> D1[Prosodic Features]
->   E[Emotion Recognition] --> F1[Pitch Variations]
->   E --> F2[Speaking Rate]
-> ```
 
 # Audio Language Model Prompting
 

@@ -68,15 +68,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -186,43 +182,6 @@ LLM firewall patterns represent a sophisticated approach to AI safety, integrati
 > [!connection] **[[Proxy Models]]** — *specializes*
 > LLM firewall patterns specialize in the use of proxy models as a key component. Proxy models act as intermediaries, assessing safety before or after main LLM processing. This specialization is crucial because it allows for more nuanced and context-specific evaluations that can adapt to different deployment scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Input Validation Process Flow**
-> *Follow the flow from user input to model processing.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Input Classifier]
->   B --> C[Proxy Model]
->   C --> D[Main LLM]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Output Validation Process Flow**
-> *Trace the flow from model output to user feedback.*
->
-> ```mermaid
-> flowchart LR
->   A[LLM Response] --> B[Output Classifier]
->   B --> C[Proxy Model]
->   C --> D[User Feedback]
-> ```
-
-
-> [!abstract] **Diagram 3 — Layered Defense Mechanism**
-> *Identify the independent layers of security.*
->
-> ```mermaid
-> graph TD
->   A[Input Classifier] --> B[Proxy Model]
->   B --> C[Main LLM]
->   C --> D[Output Classifier]
->   D --> E[Proxy Model]
-> ```
 
 # LLM Firewall Patterns
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,41 +161,6 @@ By integrating reflective planning phases, Plan-and-Solve prompting not only imp
 > [!connection] **[[Zero-Shot Learning]]** — *applies-to*
 > PS prompting enhances the applicability of zero-shot learning by improving a model's ability to solve unseen problems through structured planning. This approach helps models generalize better from limited examples, making them more effective in novel scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Plan-and-Solve Process Flow**
-> *Follow the steps from problem understanding to solution execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Understand Problem] --> B[Devise Plan]
->   B --> C[Execute Steps]
-> ```
-
-
-> [!abstract] **Diagram 2 — PS vs Direct Solution Comparison**
-> *Compare the two approaches in terms of planning and execution phases.*
->
-> ```mermaid
-> graph TD
->   A[Direct Solution] --> B[Execution]
->   C[Plan-and-Solve] --> D[Planning]
->   D --> E[Execution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Load Reduction Mechanism**
-> *Identify how PS prompting breaks down complex tasks into simpler steps.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> ComplexTask
->   ComplexTask --> ManageableSteps: Breakdown
->   ManageableSteps --> PlanningPhase: Plan
->   PlanningPhase --> ExecutionPhase: Execute
-> ```
 
 # Plan-and-Solve Prompting
 

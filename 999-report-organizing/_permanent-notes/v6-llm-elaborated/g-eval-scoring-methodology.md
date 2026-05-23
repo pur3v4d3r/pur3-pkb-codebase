@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -183,40 +179,6 @@ Empirical studies have shown that G-Eval outperforms traditional methods like BL
 > [!connection] **[[Prometheus Evaluation Model]]** — *contrasts-with*
 > While both G-Eval and the Prometheus Evaluation Model aim to improve the reliability of LLM evaluations, they differ in their approach. The Prometheus model relies on predefined rubrics and human evaluators, whereas G-Eval uses an evaluator LLM to generate detailed forms and score responses based on token probability distributions. This difference highlights how varying methodologies can address similar evaluation challenges.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — G-Eval Process Flowchart**
-> *Follow the steps from form generation to scoring.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Evaluator LLM Generates Form]
->   B --> C[Score Based on Token Probability Distributions]
->   C --> D[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Token Scoring vs Sampled Ratings**
-> *Compare the reliability of token probability scoring and sampled ratings.*
->
-> ```mermaid
-> graph TD
->   A[Token Probability Scoring] -->|Captures Uncertainty| B[Reliable Scores]
->   C[Sampled Ratings] -->|High Variance| D[Inconsistent Results]
-> ```
-
-
-> [!abstract] **Diagram 3 — G-Eval Applications Overview**
-> *Identify the applications where G-Eval can be used.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Detailed Evaluation Forms|
->   B[Dialogue Systems] -->|Coherence and Relevance]
->   C[Creative Writing] -->|Originality and Creativity]
-> ```
 
 # G-Eval Scoring Methodology
 

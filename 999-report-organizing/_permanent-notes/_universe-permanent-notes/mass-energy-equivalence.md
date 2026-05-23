@@ -18,7 +18,7 @@ subdomains:
   - particle-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mass-energy-equivalence-synthetic-seed-2026-05-14
@@ -65,60 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mass Energy Relationship Diagram**
-> *Follow the flow from mass to energy conversion.*
->
-> ```mermaid
-> graph TD
->   A[Rest Mass]
->   B[E = mc²]
->   C[Energy]
->   A -->|Converts To| B
->   B -->|Yields| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Mass Energy Conversion Process**
-> *Trace the process from mass to energy in nuclear reactions.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Mass]
->   B[Nuclear Reaction]
->   C[E = mc²]
->   D[Energy Released]
->   A -->|Fission/Fusion| B
->   B -->|E = mc²| C
->   C -->|Radiation/Kinetic Energy| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Mass-Energy Conservation Laws**
-> *Notice the conservation of mass and energy in different forms.*
->
-> ```mermaid
-> graph TD
->   A[Initial Mass]
->   B[E = mc²]
->   C[Kinetic Energy]
->   D[Radiation]
->   E[Total Energy Conserved]
->   F[Mass Conserved]
->   A -->|Converts To| B
->   B -->|Kinetic/Radiation| C & D
->   C -->|Conservation| E
->   D -->|Conservation| E
->   A -->|Conservation| F
-> ```
 
 # Mass Energy Equivalence
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,53 +166,6 @@ By integrating insights from both financial and engineering perspectives, cost-p
 > [!connection] **[[Model-Routing Strategies]]** — *applies-to*
 > Cost-per-token budgeting and model-routing strategies both aim to optimize resource allocation in LLM systems. However, while model routing focuses on selecting the most appropriate model for a given task based on quality requirements, cost-per-token budgeting specifically targets managing token-based costs within those models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Token Usage Breakdown**
-> *Identify high-cost inputs and outputs.*
->
-> ```mermaid
-> graph TD
->   A[Input Tokens]
->   B[Output Tokens]
->   C[System Prompts] -->|High Cost| A
->   D[Context Length] -->|High Cost| A
->   E[Few-shot Examples] -->|High Cost| A
->   F[Response Length] -->|Costly| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Budgeting Process Flow**
-> *Follow the steps to implement cost-per-token budgeting.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Inefficiencies]
->   B[Audit Token Usage]
->   C[Dynamic Context Window Management]
->   D[Select Model Tiers]
->   E[Optimize Economic Efficiency]
->   A -->|Audit| B
->   B -->|Manage| C
->   C -->|Tiers| D
->   D -->|Efficiency| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Token Cost Management Strategy**
-> *Understand the relationship between input and output costs.*
->
-> ```mermaid
-> graph TD
->   A[Input Tokens]
->   B[System Prompts] -->|High Cost| A
->   C[Context Length] -->|High Cost| A
->   D[Few-shot Examples] -->|High Cost| A
->   E[Output Tokens]
->   F[Response Length] -->|Costly| E
-> ```
 
 # Cost-Per-Token Budgeting
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,48 +154,6 @@ Task-aware summaries generated with explicit reference to downstream tasks subst
 > [!connection] **[[Compressive Context Management]]** — *specializes*
 > Prompt Summarization specializes in Compressive Context Management by focusing on task-relevant details within the context of large language models. This specialization allows for more efficient use of model capacity, particularly in scenarios where extensive context is necessary but token limits are strict.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prompt Summarization Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Pre-summarization Pass]
->   B --> C[Tailored Summary Generation]
->   C --> D[Task-specific Compression]
->   D --> E[Output Concise Prompt]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Summaries**
-> *Compare task-aware and generic summaries for compression ratios.*
->
-> ```mermaid
-> graph TD
->   A[Task-Aware Summary] -->|High Compression Ratio| B[Retain Task-Relevant Info]
->   C[Generic Summary] -->|Balanced Coverage| D[May Omit Critical Details]
-> ```
-
-
-> [!abstract] **Diagram 3 — Multi-turn Interaction Context**
-> *Track context compression and potential error accumulation over turns.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Summary as S1
->   participant Summary as S2
->   U->>M: Turn 1 Input
->   M-->>S1: Generate Summary
->   S1-->>U: Compressed Context
->   U->>M: Turn 2 Input
->   M-->>S2: Update Summary
->   S2-->>U: New Compressed Context
-> ```
 
 # Prompt Summarization
 

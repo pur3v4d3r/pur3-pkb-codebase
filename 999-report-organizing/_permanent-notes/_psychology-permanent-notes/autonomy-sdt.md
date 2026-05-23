@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -69,57 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Autonomy vs Independence**
-> *Compare the key distinctions between autonomy and independence.*
->
-> ```mermaid
-> graph TD
->   A[Independence]
->   B(Autonomy)
->   A -->|External Control| C[Behavior]
->   B -->|Internal Motivation| D[Behavior]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#6f6,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 2 — Autonomy Mechanism Flow**
-> *Follow the process of how autonomy arises from subjective feelings.*
->
-> ```mermaid
-> flowchart LR
->   A[Personal Values]
->   B -->|Alignment|
->   C[Self-Endorsement]
->   D -->|Ownership|
->   E[Behavior]
->   style A fill:#6cc,stroke:#333,stroke-width:4px
->   style C fill:#6cc,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 3 — Supportive Environment Factors**
-> *Identify the elements that foster autonomy in an environment.*
->
-> ```mermaid
-> graph TD
->   A[Free Choice]
->   B -->|Opportunities|
->   C[Meaningful Engagement]
->   D -->|Encouragement|
->   E[Self-Determination]
->   style A fill:#cc6,stroke:#333,stroke-width:4px
->   style C fill:#cc6,stroke:#333,stroke-width:4px
-> ```
 
 # Autonomy (SDT)
 

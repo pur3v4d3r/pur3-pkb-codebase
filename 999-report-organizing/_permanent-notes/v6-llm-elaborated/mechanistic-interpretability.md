@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,73 +165,6 @@ Mechanistic interpretability stands out as the only interpretability approach wi
 > [!connection] **[[Post-hoc Explanation Methods]]** — *contrasts-with*
 > Mechanistic interpretability contrasts with post-hoc explanation methods by focusing on the underlying mechanisms of neural networks rather than just their outputs. While post-hoc methods provide useful insights into how models behave for specific inputs, mechanistic approaches delve deeper to understand the actual algorithms and circuits responsible for these behaviors.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mechanistic Interpretability Process Flow**
-> *Follow the steps from input to output, noting key techniques and outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Activation Patching]
->   C[Probing]
->   D[Sparse Autoencoder Feature Extraction]
->   E[Attention Head Analysis]
->   F[Identify Computational Structures]
->   G[Predict Model Behavior]
->   A -->|Inputs| B
->   B -->|Activations Identified| C
->   C -->|Responses Observed| D
->   D -->|Features Extracted| E
->   E -->|Analysis Conducted| F
->   F -->|Mechanisms Revealed| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Post-Hoc Explanation Methods**
-> *Compare the focus of mechanistic interpretability and post-hoc methods.*
->
-> ```mermaid
-> graph TD
->   A[Post-Hoc Explanation]
->   B[Mechanistic Interpretability]
->   C[Correlations in Model Behavior]
->   D[Underlying Mechanisms]
->   E[Predictive Understanding]
->   F[Descriptive Only]
->   G[Identify Computational Structures]
->   H[Novel Contexts]
->   A -->|Focus| C
->   B -->|Focus| D
->   C -->|Outcome| F
->   D -->|Outcome| G
->   F -->|Limitation| E
->   G -->|Advantage| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Theoretical and Empirical Grounding**
-> *Trace the theoretical roots and empirical applications of mechanistic interpretability.*
->
-> ```mermaid
-> graph TD
->   A[Theoretical Roots]
->   B[Circuits Hypothesis]
->   C[Empirical Applications]
->   D[Small Controlled Models]
->   E[Frontier-Sized Models]
->   F[Challenges]
->   G[Predictive Understanding]
->   H[Clean Circuits Identified]
->   A -->|Circuits Hypothesis| B
->   B -->|Guides Research| C
->   C -->|Small Models| D
->   D -->|Clean Circuits| H
->   C -->|Frontier-Sized Networks| E
->   E -->|Complexity Challenges| F
-> ```
 
 # Mechanistic Interpretability
 

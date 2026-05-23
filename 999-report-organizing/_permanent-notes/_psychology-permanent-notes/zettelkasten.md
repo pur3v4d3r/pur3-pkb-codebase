@@ -18,7 +18,7 @@ subdomains:
   - scholarly-method
 
 created: 2026-04-24
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - zettelkasten-synthetic-seed-2026-04-24
@@ -67,74 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Zettelkasten Concept Hierarchy**
-> *Follow the hierarchy from top to bottom.*
->
-> ```mermaid
-> graph TD
->   A[Atomic Notes]
->   B[Links Between Notes]
->   C[Knowledge Network]
->   D[Ideas and Insights]
->   A -->|Capture Ideas|
->   B -->|Linking|
->   C -->|Network Formation|
->   D -->|Surface New Insights|
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Zettelkasten Process Flow**
-> *Follow the flow from left to right.*
->
-> ```mermaid
-> flowchart LR
->   A[Capture Idea]
->   B[Stable Identifier]
->   C[Link Keywords/Tags]
->   D[Review and Refine]
->   A -->|Atomic Note|
->   B -->|Unique ID|
->   C -->|Contextual Links|
->   D -->|Enhance Understanding|
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Zettelkasten Application Areas**
-> *Identify the applications in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Academic Research]
->   C[Creative Writing]
->   D[Enhance Curricula]
->   E[Streamline Note-Taking]
->   F[Generate New Storylines]
->   A -->|Pedagogical Strategies|
->   B -->|Organize Thoughts|
->   C -->|Repository of Ideas|
->   D -->|Adaptable Teaching Methods|
->   E -->|Link to Literature|
->   F -->|Maintain Consistency|
->   A --> D
->   B --> E
->   C --> F
-> ```
 
 # Zettelkasten
 

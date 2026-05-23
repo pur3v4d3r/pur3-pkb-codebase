@@ -18,7 +18,7 @@ subdomains:
   - virtue-epistemology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemic-akrasia-synthetic-seed-2026-05-12
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemic Akrasia Process Flow**
-> *Follow the steps from recognition to belief formation.*
->
-> ```mermaid
-> flowchart LR
->   A[Recognize Need] --> B[Evaluate Evidence]
->   B --> C[Integrate Knowledge]
->   C -.-> D[Fallacy of Epistemic Akrasia]
->   D --> E[Maintain Contradictory Belief]
-> ```
-
-
-> [!abstract] **Diagram 2 — Epistemic Akrasia vs Cognitive Biases**
-> *Compare the distinctions between Epistemic Akrasia and other biases.*
->
-> ```mermaid
-> graph TD
->   A[Epistemic Akrasia] --> B[Reflective Judgement]
->   C[Cognitive Bias] --> D[Erroneous Belief]
->   E{Distinction}
->   A -.->|No Error in First-Order Beliefs|E
->   C -.->|Error in First-Order Beliefs|E
-> ```
-
-
-> [!abstract] **Diagram 3 — Epistemic Akrasia Applications**
-> *Identify the practical applications of Epistemic Akrasia.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Curriculum Development]
->   C[Decision-Making in Organizations] --> D[System Accountability]
->   E[Spaced Retrieval in MOOCs] --> F[Integration Strategies]
-> ```
 
 # Epistemic Akrasia
 

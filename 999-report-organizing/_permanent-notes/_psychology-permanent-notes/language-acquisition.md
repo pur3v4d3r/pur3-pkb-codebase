@@ -17,7 +17,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - language-acquisition-synthetic-seed-2026-04-25
@@ -65,61 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Language Acquisition Stages Overview**
-> *Follow the sequence from babbling to complex sentences.*
->
-> ```mermaid
-> graph TD
->   A[Phonological Development]
->   B[Morphological Development]
->   C[Syntactic Development]
->   D[Semantic Development]
->   E[Pragmatic Development]
->   A -->|Babbling| B
->   B -->|One-word Utterances| C
->   C -->|Two-word Combinations| D
->   D -->|Complex Sentences| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Theoretical Perspectives on Language Acquisition**
-> *Compare the nativist and usage-based theories.*
->
-> ```mermaid
-> classDiagram
->   class Nativist {
->     +Universal Grammar
->     +Innate Biases
->   }
->   class UsageBased {
->     +Statistical Learning
->     +Environmental Factors
->   }
->   Nativist -->|Chomsky| "Noam Chomsky"
->   UsageBased -->|Tomasello| "Michael Tomasello"
-> ```
-
-
-> [!abstract] **Diagram 3 — Language Acquisition Feedback Loop**
-> *Trace the interaction between children and caregivers.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Child as C
->   participant Caregiver as CG
->   C->>CG: Test Hypothesis
->   CG-->>C: Corrective/Reinforcing Response
->   C->>CG: Refine Understanding
-> ```
 
 # Language Acquisition
 

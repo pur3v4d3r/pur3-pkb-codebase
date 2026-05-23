@@ -24,7 +24,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
@@ -72,57 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — JOL Timing Accuracy**
-> *Compare immediate vs delayed JOL accuracy.*
->
-> ```mermaid
-> graph TD
->   A[Immediate JOL]
->   B[Delayed JOL]
->   A -->|Poorly Calibrated| C[Inaccurate]
->   B -->|Accounts for Decay| D[Accurate]
-> ```
-
-
-> [!abstract] **Diagram 2 — JOL Process Flow**
-> *Follow the process of forming and using JOLs.*
->
-> ```mermaid
-> flowchart LR
->   A[Study]
->   B[Immediate JOL]
->   C[Retention Interval]
->   D[Delayed JOL]
->   E[Test]
->   A -->|Formulates| B
->   B -->|Overconfidence Bias| F[Inaccurate Prediction]
->   A -->|After Delay| C
->   C -->|Accounts for Decay| D
->   D -->|More Accurate| G[Adequate Feedback]
-> ```
-
-
-> [!abstract] **Diagram 3 — JOL Applications**
-> *See how JOLs are applied in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Self-Regulated Learning]
->   C[Educational Assessment]
->   A -->|Spaced Retrieval Practice| H[Enhanced Learning Outcomes]
->   B -->|Delayed Self-Assessment| I[Better Calibration]
->   C -->|Predictive Questions| J[Metacognitive Reflection]
-> ```
 
 # Judgment of Learning
 

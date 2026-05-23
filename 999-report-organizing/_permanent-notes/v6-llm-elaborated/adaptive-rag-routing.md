@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,31 +173,6 @@ Empirical evidence supports the efficacy of Adaptive RAG routing in achieving be
 > [!connection] **[[Query Classification]]** — *prerequisites*
 > Adaptive RAG routing relies on accurate query classification to determine the appropriate retrieval strategy. Without a robust query classification mechanism, the system would struggle to optimize its response process effectively.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Query Classification Process**
-> *Follow the flow from query input to retrieval strategy output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Query] --> B[Classifier]
->   B -->|Simple| C1[No Retrieval]
->   B -->|Moderate| D2[Single-Step Retrieval]
->   B -->|Complex| E3[Iterative Multi-Step Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 2 — Adaptive RAG Routing Strategies**
-> *Identify the retrieval strategy for each query complexity level.*
->
-> ```mermaid
-> graph TD
->   A[Simple] --> B1[No Retrieval]
->   C[Moderate] --> D2[Single-Step Retrieval]
->   E[Complex] --> F3[Iterative Multi-Step Retrieval]
-> ```
 
 # Adaptive RAG Routing
 

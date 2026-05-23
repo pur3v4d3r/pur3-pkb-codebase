@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,49 +164,6 @@ By integrating reflective thinking into its methodology, Data Analysis Prompting
 > [!connection] **[[Code-Generation Prompting]]** — *contrasts-with*
 > Data Analysis Prompting contrasts with Code-Generation Prompting in that it focuses on generating statistical analyses rather than executable code. While Code-Generation Prompting aims to produce functional programs, Data Analysis Prompting seeks to provide interpretive insights from data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Data Analysis Workflow**
-> *Follow the flow from dataset to insights.*
->
-> ```mermaid
-> graph TD
->   A[Define Dataset]
->   B[Formulate Questions]
->   C[Specify Assumptions]
->   D[Generate Insights]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Question-First vs Method-First Prompting**
-> *Compare the two approaches in prompting.*
->
-> ```mermaid
-> graph TD
->   A[Question-First]
->   B[Method-First]
->   C[Precise Question]
->   D[Pre-Specified Methods]
->   E[Data Characteristics]
->   F[User Needs]
->   G[Flexibility]
->   H[Rigidity]
->   I[Relevance]
->   J[Accuracy]
->   A -->|Starts with| C
->   B -->|Starts with| D
->   C -->|Adapts to| E
->   C -->|Aligns with| F
->   G -->|Enhances| I
->   G -->|Improves| J
->   H -->|Limits| I
->   H -->|Reduces| J
-> ```
 
 # Data Analysis Prompting
 

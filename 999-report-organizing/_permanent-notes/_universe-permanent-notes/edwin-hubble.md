@@ -17,7 +17,7 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - edwin-hubble-synthetic-seed-2026-05-14
@@ -64,46 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hubble's Redshift-Distance Relation**
-> *Follow the flow from observation to cosmic expansion.*
->
-> ```mermaid
-> flowchart LR
->   A[Observation] --> B[Redshift]
->   B --> C[Distance]
->   C --> D[Cosmic Expansion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Galaxy Classification Scheme**
-> *Trace the categories from elliptical to spiral and irregular.*
->
-> ```mermaid
-> graph TD
->   A[Elliptical] --> B[Spiral]
->   B --> C[Irregular]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hubble vs Lemaître Contributions**
-> *Compare the timeline of key discoveries by both scientists.*
->
-> ```mermaid
-> sequenceDiagram
->   participant H as Hubble
->   participant L as Lemaître
->   H->>L: Discovery of Redshift-Distance Relation (1929)
->   L->>H: Velocity-Distance Relation & Expansion Rate Estimate (1927)
-> ```
 
 # Edwin Hubble
 

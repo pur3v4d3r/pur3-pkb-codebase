@@ -20,7 +20,7 @@ subdomains:
   - llm-fine-tuning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - context-distillation-synthetic-seed-2026-05-20
@@ -67,34 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Context Distillation Process Flow**
-> *Follow the flow from prompt generation to model fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Training Examples] --> B[Fine-Tune Model]
->   B --> C[Embed Prompt Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 2 — Context Distillation Mechanism Overview**
-> *Trace the stages from prompt to model behavior.*
->
-> ```mermaid
-> graph TD
->   A[Prompt] --> B[Generate Examples]
->   B --> C[Fine-Tune Model]
->   C --> D[Model Behavior]
-> ```
 
 # Context Distillation
 

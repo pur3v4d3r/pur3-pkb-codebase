@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,50 +153,6 @@ Empirical evidence underscores the effectiveness of coreference resolution promp
 > [!connection] **[[Semantic Grounding in LLMs]]** — *supports*
 > Coreference resolution prompting supports semantic grounding by ensuring that language models correctly attribute properties to entities, thereby enhancing the model's ability to understand and generate semantically coherent text. This interplay is essential for tasks requiring deep understanding of textual content.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Coreference Resolution Process Flow**
-> *Follow the steps from input text to resolved output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Pronoun Identification]
->   B --> C[Antecedent Search]
->   C --> D[Resolution Check]
->   D --> E[Output Resolved Text]
-> ```
-
-
-> [!abstract] **Diagram 2 — Coreference Resolution Taxonomy**
-> *Identify the types of co-referential mentions and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Pronoun] --> B[He/She]
->   C[Definite Description] --> D[The Cat]
->   E[Demonstrative] --> F[That Book]
->   G[Zero Anaphora] --> H[Left Out]
-> ```
-
-
-> [!abstract] **Diagram 3 — Explicit vs Implicit Resolution Comparison**
-> *Compare the accuracy of explicit and implicit coreference resolution.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   U->>M: Input Text with Co-references
->   alt Explicit Prompting
->     M->>U: Resolve Coreferences Explicitly
->     U-->>M: Correct Attribution
->   else Implicit Resolution
->     M->>U: Attempt to Infer Coreferences
->     U-->>M: Potential Errors
->   end
-> ```
 
 # Coreference Resolution Prompting
 

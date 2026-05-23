@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,39 +158,6 @@ Instruction-following emergence represents a pivotal advancement in the evolutio
 > [!connection] **[[Zero-Shot Generalization Mechanisms]]** — *applies-to*
 > Instruction-following emergence exemplifies zero-shot generalization mechanisms in action. By leveraging learned patterns and semantic understanding, models can apply their knowledge to new tasks without additional training, showcasing the power of these mechanisms in enhancing model adaptability.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Instruction-Following Emergence Process Flow**
-> *Follow the flow from training to instruction handling.*
->
-> ```mermaid
-> flowchart LR
->   A[Training Dataset] --> B[Model Training]
->   B --> C[Instruction Handling]
->   C --> D[Response Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Instruction-Following vs Specific Task Completion**
-> *Compare the scope of instruction-following and task completion.*
->
-> ```mermaid
-> graph TD
->   A[Instruction-Following] -->|Generalizes to diverse tasks| B[Semantic Understanding]
->   C[Specific Task Completion] -->|Executes predefined tasks| D[Ambiguous Instructions Fail]
-> ```
-
-
-> [!abstract] **Diagram 3 — Training Dataset Diversity Impact**
-> *Observe how dataset diversity affects model performance.*
->
-> ```mermaid
-> graph TD
->   A[Wide Array of Tasks] --> B[Better Semantic Understanding]
->   C[Narrowly Defined Tasks] --> D[Poor Generalization]
-> ```
 
 # Instruction-Following Emergence
 

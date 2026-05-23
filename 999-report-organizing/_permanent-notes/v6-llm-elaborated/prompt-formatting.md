@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,42 +160,6 @@ Empirical studies have shown that structured prompts using clear delimiters and 
 > [!connection] **[[Output Format Specification]]** — *applies-to*
 > Prompt Formatting is essential for specifying output formats because it delineates clear boundaries between instructions and expected outputs. By using consistent delimiters and labels, practitioners can guide the model to produce responses in a structured format that aligns with their needs, such as JSON or Markdown.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Structured vs Unstructured Prompts**
-> *Compare the clarity of structured and unstructured prompts.*
->
-> ```mermaid
-> graph TD
-> A[Unstructured Prompt]
-> B[Structured Prompt]
-> A -->|Ambiguity| C[Confusion]
-> B -->|Clarity| D[Cohesion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Formatting Components**
-> *Identify key components used in prompt formatting.*
->
-> ```mermaid
-> graph TD
-> A[Delimiters] --> B[Markdown]
-> B --> C[Labels]
-> C --> D[Whitespace]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Design Process Flow**
-> *Follow the steps in designing a structured prompt.*
->
-> ```mermaid
-> flowchart LR
-> A[Define Task] --> B[Choose Delimiters]
-> B --> C[Add Labels]
-> C --> D[Test Across Models]
-> ```
 
 # Prompt Formatting
 

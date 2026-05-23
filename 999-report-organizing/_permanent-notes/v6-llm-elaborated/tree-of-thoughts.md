@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,47 +166,6 @@ By integrating principles of reflective thinking and reducing extrinsic cognitiv
 > [!connection] **[[Self-Consistency Sampling]]** — *contrasts-with*
 > Tree of Thoughts contrasts with Self-Consistency Sampling in that the former focuses on structured reasoning through a tree-like exploration, whereas the latter emphasizes generating multiple consistent solutions. This difference highlights how Tree of Thoughts is particularly effective for tasks where understanding and evaluating intermediate steps are crucial.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tree Structure Overview**
-> *Follow the branches to see how each thought leads to another.*
->
-> ```mermaid
-> graph TD
->   A[Start] --> B[Thought1]
->   B --> C[Thought2]
->   B --> D[Thought3]
->   C --> E[Thought4]
->   D --> F[Thought5]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reasoning Process Flow**
-> *Trace the flow from input to output, noting backtracking points.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Initial Thought]
->   B --> C[Evaluation]
->   C -->|Good Path| D[Next Thought]
->   C -->|Bad Path| E[Backtrack]
->   E --> F[New Thought]
->   F --> G[Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Value Function Evaluation**
-> *Observe how nodes are evaluated and pruned based on their value.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> A[Initial Thought]
->   A --> B[Evaluate]
->   B -->|High Value| C[Expand Branch]
->   B -->|Low Value| D[Prune Path]
-> ```
 
 # Tree of Thoughts
 

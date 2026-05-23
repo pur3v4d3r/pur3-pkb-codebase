@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,64 +153,6 @@ Cybersecurity analysis prompting is crucial in the digital age due to its abilit
 > [!connection] **[[Large Language Models (LLMs)]]** — *applies-to*
 > Cybersecurity analysis prompting leverages the extensive knowledge base and natural language processing capabilities of LLMs to conduct comprehensive security analyses. This application highlights how LLMs can be adapted for specialized tasks beyond general information retrieval, demonstrating their versatility in cybersecurity contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Cybersecurity Analysis Workflow**
-> *Follow the flow from system input to security analysis output.*
->
-> ```mermaid
-> graph TD
->   A[System Input]
->   B[Structured Prompting Frameworks]
->   C[LLM Security Analysis]
->   D[Vulnerability Insights]
->   E[Mitigation Strategies]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Threat Modeling with STRIDE**
-> *Identify threats using the six categories of STRIDE.*
->
-> ```mermaid
-> graph TD
->   A[STRIDE]
->   B[Spoofing]
->   C[Tampering]
->   D[Repudiation]
->   E[Information Disclosure]
->   F[Denial of Service]
->   G[Elevation of Privilege]
->   A --> B
->   A --> C
->   A --> D
->   A --> E
->   A --> F
->   A --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Security Policy Evaluation Frameworks**
-> *Compare security policies against established frameworks.*
->
-> ```mermaid
-> graph TD
->   A[Security Policies]
->   B[NIST]
->   C[ISO 27001]
->   D[Evaluation]
->   E[Gaps and Improvements]
->   A -->|Against| B
->   A -->|Against| C
->   B --> D
->   C --> D
->   D --> E
-> ```
 
 # Cybersecurity Analysis Prompting
 

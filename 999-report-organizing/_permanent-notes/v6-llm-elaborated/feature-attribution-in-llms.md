@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,57 +163,6 @@ Empirical comparisons have shown that gradient-based attribution methods provide
 > [!connection] **[[Gradient-Based Attribution Methods]]** — *specializes*
 > Feature attribution in LLMs often employs gradient-based methods to quantify input importance. These methods specialize by leveraging gradients of the loss function with respect to inputs, offering a direct measure of sensitivity that can pinpoint influential features more accurately than other approaches.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Gradient vs Attention Methods**
-> *Compare gradient-based and attention-based attribution methods.*
->
-> ```mermaid
-> graph TD
->   A[Input Tokens]
->   B[Gradients]
->   C[Attention Weights]
->   D[Output Scores]
->   A -->|Compute Gradients| B
->   A -->|Extract Attention| C
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Feature Attribution Process Flow**
-> *Follow the process from input to attribution scores.*
->
-> ```mermaid
-> flowchart LR
->   A[Input]
->   B[Model Processing]
->   C[Attribution Calculation]
->   D[Output Scores]
->   A --> B
->   B -->|Attention/Gradients| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Feature Attribution Applications**
-> *Identify applications of feature attribution in debugging and trust.*
->
-> ```mermaid
-> graph TD
->   A[Debugging Failures]
->   B[Identifying Correlations]
->   C[Building Trust]
->   D[Input Features]
->   E[Attribution Scores]
->   F[Model Outputs]
->   D -->|Gradient/Attention| E
->   E --> A
->   E --> B
->   E --> C
-> ```
 
 # Feature Attribution in Large Language Models
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,57 +157,6 @@ The interplay between retrieval faithfulness and other objectives such as factua
 > [!connection] **[[Factual Accuracy]]** — *contrasts-with*
 > Retrieval faithfulness contrasts with factual accuracy in that the former prioritizes adherence to retrieved documents, even if they contain errors, while the latter focuses on ensuring correct information regardless of its source. This distinction highlights the trade-offs between maintaining integrity and achieving correctness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Retrieval Faithfulness vs Accuracy**
-> *Compare retrieval faithfulness with factual and answer accuracy.*
->
-> ```mermaid
-> graph TD
->   A[Retrieval Faithfulness]
->   B[Factual Accuracy]
->   C[Answer Accuracy]
->   A -->|Contrasts With| B
->   A -->|Contrasts With| C
-> ```
-
-
-> [!abstract] **Diagram 2 — RAG System Output Flow**
-> *Follow the flow from input to output in a RAG system.*
->
-> ```mermaid
-> flowchart LR
->   Input[Input]
->   Retrieval[Retrieval]
->   Generation[Generation]
->   Output[Output]
->   Input -->|Retrieve Documents| Retrieval
->   Retrieval -->|Generate Response| Generation
->   Generation -->|Ensure Faithfulness| Output
-> ```
-
-
-> [!abstract] **Diagram 3 — Faithfulness Evaluation Framework**
-> *Understand the claim-level entailment checks for evaluation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant System as S
->   participant Document as D
->   U->>S: Generate Response
->   S->>D: Retrieve Documents
->   loop Claim-Level Entailment Check
->     S->>D: Verify Each Claim
->     alt Faithful
->       S-->>U: Faithful Output
->     else Unfaithful
->       S-->>U: Unfaithful Output
->     end
->   end
-> ```
 
 # Retrieval Faithfulness
 

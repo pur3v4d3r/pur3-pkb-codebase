@@ -17,7 +17,7 @@ subdomains:
   - nuclear-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - proton-proton-chain-synthetic-seed-2026-05-14
@@ -64,59 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Proton-Proton Chain Branches Overview**
-> *Follow the flow from pp-I to pp-III branches.*
->
-> ```mermaid
-> graph TD
->   A[pp-I]
->   B[pp-II]
->   C[pp-III]
->   A -->|7Be Formation| D[Helium-4]
->   B -->|7Li Formation| D
->   C -->|7Li Decay| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Proton-Proton Chain Process Flow**
-> *Trace the nuclear reactions from hydrogen to helium.*
->
-> ```mermaid
-> flowchart LR
->   A[2H] --> B[3He]
->   B --> C[7Be]
->   C --> D[4He]
->   A -->|Weak Interaction| E[e+ v_e]
->   B --> F[gamma]
->   C --> G[v_e e-]
-> ```
-
-
-> [!abstract] **Diagram 3 — Proton-Proton Chain Neutrino Detection Experiments**
-> *Identify the experiments that measure solar neutrinos.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Borexino as B
->   participant GALLEX as G
->   participant SAGE as S
->   participant SNO as SN
->   participant Super-Kamiokande as SK
->   B->>B: Neutrino Detection
->   G->>G: Neutrino Detection
->   S->>S: Neutrino Detection
->   SN->>SN: Neutrino Detection
->   SK->>SK: Neutrino Detection
-> ```
 
 # Proton Proton Chain
 

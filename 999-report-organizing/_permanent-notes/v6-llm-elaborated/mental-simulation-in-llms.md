@@ -20,7 +20,7 @@ subdomains:
   - world-model-in-llms
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mental-simulation-in-llms-synthetic-seed-2026-05-20
@@ -67,60 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mental Simulation Process Flow**
-> *Follow the steps from prompt to coherent causal reasoning.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Step-by-Step Reasoning]
->   B --> C[Causal Tracing]
->   C --> D[Coherent Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mental Simulation vs Pattern Recall**
-> *Compare mental simulation with pattern recall in LLM tasks.*
->
-> ```mermaid
-> graph TD
->   A[Mental Simulation] --> B[Internal Model]
->   C[Pattern Recall] --> D[Direct Retrieval]
->   subgraph Coherent Reasoning
->     A
->     B
->   end
->   subgraph Direct Answer
->     C
->     D
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Identify reflective thinking in mental simulation tasks.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant LLM as L
->   U->>L: Prompt for Scenario Simulation
->   L->>U: Reflective Thinking
->   alt Explore Scenarios
->     L->>U: Consider Multiple Perspectives
->     L->>U: Consequences of Actions
->   else Immediate Response
->     L->>U: Reactive Process
->   end
-> ```
 
 # Mental Simulation in LLMs
 

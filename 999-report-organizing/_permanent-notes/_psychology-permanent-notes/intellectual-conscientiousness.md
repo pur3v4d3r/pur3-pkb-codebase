@@ -17,7 +17,7 @@ subdomains:
   - ethics
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - intellectual-conscientiousness-synthetic-seed-2026-05-12
@@ -64,49 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Intellectual Conscientiousness Process Flow**
-> *Follow the flow from investigation to decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Question] --> B[Evaluate Importance]
->   B --> C[Determine Thoroughness]
->   C --> D[Investigate]
->   D --> E[Conclude]
->   E --> F[Decision/Action]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intellectual Conscientiousness vs Other Dispositions**
-> *Compare Intellectual Conscientiousness with related dispositions.*
->
-> ```mermaid
-> graph TD
->   A[Intellectual Conscientiousness]
->   B[Perfectionism] -->|vs| A
->   C[Laziness] -->|vs| A
->   D[Analysis Paralysis] -->|vs| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Understand the difference between reflective and reactive thinking.*
->
-> ```mermaid
-> graph TD
->   A[Intellectual Conscientiousness]
->   B[Reflective Thinking] -->|aligns with| A
->   C[Reactive Thinking] -.-> A
-> ```
 
 # Intellectual Conscientiousness
 

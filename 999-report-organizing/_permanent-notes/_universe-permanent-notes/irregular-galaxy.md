@@ -17,7 +17,7 @@ subdomains:
   - galactic-morphology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - irregular-galaxy-synthetic-seed-2026-05-14
@@ -65,44 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hubble's Irregular Galaxy Classification**
-> *Identify the two subclasses of irregular galaxies.*
->
-> ```mermaid
-> graph TD
->   A["Irr-I (Asymmetric Structure)"] --> B[Irregular Galaxies]
->   C["Irr-II (Chaotic, Often Interacting)"] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Star Formation in Irregular vs Quiescent Galaxies**
-> *Compare active star formation processes between irregular and quiescent galaxies.*
->
-> ```mermaid
-> graph TD
->   A["Irregular Galaxies"] --> B[Active Star Formation]
->   C[Quiescent Galaxies] --> D[No Active Star Formation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Galaxy Morphological Types Hierarchy**
-> *Understand the place of irregular galaxies within galaxy types.*
->
-> ```mermaid
-> graph TD
->   A["Elliptical Galaxies"] --> B[Galaxy Morphological Types]
->   C["Spiral Galaxies"] --> B
->   D["Irregular Galaxies"] --> B
-> ```
 
 # Irregular Galaxy
 

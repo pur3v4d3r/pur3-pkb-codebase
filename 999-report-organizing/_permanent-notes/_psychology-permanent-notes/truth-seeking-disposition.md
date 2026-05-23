@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-inquiry
 
 created: 2026-05-12
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - truth-seeking-disposition-synthetic-seed-2026-05-12
@@ -65,48 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Truth Seeking Process Flow**
-> *Follow the steps from initial belief to critical evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Belief] --> B[Evaluate Evidence]
->   B --> C[Challenge Bias]
->   C --> D[Form Accurate Belief]
-> ```
-
-
-> [!abstract] **Diagram 2 — Truth Seeking vs Motivated Reasoning**
-> *Compare the focus of truth seeking with motivated reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Truth Seeking]
->   B[Motivated Reasoning]
->   A -->|Prioritize Evidence| C[Accuracy]
->   B -->|Support Preconceived Beliefs| D[Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Identify the differences between reflective and reactive thinking.*
->
-> ```mermaid
-> graph TD
->   A[Reflective]
->   B[Reactive]
->   A -->|Critical Evaluation| C[Thorough Scrutiny]
->   B -->|Immediate Acceptance| D[Less Scrutiny]
-> ```
 
 # Truth Seeking Disposition
 

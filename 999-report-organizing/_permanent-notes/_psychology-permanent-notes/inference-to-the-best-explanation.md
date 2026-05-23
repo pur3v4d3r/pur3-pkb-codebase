@@ -18,7 +18,7 @@ subdomains:
   - abductive-reasoning
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - inference-to-the-best-explanation-synthetic-seed-2026-04-25
@@ -65,64 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — IBE Evaluation Criteria**
-> *Follow the flow to understand how hypotheses are evaluated.*
->
-> ```mermaid
-> graph TD
->   A[Scope]
->   B[Depth]
->   C[Simplicity]
->   D[Fit with Background Knowledge]
->   A --> E[Hypothesis Evaluation]
->   B --> E
->   C --> E
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — IBE in Scientific Theory Choice**
-> *Trace the process from hypothesis generation to theory selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Hypotheses]
->   B[Evaluate Explanatory Power]
->   C[Simplify and Fit Background Knowledge]
->   D[Select Best Explanation]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — IBE vs Other Inferences**
-> *Compare IBE with deduction and Bayesian reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Inference to the Best Explanation]
->   B[Deduction]
->   C[Bayesian Reasoning]
->   D[Non-Deductive Reasoning]
->   E[Scientific Theory Choice]
->   F[Historical Inference]
->   G[Prior Probabilities]
->   H[Logical Certainty]
->   A -->|Used in|E
->   A -->|Used in|F
->   B -->|Requires|H
->   C -->|Relies on|G
-> ```
 
 # Inference to the Best Explanation
 

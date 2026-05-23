@@ -18,7 +18,7 @@ subdomains:
   - quantum-field-theory
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - standard-model-of-particle-physics-synthetic-seed-2026-05-14
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Standard Model Gauge Symmetries**
-> *Identify the three gauge symmetries and their interactions.*
->
-> ```mermaid
-> graph TD
->   SU3["SU(3)\nStrong"] -->|Interacts with| SU2U1["SU(2)xU(1)\nElectroweak"]
->   SU2U1 -->|Includes| Photon[Photon]
->   SU2U1 -->|Includes| Wboson[W<sup>+</sup>,W<sup>-</sup>]
->   SU2U1 -->|Includes| Zboson[Z]
->   SU3 -->|Includes| Gluons[Gluons]
-> ```
-
-
-> [!abstract] **Diagram 2 — Standard Model Particle Classification**
-> *Observe the classification of fermions and bosons within the model.*
->
-> ```mermaid
-> graph TD
->   Fermions --> Quarks[Quarks]
->   Fermions --> Leptons[Leptons]
->   Bosons --> Photon[Photon]
->   Bosons --> Wboson[W<sup>+</sup>,W<sup>-</sup>]
->   Bosons --> Zboson[Z]
->   Bosons --> Gluons[Gluons]
->   Bosons --> Higgs[Higgs]
-> ```
-
-
-> [!abstract] **Diagram 3 — Standard Model vs Theory of Everything**
-> *Compare the scope and limitations of both models.*
->
-> ```mermaid
-> sequenceDiagram
->   participant StandardModel as SM
->   participant TheoryOfEverything as ToE
->   SM->>ToE: Describes strong, weak, electromagnetic forces
->   ToE->>SM: Extends to include gravity\ndark matter\nand dark energy
-> ```
 
 # Standard Model Of Particle Physics
 

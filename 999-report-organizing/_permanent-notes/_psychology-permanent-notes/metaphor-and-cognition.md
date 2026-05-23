@@ -19,7 +19,7 @@ subdomains:
   - conceptual-metaphor-theory
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - metaphor-and-cognition-synthetic-seed-2026-04-25
@@ -68,51 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Conceptual Metaphor Mapping**
-> *Follow the mapping from concrete to abstract domains.*
->
-> ```mermaid
-> graph TD
->   A[Space] --> B(Time)
->   C[Wars] --> D(Argumentation)
->   E[Journey] --> F(Life)
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Mapping Process**
-> *Trace the stages of analogical mapping in cognition.*
->
-> ```mermaid
-> flowchart LR
->   A[Concrete Source Domain]
->   B[Specific Mappings]
->   C[Inferential Structure Importation]
->   D[Judgments and Decisions Influence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Metaphor's Impact on Reasoning**
-> *Observe how metaphors influence different cognitive processes.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Time
->   participant Argumentation
->   participant MoralReasoning
->   participant EconomicDecisions
->   Time->>Argumentation: 'Time is Running Out'
->   Argumentation-->>MoralReasoning: 'Cleanliness = Purity'
->   MoralReasoning-->>EconomicDecisions: 'Investment as Battle'
-> ```
 
 # Metaphor and Cognition
 

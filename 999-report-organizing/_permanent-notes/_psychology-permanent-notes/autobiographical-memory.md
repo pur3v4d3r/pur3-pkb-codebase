@@ -17,7 +17,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - autobiographical-memory-synthetic-seed-2026-04-25
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Autobiographical Memory Process Flow**
-> *Follow the flow from episodic to semantic integration.*
->
-> ```mermaid
-> graph TD
->   A[Episodic Memories] --> B[Integration]
->   C[Semantic Knowledge] --> B
->   B --> D[Autobiographical Narrative]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reconstructive Memory Influences**
-> *Identify factors that influence memory reconstruction.*
->
-> ```mermaid
-> graph TD
->   A[Current Goals] --> B[Memory]
->   C[Mood] --> B
->   D[Post-Event Info] --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Reminiscence Bump Timeline**
-> *Notice the peak in memory recall during late adolescence.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Childhood
->   Childhood --> Adolescence
->   Adolescence --> ReminiscenceBump["Late Adolescence & Early Adulthood"]
->   ReminiscenceBump --> MiddleAge
->   MiddleAge --> LaterLife
-> ```
 
 # Autobiographical Memory
 

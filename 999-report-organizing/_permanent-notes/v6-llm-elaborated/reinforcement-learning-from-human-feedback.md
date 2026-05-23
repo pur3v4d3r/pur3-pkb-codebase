@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,33 +170,6 @@ By integrating reflective thinking through iterative feedback loops, RLHF not on
 > [!connection] **[[Constitutional AI Principles]]** — *contrasts-with*
 > While RLHF focuses on aligning AI behavior with human feedback, Constitutional AI Principles aim to establish a set of predefined ethical guidelines that govern AI behavior. This contrast highlights the flexibility and adaptability of RLHF versus the rigidity and universality of constitutional principles.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — RLHF Process Flowchart**
-> *Follow the stages from fine-tuning to policy optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Supervised Fine-Tuning] --> B[Reward Model Training]
->   B --> C[Policy Optimization]
-> ```
-
-
-> [!abstract] **Diagram 2 — RLHF Taxonomy Overview**
-> *Identify the relationship between RLHF and other reinforcement learning methods.*
->
-> ```mermaid
-> graph TD
->   A[Reinforcement Learning]
->   B{Human Feedback}
->   C[RLHF]
->   D[Direct Preference Optimization]
->   A -->|Involves Human Feedback| B
->   B -->|Yes| C
->   B -->|No| D
-> ```
 
 # Reinforcement Learning from Human Feedback
 

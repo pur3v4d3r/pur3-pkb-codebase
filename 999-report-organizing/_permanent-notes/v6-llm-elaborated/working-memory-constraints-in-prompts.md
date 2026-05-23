@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,35 +163,6 @@ By recognizing and addressing the nuances of working memory constraints, prompt 
 > [!connection] **[[Context Processing Limits]]** — *specializes*
 > Working Memory Constraints in Prompts specializes the broader concept of Context Processing Limits by focusing specifically on how information is effectively processed during prompt generation. While Context Processing Limits encompass various aspects of LLMs' ability to handle large amounts of context, Working Memory Constraints zeroes in on the effective capacity for integrating information within prompts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Positional Bias in LLMs**
-> *Identify how information position affects accessibility.*
->
-> ```mermaid
-> graph TD
->   A[Start] --> B[Beginning]
->   A --> C[Middle]
->   A --> D[End]
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   style D fill:#f96,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 2 — Chunking Information Strategy**
-> *Understand how to break down complex data for better processing.*
->
-> ```mermaid
-> graph TD
->   A[Complex Data] --> B[Chunk1]
->   B --> C[Chunk2]
->   C --> D[Chunk3]
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
->   style D fill:#f96,stroke:#333,stroke-width:4px
-> ```
 
 # Working Memory Constraints in Prompts
 

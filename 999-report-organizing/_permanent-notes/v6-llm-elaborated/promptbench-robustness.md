@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,64 +167,6 @@ PromptBench Robustness reveals that LLM benchmark scores can vary significantly 
 > [!connection] **[[Adversarial NLP Attacks]]** — *prerequisite*
 > PromptBench Robustness builds upon the foundational work in adversarial NLP attacks by applying similar principles to evaluate prompt robustness specifically. Understanding how models handle adversarial perturbations is crucial for assessing their reliability and security, making this connection essential.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — PromptBench Linguistic Levels**
-> *Identify the different linguistic levels tested by PromptBench.*
->
-> ```mermaid
-> graph TD
->   A[Character]
->   B[Word]
->   C[Sentence]
->   D[Semantic]
->   A -->|Sub-levels| E[Typos]
->   A -->|Sub-levels| F[Swapping Characters]
->   B -->|Sub-levels| G[Synonym Substitution]
->   B -->|Sub-levels| H[Deleting Words]
->   C -->|Sub-levels| I[Paraphrasing]
->   C -->|Sub-levels| J[Back-Translation]
->   D -->|Sub-levels| K[Meaning-Preserving Reformulation]
-> ```
-
-
-> [!abstract] **Diagram 2 — PromptBench Evaluation Flow**
-> *Understand the process of applying perturbations and evaluating model performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Define Task]
->   C[Systematically Vary Prompts]
->   D[Evaluate Clean vs Perturbed Conditions]
->   E[Compare Model Performance]
->   F[End]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — PromptBench Robustness Impact**
-> *See the variability in model performance across different prompt conditions.*
->
-> ```mermaid
-> graph TD
->   A[Clean Prompt]
->   B[Perturbed Prompts]
->   C[Performance Variability]
->   D[10-30 Percentage Points]
->   A -->|Baseline Performance| E[High Consistency]
->   B -->|Substantial Differences| F[Low Consistency]
->   C -->|Evident in Benchmark Tasks|
->   D -->|Highlighting Sensitivity to Prompt Phrasing|
->   E -->|Reflects Model Robustness|
->   F -->|Indicates Need for Standardized Evaluation]
-> ```
 
 # PromptBench Robustness
 

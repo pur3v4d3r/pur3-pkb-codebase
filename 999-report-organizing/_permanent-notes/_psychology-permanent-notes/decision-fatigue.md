@@ -18,7 +18,7 @@ subdomains:
   - judgment
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - decision-fatigue-synthetic-seed-2026-04-26
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Decision Fatigue Process Flow**
-> *Follow the sequence from initial decision-making to fatigue.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Decision-Making] --> B[Cognitive Resource Depletion]
->   B --> C[Increased Reliance on Defaults]
->   C --> D[Reduced Quality of Decisions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Decision Fatigue in Legal Settings**
-> *Track the decision quality throughout a day for judges.*
->
-> ```mermaid
-> flowchart LR
->   A[Start of Day] --> B[High-Quality Decisions]
->   B --> C[Middle of Day]
->   C --> D[Reduced Quality Decisions]
-> ```
-
-
-> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
-> *Compare intrinsic load (decision fatigue) with extraneous load.*
->
-> ```mermaid
-> graph TD
->   A[Decision Fatigue] --> B(Intrinsic Load)
->   C[Extraneous Load] --> D(Not Contributing to Task)
-> ```
 
 # Decision Fatigue
 

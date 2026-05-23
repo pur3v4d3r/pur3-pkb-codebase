@@ -19,7 +19,7 @@ subdomains:
   - formal-logic
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - equivocation-fallacy-synthetic-seed-2026-05-12
@@ -66,36 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Equivocation Fallacy Process Flow**
-> *Follow the flow to understand how equivocation misleads reasoning.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Term with Multiple Senses]
->   B --> C[Shift in Meaning Within Argument]
->   C --> D[Misleading Reasoning]
->   D --> E[False Premises Accepted]
-> ```
-
-
-> [!abstract] **Diagram 2 — Equivocation vs Other Fallacies**
-> *Compare this fallacy with others to see the unique manipulation of term meanings.*
->
-> ```mermaid
-> graph TD
->   A[Equivocation] -->|Exploits Shift in Meaning| B[False Premises]
->   C[Ad Hominem] -->|Attacks Person, Not Argument| D[Irrelevant Attack]
->   E[Straw Man] -->|Misrepresents Original Argument| F[Fallacy of Misrepresentation]
-> ```
 
 # Equivocation Fallacy
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,42 +152,6 @@ Summarisation as Compression stands out in its ability to dynamically manage and
 > [!connection] **[[Compressive Memory Mechanisms]]** — *specializes*
 > Summarisation as Compression specializes in Compressive Memory Mechanisms by providing a specific method for managing context within language models. This specialization is crucial because it addresses the unique challenges of maintaining coherent conversation histories over extended interactions, which are not fully covered by general compressive memory techniques.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Summarisation Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Context] --> B[Segmentation]
->   B --> C[Summary Generation]
->   C --> D[Context Update]
-> ```
-
-
-> [!abstract] **Diagram 2 — Summarisation Methods Comparison**
-> *Compare the methods based on their summary length and information richness.*
->
-> ```mermaid
-> graph TD
->   A[Rolling Summarization] -->|Shorter Summary| B[Rich Information]
->   C[Hierarchical Summarization] -->|Multi-Level Detail| D[Less Immediate Richness]
->   E[Query-Specific Compression] -->|Focused Summary| F[Highly Relevant Info]
-> ```
-
-
-> [!abstract] **Diagram 3 — Summarisation vs Lossless Compression**
-> *Identify the differences in application and outcome between summarization and lossless compression.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Summarisation as S
->   participant LosslessCompression as L
->   S->>S: Reduces context volume, loses details
->   L->>L: Retains all original data, no detail loss
-> ```
 
 # Summarisation as Compression
 

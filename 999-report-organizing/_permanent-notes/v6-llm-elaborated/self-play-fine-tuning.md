@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,42 +159,6 @@ By integrating the principles of self-play and fine-tuning, SPIN offers a powerf
 > [!connection] **[[Self-Refinement]]** — *specializes*
 > SPIN specializes in self-refinement by enabling language models to iteratively improve their output quality through self-generated feedback. This contrasts with broader forms of self-refinement that may not be specifically tailored for language generation tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Play Fine-Tuning Process Flow**
-> *Follow the iterative feedback loop from generation to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Text] --> B[Evaluate Against Human]
->   B --> C[Refine Output Quality]
->   C --> D[Iterate Improvement]
->   D --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — SPIN vs Supervised Learning Feedback Mechanism**
-> *Compare the feedback sources in SPIN and supervised learning.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Learning] --> B(Human-Labeled Data)
->   C(Self-Play Fine-Tuning) --> D(Model's Own Output)
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Play Iteration Cycle**
-> *Track the progression of model improvement through iterations.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Initial
->   Initial --> Improved : Evaluate & Refine
->   Improved --> Enhanced : Iterate
->   Enhanced --> [*]
-> ```
 
 # Self-Play Fine-Tuning
 

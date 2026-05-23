@@ -17,7 +17,7 @@ subdomains:
   - history-of-cognitive-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-psychology-synthetic-seed-2026-04-24
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Psychology Process Flow**
-> *Follow the stages from input to output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B(Encoding)
->   B --> C(Storage)
->   C --> D(Retrieval)
->   D --> E(Output)
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Psychology Taxonomy**
-> *Explore the hierarchical structure of cognitive processes.*
->
-> ```mermaid
-> graph TD
->   A[Perception] --> B(Attention)
->   B --> C(Memory)
->   C --> D(Language)
->   D --> E(Reasoning)
->   E --> F(Problem-Solving)
-> ```
-
-
-> [!abstract] **Diagram 3 — Declarative vs Procedural Knowledge**
-> *Compare declarative and procedural knowledge types.*
->
-> ```mermaid
-> classDiagram
->   class DeclarativeKnowledge{
->     +Facts: String
->     +Information: String
->   }
->   class ProceduralKnowledge{
->     +Tasks: String
->     +Skills: String
->   }
->   DeclarativeKnowledge <|-- FactsAndInfo
->   ProceduralKnowledge <|-- TasksAndSkills
-> ```
 
 # Cognitive Psychology
 

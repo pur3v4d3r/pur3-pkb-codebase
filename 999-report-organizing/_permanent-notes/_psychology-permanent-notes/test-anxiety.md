@@ -18,7 +18,7 @@ subdomains:
   - achievement-emotions
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - test-anxiety-synthetic-seed-2026-04-25
@@ -67,46 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Test Anxiety Components**
-> *Follow the arrows to see how cognitive worry leads to physiological and behavioral responses.*
->
-> ```mermaid
-> flowchart LR
->   A[Working Memory] --> B[Cognitive Worry]
->   B --> C[Physiological Arousal]
->   B --> D[Behavioral Avoidance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact on Cognitive Load**
-> *Trace the impact of Test Anxiety on cognitive load and performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Cognitive Worry] --> B[Extraneous Load]
->   B --> C[Reduced Working Memory]
->   C --> D[Decreased Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Intervention Strategies**
-> *Identify the different strategies to manage Test Anxiety.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Formative Assessments]
->   C[Counseling & Support] --> D[Relaxation Techniques]
->   E[Parent-Teacher Conferences] --> F[Growth Mindset]
-> ```
 
 # Test Anxiety
 

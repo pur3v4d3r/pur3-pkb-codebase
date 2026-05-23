@@ -19,7 +19,7 @@ subdomains:
   - trauma-studies
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - post-traumatic-growth-synthetic-seed-2026-04-25
@@ -68,46 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — PTG Stages Overview**
-> *Follow the stages from initial distress to positive transformation.*
->
-> ```mermaid
-> graph TD
->   A[Initial Emotional Distress] --> B[Cognitive Processing]
->   B --> C[Reorganization of Beliefs and Values]
->   C --> D[Positive Transformation]
-> ```
-
-
-> [!abstract] **Diagram 2 — PTG vs Resilience Comparison**
-> *Compare PTG's transformative change with resilience's functional continuity.*
->
-> ```mermaid
-> graph TD
->   A[Resilience] -->|Maintains Functioning Through Adversity|
->   B[PTG] -->|Transformative Change Post-Crisis|
->   C[Enhanced Psychological Well-being]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of PTG**
-> *Trace the cognitive processes leading to positive psychological changes.*
->
-> ```mermaid
-> flowchart LR
->   A[Emotional Distress] --> B[Cognitive Struggle]
->   B --> C[Reappraisal and Self-Reflection]
->   C --> D[New Insights and Personal Growth]
-> ```
 
 # Post Traumatic Growth
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,63 +151,6 @@ Addressing underspecification requires a nuanced approach that balances clarity 
 > [!connection] **[[Prompt Brittleness]]** — *specializes*
 > Underspecification in prompts is a specific instance of prompt brittleness, where slight changes or ambiguities in the input can lead to drastically different outputs. This connection highlights how underspecified prompts are particularly prone to brittleness because they lack clear guidance on what constitutes an acceptable response.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Sources of Underspecification**
-> *Identify the different sources that lead to underspecified prompts.*
->
-> ```mermaid
-> graph TD
->   A[Unclear Scope]
->   B[Missing Output Format]
->   C[Audience Specifications]
->   D[Vague Success Criteria]
->   E[Undefined Knowledge Source Boundaries]
->   A -->|Example: Summarize entire document or sections?|
->   B -->|Example: Length and structure constraints missing|
->   C -->|Example: Who is the intended audience?|
->   D -->|Example: What defines success?|
->   E -->|Example: Use only provided text or general knowledge?
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of Underspecification**
-> *Understand how underspecified prompts affect model behavior and output.*
->
-> ```mermaid
-> flowchart LR
->   A[Underspecified Prompt]
->   B[Varying Interpretations]
->   C[Different Behaviors Based on Training Data]
->   D[Consistent Preferred Interpretation]
->   E[Brittleness in Model Responses]
->   F[Large Differences Due to Ambiguity]
->   A -->|Example: Summary without specifying context|
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Key Distinctions in Prompt Design**
-> *Distinguish between underspecified and intentionally vague prompts.*
->
-> ```mermaid
-> classDiagram
->   class Underspecification{
->     +Unintended Consequence of Poor Design
->     +Leads to Variability and Task Failures
->   }
->   class IntentionalVagueness{
->     +Deliberate Choice for Creativity
->     +Encourages Innovation by Leaving Room for Interpretation
->   }
->   Underspecification -->|Example: Ambiguous Instructions|
->   IntentionalVagueness -->|Example: Creative Writing Prompts|
-> ```
 
 # Underspecification in Prompts
 

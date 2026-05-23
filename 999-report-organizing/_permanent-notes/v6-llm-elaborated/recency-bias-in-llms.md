@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,38 +167,6 @@ Addressing recency bias requires a multifaceted approach, combining architectura
 > [!connection] **[[Needle-in-a-Haystack Evaluation]]** — *applies-to*
 > Recency bias in LLMs can complicate needle-in-a-haystack evaluations, where the goal is to find specific information within a large dataset. If recent data points are given undue weight, critical but older information might be overlooked, skewing evaluation outcomes and potentially leading to incorrect conclusions about model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Recency Bias Mechanism**
-> *Follow the causal chain from earlier to later tokens.*
->
-> ```mermaid
-> graph TD
->   A[Earlier Tokens] --> B[Middle Tokens]
->   B --> C[Later Tokens]
-> ```
-
-
-> [!abstract] **Diagram 2 — Recency Bias in Conversations**
-> *Notice how later instructions override earlier ones.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Instruction] --> B[Contradictory Statement]
->   B --> C[Model Output]
-> ```
-
-
-> [!abstract] **Diagram 3 — Recency Bias vs Frequency Bias**
-> *Compare the influence of recent tokens versus frequent elements.*
->
-> ```mermaid
-> graph TD
->   A[Recent Tokens] --> B[Disproportionate Influence]
->   C[Frequent Elements] --> D[Overall Prevalence]
-> ```
 
 # Recency Bias in LLMs
 

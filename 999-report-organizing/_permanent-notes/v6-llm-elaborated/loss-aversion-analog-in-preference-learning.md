@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,40 +160,6 @@ Addressing loss aversion in preference learning is crucial not only for improvin
 > [!connection] **[[Prospect Theory]]** — *applies-to*
 > Loss aversion in preference learning for LLMs is a direct application of prospect theory, which explains how individuals weigh losses more heavily than equivalent gains. This psychological principle helps explain why human raters assign higher penalties to negative outcomes during the training process, leading to overly cautious behavior in trained models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Loss Aversion Impact on LLM Behavior**
-> *Follow the flow from human rater bias to model behavior.*
->
-> ```mermaid
-> flowchart LR
->   HumanRaters["Human Raters"] --> PenaltyAssignment["Assign Higher Penalties"]
->   PenaltyAssignment --> RewardModelTraining["Train Reward Model"]
->   RewardModelTraining --> LLMBehavior["Excessively Cautious Behavior"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Loss Aversion in Preference Learning**
-> *Trace the steps from rater bias to model training and behavior.*
->
-> ```mermaid
-> flowchart LR
->   RaterBias["Rater Bias (Prospect Theory)"] --> NegativeOutcomePenalties["Higher Penalties for Negative Outcomes"]
->   NegativeOutcomePenalties --> RewardModelLearning["Reward Model Learns to Avoid Harm"]
->   RewardModelLearning --> LLMBehavior2["LLM Exhibits Excessive Caution"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact of Loss Aversion in Applications**
-> *Compare instructional design and customer service impacts.*
->
-> ```mermaid
-> graph TD
->   InstructionalDesign["Instructional Design"] --> ConservativeTeachingApproach["Too Conservative Teaching"]
->   CustomerService["Customer Service"] --> AvoidRiskyAdvice["Avoid Risky Advice"]
-> ```
 
 # Loss Aversion Analog in Preference Learning
 

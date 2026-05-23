@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,53 +156,6 @@ LLM evaluation benchmarks play a pivotal role not just in assessing model perfor
 > [!connection] **[[Human-Preference Evaluation]]** — *contrasts-with*
 > LLM evaluation benchmarks often rely on objective metrics derived from standardized datasets, contrasting with human-preference evaluations which gauge model performance based on subjective judgments of quality or preference. This contrast highlights the trade-offs between precision and nuance in evaluating language models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — LLM Evaluation Benchmarks Overview**
-> *Identify the key distinctions between reasoning and commonsense knowledge benchmarks.*
->
-> ```mermaid
-> graph TD
->   A[Reasoning]
->   B(Commonsense Knowledge)
->   C[MMLU]
->   D[HellaSwag]
->   E[WinoGrande]
->   A -->|Example Benchmark| C
->   B -->|Examples| D, E
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM Evaluation Challenges**
-> *Understand the challenges of benchmark saturation and contamination.*
->
-> ```mermaid
-> flowchart LR
->   A[Saturation]
->   B[Contamination]
->   C[Develop New Benchmarks]
->   D[Implement Data Cleaning Protocols]
->   E[Use Out-of-Domain Test Sets]
->   A -->|Solution| C
->   B -->|Solutions| D, E
-> ```
-
-
-> [!abstract] **Diagram 3 — LLM Evaluation Applications**
-> *See how benchmarks are used in instructional design and research comparison.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Designer as D
->   participant Researcher as R
->   participant Benchmark as B
->   D->>B: Assess Instruction Following
->   B-->>D: Feedback on Commonsense Knowledge
->   R->>B: Compare Model Performance
->   B-->>R: Standardized Scores
-> ```
 
 # LLM Evaluation Benchmarks
 

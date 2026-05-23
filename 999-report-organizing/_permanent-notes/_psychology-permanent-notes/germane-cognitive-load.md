@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
@@ -68,48 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Germane Cognitive Load Process Flow**
-> *Follow the steps from initial engagement to schema automation.*
->
-> ```mermaid
-> graph TD
->   A[Engage with Complex Material]
->   B[Integrate New Knowledge]
->   C[Construct Schemas]
->   D[Automate Skills]
->   A -->|Breakdown and Pattern Recognition| B
->   B -->|Active Problem-Solving| C
->   C -->|Repeated Practice| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Germane Cognitive Load in Instructional Design**
-> *Identify how instructional methods enhance schema construction and automation.*
->
-> ```mermaid
-> graph TD
->   A[Problem-Based Learning]
->   B[Spaced Repetition]
->   C[Feedback Mechanisms]
->   D[Technology Integration]
->   E[Spaced Retrieval in MOOCs]
->   F[Enhanced Schema Construction]
->   G[Automated Skills]
->   A -->|Promotes Problem-Solving| F
->   B -->|Reinforces Retention| F
->   C -->|Guides Effective Strategies| F
->   D -->|Personalized Challenges| F
->   E -->|Aids Automation| G
-> ```
 
 # Germane Cognitive Load
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,31 +171,6 @@ By leveraging reflective thinking and dynamic ranking systems like Elo ratings, 
 > [!connection] **[[Elo Rating System]]** — *applies-to*
 > The Elo rating system provides a dynamic framework for updating win rates based on ongoing comparisons. This application enhances the utility of win rate metrics by allowing them to adapt in real-time, reflecting changes in model performance over time and across different evaluation contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Win Rate Calculation Process**
-> *Follow the flow from pairwise comparisons to final win rate.*
->
-> ```mermaid
-> flowchart LR
->   A[Pairwise Comparisons] --> B[Evaluation Inputs]
->   B --> C[Outcomes Determined]
->   C --> D[Aggregate Outcomes]
->   D --> E[Win Rate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Evaluation Metrics**
-> *Compare win rate with accuracy and Elo-style rankings.*
->
-> ```mermaid
-> graph TD
->   A[Win Rate] -->|Comparative Preference| B[A]
->   C[Accuracy] -->|Correctness of Predictions| B
->   D[Elo-Style Rankings] -->|Relative Quality Ordering| B
-> ```
 
 # Win Rate as Evaluation Metric
 

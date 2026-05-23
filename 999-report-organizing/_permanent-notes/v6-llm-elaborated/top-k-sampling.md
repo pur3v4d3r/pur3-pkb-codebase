@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,31 +159,6 @@ Understanding Top-K Sampling within the broader landscape of LLM decoding strate
 > [!connection] **[[Top-P-Nucleus-Sampling]]** — *contrasts-with*
 > Unlike Top-K Sampling, which restricts sampling based on a fixed number of tokens, Top-P-Nucleus-Sampling limits the cumulative probability threshold for token selection. This distinction allows for more flexible control over diversity and coherence depending on the generation context.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Top-K Sampling Process Flow**
-> *Follow the steps from token selection to sampling.*
->
-> ```mermaid
-> flowchart LR
->   A[Model Distribution] --> B[Select Top K]
->   B --> C[Renormalize Probabilities]
->   C --> D[Sample Token]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Other Sampling Methods**
-> *Compare how each method handles token probability.*
->
-> ```mermaid
-> graph TD
->   A[Top-K] -->|Hard cutoff| B[Temperature]
->   A -->|Fixed K| C[Nucleus]
->   B -->|Smooth probabilities| D[All Tokens]
->   C -->|Cumulative threshold| E[Diverse Tokens]
-> ```
 
 # Top-K Sampling
 

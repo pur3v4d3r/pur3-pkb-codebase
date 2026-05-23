@@ -18,7 +18,7 @@ subdomains:
   - theory-evaluation
 
 created: 2026-05-12
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - theoretical-virtues-synthetic-seed-2026-05-12
@@ -67,69 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Theoretical Virtues Overview**
-> *Identify the key virtues and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Scope]
->   B[Integration]
->   C[Simplicity]
->   D[Fruitfulness]
->   E[Consistency]
->   F[Depth]
->   A -->|Influences| C
->   B -->|Supports| C
->   C -->|Enhances| D
->   D -->|Expands| A
->   E -->|Ensures| C
->   F -->|Deepens| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
-> *Compare the processes of reflective and reactive thinking.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Reflective as R
->   participant Reactive as Re
->   R->>R: Deliberately consider virtues
->   R-->>Re: Weigh multiple criteria
->   Re->>Re: Intuitively prefer simplicity or scope
->   Re-->>R: Make immediate judgments
-> ```
-
-
-> [!abstract] **Diagram 3 — Evidential vs Non-Evidential Criteria**
-> *Distinguish between evidential and non-evidential criteria.*
->
-> ```mermaid
-> graph TD
->   A[Empirical Support]
->   B[Predictive Accuracy]
->   C[Simplicity]
->   D[Integration]
->   E[Fruitfulness]
->   F[Depth]
->   subgraph Evidential Criteria
->     A -->|Supports| B
->   end
->   subgraph Theoretical Virtues
->     C -->|Enhances| D
->     D -->|Expands| E
->     E -->|Deepens| F
->   end
-> ```
 
 # Theoretical Virtues
 

@@ -18,7 +18,7 @@ subdomains:
   - study-skills
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - active-note-making-synthetic-seed-2026-04-24
@@ -65,99 +65,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Active Note Making Process Flow**
-> *Follow the sequence from input to output, noting key cognitive operations.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Paraphrasing]
->   C[Self-Explanation]
->   D[Question Generation]
->   E[Output]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Active vs Passive Note Making Comparison**
-> *Compare the cognitive operations in active and passive note making.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B1[Transcription]
->   C1[Summary]
->   D1[Output]
->   E1[Passive]
->   F1[Surface-Level]
->   G1[Superficial Learning]
->   H1[Low Retention]
->   I1[Extraneous Load]
->   A --> B1
->   B1 --> C1
->   C1 --> D1
->   D1 --> E1
->   E1 --> F1
->   F1 --> G1
->   G1 --> H1
->   H1 --> I1
->   J[Input]
->   K[Paraphrasing]
->   L[Self-Explanation]
->   M[Question Generation]
->   N[Output]
->   O[Active]
->   P[Deep Processing]
->   Q[Durable Understanding]
->   R[High Retention]
->   S[Intrinsic Load]
->   J --> K
->   K --> L
->   L --> M
->   M --> N
->   N --> O
->   O --> P
->   P --> Q
->   Q --> R
->   R --> S
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Operations in Active Note Making**
-> *Identify the cognitive operations involved and their impact on learning.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Paraphrasing]
->   C[Self-Explanation]
->   D[Question Generation]
->   E[Output]
->   F[Durable Understanding]
->   G[High Retention]
->   H[Intrinsic Load Reduction]
->   I[Enhanced Comprehension]
->   A --> B
->   B -->|Simplifies Complex Ideas| C
->   C -->|Explains Concepts| D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   H --> I
-> ```
 
 # Active Note Making
 

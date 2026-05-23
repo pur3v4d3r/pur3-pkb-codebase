@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,41 +165,6 @@ Empirical evidence underscores the importance of Financial Analysis Prompting in
 > [!connection] **[[Ethical Reasoning Prompting]]** — *contrasts-with*
 > While Financial Analysis Prompting focuses on ensuring the accuracy and timeliness of financial data used in analyses, Ethical Reasoning Prompting deals with guiding LLMs to make decisions based on ethical principles. The contrast lies in their primary objectives: one aims for factual correctness, while the other emphasizes moral considerations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Financial Analysis Workflow**
-> *Follow the flow from data input to model output.*
->
-> ```mermaid
-> flowchart LR
->   A[Current Financial Data] --> B[Prompt Structure]
->   B --> C[LLM Processing]
->   C --> D[Output Analysis]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Engineering Focus Areas**
-> *Identify the key distinctions between financial and general data analysis.*
->
-> ```mermaid
-> graph TD
->   A[Financial Analysis Prompting] --> B(Current Data)
->   A --> C(Regulatory Compliance)
->   D[General Data-Analysis Prompting] --> E(Broader Datasets)
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *See the different applications of financial analysis prompting.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] --> B(Ensure Accuracy)
->   C[Regulatory Compliance] --> D(Included Disclaimers)
->   E[Risk Assessment] --> F(Current Market Insights)
-> ```
 
 # Financial Analysis Prompting
 

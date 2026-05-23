@@ -18,7 +18,7 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - maps-of-content-synthetic-seed-2026-04-25
@@ -66,56 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Maps of Content Structure**
-> *Follow the flow from atomic notes to thematic categories and logical sequences.*
->
-> ```mermaid
-> graph TD
->   A[Atomic Notes] --> B[Thematic Categories]
->   B --> C[Logical Sequences]
-> ```
-
-
-> [!abstract] **Diagram 2 — Maps of Content vs Evergreen Notes**
-> *Compare the navigational scaffolding provided by Maps of Content with the evolving nature of Evergreen Notes.*
->
-> ```mermaid
-> classDiagram
->   class Atomic_Notes{
->     +Content: Raw Knowledge Pieces
->   }
->   class Thematic_Categories{
->     +Structure: Grouped Themes
->   }
->   class Logical_Sequences{
->     +Navigation: Curated Paths
->   }
->   class Evergreen_Notes{
->     +Evolution: Single Document Updates
->   }
->   Atomic_Notes -->|Curate Into| Thematic_Categories
->   Thematic_Categories -->|Sequence For| Logical_Sequences
->   Evergreen_Notes --|Single Evolving Doc|-> Logical_Sequences
-> ```
-
-
-> [!abstract] **Diagram 3 — Maps of Content Creation Process**
-> *Trace the steps from identifying atomic notes to creating thematic categories and logical sequences.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Atomic Notes] --> B[Group Into Thematic Categories]
->   B --> C[Weave Into Logical Sequences]
-> ```
 
 # Maps of Content
 

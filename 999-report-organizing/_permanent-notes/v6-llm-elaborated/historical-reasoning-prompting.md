@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,50 +151,6 @@ By integrating Historical Reasoning Prompting into various applications, from ed
 > [!connection] **[[Claim Strength Calibration]]** — *supports*
 > Historical Reasoning Prompting supports Claim Strength Calibration by guiding LLMs to distinguish between primary evidence, secondary interpretations, and current scholarly consensus. This calibration is essential for generating accurate historical narratives that reflect the complexity of historiographical debates.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Historical Reasoning Workflow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Context] --> B[Specify Period]
->   B --> C[Geographical Scope]
->   C --> D[Historiographical Debates]
->   D --> E[Prompt LLM]
->   E --> F[Generate Analysis]
-> ```
-
-
-> [!abstract] **Diagram 2 — Historical Reasoning Challenges**
-> *Identify the challenges addressed by Historical Reasoning Prompting.*
->
-> ```mermaid
-> graph TD
->   A[Incomplete Records] --> B[Bias]
->   C[Varying Interpretations] --> D[Causal Inferences]
->   E[Avoid Anachronisms] --> F[Simplified Conclusions]
-> ```
-
-
-> [!abstract] **Diagram 3 — Historical Reasoning vs General Prompt Engineering**
-> *Compare the focus areas of Historical Reasoning and general prompt engineering.*
->
-> ```mermaid
-> classDiagram
->   class HistoricalReasoning {
->     +Specify Period
->     +Geographical Scope
->     +Historiographical Debates
->   }
->   class GeneralPromptEngineering {
->     +Various Domains
->     -Specific to History
->   }
->   HistoricalReasoning -->|Focuses On| GeneralPromptEngineering
-> ```
 
 # Historical Reasoning Prompting
 

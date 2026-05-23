@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,50 +161,6 @@ The study of emergent abilities in LLMs not only illuminates fundamental aspects
 > [!connection] **[[Phase Transitions in LLMs]]** — *contrasts-with*
 > While both concepts deal with sharp changes in model behavior, phase transitions typically refer to abrupt shifts in performance across a range of tasks due to intrinsic properties of the model architecture or training process. In contrast, emergent abilities focus on specific capabilities that appear suddenly at certain scale thresholds, often tied to task-specific benchmarks rather than broad performance metrics.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Emergent Abilities Thresholds**
-> *Identify the scale thresholds where emergent abilities appear.*
->
-> ```mermaid
-> graph TD
->   A[Small Scale]
->   B[Moderate Scale]
->   C[Larger Scale]
->   D[Huge Scale]
->   A -->|No Emergent Abilities| B
->   B -->|Multi-Step Arithmetic| C
->   C -->|Chain-of-Thought Reasoning| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Evaluation Metrics Debate**
-> *Understand the debate between pass/fail and continuous metrics.*
->
-> ```mermaid
-> sequenceDiagram
->   participant WeiEtAl as WE
->   participant SchaefferEtAl as SE
->   WE->>SE: Documented sharp transitions using BIG-Bench
->   SE-->>WE: Argued for nonlinear evaluation artifacts
-> ```
-
-
-> [!abstract] **Diagram 3 — Safety Evaluation Protocols**
-> *Monitor and test rigorously at scale increases to ensure safety.*
->
-> ```mermaid
-> flowchart LR
->   A[Scale Increase]
->   B[Rigorous Testing]
->   C[Mitigate Risks]
->   D[Unforeseen Behaviors]
->   A -->|Potential Emergent Abilities| B
->   B -->|Identify New Capabilities| C
->   C -->|Prevent Unintended Outcomes| D
-> ```
 
 # Emergent Abilities in LLMs
 

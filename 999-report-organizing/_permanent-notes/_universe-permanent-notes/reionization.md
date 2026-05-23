@@ -19,7 +19,7 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - reionization-synthetic-seed-2026-05-14
@@ -68,49 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reionization Process Flowchart**
-> *Follow the sequence of events from dark ages to reionization.*
->
-> ```mermaid
-> flowchart LR
->   A[Dark Ages] --> B[First Stars/Galaxies]
->   B --> C[Ultraviolet Radiation]
->   C --> D[Ionized IGM]
->   D --> E[Cosmic Dawn]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reionization Sources and Effects**
-> *Identify the sources of UV radiation and their effects on neutral hydrogen.*
->
-> ```mermaid
-> graph TD
->   A[Early Galaxies] --> B[Ultraviolet Radiation]
->   C[Quasars] --> B
->   B --> D[Ionized Hydrogen]
->   D --> E[Bubbles Merge]
-> ```
-
-
-> [!abstract] **Diagram 3 — Observational Methods for Reionization**
-> *Trace the observational methods used to study reionization.*
->
-> ```mermaid
-> flowchart LR
->   A[CMB Polarisation] --> B[Optical Depth]
->   C[Lyman-alpha Forest Absorption] --> D[Gunn-Peterson Trough]
->   E[21-cm Radiation Observations] --> F[Morphology and Timing]
->   G[JWST Contributions] --> H[Distant Galaxies]
-> ```
 
 # Reionization
 

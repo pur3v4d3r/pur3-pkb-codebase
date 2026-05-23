@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,47 +156,6 @@ By recognizing and addressing framing effects, stakeholders can enhance the reli
 > [!connection] **[[Semantic Equivalence in Prompts]]** — *applies-to*
 > Framing effects on LLM outputs apply to semantic equivalence in prompts by demonstrating that even when two prompts are logically equivalent, differences in how they are framed can lead to distinct model responses. This underscores the importance of considering presentation nuances beyond mere content similarity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Framing Effects Process Flow**
-> *Follow the flow from prompt framing to model response.*
->
-> ```mermaid
-> flowchart LR
->   A[Positive Framing] --> B1[Model Response]
->   C[Negative Framing] --> B2[Model Response]
->   D[Same Underlying Facts] --> B1
->   D --> B2
-> ```
-
-
-> [!abstract] **Diagram 2 — Framing vs Other Biases Comparison**
-> *Compare framing effects with other biases in LLM outputs.*
->
-> ```mermaid
-> graph TD
->   A[Confirmation Bias] -->|Favors aligned info|
->   B[Framing Effects] -->|Presentation style only|
->   C[Availability Heuristic] -->|Recent info favored|
->   D[Same Model Output]
->   A --> D
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Framing Effects**
-> *Identify areas where framing effects impact LLM outputs.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B1[Encouraging Feedback]
->   C[Risk Communication] --> D1[Engagement & Compliance]
->   E[Framing Effects Sensitivity] --> B2[Divergent Evaluations]
->   F[Consistent Messaging] --> D2[Align with Risk Tolerance]
-> ```
 
 # Framing Effects on LLM Outputs
 

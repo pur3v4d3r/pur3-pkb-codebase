@@ -18,7 +18,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curiosity-synthetic-seed-2026-04-25
@@ -66,58 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Curiosity Variants Overview**
-> *Identify the two types of curiosity and their triggers.*
->
-> ```mermaid
-> graph TD
->   A[Perceptual Curiosity]
->   B[Epistemic Curiosity]
->   A -->|Novelty in Environment|
->   B -->|Knowledge Gap Awareness|
-> ```
-
-
-> [!abstract] **Diagram 2 — Curiosity-Driven Learning Process**
-> *Follow the flow from curiosity trigger to learning outcome.*
->
-> ```mermaid
-> flowchart LR
->   A[Trigger]
->   B[Cognitive Disequilibrium]
->   C[Seek Resolution]
->   D[Learning Outcome]
->   A -->|Perceptual or Epistemic|
->   B
->   B -->|Explore and Learn|
->   C
->   C -->|Deep Processing|
->   D
-> ```
-
-
-> [!abstract] **Diagram 3 — Curiosity in Instructional Design**
-> *See how instructional design leverages curiosity.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Teacher as T
->   participant Platform as P
->   S->>T: Encounter Knowledge Gap
->   T->>S: Pose Open-Ended Question
->   S->>P: Engage with Adaptive Assessment
->   P->>S: Receive Personalized Recommendations
-> ```
 
 # Curiosity
 

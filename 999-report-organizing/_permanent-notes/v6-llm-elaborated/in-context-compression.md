@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -181,53 +177,6 @@ Empirical evidence highlights that learned compression methods achieve substanti
 > [!connection] **[[Token-Efficient Prompting]]** — *specializes*
 > In-Context Compression specializes in Token-Efficient Prompting by focusing specifically on the compression of input contexts. This specialization allows it to address unique challenges such as maintaining task relevance and performance while significantly reducing token counts, making it a powerful tool within the broader framework of efficient prompting techniques.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — In-Context Compression Process Flow**
-> *Follow the flow from context analysis to generation task.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Context] --> B[Analysis]
->   B --> C[Learned/Extractive]
->   subgraph LearnedCompression
->     D[Train Model]
->     E[Generate Summary]
->   end
->   subgraph ExtractiveApproach
->     F[Select Tokens]
->   end
->   C -->|Learned| D
->   D --> E
->   C -->|Extractive| F
->   E --> G[Prefix for Generation]
->   F --> G
-> ```
-
-
-> [!abstract] **Diagram 2 — Compression Methods Comparison**
-> *Compare learned and extractive methods in terms of compression ratio and performance.*
->
-> ```mermaid
-> graph TD
->   A[Learned Compression] -->|High Ratio| B[Good Performance]
->   C[Extractive Approach] -->|Lower Ratio| D[Adequate Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — In-Context Compression Workflow**
-> *Trace the workflow from context to compressed representation.*
->
-> ```mermaid
-> flowchart LR
->   A[Original Context] --> B[Analysis]
->   B --> C[Token Selection]
->   C --> D[Compression Model]
->   D --> E[Compact Representation]
->   E --> F[Prefix for Generation]
-> ```
 
 # In-Context Compression
 

@@ -17,7 +17,7 @@ subdomains:
   - relationship-research
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - relationship-motivation-theory-synthetic-seed-2026-04-24
@@ -65,61 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Relationship Motivation Theory Overview**
-> *Identify the core components of RMT and their interrelations.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Relatedness]
->   C[Satisfaction]
->   D[Dissolution]
->   A -->|Support| C
->   A -->|Thwarting| D
->   B -->|Support| C
->   B -->|Thwarting| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
-> *Understand the feedback loop between need support and relationship quality.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Support
->   Support --> Satisfaction : Foster self-endorsement
->   Satisfaction --> Commitment : Increase
->   Commitment --> Support : Continue cycle
->   [*] --> Thwarting
->   Thwarting --> Frustration : Feelings of frustration, resentment
->   Frustration --> Distress : Relationship distress
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Examples in Relationships**
-> *See how RMT principles apply to different relationship contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Couples Therapy|
->   B[Personal Development] -->|Individuals|
->   C[Parent-Child] -->|Parents & Children|
->   A -->|Shared Decision-Making|
->   B -->|Active Listening|
->   C -->|Open Communication|
->   A -->|Joint Problem-Solving|
->   B -->|Setting Boundaries|
->   C -->|Emotional Support
-> ```
 
 # Relationship Motivation Theory
 

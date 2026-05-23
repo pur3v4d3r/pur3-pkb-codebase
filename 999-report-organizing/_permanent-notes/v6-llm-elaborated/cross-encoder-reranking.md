@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,68 +152,6 @@ By integrating reflective thinking through detailed query-document analysis, cro
 > [!connection] **[[Dense Retrieval]]** — *applies-to*
 > Cross-encoder reranking builds upon the foundational work of dense retrieval by enhancing its precision. Dense retrievers provide a broad set of candidate documents, which cross-encoders then refine through detailed query-document pair analysis, ensuring that only the most relevant and contextually appropriate documents are selected.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Cross-Encoder Reranking Process Flow**
-> *Follow the flow from initial retrieval to final reranking.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Retrieval]
->   B[Top-k Candidates]
->   C[Candidate Scoring]
->   D[Reranked Documents]
->   A --> B
->   B -->|Cross-Encoder|
->   C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Cross-Encoders and Bi-Encoders**
-> *Compare the joint encoding vs separate encoding approaches.*
->
-> ```mermaid
-> graph TD
->   A[Query]
->   B[Document]
->   C[Cross-Encoder]
->   D[Bi-Encoder]
->   E[Joint Encoding]
->   F[Separate Encoding]
->   G[Precise Relevance]
->   H[Limited Interaction]
->   A -->|Joint|
->   C
->   B -->|Joint|
->   C
->   C --> G
->   A -->|Separate|
->   D
->   B -->|Separate|
->   D
->   D --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Cross-Encoder Reranking Workflow**
-> *Trace the workflow from query to final document ranking.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Query as Q
->   participant CrossEncoder as CE
->   participant Document1 as D1
->   participant Document2 as D2
->   participant FinalRanking as FR
->   Q->>CE: Encode(Query,Document1)
->   CE-->>FR: Score1
->   Q->>CE: Encode(Query,Document2)
->   CE-->>FR: Score2
->   FR->>Q: RankedDocuments
-> ```
 
 # Cross-Encoder Reranking
 

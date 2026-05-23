@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -69,48 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Monitoring Process Flowchart**
-> *Follow the flow from state awareness to control decisions.*
->
-> ```mermaid
-> flowchart LR
->   A[State Awareness] --> B[Vocabulary Naming]
->   B --> C[Signal Generation]
->   C --> D[Control Decisions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Monitoring Mechanism Stages**
-> *Trace the stages from awareness to action through monitoring.*
->
-> ```mermaid
-> graph TD
->   A[State Awareness] --> B[Vocabulary Naming]
->   B --> C[Signal Generation]
->   C --> D[Control Inputs]
->   D --> E[Action Adjustment]
-> ```
-
-
-> [!abstract] **Diagram 3 — Monitoring Vocabulary Influence**
-> *Compare the impact of precise vs. vague vocabulary on monitoring.*
->
-> ```mermaid
-> graph TD
->   A[Vague Vocabulary] --> B[Inaccurate Signals]
->   C[Precise Vocabulary] --> D[Accurate Signals]
->   B --> E[Suboptimal Actions]
->   D --> F[Optimal Actions]
-> ```
 
 # Monitoring as Vocabulary-Dependent Signal Generation
 

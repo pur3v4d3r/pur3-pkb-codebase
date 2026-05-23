@@ -18,7 +18,7 @@ subdomains:
   - epistemology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - burden-of-proof-synthetic-seed-2026-05-12
@@ -65,63 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Claim Types & Burden of Proof**
-> *Identify the burden based on claim type.*
->
-> ```mermaid
-> graph TD
->   A[Positive Existence Claim] --> B(Requires Substantiation)
->   C[Negative Non-Existence Claim] --> D(Easier to Disprove)
->   E[Affirmative Statement] --> F(More Evidence Needed)
->   G[Negative Statement] --> H(Less Evidence Needed)
-> ```
-
-
-> [!abstract] **Diagram 2 — Burden of Proof Flowchart**
-> *Follow the flow to understand claim substantiation.*
->
-> ```mermaid
-> flowchart LR
->   A[Claim Made] --> B{Is it Affirmative?}
->   B -- Yes --> C(Provide Evidence)
->   B -- No --> D(Easier to Disprove)
->   C --> E[Opposing Party Responds]
->   D --> F[Opposing Party Can Refute]
-> ```
-
-
-> [!abstract] **Diagram 3 — Burden of Proof vs Appeal to Ignorance**
-> *Compare the logical structures of both concepts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Claimant
->   participant B as Opponent
->   participant C as Audience
->   A->>C: Makes a claim without evidence
->   alt Burden of Proof
->     C-->>A: Requests Evidence
->     loop Until Satisfied
->       A->>C: Provides Evidence
->     end
->     opt If Satisfied
->       C-->>B: Presents Evidence to Opponent
->     else If Unsatisfied
->       C-->>B: Rejects Claim
->     end
->   else Appeal to Ignorance
->     C-->>A: Accepts Claim Due to Lack of Counter-Evidence
->   end
-> ```
 
 # Burden Of Proof
 

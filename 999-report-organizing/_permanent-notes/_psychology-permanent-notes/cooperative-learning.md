@@ -18,7 +18,7 @@ subdomains:
   - social-learning
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cooperative-learning-synthetic-seed-2026-04-25
@@ -68,38 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cooperative Learning Conditions**
-> *Identify the five conditions for effective cooperative learning.*
->
-> ```mermaid
-> graph TD
->   A[Positive Interdependence] --> B[Individual Accountability]
->   B --> C[Promotive Interaction]
->   C --> D[Social Skills Use]
->   D --> E[Structured Processing]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cooperative Learning Mechanism**
-> *Understand the processes that enhance learning outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Positive Interdependence] --> B[Fosters Support]
->   C[Individual Accountability] --> D[Prevents Free-Riding]
->   E[Promotive Interaction] --> F[Enhances Understanding]
->   G[Social Skills Use] --> H[Eases Communication]
->   I[Structured Processing] --> J[Improves Reflection]
-> ```
 
 # Cooperative Learning
 

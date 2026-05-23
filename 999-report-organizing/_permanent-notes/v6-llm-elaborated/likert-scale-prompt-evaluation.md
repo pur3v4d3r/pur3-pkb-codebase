@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,43 +161,6 @@ By integrating reflective thinking principles and addressing motivational factor
 > [!connection] **[[Pairwise Preference Evaluation]]** — *contrasts-with*
 > Unlike Likert-scale evaluations which assign absolute scores to outputs based on predefined criteria, pairwise preference ratings involve direct comparisons between two outputs. This method can be more intuitive for evaluators but may overlook the nuanced gradations captured by Likert scales, highlighting a trade-off in evaluation precision and simplicity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Likert-Scale Evaluation Process**
-> *Follow the flow from prompt to final evaluation score.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Evaluator]
->   B --> C[Ratings Scale]
->   C --> D[Average Score]
-> ```
-
-
-> [!abstract] **Diagram 2 — Likert-Scale vs Rubric-Based Evaluation**
-> *Compare the simplicity and precision of Likert-scale versus rubrics.*
->
-> ```mermaid
-> graph TD
->   A[Likert Scale]
->   B[Rubric Based]
->   A -->|Simple Ordinal Scale|
->   B -->|Detailed Criteria Levels|
-> ```
-
-
-> [!abstract] **Diagram 3 — Likert-Scale vs Pairwise Preference Ratings**
-> *Compare Likert-scale with direct comparison method.*
->
-> ```mermaid
-> graph TD
->   A[Likert Scale]
->   B[Pairwise Preference]
->   A -->|Absolute Scores|
->   B -->|Direct Comparisons|
-> ```
 
 # Likert-Scale Prompt Evaluation
 

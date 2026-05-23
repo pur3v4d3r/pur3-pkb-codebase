@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,39 +160,6 @@ Semantic priming effects highlight both opportunities and challenges for prompt 
 > [!connection] **[[Prototype Theory and LLMs]]** — *applies-to*
 > Semantic priming effects in LLMs are closely tied to prototype theory, which posits that concepts are represented by a typical or central example. When an initial prompt primes the model with terms related to a specific concept, it activates the associated prototype within the model's knowledge base, influencing subsequent text generation towards more prototypical examples and characteristics.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Semantic Priming Process Flow**
-> *Follow the flow from initial input to model output, noting how semantic priming influences each step.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Input] --> B[Prompt Processing]
->   B --> C[Internal Associations]
->   C --> D[Generated Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic Priming vs Direct Instruction**
-> *Compare the implicit influence of semantic priming with explicit direct instruction in guiding model output.*
->
-> ```mermaid
-> graph TD
->   A[Direct Instruction] -->|Explicit Commands| E[Model Output]
->   B[Semantic Priming] -->|Contextual Cues| F[Generated Text]
-> ```
-
-
-> [!abstract] **Diagram 3 — Priming Effects in Different Domains**
-> *Observe how semantic priming impacts various domains such as instructional design and content moderation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Contextual Cues| B[Coherent Content]
->   C[Content Moderation] -->|Initial Prompts| D[Harmful Content]
-> ```
 
 # Semantic Priming Effects
 

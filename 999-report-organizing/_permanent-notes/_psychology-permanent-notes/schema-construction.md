@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
@@ -72,46 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Schema Construction Process Flow**
-> *Follow the stages from identifying elements to working memory processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Elements] --> B[Organize Hierarchically]
->   B --> C[Integrate into LTM]
->   C --> D[Access as Chunk in WM]
-> ```
-
-
-> [!abstract] **Diagram 2 — Schema Refinement Process**
-> *Observe the continuous cycle of assimilation and accommodation.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Assimilate
->   Assimilate --> Accommodate : New Info Fits
->   Accommodate --> Assimilate : Adjust Schema
->   Accommodate --> [*] : End
-> ```
-
-
-> [!abstract] **Diagram 3 — Schema Construction in Learning Environments**
-> *Trace the flow from instructional design to expertise development.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Self-Directed Learning]
->   B --> C[Expertise Development]
-> ```
 
 # Schema Construction
 

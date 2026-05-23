@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -181,49 +177,6 @@ Empirical studies have shown that providing concrete input-output examples in pr
 > [!connection] **[[Incremental Elaboration]]** — *specializes*
 > Code Generation Prompting specializes in Incremental Elaboration by breaking down complex coding tasks into manageable steps. This approach allows developers to iteratively refine code, ensuring that each part meets the specified requirements before moving on to the next.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Code Generation Process Flow**
-> *Follow the steps from initial prompt to final refinement.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Basic Functionality]
->   B --> C[Performance Feedback]
->   C --> D[Security Checks]
->   D --> E[Maintainability Refinement]
-> ```
-
-
-> [!abstract] **Diagram 2 — Code Generation Taxonomy**
-> *Identify the key components of Code Generation Prompting.*
->
-> ```mermaid
-> graph TD
->   A[Functional Requirements] --> B[Test Cases]
->   A --> C[Performance Constraints]
->   A --> D[Coding Styles]
-> ```
-
-
-> [!abstract] **Diagram 3 — Incremental Elaboration Workflow**
-> *See how incremental steps build complex solutions.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   U->>M: Initial Prompt
->   M-->>U: Basic Code Output
->   U->>M: Feedback on Performance
->   M-->>U: Improved Code Output
->   U->>M: Security Checks Requested
->   M-->>U: Secure Code Output
->   U->>M: Maintainability Enhancements Sought
->   M-->>U: Final Refinement
-> ```
 
 # Code Generation Prompting
 

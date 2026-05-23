@@ -18,7 +18,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
@@ -67,63 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Controlled Motivation Types**
-> *Identify the two types of controlled motivation and their sources.*
->
-> ```mermaid
-> graph TD
->   A[External Regulation]
->   B[Introjected Regulation]
->   C[Pressure from Others]
->   D[Internalized Obligation]
->   A -->|Compliance with Demands| C
->   B -->|Obligation Based on Values| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Motivation Continuum**
-> *Compare controlled motivation to autonomous motivation along the regulatory style continuum.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Motivation]
->   B[Integrated Regulation]
->   C[Identified Regulation]
->   D[Introjected Regulation]
->   E[External Regulation]
->   F[Controlled Motivation]
->   G[Autonomous Motivation]
->   H[Controlled Motivation]
->   A -->|Intrinsic Enjoyment| B
->   B -->|Fully Internalized Values| C
->   C -->|Personal Value Recognition| D
->   D -->|Obligation Based on Values| E
->   F -->|Pressure from Others or Self| G
->   H -->|Poorer Well-Being Outcomes|
-> ```
-
-
-> [!abstract] **Diagram 3 — Controlled Motivation Mechanisms**
-> *Understand the mechanisms leading to controlled motivation.*
->
-> ```mermaid
-> graph TD
->   A[External Regulation]
->   B[Introjected Regulation]
->   C[Fear of Negative Consequences]
->   D[Sense of Obligation Based on Values]
->   A -->|Compliance with Demands from Others| C
->   B -->|Internalized Pressures| D
-> ```
 
 # Controlled Motivation
 

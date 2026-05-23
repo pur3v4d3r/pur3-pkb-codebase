@@ -21,7 +21,7 @@ subdomains:
   - reinforcement-learning-from-human-feedback
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - best-of-n-sampling-synthetic-seed-2026-05-20
@@ -72,50 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Best-of-N Sampling Process Flow**
-> *Follow the steps from prompt to final selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Generate N Candidates]
->   B --> C[Evaluate with External Scoring Function]
->   C --> D[Select Best Candidate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Best-of-N vs Temperature Sampling Comparison**
-> *Compare the two methods in terms of their approach to output improvement.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Best-of-N: Generate N Candidates & Select Best]
->   C[Temperature: Modify Token Probabilities During Inference]
->   A -->|Generate Outputs| B
->   A -->|Modify Output Distribution| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Sampling Methods**
-> *Identify the decision-making process of each method.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Best-of-N: Reflective - Generate & Evaluate Options]
->   C[Temperature: Reactive - Immediate Decision Based on Probabilities]
->   A -->|Reflective Process| B
->   A -->|Reactive Process| C
-> ```
 
 # Best-of-N Sampling
 

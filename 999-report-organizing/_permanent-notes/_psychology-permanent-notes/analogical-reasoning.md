@@ -17,7 +17,7 @@ subdomains:
   - problem-solving
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - analogical-reasoning-synthetic-seed-2026-04-24
@@ -66,47 +66,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Analogical Reasoning Process Flow**
-> *Follow the flow from source to target domain mapping.*
->
-> ```mermaid
-> flowchart LR
->   A[Source Domain] --> B[Identify Structural Similarities]
->   B --> C[Map Correspondences]
->   C --> D[Transfer Knowledge]
->   D --> E[Target Domain]
-> ```
-
-
-> [!abstract] **Diagram 2 — Structure-Mapping Theory Hierarchy**
-> *Trace the hierarchy from surface to structural similarities.*
->
-> ```mermaid
-> graph TD
->   A[Surface-Level Similarities] --> B[Structural Similarities]
->   B --> C[Relational Correspondences]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cultural Context in Analogical Reasoning**
-> *Compare the effectiveness of analogies across cultural contexts.*
->
-> ```mermaid
-> flowchart LR
->   A[U.S. Students] --> B[Individualistic Analogies]
->   C[Jap. Students] --> D[Communal Analogies]
->   B --> E[Effective for U.S.] & F[Less Effective]
->   D --> G[Less Effective] & H[Effective for Jap.]
-> ```
 
 # Analogical Reasoning
 

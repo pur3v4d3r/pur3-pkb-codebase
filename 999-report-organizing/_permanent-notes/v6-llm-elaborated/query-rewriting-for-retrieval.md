@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,31 +175,6 @@ Empirical evidence supports the effectiveness of HyDE in scenarios where there i
 > [!connection] **[[Information Retrieval]]** — *applies-to*
 > Query rewriting for retrieval directly applies to the broader field of information retrieval by enhancing how user queries are processed and matched against document collections. This technique addresses a core challenge in IR: aligning user intent with available information, thereby improving search outcomes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Query Rewriting Process Flow**
-> *Follow the flow from user query to document retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[User Query] --> B(LLM Paraphrasing)
->   B --> C[Hypothetical Document Generation]
->   C --> D(Document Retrieval)
-> ```
-
-
-> [!abstract] **Diagram 2 — HyDE vs Multi-Query Expansion**
-> *Compare HyDE and multi-query expansion approaches.*
->
-> ```mermaid
-> graph TD
->   A[Original Query] --> B[Hypothetical Document]
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   A --> C[Multiple Paraphrases]
->   style C fill:#6f9,stroke:#333,stroke-width:4px
-> ```
 
 # Query Rewriting for Retrieval
 

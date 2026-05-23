@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,48 +169,6 @@ The Constitutional AI Data Pipeline not only advances technical capabilities in 
 > [!connection] **[[Iterative Preference Learning]]** — *applies-to*
 > The Constitutional AI Data Pipeline applies iterative preference learning by refining model outputs through successive rounds of critique and revision. This iterative process ensures that the model's behavior aligns more closely with ethical principles over time, making it a practical application of iterative preference learning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Constitutional AI Data Pipeline Overview**
-> *Follow the flow from initial generation to reinforcement learning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Generation] --> B[Critique Against Constitution]
->   B --> C[Revisions and Pairs Creation]
->   C --> D[Fine-Tuning with AI-Labeled Data]
->   D --> E[Preference Model Training]
->   E --> F[Guided Reinforcement Learning]
-> ```
-
-
-> [!abstract] **Diagram 2 — Constitutional Principles in CAI Pipeline**
-> *Identify how constitutional principles guide each stage of the pipeline.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Learning] --> B[Critique Against Constitution]
->   C[Fine-Tuning with AI-Labeled Data] --> D[Preference Model Training]
->   E[Guided Reinforcement Learning]
->   B -->|Constitutional Principles| C
->   D -->|Constitutional Principles| E
-> ```
-
-
-> [!abstract] **Diagram 3 — CAI vs RLHF Comparison**
-> *Compare the refusal behaviors of CAI-trained models with those trained via RLHF.*
->
-> ```mermaid
-> sequenceDiagram
->   participant CAI as Constitutional AI Pipeline
->   participant RLHF as Reinforcement Learning from Human Feedback
->   CAI->>CAI: Generates and Critiques Outputs Against Constitution
->   CAI-->>RLHF: Improved Refusal Behaviors
->   RLHF->>RLHF: Relies on Human Preferences for Rewards
->   RLHF-->>CAI: Less Effective in Handling Ethical Nuances
-> ```
 
 # Constitutional AI Data Pipeline
 

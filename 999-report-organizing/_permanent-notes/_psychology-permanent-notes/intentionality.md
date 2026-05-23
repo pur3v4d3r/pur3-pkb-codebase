@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - intentionality-synthetic-seed-2026-04-25
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Intentionality Process Flow**
-> *Follow the flow from perception to belief formation.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Integration]
->   B --> C[Evaluation]
->   C --> D[Belief]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intentionality Taxonomy**
-> *Identify the types of mental states that exhibit intentionality.*
->
-> ```mermaid
-> graph TD
->   A[Beliefs] --> B[Intentional]
->   C[Desires] --> B
->   D[Perceptions] --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Intentionality in AI Systems**
-> *Trace the interaction between perception and decision-making.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Perception as P
->   participant DecisionMaking as D
->   P->>D: Interpret symptoms
->   D-->>P: Focus attention
->   P->>D: Recognize patterns
-> ```
 
 # Intentionality
 

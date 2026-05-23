@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,41 +152,6 @@ Counterfactual reasoning prompting serves as a critical tool in advancing the co
 > [!connection] **[[Abductive Reasoning in LLMs]]** — *contrasts-with*
 > While abductive reasoning involves inferring the best explanation for observed phenomena based on available evidence, counterfactual reasoning prompts focus on exploring hypothetical scenarios to understand causal relationships. This contrast highlights different approaches to understanding complex systems and their underlying mechanisms.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Counterfactual Reasoning Process Flow**
-> *Follow the flow from initial prompt to model response.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Model Interpretation]
->   B --> C[Scenario Construction]
->   C --> D[Causal Analysis]
->   D --> E[Counterfactual Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Causal vs Correlational Knowledge Comparison**
-> *Compare the depth of causal understanding between models.*
->
-> ```mermaid
-> graph TD
->   A[Model with Causal Knowledge] -->|Generates Deep Counterfactuals| B[Complex Second-Order Consequences]
->   C[Model with Correlational Knowledge] -->|Minimal Changes| D[Near Interpolation Around Altered Variable]
-> ```
-
-
-> [!abstract] **Diagram 3 — Counterfactual Prompting Applications**
-> *Identify the different applications of counterfactual reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Causal Analysis] -->|Probes Robustness of Causality|
->   B[Historical Reasoning] -->|Explores Alternative Histories|
->   C[Diagnostic Explanation] -->|Identifies Root Causes of Phenomena]
-> ```
 
 # Counterfactual Reasoning Prompting
 

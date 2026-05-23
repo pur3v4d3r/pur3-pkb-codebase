@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,30 +158,6 @@ The integration of computer use agents into various applications underscores the
 > [!connection] **[[Multimodal Models]]** — *specializes*
 > Computer use agents specialize in multimodal models by leveraging visual input to interact with software interfaces. This specialization allows them to operate effectively in environments where traditional text-based or API-driven approaches are insufficient, highlighting the unique capabilities of multimodal processing.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Computer Use Agent Process Flow**
-> *Follow the sequence from screenshot capture to action execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Capture Screenshot] --> B[Process Image]
->   B --> C[Interpret GUI Elements]
->   C --> D[Formulate Actions]
->   D --> E[Execute Actions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Automation Methods**
-> *Compare API-calling agents with computer use agents based on their interaction methods.*
->
-> ```mermaid
-> graph TD
->   A[API-Calling Agents] -->|Requires Machine-Readable Interfaces| B[Traditional Automation]
->   C[Computer Use Agents] -->|Interprets Visual Input| D[Sophisticated GUI Interaction]
-> ```
 
 # Computer Use Agents
 

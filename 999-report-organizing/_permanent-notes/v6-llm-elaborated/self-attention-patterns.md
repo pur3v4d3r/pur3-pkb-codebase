@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,49 +162,6 @@ By examining self-attention patterns, researchers can gain a deeper understandin
 > [!connection] **[[Positional Encoding Variants]]** — *applies-to*
 > Self-attention patterns are influenced by positional encoding variants. Different types of positional encodings can alter how tokens attend to each other, affecting the resulting attention weight matrices and thus the self-attention patterns observed.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Self-Attention Patterns Overview**
-> *Identify the different types of self-attention patterns and their meanings.*
->
-> ```mermaid
-> graph TD
->   A[Diagonal]
->   B[Vertical Stripe]
->   C[Block]
->   D[Induction]
->   E[Copy]
->   A -->|Self-referential tokens|
->   B -->|Broad attention to specific token types|
->   C -->|Coreference tracking|
->   D -->|N-gram completion|
->   E -->|Token copying|
-> ```
-
-
-> [!abstract] **Diagram 2 — Syntactic Dependency Resolution Patterns**
-> *Observe how diagonal patterns indicate syntactic dependency resolution.*
->
-> ```mermaid
-> flowchart LR
->   A[Token] --> B[Immediate Neighbor]
->   B --> C[Attention Weight Matrix]
->   C --> D[Diagonal Pattern]
->   D --> E[Syntactic Dependency Resolution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Semantic Role Labeling Patterns**
-> *Notice how vertical stripes indicate semantic role labeling.*
->
-> ```mermaid
-> flowchart LR
->   A[Token] --> B[Broad Attention]
->   B --> C[Vertical Stripe Pattern]
->   C --> D[Semantic Role Labeling]
-> ```
 
 # Self-Attention Patterns
 

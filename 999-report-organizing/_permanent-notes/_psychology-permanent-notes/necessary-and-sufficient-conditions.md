@@ -18,7 +18,7 @@ subdomains:
   - conceptual-analysis
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - necessary-and-sufficient-conditions-synthetic-seed-2026-05-12
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Necessary vs Sufficient Conditions**
-> *Identify the relationship between conditions and outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Event X]
->   B[Necessary Condition] -->|Without it, X cannot occur.| A
->   C[Sufficient Condition] -->|If present, guarantees X.| A
-> ```
-
-
-> [!abstract] **Diagram 2 — Logical Implications Flowchart**
-> *Follow the flow to understand logical implications.*
->
-> ```mermaid
-> flowchart LR
->   A[Condition]
->   B[Necessary Condition] -->|If X, then Y.| C[Sufficient Condition]
->   D[Biconditional] -->|X if and only if Y.| E[Logical Equivalence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Compare reflective and reactive thinking processes.*
->
-> ```mermaid
-> graph TD
->   A[Scenario]
->   B[Reflective] -->|Analyzes necessary & sufficient conditions.| C[Decision]
->   D[Reactive] -->|Based on past experiences or habits.| C
-> ```
 
 # Necessary And Sufficient Conditions
 

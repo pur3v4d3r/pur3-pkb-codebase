@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,31 +151,6 @@ Dialogue act classification prompting represents a significant advancement in na
 > [!connection] **[[Task-Oriented Dialogue Prompting]]** — *prerequisites*
 > Dialogue act classification prompting builds upon the foundational principles of task-oriented dialogue prompting by focusing on the specific communicative functions within these interactions. Understanding how to classify and respond to different types of user intents ('dialogue acts') is essential for designing effective task-oriented dialogues, as it ensures that systems can navigate complex conversations efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Dialogue Act Classification Flow**
-> *Follow the flow from user input to system response classification.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[System]
->   B --> C[LLM Processing]
->   C --> D[Classification]
->   D --> E[System Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dialogue Act Taxonomy Example**
-> *Identify the different dialogue acts and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Question] --> B[Request]
->   C[Clarification-Request] --> D[Disconfirmation]
->   E[Assertion] --> F[Thank]
-> ```
 
 # Dialogue Act Classification Prompting
 

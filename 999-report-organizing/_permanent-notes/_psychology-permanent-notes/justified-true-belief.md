@@ -17,7 +17,7 @@ subdomains:
   - analytic-epistemology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - justified-true-belief-synthetic-seed-2026-04-25
@@ -66,46 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — JTB Conditions Overview**
-> *Follow the flow from truth to belief and justification.*
->
-> ```mermaid
-> flowchart LR
->   A[Truth] --> B[Belief]
->   B --> C[Justification]
-> ```
-
-
-> [!abstract] **Diagram 2 — JTB Mechanism Flow**
-> *Trace the cognitive processes from perception to justified belief.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Memory]
->   B --> C[Reasoning]
->   C --> D[Inference]
->   D --> E[Justified Belief]
-> ```
-
-
-> [!abstract] **Diagram 3 — JTB in Legal Context**
-> *Identify the steps from evidence to judicial decision.*
->
-> ```mermaid
-> flowchart LR
->   A[Evidence] --> B[Facts]
->   B --> C[Justification]
->   C --> D[Decision]
-> ```
 
 # Justified True Belief
 

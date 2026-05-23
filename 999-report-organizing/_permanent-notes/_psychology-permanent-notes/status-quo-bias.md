@@ -16,7 +16,7 @@ subdomains:
   - choice-architecture
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - status-quo-bias-synthetic-seed-2026-04-25
@@ -63,49 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Status Quo Bias Mechanism**
-> *Follow the flow from status quo to loss perception.*
->
-> ```mermaid
-> flowchart LR
->   A[Current State] --> B[Change]
->   B --> C[Perceived Loss]
->   C --> D[Loss Aversion]
->   D --> E[Status Quo Preference]
-> ```
-
-
-> [!abstract] **Diagram 2 — Default Effects in Decision-Making**
-> *Trace the influence of default options on decision outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Pre-selected Option] --> B[Decision Bias]
->   B --> C[Status Quo Preference]
->   D[Objective Better Option] --> E[Ignored]
->   F[Default Effect] --> G[Preference for Status Quo]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Bias**
-> *Identify how different fields use defaults to mitigate bias.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Default Settings]
->   C[Policy Design] --> D[Automatic Enrollment]
->   E[User Interface Design] --> F[Optimal Defaults]
->   G[MOOCs] --> H[Spaced Retrieval Activities]
-> ```
 
 # Status Quo Bias
 

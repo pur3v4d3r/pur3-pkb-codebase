@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,45 +153,6 @@ The key claim that document understanding is one of the most practically valuabl
 > [!connection] **[[Chart-and-Table-Prompting]]** — *specializes*
 > Document understanding prompting and chart-and-table prompting are closely related, with the latter being a specialized application of the former. While document understanding deals broadly with complex documents, chart-and-table prompting focuses on extracting structured data from specific visual elements within those documents.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Document Understanding Workflow**
-> *Follow the steps from input to output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Document] --> B[Identify Layout]
->   B --> C[Determine Visual Elements]
->   C --> D[Integrate Text and Visuals]
->   D --> E[Extract Structured Data]
-> ```
-
-
-> [!abstract] **Diagram 2 — Complex Document Structure**
-> *Navigate the hierarchy of document components.*
->
-> ```mermaid
-> graph TD
->   A[Document] --> B[Layout]
->   A --> C[Typography]
->   A --> D[Tables]
->   A --> E[Images]
->   A --> F[Logos]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompting Steps for VLMs**
-> *Trace the logical steps in document understanding.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Identify Headers]
->   B --> C[Extract Data Rows]
->   C --> D[Reconcile Information]
->   D --> E[End]
-> ```
 
 # Document Understanding Prompting
 

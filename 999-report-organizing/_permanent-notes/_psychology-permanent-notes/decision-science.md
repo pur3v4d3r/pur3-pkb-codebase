@@ -18,7 +18,7 @@ subdomains:
   - judgment-and-decision-making
 
 created: 2026-04-27
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - decision-science-synthetic-seed-2026-04-27
@@ -68,49 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Decision Science Core Mechanisms**
-> *Follow the flow from psychological biases to economic models.*
->
-> ```mermaid
-> graph TD
->   A[Psychological Biases] --> B[Intuitive Thinking]
->   C[Economic Models] --> D[Rational Choice]
->   E[Cognitive Constraints] --> F[Suboptimal Decisions]
->   G[Integration] --> H[Decision-Making Process]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dual-Process Theory Overview**
-> *Trace the interaction between System 1 and System 2 thinking.*
->
-> ```mermaid
-> graph TD
->   A[System 1] --> B[Intuitive Decisions]
->   C[System 2] --> D[Analytical Thinking]
->   E[Cognitive Biases] --> F[Heuristics]
->   G[Rational Models] --> H[Optimal Choices]
-> ```
-
-
-> [!abstract] **Diagram 3 — Decision Science Applications**
-> *Identify the practical implications in instructional design and public policy.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Cognitive Biases]
->   C[Public Policy] --> D[Nudging Choices]
->   E[Learning Materials] --> F[Effective Assessments]
->   G[Choice Architecture] --> H[Health Outcomes]
-> ```
 
 # Decision Science
 

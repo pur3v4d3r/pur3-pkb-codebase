@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -178,44 +174,6 @@ Empirical evidence highlights that LLMs exhibit belief bias, accepting plausible
 > [!connection] **[[Inductive Reasoning Chains]]** — *contrasts-with*
 > While deductive reasoning guarantees true conclusions from true premises, inductive reasoning involves making generalizations based on specific instances. This contrast is crucial because it underscores the different roles these forms of reasoning play in logical deduction and scientific inquiry, highlighting the necessity for distinct methodologies to address each type effectively.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Deductive Reasoning Process Flow**
-> *Follow the logical steps from premises to conclusion.*
->
-> ```mermaid
-> flowchart LR
->   A[Premises] --> B[Inference Rules]
->   B --> C[Conclusion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Complex Deductive Reasoning Challenges**
-> *Identify the factors that lead to errors in complex chains.*
->
-> ```mermaid
-> graph TD
->   A[Belief Bias] --> B[Error Accumulation]
->   C[Initial Mistakes] --> D[Propagation of Errors]
-> ```
-
-
-> [!abstract] **Diagram 3 — Deductive vs Inductive Reasoning Comparison**
-> *Compare the guarantees and roles of deductive and inductive reasoning.*
->
-> ```mermaid
-> classDiagram
->   class DeductiveReasoning {
->     +Guaranteed True Conclusions
->     -Requires Valid Premises
->   }
->   class InductiveReasoning {
->     +Probable Generalizations
->     -Based on Specific Instances
->   }
-> ```
 
 # Deductive Reasoning Chains
 

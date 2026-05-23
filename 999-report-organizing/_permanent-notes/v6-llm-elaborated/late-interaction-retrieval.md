@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,33 +160,6 @@ By focusing on fine-grained token interactions, late interaction retrieval not o
 > [!connection] **[[Single-vector Dense Retrieval]]** — *contrasts-with*
 > Late interaction retrieval contrasts with single-vector dense retrieval in its handling of information. Single-vector methods compress all document content into a single vector, which can lead to loss of fine-grained details and precision issues. In contrast, late interaction retrieval preserves these details by focusing on token-level interactions, ensuring more accurate relevance scoring even when vocabulary mismatches occur.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Token-Level Interaction Process**
-> *Follow the flow from query encoding to document matching.*
->
-> ```mermaid
-> graph TD
->   A[Query Token Embeddings] --> B(MaxSim)
->   C[Document Token Embeddings] --> B
->   B --> D[Relevance Scores]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Other Retrieval Methods**
-> *Compare late interaction retrieval with single-vector and cross-encoder methods.*
->
-> ```mermaid
-> graph TD
->   A[Single-Vector Dense]
->   B[Late Interaction]
->   C[Cross-Encoder Reranking]
->   A -->|Compresses Document Info| E[Loss of Precision]
->   B -->|Token-Level Embeddings| F[Precise Relevance Estimation]
->   C -->|Joint Encoding| G[Highest Accuracy, High Latency]
-> ```
 
 # Late Interaction Retrieval
 

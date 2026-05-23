@@ -18,7 +18,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - gravity-synthetic-seed-2026-05-14
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Gravity's Role in Celestial Mechanics**
-> *Follow the flow from Newtonian to relativistic regimes.*
->
-> ```mermaid
-> flowchart LR
->   A[Newtonian Gravitation] --> B[Celestial Orbits]
->   B --> C[General Relativity]
->   C --> D[Black Holes]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Gravity and Electromagnetism**
-> *Compare the nature of forces between gravity and electromagnetism.*
->
-> ```mermaid
-> graph TD
->   A(Gravity) --> B[Attractive Only]
->   C(Electromagnetism) --> D[Attraction & Repulsion]
-> ```
-
-
-> [!abstract] **Diagram 3 — Gravity's Influence on Spacetime Curvature**
-> *Trace the curvature effects from mass-energy distributions.*
->
-> ```mermaid
-> flowchart LR
->   A(Mass-Energy) --> B[Spacetime Curvature]
->   B --> C(Gravitational Lensing)
->   B --> D(Orbit Precession)
-> ```
 
 # Gravity
 

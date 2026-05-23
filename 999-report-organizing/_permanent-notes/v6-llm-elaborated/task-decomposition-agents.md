@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,45 +173,6 @@ Task Decomposition Agents operationalize the divide-and-conquer principle to enh
 > [!connection] **[[Hierarchical Task Planning]]** — *falls-under*
 > Task Decomposition Agents are a specific application of Hierarchical Task Planning, which involves organizing tasks into hierarchical structures. This connection is crucial because it highlights how decomposition agents operationalize the broader concept by breaking down complex tasks into manageable sub-tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Task Decomposition Process Flow**
-> *Follow the flow from task analysis to sub-task execution.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Analysis] --> B[Identify Components]
->   B --> C[Break Down Sub-Tasks]
->   C --> D[Verify Each Sub-Task]
->   D --> E[Integrate Solutions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Static vs Dynamic Decomposition Comparison**
-> *Compare static and dynamic decomposition methods for flexibility.*
->
-> ```mermaid
-> graph TD
->   A[Static Decomposition] --> B[Predefined Rules]
->   C[Dynamic Decomposition] --> D[Real-Time Adjustments]
->   A ---|Less Flexible| E[Execution]
->   C ---|More Adaptive| F[Execution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Hierarchy Example**
-> *Observe how a complex task is broken down into sub-tasks.*
->
-> ```mermaid
-> graph TD
->   A[Complex Task] --> B[Sub-Task1]
->   A --> C[Sub-Task2]
->   B --> D[Sub-SubTask1]
->   B --> E[Sub-SubTask2]
->   C --> F[Sub-SubTask3]
-> ```
 
 # Task Decomposition Agents
 

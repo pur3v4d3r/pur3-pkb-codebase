@@ -17,7 +17,7 @@ subdomains:
   - psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - autonomy-need-synthetic-seed-2026-04-24
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Autonomy Need Components**
-> *Identify the three core components of Self-Determination Theory.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Competence]
->   C[Relatedness]
->   A -->|Core Component| D(Self-Determination Theory)
->   B -->|Core Component| D
->   C -->|Core Component| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Autonomy Need in Educational Settings**
-> *Understand the relationship between autonomy and educational outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Structured Environment] --> B[Perceived Meaningful Actions]
->   B --> C[High Autonomy]
->   D[Permissive Environment] --> E[Lack of Personal Connection]
->   E --> F[Low Autonomy]
-> ```
-
-
-> [!abstract] **Diagram 3 — Algorithmic Autonomy Paradox**
-> *Examine the paradox in digital learning environments.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User
->   participant Algorithm
->   User->>Algorithm: Chooses Activity
->   Algorithm-->>User: Data-Driven Recommendation
->   User->>Algorithm: Overrides Suggestion
->   Algorithm-->>User: Reveals Decision Pathways
-> ```
 
 # Autonomy Need
 

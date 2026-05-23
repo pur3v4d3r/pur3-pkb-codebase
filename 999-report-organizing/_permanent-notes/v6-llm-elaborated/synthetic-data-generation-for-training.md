@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,39 +156,6 @@ Empirical evidence from studies using self-instruct methods has shown that fine-
 > [!connection] **[[Human Annotation Processes]]** — *contrasts-with*
 > Synthetic data generation contrasts with human annotation processes in its reliance on automated systems to create training examples. While human annotation ensures high-quality, contextually accurate labels, it is often time-consuming and expensive. Synthetic data generation offers a faster alternative but may introduce biases or inaccuracies inherent in the generating model.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Synthetic Data Generation Process Flow**
-> *Follow the flow from prompting to data generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Seed Instructions] --> B[Prompt LLM]
->   B --> C[Generate Examples]
->   C --> D[Labeled Training Data]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanisms of Synthetic Data Generation**
-> *Identify the different mechanisms used in synthetic data generation.*
->
-> ```mermaid
-> graph TD
->   A[Self-Instruct] --> B[LLM Generates Examples]
->   C[Bootstrapped Annotation] --> D[Model Labels Unannotated Data]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison of Synthetic vs Real-world Training Data**
-> *Compare the characteristics and potential biases of synthetic versus real-world data.*
->
-> ```mermaid
-> graph TD
->   A[Synthetic Data] --> B[Introduced Biases]
->   C[Real-world Data] --> D[Reflects Reality]
-> ```
 
 # Synthetic Data Generation for Training
 

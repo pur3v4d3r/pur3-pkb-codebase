@@ -19,7 +19,7 @@ subdomains:
   - formal-semantics
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - deflationary-theory-of-truth-synthetic-seed-2026-05-12
@@ -69,48 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Deflationary vs Substantive Truth**
-> *Compare deflationary and substantive views of truth.*
->
-> ```mermaid
-> graph TD
->   A[Substantive Property]
->   B[Logical Function]
->   C[Coherence Theory]
->   D[Pragmatic Theory]
->   E[Epistemic Theory]
->   F[Deflationary Theory]
->   A -->|Attributes Truth To| C
->   A -->|Attributes Truth To| D
->   A -->|Attributes Truth To| E
->   B -->|Focuses On| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Deflationary Theory Flowchart**
-> *Follow the logical flow of deflationary theory.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Assert Content]
->   C[Generalize Over Propositions]
->   D[Dissolve Metaphysical Question]
->   E[End]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
 
 # Deflationary Theory Of Truth
 

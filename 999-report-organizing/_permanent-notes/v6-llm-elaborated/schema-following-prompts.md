@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,39 +160,6 @@ Empirical evidence supports the claim that schema-following prompts including fi
 > [!connection] **[[Grammar-Constrained Decoding]]** — *contrasts-with*
 > While both schema-following prompts and grammar-constrained decoding aim to guide AI model outputs, they differ fundamentally in scope. Grammar-constrained decoding focuses on syntactic rules for sentence construction, whereas schema-following prompts address broader data structure requirements including fields, types, and nesting. This distinction highlights the versatility of schema-guided approaches in handling diverse output formats beyond mere linguistic constraints.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Schema-Following Prompt Structure**
-> *Identify the components of a schema-following prompt.*
->
-> ```mermaid
-> graph TD
->   A[Task Instructions] --> B[Output Schema]
->   B --> C[Filled Examples]
->   C --> D[Error Handling Guidelines]
-> ```
-
-
-> [!abstract] **Diagram 2 — Schema-Following vs Grammar-Constrained Decoding**
-> *Compare the focus areas of schema-following prompts and grammar-constrained decoding.*
->
-> ```mermaid
-> graph TD
->   A[Schema-Following Prompts] --> B[Structure]
->   C[Grammar-Constrained Decoding] --> D[Syntax]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Schema-Following Prompts**
-> *Explore the various applications where schema-following prompts are beneficial.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(API Documentation)
->   B --> C(Data Entry Automation)
-> ```
 
 # Schema-Following Prompts
 

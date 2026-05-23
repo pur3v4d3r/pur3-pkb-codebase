@@ -16,7 +16,7 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - great-attractor-synthetic-seed-2026-05-14
@@ -63,45 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Great Attractor Influence Zone**
-> *Identify the regions affected by the Great Attractor's gravitational pull.*
->
-> ```mermaid
-> graph TD
->   A[Local Group] --> B(Great Attractor)
->   C[Laniakea Supercluster] --> B
->   D[Virgo Cluster] -->|Influence| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Great Attractor Mechanism Overview**
-> *Trace the steps from initial observations to confirming the Great Attractor's mass and direction.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Observations] --> B(Infrared Surveys)
->   B --> C[X-ray Surveys]
->   C --> D(Confirm Mass & Direction)
-> ```
-
-
-> [!abstract] **Diagram 3 — Local vs Cosmic Phenomena**
-> *Distinguish between local gravitational anomalies and cosmic expansion.*
->
-> ```mermaid
-> graph TD
->   A[Great Attractor] -->|Gravitational Pull| B(Galactic Motions)
->   C[Cosmic Expansion] -->|Hubble Flow| D(Distance Increase)
-> ```
 
 # Great Attractor
 

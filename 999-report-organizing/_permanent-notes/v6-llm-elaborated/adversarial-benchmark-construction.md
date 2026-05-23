@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,40 +157,6 @@ By integrating adversarial benchmark construction with other evaluation methods 
 > [!connection] **[[Benchmark Contamination]]** — *applies-to*
 > Adversarial benchmarking can inadvertently introduce biases or contamination into the evaluation process if not carefully designed. For instance, overemphasis on specific failure modes might skew results and misrepresent overall model performance. Understanding Benchmark Contamination helps in mitigating such risks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Adversarial Benchmark Process Flow**
-> *Follow the steps from human annotation to model testing.*
->
-> ```mermaid
-> flowchart LR
->   A[Human Annotation] --> B[Anotated Cases]
->   B --> C[Construct Tasks]
->   C --> D[Test Models]
->   D --> E[Identify Weaknesses]
-> ```
-
-
-> [!abstract] **Diagram 2 — Adversarial vs Standard Benchmarking**
-> *Compare the focus of adversarial and standard benchmarking.*
->
-> ```mermaid
-> graph TD
->   A[Standard Benchmarking] -->|General Assessment| B[Model Capabilities]
->   C[Adversarial Benchmarking] -->|Target Weaknesses| D[Specific Failures]
-> ```
-
-
-> [!abstract] **Diagram 3 — Adversarial vs Dynamic Benchmarking**
-> *Compare the focus of adversarial and dynamic benchmarking.*
->
-> ```mermaid
-> graph TD
->   A[Dynamic Benchmarking] -->|Evolving Capabilities| B[Broad Assessment]
->   C[Adversarial Benchmarking] -->|Target Weaknesses| D[Specific Vulnerabilities]
-> ```
 
 # Adversarial Benchmark Construction
 

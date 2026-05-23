@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -147,41 +143,6 @@ The adoption of prompt registries represents a significant shift towards more sy
 > [!connection] **[[AB Testing Prompts]]** — *applies-to*
 > Prompt registry patterns provide a robust framework for conducting A/B testing on LLM prompts. By centralizing prompt versions, teams can easily compare the performance of different iterations without risking inconsistencies or confusion in production environments.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Registry Workflow Overview**
-> *Follow the flow from prompt creation to deployment.*
->
-> ```mermaid
-> flowchart LR
->   A[Developer Creates Prompt] --> B[Prompt Versioned]
->   B --> C[Test and Validate]
->   C --> D[Integrate with Application]
->   D --> E[Deploy in Production]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Registry vs Model Registry Comparison**
-> *Compare the focus areas of prompt registry and model registry.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Registry] -->|Manages Templates| B[LLM Response Generation]
->   C[Model Registry] -->|Stores Models| D[Inference Services]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Management Workflow in LLM Systems**
-> *Identify the key steps involved in managing prompts centrally.*
->
-> ```mermaid
-> flowchart LR
->   A[Commit Prompt to Registry] --> B[Test and Validate]
->   B --> C[Integrate with CI/CD Pipeline]
->   C --> D[Deploy in Production]
-> ```
 
 # Prompt Registry Patterns
 

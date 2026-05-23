@@ -18,7 +18,7 @@ subdomains:
   - clinical-psychology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - coping-strategies-synthetic-seed-2026-05-01
@@ -67,61 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Problem-focused vs Emotion-focused coping**
-> *Compare the strategies based on stressor controllability.*
->
-> ```mermaid
-> graph TD
->   A[Stressor]
->   B[Perceived Controllable]
->   C[Perceived Uncontrollable]
->   A -->|Controllable?| B
->   A -->|Uncontrollable?| C
->   B --> D[Problem-focused coping]
->   C --> E[Emotion-focused coping]
-> ```
-
-
-> [!abstract] **Diagram 2 — Coping strategy selection process**
-> *Follow the stages from stressor appraisal to implementation.*
->
-> ```mermaid
-> flowchart LR
->   A[Stressor]
->   B[Appraisal of controllability]
->   C[Select coping strategy]
->   D[Implement strategy]
->   A -->|Appraise| B
->   B -->|Choose problem-focused or emotion-focused| C
->   C -->|Execute| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive appraisal theory framework**
-> *Understand how appraisals influence coping strategy choice.*
->
-> ```mermaid
-> graph TD
->   A[Stressor]
->   B[Primary Appraisal: Is it significant?]
->   C[Secondary Appraisal: Can I cope with it?]
->   D[Problem-focused coping]
->   E[Emotion-focused coping]
->   A -->|Significant?| B
->   B -->|Yes| C
->   B -->|No| F[Disengagement]
->   C -->|Yes, can cope| D
->   C -->|No, cannot cope| E
-> ```
 
 # Coping Strategies
 

@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - four-phase-model-of-interest-development-synthetic-seed-2026-04-25
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Four Phase Model Overview**
-> *Follow the progression from situational to individual interest.*
->
-> ```mermaid
-> graph TD
->   A[Triggered Situational Interest] --> B[Maintained Situational Interest]
->   B --> C[Emerging Individual Interest]
->   C --> D[Well-Developed Individual Interest]
-> ```
-
-
-> [!abstract] **Diagram 2 — Interest Development Mechanisms**
-> *Identify the cognitive processes supporting each phase.*
->
-> ```mermaid
-> flowchart LR
->   A[Attentional Capture] --> B[Goal Setting]
->   B --> C[Feedback]
->   C --> D[Self-Regulation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications for Educators**
-> *See how educators can apply the model in instructional design.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Teacher as T
->   participant Student as S
->   T->>S: Engaging Content (Triggered Situational Interest)
->   S-->>T: Initial Engagement
->   T->>S: Structured Activities & Feedback (Maintained Situational Interest)
->   S-->>T: Ongoing Engagement
->   T->>S: Real-World Applications & Self-Directed Learning (Emerging Individual Interest)
->   S-->>T: Personal Relevance
->   T->>S: Independent Pursuit of Interest (Well-Developed Individual Interest)
-> ```
 
 # Four-Phase Model of Interest Development
 

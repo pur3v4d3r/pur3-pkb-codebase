@@ -16,7 +16,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - learning-processes-synthetic-seed-2026-04-24
@@ -63,47 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Learning Process Flowchart**
-> *Follow the sequence from encoding to transfer.*
->
-> ```mermaid
-> flowchart LR
->   A[Encoding] --> B[Consolidation]
->   B --> C[Retrieval]
->   C --> D[Transfer]
-> ```
-
-
-> [!abstract] **Diagram 2 — Learning Process Interaction Diagram**
-> *Identify how each process influences the next.*
->
-> ```mermaid
-> graph TD
->   A(Information) --> B(Encoding)
->   B -->|Influence| C(Consolidation)
->   C -->|Influence| D(Retrieval)
->   D -->|Influence| E(Transfer)
-> ```
-
-
-> [!abstract] **Diagram 3 — Learning Process Taxonomy Diagram**
-> *Understand the hierarchical relationship between processes.*
->
-> ```mermaid
-> graph TD
->   A[Encoding] --> B[Consolidation]
->   B --> C[Retrieval]
->   C --> D[Transfer]
-> ```
 
 # Learning Processes
 

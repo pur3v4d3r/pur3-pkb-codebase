@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -71,48 +71,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Adaptive Help-Seeking Process Flow**
-> *Follow the flow from task structure to adaptive help-seeking behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Structure] --> B[Focused Attention]
->   B --> C[Deep Strategies]
->   C --> D[Affective Engagement]
->   D --> E[Adaptive Help-Seeking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Help-Seeking Behavior Types**
-> *Compare adaptive help-seeking with executive and avoidance behaviors.*
->
-> ```mermaid
-> graph TD
->   A[Adaptive]
->   B[Executive Help-Seeking] -->|Direct Answers| C[Performance-Avoidance]
->   D[Help-Avoidance] -->|No Support| E[Mastery-Avoidance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Metacognitive Monitoring Cascade**
-> *Trace the steps from task assessment to adaptive help-seeking.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Assessment] --> B[Cognitive Resources]
->   B --> C[Insufficient Resources]
->   C --> D[Strategic Response]
->   D --> E[Conceptual Scaffolds]
-> ```
 
 # Adaptive Help-Seeking
 

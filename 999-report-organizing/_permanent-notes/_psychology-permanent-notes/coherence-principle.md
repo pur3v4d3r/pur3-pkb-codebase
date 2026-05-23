@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - coherence-principle-synthetic-seed-2026-04-25
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Coherence Principle Overview**
-> *Identify the core elements and extraneous distractions.*
->
-> ```mermaid
-> graph TD
->   A[Core Content] --> B[Learning]
->   C[Extraneous Elements] -->|Distracts| D[Learning]
->   A --> E[Retention]
->   B -.-> F[Reduction]
->   C --> G[Dissipation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Components**
-> *Understand the relationship between intrinsic and extraneous loads.*
->
-> ```mermaid
-> graph TD
->   A(Intrinsic Load) --> B[Task Complexity]
->   C(Extraneous Load) -->|Non-essential Elements| D[Cognitive Overload]
->   E(Coherence Principle) --> F[Reduction of Extraneous Load]
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Process**
-> *Follow the steps to apply Coherence Principle in design.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Designer as D
->   participant Learner as L
->   participant Multimedia as M
->   D->>M: Include Core Elements Only
->   M-->>L: Present Clear Content
->   L->>D: Enhanced Learning Outcome
-> ```
 
 # Coherence Principle
 

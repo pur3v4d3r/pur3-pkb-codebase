@@ -19,7 +19,7 @@ subdomains:
   - cognitive-neuroscience
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - global-workspace-theory-synthetic-seed-2026-04-26
@@ -68,50 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Global Workspace Process Flow**
-> *Follow the flow from local processors to global workspace.*
->
-> ```mermaid
-> flowchart LR
->   A[Local Processors] --> B[Attention Selection]
->   B --> C[Broadcast to Global Workspace]
->   C --> D[Working Memory & Flexible Behavior]
-> ```
-
-
-> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
-> *Compare top-down and bottom-up influences on conscious access.*
->
-> ```mermaid
-> graph TD
->   A[Higher-Level Goals] --> B[Attention]
->   C[Sensory Input] --> D[Attention]
->   E[Attention] --> F[Broadcast to Global Workspace]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conscious Access Mechanism**
-> *Trace the activation of fronto-parietal networks in conscious access.*
->
-> ```mermaid
-> sequenceDiagram
->   participant LocalProcessors as LP
->   participant FrontoParietalNetworks as FP
->   participant GlobalWorkspace as GW
->   participant WorkingMemory as WM
->   LP->>FP: Select Information
->   FP->>GW: Broadcast Selected Info
->   GW->>WM: Access for Flexible Behavior
-> ```
 
 # Global Workspace Theory
 

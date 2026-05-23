@@ -18,7 +18,7 @@ subdomains:
   - metaphysics
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - physicalism-synthetic-seed-2026-05-01
@@ -66,45 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Physicalism Evolution Timeline**
-> *Follow the timeline from type-identity to dependence formulations.*
->
-> ```mermaid
-> graph TD
->   A[Type-Identity]
->   B[Dependence Formulations]
->   A -->|Response to Empirical Challenges| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Physicalism Mechanism Overview**
-> *Identify the relationships between mental and physical phenomena.*
->
-> ```mermaid
-> flowchart LR
->   A[Physical Phenomena] -->|Identity| B[Mental States]
->   A -->|Realization| C[Mental States]
->   A -->|Elimination| D[Mental Concepts]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Physicalism**
-> *See how physicalism influences instructional design and neuroethics.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] -->|Target Neural Pathways| B[Enhance Learning]
->   C[Neuroethics] -->|Alter Brain Function| D[Raise Ethical Questions]
-> ```
 
 # Physicalism
 

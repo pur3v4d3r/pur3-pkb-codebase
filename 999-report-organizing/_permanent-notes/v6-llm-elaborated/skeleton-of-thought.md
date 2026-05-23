@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,32 +155,6 @@ In essence, Skeleton of Thought not only accelerates the generation process but 
 > [!connection] **[[Decomposed-Prompting]]** — *contrasts-with*
 > While both Skeleton of Thought and Decomposed Prompting involve breaking down tasks into smaller components, they differ in their approach to task execution. Decomposed Prompting focuses on sequential decomposition where each part is addressed one after another, whereas Skeleton of Thought emphasizes parallel processing of these parts. This difference impacts the efficiency and coherence of the final output.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Skeleton of Thought Process Flow**
-> *Follow the stages from outline generation to parallel elaboration.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Generate Skeleton]
->   B --> C[Elaborate Independently]
->   C --> D[Combine Elaborations]
->   D --> E[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Skeleton of Thought vs Chain-of-Thought**
-> *Compare the sequential and parallel processing stages.*
->
-> ```mermaid
-> graph TD
->   A[Skeleton] --> B[Parallel Elaboration]
->   C[Chain-of-Thought] --> D[Sequential Generation]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
-> ```
 
 # Skeleton of Thought
 

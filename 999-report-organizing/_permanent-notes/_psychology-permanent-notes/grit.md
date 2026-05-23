@@ -18,7 +18,7 @@ subdomains:
   - individual-differences
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - grit-synthetic-seed-2026-04-26
@@ -66,78 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Grit vs Conscientiousness**
-> *Compare the focus of grit and conscientiousness on long-term goals.*
->
-> ```mermaid
-> graph TD
->   A[Conscientiousness]
->   B[Grit]
->   A -->|Short-term| C[Effort]
->   B -->|Long-term| D[Consistency]
-> ```
-
-
-> [!abstract] **Diagram 2 — Grit Mechanism Flowchart**
-> *Follow the process of how grit operates through sustained effort and interest.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Sustained Effort]
->   C[Consistent Interest]
->   D[Deliberate Practice]
->   E[Reflection on Progress]
->   F[Setbacks]
->   G[End]
->   A -->|Initiate Goal|
->   B
->   B -->
->   C
->   C -->
->   D
->   D -->
->   E
->   E -->
->   F
->   F -->
->   D
->   D -->
->   G
-> ```
-
-
-> [!abstract] **Diagram 3 — Grit in Educational Settings**
-> *See how grit impacts learning outcomes and instructional design.*
->
-> ```mermaid
-> graph TD
->   A[Challenging Tasks]
->   B[Growth Mindset]
->   C[Persistence]
->   D[Resilience]
->   E[Educational Success]
->   F[Instructional Design]
->   A -->|Encourages|
->   C
->   C -->
->   D
->   D -->
->   E
->   B -->
->   C
->   F -->
->   A
-> ```
 
 # Grit
 

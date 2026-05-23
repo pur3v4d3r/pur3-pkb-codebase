@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - executive-function-synthetic-seed-2026-04-24
@@ -66,62 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Executive Function Components**
-> *Identify the three core components of Executive Function.*
->
-> ```mermaid
-> graph TD
->   A[Updating]
->   B(Inhibition)
->   C[Shifting]
->   subgraph ExecutiveFunction
->     A -->|Interacts with| B
->     B -->|Interacts with| C
->     C -->|Cycles back to| A
->   end
-> ```
-
-
-> [!abstract] **Diagram 2 — Neural Networks for EF**
-> *Trace the interaction between prefrontal and parietal regions.*
->
-> ```mermaid
-> graph TD
->   PFC[Prefrontal Cortex]
->   PC[Parietal Cortex]
->   PFC -->|Decision-making & Control| PC
->   PC -->|Spatial & Numerical Processing| PFC
-> ```
-
-
-> [!abstract] **Diagram 3 — Executive Function in Practice**
-> *Follow the flow of processes during problem-solving.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem]
->   B[Updating]
->   C(Inhibition)
->   D[Shifting]
->   E[Solution]
->   A -->|Identify|
->   B
->   B -->|Maintain & Refresh|
->   C
->   C -->|Filter Out Distractions|
->   D
->   D -->|Switch Tasks or Rules|
->   E
-> ```
 
 # Executive Function
 

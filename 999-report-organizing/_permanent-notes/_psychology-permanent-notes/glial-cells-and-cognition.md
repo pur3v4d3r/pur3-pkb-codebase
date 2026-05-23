@@ -17,7 +17,7 @@ subdomains:
   - neuroscience-of-learning
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - glial-cells-and-cognition-synthetic-seed-2026-04-26
@@ -64,47 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Astrocyte Synaptic Modulation Process**
-> *Follow the flow from neuron firing to astrocytic calcium signaling and gliotransmitter release.*
->
-> ```mermaid
-> flowchart LR
->   N[Neuron Firing] --> G[Glutamate Release]
->   G --> A[Astrocyte Calcium Influx]
->   A --> T[Gliotransmitter Release]
-> ```
-
-
-> [!abstract] **Diagram 2 — Astrocyte Roles in Cognitive Functions**
-> *Identify the roles of astrocytes in synaptic modulation and structural remodelling.*
->
-> ```mermaid
-> graph TD
->   A[Synaptic Modulation] --> B[Neurotransmitter Regulation]
->   A --> C[Ion Channel Permeability]
->   D[Structural Remodelling] --> E[Waste Clearance]
->   D --> F[Microenvironment Stability]
-> ```
-
-
-> [!abstract] **Diagram 3 — Glial Cell Types and Cognitive Contributions**
-> *Trace the contributions of different glial cell types to cognitive functions.*
->
-> ```mermaid
-> graph TD
->   A[Astrocytes] --> B[Synaptic Modulation]
->   C[Oligodendrocytes] --> D[Myelination]
->   E[Microglia] --> F[Nerve Protection]
-> ```
 
 # Glial Cells and Cognition
 

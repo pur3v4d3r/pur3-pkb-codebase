@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - logical-form-synthetic-seed-2026-05-12
@@ -65,63 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Logical Form Process Flow**
-> *Follow the steps to identify logical form from natural language.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Natural Language Sentence]
->   C[Strip Surface Grammar]
->   D[Determine Underlying Structure]
->   E[Logical Form]
->   F[End]
->   A --> B
->   B -->|Analysis| C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Surface Grammar vs Underlying Logical Form**
-> *Compare the surface grammar with the underlying logical form of a sentence.*
->
-> ```mermaid
-> graph TD
->   A["Natural Language Sentence"]
->   B["Surface Grammar"] -->|Example: 'All men are mortal.'|
->   C["Underlying Logical Form"] -->|Example: ∀x (Man(x) → Mortal(x))|
->   A --> B
->   A --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — Logical Form in Different Contexts**
-> *See how logical form applies across various fields like education and law.*
->
-> ```mermaid
-> graph TD
->   A["Educational Content"]
->   B["Legal Arguments"]
->   C["Common Patterns"] -->|Structural Validity|
->   D["Critical Thinking Skills"]
->   E["Sound Reasoning"]
->   F["Logical Form"]
->   A -->|Ensuring Sound Structure| C
->   B -->|Focusing on Structure| C
->   C --> D
->   C --> E
-> ```
 
 # Logical Form
 

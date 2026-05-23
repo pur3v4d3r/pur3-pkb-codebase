@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,44 +162,6 @@ Constitutional AI represents a significant advancement in the field of AI safety
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *specializes*
 > Constitutional AI specializes in RLHF by introducing a constitutional framework that guides the reinforcement learning process. This ensures that feedback is not only based on human preferences but also aligned with ethical principles, making it more robust and reliable.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — CAI Process Flow**
-> *Follow the stages from SL-CAF to RLAIF.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[SL-CAF: Self-Critique Against Constitution]
->   B --> C[RLAIF: Reinforcement Learning From AI Feedback]
->   C --> D[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — CAI vs Traditional Supervision**
-> *Compare CAI's reliance on constitutions and self-critique with traditional human supervision.*
->
-> ```mermaid
-> graph TD
->   A[Traditional Human Supervision]
->   B[Constitutional AI]
->   A -->|Human Annotations| C[Alignment]
->   B -->|Explicit Constitution| D[Self-Critique Mechanisms]
-> ```
-
-
-> [!abstract] **Diagram 3 — CAI Applications Overview**
-> *Identify the applications of CAI in instructional design and content moderation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Content Moderation]
->   A -->|Ensure Ethical & Accurate Content| C[Constitutional AI]
->   B -->|Reduce Human Annotators| D[Flag Inappropriate Content]
-> ```
 
 # Constitutional AI
 

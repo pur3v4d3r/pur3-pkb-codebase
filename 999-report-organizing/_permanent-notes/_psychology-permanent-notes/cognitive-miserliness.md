@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -68,69 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Type 1 vs Type 2 Processing**
-> *Identify the flow from quick to deep processing.*
->
-> ```mermaid
-> graph TD
->   A[Quick Response]
->   B[Confidence Check]
->   C[Deep Analysis]
->   A -->|If confident| B
->   B -->|Proceed with Type 1| end
->   B -->|Scrutiny Required| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Miserliness Mechanism**
-> *Trace the decision-making process from input to output.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Input as I
->   participant Type1 as T1
->   participant Scrutiny as S
->   participant Output as O
->   I->>T1: Quick Response
->   T1-->>S: Confidence Check
->   alt Proceed with Type 1
->     S-->>O: Unscrutinized Output
->   else Scrutiny Required
->     S->>T1: Further Analysis
->     T1-->>O: Scrutinized Output
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *See how different fields apply cognitive miserliness.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Marketing]
->   C[Education]
->   D[MOOCs]
->   A -->|Familiar Examples|
->   B -->|Simple Slogans|
->   C -->|Practical Applications|
->   D -->|Spaced Retrieval|
->   subgraph Cognitive Miserliness
->     A
->     B
->     C
->     D
->   end
-> ```
 
 # Cognitive Miserliness
 

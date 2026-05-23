@@ -18,7 +18,7 @@ subdomains:
   - multi-messenger-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - kilonova-synthetic-seed-2026-05-14
@@ -65,52 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Kilonova Mechanism Overview**
-> *Follow the flow from neutron star merger to kilonova emission.*
->
-> ```mermaid
-> graph TD
->   A[Neutron Star Merger] --> B[R-process Synthesis]
->   B --> C[Radioactive Decay]
->   C --> D[Kilonova Emission]
-> ```
-
-
-> [!abstract] **Diagram 2 — Kilonova vs Supernova Comparison**
-> *Compare the origins and characteristics of kilonovae and supernovae.*
->
-> ```mermaid
-> graph TD
->   A[Neutron Star Merger] --> B[Kilonova]
->   C[Massive Star Collapse] --> D[Supernova]
->   B --> E[Luminosity: Low]
->   D --> F[Luminosity: High]
->   B --> G[Timescale: Days-Weeks]
->   D --> H[Timescale: Short]
-> ```
-
-
-> [!abstract] **Diagram 3 — Kilonova Detection Pipeline**
-> *Trace the steps from gravitational wave detection to kilonova observation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant GW as Gravitational Wave Detector
->   participant EM as Electromagnetic Telescope
->   participant Astronomer
->   GW->>Astronomer: Detects Neutron Star Merger
->   Astronomer-->>EM: Initiates Follow-Up Observation
->   EM->>Astronomer: Observes Kilonova Emission
-> ```
 
 # Kilonova
 

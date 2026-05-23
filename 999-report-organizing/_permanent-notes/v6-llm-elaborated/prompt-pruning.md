@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,41 +170,6 @@ Empirical studies have shown that up to 50% of tokens within production prompts 
 > [!connection] **[[Token-Efficient Prompting]]** — *specializes*
 > Prompt Pruning specializes in Token-Efficient Prompting by focusing on the systematic removal of unnecessary elements to achieve token savings. This specialization allows for more targeted and effective reductions in prompt size, making it a critical component of broader efforts to optimize large language model usage.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prompt Pruning Process Flow**
-> *Follow the steps from initial prompt to optimized output.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Evaluation]
->   B --> C[Test Removal]
->   C --> D[Impact Assessment]
->   D --> E[Iterate or Finalize]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Pruning vs Distillation Comparison**
-> *Compare the approaches of pruning and distillation.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Pruning] -->|Remove Unnecessary Elements| B[Reduce Token Count]
->   C[Prompt Distillation] -->|Rephrase & Restructure Content| D[Reduce Token Count]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Segmentation for Evaluation**
-> *Identify segments and assess their relevance.*
->
-> ```mermaid
-> flowchart LR
->   A[Segment1] --> B[Evaluate]
->   C[Segment2] --> D[Evaluate]
->   E[Segment3] --> F[Evaluate]
-> ```
 
 # Prompt Pruning
 

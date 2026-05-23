@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,51 +152,6 @@ ALiBi Positional Encoding stands out as a minimalist yet powerful approach withi
 > [!connection] **[[Sliding Window Attention]]** — *applies-to*
 > ALiBi Positional Encoding complements Sliding Window Attention by enhancing the model's ability to focus on recent context within each window. While Sliding Window Attention restricts attention to a fixed-size neighborhood, ALiBi ensures that tokens closer in sequence receive higher priority, effectively reinforcing the local context emphasis of sliding windows without requiring explicit parameter tuning for different window sizes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — ALiBi Attention Bias Mechanism**
-> *Follow the flow from query to key, observing how distance affects bias.*
->
-> ```mermaid
-> graph TD
->   A[Query Position]
->   B[Key Position]
->   C[Bias Function]
->   D[Attention Score]
->   A -->|Distance| C
->   C -->|Linear Bias| D
-> ```
-
-
-> [!abstract] **Diagram 2 — ALiBi vs RoPE Comparison**
-> *Compare the methods used by ALiBi and RoPE to incorporate positional information.*
->
-> ```mermaid
-> graph TD
->   A[ALiBi]
->   B[Rope]
->   C[Bias Function]
->   D[Vector Modification]
->   A -->|Linear Bias Post-Softmax| C
->   B -->|Rotate Vectors| D
-> ```
-
-
-> [!abstract] **Diagram 3 — ALiBi Performance Across Sequence Lengths**
-> *Analyze how ALiBi performs on sequences of varying lengths.*
->
-> ```mermaid
-> graph TD
->   A[Training Sequence]
->   B[Shorter Sequences]
->   C[Longer Sequences]
->   D[Performance]
->   A -->|Generalizes Well| D
->   B -->|Maintains Quality| D
->   C -->|No Fine-Tuning Needed| D
-> ```
 
 # ALiBi Positional Encoding
 

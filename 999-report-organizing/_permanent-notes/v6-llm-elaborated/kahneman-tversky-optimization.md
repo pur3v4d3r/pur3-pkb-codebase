@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,50 +168,6 @@ By integrating psychological principles like loss aversion, KTO not only enhance
 > [!connection] **[[Direct Preference Optimization]]** — *contrasts-with*
 > KTO contrasts with Direct Preference Optimization (DPO) in its approach to feedback. While DPO requires explicit pairwise comparisons between preferred and rejected completions, KTO uses binary desirability signals for individual outputs. This difference makes KTO more scalable and less prone to reward hacking, as it does not rely on the potentially complex task of comparing every output against a set of alternatives.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — KTO vs DPO Comparison**
-> *Compare KTO and DPO methods for alignment.*
->
-> ```mermaid
-> graph TD
->   A[Direct Preference Optimization]
->   B[Kahneman-Tversky Optimization]
->   A -->|Pairwise Comparisons|
->   B -->|Binary Desirability Signals|
-> ```
-
-
-> [!abstract] **Diagram 2 — KTO Training Process Flow**
-> *Follow the flow of KTO training process.*
->
-> ```mermaid
-> flowchart LR
->   A[Model Outputs]
->   B[Desirability Labels]
->   C[Loss Terms Computation]
->   D[Asymmetric Loss Weighting]
->   E[Tuned Model]
->   A -->|Label as Desirable/Undesirable|
->   B -->|Compute Separate Loss Terms|
->   C -->|Apply Asymmetric Weights|
->   D -->
->   E
-> ```
-
-
-> [!abstract] **Diagram 3 — KTO vs RLHF Comparison**
-> *Compare KTO and RLHF methods for alignment.*
->
-> ```mermaid
-> graph TD
->   A[Reinforcement Learning from Human Feedback]
->   B[Kahneman-Tversky Optimization]
->   A -->|Interactions & Feedback Loops|
->   B -->|Static Preference Labels|
-> ```
 
 # Kahneman-Tversky Optimization
 

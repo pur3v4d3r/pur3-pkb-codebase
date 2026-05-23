@@ -19,7 +19,7 @@ subdomains:
   - well-being-research
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - goal-contents-theory-synthetic-seed-2026-04-24
@@ -67,58 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Intrinsic vs Extrinsic Goals**
-> *Compare intrinsic goals with extrinsic ones.*
->
-> ```mermaid
-> graph TD
->   A[Personal Growth] --> B[Close Relationships]
->   C[Community Contribution] --> D[Health]
->   E[Wealth] --> F[Fame]
->   G[Image]
->   A --> H(Intrinsic Goals)
->   B --> H
->   C --> H
->   D --> H
->   E --> I(Extrinsic Goals)
->   F --> I
->   G --> I
-> ```
-
-
-> [!abstract] **Diagram 2 — Well-Being Impact of Goal Types**
-> *See how intrinsic goals lead to better well-being.*
->
-> ```mermaid
-> flowchart LR
->   A[Intrinsic Goals] --> B(Alignment with Values)
->   B --> C(Sense of Purpose & Fulfillment)
->   C --> D(Psychological Well-Being)
->   E[Extrinsic Goals] --> F(External Validation)
->   F --> G(Temporary Satisfaction)
->   G --> H(Undermines Long-Term Happiness)
-> ```
-
-
-> [!abstract] **Diagram 3 — Societal Influence on Goal Setting**
-> *Understand cultural impact on goal setting.*
->
-> ```mermaid
-> graph TD
->   A[Collectivist Societies] --> B(Community Contribution)
->   C(Close Relationships) --> D(Intrinsic Goals Emphasis)
->   E[Individualist Cultures] --> F(Personal Achievement)
->   G(Wealth Accumulation) --> H(Extrinsic Goals Emphasis)
-> ```
 
 # Goal Contents Theory
 

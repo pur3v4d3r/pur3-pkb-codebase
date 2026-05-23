@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,42 +173,6 @@ In summary, Knowledge Graph Augmented Generation represents a paradigm shift in 
 > [!connection] **[[Entity Linking in Prompts]]** — *supports*
 > KGAG relies on accurate entity linking to effectively traverse knowledge graphs and extract relevant information. Entity linking ensures that the correct entities are identified within prompts, which is crucial for KGAG's ability to perform multi-hop reasoning over structured data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — KGAG Process Flow**
-> *Follow the steps from query to LLM prompt integration.*
->
-> ```mermaid
-> flowchart LR
->   A[User Query] --> B[Identify Relevant Nodes]
->   B --> C[Extract Relational Chains]
->   C --> D[Linearize into NL Fragments]
->   D --> E[Integrate with Prompt]
-> ```
-
-
-> [!abstract] **Diagram 2 — KGAG vs Text-Based RAG**
-> *Compare KGAG's structured approach to text-based retrieval.*
->
-> ```mermaid
-> graph TD
->   A[Text-Based Retrieval] -->|Infer Relational Chains| B[Multiple Retrievals]
->   C[KGAG] -->|Explicitly Encode Relations| D[Deterministic Traversal]
-> ```
-
-
-> [!abstract] **Diagram 3 — Knowledge Graph Structure**
-> *Trace the multi-hop reasoning paths within a knowledge graph.*
->
-> ```mermaid
-> graph TD
->   A[Entity1] --> B[Relation]
->   B --> C[Entity2]
->   C --> D[Relation]
->   D --> E[Entity3]
-> ```
 
 # Knowledge Graph Augmented Generation
 

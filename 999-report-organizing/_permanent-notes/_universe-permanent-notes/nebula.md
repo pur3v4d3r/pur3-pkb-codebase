@@ -17,7 +17,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - nebula-synthetic-seed-2026-05-14
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Nebula Types Overview**
-> *Identify the different types of nebulae and their characteristics.*
->
-> ```mermaid
-> graph TD
->   A["Emission Nebula"] -->|Glowing due to recombination lines| B["Reflection Nebula"]
->   B -->|Reflects starlight without emitting own light| C["Dark Nebula"]
->   C -->|Blocks background light, appears dark| D["Supernova Remnant"]
->   D -->|Expanding shell of gas and dust from exploded stars|
-> ```
-
-
-> [!abstract] **Diagram 2 — Star Formation Process in Nebulae**
-> *Follow the stages of star formation within nebulae.*
->
-> ```mermaid
-> flowchart LR
->   A["Molecular Cloud"] --> B["Gravitational Collapse"]
->   B --> C["Dense Core Formation"]
->   C --> D["Protostar Ignition"]
->   D --> E["Nuclear Fusion Begins"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Galactic Chemical Evolution Cycle**
-> *Trace the recycling of processed material in galactic chemical evolution.*
->
-> ```mermaid
-> flowchart LR
->   A["Evolved Stars & Supernovae"] --> B["Supernova Remnants"]
->   B --> C["Interstellar Medium Enrichment"]
->   C --> D["New Star Formation"]
-> ```
 
 # Nebula
 

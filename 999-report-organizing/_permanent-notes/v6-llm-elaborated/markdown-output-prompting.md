@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,40 +164,6 @@ Empirical evidence highlights the importance of providing structural guidance wi
 > [!connection] **[[Output Length Control]]** — *applies-to*
 > Markdown output prompting can be seen as an application of output length control strategies. By specifying document structures, markdown prompts guide LLMs to produce outputs that are not only formatted correctly but also appropriately sized for their intended use cases. This ensures that generated content is neither too verbose nor overly concise.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Markdown Output Prompting Process Flow**
-> *Follow the flow from input prompt to structured markdown output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[LLM Processing]
->   B --> C[Structured Markdown Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Markdown vs Plain Text Comparison**
-> *Compare the structure and utility of markdown versus plain text outputs.*
->
-> ```mermaid
-> graph TD
->   A[Plain Text] -->|Lacks Structure| D[Readability]
->   B[Markdown] -->|Structured Syntax| C[Enhanced Readability]
->   C --> E[Convertibility]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios in Markdown Output Prompting**
-> *Identify the different application scenarios for markdown output prompting.*
->
-> ```mermaid
-> graph TD
->   A[Technical Documentation] -->|Structured Guides|
->   B[Chat Interfaces] -->|Markdown Formatted Responses|
->   C[Automated Pipelines] -->|Efficient Content Conversion|
-> ```
 
 # Markdown Output Prompting
 

@@ -19,7 +19,7 @@ subdomains:
   - ''
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
@@ -69,53 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Element Interactivity Levels**
-> *Identify the levels of element interactivity from perceptual to conceptual.*
->
-> ```mermaid
-> graph TD
->   A[Perceptual]
->   B[Conceptual]
->   A -->|Basic Sensory Processing| C(Element Interaction)
->   B -->|Higher-Order Cognitive Processes| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Chunking and Schema Construction**
-> *Understand how learners manage element interactivity through chunking and schema construction.*
->
-> ```mermaid
-> graph TD
->   A[Complex Information]
->   B[Smaller Units]
->   C[Existing Knowledge]
->   D[New Information]
->   A -->|Chunking| B
->   C -->|Schema Construction| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
-> *Differentiate between intrinsic and extraneous cognitive load.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load]
->   B[Extraneous Load]
->   A -->|Element Interactivity|
->   B -->|Poor Design|
->   A -->|Effective Management| C(Better Learning Outcomes)
->   B -->|Reduction Alone| D(No Significant Improvement)
-> ```
 
 # Element Interactivity
 

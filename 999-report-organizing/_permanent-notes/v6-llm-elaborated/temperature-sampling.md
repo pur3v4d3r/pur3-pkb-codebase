@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,30 +170,6 @@ Temperature Sampling's role in language model decoding is pivotal for navigating
 > [!connection] **[[Top-P Sampling]]** — *contrasts-with*
 > Both Temperature Sampling and Top-P Sampling aim to introduce variability in text generation but do so through different mechanisms. While Temperature Sampling adjusts the probability distribution by scaling logits, Top-P Sampling truncates the set of possible tokens based on cumulative probabilities. This distinction means that while Temperature Sampling can be seen as a continuous adjustment of randomness, Top-P Sampling offers a more discrete control over output diversity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Temperature Sampling Process Flow**
-> *Follow the flow from logits to final token selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Logits] --> B[Temperature Adjustment]
->   B --> C[Softmax Transformation]
->   C --> D[Probability Distribution]
->   D --> E[Token Selection]
-> ```
-
-
-> [!abstract] **Diagram 2 — Temperature Impact on Probability Distribution**
-> *Observe how temperature affects the probability distribution.*
->
-> ```mermaid
-> graph TD
->   A[Low Temperature] --> B[Sharp Distribution]
->   C[High Temperature] --> D[Flat Distribution]
-> ```
 
 # Temperature Sampling
 

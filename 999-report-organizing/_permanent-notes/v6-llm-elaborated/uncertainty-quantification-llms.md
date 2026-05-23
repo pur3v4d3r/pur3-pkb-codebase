@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,38 +156,6 @@ Empirical evidence underscores the challenge of translating token-level probabil
 > [!connection] **[[Calibration in LLMs]]** — *applies-to*
 > Uncertainty quantification for LLMs directly applies to the calibration of these models. Calibration involves adjusting model outputs so that their confidence levels align with actual correctness rates, thereby addressing issues where high confidence does not necessarily equate to accuracy.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Aleatoric vs Epistemic Uncertainty**
-> *Identify the sources of uncertainty in LLM predictions.*
->
-> ```mermaid
-> graph TD
->   A[Inherent Ambiguity] --> B[Aleatoric]
->   C[Lack of Knowledge] --> D[Epistemic]
-> ```
-
-
-> [!abstract] **Diagram 2 — Uncertainty Quantification Techniques**
-> *Understand the methods used to quantify uncertainty in LLMs.*
->
-> ```mermaid
-> flowchart LR
->   A[Ensemble Methods] --> B[Elicit Uncertainty]
->   C[Auxiliary Models] --> D[Elicit Uncertainty]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of UQ in LLMs**
-> *Explore how uncertainty quantification is applied in different scenarios.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Tailored Teaching Strategies]
->   C[Risk Assessment] --> D[Conservative Decision-Making]
-> ```
 
 # Uncertainty Quantification for LLMs
 

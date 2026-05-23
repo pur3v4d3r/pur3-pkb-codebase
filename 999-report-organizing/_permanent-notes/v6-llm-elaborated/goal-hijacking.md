@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,29 +165,6 @@ Goal hijacking stands out as a particularly dangerous form of prompt injection d
 > [!connection] **[[Indirect Prompt Injection]]** — *instance-of*
 > Goal hijacking can also be seen as an instance of indirect prompt injection when the redirection is achieved through subtle linguistic cues or complex contextual setups rather than explicit commands. This highlights how goal hijacking leverages both direct and nuanced forms of input manipulation to achieve its objectives.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Goal Hijacking Process Flow**
-> *Follow the sequence from attacker input to system deviation.*
->
-> ```mermaid
-> flowchart LR
->   A[Attacker Input] --> B[System Processing]
->   B --> C[System Deviation]
->   C --> D[Harmful Action]
-> ```
-
-
-> [!abstract] **Diagram 2 — Goal Hijacking vs Content Elicitation**
-> *Compare the impact of altering task objectives versus eliciting content.*
->
-> ```mermaid
-> graph TD
->   A[Content Elicitation] -->|Extracts Specific Info| B[Task Objective Unchanged]
->   C[Goal Hijacking] -->|Changes Task Objective| D[Harmful Action]
-> ```
 
 # Goal Hijacking
 

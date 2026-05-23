@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,55 +160,6 @@ Empirical findings reveal that high zero-shot performance in LLMs is often conti
 > [!connection] **[[Instruction-Tuning Templates]]** — *applies-to*
 > Zero-shot generalisation mechanisms in LLMs are deeply influenced by how instruction-tuning templates shape the model’s ability to recognise and respond to new tasks. The specific phrasing, structure, and context provided during training significantly impact a model's performance on unseen instructions.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Zero-Shot Mechanisms Overview**
-> *Identify the key mechanisms involved in zero-shot generalisation.*
->
-> ```mermaid
-> graph TD
->   A[Pattern Recognition]
->   B[Parametric Knowledge Retrieval]
->   C[Compositional Reasoning]
->   D[Pragmatic Intent Inference]
->   A -->|Infer Task Requirements| E[Zero-Shot Generalisation]
->   B -->|Generate Factually Correct Answers| E
->   C -->|Combine Known Operations| E
->   D -->|Understand User Needs| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Instruction Matching Process**
-> *Follow the steps a model takes to match an instruction and infer task requirements.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Instruction]
->   B[Surface Form Matching]
->   C[Known Patterns]
->   D[Tasks Requirements Inference]
->   E[Performance Based on Instructions]
->   A -->|Identify Structure/Keywords| B
->   B -->|Match Against Known Templates| C
->   C -->|Infer Task Requirements| D
->   D -->|Perform Task Without Examples| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Zero-Shot vs One-Shot Learning**
-> *Compare zero-shot and one-shot learning approaches in terms of training data requirements.*
->
-> ```mermaid
-> sequenceDiagram
->   participant ZeroShot as ZS
->   participant OneShot as OS
->   ZS->>ZS: No Task-Specific Examples Needed
->   OS->>OS: At Least One Example Required
->   ZS-->>ZS: Instruction-Following and Pretraining Knowledge
->   OS-->>OS: Minimal Training Data with Specific Examples
-> ```
 
 # Zero-Shot Generalisation Mechanisms
 

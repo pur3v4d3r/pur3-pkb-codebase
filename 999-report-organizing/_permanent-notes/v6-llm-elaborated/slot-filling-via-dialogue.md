@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,33 +161,6 @@ LLM-based slot filling via dialogue has been shown to offer a superior user expe
 > [!connection] **[[Dialogue State Tracking]]** — *specializes*
 > Slot filling via dialogue is a specialized application of dialogue state tracking, focusing on the systematic extraction and validation of specific information slots. This specialization requires advanced NLU capabilities to interpret user inputs accurately within the context of ongoing dialogues, ensuring that all necessary details are gathered efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Slot Filling Process Flow**
-> *Follow the flow from identifying slots to task completion.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Unfilled Slots] --> B(Formulate Questions)
->   B --> C[Interpret User Answers]
->   C --> D[Extract Information]
->   D --> E[Confirm Data]
->   E --> F(Task Execution)
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM vs Template Slot Filling**
-> *Compare the flexibility and error-proneness of LLM-based and template-based approaches.*
->
-> ```mermaid
-> graph TD
->   A[LLM-Based] -->|Flexible, Multi-Slot Utterances| B(Advantages)
->   A -->|Prone to Hallucinations| C(Disadvantages)
->   D[Template-Based] -->|Less Flexible| E(Advantages)
->   D -->|Fewer Errors| F(Disadvantages)
-> ```
 
 # Slot Filling via Dialogue
 

@@ -18,7 +18,7 @@ subdomains:
   - theoretical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cosmological-constant-synthetic-seed-2026-05-14
@@ -67,52 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cosmological Constant Evolution Timeline**
-> *Follow the timeline from Einstein's introduction to modern usage.*
->
-> ```mermaid
-> graph TD
->   A[1917 - Static Universe Model]
->   B[1929 - Hubble's Discovery of Expansion]
->   C[Modern Cosmology - Dark Energy]
->   A -->|Introduce Λ| B
->   B -->|Abandon Λ| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Cosmological Constant vs Dynamic Models**
-> *Compare the simplicity of Λ with dynamic models like quintessence.*
->
-> ```mermaid
-> graph TD
->   A[Λ - Static Model]
->   B[Quintessence - Dynamic Model]
->   A -->|One Parameter| C[Simplest Dark Energy Model]
->   B -->|Additional Parameters| D[Complexity in Equations of State]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cosmological Constant in Theoretical Frameworks**
-> *See how Λ fits into unification theories like string theory.*
->
-> ```mermaid
-> graph TD
->   A[General Relativity]
->   B[String Theory]
->   C[Loop Quantum Gravity]
->   D[Cosmological Constant]
->   A -->|Incorporates Λ| B
->   A -->|Incorporates Λ| C
-> ```
 
 # Cosmological Constant
 

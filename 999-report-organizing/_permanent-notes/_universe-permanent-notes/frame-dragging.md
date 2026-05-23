@@ -17,7 +17,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - frame-dragging-synthetic-seed-2026-05-14
@@ -64,46 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Frame Dragging Process Overview**
-> *Follow the flow from spacetime warping to induced rotation.*
->
-> ```mermaid
-> flowchart LR
->   A[Spacetime Warping] --> B[Off-Diagonal Metric]
->   B --> C[Distant Stars Rotation]
->   C --> D[Test Bodies Induced Rotation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Frame Dragging vs Classical Forces**
-> *Compare Frame Dragging as a geometric effect to classical forces.*
->
-> ```mermaid
-> graph TD
->   A[Frame Dragging] -->|Geometric Effect| B[Spacetime Curvature]
->   C[Classical Force] -->|External Force| D[Newtonian Mechanics]
-> ```
-
-
-> [!abstract] **Diagram 3 — Gravitational Wave Interaction with Frame Dragging**
-> *Trace the path of gravitational waves affected by rotating masses.*
->
-> ```mermaid
-> sequenceDiagram
->   participant GW as Gravitational Waves
->   participant RM as Rotating Mass
->   GW->>RM: Propagation Near Rotating Mass
->   RM-->>GW: Path and Frequency Alteration
-> ```
 
 # Frame Dragging
 

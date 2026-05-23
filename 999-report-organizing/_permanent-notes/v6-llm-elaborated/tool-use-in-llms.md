@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,31 +151,6 @@ The integration of external tools in LLMs represents a paradigm shift, transform
 > [!connection] **[[Retrieval-Augmented Generation]]** — *specializes*
 > Tool Use in LLMs specializes Retrieval-Augmented Generation by illustrating how models can retrieve information from external sources during the generation process. This specialization underscores the importance of integrating real-time data retrieval capabilities to enhance model outputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tool Use Process Flow**
-> *Follow the sequence from input to output, noting tool invocation steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Prompt Generation]
->   B --> C[Tool Invocation]
->   C --> D[Tool Execution]
->   D --> E[Integration with Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Application Areas of Tool Use**
-> *Identify the different application areas and their specific tool requirements.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Integration with Educational Resources]
->   C[Customer Service] --> D[Integration with Real-Time Data Retrieval]
->   E[Code Generation] --> F[Integration with Code Interpreters]
-> ```
 
 # Tool Use in LLMs
 

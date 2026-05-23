@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - testimony-synthetic-seed-2026-05-01
@@ -65,48 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Testimony Transmission Flow**
-> *Follow the flow from source to recipient.*
->
-> ```mermaid
-> flowchart LR
->   A[Source] --> B[Testifier]
->   B --> C[Recipient]
-> ```
-
-
-> [!abstract] **Diagram 2 — Testimony Reliability Factors**
-> *Identify the factors affecting testimony reliability.*
->
-> ```mermaid
-> graph TD
->   A[Source Credibility] --> B[Accuracy]
->   A --> C[Bias]
->   A --> D[Context]
-> ```
-
-
-> [!abstract] **Diagram 3 — Testimony in Legal Settings**
-> *Trace the process from witness to verdict.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Witness as W
->   participant Jury as J
->   participant Judge as Ju
->   W->>J: Testimony
->   J-->>Ju: Evaluation
->   Ju-->>J: Decision
-> ```
 
 # Testimony
 

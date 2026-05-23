@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -69,49 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Behavior Attribution Process**
-> *Follow the flow from situational to dispositional attribution.*
->
-> ```mermaid
-> flowchart LR
->   A[Observation] --> B[Situational Factors]
->   B --> C[Dispositional Factors]
->   A --> D[Attribution Bias]
->   D --> E[Fundamental Attribution Error]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Heuristics in FAE**
-> *Identify the heuristics that lead to dispositional over situational attributions.*
->
-> ```mermaid
-> graph TD
->   A[Availability]
->   B[Confirmation Bias]
->   C[Fundamental Attribution Error]
->   A -->|Dispositional Focus| C
->   B -->|Ignoring Situational Evidence| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of FAE**
-> *See how different fields can apply understanding of the bias.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Effective Learning]
->   C[Business Management] --> D[Empathetic Leadership]
->   E[Conflict Resolution] --> F[Constructive Resolutions]
-> ```
 
 # Fundamental Attribution Error
 

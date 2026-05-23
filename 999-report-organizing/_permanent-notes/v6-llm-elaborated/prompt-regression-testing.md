@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,40 +162,6 @@ The necessity of Prompt Regression Testing is highlighted by the potential for s
 > [!connection] **[[Prompt Monitoring and Alerting]]** — *applies-to*
 > Prompt Regression Testing relies on continuous monitoring to detect changes in model performance over time. This makes Prompt Monitoring and Alerting a foundational prerequisite, as it provides the real-time data necessary for effective regression testing.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Regression Testing Process Flow**
-> *Follow the flow from prompt changes to test results.*
->
-> ```mermaid
-> flowchart LR
->   A[Changes in Prompt or Model] --> B[Test Suite]
->   B --> C[Evaluation Against Baseline]
->   C --> D[Identify Regressions]
->   D --> E[Take Corrective Actions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Regression Testing vs General Software RT**
-> *Compare the focus areas of both types of testing.*
->
-> ```mermaid
-> graph TD
->   A[General Software RT] -->|System Integration| B[System Functionality]
->   C[Prompt Regression Testing] -->|AI Model Contexts| D[Prompt Inputs/Outputs]
-> ```
-
-
-> [!abstract] **Diagram 3 — Regression vs A/B Testing in AI**
-> *Understand the difference between regression and A/B testing.*
->
-> ```mermaid
-> graph TD
->   A[Regression Testing] -->|Maintain Quality Against Changes|
->   B[A/B Testing] -->|Compare Different Versions for User Preference|
-> ```
 
 # Prompt Regression Testing
 

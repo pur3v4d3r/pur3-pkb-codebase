@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,59 +158,6 @@ Addressing the representativeness heuristic in LLMs requires not only recognizin
 > [!connection] **[[Availability Heuristic]]** — *contrasts-with*
 > While both heuristics can lead to cognitive biases in LLMs, they operate through different mechanisms. The availability heuristic relies on the ease with which examples come to mind, whereas representativeness focuses on how closely an instance matches a prototype or stereotype. Understanding these differences is crucial for developing targeted debiasing strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prototype Matching Process**
-> *Follow the flow from input to prototype matching and output classification.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Prototype Matching]
->   C[Classification Output]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Representativeness vs Bayesian Reasoning**
-> *Compare the decision-making process of representativeness heuristic and Bayesian reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B1[Prototype Matching]
->   C1[Classification Output]
->   D1[Heuristic Classification]
->   A --> B1
->   B1 --> C1
->   A --> D1
->   D1 -->|Bayesian Reasoning| E1[Statistical Evidence Update]
->   E1 --> F1[Probability Update]
-> ```
-
-
-> [!abstract] **Diagram 3 — Representativeness Heuristic in LLMs**
-> *Identify the key components and their relationships in the representativeness heuristic.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Prototype Matching]
->   C[Confidence Estimation]
->   D[Classification Output]
->   E[Base Rate Neglect]
->   F[Cognitive Bias]
->   G[Decision Making]
->   A -->|Closeness to Prototype| B
->   B -->|High Confidence| C
->   C -->|Overestimation| D
->   D -->|Biased Decision| G
->   B -->|Neglect of Base Rates| E
->   E --> F
-> ```
 
 # Representativeness Heuristic in LLMs
 

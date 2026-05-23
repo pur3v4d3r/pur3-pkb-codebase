@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,48 +169,6 @@ Empirical evidence supports the effectiveness of separating dialogue management 
 > [!connection] **[[Slot Filling via Dialogue]]** — *specializes*
 > Task-oriented dialogue prompting specializes in slot filling by focusing on the systematic collection of specific information required to complete a task. This specialization is crucial as it ensures that all necessary data points are accurately gathered, which is essential for effective task completion. Understanding this relationship helps learners appreciate how task-oriented systems manage complex interactions efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Task-Oriented Dialogue Pipeline**
-> *Follow the flow from state tracking to response generation.*
->
-> ```mermaid
-> graph TD
->   A[Dialogue State Tracking] --> B[Slot Filling]
->   B --> C[Action Selection]
->   C --> D[Natural Language Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Task-Oriented vs Open-Domain Dialogue**
-> *Compare the focus of task-oriented and open-domain dialogue systems.*
->
-> ```mermaid
-> graph TD
->   A[Task-Oriented]
->   B[Open-Domain]
->   A -->|Efficient Task Completion| C[Goal-Driven]
->   B -->|Engaging Conversation| D[No Defined Goal]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dialogue State Management Components**
-> *Identify the components involved in managing dialogue state.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Current Dialogue State]
->   C[Necessary Information Needed]
->   D[Next Steps Based on Data]
->   E[Generate Response]
->   A -->|Update| B
->   B -->|Identify| C
->   C -->|Decide| D
->   D -->|Formulate| E
-> ```
 
 # Task-Oriented Dialogue Prompting
 

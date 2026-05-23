@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,46 +160,6 @@ Conversational repair prompting is crucial for enhancing the robustness and reli
 > [!connection] **[[Dialogue Grounding Prompts]]** — *applies-to*
 > Conversational repair prompting applies to dialogue grounding prompts by ensuring that misunderstandings are corrected, thereby reinforcing the grounded nature of the conversation. This prevents drifts from the intended topic or context, maintaining a coherent and focused dialogue.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Conversational Repair Flowchart**
-> *Follow the flow from detection to correction.*
->
-> ```mermaid
-> flowchart LR
->   A[Monitor for Negative Feedback] --> B[Acknowledge Mistake]
->   B --> C[Generate Corrected Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Conversational Repair Mechanism**
-> *Identify the stages of repair mechanism.*
->
-> ```mermaid
-> graph TD
->   A[Monitor] --> B[Acknowledge]
->   B --> C[Generate]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conversational Repair vs Dialogue Management**
-> *Compare the focus of repair and general dialogue management.*
->
-> ```mermaid
-> classDiagram
->   class ConversationalRepair{
->     - MonitorForNegativeFeedback()
->     - AcknowledgeMistake()
->     - GenerateCorrectedResponse()
->   }
->   class GeneralDialogueManagement{
->     + GuideConversationFlow()
->     + SetContext()
->     + NavigateTopics()
->   }
-> ```
 
 # Conversational Repair Prompting
 

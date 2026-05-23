@@ -18,7 +18,7 @@ subdomains:
   - executive-function
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - prefrontal-cortex-function-synthetic-seed-2026-04-25
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prefrontal Cortex Network Overview**
-> *Identify the key regions connected to PFC for cognitive functions.*
->
-> ```mermaid
-> graph TD
->   A[Prefrontal Cortex] --> B[Parietal Cortex]
->   A --> C[Limbic System]
->   A --> D[Sensory Systems]
->   A --> E[Motor Systems]
-> ```
-
-
-> [!abstract] **Diagram 2 — PFC Function Mechanism Flow**
-> *Follow the flow of information and control signals in PFC functions.*
->
-> ```mermaid
-> flowchart LR
->   A[Working Memory] --> B[Top-Down Attention]
->   B --> C[Integration with Sensory Info]
->   C --> D[Emotional Regulation]
->   D --> E[Rational Decision-Making]
-> ```
-
-
-> [!abstract] **Diagram 3 — PFC Development Timeline**
-> *Track the maturation of PFC functions from adolescence to adulthood.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Childhood
->   Childhood --> Adolescence : Cognitive Control Enhancement
->   Adolescence --> Early_Adulthood : Executive Function Refinement
->   Early_Adulthood --> [*]
-> ```
 
 # Prefrontal Cortex Function
 

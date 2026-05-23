@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,46 +160,6 @@ Addressing primacy and recency effects requires a nuanced understanding of both 
 > [!connection] **[[Attention Sinks]]** — *applies-to*
 > Primacy and recency effects in LLMs can create 'attention sinks' where information in the middle of a context window is less likely to be processed effectively. This phenomenon shares similarities with human attentional biases, but arises from different mechanisms, underscoring the need for tailored strategies to optimize model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Context Processing Flow**
-> *Follow the flow from input to output, noting where primacy and recency effects occur.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Integration]
->   B --> C[Processing]
->   C --> D[Output]
->   B -.-> E[Primacy Bias]
->   C -.-> F[Recency Bias]
-> ```
-
-
-> [!abstract] **Diagram 2 — Positional Encoding Types**
-> *Compare the different types of positional encodings and their impact on primacy and recency.*
->
-> ```mermaid
-> graph TD
->   A(RoPE) --> B[Prim/Rec Bias]
->   C(ALiBi) --> D[Prim/Rec Bias]
->   E(Absolute) -.-> F[Less Bias]
->   G(Sinusoidal) -.-> H[Less Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Performance Degradation by Position**
-> *Observe the performance drop when information is in the middle of the context window.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Start: Begin Context Window
->   Start --> Middle: Information in Middle
->   Middle --> End: ~40-60% Accuracy
->   Start --> Extreme: Information at Extremes
->   Extreme --> End: ~70-80% Accuracy
-> ```
 
 # Primacy and Recency Effects in Context
 

@@ -17,7 +17,7 @@ subdomains:
   - mathematics
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - deductive-logic-synthetic-seed-2026-04-24
@@ -66,44 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Deductive Logic Flowchart**
-> *Follow the steps from premises to conclusions.*
->
-> ```mermaid
-> flowchart LR
->   A[Premises] --> B[Rules of Inference]
->   B --> C[Conclusions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Propositional vs Predicate Logic**
-> *Compare the scope and complexity between propositional and predicate logic.*
->
-> ```mermaid
-> graph TD
->   A[Propositional Logic] -->|Sentence-level connectives| B[Conjunction, Disjunction]
->   C[Predicate Logic] -->|Quantifiers & Predicates| D['All', 'Some']
->   C --> E[Objects and Properties]
-> ```
-
-
-> [!abstract] **Diagram 3 — Deductive vs Probabilistic Reasoning**
-> *Notice the stark difference in handling certainty.*
->
-> ```mermaid
-> graph TD
->   A[Deductive Logic] -->|Binary Conditions| B[True or False]
->   C[Probabilistic Logic] -->|Uncertainty and Ambiguity| D[Probability Values]
-> ```
 
 # Deductive Logic
 

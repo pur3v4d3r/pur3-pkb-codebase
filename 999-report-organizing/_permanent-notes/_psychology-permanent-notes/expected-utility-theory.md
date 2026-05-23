@@ -19,7 +19,7 @@ subdomains:
   - normative-economics
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - expected-utility-theory-synthetic-seed-2026-04-26
@@ -66,59 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Expected Utility Calculation Process**
-> *Follow the flow from outcomes to expected utility.*
->
-> ```mermaid
-> graph TD
->   A[Assign Outcome Utilities]
->   B[Determine Probabilities]
->   C[Weighted Sum]
->   D[Compare Scores]
->   E[Select Option]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Expected Utility Theory Axioms**
-> *Identify the axioms that underpin rational decision-making.*
->
-> ```mermaid
-> graph TD
->   A[Completeness]
->   B[Transitivity]
->   C[Continuity]
->   D[Independence]
->   A -->|and|
->   B -->|and|
->   C -->|and|
->   D
-> ```
-
-
-> [!abstract] **Diagram 3 — Expected Utility in Insurance**
-> *Trace the decision-making process for insurance premiums.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Insured as I
->   participant Insurer as S
->   I->>S: Calculate Expected Utility of Paying Premium
->   S-->>I: Set Fair Rates Reflecting Average Cost of Claims
->   I->>S: Ensure Positive Overall Expected Utility
-> ```
 
 # Expected Utility Theory
 

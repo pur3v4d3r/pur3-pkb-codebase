@@ -18,7 +18,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - task-analysis-synthetic-seed-2026-04-25
@@ -69,50 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Task Analysis Process Flow**
-> *Follow the sequence from defining task to creating instructional materials.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Task] --> B[Breakdown]
->   B --> C[Necessary Skills & Knowledge]
->   C --> D[Determine Sequence of Actions]
->   D --> E[Create Instructional Materials]
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Analysis Components Hierarchy**
-> *Identify the hierarchical relationship between task components.*
->
-> ```mermaid
-> graph TD
->   A(Task) --> B(Sub-Goals)
->   B --> C[Specific Steps]
->   C --> D[Necessary Knowledge & Skills]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Analysis in Instructional Design Workflow**
-> *Trace the integration of Task Analysis within instructional design phases.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Expert as E
->   participant Designer as D
->   U->>E: Gather Expert Knowledge
->   E-->>D: Provide Detailed Information
->   D->>U: Design Instructional Materials
-> ```
 
 # Task Analysis
 

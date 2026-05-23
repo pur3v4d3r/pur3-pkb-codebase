@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -150,38 +146,6 @@ The key claim about the Availability Heuristic highlights its impact on LLM outp
 > [!connection] **[[Overconfidence in LLM Outputs]]** — *contrasts-with*
 > While both biases can lead to inaccurate predictions, overconfidence typically manifests as an unwarranted belief in the accuracy of one's judgments or outputs. In contrast, the Availability Heuristic specifically distorts probability estimates based on how easily examples come to mind from training data, often resulting in a skewed perception of event frequencies rather than outright overestimation of confidence.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Frequency Estimation Bias**
-> *Identify how LLMs overestimate common and underestimate rare events.*
->
-> ```mermaid
-> graph TD
->   A[High-Frequency Events] --> B[Overestimated]
->   C[Rare Events] --> D[Underestimated]
-> ```
-
-
-> [!abstract] **Diagram 2 — Risk Assessment Bias**
-> *Observe how LLMs misjudge risks based on availability.*
->
-> ```mermaid
-> graph TD
->   A[Sensationalized Risks] --> B[Overestimated]
->   C[Subtle Threats] --> D[Underestimated]
-> ```
-
-
-> [!abstract] **Diagram 3 — Availability Heuristic vs Anchoring Bias**
-> *Compare the focus of availability heuristic and anchoring bias.*
->
-> ```mermaid
-> graph TD
->   A[Availability Heuristic] --> B[Frequency Estimation]
->   C[Anchoring Bias] --> D[Initial Value Stickiness]
-> ```
 
 # Availability Heuristic in LLMs
 

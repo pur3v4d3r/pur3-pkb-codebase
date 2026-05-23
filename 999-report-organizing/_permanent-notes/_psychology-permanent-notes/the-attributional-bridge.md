@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -72,45 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attribution Process Flowchart**
-> *Follow the flow from raw experience to motivational narrative.*
->
-> ```mermaid
-> flowchart LR
->   A[Raw Experience] --> B[Causal Reasoning]
->   B --> C[Narrative Construction]
->   C --> D[Motivational Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Attributional Bridge Integration**
-> *See how the bridge connects attribution to self-determination and self-efficacy theories.*
->
-> ```mermaid
-> graph TD
->   A[Self-Determination Theory] --> B[Attribution]
->   C[Self-Efficacy Theory] --> B
->   D[Growth Mindset] --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Motivational Attribution Examples**
-> *Compare attributions to internal vs external factors and their motivational outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Internal Attributions] --> B[Enhanced Self-Efficacy]
->   C[External Attributions] --> D[Reduced Motivation]
-> ```
 
 # The Attributional Bridge
 

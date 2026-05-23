@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -180,73 +176,6 @@ Empirical studies have shown that RLAIF can achieve comparable performance to hu
 > [!connection] **[[Iterative Preference Learning]]** — *applies-to*
 > RLAIF applies iterative preference learning techniques to refine reward models over successive training cycles. This iterative process allows the system to continuously improve its understanding of what constitutes a 'preferred' response, thereby enhancing the accuracy and reliability of the reinforcement learning model's performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — RLAIF Process Flow**
-> *Follow the iterative process from initial responses to model training.*
->
-> ```mermaid
-> graph TD
->   A[Initial Responses]
->   B[Evaluation by AI]
->   C[Generate Preference Scores]
->   D[Reward Signal in RL Algorithm]
->   E[Model Training]
->   F[Iterate Based on Feedback]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — RLAIF vs Traditional RLHF**
-> *Compare the key differences in data generation and cost between RLAIF and traditional RLHF.*
->
-> ```mermaid
-> graph TD
->   A[Human Annotation]
->   B[Ai Generated Preference Labels]
->   C[Scalability Issues]
->   D[Costly Data Collection]
->   E[Scalable Data Generation]
->   F[Lower Data Costs]
->   G[Reward Model Training]
->   H[Traditional RLHF]
->   I[RLAIF]
->   A -->|Expensive| C
->   B -->|Efficient| E
->   C --> D
->   E --> F
->   D --> G
->   F --> G
->   H --> A
->   I --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — RLAIF Iterative Feedback Loop**
-> *Trace the feedback loop between labelling AI and model training.*
->
-> ```mermaid
-> graph TD
->   A[Labelling AI]
->   B[Evaluates Responses]
->   C[Generates Preference Scores]
->   D[Reward Signal in RL Algorithm]
->   E[Trains Model]
->   F[Improves Behavior]
->   G[Feedback Loop]
->   A -->|Evaluates| B
->   B -->|Scores| C
->   C -->|Signal| D
->   D -->|Train| E
->   E -->|Improve| F
->   F -->|Loop| A
-> ```
 
 # Reinforcement Learning from AI Feedback
 

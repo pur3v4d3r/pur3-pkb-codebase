@@ -17,7 +17,7 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - bounded-rationality-synthetic-seed-2026-04-24
@@ -66,53 +66,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Limits Overview**
-> *Identify the cognitive constraints that limit decision-making.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory]
->   B[Attentional Bottlenecks]
->   C[Information Processing]
->   A -->|Restricts Information| C
->   B -->|Limits Focus| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Heuristic Decision Process**
-> *Follow the flow of decision-making using heuristics.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem]
->   B[Attribute Substitution]
->   C[Evaluation]
->   D[Satisficing Solution]
->   A -->|Identify| B
->   B -->|Simplify| C
->   C -->|Decide| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Dynamic Threshold Adjustment**
-> *Observe how decision thresholds change over time.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> HighThreshold : Start
->   HighThreshold --> MediumThreshold : Lower Threshold
->   MediumThreshold --> LowThreshold : Lower Threshold
->   LowThreshold -->|End Decision Process| []
-> ```
 
 # Bounded Rationality
 

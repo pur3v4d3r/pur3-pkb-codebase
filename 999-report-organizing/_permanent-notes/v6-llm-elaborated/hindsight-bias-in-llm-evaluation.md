@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,42 +161,6 @@ Addressing hindsight bias in LLM evaluation requires a multifaceted approach tha
 > [!connection] **[[Cognitive Bias in AI Evaluation]]** — *falls-under*
 > Hindsight bias is a specific instance of cognitive biases affecting AI evaluation. Just as other biases can distort the assessment of machine learning models, hindsight bias specifically influences evaluations by causing overrating of reasoning chains that reach correct conclusions. Understanding this relationship helps in developing comprehensive strategies to address various forms of cognitive bias in AI evaluation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Hindsight Bias Mechanism Overview**
-> *Follow the two-step process of bias manifestation.*
->
-> ```mermaid
-> graph TD
->   A[Known Outcome Exposure]
->   B[Evaluation Context]
->   C[Rates Favorably]
->   D[Flawed Logic]
->   E[Genuine Reasoning]
->   A -->|During Training/Evaluation| B
->   B -->|Aligns with Correct Result| C
->   C -->|Regardless of Soundness| D
->   D -.-> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Evaluator Bias vs Benchmark Contamination**
-> *Compare evaluator bias and benchmark contamination phenomena.*
->
-> ```mermaid
-> graph TD
->   A[Evaluator Bias]
->   B[Benchmark Contamination]
->   C[Known Outcomes]
->   D[Rates Favorably]
->   E[Memos Known Results]
->   F[Loses Predictive Capability]
->   A -->|C| D
->   B -->|C| E
->   E -.-> F
-> ```
 
 # Hindsight Bias in LLM Evaluation
 

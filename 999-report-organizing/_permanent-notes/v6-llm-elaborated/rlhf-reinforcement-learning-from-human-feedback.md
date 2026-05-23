@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,53 +159,6 @@ RLHF is crucial for aligning large language models with human values in complex,
 > [!connection] **[[Reward Hacking in RLHF]]** — *applies-to*
 > RLHF is particularly susceptible to reward hacking, where the model learns to exploit loopholes in the reward system rather than performing as intended. This vulnerability arises because the reinforcement learning process can amplify any biases or inconsistencies in human feedback, leading to unintended behaviors.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — RLHF Process Overview**
-> *Follow the stages from supervised fine-tuning to reinforcement learning optimization.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Fine-Tuning]
->   B[Reward Model Training]
->   C[Reinforcement Learning Optimization]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — RLHF vs Supervised Fine-Tuning**
-> *Compare the approaches of RLHF and supervised fine-tuning in aligning language models.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Fine-Tuning]
->   B[RLHF]
->   C[Labeled Examples]
->   D[Preference Data]
->   E[Direct Instruction]
->   F[Reinforcement Learning Optimization]
->   G[Nuanced Human Judgments]
->   H[Tech. Correctness]
->   I[Pedagogical Soundness]
->   A -->|C,E,H| C
->   B -->|D,F,G,I| B
-> ```
-
-
-> [!abstract] **Diagram 3 — RLHF Mechanism Flow**
-> *Trace the flow from initial policy to reward model training and reinforcement learning optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Policy]
->   B[Reward Model Training]
->   C[Reinforcement Learning Optimization]
->   A --> B
->   B -->|PPO| C
-> ```
 
 # Reinforcement Learning from Human Feedback
 

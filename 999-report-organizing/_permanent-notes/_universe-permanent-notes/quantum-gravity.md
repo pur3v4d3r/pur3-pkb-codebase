@@ -18,7 +18,7 @@ subdomains:
   - cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - quantum-gravity-synthetic-seed-2026-05-14
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Quantum Gravity Core Theories**
-> *Identify the two main theories and their incompatibility.*
->
-> ```mermaid
-> graph TD
->   A[General Relativity]
->   B[Quantum Field Theory]
->   A -->|Incompatible Regimes| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Approaches to Quantum Gravity**
-> *Explore different frameworks within the broader program.*
->
-> ```mermaid
-> graph TD
->   A[Quantum Gravity]
->   B[String Theory] --> A
->   C[Loop Quantum Gravity] --> A
->   D[Asymptotic Safety] --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Black Hole Information Paradox**
-> *Understand the conflict between general relativity and quantum mechanics.*
->
-> ```mermaid
-> sequenceDiagram
->   participant GeneralRelativity as GR
->   participant QuantumMechanics as QM
->   GR->>QM: Event Horizon Loss of Information
->   QM-->>GR: Preservation of Information
-> ```
 
 # Quantum Gravity
 

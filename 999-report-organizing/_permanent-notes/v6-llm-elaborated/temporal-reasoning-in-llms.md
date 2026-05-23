@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,54 +163,6 @@ LLMs exhibit a systematic asymmetry in their ability to handle forward versus ba
 > [!connection] **[[Causal Reasoning in LLMs]]** — *contrasts-with*
 > Temporal reasoning contrasts with causal reasoning by focusing on the sequence and timing of events rather than their cause-and-effect relationships. While temporal reasoning helps place events in a chronological context, causal reasoning aims to understand why these events occur.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Temporal Reasoning Tasks Overview**
-> *Identify the range of temporal reasoning tasks LLMs can perform.*
->
-> ```mermaid
-> graph TD
->   A[Event Ordering]
->   B(Duration Estimation)
->   C(State Changes Over Time)
->   A -->|Simplest Task| D[Temporal Chains]
->   B -->|Intermediate Complexity| D
->   C -->|Most Complex| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Forward vs Backward Temporal Chains**
-> *Notice the asymmetry in handling forward and backward chains.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Past as P
->   participant Present as Pr
->   participant Model as M
->   P->>M: Event A occurred
->   M-->>Pr: Consequence of A
->   note right of Pr: Forward Chain (Well-handled)
->   Pr->>M: Current state observed
->   M-->>P: Necessary past event inferred
->   note right of M: Backward Chain (Poorly-handled)
-> ```
-
-
-> [!abstract] **Diagram 3 — Temporal Reasoning Challenges**
-> *Observe the challenges in handling complex temporal tasks.*
->
-> ```mermaid
-> flowchart LR
->   A[Simple Event Ordering] --> B[Complex Temporal Chains]
->   B --> C[Integration Across Documents]
->   C --> D[Incomplete Data Inference]
->   A -->|Well-handled| E[Forward Chains]
->   B -->|Struggles with Complexity| E
->   C -->|Cross-Document Integration Issues| E
->   D -->|Infer State from Sparse Data| E
-> ```
 
 # Temporal Reasoning in LLMs
 

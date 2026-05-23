@@ -18,7 +18,7 @@ subdomains:
   - gravitational-wave-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - ligo-detection-synthetic-seed-2026-05-14
@@ -66,34 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Ligo Detection Process Flow**
-> *Follow the steps from laser split to signal detection.*
->
-> ```mermaid
-> flowchart LR
->   A[Split Laser Beam] --> B[Perpendicular Paths]
->   B --> C[Recombine Beams]
->   C --> D[Detect Phase Shifts]
-> ```
-
-
-> [!abstract] **Diagram 2 — Ligo Detection Applications Overview**
-> *Identify the applications of LIGO detections in astronomy.*
->
-> ```mermaid
-> graph TD
->   A[Gravitational Wave Signals] --> B[Multimessenger Astronomy]
->   A --> C[Black Hole Mergers]
-> ```
 
 # Ligo Detection
 

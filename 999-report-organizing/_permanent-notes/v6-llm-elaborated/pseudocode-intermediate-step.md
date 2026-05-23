@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,42 +160,6 @@ By integrating reflective thinking through pseudocode, developers not only enhan
 > [!connection] **[[Algorithm Design]]** — *applies-to*
 > Pseudocode Intermediate Step is a critical tool in the algorithm design process, enabling designers to articulate and refine their ideas before committing them to specific code. This separation enhances clarity and reduces errors that might arise from premature implementation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Pseudocode Generation Process**
-> *Follow the flow from problem to pseudocode then implementation.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem] --> B[Pseudocode]
->   B --> C[Implementation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Algorithm Design vs Implementation Separation**
-> *Compare the distinct phases of algorithm design and language-specific implementation.*
->
-> ```mermaid
-> graph TD
->   A[Algorithm Design] --> B[Pseudocode]
->   C[Implementation] --> D[Language-Specific Code]
-> ```
-
-
-> [!abstract] **Diagram 3 — Pseudocode Workflow in Collaborative Projects**
-> *See how pseudocode facilitates communication among team members.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Developer1 as Dev1
->   participant Developer2 as Dev2
->   participant Pseudocode as Psd
->   Dev1->>Psd: Design Algorithm
->   Psd-->>Dev2: Share Pseudocode
->   Dev2->>Psd: Implement Code
-> ```
 
 # Pseudocode Intermediate Step
 

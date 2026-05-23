@@ -17,7 +17,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - 4e-cognition-synthetic-seed-2026-04-24
@@ -64,64 +64,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — 4E Cognition Commitments**
-> *Follow the arrows to see how each commitment builds on the previous one.*
->
-> ```mermaid
-> graph TD
->   A[Embodied]
->   B[Embedded]
->   C[Enactive]
->   D[Extended]
->   A -->|Bodily Systems|
->   B -->|Environmental Context|
->   C -->|Dynamic Interactions|
->   D
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanisms of 4E Cognition**
-> *Trace the flow from brain to environment and back, highlighting dynamic interactions.*
->
-> ```mermaid
-> flowchart LR
->   A[Brain]
->   B[Body]
->   C[Environment]
->   D[Tools]
->   A -->|Motor Cortex Coordination|
->   B -->|Physical Movements|
->   B -->|Sensory Input|
->   C -->|Environmental Cues|
->   D -->|External Resources|
->   C -->|Feedback Loops|
->   D
-> ```
-
-
-> [!abstract] **Diagram 3 — 4E Cognition in Practice**
-> *Identify how each application integrates the principles of 4E Cognition.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Educational Technology]
->   A -->|Physical Models|
->   B -->|Digital Platforms|
->   A -->|Active Engagement|
->   B -->|Real-Time Interactions|
->   A -->|Enhanced Understanding|
->   B -->|Dynamic Learning Experiences|
-> ```
 
 # 4E Cognition
 

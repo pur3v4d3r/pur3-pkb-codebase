@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,38 +158,6 @@ Understanding and effectively managing the interplay between parametric and cont
 > [!connection] **[[Closed-Book vs Open-Book QA]]** — *contrasts-with*
 > The distinction between parametric and contextual knowledge in LLMs contrasts with the closed-book vs open-book paradigm in traditional question answering. While closed-book scenarios rely solely on intrinsic model knowledge, akin to parametric knowledge, open-book approaches incorporate external information sources during inference, paralleling the dynamic nature of contextual knowledge.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Parametric vs Contextual Knowledge Overview**
-> *Identify the sources of knowledge for LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Training Data] --> B[Parametric]
->   C[Prompt Input] --> D[Contextual]
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Types in Practice**
-> *Understand the practical implications of each knowledge type.*
->
-> ```mermaid
-> graph TD
->   A[Fine-Tuning] --> B[Parametric]
->   C[Prompt Design] --> D[Contextual]
-> ```
-
-
-> [!abstract] **Diagram 3 — Frozen vs Dynamic Knowledge**
-> *Compare the temporal characteristics of parametric and contextual knowledge.*
->
-> ```mermaid
-> graph TD
->   A[Frozen] --> B[Parametric]
->   C[Dynamic] --> D[Contextual]
-> ```
 
 # Parametric vs Contextual Knowledge
 

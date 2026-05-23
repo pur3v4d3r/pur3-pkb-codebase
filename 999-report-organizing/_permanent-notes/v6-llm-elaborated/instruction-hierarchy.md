@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,41 +165,6 @@ Instruction hierarchies represent a foundational aspect of large language model 
 > [!connection] **[[System Prompt Design]]** — *applies-to*
 > Instruction hierarchies apply to system prompt design by guiding how these prompts are structured and prioritized within a model. Effective hierarchy designs ensure that system prompts maintain authority over user inputs, thereby safeguarding against unauthorized changes in model behavior.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Instruction Hierarchy Overview**
-> *Identify the trust levels assigned to different instruction sources.*
->
-> ```mermaid
-> graph TD
->   A[System Prompts] -->|High Privilege| B[Model Behavior]
->   C[User Messages] -->|Low Privilege| B
->   D[Tool Outputs] -->|Medium Privilege| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Instruction Flow Process**
-> *Follow the flow of instructions from input to model behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Instruction]
->   A --> B[System Validation]
->   B --> C[Hierarchy Check]
->   C --> D[Model Execution]
-> ```
-
-
-> [!abstract] **Diagram 3 — Security vs Customization Trade-off**
-> *Analyze the balance between security and user customization flexibility.*
->
-> ```mermaid
-> graph TD
->   A[Strict Hierarchy] -->|Enhanced Security| B[System Integrity]
->   C[Permissive Hierarchy] -->|User Flexibility| D[Security Risk]
-> ```
 
 # Instruction Hierarchy
 

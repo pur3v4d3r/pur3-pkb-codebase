@@ -19,7 +19,7 @@ subdomains:
   - artificial-intelligence
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - computational-theory-of-mind-synthetic-seed-2026-04-26
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Computational Process Flow**
-> *Follow the flow from input to output, noting rule application and symbol manipulation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Symbol] --> B[Apply Rule]
->   B --> C[Generate New Symbol]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Symbol Manipulation Hierarchy**
-> *Observe how simpler computations form the basis for more complex cognitive functions.*
->
-> ```mermaid
-> graph TD
->   A[Elementary Arithmetic] --> B[Advanced Math]
->   B --> C[Abstract Reasoning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conceptual Taxonomy**
-> *Identify the relationships between computational theory, internal representations, and formal rules.*
->
-> ```mermaid
-> classDiagram
->   class ComputationalTheoryOfMind{
->     +symbols: StructuredRepresentations
->     +rules: FormalOperations
->   }
->   ComputationalTheoryOfMind --> InternalSymbols : manipulates
->   ComputationalTheoryOfMind --> FormalRules : governedBy
-> ```
 
 # Computational Theory of Mind
 

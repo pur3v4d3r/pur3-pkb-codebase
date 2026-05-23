@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -180,45 +176,6 @@ Self-Debugging LLMs have shown promise in closing a significant gap between init
 > [!connection] **[[Repair Prompting]]** — *specializes*
 > Self-debugging LLMs specialize in repair prompting by integrating iterative error detection and correction into their core functionality. Unlike general repair prompts that may require manual intervention, self-debugging models automate this process, making them more efficient for continuous code refinement.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-debugging cycle overview**
-> *Follow the iterative process from generation to correction.*
->
-> ```mermaid
-> graph TD
->   A[Generate Code] --> B[Detect Errors]
->   B --> C[Prompt Explanation]
->   C --> D[Propose Fix]
->   D --> E[Apply Fix]
->   E --> F[Evaluate Correctness]
->   F -->|Yes| G[Final Output]
->   F -->|No| A
-> ```
-
-
-> [!abstract] **Diagram 2 — Error detection methods comparison**
-> *Compare static analysis and execution feedback approaches.*
->
-> ```mermaid
-> graph TD
->   A[Static Analysis] --> B[Identify Syntax Errors]
->   C[Execution Feedback] --> D[Detect Runtime Issues]
->   E[Both Methods] --> F[Integrate for Comprehensive Error Detection]
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-diagnosis vs Human diagnosis**
-> *Compare the reliability of error detection methods.*
->
-> ```mermaid
-> graph TD
->   A[Human Diagnosis] --> B[Nuanced Understanding]
->   C[Model Self-Diagnosis] --> D[Data-Driven Patterns]
->   E[Reliability Comparison] --> F[Human More Contextual]
-> ```
 
 # Self-Debugging Language Model
 

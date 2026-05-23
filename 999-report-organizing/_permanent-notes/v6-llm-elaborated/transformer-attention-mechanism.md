@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,46 +154,6 @@ The transformer attention mechanism is pivotal for advancing natural language pr
 > [!connection] **[[Multi-Head Attention]]** — *specializes*
 > The transformer attention mechanism generalizes to multi-head attention by allowing multiple independent attention mechanisms over the same inputs. This specialization enhances model capacity and robustness, as different heads can focus on various aspects of the input data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attention Mechanism Flow**
-> *Follow the flow from query to weighted sum of values.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Key]
->   B --> C[Dot Product]
->   C --> D[Weights]
->   D --> E[Value]
->   E --> F[Weighted Sum]
-> ```
-
-
-> [!abstract] **Diagram 2 — Token Interaction Overview**
-> *See how each token interacts with all others in the sequence.*
->
-> ```mermaid
-> graph TD
->   A[Token1] -->|Query| B[Token2]
->   C[Token3] -->|Query| D[Token4]
->   E[Token5] -->|Query| F[Token6]
-> ```
-
-
-> [!abstract] **Diagram 3 — Direct vs Sequential Interaction**
-> *Compare direct token interaction with sequential processing.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Token1 as T1
->   participant Token2 as T2
->   participant Token3 as T3
->   T1 ->> T2: Query-Attention
->   T1 ->> T3: Query-Attention
->   T2 ->> T3: Sequential Propagation
-> ```
 
 # Transformer Attention Mechanism
 

@@ -18,7 +18,7 @@ subdomains:
   - attention-restoration
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - directed-attention-fatigue-synthetic-seed-2026-04-25
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Directed Attention Fatigue Process Flow**
-> *Follow the flow from effort to depletion and restoration.*
->
-> ```mermaid
-> flowchart LR
->   A[Effort]
->   B[Depletion]
->   C[Restoration]
->   A -->|Sustained Focus| B
->   B -->|Natural Exposure| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Restoration Theory Components**
-> *Identify the components that contribute to ART.*
->
-> ```mermaid
-> graph TD
->   A[Directed Attention Fatigue]
->   B[Natural Environments]
->   C[Involuntary Attention]
->   D[Cognitive Rest]
->   A -->|Restoration by| B
->   B -->|Engages| C
->   C -->|Provides| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Directed Attention Fatigue Mechanism**
-> *Trace the mechanism from suppression to depletion.*
->
-> ```mermaid
-> flowchart LR
->   A[Suppression]
->   B[Taxing Directed Attention]
->   C[Depletion of Resources]
->   D[Impaired Cognitive Performance]
->   A -->|Continuous Effort| B
->   B -->|Limited Capacity| C
->   C -->|Reduced Focus| D
-> ```
 
 # Directed Attention Fatigue
 

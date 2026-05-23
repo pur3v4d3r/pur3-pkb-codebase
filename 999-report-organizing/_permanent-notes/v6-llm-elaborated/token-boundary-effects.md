@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,54 +157,6 @@ Token Boundary Effects reveal a critical flaw in how LLMs process input data, su
 > [!connection] **[[Tokenization Artifacts]]** — *instance-of*
 > Token Boundary Effects are a specific instance of Tokenization Artifacts, which encompass all unintended consequences arising from the tokenization process. Understanding these effects is crucial for mitigating artifacts that can distort model performance and output quality.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Token Boundary Impact Flowchart**
-> *Follow the flow to see how token boundaries affect model behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Tokenization]
->   B --> C[Model Processing]
->   C --> D[Output]
->   A -.-> E[Token Boundary Decisions]
->   E --> F[Segmentation Variations]
->   F --> G[Artifact Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tokenization Mechanism Overview**
-> *Trace the steps to understand how token boundaries influence model outputs.*
->
-> ```mermaid
-> graph TD
->   A[Input Data] --> B(Tokenization)
->   B --> C(Model Training)
->   C --> D(Model Inference)
->   E[Token Boundary Decisions] --> F(Segmentation Variations)
->   F --> G(Artifact Generation)
->   H[Output]
->   D -.-> H
->   G -.-> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact on Multilingual Applications**
-> *Examine how token boundaries affect multilingual model performance.*
->
-> ```mermaid
-> graph TD
->   A[Input Text] --> B(Tokenization)
->   B --> C(Model Processing)
->   C --> D(Output)
->   E[Linguistic Differences] --> F(Cross-Lingual Tokenization)
->   F --> G(Consistency Issues)
->   H[Model Reliability]
->   D -.-> H
->   G -.-> H
-> ```
 
 # Token Boundary Effects
 

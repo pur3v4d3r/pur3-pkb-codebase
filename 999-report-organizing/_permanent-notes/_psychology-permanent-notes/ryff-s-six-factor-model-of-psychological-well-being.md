@@ -18,7 +18,7 @@ subdomains:
   - eudaimonic-psychology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - ryffs-six-factor-model-of-psychological-well-being-synthetic-seed-2026-05-01
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Six Dimensions Overview**
-> *Identify the six dimensions of well-being.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B(Environmental Mastery)
->   C(Personal Growth)
->   D(Positive Relations with Others)
->   E(Purpose in Life)
->   F(Self-Acceptance)
-> ```
-
-
-> [!abstract] **Diagram 2 — Dimension Interactions**
-> *See how dimensions interact to enhance well-being.*
->
-> ```mermaid
-> flowchart LR
->   A[Autonomy] --> B(Environmental Mastery)
->   D(Positive Relations with Others) --> C(Personal Growth)
->   E(Purpose in Life) --> F(Self-Acceptance)
-> ```
-
-
-> [!abstract] **Diagram 3 — Development Trajectories**
-> *Observe how dimensions change over the lifespan.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> A[Early Adulthood]
->   A --> B[Midlife]
->   B --> C[Late Adulthood]
->   :Autonomy, Environmental Mastery;
->   :Environmental Mastery increases;
->   :Autonomy increases;
->   :Purpose in Life decreases;
-> ```
 
 # Ryff's Six-Factor Model of Psychological Well-Being
 

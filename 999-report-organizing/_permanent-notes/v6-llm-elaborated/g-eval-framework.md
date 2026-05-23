@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,44 +173,6 @@ The G-Eval Framework represents a significant advancement in LLM evaluation by i
 > [!connection] **[[Model-Graded Evaluation]]** — *instance-of*
 > G-Eval Framework is an instance of Model-Graded Evaluation, as it involves models grading candidate texts based on predefined criteria. Unlike other forms of model-grading that may rely solely on direct ratings, G-Eval incorporates chain-of-thought reasoning to generate a more nuanced and consistent evaluation process.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — G-Eval Process Flowchart**
-> *Follow the steps from task definition to final score calculation.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Definition] --> B[Evaluation Criteria]
->   B --> C[Candidate Texts]
->   C --> D[Intermediate Reasoning Steps]
->   D --> E[Probability-Weighted Score]
-> ```
-
-
-> [!abstract] **Diagram 2 — G-Eval vs Traditional Metrics**
-> *Compare G-Eval's method to traditional automated metrics.*
->
-> ```mermaid
-> graph TD
->   A[Task Definition] --> B[Evaluation Criteria]
->   B --> C[Candidate Texts]
->   C --> D[G-Eval: Intermediate Reasoning Steps]
->   D --> E[G-Eval: Probability-Weighted Score]
->   F[BLEU/ROUGE: Direct Scoring] --> G[Final Score]
-> ```
-
-
-> [!abstract] **Diagram 3 — G-Eval Application Areas**
-> *Identify the different areas where G-Eval can be applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Evaluation of Prompts]
->   C[Dialogue Systems] --> D[Evaluation of Responses]
->   E[Summarization Tasks] --> F[Evaluation of Summaries]
-> ```
 
 # G-Eval Framework
 

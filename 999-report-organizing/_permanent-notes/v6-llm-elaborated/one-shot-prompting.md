@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,41 +153,6 @@ One-Shot Prompting often captures most of the format-specification benefit of fe
 > [!connection] **[[Few-shot Prompting]]** — *specializes*
 > One-Shot Prompting is a specialized form of Few-shot Prompting that leverages the benefits of minimal example-based guidance. While Few-shot Prompting can use multiple examples to guide model interpretation, One-Shot Prompting focuses on using just one high-quality example. This specialization allows for more streamlined and efficient task execution, particularly in scenarios where a single demonstration is sufficient to capture the essence of the task.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — One-Shot Prompting Process Flow**
-> *Follow the flow from Input to Output, noting the single example provided.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Single Example]
->   B --> C[Model Interpretation]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Other Prompting Methods**
-> *Compare One-Shot Prompting to Zero-shot and Multi-example methods.*
->
-> ```mermaid
-> graph TD
->   A[Zero-shot]
->   B[One-shot] -->|Single Example| C[Model Interpretation]
->   D[Multi-example] -->|Multiple Examples| E[Model Learning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Complexity vs Prompting Method**
-> *Identify the appropriate prompting method based on task complexity.*
->
-> ```mermaid
-> graph TD
->   A[Simple Task] --> B[Zero-shot]
->   C[Complex Task] --> D[Multi-example]
->   E[Moderate Task] --> F[One-shot]
-> ```
 
 # One-Shot Prompting
 

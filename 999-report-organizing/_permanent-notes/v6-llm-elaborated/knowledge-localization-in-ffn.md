@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,66 +155,6 @@ Understanding Knowledge Localization in FFN not only enhances our grasp of neura
 > [!connection] **[[ROME Experiments]]** — *supports*
 > The ROME experiments provide empirical evidence for knowledge localization by demonstrating that specific neuron groups in FFN layers correspond to particular factual associations. This supports the concept of Knowledge Localization by showing how targeted editing can be achieved without disrupting unrelated model behaviors.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Knowledge Localization Mechanism**
-> *Follow the flow from input to localized memory retrieval.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Subject Features]
->   C[Factual Associations]
->   D[Localized Memory]
->   E[Output]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Localization vs Distributed Representation**
-> *Compare localized and distributed knowledge storage approaches.*
->
-> ```mermaid
-> graph TD
->   A[Localized Memory]
->   B[Factual Associations]
->   C[Distributed Knowledge]
->   D[Multilayer Spread]
->   E[Complex Reasoning]
->   F[Targeted Editing]
->   G[Multi-hop Inference]
->   A -->|Focused Retrieval| B
->   C -->|Spread Across Layers| D
->   A -.-> F
->   C -.-> G
->   B -->|Precision| E
->   D -->|Accuracy| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Editing Process in FFN**
-> *Trace the process of editing factual knowledge within localized memory.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Layer as L
->   U->>M: Query 'Eiffel Tower is in Paris'
->   M->>L: Retrieve from Localized Memory
->   alt Modify Knowledge
->     L-->>U: Confirm Retrieval
->     U->>L: Edit to 'Rome'
->     L-->>M: Update Localized Memory
->   else No Change
->     L-->>M: Return Original Fact
->   end
-> ```
 
 # Knowledge Localization in FFN
 

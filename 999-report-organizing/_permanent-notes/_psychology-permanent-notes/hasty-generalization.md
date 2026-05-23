@@ -18,7 +18,7 @@ subdomains:
   - statistics
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hasty-generalization-synthetic-seed-2026-05-12
@@ -61,44 +61,8 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hasty Generalization Process Flow**
-> *Follow the flow from insufficient data to flawed conclusion.*
->
-> ```mermaid
-> flowchart LR
->   A[Insufficient Data] --> B[Sweeping Conclusion]
->   B --> C[Flawed Inference]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sample Adequacy vs Generalization Scope**
-> *Compare the adequacy of sample size with the scope of generalization.*
->
-> ```mermaid
-> graph TD
->   A[Small Sample] --> B[Inadequate]
->   C[Adequate Sample] --> D[Sufficient]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hasty Generalization in Domains**
-> *Identify common domains where hasty generalizations occur.*
->
-> ```mermaid
-> flowchart LR
->   A[Policy-Making] --> B[Hasty Decision]
->   C[Marketing] --> D[Misguided Strategy]
->   E[Scientific Research] --> F[Erroneous Conclusion]
-> ```
 
 # Hasty Generalization
 

@@ -18,7 +18,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mnemonic-strategies-synthetic-seed-2026-04-25
@@ -65,47 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mnemonic Strategy Types**
-> *Identify the different types of mnemonic strategies.*
->
-> ```mermaid
-> graph TD
->   A[Method of Loci] --> B[Peg Systems]
->   A --> C[Acronyms]
->   A --> D[Keyword Links]
->   A --> E[Chunking Schemes]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mnemonic Encoding Process**
-> *Follow the steps of encoding information using mnemonic strategies.*
->
-> ```mermaid
-> flowchart LR
->   A[Arbitrary Material] --> B[Imposing Structure]
->   B --> C[Association with Familiar Elements]
->   C --> D[Enhanced Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mnemonic Application Examples**
-> *See how mnemonic strategies are applied in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Acronyms]
->   C[Language Learning] --> D[Keyword Method]
->   E[Professional Development] --> F[Mnemonics for Safety Protocols]
-> ```
 
 # Mnemonic Strategies
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,69 +175,6 @@ Narrative Consistency Prompting is essential for long-form narrative coherence b
 > [!connection] **[[Contradiction Detection in Outputs]]** — *supports*
 > Narrative Consistency Prompting relies on effective contradiction detection to identify and correct inconsistencies. By integrating robust contradiction detection mechanisms, systems can more accurately maintain narrative coherence over extended periods.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Narrative Consistency Mechanism**
-> *Follow the flow from database to context window.*
->
-> ```mermaid
-> graph TD
->   A[Character Sheets]
->   B[World-State Dictionaries]
->   C[Event Timelines]
->   D[Consistency Database]
->   E[Context Window]
->   F[Narrative Generation]
->   A -->|Attributes and Motivations| D
->   B -->|Narrative Environment| D
->   C -->|Causal Continuity| D
->   D -->|Refreshed Data| E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Narrative Consistency Challenges**
-> *Identify the main challenges in maintaining consistency.*
->
-> ```mermaid
-> flowchart LR
->   A[Dynamic Narrative]
->   B[New Information Interaction]
->   C[Mitigate Primacy-Recency Effect]
->   D[In-Context Attention Limitations]
->   E[Narrative Facts Underweighted]
->   F[Effective Context Window Size]
->   A -->|Continuous Updates| B
->   B -->|Complex Interactions| C
->   C -->|Regular Refreshes| D
->   D -->|Limited In-Context Attention| E
->   E -->|Exceeds Effective Window| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Narrative Consistency Applications**
-> *See the applications in instructional design and creative writing.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Creative Writing Tools]
->   C[Narrative Consistency Prompting]
->   D[Believable Characters]
->   E[Engaging Scenarios]
->   F[Narrative Quality]
->   G[Reader Engagement]
->   H[Consistent Stories]
->   A -->|Ensures Believability| C
->   B -->|Maintains Coherence| C
->   C --> D
->   C --> E
->   C --> F
->   C --> G
->   C --> H
-> ```
 
 # Narrative Consistency Prompting
 

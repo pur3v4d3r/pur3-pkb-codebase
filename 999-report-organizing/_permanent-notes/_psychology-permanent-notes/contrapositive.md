@@ -17,7 +17,7 @@ subdomains:
   - formal-logic
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - contrapositive-synthetic-seed-2026-05-12
@@ -64,47 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Contrapositive Transformation Flow**
-> *Follow the flow to see how 'if P then Q' transforms into its contrapositive.*
->
-> ```mermaid
-> flowchart LR
->   A["If P then Q"] --> B["Negate both sides"]
->   B --> C["Swap positions"]
->   C --> D["If not-Q then not-P"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Logical Equivalence Relationships**
-> *Identify which statements are logically equivalent to 'if P then Q'.*
->
-> ```mermaid
-> graph TD
->   A["If P then Q"] -->|Equivalent| B["If not-Q then not-P"]
->   C["If Q then P"] -.->|Not Equivalent| A
->   D["If not-P then not-Q"] -.->|Not Equivalent| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Contrapositive in Hypothesis Testing**
-> *Understand how contrapositive helps avoid Type I errors.*
->
-> ```mermaid
-> flowchart LR
->   A["H0: P"] --> B["Test Q"]
->   B -->|Q True| C["Reject H0 (Type I Error)"]
->   B -->|Q False| D["Do not reject H0"]
->   E["Contrapositive: If not-Q then not-P"] --> F["Avoid Type I Errors"]
-> ```
 
 # Contrapositive
 

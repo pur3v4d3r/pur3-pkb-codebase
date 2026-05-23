@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,36 +168,6 @@ Empirical studies have shown that providing only the top-k most relevant context
 > [!connection] **[[In-Context Compression]]** — *contrasts-with*
 > While both techniques aim to optimize context for better model performance, they differ in their approach. In-Context Compression focuses on reducing the overall size of the input by compressing information, whereas Selective Context Technique filters out irrelevant segments without necessarily altering the remaining content's form or volume.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Selective Context Process Flow**
-> *Follow the steps from input to output, noting key stages.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Context] --> B[Relevance Scoring]
->   B --> C[Importance Scoring]
->   C --> D[Dependency Analysis]
->   D --> E[Filtered Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Selective vs Full Context Comparison**
-> *Compare the performance of selective and full context approaches.*
->
-> ```mermaid
-> graph TD
->   A[Selective Context] --> B[Improved Performance]
->   C[Full Context] --> D[Performance Matches or Exceeds]
->   E{Context Length < 2000 Tokens}
->   F{Relevant Content > 30%}
->   E -->|Yes| B
->   E -->|No| A
->   F -->|Yes| C
->   F -->|No| D
-> ```
 
 # Selective Context Technique
 

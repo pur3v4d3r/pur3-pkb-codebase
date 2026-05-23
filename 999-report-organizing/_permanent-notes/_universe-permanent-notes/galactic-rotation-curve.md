@@ -16,7 +16,7 @@ subdomains:
   - galactic-dynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - galactic-rotation-curve-synthetic-seed-2026-05-14
@@ -63,37 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Galactic Rotation Curve Overview**
-> *Follow the curve to see how velocity changes with radius.*
->
-> ```mermaid
-> graph TD
->   A[Center] --> B[R]
->   B --> C[V]
->   A --> D[H I]
->   A --> E[Hα]
-> ```
-
-
-> [!abstract] **Diagram 2 — Doppler Shift Mechanism**
-> *Trace the path from gas cloud to observed Doppler shift.*
->
-> ```mermaid
-> sequenceDiagram
->   participant GasCloud as GC
->   participant Telescope as T
->   GC->>T: Emission (Red/Blue Shift)
->   T-->>GC: Observation
-> ```
 
 # Galactic Rotation Curve
 

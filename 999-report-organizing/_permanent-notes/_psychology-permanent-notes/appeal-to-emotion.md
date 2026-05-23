@@ -18,7 +18,7 @@ subdomains:
   - persuasion-research
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - appeal-to-emotion-synthetic-seed-2026-05-12
@@ -65,73 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Appeal to Emotion Fallacy Structure**
-> *Identify how emotional responses are used as evidence.*
->
-> ```mermaid
-> graph TD
->   A[Argument]
->   B[Emotional Response]
->   C[Evidence]
->   D[Conclusion]
->   A -->|Relies on|
->   B -->|Treated as|
->   C -->|Inferential Weight|
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotion vs Logical Reasoning in Arguments**
-> *Distinguish between emotional and logical argument types.*
->
-> ```mermaid
-> graph TD
->   A[Appeal to Emotion]
->   B[Logically Sound Argument]
->   C[Evidence]
->   D[Emotional Charge]
->   E[Rational Analysis]
->   F[Conclusion]
->   A -->|Primary Support|
->   D -->|No Substitute for Evidence|
->   B -->|Role but Not Substitute|
->   C -->
->   E -->|Logical Reasoning|
->   F
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact of Appeal to Emotion in Decision-Making**
-> *Understand the influence on public discourse and personal decisions.*
->
-> ```mermaid
-> graph TD
->   A[Public Discourse]
->   B[Advertising]
->   C[Personal Decisions]
->   D[Fear/Pity Manipulation]
->   E[Emotional Urgency]
->   F[Impulsive Choices]
->   G[Rational Analysis]
->   H[Informed Decisions]
->   A -->|Manipulates|
->   D -->
->   E -->|Overrules Rationality|
->   B -->|Creates Positive Associations|
->   C -->|Driven by Emotions|
->   F
->   G -->|Maintains Logical Debate|
->   H
-> ```
 
 # Appeal to Emotion
 

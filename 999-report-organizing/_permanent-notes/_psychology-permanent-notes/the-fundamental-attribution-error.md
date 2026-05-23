@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -69,61 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — FAE Process Overview**
-> *Follow the flow from behavior to attribution.*
->
-> ```mermaid
-> flowchart LR
->   A[Behavior] --> B[Situational Factors]
->   A --> C[Dispositional Factors]
->   B --> D[Underweighted]
->   C --> D[Overweighted]
->   D --> E[Judgment]
-> ```
-
-
-> [!abstract] **Diagram 2 — FAE in Social Contexts**
-> *Identify the cultural and situational influences on FAE.*
->
-> ```mermaid
-> graph TD
->   A[Western Context]
->   B[Individualist Societies]
->   C[Cultural Variations]
->   D[Situational Factors]
->   E[Dispositional Factors]
->   A -->|Stronger Bias| B
->   B -->|More Prevalent| D
->   C -->|Varies Across Cultures| D
->   C -->|Varies Across Cultures| E
-> ```
-
-
-> [!abstract] **Diagram 3 — FAE Mechanism Overview**
-> *Trace the cognitive and perceptual processes involved.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception]
->   B[Situational Factors]
->   C[Dispositional Factors]
->   D[Effortful Correction Failure]
->   E[Judgment]
->   A -->|Undernoticed| B
->   A -->|Overnoticed| C
->   C -->|Dominant Attribution| E
->   B -->|Underweighted| E
->   E --> D
-> ```
 
 # Fundamental Attribution Error
 

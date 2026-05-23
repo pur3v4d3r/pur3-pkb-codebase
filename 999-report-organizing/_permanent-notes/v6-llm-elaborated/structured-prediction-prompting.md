@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,41 +153,6 @@ Structured prediction prompting stands out as a versatile tool within the broade
 > [!connection] **[[Grammar-Constrained Decoding]]** — *contrasts-with*
 > While both methods aim for structured output, grammar-constrained decoding focuses on syntactic correctness without necessarily providing semantic context. Structured prediction prompting, in contrast, integrates schema instructions with meaningful content guidance, ensuring outputs are both structurally sound and semantically rich.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Structured Prediction Workflow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Template Embedding]
->   B --> C[Model Generation]
->   C --> D[Output Validation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Engineering Components**
-> *Identify the components that make up structured prediction prompting.*
->
-> ```mermaid
-> graph TD
->   A[Prompt] --> B[Templates]
->   A --> C[Placeholders]
->   A --> D[Delimiters]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with API Constraints**
-> *Compare structured prediction prompting and pure API constraints.*
->
-> ```mermaid
-> flowchart LR
->   A[Pure API Constraints] --> B[Format Compliance]
->   C[Structured Prediction Prompting] --> D[Schema Instructions]
->   C --> E[Semantic Guidance]
-> ```
 
 # Structured Prediction Prompting
 

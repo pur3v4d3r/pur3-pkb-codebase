@@ -17,7 +17,7 @@ subdomains:
   - space-weather
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - coronal-mass-ejection-synthetic-seed-2026-05-14
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — CME Impact on Earth's Magnetic Field**
-> *Follow the path of a CME from Sun to Earth interaction.*
->
-> ```mermaid
-> flowchart LR
->   A[Sun] --> B[CME Ejection]
->   B --> C[Travel Through Space]
->   C --> D[Earth's Magnetosphere Interaction]
->   D --> E[Geomagnetic Storms]
-> ```
-
-
-> [!abstract] **Diagram 2 — CME vs Solar Flare Comparison**
-> *Compare the nature and impact of CMEs and solar flares.*
->
-> ```mermaid
-> graph TD
->   A[Coronal Mass Ejection]
->   B[Solar Flare]
->   A -->|Plasma Ejection| F[Geo-effectiveness Dependent on Magnetic Field Configuration]
->   B -->|Radiation Release| G[Primarily Electromagnetic Radiation]
-> ```
-
-
-> [!abstract] **Diagram 3 — CME's Effects on Earth Infrastructure**
-> *Identify the impacts of CMEs on power grids, satellites, and aviation.*
->
-> ```mermaid
-> flowchart LR
->   A[Coronal Mass Ejection] --> B[Power Grid Disruption]
->   A --> C[Satellite Communications Disruption]
->   A --> D[Aerospace Vehicle Radiation Exposure]
-> ```
 
 # Coronal Mass Ejection
 

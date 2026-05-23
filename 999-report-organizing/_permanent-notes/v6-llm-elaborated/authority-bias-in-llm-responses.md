@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,76 +173,6 @@ Addressing Authority Bias requires a multifaceted approach that includes not onl
 > [!connection] **[[Framing Effects on LLM Outputs]]** — *contrasts-with*
 > While both Authority Bias and Framing Effects can influence how LLMs process information, they operate through different mechanisms. Authority Bias is specifically about differential treatment based on source authority, whereas Framing Effects are more broadly concerned with how the presentation of information shapes interpretation. Understanding these distinctions helps in designing interventions that target specific types of bias.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Authority Bias Mechanism Overview**
-> *Follow the flow from training data to model output.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[Reinforcement Learning]
->   C[Expert Endorsements]
->   D[Affirmative Framing]
->   E[Model Output]
->   F[Hallucination]
->   G[Confidence Boost]
->   H[Systematic Bias]
->   A -->|Learn Patterns| C
->   B -->|Reward Alignment| D
->   C -->|Expert Endorsements| D
->   D -->|Affirmative Framing| E
->   E -->|Hallucination| F
->   F -->|Confidence Boost| G
->   G -->|Systematic Bias| H
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM Response Confidence Levels**
-> *Compare confidence levels for different source types.*
->
-> ```mermaid
-> graph TD
->   A[Anonymous Source]
->   B[Nobel Laureate]
->   C[Confidence Level]
->   D[Detailed Elaboration]
->   E[Low Confidence]
->   F[High Confidence]
->   G[Less Skepticism]
->   H[More Skepticism]
->   A -->|Claim| E
->   B -->|Claim| F
->   C -->|Anonymous Source| E
->   D -->|Nobel Laureate| F
->   E -->|Low Confidence| H
->   F -->|High Confidence| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Authority Bias**
-> *Identify areas where bias can impact content quality.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Educational Content]
->   C[Simplified Information]
->   D[Biased Materials]
->   E[Student Misinformation]
->   F[Controversies Ignored]
->   G[Alternative Viewpoints Absent]
->   H[Quality and Reliability Impact]
->   A -->|LLM Task| B
->   B -->|Authority Bias| C
->   C -->|Simplified Information| D
->   D -->|Biased Materials| E
->   E -->|Student Misinformation| F
->   F -->|Controversies Ignored| G
->   G -->|Alternative Viewpoints Absent| H
-> ```
 
 # Authority Bias in LLM Responses
 

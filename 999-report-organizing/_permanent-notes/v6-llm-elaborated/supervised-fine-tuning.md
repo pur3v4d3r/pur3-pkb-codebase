@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,74 +164,6 @@ Supervised fine-tuning is foundational for aligning large language models with h
 > [!connection] **[[Parameter-Efficient Fine-Tuning]]** — *specializes*
 > Supervised fine-tuning and parameter-efficient fine-tuning both aim to improve large language models, but they differ in their approach. Parameter-efficient methods focus on minimizing the number of parameters updated during fine-tuning, making them more resource-efficient compared to traditional supervised fine-tuning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Supervised Fine-Tuning Process Flow**
-> *Follow the sequence from pretraining to alignment stages.*
->
-> ```mermaid
-> graph TD
->   A[Pretrained Model]
->   B[Labelled Data]
->   C[Cross-Entropy Loss]
->   D[Task-Specific Parameters]
->   E[Alignment Methods]
->   A -->|Fine-Tuning|
->   B -->|Training|
->   C -->|Optimization|
->   D
->   D -->|Foundation|
->   E
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Fine-Tuning Techniques**
-> *Compare supervised fine-tuning with RLHF and DPO.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Fine-Tuning]
->   B[Reinforcement Learning from Human Feedback (RLHF)]
->   C[Direct Preference Optimization (DPO)]
->   A -->|Labeled Data|
->   B -->|Human Feedback|
->   C -->|Preference Comparison|
->   A -->|Cross-Entropy Loss|
->   B -->|Reward System|
->   C -->|Comparison-Based Loss|
->   A -->|Explicit Labeling|
->   B -->|Dynamic Alignment|
->   C -->|Direct Optimization|
-> ```
-
-
-> [!abstract] **Diagram 3 — Supervised Fine-Tuning Workflow**
-> *Trace the workflow from data preparation to model optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Preparation]
->   B[Labeled Dataset]
->   C[Model Initialization]
->   D[Fine-Tuning Process]
->   E[Cross-Entropy Loss Function]
->   F[Optimized Parameters]
->   G[Task-Specific Model]
->   A -->|Curate|
->   B
->   B -->|Load|
->   C
->   C -->|Start|
->   D
->   D -->|Apply|
->   E
->   E -->|Adjust|
->   F
->   F -->|Result|
->   G
-> ```
 
 # Supervised Fine-Tuning
 

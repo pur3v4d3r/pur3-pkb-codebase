@@ -19,7 +19,7 @@ subdomains:
   - cognitive-architecture
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - extended-thinking-architecture-synthetic-seed-2026-05-20
@@ -66,51 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Extended Thinking Process Flow**
-> *Follow the steps from input to final output, noting the internal reasoning trace.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Generate Reasoning Trace]
->   B --> C[Multi-Step Planning]
->   C --> D[Hypothesis Generation]
->   D --> E[Self-Correction]
->   E --> F[Final Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Comparison**
-> *Compare the paths of reflective and reactive thinking in model responses.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Reflective Thinking] --> C[Review Reasoning]
->   D[Reactive Thinking] --> E[Immediate Response]
->   C --> F[Final Answer]
->   E --> G[Final Answer]
-> ```
-
-
-> [!abstract] **Diagram 3 — Extended vs Standard Prompting Techniques**
-> *Identify the key differences in output between extended and standard prompting techniques.*
->
-> ```mermaid
-> graph TD
->   A[Standard Prompt]
->   B[Direct Output] --> C[Final Response]
->   D[Extended Prompt]
->   E[Reasoning Trace] --> F[Final Response]
-> ```
 
 # Extended Thinking Architecture
 

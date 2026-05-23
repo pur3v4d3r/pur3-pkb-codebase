@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,48 +169,6 @@ By enabling real-time interaction with large language models, Streaming Output M
 > [!connection] **[[Latency-Aware Prompt Design]]** — *specializes*
 > Streaming Output Management specializes Latency-Aware Prompt Design by focusing on the delivery mechanism of model outputs. While Latency-Aware Prompt Design aims to reduce latency through prompt engineering, Streaming Output Management achieves this goal specifically through real-time output streaming techniques.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Streaming vs Non-streaming Delivery Methods**
-> *Compare the output delivery approaches.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   B[Non-Streaming: Wait for Full Output]
->   C[Streaming: Deliver Tokens as Generated]
->   A -->|Output Generation| B
->   A -->|Token Generation| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Real-time Data Delivery Protocols**
-> *Identify the protocols used for streaming.*
->
-> ```mermaid
-> graph TD
->   A[Server]
->   B[Client]
->   A -->|SSE (Push Updates)| B
->   A -->|WebSockets (Bidirectional Comm.)| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Streaming Output Pipeline**
-> *Follow the flow of tokens from generation to display.*
->
-> ```mermaid
-> flowchart LR
->   A[Token Generation]
->   B[Server-Sent Events/WebSockets]
->   C[Client-side Rendering]
->   D[User Interaction]
->   A -->|Deliver Tokens| B
->   B -->|Receive Tokens| C
->   C -->|Display Partial Output| D
-> ```
 
 # Streaming Output Management
 

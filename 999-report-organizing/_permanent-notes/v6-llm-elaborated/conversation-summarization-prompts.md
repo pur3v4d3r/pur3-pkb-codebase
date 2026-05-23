@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,45 +150,6 @@ The integration of conversation summarization prompts into various applications 
 > [!connection] **[[Text Summarization]]** — *contrasts-with*
 > While both conversation summarization and text summarization aim to condense information, they differ fundamentally in their approach. Text summarization focuses on extracting the main ideas from a document without considering turn-taking or context dependency, whereas conversation summarization is dialogue-specific, tracking contributions and maintaining temporal ordering.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Conversation Summarization Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Dialogue] --> B[Extract Key Points]
->   B --> C[Distinguish Contributions]
->   C --> D[Preserve Temporal Order]
->   D --> E[Generate Summary]
-> ```
-
-
-> [!abstract] **Diagram 2 — Context-Specific vs General Summarization**
-> *Compare the focus areas of each summarization type.*
->
-> ```mermaid
-> graph TD
->   A[General Text Summarization] --> B[Essence Capture]
->   C[Conversation Summarization] --> D[Distinguish Contributions]
->   E[Purpose-Specific Focus] --> F[Preserve Temporal Order]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios for Conversation Summaries**
-> *Identify the use cases and benefits of conversation summaries.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InstructionalDesign as ID
->   participant CustomerService as CS
->   participant VirtualClassroom as VC
->   participant Agent as A
->   ID->>VC: Enhance Learning
->   CS->>A: Efficient Interaction Management
-> ```
 
 # Conversation Summarization Prompts
 

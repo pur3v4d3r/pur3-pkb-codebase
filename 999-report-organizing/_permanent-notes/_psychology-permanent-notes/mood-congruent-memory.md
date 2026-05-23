@@ -19,7 +19,7 @@ subdomains:
   - emotion
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mood-congruent-memory-synthetic-seed-2026-04-26
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mood Congruent Memory Process Flow**
-> *Follow the flow from mood to memory retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Emotional State] --> B[Encoding]
->   B --> C[Memory Storage]
->   C --> D[Retrieval]
->   D --> E[Recall]
->   E --> F[Enhanced Emotional Intensity]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mood Congruent Memory Mechanism Overview**
-> *Trace the interaction between emotional states and memory processes.*
->
-> ```mermaid
-> graph TD
->   A[Emotional State] --> B[Neural Networks Activation]
->   B --> C[Encoding of Emotionally Congruent Information]
->   C --> D[Strengthened Neuronal Connections]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mood Congruent Memory Applications**
-> *Identify the applications in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Positive Affirmations]
->   C[Therapeutic Interventions] --> D[Negative Thought Patterns Counteraction]
->   E[Marketing Strategies] --> F[Holiday Season Ads]
-> ```
 
 # Mood Congruent Memory
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -176,45 +172,6 @@ The quality of the reward model is a critical bottleneck in reinforcement learni
 > [!connection] **[[Direct Preference Optimization]]** — *contrasts-with*
 > While both Reward Model Design and Direct Preference Optimization aim to align AI systems with human preferences, they differ in their approach. Direct Preference Optimization seeks to optimize the policy directly based on human feedback without an intermediary reward model. This contrasts with Reward Model Design, which focuses on creating a predictive model of human preferences that can then be used to guide reinforcement learning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reward Model Design Process Flow**
-> *Follow the steps from initialization to fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initialize Reward Model]
->   B[Fine-Tune on Human Comparisons]
->   C[Predict Human Preferences]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison Formats Taxonomy**
-> *Compare the characteristics of pairwise and ranked formats.*
->
-> ```mermaid
-> graph TD
->   Pairwise[Pairwise Comparisons]
->   Ranked[Ranked Comparisons]
->   Pairwise -->|Intuitive but requires larger datasets| C1[Intuition]
->   Ranked -->|Broader evaluation, nuanced preferences| C2[Nuance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reward Model Challenges State Machine**
-> *Track the states and transitions in reward model design.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Initializing
->   Initializing --> FineTuning: Human Comparisons
->   FineTuning --> Overfitting: Bias or Reward Hacking
->   FineTuning --> Generalizing: Reliable Rewards
-> ```
 
 # Reward Model Design
 

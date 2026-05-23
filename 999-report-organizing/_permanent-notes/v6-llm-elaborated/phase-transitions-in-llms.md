@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,63 +161,6 @@ Empirical evidence from various studies highlights the unpredictability of phase
 > [!connection] **[[Large Language Model Scaling Laws]]** — *applies-to*
 > Phase transitions in LLMs are a direct application of scaling laws, which describe how model performance changes with scale. Understanding these transitions helps refine and validate the empirical relationships captured by scaling laws, providing deeper insights into the mechanisms driving large-scale improvements.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Phase Transition Overview**
-> *Identify the key stages of phase transitions in LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   B[Incremental Improvements]
->   C[Abrupt Qualitative Shifts]
->   D[Emergence of New Capabilities]
->   E[End]
->   A --> B
->   B -->|Threshold Reached| C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Phase Transition Factors**
-> *Understand the factors influencing phase transitions in LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Model Size]
->   B[Training Data]
->   C[Evaluation Methodology]
->   D[Training Procedures]
->   E[Data Distribution]
->   F[Phase Transition]
->   A -->|Influences| F
->   B -->|Influences| F
->   C -->|Influences| F
->   D -->|Influences| F
->   E -->|Influences| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Phase Transition Implications**
-> *Explore the implications of phase transitions on LLM research.*
->
-> ```mermaid
-> graph TD
->   A[Capability Forecasting]
->   B[Safety Evaluations]
->   C[Theoretical Knowledge Advancement]
->   D[Practical Applications Improvement]
->   E[Synthesis and Understanding]
->   F[Phase Transition]
->   F -->|Affects| A
->   F -->|Necessitates| B
->   F -->|Advances| C
->   F -->|Improves| D
->   F -->|Enhances| E
-> ```
 
 # Phase Transitions in Large Language Models
 

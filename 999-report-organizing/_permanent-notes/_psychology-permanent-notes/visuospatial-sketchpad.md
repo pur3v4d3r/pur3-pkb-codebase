@@ -18,7 +18,7 @@ subdomains:
   - spatial-cognition
 
 created: 2026-04-24
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - visuospatial-sketchpad-synthetic-seed-2026-04-24
@@ -67,69 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Visuospatial Sketchpad Components**
-> *Identify the key components and their functions.*
->
-> ```mermaid
-> graph TD
->   A[Visual Information]
->   B[Location Data]
->   C[Movement Tracking]
->   D[Object Identity]
->   E[Manipulation]
->   F[Temporary Storage]
->   A -->|Input| F
->   B -->|Input| F
->   C -->|Input| F
->   D -->|Input| F
->   F -->|Output| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Visuospatial Sketchpad vs Phonological Loop**
-> *Compare the Visuospatial Sketchpad with the Phonological Loop.*
->
-> ```mermaid
-> graph TD
->   A[Visuospatial Sketchpad]
->   B[Phonological Loop]
->   C[Visual & Spatial Data]
->   D[Verbal Information]
->   E[Intact Verbal Recall]
->   F[Damaged Visuospatial Recall]
->   G[Intact Visual-Spatial Recall]
->   H[Damaged Verbal Recall]
->   A -->|Handles| C
->   B -->|Handles| D
->   A -->|Impaired by| F
->   B -->|Intact by| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Visuospatial Sketchpad Task Flow**
-> *Follow the process of a task involving mental rotation.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B[Mental Image Creation]
->   C[Object Rotation]
->   D[Rotation Completion]
->   E[End]
->   A --> B
->   B -->|Maintain Image| C
->   C -->|Rotate Object| D
->   D --> E
-> ```
 
 # Visuospatial Sketchpad
 

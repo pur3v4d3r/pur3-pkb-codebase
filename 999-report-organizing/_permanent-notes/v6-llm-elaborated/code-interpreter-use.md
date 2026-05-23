@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,32 +170,6 @@ The evidence underscores that code interpreter use significantly enhances the pe
 > [!connection] **[[Sandbox Environments]]** — *applies-to*
 > The concept of sandboxed environments is directly applied in the context of code interpreter use within language models. These environments are essential for safely executing user-generated or model-suggested code snippets without posing risks to system integrity or security. By isolating computational processes, sandboxing ensures that even potentially harmful code can be run securely and efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Code Interpreter Workflow**
-> *Follow the flow from user input to computational output.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[LLM Generates Code]
->   B --> C[Sandboxed Execution]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sandbox Security Model**
-> *Identify the restricted resources and computational limits.*
->
-> ```mermaid
-> graph TD
->   A[File System] -->|Restricted Access| B[Sandbox]
->   C[System Calls] -->|Restricted Access| B
->   D[Network Interfaces] -->|Restricted Access| B
->   E[CPU Time] -->|Limited Usage| B
->   F[Memory Usage] -->|Limited Usage| B
-> ```
 
 # Code Interpreter Use
 

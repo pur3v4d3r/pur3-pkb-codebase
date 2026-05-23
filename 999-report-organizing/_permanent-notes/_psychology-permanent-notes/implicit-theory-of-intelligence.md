@@ -18,7 +18,7 @@ subdomains:
   - social-cognition
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - implicit-theory-of-intelligence-synthetic-seed-2026-04-25
@@ -65,49 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Entity vs Incremental Theory**
-> *Compare the beliefs of fixed and malleable intelligence.*
->
-> ```mermaid
-> graph TD
->   A[Entity Theory]
->   B[Incremental Theory]
->   A -->|Fixed Intelligence| C[Performance Goals]
->   B -->|Malleable Intelligence| D[Mastery Goals]
-> ```
-
-
-> [!abstract] **Diagram 2 — Attribution Styles**
-> *Understand how different theories affect attribution.*
->
-> ```mermaid
-> graph TD
->   A[Entity Theory]
->   B[Incremental Theory]
->   A -->|Internal Attribution| C[Feelings of Helplessness]
->   B -->|External/Effort Attribution| D[Persistence and Improvement]
-> ```
-
-
-> [!abstract] **Diagram 3 — Behavior Influences**
-> *See how theories impact goal setting and emotional responses.*
->
-> ```mermaid
-> graph TD
->   A[Entity Theory]
->   B[Incremental Theory]
->   A -->|Performance Goals| C[Feelings of Helplessness]
->   B -->|Mastery Goals| D[Persistence and Improvement]
-> ```
 
 # Implicit Theory of Intelligence
 

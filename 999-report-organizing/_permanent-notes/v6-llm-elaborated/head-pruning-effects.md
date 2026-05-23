@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,56 +156,6 @@ Research consistently shows that a significant fraction of attention heads can b
 > [!connection] **[[Model Compression]]** — *applies-to*
 > Head pruning effects directly apply to model compression strategies by providing a targeted approach to reducing the size and computational requirements of transformer models. Unlike broader methods that indiscriminately reduce network complexity, head pruning focuses on eliminating non-critical components while preserving task-specific performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Head Pruning Process Flow**
-> *Follow the sequence from head selection to performance evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Select Heads]
->   B[Zero Out/Remove Parameters]
->   C[Evaluate Performance]
->   D[Optimize Model]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Head Contribution Distribution**
-> *Identify the heavy-tailed distribution of head contributions.*
->
-> ```mermaid
-> graph TD
->   A[Critical Heads]
->   B[Non-Critical Heads]
->   C[Performance Impact]
->   D[Redundancy]
->   A -->|High Contribution| C
->   B -->|Low Contribution| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Pruning Methods Comparison**
-> *Compare the impact of different pruning methods on model efficiency.*
->
-> ```mermaid
-> graph TD
->   A[Hard Ablation]
->   B[Structured Pruning]
->   C[Soft Pruning]
->   D[Efficiency Gain]
->   E[Performance Impact]
->   A -->|Efficiency| D
->   A -->|Impact| E
->   B -->|Efficiency| D
->   B -->|Impact| E
->   C -->|Efficiency| D
->   C -->|Impact| E
-> ```
 
 # Head Pruning Effects
 

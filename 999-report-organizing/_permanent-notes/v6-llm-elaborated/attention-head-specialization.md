@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,42 +162,6 @@ Attention head specialization underscores the adaptive nature of transformer arc
 > [!connection] **[[Multi-head Attention Mechanics]]** — *specializes*
 > Attention head specialization is a specific outcome of multi-head attention mechanics, where the distribution of tasks among multiple heads leads to functional differentiation. This specialization enhances the model's ability to capture diverse aspects of input data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Attention Head Specialization Overview**
-> *Identify the distinct functions each head specializes in.*
->
-> ```mermaid
-> graph TD
->   A[Syntactic Dependencies] --> B1[Head 1]
->   C[Positional Contexts] --> B2[Head 2]
->   D[Semantic Associations] --> B3[Head 3]
-> ```
-
-
-> [!abstract] **Diagram 2 — Model Size vs Specialization**
-> *Observe how specialization increases with model size.*
->
-> ```mermaid
-> flowchart LR
->   A1[Small Model] --> C1[Less Distinct]
->   B1[Medium Model] --> C2[More Distinct]
->   D1[Larger Model] --> C3[Highly Specialized]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application in Design and Interpretability**
-> *See how specialization informs model design and interpretability efforts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Designer as D
->   participant Interpreter as I
->   D->>I: Focus on specialized heads for specific functions
->   I-->>D: Enhance understanding of model decisions
-> ```
 
 # Attention Head Specialization
 

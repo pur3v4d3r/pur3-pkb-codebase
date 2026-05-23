@@ -18,7 +18,7 @@ subdomains:
   - psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - relatedness-need-synthetic-seed-2026-04-24
@@ -67,88 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Relatedness Need Components**
-> *Identify the key components of Relatedness Need.*
->
-> ```mermaid
-> graph TD
->   A[Social Connection]
->   B[Belongingness]
->   C[Emotional Support]
->   D[Warm Relationships]
->   E[Validation]
->   F[Conditional Regard]
->   A -->|Includes| B
->   A -->|Includes| C
->   A -->|Includes| D
->   A -->|Excludes| E
->   A -->|Excludes| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Relatedness Need Mechanism**
-> *Follow the flow from social connection to enhanced motivation.*
->
-> ```mermaid
-> flowchart LR
->   A[Social Connection]
->   B[Warm Relationships]
->   C[Emotional Support]
->   D[Sense of Security]
->   E[Validation]
->   F[Risk Taking]
->   G[Engagement]
->   H[Motivation]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Relatedness Need**
-> *Explore different ways to foster relatedness in educational settings.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Teacher-Student Relationships]
->   C[Parental Involvement]
->   D[Group Activities]
->   E[Emotional Support]
->   F[Warm Interactions]
->   G[Peer Interaction]
->   H[Collaborative Problem-Solving]
->   I[Regular Check-ins]
->   J[Acknowledge Efforts]
->   K[Genuine Interest]
->   L[School Events]
->   M[Progress Interest]
->   N[Emotional Support at Home]
->   A --> D
->   B --> E
->   C --> F
->   D --> G
->   D --> H
->   E --> I
->   E --> J
->   E --> K
->   F --> L
->   F --> M
->   F --> N
-> ```
 
 # Relatedness Need
 

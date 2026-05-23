@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,46 +161,6 @@ Empirical observations show that overthinking often leads to degraded answer qua
 > [!connection] **[[Thinking Budget Allocation]]** — *applies-to*
 > Overthinking in LLMs is directly addressed by strategies for allocating thinking budgets. By setting appropriate limits on the amount of reasoning a model can engage in, Thinking Budget Allocation helps prevent unnecessary elaboration and ensures that responses remain concise and relevant.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Overthinking Process Flow**
-> *Follow the flow from input to output, noting where overthinking occurs.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Reasoning]
->   B --> C[Valid Solution]
->   C --> D[Unnecessary Elaboration]
->   D --> E[Degraded Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Productive vs Unproductive Reasoning**
-> *Compare the paths of productive and unproductive reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Input] --> B[Productive]
->   A --> C[Unproductive]
->   B --> D[Clear Explanation]
->   C --> E[Necessary Complexity]
->   D --> F[Enhanced Quality]
->   E --> G[Degrades Quality]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Load Theory Application**
-> *Identify the balance between intrinsic and extraneous cognitive loads.*
->
-> ```mermaid
-> graph TD
->   A[Task] --> B[Necessary Cognitive Demand]
->   A --> C[Unnecessary Elaboration]
->   B --> D[Enhanced Understanding]
->   C --> E[Degrades Performance]
-> ```
 
 # Overthinking in LLMs
 

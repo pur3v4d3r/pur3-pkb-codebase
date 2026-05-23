@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,58 +155,6 @@ Understanding how to apply positive framing effectively can significantly enhanc
 > [!connection] **[[Negative Prompting]]** — *contrasts-with*
 > While negative prompting focuses on prohibitions that learners should avoid, positive framing specifies desired behaviors directly. This contrast highlights the cognitive benefits of reducing ambiguity and simplifying instructions through affirmative statements.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Positive Framing vs Negative Prompting**
-> *Compare the focus of positive and negative framing.*
->
-> ```mermaid
-> graph TD
->   A[Desired Behavior]
->   B[Prohibited Behavior]
->   C(Positive Framing)
->   D(Negative Prompting)
->   C -->|Directly Specify| A
->   D -->|Specify Avoidance| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Reduction**
-> *Understand how positive framing reduces cognitive load.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Activation]
->   B[Inhibition]
->   C[Positive Framing]
->   D[Cognitive Load]
->   E[Desired Behavior]
->   A -->|Activate Unwanted|
->   B
->   B -->|Cognitively Taxing|
->   D
->   C -->|Directly Activate|
->   E
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications**
-> *See examples of positive framing in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Safety-Critical Systems]
->   C(Positive Framing)
->   D(Affirmative Instructions)
->   E(Direct Actions)
->   A -->|Minimize Confusion|
->   D
->   B -->|Reduce Ambiguity|
->   E
-> ```
 
 # Positive Framing in Prompts
 

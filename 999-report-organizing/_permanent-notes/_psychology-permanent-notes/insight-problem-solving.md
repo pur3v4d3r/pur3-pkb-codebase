@@ -19,7 +19,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - insight-problem-solving-synthetic-seed-2026-04-25
@@ -66,53 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Insight Problem Solving Process Flow**
-> *Follow the stages from impasse to restructuring.*
->
-> ```mermaid
-> flowchart LR
->   A[Encounter Impasse] --> B[Incubation]
->   B --> C[Restructuring Phase]
->   C --> D['Aha! Moment']
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive vs Emotional Components**
-> *Identify the cognitive and emotional aspects of insight solving.*
->
-> ```mermaid
-> graph TD
->   A[Problem Representation]
->   B[Restructuring]
->   C['Aha! Experience']
->   D[Positive Emotions]
->   A -->|Cognitive Aspect| B
->   B -->|Cognitive Aspect| C
->   C -->|Emotional Aspect| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Analytic vs Insightful Problem Solving**
-> *Compare the processes of analytic and insightful problem solving.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Analytic
->   participant B as Insightful
->   A->>A: Search-based Incremental Approach
->   B->>B: Restructuring-based Discontinuous Approach
->   A-->>A: Solution Found Through Steps
->   B-->>B: 'Aha!' Moment
-> ```
 
 # Insight Problem Solving
 

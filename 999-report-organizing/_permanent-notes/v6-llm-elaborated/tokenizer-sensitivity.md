@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,47 +160,6 @@ The evidence underscores that tokenizer sensitivity is a fundamental reliability
 > [!connection] **[[Tokenization Artifacts]]** — *contrasts-with*
 > While both concepts deal with issues arising from tokenization processes, tokenizer sensitivity focuses specifically on how surface-level variations in prompts can lead to different outputs due to token sequences. In contrast, tokenization artifacts refer more broadly to unintended or unexpected elements introduced during the tokenization process that may not directly correlate with prompt formulation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tokenizer Sensitivity Process Flow**
-> *Follow the flow from input to output, noting how tokenization affects model response.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Tokenization]
->   B --> C[Model Processing]
->   C --> D[Output Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tokenizer Sensitivity Examples**
-> *Compare the different outputs based on variations in token sequences.*
->
-> ```mermaid
-> graph TD
->   A[Capitalization] --> B["Different Outputs"]
->   C[Punctuation] --> D["Different Outputs"]
->   E[Word Order] --> F["Different Outputs"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Token Sensitivity vs Semantic Uncertainty**
-> *Understand the distinction between token sensitivity and semantic uncertainty.*
->
-> ```mermaid
-> classDiagram
->   class TokenizerSensitivity{
->     +TokenizerVariations
->     -DifferentOutputs
->   }
->   class SemanticUncertainty{
->     +AmbiguousInputs
->     -InconsistentUnderstanding
->   }
->   TokenizerSensitivity --> SemanticUncertainty : Distinct Phenomena
-> ```
 
 # Tokenizer Sensitivity
 

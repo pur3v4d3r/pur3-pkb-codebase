@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,43 +153,6 @@ Understanding the intricate circuits within transformer models not only aids in 
 > [!connection] **[[Attention Mechanism]]** — *applies-to*
 > Circuit analysis in transformers applies the attention mechanism by dissecting how individual attention heads and their interactions form circuits responsible for specific functionalities. This application highlights the nuanced role of attention beyond its general function, revealing how it contributes to complex tasks within transformer models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Circuit Analysis Process Flow**
-> *Follow the steps from hypothesis to validation.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Behaviors] --> B[Hypothesize Circuits]
->   B --> C[Test Hypotheses]
->   C --> D[Validate or Refine]
-> ```
-
-
-> [!abstract] **Diagram 2 — Transformer Circuit Components**
-> *See the key components that form a circuit.*
->
-> ```mermaid
-> graph TD
->   A[Attention Heads] --> B[MLP Neurons]
->   C[Input Tokens] --> D[Output Tokens]
->   A -->|Process Patterns| E[Induction Circuit]
->   B -->|Transform Features| F[Feature Extraction]
-> ```
-
-
-> [!abstract] **Diagram 3 — Circuit Analysis vs General Interpretability**
-> *Compare the focus of circuit analysis with general interpretability.*
->
-> ```mermaid
-> sequenceDiagram
->   participant CircuitAnalysis as CA
->   participant GeneralInterpretability as GI
->   CA->>CA: Focus on specific subgraphs
->   GI->>GI: Broad overview of model behavior
-> ```
 
 # Circuit Analysis in Transformers
 

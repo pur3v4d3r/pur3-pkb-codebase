@@ -18,7 +18,7 @@ subdomains:
   - learning-strategies
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - elaborative-rehearsal-synthetic-seed-2026-04-24
@@ -67,72 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Elaborative Rehearsal Process Flow**
-> *Follow the steps from identifying concepts to encoding information.*
->
-> ```mermaid
-> graph TD
->   A[Identify Key Concepts]
->   B[Generate Examples]
->   C[Paraphrase Content]
->   D[Relate to Personal Experience]
->   E[Apply in Different Contexts]
->   F[Encode Information]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Elaborative vs Maintenance Rehearsal Comparison**
-> *Compare the processes of elaborative and maintenance rehearsal.*
->
-> ```mermaid
-> graph TD
->   A[Elaborative]
->   B[Maintenance]
->   A -->|Generate Examples|
->   A -->|Paraphrase Content|
->   A -->|Relate to Personal Experience|
->   A -->|Apply in Different Contexts|
->   B -->|Repeat Verbatim|
->   A --- "Better Retention"
->   B --- "Worse Retention"
-> ```
-
-
-> [!abstract] **Diagram 3 — Elaborative Rehearsal Memory Network**
-> *Visualize the web of associations created during elaborative rehearsal.*
->
-> ```mermaid
-> graph TD
->   A[New Information]
->   B[Existing Knowledge]
->   C[Personal Experience]
->   D[Contextual Scenarios]
->   E[Historical Events]
->   F[Current News Stories]
->   A -->|Generate Examples|
->   A -->|Paraphrase Content|
->   A -->|Relate to Personal Experience|
->   B -->|Connect Concepts|
->   C -->|Apply in Different Contexts|
->   D -->|Enhance Understanding|
->   E -->|Deepen Recall|
->   F -->|Promote Flexibility|
->   A --- "Multiple Retrieval Routes"
-> ```
 
 # Elaborative Rehearsal
 

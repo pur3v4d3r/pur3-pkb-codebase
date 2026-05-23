@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,65 +164,6 @@ The evidence suggests that verbalized uncertainty expressions are often miscalib
 > [!connection] **[[LLM Calibration Techniques]]** — *supports*
 > Verbalized uncertainty supports LLM calibration techniques by providing qualitative feedback that can be used alongside quantitative measures. This dual approach enhances the accuracy of confidence assessments, making it easier to fine-tune models for better performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Verbalized Uncertainty Mechanisms**
-> *Follow the flow from internal confidence to verbal expression.*
->
-> ```mermaid
-> graph TD
->   A[Internal Confidence]
->   B[Linguistic Cues]
->   C[Hedging Language]
->   D[Training Feedback]
->   E[Output Reliability]
->   A -->|Influence| B
->   B -->|Learned Behavior| C
->   C -->|Feedback Loop| D
->   D -->|Model Training| A
->   B -->|Expressed Output| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Verbal Uncertainty vs Actual Confidence**
-> *Compare the verbal expression with actual model confidence.*
->
-> ```mermaid
-> graph TD
->   A[Verbalized Uncertainty]
->   B[Actual Confidence]
->   C[Linguistic Expression]
->   D[Internal Probability]
->   E[Misalignment]
->   F[Verification Needed]
->   A -->|Linguistic Expression| C
->   B -->|Internal Probability| D
->   C -.-> E
->   D -.-> E
->   E -->|Misaligned Output| F
-> ```
-
-
-> [!abstract] **Diagram 3 — User Trust and Reliability**
-> *Trace the impact of verbal cues on user trust and output reliability.*
->
-> ```mermaid
-> graph TD
->   A[Verbal Uncertainty]
->   B[User Perception]
->   C[System Accuracy]
->   D[User Confidence]
->   E[Reliability Improvement]
->   F[Integration Strategies]
->   A -->|Influences| B
->   B -->|Affects| C
->   B -->|Impacts| D
->   C -->|Improvement Needed| E
->   D -->|Reduction in Trust| E
->   E -->|Strategies for Improvement| F
-> ```
 
 # Verbalized Uncertainty
 

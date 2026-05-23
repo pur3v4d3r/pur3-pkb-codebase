@@ -20,7 +20,7 @@ subdomains:
   - game-theory
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - debate-as-alignment-mechanism-synthetic-seed-2026-05-20
@@ -68,56 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Debate Process Flowchart**
-> *Follow the flow from proposition to judge's decision.*
->
-> ```mermaid
-> flowchart LR
->   A[Proposition] --> B[Agent1 Argues]
->   B --> C[Agent2 Counter-argues]
->   C --> D[Judge Evaluates]
->   D --> E[Decision]
-> ```
-
-
-> [!abstract] **Diagram 2 — Argument Evaluation Hierarchy**
-> *Identify the layers of argument scrutiny in a debate.*
->
-> ```mermaid
-> graph TD
->   A[Proposition] --> B[Agent1 Argues]
->   B --> C[Agent2 Counter-argues]
->   C --> D[Judge Evaluates]
->   D --> E[Truth Identification]
-> ```
-
-
-> [!abstract] **Diagram 3 — Debate vs Verification Comparison**
-> *Compare debate's adversarial approach with verification's direct method.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Judge as J
->   participant Agent1 as A1
->   participant Agent2 as A2
->   participant Verifier as V
->   J->>A1: Proposition?
->   A1-->>J: Argue
->   J->>A2: Counter-argue?
->   A2-->>J: Counter-argues
->   J-->>E: Decision
->   J->>V: Verify claim?
->   V-->>J: Verified
-> ```
 
 # Debate as Alignment Mechanism
 

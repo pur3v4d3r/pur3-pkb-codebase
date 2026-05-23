@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25
@@ -68,68 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Intrinsic vs Extrinsic Motivation Continuum**
-> *Follow the continuum from internal to external motivations.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic]
->   B(Internal)
->   C(Autonomous)
->   D(Self-Determined)
->   E(Integrated)
->   F(External)
->   G(Controlled)
->   H[Extrinsic]
->   A -->|Continuum| B
->   B -->|Autonomy| C
->   C -->|Integration| D
->   D -->|Internalization| E
->   E -->|Regulation| F
->   F -->|Control| G
->   G -->|External Factors| H
-> ```
-
-
-> [!abstract] **Diagram 2 — Motivation Types in Educational Settings**
-> *Identify how intrinsic and extrinsic motivations interact in learning environments.*
->
-> ```mermaid
-> flowchart LR
->   A[Engaging Curricula] --> B(Intrinsic Motivation)
->   C[Supportive Environment] --> B
->   D[Grades/Praise] --> E(Extrinsic Motivation)
->   F[Overjustification Effect] -->|Diminishes Intrinsic Interest| B
->   G[Balanced Approach] --> H(More Engaged Learners)
->   B -->|Enhances Learning Experience| H
->   E -->|Boosts Short-Term Performance| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Basic Psychological Needs in Self-Determination Theory**
-> *Trace how intrinsic and extrinsic motivations align with autonomy, competence, and relatedness.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B(Competence)
->   C[Relatedness]
->   D(Intrinsic Motivation) -->|Aligns With| A
->   E(Drives Activities Freely) -->|Feeling in Control| A
->   F(Fosters Personal Growth) -->|Feeling Capable| B
->   G(Supportive Relationships) -->|Feeling Connected| C
->   H(Extrinsic Motivation) -->|Satisfies Needs Through External Regulation| D
->   I(May Undermine Intrinsic Motivation Over Time) -->|External Control| D
-> ```
 
 # Intrinsic vs Extrinsic Motivation
 

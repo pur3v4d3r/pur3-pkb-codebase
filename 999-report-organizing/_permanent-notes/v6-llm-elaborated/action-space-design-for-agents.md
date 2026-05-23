@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,55 +175,6 @@ The principle of least privilege applied to action spaces is a critical safeguar
 > [!connection] **[[Task Planning with LLMs]]** — *applies-to*
 > Action space design is integral to task planning in large language models (LLMs) because it defines the set of actions an agent can take during the planning process. By carefully specifying these actions, designers ensure that agents can effectively break down complex tasks into manageable steps and select appropriate strategies for execution.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Action Space Design Components**
-> *Identify the key components of action space design.*
->
-> ```mermaid
-> graph TD
->   A[Tool Granularity]
->   B(Parameter Types)
->   C(Validation Mechanisms)
->   D(Access Controls)
->   A -->|defines level of detail| E(Action Space Design)
->   B -->|specifies inputs| E
->   C -->|ensures criteria met| E
->   D -->|limits availability| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Narrow vs Broad Action Spaces**
-> *Compare the implications of narrow and broad action spaces.*
->
-> ```mermaid
-> graph TD
->   A[Narrow]
->   B[Broad]
->   A -->|limits impact, reduces risk| C[Safe but restrictive]
->   B -->|enables complex operations| D[Risky but flexible]
-> ```
-
-
-> [!abstract] **Diagram 3 — Action Space Design Process Flow**
-> *Follow the steps in designing an action space.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Goals]
->   B[Determine Granularity]
->   C[Specify Parameters]
->   D[Implement Validation]
->   E[Set Access Controls]
->   F[Test and Refine]
->   A -->|identify tasks| B
->   B -->|define actions| C
->   C -->|validate inputs| D
->   D -->|control access| E
->   E -->|test outcomes| F
-> ```
 
 # Action Space Design for Agents
 

@@ -17,7 +17,7 @@ subdomains:
   - decision-science
 
 created: 2026-04-27
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - behavioral-economics-synthetic-seed-2026-04-27
@@ -66,36 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Behavioral Economics Core Concepts**
-> *Identify key concepts and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Prospect Theory] --> B[Loss Aversion]
->   C[Hyperbolic Discounting] --> D[Framing Effect]
->   E[Cognitive Biases] --> F[Availability Heuristic]
-> ```
-
-
-> [!abstract] **Diagram 2 — Behavioral Economics Applications**
-> *See how Behavioral Economics is applied in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Marketing] --> B[Framing]
->   C[Public Policy] --> D[Nudging]
->   E[Finance] --> F[Bias Informed Decisions]
->   G[Healthcare] --> H[Loss Aversion]
-> ```
 
 # Behavioral Economics
 

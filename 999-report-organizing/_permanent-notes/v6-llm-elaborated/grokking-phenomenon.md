@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,59 +166,6 @@ Understanding grokking not only enhances our grasp of neural network learning dy
 > [!connection] **[[Phase Transitions in LLMs]]** — *applies-to*
 > Both grokking and phase transitions in large language models (LLMs) involve sudden changes in model behavior after an initial period of apparent stagnation. This shared mechanism suggests that similar underlying processes, such as internal reorganization or circuit emergence, may drive these phenomena across different types of neural networks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Grokking Learning Dynamics**
-> *Follow the phases from memorization to generalization.*
->
-> ```mermaid
-> graph TD
->   A[Memorization]
->   B[Apparent Convergence]
->   C[Grokking Transition]
->   D[Generalization]
->   A -->|Initial Phase| B
->   B -->|Plateau Phase| C
->   C -->|Delayed Improvement| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Grokking Mechanism Overview**
-> *Trace the internal reorganization process during grokking.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[Misleading Convergence]
->   C[Internal Reorganization]
->   D[Circuit Emergence]
->   E[Generalization Improvement]
->   A -->|Memorization| B
->   B -->|Plateau Phase| C
->   C -->|Reorganization| D
->   D -->|Circuits Form| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Grokking vs Traditional Dynamics**
-> *Compare grokking with overfitting and underfitting.*
->
-> ```mermaid
-> graph TD
->   A[Overfitting]
->   B[Underfitting]
->   C[Grokking]
->   D[Generalization]
->   A -->|Poor Generalization| "Unseen Data"
->   B -->|Missed Patterns| "Training Data"
->   C -->|Delayed Transition| D
->   subgraph Traditional Dynamics
->     A
->     B
->   end
-> ```
 
 # Grokking Phenomenon
 

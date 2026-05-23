@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,68 +160,6 @@ Empirical evidence demonstrates that without explicit jurisdictional details, LL
 > [!connection] **[[Claim Strength Calibration]]** — *applies-to*
 > Legal Reasoning Prompting applies Claim Strength Calibration by ensuring that legal arguments are supported with appropriate evidence and precedents. This calibration is crucial for assessing the strength of claims within a specific jurisdiction, thereby enhancing the reliability of legal analyses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Legal Reasoning Workflow Overview**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Jurisdiction Specification]
->   C[Relevant Legal Frameworks]
->   D[Facts at Hand]
->   E[Desired Output Format]
->   F[Prompt Design]
->   G[LLM Processing]
->   H[Output Analysis]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 2 — Jurisdictional Prompting Specificity**
-> *Compare general and legal-specific prompting techniques.*
->
-> ```mermaid
-> graph TD
->   A[General Prompt]
->   B[Jurisdiction-Specific Prompt]
->   C[Output: Broad Interpretation]
->   D[Output: Accurate Legal Analysis]
->   A -->|Example Output| C
->   B -->|Example Output| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Legal Reasoning Process Flowchart**
-> *Trace the steps from initial input to final analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Input]
->   B[Jurisdiction Specification]
->   C[Relevant Legal Frameworks]
->   D[Facts at Hand]
->   E[Prompt Design]
->   F[LLM Processing]
->   G[Output Analysis]
->   H[Final Report]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
-> ```
 
 # Legal Reasoning Prompting
 

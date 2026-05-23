@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -71,46 +71,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Causal Attribution Dimensions**
-> *Identify the three dimensions of causal attribution.*
->
-> ```mermaid
-> graph TD
->   A["Locus (Internal/External)"] --> B["Stability (Fixed/Variable)"]
->   B --> C["Controllability (Within Control/Outside Control)"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotional and Motivational Consequences**
-> *Trace the emotional and motivational outcomes of different attributions.*
->
-> ```mermaid
-> flowchart LR
->   A["Internal Locus"] --> B["Pride, Shame"]
->   C["Stable Cause"] --> D["Hopelessness"]
->   E["Uncontrollable Cause"] --> F["Anger, Pity"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Temporal Attribution Flexibility**
-> *Follow the dynamic process of reframing past events.*
->
-> ```mermaid
-> sequenceDiagram
->   participant PastEvent as PE
->   participant PresentCircumstance as PC
->   PE->>PC: Reframe Past Event
->   PC-->>PE: New Interpretation
-> ```
 
 # Causal Attribution
 

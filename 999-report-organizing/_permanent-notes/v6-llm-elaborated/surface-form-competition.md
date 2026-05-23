@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,45 +163,6 @@ Surface form competition invalidates direct probability comparisons between labe
 > [!connection] **[[Format Sensitivity]]** — *contrasts-with*
 > Surface form competition contrasts with format sensitivity in that the former deals specifically with variations in textual representation of labels, while the latter encompasses broader structural differences. Understanding this distinction helps clarify when to apply normalization techniques versus adjusting for different input formats.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Surface Form Competition Overview**
-> *Follow the flow from input to output, noting probability distribution changes.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Variations]
->   B --> C[Dilution]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Surface Form Variants Impact**
-> *Observe how different forms affect model output probabilities.*
->
-> ```mermaid
-> graph TD
->   A[Positive] --> B['Positive']
->   A --> C[pos]
->   A --> D[POSITIVE]
-> ```
-
-
-> [!abstract] **Diagram 3 — Model Calibration Process**
-> *Trace the steps from raw probabilities to calibrated outputs.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Input
->   participant Model
->   participant Output
->   Input->>Model: Raw Probabilities
->   Model->>Output: Unnormalized Outputs
->   Output->>Output: Calibration Adjustment
->   Output-->>Input: Calibrated Probabilities
-> ```
 
 # Surface Form Competition
 

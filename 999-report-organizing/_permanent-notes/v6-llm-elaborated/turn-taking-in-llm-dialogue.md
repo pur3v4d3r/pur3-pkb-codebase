@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,52 +155,6 @@ Empirical evidence highlights the importance of context-adaptive turn-taking str
 > [!connection] **[[Clarification Request Generation]]** — *specializes*
 > Turn-taking in LLM dialogue specializes Clarification Request Generation by focusing on the timing and appropriateness of when to request clarification. This specialization is crucial as it directly impacts user experience and task success, making turn-taking a critical component for effective dialogue management.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Turn-Taking Process Overview**
-> *Follow the flow from user input to model response.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Input Recognition]
->   B --> C[Clarification Needed?]
->   C -->|Yes| D[Ask Clarifying Questions]
->   C -->|No| E[Model Response]
->   D --> F[Receive Clarification]
->   F --> G[Process Clarified Input]
->   G --> H[Generate Final Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Context-Sensitive Turn-Taking Strategies**
-> *Compare context-sensitive and rigid strategies in different scenarios.*
->
-> ```mermaid
-> graph TD
->   A[High-Stakes Task] --> B{Clarification Needed?}
->   B -->|Yes| C[Ask Clarifying Questions]
->   B -->|No| D[Provide Full Response]
->   E[Low-Stakes Interaction] --> F{Clarification Needed?}
->   F -->|Yes| G[Quickly Provide Response]
->   F -->|No| H[Provide Detailed Answer]
-> ```
-
-
-> [!abstract] **Diagram 3 — Turn-Taking in Instructional Design**
-> *Identify key points where clarification is beneficial.*
->
-> ```mermaid
-> flowchart LR
->   A[Instruction Input] --> B[Input Recognition]
->   B --> C{Clarification Needed?}
->   C -->|Yes| D[Ask Clarifying Questions]
->   C -->|No| E[Provide Guidance]
->   D --> F[Receive Clarification]
->   F --> G[Process Clarified Instruction]
->   G --> H[Generate Final Response]
-> ```
 
 # Turn-Taking in LLM Dialogue
 

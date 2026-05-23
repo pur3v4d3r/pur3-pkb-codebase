@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,47 +171,6 @@ The integration of dense retrieval into RAG systems represents a significant adv
 > [!connection] **[[Hybrid Retrieval Patterns]]** — *generalizes-to*
 > Dense retrieval for RAG is a specific instance of hybrid retrieval patterns, which combine multiple retrieval strategies to leverage their strengths. By integrating dense and sparse methods, systems can achieve both semantic relevance and precision in query-document matching.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Dense Retrieval Process Flow**
-> *Follow the flow from query to document retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Neural Encoding]
->   B --> C[Index Search]
->   C --> D[Retrieve Documents]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dense Retrieval Mechanism Overview**
-> *Trace the transformation and comparison steps.*
->
-> ```mermaid
-> graph TD
->   A[Textual Input] --> B[Neural Encoder]
->   B --> C[Dense Vector]
->   D[Index Database] --> E[Search Query]
->   F[Similarity Comparison] --> G[Retrieved Documents]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dense vs Sparse Retrieval Comparison**
-> *Compare dense and sparse retrieval methods.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Query as Q
->   participant Dense_Retrieval as DR
->   participant Sparse_Retrieval as SR
->   participant Document as D
->   Q->>DR: Encode Query
->   DR-->>D: Retrieve Semantically Similar Docs
->   Q->>SR: Exact Term Match
->   SR-->>D: Retrieve Lexically Matching Docs
-> ```
 
 # Dense Retrieval for RAG
 

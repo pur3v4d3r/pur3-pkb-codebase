@@ -16,7 +16,7 @@ subdomains:
   - classical-mechanics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lagrangian-mechanics-synthetic-seed-2026-05-14
@@ -64,46 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lagrangian Energy Structure**
-> *Follow the flow from kinetic to potential energy, then to Lagrangian.*
->
-> ```mermaid
-> graph TD
->   A["Kinetic Energy T"] --> B["Potential Energy V"]
->   B --> C[L(q,q̇,t) = T - V]
->   C --> D[Euler-Lagrange Equations]
-> ```
-
-
-> [!abstract] **Diagram 2 — Holonomic vs Non-holonomic Constraints**
-> *Compare how holonomic constraints are handled versus non-holonomic ones.*
->
-> ```mermaid
-> graph TD
->   A["Holonomic Constraints"] --> B[Integrate into Lagrangian]
->   C["Non-holonomic Constraints"] --> D[Lagrange Multipliers Needed]
-> ```
-
-
-> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
-> *Trace the flow from system energy to specific dynamics for top-down, and vice versa.*
->
-> ```mermaid
-> graph TD
->   A["System Energy"] --> B[Lagrangian]
->   B --> C[Euler-Lagrange Equations]
->   D[Forces & Constraints] --> E[Dynamics]
->   F[Bottom-Up Processing] -.-> D
-> ```
 
 # Lagrangian Mechanics
 

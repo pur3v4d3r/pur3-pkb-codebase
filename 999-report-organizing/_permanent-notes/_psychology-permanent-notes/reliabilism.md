@@ -17,7 +17,7 @@ subdomains:
   - externalism
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - reliabilism-synthetic-seed-2026-04-25
@@ -65,50 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reliabilism Process Flow**
-> *Follow the flow from belief formation to justification.*
->
-> ```mermaid
-> flowchart LR
->   A[Belief Formation] --> B[Reliable Process]
->   B --> C[True Beliefs]
->   C --> D[Justification]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reliability vs Reflective Access**
-> *Compare reliability-based justification with reflective access.*
->
-> ```mermaid
-> graph TD
->   A[Reliable Process] --> B[True Beliefs]
->   C[Introspective Awareness] --> D[Reflective Evidence]
->   subgraph Justification
->     E[Justified Belief]
->   end
->   B -->|Externalist| E
->   D -->|Internalist| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Reliabilism Applications**
-> *Identify the applications of Reliabilism in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Foster Reliable Processes]
->   C[Cognitive Science] --> D[Study Reliable Mechanisms]
->   E[Philosophical Debates] --> F[Solve Generality Problem]
-> ```
 
 # Reliabilism
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,54 +159,6 @@ The key claim that distribution shift poses a significant challenge for deployed
 > [!connection] **[[Robustness]]** — *supports*
 > The concept of robustness supports understanding and mitigating distribution shift in prompting by providing a framework to evaluate and enhance model performance under varied conditions. Robust models are designed to maintain functionality across different input distributions, directly addressing the challenges posed by real-world variations that can lead to performance degradation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Distribution Shift Manifestations**
-> *Identify the different types of distribution shifts.*
->
-> ```mermaid
-> graph TD
->   A[Domain-Specific]
->   B[Format-Specific]
->   C[Linguistic]
->   D[Task-Specific]
->   A -->|Examples| E[Underrepresented Topics]
->   B -->|Examples| F[Novel Templates]
->   C -->|Examples| G[Non-Native Phrasings]
->   D -->|Examples| H[Different Task Formulations]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Brittleness vs Robustness**
-> *Understand the relationship between brittleness and robustness.*
->
-> ```mermaid
-> classDiagram
->   class Prompt_Brittleness{
->     +sensitivity_to_changes()
->   }
->   class Prompt_Robustness{
->     +maintain_performance_varied_inputs()
->   }
->   Prompt_Brittleness -->|Contrast_with| Prompt_Robustness
-> ```
-
-
-> [!abstract] **Diagram 3 — Real-Time Monitoring Tools**
-> *Track performance degradation with real-time monitoring.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Monitor as Mo
->   U->>M: Query
->   M-->>U: Response
->   U->>Mo: Feedback
->   Mo->>M: Adjustments
-> ```
 
 # Distribution Shift in Prompting
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,39 +157,6 @@ By integrating insights from cognitive load theory and effective communication p
 > [!connection] **[[Specificity vs Generality Tradeoff]]** — *contrasts-with*
 > While Abstraction Level Control focuses on the balance between concrete and abstract thinking, the Specificity vs Generality Tradeoff deals with the precision of information. The tradeoff often manifests in how specific details are used to support broader concepts or vice versa. Understanding both helps tailor explanations that are neither overly vague nor excessively detailed.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Abstraction Levels Overview**
-> *Follow the hierarchy from concrete to abstract concepts.*
->
-> ```mermaid
-> graph TD
->   A[Concrete Examples] --> B(Abstract Principles)
->   B --> C[Theoretical Frameworks]
-> ```
-
-
-> [!abstract] **Diagram 2 — Effective Bridging Instructions Flow**
-> *Trace the flow from initial concept to coherent mental model.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Concept] --> B[Bridging Instruction]
->   B --> C[Intermediate Understanding]
->   C --> D[Coherent Mental Model]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Load Theory Application**
-> *Identify how extraneous and germane loads are managed.*
->
-> ```mermaid
-> graph TD
->   A[Extraneous Load] --> B(Germane Load)
->   B --> C[Cognitive Capacity]
-> ```
 
 # Abstraction Level Control
 

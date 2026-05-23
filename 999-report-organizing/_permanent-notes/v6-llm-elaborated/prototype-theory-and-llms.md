@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,49 +151,6 @@ By integrating insights from prototype theory with practical considerations in L
 > [!connection] **[[Prototype Theory]]** — *instance-of*
 > Prototype theory is an instance of broader cognitive categorization mechanisms. In LLMs, it exemplifies how these mechanisms can be instantiated through statistical learning from training data, providing a concrete application of the theoretical framework.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prototype Theory Overview**
-> *Follow the flow from human prototypes to model prototypes.*
->
-> ```mermaid
-> graph TD
->   A[Human Prototypes]
->   B[Model Prototypes]
->   A -->|Cognitive Processes| C[Training Data]
->   C -->|Statistical Patterns| D
->   D -->|Category Representation| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Typicality Effects in LLMs**
-> *Observe the confidence levels for typical vs atypical inputs.*
->
-> ```mermaid
-> flowchart LR
->   A[Input]
->   B[Typical Input] -->|High Confidence| C[Coherent Response]
->   D[Atypical Input] -->|Low Confidence| E[Irrelevant Response]
->   A --> B
->   A --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Engineering Workflow**
-> *Trace the steps from prototype selection to model response.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant PromptEngineer as P
->   P->>M: Provide Typical Example
->   M-->>U: Generate Coherent Response
->   P->>M: Provide Atypical Example
->   M-->>U: Generate Irrelevant Response
-> ```
 
 # Prototype Theory and LLMs
 

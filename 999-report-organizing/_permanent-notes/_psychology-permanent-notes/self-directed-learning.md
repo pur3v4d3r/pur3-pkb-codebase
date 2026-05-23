@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -70,47 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Directed Learning Process**
-> *Follow the sequence from diagnosing needs to evaluating outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Diagnose Needs] --> B[Set Goals]
->   B --> C[Identify Resources]
->   C --> D[Select Strategies]
->   D --> E[Evaluate Outcomes]
-> ```
-
-
-> [!abstract] **Diagram 2 — SDL vs SRL Comparison**
-> *Compare the focus areas of SDL and SRL in educational settings.*
->
-> ```mermaid
-> graph TD
->   A[Self-Directed Learning] -->|Initiative| B[Autonomous Agenda]
->   C[Self-Regulated Learning] -->|Task Management| D[Assigned Tasks]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curriculum Design for SDL**
-> *Identify the balance between structure and autonomy in curriculum design.*
->
-> ```mermaid
-> graph TD
->   A[High Structure] --> B[Clear Expectations]
->   C[High Autonomy Support] --> D[Meaningful Choice]
->   E[Balance] --> F[Satisfy Competence]
->   G[Balance] --> H[Satisfy Autonomy]
-> ```
 
 # Self-Directed Learning
 

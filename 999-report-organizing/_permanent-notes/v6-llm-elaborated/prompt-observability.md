@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,59 +175,6 @@ Prompt observability is the prerequisite for effective prompt engineering in pro
 > [!connection] **[[Prompt Tracing]]** — *instance-of*
 > Prompt observability is an instance of prompt tracing that focuses on capturing comprehensive logs of LLM interactions. This specialization allows for a deeper understanding of how prompts influence model behavior, making it essential for optimizing both the design and deployment of AI systems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — LLM Interaction Flow**
-> *Follow the flow from input to output, noting key steps and data captured.*
->
-> ```mermaid
-> graph TD
->   A[User Input] --> B[Prompt]
->   B --> C[Tokenization]
->   C --> D[Model Processing]
->   D --> E[Response Generation]
->   E --> F[Output]
->   F --> G[Metric Logging]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Observability vs General Software**
-> *Compare the focus areas of prompt observability and general software observability.*
->
-> ```mermaid
-> classDiagram
->   class PromptObservability{
->     +prompt-response pairs
->     +token counts
->     +latency metrics
->     +cost tracking
->   }
->   class GeneralSoftwareObservability{
->     +high-level events
->     -detailed context
->   }
-> ```
-
-
-> [!abstract] **Diagram 3 — Live Traffic vs Offline Evaluation**
-> *Identify the differences between live traffic tracking and offline evaluation methods.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant LLM as M
->   participant PromptObservabilityPlatform as P
->   U->>M: Send Prompt
->   M-->>U: Receive Response
->   M-->>P: Log Interaction Data
->   alt Live Traffic Tracking
->     P->>U: Provide Real-Time Metrics
->   else Offline Evaluation
->     P->>U: Simulate or Pre-Recorded Data
->   end
-> ```
 
 # Prompt Observability
 

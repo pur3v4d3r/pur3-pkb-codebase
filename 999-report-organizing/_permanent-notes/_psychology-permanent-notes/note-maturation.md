@@ -18,7 +18,7 @@ subdomains:
   - writing
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - note-maturation-synthetic-seed-2026-04-26
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Note Maturation Process Flow**
-> *Follow the stages from rough capture to mature notes.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Capture] --> B[Rough Draft]
->   B --> C[Revision]
->   C --> D[Mature Note]
-> ```
-
-
-> [!abstract] **Diagram 2 — Note Maturation Tagging System**
-> *Track the stages of note development with specific tags.*
->
-> ```mermaid
-> graph TD
->   A[Rough Draft] --> B[Draft]
->   B --> C[Work-in-Progress]
->   C --> D[Mature/evergreen]
-> ```
-
-
-> [!abstract] **Diagram 3 — Feedback Loops in Maturation**
-> *See how maturing notes trigger new or revised related notes.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InitialNote as I
->   participant NewRelatedNote as NR
->   participant ExistingNote as E
->   I->>NR: Triggers creation
->   E-->>I: Prompt revisions
-> ```
 
 # Note Maturation
 

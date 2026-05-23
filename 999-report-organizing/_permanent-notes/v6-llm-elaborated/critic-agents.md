@@ -19,7 +19,7 @@ subdomains:
   - quality-assurance
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - critic-agents-synthetic-seed-2026-05-20
@@ -66,80 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Critic Agent Workflow Overview**
-> *Follow the flow from input to feedback and refinement.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Critic Evaluation]
->   C[Feedback]
->   D[Refinement]
->   E[Output]
->   A --> B
->   B -->|Structured Feedback| C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Critic vs Self-Critique Comparison**
-> *Compare the independent and intertwined evaluation processes.*
->
-> ```mermaid
-> graph TD
->   A[Generation]
->   B[Evaluation]
->   C[Output]
->   D[Self-Critique]
->   E[Critic Agent]
->   F[Independent Evaluation]
->   G[Feedback]
->   H[Refinement]
->   I[Output]
->   A -->|Intertwined| B
->   B -->|Biased Feedback| C
->   A --> D
->   D -->|Unbiased Feedback| E
->   E -->|Structured Feedback| F
->   F --> G
->   G --> H
->   H --> I
-> ```
-
-
-> [!abstract] **Diagram 3 — Critic Agent Application Scenarios**
-> *Identify the different application areas for Critic Agents.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Content Moderation]
->   C[Evaluation Criteria]
->   D[Feedback Mechanism]
->   E[Quality Assurance]
->   F[Critic Agent]
->   G[Refinement Process]
->   H[Output Quality]
->   I[User Needs Alignment]
->   A -->|Clarity, Relevance| C
->   B -->|Policy Compliance| C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
->   H --> I
-> ```
 
 # Critic Agents
 

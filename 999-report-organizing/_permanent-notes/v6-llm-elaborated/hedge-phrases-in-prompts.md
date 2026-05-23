@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -179,41 +175,6 @@ Empirical studies have shown that calibrated use of hedge phrases in LLM outputs
 > [!connection] **[[Underspecification in Prompts]]** — *applies-to*
 > Hedge phrases in prompts can be seen as a form of underspecification, where the exact nature or certainty of information is left open-ended. This connection highlights how both concepts contribute to managing model output reliability and user expectations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Hedge Phrase Functionality**
-> *Identify the intended and observed behavior of hedge phrases.*
->
-> ```mermaid
-> graph TD
->   A["Intended Signal"] --> B["Observed Behavior"]
->   A --> C["Modulate Confidence"]
->   B --> D["Anti-Informative Effect"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hedge Phrase Impact on Outputs**
-> *Understand how hedge phrases affect output reliability and user trust.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Hedging]
->   B --> C[Output Reliability]
->   B --> D[User Trust]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hedge Phrase Calibration Mechanisms**
-> *Explore strategies for grounding hedge phrases in factual accuracy.*
->
-> ```mermaid
-> graph TD
->   A["Stylistic Compliance"] --> B[Uncalibrated]
->   C["Domain-Specific Knowledge"] --> D[Calibrated]
->   E["Linguistic Cues"] --> F[Grounded]
-> ```
 
 # Hedge Phrases in Prompts
 

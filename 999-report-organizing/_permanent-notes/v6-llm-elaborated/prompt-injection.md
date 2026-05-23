@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,41 +162,6 @@ The study of Prompt Injection underscores the evolving landscape of AI security,
 > [!connection] **[[Jailbreaking]]** — *contrasts-with*
 > While Jailbreaking aims to bypass system restrictions, Prompt Injection focuses on embedding malicious instructions within normal inputs. Both aim at altering model behavior but differ fundamentally in their approach and the specific security measures required to counteract them.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Injection Process Flow**
-> *Follow the flow from input to output, noting where malicious instructions are injected and how they affect model behavior.*
->
-> ```mermaid
-> flowchart LR
->   A[Untrusted Input] --> B[LLM Processing]
->   B --> C[Malicious Instructions Embedded]
->   C --> D[Model Output Manipulated]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Injection vs Other Attacks**
-> *Compare Prompt Injection with other adversarial attacks to understand their distinct characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Injection] -->|Embeds Malicious Instructions| B[LLM Processing]
->   C[Model Poisoning] -->|Alters Training Data| D[System Behavior Induced]
->   E[Evasion Attack] -->|Manipulates Input Data| F[Bypasses Detection]
-> ```
-
-
-> [!abstract] **Diagram 3 — Agentic System Threat Model**
-> *Identify the potential threats in agentic systems due to Prompt Injection.*
->
-> ```mermaid
-> flowchart LR
->   A[LLM with External Authority] --> B[Untrusted Input]
->   B --> C[Malicious Instructions Embedded]
->   C --> D[Unauthorized Actions or Data Exfiltration]
-> ```
 
 # Prompt Injection
 

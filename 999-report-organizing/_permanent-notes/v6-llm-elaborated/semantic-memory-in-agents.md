@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,49 +158,6 @@ Empirical evidence from studies on AI agent architectures demonstrates that robu
 > [!connection] **[[Working Memory Simulation in LLMs]]** — *contrasts-with*
 > Semantic memory and working memory simulation serve different functions in AI agents. While semantic memory focuses on long-term storage of factual knowledge, working memory simulates short-term cognitive processes for immediate task execution. Understanding both is crucial for designing balanced agent architectures that can leverage stored facts while also handling real-time problem-solving.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Semantic Memory vs Episodic Memory**
-> *Compare the storage of decontextualized facts versus contextualized experiences.*
->
-> ```mermaid
-> graph TD
->   A[Decontextualized Facts]
->   B[Contextualized Experiences]
->   A -->|Stored in Semantic Memory|
->   B -->|Stored in Episodic Memory|
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic Memory Retrieval Process**
-> *Follow the flow from query to factual response retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Query]
->   B[Similarity Search or Symbolic Lookup]
->   C[Factual Response]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — Semantic Memory in Agent Architecture**
-> *Identify the components involved in semantic memory implementation.*
->
-> ```mermaid
-> graph TD
->   A[Knowledge Base]
->   B[Vector Store]
->   C[Agent Query Engine]
->   D[Factual Response]
->   A -->|Contains Factual Documents|
->   B -->|Stores Learned Relationships|
->   C -->|Retrieves Information from Knowledge Base and Vector Store|
->   C --> D
-> ```
 
 # Semantic Memory in Agents
 

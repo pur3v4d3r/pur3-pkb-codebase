@@ -18,7 +18,7 @@ subdomains:
   - folksonomy
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - tagging-systems-synthetic-seed-2026-04-25
@@ -70,46 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tagging System Mechanism**
-> *Follow the flow from item to tagging methods.*
->
-> ```mermaid
-> graph TD
->   A[Item] --> B[Controlled Vocabulary]
->   A --> C[Folksonomy]
->   B --> D[Predefined Tags]
->   C --> E[User-Generated Tags]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tagging System Applications**
-> *Identify the applications and their tagging methods.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Controlled Vocabulary]
->   C[Twitter Hashtags] --> D[Folksonomy]
->   E[Library Cataloging] --> F[Mixed Methods]
-> ```
-
-
-> [!abstract] **Diagram 3 — Tagging vs Hierarchical Taxonomy**
-> *Compare tagging systems with hierarchical taxonomies.*
->
-> ```mermaid
-> graph TD
->   A[Item] --> B[Multiple Tags]
->   C[Hierarchical Taxonomy] --> D[Single Category]
-> ```
 
 # Tagging Systems
 

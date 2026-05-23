@@ -18,7 +18,7 @@ subdomains:
   - pragmatism
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - reflective-thinking-synthetic-seed-2026-04-24
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reflective Thinking Process Flow**
-> *Follow the steps from encountering a difficulty to testing solutions.*
->
-> ```mermaid
-> flowchart LR
->   A[Encounter Difficulty] --> B[Define Problem]
->   B --> C[Generate Solutions]
->   C --> D[Develop Solutions]
->   D --> E[Test Solutions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective Thinking vs Impulsive Thinking**
-> *Compare the disciplined process of Reflective Thinking with impulsive decision-making.*
->
-> ```mermaid
-> graph TD
->   A[Impulsive Thinking] -->|Quick Judgments| B[No Thorough Consideration]
->   C[Reflective Thinking] -->|Structured Inquiry| D[Evidence-Based Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Phases of Reflective Thinking**
-> *Trace the progression from identifying a problem to testing solutions.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Encounter
->   Encounter --> Define
->   Define --> Generate
->   Generate --> Develop
->   Develop --> Test
->   state Encounter[Encounter Difficulty]
->   state Define[Define Problem]
->   state Generate[Generate Solutions]
->   state Develop[Develop Solutions]
->   state Test[Test Solutions]
-> ```
 
 # Reflective Thinking
 

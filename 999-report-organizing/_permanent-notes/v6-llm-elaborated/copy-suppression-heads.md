@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,40 +150,6 @@ The integration of copy-suppression heads within transformer models represents a
 > [!connection] **[[Attention Head Specialization]]** — *falls-under*
 > Copy-suppression heads are a specific instance of attention head specialization, where different heads within the transformer model are tailored for distinct functions. This specialization allows models to handle complex tasks more effectively by leveraging specialized mechanisms like copy-suppression.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Copy-Suppression Mechanism Overview**
-> *Follow the flow from input to output, noting the role of copy-suppression heads in generating creative text.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Tokens] --> B[Attention Heads]
->   B --> C[Token Generation]
->   D[Copy-Suppression Heads] -->|Penalize Repetitive Sequences| E[Creative Output]
->   C --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Induction Heads**
-> *Compare the roles of copy-suppression and induction heads in generating text.*
->
-> ```mermaid
-> graph TD
->   A[Copy-Suppression Heads] -->|Penalize Repetitive Sequences| B[Creative Output]
->   C[Induction Heads] -->|Boost Pattern Completion| D[Adequate Recall]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Influence on Copy-Suppression Strength**
-> *Observe how different tasks affect the strength of copy-suppression heads.*
->
-> ```mermaid
-> flowchart LR
->   A[Abstractive Tasks] --> B[Strong Copy-Suppression]
->   C[Extractive Tasks] --> D[Weak Copy-Suppression]
-> ```
 
 # Copy-Suppression Heads
 

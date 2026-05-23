@@ -18,7 +18,7 @@ subdomains:
   - affective-science
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - interoception-synthetic-seed-2026-04-26
@@ -65,47 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Interoception Components Overview**
-> *Identify the three components of interoception and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Accuracy]
->   B[Sensibility]
->   C[Awareness]
->   A -->|Influences| C
->   B -->|Influences| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Interoception Neural Pathways**
-> *Trace the neural pathways involved in interoceptive processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Insula] --> B[Cingulate]
->   B --> C[Emotion]
->   A -->|Bodily Signals| D[Decision-Making]
-> ```
-
-
-> [!abstract] **Diagram 3 — Interoception in Emotional Regulation**
-> *Understand how interoceptive accuracy and sensibility affect emotional regulation.*
->
-> ```mermaid
-> flowchart LR
->   A[High Sensibility] -->|With Low Accuracy| B[Anxiety]
->   A -->|With High Accuracy| C[Enhanced Emotion Recognition]
-> ```
 
 # Interoception
 

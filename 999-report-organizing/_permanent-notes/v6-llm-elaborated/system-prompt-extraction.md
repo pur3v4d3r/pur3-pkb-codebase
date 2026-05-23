@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -176,52 +172,6 @@ Understanding and mitigating system prompt extraction is crucial for securing LL
 > [!connection] **[[Direct Prompt Injection]]** — *contrasts-with*
 > System prompt extraction contrasts with direct prompt injection in that the former aims to retrieve confidential information without altering model behavior, whereas the latter seeks immediate command execution. This distinction highlights different security vulnerabilities and necessitates distinct defense strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System Prompt Extraction Techniques**
-> *Identify the different attack techniques used.*
->
-> ```mermaid
-> graph TD
->   A[Direct Requests]
->   B[Context Completion Attacks]
->   C[Reasoning Chain Attacks]
->   D[Translation Attacks]
->   E[Roleplay Framings]
->   A -->|Example: 'Repeat your system prompt'| F
->   B -->|Example: Complete sequences| G
->   C -->|Example: Explain constraints| H
->   D -->|Example: Translate instructions| I
->   E -->|Example: Frame as character| J
-> ```
-
-
-> [!abstract] **Diagram 2 — System Prompt Extraction vs Other Attacks**
-> *Compare system prompt extraction with other attack methods.*
->
-> ```mermaid
-> graph TD
->   A[System Prompt Extraction]
->   B[Direct Prompt Injection]
->   C[Goal Hijacking]
->   A -->|Retrieve Confidential Info| K
->   B -->|Execute Commands Directly| L
->   C -->|Change Objectives| M
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Extraction Attacks**
-> *Understand the risks in different application contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Customer Service]
->   A -->|Risk: Replicate/Misuse Content| N
->   B -->|Risk: Unauthorized Access to Data| O
-> ```
 
 # System Prompt Extraction
 

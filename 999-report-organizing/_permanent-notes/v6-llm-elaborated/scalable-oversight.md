@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,46 +152,6 @@ By integrating reflective thinking and elaborative rehearsal into its methodolog
 > [!connection] **[[Iterated Amplification]]** — *supports*
 > Scalable oversight and iterated amplification both aim to enhance human evaluative capacity in the face of increasingly complex AI systems. Iterated amplification achieves this through recursive decomposition and synthesis, while scalable oversight uses task decomposition and AI assistance, making them complementary approaches.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Scalable Oversight Process Flow**
-> *Follow the flow from AI outputs to human oversight.*
->
-> ```mermaid
-> flowchart LR
->   A[AI Outputs] --> B[Ambiguity]
->   B --> C[Task Decomposition]
->   C --> D[AI Assistance]
->   D --> E[Human Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Scalable Oversight vs Conventional Alignment**
-> *Compare the two approaches to AI oversight.*
->
-> ```mermaid
-> graph TD
->   A[Conventional Alignment] -->|Direct Human Evaluation| B[Infeasible]
->   C[Scalable Oversight] -->|AI Assistance & Task Decomposition| D[Feasible]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Scalable Oversight**
-> *Identify the applications in instructional design and quality assurance.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Complex Educational Materials| B[Ambiguity]
->   C[Quality Assurance] -->|Software Development| D[Ambiguity]
->   B --> E[Decompose Tasks]
->   D --> F[Decompose Tasks]
->   E --> G[AI Assistance]
->   F --> H[AI Assistance]
->   G --> I[Human Oversight]
->   H --> J[Human Oversight]
-> ```
 
 # Scalable Oversight
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,45 +165,6 @@ Continuous batching has been shown to achieve up to 10–30 times higher through
 > [!connection] **[[Cost-Per-Token Budgeting]]** — *applies-to*
 > Batch inference optimization directly impacts cost-per-token budgeting by influencing how efficiently GPU resources are utilized. By grouping requests into optimal batches, the system can reduce idle time and maximize resource usage per token processed, thereby lowering overall costs while maintaining or improving performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Batch Inference Workflow Overview**
-> *Follow the flow from request arrival to batch processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Request Arrival] --> B[Queue]
->   B --> C[Determine Batch Size]
->   C --> D[Form Batch]
->   D --> E[Process Batch]
->   E --> F[Output Results]
-> ```
-
-
-> [!abstract] **Diagram 2 — Static vs Continuous Batching Comparison**
-> *Compare static and continuous batching methods in terms of batch size adjustment.*
->
-> ```mermaid
-> graph TD
->   A[Static Batching]
->   B[Continuous Batching]
->   A -->|Fixed Batch Size| C[Inefficient Utilization]
->   B -->|Dynamic Adjustment| D[Efficient Utilization]
-> ```
-
-
-> [!abstract] **Diagram 3 — Batch Inference Optimization Mechanism**
-> *Trace the steps from request monitoring to batch adjustment.*
->
-> ```mermaid
-> flowchart LR
->   A[Monitor Requests] --> B[Determine Batch Size]
->   B --> C[Form Batch]
->   C --> D[Process Batch]
->   D --> E[Adjust Batch Size Based on Completion and Arrival]
-> ```
 
 # Batch Inference Optimization
 

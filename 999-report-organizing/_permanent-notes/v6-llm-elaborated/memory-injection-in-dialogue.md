@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,50 +163,6 @@ Memory injection in dialogue represents a significant leap forward in the field 
 > [!connection] **[[Persona Consistency Across Turns]]** — *applies-to*
 > Memory injection in dialogue systems directly applies to maintaining persona consistency across turns by ensuring that the AI's responses align with its established character and past interactions. This continuity is crucial for users to perceive a coherent and reliable conversational partner.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Memory Injection Mechanism Overview**
-> *Follow the flow from input to memory retrieval and response generation.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Context Analysis]
->   B --> C[Memory Retrieval]
->   C --> D[Integration into Context]
->   D --> E[Response Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Types of Memory in Dialogue Systems**
-> *Identify the different types of memory used and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory] --> B[Episodic Memory]
->   C[Semantic Memory] --> D[Procedural Memory]
->   A --> E[Integration Point]
->   C --> E
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — Stateless vs Stateful Conversations**
-> *Compare the flow of stateless and stateful conversations.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant StatelessSystem as S1
->   participant StatefulSystem as S2
->   U->>S1: Input
->   S1-->>U: Response
->   U->>S2: Input
->   S2->>M[Memory Store]
->   M-->>S2: Retrieve Memory
->   S2-->>U: Personalized Response
-> ```
 
 # Memory Injection in Dialogue
 

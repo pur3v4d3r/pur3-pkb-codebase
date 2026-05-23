@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,50 +170,6 @@ Understanding double descent not only enriches our theoretical framework for mod
 > [!connection] **[[Bias-Variance Tradeoff]]** — *contrasts-with*
 > Double descent contrasts with the bias-variance tradeoff by revealing an additional phase of performance improvement beyond the classical overfitting point. This contrast highlights that traditional views on model complexity and generalization may be incomplete, suggesting a more complex relationship between model capacity and predictive accuracy.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Double Descent Curve Overview**
-> *Follow the curve to see how test error changes with model complexity.*
->
-> ```mermaid
-> graph TD
->   A[Low Complexity] --> B[Improving Error]
->   B --> C[Near Interpolation Threshold]
->   C --> D[Worsening Error]
->   D --> E[Over-Parameterized Regime]
->   E --> F[Improving Error Again]
-> ```
-
-
-> [!abstract] **Diagram 2 — Training Dynamics and Generalization**
-> *Trace the path to understand how training dynamics affect generalization.*
->
-> ```mermaid
-> flowchart LR
->   A[Underfitting] --> B[Fitting Training Data]
->   B --> C[Memoizing Noise]
->   C --> D[Implicit Regularization]
->   D --> E[Generalizing Well]
-> ```
-
-
-> [!abstract] **Diagram 3 — Double Descent vs Bias-Variance Tradeoff**
-> *Compare the classical and double descent curves to understand their differences.*
->
-> ```mermaid
-> graph TD
->   A[Low Complexity] --> B[High Bias]
->   B --> C[Reducing Bias]
->   C --> D[Overfitting]
->   E[Low Complexity] --> F[Improving Error]
->   F --> G[Near Interpolation Threshold]
->   G --> H[Worsening Error]
->   H --> I[Improving Again]
->   A --> J[Classical Bias-Variance Tradeoff]
->   E --> K[Double Descent]
-> ```
 
 # Double Descent
 

@@ -18,7 +18,7 @@ subdomains:
   - self-regulated-learning
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-strategy-use-synthetic-seed-2026-04-24
@@ -67,70 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Strategy Use Cycle**
-> *Follow the cycle from planning to adjustment.*
->
-> ```mermaid
-> graph TD
->   A[Planning]
->   B[Execution]
->   C[Monitoring]
->   D[Adjustment]
->   A --> B
->   B --> C
->   C -->|Feedback| D
->   D -->|New Strategy| A
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Strategies Hierarchy**
-> *Identify the relationship between different cognitive strategies.*
->
-> ```mermaid
-> graph TD
->   A[Rehearsal]
->   B[Elaboration]
->   C[Monitoring & Repair]
->   A -->|Enhances Memory Retention|
->   B -->|Deepens Understanding|
->   C -->|Ensures Effective Learning|
->   subgraph Cognitive Strategies
->     A
->     B
->     C
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Strategy Selection Process**
-> *Trace the decision-making process for selecting and adjusting strategies.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant Task as T
->   participant Strategy as S
->   L->>T: Identify task conditions
->   T-->>L: Provide feedback on task requirements
->   L->>S: Select appropriate strategy
->   S-->>L: Apply selected strategy
->   L->>S: Monitor effectiveness
->   S-->>L: Feedback on performance
->   alt Strategy not effective
->     L->>S: Adjust or switch strategy
->   else Strategy effective
->     L->>T: Continue task execution
->   end
-> ```
 
 # Cognitive Strategy Use
 

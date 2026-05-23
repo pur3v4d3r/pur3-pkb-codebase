@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - episodic-memory-in-agents-synthetic-seed-2026-05-20
@@ -68,49 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Episodic Memory Process Flow**
-> *Follow the flow from interaction to memory retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Interaction] --> B[Encode]
->   B --> C[Store]
->   D[Current Context] --> E[Retrieve]
->   C --> E
->   E --> F[Inject into Working Memory]
-> ```
-
-
-> [!abstract] **Diagram 2 — Episodic vs Semantic Memory Comparison**
-> *Compare the storage and retrieval of episodic versus semantic memory.*
->
-> ```mermaid
-> graph TD
->   A[Semantic Memory] --> B[Embedded in Model]
->   C[Episodic Memory] --> D[External Database]
->   E[Immediate Context] --> F[Working Memory]
->   G[Past Interactions] --> H[Retrieved Memories]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Agents**
-> *Identify the difference between reflective and reactive thinking processes.*
->
-> ```mermaid
-> graph TD
->   A[Reactive Thinking] --> B[Immediate Response]
->   C[Reflective Thinking] --> D[Review Past Experiences]
->   E[Informed Decision] --> F[Future Context]
-> ```
 
 # Episodic Memory in Agents
 

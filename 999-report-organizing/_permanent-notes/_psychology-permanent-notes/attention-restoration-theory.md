@@ -18,7 +18,7 @@ subdomains:
   - cognitive-neuroscience
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attention-restoration-theory-synthetic-seed-2026-04-25
@@ -67,60 +67,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — ART Mechanism Overview**
-> *Follow the flow from voluntary to involuntary attention.*
->
-> ```mermaid
-> graph TD
->   A[Directed Attention]
->   B[Natural Environment]
->   C[Involuntary Engagement]
->   D[Restoration of Directed Attention]
->   A -->|Fatigue| B
->   B -->|Soft Fascination| C
->   C -->|Rest| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Attention Restoration Process**
-> *Trace the shift from top-down to bottom-up processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Top-Down Control]
->   B[Natural Stimuli]
->   C[Bottom-Up Processing]
->   D[Restoration]
->   A -->|Directed Attention| B
->   B -->|Intrinsically Interesting| C
->   C -->|Automatic Engagement| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Neural Shift During Restoration**
-> *Identify the change in brain activity patterns.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> DLPC[Directed Attention Control]
->   DLPC --> DMN[Spontaneous Thought Network]
->   DMN -->|Restoration|
->   state DLPC
->     [*] -->|Reduced Activity|
->   end
->   state DMN
->     [*] -->|Increased Connectivity|
->   end
-> ```
 
 # Attention Restoration Theory
 

@@ -17,7 +17,7 @@ subdomains:
   - cognitive-control
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attention-and-selective-processing-synthetic-seed-2026-04-24
@@ -64,55 +64,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Selective Processing Stages**
-> *Follow the flow from early perceptual to post-categorical stages.*
->
-> ```mermaid
-> graph TD
->   A[Early Perceptual]
->   B[Late Semantic]
->   C[Post-Categorical]
->   A -->|Screening| B
->   B -->|Evaluation| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Attentional Load Theory**
-> *Understand how load affects processing of irrelevant stimuli.*
->
-> ```mermaid
-> flowchart LR
->   A[Low Perceptual Load]
->   B[High Perceptual Load]
->   C[Irrelevant Stimuli Processed]
->   D[Irrelevant Stimuli Filtered Out]
->   A -->|Irrelevant Stimuli| C
->   B -->|Irrelevant Stimuli| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Neural Mechanism of Filtering**
-> *Trace the pathway from sensory cortices to semantic areas.*
->
-> ```mermaid
-> flowchart LR
->   A[Sensory Cortices]
->   B[Frontoparietal Attention Network]
->   C[Top-Down Signals]
->   D[Fusiform Face Area]
->   A -->|Initial Input| B
->   B -->|Alpha-Band Oscillations| C
->   C -->|Suppression| D
-> ```
 
 # Attention and Selective Processing
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,54 +173,6 @@ By integrating top-down processing principles with detailed pathway analysis, pa
 > [!connection] **[[Causal Tracing]]** — *applies-to*
 > Path patching methodology specifically applies the principles of causal tracing to dissect computational pathways within large language models. Unlike general causal tracing, which can be applied across various domains, path patching is tailored for neural networks, making it a specialized tool that leverages the unique structure and dynamics of these systems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Path Patching Workflow Overview**
-> *Follow the flow from source to destination, noting clean and corrupted activations.*
->
-> ```mermaid
-> graph TD
->   A[Source Activation]
->   B[Intermediate Clean]
->   C[Intermediate Corrupted]
->   D[Destination Output]
->   A -->|Alteration| B
->   B -->|No Change| C
->   C -->|Impact Observed| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Path Patching Mechanism Flowchart**
-> *Trace the causal influence from source to destination, identifying direct and indirect pathways.*
->
-> ```mermaid
-> flowchart LR
->   A[Select Source]
->   B[Define Intermediate Components]
->   C[Hold Clean/Corrupt Activations]
->   D[Observe Impact on Destination]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Path Patching Taxonomy**
-> *Compare direct and indirect pathways in the context of clean and corrupted activations.*
->
-> ```mermaid
-> graph TD
->   A[Direct Path]
->   B[Indirect Path]
->   C[Hold Clean]
->   D[Hold Corrupt]
->   A -->|Clean| C
->   A -->|Corrupt| D
->   B -->|Clean| C
->   B -->|Corrupt| D
-> ```
 
 # Path Patching Methodology
 

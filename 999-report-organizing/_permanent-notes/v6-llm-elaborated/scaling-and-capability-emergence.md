@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,52 +156,6 @@ The evidence suggests that the apparent discontinuities in capability emergence 
 > [!connection] **[[Chain-of-Thought Emergence]]** — *instance-of*
 > Capability emergence in large language models is an instance of chain-of-thought emergence, where the model's ability to perform multi-step reasoning tasks suddenly improves as it scales. This connection highlights that capability emergence is not just about size but also about the model’s capacity to engage in complex thought processes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Scaling Thresholds Overview**
-> *Identify the scale thresholds where new capabilities emerge.*
->
-> ```mermaid
-> graph TD
->   A[Small Scale] --> B[Moderate Scale]
->   B --> C[Large Scale]
->   A -->|No New Capabilities| D[Threshold]
->   B -->|Abrupt Emergence| E[New Capability]
->   C -->|Further Improvement| F[Advanced Capability]
-> ```
-
-
-> [!abstract] **Diagram 2 — Phase Transition Mechanism**
-> *Understand the internal representation phase transitions.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial State] --> B[Nuanced Patterns]
->   B --> C[Complex Reasoning]
->   A -->|Scale Threshold| D[Internal Transformation]
->   D --> E[Phase Transition]
->   E --> F[Emergent Capability]
-> ```
-
-
-> [!abstract] **Diagram 3 — Performance Metrics Comparison**
-> *Compare binary and graded accuracy measures.*
->
-> ```mermaid
-> sequenceDiagram
->   participant BinaryMetric as BM
->   participant GradedMetric as GM
->   participant Model as M
->   BM->>M: Measure Performance (Binary)
->   alt Abrupt Improvement
->     M-->>BM: Discontinuous Jump
->   else Smooth Enhancement
->     GM->>M: Measure Performance (Graded)
->     M-->>GM: Continuous Improvement
->   end
-> ```
 
 # Scaling and Capability Emergence
 

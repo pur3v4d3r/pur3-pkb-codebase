@@ -18,7 +18,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - roger-penrose-synthetic-seed-2026-05-14
@@ -67,46 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Singularity Theorems Overview**
-> *Follow the flow from conditions to spacetime singularities.*
->
-> ```mermaid
-> flowchart LR
->   A[Energy Constraints] --> B[Trapped Surface]
->   B --> C[Gravitational Collapse]
->   C --> D[Singularities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Penrose Process Flow**
-> *Trace the energy extraction from rotating black holes.*
->
-> ```mermaid
-> flowchart LR
->   A[Rotating Black Hole] --> B[Particle Entry]
->   B --> C[Energetic Exit]
->   C --> D[Energy Gain]
-> ```
-
-
-> [!abstract] **Diagram 3 — Twistor Theory Framework**
-> *Understand the mapping from spacetime to twistor space.*
->
-> ```mermaid
-> graph TD
->   A[Spacetime] --> B[Twistor Space]
->   B --> C[Massless Particles]
->   C --> D[Interactions]
-> ```
 
 # Roger Penrose
 

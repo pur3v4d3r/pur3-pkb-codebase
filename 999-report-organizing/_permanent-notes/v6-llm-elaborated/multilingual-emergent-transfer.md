@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -181,43 +177,6 @@ Empirical studies have shown that the effectiveness of multilingual emergent tra
 > [!connection] **[[Cross-Lingual Prompt Transfer]]** — *contrasts-with*
 > While multilingual emergent transfer relies on generalized representations learned during pre-training, cross-lingual prompt transfer involves fine-tuning models with task-specific prompts in multiple languages. This distinction highlights the different strategies for achieving cross-lingual capabilities and their respective strengths and limitations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Multilingual Emergent Transfer Process**
-> *Follow the flow from training to task performance across languages.*
->
-> ```mermaid
-> flowchart LR
->   A[Training in English] --> B[Shared Representations]
->   B --> C[Tasks in Non-English Languages]
->   C --> D[Emergent Capabilities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Language Similarity and Transfer Capability**
-> *Observe how language similarity affects emergent transfer strength.*
->
-> ```mermaid
-> graph TD
->   A[English] -->|Stronger Transfer| B[Similar Languages]
->   A -->|Weaker Transfer| C[Distant Languages]
-> ```
-
-
-> [!abstract] **Diagram 3 — Emergent vs Explicit Cross-Lingual Capability**
-> *Compare emergent transfer with explicit cross-lingual training.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Model as M
->   participant Task in English as TE
->   participant Task in Non-English as TN
->   M->>TE: Perform Task (Explicit Training)
->   TE-->>M: Capability Learned
->   M->>TN: Perform Task (Emergent Transfer)
-> ```
 
 # Multilingual Emergent Transfer
 

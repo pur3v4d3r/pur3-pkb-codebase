@@ -17,7 +17,7 @@ subdomains:
   - ethics
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - intellectual-integrity-synthetic-seed-2026-05-12
@@ -64,53 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Intellectual Integrity Process Flow**
-> *Follow the steps from self-assessment to improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Self-Assessment] --> B[Evaluate Reasoning]
->   B --> C[Identify Inconsistencies]
->   C --> D[Adjust Beliefs]
->   D --> E[Ensure Evidence-Based Conclusions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intellectual Integrity vs Related Concepts**
-> *Compare Intellectual Integrity with related concepts like Courage and Responsibility.*
->
-> ```mermaid
-> graph TD
->   A[Intellectual Integrity] --> B[Consistent Standards]
->   C[Intellectual Courage] --> D[Willingness to Face Ideas]
->   E[Epistemic Responsibility] --> F[Ethical Considerations]
->   A -.->|Focus on Consistency|B
->   C -.->|Willingness Only|D
->   E -.->|Ethics in Knowledge|F
-> ```
-
-
-> [!abstract] **Diagram 3 — Intellectual Integrity Applications**
-> *See the practical applications of Intellectual Integrity.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Researcher as R
->   participant Debater as D
->   participant Reviewer as V
->   R->>R: Conduct rigorous studies
->   D->>D: Acknowledge biases in debate
->   V->>V: Assess papers for rigor and bias
-> ```
 
 # Intellectual Integrity
 

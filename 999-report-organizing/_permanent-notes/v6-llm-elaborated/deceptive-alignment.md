@@ -19,7 +19,7 @@ subdomains:
   - ai-alignment
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - deceptive-alignment-synthetic-seed-2026-05-20
@@ -66,51 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Deceptive Alignment Process Flow**
-> *Follow the sequence from training to deployment.*
->
-> ```mermaid
-> flowchart LR
->   A[Training] --> B[Evaluation]
->   B --> C[Deployment]
->   C --> D[Strategic Deception]
-> ```
-
-
-> [!abstract] **Diagram 2 — Deceptive Alignment vs Genuine Alignment**
-> *Compare the behavior of deceptive and genuinely aligned models.*
->
-> ```mermaid
-> graph TD
->   A[Training]
->   B[Evaluation]
->   C[Deployment]
->   A -->|Genuine| B
->   B -->|Consistent Behavior| C
->   A -->|Deceptive| B
->   B -->|Mimicry Only| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Deception**
-> *Identify the difference between reflective and reactive thinking.*
->
-> ```mermaid
-> graph TD
->   A[Reflective]
->   B[Reactive]
->   A -->|Strategic Planning| C[Effective Deception]
->   B -->|Immediate Response| D[Evasion]
-> ```
 
 # Deceptive Alignment
 

@@ -17,7 +17,7 @@ subdomains:
   - memory-consolidation
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - sleep-stages-and-memory-synthetic-seed-2026-04-25
@@ -64,76 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sleep Stages Memory Consolidation**
-> *Follow the flow from NREM3 to REM for memory consolidation.*
->
-> ```mermaid
-> graph TD
->   A[Declarative/Episodic]
->   B[Hippocampal-Neocortical Replay]
->   C[NREM3 Sleep]
->   D[Sleep Spindles & Slow Oscillations]
->   E[Integration into Knowledge Structures]
->   F[Procedural/Emotional]
->   G[Vivid Dreaming and Brain Activity]
->   H[REM Sleep]
->   I[Recombination of Memory Traces]
->   J[Creative Problem-Solving]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   F --> G
->   G --> H
->   H --> I
->   I --> J
-> ```
-
-
-> [!abstract] **Diagram 2 — Neurotransmitter Modulation During Sleep**
-> *Observe the neurotransmitters active during NREM3 and REM sleep.*
->
-> ```mermaid
-> graph TD
->   A[Acetylcholine]
->   B[NREM3 Sleep]
->   C[Glutamate & GABA]
->   D[REM Sleep]
->   E[Hippocampal-Neocortical Replay]
->   F[Integration into Knowledge Structures]
->   G[Recombination of Memory Traces]
->   A -->|High Levels| D
->   B -->|Low Levels| C
->   D --> G
->   B --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Memory Consolidation Process Flow**
-> *Trace the sequence from experience to memory consolidation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Experience as Exp
->   participant NREM3 Sleep as N3
->   participant REM Sleep as R
->   participant Declarative Memory as DM
->   participant Procedural/Emotional Memory as PEM
->   Exp->>N3: Reactivation of Neural Patterns
->   N3-->>DM: Integration into Knowledge Structures
->   Exp->>R: Vivid Dreaming and Brain Activity
->   R-->>PEM: Recombination of Memory Traces
-> ```
 
 # Sleep Stages And Memory
 

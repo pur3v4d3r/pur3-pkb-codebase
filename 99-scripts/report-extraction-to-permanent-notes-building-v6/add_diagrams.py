@@ -555,24 +555,109 @@ def diagram_one(
 # Diagram rendering
 # ════════════════════════════════════════════════════════════════════════════
 
-def _fix_mermaid_content(content: str) -> str:
-    """Best-effort fix for LLM-produced one-liner Mermaid content.
+def _fix_bare_arrows(content: str) -> str:
+    """Join split arrow lines where the LLM put the target node on the next line.
 
-    Some models (e.g. qwen2.5) occasionally collapse all Mermaid statements
-    onto a single line separated by spaces.  This function re-inserts newlines
-    at node-boundary positions using pattern matching.
+    Some models emit::
+
+        A -->|Relies on|
+          B[Node]
+
+    which is invalid Mermaid syntax.  This joins such pairs into::
+
+        A -->|Relies on| B[Node]
+
+    The fix is applied line-by-line.  A line qualifies as a "bare arrow" when
+    it ends with an edge operator (``-->``, ``-->|label|``, ``---``, etc.) and
+    contains no closing shape bracket after the operator.  The following
+    non-blank line must look like a node reference and must *not* itself
+    contain an arrow operator (to avoid accidentally merging two real arrows).
 
     Args:
         content: Raw mermaid content string (no fences).
 
     Returns:
-        Content with each logical statement on its own line.
+        Content with split arrow lines joined.
+    """
+    # Matches a line whose last non-whitespace is an arrow tail:
+    #   optional leading whitespace, some non-newline, then arrow-style ending.
+    _bare = re.compile(
+        r"^([ \t]*\S[^\n]*?(?:--[>\-xo]+>?|\.\.\.|==>)(?:\|[^|\n]*\|)?)\s*$"
+    )
+    # Matches lines that contain an arrow (so we don't merge two real arrows).
+    _has_arrow = re.compile(r"--[>\-xo]|\.\.\.>|==>")
+
+    lines = content.splitlines()
+    result: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        m = _bare.match(line)
+        if m:
+            # Peek ahead, skipping any blank lines in between.
+            j = i + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            if j < len(lines):
+                nxt = lines[j]
+                if nxt.strip() and not _has_arrow.search(nxt):
+                    # Merge: arrow line + target line.
+                    result.append(line.rstrip() + " " + nxt.strip())
+                    i = j + 1
+                    continue
+        result.append(line)
+        i += 1
+    return "\n".join(result)
+
+
+def _fix_mermaid_content(content: str) -> str:
+    """Best-effort fix for LLM-produced malformed Mermaid content.
+
+    Applies several targeted fixups in order, then handles the rarer case of
+    a completely one-liner output:
+
+    1. **Bare-arrow join** — ``A -->|label|\\n  B`` → ``A -->|label| B``
+       (some models emit the arrow and its target node on separate lines).
+    2. **Participant bracket** — ``participant X[Label]`` →
+       ``participant X as Label`` (sequence-diagram syntax error).
+    3. **Single-quoted labels** — ``B['text']`` → ``B["text"]``
+       (Mermaid only accepts double-quoted strings).
+    4. **One-liner re-split** — when the entire diagram is collapsed onto one
+       line the diagram-type header and node boundaries are split out.
+    5. **Paren-in-brackets quoting** — ``A[Node (detail)]`` →
+       ``A["Node (detail)"]`` (parentheses inside ``[]`` break Mermaid's
+       shape parser).
+
+    Args:
+        content: Raw mermaid content string (no fences, no callout ``> `` prefix).
+
+    Returns:
+        Content with each logical statement on its own line and known syntax
+        issues resolved.
     """
     content = content.strip()
-    # If already has 2+ newlines it's almost certainly fine.
+
+    # ── Fix 1: bare arrows (multi-line content — must run before early-return) ──
+    # Only pay the line-splitting cost when the signature pattern is present.
+    if re.search(r"--[>\-xo]+>?(?:\|[^|\n]*\|)?\s*$", content, re.MULTILINE):
+        content = _fix_bare_arrows(content)
+
+    # ── Fix 2: participant X[Y] → participant X as Y ──────────────────────────
+    content = re.sub(
+        r"participant\s+(\w+)\[([^\]]+)\]",
+        r"participant \1 as \2",
+        content,
+    )
+
+    # ── Fix 3: ['single-quoted labels'] → ["double-quoted labels"] ───────────
+    content = re.sub(r"\['([^']+)'\]", r'["\1"]', content)
+
+    # ── Early-return for well-formed multi-line content ───────────────────────
+    # Fixes 4 & 5 only make sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
-    # Split the diagram-type header line from the first node.
+
+    # ── Fix 4: split one-liner — diagram-type header from first node ──────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",
@@ -586,7 +671,8 @@ def _fix_mermaid_content(content: str) -> str:
         r"\1\n",
         content,
     )
-    # Quote square-bracket labels that contain parentheses.
+
+    # ── Fix 5: quote square-bracket labels that contain parentheses ───────────
     # e.g.  A[AI Player (Honest)]  →  A["AI Player (Honest)"]
     # Mermaid treats '(' inside '[]' as a shape operator, breaking rendering.
     content = re.sub(

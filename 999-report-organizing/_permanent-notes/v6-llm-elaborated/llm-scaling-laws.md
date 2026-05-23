@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -165,39 +161,6 @@ LLM scaling laws serve as a critical framework for optimizing the design and tra
 > [!connection] **[[Parameter-Efficient Fine-Tuning]]** — *applies-to*
 > LLM scaling laws provide foundational insights into resource allocation that directly inform parameter-efficient fine-tuning strategies. By understanding the optimal ratios between model size and training data, practitioners can apply these principles to fine-tune models more efficiently, ensuring that neither parameter nor token scarcity limits performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — LLM Scaling Relationships**
-> *Identify the relationships between parameters, tokens, and compute budget.*
->
-> ```mermaid
-> graph TD
->   A[Parameters N] --> B[Performance]
->   C[Training Tokens D] --> B
->   D[Compute Budget C] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Chinchilla vs Gopher Scaling**
-> *Compare the scaling strategies of Chinchilla and Gopher models.*
->
-> ```mermaid
-> flowchart LR
->   A[Chinchilla (70B,1.4T)] --> B[Optimal Performance]
->   C[Gopher (280B,300B)] --> D[Worse Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Resource Allocation Principles**
-> *Understand the balance between model size and training data.*
->
-> ```mermaid
-> graph TD
->   A[Model Size] --> B[Performance]
->   C[Training Data Volume] --> B
-> ```
 
 # LLM Scaling Laws
 

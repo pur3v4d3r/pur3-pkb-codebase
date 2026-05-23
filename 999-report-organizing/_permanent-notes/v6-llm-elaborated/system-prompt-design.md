@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,40 +154,6 @@ System Prompt Design stands out as a critical component of LLM applications due 
 > [!connection] **[[Instruction Following]]** — *applies-to*
 > System Prompt Design is essential for Instruction Following because it sets the foundational context that guides how instructions are interpreted and executed. Without a robust system prompt, even clear instructions can lead to misinterpretations or inconsistent behavior.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System Prompt Design Process Flow**
-> *Follow the sequence from initial setup to user interaction.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Setup] --> B[System Prompt]
->   B --> C[User Interaction]
->   C --> D[Model Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — System vs User-Specific Prompts**
-> *Compare the scope and application of system prompts versus user-specific ones.*
->
-> ```mermaid
-> graph TD
->   A[System Prompt] -->|Overarching Instructions| B[Session]
->   C{User-Specific Prompt} -->|Individual Interaction| D[Query]
-> ```
-
-
-> [!abstract] **Diagram 3 — System Prompt Design Components**
-> *Identify the key elements that make up a system prompt.*
->
-> ```mermaid
-> graph TD
->   A[Tone] --> B[Task Scope]
->   B --> C[Output Style]
->   C --> D[Constraints]
-> ```
 
 # System Prompt Design
 

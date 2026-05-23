@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -178,65 +174,6 @@ Conversational context compression not only addresses technical limitations but 
 > [!connection] **[[Conversation Summarization Prompts]]** — *specializes*
 > Conversational context compression specializes in the application of conversation summarization prompts to manage extensive dialogue histories. These prompts guide models in generating concise summaries that capture essential information, thereby enabling more efficient and effective multi-turn conversations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Conversational Context Compression Techniques**
-> *Identify the different techniques used for compression.*
->
-> ```mermaid
-> graph TD
->   A[Abstractive Summarization]
->   B[Belief-State Extraction]
->   C[Retrieval-Based Inclusion]
->   D[Event-Level Reduction]
->   E[Hierarchical Summarization]
->   A -->|Succinct Summary| F[Essence Preservation]
->   B -->|Structured Format| G[Tasks Relevant Info]
->   C -->|Highly Relevant Turns| H[Focused Context]
->   D -->|Key Information Contribution| I[Sentence Condensation]
->   E -->|Multi-Level Summaries| J[Different Granularities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Conversational Context Compression Mechanism Flow**
-> *Follow the flow of information from input to output.*
->
-> ```mermaid
-> flowchart LR
->   A[Dialogue History]
->   B[Identify Key Information]
->   C[Succinct Representation]
->   D[Preserve Essential Context]
->   E[Generate Compressed Summary]
->   F[Output]
->   A -->|Input| B
->   B -->|Process| C
->   C -->|Maintain Coherence| D
->   D -->|Compress Information| E
->   E -->|Output| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Conversational Context Compression Applications**
-> *See the applications of compression in different scenarios.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Customer Service Chatbots]
->   C[Complex Queries Handling]
->   D[Personalized Feedback]
->   E[User Progress Tracking]
->   F[Efficent Problem Resolution]
->   G[Improved User Satisfaction]
->   A -->|Detailed Interactions| D
->   A -->|Learning Points Retention| E
->   B -->|Coherent Understanding| C
->   B -->|Effective Resolution| F
->   B -->|User Preferences| G
-> ```
 
 # Conversational Context Compression
 

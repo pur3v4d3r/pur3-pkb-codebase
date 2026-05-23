@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,30 +169,6 @@ Experiments have shown that Context Distillation Training can significantly redu
 > [!connection] **[[Knowledge Distillation]]** — *applies-to*
 > Context Distillation Training is a specific application of knowledge distillation techniques, focusing on transferring contextual information. This connection highlights how general distillation principles are adapted to handle context-specific challenges, such as capturing dynamic and evolving contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Context Distillation Process Flow**
-> *Follow the flow from teacher model to student model.*
->
-> ```mermaid
-> flowchart LR
->   A[Full Context Prompt] --> B[Teacher Model]
->   B --> C[Output]
->   C --> D[Student Model Fine-Tuning]
->   D --> E[Distilled Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 2 — Context Distillation vs Traditional Fine-Tuning**
-> *Compare the two approaches in terms of context usage.*
->
-> ```mermaid
-> graph TD
->   A[Traditional Fine-Tuning] -->|Direct Input-Output Pairs| B[No Context Embedding]
->   C[Context Distillation Training] -->|Teacher Model Outputs| D[Embed Context Knowledge]
-> ```
 
 # Context Distillation Training
 

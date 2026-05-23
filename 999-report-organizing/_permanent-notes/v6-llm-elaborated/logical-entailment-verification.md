@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,44 +169,6 @@ Experiments have shown that using a second LLM as a logical auditor can detect u
 > [!connection] **[[Natural Language Inference (NLI)]]** — *supports*
 > Logical Entailment Verification relies on Natural Language Inference (NLI) models to assess the logical consistency of generated outputs. NLI models are essential because they can evaluate whether a conclusion logically follows from given premises, thereby supporting Logical Entailment Verification in ensuring that LLM-generated content is coherent and consistent.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Logical Entailment Verification Process**
-> *Follow the flow from input to logical consistency check.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[NLI Model]
->   B --> C[Chain-of-Thought Prompting]
->   C --> D[Logical Consistency Check]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanisms for Logical Entailment Verification**
-> *Identify the two main mechanisms used in verification.*
->
-> ```mermaid
-> graph TD
->   A[NLI Model]
->   B[Chain-of-Thought Prompting]
->   C[Logical Consistency Check]
->   A -->|Evaluate| C
->   B -->|Justify Claims| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Contradiction Detection vs Entailment Verification**
-> *Compare the focus of contradiction detection and entailment verification.*
->
-> ```mermaid
-> sequenceDiagram
->   participant ContradictionDetection as CD
->   participant EntailmentVerification as EV
->   CD->>CD: Identify Direct Contradictions
->   EV->>EV: Evaluate Logical Consistency from Premises
-> ```
 
 # Logical Entailment Verification
 

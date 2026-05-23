@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,35 +167,6 @@ Speculative Decoding's effectiveness hinges on the draft model's ability to gene
 > [!connection] **[[Token Budget Management]]** — *applies-to*
 > Speculative decoding and token budget management are intrinsically linked as speculative decoding can significantly influence how tokens are allocated during the inference process. By reducing the number of sequential passes required for full sequence generation, speculative decoding allows more efficient use of computational resources, thereby extending the effective token budget without increasing actual resource consumption.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Speculative Decoding Process Flow**
-> *Follow the flow from input to output, noting stages and interactions.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Draft Model]
->   B --> C[Generate Sequence]
->   C --> D[Target Model]
->   D --> E[Verify Tokens]
->   E --> F[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Decoding Methods**
-> *Compare speculative decoding with autoregressive and beam search methods.*
->
-> ```mermaid
-> graph TD
->   A[Speculative Decoding]
->   B[Autoregressive Decoding]
->   C[Beam Search]
->   A -->|Single Pass Verification| F[High Quality Output]
->   B -->|Sequential Token Generation| G[Higher Latency]
->   C -->|Multiple Sequences Evaluated| H[Lower Throughput]
-> ```
 
 # Speculative Decoding
 

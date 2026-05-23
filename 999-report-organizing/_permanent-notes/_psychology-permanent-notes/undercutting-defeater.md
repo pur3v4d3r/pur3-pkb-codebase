@@ -18,7 +18,7 @@ subdomains:
   - defeasible-reasoning
 
 created: 2026-05-12
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - undercutting-defeater-synthetic-seed-2026-05-12
@@ -65,34 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Undercutting Defeater Process Flow**
-> *Follow the flow to understand how an Undercutting Defeater works.*
->
-> ```mermaid
-> flowchart LR
->   A[Premise] --> B[Evidence]
->   B --> C[Conclusion]
->   D[Undercutting Defeater] -->|Weakens Link| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Undercutting and Rebutting Defeaters**
-> *Compare the impact of Undercutting vs Rebutting Defeaters on an argument.*
->
-> ```mermaid
-> graph TD
->   A[Undercutting Defeater] -->|Weakens Link| B[Conclusion]
->   C[Rebutting Defeater] -->|Challenges Conclusion| D[Conclusion]
-> ```
 
 # Undercutting Defeater
 

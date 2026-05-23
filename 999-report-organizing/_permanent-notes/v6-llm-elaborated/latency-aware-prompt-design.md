@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,68 +158,6 @@ Latency-Aware Prompt Design can reduce perceived latency by up to 50-80% through
 > [!connection] **[[kv-cache-reuse-strategies]]** — *applies-to*
 > Latency-Aware Prompt Design benefits significantly from kv-cache reuse strategies by reducing computational load through prefix caching. This mechanism allows subsequent requests to reuse cached computations, thereby lowering TTFT and improving overall system responsiveness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Latency-Aware Design Process Flow**
-> *Follow the steps from prompt design to output delivery.*
->
-> ```mermaid
-> graph TD
->   A[Minimize Prompt Length]
->   B[Prefix Caching]
->   C[Streaming Delivery]
->   D[Reduce TTFT]
->   E[Reduce TTLT]
->   F[Enhance User Experience]
->   A -->|Optimization| B
->   B -->|Caching| C
->   C -->|Partial Results| D
->   D -->|Initial Response| E
->   E -->|Incremental Updates| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Latency vs Quality Trade-off**
-> *Compare latency-optimized prompts with full-length counterparts.*
->
-> ```mermaid
-> graph TD
->   A[Full-Length Prompt]
->   B[Larger TTFT]
->   C[Larger TTLT]
->   D[Higher Quality]
->   E[Latency-Optimized Prompt]
->   F[Smaller TTFT]
->   G[Smaller TTLT]
->   H[Lower Quality]
->   A -->|Initial Load| B
->   B -->|Final Response| C
->   C -->|Output| D
->   E -->|Reduced Initial Load| F
->   F -->|Partial Responses| G
->   G -->|Incremental Output| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Latency-Aware Design Mechanisms**
-> *Identify mechanisms that reduce latency in prompt design.*
->
-> ```mermaid
-> graph TD
->   A[Minimize Prompt Length]
->   B[Prefix Caching]
->   C[Streaming Delivery]
->   D[Reduce TTFT]
->   E[Reduce TTLT]
->   F[Enhance User Experience]
->   A -->|Optimization| D
->   B -->|Caching| D
->   C -->|Partial Results| E
->   D -->|Initial Response| F
->   E -->|Incremental Updates| F
-> ```
 
 # Latency-Aware Prompt Design
 

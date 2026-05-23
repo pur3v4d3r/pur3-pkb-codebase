@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,46 +160,6 @@ MT-Bench Evaluation not only advances the field by providing a more nuanced asse
 > [!connection] **[[Single-Turn Benchmarks]]** — *contrasts-with*
 > MT-Bench Evaluation contrasts with single-turn benchmarks by focusing on multi-turn conversations, which are more reflective of real-world interactions. While single-turn benchmarks assess immediate response accuracy, MT-Bench evaluates a model's ability to maintain context and coherence over several exchanges, offering a deeper insight into conversational abilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — MT-Bench Evaluation Categories**
-> *Identify the categories assessed by MT-Bench.*
->
-> ```mermaid
-> graph TD
->   A[Writing]
->   B[Roleplay]
->   C[Extraction]
->   D[Reasoning]
->   E[Math]
->   F[Coding]
->   G[Knowledge]
->   H[STEM]
-> ```
-
-
-> [!abstract] **Diagram 2 — MT-Bench Scoring Process**
-> *Understand the flow from question sets to final scores.*
->
-> ```mermaid
-> flowchart LR
->   A[Question Sets] --> B[Multi-Turn Conversations]
->   B --> C[GPT-4 Judge Model]
->   C --> D[Per-Category Scores]
-> ```
-
-
-> [!abstract] **Diagram 3 — MT-Bench Application Areas**
-> *See the practical applications of MT-Bench Evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Robust Conversational Interfaces]
->   C[Model Development] --> D[Critical Insights for Improvement]
->   E[Benchmarking] --> F[Fair Comparisons Across Models]
-> ```
 
 # MT-Bench Evaluation
 

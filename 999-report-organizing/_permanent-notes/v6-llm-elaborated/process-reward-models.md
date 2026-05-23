@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,54 +154,6 @@ The key claim about Process Reward Models highlights their potential to provide 
 > [!connection] **[[Reinforcement Learning from Human Feedback]]** — *supports*
 > PRMs support Reinforcement Learning from Human Feedback by providing a structured way to incorporate human feedback at each step of the reasoning process. This integration allows for more precise and effective reinforcement learning, as it enables systems to learn from detailed feedback rather than relying solely on final outcomes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Step-level Evaluation Process**
-> *Follow the flow from input to step evaluation and final output.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Step1]
->   C[Step2]
->   D[FinalOutput]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Outcome Reward Models**
-> *Compare the evaluation focus of PRMs and outcome reward models.*
->
-> ```mermaid
-> graph TD
->   A[Process Reward Model]
->   B[Outcome Reward Model]
->   C[Step Evaluation]
->   D[Final Result Evaluation]
->   A -->|Focus on| C
->   B -->|Focus on| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Feedback Loop in PRMs**
-> *Trace the feedback loop from step evaluation to reinforcement learning.*
->
-> ```mermaid
-> graph TD
->   A[Step Evaluation]
->   B[Human Annotation or Automated Verification]
->   C[Rewards Assignment]
->   D[Reinforcement Learning]
->   E[Problem-Solving Strategies Improvement]
->   A -->|Based on| B
->   B -->|Guides to| C
->   C -->|Enhances| D
->   D -->|Improves| E
-> ```
 
 # Process Reward Models
 

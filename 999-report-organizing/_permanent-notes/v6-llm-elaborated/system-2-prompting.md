@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,61 +160,6 @@ System 2 Prompting not only improves the accuracy of language models but also al
 > [!connection] **[[Chain-of-Thought Prompting]]** — *see-also*
 > Both System 2 Prompting and Chain-of-Thought Prompting aim to enhance model reasoning by guiding it through detailed steps. However, while System 2 focuses on the deliberate nature of the process, Chain-of-Thought emphasizes the explicit articulation of thought processes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System 2 Prompting Process Flow**
-> *Follow the steps from prompt design to model output.*
->
-> ```mermaid
-> flowchart LR
->   A[Design Complex Task]
->   B[Break Down into Steps]
->   C[Prompt for Verification]
->   D[Generate Deliberate Response]
->   E[Evaluate Output]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — System 1 vs System 2 Thinking in LLMs**
-> *Compare fast intuitive responses with slower deliberate reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Fast Intuitive Response]
->   B[Slow Deliberate Reasoning]
->   C[Intuitive Generation Bias]
->   D[First-Response Bias Mitigation]
->   E[Quick but Potentially Flawed]
->   F[Avoids Oversimplification and Errors]
->   A -->|System 1| C
->   B -->|System 2| D
->   C --> E
->   D --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of System 2 Prompting**
-> *Identify areas where multi-step reasoning is beneficial.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Document Analysis]
->   C[Break Down Complex Problems]
->   D[Prompt for Detailed Breakdowns]
->   E[Enhance Understanding and Accuracy]
->   F[Mitigate Oversights]
->   A -->|Multi-Step Reasoning Tasks| C
->   B -->|Comprehensive Evaluation| D
->   C --> E
->   D --> F
-> ```
 
 # System 2 Prompting
 

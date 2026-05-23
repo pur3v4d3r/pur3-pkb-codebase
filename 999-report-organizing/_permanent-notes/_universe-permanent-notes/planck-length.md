@@ -18,7 +18,7 @@ subdomains:
   - fundamental-units
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - planck-length-synthetic-seed-2026-05-14
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Planck Length Derivation**
-> *Follow the derivation path from constants to Planck Length.*
->
-> ```mermaid
-> graph TD
->   A[Speed of Light (c)] --> B[Reduced Planck Constant (ℏ)]
->   C[Gravitational Constant (G)] --> D[Planck Length (l_P)]
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Quantum Gravity Theories**
-> *Trace the relationship between Planck Length and quantum gravity theories.*
->
-> ```mermaid
-> graph TD
->   A[Planck Length] --> B[Loop Quantum Gravity]
->   A --> C[Causal Dynamical Triangulations]
->   A --> D[String Theory]
-> ```
-
-
-> [!abstract] **Diagram 3 — Experimental Approaches**
-> *Identify the experimental methods probing Planck-scale effects.*
->
-> ```mermaid
-> graph TD
->   A[High-Energy Cosmic Rays] --> B[Particle Trajectories]
->   C[Precision Interferometry Experiments] --> D[Tiny Phase Differences]
-> ```
 
 # Planck Length
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,42 +157,6 @@ By recognizing and addressing the biases inherent in abductive reasoning, develo
 > [!connection] **[[Inductive Reasoning in LLMs]]** — *contrasts-with*
 > While both abductive and inductive reasoning involve making generalizations from specific instances, they differ fundamentally. Inductive reasoning builds broad conclusions based on observed patterns, whereas abductive reasoning infers the most plausible explanation for a given set of observations. This contrast is crucial because it highlights how LLMs using abductive reasoning may generate outputs that are contextually plausible but not universally applicable.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
-> *Follow the flow from evidence to plausible explanation.*
->
-> ```mermaid
-> flowchart LR
->   A[Observations] --> B[Hypotheses]
->   B --> C[Evaluation]
->   C --> D[Plausible Explanation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Abductive vs Deductive Reasoning Comparison**
-> *Compare the paths from premises to conclusions.*
->
-> ```mermaid
-> graph TD
->   A[Premises] --> B[Deduction]
->   C[Evidence] --> D[Abduction]
->   B --> E[Conclusions]
->   D --> F[Hypotheses]
-> ```
-
-
-> [!abstract] **Diagram 3 — LLM Abductive Reasoning Mechanism**
-> *Trace the steps from evidence to ranked hypotheses.*
->
-> ```mermaid
-> flowchart LR
->   A[Observed Data] --> B[Hypothesis Generation]
->   B --> C[Evaluation Against Training Data]
->   C --> D[Ranking Hypotheses]
-> ```
 
 # Abductive Reasoning in Large Language Models
 

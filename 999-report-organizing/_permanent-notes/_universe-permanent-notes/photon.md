@@ -17,7 +17,7 @@ subdomains:
   - optics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - photon-synthetic-seed-2026-05-14
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Photon Wave-Particle Duality**
-> *Follow the arrows to see how photons exhibit both wave and particle behaviors.*
->
-> ```mermaid
-> graph TD
->   A[Wave Behavior] --> B[Double Slit]
->   C[Particle Behavior] --> D[Photoelectric Effect]
-> ```
-
-
-> [!abstract] **Diagram 2 — Photon Energy Transfer Process**
-> *Trace the path of energy transfer from photon absorption to electron excitation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Photon as P
->   participant Electron as E
->   participant Material as M
->   P->>M: Absorb Photon
->   M->>E: Excite Electron
-> ```
-
-
-> [!abstract] **Diagram 3 — Photon Quantum States**
-> *Identify the unique quantum properties of photons compared to other particles.*
->
-> ```mermaid
-> graph TD
->   A[Massless] --> B[Spin 1]
->   C[E=hf] --> D[C=SpeedOfLight]
-> ```
 
 # Photon
 

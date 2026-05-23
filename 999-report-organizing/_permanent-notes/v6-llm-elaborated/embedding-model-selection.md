@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,44 +156,6 @@ Empirical evidence underscores the importance of domain-adapted embeddings in sp
 > [!connection] **[[Chunking Strategies for RAG]]** — *applies-to*
 > Embedding model selection interacts closely with chunking strategies in RAG systems. The choice of embedding model can influence how effectively chunks are represented and retrieved, impacting overall system performance. For instance, embeddings optimized for shorter sequences may perform poorly on longer documents unless appropriate chunking is employed.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Embedding Model Selection Process**
-> *Follow the flow from model choice to retrieval efficiency.*
->
-> ```mermaid
-> flowchart LR
->   A[Choose Model] --> B[Evaluate Criteria]
->   B --> C[Test Performance]
->   C --> D[Benchmark]
->   D --> E[Select Model]
-> ```
-
-
-> [!abstract] **Diagram 2 — Symmetric vs Asymmetric Retrieval**
-> *Compare symmetric and asymmetric retrieval approaches.*
->
-> ```mermaid
-> graph TD
->   A[Symmetric] -->|Single Model| B[Query]
->   A -->|Single Model| C[Document]
->   D[Asymmetric] -->|Query Model| E[Query]
->   D -->|Doc Model| F[Document]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dimensionality vs Retrieval Cost Trade-off**
-> *Analyze the trade-off between embedding dimension and cost.*
->
-> ```mermaid
-> graph TD
->   A[Low Dimension] -->|Smaller Index Size| B[Lower Cost]
->   A -->|Less Nuance Capture| C[Reduced Performance]
->   D[High Dimension] -->|Larger Index Size| E[Higer Cost]
->   D -->|More Nuance Capture| F[Better Performance]
-> ```
 
 # Embedding Model Selection
 

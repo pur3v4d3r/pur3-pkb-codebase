@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-concept-synthetic-seed-2026-04-25
@@ -67,63 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Concept Hierarchical Structure**
-> *Follow the hierarchy from general to specific domains.*
->
-> ```mermaid
-> graph TD
->   A[General Self]
->   B1[Academic]
->   B2[Athletic]
->   C11[Beliefs]
->   C12[Attitudes]
->   C21[Perceptions]
->   A -->|Includes| B1
->   A -->|Includes| B2
->   B1 -->|Involves| C11
->   B1 -->|Involves| C12
->   B2 -->|Involves| C21
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Concept vs Self-Esteem Comparison**
-> *Compare the domain-specificity of self-concept with global evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Self-Concept]
->   B(Self-Esteem)
->   C1[Academic]
->   C2[Athletic]
->   D[Global Evaluation]
->   A -->|Domain-Specific| C1
->   A -->|Domain-Specific| C2
->   B -->|Global| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Concept Mechanism Flow**
-> *Trace the flow from challenge to behavior through domain-specific self-concept.*
->
-> ```mermaid
-> flowchart LR
->   A[Challenge]
->   B(Academic Self-Efficacy)
->   C(Behavior)
->   D(Emotional Response)
->   A -->|Activates| B
->   B -->|Influences| C
->   B -->|Influences| D
-> ```
 
 # Self-Concept
 

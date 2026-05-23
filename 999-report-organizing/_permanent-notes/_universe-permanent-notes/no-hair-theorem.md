@@ -18,7 +18,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - no-hair-theorem-synthetic-seed-2026-05-14
@@ -67,57 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — No Hair Theorem Parameters**
-> *Identify the three parameters that characterize a black hole.*
->
-> ```mermaid
-> graph TD
->   A[Mass]
->   B[Charge]
->   C[Angular Momentum]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 2 — No Hair Theorem Process Flow**
-> *Follow the process from gravitational collapse to black hole formation.*
->
-> ```mermaid
-> flowchart LR
->   A[Gravitational Collapse]
->   B[Ringdown Phase]
->   C[Stationary Black Hole]
->   A -->|Shedding of Hair| B
->   B -->|Settling into Simple State| C
-> ```
-
-
-> [!abstract] **Diagram 3 — No Hair Theorem Applications**
-> *See the practical applications in observational astronomy and theoretical modeling.*
->
-> ```mermaid
-> graph TD
->   A[Observational Astronomy]
->   B[Theoretical Modeling]
->   C[Information Paradox]
->   A -->|Simplifies Descriptions|
->   B -->|Provides Simplified Models|
->   C -->|Challenges Current Understanding|
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#f96,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
-> ```
 
 # No Hair Theorem
 

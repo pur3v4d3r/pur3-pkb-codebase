@@ -17,7 +17,7 @@ subdomains:
   - history-of-philosophy
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - analytic-synthetic-distinction-synthetic-seed-2026-05-12
@@ -64,37 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Analytic vs Synthetic Statements**
-> *Identify the truth determination method for each type of statement.*
->
-> ```mermaid
-> graph TD
->   A[Analytic]
->   B[Synthetic]
->   A -->|Definition-based Truth|
->   B -->|Empirical Verification|
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Processing Systems**
-> *Understand the cognitive processes involved in validating analytic and synthetic statements.*
->
-> ```mermaid
-> graph TD
->   A[System1]
->   B[System2]
->   A -->|Analytic Statements|
->   B -->|Synthetic Statements|
-> ```
 
 # Analytic Synthetic Distinction
 

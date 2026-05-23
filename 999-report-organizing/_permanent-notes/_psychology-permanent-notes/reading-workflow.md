@@ -18,7 +18,7 @@ subdomains:
   - knowledge-management
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - reading-workflow-synthetic-seed-2026-04-26
@@ -65,73 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reading Workflow Stages**
-> *Follow the stages from top to bottom.*
->
-> ```mermaid
-> graph TD
->   A[Initial Encounter]
->   B[Annotation]
->   C[Note Extraction]
->   D[Integration]
->   E[Reuse]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Distribution**
-> *Compare intrinsic and extraneous load across stages.*
->
-> ```mermaid
-> graph TD
->   A[Initial Encounter] --> B[Annotation]
->   B --> C[Note Extraction]
->   C --> D[Integration]
->   D --> E[Reuse]
->   subgraph Intrinsic Load
->     A
->     B
->     C
->     D
->     E
->   end
->   subgraph Extraneous Load
->     A -->|Low| B
->     B -->|Moderate| C
->     C -->|High| D
->     D -->|Very High| E
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Surface vs Deep Processing**
-> *Identify surface and deep processing techniques.*
->
-> ```mermaid
-> graph TD
->   A[Skimming] --> B[Rote Memorization]
->   C[Semantic Analysis] --> D[Elaborative Techniques]
->   subgraph Surface Processing
->     A
->     B
->   end
->   subgraph Deep Processing
->     C
->     D
->   end
-> ```
 
 # Reading Workflow
 

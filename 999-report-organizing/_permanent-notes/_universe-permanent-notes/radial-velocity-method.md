@@ -18,7 +18,7 @@ subdomains:
   - spectroscopy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - radial-velocity-method-synthetic-seed-2026-05-14
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Radial Velocity Process Flow**
-> *Follow the steps from star motion to planet detection.*
->
-> ```mermaid
-> flowchart LR
->   A[Star Motion] --> B[Spectral Shift]
->   B --> C[Doppler Effect Measurement]
->   C --> D[Periodic Variations]
->   D --> E[Orbital Period and Mass]
-> ```
-
-
-> [!abstract] **Diagram 2 — Radial Velocity Data Flow**
-> *Trace the data flow from observations to planetary mass.*
->
-> ```mermaid
-> flowchart LR
->   A[Observations] --> B[Spectral Analysis]
->   B --> C[Doppler Shift Calculation]
->   C --> D[Period Determination]
->   D --> E[M sin i Measurement]
-> ```
-
-
-> [!abstract] **Diagram 3 — Radial Velocity vs Transit Method**
-> *Compare radial velocity and transit methods for exoplanet detection.*
->
-> ```mermaid
-> graph TD
->   A[Radial Velocity] --> B[Detects Star Motion]
->   C[Transit Method] --> D[Detects Light Dimming]
->   E[Star Motion] --> F[M sin i Measurement]
->   G[Light Dimming] --> H[Radii Measurement]
-> ```
 
 # Radial Velocity Method
 

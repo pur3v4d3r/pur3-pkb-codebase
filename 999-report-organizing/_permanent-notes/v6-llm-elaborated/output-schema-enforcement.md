@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,49 +157,6 @@ Robust output schema enforcement requires a layered approach involving both mode
 > [!connection] **[[Grammar-Constrained Decoding]]** — *specializes*
 > Output Schema Enforcement specializes in Grammar-Constrained Decoding by providing a structured approach to guide and validate the generation of language model outputs. While Grammar-Constrained Decoding focuses on constraining the syntactic structure of generated text, Output Schema Enforcement extends this concept to ensure that the output conforms not only to grammatical rules but also to specific data schemas.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Output Schema Enforcement Process Flow**
-> *Follow the flow from input to final output validation.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Schema] --> B[Prompt Model]
->   B --> C[Generate Output]
->   C --> D[API Validation]
->   D --> E[Schema Validation]
->   E --> F[Retry/Correct]
->   F --> G[Fallback Mechanism]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism Layers in Enforcement**
-> *Identify the layers involved in enforcing output schemas.*
->
-> ```mermaid
-> graph TD
->   A[Model-Level Constraints] --> B(Application-Level Validations)
->   B --> C[Retry-with-Error Prompting]
->   C --> D[Fallback Handling]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Input Schema Validation**
-> *Compare the focus areas of output and input schema validation.*
->
-> ```mermaid
-> classDiagram
->   class OutputSchemaEnforcement{
->     +ValidateAndCorrectAfterGeneration()
->   }
->   class InputSchemaValidation{
->     +EnsureComplianceBeforeProcessing()
->   }
->   OutputSchemaEnforcement -->|Focus on| ValidateAndCorrectAfterGeneration()
->   InputSchemaValidation -->|Focus on| EnsureComplianceBeforeProcessing()
-> ```
 
 # Output Schema Enforcement
 

@@ -17,7 +17,7 @@ subdomains:
   - clinical-psychology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - secure-attachment-synthetic-seed-2026-05-01
@@ -66,47 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Secure Attachment Process Flow**
-> *Follow the flow from distress to calm and exploration.*
->
-> ```mermaid
-> flowchart LR
->   A[Distress] --> B[Seek Comfort]
->   B --> C[Rapid Calm]
->   C --> D[Resume Exploration]
-> ```
-
-
-> [!abstract] **Diagram 2 — Secure Attachment Mechanism Overview**
-> *Identify the key components and their interactions in secure attachment.*
->
-> ```mermaid
-> graph TD
->   A[Stress or Separation] --> B[Arousal]
->   B --> C[Attachment Figure]
->   C --> D[Calm]
->   D --> E[Exploration]
-> ```
-
-
-> [!abstract] **Diagram 3 — Secure Attachment Applications in Settings**
-> *See how secure attachment is applied across different environments.*
->
-> ```mermaid
-> graph TD
->   A[Parenting] --> B[Nurturing Environment]
->   C[Educational Settings] --> D[Supportive Classroom]
->   E[Therapy] --> F[Secure Base for Exploration]
-> ```
 
 # Secure Attachment
 

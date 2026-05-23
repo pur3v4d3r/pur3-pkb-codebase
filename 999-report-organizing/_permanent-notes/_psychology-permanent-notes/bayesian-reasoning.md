@@ -18,7 +18,7 @@ subdomains:
   - formal-epistemology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - bayesian-reasoning-synthetic-seed-2026-04-25
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Bayesian Updating Process**
-> *Follow the flow from prior to posterior probability.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Prior] --> B[Collect Evidence]
->   B --> C[Calculate Likelihood]
->   C --> D[Apply Bayes' Theorem]
->   D --> E[Posterior Probability]
-> ```
-
-
-> [!abstract] **Diagram 2 — Bayesian vs Frequentist Inference**
-> *Compare the two approaches to statistical inference.*
->
-> ```mermaid
-> graph TD
->   A[Frequentist] -->|Long-run frequencies| B[Focus]
->   C[Bayesian] -->|Subjective probabilities| D[Belief Update]
-> ```
-
-
-> [!abstract] **Diagram 3 — Bayesian Reasoning Mechanism**
-> *Trace the steps from prior to posterior probability.*
->
-> ```mermaid
-> flowchart LR
->   A[Prior Probability] --> B[Evidence Collection]
->   B --> C[Likelihood Calculation]
->   C --> D[Posterior Computation]
-> ```
 
 # Bayesian Reasoning
 

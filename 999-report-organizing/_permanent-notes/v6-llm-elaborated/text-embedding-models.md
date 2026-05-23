@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,44 +162,6 @@ The evolution of text embedding models reflects a broader trend in natural langu
 > [!connection] **[[Cosine Similarity Retrieval]]** — *applies-to*
 > Text embedding models are often used with cosine similarity retrieval because the geometric proximity of vectors in high-dimensional space effectively captures semantic similarity. This pairing is crucial for applications like information retrieval and recommendation systems where understanding user intent beyond surface keywords is essential.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Text Embedding Process Flow**
-> *Follow the flow from text input to dense vector output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Tokenization]
->   B --> C[Embedding Layer]
->   C --> D[Dense Vector]
-> ```
-
-
-> [!abstract] **Diagram 2 — Bi-Encoder vs Cross-Encoder Comparison**
-> *Compare the processing flow of bi-encoders and cross-encoders.*
->
-> ```mermaid
-> graph TD
->   A[Text1] --> B[Bi-Encoder]
->   C[Text2] --> D[Bi-Encoder]
->   E[Text Pair] --> F[Cross-Encoder]
-> ```
-
-
-> [!abstract] **Diagram 3 — Semantic Search Workflow**
-> *Trace the steps from query to document retrieval.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Query as Q
->   participant Index as I
->   participant Document as D
->   Q->>I: Map Query to Embedding
->   I->>D: Retrieve Similar Documents
->   D-->>Q: Return Relevant Results
-> ```
 
 # Text Embedding Models
 

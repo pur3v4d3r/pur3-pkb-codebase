@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,56 +159,6 @@ Studies comparing single-pass generation with a generate-then-verify approach ha
 > [!connection] **[[Logical Entailment Verification]]** — *contrasts-with*
 > Contradiction Detection in Outputs and Logical Entailment Verification both aim to ensure logical consistency, but they differ in their focus. While Contradiction Detection targets the identification of mutually exclusive claims within a text, Logical Entailment Verification focuses on determining whether one statement logically follows from another. This distinction highlights that ensuring coherence requires addressing both contradictions and entailments.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Contradiction Types Overview**
-> *Identify the different types of contradictions.*
->
-> ```mermaid
-> graph TD
->   A[Direct]
->   B[Partial]
->   C[Quantifier]
->   D[Temporal]
->   A -->|X is true; X is false|
->   B -->|X subset Y; Y subset X|
->   C -->|All X are Y; Some X not Y|
->   D -->|X before Y; Y before X
-> ```
-
-
-> [!abstract] **Diagram 2 — Contradiction Detection Pipeline**
-> *Understand the two-stage process for contradiction detection.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate]
->   B[Verify]
->   A -->|Text Generation|
->   B -->|Identify Contradictions|
->   B -->|Flag Incompatible Claims|
->   B -->|Correct Errors|
->   A --> B
-> ```
-
-
-> [!abstract] **Diagram 3 — Contradiction Detection Mechanism**
-> *See how contradictions are detected and corrected.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant LLM as L
->   participant ContradictionDetector as C
->   U->>L: Generate Text
->   L-->>U: Output
->   U->>C: Verify Output
->   C->>L: Identify Contradictions
->   L->>C: Flag Incompatible Claims
->   C->>U: Correct Errors
-> ```
 
 # Contradiction Detection in Outputs
 

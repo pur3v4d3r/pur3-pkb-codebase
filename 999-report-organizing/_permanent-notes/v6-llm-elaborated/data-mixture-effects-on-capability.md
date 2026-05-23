@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,44 +153,6 @@ Understanding Data Mixture Effects on Capability is crucial for advancing machin
 > [!connection] **[[Domain-Adaptive Pretraining]]** — *applies-to*
 > Data Mixture Effects on Capability and Domain-Adaptive Pretraining both aim to enhance model performance across diverse tasks. However, while Data Mixture focuses on the composition of training data to influence general capabilities, Domain-Adaptive Pretraining specifically targets adaptation to new domains through task-specific fine-tuning. Understanding how these approaches complement each other can lead to more robust and versatile models capable of handling a wide range of applications.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Data Source Impact on Capabilities**
-> *Follow the arrows to see how different data sources affect model capabilities.*
->
-> ```mermaid
-> graph TD
->   A[Web Text] --> B(Coding)
->   C[Mathematical Texts] --> D(Reasoning)
->   E[Books] --> F(Factual Recall)
->   G[Scientific Papers] --> H(Language Understanding)
->   I[Code] --> J(Logical Reasoning)
-> ```
-
-
-> [!abstract] **Diagram 2 — Data Mixture Effects Process Flow**
-> *Trace the flow to understand how varying data mixtures influence model performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B(Select Data Sources)
->   B --> C(Vary Proportions)
->   C --> D(Evaluate Performance)
->   D --> E(Optimize Mixture)
->   E --> F(End)
-> ```
-
-
-> [!abstract] **Diagram 3 — Direct vs Cross-Domain Capability Transfers**
-> *Compare direct-domain and cross-domain transfers to understand their distinct impacts.*
->
-> ```mermaid
-> graph TD
->   A[Direct Domain] --> B(Enhance Specific Skills)
->   C(Cross Domain) --> D(Improve General Reasoning)
-> ```
 
 # Data Mixture Effects on Capability
 

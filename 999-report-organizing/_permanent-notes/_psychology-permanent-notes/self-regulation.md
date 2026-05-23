@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-regulation-synthetic-seed-2026-04-24
@@ -65,67 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Regulation Cycle Overview**
-> *Follow the arrows to see how each phase feeds into the next.*
->
-> ```mermaid
-> graph TD
->   A[Forethought]
->   B[Performance Monitoring]
->   C[Self-Reflection]
->   A --> B
->   B --> C
->   C --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Regulation Mechanism Flow**
-> *Trace the flow from goal setting to evaluation and back.*
->
-> ```mermaid
-> flowchart LR
->   A[Goal Setting]
->   B[Planning Strategies]
->   C[Track Progress]
->   D[Evaluate Outcomes]
->   E[Adjust Future Actions]
->   A --> B
->   B -->|Monitor| C
->   C -->|Reflect| D
->   D --> E
->   E --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-Regulation in Context**
-> *Identify the interplay between cognitive, emotional, and motivational aspects.*
->
-> ```mermaid
-> graph TD
->   A[Forethought]
->   B[Performance Monitoring]
->   C[Self-Reflection]
->   D[Emotional Regulation]
->   E[Motivational States]
->   A -->|Goals & Planning| B
->   B -->|Progress Tracking| C
->   C -->|Evaluation & Adjustment| A
->   A -.-> D
->   B -.-> D
->   C -.-> D
->   A -.-> E
->   B -.-> E
->   C -.-> E
-> ```
 
 # Self-Regulation
 

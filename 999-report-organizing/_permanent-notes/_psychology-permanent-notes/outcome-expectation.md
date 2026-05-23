@@ -20,7 +20,7 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-efficacy-theory-foundational-report-2026-04-20
@@ -68,61 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Outcome Expectation Process Flow**
-> *Follow the flow from behavior to outcome evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Behavior] --> B[Evaluate]
->   B --> C[Anticipated Outcome]
->   C --> D[Align with Goals?]
->   D -->|Yes| E[Engage Behavior]
->   D -->|No| F[Avoid Behavior]
-> ```
-
-
-> [!abstract] **Diagram 2 — Outcome vs. Efficacy Expectations**
-> *Compare outcome expectations with efficacy expectations.*
->
-> ```mermaid
-> graph TD
->   A[Outcome Expectation]
->   B[Efficacy Expectation]
->   A -->|Belief in Outcome| C[Behavior]
->   B -->|Confidence in Ability| D[Performance]
->   E[Positive Outcomes] --> F[Success]
->   G[Negative Outcomes] --> H[Failure]
-> ```
-
-
-> [!abstract] **Diagram 3 — Outcome Expectation Mechanism**
-> *Trace the cognitive process from behavior to outcome.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Behavior as B
->   participant OutcomeEvaluation as O
->   participant AnticipatedOutcome as A
->   participant GoalAlignment as G
->   participant DecisionMaking as D
->   B->>O: Perform Action
->   O->>A: Evaluate Outcomes
->   A->>G: Align with Goals?
->   alt Yes
->     G->>D: Engage Behavior
->   else No
->     G->>D: Avoid Behavior
->   end
-> ```
 
 # Outcome Expectation
 

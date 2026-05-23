@@ -20,7 +20,7 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - chunking-and-expertise-development-foundational-report-2026-04-20
@@ -67,69 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Chunking Process Overview**
-> *Follow the flow from novice to expert chunk formation.*
->
-> ```mermaid
-> graph TD
->   A[Novice]
->   B[Novel Information]
->   C[Repeated Practice]
->   D[Integration of Chunks]
->   E[Automatic Sequences]
->   F[Expert]
->   A -->|Struggle with Novel Information| B
->   B -->|Through Repeated Practice| C
->   C -->|Integration into Chunks| D
->   D -->|Forming Automatic Sequences| E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Systematic Challenges in Teaching**
-> *Identify the flow from expert's automaticity to novice's confusion.*
->
-> ```mermaid
-> flowchart LR
->   A[Expert]
->   B[Automatic Chunks]
->   C[Novice]
->   D[Confusion with Steps]
->   E[Poor Teaching Materials]
->   F[Ineffective Instruction]
->   A -->|Automatic Chunks| B
->   B -->|Unconscious Processing| C
->   C -->|Struggle to Understand Steps| D
->   D -->|Resulting in| E
->   E -->|Poorly Designed| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Dual-Process Theory Overview**
-> *Compare System 1 and System 2 cognitive processes.*
->
-> ```mermaid
-> graph TD
->   A[System 1]
->   B[Fast, Unconscious Processing]
->   C[System 2]
->   D[Slow, Conscious Reasoning]
->   E[Novice]
->   F[Expert]
->   A -->|Characterizes Novices| B
->   C -->|Characterizes Experts| D
->   E -->|Uses System 2| C
->   F -->|Relies on System 1| A
-> ```
 
 # Expert Blind Spot
 

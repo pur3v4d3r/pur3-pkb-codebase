@@ -19,7 +19,7 @@ subdomains:
   - meta-learning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - evolutionary-prompt-optimization-synthetic-seed-2026-05-20
@@ -66,81 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Evolutionary Cycle Overview**
-> *Follow the flow from initial population to optimal prompt.*
->
-> ```mermaid
-> graph TD
->   A[Initial Population]
->   B[Evaluation]
->   C[Selection]
->   D[Crossover]
->   E[Mutation]
->   F[New Generation]
->   G[Optimal Prompt]
->   A --> B
->   B -->|Promising Candidates| C
->   C --> D
->   D --> E
->   E --> F
->   F --> A
->   F -->|Convergence| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Population Diversity in EvoPrompt**
-> *Observe how diversity is maintained through mutation and crossover.*
->
-> ```mermaid
-> graph TD
->   A[Initial Population]
->   B[Mutation]
->   C[Crossover]
->   D[Diverse Offspring]
->   E[New Generation]
->   F[Population Diversity]
->   A -->|Diversity| F
->   F --> B
->   F --> C
->   B --> D
->   C --> D
->   D --> E
->   E -->|Maintained Diversity| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Other Methods**
-> *Compare EvoPrompt's population-based approach to single-path methods.*
->
-> ```mermaid
-> graph TD
->   A[Evolutionary Prompt Optimization]
->   B[Population-Based]
->   C[Diverse Solutions]
->   D[Evasion of Local Optima]
->   E[Gradient-Based Methods]
->   F[Single-Path]
->   G[Local Optima Traps]
->   H[Hill-Climbing]
->   I[Single-Path]
->   J[Local Optima Traps]
->   A --> B
->   A --> C
->   A --> D
->   E -->|Continuous Parameter Space| F
->   E -->|Gradient Descent| G
->   H -->|Greedy Approach| I
->   H -->|Stuck in Local Optima| J
-> ```
 
 # Evolutionary Prompt Optimization
 

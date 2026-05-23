@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -178,59 +174,6 @@ By integrating multiple sanitisation techniques, organizations can create a laye
 > [!connection] **[[LLM Firewall Patterns]]** — *supports*
 > Input sanitisation supports LLM firewall patterns by providing a first line of defense against harmful inputs. By neutralizing threats early, it complements other security measures like output filtering and context isolation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Input Sanitisation Techniques Overview**
-> *Identify the different sanitisation techniques and their goals.*
->
-> ```mermaid
-> graph TD
->   A[Content-Based Filtering]
->   B[Structured Delimiters]
->   C[Context Isolation]
->   D[Input-Output Monitoring]
->   A -->|Detect known patterns| E[Neutralise Adversarial Instructions]
->   B -->|Wrap untrusted content| F[Prevent processing as regular input]
->   C -->|Process suspicious inputs separately| G[Avoid affecting main context]
->   D -->|Monitor for threats| H[Mitigate potential damage]
-> ```
-
-
-> [!abstract] **Diagram 2 — Input Sanitisation Mechanism Flow**
-> *Follow the flow of input sanitisation from detection to neutralisation.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input]
->   B[Content-Based Filtering]
->   C[Structured Delimiters]
->   D[Context Isolation]
->   E[Input-Output Monitoring]
->   F[Safe Output]
->   A -->|Scanned for patterns| B
->   B -->|Wrapped with delimiters| C
->   C -->|Processed in isolation| D
->   D -->|Monitored for threats| E
->   E -->|Ensures safety| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison of Input vs Output Filtering**
-> *Compare the proactive and reactive approaches to LLM security.*
->
-> ```mermaid
-> classDiagram
->   class InputSanitisation {
->     +detectAndNeutralise()
->   }
->   class OutputFiltering {
->     +monitorResponses()
->   }
->   InputSanitisation -->|Proactive Prevention| NeutraliseAdversarialInstructions
->   OutputFiltering -->|Reactive Mitigation| DetectPotentialThreats
-> ```
 
 # Defense via Input Sanitisation
 

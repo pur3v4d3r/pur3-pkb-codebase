@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,56 +152,6 @@ Empirical studies have shown that even prompts considered 'equivalent' often dif
 > [!connection] **[[Paraphrase Invariance Testing]]** — *applies-to*
 > Semantic equivalence testing is crucial for paraphrase invariance, as it ensures that different ways of expressing the same task yield consistent model outputs. This connection underscores the importance of rigorous evaluation methods to assess and improve model robustness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Semantic Equivalence Dimensions**
-> *Identify dimensions of variation in prompt design.*
->
-> ```mermaid
-> graph TD
->   A[Semantic Content]
->   B[Syntactic Structure]
->   C[Surface Form]
->   D[Discourse Organization]
->   E[Pragmatic Implicature]
->   A -->|Influences| F[Output Consistency]
->   B -->|Influences| F
->   C -->|Influences| F
->   D -->|Influences| F
->   E -->|Influences| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic vs Syntactic Variations**
-> *Distinguish between semantic and syntactic variations.*
->
-> ```mermaid
-> graph TD
->   A[Semantic Variation]
->   B[Syntactic Variation]
->   C[Genuine Task Alteration]
->   D[No Task Alteration]
->   A -->|Genuine Task Alteration| C
->   B -->|No Task Alteration| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Evaluation Process**
-> *Understand the process of evaluating semantic equivalence.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Tester as T
->   U->>M: Semantically Equivalent Prompt A
->   M-->>T: Output A
->   U->>M: Semantically Equivalent Prompt B
->   M-->>T: Output B
->   T->>U: Compare Outputs for Consistency
-> ```
 
 # Semantic Equivalence in Prompts
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,49 +167,6 @@ Continuous batching has been shown to achieve substantially higher throughput th
 > [!connection] **[[Latency-Aware Prompt Design]]** — *contrasts-with*
 > While Latency-Aware Prompt Design focuses on crafting prompts that minimize latency by reducing computational load, Prompt Batching Patterns address the efficiency of processing multiple requests simultaneously. This contrast underscores how different strategies can be employed to optimize LLM performance from both prompt design and inference management perspectives.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Static vs Dynamic Batching Overview**
-> *Compare static and dynamic batching strategies.*
->
-> ```mermaid
-> graph TD
->   A[Static]
->   B[Dynamic]
->   A -->|Fixed-size batches|
->   B -->|Adaptive grouping|
-> ```
-
-
-> [!abstract] **Diagram 2 — Continuous Batching Process Flow**
-> *Follow the flow of continuous batching from decode to new request insertion.*
->
-> ```mermaid
-> flowchart LR
->   A[Decode Completion]
->   B[Freed Slot]
->   C[New Request Insertion]
->   A -->|Frees slot|
->   B
->   B -->|Inserts new request|
->   C
-> ```
-
-
-> [!abstract] **Diagram 3 — Batching Strategies Comparison**
-> *Compare throughput and latency of different batching strategies.*
->
-> ```mermaid
-> graph TD
->   A[Static]
->   B[Dynamic]
->   C[Continuous]
->   A -->|High Latency|
->   B -->|Variable Latency|
->   C -->|Low Latency|
-> ```
 
 # Prompt Batching Patterns
 

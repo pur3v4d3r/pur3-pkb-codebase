@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -70,53 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — SDT Needs Hierarchy**
-> *Identify the three core needs of SDT and their interrelation.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy] --> B[Intrinsic Motivation]
->   C[Competence] --> B
->   D[Relatedness] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Relatedness**
-> *Understand how mutual warmth and care contribute to relatedness.*
->
-> ```mermaid
-> flowchart LR
->   A[Authentic Interaction] --> B[Mutual Warmth]
->   B --> C[Genuine Care]
->   C --> D[Sense of Connection]
-> ```
-
-
-> [!abstract] **Diagram 3 — Relatedness vs Autonomy**
-> *Compare the focus areas of relatedness and autonomy in SDT.*
->
-> ```mermaid
-> classDiagram
->   class Relatedness{
->     +Feel Connected
->     +Cared For By Others
->   }
->   class Autonomy{
->     +Personal Control
->     +Self-Determination
->   }
->   Relatedness -->|Feeling Supported| IntrinsicMotivation
->   Autonomy -->|Taking Initiative| IntrinsicMotivation
-> ```
 
 # Relatedness
 

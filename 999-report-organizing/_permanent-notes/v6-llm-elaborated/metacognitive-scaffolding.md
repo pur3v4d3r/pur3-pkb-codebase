@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - metacognitive-scaffolding-synthetic-seed-2026-05-20
@@ -65,52 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Metacognitive Scaffolding Process Flow**
-> *Follow the flow from initial prompt to self-monitoring and output.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B(Self-Monitoring Checkpoint)
->   B --> C[Evaluation]
->   C --> D[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Metacognitive Scaffolding vs Performative Metacognition**
-> *Compare genuine reasoning revision with performative self-monitoring.*
->
-> ```mermaid
-> graph TD
->   A[Initial Prompt]
->   B{Genuine Reasoning Revision}
->   C{Performative Metacognition}
->   A -->|Self-Monitoring Checkpoint| B
->   A -->|Expected Phrases Only| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Metacognitive Scaffolding in Content Generation**
-> *Identify key checkpoints for self-monitoring and reflection.*
->
-> ```mermaid
-> flowchart LR
->   A[Start]
->   B{Pause and Reconsider}
->   C[Significant Claim]
->   D[Conclusion]
->   A -->|Generate Initial Text| C
->   C -->|Before Concluding| B
->   B -->|Re-evaluate Logic| D
-> ```
 
 # Metacognitive Scaffolding
 

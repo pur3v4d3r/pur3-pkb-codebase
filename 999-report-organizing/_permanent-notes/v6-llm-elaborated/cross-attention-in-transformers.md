@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -151,47 +147,6 @@ Cross-attention in transformers is a cornerstone for achieving high-quality alig
 > [!connection] **[[Self-Attention Mechanisms]]** — *contrasts-with*
 > Cross-attention contrasts with self-attention by focusing on inter-sequence alignment rather than intra-sequence relationships. This distinction is pivotal as it enables cross-attention to capture the nuanced semantic and structural correspondences between source and target sequences, which are essential for tasks like translation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Cross-Attention Flowchart**
-> *Follow the flow from Decoder Query to Encoder Key/Value*
->
-> ```mermaid
-> flowchart LR
->   A[Decoder Query] --> B[Encoder Keys]
->   A --> C[Encoder Values]
->   B --> D[Alignment Scores]
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Cross-Attention in Encoder-Decoder**
-> *Observe the interaction between Decoder and Encoder sequences*
->
-> ```mermaid
-> graph TD
->   A[Encoder Sequence] --> B(Cross-Attention)
->   C[Decoder Query] -->|Keys/Values| B
->   B --> D(Aligned Output)
-> ```
-
-
-> [!abstract] **Diagram 3 — Cross-Attention vs Self-Attention**
-> *Compare the mechanisms of Cross-Attention and Self-Attention*
->
-> ```mermaid
-> sequenceDiagram
->   participant Decoder as Dec
->   participant Encoder as Enc
->   participant SelfAtt as S
->   participant CrossAtt as C
->   Dec->>Enc: Query for Keys/Values
->   Enc-->>Dec: Keys/Values
->   Dec->>C: Alignment Scores
->   Dec->>S: Intra-Sequence Attention
-> ```
 
 # Cross-Attention in Transformers
 

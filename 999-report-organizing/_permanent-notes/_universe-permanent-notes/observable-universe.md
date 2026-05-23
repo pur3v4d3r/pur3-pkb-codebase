@@ -16,7 +16,7 @@ subdomains:
   - observational-cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - observable-universe-synthetic-seed-2026-05-14
@@ -63,47 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Observable Universe Radius Expansion**
-> *Follow the timeline to see how radius increases over time.*
->
-> ```mermaid
-> graph TD
->   A[Big Bang] --> B[Recombination]
->   B --> C[380k Years]
->   C --> D[13.8B LY]
->   D --> E[46.5B LY]
-> ```
-
-
-> [!abstract] **Diagram 2 — Observable Universe vs Particle Horizon**
-> *Compare the boundaries of Observable and Particle Horizons.*
->
-> ```mermaid
-> graph TD
->   A[Particle Horizon] --> B[Observable Universe]
->   A --> C[Light Travel Time]
->   B --> D[Causal Contact]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comoving Distance Concept**
-> *Trace the relationship between comoving distance and expansion.*
->
-> ```mermaid
-> graph TD
->   A[Initial Position] --> B[Expansion]
->   B --> C[Comoving Distance]
->   C --> D[Constant Over Time]
-> ```
 
 # Observable Universe
 

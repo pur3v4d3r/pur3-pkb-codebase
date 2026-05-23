@@ -18,7 +18,7 @@ subdomains:
   - ethics-of-belief
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemic-luck-synthetic-seed-2026-04-26
@@ -66,59 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemic Luck Mechanism**
-> *Follow the flow from belief to truth via chance.*
->
-> ```mermaid
-> graph TD
->   A[Belief]
->   B[Chance Event]
->   C[Truth]
->   A -->|Due to| B
->   B -->|Results in| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Veritic vs Benign Luck**
-> *Compare veritic luck with benign luck and their impact on knowledge.*
->
-> ```mermaid
-> graph TD
->   A[Veritic Luck]
->   B[Benign Luck]
->   C[Undermines Knowledge]
->   D[Does Not Undermine]
->   A -->|Can Lead To False Beliefs| C
->   B -->|No Impact On Truth| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Safety Condition Flowchart**
-> *Trace the safety condition's role in ruling out veritic luck.*
->
-> ```mermaid
-> flowchart LR
->   A[Known Belief]
->   B[Could Easily Be False]
->   C[Nearby Possible Worlds]
->   D[Safety Condition]
->   E[Rules Out Veritic Luck]
->   F[Preserves Benign Luck]
->   A -->|In Nearby Worlds| B
->   B -->|If True| C
->   C -->|Then Apply| D
->   D -->|Ensures| E
->   D -->|Allows| F
-> ```
 
 # Epistemic Luck
 

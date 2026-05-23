@@ -20,7 +20,7 @@ subdomains:
   - meta-epistemology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - internalism-vs-externalism-epistemology-synthetic-seed-2026-05-12
@@ -67,57 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Internalism vs Externalism Core Concepts**
-> *Compare the key aspects of internalist and externalist views.*
->
-> ```mermaid
-> graph TD
->   A[Reflective Access]
->   B[Reliable Connection]
->   C[Introspective Verification]
->   D[Truth-Conduciveness]
->   E[Internalism] -->|Emphasizes| A & C
->   F[Externalism] -->|Focuses on| B & D
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective Equilibrium vs Truth-Conduciveness**
-> *Understand the contrast between internalist and externalist approaches to justification.*
->
-> ```mermaid
-> graph TD
->   A[Reflective Equilibrium]
->   B[Truth-Conduciveness]
->   C[Introspective Verification] -->|Internalism|
->   D[Reliable Processes] -->|Externalism|
->   A -->|Aligns with| C
->   B -->|Supports| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Justification Factors in Internalism and Externalism**
-> *Identify the factors that justify beliefs from both perspectives.*
->
-> ```mermaid
-> graph TD
->   A[Internalist Justification]
->   B[Externalist Justification]
->   C[Introspection] -->|Internalism|
->   D[Causal Reliability] -->|Externalism|
->   E[Reflective Access] -->|Internalism|
->   F[Truth-Conduciveness] -->|Externalism|
->   A -->|Includes| C & E
->   B -->|Depends on| D & F
-> ```
 
 # Internalism vs Externalism Epistemology
 

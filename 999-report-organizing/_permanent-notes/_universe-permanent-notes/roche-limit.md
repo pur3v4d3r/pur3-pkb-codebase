@@ -18,7 +18,7 @@ subdomains:
   - planetary-dynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - roche-limit-synthetic-seed-2026-05-14
@@ -65,47 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Roche Limit Formula Overview**
-> *Identify the variables and constants used in the Roche Limit formula.*
->
-> ```mermaid
-> graph TD
->   A["R_Roche"] --> B("≈")
->   C[2.44] --> D(R_primary)
->   E[(ρ_primary/ρ_satellite)^(1/3)]
-> ```
-
-
-> [!abstract] **Diagram 2 — Roche Limit in Planetary Systems**
-> *Observe the relationship between a planet and its satellite within the Roche limit.*
->
-> ```mermaid
-> flowchart LR
->   A[Planet] -->|Tidal Forces| B(Satellite)
->   C[Roche Limit] --> D[Disruption]
->   E[Outside RL] --> F[Intact]
-> ```
-
-
-> [!abstract] **Diagram 3 — Fluid vs Rigid Body Roche Limits**
-> *Compare the Roche limits for fluid and rigid bodies.*
->
-> ```mermaid
-> graph TD
->   A["Fluid Body"] --> B(Roche Limit)
->   C["Rigid Body"] --> D(Roche Limit)
->   E[Greater Distance] --> F[Susceptibility]
->   G[Less Susceptible] --> H[Near Primary]
-> ```
 
 # Roche Limit
 

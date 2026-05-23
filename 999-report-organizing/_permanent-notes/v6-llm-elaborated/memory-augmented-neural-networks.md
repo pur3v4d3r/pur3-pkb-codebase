@@ -21,7 +21,7 @@ subdomains:
   - neural-networks
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - memory-augmented-neural-networks-synthetic-seed-2026-05-20
@@ -69,46 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — MANN Architecture Overview**
-> *Follow the flow from neural computation to memory interaction.*
->
-> ```mermaid
-> graph TD
->   A[Neural Computation] --> B[Memory Interaction]
->   B --> C[Data Manipulation]
->   C --> D[Task Execution]
-> ```
-
-
-> [!abstract] **Diagram 2 — MANN vs Transformer Memory Mechanisms**
-> *Compare explicit memory in MANNs with implicit self-attention in transformers.*
->
-> ```mermaid
-> graph TD
->   A[MANN] --> B[Explicit Memory]
->   C[Transformer] --> D[Self-Attention]
->   E[Fixed Context Window] -.-> D
-> ```
-
-
-> [!abstract] **Diagram 3 — MANN Workflow Process Flow**
-> *Trace the data flow from input to output through memory operations.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Data] --> B[Neural Computation]
->   B --> C[Memory Read/Write]
->   C --> D[Output Data]
-> ```
 
 # Memory-Augmented Neural Networks
 

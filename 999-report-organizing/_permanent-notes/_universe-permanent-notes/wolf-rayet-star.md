@@ -18,7 +18,7 @@ subdomains:
   - massive-stars
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - wolf-rayet-star-synthetic-seed-2026-05-14
@@ -66,66 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Wolf Rayet Star Evolutionary Path**
-> *Follow the path from main sequence to WR star.*
->
-> ```mermaid
-> graph TD
->   A[Main Sequence]
->   B[H-Envelope Loss]
->   C[Wolf-Rayet Phase]
->   D[Supernova]
->   A -->|Hydrogen Burning| B
->   B -->|Stellar Winds| C
->   C -->|Core Collapse| D
-> ```
-
-
-> [!abstract] **Diagram 2 — WR Star Types and Layers**
-> *Identify the exposed layers for WN and WC types.*
->
-> ```mermaid
-> graph TD
->   A[WN Type]
->   B[Wolf-Rayet Phase]
->   C[Helium-Burning Layer]
->   D[WC Type]
->   E[Carbon-Oxygen Core]
->   B -->|Exposes| A
->   B -->|Exposes| D
->   A -->|Layer| C
->   D -->|Core| E
-> ```
-
-
-> [!abstract] **Diagram 3 — WR Star Wind Mechanism**
-> *Trace the mass loss process driven by radiation pressure.*
->
-> ```mermaid
-> flowchart LR
->   A[Atmosphere]
->   B[Radiation Pressure]
->   C[Metal Lines]
->   D[Intense Winds]
->   E[Mass Loss]
->   F[H-Envelope Removal]
->   G[Exposed Layers]
->   A -->|Contains| C
->   C -->|Drives| B
->   B -->|Generates| D
->   D -->|Produces| E
->   E -->|Strips| F
->   F -->|Reveals| G
-> ```
 
 # Wolf Rayet Star
 

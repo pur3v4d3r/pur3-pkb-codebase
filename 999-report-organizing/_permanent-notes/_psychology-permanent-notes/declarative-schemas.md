@@ -17,7 +17,7 @@ subdomains:
   - knowledge-representation
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - declarative-schemas-synthetic-seed-2026-04-24
@@ -66,51 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Declarative Schema Structure**
-> *Identify the interconnected concepts within a schema.*
->
-> ```mermaid
-> graph TD
->   A[Definitions] --> B[Concepts]
->   C[Hierarchies] --> D[Networks]
->   E[Frames] --> F[Interconnections]
-> ```
-
-
-> [!abstract] **Diagram 2 — Schema Formation Process**
-> *Follow the steps from initial exposure to schema consolidation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Exposure] --> B[Categorization]
->   C[Interconnections] --> D[Network Strengthening]
->   E[Repeated Exposure] --> F[Memory Consolidation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Declarative vs Procedural Schemas**
-> *Compare the focus of declarative and procedural schemas.*
->
-> ```mermaid
-> classDiagram
->   class DeclarativeSchemas{
->     +What: Knowledge Representation
->     +How: Not Applicable
->   }
->   class ProceduralSchemas{
->     +What: Not Applicable
->     +How: Task Performance
->   }
-> ```
 
 # Declarative Schemas
 

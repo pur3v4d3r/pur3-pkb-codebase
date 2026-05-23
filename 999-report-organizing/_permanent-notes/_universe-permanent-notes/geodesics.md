@@ -17,7 +17,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - geodesics-synthetic-seed-2026-05-14
@@ -64,48 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Geodesics vs Trajectories**
-> *Compare geodesic paths with those influenced by non-gravitational forces.*
->
-> ```mermaid
-> graph TD
->   A[Geodesics]
->   B[Trajectories Influenced By Non-Gravitational Forces]
->   A -->|Curvature Only| C[Shortest Path]
->   B -->|External Forces| D[Different Paths]
-> ```
-
-
-> [!abstract] **Diagram 2 — Timelike vs Spacelike Geodesics**
-> *Identify the differences between timelike and spacelike geodesics.*
->
-> ```mermaid
-> graph TD
->   A[Timelike]
->   B[Spacelike]
->   A -->|Massive Particles| C[Curvature Due To Gravity]
->   B -->|Faster-Than-Light Travel| D[Hypothetical Scenarios]
-> ```
-
-
-> [!abstract] **Diagram 3 — Geodesics in Curved Spacetime**
-> *Visualize how geodesics represent shortest paths in curved space-time.*
->
-> ```mermaid
-> flowchart LR
->   A[Start Point] --> B[Curvature]
->   B --> C[Shortest Path]
->   C --> D[End Point]
-> ```
 
 # Geodesics
 

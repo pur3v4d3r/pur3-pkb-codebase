@@ -18,7 +18,7 @@ subdomains:
   - decision-science
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hedonic-adaptation-synthetic-seed-2026-04-26
@@ -67,48 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hedonic Adaptation Process Flow**
-> *Follow the flow from initial change to stable happiness level.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Change] --> B[Emotional Response]
->   B --> C[Happiness Spike/Fall]
->   C --> D[Adjustment Period]
->   D --> E[New Baseline Happiness]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hedonic Adaptation Mechanism Overview**
-> *Trace the steps from event to emotional set point adjustment.*
->
-> ```mermaid
-> graph TD
->   A[Event Occurs] --> B[Circumstances Change]
->   B --> C[Emotional Set Point Comparison]
->   C --> D[Happiness Level Adjusts]
->   D --> E[Return to Stable Happiness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hedonic Adaptation in Chronic Stress**
-> *Observe the gradual adjustment process under chronic stress.*
->
-> ```mermaid
-> flowchart LR
->   A[Chronic Stressor] --> B[Prolonged Discomfort]
->   B --> C[Gradual Adjustment Period]
->   C --> D[Maintained Baseline Happiness]
-> ```
 
 # Hedonic Adaptation
 

@@ -18,7 +18,7 @@ subdomains:
   - orbital-mechanics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lagrange-points-synthetic-seed-2026-05-14
@@ -65,77 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lagrange Points Overview**
-> *Identify the positions of L1, L2, L3, L4, and L5 relative to two larger bodies.*
->
-> ```mermaid
-> graph TD
->   A[Primary Body]
->   B[Secondary Body]
->   C[L1]
->   D[L2]
->   E[L3]
->   F[L4]
->   G[L5]
->   A -->|Gravitational Pull| C
->   A -->|Gravitational Pull| E
->   B -->|Gravitational Pull| C
->   B -->|Gravitational Pull| D
->   B -->|Gravitational Pull| E
->   F -- Equilateral Triangle -- A
->   G -- Equilateral Triangle -- B
-> ```
-
-
-> [!abstract] **Diagram 2 — Stability of Lagrange Points**
-> *Distinguish between stable and unstable points based on their equilibrium characteristics.*
->
-> ```mermaid
-> graph TD
->   A[L1]
->   B[L2]
->   C[L3]
->   D[L4]
->   E[L5]
->   A -->|Unstable|
->   B -->|Unstable|
->   C -->|Unstable|
->   D -->|Stable|
->   E -->|Stable|
-> ```
-
-
-> [!abstract] **Diagram 3 — Space Mission Utilization**
-> *See how different Lagrange Points are utilized for various space missions.*
->
-> ```mermaid
-> graph TD
->   A[SOHO]
->   B[DSCOVR]
->   C[JWST]
->   D[Euclid]
->   E[Gaia]
->   F[L1]
->   G[L2]
->   H[Solar Monitoring]
->   I[Astronomy Observatories]
->   A -->|Sun-Earth L1|
->   B -->|Sun-Earth L1|
->   C -->|Sun-Earth L2|
->   D -->|Sun-Earth L2|
->   E -->|Sun-Earth L2|
->   F --> H
->   G --> I
-> ```
 
 # Lagrange Points
 

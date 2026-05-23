@@ -18,7 +18,7 @@ subdomains:
   - training-design
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - addie-model-synthetic-seed-2026-04-25
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — ADDIE Phases Overview**
-> *Follow the sequence from Analysis to Evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Analysis] --> B[Design]
->   B --> C[Development]
->   C --> D[Implementation]
->   D --> E[Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 2 — ADDIE Iterative Process**
-> *Notice the feedback loops from Evaluation to earlier phases.*
->
-> ```mermaid
-> flowchart LR
->   A[Analysis] --> B[Design]
->   B --> C[Development]
->   C --> D[Implementation]
->   D --> E[Evaluation]
->   E --> F[Feedback Loop]
->   F -->|Adjustments| A
-> ```
-
-
-> [!abstract] **Diagram 3 — ADDIE Evaluation Types**
-> *Identify formative and summative evaluation points.*
->
-> ```mermaid
-> graph TD
->   A[Implementation] --> B[Formative]
->   B --> C[Evaluation]
->   C --> D[Summative]
-> ```
 
 # ADDIE Model
 

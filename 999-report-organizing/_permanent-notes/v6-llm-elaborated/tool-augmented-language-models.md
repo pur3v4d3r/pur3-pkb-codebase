@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,32 +169,6 @@ The evolution of tool-augmented language models represents a paradigm shift in A
 > [!connection] **[[Function Calling Models]]** — *instance-of*
 > Tool-augmented language models are a specific instance of function calling models. The core mechanism in both involves invoking external functions or tools, but tool-augmented models go further by integrating these calls into their reasoning process to perform complex tasks. This specialization allows for more dynamic and context-aware interactions compared to simpler function calling approaches.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Tool-Augmented Language Model Process Flow**
-> *Follow the flow from task identification to tool invocation and back into text generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Identification] --> B[External Information Needed]
->   B --> C[Invoke Tool]
->   C --> D[Integrate Output]
->   D --> E[Text Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tool-Augmented Language Model Mechanism Overview**
-> *Trace the steps from task recognition to tool integration and final output.*
->
-> ```mermaid
-> graph TD
->   A(Task Recognition) --> B(Formulate Request)
->   B --> C(INVOKE Tool)
->   C --> D(Integrate Output)
->   D --> E(Generate Text)
-> ```
 
 # Tool-Augmented Language Models
 

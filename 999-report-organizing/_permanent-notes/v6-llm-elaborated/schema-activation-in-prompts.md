@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,39 +166,6 @@ The effectiveness of schema activation in prompts is supported by its ability to
 > [!connection] **[[Schema Theory]]** — *instance-of*
 > Schema activation in prompts is an instance of schema theory applied within the context of language model engineering. It leverages the cognitive principle that prior knowledge is organized into structured schemas, which can be activated by contextual cues to influence subsequent processing and output generation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Schema Activation Process Flow**
-> *Follow the flow from contextual cues to schema activation.*
->
-> ```mermaid
-> flowchart LR
->   A[Contextual Cues] --> B[Match Schema]
->   B --> C[Activate Schema]
->   C --> D[Enhanced Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Schema Activation vs General Priming**
-> *Compare the focus of schema activation and general priming techniques.*
->
-> ```mermaid
-> graph TD
->   A[Schema Activation] -->|Structured Mental Schemas| B[Specific Knowledge]
->   C[General Priming] -->|Broader Cognitive Processes| D[Broad Influence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Role Prompts vs Few-shot Examples**
-> *Understand the difference between role prompts and few-shot examples.*
->
-> ```mermaid
-> graph TD
->   A[Role Prompts] -->|Frame Tasks as Expert Role| B[Activate Schema]
->   C[Few-shot Examples] -->|Provide Concrete Instances| D[Prime for Similar Outputs]
-> ```
 
 # Schema Activation in Prompts
 

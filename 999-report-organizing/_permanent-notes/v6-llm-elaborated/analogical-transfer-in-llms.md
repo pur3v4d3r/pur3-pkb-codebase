@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,49 +151,6 @@ Empirical studies have shown that while LLMs excel at solving problems presented
 > [!connection] **[[Inductive Reasoning in LLMs]]** — *related*
 > Analogical transfer and inductive reasoning both involve the application of learned patterns to new situations. However, while analogical transfer specifically relies on structural similarities between domains, inductive reasoning focuses more broadly on inferring general rules from specific instances. Understanding how these processes interact can provide insights into enhancing LLMs' problem-solving capabilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Analogical Transfer Process Flow**
-> *Follow the flow from source to target problem solving.*
->
-> ```mermaid
-> flowchart LR
->   A[Source Domain] --> B[Solution]
->   C[Target Problem] --> D[Unknown Solution]
->   B --> E[Surface-Level Features]
->   E --> F[Analogical Transfer]
->   F --> G[Solution Adaptation]
->   G --> H[Problem Solved]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reasoning Types Comparison**
-> *Compare surface-level and deep structural reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Surface-Level Reasoning] --> B[Limited]
->   C[Deep Structural Reasoning] --> D[Robust]
->   E[LLMs] --> F[Surface-Level]
->   G[Humans] --> H[Deep Structural]
-> ```
-
-
-> [!abstract] **Diagram 3 — Analogical Transfer Mechanism**
-> *Trace the steps from retrieval to solution adaptation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant SourceDomain as S
->   participant TargetProblem as T
->   participant SolutionAdaptation as A
->   S->>T: Recognize Structural Similarity
->   T->>A: Retrieve Known Solution
->   A->>S: Adapt Solution for New Context
->   A-->>T: Apply Adapted Solution
-> ```
 
 # Analogical Transfer in LLMs
 

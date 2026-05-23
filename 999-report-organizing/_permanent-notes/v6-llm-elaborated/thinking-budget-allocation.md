@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,42 +164,6 @@ Empirical evidence highlights the critical role of thinking budgets in balancing
 > [!connection] **[[Token Budget Management]]** — *specializes*
 > Thinking Budget Allocation specializes in the specific application of token budget management to extended reasoning tasks. While Token Budget Management is a broader concept that can apply to various computational processes, Thinking Budget Allocation focuses on optimizing these budgets for deep cognitive operations.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Token Budget Management Process**
-> *Follow the flow from setting budget to generating response.*
->
-> ```mermaid
-> flowchart LR
->   A[Set Budget] --> B[Determine Complexity]
->   B --> C[Evaluate Task]
->   C --> D[Allocate Tokens]
->   D --> E[Generate Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Budget vs Performance Trade-off**
-> *Observe the relationship between budget and performance efficiency.*
->
-> ```mermaid
-> graph TD
->   A[Low Budget] --> B[High Latency]
->   A --> C[Low Quality]
->   D[High Budget] --> E[Low Latency]
->   D --> F[High Quality]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *Identify the different application scenarios and their budget requirements.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Complex Logical Puzzles]
->   C[Cost-sensitive Applications] --> D[Real-time Customer Service]
-> ```
 
 # Thinking Budget Allocation
 

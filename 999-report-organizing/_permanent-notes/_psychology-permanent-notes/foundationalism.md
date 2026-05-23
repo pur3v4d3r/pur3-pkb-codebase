@@ -16,7 +16,7 @@ subdomains:
   - analytic-epistemology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - foundationalism-synthetic-seed-2026-04-25
@@ -66,55 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Foundational Belief Structure**
-> *Identify basic beliefs as the foundation for other justified beliefs.*
->
-> ```mermaid
-> graph TD
->   A[Basic Beliefs]
->   B(Inferentially Justified Beliefs)
->   A -->|Non-inferential Justification| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Foundationalism vs Coherentism**
-> *Compare foundationalist and coherentist approaches to belief justification.*
->
-> ```mermaid
-> graph TD
->   A[Basic Beliefs]
->   B(Inferentially Justified Beliefs)
->   C[Coherent System of Beliefs]
->   D(Justification Through Coherence)
->   A -->|Non-inferential Justification| B
->   C -->|Doxastic Grounding| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Foundationalist Mechanism Flow**
-> *Follow the flow from basic beliefs to inferentially justified beliefs.*
->
-> ```mermaid
-> flowchart LR
->   A[Direct Experience]
->   B(Self-Evidence]
->   C[Non-Doxastic Ground]
->   D[Basic Beliefs]
->   E(Inferentially Justified Beliefs)
->   A -->|Input| D
->   B -->|Input| D
->   C -->|Input| D
->   D -->|Foundation| E
-> ```
 
 # Foundationalism
 

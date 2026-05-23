@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,45 +167,6 @@ The study of Factual Association Mechanisms not only illuminates the inner worki
 > [!connection] **[[Causal Tracing in Transformers]]** — *supports*
 > Factual Association Mechanisms are supported by causal tracing techniques, which map the computational pathways within LLMs. By identifying how factual information is enriched and routed through specific layers and attention heads, causal tracing provides a detailed understanding of these mechanisms, enabling researchers to optimize model performance for factual recall tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Two-stage retrieval pattern**
-> *Follow the flow from subject token processing to final factual completion.*
->
-> ```mermaid
-> graph TD
->   A[Subject Tokens] --> B[Middle-layer MLP]
->   B --> C[Late-position Attention Heads]
->   C --> D[Factual Completion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Factual retrieval components**
-> *Identify the key layers and heads involved in factual recall.*
->
-> ```mermaid
-> graph TD
->   A[Query] --> B[Middle-layer MLP]
->   B --> C[Late-position Attention Heads]
->   C --> D[Factual Completion]
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional design example**
-> *See how prompts can be designed to align with model retrieval patterns.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Prompt as P
->   U->>P: Design prompt for factual recall
->   P->>M: Input enriched subject tokens
->   M->>M: Process through MLP and attention heads
->   M-->>U: Generate accurate response
-> ```
 
 # Factual Association Mechanisms
 

@@ -18,7 +18,7 @@ subdomains:
   - ontology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - concept-hierarchy-synthetic-seed-2026-04-25
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Concept Hierarchy Example**
-> *Follow the IS-A relationships from root to leaves.*
->
-> ```mermaid
-> graph TD
->   A[Animal] --> B[Mammal]
->   B --> C[Platypus]
->   B --> D[Bear]
-> ```
-
-
-> [!abstract] **Diagram 2 — Inheritance Flow**
-> *Trace how properties flow from parent to child.*
->
-> ```mermaid
-> flowchart LR
->   A[Animal] -->|warm-blooded| B[Mammal]
->   B -->|hair| C[Platypus]
-> ```
-
-
-> [!abstract] **Diagram 3 — Taxonomy Design Example**
-> *Navigate the hierarchical structure of product categories.*
->
-> ```mermaid
-> graph TD
->   A[E-commerce] --> B[Furniture]
->   B --> C[Chairs]
->   B --> D[Couches]
-> ```
 
 # Concept Hierarchy
 

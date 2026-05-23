@@ -21,7 +21,7 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
@@ -70,95 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mastery vs Performance Climate Structure**
-> *Identify the key components of each climate.*
->
-> ```mermaid
-> graph TD
->   A[Challenging Tasks]
->   B[Achievable Goals]
->   C[Democratic Authority]
->   D[Criterion-Referenced Evaluation]
->   E[Fosters Intrinsic Motivation]
->   F[Growth Mindset]
->   G[Open-Ended Tasks]
->   H[Encourages Improvement]
->   I[Supportive Environment]
->   J[Avoidance Goals]
->   K[Negative Evaluation Fear]
->   L[Fixed Mindset]
->   M[Closed Tasks]
->   N[Competitive Atmosphere]
->   O[Extrinsic Motivation]
->   A --> E
->   B --> H
->   C --> I
->   D --> J
->   F --> G
->   G --> K
->   H --> L
->   I --> M
->   J --> N
->   K --> O
-> ```
-
-
-> [!abstract] **Diagram 2 — Mastery Climate Mechanism Flow**
-> *Follow the flow from task design to learner outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Design]
->   B[Open-Ended Tasks]
->   C[Deep Engagement]
->   D[Problem-Solving Skills]
->   E[Fosters Intrinsic Motivation]
->   F[Growth Mindset]
->   G[Persistence in Challenges]
->   H[Better Academic Outcomes]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
->   F --> G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Mastery vs Performance Climate Comparison**
-> *Compare the key distinctions between both climates.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Motivation]
->   B[Growth Mindset]
->   C[Persistence in Challenges]
->   D[Better Academic Outcomes]
->   E[Mastery Climate]
->   F[Avoidance Goals]
->   G[Negative Evaluation Fear]
->   H[Fixed Mindset]
->   I[Extrinsic Motivation]
->   J[Performance Climate]
->   E --> A
->   E --> B
->   E --> C
->   E --> D
->   J --> F
->   J --> G
->   J --> H
->   J --> I
-> ```
 
 # Mastery Climate vs Performance Climate
 

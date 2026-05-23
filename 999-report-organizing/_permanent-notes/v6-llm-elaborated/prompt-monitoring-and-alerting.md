@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,55 +156,6 @@ The gradual nature of quality degradation in LLMs makes automated monitoring wit
 > [!connection] **[[Prompt Versioning]]** — *applies-to*
 > Effective Prompt Monitoring and Alerting relies on version-controlled prompts to trace back any performance issues. By maintaining a history of prompt versions alongside monitoring data, teams can pinpoint when specific changes introduced quality degradation or ethical concerns.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — LLM Monitoring Metrics Overview**
-> *Identify the key metrics monitored for LLM performance.*
->
-> ```mermaid
-> graph TD
->   A[Latency]
->   B[Cost]
->   C[Safety Violations]
->   D[User Satisfaction]
->   E[Prompt Inputs]
->   F[Model Outputs]
->   A --> G[Quality Metrics]
->   B --> G
->   C --> G
->   D --> G
->   E --> H[Automated Evaluation]
->   F --> H
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Monitoring Workflow**
-> *Follow the flow from prompt input to alert generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Prompt Analysis]
->   B --> C[Model Execution]
->   C --> D[Output Evaluation]
->   D --> E[Automated Metrics]
->   E --> F[Threshold Comparison]
->   F --> G[Alert Generation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Quality Assurance Mechanisms**
-> *Understand the balance between automated and human oversight.*
->
-> ```mermaid
-> graph TD
->   A[Automated Metrics] --> B[Trends & Anomalies]
->   C[Human Review] --> D[Nuanced Quality Checks]
->   E[Integration Point] --> F[Comprehensive View]
->   B -->|Trends| E
->   D -->|Checks| E
-> ```
 
 # Prompt Monitoring and Alerting
 

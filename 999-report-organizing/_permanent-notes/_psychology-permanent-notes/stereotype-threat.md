@@ -18,7 +18,7 @@ subdomains:
   - education
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - stereotype-threat-synthetic-seed-2026-04-25
@@ -68,52 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Stereotype Threat Mechanism Overview**
-> *Follow the flow from stereotype awareness to performance impact.*
->
-> ```mermaid
-> graph TD
->   A["Awareness of Stereotypes"] --> B[Emotion Regulation]
->   B --> C[Working Memory Load]
->   C --> D[Performance Impact]
-> ```
-
-
-> [!abstract] **Diagram 2 — Stereotype Threat in Educational Settings**
-> *Trace the steps from stereotype threat to performance improvement strategies.*
->
-> ```mermaid
-> flowchart LR
->   A["Stereotype Threat"] --> B[Performance Anxiety]
->   B --> C[Reduced Focus]
->   C --> D[Task Performance Decrease]
->   E[Non-Diagnostic Framing] --> F[Emphasis on Effort]
->   F --> G[Improved Focus]
->   G --> H[Better Task Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Stereotype Threat in Workplace Evaluations**
-> *Follow the process from stereotype threat to objective criteria evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A["Stereotype Threat"] --> B[Subjective Perceptions]
->   B --> C[Performance Anxiety]
->   C --> D[Task Performance Decrease]
->   E[Objective Criteria] --> F[Inclusive Environment]
->   F --> G[Reduced Stereotype Concerns]
->   G --> H[Better Task Performance]
-> ```
 
 # Stereotype Threat
 

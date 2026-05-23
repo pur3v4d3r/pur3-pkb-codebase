@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,51 +166,6 @@ FlashAttention's impact on transformer architectures is profound, not only by en
 > [!connection] **[[Context Length in Transformers]]** — *applies-to*
 > FlashAttention directly addresses the challenge of handling longer contexts within transformer models by optimizing memory usage. This is crucial because as context length increases, so does the demand for GPU memory and computational resources. By enabling efficient processing of long sequences without increasing memory requirements, FlashAttention significantly extends the practical limits of context length in transformers.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — FlashAttention Memory Hierarchy**
-> *Follow the data flow from SRAM to HBM.*
->
-> ```mermaid
-> graph TD
->   A[SRAM]
->   B[HBM]
->   A -->|Incremental Computation| C[Output]
->   C -->|Write Back| B
-> ```
-
-
-> [!abstract] **Diagram 2 — FlashAttention Process Flow**
-> *Trace the steps from input to output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Sequence]
->   B[Tiling into Blocks]
->   C[Incremental Softmax]
->   D[Block Computation]
->   E[Output]
->   A --> B
->   B -->|SRAM| C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — FlashAttention vs Standard Attention**
-> *Compare memory usage and speedup factors.*
->
-> ```mermaid
-> graph TD
->   A[Standard Attention]
->   B[FlashAttention]
->   A -->|Full Matrix Computation| C[HBM Usage]
->   B -->|Incremental SRAM Computation| D[Reduced HBM Access]
->   A -->|Compute Bound| E[Speedup Factor]
->   B -->|Memory Bound| F[2-4x Speedup]
-> ```
 
 # Flash Attention Algorithm
 

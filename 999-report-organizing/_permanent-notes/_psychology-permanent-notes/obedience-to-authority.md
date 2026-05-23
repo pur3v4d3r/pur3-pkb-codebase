@@ -18,7 +18,7 @@ subdomains:
   - ethics-of-research
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - obedience-to-authority-synthetic-seed-2026-04-26
@@ -65,44 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Obedience Mechanism Flowchart**
-> *Follow the steps from perception to compliance.*
->
-> ```mermaid
-> flowchart LR
->   A[Perceive Authority] --> B[Stepwise Escalation]
->   B --> C['Agentic Shift']
->   C --> D[Compliance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Obedience in Real-World Settings**
-> *Identify settings where obedience to authority is observed.*
->
-> ```mermaid
-> graph TD
->   A[Corporate Environments] --> B[Military Hierarchies]
->   C[Organizational Behavior] --> D[Legal Proceedings]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications Overview**
-> *See how different fields apply the concept of obedience.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Organizational Behavior]
->   C[Legal Proceedings]
-> ```
 
 # Obedience to Authority
 

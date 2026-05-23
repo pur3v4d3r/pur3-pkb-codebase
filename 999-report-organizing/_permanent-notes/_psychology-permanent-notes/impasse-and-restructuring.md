@@ -18,7 +18,7 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - impasse-and-restructuring-synthetic-seed-2026-04-25
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Impasse And Restructuring Process Flow**
-> *Follow the sequence from impasse to restructuring.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem Representation] --> B[Ideas Exhausted]
->   B --> C[Impasse]
->   C --> D[Relax Constraints]
->   D --> E[Redefine Goals]
->   E --> F[New Solution Paths]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load In Impasse And Restructuring**
-> *Identify the shift from intrinsic to extraneous load.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load] --> B[Impasse]
->   C[Extraneous Load] --> D[Restructuring]
->   E[Representational Change] --> F[Reduced Intrinsic Load]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Compare the two thinking modes during problem-solving.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Reflective
->   participant Reactive
->   Reflective->>Reactive: Initial Approach
->   Reactive-->>Reflective: Impasse Detected
->   Reflective->>Reflective: Analyze and Reconsider
->   Reflective-->>Reactive: New Strategy Applied
-> ```
 
 # Impasse And Restructuring
 

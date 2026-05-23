@@ -18,7 +18,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-distillation-synthetic-seed-2026-04-25
@@ -65,44 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Distillation Process Flow**
-> *Follow the iterative steps from highlighting to atomicizing.*
->
-> ```mermaid
-> flowchart LR
->   A[Highlighting] --> B[Restating]
->   B --> C[Atomicizing]
-> ```
-
-
-> [!abstract] **Diagram 2 — Knowledge Distillation Mechanism Overview**
-> *Identify the key steps in refining captured material.*
->
-> ```mermaid
-> graph TD
->   A[Initial Material] --> B{Highlighting}
->   B --> C[Restating]
->   C --> D[Atomicizing]
-> ```
-
-
-> [!abstract] **Diagram 3 — Knowledge Distillation Applications**
-> *See the various fields where knowledge distillation can be applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B{Personal Knowledge Management}
->   B --> C{Professional Development}
-> ```
 
 # Knowledge Distillation
 

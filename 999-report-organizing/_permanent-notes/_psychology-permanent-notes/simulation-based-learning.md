@@ -18,7 +18,7 @@ subdomains:
   - training-design
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - simulation-based-learning-synthetic-seed-2026-04-25
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Simulation-Based Learning Process Flow**
-> *Follow the flow from simulation to debriefing.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Simulated Environment]
->   B --> C[Task Practice]
->   C --> D[Feedback Mechanisms]
->   D --> E[Debriefing Session]
->   E --> F[Reflection and Error Correction]
->   F --> G[Skill Refinement]
-> ```
-
-
-> [!abstract] **Diagram 2 — SBL Application Fields Comparison**
-> *Compare the application areas of SBL.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Simulations & Debriefing| B[Engaging Learning]
->   C[Healthcare] -->|Critical Procedures Training| D[Enhanced Clinical Skills]
->   E[Aviation] -->|Emergency Procedure Practice| F[Improved Performance]
-> ```
-
-
-> [!abstract] **Diagram 3 — SBL Feedback Mechanisms Overview**
-> *Identify the feedback mechanisms in simulations.*
->
-> ```mermaid
-> flowchart LR
->   A[Simulation Start] --> B[Task Initiation]
->   B --> C[Real-Time Guidance]
->   C --> D[Error Detection]
->   D --> E[Corrective Feedback]
->   E --> F[Task Completion]
-> ```
 
 # Simulation-Based Learning
 

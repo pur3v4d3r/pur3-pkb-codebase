@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -181,69 +177,6 @@ Probing studies and activation-patching experiments have provided compelling evi
 > [!connection] **[[Causal Reasoning in LLMs]]** — *applies-to*
 > The concept of world models in language models underpins causal reasoning within these systems. By encoding relationships and causality implicitly, LLMs can infer outcomes based on input scenarios, making them capable of generating responses that reflect an understanding of cause-and-effect dynamics.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — World Model Structure Overview**
-> *Follow the flow from training to predictions.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[Parameter Encoding]
->   C[Linear Representations]
->   D[Probing Studies]
->   E[Predictions]
->   F[World-State Tracking]
->   G[Causal Reasoning]
->   A --> B
->   B --> C
->   C --> D
->   C --> E
->   E --> F
->   F --> G
-> ```
-
-
-> [!abstract] **Diagram 2 — Stochastic vs Deterministic Access**
-> *Compare stochastic access in LLMs to deterministic systems.*
->
-> ```mermaid
-> graph TD
->   A[LLM World Model]
->   B[Deterministic System]
->   C[Query-Based Retrieval]
->   D[Forward Pass Predictions]
->   E[Consistent Results]
->   F[Probabilistic Outcomes]
->   G[Varying Contexts]
->   A -->|Stochastic| D
->   D -->|F|
->   B -->|Deterministic| C
->   C -->|E|
->   A -.-> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of Linear Representations**
-> *Trace the development and use of linear representations.*
->
-> ```mermaid
-> graph TD
->   A[Training Process]
->   B[Neural Activations]
->   C[Causal Upstream]
->   D[Token Predictions]
->   E[World-State Variables]
->   F[Probing Studies]
->   G[Activation-Patching]
->   A --> B
->   B -->|C| D
->   B --> E
->   E --> F
->   E --> G
-> ```
 
 # World Model in Language Models
 

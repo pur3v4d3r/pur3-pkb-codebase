@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -150,42 +146,6 @@ In essence, Token Budget Management is not just about economizing resources but 
 > [!connection] **[[Prompt Compression]]** — *applies-to*
 > Token Budget Management directly applies to Prompt Compression by providing strategies for reducing the number of tokens used in prompts and responses without sacrificing meaning. By compressing prompts, fewer tokens are consumed, allowing more efficient use of the model's context window while maintaining clarity and relevance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Token Usage Components**
-> *Identify the main components contributing to token usage.*
->
-> ```mermaid
-> graph TD
->   A[System Prompts] --> B[Conversation History]
->   C[Tool Outputs] --> B
->   D[Response Generation] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Token Budget Management Process**
-> *Follow the steps involved in managing token budgets.*
->
-> ```mermaid
-> flowchart LR
->   A[Track Token Usage] --> B[Plan Allocation]
->   B --> C[Evaluate Impact]
->   C --> D[Tweak Strategies]
-> ```
-
-
-> [!abstract] **Diagram 3 — Token Budget vs Performance Trade-off**
-> *Understand the balance between token budget and performance.*
->
-> ```mermaid
-> graph TD
->   A[High Token Budget] --> B[Low Cost]
->   C[High Quality Responses] --> D[High Latency]
->   E[Low Token Budget] --> F[High Cost]
->   G[Low Quality Responses] --> H[Low Latency]
-> ```
 
 # Token Budget Management
 

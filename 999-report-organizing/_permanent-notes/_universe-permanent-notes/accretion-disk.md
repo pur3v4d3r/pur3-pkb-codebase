@@ -17,7 +17,7 @@ subdomains:
   - hydrodynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - accretion-disk-synthetic-seed-2026-05-14
@@ -68,44 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Accretion Disk Structure Overview**
-> *Follow the flow from outer to inner disk regions.*
->
-> ```mermaid
-> graph TD
->   A[Outer Edge] --> B[Middle Region]
->   B --> C[Inner Edge]
-> ```
-
-
-> [!abstract] **Diagram 2 — Energy Conversion Process in Accretion Disk**
-> *Trace the energy flow from gravitational potential to radiation.*
->
-> ```mermaid
-> flowchart LR
->   A[Gravitational Potential Energy] --> B[Viscous Stress]
->   B --> C[Magnetic Instabilities]
->   C --> D[Emission of Radiation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Thin vs Thick Disk Comparison**
-> *Compare the vertical structure and radiative efficiency.*
->
-> ```mermaid
-> graph TD
->   A[Thin Disc] -->|Flat, Optically Thick| B[Radiation Efficient]
->   C[Thick Disc] -->|Vertically Extended| D[Radiation Inefficient]
-> ```
 
 # Accretion Disk
 

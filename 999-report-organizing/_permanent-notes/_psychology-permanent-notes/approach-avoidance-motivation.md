@@ -19,7 +19,7 @@ subdomains:
   - personality-psychology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - approach-avoidance-motivation-synthetic-seed-2026-04-25
@@ -68,49 +68,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Approach-Avoidance Dichotomy**
-> *Identify the motivations for approach and avoidance behaviors.*
->
-> ```mermaid
-> graph TD
->   A[Desired End-State] --> B(Approach)
->   C(Undesired End-State) --> D(Avoidance)
-> ```
-
-
-> [!abstract] **Diagram 2 — Neural Mechanisms of Motivation**
-> *Trace the neural pathways involved in approach and avoidance motivations.*
->
-> ```mermaid
-> flowchart LR
->   A[Perceived Reward/Threat] --> B(Reward System)
->   B --> C[Dopamine Release]
->   A --> D(Fear Circuitry)
->   D --> E[Amygdala Activation]
-> ```
-
-
-> [!abstract] **Diagram 3 — BAS-BIS Interaction Model**
-> *Understand the dynamic interaction between BAS and BIS systems.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Approach: Perceived Reward
->   Approach --> VentralStriatum: Dopamine Release
->   VentralStriatum --> ConflictMonitoring: Enhanced Reward Anticipation
->   [*] --> Avoidance: Perceived Threat
->   Avoidance --> DorsalACC: Amygdala Activation
->   DorsalACC --> ConflictMonitoring: Increased Stress Levels
-> ```
 
 # Approach-Avoidance Motivation
 

@@ -19,7 +19,7 @@ subdomains:
   - psychometrics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - general-factor-g-synthetic-seed-2026-04-25
@@ -69,47 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — General Factor G Components**
-> *Identify the components that contribute to General Factor G.*
->
-> ```mermaid
-> graph TD
->   A[Fluid Intelligence] --> B[General Factor G]
->   C[Crystallized Intelligence] --> B
->   D[Biological Factors] --> B
->   E[Cognitive Theories] --> B
->   F[Environmental Influences] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — General Factor G Extraction Process**
-> *Follow the steps to understand how General Factor G is extracted from cognitive tests.*
->
-> ```mermaid
-> flowchart LR
->   A[Collect Cognitive Test Data] --> B[Conduct Factor Analysis]
->   B --> C[Identify Common Factors]
->   C --> D[Extract General Factor G]
-> ```
-
-
-> [!abstract] **Diagram 3 — General Factor G Application Areas**
-> *See how General Factor G is applied in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Enhance Cognitive Performance]
->   C[Intelligence Testing] --> D[Evaluate Overall Capacity]
-> ```
 
 # General Factor G
 

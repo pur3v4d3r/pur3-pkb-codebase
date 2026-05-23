@@ -18,7 +18,7 @@ subdomains:
   - autobiographical-memory
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - episodic-memory-synthetic-seed-2026-04-24
@@ -66,53 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Episodic Memory Process Flow**
-> *Follow the flow from encoding to retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Event] --> B[Working Memory]
->   B --> C[Encoding]
->   C --> D[Integration]
->   D --> E[Consolidation]
->   E --> F[Long-Term Storage]
->   F --> G[Cues]
->   G --> H[Retrieval]
-> ```
-
-
-> [!abstract] **Diagram 2 — Episodic vs Semantic Memory Comparison**
-> *Compare the focus of episodic and semantic memory.*
->
-> ```mermaid
-> graph TD
->   A[Episodic Memory] -->|Focus on| B[Personal Events]
->   C[Semantic Memory] -->|Focus on| D[General Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 3 — Recognition vs Recall Process**
-> *Understand the difference between recognition and recall.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Event as E
->   participant Recognition as R
->   participant Recall as C
->   E->>R: Prompted Cue
->   R-->>E: Identify Familiarity
->   E->>C: No Cue
->   C-->>E: Retrieve Information
-> ```
 
 # Episodic Memory
 

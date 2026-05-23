@@ -17,7 +17,7 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - nudge-theory-synthetic-seed-2026-04-25
@@ -66,63 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Nudge Theory Mechanism Overview**
-> *Follow the flow from default settings to behavioral outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Default Settings]
->   B[Cognitive Biases]
->   C[Decision-Making Process]
->   D[Behavioral Outcomes]
->   A -->|Influence| B
->   B -->|Guide| C
->   C -->|Result in| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Nudge Theory Application Examples**
-> *Identify the application areas and their corresponding nudges.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Healthcare]
->   C[Environmental Conservation]
->   D[Spaced Retrieval in MOOCs]
->   A -->|Engaging Learning Materials|
->   B -->|Follow-Up Appointments|
->   C -->|Visible Recycling Bins|
->   D -->|Scheduled Quizzes and Assessments
-> ```
-
-
-> [!abstract] **Diagram 3 — Nudge Theory Process Flow**
-> *Trace the process from initial setup to final behavioral change.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Desired Outcome]
->   B[Determine Nudge Strategy]
->   C[Implement Default Settings]
->   D[Monitor Behavioral Response]
->   E[Evaluate Effectiveness]
->   F[Tweak and Optimize]
->   A --> B
->   B --> C
->   C --> D
->   D -->|Positive| E
->   D -->|Negative| F
-> ```
 
 # Nudge Theory
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,44 +170,6 @@ Task-specific fine-tuning represents a pivotal strategy in the ongoing evolution
 > [!connection] **[[Catastrophic Forgetting in LLMS]]** — *applies-to*
 > Task-specific fine-tuning is particularly susceptible to catastrophic forgetting, where the model's performance on previously learned tasks deteriorates as it adapts to new ones. This phenomenon occurs because task-specific fine-tuning often involves significant parameter adjustments that can overwrite or disrupt pre-existing knowledge.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Task-Specific Fine-Tuning Process Flow**
-> *Follow the steps from pre-trained model to task-specific fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Pre-Trained Model] --> B[Select Task]
->   B --> C[Collect Task Data]
->   C --> D[Label Data]
->   D --> E[Fine-Tune Model]
->   E --> F[Test Performance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Task-Specific vs Instruction Fine-Tuning Comparison**
-> *Compare the focus of task-specific and instruction fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[Task-Specific Fine-Tuning] --> B[Narrow Focus]
->   C/InstructionFineTuning --> D[Broad Focus]
->   B --> E[High Performance on Specific Task]
->   D --> F[General Instruction Following]
-> ```
-
-
-> [!abstract] **Diagram 3 — Task-Specific Fine-Tuning Applications**
-> *Identify the applications of task-specific fine-tuning.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Student Essays]
->   C/CustomerServiceChatbots --> D[Common Queries]
->   E/LegalDocumentAnalysis --> F[Legal Documents]
-> ```
 
 # Task-Specific Fine-Tuning
 

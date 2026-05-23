@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -177,57 +173,6 @@ By integrating insights from capability elicitation prompting, researchers and p
 > [!connection] **[[Latent Capability Unlocking]]** — *instance-of*
 > Capability elicitation prompting is an instance of latent capability unlocking because it specifically targets the activation and revelation of hidden or underutilized capabilities within large language models. This connection underscores the shared goal of uncovering untapped potential, with elicitation focusing on tailored prompt design to achieve this.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Core Mechanism Overview**
-> *Follow the flow from prompts to latent capabilities.*
->
-> ```mermaid
-> graph TD
->   A[Standard Prompt Evaluation]
->   B[Capability Elicitation Prompting]
->   C[Latent Capabilities]
->   D[Surface-Level Performance]
->   A -->|Focus on performance| D
->   B -->|Reveal hidden potential| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Types for Elicitation**
-> *Identify different types of prompts and their effects.*
->
-> ```mermaid
-> graph TD
->   A[Role Prompting]
->   B[Chain-of-Thought Framing]
->   C[Step-by-Step Decomposition]
->   D[Meta-Prompting]
->   E[Format Scaffolding]
->   A -->|Activate expert persona|
->   B -->|Encourage deliberate reasoning|
->   C -->|Guide through subgoals|
->   D -->|Instruct reflection on task|
->   E -->|Provide structural cues|
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Summary**
-> *See how elicitation impacts instructional design, evaluation, and deployment.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Model Evaluation]
->   C[Deployment Reliability]
->   D[Simulate real-world scenarios]
->   E[Accurate model potential]
->   F[Reliability under typical conditions]
->   A -->|Enhance learning materials|
->   B -->|Improve evaluation protocols|
->   C -->|Assess elicited capabilities|
-> ```
 
 # Capability Elicitation Prompting
 

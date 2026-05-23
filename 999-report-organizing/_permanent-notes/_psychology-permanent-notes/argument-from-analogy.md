@@ -17,7 +17,7 @@ subdomains:
   - reasoning
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - argument-from-analogy-synthetic-seed-2026-04-26
@@ -64,44 +64,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Argument from Analogy Process Flow**
-> *Follow the flow to understand how an argument is constructed.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Similarities] --> B[Evaluate Relevance]
->   B --> C[Map Features]
->   C --> D[Infer Additional Feature]
-> ```
-
-
-> [!abstract] **Diagram 2 — Argument from Analogy Taxonomy**
-> *Trace the hierarchy to see how analogy fits into inductive reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Inductive Reasoning] --> B[Argument from Analogy]
->   B --> C[Analogical Mapping]
-> ```
-
-
-> [!abstract] **Diagram 3 — Argument Strength Factors**
-> *Identify the factors that influence the strength of an argument.*
->
-> ```mermaid
-> flowchart LR
->   A[Number of Shared Features] --> B[Relevance]
->   C[Asymmetry] --> D[Strength]
-> ```
 
 # Argument from Analogy
 

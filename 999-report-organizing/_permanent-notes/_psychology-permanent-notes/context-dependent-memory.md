@@ -17,7 +17,7 @@ subdomains:
   - memory
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - context-dependent-memory-synthetic-seed-2026-04-25
@@ -64,66 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Contextual Encoding Process**
-> *Follow the flow from encoding to retrieval, noting environmental cues.*
->
-> ```mermaid
-> graph TD
->   A[Encoding]
->   B[Environmental Cues]
->   C[Memory Trace]
->   D[Retrieval]
->   E[Matching Context]
->   F[Enhanced Recall]
->   A -->|Contextual Features| B
->   B -->|Bound to Memory| C
->   D -->|Similar Environment| E
->   E -->|Activates Cues| C
->   C -->|Facilitates Retrieval| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Context-Dependent vs State-Dependent Memory**
-> *Compare the focus of each type on external versus internal context.*
->
-> ```mermaid
-> graph TD
->   A[Context-Dependent]
->   B[State-Dependent]
->   C[External Cues]
->   D[Internal States]
->   E[Encoding and Retrieval]
->   F[Physiological Conditions]
->   A -->|Focus on| C
->   B -->|Focus on| D
->   C -->|During| E
->   D -->|During| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Neural Activation During Context-Dependent Memory**
-> *Trace the neural activity from encoding to retrieval under matching contexts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Hippocampus as H
->   participant PrefrontalCortex as PFC
->   participant Encoding as E
->   participant Retrieval as R
->   E ->> H: Encode Information with Contextual Cues
->   E ->> PFC: Activate Neural Networks
->   R ->> H: Encounter Matching Environmental Cues
->   R ->> PFC: Prime for Retrieval
-> ```
 
 # Context-Dependent Memory
 

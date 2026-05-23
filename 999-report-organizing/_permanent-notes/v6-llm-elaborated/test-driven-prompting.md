@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,45 +157,6 @@ By integrating rigorous testing into the very foundation of code generation, Tes
 > [!connection] **[[Execution Feedback Prompting]]** — *contrasts-with*
 > While both Test-Driven Prompting and Execution Feedback Prompting involve iterative refinement of code based on feedback, they differ in their initial approach. Test-Driven Prompting starts with a set of predefined tests to guide the generation process, whereas Execution Feedback Prompting relies more on real-time execution results for adjustments.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Test-Driven Prompting Process Flow**
-> *Follow the iterative refinement cycle from test suite to function implementation.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Test Suite]
->   B --> C[Generate Code]
->   C --> D[Execute Tests]
->   D -->|Failures| E[Rewrite Code]
->   E --> C
->   D -->|Passes| F[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Other Prompting Strategies**
-> *Compare Test-Driven Prompting with other code generation methods based on their feedback mechanisms.*
->
-> ```mermaid
-> graph TD
->   A[Test-Driven Prompting] -->|Executable Tests| B[Refine Code]
->   C[Docstring-Guided Generation] -->|Natural Language Specs| D[Generate Code]
->   E[Execution Feedback Prompting] -->|Less Structured Input| F[Rewrite Code]
-> ```
-
-
-> [!abstract] **Diagram 3 — Test-Driven Prompting Mechanism Overview**
-> *Trace the cyclical process from initial code generation to final test suite satisfaction.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Function] --> B[Test Suite]
->   B -->|Failures| C[Rewrite Code]
->   C --> B
->   B -->|Passes| D[Final Implementation]
-> ```
 
 # Test-Driven Prompting
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,51 +162,6 @@ BM25's robustness in balancing term frequency, document length normalization, an
 > [!connection] **[[TF-IDF]]** — *instance-of*
 > BM25 is an instance of the TF-IDF framework, specifically tailored for information retrieval tasks. It builds upon the core idea of weighing terms by their frequency in a document and rarity across documents but introduces adjustments to better handle term frequency within documents and normalize scores based on document length.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — BM25 Scoring Process**
-> *Follow the flow from query to document scoring.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Term Frequency]
->   B --> C[IDF Calculation]
->   C --> D[Normalization]
->   D --> E[Score Adjustment]
-> ```
-
-
-> [!abstract] **Diagram 2 — BM25 Formula Components**
-> *Identify the factors contributing to BM25 score.*
->
-> ```mermaid
-> graph TD
->   A[Tf-idf] --> B[Damping Factor]
->   B --> C[Term Frequency Adjustment]
->   C --> D[Document Length Normalization]
-> ```
-
-
-> [!abstract] **Diagram 3 — Sparse vs Dense Retrieval**
-> *Compare the focus of sparse and dense retrieval methods.*
->
-> ```mermaid
-> classDiagram
->   class SparseRetrieval {
->     +ExactTermMatching()
->     +DocumentScoring()
->   }
->   class DenseRetrieval {
->     +SemanticSimilarity()
->     +ContextualRelevance()
->   }
->   SparseRetrieval -->|Focus on| ExactTermMatching
->   SparseRetrieval -->|Outcome of| DocumentScoring
->   DenseRetrieval -->|Focus on| SemanticSimilarity
->   DenseRetrieval -->|Outcome of| ContextualRelevance
-> ```
 
 # Sparse Retrieval BM25
 

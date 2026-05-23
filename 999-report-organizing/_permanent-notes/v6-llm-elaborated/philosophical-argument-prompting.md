@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,55 +150,6 @@ Philosophical Argument Prompting is particularly effective when used for steelma
 > [!connection] **[[Logical Entailment Verification]]** — *applies-to*
 > Philosophical Argument Prompting applies Logical Entailment Verification to assess the validity and coherence of philosophical arguments. By verifying logical entailments, Philosophical Argument Prompting ensures that reconstructed arguments are logically sound, thereby enhancing the model's ability to engage in rigorous philosophical analysis.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Philosophical Argument Workflow**
-> *Follow the steps from input to output analysis.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Argument Reconstruction]
->   C[Validity Assessment]
->   D[Output Analysis]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Philosophical Argument Tasks**
-> *Identify the tasks involved in Philosophical Argument Prompting.*
->
-> ```mermaid
-> graph TD
->   A[Argument Reconstruction]
->   B[Validity Assessment]
->   C[Counterargument Generation]
->   D[Objection Handling]
->   A -->|Task|
->   B -->|Task|
->   C -->|Task|
->   D -->|Task|
-> ```
-
-
-> [!abstract] **Diagram 3 — Philosophical Traditions Interaction**
-> *See how different philosophical traditions influence the analysis.*
->
-> ```mermaid
-> graph TD
->   A[Analytic Philosophy]
->   B[Continental Philosophy]
->   C[Rigor Analysis]
->   D[Nuanced Reasoning]
->   A -->|Influence|
->   B -->|Influence|
->   A --> C
->   B --> D
-> ```
 
 # Philosophical Argument Prompting
 

@@ -19,7 +19,7 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - framing-effect-synthetic-seed-2026-04-25
@@ -68,47 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Framing Effect Overview**
-> *Follow the flow from problem framing to decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem Framing] --> B[Reference Point]
->   B --> C[Risk Attitude]
->   C --> D[Decision Outcome]
-> ```
-
-
-> [!abstract] **Diagram 2 — Gain vs Loss Framing**
-> *Compare risk attitudes under gain and loss framing.*
->
-> ```mermaid
-> graph TD
->   A[Gain Framing] --> B[Risk Aversion]
->   C[Loss Framing] --> D[Risk Seeking]
-> ```
-
-
-> [!abstract] **Diagram 3 — Framing in Decision Theory**
-> *Trace the influence of framing on decision-making processes.*
->
-> ```mermaid
-> sequenceDiagram
->   participant P[Problem]
->   participant F[Framing]
->   participant D[Decision]
->   P->>F: Present Problem
->   F->>D: Influence Decision
-> ```
 
 # Framing Effect
 

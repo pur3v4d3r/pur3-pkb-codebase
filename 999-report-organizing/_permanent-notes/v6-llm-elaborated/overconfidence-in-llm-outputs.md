@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,71 +170,6 @@ Overconfidence in LLM outputs is a structural property arising from both the aut
 > [!connection] **[[RLHF Training Paradigm]]** — *applies-to*
 > The RLHF paradigm directly influences overconfidence in LLM outputs by shaping the model's response patterns. The preference for fluent, confident responses during training creates a strong signal that encourages models to generate definitive statements even when uncertainty is warranted.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Output Overconfidence Mechanism**
-> *Follow the flow from training to output overconfidence.*
->
-> ```mermaid
-> graph TD
->   A[Human Raters]
->   B[Fluent, Confident Responses]
->   C[Reward Signal]
->   D[Model Training]
->   E[Overconfident Outputs]
->   A -->|Preference for Certainty| B
->   B -->|Training Reward|
->   C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM Overconfidence in Applications**
-> *Identify areas where overconfident outputs can cause issues.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Documentation]
->   C[Overconfident Outputs]
->   D[Ancient Dates]
->   E[Numerical Values]
->   F[Misleading Information]
->   G[Serious Errors]
->   C -->|Misinforming Students|
->   A
->   C -->|Inaccuracies in Contracts|
->   B
->   A -->|Dissemination of Inaccurate Info|
->   D
->   B -->|Confident Assertions|
->   E
->   D --> F
->   E --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Overconfidence vs Other Errors**
-> *Distinguish overconfidence from other types of model errors.*
->
-> ```mermaid
-> graph TD
->   A[Overconfidence]
->   B[Factual Inaccuracies]
->   C[General Bias]
->   D[Training Data Limitations]
->   E[Alignment Failure]
->   F[Knowledge Deficiency]
->   A -->|Epistemic Overestimation|
->   E
->   B -->|Lack of Knowledge|
->   D
->   C -->|Model Biases|
->   F
-> ```
 
 # Overconfidence in LLM Outputs
 

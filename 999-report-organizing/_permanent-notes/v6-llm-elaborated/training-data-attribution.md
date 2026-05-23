@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,40 +166,6 @@ By integrating Training Data Attribution with other interpretability techniques,
 > [!connection] **[[Influence Functions]]** — *instance-of*
 > Training Data Attribution relies on Influence Functions as a foundational mechanism to quantify the impact of individual training examples. This relationship is critical because Influence Functions provide a mathematical framework for estimating how changes in specific data points affect model predictions, thereby enabling detailed attribution analysis.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Training Data Attribution Process Flow**
-> *Follow the flow from data to model influence estimation.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Collection] --> B[Model Training]
->   B --> C[Influence Function Computation]
->   C --> D[Identify Influential Examples]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Influence Functions**
-> *Trace the steps from gradient computation to influence estimation.*
->
-> ```mermaid
-> flowchart LR
->   A[Gradient Computation] --> B[Hessian Approximation]
->   B --> C[Influence Estimation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Training Data Attribution Applications**
-> *Identify the applications and their corresponding benefits.*
->
-> ```mermaid
-> graph TD
->   A[Debugging Models] -->|Pinpoint Issues| B(Debug)
->   C[Addressing Biases] -->|Correct Imbalances| D(BiasCorrection)
->   E[Supporting Copyright Attribution] -->|Legal Compliance| F(Copyright)
-> ```
 
 # Training Data Attribution
 

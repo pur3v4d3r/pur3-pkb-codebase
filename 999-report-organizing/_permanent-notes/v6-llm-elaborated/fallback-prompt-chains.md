@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,36 +164,6 @@ By integrating fallback prompt chains, LLM systems not only enhance their resili
 > [!connection] **[[Model Routing Strategies]]** — *specializes*
 > Fallback prompt chains are a specialized application of model routing strategies, focusing on handling failures and ensuring continuous service. By integrating fallback mechanisms into the broader routing framework, systems can dynamically adjust to varying conditions, enhancing overall reliability.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Fallback Prompt Chain Flow**
-> *Follow the sequence from primary to static fallback.*
->
-> ```mermaid
-> flowchart LR
->   A[Primary Model API]
->   B[Secondary Model]
->   C[Cached Response]
->   D[Static Fallback Message]
->   A -->|Unavailability| B
->   B -->|Failure| C
->   C -->|Inadequate| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Quality Failure Strategies**
-> *Identify the order of strategies for quality failures.*
->
-> ```mermaid
-> flowchart LR
->   A[Long-Context Prompt]
->   B[Reduce Context and Retry]
->   C[Simplify Task Formulation]
->   A -->|Failure| B
->   B -->|Inadequate| C
-> ```
 
 # Fallback Prompt Chains
 

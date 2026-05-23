@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,54 +166,6 @@ By integrating reflective thinking and a balanced approach to top-down and botto
 > [!connection] **[[Vision-Language Models]]** — *applies-to*
 > Visual CoT is particularly relevant for Vision-Language Models as it addresses their need to integrate visual and textual information effectively. By breaking down visual reasoning into clear steps, Visual CoT helps these models generate more coherent and accurate language outputs based on complex visual inputs.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Visual CoT Process Flow**
-> *Follow the steps from observation to conclusion.*
->
-> ```mermaid
-> flowchart LR
->   A[Observe Image] --> B[Identify Elements]
->   B --> C[Reason Relationships]
->   C --> D[Refine Understanding]
->   D --> E[Final Conclusion]
-> ```
-
-
-> [!abstract] **Diagram 2 — Visual CoT Mechanism Overview**
-> *Trace the iterative reasoning process from start to finish.*
->
-> ```mermaid
-> graph TD
->   A[Initial Observation] --> B[Element Identification]
->   B --> C[Reasoning Step]
->   C --> D[Refinement]
->   D --> E[Final Answer]
-> ```
-
-
-> [!abstract] **Diagram 3 — Visual CoT vs Traditional Reasoning**
-> *Compare the explicit steps in Visual CoT with traditional reasoning.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   U->>M: Provide Image Input
->   alt Visual CoT
->     loop Iterative Reasoning
->       M->>U: Describe Observation
->       U->>M: Identify Elements
->       M->>U: Reason Relationships
->       U->>M: Refine Understanding
->     end
->     M-->>U: Final Conclusion
->   else Traditional Reasoning
->     M->>U: Direct Answer
->   end
-> ```
 
 # Visual Chain of Thought
 

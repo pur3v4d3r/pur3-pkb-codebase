@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,40 +163,6 @@ Empirical evidence underscores the critical role of label tokens in few-shot lea
 > [!connection] **[[Surface Form Competition]]** — *contrasts-with*
 > While surface form competition deals with how different representations of the same concept can lead to confusion in model predictions, label sensitivity focuses on biases introduced by specific text strings used as labels. Both phenomena highlight the importance of careful prompt design but address distinct aspects: surface form competition is about conceptual ambiguity, whereas label sensitivity is about statistical properties of tokens.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Label Sensitivity Process Flow**
-> *Follow the flow from input to output, noting label influence.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Model]
->   B --> C[Output]
->   D[Labels] -->|Influence| B
-> ```
-
-
-> [!abstract] **Diagram 2 — Label Sensitivity vs Input-Output Bias**
-> *Compare the two types of biases and their impacts on model performance.*
->
-> ```mermaid
-> graph TD
->   A[Input] --> B[Model]
->   C[Labels] -->|Sensitivity| B
->   D[Mapping] -->|Bias| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Label Frequency Impact**
-> *Observe how different label frequencies affect model predictions.*
->
-> ```mermaid
-> graph TD
->   A[Frequent Labels] -->|High Bias| C[Model Output]
->   B[Rare Labels] -->|Low Bias| C
-> ```
 
 # Label Sensitivity in Prompting
 

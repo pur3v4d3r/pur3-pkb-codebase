@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,40 +150,6 @@ Understanding and applying vision-language model prompting is crucial for advanc
 > [!connection] **[[Multimodal Few-Shot Learning]]** — *applies-to*
 > Vision-language model prompting is a critical component in multimodal few-shot learning, where models are trained to perform tasks with minimal examples. Effective VLM prompts can significantly enhance the model's ability to generalize from limited data by guiding attention and integrating visual-textual information efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — VLM Prompting Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Visual+Text Integration]
->   B --> C[Prompt Design]
->   C --> D[Spatial Reasoning]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — VLM Prompt Types Comparison**
-> *Compare the types of VLM prompts and their key features.*
->
-> ```mermaid
-> graph TD
->   A[Text-Only] -->|Focuses on text| B[Single Image]
->   C[Multimodal] -->|Incorporates visual data| D[Multiple Images]
-> ```
-
-
-> [!abstract] **Diagram 3 — VLM Prompting Challenges**
-> *Identify the challenges in VLM prompting and their solutions.*
->
-> ```mermaid
-> flowchart LR
->   A[Visual Grounding] --> B[Spatial Reasoning]
->   C[Ambiguity Handling] --> D[Structured Output Requests]
-> ```
 
 # Vision-Language Model Prompting
 

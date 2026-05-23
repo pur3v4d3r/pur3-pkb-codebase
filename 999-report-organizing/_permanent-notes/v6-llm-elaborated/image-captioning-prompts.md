@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - image-captioning-prompts-synthetic-seed-2026-05-20
@@ -68,35 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Image Captioning Workflow**
-> *Follow the flow from image to caption generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Image] --> B[Prompt]
->   B --> C[Vision-Language Model]
->   C --> D[Generated Caption]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Types for Captions**
-> *Identify different types of prompts and their outputs.*
->
-> ```mermaid
-> graph TD
->   A[List Objects] --> B[Detailed Description]
->   C[Emotional Tone] --> D[Brief Summary]
->   E[Accessibility Needs] --> F[Detailed Alt-Text]
-> ```
 
 # Image Captioning Prompts
 

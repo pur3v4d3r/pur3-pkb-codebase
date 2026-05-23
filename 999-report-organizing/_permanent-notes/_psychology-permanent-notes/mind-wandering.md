@@ -18,7 +18,7 @@ subdomains:
   - consciousness
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mind-wandering-synthetic-seed-2026-04-25
@@ -65,57 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mind Wandering Process Flow**
-> *Follow the flow from task focus to mind wandering and back.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Focus] --> B[Mind Wandering]
->   B --> C[Meta-Aware Repair/Extend]
->   B --> D[Tuned-Out Disruption]
->   C --> E[Return to Task]
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Mind Wandering Mechanism Overview**
-> *Identify the key brain regions involved in mind wandering.*
->
-> ```mermaid
-> graph TD
->   A[Default Mode Network (DMN)]
->   B[Medial Prefrontal Cortex]
->   C[Posterior Cingulate Cortex]
->   D[Amygdala]
->   E[Hippocampus]
->   F[Insula]
->   A -->|Includes Regions| B
->   A -->|Includes Regions| C
->   A -->|Interacts With| D
->   A -->|Interacts With| E
->   A -->|Interacts With| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Mind Wandering Contexts and Implications**
-> *See how mind wandering affects different contexts.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] --> B[Enhance Creativity]
->   A --> C[Improve Memory Retention]
->   D[Workplace Productivity] --> E[Maintain Focus]
->   D --> F[Reduce Disruption]
-> ```
 
 # Mind Wandering
 

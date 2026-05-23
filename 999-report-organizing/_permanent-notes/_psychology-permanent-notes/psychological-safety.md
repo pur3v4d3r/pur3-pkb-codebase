@@ -18,7 +18,7 @@ subdomains:
   - team-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - psychological-safety-synthetic-seed-2026-04-25
@@ -65,82 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Psychological Safety Mechanisms**
-> *Follow the flow from transparency to resilience.*
->
-> ```mermaid
-> graph TD
->   A[Transparency]
->   B[Honesty]
->   C[Better Understanding]
->   D[Enhanced Collaboration]
->   E[Constructive Conflict]
->   F[Resilience]
->   G[Effective Challenge Handling]
->   A -->|Leads to| B
->   B -->|Facilitates| C
->   C -->|Improves| D
->   D -->|Encourages| E
->   E -->|Builds| F
->   F -->|Enables| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Psychological Safety in Teams**
-> *Trace the impact from safety to team performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Feeling Safe]
->   B[Open Communication]
->   C[Constructive Dialogue]
->   D[Continuous Improvement]
->   E[Team Cohesion]
->   F[Productivity]
->   G[Complex Task Handling]
->   H[Adaptability]
->   A -->|Enables| B
->   B -->|Fosters| C
->   C -->|Leads to| D
->   D -->|Enhances| E
->   E -->|Improves| F
->   F -->|Supports| G
->   G -->|Facilitates| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Psychological Safety Components**
-> *Identify the key components that contribute to safety.*
->
-> ```mermaid
-> graph TD
->   A[Encouragement]
->   B[Valued Input]
->   C[Negative Repercussion Absence]
->   D[Empowerment]
->   E[Risk Taking]
->   F[Innovative Solutions]
->   G[Better Decision Making]
->   H[Team Cohesion]
->   I[Productivity]
->   A -->|Signals| B
->   B -->|Ensures| C
->   C -->|Fosters| D
->   D -->|Encourages| E
->   E -->|Leads to| F
->   F -->|Enhances| G
->   G -->|Improves| H
->   H -->|Increases| I
-> ```
 
 # Psychological Safety
 

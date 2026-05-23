@@ -18,7 +18,7 @@ subdomains:
   - research-methods
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - statistical-significance-synthetic-seed-2026-05-01
@@ -66,47 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Statistical Significance Process Flow**
-> *Follow the flow from data collection to hypothesis rejection.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Collection] --> B[Test Statistic]
->   B --> C[P-value Calculation]
->   C --> D[Compare P-value]
->   D -->|p < 0.05| E[Reject Null Hypothesis]
->   D -->|p >= 0.05| F[Fail to Reject]
-> ```
-
-
-> [!abstract] **Diagram 2 — Statistical Significance Interpretation Issues**
-> *Identify common misinterpretations of statistical significance.*
->
-> ```mermaid
-> graph TD
->   A["p-value < 0.05"] --> B{"Misinterpret as True Effect?\nNo Posterior Probability"}
->   C["Effect Size Neglected"] --> D{"Practical Importance Ignored"}
-> ```
-
-
-> [!abstract] **Diagram 3 — Statistical Significance in Research Contexts**
-> *See how statistical significance is applied across different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B{"Misinterpretation\nNew Teaching Method"}
->   C[Clinical Trials] --> D{"Approval of Ineffective Treatments"}
->   E[Economic Policy] --> F{"Implementation Based on Weak Evidence"}
-> ```
 
 # Statistical Significance
 

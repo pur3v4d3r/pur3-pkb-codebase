@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,54 +154,6 @@ LLMLingua Compression exemplifies the ongoing trend in prompt engineering toward
 > [!connection] **[[Token-Efficient Prompting]]** — *instance-of*
 > LLMLingua Compression is an instance of Token-Efficient Prompting, which encompasses techniques aimed at reducing the number of tokens in prompts without sacrificing task performance. LLMLingua achieves this by leveraging perplexity scores to identify and remove low-information tokens, thereby optimizing prompt efficiency. This connection highlights how LLMLingua fits within a broader category of methods designed to enhance language model interactions.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLMLingua Compression Process Flow**
-> *Follow the flow from scoring to compression.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Auxiliary Model]
->   B --> C[Perplexity Scoring]
->   C --> D[Token Removal]
->   D --> E[Compressed Prompt]
-> ```
-
-
-> [!abstract] **Diagram 2 — LLMLingua Mechanism Overview**
-> *Trace the steps from scoring to final compression.*
->
-> ```mermaid
-> graph TD
->   A[Score Tokens]
->   B[Apply Threshold]
->   C[Remove Low-Perplexity Tokens]
->   D[Achieve Compression Ratio]
->   A --> B
->   B -->|Yes| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — LLMLingua vs Naive Truncation**
-> *Compare LLMLingua's targeted removal with naive truncation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant AuxiliaryModel as AM
->   participant Prompt as P
->   U->>P: Provide Prompt
->   P->>AM: Score Tokens
->   AM-->>P: Low-Perplexity Tokens Identified
->   P->>U: Compressed Prompt
->   alt Naive Truncation
->     U->>P: Provide Prompt
->     P->>U: Truncated Prompt
->   end
-> ```
 
 # LLMLingua Compression
 

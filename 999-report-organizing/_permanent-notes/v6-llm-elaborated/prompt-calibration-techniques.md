@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,60 +168,6 @@ Prompt calibration techniques represent a critical advancement in the field of p
 > [!connection] **[[Probability Calibration]]** — *specializes*
 > Prompt calibration techniques specialize in Probability Calibration by focusing on specific biases introduced through prompts. Unlike general probability calibration methods that address model-wide miscalibration, prompt calibration targets the systematic errors arising from particular input contexts, thereby offering a more nuanced and context-sensitive approach to improving model reliability.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prompt Calibration Techniques Overview**
-> *Identify the different types of calibration techniques and their focus areas.*
->
-> ```mermaid
-> graph TD
->   A[Contextual]
->   B[Prototypical]
->   C[Verbal]
->   D[Domain]
->   A -->|Corrects label biases| E[Content-free prompt]
->   B -->|Normalizes based on typical examples| F[Positive/Negative Examples]
->   C -->|Uses linguistic confidence expressions| G[Linguistic Confidence]
->   D -->|Estimates miscalibration with in-domain data| H[In-Domain Data]
-> ```
-
-
-> [!abstract] **Diagram 2 — Calibration Techniques Comparison**
-> *Compare the focus and methods of different calibration techniques.*
->
-> ```mermaid
-> graph TD
->   A[Contextual]
->   B[Prototypical]
->   C[Verbal]
->   D[Domain]
->   A -->|Divides output probabilities by content-free prompt|
->   B -->|Normalizes based on typical positive/negative examples|
->   C -->|Uses linguistic confidence expressions for calibration|
->   D -->|Estimates miscalibration with in-domain data and applies correction function|
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Calibration Techniques**
-> *Understand the practical applications of different calibration techniques.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Document Review]
->   C[Contextual]
->   D[Prototypical]
->   E[Verbal]
->   F[Domain]
->   A -->|Ensures accurate and reliable feedback|
->   B -->|Maintains integrity of automated legal analysis|
->   C -->|Corrects general biases introduced by any prompt|
->   D -->|Targets specific types of bias related to particular examples|
->   E -->|Improves model reliability through linguistic confidence expressions|
->   F -->|Estimates and corrects miscalibration with in-domain data|
-> ```
 
 # Prompt Calibration Techniques
 

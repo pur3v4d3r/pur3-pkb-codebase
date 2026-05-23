@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,52 +150,6 @@ By recognizing and addressing Whitespace Token Effects, developers can enhance t
 > [!connection] **[[Tokenizer Sensitivity]]** — *contrasts-with*
 > While both Whitespace Token Effects and general tokenizer sensitivity relate to input handling, they differ in their specificity. Whitespace Token Effects focus on the unique challenges posed by leading spaces, whereas tokenizer sensitivity encompasses a broader range of input variations that can affect model outputs. Understanding this contrast helps practitioners identify when specialized attention is needed for whitespace issues versus more generalized tokenization concerns.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Whitespace Tokenization Process**
-> *Follow the flow from input to tokenized output, noting how leading whitespace affects tokens.*
->
-> ```mermaid
-> graph TD
->   A[Input Text] --> B[Tokenize]
->   B --> C[Output Tokens]
->   D[Leading Space] -->|Included in Token| E[Shifts Subsequent Tokens]
->   F[No Leading Space] -->|Separate Token| G[Preserves Original Sequence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact on Model Outputs**
-> *Compare the model outputs for prompts with and without leading spaces.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Tokenize]
->   B --> C[Model Process]
->   C --> D[Output Response]
->   E[Leading Space] -->|Different Tokenization| F[Altered Output]
->   G[No Leading Space] -->|Standard Tokenization| H[Consistent Output]
-> ```
-
-
-> [!abstract] **Diagram 3 — Security Risks from Whitespace Manipulation**
-> *Identify how an adversary can exploit whitespace to alter model behavior.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant Adversary as A
->   U->>A: Input Text with Space
->   A->>U: Insert Extra Whitespace
->   U->>M: Tokenize and Process
->   M-->>U: Altered Output
->   U->>A: Original Input without Space
->   A->>U: Remove Leading Whitespace
->   U->>M: Tokenize and Process
->   M-->>U: Consistent Output
-> ```
 
 # Whitespace Token Effects
 

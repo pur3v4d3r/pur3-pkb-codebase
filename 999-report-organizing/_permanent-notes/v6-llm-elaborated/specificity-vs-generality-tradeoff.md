@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -167,66 +163,6 @@ Research indicates that LLMs default to a moderate level of generality, which ca
 > [!connection] **[[Abstraction Level Control]]** — *contrasts-with*
 > While Abstraction Level Control focuses on adjusting the level of detail in outputs, Specificity vs Generality Tradeoff deals with balancing detailed instance-specific responses against broad applicability. Both concepts are crucial for effective natural language generation but address different aspects of output quality.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Specificity vs Generality Tradeoff Overview**
-> *Identify the balance between specific and general outputs.*
->
-> ```mermaid
-> graph TD
->   A[Novice]
->   B[Expert]
->   C[Moderate General]
->   D[High Specific]
->   E[High General]
->   F[Low Specific]
->   A -->|Needs More General| C
->   B -->|Needs More Specific| D
->   C -->|Default Output| E
->   C -->|Default Output| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Theory Influence**
-> *Understand how cognitive load theory affects specificity and generality.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Load]
->   B[Extraneous Load]
->   C[Cognitive Load Theory]
->   D[Specificity]
->   E[Generality]
->   F[Effective Communication]
->   A -->|Task Complexity| C
->   B -->|Poor Design| C
->   C -->|Balanced Specificity| D
->   C -->|Balanced Generality| E
->   D -->|Detailed Responses| F
->   E -->|Broadly Applicable| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications in Design**
-> *See how specificity and generality apply to instructional design.*
->
-> ```mermaid
-> graph TD
->   A[Detailed Explanations]
->   B[Broad Frameworks]
->   C[Instructional Design]
->   D[Novices]
->   E[Experts]
->   F[Effective Learning]
->   A -->|Technical Details| D
->   B -->|Conceptual Overview| E
->   C -->|Balanced Approach| A
->   C -->|Balanced Approach| B
->   D -->|Novice Needs| F
->   E -->|Expert Needs| F
-> ```
 
 # Specificity vs Generality Tradeoff
 

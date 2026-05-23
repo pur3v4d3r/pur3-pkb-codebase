@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,58 +170,6 @@ Research demonstrates that lightweight fine-tuning techniques such as LoRA can u
 > [!connection] **[[Prompt Engineering]]** — *applies-to*
 > Latent capability unlocking relies heavily on prompt engineering to bypass safety filters and task-specific constraints, thereby activating latent knowledge. Prompt engineering provides the tools and techniques necessary for crafting prompts that can unlock these capabilities efficiently.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Latent Capability Activation Process**
-> *Follow the flow from pretraining to unlocking latent capabilities.*
->
-> ```mermaid
-> graph TD
->   A[Pretraining]
->   B[Fine-tuning Constraints]
->   C[Leverage Prompts/LoRA]
->   D[Unlock Latent Capabilities]
->   A -->|Imbues Knowledge| B
->   B -->|Suppressed Capabilities| C
->   C -->|Specialized Techniques| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Latent Capability Mechanism Overview**
-> *Identify the steps from pretraining to unlocking latent capabilities.*
->
-> ```mermaid
-> graph TD
->   A[Pretraining]
->   B[Fine-tuning Constraints]
->   C[Bypass Safety Filters]
->   D[Access Pre-existing Knowledge]
->   E[Output Relevant Responses]
->   A -->|Imbues Knowledge| B
->   B -->|Suppressed Capabilities| C
->   C -->|Bypassing Techniques| D
->   D -->|Activating Latent Capabilities| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Unlocking**
-> *See how different applications utilize latent capability unlocking.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Medical Reasoning]
->   C[Leverage Educational Datasets]
->   D[Fine-tune on Medical Data]
->   E[Enhance Model Performance]
->   F[Provide Accurate Advice]
->   A -->|Tailored Content| C
->   B -->|Specialized Knowledge| D
->   C -->|Unlock Capabilities| E
->   D -->|Unlock Capabilities| F
-> ```
 
 # Latent Capability Unlocking
 

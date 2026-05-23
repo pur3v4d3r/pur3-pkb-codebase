@@ -18,7 +18,7 @@ subdomains:
   - foundations-of-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - causality-in-physics-synthetic-seed-2026-05-14
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lorentz Invariant Light Cones**
-> *Follow the light cones to see causal relationships.*
->
-> ```mermaid
-> graph TD
->   A[Event] -->|Future Light Cone| B[Causal Influence]
->   C[Event] -->|Past Light Cone| D[Causal Influence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Causality in Quantum Field Theory**
-> *Identify regions where spacelike-separated operators commute.*
->
-> ```mermaid
-> graph TD
->   A[Spacetime Point] -->|Commute| B[Distant Spacetime Point]
->   C[Non-Commuting] --> D[Signal Propagation Delay]
-> ```
-
-
-> [!abstract] **Diagram 3 — Preventing Superluminal Signals**
-> *Trace the path to see how causality prevents faster-than-light communication.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Signal Source
->   participant B as Receiver
->   A->>B: Send Signal
->   alt Speed <= Light Speed
->     B->>A: Receive Signal
->   else Speed > Light Speed
->     Note right of B: Causality Violation
->   end
-> ```
 
 # Causality In Physics
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,65 +159,6 @@ Empirical evidence supports the claim that semantically similar few-shot example
 > [!connection] **[[Text Embedding Models]]** — *applies-to*
 > Semantic Similarity in Prompts relies on Text Embedding Models to encode prompts into vector spaces, enabling the measurement of semantic similarity. This dependency underscores how text embedding models are foundational for implementing and operationalizing semantic similarity techniques.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Semantic Similarity Workflow**
-> *Follow the flow from query to semantically similar prompt selection.*
->
-> ```mermaid
-> graph TD
->   A[Query]
->   B[Embed Query]
->   C[Retrieve Examples]
->   D[Embed Examples]
->   E[Compare Embeddings]
->   F[Select Similar Prompts]
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic vs Syntactic Similarity**
-> *Notice the difference in focus between semantic and syntactic similarity.*
->
-> ```mermaid
-> graph TD
->   A[Text]
->   B{Syntactic}
->   C{Semantic}
->   D[Surface-Level Features]
->   E[Deeper Meaning]
->   F[Word Order]
->   G[Context]
->   H[Structure]
->   I[Meaning Relationships]
->   B -->|Focus| D
->   B -->|Ignores| E
->   C -->|Focus| G
->   C -->|Ignores| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Random vs Semantic Selection**
-> *Compare the outcomes of random and semantic selection methods.*
->
-> ```mermaid
-> graph TD
->   A[Query]
->   B{Random}
->   C{Semantic}
->   D[Unrelated Examples]
->   E[Related Examples]
->   F[Better Generalization]
->   G[Worse Performance]
->   H[Improved Task Completion]
->   I[Worse Task Completion]
->   B -->|Selects| D
->   B -->|Outcome| G
->   C -->|Selects| E
->   C -->|Outcome| F
->   C -->|Outcome| H
-> ```
 
 # Semantic Similarity in Prompts
 

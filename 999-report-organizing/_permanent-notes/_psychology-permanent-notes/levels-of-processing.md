@@ -22,7 +22,7 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
@@ -69,43 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Levels of Processing Framework**
-> *Follow the flow from shallow to deep processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Shallow] --> B[Semantic]
->   B --> C[Elaborative]
-> ```
-
-
-> [!abstract] **Diagram 2 — Memory Encoding Mechanism**
-> *Trace the stages from perception to elaboration.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Semantic]
->   B --> C[Elaborative]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Identify the applications in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Summarization| B[PKM]
->   B -->|Cross-Referencing| C[Memory Training]
-> ```
 
 # Levels of Processing
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,52 +158,6 @@ By enabling fine-grained control over token probabilities during inference, logi
 > [!connection] **[[Classifier-Free Guidance For Text]]** — *contrasts-with*
 > Logit bias manipulation contrasts with classifier-free guidance in that it directly modifies token probabilities, whereas classifier-free guidance uses an auxiliary classifier to condition the model's output. This distinction is important because logit bias offers precise control over individual tokens, while classifier-free guidance can influence broader aspects of text generation based on additional context.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Logit Bias Process Flow**
-> *Follow the steps from input to output, noting where bias is applied.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Tokens] --> B[Token IDs]
->   B --> C[Add Bias]
->   C --> D[Softmax]
->   D --> E[Output Probabilities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Logit Bias Applications**
-> *Identify the different applications of logit bias manipulation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(Content Moderation)
->   B --> C[Sequence Forcing]
->   A --> D[Formatting Requirements]
->   D --> E[Harmful Content Suppression]
-> ```
-
-
-> [!abstract] **Diagram 3 — Logit Bias vs Prompt Engineering**
-> *Compare logit bias manipulation with prompt engineering.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Model as M
->   participant LogitBias as LB
->   participant PromptEngineering as PE
->   U->>M: Input Text
->   alt Logit Bias
->     M->>LB: Adjust Token Probabilities
->     LB-->>M: Apply Bias
->   else Prompt Engineering
->     M->>PE: Modify Input Prompts
->     PE-->>M: New Prompt
->   end
-> ```
 
 # Logit Bias Manipulation
 

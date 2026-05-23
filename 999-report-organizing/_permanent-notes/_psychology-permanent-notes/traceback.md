@@ -21,7 +21,7 @@ subdomains:
   - ai-augmented-programming
 
 created: 2026-04-23
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - python-development-in-vscode-with-copilot-foundational-report-2026-04-19
@@ -69,62 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Traceback Structure Overview**
-> *Follow the call stack from error to initial function.*
->
-> ```mermaid
-> graph TD
->   A[Error]
->   B[Function Call]
->   C[Initial Function]
->   A -->|Exception Raised| B
->   B -->|Called By| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Traceback vs Exception Handling**
-> *Compare traceback output with exception handling flow.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant Interpreter as I
->   participant Code as C
->   U->>I: Execute code
->   I->>C: Process code
->   opt Unhandled Exception
->     C->>I: Raise exception
->     I-->>U: Traceback output
->   end
->   alt Handled Exception
->     C->>I: Catch and handle exception
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
-> *Analyze error context using high-level or detailed info.*
->
-> ```mermaid
-> graph TD
->   A[High-Level Context]
->   B[Detailed Code Info]
->   C[Error Message]
->   D[Developer Interpretation]
->   A -->|Top-Down Processing| D
->   B -->|Bottom-Up Processing| D
->   C -->|Contextual Clues| A
->   C -->|Specific Details| B
-> ```
 
 # Traceback
 

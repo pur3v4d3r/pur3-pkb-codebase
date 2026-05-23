@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,47 +167,6 @@ Balancing memorization and generalization is a critical challenge in machine lea
 > [!connection] **[[Training Data Influence]]** — *applies-to*
 > The influence of training data on a model's ability to generalize versus memorize is central to understanding the Training Data Influence concept. The quality, quantity, and diversity of training examples directly impact whether a model learns robust generalizable patterns or simply memorizes specific instances. This connection underscores the importance of thoughtful dataset curation in machine learning.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Memorization vs Generalization Spectrum**
-> *Follow the spectrum from memorization to generalization.*
->
-> ```mermaid
-> graph TD
->   A[Verbatim Memorization] --> B(Robust Generalization)
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#6f6,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of Training Data Duplication**
-> *Observe how duplication affects memorization rates.*
->
-> ```mermaid
-> flowchart LR
->   A[Single Occurrence] --> B[Moderate Memorization]
->   C[Tenfold Duplication] --> D[Huge Memorization]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#fff,stroke:#333,stroke-width:4px
->   style C fill:#ff6,stroke:#333,stroke-width:4px
->   style D fill:#6f6,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 3 — Model Capacity and Memorization**
-> *See how model size influences memorization of unique patterns.*
->
-> ```mermaid
-> graph TD
->   A[Small Model] --> B(Low Memorization)
->   C[Larger Model] --> D(High Memorization)
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#fff,stroke:#333,stroke-width:4px
->   style C fill:#ff6,stroke:#333,stroke-width:4px
->   style D fill:#6f6,stroke:#333,stroke-width:4px
-> ```
 
 # Memorization vs Generalization
 

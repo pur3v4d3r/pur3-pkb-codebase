@@ -18,7 +18,7 @@ subdomains:
   - knowledge-representation
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - knowledge-schemas-synthetic-seed-2026-04-24
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Knowledge Schema Activation Process**
-> *Follow the flow from recognition to encoding.*
->
-> ```mermaid
-> flowchart LR
->   A[Recognition] --> B[Retrieval]
->   B --> C[Application]
->   C --> D[Integration]
-> ```
-
-
-> [!abstract] **Diagram 2 — Types of Knowledge Schemas**
-> *Identify the different types and their roles.*
->
-> ```mermaid
-> graph TD
->   A[Declarative Concepts] --> B[Procedural Rules]
->   A --> C[Situational Frames]
->   A --> D[Event Scripts]
-> ```
-
-
-> [!abstract] **Diagram 3 — Schema Influence on Learning Outcomes**
-> *Trace the impact of schemas from perception to memory.*
->
-> ```mermaid
-> flowchart LR
->   A[Perception] --> B[Attention]
->   B --> C[Encoding]
->   C --> D[Memory Formation]
-> ```
 
 # Knowledge Schemas
 

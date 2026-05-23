@@ -21,7 +21,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -69,45 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System Interaction Overview**
-> *Follow the flow from System 1 to System 2 reasoning.*
->
-> ```mermaid
-> flowchart LR
->   A[Type 1 (Intuitive)] --> B[Interruption]
->   B --> C[Type 2 (Analytical)]
-> ```
-
-
-> [!abstract] **Diagram 2 — Clinical Reasoning Process**
-> *Trace the steps from initial diagnosis to final decision.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Diagnosis] --> B[Differential Checklist]
->   B --> C[Consider Alternatives]
->   C --> D[Final Decision]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Forcing Mechanism**
-> *Identify the stages where cognitive forcing functions are applied.*
->
-> ```mermaid
-> flowchart LR
->   A[Task Initiation] --> B[Intuitive Thinking]
->   B --> C[Cognitive Forcing Function]
->   C --> D[Analytical Reasoning]
-> ```
 
 # Cognitive Forcing Functions
 

@@ -16,7 +16,7 @@ subdomains:
   - galactic-morphology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - spiral-galaxy-synthetic-seed-2026-05-14
@@ -63,48 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Spiral Galaxy Hubble Sequence**
-> *Identify the classification based on bulge prominence and arm tightness.*
->
-> ```mermaid
-> graph TD
->   Sa["Prominent Bulge, Tight Arms"] --> Sc["Less Prominent Bulge, Loose Arms"]
->   Sa --> Sb["Intermediate Bulge, Intermediate Arms"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Density-Wave Theory Process**
-> *Follow the flow of material through high-density regions to understand star formation.*
->
-> ```mermaid
-> flowchart LR
->   A["Material in Disc"] --> B["Passes Through High-Density Region"]
->   B --> C["Gravitational Compression"]
->   C --> D["Star Formation in HII Regions"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Spiral Arm Kinematic Phenomenon**
-> *Observe the transient nature of spiral arms as stars and gas clouds orbit.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> A["Material in Disc"]
->   A --> B["Pass Through High-Density Region"] : Compression Wave
->   B --> C["Star Formation"]
->   C --> D["Stars Orbit Center"] : Kinematic Pattern
->   D --> E["Return to Disc"]
->   E --> F["Cycle Continues"]
-> ```
 
 # Spiral Galaxy
 

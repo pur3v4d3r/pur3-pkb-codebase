@@ -17,7 +17,7 @@ subdomains:
   - dark-matter-candidates
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - primordial-black-hole-synthetic-seed-2026-05-14
@@ -67,64 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Formation Process Overview**
-> *Follow the timeline from early universe to present day.*
->
-> ```mermaid
-> graph TD
->   A[Early Universe]
->   B[Density Fluctuations]
->   C[Gravitational Collapse]
->   D[Primordial Black Holes Formed]
->   E[Current Observations]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Observation Methods for PBHs**
-> *Identify the methods used to detect or constrain PBHs.*
->
-> ```mermaid
-> graph TD
->   A[Microlensing Events]
->   B[CMB Studies]
->   C[Dynamical Heating]
->   D[Gravitational-Wave Background]
->   E[Observations]
->   F[Constraints]
->   A -->|Detect PBHs| E
->   B -->|Probe Early Universe| E
->   C -->|Influence Galaxies| E
->   D -->|Merging Events| E
->   E -->|Narrow Down Possibilities| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Mass Ranges and Constraints**
-> *Notice the mass ranges where PBHs are still possible.*
->
-> ```mermaid
-> graph TD
->   A[10^-16 to ~10^-14 Solar Masses]
->   B[~10-100 Solar Masses]
->   C[Other Mass Ranges]
->   D[Constraints]
->   A -->|Possible PBHs| D
->   B -->|Possible PBHs| D
->   C -->|Ruled Out by Observations| D
-> ```
 
 # Primordial Black Hole
 

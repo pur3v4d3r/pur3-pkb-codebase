@@ -17,7 +17,7 @@ subdomains:
   - education
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-development-synthetic-seed-2026-05-01
@@ -73,54 +73,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Piaget's Stage Theory Overview**
-> *Follow the stages from infancy to adulthood.*
->
-> ```mermaid
-> graph TD
->   A[Sensorimotor]
->   B[Preoperational] --> C[Concrete Operational]
->   D[Formal Operational] --> E[Adulthood]
->   A --> B
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Vygotsky's ZPD Interaction Model**
-> *Observe the relationship between learner and teacher.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant Teacher as T
->   L->>T: Needs Guidance
->   T-->>L: Provides Support
->   L->>T: Achieves Task
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Development Mechanism Flow**
-> *Trace the interaction between brain maturation and experience.*
->
-> ```mermaid
-> flowchart LR
->   A[Brain Maturation]
->   B[Experience]
->   C[Cognitive Skills]
->   A -->|Enables Sophistication| D[Processing Information]
->   B -->|Provides Practice| E[Refinement]
->   D --> F[Improvement]
->   E --> F
-> ```
 
 # Cognitive Development
 

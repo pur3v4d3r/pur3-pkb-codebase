@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,54 +162,6 @@ By addressing intrinsic and extrinsic computational challenges, context window e
 > [!connection] **[[Long-context Prompting Strategies]]** — *applies-to*
 > Context window extension enables the application of long-context prompting strategies by allowing models to process longer inputs efficiently. This connection is crucial because it bridges architectural capabilities with practical prompt design, enhancing model utility in real-world applications.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Context Window Extension Mechanism**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence]
->   B[Rope Scaling]
->   C[Prediction Output]
->   A -->|Adjust Position Embeddings| B
->   B -->|Maintain Performance| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Context Window vs Positional Encoding Scale Doubling**
-> *Compare the two approaches and their outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Context Window Extension]
->   B[Positional Encoding Scale Doubling]
->   C[Performance Degradation]
->   D[Maintain Performance]
->   E[Preserve Learned Structures]
->   F[Unlearned Relationships]
->   A -->|E| D
->   B -->|F| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Applications of Context Window Extension**
-> *Identify the applications and their benefits.*
->
-> ```mermaid
-> graph TD
->   A[Document-level Reasoning]
->   B[Multi-document QA]
->   C[Long Conversation History]
->   D[Coherent Summaries]
->   E[Integrated Insights]
->   F[Natural Responses]
->   A -->|D| D
->   B -->|E| E
->   C -->|F| F
-> ```
 
 # Context Window Extension
 

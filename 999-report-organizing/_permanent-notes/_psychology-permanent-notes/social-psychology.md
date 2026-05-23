@@ -16,7 +16,7 @@ subdomains:
   - psychology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - social-psychology-synthetic-seed-2026-05-01
@@ -63,63 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Situational Forces Mechanisms**
-> *Follow the arrows to see how situational forces influence behavior through different mechanisms.*
->
-> ```mermaid
-> graph TD
->   A[Role Effects]
->   B[Audience Effects]
->   C[Normative Influence]
->   D[Framing Effects]
->   A -->|Influence Behavior| E[Situational Forces]
->   B -->|Influence Behavior| E
->   C -->|Influence Behavior| E
->   D -->|Influence Behavior| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Fundamental Attribution Error Process**
-> *Trace the flow from situational factors to personal traits to understand how attribution errors occur.*
->
-> ```mermaid
-> flowchart LR
->   A[Observing Others]
->   B[Situational Factors]
->   C[Personal Traits]
->   D[Attribution Bias]
->   A -->|Underestimate Situational Impact| B
->   A -->|Overestimate Personal Influence| C
->   B -->|Contributes Less to Behavior| D
->   C -->|Contributes More to Behavior| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Social Psychology Applications**
-> *Identify the applications in different fields by following the connections.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Marketing]
->   C[Organizational Behavior]
->   D[Situational Forces]
->   E[Role-Playing Exercises]
->   F[Social Proof & Scarcity]
->   G[Awareness of Situational Factors]
->   A -->|Use Role-Playing| E
->   B -->|Leverage Social Proof| F
->   C -->|Awareness of Roles, Audiences, Norms| G
-> ```
 
 # Social Psychology
 

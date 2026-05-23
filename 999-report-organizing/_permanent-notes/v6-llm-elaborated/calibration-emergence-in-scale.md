@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,44 +159,6 @@ The interplay between intrinsic calibration benefits from scale and potential de
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *contrasts-with*
 > Similar to instruction tuning, RLHF can also impact calibration negatively by introducing biases that favor confident responses over accurate uncertainty representation. Understanding this contrast is essential for developing robust post-tuning recalibration strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Calibration Emergence Process Flow**
-> *Follow the progression from model size to calibration improvement.*
->
-> ```mermaid
-> flowchart LR
->   A[Model Size] --> B[Data Fit]
->   B --> C[Nuanced Patterns]
->   C --> D[Probability Estimates]
->   D --> E[Calibration Improvement]
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Calibration Comparison**
-> *Compare calibration performance across different tasks before and after tuning.*
->
-> ```mermaid
-> graph TD
->   A[Knowledge-Intensive Tasks] --> B[Pre-Tuning]
->   C[Instruction Tuning] --> D[Post-Tuning]
->   E[Factual Questions] --> F[Calibration Improvement]
->   G[Verbalized Uncertainty] --> H[Overconfidence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Model Calibration Mechanisms**
-> *Identify the mechanisms contributing to calibration improvement in larger models.*
->
-> ```mermaid
-> graph TD
->   A[Increased Capacity] --> B[Nuanced Patterns]
->   C[Less Regularization] --> D[Closer Data Fit]
->   E[Nuanced Patterns] --> F[Better Calibration]
->   G[Closer Data Fit] --> H[Better Calibration]
-> ```
 
 # Calibration Emergence in Scale
 

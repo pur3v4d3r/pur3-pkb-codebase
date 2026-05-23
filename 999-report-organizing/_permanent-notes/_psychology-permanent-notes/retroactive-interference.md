@@ -17,7 +17,7 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - retroactive-interference-synthetic-seed-2026-04-25
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Retroactive Interference Process Flow**
-> *Follow the flow from new learning to recall disruption.*
->
-> ```mermaid
-> flowchart LR
->   A[New Learning] --> B[Similar Material]
->   B --> C[Competition in Memory]
->   C --> D[Recall Disruption]
-> ```
-
-
-> [!abstract] **Diagram 2 — Retroactive vs Proactive Interference**
-> *Compare the direction of interference between retroactive and proactive.*
->
-> ```mermaid
-> graph TD
->   A[Retroactive] --> B[New Learning]
->   C[Proactive] --> D[Old Material]
->   subgraph Interference
->     E[Disrupts Recall]
->   end
->   B -->|Interferes with| E
->   D -->|Interferes with| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Learning Strategies to Mitigate Retroactive Interference**
-> *Identify strategies that reduce the impact of retroactive interference.*
->
-> ```mermaid
-> flowchart LR
->   A[Interleaved Topics] --> B[Reduced Interference]
->   C[Similar Topics Consecutively] --> D[Intense Interference]
-> ```
 
 # Retroactive Interference
 

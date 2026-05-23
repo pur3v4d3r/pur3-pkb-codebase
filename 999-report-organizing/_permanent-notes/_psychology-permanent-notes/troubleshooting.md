@@ -17,7 +17,7 @@ subdomains:
   - problem-solving
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - troubleshooting-synthetic-seed-2026-05-01
@@ -65,55 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Troubleshooting Process Flow**
-> *Follow the steps from hypothesis generation to resolution.*
->
-> ```mermaid
-> flowchart LR
->   A[Observe Symptoms] --> B[Generate Hypotheses]
->   B --> C[Test Hypotheses]
->   C --> D[Narrow Down Suspect Region]
->   D --> E[Resolve Issue]
-> ```
-
-
-> [!abstract] **Diagram 2 — Hypothesis Generation Mechanism**
-> *Identify how troubleshooters use pattern-matching to form hypotheses.*
->
-> ```mermaid
-> graph TD
->   A[Observed Symptoms] --> B[Pattern Matching]
->   B --> C[Hypotheses Generated]
->   C --> D[Test Hypotheses]
-> ```
-
-
-> [!abstract] **Diagram 3 — Troubleshooting vs Generic Problem-Solving**
-> *Compare the focus on hypothesis generation in troubleshooting.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Troubleshooter as T
->   participant System as S
->   T->>S: Observe Symptoms
->   T->>T: Generate Hypotheses
->   T->>S: Test Hypotheses
->   T->>T: Narrow Down Suspect Region
->   T->>S: Resolve Issue
->   alt Generic Problem-Solving
->     T->>T: Identify Issues
->     T->>S: Apply Fixes
->   end
-> ```
 
 # Troubleshooting
 

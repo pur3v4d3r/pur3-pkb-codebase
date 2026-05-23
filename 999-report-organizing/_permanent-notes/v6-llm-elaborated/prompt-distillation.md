@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,42 +167,6 @@ Studies have shown that automated compression techniques like LLMLingua can redu
 > [!connection] **[[Prompt Summarization]]** — *contrasts-with*
 > While both prompt distillation and summarization aim to optimize input for language models, they differ in their approach. Prompt distillation focuses on reducing the length of prompts while maintaining essential information, whereas summarization involves condensing large amounts of text into shorter versions that capture key points. This distinction is crucial as it highlights different strategies for managing cognitive load and computational resources.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Prompt Distillation Process Flow**
-> *Follow the flow from initial prompt to final distillation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Ideal Length]
->   B --> C[Test Output Quality]
->   C --> D[Iterative Refinement]
->   D --> E[Automated Compression]
->   E --> F[Fine-Tuning Models]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Distillation Mechanisms Overview**
-> *Identify the different mechanisms used in prompt distillation.*
->
-> ```mermaid
-> graph TD
->   A[Iterative Refinement] --> B(Automated Compression)
->   A --> C(Fine-Tuning Models)
->   A --> D(Structural Rewriting)
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Distillation Applications**
-> *See the applications of prompt distillation in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(Cognitive Load Reduction)
->   C[High-Volume Production] --> D(Token Cost Savings)
-> ```
 
 # Prompt Distillation
 

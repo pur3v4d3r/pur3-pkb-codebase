@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,38 +157,6 @@ Indirect prompt injection poses a significant threat due to its ability to scale
 > [!connection] **[[Goal-Hijacking]]** — *applies-to*
 > Indirect prompt injection applies the concept of goal-hijacking by redirecting an LLM's objectives through external content manipulation. Unlike direct methods, indirect injection does not require altering the model’s goals directly but instead uses environmental cues to steer behavior towards malicious ends.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Indirect Prompt Injection Process Flow**
-> *Follow the flow from external content to agent behavior hijack.*
->
-> ```mermaid
-> flowchart LR
->   A[External Content] --> B[LLM Agent]
->   B --> C[Hijacked Behavior]
-> ```
-
-
-> [!abstract] **Diagram 2 — Direct vs Indirect Prompt Injection Comparison**
-> *Compare the interaction points of direct and indirect injection.*
->
-> ```mermaid
-> graph TD
->   A[Direct Injection] --> B[Model Interaction]
->   C[Indirect Injection] --> D[External Content Manipulation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Attack Surface Expansion with LLM Capabilities**
-> *Observe how increased capabilities expand the attack surface.*
->
-> ```mermaid
-> graph TD
->   A[Basic Agent] --> B[Hijack Risk]
->   C[Advanced Agent] --> D[Hijack Risk + Data Processing Risks]
-> ```
 
 # Indirect Prompt Injection
 

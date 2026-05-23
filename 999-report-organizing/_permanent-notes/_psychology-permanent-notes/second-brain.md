@@ -19,7 +19,7 @@ subdomains:
   - productivity
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - second-brain-synthetic-seed-2026-04-25
@@ -66,46 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Second Brain Workflow Overview**
-> *Follow the flow from Capture to Express phases.*
->
-> ```mermaid
-> flowchart LR
->   A[Capture] --> B[Organize]
->   B --> C[Distill]
->   C --> D[Express]
-> ```
-
-
-> [!abstract] **Diagram 2 — Second Brain Application Areas**
-> *Identify the domains where Second Brain is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Example| E[Application]
->   B[Personal Productivity] -->|Example| F[Application]
->   C[Research & Innovation] -->|Example| G[Application]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Load Reduction Mechanism**
-> *Compare intrinsic and extraneous load reduction.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> IntrinsicLoad: Traditional Offloading
->   IntrinsicLoad --> Distillation: Second Brain
->   Distillation --> ExtraneousLoadReduction: Creative Output
-> ```
 
 # Second Brain
 

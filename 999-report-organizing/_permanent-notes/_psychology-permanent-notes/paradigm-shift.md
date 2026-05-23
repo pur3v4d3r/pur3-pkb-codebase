@@ -19,7 +19,7 @@ subdomains:
   - sociology-of-science
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - paradigm-shift-synthetic-seed-2026-05-12
@@ -66,44 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Paradigm Shift Process Flow**
-> *Follow the sequence from crisis to new paradigm.*
->
-> ```mermaid
-> flowchart LR
->   A[Normal Science] --> B[Crisis]
->   B --> C[New Paradigm]
->   C --> D[Reevaluation of Data]
-> ```
-
-
-> [!abstract] **Diagram 2 — Paradigm Shift vs Incremental Change**
-> *Compare the nature of shifts and incremental changes.*
->
-> ```mermaid
-> graph TD
->   A[Incremental Change] --> B[Build Upon Existing]
->   C[Paradigm Shift] --> D[Restructure Scientific Thought]
-> ```
-
-
-> [!abstract] **Diagram 3 — Assimilation vs Accommodation**
-> *Identify the difference between fitting and restructuring.*
->
-> ```mermaid
-> graph TD
->   A[Assimilation] --> B[Fits New Observations]
->   C[Accommodation] --> D[Restructures Thought]
-> ```
 
 # Paradigm Shift
 

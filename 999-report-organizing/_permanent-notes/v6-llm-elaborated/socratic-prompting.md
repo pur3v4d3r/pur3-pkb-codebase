@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,51 +167,6 @@ In summary, Socratic Prompting stands out by fostering a disciplined approach to
 > [!connection] **[[Chain-of-Thought Prompting]]** — *contrasts-with*
 > While Chain-of-Thought Prompting guides models through explicit reasoning steps towards a solution, Socratic Prompting emphasizes the questioning process itself. This difference highlights that Socratic methods prioritize critical examination and justification over merely following a predefined path to an answer.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Socratic Prompting Process Flow**
-> *Follow the sequence of questions and answers to understand the reasoning process.*
->
-> ```mermaid
-> graph TD
->   A[Initial Question]
->   B[Subsequent Questions]
->   C[Answer Evaluation]
->   D[Refinement]
->   A --> B
->   B -->|Challenges Assumptions| C
->   C -->|Justifies Claims| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Socratic Prompting vs Other Methods**
-> *Compare Socratic Prompting with direct answer generation and free-form reasoning chains.*
->
-> ```mermaid
-> graph TD
->   A[Socratic Prompting]
->   B[Direct Answer Generation]
->   C[Free-Form Reasoning Chains]
->   A -->|Structured Questions| D[Epistemic Discipline]
->   B -->|Quick Answers| E[Lack of Justification]
->   C -->|Unstructured Exploration| F[Lack of Rigor]
-> ```
-
-
-> [!abstract] **Diagram 3 — Socratic Prompting Applications**
-> *Identify the different areas where Socratic Prompting can be applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Critical Thinking Enhancement]
->   C[Model Reasoning Improvement]
->   A -->|Guided Problem Solving|
->   B -->|Question-driven Learning|
->   C -->|Structured Thought Process|
-> ```
 
 # Socratic Prompting
 

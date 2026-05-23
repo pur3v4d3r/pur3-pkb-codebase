@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,41 +160,6 @@ Redundancy reduction in outputs is a multifaceted process that integrates princi
 > [!connection] **[[Verbosity Control in Prompts]]** — *applies-to*
 > Redundancy reduction and verbosity control are closely intertwined as both aim to refine output quality. While verbosity control focuses on managing the overall volume of text, redundancy reduction specifically targets unnecessary repetition within that text. By applying verbosity control techniques, prompts can be crafted to guide LLMs towards generating more concise outputs, thereby facilitating effective redundancy reduction.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Redundancy Reduction Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[Identify Redundant Content]
->   B --> C[Evaluate Novelty of Sentences]
->   C --> D[Remove Unnecessary Repetition]
->   D --> E[Output Optimized Text]
-> ```
-
-
-> [!abstract] **Diagram 2 — Redundancy Reduction Mechanisms**
-> *See the different methods to reduce redundancy in LLM outputs.*
->
-> ```mermaid
-> graph TD
->   A[Prompt Guidance] --> B[Explicit Instructions]
->   C[Post-Generation Deduplication] --> D[Analyze Text]
->   D --> E[Remove Redundant Sentences]
-> ```
-
-
-> [!abstract] **Diagram 3 — Pedagogical vs Unnecessary Repetition**
-> *Compare necessary pedagogical repetition with unnecessary redundancy.*
->
-> ```mermaid
-> graph TD
->   A[Necessary Pedagogical] --> B[Reinforces Key Concepts]
->   C[Unnecessary Redundancy] --> D[Detracts from Quality]
-> ```
 
 # Redundancy Reduction in Outputs
 

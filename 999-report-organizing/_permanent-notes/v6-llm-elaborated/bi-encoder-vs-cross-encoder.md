@@ -20,7 +20,7 @@ subdomains:
   - semantic-search
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - bi-encoder-vs-cross-encoder-synthetic-seed-2026-05-20
@@ -68,50 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Bi-Encoder vs Cross-Encoder Workflow**
-> *Follow the flow from query to document processing.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Bi-Encoder]
->   C[Document] --> D[Bi-Encoder]
->   E[Precomputed Embeddings] --> F[Cosine Similarity]
->   G[Query+Doc] --> H[Cross-Encoder]
->   I[Relevance Score] --> J[Reranking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Bi-Encoder vs Cross-Encoder Interaction**
-> *Compare the interaction between query and document.*
->
-> ```mermaid
-> graph TD
->   A[Bi-Encoder]
->   B[Cross-Encoder]
->   C[Query] -->|Independent Encoding| A
->   D[Document] -->|Concatenated Input| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Bi-Encoder vs Cross-Encoder Precision-Efficiency Tradeoff**
-> *Analyze the trade-off between precision and efficiency.*
->
-> ```mermaid
-> graph TD
->   A[Bi-Encoder]
->   B[Cross-Encoder]
->   C[Efficient Retrieval] -->|High Speed| A
->   D[Precise Ranking] -->|Complex Interaction| B
-> ```
 
 # Bi-Encoder vs Cross-Encoder
 

@@ -18,7 +18,7 @@ subdomains:
   - atomic-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - recombination-epoch-synthetic-seed-2026-05-14
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cosmological Epoch Timeline**
-> *Identify the Recombination Epoch's position relative to other epochs.*
->
-> ```mermaid
-> graph TD
->   BigBang["Big Bang"] --> Nucleosynthesis["Nucleosynthesis"]
->   Nucleosynthesis --> Plasma["Plasma"]
->   Plasma --> Recombination["Recombination"]
->   Recombination --> Reionization["Reionization"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Photon Decoupling Process**
-> *Follow the sequence of events leading to photon decoupling.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Plasma as P
->   participant NeutralHydrogen as H
->   participant Photons as Ph
->   P->>H: Temperature drops below 3000K
->   H-->>Ph: Electrons and protons combine into neutral hydrogen
->   Ph-->>P: Photons decouple from matter
-> ```
-
-
-> [!abstract] **Diagram 3 — CMB Radiation Origin**
-> *Trace the path of CMB photons from recombination to observation.*
->
-> ```mermaid
-> flowchart LR
->   Recombination["Recombination"] --> CMBRadiation["Cosmic Microwave Background"]
->   CMBRadiation --> Observation["Observation Today"]
-> ```
 
 # Recombination Epoch
 

@@ -16,7 +16,7 @@ subdomains:
   - stellar-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - main-sequence-star-synthetic-seed-2026-05-14
@@ -64,51 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Main Sequence Star Lifecycle**
-> *Follow the star's path from formation to main sequence.*
->
-> ```mermaid
-> graph TD
->   A[Star Formation] --> B[Pre-Main Sequence]
->   B --> C[Main Sequence]
->   C --> D[Post-Main Sequence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mass-Luminosity Relation**
-> *Observe how luminosity scales with mass.*
->
-> ```mermaid
-> graph TD
->   A[M=0.1M<sub>☉</sub>] --> B[L∝M^3.5]
->   C[M=1M<sub>☉</sub>] --> D[L∝M^3.5]
->   E[M=20M<sub>☉</sub>] --> F[L∝M^3.5]
-> ```
-
-
-> [!abstract] **Diagram 3 — Hydrogen Fusion Processes**
-> *Trace the proton-proton chain and CNO cycle reactions.*
->
-> ```mermaid
-> sequenceDiagram
->   participant P1 as p-p Chain
->   participant CNO as CNO Cycle
->   P1->>P2: p + p -> d
->   P2->>P3: d + p -> <sup>3</sup>He
->   P3->>P4: <sup>3</sup>He + <sup>3</sup>He -> He + p + p
->   CNO->>C1: C + p -> N<sup>*</sup>
->   C1->>C2: N<sup>*</sup> + p -> O<sup>*</sup>
->   C2->>C3: O<sup>*</sup> + p -> C + He
-> ```
 
 # Main Sequence Star
 

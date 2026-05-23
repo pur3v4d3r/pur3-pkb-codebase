@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,44 +160,6 @@ The key claim that Output Format Specification is a high-leverage intervention f
 > [!connection] **[[Instruction Following]]** — *applies-to*
 > Output Format Specification is a critical component of instruction following because it ensures that language models adhere strictly to the specified output format, thereby facilitating accurate and reliable execution of instructions. This alignment between model outputs and predefined formats enhances the consistency and predictability of system responses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Output Format Specification Process Flow**
-> *Follow the flow from input to structured output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Prompt Processing]
->   B --> C[Language Model Response]
->   C --> D[Format Specification]
->   D --> E[Structured Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Output Format Elements Hierarchy**
-> *Identify the hierarchical structure of output format elements.*
->
-> ```mermaid
-> graph TD
->   A[JSON Schema] --> B[Response Structure]
->   A --> C[Markdown Formatting]
->   A --> D[Section Headings]
->   A --> E[Enumeration Format]
-> ```
-
-
-> [!abstract] **Diagram 3 — Structured vs Free-form Responses Comparison**
-> *Compare the benefits and drawbacks of structured and free-form responses.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Structured as "Consistent, Machine-readable"
->   participant FreeForm as "Natural, Varied Expression"
->   note over Structured: Ensures integration without additional processing.
->   note over FreeForm: Allows for natural content generation.
-> ```
 
 # Output Format Specification
 

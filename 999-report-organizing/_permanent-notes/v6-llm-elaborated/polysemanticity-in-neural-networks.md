@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,29 +167,6 @@ The concept of polysemanticity underscores the inherent complexity and efficienc
 > [!connection] **[[Distributed Representations]]** — *prerequisites*
 > Polysemanticity relies fundamentally on distributed representations where information is spread across many neurons. Without this distribution, each neuron would likely encode only one feature, precluding polysemantiy and reducing the network's representational capacity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Polysemantic Neuron Response**
-> *Follow the arrows to see how a neuron responds to multiple features.*
->
-> ```mermaid
-> flowchart LR
->   A[Feature1] --> B[Neuron]
->   C[Feature2] --> B
->   D[Feature3] --> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Polysemantic vs Monosemantic Neurons**
-> *Compare the neuron types to understand their distinct feature representations.*
->
-> ```mermaid
-> graph TD
->   A[Neuron1] -->|FeatureA| B[Network]
->   C[Neuron2] -->|FeatureB FeatureC| D[Network]
-> ```
 
 # Polysemanticity in Neural Networks
 

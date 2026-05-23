@@ -18,7 +18,7 @@ subdomains:
   - environmental-economics
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - scope-insensitivity-synthetic-seed-2026-04-26
@@ -67,61 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Scope Insensitivity Mechanism**
-> *Follow the cognitive process from prototype to valuation.*
->
-> ```mermaid
-> graph TD
->   A[Scenario]
->   B[Affective Image]
->   C[Judgment]
->   D[Valuation]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Scope Insensitivity in Practice**
-> *Compare different scales of impact and consistent WTP.*
->
-> ```mermaid
-> flowchart LR
->   A[2000 Birds]
->   B[20000 Birds]
->   C[200000 Birds]
->   D[Willingness-to-Pay]
->   A -->|Same|
->   B -->|Same|
->   C -->|Same|
->   A --> D
->   B --> D
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Scope Insensitivity in Policy Making**
-> *Identify the challenge of misaligned policies due to bias.*
->
-> ```mermaid
-> sequenceDiagram
->   participant P[Policy Maker]
->   participant C[Conservation Effort]
->   participant W[WTP]
->   P->>C: Assess Impact
->   C-->>P: Large Scale Impact
->   P->>W: Estimate WTP
->   W-->>P: Constant WTP Regardless of Scale
-> ```
 
 # Scope Insensitivity
 

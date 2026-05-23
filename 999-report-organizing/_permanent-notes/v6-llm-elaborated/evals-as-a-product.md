@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,69 +167,6 @@ Teams that treat evals as products systematically outperform those relying on in
 > [!connection] **[[Model-Graded Evaluation]]** — *applies-to*
 > Evals as a product applies directly to model-graded evaluation by providing the framework and tools needed for systematic, continuous assessment of models. This application ensures that evaluations are not only comprehensive but also aligned with specific grading criteria.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Evals as a Product Workflow**
-> *Follow the flow from development to deployment, highlighting continuous evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Development]
->   B[Evaluation Frameworks]
->   C[Continuous Evaluation]
->   D[Feedback Loop]
->   E[Model Improvement]
->   F[Deployment]
->   G[Post-Deployment Monitoring]
->   A -->|Develop Model| B
->   B -->|Maintain and Improve| C
->   C -->|Collect Data| D
->   D -->|Improve Models| E
->   E -->|Prepare for Deployment| F
->   F -->|Monitor Performance| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Evals vs Ad-hoc Evaluations**
-> *Compare the continuous and comprehensive nature of evals as a product with one-time ad-hoc evaluations.*
->
-> ```mermaid
-> graph TD
->   A[Evals as Product]
->   B[Ad-hoc Evaluations]
->   C[Dedicated Resources]
->   D[Comprehensive Coverage]
->   E[One-time Assessment]
->   F[Limited Scope]
->   A -->|Dedicated Resources| C
->   A -->|Comprehensive Coverage| D
->   B -->|One-time Assessment| E
->   B -->|Limited Scope| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Evaluation Feedback Loop**
-> *Trace the feedback loop from evaluation to model improvement and back.*
->
-> ```mermaid
-> graph TD
->   A[Model]
->   B[Evaluation Suite]
->   C[Feedback]
->   D[Improvement]
->   E[Test Cases]
->   F[Data Collection]
->   G[Analysis]
->   H[Iteration]
->   A -->|Run Test Cases| B
->   B -->|Collect Data| F
->   F -->|Analyze Results| G
->   G -->|Generate Feedback| C
->   C -->|Improve Model| D
->   D -->|Iterate on Tests| E
-> ```
 
 # Evals as a Product
 

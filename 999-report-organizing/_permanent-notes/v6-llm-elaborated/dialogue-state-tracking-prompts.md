@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,40 +152,6 @@ Empirical evidence underscores the superiority of DST prompts over implicit stat
 > [!connection] **[[Task-Oriented Dialogue Systems]]** — *specializes*
 > DST prompts specialize within the broader domain of Task-Oriented Dialogue Systems by focusing on maintaining coherent conversation states through explicit belief state representation. This specialization is critical for ensuring that dialogue systems can effectively manage complex, multi-turn interactions without relying solely on implicit context management.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — DST Prompt Process Flow**
-> *Follow the flow from input to belief state update.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[System Interpretation]
->   B --> C[Belief State Update]
->   C --> D[System Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — DST vs Implicit Tracking**
-> *Compare DST with implicit tracking methods.*
->
-> ```mermaid
-> graph TD
->   A[DST Prompts] --> B[Structured Belief State]
->   C[Implicit Tracking] --> D[Attention Over History]
-> ```
-
-
-> [!abstract] **Diagram 3 — DST Application Areas**
-> *Identify structured task-oriented vs open-domain contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Dialogues] --> B[DST Effective]
->   C[Customer Service] --> D[DST Effective]
->   E[Open-Domain Conversations] --> F[DST Limited]
-> ```
 
 # Dialogue State Tracking Prompts
 

@@ -17,7 +17,7 @@ subdomains:
   - black-hole-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - kerr-metric-synthetic-seed-2026-05-14
@@ -66,82 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Kerr Metric Components**
-> *Identify the key components of the Kerr Metric.*
->
-> ```mermaid
-> graph TD
->   A[Mass]
->   B[Axial Symmetry]
->   C[Angular Momentum]
->   D[Ergosphere]
->   E[Frame-Dragging]
->   F[Spacetime Geometry]
->   A -->|Characterizes|
->   B -->|Symmetry|
->   C -->|Rotation|
->   D -->|Region|
->   E -->|Effect|
->   F -->|Geometry|
-> ```
-
-
-> [!abstract] **Diagram 2 — Kerr Metric vs Schwarzschild**
-> *Compare the Kerr and Schwarzschild metrics.*
->
-> ```mermaid
-> graph TD
->   A[Kerr]
->   B[Schwarzschild]
->   C[Axial Symmetry]
->   D[Rotation]
->   E[Ergosphere]
->   F[Frame-Dragging]
->   G[No Rotation]
->   H[No Ergosphere]
->   I[No Frame-Dragging]
->   A -->|Axial|
->   B -->|Spherical|
->   A -->|Rotates|
->   B -->|Static|
->   A -->|Ergosphere|
->   B -->|None|
->   A -->|Frame-Dragging|
->   B -->|None|
-> ```
-
-
-> [!abstract] **Diagram 3 — Kerr Metric Applications**
-> *Understand the applications of the Kerr Metric.*
->
-> ```mermaid
-> graph TD
->   A[Accretion Disks]
->   B[Gravitational Waves]
->   C[Ergosphere Influence]
->   D[Frame-Dragging Effects]
->   E[Radiation Output]
->   F[System Dynamics]
->   G[Mechanism Modeling]
->   H[Signal Interpretation]
->   A -->|Structure|
->   B -->|Emissions|
->   C -->|Influence|
->   D -->|Effects|
->   E -->|Output|
->   F -->|Dynamics|
->   G -->|Mechanisms|
->   H -->|Interpretation|
-> ```
 
 # Kerr Metric
 

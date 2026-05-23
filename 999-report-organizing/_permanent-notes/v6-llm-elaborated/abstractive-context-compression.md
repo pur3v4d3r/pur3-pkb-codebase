@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -173,41 +169,6 @@ Comparative studies highlight that abstractive context compression outperforms e
 > [!connection] **[[Token-Level Compression]]** — *contrasts-with*
 > Abstractive context compression contrasts with token-level compression in its approach to reducing text length. While token-level methods simply remove or replace individual words without rephrasing, abstractive techniques generate new sentences that capture the essence of the original content. This distinction is crucial as it allows for more meaningful and coherent summaries, even at higher levels of compression.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Abstractive Context Compression Process Flow**
-> *Follow the flow from input text to compressed output.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Text] --> B[NLP Model]
->   B --> C[Generate Summary]
->   C --> D[Compressed Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Abstractive vs Extractive Summarization Comparison**
-> *Compare the methods based on their output characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Input Text]
->   B[Extractive Summary] -->|Retains Fragments| A
->   C[Abstractive Summary] -->|Generates New Content| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Token-level vs Semantic Compression Comparison**
-> *Compare the methods based on their compression approach.*
->
-> ```mermaid
-> graph TD
->   A[Input Text]
->   B[Token-level Compression] -->|Removes Tokens| A
->   C[Semantic Compression] -->|Paraphrases Content| A
-> ```
 
 # Abstractive Context Compression
 

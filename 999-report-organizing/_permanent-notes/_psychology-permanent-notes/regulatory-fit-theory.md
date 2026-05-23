@@ -18,7 +18,7 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - regulatory-fit-theory-synthetic-seed-2026-04-25
@@ -67,45 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Regulatory Focus Strategies**
-> *Identify strategies aligned with promotion and prevention focuses.*
->
-> ```mermaid
-> graph TD
->   A[Promotion Focus] --> B[Eagerness]
->   C[Prevention Focus] --> D[Vigilance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Feeling Right State Mechanism**
-> *Understand the process that leads to enhanced engagement and persistence.*
->
-> ```mermaid
-> flowchart LR
->   A[Strategy Alignment] --> B['Feeling Right']
->   B --> C[Persistence]
->   B --> D[Motivation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Regulatory Fit Applications**
-> *See how Regulatory Fit Theory is applied in different fields.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B['Promotion Focus']
->   C[Marketing] --> D['Prevention Focus']
->   E[Education] --> F['Regulatory Orientations']
-> ```
 
 # Regulatory Fit Theory
 

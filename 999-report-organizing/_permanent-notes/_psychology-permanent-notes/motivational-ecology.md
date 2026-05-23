@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -69,49 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Motivational Conditions Interplay**
-> *Follow the arrows to see how different conditions support each other.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Interest] --> B[Social Belonging]
->   A --> C[Practical Relevance]
->   B --> D[Identity Commitment]
->   C --> E[Competence Satisfaction]
->   D --> F[Metacognitive Awareness]
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Adaptive Motivational System**
-> *Identify the compensatory relationships between motivational factors.*
->
-> ```mermaid
-> flowchart LR
->   A[Intrinsic Interest] -->|Weakens| B[Social Belonging]
->   C[Identity Commitment] -->|Falters| D[Practical Relevance]
->   E[Competence Satisfaction] -->|Declines| F[Metacognitive Awareness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curriculum Design Pathways**
-> *Trace the interconnected pathways for diverse motivational support.*
->
-> ```mermaid
-> graph TD
->   A[Group Projects] --> B[Social Belonging]
->   C[Real-World Applications] --> D[Practical Relevance]
->   E[Reflective Journals] --> F[Identity Commitment]
-> ```
 
 # Motivational Ecology
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,78 +170,6 @@ Sentence Transformers represent a significant leap forward in natural language p
 > [!connection] **[[Cosine Similarity]]** — *supports*
 > Sentence Transformers rely heavily on cosine similarity to measure the semantic relatedness between sentences. This connection is crucial because cosine similarity provides a computationally efficient and effective way to compare sentence embeddings, enabling Sentence Transformers to scale efficiently for large datasets.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sentence Transformer Architecture Overview**
-> *Identify the two main encoder types: bi-encoder and cross-encoder.*
->
-> ```mermaid
-> graph TD
->   A[Input Sentence]
->   subgraph Bi-Encoder
->     B1[Encode Independently]
->     C1[Produce Embedding]
->   end
->   subgraph Cross-Encoder
->     D1[Process Pairs Together]
->     E1[Compute Similarity]
->   end
->   A -->|Bi-Encoder Path| B1
->   B1 --> C1
->   A -->|Cross-Encoder Path| D1
->   D1 --> E1
-> ```
-
-
-> [!abstract] **Diagram 2 — Siamese Network for Sentence Similarity**
-> *Observe how two sentences are encoded and compared using cosine similarity.*
->
-> ```mermaid
-> graph TD
->   A[Input Sentence 1]
->   B[Input Sentence 2]
->   C[Encoder]
->   D[Embedding 1]
->   E[Embedding 2]
->   F[Cosine Similarity]
->   G[Similarity Score]
->   A -->|Sentence 1| C
->   B -->|Sentence 2| C
->   C --> D
->   C --> E
->   D -->|Embedding 1| F
->   E -->|Embedding 2| F
->   F --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Triplet Network for Semantic Embeddings**
-> *Notice the triplet structure and how it influences embedding distances.*
->
-> ```mermaid
-> graph TD
->   A[Anchor Sentence]
->   B[Positive Sentence]
->   C[Negative Sentence]
->   D[Encoder]
->   E[Embedding Anchor]
->   F[Embedding Positive]
->   G[Embedding Negative]
->   H[Cosine Similarity]
->   I[Similarity Score]
->   A -->|Anchor| D
->   B -->|Positive| D
->   C -->|Negative| D
->   D --> E
->   D --> F
->   D --> G
->   E -->|Embedding Anchor| H
->   F -->|Embedding Positive| H
->   G -->|Embedding Negative| H
->   H --> I
-> ```
 
 # Sentence Transformers
 

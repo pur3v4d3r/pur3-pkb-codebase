@@ -18,7 +18,7 @@ subdomains:
   - market-behavior
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - endowment-effect-synthetic-seed-2026-04-26
@@ -67,43 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Endowment Effect Process Flow**
-> *Follow the flow from ownership to valuation shift.*
->
-> ```mermaid
-> flowchart LR
->   A[Ownership] --> B[Perceived Loss]
->   B --> C[Increased Valuation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Endowment Effect vs Loss Aversion Comparison**
-> *Compare the specific focus of each concept.*
->
-> ```mermaid
-> graph TD
->   E[Loss Aversion] -->|Broader Concept| F[Endowment Effect]
->   F -->|Specific to Ownership| G[Increased Value]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Impact**
-> *Identify how different thinking modes affect the effect.*
->
-> ```mermaid
-> graph TD
->   H[Reactive Thinking] --> I[Stronger Effect]
->   J[Reflective Thinking] --> K[Weaker Effect]
-> ```
 
 # Endowment Effect
 

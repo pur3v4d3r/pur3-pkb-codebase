@@ -20,7 +20,7 @@ subdomains:
   - in-context-learning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - interleaved-image-text-prompting-synthetic-seed-2026-05-20
@@ -67,55 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Interleaved Prompt Sequence**
-> *Follow the sequence of image and text tokens.*
->
-> ```mermaid
-> graph TD
->   A[Image] --> B[Text]
->   B --> C[Image]
->   C --> D[Text]
->   D --> E[Analysis]
-> ```
-
-
-> [!abstract] **Diagram 2 — Interleaved vs Sequential Prompting**
-> *Compare the fixed order of sequential prompting with dynamic interleaving.*
->
-> ```mermaid
-> graph TD
->   A1[Image] --> B1[Text]
->   B1 --> C1[Analysis]
->   subgraph Interleaved
->     D2[Image] --> E2[Text]
->     F2[Text] --> G2[Image]
->     H2[Image] --> I2[Analysis]
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Interleaved vs Prefix-only Prompting**
-> *Notice the flexibility of interleaving over prefix-only.*
->
-> ```mermaid
-> graph TD
->   A1[Image] --> B1[Text]
->   subgraph Interleaved
->     C2[Image] --> D2[Text]
->     E2[Text] --> F2[Image]
->     G2[Image] --> H2[Analysis]
->   end
->   I3[Prefix Image] --> J3[Text Sequence]
-> ```
 
 # Interleaved Image-Text Prompting
 

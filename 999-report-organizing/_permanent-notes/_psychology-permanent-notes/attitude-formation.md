@@ -16,7 +16,7 @@ subdomains:
   - attitude-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - attitude-formation-synthetic-seed-2026-04-25
@@ -64,52 +64,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attitude Formation Routes**
-> *Follow the arrows to see how attitudes form through different routes.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Affective Conditioning]
->   A --> C[Behavioral Inference]
->   A --> D[Cognitive Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Attitude Strength Dimensions**
-> *Identify the dimensions that influence attitude strength.*
->
-> ```mermaid
-> graph TD
->   A[Accessibility]
->   B[Certainty]
->   C[Importance]
->   D[Behavioral Predictiveness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Attitude Formation Process Flow**
-> *Trace the flow from initial exposure to attitude formation.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Exposure]
->   A --> B[Affective Conditioning]
->   A --> C[Behavioral Inference]
->   A --> D[Cognitive Evaluation]
->   B --> E[Positive/Negative Attitude]
->   C --> F[Inferred Attitude]
->   D --> G[Evaluated Attitude]
-> ```
 
 # Attitude Formation
 

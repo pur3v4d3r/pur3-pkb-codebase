@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,65 +155,6 @@ Counterfactual Data Augmentation stands out as a powerful technique for enhancin
 > [!connection] **[[Causal Inference in Machine Learning]]** — *applies-to*
 > Counterfactual Data Augmentation leverages principles from causal inference to improve model robustness and generalizability. By focusing on causally relevant features, it aligns with the goal of causal inference to understand true underlying causes rather than mere correlations. This connection is crucial as it underscores how Counterfactual Data Augmentation can enhance machine learning models' ability to make reliable predictions in real-world scenarios.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Counterfactual Data Augmentation Process**
-> *Follow the flow from original data to counterfactual examples.*
->
-> ```mermaid
-> graph TD
->   A[Original Data]
->   B[Identify Causal Features]
->   C[Alter One Feature]
->   D[Maintain Label Correctness]
->   E[Counterfactual Examples]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Causal vs Spurious Correlations**
-> *Compare the focus on causality in counterfactual augmentation.*
->
-> ```mermaid
-> graph TD
->   A[Original Data]
->   B[Causal Features]
->   C[Spurious Correlations]
->   D[Counterfactual Augmentation]
->   E[Focus On Causality]
->   F[Ignored Patterns]
->   A -->|Causal| B
->   A -->|Non-Causal| C
->   B --> D
->   C -.-> F
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 3 — Counterfactual Example Generation Flow**
-> *Trace the steps from data to augmented examples.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Point]
->   B[Feature Selection]
->   C[Alter Feature]
->   D[Maintain Label]
->   E[Counterfactual Example]
->   A -->|Select One|
->   B
->   B -->|Change Value|
->   C
->   C -->|Verify Correctness|
->   D
->   D -->
->   E
-> ```
 
 # Counterfactual Data Augmentation
 

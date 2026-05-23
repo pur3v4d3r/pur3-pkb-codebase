@@ -18,7 +18,7 @@ subdomains:
   - dark-matter-research
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - vera-rubin-synthetic-seed-2026-05-14
@@ -65,79 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Galactic Rotation Curves Overview**
-> *Follow the curve to see how velocity changes with radius.*
->
-> ```mermaid
-> graph TD
->   A[Center]
->   B[Inner Radius] --> C[Middle Radius]
->   D[Outer Radius] --> E[Constant Velocity]
->   F[Luminous Mass]
->   G[Dark Matter]
->   H[Observed Flat Curve]
->   I(Expected Declining Curve)
->   A --> F
->   A --> G
->   B --> H
->   C --> H
->   D --> H
->   B --> I
->   C --> I
->   D --> I
-> ```
-
-
-> [!abstract] **Diagram 2 — Dark Matter's Role in Galaxy Dynamics**
-> *Trace the influence of dark matter on visible mass.*
->
-> ```mermaid
-> graph TD
->   A[Visible Stars]
->   B[Luminous Mass]
->   C[Dark Matter Halo]
->   D[Gravitational Influence]
->   E[Flat Rotation Curve]
->   F[Observed Dynamics]
->   G[Expected Dynamics]
->   A -->|Luminous Mass| B
->   B -->|Visible Gravitation| D
->   C -->|Non-Luminous Gravitation| D
->   D -->|Combined Influence| E
->   E -->|Matches Observations| F
->   A -->|Without Dark Matter| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Modeling Galaxy Dynamics with Dark Matter**
-> *Compare models including and excluding dark matter.*
->
-> ```mermaid
-> graph TD
->   A[Galactic Center]
->   B[Luminous Mass]
->   C[Dark Matter Halo]
->   D[Flat Rotation Curve]
->   E[Predicted Flat Curve with Dark Matter]
->   F[Predicted Declining Curve without Dark Matter]
->   G[Observational Data]
->   A -->|Gravitational Influence| B
->   A -->|Gravitational Influence| C
->   B --> D
->   C --> D
->   D --> E
->   D --> F
->   G --> E
-> ```
 
 # Vera Rubin
 

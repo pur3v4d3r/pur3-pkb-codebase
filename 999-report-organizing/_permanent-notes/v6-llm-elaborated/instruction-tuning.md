@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,63 +157,6 @@ Instruction tuning not only refines models for better accuracy and fairness but 
 > [!connection] **[[Parameter-Efficient Fine-Tuning]]** — *see-also*
 > Both instruction tuning and parameter-efficient fine-tuning aim to enhance model performance with minimal changes to the underlying architecture. However, while parameter-efficient methods focus on optimizing resource usage, instruction tuning specifically targets improving the model's ability to follow natural-language directives.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Instruction Tuning Process Flow**
-> *Follow the flow from dataset creation to model fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Curate Dataset]
->   B[Prepare (instruction, input, output) triples]
->   C[Fine-Tune Model]
->   D[Test Performance]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Instruction Tuning vs Reinforcement Learning**
-> *Compare the two approaches in terms of learning method and feedback source.*
->
-> ```mermaid
-> graph TD
->   A[Supervised Learning]
->   B[Reinforcement Learning]
->   C[Labeled Examples]
->   D[Environment Feedback]
->   E[Fine-Tuning Process]
->   F[Model Actions Over Time]
->   G[Curated Dataset]
->   H[Dynamic Environment]
->   A -->|Uses| C
->   B -->|Uses| D
->   A -->|Involves| E
->   B -->|Involves| F
->   E -->|With| G
->   F -->|Over| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Instruction Tuning Dataset Quality Impact**
-> *Observe the relationship between dataset quality and model performance.*
->
-> ```mermaid
-> graph TD
->   A[High-Quality Datasets]
->   B[Low-Quality Datasets]
->   C[Enhanced Performance]
->   D[Deteriorated Performance]
->   E[Fine-Tuned Model]
->   F[Fine-Tuned Model]
->   A -->|Results in| C
->   B -->|Results in| D
->   C -->|Improves| E
->   D -->|Impairs| F
-> ```
 
 # Instruction Tuning
 

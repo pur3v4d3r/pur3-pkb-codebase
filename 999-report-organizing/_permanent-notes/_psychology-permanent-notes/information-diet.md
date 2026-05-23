@@ -18,7 +18,7 @@ subdomains:
   - media-ecology
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - information-diet-synthetic-seed-2026-04-26
@@ -67,47 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Information Diet Process Flow**
-> *Follow the steps from identifying noise to pruning and integrating nutritive sources.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Noise] --> B[Systematic Removal]
->   B --> C[Integrate Nutritive Sources]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intrinsic vs Extraneous Load**
-> *Compare intrinsic load from high-quality sources with extraneous load from low-value inputs.*
->
-> ```mermaid
-> graph TD
->   A[High-Quality Sources] -->|Intrinsic Load| B[Integration]
->   C[Low-Value Inputs] -->|Extraneous Load| D[Cognitive Overload]
-> ```
-
-
-> [!abstract] **Diagram 3 — Information Diet Applications**
-> *See the different applications of an Information Diet in various contexts.*
->
-> ```mermaid
-> sequenceDiagram
->   participant InstructionalDesign as ID
->   participant ProfessionalDev as PD
->   participant MOOCs as M
->   ID->>ID: Curate High-Quality Materials
->   PD->>PD: Prune Outdated Resources
->   M->>M: Implement Spaced Retrieval
-> ```
 
 # Information Diet
 

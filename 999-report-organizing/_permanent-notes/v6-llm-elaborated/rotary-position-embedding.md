@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,55 +158,6 @@ RoPE's integration of positional information through vector rotations represents
 > [!connection] **[[Linear Algebra]]** — *prerequisites*
 > RoPE relies heavily on linear algebra concepts such as vector rotations and inner products. Understanding these mathematical operations is essential for grasping how RoPE encodes positional information within the attention mechanism.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — RoPE Mechanism Overview**
-> *Follow the flow from query/key rotation to attention computation.*
->
-> ```mermaid
-> graph TD
->   A[Query/Key Vectors]
->   B[Rotational Matrix]
->   C[Rotated Query/Key Vectors]
->   D[Attention Computation]
->   A -->|Absolute Position| B
->   B -->|Sinusoidal Function| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — RoPE vs Explicit Bias Matrices**
-> *Compare RoPE's intrinsic encoding with explicit bias matrices.*
->
-> ```mermaid
-> classDiagram
->   class QueryKey {
->     -Vector: vector[]
->     +Rotate(position)
->   }
->   class Attention {
->     +Compute(query, key)
->   }
->   class BiasMatrix {
->     +AddBias(query, key)
->   }
->   QueryKey -->|RoPE Rotate| Attention
->   QueryKey ..> BiasMatrix : Explicit Bias
-> ```
-
-
-> [!abstract] **Diagram 3 — Sequence Length Generalization**
-> *Observe the stability of attention patterns with sequence length.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Training: Sequence Length <= L
->   Training --> Stable Attention Patterns
->   Stable Attention Patterns --> Long Sequences: Sequence Length > 2L
->   Long Sequences --> Unstable Attention Patterns
-> ```
 
 # Rotary Position Embedding
 

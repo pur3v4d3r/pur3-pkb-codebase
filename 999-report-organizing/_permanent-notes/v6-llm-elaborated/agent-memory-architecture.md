@@ -68,15 +68,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,53 +170,6 @@ By integrating reflective and reactive thinking mechanisms alongside various mem
 > [!connection] **[[Episodic Memory]]** — *specializes*
 > Episodic memory specializes in storing specific past experiences, which is crucial for agents to recall context-specific details. This specialization allows agents to provide personalized and relevant responses based on historical interactions.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Memory Types Overview**
-> *Identify the different types of memories and their functions.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory]
->   B[Episodic Memory]
->   C[Sematic Memory]
->   D[Procedural Memory]
->   A -->|Immediate Tasks| E[Short-term]
->   B -->|Past Experiences| F[Past Events]
->   C -->|Factual Knowledge| G[Facts]
->   D -->|Skills and Procedures| H[How-to]
-> ```
-
-
-> [!abstract] **Diagram 2 — Memory Management Strategies**
-> *Understand the strategies used to manage memory coherence.*
->
-> ```mermaid
-> flowchart LR
->   A[Consolidation]
->   B[Prioritization]
->   C[Validation]
->   D[Conflict Resolution]
->   E[Outdated Information Removal]
->   A -->|Summarize and Compress| F[Old Info]
->   B -->|Weight Relevant Memories| G[Current Context]
->   C -->|Check Consistency| H[Retrieved Memory]
->   D -->|Resolve Conflicts| I[Coherent State]
-> ```
-
-
-> [!abstract] **Diagram 3 — Memory Types Comparison**
-> *Compare the functions and implementation mechanisms of different memory types.*
->
-> ```mermaid
-> graph TD
->   A[Working Memory] -->|Context Windows| B[Immediate Tasks]
->   C[Episodic Memory] -->|Vector Databases| D[Past Experiences]
->   E[Sematic Memory] -->|Knowledge Bases|RAG Corpora F[Factual Knowledge]
->   G[Procedural Memory] -->|Fine-tuned Models| H[Reusable Templates]I[Skills]
-> ```
 
 # Agent Memory Architecture
 

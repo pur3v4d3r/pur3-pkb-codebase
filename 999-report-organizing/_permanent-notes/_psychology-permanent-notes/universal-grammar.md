@@ -19,7 +19,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - universal-grammar-synthetic-seed-2026-05-01
@@ -68,43 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Universal Grammar Hypothesis Overview**
-> *Follow the flow from innate rules to language acquisition.*
->
-> ```mermaid
-> flowchart LR
->   A[Innate Rules] --> B[Linguistic Input]
->   B --> C[Language Acquisition]
-> ```
-
-
-> [!abstract] **Diagram 2 — Universal Grammar Mechanism Flow**
-> *Trace the process from innate constraints to rapid learning.*
->
-> ```mermaid
-> flowchart LR
->   A[Innate Constraints] --> B[Narrow Hypothesis Space]
->   B --> C[Rapid Learning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Universal Grammar Theoretical Evolution**
-> *Observe the progression of theories over time.*
->
-> ```mermaid
-> graph TD
->   A[Standard Theory] --> B[Government and Binding]
->   B --> C[Minimalism]
-> ```
 
 # Universal Grammar
 

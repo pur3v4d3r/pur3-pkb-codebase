@@ -19,7 +19,7 @@ subdomains:
   - virtue-epistemology
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - steelmanning-synthetic-seed-2026-05-12
@@ -67,44 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Steelmanning Process Flow**
-> *Follow the steps from understanding to critique.*
->
-> ```mermaid
-> flowchart LR
->   A[Understand Opponent's Position] --> B[Identify Key Premises]
->   B --> C[Strengthen Arguments]
->   C --> D[Critique Robust Version]
-> ```
-
-
-> [!abstract] **Diagram 2 — Steelmanning vs Strawmanning Comparison**
-> *Compare the approaches of steelmanning and strawmanning.*
->
-> ```mermaid
-> graph TD
->   A[Strengthen Strongest Argument] --> B[Critique Robust Position]
->   C[Weaken Weaker Argument] --> D[Attack Misrepresented Version]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
-> *Compare reflective and reactive thinking approaches.*
->
-> ```mermaid
-> graph TD
->   A[Examine & Reconstruct Arguments] --> B[Deliberate Response]
->   C[Immediate Impression] --> D[Biased Reaction]
-> ```
 
 # Steelmanning
 

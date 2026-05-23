@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,58 +160,6 @@ The theoretical underpinning of debate as an alignment technique rests on the as
 > [!connection] **[[Scalable Oversight]]** — *specializes*
 > Debate as an alignment technique specializes in Scalable Oversight by providing a method for human oversight that scales with the complexity of AI systems. Unlike other oversight methods, debate allows humans to evaluate complex decisions through structured argumentation rather than direct technical assessment.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Debate Process Flowchart**
-> *Follow the flow from AI agents to human judge.*
->
-> ```mermaid
-> flowchart LR
->   A[AI Agent 1] --> B[Argument]
->   C[AI Agent 2] --> D[Counter-Argument]
->   E[Human Judge] --> F[Judgment]
-> ```
-
-
-> [!abstract] **Diagram 2 — Debate Mechanism Overview**
-> *Identify the roles of AI agents and human judge.*
->
-> ```mermaid
-> graph TD
->   A[AI Agent 1] -->|Argue for Position| B(Human Judge)
->   C[AI Agent 2] -->|Counter-Argument| B
->   D[Honesty]
->   E[Dishonesty]
->   F[Truthfulness]
->   G[Robustness]
->   H[Human Judgment]
->   A -->|Honesty| D
->   C -->|Dishonesty| E
->   B -->|Truthfulness| F
->   B -->|Robustness| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Debate Application Areas**
-> *See the different application areas for debate technique.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Ensure Accuracy| B(Human Judge)
->   C[Legal Argumentation] -->|Robust Legal Advice| D(Human Judge)
->   E[Honest AI Agent]
->   F[Dishonest AI Agent]
->   G[Judgment]
->   H[Educational Content]
->   I[Legal Advice]
->   A -->|Honesty| E
->   C -->|Dishonesty| F
->   B -->|Judgment| G
->   A -->|Content Quality| H
->   C -->|Reliability| I
-> ```
 
 # Debate as Alignment Technique
 

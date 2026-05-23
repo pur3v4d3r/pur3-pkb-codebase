@@ -18,7 +18,7 @@ subdomains:
   - guided-generation
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - directional-stimulus-prompting-synthetic-seed-2026-05-20
@@ -66,62 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — DSP Mechanism Overview**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B[Associative Priming]
->   C[Focused Analysis]
->   D[Output]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — DSP vs Explicit Instruction**
-> *Compare the paths of DSP and explicit instruction.*
->
-> ```mermaid
-> graph TD
->   A[Input]
->   B1[Subtle Hints]
->   C1[Focused Analysis]
->   D1[Output]
->   E[Input]
->   F2[Explicit Instructions]
->   G2[Fixed Output]
->   A --> B1
->   B1 --> C1
->   C1 --> D1
->   E --> F2
->   F2 --> G2
-> ```
-
-
-> [!abstract] **Diagram 3 — DSP Applications**
-> *Identify the applications and their specific hints.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B1['Explain X in terms of Y']
->   C1[Educational Content]
->   D[Creative Writing]
->   E2['Emphasize Character Development']
->   F2[Narrative Styles]
-> ```
 
 # Directional Stimulus Prompting
 

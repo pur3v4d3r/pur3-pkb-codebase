@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -180,57 +176,6 @@ Empirical studies have shown that incorporating reflective thinking into open-do
 > [!connection] **[[Task-Oriented Dialogue Prompting]]** — *contrasts-with*
 > While task-oriented dialogue prompting focuses on achieving specific goals through conversation, open-domain dialogue systems aim to engage users in general conversations without predefined objectives. This fundamental difference shapes the design and evaluation criteria of prompts and conversation management strategies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Open-Domain Dialogue Components**
-> *Identify the key components of open-domain dialogue prompting.*
->
-> ```mermaid
-> graph TD
->   A[Persona Definition]
->   B[Interest Specification]
->   C[Conversation Style]
->   D[Safety Constraints]
->   A -->|defines character| E[Consistent Persona]
->   B -->|delineates competence| F[Broad Interests]
->   C -->|specifies formality| G[Natural Flow]
->   D -->|ensures appropriateness| H[Safe Conversations]
-> ```
-
-
-> [!abstract] **Diagram 2 — Open-Domain vs Task-Oriented Dialogue**
-> *Compare the objectives and outcomes of open-domain versus task-oriented dialogue prompting.*
->
-> ```mermaid
-> graph TD
->   A[Open-Domain]
->   B[Task-Oriented]
->   A -->|Engage in general conversations| C[No predefined goals]
->   B -->|Achieve specific tasks| D[Predefined objectives]
->   A -->|Enhance user engagement| E[Natural, coherent interactions]
->   B -->|Complete task efficiently| F[Tasks completed]
-> ```
-
-
-> [!abstract] **Diagram 3 — Dialogue Prompting Mechanism Flow**
-> *Follow the flow of designing and implementing open-domain dialogue prompts.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Persona]
->   B[Specify Interests]
->   C[Determine Style]
->   D[Set Safety Constraints]
->   E[Test Conversations]
->   F[Refine Based on Feedback]
->   A -->|defines character| B
->   B -->|delineates competence| C
->   C -->|specifies formality| D
->   D -->|ensures appropriateness| E
->   E -->|iterative refinement| F
-> ```
 
 # Open-Domain Dialogue Prompting
 

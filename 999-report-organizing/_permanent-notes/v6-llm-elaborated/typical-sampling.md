@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,53 +159,6 @@ By leveraging information-theoretic principles, typical sampling offers a nuance
 > [!connection] **[[Top-P Sampling]]** — *contrasts-with*
 > While both methods aim to improve text generation quality, they differ fundamentally in their approach. Top-p sampling uses a cumulative probability threshold to select tokens, whereas typical sampling focuses on the proximity of token probabilities to negative entropy. This contrast highlights different strategies for balancing coherence and diversity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Typical Sampling Process Flow**
-> *Follow the steps from token selection to output generation.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Rank tokens by log-probability proximity to negative entropy]
->   B --> C[Identify typical tokens]
->   C --> D[Renormalize probabilities for selected tokens]
->   D --> E[Sample a token]
->   E --> F[Generate output]
->   F --> G[End]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Top-P Sampling**
-> *Compare the focus of typical sampling and top-p sampling on token selection.*
->
-> ```mermaid
-> graph TD
->   A[Typical Sampling]
->   B[Top-P Sampling]
->   A -->|Selects tokens based on log-probability proximity to negative entropy|
->   B -->|Focuses on highest cumulative probability subset|
->   A --> C[Ensures coherence and naturalness]
->   B --> D[Aims for diversity and novelty]
-> ```
-
-
-> [!abstract] **Diagram 3 — Typical Sampling Mechanism Overview**
-> *Understand the steps involved in typical sampling's mechanism.*
->
-> ```mermaid
-> graph TD
->   A[Input Sequence]
->   B[Compute log-probabilities for all tokens]
->   C[Determine negative entropy of distribution]
->   D[Rank tokens by proximity to negative entropy]
->   E[Select typical tokens]
->   F[Renormalize probabilities]
->   G[Sample a token]
->   H[Generate output sequence]
-> ```
 
 # Typical Sampling
 

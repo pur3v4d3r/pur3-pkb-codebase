@@ -18,7 +18,7 @@ subdomains:
   - theoretical-cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - anthropic-principle-synthetic-seed-2026-05-14
@@ -65,57 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Weak vs Strong Anthropic Principle**
-> *Compare the methodological caution of weak form with the speculative nature of strong form.*
->
-> ```mermaid
-> graph TD
->   A[Weak Form]
->   B[Strong Form]
->   A -->|Methodological Caution| C[Observational Selection Effects]
->   B -->|Speculative Explanation| D[Fine-Tuning in Universe]
-> ```
-
-
-> [!abstract] **Diagram 2 — Anthropic Principle Flowchart**
-> *Follow the flow from observational selection to fine-tuning explanations.*
->
-> ```mermaid
-> flowchart LR
->   A[Observational Selection]
->   B[Fine-Tuned Parameters]
->   C[Multiverse Theories]
->   A -->|Weak Form| B
->   B -->|Strong Form| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Anthropic Principle Taxonomy**
-> *Explore the hierarchical relationship between different aspects of the principle.*
->
-> ```mermaid
-> graph TD
->   A[Anthropic Principle]
->   B[Weak Form]
->   C[Strong Form]
->   D[Fine-Tuning Parameters]
->   E[Multiverse Theories]
->   F[Observational Selection Effects]
->   A -->|Core Concept| B
->   A -->|Core Concept| C
->   C -->|Explanation| D
->   C -->|Explanation| E
->   B -->|Implication| F
-> ```
 
 # Anthropic Principle
 

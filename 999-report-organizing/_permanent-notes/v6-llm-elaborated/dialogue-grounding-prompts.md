@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,32 +153,6 @@ Dialogue grounding prompts are a foundational element of effective AI-driven con
 > [!connection] **[[Dialogue State Tracking Prompts]]** — *contrasts-with*
 > Dialogue grounding prompts focus on clarifying ambiguous inputs to ensure mutual understanding at the moment of interaction, whereas dialogue state tracking prompts aim to maintain an accurate record of the conversation's context and progress over time. This contrast highlights that while both are crucial for effective communication, they address different aspects of conversational clarity.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Dialogue Grounding Process Flow**
-> *Follow the flow from user input to system confirmation.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[System Interpretation]
->   B --> C[Prompt for Clarification]
->   C --> D[User Confirmation]
->   D --> E[System Action]
-> ```
-
-
-> [!abstract] **Diagram 2 — Dialogue Grounding vs Coreference Resolution**
-> *Compare the focus areas of dialogue grounding and coreference resolution.*
->
-> ```mermaid
-> graph TD
->   A[Dialogue Grounding]
->   B(Coreference Resolution)
->   A -->|Clarify Ambiguities| C[User Interaction]
->   B -->|Resolve References| D[Text Analysis]
-> ```
 
 # Dialogue Grounding Prompts
 

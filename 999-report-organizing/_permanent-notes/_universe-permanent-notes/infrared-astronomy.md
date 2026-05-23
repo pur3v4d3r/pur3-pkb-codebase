@@ -16,7 +16,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - infrared-astronomy-synthetic-seed-2026-05-14
@@ -63,52 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Infrared Astronomy Wavelength Range**
-> *Identify the wavelength range of infrared astronomy.*
->
-> ```mermaid
-> graph TD
->   A[0.7 micrometers] --> B[1 millimeter]
->   A --> C[Thermal Emission]
->   B --> D[Cool Objects]
-> ```
-
-
-> [!abstract] **Diagram 2 — Infrared Astronomy Applications**
-> *Understand the key applications of infrared astronomy.*
->
-> ```mermaid
-> flowchart LR
->   A[Star Formation] --> B[Dust Clouds]
->   C[Exoplanet Atmospheres] --> D[Spectral Analysis]
->   E[Highly Reddened Lines] --> F[Infrared Penetration]
-> ```
-
-
-> [!abstract] **Diagram 3 — Space-Based Infrared Telescopes**
-> *See the sequence of space-based infrared telescopes.*
->
-> ```mermaid
-> sequenceDiagram
->   participant IRAS as I
->   participant ISO as S
->   participant Spitzer as P
->   participant Herschel as H
->   participant JWST as J
->   I->>S: Successor
->   S->>P: Successor
->   P->>H: Successor
->   H->>J: Successor
-> ```
 
 # Infrared Astronomy
 

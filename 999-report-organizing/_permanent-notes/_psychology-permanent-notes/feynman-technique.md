@@ -17,7 +17,7 @@ subdomains:
   - metacognition
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - feynman-technique-synthetic-seed-2026-04-26
@@ -64,49 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Feynman Technique Process Flow**
-> *Follow the steps from selecting a concept to mastering it.*
->
-> ```mermaid
-> flowchart LR
->   A[Select Concept] --> B[Explain Simply]
->   B --> C[Identify Gaps]
->   C --> D[Fill Gaps]
->   D --> E[Repeat Explanation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Feynman Technique Cognitive Process**
-> *Trace the cognitive steps from initial understanding to mastery.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Understanding] --> B[Translation]
->   B --> C[Gap Identification]
->   C --> D[Filling Gaps]
->   D --> E[Mastery]
-> ```
-
-
-> [!abstract] **Diagram 3 — Feynman Technique Applications**
-> *See how the technique is applied in instructional design and personal development.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Create Modules]
->   C[Personal Development] --> D[Break Down Skills]
->   B --> E[Enhance Understanding]
->   D --> F[Identify Strengths & Weaknesses]
-> ```
 
 # Feynman Technique
 

@@ -17,7 +17,7 @@ subdomains:
   - journaling
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - interstitial-journaling-synthetic-seed-2026-04-25
@@ -64,52 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Task Transition Flow**
-> *Follow the flow from one task to another, noting journaling points.*
->
-> ```mermaid
-> flowchart LR
->   A[Previous Task] --> B{Attention Decoupling}
->   B -->|Yes| C[Jot Down Notes]
->   C --> D[Next Task]
->   B -->|No| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Journaling Mechanism Overview**
-> *Trace the process from attention shift to journal entry and reorientation.*
->
-> ```mermaid
-> flowchart LR
->   A[Attention Shift] --> B[Jot Down Notes]
->   B --> C[Reorient Attention]
->   C --> D[Next Task]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Areas Comparison**
-> *Compare how interstitial journaling is applied in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] -->|Reflect and Plan|
->   B[Project Management] -->|Document Tasks and Priorities|
->   C[Personal Development] -->|Self-Reflection and Goal Setting|
->   subgraph Interstitial Journaling
->     A
->     B
->     C
->   end
-> ```
 
 # Interstitial Journaling
 

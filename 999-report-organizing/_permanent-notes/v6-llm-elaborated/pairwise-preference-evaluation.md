@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,36 +157,6 @@ Pairwise preference evaluation stands out as a robust method for comparative ass
 > [!connection] **[[Elo Rating System]]** — *applies-to*
 > The Elo rating system is integral to pairwise preference evaluation as it provides a structured method for aggregating individual judgments into meaningful rankings. By treating each comparison as a match in a hypothetical tournament, the Elo system ensures that model ratings are updated based on performance relative to other models, thereby reflecting changes in perceived quality over time.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Pairwise Evaluation Process Flow**
-> *Follow the flow from input to final ranking.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B[Evaluator]
->   B --> C[Choose Preferred Output]
->   C --> D[Ratings Aggregation]
->   D --> E[Global Ranking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Tournament-Style Ranking Methods**
-> *See how Elo ratings update after each comparison.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Evaluator as E
->   participant Model1 as M1
->   participant Model2 as M2
->   participant Aggregator as A
->   E->>M1: Show Output
->   E->>M2: Show Output
->   E->>A: Choose Preferred
->   A-->>E: Elo Rating Update
-> ```
 
 # Pairwise Preference Evaluation
 

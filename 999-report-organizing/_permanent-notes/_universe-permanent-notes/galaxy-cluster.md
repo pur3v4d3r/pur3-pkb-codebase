@@ -17,7 +17,7 @@ subdomains:
   - cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - galaxy-cluster-synthetic-seed-2026-05-14
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Galaxy Cluster Composition**
-> *Identify the major components and their mass percentages.*
->
-> ```mermaid
-> graph TD
->   A[Dark Matter]
->   B[Intracluster Gas]
->   C[Stars in Galaxies]
->   A -->|85%| D[Total Mass]
->   B -->|12%| D
->   C -->|3%| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Galaxy Cluster Dynamics**
-> *Trace the flow of mass and energy within a cluster.*
->
-> ```mermaid
-> flowchart LR
->   A[Dark Matter Halo] --> B[Gravitational Potential]
->   C[Galaxies] -->|Orbits| B
->   D[Intracluster Gas] -->|Pressure| B
->   E[X-ray Emissions] --> F[Thermal Energy]
->   G[Non-thermal Pressures] --> H[Complex Dynamics]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cluster vs Supercluster**
-> *Understand the hierarchical relationship between clusters and superclusters.*
->
-> ```mermaid
-> graph TD
->   A[Galaxy Cluster]
->   B[Supercluster] -->|Contains| C{Multiple}
->   C --> D[Clusters]
->   C --> E[Groups of Galaxies]
-> ```
 
 # Galaxy Cluster
 

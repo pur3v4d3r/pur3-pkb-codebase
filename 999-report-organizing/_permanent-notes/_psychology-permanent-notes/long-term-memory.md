@@ -18,7 +18,7 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - long-term-memory-synthetic-seed-2026-04-24
@@ -66,67 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Long-Term Memory Structure**
-> *Identify the main components of Long-Term Memory.*
->
-> ```mermaid
-> graph TD
->   A[Schema]
->   B[Episodic Memory]
->   C[Semantic Knowledge]
->   D[Procedural Skills]
->   A -->|Organizes| E[LTM]
->   B -->|Personal Experiences| E
->   C -->|Factual Information| E
->   D -->|Skills| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Retrieval Practice Process**
-> *Follow the flow of information during retrieval practice.*
->
-> ```mermaid
-> flowchart LR
->   A[Stored Information]
->   B[Retrieval Attempt]
->   C[Partial Reconstruction]
->   D[Modification]
->   E[Consolidation]
->   F[Potential Distortion]
->   A -->|Recall Triggered| B
->   B -->|Partial Recall| C
->   C -->|Schema Update| D
->   D -->|Strengthening| E
->   D -->|Distortion| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Expertise Development Process**
-> *Understand the steps to develop expertise through LTM.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Learning]
->   B[Schema Construction]
->   C[Repeated Retrieval]
->   D[Enhanced Schema]
->   E[Efficient Processing]
->   F[Expertise]
->   A -->|Building Initial Knowledge| B
->   B -->|Practice and Recall| C
->   C -->|Refinement of Schemas| D
->   D -->|Simplified Problem Solving| E
->   E -->|Achieved Expertise| F
-> ```
 
 # Long-Term Memory
 

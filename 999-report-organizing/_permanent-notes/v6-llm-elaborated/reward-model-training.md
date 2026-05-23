@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -182,45 +178,6 @@ Empirical evidence highlights that reward model accuracy on held-out preferences
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > Reward model training is a critical component of RLHF, serving as the bridge between human preferences and automated policy improvement. By translating pairwise comparisons into scalar scores, reward models provide a continuous feedback signal that guides reinforcement learning algorithms in optimizing language model outputs. This connection underscores how reward model accuracy directly impacts the effectiveness of downstream policies.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reward Model Training Process Flow**
-> *Follow the flow from initialization to fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initialize from SFT checkpoint] --> B[Fine-tune on preference data]
->   B --> C[Predict preferred completions]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reward Model Training Mechanism**
-> *Trace the steps of training with Bradley-Terry loss.*
->
-> ```mermaid
-> flowchart LR
->   A[Human evaluators compare pairs] --> B[Reward model assigns scores]
->   B --> C[Update parameters based on ranking loss]
-> ```
-
-
-> [!abstract] **Diagram 3 — Reward Model vs Direct Preference Optimization**
-> *Compare the approaches to improving language models.*
->
-> ```mermaid
-> classDiagram
->   class RewardModel {
->     +Bradley-Terry ranking loss
->     +Proxy reward function
->   }
->   class DirectPreferenceOptimization {
->     +Explicit feedback optimization
->     +Direct policy improvement
->   }
->   RewardModel -->|More scalable but may suffer from distribution shift| DirectPreferenceOptimization
-> ```
 
 # Reward Model Training
 

@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,46 +170,6 @@ Rejection sampling fine-tuning stands out as a self-improvement mechanism within
 > [!connection] **[[Direct Preference Optimization]]** — *contrasts-with*
 > RST and Direct Preference Optimization (DPO) both aim to improve model performance but differ in their feedback mechanisms. DPO relies on explicit human preferences for training, whereas RST uses internal model completions scored by a verification or reward model. This distinction highlights the autonomy of RST in learning from its own best performances without direct human intervention.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Rejection Sampling Process Flow**
-> *Follow the iterative cycle from generation to fine-tuning.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Candidates] --> B[Score Completions]
->   B --> C{Top-Scoring?}
->   C -- Yes --> D[Fine-Tune Model]
->   C -- No --> E[Discard]
->   D --> F[Next Iteration]
->   F --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — RST vs RLHF Comparison**
-> *Compare the feedback sources in RST and RLHF.*
->
-> ```mermaid
-> graph TD
->   A[RST] --> B[Internal Best Performances]
->   C[RLHF] --> D[External Human Feedback]
->   E{Feedback Source}
->   E -- Internal --> A
->   E -- External --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — RST Application Areas**
-> *Identify the tasks where RST is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[RST]
->   C[Math Problem Solving] --> B
->   D[Code Generation] --> B
-> ```
 
 # Rejection Sampling Fine-Tuning
 

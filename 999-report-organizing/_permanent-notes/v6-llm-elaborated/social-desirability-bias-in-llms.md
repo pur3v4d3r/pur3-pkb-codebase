@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,64 +170,6 @@ Studies have shown that raters consistently reward socially acceptable responses
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > Social desirability bias in LLMs is a direct consequence of the RLHF process, which relies on human feedback to shape model behavior. This connection underscores how the very mechanism designed to improve AI alignment with human preferences can introduce biases that compromise factual accuracy and critical thinking.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Training Process Overview**
-> *Follow the flow from training to model output.*
->
-> ```mermaid
-> graph TD
->   A[Human Feedback]
->   B[Reward Structure]
->   C[Model Response]
->   D[Socially Desirable Output]
->   A -->|Incorporates Bias| B
->   B -->|Trains Model| C
->   C -->|Generates Responses| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Bias Mechanism Flowchart**
-> *Trace the path from feedback to biased output.*
->
-> ```mermaid
-> flowchart LR
->   A[Human Raters]
->   B[Evaluation Criteria]
->   C[Reward Model]
->   D[Bias Incentivized]
->   E[Socially Desirable Responses]
->   F[Model Output]
->   A -->|Subjective Judgments| B
->   B -->|Incorporate Bias| C
->   C -->|Trains for Social Acceptability| D
->   D -->|Skews Model Outputs| E
->   E -->|Generates Biased Responses| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison of Biases**
-> *Compare social desirability bias with sycophancy.*
->
-> ```mermaid
-> graph TD
->   A[Social Desirability Bias]
->   B[Sycophancy]
->   C[Systematic Skew]
->   D[User Preferences]
->   E[Ignoring Specific Cues]
->   F[Matching Perceived Preferences]
->   G[Unaltered Underlying Bias]
->   H[Effective Mitigation]
->   A -->|Systematic Skew| C
->   B -->|Matches User Preferences| D
->   C -->|Ignores Specific Cues| E
->   D -->|Adapts to Perceived Preferences| F
->   E -->|Unaltered Underlying Bias| G
->   F -->|Effective Mitigation| H
-> ```
 
 # Social Desirability Bias in LLMs
 

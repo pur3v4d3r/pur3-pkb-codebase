@@ -18,7 +18,7 @@ subdomains:
   - structure-formation
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - galaxy-merger-synthetic-seed-2026-05-14
@@ -65,53 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Galaxy Merger Types Overview**
-> *Identify minor and major merger categories.*
->
-> ```mermaid
-> graph TD
->   A[Minor Mergers]
->   B[Major Mergers]
->   A -->|Mass Ratio > 4:1| C[Morphology Perturbation]
->   B -->|Mass Ratio <= 4:1| D[Morphological Transformation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Galaxy Merger Impact on Star Formation**
-> *Trace the impact of mergers on star formation rates.*
->
-> ```mermaid
-> flowchart LR
->   A[Interstellar Gas Compression]
->   B[Intense Starbursts]
->   C[Rapid Star Formation]
->   D[Enriched Interstellar Medium]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 3 — Galactic Evolution Through Mergers**
-> *Follow the hierarchical assembly of galaxies.*
->
-> ```mermaid
-> graph TD
->   A[Smaller Galaxies]
->   B[Larger Galaxies]
->   C[Massive Galaxies]
->   A -->|Minor/Major Mergers| B
->   B -->|Further Mergers| C
-> ```
 
 # Galaxy Merger
 

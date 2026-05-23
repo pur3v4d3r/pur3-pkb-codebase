@@ -18,7 +18,7 @@ subdomains:
   - analogical-reasoning
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - analogical-prompting-synthetic-seed-2026-05-20
@@ -68,51 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Analogical Prompting Process Flow**
-> *Follow the steps from input to output, noting the two-step reasoning process.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Problem] --> B[Identify Analogies]
->   B --> C[Generate Analogous Examples]
->   C --> D[Scaffold Solution]
->   D --> E[Output Solution]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Prompting Techniques**
-> *Compare the different approaches to see how Analogical Prompting differs from traditional methods.*
->
-> ```mermaid
-> graph TD
->   A[Traditional Few-Shot]
->   B[Direct Instruction]
->   C[Analogical Prompting]
->   A -->|Hand-Crafted Examples| D[Fixed Approach]
->   B -->|No Analogy Generation| E[Static Guidance]
->   C -->|Self-Generated Analogies| F[Flexible and Contextual]
-> ```
-
-
-> [!abstract] **Diagram 3 — Analogical Reasoning Mechanism**
-> *Trace the flow from problem identification to solution generation, highlighting internal knowledge retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem Identification] --> B[Internal Knowledge Retrieval]
->   B --> C[Relevant Analogies Identified]
->   C --> D[Scaffolded Reasoning Process]
->   D --> E[Solution Generation]
-> ```
 
 # Analogical Prompting
 

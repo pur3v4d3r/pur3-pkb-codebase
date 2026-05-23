@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,42 +158,6 @@ Empirical evidence consistently shows that well-aligned models outperform poorly
 > [!connection] **[[Instruction Following Emergence]]** — *applies-to*
 > The model capability versus alignment gap applies to the emergence of instruction following because it directly influences how well a model can adhere to given instructions while maintaining its broader capabilities. Understanding this gap is crucial for developing models that can reliably follow complex instructions without losing their ability to perform other tasks.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Model Capability vs. Alignment Gap Overview**
-> *Follow the flow from full capability to alignment gap.*
->
-> ```mermaid
-> flowchart LR
->   A[Full Model Capabilities] --> B[Fine-Tuning for Safety]
->   B --> C[Enhanced Instruction Following]
->   B --> D[Restricted Unrestricted Content Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Alignment Techniques Impact on Tasks**
-> *Identify how different tasks are affected by alignment techniques.*
->
-> ```mermaid
-> graph TD
->   A[Instruction Following] --> B[Enhanced]
->   C[Content Generation] --> D[Restricted]
->   E[Response Formatting] --> F[Enhanced]
-> ```
-
-
-> [!abstract] **Diagram 3 — Capability Redistribution Dynamics**
-> *Trace the redistribution of capabilities under safety constraints.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> FullCapabilities : Start
->   FullCapabilities --> SafetyConstraints : Fine-Tuning
->   SafetyConstraints --> EnhancedInstructionFollowing : Capability Shift
->   SafetyConstraints --> RestrictedContentGeneration : Capability Restriction
-> ```
 
 # Model Capability vs. Alignment Gap
 

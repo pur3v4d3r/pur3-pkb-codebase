@@ -18,7 +18,7 @@ subdomains:
   - social-cognition
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - implicit-theories-synthetic-seed-2026-05-01
@@ -67,62 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Implicit Theories Influence Pathway**
-> *Follow the path from appraisal to attribution and effort.*
->
-> ```mermaid
-> graph TD
->   A[Appraisal]
->   B[Attribution]
->   C[Effort & Coping Strategies]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Fixed vs Growth Mindset Behaviors**
-> *Compare behaviors driven by fixed and growth mindsets.*
->
-> ```mermaid
-> graph TD
->   F[Fixed Mindset]
->   G[Growth Mindset]
->   FA[Avoid Challenges]
->   FB[Easily Give Up]
->   GA[Persist & Learn]
->   GB[Take Risks]
->   F --> FA
->   F --> FB
->   G --> GA
->   G --> GB
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact on Emotional Responses**
-> *Trace the emotional responses from fixed to growth mindsets.*
->
-> ```mermaid
-> graph TD
->   FM[Fixed Mindset]
->   GM[Growth Mindset]
->   FA[Anxiety/Shame]
->   FB[Learning Opportunity]
->   GA[Effort & Persistence]
->   GB[Constructive Feedback]
->   FM --> FA
->   FM --> FB
->   GM --> GA
->   GM --> GB
-> ```
 
 # Implicit Theories
 

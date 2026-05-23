@@ -18,7 +18,7 @@ subdomains:
   - software-engineering
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - usability-engineering-synthetic-seed-2026-05-01
@@ -69,45 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Usability Engineering Process Flow**
-> *Follow the flow from analysis to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[User-Centered Analysis] --> B[Iterative Design]
->   B --> C[Empirical Evaluation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Usability Engineering Iteration Loop**
-> *Observe the feedback loop between design and evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Prototype] --> B[Test]
->   B --> C[Feedback]
->   C --> D[Refine Design]
->   D --> A
-> ```
-
-
-> [!abstract] **Diagram 3 — Usability Evaluation Methods**
-> *Identify the different evaluation techniques used.*
->
-> ```mermaid
-> graph TD
->   A[Heuristic Evaluation] --> B[Thinking-Aloud Protocols]
->   B --> C[Quantitative Usability Testing]
-> ```
 
 # Usability Engineering
 

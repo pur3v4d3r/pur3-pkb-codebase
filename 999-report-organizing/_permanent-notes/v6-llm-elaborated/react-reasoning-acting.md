@@ -62,15 +62,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -170,45 +166,6 @@ By integrating reasoning with action execution, ReAct Reasoning Acting not only 
 > [!connection] **[[Chain-of-Thought Prompting]]** — *contrasts-with*
 > While Chain-of-Thought Prompting focuses on guiding the reasoning process through a series of logical steps without external action calls, ReAct Reasoning Acting integrates these steps with explicit actions. This contrast highlights how ReAct addresses limitations in purely cognitive approaches by grounding decisions in real-world evidence.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — ReAct Process Flow**
-> *Follow the sequence from reasoning to action and back.*
->
-> ```mermaid
-> flowchart LR
->   A[Reasoning Step] --> B[Action Call]
->   B --> C[Result Interpretation]
->   C --> D[Next Reasoning Step]
-> ```
-
-
-> [!abstract] **Diagram 2 — ReAct vs Chain-of-Thought**
-> *Compare the integration of actions in ReAct with pure reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Chain-of-Thought] --> B[Reasoning]
->   C[ReAct] --> D[Reasoning]
->   D --> E[Action Call]
->   E --> F[Result Interpretation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios**
-> *Identify the steps in instructional design and customer service.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Reasoning]
->   B --> C[Action Call]
->   C --> D[Result Interpretation]
->   E[Customer Service] --> F[Reasoning]
->   F --> G[Action Call]
->   G --> H[Result Interpretation]
-> ```
 
 # ReAct Reasoning Acting
 

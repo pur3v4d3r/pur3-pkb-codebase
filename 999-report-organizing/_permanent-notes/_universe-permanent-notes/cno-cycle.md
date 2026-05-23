@@ -17,7 +17,7 @@ subdomains:
   - nuclear-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cno-cycle-synthetic-seed-2026-05-14
@@ -64,71 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cno Cycle Process Flow**
-> *Follow the sequence of reactions from hydrogen to helium.*
->
-> ```mermaid
-> graph TD
->   A[1H] --> B[C-12]
->   B --> C[N-13]
->   C --> D[C-13]
->   D --> E[N-14]
->   E --> F[O-15]
->   F --> G[N-14]
->   F --> H[F-15]
->   H --> I[O-16]
->   I --> J[N-17]
->   J --> K[C-14]
->   J --> L[O-18]
->   L --> M[N-17]
->   N[C-15] --> O[N-13]
->   O --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Cno Cycle Temperature Dependence**
-> *Observe how the energy generation rate scales with temperature.*
->
-> ```mermaid
-> graph TD
->   A[Low T] --> B[ε ∝ T^17]
->   C[High T] --> D[ε ∝ T^17]
->   subgraph Low Temperature
->     A
->   end
->   subgraph High Temperature
->     C
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Cno Cycle vs Proton-Proton Chain**
-> *Compare the conditions and elements required for each cycle.*
->
-> ```mermaid
-> classDiagram
->   class CnoCycle {
->     +carbon, nitrogen, oxygen: catalysts
->     +hydrogenToHelium: fusion process
->     +T^17: energy generation rate scaling
->   }
->   class ProtonProtonChain {
->     -catalysts: none required
->     +hydrogenToHelium: fusion process
->     +T^4: energy generation rate scaling
->   }
->   CnoCycle -->|requires metals| HighMassStars
->   ProtonProtonChain -->|operates without metals| LowMassStars
-> ```
 
 # Cno Cycle
 

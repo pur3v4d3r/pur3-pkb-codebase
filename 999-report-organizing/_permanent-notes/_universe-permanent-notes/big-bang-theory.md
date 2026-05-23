@@ -18,7 +18,7 @@ subdomains:
   - theoretical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - big-bang-theory-synthetic-seed-2026-05-14
@@ -66,56 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Big Bang Expansion Process**
-> *Follow the timeline from singularity to expansion.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Singularity
->   Singularity --> RapidExpansion : Inflation
->   RapidExpansion --> Cooling : Expansion and Cooling
->   Cooling --> StructureFormation : Matter Formation
-> ```
-
-
-> [!abstract] **Diagram 2 — Evidence Supporting Big Bang Theory**
-> *Identify the three main pillars of evidence.*
->
-> ```mermaid
-> graph TD
->   A[Expansion of Universe] --> B[CMB Radiation]
->   C[Primordial Abundance] --> D[Light Elements]
->   E[Hubble's Law] --> F[Galaxy Redshifts]
->   B --> G[Uniformity Across Sky]
->   D --> H[Predicted Abundances]
-> ```
-
-
-> [!abstract] **Diagram 3 — Big Bang vs Steady-State Models**
-> *Compare the key differences between models.*
->
-> ```mermaid
-> classDiagram
->   class BigBang {
->     +Expansion of Space
->     +No Pre-existing Space
->     +Origin from Singularity
->   }
->   class SteadyState {
->     +Continuous Creation of Matter
->     +No Beginning or End
->     +Uniform Distribution
->   }
-> ```
 
 # Big Bang Theory
 

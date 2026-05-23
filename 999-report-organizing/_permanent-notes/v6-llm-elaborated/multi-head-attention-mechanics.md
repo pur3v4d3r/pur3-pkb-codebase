@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,57 +158,6 @@ Empirical analysis consistently shows that different heads in multi-head attenti
 > [!connection] **[[Scaled Dot-Product Attention]]** — *specializes*
 > Multi-head attention specializes in scaled dot-product attention by applying it across multiple heads. This specialization allows each head to focus on different aspects of the input, thereby enriching the model's ability to capture complex relationships within data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Multi-head Attention Process Flow**
-> *Follow the flow from input to final output through multiple heads.*
->
-> ```mermaid
-> graph TD
->   A[Input] --> B[Linear Projection]
->   B --> C{Multiple Heads}
->   subgraph Head1
->     D[Query, Key, Value]
->     E[Scaled Dot-Product Attention]
->     F[Weighted Sum]
->   end
->   subgraph Head2
->     G[Query, Key, Value]
->     H[Scaled Dot-Product Attention]
->     I[Weighted Sum]
->   end
->   C --> J[Concatenate Outputs]
->   J --> K[Transform Output Matrix]
->   K --> L[Final Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Scaled Dot-Product Attention Mechanism**
-> *Trace the steps from query-key interaction to final output.*
->
-> ```mermaid
-> graph TD
->   A[Query] --> B{Key}
->   C[Dot Product]
->   D[Scale by sqrt(d_k)]
->   E[Softmax]
->   F[Attention Weights]
->   G[Value] --> H[Multiply Attention Weights]
->   I[Sum of Weighted Values]
-> ```
-
-
-> [!abstract] **Diagram 3 — Multi-head Attention Taxonomy**
-> *Identify the relationship between different attention mechanisms.*
->
-> ```mermaid
-> graph TD
->   A[Single-Head Attention] --> B[MHA]
->   C[Cross-Attention] --> B
->   D[Self-Attention] --> B
-> ```
 
 # Multi-Head Attention Mechanics
 

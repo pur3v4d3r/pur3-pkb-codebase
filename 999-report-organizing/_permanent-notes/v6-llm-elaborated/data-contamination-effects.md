@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -182,41 +178,6 @@ Studies consistently find significant overlap between large language model pretr
 > [!connection] **[[Pretraining Data Influence]]** — *applies-to*
 > Data contamination effects are a direct consequence of pretraining data influence on model behavior. The extensive nature of pretraining corpora in large language models (LLMs) means that these datasets can inadvertently include examples from evaluation benchmarks, leading to memorization rather than generalization. Understanding the impact of pretraining data is crucial for mitigating contamination and ensuring that models generalize well to new, unseen data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Data Contamination Process Flow**
-> *Follow the flow from training to evaluation, noting overlap points.*
->
-> ```mermaid
-> flowchart LR
->   A[Training Data] --> B[Model Training]
->   C[Evaluation Benchmark] --> D[Overlap]
->   B --> E[Performance Evaluation]
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Contamination Mechanism Overview**
-> *Trace the path from data overlap to inflated performance scores.*
->
-> ```mermaid
-> flowchart LR
->   A[Training Data Overlap] --> B[Memorization]
->   B --> C[Inflated Scores]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications Summary**
-> *Identify the key areas where data contamination impacts model evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Misleading Assessments]
->   C[Model Comparison] --> D[Skewed Results]
->   E[Deployment Decisions] --> F[Suboptimal Deployments]
-> ```
 
 # Data Contamination Effects
 

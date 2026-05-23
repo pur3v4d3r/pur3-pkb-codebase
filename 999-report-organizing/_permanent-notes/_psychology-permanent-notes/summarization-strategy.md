@@ -18,7 +18,7 @@ subdomains:
   - study-skills
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - summarization-strategy-synthetic-seed-2026-04-25
@@ -65,48 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Summarization Process Flow**
-> *Follow the steps from reading to summarizing.*
->
-> ```mermaid
-> flowchart LR
->   A[Read Text] --> B[Identify Main Ideas]
->   B --> C[Rephrase in Own Words]
->   C --> D[Review and Refine]
-> ```
-
-
-> [!abstract] **Diagram 2 — Summarization vs Highlighting**
-> *Compare the cognitive load of summarizing versus highlighting.*
->
-> ```mermaid
-> graph TD
->   A[Highlighting]
->   B[Summarizing]
->   A -->|Increases Extraneous Load| C[Ineffective]
->   B -->|Reduces Cognitive Burden| D[Efficacious]
-> ```
-
-
-> [!abstract] **Diagram 3 — Deep vs Surface Processing**
-> *Identify the difference between deep and surface processing techniques.*
->
-> ```mermaid
-> graph TD
->   A[Surface Processing]
->   B[Deep Processing]
->   A -->|Skimming/Superficial Reading| C[Shallow Understanding]
->   B -->|Summarizing/Analyzing| D[Robust Comprehension]
-> ```
 
 # Summarization Strategy
 

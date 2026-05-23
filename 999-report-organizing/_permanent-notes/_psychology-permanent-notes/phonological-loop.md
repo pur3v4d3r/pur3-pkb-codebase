@@ -17,7 +17,7 @@ subdomains:
   - language-processing
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - phonological-loop-synthetic-seed-2026-04-24
@@ -66,46 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Phonological Loop Components**
-> *Identify the storage and rehearsal components of the loop.*
->
-> ```mermaid
-> graph TD
->   A[Phonological Store]
->   B[Articulatory Rehearsal]
->   A -->|Refreshes via|
->   B
-> ```
-
-
-> [!abstract] **Diagram 2 — Word-Length Effect**
-> *Observe how longer words affect memory span.*
->
-> ```mermaid
-> flowchart LR
->   A[Short Word] --> C[Easy to Remember]
->   B[Long Word] --> D[Harder to Remember]
-> ```
-
-
-> [!abstract] **Diagram 3 — Neural Correlates of Rehearsal**
-> *Trace the brain regions involved in subvocal rehearsal.*
->
-> ```mermaid
-> sequenceDiagram
->   participant BrocasArea as BA
->   participant InferiorFrontalGyrus as IFG
->   BA->>IFG: Activated During Subvocal Rehearsal
-> ```
 
 # Phonological Loop
 

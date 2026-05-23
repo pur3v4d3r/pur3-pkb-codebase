@@ -17,7 +17,7 @@ subdomains:
   - emotion-and-memory
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - flashbulb-memory-synthetic-seed-2026-04-25
@@ -67,50 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Flashbulb Memory Formation Process**
-> *Follow the sequence from emotional arousal to memory consolidation.*
->
-> ```mermaid
-> sequenceDiagram
-> participant Event as E
-> participant Amygdala as A
-> participant Hippocampus as H
-> E->>A: Emotional Arousal
-> A->>H: Activates Neural Pathways
-> H-->>E: Robust Encoding
-> ```
-
-
-> [!abstract] **Diagram 2 — Flashbulb Memory vs Autobiographical Memory**
-> *Compare the characteristics of flashbulb and ordinary autobiographical memories.*
->
-> ```mermaid
-> graph TD
-> A[Autobiographical Memory] -->|Vividness| B[Vague]
-> A -->|Accuracy| C[Affected by Distortion]
-> D[Flashbulb Memory] -->|Vividness| E[Persistent]
-> D -->|Accuracy| F[Degrades Over Time]
-> ```
-
-
-> [!abstract] **Diagram 3 — Emotional Impact on Flashbulb Memories**
-> *Trace the influence of emotional events on memory vividness and accuracy.*
->
-> ```mermaid
-> flowchart LR
-> I[Significant Event] -->|Triggers Emotional Arousal| J[Amygdala Activation]
-> J -->|Enhances Memory Encoding| K[Vivid Flashbulb Memory]
-> K -->|Over Time| L[Degrading Accuracy]
-> ```
 
 # Flashbulb Memory
 

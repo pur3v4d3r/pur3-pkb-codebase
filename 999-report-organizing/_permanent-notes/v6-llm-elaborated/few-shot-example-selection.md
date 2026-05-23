@@ -18,7 +18,7 @@ subdomains:
   - retrieval
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - few-shot-example-selection-synthetic-seed-2026-05-20
@@ -65,45 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Few-Shot Example Selection Process**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Task] --> B[Identify Criteria]
->   B --> C[Evaluate Examples]
->   C --> D[Select Examples]
->   D --> E[Prompt Model]
-> ```
-
-
-> [!abstract] **Diagram 2 — Example Selection Criteria**
-> *Compare the criteria for selecting effective examples.*
->
-> ```mermaid
-> graph TD
->   A[Semantic Similarity] --> B(Task Representativeness)
->   C[Surface Processing] --> D(Deep Processing)
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact of Example Selection on Model Performance**
-> *Observe how different example sets affect model outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Example Set A] --> B(Performance Outcome A)
->   C[Example Set B] --> D(Performance Outcome B)
-> ```
 
 # Few-Shot Example Selection
 

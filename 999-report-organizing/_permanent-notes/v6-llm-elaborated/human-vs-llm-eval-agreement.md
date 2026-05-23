@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,56 +156,6 @@ Empirical evidence indicates that while human-LLM evaluator agreement is general
 > [!connection] **[[LLM Evaluator Bias]]** — *applies-to*
 > Understanding human vs. LLM evaluation agreement is essential for identifying and mitigating biases in LLM evaluators. By comparing machine judgments to those of humans, researchers can pinpoint areas where bias may be introduced by the model's training data or algorithmic design.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Human vs LLM Agreement Process**
-> *Follow the steps from data collection to agreement measurement.*
->
-> ```mermaid
-> graph TD
->   A[Collect Model Outputs]
->   B[Annotate with Humans]
->   C[Evaluate with LLMs]
->   D[Compare Judgments]
->   E[Measure Agreement]
->   A --> B
->   A --> C
->   B --> D
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Agreement Metrics Comparison**
-> *Compare different metrics used to measure agreement.*
->
-> ```mermaid
-> graph TD
->   A[Spearman Correlation]
->   B[Cohen's Kappa]
->   C[Other Statistical Measures]
->   D[Human vs LLM Agreement]
->   A -->|Example| D
->   B -->|Example| D
->   C -->|Example| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Evaluation Scenarios Breakdown**
-> *Identify scenarios where human and LLM agreement differs.*
->
-> ```mermaid
-> graph TD
->   A[Obvious Quality Differences]
->   B[Fine-Grained Distinctions]
->   C[Safety-Adjacent Content]
->   D[Human vs LLM Agreement]
->   A -->|High Agreement| D
->   B -->|Low Agreement| D
->   C -->|Divergence| D
-> ```
 
 # Human vs. LLM Evaluation Agreement
 

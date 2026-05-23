@@ -18,7 +18,7 @@ subdomains:
   - organizational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - need-satisfaction-synthetic-seed-2026-04-24
@@ -68,56 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Basic Psychological Needs**
-> *Identify the three core needs and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Competence]
->   C[Relatedness]
->   A -->|Supports| B
->   A -->|Supports| C
->   B -->|Supports| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Environmental Supports Process**
-> *Follow the stages from autonomy to relatedness.*
->
-> ```mermaid
-> flowchart LR
->   A[Autonomy-supportive Teaching]
->   B[Optimally Challenging Tasks]
->   C[Warm Relational Climates]
->   A -->|Promotes Control| B
->   B -->|Develops Skills| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Need Satisfaction Mechanism**
-> *Trace the flow from environmental supports to need satisfaction.*
->
-> ```mermaid
-> sequenceDiagram
->   participant A as Autonomy-supportive Teaching
->   participant B as Optimally Challenging Tasks
->   participant C as Warm Relational Climates
->   participant D as Need Satisfaction
->   A->>B: Promotes Control
->   B->>C: Develops Skills
->   C-->>D: Enhances Relatedness
->   D-->>D: Leads to Need Satisfaction
-> ```
 
 # Need Satisfaction
 

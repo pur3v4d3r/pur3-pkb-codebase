@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,40 +154,6 @@ Understanding distributed representations is crucial for advancing both theoreti
 > [!connection] **[[Superposition Hypothesis]]** — *supports*
 > The superposition hypothesis provides a theoretical foundation for understanding distributed representations in transformers. It explains how nearly-orthogonal directions in high-dimensional spaces enable the encoding of exponentially many features, which is crucial for the robustness and broad capabilities observed in transformer models.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Distributed Representation Overview**
-> *Follow the flow from input to distributed encoding.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Distributed Encoding]
->   B --> C[High-Dimensional Space]
->   C --> D[Feature Interference]
-> ```
-
-
-> [!abstract] **Diagram 2 — Superposition Hypothesis**
-> *Trace the encoding process from features to nearly-orthogonal directions.*
->
-> ```mermaid
-> flowchart LR
->   A[Features] --> B[Nearly-Orthogonal Directions]
->   B --> C[High-Dimensional Space]
->   C --> D[Superposition]
-> ```
-
-
-> [!abstract] **Diagram 3 — Distributed vs Local Representations**
-> *Compare distributed and local symbolic representations.*
->
-> ```mermaid
-> graph TD
->   A[Distributed] --> B[Spread Across Neurons]
->   C[Local Symbolic] --> D[One Neuron Per Concept]
-> ```
 
 # Distributed Representations in Transformers
 

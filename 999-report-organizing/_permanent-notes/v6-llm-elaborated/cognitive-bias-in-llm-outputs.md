@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -175,65 +171,6 @@ Empirical studies have shown that large language models exhibit systematic devia
 > [!connection] **[[Dual-Process Theory Applied to LLMS]]** — *applies-to*
 > The dual-process theory, which distinguishes between fast, intuitive thinking (System 1) and slow, deliberative thinking (System 2), provides a framework for understanding how cognitive biases arise in LLM outputs. Just as humans can fall prey to biases when relying on System 1 processes, LLMs might exhibit similar tendencies due to their reliance on statistical heuristics learned from training data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — LLM Bias Sources Overview**
-> *Identify the factors contributing to LLM biases.*
->
-> ```mermaid
-> graph TD
->   A[Model Architecture]
->   B[Training Data]
->   C[Prompt Format]
->   D[Context]
->   E[RLHF Alignment]
->   F[Cognitive Bias in Outputs]
->   A -->|Influences| F
->   B -->|Influences| F
->   C -->|Influences| F
->   D -->|Influences| F
->   E -->|Influences| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Bias Manifestation Examples**
-> *See how different biases manifest in LLM outputs.*
->
-> ```mermaid
-> graph TD
->   A[Anchoring]
->   B[Availability Bias]
->   C[Framing Effect]
->   D[Confirmation Seeking]
->   E[Social Desirability Distortion]
->   F[Cognitive Bias in Outputs]
->   A -->|Example: Over-relying on initial info| F
->   B -->|Example: Emphasizing memorable events| F
->   C -->|Example: Sensitivity to how questions are framed| F
->   D -->|Example: Seeking confirming evidence| F
->   E -->|Example: Producing biased responses| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Debiasing Strategies Overview**
-> *Explore strategies to mitigate LLM biases.*
->
-> ```mermaid
-> graph TD
->   A[Data Augmentation]
->   B[Prompt Engineering]
->   C[Model Fine-tuning]
->   D[Bias Detection Tools]
->   E[Cognitive Psychology Insights]
->   F[Mitigating Cognitive Bias in Outputs]
->   A -->|Approach: Add diverse data| F
->   B -->|Approach: Design prompts carefully| F
->   C -->|Approach: Fine-tune on unbiased datasets| F
->   D -->|Approach: Use tools to detect biases| F
->   E -->|Approach: Apply debiasing techniques| F
-> ```
 
 # Cognitive Bias in LLM Outputs
 

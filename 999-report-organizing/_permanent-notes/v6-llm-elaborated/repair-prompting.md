@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -150,38 +146,6 @@ Repair Prompting, by integrating explicit defect information with LLM capabiliti
 > [!connection] **[[Execution Feedback Prompting]]** — *applies-to*
 > Repair Prompting can be seen as a specific application of Execution Feedback Prompting in the context of code repair. Both techniques leverage feedback to improve outcomes, but Repair Prompting focuses on correcting defects based on explicit information about what is wrong, whereas Execution Feedback Prompting may use broader execution data.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Repair Prompting Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Defective Code] --> B[Provide Defect Info]
->   B --> C[Generate Corrected Code]
-> ```
-
-
-> [!abstract] **Diagram 2 — Repair Prompting vs Self-Debugging Comparison**
-> *Compare the two approaches by their key characteristics.*
->
-> ```mermaid
-> graph TD
->   A[Repair Prompting] -->|Guided Solution| B[Efficient]
->   C[Self-Debugging] -->|Unsupervised Diagnosis| D[Time-consuming]
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *Identify the contexts where Repair Prompting is applied.*
->
-> ```mermaid
-> graph TD
->   A[Automated Program Repair] --> B[Efficiency]
->   C[Interactive Development Assistants] --> D[Real-time Feedback]
-> ```
 
 # Repair Prompting
 

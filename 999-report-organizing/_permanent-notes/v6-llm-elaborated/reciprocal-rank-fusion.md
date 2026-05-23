@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,42 +154,6 @@ By integrating multiple retrieval systems through reciprocal weighting, Reciproc
 > [!connection] **[[Hybrid Retrieval Systems]]** — *applies-to*
 > RRF is specifically designed to enhance hybrid retrieval systems by providing a robust method for combining diverse retrieval methods. This application leverages RRF's ability to balance contributions from different systems, ensuring that no single method overshadows others in the final ranking.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — RRF Process Flow**
-> *Follow the flow from individual rankings to final fused ranking.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Rankings] --> B[Ranks]
->   B --> C[Reciprocal Scores]
->   C --> D[Fused Ranking]
-> ```
-
-
-> [!abstract] **Diagram 2 — Rank Contribution in RRF**
-> *Observe how rank affects the reciprocal score contribution.*
->
-> ```mermaid
-> graph TD
->   A[1] -->|1/(rank+60)| B(Reciprocal Score)
->   C[2] -->|1/(rank+60)| D(Reciprocal Score)
->   E[3] -->|1/(rank+60)| F(Reciprocal Score)
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Other Methods**
-> *Compare RRF's parameter-free approach to weighted methods.*
->
-> ```mermaid
-> sequenceDiagram
->   participant RRFSys as 'RRF System'
->   participant WeightedSys as 'Weighted Method'
->   RRFSys->>RRFSys: Use fixed c=60
->   WeightedSys->>WeightedSys: Tune weights for each system
-> ```
 
 # Reciprocal Rank Fusion
 

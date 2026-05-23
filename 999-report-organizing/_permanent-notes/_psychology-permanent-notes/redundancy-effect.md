@@ -17,7 +17,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - redundancy-effect-synthetic-seed-2026-04-24
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Redundancy Effect Process Flow**
-> *Follow the flow from narration to cognitive overload.*
->
-> ```mermaid
-> flowchart LR
->   A[Spoken Narration] --> B[On-Screen Text]
->   B --> C[Integration in Phonological Loop]
->   C --> D[Cognitive Overload]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Load Types Hierarchy**
-> *Identify the relationship between intrinsic and extraneous load.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Cognitive Load] --> B[Extraneous Cognitive Load]
->   B --> C[Redundancy Effect]
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Recommendations**
-> *Compare scenarios where captions are beneficial or detrimental.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Learner as L
->   participant FluentSpeaker as F
->   participant SecondLanguageLearner as S
->   L->>F: Multimedia with Redundant Text and Speech
->   F-->>L: Poorer Learning Outcomes
->   L->>S: Multimedia with Redundant Text and Speech
->   S-->>L: Enhanced Comprehension
-> ```
 
 # Redundancy Effect
 

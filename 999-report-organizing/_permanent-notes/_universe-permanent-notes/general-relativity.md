@@ -18,7 +18,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - general-relativity-synthetic-seed-2026-05-14
@@ -67,48 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Einstein Field Equations Overview**
-> *Follow the flow from matter-energy to spacetime curvature.*
->
-> ```mermaid
-> graph TD
->   A["Matter-Energy Content"] --> B["Stress-Energy Tensor"]
->   B --> C["Geometric Description"]
->   C --> D["Spacetime Curvature"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Gravitational Lensing Process**
-> *Trace the path of light bending around a massive object.*
->
-> ```mermaid
-> flowchart LR
->   A[Light Source] --> B[Massive Object]
->   B --> C[Bent Light Path]
->   C --> D[Observer]
-> ```
-
-
-> [!abstract] **Diagram 3 — Black Hole Event Horizon**
-> *Notice the regions and their properties around a black hole.*
->
-> ```mermaid
-> graph TD
->   A["Outside Event Horizon"] --> B["Event Horizon"]
->   B --> C["Inside Event Horizon"]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#ff0,stroke:#333,stroke-width:4px
->   style C fill:#c00,stroke:#333,stroke-width:4px
-> ```
 
 # General Relativity
 

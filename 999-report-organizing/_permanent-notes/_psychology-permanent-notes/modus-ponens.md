@@ -17,7 +17,7 @@ subdomains:
   - deductive-reasoning
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - modus-ponens-synthetic-seed-2026-04-26
@@ -64,50 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Modus Ponens Process Flow**
-> *Follow the logical steps from premises to conclusion.*
->
-> ```mermaid
-> flowchart LR
->   A["If P then Q"] --> B[P]
->   B --> C[Q]
-> ```
-
-
-> [!abstract] **Diagram 2 — Logical Relationship Overview**
-> *Identify the relationship between premises and conclusion.*
->
-> ```mermaid
-> graph TD
->   A["If P then Q"]
->   B[P]
->   C[Q]
->   A -->|Conditional| C
->   B -->|Premise| C
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Modus Tollens**
-> *Compare the inference rules of Modus Ponens and Modus Tollens.*
->
-> ```mermaid
-> sequenceDiagram
->   participant MP as "Modus Ponens"
->   participant MT as "Modus Tollens"
->   MP->>MT: If P then Q
->   MP->>MP: Given P, infer Q
->   MT->>MT: If P then Q
->   MT->>MT: Not Q, infer not P
-> ```
 
 # Modus Ponens
 

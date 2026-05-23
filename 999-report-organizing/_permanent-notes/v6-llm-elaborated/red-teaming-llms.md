@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,29 +160,6 @@ Red Teaming LLMs is essential because standard safety benchmarks are limited to 
 > [!connection] **[[Constitutional AI Method]]** — *supports*
 > Red Teaming LLMs supports the Constitutional AI Method by providing a mechanism to test whether models adhere to ethical guidelines. By simulating adversarial scenarios, red teams can assess if the model's responses align with constitutional principles, thereby reinforcing the effectiveness of these guidelines in real-world contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Red Teaming Process Flow**
-> *Follow the steps from prompt creation to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Create Adversarial Prompts] --> B[Test Model]
->   B --> C[Evaluate Outputs]
->   C --> D[Identify Vulnerabilities]
-> ```
-
-
-> [!abstract] **Diagram 2 — Red Teaming vs Standard Benchmarks**
-> *Compare the focus areas of red teaming and standard benchmarks.*
->
-> ```mermaid
-> graph TD
->   A[Standard Safety Benchmarks] -->|Evaluate Known Failure Modes|
->   B[Red Teaming LLMs] -->|Uncover Unknown Vulnerabilities|
-> ```
 
 # Red Teaming LLMs
 

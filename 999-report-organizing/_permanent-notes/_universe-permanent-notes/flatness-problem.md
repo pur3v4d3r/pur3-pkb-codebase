@@ -17,7 +17,7 @@ subdomains:
   - fine-tuning-arguments
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - flatness-problem-synthetic-seed-2026-05-14
@@ -64,65 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Flatness Problem Overview**
-> *Identify the key components of the Flatness Problem.*
->
-> ```mermaid
-> graph TD
->   A[Initial Condition]
->   B[Near-Flat Geometry]
->   C[Unstable Equilibrium]
->   D[CMB Uniformity]
->   E[Inflation Theory]
->   F[Model Validation]
->   A -->|Fine-Tuned to Unity| B
->   B -->|Ω ≈ 1| C
->   C -->|Instability Over Time| D
->   D -->|CMB Evidence| E
->   E -->|Flattening Mechanism| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Flatness vs Horizon Problem**
-> *Compare the Flatness and Horizon Problems.*
->
-> ```mermaid
-> graph TD
->   A[Flatness Problem]
->   B[Horizon Problem]
->   C[Near-Flat Geometry]
->   D[CMB Uniformity Across Distances]
->   E[Fine-Tuned Initial Condition]
->   F[Thermal Equilibrium of Non-Causal Regions]
->   A -->|C| C
->   A -->|E| E
->   B -->|D| D
->   B -->|F| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Inflation Mechanism Flow**
-> *Understand the flow of inflationary mechanism.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Curvature]
->   B[Exponential Expansion]
->   C[Negligible Curvature]
->   D[Flat Universe]
->   A -->|Inflation Phase| B
->   B -->|Stretching Out Curvature| C
->   C -->|Negligible on Observable Scales| D
-> ```
 
 # Flatness Problem
 

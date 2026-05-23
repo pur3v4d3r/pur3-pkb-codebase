@@ -17,7 +17,7 @@ subdomains:
   - hci
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - distributed-cognition-synthetic-seed-2026-04-24
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Distributed Cognition Components**
-> *Identify the key elements involved in distributed cognition.*
->
-> ```mermaid
-> graph TD
->   A[People] --> B[Artefacts]
->   A --> C[Environments]
->   B --> D[Tools]
->   C --> E[Spaces]
->   F[Social Interactions] --> G[Communication]
->   F --> H[Cognition]
-> ```
-
-
-> [!abstract] **Diagram 2 — Distributed Cognition Mechanism**
-> *Understand the flow of cognitive processes in distributed cognition.*
->
-> ```mermaid
-> flowchart LR
->   A[External Artefacts] --> B[Reduce Cognitive Load]
->   B --> C[Enhance Problem Solving]
->   D[Social Interactions] --> E[Facilitate Coordination]
->   E --> F[Cognitive Offloading]
-> ```
-
-
-> [!abstract] **Diagram 3 — Distributed Cognition Applications**
-> *See how distributed cognition applies in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Collaborative Tools]
->   C[Technology Design] --> D[Integrated External Tools]
->   E[Virtual Teams] --> F[Cognitive Load Distribution]
-> ```
 
 # Distributed Cognition
 

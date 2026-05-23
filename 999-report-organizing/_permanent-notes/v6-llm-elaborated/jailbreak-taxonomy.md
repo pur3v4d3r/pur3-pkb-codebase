@@ -67,15 +67,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,59 +156,6 @@ By integrating insights from cognitive psychology, such as surface vs deep proce
 > [!connection] **[[Adversarial Suffix Attacks]]** — *instance-of*
 > Jailbreak taxonomy encompasses adversarial suffix attacks as an instance where attackers append seemingly benign phrases to a prompt, which can alter the model's response in unintended ways. This technique exploits the model’s tendency to process input sequentially and interpret later parts of the prompt more heavily than earlier ones, bypassing safety measures designed for direct framing.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Jailbreak Mechanisms Overview**
-> *Identify the different mechanisms used in jailbreaking LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Direct Framing]
->   B[Indirect Framing]
->   C[Role-Play Attacks]
->   D[Hypothetical Framing]
->   E[Transformed Representation]
->   F[Persona Attacks]
->   A -->|Example: Clear Request|
->   B -->|Example: Contextual Masking|
->   C -->|Example: Unconstrained Character|
->   D -->|Example: Story Requests|
->   E -->|Example: Altered Phrasing|
->   F -->|Example: Adopted Persona|
-> ```
-
-
-> [!abstract] **Diagram 2 — Jailbreak Access Levels**
-> *Understand the required access levels for different jailbreak techniques.*
->
-> ```mermaid
-> graph TD
->   A[Public]
->   B[Low Privilege]
->   C[High Privilege]
->   D[Direct Framing] -->|Public|
->   E[Indirect Framing] -->|Public|
->   F[Hypothetical Framing] -->|Public|
->   G[Role-Play Attacks] -->|Low Privilege|
->   H[Persona Attacks] -->|High Privilege|
-> ```
-
-
-> [!abstract] **Diagram 3 — Jailbreak Generalisability**
-> *Assess the generalisability of jailbreak techniques across different models.*
->
-> ```mermaid
-> graph TD
->   A[Generalisable]
->   B[Specific]
->   C[Direct Framing] -->|Specific|
->   D[Indirect Framing] -->|Generalisable|
->   E[Hypothetical Framing] -->|Generalisable|
->   F[Role-Play Attacks] -->|Generalisable|
->   G[Persona Attacks] -->|Specific|
-> ```
 
 # Jailbreak Taxonomy
 

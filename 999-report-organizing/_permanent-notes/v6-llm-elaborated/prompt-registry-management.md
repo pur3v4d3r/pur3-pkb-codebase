@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -158,66 +154,6 @@ In summary, Prompt Registry Management is a foundational practice in the realm o
 > [!connection] **[[Prompt Regression Testing]]** — *applies-to*
 > Prompt Registry Management applies to Prompt Regression Testing by enabling systematic testing of prompt versions against a baseline. This ensures that any changes do not introduce regressions, maintaining the quality and reliability of AI-driven applications.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Prompt Registry Components**
-> *Identify the key components of a prompt registry.*
->
-> ```mermaid
-> graph TD
->   A[Version History]
->   B[Metedata Management]
->   C[Access Control]
->   D[Search Functionality]
->   E[Central Repository]
->   F[Rollback Capabilities]
->   A -->|tracks changes| E
->   B -->|stores details| E
->   C -->|controls access| E
->   D -->|facilitates discovery| E
->   F -->|reverts changes| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Registry Workflow**
-> *Follow the workflow from prompt creation to deployment.*
->
-> ```mermaid
-> flowchart LR
->   A[Create Prompt]
->   B[Store in Registry]
->   C[Version Control]
->   D[Maintain Metadata]
->   E[Access Control]
->   F[Deploy]
->   G[Test]
->   H[Rollback if Needed]
->   A -->|Initial Creation| B
->   B -->|Add Version History| C
->   C -->|Update Metadata| D
->   D -->|Set Access Rules| E
->   E -->|Grant Permissions| F
->   F -->|Conduct Tests| G
->   G -->|Deploy if Successful| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Dependency Management**
-> *Understand the dependency issues and management strategies.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> Base_Prompt
->   Base_Prompt --> Dependent_Feature1 : Used in
->   Base_Prompt --> Dependent_Feature2 : Used in
->   Dependent_Feature1 --> Update_Needed : Dependency Changed
->   Dependent_Feature2 --> Update_Needed : Dependency Changed
->   [*] --> Resolve_Issues
->   Resolve_Issue --> Reevaluate_Dependencies : Check Impact
->   Resolve_Issue --> Update_Dependent_Features : Adjust as Needed
-> ```
 
 # Prompt Registry Management
 

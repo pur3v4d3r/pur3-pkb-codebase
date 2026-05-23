@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,43 +164,6 @@ The choice of positional encoding significantly impacts a model's ability to gen
 > [!connection] **[[Transformer Architecture]]** — *specializes*
 > Positional encoding variants are a specialized aspect of the broader transformer architecture, focusing on how sequence order is represented. Understanding these variants deepens one's grasp of how transformers process sequential data and can inform architectural choices that enhance model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Positional Encoding Variants Overview**
-> *Identify the different types of positional encodings and their characteristics.*
->
-> ```mermaid
-> graph TD
->   A["Sinusoidal Encodings"] --> B["Fixed, Continuous Representation"]
->   C["Learned Absolute Embeddings"] --> D["Adapts During Training"]
->   E["Relative Positional Encodings"] --> F["Focuses on Relative Distances"]
->   G["RoPE"] --> H["Handles Long Contexts Gracefully"]
->   I["ALiBi"] --> J["Attention with Linear Biases"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact on Model Performance**
-> *Understand how different positional encodings affect model performance in long-context scenarios.*
->
-> ```mermaid
-> graph TD
->   A["Sinusoidal Encodings"] --> B["Struggles with Long Sequences"]
->   C["Learned Absolute Embeddings"] --> D["Fails Beyond Training Lengths"]
->   E["RoPE"] --> F["Graceful Degradation or Improvement"]
->   G["ALiBi"] --> H["Improved Performance with Context Length"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Key Figures Contributions**
-> *Recognize the contributions of key figures in positional encoding development.*
->
-> ```mermaid
-> graph TD
->   A[Ashish Vaswani] --> B["Sinusoidal Encodings"]
->   C[Jacob Devlin] --> D["Learned Absolute Embeddings"]
-> ```
 
 # Positional Encoding Variants
 

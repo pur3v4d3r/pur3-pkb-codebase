@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -157,47 +153,6 @@ Outcome Reward Models, by focusing on final outputs, offer a pragmatic solution 
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > Outcome Reward Models are a key component in RLHF, where they enable the efficient training of LLMs based on human feedback. The connection lies in how ORMs streamline preference data collection and model alignment processes, making them indispensable for scaling up reinforcement learning techniques that rely heavily on human input.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — ORM Evaluation Process**
-> *Follow the flow from preference data to model alignment.*
->
-> ```mermaid
-> graph TD
->   A[Preference Data]
->   B[Train ORM]
->   C[Evaluate Output]
->   D[Align LLM]
->   A --> B
->   B --> C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — ORM vs Process-based Models**
-> *Compare the evaluation criteria of both model types.*
->
-> ```mermaid
-> graph TD
->   ORM[Outcome Reward Model]
->   PB[Process-Based Model]
->   ORM -->|Final Output Only|
->   PB -->|Every Step in Generation|
-> ```
-
-
-> [!abstract] **Diagram 3 — ORM Application Areas**
-> *Identify the key application areas for Outcome Reward Models.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Content Moderation]
->   ORM --> A
->   ORM --> B
-> ```
 
 # Outcome Reward Models
 

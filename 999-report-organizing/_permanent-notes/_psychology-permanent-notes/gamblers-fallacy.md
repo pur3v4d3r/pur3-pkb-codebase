@@ -18,7 +18,7 @@ subdomains:
   - probability
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - gamblers-fallacy-synthetic-seed-2026-04-26
@@ -66,68 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Gamblers Fallacy Process Flow**
-> *Follow the sequence from intuition to decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Random Sequence]
->   B[Intuitive Misinterpretation]
->   C[Representativeness Heuristic]
->   D[Cognitive Shortcut]
->   E[Systematic Error]
->   F[Decision-Making]
->   A -->|Observes Run of Outcomes| B
->   B -->|Feels Imbalance Owed| C
->   C -->|Believes Outcome Due| D
->   D -->|Makes Decision Based on Bias| E
->   E -->|Leads to Systematic Error| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Gamblers Fallacy Concept Hierarchy**
-> *Trace the relationship from core concept to applications.*
->
-> ```mermaid
-> graph TD
->   A[Core Explanation]
->   B[Mechanism]
->   C[Practical Implications]
->   D[Instructional Design]
->   E[Investing]
->   F[Decision-Making]
->   G[Spaced Retrieval in MOOCs]
->   A -->|Explains Intuition Misinterpretation| B
->   B -->|Confusion Between Representativeness and Independence| C
->   C --> D
->   C --> E
->   C --> F
->   C --> G
-> ```
-
-
-> [!abstract] **Diagram 3 — Gamblers Fallacy Interaction Sequence**
-> *Follow the interaction sequence from observation to decision.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Observer as O
->   participant Heuristic as H
->   participant DecisionMaker as D
->   O->>H: Observes Run of Outcomes
->   H-->>O: Feels Imbalance Owed
->   O->>D: Believes Outcome Due
->   D-->>O: Makes Decision Based on Bias
-> ```
 
 # Gamblers Fallacy
 

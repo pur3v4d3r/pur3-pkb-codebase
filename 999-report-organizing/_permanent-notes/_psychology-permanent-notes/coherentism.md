@@ -16,7 +16,7 @@ subdomains:
   - analytic-epistemology
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - coherentism-synthetic-seed-2026-04-25
@@ -63,64 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Coherentism Concept Overview**
-> *Identify the interconnected beliefs and their mutual support.*
->
-> ```mermaid
-> graph TD
->   A[Belief1] --> B[Belief2]
->   B --> C[Belief3]
->   C --> D[Belief4]
->   D --> E[Belief5]
->   E --> F[Belief6]
->   F --> G[Belief7]
->   A --> H[Belief8]
->   H --> I[Belief9]
-> ```
-
-
-> [!abstract] **Diagram 2 — Coherentism vs Foundationalism**
-> *Compare the structure of coherentist and foundationalist belief systems.*
->
-> ```mermaid
-> graph TD
->   A[Foundational Beliefs] --> B[Justified]
->   C[Interconnected Beliefs] --> D[Justified]
->   E[Coherent System] --> F[Justified]
->   subgraph Foundationalism
->     A
->     B
->   end
->   subgraph Coherentism
->     C
->     D
->     E
->     F
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Coherentist Justification Mechanism**
-> *Trace the positive mutual support and explanatory connections.*
->
-> ```mermaid
-> flowchart LR
->   A[Belief1] --> B[Supports]
->   B --> C[Enhances]
->   C --> D[Explains]
->   D --> E[SupportedBy]
->   E --> F[EnhancedBy]
->   F --> G[Explainable]
-> ```
 
 # Coherentism
 

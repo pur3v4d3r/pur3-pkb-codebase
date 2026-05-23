@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -164,46 +160,6 @@ The effectiveness of follow-up question generation correlates strongly with a mo
 > [!connection] **[[Dialogue Grounding Prompts]]** — *supports*
 > Follow-up question generation supports dialogue grounding prompts by providing contextually relevant questions that help anchor the conversation in specific topics or themes, thereby enhancing coherence and user engagement throughout the interaction.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Follow-Up Question Process Flow**
-> *Identify the steps from user input to follow-up question generation.*
->
-> ```mermaid
-> flowchart LR
->   A[User Input] --> B[Context Analysis]
->   B --> C[Intent Inference]
->   C --> D[Question Generation]
->   D --> E[Fine-Tuning]
->   E --> F[Follow-Up Question]
-> ```
-
-
-> [!abstract] **Diagram 2 — Intent vs Generic Follow-Ups**
-> *Compare follow-up questions based on user intent versus generic topical ones.*
->
-> ```mermaid
-> graph TD
->   A[User Intent]
->   B[Generic Topical]
->   C[Fine-Tuned Question]
->   D[Topical Question]
->   A -->|Models User Needs| C
->   B -->|Matches Topic Only| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Application Scenarios Overview**
-> *Explore different application scenarios for follow-up question generation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Enhanced Learning]
->   C[Customer Service] --> D[Better Support]
->   E[Multi-Turn Conversations] --> F[Improved Engagement]
-> ```
 
 # Follow-Up Question Generation
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -156,49 +152,6 @@ The study of cross-lingual prompt transfer is pivotal in advancing multilingual 
 > [!connection] **[[Multilingual NLP Models]]** — *applies-to*
 > Cross-lingual prompt transfer is intricately linked to the capabilities and limitations of multilingual NLP models. These models are designed to handle multiple languages, but their effectiveness in cross-lingual prompting depends on how well they have been trained across different linguistic contexts. Understanding these dynamics helps in optimizing model architectures and training strategies for better cross-lingual performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Cross-Lingual Prompt Transfer Flow**
-> *Follow the flow from high-resource to low-resource languages.*
->
-> ```mermaid
-> flowchart LR
->   A[High-Resource Language] --> B[Prompt Strategy]
->   B --> C[Transfer Success]
->   D[Low-Resource Language] --> E[Prompt Adaptation Needed]
->   F[Validation Required]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Transfer Effectiveness Across Languages**
-> *Compare the effectiveness of prompt transfer between high and low-resource languages.*
->
-> ```mermaid
-> graph TD
->   A[High-Resource Language] -->|Effective Transfer| B[Success]
->   C[Low-Resource Language] -->|Limited Success| D[Necessity for Adaptation]
-> ```
-
-
-> [!abstract] **Diagram 3 — Prompt Validation Methods**
-> *Understand the importance of native-speaker queries in validation.*
->
-> ```mermaid
-> sequenceDiagram
->   participant User as U
->   participant System as S
->   participant Translator as T
->   U->>S: Native-Speaker Query
->   alt Effective Validation
->     S-->>U: Correct Response
->   else Ineffective Validation
->     U->>T: Translation Request
->     T-->>S: Translated Query
->     S-->>U: Incorrect Response
->   end
-> ```
 
 # Cross-Lingual Prompt Transfer
 

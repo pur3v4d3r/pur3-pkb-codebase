@@ -18,7 +18,7 @@ subdomains:
   - planetary-dynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hill-sphere-synthetic-seed-2026-05-14
@@ -66,45 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hill Sphere Radius Formula**
-> *Identify the formula components for calculating Hill sphere radius.*
->
-> ```mermaid
-> graph TD
->   A["Semi-major Axis (a)"] --> B["Mass Ratio (m/3M)^(1/3)"]
->   B --> C[Hill Radius]
-> ```
-
-
-> [!abstract] **Diagram 2 — Satellite Stability Zones**
-> *Observe the stable and unstable zones for satellite orbits within the Hill sphere.*
->
-> ```mermaid
-> flowchart LR
->   A["Prograde Orbit"] --> B1["Stable Zone (0-50%)"]
->   A --> B2["Unstable Zone (>50%)"]
->   C["Retrograde Orbit"] --> D1["Stable Zone (0-67%)"]
->   C --> D2["Unstable Zone (>67%)"
-> ```
-
-
-> [!abstract] **Diagram 3 — Hill Sphere vs Lagrange Points**
-> *Compare the regions of gravitational influence for Hill sphere and Lagrange points.*
->
-> ```mermaid
-> graph TD
->   A["Primary Body"] --> B[Hill Sphere]
->   C[Lagrange Points] --> D[Equilibrium Positions]
-> ```
 
 # Hill Sphere
 

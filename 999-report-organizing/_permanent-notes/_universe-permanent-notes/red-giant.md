@@ -17,7 +17,7 @@ subdomains:
   - stellar-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - red-giant-synthetic-seed-2026-05-14
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Red Giant Evolutionary Path**
-> *Follow the path from Main Sequence to Red Giant Branch.*
->
-> ```mermaid
-> graph TD
->   A[Main Sequence] --> B[Core Hydrogen Exhaustion]
->   B --> C[Helium Core Formation]
->   C --> D[H-Burning Shell]
->   D --> E[Red Giant Branch]
-> ```
-
-
-> [!abstract] **Diagram 2 — Surface Chemistry Changes in Red Giants**
-> *Observe the changes in surface chemistry due to dredge-up processes.*
->
-> ```mermaid
-> graph TD
->   A[Initial Composition] --> B[CNO Cycle Products]
->   B --> C[Lithium Depletion]
->   C --> D[Dredge-Up Events]
-> ```
-
-
-> [!abstract] **Diagram 3 — Red Giant vs Asymptotic Giant Branch (AGB)**
-> *Compare the interior structures and surface chemistries of Red Giants and AGB stars.*
->
-> ```mermaid
-> graph TD
->   A[Red Giant] --> B[Helium Core + H-Burning Shell]
->   C[Asymptotic Giant Branch] --> D[s-Process, Dust Formation]
-> ```
 
 # Red Giant
 

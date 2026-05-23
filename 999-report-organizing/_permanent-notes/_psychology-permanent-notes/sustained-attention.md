@@ -18,7 +18,7 @@ subdomains:
   - vigilance
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - sustained-attention-synthetic-seed-2026-04-25
@@ -65,64 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sustained Attention Process Flow**
-> *Follow the flow from initial monitoring to performance decrement.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Monitoring] --> B[Effortful Vigilance]
->   B --> C[Habituation and Fatigue]
->   C --> D[Performance Decrement]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sustained Attention Over Time**
-> *Observe the performance curve over extended task duration.*
->
-> ```mermaid
-> graph TD
->   A[Start] --> B[Early Performance]
->   B --> C[Middle Duration]
->   C --> D[Late Fatigue]
->   A --> E[Time]
->   B --> F[Performance]
->   C --> G[Decline]
->   D --> H[Deterioration]
-> ```
-
-
-> [!abstract] **Diagram 3 — Sustained Attention Mechanism Components**
-> *Identify the key components involved in sustaining attention.*
->
-> ```mermaid
-> classDiagram
->   class SustainedAttention {
->     +monitoring()
->     +vigilance()
->     -habituation()
->     -fatigue()
->   }
->   class WorkingMemory {
->     +maintainInformation()
->     +allocateResources()
->   }
->   class PrefrontalCortex {
->     +executiveFunctions()
->     +goalDirectedBehavior()
->     +inhibitoryControl()
->   }
->   SustainedAttention -->|uses| WorkingMemory
->   SustainedAttention -->|manages| PrefrontalCortex
-> ```
 
 # Sustained Attention
 

@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - need-support-synthetic-seed-2026-04-24
@@ -66,50 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Need Support Components**
-> *Identify the three basic psychological needs addressed.*
->
-> ```mermaid
-> graph TD
->   A[Autonomy]
->   B[Competence]
->   C[Relatedness]
->   subgraph NeedSupport
->     A -->|Meaningful rationale and choice| A
->     B -->|Structured challenge with feedback| B
->     C -->|Warm involvement with non-conditional regard| C
->   end
-> ```
-
-
-> [!abstract] **Diagram 2 — Need Support Mechanism Flow**
-> *Follow the flow from autonomy to relatedness.*
->
-> ```mermaid
-> flowchart LR
->   A[Meaningful rationale and choice] --> B[Structured challenge with feedback]
->   B --> C[Warm involvement with non-conditional regard]
-> ```
-
-
-> [!abstract] **Diagram 3 — Need Support Applications**
-> *See the different contexts where Need Support is applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional design] -->|Offer choices, feedback, support|
->   B[Managerial practices] -->|Delegate tasks, recognize contributions, collaborate|
->   C[Parenting] -->|Involve in decisions, provide guidance, socialize|
-> ```
 
 # Need Support
 

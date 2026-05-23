@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,41 +165,6 @@ Vision-Language Prompting requires a distinct approach to few-shot example desig
 > [!connection] **[[Multimodal Few-Shot Learning]]** — *applies-to*
 > Vision-Language Prompting applies to multimodal few-shot learning by providing contextually rich examples that include both visual and textual information. This approach enhances the model's ability to learn from limited data, as it can leverage the additional cues provided in text prompts to better understand and generalize from a small set of examples.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Vision-Language Prompting Process Flow**
-> *Follow the flow from image input to final response generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Image Input] --> B[Textual Instructions]
->   B --> C[Integration of Modalities]
->   C --> D[Cognitive Processing]
->   D --> E[Response Generation]
-> ```
-
-
-> [!abstract] **Diagram 2 — Vision-Language Prompting Applications Overview**
-> *Identify the applications and their corresponding tasks.*
->
-> ```mermaid
-> graph TD
->   A[Image Captioning] -->|Descriptive Captions| B[Few-Shot Learning]
->   B -->|Contextual Examples| C[Document Understanding]
->   C -->|Comprehensive Interpretation| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Text-Only vs Vision-Language Prompting Comparison**
-> *Compare the input modalities and cognitive processing required.*
->
-> ```mermaid
-> graph TD
->   A[Text-Only Prompting] -->|Linguistic Structures Only| B[Cognitive Processing]
->   C[Vision-Language Prompting] -->|Visual & Textual Integration| D[Cognitive Processing Enhanced]
-> ```
 
 # Vision-Language Prompting
 

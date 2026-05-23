@@ -17,7 +17,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - causal-attribution-in-motivation-synthetic-seed-2026-04-24
@@ -65,56 +65,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Attribution Dimensions Overview**
-> *Identify the three key dimensions of attribution.*
->
-> ```mermaid
-> graph TD
->   A[Outcome]
->   B[Locus (Internal/External)]
->   C[Stability (Stable/Unstable)]
->   D[Controllability (Controllable/Uncontrollable)]
->   A --> B
->   A --> C
->   A --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Emotion and Behavior Flow**
-> *Follow the flow from attribution to emotional response and behavior.*
->
-> ```mermaid
-> flowchart LR
->   Attribution[Attribution]
->   Attribution -->|Triggers| Emotions[Pride, Shame, Guilt, Anger]
->   Emotions --> Expectations[Expectations about future outcomes]
->   Expectations --> Behavior[Behavioral choices]
-> ```
-
-
-> [!abstract] **Diagram 3 — Motivational Impact of Attributions**
-> *Analyze how different attributions affect motivation.*
->
-> ```mermaid
-> graph TD
->   A[Success]
->   B[Failure]
->   C[Internals Stable Controllable] -->|Pride, Confidence| D[Re-engage with tasks]
->   E[Internals Stable Uncontrollable] -->|Shame, Hopelessness| F[Withdraw from tasks]
->   G[Externals Unstable] -->|Neutral Response| H[Continue engagement]
->   A --> C
->   B --> E
->   B --> G
-> ```
 
 # Causal Attribution in Motivation
 

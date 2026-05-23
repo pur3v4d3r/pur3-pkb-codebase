@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - correspondence-theory-of-truth-synthetic-seed-2026-04-26
@@ -67,48 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Correspondence Theory Overview**
-> *Identify the core components of the theory and its relationship to reality.*
->
-> ```mermaid
-> graph TD
->   A[Statement] --> B[Reality]
->   C[Truth] --> D[Factual Accuracy]
->   E[Objective Reality] --> F[External Validation]
->   G[Correspondence Theory] --> H[Intrinsic Correspondence]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison with Other Theories**
-> *Compare the Correspondence Theory with other theories of truth.*
->
-> ```mermaid
-> graph TD
->   A[Correspondence] --> B[Factual Accuracy]
->   C[Coherence] --> D[System Consistency]
->   E[Deflationism] --> F[Linguistic Device]
->   G[Pragmatic] --> H[Usefulness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Mechanism of Truth Verification**
-> *Understand the process by which statements are verified for truth according to the Correspondence Theory.*
->
-> ```mermaid
-> flowchart LR
->   A[Make Statement] --> B[Evaluate]
->   C[Align with Reality] --> D[True or False]
->   E[Correspondence] --> F[Factual Accuracy]
-> ```
 
 # Correspondence Theory of Truth
 

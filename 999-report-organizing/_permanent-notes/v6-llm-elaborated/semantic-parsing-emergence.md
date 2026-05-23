@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -153,40 +149,6 @@ Semantic parsing emergence represents a pivotal shift in how large language mode
 > [!connection] **[[Instruction-Following Emergence]]** — *contrasts-with*
 > While both semantic parsing emergence and instruction-following emergence involve LLMs developing capabilities through scale and instruction tuning, they differ in their focus. Semantic parsing focuses on converting natural language into formal representations, whereas instruction-following emphasizes the ability to execute complex tasks based on instructions. This distinction highlights how different emergent behaviors can coexist within large models but serve distinct purposes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Semantic Parsing Process Flow**
-> *Follow the flow from natural language to formal representation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Natural Language]
->   B --> C[Intent Recognition]
->   C --> D[Formal Representation]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Parsing Techniques**
-> *Compare traditional and emergent semantic parsing methods.*
->
-> ```mermaid
-> graph TD
->   A[Traditional Semantic Parsing] --> B[Explicit Grammars]
->   C[Emergent Semantic Parsing] --> D[Scale & Instruction Tuning]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications Overview**
-> *Identify applications where semantic parsing emergence is utilized.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] --> B[Complex Instructions]
->   C[Code Generation] --> D[Natural Language to Code]
-> ```
 
 # Semantic Parsing Emergence
 

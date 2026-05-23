@@ -20,7 +20,7 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemological-uncertainty-in-llms-synthetic-seed-2026-05-20
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemological Uncertainty Flowchart**
-> *Follow the flow from input to output, noting uncertainty stages.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Query] --> B[Evaluation]
->   B -->|High Confidence| C1[Definitive Answer]
->   B -->|Low Confidence| D[Uncertain Response]
->   D --> E[Hedging Language]
->   E --> F[Seek Verification]
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
-> *Compare the paths of reflective and reactive thinking in LLMs.*
->
-> ```mermaid
-> graph TD
->   A[Query] --> B1[Reflective]
->   B1 --> C[Evaluate Knowledge]
->   C --> D[Nuanced Response]
->   A --> B2[Reactive]
->   B2 --> E[Immediate Output]
->   E --> F[Uncalibrated Confidence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Calibration Process Overview**
-> *Trace the calibration process from training to application.*
->
-> ```mermaid
-> flowchart LR
->   A[Training Data] --> B[Evaluation]
->   B --> C[Model Testing]
->   C -->|Adjustments Needed| D[Tuning]
->   D --> E[Calibrated Model]
->   E --> F[Application]
-> ```
 
 # Epistemological Uncertainty in LLMs
 

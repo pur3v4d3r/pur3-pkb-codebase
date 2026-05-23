@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -153,76 +149,6 @@ Addressing the harmlessness-helpfulness tradeoff requires a multifaceted approac
 > [!connection] **[[Overrefusal Problem]]** — *contrasts-with*
 > The harmlessness-helpfulness tradeoff contrasts with the overrefusal problem in that while both involve balancing safety and utility, they differ in their approach. The tradeoff focuses on calibrating models to distinguish between harmful and harmless requests, whereas the overrefusal problem specifically addresses the issue of overly cautious responses.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Harmlessness vs Helpfulness Tradeoff**
-> *Follow the arrows to see how safety and utility are balanced.*
->
-> ```mermaid
-> graph TD
->   A[Refusal]
->   B[Hedging/Disclaiming]
->   C[Overrefusal Problem]
->   D[Constitutional AI]
->   E[Nuanced Safety]
->   F[Context-Sensitive Reasoning]
->   G[Helpfulness]
->   H[Utility]
->   A -->|Reduces Helpfulness| B
->   B -->|Balances Harmlessness| C
->   C -->|Overemphasizes Safety| D
->   D -->|Explicit Reasoning| E
->   E -->|Better Calibration| F
->   F -->|Enhanced Utility| G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 2 — Calibration Issues vs Capability Limitations**
-> *Compare the paths to understand the difference between calibration and capability.*
->
-> ```mermaid
-> graph TD
->   A[Imprecise Safety Training]
->   B[Nuanced Specifications]
->   C[Constitutional AI]
->   D[Better Calibration]
->   E[Harmlessness vs Helpfulness Tradeoff]
->   F[Intrinsic Capability Limitations]
->   G[Fixed Tradeoff]
->   H[Ambiguous Requests]
->   A -->|Improves with Nuance| B
->   B --> C
->   C -->|Reduces Tension| D
->   D --> E
->   F -->|No Improvement Possible| G
->   G --> H
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Tradeoff**
-> *Trace the flow to see how safety and utility are balanced in instructional design.*
->
-> ```mermaid
-> graph TD
->   A[Legitimate Queries]
->   B[Harmful Behaviors]
->   C[Misinformation]
->   D[Cautious Refusal]
->   E[Nuanced Safety]
->   F[Educational Content]
->   G[Utility]
->   H[Safety]
->   A -->|Balancing Act| B
->   B -->|Avoid Harmful Behaviors| C
->   C -->|Prevent Misinformation| D
->   D -->|Overcautious Refusal| E
->   E --> F
->   F --> G
->   G --> H
-> ```
 
 # Harmlessness-Helpfulness Tradeoff
 

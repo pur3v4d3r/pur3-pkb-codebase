@@ -18,7 +18,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - minkowski-space-time-synthetic-seed-2026-05-14
@@ -65,53 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Minkowski Spacetime Interval**
-> *Follow the flow to understand how spacetime interval is calculated.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[dt²]
->   C[dx²] --> D(dy²)
->   E[dz²] --> F(ds²)
->   B -->|−c²| G[−c²dt²]
->   D --> H[+dy²]
->   F --> I[ds² = −c²dt² + dx² + dy² + dz²]
-> ```
-
-
-> [!abstract] **Diagram 2 — Flat vs Curved Spacetimes**
-> *Compare the local flatness of Minkowski spacetime with global curvature in general relativity.*
->
-> ```mermaid
-> graph TD
->   A[Local Flatness] --> B[Minkowski Space Time]
->   C[Global Curvature] --> D[General Relativity]
->   B ---|Approximation| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Relativistic Phenomena Overview**
-> *Trace the effects of time dilation and length contraction in different inertial frames.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Observer1 as O1
->   participant Observer2 as O2
->   participant Particle as P
->   O1->>P: Measure Time
->   O2->>P: Measure Time
->   P-->>O1: Time Dilation
->   P-->>O2: Length Contraction
-> ```
 
 # Minkowski Space Time
 

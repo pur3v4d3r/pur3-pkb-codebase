@@ -16,7 +16,7 @@ subdomains:
   - extragalactic-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - seyfert-galaxy-synthetic-seed-2026-05-14
@@ -64,54 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Seyfert Galaxy Classification**
-> *Identify the spectral characteristics of Type 1 and Type 2 Seyferts.*
->
-> ```mermaid
-> graph TD
->   A[Type 1]
->   B[Type 2]
->   A -->|Broad Permitted & Narrow Forbidden Lines| C[Visible Broad-Line Region]
->   B -->|Narrow Forbidden Lines Only| D[Obscured Broad-Line Region]
-> ```
-
-
-> [!abstract] **Diagram 2 — Unified Model of AGN**
-> *Understand the orientation-based unification model for Seyfert galaxies.*
->
-> ```mermaid
-> graph TD
->   A[Type 1]
->   B[Type 2]
->   C[Torus]
->   D[Observer]
->   A -->|Direct View| D
->   B -->|Edge-On View| D
->   C -->|Obscures Broad-Line Region| B
-> ```
-
-
-> [!abstract] **Diagram 3 — Seyfert Galaxy Feedback Mechanisms**
-> *Observe how Seyfert galaxies influence star formation and dynamics.*
->
-> ```mermaid
-> flowchart LR
->   A[Active Nucleus]
->   B[Energetic Outflows]
->   C[Star Formation]
->   D[Stellar Dynamics]
->   A -->|Emission Lines| B
->   B -->|Feedback Mechanisms| C & D
-> ```
 
 # Seyfert Galaxy
 

@@ -19,7 +19,7 @@ subdomains:
   - zero-shot-retrieval
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hyde-hypothetical-document-embeddings-synthetic-seed-2026-05-20
@@ -66,36 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — HyDE Process Flow**
-> *Follow the flow from query to document retrieval.*
->
-> ```mermaid
-> flowchart LR
->   A[Query] --> B[Hypothetical Document Generation]
->   B --> C[Document Embedding]
->   C --> D[Similarity Search]
->   D --> E[Retrieved Documents]
-> ```
-
-
-> [!abstract] **Diagram 2 — HyDE vs Traditional Methods**
-> *Compare HyDE with keyword-based and fine-tuned methods.*
->
-> ```mermaid
-> graph TD
->   A[Hypothetical Document Generation] --> B[High Recall]
->   C[Keyword Expansion] --> D[Limited Effectiveness]
->   E[Fine-Tuning] --> F[Resource-Intensive]
-> ```
 
 # HyDE Hypothetical Document Embeddings
 

@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -155,41 +151,6 @@ Empirical studies have demonstrated that security-focused prompts designed with 
 > [!connection] **[[Cybersecurity Analysis Prompting]]** — *specializes*
 > Code Review Prompting specializes in cybersecurity analysis by focusing its prompts specifically on identifying vulnerabilities within the code. This specialization allows it to provide more targeted feedback compared to general code review processes, making it particularly useful for enhancing security measures.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Code Review Workflow Overview**
-> *Follow the flow from initial prompt to final review.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt] --> B[Model Analysis]
->   B --> C[Automated Feedback]
->   C --> D[Human Review]
-> ```
-
-
-> [!abstract] **Diagram 2 — Prompt Parameters for Code Reviews**
-> *Identify the key parameters in a code review prompt.*
->
-> ```mermaid
-> graph TD
->   A[Scope] --> B[Language]
->   A --> C[Framework Version]
->   A --> D[Security Threat Model]
-> ```
-
-
-> [!abstract] **Diagram 3 — Adversarial Reasoning in Code Reviews**
-> *Understand the adversarial approach to enhance security.*
->
-> ```mermaid
-> flowchart LR
->   A[Standard Review] --> B[Identifies Basic Issues]
->   C[Adversarial Prompt] --> D[Detects Advanced Threats]
->   E[Enhanced Security]
-> ```
 
 # Code Review Prompting
 

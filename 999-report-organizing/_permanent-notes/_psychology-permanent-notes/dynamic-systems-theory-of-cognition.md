@@ -18,7 +18,7 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26
@@ -66,64 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Dynamic Systems Overview**
-> *Follow the flow from inputs to emergent properties.*
->
-> ```mermaid
-> graph TD
->   A[Inputs]
->   B[Coupled State Variables]
->   C[Differential Equations]
->   D[Evolving Over Time]
->   E[Emergent Properties]
->   F[Multistability]
->   G[Self-Organization]
->   A -->|Interactions| B
->   B -->|Modelled By| C
->   C -->|Described As| D
->   D -->|Lead To| E
->   E -->|Including| F
->   E -->|And| G
-> ```
-
-
-> [!abstract] **Diagram 2 — Infant Locomotion Model**
-> *Trace the continuous interaction between body, environment, and gravity.*
->
-> ```mermaid
-> graph TD
->   A[Leg Movements]
->   B[Postural Adjustments]
->   C[Gravitational Forces]
->   D[Walking Development]
->   A -->|Interact With| B
->   B -->|And| C
->   C -->|Leading To| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Approach**
-> *See how hands-on activities facilitate learning through continuous practice.*
->
-> ```mermaid
-> graph TD
->   A[Hands-On Activities]
->   B[Continuous Practice]
->   C[Feedback]
->   D[Skill Development]
->   A -->|Encourages| B
->   B -->|With| C
->   C -->|Leads To| D
-> ```
 
 # Dynamic Systems Theory of Cognition
 

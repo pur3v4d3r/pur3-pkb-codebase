@@ -17,7 +17,7 @@ subdomains:
   - instructional-method
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-apprenticeship-synthetic-seed-2026-04-25
@@ -65,55 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Apprenticeship Process Flow**
-> *Follow the sequence from modeling to reflection.*
->
-> ```mermaid
-> flowchart LR
->   A[Modeling] --> B[Coaching]
->   B --> C[Scaffolding]
->   C --> D[Articulation]
->   D --> E[Reflection]
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Apprenticeship Core Elements**
-> *Identify the key components and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Modeling] --> B[Coaching]
->   A --> C[Scaffolding]
->   A --> D[Articulation]
->   A --> E[Reflection]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Apprenticeship Application Scenarios**
-> *See how the framework is applied in different settings.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Teacher as T
->   participant Student as S
->   participant Expert as E
->   participant Community as C
->   participant OnlinePlatform as O
->   participant MOOC as M
->   T->>S: Modeling (Math Classroom)
->   E->>C: Articulation (Communities-of-practice)
->   O->>E: Real-time Feedback (Online Learning)
->   M->>S: Spaced Retrieval (MOOCs)
-> ```
 
 # Cognitive Apprenticeship
 

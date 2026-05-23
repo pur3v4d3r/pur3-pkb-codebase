@@ -61,15 +61,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,62 +170,6 @@ Reflexion-Based Prompt Refinement leverages the model's meta-linguistic reasonin
 > [!connection] **[[Chain-of-Verification]]** — *applies-to*
 > Reflexion-Based Prompt Refinement can be particularly useful in verification processes where accuracy is paramount. By iteratively refining prompts based on model reflections, it enhances the reliability of verification outcomes, ensuring that each step in the chain is as robust and accurate as possible.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Refinement Cycle Overview**
-> *Follow the cycle from initial failure to refined prompt.*
->
-> ```mermaid
-> graph TD
->   A[Initial Failure]
->   B[Reflection Phase]
->   C[Identify Shortcomings]
->   D[Generate Improved Prompt]
->   E[Refined Prompt]
->   A -->|Trigger Reflection| B
->   B -->|Analyze Response| C
->   C -->|Pinpoint Issues| D
->   D -->|Linguistic Reasoning| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism Flowchart**
-> *Trace the steps from failure to refined prompt through linguistic reasoning.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Prompt]
->   B[Model Response]
->   C[Evaluation Failure]
->   D[Reflection Analysis]
->   E[Linguistic Reasoning]
->   F[Refined Prompt]
->   A -->|Generate Response| B
->   B -->|Evaluate Response| C
->   C -->|Identify Issues| D
->   D -->|Analyze Context| E
->   E -->|Improve Prompt| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Numerical Optimization**
-> *Compare Reflexion-Based refinement with numerical optimization methods.*
->
-> ```mermaid
-> graph TD
->   A[Reflexion-Based]
->   B[Linguistic Reasoning]
->   C[Targeted Improvements]
->   D[Numerical Optimization]
->   E[Mathematical Gradients]
->   F[Opaque Adjustments]
->   A -->|Leverages Reflection| B
->   B -->|Identify Shortcomings| C
->   D -->|Uses Gradients| E
->   E -->|Adjust Numerically| F
-> ```
 
 # Reflexion-Based Prompt Refinement
 

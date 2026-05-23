@@ -18,7 +18,7 @@ subdomains:
   - statistics
 
 created: 2026-04-27
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - probability-judgment-synthetic-seed-2026-04-27
@@ -70,50 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Bayesian vs Heuristic Process Flow**
-> *Follow the decision path from uncertainty to belief update.*
->
-> ```mermaid
-> flowchart LR
->   A[Uncertainty] --> B[Bayesian]
->   A --> C[Heuristics]
->   B --> D[Formal Update]
->   C --> E[Intuitive Shortcut]
->   F[Feedback] -->|Corrects| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Bias Interaction Diagram**
-> *Trace how biases distort probability judgments in decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Uncertainty] --> B[Ambiguous Info]
->   B --> C[Representativeness]
->   B --> D[Availability]\n  C --> E[Systematic Miscalibration]
->   D --> F[Vividness Bias]
-> ```
-
-
-> [!abstract] **Diagram 3 — Training Feedback Loop Diagram**
-> *Identify how feedback corrects heuristic overreliance in training.*
->
-> ```mermaid
-> flowchart LR
->   A[Expertise] --> B[Heuristic]
->   C[Feedback] -->|Highlights Discrepancy| D[Corrected Belief]
->   E[Training] --> F[Integration]
->   G[Real-Time Feedback] --> H[Misdiagnosis Rate]
-> ```
 
 # Probability Judgment
 

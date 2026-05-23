@@ -17,7 +17,7 @@ subdomains:
   - cognitive-science
 
 created: 2026-05-01
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - transformational-creativity-synthetic-seed-2026-05-01
@@ -64,43 +64,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Conceptual Space Alteration**
-> *Follow the flow from initial constraints to transformed conceptual space.*
->
-> ```mermaid
-> flowchart LR
->   A[Initial Constraints] --> B[Relax/Replace]
->   B --> C[Transformed Conceptual Space]
-> ```
-
-
-> [!abstract] **Diagram 2 — Transformational Creativity Mechanism**
-> *Trace the steps from problem framing to solution emergence.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem Framing] --> B[Constraint Relaxation]
->   B --> C[Novel Solution Emergence]
-> ```
-
-
-> [!abstract] **Diagram 3 — Creative Process Flow**
-> *Observe the progression from traditional methods to transformational creativity.*
->
-> ```mermaid
-> flowchart LR
->   A[Rote Memorization] --> B[Problem-Based Learning]
->   B --> C[Reframe Problems]
-> ```
 
 # Transformational Creativity
 

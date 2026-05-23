@@ -17,7 +17,7 @@ subdomains:
   - organizational-behavior
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - groupthink-synthetic-seed-2026-04-26
@@ -65,63 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Groupthink Mechanism Overview**
-> *Follow the stages from initial cohesiveness to rationalization.*
->
-> ```mermaid
-> graph TD
->   A[Initial Cohesiveness]
->   B[Suppression of Dissent]
->   C[Illusion of Unanimity]
->   D[Self-Censorship]
->   E[Rationalization]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Groupthink vs Confirmation Bias Comparison**
-> *Compare the focus of each concept on group dynamics and individual beliefs.*
->
-> ```mermaid
-> classDiagram
->   class Groupthink{
->     +Suppression of Dissent
->     +Cohesive Group Dynamics
->   }
->   class ConfirmationBias{
->     +Selective Information Processing
->     +Individual Belief Reinforcement
->   }
-> ```
-
-
-> [!abstract] **Diagram 3 — Groupthink in Decision-Making Process**
-> *Trace the flow from group cohesion to flawed decision-making.*
->
-> ```mermaid
-> flowchart LR
->   A[Group Cohesion]
->   B[Social Pressure]
->   C[Dissent Suppression]
->   D[Critical Evaluation Avoidance]
->   E[Flawed Decisions]
->   A -->|Creates| B
->   B -->|Increases| C
->   C -->|Leads to| D
->   D -->|Results in| E
-> ```
 
 # Groupthink
 

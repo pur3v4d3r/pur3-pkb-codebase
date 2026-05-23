@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,55 +157,6 @@ Empirical studies reveal that reported broad task generalisation in commercial L
 > [!connection] **[[Zero-shot Generalisation Mechanisms]]** — *specializes*
 > Task generalisation in LLMs is a broader concept that encompasses zero-shot mechanisms, which are specialized instances where models can perform tasks without explicit training. Understanding these mechanisms provides insights into the underlying cognitive processes enabling task generalisation across different contexts.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Task Generalisation Process Flow**
-> *Follow the flow from pretraining to task performance.*
->
-> ```mermaid
-> graph TD
->   A[Pretraining]
->   B[Instruction Tuning]
->   C[New Task Encounter]
->   D[Performance Evaluation]
->   A -->|Exposes model to diverse linguistic patterns|
->   B -->|Refines understanding of task structures|
->   C -->|Varies in success based on training resemblance|
->   C -->|Highlights limitations|
->   D -->|Evaluates performance across tasks
-> ```
-
-
-> [!abstract] **Diagram 2 — Task Generalisation vs Structural Novelty**
-> *Compare task-type generalisation with structural novelty.*
->
-> ```mermaid
-> graph TD
->   A[Task-Type Generalisation]
->   B[Structural Novelty]
->   A -->|Handles new instances of known tasks|
->   B -->|Requires compositional use of capabilities not combined in training|
->   A -->|Shares structural properties with training distribution|
->   B -->|Reveals fundamental limits on true generalisation
-> ```
-
-
-> [!abstract] **Diagram 3 — Task Generalisation Mechanism Overview**
-> *Trace the mechanism from pretraining to task performance.*
->
-> ```mermaid
-> flowchart LR
->   A[Pretraining]
->   B[Instruction Tuning]
->   C[Inference Phase]
->   D[Performance Evaluation]
->   A -->|Develops robust representation space|
->   B -->|Refines understanding of task structures|
->   C -->|Applies learned rules and patterns to new tasks|
->   D -->|Varies in success based on training resemblance
-> ```
 
 # Task Generalisation in Large Language Models
 

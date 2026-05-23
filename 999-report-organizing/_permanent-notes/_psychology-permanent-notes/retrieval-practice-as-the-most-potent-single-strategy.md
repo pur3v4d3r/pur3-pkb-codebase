@@ -21,7 +21,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
@@ -69,68 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Retrieval Practice Mechanism**
-> *Follow the flow from encoding to reconsolidation.*
->
-> ```mermaid
-> graph TD
->   A[Encoding]
->   B[Consolidation]
->   C[Reconsolidation]
->   D[Durable Memory]
->   A -->|Active Recall| B
->   B -->|Retrieval| C
->   C -->|Strengthening Neural Pathways| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Retrieval Practice vs Passive Review**
-> *Compare the outcomes of retrieval practice and passive review.*
->
-> ```mermaid
-> graph TD
->   A[Passive Review]
->   B[Retention Level]
->   C[Low Retention]
->   D[Retrieval Practice]
->   E[High Retention]
->   F[Transferability]
->   G[Enhanced Transfer]
->   H[Neutral Transfer]
->   A -->|Outcome| C
->   D -->|Outcome| E
->   C -->|Transfer| H
->   E -->|Transfer| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Retrieval Practice Applications**
-> *Identify the different contexts where retrieval practice can be applied.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Self-Study]
->   C[Professional Development]
->   D[MOOCs]
->   E[Regular Quizzes]
->   F[Spaced Repetition Systems]
->   G[Knowledge Checks]
->   H[Automated Quizzes]
->   A -->|Application| E
->   B -->|Application| F
->   C -->|Application| G
->   D -->|Application| H
-> ```
 
 # Retrieval Practice
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,45 +157,6 @@ Empirical evidence consistently shows that paraphrase invariance testing reveals
 > [!connection] **[[Adversarial Prompt Robustness]]** — *applies-to*
 > Paraphrase invariance testing is a specific application within the broader concept of adversarial prompt robustness. It targets semantic understanding by ensuring that models respond consistently to semantically equivalent prompts, thereby assessing their resilience against subtle variations in input phrasing.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Paraphrase Invariance Testing Process**
-> *Follow the flow from prompt generation to evaluation.*
->
-> ```mermaid
-> flowchart LR
->   A[Generate Semantically Equivalent Prompts]
->   B[Evaluate Model Responses]
->   C[Determine Consistency Across Variants]
-> ```
-
-
-> [!abstract] **Diagram 2 — Paraphrase Invariance vs Syntactic Variation Testing**
-> *Compare the focus of each testing method.*
->
-> ```mermaid
-> graph TD
->   A[Paraphrase Invariance]
->   B[Syntactic Variation]
->   A -->|Ensures Semantic Equivalence| C[Semantic Understanding]
->   B -->|May Alter Meaning| D[Surface-Form Associations]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Paraphrase Invariance Testing**
-> *Identify the different applications in prompt engineering.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design]
->   B[Benchmarking]
->   C[Model Improvement]
->   A -->|Ensure Consistent Understanding|
->   B -->|Provide Accurate Assessments|
->   C -->|Identify Semantic Weaknesses]
-> ```
 
 # Paraphrase Invariance Testing
 

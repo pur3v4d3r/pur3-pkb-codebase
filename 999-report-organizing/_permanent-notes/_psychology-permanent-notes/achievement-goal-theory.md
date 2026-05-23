@@ -18,7 +18,7 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - achievement-goal-theory-synthetic-seed-2026-04-24
@@ -65,84 +65,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mastery vs Performance Goals**
-> *Compare the focus of mastery and performance goals.*
->
-> ```mermaid
-> graph TD
->   A[Competence Definition]
->   B[Mastery]
->   C[Performance]
->   D[Valence]
->   E[Approach]
->   F[Avoidance]
->   A -->|Mastery Goals| B
->   A -->|Performance Goals| C
->   B -->|Approach Valence| G[Mastery-Approach]
->   B -->|Avoidance Valence| H[Mastery-Avoidance]
->   C -->|Approach Valence| I[Performance-Approach]
->   C -->|Avoidance Valence| J[Performance-Avoidance]
-> ```
-
-
-> [!abstract] **Diagram 2 — Goal Orientation Outcomes**
-> *Identify the outcomes associated with different goal orientations.*
->
-> ```mermaid
-> graph TD
->   A[Mastery-Approach]
->   B[Performance-Avoidance]
->   C[Adaptive Learning Patterns]
->   D[Maladaptive Behaviors]
->   E[Deep Processing Strategies]
->   F[Surface-Level Processing]
->   G[Effort Persistence]
->   H[Self-Handicapping]
->   A -->|Outcome| C
->   B -->|Outcome| D
->   C -->|Strategy| E
->   D -->|Strategy| F
->   C -->|Behavior| G
->   D -->|Behavior| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Influence on Motivation and Learning**
-> *Trace the influence of goal orientations on motivation and learning outcomes.*
->
-> ```mermaid
-> flowchart LR
->   A[Goal Orientation]
->   B[Mastery-Approach]
->   C[Performance-Avoidance]
->   D[Deep Processing]
->   E[Surface-Level Processing]
->   F[Effort Persistence]
->   G[Self-Handicapping]
->   H[Adaptive Learning Patterns]
->   I[Maladaptive Behaviors]
->   J[Better Academic Performance]
->   K[Worse Academic Performance]
->   A --> B
->   A --> C
->   B --> D
->   B --> F
->   C --> E
->   C --> G
->   D --> H
->   E --> I
->   F --> J
->   G --> K
-> ```
 
 # Achievement Goal Theory
 

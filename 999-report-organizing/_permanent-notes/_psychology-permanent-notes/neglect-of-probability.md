@@ -18,7 +18,7 @@ subdomains:
   - risk-perception
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - neglect-of-probability-synthetic-seed-2026-05-12
@@ -68,57 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Neglect Of Probability Mechanism**
-> *Follow the flow from emotional salience to risk perception.*
->
-> ```mermaid
-> graph TD
->   A[Emotionally Salient Outcome] --> B[Focus]
->   C[Probability of Outcome] --> D[Ignored]
->   E[Risk Perception] --> F[Distorted]
-> ```
-
-
-> [!abstract] **Diagram 2 — Neglect Of Probability vs Other Biases**
-> *Compare Neglect Of Probability with other reasoning biases.*
->
-> ```mermaid
-> classDiagram
->   class NeglectOfProbability{
->     +Misjudging Probabilities
->   }
->   class HastyGeneralization{
->     +Jumping to Conclusions
->   }
->   class FalseCauseFallacy{
->     +Incorrect Causation
->   }
->   NeglectOfProbability -->|Different from| HastyGeneralization
->   NeglectOfProbability -->|Different from| FalseCauseFallacy
-> ```
-
-
-> [!abstract] **Diagram 3 — Neglect Of Probability in Decision-Making**
-> *Trace the influence of media coverage on public perception.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Public
->   participant MediaCoverage
->   participant RiskPerception
->   MediaCoverage->>Public: Highlights Rare Events
->   Public-->>RiskPerception: Skewed Perception
->   RiskPerception-->>Public: Overestimates Rare Risks
-> ```
 
 # Neglect Of Probability
 

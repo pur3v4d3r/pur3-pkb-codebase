@@ -18,7 +18,7 @@ subdomains:
   - observational-astronomy
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - hertzsprung-russell-diagram-synthetic-seed-2026-05-14
@@ -69,47 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — HRD Key Populations**
-> *Identify main sequence, giant, supergiant, and white dwarf populations.*
->
-> ```mermaid
-> graph TD
->   A[Main Sequence] --> B[Giant]
->   B --> C[Supergiant]
->   D[White Dwarf] --> E[Dwarf Star]
-> ```
-
-
-> [!abstract] **Diagram 2 — HRD Evolutionary Tracks**
-> *Follow the paths stars take as they evolve over time.*
->
-> ```mermaid
-> flowchart LR
->   A[Birth] --> B[Main Sequence]
->   B --> C[Giant]
->   C --> D[Supergiant]
->   D --> E[Dwarf Star]
-> ```
-
-
-> [!abstract] **Diagram 3 — HRD Observational vs Theoretical**
-> *Compare observational proxies with corrected theoretical models.*
->
-> ```mermaid
-> sequenceDiagram
->   participant ObsProxy as "Color, Magnitude"
->   participant TheoModel as "Corrected Model"
->   ObsProxy->>TheoModel: Requires Corrections for Extinction, Distance, Metallicity
-> ```
 
 # Hertzsprung Russell Diagram
 

@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,28 +159,6 @@ Register and Tone Control not only enhances the stylistic versatility of LLMs bu
 > [!connection] **[[Audience Calibration]]** — *applies-to*
 > Register and Tone Control is a specific application of Audience Calibration, where the focus is on adjusting the language style to match the expectations and preferences of different audiences. By specifying roles that align with audience characteristics, this method ensures that generated content resonates more effectively with intended recipients.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Register and Tone Control Process Flow**
-> *Follow the flow from role specification to output style.*
->
-> ```mermaid
-> flowchart LR
->   A[Role Specification] --> B[Activate Learned Norms]
->   B --> C[Output Style]
-> ```
-
-
-> [!abstract] **Diagram 2 — Register and Tone Control Mechanism Overview**
-> *Compare role specification to direct stylistic instruction.*
->
-> ```mermaid
-> graph TD
->   A[Role Specification] -->|Activates Pre-learned Norms| C[Consistent Output]
->   B[Direct Stylistic Instruction] -->|Requires Inference| D[Inconsistent Output]
-> ```
 
 # Register and Tone Control
 

@@ -16,7 +16,7 @@ subdomains:
   - working-memory
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - episodic-buffer-synthetic-seed-2026-04-24
@@ -67,53 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Episodic Buffer Components**
-> *Identify the components that interact with the Episodic Buffer.*
->
-> ```mermaid
-> graph TD
->   A[Phonological Loop] --> B[Episodic Buffer]
->   C[Visuospatial Sketchpad] --> B
->   D[Central Executive] --> B
->   E[Long-Term Memory] -.-> B
-> ```
-
-
-> [!abstract] **Diagram 2 — Information Integration Process**
-> *Follow the flow of information from sources to coherent episodes.*
->
-> ```mermaid
-> flowchart LR
->   A[Phonological Loop] --> B[Integration]
->   C[Visuospatial Sketchpad] --> B
->   D[Central Executive] --> B
->   B --> E[Coherent Episodes]
-> ```
-
-
-> [!abstract] **Diagram 3 — Episodic Buffer Mechanism**
-> *Trace the steps of how multimodal information is bound together.*
->
-> ```mermaid
-> sequenceDiagram
->   participant PhonologicalLoop as PL
->   participant VisuospatialSketchpad as VS
->   participant CentralExecutive as CE
->   participant EpisodicBuffer as EB
->   PL->>EB: Auditory Information
->   VS->>EB: Visual Information
->   CE->>EB: Attentional Binding
->   EB-->>CE: Coherent Episode
-> ```
 
 # Episodic Buffer
 

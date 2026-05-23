@@ -21,7 +21,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - pintrich-self-regulation-foundational-report-2026-04-20
@@ -68,81 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Control Response Process Flow**
-> *Follow the sequence from monitoring to control move selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Monitor Learning]
->   B[Detect Deficit]
->   C[Determine Type]
->   D[Select Control Move]
->   A --> B
->   B -->|Cognitive| C
->   B -->|Motivational| C
->   B -->|Behavioral| C
->   C --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Diagnostic vs Habitual Control Moves**
-> *Compare diagnostic and habitual control moves based on monitoring signals.*
->
-> ```mermaid
-> graph TD
->   A[Monitoring Signal]
->   B[Determine Type]
->   C[Select Move]
->   D[Diagnose Issue]
->   E[Habitual Response]
->   F[Adaptive Control]
->   G[Reread Material]
->   H[Set Smaller Goals]
->   I[Break Down Problems]
->   A --> B
->   B -->|Diagnostic| C
->   B -->|Habitual| E
->   C --> D
->   D -->|Cognitive Issue| F
->   D -->|Motivational Issue| F
->   D -->|Behavioral Issue| F
->   E --> G
->   F --> H
->   F --> I
-> ```
-
-
-> [!abstract] **Diagram 3 — Control Mechanism Stages**
-> *Trace the stages from monitoring to control move selection.*
->
-> ```mermaid
-> flowchart LR
->   A[Monitor]
->   B[Determine Type]
->   C[Select Move]
->   D[Cognitive Issue]
->   E[Motivational Issue]
->   F[Behavioral Issue]
->   G[Adaptive Control]
->   H[Habitual Response]
->   A -->|Detect Deficit| B
->   B -->|Cognitive| D
->   B -->|Motivational| E
->   B -->|Behavioral| F
->   D --> G
->   E --> G
->   F --> G
->   A -->|No Deficit Detected| H
-> ```
 
 # Control as Diagnostic Response, Not Habitual Response
 

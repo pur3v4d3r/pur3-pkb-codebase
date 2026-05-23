@@ -18,7 +18,7 @@ subdomains:
   - curiosity-research
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - epistemic-curiosity-synthetic-seed-2026-04-25
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Epistemic Curiosity Facets**
-> *Identify the two types of epistemic curiosity and their motivations.*
->
-> ```mermaid
-> graph TD
->   A[Interest-Type]
->   B[Deprivation-Type]
->   A -->|Anticipated Pleasure| C[Acquisition]
->   B -->|Aversion to Gap| D[Filling Gaps]
-> ```
-
-
-> [!abstract] **Diagram 2 — Curiosity Motivational Origins**
-> *Understand the emotional drivers behind each type of curiosity.*
->
-> ```mermaid
-> graph TD
->   A[Interest-Type]
->   B[Deprivation-Type]
->   A -->|Positive Anticipation| E[Pleasure]
->   B -->|Negative Emotion| F[Frustration]
-> ```
-
-
-> [!abstract] **Diagram 3 — Curiosity in Learning Environments**
-> *See how different types of curiosity influence educational strategies.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Interest-Type as I
->   participant Deprivation-Type as D
->   participant Educator as E
->   I->>E: Engages with Novelty
->   E-->>I: Provides Surprises
->   D->>E: Seeks Knowledge Gaps
->   E-->>D: Offers Feedback
-> ```
 
 # Epistemic Curiosity
 

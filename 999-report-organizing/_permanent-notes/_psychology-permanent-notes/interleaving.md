@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - interleaving-synthetic-seed-2026-04-24
@@ -66,55 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Interleaving vs Blocked Practice**
-> *Compare the practice schedules of interleaving and blocked practice.*
->
-> ```mermaid
-> graph TD
->   A[Blocked]
->   B[Interleaved]
->   A -->|AAA BBB CCC| AA[High in-session accuracy]
->   B -->|ABC ABC ABC| BB[Better delayed retention & transfer]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanism of Interleaving**
-> *Understand how interleaving makes boundaries between categories salient.*
->
-> ```mermaid
-> flowchart LR
->   A[Problem Type 1] --> B[Distinguish]
->   C[Problem Type 2] --> B
->   D[Problem Type 3] --> B
->   B --> E[Saliency of Boundaries]
-> ```
-
-
-> [!abstract] **Diagram 3 — Interleaving in Instructional Design**
-> *See how interleaving can be applied in instructional design.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant SphereProblem as SP
->   participant ConeProblem as CP
->   participant CylinderProblem as YP
->   S->>SP: Solve sphere problem
->   SP-->>S: Feedback
->   S->>CP: Solve cone problem
->   CP-->>S: Feedback
->   S->>YP: Solve cylinder problem
->   YP-->>S: Feedback
-> ```
 
 # Interleaving
 

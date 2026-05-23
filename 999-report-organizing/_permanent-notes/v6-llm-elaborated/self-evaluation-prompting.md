@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,48 +165,6 @@ Self-Evaluation Prompting is not merely a technique for immediate output improve
 > [!connection] **[[LLM Judge Calibration]]** — *supports*
 > Self-Evaluation Prompting supports LLM Judge Calibration by providing a mechanism through which language models can assess their own performance. This internal assessment helps calibrate the model's self-assessment scores, making them more reliable and accurate over time. By aligning these scores with ground truth or human judgments, Self-Evaluation Prompting enhances the overall reliability of the model’s evaluation capabilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-Evaluation Mechanisms Overview**
-> *Identify the different mechanisms used for self-evaluation.*
->
-> ```mermaid
-> graph TD
->   A[Rating Scales]
->   B(Error Identification)
->   C(Criteria Comparison)
->   D(Probability Prediction)
->   A -->|Example| E[Model Rates Output]
->   B -->|Example| F[Identify Errors]
->   C -->|Example| G[Compare Against Criteria]
->   D -->|Example| H[Predict Likelihood]
-> ```
-
-
-> [!abstract] **Diagram 2 — Self-Evaluation vs Human Assessment**
-> *Understand the key distinctions between self-evaluation and human assessment.*
->
-> ```mermaid
-> graph TD
->   A[Self-Evaluation]
->   B[Human Assessment]
->   A -->|Internal Mechanisms| C[Model's Own Evaluation]
->   B -->|External Evaluators| D[Predefined Criteria]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Self-Evaluation**
-> *See the applications in instructional design and content moderation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Content Moderation]
->   A -->|Enhance Quality| C[Filter Out Subpar Material]
->   B -->|Flag Inappropriate Content| D[Human Review]
-> ```
 
 # Self-Evaluation Prompting
 

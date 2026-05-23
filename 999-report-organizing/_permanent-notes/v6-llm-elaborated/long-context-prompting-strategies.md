@@ -19,7 +19,7 @@ subdomains:
   - long-context-llms
 
 created: 2026-05-20
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - long-context-prompting-strategies-synthetic-seed-2026-05-20
@@ -66,49 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-20'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Long-context strategies overview**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> graph TD
->   A[Input Data]
->   B[Organize Sections]
->   C[Place Critical Info]
->   D[Summarize Context]
->   E[Provide Navigation]
->   F[Output Prompt]
-> ```
-
-
-> [!abstract] **Diagram 2 — Strategic placement effects**
-> *Observe how different placements affect recall and attention.*
->
-> ```mermaid
-> flowchart LR
->   A[Start] --> B[Primacy Effect]
->   C[Recency Effect] --> D[Lost in Middle]
->   E[Critical Info Start/End] --> F[Enhanced Recall]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical applications comparison**
-> *Compare the benefits across different application areas.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Legal Document Analysis] --> C[Speed Up Process]
->   D[Medical Record Review] --> E[Improve Accuracy]
-> ```
 
 # Long-Context Prompting Strategies
 

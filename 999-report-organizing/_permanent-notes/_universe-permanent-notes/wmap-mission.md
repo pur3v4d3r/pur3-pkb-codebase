@@ -18,7 +18,7 @@ subdomains:
   - cmb-research
 
 created: 2026-05-14
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - wmap-mission-synthetic-seed-2026-05-14
@@ -65,46 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — WMAP Mission Timeline**
-> *Follow the mission's operational period and key milestones.*
->
-> ```mermaid
-> graph TD
->   A[Launch] --> B[2001]
->   B --> C[Data Collection]
->   C --> D[2010]
->   D --> E[End of Mission]
-> ```
-
-
-> [!abstract] **Diagram 2 — WMAP vs Planck Precision Comparison**
-> *Compare the precision levels of WMAP and Planck missions.*
->
-> ```mermaid
-> graph TD
->   A[WMAP] --> B[3%]
->   C[Planck] --> D[1%]
-> ```
-
-
-> [!abstract] **Diagram 3 — CMB Anisotropies Measurement Process**
-> *Trace the process from data collection to cosmological parameter estimation.*
->
-> ```mermaid
-> flowchart LR
->   A[Data Collection] --> B[CMB Analysis]
->   B --> C[Parameter Estimation]
->   C --> D[Results]
-> ```
 
 # WMAP Mission
 

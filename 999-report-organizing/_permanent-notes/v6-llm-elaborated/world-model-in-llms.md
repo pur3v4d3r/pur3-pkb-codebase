@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -168,67 +164,6 @@ Empirical evidence from studies shows that LLMs can perform tasks indicative of 
 > [!connection] **[[Commonsense Reasoning]]** — *applies-to*
 > The World Model hypothesis is crucial for understanding commonsense reasoning in LLMs because it suggests that models can reason about everyday situations and physical processes, which often require an implicit understanding of the world's structure.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — World Model Hypothesis Overview**
-> *Follow the flow from surface-level text to deeper reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Surface-Level Text]
->   B[Statistical Pattern Matching]
->   C[Genuine World Modeling]
->   D[Systematic Reasoning]
->   E[Causal and Physical Understanding]
->   F[Tasks Requiring Deep Understanding]
->   A -->|Pattern Matching| B
->   B -->|Deeper Reasoning| C
->   C -->|Structured Planning| D
->   D -->|Causal/Physical Tasks| E
->   E -->|Task Performance| F
-> ```
-
-
-> [!abstract] **Diagram 2 — LLM Task Capabilities**
-> *Identify tasks where LLMs show structured reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Prompting Strategies]
->   C[Causal Reasoning]
->   D[Physical Simulation]
->   E[Spatial Reasoning]
->   F[Commonsense Tasks]
->   A -->|Activate World Model| C
->   B -->|Complex Scenarios| C
->   C -->|Tasks Requiring Coherence| D
->   D -->|Simulation of Events| E
->   E -->|Basic Physical Reasoning| F
-> ```
-
-
-> [!abstract] **Diagram 3 — Pattern Matching vs World Modeling**
-> *Compare genuine world modeling with pattern matching.*
->
-> ```mermaid
-> graph TD
->   A[Surface-Level Text]
->   B[Statistical Patterns]
->   C[Genuine Internal Representations]
->   D[Causal and Physical Understanding]
->   E[Pattern Matching]
->   F[Systematic Reasoning]
->   G[Tasks Requiring Deep Understanding]
->   A -->|Patterns| B
->   B -->|Surface-Level| E
->   A -->|Internal Models| C
->   C -->|Structured Planning| F
->   E -->|Tasks| G
->   F -->|Tasks| G
-> ```
 
 # World Model Hypothesis
 

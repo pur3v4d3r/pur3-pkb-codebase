@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,49 +155,6 @@ The synthesis of structured and approximate sparse attention mechanisms offers a
 > [!connection] **[[Sliding Window Attention]]** — *specializes*
 > Sparse attention patterns specialize into sliding window attention by focusing on local interactions within fixed-size windows. This specialization allows for efficient processing of sequential data, as each token only attends to its immediate neighbors, significantly reducing the number of computations required.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Sparse Attention Mechanisms Overview**
-> *Identify the different types of sparse attention patterns.*
->
-> ```mermaid
-> graph TD
->   A[Local Windows]
->   B(Global Tokens)
->   C(Approximate Sparse)
->   A -->|Example: Nearest Neighbors| D[Focused Interactions]
->   B -->|Example: Fixed Set| E[Selective Attention]
->   C -->|Example: LSH| F[Saliency Focus]
-> ```
-
-
-> [!abstract] **Diagram 2 — Sparse vs Full Attention Complexity**
-> *Compare the computational complexity of sparse and full attention.*
->
-> ```mermaid
-> flowchart LR
->   A[Full Attention]
->   B[Sparse Attention]
->   A -->|O(n^2)| G[Quadratic Complexity]
->   B -->|Sub-quadratic| H[Reduced Complexity]
-> ```
-
-
-> [!abstract] **Diagram 3 — Sparse Attention Workflow**
-> *Follow the workflow of a sparse attention mechanism.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Query as Q
->   participant Key as K
->   participant Value as V
->   participant Output as O
->   Q->>K: Compute Similarities
->   Q->>V: Retrieve Values
->   O-->>Q: Aggregate Outputs
-> ```
 
 # Sparse Attention Patterns
 

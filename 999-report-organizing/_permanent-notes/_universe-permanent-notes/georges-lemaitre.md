@@ -18,7 +18,7 @@ subdomains:
   - history-of-cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - georges-lemaitre-synthetic-seed-2026-05-14
@@ -65,53 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lemaitre's Primeval Atom Hypothesis**
-> *Follow the timeline of Lemaitre's key contributions.*
->
-> ```mermaid
-> graph TD
->   A[1927: Velocity-Distance Relation]
->   B[1931: Primeval Atom Proposal]
->   C[Observational Confirmation]
->   A -->|Proposes| B
->   B -->|Supports| C
-> ```
-
-
-> [!abstract] **Diagram 2 — Velocity-Distance Relation Timeline**
-> *Compare Lemaitre's and Hubble's independent derivations.*
->
-> ```mermaid
-> graph TD
->   A[1927: Lemaitre]
->   B[1929: Hubble]
->   C[Lemaitre's Paper]
->   D[Hubble's Discovery]
->   A -->|Derives Relation| C
->   B -->|Observes Redshifts| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Theoretical Foundations of Cosmology**
-> *Trace the theoretical roots leading to Lemaitre's hypothesis.*
->
-> ```mermaid
-> graph TD
->   A[Einstein's Field Equations]
->   B[Observations of Distant Galaxies]
->   C[Lemaitre's Primeval Atom Hypothesis]
->   A -->|Inspires| B
->   B -->|Supports| C
-> ```
 
 # Georges Lemaitre
 

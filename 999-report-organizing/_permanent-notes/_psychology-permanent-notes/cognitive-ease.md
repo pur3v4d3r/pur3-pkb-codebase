@@ -18,7 +18,7 @@ subdomains:
   - dual-process-theory
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-ease-synthetic-seed-2026-04-25
@@ -65,58 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — System 1 vs System 2 Processing**
-> *Identify the flow from System 1 to System 2 for decision-making.*
->
-> ```mermaid
-> graph TD
->   A[Fluent Information]
->   B[System 1 (Intuitive)]
->   C[System 2 (Analytical)]
->   D[Decision]
->   A -->|Smooth Processing| B
->   B -->|Automatic Cue| C
->   C -->|Deeper Scrutiny| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Ease Mechanism**
-> *Follow the path of how fluency biases judgment.*
->
-> ```mermaid
-> flowchart LR
->   A[Fluent Processing]
->   B[Affective Signal (Acceptance)]
->   C[Substantive Judgment]
->   D[Bias Towards Truth]
->   A -->|Automatic Cue| B
->   B -->|Skip Analysis| C
->   C -->|Bias| D
-> ```
-
-
-> [!abstract] **Diagram 3 — Influence of Cognitive Ease in Decision-Making**
-> *Trace the impact of fluent information on belief formation.*
->
-> ```mermaid
-> flowchart LR
->   A[Fluent Information]
->   B[Illusory Truth Effect]
->   C[Confirmation Bias]
->   D[Misinformation Spread]
->   A -->|Repeated Exposure| B
->   B -->|Bias| C
->   C -->|Persuasion| D
-> ```
 
 # Cognitive Ease
 

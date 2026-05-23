@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -169,48 +165,6 @@ LLMs perform inductive reasoning primarily through instance-based retrieval rath
 > [!connection] **[[Few-shot Prompting]]** — *applies-to*
 > Inductive reasoning and few-shot prompting are closely linked because both rely on the model's ability to generalize from limited examples. Few-shot prompting leverages inductive reasoning by providing minimal context for the LLM to infer broader rules, making it an effective strategy when extensive training data is not available.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Inductive Reasoning Process Flow**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Instance Retrieval]
->   B --> C[Pattern Recognition]
->   C --> D[Rule Application]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Inductive vs Deductive Reasoning Comparison**
-> *Compare the paths for inductive and deductive reasoning.*
->
-> ```mermaid
-> graph TD
->   A[Specific Examples] --> B[General Rule]
->   B --> C[New Cases]
->   D[General Rule] --> E[Specific Case]
->   style A fill:#f96,stroke:#333,stroke-width:4px
->   style B fill:#ccf,stroke:#333,stroke-width:4px
->   style C fill:#f96,stroke:#333,stroke-width:4px
->   style D fill:#ccf,stroke:#333,stroke-width:4px
->   style E fill:#f96,stroke:#333,stroke-width:4px
-> ```
-
-
-> [!abstract] **Diagram 3 — Inductive Reasoning Mechanism Overview**
-> *Trace the steps from input to output response.*
->
-> ```mermaid
-> flowchart LR
->   A[Input] --> B[Database Search]
->   B --> C[Similar Instances Found]
->   C --> D[Pattern Matching]
->   D --> E[Response Generation]
-> ```
 
 # Inductive Reasoning in LLMs
 

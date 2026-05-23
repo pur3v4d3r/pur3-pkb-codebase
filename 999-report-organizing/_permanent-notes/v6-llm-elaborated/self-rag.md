@@ -60,15 +60,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,52 +158,6 @@ Self-RAG represents a significant advancement in prompt engineering by enabling 
 > [!connection] **[[Reflection Tokens]]** — *applies-to*
 > Self-RAG relies on reflection tokens to guide its decision-making process, marking where self-critique and retrieval decisions are made. This integration of reflection tokens into the model's output ensures transparency and control over the reasoning process.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Self-RAG Process Flow**
-> *Follow the steps from query to output generation.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Query] --> B[Evaluate Retrieval Need]
->   B -->|Yes| C[Retrieve Information]
->   C --> D[Critique Retrieved Passages]
->   D --> E[Generate Output]
->   B -->|No| F[Use Internal Knowledge]
->   F --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Reflection Tokens Mechanism**
-> *Identify the role of reflection tokens in self-critique.*
->
-> ```mermaid
-> graph TD
->   A[Input Query] --> B[Evaluate Retrieval]
->   B -->|Yes| C[Retrieve Information]
->   C --> D[Critique Passages]
->   D --> E[Generate Output with Reflection Tokens]
->   B -->|No| F[Use Internal Knowledge]
->   F --> G[Generate Output without Tokens]
-> ```
-
-
-> [!abstract] **Diagram 3 — Self-RAG vs Standard RAG**
-> *Compare Self-RAG's decision-making process with standard RAG.*
->
-> ```mermaid
-> graph TD
->   A[Input Query] --> B[Evaluate Retrieval]
->   B -->|Yes| C[Retrieve Information]
->   C --> D[Critique Passages]
->   D --> E[Generate Output]
->   B -->|No| F[Use Internal Knowledge]
->   F --> G[Generate Output]
->   H[Standard RAG] --> I[Unconditional Retrieval]
->   I --> J[Generate Output]
-> ```
 
 # Self-RAG
 

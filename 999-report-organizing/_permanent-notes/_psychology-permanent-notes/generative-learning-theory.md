@@ -18,7 +18,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - generative-learning-theory-synthetic-seed-2026-04-24
@@ -65,47 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Generative Learning Process Flow**
-> *Follow the flow from new material to meaningful connections.*
->
-> ```mermaid
-> flowchart LR
->   A[New Material] --> B[Summarizing]
->   B --> C[Making Connections]
->   C --> D[Integrating Knowledge]
-> ```
-
-
-> [!abstract] **Diagram 2 — Generative Activities in Learning**
-> *Identify the key generative activities and their outcomes.*
->
-> ```mermaid
-> graph TD
->   A[Summarizing] --> B[Enhanced Retention]
->   C[Self-Explanation] --> D[Clarified Understanding]
->   E[Self-Testing] --> F[Strengthened Memory]
-> ```
-
-
-> [!abstract] **Diagram 3 — Cognitive Load in Generative Learning**
-> *Understand the balance between intrinsic and extraneous load.*
->
-> ```mermaid
-> stateDiagram-v2
->   [*] --> IntrinsicLoad: Engage with material
->   IntrinsicLoad --> MeaningfulProcessing: Create semantic connections
->   MeaningfulProcessing --> ExcessiveExtraneousLoad: Divert attention away
->   ExcessiveExtraneousLoad --> SuperficialTasks: Rote memorization
-> ```
 
 # Generative Learning Theory
 

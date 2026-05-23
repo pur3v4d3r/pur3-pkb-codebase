@@ -18,7 +18,7 @@ subdomains:
   - business
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - swot-analysis-synthetic-seed-2026-05-01
@@ -65,48 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — SWOT Categories Overview**
-> *Identify the four categories and their relationships.*
->
-> ```mermaid
-> graph TD
->   S[Strengths] -->|Internal Positive Attributes|
->   W[Weaknesses] -->|Internal Negative Attributes|
->   O[Opportunities] -->|External Positive Influences|
->   T[Threats] -->|External Negative Influences|
-> ```
-
-
-> [!abstract] **Diagram 2 — SWOT Analysis Process Flow**
-> *Follow the steps to conduct a SWOT analysis.*
->
-> ```mermaid
-> flowchart LR
->   A[Identify Internal Factors] --> B[Evaluate Strengths and Weaknesses]
->   C[Identify External Factors] --> D[Evaluate Opportunities and Threats]
->   E[TOWS Matrix Analysis] --> F[Generate Strategic Options]
-> ```
-
-
-> [!abstract] **Diagram 3 — TOWS-Matrix Cross-Reference**
-> *See how each category interacts with others to form strategic options.*
->
-> ```mermaid
-> graph TD
->   S1[Strengths] --> SO[SO]
->   W1[Weaknesses] --> WT[WT]
->   O1[Opportunities] --> OW[OW]
->   T1[Threats] --> ST[ST]
-> ```
 
 # SWOT Analysis
 

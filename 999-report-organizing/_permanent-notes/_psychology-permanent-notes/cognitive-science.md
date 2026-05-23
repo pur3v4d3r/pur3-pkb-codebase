@@ -19,7 +19,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-science-synthetic-seed-2026-04-25
@@ -70,61 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Science Levels Overview**
-> *Follow the flow from computational to implementational levels.*
->
-> ```mermaid
-> graph TD
->   A[Computational Level]
->   B[Algorithmic Level]
->   C[Implementational Level]
->   A --> B
->   B --> C
-> ```
-
-
-> [!abstract] **Diagram 2 — Cognitive Science Application Areas**
-> *See how different fields contribute to Cognitive Science.*
->
-> ```mermaid
-> graph TD
->   A[Psychology]
->   B[Computer Science]
->   C[N neuroscience]
->   D[Philosophy]
->   E[Linguistics]
->   F[A Anthropology]
->   G[Cognitive Science]
->   A -->|Contributes to|
->   B -->|Contributes to|
->   C -->|Contributes to|
->   D -->|Contributes to|
->   E -->|Contributes to|
->   F -->|Contributes to|
->   G
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Process Flow**
-> *Trace the steps from defining tasks to implementing designs.*
->
-> ```mermaid
-> flowchart LR
->   A[Define Task]
->   B[Explore Solutions]
->   C[Implement Designs]
->   A --> B
->   B --> C
-> ```
 
 # Cognitive Science
 

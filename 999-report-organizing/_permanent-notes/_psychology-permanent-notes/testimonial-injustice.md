@@ -17,7 +17,7 @@ subdomains:
   - social-epistemology
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - testimonial-injustice-synthetic-seed-2026-05-01
@@ -66,58 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Testimonial Injustice Mechanism**
-> *Follow the flow from prejudice to undervaluation.*
->
-> ```mermaid
-> graph TD
->   A[Prejudice]
->   B[Credibility Assessment]
->   C[Uncorrected Bias]
->   D[Testimony Undervaluation]
->   A -->|Activates stereotypes and prejudices| B
->   B -->|Operates unconsciously| C
->   C -->|Leads to biased judgments| D
-> ```
-
-
-> [!abstract] **Diagram 2 — Testimonial Injustice Contexts**
-> *Identify the contexts where testimonial injustice occurs.*
->
-> ```mermaid
-> graph TD
->   A[Classrooms]
->   B[Workplaces]
->   C[Public Forums]
->   D[MOOCs]
->   A -->|Undervaluation based on socioeconomic status|
->   B -->|Discounted expertise due to stereotypes|
->   C -->|Skewed collective understanding|
->   D -->|Missed opportunities for spaced retrieval
-> ```
-
-
-> [!abstract] **Diagram 3 — Ethical vs Epistemic Dimensions**
-> *Compare the ethical and epistemic impacts of testimonial injustice.*
->
-> ```mermaid
-> graph TD
->   A[Ethical Wrong]
->   B[Epistemic Wrong]
->   C[Treating speaker with less respect]
->   D[Excluding valid information]
->   A -->|Treats speaker with less respect than deserved| C
->   B -->|Excludes valid information from credible-testimony pool| D
-> ```
 
 # Testimonial Injustice
 

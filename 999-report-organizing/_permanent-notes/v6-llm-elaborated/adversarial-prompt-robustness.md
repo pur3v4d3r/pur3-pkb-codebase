@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -159,53 +155,6 @@ The evidence underscores the complexity and evolving nature of adversarial promp
 > [!connection] **[[Prompt Brittleness]]** — *contrasts-with*
 > Adversarial prompt robustness contrasts with prompt brittleness in that the former focuses on enhancing a system's resilience against crafted inputs designed to exploit vulnerabilities, while the latter highlights how easily language models can be misled by subtle changes in input. Understanding this contrast is crucial for developing strategies that not only detect and mitigate adversarial prompts but also improve overall model robustness.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Adversarial Prompt Types Overview**
-> *Identify the different types of adversarial prompts and their impacts.*
->
-> ```mermaid
-> graph TD
->   A[Start]
->   A --> B[Jailbreaks]
->   A --> C[Prompt-Injection]
->   A --> D[Semantic Adversaries]
-> ```
-
-
-> [!abstract] **Diagram 2 — Adversarial Prompt Robustness Strategies**
-> *Understand the strategies to enhance robustness against adversarial prompts.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Monitoring]
->   B[Output Filtering]
->   C[System Architecture Separation]
->   D[Contextual Input Handling]
->   A -->|Detects Malicious Inputs| E[Enhanced Robustness]
->   B -->|Prevents Harmful Outputs| E
->   C -->|Separates User and System Contexts| E
->   D -->|Handles Different Types of Input| E
-> ```
-
-
-> [!abstract] **Diagram 3 — Adversarial Prompt Robustness vs General Model Security**
-> *Compare adversarial prompt robustness with general model security.*
->
-> ```mermaid
-> classDiagram
->   class AdversarialPromptRobustness{
->     +ResilienceAgainstCraftedInputs()
->     +ExploitsVulnerabilitiesInResponseMechanism()
->   }
->   class GeneralModelSecurity{
->     +BroadRangeOfThreatsToMLSystems()
->     -DoesNotFocusOnSpecificInputManipulation()
->   }
->   AdversarialPromptRobustness -->|DistinctFrom| GeneralModelSecurity
-> ```
 
 # Adversarial Prompt Robustness
 

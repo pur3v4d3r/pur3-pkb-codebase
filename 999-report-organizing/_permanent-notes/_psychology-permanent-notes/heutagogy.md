@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -70,36 +70,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Heutagogy Phases Overview**
-> *Follow the progression from dependence to sovereignty.*
->
-> ```mermaid
-> graph TD
->   A[Guided Dependence] --> B[Structured Exploration]
->   B --> C[Negotiated Autonomy]
->   C --> D[Supported Independence]
->   D --> E[Autonomous Sovereignty]
-> ```
-
-
-> [!abstract] **Diagram 2 — Heutagogy vs Andragogy Comparison**
-> *Compare the scope of learner control in each theory.*
->
-> ```mermaid
-> flowchart LR
->   A[Andragogy] --> B[How to Learn]
->   C[Heutagogy] --> D[What and How to Learn]
->   E[Evaluation Criteria] --> F[Learner Defined]
-> ```
 
 # Heutagogy
 

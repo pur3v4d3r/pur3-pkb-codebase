@@ -18,7 +18,7 @@ subdomains:
   - cosmology
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - matter-antimatter-asymmetry-synthetic-seed-2026-05-14
@@ -65,44 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sakharov Conditions Overview**
-> *Identify the three conditions necessary for baryon asymmetry generation.*
->
-> ```mermaid
-> graph TD
->   A["Baryon-Number Violation"] --> B["C and CP Violation"]
->   B --> C["Departure from Thermal Equilibrium"]
-> ```
-
-
-> [!abstract] **Diagram 2 — Standard Model Limitations**
-> *Understand the Standard Model's shortcomings in explaining Matter Antimatter Asymmetry.*
->
-> ```mermaid
-> graph TD
-> A["Insufficient CP Violation"] --> B["Weak First-Order Phase Transition"]
-> ```
-
-
-> [!abstract] **Diagram 3 — Conceptual Hierarchy of Asymmetry**
-> *Navigate the hierarchy from fundamental concepts to practical implications.*
->
-> ```mermaid
-> graph TD
->   A["Cosmology"] --> B["Matter Antimatter Asymmetry"]
->   B --> C["Sakharov Conditions"]
->   B --> D["Standard Model Limitations"]
->   B --> E["Beyond-the-Standard-Model Physics"]
-> ```
 
 # Matter Antimatter Asymmetry
 

@@ -66,15 +66,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -183,46 +179,6 @@ Empirical analyses of real production traffic distributions consistently show th
 > [!connection] **[[Latency-Quality Tradeoff]]** — *applies-to*
 > Model routing strategies directly address the latency-quality tradeoff by optimizing how queries are directed to different models. By ensuring that simpler tasks are handled quickly and more complex ones receive adequate processing time, these strategies balance response speed with output quality.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Complexity-based Routing Flow**
-> *Follow the flow from simple to complex queries.*
->
-> ```mermaid
-> flowchart LR
->   A[Simple Query] --> B[Faster Model]
->   C[Complex Query] --> D[More Capable Model]
-> ```
-
-
-> [!abstract] **Diagram 2 — Semantic Router Mapping**
-> *Trace how different types of queries are routed to specialized models.*
->
-> ```mermaid
-> graph TD
->   A[Code Inquiry] --> B(Code Model)
->   C[Math Query] --> D(Math Model)
-> ```
-
-
-> [!abstract] **Diagram 3 — Cascade Routing Strategy**
-> *Observe the escalation process from cheaper to more capable models.*
->
-> ```mermaid
-> sequenceDiagram
->   participant SimpleModel as S
->   participant ComplexModel as C
->   Alice->>S: Initial Request
->   S-->>Alice: Response
->   alt Confidence < Threshold
->     Alice->>C: Escalate Request
->     C-->>Alice: Final Response
->   else Confidence >= Threshold
->     Alice-->>Alice: Accept Simple Response
->   end
-> ```
 
 # Model Routing Strategies
 

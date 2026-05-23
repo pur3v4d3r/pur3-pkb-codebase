@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,41 +156,6 @@ In summary, Medical Clinical Prompting is a foundational practice in harnessing 
 > [!connection] **[[Retrieval-Augmented Generation]]** — *applies-to*
 > Medical Clinical Prompting leverages Retrieval-Augmented Generation to enhance the accuracy and relevance of AI-generated medical responses. By integrating external knowledge sources, these systems can provide more comprehensive and contextually appropriate advice, thereby improving patient care outcomes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Medical Clinical Prompting Process Flow**
-> *Follow the flow from input to output, noting key steps and outputs.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Data] --> B[Clinical Context]
->   B --> C[Prompt Design]
->   C --> D[LLM Processing]
->   D --> E[Safety Mechanisms]
->   E --> F[Output Response]
-> ```
-
-
-> [!abstract] **Diagram 2 — Medical Clinical Prompting Safety Mechanisms**
-> *Identify the safety mechanisms that ensure clinical accuracy and safety.*
->
-> ```mermaid
-> graph TD
->   A[Explicit Uncertainty Quantification] --> B[Mandatory Escalation Cues]
->   B --> C[Out-of-Scope Refusal Patterns]
-> ```
-
-
-> [!abstract] **Diagram 3 — Medical Clinical Prompting Applications**
-> *Trace the applications of Medical Clinical Prompting in different healthcare contexts.*
->
-> ```mermaid
-> flowchart LR
->   A[Instructional Design] --> B[Clinical Decision Support]
->   B --> C[Patient Communication]
-> ```
 
 # Medical Clinical Prompting
 

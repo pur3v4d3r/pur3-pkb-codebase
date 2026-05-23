@@ -17,7 +17,7 @@ subdomains:
   - metaphysics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - mental-causation-synthetic-seed-2026-04-25
@@ -67,69 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Mental Causation Trilemma**
-> *Identify the three outcomes of mental causation given physical causal closure.*
->
-> ```mermaid
-> graph TD
->   A[Physical Effect]
->   B[Mental Cause]
->   C[Sufficient Physical Cause]
->   D[Redundant]
->   E[Excluded]
->   F[Bypass Closure]
->   A -->|Is there a sufficient cause?| C
->   B -->|Mental cause present?| D
->   C -->|Yes| D
->   B -->|No| E
->   B -->|Bypass closure| F
-> ```
-
-
-> [!abstract] **Diagram 2 — Supervenience of Mental on Physical**
-> *Understand the relationship between mental and physical states.*
->
-> ```mermaid
-> graph TD
->   A[Physical State]
->   B[Mental State]
->   C[Change in Physical]
->   D[Change in Mental]
->   E[No Change in Physical]
->   F[Change in Physical]
->   G[No Change in Mental]
->   H[Change in Mental]
->   A -->|Physical change?| C
->   B -->|Mental change?| D
->   C -->|Yes| F
->   C -->|No| E
->   D -->|Yes| H
->   D -->|No| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Mental to Physical Interaction Flow**
-> *Trace the flow from mental states influencing physical actions.*
->
-> ```mermaid
-> flowchart LR
->   A[Belief/Desire]
->   B[Intention]
->   C[Muscle Activation]
->   D[Bodily Action]
->   A -->|Generate Intention| B
->   B -->|Activate Muscles| C
->   C -->|Perform Action| D
-> ```
 
 # Mental Causation
 

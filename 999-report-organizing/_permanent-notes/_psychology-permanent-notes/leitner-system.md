@@ -19,7 +19,7 @@ subdomains:
   - study-strategy
 
 created: 2026-04-26
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - leitner-system-synthetic-seed-2026-04-26
@@ -66,61 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Flashcard Movement Process**
-> *Follow the arrows to see how cards move between boxes.*
->
-> ```mermaid
-> flowchart LR
->   A[Box 1] -->|Correct| B[Box 2]
->   B -->|Correct| C[Box 3]
->   C -->|Correct| D[Box 4]
->   A -->|Incorrect| E[Box 1]
->   B -->|Incorrect| F[Box 1]
->   C -->|Incorrect| G[Box 2]
-> ```
-
-
-> [!abstract] **Diagram 2 — Review Interval Adjustments**
-> *Notice the increasing intervals between reviews.*
->
-> ```mermaid
-> graph TD
->   A[Box 1] --> B(Weekly)
->   B --> C[Box 2]
->   C --> D(Biweekly)
->   D --> E[Box 3]
->   E --> F(Monthly)
->   F --> G[Box 4]
-> ```
-
-
-> [!abstract] **Diagram 3 — Comparison with Digital SRS Systems**
-> *Compare tangible feedback (Leitner) vs intangible (Digital).*
->
-> ```mermaid
-> classDiagram
->   class LeitnerSystem {
->     +VisibleBoxes()
->     +PhysicalMovement()
->   }
->   class DigitalSRS {
->     +AlgorithmicScheduling()
->     +IntangibleFeedback()
->   }
->   LeitnerSystem --> VisibleBoxes : Provides
->   LeitnerSystem --> PhysicalMovement : Uses
->   DigitalSRS --> AlgorithmicScheduling : Employs
->   DigitalSRS --> IntangibleFeedback : Offers
-> ```
 
 # Leitner System
 

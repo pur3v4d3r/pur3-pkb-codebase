@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-education
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - ennis-critical-thinking-model-synthetic-seed-2026-05-12
@@ -65,51 +65,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Ennis Model Core Components**
-> *Identify the cognitive abilities and dispositional attitudes.*
->
-> ```mermaid
-> graph TD
->   A[Clarification]
->   B[Basis Assessment]
->   C[Inference]
->   D[Supposition]
->   E[Integration]
->   F[Truth-Seeking]
->   G[Open-Mindedness]
->   H[Dignity Respect]
-> ```
-
-
-> [!abstract] **Diagram 2 — Ennis Model Application Process**
-> *Follow the steps from clarification to integration.*
->
-> ```mermaid
-> flowchart LR
->   A[Clarification] --> B[Basis Assessment]
->   B --> C[Inference]
->   C --> D[Supposition]
->   D --> E[Integration]
-> ```
-
-
-> [!abstract] **Diagram 3 — Ennis Model Dispositions**
-> *Notice the dispositional attitudes that complement cognitive abilities.*
->
-> ```mermaid
-> graph TD
->   A[Truth-Seeking] --> B[Open-Mindedness]
->   B --> C[Dignity Respect]
-> ```
 
 # Ennis Critical Thinking Model
 

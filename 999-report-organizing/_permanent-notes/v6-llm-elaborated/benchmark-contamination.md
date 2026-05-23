@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -162,54 +158,6 @@ Addressing benchmark contamination is essential for advancing the field of LLM e
 > [!connection] **[[Dynamic Benchmarking]]** — *applies-to*
 > Dynamic benchmarking addresses the issue of benchmark contamination by continuously updating evaluation datasets to prevent memorization. This approach ensures that models are evaluated on a diverse set of questions, reducing the likelihood of contamination and promoting genuine generalization capabilities. By following dynamic benchmarking practices, researchers can mitigate the risks associated with static benchmarks and obtain more reliable performance metrics.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Benchmark Contamination Mechanisms**
-> *Identify the two primary pathways of contamination.*
->
-> ```mermaid
-> graph TD
->   A[Verbatim Memorization]
->   B[Near-Duplicate Contamination]
->   A -->|Exact Q&A in Training|
->   B -->|Paraphrased/Semantic Similarity|
-> ```
-
-
-> [!abstract] **Diagram 2 — Impact of Benchmark Contamination**
-> *Understand the effects on model performance metrics.*
->
-> ```mermaid
-> flowchart LR
->   A[Inflated Performance Metrics]
->   B[2-10 Percentage Points Inflation]
->   C[Apparent Ranking Alteration]
->   D[Misrepresented Improvements]
->   A -->|Due to Memorization|
->   B
->   A -->|Altered Model Rankings|
->   C
->   A -->|Misleading Research Progress|
->   D
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Contamination**
-> *See the implications for instructional design and validation.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Model Validation]
->   C[Avoid Inflated Metrics]
->   D[Rigorous Detection Methods]
->   A -->|Ensure Distinct Benchmarks|
->   C
->   B -->|Detect Verbatim and Near-Duplicate|
->   D
-> ```
 
 # Benchmark Contamination
 

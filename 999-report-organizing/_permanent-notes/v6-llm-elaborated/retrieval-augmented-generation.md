@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,43 +162,6 @@ By integrating retrieval with generation, RAG bridges the gap between static pre
 > [!connection] **[[Information Retrieval]]** — *contrasts-with*
 > While Information Retrieval focuses on efficiently locating documents containing specific information, RAG integrates retrieval into the generation process to enhance response quality. This contrasts with traditional IR systems that do not directly influence text generation.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — RAG Workflow Overview**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Prompt] --> B(Query Derivation)
->   B --> C(Document Retrieval)
->   C --> D(Language Model Conditioning)
->   D --> E(Generated Text)
-> ```
-
-
-> [!abstract] **Diagram 2 — RAG vs Traditional LLMs**
-> *Compare the two approaches in terms of knowledge sources.*
->
-> ```mermaid
-> graph TD
->   A[Traditional LLM]
->   B[RAG]
->   A -->|Internal Parametric Memory| C[Generated Text]
->   B -->|External Retrieval Mechanism| D(Document Evidence)
->   B -->|Document Evidence + Input| E(Generated Text)
-> ```
-
-
-> [!abstract] **Diagram 3 — RAG Application Areas**
-> *Identify the areas where RAG can be applied effectively.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B(Reliable Educational Content)
->   C(Customer Service) --> D(Contextually Relevant Responses)
-> ```
 
 # Retrieval-Augmented Generation
 

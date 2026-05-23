@@ -18,7 +18,7 @@ subdomains:
   - black-hole-thermodynamics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - black-hole-information-paradox-synthetic-seed-2026-05-14
@@ -67,47 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Hawking Radiation Process Flow**
-> *Follow the flow from matter falling into a black hole to Hawking radiation emission.*
->
-> ```mermaid
-> flowchart LR
->   A[Incoming Matter] --> B[Black Hole Absorption]
->   B --> C[Hawking Radiation Emission]
->   C --> D[Pure Thermal Energy]
-> ```
-
-
-> [!abstract] **Diagram 2 — Information Preservation Theories Comparison**
-> *Compare different theories on how information might be preserved in black hole evaporation.*
->
-> ```mermaid
-> graph TD
->   A[AdS/CFT Duality] --> B[Holographic Encoding]
->   C[String Theory] --> D[Quantum Entanglements]
->   E[Loop Quantum Gravity] --> F[Information Retention]
-> ```
-
-
-> [!abstract] **Diagram 3 — Entropy and Information Flow in Black Holes**
-> *Trace the flow of entropy and information from matter falling into a black hole to its eventual evaporation.*
->
-> ```mermaid
-> flowchart LR
->   A[Incoming Matter] --> B[Black Hole Absorption]
->   B --> C[Increase Entropy]
->   C --> D[Hawking Radiation Emission]
->   D --> E[Potential Information Loss]
-> ```
 
 # Black Hole Information Paradox
 

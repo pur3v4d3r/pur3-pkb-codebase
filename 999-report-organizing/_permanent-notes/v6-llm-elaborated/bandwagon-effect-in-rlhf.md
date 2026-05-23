@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -161,44 +157,6 @@ Empirical evidence demonstrates that the Bandwagon Effect in RLHF leads to measu
 > [!connection] **[[Social Desirability Bias in LLMS]]** — *contrasts-with*
 > While both biases involve conformity pressures, Social Desirability Bias focuses on individuals presenting themselves favorably regardless of the truth, whereas the Bandwagon Effect specifically involves raters rewarding consensus views over minority perspectives. Understanding this distinction is crucial for designing feedback mechanisms that mitigate bias in AI training.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Bandwagon Effect Process Flow**
-> *Follow the flow from raters' conformity to model outputs.*
->
-> ```mermaid
-> flowchart LR
->   A[Popular Opinion] --> B[Raters Favor]
->   B --> C[Model Rewards]
->   C --> D[Consensus Outputs]
-> ```
-
-
-> [!abstract] **Diagram 2 — Bandwagon vs Other Biases Comparison**
-> *Compare Bandwagon Effect with Social Desirability and Authority Bias.*
->
-> ```mermaid
-> graph TD
->   A[Bandwagon]
->   B[Social Desirability]
->   C[Authority]
->   A -->|Favors Consensus| D[Conformity Rewards]
->   B -->|Presents Favorably| E[Favorable Light]
->   C -->|Defers to Authority| F[Undue Weight]
-> ```
-
-
-> [!abstract] **Diagram 3 — Impact on Knowledge Dissemination**
-> *Trace the impact from outdated consensus to model outputs.*
->
-> ```mermaid
-> flowchart LR
->   A[Outdated Consensus] --> B[Raters Reward]
->   B --> C[Model Outputs]
->   C --> D[Lag in Advancements]
-> ```
 
 # Bandwagon Effect in RLHF
 

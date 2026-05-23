@@ -17,7 +17,7 @@ subdomains:
   - behavioral-economics
 
 created: 2026-05-01
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - behavior-change-theory-synthetic-seed-2026-05-01
@@ -72,54 +72,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Behavior Change Theories Overview**
-> *Identify the main theories and their relationships.*
->
-> ```mermaid
-> graph TD
->   A[Theory of Planned Behavior] --> B(Attitudes)
->   A --> C(Norms)
->   A --> D(Control)
->   E[Transtheoretical Model] --> F(Precontemplation)
->   E --> G(Contemplation)
->   E --> H(Preparation)
->   E --> I(Action)
->   E --> J(Maintenance)
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanisms of Behavior Change Theories**
-> *Understand the mechanisms proposed by each theory.*
->
-> ```mermaid
-> flowchart LR
->   A[Theory of Planned Behavior] --> B(Change Attitudes)
->   A --> C(Change Norms)
->   A --> D(Change Control)
->   E[Transtheoretical Model] --> F(Move Stages)
->   E --> G(Tailored Strategies)
-> ```
-
-
-> [!abstract] **Diagram 3 — Behavior Change Applications**
-> *See how theories are applied in different contexts.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Tailor Interventions]
->   C[Public Health Campaigns] --> D[Change Attitudes]
->   E[Corporate Wellness Programs] --> F[Tailored Resources]
->   G[Community-Based Interventions] --> H[Multifaceted Programs]
-> ```
 
 # Behavior Change Theory
 

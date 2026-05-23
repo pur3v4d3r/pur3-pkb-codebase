@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,49 +156,6 @@ Human preference evaluation is highlighted as the most ecologically valid measur
 > [!connection] **[[Model-Graded Evaluation]]** — *contrasts-with*
 > While model-graded evaluation involves comparing outputs from different models based on predefined criteria, human preference evaluation focuses on subjective judgments made by annotators. This distinction is important because it highlights the role of user satisfaction in evaluating language model performance.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Human Preference Evaluation Process**
-> *Follow the flow from input to output, noting key steps.*
->
-> ```mermaid
-> flowchart LR
->   A[Input Pair] --> B[Annotator]
->   B --> C[Evaluation Criteria]
->   C --> D[Preference Decision]
->   D --> E[Output]
-> ```
-
-
-> [!abstract] **Diagram 2 — Comparison of Evaluation Methods**
-> *Compare human preference evaluation with other methods.*
->
-> ```mermaid
-> graph TD
->   A[Human Preference Evaluation] -->|Subjective Criteria| B(Helpfulness)
->   A -->|Accuracy| C(Accuracy)
->   A -->|Harmlessness| D(Harmlessness)
->   A -->|Coherence| E(Coherence)
->   F[Automated Metrics] -->|Objective Measures| G(Objectivity)
->   H[Model-Graded Evaluation] -->|Internal Consistency| I(Consistency)
-> ```
-
-
-> [!abstract] **Diagram 3 — Application in Training Reward Models**
-> *Trace the process from human feedback to reward model training.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Annotator as A
->   participant Model as M
->   participant Trainer as T
->   A->>M: Provide Input Pair
->   M-->>A: Generate Outputs
->   A->>T: Submit Preference Decision
->   T->>M: Adjust Reward Function
-> ```
 
 # Human Preference Evaluation
 

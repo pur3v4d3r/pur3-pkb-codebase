@@ -18,7 +18,7 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - underdetermination-thesis-synthetic-seed-2026-04-26
@@ -66,57 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Theory Selection Process**
-> *Follow the flow from evidence to theory selection criteria.*
->
-> ```mermaid
-> graph TD
->   A[Empirical Evidence] --> B[Multiple Theories]
->   B --> C1[Simplicity]
->   B --> C2[Coherence]
->   B --> C3[Fruitfulness]
->   C1 --> D[Theory Selection]
->   C2 --> D
->   C3 --> D
-> ```
-
-
-> [!abstract] **Diagram 2 — Interconnected Theories and Auxiliaries**
-> *Trace the relationship between a theory and its auxiliary hypotheses.*
->
-> ```mermaid
-> graph TD
->   A[Theory] --> B[Auxiliary Hypotheses]
->   B --> C[Observation]
->   C --> D[Support or Falsify Theory]
-> ```
-
-
-> [!abstract] **Diagram 3 — Historical Examples Timeline**
-> *Identify key historical examples of underdetermination in science.*
->
-> ```mermaid
-> sequenceDiagram
->   participant QuantumMechanics as QM
->   participant Behaviorism as B
->   participant Constructivism as C
->   participant Duhem as D
->   participant Quine as Q
->   QM->>QM: Multiple interpretations fit data
->   B->>B: Explains performance equally well
->   C->>C: Explains performance equally well
->   D->>D: No single observation confirms hypothesis
->   Q->>Q: Holistic nature of empirical evidence
-> ```
 
 # Underdetermination Thesis
 

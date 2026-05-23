@@ -64,15 +64,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -163,42 +159,6 @@ Empirical studies consistently demonstrate that LLMs exhibit base rate neglect a
 > [!connection] **[[Representativeness Heuristic in LLMs]]** — *contrasts-with*
 > Both base rate neglect and the representativeness heuristic involve biases in probabilistic reasoning, but they differ fundamentally. Base rate neglect occurs when models ignore prior probabilities in favor of specific case details, whereas the representativeness heuristic leads to overestimating the likelihood of an event based on how typical or representative it seems.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Base Rate Neglect Process Flow**
-> *Follow the flow from input to output, noting where base rate information is neglected.*
->
-> ```mermaid
-> flowchart LR
->   A[Detailed Case Information] --> B[LLM Processing]
->   B --> C[Narrative Richness Focus]
->   C --> D[Ignored Base Rate Info]
->   D --> E[Skewed Probability Estimate]
-> ```
-
-
-> [!abstract] **Diagram 2 — Base Rate Neglect vs Heuristics Comparison**
-> *Compare the focus of base rate neglect with representativeness and availability heuristics.*
->
-> ```mermaid
-> graph TD
->   A[Base Rate Neglect] --> B[Ignoring Statistical Frequencies]
->   C[Representativeness Heuristic] --> D[Judging Typicality]
->   E[Availability Heuristic] --> F[Basing on Accessibility]
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Base Rate Neglect**
-> *Identify the areas where base rate neglect can lead to significant errors.*
->
-> ```mermaid
-> flowchart LR
->   A[Medical Diagnosis] --> B[Overdiagnosis]
->   C[Legal Judgment] --> D[Unjustified Suspicion]
->   E[Risk Assessment] --> F[Irregular Risk Estimates]
-> ```
 
 # Base Rate Neglect in LLMs
 

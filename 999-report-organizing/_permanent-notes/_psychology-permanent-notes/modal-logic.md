@@ -17,7 +17,7 @@ subdomains:
   - computer-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - modal-logic-synthetic-seed-2026-04-24
@@ -68,52 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Modal Operators Overview**
-> *Identify the meaning of necessity and possibility operators.*
->
-> ```mermaid
-> graph TD
->   A[□P]
->   B[◇P]
->   A -->|Necessity: True in all worlds|
->   B -->|Possibility: True in at least one world|
-> ```
-
-
-> [!abstract] **Diagram 2 — Possible Worlds Semantics**
-> *Understand the relationship between different possible worlds.*
->
-> ```mermaid
-> graph TD
->   A[World1]
->   B[World2]
->   C[World3]
->   A -->|Accessible|
->   B -->|Accessible|
->   C
-> ```
-
-
-> [!abstract] **Diagram 3 — Application in Ethics and Law**
-> *See how Modal Logic formalizes obligations and permissions.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Obligation as O
->   participant Permission as P
->   S ->> O: □O (It is obligatory)
->   S -->> P: ◇P (It is permissible)
-> ```
 
 # Modal Logic
 

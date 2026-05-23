@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -172,60 +168,6 @@ The study of Pretraining Data Influence underscores the critical role of data cu
 > [!connection] **[[Influence Functions]]** — *applies-to*
 > Influence functions are instrumental in quantifying how individual training examples affect the final model parameters, directly linking them to Pretraining Data Influence. By attributing changes in model performance back to specific data points, influence functions provide a precise tool for understanding which types of pretraining data exert the most significant impact on model behavior and capabilities.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Pretraining Data Influence Mechanisms**
-> *Identify the methods used to measure influence.*
->
-> ```mermaid
-> graph TD
->   A[Influence Functions]
->   B[Data Ablation Studies]
->   C[Contamination Analysis]
->   D[Controlled Experiments]
->   A -->|Attribute Predictions| E[Impact on Model Performance]
->   B -->|Remove Subsets| E
->   C -->|Evaluate Benchmark Data| E
->   D -->|Vary Parameters| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Data Influence on Model Capabilities**
-> *Compare the influence of structured vs unstructured data.*
->
-> ```mermaid
-> graph TD
->   A[Structured Data]
->   B[Unstructured Data]
->   C[Reasoning]
->   D[Factual Accuracy]
->   E[Language Fluency]
->   F[Bias Mitigation]
->   G[Comprehension]
->   A -->|Enhances Reasoning| C
->   A -->|Reduces Bias| F
->   B -->|Improves Fluency| E
->   B -->|Increases Comprehension| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Implications of Influence**
-> *Understand the applications and benefits.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design]
->   B[Bias Mitigation]
->   C[Capability Enhancement]
->   D[Effective Training Materials]
->   E[Ethical Outcomes]
->   F[Targeted Skill Development]
->   A -->|Guide Creation| D
->   B -->|Reduce Harmful Biases| E
->   C -->|Maximize Strengths| F
-> ```
 
 # Pretraining Data Influence
 

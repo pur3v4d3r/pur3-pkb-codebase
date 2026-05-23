@@ -16,7 +16,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - equivalence-principle-synthetic-seed-2026-05-14
@@ -63,74 +63,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Equivalence Principle Overview**
-> *Follow the flow from inertial mass to gravitational effects.*
->
-> ```mermaid
-> graph TD
->   A[Inertial Mass]
->   B[Gravitational Mass]
->   C[Acceleration]
->   D[Gravity]
->   E[Spacetime Curvature]
->   A -->|Equivalence| B
->   B -->|Curvature Interpretation| E
->   C -->|Local Equivalence| D
->   D -->|Geometric Interpretation| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Local vs Global Effects**
-> *Compare the local equivalence with global distinctions.*
->
-> ```mermaid
-> graph TD
->   A[Local Region]
->   B[Tidal Forces Negligible]
->   C[Uniform Acceleration]
->   D[Gravity Indistinguishable]
->   E[Global Region]
->   F[Tidal Forces Significant]
->   G[Different Gravitational Strengths]
->   H[Frame-Dragging]
->   A -->|Tidal Forces Negligible| B
->   B -->|Uniform Acceleration| C
->   C -->|Gravity Indistinguishable| D
->   E -->|Tidal Forces Significant| F
->   F -->|Different Gravitational Strengths| G
->   G -->|Frame-Dragging| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Practical Applications of Equivalence Principle**
-> *Identify the applications in gravity experiments and black hole modeling.*
->
-> ```mermaid
-> graph TD
->   A[Free-Fall Environment]
->   B[Orbiting Satellite]
->   C[Drop Tower]
->   D[Test Gravity Without Interference]
->   E[Intense Gravitational Field]
->   F[Near Black Hole]
->   G[Model Object Behavior]
->   H[Local Approximation]
->   A -->|Free-Fall Environment| B
->   B -->|Orbiting Satellite| C
->   C -->|Drop Tower| D
->   E -->|Intense Gravitational Field| F
->   F -->|Near Black Hole| G
->   G -->|Local Approximation| H
-> ```
 
 # Equivalence Principle
 

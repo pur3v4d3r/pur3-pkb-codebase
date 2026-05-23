@@ -22,7 +22,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-foundational-report-2026-04-18
@@ -69,57 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Split Attention Process Flow**
-> *Follow the flow from information sources to working memory.*
->
-> ```mermaid
-> flowchart LR
->   A[Separate Information Sources] --> B[Integrate Mentally]
->   B --> C[Consume Working Memory]
->   C --> D[Reduce Learning Efficiency]
-> ```
-
-
-> [!abstract] **Diagram 2 — Working Memory Allocation**
-> *Compare the allocation of working memory for integration vs. schema construction.*
->
-> ```mermaid
-> graph TD
->   A[Integration] --> B[Extraneous Processing]
->   C[Schema Construction] --> D[Cognitive Tasks]
->   subgraph WorkingMemory
->     B & D
->   end
-> ```
-
-
-> [!abstract] **Diagram 3 — Instructional Design Principles**
-> *Identify how to minimize split attention in instructional materials.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Text as T
->   participant Diagram as D
->   participant Learner as L
->   T->>L: Explanatory Text
->   D->>L: Visual Aid
->   alt Separate Presentation
->     L-->>T: Mental Integration Required
->     L-->>D: Cognitive Load Increase
->   else Integrated Presentation
->     L-->>T & D: Seamless Understanding
->     L-->>T & D: Reduced Cognitive Load
->   end
-> ```
 
 # Split Attention Effect
 

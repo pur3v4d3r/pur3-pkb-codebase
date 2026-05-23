@@ -18,7 +18,7 @@ subdomains:
   - occupational-psychology
 
 created: 2026-05-12
-updated: '2026-05-22'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - watson-glaser-model-synthetic-seed-2026-05-12
@@ -66,52 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-22'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-22) -->
-
-> [!abstract] **Diagram 1 — Watson Glaser Components Overview**
-> *Identify the five components of critical thinking.*
->
-> ```mermaid
-> graph TD
->   A[Inference]
->   B[Recognition of Assumptions]
->   C[Deduction]
->   D[Interpretation]
->   E[Evaluation of Arguments]
-> ```
-
-
-> [!abstract] **Diagram 2 — Application in Occupational Selection**
-> *Understand how the model is used to assess candidates.*
->
-> ```mermaid
-> flowchart LR
->   A[Occupational Selection]
->   B[Inference] -->|Assess| A
->   C[Recognition of Assumptions] -->|Evaluate| A
->   D[Deduction] -->|Measure| A
->   E[Interpretation] -->|Analyze| A
->   F[Evaluation of Arguments] -->|Judge| A
-> ```
-
-
-> [!abstract] **Diagram 3 — Training Program Framework**
-> *See the structure for enhancing critical thinking skills.*
->
-> ```mermaid
-> graph TD
->   A[Training Programs]
->   B[Deduction] --> A
->   C[Interpretation] --> A
->   D[Evaluation of Arguments] --> A
-> ```
 
 # Watson Glaser Model
 

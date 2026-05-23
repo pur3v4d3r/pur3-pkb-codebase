@@ -67,15 +67,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -174,68 +170,6 @@ Addressing the Value Alignment Problem requires a multidisciplinary approach tha
 > [!connection] **[[Preference Elicitation]]** — *applies-to*
 > Value Alignment Problem relies on Preference Elicitation to accurately capture human values. Without effective methods for eliciting and understanding these preferences, AI systems risk misinterpreting or oversimplifying the complex array of human values, leading to potential ethical dilemmas.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Value Alignment Problem Overview**
-> *Follow the flow from specification to generalization challenges.*
->
-> ```mermaid
-> graph TD
->   A[Specification]
->   B[Generalization]
->   C[Harmful Behaviors Avoidance]
->   A -->|Formal Representation| D[Proxy Objectives]
->   B -->|Contextual Application| E[Misalignment Risks]
->   F[Value Alignment]
->   G[Avoid Harm]
->   F -->|Ethical Values| H[Human Goals]
->   G -->|Unintended Consequences| I[Harmful Outcomes]
-> ```
-
-
-> [!abstract] **Diagram 2 — Value Alignment Process Flow**
-> *Trace the steps from value elicitation to system optimization.*
->
-> ```mermaid
-> flowchart LR
->   A[Human Values]
->   B[Elicitation]
->   C[Representation]
->   D[Optimization]
->   E[System Goals]
->   F[Misalignment Risks]
->   G[Harmful Behaviors]
->   H[Avoid Harm]
->   A -->|Elicitation| B
->   B -->|Representation| C
->   C -->|Optimization| D
->   D -->|System Goals| E
->   E -->|Misalignment| F
->   F -->|Harmful Behaviors| G
->   G -->|Avoid Harm| H
-> ```
-
-
-> [!abstract] **Diagram 3 — Value Alignment vs Avoiding Harm**
-> *Compare the focus areas of value alignment and avoiding harmful behaviors.*
->
-> ```mermaid
-> classDiagram
->   class ValueAlignment {
->     +Elicitation()
->     +Representation()
->     +Optimization()
->     +SystemGoals()
->   }
->   class AvoidingHarm {
->     +UnintendedConsequences()
->     +PreventHarm()
->   }
->   ValueAlignment -->|Focus on| HumanValues
->   AvoidingHarm -->|Prevent| HarmfulBehaviors
-> ```
 
 # Value Alignment Problem
 

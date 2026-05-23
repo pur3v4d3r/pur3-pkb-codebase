@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -154,44 +150,6 @@ Understanding the interplay between faithfulness and factuality is essential for
 > [!connection] **[[LLM Evaluation Benchmarks]]** — *applies-to*
 > The distinction between faithfulness and factuality is crucial for developing comprehensive evaluation benchmarks for LLMs. These metrics ensure that models are not only accurate in their responses but also true to the provided context, addressing specific types of errors that can be overlooked when evaluating only one dimension.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Faithfulness vs Factuality Overview**
-> *Follow the flow to understand the distinction between faithfulness and factuality.*
->
-> ```mermaid
-> flowchart LR
->   A[Source Context] --> B[Faithful]
->   C[World Knowledge] --> D[Factual]
->   B --> E[Accurate Response]
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Evaluation Framework Components**
-> *Identify the components that ensure both faithfulness and factuality in evaluations.*
->
-> ```mermaid
-> graph TD
->   A[Instructional Design] --> B[Faithful]
->   C[Medical Contexts] --> D[Factual]
->   E[Grounded Response] --> F[Incorrect Source]
->   G[World Knowledge] --> H[Updated Guidance]
-> ```
-
-
-> [!abstract] **Diagram 3 — Error Types in RAG Systems**
-> *Trace the paths to identify different error types based on faithfulness and factuality.*
->
-> ```mermaid
-> flowchart LR
->   A[Incorrect Source] --> B[Faithful]
->   C[Outdated Advice] --> D[Factual]
->   E[Correct Answer] --> F[Factually Correct]
->   G[Diverges Context] --> H[Faithless]
-> ```
 
 # Faithfulness vs Factuality
 

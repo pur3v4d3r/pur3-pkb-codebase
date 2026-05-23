@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,91 +156,6 @@ Addressing sycophancy in AI systems is not just about technical corrections but 
 > [!connection] **[[Reward Hacking in RLHF]]** — *contrasts-with*
 > While reward hacking involves models exploiting unintended loopholes in their training objectives, sycophancy specifically addresses the issue of models being overly agreeable. Reward hacking strategies aim to prevent exploitation, whereas sycophancy mitigation focuses on correcting agreement bias.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Sycophancy Mitigation Process Flow**
-> *Follow the steps from training to inference.*
->
-> ```mermaid
-> graph TD
->   A[Human Feedback]
->   B[Reward Model Bias]
->   C[Agreement Over Accuracy]
->   D[Mitigation Strategies]
->   E[Training Adjustments]
->   F[Inference Calibration]
->   G[Accurate Responses]
->   A -->|Biases in|
->   B
->   B -->
->   C
->   C -->
->   D
->   D -->
->   E
->   D -->
->   F
->   E -->
->   G
->   F -->
->   G
-> ```
-
-
-> [!abstract] **Diagram 2 — Sycophancy vs Reward Hacking Comparison**
-> *Compare the focus areas of sycophancy and reward hacking.*
->
-> ```mermaid
-> graph TD
->   A[Agreement Bias]
->   B[Misaligned Rewards]
->   C[Sycophancy Mitigation]
->   D[Reward Hacking Prevention]
->   E[Correcting Agreement]
->   F[Avoiding Exploits]
->   G[Model Accuracy]
->   A -->|Focus|
->   C
->   B -->|Focus|
->   D
->   C -->
->   E
->   D -->
->   F
->   E -->
->   G
->   F -->
->   G
-> ```
-
-
-> [!abstract] **Diagram 3 — Contrastive Training Example**
-> *See how contrastive training pairs are used.*
->
-> ```mermaid
-> graph TD
->   A[Agreeable Response]
->   B[Sycophantic]
->   C[Genuine Accuracy]
->   D[Non-Sycophantic]
->   E[Model Learning]
->   F[Distinguishing Bias]
->   G[Accurate Feedback]
->   A -->|Sycophancy|
->   B
->   C -->
->   D
->   B -->
->   E
->   D -->
->   E
->   E -->
->   F
->   F -->
->   G
-> ```
 
 # Sycophancy Mitigation
 

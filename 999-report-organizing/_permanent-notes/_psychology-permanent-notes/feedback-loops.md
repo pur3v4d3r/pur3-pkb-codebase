@@ -16,7 +16,7 @@ subdomains:
   - cybernetics
 
 created: 2026-04-25
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - feedback-loops-synthetic-seed-2026-04-25
@@ -67,54 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Reinforcing Feedback Loop Example**
-> *Follow the loop to see how output feeds back as input, amplifying change.*
->
-> ```mermaid
-> graph TD
->   A[Output] --> B[Input]
->   B --> C[Process]
->   C --> D[More Output]
->   D --> E[Even More Input]
->   E --> F[Further Process]
->   F --> G[Extreme Output]
->   G --> H[Initial Input Again]
-> ```
-
-
-> [!abstract] **Diagram 2 — Balancing Feedback Loop Example**
-> *Notice how the output feeds back to counteract changes, maintaining stability.*
->
-> ```mermaid
-> graph TD
->   A[Output] --> B[Input]
->   B --> C[Process]
->   C --> D[Reduced Output]
->   D --> E[Less Input]
->   E --> F[Further Process]
->   F --> G[Normalized Output]
-> ```
-
-
-> [!abstract] **Diagram 3 — Feedback Loop in Climate System**
-> *Observe the reinforcing loop where melting ice leads to more warming.*
->
-> ```mermaid
-> graph TD
->   A[Melting Ice] --> B[Reduced Albedo]
->   B --> C[More Solar Absorption]
->   C --> D[Warming]
->   D --> E[Faster Melting]
-> ```
 
 # Feedback Loops
 

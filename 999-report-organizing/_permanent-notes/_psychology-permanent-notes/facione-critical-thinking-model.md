@@ -19,7 +19,7 @@ subdomains:
   - assessment-research
 
 created: 2026-05-12
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - facione-critical-thinking-model-synthetic-seed-2026-05-12
@@ -67,62 +67,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Facione Model Cognitive Skills**
-> *Identify the six core cognitive skills and their sequence.*
->
-> ```mermaid
-> graph TD
->   A[Interpretation]
->   B[Analysis]
->   C[Evaluation]
->   D[Inference]
->   E[Explanation]
->   F[Self-Regulation]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
->   E --> F
-> ```
-
-
-> [!abstract] **Diagram 2 — Facione Model Dispositional Components**
-> *Recognize the dispositional components that support critical thinking.*
->
-> ```mermaid
-> graph TD
->   A[Open-Mindedness]
->   B[Truth-Seeking]
->   C[Confidence]
->   D[Trustworthiness]
->   E[Systematicity]
->   F[Judiciousness]
->   G[Honesty]
->   H[Prudence]
->   I[Comprehensiveness]
->   J[Fair-Mindedness]
-> ```
-
-
-> [!abstract] **Diagram 3 — Facione Model Dual Structure**
-> *Understand the relationship between cognitive skills and dispositional components.*
->
-> ```mermaid
-> sequenceDiagram
->   participant CognitiveSkills as CS
->   participant DispositionalComponents as DC
->   CS->>DC: Support for consistent application
->   DC-->>CS: Motivational underpinning
-> ```
 
 # Facione Critical Thinking Model
 

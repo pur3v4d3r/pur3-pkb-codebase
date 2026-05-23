@@ -65,15 +65,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -166,30 +162,6 @@ By addressing key challenges in traditional reinforcement learning methods, GRPO
 > [!connection] **[[Reinforcement Learning from Human Feedback (RLHF)]]** — *applies-to*
 > GRPO's method of using normalized rewards within sampled groups aligns well with RLHF, where human feedback is often sparse and variable. By focusing on relative performance rather than absolute scores, GRPO can better leverage the limited and potentially inconsistent feedback provided by humans, making it a powerful tool for integrating human guidance into reinforcement learning processes.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — GRPO Training Process Overview**
-> *Follow the flow from sampling to parameter update.*
->
-> ```mermaid
-> flowchart LR
->   A[Sample Completions] --> B[Evaluate Rewards]
->   B --> C[Normalize Advantages]
->   C --> D[Update Parameters]
-> ```
-
-
-> [!abstract] **Diagram 2 — Advantage Calculation in GRPO**
-> *See how normalized advantages are computed from group rewards.*
->
-> ```mermaid
-> graph TD
->   A[Reward_i] --> B{Mean Reward}
->   C[Std Deviation] --> D[(Reward_i - Mean) / Std]
->   B -->|Subtract| E[Normalized Advantage]
-> ```
 
 # Group Relative Policy Optimization
 

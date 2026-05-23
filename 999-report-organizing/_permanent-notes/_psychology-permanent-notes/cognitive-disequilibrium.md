@@ -17,7 +17,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - cognitive-disequilibrium-synthetic-seed-2026-04-24
@@ -69,54 +69,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Cognitive Disequilibrium Process Flow**
-> *Follow the flow from new information to schema restructuring.*
->
-> ```mermaid
-> flowchart LR
->   A[New Information] --> B[Conflicts with Existing Schemas]
->   B --> C[Cognitive Disequilibrium]
->   C --> D[Awareness of Inconsistency]
->   D --> E[Assimilation or Accommodation]
->   E --> F[Schema Restructuring]
-> ```
-
-
-> [!abstract] **Diagram 2 — Mechanisms of Cognitive Disequilibrium**
-> *Identify the interplay between assimilation and accommodation.*
->
-> ```mermaid
-> graph TD
->   A[Assimilation]
->   B[Awareness of Inconsistency] --> C[Accommodation]
->   D[Integration Without Alteration] --> A
->   E[Modification to Fit New Information] --> C
-> ```
-
-
-> [!abstract] **Diagram 3 — Pedagogical Strategies for Inducing Disequilibrium**
-> *See how different strategies challenge learners' schemas.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Teacher as T
->   participant MOOC as M
->   S->>T: Encounter Challenging Question (Socratic)
->   T-->>S: Reflect and Reconsider Beliefs
->   S->>M: Engage with Counter-Examples
->   M-->>S: Recognize Schema Limitations
->   S->>T: Solve Problem Using New Methods (Productive Failure)
-> ```
 
 # Cognitive Disequilibrium
 

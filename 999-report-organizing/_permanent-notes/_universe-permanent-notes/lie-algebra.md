@@ -17,7 +17,7 @@ subdomains:
   - mathematical-physics
 
 created: 2026-05-14
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - lie-algebra-synthetic-seed-2026-05-14
@@ -66,48 +66,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Lie Algebra Structure Overview**
-> *Identify the key components of a Lie Algebra.*
->
-> ```mermaid
-> graph TD
->   A[Vector Space] --> B[Antisymmetric Bilinear Bracket]
->   B --> C[Jacobi Identity]
-> ```
-
-
-> [!abstract] **Diagram 2 — Lie Algebra vs. Lie Group Relationship**
-> *Understand the relationship between a Lie Algebra and its corresponding Lie Group.*
->
-> ```mermaid
-> flowchart LR
->   A[Lie Algebra] --> B[Tangent Space at Identity]
->   B --> C[Local Structure of Lie Group]
-> ```
-
-
-> [!abstract] **Diagram 3 — Classification of Simple Lie Algebras**
-> *See the classification into infinite families and exceptional cases.*
->
-> ```mermaid
-> graph TD
->   A[A_n] --> B[B_n]
->   B --> C[C_n]
->   C --> D[D_n]
->   E[G_2] --> F[F_4]
->   F --> G[E_6]
->   G --> H[E_7]
->   H --> I[E_8]
-> ```
 
 # Lie Algebra
 

@@ -21,7 +21,7 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
@@ -68,58 +68,8 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Recurrent vs Non-Recurrent Skills**
-> *Compare recurrent and non-recurrent skills based on context adaptability.*
->
-> ```mermaid
-> graph TD
->   A[Recurrent]
->   B[Non-Recurrent]
->   A -->|Consistent Execution|
->   B -->|Context-Dependent|
->   A -->|Automated Procedures|
->   B -->|Reasoning and Problem-Solving|
-> ```
-
-
-> [!abstract] **Diagram 2 — Instructional Design Approach**
-> *Understand the instructional strategies for recurrent constituent skills.*
->
-> ```mermaid
-> flowchart LR
->   A[Part-Task Practice]
->   B[Just-In-Time Delivery]
->   C[Procedural Automation]
->   D[Cognitive Resource Freeing]
->   A -->|Focus on Routine Tasks|
->   B -->|Provide Step-by-Step Instructions|
->   C -->|Internalize Procedures Through Practice|
->   D -->|Enhance Complex Problem-Solving|
-> ```
-
-
-> [!abstract] **Diagram 3 — Application in Medical Training**
-> *See how recurrent skills are applied in medical education.*
->
-> ```mermaid
-> sequenceDiagram
->   participant Student as S
->   participant Trainer as T
->   participant Procedure as P
->   S ->> T: Request Guidance
->   T ->> P: Provide Steps for Vital Signs
->   S ->> P: Execute Procedure
->   P -->> S: Feedback on Execution
-> ```
 
 # Recurrent Constituent Skill
 

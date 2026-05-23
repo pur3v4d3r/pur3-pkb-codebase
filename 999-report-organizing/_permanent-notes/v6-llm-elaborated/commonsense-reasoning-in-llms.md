@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -171,65 +167,6 @@ Empirical evidence shows that while LLMs excel on commonsense reasoning benchmar
 > [!connection] **[[Chain-of-Thought Prompting]]** — *applies-to*
 > Commonsense reasoning in LLMs is significantly enhanced by chain-of-thought prompting, which guides the model through a step-by-step process to arrive at a conclusion. This method leverages the implicit knowledge and patterns learned by the model to generate coherent and contextually relevant responses. By breaking down complex tasks into simpler steps, chain-of-thought prompting ensures that commonsense reasoning is applied effectively throughout the problem-solving process.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Commonsense Reasoning Mechanism**
-> *Follow the flow from data to implicit knowledge activation.*
->
-> ```mermaid
-> graph TD
->   A[Training Data]
->   B[Pattern Recognition]
->   C[Implicit Knowledge]
->   D[Prompt Activation]
->   E[Contextual Understanding]
->   A -->|Learn Patterns| B
->   B -->|Understand Structure| C
->   C -->|Latent Knowledge| D
->   D -->|Activate Knowledge| E
-> ```
-
-
-> [!abstract] **Diagram 2 — Commonsense vs Specialized Knowledge**
-> *Compare the scope of commonsense reasoning with specialized factual knowledge.*
->
-> ```mermaid
-> graph TD
->   A[Commonsense Reasoning]
->   B[Specialized Factual Knowledge]
->   C[Everyday Physical Situations]
->   D[Causal Relationships]
->   E[Social Norms]
->   F[Boiling Point of Water]
->   G[Mathematical Theorems]
->   A -->|Infer from Context| C
->   A -->|Understand Cause and Effect| D
->   A -->|Recognize Social Norms| E
->   B -->|Explicit Information| F
->   B -->|Formal Knowledge| G
-> ```
-
-
-> [!abstract] **Diagram 3 — Commonsense vs Logical Inference**
-> *Distinguish between commonsense reasoning and explicit logical inference.*
->
-> ```mermaid
-> graph TD
->   A[Commonsense Reasoning]
->   B[Explicit Logical Inference]
->   C[Intuitive Understanding]
->   D[Contextual Cues]
->   E[Rely on Assumptions]
->   F[Formal Logic]
->   G[Deductive Steps]
->   A -->|Intuitive Comprehension| C
->   A -->|Use Context| D
->   A -->|Assume Typical Scenarios| E
->   B -->|Apply Formal Rules| F
->   B -->|Step-by-Step Deduction| G
-> ```
 
 # Commonsense Reasoning in LLMs
 

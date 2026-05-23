@@ -16,7 +16,7 @@ subdomains:
   - self-determination-theory
 
 created: 2026-04-24
-updated: '2026-05-21'
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
   - autonomous-regulation-synthetic-seed-2026-04-24
@@ -67,48 +67,8 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-21'
 ---
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-21) -->
-
-> [!abstract] **Diagram 1 — Autonomous Regulation Types**
-> *Identify the types of autonomous regulation and their hierarchy.*
->
-> ```mermaid
-> graph TD
->   A[Intrinsic Motivation]
->   B[Integrated Regulation] --> C[A]
->   D[Identified Regulation] --> A
-> ```
-
-
-> [!abstract] **Diagram 2 — Internalization Process Flow**
-> *Follow the steps of internalizing towards autonomous regulation.*
->
-> ```mermaid
-> flowchart LR
->   E[External Demand]
->   F[Cognitive Appraisal] --> G[E]
->   H[Value Alignment?] --> I[F]
->   J[Internalized Regulation] --> K[H]
->   L[Cognitive Dissonance] --> M[K]
-> ```
-
-
-> [!abstract] **Diagram 3 — Environmental Conditions for Autonomous Regulation**
-> *Understand the necessary conditions to foster autonomous regulation.*
->
-> ```mermaid
-> graph TD
->   N[Meaningful Rationale]
->   O[Autonomy Support] --> P[N]
->   Q[Competence and Mastery] --> P
-> ```
 
 # Autonomous Regulation
 

@@ -63,15 +63,11 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
-  diagram-passes: 1
-  diagram-model: qwen2.5:14b-instruct-q5_K_M
-  last-diagrammed: '2026-05-23'
   enhancement-passes: 1
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
 ---
-
 
 
 ## Core Explanation
@@ -160,64 +156,6 @@ By addressing these nuances in evaluation prompt design, researchers can enhance
 > [!connection] **[[Prompt Engineering]]** — *applies-to*
 > Evaluation prompt design is a specialized application within the broader field of prompt engineering. Just as prompt engineering focuses on crafting effective instructions for LLMs to perform tasks, evaluation prompts are tailored specifically to guide models in assessing outputs based on predefined criteria.
 
-## 📊 Visual Overview
-
-<!-- diagram-pass:1 (2026-05-23) -->
-
-> [!abstract] **Diagram 1 — Evaluation Prompt Design Process Flow**
-> *Follow the steps from criteria definition to prompt validation.*
->
-> ```mermaid
-> graph TD
->   A[Define Criteria]
->   B[Design Scales]
->   C[Craft Instructions]
->   D[Test Prompts]
->   E[Validate Outcomes]
->   A --> B
->   B --> C
->   C --> D
->   D --> E
-> ```
-
-
-> [!abstract] **Diagram 2 — Evaluation Prompt Design Theoretical Foundations**
-> *Identify the key theories influencing prompt design.*
->
-> ```mermaid
-> graph TD
->   A[Sweller's Cognitive Load Theory]
->   B[Educational Measurement Theory]
->   C[Cognitive Psychology]
->   D[Minimize Extraneous Load]
->   E[Maximize Intrinsic Load]
->   F[Ensure Quality Evaluation]
->   A -->|Informs| D
->   B -->|Guides| E
->   C -->|Supports| F
->   D --> F
-> ```
-
-
-> [!abstract] **Diagram 3 — Evaluation Prompt vs Task Completion Prompt Comparison**
-> *Compare the focus and outcomes of evaluation prompts versus task completion prompts.*
->
-> ```mermaid
-> graph TD
->   A[Evaluation Prompt]
->   B[Task Completion Prompt]
->   C[Predefined Criteria & Scales]
->   D[Specific Task Guidance]
->   E[Quality Assessment]
->   F[Output Evaluation]
->   G[Tasks Without Standards]
->   A -->|Focus| C
->   A -->|Outcome| E
->   B -->|Focus| D
->   B -->|Outcome| F
->   E -->|Based On| C
->   F -->|Guided By| D
-> ```
 
 # Evaluation Prompt Design
 
