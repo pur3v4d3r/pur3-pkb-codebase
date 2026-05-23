@@ -1,0 +1,58 @@
+concept: Sliding Window Attention
+domain: transformer-architecture
+secondary_domains:
+- efficient-transformers
+- long-context-modelling
+- large-language-models
+aliases:
+- local attention
+- windowed attention
+- sliding window self-attention
+broader:
+- sparse-attention-patterns
+- efficient-transformers
+related:
+- sparse-attention-patterns
+- flash-attention-algorithm
+- attention-sinks
+- alibi-positional-encoding
+- context-length
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+- efficient-deep-learning
+confidence: high
+callouts:
+- type: definition
+  title: Sliding Window Attention
+  body: Sliding window attention is a local attention mechanism in which each token
+    attends only to a fixed-size window of the most recent w tokens (and optionally
+    a small fixed set of global tokens such as the sequence-start token), rather than
+    attending to all previous tokens. This reduces the attention computation from
+    $O(n^2)$ to $O(nw)$, enabling efficient processing of long sequences. Mistral
+    7B uses sliding window attention with window size 4096 combined with a rolling
+    buffer KV-cache, which enables fast inference over arbitrarily long sequences
+    by evicting old KV-cache entries while preserving the window. In stacked layers,
+    information from beyond the window propagates via multi-layer receptive field
+    growth, with the effective receptive field growing proportionally to the product
+    of window size and number of layers.
+- type: key-claim
+  title: Key claim about Sliding Window Attention
+  body: 'Sliding window attention''s practical long-context capability is larger than
+    the nominal window size suggests because the stacking of layers multiplies the
+    effective receptive field: with window size w and l layers, a token can indirectly
+    access information from up to $w \times l$ positions back, meaning a 4096-window
+    32-layer model has an effective receptive field of up to 131,072 tokens for information
+    that has accumulated across layers, though deep-stacked information is diluted
+    and fine-grained facts from distant tokens are less reliably accessible than facts
+    from the immediate window.'
+- type: warning
+  title: Common pitfall regarding Sliding Window Attention
+  body: Sliding window attention fails on tasks that explicitly require attending
+    to information outside the window, regardless of how many layers are stacked —
+    questions about the very first paragraph of a very long document cannot be answered
+    through multi-layer receptive field accumulation alone if the document's first
+    paragraph was evicted from the window in earlier layers; hybrid attention architectures
+    that interleave sliding window layers with full-attention layers on a sparse schedule
+    achieve better long-context performance than pure sliding window architectures
+    for this reason.

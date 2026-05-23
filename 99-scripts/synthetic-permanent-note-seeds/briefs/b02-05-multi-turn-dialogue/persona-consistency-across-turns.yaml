@@ -1,0 +1,55 @@
+concept: Persona Consistency Across Turns
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- prompt-engineering
+- large-language-models
+aliases:
+- character consistency in dialogue
+- persona stability across turns
+- identity persistence in LLM dialogue
+broader:
+- multi-turn-conversation-management
+- persona-prompting
+related:
+- multi-turn-conversation-management
+- memory-injection-in-dialogue
+- dialogue-grounding-prompts
+prerequisites:
+- persona-prompting
+- large-language-models
+- dialogue-systems
+confidence: high
+callouts:
+- type: definition
+  title: Persona Consistency Across Turns
+  body: Persona consistency across turns refers to the ability of an LLM to maintain
+    stable character attributes, values, communication style, knowledge limits, and
+    stated preferences throughout a multi-turn conversation, without drifting toward
+    the model's default behaviour or adopting attributes inconsistent with the persona
+    definition as the conversation progresses. Persona drift — the gradual loss of
+    persona-specified attributes over the course of a conversation — is a fundamental
+    challenge in role-playing and character-based applications because the model's
+    default responses compete with persona-conditioned responses for each generation
+    step, and the persona conditioning signal (concentrated in the system prompt)
+    grows relatively weaker as more conversational history accumulates.
+- type: key-claim
+  title: Key claim about Persona Consistency Across Turns
+  body: Persona consistency degrades predictably with conversation length as the system-prompt
+    persona definition is pushed further back in the context window relative to the
+    most recent turns, which receive disproportionate attention weight; effective
+    persona maintenance strategies include periodic re-injection of persona attributes
+    into the conversation context (persona reminders), compressing conversation history
+    while preserving persona-inconsistent events explicitly, and using the model to
+    generate persona-consistent summaries of prior turns rather than retaining verbatim
+    history.
+- type: warning
+  title: Common pitfall regarding Persona Consistency Across Turns
+  body: Persona consistency strategies that force the model to maintain a persona
+    character in all circumstances can conflict with safety and accuracy requirements
+    — a model maintaining a character who claims specific expertise may generate confidently
+    incorrect domain information in character rather than acknowledging uncertainty,
+    and safety-overriding arguments presented in-character may partially bypass the
+    model's safety filters; persona-consistency applications should specify that persona
+    maintenance is bounded by accuracy and safety requirements, and those requirements
+    take precedence.

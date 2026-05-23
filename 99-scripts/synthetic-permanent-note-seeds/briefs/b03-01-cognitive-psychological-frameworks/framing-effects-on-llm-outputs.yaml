@@ -1,0 +1,59 @@
+concept: Framing Effects on LLM Outputs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- prompt-engineering
+aliases:
+- framing bias in LLMs
+- presentation effects on LLM responses
+- reference-point effects in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- framing-effect
+- large-language-models
+related:
+- prompt-brittleness
+- semantic-equivalence-in-prompts
+- anchoring-bias-in-llm-reasoning
+- format-sensitivity-in-prompting
+prerequisites:
+- framing-effect
+- large-language-models
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Framing Effects on LLM Outputs
+  body: Framing Effects on LLM Outputs refers to the phenomenon where logically or
+    semantically equivalent prompts that present information using different reference
+    frames, loss versus gain formulations, or surface presentations elicit substantively
+    different responses from large language models. Analogous to the human cognitive
+    framing effect — where "90% survival rate" versus "10% mortality rate" elicit
+    different risk assessments despite being informationally equivalent — LLMs consistently
+    produce different content, sentiment, and recommendations depending on whether
+    the same underlying situation is framed positively or negatively, described in
+    terms of gains or losses, or presented in different syntactic or pragmatic structures.
+    Framing effects on LLM outputs manifest across recommendation tasks, sentiment
+    analysis, risk communication, policy evaluation, and persuasion, and are particularly
+    significant because they can be deliberately exploited to steer LLM outputs toward
+    predetermined conclusions.
+- type: key-claim
+  title: Key claim about Framing Effects on LLM Outputs
+  body: Framing Effects on LLM Outputs are large enough to reverse the direction of
+    LLM recommendations and evaluations on the same underlying scenario — experiments
+    demonstrate that LLMs consistently rate identical policies as more or less desirable
+    depending solely on gain-versus-loss framing, and consistently rate identical
+    texts as more or less persuasive depending on who is identified as the author;
+    this sensitivity to framing is a fundamental reliability problem for LLM deployment
+    in advisory and evaluation roles, where users reasonably expect that logically
+    equivalent inputs should produce equivalent outputs.
+- type: warning
+  title: Common pitfall regarding Framing Effects on LLM Outputs
+  body: Framing Effects on LLM Outputs cannot be eliminated by instructing the model
+    to "ignore framing" or "focus on facts" — these meta-instructions are themselves
+    framed presentations that interact with the original framing effects in unpredictable
+    ways; the only robust mitigation is to systematically test alternative framings
+    of key prompts and use multi-framing consistency as a reliability gate, accepting
+    only outputs that remain stable across equivalent framings as high-confidence
+    model judgments.

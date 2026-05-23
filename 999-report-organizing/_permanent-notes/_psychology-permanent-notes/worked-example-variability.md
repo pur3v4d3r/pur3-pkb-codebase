@@ -17,7 +17,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - worked-example-variability-synthetic-seed-2026-04-25
@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Worked Example Variability Process Flow**
+> *Follow the flow from varied examples to schema construction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Varied Examples] --> B(Abstract Commonalities)
+>   B --> C[Focused on Structure]
+>   C --> D[Schema Construction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Worked Example Variability in Cognitive Load Theory**
+> *Identify how variability reduces extraneous cognitive load.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Cognitive Load] --> B[Surface Features]
+>   B --> C[Variability]
+>   C --> D[Focus on Structure]
+>   D --> E[Reduced Cognitive Overload]
+> ```
+
+
+> [!abstract] **Diagram 3 — Worked Example Variability Applications**
+> *See the different applications of variability in learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Educational Technology)
+>   A --> C(Curriculum Development)
+>   B --> D(Diverse Scenarios)
+>   C --> E(Robust Schemata)
+> ```
 
 # Worked-Example Variability
 

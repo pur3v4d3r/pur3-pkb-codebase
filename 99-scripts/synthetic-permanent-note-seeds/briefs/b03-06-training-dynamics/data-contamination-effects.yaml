@@ -1,0 +1,61 @@
+concept: Data Contamination Effects
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- evaluation-methodology
+- training-dynamics
+- benchmark-evaluation
+aliases:
+- benchmark contamination
+- evaluation contamination in LLMs
+- test set leakage
+broader:
+- training-dynamics-and-data-pipelines
+- evaluation-methodology
+- large-language-models
+related:
+- memorization-vs-generalization
+- pretraining-data-influence
+- training-data-attribution
+- deduplication-effects-on-training
+prerequisites:
+- evaluation-methodology
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Data Contamination Effects
+  body: Data Contamination Effects refer to the inflation of benchmark evaluation
+    scores that occurs when the model's pretraining data includes examples from the
+    evaluation benchmark — causing the model to appear to perform better than it actually
+    would on truly novel instances of the task because it has seen or memorised specific
+    benchmark examples during training. Data contamination is a pervasive challenge
+    in LLM evaluation because pretraining corpora scraped from the internet inevitably
+    include text from benchmark datasets that have been published online, and the
+    scale and diversity of pretraining data makes complete contamination detection
+    computationally challenging. Data contamination effects inflate apparent model
+    capability, undermine comparisons between models trained on different datasets,
+    and mislead capability assessments used to make deployment decisions.
+- type: key-claim
+  title: Key claim about Data Contamination Effects
+  body: Data Contamination Effects are substantial and difficult to control for —
+    contamination detection studies consistently find significant overlap between
+    LLM pretraining corpora and standard NLP benchmarks, and controlled experiments
+    showing the performance difference between clean (de-contaminated) and contaminated
+    evaluation subsets reveal contamination-inflated performance gains of 5–30% on
+    specific benchmarks; this level of contamination inflation is large enough to
+    invalidate conclusions about capability improvements that fall within the contamination-inflation
+    range, calling for systematic contamination detection and reporting in all LLM
+    benchmark evaluations.
+- type: warning
+  title: Common pitfall regarding Data Contamination Effects
+  body: Data Contamination Effects are difficult to retrospectively correct for once
+    a model has been trained — identifying which specific training examples a model
+    memorised after training requires extensive probing and inference, and decontaminated
+    evaluation requires creating fresh benchmarks that were not publicly available
+    when the model's training data was collected; the gold standard for contamination-free
+    evaluation (prospectively creating benchmarks not publicly released until after
+    training) is practically challenging for ongoing research, necessitating contamination
+    detection, reporting, and performance adjustment as the current best practice
+    rather than elimination.

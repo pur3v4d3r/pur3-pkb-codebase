@@ -1,0 +1,54 @@
+concept: Cross-Lingual Prompt Transfer
+domain: prompt-engineering
+secondary_domains:
+- multilingual-nlp
+- prompt-engineering
+- large-language-models
+aliases:
+- multilingual prompt transfer
+- cross-language prompting
+- language-agnostic prompting
+broader:
+- prompt-sensitivity
+- multilingual-nlp
+related:
+- distribution-shift-in-prompting
+- semantic-equivalence-in-prompts
+- multilingual-emergent-transfer
+prerequisites:
+- prompt-engineering
+- multilingual-language-models
+- cross-lingual-transfer
+confidence: high
+callouts:
+- type: definition
+  title: Cross-Lingual Prompt Transfer
+  body: Cross-lingual prompt transfer is the investigation of whether prompting strategies
+    and performance improvements demonstrated in one language (typically English)
+    generalise to other languages without explicit re-engineering of the prompt for
+    those languages. It encompasses both the empirical phenomenon — that chain-of-thought
+    reasoning prompts, role prompting, and format specifications originally designed
+    in English transfer to non-English languages with varying effectiveness — and
+    the practical engineering challenge of building prompting systems that are language-agnostic
+    or that require only minimal language-specific adaptation. Cross-lingual transfer
+    effectiveness varies dramatically across languages, with high-resource languages
+    showing strong transfer and low-resource languages showing weak transfer due to
+    imbalanced multilingual pretraining.
+- type: key-claim
+  title: Key claim about Cross-Lingual Prompt Transfer
+  body: 'Cross-lingual prompt transfer is asymmetric: prompting techniques transfer
+    better from English to other high-resource languages than from any language to
+    English, and better from high-resource to low-resource languages than vice versa,
+    because the model''s implicit understanding of task formulation conventions is
+    anchored to English-centric instruction-tuning templates; this asymmetry means
+    that multilingual systems cannot be validated solely on English prompt engineering
+    and must include language-specific validation as a standard deployment requirement.'
+- type: warning
+  title: Common pitfall regarding Cross-Lingual Prompt Transfer
+  body: Cross-lingual prompt transfer tests conducted on benchmark translations may
+    overestimate real-world cross-lingual prompt robustness because benchmark translations
+    are produced by professional translators preserving the original's semantic precision,
+    whereas real user queries in non-English languages exhibit different phrasing
+    conventions, levels of formality, and implicit assumptions; production multilingual
+    systems should be validated on native-speaker-generated queries, not translated
+    English queries.

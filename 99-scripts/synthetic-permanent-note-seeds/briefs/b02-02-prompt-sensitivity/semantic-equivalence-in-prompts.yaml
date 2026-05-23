@@ -1,0 +1,53 @@
+concept: Semantic Equivalence in Prompts
+domain: prompt-engineering
+secondary_domains:
+- natural-language-processing
+- prompt-engineering
+- evaluation
+aliases:
+- semantically equivalent prompts
+- prompt paraphrase equivalence
+- meaning-preserving prompt variants
+broader:
+- prompt-sensitivity
+- prompt-engineering
+related:
+- paraphrase-invariance-testing
+- prompt-brittleness
+- surface-form-competition
+prerequisites:
+- prompt-engineering
+- natural-language-processing
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Equivalence in Prompts
+  body: 'Semantic equivalence in prompts refers to the property that two prompts that
+    express the same task semantics — the same instructions, constraints, and context,
+    through different surface-form realisations — should produce outputs that are
+    task-equivalently correct. Measuring semantic equivalence is non-trivial because
+    human judges must establish that two prompts are truly equivalent before attributing
+    performance differences to model sensitivity rather than genuine task differences.
+    Semantic equivalence research is methodologically important because it establishes
+    the upper bound on what prompt sensitivity actually measures: if two prompts are
+    truly semantically equivalent and the model produces very different outputs, the
+    model exhibits genuine semantic brittleness rather than sensitivity to genuine
+    task distinctions.'
+- type: key-claim
+  title: Key claim about Semantic Equivalence in Prompts
+  body: Establishing true semantic equivalence between prompts requires controlling
+    for all dimensions of variation simultaneously — semantic content, syntactic structure,
+    surface form, discourse organisation, and pragmatic implicature — and empirical
+    evidence from controlled paraphrase studies shows that the vast majority of apparently
+    "equivalent" prompts differ on at least one of these dimensions, which means that
+    most reported prompt sensitivity effects are conflations of multiple distinct
+    sensitivity types rather than clean measurements of semantic sensitivity alone.
+- type: warning
+  title: Common pitfall regarding Semantic Equivalence in Prompts
+  body: Over-relying on semantic equivalence as the standard for prompt evaluation
+    can inadvertently penalise informative prompt variation — two prompts may be semantically
+    non-equivalent in a task-relevant way (e.g., one includes a constraint the other
+    omits), but both may be reasonable prompt designs for different user needs; the
+    goal of semantic equivalence testing should be to characterise the model's sensitivity
+    landscape, not to enforce a standard of identical outputs for all prompts.

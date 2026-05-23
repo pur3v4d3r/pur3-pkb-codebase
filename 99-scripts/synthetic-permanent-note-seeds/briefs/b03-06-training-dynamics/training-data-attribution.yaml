@@ -1,0 +1,61 @@
+concept: Training Data Attribution
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- data-science
+- interpretability
+aliases:
+- training example attribution
+- influence attribution for LLMs
+- data source attribution
+broader:
+- training-dynamics-and-data-pipelines
+- interpretability
+- large-language-models
+related:
+- pretraining-data-influence
+- memorization-vs-generalization
+- data-contamination-effects
+- feature-attribution-in-llms
+prerequisites:
+- influence-functions
+- machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Training Data Attribution
+  body: 'Training Data Attribution refers to the methods for identifying which specific
+    training examples most strongly influenced a model''s specific predictions, behaviours,
+    or knowledge — tracing model outputs back to their source training data. Training
+    data attribution methods include influence functions (computing the gradient-based
+    approximation of how removing a training example would change the model''s prediction),
+    TracIn (integrating gradients over the training trajectory), nearest-neighbour
+    retrieval in embedding space, and data model attribution approaches. Attribution
+    serves multiple practical purposes: explaining model predictions to end users
+    ("this model output is based on these training documents"), identifying the sources
+    of model biases, supporting copyright attribution for training data, and debugging
+    unexpected model behaviours by tracing them to specific training sources.'
+- type: key-claim
+  title: Key claim about Training Data Attribution
+  body: Training Data Attribution via influence functions reveals that LLM predictions
+    are dominated by a surprisingly small number of highly influential training examples
+    — influence attribution studies on classification and generation tasks find that
+    the top 0.01–0.1% of training examples by influence score account for a disproportionate
+    fraction of attributable influence for specific predictions, with the highly influential
+    examples being semantically similar to the test input; this concentrated influence
+    distribution means that targeted training data interventions (removing or reweighting
+    a small set of high-influence examples) can substantially alter specific model
+    behaviours without requiring full retraining on modified data.
+- type: warning
+  title: Common pitfall regarding Training Data Attribution
+  body: Training Data Attribution using influence functions has known approximation
+    quality issues for large LLMs — influence functions require computing inverse
+    Hessian-vector products that become increasingly expensive and numerically unstable
+    as model scale increases, and approximations used for tractability (Gauss-Newton
+    Hessian approximation, stochastic estimation) introduce errors that can cause
+    the identified high-influence examples to be incorrect; empirical validation of
+    attribution quality against held-out ground truth should be performed before using
+    influence attribution results for consequential decisions about training data
+    modification or copyright attribution claims.

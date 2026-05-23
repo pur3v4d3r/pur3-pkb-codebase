@@ -1,0 +1,117 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-01-knowledge-representation",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-01-knowledge-representation.md",
+    "notes": "Fifteen concepts covering how language models represent, ground, and reason\nabout world knowledge. Spans semantic grounding, world models, commonsense\nknowledge, ontology, knowledge graphs, and the core reasoning modes\n(temporal, spatial, causal, counterfactual, abductive, deductive,\ninductive, analogical). Batch 02 of the prompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-01-knowledge-representation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-01-knowledge-representation"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 14,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Semantic Grounding in LLMs",
+      "kebab": "semantic-grounding-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/semantic-grounding-in-llms.yaml",
+      "expected_seed_filename": "semantic-grounding-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "World Model in Language Models",
+      "kebab": "world-model-in-language-models",
+      "brief_path": "briefs/b02-01-knowledge-representation/world-model-in-language-models.yaml",
+      "expected_seed_filename": "world-model-in-language-models-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Commonsense Reasoning in LLMs",
+      "kebab": "commonsense-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/commonsense-reasoning-in-llms.yaml",
+      "expected_seed_filename": "commonsense-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Ontology-Grounded Prompting",
+      "kebab": "ontology-grounded-prompting",
+      "brief_path": "briefs/b02-01-knowledge-representation/ontology-grounded-prompting.yaml",
+      "expected_seed_filename": "ontology-grounded-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Knowledge Graph Augmented Generation",
+      "kebab": "knowledge-graph-augmented-generation",
+      "brief_path": "briefs/b02-01-knowledge-representation/knowledge-graph-augmented-generation.yaml",
+      "expected_seed_filename": "knowledge-graph-augmented-generation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Coreference Resolution Prompting",
+      "kebab": "coreference-resolution-prompting",
+      "brief_path": "briefs/b02-01-knowledge-representation/coreference-resolution-prompting.yaml",
+      "expected_seed_filename": "coreference-resolution-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Temporal Reasoning in LLMs",
+      "kebab": "temporal-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/temporal-reasoning-in-llms.yaml",
+      "expected_seed_filename": "temporal-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Spatial Reasoning in LLMs",
+      "kebab": "spatial-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/spatial-reasoning-in-llms.yaml",
+      "expected_seed_filename": "spatial-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Causal Reasoning in LLMs",
+      "kebab": "causal-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/causal-reasoning-in-llms.yaml",
+      "expected_seed_filename": "causal-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Counterfactual Reasoning Prompting",
+      "kebab": "counterfactual-reasoning-prompting",
+      "brief_path": "briefs/b02-01-knowledge-representation/counterfactual-reasoning-prompting.yaml",
+      "expected_seed_filename": "counterfactual-reasoning-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Abductive Reasoning in LLMs",
+      "kebab": "abductive-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/abductive-reasoning-in-llms.yaml",
+      "expected_seed_filename": "abductive-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Deductive Reasoning Chains",
+      "kebab": "deductive-reasoning-chains",
+      "brief_path": "briefs/b02-01-knowledge-representation/deductive-reasoning-chains.yaml",
+      "expected_seed_filename": "deductive-reasoning-chains-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Inductive Reasoning in LLMs",
+      "kebab": "inductive-reasoning-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/inductive-reasoning-in-llms.yaml",
+      "expected_seed_filename": "inductive-reasoning-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Analogical Transfer in LLMs",
+      "kebab": "analogical-transfer-in-llms",
+      "brief_path": "briefs/b02-01-knowledge-representation/analogical-transfer-in-llms.yaml",
+      "expected_seed_filename": "analogical-transfer-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Entity Linking in Prompts",
+      "kebab": "entity-linking-in-prompts",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/entity-linking-in-prompts.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at entity-linking-in-prompts.md"
+    }
+  ],
+  "warnings": []
+}

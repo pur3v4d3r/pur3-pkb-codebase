@@ -1,0 +1,54 @@
+concept: Distribution Shift in Prompting
+domain: prompt-engineering
+secondary_domains:
+- machine-learning
+- robustness
+- large-language-models
+aliases:
+- prompt distribution shift
+- covariate shift in prompting
+- out-of-distribution prompting
+broader:
+- prompt-sensitivity
+- robustness
+related:
+- prompt-brittleness
+- semantic-equivalence-in-prompts
+- cross-lingual-prompt-transfer
+- prompt-calibration-techniques
+prerequisites:
+- distribution-shift
+- machine-learning
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Distribution Shift in Prompting
+  body: Distribution shift in prompting refers to the degradation in LLM performance
+    that occurs when the distribution of prompts encountered at deployment diverges
+    from the distribution represented in the model's training data or the specific
+    prompt formats used during instruction tuning. Distribution shift can be domain-specific
+    (prompts about topics not well-represented in training data), format-specific
+    (novel prompt templates not seen during training), linguistic (non-native speaker
+    phrasings, regional dialects, specialised jargon), or task-specific (task formulations
+    that diverge from the canonical forms established during instruction tuning).
+    Identifying and mitigating distribution shift is a core challenge in deploying
+    LLMs on real-world user queries whose distribution cannot be fully anticipated
+    during development.
+- type: key-claim
+  title: Key claim about Distribution Shift in Prompting
+  body: Distribution shift in prompting is the most significant operational reliability
+    challenge for deployed LLM systems, because the prompts submitted by real users
+    will never perfectly match the development-time prompt distribution, and the performance
+    degradation from moderate distribution shift is often not detectable through standard
+    evaluation metrics that measure aggregate accuracy over balanced test sets rather
+    than performance on the long-tail of user phrasings.
+- type: warning
+  title: Common pitfall regarding Distribution Shift in Prompting
+  body: Few-shot examples that significantly reduce distribution shift in development
+    may actually amplify shift at deployment by anchoring the model to the development-time
+    distribution — examples that were representative at development time may be poor
+    representatives of the deployment distribution, causing the model to misinterpret
+    novel deployment-time prompts through the lens of development-time examples; production
+    prompt systems should include mechanisms for dynamically updating example pools
+    based on observed deployment distribution characteristics.

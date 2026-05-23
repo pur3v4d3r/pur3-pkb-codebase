@@ -17,7 +17,7 @@ subdomains:
   - scientific-reasoning
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - thought-experiment-synthetic-seed-2026-04-25
@@ -64,8 +64,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Thought Experiment Process Flow**
+> *Follow the steps from identifying assumptions to analyzing outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Assumptions] --> B[Set Up Scenario]
+>   B --> C[Test Effects]
+>   C --> D[Analyze Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Thought Experiment Applications**
+> *See the diverse fields where Thought Experiments are applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Example| B[Philosophical Debates]
+>   B -->|Example| C[Scientific Theory Development]
+> ```
+
+
+> [!abstract] **Diagram 3 — Thought Experiment vs Analogical Reasoning**
+> *Compare intrinsic and extraneous load in Thought Experiments.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] -->|Focus of Task| B[Thought Experiment]
+>   C[Extraneous Load] -->|Interfering Factors| D[Analogical Reasoning]
+> ```
 
 # Thought Experiment
 

@@ -17,7 +17,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - time-dilation-synthetic-seed-2026-05-14
@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Special Relativistic Time Dilation Process**
+> *Follow the flow from stationary to moving frame.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stationary Frame] --> B[Moving Frame]
+>   B --> C[Time Slows Down]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gravitational Time Dilation Hierarchy**
+> *Compare time dilation at different gravitational potentials.*
+>
+> ```mermaid
+> graph TD
+>   A[High Altitude] --> B[Low Gravitational Potential]
+>   C[Near Surface] --> D[High Gravitational Potential]
+> ```
+
+
+> [!abstract] **Diagram 3 — Time Dilation Applications Overview**
+> *Identify the applications and their corresponding effects.*
+>
+> ```mermaid
+> flowchart LR
+>   A[GPS Satellites] --> B[Special Relativistic Effects]
+>   C[Atomic Clocks] --> D[General Relativistic Effects]
+>   E[Muon Decay] --> F[High Speed Effects]
+> ```
 
 # Time Dilation
 

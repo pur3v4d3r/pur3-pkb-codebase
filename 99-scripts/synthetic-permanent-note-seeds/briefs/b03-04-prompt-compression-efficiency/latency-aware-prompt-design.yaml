@@ -1,0 +1,59 @@
+concept: Latency-Aware Prompt Design
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- inference-optimization
+- prompt-engineering
+- systems-ml
+aliases:
+- low-latency prompt design
+- time-to-first-token optimisation
+- response latency management
+broader:
+- prompt-compression-and-efficiency
+- inference-optimization
+- prompt-engineering
+related:
+- kv-cache-reuse-strategies
+- prompt-batching-patterns
+- streaming-output-management
+- token-efficient-prompting
+prerequisites:
+- inference-optimization
+- prompt-engineering
+- large-language-models
+- systems-performance
+confidence: high
+callouts:
+- type: definition
+  title: Latency-Aware Prompt Design
+  body: Latency-Aware Prompt Design refers to the design of prompts and inference
+    configurations with explicit attention to minimising response latency — specifically
+    time-to-first-token (TTFT, the time from prompt submission to the first output
+    token) and time-to-last-token (TTLT, total generation time) — balancing quality
+    requirements against latency constraints. Latency-aware design involves minimising
+    prompt length (which directly affects TTFT by reducing prefill computation), structuring
+    prompts to enable prefix caching (shared prefixes reduce TTFT for subsequent requests),
+    designing output formats that enable streaming delivery (partial outputs before
+    full generation completes), and selecting generation parameters (temperature,
+    top-k, sampling strategy) that balance quality against output length and therefore
+    generation time.
+- type: key-claim
+  title: Key claim about Latency-Aware Prompt Design
+  body: Latency-Aware Prompt Design can reduce perceived latency by 50–80% through
+    streaming and structural optimisation without changing model or hardware — streaming
+    outputs (delivering tokens as they are generated rather than waiting for completion)
+    reduces perceived TTLT to TTFT for user-facing applications, and prompt prefix
+    caching reduces TTFT by 70–90% for requests sharing long common prefixes; these
+    latency optimisations are architectural and prompt-design interventions that do
+    not require model changes or hardware upgrades and therefore provide high-return
+    latency improvements at low implementation cost.
+- type: warning
+  title: Common pitfall regarding Latency-Aware Prompt Design
+  body: Latency-Aware Prompt Design can create quality-latency tradeoffs that are
+    not apparent during development — prompts optimised for low latency by reducing
+    prompt length and output detail may perform acceptably on common cases but fail
+    on edge cases that require the additional context or elaboration the latency optimisation
+    removed; latency-optimised prompts should be validated against the same comprehensive
+    test suite as quality-optimised prompts, with explicit quality floor requirements
+    that prevent latency optimisation from degrading below acceptable quality thresholds.

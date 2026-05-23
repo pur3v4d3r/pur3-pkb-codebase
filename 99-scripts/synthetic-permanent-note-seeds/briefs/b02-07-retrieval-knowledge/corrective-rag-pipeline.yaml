@@ -1,0 +1,54 @@
+concept: Corrective RAG Pipeline
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- quality-control
+- large-language-models
+aliases:
+- CRAG
+- retrieval quality correction
+- self-correcting RAG
+broader:
+- retrieval-augmented-generation
+- self-rag-selective-retrieval
+related:
+- self-rag-selective-retrieval
+- adaptive-rag-routing
+- retrieval-faithfulness
+prerequisites:
+- retrieval-augmented-generation
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Corrective RAG Pipeline
+  body: Corrective RAG (CRAG) is a RAG pipeline enhancement that assesses the quality
+    of retrieved documents and applies corrective actions when the retrieval quality
+    is insufficient — either web-searching for higher-quality sources, decomposing
+    the retrieved document into fine-grained knowledge strips and filtering out irrelevant
+    strips, or flagging retrieval failure for fallback to parametric knowledge generation.
+    CRAG introduces a lightweight retrieval evaluator that scores the relevance of
+    retrieved documents against the query and triggers corrective actions when scores
+    are below confidence thresholds. The corrective action architecture ensures that
+    the generator receives either high-quality retrieved context or a clear signal
+    that retrieval has failed, preventing the generation of responses that appear
+    retrieval-grounded but are actually based on irrelevant retrieved content.
+- type: key-claim
+  title: Key claim about Corrective RAG Pipeline
+  body: Corrective RAG significantly improves factual accuracy over standard RAG architectures
+    specifically on queries where the initial retrieval returns marginally relevant
+    or partially relevant documents — standard RAG without correction generates responses
+    that blend retrieved and parametric knowledge without detecting the quality boundary,
+    producing responses that are harder to trace and correct than either pure parametric
+    or pure retrieval-based responses; CRAG's retrieval quality assessment creates
+    a quality boundary that keeps the generation strategy interpretable.
+- type: warning
+  title: Common pitfall regarding Corrective RAG Pipeline
+  body: CRAG's web-search fallback for insufficient local retrieval introduces dependencies
+    on external search APIs that may not be available, affordable, or appropriate
+    in all deployment contexts — enterprise RAG systems deployed on private corporate
+    data cannot fall back to public web search, and the web-search fallback risks
+    surfacing information that contradicts or contradicts the enterprise knowledge
+    base; corrective actions in CRAG must be designed for the specific deployment
+    environment, and web-search fallback should be treated as an enterprise deployment
+    anti-pattern unless explicitly approved.

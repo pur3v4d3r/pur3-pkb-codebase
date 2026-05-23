@@ -1,0 +1,60 @@
+concept: Hedging Calibration
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- calibration
+- natural-language-generation
+- epistemic-uncertainty
+aliases:
+- uncertainty expression calibration
+- epistemic hedge calibration in LLMs
+- verbal confidence calibration
+broader:
+- output-quality-in-llms
+- calibration-in-llms
+- epistemic-uncertainty-in-llms
+related:
+- claim-strength-calibration
+- verbalized-uncertainty
+- overconfidence-in-llm-outputs
+- verbosity-control-in-prompts
+prerequisites:
+- calibration-in-machine-learning
+- hedging-in-language
+- epistemic-uncertainty
+confidence: high
+callouts:
+- type: definition
+  title: Hedging Calibration
+  body: Hedging Calibration refers to the alignment between the degree of epistemic
+    uncertainty expressed in LLM-generated text through linguistic hedges (probably,
+    possibly, it appears, research suggests, I believe, there is evidence that) and
+    the actual probability that the corresponding claims are true. Well-calibrated
+    hedging means that claims expressed with high confidence hedges (it is well established
+    that, research clearly shows, it is certain that) are correct substantially more
+    often than claims expressed with low confidence hedges (it is possible that, some
+    researchers suggest, there is debate about), and that the linguistic hedging spectrum
+    maps monotonically to claim reliability. Poorly calibrated hedging — the dominant
+    LLM failure mode — manifests as confident expression of false claims and uncertain
+    expression of well-supported facts, providing users with systematically misleading
+    reliability signals.
+- type: key-claim
+  title: Key claim about Hedging Calibration
+  body: Hedging Calibration in LLMs is substantially worse than in well-trained human
+    expert communicators — studies measuring the correspondence between linguistic
+    hedge strength and empirical claim accuracy show that LLMs produce confident-hedged
+    claims (it is well established that, clearly) that are false at rates of 15–30%,
+    while producing tentative-hedged claims (possibly, there is some evidence) that
+    are actually well-supported at similar rates, indicating that linguistic hedging
+    in LLM outputs provides less than half the reliability signal it appears to provide
+    and should not be used as a proxy for claim confidence without independent verification.
+- type: warning
+  title: Common pitfall regarding Hedging Calibration
+  body: Hedging Calibration cannot be improved by simply instructing the model to
+    hedge more or less — blanket hedging instructions produce either globally under-confident
+    outputs where well-supported claims are unnecessarily hedged or globally over-confident
+    outputs where genuine uncertainties are stated assertively, but do not improve
+    the correspondence between hedge level and claim reliability; improving hedging
+    calibration requires claim-level uncertainty estimation (e.g., through sampling-based
+    consistency measures) that provides an independent reliability signal to drive
+    hedge level, not a uniform hedging policy applied to all output.

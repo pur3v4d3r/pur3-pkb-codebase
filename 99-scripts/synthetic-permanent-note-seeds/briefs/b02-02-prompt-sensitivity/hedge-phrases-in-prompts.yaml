@@ -1,0 +1,52 @@
+concept: Hedge Phrases in Prompts
+domain: prompt-engineering
+secondary_domains:
+- pragmatics
+- prompt-engineering
+- natural-language-generation
+aliases:
+- hedging in LLM outputs
+- epistemic modality in prompts
+- uncertainty phrases in prompts
+broader:
+- verbalized-uncertainty
+- prompt-engineering
+related:
+- verbalized-uncertainty
+- overconfidence-in-llm-outputs
+- underspecification-in-prompts
+prerequisites:
+- prompt-engineering
+- pragmatics
+- natural-language-processing
+confidence: high
+callouts:
+- type: definition
+  title: Hedge Phrases in Prompts
+  body: Hedge phrases in prompts and LLM outputs are linguistic expressions that signal
+    epistemic uncertainty or reduced commitment to the truth of a proposition — phrases
+    such as "it seems," "I believe," "it is possible that," "approximately," "as far
+    as I know," and "you may want to verify this." As prompt components, hedge phrases
+    can be used to modulate the model's confidence expression by including or excluding
+    hedging instructions in the system prompt. As output features, hedge phrases serve
+    as pragmatic signals to users about output reliability. The frequency and calibration
+    of hedge phrases in LLM outputs have been studied in the context of both information
+    reliability and user trust.
+- type: key-claim
+  title: Key claim about Hedge Phrases in Prompts
+  body: Hedge phrases in LLM outputs are disproportionately absent for hallucinated
+    content and disproportionately present for true content, an inversion of their
+    intended signal function — models have learned to express uncertainty about well-known
+    facts (because training data contains many debates and qualifications about prominent
+    topics) and to express confidence about obscure or fabricated facts (because training
+    data contains fewer challenges to specific claims about niche topics), making
+    hedge phrases anti-informative relative to their face value.
+- type: warning
+  title: Common pitfall regarding Hedge Phrases in Prompts
+  body: Instructing an LLM to hedge all uncertain outputs via system-prompt instructions
+    can degrade user experience and information utility by producing over-hedged outputs
+    that express uncertainty about well-established facts; effective hedge-phrase
+    management requires calibrating the instruction to the specific domain's knowledge
+    reliability rather than applying a blanket hedging policy, and must be paired
+    with mechanisms that ground hedging in actual knowledge reliability rather than
+    stylistic compliance.

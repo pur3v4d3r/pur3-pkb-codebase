@@ -1,0 +1,61 @@
+concept: Memorization vs. Generalization
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- statistical-learning-theory
+- training-dynamics
+aliases:
+- training data memorisation in LLMs
+- verbatim memorisation
+- LLM generalisation vs. overfitting
+broader:
+- training-dynamics-and-data-pipelines
+- machine-learning
+- large-language-models
+related:
+- pretraining-data-influence
+- data-contamination-effects
+- training-data-attribution
+- deduplication-effects-on-training
+prerequisites:
+- statistical-learning-theory
+- machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Memorization vs. Generalization
+  body: 'Memorization vs. Generalization in LLMs refers to the spectrum between two
+    extreme learning modes: verbatim memorisation (where the model has stored specific
+    training examples and can reproduce them exactly when prompted with prefixes or
+    related queries) and robust generalisation (where the model has extracted abstract
+    patterns from training examples and can apply them to novel inputs never seen
+    during training). LLM memorisation research quantifies the proportion and type
+    of training data that models verbatim memorise (typically rare, frequently repeated,
+    or distinctive examples), the conditions that promote memorisation (data duplication,
+    training sequence length, model scale), and the implications of memorisation for
+    privacy (memorised PII can be extracted), copyright (memorised text may be reproduced
+    verbatim), and benchmark contamination (memorised benchmarks inflate apparent
+    performance).'
+- type: key-claim
+  title: Key claim about Memorization vs. Generalization
+  body: Memorization vs. Generalization in LLMs follows a predictable duplication-scaling
+    pattern — controlled memorisation studies show that training examples that appear
+    multiple times in the pretraining corpus are memorised at substantially higher
+    rates than single-occurrence examples (10x duplication produces approximately
+    10x higher memorisation rates), and that larger models have higher memorisation
+    capacity for single-occurrence examples at comparable training budgets; these
+    patterns suggest that data deduplication is the most effective lever for reducing
+    memorisation risk, while model scale increases both generalisation capability
+    and memorisation capacity, creating a capability-memorisation tradeoff at scale.
+- type: warning
+  title: Common pitfall regarding Memorization vs. Generalization
+  body: Memorization vs. Generalization cannot be cleanly separated by model behaviour
+    on standard benchmarks — a model may appear to generalise well on held-out test
+    sets while actually memorising the test distribution (if the test examples are
+    similar to training examples), or may appear to memorise while actually having
+    generalised to a pattern that the training example exemplifies; distinguishing
+    genuine generalisation from sophisticated pattern matching that resembles generalisation
+    requires controlled adversarial evaluation on inputs specifically designed to
+    have no training-distribution analogues.

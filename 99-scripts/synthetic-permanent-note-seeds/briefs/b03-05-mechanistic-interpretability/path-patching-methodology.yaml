@@ -1,0 +1,62 @@
+concept: Path Patching Methodology
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- causal-inference
+aliases:
+- path-level causal tracing
+- computational pathway analysis
+- causal circuit tracing
+broader:
+- mechanistic-interpretability
+- causal-tracing-in-transformers
+- large-language-models
+related:
+- causal-tracing-in-transformers
+- attention-knockout-analysis
+- factual-association-mechanisms
+- distributed-representations-in-transformers
+prerequisites:
+- causal-tracing
+- transformer-architecture
+- mechanistic-interpretability
+- causal-inference
+confidence: high
+callouts:
+- type: definition
+  title: Path Patching Methodology
+  body: Path Patching Methodology refers to the refined causal intervention technique
+    that enables decomposing the causal influence of specific components on model
+    outputs along defined computational pathways — identifying not just which components
+    are causally important but how information flows between causally important components
+    to produce the target behaviour. Path patching extends activation patching by
+    specifying not only the source and destination of the patched activation but also
+    the intermediate components whose activations are held clean or corrupted, enabling
+    researchers to distinguish direct pathways (component A directly influences the
+    output) from indirect pathways (component A influences the output through component
+    B's processing). Path patching enables circuit-level mechanistic analysis that
+    identifies the complete computational subgraph responsible for specific model
+    behaviours.
+- type: key-claim
+  title: Key claim about Path Patching Methodology
+  body: Path Patching Methodology enables discovery of interpretable circuits that
+    implement specific model capabilities — path patching studies of induction heads,
+    indirect object identification (IOI), and factual recall have identified compact
+    computational circuits (typically 5–20 components in specific interaction configurations)
+    that implement these capabilities through identifiable computational steps analogous
+    to structured algorithmic procedures, providing the strongest available mechanistic
+    evidence that LLMs implement some capabilities through structured, interpretable
+    algorithms rather than through uninterpretable distributed computation across
+    all model components.
+- type: warning
+  title: Common pitfall regarding Path Patching Methodology
+  body: Path Patching Methodology is computationally expensive for large models and
+    may identify circuits that are correct under the experimental conditions used
+    for analysis but do not generalise to the full task distribution — path patching
+    experiments necessarily use specific prompt formats and specific task instances
+    to define the clean and corrupted activations, and circuits identified for these
+    specific instances may not capture all the mechanisms the model uses for the same
+    task under different prompt conditions; circuit generalisation testing across
+    diverse prompt formats and edge cases is required before claiming that a path-patching-identified
+    circuit constitutes a complete mechanistic account of a model capability.

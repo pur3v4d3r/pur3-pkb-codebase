@@ -1,0 +1,65 @@
+concept: Toxic Content Filtering in Pretraining
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- content-moderation
+- training-dynamics
+- ai-safety
+aliases:
+- toxicity filtering for LLM training
+- harmful content removal in pretraining
+- pretraining data safety filtering
+broader:
+- training-dynamics-and-data-pipelines
+- content-moderation
+- ai-safety
+- large-language-models
+related:
+- constitutional-ai-data-pipeline
+- deduplication-effects-on-training
+- pretraining-data-influence
+- toxic-language-in-llms
+prerequisites:
+- content-moderation
+- machine-learning
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Toxic Content Filtering in Pretraining
+  body: 'Toxic Content Filtering in Pretraining refers to the pipeline stages that
+    identify and remove harmful, offensive, or unsafe text from pretraining corpora
+    before they are used to train language models — with the goal of reducing the
+    model''s tendency to generate harmful content and preventing the encoding of toxic
+    language patterns in model parameters. Toxic content filtering methods include
+    classifier-based filtering (using a separate safety classifier to score and remove
+    documents above a toxicity threshold), word-list filtering (removing documents
+    containing specified offensive terms), heuristic quality filtering (removing text
+    from low-quality or commonly toxic domains), and human-reviewed blocklist filtering
+    (blocking entire domains identified as primarily harmful). Filtering stringency
+    involves a capability-safety tradeoff: aggressive filtering may remove beneficial
+    content alongside toxic content, while insufficient filtering allows toxic patterns
+    to persist in model representations.'
+- type: key-claim
+  title: Key claim about Toxic Content Filtering in Pretraining
+  body: Toxic Content Filtering in Pretraining is insufficient alone for alignment
+    — controlled studies comparing models trained on heavily filtered versus lightly
+    filtered corpora find that filtering reduces the frequency of harmful outputs
+    without eliminating them, because toxic language patterns are also present in
+    non-toxic documents that express, discuss, or critique toxicity; achieving aligned
+    model behaviour requires combining pretraining filtering with post-training alignment
+    methods (RLHF, CAI, instruction tuning), as pretraining filtering alone at feasible
+    filtering rates cannot reduce harmful output rates to deployment-acceptable levels
+    for safety-critical applications.
+- type: warning
+  title: Common pitfall regarding Toxic Content Filtering in Pretraining
+  body: Toxic Content Filtering in Pretraining can introduce capability gaps by removing
+    content that contains both harmful and beneficial information — filtering documents
+    containing offensive language also removes documents that discuss, analyse, critique,
+    or provide counter-examples of that language, and aggressive filtering of politically
+    charged, controversial, or sensitive topic areas can create models with limited
+    ability to discuss these areas helpfully even when safe discussion is appropriate;
+    filtering calibration must distinguish between content that generates harmful
+    behaviour versus content that merely contains mentions of harmful topics, to preserve
+    capability while reducing genuine toxicity.

@@ -18,7 +18,7 @@ subdomains:
   - working-memory
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - working-memory-updating-synthetic-seed-2026-04-25
@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Working Memory Updating Process Flow**
+> *Follow the steps from assessment to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Assessment] --> B[Decision-Making]
+>   B --> C[Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory Updating Mechanism Overview**
+> *Identify the stages involved in updating working memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Incoming Information] --> B[Evaluation]
+>   B --> C[Decision]
+>   C --> D[Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Modes**
+> *Compare reflective and reactive thinking in working memory.*
+>
+> ```mermaid
+> classDiagram
+>   class Reflective{
+>     +Assess: Evaluate incoming information
+>     +Modify: Update content thoughtfully
+>   }
+>   class Reactive{
+>     +React: Immediate response without deliberation
+>   }
+> ```
 
 # Working Memory Updating
 

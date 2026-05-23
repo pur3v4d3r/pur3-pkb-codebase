@@ -1,0 +1,50 @@
+concept: Spatial Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- cognitive-science
+- natural-language-processing
+- large-language-models
+aliases:
+- spatial inference in LLMs
+- geometric reasoning in language models
+- spatial cognition in LLMs
+broader:
+- commonsense-reasoning-in-llms
+- reasoning-in-llms
+related:
+- temporal-reasoning-in-llms
+- causal-reasoning-in-llms
+- world-model-in-language-models
+prerequisites:
+- large-language-models
+- commonsense-reasoning
+- cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Spatial Reasoning in LLMs
+  body: Spatial reasoning in LLMs refers to the ability to represent and reason about
+    the positions, orientations, distances, and spatial relations between objects
+    — including topological relations (inside, adjacent, connected), directional relations
+    (north of, left of, above), metric relations (three metres away), and mental rotation
+    tasks. LLMs acquire spatial knowledge from spatial descriptions in text but lack
+    the grounded sensorimotor experience that anchors human spatial cognition to body
+    and environment. The resulting spatial representations are text-statistical rather
+    than simulation-based, producing brittle performance that is highly sensitive
+    to how spatial relations are linguistically encoded.
+- type: key-claim
+  title: Key claim about Spatial Reasoning in LLMs
+  body: LLM spatial reasoning performance is a function of linguistic familiarity
+    with the spatial description format, not genuine geometric inference — the same
+    spatial problem expressed in canonical route-description format is solved reliably,
+    while an equivalent problem expressed in coordinate-based or survey-description
+    format is solved poorly, confirming that LLMs navigate text descriptions of space
+    rather than computing over any internal geometric representation.
+- type: warning
+  title: Common pitfall regarding Spatial Reasoning in LLMs
+  body: Prompting LLMs for spatial reasoning on novel or large-scale geometric configurations
+    (multi-room layouts, city-scale navigation, multi-object stacking) produces fluent
+    but geometrically inconsistent outputs that satisfy local linguistic constraints
+    while violating global spatial coherence; engineers relying on LLM spatial reasoning
+    for safety-critical applications such as robotics path planning or architectural
+    layout should treat LLM outputs as rough drafts requiring formal verification.

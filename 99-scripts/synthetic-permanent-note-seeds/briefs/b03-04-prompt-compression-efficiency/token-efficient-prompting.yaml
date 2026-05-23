@@ -1,0 +1,59 @@
+concept: Token-Efficient Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- efficiency
+aliases:
+- compact prompting
+- cost-efficient prompting
+- low-token prompting
+broader:
+- prompt-compression-and-efficiency
+- prompt-engineering
+related:
+- prompt-pruning
+- prompt-distillation
+- prompt-token-budgeting
+- information-density-optimization
+prerequisites:
+- prompt-engineering
+- tokenisation
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Token-Efficient Prompting
+  body: Token-Efficient Prompting refers to the design of prompts that achieve high
+    task performance while minimising total token consumption — combining prompt compression
+    techniques (pruning, distillation, structural efficiency) with prompt design principles
+    that maximise information density (structured formats, minimal redundancy, compressed
+    instruction language). Token-efficient prompting is a key cost optimisation strategy
+    for large-scale LLM deployments where inference cost scales with token count,
+    and is particularly important for high-volume applications where small reductions
+    in per-request token count produce significant aggregate cost savings. Token-efficient
+    prompting requires balancing the compression-quality tradeoff, identifying which
+    prompt content is task-essential versus redundant, and using token-dense representations
+    that convey maximum information per token.
+- type: key-claim
+  title: Key claim about Token-Efficient Prompting
+  body: Token-Efficient Prompting through structured format compression (converting
+    verbose natural language instructions to structured pseudo-code or bullet-form
+    instructions) achieves 30–60% token reduction with minimal quality degradation
+    on well-defined tasks — the natural language that humans prefer for prompt readability
+    contains substantial syntactic and pragmatic overhead that LLMs do not require
+    for accurate task inference, and structured compact instruction formats exploit
+    LLMs' ability to parse and follow structured specifications to deliver equivalent
+    performance at substantially lower token cost; this efficiency gain is largest
+    for complex multi-step instructions where the redundancy of natural language instruction
+    prose is greatest.
+- type: warning
+  title: Common pitfall regarding Token-Efficient Prompting
+  body: Token-Efficient Prompting creates a readability-efficiency tradeoff that complicates
+    prompt maintenance — highly compressed prompts that are efficient for model consumption
+    are often difficult for human engineers to read, modify, and debug; this increases
+    the risk of undetected prompt regressions when maintenance edits inadvertently
+    alter the semantics of compressed instructions, and makes it harder to diagnose
+    prompt failures; production token-efficient prompts should maintain annotated
+    human-readable versions alongside the compressed production versions to support
+    maintainability.

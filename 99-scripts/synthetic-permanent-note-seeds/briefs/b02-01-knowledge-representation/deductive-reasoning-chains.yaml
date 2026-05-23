@@ -1,0 +1,53 @@
+concept: Deductive Reasoning Chains
+domain: knowledge-representation
+secondary_domains:
+- logic
+- mathematics
+- large-language-models
+aliases:
+- deductive inference in LLMs
+- logical deduction prompting
+- syllogistic reasoning in LLMs
+broader:
+- reasoning-in-llms
+related:
+- inductive-reasoning-in-llms
+- abductive-reasoning-in-llms
+- chain-of-thought-prompting
+- causal-reasoning-in-llms
+prerequisites:
+- large-language-models
+- formal-logic
+- deductive-inference
+confidence: high
+callouts:
+- type: definition
+  title: Deductive Reasoning Chains
+  body: Deductive reasoning chains in LLMs are sequences of inference steps in which
+    conclusions are derived necessarily from given premises according to valid logical
+    rules, producing outputs that are guaranteed to be true if the premises are true.
+    In the prompting context, deductive reasoning chains are elicited through chain-of-thought
+    formatting that asks the model to state the relevant premises, identify the applicable
+    inference rule, and derive the conclusion step by step. LLMs can perform simple
+    deductive syllogisms reliably but degrade on multi-step deductive chains, negation,
+    embedded quantifiers, and premises that conflict with world knowledge (the model
+    tends to accept plausible-sounding conclusions even when they do not follow deductively
+    from the given premises).
+- type: key-claim
+  title: Key claim about Deductive Reasoning Chains
+  body: The primary failure mode of LLMs in deductive reasoning is belief bias — the
+    tendency to accept valid arguments with believable conclusions and reject valid
+    arguments with counterintuitive conclusions regardless of logical form, demonstrating
+    that LLMs evaluate deductive conclusions by their posterior probability under
+    the training distribution rather than by the validity of the inference from the
+    stated premises, a conflation that makes chain-of-thought deductive reasoning
+    unreliable for logical reasoning in novel or adversarial premise configurations.
+- type: warning
+  title: Common pitfall regarding Deductive Reasoning Chains
+  body: Long deductive chains in LLMs accumulate errors multiplicatively — each inference
+    step has a non-zero error probability, and since later steps depend on earlier
+    ones, a single error in an early step propagates to corrupt all downstream conclusions,
+    making deductive chain reliability decrease geometrically with chain length; formal
+    theorem provers, constraint solvers, or verification tools should be integrated
+    as external validators for high-stakes deductive reasoning rather than relying
+    on LLM self-consistency.

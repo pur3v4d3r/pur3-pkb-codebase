@@ -1,0 +1,59 @@
+concept: Factual Association Mechanisms
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- transformer-architecture
+- knowledge-representation
+aliases:
+- factual recall mechanisms in LLMs
+- how LLMs store facts
+- transformer fact retrieval
+broader:
+- mechanistic-interpretability
+- knowledge-localization-in-ffn
+- large-language-models
+related:
+- knowledge-localization-in-ffn
+- causal-tracing-in-transformers
+- logit-lens-technique
+- distributed-representations-in-transformers
+prerequisites:
+- transformer-architecture
+- mechanistic-interpretability
+- factual-knowledge-in-llms
+confidence: high
+callouts:
+- type: definition
+  title: Factual Association Mechanisms
+  body: Factual Association Mechanisms refer to the mechanistic components and computational
+    pathways through which transformer language models store, index, and retrieve
+    factual associations — the "how" of factual knowledge in LLMs at the level of
+    specific attention heads, MLP layers, residual stream operations, and computational
+    circuits. Factual association mechanisms research uses causal tracing, probing,
+    attention pattern analysis, and circuit analysis to map the complete computational
+    pathway from a factual query (e.g., "The Eiffel Tower is located in...") to the
+    correct factual completion, identifying the specific subject token processing
+    at MLP layers, the late-position information routing via attention heads, and
+    the residual stream accumulation that combines these contributions into a vocabulary
+    prediction.
+- type: key-claim
+  title: Key claim about Factual Association Mechanisms
+  body: Factual Association Mechanisms in transformer LLMs follow a consistent two-stage
+    retrieval pattern — the subject token positions at specific middle-layer MLP modules
+    enrich the subject representation with attribute information (what properties
+    the subject has), and late-layer attention heads at the final token position retrieve
+    and route this subject-specific information to produce the factual completion;
+    this two-stage subject-enrichment / final-position-routing pattern has been replicated
+    across diverse factual tasks and multiple LLM architectures, providing a mechanistic
+    basis for the knowledge localisation and knowledge editing literature.
+- type: warning
+  title: Common pitfall regarding Factual Association Mechanisms
+  body: Factual Association Mechanisms research has been conducted primarily on factual
+    recall in single-hop, context-free settings (completing "The Eiffel Tower is in
+    ___") and may not generalise to multi-hop factual reasoning, contextually-modified
+    factual claims, or counterfactual reasoning tasks — these tasks may involve substantially
+    different computational circuits that the factual association mechanism research
+    does not capture; extrapolating factual mechanism findings to interpretability
+    conclusions about complex factual reasoning requires independent mechanistic analysis
+    of those more complex tasks rather than assuming the same mechanisms apply.

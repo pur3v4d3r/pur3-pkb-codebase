@@ -1,0 +1,53 @@
+concept: Likert-Scale Prompt Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- human-evaluation
+- evaluation-methodology
+aliases:
+- Likert rating evaluation
+- 5-point scale evaluation
+- ordinal scale evaluation
+broader:
+- llm-evaluation
+- evaluation-methodology
+related:
+- rubric-based-llm-evaluation
+- pairwise-preference-evaluation
+- inter-annotator-agreement-in-evals
+prerequisites:
+- likert-scale
+- survey-methodology
+- llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Likert-Scale Prompt Evaluation
+  body: Likert-scale prompt evaluation is an evaluation methodology in which model
+    outputs are rated on an ordered categorical scale (typically 1–5 or 1–7) representing
+    degrees of quality, with each scale point associated with a verbal descriptor
+    (e.g., 1 = Very Poor, 3 = Adequate, 5 = Excellent). Evaluators (human or LLM)
+    assign a Likert rating to each output based on specified quality criteria. Likert-scale
+    evaluation produces interval-like ratings that can be averaged and compared across
+    models, enabling quantitative comparisons of response quality distributions. It
+    is the most common format for human quality evaluation in NLP and is straightforwardly
+    applicable to LLM-as-judge setups.
+- type: key-claim
+  title: Key claim about Likert-Scale Prompt Evaluation
+  body: Likert-scale evaluations of LLM outputs suffer from systematic central tendency
+    bias and scale compression — human and LLM evaluators alike tend to avoid the
+    scale extremes (1 and 5), compressing most ratings into the 2–4 range, which reduces
+    the scale's discrimination power and makes it difficult to distinguish truly excellent
+    from merely good outputs; absolute Likert ratings provide less reliable model
+    comparisons than pairwise preference ratings because pairwise comparisons do not
+    suffer from scale calibration differences between evaluators.
+- type: warning
+  title: Common pitfall regarding Likert-Scale Prompt Evaluation
+  body: Averaging Likert scale ratings treats ordinal data as interval data, which
+    is statistically invalid but widely practiced — the distance between scale points
+    is not guaranteed to be equal (the difference between 4 and 5 may be much smaller
+    than the difference between 2 and 3), meaning that mean Likert scores are an interpretable
+    summary statistic only if annotators treat the scale as interval-level, which
+    should be verified rather than assumed; evaluation studies should report Likert
+    distributions and non-parametric statistics alongside means rather than treating
+    means as the sole comparison metric.

@@ -1,0 +1,58 @@
+concept: Base Rate Neglect in LLMs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- probability-reasoning
+aliases:
+- prior probability neglect in LLMs
+- base rate fallacy in AI
+- Bayesian failure in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- base-rate-neglect
+- large-language-models
+related:
+- representativeness-heuristic-in-llms
+- availability-heuristic-in-llms
+- overconfidence-in-llm-outputs
+- verbalized-uncertainty
+prerequisites:
+- base-rate-neglect
+- Bayesian-reasoning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Base Rate Neglect in LLMs
+  body: Base Rate Neglect in LLMs refers to the systematic tendency of large language
+    models to underweight prior probability information (base rates) when specific,
+    individuating case information is present in the prompt — an LLM analogue of the
+    well-documented human cognitive bias in which people fail to appropriately integrate
+    base rates into probabilistic judgments. In LLMs, this manifests as generating
+    probability estimates, classifications, or recommendations that are heavily influenced
+    by the surface features and narrative of the specific case in the prompt while
+    insufficiently accounting for the statistical rarity or frequency of the relevant
+    category in the general population. Base rate neglect is particularly pronounced
+    in medical diagnosis simulation, legal judgment, and risk assessment prompts where
+    case vignettes provide rich individuating detail that overshadows population-level
+    statistics.
+- type: key-claim
+  title: Key claim about Base Rate Neglect in LLMs
+  body: Base Rate Neglect in LLMs is consistently demonstrable across model scales
+    and architectures when prompts present a detailed individual case alongside a
+    low base rate for a relevant condition — models reliably produce posterior probability
+    estimates substantially higher than Bayesian computation would yield, often by
+    factors of 5–10x, indicating that case-specific features systematically dominate
+    base-rate priors in the model's reasoning; this is a critical failure mode for
+    medical, legal, and risk assessment applications where accurate Bayesian reasoning
+    is a minimum requirement for trustworthy outputs.
+- type: warning
+  title: Common pitfall regarding Base Rate Neglect in LLMs
+  body: Providing base rates explicitly in the prompt partially but incompletely mitigates
+    Base Rate Neglect in LLMs — models still exhibit residual base-rate underweighting
+    even when instructed to perform Bayesian reasoning and given explicit prior probabilities,
+    suggesting the bias is encoded in the model's inference tendencies rather than
+    solely in information availability; robust mitigation requires both explicit base
+    rate provision and structured prompting that forces the model to compute the posterior
+    step-by-step before rendering a judgment.

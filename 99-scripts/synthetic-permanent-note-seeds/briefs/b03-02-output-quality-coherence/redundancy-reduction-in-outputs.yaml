@@ -1,0 +1,60 @@
+concept: Redundancy Reduction in Outputs
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- natural-language-generation
+- information-theory
+aliases:
+- repetition suppression in LLMs
+- duplicate content removal
+- output de-duplication
+broader:
+- information-density-optimization
+- verbosity-control-in-prompts
+- output-quality-in-llms
+related:
+- information-density-optimization
+- verbosity-control-in-prompts
+- abstractive-context-compression
+- prompt-distillation
+prerequisites:
+- information-theory
+- natural-language-generation
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Redundancy Reduction in Outputs
+  body: Redundancy Reduction in Outputs refers to the mitigation of repetitive, duplicate,
+    or self-paraphrasing content in LLM-generated text — content that restates earlier
+    information without adding new substance, either through direct repetition, paraphrastic
+    reiteration of previously made points, or structural patterns where introductions,
+    body content, and conclusions restate identical information in slightly varied
+    forms. LLMs exhibit strong redundancy tendencies due to training on text that
+    uses redundancy as a legitimate pedagogical and rhetorical device (textbooks repeat
+    key concepts, persuasive essays restate their thesis), and RLHF rewards for completeness
+    further incentivise redundant inclusion of previously stated content to signal
+    thoroughness. Redundancy reduction requires explicit prompting guidance, post-generation
+    deduplication, or structured formats that prevent restating rather than amplifying
+    information.
+- type: key-claim
+  title: Key claim about Redundancy Reduction in Outputs
+  body: Redundancy Reduction in Outputs is quantifiable through content novelty metrics
+    — measuring the proportion of each sentence that introduces content not present
+    in preceding sentences reveals that typical LLM long-form outputs contain 20–40%
+    redundant content by this measure, with the redundancy rate increasing with output
+    length and with RLHF alignment degree; redundancy is distributed non-uniformly
+    across output sections, with the highest redundancy in introductions and conclusions
+    where structural conventions most strongly incentivise restatement, suggesting
+    that format constraints that eliminate structural introductions and conclusions
+    produce the largest per-token redundancy reduction.
+- type: warning
+  title: Common pitfall regarding Redundancy Reduction in Outputs
+  body: Redundancy Reduction in Outputs should be distinguished from appropriate elaboration
+    and pedagogically motivated repetition — some redundancy is intentional and pedagogically
+    valuable, such as restating a key principle in different terms to improve comprehension,
+    and aggressive redundancy reduction that eliminates all restatement produces outputs
+    that are dense but require higher baseline knowledge to comprehend; the appropriate
+    redundancy level is audience- and purpose-dependent, and indiscriminate redundancy
+    removal optimised for expert users produces outputs inappropriate for educational
+    contexts.

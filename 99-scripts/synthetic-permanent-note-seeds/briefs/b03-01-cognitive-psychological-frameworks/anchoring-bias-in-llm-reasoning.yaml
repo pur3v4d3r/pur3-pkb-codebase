@@ -1,0 +1,59 @@
+concept: Anchoring Bias in LLM Reasoning
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- prompt-engineering
+aliases:
+- anchor effects in LLMs
+- numerical anchoring in AI
+- priming-by-number in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- anchoring-bias
+- large-language-models
+related:
+- primacy-and-recency-effects-in-context
+- framing-effects-on-llm-outputs
+- order-sensitivity-in-few-shot
+- context-window-management
+prerequisites:
+- anchoring-bias
+- large-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: Anchoring Bias in LLM Reasoning
+  body: Anchoring Bias in LLM Reasoning is the tendency of large language models to
+    over-weight an initial numerical value, estimate, or reference point presented
+    in the prompt when generating subsequent numerical judgments or estimates, producing
+    outputs that are systematically pulled toward the anchor even when the anchor
+    is arbitrary, irrelevant, or explicitly identified as incorrect. Anchoring bias
+    in LLMs manifests when a prompt supplies a numerical reference — such as "a colleague
+    estimated this at 80%" — and the model's own estimate gravitates disproportionately
+    toward 80%, or when few-shot examples with extreme values skew the model's output
+    distribution toward those values. The bias is particularly problematic in tasks
+    requiring independent numerical estimation (cost prediction, probability assessment,
+    rate estimation) where anchoring by in-context examples or initial prompt framing
+    can introduce systematic error into outputs that appear precisely calibrated.
+- type: key-claim
+  title: Key claim about Anchoring Bias in LLM Reasoning
+  body: Anchoring Bias in LLM Reasoning is reproducibly demonstrated in controlled
+    experiments where models shown prompts with high versus low numerical anchors
+    produce estimates that differ by substantially more than the anchor's informational
+    content warrants — a finding that has direct practical consequences for applications
+    like cost estimation, risk assessment, and survey response generation, where anchored
+    estimates may be mistaken for independently-derived model judgments; debiasing
+    strategies such as instructing the model to reason from first principles before
+    consulting the context, or using zero-shot prompting for numerical estimation
+    tasks, partially reduce but do not eliminate the bias.
+- type: warning
+  title: Common pitfall regarding Anchoring Bias in LLM Reasoning
+  body: Anchoring Bias in LLM Reasoning is not limited to explicit numerical anchors
+    — any prominent early value in the context, including non-numerical reference
+    frames, categorical labels, or example outputs in few-shot prompts, can function
+    as an anchor that distorts subsequent reasoning; practitioners who focus exclusively
+    on numerical anchoring prevention while ignoring the anchoring effects of few-shot
+    example selection, seed text, or early context framing will miss the dominant
+    anchoring channels in typical production deployments.

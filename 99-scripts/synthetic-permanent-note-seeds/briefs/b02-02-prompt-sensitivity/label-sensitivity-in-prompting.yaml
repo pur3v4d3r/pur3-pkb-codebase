@@ -1,0 +1,54 @@
+concept: Label Sensitivity in Prompting
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- large-language-models
+- evaluation
+aliases:
+- label bias in prompting
+- demo label effects
+- in-context label sensitivity
+broader:
+- prompt-sensitivity
+- few-shot-prompting
+related:
+- order-sensitivity-in-few-shot
+- surface-form-competition
+- prompt-calibration-techniques
+- format-sensitivity-in-prompting
+prerequisites:
+- few-shot-prompting
+- in-context-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Label Sensitivity in Prompting
+  body: 'Label sensitivity in prompting refers to the phenomenon in which the specific
+    text strings used as output labels in few-shot demonstrations systematically bias
+    the model''s predictions, independent of the semantic content of the labels. Even
+    when two label sets are semantically equivalent (e.g., "positive/negative" vs.
+    "good/bad"), the model''s classification accuracy and output distribution shift
+    based on the label tokens'' frequency and associations in training data. Label
+    sensitivity also manifests as majority-label bias: when demonstration labels are
+    imbalanced, the model overproduces the majority label, and when the labels in
+    demonstrations are shuffled randomly to create inconsistent signal, many models
+    ignore the label-input correspondence entirely and default to prior-probability
+    answers.'
+- type: key-claim
+  title: Key claim about Label Sensitivity in Prompting
+  body: The dominant signal in in-context learning label slots is not the input-output
+    mapping demonstrated by the examples but the statistical properties of the label
+    tokens themselves — models with strong label sensitivity are implicitly performing
+    label-token frequency-weighted prediction rather than input-conditioned classification,
+    which means that calibrating label tokens (choosing labels with equal training-frequency
+    or remapping them to numerals) can close a large fraction of the performance gap
+    between calibrated and uncalibrated prompts.
+- type: warning
+  title: Common pitfall regarding Label Sensitivity in Prompting
+  body: Label sensitivity is invisible in single-prompt evaluations and only surfaces
+    through systematic ablations that vary the label strings while holding all other
+    prompt components constant; researchers who fix label strings across all experiments
+    will systematically confound model capability with label-token frequency artefacts,
+    leading to incorrect conclusions about the relative performance of different prompting
+    strategies.

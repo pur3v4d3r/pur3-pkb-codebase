@@ -1,0 +1,52 @@
+concept: Verbalized Uncertainty
+domain: prompt-engineering
+secondary_domains:
+- calibration
+- natural-language-generation
+- large-language-models
+aliases:
+- linguistic confidence expression
+- verbal probability estimation
+- LLM uncertainty language
+broader:
+- prompt-calibration-techniques
+- uncertainty-quantification
+related:
+- hedge-phrases-in-prompts
+- overconfidence-in-llm-outputs
+- prompt-calibration-techniques
+prerequisites:
+- large-language-models
+- uncertainty-quantification
+- calibration
+confidence: high
+callouts:
+- type: definition
+  title: Verbalized Uncertainty
+  body: Verbalized uncertainty is the expression of a language model's confidence
+    or uncertainty about its outputs through natural-language hedging phrases, explicit
+    probability statements, or explicit invitations for the user to verify — "I believe,"
+    "I am fairly confident that," "with approximately 80% confidence," "you should
+    verify this," — rather than through numerical probability scores or structured
+    confidence metadata. Verbalized uncertainty is practically important because most
+    LLM deployments surface only the text output, not the underlying probability distribution,
+    making verbal uncertainty cues the primary signal available to users for assessing
+    output reliability. However, verbalized uncertainty expressions are learned linguistic
+    behaviours and need not be calibrated to the model's actual internal probabilities.
+- type: key-claim
+  title: Key claim about Verbalized Uncertainty
+  body: 'Verbalized uncertainty is systematically miscalibrated in instruction-tuned
+    models: post-RLHF fine-tuning reduces the frequency of hedging language in outputs
+    because human raters penalise expressions of uncertainty as signs of weakness
+    or incompetence, training the model to produce confident-sounding outputs regardless
+    of its actual internal uncertainty, which makes the absence of verbal hedges a
+    poor indicator of high actual confidence in aligned models.'
+- type: warning
+  title: Common pitfall regarding Verbalized Uncertainty
+  body: Prompting strategies that instruct the model to "express your confidence level"
+    or "only answer if you are sure" do not reliably reduce hallucination — the model
+    learns to comply with the surface form of the instruction by generating appropriate
+    hedging language even for hallucinated content, producing outputs that sound appropriately
+    uncertain but are still factually incorrect; verbal uncertainty expressions should
+    be treated as unreliable proxies for actual model confidence and supplemented
+    with external verification mechanisms.

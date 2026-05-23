@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-07-retrieval-knowledge",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-07-retrieval-knowledge.md",
+    "notes": "Fifteen concepts covering retrieval-augmented generation and knowledge\nintegration. Spans dense retrieval, sparse retrieval (BM25), hybrid\nretrieval, query rewriting, iterative retrieval, Self-RAG, Corrective\nRAG, Adaptive RAG, late interaction retrieval, cross-encoder reranking,\nreciprocal rank fusion, chunking strategies, embedding model selection,\nretrieval faithfulness, and knowledge conflict handling. Batch 02 of the\nprompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-07-retrieval-knowledge",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-07-retrieval-knowledge"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Dense Retrieval for RAG",
+      "kebab": "dense-retrieval-for-rag",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/dense-retrieval-for-rag.yaml",
+      "expected_seed_filename": "dense-retrieval-for-rag-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Sparse Retrieval BM25",
+      "kebab": "sparse-retrieval-bm25",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/sparse-retrieval-bm25.yaml",
+      "expected_seed_filename": "sparse-retrieval-bm25-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Hybrid Retrieval Patterns",
+      "kebab": "hybrid-retrieval-patterns",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/hybrid-retrieval-patterns.yaml",
+      "expected_seed_filename": "hybrid-retrieval-patterns-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Query Rewriting for Retrieval",
+      "kebab": "query-rewriting-for-retrieval",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/query-rewriting-for-retrieval.yaml",
+      "expected_seed_filename": "query-rewriting-for-retrieval-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Iterative Retrieval Augmentation",
+      "kebab": "iterative-retrieval-augmentation",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/iterative-retrieval-augmentation.yaml",
+      "expected_seed_filename": "iterative-retrieval-augmentation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Self-RAG Selective Retrieval",
+      "kebab": "self-rag-selective-retrieval",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/self-rag-selective-retrieval.yaml",
+      "expected_seed_filename": "self-rag-selective-retrieval-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Corrective RAG Pipeline",
+      "kebab": "corrective-rag-pipeline",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/corrective-rag-pipeline.yaml",
+      "expected_seed_filename": "corrective-rag-pipeline-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Adaptive RAG Routing",
+      "kebab": "adaptive-rag-routing",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/adaptive-rag-routing.yaml",
+      "expected_seed_filename": "adaptive-rag-routing-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Late Interaction Retrieval",
+      "kebab": "late-interaction-retrieval",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/late-interaction-retrieval.yaml",
+      "expected_seed_filename": "late-interaction-retrieval-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Cross-Encoder Reranking",
+      "kebab": "cross-encoder-reranking",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/cross-encoder-reranking.yaml",
+      "expected_seed_filename": "cross-encoder-reranking-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Reciprocal Rank Fusion",
+      "kebab": "reciprocal-rank-fusion",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/reciprocal-rank-fusion.yaml",
+      "expected_seed_filename": "reciprocal-rank-fusion-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Chunking Strategies for RAG",
+      "kebab": "chunking-strategies-for-rag",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/chunking-strategies-for-rag.yaml",
+      "expected_seed_filename": "chunking-strategies-for-rag-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Embedding Model Selection",
+      "kebab": "embedding-model-selection",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/embedding-model-selection.yaml",
+      "expected_seed_filename": "embedding-model-selection-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Retrieval Faithfulness",
+      "kebab": "retrieval-faithfulness",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/retrieval-faithfulness.yaml",
+      "expected_seed_filename": "retrieval-faithfulness-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Knowledge Conflict in RAG",
+      "kebab": "knowledge-conflict-in-rag",
+      "brief_path": "briefs/b02-07-retrieval-knowledge/knowledge-conflict-in-rag.yaml",
+      "expected_seed_filename": "knowledge-conflict-in-rag-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

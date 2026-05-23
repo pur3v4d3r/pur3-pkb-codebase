@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-04-prompt-compression-efficiency",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-04-prompt-compression-efficiency.md",
+    "notes": "Fifteen concepts covering prompt compression, context management, and\nefficiency. Covers prompt distillation, pruning, token-efficient prompting,\ncompressive context management, prompt summarization, in-context compression,\nKV cache reuse, selective context, LLMLingua, context distillation training,\nabstractive context compression, prompt token budgeting, latency-aware\nprompt design, prompt batching, and streaming output management."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-04-prompt-compression-efficiency",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-04-prompt-compression-efficiency"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Prompt Distillation",
+      "kebab": "prompt-distillation",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/prompt-distillation.yaml",
+      "expected_seed_filename": "prompt-distillation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Pruning",
+      "kebab": "prompt-pruning",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/prompt-pruning.yaml",
+      "expected_seed_filename": "prompt-pruning-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Token-Efficient Prompting",
+      "kebab": "token-efficient-prompting",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/token-efficient-prompting.yaml",
+      "expected_seed_filename": "token-efficient-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Compressive Context Management",
+      "kebab": "compressive-context-management",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/compressive-context-management.yaml",
+      "expected_seed_filename": "compressive-context-management-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Summarization",
+      "kebab": "prompt-summarization",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/prompt-summarization.yaml",
+      "expected_seed_filename": "prompt-summarization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "In-Context Compression",
+      "kebab": "in-context-compression",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/in-context-compression.yaml",
+      "expected_seed_filename": "in-context-compression-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "KV Cache Reuse Strategies",
+      "kebab": "kv-cache-reuse-strategies",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/kv-cache-reuse-strategies.yaml",
+      "expected_seed_filename": "kv-cache-reuse-strategies-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Selective Context Technique",
+      "kebab": "selective-context-technique",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/selective-context-technique.yaml",
+      "expected_seed_filename": "selective-context-technique-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "LLMLingua Compression",
+      "kebab": "llmlingua-compression",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/llmlingua-compression.yaml",
+      "expected_seed_filename": "llmlingua-compression-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Context Distillation Training",
+      "kebab": "context-distillation-training",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/context-distillation-training.yaml",
+      "expected_seed_filename": "context-distillation-training-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Abstractive Context Compression",
+      "kebab": "abstractive-context-compression",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/abstractive-context-compression.yaml",
+      "expected_seed_filename": "abstractive-context-compression-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Token Budgeting",
+      "kebab": "prompt-token-budgeting",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/prompt-token-budgeting.yaml",
+      "expected_seed_filename": "prompt-token-budgeting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Latency-Aware Prompt Design",
+      "kebab": "latency-aware-prompt-design",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/latency-aware-prompt-design.yaml",
+      "expected_seed_filename": "latency-aware-prompt-design-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Batching Patterns",
+      "kebab": "prompt-batching-patterns",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/prompt-batching-patterns.yaml",
+      "expected_seed_filename": "prompt-batching-patterns-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Streaming Output Management",
+      "kebab": "streaming-output-management",
+      "brief_path": "briefs/b03-04-prompt-compression-efficiency/streaming-output-management.yaml",
+      "expected_seed_filename": "streaming-output-management-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,61 @@
+concept: Attention Visualization
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- explainability
+- transformers
+aliases:
+- attention map visualisation
+- transformer attention inspection
+- attention pattern analysis
+broader:
+- mechanistic-interpretability
+- feature-attribution-in-llms
+- transformer-architecture
+related:
+- feature-attribution-in-llms
+- saliency-mapping-for-prompts
+- probing-classifiers
+- linear-representation-hypothesis
+prerequisites:
+- transformer-architecture
+- attention-mechanism
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Attention Visualization
+  body: Attention Visualization refers to the analysis and visualisation of the attention
+    weight matrices produced by transformer model attention heads — examining which
+    tokens attend to which other tokens at each layer and head — to gain insight into
+    how the model routes and processes information during inference. Attention visualisation
+    tools (BertViz, TransformerLens, circuitsviz) render attention weight matrices
+    as heatmaps, allowing researchers to identify attention patterns (diagonal, horizontal,
+    block patterns), track how specific linguistic relationships are encoded in attention
+    (subject-verb agreement, coreference resolution, syntactic dependencies), and
+    observe how information from specific input positions influences later generation
+    decisions. Attention visualisation has been widely used as an interpretability
+    tool, though its limitations are increasingly well-documented.
+- type: key-claim
+  title: Key claim about Attention Visualization
+  body: Attention Visualization reveals structural properties of transformer information
+    routing that are not visible through input-output analysis alone — studies using
+    attention visualisation have identified functionally specialised attention heads
+    (induction heads that identify repeated patterns, previous token heads, duplicate
+    token heads) whose consistent structural roles across layers provide important
+    mechanistic evidence for the modular function hypothesis in transformer interpretability;
+    these head-level structural discoveries made through attention analysis motivated
+    subsequent causal tracing and circuit analysis research that confirmed and extended
+    these findings.
+- type: warning
+  title: Common pitfall regarding Attention Visualization
+  body: Attention Visualization does not reliably reflect causal importance of specific
+    tokens for specific outputs — multiple studies have demonstrated that high attention
+    weights do not consistently correlate with causal influence on model outputs (as
+    measured by attention knockout and activation patching), because attention implements
+    information routing rather than direct feature selection, and a token can influence
+    the output through indirect pathways involving low-weight attention connections
+    while a high-weight attended token may be a structural routing signal rather than
+    a semantically meaningful input; attention visualisation alone should not be used
+    to make definitive claims about which input tokens caused specific model outputs.

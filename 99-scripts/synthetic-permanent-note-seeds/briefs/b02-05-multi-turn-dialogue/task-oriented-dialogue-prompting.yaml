@@ -1,0 +1,58 @@
+concept: Task-Oriented Dialogue Prompting
+domain: dialogue-systems
+secondary_domains:
+- task-oriented-dialogue
+- conversational-ai
+- prompt-engineering
+aliases:
+- TOD prompting
+- goal-oriented dialogue prompting
+- task completion dialogue
+broader:
+- dialogue-systems
+- prompt-engineering
+narrower:
+- dialogue-state-tracking-prompts
+- slot-filling-via-dialogue
+related:
+- open-domain-dialogue-prompting
+- slot-filling-via-dialogue
+- dialogue-state-tracking-prompts
+prerequisites:
+- task-oriented-dialogue
+- dialogue-systems
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Task-Oriented Dialogue Prompting
+  body: Task-oriented dialogue prompting is the design of prompts and conversation
+    management strategies for LLM-based dialogue systems that are aimed at completing
+    specific user tasks — making reservations, answering customer service queries,
+    providing technical support, processing orders — rather than maintaining open-ended
+    conversation. Task-oriented dialogue systems must track progress toward task completion,
+    manage the dialogue's information state (what information has been provided and
+    what is still needed), interface with external APIs or databases to execute task
+    actions, and generate responses that are optimised for task completion efficiency
+    rather than conversational engagement. Effective task-oriented dialogue prompting
+    integrates dialogue state tracking, slot filling, action selection, and natural
+    language generation into a coherent prompt-driven pipeline.
+- type: key-claim
+  title: Key claim about Task-Oriented Dialogue Prompting
+  body: Task-oriented dialogue prompting achieves highest task completion rates when
+    the prompt separates the dialogue management logic (state tracking, slot filling,
+    action selection) from the natural language generation logic (response wording,
+    politeness, persona) — allowing each component to be optimised independently and
+    enabling the dialogue management logic to be formally verified for correctness
+    while the natural language generation component is optimised for user experience,
+    a separation that monolithic dialogue prompts cannot achieve.
+- type: warning
+  title: Common pitfall regarding Task-Oriented Dialogue Prompting
+  body: Task-oriented dialogue systems built on LLM prompting inherit the reliability
+    limitations of the underlying model — the model may inconsistently follow state
+    tracking instructions, generate confirmation phrases for actions it has not actually
+    performed, or produce slot values that do not match extracted database results;
+    production task-oriented dialogue systems must implement action verification layers
+    that check whether the model's claimed actions have actually been executed in
+    the backend systems rather than trusting the model's natural language statements
+    about its actions.

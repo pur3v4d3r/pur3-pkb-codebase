@@ -1,0 +1,53 @@
+concept: Evaluation Prompt Design
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- prompt-engineering
+- evaluation-methodology
+aliases:
+- evaluation prompt engineering
+- judge prompt design
+- LLM-as-judge prompt
+broader:
+- llm-evaluation
+- prompt-engineering
+related:
+- rubric-based-llm-evaluation
+- llm-evaluator-bias
+- g-eval-scoring-methodology
+prerequisites:
+- prompt-engineering
+- llm-evaluation
+- evaluation-methodology
+confidence: high
+callouts:
+- type: definition
+  title: Evaluation Prompt Design
+  body: 'Evaluation prompt design refers to the systematic design of prompts used
+    to instruct LLMs acting as evaluators (LLM-as-judge) in automatic quality assessment
+    tasks. The evaluation prompt must specify: the evaluation criteria and their definitions,
+    the rating scale and what each point means, the input, the response(s) to evaluate,
+    any reference outputs (if available), instructions for how to reason about the
+    evaluation before producing a rating, and the output format for the evaluation.
+    Well-designed evaluation prompts produce reliable, consistent ratings that correlate
+    with human judgments; poorly designed evaluation prompts produce evaluations dominated
+    by prompt-sensitivity artefacts rather than response quality.'
+- type: key-claim
+  title: Key claim about Evaluation Prompt Design
+  body: Evaluation prompt design has a larger impact on LLM evaluation reliability
+    than the choice of evaluator model — the same evaluator model with an optimised
+    evaluation prompt outperforms a stronger evaluator model with a poorly designed
+    evaluation prompt on the same evaluation task, demonstrating that evaluation quality
+    is primarily a function of prompt design quality rather than evaluator model capability,
+    and that investment in evaluation prompt engineering is more cost-effective than
+    upgrading the evaluator model.
+- type: warning
+  title: Common pitfall regarding Evaluation Prompt Design
+  body: Evaluation prompts are subject to many of the same sensitivity pathways as
+    task prompts — minor changes in phrasing, criterion ordering, scale labelling,
+    and instruction specificity substantially change evaluation outcomes without changing
+    the underlying quality being measured; evaluation prompts should be treated as
+    artefacts subject to validation through inter-evaluator agreement studies and
+    human correlation calibration, not as transparent windows onto response quality,
+    and changes to evaluation prompts mid-study invalidate comparisons across evaluation
+    conditions.

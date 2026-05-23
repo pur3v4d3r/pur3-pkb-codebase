@@ -1,0 +1,54 @@
+concept: Commonsense Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- natural-language-processing
+- cognitive-science
+- large-language-models
+aliases:
+- common sense in LLMs
+- commonsense knowledge reasoning
+- everyday reasoning in LLMs
+broader:
+- reasoning-in-llms
+- knowledge-representation
+narrower:
+- causal-reasoning-in-llms
+- temporal-reasoning-in-llms
+- spatial-reasoning-in-llms
+related:
+- world-model-in-language-models
+- analogical-transfer-in-llms
+- chain-of-thought-prompting
+prerequisites:
+- large-language-models
+- commonsense-knowledge-bases
+confidence: high
+callouts:
+- type: definition
+  title: Commonsense Reasoning in LLMs
+  body: Commonsense reasoning in LLMs is the capacity to draw inferences about everyday
+    physical, social, and causal situations that are so obvious to humans that they
+    are rarely stated explicitly in text. Tasks requiring commonsense include inferring
+    that a dropped object falls, that a person with a headache probably wants quiet,
+    or that using a knife to cut butter is plausible while using a knife to cut air
+    is not. LLMs acquire commonsense knowledge implicitly from large corpora that
+    implicitly encode such facts through typical event descriptions, narrative arcs,
+    and conversational exchanges, but the coverage is uneven because authors omit
+    information assumed to be universally known, creating systematic gaps in what
+    the model infers.
+- type: key-claim
+  title: Key claim about Commonsense Reasoning in LLMs
+  body: The primary bottleneck for commonsense reasoning in LLMs is not factual coverage
+    but implicit assumption elicitation — the model's commonsense knowledge is present
+    in its parameters but is often not activated unless the prompt explicitly calls
+    for commonsense inference, meaning that the same model will succeed on a task
+    framed as "apply common sense" and fail on a semantically equivalent task framed
+    as a factual question.
+- type: warning
+  title: Common pitfall regarding Commonsense Reasoning in LLMs
+  body: Benchmark saturation on commonsense datasets like HellaSwag and WinoGrande
+    does not imply general commonsense competence — models achieve high scores through
+    a combination of pattern matching on dataset-specific artefacts and statistical
+    regularities in narrative structure rather than genuine physical or social world
+    knowledge, as demonstrated by dramatic performance drops when surface-form cues
+    are controlled.

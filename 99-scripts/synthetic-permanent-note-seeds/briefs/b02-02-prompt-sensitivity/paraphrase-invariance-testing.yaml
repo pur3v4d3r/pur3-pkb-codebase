@@ -1,0 +1,54 @@
+concept: Paraphrase Invariance Testing
+domain: prompt-engineering
+secondary_domains:
+- evaluation
+- natural-language-processing
+- prompt-engineering
+aliases:
+- prompt paraphrase stability testing
+- paraphrase robustness evaluation
+- semantic robustness testing
+broader:
+- prompt-sensitivity
+- evaluation
+related:
+- semantic-equivalence-in-prompts
+- prompt-brittleness
+- adversarial-prompt-robustness
+prerequisites:
+- prompt-engineering
+- evaluation
+- paraphrase-generation
+confidence: high
+callouts:
+- type: definition
+  title: Paraphrase Invariance Testing
+  body: Paraphrase invariance testing is an evaluation methodology that assesses LLM
+    robustness by generating multiple semantically equivalent paraphrases of a prompt
+    or question and measuring the consistency of the model's outputs across these
+    variants. A model with high paraphrase invariance produces the same answer to
+    "What is the capital of France?" regardless of whether the question is phrased
+    as "Name the capital city of France," "Which city serves as the capital of France?,"
+    or "France's capital is?" A model with low paraphrase invariance will change its
+    answer for some paraphrases, indicating that its responses are driven by surface-form
+    associations rather than robust semantic understanding. Paraphrase invariance
+    testing is used to diagnose prompt brittleness, estimate the reliability of benchmark
+    results, and identify which task types are most sensitive to phrasing.
+- type: key-claim
+  title: Key claim about Paraphrase Invariance Testing
+  body: Paraphrase invariance testing consistently reveals that the standard deviation
+    of LLM performance across paraphrase variants is large enough to reverse accuracy
+    rankings between models — a model that outperforms a competitor on a single canonical
+    prompt phrasing may underperform the competitor when both are evaluated across
+    the full paraphrase distribution, indicating that single-prompt benchmark comparisons
+    are methodologically insufficient for drawing reliable conclusions about relative
+    model capability.
+- type: warning
+  title: Common pitfall regarding Paraphrase Invariance Testing
+  body: Automated paraphrase generation using LLMs or NLP paraphrasers does not guarantee
+    semantic equivalence — automated paraphrases can subtly change the scope of questions,
+    alter quantifier strength, shift pragmatic implicatures, or introduce new domain
+    assumptions, making the resulting "paraphrase invariance" test a test of sensitivity
+    to these subtle changes rather than a clean sensitivity test; human validation
+    of the equivalence of a paraphrase set is essential before using automated paraphrase
+    invariance results to draw diagnostic conclusions.

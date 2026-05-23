@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-05-multi-turn-dialogue",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-05-multi-turn-dialogue.md",
+    "notes": "Fifteen concepts covering multi-turn conversation management with LLMs.\nSpans conversation management, dialogue state tracking, context\ncompression, turn-taking, persona consistency, memory injection, grounding,\nconversational repair, clarification requests, follow-up question\ngeneration, dialogue act classification, conversation summarisation,\nslot filling, task-oriented dialogue, and open-domain dialogue. Batch 02\nof the prompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-05-multi-turn-dialogue",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-05-multi-turn-dialogue"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Multi-Turn Conversation Management",
+      "kebab": "multi-turn-conversation-management",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/multi-turn-conversation-management.yaml",
+      "expected_seed_filename": "multi-turn-conversation-management-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Dialogue State Tracking Prompts",
+      "kebab": "dialogue-state-tracking-prompts",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/dialogue-state-tracking-prompts.yaml",
+      "expected_seed_filename": "dialogue-state-tracking-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Conversational Context Compression",
+      "kebab": "conversational-context-compression",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/conversational-context-compression.yaml",
+      "expected_seed_filename": "conversational-context-compression-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Turn-Taking in LLM Dialogue",
+      "kebab": "turn-taking-in-llm-dialogue",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/turn-taking-in-llm-dialogue.yaml",
+      "expected_seed_filename": "turn-taking-in-llm-dialogue-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Persona Consistency Across Turns",
+      "kebab": "persona-consistency-across-turns",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/persona-consistency-across-turns.yaml",
+      "expected_seed_filename": "persona-consistency-across-turns-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Memory Injection in Dialogue",
+      "kebab": "memory-injection-in-dialogue",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/memory-injection-in-dialogue.yaml",
+      "expected_seed_filename": "memory-injection-in-dialogue-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Dialogue Grounding Prompts",
+      "kebab": "dialogue-grounding-prompts",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/dialogue-grounding-prompts.yaml",
+      "expected_seed_filename": "dialogue-grounding-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Conversational Repair Prompting",
+      "kebab": "conversational-repair-prompting",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/conversational-repair-prompting.yaml",
+      "expected_seed_filename": "conversational-repair-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Clarification Request Generation",
+      "kebab": "clarification-request-generation",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/clarification-request-generation.yaml",
+      "expected_seed_filename": "clarification-request-generation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Follow-Up Question Generation",
+      "kebab": "follow-up-question-generation",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/follow-up-question-generation.yaml",
+      "expected_seed_filename": "follow-up-question-generation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Dialogue Act Classification Prompting",
+      "kebab": "dialogue-act-classification-prompting",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/dialogue-act-classification-prompting.yaml",
+      "expected_seed_filename": "dialogue-act-classification-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Conversation Summarization Prompts",
+      "kebab": "conversation-summarization-prompts",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/conversation-summarization-prompts.yaml",
+      "expected_seed_filename": "conversation-summarization-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Slot Filling via Dialogue",
+      "kebab": "slot-filling-via-dialogue",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/slot-filling-via-dialogue.yaml",
+      "expected_seed_filename": "slot-filling-via-dialogue-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Task-Oriented Dialogue Prompting",
+      "kebab": "task-oriented-dialogue-prompting",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/task-oriented-dialogue-prompting.yaml",
+      "expected_seed_filename": "task-oriented-dialogue-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Open-Domain Dialogue Prompting",
+      "kebab": "open-domain-dialogue-prompting",
+      "brief_path": "briefs/b02-05-multi-turn-dialogue/open-domain-dialogue-prompting.yaml",
+      "expected_seed_filename": "open-domain-dialogue-prompting-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

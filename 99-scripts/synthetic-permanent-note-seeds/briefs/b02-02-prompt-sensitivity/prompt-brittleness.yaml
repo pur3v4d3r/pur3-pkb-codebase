@@ -1,0 +1,53 @@
+concept: Prompt Brittleness
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- robustness
+- large-language-models
+aliases:
+- prompt fragility
+- sensitivity to prompt perturbation
+- non-robust prompting
+broader:
+- prompt-sensitivity
+- prompt-engineering
+narrower:
+- adversarial-prompt-robustness
+related:
+- format-sensitivity-in-prompting
+- label-sensitivity-in-prompting
+- semantic-equivalence-in-prompts
+- paraphrase-invariance-testing
+prerequisites:
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Brittleness
+  body: 'Prompt brittleness refers to the property of a prompt in which small, semantically
+    innocuous changes — minor rewordings, punctuation changes, example substitutions,
+    or ordering permutations — cause large drops in task performance. A brittle prompt
+    is one that achieves strong performance because it happens to match specific surface
+    patterns in the model''s training data or instruction-tuning template, rather
+    than because it effectively communicates the task semantics. Prompt brittleness
+    is the opposite of semantic robustness: a semantically robust prompt should produce
+    consistent outputs across a broad equivalence class of paraphrases and format
+    variants, whereas a brittle prompt produces consistent outputs only for a narrow
+    neighbourhood around the specific text used during development.'
+- type: key-claim
+  title: Key claim about Prompt Brittleness
+  body: Prompt brittleness is the central validity threat in reported LLM performance
+    benchmarks — when researchers develop a prompt through a manual search process
+    and report performance for that specific prompt, they are reporting the maximum
+    of a noisy performance distribution over the prompt equivalence class, not the
+    model's true capability on the task, producing systematic overestimation of performance
+    that compounds with the number of iterations of prompt refinement.
+- type: warning
+  title: Common pitfall regarding Prompt Brittleness
+  body: Prompt brittleness cannot be detected from a single evaluation run; it requires
+    testing the prompt across multiple semantically equivalent variants to estimate
+    the width of the performance distribution, and a production prompt that has been
+    manually refined to high performance on a held-out development set may have been
+    over-fit to that development set's surface features, with brittleness only becoming
+    apparent when the prompt encounters slightly different user phrasings in deployment.

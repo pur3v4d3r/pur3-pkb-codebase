@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
@@ -71,8 +71,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Motivational Conditions Interplay**
+> *Follow the arrows to see how conditions support each other.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation] --> B[Social Connections]
+>   B --> C[Career Relevance]
+>   C --> D[Extrinsic Rewards]
+>   D --> E[Affiliation]
+>   E --> F[Competence]
+>   F --> G[Autonomy]
+>   G --> H[Recognition]
+>   H --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
+> *Trace the loop to understand how conditions reinforce each other.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> IntrinsicMotivation : Initial Motivation
+>   IntrinsicMotivation --> SocialConnections : Weakens
+>   SocialConnections --> CareerRelevance : Supports
+>   CareerRelevance --> ExtrinsicRewards : Fades
+>   ExtrinsicRewards --> Affiliation : Boosts
+>   Affiliation --> Competence : Declines
+>   Competence --> Autonomy : Enhances
+>   Autonomy --> Recognition : Wanes
+>   Recognition --> IntrinsicMotivation : Reinvigorates
+> ```
+
+
+> [!abstract] **Diagram 3 — Curriculum Integration Example**
+> *See how different elements are integrated in a curriculum.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Curriculum as C
+>   participant SocialInteraction as SI
+>   participant CollaborativeProjects as CP
+>   participant IntrinsicInterest as II
+>   L->>C: Enrolls in Course
+>   C->>SI: Integrates Social Interaction
+>   SI-->>L: Builds Community
+>   C->>CP: Adds Collaborative Projects
+>   CP-->>II: Enhances Interest
+>   II-->>L: Maintains Engagement
+> ```
 
 # Motivational Ecology Thesis
 

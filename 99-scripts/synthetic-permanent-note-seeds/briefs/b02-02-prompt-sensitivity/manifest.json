@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-02-prompt-sensitivity",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-02-prompt-sensitivity.md",
+    "notes": "Fifteen concepts covering how LLM outputs vary with surface-level and\nsemantic prompt variations. Spans label sensitivity, format sensitivity,\nfew-shot order effects, surface-form competition, prompt brittleness,\nadversarial robustness, distribution shift, semantic equivalence,\nparaphrase invariance, cross-lingual transfer, calibration, verbalized\nuncertainty, hedging, overconfidence, and underspecification. Batch 02\nof the prompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-02-prompt-sensitivity",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-02-prompt-sensitivity"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Label Sensitivity in Prompting",
+      "kebab": "label-sensitivity-in-prompting",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/label-sensitivity-in-prompting.yaml",
+      "expected_seed_filename": "label-sensitivity-in-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Format Sensitivity in Prompting",
+      "kebab": "format-sensitivity-in-prompting",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/format-sensitivity-in-prompting.yaml",
+      "expected_seed_filename": "format-sensitivity-in-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Order Sensitivity in Few-Shot",
+      "kebab": "order-sensitivity-in-few-shot",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/order-sensitivity-in-few-shot.yaml",
+      "expected_seed_filename": "order-sensitivity-in-few-shot-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Surface Form Competition",
+      "kebab": "surface-form-competition",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/surface-form-competition.yaml",
+      "expected_seed_filename": "surface-form-competition-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Brittleness",
+      "kebab": "prompt-brittleness",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/prompt-brittleness.yaml",
+      "expected_seed_filename": "prompt-brittleness-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Adversarial Prompt Robustness",
+      "kebab": "adversarial-prompt-robustness",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/adversarial-prompt-robustness.yaml",
+      "expected_seed_filename": "adversarial-prompt-robustness-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Distribution Shift in Prompting",
+      "kebab": "distribution-shift-in-prompting",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/distribution-shift-in-prompting.yaml",
+      "expected_seed_filename": "distribution-shift-in-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Semantic Equivalence in Prompts",
+      "kebab": "semantic-equivalence-in-prompts",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/semantic-equivalence-in-prompts.yaml",
+      "expected_seed_filename": "semantic-equivalence-in-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Paraphrase Invariance Testing",
+      "kebab": "paraphrase-invariance-testing",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/paraphrase-invariance-testing.yaml",
+      "expected_seed_filename": "paraphrase-invariance-testing-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Cross-Lingual Prompt Transfer",
+      "kebab": "cross-lingual-prompt-transfer",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/cross-lingual-prompt-transfer.yaml",
+      "expected_seed_filename": "cross-lingual-prompt-transfer-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prompt Calibration Techniques",
+      "kebab": "prompt-calibration-techniques",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/prompt-calibration-techniques.yaml",
+      "expected_seed_filename": "prompt-calibration-techniques-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Verbalized Uncertainty",
+      "kebab": "verbalized-uncertainty",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/verbalized-uncertainty.yaml",
+      "expected_seed_filename": "verbalized-uncertainty-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Hedge Phrases in Prompts",
+      "kebab": "hedge-phrases-in-prompts",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/hedge-phrases-in-prompts.yaml",
+      "expected_seed_filename": "hedge-phrases-in-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Overconfidence in LLM Outputs",
+      "kebab": "overconfidence-in-llm-outputs",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/overconfidence-in-llm-outputs.yaml",
+      "expected_seed_filename": "overconfidence-in-llm-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Underspecification in Prompts",
+      "kebab": "underspecification-in-prompts",
+      "brief_path": "briefs/b02-02-prompt-sensitivity/underspecification-in-prompts.yaml",
+      "expected_seed_filename": "underspecification-in-prompts-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

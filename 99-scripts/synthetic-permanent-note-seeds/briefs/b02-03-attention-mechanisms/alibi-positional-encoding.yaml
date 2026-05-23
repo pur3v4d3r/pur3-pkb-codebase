@@ -1,0 +1,53 @@
+concept: ALiBi Positional Encoding
+domain: transformer-architecture
+secondary_domains:
+- transformer-architecture
+- large-language-models
+- context-length
+aliases:
+- Attention with Linear Biases
+- ALiBi
+- linear bias positional encoding
+broader:
+- positional-encoding-variants
+- transformer-architecture
+related:
+- rotary-position-embedding
+- positional-encoding-variants
+- sliding-window-attention
+prerequisites:
+- transformer-architecture
+- positional-encoding-variants
+confidence: high
+callouts:
+- type: definition
+  title: ALiBi Positional Encoding
+  body: ALiBi (Attention with Linear Biases) is a positional encoding approach that
+    adds a fixed, non-learned linear bias to each attention score based on the distance
+    between query and key positions, with the bias proportional to the negative of
+    the distance (closer tokens receive less penalty, farther tokens receive more
+    penalty). Unlike RoPE, ALiBi does not modify the query or key vectors and adds
+    no parameters to the model — the positional information is injected entirely through
+    post-softmax attention score modification. The key practical advantage of ALiBi
+    is that models trained with it generalise substantially better to sequence lengths
+    longer than the training length than models using learned absolute or RoPE encodings,
+    enabling a form of length extrapolation without fine-tuning.
+- type: key-claim
+  title: Key claim about ALiBi Positional Encoding
+  body: ALiBi's length extrapolation advantage comes from the universality of the
+    linear bias formulation — at any sequence length, the bias applied to a given
+    query-key distance is the same as it was during training, avoiding the out-of-distribution
+    positional encoding problem that causes RoPE and absolute encoding methods to
+    deteriorate at lengths beyond the training maximum; empirical evaluations consistently
+    show that ALiBi models retain higher perplexity quality at 2x–5x training length
+    than RoPE models without any modification, though at the cost of somewhat lower
+    in-distribution performance.
+- type: warning
+  title: Common pitfall regarding ALiBi Positional Encoding
+  body: ALiBi's linear distance penalty imposes a specific prior on attention patterns
+    — that recency is always beneficial and distance is always a penalty — which may
+    not be appropriate for all tasks; tasks requiring long-range dependency resolution
+    (legal document analysis, code completion over long files) are disadvantaged by
+    the strong linear bias against attending to distant tokens, and ALiBi's good perplexity
+    extrapolation on language modelling does not guarantee good performance on downstream
+    tasks requiring long-range integration at lengths beyond training.

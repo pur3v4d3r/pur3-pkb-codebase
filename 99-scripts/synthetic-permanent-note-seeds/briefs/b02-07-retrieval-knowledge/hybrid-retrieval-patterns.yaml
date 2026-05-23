@@ -1,0 +1,56 @@
+concept: Hybrid Retrieval Patterns
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- retrieval-augmented-generation
+- search-systems
+aliases:
+- hybrid search
+- combined retrieval
+- sparse-dense retrieval fusion
+broader:
+- retrieval-augmented-generation
+- information-retrieval
+related:
+- dense-retrieval-for-rag
+- sparse-retrieval-bm25
+- reciprocal-rank-fusion
+- cross-encoder-reranking
+prerequisites:
+- dense-retrieval-for-rag
+- sparse-retrieval-bm25
+- information-retrieval
+confidence: high
+callouts:
+- type: definition
+  title: Hybrid Retrieval Patterns
+  body: 'Hybrid retrieval patterns in RAG systems combine dense (semantic embedding-based)
+    and sparse (lexical term-matching) retrieval to leverage the complementary strengths
+    of each approach. The core pattern involves retrieving candidate documents independently
+    using both dense and sparse retrieval systems, then fusing the retrieved sets
+    using a score combination or rank fusion method (such as Reciprocal Rank Fusion
+    or weighted score combination) to produce a final ranked set of documents for
+    the generator. Hybrid retrieval addresses the well-documented failure modes of
+    each component in isolation: dense retrieval''s weakness on exact-match queries
+    and sparse retrieval''s weakness on semantically similar but lexically different
+    queries.'
+- type: key-claim
+  title: Key claim about Hybrid Retrieval Patterns
+  body: Hybrid retrieval consistently outperforms either dense or sparse retrieval
+    alone on diverse query sets, with the largest gains occurring on queries that
+    require both semantic understanding and exact lexical matching — the complementarity
+    between dense and sparse retrieval is not a niche advantage but a fundamental
+    property of real-world query distributions, which contain both semantically-expressed
+    and term-specific information needs; the performance improvement from hybridisation
+    typically ranges from 5–15% recall@10, large enough to meaningfully impact RAG
+    answer quality.
+- type: warning
+  title: Common pitfall regarding Hybrid Retrieval Patterns
+  body: Hybrid retrieval introduces additional complexity in index management, query
+    latency, and system maintenance — maintaining two separate retrieval indices (vector
+    index and inverted index), computing two sets of retrieval results per query,
+    and applying score fusion adds operational overhead that may be prohibitive in
+    latency-sensitive or resource-constrained deployments; the decision to implement
+    hybrid retrieval should be based on measured retrieval quality improvement on
+    the specific target query distribution, not on the assumption that hybrid always
+    outperforms single-modality retrieval for the deployment context.

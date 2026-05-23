@@ -1,0 +1,53 @@
+concept: Turn-Taking in LLM Dialogue
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- pragmatics
+- human-computer-interaction
+aliases:
+- dialogue turn management
+- LLM turn allocation
+- conversational initiative in LLMs
+broader:
+- multi-turn-conversation-management
+- dialogue-systems
+related:
+- clarification-request-generation
+- follow-up-question-generation
+- conversational-repair-prompting
+prerequisites:
+- dialogue-systems
+- conversational-ai
+- pragmatics
+confidence: high
+callouts:
+- type: definition
+  title: Turn-Taking in LLM Dialogue
+  body: Turn-taking in LLM dialogue refers to the management of conversational initiative
+    — which party speaks when, how the model recognises that the user has completed
+    their turn, how the model signals its own turn completion, and how mixed-initiative
+    dialogues (where both user and model can take the conversational lead) are structured.
+    In text-based LLM deployments, turn boundaries are structurally explicit (message
+    submission), but the model must manage initiative in terms of when to ask clarifying
+    questions, when to provide complete responses versus partial responses that invite
+    continuation, and when to interpret incomplete user input as a complete turn versus
+    a preliminary statement requiring elaboration.
+- type: key-claim
+  title: Key claim about Turn-Taking in LLM Dialogue
+  body: Turn-taking management in LLM dialogue has disproportionate effects on user
+    satisfaction in task-oriented contexts — models that fail to ask clarifying questions
+    when input is underspecified produce incorrect complete responses that users must
+    entirely rephrase, while models that ask too many clarifying questions create
+    interaction overhead that frustrates users with clear intent; the optimal turn-taking
+    strategy is context-adaptive, asking for clarification on high-stakes ambiguities
+    while proceeding with stated assumptions on low-stakes ambiguities.
+- type: warning
+  title: Common pitfall regarding Turn-Taking in LLM Dialogue
+  body: Instruction-tuned models are biased toward completing apparent user requests
+    rather than requesting clarification, because RLHF training on human preferences
+    rewards responsiveness and penalises clarification requests as signs of incompetence;
+    this bias causes models to generate confident complete responses for underspecified
+    inputs that require clarification, producing confidently incorrect outputs instead
+    of appropriate clarification requests — production dialogue systems that handle
+    high-stakes tasks should use explicit clarification-request prompting to counteract
+    this RLHF-induced bias.

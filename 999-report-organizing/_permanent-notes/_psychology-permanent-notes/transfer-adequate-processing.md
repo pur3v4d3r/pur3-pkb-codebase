@@ -17,7 +17,7 @@ subdomains:
   - instructional-design
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - transfer-adequate-processing-synthetic-seed-2026-05-01
@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Study-Test Process Alignment**
+> *Follow the flow from study to test, noting process alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning]
+>   B[Test]
+>   A -->|Matched Cognitive Operations| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Integration Process**
+> *Trace the feedback loop from study to test, emphasizing aligned processing.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Instructor as I
+>   L->>I: Engage in Study Task
+>   I-->>L: Provide Feedback
+>   L->>I: Apply Feedback During Test
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Flowchart**
+> *Follow the instructional design process from assessment to study task.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assessment]
+>   B[Define Study Tasks]
+>   C[Test]
+>   A -->|Determine Required Cognitive Operations| B
+>   B -->|Implement Study Tasks| C
+> ```
 
 # Transfer Adequate Processing
 

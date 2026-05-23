@@ -1,0 +1,61 @@
+concept: Data Mixture Effects on Capability
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- training-dynamics
+- machine-learning
+- data-science
+aliases:
+- pretraining data mixture
+- training corpus composition effects
+- data blending for LLMs
+broader:
+- training-dynamics-and-data-pipelines
+- pretraining-data-influence
+- large-language-models
+related:
+- pretraining-data-influence
+- curriculum-learning-for-llms
+- domain-adaptive-pretraining
+- deduplication-effects-on-training
+prerequisites:
+- machine-learning
+- large-language-models
+- training-dynamics
+- data-science
+confidence: high
+callouts:
+- type: definition
+  title: Data Mixture Effects on Capability
+  body: Data Mixture Effects on Capability refer to the changes in LLM capabilities
+    and performance profiles caused by varying the relative proportions of different
+    data sources or domains in the pretraining corpus — finding that models trained
+    on different mixtures of web text, code, mathematical text, books, scientific
+    papers, and other sources develop different capability profiles even at equivalent
+    total training token counts. Data mixture research uses controlled pretraining
+    experiments, data source ablations, and mixing ratio hyperparameter search to
+    characterise how specific capability areas (coding, reasoning, factual recall,
+    language understanding, creative writing) respond to varying the proportion of
+    relevant data sources, enabling intentional capability shaping through data mixture
+    design.
+- type: key-claim
+  title: Key claim about Data Mixture Effects on Capability
+  body: Data Mixture Effects on Capability exhibit cross-domain transfer — code data
+    improves logical reasoning capabilities even on non-coding tasks, mathematical
+    text improves structured reasoning, and multilingual data improves cross-lingual
+    generalisation beyond the specific languages included; these cross-domain capability
+    transfers indicate that certain data types develop general reasoning or structural
+    capabilities that transfer across domains, making data mixture optimisation a
+    more complex and potentially more powerful lever than optimising only direct-domain
+    data proportions for each target capability.
+- type: warning
+  title: Common pitfall regarding Data Mixture Effects on Capability
+  body: Data Mixture Effects on Capability are non-monotonic and difficult to predict
+    without empirical testing — increasing the proportion of a capability-relevant
+    data source does not always improve performance on the corresponding capability
+    (due to data quality variation, domain mismatch within the source category, and
+    interaction effects with other data sources), and small changes in mixture proportions
+    can have disproportionate effects on specific capabilities; data mixture optimisation
+    requires systematic empirical evaluation across a broad range of capabilities
+    rather than intuitive proportion adjustments, and optimal mixtures identified
+    on smaller-scale experiments may not generalise to larger models.

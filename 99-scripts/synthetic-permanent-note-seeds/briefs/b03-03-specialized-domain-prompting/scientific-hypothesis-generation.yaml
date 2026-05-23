@@ -1,0 +1,60 @@
+concept: Scientific Hypothesis Generation
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- scientific-methodology
+- research-design
+- prompt-engineering
+aliases:
+- research hypothesis generation
+- scientific abduction prompting
+- scientific ideation prompts
+broader:
+- specialized-domain-prompting
+- scientific-ai
+- prompt-engineering
+related:
+- domain-adaptive-pretraining
+- claim-strength-calibration
+- counterfactual-data-augmentation
+- chain-of-thought-prompting
+prerequisites:
+- scientific-methodology
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Scientific Hypothesis Generation
+  body: 'Scientific Hypothesis Generation via LLMs refers to the use of large language
+    models to propose testable scientific hypotheses — identifying gaps in existing
+    literature, generating mechanistic explanations for observed phenomena, proposing
+    experimental designs, and synthesising findings across related domains to suggest
+    novel research directions. LLMs bring complementary strengths to hypothesis generation:
+    broad cross-domain knowledge that enables unexpected cross-disciplinary connections,
+    rapid synthesis of large literature bodies, and systematic enumeration of hypothesis
+    spaces. Effective scientific hypothesis generation prompting provides the LLM
+    with background on the target domain, known mechanisms, unresolved questions,
+    and constraints on feasible hypotheses, then elicits structured hypotheses with
+    testability criteria and differentiation from existing explanations.'
+- type: key-claim
+  title: Key claim about Scientific Hypothesis Generation
+  body: Scientific Hypothesis Generation prompting is most valuable for cross-domain
+    hypothesis transfer — LLMs are more effective than domain experts at generating
+    hypotheses that apply mechanisms from one domain to problems in an adjacent domain
+    (e.g., applying computational network theory to neuroscience) because the model's
+    breadth of training allows cross-domain analogical reasoning that is cognitively
+    difficult for specialists with deep but narrow expertise; domain experts using
+    LLMs for hypothesis generation should therefore specifically prompt for cross-domain
+    mechanism transfer rather than within-domain hypothesis extension, where the LLM's
+    advantage over expert intuition is smaller.
+- type: warning
+  title: Common pitfall regarding Scientific Hypothesis Generation
+  body: Scientific Hypothesis Generation by LLMs produces highly plausible-sounding
+    hypotheses that may already be documented in the literature, may be theoretically
+    motivated but empirically refuted, or may be inconsistent with established constraints
+    in the domain — LLMs cannot reliably distinguish novel from already-tested hypotheses
+    because their training data does not include comprehensive negative results and
+    because false negative results are under-represented in published literature;
+    every LLM-generated scientific hypothesis must be systematically checked against
+    existing literature before investing experimental resources.

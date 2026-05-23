@@ -1,0 +1,54 @@
+concept: Reciprocal Rank Fusion
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- rank-aggregation
+- retrieval-augmented-generation
+aliases:
+- RRF
+- rank fusion
+- hybrid search fusion
+broader:
+- hybrid-retrieval-patterns
+- information-retrieval
+related:
+- hybrid-retrieval-patterns
+- dense-retrieval-for-rag
+- sparse-retrieval-bm25
+- cross-encoder-reranking
+prerequisites:
+- information-retrieval
+- rank-aggregation
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Reciprocal Rank Fusion
+  body: 'Reciprocal Rank Fusion (RRF) is a rank aggregation algorithm that combines
+    document rankings from multiple retrieval systems (e.g., dense and sparse retrieval)
+    into a unified ranking by computing a reciprocal rank score for each document
+    in each ranking and summing those scores. The RRF score for a document d combining
+    rankings from k systems is: RRF(d) = Σ 1/(rank_i(d) + c), where rank_i(d) is document
+    d''s rank in system i and c is a constant (typically 60) that prevents very highly-ranked
+    documents from dominating the fusion. RRF is parameter-free, robust to score scale
+    differences between retrieval systems, and empirically outperforms weighted score
+    combination approaches that require calibration.'
+- type: key-claim
+  title: Key claim about Reciprocal Rank Fusion
+  body: RRF's robustness advantage over weighted score combination fusion makes it
+    the preferred fusion method for hybrid RAG retrieval in production systems — weighted
+    combination requires per-deployment tuning of combination weights that may change
+    as the query distribution evolves, while RRF's parameter-free design (with the
+    single constant c = 60 working well across diverse task distributions) eliminates
+    the tuning overhead while achieving equivalent or superior fusion quality on most
+    real-world query distributions.
+- type: warning
+  title: Common pitfall regarding Reciprocal Rank Fusion
+  body: RRF assumes that the two retrieval systems being fused produce independently
+    valid rankings, which is violated when both systems are based on the same embedding
+    model or trained on the same data — fusing the results of two dense retrievers
+    using the same base embedding model with RRF produces marginal or no improvement
+    over either system alone because the rankings are correlated; effective RRF fusion
+    requires genuinely diverse retrieval signals (dense and sparse, or different embedding
+    model families) where the retrieval failures of one system are likely to be successes
+    of the other.

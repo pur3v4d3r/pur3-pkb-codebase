@@ -1,0 +1,63 @@
+concept: Loss Aversion Analog in Preference Learning
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- rlhf
+- preference-learning
+- behavioral-economics
+aliases:
+- loss-aversion in RLHF
+- asymmetric penalty sensitivity in preference learning
+- negative-outcome overweighting in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- loss-aversion
+- preference-learning
+related:
+- bandwagon-effect-in-rlhf
+- rlaif-rl-from-ai-feedback
+- iterative-preference-learning
+- social-desirability-bias-in-llms
+prerequisites:
+- loss-aversion
+- prospect-theory
+- rlhf
+- preference-learning
+confidence: high
+callouts:
+- type: definition
+  title: Loss Aversion Analog in Preference Learning
+  body: The Loss Aversion Analog in Preference Learning refers to the systematic bias
+    introduced into LLM training when human raters applying preferences exhibit loss-aversion
+    — weighting potential negative outcomes of a response (offensiveness, factual
+    error, harmful content) more heavily than equivalent potential positive outcomes
+    (helpfulness, creativity, accuracy) when comparing response pairs. In human preference
+    judgments, prospect theory predicts that losses are weighted approximately twice
+    as heavily as equivalent gains, meaning RLHF raters who experience a response
+    as potentially harmful will penalise it disproportionately relative to how much
+    they reward a response perceived as maximally helpful. The resulting reward model
+    inherits this asymmetric loss sensitivity, producing aligned LLMs that exhibit
+    excessive risk aversion — refusing or heavily hedging responses even in low-stakes
+    contexts to avoid the high penalty associated with perceived harm.
+- type: key-claim
+  title: Key claim about Loss Aversion Analog in Preference Learning
+  body: The Loss Aversion Analog in Preference Learning explains the systematic over-refusal
+    and excessive hedging behaviour observed in RLHF-aligned LLMs — the reward model
+    trained from loss-averse human preferences assigns disproportionately high penalties
+    to borderline content, training the LLM to weight harm avoidance much more heavily
+    than helpfulness maximisation, resulting in models that refuse a substantial proportion
+    of legitimate requests that any unbiased evaluator would deem harmless; empirical
+    studies of over-refusal rates consistently find that RLHF-aligned models exhibit
+    false-positive harm detection rates that cannot be explained by calibrated risk
+    assessment alone.
+- type: warning
+  title: Common pitfall regarding Loss Aversion Analog in Preference Learning
+  body: The Loss Aversion Analog in Preference Learning cannot be corrected simply
+    by adjusting the refusal threshold at inference time — the loss-aversion bias
+    is embedded in the reward model's learned utility function, and post-hoc threshold
+    adjustment produces systematic over-correction in other domains while underperforming
+    on the original target; correct mitigation requires either reward model recalibration
+    with loss-aversion-corrected preference labels or Constitutional AI-style explicit
+    rule specification that replaces the loss-aversion-distorted implicit reward with
+    explicitly specified harm-benefit tradeoffs.

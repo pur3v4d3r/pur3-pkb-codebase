@@ -1,0 +1,61 @@
+concept: Primacy and Recency Effects in Context
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- context-window-management
+- prompt-engineering
+aliases:
+- serial position effects in LLMs
+- lost-in-the-middle phenomenon
+- context primacy bias
+- long-context position bias
+broader:
+- cognitive-bias-in-llm-outputs
+- serial-position-effect
+- large-language-models
+related:
+- order-sensitivity-in-few-shot
+- anchoring-bias-in-llm-reasoning
+- context-window-management
+- attention-sinks
+prerequisites:
+- serial-position-effect
+- large-language-models
+- context-window
+confidence: high
+callouts:
+- type: definition
+  title: Primacy and Recency Effects in Context
+  body: Primacy and Recency Effects in Context refers to the empirically documented
+    tendency of large language models to assign disproportionate weight to information
+    presented at the beginning (primacy) and end (recency) of the context window relative
+    to information presented in the middle, producing systematic biases in how LLMs
+    integrate information from long contexts. The middle of the context window is
+    systematically under-weighted — a phenomenon documented as the "lost-in-the-middle"
+    effect — causing LLMs to fail to retrieve and integrate factual information that
+    is clearly present in the context but located in the middle of a long document.
+    These effects parallel the human serial position effect in memory but have distinct
+    architectural causes rooted in attention patterns, positional encoding properties,
+    and training data distribution.
+- type: key-claim
+  title: Key claim about Primacy and Recency Effects in Context
+  body: Primacy and Recency Effects in Context produce systematic retrieval failures
+    for information placed in the middle of long contexts — controlled experiments
+    demonstrate that LLMs answer questions correctly approximately 70–80% of the time
+    when the relevant passage is at the beginning or end of a multi-document context,
+    but only approximately 40–60% of the time when the relevant passage is in the
+    middle, a degradation large enough to substantially impair RAG systems that naively
+    concatenate retrieved passages without considering position-of-relevance; optimal
+    document placement in long contexts should place the most important information
+    at the beginning or end to maximise utilisation.
+- type: warning
+  title: Common pitfall regarding Primacy and Recency Effects in Context
+  body: Primacy and Recency Effects in Context are not uniform across LLM architectures
+    — models with rotary position embeddings (RoPE), ALiBi, and other learned positional
+    encodings exhibit different position sensitivity profiles than models with absolute
+    or sinusoidal position encodings, and the specific context length where degradation
+    begins varies substantially across architectures and training configurations;
+    benchmarks of long-context performance should explicitly probe middle-of-context
+    retrieval rather than average-context retrieval to avoid masking the most practically
+    significant performance degradation.

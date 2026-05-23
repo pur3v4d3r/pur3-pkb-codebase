@@ -1,0 +1,55 @@
+concept: Open-Domain Dialogue Prompting
+domain: dialogue-systems
+secondary_domains:
+- open-domain-dialogue
+- conversational-ai
+- prompt-engineering
+aliases:
+- chit-chat prompting
+- social dialogue prompting
+- general conversation prompting
+broader:
+- dialogue-systems
+- prompt-engineering
+related:
+- task-oriented-dialogue-prompting
+- persona-consistency-across-turns
+- multi-turn-conversation-management
+prerequisites:
+- dialogue-systems
+- open-domain-dialogue
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Open-Domain Dialogue Prompting
+  body: Open-domain dialogue prompting is the design of prompts and conversation management
+    strategies for LLM-based systems engaged in general conversational interaction
+    without a specific task goal — social chat, opinion discussion, storytelling,
+    emotional support, knowledge exchange, and entertainment. Open-domain dialogue
+    does not have a fixed success criterion (unlike task completion), making its quality
+    measured by engagement, naturalness, coherence, persona consistency, and user
+    satisfaction. Open-domain dialogue prompting strategies include persona definition
+    (giving the model a consistent character), interest and preference specification
+    (establishing the model's conversational areas of competence), conversation style
+    specification (formal vs. casual, verbose vs. concise), and safety and boundary
+    constraints (topics to avoid, appropriate response types for sensitive topics).
+- type: key-claim
+  title: Key claim about Open-Domain Dialogue Prompting
+  body: Open-domain dialogue quality is dominated by persona coherence and topical
+    breadth — models with well-defined personas that cover a rich space of interests
+    and conversation styles produce dramatically more engaging open-domain conversations
+    than models with generic helpful-assistant personas, because persona coherence
+    creates a consistent conversational identity that users can build a conversational
+    relationship with, while topical breadth prevents the dialogue from exhausting
+    the model's ability to contribute novel information and perspectives.
+- type: warning
+  title: Common pitfall regarding Open-Domain Dialogue Prompting
+  body: Open-domain dialogue prompting is particularly vulnerable to topic drift and
+    persona erosion over long conversations — without explicit state management, the
+    model gradually reverts to its default helpful-assistant behaviour as the persona-defining
+    system prompt recedes in the context window relative to recent conversational
+    turns; production open-domain dialogue systems must implement regular persona
+    reinforcement through context management to prevent the persona-drift degradation
+    that transforms engaging character-specific dialogue into generic LLM responses
+    over the course of extended interactions.

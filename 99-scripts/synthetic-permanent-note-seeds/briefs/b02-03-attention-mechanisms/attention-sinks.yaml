@@ -1,0 +1,55 @@
+concept: Attention Sinks
+domain: transformer-architecture
+secondary_domains:
+- mechanistic-interpretability
+- large-language-models
+- context-length
+aliases:
+- attention sink tokens
+- initial token attention concentration
+- sink tokens in transformers
+broader:
+- self-attention-patterns
+- transformer-architecture
+related:
+- sliding-window-attention
+- streaming-llm
+- positional-encoding-variants
+- self-attention-patterns
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Attention Sinks
+  body: Attention sinks are specific token positions — most commonly the first token
+    (often the beginning-of-sequence token) and the most recent few tokens — to which
+    attention heads assign disproportionately high attention weight not because those
+    positions contain highly relevant content but because they serve as "sink" positions
+    that absorb excess probability mass when the softmax normalisation requires positive-summing
+    attention weights even for tokens with no meaningful relevance. The attention
+    sink phenomenon arises from the mathematical constraint that softmax attention
+    weights must sum to 1, forcing the model to assign probability mass somewhere
+    even when the ideal attention distribution would be near-uniform or near-zero
+    for most positions; sink positions serve as "safe" recipients that the model has
+    learned to use as probability dumps.
+- type: key-claim
+  title: Key claim about Attention Sinks
+  body: 'Attention sinks are not interpretable as evidence that the first token is
+    semantically important — they are a mathematical artefact of the softmax normalisation
+    constraint, and their existence has practical implications for context window
+    management: evicting the sink token from a sliding-window KV-cache causes catastrophic
+    attention distribution collapse, while preserving the sink token''s KV state even
+    when its surrounding tokens are evicted maintains stable attention distributions,
+    which is the key insight exploited by the StreamingLLM architecture.'
+- type: warning
+  title: Common pitfall regarding Attention Sinks
+  body: The attention sink phenomenon creates a subtle trap in interpretability analysis
+    — researchers analysing which tokens receive high attention in transformer forward
+    passes will consistently identify the first token (and sometimes period tokens)
+    as "important" based on their high received-attention weight, and this attention
+    should not be interpreted as evidence that these tokens are semantically important
+    for the task; the attention weight is an implementation artefact, and the actual
+    information conveyed by sink token value vectors is minimal.

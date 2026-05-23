@@ -1,0 +1,63 @@
+concept: Claim Strength Calibration
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- calibration
+- epistemics
+- natural-language-generation
+aliases:
+- epistemic strength calibration
+- assertion strength calibration
+- evidential claim grading
+broader:
+- hedging-calibration
+- output-quality-in-llms
+- calibration-in-llms
+related:
+- hedging-calibration
+- verbalized-uncertainty
+- logical-entailment-verification
+- nuance-preservation-in-summarization
+prerequisites:
+- calibration-in-machine-learning
+- epistemic-logic
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Claim Strength Calibration
+  body: Claim Strength Calibration refers to the alignment between the strength of
+    assertion with which LLM-generated outputs state claims — ranging from speculative
+    possibility through provisional hypothesis, supported claim, established finding,
+    to well-verified fact — and the actual evidentiary support, replication robustness,
+    and consensus level behind each claim. Well-calibrated claim strength means that
+    claims stated as facts are facts, claims stated as established findings are robustly
+    replicated, claims stated as hypotheses are genuinely provisional, and the epistemic
+    gradient across claim strength levels accurately represents the underlying epistemic
+    landscape of the topic domain. LLMs systematically miscalibrate claim strength
+    by (1) asserting uncertain claims as facts when training data contains confident
+    assertions, (2) hedging well-established findings when training data contains
+    controversy, and (3) failing to distinguish between different types of evidential
+    support.
+- type: key-claim
+  title: Key claim about Claim Strength Calibration
+  body: Claim Strength Calibration errors in LLM outputs are not random but systematically
+    biased toward over-stating claim strength in domains with high training data frequency
+    regardless of actual evidentiary robustness — popular science claims, widely repeated
+    statistics, and media-covered findings are stated with higher claim strength than
+    their evidential basis warrants, while rigorous but less-publicised findings are
+    stated with appropriate or lower strength; this produces a systematic correlation
+    between training corpus representation and stated certainty that is independent
+    of actual scientific certainty, embedding popularity as a proxy for truth in LLM
+    outputs.
+- type: warning
+  title: Common pitfall regarding Claim Strength Calibration
+  body: Claim Strength Calibration is not improved by simply adding instructions to
+    "distinguish between facts and opinions" or "hedge uncertain claims" — these meta-instructions
+    produce globally more hedged outputs without improving the correspondence between
+    hedge level and evidentiary strength, because the model cannot reliably access
+    claim-specific evidentiary metadata from its parametric memory; robust claim strength
+    calibration requires retrieval augmentation that surfaces citation counts, meta-analysis
+    summaries, or replication status for key claims, providing evidence-based claim
+    strength information that the model can use to appropriately calibrate assertion
+    strength.

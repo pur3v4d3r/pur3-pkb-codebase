@@ -1,0 +1,59 @@
+concept: Streaming Output Management
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- inference-optimization
+- systems-ml
+- user-experience
+aliases:
+- token streaming
+- progressive output delivery
+- real-time LLM output streaming
+broader:
+- prompt-compression-and-efficiency
+- inference-optimization
+- latency-aware-prompt-design
+related:
+- latency-aware-prompt-design
+- prompt-batching-patterns
+- kv-cache-reuse-strategies
+- verbosity-control-in-prompts
+prerequisites:
+- inference-optimization
+- streaming-systems
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Streaming Output Management
+  body: Streaming Output Management refers to the architectural patterns and interface
+    design techniques for delivering LLM-generated tokens to end users progressively
+    as they are generated, rather than buffering the complete output and delivering
+    it all at once on completion. Streaming substantially reduces perceived latency
+    by enabling users to begin reading and processing output before generation is
+    complete, and enables incremental processing pipelines that can act on early output
+    tokens while generation continues. Streaming management encompasses server-sent
+    event (SSE) or WebSocket delivery protocols, client-side progressive rendering,
+    partial output caching and recovery, and the design of prompts and output formats
+    that are useful when delivered incrementally (ensuring that early output tokens
+    provide value independently of later tokens).
+- type: key-claim
+  title: Key claim about Streaming Output Management
+  body: Streaming Output Management reduces perceived response time by a factor proportional
+    to output length — for a 500-token output with a 2-second time-to-first-token
+    and 10-second total generation time, streaming delivers the first content 8 seconds
+    earlier than non-streaming delivery, and user satisfaction studies consistently
+    show that streaming outputs are perceived as faster and more responsive than equivalent
+    non-streaming outputs even when total generation time is identical; this perceived
+    latency improvement is a free user experience enhancement that requires only streaming
+    protocol support without any model or quality changes.
+- type: warning
+  title: Common pitfall regarding Streaming Output Management
+  body: Streaming Output Management requires prompt design to match streaming delivery
+    semantics — prompts designed to produce outputs where the most important information
+    is at the end of the response (summary last, conclusion last) degrade user experience
+    when streamed, as users receive less-valuable content first and must wait for
+    the key information to arrive; streaming-optimised prompt design should structure
+    outputs with the most important information first (conclusion first, then supporting
+    reasoning) to maximise the value of early streamed tokens and enable users to
+    make decisions from partial outputs.

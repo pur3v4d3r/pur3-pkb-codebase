@@ -1,0 +1,140 @@
+---
+title: "Sliding Window Attention"
+aliases:
+  - "Sliding Window Attention"
+  - "local attention"
+  - "windowed attention"
+  - "sliding window self-attention"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - computer-science
+
+domain: computer-science
+subdomains:
+  - efficient-transformers
+  - long-context-modelling
+  - large-language-models
+
+created: 2026-05-22
+updated: 2026-05-22
+
+source-type: report-extraction
+source-reports:
+  - "sliding-window-attention-synthetic-seed-2026-05-22"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Attention Mechanisms"
+
+related:
+  - "[[Attention Mechanisms]]"
+  - "[[Sparse Attention Patterns]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[Attention Mechanisms]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[Sparse Attention Patterns]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Sliding Window Attention
+
+> [!definition] **Sliding Window Attention**
+> Sliding window attention is a local mechanism within attention mechanisms where each token focuses only on a fixed-size window of recent tokens rather than all preceding ones, significantly reducing computational complexity from quadratic to linear relative to the window size. This approach excludes global or full-attention models that consider every previous token and contrasts with other sparse attention patterns like block-diagonal attention.
+
+> [!attention] **Boundary**
+> This concept excludes global or full-attention mechanisms that consider all previous tokens. It should not be confused with other forms of sparse attention like block-diagonal attention.
+
+## Core Explanation
+
+Sliding window attention is a technique designed to address one of the most significant challenges in transformer architectures: efficiently processing long sequences without prohibitive computational costs. By limiting each token's attention to only a fixed-size window of recent tokens, it drastically reduces the number of computations required for attention calculations from quadratic complexity (O(n^2)) to linear relative to the window size (O(nw)). This makes it possible to handle much longer input sequences than would be feasible with full-attention mechanisms. The mechanism's practical utility is enhanced by its ability to maintain a rolling buffer of key-value cache entries, which allows for efficient inference over arbitrarily long sequences without needing to recompute attention weights for tokens that have already been processed.
+
+The theoretical underpinning of sliding window attention lies in the trade-off between computational efficiency and information accessibility. While it significantly reduces the computational burden by limiting each token's scope of attention, this comes at a cost: direct access to information outside the immediate window is restricted. However, through the stacking of multiple layers, tokens can indirectly access more distant information as the effective receptive field grows proportionally with both the window size and the number of layers. This means that even though individual tokens are only directly aware of their local context, they can still be influenced by information from much further back in the sequence, albeit less precisely.
+
+Empirically, sliding window attention has proven to be a powerful tool for handling long sequences efficiently. For instance, Mistral 7B employs this mechanism with a window size of 4096 tokens combined with a rolling buffer KV-cache system, enabling it to perform fast inference on very long documents without the need to recompute attention weights for every token in the sequence. This approach not only saves computational resources but also allows models to maintain context over longer spans than would be possible with full-attention mechanisms alone.
+
+## Mechanism
+
+In practice, sliding window attention operates by assigning each token a fixed-size window of recent tokens within which it computes its attention weights. This window slides along the sequence as new tokens are processed, allowing for continuous and efficient computation without needing to recompute attention over the entire sequence from scratch. Additionally, models using this mechanism often incorporate a rolling buffer that stores key-value pairs for recently attended tokens, enabling quick access to these values during inference.
+
+## Practical Implications
+
+> [!example] **Application 1 — Efficient Long-Sequence Processing**
+> In scenarios where transformers need to process extremely long sequences, such as in document summarization or language modeling over large texts, sliding window attention offers a practical solution. By limiting each token's scope of attention and maintaining a rolling buffer for key-value pairs, it enables efficient inference without the prohibitive computational costs associated with full-attention mechanisms. This allows models to maintain context over longer spans than would be possible otherwise.
+
+> [!example] **Application 2 — Resource-Constrained Environments**
+> In environments where computational resources are limited, such as mobile devices or edge computing scenarios, sliding window attention provides a way to perform complex natural language processing tasks efficiently. By reducing the computational complexity of attention calculations and maintaining context through a rolling buffer, it allows for real-time inference on long sequences without requiring excessive memory or processing power.
+
+## Key Distinctions
+
+> [!key-distinction] **Local vs Global Attention**
+> Sliding window attention is fundamentally different from global attention mechanisms in that each token only considers a fixed-size window of recent tokens rather than all previous tokens. This distinction significantly reduces computational complexity but also limits direct access to information outside the immediate context, which can be a trade-off for tasks requiring long-range dependencies.
+
+> [!key-distinction] **Sliding Window vs Full Attention**
+> While full attention mechanisms consider every token in the sequence when computing attention weights, sliding window attention restricts each token's scope to only a fixed-size window of recent tokens. This reduction in computational complexity comes at the cost of direct access to information outside this immediate context.
+
+## Key Figures
+
+- **Mistral AI** — Developed Mistral 7B, which employs sliding window attention with a rolling buffer KV-cache system for efficient long-sequence processing.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can sliding window attention be optimized for tasks requiring long-range dependencies?
+>
+> *What would resolve it:* Experimental results comparing different optimization strategies, such as hybrid architectures that interleave full-attention layers with sliding window layers on a sparse schedule.
+
+> [!open-question] **Question**
+> What are the trade-offs between computational efficiency and model accuracy in sliding window attention?
+>
+> *What would resolve it:* Empirical studies evaluating the impact of varying window sizes and layer stacking depths on both computational efficiency and model performance across different tasks.
+
+## Synthesis
+
+Sliding window attention is a critical innovation for transformer architectures, enabling efficient processing of long sequences without sacrificing too much in terms of contextual awareness. By reducing the computational complexity of attention calculations while still allowing indirect access to distant information through layer stacking, it offers a balanced approach that can handle tasks requiring both efficiency and context preservation.
+
+Its significance extends beyond just improving performance on specific tasks; it also opens up new possibilities for transformer models to be deployed in resource-constrained environments where full-attention mechanisms would be impractical. As such, sliding window attention represents an important step forward in the evolution of transformer architectures.
+
+## Connections & Context
+
+**Falls under:** [[Attention Mechanisms]]
+
+**Specializes:** [[Attention Mechanisms]]
+
+**Contrasts with:** [[Sparse Attention Patterns]]
+
+**Source:** [[sliding-window-attention-synthetic-seed-2026-05-22]]

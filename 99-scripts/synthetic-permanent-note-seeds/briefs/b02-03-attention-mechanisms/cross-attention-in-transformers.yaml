@@ -1,0 +1,52 @@
+concept: Cross-Attention in Transformers
+domain: transformer-architecture
+secondary_domains:
+- deep-learning
+- sequence-to-sequence-models
+- natural-language-processing
+aliases:
+- encoder-decoder attention
+- cross-modal attention
+- decoder attention over encoder
+broader:
+- transformer-architecture
+- attention-mechanisms
+related:
+- multi-head-attention-mechanics
+- self-attention-patterns
+- grouped-query-attention
+prerequisites:
+- transformer-architecture
+- encoder-decoder-models
+- attention-mechanisms
+confidence: high
+callouts:
+- type: definition
+  title: Cross-Attention in Transformers
+  body: Cross-attention in transformers is the attention mechanism in encoder-decoder
+    architectures in which the decoder's queries are computed from the decoder's internal
+    state while the keys and values are computed from the encoder's output representation,
+    allowing each decoder position to attend to any position in the encoded source
+    sequence. Cross-attention is the primary mechanism by which encoder-decoder models
+    align target generation with source content in machine translation, summarisation,
+    and multimodal generation. In multimodal transformers, cross-attention connects
+    modality-specific encoder outputs (visual, audio, or structured data) to text
+    decoder queries, enabling the decoder to condition its generation on the encoded
+    non-textual representation.
+- type: key-claim
+  title: Key claim about Cross-Attention in Transformers
+  body: Cross-attention in encoder-decoder models learns highly sparse alignment patterns
+    — different heads specialise in different aspects of source-target alignment,
+    including lexical translation, structural reordering, and phrase boundary detection
+    — and the interpretability of cross-attention weights in translation tasks is
+    higher than that of self-attention weights because the bilingual training signal
+    constrains the alignment patterns to be semantically consistent with source-target
+    correspondences rather than being free to learn arbitrary relational patterns.
+- type: warning
+  title: Common pitfall regarding Cross-Attention in Transformers
+  body: Decoder-only architectures that have replaced encoder-decoder models in many
+    NLP tasks lose cross-attention as a mechanism, requiring them to perform source-target
+    alignment implicitly through in-context self-attention over the concatenated source
+    and target, which is less parameter-efficient for alignment-heavy tasks and makes
+    it harder to extract explicit source-target alignments for downstream use cases
+    such as translation quality estimation or multimodal grounding.

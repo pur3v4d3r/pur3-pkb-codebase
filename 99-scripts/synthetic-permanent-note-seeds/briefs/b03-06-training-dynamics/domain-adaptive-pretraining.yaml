@@ -1,0 +1,62 @@
+concept: Domain-Adaptive Pretraining
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- transfer-learning
+- training-dynamics
+- domain-adaptation
+aliases:
+- domain-specific pretraining
+- continued pretraining for domain adaptation
+- domain fine-tuning
+broader:
+- training-dynamics-and-data-pipelines
+- transfer-learning
+- large-language-models
+related:
+- pretraining-data-influence
+- curriculum-learning-for-llms
+- data-mixture-effects-on-capability
+- domain-adaptive-pretraining
+prerequisites:
+- transfer-learning
+- domain-adaptation
+- machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Domain-Adaptive Pretraining
+  body: Domain-Adaptive Pretraining refers to the technique of continuing to pretrain
+    a general-purpose language model on a large corpus of domain-specific text before
+    task-specific fine-tuning — bridging the distribution gap between the general
+    pretraining corpus and a specialised target domain (medical, legal, scientific,
+    code, financial) to improve downstream task performance in that domain. Domain-adaptive
+    pretraining (DAPT) is distinct from task-specific fine-tuning in that it uses
+    unlabelled domain text (maintaining the pretraining objective) rather than labelled
+    task examples, and is distinct from initial pretraining in that it uses a pre-trained
+    model as the starting point rather than training from scratch. DAPT addresses
+    the limitation that general-purpose LLMs trained on broad web corpora have insufficient
+    exposure to specialised domain vocabulary, conventions, and knowledge patterns
+    to perform optimally on domain-specific tasks.
+- type: key-claim
+  title: Key claim about Domain-Adaptive Pretraining
+  body: Domain-Adaptive Pretraining produces substantially larger domain task improvements
+    than equivalent-compute task-specific fine-tuning for data-scarce specialised
+    domains — studies comparing DAPT followed by task fine-tuning versus task fine-tuning
+    only on matched task datasets show DAPT provides the largest improvements for
+    domains with specialised vocabulary and conventions (biomedical, legal) where
+    the domain distribution is most distant from the general pretraining corpus; DAPT
+    is most valuable when labelled task data is scarce but domain text is abundant,
+    allowing the model to absorb domain conventions before task-specific tuning.
+- type: warning
+  title: Common pitfall regarding Domain-Adaptive Pretraining
+  body: Domain-Adaptive Pretraining involves catastrophic forgetting risk — continued
+    pretraining on a narrow domain corpus can degrade the model's performance on general-domain
+    tasks and on tasks from domains not represented in the DAPT corpus, as continued
+    gradient updates on domain-specific text shift model weights away from the general
+    capabilities encoded in the initial pretraining; DAPT should be evaluated for
+    general capability retention alongside domain task improvement, and methods that
+    mitigate forgetting (elastic weight consolidation, replay, learning rate reduction)
+    should be considered for deployments that require both domain expertise and general-purpose
+    capability.

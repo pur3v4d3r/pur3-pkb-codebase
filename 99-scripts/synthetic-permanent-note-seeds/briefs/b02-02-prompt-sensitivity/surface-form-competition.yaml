@@ -1,0 +1,54 @@
+concept: Surface Form Competition
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- large-language-models
+- tokenization
+aliases:
+- vocabulary competition in prompting
+- token form bias
+- surface string competition in ICL
+broader:
+- prompt-sensitivity
+- in-context-learning
+related:
+- label-sensitivity-in-prompting
+- format-sensitivity-in-prompting
+- prompt-calibration-techniques
+- verbalized-uncertainty
+prerequisites:
+- in-context-learning
+- tokenization
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Surface Form Competition
+  body: Surface form competition is the phenomenon in which multiple surface-form
+    variants of a semantically equivalent label or entity compete with each other
+    in the model's vocabulary distribution, causing the probability mass for the correct
+    label to be split across multiple tokens or token sequences. For example, if the
+    correct answer to a binary classification task is "positive" but the model also
+    assigns probability to "Positive," "POSITIVE," and "pos," the effective probability
+    of the correct answer is underestimated relative to a model that uses a single
+    unambiguous token. Surface form competition is a structural artefact of tokeniser
+    design and training data statistics that systematically biases likelihood-based
+    evaluation metrics toward labels with compact, unambiguous token representations.
+- type: key-claim
+  title: Key claim about Surface Form Competition
+  body: Surface form competition invalidates direct probability comparisons between
+    labels in zero-shot and few-shot classification unless calibration is applied
+    — the raw log-probability of a label token is not a reliable signal of the model's
+    semantic intention, and proper calibration requires normalising by the label's
+    unconditional generation probability (the probability the model assigns to the
+    label in the absence of any specific evidence), a correction that substantially
+    changes the apparent ranking of model responses.
+- type: warning
+  title: Common pitfall regarding Surface Form Competition
+  body: Surface form competition is not merely an evaluation artefact — it affects
+    generation outputs in constrained-decoding systems where the model must select
+    from a vocabulary of label tokens, causing the system to select the label whose
+    surface form is most frequently represented by a single high-probability token
+    rather than the label that best matches the semantic evidence, leading to label-selection
+    biases that are invisible to evaluators who look only at the final selected label
+    without inspecting the underlying probability distribution.

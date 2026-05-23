@@ -1,0 +1,60 @@
+concept: In-Context Compression
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- efficiency
+- representation-learning
+aliases:
+- soft prompt compression
+- context token compression
+- learned context compression
+broader:
+- prompt-compression-and-efficiency
+- prompt-distillation
+- compressive-context-management
+related:
+- kv-cache-reuse-strategies
+- prompt-distillation
+- token-efficient-prompting
+- llmlingua-compression
+prerequisites:
+- prompt-engineering
+- representation-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: In-Context Compression
+  body: In-Context Compression refers to techniques that compress long contexts or
+    complex prompts into a smaller number of tokens — either through learned compression
+    (training a model to produce a compressed token representation of a longer document
+    that preserves downstream task performance when used as a prompt prefix) or through
+    algorithmic token selection that identifies the minimum-cardinality subset of
+    context tokens sufficient to preserve generation quality. In-context compression
+    methods such as AutoCompressor, ICAE (In-Context Autoencoder), and LLMLingua operate
+    by identifying which tokens or segments of the context carry the highest information
+    value for the target generation task, allowing the remaining tokens to be discarded
+    without equivalent quality degradation.
+- type: key-claim
+  title: Key claim about In-Context Compression
+  body: In-Context Compression via learned compression (training a compression model
+    to produce a fixed-length summary vector that a generation model can condition
+    on) achieves substantially higher compression ratios than extractive selection
+    methods while preserving higher task performance — learned compression can represent
+    a 512-token document in 16–32 summary tokens (32–16x compression) with acceptable
+    quality for retrieval-augmented generation tasks, compared to extractive methods
+    that require 128–256 tokens to achieve similar performance; this quality advantage
+    reflects learned compression's ability to encode the document's semantic content
+    in a compact distributed representation rather than being limited to extracting
+    existing tokens.
+- type: warning
+  title: Common pitfall regarding In-Context Compression
+  body: In-Context Compression via learned methods requires training the compression
+    model and generation model jointly or at least compatible training — off-the-shelf
+    learned compression models trained for one base model architecture produce garbage
+    when used with a different base model architecture, because the compressed representations
+    are architecture-specific distributed codes rather than natural language tokens;
+    deployers integrating in-context compression must ensure compatibility between
+    the compression model and the generation model and must retrain or fine-tune the
+    compression model when the generation model is updated.

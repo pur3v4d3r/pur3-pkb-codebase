@@ -1,0 +1,58 @@
+concept: Stance Consistency Across Output
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- natural-language-generation
+- discourse-analysis
+aliases:
+- viewpoint consistency in LLMs
+- opinion stability across response sections
+- perspective coherence
+broader:
+- discourse-coherence-in-llm-outputs
+- output-quality-in-llms
+- narrative-consistency-prompting
+related:
+- contradiction-detection-in-outputs
+- discourse-coherence-in-llm-outputs
+- narrative-consistency-prompting
+- framing-effects-on-llm-outputs
+prerequisites:
+- discourse-analysis
+- stance-detection
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Stance Consistency Across Output
+  body: Stance Consistency Across Output refers to the maintenance of a consistent
+    evaluative, argumentative, or attitudinal position throughout a multi-paragraph
+    or multi-section LLM output — ensuring that the model does not argue for a position
+    in one section and against the same position in another without explicit signalling
+    that a counterargument is being presented. Stance inconsistency in LLM outputs
+    manifests as apparently shifting views between introduction and conclusion, implicit
+    contradictions between stated principles and applied recommendations, and position
+    reversals between different sections of an argument that were generated under
+    different micro-contextual conditions. LLMs are structurally vulnerable to stance
+    inconsistency because each generation step has limited visibility into the evaluative
+    trajectory of the entire output.
+- type: key-claim
+  title: Key claim about Stance Consistency Across Output
+  body: Stance Consistency Across Output is particularly vulnerable to section-by-section
+    generation patterns — when long documents are generated section-by-section with
+    separate prompts for each section, stance consistency across sections is lower
+    than in end-to-end generation because each section is generated without full awareness
+    of the stances taken in preceding sections; maintaining explicit stance annotations
+    (agreeing, disagreeing, neutral, presenting counterargument) at each section boundary
+    and including them in subsequent section generation prompts substantially reduces
+    stance inconsistency across sections.
+- type: warning
+  title: Common pitfall regarding Stance Consistency Across Output
+  body: Stance Consistency Across Output should be distinguished from the legitimate
+    rhetorical pattern of presenting multiple perspectives — some apparent stance
+    inconsistency is intentionally structured argumentation (presenting and then refuting
+    a counterargument, acknowledging complexity and then providing a qualified position),
+    and aggressive stance consistency enforcement can inappropriately flatten legitimate
+    multi-perspective analysis; distinguishing between genuine stance inconsistency
+    (unintended contradictions) and intended multi-perspectival argumentation requires
+    discourse-level context that simple inconsistency detection metrics cannot access.

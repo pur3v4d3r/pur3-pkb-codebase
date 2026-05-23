@@ -1,0 +1,55 @@
+concept: Instruction-Following Emergence
+domain: large-language-models
+secondary_domains:
+- instruction-tuning
+- large-language-models
+- generalisation
+aliases:
+- instruction following capability
+- general instruction following
+- generalised instruction compliance
+broader:
+- emergent-prompting-capability
+- instruction-tuning
+related:
+- zero-shot-generalisation-mechanisms
+- task-generalisation-in-llms
+- capability-elicitation-prompting
+- rlhf
+prerequisites:
+- large-language-models
+- instruction-tuning
+- generalisation
+confidence: high
+callouts:
+- type: definition
+  title: Instruction-Following Emergence
+  body: 'Instruction-following emergence refers to the acquisition by language models
+    of the ability to generalise instruction-following to new tasks, formats, and
+    domains not seen in the instruction-tuning dataset — producing appropriate outputs
+    for novel instructions based on the model''s understanding of natural-language
+    instruction semantics rather than template matching. Instruction-following capability
+    is distinct from the ability to complete any specific task: it is the meta-capability
+    of correctly interpreting what a diverse range of instructions require and generating
+    appropriate responses across task types. The capability emerges during instruction
+    tuning and scales with the size and diversity of the instruction-tuning dataset
+    as well as with model scale.'
+- type: key-claim
+  title: Key claim about Instruction-Following Emergence
+  body: Instruction-following emergence is primarily a function of instruction-tuning
+    dataset diversity rather than model scale alone — models instruction-tuned on
+    diverse task distributions (hundreds of different task types) exhibit qualitatively
+    better cross-task generalisation than models fine-tuned on large but narrow instruction
+    sets, confirming that the scope of instruction following generalisation is bounded
+    by the structural diversity of the instruction-tuning distribution rather than
+    by the total volume of instruction-tuning examples or the model's parameter count.
+- type: warning
+  title: Common pitfall regarding Instruction-Following Emergence
+  body: Instruction-following emergence is measured primarily on structured benchmarks
+    where the instruction is clear and the correct output is well-defined, creating
+    an optimistic picture of instruction-following reliability; production deployments
+    reveal that models trained for instruction following frequently misinterpret underspecified
+    or pragmatically complex instructions by defaulting to their training-distribution
+    modal response rather than inferring the user's specific intent, suggesting that
+    instruction-following emergence measures response compliance for clear instructions
+    rather than pragmatic intention-following for ambiguous ones.

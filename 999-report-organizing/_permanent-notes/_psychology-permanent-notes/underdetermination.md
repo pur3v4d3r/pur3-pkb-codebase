@@ -18,7 +18,7 @@ subdomains:
   - epistemology
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - underdetermination-synthetic-seed-2026-05-01
@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Underdetermination Process Flow**
+> *Follow the flow from evidence to theory selection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Empirical Evidence] --> B[Curve-Fitting]
+>   B --> C[Multiple Theories]
+>   C --> D[Auxiliary Hypotheses]
+>   D --> E[Theory Selection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Weak vs Strong Readings Comparison**
+> *Compare the weak and strong readings of underdetermination.*
+>
+> ```mermaid
+> graph TD
+>   A[Duhem's Weak Reading] --> B[Formally Compatible]
+>   C[Quine's Strong Reading] --> D[Unconceived Rivals]
+> ```
+
+
+> [!abstract] **Diagram 3 — Underdetermination in Practice**
+> *See how underdetermination applies to different fields.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Teaching Methods]
+>   C[Medical Diagnosis] --> D[Diseases]
+>   E[MOOCs] --> F[Spaced Retrieval]
+> ```
 
 # Underdetermination
 

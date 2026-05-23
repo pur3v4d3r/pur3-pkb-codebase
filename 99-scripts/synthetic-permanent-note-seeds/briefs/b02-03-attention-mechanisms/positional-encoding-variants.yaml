@@ -1,0 +1,55 @@
+concept: Positional Encoding Variants
+domain: transformer-architecture
+secondary_domains:
+- transformer-architecture
+- natural-language-processing
+- sequence-modelling
+aliases:
+- position encoding methods
+- transformer positional embeddings
+- position representation in transformers
+broader:
+- transformer-architecture
+narrower:
+- rotary-position-embedding
+- alibi-positional-encoding
+related:
+- multi-head-attention-mechanics
+- sliding-window-attention
+- context-length-extension
+prerequisites:
+- transformer-architecture
+- embedding-representations
+confidence: high
+callouts:
+- type: definition
+  title: Positional Encoding Variants
+  body: Positional encoding variants are the different mechanisms used to inject position
+    information into transformer models, enabling them to distinguish tokens based
+    on their position in the sequence in the absence of recurrence. The original transformer
+    used sinusoidal absolute positional encodings; subsequent variants include learned
+    absolute embeddings (BERT, GPT-2), relative positional encodings (T5, Transformer-XL),
+    Rotary Position Embedding (RoPE, LLaMA), ALiBi (attention with linear biases),
+    and length-generalising approaches. The choice of positional encoding significantly
+    affects the model's ability to generalise to sequence lengths longer than those
+    seen in training — some methods fail completely beyond the training length while
+    others extrapolate gracefully.
+- type: key-claim
+  title: Key claim about Positional Encoding Variants
+  body: 'The choice of positional encoding is the primary architectural determinant
+    of long-context generalisation: models with learned absolute positional embeddings
+    fail completely beyond the training context length because they have no representation
+    for unseen positions; models with RoPE exhibit graceful degradation beyond training
+    length with appropriate rescaling; and models with ALiBi generalize to longer
+    contexts than the training length without any additional modification, making
+    positional encoding choice a critical architectural decision for systems that
+    need to process long documents.'
+- type: warning
+  title: Common pitfall regarding Positional Encoding Variants
+  body: Positional encoding choice interacts with the model's use of position information
+    in ways that are not fully understood, and simply replacing one positional encoding
+    with another in a trained model is not trivially possible without retraining —
+    the model's weights in attention layers are co-adapted with the positional encoding
+    scheme used during training, and applying a different encoding at inference time
+    to extend context length produces qualitatively different attention patterns that
+    may not correspond to the model's intended behaviour.

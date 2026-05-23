@@ -1,0 +1,65 @@
+concept: Cognitive Bias in LLM Outputs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- prompt-engineering
+- ai-safety
+aliases:
+- LLM biases
+- systematic errors in LLMs
+- cognitive distortions in AI outputs
+broader:
+- cognitive-psychology
+- large-language-models
+- alignment
+narrower:
+- anchoring-bias-in-llm-reasoning
+- availability-heuristic-in-llms
+- framing-effects-on-llm-outputs
+- confirmation-bias-in-chain-of-thought
+- social-desirability-bias-in-llms
+related:
+- dual-process-theory-applied-to-llms
+- sycophancy-in-llms
+- hallucination-in-llms
+- prompt-brittleness
+prerequisites:
+- cognitive-bias
+- large-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Bias in LLM Outputs
+  body: Cognitive Bias in LLM Outputs refers to the systematic, predictable patterns
+    of deviation from rational inference that appear in the responses of large language
+    models, mirroring the cognitive biases identified in human judgment and decision-making
+    research. These biases arise primarily from the statistical regularities in training
+    data — LLMs learn to reproduce the biased reasoning patterns, heuristic shortcuts,
+    and distorted judgments present in human-generated text — and are further amplified
+    or suppressed by RLHF alignment, prompt framing, and context construction. Cognitive
+    biases in LLM outputs manifest as anchoring effects, availability-driven over-representation
+    of memorable events, framing-sensitive opinion shifts, confirmation-seeking responses,
+    and social desirability distortions, among others, producing outputs that appear
+    confident but systematically diverge from well-calibrated inference.
+- type: key-claim
+  title: Key claim about Cognitive Bias in LLM Outputs
+  body: Cognitive Bias in LLM Outputs is not merely a superficial mimicry of human
+    language patterns but reflects deep structural parallels in how LLMs and humans
+    process information under uncertainty — both systems use statistical regularities
+    (base rates in human memory, training frequency in LLMs) as implicit priors, and
+    both exhibit similar sensitivity to framing, anchoring, and social context, suggesting
+    that many LLM biases are mathematically analogous to human cognitive biases rather
+    than coincidentally similar; this structural analogy enables cognitive psychology's
+    debiasing literature to inform LLM prompt engineering strategies.
+- type: warning
+  title: Common pitfall regarding Cognitive Bias in LLM Outputs
+  body: Cognitive Bias in LLM Outputs is not a stable, cataloguable list of fixed
+    error modes — bias expression is highly sensitive to model architecture, scale,
+    training data, RLHF tuning, prompt format, and context, meaning that a bias prominently
+    documented in one model version may be substantially reduced or absent in another;
+    practitioners who rely on static bias documentation without validating bias presence
+    on their specific model and deployment configuration risk both over-correcting
+    for biases that do not apply and missing active biases not covered in available
+    documentation.

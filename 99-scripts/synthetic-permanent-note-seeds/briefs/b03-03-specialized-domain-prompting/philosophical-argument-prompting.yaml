@@ -1,0 +1,61 @@
+concept: Philosophical Argument Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- philosophy
+- formal-argumentation
+- prompt-engineering
+aliases:
+- philosophical reasoning prompts
+- argument analysis prompting
+- philosophical LLM reasoning
+broader:
+- specialized-domain-prompting
+- philosophical-ai
+- prompt-engineering
+related:
+- ethical-reasoning-prompting
+- logical-entailment-verification
+- claim-strength-calibration
+- chain-of-thought-prompting
+prerequisites:
+- formal-logic
+- philosophical-methodology
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Philosophical Argument Prompting
+  body: Philosophical Argument Prompting refers to the prompting strategies used to
+    elicit rigorous philosophical analysis from large language models — including
+    argument reconstruction, validity assessment, objection generation, counterargument
+    development, thought experiment analysis, conceptual clarification, and philosophical
+    literature synthesis. Philosophical argument prompting must manage the distinction
+    between valid and sound arguments, the distinction between empirical and conceptual
+    claims, the role of intuition in philosophical methodology, and the diversity
+    of philosophical traditions (analytic, continental, pragmatist, Eastern) that
+    the model may draw on. Effective philosophical argument prompting specifies the
+    philosophical tradition and methodology, the target argument or position, the
+    level of technical philosophical sophistication, and the specific analytical task.
+- type: key-claim
+  title: Key claim about Philosophical Argument Prompting
+  body: Philosophical Argument Prompting produces its highest-value outputs when used
+    for steelmanning — explicitly prompting the model to construct the strongest possible
+    version of a philosophical argument the user disagrees with — because this application
+    directly leverages LLMs' ability to reconstruct philosophical positions from training
+    data that encompasses the full diversity of philosophical perspectives, providing
+    a systematically stronger adversarial test of a position than the user's own objection
+    formulation; steelmanning prompting produces substantially more intellectually
+    productive engagement with philosophical disagreement than prompting for the model's
+    own position on contested philosophical questions.
+- type: warning
+  title: Common pitfall regarding Philosophical Argument Prompting
+  body: Philosophical Argument Prompting surfaces a fundamental limitation of LLMs
+    in philosophical discourse — LLMs lack genuine philosophical intuitions, which
+    are a primary evidential source in many philosophical methodologies; when prompted
+    to engage with thought experiments, the model generates responses that reproduce
+    the consensus reactions from training data rather than exercising independent
+    philosophical judgment, making LLM philosophical engagement particularly unreliable
+    for novel thought experiments not covered in training data and for philosophical
+    questions where intuition revision is the primary philosophical contribution.

@@ -1,0 +1,60 @@
+concept: Attention Knockout Analysis
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- transformer-architecture
+aliases:
+- attention head ablation
+- attention pattern knockout
+- causal head identification
+broader:
+- mechanistic-interpretability
+- causal-tracing-in-transformers
+- transformer-architecture
+related:
+- causal-tracing-in-transformers
+- path-patching-methodology
+- attention-visualization
+- factual-association-mechanisms
+prerequisites:
+- transformer-architecture
+- attention-mechanism
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Attention Knockout Analysis
+  body: Attention Knockout Analysis refers to the mechanistic interpretability technique
+    of systematically zeroing out or replacing specific attention patterns — either
+    entire attention heads, specific attention edges (connections between specific
+    query and key positions), or specific head outputs — and measuring the effect
+    on model performance to identify which attention heads are causally important
+    for specific tasks or behaviours. Unlike attention visualisation (passive observation
+    of attention weights), attention knockout is an active causal intervention that
+    establishes causal necessity — if removing an attention head or specific attention
+    edge degrades performance on a specific task, that head or edge is causally necessary
+    for that task. Attention knockout is used to identify task-relevant attention
+    heads, validate attention-based circuit hypotheses, and study how head ablation
+    affects the information routing properties of the model.
+- type: key-claim
+  title: Key claim about Attention Knockout Analysis
+  body: Attention Knockout Analysis identifies a small fraction of attention heads
+    as causally important for any given task — systematic knockout studies consistently
+    find that most attention heads can be ablated with minimal impact on specific
+    task performance, while 2–10% of heads account for 50–80% of the head-ablatable
+    performance gap for typical classification and retrieval tasks; this sparse causal
+    head distribution supports the modular function hypothesis (specific heads implement
+    specific functions) and motivates head-level pruning as a model compression strategy,
+    as most heads are redundant or specialised for tasks not required by the target
+    deployment.
+- type: warning
+  title: Common pitfall regarding Attention Knockout Analysis
+  body: Attention Knockout Analysis results are task-specific and cannot be generalised
+    across tasks — an attention head that is not causally important for one task (and
+    therefore appears ablatable) may be critically important for a different task,
+    and pruning based on single-task knockout analysis produces models that fail on
+    tasks whose critical heads were incorrectly identified as non-essential; multi-task
+    knockout analysis is required before using knockout results to motivate model
+    compression decisions, and knockout analysis should cover the full distribution
+    of tasks the model will be expected to perform.

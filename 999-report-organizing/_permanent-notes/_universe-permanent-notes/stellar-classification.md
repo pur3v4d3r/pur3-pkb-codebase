@@ -18,7 +18,7 @@ subdomains:
   - spectroscopy
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - stellar-classification-synthetic-seed-2026-05-14
@@ -65,8 +65,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Spectral Types Overview**
+> *Follow the sequence from hottest to coolest stars.*
+>
+> ```mermaid
+> graph TD
+>   O[O] --> B[B]
+>   B --> A[A]
+>   A --> F[F]
+>   F --> G[G]
+>   G --> K[K]
+>   K --> M[M]
+>   M --> L[L]
+>   L --> T[T]
+>   T --> Y[Y]
+> ```
+
+
+> [!abstract] **Diagram 2 — Luminosity Classes Breakdown**
+> *Identify the different luminosity classes and their corresponding star types.*
+>
+> ```mermaid
+> graph TD
+>   I0[O Ia] --> I[Ib]
+>   I --> II[II]
+>   II --> III[III]
+>   III --> IV[IV]
+>   IV --> V[V]
+> ```
+
+
+> [!abstract] **Diagram 3 — Stellar Classification Process Flow**
+> *Trace the steps from spectral analysis to classification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Spectral Lines] --> B[Determine Temperature]
+>   B --> C[Evaluate Surface Gravity]
+>   C --> D[Assign Luminosity Class]
+>   D --> E[Classify Star]
+> ```
 
 # Stellar Classification
 

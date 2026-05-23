@@ -1,0 +1,57 @@
+concept: Retrieval Faithfulness
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- factual-accuracy
+- hallucination
+aliases:
+- RAG faithfulness
+- source attribution accuracy
+- retrieval-grounded generation
+broader:
+- retrieval-augmented-generation
+- factual-accuracy
+related:
+- knowledge-conflict-in-rag
+- corrective-rag-pipeline
+- retrieval-faithfulness
+prerequisites:
+- retrieval-augmented-generation
+- hallucination
+- factual-accuracy
+confidence: high
+callouts:
+- type: definition
+  title: Retrieval Faithfulness
+  body: 'Retrieval faithfulness refers to the degree to which a RAG system''s generated
+    responses are grounded in and consistent with the retrieved source documents,
+    rather than introducing information from the model''s parametric knowledge that
+    contradicts or extends beyond the retrieved context. A faithful RAG response cites
+    only claims that can be traced to specific retrieved passages, acknowledges when
+    the retrieved documents do not contain sufficient information to answer the query,
+    and does not embellish retrieved facts with parametric knowledge that may be incorrect
+    or outdated. Retrieval faithfulness is distinct from factual accuracy: a response
+    can be faithful (grounded in retrieved documents) but inaccurate (if the retrieved
+    documents contain incorrect information), and a response can be accurate but unfaithful
+    (if the correct information comes from parametric memory rather than retrieval).'
+- type: key-claim
+  title: Key claim about Retrieval Faithfulness
+  body: Retrieval faithfulness and answer accuracy are distinct and sometimes conflicting
+    objectives in RAG systems — optimising strictly for faithfulness (only generating
+    claims directly stated in retrieved documents) reduces answer accuracy when retrieved
+    documents are incomplete or outdated, while optimising for accuracy (generating
+    the best available answer) reduces faithfulness when the model supplements insufficient
+    retrievals with parametric knowledge; production RAG systems must explicitly specify
+    which objective takes precedence for their use case and must measure both objectives
+    separately.
+- type: warning
+  title: Common pitfall regarding Retrieval Faithfulness
+  body: Retrieval faithfulness evaluation is substantially harder than faithfulness
+    appears — LLMs are capable of generating text that sounds like it is grounded
+    in retrieved passages while subtly modifying facts (paraphrasing with changed
+    quantities, adding causation that the source only implies, merging claims from
+    different documents incorrectly), making surface-level citation accuracy checks
+    insufficient for faithfulness validation; reliable faithfulness evaluation requires
+    fine-grained claim-level entailment checking that verifies each generated claim
+    against the source passages rather than checking only whether source passages
+    were cited.

@@ -1,0 +1,67 @@
+concept: Feature Attribution in LLMs
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- explainability
+- mechanistic-interpretability
+aliases:
+- input feature importance for LLMs
+- attribution methods for transformers
+- LLM token attribution
+broader:
+- mechanistic-interpretability
+- explainability
+- large-language-models
+narrower:
+- saliency-mapping-for-prompts
+- attention-visualization
+- probing-classifiers
+related:
+- saliency-mapping-for-prompts
+- attention-visualization
+- causal-tracing-in-transformers
+- linear-representation-hypothesis
+prerequisites:
+- transformer-architecture
+- explainability
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Feature Attribution in LLMs
+  body: Feature Attribution in LLMs refers to the methods and techniques for assigning
+    credit or blame to specific input tokens, attention patterns, or intermediate
+    representations for specific outputs produced by a large language model — quantifying
+    the contribution of each input feature to the model's generation decisions. Feature
+    attribution methods for LLMs include gradient-based attribution (computing the
+    gradient of the output with respect to input token embeddings to identify sensitive
+    inputs), attention-based attribution (using attention weights as proxies for token
+    importance), integrated gradients (averaging gradients along a path from a baseline
+    input to the actual input), SHAP values adapted for language models, and counterfactual
+    attribution (measuring output change when specific input features are removed
+    or replaced). Feature attribution is foundational for interpretability analysis,
+    debugging model failures, identifying spurious correlations, and building trust
+    in LLM outputs.
+- type: key-claim
+  title: Key claim about Feature Attribution in LLMs
+  body: Feature Attribution in LLMs via gradient-based methods (integrated gradients,
+    gradient x input) provides substantially more accurate attributions than attention-based
+    methods on most generation tasks — empirical comparisons show that attention weights
+    do not reliably reflect the causal importance of input tokens to output generation
+    because attention heads implement many functions beyond weighted input selection
+    (including positional routing, head composition, and skip connections), while
+    gradient-based methods directly measure the mathematical sensitivity of the output
+    to each input, providing a more principled attribution signal; this finding challenges
+    the widespread practice of using attention visualisation as the primary interpretability
+    method.
+- type: warning
+  title: Common pitfall regarding Feature Attribution in LLMs
+  body: Feature Attribution in LLMs produces post-hoc explanations that may not accurately
+    reflect the model's actual decision process — attribution methods assign numerical
+    scores to input features based on external mathematical analysis of the model,
+    but the model's internal computation may not decompose cleanly into separable
+    feature contributions that these scores represent; attribution scores that appear
+    meaningful and coherent may not correspond to the model's actual reasoning pathway,
+    and interpretability conclusions based solely on attribution analysis without
+    mechanistic validation (causal tracing, activation patching) should be treated
+    as hypotheses requiring further investigation rather than confirmed explanations.

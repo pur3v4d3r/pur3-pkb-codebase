@@ -1,0 +1,59 @@
+concept: Code Generation Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- software-engineering
+- prompt-engineering
+aliases:
+- code synthesis prompting
+- program generation prompts
+- LLM programming assistance
+broader:
+- specialized-domain-prompting
+- code-generation
+- prompt-engineering
+related:
+- code-review-prompting
+- technical-documentation-prompting
+- mathematical-proof-prompting
+- data-analysis-prompting
+prerequisites:
+- prompt-engineering
+- software-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Code Generation Prompting
+  body: Code Generation Prompting refers to the specialised prompting strategies for
+    eliciting correct, efficient, secure, and maintainable code from large language
+    models — including function implementation, algorithm design, data structure selection,
+    API usage, testing, refactoring, and debugging. Effective code generation prompting
+    specifies the programming language and version, the precise functional requirements,
+    the performance constraints, the target coding style or framework, example inputs
+    and expected outputs, and the edge cases to handle. Advanced code generation prompting
+    incorporates test-driven development patterns (provide tests before requesting
+    implementation), incremental elaboration (request skeleton then fill in details),
+    and self-verification (request code that includes its own tests or asserts).
+- type: key-claim
+  title: Key claim about Code Generation Prompting
+  body: Code Generation Prompting with test-driven prompting (specifying test cases
+    before requesting implementation) produces substantially higher correctness rates
+    than specification-first prompting (describing functionality without test cases)
+    — providing concrete input-output examples forces the model to reason about specific
+    edge cases and boundary conditions rather than generating implementations optimised
+    for the most common case, resulting in code that handles edge cases the model
+    would otherwise miss; providing three to five test cases including at least one
+    boundary case and one error case in the prompt reduces first-generation correctness
+    failures by approximately 40–60% across common programming tasks.
+- type: warning
+  title: Common pitfall regarding Code Generation Prompting
+  body: Code Generation Prompting produces code that is syntactically correct and
+    passes superficial review at much higher rates than it produces code that is semantically
+    correct under adversarial inputs or correct in edge cases — LLMs generate confident,
+    well-formatted code for inputs similar to training data but produce subtly incorrect
+    implementations for algorithmic requirements that require careful boundary condition
+    analysis, correct error handling for rare failure modes, and secure input validation;
+    all LLM-generated code must be tested against a comprehensive test suite including
+    adversarial and edge-case inputs before deployment, as code review alone is insufficient
+    to catch the category of errors LLMs most commonly make.

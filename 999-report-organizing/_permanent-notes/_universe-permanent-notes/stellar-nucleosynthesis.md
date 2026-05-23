@@ -17,7 +17,7 @@ subdomains:
   - nuclear-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - stellar-nucleosynthesis-synthetic-seed-2026-05-14
@@ -64,8 +64,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Stellar Nucleosynthesis Overview**
+> *Follow the flow from hydrogen to iron production.*
+>
+> ```mermaid
+> graph TD
+>   A[Hydrogen]
+>   B[Helium]
+>   C[Carbon]
+>   D[Nitrogen]
+>   E[Oxygen]
+>   F[Iron]
+>   A -->|Proton-Proton Chain/CNO Cycle| B
+>   B -->|Triple-Alpha Process| C
+>   C -->|Further Fusion Reactions| D
+>   D -->|Fusion Continues| E
+>   E -->|Up to Iron Production| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Neutron-Capture Processes**
+> *Trace the paths of s-process and r-process.*
+>
+> ```mermaid
+> graph TD
+>   A[AGB Stars]
+>   B[Core-collapse Supernovae]
+>   C[Neutron-star Mergers]
+>   D[s-Process]
+>   E[r-Process]
+>   F[Heavy Elements > Iron]
+>   A -->|s-process| D
+>   B -->|r-process| E
+>   C -->|r-process| E
+>   D -->|Produces Heavy Elements| F
+>   E -->|Produces Heavy Elements| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Galactic Chemical Evolution**
+> *See how elements enrich interstellar gas over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Stars]
+>   B[Supernovae]
+>   C[Neutron-star Mergers]
+>   D[Intergalactic Gas]
+>   E[Element Enrichment]
+>   F[Galaxy Formation]
+>   A -->|Stellar Nucleosynthesis| E
+>   B -->|Explosive Events| E
+>   C -->|Explosive Events| E
+>   D -->|Interstellar Medium| E
+>   E -->|Enriches Intergalactic Gas| F
+> ```
 
 # Stellar Nucleosynthesis
 

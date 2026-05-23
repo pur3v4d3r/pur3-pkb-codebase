@@ -1,0 +1,54 @@
+concept: Iterative Retrieval Augmentation
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- multi-step-reasoning
+- large-language-models
+aliases:
+- iterative RAG
+- multi-hop retrieval
+- sequential retrieval augmentation
+broader:
+- retrieval-augmented-generation
+- reasoning
+related:
+- self-rag-selective-retrieval
+- corrective-rag-pipeline
+- adaptive-rag-routing
+- query-rewriting-for-retrieval
+prerequisites:
+- retrieval-augmented-generation
+- multi-hop-reasoning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Iterative Retrieval Augmentation
+  body: Iterative retrieval augmentation is a RAG architecture in which retrieval
+    and generation are interleaved in multiple rounds rather than executing retrieval
+    once before generation. In each iteration, the model uses its current partial
+    answer or reasoning state to formulate a retrieval query, retrieves relevant documents,
+    incorporates the retrieved information into its reasoning, and either produces
+    a final answer or identifies that further retrieval is needed. Iterative retrieval
+    is essential for multi-hop questions that require assembling information from
+    multiple documents where the second retrieval query depends on information found
+    in the first retrieval.
+- type: key-claim
+  title: Key claim about Iterative Retrieval Augmentation
+  body: Iterative retrieval augmentation qualitatively changes the class of questions
+    a RAG system can answer compared to single-retrieval architectures — single-retrieval
+    RAG answers questions whose answer is explicitly stated in a single document,
+    while iterative retrieval answers multi-hop questions that require chaining information
+    across documents, comparisons between entities from different documents, and reasoning
+    tasks that require gathering distributed facts, enabling RAG to handle the full
+    complexity range of knowledge-intensive question answering rather than only single-document
+    lookup questions.
+- type: warning
+  title: Common pitfall regarding Iterative Retrieval Augmentation
+  body: Iterative retrieval augmentation multiplies latency and API costs by the number
+    of retrieval iterations, which can be significant for complex multi-hop queries
+    requiring 3–5 iterations with LLM reranking at each step; the latency budget must
+    be assessed for the deployment context, and fallback strategies (maximum iterations,
+    early stopping when confidence is high) must be implemented to prevent unbounded
+    inference time; production iterative RAG systems should expose iteration count
+    and intermediate retrieval results for debugging and monitoring purposes.

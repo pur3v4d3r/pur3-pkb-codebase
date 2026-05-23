@@ -1,0 +1,54 @@
+concept: Sparse Retrieval BM25
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- term-weighting
+- large-language-models
+aliases:
+- BM25 retrieval
+- TF-IDF retrieval
+- lexical retrieval
+- bag-of-words retrieval
+broader:
+- retrieval-augmented-generation
+- information-retrieval
+related:
+- dense-retrieval-for-rag
+- hybrid-retrieval-patterns
+- query-rewriting-for-retrieval
+prerequisites:
+- information-retrieval
+- tf-idf
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Sparse Retrieval BM25
+  body: Sparse retrieval with BM25 (Best Match 25) is an information retrieval method
+    based on term frequency-inverse document frequency (TF-IDF) statistics, augmented
+    with document length normalisation. BM25 scores documents by the TF-IDF relevance
+    of the query terms that appear in the document, with diminishing returns for term
+    frequency and normalisation for document length, and has been the dominant lexical
+    retrieval baseline in information retrieval for decades. In RAG systems, BM25
+    serves as either the primary retrieval mechanism (in resource-constrained or latency-sensitive
+    deployments) or as a component in hybrid retrieval systems where its lexical matching
+    precision complements the semantic coverage of dense retrieval.
+- type: key-claim
+  title: Key claim about Sparse Retrieval BM25
+  body: BM25 remains a competitive baseline for RAG retrieval on tasks where queries
+    contain specific technical terms, proper nouns, or exact phrases that need to
+    be matched in retrieved documents — dense retrieval systems consistently underperform
+    BM25 on these query types because the embedding space collapses lexically distinct
+    but topically related terms into similar representations, while BM25's exact term
+    matching provides precision that dense retrieval cannot; this failure mode is
+    particularly pronounced for queries about rare entities or domain-specific terminology
+    not well-represented in the embedding model's training data.
+- type: warning
+  title: Common pitfall regarding Sparse Retrieval BM25
+  body: BM25 retrieval for RAG requires effective document tokenisation and preprocessing
+    to achieve its stated performance — poor tokenisation choices (failing to handle
+    compound words, technical notation, or domain-specific abbreviations) significantly
+    degrade BM25 performance, and the stopword lists and stemming algorithms from
+    general information retrieval settings may be inappropriate for domain-specific
+    corpora; BM25 performance should be validated specifically on the target domain
+    corpus rather than assumed to match published benchmarks from general-domain evaluations.

@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-06-evaluation-benchmarking",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-06-evaluation-benchmarking.md",
+    "notes": "Fifteen concepts covering LLM evaluation methodology and benchmarking\npractices. Spans benchmark contamination, train-test leakage, dynamic\nbenchmarking, adversarial benchmark construction, human vs. LLM eval\nagreement, inter-annotator agreement, reference-free evaluation,\nrubric-based evaluation, Likert-scale evaluation, pairwise preference\nevaluation, win-rate metrics, evaluation prompt design, LLM evaluator\nbias, G-Eval scoring, and Prometheus evaluation models. Batch 02 of the\nprompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-06-evaluation-benchmarking",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-06-evaluation-benchmarking"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Benchmark Contamination",
+      "kebab": "benchmark-contamination",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/benchmark-contamination.yaml",
+      "expected_seed_filename": "benchmark-contamination-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Train-Test Leakage in LLMs",
+      "kebab": "train-test-leakage-in-llms",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/train-test-leakage-in-llms.yaml",
+      "expected_seed_filename": "train-test-leakage-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Dynamic Benchmarking",
+      "kebab": "dynamic-benchmarking",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/dynamic-benchmarking.yaml",
+      "expected_seed_filename": "dynamic-benchmarking-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Adversarial Benchmark Construction",
+      "kebab": "adversarial-benchmark-construction",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/adversarial-benchmark-construction.yaml",
+      "expected_seed_filename": "adversarial-benchmark-construction-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Human vs. LLM Eval Agreement",
+      "kebab": "human-vs-llm-eval-agreement",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/human-vs-llm-eval-agreement.yaml",
+      "expected_seed_filename": "human-vs-llm-eval-agreement-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Inter-Annotator Agreement in Evals",
+      "kebab": "inter-annotator-agreement-in-evals",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/inter-annotator-agreement-in-evals.yaml",
+      "expected_seed_filename": "inter-annotator-agreement-in-evals-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Reference-Free Evaluation",
+      "kebab": "reference-free-evaluation",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/reference-free-evaluation.yaml",
+      "expected_seed_filename": "reference-free-evaluation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Rubric-Based LLM Evaluation",
+      "kebab": "rubric-based-llm-evaluation",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/rubric-based-llm-evaluation.yaml",
+      "expected_seed_filename": "rubric-based-llm-evaluation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Likert-Scale Prompt Evaluation",
+      "kebab": "likert-scale-prompt-evaluation",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/likert-scale-prompt-evaluation.yaml",
+      "expected_seed_filename": "likert-scale-prompt-evaluation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Pairwise Preference Evaluation",
+      "kebab": "pairwise-preference-evaluation",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/pairwise-preference-evaluation.yaml",
+      "expected_seed_filename": "pairwise-preference-evaluation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Win-Rate as Evaluation Metric",
+      "kebab": "win-rate-as-evaluation-metric",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/win-rate-as-evaluation-metric.yaml",
+      "expected_seed_filename": "win-rate-as-evaluation-metric-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Evaluation Prompt Design",
+      "kebab": "evaluation-prompt-design",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/evaluation-prompt-design.yaml",
+      "expected_seed_filename": "evaluation-prompt-design-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "LLM Evaluator Bias",
+      "kebab": "llm-evaluator-bias",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/llm-evaluator-bias.yaml",
+      "expected_seed_filename": "llm-evaluator-bias-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "G-Eval Scoring Methodology",
+      "kebab": "g-eval-scoring-methodology",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/g-eval-scoring-methodology.yaml",
+      "expected_seed_filename": "g-eval-scoring-methodology-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Prometheus Evaluation Model",
+      "kebab": "prometheus-evaluation-model",
+      "brief_path": "briefs/b02-06-evaluation-benchmarking/prometheus-evaluation-model.yaml",
+      "expected_seed_filename": "prometheus-evaluation-model-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

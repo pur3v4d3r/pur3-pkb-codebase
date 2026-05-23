@@ -1,0 +1,50 @@
+concept: Coreference Resolution Prompting
+domain: knowledge-representation
+secondary_domains:
+- natural-language-processing
+- discourse-analysis
+- prompt-engineering
+aliases:
+- anaphora resolution prompting
+- co-reference resolution in LLMs
+- pronoun disambiguation prompting
+broader:
+- prompt-engineering
+- natural-language-processing
+related:
+- entity-linking-in-prompts
+- semantic-grounding-in-llms
+- dialogue-state-tracking-prompts
+prerequisites:
+- coreference-resolution
+- natural-language-processing
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Coreference Resolution Prompting
+  body: 'Coreference resolution prompting is the prompting technique of instructing
+    a language model to identify and resolve co-referential mentions — pronouns, definite
+    descriptions, demonstratives, and zero anaphora — within a text, attributing each
+    mention to its correct antecedent entity or event. In the context of structured
+    information extraction and question answering, coreference resolution is a prerequisite
+    for correct fact attribution: a model that fails to resolve "he" to the correct
+    antecedent in a multi-sentence passage will make incorrect attributions about
+    entity properties. The prompting strategy can either request the model to perform
+    coreference resolution as an explicit reasoning step before answering or use chain-of-thought
+    formatting to surface the resolution decisions for verification.'
+- type: key-claim
+  title: Key claim about Coreference Resolution Prompting
+  body: Coreference resolution prompting as an explicit intermediate step in information
+    extraction pipelines reduces attribution errors in multi-entity passages by approximately
+    the same margin as adding dedicated coreference resolver pre-processing, because
+    instruction-tuned LLMs can perform reliable coreference resolution when explicitly
+    asked, but consistently fail to do so implicitly when the resolution is a prerequisite
+    for a downstream task rather than the primary task.
+- type: warning
+  title: Common pitfall regarding Coreference Resolution Prompting
+  body: LLM-based coreference resolution degrades sharply for distant anaphora — mentions
+    separated by many intervening sentences or complex syntactic structures — and
+    for zero anaphora in pro-drop languages; prompting strategies that assume robust
+    LLM coreference ability will generate subtly incorrect fact attributions in long-document
+    processing pipelines without any surface-level signal of failure.

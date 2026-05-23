@@ -1,0 +1,51 @@
+concept: Inductive Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- epistemology
+- cognitive-science
+- large-language-models
+aliases:
+- pattern generalisation in LLMs
+- inductive inference prompting
+- rule induction in LLMs
+broader:
+- reasoning-in-llms
+related:
+- deductive-reasoning-chains
+- abductive-reasoning-in-llms
+- few-shot-prompting
+- in-context-learning-as-meta-learning
+prerequisites:
+- large-language-models
+- inductive-inference
+- epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Inductive Reasoning in LLMs
+  body: 'Inductive reasoning in LLMs is the capacity to generalise from specific instances
+    to general rules or patterns — to observe multiple examples sharing a common property
+    and infer a rule that applies beyond the observed cases. In the prompting context,
+    inductive reasoning is at the core of few-shot in-context learning: the model
+    observes input-output pairs and induces a task rule that it applies to novel inputs.
+    LLMs are extraordinarily capable at certain forms of induction (pattern recognition
+    in structured sequences, linguistic rule inference from examples) but are biased
+    by the frequency of rules in the training distribution and by the surface form
+    of the examples provided.'
+- type: key-claim
+  title: Key claim about Inductive Reasoning in LLMs
+  body: LLMs perform inductive reasoning primarily through instance-based retrieval
+    of similar training examples rather than explicit rule induction — they infer
+    the task rule by finding the most similar training patterns to the in-context
+    examples and applying those patterns to the test input, which produces accurate
+    generalisation when the task rule is common in training data and fails when the
+    rule is novel or requires abstraction beyond surface-form similarity.
+- type: warning
+  title: Common pitfall regarding Inductive Reasoning in LLMs
+  body: 'The in-context generalisation produced by LLM inductive reasoning is sample-inefficient
+    and format-sensitive in ways that genuine rule induction is not: changing the
+    surface format of examples while preserving the underlying rule can completely
+    disrupt induction, and adding examples that are individually consistent with two
+    conflicting rules produces unstable generalisation that switches between the rules
+    based on recency or frequency effects rather than reliably resolving to the correct
+    rule.'

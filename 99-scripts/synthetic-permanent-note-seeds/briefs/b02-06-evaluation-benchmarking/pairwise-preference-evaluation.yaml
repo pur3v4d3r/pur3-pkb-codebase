@@ -1,0 +1,55 @@
+concept: Pairwise Preference Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- human-evaluation
+- preference-learning
+aliases:
+- preference rating
+- A/B evaluation
+- comparative model evaluation
+broader:
+- llm-evaluation
+- evaluation-methodology
+related:
+- win-rate-as-evaluation-metric
+- likert-scale-prompt-evaluation
+- human-vs-llm-eval-agreement
+prerequisites:
+- llm-evaluation
+- human-evaluation
+- preference-learning
+confidence: high
+callouts:
+- type: definition
+  title: Pairwise Preference Evaluation
+  body: Pairwise preference evaluation is an evaluation methodology in which evaluators
+    are presented with two model outputs for the same input and asked to judge which
+    output is preferred (or whether they are equally good). Pairwise evaluation avoids
+    the absolute calibration problems of Likert-scale evaluation because it requires
+    only a relative judgment, which is cognitively simpler and more reliable. Pairwise
+    preferences are aggregated using tournament-style ranking methods (Elo rating,
+    Bradley-Terry model, Thurstone scaling) to produce global model quality rankings
+    from a collection of pairwise comparisons. Pairwise preference evaluation is the
+    foundation of RLHF training data collection and is used in commercial evaluation
+    frameworks such as Chatbot Arena.
+- type: key-claim
+  title: Key claim about Pairwise Preference Evaluation
+  body: Pairwise preference evaluation produces more reliable model rankings than
+    absolute rating evaluation for the specific use case of comparing two or more
+    models on open-ended generation quality, because relative judgments require only
+    that evaluators distinguish between two specific outputs rather than calibrating
+    against an absolute quality scale, reducing inter-annotator disagreement; however,
+    pairwise evaluation is less suitable than absolute rating evaluation for tracking
+    a single model's quality over time or across domains because it requires a comparison
+    model and cannot produce standalone quality scores.
+- type: warning
+  title: Common pitfall regarding Pairwise Preference Evaluation
+  body: Pairwise preference evaluation results are sensitive to the choice of comparison
+    model — a model that wins most comparisons against a weak baseline may lose most
+    comparisons against a strong baseline, and the reported win rate depends on which
+    comparison model is used; publishing win rates without specifying the comparison
+    model and the comparison model's quality level is uninformative, and win rates
+    against different baselines are not comparable across studies; win rate as a model
+    quality metric is only meaningful relative to a specified and well-characterised
+    comparison model.

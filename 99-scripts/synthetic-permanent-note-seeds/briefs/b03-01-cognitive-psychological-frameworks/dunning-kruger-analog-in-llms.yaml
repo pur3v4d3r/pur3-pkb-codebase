@@ -1,0 +1,59 @@
+concept: Dunning-Kruger Analog in LLMs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- calibration
+- ai-safety
+aliases:
+- overconfidence-competence mismatch in LLMs
+- metacognitive miscalibration in AI
+- illusory competence in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- calibration-in-llms
+- large-language-models
+related:
+- overconfidence-in-llm-outputs
+- verbalized-uncertainty
+- calibration-emergence-in-scale
+- hallucination-in-llms
+prerequisites:
+- dunning-kruger-effect
+- metacognition
+- calibration-in-machine-learning
+confidence: high
+callouts:
+- type: definition
+  title: Dunning-Kruger Analog in LLMs
+  body: 'The Dunning-Kruger Analog in LLMs refers to the pattern whereby large language
+    models exhibit systematic miscalibration between expressed confidence and actual
+    competence across domains — specifically, confidently generating plausible-seeming
+    but incorrect outputs in domains where training data is sparse, low-quality, or
+    self-contradictory, while exhibiting appropriate uncertainty in domains with dense,
+    high-quality training coverage. This is structurally analogous to the Dunning-Kruger
+    effect, in which human beginners overestimate their competence due to insufficient
+    knowledge to recognise the limits of their knowledge. In LLMs, the mechanism is
+    different — insufficient training data density means the model cannot reliably
+    distinguish between well-supported and poorly-supported claims — but the phenomenological
+    result is the same: confident outputs in areas of greatest weakness.'
+- type: key-claim
+  title: Key claim about Dunning-Kruger Analog in LLMs
+  body: The Dunning-Kruger Analog in LLMs predicts that LLM hallucination rates are
+    highest in domains with sparse training coverage — specialised technical domains,
+    niche historical events, obscure scientific literature, and recent developments
+    post-training-cutoff — precisely the domains where the model has no reliable mechanism
+    to recognise its own knowledge limitations, and where expressed confidence is
+    therefore least informative; this prediction is empirically supported across multiple
+    evaluation studies showing hallucination rates that are systematically higher
+    for low-frequency topic areas than for well-represented training domains.
+- type: warning
+  title: Common pitfall regarding Dunning-Kruger Analog in LLMs
+  body: The Dunning-Kruger Analog in LLMs is not improved by simply instructing the
+    model to "say when you don't know" — this meta-instruction temporarily increases
+    hedging behaviour but does not improve the model's ability to reliably distinguish
+    known from unknown content, because the limitation is in the model's latent knowledge
+    of its own knowledge rather than in its willingness to express uncertainty; robust
+    calibration requires retrieval augmentation, uncertainty quantification at inference
+    time, or domain-specific confidence calibration probes, not prompt-level uncertainty
+    instructions.

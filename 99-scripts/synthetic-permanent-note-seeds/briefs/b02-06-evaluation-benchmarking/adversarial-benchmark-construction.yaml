@@ -1,0 +1,56 @@
+concept: Adversarial Benchmark Construction
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- adversarial-evaluation
+- red-teaming
+aliases:
+- adversarial evaluation design
+- targeted failure benchmark
+- challenge dataset construction
+broader:
+- dynamic-benchmarking
+- llm-evaluation
+related:
+- dynamic-benchmarking
+- benchmark-contamination
+- adversarial-prompt-robustness
+prerequisites:
+- benchmark-evaluation
+- adversarial-machine-learning
+- llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Adversarial Benchmark Construction
+  body: 'Adversarial benchmark construction is the practice of deliberately designing
+    evaluation tasks that target known or suspected model weaknesses, exploring edge
+    cases, failure modes, and capability boundaries rather than measuring average-case
+    performance on representative task instances. Adversarial benchmarks are constructed
+    through: human annotation of failure cases observed in model outputs, automated
+    probing using perturbation methods, red-team exercises where annotators attempt
+    to construct challenging examples, and systematic capability boundary testing
+    using formally generated instances at difficulty extremes. Adversarial benchmarks
+    are valuable for identifying specific weaknesses that average-case benchmarks
+    do not capture, but their adversarial design means they are not valid measures
+    of average-case capability.'
+- type: key-claim
+  title: Key claim about Adversarial Benchmark Construction
+  body: Adversarial benchmark construction reveals model weaknesses that are invisible
+    in average-case evaluation but are practically significant — models that achieve
+    high accuracy on standard benchmarks consistently show systematic failures on
+    adversarially constructed examples targeting specific linguistic phenomena (negation,
+    presupposition, quantifier scope), reasoning patterns (multi-hop chains beyond
+    a certain depth), and knowledge boundaries (queries at the edge of training data
+    coverage), demonstrating that high average-case benchmark performance can coexist
+    with systematic capability gaps that matter in deployment.
+- type: warning
+  title: Common pitfall regarding Adversarial Benchmark Construction
+  body: Adversarial benchmarks lose their diagnostic value after publication because
+    they become contamination targets — once a benchmark's failure examples are published,
+    future model versions can be specifically trained on adversarial examples from
+    that benchmark, eliminating the weakness being measured without genuinely improving
+    the underlying capability; adversarial benchmark results should be interpreted
+    as measuring capability at the time of evaluation rather than as stable capability
+    assessments, and new adversarial probes should be constructed for each evaluation
+    cycle.

@@ -1,0 +1,63 @@
+concept: Constitutional AI Data Pipeline
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- ai-safety
+- training-dynamics
+- rlhf
+aliases:
+- CAI data pipeline
+- constitutional AI training
+- RLAIF with constitutional principles
+broader:
+- training-dynamics-and-data-pipelines
+- ai-safety
+- rlhf
+- large-language-models
+related:
+- rlaif-rl-from-ai-feedback
+- iterative-preference-learning
+- synthetic-data-generation-for-training
+- context-distillation-training
+prerequisites:
+- rlhf
+- ai-safety
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Constitutional AI Data Pipeline
+  body: 'The Constitutional AI Data Pipeline refers to the training data generation
+    and model alignment methodology developed by Anthropic that uses a set of explicit
+    principles (a "constitution") to generate preference training data through AI
+    self-critique and revision, replacing or supplementing human annotation of model
+    outputs. The CAI pipeline proceeds in two stages: (1) a supervised learning stage
+    where the model generates responses to harmful prompts, critiques them against
+    constitutional principles, and revises them — generating self-critiqued revision
+    pairs used for supervised fine-tuning; (2) a reinforcement learning stage where
+    a preference model trained on AI-labelled preference data (RLAIF) is used as the
+    reward model for RL fine-tuning, encoding constitutional principles as the reward
+    signal rather than relying solely on human preferences.'
+- type: key-claim
+  title: Key claim about Constitutional AI Data Pipeline
+  body: The Constitutional AI Data Pipeline produces models with better calibrated
+    refusal behaviour than RLHF alone — controlled comparisons between CAI-trained
+    and standard RLHF-trained models show that CAI produces models that refuse genuinely
+    harmful requests at higher rates while being less likely to over-refuse benign
+    requests that superficially resemble harmful ones, because constitutional principles
+    provide explicit guidance that distinguishes harmful from harmless requests; this
+    improved calibration reflects the constitutional principles' capacity to encode
+    the rationale for refusal decisions in a way that produces more nuanced and principled
+    refusal behaviour than human feedback preferences.
+- type: warning
+  title: Common pitfall regarding Constitutional AI Data Pipeline
+  body: The Constitutional AI Data Pipeline's effectiveness depends critically on
+    the quality and completeness of the constitutional principles — incomplete constitutions
+    (missing important harmful behaviours), ambiguous principles (that the model interprets
+    inconsistently), and principles that conflict (producing contradictory guidance
+    for some inputs) reduce the calibration quality of CAI-trained models; additionally,
+    CAI principles encode the values and priorities of the constitution authors, and
+    constitutional bias (e.g., over-restriction of political or controversial content
+    beyond safety requirements) will be amplified through the training pipeline in
+    ways that are difficult to detect through standard evaluation.

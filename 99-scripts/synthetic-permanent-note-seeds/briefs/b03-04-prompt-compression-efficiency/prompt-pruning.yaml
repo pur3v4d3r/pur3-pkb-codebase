@@ -1,0 +1,58 @@
+concept: Prompt Pruning
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- information-retrieval
+aliases:
+- prompt content selection
+- prompt element removal
+- unnecessary context elimination
+broader:
+- prompt-compression-and-efficiency
+- prompt-distillation
+- prompt-engineering
+related:
+- prompt-distillation
+- selective-context-technique
+- token-efficient-prompting
+- compressive-context-management
+prerequisites:
+- prompt-engineering
+- large-language-models
+- information-theory
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Pruning
+  body: Prompt Pruning refers to the systematic removal of elements from a prompt
+    that are identified as unnecessary for the target task performance — including
+    redundant instructions, irrelevant context, over-specified constraints, and verbose
+    preamble — with the goal of reducing token count without degrading output quality.
+    Prompt pruning can be performed manually through iterative ablation testing (removing
+    elements and measuring quality impact), automatically through relevance scoring
+    of prompt segments (using a separate model or heuristic to score each segment's
+    relevance to the task), or through structural analysis that identifies and removes
+    standard boilerplate patterns. Prompt pruning differs from prompt distillation
+    in that pruning removes existing content without transformation, while distillation
+    may rephrase and restructure content to achieve equivalent information in fewer
+    tokens.
+- type: key-claim
+  title: Key claim about Prompt Pruning
+  body: Prompt Pruning via systematic ablation testing consistently reveals that production
+    prompts accumulated over time contain substantial unnecessary content — retrospective
+    ablation studies of production prompts show that 20–50% of prompt tokens can typically
+    be removed without measurable output quality degradation, because prompts are
+    often constructed additively (adding fixes for each observed failure) without
+    systematically removing previously added content that addressed problems no longer
+    relevant to the current use case; regular prompt pruning audits of production
+    prompts provide token cost reductions proportional to prompt accumulation history.
+- type: warning
+  title: Common pitfall regarding Prompt Pruning
+  body: Prompt Pruning by manual ablation on a limited evaluation set can produce
+    over-pruned prompts that appear equivalent on the evaluation set but fail on production
+    long-tail cases that relied on content pruned as apparently redundant — the content
+    most likely to appear redundant on common cases is often the content most important
+    for rare edge cases; robust prompt pruning requires comprehensive evaluation across
+    the full task distribution, including low-frequency edge cases, before accepting
+    any pruning decision as production-safe.

@@ -1,0 +1,59 @@
+concept: Self-Play Data Generation
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- reinforcement-learning
+- training-dynamics
+aliases:
+- self-play training data
+- adversarial self-improvement
+- LLM self-play for capability
+broader:
+- training-dynamics-and-data-pipelines
+- reinforcement-learning
+- large-language-models
+related:
+- synthetic-data-generation-for-training
+- rlaif-rl-from-ai-feedback
+- iterative-preference-learning
+- constitutional-ai-data-pipeline
+prerequisites:
+- reinforcement-learning
+- game-theory
+- machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Self-Play Data Generation
+  body: Self-Play Data Generation refers to the technique of using a language model
+    to generate both sides of an interaction (questions and answers, critic and responder,
+    opponent and proposer) to create training data that progressively challenges the
+    model's current capabilities — analogous to game-playing self-play (AlphaGo, AlphaZero)
+    where a model improves by playing against itself. In the LLM context, self-play
+    is used to generate adversarial prompts that identify capability boundaries, to
+    generate debate data (one model argues both sides), to create evaluation challenges,
+    and to bootstrap preference training data by having the model generate and evaluate
+    multiple response candidates. Self-play data generation enables capability improvement
+    without human annotation by generating challenges at the current capability frontier.
+- type: key-claim
+  title: Key claim about Self-Play Data Generation
+  body: Self-Play Data Generation enables capability bootstrapping beyond the initial
+    model's demonstrated knowledge — self-play methods where an LLM generates problems
+    and then attempts to solve them, with successful solutions used as training data
+    (STaR, Quiet-STaR), have demonstrated that models can learn to solve problem types
+    they initially fail on by bootstrapping from problems where they occasionally
+    succeed; this capability bootstrapping property makes self-play data generation
+    a powerful mechanism for extending LLM capabilities into domains where human annotation
+    is scarce or the initial model has only marginal capability.
+- type: warning
+  title: Common pitfall regarding Self-Play Data Generation
+  body: Self-Play Data Generation for capabilities is limited by the model's current
+    capability ceiling — self-play can only generate training data that the model
+    can produce and evaluate, so capabilities genuinely beyond the model's current
+    reach cannot be bootstrapped through self-play without external grounding (verified
+    solutions, external rewards); self-play that generates both questions and purported
+    answers without external verification of answer correctness will reinforce existing
+    model reasoning patterns including errors, potentially amplifying systematic mistakes
+    rather than correcting them.

@@ -1,0 +1,53 @@
+concept: Analogical Transfer in LLMs
+domain: knowledge-representation
+secondary_domains:
+- cognitive-science
+- learning-theory
+- large-language-models
+aliases:
+- analogical reasoning in LLMs
+- structure mapping in language models
+- analogical inference prompting
+broader:
+- reasoning-in-llms
+- commonsense-reasoning-in-llms
+related:
+- inductive-reasoning-in-llms
+- few-shot-emergent-generalization
+- chain-of-thought-prompting
+- semantic-grounding-in-llms
+prerequisites:
+- large-language-models
+- analogical-reasoning
+- structure-mapping-theory
+confidence: high
+callouts:
+- type: definition
+  title: Analogical Transfer in LLMs
+  body: Analogical transfer in LLMs is the capacity to recognise structural similarity
+    between a source domain with a known solution and a target domain with an unknown
+    problem, and to adapt the source solution to the target by mapping corresponding
+    structural elements. A high-performing analogical system identifies that the deep
+    relational structure of the two domains is isomorphic, not merely that surface
+    features are similar, and generates a target solution that respects the structural
+    constraints of the target domain. LLMs show impressive analogical ability on word-analogy
+    tasks and explicit A:B::C:? formats but struggle with multi-relational structure
+    mapping across complex scenarios where the relational mapping is not lexically
+    cued.
+- type: key-claim
+  title: Key claim about Analogical Transfer in LLMs
+  body: LLM analogical transfer is primarily driven by surface similarity and lexical
+    overlap between source and target domains rather than by deep structural alignment
+    — models achieve high performance on analogical reasoning benchmarks by exploiting
+    co-occurrence patterns between analogical pairs in training data, but fail on
+    novel analogies where the structural isomorphism must be discovered rather than
+    recalled, confirming that LLM analogical ability is a form of sophisticated retrieval
+    rather than the relational abstraction that characterises human analogical reasoning.
+- type: warning
+  title: Common pitfall regarding Analogical Transfer in LLMs
+  body: Prompting LLMs with analogical instructions ("this problem is like X, solve
+    it the same way") can introduce analogical interference — if the source analogy
+    is imperfect, the model will import incorrect structural mappings from the source
+    that corrupt the target solution; analogical prompting requires explicit verification
+    that the structural mapping between source and target is valid for the specific
+    aspect of the problem being transferred.

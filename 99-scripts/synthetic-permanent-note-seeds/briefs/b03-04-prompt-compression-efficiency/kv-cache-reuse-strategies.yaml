@@ -1,0 +1,59 @@
+concept: KV Cache Reuse Strategies
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- inference-optimization
+- systems-ml
+- efficiency
+aliases:
+- key-value cache sharing
+- prompt KV caching
+- prefix caching in transformers
+broader:
+- prompt-compression-and-efficiency
+- inference-optimization
+- large-language-models
+related:
+- in-context-compression
+- prompt-batching-patterns
+- latency-aware-prompt-design
+- streaming-output-management
+prerequisites:
+- transformer-architecture
+- attention-mechanism
+- inference-optimization
+confidence: high
+callouts:
+- type: definition
+  title: KV Cache Reuse Strategies
+  body: KV Cache Reuse Strategies refer to techniques for sharing and reusing the
+    key-value attention cache computed for common prompt prefixes across multiple
+    inference requests, eliminating redundant computation for repeated prompt components
+    in high-volume LLM deployments. In transformer inference, computing the attention
+    key-value matrices for the input prompt is computationally expensive; when multiple
+    requests share a common system prompt, few-shot example prefix, or document context,
+    reusing the pre-computed KV cache for the shared prefix avoids redundant computation
+    for each request. KV cache reuse implementations include prefix caching (storing
+    and reusing KV caches for exact prefix matches), semantic caching (reusing caches
+    for approximately similar prefixes), and shared attention prefixes (architectural
+    designs that explicitly support prefix parameter sharing).
+- type: key-claim
+  title: Key claim about KV Cache Reuse Strategies
+  body: KV Cache Reuse Strategies produce linear reduction in time-to-first-token
+    latency proportional to the fraction of the prompt that is shared across requests
+    — in deployments where a long system prompt or document context constitutes 70–80%
+    of the total prompt tokens and is shared across many user queries, prefix caching
+    eliminates 70–80% of the prompt processing computation per request, reducing latency
+    and cost proportionally; this makes KV cache reuse one of the highest-return optimisation
+    strategies for applications with long shared prompt prefixes, such as RAG systems
+    that share retrieved document context or applications with long system prompts.
+- type: warning
+  title: Common pitfall regarding KV Cache Reuse Strategies
+  body: KV Cache Reuse Strategies introduce cache invalidation complexity and potential
+    cache poisoning risks — stale cached KV states from outdated system prompts or
+    document contexts will silently produce incorrect outputs if the cache is not
+    invalidated when the shared prefix is updated, and in multi-tenant deployments,
+    cache boundary bugs can cause cross-tenant KV cache contamination; KV cache reuse
+    implementations must include robust cache invalidation policies, strict cache
+    key management, and security isolation between tenant caches to prevent both staleness
+    errors and cross-tenant information leakage.

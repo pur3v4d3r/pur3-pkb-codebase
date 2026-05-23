@@ -1,0 +1,55 @@
+concept: Capability Elicitation Prompting
+domain: large-language-models
+secondary_domains:
+- prompt-engineering
+- large-language-models
+- evaluation
+aliases:
+- prompt-based capability elicitation
+- latent capability prompting
+- activation prompting
+broader:
+- emergent-prompting-capability
+- prompt-engineering
+related:
+- latent-capability-unlocking
+- chain-of-thought-emergence
+- emergent-prompting-capability
+- zero-shot-generalisation-mechanisms
+prerequisites:
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Capability Elicitation Prompting
+  body: Capability elicitation prompting is the practice of designing prompts specifically
+    to reveal capabilities that are present in a model's parameters but not expressed
+    under standard prompting conditions. Elicitation techniques include role prompting
+    that activates expert knowledge frames ("You are an expert in X"), chain-of-thought
+    framing that activates deliberative reasoning patterns, step-by-step decomposition
+    that activates subgoal-following behaviour, explicit meta-prompting ("Think about
+    what type of problem this is before answering"), and format scaffolding that provides
+    structural cues matching the internal representation of the target capability.
+    Capability elicitation is important for fair model evaluation and for maximising
+    the practical utility of deployed models.
+- type: key-claim
+  title: Key claim about Capability Elicitation Prompting
+  body: Capability elicitation prompting demonstrates that standard prompt evaluation
+    benchmarks systematically underestimate model capability — the same model with
+    sophisticated elicitation prompting can outperform a larger model evaluated with
+    a naive prompt on a wide range of reasoning and knowledge tasks, indicating that
+    reported capability benchmarks measure the joint function of model capability
+    and elicitation prompt quality rather than model capability alone; separating
+    these two factors requires standardised elicitation protocols applied uniformly
+    across evaluated models.
+- type: warning
+  title: Common pitfall regarding Capability Elicitation Prompting
+  body: Capability elicitation can produce a misleading picture of model reliability
+    — a capability that requires elaborate elicitation to express is not as reliably
+    accessible in deployment as the elicitation benchmark suggests, because real users
+    will not always apply the specific elicitation technique that works best, and
+    the model's response to an elicited prompt may be more fragile (prompt-brittleness-sensitive)
+    than its response to a standard prompt; elicitation-based capability measurements
+    should be reported alongside measurements of the capability's accessibility under
+    typical user prompt conditions.

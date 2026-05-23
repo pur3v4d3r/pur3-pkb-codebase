@@ -1,0 +1,56 @@
+concept: Knowledge Conflict in RAG
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- factual-accuracy
+- knowledge-integration
+aliases:
+- context-parameter conflict
+- retrieval-memory conflict
+- conflicting knowledge in RAG
+broader:
+- retrieval-augmented-generation
+- factual-accuracy
+related:
+- retrieval-faithfulness
+- corrective-rag-pipeline
+- self-rag-selective-retrieval
+prerequisites:
+- retrieval-augmented-generation
+- factual-accuracy
+- hallucination
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Conflict in RAG
+  body: 'Knowledge conflict in RAG refers to the situation in which the information
+    retrieved from the knowledge base contradicts the factual knowledge stored in
+    the model''s parameters — the retrieved context says one thing and the model''s
+    internal representation says another — requiring the model to adjudicate between
+    two conflicting information sources when generating its response. Knowledge conflicts
+    arise from: temporal inconsistency (the model''s training knowledge is outdated,
+    the retrieved knowledge is current), domain specificity (the retrieved document
+    contains domain-authoritative information that conflicts with the model''s more
+    general parametric representation), and error (either the retrieved document or
+    the model''s parametric knowledge contains an incorrect fact).'
+- type: key-claim
+  title: Key claim about Knowledge Conflict in RAG
+  body: LLMs consistently show a context-priority bias in knowledge conflicts — when
+    the retrieved context explicitly states information that contradicts the model's
+    parametric knowledge, most instruction-tuned models prioritise the retrieved context
+    over parametric knowledge when the conflict is clearly stated in the retrieved
+    passage, but resolve conflicts in favour of parametric knowledge when the retrieved
+    passage is indirect or requires inference; this asymmetric conflict resolution
+    reflects the instruction-tuning distribution rather than a principled information-priority
+    mechanism, and the model's conflict resolution behaviour can be shifted substantially
+    through explicit prompting instructions about information priority.
+- type: warning
+  title: Common pitfall regarding Knowledge Conflict in RAG
+  body: Knowledge conflict detection is a prerequisite for reliable knowledge conflict
+    resolution, but detecting conflicts requires the model to have reliable access
+    to its own parametric knowledge about the conflicting claim — a model with incorrect
+    or uncertain parametric knowledge may fail to recognise that the retrieved context
+    conflicts with parametric knowledge, silently defaulting to one source without
+    acknowledging the conflict; production RAG systems should implement explicit conflict
+    detection as a separate verification step rather than relying on the generator
+    to implicitly detect and resolve all conflicts correctly.

@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-03-attention-mechanisms",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-03-attention-mechanisms.md",
+    "notes": "Fifteen concepts covering transformer attention mechanisms and their\nvariants. Spans multi-head attention, cross-attention, self-attention\npatterns, head specialization, induction and copy-suppression heads,\nattention sinks, head pruning, positional encoding variants (learned,\nRoPE, ALiBi), FlashAttention, grouped-query attention, sliding-window\nattention, and sparse attention patterns. Batch 02 of the\nprompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-03-attention-mechanisms",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-03-attention-mechanisms"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Multi-Head Attention Mechanics",
+      "kebab": "multi-head-attention-mechanics",
+      "brief_path": "briefs/b02-03-attention-mechanisms/multi-head-attention-mechanics.yaml",
+      "expected_seed_filename": "multi-head-attention-mechanics-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Cross-Attention in Transformers",
+      "kebab": "cross-attention-in-transformers",
+      "brief_path": "briefs/b02-03-attention-mechanisms/cross-attention-in-transformers.yaml",
+      "expected_seed_filename": "cross-attention-in-transformers-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Self-Attention Patterns",
+      "kebab": "self-attention-patterns",
+      "brief_path": "briefs/b02-03-attention-mechanisms/self-attention-patterns.yaml",
+      "expected_seed_filename": "self-attention-patterns-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Attention Head Specialization",
+      "kebab": "attention-head-specialization",
+      "brief_path": "briefs/b02-03-attention-mechanisms/attention-head-specialization.yaml",
+      "expected_seed_filename": "attention-head-specialization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Induction Heads",
+      "kebab": "induction-heads",
+      "brief_path": "briefs/b02-03-attention-mechanisms/induction-heads.yaml",
+      "expected_seed_filename": "induction-heads-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Copy-Suppression Heads",
+      "kebab": "copy-suppression-heads",
+      "brief_path": "briefs/b02-03-attention-mechanisms/copy-suppression-heads.yaml",
+      "expected_seed_filename": "copy-suppression-heads-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Attention Sinks",
+      "kebab": "attention-sinks",
+      "brief_path": "briefs/b02-03-attention-mechanisms/attention-sinks.yaml",
+      "expected_seed_filename": "attention-sinks-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Head Pruning Effects",
+      "kebab": "head-pruning-effects",
+      "brief_path": "briefs/b02-03-attention-mechanisms/head-pruning-effects.yaml",
+      "expected_seed_filename": "head-pruning-effects-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Positional Encoding Variants",
+      "kebab": "positional-encoding-variants",
+      "brief_path": "briefs/b02-03-attention-mechanisms/positional-encoding-variants.yaml",
+      "expected_seed_filename": "positional-encoding-variants-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Rotary Position Embedding",
+      "kebab": "rotary-position-embedding",
+      "brief_path": "briefs/b02-03-attention-mechanisms/rotary-position-embedding.yaml",
+      "expected_seed_filename": "rotary-position-embedding-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "ALiBi Positional Encoding",
+      "kebab": "alibi-positional-encoding",
+      "brief_path": "briefs/b02-03-attention-mechanisms/alibi-positional-encoding.yaml",
+      "expected_seed_filename": "alibi-positional-encoding-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Flash Attention Algorithm",
+      "kebab": "flash-attention-algorithm",
+      "brief_path": "briefs/b02-03-attention-mechanisms/flash-attention-algorithm.yaml",
+      "expected_seed_filename": "flash-attention-algorithm-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Grouped-Query Attention",
+      "kebab": "grouped-query-attention",
+      "brief_path": "briefs/b02-03-attention-mechanisms/grouped-query-attention.yaml",
+      "expected_seed_filename": "grouped-query-attention-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Sliding Window Attention",
+      "kebab": "sliding-window-attention",
+      "brief_path": "briefs/b02-03-attention-mechanisms/sliding-window-attention.yaml",
+      "expected_seed_filename": "sliding-window-attention-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Sparse Attention Patterns",
+      "kebab": "sparse-attention-patterns",
+      "brief_path": "briefs/b02-03-attention-mechanisms/sparse-attention-patterns.yaml",
+      "expected_seed_filename": "sparse-attention-patterns-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

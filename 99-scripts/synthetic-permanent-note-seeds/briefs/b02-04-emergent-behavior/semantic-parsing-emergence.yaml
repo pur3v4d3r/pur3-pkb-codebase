@@ -1,0 +1,55 @@
+concept: Semantic Parsing Emergence
+domain: large-language-models
+secondary_domains:
+- natural-language-processing
+- large-language-models
+- program-synthesis
+aliases:
+- semantic parsing capability emergence
+- structured prediction emergence
+- code generation emergence
+broader:
+- emergent-prompting-capability
+- natural-language-processing
+related:
+- chain-of-thought-emergence
+- instruction-following-emergence
+- zero-shot-generalisation-mechanisms
+prerequisites:
+- semantic-parsing
+- large-language-models
+- emergent-capabilities
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Parsing Emergence
+  body: Semantic parsing emergence refers to the acquisition by language models of
+    the ability to map natural language utterances to formal structured representations
+    — logical forms, SQL queries, executable code, API calls, or knowledge graph queries
+    — as a function of model scale and instruction tuning. At small scales, models
+    generate plausible-looking but syntactically invalid or semantically incorrect
+    formal representations; at large scales and with instruction tuning, models generate
+    valid, executable formal representations for complex natural language inputs including
+    novel phrasings and compositional queries not present in training data. Semantic
+    parsing emergence is the foundation of tool-using LLM agents and code-generation
+    systems.
+- type: key-claim
+  title: Key claim about Semantic Parsing Emergence
+  body: Semantic parsing emergence in instruction-tuned models occurs through a different
+    mechanism than in task-specific trained parsers — rather than learning a formal
+    grammar of the target representation language explicitly, large models learn to
+    recognise the pragmatic intent of natural language and map it to the formal structure
+    that achieves that intent, a more flexible but less reliably correct approach
+    that excels on in-distribution queries but exhibits systematic failures on queries
+    that violate implicit pragmatic conventions even when the formal representation
+    required is simple.
+- type: warning
+  title: Common pitfall regarding Semantic Parsing Emergence
+  body: Semantic parsing via LLMs produces valid-looking but semantically incorrect
+    formal representations with high confidence in cases where the natural language
+    input is ambiguous or underspecified — an SQL query or API call may be syntactically
+    valid and execute without error while implementing the wrong semantic operation
+    due to scope ambiguity, implicit assumption resolution, or entity linking errors;
+    production semantic parsing systems must include execution validation, result
+    verification, and user confirmation steps rather than treating LLM-generated formal
+    representations as correct by construction.

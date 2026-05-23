@@ -1,0 +1,57 @@
+concept: Arithmetic Emergence Threshold
+domain: large-language-models
+secondary_domains:
+- mathematical-reasoning
+- scaling-laws
+- large-language-models
+aliases:
+- arithmetic capability threshold
+- numerical reasoning emergence
+- math emergence in LLMs
+broader:
+- emergent-prompting-capability
+- mathematical-reasoning
+related:
+- chain-of-thought-emergence
+- scaling-and-capability-emergence
+- capability-elicitation-prompting
+prerequisites:
+- large-language-models
+- arithmetic
+- scaling-laws
+confidence: high
+callouts:
+- type: definition
+  title: Arithmetic Emergence Threshold
+  body: Arithmetic emergence threshold refers to the scale and training condition
+    at which language models transition from near-random performance on arithmetic
+    tasks (multi-digit addition, multiplication, modular arithmetic) to reliable correct
+    performance, a transition that is among the most dramatic and well-documented
+    emergent capability transitions in the scaling literature. Below the threshold,
+    models generate numerically plausible outputs with high confidence but inconsistent
+    correctness; above the threshold, models perform multi-digit arithmetic with near-perfect
+    accuracy when reasoning steps are elicited through chain-of-thought prompting.
+    The threshold is not fixed but depends on the arithmetic task's complexity (number
+    of digits, operation type, carryover structure) and whether chain-of-thought or
+    tool-use augmentation is available.
+- type: key-claim
+  title: Key claim about Arithmetic Emergence Threshold
+  body: The arithmetic emergence threshold is not evidence for qualitatively new computational
+    mechanisms at large scale — rather, it reflects the scale at which the model accumulates
+    sufficient statistical co-occurrence between arithmetic subproblems and their
+    correct intermediate and final results to generalise correctly rather than defaulting
+    to the modal wrong answer; smaller models trained specifically on arithmetic data
+    can achieve above-threshold arithmetic performance, demonstrating that the threshold
+    is a function of the model's data efficiency for arithmetic rather than a fundamental
+    scale-dependent capability.
+- type: warning
+  title: Common pitfall regarding Arithmetic Emergence Threshold
+  body: Arithmetic capability that emerges with scale via chain-of-thought prompting
+    is not robust to distributional shifts in the format or representation of numbers
+    — models may perform well on Arabic numeral arithmetic while failing on the same
+    arithmetic problem stated in word-form ("three hundred and forty-seven plus two
+    hundred and twelve") or in Roman numerals, revealing that arithmetic capability
+    is tied to surface representation rather than generalising to abstract numerical
+    computation; applications requiring reliable arithmetic across representation
+    formats must use tool-augmented approaches rather than relying on intrinsic arithmetic
+    capability.

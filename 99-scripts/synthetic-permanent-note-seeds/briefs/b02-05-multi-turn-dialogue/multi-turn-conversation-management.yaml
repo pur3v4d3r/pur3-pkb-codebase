@@ -1,0 +1,61 @@
+concept: Multi-Turn Conversation Management
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- prompt-engineering
+- large-language-models
+aliases:
+- multi-turn dialogue management
+- conversation state management
+- LLM conversation orchestration
+broader:
+- dialogue-systems
+- prompt-engineering
+narrower:
+- dialogue-state-tracking-prompts
+- conversational-context-compression
+- persona-consistency-across-turns
+related:
+- memory-injection-in-dialogue
+- turn-taking-in-llm-dialogue
+- conversation-summarization-prompts
+prerequisites:
+- large-language-models
+- dialogue-systems
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Multi-Turn Conversation Management
+  body: 'Multi-turn conversation management refers to the strategies and mechanisms
+    used to maintain coherent, contextually appropriate conversation across multiple
+    conversational exchanges between a user and an LLM-based agent. The core challenges
+    include: (1) context window management — determining which conversational history
+    to include, compress, or discard within the model''s context limit; (2) state
+    tracking — maintaining a representation of what has been established, agreed on,
+    or resolved during the conversation; (3) coherence management — ensuring that
+    each response appropriately acknowledges prior context and maintains topic and
+    persona consistency; and (4) goal tracking — monitoring whether conversational
+    sub-goals and the overall dialogue goal are being advanced. Effective multi-turn
+    conversation management requires a combination of prompt design, context compression,
+    memory systems, and conversation state representations that extend beyond what
+    naive concatenation of conversational turns can provide.'
+- type: key-claim
+  title: Key claim about Multi-Turn Conversation Management
+  body: Multi-turn conversation management degrades non-linearly with conversation
+    length — performance is near-optimal for the first 3–5 turns, degrades moderately
+    for 6–15 turns as context accumulates and attention distributes across more tokens,
+    and degrades substantially beyond 20 turns as earlier conversation content falls
+    below the model's effective attention horizon, causing reference resolution failures,
+    goal drift, and persona inconsistency; this degradation makes conversation length
+    management the most important operational variable in long-running LLM dialogue
+    applications.
+- type: warning
+  title: Common pitfall regarding Multi-Turn Conversation Management
+  body: Concatenating the full conversation history without structure or compression
+    is the most common and most problematic multi-turn management strategy — it consumes
+    context window rapidly, treats all past turns as equally relevant regardless of
+    their recency or importance, and fails to provide the structured state representation
+    the model needs to track long-range commitments and topic continuity; production
+    multi-turn systems should use selective history truncation, role-based compression,
+    or explicit state extraction rather than naive history concatenation.

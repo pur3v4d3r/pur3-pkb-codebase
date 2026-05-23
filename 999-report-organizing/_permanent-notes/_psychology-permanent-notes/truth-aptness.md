@@ -19,7 +19,7 @@ subdomains:
   - formal-semantics
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - truth-aptness-synthetic-seed-2026-05-12
@@ -71,8 +71,80 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Truth-Apt Statements Hierarchy**
+> *Follow the hierarchy from general to specific types of truth-apt statements.*
+>
+> ```mermaid
+> graph TD
+>   A[Declarative]
+>   B[Evaluative]
+>   C[Factual]
+>   D[Moral]
+>   E[Aesthetic]
+>   F[Modal]
+>   A -->|Includes| B
+>   B -->|Includes| C
+>   B -->|Includes| D
+>   B -->|Includes| E
+>   B -->|Includes| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Truth-Apt vs Non-Truth-Apt Statements**
+> *Compare the types of statements that are truth-apt with those that are not.*
+>
+> ```mermaid
+> graph TD
+>   A[Declarative]
+>   B[Evaluative]
+>   C[Factual]
+>   D[Moral]
+>   E[Aesthetic]
+>   F[Modal]
+>   G[Commands]
+>   H[Expressions of Attitude]
+>   I[Performatives]
+>   J[Truth-Apt Statements]
+>   K[Non-Truth-Apt Statements]
+>   A -->|Is| J
+>   B -->|Is| J
+>   C -->|Is| J
+>   D -->|Is| J
+>   E -->|Is| J
+>   F -->|Is| J
+>   G -->|Is Not| K
+>   H -->|Is Not| K
+>   I -->|Is Not| K
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Process**
+> *Trace the flow from initial input to final output, distinguishing reflective and reactive thinking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Context Analysis]
+>   C[Evaluation for Truth-Aptness]
+>   D[Reflective Thinking]
+>   E[Reactive Thinking]
+>   F[Output]
+>   A -->|Analyse Context| B
+>   B -->|Evaluate for Truth-Aptness| C
+>   C -->|If Truth-Apt| D
+>   C -->|If Not Truth-Apt| E
+>   D -->|Reflective Output| F
+>   E -->|Reactive Response| F
+> ```
 
 # Truth Aptness
 

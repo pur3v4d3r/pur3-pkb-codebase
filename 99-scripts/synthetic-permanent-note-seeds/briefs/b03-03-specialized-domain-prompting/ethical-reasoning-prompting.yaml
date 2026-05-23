@@ -1,0 +1,62 @@
+concept: Ethical Reasoning Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- applied-ethics
+- moral-philosophy
+- prompt-engineering
+aliases:
+- moral reasoning prompts
+- ethical analysis prompting
+- applied ethics in LLMs
+broader:
+- specialized-domain-prompting
+- ai-ethics
+- prompt-engineering
+related:
+- constitutional-ai-data-pipeline
+- social-desirability-bias-in-llms
+- confirmation-bias-in-chain-of-thought
+- claim-strength-calibration
+prerequisites:
+- moral-philosophy
+- ethical-theory
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Ethical Reasoning Prompting
+  body: Ethical Reasoning Prompting refers to the prompting strategies designed to
+    elicit systematic moral analysis from large language models — applying ethical
+    frameworks (consequentialism, deontology, virtue ethics, contractualism, care
+    ethics) to specific moral dilemmas, policy questions, business decisions, and
+    design choices. Ethical reasoning prompting provides the moral context, stakeholder
+    perspectives, relevant constraints, and applicable ethical frameworks, and guides
+    the model through structured ethical analysis rather than soliciting direct moral
+    verdicts. Effective ethical reasoning prompting is multi-framework (applying multiple
+    ethical theories and comparing conclusions), stakeholder-inclusive (explicitly
+    considering all affected parties), and uncertainty-explicit (acknowledging genuine
+    moral disagreement rather than presenting contested conclusions as settled).
+- type: key-claim
+  title: Key claim about Ethical Reasoning Prompting
+  body: Ethical Reasoning Prompting that requires explicit application of multiple
+    competing ethical frameworks produces more epistemically defensible outputs than
+    single-framework analysis — forcing the model to apply consequentialist, deontological,
+    and virtue-ethical frameworks to the same dilemma and then synthesise across frameworks
+    reveals where ethical frameworks agree (providing stronger grounds for conclusions)
+    and where they diverge (identifying genuine moral uncertainty), producing analysis
+    that appropriately represents moral complexity rather than presenting the single-framework
+    conclusion that reflects the model's RLHF-aligned default framework as if it were
+    a settled ethical verdict.
+- type: warning
+  title: Common pitfall regarding Ethical Reasoning Prompting
+  body: Ethical Reasoning Prompting is subject to the same RLHF-induced biases as
+    all LLM output — models trained on human feedback exhibit systematic tendencies
+    toward the moral positions that human raters found most agreeable, which tends
+    to reflect the social desirability norms and cultural values of the RLHF rater
+    pool rather than carefully reasoned ethical analysis; users should treat LLM ethical
+    reasoning outputs as structured frameworks for human moral deliberation rather
+    than as authoritative ethical verdicts, and should be especially sceptical of
+    LLM ethical conclusions on morally contested questions where the model's output
+    may reflect training-time consensus rather than valid ethical reasoning.

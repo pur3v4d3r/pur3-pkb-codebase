@@ -1,0 +1,61 @@
+concept: Causal Tracing in Transformers
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- causal-inference
+aliases:
+- causal mediation analysis in LLMs
+- activation patching for causal tracing
+- causal scrubbing
+broader:
+- mechanistic-interpretability
+- causal-inference
+- large-language-models
+related:
+- knowledge-localization-in-ffn
+- factual-association-mechanisms
+- path-patching-methodology
+- attention-knockout-analysis
+prerequisites:
+- causal-inference
+- transformer-architecture
+- mechanistic-interpretability
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Causal Tracing in Transformers
+  body: 'Causal Tracing in Transformers refers to the mechanistic interpretability
+    methodology that uses causal intervention experiments (specifically activation
+    patching — replacing specific model activations with those from a counterfactual
+    forward pass) to identify which components of a transformer network are causally
+    responsible for specific model behaviours. Causal tracing, as introduced in the
+    ROME paper (Meng et al. 2022), involves three steps: (1) recording activations
+    for a clean prompt that produces the target behaviour, (2) running a corrupted
+    forward pass that disrupts the target behaviour by corrupting the subject token
+    representations, and (3) restoring specific activations from the clean run to
+    the corrupted run one component at a time to identify which restorations recover
+    the target behaviour. Components whose restoration recovers the behaviour are
+    identified as causally important.'
+- type: key-claim
+  title: Key claim about Causal Tracing in Transformers
+  body: Causal Tracing in Transformers identifies specific layers and module types
+    as causally dominant for different computational functions — causal tracing studies
+    of factual recall in GPT-style models consistently identify a small number of
+    middle-layer MLP modules at the subject token positions as the primary locus of
+    factual association recall, while attention heads in late layers are causally
+    dominant for information routing to the output position; this double-dissociation
+    (MLPs for storage, attention for routing) provides strong mechanistic evidence
+    for a functional modularity hypothesis that early mechanistic interpretability
+    work proposed based on structural analysis alone.
+- type: warning
+  title: Common pitfall regarding Causal Tracing in Transformers
+  body: Causal Tracing in Transformers with activation patching is sensitive to the
+    patch location and patching methodology — patch effects are not always well-localised
+    (patching one component can indirectly affect others due to residual stream dependencies),
+    and what appears to be a causally central component may actually be a conduit
+    for information that originates elsewhere in the network; causal tracing results
+    should be validated across multiple corruptions, multiple patching granularities,
+    and complementary methods (attention knockout, path patching) before mechanistic
+    conclusions about component function are drawn.

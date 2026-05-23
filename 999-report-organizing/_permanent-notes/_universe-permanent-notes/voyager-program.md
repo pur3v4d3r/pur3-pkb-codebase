@@ -18,7 +18,7 @@ subdomains:
   - space-physics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - voyager-program-synthetic-seed-2026-05-14
@@ -66,8 +66,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Voyager Trajectory Overview**
+> *Follow the path of Voyager spacecraft from Earth to interstellar space.*
+>
+> ```mermaid
+> graph TD
+>   A[Earth] --> B[Jupiter]
+>   B --> C[Saturn]
+>   C --> D[Uranus]
+>   D --> E[Neptune]
+>   E --> F[Intergalactic Space]
+> ```
+
+
+> [!abstract] **Diagram 2 — Voyager vs New Horizons Missions**
+> *Compare the mission scopes of Voyager and New Horizons.*
+>
+> ```mermaid
+> classDiagram
+>   class Voyager {
+>     +Flybys: Jupiter, Saturn, Uranus, Neptune
+>     +Data: Gas Giants, Moons, Rings
+>   }
+>   class NewHorizons {
+>     +Target: Pluto, Kuiper Belt Objects
+>     +Data: Dwarf Planets, Comets
+>   }
+> ```
+
+
+> [!abstract] **Diagram 3 — Voyager Mission Phases**
+> *Track the phases of Voyager missions from launch to interstellar space.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Launch
+>   Launch --> FlybyJupiter
+>   FlybyJupiter --> FlybySaturn
+>   FlybySaturn --> FlybyUranus
+>   FlybyUranus --> FlybyNeptune
+>   FlybyNeptune --> IntergalacticSpace
+> ```
 
 # Voyager Program
 

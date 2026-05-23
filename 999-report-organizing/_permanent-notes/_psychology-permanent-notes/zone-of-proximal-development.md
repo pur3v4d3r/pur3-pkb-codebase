@@ -18,7 +18,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - zone-of-proximal-development-synthetic-seed-2026-04-24
@@ -65,8 +65,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — ZPD Structural Overview**
+> *Identify the relationship between independent and supported tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Independent Tasks]
+>   B[Scaffolded Tasks]
+>   C[ZPD]
+>   D[Beyond Reach]
+>   A -->|Mastered| C
+>   C -->|Supported| B
+>   B -->|Challenging| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolding Process Flow**
+> *Follow the stages of scaffolding from initial support to independence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Task]
+>   B[Substantial Support]
+>   C[Reduced Support]
+>   D[Independent Completion]
+>   A -->|Start| B
+>   B -->|Progress| C
+>   C -->|Further Progress| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Adaptive Learning Feedback Loop**
+> *Trace the feedback loop from performance to task adjustment.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant System as S
+>   L->>S: Performs Task
+>   S-->>L: Assess Performance
+>   alt Within ZPD
+>     S-->>L: Adjust Difficulty Up
+>   else Beyond Reach
+>     S-->>L: Provide More Support
+>   end
+> ```
 
 # Zone of Proximal Development
 

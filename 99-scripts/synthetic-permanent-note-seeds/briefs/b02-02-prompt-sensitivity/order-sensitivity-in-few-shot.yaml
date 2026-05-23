@@ -1,0 +1,52 @@
+concept: Order Sensitivity in Few-Shot
+domain: prompt-engineering
+secondary_domains:
+- in-context-learning
+- prompt-engineering
+- large-language-models
+aliases:
+- few-shot example ordering effects
+- demonstration order sensitivity
+- in-context order bias
+broader:
+- prompt-sensitivity
+- few-shot-prompting
+related:
+- label-sensitivity-in-prompting
+- format-sensitivity-in-prompting
+- surface-form-competition
+- primacy-and-recency-effects-in-context
+prerequisites:
+- few-shot-prompting
+- in-context-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Order Sensitivity in Few-Shot
+  body: Order sensitivity in few-shot prompting refers to the documented phenomenon
+    in which the sequence in which demonstrations are presented in a few-shot prompt
+    significantly affects the model's output — both in terms of accuracy and in terms
+    of which output distribution the model selects from. Models display recency bias
+    (over-weighting the last few examples), primacy effects in certain architectures,
+    and strong interactions between example ordering and the model's prior over output
+    labels. The effect is large enough that the same set of examples can produce accuracy
+    variations of 30+ percentage points across orderings, depending on the task and
+    model.
+- type: key-claim
+  title: Key claim about Order Sensitivity in Few-Shot
+  body: Order sensitivity in few-shot prompting is primarily a product of positional
+    attention weighting rather than semantic processing of demonstration content —
+    examples positioned closest to the query in the context receive disproportionate
+    attention weight, biasing the model toward the output patterns present in those
+    proximal examples regardless of whether those examples are the most semantically
+    relevant demonstrations for the specific query, which motivates strategies such
+    as query-conditioned example retrieval and active demonstration reordering.
+- type: warning
+  title: Common pitfall regarding Order Sensitivity in Few-Shot
+  body: Majority of published few-shot prompting results are reported for a single
+    fixed ordering of demonstrations, making it impossible to distinguish task capability
+    from order-luck; rigorous few-shot evaluation requires reporting the mean and
+    variance across multiple random orderings, and the reported ordering should be
+    justified by a selection procedure (e.g., semantic similarity to the test instance)
+    rather than selected as the best of a search over orderings post-hoc.

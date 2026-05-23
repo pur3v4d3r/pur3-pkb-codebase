@@ -1,0 +1,53 @@
+concept: Cross-Encoder Reranking
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- neural-information-retrieval
+- retrieval-augmented-generation
+aliases:
+- reranking
+- cross-encoder scoring
+- pointwise reranking
+broader:
+- retrieval-augmented-generation
+- information-retrieval
+related:
+- dense-retrieval-for-rag
+- late-interaction-retrieval
+- reciprocal-rank-fusion
+prerequisites:
+- information-retrieval
+- neural-information-retrieval
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Cross-Encoder Reranking
+  body: Cross-encoder reranking is a retrieval post-processing step that rescores
+    a set of candidate documents retrieved by a fast first-stage retriever (dense
+    or sparse) using a cross-encoder model that jointly encodes the query and each
+    candidate document together, enabling fine-grained interaction-based relevance
+    scoring. Cross-encoders are slower than bi-encoders (requiring one forward pass
+    per query-document pair rather than one pass per document in an offline index)
+    but more accurate because joint encoding allows the model to detect precise evidence
+    alignment, negation, and contextual relevance. Reranking is applied to the top-k
+    candidates from first-stage retrieval rather than to the full corpus, making its
+    latency acceptable for real-time RAG applications.
+- type: key-claim
+  title: Key claim about Cross-Encoder Reranking
+  body: Cross-encoder reranking is the highest-accuracy retrieval stage available
+    for RAG systems and is essential for tasks requiring precise document selection
+    (factual question answering, citation-based generation) where the first-stage
+    retrieval returns many partially-relevant candidates; the improvement from adding
+    reranking to a dense first-stage retrieval system typically exceeds the improvement
+    achievable by upgrading the first-stage retriever alone, making reranking a higher-priority
+    investment than embedding model upgrade for improving RAG precision.
+- type: warning
+  title: Common pitfall regarding Cross-Encoder Reranking
+  body: Cross-encoder reranking is significantly more expensive than first-stage retrieval
+    in terms of inference latency — scoring k candidates with a cross-encoder requires
+    k separate forward passes, making it 10–100x more expensive per query than first-stage
+    retrieval; the reranking budget (maximum k candidates and cross-encoder model
+    size) must be calibrated against the latency budget, and the retrieval pipeline
+    must be designed with fallback logic for high-traffic periods where reranking
+    latency would exceed acceptable response time bounds.

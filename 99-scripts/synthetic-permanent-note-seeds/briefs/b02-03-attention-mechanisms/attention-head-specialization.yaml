@@ -1,0 +1,57 @@
+concept: Attention Head Specialization
+domain: transformer-architecture
+secondary_domains:
+- mechanistic-interpretability
+- deep-learning
+- natural-language-processing
+aliases:
+- head function specialization
+- attention head roles
+- transformer head diversity
+broader:
+- self-attention-patterns
+- multi-head-attention-mechanics
+narrower:
+- induction-heads
+- copy-suppression-heads
+related:
+- head-pruning-effects
+- self-attention-patterns
+- mechanistic-interpretability
+prerequisites:
+- multi-head-attention-mechanics
+- transformer-architecture
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Attention Head Specialization
+  body: Attention head specialization refers to the empirical phenomenon in which
+    different attention heads within and across transformer layers learn to perform
+    qualitatively distinct computational functions — syntactic heads attending to
+    subject-verb dependencies, positional heads implementing fixed-offset attention
+    to adjacent tokens, semantic heads attending to topically related tokens, induction
+    heads completing repeated subsequences, and copy-suppression heads suppressing
+    the direct copying of source tokens in generation tasks. Head specialization emerges
+    during pretraining without explicit supervision and is remarkably consistent across
+    different models, suggesting that it reflects the natural functional decomposition
+    of the language modelling task rather than an arbitrary solution that training
+    happens to converge on.
+- type: key-claim
+  title: Key claim about Attention Head Specialization
+  body: The degree of attention head specialization scales with model size — larger
+    models develop more highly specialised heads that perform more precise and interpretable
+    functions, while small models tend to develop overlapping and less precise head
+    functions, which explains why mechanistic interpretability findings from small
+    models (e.g., two-layer transformers) do not always transfer cleanly to large
+    models where the same function is performed by a more specialised circuit with
+    different routing properties.
+- type: warning
+  title: Common pitfall regarding Attention Head Specialization
+  body: Identifying head specialization through post-hoc analysis of attention patterns
+    is subject to confirmation bias — researchers typically identify the most interpretable
+    heads and report those as evidence for specialization while failing to characterise
+    the majority of heads that do not correspond to clean interpretable functions;
+    the apparent high degree of specialization in published analyses is partly an
+    artefact of selective reporting rather than a representative picture of the functional
+    organisation of all heads.

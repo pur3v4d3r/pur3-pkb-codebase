@@ -1,0 +1,54 @@
+concept: Latent Capability Unlocking
+domain: large-language-models
+secondary_domains:
+- large-language-models
+- fine-tuning
+- prompt-engineering
+aliases:
+- capability unlocking
+- latent skill activation
+- dormant capability activation
+broader:
+- capability-elicitation-prompting
+- emergent-prompting-capability
+related:
+- capability-elicitation-prompting
+- model-capability-vs-alignment-gap
+- instruction-following-emergence
+prerequisites:
+- large-language-models
+- fine-tuning
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Latent Capability Unlocking
+  body: 'Latent capability unlocking refers to the process of activating capabilities
+    that are present in a model''s pretraining parameters but suppressed or inaccessible
+    under the model''s fine-tuned instruction-following regime. Unlocking can occur
+    through: specialised prompting that bypasses safety filters or task-framing constraints,
+    lightweight fine-tuning (LoRA, QLoRA) on domain-specific data that activates specialised
+    pretraining knowledge, continued pretraining on domain data, and in-context learning
+    from demonstrations that establish the required output regime. The unlocking concept
+    implies that the capacity for the behaviour is stored in the pretrained weights
+    and that fine-tuning serves as a key that either enables or restricts access rather
+    than adding or removing capabilities.'
+- type: key-claim
+  title: Key claim about Latent Capability Unlocking
+  body: Latent capability unlocking via lightweight fine-tuning is disproportionately
+    efficient relative to the number of parameters updated — LoRA fine-tuning with
+    0.1–1% of a model's parameters on domain data consistently achieves capability
+    levels approaching full fine-tuning, suggesting that the domain capability is
+    primarily in the frozen pretrained parameters and that fine-tuning primarily adjusts
+    the routing and access patterns that determine which parameters contribute to
+    which outputs rather than storing new knowledge in the fine-tuning parameters
+    themselves.
+- type: warning
+  title: Common pitfall regarding Latent Capability Unlocking
+  body: Latent capability unlocking has dual-use implications — the same technique
+    that unlocks beneficial domain capabilities (medical reasoning, code generation)
+    can unlock harmful capabilities that were suppressed by safety fine-tuning, as
+    demonstrated by research showing that lightweight fine-tuning on benign data can
+    partially degrade safety guardrails; organisations deploying models fine-tuned
+    by third parties should assess whether fine-tuning has altered safety-relevant
+    capability profiles, not just measured on the intended task.

@@ -1,0 +1,55 @@
+concept: LLM Evaluator Bias
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- evaluation-methodology
+- bias-in-ai
+aliases:
+- judge model bias
+- LLM-as-judge bias
+- automatic evaluator bias
+broader:
+- llm-evaluation
+- bias-in-ai
+related:
+- human-vs-llm-eval-agreement
+- evaluation-prompt-design
+- pairwise-preference-evaluation
+prerequisites:
+- llm-evaluation
+- bias-in-ai
+- evaluation-methodology
+confidence: high
+callouts:
+- type: definition
+  title: LLM Evaluator Bias
+  body: 'LLM evaluator bias refers to systematic distortions in quality judgments
+    produced by LLMs acting as evaluators that are not attributable to genuine quality
+    differences in the evaluated outputs. Documented LLM evaluator biases include:
+    positional bias (preferring the output presented first or last in a pairwise comparison),
+    verbosity bias (preferring longer outputs irrespective of quality), self-enhancement
+    bias (preferring outputs from the same model family as the evaluator), sycophancy-induced
+    bias (awarding higher ratings to outputs that agree with the evaluator''s own
+    expressed views), and style bias (preferring outputs in formal, hedged, or technically
+    formatted styles regardless of content quality). These biases can systematically
+    distort model comparison results.'
+- type: key-claim
+  title: Key claim about LLM Evaluator Bias
+  body: Positional bias and verbosity bias are the most empirically robust and practically
+    significant LLM evaluator biases — positional bias inflates win rates for models
+    whose outputs appear in position A by 5–15 percentage points relative to fair
+    evaluation, and verbosity bias causes word-count to become a more reliable predictor
+    of evaluation score than quality criteria compliance in some evaluation configurations;
+    both biases can be substantially mitigated through evaluation prompt design (explicit
+    de-biasing instructions) and evaluation procedure design (randomising position,
+    normalising for length), demonstrating that bias mitigation is primarily an engineering
+    problem.
+- type: warning
+  title: Common pitfall regarding LLM Evaluator Bias
+  body: LLM evaluator bias interacts with evaluation prompt design in ways that are
+    difficult to predict without empirical testing on the specific evaluation task
+    — a de-biasing instruction that effectively eliminates positional bias in one
+    evaluation context may amplify verbosity bias in another context, and bias mitigation
+    strategies validated on one task domain may not transfer to others; evaluation
+    systems should be tested for specific known biases on representative samples from
+    the target evaluation domain before deployment as primary evaluation mechanisms.

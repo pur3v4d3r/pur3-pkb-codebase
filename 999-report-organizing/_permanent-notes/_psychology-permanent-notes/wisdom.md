@@ -19,7 +19,7 @@ subdomains:
   - philosophy
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - wisdom-synthetic-seed-2026-04-25
@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Wisdom Development Stages**
+> *Follow the stages from initial knowledge to wise decision-making.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Knowledge] --> B[Integrated Skills]
+>   B --> C[Uncertainty Management]
+>   C --> D[Wise Decision-Making]
+> ```
+
+
+> [!abstract] **Diagram 2 — Wisdom Dimensions in Berlin Paradigm**
+> *Identify the dimensions of wisdom assessed by the Berlin Wisdom Paradigm.*
+>
+> ```mermaid
+> graph TD
+>   A[Procedural Knowledge] --> B[Factual Knowledge]
+>   C[Contextual Knowledge] --> D[Value Relativism]
+> ```
+
+
+> [!abstract] **Diagram 3 — Wisdom Application Areas**
+> *Explore the practical applications of psychological wisdom.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Leadership Development]
+>   C[Mental Health Interventions] --> D[Decision-Making Skills]
+> ```
 
 # Psychological Wisdom
 

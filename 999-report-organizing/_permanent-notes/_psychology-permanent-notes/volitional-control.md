@@ -18,7 +18,7 @@ subdomains:
   - action-control
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - volitional-control-synthetic-seed-2026-04-25
@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Volitional Control Components**
+> *Identify the four sub-processes of Volitional Control.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention Control]
+>   B[Emotion Regulation]
+>   C[Motivation Control]
+>   D[Environment Control]
+> ```
+
+
+> [!abstract] **Diagram 2 — Volitional Control Mechanisms**
+> *Understand how each mechanism supports goal achievement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Filter Irrelevant Info] --> B[Focus]
+>   C[Modulate Emotional Responses] --> D[Align Goals]
+>   E[Sustain Effort] --> F[Internal Rewards/Punishments]
+>   G[Adjust Environment] --> H[Support Goal Achievement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Volitional Control Applications**
+> *See how Volitional Control is applied in different contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant WorkplaceProductivity as WP
+>   participant HealthBehaviorChange as HB
+>   participant MOOCs as M
+>   ID->>ID: Minimize Distractions
+>   WP->>WP: Set Up Workspace
+>   HB->>HB: Manage Emotional Responses
+>   M->>M: Schedule Review Sessions
+> ```
 
 # Volitional Control
 

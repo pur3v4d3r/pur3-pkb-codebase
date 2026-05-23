@@ -1,0 +1,62 @@
+concept: Abstractive Context Compression
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- summarization
+- prompt-compression
+- efficiency
+aliases:
+- semantic compression of context
+- meaning-preserving context compression
+- abstractive prompt compression
+broader:
+- prompt-compression-and-efficiency
+- prompt-summarization
+- in-context-compression
+related:
+- prompt-summarization
+- in-context-compression
+- llmlingua-compression
+- nuance-preservation-in-summarization
+prerequisites:
+- abstractive-summarization
+- prompt-compression
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Abstractive Context Compression
+  body: Abstractive Context Compression refers to the compression of long prompts
+    or document contexts through abstractive summarisation — generating semantically
+    equivalent but linguistically different text that conveys the same task-relevant
+    information in substantially fewer tokens. Unlike extractive compression (selecting
+    and retaining existing tokens from the source), abstractive compression generates
+    new text that paraphrases, condenses, and restructures the source content; unlike
+    token-level compression (removing individual tokens), abstractive compression
+    operates at the semantic level and can achieve higher compression ratios by exploiting
+    paraphrase relationships and semantic redundancy that token-level methods cannot
+    identify. Abstractive compression is particularly effective for verbose source
+    material (legal documents, academic papers, conversation histories) where the
+    information-to-token ratio of the source is low.
+- type: key-claim
+  title: Key claim about Abstractive Context Compression
+  body: Abstractive Context Compression achieves higher semantic preservation at equivalent
+    compression ratios than extractive methods for long, verbose contexts — comparative
+    studies of abstractive versus extractive prompt compression show that abstractive
+    approaches preserve 85–95% of task performance at 5–10x compression ratios while
+    extractive approaches achieve only 70–80% performance at the same ratios, because
+    abstractive methods can consolidate semantically equivalent information from multiple
+    dispersed passages into single compact statements while extractive methods must
+    choose between retaining one passage or another.
+- type: warning
+  title: Common pitfall regarding Abstractive Context Compression
+  body: Abstractive Context Compression introduces semantic distortion risk — abstractive
+    summaries can introduce subtle meaning changes that preserve surface-level plausibility
+    while altering the actual semantic content in ways that affect downstream task
+    performance, and the distortions are more difficult to detect than extractive
+    removal (which clearly shows what was removed) because abstractive outputs are
+    complete, fluent text with no obvious markers of what was changed; all abstractive
+    compression implementations require quality validation against the original task
+    on the compressed context, with particular attention to precision-critical content
+    (numerical values, specific claims, conditional statements) that abstractive paraphrase
+    most commonly distorts.

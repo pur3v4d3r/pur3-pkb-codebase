@@ -22,7 +22,7 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
@@ -69,8 +69,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Type 1 Processing Flow**
+> *Follow the flow from input to automatic processing and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B(Automatic Engagement)
+>   B --> C(Output)
+> ```
+
+
+> [!abstract] **Diagram 2 — Type 1 vs Type 2 Processing**
+> *Compare the characteristics of Type 1 and Type 2 processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Type 1]
+>   B[Type 2]
+>   A -->|Parallel, Automatic| C[Opacity to Introspection]
+>   B -->|Serial, Deliberate| D[Transparent]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Type 1 Processing**
+> *Trace the mechanism from innate modules to automatic processes.*
+>
+> ```mermaid
+> flowchart LR
+>   A(Innate Modules) --> B(Well-Learned Automatisms)
+>   B --> C(Automatic Processes)
+> ```
 
 # Type 1 Processing
 

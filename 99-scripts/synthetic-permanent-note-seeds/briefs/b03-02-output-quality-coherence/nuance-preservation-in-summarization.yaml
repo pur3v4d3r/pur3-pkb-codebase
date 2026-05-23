@@ -1,0 +1,59 @@
+concept: Nuance Preservation in Summarization
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- summarization
+- natural-language-generation
+aliases:
+- qualification retention in summaries
+- conditional preservation in summarization
+- complexity-faithful summarization
+broader:
+- output-quality-in-llms
+- summarization-quality
+- discourse-coherence-in-llm-outputs
+related:
+- claim-strength-calibration
+- hedging-calibration
+- specificity-vs-generality-tradeoff
+- abstractive-context-compression
+prerequisites:
+- summarization
+- information-theory
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Nuance Preservation in Summarization
+  body: Nuance Preservation in Summarization refers to the maintenance of important
+    qualifications, conditionals, limitations, exceptions, competing viewpoints, and
+    epistemic hedges when condensing LLM-generated or LLM-processed source material
+    into shorter summaries. Summarization processes — both human and machine — exhibit
+    systematic nuance loss because nuance is informationally dense and structurally
+    complex, making it a natural target for compression; qualifications, exceptions,
+    and competing views add length without advancing the primary claim and are therefore
+    pruned by naive summarization strategies. LLMs performing summarization exhibit
+    particularly strong nuance loss because they are trained on document pairs where
+    summaries routinely strip qualifications to achieve length targets, encoding nuance-stripping
+    as a learned summarization behaviour.
+- type: key-claim
+  title: Key claim about Nuance Preservation in Summarization
+  body: Nuance Preservation in Summarization is the primary failure mode of LLM summarisation
+    for scientific and technical documents — studies of LLM summarisation accuracy
+    show that the most common error type is not factual fabrication but nuance stripping,
+    where summary statements are technically not false but remove crucial qualifications
+    that change the practical meaning of the original claim (e.g., summarising "A
+    is effective for condition X under protocol Y with population Z" as "A is effective
+    for X") in ways that would mislead a reader who has not accessed the source; this
+    makes LLM summaries systematically overconfident and over-general relative to
+    the nuanced primary sources they condense.
+- type: warning
+  title: Common pitfall regarding Nuance Preservation in Summarization
+  body: Nuance Preservation in Summarization degrades monotonically with compression
+    ratio — the higher the target compression (from 10x to 20x to 50x), the more nuance
+    must be sacrificed to achieve the target length, meaning that very short summaries
+    (tweet-length, one-sentence abstracts) inevitably strip critical qualifications
+    that longer summaries preserve; deployers should calibrate minimum summary length
+    to the nuance density of the source material, accepting that for highly qualified
+    technical content, lossless compression below a certain length floor is not achievable
+    without nuance sacrifice.

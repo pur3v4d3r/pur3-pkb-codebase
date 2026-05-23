@@ -1,0 +1,56 @@
+concept: Slot Filling via Dialogue
+domain: dialogue-systems
+secondary_domains:
+- task-oriented-dialogue
+- information-extraction
+- conversational-ai
+aliases:
+- dialogue-based slot filling
+- conversational slot elicitation
+- iterative slot completion
+broader:
+- task-oriented-dialogue-prompting
+- dialogue-state-tracking-prompts
+related:
+- dialogue-state-tracking-prompts
+- task-oriented-dialogue-prompting
+- clarification-request-generation
+prerequisites:
+- task-oriented-dialogue
+- slot-filling
+- dialogue-systems
+confidence: high
+callouts:
+- type: definition
+  title: Slot Filling via Dialogue
+  body: Slot filling via dialogue is the process of eliciting and confirming values
+    for a predefined set of task-relevant information slots through multi-turn conversation,
+    in which the system identifies which slots are unfilled, generates natural-language
+    questions to elicit the missing values, interprets the user's responses to extract
+    slot values, and confirms or seeks clarification on extracted values before proceeding
+    to task execution. In restaurant booking, for example, slots include date, time,
+    party size, cuisine preference, and location, and the dialogue iteratively fills
+    all mandatory slots through a combination of proactive question generation, value
+    extraction from user responses, and confirmation dialogues. LLM-based slot filling
+    can handle more flexible conversation flows than rule-based slot filling by tolerating
+    digressions, handling multi-slot responses, and managing slot value updates.
+- type: key-claim
+  title: Key claim about Slot Filling via Dialogue
+  body: LLM-based slot filling via dialogue offers dramatically higher user experience
+    quality than template-based slot filling systems because it can handle multi-slot
+    utterances (filling three slots in a single response), process natural language
+    value expressions (converting "next Friday at seven thirty" to structured date
+    and time values), manage graceful clarification when values are ambiguous, and
+    tolerate user-initiated topic changes without dialogue state corruption — all
+    capabilities that require either complex rule engineering or LLM-scale natural
+    language understanding.
+- type: warning
+  title: Common pitfall regarding Slot Filling via Dialogue
+  body: LLM-based slot filling is subject to hallucinated slot value extraction —
+    the model may confidently extract a slot value that is not present in the user's
+    utterance by inferring a likely value from context, producing a dialogue where
+    the model proceeds with an assumed slot value the user never provided; this is
+    particularly problematic for high-stakes slots (names, dates, amounts) where incorrect
+    assumed values lead to transaction errors; slot filling systems must include explicit
+    confirmation dialogues for critical slots and must avoid assuming default values
+    without user acknowledgement.

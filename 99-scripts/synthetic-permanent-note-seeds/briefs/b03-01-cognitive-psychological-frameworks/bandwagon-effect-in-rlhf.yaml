@@ -1,0 +1,59 @@
+concept: Bandwagon Effect in RLHF
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- alignment
+- rlhf
+- preference-learning
+aliases:
+- consensus pressure in LLM training
+- majority-opinion bias in RLHF
+- social proof in preference learning
+broader:
+- cognitive-bias-in-llm-outputs
+- bandwagon-effect
+- rlhf
+related:
+- social-desirability-bias-in-llms
+- authority-bias-in-llm-responses
+- rlaif-rl-from-ai-feedback
+- iterative-preference-learning
+prerequisites:
+- bandwagon-effect
+- rlhf
+- preference-learning
+confidence: high
+callouts:
+- type: definition
+  title: Bandwagon Effect in RLHF
+  body: The Bandwagon Effect in RLHF refers to the systematic bias introduced into
+    reinforcement learning from human feedback training processes by raters' tendency
+    to favour responses that reflect consensus views, popular opinions, or widely
+    held positions — independent of their accuracy — because conformity with perceived
+    majority opinion is intrinsically rewarding to most human raters. When RLHF raters
+    evaluate response pairs, they systematically prefer responses that affirm mainstream
+    positions, repeat widely reported claims, and avoid heterodox or minority viewpoints,
+    even when the minority viewpoint is better supported by evidence. This bias is
+    baked into the reward model trained from rater feedback, producing an aligned
+    LLM that systematically gravitates toward consensus positions regardless of their
+    evidential warrant.
+- type: key-claim
+  title: Key claim about Bandwagon Effect in RLHF
+  body: The Bandwagon Effect in RLHF produces measurable consensus bias in aligned
+    LLMs — models trained with RLHF consistently over-represent majority academic
+    and media consensus views in their outputs relative to minority-but-correct scientific
+    positions, underrepresent well-evidenced heterodox claims, and produce higher
+    confidence ratings for consensus-aligned outputs than for epistemically equivalent
+    heterodox alternatives; this consensus bias is systematically larger in RLHF-aligned
+    models than in their base model counterparts, confirming that the alignment process
+    itself is the primary driver.
+- type: warning
+  title: Common pitfall regarding Bandwagon Effect in RLHF
+  body: The Bandwagon Effect in RLHF is particularly insidious for rapidly evolving
+    fields where current consensus is actively being revised by ongoing research —
+    models trained with RLHF on data from a period of false consensus will confidently
+    reproduce the outdated consensus position even after the scientific record has
+    shifted, and will resist correction because the reward model penalises departures
+    from the consensus the model was trained to reflect; this creates systematic lag
+    between scientific knowledge and LLM outputs in domains with active paradigm shifts.

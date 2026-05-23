@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b02-04-emergent-behavior",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b02-04-emergent-behavior.md",
+    "notes": "Fifteen concepts covering emergent behaviours and capability thresholds in\nlarge language models. Spans emergent prompting capability, few-shot\nemergent generalisation, chain-of-thought emergence, semantic parsing\nemergence, multilingual emergent transfer, arithmetic emergence thresholds,\nin-context learning as meta-learning, task generalisation, zero-shot\ngeneralisation mechanisms, capability elicitation, latent capability\nunlocking, model capability vs. alignment gaps, scaling and capability\nemergence, instruction-following emergence, and calibration emergence.\nBatch 02 of the prompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b02-04-emergent-behavior",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b02-04-emergent-behavior"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Emergent Prompting Capability",
+      "kebab": "emergent-prompting-capability",
+      "brief_path": "briefs/b02-04-emergent-behavior/emergent-prompting-capability.yaml",
+      "expected_seed_filename": "emergent-prompting-capability-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Few-Shot Emergent Generalisation",
+      "kebab": "few-shot-emergent-generalisation",
+      "brief_path": "briefs/b02-04-emergent-behavior/few-shot-emergent-generalisation.yaml",
+      "expected_seed_filename": "few-shot-emergent-generalisation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Chain-of-Thought Emergence",
+      "kebab": "chain-of-thought-emergence",
+      "brief_path": "briefs/b02-04-emergent-behavior/chain-of-thought-emergence.yaml",
+      "expected_seed_filename": "chain-of-thought-emergence-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Semantic Parsing Emergence",
+      "kebab": "semantic-parsing-emergence",
+      "brief_path": "briefs/b02-04-emergent-behavior/semantic-parsing-emergence.yaml",
+      "expected_seed_filename": "semantic-parsing-emergence-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Multilingual Emergent Transfer",
+      "kebab": "multilingual-emergent-transfer",
+      "brief_path": "briefs/b02-04-emergent-behavior/multilingual-emergent-transfer.yaml",
+      "expected_seed_filename": "multilingual-emergent-transfer-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Arithmetic Emergence Threshold",
+      "kebab": "arithmetic-emergence-threshold",
+      "brief_path": "briefs/b02-04-emergent-behavior/arithmetic-emergence-threshold.yaml",
+      "expected_seed_filename": "arithmetic-emergence-threshold-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "In-Context Learning as Meta-Learning",
+      "kebab": "in-context-learning-as-meta-learning",
+      "brief_path": "briefs/b02-04-emergent-behavior/in-context-learning-as-meta-learning.yaml",
+      "expected_seed_filename": "in-context-learning-as-meta-learning-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Task Generalisation in LLMs",
+      "kebab": "task-generalisation-in-llms",
+      "brief_path": "briefs/b02-04-emergent-behavior/task-generalisation-in-llms.yaml",
+      "expected_seed_filename": "task-generalisation-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Zero-Shot Generalisation Mechanisms",
+      "kebab": "zero-shot-generalisation-mechanisms",
+      "brief_path": "briefs/b02-04-emergent-behavior/zero-shot-generalisation-mechanisms.yaml",
+      "expected_seed_filename": "zero-shot-generalisation-mechanisms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Capability Elicitation Prompting",
+      "kebab": "capability-elicitation-prompting",
+      "brief_path": "briefs/b02-04-emergent-behavior/capability-elicitation-prompting.yaml",
+      "expected_seed_filename": "capability-elicitation-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Latent Capability Unlocking",
+      "kebab": "latent-capability-unlocking",
+      "brief_path": "briefs/b02-04-emergent-behavior/latent-capability-unlocking.yaml",
+      "expected_seed_filename": "latent-capability-unlocking-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Model Capability vs. Alignment Gap",
+      "kebab": "model-capability-vs-alignment-gap",
+      "brief_path": "briefs/b02-04-emergent-behavior/model-capability-vs-alignment-gap.yaml",
+      "expected_seed_filename": "model-capability-vs-alignment-gap-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Scaling and Capability Emergence",
+      "kebab": "scaling-and-capability-emergence",
+      "brief_path": "briefs/b02-04-emergent-behavior/scaling-and-capability-emergence.yaml",
+      "expected_seed_filename": "scaling-and-capability-emergence-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Instruction-Following Emergence",
+      "kebab": "instruction-following-emergence",
+      "brief_path": "briefs/b02-04-emergent-behavior/instruction-following-emergence.yaml",
+      "expected_seed_filename": "instruction-following-emergence-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Calibration Emergence in Scale",
+      "kebab": "calibration-emergence-in-scale",
+      "brief_path": "briefs/b02-04-emergent-behavior/calibration-emergence-in-scale.yaml",
+      "expected_seed_filename": "calibration-emergence-in-scale-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

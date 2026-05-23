@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -69,8 +69,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Basic Psychological Needs Overview**
+> *Identify the three core needs and their relationship to well-being.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   A -->|Promotes Well-Being| D[Well-Being]
+>   B -->|Promotes Well-Being| D
+>   C -->|Promotes Well-Being| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
+> *Follow the cycle from need satisfaction to intrinsic motivation and positive outcomes.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   S1["Satisfaction of Needs"]
+>   S2[Intrinsic Motivation]
+>   S3[Goal-Directed Behaviors]
+>   S4[Increased Well-Being]
+>   S1 --> S2 : Triggers Intrinsic Motivation
+>   S2 --> S3 : Drives Goal-Directed Behaviors
+>   S3 --> S4 : Enhances Well-Being
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural Manifestation of Needs**
+> *Compare how autonomy, competence, and relatedness manifest in Western vs. Eastern cultures.*
+>
+> ```mermaid
+> graph TD
+>   A[Western Cultures]
+>   B[Eastern Cultures]
+>   C[Autonomy]
+>   D[Competence]
+>   E[Relatedness]
+>   A -->|Emphasizes Individual Autonomy| C
+>   A -->|Promotes Competence Individually| D
+>   A -->|Social Connections Less Prominent| E
+>   B -->|Greater Emphasis on Interdependence| C
+>   B -->|Competence Through Social Contexts| D
+>   B -->|Stronger Focus on Relatedness| E
+> ```
 
 # The Universality Thesis
 

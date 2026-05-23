@@ -1,0 +1,60 @@
+concept: Prompt Batching Patterns
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- inference-optimization
+- systems-ml
+- efficiency
+aliases:
+- LLM request batching
+- batch inference patterns
+- concurrent prompt processing
+broader:
+- prompt-compression-and-efficiency
+- inference-optimization
+- large-language-models
+related:
+- kv-cache-reuse-strategies
+- latency-aware-prompt-design
+- streaming-output-management
+- token-efficient-prompting
+prerequisites:
+- inference-optimization
+- systems-performance
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Batching Patterns
+  body: Prompt Batching Patterns refer to the techniques for grouping multiple LLM
+    inference requests into batches that are processed simultaneously on GPU hardware,
+    amortising the fixed costs of model loading, memory allocation, and computational
+    overhead across multiple requests to improve throughput and reduce per-request
+    cost. Batching patterns include static batching (grouping fixed-size batches of
+    requests with similar lengths), dynamic batching (adaptively grouping arriving
+    requests to fill batch capacity), continuous batching (interleaving new requests
+    into ongoing batch processing as slots become available), and prefill-decode separation
+    (batching the computationally intensive prefill phase separately from the sequential
+    decode phase). Batching trades per-request latency for throughput — larger batches
+    improve throughput but increase individual request queuing latency.
+- type: key-claim
+  title: Key claim about Prompt Batching Patterns
+  body: Prompt Batching Patterns with continuous batching (also called iteration-level
+    scheduling or in-flight batching) achieve substantially higher throughput than
+    static or dynamic batching at equivalent quality — continuous batching eliminates
+    the GPU idle time between batch completions by immediately filling completed sequence
+    slots with new requests during the decode phase, achieving 2–10x higher throughput
+    than static batching at the same hardware configuration; this throughput gain
+    makes continuous batching the standard production serving pattern for high-volume
+    LLM deployments and explains the architecture of production inference frameworks
+    such as vLLM and TensorRT-LLM.
+- type: warning
+  title: Common pitfall regarding Prompt Batching Patterns
+  body: Prompt Batching Patterns introduce fairness and latency unpredictability challenges
+    — batching strategies that optimise aggregate throughput may cause latency starvation
+    for individual requests with unusual length profiles (very long prompts or very
+    long expected outputs), as these requests may be repeatedly delayed in favour
+    of shorter requests that are easier to batch; production batching configurations
+    must implement latency-fairness policies (maximum queuing delay limits, priority
+    classes, separate queues for different length classes) to prevent tail-latency
+    outliers that degrade user experience for a minority of requests.

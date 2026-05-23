@@ -1,0 +1,62 @@
+concept: LLMLingua Compression
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- prompt-compression
+- efficiency
+- information-theory
+aliases:
+- LLMLingua
+- prompt token compression algorithm
+- selective token removal compression
+broader:
+- prompt-compression-and-efficiency
+- in-context-compression
+- token-efficient-prompting
+related:
+- in-context-compression
+- selective-context-technique
+- prompt-distillation
+- token-efficient-prompting
+prerequisites:
+- prompt-compression
+- information-theory
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: LLMLingua Compression
+  body: LLMLingua Compression refers to the family of prompt compression algorithms
+    (LLMLingua, LLMLingua-2, LongLLMLingua) that use a small auxiliary language model
+    to identify and remove low-information tokens from prompts, producing compressed
+    prompts that a larger target model can process with reduced token count while
+    retaining high task performance. The LLMLingua approach scores each token in the
+    prompt by its conditional perplexity under the small auxiliary model — tokens
+    that are highly predictable (low perplexity) from their context carry low marginal
+    information and are candidates for removal — and then removes tokens below a specified
+    perplexity threshold to achieve a target compression ratio. LLMLingua-2 extends
+    this by using a distilled token classification model for improved computational
+    efficiency, and LongLLMLingua adds coarse-to-fine compression stages optimised
+    for very long prompts.
+- type: key-claim
+  title: Key claim about LLMLingua Compression
+  body: LLMLingua Compression achieves 3–20x compression ratios while retaining 90–95%
+    of target task performance on a range of QA, reasoning, and instruction-following
+    benchmarks — the perplexity-based token selection provides a principled information-theoretic
+    basis for compression that substantially outperforms naive truncation or random
+    removal, and the compression is effective even when the small auxiliary scoring
+    model is architecturally different from the large target generation model because
+    token predictability is a broadly transferable property of natural language; this
+    cross-model transferability makes LLMLingua practically deployable without requiring
+    access to or fine-tuning of the target generation model.
+- type: warning
+  title: Common pitfall regarding LLMLingua Compression
+  body: LLMLingua Compression degrades disproportionately on tasks requiring precision
+    retention of specific named entities, numerical values, and technical terms —
+    the perplexity-based removal criterion identifies these tokens as candidates for
+    removal because high-entropy tokens (rare terms, specific numbers) have high perplexity
+    and appear informationally important, but the information-theoretic framing and
+    the removal criterion interact poorly for semantics-critical tokens that are rare
+    but essential; LLMLingua deployments should implement entity and number preservation
+    rules that exclude specific token categories from the removal candidate set regardless
+    of perplexity score.

@@ -1,0 +1,117 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-01-cognitive-psychological-frameworks",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-01-cognitive-psychological-frameworks.md",
+    "notes": "Fifteen concepts applying cognitive and psychological frameworks to LLMs.\nCovers dual-process theory, cognitive biases (anchoring, availability,\nframing, representativeness, confirmation, base-rate neglect,\nDunning-Kruger analog, social desirability, authority, bandwagon),\nloss aversion analog, hindsight bias, and primacy-recency effects as\nthey manifest in LLM outputs and reasoning. Batch 03 of the\nprompt-engineering and LLM series."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-01-cognitive-psychological-frameworks",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-01-cognitive-psychological-frameworks"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 14,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Cognitive Bias in LLM Outputs",
+      "kebab": "cognitive-bias-in-llm-outputs",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/cognitive-bias-in-llm-outputs.yaml",
+      "expected_seed_filename": "cognitive-bias-in-llm-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Anchoring Bias in LLM Reasoning",
+      "kebab": "anchoring-bias-in-llm-reasoning",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/anchoring-bias-in-llm-reasoning.yaml",
+      "expected_seed_filename": "anchoring-bias-in-llm-reasoning-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Availability Heuristic in LLMs",
+      "kebab": "availability-heuristic-in-llms",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/availability-heuristic-in-llms.yaml",
+      "expected_seed_filename": "availability-heuristic-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Framing Effects on LLM Outputs",
+      "kebab": "framing-effects-on-llm-outputs",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/framing-effects-on-llm-outputs.yaml",
+      "expected_seed_filename": "framing-effects-on-llm-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Representativeness Heuristic in LLMs",
+      "kebab": "representativeness-heuristic-in-llms",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/representativeness-heuristic-in-llms.yaml",
+      "expected_seed_filename": "representativeness-heuristic-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Confirmation Bias in Chain of Thought",
+      "kebab": "confirmation-bias-in-chain-of-thought",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/confirmation-bias-in-chain-of-thought.yaml",
+      "expected_seed_filename": "confirmation-bias-in-chain-of-thought-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Base Rate Neglect in LLMs",
+      "kebab": "base-rate-neglect-in-llms",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/base-rate-neglect-in-llms.yaml",
+      "expected_seed_filename": "base-rate-neglect-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Dunning-Kruger Analog in LLMs",
+      "kebab": "dunning-kruger-analog-in-llms",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/dunning-kruger-analog-in-llms.yaml",
+      "expected_seed_filename": "dunning-kruger-analog-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Social Desirability Bias in LLMs",
+      "kebab": "social-desirability-bias-in-llms",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/social-desirability-bias-in-llms.yaml",
+      "expected_seed_filename": "social-desirability-bias-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Authority Bias in LLM Responses",
+      "kebab": "authority-bias-in-llm-responses",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/authority-bias-in-llm-responses.yaml",
+      "expected_seed_filename": "authority-bias-in-llm-responses-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Bandwagon Effect in RLHF",
+      "kebab": "bandwagon-effect-in-rlhf",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/bandwagon-effect-in-rlhf.yaml",
+      "expected_seed_filename": "bandwagon-effect-in-rlhf-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Loss Aversion Analog in Preference Learning",
+      "kebab": "loss-aversion-analog-in-preference-learning",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/loss-aversion-analog-in-preference-learning.yaml",
+      "expected_seed_filename": "loss-aversion-analog-in-preference-learning-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Hindsight Bias in LLM Evaluation",
+      "kebab": "hindsight-bias-in-llm-evaluation",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/hindsight-bias-in-llm-evaluation.yaml",
+      "expected_seed_filename": "hindsight-bias-in-llm-evaluation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Primacy and Recency Effects in Context",
+      "kebab": "primacy-and-recency-effects-in-context",
+      "brief_path": "briefs/b03-01-cognitive-psychological-frameworks/primacy-and-recency-effects-in-context.yaml",
+      "expected_seed_filename": "primacy-and-recency-effects-in-context-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Dual Process Theory Applied to LLMs",
+      "kebab": "dual-process-theory-applied-to-llms",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/dual-process-theory-applied-to-llms.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at dual-process-theory-applied-to-llms.md"
+    }
+  ],
+  "warnings": []
+}

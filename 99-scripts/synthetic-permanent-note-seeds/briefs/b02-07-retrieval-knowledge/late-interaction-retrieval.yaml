@@ -1,0 +1,55 @@
+concept: Late Interaction Retrieval
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- neural-information-retrieval
+- retrieval-augmented-generation
+aliases:
+- ColBERT retrieval
+- MaxSim retrieval
+- fine-grained token interaction retrieval
+broader:
+- dense-retrieval-for-rag
+- information-retrieval
+related:
+- dense-retrieval-for-rag
+- cross-encoder-reranking
+- embedding-model-selection
+prerequisites:
+- dense-retrieval-for-rag
+- neural-information-retrieval
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Late Interaction Retrieval
+  body: Late interaction retrieval is a neural information retrieval paradigm (exemplified
+    by ColBERT) that encodes queries and documents into sets of token-level embeddings
+    rather than a single document embedding, and computes relevance scores using maximum
+    similarity aggregation across all query-document token pairs (MaxSim). This approach
+    preserves the fine-grained token-level interactions that are necessary for precise
+    relevance estimation while remaining significantly faster than cross-encoder reranking
+    (which requires joint encoding of each query-document pair). Late interaction
+    retrieval achieves near-cross-encoder accuracy at a fraction of cross-encoder
+    latency, making it viable for first-stage retrieval in latency-sensitive applications.
+- type: key-claim
+  title: Key claim about Late Interaction Retrieval
+  body: Late interaction retrieval's MaxSim scoring mechanism makes it substantially
+    more robust to query-document vocabulary mismatch than single-vector dense retrieval
+    while remaining much more scalable than cross-encoder reranking — the token-level
+    matching aligns specific query terms with their counterpart evidence terms in
+    documents even when the document and query use different surrounding context,
+    a precision advantage that single-vector retrieval loses by compressing all document
+    information into one vector and cross-encoder achieves but at prohibitive latency
+    cost.
+- type: warning
+  title: Common pitfall regarding Late Interaction Retrieval
+  body: Late interaction retrieval requires significantly more index storage than
+    single-vector dense retrieval because storing a token embedding vector for every
+    token in every document rather than a single vector per document multiplies the
+    index size by the average document length in tokens; this storage multiplier (typically
+    50–200x for document lengths of 50–200 tokens) makes late interaction retrieval
+    impractical for very large corpora without aggressive compression techniques (product
+    quantisation, binary embeddings), and storage and memory planning must account
+    for this overhead before selecting late interaction retrieval as the production
+    retrieval architecture.

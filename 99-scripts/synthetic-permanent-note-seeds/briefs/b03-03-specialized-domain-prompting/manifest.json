@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-03-specialized-domain-prompting",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-03-specialized-domain-prompting.md",
+    "notes": "Fifteen domain-specific prompting strategies: medical/clinical, legal,\nscientific hypothesis generation, mathematical proof, code generation,\ncode review, financial analysis, educational content, creative writing,\ntechnical documentation, data analysis, ethical reasoning, historical\nreasoning, philosophical argument, and cybersecurity analysis."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-03-specialized-domain-prompting",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-03-specialized-domain-prompting"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Medical Clinical Prompting",
+      "kebab": "medical-clinical-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/medical-clinical-prompting.yaml",
+      "expected_seed_filename": "medical-clinical-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Legal Reasoning Prompting",
+      "kebab": "legal-reasoning-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/legal-reasoning-prompting.yaml",
+      "expected_seed_filename": "legal-reasoning-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Scientific Hypothesis Generation",
+      "kebab": "scientific-hypothesis-generation",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/scientific-hypothesis-generation.yaml",
+      "expected_seed_filename": "scientific-hypothesis-generation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Mathematical Proof Prompting",
+      "kebab": "mathematical-proof-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/mathematical-proof-prompting.yaml",
+      "expected_seed_filename": "mathematical-proof-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Code Generation Prompting",
+      "kebab": "code-generation-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/code-generation-prompting.yaml",
+      "expected_seed_filename": "code-generation-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Code Review Prompting",
+      "kebab": "code-review-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/code-review-prompting.yaml",
+      "expected_seed_filename": "code-review-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Financial Analysis Prompting",
+      "kebab": "financial-analysis-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/financial-analysis-prompting.yaml",
+      "expected_seed_filename": "financial-analysis-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Educational Content Prompting",
+      "kebab": "educational-content-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/educational-content-prompting.yaml",
+      "expected_seed_filename": "educational-content-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Creative Writing Prompting",
+      "kebab": "creative-writing-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/creative-writing-prompting.yaml",
+      "expected_seed_filename": "creative-writing-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Technical Documentation Prompting",
+      "kebab": "technical-documentation-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/technical-documentation-prompting.yaml",
+      "expected_seed_filename": "technical-documentation-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Data Analysis Prompting",
+      "kebab": "data-analysis-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/data-analysis-prompting.yaml",
+      "expected_seed_filename": "data-analysis-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Ethical Reasoning Prompting",
+      "kebab": "ethical-reasoning-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/ethical-reasoning-prompting.yaml",
+      "expected_seed_filename": "ethical-reasoning-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Historical Reasoning Prompting",
+      "kebab": "historical-reasoning-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/historical-reasoning-prompting.yaml",
+      "expected_seed_filename": "historical-reasoning-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Philosophical Argument Prompting",
+      "kebab": "philosophical-argument-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/philosophical-argument-prompting.yaml",
+      "expected_seed_filename": "philosophical-argument-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Cybersecurity Analysis Prompting",
+      "kebab": "cybersecurity-analysis-prompting",
+      "brief_path": "briefs/b03-03-specialized-domain-prompting/cybersecurity-analysis-prompting.yaml",
+      "expected_seed_filename": "cybersecurity-analysis-prompting-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

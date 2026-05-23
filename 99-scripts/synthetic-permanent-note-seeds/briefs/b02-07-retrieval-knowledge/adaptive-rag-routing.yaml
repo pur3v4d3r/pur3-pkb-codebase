@@ -1,0 +1,54 @@
+concept: Adaptive RAG Routing
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- query-complexity
+- adaptive-inference
+aliases:
+- Adaptive-RAG
+- query-complexity routing
+- conditional retrieval architecture
+broader:
+- retrieval-augmented-generation
+- self-rag-selective-retrieval
+related:
+- self-rag-selective-retrieval
+- corrective-rag-pipeline
+- iterative-retrieval-augmentation
+prerequisites:
+- retrieval-augmented-generation
+- query-classification
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Adaptive RAG Routing
+  body: 'Adaptive RAG routing is a RAG architecture that classifies incoming queries
+    by complexity before retrieval and routes each query to the most appropriate retrieval
+    and generation strategy: (1) no retrieval (direct parametric answer for simple
+    factual queries the model can answer reliably), (2) single-step retrieval (standard
+    retrieve-then-generate for moderately complex queries), or (3) iterative multi-step
+    retrieval (repeated retrieval-generation cycles for complex multi-hop queries).
+    The routing decision is made by a classifier trained on query-complexity labels
+    or by using the LLM itself to self-assess the query''s complexity. Adaptive routing
+    reduces latency and cost by avoiding expensive multi-step retrieval for simple
+    queries while ensuring complex queries receive sufficient retrieval depth.'
+- type: key-claim
+  title: Key claim about Adaptive RAG Routing
+  body: Adaptive RAG routing achieves better latency-quality trade-offs than fixed-strategy
+    RAG architectures because the optimal retrieval strategy varies dramatically by
+    query type — simple queries suffer from retrieval latency overhead and retrieval
+    noise without quality benefit, while complex queries suffer from insufficient
+    retrieval depth in single-step architectures; routing enables each query to be
+    handled with its optimal strategy rather than applying a single fixed strategy
+    to all queries with necessarily suboptimal results.
+- type: warning
+  title: Common pitfall regarding Adaptive RAG Routing
+  body: Adaptive RAG routing quality is bounded by the router's accuracy — misclassified
+    queries receive the wrong retrieval strategy, which can be worse than applying
+    the default strategy uniformly; a router that incorrectly classifies complex multi-hop
+    queries as simple consistently fails on the most challenging queries in the evaluation
+    set, producing a quality profile that looks good on average (simple queries are
+    handled correctly) but fails dramatically on the hardest cases; router performance
+    must be specifically evaluated on the complex query subset rather than relying
+    on aggregate accuracy.

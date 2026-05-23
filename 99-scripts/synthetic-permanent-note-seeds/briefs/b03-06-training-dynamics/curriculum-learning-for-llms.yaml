@@ -1,0 +1,61 @@
+concept: Curriculum Learning for LLMs
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- training-dynamics
+- pedagogy
+aliases:
+- training curriculum for language models
+- difficulty-ordered training
+- competence-based training
+broader:
+- training-dynamics-and-data-pipelines
+- machine-learning
+- large-language-models
+related:
+- pretraining-data-influence
+- synthetic-data-generation-for-training
+- data-mixture-effects-on-capability
+- counterfactual-data-augmentation
+prerequisites:
+- machine-learning
+- curriculum-learning
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Curriculum Learning for LLMs
+  body: 'Curriculum Learning for LLMs refers to the training strategy of presenting
+    training examples to a language model in a structured sequence organised by difficulty
+    or relevance — starting with simpler, cleaner, or more foundational examples and
+    progressively introducing more complex, diverse, or challenging examples — with
+    the goal of improving final model capability and training efficiency compared
+    to random data ordering. Curriculum learning for LLMs encompasses data difficulty
+    scoring methods (perplexity-based, quality-based, length-based), curriculum scheduling
+    (how quickly to transition from easy to hard examples), multi-stage pretraining
+    with changing data mixtures (stage 1: broad corpus, stage 2: quality-filtered
+    subset, stage 3: domain-specific fine-tuning data), and anti-curriculum (hard
+    examples first) as a variant that may benefit specific learning objectives.'
+- type: key-claim
+  title: Key claim about Curriculum Learning for LLMs
+  body: Curriculum Learning for LLMs via multi-stage training with quality-escalating
+    data mixtures produces better final model quality than single-stage training on
+    the same total data — studies of LLaMA-2, Phi, and related models show that training
+    on carefully curated high-quality data (textbooks, code, clean web text) in the
+    final training stage substantially improves downstream benchmark performance even
+    when the high-quality data is a small fraction of total training data; this finding
+    has motivated the "textbook-quality" data curation approach where a relatively
+    small but high-quality dataset used in later training stages produces outsized
+    capability improvements relative to its token count.
+- type: warning
+  title: Common pitfall regarding Curriculum Learning for LLMs
+  body: Curriculum Learning for LLMs is highly sensitive to the difficulty-scoring
+    methodology — incorrect difficulty ordering (training on overly difficult examples
+    before establishing foundational patterns, or never progressing to sufficient
+    difficulty) can produce worse outcomes than random ordering by creating instability
+    or capability gaps; the optimal curriculum schedule is task-specific, model-scale-specific,
+    and sensitive to the definition of "difficulty" used, requiring empirical validation
+    for each new model configuration rather than applying a single fixed curriculum
+    design across architectures.

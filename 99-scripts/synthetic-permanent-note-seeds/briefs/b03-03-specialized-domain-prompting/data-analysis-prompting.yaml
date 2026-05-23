@@ -1,0 +1,63 @@
+concept: Data Analysis Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- data-science
+- statistics
+- prompt-engineering
+aliases:
+- data analysis LLM prompting
+- statistical analysis prompting
+- analytics AI prompting
+broader:
+- specialized-domain-prompting
+- data-science
+- prompt-engineering
+related:
+- code-generation-prompting
+- financial-analysis-prompting
+- claim-strength-calibration
+- mathematical-proof-prompting
+prerequisites:
+- statistics
+- data-analysis
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Data Analysis Prompting
+  body: Data Analysis Prompting refers to the prompting strategies used to direct
+    large language models to perform statistical analysis, data interpretation, visualisation
+    planning, hypothesis testing, and exploratory data analysis — either directly
+    on provided datasets (for code-execution-enabled LLMs) or by generating analysis
+    code and interpretation frameworks that users execute on their data. Effective
+    data analysis prompting specifies the dataset structure and variable types, the
+    analytical questions to answer, the statistical assumptions and constraints, the
+    output format requirements, and the target audience's statistical sophistication.
+    It incorporates appropriate statistical method selection, assumption checking
+    requirements, effect size reporting standards, and uncertainty quantification
+    practices appropriate to the data type and analytical goal.
+- type: key-claim
+  title: Key claim about Data Analysis Prompting
+  body: Data Analysis Prompting is most effective when structured as a question-first,
+    method-later workflow — beginning with precise specification of the analytical
+    question ("is there a statistically significant difference in X between groups
+    A and B, accounting for confounders Y and Z?") before specifying analytical methods,
+    because question-first prompting allows the model to select appropriate statistical
+    methods for the analytical question rather than applying a pre-specified method
+    that may be statistically inappropriate; method-first prompting (e.g., "run an
+    ANOVA on this data") frequently produces statistically inappropriate analyses
+    when the data violates method assumptions that the model would have checked if
+    given the analytical question instead.
+- type: warning
+  title: Common pitfall regarding Data Analysis Prompting
+  body: Data Analysis Prompting using LLMs without code execution produces statistical
+    interpretations that cannot be verified against actual calculations — models generate
+    plausible statistical interpretation language that may not correspond to any actual
+    computation on the provided data, producing outputs that look like analysis results
+    but are actually patterns from training data statistics reporting; all quantitative
+    data analysis claims from LLMs must be verified against actual code execution
+    on the actual dataset, and natural-language statistical interpretation from LLMs
+    should be treated as a template for analysis planning rather than as computed
+    results.

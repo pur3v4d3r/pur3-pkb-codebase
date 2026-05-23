@@ -1,0 +1,60 @@
+concept: Verbosity Control in Prompts
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- information-density-optimization
+aliases:
+- length control in LLMs
+- output size management
+- response length calibration
+broader:
+- output-quality-in-llms
+- prompt-engineering
+- information-density-optimization
+related:
+- information-density-optimization
+- redundancy-reduction-in-outputs
+- token-efficient-prompting
+- prompt-token-budgeting
+prerequisites:
+- prompt-engineering
+- large-language-models
+- information-theory
+confidence: high
+callouts:
+- type: definition
+  title: Verbosity Control in Prompts
+  body: Verbosity Control in Prompts refers to the prompting strategies and system
+    design patterns used to regulate the length and information density of LLM outputs,
+    preventing both over-verbose outputs that bury key information in padding and
+    under-verbose outputs that omit necessary explanation. LLMs have strong default
+    verbosity tendencies that are biased toward moderate-to-high verbosity because
+    training data rewards and RLHF preferences systematically favour longer, more
+    complete-seeming responses — raters perceive length as thoroughness even when
+    additional content adds no informational value. Verbosity control requires explicit
+    length guidance in prompts (word counts, sentence counts, or structural constraints),
+    format specifications that impose length constraints implicitly (bullet points,
+    numbered lists, tables), or post-generation filtering that extracts key content
+    from verbose outputs.
+- type: key-claim
+  title: Key claim about Verbosity Control in Prompts
+  body: Verbosity Control in Prompts is a persistent challenge because LLM verbosity
+    tendencies are reinforced by RLHF alignment — human raters systematically reward
+    longer, more comprehensive responses over shorter but equivalently informative
+    responses, creating an alignment pressure that makes models verbose even when
+    the task clearly calls for brevity; this means that explicitly instructing models
+    to be brief ("answer in one sentence", "give a concise response") produces shorter
+    outputs but also frequently produces lower-quality outputs where brevity is achieved
+    by omitting relevant content rather than by achieving genuine information density,
+    indicating that verbosity and information density are orthogonal qualities that
+    must be explicitly jointly optimised.
+- type: warning
+  title: Common pitfall regarding Verbosity Control in Prompts
+  body: Verbosity Control in Prompts interacts with instruction following in ways
+    that produce counterintuitive failures — instructions specifying exact word counts
+    (e.g., "answer in exactly 100 words") produce outputs that approximate but do
+    not precisely meet the target, and the quality of the approximation varies widely
+    across models and task types; robust verbosity control requires output-level validation
+    and re-prompting rather than relying on in-prompt word count specifications as
+    reliable constraints.

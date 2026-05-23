@@ -1,0 +1,55 @@
+concept: Memory Injection in Dialogue
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- prompt-engineering
+- memory-augmented-llms
+aliases:
+- episodic memory injection
+- conversation memory prompting
+- long-term memory in dialogue
+broader:
+- multi-turn-conversation-management
+- memory-augmented-llms
+related:
+- conversational-context-compression
+- persona-consistency-across-turns
+- dialogue-grounding-prompts
+prerequisites:
+- large-language-models
+- memory-augmented-models
+- dialogue-systems
+confidence: high
+callouts:
+- type: definition
+  title: Memory Injection in Dialogue
+  body: 'Memory injection in dialogue is the technique of retrieving relevant information
+    from a persistent memory store — containing prior conversation summaries, user
+    preferences, past decisions, established facts, and shared knowledge — and inserting
+    that information into the current conversation context, enabling the model to
+    maintain conversational coherence and personalisation beyond the boundaries of
+    a single context window. The memory system may store information at multiple granularities:
+    working memory (recent turns), episodic memory (summaries of past sessions), semantic
+    memory (user facts and preferences), and procedural memory (patterns of interaction
+    that have worked well in past sessions). Memory injection transforms stateless
+    LLM conversations into stateful persistent relationships.'
+- type: key-claim
+  title: Key claim about Memory Injection in Dialogue
+  body: Memory injection enables qualitative improvements in personalisation and cross-session
+    coherence that simple context window extension cannot achieve — the model's ability
+    to reference user preferences established in sessions weeks ago, to build on partial
+    solutions from previous conversations, and to maintain awareness of the user's
+    evolving goals produces user experience improvements that are perceived as the
+    most significant quality differentiator between commodity and premium conversational
+    AI products, demonstrating that memory architecture is a core competitive feature
+    rather than an enhancement.
+- type: warning
+  title: Common pitfall regarding Memory Injection in Dialogue
+  body: Memory injection introduces significant privacy and consistency risks — retrieved
+    memories may contain outdated information (user preferences that have changed
+    since they were recorded), context-inappropriate information (personal details
+    relevant to one context that are inappropriate in another), or inconsistent information
+    (contradictory facts recorded in different sessions); memory injection systems
+    must include staleness tracking, relevance filtering, and consistency verification
+    to avoid generating responses based on inappropriate or incorrect memories that
+    the user has no visibility into.

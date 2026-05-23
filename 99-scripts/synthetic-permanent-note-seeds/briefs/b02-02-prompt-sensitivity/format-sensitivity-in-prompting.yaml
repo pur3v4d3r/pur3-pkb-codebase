@@ -1,0 +1,52 @@
+concept: Format Sensitivity in Prompting
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- large-language-models
+- evaluation
+aliases:
+- prompt format effects
+- output format sensitivity
+- template sensitivity
+broader:
+- prompt-sensitivity
+- prompt-engineering
+related:
+- label-sensitivity-in-prompting
+- surface-form-competition
+- prompt-brittleness
+- semantic-equivalence-in-prompts
+prerequisites:
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Format Sensitivity in Prompting
+  body: 'Format sensitivity in prompting is the phenomenon in which the structural
+    and typographic presentation of a prompt — delimiter choice, capitalisation, whitespace,
+    separator tokens, markdown formatting, JSON vs. plain-text structure, line breaks,
+    and the ordering of components such as instruction-context-question — systematically
+    affects LLM output quality, even when the semantic content of the prompt is held
+    constant. Format sensitivity arises because LLMs learn associations between surface-form
+    patterns and task types during instruction tuning: JSON structure signals a structured-output
+    task, bullet-point lists signal enumeration tasks, and colon-delimited templates
+    signal question-answering tasks, causing the model to modulate both its output
+    format and its reasoning strategy based on these format signals.'
+- type: key-claim
+  title: Key claim about Format Sensitivity in Prompting
+  body: Format sensitivity in prompting accounts for a surprisingly large share of
+    the variance in reported LLM performance across papers — studies that treat a
+    specific prompt format as the canonical prompt for a task are measuring format-task
+    alignment as much as model capability, and the same underlying model can appear
+    to differ by dozens of percentage points on the same task depending on formatting
+    choices alone, which necessitates format-ablation studies as standard practice
+    in prompt engineering research.
+- type: warning
+  title: Common pitfall regarding Format Sensitivity in Prompting
+  body: 'Format sensitivity interacts with instruction-tuning template artefacts in
+    ways that are difficult to predict: formats that closely match the instruction-tuning
+    template used during a model''s training will produce dramatically better performance
+    than semantically equivalent formats that deviate from that template, but this
+    advantage is model-specific and changes with each model version, making format-sensitivity
+    calibration a continuous maintenance task in production systems.'

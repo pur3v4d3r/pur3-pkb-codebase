@@ -1,0 +1,61 @@
+concept: Specificity vs Generality Tradeoff
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- natural-language-generation
+- information-theory
+aliases:
+- abstraction-specificity balance in LLMs
+- level-of-detail control
+- granularity calibration in outputs
+broader:
+- output-quality-in-llms
+- abstraction-level-control
+- prompt-engineering
+related:
+- abstraction-level-control
+- verbosity-control-in-prompts
+- information-density-optimization
+- register-and-tone-control
+prerequisites:
+- information-theory
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Specificity vs Generality Tradeoff
+  body: The Specificity vs Generality Tradeoff in LLM outputs refers to the tension
+    between producing responses that are concrete, detailed, and instance-specific
+    (high specificity) versus responses that are abstract, principled, and broadly
+    applicable (high generality), and the challenge of calibrating the specificity-generality
+    balance to match the informational needs of the user and task. Overly specific
+    outputs enumerate details that overwhelm the user's ability to extract general
+    principles; overly general outputs provide abstractions that fail to translate
+    into actionable guidance. LLMs exhibit a default tendency toward moderate generality
+    that satisfies most users but systematically under-serves users who need either
+    high-specificity technical detail or high-generality architectural guidance, and
+    the appropriate balance is highly context-dependent.
+- type: key-claim
+  title: Key claim about Specificity vs Generality Tradeoff
+  body: The Specificity vs Generality Tradeoff in LLM outputs is not well-managed
+    by LLMs without explicit prompting guidance — LLMs default to an intermediate
+    specificity level calibrated to the median user for the topic area, which systematically
+    under-serves both expert users requiring high specificity and novice users requiring
+    high generality; explicit prompting that specifies the desired specificity level
+    (e.g., "give me a specific concrete example" versus "give me the general principle")
+    or the user's expertise level (e.g., "explain for a second-year engineering student"
+    versus "explain for a domain expert") produces substantially better-calibrated
+    specificity alignment than expecting the model to infer the appropriate level
+    from request content alone.
+- type: warning
+  title: Common pitfall regarding Specificity vs Generality Tradeoff
+  body: The Specificity vs Generality Tradeoff in LLM outputs is confounded with factual
+    accuracy — high-specificity outputs are both more useful when correct and more
+    dangerous when incorrect because errors are specific and thus more difficult to
+    detect through plausibility reasoning alone; practitioners should be more rigorous
+    about verification of high-specificity claims (specific numbers, specific code,
+    specific citations) than high-generality claims (general principles, widely applicable
+    frameworks), as LLM hallucination is harder to recognise in specific-fact form
+    than in general-claim form.

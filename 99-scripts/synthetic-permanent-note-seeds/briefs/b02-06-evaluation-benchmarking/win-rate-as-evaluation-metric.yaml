@@ -1,0 +1,53 @@
+concept: Win-Rate as Evaluation Metric
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- evaluation-methodology
+- preference-learning
+aliases:
+- pairwise win rate
+- head-to-head win rate
+- preference win rate
+broader:
+- pairwise-preference-evaluation
+- llm-evaluation
+related:
+- pairwise-preference-evaluation
+- human-vs-llm-eval-agreement
+- llm-evaluator-bias
+prerequisites:
+- pairwise-preference-evaluation
+- evaluation-methodology
+- statistical-significance
+confidence: high
+callouts:
+- type: definition
+  title: Win-Rate as Evaluation Metric
+  body: 'Win rate as an evaluation metric is the proportion of pairwise comparisons
+    in which a model''s output is preferred over a comparison model''s output, aggregated
+    across a set of evaluation inputs and expressed as a percentage. Win rate is the
+    primary output metric of pairwise preference evaluation frameworks including Chatbot
+    Arena and LLM evaluation leaderboards. It has the appealing property of being
+    directly interpretable: a win rate of 60% means the model is preferred in 60%
+    of head-to-head comparisons. Win rates from large collections of comparisons can
+    be used to construct Elo-style relative rankings that reflect global quality ordering
+    across multiple models.'
+- type: key-claim
+  title: Key claim about Win-Rate as Evaluation Metric
+  body: Win rate is a valid summary metric for model comparison only when computed
+    over a sufficiently large, representative, and diverse evaluation set — win rates
+    computed on small samples (fewer than 500 comparisons) have wide confidence intervals
+    that make apparent differences between models statistically insignificant, and
+    win rates computed on non-representative evaluation sets (e.g., primarily coding
+    questions) do not generalise to overall model quality; publications reporting
+    win rates should always include confidence intervals and describe the composition
+    of the evaluation set to enable valid interpretation.
+- type: warning
+  title: Common pitfall regarding Win-Rate as Evaluation Metric
+  body: Win rate as an aggregate metric obscures critical variation in model quality
+    across task types and domains — a model with a 55% overall win rate may have a
+    70% win rate on factual question answering and a 35% win rate on creative writing,
+    and both patterns are indistinguishable in the aggregate metric; win rate should
+    be reported as a suite of domain-specific rates alongside the aggregate, particularly
+    for models intended for deployment in specific application domains where domain-specific
+    quality matters more than average quality.

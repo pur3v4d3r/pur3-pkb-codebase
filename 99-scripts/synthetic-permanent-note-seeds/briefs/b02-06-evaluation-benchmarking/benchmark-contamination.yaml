@@ -1,0 +1,57 @@
+concept: Benchmark Contamination
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- data-contamination
+- large-language-models
+aliases:
+- evaluation contamination
+- test set contamination
+- benchmark leakage
+- data contamination in LLMs
+broader:
+- llm-evaluation
+- data-contamination
+narrower:
+- train-test-leakage-in-llms
+related:
+- train-test-leakage-in-llms
+- dynamic-benchmarking
+- adversarial-benchmark-construction
+prerequisites:
+- large-language-models
+- benchmark-evaluation
+- data-contamination
+confidence: high
+callouts:
+- type: definition
+  title: Benchmark Contamination
+  body: 'Benchmark contamination occurs when examples from evaluation benchmarks —
+    or near-duplicates of those examples — appear in a model''s pretraining or fine-tuning
+    data, causing the model''s benchmark performance to reflect memorisation of specific
+    questions and answers rather than genuine generalisation capability. Contamination
+    ranges from verbatim memorisation of evaluation examples to near-duplicate contamination
+    where paraphrased versions of benchmark items appear in training data. Contamination
+    is difficult to detect and measure because: (1) pretraining datasets are rarely
+    fully disclosed; (2) models can be contaminated by second-order sources (e.g.,
+    websites that republish benchmark questions); and (3) the degree of contamination''s
+    impact on performance varies by benchmark, model, and the nature of the contamination.'
+- type: key-claim
+  title: Key claim about Benchmark Contamination
+  body: Benchmark contamination is pervasive in large language model evaluation and
+    systematically overstates model capability — analysis of training data deduplication
+    effects and membership inference attacks on standard benchmarks (MMLU, HellaSwag,
+    ARC) consistently reveals contamination rates that inflate reported accuracy by
+    2–10 percentage points, a magnitude large enough to change the apparent ranking
+    of models and to misrepresent capability improvements as research progress when
+    they are artefacts of increased training data overlap with evaluation sets.
+- type: warning
+  title: Common pitfall regarding Benchmark Contamination
+  body: Contamination detection methods currently used (n-gram overlap between training
+    and evaluation data) underestimate contamination severity because they miss semantic
+    near-duplicates that use different surface forms to express the same question
+    and answer, missing the contamination that occurs when the model has been trained
+    on a semantically equivalent version of the benchmark question phrased differently;
+    more reliable contamination detection requires semantic similarity search over
+    training data rather than surface-level n-gram matching, but this is computationally
+    prohibitive at pretraining data scale.

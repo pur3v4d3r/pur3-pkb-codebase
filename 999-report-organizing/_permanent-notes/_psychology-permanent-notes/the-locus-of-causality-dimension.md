@@ -20,7 +20,7 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - attribution-theory-foundational-report-2026-04-19
@@ -71,8 +71,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Internal vs External Causes**
+> *Identify the types of causes as internal or external.*
+>
+> ```mermaid
+> graph TD
+>   A[Ability] -->|Internal| C[Effort]
+>   B[Mood] -->|Internal| D[Personality]
+>   E[TASK Difficulty] -->|External| G[Luck]
+>   F[Other People's Actions] -->|External| H[Institutional Factors]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional Responses to Attributions**
+> *Follow the flow from attribution type to emotional response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success] --> B[Int Effort]
+>   B --> C[Pride]
+>   A --> D[Ext Luck]
+>   D --> E[Lack Engagement]
+>   F[Failure] --> G[Int Inadequacy]
+>   G --> H[Shame]
+>   F --> I[Ext Factors]
+>   I --> J[Preserve Self-Esteem]
+> ```
+
+
+> [!abstract] **Diagram 3 — Attribution Process Flow**
+> *Trace the steps from observing an outcome to experiencing emotions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Observer as O
+>   participant Outcome as Out
+>   participant Cause as C
+>   participant Emotion as E
+>   Out ->> O: Observe Success/Failure
+>   O ->> C: Consider Causes (Internal/External)
+>   C ->> O: Evaluate Internal or External
+>   O ->> E: Experience Pride/Shame/Lack Engagement/Preserve Self-Esteem
+> ```
 
 # Locus of Causality Dimension
 

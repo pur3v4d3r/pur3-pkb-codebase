@@ -17,7 +17,7 @@ subdomains:
   - expectancy-value
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - utility-value-synthetic-seed-2026-04-25
@@ -67,8 +67,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Utility Value Components**
+> *Identify the distinct components of Utility Value.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Value]
+>   B[Attainment Value]
+>   C[Cost]
+>   D[Utility Value]
+>   A -->|Distinct From| D
+>   B -->|Distinct From| D
+>   C -->|Distinct From| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective Thinking Process**
+> *Follow the steps of reflective thinking in Utility Value.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task]
+>   B[Future Goals]
+>   C[Relevance]
+>   D[Motivation]
+>   A -->|Reflect on| B
+>   B -->|Connect to| C
+>   C -->|Increase| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Utility Value Applications**
+> *See the practical applications of Utility Value in education.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Student Support]
+>   C[Low Expectancy Students]
+>   D[Motivation Boost]
+>   A -->|Activities|
+>   B -->|Interventions|
+>   C -->|Relevance|
+>   A -->|Enhance Engagement|
+>   B -->|Reduce Disengagement|
+>   C -->|Increase Persistence|
+>   A -->|Boost Understanding|
+>   B -->|Support Learning|
+>   C -->|D深化动机提升
+> ```
 
 # Utility Value
 

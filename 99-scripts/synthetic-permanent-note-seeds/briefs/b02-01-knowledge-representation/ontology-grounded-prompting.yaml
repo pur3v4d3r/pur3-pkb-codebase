@@ -1,0 +1,52 @@
+concept: Ontology-Grounded Prompting
+domain: knowledge-representation
+secondary_domains:
+- knowledge-engineering
+- prompt-engineering
+- natural-language-processing
+aliases:
+- ontology-anchored prompting
+- knowledge-ontology prompting
+- OWL-grounded prompting
+broader:
+- knowledge-graph-augmented-generation
+- prompt-engineering
+narrower:
+- entity-linking-in-prompts
+related:
+- knowledge-graph-augmented-generation
+- semantic-grounding-in-llms
+- structured-output-prompting
+prerequisites:
+- prompt-engineering
+- ontology
+- knowledge-representation
+confidence: high
+callouts:
+- type: definition
+  title: Ontology-Grounded Prompting
+  body: Ontology-grounded prompting is a prompting strategy in which formal ontological
+    structures — class hierarchies, property definitions, axioms, and inter-concept
+    relations drawn from OWL, RDF, or domain-specific schema — are injected into the
+    prompt context to constrain and guide the LLM's generation. By making the ontological
+    framework explicit, the prompt signals the expected semantic categories, valid
+    entity types, and permissible relations, dramatically reducing the rate of type
+    errors, category confusion, and hallucinated entities in structured-output tasks.
+    The technique is particularly effective in biomedical, legal, and engineering
+    domains where precision is non-negotiable and the ontology is authoritative.
+- type: key-claim
+  title: Key claim about Ontology-Grounded Prompting
+  body: Ontology-grounded prompting reduces LLM hallucination in structured-generation
+    tasks by converting an open-ended generation problem into a constrained classification-and-relation-filling
+    problem, with empirical gains in entity-type consistency and relation validity
+    that far exceed what few-shot examples alone achieve because the ontological schema
+    acts as a formal type system that the model can reference throughout the generation
+    process.
+- type: warning
+  title: Common pitfall regarding Ontology-Grounded Prompting
+  body: Injecting large ontologies into context windows wastes token budget on schema
+    detail that the model may not need; effective ontology-grounded prompting requires
+    selective schema extraction — including only the classes, properties, and axioms
+    relevant to the current subtask — because context window saturation with ontological
+    overhead can degrade generation quality relative to a focused few-shot approach
+    without the schema.

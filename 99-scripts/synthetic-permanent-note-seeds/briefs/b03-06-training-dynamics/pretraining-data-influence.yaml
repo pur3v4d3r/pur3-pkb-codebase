@@ -1,0 +1,60 @@
+concept: Pretraining Data Influence
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- data-science
+- training-dynamics
+aliases:
+- training data influence on LLM behaviour
+- pretraining corpus effects
+- training data impact analysis
+broader:
+- training-dynamics-and-data-pipelines
+- machine-learning
+- large-language-models
+related:
+- training-data-attribution
+- data-contamination-effects
+- memorization-vs-generalization
+- data-mixture-effects-on-capability
+prerequisites:
+- machine-learning
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Pretraining Data Influence
+  body: Pretraining Data Influence refers to the study of how the composition, quality,
+    diversity, and provenance of the large-scale text corpora used to pretrain language
+    models shapes the models' capabilities, knowledge, biases, and failure modes —
+    investigating the causal relationship between specific training data characteristics
+    and specific model behaviours. Pretraining data influence research uses influence
+    functions (attributing model predictions to training examples), data ablation
+    studies (measuring capability changes when specific data sources are removed),
+    contamination analysis (assessing the effect of benchmark data in training), and
+    controlled pretraining experiments that vary specific data composition parameters.
+    Understanding pretraining data influence is foundational for intentional data
+    curation, capability steering, debiasing, and for understanding the provenance
+    of emergent model capabilities.
+- type: key-claim
+  title: Key claim about Pretraining Data Influence
+  body: Pretraining Data Influence is highly non-uniform across data sources — studies
+    using influence functions and data ablation demonstrate that a small fraction
+    of pretraining data accounts for a disproportionate fraction of a model's performance
+    on specific benchmarks and capabilities, with code data, mathematical text, and
+    structured reference material having outsized influence on reasoning and factual
+    capabilities relative to their proportion of total training tokens; this non-uniform
+    influence motivates targeted data curation rather than indiscriminate data volume
+    scaling as the primary lever for capability improvement.
+- type: warning
+  title: Common pitfall regarding Pretraining Data Influence
+  body: Pretraining Data Influence is computationally expensive to measure precisely
+    — applying influence functions to large LLMs requires computation that scales
+    with the number of training examples and model parameters, making exact influence
+    attribution infeasible for production-scale models without approximation methods
+    that introduce their own estimation error; influence estimates for large models
+    are inherently approximations, and conclusions about data influence drawn from
+    proxy tasks or smaller-scale experiments may not quantitatively generalise to
+    production-scale training.

@@ -1,0 +1,55 @@
+concept: Human vs. LLM Eval Agreement
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- human-evaluation
+- automatic-evaluation
+aliases:
+- LLM-as-judge vs. human comparison
+- automated vs. human evaluation correlation
+- evaluator agreement
+broader:
+- llm-evaluation
+- evaluation-methodology
+related:
+- inter-annotator-agreement-in-evals
+- llm-evaluator-bias
+- g-eval-scoring-methodology
+prerequisites:
+- llm-evaluation
+- human-evaluation
+- inter-annotator-agreement
+confidence: high
+callouts:
+- type: definition
+  title: Human vs. LLM Eval Agreement
+  body: Human vs. LLM evaluation agreement refers to the degree of correlation between
+    quality judgments produced by human annotators and those produced by LLM-based
+    automatic evaluators (commonly called "LLM-as-judge") on the same set of model
+    outputs. High human-LLM agreement justifies using LLM evaluation as a cheap proxy
+    for human evaluation in large-scale experiments; low agreement indicates that
+    LLM judgments are unreliable proxies for human preferences and that conclusions
+    drawn from LLM-only evaluation may not reflect human-perceived quality. Agreement
+    is measured using standard inter-rater metrics (Spearman correlation, Cohen's
+    kappa, pairwise accuracy) applied to human and LLM judgments on the same output
+    pairs or sets.
+- type: key-claim
+  title: Key claim about Human vs. LLM Eval Agreement
+  body: Human-LLM evaluator agreement is high in aggregate but systematically breaks
+    down on specific response types — LLM evaluators and human evaluators agree strongly
+    on obvious quality differences (clearly correct vs. clearly incorrect responses)
+    but diverge substantially on fine-grained quality distinctions (partially correct,
+    stylistically different but semantically equivalent responses), on safety-adjacent
+    content (where LLM evaluators apply stricter standards than human evaluators),
+    and on domain-specific technical accuracy (where LLM evaluators may agree with
+    human annotators who are also non-experts while disagreeing with domain expert
+    judgments).
+- type: warning
+  title: Common pitfall regarding Human vs. LLM Eval Agreement
+  body: Human-LLM agreement calibration studies are typically conducted on clean,
+    well-defined evaluation tasks with well-qualified human annotators, producing
+    agreement statistics that overestimate the reliability of LLM evaluators in production
+    settings where the evaluation tasks are messier, human annotators are less experienced,
+    and the ground truth is more ambiguous; agreement statistics from published calibration
+    studies should not be directly extrapolated to production evaluation contexts
+    without recalibration on representative production tasks.

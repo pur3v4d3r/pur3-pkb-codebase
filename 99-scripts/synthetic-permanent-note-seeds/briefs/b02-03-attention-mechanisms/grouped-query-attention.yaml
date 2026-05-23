@@ -1,0 +1,53 @@
+concept: Grouped-Query Attention
+domain: transformer-architecture
+secondary_domains:
+- efficient-transformers
+- large-language-models
+- inference-optimisation
+aliases:
+- GQA
+- grouped query attention heads
+- shared key-value heads
+broader:
+- multi-head-attention-mechanics
+- efficient-transformers
+related:
+- multi-head-attention-mechanics
+- flash-attention-algorithm
+- kv-cache
+- inference-optimisation
+prerequisites:
+- multi-head-attention-mechanics
+- transformer-architecture
+- KV-cache
+confidence: high
+callouts:
+- type: definition
+  title: Grouped-Query Attention
+  body: Grouped-Query Attention (GQA) is a generalisation of multi-head attention
+    in which multiple query heads share the same set of key and value heads, reducing
+    the number of distinct key-value head pairs while preserving the full number of
+    query heads. In standard MHA with h heads, there are h distinct key-value pairs;
+    in Multi-Query Attention (MQA), all h query heads share a single key-value pair;
+    in GQA, queries are partitioned into g groups, each sharing one key-value pair.
+    GQA interpolates between MHA and MQA, achieving inference throughput close to
+    MQA while maintaining generation quality close to full MHA. GQA has been adopted
+    in Llama 2, Llama 3, Mistral, Gemma, and most other recent open-weight models
+    due to its significant KV-cache memory reduction.
+- type: key-claim
+  title: Key claim about Grouped-Query Attention
+  body: 'GQA''s primary deployment benefit is KV-cache memory reduction: the KV-cache
+    for a transformer during inference stores all past key-value pairs for the attention
+    computation, growing linearly with sequence length and batch size; GQA reduces
+    KV-cache memory by a factor of h/g (typically 4–8x), enabling substantially longer
+    sequences, larger batch sizes, or both within the same GPU memory budget, while
+    generation quality loss relative to full MHA is consistently small enough to be
+    preferred on quality-efficiency trade-off grounds.'
+- type: warning
+  title: Common pitfall regarding Grouped-Query Attention
+  body: GQA's quality advantages are demonstrated primarily on long-sequence generation
+    tasks where KV-cache bottlenecks dominate; on short-sequence tasks with small
+    batch sizes, the quality difference between MHA and GQA is minimal and the throughput
+    advantage is also small, meaning that GQA does not universally dominate MHA and
+    the choice should be driven by the deployment context's specific sequence length
+    and batch size distribution rather than adopted uncritically as a universal improvement.

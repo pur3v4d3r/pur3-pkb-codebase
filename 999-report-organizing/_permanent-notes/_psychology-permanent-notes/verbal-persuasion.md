@@ -20,7 +20,7 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - self-efficacy-theory-foundational-report-2026-04-20
@@ -67,8 +67,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Verbal Persuasion Mechanism**
+> *Identify the factors that influence the effectiveness of verbal persuasion.*
+>
+> ```mermaid
+> graph TD
+>   A["Persuader Credibility"] --> B["Realism of Capability Appraisal"]
+>   A --> C["Specificity of Content"]
+>   A --> D["Convergence with Other Sources"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Verbal Persuasion Channels**
+> *Understand the different channels through which verbal persuasion operates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Direct Statements] --> B["You Can Do This"]
+>   C[Specific Feedback] --> D["Improved by 10%"]
+>   E[Indirect Signals] --> F[Expected Capability]
+> ```
 
 # Verbal Persuasion
 

@@ -1,0 +1,54 @@
+concept: Overconfidence in LLM Outputs
+domain: prompt-engineering
+secondary_domains:
+- calibration
+- reliability
+- large-language-models
+aliases:
+- LLM overconfidence
+- miscalibrated confidence in LLMs
+- hallucination confidence
+- confident hallucination
+broader:
+- calibration
+- prompt-sensitivity
+related:
+- verbalized-uncertainty
+- hedge-phrases-in-prompts
+- prompt-calibration-techniques
+- benchmark-contamination
+prerequisites:
+- large-language-models
+- calibration
+- uncertainty-quantification
+confidence: high
+callouts:
+- type: definition
+  title: Overconfidence in LLM Outputs
+  body: Overconfidence in LLM outputs refers to the systematic tendency of language
+    models to generate outputs with higher apparent confidence than is warranted by
+    the evidence — producing definitive assertions about uncertain facts, failing
+    to hedge claims that should be hedged, generating specific numerical values where
+    ranges would be more appropriate, and constructing plausible-sounding but fabricated
+    supporting details with the same fluency and confidence as accurate statements.
+    Overconfidence is a function of both the model architecture (autoregressive generation
+    has no inherent mechanism for declining to generate) and the training signal (RLHF
+    rewards fluent, confident-sounding responses because human raters tend to prefer
+    them).
+- type: key-claim
+  title: Key claim about Overconfidence in LLM Outputs
+  body: Overconfidence in LLM outputs is a structural property of the RLHF training
+    paradigm — human preference raters systematically prefer confident, fluent responses
+    over hedged, uncertain ones even when the hedged responses are more epistemically
+    accurate, creating a training signal that rewards confident generation and inadvertently
+    trains the model to suppress uncertainty expression, making overconfidence an
+    alignment failure rather than a knowledge failure.
+- type: warning
+  title: Common pitfall regarding Overconfidence in LLM Outputs
+  body: Overconfidence is most dangerous for facts that are plausible but incorrect
+    — the model generates confidently wrong information in the style and register
+    of authoritative sources, making the error difficult to detect without domain
+    expertise or fact-checking; this is particularly acute for numerical claims, citations,
+    and biographical details where errors are easy to fabricate and difficult for
+    users to identify without external verification, necessitating systematic fact-checking
+    pipelines for any application where factual accuracy is critical.

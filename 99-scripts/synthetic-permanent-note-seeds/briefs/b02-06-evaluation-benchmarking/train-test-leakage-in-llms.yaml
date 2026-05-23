@@ -1,0 +1,55 @@
+concept: Train-Test Leakage in LLMs
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- machine-learning
+- data-contamination
+aliases:
+- evaluation data leakage
+- training-test contamination
+- data leakage in LLMs
+broader:
+- benchmark-contamination
+- llm-evaluation
+related:
+- benchmark-contamination
+- dynamic-benchmarking
+- evaluation-prompt-design
+prerequisites:
+- machine-learning
+- benchmark-evaluation
+- data-contamination
+confidence: high
+callouts:
+- type: definition
+  title: Train-Test Leakage in LLMs
+  body: 'Train-test leakage in LLMs refers to the broader problem of improper information
+    flow from evaluation data into model development — including not only benchmark
+    contamination (evaluation examples in pretraining data) but also evaluation-informed
+    hyperparameter tuning, architecture selection based on benchmark performance,
+    and instruction-tuning on benchmark-adjacent data. The problem has structural
+    causes: evaluation benchmarks are public; model developers have incentive to improve
+    benchmark performance; and the boundary between legitimate improvement and benchmark
+    gaming is unclear. Train-test leakage invalidates the assumption that benchmark
+    performance reflects performance on unseen data, making reported benchmark numbers
+    poor predictors of real-world model capability.'
+- type: key-claim
+  title: Key claim about Train-Test Leakage in LLMs
+  body: Train-test leakage in LLMs operates through multiple pathways beyond direct
+    data contamination — repeated evaluation on the same benchmarks across development
+    cycles causes implicit fitting through architecture and training procedure selection
+    even when individual data points are not leaked, because the benchmark distribution
+    shapes every design decision made in response to benchmark feedback; this structural
+    leakage is ineliminable with current development practices and means that the
+    only reliable evaluation is on held-out benchmarks that were never used to guide
+    any development decision.
+- type: warning
+  title: Common pitfall regarding Train-Test Leakage in LLMs
+  body: Attempts to prevent train-test leakage through data curation are systematically
+    undermined by the scale of pretraining data and the indirect pathways through
+    which evaluation information flows into training data — the internet contains
+    benchmark questions in forum discussions, educational websites, and AI output
+    datasets, all of which may be included in pretraining corpora without explicit
+    contamination filtering; organisations reporting benchmark results should state
+    their contamination filtering methodology explicitly and acknowledge its limitations
+    rather than implying that reported results are contamination-free.

@@ -1,0 +1,54 @@
+concept: Scaling and Capability Emergence
+domain: large-language-models
+secondary_domains:
+- scaling-laws
+- large-language-models
+- emergent-capabilities
+aliases:
+- capability scaling
+- emergent capability thresholds
+- capability phase transitions in LLMs
+broader:
+- emergent-prompting-capability
+- scaling-laws
+related:
+- chain-of-thought-emergence
+- arithmetic-emergence-threshold
+- model-capability-vs-alignment-gap
+- instruction-following-emergence
+prerequisites:
+- scaling-laws
+- large-language-models
+- emergent-capabilities
+confidence: high
+callouts:
+- type: definition
+  title: Scaling and Capability Emergence
+  body: Scaling and capability emergence refers to the phenomenon in which certain
+    model capabilities appear to arise discontinuously at specific scale thresholds
+    — appearing near-random below a threshold and above-chance above it — rather than
+    improving smoothly and predictably with scale as measured by training loss. Documented
+    emergent capabilities include chain-of-thought reasoning, multi-step arithmetic,
+    multilingual translation, and BIG-Bench tasks; their emergence has been attributed
+    to phase transitions in the model's internal representations, the crossing of
+    thresholds required for reliable multi-step computation, and the accumulation
+    of sufficient statistical signal for rare but functionally important patterns.
+- type: key-claim
+  title: Key claim about Scaling and Capability Emergence
+  body: 'The discreteness of observed capability emergence is largely a measurement
+    artefact: emergent-looking discontinuities in accuracy metrics become smooth continuous
+    improvements when the metric is changed from binary accuracy to a graded metric
+    (log-probability, partial credit), confirming that the underlying model is improving
+    continuously with scale and the apparent threshold is the scale at which continuous
+    improvement crosses the random-performance baseline, not a fundamental phase transition
+    in the model''s computational mechanisms.'
+- type: warning
+  title: Common pitfall regarding Scaling and Capability Emergence
+  body: The scaling-predicts-emergence framing has led to unwarranted extrapolation
+    of capability curves beyond observed data points — the claim that sufficiently
+    large models will exhibit emergent general intelligence or dangerous capabilities
+    at some scale threshold is scientifically ungrounded if the evidence for discrete
+    emergence is an artefact of metric choice; capability forecasting from scaling
+    laws should use graded metrics and should acknowledge that the relationship between
+    scale and specific capabilities may break down as training data quality, architecture,
+    and training procedure matter more at the frontier than raw scale.

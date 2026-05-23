@@ -19,7 +19,7 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - transfer-appropriate-processing-synthetic-seed-2026-04-25
@@ -69,8 +69,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Encoding vs Retrieval Demands**
+> *Identify how encoding and retrieval processes align.*
+>
+> ```mermaid
+> graph TD
+>   A[Shallow Encoding] --> B[Test Requires Shallow]
+>   C[Deep Semantic Analysis] --> D[Test Requires Deep]
+> ```
+
+
+> [!abstract] **Diagram 2 — TAP Mechanism Overview**
+> *Follow the flow from encoding to retrieval alignment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning Activity]
+>   B[Encoding Process] --> C[Retrieval Task]
+>   D[Alignment of Cognitive Operations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall Tasks**
+> *Compare shallow and deep processing for different retrieval types.*
+>
+> ```mermaid
+> graph TD
+>   A[Shallow Processing] --> B[Recognition]
+>   C[Deep Semantic Analysis] --> D[Recall]
+> ```
 
 # Transfer-Appropriate Processing
 

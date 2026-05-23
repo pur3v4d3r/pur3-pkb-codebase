@@ -1,0 +1,54 @@
+concept: Dialogue State Tracking Prompts
+domain: dialogue-systems
+secondary_domains:
+- task-oriented-dialogue
+- information-extraction
+- prompt-engineering
+aliases:
+- belief state tracking prompting
+- DST via prompting
+- conversation state extraction
+broader:
+- multi-turn-conversation-management
+- task-oriented-dialogue-prompting
+related:
+- slot-filling-via-dialogue
+- task-oriented-dialogue-prompting
+- multi-turn-conversation-management
+prerequisites:
+- dialogue-state-tracking
+- task-oriented-dialogue
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Dialogue State Tracking Prompts
+  body: Dialogue state tracking (DST) prompts are prompting strategies that instruct
+    an LLM to maintain and update a structured representation of the conversational
+    belief state — the set of slot-value pairs, established facts, confirmed constraints,
+    and unresolved ambiguities that have accumulated across dialogue turns. In task-oriented
+    dialogue (e.g., hotel booking, customer service, technical support), the belief
+    state tracks which task-relevant slots have been filled (check-in date, room type,
+    dietary requirements) and which remain open. Effective DST prompts instruct the
+    model to produce an updated belief state representation at each turn based on
+    the new user utterance, providing a structured anchor for the model's next response
+    rather than relying on implicit state tracking through attention over the full
+    dialogue history.
+- type: key-claim
+  title: Key claim about Dialogue State Tracking Prompts
+  body: Explicit dialogue state tracking prompts dramatically improve the coherence
+    of long multi-turn conversations compared to implicit state tracking through context
+    window concatenation, because the explicit belief state representation externalises
+    conversation state into a structured format that the model can reliably access
+    and update regardless of the conversation's length, effectively bypassing the
+    attention dilution and recency bias that cause implicit state tracking to fail
+    in long conversations.
+- type: warning
+  title: Common pitfall regarding Dialogue State Tracking Prompts
+  body: Dialogue state tracking prompts are effective only for task-oriented dialogues
+    with a well-defined slot schema — they fail in open-domain conversations where
+    the relevant state is not captured by a finite slot vocabulary, and they can produce
+    over-rigid responses in mixed-initiative dialogues where the user's intent shifts
+    between task completion and casual conversation; DST prompts should be reserved
+    for structured task contexts and supplemented with less structured context management
+    for open-domain segments of the conversation.

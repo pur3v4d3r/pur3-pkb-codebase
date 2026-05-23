@@ -18,7 +18,7 @@ subdomains:
   - social-psychology
 
 created: 2026-05-12
-updated: '2026-05-13'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - third-person-effect-synthetic-seed-2026-05-12
@@ -66,8 +66,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Third Person Effect Process Flow**
+> *Follow the flow from self-perception to policy advocacy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Self-Perception]
+>   B[Social Judgment]
+>   C[Policy Advocacy]
+>   D[Media Regulation]
+>   E[Public Health Campaigns]
+>   F[Media Literacy Programs]
+>   A -->|Believe less influenced| B
+>   B -->|Advocate for regulation| C
+>   C --> D
+>   B -->|Support health campaigns| E
+>   B -->|Engage in literacy programs| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Third Person Effect Factors**
+> *Identify the factors influencing self-perception and judgment.*
+>
+> ```mermaid
+> graph TD
+>   A[Message Content]
+>   B[Personal Attitudes]
+>   C[Media Literacy]
+>   D[Demographic Characteristics]
+>   E[Self-Perception]
+>   F[Social Judgment]
+>   A -->|Influences| E
+>   B -->|Influences| E
+>   C -->|Influences| E
+>   D -->|Influences| E
+>   E -->|Shapes| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Third Person Effect Applications**
+> *See how the effect influences different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Policy Advocacy]
+>   B[Public Health Campaigns]
+>   C[Media Literacy Programs]
+>   D[Regulation]
+>   E[Health Messages]
+>   F[Literacy Curricula]
+>   A -->|Guides Communication Strategies| D
+>   B -->|Crafts Resonant Messages| E
+>   C -->|Engages Reflective Practices| F
+> ```
 
 # Third Person Effect
 

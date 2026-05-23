@@ -1,0 +1,57 @@
+concept: Calibration Emergence in Scale
+domain: large-language-models
+secondary_domains:
+- calibration
+- large-language-models
+- reliability
+aliases:
+- calibration improvement with scale
+- scale-dependent calibration
+- calibration scaling
+broader:
+- scaling-laws
+- calibration
+- large-language-models
+related:
+- overconfidence-in-llm-outputs
+- verbalized-uncertainty
+- prompt-calibration-techniques
+- scaling-and-capability-emergence
+prerequisites:
+- calibration
+- large-language-models
+- scaling-laws
+confidence: high
+callouts:
+- type: definition
+  title: Calibration Emergence in Scale
+  body: Calibration emergence in scale refers to the empirical finding that larger
+    language models tend to be better calibrated — their expressed confidence scores
+    and verbalized uncertainty are more accurately correlated with their actual error
+    rates — than smaller models on the same tasks, when evaluated on the model's raw
+    output probabilities before RLHF or instruction tuning. Base models show an improvement
+    in calibration with scale on knowledge-intensive tasks, meaning that a large model's
+    expressed probability for the correct answer more accurately reflects the probability
+    that it will be right, while a small model's probabilities systematically over-
+    or under-reflect its accuracy. However, instruction tuning and RLHF can degrade
+    calibration even as they improve accuracy.
+- type: key-claim
+  title: Key claim about Calibration Emergence in Scale
+  body: Calibration emergence in scale represents an important but overlooked quality
+    of large base models that is systematically degraded by instruction tuning — the
+    RLHF training signal optimises for human-preferred response style rather than
+    probability calibration, leading to instruction-tuned models that are more confident-sounding
+    but less accurately calibrated than their base model counterparts; this means
+    that deployed instruction-tuned models require explicit calibration correction
+    mechanisms, and that calibration should be treated as a first-class model quality
+    metric alongside accuracy in the evaluation of instruction-tuned models.
+- type: warning
+  title: Common pitfall regarding Calibration Emergence in Scale
+  body: Calibration emergence with scale applies primarily to the model's token-level
+    probability output for knowledge-intensive factual questions, not to the model's
+    verbalized confidence in conversational responses — the two can diverge dramatically
+    after instruction tuning, with the probability-level calibration remaining approximately
+    scale-proportionate while verbalized uncertainty becomes systematically overconfident
+    due to RLHF preference for confident-sounding responses; calibration evaluation
+    must measure both probability calibration and verbalized calibration as distinct
+    metrics and should not assume they move together.

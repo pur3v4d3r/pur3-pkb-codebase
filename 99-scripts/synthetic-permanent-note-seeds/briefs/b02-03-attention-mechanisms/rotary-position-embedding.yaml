@@ -1,0 +1,56 @@
+concept: Rotary Position Embedding
+domain: transformer-architecture
+secondary_domains:
+- transformer-architecture
+- large-language-models
+- context-length
+aliases:
+- RoPE
+- rotary positional encoding
+- rotary embeddings
+broader:
+- positional-encoding-variants
+- transformer-architecture
+related:
+- alibi-positional-encoding
+- positional-encoding-variants
+- context-length-extension
+- flash-attention-algorithm
+prerequisites:
+- transformer-architecture
+- positional-encoding-variants
+- linear-algebra
+confidence: high
+callouts:
+- type: definition
+  title: Rotary Position Embedding
+  body: Rotary Position Embedding (RoPE) is a positional encoding scheme that encodes
+    absolute position information in the frequency domain by applying a rotation matrix
+    to the query and key vectors before computing attention, with the rotation angle
+    proportional to the token's absolute position. The key property of RoPE is that
+    the inner product between a rotated query vector and a rotated key vector is a
+    function only of their relative position (position difference), naturally implementing
+    relative positional encoding within the standard dot-product attention computation
+    without requiring explicit relative bias matrices. RoPE has been adopted in LLaMA,
+    Mistral, Falcon, and numerous other open-weight models due to its strong long-context
+    performance and efficient implementation.
+- type: key-claim
+  title: Key claim about Rotary Position Embedding
+  body: RoPE's fundamental mathematical property — that relative position information
+    is preserved through the rotation operation — enables it to generalise more gracefully
+    to longer sequences than absolute encoding schemes, but its practical context
+    extension capability is still bounded by the maximum frequency seen during training;
+    beyond roughly 2x the training length, RoPE attention deteriorates because the
+    model's attention patterns become unstable for rotation angles not represented
+    in training, motivating context window extension techniques such as YaRN, LongRoPE,
+    and dynamic NTK scaling.
+- type: warning
+  title: Common pitfall regarding Rotary Position Embedding
+  body: RoPE-based context extension techniques (NTK scaling, YaRN, LongRoPE) that
+    modify the frequency basis without retraining the model introduce a mismatch between
+    the positional encoding frequencies seen during training and those used at inference
+    time; this mismatch produces progressive degradation in attention quality with
+    increasing sequence length even when using "extended" versions, and the performance
+    gains from these techniques should be validated empirically on the specific task
+    and length regime rather than assuming that theoretical length extension guarantees
+    practical performance preservation.

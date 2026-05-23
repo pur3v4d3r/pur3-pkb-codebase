@@ -1,0 +1,60 @@
+concept: Representativeness Heuristic in LLMs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- probability-reasoning
+aliases:
+- prototype matching in LLMs
+- base-rate neglect via representativeness
+- stereotype-driven inference in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- representativeness-heuristic
+- large-language-models
+related:
+- base-rate-neglect-in-llms
+- availability-heuristic-in-llms
+- cognitive-bias-in-llm-outputs
+- hallucination-in-llms
+prerequisites:
+- representativeness-heuristic
+- large-language-models
+- probability-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Representativeness Heuristic in LLMs
+  body: The Representativeness Heuristic in LLMs refers to the tendency of large language
+    models to assess the probability that a given instance belongs to a category by
+    judging how similar that instance is to the prototype or stereotype of the category,
+    rather than by applying Bayesian reasoning using actual base rates. In human cognition,
+    the representativeness heuristic leads to the conjunction fallacy (judging "Linda
+    is a feminist bank teller" as more probable than "Linda is a bank teller") and
+    systematic base-rate neglect. In LLMs, the analogous pattern manifests as prototype-matching
+    inference — the model assigns high probability to descriptions that closely match
+    prototypical examples in training data, even when base rates should dominate,
+    leading to stereotyped classifications, conjunction fallacy-style errors, and
+    over-confident categorisation of atypical instances as not belonging to their
+    actual category.
+- type: key-claim
+  title: Key claim about Representativeness Heuristic in LLMs
+  body: The Representativeness Heuristic in LLMs produces conjunction fallacy-like
+    errors that are reproducible across a wide range of LLM families and scales —
+    models consistently rate probability of "A and B" as higher than "A alone" when
+    the "and B" condition makes the description more prototypically representative,
+    a finding that directly undermines the use of LLMs for probabilistic reasoning,
+    classification confidence estimation, and risk categorisation tasks without explicit
+    debiasing; the bias persists even in models specifically fine-tuned for logical
+    and mathematical reasoning.
+- type: warning
+  title: Common pitfall regarding Representativeness Heuristic in LLMs
+  body: The Representativeness Heuristic in LLMs is particularly dangerous in medical,
+    legal, and security classification contexts where prototype matching produces
+    confident but incorrect categorisations of atypical instances — a patient with
+    atypical symptoms being classified as not having a condition that predominantly
+    presents atypically, or a fraudulent transaction being passed because it matches
+    the prototype of a legitimate transaction; deploying LLMs for classification tasks
+    without explicit instructions to reason from population base rates and consider
+    atypical presentations systematically underperforms Bayesian classifiers on precisely
+    the high-stakes cases that most require accurate classification.

@@ -1,0 +1,55 @@
+concept: Multilingual Emergent Transfer
+domain: large-language-models
+secondary_domains:
+- multilingual-nlp
+- cross-lingual-transfer
+- large-language-models
+aliases:
+- cross-lingual emergent capability
+- multilingual capability emergence
+- language transfer emergence
+broader:
+- emergent-prompting-capability
+- multilingual-nlp
+related:
+- cross-lingual-prompt-transfer
+- zero-shot-generalisation-mechanisms
+- few-shot-emergent-generalisation
+prerequisites:
+- multilingual-language-models
+- cross-lingual-transfer
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Multilingual Emergent Transfer
+  body: Multilingual emergent transfer refers to the phenomenon in which a capability
+    that a multilingual language model acquires from training data in one language
+    (typically English) becomes accessible in other languages without explicit training
+    on those capabilities in those languages. Instruction following, chain-of-thought
+    reasoning, few-shot learning, and structured output generation emerge in non-English
+    languages at lower model scales than was achieved by the same capabilities in
+    English, suggesting that the model's representations of task structure transcend
+    language-specific surface form once the representations are sufficiently rich.
+    Transfer quality correlates strongly with the amount of pre-training data in the
+    target language.
+- type: key-claim
+  title: Key claim about Multilingual Emergent Transfer
+  body: Multilingual emergent transfer is asymmetric and proportional to the cross-lingual
+    representation overlap established during pretraining — languages that share vocabulary
+    (cognates, code-switching), script, or topical domain with English exhibit stronger
+    transfer from English-only instruction tuning than typologically and orthographically
+    distant languages, revealing that emergent transfer is mediated by the model's
+    shared representational structure for semantically equivalent content rather than
+    by any language-agnostic abstract reasoning capability.
+- type: warning
+  title: Common pitfall regarding Multilingual Emergent Transfer
+  body: Multilingual emergent transfer creates an illusion of language support that
+    masks significant performance gaps — a model that has been instruction-tuned only
+    in English may appear to support a non-English language adequately on benchmark
+    tasks that probe transfer-friendly capabilities (translation, basic QA) while
+    failing dramatically on language-specific tasks (idiomatic expression, culturally
+    situated reasoning, low-resource-language-specific entities) that do not benefit
+    from English transfer; reporting benchmark results on transferred non-English
+    capabilities without contrasting with native-language baselines systematically
+    overstates multilingual support.

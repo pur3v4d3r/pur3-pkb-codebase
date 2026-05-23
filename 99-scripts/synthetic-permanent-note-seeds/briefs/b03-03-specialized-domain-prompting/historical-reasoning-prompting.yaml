@@ -1,0 +1,65 @@
+concept: Historical Reasoning Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- historiography
+- historical-analysis
+- prompt-engineering
+aliases:
+- historical analysis prompting
+- historical LLM prompting
+- historiographical reasoning in AI
+broader:
+- specialized-domain-prompting
+- historical-ai
+- prompt-engineering
+related:
+- claim-strength-calibration
+- hindsight-bias-in-llm-evaluation
+- nuance-preservation-in-summarization
+- availability-heuristic-in-llms
+prerequisites:
+- historiography
+- historical-method
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Historical Reasoning Prompting
+  body: 'Historical Reasoning Prompting refers to the prompting strategies adapted
+    for historical analysis tasks — including historical causation analysis, counterfactual
+    historical reasoning, comparative historical analysis, primary source interpretation,
+    historiographical debate synthesis, and historical context reconstruction. Historical
+    reasoning prompting must address the epistemic challenges specific to historical
+    knowledge: the incompleteness and bias of the historical record, the diversity
+    of historiographical interpretations, the difficulty of causal inference in non-experimental
+    historical settings, the presence of present-day anachronism in historical judgment,
+    and the tendency of training data to over-represent well-documented periods and
+    under-represent poorly documented ones. Effective historical reasoning prompts
+    specify the historical period and geography, the relevant historiographical debates,
+    the evidential basis required, and the distinction between established historical
+    consensus and contested interpretations.'
+- type: key-claim
+  title: Key claim about Historical Reasoning Prompting
+  body: Historical Reasoning Prompting is most epistemically valuable when explicitly
+    structured around the distinction between primary evidence, secondary interpretation,
+    and historiographical consensus — prompting the model to separately identify what
+    primary sources establish, how secondary historians have interpreted those sources,
+    and what the current historiographical consensus is (and where it is disputed)
+    produces more accurate and more epistemically calibrated historical analysis than
+    prompting for a single integrated historical narrative, which the model will construct
+    by blending evidence, interpretation, and consensus in ways that conceal the evidential
+    basis for each claim.
+- type: warning
+  title: Common pitfall regarding Historical Reasoning Prompting
+  body: Historical Reasoning Prompting exhibits strong availability bias effects —
+    LLMs have substantially more training data about well-documented historical periods
+    (modern European and North American history, classical Mediterranean antiquity)
+    than about equally important but less textually-documented periods (sub-Saharan
+    African pre-colonial history, Central Asian medieval history, indigenous American
+    pre-contact history), producing systematic gaps in historical knowledge that the
+    model cannot reliably identify; users requesting historical analysis of under-documented
+    periods or cultures should independently verify LLM outputs against specialised
+    historical scholarship rather than treating confident outputs as reflecting equivalent
+    evidentiary bases.

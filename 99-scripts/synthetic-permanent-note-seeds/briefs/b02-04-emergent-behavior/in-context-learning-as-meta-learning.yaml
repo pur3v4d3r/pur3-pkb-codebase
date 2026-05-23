@@ -1,0 +1,57 @@
+concept: In-Context Learning as Meta-Learning
+domain: large-language-models
+secondary_domains:
+- meta-learning
+- in-context-learning
+- large-language-models
+aliases:
+- ICL as meta-learning
+- few-shot learning as gradient-free meta-learning
+- in-context gradient descent
+broader:
+- in-context-learning
+- meta-learning
+related:
+- few-shot-emergent-generalisation
+- induction-heads
+- in-context-learning
+- task-generalisation-in-llms
+prerequisites:
+- in-context-learning
+- meta-learning
+- gradient-descent
+confidence: high
+callouts:
+- type: definition
+  title: In-Context Learning as Meta-Learning
+  body: The in-context learning as meta-learning hypothesis proposes that large language
+    models perform in-context learning by implementing an implicit gradient-descent
+    optimisation process in the forward pass — constructing a "task vector" from the
+    demonstrations that encodes the task's gradient direction and applying it to the
+    query, effectively performing one or more virtual update steps without modifying
+    the model's weights. This hypothesis is supported by theoretical analysis showing
+    that linear attention implements gradient descent in closed form, by activation
+    patching experiments showing that task vectors are linearly represented in residual
+    stream activations, and by the finding that in-context learning performance scales
+    with demonstration quality in ways that parallel the sample efficiency of gradient-based
+    meta-learning algorithms.
+- type: key-claim
+  title: Key claim about In-Context Learning as Meta-Learning
+  body: The in-context learning as meta-learning hypothesis has strong empirical support
+    from mechanistic experiments but is an approximation rather than an exact description
+    of what large transformer models do — the true mechanism combines meta-learning-like
+    task vector construction with retrieval of similar training instances, with the
+    relative contribution of each component depending on whether the task is within
+    or outside the training distribution; purely task-vector-based meta-learning accounts
+    explain out-of-distribution in-context learning while retrieval-based accounts
+    explain in-distribution performance, and a complete theory requires both.
+- type: warning
+  title: Common pitfall regarding In-Context Learning as Meta-Learning
+  body: The meta-learning framing of in-context learning can mislead practitioners
+    into overestimating the generalisation ability of in-context learning beyond the
+    training distribution — meta-learning algorithms learn to learn within a task
+    distribution, not to learn arbitrary new tasks, and in-context learning in LLMs
+    similarly generalises to tasks that are structurally similar to tasks in the pretraining
+    distribution while failing to learn genuinely novel algorithmic operations that
+    are not implicitly present in the model's parameters, regardless of how many demonstrations
+    are provided.

@@ -17,7 +17,7 @@ subdomains:
   - history-of-cosmology
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - steady-state-theory-synthetic-seed-2026-05-14
@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Steady State Theory Overview**
+> *Follow the flow from theory to empirical challenges.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Theory Proposal] --> B[Empirical Research]
+>   B --> C[Continuous Creation Hypothesis]
+>   C --> D[Cosmic Microwave Background Discovery]
+>   D --> E[Rejection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Key Distinctions Between Models**
+> *Compare the origin and evolution explanations of both theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Steady State Theory] -->|Continuous Creation| B[Constant Density]
+>   C[Big Bang Theory] -->|Singular Origin Event| D[Expansion & Cooling]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conceptual Mechanism of Continuous Creation**
+> *Trace the process from expansion to matter creation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Universe Expansion] --> B[Dilution]
+>   B --> C[Matter Creation]
+>   C --> D[Constant Density]
+> ```
 
 # Steady State Theory
 

@@ -1,0 +1,61 @@
+concept: Code Review Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- software-engineering
+- prompt-engineering
+- security
+aliases:
+- LLM code audit prompting
+- automated code review
+- AI code inspection prompting
+broader:
+- specialized-domain-prompting
+- code-review
+- prompt-engineering
+related:
+- code-generation-prompting
+- cybersecurity-analysis-prompting
+- logical-entailment-verification
+- data-analysis-prompting
+prerequisites:
+- prompt-engineering
+- software-engineering
+- security-review
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Code Review Prompting
+  body: Code Review Prompting refers to the prompting strategies used to direct large
+    language models to systematically analyse code for correctness, security vulnerabilities,
+    performance inefficiencies, maintainability issues, and style violations — functioning
+    as an automated first-pass code reviewer that identifies issues before human review.
+    Effective code review prompting specifies the review scope (security only, performance
+    only, full review), the target language and framework version, the security threat
+    model, the performance constraints, the team's style guide or coding conventions,
+    and the output format (inline comments, categorised issue list, ranked findings).
+    Advanced code review prompting employs adversarial mindset instruction (asking
+    the model to assume the role of an attacker looking for vulnerabilities) to surface
+    security issues that passive correctness review misses.
+- type: key-claim
+  title: Key claim about Code Review Prompting
+  body: Code Review Prompting with explicit security-focused prompts discovers substantially
+    more security vulnerabilities than correctness-focused prompts on the same code
+    — adversarial security prompts that instruct the model to "identify all possible
+    inputs that could cause security vulnerabilities, including injection attacks,
+    buffer overflows, authentication bypasses, and information disclosure" surface
+    vulnerabilities at rates 2–3x higher than generic "review this code" prompts,
+    because security review requires adversarial reasoning that generic review prompts
+    do not elicit; security-specific code review prompting should be a distinct pipeline
+    stage from correctness review rather than a combined prompt.
+- type: warning
+  title: Common pitfall regarding Code Review Prompting
+  body: Code Review Prompting produces false positives (identifying issues that are
+    not real problems) at higher rates than false negatives (missing real issues)
+    for security vulnerabilities — LLMs trained on security literature learn to flag
+    patterns associated with vulnerabilities even when the specific code instance
+    is not exploitable due to surrounding context that the model has not adequately
+    weighted; human security engineers reviewing LLM code review outputs must be prepared
+    for a substantial false positive rate and should treat LLM findings as candidates
+    requiring confirmation rather than confirmed vulnerabilities.

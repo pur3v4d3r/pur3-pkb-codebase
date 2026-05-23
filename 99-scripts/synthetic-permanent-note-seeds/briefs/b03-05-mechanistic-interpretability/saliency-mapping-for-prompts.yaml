@@ -1,0 +1,59 @@
+concept: Saliency Mapping for Prompts
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- explainability
+- mechanistic-interpretability
+- prompt-engineering
+aliases:
+- prompt saliency maps
+- input sensitivity mapping
+- token salience analysis
+broader:
+- mechanistic-interpretability
+- feature-attribution-in-llms
+- large-language-models
+related:
+- feature-attribution-in-llms
+- attention-visualization
+- prompt-pruning
+- selective-context-technique
+prerequisites:
+- feature-attribution-in-llms
+- gradient-methods
+- transformer-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Saliency Mapping for Prompts
+  body: Saliency Mapping for Prompts refers to the application of saliency methods
+    to large language model prompts to visualise which tokens in the input prompt
+    most strongly influence the model's outputs — producing a per-token importance
+    map that identifies which parts of a prompt are driving the model's response.
+    Prompt saliency maps are computed by measuring the gradient of the target output
+    (a specific generated token or a scalar score) with respect to each input token
+    embedding, then aggregating gradient magnitudes to produce a token-level importance
+    score. Saliency mapping enables prompt debugging (identifying which prompt tokens
+    the model is attending to, revealing unexpected dependencies), prompt compression
+    guidance (identifying low-salience tokens as compression candidates), and adversarial
+    prompt analysis (identifying which tokens are driving undesirable outputs).
+- type: key-claim
+  title: Key claim about Saliency Mapping for Prompts
+  body: Saliency Mapping for Prompts is most practically valuable for prompt debugging
+    — by identifying which input tokens have high saliency for unexpected or incorrect
+    outputs, practitioners can diagnose whether the model is responding to intended
+    task specification tokens (as expected), contextual distractor tokens (indicating
+    distraction), or specific few-shot example features (indicating spurious feature
+    learning) rather than testing hypotheses about failure causes through blind ablation;
+    saliency-guided ablation reduces the number of prompt iterations required to diagnose
+    prompt failures by directing attention to the specific tokens responsible.
+- type: warning
+  title: Common pitfall regarding Saliency Mapping for Prompts
+  body: Saliency Mapping for Prompts has important interpretability limitations —
+    gradient-based saliency maps measure local sensitivity around the specific input,
+    which may not reflect global importance for all inputs the model processes, and
+    attribution scores are influenced by the saturation and linearity properties of
+    the model's activation functions rather than reflecting a clean measure of semantic
+    relevance; saliency maps should be interpreted as one diagnostic signal among
+    several rather than as definitive indicators of why the model produced a specific
+    output.

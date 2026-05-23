@@ -1,0 +1,60 @@
+concept: Medical Clinical Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- clinical-ai
+- healthcare-ai
+- prompt-engineering
+aliases:
+- clinical LLM prompting
+- healthcare AI prompting
+- medical reasoning prompts
+broader:
+- specialized-domain-prompting
+- clinical-ai
+- prompt-engineering
+related:
+- ethical-reasoning-prompting
+- hallucination-in-llms
+- retrieval-augmented-generation
+- claim-strength-calibration
+prerequisites:
+- prompt-engineering
+- clinical-decision-support
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Medical Clinical Prompting
+  body: Medical Clinical Prompting refers to the specialised prompting strategies,
+    safety constraints, and output design patterns used to elicit accurate, safe,
+    and clinically useful responses from large language models in medical and healthcare
+    contexts — including differential diagnosis support, clinical note synthesis,
+    patient communication drafting, medication interaction checking, clinical guideline
+    interpretation, and medical education. Medical clinical prompting must account
+    for the catastrophic-consequence nature of clinical errors, the requirement for
+    rigorous source citation, the need to maintain appropriate scope of practice boundaries,
+    the diversity of clinical audiences (specialists, generalists, patients), and
+    the regulatory constraints on clinical AI use. It incorporates explicit uncertainty
+    quantification, mandatory escalation cues, and strict out-of-scope refusal patterns.
+- type: key-claim
+  title: Key claim about Medical Clinical Prompting
+  body: Medical Clinical Prompting effectiveness is determined primarily by the specificity
+    of clinical context provided in the prompt — prompts that include patient demographics,
+    presenting complaint, relevant history, current medications, and recent investigations
+    produce substantially more clinically relevant differential diagnoses and recommendations
+    than prompts that provide only a chief complaint, because clinical reasoning is
+    inherently patient-specific and LLMs perform as pattern matchers on clinical context
+    features; sparse clinical context produces generic textbook responses that are
+    technically correct but clinically uninformative, while rich clinical context
+    elicits the contextual specificity that makes LLM output clinically actionable.
+- type: warning
+  title: Common pitfall regarding Medical Clinical Prompting
+  body: Medical Clinical Prompting must never use LLM outputs as the primary or sole
+    clinical decision basis — LLMs are not certified medical devices, have not been
+    validated on representative clinical populations, do not have access to real-time
+    clinical evidence updates, and produce confident outputs for clinical questions
+    that are outside their reliable knowledge range without reliable self-awareness
+    of these limitations; any medical clinical prompting deployment must include mandatory
+    human clinical oversight, explicit scope limitations communicated to all users,
+    and regular calibration validation against current clinical guidelines.

@@ -1,0 +1,54 @@
+concept: Zero-Shot Generalisation Mechanisms
+domain: large-language-models
+secondary_domains:
+- generalisation
+- large-language-models
+- natural-language-processing
+aliases:
+- zero-shot capability mechanisms
+- zero-shot task performance
+- zero-shot learning in LLMs
+broader:
+- task-generalisation-in-llms
+- in-context-learning
+related:
+- instruction-following-emergence
+- task-generalisation-in-llms
+- semantic-grounding-in-llms
+prerequisites:
+- large-language-models
+- zero-shot-learning
+- generalisation
+confidence: high
+callouts:
+- type: definition
+  title: Zero-Shot Generalisation Mechanisms
+  body: 'Zero-shot generalisation mechanisms in LLMs are the computational and statistical
+    processes by which a model produces correct outputs for a task without any task-specific
+    demonstration examples, relying entirely on the task description (instruction),
+    the model''s pretraining knowledge, and its instruction-following capability acquired
+    during fine-tuning. The mechanisms include: pattern recognition over the instruction''s
+    surface form (recognising the instruction as an instance of a known task type),
+    parametric knowledge retrieval (generating the factually correct answer from stored
+    world knowledge), compositional reasoning (combining multiple known operations
+    to address a novel instruction), and pragmatic intent inference (inferring what
+    the user wants beyond the literal instruction).'
+- type: key-claim
+  title: Key claim about Zero-Shot Generalisation Mechanisms
+  body: Zero-shot generalisation in instruction-tuned models is primarily driven by
+    pattern matching between the instruction and the instruction-tuning template distribution
+    rather than by reasoning over the instruction's meaning — models achieve high
+    zero-shot performance on tasks where the instruction phrasing closely matches
+    instruction-tuning templates and fail on semantically equivalent instructions
+    phrased in non-template formats, a finding that challenges the narrative of robust
+    zero-shot generalisation from instruction following and underscores the importance
+    of instruction format standardisation.
+- type: warning
+  title: Common pitfall regarding Zero-Shot Generalisation Mechanisms
+  body: Zero-shot performance is a misleading metric for capability assessment when
+    instruction-tuning data is not disclosed — a model that achieves high zero-shot
+    performance may have seen tasks very similar to the evaluation tasks in its instruction-tuning
+    set, making "zero-shot" performance a measure of generalisation within the instruction-tuning
+    distribution rather than genuine zero-shot generalisation; comparisons of zero-shot
+    performance across models with different instruction-tuning data must account
+    for the potential overlap between evaluation tasks and training tasks.

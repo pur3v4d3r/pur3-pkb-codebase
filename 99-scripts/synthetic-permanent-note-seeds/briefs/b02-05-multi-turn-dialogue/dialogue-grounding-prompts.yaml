@@ -1,0 +1,53 @@
+concept: Dialogue Grounding Prompts
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- natural-language-understanding
+- prompt-engineering
+aliases:
+- common ground establishment
+- mutual belief grounding
+- shared context prompting
+broader:
+- multi-turn-conversation-management
+- dialogue-systems
+related:
+- coreference-resolution-prompting
+- entity-linking-in-prompts
+- dialogue-state-tracking-prompts
+prerequisites:
+- dialogue-systems
+- common-ground-theory
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Dialogue Grounding Prompts
+  body: Dialogue grounding prompts are prompting strategies designed to help an LLM
+    establish and maintain common ground with the user — the shared body of mutually
+    known facts, definitions, and commitments that both parties can assume without
+    explicit re-statement. Grounding in conversation theory involves the collaborative
+    process by which interlocutors confirm that each message has been understood correctly.
+    In LLM dialogue, grounding prompts instruct the model to confirm its understanding
+    of ambiguous inputs, to explicitly state the interpretation it is using for underspecified
+    terms, and to request confirmation when the user's intent is unclear — behaviours
+    that reduce miscommunication and prevent the model from generating responses based
+    on incorrect interpretations of user inputs.
+- type: key-claim
+  title: Key claim about Dialogue Grounding Prompts
+  body: Explicit grounding prompts are disproportionately valuable in technical and
+    domain-specific dialogues where terminology has multiple valid interpretations
+    — without grounding, models silently adopt their most probable interpretation
+    of ambiguous technical terms and generate coherent but potentially incorrect responses
+    that are indistinguishable from responses to correctly interpreted inputs, while
+    grounding prompts surface interpretation choices and invite correction before
+    investment in incorrect response generation.
+- type: warning
+  title: Common pitfall regarding Dialogue Grounding Prompts
+  body: Over-application of dialogue grounding prompts produces interactions that
+    feel interrogative and unnatural — asking for confirmation of every interpretation
+    slows conversation flow and signals distrust of the user's communication competence;
+    effective grounding prompt design applies grounding selectively to high-stakes
+    ambiguities where incorrect interpretation would lead to significantly wrong outputs,
+    while proceeding without explicit grounding for low-stakes variations that the
+    model can handle with graceful degradation.

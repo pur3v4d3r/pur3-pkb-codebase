@@ -1,0 +1,59 @@
+concept: Non-Sequitur Detection in Outputs
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- computational-linguistics
+- output-quality
+- natural-language-generation
+aliases:
+- relevance failure detection
+- topical drift detection in LLMs
+- incoherent transition detection
+broader:
+- discourse-coherence-in-llm-outputs
+- output-quality-in-llms
+- natural-language-generation
+related:
+- logical-entailment-verification
+- contradiction-detection-in-outputs
+- discourse-coherence-in-llm-outputs
+- narrative-consistency-prompting
+prerequisites:
+- discourse-analysis
+- coherence-theory
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Non-Sequitur Detection in Outputs
+  body: Non-Sequitur Detection in Outputs refers to the identification of sentences,
+    paragraphs, or sections in LLM-generated text that do not logically or topically
+    follow from the preceding content — insertions that lack coherent discourse-level
+    connection to the surrounding material, either because they introduce an unrelated
+    topic, make a claim that does not follow from the established argument, or provide
+    information that is locally fluent but globally disconnected from the response's
+    purpose. Non-sequiturs in LLM outputs arise from model attention failures that
+    cause the generation to latch onto a semantically proximal but thematically tangential
+    continuation, from knowledge injection patterns where the model inserts related
+    but contextually inappropriate facts, and from coherence drift in long-form generation
+    where accumulated context dilutes the original topical constraint.
+- type: key-claim
+  title: Key claim about Non-Sequitur Detection in Outputs
+  body: Non-Sequitur Detection in Outputs reveals a systematic weakness in standard
+    LLM fluency evaluations — perplexity-based and BLEU-based automatic metrics, as
+    well as human coherence ratings obtained from brief review, fail to flag a substantial
+    proportion of non-sequitur insertions because non-sequiturs are often locally
+    fluent and contextually plausible as isolated sentences; only discourse-level
+    coherence evaluation that assesses each sentence's coherence relation to the preceding
+    and following content reliably detects non-sequitur insertions, indicating that
+    standard automatic quality metrics systematically overestimate the discourse-level
+    quality of LLM outputs.
+- type: warning
+  title: Common pitfall regarding Non-Sequitur Detection in Outputs
+  body: Non-Sequitur Detection in Outputs implemented via LLM self-evaluation is unreliable
+    for the model's own outputs — models exhibit systematic confirmation bias when
+    evaluating their own coherence, rating non-sequiturs they generated as contextually
+    appropriate at substantially higher rates than independent evaluators; effective
+    non-sequitur detection requires either a separate model for evaluation or structured
+    prompts that force explicit step-by-step coherence relationship labelling rather
+    than holistic coherence ratings.

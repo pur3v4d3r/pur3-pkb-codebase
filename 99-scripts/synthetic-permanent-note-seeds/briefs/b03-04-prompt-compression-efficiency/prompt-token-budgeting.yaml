@@ -1,0 +1,61 @@
+concept: Prompt Token Budgeting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- efficiency
+- cost-optimisation
+aliases:
+- token allocation for prompts
+- prompt token quota management
+- context length budgeting
+broader:
+- prompt-compression-and-efficiency
+- token-efficient-prompting
+- prompt-engineering
+related:
+- token-efficient-prompting
+- prompt-pruning
+- kv-cache-reuse-strategies
+- latency-aware-prompt-design
+prerequisites:
+- tokenisation
+- prompt-engineering
+- large-language-models
+- cost-modelling
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Token Budgeting
+  body: Prompt Token Budgeting refers to the explicit management and allocation of
+    context window token capacity across the components of a prompt — system instructions,
+    few-shot examples, retrieved context, conversation history, task specification,
+    and output reservation — to optimise the quality-cost tradeoff within fixed token
+    limits. Prompt token budgeting treats context window capacity as a finite resource
+    to be allocated across competing prompt components based on their marginal value
+    for task performance, rather than accumulating all available content until the
+    window is full. Systematic token budgeting involves profiling the quality contribution
+    of each prompt component at different token allocations, setting allocation priorities
+    based on quality-per-token efficiency, and implementing dynamic reallocation when
+    high-priority components compete for limited capacity.
+- type: key-claim
+  title: Key claim about Prompt Token Budgeting
+  body: Prompt Token Budgeting through marginal quality contribution analysis consistently
+    outperforms naive first-fit or recency-based context allocation — experiments
+    comparing systems that allocate context window capacity to prompt components based
+    on measured quality contribution versus systems that use simple recency or size
+    heuristics show that budgeted allocation achieves equivalent task performance
+    at 30–50% lower token cost, because quality-contribution analysis typically reveals
+    that a small number of high-value prompt components account for the majority of
+    performance and that low-value components (often redundant examples or low-relevance
+    context passages) can be eliminated or reduced without equivalent quality loss.
+- type: warning
+  title: Common pitfall regarding Prompt Token Budgeting
+  body: Prompt Token Budgeting must account for task-specific variation in component
+    value — the relative quality contribution of prompt components varies across task
+    types, making a budget allocation profile optimised for one task type suboptimal
+    for another; production systems serving diverse task types must maintain separate
+    token budgets per task category and validate each budget profile independently,
+    as applying a budget profile calibrated on common tasks to rare tasks where the
+    component value profile differs will produce systematically suboptimal quality
+    for the rare but potentially high-value minority task types.

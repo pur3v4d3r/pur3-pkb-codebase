@@ -1,0 +1,60 @@
+concept: Logit Lens Technique
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- transformer-architecture
+aliases:
+- logit lens analysis
+- intermediate layer token prediction
+- layer-wise token projection
+broader:
+- mechanistic-interpretability
+- transformer-architecture
+- large-language-models
+related:
+- causal-tracing-in-transformers
+- knowledge-localization-in-ffn
+- linear-representation-hypothesis
+- probing-classifiers
+prerequisites:
+- transformer-architecture
+- layer-norms
+- unembedding
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Logit Lens Technique
+  body: The Logit Lens Technique refers to the interpretability method of applying
+    the language model's final unembedding matrix (the matrix that converts hidden
+    states to vocabulary logits) to the intermediate hidden states at each transformer
+    layer, producing a vocabulary probability distribution that reveals what token
+    the residual stream "predicts" at each layer of the forward pass. The logit lens
+    provides a running interpretation of how the model's prediction evolves through
+    the layers — early layers typically produce random or uninformative distributions,
+    middle layers show the prediction emerging, and later layers progressively refine
+    the final prediction. This technique treats the residual stream as a sequence
+    of evolving token predictions that can be inspected at each layer using the final
+    unembedding as a consistent decoding probe.
+- type: key-claim
+  title: Key claim about Logit Lens Technique
+  body: The Logit Lens Technique reveals that LLM computation is organised as incremental
+    refinement of a consistent prediction representation — logit lens analysis across
+    diverse tasks consistently shows that the model's final answer prediction is partially
+    established in middle layers and refined (but not fundamentally restructured)
+    in later layers, with factual recall predictions emerging in specific layers that
+    localise knowledge retrieval; this incremental refinement pattern supports the
+    residual stream interpretation of transformer computation as iterative information
+    accumulation rather than layer-by-layer feature transformation, with important
+    implications for mechanistic interpretability theories.
+- type: warning
+  title: Common pitfall regarding Logit Lens Technique
+  body: The Logit Lens Technique has significant limitations for deep or architecturally
+    complex models — the technique assumes that the unembedding matrix provides a
+    meaningful decoding of intermediate layer representations, which holds approximately
+    for final layers but may not hold for early layers where the residual stream representation
+    has not yet been processed into a form interpretable by the final unembedding;
+    additionally, attention layer outputs and MLP layer outputs contribute differently
+    to the residual stream in ways that the logit lens aggregates without distinguishing,
+    potentially obscuring the distinct computational roles of attention and MLP sub-layers.

@@ -1,0 +1,61 @@
+concept: Mathematical Proof Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- formal-mathematics
+- theorem-proving
+- prompt-engineering
+aliases:
+- proof generation prompting
+- formal reasoning in LLMs
+- mathematical deduction prompts
+broader:
+- specialized-domain-prompting
+- mathematical-ai
+- prompt-engineering
+related:
+- logical-entailment-verification
+- chain-of-thought-prompting
+- formal-verification
+- code-generation-prompting
+prerequisites:
+- formal-mathematics
+- proof-theory
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Mathematical Proof Prompting
+  body: Mathematical Proof Prompting refers to the prompting strategies used to elicit
+    formal mathematical arguments, proofs, and derivations from large language models
+    — guiding the model to construct step-by-step logical arguments that establish
+    mathematical claims from axioms or given premises through valid inference rules.
+    Mathematical proof prompting must account for the strict validity requirements
+    of formal proof (each step must follow from preceding steps by an explicitly identified
+    rule), the diverse proof strategies (direct, contradiction, induction, construction,
+    probabilistic), and the failure modes specific to mathematical LLM output (plausible-looking
+    but invalid reasoning steps, incorrect use of quantifiers, missing case analysis,
+    and circular arguments presented as if valid).
+- type: key-claim
+  title: Key claim about Mathematical Proof Prompting
+  body: Mathematical Proof Prompting is most reliable when the model is instructed
+    to produce machine-verifiable formal proofs in a specified proof language (e.g.,
+    Lean, Coq, Isabelle) rather than natural language proofs — natural language proofs
+    allow the model to introduce subtly invalid reasoning steps that appear valid
+    due to imprecision in natural language quantification and inference language,
+    while formal proof languages require explicit logical justification at each step
+    that can be mechanically checked; the additional prompting overhead of specifying
+    a formal proof language and syntax is outweighed by the dramatic reduction in
+    undetected reasoning errors that formal verification provides.
+- type: warning
+  title: Common pitfall regarding Mathematical Proof Prompting
+  body: Mathematical Proof Prompting using natural language produces outputs that
+    are frequently incorrect in ways that are difficult to detect without mathematical
+    expertise — models commonly produce proofs that have the correct high-level structure
+    and individual steps that appear plausible but contain specific steps where the
+    logical validity breaks down in subtle ways (e.g., applying a theorem outside
+    its stated conditions, making an existential claim without providing a witness,
+    or assuming symmetry without proving it); users without strong mathematical expertise
+    should not trust LLM-generated proofs without independent verification by a mathematician
+    or a formal verification tool.

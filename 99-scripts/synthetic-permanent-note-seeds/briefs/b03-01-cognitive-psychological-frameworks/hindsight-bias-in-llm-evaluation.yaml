@@ -1,0 +1,59 @@
+concept: Hindsight Bias in LLM Evaluation
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- evaluation
+- benchmark-design
+aliases:
+- knew-it-all-along bias in AI evaluation
+- outcome knowledge bias in LLM assessment
+- creeping determinism in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- hindsight-bias
+- large-language-models
+related:
+- benchmark-contamination
+- train-test-leakage-in-llms
+- llm-evaluator-bias
+- evaluation-prompt-design
+prerequisites:
+- hindsight-bias
+- benchmark-design
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Hindsight Bias in LLM Evaluation
+  body: 'Hindsight Bias in LLM Evaluation refers to two related phenomena: first,
+    the tendency of LLMs used as evaluators to rate the quality of predictions and
+    reasoning chains differently when the ground-truth outcome is known versus unknown
+    — assigning higher quality ratings to reasoning that led to a correct outcome
+    even when the reasoning process itself was flawed; and second, the contamination
+    of LLM benchmarks by the model''s training on outcome data, causing the model
+    to appear to reason about predictions it has effectively memorised as facts. In
+    the first sense, hindsight bias corrupts LLM-as-evaluator pipelines by conflating
+    outcome quality with reasoning quality. In the second sense, hindsight bias through
+    training data contamination produces benchmark scores that reflect fact memorisation
+    rather than genuine predictive or causal reasoning capability.'
+- type: key-claim
+  title: Key claim about Hindsight Bias in LLM Evaluation
+  body: Hindsight Bias in LLM Evaluation is a systematic confound in the use of LLMs
+    as evaluators of reasoning quality — when ground-truth outcomes are accessible
+    in the evaluation context (explicitly stated, inferable from context, or present
+    in training data), LLM evaluators consistently rate reasoning chains that reached
+    the correct conclusion as higher quality than identically-structured reasoning
+    chains that reached an incorrect conclusion, regardless of the reasoning's logical
+    validity; this creates spurious quality inflation in evaluation pipelines that
+    process outcome-known cases and requires blinded evaluation protocols — analogous
+    to double-blind clinical trials — to obtain unbiased reasoning quality assessments.
+- type: warning
+  title: Common pitfall regarding Hindsight Bias in LLM Evaluation
+  body: Hindsight Bias in LLM Evaluation via training data contamination is substantially
+    harder to detect and correct than evaluator bias — a model that has memorised
+    outcomes from its training data will perform as if it is reasoning correctly about
+    events it actually knows from memory, producing apparently high accuracy on historical
+    prediction tasks without having any genuine predictive capability; separating
+    genuine reasoning from outcome memory requires dynamic evaluation on post-training-cutoff
+    events or adversarial holdout protocols that the model has never encountered.

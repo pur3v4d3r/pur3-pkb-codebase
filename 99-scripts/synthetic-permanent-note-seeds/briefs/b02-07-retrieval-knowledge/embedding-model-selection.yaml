@@ -1,0 +1,56 @@
+concept: Embedding Model Selection
+domain: retrieval-augmented-generation
+secondary_domains:
+- dense-retrieval-for-rag
+- natural-language-processing
+- machine-learning
+aliases:
+- retrieval model selection
+- encoder selection for RAG
+- embedding architecture choice
+broader:
+- dense-retrieval-for-rag
+- retrieval-augmented-generation
+related:
+- dense-retrieval-for-rag
+- chunking-strategies-for-rag
+- late-interaction-retrieval
+prerequisites:
+- dense-retrieval-for-rag
+- embedding-models
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Embedding Model Selection
+  body: 'Embedding model selection for RAG refers to the process of choosing or training
+    the neural encoder used to produce dense vector representations of queries and
+    documents for dense retrieval. Selection criteria include: embedding dimension
+    (higher dimensions may capture more nuance but increase index size and retrieval
+    cost), maximum input token length (models with longer context windows chunk documents
+    more coarsely), domain alignment (models fine-tuned on in-domain data outperform
+    generic models for domain-specific corpora), symmetric vs. asymmetric retrieval
+    (separate query and document encoders can outperform single-encoder models), and
+    benchmark performance on representative retrieval tasks. Common embedding model
+    families include SBERT, E5, GTE, BGE, and text-embedding-* from OpenAI.'
+- type: key-claim
+  title: Key claim about Embedding Model Selection
+  body: Domain-adapted embedding models consistently outperform general-purpose embedding
+    models for domain-specific RAG applications, often by margins that exceed the
+    gains from architectural improvements in the retrieval pipeline — fine-tuning
+    an embedding model on 10,000–50,000 in-domain query-document pairs using contrastive
+    learning (supervised or synthetic) typically improves retrieval recall@10 by 5–20%
+    on domain-specific queries compared to the best publicly available generic model,
+    making domain embedding adaptation a high-ROI investment for production RAG deployments
+    in specialised domains.
+- type: warning
+  title: Common pitfall regarding Embedding Model Selection
+  body: Embedding model selection based solely on public benchmark performance (MTEB)
+    may not translate to retrieval quality on the specific target corpus and query
+    distribution — public benchmarks use general-domain corpora and query distributions
+    that may differ substantially from enterprise or domain-specific deployment contexts;
+    embedding model evaluation must be conducted on a representative sample of the
+    target corpus and query distribution before finalising model selection, and the
+    selected model's retrieval quality should be validated end-to-end by measuring
+    the RAG system's downstream answer quality, not only the intermediate retrieval
+    metrics.

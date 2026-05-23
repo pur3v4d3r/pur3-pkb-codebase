@@ -1,0 +1,64 @@
+concept: Educational Content Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- educational-technology
+- pedagogy
+- prompt-engineering
+aliases:
+- pedagogical prompting
+- educational AI prompting
+- learning content generation
+broader:
+- specialized-domain-prompting
+- educational-ai
+- prompt-engineering
+related:
+- abstraction-level-control
+- register-and-tone-control
+- specificity-vs-generality-tradeoff
+- audience-calibration
+prerequisites:
+- pedagogy
+- cognitive-load-theory
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Educational Content Prompting
+  body: 'Educational Content Prompting refers to the prompting strategies and design
+    patterns used to elicit pedagogically effective educational materials from large
+    language models — including explanations, worked examples, analogies, exercises,
+    assessments, scaffolded progressions, and feedback — calibrated to specific learning
+    objectives, student knowledge levels, and pedagogical frameworks. Educational
+    content prompting incorporates principles from learning science: specifying the
+    student''s prior knowledge and zone of proximal development, designing for spaced
+    repetition and retrieval practice, structuring content for cognitive load management,
+    and adapting instructional strategy (direct instruction, guided discovery, problem-based
+    learning) to content type and student level. It is distinguished from general-purpose
+    explanation prompting by its systematic attention to learning outcome achievement
+    rather than information transmission.'
+- type: key-claim
+  title: Key claim about Educational Content Prompting
+  body: Educational Content Prompting that specifies learning objectives in behavioural
+    terms ("after this explanation, the student will be able to solve X type problem
+    by applying Y procedure") produces substantially more pedagogically effective
+    materials than prompting that specifies topic coverage ("explain X") — behavioural
+    objective specification forces the model to generate content that builds toward
+    demonstrable competence rather than content that describes concepts, producing
+    explanations that include worked examples, practice problems, and explicit competence
+    tests that general-topic explanations omit; this distinction between topic-coverage
+    and competence-building prompting is the primary differentiator between educational
+    content that produces learning and educational content that produces the illusion
+    of learning.
+- type: warning
+  title: Common pitfall regarding Educational Content Prompting
+  body: Educational Content Prompting can produce pedagogically plausible content
+    that embeds subtle misconceptions at rates higher than expert-authored educational
+    materials — LLMs trained on a mix of correct and partially-correct educational
+    text learn to generate plausible explanations that contain the common misconceptions
+    present in low-quality educational sources; subject-matter expert review is required
+    for all LLM-generated educational content before deployment, with particular attention
+    to procedural explanations and conceptual analogies that are the most common vehicles
+    for embedded misconceptions.

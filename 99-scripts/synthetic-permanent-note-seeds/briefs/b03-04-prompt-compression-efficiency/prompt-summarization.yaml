@@ -1,0 +1,57 @@
+concept: Prompt Summarization
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- summarization
+- prompt-engineering
+- efficiency
+aliases:
+- in-context summarisation for prompts
+- context-window summarisation
+- prompt-level summarisation
+broader:
+- prompt-compression-and-efficiency
+- compressive-context-management
+- prompt-engineering
+related:
+- compressive-context-management
+- abstractive-context-compression
+- in-context-compression
+- nuance-preservation-in-summarization
+prerequisites:
+- summarization
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Summarization
+  body: Prompt Summarization refers to the application of summarisation techniques
+    to reduce the token count of long prompts, documents-in-context, or accumulated
+    conversation history by replacing verbose content with compressed summaries that
+    preserve the task-relevant information. Unlike general document summarisation
+    which aims for comprehensive content coverage, prompt summarisation is task-oriented
+    — the summary should retain the information the model needs to complete the specific
+    downstream task, which may be a small subset of the full content. Prompt summarisation
+    can be performed by a separate summarisation model, by the same model via a pre-summarisation
+    pass, or through automated extraction of task-relevant content segments.
+- type: key-claim
+  title: Key claim about Prompt Summarization
+  body: Prompt Summarization using task-aware summaries (summaries generated with
+    explicit reference to the downstream task) substantially outperforms generic summaries
+    as prompt inputs — task-aware summaries prioritise retention of information relevant
+    to the specific downstream task over balanced content coverage, producing compressed
+    prompts that preserve task performance at substantially higher compression ratios
+    than generic summaries which retain irrelevant content while potentially omitting
+    task-critical details; the improvement from task-awareness is largest for long
+    documents where the proportion of task-relevant content is small relative to total
+    content.
+- type: warning
+  title: Common pitfall regarding Prompt Summarization
+  body: Prompt Summarization for multi-turn interactions introduces error accumulation
+    — if summaries at each turn compress information that later turns depend on, quality
+    degrades progressively and the full compressed context may no longer support accurate
+    task completion; systems using rolling prompt summarisation must implement quality
+    checkpoints that detect when compressed context has lost information required
+    for current task performance and trigger context reconstruction from raw history
+    rather than continuing to build on degraded summaries.

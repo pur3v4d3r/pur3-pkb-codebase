@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-02-output-quality-coherence",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-02-output-quality-coherence.md",
+    "notes": "Fifteen concepts covering output quality and coherence in LLM-generated text.\nCovers discourse coherence, narrative consistency, logical entailment\nverification, non-sequitur detection, hedging calibration, specificity\nvs generality tradeoff, abstraction level control, verbosity control,\ninformation density, redundancy reduction, contradiction detection,\nclaim strength calibration, nuance preservation, stance consistency,\nand register/tone control."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-02-output-quality-coherence",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-02-output-quality-coherence"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Discourse Coherence in LLM Outputs",
+      "kebab": "discourse-coherence-in-llm-outputs",
+      "brief_path": "briefs/b03-02-output-quality-coherence/discourse-coherence-in-llm-outputs.yaml",
+      "expected_seed_filename": "discourse-coherence-in-llm-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Narrative Consistency Prompting",
+      "kebab": "narrative-consistency-prompting",
+      "brief_path": "briefs/b03-02-output-quality-coherence/narrative-consistency-prompting.yaml",
+      "expected_seed_filename": "narrative-consistency-prompting-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Logical Entailment Verification",
+      "kebab": "logical-entailment-verification",
+      "brief_path": "briefs/b03-02-output-quality-coherence/logical-entailment-verification.yaml",
+      "expected_seed_filename": "logical-entailment-verification-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Non-Sequitur Detection in Outputs",
+      "kebab": "non-sequitur-detection-in-outputs",
+      "brief_path": "briefs/b03-02-output-quality-coherence/non-sequitur-detection-in-outputs.yaml",
+      "expected_seed_filename": "non-sequitur-detection-in-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Hedging Calibration",
+      "kebab": "hedging-calibration",
+      "brief_path": "briefs/b03-02-output-quality-coherence/hedging-calibration.yaml",
+      "expected_seed_filename": "hedging-calibration-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Specificity vs Generality Tradeoff",
+      "kebab": "specificity-vs-generality-tradeoff",
+      "brief_path": "briefs/b03-02-output-quality-coherence/specificity-vs-generality-tradeoff.yaml",
+      "expected_seed_filename": "specificity-vs-generality-tradeoff-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Abstraction Level Control",
+      "kebab": "abstraction-level-control",
+      "brief_path": "briefs/b03-02-output-quality-coherence/abstraction-level-control.yaml",
+      "expected_seed_filename": "abstraction-level-control-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Verbosity Control in Prompts",
+      "kebab": "verbosity-control-in-prompts",
+      "brief_path": "briefs/b03-02-output-quality-coherence/verbosity-control-in-prompts.yaml",
+      "expected_seed_filename": "verbosity-control-in-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Information Density Optimization",
+      "kebab": "information-density-optimization",
+      "brief_path": "briefs/b03-02-output-quality-coherence/information-density-optimization.yaml",
+      "expected_seed_filename": "information-density-optimization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Redundancy Reduction in Outputs",
+      "kebab": "redundancy-reduction-in-outputs",
+      "brief_path": "briefs/b03-02-output-quality-coherence/redundancy-reduction-in-outputs.yaml",
+      "expected_seed_filename": "redundancy-reduction-in-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Contradiction Detection in Outputs",
+      "kebab": "contradiction-detection-in-outputs",
+      "brief_path": "briefs/b03-02-output-quality-coherence/contradiction-detection-in-outputs.yaml",
+      "expected_seed_filename": "contradiction-detection-in-outputs-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Claim Strength Calibration",
+      "kebab": "claim-strength-calibration",
+      "brief_path": "briefs/b03-02-output-quality-coherence/claim-strength-calibration.yaml",
+      "expected_seed_filename": "claim-strength-calibration-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Nuance Preservation in Summarization",
+      "kebab": "nuance-preservation-in-summarization",
+      "brief_path": "briefs/b03-02-output-quality-coherence/nuance-preservation-in-summarization.yaml",
+      "expected_seed_filename": "nuance-preservation-in-summarization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Stance Consistency Across Output",
+      "kebab": "stance-consistency-across-output",
+      "brief_path": "briefs/b03-02-output-quality-coherence/stance-consistency-across-output.yaml",
+      "expected_seed_filename": "stance-consistency-across-output-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Register and Tone Control",
+      "kebab": "register-and-tone-control",
+      "brief_path": "briefs/b03-02-output-quality-coherence/register-and-tone-control.yaml",
+      "expected_seed_filename": "register-and-tone-control-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

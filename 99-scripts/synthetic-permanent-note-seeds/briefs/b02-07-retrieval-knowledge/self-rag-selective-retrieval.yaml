@@ -1,0 +1,57 @@
+concept: Self-RAG Selective Retrieval
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- large-language-models
+- adaptive-inference
+aliases:
+- Self-RAG
+- adaptive retrieval
+- on-demand retrieval
+- retrieval-on-demand
+broader:
+- retrieval-augmented-generation
+- adaptive-rag-routing
+related:
+- adaptive-rag-routing
+- corrective-rag-pipeline
+- iterative-retrieval-augmentation
+prerequisites:
+- retrieval-augmented-generation
+- large-language-models
+- reinforcement-learning-from-feedback
+confidence: high
+callouts:
+- type: definition
+  title: Self-RAG Selective Retrieval
+  body: 'Self-RAG (Self-Reflective Retrieval Augmented Generation) is a RAG architecture
+    in which the model itself decides when to retrieve, what to retrieve, and how
+    to use the retrieved information, using special reflection tokens inserted into
+    the generation process. The model generates four types of reflection tokens: Retrieve
+    tokens (should the model retrieve at this point?), ISREL tokens (is the retrieved
+    passage relevant?), ISSUP tokens (does the generated text correctly use the retrieved
+    content?), and ISUSE tokens (is the generated response useful overall?). These
+    tokens enable the model to selectively retrieve only when retrieval is beneficial,
+    to assess the quality of retrieved content, and to evaluate whether the generated
+    response faithfully uses the retrieved information — solving the over-retrieval
+    and under-retrieval problems of fixed-retrieval architectures.'
+- type: key-claim
+  title: Key claim about Self-RAG Selective Retrieval
+  body: Self-RAG's selective retrieval mechanism substantially improves response quality
+    compared to retrieve-always architectures by avoiding retrieval noise on questions
+    where the model's parametric knowledge is sufficient and reliable — retrieve-always
+    architectures degrade performance on questions within the model's competence by
+    injecting retrieved passages that may be relevant but slightly different from
+    the correct answer, introducing distraction and citation drift; selective retrieval
+    concentrates retrieval on questions where the model genuinely lacks reliable parametric
+    knowledge.
+- type: warning
+  title: Common pitfall regarding Self-RAG Selective Retrieval
+  body: Self-RAG's reflection tokens must be generated reliably for the architecture
+    to function correctly — if the model's Retrieve decisions are miscalibrated (retrieving
+    when parametric knowledge is sufficient, or not retrieving when it is needed),
+    the downstream response quality is worse than either always-retrieve or never-retrieve
+    baselines; training Self-RAG models requires careful calibration of the reflection
+    token generation through reinforcement learning or supervised training on carefully
+    curated reflection data, and the calibration must be validated on the specific
+    deployment domain rather than assumed to transfer from the training distribution.

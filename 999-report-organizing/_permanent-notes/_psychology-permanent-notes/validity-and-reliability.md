@@ -18,7 +18,7 @@ subdomains:
   - measurement
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - validity-and-reliability-synthetic-seed-2026-05-01
@@ -67,8 +67,79 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Reliability vs Validity Overview**
+> *Identify the key differences between reliability and validity.*
+>
+> ```mermaid
+> graph TD
+>   A[Consistency]
+>   B[Accuracy]
+>   C[Validity]
+>   D[Reliability]
+>   A -->|Measures| C
+>   B -->|Reflects Intended Construct| C
+>   A -->|Measures| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Assessment Mechanisms Flowchart**
+> *Follow the process of assessing reliability and validity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Test Administration]
+>   C[Reliability Assessment]
+>   D[Validity Assessment]
+>   E[End]
+>   A --> B
+>   B -->|Consistency Across Occasions/Items| C
+>   C -->|Alignment with Construct| D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Comparison**
+> *Compare the practical implications of reliability and validity in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Educational Assessments]
+>   C[Psychological Testing]
+>   D[Reliability]
+>   E[Validity]
+>   F[Curriculum Alignment]
+>   G[Treatment Plans]
+>   H[Fair Evaluations]
+>   I[Effective Teaching Strategies]
+>   J[Avoid Misdiagnosis]
+>   K[Accurate Diagnosis]
+>   L[Identify Student Abilities]
+>   A -->|Reliability| D
+>   A -->|Validity| E
+>   B -->|Reliability| D
+>   B -->|Validity| H
+>   C -->|Reliability| J
+>   C -->|Validity| K
+>   D --> F
+>   D --> G
+>   D --> I
+>   D --> L
+>   E --> F
+>   E --> G
+>   E --> H
+>   E --> K
+> ```
 
 # Validity and Reliability
 

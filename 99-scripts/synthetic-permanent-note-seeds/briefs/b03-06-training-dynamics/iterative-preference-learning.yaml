@@ -1,0 +1,62 @@
+concept: Iterative Preference Learning
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- reinforcement-learning
+- training-dynamics
+- alignment
+aliases:
+- online RLHF
+- iterative DPO
+- progressive preference learning
+broader:
+- training-dynamics-and-data-pipelines
+- rlhf
+- reinforcement-learning
+- large-language-models
+related:
+- rlaif-rl-from-ai-feedback
+- constitutional-ai-data-pipeline
+- self-play-data-generation
+- synthetic-data-generation-for-training
+prerequisites:
+- rlhf
+- preference-learning
+- reinforcement-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Iterative Preference Learning
+  body: Iterative Preference Learning refers to the training methodology that alternates
+    between generating model responses, collecting preference feedback on those responses,
+    and updating the model based on the collected preferences — repeating this generate-label-update
+    cycle multiple times to progressively improve model quality. Unlike offline RLHF
+    (which trains on a fixed preference dataset collected from the initial model),
+    iterative preference learning continuously generates new preference data from
+    the current model's output distribution, ensuring that the preference signal remains
+    relevant to the model's current capability level and addressing the distribution
+    mismatch problem where the reward model trained on initial model data may be poorly
+    calibrated for the improved model's output distribution.
+- type: key-claim
+  title: Key claim about Iterative Preference Learning
+  body: Iterative Preference Learning substantially outperforms single-round RLHF
+    on capability and alignment metrics at matched total annotation budgets — empirical
+    comparisons show that allocating a fixed annotation budget to multiple rounds
+    of smaller preference datasets (iterative) versus one round of a larger dataset
+    (offline) produces better final model quality, because iterative learning generates
+    preference data from the current model's distribution rather than the initial
+    model's distribution; the distribution-matched data from later rounds provides
+    more informative signal about the current model's failure modes than the distribution-mismatched
+    data from earlier rounds.
+- type: warning
+  title: Common pitfall regarding Iterative Preference Learning
+  body: Iterative Preference Learning is susceptible to reward hacking amplification
+    through iteration — if the reward model has exploitable weaknesses (ways to achieve
+    high reward scores without actually improving in the intended dimensions), iterative
+    RL will progressively exploit these weaknesses more aggressively in each iteration
+    as the model becomes better at finding reward-maximising outputs; online iterative
+    learning requires continuous reward model recalibration and reward hacking detection
+    to prevent progressive exploitation, as the same annotation budget that enables
+    iterative improvement also enables iterative exploitation without careful reward
+    model maintenance.

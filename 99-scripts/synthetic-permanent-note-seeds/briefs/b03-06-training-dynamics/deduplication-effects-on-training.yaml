@@ -1,0 +1,61 @@
+concept: Deduplication Effects on Training
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- training-dynamics
+- data-science
+- machine-learning
+aliases:
+- training data deduplication
+- corpus deduplication effects
+- near-deduplication impact on LLMs
+broader:
+- training-dynamics-and-data-pipelines
+- data-preprocessing
+- large-language-models
+related:
+- memorization-vs-generalization
+- pretraining-data-influence
+- data-contamination-effects
+- toxic-content-filtering-in-pretraining
+prerequisites:
+- data-preprocessing
+- machine-learning
+- large-language-models
+- training-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Deduplication Effects on Training
+  body: Deduplication Effects on Training refer to the impact on LLM training and
+    capability that results from removing or downsampling duplicate or near-duplicate
+    text examples from pretraining corpora — affecting memorisation rates, generalisation
+    quality, training efficiency, and capability benchmark performance. Deduplication
+    is a standard preprocessing step for LLM pretraining corpora (used in GPT-3, PaLM,
+    LLaMA, and most other large-scale models), motivated by the empirical finding
+    that high data duplication increases memorisation of specific training examples,
+    reduces effective training data diversity, and can bias the model toward over-representing
+    duplicated content. Deduplication methods range from exact deduplication (removing
+    identical documents), near-deduplication (removing documents with high n-gram
+    overlap using MinHash/LSH), and semantic deduplication (removing semantically
+    similar documents regardless of textual overlap).
+- type: key-claim
+  title: Key claim about Deduplication Effects on Training
+  body: Deduplication Effects on Training follow a quality-diversity tradeoff where
+    deduplication improves generalisation while reducing effective dataset size —
+    controlled pretraining experiments with varying deduplication stringency show
+    that moderate near-deduplication reduces memorisation by 2–5x and improves downstream
+    benchmark performance while high-stringency deduplication reduces benchmark performance
+    by removing beneficial exposure to diverse phrasings of high-quality content;
+    the optimal deduplication level reflects a balance between the memorisation-reduction
+    benefit of deduplication and the diversity-preservation value of retaining multiple
+    phrasings that provide complementary views of the same concepts.
+- type: warning
+  title: Common pitfall regarding Deduplication Effects on Training
+  body: Deduplication Effects on Training vary significantly by domain — aggressive
+    deduplication of domains with naturally repetitive structure (legal text, scientific
+    abstracts, code documentation) removes domain-relevant variation and can substantially
+    impair capability in those domains by reducing exposure to the structural patterns
+    that constitute domain competence; domain-specific deduplication thresholds that
+    account for expected intra-domain similarity are more appropriate than applying
+    a uniform deduplication threshold to heterogeneous pretraining corpora.

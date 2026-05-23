@@ -1,0 +1,56 @@
+concept: Self-Attention Patterns
+domain: transformer-architecture
+secondary_domains:
+- mechanistic-interpretability
+- deep-learning
+- natural-language-processing
+aliases:
+- intra-sequence attention patterns
+- self-attention structure
+- transformer self-attention behaviour
+broader:
+- transformer-architecture
+- multi-head-attention-mechanics
+narrower:
+- induction-heads
+- copy-suppression-heads
+- attention-sinks
+- attention-head-specialization
+related:
+- multi-head-attention-mechanics
+- positional-encoding-variants
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+confidence: high
+callouts:
+- type: definition
+  title: Self-Attention Patterns
+  body: Self-attention patterns refer to the characteristic structural regularities
+    in the attention weight matrices produced by transformer self-attention layers
+    — including diagonal patterns (attending to the current or adjacent tokens), vertical
+    stripe patterns (attending broadly to a specific token type such as the previous
+    token, period, or separator), block patterns (attending broadly within a clause
+    or sentence), induction patterns (attending to tokens that previously followed
+    similar contexts), and copy patterns (attending to tokens that should be reproduced
+    in the output). Analysis of self-attention patterns is a central tool in mechanistic
+    interpretability for decomposing what information different heads process and
+    how that information is combined across layers.
+- type: key-claim
+  title: Key claim about Self-Attention Patterns
+  body: Self-attention patterns are not random but correspond to functionally interpretable
+    operations that are conserved across models of different sizes and architectures
+    — syntactic dependency resolution, semantic role labelling, coreference tracking,
+    and n-gram completion are all recoverable from the patterns of individual attention
+    heads, suggesting that these operations represent the natural decomposition of
+    language understanding into modular computational primitives that transformer
+    training consistently rediscovers.
+- type: warning
+  title: Common pitfall regarding Self-Attention Patterns
+  body: Self-attention pattern analysis at the level of attention weights provides
+    an incomplete picture of transformer information processing because the model's
+    behaviour is determined by the product of attention weights and value vectors,
+    not by the weights alone; the same attention weight pattern can implement different
+    computational operations depending on the value vectors, and interpretability
+    analyses that focus exclusively on attention weights without examining value matrices
+    will systematically misattribute the functional roles of individual heads.

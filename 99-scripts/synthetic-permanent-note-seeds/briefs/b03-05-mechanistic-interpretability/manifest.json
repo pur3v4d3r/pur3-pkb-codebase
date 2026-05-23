@@ -1,0 +1,117 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-05-mechanistic-interpretability",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-05-mechanistic-interpretability.md",
+    "notes": "Fifteen mechanistic interpretability and explainability topics: feature\nattribution, saliency mapping, attention visualisation, probing classifiers,\nlinear representation hypothesis, representation engineering, concept\nactivation vectors, logit lens, causal tracing, knowledge localisation in FFN,\nfactual association mechanisms, attention knockout, path patching,\ndistributed representations, and polysemanticity."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-05-mechanistic-interpretability",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-05-mechanistic-interpretability"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 14,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Feature Attribution in LLMs",
+      "kebab": "feature-attribution-in-llms",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/feature-attribution-in-llms.yaml",
+      "expected_seed_filename": "feature-attribution-in-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Saliency Mapping for Prompts",
+      "kebab": "saliency-mapping-for-prompts",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/saliency-mapping-for-prompts.yaml",
+      "expected_seed_filename": "saliency-mapping-for-prompts-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Attention Visualization",
+      "kebab": "attention-visualization",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/attention-visualization.yaml",
+      "expected_seed_filename": "attention-visualization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Probing Classifiers",
+      "kebab": "probing-classifiers",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/probing-classifiers.yaml",
+      "expected_seed_filename": "probing-classifiers-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Linear Representation Hypothesis",
+      "kebab": "linear-representation-hypothesis",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/linear-representation-hypothesis.yaml",
+      "expected_seed_filename": "linear-representation-hypothesis-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Concept Activation Vectors",
+      "kebab": "concept-activation-vectors",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/concept-activation-vectors.yaml",
+      "expected_seed_filename": "concept-activation-vectors-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Logit Lens Technique",
+      "kebab": "logit-lens-technique",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/logit-lens-technique.yaml",
+      "expected_seed_filename": "logit-lens-technique-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Causal Tracing in Transformers",
+      "kebab": "causal-tracing-in-transformers",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/causal-tracing-in-transformers.yaml",
+      "expected_seed_filename": "causal-tracing-in-transformers-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Knowledge Localization in FFN",
+      "kebab": "knowledge-localization-in-ffn",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/knowledge-localization-in-ffn.yaml",
+      "expected_seed_filename": "knowledge-localization-in-ffn-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Factual Association Mechanisms",
+      "kebab": "factual-association-mechanisms",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/factual-association-mechanisms.yaml",
+      "expected_seed_filename": "factual-association-mechanisms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Attention Knockout Analysis",
+      "kebab": "attention-knockout-analysis",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/attention-knockout-analysis.yaml",
+      "expected_seed_filename": "attention-knockout-analysis-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Path Patching Methodology",
+      "kebab": "path-patching-methodology",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/path-patching-methodology.yaml",
+      "expected_seed_filename": "path-patching-methodology-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Distributed Representations in Transformers",
+      "kebab": "distributed-representations-in-transformers",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/distributed-representations-in-transformers.yaml",
+      "expected_seed_filename": "distributed-representations-in-transformers-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Polysemanticity in Neural Networks",
+      "kebab": "polysemanticity-in-neural-networks",
+      "brief_path": "briefs/b03-05-mechanistic-interpretability/polysemanticity-in-neural-networks.yaml",
+      "expected_seed_filename": "polysemanticity-in-neural-networks-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Representation Engineering",
+      "kebab": "representation-engineering",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/representation-engineering.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at representation-engineering.md"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,59 @@
+concept: Information Density Optimization
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- information-theory
+- prompt-engineering
+- natural-language-generation
+aliases:
+- content density in LLMs
+- high-information-per-token outputs
+- information packing in text
+broader:
+- output-quality-in-llms
+- verbosity-control-in-prompts
+- token-efficient-prompting
+related:
+- verbosity-control-in-prompts
+- redundancy-reduction-in-outputs
+- prompt-distillation
+- abstractive-context-compression
+prerequisites:
+- information-theory
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Information Density Optimization
+  body: Information Density Optimization refers to the design of prompting strategies
+    and output formatting guidance aimed at maximising the ratio of novel, informative
+    content to total tokens in LLM outputs — producing responses in which each token
+    carries substantial informational weight and filler content, redundancy, hedging
+    padding, and structural boilerplate are minimised. High information density outputs
+    communicate more knowledge per unit of reading time and cognitive effort, reducing
+    cognitive load while increasing practical utility. Information density in LLM
+    outputs is degraded by verbose hedging patterns, repetition of previously stated
+    content, excessive structural scaffolding (over-long introductions and conclusions,
+    redundant transitional phrases), and padding behaviours that RLHF-aligned models
+    use to simulate thoroughness.
+- type: key-claim
+  title: Key claim about Information Density Optimization
+  body: Information Density Optimization through prompting produces measurably different
+    outputs from the same model — experiments comparing standard prompting with information-density-optimised
+    prompting (combining explicit density instructions, structured output formats,
+    and examples of high-density versus low-density outputs) show that dense prompting
+    produces outputs rated by independent evaluators as 20–40% more information-dense
+    without sacrificing accuracy, confirming that LLMs are capable of substantially
+    higher information density than their defaults and that the low-density default
+    is a prompt-sensitive behaviour rather than a fundamental capability limitation.
+- type: warning
+  title: Common pitfall regarding Information Density Optimization
+  body: Information Density Optimization creates a reliability tradeoff — maximising
+    information density by stripping hedges and qualifications from outputs produces
+    denser but less epistemically accurate communication, as many hedges are not padding
+    but carry genuine uncertainty information; optimising for information density
+    should not be confused with optimising for compression ratio, and density-optimised
+    prompts must explicitly preserve uncertainty markers, necessary qualifications,
+    and conditionals that carry informational weight while removing genuinely redundant
+    content.

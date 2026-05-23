@@ -1,0 +1,56 @@
+concept: Chunking Strategies for RAG
+domain: retrieval-augmented-generation
+secondary_domains:
+- retrieval-augmented-generation
+- document-processing
+- information-retrieval
+aliases:
+- document chunking
+- text segmentation for RAG
+- passage splitting strategies
+broader:
+- retrieval-augmented-generation
+- document-processing
+related:
+- dense-retrieval-for-rag
+- embedding-model-selection
+- retrieval-faithfulness
+prerequisites:
+- retrieval-augmented-generation
+- text-segmentation
+- information-retrieval
+confidence: high
+callouts:
+- type: definition
+  title: Chunking Strategies for RAG
+  body: 'Chunking strategies for RAG refer to the methods used to divide source documents
+    into retrievable units (chunks) that are embedded and indexed for retrieval. The
+    chunking decision determines the granularity of retrieval: coarse chunks preserve
+    more context per retrieved unit but may include irrelevant surrounding text; fine
+    chunks are more precise but may lack sufficient context for the generator. Chunking
+    strategies range from fixed-size overlapping windows (e.g., 256-token chunks with
+    64-token overlap) to semantic chunking (splitting at paragraph or section boundaries),
+    to hierarchical chunking (indexing at multiple granularities and retrieving at
+    the most appropriate level), to small-to-large retrieval (indexing fine chunks
+    but retrieving the surrounding context window of any matching chunk).'
+- type: key-claim
+  title: Key claim about Chunking Strategies for RAG
+  body: Chunking strategy is a dominant determinant of RAG system quality that is
+    frequently under-optimised relative to embedding model and retrieval algorithm
+    selection — the chunking strategy determines both the precision of retrieved passages
+    (fine chunks surface specific evidence) and the completeness of context available
+    to the generator (coarse chunks include necessary surrounding context), and the
+    optimal chunking granularity varies substantially by document type, query type,
+    and generator context window size; task-specific chunking validation is essential
+    and generic chunking parameters are rarely optimal.
+- type: warning
+  title: Common pitfall regarding Chunking Strategies for RAG
+  body: Sentence-level or fixed-token-boundary chunking is the most common and most
+    error-prone chunking approach — splitting at token boundaries interrupts sentences
+    and removes semantic context required for correct interpretation, while sentence-level
+    splitting fragments information that spans multiple sentences (lists, tables,
+    multi-sentence arguments) into chunks that are individually incomplete; semantic
+    chunking at paragraph or section boundaries preserves linguistic units but produces
+    variable-length chunks that challenge embedding model capacity and retrieval scoring;
+    no single chunking strategy dominates across all document types, requiring domain-specific
+    validation.

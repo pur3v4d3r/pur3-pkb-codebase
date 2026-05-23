@@ -1,0 +1,65 @@
+concept: Distributed Representations in Transformers
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- representation-learning
+- neural-networks
+aliases:
+- superposition in neural networks
+- distributed feature encoding
+- holographic memory in LLMs
+broader:
+- mechanistic-interpretability
+- representation-learning
+- transformer-architecture
+related:
+- polysemanticity-in-neural-networks
+- linear-representation-hypothesis
+- probing-classifiers
+- concept-activation-vectors
+prerequisites:
+- representation-learning
+- neural-network-theory
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Distributed Representations in Transformers
+  body: Distributed Representations in Transformers refer to the encoding of information
+    in the activation spaces of transformer models where individual concepts, features,
+    and facts are not represented by single dedicated neurons but are spread across
+    many neurons, and each neuron participates in representing many different concepts
+    — contrasting with local symbolic representations where each concept has a unique
+    dedicated neuron. Distributed representation in transformers is motivated by the
+    superposition hypothesis (Ely et al., Anthropic), which proposes that transformers
+    represent more features than they have neurons by encoding features as nearly-orthogonal
+    directions in a high-dimensional space, allowing exponentially many features to
+    coexist through superposition at the cost of interference between features. This
+    distributed encoding underlies both the robustness of neural representations (damage
+    to individual neurons is non-catastrophic) and the difficulty of mechanistic interpretability
+    (individual neurons are polysemantic and not directly interpretable).
+- type: key-claim
+  title: Key claim about Distributed Representations in Transformers
+  body: Distributed Representations in Transformers via superposition enable LLMs
+    to encode many more features than they have neurons — theoretical analysis and
+    empirical experiments (toy model studies, sparse auto-encoder analyses) demonstrate
+    that a model with n hidden dimensions can represent approximately exponentially
+    more than n features using superposition, at the cost of interference between
+    co-active features; this compression capacity explains how billion-parameter models
+    encode the vast factual, linguistic, and conceptual knowledge needed for broad
+    capabilities, and why neuron-level interpretability approaches that treat each
+    neuron as a discrete feature fail to account for the model's representational
+    capacity.
+- type: warning
+  title: Common pitfall regarding Distributed Representations in Transformers
+  body: Distributed Representations in Transformers make neuron-level interpretability
+    analysis inherently incomplete — because features are distributed across neurons
+    via superposition, analysing individual neuron activations provides an aliased
+    view of the underlying features rather than a faithful account of what the model
+    is computing; interpretability methods that assume local feature representation
+    (e.g., max-activating input analysis for individual neurons) systematically misrepresent
+    the model's computational structure, and mechanistic interpretability requires
+    methods that can identify distributed features (sparse auto-encoders, concept
+    activation vectors, representation engineering) to reveal the true computational
+    structure.

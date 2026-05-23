@@ -1,0 +1,59 @@
+concept: Dense Retrieval for RAG
+domain: retrieval-augmented-generation
+secondary_domains:
+- information-retrieval
+- vector-databases
+- large-language-models
+aliases:
+- neural retrieval
+- embedding-based retrieval
+- vector retrieval for RAG
+- dense passage retrieval
+broader:
+- retrieval-augmented-generation
+- information-retrieval
+narrower:
+- embedding-model-selection
+- late-interaction-retrieval
+related:
+- sparse-retrieval-bm25
+- hybrid-retrieval-patterns
+- embedding-model-selection
+- cross-encoder-reranking
+prerequisites:
+- information-retrieval
+- vector-embeddings
+- retrieval-augmented-generation
+confidence: high
+callouts:
+- type: definition
+  title: Dense Retrieval for RAG
+  body: Dense retrieval for RAG is an information retrieval approach in which documents
+    and queries are encoded into dense vector representations using a neural encoder
+    model, and retrieval is performed by maximum inner product search (MIPS) or approximate
+    nearest-neighbour search (ANN) in the embedding space. Unlike sparse retrieval
+    methods that rely on lexical term matching, dense retrieval captures semantic
+    similarity — a document about "heart attack" will be retrieved for the query "myocardial
+    infarction" because their embeddings are close in vector space even though they
+    share no lexical terms. In RAG systems, dense retrieval is the primary mechanism
+    for finding semantically relevant context documents for a given user query, and
+    its quality is the primary determinant of the RAG system's ability to answer semantically
+    complex questions.
+- type: key-claim
+  title: Key claim about Dense Retrieval for RAG
+  body: Dense retrieval for RAG is superior to sparse retrieval for semantically complex
+    queries but inferior for exact-match queries (entity names, technical terms, product
+    codes) where the embedding similarity metric provides weaker signal than lexical
+    matching — the optimal RAG retrieval system combines dense and sparse retrieval
+    in a hybrid architecture rather than selecting either approach exclusively, achieving
+    dense retrieval's semantic coverage while retaining sparse retrieval's precision
+    for exact-match queries.
+- type: warning
+  title: Common pitfall regarding Dense Retrieval for RAG
+  body: Dense retrieval quality depends critically on the alignment between the query
+    distribution and the embedding model's training distribution — embedding models
+    trained on generic web text produce lower-quality retrievals for domain-specific
+    corpora (medical literature, legal documents, scientific papers) than models specifically
+    fine-tuned on in-domain query-document pairs; deploying a generic embedding model
+    for domain-specific RAG without domain adaptation evaluation is a common cause
+    of RAG retrieval quality failures that are misattributed to the generation component.

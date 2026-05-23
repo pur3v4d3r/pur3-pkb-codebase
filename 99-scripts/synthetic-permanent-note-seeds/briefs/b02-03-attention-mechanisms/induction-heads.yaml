@@ -1,0 +1,53 @@
+concept: Induction Heads
+domain: transformer-architecture
+secondary_domains:
+- mechanistic-interpretability
+- large-language-models
+- in-context-learning
+aliases:
+- induction circuit
+- k-v copying heads
+- pattern completion heads
+broader:
+- attention-head-specialization
+- self-attention-patterns
+related:
+- copy-suppression-heads
+- in-context-learning-as-meta-learning
+- self-attention-patterns
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Induction Heads
+  body: 'Induction heads are a specific class of attention heads that implement the
+    operation: "given the current token, find all previous occurrences of this token
+    in the context, and attend to the token that followed each of those occurrences."
+    This operation allows the model to complete repeated bigrams — if "[A][B] ...
+    [A]" appears in context, the induction head boosts the probability of "[B]" following
+    the second occurrence of "[A]." Induction heads consist of a two-head circuit:
+    a "previous token head" that attends from each token to the preceding token, and
+    an "induction head" proper that attends from the current token to tokens that
+    the previous-token head found to be similar to the current token. The induction
+    circuit is proposed as a key mechanistic substrate for in-context learning.'
+- type: key-claim
+  title: Key claim about Induction Heads
+  body: The formation of induction heads represents a phase transition in transformer
+    training — models undergo a sudden transition from a regime where they can only
+    use earlier-in-training patterns to a regime where in-context learning emerges,
+    and this transition coincides with the emergence of induction head circuits in
+    the early layers, providing mechanistic evidence that in-context learning capability
+    is directly implemented by induction head circuits rather than being an emergent
+    property of deeper layers.
+- type: warning
+  title: Common pitfall regarding Induction Heads
+  body: While induction heads provide a compelling mechanistic story for simple pattern-completion
+    in-context learning, they do not fully explain the rich in-context learning capability
+    of large models — tasks requiring multi-step reasoning, concept composition, and
+    format generalisation cannot be implemented by induction circuits alone, and the
+    mechanistic story for higher-level in-context learning behaviours remains incomplete;
+    claiming that induction heads explain in-context learning generally overstates
+    what the mechanistic evidence currently supports.

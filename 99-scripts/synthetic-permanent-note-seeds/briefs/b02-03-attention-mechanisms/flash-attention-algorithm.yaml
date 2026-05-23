@@ -1,0 +1,56 @@
+concept: Flash Attention Algorithm
+domain: transformer-architecture
+secondary_domains:
+- hardware-aware-algorithms
+- deep-learning
+- efficient-transformers
+aliases:
+- FlashAttention
+- IO-aware attention
+- memory-efficient attention
+broader:
+- transformer-architecture
+- efficient-deep-learning
+related:
+- multi-head-attention-mechanics
+- grouped-query-attention
+- flash-attention-2
+- context-length
+prerequisites:
+- transformer-architecture
+- GPU-memory-hierarchy
+- attention-mechanisms
+confidence: high
+callouts:
+- type: definition
+  title: Flash Attention Algorithm
+  body: 'FlashAttention is a hardware-aware exact attention algorithm that computes
+    the standard scaled dot-product attention result while dramatically reducing GPU
+    memory bandwidth usage by exploiting the memory hierarchy: rather than materialising
+    the full $n \times n$ attention matrix in GPU HBM (high-bandwidth memory), it
+    tiles the computation to operate on attention blocks that fit entirely in GPU
+    SRAM (on-chip cache), computing the softmax incrementally using the numerically
+    stable online softmax algorithm. FlashAttention produces mathematically identical
+    outputs to standard attention but requires $O(n)$ memory for the attention matrix
+    rather than $O(n^2)$, enabling training and inference on sequences that are 5–10x
+    longer than standard attention allows on the same GPU hardware.'
+- type: key-claim
+  title: Key claim about Flash Attention Algorithm
+  body: FlashAttention's speedup comes not from algorithmic approximation but from
+    IO complexity reduction — the standard attention algorithm is not compute-bound
+    but memory-bandwidth-bound on modern GPUs because it repeatedly writes and reads
+    the $n \times n$ attention matrix from HBM, while FlashAttention fuses all attention
+    operations into a single CUDA kernel that reads and writes HBM only once, reducing
+    HBM access by a factor proportional to the SRAM/HBM bandwidth ratio and achieving
+    wall-clock speedups of 2–4x over optimised standard attention on typical sequence
+    lengths.
+- type: warning
+  title: Common pitfall regarding Flash Attention Algorithm
+  body: FlashAttention's compatibility guarantees cover the standard scaled dot-product
+    attention computation, but extensions to non-standard attention variants — custom
+    attention biases, head-specific masks, and attention sinks management — require
+    custom FlashAttention kernel modifications rather than being automatically supported;
+    engineers integrating FlashAttention into novel attention architectures must verify
+    that their specific attention variant is supported by the version of FlashAttention
+    they are using, as incompatible use can produce silent numerical errors or incorrect
+    gradients rather than explicit errors.

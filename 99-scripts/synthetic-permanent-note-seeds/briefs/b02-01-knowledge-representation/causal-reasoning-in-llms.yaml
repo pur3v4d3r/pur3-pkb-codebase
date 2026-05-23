@@ -1,0 +1,55 @@
+concept: Causal Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- causality
+- cognitive-science
+- large-language-models
+aliases:
+- causal inference in LLMs
+- cause-and-effect reasoning in language models
+- causal understanding in LLMs
+broader:
+- reasoning-in-llms
+- commonsense-reasoning-in-llms
+narrower:
+- counterfactual-reasoning-prompting
+related:
+- temporal-reasoning-in-llms
+- abductive-reasoning-in-llms
+- chain-of-thought-prompting
+- world-model-in-language-models
+prerequisites:
+- large-language-models
+- causal-inference
+- counterfactual-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Causal Reasoning in LLMs
+  body: 'Causal reasoning in LLMs is the capacity to identify, represent, and draw
+    inferences from causal relations — distinguishing causes from effects, inferring
+    likely causes from observed effects, predicting the consequences of interventions,
+    and reasoning about counterfactual states that would hold if a cause had been
+    different. True causal reasoning requires more than correlation-pattern matching:
+    it requires a structural causal model in which intervention on one variable changes
+    others only along directed causal edges, not through the statistical correlations
+    that exist in the training distribution. LLMs approximate causal reasoning through
+    pattern matching on causal language and narrative structure rather than through
+    any explicit implementation of Pearl''s do-calculus or a structural causal model.'
+- type: key-claim
+  title: Key claim about Causal Reasoning in LLMs
+  body: LLMs systematically confuse correlation with causation in tasks that require
+    distinguishing the two — they achieve high accuracy on causal question-answering
+    tasks where causal direction is recoverable from surface-form linguistic cues
+    (e.g., "caused," "led to," "because") but fail at tasks requiring intervention
+    reasoning (e.g., "if we forcibly set X to zero, what happens to Y?") where correct
+    answers require reasoning about the causal graph rather than linguistic patterns
+    in the training data.
+- type: warning
+  title: Common pitfall regarding Causal Reasoning in LLMs
+  body: Chain-of-thought prompting significantly improves LLM causal reasoning but
+    does not eliminate the correlation-causation conflation; even when prompted to
+    reason step-by-step, models may generate a plausible-sounding causal chain that
+    follows textual conventions for causal narrative without respecting the independence
+    assumptions required for valid causal inference, making CoT outputs confident
+    but causally invalid reasoning that is difficult to identify without domain expertise.

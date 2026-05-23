@@ -1,0 +1,62 @@
+concept: Register and Tone Control
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- sociolinguistics
+- prompt-engineering
+- natural-language-generation
+aliases:
+- style control in LLMs
+- formal-informal tone calibration
+- audience-appropriate language calibration
+broader:
+- output-quality-in-llms
+- prompt-engineering
+- sociolinguistics
+related:
+- abstraction-level-control
+- verbosity-control-in-prompts
+- audience-calibration
+- specificity-vs-generality-tradeoff
+prerequisites:
+- sociolinguistics
+- register-theory
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Register and Tone Control
+  body: Register and Tone Control refers to the prompting strategies and fine-tuning
+    approaches used to calibrate the social, functional, and emotional register of
+    LLM outputs — governing the formality level (formal academic prose versus informal
+    conversational text), the functional register (technical instruction, narrative
+    exposition, persuasive argument, emotional support), the tonal qualities (warm
+    versus cold, authoritative versus collaborative, confident versus tentative),
+    and the pragmatic conventions (hedging norms, politeness strategies, directness
+    conventions) appropriate to the target audience and communication purpose. LLMs
+    trained on diverse text corpora have learned a wide range of registers but exhibit
+    a strong default toward a specific register — moderately formal, mildly hedged,
+    moderately technical — that is appropriate for general assistants but suboptimal
+    for specialised professional, creative, or social communication contexts.
+- type: key-claim
+  title: Key claim about Register and Tone Control
+  body: Register and Tone Control is more reliably achieved through explicit role
+    and audience specification in the system prompt than through direct stylistic
+    instruction in the user prompt — telling the model "you are a formal academic
+    writing assistant for a peer-reviewed journal submission" produces more consistent
+    register than telling the model "write formally and academically", because role
+    specification activates learned sociolinguistic conventions associated with the
+    specified role while direct stylistic instruction requires the model to infer
+    appropriate conventions from abstract descriptors; this suggests that register
+    control should be managed primarily through system-prompt persona definition rather
+    than user-turn style instructions.
+- type: warning
+  title: Common pitfall regarding Register and Tone Control
+  body: Register and Tone Control is not uniformly stable across output length — models
+    maintain specified register reliably for short outputs but drift toward their
+    default register for long outputs, particularly after topic transitions and section
+    boundaries where the default register reasserts against the specified register;
+    long-form outputs requiring strict register consistency need periodic register
+    re-anchoring via injected instructions or context refreshes that reinstantiate
+    the target register specification rather than assuming that a single upfront specification
+    will maintain register consistency throughout the entire output.

@@ -18,7 +18,7 @@ subdomains:
   - epistemology
 
 created: 2026-05-01
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - theory-ladenness-of-observation-synthetic-seed-2026-05-01
@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Observation Influence by Theories**
+> *Follow the flow from observation to interpretation, noting how theories shape each step.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Attention]
+>   B --> C[Cognitive Processing]
+>   C --> D[Interpretation]
+>   A -.-> E[Theoretical Frameworks]
+>   B -.-> F[Selective Attention]
+>   C -.-> G[Memory Encoding]
+>   D -.-> H[Theory-Based Interpretation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Perceptual Bias in Observations**
+> *Compare how different theoretical backgrounds lead to distinct observations of the same event.*
+>
+> ```mermaid
+> graph TD
+>   A[Neuroscientist] --> B[Focus on Brain Structure]
+>   C[Non-Scientist] --> D[Ignoring Changes]
+>   E[Same Visual Stimuli] -.-> F[Different Perceptions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Theory-Ladenness**
+> *Trace the stages from theoretical expectations to interpretation, highlighting key cognitive processes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expectations] --> B[Hypotheses]
+>   B --> C[Attention Guidance]
+>   C --> D[Cognitive Processing]
+>   D --> E[Memory Encoding]
+>   E --> F[Interpretation]
+> ```
 
 # Theory-Ladenness of Observation
 

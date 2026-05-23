@@ -18,7 +18,7 @@ subdomains:
   - general-relativity
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - wormhole-synthetic-seed-2026-05-14
@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Wormhole Structure Overview**
+> *Follow the path from entrance to exit, noting instability points.*
+>
+> ```mermaid
+> graph TD
+>   A[Entrance] --> B[Neck]
+>   B --> C[Exit]
+>   B --> D[Collapse]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Non-Traversable vs Traversable Wormholes**
+> *Compare the stability and conditions for each type of wormhole.*
+>
+> ```mermaid
+> graph TD
+>   A[Non-traversable] --> B[Unstable]
+>   C[Traversable] --> D[Negative Energy Density]
+>   E[Stable Passage]
+> ```
+
+
+> [!abstract] **Diagram 3 — Wormhole Theoretical Models Timeline**
+> *Trace the evolution of wormhole theories over time.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant EinsteinRosen as ER
+>   participant MorrisThorne as MT
+>   participant QuantumFluctuations as QF
+>   ER->>MT: Proposes Non-traversable Wormholes (1935)
+>   MT->>QF: Introduces Traversable Models (1988)
+>   QF-->>ER: Explores Stabilization via Negative Energy
+> ```
 
 # Wormhole
 

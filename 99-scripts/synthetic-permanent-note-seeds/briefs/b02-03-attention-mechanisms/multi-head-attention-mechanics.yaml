@@ -1,0 +1,58 @@
+concept: Multi-Head Attention Mechanics
+domain: transformer-architecture
+secondary_domains:
+- deep-learning
+- large-language-models
+- mechanistic-interpretability
+aliases:
+- MHA
+- multi-head self-attention
+- transformer multi-head attention
+broader:
+- transformer-architecture
+- attention-mechanisms
+narrower:
+- grouped-query-attention
+- self-attention-patterns
+- attention-head-specialization
+related:
+- cross-attention-in-transformers
+- flash-attention-algorithm
+- positional-encoding-variants
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+- linear-algebra
+confidence: high
+callouts:
+- type: definition
+  title: Multi-Head Attention Mechanics
+  body: Multi-head attention (MHA) is the core computational mechanism of the transformer
+    architecture in which the input representation is linearly projected into h parallel
+    query, key, and value spaces (heads), a scaled dot-product attention operation
+    is computed independently within each head, and the h head outputs are concatenated
+    and projected through a learned output matrix to produce the layer's output. The
+    multi-head structure allows different heads to attend to different positional
+    and semantic aspects of the input simultaneously — one head may attend to syntactic
+    dependencies, another to coreference relations, and another to semantic topic
+    similarity — giving the layer a rich capacity to integrate diverse relational
+    information in a single computation. The scaled dot-product scaling by $\frac{1}{\sqrt{d_k}}$
+    prevents softmax saturation for large key dimensions.
+- type: key-claim
+  title: Key claim about Multi-Head Attention Mechanics
+  body: Multi-head attention's representational power comes from the diversity of
+    the h subspaces, not from the total parameter count — an h-head attention layer
+    with total dimension $d$ can represent h independent relational patterns simultaneously,
+    whereas a single-head attention layer with the same parameter count is constrained
+    to a single relational pattern, and empirical analysis consistently shows that
+    different heads learn qualitatively distinct and complementary attention patterns
+    that cooperate to produce the layer's output representation.
+- type: warning
+  title: Common pitfall regarding Multi-Head Attention Mechanics
+  body: 'The apparent interpretability of individual attention heads — the common
+    practice of visualising attention weights and attributing linguistic meaning to
+    the resulting patterns — is methodologically misleading: high attention weight
+    from token A to token B does not imply that information about B determines the
+    output for A, because value vectors can be zero-valued even when attention weights
+    are high, and the actual information flow is determined by the attention-weight-value
+    product rather than the attention weights alone.'

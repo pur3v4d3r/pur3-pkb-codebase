@@ -1,0 +1,56 @@
+concept: Knowledge Graph Augmented Generation
+domain: knowledge-representation
+secondary_domains:
+- retrieval-augmented-generation
+- natural-language-processing
+- knowledge-representation
+aliases:
+- KGAG
+- knowledge-graph RAG
+- graph-augmented generation
+- KG-RAG
+broader:
+- retrieval-augmented-generation
+- knowledge-representation
+narrower:
+- ontology-grounded-prompting
+- entity-linking-in-prompts
+related:
+- dense-retrieval-for-rag
+- knowledge-conflict-in-rag
+- entity-linking-in-prompts
+- semantic-grounding-in-llms
+prerequisites:
+- retrieval-augmented-generation
+- knowledge-graphs
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Graph Augmented Generation
+  body: Knowledge Graph Augmented Generation (KGAG) is a retrieval-augmented generation
+    architecture in which a structured knowledge graph — rather than or in addition
+    to an unstructured text corpus — serves as the external knowledge source. At query
+    time, the system traverses the KG to extract relevant entity-relation-entity triples
+    or subgraphs, linearises them into natural-language fragments, and injects those
+    fragments alongside the user query into the LLM's prompt. The graph structure
+    enables multi-hop reasoning paths that are difficult to surface through dense
+    vector retrieval over text chunks, because the graph explicitly encodes relational
+    chains that would otherwise need to be inferred through multiple text retrievals.
+- type: key-claim
+  title: Key claim about Knowledge Graph Augmented Generation
+  body: KGAG outperforms text-only RAG on multi-hop factual queries because the graph
+    structure explicitly encodes multi-hop relational paths that the retrieval step
+    can traverse deterministically, whereas text-based RAG must recover those paths
+    through multiple independent retrievals whose errors compound multiplicatively;
+    the structured graph also provides a natural mechanism for provenance tracking,
+    enabling exact citation of the triples that support each claim in the generated
+    output.
+- type: warning
+  title: Common pitfall regarding Knowledge Graph Augmented Generation
+  body: Knowledge graph augmented generation inherits all the staleness and coverage
+    limitations of the underlying KG — entities and relations not represented in the
+    graph are invisible to the system regardless of their presence in connected text
+    corpora, and the KG's schema choices impose a categorical structure on the world
+    that may not match the query's requirements; KGAG systems must include a fallback
+    to text-based retrieval for out-of-KG queries to avoid confident ignorance.

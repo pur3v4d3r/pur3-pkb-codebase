@@ -1,0 +1,56 @@
+concept: Conversational Context Compression
+domain: dialogue-systems
+secondary_domains:
+- prompt-engineering
+- efficient-inference
+- large-language-models
+aliases:
+- dialogue context compression
+- conversation history compression
+- context distillation for dialogue
+broader:
+- multi-turn-conversation-management
+- context-window-management
+related:
+- conversation-summarization-prompts
+- multi-turn-conversation-management
+- dialogue-state-tracking-prompts
+prerequisites:
+- large-language-models
+- context-window-management
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Conversational Context Compression
+  body: Conversational context compression is the set of techniques for representing
+    the informational content of a dialogue history in fewer tokens than a verbatim
+    transcript would require, enabling longer effective dialogue histories to fit
+    within a model's context window. Approaches include abstractive summarisation
+    of completed dialogue segments, belief-state extraction (replacing conversational
+    turns with a structured slot-value summary), retrieval-based selective inclusion
+    (including only turns with high relevance to the current query), event-level compression
+    (reducing each turn to a single sentence describing its key informational contribution),
+    and hierarchical summarisation (producing multi-level summaries at different granularities
+    for different parts of the conversation). The compression must preserve information
+    critical for coherent continuation while eliminating redundancy.
+- type: key-claim
+  title: Key claim about Conversational Context Compression
+  body: The optimal compression strategy for a multi-turn conversation depends on
+    the task structure — task-oriented dialogues are best compressed via slot-value
+    belief state extraction (maximally compact, captures task-relevant information),
+    while open-domain conversations are best compressed via segment-level abstractive
+    summarisation (preserves narrative coherence), and mixed dialogues require hybrid
+    approaches that apply different compression strategies to task-oriented and casual-conversation
+    segments; applying a single uniform compression strategy to all dialogue types
+    produces worse results than any task-appropriate strategy.
+- type: warning
+  title: Common pitfall regarding Conversational Context Compression
+  body: Conversational context compression introduces information loss that can cause
+    subsequent turns to produce responses inconsistent with compressed prior turns
+    — the specific words, phrases, and commitments in earlier turns may matter for
+    later turns in ways that the compression does not preserve (e.g., a user's specific
+    phrasing that implied a constraint, or a model statement that implied a capability);
+    compression strategies must be validated by examining whether compressed conversations
+    produce the same subsequent turn quality as uncompressed conversations, not merely
+    by measuring token reduction.

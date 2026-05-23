@@ -1,0 +1,55 @@
+concept: Conversation Summarization Prompts
+domain: dialogue-systems
+secondary_domains:
+- text-summarization
+- conversational-ai
+- prompt-engineering
+aliases:
+- dialogue summarisation
+- conversation summary generation
+- chat history summarisation
+broader:
+- multi-turn-conversation-management
+- text-summarization
+related:
+- conversational-context-compression
+- multi-turn-conversation-management
+- dialogue-state-tracking-prompts
+prerequisites:
+- text-summarization
+- dialogue-systems
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Conversation Summarization Prompts
+  body: 'Conversation summarisation prompts are prompting strategies designed to produce
+    compact, faithful summaries of multi-turn dialogue histories that capture the
+    essential information exchanged, decisions made, questions asked and answered,
+    and commitments established, in a form that can be used as compressed context
+    for subsequent turns or as a record of the conversation''s outcomes. Effective
+    conversation summaries differ from general text summaries in their structure:
+    they must track the dialogue''s progression, distinguish between what the user
+    said and what the system said, preserve the resolution status of questions and
+    tasks (resolved vs. outstanding), and capture temporal ordering of decisions and
+    state changes rather than merely extracting salient facts.'
+- type: key-claim
+  title: Key claim about Conversation Summarization Prompts
+  body: Conversation summarisation quality is highest when the prompt distinguishes
+    between the summary's purpose (context compression for continuation vs. outcome
+    record for handoff vs. retrospective for user) — each purpose requires a different
+    summary structure, level of detail, and information selection criterion, and general-purpose
+    summaries optimised for all three simultaneously are inferior to purpose-specific
+    summaries for any individual use case; production dialogue systems should generate
+    purpose-specific summaries at appropriate conversation checkpoints rather than
+    a single general summary.
+- type: warning
+  title: Common pitfall regarding Conversation Summarization Prompts
+  body: Conversation summarisation introduces irreversible information loss — once
+    a detailed conversation is replaced with its summary, fine-grained information
+    that was present in the original turns cannot be recovered, and downstream responses
+    may be incorrect for queries that depend on details below the summary's level
+    of granularity; summarisation should be applied selectively to completed, resolved
+    segments of the conversation rather than applied uniformly to all prior turns,
+    with recent and unresolved turns retained verbatim to preserve access to fine-grained
+    context.

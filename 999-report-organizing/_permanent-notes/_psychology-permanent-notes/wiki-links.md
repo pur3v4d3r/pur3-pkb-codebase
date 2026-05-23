@@ -19,7 +19,7 @@ subdomains:
   - hypertext
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - wiki-links-synthetic-seed-2026-04-24
@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Wiki Link Creation Process**
+> *Follow the flow from input to output, noting each step.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input "[[target]]"] --> B[Check Existence]
+>   B -->|Yes| C[Link Exists]
+>   B -->|No| D[Create Note]
+>   D --> E[Accumulate Backlinks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bidirectional Link Network**
+> *Observe the reciprocal connections between notes.*
+>
+> ```mermaid
+> graph TD
+>   A(Note1) --> B(Note2)
+>   B --> C(Note3)
+>   C --> D(Note4)
+>   D --> E(Note5)
+>   E --> F(Note6)
+>   F --> G(Note7)
+>   G --> H(Note8)
+>   H --> I(Note9)
+>   I --> J(Note10)
+>   A -->|Backlink| B
+>   C -->|Backlink| B
+>   D -->|Backlink| C
+>   E -->|Backlink| D
+>   F -->|Backlink| E
+>   G -->|Backlink| F
+>   H -->|Backlink| G
+>   I -->|Backlink| H
+>   J -->|Backlink| I
+> ```
 
 # Wiki Links
 

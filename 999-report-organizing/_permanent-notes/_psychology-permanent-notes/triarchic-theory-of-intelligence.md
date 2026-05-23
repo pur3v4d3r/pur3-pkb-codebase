@@ -17,7 +17,7 @@ subdomains:
   - intelligence-research
 
 created: 2026-04-25
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - triarchic-theory-of-intelligence-synthetic-seed-2026-04-25
@@ -64,8 +64,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Triarchic Intelligence Components**
+> *Identify the three components of intelligence and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Analytical]
+>   B[Creative]
+>   C[Practical]
+>   A -->|Supports|
+>   B -->|Enhances|
+>   C -->|Integrates|
+> ```
+
+
+> [!abstract] **Diagram 2 — Triarchic Intelligence Interaction**
+> *Understand the dynamic interaction between analytical, creative, and practical intelligences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Analytical] --> B[Creative]
+>   B --> C[Practical]
+>   C -->|Applies|
+> ```
+
+
+> [!abstract] **Diagram 3 — Intelligence Types Comparison**
+> *Compare analytical, creative, and practical intelligences in terms of their focus.*
+>
+> ```mermaid
+> classDiagram
+>   class Analytical {
+>     +Logical reasoning
+>     +Problem-solving
+>   }
+>   class Creative {
+>     +Novel ideas
+>     +Innovation
+>   }
+>   class Practical {
+>     +Real-world application
+>     +Contextual knowledge
+>   }
+> ```
 
 # Triarchic Theory of Intelligence
 

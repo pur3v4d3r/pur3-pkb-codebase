@@ -1,0 +1,51 @@
+concept: Temporal Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- natural-language-processing
+- commonsense-reasoning
+- large-language-models
+aliases:
+- temporal inference in LLMs
+- time reasoning in language models
+- event ordering in LLMs
+broader:
+- commonsense-reasoning-in-llms
+- reasoning-in-llms
+related:
+- causal-reasoning-in-llms
+- spatial-reasoning-in-llms
+- world-model-in-language-models
+prerequisites:
+- large-language-models
+- temporal-expression-extraction
+- event-ordering
+confidence: high
+callouts:
+- type: definition
+  title: Temporal Reasoning in LLMs
+  body: Temporal reasoning in LLMs is the capacity to represent, manipulate, and draw
+    inferences about time — including event ordering (before/after/during), duration
+    estimation, temporal expression normalisation, relative and absolute date arithmetic,
+    and reasoning about how entity states change over time. Tasks range from simple
+    ordering (did event A occur before event B?) to complex temporal chains (given
+    a series of dated events, what was the state of entity X at time T?) to counterfactual
+    temporal reasoning (if event A had not occurred in year Y, what would the state
+    be now?). LLMs acquire temporal reasoning capability through exposure to news
+    articles, histories, and narratives that encode temporal structure, but performance
+    degrades with increasing temporal chain length and with cross-document temporal
+    integration.
+- type: key-claim
+  title: Key claim about Temporal Reasoning in LLMs
+  body: 'LLMs exhibit a systematic asymmetry in temporal reasoning: they perform well
+    on forward temporal chains (reasoning from past events to present consequences)
+    but poorly on backward temporal chains (reasoning from present state to required
+    past conditions), because training corpora predominantly represent the forward
+    temporal direction of narrative, leaving backward-inference patterns systematically
+    underrepresented.'
+- type: warning
+  title: Common pitfall regarding Temporal Reasoning in LLMs
+  body: LLM temporal reasoning is entangled with training data cutoff effects — models
+    frequently report stale facts as current with full confidence because their internal
+    temporal representation does not distinguish between "X was true in training data"
+    and "X is currently true," making temporal reasoning about recent events and dynamic
+    world-states unreliable without explicit retrieval augmentation with dated sources.

@@ -1,0 +1,54 @@
+concept: Follow-Up Question Generation
+domain: dialogue-systems
+secondary_domains:
+- conversational-ai
+- information-retrieval
+- prompt-engineering
+aliases:
+- proactive question generation
+- conversation continuation questions
+- elicitation question generation
+broader:
+- multi-turn-conversation-management
+- dialogue-systems
+related:
+- clarification-request-generation
+- dialogue-grounding-prompts
+- turn-taking-in-llm-dialogue
+prerequisites:
+- dialogue-systems
+- question-generation
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Follow-Up Question Generation
+  body: 'Follow-up question generation is the capability of a conversational agent
+    to generate contextually appropriate questions that extend the conversation beyond
+    responding to the user''s immediate request — questions that probe for additional
+    relevant information, explore related topics the user may find valuable, or invite
+    the user to provide feedback on the response. Follow-up questions serve multiple
+    dialogue functions: they demonstrate engagement and interest in the user''s situation,
+    they gather information that would improve subsequent responses, they transition
+    the conversation to related topics the user may not have thought to ask about,
+    and they provide a natural conversational continuation that prevents dialogue
+    termination at the boundary of a single request-response pair.'
+- type: key-claim
+  title: Key claim about Follow-Up Question Generation
+  body: Follow-up question generation quality correlates strongly with the model's
+    ability to model the user's information needs beyond their stated query — a model
+    that generates follow-up questions by pattern-matching on the topic of the user's
+    message (generating generic topical follow-ups) produces significantly lower value
+    than a model that generates follow-up questions by reasoning about what information
+    the user likely needs to achieve the goal behind their stated query, demonstrating
+    that follow-up question quality is a proxy for user intent modelling capability.
+- type: warning
+  title: Common pitfall regarding Follow-Up Question Generation
+  body: Over-generating follow-up questions is a common failure mode in instruction-tuned
+    dialogue models that are prompted to be helpful and engaging — the model may append
+    multiple follow-up questions to every response, creating interaction overhead
+    that users find annoying and that signals a failure to complete the original request
+    satisfactorily; effective follow-up question policies should generate at most
+    one targeted follow-up per response, and should defer to completing the current
+    request fully before inviting continuation rather than using follow-up questions
+    to substitute for a complete response.

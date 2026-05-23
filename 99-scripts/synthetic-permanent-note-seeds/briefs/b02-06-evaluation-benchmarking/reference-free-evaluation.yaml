@@ -1,0 +1,55 @@
+concept: Reference-Free Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- automatic-evaluation
+- evaluation-methodology
+aliases:
+- referenceless evaluation
+- no-reference evaluation
+- output-only evaluation
+broader:
+- llm-evaluation
+- automatic-evaluation
+related:
+- rubric-based-llm-evaluation
+- llm-evaluator-bias
+- g-eval-scoring-methodology
+prerequisites:
+- llm-evaluation
+- automatic-evaluation
+- natural-language-generation
+confidence: high
+callouts:
+- type: definition
+  title: Reference-Free Evaluation
+  body: 'Reference-free evaluation refers to automatic evaluation methods that assess
+    the quality of a model''s output without comparing it to a reference (gold-standard)
+    output, instead evaluating quality based on the output itself and the input. Reference-free
+    evaluation is necessary for tasks where gold references are unavailable (open-ended
+    generation, creative writing, dialogue), expensive to produce (detailed medical
+    or legal analysis), or unreliable as quality proxies (tasks where many valid outputs
+    exist). Reference-free evaluation approaches include: LLM-as-judge evaluation
+    (using a language model to assess quality against a rubric), quality-estimation
+    models trained on human judgments without access to references, and checklist-based
+    verification (checking the output against a set of quality criteria without reference
+    to a gold output).'
+- type: key-claim
+  title: Key claim about Reference-Free Evaluation
+  body: Reference-free evaluation via LLM-as-judge is substantially more valid than
+    reference-based metrics (BLEU, ROUGE, METEOR) for most natural language generation
+    tasks because the reference problem — the fact that many high-quality outputs
+    share little surface form overlap with any single reference — causes reference-based
+    metrics to systematically penalise high-quality but paraphrastic outputs; LLM
+    evaluators assess semantic adequacy and quality rather than surface form matching,
+    capturing the aspects of quality that matter for task completion.
+- type: warning
+  title: Common pitfall regarding Reference-Free Evaluation
+  body: Reference-free evaluation via LLM-as-judge conflates quality evaluation with
+    the evaluator model's own output preferences — the evaluator tends to rate higher
+    the responses that most resemble the outputs it would generate itself, introducing
+    evaluator-generation distribution bias; this bias is largest when the evaluator
+    and the evaluated model share the same base model, and is smallest when the evaluator
+    is a stronger model from a different family; reference-free evaluation results
+    should always specify the evaluator model and should be cross-validated using
+    evaluators from different model families to detect distributional bias.

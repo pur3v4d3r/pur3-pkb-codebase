@@ -1,0 +1,63 @@
+concept: Concept Activation Vectors
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- explainability
+- representation-learning
+aliases:
+- CAVs
+- testing with concept activation vectors
+- TCAV method
+broader:
+- mechanistic-interpretability
+- feature-attribution-in-llms
+- representation-learning
+related:
+- representation-engineering
+- linear-representation-hypothesis
+- probing-classifiers
+- feature-attribution-in-llms
+prerequisites:
+- representation-learning
+- linear-classification
+- mechanistic-interpretability
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Concept Activation Vectors
+  body: 'Concept Activation Vectors (CAVs) refer to the linear classifiers trained
+    to separate the representations of examples that exhibit a target human-interpretable
+    concept from examples that do not, in the internal activation space of a neural
+    network — providing a directional vector in the activation space that represents
+    the concept and can be used to measure the sensitivity of model predictions to
+    that concept (TCAV: Testing with Concept Activation Vectors). CAVs extend probing
+    classifiers by explicitly connecting the identified representation direction to
+    human-interpretable concepts defined by curated example sets, and by using the
+    CAV direction to compute concept sensitivity scores that quantify how much a specific
+    output decision depends on the presence of the concept in the representation.
+    CAVs are used in image classification interpretability (original application)
+    and increasingly applied to LLM representations.'
+- type: key-claim
+  title: Key claim about Concept Activation Vectors
+  body: Concept Activation Vectors provide a concept-grounded interpretability approach
+    that bridges statistical representation analysis and human conceptual frameworks
+    — unlike gradient attribution methods that measure sensitivity to individual tokens,
+    CAVs measure model sensitivity to semantically defined concept directions that
+    correspond to human-interpretable ideas; this concept-level granularity enables
+    higher-level explanations of model behaviour ("this classification decision was
+    sensitive to the concept of corporate jargon in the input") that are more actionable
+    for model debugging and auditing than token-level attribution ("this token was
+    important").
+- type: warning
+  title: Common pitfall regarding Concept Activation Vectors
+  body: Concept Activation Vectors require carefully curated positive and negative
+    concept example sets — the quality of the CAV direction is fundamentally limited
+    by the quality and representativeness of the concept examples used to train it;
+    noisy or unrepresentative concept examples produce CAV directions that conflate
+    the target concept with correlated features in the example set rather than isolating
+    the pure concept, and the resulting TCAV scores reflect sensitivity to the specific
+    example distribution rather than the abstract concept; systematic concept set
+    curation with diverse positive examples and carefully matched negative examples
+    is required for reliable CAV directions.

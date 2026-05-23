@@ -1,0 +1,51 @@
+concept: Counterfactual Reasoning Prompting
+domain: knowledge-representation
+secondary_domains:
+- causality
+- cognitive-science
+- prompt-engineering
+aliases:
+- counterfactual inference prompting
+- what-if prompting
+- hypothetical scenario reasoning
+broader:
+- causal-reasoning-in-llms
+- prompt-engineering
+related:
+- causal-reasoning-in-llms
+- abductive-reasoning-in-llms
+- chain-of-thought-prompting
+prerequisites:
+- causal-reasoning
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Counterfactual Reasoning Prompting
+  body: Counterfactual reasoning prompting is the prompting technique of asking a
+    language model to reason about hypothetical scenarios in which some antecedent
+    fact has been changed — "What would have happened if X had not occurred?" or "How
+    would outcome Y differ if condition Z were altered?" — requiring the model to
+    construct an alternative world consistent with the hypothetical change and derive
+    its consequences. Counterfactual prompting is used in causal analysis, historical
+    reasoning, diagnostic explanation, and evaluation of model causal understanding.
+    Effective counterfactual prompts must clearly specify which facts are being changed,
+    which are held constant, and what the relevant time horizon for consequences is.
+- type: key-claim
+  title: Key claim about Counterfactual Reasoning Prompting
+  body: 'Counterfactual reasoning prompting reveals whether a model has causal knowledge
+    versus correlational knowledge of a domain: a model with only correlational knowledge
+    generates counterfactuals by interpolating the training distribution around the
+    changed variable (producing near-minimal changes to the observed world), while
+    a model with causal knowledge correctly propagates intervention effects along
+    causal paths, including surprising downstream consequences that would not be predicted
+    by correlation.'
+- type: warning
+  title: Common pitfall regarding Counterfactual Reasoning Prompting
+  body: Models exhibit a systematic "minimal counterfactual" bias — they tend to change
+    as few things as possible when constructing a counterfactual world, which produces
+    plausible-sounding but causally shallow responses that overlook second-order and
+    distal consequences; counterfactual prompts must explicitly instruct the model
+    to trace downstream effects across the full causal graph rather than accepting
+    the first minimal-change alternative that satisfies the stated hypothetical.

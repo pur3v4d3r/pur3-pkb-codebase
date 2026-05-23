@@ -1,0 +1,55 @@
+concept: Dialogue Act Classification Prompting
+domain: dialogue-systems
+secondary_domains:
+- natural-language-understanding
+- dialogue-systems
+- prompt-engineering
+aliases:
+- intent classification prompting
+- dialogue act recognition
+- utterance function classification
+broader:
+- multi-turn-conversation-management
+- natural-language-understanding
+related:
+- dialogue-state-tracking-prompts
+- task-oriented-dialogue-prompting
+- slot-filling-via-dialogue
+prerequisites:
+- dialogue-act-theory
+- intent-classification
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Dialogue Act Classification Prompting
+  body: 'Dialogue act classification prompting is the use of an LLM to classify user
+    utterances and system responses by their communicative function — the dialogue
+    act being performed — such as question, request, assertion, confirmation, disconfirmation,
+    greet, close, thank, apology, clarification-request, or task-specific acts (book,
+    cancel, modify). Dialogue act classification is a prerequisite for structured
+    dialogue management in task-oriented systems: the system must know whether the
+    user is making a new request, confirming a proposed action, providing missing
+    slot information, or closing the conversation in order to determine the appropriate
+    next action. LLM-based dialogue act classification via prompting offers high coverage
+    of act types without the labour-intensive annotation required for supervised classifiers.'
+- type: key-claim
+  title: Key claim about Dialogue Act Classification Prompting
+  body: LLM-based dialogue act classification via prompting achieves comparable accuracy
+    to supervised classifiers on standard dialogue act taxonomies and substantially
+    outperforms them on open-vocabulary and domain-specific act types not present
+    in the classifier's training data, because the LLM can classify novel act types
+    based on semantic understanding of the act description rather than requiring example-based
+    generalisation from a fixed act inventory; this flexibility makes prompt-based
+    dialogue act classification the preferred approach for rapidly expanding dialogue
+    systems to new domains.
+- type: warning
+  title: Common pitfall regarding Dialogue Act Classification Prompting
+  body: Dialogue act classification via prompting is sensitive to the act taxonomy
+    provided in the prompt — using an overly coarse taxonomy causes act conflation
+    that loses functionally important distinctions (conflating "question" with "clarification-request"),
+    while using an overly fine taxonomy causes act distribution fragmentation that
+    reduces downstream system performance by creating spurious distinctions; the act
+    taxonomy should be designed through analysis of the target dialogue's functional
+    requirements rather than adopted from a generic ontology without validation on
+    domain-specific dialogues.

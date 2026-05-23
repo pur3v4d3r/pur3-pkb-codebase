@@ -1,0 +1,53 @@
+concept: Few-Shot Emergent Generalisation
+domain: large-language-models
+secondary_domains:
+- in-context-learning
+- large-language-models
+- generalisation
+aliases:
+- few-shot generalisation threshold
+- in-context learning emergence
+- few-shot capability emergence
+broader:
+- emergent-prompting-capability
+- in-context-learning
+related:
+- in-context-learning-as-meta-learning
+- zero-shot-generalisation-mechanisms
+- task-generalisation-in-llms
+prerequisites:
+- few-shot-prompting
+- in-context-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Few-Shot Emergent Generalisation
+  body: Few-shot emergent generalisation refers to the capability of a model to correctly
+    apply a novel task rule inferred from a small number of in-context demonstrations
+    to a test input that is far outside the distribution of the demonstrations, in
+    a way that demonstrates genuine rule induction rather than superficial similarity
+    matching. A model that exhibits few-shot emergent generalisation will correctly
+    apply a novel classification rule (e.g., a rule based on a character property
+    that has no natural-language name) to inputs that share the abstract rule but
+    look nothing like the demonstrations. This capability appears to emerge discontinuously
+    with scale and is not present in smaller models that can only perform few-shot
+    learning when the test input is in the same region of feature space as the demonstrations.
+- type: key-claim
+  title: Key claim about Few-Shot Emergent Generalisation
+  body: Few-shot emergent generalisation represents a qualitative transition from
+    pattern-completion to rule-induction in large models — small models perform few-shot
+    tasks primarily by retrieving training instances similar to the demonstration-test
+    combination, while large models can perform them by inducing abstract rules and
+    applying those rules to novel examples, which explains why the few-shot performance
+    of small and large models diverges most dramatically on tasks requiring abstract
+    rule application rather than analogical retrieval.
+- type: warning
+  title: Common pitfall regarding Few-Shot Emergent Generalisation
+  body: Demonstrations of few-shot emergent generalisation on carefully constructed
+    academic tasks may not accurately reflect generalisation ability in production
+    settings where the demonstrations are noisily constructed, the test inputs differ
+    from demonstrations in multiple correlated dimensions, and the rules being demonstrated
+    are not cleanly separable from confounding task features; the robustness of few-shot
+    generalisation to imperfect demonstrations and noisy task signal is much lower
+    than academic demonstrations suggest.

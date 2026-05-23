@@ -22,7 +22,7 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - self-determination-theory-foundational-report-2026-04-19
@@ -72,8 +72,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Undermining Effect Mechanism**
+> *Follow the flow from task engagement to intrinsic motivation reduction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Engagement] --> B[Expectation of Rewards]
+>   B --> C[Shift in Task Representation]
+>   C --> D[Reduction in Intrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Types of External Regulation**
+> *Compare the effects of different types of external regulation on intrinsic motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Contingent Rewards] -->|Reduces Intrinsic Motivation| B[Intrinsic Motivation]
+>   C[Informational Feedback] -->|Enhances Intrinsic Motivation| D[Intrinsic Motivation]
+>   E[Supportive Supervision] -->|Does Not Diminish Intrinsic Motivation| F[Intrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Undermining Effect**
+> *Identify settings where external rewards can undermine intrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Monetary Incentives]
+>   B -->|Reduces Intrinsic Motivation| C[Ineffective Learning Environment]
+>   D[Organizational Management] --> E[Tying Bonuses to Metrics]
+>   E -->|Reduces Intrinsic Motivation| F[Decreased Employee Engagement]
+>   G[MOOCs] --> H[External Rewards for Spaced Retrieval]
+>   H -->|Reduces Intrinsic Motivation| I[Reduced Mastery of Material]
+> ```
 
 # The Replication Challenge to the Undermining Effect
 

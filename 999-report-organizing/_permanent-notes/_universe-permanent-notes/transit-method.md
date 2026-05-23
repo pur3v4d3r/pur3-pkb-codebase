@@ -18,7 +18,7 @@ subdomains:
   - observational-techniques
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - transit-method-synthetic-seed-2026-05-14
@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Transit Method Process Overview**
+> *Follow the sequence from star dimming to planet detection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Star] --> B[Dimming]
+>   B --> C[Detection]
+>   C --> D[Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Transit vs Radial Velocity Methods**
+> *Compare the two methods based on their detection principles.*
+>
+> ```mermaid
+> graph TD
+>   A[Transit Method] -->|Detects dimming| E[Planet]
+>   B[Radial Velocity] -->|Measures wobble| F[Star]
+> ```
+
+
+> [!abstract] **Diagram 3 — Type I vs Type II Errors in Transit Detection**
+> *Identify the errors and their causes in transit detection.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> S1[Detection]
+>   S1 --> S2[False Positive (Type I Error)]
+>   S1 --> S3[Genuine Transit Missed (Type II Error)]
+> ```
 
 # Transit Method
 

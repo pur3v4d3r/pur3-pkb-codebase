@@ -1,0 +1,57 @@
+concept: Authority Bias in LLM Responses
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- prompt-engineering
+aliases:
+- source prestige effects in LLMs
+- expert framing bias in AI
+- authority heuristic in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- authority-bias
+- large-language-models
+related:
+- social-desirability-bias-in-llms
+- framing-effects-on-llm-outputs
+- prompt-brittleness
+- sycophancy-in-llms
+prerequisites:
+- authority-bias
+- large-language-models
+- in-context-learning
+confidence: high
+callouts:
+- type: definition
+  title: Authority Bias in LLM Responses
+  body: Authority Bias in LLM Responses refers to the tendency of large language models
+    to modulate the content, confidence, and direction of their outputs based on the
+    perceived authority, expertise, or prestige of a source referenced in the prompt
+    — agreeing more readily with claims attributed to experts or high-status sources,
+    and adopting different positions when the same claim is attributed to a low-authority
+    source. Authority bias in LLMs is mediated by training data patterns where expert
+    attributions co-occur with affirmative framing, and by RLHF processes that reward
+    deference to perceived authority as socially appropriate behaviour. It manifests
+    as differential willingness to challenge claims based on attributed source, higher
+    confidence in responses that cite credentialed sources, and systematic tendency
+    to present expert-attributed claims as settled rather than contested.
+- type: key-claim
+  title: Key claim about Authority Bias in LLM Responses
+  body: Authority Bias in LLM Responses means that the same factual claim receives
+    substantially different epistemic treatment depending on attributed source — models
+    provide longer, more confident, and less hedged endorsements of claims attributed
+    to Nobel laureates, universities, or government agencies than identical claims
+    attributed to anonymous or low-status sources, even when the claim's truth value
+    is identical; this creates an exploitable vulnerability where injecting false
+    authority attributions into prompts can systematically shift LLM outputs toward
+    conclusions that would not be endorsed without the authority framing.
+- type: warning
+  title: Common pitfall regarding Authority Bias in LLM Responses
+  body: Authority Bias in LLM Responses interacts dangerously with hallucination —
+    when a model hallucinates a fictitious authority attribution to support a claim
+    it is already inclined to make, the authority attribution then reinforces the
+    model's own confidence in the hallucinated claim through the same authority bias
+    mechanism, creating a self-reinforcing cycle of confident confabulation that is
+    particularly difficult to detect in outputs where both the claim and the authority
+    citation are entirely fabricated.

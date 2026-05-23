@@ -1,0 +1,61 @@
+concept: Logical Entailment Verification
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- formal-logic
+- natural-language-inference
+- prompt-engineering
+aliases:
+- entailment checking in LLM outputs
+- logical consistency verification
+- NLI-based output validation
+broader:
+- natural-language-inference
+- formal-verification
+- output-quality-in-llms
+related:
+- contradiction-detection-in-outputs
+- claim-strength-calibration
+- discourse-coherence-in-llm-outputs
+- chain-of-thought-prompting
+prerequisites:
+- natural-language-inference
+- formal-logic
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Logical Entailment Verification
+  body: Logical Entailment Verification refers to the process and prompting strategies
+    used to assess whether the claims made in LLM-generated outputs logically follow
+    from the premises, evidence, and prior claims established in the same output or
+    in the input context — verifying that the generation does not assert conclusions
+    that contradict, are non-sequiturs from, or are unwarranted by the established
+    logical premises. Logical entailment verification can be performed by a separate
+    NLI (natural language inference) model, by a second LLM prompted as a logical
+    auditor, or by structured chain-of-thought prompting that forces the generating
+    LLM to explicitly justify each claim in terms of prior established facts before
+    proceeding. It is a critical quality control step for applications where logical
+    validity of outputs is a hard requirement, including legal drafting, scientific
+    reporting, and formal argument generation.
+- type: key-claim
+  title: Key claim about Logical Entailment Verification
+  body: Logical Entailment Verification using a second LLM as a logical auditor detects
+    substantially more logical errors in generated text than human reviewers performing
+    a single linear reading — experiments demonstrate that asking a separate LLM to
+    verify each claim against established premises in a generated document catches
+    logical violations that human reviewers miss at rates of 30–60%, particularly
+    for claims separated by many intervening sentences from their relevant premises;
+    implementing a two-stage generate-then-verify pipeline with automatic entailment
+    checking provides quality gates that are both more reliable and substantially
+    faster than expert human logical review for routine document types.
+- type: warning
+  title: Common pitfall regarding Logical Entailment Verification
+  body: Logical Entailment Verification by LLM auditors is only reliable for first-order
+    logical relationships and simple multi-hop inferences — LLM-based entailment checkers
+    fail systematically on modal logic, counterfactual reasoning, negation in complex
+    sentences, and implicit presuppositions, producing a false sense of logical rigor
+    for argument structures that are beyond the LLM auditor's reliable capability;
+    deployers of entailment verification pipelines should characterise the specific
+    logical form types their auditor reliably handles versus misses before trusting
+    verification outcomes for high-stakes applications.

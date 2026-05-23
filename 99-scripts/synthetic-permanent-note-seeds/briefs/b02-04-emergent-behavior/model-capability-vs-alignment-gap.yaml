@@ -1,0 +1,55 @@
+concept: Model Capability vs. Alignment Gap
+domain: large-language-models
+secondary_domains:
+- ai-alignment
+- large-language-models
+- model-evaluation
+aliases:
+- capability-alignment gap
+- alignment tax
+- safety-capability trade-off
+broader:
+- large-language-models
+- ai-alignment
+related:
+- latent-capability-unlocking
+- instruction-following-emergence
+- model-capability-vs-alignment-gap
+prerequisites:
+- large-language-models
+- ai-alignment
+- rlhf
+confidence: high
+callouts:
+- type: definition
+  title: Model Capability vs. Alignment Gap
+  body: 'The model capability versus alignment gap refers to the difference between
+    what a model can do (its parametric capability, as measured under maximally elicited
+    conditions) and what it will do (its aligned behaviour, as shaped by fine-tuning
+    with RLHF, constitutional AI, or other alignment techniques). The gap reflects
+    the alignment tax: alignment fine-tuning that makes the model helpful, harmless,
+    and honest also restricts certain capabilities, changes the model''s output distribution
+    toward safer and more hedged responses, and can reduce performance on tasks where
+    the most capable response would violate safety constraints. The gap is not constant
+    across tasks: some capabilities are preserved or enhanced by alignment, while
+    others are restricted.'
+- type: key-claim
+  title: Key claim about Model Capability vs. Alignment Gap
+  body: The capability-alignment gap is bidirectional — alignment fine-tuning both
+    restricts capabilities (imposing the alignment tax on tasks that the model could
+    perform but that conflict with safety or helpfulness constraints) and enhances
+    capabilities (instruction following and format compliance improve substantially
+    with alignment), meaning that the gap is not a simple performance deficit but
+    a redistribution of capability across task types, with aligned models outperforming
+    base models on most user-facing tasks while underperforming on tasks that require
+    generating unrestricted or adversarial content.
+- type: warning
+  title: Common pitfall regarding Model Capability vs. Alignment Gap
+  body: Treating the capability-alignment gap as purely a performance deficit leads
+    to the incorrect conclusion that alignment should be reduced to maximise capability
+    — empirical evidence consistently shows that well-aligned models outperform poorly
+    aligned models of the same size on the vast majority of user tasks because alignment
+    improves instruction following, response formatting, and refusal handling, all
+    of which are capabilities required for real-world usefulness; the cases where
+    alignment reduces performance are primarily narrow tasks that require generating
+    content that alignment correctly restricts.

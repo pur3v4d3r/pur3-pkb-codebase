@@ -1,0 +1,65 @@
+concept: Discourse Coherence in LLM Outputs
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- computational-linguistics
+- natural-language-generation
+aliases:
+- textual coherence in LLMs
+- discourse structure in AI-generated text
+- inter-sentence coherence
+broader:
+- natural-language-generation
+- computational-linguistics
+- large-language-models
+narrower:
+- narrative-consistency-prompting
+- stance-consistency-across-output
+- non-sequitur-detection-in-outputs
+related:
+- narrative-consistency-prompting
+- contradiction-detection-in-outputs
+- stance-consistency-across-output
+- register-and-tone-control
+prerequisites:
+- discourse-analysis
+- computational-linguistics
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Discourse Coherence in LLM Outputs
+  body: Discourse Coherence in LLM Outputs refers to the structural and semantic property
+    of LLM-generated text whereby sentences, paragraphs, and sections are logically
+    and topically connected — each unit relates to the preceding and following units
+    through recognisable discourse relations such as elaboration, cause-effect, contrast,
+    exemplification, or temporal sequence — producing text that reads as a unified,
+    purposeful whole rather than as a sequence of isolated statements. Discourse coherence
+    subsumes local coherence (sentence-to-sentence connectivity via coreference, ellipsis
+    resolution, and discourse markers) and global coherence (consistency of topic,
+    stance, and argument structure across the entire output). LLMs frequently generate
+    locally coherent but globally incoherent text — producing paragraphs that are
+    individually fluent but collectively contradictory, topic-drifting, or structurally
+    incoherent when the full output is examined.
+- type: key-claim
+  title: Key claim about Discourse Coherence in LLM Outputs
+  body: Discourse Coherence in LLM Outputs is the primary distinguishing quality dimension
+    between fluent-but-shallow and genuinely useful long-form LLM text — short outputs
+    of one to three sentences almost never exhibit discourse incoherence because global
+    structure is trivially maintained at that scale, but outputs of five-hundred or
+    more words frequently exhibit coherence failures (contradictory claims across
+    sections, unexplained topic transitions, unresolved coreference, and structural
+    organisation that shifts mid-document) that fluency metrics based on local perplexity
+    completely miss; assessing coherence at the discourse level rather than the sentence
+    level reveals substantially higher rates of LLM output quality failure than standard
+    fluency evaluation suggests.
+- type: warning
+  title: Common pitfall regarding Discourse Coherence in LLM Outputs
+  body: Discourse Coherence in LLM Outputs degrades non-linearly with output length
+    — coherence is reasonably maintained for outputs up to approximately 500 words
+    but deteriorates substantially for outputs exceeding 1,000–2,000 words, particularly
+    for complex argumentative or narrative structures; production deployments requiring
+    coherent long-form outputs should implement explicit structural scaffolding via
+    outline-first prompting, section-by-section generation with coherence checkpoints,
+    or retrieval-augmented context maintenance rather than relying on end-to-end generation
+    to maintain discourse coherence over extended texts.

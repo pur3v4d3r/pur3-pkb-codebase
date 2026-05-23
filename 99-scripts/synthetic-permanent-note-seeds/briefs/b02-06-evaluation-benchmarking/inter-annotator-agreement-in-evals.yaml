@@ -1,0 +1,56 @@
+concept: Inter-Annotator Agreement in Evals
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- human-evaluation
+- annotation-quality
+aliases:
+- IAA in LLM evaluation
+- annotator consistency
+- human evaluator reliability
+broader:
+- llm-evaluation
+- evaluation-methodology
+related:
+- human-vs-llm-eval-agreement
+- rubric-based-llm-evaluation
+- likert-scale-prompt-evaluation
+prerequisites:
+- inter-annotator-agreement
+- human-evaluation
+- annotation-methodology
+confidence: high
+callouts:
+- type: definition
+  title: Inter-Annotator Agreement in Evals
+  body: 'Inter-annotator agreement (IAA) in LLM evaluation refers to the consistency
+    of quality judgments produced by different human annotators when rating the same
+    model outputs, measured using statistical metrics such as Cohen''s kappa, Fleiss''
+    kappa, Krippendorff''s alpha, or Spearman/Pearson correlation for continuous judgments.
+    IAA is a prerequisite for valid human evaluation: if different annotators disagree
+    substantially about quality, the evaluation is measuring annotator idiosyncrasy
+    rather than response quality. IAA is commonly used to validate the evaluation
+    rubric design (checking whether annotators interpret the criteria consistently),
+    to identify annotators who are not following instructions, and to establish the
+    reliability ceiling that automatic evaluation metrics should aim to approach.'
+- type: key-claim
+  title: Key claim about Inter-Annotator Agreement in Evals
+  body: Inter-annotator agreement in open-ended LLM response quality evaluation is
+    consistently lower than practitioners expect — IAA on holistic response quality
+    ratings using 5-point Likert scales typically yields Cohen's kappa between 0.3
+    and 0.5 (moderate agreement) even after annotator training, while categorical
+    judgments on well-defined binary criteria (factual correctness, instruction compliance)
+    consistently achieve kappa above 0.7; this pattern reveals that holistic quality
+    evaluation is insufficiently reliable to use as a primary evaluation signal and
+    that well-defined categorical evaluation criteria are required for reliable human
+    evaluation.
+- type: warning
+  title: Common pitfall regarding Inter-Annotator Agreement in Evals
+  body: Reporting evaluation results without IAA statistics allows publication of
+    results based on unreliable human judgments without transparency about judgment
+    quality — studies with low IAA (kappa < 0.3) can still produce statistically significant
+    comparisons if the sample size is large enough, but the statistical significance
+    is measuring annotator noise rather than genuine model quality differences; every
+    human evaluation study should report IAA statistics alongside the primary results,
+    and results based on low-IAA judgments should be interpreted with commensurate
+    caution.

@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "b03-06-training-dynamics",
+    "date": "2026-05-22",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-22-b03-06-training-dynamics.md",
+    "notes": "Fifteen training dynamics and data pipeline topics: pretraining data\ninfluence, memorisation vs. generalisation, data contamination,\ntraining data attribution, counterfactual data augmentation, synthetic\ndata generation, curriculum learning, self-play data generation,\nConstitutional AI data pipeline, RLAIF, iterative preference learning,\ndata mixture effects, deduplication effects, toxic content filtering,\nand domain adaptive pretraining."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/b03-06-training-dynamics",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-22-b03-06-training-dynamics"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Pretraining Data Influence",
+      "kebab": "pretraining-data-influence",
+      "brief_path": "briefs/b03-06-training-dynamics/pretraining-data-influence.yaml",
+      "expected_seed_filename": "pretraining-data-influence-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Memorization vs. Generalization",
+      "kebab": "memorization-vs-generalization",
+      "brief_path": "briefs/b03-06-training-dynamics/memorization-vs-generalization.yaml",
+      "expected_seed_filename": "memorization-vs-generalization-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Data Contamination Effects",
+      "kebab": "data-contamination-effects",
+      "brief_path": "briefs/b03-06-training-dynamics/data-contamination-effects.yaml",
+      "expected_seed_filename": "data-contamination-effects-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Training Data Attribution",
+      "kebab": "training-data-attribution",
+      "brief_path": "briefs/b03-06-training-dynamics/training-data-attribution.yaml",
+      "expected_seed_filename": "training-data-attribution-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Counterfactual Data Augmentation",
+      "kebab": "counterfactual-data-augmentation",
+      "brief_path": "briefs/b03-06-training-dynamics/counterfactual-data-augmentation.yaml",
+      "expected_seed_filename": "counterfactual-data-augmentation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Synthetic Data Generation for Training",
+      "kebab": "synthetic-data-generation-for-training",
+      "brief_path": "briefs/b03-06-training-dynamics/synthetic-data-generation-for-training.yaml",
+      "expected_seed_filename": "synthetic-data-generation-for-training-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Curriculum Learning for LLMs",
+      "kebab": "curriculum-learning-for-llms",
+      "brief_path": "briefs/b03-06-training-dynamics/curriculum-learning-for-llms.yaml",
+      "expected_seed_filename": "curriculum-learning-for-llms-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Self-Play Data Generation",
+      "kebab": "self-play-data-generation",
+      "brief_path": "briefs/b03-06-training-dynamics/self-play-data-generation.yaml",
+      "expected_seed_filename": "self-play-data-generation-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Constitutional AI Data Pipeline",
+      "kebab": "constitutional-ai-data-pipeline",
+      "brief_path": "briefs/b03-06-training-dynamics/constitutional-ai-data-pipeline.yaml",
+      "expected_seed_filename": "constitutional-ai-data-pipeline-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "RLAIF",
+      "kebab": "rlaif",
+      "brief_path": "briefs/b03-06-training-dynamics/rlaif.yaml",
+      "expected_seed_filename": "rlaif-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Iterative Preference Learning",
+      "kebab": "iterative-preference-learning",
+      "brief_path": "briefs/b03-06-training-dynamics/iterative-preference-learning.yaml",
+      "expected_seed_filename": "iterative-preference-learning-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Data Mixture Effects on Capability",
+      "kebab": "data-mixture-effects-on-capability",
+      "brief_path": "briefs/b03-06-training-dynamics/data-mixture-effects-on-capability.yaml",
+      "expected_seed_filename": "data-mixture-effects-on-capability-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Deduplication Effects on Training",
+      "kebab": "deduplication-effects-on-training",
+      "brief_path": "briefs/b03-06-training-dynamics/deduplication-effects-on-training.yaml",
+      "expected_seed_filename": "deduplication-effects-on-training-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Toxic Content Filtering in Pretraining",
+      "kebab": "toxic-content-filtering-in-pretraining",
+      "brief_path": "briefs/b03-06-training-dynamics/toxic-content-filtering-in-pretraining.yaml",
+      "expected_seed_filename": "toxic-content-filtering-in-pretraining-synthetic-seed-2026-05-22_extracted.json"
+    },
+    {
+      "term": "Domain-Adaptive Pretraining",
+      "kebab": "domain-adaptive-pretraining",
+      "brief_path": "briefs/b03-06-training-dynamics/domain-adaptive-pretraining.yaml",
+      "expected_seed_filename": "domain-adaptive-pretraining-synthetic-seed-2026-05-22_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

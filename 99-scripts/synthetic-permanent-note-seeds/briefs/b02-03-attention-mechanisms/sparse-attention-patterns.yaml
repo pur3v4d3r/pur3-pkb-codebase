@@ -1,0 +1,58 @@
+concept: Sparse Attention Patterns
+domain: transformer-architecture
+secondary_domains:
+- efficient-transformers
+- large-language-models
+- sequence-modelling
+aliases:
+- sparse self-attention
+- structured sparse attention
+- approximate attention
+broader:
+- transformer-architecture
+- efficient-transformers
+narrower:
+- sliding-window-attention
+related:
+- sliding-window-attention
+- flash-attention-algorithm
+- grouped-query-attention
+- attention-sinks
+prerequisites:
+- transformer-architecture
+- attention-mechanisms
+- efficient-deep-learning
+confidence: high
+callouts:
+- type: definition
+  title: Sparse Attention Patterns
+  body: Sparse attention patterns are attention mechanisms that restrict which query-key
+    pairs can interact, computing attention only over a sparse subset of the $n^2$
+    possible pairs to reduce the computational complexity from $O(n^2)$ to sub-quadratic.
+    Structured sparse attention patterns include local window patterns (each token
+    attends to its w nearest neighbours), strided patterns (attend to every k-th token),
+    global-local combinations (a fixed set of global tokens attends to all positions
+    while all other tokens attend locally), and axial attention (attend along one
+    dimension at a time in 2D data). Approximate sparse attention approaches include
+    Longformer (window + global), BigBird (window + global + random), and Reformer
+    (locality-sensitive hashing to approximate nearest-neighbour attention).
+- type: key-claim
+  title: Key claim about Sparse Attention Patterns
+  body: The quality of sparse attention patterns on downstream tasks is determined
+    by how well the sparsity pattern captures the true task-relevant attention distribution
+    — patterns that align with the linguistic structure of the task (local for syntax,
+    global for discourse) approximate full attention closely, while patterns that
+    are task-agnostic (random sparsity, fixed striding) require significantly more
+    sparse connections to match full-attention quality; this means that the best sparse
+    attention patterns are task-adaptive rather than universal, and universal sparse
+    patterns should be evaluated for task-specific degradation rather than assumed
+    to be transparent substitutes for full attention.
+- type: warning
+  title: Common pitfall regarding Sparse Attention Patterns
+  body: Sparse attention mechanisms introduce implementation complexity that can introduce
+    subtle correctness errors — the masking logic for structured sparse patterns must
+    correctly handle boundary conditions, padding, and causal masking simultaneously,
+    and errors in mask construction can produce silent attention pattern violations
+    that cause incorrect outputs without triggering exceptions; any sparse attention
+    implementation should be verified against brute-force full-attention outputs on
+    a range of sequence lengths, including edge cases at pattern boundaries.

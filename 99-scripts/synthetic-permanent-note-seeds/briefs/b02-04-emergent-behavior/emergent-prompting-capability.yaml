@@ -1,0 +1,56 @@
+concept: Emergent Prompting Capability
+domain: large-language-models
+secondary_domains:
+- scaling-laws
+- prompt-engineering
+- large-language-models
+aliases:
+- prompt-driven emergent capability
+- emergent behaviour via prompting
+- elicited emergence
+broader:
+- emergent-capabilities-in-llms
+- prompt-engineering
+related:
+- capability-elicitation-prompting
+- latent-capability-unlocking
+- scaling-and-capability-emergence
+- instruction-following-emergence
+prerequisites:
+- large-language-models
+- emergent-capabilities
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Emergent Prompting Capability
+  body: 'Emergent prompting capability refers to the phenomenon in which specific
+    prompting strategies — such as chain-of-thought prompting, self-ask decomposition,
+    or step-by-step instruction — unlock model capabilities that are not present (or
+    not measurable) when the model is queried without those strategies, despite the
+    model''s underlying parameters being unchanged. The emergence is attributed to
+    prompting rather than to scale alone because the capability threshold shifts:
+    a model that scores near-random on direct querying may score well above chance
+    on the same task when the appropriate prompting strategy is applied, demonstrating
+    that the capability was latent in the model''s parameters but required a specific
+    prompt structure to be elicited.'
+- type: key-claim
+  title: Key claim about Emergent Prompting Capability
+  body: Emergent prompting capability challenges the standard interpretation of capability
+    evaluations — benchmark scores obtained without prompting engineering systematically
+    underestimate the true capability of large models, because the gap between unprompted
+    and prompted performance is large enough to shift apparent capability boundaries
+    by hundreds of billions of parameters; a properly prompted smaller model often
+    outperforms a larger model evaluated with a naive prompt, demonstrating that reported
+    capability thresholds are partially measurements of prompting effectiveness rather
+    than of pure model capability.
+- type: warning
+  title: Common pitfall regarding Emergent Prompting Capability
+  body: The distinction between "emergent prompting capability" and "prompt-engineered
+    performance inflation" is difficult to operationalise — both involve improved
+    task performance through prompting, but emergence typically refers to qualitative
+    capability thresholds (the model gains the ability to do something it previously
+    could not), while performance inflation refers to quantitative improvements on
+    tasks the model could already perform; claiming emergence requires demonstrating
+    that no version of the unprompted evaluation produces above-chance performance,
+    not merely that prompted performance is higher than a specific unprompted baseline.

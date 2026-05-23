@@ -1,0 +1,59 @@
+concept: Legal Reasoning Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- legal-ai
+- jurisprudence
+- prompt-engineering
+aliases:
+- legal LLM prompting
+- law application prompting
+- statutory reasoning prompts
+broader:
+- specialized-domain-prompting
+- legal-ai
+- prompt-engineering
+related:
+- ethical-reasoning-prompting
+- claim-strength-calibration
+- logical-entailment-verification
+- domain-adaptive-pretraining
+prerequisites:
+- prompt-engineering
+- legal-reasoning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Legal Reasoning Prompting
+  body: Legal Reasoning Prompting refers to the prompting strategies and output design
+    patterns adapted for legal analysis tasks — including statutory interpretation,
+    case law analysis, contract review, legal argument construction, jurisdiction-specific
+    compliance checking, and legal document drafting. Legal reasoning prompting must
+    account for the jurisdiction-specificity of law (the same legal question may have
+    different answers under different legal systems), the precedent-based nature of
+    common law reasoning (relevant case holdings must be cited and distinguished),
+    the formal requirements for legal documents (specific language, structure, and
+    procedural requirements), and the prohibition on LLMs providing legal advice without
+    appropriate professional oversight. Effective legal reasoning prompts specify
+    the applicable jurisdiction, the specific legal question, the relevant legal framework,
+    the available facts, and the required output format.
+- type: key-claim
+  title: Key claim about Legal Reasoning Prompting
+  body: Legal Reasoning Prompting performance degrades dramatically without explicit
+    jurisdiction specification — LLMs trained on legal text from multiple jurisdictions
+    (US federal, US state, UK, EU, Australian, etc.) default to a blend of legal systems
+    that may be inconsistent or inapplicable when a specific jurisdiction's law is
+    required; providing the specific jurisdiction, applicable statute versions, and
+    current case law citations as context anchors substantially improves jurisdictional
+    accuracy and reduces the rate of legal errors caused by cross-jurisdictional contamination.
+- type: warning
+  title: Common pitfall regarding Legal Reasoning Prompting
+  body: Legal Reasoning Prompting outputs must be treated as legal research assistance,
+    not legal advice — LLMs confidently produce plausible-seeming legal analyses that
+    contain substantive errors including misquoted statutes, incorrectly stated holdings,
+    fabricated citations, and outdated precedents, at rates that would be professionally
+    unacceptable without expert review; all legal reasoning prompting outputs must
+    be reviewed by qualified legal professionals before reliance, and no LLM legal
+    analysis output should be communicated to clients or used in court filings without
+    independent verification by a licensed attorney.

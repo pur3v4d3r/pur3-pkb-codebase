@@ -1,0 +1,54 @@
+concept: Prometheus Evaluation Model
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- fine-tuned-evaluators
+- automatic-evaluation
+aliases:
+- Prometheus judge model
+- fine-tuned evaluator LLM
+- open-source evaluation model
+broader:
+- rubric-based-llm-evaluation
+- llm-evaluation
+related:
+- g-eval-scoring-methodology
+- rubric-based-llm-evaluation
+- evaluation-prompt-design
+prerequisites:
+- llm-evaluation
+- fine-tuning
+- rubric-based-llm-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Prometheus Evaluation Model
+  body: 'Prometheus is an open-source fine-tuned LLM specifically trained to act as
+    a reliable evaluator for natural language generation quality, using rubric-based
+    evaluation prompts. Prometheus was fine-tuned on a large dataset of GPT-4-generated
+    evaluation feedback in the form of (input, response, rubric criteria, score, feedback)
+    tuples, enabling it to produce rubric-conditioned quality scores and evaluation
+    rationales comparable in quality to GPT-4-based evaluation at a fraction of the
+    cost, using a publicly available model that can be self-hosted. Prometheus addresses
+    the key problems of using proprietary models as evaluators: cost, latency, privacy
+    concerns with sending evaluation data to external APIs, and reproducibility.'
+- type: key-claim
+  title: Key claim about Prometheus Evaluation Model
+  body: Prometheus demonstrates that evaluation capability can be efficiently transferred
+    to a smaller fine-tuned model from a larger general-purpose model through distillation
+    on evaluation-specific training data — fine-tuning a 13B or 7B parameter model
+    on high-quality evaluation examples from a 175B+ model produces an evaluator that
+    achieves correlation with human judgments comparable to the teacher model on the
+    evaluation tasks covered by the training distribution, establishing that evaluation
+    quality is not strictly dependent on model scale but on training distribution
+    specificity.
+- type: warning
+  title: Common pitfall regarding Prometheus Evaluation Model
+  body: Prometheus's evaluation reliability is bounded by its training distribution
+    — it achieves strong performance on the evaluation task types well-represented
+    in its fine-tuning data (instruction following, response quality, helpful assistant
+    tasks) but underperforms larger general-purpose evaluators on evaluation tasks
+    that are rare or absent in its training set (highly technical domain evaluation,
+    safety evaluation, novel output format evaluation); using Prometheus for evaluation
+    in domains outside its training distribution requires validation against human
+    judges before relying on its scores as primary evaluation signals.

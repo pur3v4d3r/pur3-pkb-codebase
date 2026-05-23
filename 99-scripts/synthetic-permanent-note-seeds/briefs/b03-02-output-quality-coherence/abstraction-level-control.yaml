@@ -1,0 +1,63 @@
+concept: Abstraction Level Control
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- prompt-engineering
+- cognitive-load-theory
+- natural-language-generation
+aliases:
+- abstraction gradient control
+- conceptual altitude control
+- level of abstraction prompting
+broader:
+- output-quality-in-llms
+- specificity-vs-generality-tradeoff
+- prompt-engineering
+related:
+- specificity-vs-generality-tradeoff
+- verbosity-control-in-prompts
+- register-and-tone-control
+- audience-calibration
+prerequisites:
+- abstraction-in-cognition
+- cognitive-load-theory
+- prompt-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Abstraction Level Control
+  body: 'Abstraction Level Control refers to the prompting strategies and output design
+    principles used to manage the conceptual altitude at which LLM outputs are pitched
+    — governing whether explanations operate at the level of concrete instances, operational
+    procedures, functional principles, or abstract theoretical frameworks — and ensuring
+    that the abstraction level is consistently appropriate for the user''s background
+    knowledge and the task''s cognitive requirements. Effective abstraction level
+    control requires matching the output''s conceptual altitude to the user''s zone
+    of proximal development: too concrete and expert users are buried in instances
+    without extractable principles; too abstract and novice users lack the concrete
+    grounding needed to understand and apply abstract descriptions. LLMs exhibit tendency
+    toward multiple simultaneous abstraction levels within a single output, mixing
+    concrete examples with abstract principles in ways that create cognitive load
+    without adding informational value.'
+- type: key-claim
+  title: Key claim about Abstraction Level Control
+  body: Abstraction Level Control is the primary differentiator between LLM explanations
+    that produce genuine understanding and those that produce the illusion of understanding
+    — outputs that mix abstraction levels without explicit bridging between them allow
+    users to follow each individual statement while failing to build a coherent mental
+    model, because the transitions between abstraction levels require inference that
+    novice users cannot reliably make; effective prompting that specifies a single
+    target abstraction level with explicit bridging instructions between levels produces
+    substantially higher comprehension rates than the default multi-level explanations
+    LLMs generate without guidance.
+- type: warning
+  title: Common pitfall regarding Abstraction Level Control
+  body: Abstraction Level Control through prompting is less stable for domain-crossing
+    topics — when a concept spans multiple domains at different abstraction levels
+    (e.g., a biological mechanism described at molecular, cellular, and systems levels),
+    models reliably drift across abstraction levels even when instructed to maintain
+    a single level, because the training data for multi-level topics inherently contains
+    text pitched at multiple conceptual altitudes; reliable abstraction level control
+    for multi-domain topics requires iterative prompting that identifies and explicitly
+    removes abstraction-level drift from generated outputs rather than prevention
+    alone.

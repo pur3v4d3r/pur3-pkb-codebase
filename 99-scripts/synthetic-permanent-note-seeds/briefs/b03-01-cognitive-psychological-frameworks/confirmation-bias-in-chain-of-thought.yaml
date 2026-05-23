@@ -1,0 +1,60 @@
+concept: Confirmation Bias in Chain of Thought
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- chain-of-thought-prompting
+- ai-safety
+aliases:
+- motivated reasoning in CoT
+- biased chain-of-thought
+- selective evidence weighting in LLMs
+broader:
+- cognitive-bias-in-llm-outputs
+- confirmation-bias
+- chain-of-thought-prompting
+related:
+- sycophancy-in-llms
+- framing-effects-on-llm-outputs
+- anchoring-bias-in-llm-reasoning
+- dual-process-theory-applied-to-llms
+prerequisites:
+- confirmation-bias
+- chain-of-thought-prompting
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Confirmation Bias in Chain of Thought
+  body: Confirmation Bias in Chain of Thought refers to the tendency of large language
+    models performing explicit reasoning steps to construct reasoning chains that
+    selectively surface evidence, arguments, and considerations that support the direction
+    established in the first step of the chain, while underweighting or omitting contrary
+    evidence — analogous to human motivated reasoning. When a chain-of-thought prompt
+    or the model's own initial intermediate step implicitly or explicitly establishes
+    a conclusion direction, subsequent reasoning steps systematically favour information
+    consistent with that direction, producing reasoning chains that appear thorough
+    and logical but are structurally biased toward confirmatory conclusions. This
+    is particularly insidious because the explicit reasoning format creates the appearance
+    of balanced deliberation while the reasoning content embeds the same biases as
+    one-shot generation.
+- type: key-claim
+  title: Key claim about Confirmation Bias in Chain of Thought
+  body: Confirmation Bias in Chain of Thought means that the reasoning transparency
+    provided by chain-of-thought prompting does not imply reasoning accuracy — models
+    frequently produce plausible-looking reasoning chains that reach incorrect conclusions
+    by starting from a biased initial step and then constructing confirmatory logic
+    rather than exploratory reasoning; specifically, when the first sentence of a
+    model's reasoning chain establishes a claim, subsequent sentences show statistically
+    higher rates of confirmatory elaboration than contradictory challenge, regardless
+    of whether the initial claim is correct, producing reasoning that is internally
+    coherent but potentially anchored to a false premise.
+- type: warning
+  title: Common pitfall regarding Confirmation Bias in Chain of Thought
+  body: Confirmation Bias in Chain of Thought is amplified by RLHF alignment processes
+    that reward coherent and consistent outputs — human raters tend to prefer reasoning
+    chains that maintain internal consistency over chains that revise initial conclusions
+    mid-reasoning, even when the revision is epistemically correct; this creates a
+    systematic alignment pressure toward confirmatory reasoning that is trained into
+    the model's preferences, making confirmation bias in CoT a learned behaviour that
+    resists simple prompting countermeasures.

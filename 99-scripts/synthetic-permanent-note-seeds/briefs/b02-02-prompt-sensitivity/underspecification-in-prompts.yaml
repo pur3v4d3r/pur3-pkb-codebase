@@ -1,0 +1,55 @@
+concept: Underspecification in Prompts
+domain: prompt-engineering
+secondary_domains:
+- prompt-engineering
+- large-language-models
+- evaluation
+aliases:
+- ambiguous prompts
+- underspecified task prompts
+- prompt ambiguity
+- prompt vagueness
+broader:
+- prompt-sensitivity
+- prompt-engineering
+related:
+- prompt-brittleness
+- semantic-equivalence-in-prompts
+- distribution-shift-in-prompting
+prerequisites:
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Underspecification in Prompts
+  body: Underspecification in prompts refers to the condition in which a prompt fails
+    to fully specify the intended task, leaving multiple interpretations equally consistent
+    with the prompt text. An underspecified prompt is one where multiple different
+    behaviours all satisfy the literal instruction, and the model's choice among those
+    behaviours is determined by its training distribution rather than by the user's
+    actual intent. Common forms of underspecification include ambiguous scope (is
+    the instruction to summarise the document as a whole or section by section?),
+    missing output format constraints (length, structure, terminology), omitted audience
+    specification, unclear success criteria, and absent constraints on the model's
+    knowledge sources (should it use only information in the context or also its parametric
+    knowledge?).
+- type: key-claim
+  title: Key claim about Underspecification in Prompts
+  body: Underspecification in prompts is the primary cause of prompt brittleness and
+    performance variability across deployments — the model is not behaving inconsistently
+    across prompt variants but is consistently selecting its preferred interpretation
+    of an ambiguous instruction, and the apparent sensitivity to prompt variation
+    is actually sensitivity to which interpretation each variant cues, not sensitivity
+    to irrelevant surface form; eliminating underspecification through explicit constraint
+    specification is therefore more effective at improving prompt robustness than
+    stylistic refinement.
+- type: warning
+  title: Common pitfall regarding Underspecification in Prompts
+  body: Eliminating all underspecification from a prompt is often counterproductive
+    for generative tasks where the user genuinely wants the model to use creative
+    judgment — overly specified prompts constrain the output space to match the prompt
+    author's assumptions rather than the user's actual needs, and the right level
+    of specification is task-dependent; the engineering goal should be to resolve
+    specification ambiguities that lead to task failures while preserving specification
+    flexibility that enables appropriate contextual adaptation.

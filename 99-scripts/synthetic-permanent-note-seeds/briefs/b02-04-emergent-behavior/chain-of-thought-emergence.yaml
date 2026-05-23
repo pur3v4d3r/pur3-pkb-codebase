@@ -1,0 +1,55 @@
+concept: Chain-of-Thought Emergence
+domain: large-language-models
+secondary_domains:
+- prompt-engineering
+- reasoning
+- large-language-models
+aliases:
+- CoT capability emergence
+- chain-of-thought threshold
+- reasoning chain emergence
+broader:
+- emergent-prompting-capability
+- chain-of-thought-prompting
+related:
+- few-shot-emergent-generalisation
+- arithmetic-emergence-threshold
+- capability-elicitation-prompting
+- scaling-and-capability-emergence
+prerequisites:
+- chain-of-thought-prompting
+- large-language-models
+- scaling-laws
+confidence: high
+callouts:
+- type: definition
+  title: Chain-of-Thought Emergence
+  body: 'Chain-of-thought emergence refers to the empirical finding that chain-of-thought
+    prompting (providing step-by-step reasoning examples) produces substantial performance
+    improvements only for models above a certain scale threshold (approximately 100
+    billion parameters in the original Wei et al. study), while producing no improvement
+    or even slight degradation for models below that threshold. This non-monotonic
+    relationship between model scale and chain-of-thought benefit is interpreted as
+    an emergent property: small models generate incoherent or incorrect reasoning
+    chains that corrupt rather than improve the final answer, while large models generate
+    coherent reasoning chains that reliably lead to correct conclusions.'
+- type: key-claim
+  title: Key claim about Chain-of-Thought Emergence
+  body: Chain-of-thought emergence is partly an artefact of evaluation methodology
+    rather than a pure scale threshold — smaller models can benefit from chain-of-thought
+    prompting when the task is appropriately difficulty-matched to the model's capability
+    level, and the apparent threshold reflects the minimum model size required to
+    generate coherent reasoning chains for the specific tasks studied (multi-step
+    arithmetic and symbolic reasoning), not a universal threshold below which no chain-of-thought
+    benefit is possible; per-task capability thresholds are substantially lower than
+    the aggregate threshold reported in early studies.
+- type: warning
+  title: Common pitfall regarding Chain-of-Thought Emergence
+  body: The chain-of-thought emergence finding has been used to justify the claim
+    that capability improvements are discontinuous with scale, but subsequent analysis
+    reveals that many apparently discontinuous capability gains become smooth and
+    predictable when measured on the right metrics — the discontinuity in CoT performance
+    is partly an artefact of binary accuracy metrics that show step-function changes
+    even when the underlying performance distribution changes smoothly, and using
+    graded metrics (partial credit, log-probability scores) typically reveals gradual
+    improvement rather than discontinuous emergence.

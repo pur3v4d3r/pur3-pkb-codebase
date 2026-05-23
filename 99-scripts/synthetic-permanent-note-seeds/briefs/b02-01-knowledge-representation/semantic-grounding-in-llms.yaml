@@ -1,0 +1,55 @@
+concept: Semantic Grounding in LLMs
+domain: knowledge-representation
+secondary_domains:
+- natural-language-processing
+- cognitive-science
+- large-language-models
+aliases:
+- grounding in language models
+- semantic anchoring
+- symbol grounding in LLMs
+broader:
+- knowledge-representation
+- large-language-models
+narrower:
+- entity-linking-in-prompts
+- coreference-resolution-prompting
+related:
+- world-model-in-language-models
+- commonsense-reasoning-in-llms
+- ontology-grounded-prompting
+- symbol-grounding-problem
+prerequisites:
+- large-language-models
+- word-embeddings
+- distributional-semantics
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Grounding in LLMs
+  body: Semantic grounding in LLMs refers to the degree to which a language model's
+    internal representations connect linguistic symbols to stable, consistent meanings
+    rather than treating them as purely statistical co-occurrence patterns. A grounded
+    model reliably maps the token sequence "Paris is the capital of France" to a world-fact
+    that constrains downstream inference, rather than merely recalling the phrase
+    because it appeared frequently in training text. Grounding is achieved through
+    a combination of large-scale pretraining on factual corpora, instruction tuning
+    that rewards accurate world-knowledge retrieval, and supplementary mechanisms
+    such as retrieval augmentation or knowledge-graph injection that supply explicit
+    external anchors at inference time.
+- type: key-claim
+  title: Key claim about Semantic Grounding in LLMs
+  body: The grounding question is not whether LLMs have grounded representations but
+    how robust those representations are under distributional shift — models exhibit
+    superficially grounded behaviour on in-distribution probes while failing on simple
+    paraphrases or cross-lingual reformulations of the same fact, revealing that statistical
+    co-occurrence and true semantic grounding produce indistinguishable behaviour
+    in the large-data regime until the distribution shifts.
+- type: warning
+  title: Common pitfall regarding Semantic Grounding in LLMs
+  body: Conflating fluent factual language generation with genuine semantic grounding
+    is the central diagnostic error in LLM evaluation — a model that confidently generates
+    accurate-sounding text about an entity may have no stable internal representation
+    of that entity's properties, as revealed by inconsistent answers across paraphrased
+    queries; grounding must be tested with adversarial reformulations, not just canonical
+    phrasings.

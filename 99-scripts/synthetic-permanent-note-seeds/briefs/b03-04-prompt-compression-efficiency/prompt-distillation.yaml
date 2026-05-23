@@ -1,0 +1,63 @@
+concept: Prompt Distillation
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- knowledge-distillation
+- prompt-engineering
+- model-compression
+aliases:
+- prompt knowledge distillation
+- in-context distillation
+- prompt-based knowledge transfer
+broader:
+- prompt-compression-and-efficiency
+- knowledge-distillation
+- prompt-engineering
+narrower:
+- context-distillation-training
+- abstractive-context-compression
+related:
+- context-distillation-training
+- token-efficient-prompting
+- prompt-summarization
+- in-context-compression
+prerequisites:
+- knowledge-distillation
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Distillation
+  body: Prompt Distillation refers to the process of compressing the information in
+    a complex, verbose prompt into a shorter, more efficient prompt that preserves
+    the essential knowledge, constraints, and task specification needed for the LLM
+    to produce equivalent-quality outputs — analogous to model knowledge distillation,
+    which compresses a large teacher model into a smaller student model while preserving
+    the teacher's performance. Prompt distillation can be achieved through iterative
+    refinement (repeatedly shortening prompts while checking output quality), automated
+    compression algorithms (LLMLingua, selective context), fine-tuning a smaller model
+    on few-shot outputs from a larger model's prompted generations (context distillation
+    training), or structurally rewriting verbose prompts into compact semantic equivalents.
+    The goal is to achieve equivalent task performance at substantially lower token
+    cost.
+- type: key-claim
+  title: Key claim about Prompt Distillation
+  body: Prompt Distillation via automated compression can reduce prompt token counts
+    by 40–80% while retaining 80–95% of output quality — studies of LLMLingua and
+    similar compression techniques demonstrate that substantial fractions of most
+    prompts are redundant from the model's perspective, and that intelligently selected
+    subsets of the original prompt tokens carry the majority of the task-relevant
+    information; this finding motivates systematic prompt compression as a cost-optimisation
+    strategy for high-volume production deployments where token cost is a significant
+    operational expense.
+- type: warning
+  title: Common pitfall regarding Prompt Distillation
+  body: Prompt Distillation quality is task-dependent and model-dependent — compression
+    ratios that maintain output quality on well-defined extraction or classification
+    tasks often degrade output quality substantially on open-ended generation, multi-step
+    reasoning, or creative tasks where redundant-seeming prompt content provides important
+    contextual anchoring that compressed prompts lose; all prompt distillation implementations
+    must validate distilled prompts against the full task distribution rather than
+    on a sample of representative cases, as edge cases often rely disproportionately
+    on prompt content that compression removes first.

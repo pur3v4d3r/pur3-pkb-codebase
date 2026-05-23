@@ -1,0 +1,54 @@
+concept: Rubric-Based LLM Evaluation
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- automatic-evaluation
+- evaluation-design
+aliases:
+- criteria-based evaluation
+- structured evaluation rubric
+- rubric-grounded assessment
+broader:
+- reference-free-evaluation
+- llm-evaluation
+related:
+- g-eval-scoring-methodology
+- likert-scale-prompt-evaluation
+- evaluation-prompt-design
+prerequisites:
+- llm-evaluation
+- rubric-design
+- automatic-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Rubric-Based LLM Evaluation
+  body: Rubric-based LLM evaluation is an approach to automatic quality assessment
+    in which an LLM evaluator assesses model outputs against a structured rubric —
+    a set of explicitly defined quality criteria, each with defined performance levels
+    and associated descriptions. Rather than asking the evaluator for a holistic quality
+    judgment, rubric-based evaluation asks the evaluator to assess each criterion
+    independently using the rubric's defined performance levels, producing a multi-dimensional
+    quality profile that is more reliable, interpretable, and controllable than holistic
+    single-score evaluations. Rubrics typically cover criteria such as factual accuracy,
+    instruction compliance, completeness, clarity, safety, and task-specific quality
+    dimensions.
+- type: key-claim
+  title: Key claim about Rubric-Based LLM Evaluation
+  body: Rubric-based evaluation produces substantially more reliable and actionable
+    evaluation results than holistic rating because it disaggregates quality into
+    independently assessable dimensions — holistic ratings capture an undefined mixture
+    of quality dimensions that varies across raters, while rubric-based ratings capture
+    each dimension separately, enabling identification of specific capability gaps
+    (e.g., high instruction compliance but low factual accuracy) that holistic ratings
+    would obscure; the diagnostic value of rubric-based evaluation for model improvement
+    decisions exceeds that of any single-score evaluation method.
+- type: warning
+  title: Common pitfall regarding Rubric-Based LLM Evaluation
+  body: Rubric quality is the dominant determinant of rubric-based evaluation reliability
+    — a rubric with ambiguous criteria definitions, overlapping dimensions, or performance
+    level descriptions that are insufficiently distinct produces evaluations that
+    are no more reliable than holistic ratings; effective rubric design requires iterative
+    refinement through annotator studies, clear operational definitions of each criterion
+    and performance level, and validation that annotators (human or LLM) can reliably
+    apply the rubric without substantial disagreement.

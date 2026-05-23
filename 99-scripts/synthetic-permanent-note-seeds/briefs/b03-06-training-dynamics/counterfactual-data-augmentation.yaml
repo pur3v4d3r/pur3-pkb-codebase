@@ -1,0 +1,63 @@
+concept: Counterfactual Data Augmentation
+domain: machine-learning
+secondary_domains:
+- large-language-models
+- machine-learning
+- data-augmentation
+- robustness
+aliases:
+- causal data augmentation
+- minimal pair augmentation
+- counterfactual training examples
+broader:
+- training-dynamics-and-data-pipelines
+- data-augmentation
+- machine-learning
+related:
+- synthetic-data-generation-for-training
+- curriculum-learning-for-llms
+- training-data-attribution
+- deduplication-effects-on-training
+prerequisites:
+- data-augmentation
+- causal-inference
+- machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Counterfactual Data Augmentation
+  body: 'Counterfactual Data Augmentation refers to the technique of expanding training
+    datasets by generating or curating counterfactual examples — minimally modified
+    versions of existing training examples where a specific causal feature is changed
+    and the label correspondingly changes — to train models that are causally sensitive
+    to the relevant features rather than relying on spurious correlations. In NLP,
+    counterfactual augmentation involves creating minimal pairs that differ in a specific
+    linguistic feature (e.g., changing the sentiment word in a sentiment analysis
+    example, changing the pronoun in a coreference example, negating a factual claim)
+    to ensure that the model learns to track the causally relevant feature rather
+    than any of its non-causal correlates. Counterfactual augmentation addresses a
+    fundamental challenge of supervised learning from naturalistic data: spurious
+    correlations in natural language datasets are numerous and the model will learn
+    whichever correlations are most predictive, not necessarily the causally correct
+    ones.'
+- type: key-claim
+  title: Key claim about Counterfactual Data Augmentation
+  body: Counterfactual Data Augmentation substantially reduces model reliance on spurious
+    correlations that appear robust on standard benchmarks but fail on distribution-shifted
+    evaluation — models trained with counterfactually augmented data show 20–40% improvements
+    on challenge sets designed to break spurious correlations, compared to models
+    trained on the original data, while maintaining equivalent performance on standard
+    benchmarks; this robustness improvement demonstrates that augmented models have
+    genuinely learned the causally relevant features rather than achieving benchmark
+    performance through spurious correlation exploitation.
+- type: warning
+  title: Common pitfall regarding Counterfactual Data Augmentation
+  body: Counterfactual Data Augmentation quality depends critically on the quality
+    and completeness of the counterfactual generation process — poorly constructed
+    counterfactuals that inadvertently change multiple features simultaneously rather
+    than the intended single feature train the model on inconsistent causal signals
+    that may be more confusing than the original uncounterfactual data; high-quality
+    counterfactual augmentation requires expert annotation or carefully validated
+    automatic generation that verifies the minimality and label-correctness of each
+    generated counterfactual.

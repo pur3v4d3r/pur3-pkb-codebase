@@ -1,0 +1,61 @@
+concept: Knowledge Localization in FFN
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- transformer-architecture
+- factual-knowledge
+aliases:
+- factual knowledge in MLP layers
+- FFN as knowledge store
+- transformer MLP knowledge localisation
+broader:
+- mechanistic-interpretability
+- transformer-architecture
+- large-language-models
+related:
+- causal-tracing-in-transformers
+- factual-association-mechanisms
+- logit-lens-technique
+- knowledge-editing-in-llms
+prerequisites:
+- transformer-architecture
+- feed-forward-networks
+- causal-tracing
+- mechanistic-interpretability
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Localization in FFN
+  body: Knowledge Localization in FFN refers to the empirical finding and associated
+    interpretability research that factual associations (e.g., "the Eiffel Tower is
+    in Paris") are disproportionately stored and retrieved from specific middle-layer
+    feed-forward network (FFN/MLP) modules in transformer language models, and that
+    these specific modules function as key-value memories where keys correspond to
+    subject features and values bias the residual stream toward factual predictions.
+    The knowledge localisation hypothesis, supported by causal tracing studies, ROME,
+    and MEMIT experiments, identifies specific neuron groups in FFN layers whose activation
+    corresponds to specific factual associations and whose modification enables targeted
+    factual knowledge editing without disrupting unrelated model behaviours.
+- type: key-claim
+  title: Key claim about Knowledge Localization in FFN
+  body: Knowledge Localization in FFN layers is sufficiently precise to enable targeted
+    knowledge editing — ROME and MEMIT experiments that modify specific identified
+    MLP layer weight parameters can update factual associations (e.g., changing "the
+    Eiffel Tower is in Paris" to "the Eiffel Tower is in Rome") with high success
+    rates while preserving unrelated factual knowledge and general model capabilities
+    at rates substantially better than gradient-based fine-tuning, which modifies
+    weights diffusely and causes greater collateral disruption; this precision supports
+    the knowledge localisation hypothesis and demonstrates that FFN weight modifications
+    at specific layers can function as targeted factual knowledge updates.
+- type: warning
+  title: Common pitfall regarding Knowledge Localization in FFN
+  body: Knowledge Localization in FFN should not be interpreted as evidence that factual
+    knowledge is cleanly partitioned into discrete, independently modifiable modules
+    — causal tracing identifies layers with the highest causal influence on factual
+    recall, but factual knowledge representations are distributed across multiple
+    layers and the identification of "primary" knowledge layers reflects the highest-influence
+    layer in a distributed system rather than exclusive storage; knowledge editing
+    via FFN modification succeeds for isolated factual updates but degrades for complex
+    multi-hop reasoning that depends on the interactions between multiple distributed
+    knowledge representations.

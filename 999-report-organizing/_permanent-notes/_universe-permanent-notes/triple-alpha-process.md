@@ -17,7 +17,7 @@ subdomains:
   - nuclear-astrophysics
 
 created: 2026-05-14
-updated: '2026-05-14'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - triple-alpha-process-synthetic-seed-2026-05-14
@@ -67,8 +67,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-14'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Triple Alpha Process Flowchart**
+> *Follow the sequence from helium to carbon.*
+>
+> ```mermaid
+> flowchart LR
+>   A[He-4] --> B[He-4]
+>   B --> C(Be-8)
+>   C --> D(He-4)
+>   D --> E(C-12)
+> ```
+
+
+> [!abstract] **Diagram 2 — Temperature vs Reaction Rate**
+> *Observe the sharp increase in reaction rate at high temperatures.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Temp] --> B[Reaction Rate]
+>   B --> C[10^8 K]
+>   C --> D[High Temp]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with CNO Cycle**
+> *Compare the pathways for energy generation in stars.*
+>
+> ```mermaid
+> classDiagram
+>   class TripleAlphaProcess{
+>     +He-4 + He-4 -> Be-8
+>     +Be-8 + He-4 -> C-12
+>   }
+>   class CNOCycle{
+>     +H-1 + H-1 -> D-2
+>     +D-2 + H-1 -> He-3
+>     +He-3 + He-3 -> He-4 + p+ + gamma
+>   }
+> ```
 
 # Triple Alpha Process
 

@@ -21,7 +21,7 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - cognitive-load-theory-foundational-report-2026-04-18
@@ -71,8 +71,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Working Memory Capacity**
+> *Identify the capacity limits of working memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[4±1 Elements]
+>   C[Decay Without Rehearsal]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory Interaction**
+> *Understand the interaction between working memory and long-term memory.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant WM as WorkingMemory
+>   participant LTM as LongTermMemory
+>   WM->>LTM: Process Information
+>   LTM-->>WM: Encode into Schema
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Types**
+> *Differentiate between intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic]
+>   B[Extraneous]
+>   C[Nature of Content]
+>   D[Learner's Schema Base]
+>   E[Instructional Design Choices]
+>   A -->|Complexity| C
+>   A -->|Schema Base| D
+>   B -->|Design Choices| E
+> ```
 
 # Working Memory
 

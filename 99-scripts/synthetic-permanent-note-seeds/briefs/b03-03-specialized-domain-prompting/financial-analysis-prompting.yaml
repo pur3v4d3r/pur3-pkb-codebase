@@ -1,0 +1,62 @@
+concept: Financial Analysis Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- financial-analysis
+- prompt-engineering
+- quantitative-finance
+aliases:
+- financial LLM prompting
+- investment analysis prompting
+- quantitative finance prompts
+broader:
+- specialized-domain-prompting
+- financial-ai
+- prompt-engineering
+related:
+- data-analysis-prompting
+- ethical-reasoning-prompting
+- claim-strength-calibration
+- risk-communication
+prerequisites:
+- prompt-engineering
+- financial-analysis
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Financial Analysis Prompting
+  body: Financial Analysis Prompting refers to the prompting strategies adapted for
+    financial analysis tasks — including financial statement interpretation, ratio
+    analysis, valuation modelling, market trend identification, risk assessment, investment
+    thesis construction, regulatory compliance checking, and financial narrative drafting.
+    Financial analysis prompting must address the temporal sensitivity of financial
+    data (LLM training cutoffs mean financial data may be outdated), the quantitative
+    precision requirements of financial calculations, the regulatory constraints on
+    financial advice communication, and the institutional specificity of financial
+    analysis (different analyst types require different frameworks and output conventions).
+    Effective financial analysis prompting provides current financial data as context
+    (rather than relying on model memory), specifies the analytical framework, and
+    structures quantitative outputs in verifiable formats.
+- type: key-claim
+  title: Key claim about Financial Analysis Prompting
+  body: Financial Analysis Prompting is most reliable when financial data is explicitly
+    provided as structured context rather than requested from the model's parametric
+    memory — LLMs retain financial figures from training data that are outdated by
+    months to years, and when prompted to "analyse company X's financial performance"
+    without current data, produce analyses that mix accurate structural commentary
+    with potentially outdated quantitative figures; providing current financial statements
+    directly in the prompt context reduces quantitative error rates substantially
+    and allows the model's analytical capabilities (ratio interpretation, trend identification,
+    comparative analysis) to operate on accurate data rather than potentially stale
+    memorised figures.
+- type: warning
+  title: Common pitfall regarding Financial Analysis Prompting
+  body: Financial Analysis Prompting must include explicit regulatory and scope-of-practice
+    guardrails — many financial analysis outputs that are appropriate for institutional
+    analyst contexts constitute regulated financial advice when provided to retail
+    investors, and LLMs do not reliably distinguish between these contexts without
+    explicit instruction; deployments providing financial analysis prompting outputs
+    to end users must include explicit scope limitations, disclaimers about the absence
+    of personalised advice, and guidance to seek qualified financial advisors for
+    investment decisions.

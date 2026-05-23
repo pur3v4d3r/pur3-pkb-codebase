@@ -1,0 +1,53 @@
+concept: Head Pruning Effects
+domain: transformer-architecture
+secondary_domains:
+- model-compression
+- mechanistic-interpretability
+- deep-learning
+aliases:
+- attention head pruning
+- sparse attention architectures
+- head ablation effects
+broader:
+- attention-head-specialization
+- model-compression
+related:
+- attention-head-specialization
+- sparse-attention-patterns
+- grouped-query-attention
+prerequisites:
+- transformer-architecture
+- model-pruning
+- attention-mechanisms
+confidence: high
+callouts:
+- type: definition
+  title: Head Pruning Effects
+  body: Head pruning effects refer to the downstream consequences of removing individual
+    attention heads from a trained transformer model — either through hard ablation
+    (zeroing out head output), structured pruning (removing head parameters), or soft
+    pruning (applying learned masks). Research on head pruning reveals that a surprisingly
+    large fraction of attention heads can be removed with minimal effect on downstream
+    task performance, that specific task-critical heads (whose removal causes large
+    performance drops) are consistently identifiable across multiple random seeds
+    and model versions, and that the most important heads for one task are often not
+    the most important heads for other tasks, suggesting that heads are partially
+    task-specific.
+- type: key-claim
+  title: Key claim about Head Pruning Effects
+  body: Head pruning studies reveal that transformer models are substantially overparameterised
+    in their attention heads — studies consistently find that 30–50% of attention
+    heads can be ablated with less than 1% downstream performance degradation, that
+    the distribution of head importance is heavy-tailed (a few critical heads account
+    for most of the performance), and that task performance can actually improve after
+    pruning unimportant heads due to the elimination of noise from heads that specialise
+    in regularities irrelevant to the task.
+- type: warning
+  title: Common pitfall regarding Head Pruning Effects
+  body: Head importance is strongly task-dependent and context-dependent, making head
+    pruning decisions that generalise across tasks difficult to make reliably — a
+    head that is expendable for classification may be critical for generation, and
+    a head that is expendable on short contexts may be critical for long-context tasks;
+    generalised head pruning that improves one metric at the cost of another creates
+    hidden capability regressions that are difficult to detect without comprehensive
+    multi-task, multi-context evaluation.

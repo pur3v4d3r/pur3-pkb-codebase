@@ -1,0 +1,61 @@
+concept: Compressive Context Management
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- context-window-management
+- prompt-engineering
+- efficiency
+aliases:
+- compressed context windows
+- context compression management
+- rolling context compression
+broader:
+- prompt-compression-and-efficiency
+- context-window-management
+- prompt-engineering
+related:
+- in-context-compression
+- kv-cache-reuse-strategies
+- abstractive-context-compression
+- prompt-summarization
+prerequisites:
+- context-window-management
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Compressive Context Management
+  body: Compressive Context Management refers to the strategies for maintaining a
+    compressed representation of conversation history and background context in LLM
+    interactions, enabling the model to access relevant historical information without
+    the full raw context consuming the context window. As conversations and document
+    processing sessions accumulate context, raw retention eventually exceeds context
+    window capacity; compressive context management replaces full historical context
+    with compressed summaries, extractive snippets, or encoded context representations
+    that preserve task-relevant information at substantially lower token cost. Techniques
+    include rolling window summarisation (periodically summarising and replacing old
+    context with summaries), hierarchical compression (compressing older context more
+    aggressively than recent context), and retrieval-based context (storing full context
+    in a retrieval index and retrieving relevant snippets as needed).
+- type: key-claim
+  title: Key claim about Compressive Context Management
+  body: 'Compressive Context Management with hierarchical compression (recent context:
+    full fidelity, intermediate context: moderate compression, distant context: high
+    compression) substantially outperforms flat compression approaches on long-horizon
+    tasks — hierarchical compression exploits the empirical recency gradient in context
+    relevance (recent context is almost always more relevant than distant context)
+    to preserve high fidelity where it matters most while aggressively compressing
+    where information density is lowest; flat compression approaches that compress
+    all context at uniform rate sacrifice recent high-value context while preserving
+    distant low-value context at the same rate, producing suboptimal quality-efficiency
+    tradeoffs.'
+- type: warning
+  title: Common pitfall regarding Compressive Context Management
+  body: Compressive Context Management introduces information loss that is context-dependent
+    and difficult to predict — compressed summaries inevitably lose specific details
+    that may become relevant later in the interaction, and the specific details lost
+    are determined by the compression algorithm's relevance model rather than by knowledge
+    of future information needs; systems relying on compressive context management
+    should implement lossless fallback retrieval for specific historical content rather
+    than assuming the compressed context is complete for all possible future queries.

@@ -1,0 +1,55 @@
+concept: G-Eval Scoring Methodology
+domain: llm-evaluation
+secondary_domains:
+- llm-evaluation
+- automatic-evaluation
+- natural-language-generation
+aliases:
+- G-Eval
+- form-filling evaluation
+- criterion-conditioned probability scoring
+broader:
+- rubric-based-llm-evaluation
+- reference-free-evaluation
+related:
+- rubric-based-llm-evaluation
+- prometheus-evaluation-model
+- evaluation-prompt-design
+prerequisites:
+- llm-evaluation
+- automatic-evaluation
+- natural-language-generation
+confidence: high
+callouts:
+- type: definition
+  title: G-Eval Scoring Methodology
+  body: 'G-Eval is an LLM-based evaluation methodology that improves upon naive LLM-as-judge
+    scoring by using a two-step process: (1) prompting the evaluator LLM to generate
+    a detailed step-by-step evaluation form specifying the sub-criteria and considerations
+    relevant to the evaluation task, then (2) completing the form by scoring the response
+    on each sub-criterion using the token probability distribution over rating tokens
+    rather than sampling a single rating. Using token probabilities (weighted averages
+    over rating token probabilities rather than argmax of the rating distribution)
+    produces continuous-valued scores that capture evaluator uncertainty and are more
+    reliable than sampled discrete ratings. G-Eval achieves higher correlation with
+    human judgments than previous automatic evaluation methods on NLG tasks including
+    summarisation, dialogue response generation, and story generation.'
+- type: key-claim
+  title: Key claim about G-Eval Scoring Methodology
+  body: G-Eval's use of token probability scores rather than sampled ratings is the
+    key innovation that drives its reliability improvement — sampling a single rating
+    from the evaluator's output introduces high variance from token-level stochasticity,
+    while averaging over the probability distribution over rating tokens produces
+    an expectation score that is more stable and better correlated with human ratings
+    because it captures the evaluator's distribution over ratings rather than a single
+    draw from that distribution.
+- type: warning
+  title: Common pitfall regarding G-Eval Scoring Methodology
+  body: G-Eval's token probability scoring is only accessible when using API services
+    that provide token log-probabilities in their output, or when using self-hosted
+    models where output probabilities are directly accessible; organisations using
+    G-Eval-style evaluation with API-only access and no log-probability output must
+    fall back to sampled-rating averaging over multiple evaluator calls, which recovers
+    some but not all of the probability-averaging benefit at proportionally higher
+    API cost; published G-Eval results obtained with true probability scoring may
+    not be reproducible in environments without probability access.

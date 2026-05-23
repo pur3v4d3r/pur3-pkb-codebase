@@ -1,0 +1,60 @@
+concept: Contradiction Detection in Outputs
+domain: natural-language-generation
+secondary_domains:
+- large-language-models
+- formal-logic
+- natural-language-inference
+- output-quality
+aliases:
+- self-consistency checking
+- internal inconsistency detection
+- conflicting-claim identification in LLM text
+broader:
+- output-quality-in-llms
+- logical-entailment-verification
+- discourse-coherence-in-llm-outputs
+related:
+- logical-entailment-verification
+- narrative-consistency-prompting
+- stance-consistency-across-output
+- non-sequitur-detection-in-outputs
+prerequisites:
+- natural-language-inference
+- formal-logic
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Contradiction Detection in Outputs
+  body: Contradiction Detection in Outputs refers to the identification of pairs of
+    statements within LLM-generated text that express logically incompatible claims
+    — direct contradictions (X is true; X is false), partial contradictions (X is
+    a subset of Y; Y is a subset of X), quantifier contradictions (all X are Y; some
+    X are not Y), and temporal contradictions (X happened before Y; Y happened before
+    X) — and the prompting and architectural strategies for preventing or detecting
+    such contradictions before outputs reach users. LLMs generate contradictions across
+    long outputs due to attention limitations, context drift, and the statistical
+    independence of distant generation steps; within short outputs, contradictions
+    are less frequent but still occur when training data contains contradictory sources
+    that the model averages across rather than adjudicating between.
+- type: key-claim
+  title: Key claim about Contradiction Detection in Outputs
+  body: Contradiction Detection in Outputs using a two-stage pipeline (generate-then-verify)
+    substantially reduces contradiction rates in production LLM systems — studies
+    comparing single-pass generation with generation followed by explicit contradiction-detection
+    prompting show that the two-stage approach reduces inter-statement contradictions
+    by 50–70%, primarily because contradictions that are difficult for the model to
+    avoid during generation are easy to identify in a dedicated verification pass
+    where the model reads the completed output with a focused contradiction-identification
+    task rather than a content-generation task.
+- type: warning
+  title: Common pitfall regarding Contradiction Detection in Outputs
+  body: Contradiction Detection in Outputs via LLM self-verification is systematically
+    unreliable for soft contradictions — LLMs reliably detect explicit logical contradictions
+    (X is true; X is false in adjacent sentences) but miss soft contradictions where
+    incompatible claims are expressed in different sections using different terminology,
+    different levels of abstraction, or different rhetorical modes; robust contradiction
+    detection for soft inconsistencies requires structured claim extraction (converting
+    all claims to canonical logical form) before comparison, which is a substantially
+    more expensive pipeline step than the holistic contradiction-checking that LLMs
+    perform by default.

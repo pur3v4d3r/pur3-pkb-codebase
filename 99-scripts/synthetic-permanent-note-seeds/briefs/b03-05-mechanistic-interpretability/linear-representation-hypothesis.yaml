@@ -1,0 +1,64 @@
+concept: Linear Representation Hypothesis
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- representation-learning
+- geometry-of-representations
+aliases:
+- linear geometry of concepts
+- linear embedding of features
+- linear representation theory in LLMs
+broader:
+- mechanistic-interpretability
+- representation-learning
+- large-language-models
+related:
+- representation-engineering
+- probing-classifiers
+- concept-activation-vectors
+- distributed-representations-in-transformers
+prerequisites:
+- representation-learning
+- linear-algebra
+- transformer-architecture
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Linear Representation Hypothesis
+  body: The Linear Representation Hypothesis refers to the theoretical claim that
+    large language models represent concepts, features, and factual knowledge as linear
+    directions in their high-dimensional activation spaces — such that a specific
+    concept (e.g., "is a mammal," "sentiment is positive," "the subject is plural")
+    corresponds to a consistent linear direction in the representation space, and
+    interventions that add or subtract this direction from activation vectors predictably
+    modify the model's behaviour with respect to that concept. The hypothesis is motivated
+    by the success of word2vec-style linear vector arithmetic (king - man + woman
+    ≈ queen), extended to transformer hidden states. Evidence for the linear representation
+    hypothesis comes from probing classifier success, representation engineering experiments,
+    and the effectiveness of linear activation steering in controlling model behaviour.
+- type: key-claim
+  title: Key claim about Linear Representation Hypothesis
+  body: The Linear Representation Hypothesis is empirically supported for a broad
+    range of concept types in transformer LLMs — studies using representation engineering,
+    concept activation vectors, and sparse probing consistently find that binary properties
+    (true/false, positive/negative sentiment, grammatical/ungrammatical) are represented
+    as approximately linear directions that can be reliably identified by training
+    linear probes, and that interventions adding these directions to activations produce
+    predictable concept-specific behaviour changes at rates substantially above chance;
+    however, the hypothesis holds more reliably for well-defined binary properties
+    than for graded, polysemous, or context-dependent concepts where the linear direction
+    is less consistent.
+- type: warning
+  title: Common pitfall regarding Linear Representation Hypothesis
+  body: 'The Linear Representation Hypothesis should be understood as an approximation
+    rather than an exact mechanistic claim — the empirical evidence supports linearity
+    as a useful model for many concept representations, but also documents numerous
+    deviations: polysemanticity (multiple concepts sharing directions), superposition
+    (more concepts than dimensions encoded non-orthogonally), context-dependence (the
+    same concept encoded differently in different contexts), and non-linear interactions
+    between concept directions that linear analysis misses; mechanistic interpretability
+    research relying on linear representation assumptions should validate those assumptions
+    for the specific concepts and contexts under study rather than assuming they hold
+    universally.'

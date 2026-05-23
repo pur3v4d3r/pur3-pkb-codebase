@@ -1,0 +1,61 @@
+concept: Probing Classifiers
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- representation-learning
+aliases:
+- diagnostic probes
+- representation probing
+- probing tasks for LLMs
+broader:
+- mechanistic-interpretability
+- representation-learning
+- large-language-models
+related:
+- linear-representation-hypothesis
+- representation-engineering
+- concept-activation-vectors
+- feature-attribution-in-llms
+prerequisites:
+- representation-learning
+- linear-classification
+- transformer-architecture
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Probing Classifiers
+  body: Probing Classifiers refer to the interpretability methodology of training
+    simple linear (or sometimes non-linear) classifiers on the internal representations
+    (activations) of a pre-trained language model at specific layers to determine
+    whether specific linguistic or conceptual features are encoded as decodable information
+    in those representations. By holding the LLM frozen and training only a small
+    probe on its representations, researchers test whether a specific concept (part-of-speech,
+    syntactic role, semantic property, world knowledge fact) is linearly decodable
+    from the model's internal state at a specific layer — positive probe accuracy
+    indicates the information is present in the representations, while probe accuracy
+    variation across layers reveals where in the computational hierarchy different
+    types of information emerge and are maintained.
+- type: key-claim
+  title: Key claim about Probing Classifiers
+  body: Probing Classifiers reveal a hierarchical information organisation in transformer
+    LLMs — systematic probing across layers shows that lower layers encode surface-level
+    features (part-of-speech, morphology, character-level patterns), middle layers
+    encode syntactic structure (dependency parsing, constituent structure), and higher
+    layers encode semantic and pragmatic content (word sense, coreference, factual
+    knowledge), reflecting a progression from form to meaning that is consistent across
+    diverse transformer architectures and training paradigms; this hierarchical organisation
+    pattern provides important structural constraints on mechanistic interpretability
+    theories.
+- type: warning
+  title: Common pitfall regarding Probing Classifiers
+  body: Probing Classifiers measure the decodability of information from representations
+    but do not demonstrate that the model uses that information for task performance
+    — high probe accuracy shows that a property is encoded in the representations
+    but does not establish that the model's task performance depends causally on that
+    encoding; a model may encode a property in its representations as a byproduct
+    of training without using that encoding in downstream computation, making it essential
+    to complement probing results with causal intervention experiments (activation
+    patching, knockout analyses) that test whether the encoded information is actually
+    used in the model's computations.

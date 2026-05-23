@@ -1,0 +1,64 @@
+concept: Creative Writing Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- creative-writing
+- narrative-design
+- prompt-engineering
+aliases:
+- literary generation prompting
+- fiction writing prompts
+- creative AI prompting
+broader:
+- specialized-domain-prompting
+- creative-ai
+- prompt-engineering
+related:
+- narrative-consistency-prompting
+- register-and-tone-control
+- abstraction-level-control
+- stance-consistency-across-output
+prerequisites:
+- creative-writing-craft
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Creative Writing Prompting
+  body: Creative Writing Prompting refers to the prompting strategies and iterative
+    generation techniques used to elicit high-quality literary and narrative content
+    from large language models — including fiction, poetry, screenwriting, lyric writing,
+    interactive narrative, and creative non-fiction. Creative writing prompting encompasses
+    genre specification, narrative structure design, character development, voice
+    and style calibration, tension and pacing management, and the management of creative
+    constraint systems (formal poetry constraints, genre conventions, world-building
+    rules). Unlike task-oriented prompting that specifies outputs precisely, creative
+    writing prompting often involves strategic under-specification to enable creative
+    generation while maintaining narrative coherence, combined with iterative refinement
+    through critique-and-revision cycles that progressively improve output toward
+    the desired quality target.
+- type: key-claim
+  title: Key claim about Creative Writing Prompting
+  body: Creative Writing Prompting produces highest-quality outputs when the iterative
+    critique-revision cycle is treated as the primary generation mechanism rather
+    than as a correction step for deficient first drafts — LLMs generating creative
+    text produce qualitatively different outputs when explicitly prompted to critique
+    their own work against specific craft criteria (e.g., "evaluate this passage for
+    showing versus telling, pacing, sensory specificity, and character voice authenticity")
+    and then revise based on the critique, compared to outputs from a single high-effort
+    generation pass; the critique step's value lies in activating a different mode
+    of reasoning (evaluative rather than generative) that surfaces improvements the
+    generative mode systematically misses.
+- type: warning
+  title: Common pitfall regarding Creative Writing Prompting
+  body: Creative Writing Prompting exhibits mode collapse tendencies where LLMs systematically
+    gravitate toward prototypical genre structures, common narrative arc templates,
+    and well-represented stylistic patterns from training data — default-prompted
+    creative writing lacks genuine novelty and originality, defaulting to the most
+    statistically central creative patterns the model has learned; achieving genuinely
+    novel creative outputs requires explicit constraint-and-violation prompting (specifying
+    which conventions to subvert) or strong style-transfer anchoring on specific authors
+    or texts rather than generic genre specification, as genre specification alone
+    produces the most statistically average genre exemplar rather than distinctive
+    creative work.

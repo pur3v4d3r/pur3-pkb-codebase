@@ -1,0 +1,55 @@
+concept: Adversarial Prompt Robustness
+domain: prompt-engineering
+secondary_domains:
+- security
+- prompt-engineering
+- large-language-models
+aliases:
+- robustness to adversarial prompts
+- adversarial prompting resilience
+- jailbreak resistance
+broader:
+- prompt-sensitivity
+- prompt-engineering
+- ai-safety
+related:
+- prompt-brittleness
+- prompt-injection-attacks
+- distribution-shift-in-prompting
+prerequisites:
+- prompt-engineering
+- adversarial-machine-learning
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Adversarial Prompt Robustness
+  body: Adversarial prompt robustness is the ability of a language model or prompt
+    system to maintain intended behaviour — accuracy, safety constraints, output format,
+    and refusal behaviour — in the face of adversarially crafted inputs designed to
+    elicit unintended outputs. Adversarial prompts include jailbreaks that attempt
+    to override safety restrictions, prompt-injection attacks that substitute attacker-controlled
+    instructions for system-intent instructions, and semantic adversarial examples
+    that produce incorrect outputs by exploiting prompt brittleness. Adversarial robustness
+    is evaluated through red-teaming, automated adversarial prompt search, and transfer
+    attacks that exploit gradient information from white-box model access.
+- type: key-claim
+  title: Key claim about Adversarial Prompt Robustness
+  body: Adversarial prompt robustness cannot be achieved solely through prompt design
+    — system-prompt instructions to "ignore jailbreaks" are themselves overridable
+    by sufficiently crafted inputs, because the model treats all context tokens through
+    the same attention mechanism regardless of their nominal role; genuine adversarial
+    robustness requires a combination of adversarial training, output monitoring,
+    input filtering, and architectural separation of system and user contexts that
+    treats the adversarial robustness problem as a systems engineering problem rather
+    than a prompting problem.
+- type: warning
+  title: Common pitfall regarding Adversarial Prompt Robustness
+  body: The adversarial robustness landscape evolves continuously — a model that successfully
+    resists a known set of adversarial prompt templates will be vulnerable to novel
+    templates that exploit the same underlying mechanism through different surface
+    forms, creating an arms race between red-teamers and model developers that cannot
+    be resolved by a fixed defensive prompt; organisations deploying models in adversarial
+    environments must continuously update their adversarial test suites and consider
+    architectures with provable safety guarantees rather than relying solely on empirical
+    robustness.

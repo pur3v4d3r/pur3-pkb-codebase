@@ -1,0 +1,53 @@
+concept: Abductive Reasoning in LLMs
+domain: knowledge-representation
+secondary_domains:
+- logic
+- cognitive-science
+- large-language-models
+aliases:
+- inference to best explanation in LLMs
+- hypothesis generation in LLMs
+- abductive inference prompting
+broader:
+- reasoning-in-llms
+- commonsense-reasoning-in-llms
+related:
+- causal-reasoning-in-llms
+- deductive-reasoning-chains
+- inductive-reasoning-in-llms
+- counterfactual-reasoning-prompting
+prerequisites:
+- large-language-models
+- logic
+- abductive-inference
+confidence: high
+callouts:
+- type: definition
+  title: Abductive Reasoning in LLMs
+  body: Abductive reasoning in LLMs is the capacity to infer the most plausible explanation
+    for a set of observations — to generate hypotheses that best account for the evidence,
+    rather than deducing conclusions from premises (deductive) or generalising from
+    instances to rules (inductive). Formally known as "inference to the best explanation,"
+    abduction underlies diagnostic reasoning in medicine, fault diagnosis in engineering,
+    and narrative comprehension in everyday cognition. LLMs perform abductive reasoning
+    by generating candidate explanations and implicitly ranking them by prior probability
+    and explanatory fit with the observations, a process that is heavily influenced
+    by the frequency with which similar explanation-observation pairs appeared in
+    training text.
+- type: key-claim
+  title: Key claim about Abductive Reasoning in LLMs
+  body: 'LLMs exhibit abductive reasoning biases that mirror cognitive biases in human
+    explanation-generation: they prefer simple explanations over complex ones (parsimony
+    bias), familiar explanation-types over novel ones (availability bias), and explanations
+    that are locally consistent with the immediate observation over globally consistent
+    ones that require integrating multiple evidence sources, producing abductive outputs
+    that are plausible for typical cases but fail on atypical evidence combinations.'
+- type: warning
+  title: Common pitfall regarding Abductive Reasoning in LLMs
+  body: 'Abductive reasoning in LLMs is particularly vulnerable to prior-dominated
+    outputs: the model generates the most probable explanation given the training
+    distribution rather than the explanation best supported by the specific evidence
+    in the prompt, meaning that a rare-but-correct explanation for unusual evidence
+    will be systematically suppressed in favour of the common explanation, requiring
+    explicit prompt instructions to consider explanations of varying prior probability
+    and evaluate them against the specific evidence.'

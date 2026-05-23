@@ -1,0 +1,55 @@
+concept: World Model in Language Models
+domain: knowledge-representation
+secondary_domains:
+- cognitive-science
+- large-language-models
+- artificial-intelligence
+aliases:
+- LLM world model
+- internal world representation
+- implicit world knowledge in LLMs
+broader:
+- knowledge-representation
+- large-language-models
+narrower:
+- semantic-grounding-in-llms
+- commonsense-reasoning-in-llms
+related:
+- causal-reasoning-in-llms
+- temporal-reasoning-in-llms
+- spatial-reasoning-in-llms
+- model-capability-vs-alignment-gap
+prerequisites:
+- large-language-models
+- transformer-architecture
+- cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: World Model in Language Models
+  body: A world model in language models refers to the implicit structured representation
+    of entities, properties, and relations that emerges in the model's parameters
+    as a by-product of predicting text at scale. Unlike an explicit knowledge base
+    or simulation engine, an LLM world model is distributed across billions of parameters
+    and is accessed stochastically through the forward pass rather than through deterministic
+    query. Evidence for world model-like representations comes from experiments showing
+    that models can track entity state through narratives, predict physical simulation
+    outcomes, and answer counterfactual questions in ways that require integrating
+    multiple world facts coherently — capabilities that exceed what pure pattern-matching
+    over surface form would predict.
+- type: key-claim
+  title: Key claim about World Model in Language Models
+  body: Probing studies and activation-patching experiments demonstrate that transformer
+    models do develop linear representations of world-state variables — including
+    position, time, colour, and categorical attributes — that are causally upstream
+    of downstream token predictions, providing the strongest current evidence that
+    LLMs build functional world models, even if those models are incomplete, inconsistently
+    accessed, and not explicitly represented in any interpretable data structure.
+- type: warning
+  title: Common pitfall regarding World Model in Language Models
+  body: Attributing a rich world model to LLMs based on impressive benchmark performance
+    risks anthropomorphising statistical patterns; models can achieve high scores
+    on world-state tracking tasks via superficial cues (narrative template matching,
+    frequency-based priors) without encoding the causal structure of the underlying
+    world, and the degree of genuine world modelling must be assessed with adversarially
+    controlled stimuli that eliminate surface-form shortcuts.

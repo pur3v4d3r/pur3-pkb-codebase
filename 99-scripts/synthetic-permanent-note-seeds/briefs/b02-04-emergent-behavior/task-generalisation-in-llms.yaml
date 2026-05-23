@@ -1,0 +1,54 @@
+concept: Task Generalisation in LLMs
+domain: large-language-models
+secondary_domains:
+- generalisation
+- large-language-models
+- transfer-learning
+aliases:
+- cross-task generalisation
+- task transfer in LLMs
+- multi-task generalisation
+broader:
+- emergent-prompting-capability
+- generalisation
+related:
+- zero-shot-generalisation-mechanisms
+- few-shot-emergent-generalisation
+- instruction-following-emergence
+prerequisites:
+- large-language-models
+- transfer-learning
+- generalisation
+confidence: high
+callouts:
+- type: definition
+  title: Task Generalisation in LLMs
+  body: Task generalisation in LLMs refers to the ability of a model trained (or fine-tuned)
+    on a set of tasks to perform well on new tasks not seen during training, including
+    tasks from different domains, with different input-output formats, and requiring
+    different reasoning processes. Task generalisation is the core capability that
+    distinguishes general-purpose language models from task-specific models — it enables
+    a single model to handle diverse user requests without task-specific fine-tuning.
+    The degree of generalisation is bounded by the coverage and diversity of the pretraining
+    and instruction-tuning task distributions and by the model's capacity to represent
+    diverse task structures in a unified parameter space.
+- type: key-claim
+  title: Key claim about Task Generalisation in LLMs
+  body: Task generalisation in instruction-tuned LLMs is not uniform across task types
+    but is concentrated in tasks that share structural properties with the instruction-tuning
+    distribution — models generalise readily to new instances of known task types
+    (new topics within question answering, new documents within summarisation) while
+    failing to generalise to structurally novel tasks (new output formats, new reasoning
+    patterns) that require compositional use of capabilities not combined in training,
+    revealing that instruction following is more accurately described as task-type
+    generalisation than as truly general instruction following.
+- type: warning
+  title: Common pitfall regarding Task Generalisation in LLMs
+  body: Reported broad task generalisation in commercial LLMs is partly attributable
+    to instruction-tuning dataset scale and diversity rather than to fundamental generalisation
+    mechanisms — models trained on thousands of task types appear to generalise broadly
+    because most user tasks closely resemble tasks in the instruction-tuning distribution,
+    not because the model has learned an abstract instruction-following principle;
+    evaluating generalisation on structurally novel tasks designed to be outside the
+    instruction-tuning distribution consistently reveals more limited generalisation
+    than demonstrated on standard benchmarks.

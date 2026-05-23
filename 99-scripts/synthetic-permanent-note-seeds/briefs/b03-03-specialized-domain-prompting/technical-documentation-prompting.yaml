@@ -1,0 +1,60 @@
+concept: Technical Documentation Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- technical-writing
+- software-documentation
+- prompt-engineering
+aliases:
+- software docs generation prompting
+- API documentation prompts
+- technical writing AI
+broader:
+- specialized-domain-prompting
+- technical-writing
+- prompt-engineering
+related:
+- code-generation-prompting
+- information-density-optimization
+- verbosity-control-in-prompts
+- register-and-tone-control
+prerequisites:
+- technical-writing
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Technical Documentation Prompting
+  body: Technical Documentation Prompting refers to the prompting strategies used
+    to generate high-quality technical documentation from large language models —
+    including API reference documentation, user guides, installation instructions,
+    architecture documentation, developer tutorials, release notes, and troubleshooting
+    guides. Technical documentation prompting must manage the technical accuracy-accessibility
+    tradeoff (documentation that is accurate but inaccessible fails engineers new
+    to the codebase; documentation that is accessible but imprecise fails engineers
+    in edge-case situations), the currency of technical information (documentation
+    must reflect current API behaviour, not training-data-time behaviour), and the
+    audience diversity of technical documentation (beginners, intermediate users,
+    and expert maintainers have different documentation needs from the same system).
+- type: key-claim
+  title: Key claim about Technical Documentation Prompting
+  body: Technical Documentation Prompting achieves highest accuracy when actual code,
+    API signatures, and function implementations are included directly in the prompt
+    as primary context rather than relying on the model's parametric memory of libraries
+    and APIs — LLMs trained on documentation for popular libraries have memorised
+    documentation that may reflect outdated versions, and generating documentation
+    from memory produces version-inconsistent outputs; providing the actual current
+    source code or API signatures as prompt context and instructing the model to document
+    what the code actually does rather than what documentation says it does substantially
+    reduces version inconsistency errors in generated technical documentation.
+- type: warning
+  title: Common pitfall regarding Technical Documentation Prompting
+  body: Technical Documentation Prompting for internal proprietary systems cannot
+    rely on LLM parametric knowledge at all — LLMs have no training data for internal,
+    proprietary, or non-public codebases, and prompts that ask models to "document
+    how our authentication system works" without providing the actual code or system
+    architecture will produce generic, plausible-sounding authentication documentation
+    that describes common patterns but not the specific system; technical documentation
+    prompting for non-public systems requires comprehensive code context provision
+    and validation against actual system behaviour.

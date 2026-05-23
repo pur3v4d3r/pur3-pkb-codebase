@@ -1,0 +1,62 @@
+concept: Selective Context Technique
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- information-retrieval
+- prompt-engineering
+- efficiency
+aliases:
+- selective context filtering
+- relevant context selection
+- contextual pruning
+broader:
+- prompt-compression-and-efficiency
+- in-context-compression
+- prompt-pruning
+related:
+- in-context-compression
+- llmlingua-compression
+- prompt-pruning
+- compressive-context-management
+prerequisites:
+- information-retrieval
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Selective Context Technique
+  body: The Selective Context Technique refers to the approach of identifying and
+    retaining only the semantically relevant portions of a long context for inclusion
+    in the LLM prompt — filtering out irrelevant, redundant, or distracting context
+    segments before they are provided to the model, rather than providing the full
+    context and relying on the model's attention mechanism to weight relevant content
+    appropriately. The selective context approach is motivated by the empirical finding
+    that long contexts containing substantial irrelevant information degrade LLM performance
+    — irrelevant content distracts attention from relevant content, fills context
+    window capacity that could accommodate more relevant information, and introduces
+    noise into the model's inference. Selective context filtering uses relevance scoring
+    (between query and context segments), importance scoring (heuristic or model-based
+    assessment of segment value), or dependency analysis to select the minimal sufficient
+    context subset.
+- type: key-claim
+  title: Key claim about Selective Context Technique
+  body: The Selective Context Technique consistently improves task performance on
+    long-context tasks where the target information constitutes a small fraction of
+    the total context — studies of selective versus full context provision show that
+    providing only the top-k most relevant context segments outperforms providing
+    all context when context length exceeds approximately 2,000 tokens and the relevant
+    fraction is below approximately 30%; below these thresholds, full context provision
+    matches or exceeds selective context because the attention mechanism reliably
+    weights relevant content and the computational overhead of selection is not justified.
+- type: warning
+  title: Common pitfall regarding Selective Context Technique
+  body: The Selective Context Technique introduces a retrieval quality dependency
+    — the quality of selective context outputs is only as good as the relevance scoring
+    used to select context segments, and errors in the relevance scorer that exclude
+    task-relevant context segments are more damaging than the noise from irrelevant
+    context that full-context provision would avoid; deployers should validate that
+    the relevance scorer's false negative rate on task-critical context segments is
+    acceptably low before deploying selective context in production, as false negatives
+    in context selection produce task failures that are more difficult to diagnose
+    than the performance degradation from irrelevant context.

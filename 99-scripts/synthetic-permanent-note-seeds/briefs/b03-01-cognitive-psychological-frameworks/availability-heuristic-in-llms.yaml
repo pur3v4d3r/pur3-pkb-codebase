@@ -1,0 +1,61 @@
+concept: Availability Heuristic in LLMs
+domain: cognitive-science-applied-to-llms
+secondary_domains:
+- large-language-models
+- cognitive-psychology
+- prompt-engineering
+aliases:
+- availability bias in LLMs
+- frequency estimation bias in LLMs
+- salience-driven frequency distortion
+broader:
+- cognitive-bias-in-llm-outputs
+- availability-heuristic
+- large-language-models
+related:
+- anchoring-bias-in-llm-reasoning
+- overconfidence-in-llm-outputs
+- hallucination-in-llms
+- training-data-influence
+prerequisites:
+- availability-heuristic
+- large-language-models
+- pretraining-data-influence
+confidence: high
+callouts:
+- type: definition
+  title: Availability Heuristic in LLMs
+  body: 'The Availability Heuristic in LLMs refers to the tendency of large language
+    models to estimate the probability or frequency of events, facts, or concepts
+    based on how easily examples of those events come to mind in their training data
+    — analogous to the human cognitive availability heuristic, in which ease of recall
+    drives frequency and probability estimates. In LLMs, training data frequency functions
+    as a proxy for cognitive accessibility: topics, claims, and entities that appear
+    frequently or prominently in pretraining corpora are treated as more probable,
+    more representative, and more important than their actual base rates would warrant.
+    This manifests as LLMs overestimating the prevalence of highly publicised events,
+    over-representing well-documented claims from high-frequency training domains,
+    and underestimating the probability of rare but real phenomena that appear infrequently
+    in text data.'
+- type: key-claim
+  title: Key claim about Availability Heuristic in LLMs
+  body: The Availability Heuristic in LLMs produces systematic over-representation
+    of high-frequency training corpus events and under-representation of low-frequency
+    but real phenomena in LLM probabilistic outputs — a bias that is structurally
+    impossible to fully eliminate through prompting alone because it is baked into
+    the model's learned statistical priors, and that requires deliberate countermeasures
+    such as retrieval augmentation, calibration probing, or explicit base-rate correction
+    in the prompt to partially mitigate; the availability bias is particularly severe
+    in tasks requiring probability estimation for rare events, where LLMs consistently
+    assign higher-than-warranted probabilities to common events and lower-than-warranted
+    probabilities to rare events.
+- type: warning
+  title: Common pitfall regarding Availability Heuristic in LLMs
+  body: The Availability Heuristic in LLMs is amplified by the internet-scale nature
+    of pretraining data, which systematically over-represents Western, English-language,
+    mainstream-media-covered events and phenomena relative to their actual global
+    prevalence — LLMs trained on this data inherit a systematically distorted view
+    of event frequencies that reflects text production patterns rather than real-world
+    base rates; deploying LLMs for probability estimation, risk assessment, or epidemiological
+    reasoning without correcting for this availability-driven distortion can produce
+    outputs with confidently stated but substantially miscalibrated probability estimates.

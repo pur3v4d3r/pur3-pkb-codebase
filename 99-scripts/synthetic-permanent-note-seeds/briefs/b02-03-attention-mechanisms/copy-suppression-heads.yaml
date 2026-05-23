@@ -1,0 +1,52 @@
+concept: Copy-Suppression Heads
+domain: transformer-architecture
+secondary_domains:
+- mechanistic-interpretability
+- large-language-models
+- natural-language-generation
+aliases:
+- anti-copy heads
+- negative attention heads
+- suppression heads
+broader:
+- attention-head-specialization
+- self-attention-patterns
+related:
+- induction-heads
+- self-attention-patterns
+- attention-head-specialization
+prerequisites:
+- transformer-architecture
+- mechanistic-interpretability
+- attention-mechanisms
+confidence: high
+callouts:
+- type: definition
+  title: Copy-Suppression Heads
+  body: Copy-suppression heads are attention heads that reduce the logit probability
+    of generating tokens that are copies of recent source-context tokens, effectively
+    functioning as the inhibitory complement to induction heads. While induction heads
+    boost the probability of completing repeated patterns, copy-suppression heads
+    impose a penalty on naive token copying, preventing the model from defaulting
+    to repetitive copying when induction-based completion is not the intended behaviour.
+    Copy-suppression is particularly important in text generation tasks where the
+    model must paraphrase, summarise, or synthesise rather than copy, and in abstractive
+    tasks where verbatim repetition would indicate failure to process the source semantically.
+- type: key-claim
+  title: Key claim about Copy-Suppression Heads
+  body: Copy-suppression heads are a mechanistic implementation of the tension between
+    recall and generation in language models — they represent the architectural substrate
+    by which the model trades off between directly copying information from context
+    (high fidelity, low creativity) and generating novel text (low fidelity, high
+    creativity), and their strength calibrates the model's abstractiveness; analysis
+    shows that models trained on abstractive tasks develop stronger copy-suppression
+    relative to models trained on extractive tasks.
+- type: warning
+  title: Common pitfall regarding Copy-Suppression Heads
+  body: Copy-suppression heads can over-suppress legitimate copying in tasks that
+    require verbatim reproduction of source text — legal document processing, quote
+    extraction, and code completion — and prompting strategies that increase the model's
+    verbatim copying tendency (e.g., instructing "quote exactly," using the original
+    source as the first few tokens of the output) may be partially counteracting copy-suppression
+    head activity rather than changing the model's semantic intent, which has implications
+    for how verbatim output fidelity requirements should be engineered.

@@ -1,0 +1,62 @@
+concept: Polysemanticity in Neural Networks
+domain: mechanistic-interpretability
+secondary_domains:
+- large-language-models
+- mechanistic-interpretability
+- representation-learning
+- neural-networks
+aliases:
+- polysemantic neurons
+- multi-feature neurons
+- superposition and polysemanticity
+broader:
+- mechanistic-interpretability
+- distributed-representations-in-transformers
+- large-language-models
+related:
+- distributed-representations-in-transformers
+- linear-representation-hypothesis
+- probing-classifiers
+- representation-engineering
+prerequisites:
+- neural-network-theory
+- mechanistic-interpretability
+- representation-learning
+confidence: high
+callouts:
+- type: definition
+  title: Polysemanticity in Neural Networks
+  body: Polysemanticity in Neural Networks refers to the phenomenon where individual
+    neurons in a neural network (including transformer LLMs) respond to multiple,
+    semantically unrelated input features — responding maximally to a diverse set
+    of stimuli that do not correspond to a single interpretable concept. Polysemanticity
+    is theorised to arise from superposition, where the network uses distributed representations
+    to encode more features than it has neurons, inevitably making each neuron participate
+    in representing multiple features to achieve the necessary representational capacity.
+    Polysemanticity is a central challenge for mechanistic interpretability because
+    it means that neuron-level analysis (examining what each neuron responds to) does
+    not directly reveal the underlying feature structure of the model's representations,
+    requiring methods that can decompose polysemantic neurons into their constituent
+    features.
+- type: key-claim
+  title: Key claim about Polysemanticity in Neural Networks
+  body: Polysemanticity in Neural Networks is an expected consequence of superposition
+    rather than a training failure — theoretical models of superposition predict that
+    when the number of features to be represented exceeds the number of neurons, each
+    neuron will respond to multiple features as a necessary result of the compressed
+    representation, and that the degree of polysemanticity increases with the feature-to-neuron
+    ratio and decreases with feature sparsity; empirical observations of polysemanticity
+    in LLMs are therefore not signs of poor training but of high representational
+    efficiency, and attempts to reduce polysemanticity through training modifications
+    that force monosemanticity impose representational capacity costs.
+- type: warning
+  title: Common pitfall regarding Polysemanticity in Neural Networks
+  body: Polysemanticity in Neural Networks creates fundamental challenges for neuron-level
+    steering and editing interventions — attempts to modify model behaviour by targeting
+    specific neurons will simultaneously affect all features represented by that neuron,
+    producing unintended collateral effects on model behaviour that are difficult
+    to predict without a complete map of the neuron's polysemantic feature representation;
+    mechanistic interventions targeting polysemantic neurons require methods that
+    can isolate the specific feature direction of interest within the neuron's distributed
+    representation space (e.g., through sparse auto-encoder decomposition) rather
+    than operating at the coarse neuron level.

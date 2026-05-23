@@ -1,0 +1,53 @@
+concept: Prompt Calibration Techniques
+domain: prompt-engineering
+secondary_domains:
+- calibration
+- large-language-models
+- prompt-engineering
+aliases:
+- prompt bias correction
+- output calibration for prompts
+- in-context calibration
+broader:
+- prompt-engineering
+- calibration
+related:
+- label-sensitivity-in-prompting
+- verbalized-uncertainty
+- surface-form-competition
+- overconfidence-in-llm-outputs
+prerequisites:
+- prompt-engineering
+- probability-calibration
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Prompt Calibration Techniques
+  body: Prompt calibration techniques are methods that adjust a language model's output
+    probabilities or generated text to better reflect the true probability of correct
+    outputs, compensating for systematic biases introduced by the prompt itself. Contextual
+    calibration divides the model's label probabilities by its label probabilities
+    for a content-free prompt (e.g., "N/A"), correcting for prior label biases. Prototypical
+    calibration normalises by the model's probabilities for a prototypical positive
+    and negative example. Verbal calibration instructs the model to express its confidence
+    level in words and then uses the linguistic confidence expression as a calibration
+    signal. Domain calibration uses in-domain examples to estimate the model's miscalibration
+    and applies a learned correction function.
+- type: key-claim
+  title: Key claim about Prompt Calibration Techniques
+  body: Prompt calibration transforms label-sensitivity artefacts from confounds into
+    correctable biases — the key insight is that a model's miscalibration on a specific
+    prompt is not random but is a systematic function of the prompt's surface form
+    and the model's training distribution, meaning that a small held-out calibration
+    set can reliably estimate the correction factor needed to remove the systematic
+    bias and produce calibrated probability estimates.
+- type: warning
+  title: Common pitfall regarding Prompt Calibration Techniques
+  body: Prompt calibration techniques that rely on the model's self-assessed confidence
+    (verbal calibration) can themselves be subject to overconfidence and underconfidence
+    biases — the model's language about its own uncertainty is not a direct readout
+    of its internal probability distribution but is a learned linguistic behaviour
+    that may diverge substantially from the calibration implied by the raw output
+    probabilities, and the two should be measured independently rather than assumed
+    to agree.

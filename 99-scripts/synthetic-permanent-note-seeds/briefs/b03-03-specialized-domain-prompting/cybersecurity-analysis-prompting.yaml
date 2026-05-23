@@ -1,0 +1,64 @@
+concept: Cybersecurity Analysis Prompting
+domain: prompt-engineering
+secondary_domains:
+- large-language-models
+- cybersecurity
+- vulnerability-analysis
+- prompt-engineering
+aliases:
+- security analysis prompting
+- penetration test planning prompts
+- threat modelling LLM prompts
+broader:
+- specialized-domain-prompting
+- security-ai
+- prompt-engineering
+related:
+- code-review-prompting
+- ethical-reasoning-prompting
+- data-analysis-prompting
+- logical-entailment-verification
+prerequisites:
+- cybersecurity
+- threat-modelling
+- prompt-engineering
+- large-language-models
+confidence: high
+callouts:
+- type: definition
+  title: Cybersecurity Analysis Prompting
+  body: Cybersecurity Analysis Prompting refers to the prompting strategies used to
+    direct large language models to perform security-focused analysis — including
+    threat modelling, attack surface analysis, vulnerability identification, security
+    architecture review, incident analysis, security policy evaluation, and defensive
+    control recommendation — within appropriate ethical and legal bounds. Cybersecurity
+    analysis prompting leverages LLMs' broad knowledge of attack patterns, defensive
+    frameworks (MITRE ATT&CK, STRIDE, OWASP), and security best practices, while explicitly
+    constraining outputs to defensive contexts that do not provide operational attack
+    capability. Effective cybersecurity prompting specifies the analysis scope (specific
+    system, infrastructure, code), the threat model (relevant adversary types and
+    capabilities), the defensive objective, and the output format required.
+- type: key-claim
+  title: Key claim about Cybersecurity Analysis Prompting
+  body: Cybersecurity Analysis Prompting using structured threat modelling frameworks
+    (STRIDE, PASTA, LINDDUN) as prompt scaffolding produces substantially more comprehensive
+    threat coverage than unstructured security analysis prompts — providing the model
+    with a systematic threat category enumeration forces it to reason across the full
+    threat model rather than focusing on the most salient attack vectors the model
+    has encountered most frequently in training data, reducing the availability bias
+    effect that causes unstructured security prompting to over-represent common attack
+    vectors and under-represent novel or domain-specific threats; structured framework
+    prompting also produces outputs in formats compatible with standard security documentation
+    workflows.
+- type: warning
+  title: Common pitfall regarding Cybersecurity Analysis Prompting
+  body: Cybersecurity Analysis Prompting must maintain strict offensive/defensive
+    framing boundaries — LLMs trained on security literature contain knowledge of
+    attack techniques that can be elicited by prompts that progressively erode defensive
+    framing constraints; cybersecurity prompting deployments must implement robust
+    output filtering and access controls that prevent prompt injection and jailbreak
+    attempts from eliciting operational attack guidance; additionally, LLM-generated
+    vulnerability reports require expert security review before remediation action
+    because LLMs produce both false positives (flagging non-exploitable patterns as
+    vulnerabilities) and false negatives (missing exploitable vulnerabilities requiring
+    contextual reasoning beyond pattern matching).

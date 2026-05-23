@@ -18,7 +18,7 @@ subdomains:
   - intelligence-research
 
 created: 2026-04-24
-updated: '2026-05-02'
+updated: '2026-05-22'
 source-type: report-extraction
 source-reports:
   - working-memory-capacity-synthetic-seed-2026-04-24
@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-22'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-22) -->
+
+> [!abstract] **Diagram 1 — Working Memory Components**
+> *Identify the key components involved in WMC.*
+>
+> ```mermaid
+> graph TD
+>   A[Prefrontal Cortex]
+>   B[Parietal Lobes]
+>   C[Basal Ganglia]
+>   A -->|Maintain & Manipulate Information|
+>   B -->|Encode & Update|
+>   C -->|Support Memory Tasks|
+> ```
+
+
+> [!abstract] **Diagram 2 — WMC Task Flow**
+> *Follow the sequence of operations in a WMC task.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant OperationSpanTask as O
+>   participant WorkingMemory as WM
+>   U->>O: Start Task
+>   O->>WM: Present Numbers & Operations
+>   WM->>U: Remember Sequence
+>   U->>WM: Perform Arithmetic
+>   WM->>U: Recall and Answer
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare intrinsic and extraneous cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Difficulty]
+>   B[Instructional Design]
+>   C[Learning Efficiency]
+>   A -->|Intrinsic Load|
+>   B -->|Extraneous Load|
+>   A --> C
+>   B --> C
+> ```
 
 # Working Memory Capacity
 
