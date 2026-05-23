@@ -70,8 +70,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Performance vs Learning Goals Overview**
+> *Compare the focus of performance and learning goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Outcome-focused]
+>   B(Process-focused)
+>   C[Specific results]
+>   D[Mastery strategies]
+>   E[Short-term improvement]
+>   F[Long-term skill development]
+>   G[Achieve benchmarks]
+>   H[Engage deeply with material]
+>   I[Boost immediate results]
+>   J[Enhance overall performance over time]
+>   A -->|Performance Goal| C
+>   A -->|Learning Goal| D
+>   B -->|Performance Goal| E
+>   B -->|Learning Goal| F
+>   G -->|Performance Goal| I
+>   H -->|Learning Goal| J
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Performance vs Learning Goals**
+> *Understand the cognitive load involved in each goal type.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Performance Goal]
+>   D[Learning Goal]
+>   E[Reduce extraneous load]
+>   F[Increase intrinsic load]
+>   G[Concrete targets]
+>   H[Deeper engagement with material]
+>   A -->|Intrinsic Load| C
+>   B -->|Extraneous Load| C
+>   C -->|E| G
+>   D -->|F| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Goal Types**
+> *See how performance and learning goals apply in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Business Management]
+>   C[Performance Goal]
+>   D[Learning Goal]
+>   E[Quick boosts in grades]
+>   F[Better retention of knowledge]
+>   G[Short-term revenue boost]
+>   H[Sustained business growth]
+>   A -->|C| E
+>   A -->|D| F
+>   B -->|C| G
+>   B -->|D| H
+> ```
 
 # Performance Goal vs. Learning Goal
 

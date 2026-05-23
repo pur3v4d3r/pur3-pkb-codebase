@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Para Method Buckets Overview**
+> *Identify the four main buckets and their purposes.*
+>
+> ```mermaid
+> graph TD
+>   A[Projects]
+>   B[Areas]
+>   C/Resources --> D/Archives
+> ```
+
+
+> [!abstract] **Diagram 2 — Information Flow in Para Method**
+> *Follow the flow of information from active to inactive states.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Projects] --> B[Areas]
+>   B --> C/Resources
+>   C --> D/Archives
+> ```
+
+
+> [!abstract] **Diagram 3 — Actionability and Time-Horizon Focus**
+> *Notice how actionability and time-horizon influence bucket placement.*
+>
+> ```mermaid
+> graph TD
+>   A[Short-term Actionable] --> B/Projects
+>   C[Long-term Sustained] --> D/Areas
+>   E[Ongoing Interest] --> F/Resources
+>   G[Inactive Items] --> H/Archives
+> ```
 
 # Para Method
 

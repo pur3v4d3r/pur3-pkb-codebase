@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Whole-task vs Atomistic Instruction**
+> *Compare the flow of learning between whole-task and atomistic approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Whole-Task Approach]
+>   B --> C[Integrated Understanding]
+>   B --> D[Transfer to Novel Tasks]
+>   A --> E[Atomistic Approach]
+>   E --> F[Discrete Skill Acquisition]
+>   F --> G[Limited Transfer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Integration-Transfer Advantage**
+> *Follow the steps from initial support to independent problem-solving.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Support]
+>   A --> B[Cognitive Scaffolding]
+>   B --> C[Faded Worked Examples]
+>   C --> D[Independent Problem-Solving]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify the different contexts where whole-task approaches are beneficial.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Problem-Based Learning]
+>   C[Workplace Training]
+>   A -->|Whole-Task Approach| D[Integrated Tasks]
+>   B -->|Real-World Problems| E[Integration of Skills]
+>   C -->|Complete Tasks| F[Effective Application]
+> ```
 
 # Integration-Transfer Advantage
 

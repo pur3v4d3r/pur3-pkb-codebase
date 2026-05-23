@@ -71,8 +71,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Formative vs Summative Assessments**
+> *Compare the roles of formative and summative assessments in educational settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Formative Assessment]
+>   B[Summative Assessment]
+>   A -->|Informs ongoing instruction| C[Feedback for improvement]
+>   B -->|Final evaluation| D[Mastery assessment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Assessment Mechanisms Flowchart**
+> *Follow the flow of mechanisms involved in educational assessments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Retrieval Practice] --> C[Test Effect]
+>   D[Feedback Loop] --> E[Enhanced Retention]
+>   F[Spaced Retrieval] --> G[Distributed Learning]
+>   H[End]
+> ```
+
+
+> [!abstract] **Diagram 3 — Assessment Types and Outcomes**
+> *Identify how different types of assessments impact learning outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Quizzes] --> B[Immediate Feedback]
+>   C[Presentation] --> D[Skill Evaluation]
+>   E[Portfolios] --> F[Comprehensive Review]
+> ```
 
 # Educational Assessment
 

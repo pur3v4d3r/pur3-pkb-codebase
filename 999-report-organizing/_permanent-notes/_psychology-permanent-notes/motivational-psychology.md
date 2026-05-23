@@ -69,8 +69,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Motivational Layers Overview**
+> *Follow the flow from needs to observable behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Needs] --> B[Goals]
+>   B --> C[Expectancies]
+>   C --> D[Attributions]
+>   D --> E[Behavior]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivational Mechanism Flowchart**
+> *Trace the steps from expectations to behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Form Expectations] --> B[Influence Motivation]
+>   B --> C[Set Goals]
+>   C --> D[Persist Despite Obstacles]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural Influence on Motivation**
+> *Compare individualistic and collectivist motivations.*
+>
+> ```mermaid
+> graph TD
+>   A[Individualistic] --> B[Personal Goals]
+>   C[Collectivist] --> D[Communal Goals]
+>   subgraph Individualistic
+>     A
+>     B
+>   end
+>   subgraph Collectivist
+>     C
+>     D
+>   end
+> ```
 
 # Motivational Psychology
 

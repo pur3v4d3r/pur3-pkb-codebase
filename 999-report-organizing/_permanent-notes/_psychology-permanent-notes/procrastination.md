@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Procrastination Process Flow**
+> *Follow the flow from task aversion to increased stress.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Aversion] --> B[Avoidance]
+>   B --> C[Increased Stress]
+>   C --> D[Anxiety]
+>   D --> E[Procrastination Reinforcement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Motivation Theory Overview**
+> *Trace the influence of immediate rewards on long-term goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Immediate Rewards] --> B[Short-Term Pleasure]
+>   B --> C[Long-Term Goals Override]
+>   C --> D[Procrastination]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking processes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reflective
+>   participant Reactive
+>   Reflective->>Reactive: Long-term planning
+>   Reactive-->>Reflective: Immediate response
+>   Reflective-->>Reactive: Future consequences consideration
+> ```
 
 # Procrastination
 

@@ -64,8 +64,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sound Argument Structure**
+> *Follow the flow from premises to conclusion, noting both validity and truth.*
+>
+> ```mermaid
+> graph TD
+>   A[Premises]
+>   B[Validity]
+>   C[Truth]
+>   D[Conclusion]
+>   A -->|Logical Form| B
+>   A -->|Factual Accuracy| C
+>   B & C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Validity vs Soundness**
+> *Compare the paths to conclusion for valid and sound arguments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Valid Argument]
+>   B[Sound Argument]
+>   C[Conclusion]
+>   D[True Premises]
+>   A -->|Logical Structure Only| C
+>   B -->|Logical Structure & True Premises| C
+>   B --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Trace the paths of reflective and reactive thinking in argument verification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premise]
+>   B[Reflective Analysis]
+>   C[Evaluation]
+>   D[Conclusion]
+>   E[Reactive Response]
+>   F[Intuition]
+>   G[Habit]
+>   A -->|Reflective Thinking| B
+>   B -->|Critical Assessment| C
+>   C --> D
+>   A -->|Reactive Thinking| E
+>   E -->|Immediate Reaction| F
+>   F -->|Based on Habit| G
+> ```
 
 # Sound Argument
 

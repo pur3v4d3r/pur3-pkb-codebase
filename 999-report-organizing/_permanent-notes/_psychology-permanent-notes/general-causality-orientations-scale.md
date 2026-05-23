@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GCOS Motivational Orientations**
+> *Identify the three motivational orientations measured by GCOS.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B(Control)
+>   C(Impersonal)
+> ```
+
+
+> [!abstract] **Diagram 2 — GCOS Influence on Behavior and Well-being**
+> *Understand how GCOS orientations influence behavior and well-being.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Autonomy] --> B[Mental Health]
+>   A --> C[Achievement]
+>   D(Control) --> E[Satisfaction]
+>   F(Impersonal) --> G[Disengagement]
+> ```
+
+
+> [!abstract] **Diagram 3 — GCOS Contextual Flexibility**
+> *See how situational factors can shift GCOS orientations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Autonomy
+>   participant B as Control
+>   participant C as Environment
+>   A->>C: Moderate autonomy in supportive environment
+>   C-->>A: Enhanced internalization
+>   B->>C: Controlled regulation in contingent environment
+>   C-->>B: Reduced control
+> ```
 
 # General Causality Orientations Scale
 

@@ -65,8 +65,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PARA Organizational Scheme**
+> *Follow the flow from Projects to Archive.*
+>
+> ```mermaid
+> graph TD
+>   A[Projects] --> B(Areas)
+>   B --> C(Resources)
+>   C --> D(Archive)
+> ```
+
+
+> [!abstract] **Diagram 2 — CODE Workflow Process**
+> *Trace the steps from Capture to Express.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture] --> B(Organize)
+>   B --> C(Distill)
+>   C --> D(Express)
+> ```
+
+
+> [!abstract] **Diagram 3 — PARA and CODE Interaction**
+> *See how PARA categories support each stage of the CODE workflow.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Capture as C
+>   participant Organize as O
+>   participant Distill as D
+>   participant Express as E
+>   participant Projects as P
+>   participant Areas as A
+>   participant Resources as R
+>   participant Archive as Ar
+>   C->>P: Collect info
+>   C-->>O: Pass to Organize
+>   O->>A: Sort by Area
+>   O->>R: Store in Resource
+>   O->>Ar: Archive old data
+>   D->>D: Synthesize insights
+>   E->>E: Communicate outputs
+> ```
 
 # Building a Second Brain
 

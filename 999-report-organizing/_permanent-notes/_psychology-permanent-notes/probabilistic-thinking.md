@@ -65,8 +65,32 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Probabilistic Thinking Process Flow**
+> *Follow the steps from initial probability to posterior update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Probability] --> B(New Evidence)
+>   B --> C[Apply Bayes' Rule]
+>   C --> D(Posterior Probability)
+> ```
+
+
+> [!abstract] **Diagram 2 — Probabilistic Thinking Applications**
+> *Identify the fields where probabilistic thinking is applied.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 # Probabilistic Thinking
 

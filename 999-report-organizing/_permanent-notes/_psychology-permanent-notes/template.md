@@ -67,8 +67,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Template Construction Process**
+> *Follow the flow from chunking to template integration.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice Processing]
+>   B[Chunk Formation]
+>   C[Integration of Chunks]
+>   D[Template Creation]
+>   A -->|Experience| B
+>   B -->|Structured Practice| C
+>   C -->|Qualitative Shift| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Expert Performance Mechanism**
+> *Trace the path from recognition to efficient processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognition of Patterns]
+>   B[Integrated Chunks]
+>   C[Efficient Processing]
+>   D[Context-Specific Values]
+>   A -->|Integrated Knowledge| B
+>   B -->|Efficiency| C
+>   C -->|Variable Slots| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Template Application in Instructional Design**
+> *Identify the steps from initial learning to template formation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Instructor as I
+>   participant Exercise as E
+>   S->>I: Identifies Weaknesses
+>   I->>S: Provides Exercises
+>   S->>E: Practices Sight-Reading
+>   E-->>S: Immediate Feedback
+>   S->>I: Builds Templates
+> ```
 
 # Template
 

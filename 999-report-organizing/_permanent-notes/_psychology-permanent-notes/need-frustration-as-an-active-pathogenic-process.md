@@ -70,8 +70,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Need Frustration Mechanisms**
+> *Follow the arrows to see how need frustration leads to specific dysfunctions.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   D[Autonomy Frustration --> Oppositional Defiance, Rigid Compliance, Withdrawal]
+>   E[Competence Frustration --> Helplessness, Avoidance of Challenge, Performance Anxiety]
+>   F[Relatedness Frustration --> Social Withdrawal, Loneliness, Attachment Insecurity]
+> ```
+
+
+> [!abstract] **Diagram 2 — Chronic Need Frustration Outcomes**
+> *Trace the path from need frustration to potential long-term psychological issues.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Autonomy Frustration]
+>   B[Competence Frustration]
+>   C[Relatedness Frustration]
+>   D[Autonomy Frustration --> Oppositional Defiance, Rigid Compliance, Withdrawal]
+>   E[Competence Frustration --> Helplessness, Avoidance of Challenge, Performance Anxiety]
+>   F[Relatedness Frustration --> Social Withdrawal, Loneliness, Attachment Insecurity]
+>   G[D --> Depression, Anxiety]
+>   H[E --> Depression, Anxiety]
+>   I[F --> Depression, Anxiety]
+> ```
+
+
+> [!abstract] **Diagram 3 — Therapeutic Interventions Approach**
+> *Identify how therapeutic interventions address each need frustration.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Autonomy Frustration
+>   participant B as Competence Frustration
+>   participant C as Relatedness Frustration
+>   participant D as Therapist
+>   A->>D: Empower clients to make choices
+>   B->>D: Set realistic goals and provide feedback
+>   C->>D: Foster supportive relationships
+> ```
 
 # Need Frustration as an Active Pathogenic Process
 

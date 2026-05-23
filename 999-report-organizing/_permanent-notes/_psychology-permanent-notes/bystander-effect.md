@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bystander Effect Mechanism**
+> *Follow the sequence of psychological processes leading to inaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Notice Emergency]
+>   B[Audience Inhibition]
+>   C[Pluralistic Ignorance]
+>   D[Diffusion of Responsibility]
+>   E[Inaction]
+>   A -->|Assume Others Noticing| B
+>   B -->|Believe Someone Else Will Act| C
+>   C -->|Feel No Personal Responsibility| D
+>   D -->|No One Takes Action| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Cultural Variations Impact**
+> *Compare diffusion of responsibility across collectivist and individualistic cultures.*
+>
+> ```mermaid
+> graph TD
+>   A[Collectivist Culture]
+>   B[Individualist Culture]
+>   C[Weaker Diffusion Effect]
+>   D[Stronger Diffusion Effect]
+>   E[Greater Obligation to Act]
+>   F[Less Compelled to Act]
+>   G[Reduced Inaction]
+>   H[Increased Inaction]
+>   A -->|Cohesion Prioritized| C
+>   B -->|Individualism Dominant| D
+>   C -->|E| G
+>   D -->|F| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Historical Context Timeline**
+> *Trace the evolution of understanding from Kitty Genovese case to modern research.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant OriginalReport as OR
+>   participant LataneDarleyResearch as LDR
+>   participant ModernScholars as MS
+>   OR->>LDR: Exaggerated Witness Accounts
+>   LDR-->>MS: Experimental Design Based on Misrepresentation
+>   MS->>MS: Re-examining Historical Accuracy
+> ```
 
 # Bystander Effect
 

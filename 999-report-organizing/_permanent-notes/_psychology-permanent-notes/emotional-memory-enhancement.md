@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Emotional Memory Enhancement Process Flow**
+> *Follow the flow from amygdala activation to memory consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High Emotional Event] --> B[Amygdala Activation]
+>   B --> C[Norepinephrine/Cortisol Release]
+>   C --> D[Hippocampus Synaptic Plasticity Increase]
+>   D --> E[Vivid Memory Consolidation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Emotional vs Neutral Event Encoding**
+> *Compare the encoding process for emotional and neutral events.*
+>
+> ```mermaid
+> graph TD
+>   A[Neutral Event] --> B[Hippocampus]
+>   C[High Emotional Event] --> D[Amygdala Activation]
+>   D --> E[Norepinephrine/Cortisol Release]
+>   E --> F[Hippocampus Synaptic Plasticity Increase]
+>   B --> G[Weak Memory Trace]
+>   F --> H[Vivid Memory Trace]
+> ```
+
+
+> [!abstract] **Diagram 3 — Weapon Focus Effect in Eyewitness Testimony**
+> *Trace the impact of emotional focus on memory accuracy and distortion.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Witness
+>   participant Weapon
+>   participant CentralDetail
+>   participant PeripheralDetail
+>   Witness->>Weapon: Focused Attention
+>   Weapon-->>Witness: Emotional Activation
+>   Witness->>CentralDetail: Vivid Memory Encoding
+>   Witness->>PeripheralDetail: Reduced Detail Encoding
+> ```
 
 # Emotional Memory Enhancement
 

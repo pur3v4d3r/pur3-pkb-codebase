@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prospective Memory Process Flow**
+> *Follow the sequence from encoding to retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encode Intent] --> B[Store in LTM]
+>   B --> C[Monitor Context]
+>   C --> D[Retrieve and Act]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prospective Memory Components**
+> *Identify the interplay between episodic memory and executive function.*
+>
+> ```mermaid
+> graph TD
+>   A[Episodic Memory] --> B[Intention Storage]
+>   C[Executive Function] --> D[Context Monitoring]
+>   B --> E[Retrieval Cue]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Prospective Memory Applications**
+> *See how different fields utilize prospective memory principles.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant TaskManagement as TM
+>   participant ClinicalInterventions as CI
+>   participant MOOCs as M
+>   ID->>TM: Prompt timely recall
+>   TM-->>CI: Support executive monitoring
+>   CI->>M: Enhance spaced retrieval
+> ```
 
 # Prospective Memory
 

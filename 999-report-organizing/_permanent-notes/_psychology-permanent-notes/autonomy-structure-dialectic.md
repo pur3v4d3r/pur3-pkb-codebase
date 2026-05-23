@@ -69,8 +69,50 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Autonomy vs Structure Balance**
+> *Follow the arrows to see how balance shifts with development.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Development] --> B[High Structure]
+>   B --> C[Middle Development]
+>   C --> D[Balance]
+>   D --> E[Late Development]
+>   E --> F[High Autonomy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolding Process Flow**
+> *Trace the stages to understand how scaffolding supports autonomy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Support] --> B[Structured Guidance]
+>   B --> C[Frequent Feedback]
+>   C --> D[Reduced Structure]
+>   D --> E[Independent Learning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Mechanism**
+> *See how external structure reduces cognitive load initially.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> ExtraneousLoad
+>   ExtraneousLoad --> ReducedLoad: Provide Structure
+>   ReducedLoad --> InternalizeRegulation: Develop Schema
+>   InternalizeRegulation --> OptimalAutonomy
+> ```
 
 # Autonomy-Structure Dialectic
 

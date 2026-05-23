@@ -70,8 +70,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — IIT Core Mechanism Overview**
+> *Follow the flow from system state to integrated information generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial State] --> B[System Analysis]
+>   B --> C[Integrated Information Phi]
+>   C --> D[Conscious Experience]
+> ```
+
+
+> [!abstract] **Diagram 2 — IIT Theoretical Roots and Principles**
+> *Identify the key principles that define consciousness in IIT.*
+>
+> ```mermaid
+> graph TD
+>   A[Composition] --> B[Integration]
+>   C[Exclusion] --> D[Information Irreducibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — IIT Application Fields**
+> *See how IIT is applied across different domains.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant AI as A
+>   participant Neuroscience as N
+>   participant InstructionalDesign as ID
+>   A->>N: Challenges traditional views on consciousness
+>   N-->>A: Identifies neural correlates of consciousness
+>   ID->>N: Emphasizes network integration in learning
+> ```
 
 # Integrated Information Theory
 

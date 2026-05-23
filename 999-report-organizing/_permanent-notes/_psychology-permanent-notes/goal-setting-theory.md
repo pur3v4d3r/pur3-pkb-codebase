@@ -71,8 +71,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Goal Setting Process Flow**
+> *Follow the stages from setting goals to achieving them.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Specific Goals] --> B[Focus Attention]
+>   B --> C[Increase Effort]
+>   C --> D[Persist Longer]
+>   D --> E[Improve Strategies]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Setting Theory Mechanism**
+> *Identify the key components that enhance performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Attentional Focus] --> B[Increased Effort]
+>   B --> C[Persistence]
+>   C --> D[Improved Strategies]
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Setting Theory Applications**
+> *See the different contexts where goal setting can be applied.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Business Management]
+>   B --> C[Personal Development]
+> ```
 
 # Goal Setting Theory
 

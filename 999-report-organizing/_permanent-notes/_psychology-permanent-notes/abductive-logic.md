@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
+> *Follow the flow from observations to best explanation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observations] --> B[Hypotheses]
+>   B --> C[Evaluation Criteria]
+>   C --> D[Best Explanation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Abductive Logic Evaluation Criteria**
+> *Identify the criteria used to assess hypotheses.*
+>
+> ```mermaid
+> graph TD
+>   A[Simplicity] --> B[Coherence]
+>   C[Scope] --> D[Fertility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Abductive vs Bayesian Inference**
+> *Compare abductive and Bayesian approaches in AI.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Abductive Logic
+>   participant B as Bayesian Methods
+>   A->>B: Prioritizes explanatory coherence
+>   B->>A: Emphasizes statistical likelihood
+> ```
 
 # Abductive Logic
 

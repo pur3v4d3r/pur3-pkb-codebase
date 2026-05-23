@@ -68,8 +68,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Straw Man Fallacy Process Flow**
+> *Follow the stages from identifying to refuting an opponent's argument.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Key Points] --> B[Emphasize/Exaggerate]
+>   B --> C[Weaken Argument]
+>   C --> D[Presents Weakened Version]
+>   D --> E[Refutes Weakened Version]
+> ```
+
+
+> [!abstract] **Diagram 2 — Straw Man Fallacy vs. Other Logical Fallacies**
+> *Compare the Straw Man Fallacy with other common logical fallacies.*
+>
+> ```mermaid
+> graph TD
+>   A[Ad Hominem] -->|Misrepresents Person, Not Argument| F(Straw Man)
+>   B[False Dichotomy] -->|Presents False Choice| F
+>   C[Fallacy of Division] -->|Assumes Parts Have Same Properties as Whole| F
+>   D[Fallacy of Composition] -->|Assumes Whole Has Same Properties as Parts| F
+> ```
 
 # Straw Man Fallacy
 

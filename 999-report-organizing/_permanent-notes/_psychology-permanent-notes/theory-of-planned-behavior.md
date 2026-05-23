@@ -66,8 +66,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — TPB Structural Overview**
+> *Follow the flow from attitudes to behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Attitudes]
+>   B[Subjective Norms]
+>   C[Perceived Behavioral Control]
+>   D[Intention]
+>   E[Behavior]
+>   A -->|influence| D
+>   B -->|influence| D
+>   C -->|influence| D
+>   D -->|predicts| E
+> ```
+
+
+> [!abstract] **Diagram 2 — TPB Mechanism Flowchart**
+> *Trace the steps from attitudes to behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attitudes] --> B[Initial Evaluation]
+>   B --> C[Subjective Norms]
+>   C --> D[Social Influence]
+>   D --> E[Perceived Behavioral Control]
+>   E --> F[Feasibility Assessment]
+>   F --> G[Intention Formation]
+>   G --> H[Predicted Behavior]
+> ```
+
+
+> [!abstract] **Diagram 3 — TPB vs Theory of Reasoned Action**
+> *Compare TPB with its predecessor.*
+>
+> ```mermaid
+> graph TD
+>   A[Theory of Reasoned Action]
+>   B[Attitudes]
+>   C[Subjective Norms]
+>   D[Intention]
+>   E[Behavior]
+>   F[Perceived Behavioral Control]
+>   G[Intention]
+>   H[Behavior]
+>   A -->|includes| B
+>   A -->|includes| C
+>   B -->|influence| D
+>   C -->|influence| D
+>   D -->|predicts| E
+>   A --> F
+>   B -->|influence| G
+>   C -->|influence| G
+>   F -->|influence| G
+>   G -->|predicts| H
+> ```
 
 # Theory of Planned Behavior
 

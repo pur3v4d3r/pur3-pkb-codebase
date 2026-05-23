@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CBL Process Flow**
+> *Follow the sequence from case presentation to schema construction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Case Presentation] --> B[Discussion]
+>   B --> C[Scaffolded Analysis]
+>   C --> D[Schema Construction]
+> ```
+
+
+> [!abstract] **Diagram 2 — CBL Schema Abstraction**
+> *Identify how commonalities across cases lead to abstract schemas.*
+>
+> ```mermaid
+> graph TD
+>   A[Case1] --> B[Commonality]
+>   C[Case2] --> B
+>   D[Case3] --> B
+>   B --> E[Schemas]
+> ```
+
+
+> [!abstract] **Diagram 3 — CBL Cognitive Scaffolding**
+> *Notice the structured facilitation techniques used in discussions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant L as Learning
+>   participant F as Facilitator
+>   L->>F: Identifies Surface Features
+>   F-->>L: Guided Questioning
+>   L->>F: Abstracts Commonalities
+> ```
 
 # Case-Based Learning
 

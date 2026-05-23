@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adversarial Prompt Types Overview**
+> *Identify the different types of adversarial prompts and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Jailbreaks]
+>   A --> C[Prompt-Injection]
+>   A --> D[Semantic Adversaries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking in AI Systems**
+> *Compare the response mechanisms of reflective and reactive systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Reflective System]
+>   C[Reactive System]
+>   A -->|Analyze Input| B
+>   A -->|Immediate Response| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Adversarial Prompt Robustness Strategies**
+> *Understand the multi-faceted approach to enhancing robustness.*
+>
+> ```mermaid
+> graph TD
+>   A[Detection]
+>   B[Input Filtering]
+>   C[Output Monitoring]
+>   D[System Architecture]
+>   E[Social Norms]
+>   F[Legal Frameworks]
+>   A -->|Detect Malicious Inputs| B
+>   A -->|Filter Unsafe Prompts| C
+>   A -->|Monitor Outputs for Safety| D
+>   A -->|Separate User and System Contexts| E
+>   A -->|Govern Usage with Norms| F
+> ```
 
 ## Core Explanation
 

@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Relational Complexity Overview**
+> *Identify the types of relational complexity and their increasing difficulty.*
+>
+> ```mermaid
+> graph TD
+>   A[Binary]
+>   B[Ternary] --> A
+>   C[Quaternary] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory Load**
+> *Observe how working memory capacity is affected by increasing relational complexity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Low Complexity]
+>   B[Medium Complexity] -->|Increased Demand| A
+>   C[High Complexity] -->|Cognitive Overload| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic Load Focus**
+> *Understand the distinction between intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> classDiagram
+>   class Intrinsic{
+>     +RelationalComplexity()
+>   }
+>   class Extraneous{
+>     -PresentationStyle()
+>   }
+>   Intrinsic --> RelationalComplexity
+>   Extraneous --> PresentationStyle
+> ```
 
 # Relational Complexity
 

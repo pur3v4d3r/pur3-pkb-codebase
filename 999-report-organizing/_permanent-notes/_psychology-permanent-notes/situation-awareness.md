@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Situation Awareness Levels**
+> *Follow the flow from perception to projection.*
+>
+> ```mermaid
+> graph TD
+>   A[Perception]
+>   B[Comprehension]
+>   C[Projection]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — SA in Aviation Workflow**
+> *Trace the process from environmental assessment to decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceive Aircraft Position]
+>   B[Interpret Instrument Readings]
+>   C[Predict Future Flight Paths]
+>   D[Make Decisions]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — SA Mechanism Flow**
+> *Observe the interdependence between perception, comprehension, and projection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception]
+>   B[Comprehension]
+>   C[Projection]
+>   A -->|Inform| B
+>   B -->|Inform| C
+>   C -->|Feedback| A
+> ```
 
 # Situation Awareness
 

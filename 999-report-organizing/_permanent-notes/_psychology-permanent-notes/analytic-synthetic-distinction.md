@@ -64,8 +64,33 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Analytic vs Synthetic Statements**
+> *Identify the truth determination method for each type of statement.*
+>
+> ```mermaid
+> graph TD
+>   A[Analytic]
+>   B[Synthetic]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Processing Systems**
+> *Understand the cognitive processes involved in validating analytic and synthetic statements.*
+>
+> ```mermaid
+> graph TD
+>   A[System1]
+>   B[System2]
+> ```
 
 # Analytic Synthetic Distinction
 

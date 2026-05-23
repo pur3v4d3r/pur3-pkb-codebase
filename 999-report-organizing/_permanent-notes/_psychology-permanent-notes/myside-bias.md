@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Myside Bias Process Flow**
+> *Follow the stages from data collection to conclusion evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B[Evaluation]
+>   B --> C[Intepretation]
+>   C --> D[Memory]
+>   D --> E[Conclusion Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Myside Bias vs Belief Bias Comparison**
+> *Compare the scope of Myside and belief biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Myside Bias] --> B[Broader Range]
+>   C[Belief Bias] --> D[Narrower Scope]
+>   B --> E[Evaluation & Interpretation]
+>   D --> F[Confirmation Over Logic]
+> ```
+
+
+> [!abstract] **Diagram 3 — Myside Bias Theoretical Roots**
+> *Trace the cognitive theories underlying Myside Bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Cognitive Dissonance] --> B[Motivated Reasoning]
+>   B --> C[Consistency Need]
+>   C --> D[Myside Bias]
+> ```
 
 # Myside Bias
 

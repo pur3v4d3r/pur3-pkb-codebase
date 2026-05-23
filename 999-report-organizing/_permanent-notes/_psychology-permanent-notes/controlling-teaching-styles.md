@@ -67,8 +67,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Controlling Teaching Styles Mechanism**
+> *Follow the flow from external control to reduced intrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Control] --> B[Evaluative Comparisons]
+>   A --> C[Conditional Rewards]
+>   B --> D[Feelings of Inadequacy]
+>   C --> E[Undermined Motivation]
+>   D --> F[Reduced Engagement]
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Student Well-being**
+> *Trace the long-term effects of controlling teaching styles.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Controlling Teaching] --> B[Diminished Self-Efficacy]
+>   A --> C[Increased Anxiety]
+>   A --> D[Reduced Interest]
+>   B --> E[Poor Academic Trajectory]
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Teaching Style Comparison**
+> *Compare controlling styles with autonomy-supportive approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Controlling Teaching]
+>   B(Autonomy-Supportive)
+>   C[Evaluative Comparisons]
+>   D[Conditional Rewards]
+>   E[Constructive Feedback]
+>   F[Rigid Lesson Plans]
+>   G[Flexible Designs]
+>   H[Strict Rules]
+>   I[Supportive Environment]
+>   J[Pressuring Language]
+>   K[Non-Evaluative Feedback]
+>   A -->|Evaluative Comparisons| C
+>   A -->|Conditional Rewards| D
+>   A -->|Pressuring Language| J
+>   B -->|Constructive Feedback| E
+>   B -->|Flexible Designs| G
+>   B -->|Supportive Environment| I
+>   B -->|Non-Evaluative Feedback| K
+> ```
 
 # Controlling Teaching Styles
 

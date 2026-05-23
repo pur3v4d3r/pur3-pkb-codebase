@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Perceived Self-Efficacy Mechanisms**
+> *Identify the key factors that influence self-efficacy beliefs.*
+>
+> ```mermaid
+> graph TD
+>   A["Mastery Experiences"] --> B[Self-Efficacy]
+>   C[Verbal Persuasion] --> B
+>   D[Emotional Arousal] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Self-Efficacy on Behavior**
+> *Understand how self-efficacy affects task engagement and persistence.*
+>
+> ```mermaid
+> flowchart LR
+>   A["High Perceived Self-Efficacy"] --> B[Attempt Challenging Tasks]
+>   B --> C[Persist Through Obstacles]
+>   D["Low Perceived Self-Efficacy"] --> E[Avoid or Give Up Quickly]
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of Self-Efficacy**
+> *Explore various contexts where self-efficacy is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhance Motivation]
+>   C[Workplace Training] --> D[Boost Confidence]
+>   E[Personal Development] --> F[Improve Mental Health]
+>   G[MOOCs] --> H[Foster Mastery]
+> ```
 
 # Perceived Self-Efficacy
 

@@ -71,8 +71,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — FOK Process Flowchart**
+> *Follow the sequence from retrieval failure to FOK assessment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval Failure] --> B[Feeling of Knowing]
+>   B --> C[Predict Future Recognition]
+> ```
+
+
+> [!abstract] **Diagram 2 — FOK vs JOL Comparison**
+> *Compare the timing and nature of FOK and JOL judgments.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-retrieval]
+>   B[Post-retrieval Failure]
+>   C[JOL Assessment]
+>   D[FOK Assessment]
+>   A -->|Predict Recall| C
+>   B -->|Feeling of Knowing| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Monitoring Cycle**
+> *Trace the cycle from retrieval attempt to FOK and back.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Attempt:Retrieval
+>   Attempt -->|Failure| FeelingOfKnowing
+>   FeelingOfKnowing -->|Predict Recognition| Monitor
+>   Monitor -->|Adjust Strategy| Study
+>   Study -->|Improve Recall| Attempt
+> ```
 
 # Feeling of Knowing
 

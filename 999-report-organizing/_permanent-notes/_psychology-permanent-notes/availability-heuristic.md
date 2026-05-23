@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Risk Assessment Bias**
+> *Follow the flow from vivid events to overestimated risks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Profile Events] --> B[Vivid and Recent]
+>   B --> C[Emotionally Charged]
+>   C --> D[Overestimated Risks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Media Influence Loop**
+> *Trace the feedback loop from media coverage to public perception.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Media Coverage] --> B[Dramatic Events]
+>   B --> C[Public Perception]
+>   C --> D[Risk Prioritization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cultural Context Impact**
+> *Compare how collectivist and individualist cultures process events.*
+>
+> ```mermaid
+> graph TD
+>   A[Collectivist Culture] --> B[Shared Experiences]
+>   C[Individualist Culture] --> D[Personal Anecdotes]
+>   B --> E[Cultural Narratives]
+>   D --> E
+> ```
 
 # Availability Heuristic
 

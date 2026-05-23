@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Overjustification Effect Process Flow**
+> *Follow the sequence from intrinsic motivation to extrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic Motivation] --> B[Reward Introduced]
+>   B --> C[Cognitive Reframing]
+>   C --> D[Instrumental Motivation]
+>   D --> E[Motivation Decrease]
+> ```
+
+
+> [!abstract] **Diagram 2 — Overjustification Effect Mechanism Overview**
+> *Trace the path from initial intrinsic motivation to decreased engagement.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation] --> B[Reward]
+>   B --> C[Cognitive Reframing]
+>   C --> D[Instrumental Motivation]
+>   D --> E[Motivation Decrease]
+> ```
+
+
+> [!abstract] **Diagram 3 — Overjustification Effect in Educational Settings**
+> *Identify the stages from initial engagement to decreased motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Engagement] --> B[Reward Introduced]
+>   B --> C[Cognitive Reframing]
+>   C --> D[Motivation Decrease]
+> ```
 
 # Overjustification Effect
 

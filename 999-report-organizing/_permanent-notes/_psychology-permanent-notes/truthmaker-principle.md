@@ -70,8 +70,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Truthmaker Principle Overview**
+> *Identify the relationship between truths and truthmakers.*
+>
+> ```mermaid
+> graph TD
+>   A[True Propositions] --> B[Truthmakers]
+>   D[Maximalist Version] --> E[Necessary Truths]
+>   F[Restricted Version] --> G[Positive Contingent Truths]
+> ```
+
+
+> [!abstract] **Diagram 2 — Truthmaker Principle Mechanism**
+> *Understand the process of identifying truthmakers.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Proposition] --> B[Evidence]
+>   C[Logical Reasoning] --> D[Justification]
+>   E[Empirical Evidence] --> F[Truthmaker]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ontological Commitments**
+> *See how the principle constrains philosophical ontology.*
+>
+> ```mermaid
+> graph TD
+>   A[Abstract Entities] --> B[Necessary Truths]
+>   C[Physical Reality] --> D[Contingent Truths]
+>   E[Maximalist Version] --> F[Justification Required]
+>   G[Restricted Version] --> H[Selective Justification]
+> ```
 
 # Truthmaker Principle
 

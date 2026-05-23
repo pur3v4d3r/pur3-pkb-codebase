@@ -67,8 +67,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Feedback Loops Overview**
+> *Identify positive and negative feedback loops.*
+>
+> ```mermaid
+> graph TD
+>   A[Stock] --> B[Flow]
+>   B --> C[Effect]
+>   C --> D[Change]
+>   D --> E[Positive Feedback Loop]
+>   D --> F[Negative Feedback Loop]
+>   E --> G[Amplification]
+>   F --> H[Dampening]
+> ```
+
+
+> [!abstract] **Diagram 2 — Stocks and Flows Interaction**
+> *Understand how stocks influence flows and vice versa.*
+>
+> ```mermaid
+> graph TD
+>   A[Stock] --> B[Flow]
+>   C[Change in Stock] --> D[New Flow]
+>   E[Feedback Loop] --> F[Dampening/Amplification]
+> ```
+
+
+> [!abstract] **Diagram 3 — Systems Thinking Applications**
+> *See how Systems Thinking is applied across different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[System Components]
+>   C[Environmental Management] --> D[Ecosystem Interactions]
+>   E[Business Strategy] --> F[Market Dynamics]
+> ```
 
 # Systems Thinking
 

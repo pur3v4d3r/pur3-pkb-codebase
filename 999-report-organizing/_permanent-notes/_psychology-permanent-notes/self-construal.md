@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Construal Styles Overview**
+> *Identify the two main self-construal styles and their attributes.*
+>
+> ```mermaid
+> graph TD
+>   A[Independent Self]
+>   B[Interdependent Self]
+>   A -->|Personal Attributes| C[Individual Goals]
+>   B -->|Social Relationships| D[Group Harmony]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Construal Cognitive Processes**
+> *Understand how self-construal influences attribution patterns and emotional appraisals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success/Failure]
+>   C[Situational Factors] -->|Interdependent Self| D[Emotional Appraisal]
+>   F[Group Well-being] -->|Interdependent Self| G[Persuasion Responsiveness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Construal Cultural Context**
+> *See how cultural context influences the development of self-construal styles.*
+>
+> ```mermaid
+> graph TD
+>   B[Collectivistic Cultures] -->|Interdependent Self| C[Western Societies]
+>   D[East Asia]
+> ```
 
 # Self-Construal
 

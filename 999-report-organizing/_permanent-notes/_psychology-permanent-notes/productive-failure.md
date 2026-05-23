@@ -66,8 +66,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Productive Failure Process Flow**
+> *Follow the sequence from initial problem to schema construction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Complex Problem] --> B[Struggle]
+>   B --> C[Construct Understanding]
+>   C --> D[Schema Construction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load in Productive Failure**
+> *Identify the balance between intrinsic and extraneous loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B[Schema Construction]
+>   C[Extraneous Load] --> D[Irrelevant Distractions]
+>   E[Germane Load] --> F[Learning Support]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Learning Methods**
+> *Compare traditional instruction with productive failure approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Instruction] --> B[Passive Absorption]
+>   C[Productive Failure] --> D[Active Problem-Solving]
+> ```
 
 # Productive Failure
 

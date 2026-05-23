@@ -64,8 +64,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Learning Strategies Overview**
+> *Identify the main learning strategies and their applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Practice] --> B[Instructional Design]
+>   C[Spaced Review] --> D[Self-Study Routines]
+>   E[Elaborative Interrogation] --> F[Study Groups]
+>   G[Self-Explanation] --> H[MOCO Spaced Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Learning Strategies**
+> *Understand how each strategy enhances memory and understanding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval Practice] --> B[Strengthen Neural Connections]
+>   C[Spaced Review] --> D[Leverage Spacing Effect]
+>   E[Elaborative Interrogation] --> F[Deep Processing]
+>   G[Self-Explanation] --> H[Better Understanding]
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Strategy Applications**
+> *See how different strategies are applied in various contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Teacher as T
+>   participant Student as S
+>   participant SelfStudy as SS
+>   participant StudyGroup as SG
+>   participant MOOCInstructor as MI
+>   T->>S: Quiz at Start of Class
+>   SS->>SS: Review Notes, Test Recall
+>   SG->>SG: Discuss Why Concepts Are True
+>   MI->>Students: Short Quizzes Throughout Course
+> ```
 
 # Learning Strategies
 

@@ -65,8 +65,76 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logical Fallacies Taxonomy**
+> *Identify the different types of logical fallacies and their categories.*
+>
+> ```mermaid
+> graph TD
+>   A[Formal]
+>   B(Informal)
+>   C[Relevance]
+>   D(Presumption)
+>   E[Validity]
+>   F[Ad Hominem]
+>   G(Appeal to Emotion)
+>   H(False Dichotomy)
+>   I(Begging the Question)
+>   J(Hasty Generalization)
+>   B --> C
+>   B --> D
+>   C --> F
+>   C --> G
+>   D --> H
+>   D --> I
+>   D --> J
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Ad Hominem Fallacy**
+> *Understand how an ad hominem attack diverts from the core issue.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument]
+>   B[Attacker's Claim]
+>   C[Character Attack]
+>   D[Irrelevant Personal Traits]
+>   E[Diversion]
+>   F[Substance of Argument]
+>   A -->|Focus on| B
+>   B -->|Instead of addressing the claim, attacker focuses on| C
+>   C -->|Irrelevant personal traits like| D
+>   D -->|This diverts attention from| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — False Dichotomy Example**
+> *See how a false dichotomy limits the range of options.*
+>
+> ```mermaid
+> graph TD
+>   A[Option A]
+>   B(Option B)
+>   C[Only Two Options]
+>   D[Limited Perspective]
+>   E[Other Possible Solutions]
+>   F[Ignored]
+>   A -->|Or| B
+>   A & B -->|Presented as the only choices| C
+>   C -->|Limits discussion to these two options, ignoring| D
+>   D -->|Other possible solutions are| E
+>   E --> F
+> ```
 
 # Logical Fallacies
 

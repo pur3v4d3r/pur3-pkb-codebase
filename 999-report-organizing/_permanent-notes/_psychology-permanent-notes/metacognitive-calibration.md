@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Calibration Process Flow**
+> *Follow the steps from confidence judgment to feedback loop.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attempt Problem] --> B[Confidence Judgment]
+>   B --> C[Check Answer]
+>   C --> D{Correct?}
+>   D -- Yes --> E[Well-Calibrated]
+>   D -- No --> F[Miscalibrated]
+>   E --> G[Trust Confidence]
+>   F --> H[Adjust Self-Assessment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Calibration Mechanism Overview**
+> *Identify the key practices that improve calibration.*
+>
+> ```mermaid
+> graph TD
+>   A[Accuracy Feedback] --> B{Adjustments}
+>   C[Retrieval Attempts] --> D{Refinement}
+>   E[Trust Confidence]
+>   F[Effective Study Strategies]
+>   G[Improved Long-Term Retention]
+>   B -->|Over Time| E
+>   D -->|Consistency| E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications in Learning Environments**
+> *See how different educational settings use calibration practices.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant System as Sys
+>   S->>E: Make Confidence Judgment
+>   E-->>S: Provide Accuracy Feedback
+>   Sys->>S: Schedule Retrieval Attempts
+>   S->>Sys: Generate Retrieval Attempt
+>   Sys-->>S: Immediate Correctness Feedback
+> ```
 
 # Metacognitive Calibration
 

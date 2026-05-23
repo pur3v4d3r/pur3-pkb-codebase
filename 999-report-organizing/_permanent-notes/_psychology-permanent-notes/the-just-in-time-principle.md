@@ -68,8 +68,66 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Just-in-Time Process Flow**
+> *Follow the flow from task start to completion, noting when information is presented.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Start] --> B[Challenge]
+>   B --> C{Need Information?}
+>   C -- Yes --> D[Procedural Info]
+>   D --> E[Execute Task Step]
+>   E --> F[Next Challenge or End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory Interaction**
+> *Observe how working memory interacts with procedural automation over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Start]
+>   B[Working Memory Load]
+>   C{Procedural Automation?}
+>   D[Reduce Working Memory Load]
+>   E[Execute Task Step]
+>   F[Next Challenge or End]
+>   A -->|Initial Load| B
+>   B --> C
+>   C -- No -->|Present Info| D
+>   D --> E
+>   E --> F
+>   C -- Yes --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — JIT in Instructional Design**
+> *Trace the sequence of interactions between learner and instructional content.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant System as S
+>   L->>S: Start Task
+>   S-->>L: Challenge Presented
+>   L->>S: Request Info
+>   S-->>L: Procedural Guidance
+>   L->>S: Execute Step
+>   loop Repeat for Next Steps
+>     L->>S: Encounter New Challenge
+>     S-->>L: Provide Relevant Info
+>     L->>S: Apply Information
+>   end
+> ```
 
 # Just-in-Time Principle
 

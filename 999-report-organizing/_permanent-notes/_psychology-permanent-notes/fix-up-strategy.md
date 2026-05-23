@@ -70,8 +70,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Fix-Up Strategy Mechanism**
+> *Follow the flow of information processing during reading.*
+>
+> ```mermaid
+> graph TD
+>   A[Unclear Passage]
+>   B[Reread]
+>   C[Look Back]
+>   D[Integrate New Info]
+>   E[Consult External Sources]
+>   F[Self-Questioning]
+>   G[Summarize]
+>   H[Meta-Pause]
+>   B --> D
+>   C --> D
+>   E --> D
+>   F --> D
+>   G --> D
+>   H --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Fix-Up Strategy Applications**
+> *Identify the different contexts where fix-up strategies are applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Reading Interventions]
+>   C[Technology Integration]
+>   D[Reread Challenging Passages]
+>   E[Look Up Unfamiliar Terms]
+>   F[Guide Students Through Strategies]
+>   G[Integrate Interactive Glossaries]
+>   H[Potential Over-Reliance on Tech]
+>   C -->|Facilitate Look-Up and Summarization| D -.-> A
+>   E -.-> A
+>   F -.-> B
+>   G -.-> C
+>   H -.-> C
+> ```
 
 # Fix-Up Strategy
 

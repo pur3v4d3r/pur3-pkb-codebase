@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SAA Response Overview**
+> *Follow the rapid physiological changes triggered by stress.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceived Threat] --> B[Hypothalamus]
+>   B --> C[Adrenal Medulla]
+>   C --> D[Adrenaline/Noradrenaline]
+>   D --> E[Increased Heart Rate/Blood Pressure/Glucose Mobilization]
+> ```
+
+
+> [!abstract] **Diagram 2 — HPA Axis Cascade**
+> *Trace the slower but sustained hormonal response to stress.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hypothalamus] --> B[CRH]
+>   B --> C[Pituitary Gland]
+>   C --> D[ACTH]
+>   D --> E[Adrenal Cortex]
+>   E --> F[Cortisol]
+> ```
+
+
+> [!abstract] **Diagram 3 — Stress Response Stages**
+> *Identify the three stages of Selye's General Adaptation Syndrome.*
+>
+> ```mermaid
+> graph TD
+>   A[Alarm] --> B[Resistance]
+>   B --> C[Exhaustion]
+> ```
 
 # Stress Physiology
 

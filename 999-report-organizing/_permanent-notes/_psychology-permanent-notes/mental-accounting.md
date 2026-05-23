@@ -68,8 +68,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mental Accounting Categories**
+> *Identify the different mental categories and their constraints.*
+>
+> ```mermaid
+> graph TD
+>   A[Income]
+>   B[Expenses]
+>   C[Savings]
+>   D[Debt]
+>   A -->|Categorized as| E[Mental Accounts]
+>   B -->|Categorized as| E
+>   C -->|Categorized as| E
+>   D -->|Categorized as| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Mental Accounting Process Flow**
+> *Follow the flow from income to mental categorization and spending.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Income]
+>   B[Mental Categorization]
+>   C[Budget Constraints]
+>   D[Spending Decisions]
+>   A -->|Categorized as| B
+>   B -->|Imposed by| C
+>   C -->|Influences| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Mental Accounting vs Rational Behavior**
+> *Compare how mental accounts lead to deviations from rational decisions.*
+>
+> ```mermaid
+> graph TD
+>   A[Income]
+>   B[Mental Accounts]
+>   C[Rational Decisions]
+>   D[Irrational Decisions]
+>   A -->|Categorized as| B
+>   A -->|Treated as Fungible| C
+>   B -->|Influences| D
+>   C -->|Guides| RationalBehavior
+> ```
 
 # Mental Accounting
 

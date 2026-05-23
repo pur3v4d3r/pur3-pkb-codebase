@@ -70,8 +70,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mastery vs Performance Goal Orientations**
+> *Compare the focus of mastery and performance goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Improving Self] --> B[Mastery Goals]
+>   C[Outperforming Others] --> D[Performance Goals]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strategies for Mastery vs Performance Goals**
+> *Identify strategies associated with each goal orientation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mastery Goals] --> B[Elaboration]
+>   A --> C[Self-Explanation]
+>   D[Performance Goals] --> E[Surface-Level Tactics]
+>   D --> F[Avoiding Challenges]
+> ```
+
+
+> [!abstract] **Diagram 3 — Implications of Goal Orientations**
+> *Understand the outcomes linked to each goal orientation.*
+>
+> ```mermaid
+> graph TD
+>   A[Mastery Goals] --> B[Deep Learning]
+>   A --> C[Persistence Through Difficulties]
+>   D[Performance Goals] --> E[Surface-Level Learning]
+>   D --> F[Lack of Resilience]
+> ```
 
 # Conceptual Frame of Mastery vs Performance Goals
 

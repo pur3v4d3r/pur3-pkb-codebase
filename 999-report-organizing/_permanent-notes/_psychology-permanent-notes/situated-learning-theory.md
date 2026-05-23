@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Situated Learning Process Flow**
+> *Follow the learner's progression from peripheral to full participation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Peripheral Participation] --> B[Observation]
+>   B --> C[Imitation]
+>   C --> D[Guided Practice]
+>   D --> E[Independent Practice]
+> ```
+
+
+> [!abstract] **Diagram 2 — Community of Practice Hierarchy**
+> *Identify the levels of participation within a community.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice] --> B[Apprentice]
+>   B --> C[Journeyman]
+>   C --> D[Master]
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Contexts in Situated Theory**
+> *Compare different learning contexts and their effectiveness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Decontextualized Learning] -->|Less Effective| B[Contextualized Learning]
+>   B -->|More Effective| C[Authentic Situations]
+> ```
 
 # Situated Learning Theory
 

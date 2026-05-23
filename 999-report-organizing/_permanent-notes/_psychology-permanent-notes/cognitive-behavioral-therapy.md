@@ -65,8 +65,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CBT Thought-Behavior-Emotion Loop**
+> *Follow the arrows to see how thoughts, behaviors, and emotions interact.*
+>
+> ```mermaid
+> graph TD
+>   A[Thoughts] --> B[Behaviors]
+>   B --> C[Emotions]
+>   C --> D[Thoughts]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6cf,stroke:#fff,stroke-width:2px
+>   style C fill:#fc0,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — CBT Therapy Process Flowchart**
+> *Track the steps from initial assessment to homework assignments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Assessment] --> B[Cognitive Restructuring]
+>   B --> C[Behavioral Experiments]
+>   C --> D[Homework Assignments]
+>   D --> E[Review and Adjust]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6cf,stroke:#fff,stroke-width:2px
+>   style C fill:#fc0,stroke:#333,stroke-width:4px
+>   style D fill:#ccf,stroke:#fff,stroke-width:2px
+> ```
+
+
+> [!abstract] **Diagram 3 — CBT vs Psychodynamic Therapy Comparison**
+> *Compare the approaches of CBT and psychodynamic therapy.*
+>
+> ```mermaid
+> classDiagram
+>   class CBT{
+>     +Thought-Behavior-Emotion Loops
+>     +Structured, Goal-Oriented
+>     -Unconscious Exploration
+>   }
+>   class PsychodynamicTherapy{
+>     +Unconscious Thoughts & Emotions
+>     +Free Association and Dream Analysis
+>     -Thought-Behavior-Emotion Loops
+>   }
+>   CBT --> Thought_Behavior_Emotion_Loops
+>   PsychodynamicTherapy --> Unconscious_Thoughts_Emotions
+> ```
 
 # Cognitive Behavioral Therapy
 

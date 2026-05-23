@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Heuristic Types Overview**
+> *Identify the different types of heuristics used under uncertainty.*
+>
+> ```mermaid
+> graph TD
+>   A[Availability]
+>   B[Representativeness]
+>   C[Anchoring]
+>   D[Affect]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Process Flowchart**
+> *Follow the flow from uncertain information to decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Uncertain Information] --> B[Heuristic Selection]
+>   B --> C[Quick Judgment]
+>   C --> D[Biased Decision]
+>   A --> E[Formal Probabilistic Reasoning]
+>   E --> F[Accurate Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Heuristic Mechanism Diagram**
+> *Understand how availability and representativeness heuristics operate.*
+>
+> ```mermaid
+> graph TD
+>   A[Uncertain Information] --> B[Availability]
+>   B --> C[Rapid Recall]
+>   D[Uncertain Information] --> E[Representativeness]
+>   E --> F[Simplified Judgment]
+> ```
 
 # Reasoning Under Uncertainty
 

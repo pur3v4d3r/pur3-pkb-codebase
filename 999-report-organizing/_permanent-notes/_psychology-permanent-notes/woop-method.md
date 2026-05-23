@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — WOOP Method Steps Overview**
+> *Follow the sequence from Wish to Plan.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Wish] --> B[Vivid Outcome]
+>   B --> C[Obstacle]
+>   C --> D[If-Then Plan]
+> ```
+
+
+> [!abstract] **Diagram 2 — WOOP Mechanisms Interaction**
+> *See how mental contrasting and implementation intentions work together.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Wish as W
+>   participant Outcome as O
+>   participant Obstacle as OB
+>   participant Plan as P
+>   W->>O: Visualize Success
+>   OB-->>W: Identify Obstacles
+>   P->>OB: Formulate If-Then Plans
+> ```
+
+
+> [!abstract] **Diagram 3 — WOOP Application Areas**
+> *Explore different contexts where WOOP can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Personal Development)
+>   C[Business Strategy]
+>   A -->|Guides learners| D[Setting Goals]
+>   B -->|Individuals| E[Vivid Success]
+>   C -->|Executives| F[Company Vision]
+> ```
 
 # WOOP Method
 

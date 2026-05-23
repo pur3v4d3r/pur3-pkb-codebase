@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Propositional Logic Connectives**
+> *Follow the flow to see how connectives combine propositions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Simple Proposition] --> B(And)
+>   C[Simple Proposition] --> B
+>   D[Complex Statement] <-- B
+>   E(Or) --> F[Complex Statement]
+>   G[Simple Proposition] --> E
+>   H[Simple Proposition] --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Truth Table Example**
+> *Observe how truth values propagate through logical operators.*
+>
+> ```mermaid
+> graph TD
+>   A[P] --> B{And}
+>   C[Q] --> B
+>   D[False] -->|P=0| E{Or}
+>   F[True] -->|Q=1| E
+>   G[Result] <-- E
+> ```
+
+
+> [!abstract] **Diagram 3 — Propositional Logic Applications**
+> *Trace the connections between logic and real-world applications.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant Programming as P
+>   participant MOOCs as M
+>   ID->>P: Uses logical constructs
+>   P-->>M: Enhances algorithmic problem-solving
+>   M->>ID: Reinforces learning through spaced retrieval
+> ```
 
 # Propositional Logic
 

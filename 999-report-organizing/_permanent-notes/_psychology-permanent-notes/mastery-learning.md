@@ -65,8 +65,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mastery Learning Process Flow**
+> *Follow the steps from initial assessment to mastery.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Assessment] --> B[Iidentify Gaps]
+>   B --> C[Corrective Instruction]
+>   C --> D[Re-Assessment]
+>   D --> E["Mastery Achieved|Repeat if Not"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mastery Learning Components**
+> *Identify the key components of Mastery Learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Formative Assessments] --> B[Iidentify Gaps]
+>   C[Corrective Instruction] --> D[Targeted Interventions]
+>   E[Criterion-Referenced Standards] --> F[Specific Performance Criteria]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mastery Learning vs Traditional Model**
+> *Compare Mastery Learning with traditional education models.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   participant Curriculum as C
+>   S->>T: Progress Despite Gaps (Traditional)
+>   alt Mastery Learning
+>     T->>S: Initial Assessment
+>     S-->>T: Identify Gaps
+>     T->>S: Corrective Instruction
+>     loop Until Mastery Achieved
+>       S->>T: Re-Assessment
+>       opt Gap Identified
+>         T->>S: Further Correction
+>       end
+>     end
+>   end
+> ```
 
 # Mastery Learning
 

@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mirror Neuron Mechanism Overview**
+> *Follow the flow from sensory input to motor output.*
+>
+> ```mermaid
+> graph TD
+>   A[Visual/Auditory Input] --> B[Sensory Cortex]
+>   B --> C[Premotor Cortex]
+>   C --> D[Mirror Neurons]
+>   D --> E[Intention Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mirror Neuron Applications in Education and Robotics**
+> *See how mirror neurons enhance learning and robot interaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Observation] --> B[Mirror Neurons]
+>   B --> C[Imitation]
+>   C --> D[Learning]
+>   E[Human Interaction] --> F[Mirror Neurons]
+>   F --> G[Intention Understanding]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mirror Neuron Role in Emotional Contagion**
+> *Trace the pathway from observed emotion to shared experience.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotion Observation] --> B[Mirror Neurons]
+>   B --> C[Neural Activation]
+>   C --> D[Shared Emotion]
+> ```
 
 # Mirror Neurons
 

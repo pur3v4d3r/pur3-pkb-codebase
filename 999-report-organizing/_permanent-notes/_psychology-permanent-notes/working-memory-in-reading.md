@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Reading Process Flow**
+> *Follow the sequence from input to comprehension.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Holding]
+>   B --> C[Integration]
+>   C --> D[Comprehension]
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory Mechanism Steps**
+> *Trace the steps from parsing to inhibition.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Holding] --> B[Integration]
+>   B --> C[Adjustment]
+>   C --> D[Inhibition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Working Memory in Reading Taxonomy**
+> *Identify the components and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Holding]
+>   B --> C[Integration]
+>   C --> D[Comprehension]
+>   E[Adjustment] --> F[Inhibition]
+> ```
 
 # Working Memory in Reading
 

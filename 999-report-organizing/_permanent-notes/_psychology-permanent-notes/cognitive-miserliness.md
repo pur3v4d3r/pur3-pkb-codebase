@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Type 1 vs Type 2 Processing**
+> *Identify the flow from quick to deep processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Quick Response]
+>   B[Confidence Check]
+>   C[Deep Analysis]
+>   A -->|If confident| B
+>   B -->|Proceed with Type 1| A
+>   B -->|Requires deeper scrutiny| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Miserliness Mechanism**
+> *Trace the decision-making process influenced by cognitive miserliness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem]
+>   B[Familiar Solution]
+>   C[Quick Response]
+>   D[Scrutiny Required?]
+>   E[Deep Analysis]
+>   F[Decision Made]
+>   A -->|Identify| B
+>   B -->|Apply Heuristic| C
+>   C -->|No Scrutiny Needed| F
+>   C -->|Yes, Scrutiny Needed| D
+>   D -->|Proceed with Type 2| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications Examples**
+> *Observe how cognitive miserliness affects different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Marketing]
+>   C[Educators]
+>   D[MOOCs]
+>   A -->|Familiar Examples| B
+>   B -->|Simple Slogans| C
+>   C -->|Practical Applications| D
+>   D -->|Spaced Retrieval| A
+> ```
 
 # Cognitive Miserliness
 

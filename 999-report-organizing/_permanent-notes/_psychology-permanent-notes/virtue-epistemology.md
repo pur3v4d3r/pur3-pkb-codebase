@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Virtue Epistemology Core Components**
+> *Identify the key intellectual virtues and their role in forming true beliefs.*
+>
+> ```mermaid
+> graph TD
+>   A[Open-Mindedness] --> B[True Beliefs]
+>   C[Intellectual Humility] --> B
+>   D[Fairness] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Virtue Epistemology Mechanism Flow**
+> *Follow the process of how intellectual virtues lead to reliable beliefs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Engage with Evidence] --> B[Critically Evaluate]
+>   B --> C[Consider Perspectives]
+>   C --> D[Avoid Biases]
+>   D --> E[Form Reliable Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Virtue Epistemology Applications**
+> *See the practical applications in different educational contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Cultivate Virtues]
+>   C[Character Formation] --> B
+>   D[Educational Policy] --> B
+>   E[Critical Thinking Workshops] --> B
+> ```
 
 # Virtue Epistemology
 

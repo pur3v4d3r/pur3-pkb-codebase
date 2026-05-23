@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Debugging Process Flowchart**
+> *Follow the steps from formulating hypotheses to fixing defects.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formulate Hypotheses] --> B[Instrument Code]
+>   B --> C[Test Hypothesis]
+>   C --> D[Falsify or Confirm]
+>   D --> E[Fix Defects]
+> ```
+
+
+> [!abstract] **Diagram 2 — Debugging Techniques Hierarchy**
+> *Identify the relationship between different debugging techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Breakpoints]
+>   B[Logging]
+>   C[Minimal Reproduction]
+>   D[Traceback Interpretation]
+>   A -->|Inspect State| E(Debugging Techniques)
+>   B -->|Record Behavior| E
+>   C -->|Isolate Issue| E
+>   D -->|Understand Sequence| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Debugging vs Troubleshooting Comparison**
+> *Compare the systematic approach of debugging with troubleshooting.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Debugger as D
+>   participant Troubleshooter as T
+>   D->>D: Formulate Hypotheses
+>   D->>D: Controlled Observations
+>   D->>D: Explicit Testing
+>   alt Debugging
+>     loop Until Fixed
+>       D->>D: Falsify or Confirm
+>       D->>D: Fix Defects
+>     end
+>   else Troubleshooting
+>     T->>T: Random Trial-and-Error
+>     T->>T: Suppress Symptoms
+>   end
+> ```
 
 # Debugging
 

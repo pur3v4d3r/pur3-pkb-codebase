@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Operationalization Process Flow**
+> *Follow the steps from theoretical construct to empirical measurement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Theoretical Construct] --> B[Define Measurement Procedures]
+>   B --> C[Collect Data]
+>   C --> D[Analyze Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Operationalization vs Conceptual Definition**
+> *Compare the roles of operationalization and conceptual definition in research.*
+>
+> ```mermaid
+> graph TD
+>   A[Conceptual Definition] --> B[Meaning]
+>   C[Operationalization] --> D[Measurement Procedures]
+>   E[Theoretical Construct] --> A
+>   E --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Iterative Nature of Operationalization**
+> *Track the refinement process over time based on new evidence and insights.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial --> Refinement : New Evidence/Insight
+>   Refinement --> Replacement : Further Insights
+>   Replacement --> [*]
+> ```
 
 # Operationalization
 

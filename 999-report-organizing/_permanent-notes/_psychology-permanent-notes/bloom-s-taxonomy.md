@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bloom's Cognitive Levels Hierarchy**
+> *Follow the hierarchy from lower to higher-order thinking skills.*
+>
+> ```mermaid
+> graph TD
+>   A[Remembering] --> B[Understanding]
+>   B --> C[Applying]
+>   C --> D[Analyzing]
+>   D --> E[Evaluating]
+>   E --> F[Creating]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Design Process Flow**
+> *Trace the flow from setting goals to creating assessments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Learning Goals] --> B[Align Objectives]
+>   B --> C[Design Curriculum]
+>   C --> D[Develop Assessments]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Process Flow for Analysis**
+> *Observe the steps required to analyze a text.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Understand Content] --> B[Break Down Ideas]
+>   B --> C[Evaluate Relationships]
+> ```
 
 # Bloom's Taxonomy
 

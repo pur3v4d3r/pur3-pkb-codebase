@@ -67,8 +67,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Predicate Logic Structure Overview**
+> *Follow the flow from basic concepts to applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Basic Concepts]
+>   B[Predicates & Quantifiers]
+>   C[Mathematical Expressions]
+>   D[Algorithm Verification]
+>   E[Philosophical Analysis]
+>   F[Instructional Design]
+>   A --> B
+>   B --> C
+>   C --> D
+>   C --> E
+>   C --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Predicate Logic Mechanism Flowchart**
+> *Trace the process from quantifiers to logical statements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Quantifiers]
+>   B[Predicates]
+>   C[Variables]
+>   D[Logical Statements]
+>   E[Truth Values]
+>   A -->|∀,∃| B
+>   B -->|P(x),Q(x)| C
+>   C -->|x,y| D
+>   D -->|True,False| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Predicate Logic Applications Comparison**
+> *Compare the applications in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Computer Science]
+>   B[Philosophy]
+>   C/Instructional Design
+>   style B fill:#6f6,stroke:#333,stroke-width:4px
+>   style C fill:#ffc,stroke:#333,stroke-width:4px
+> ```
 
 # Predicate Logic
 

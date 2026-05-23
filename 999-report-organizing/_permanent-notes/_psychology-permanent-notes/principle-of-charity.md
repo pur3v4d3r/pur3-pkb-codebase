@@ -65,8 +65,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Principle of Charity Process Flow**
+> *Follow the steps to apply Principle of Charity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Claims] --> B[Consider Context]
+>   B --> C[Rational Interpretation]
+>   C --> D[Test Against Evidence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Principle of Charity in Academic Debate**
+> *See how Principle of Charity enhances academic discourse.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Participant1
+>   participant B as Participant2
+>   A->>B: Present Strongest Argument
+>   B->>A: Engage Constructively
+>   A->>B: Refute Based on Strength
+> ```
 
 # Principle of Charity
 

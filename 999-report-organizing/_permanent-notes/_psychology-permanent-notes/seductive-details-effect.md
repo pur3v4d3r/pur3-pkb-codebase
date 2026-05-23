@@ -66,8 +66,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Load Allocation**
+> *Follow the flow of cognitive load from core to ornamental details.*
+>
+> ```mermaid
+> graph TD
+>   A[Core Content]
+>   B[Ornamental Details]
+>   C[Working Memory]
+>   A -->|Compete for| C
+>   B -->|Overwhelm| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Seductive Details Process Flow**
+> *Trace the steps from adding details to reduced retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Add Irrelevant Details]
+>   B[Engagement Increase]
+>   C[Competition for Working Memory]
+>   D[Reduced Retention]
+>   A --> B
+>   B -->|Due to| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Focus**
+> *Compare coherent narratives with ornamental details.*
+>
+> ```mermaid
+> graph TD
+>   A[Coherent Narratives]
+>   B[Ornamental Details]
+>   C[Enhanced Understanding]
+>   D[Distracted Learning]
+>   A -->|Support| C
+>   B -->|Distract| D
+> ```
 
 # Seductive Details Effect
 

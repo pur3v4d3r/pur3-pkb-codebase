@@ -73,8 +73,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Curriculum Structure Shift**
+> *Follow the progression from structured to open-ended tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Detailed Guidance] --> B[Guided Tasks]
+>   B --> C[Open-Ended Projects]
+> ```
+
+
+> [!abstract] **Diagram 2 — Learner Autonomy Development**
+> *Trace the learner's journey from dependency to independence.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Dependent
+>   Dependent --> Guided: Structured Learning
+>   Guided --> Independent: Reduced Support
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Phases**
+> *Identify the phases of instructional design addressing autonomy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Curriculum as C
+>   L->>C: Start with Detailed Guidance
+>   C-->>L: Provide Structured Lessons
+>   L->>C: Transition to Guided Tasks
+>   C-->>L: Offer More Open-Ended Projects
+> ```
 
 # Central Design Challenge
 

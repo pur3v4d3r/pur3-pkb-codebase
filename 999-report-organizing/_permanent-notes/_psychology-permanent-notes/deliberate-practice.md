@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Deliberate Practice Process Flow**
+> *Follow the steps from goal setting to feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goals] --> B[I dentify Weaknesses]
+>   B --> C[Operate at Edge]
+>   C --> D[Receive Feedback]
+>   D --> E[Reflect and Adjust]
+> ```
+
+
+> [!abstract] **Diagram 2 — Chunking Mechanism in Deliberate Practice**
+> *Trace the progression from small chunks to complex units.*
+>
+> ```mermaid
+> graph TD
+>   A[Un-chunked Configurations] --> B[Integrate Smaller Pieces]
+>   B --> C[Form Larger Units]
+>   C --> D[Enhance Working Memory]
+>   D --> E[Facilitate Skill Acquisition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deliberate Practice vs Ordinary Task Engagement**
+> *Compare the focus and outcomes of deliberate practice versus ordinary tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Ordinary Tasks] --> B[No Clear Goals]
+>   C[Deliberate Practice] --> D[Clear Improvement Goals]
+>   B --> E[Mere Performance Enhancement]
+>   D --> F[Systematic Cognitive Architecture Improvement]
+> ```
 
 # Deliberate Practice
 

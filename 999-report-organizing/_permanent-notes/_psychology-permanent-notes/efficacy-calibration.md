@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Efficacy Calibration Process Flow**
+> *Follow the feedback loop from performance to belief adjustment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Performance] --> B[Mastery Experiences]
+>   B --> C[Verbal Persuasion]
+>   C --> D[Belief Adjustment]
+>   D --> E[Feedback Loop]
+>   E --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Efficacy Calibration States**
+> *Identify the states of efficacy belief alignment with capability.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Overconfident
+>   Overconfident --> WellCalibrated : Feedback & Experience
+>   Underconfident --> WellCalibrated : Feedback & Experience
+>   WellCalibrated --> Overconfident : Positive Bias
+>   WellCalibrated --> Underconfident : Negative Bias
+>   [*] --> Underconfident
+> ```
+
+
+> [!abstract] **Diagram 3 — Efficacy Calibration Mechanism Overview**
+> *Trace the influence of feedback and persuasion on belief adjustment.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance Feedback]
+>   B[Mastery Experiences]
+>   C[Verbal Persuasion]
+>   D[Belief Adjustment]
+>   A -->|Direct Feedback| B
+>   C -->|Encouragement/Criticism| D
+>   B --> D
+> ```
 
 # Efficacy Calibration
 

@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Justified True Belief Model**
+> *Follow the flow from belief to knowledge, noting Gettier's challenge.*
+>
+> ```mermaid
+> graph TD
+>   A[Belief] --> B(True)
+>   B --> C(Justified)
+>   C --> D(Knowledge)
+>   E(Gettier) -->|Counterexample| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Externalist vs Virtue Epistemology**
+> *Compare the two approaches to addressing Gettier's problem.*
+>
+> ```mermaid
+> graph TD
+>   A[Reliable Processes] --> B(Knowledge)
+>   C[Cognitive Traits] --> D(Knowledge)
+>   E(Gettier) -->|Challenges JTB| A
+>   E -->|Challenges JTB| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify the areas where Theory of Knowledge is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Educators)
+>   C[Legal Settings] --> D(Courts)
+>   E[Scientific Research] --> F(Researchers)
+>   G[MOOCs] --> H(Educators)
+> ```
 
 # Theory of Knowledge
 

@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Nirvana Fallacy Process Flow**
+> *Follow the flow from ideal to rejection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Unrealistic Ideal]
+>   B[Compare Feasible Options Against Ideal]
+>   C[Reject Viable Solutions]
+>   D[Achieve Nothing]
+>   A --> B
+>   B -->|If Not Perfect| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Nirvana Fallacy vs High Standards**
+> *Compare the Nirvana Fallacy with setting high standards.*
+>
+> ```mermaid
+> graph TD
+>   A[Setting High Standards]
+>   B[Nirvana Fallacy]
+>   C[Achieve Excellence]
+>   D[Reject Feasible Options]
+>   E[Miss Opportunities]
+>   F[Improve Gradually]
+>   G[Fail to Improve]
+>   A -->|Legitimate Practice| C
+>   B -->|Unrealistic Benchmark| D
+>   D --> E
+>   C --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Nirvana Fallacy in Decision-Making**
+> *Identify the stages where Nirvana Fallacy occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Decision Context]
+>   B[Cultural Emphasis on Perfectionism]
+>   C[Dissenting Voices Marginalized]
+>   D[Nirvana Fallacy Applied]
+>   E[Missed Opportunities for Improvement]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
 
 # Nirvana Fallacy
 

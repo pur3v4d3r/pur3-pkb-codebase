@@ -69,8 +69,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Implementation Intention Process Flow**
+> *Follow the flow from goal intention to implementation intention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Intention] --> B[Preplanning]
+>   B --> C[Implementation Intention]
+>   C --> D[Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Pre-compilation Analogy**
+> *Compare the flexibility and execution overhead of goal intentions vs. implementation intentions.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal Intention] -->|High-level, flexible| B[Implementation Intention]
+>   A -->|Slow to execute| C[Cognitive Overhead]
+>   B -->|Less flexible| D[Minimal Execution Overhead]
+> ```
 
 # Implementation Intention
 

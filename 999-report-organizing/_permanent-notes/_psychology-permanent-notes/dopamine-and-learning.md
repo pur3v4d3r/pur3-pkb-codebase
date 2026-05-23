@@ -66,8 +66,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dopamine Response to Prediction Errors**
+> *Follow the arrows to see how dopamine responds to prediction errors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expected Reward] --> B[Actual Reward]
+>   B -->|Positive Error| C[Dopamine Increase]
+>   B -->|Negative Error| D[Dopamine Decrease]
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Discounting in Dopamine Signaling**
+> *Observe how immediate rewards influence dopamine signaling more than delayed ones.*
+>
+> ```mermaid
+> graph TD
+>   A[Immediate Reward] --> B[Dopamine Increase]
+>   C[Delayed Reward] --> D[Dopamine Decrease]
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavioral Therapy Process Flow**
+> *Trace the steps from identifying prediction errors to retraining predictive cues.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Therapist as T
+>   participant Environment as E
+>   U->>T: Identifies Negative Prediction Error
+>   T->>U: Retrains Predictive Cues
+>   U->>E: Engages in Healthy Behaviors
+> ```
 
 # Dopamine And Learning
 

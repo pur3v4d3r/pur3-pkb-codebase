@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mastery vs Performance Goals**
+> *Compare the focus of mastery and performance goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning & Improvement] --> B[Mastery Goals]
+>   C[Achieving Outcome/Outperforming Others] --> D[Performance Goals]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Orientation Mechanism**
+> *Trace the influence of goal orientation on cognitive, affective, and behavioral outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mastery Goals] --> B[Adaptive Coping]
+>   C[Performance Goals] --> D[Maladaptive Coping]
+>   B --> E[Cognitive/Affective/Behavioral Outcomes]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Orientation Applications**
+> *Identify applications in instructional design, organizational development, and MOOCs.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Foster Mastery Goals]
+>   C[Organizational Development] --> D[Foster Mastery Goals]
+>   E[MOOCs] --> F[Spaced Retrieval for Mastery Goals]
+> ```
 
 # Goal Orientation Framework
 

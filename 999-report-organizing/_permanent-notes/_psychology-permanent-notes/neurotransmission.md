@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Neurotransmission Process Flow**
+> *Follow the sequence from vesicle fusion to receptor binding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Action Potential] --> B[Vesicle Fusion]
+>   B --> C[Release Neurotransmitters]
+>   C --> D[Diffusion Across Synaptic Cleft]
+>   D --> E[Receptor Binding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Neurotransmitter Receptor Types**
+> *Compare ionotropic and metabotropic receptor functions.*
+>
+> ```mermaid
+> graph TD
+>   A[Ionotropic] --> B[Direct Ionic Changes]
+>   C[Metabotropic] --> D[Secondary Signaling Cascades]
+> ```
+
+
+> [!abstract] **Diagram 3 — Neurotransmission Regulatory Processes**
+> *Identify the mechanisms that regulate neurotransmitter levels.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Vesicle Fusion] --> B[Release Neurotransmitters]
+>   C[Reuptake Mechanisms] --> D[Recycle into Presynaptic Neuron]
+>   E[Enzymatic Breakdown] --> F[Break Down Excess in Synaptic Cleft]
+> ```
 
 # Neurotransmission
 

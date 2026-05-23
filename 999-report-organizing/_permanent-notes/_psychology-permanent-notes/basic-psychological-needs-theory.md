@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Basic Psychological Needs Overview**
+> *Identify the three core needs and their relationship to well-being.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   C -->|Contributes to| D[Well-Being]
+> ```
+
+
+> [!abstract] **Diagram 2 — Need Satisfaction in Educational Settings**
+> *Understand how educational practices can support the three needs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   D[Education]
+>   E[Choices]
+>   F[Mastery]
+>   G[Supportive Environment]
+>   E -->|Enhances| A
+>   F -->|Boosts| B
+>   G -->|Strengthens| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Digital Environment Challenges**
+> *See how digital platforms can frustrate the three needs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   D[Online Learning]
+>   E[Impersonal Interfaces]
+>   F[Algorithmic Feedback]
+>   G[Gamified Elements]
+>   E -->|Reduces| A
+>   F -->|Lacks Nuance| B
+>   G -->|Supports| C
+> ```
 
 # Basic Psychological Needs Theory
 

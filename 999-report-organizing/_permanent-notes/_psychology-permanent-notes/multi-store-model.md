@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Flow Overview**
+> *Follow the path of information from sensory to long-term memory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Sensory Register]
+>   B --> C[Short-Term Memory]
+>   C --> D[Long-Term Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Control Processes in STM**
+> *Identify the key processes that influence information retention.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention] --> B[Rehearsal]
+>   B --> C[Decay]
+>   C --> D[Transfer to LTM]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Storage Capacity**
+> *Notice the limited capacity of short-term memory compared to long-term.*
+>
+> ```mermaid
+> graph TD
+>   A[Short-Term Memory] -->|Limited (7±2)| B[Long-Term Memory]
+>   A --> C[Decay]
+>   B --> D[Unlimited]
+> ```
 
 # Multi-Store Model
 

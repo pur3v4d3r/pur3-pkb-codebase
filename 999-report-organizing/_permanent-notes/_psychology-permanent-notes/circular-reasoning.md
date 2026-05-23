@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Circular Reasoning Structure**
+> *Follow the flow from premise to conclusion, noting circular dependency.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premise] --> B[Conclusion]
+>   B --> C[Rephrased Premise]
+>   C --> D[Conclusion]
+>   A --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Validity Flow**
+> *Trace the path to see how circular reasoning fails to provide independent support.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Purpose]
+>   B --> C[Construct Argument]
+>   C --> D[Check Premises]
+>   D --> E[Conclusion Presupposed?]
+>   E -->|Yes| F[Circular Reasoning]
+>   E -->|No| G[Valid Argument]
+> ```
+
+
+> [!abstract] **Diagram 3 — Circular Reasoning Examples**
+> *Compare the examples to understand how circular reasoning is disguised.*
+>
+> ```mermaid
+> graph TD
+>   A[God exists because Bible says so] --> B[Bible true because God wrote it]
+>   C[Humans are mortal because they will die] --> D[Mortality defines humanity]
+> ```
 
 # Circular Reasoning
 

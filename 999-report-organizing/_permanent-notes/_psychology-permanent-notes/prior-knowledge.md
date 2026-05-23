@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prior Knowledge Influence on Learning**
+> *Follow the arrows to see how Prior Knowledge affects learning outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] --> B[Prior Knowledge]
+>   B --> C[Integration]
+>   C --> D[Encoding]
+>   D --> E[Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Correct vs Incorrect Prior Knowledge**
+> *Compare the paths for correct and incorrect knowledge to understand their impact on learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] --> B1[Correct PK]
+>   A --> B2[Incorrect PK]
+>   B1 --> C1[Integration Success]
+>   B2 --> D1[Integration Failure]
+>   C1 --> E1[Retrieval Success]
+>   D1 --> F1[Retrieval Failure]
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing**
+> *Trace the paths to see how Prior Knowledge supports deep processing over surface.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] --> B1[Prior Knowledge]
+>   B1 --> C1[Integration Success]
+>   C1 --> D1[Retrieval Success]
+>   A --> E2[Surface Processing]
+>   E2 --> F2[Rote Memorization]
+> ```
 
 # Prior Knowledge
 

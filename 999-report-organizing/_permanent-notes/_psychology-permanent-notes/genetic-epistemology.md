@@ -64,8 +64,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Development Stages**
+> *Follow the progression from sensorimotor to formal operational stages.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensorimotor]
+>   B[Preoperational] --> C[Concrete Operational]
+>   D[Formal Operational]
+>   A --> B
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Construction Process**
+> *Trace the cycle of assimilation, accommodation, and equilibration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assimilation] --> B[Accommodation]
+>   B --> C[Equilibration]
+>   C --> D[Disequilibrium]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Phases**
+> *See how teaching methods evolve with developmental stages.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Sensorimotor as S
+>   participant Preoperational as P
+>   participant ConcreteOperational as C
+>   S->>S: Sensory Exploration & Play-Based Learning
+>   P->>P: Introduction of Abstract Concepts
+>   C->>C: Logical Operations and Conservation Tasks
+> ```
 
 # Genetic Epistemology
 

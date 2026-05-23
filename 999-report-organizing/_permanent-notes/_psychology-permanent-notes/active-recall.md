@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Active Recall Process Flow**
+> *Follow the flow from cue to answer check.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Cue]
+>   B --> C[Recall Attempt]
+>   C --> D[Check Answer]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Reconsolidation Mechanism**
+> *Trace the neural pathway from retrieval to stabilization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval] --> B[Hippocampal Reactivation]
+>   B --> C[Cortical Strengthening]
+>   C --> D[Memory Stabilization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Active Recall vs Passive Review**
+> *Compare the neural engagement in both methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Passive Review] --> B[Visual Processing]
+>   C[Active Recall] --> D[Hippocampal Reactivation]
+>   D --> E[Cortical Strengthening]
+> ```
 
 # Active Recall
 

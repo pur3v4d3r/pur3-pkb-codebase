@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elaboration Interrogation Process Flow**
+> *Follow the flow from asking 'why' to deeper understanding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B{Ask Why}
+>   B -->|Generate Answer| C[Integrate Knowledge]
+>   C --> D[Deeper Understanding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elaboration Interrogation in Educational Settings**
+> *See how Elaboration Interrogation can be applied in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B{Why Questions}
+>   C[Student Self-Study] --> D{Why Questions}
+>   E[Spaced Retrieval MOOCs] --> F{Why Questions}
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load in Elaboration Interrogation**
+> *Identify how intrinsic load is managed through 'why' questions.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> IntrinsicLoad: Start with isolated facts
+>   IntrinsicLoad --> WhyQuestions: Ask 'Why'
+>   WhyQuestions --> DeeperUnderstanding: Integrate Knowledge
+> ```
 
 # Elaboration Interrogation
 

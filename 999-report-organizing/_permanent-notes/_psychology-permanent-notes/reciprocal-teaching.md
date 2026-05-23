@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reciprocal Teaching Process Flow**
+> *Follow the sequence from teacher modeling to student-led discussions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Teacher Modeling] --> B[Student Practice]
+>   B --> C[Peer Discussion]
+>   C --> D[Independent Application]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reciprocal Teaching Strategies Hierarchy**
+> *Identify the four core strategies and their hierarchical relationship.*
+>
+> ```mermaid
+> graph TD
+>   A[Predict]
+>   B[Question] --> C[Clarify]
+>   D[Summarize]
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Reciprocal Teaching Interaction Sequence**
+> *Trace the interaction flow between teacher and students.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant T as Teacher
+>   participant S1 as Student1
+>   participant S2 as Student2
+>   T->>S1: Model Strategy A
+>   S1->>T: Apply Strategy A
+>   T->>S2: Feedback on Application
+>   S2->>T: Adjust and Reapply
+> ```
 
 # Reciprocal Teaching
 

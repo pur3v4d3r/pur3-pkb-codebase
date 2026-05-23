@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Organization Process Flow**
+> *Follow the flow from local interactions to emergent patterns.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Local Interactions] --> B[Feedback Loops]
+>   B --> C[Emergent Patterns]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Organization in Different Domains**
+> *Identify the domains where self-organization is observed.*
+>
+> ```mermaid
+> graph TD
+>   A[Physical] --> D[Emergence]
+>   B[Biological] --> D
+>   C[Nervous] --> D
+>   E[Social] --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Organization vs Autopoiesis**
+> *Compare the scope of self-organization and autopoiesis.*
+>
+> ```mermaid
+> classDiagram
+>   class SelfOrg{
+>     +emergent patterns
+>     -no external control
+>   }
+>   class AutoPois{
+>     +self-maintenance
+>     -living systems only
+>   }
+> ```
 
 # Self-Organization
 

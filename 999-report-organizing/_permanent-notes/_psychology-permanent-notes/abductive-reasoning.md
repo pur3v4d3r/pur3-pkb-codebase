@@ -67,8 +67,35 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
+> *Follow the flow from observation to hypothesis evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Hypothesis Generation]
+>   B --> C[Evaluation Criteria]
+>   C --> D[Best Explanation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Abductive Reasoning vs Deduction & Induction**
+> *Compare the reasoning types based on their core characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Deduction] -->|Guaranteed Conclusions| B[Logic]
+>   C[Induction] -->|Pattern Extension| D[Observations]
+>   E[Abduction] -->|Best Explanation| F[Evidence]
+> ```
 
 # Abductive Reasoning
 

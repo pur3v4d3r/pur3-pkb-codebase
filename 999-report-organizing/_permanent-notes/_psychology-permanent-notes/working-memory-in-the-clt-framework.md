@@ -72,8 +72,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Process Flow**
+> *Follow the flow from input to decay.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Organization]
+>   B --> C[Manipulation]
+>   C --> D[Decay]
+>   D --> E[Rehearsal]
+> ```
+
+
+> [!abstract] **Diagram 2 — Working Memory vs Long-Term Memory**
+> *Compare the roles and capacities of both memory types.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] -->|Limited Capacity| B(Long-Term Memory)
+>   A -->|Temporary Storage| C(Decay)
+>   B -->|Encoded Schemas| D(Retrieval as Units)
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Overview**
+> *Identify the types of cognitive load and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] -->|Complexity| B(Performance Decline)
+>   C[Extraneous Load] -->|Poor Design| D(Burden on WM)
+>   E[Germane Load] -->|Constructive Processing| F(Learning Enhancement)
+> ```
 
 # Working Memory
 

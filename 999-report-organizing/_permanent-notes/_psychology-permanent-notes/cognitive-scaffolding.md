@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Scaffolding Process Flow**
+> *Follow the flow from external support to learner independence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Support] --> B[Learner Interaction]
+>   B --> C[Cognitive Demand Reduction]
+>   C --> D[Tackle Complex Tasks]
+>   D --> E[Gradual Withdrawal of Support]
+>   E --> F[Learner Independence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Scaffolding Mechanism Layers**
+> *Identify the layers that reduce different types of cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[VS Code] --> B(Environmental Complexity]
+>   C[Python] --> D[Syntactic Complexity]
+>   E[Copilot] --> F[Generative Complexity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Scaffolding in Educational Tools**
+> *Trace the support provided by each tool for learners.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant VSCode as V
+>   participant Python as P
+>   participant Copilot as C
+>   participant Learner as L
+>   V->>L: Streamlines File Management
+>   P->>L: Readable Syntax & Error Messages
+>   C->>L: Code Completion Suggestions
+> ```
 
 # Cognitive Scaffolding
 

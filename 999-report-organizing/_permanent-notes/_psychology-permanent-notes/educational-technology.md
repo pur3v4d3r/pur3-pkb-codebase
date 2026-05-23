@@ -67,8 +67,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Educational Technology Components**
+> *Identify the various tools and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Management Systems]
+>   B[Multimedia Resources]
+>   C[Intelligent Tutoring]
+>   D[Simulation Tools]
+>   E[Adaptive Assessments]
+>   F[Knowledge Base Tools]
+>   F -->|Store and retrieve information
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Design Process**
+> *Follow the stages from objectives to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Learning Objectives]
+>   B[Select Appropriate Technologies]
+>   C[Develop Engaging Content]
+>   D[Implement Tools Effectively]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Theory of Multimedia Learning**
+> *Understand the principles guiding multimedia design.*
+>
+> ```mermaid
+> graph TD
+>   A[Multiple Sensory Channels]
+>   B[Engagement and Comprehension]
+>   C[Intrinsic Load]
+>   D[Extraneous Load]
+>   E[Minimize Distractions]
+>   F[Focused Learning]
+>   A -->|Enhance Information Processing| B
+>   E -->|Improve Understanding| F
+> ```
 
 # Educational Technology
 

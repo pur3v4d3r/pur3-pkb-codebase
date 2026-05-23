@@ -69,8 +69,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SRL vs SDL Grain Size**
+> *Compare the scope of SRL and SDL processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Task]
+>   B[Project]
+>   C[SRL]
+>   D[SDL]
+>   A -->|Within Task| C
+>   B -->|Entire Project| D
+> ```
+
+
+> [!abstract] **Diagram 2 — SRL Cognitive Processes**
+> *Follow the cognitive steps in SRL.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting]
+>   B[Self-Monitoring]
+>   C[Feedback]
+>   D[Strategy Adjustment]
+>   A -->|Monitor Progress| B
+>   B -->|Evaluate Feedback| C
+>   C -->|Adjust Strategies| D
+> ```
+
+
+> [!abstract] **Diagram 3 — SDL Complex Processes**
+> *Trace the extended SDL processes over time.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Needs]
+>   B[Select Resources]
+>   C[Design Strategies]
+>   D[Evaluate Outcomes]
+>   A -->|Resources| B
+>   B -->|Strategies| C
+>   C -->|Outcomes| D
+> ```
 
 # The Grain-Size Distinction Between SDL and SRL
 

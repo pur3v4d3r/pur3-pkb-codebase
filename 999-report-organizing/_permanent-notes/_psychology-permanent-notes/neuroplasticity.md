@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Neuroplasticity Mechanisms Overview**
+> *Follow the flow from molecular to circuit-level changes.*
+>
+> ```mermaid
+> graph TD
+>   A[Synaptic Plasticity]
+>   B[Molecular Level Changes]
+>   C[Circuit-Level Reorganization]
+>   A -->|Involves| B
+>   B -->|Includes| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Neuroplasticity in Different Brain Regions**
+> *Compare neurogenesis and synaptic plasticity across regions.*
+>
+> ```mermaid
+> graph TD
+>   A[Hippocampus]
+>   B[Neocortex]
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Strategies Leveraging Neuroplasticity**
+> *Identify strategies that enhance neuroplastic mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Spaced Repetition]
+>   B[Active Retrieval Practice]
+>   C[Deliberate Practice]
+>   D[Spaced Retrieval in MOOCs]
+> ```
 
 # Neuroplasticity
 

@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Argument Mapping Process Flow**
+> *Follow the steps from identifying premises to creating the map.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Premises] --> B[Evaluate Relationships]
+>   B --> C[Construct Map]
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Mapping vs Linear Prose**
+> *Compare how Argument Mapping clarifies logical structure.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Prose] -->|Obscures Relationships| B[Complex Structure]
+>   C[Argument Map] -->|Clarifies Connections| D[Simplified Structure]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Notice the difference in how each type processes information.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] -->|Systematic Examination| B[Critical Assessment]
+>   C[Reactive] -->|Quick Responses| D[Biased Impressions]
+> ```
 
 # Argument Mapping
 

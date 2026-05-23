@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Wishful Thinking Mechanism**
+> *Follow the flow from desire to distorted probability judgment.*
+>
+> ```mermaid
+> graph TD
+>   A[Desire]
+>   B[Ignore Evidence]
+>   C[Distorted Probability Judgment]
+>   A -->|Unconscious Adjustment| B
+>   B -->|Based on Desire| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Wishful Thinking vs Confirmation Bias**
+> *Compare the focus of each bias: evidence search vs. desire-driven distortion.*
+>
+> ```mermaid
+> graph TD
+>   A[Confirmation Bias]
+>   B[Wishful Thinking]
+> ```
+
+
+> [!abstract] **Diagram 3 — Wishful Thinking vs Optimism**
+> *Distinguish between stable positive expectations and situational desire-driven bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Optimism]
+>   B[Wishful Thinking]
+> ```
 
 # Wishful Thinking
 

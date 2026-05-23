@@ -64,8 +64,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self Perception Process Flow**
+> *Follow the flow from behavior to inferred attitude.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Behavior] --> B[Observation]
+>   B --> C[Inference]
+>   C --> D[Introspection]
+>   D --> E[Attitude]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self Perception Mechanism Overview**
+> *Trace the steps from action to inferred internal state.*
+>
+> ```mermaid
+> graph TD
+>   A[Action] --> B[Context]
+>   B --> C[Justification]
+>   C --> D[Inference]
+>   D --> E[InternalState]
+> ```
+
+
+> [!abstract] **Diagram 3 — Behavior Modification Process**
+> *See how behavior leads to attitude change.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P as Participant
+>   participant A as Action
+>   participant I as Inference
+>   participant C as Change
+>   P->>A: Perform action
+>   A-->>I: Observe without justification
+>   I-->>C: Infer new attitude
+>   C-->>P: Attitude change
+> ```
 
 # Self Perception Theory
 

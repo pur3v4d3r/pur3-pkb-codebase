@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Discovery Learning Process Flow**
+> *Follow the stages from problem presentation to reflection and consolidation.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Presentation]
+>   B[Active Exploration & Experimentation]
+>   C[Reflection on Findings]
+>   D[Consolidate Understanding Through Application]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic vs Extraneous Load in Discovery Learning**
+> *Compare the load types and their impact on unguided versus guided discovery.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Unguided Discovery] -->|Increases| C[Extraneous Load]
+>   D[Guided Discovery] -->|Reduces| E[Extraneous Load]
+> ```
+
+
+> [!abstract] **Diagram 3 — Discovery Learning vs Other Methods**
+> *Compare the key distinctions between discovery learning and other instructional methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Discovery Learning]
+>   B[Unguided] -->|High Extraneous Load| C[Novice Struggle]
+>   D[Guided] -->|Structured Support| E[Enhanced Understanding]
+> ```
 
 # Discovery Learning
 

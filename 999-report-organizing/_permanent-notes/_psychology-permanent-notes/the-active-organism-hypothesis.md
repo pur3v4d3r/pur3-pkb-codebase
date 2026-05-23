@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Motivational Tendencies Interaction**
+> *Follow the flow from internal drives to social environment impact.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Internal Drives] --> B[Competence]
+>   A --> C[Relatedness]
+>   A --> D[Autonomy]
+>   B --> E[Supportive Environment]
+>   C --> E
+>   D --> E
+>   E --> F[Enhanced Motivation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic vs Extrinsic Motivation**
+> *Compare the sources of motivation and their effects on behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Motivation] --> B[Internal Rewards]
+>   C[Extrinsic Motivation] --> D[External Rewards/Punishments]
+>   B --> E[Long-term Engagement]
+>   D --> F[Short-term Compliance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Supportive Environment Elements**
+> *Identify key components that foster intrinsic motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy] --> B[Choice]
+>   C[Competence] --> D[Mastery]
+>   E[Relatedness] --> F[Connection]
+> ```
 
 # The Active Organism Hypothesis
 

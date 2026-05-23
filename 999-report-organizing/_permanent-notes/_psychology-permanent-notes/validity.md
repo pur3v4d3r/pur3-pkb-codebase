@@ -67,8 +67,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Types of Validity Overview**
+> *Identify the four types and their focus areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Statistical-Conclusion]
+>   B[Internal]
+>   C[Construct]
+>   D[External]
+>   A -->|Soundness| E[Inferences]
+>   B -->|Causality| F[Context]
+>   C -->|Measurement| G[Theoretical]
+>   D -->|Generalizability| H[Populations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Validity Threats and Controls**
+> *Understand the threats to each type of validity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Statistical-Conclusion] -->|Sample Size| B[Threat]
+>   C[Internal] -->|Confounding Variables| D[Threat]
+>   E[Construct] -->|Measurement Tools| F[Threat]
+>   G[External] -->|Context| H[Threat]
+> ```
+
+
+> [!abstract] **Diagram 3 — Validity in Research Design**
+> *See how validity types interact with research design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Statistical-Conclusion
+>   participant B as Internal
+>   participant C as Construct
+>   participant D as External
+>   A->>B: Ensure Soundness
+>   B->>C: Control for Confounding
+>   C->>D: Validate Measures
+>   D->>A: Generalize Findings
+> ```
 
 # Validity
 

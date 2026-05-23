@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Affective Forecasting Process Flow**
+> *Follow the flow from prediction to actual experience.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Future Event] --> B[Predicted Emotion]
+>   B --> C[Hedonic Adaptation Ignored]
+>   D[Actual Experience] --> E[Hedonic Adaptation Occurs]
+>   F[Emotional Reaction Normalizes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Affective Forecasting vs Hedonic Adaptation**
+> *Compare the prediction process with emotional adaptation.*
+>
+> ```mermaid
+> graph TD
+>   A[Predicted Emotion] --> B[Overestimation]
+>   C[Hedonic Adaptation] --> D[Return to Baseline]
+> ```
+
+
+> [!abstract] **Diagram 3 — Affective Forecasting Mechanism Overview**
+> *Trace the cognitive simulation and its flaws.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Cognitive Simulation] --> B[Past Experiences]
+>   C[Current Knowledge] --> D[Intuitive Heuristics]
+>   E[Systematic Biases] --> F[Overestimation]
+> ```
 
 # Affective Forecasting
 

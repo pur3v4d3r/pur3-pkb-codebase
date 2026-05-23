@@ -69,8 +69,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Novice to Expert Transition**
+> *Follow the learner's progression from novice to expert.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice] --> B[Necessary Support]
+>   B --> C[Schema Development]
+>   C --> D[Expert]
+>   D --> E[Redundant Support]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Techniques Impact**
+> *Compare the effectiveness of instructional techniques for novices and experts.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice] --> B[Worked Examples]
+>   C[Expert] --> D[Integrated Formats]
+>   E[Redundant Support] --> F[Hindrance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory**
+> *Understand the relationship between schema development and cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[Schema Development] --> B[Necessary Support]
+>   C[Redundant Support] --> D[Hindrance]
+>   E[Cognitive Load] --> F[Working Memory]
+> ```
 
 # Expertise Reversal Effect
 

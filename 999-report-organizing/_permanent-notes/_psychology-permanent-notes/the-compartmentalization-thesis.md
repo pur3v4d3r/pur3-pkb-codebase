@@ -68,8 +68,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Compartmentalization Process Flow**
+> *Follow the flow from isolated sub-skills to inert knowledge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Isolated Sub-Skills] --> B[Inert Knowledge]
+>   B --> C[No Transfer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Integrated vs Isolated Learning Outcomes**
+> *Compare the outcomes of integrated and isolated learning approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Integrated Skills] --> B[Transfer Success]
+>   C[Isolated Sub-Skills] --> D[Inert Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load in Compartmentalization**
+> *Identify how intrinsic and extraneous loads contribute to inert knowledge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Integrated Skills] --> B[Reduced Intrinsic Load]
+>   C[Isolated Sub-Skills] --> D[Increased Intrinsic Load]
+> ```
 
 # Compartmentalization Thesis
 

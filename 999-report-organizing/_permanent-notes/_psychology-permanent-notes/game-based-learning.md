@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GBL Feedback Loop Overview**
+> *Follow the flow from action to feedback and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Action] --> B[Game Environment]
+>   B --> C[Feedback]
+>   C --> D[Refinement]
+>   D --> E[Improved Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — GBL vs Gamification Comparison**
+> *Compare the focus of GBL and gamification in instructional design.*
+>
+> ```mermaid
+> graph TD
+>   A[Game Based Learning]
+>   B[Gamification]
+>   A -->|Embeds Instructional Content| C[Learning Goals Integrated]
+>   B -->|Overlays Game Elements| D[Non-Game Tasks Enhanced]
+> ```
+
+
+> [!abstract] **Diagram 3 — GBL Mechanism Flowchart**
+> *Trace the steps from goal setting to feedback in GBL.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goals] --> B[Rules]
+>   B --> C[Player Actions]
+>   C --> D[Feedback]
+>   D --> E[Refinement]
+> ```
 
 # Game Based Learning
 

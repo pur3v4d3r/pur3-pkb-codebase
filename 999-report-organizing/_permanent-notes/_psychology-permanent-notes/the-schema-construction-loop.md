@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Schema Construction Process Flow**
+> *Follow the stages from Encounter to Schema Activation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encounter High-Interactivity Material] --> B[Working Memory Processing]
+>   B --> C[Relational Trace Formation]
+>   C --> D[Schemas Consolidation in LTM]
+>   D --> E[Schema Activation for Reduced Load]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Reduction Over Time**
+> *Observe how cognitive load decreases with schema construction.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Interactivity Material] --> B[Initial High Cognitive Load]
+>   B --> C[Schemas Formed in LTM]
+>   C --> D[Reduced Future Processing Load]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Strategies**
+> *Identify how different strategies support schema construction.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student
+>   participant Educator
+>   participant Material
+>   Student->>Educator: Request Guidance
+>   Educator->>Material: Provide Worked Examples
+>   Student->>Material: Process Examples
+>   Student-->>Student: Internalize Structure
+>   Student->>Educator: Seek Further Clarification
+> ```
 
 # Schema-Construction Loop
 

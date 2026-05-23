@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Performance Phase Flowchart**
+> *Follow the sequence from planning to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Forethought] --> B[Execution]
+>   B --> C[Self-Control]
+>   C --> D[Self-Observation]
+>   D --> E[Evaluation]
+>   E --> F[Reflection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Performance Phase**
+> *Identify the key mechanisms used during task execution.*
+>
+> ```mermaid
+> graph TD
+>   A[Attention Focusing] --> B(Task Strategies)
+>   C(Self-Instruction) --> D(Environmental Structuring)
+>   E(Monitoring) --> F(Adjustment)
+> ```
+
+
+> [!abstract] **Diagram 3 — Real-Time Feedback Loop**
+> *Observe the feedback loop between task execution and strategy adjustment.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Task as T
+>   participant Strategy as S
+>   L->>T: Execute Task
+>   T-->>L: Real-Time Feedback
+>   L->>S: Adjust Strategy
+>   S-->>L: New Strategy
+> ```
 
 # Performance Phase
 

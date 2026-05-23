@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PBL Process Flowchart**
+> *Follow the steps from problem identification to solution implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Problem] --> B[Brainstorm Solutions]
+>   B --> C[Research Information]
+>   C --> D[Implement Solution]
+> ```
+
+
+> [!abstract] **Diagram 2 — PBL vs Traditional Instruction**
+> *Compare PBL's problem-focused approach with traditional content-first methods.*
+>
+> ```mermaid
+> graph TD
+>   A[PBL] --> B[Problem Focus]
+>   C[Traditional] --> D[Content First]
+>   B --> E[Critical Thinking]
+>   D --> F[Rote Memorization]
+> ```
+
+
+> [!abstract] **Diagram 3 — PBL Learning Outcomes**
+> *Identify the key skills and knowledge developed through PBL.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Solving] --> B[Critical Thinking]
+>   C[Collaboration] --> D[Self-Directed Learning]
+>   E[Factual Knowledge] --> F[Reflective Analysis]
+> ```
 
 # Problem-Based Learning
 

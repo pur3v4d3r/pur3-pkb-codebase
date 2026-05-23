@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GTD Workflow Overview**
+> *Follow the flow from Capture to Engage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture] --> B[Clarify]
+>   B --> C[Organize]
+>   C --> D[Reflect]
+>   D --> E[Engage]
+> ```
+
+
+> [!abstract] **Diagram 2 — GTD Process Flow**
+> *Trace the steps from input to action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Capture]
+>   B --> C[Clarify]
+>   C --> D[Organize]
+>   D --> E[Reflect]
+>   E --> F[Engage]
+> ```
+
+
+> [!abstract] **Diagram 3 — GTD Lists and Reviews**
+> *Identify the lists used in GTD and their review frequency.*
+>
+> ```mermaid
+> graph TD
+>   A[Next Actions] -->|Weekly Review| B[Projects]
+>   B -->|Monthly Review| C[Areas of Focus]
+>   C --> D[Contexts]
+> ```
 
 # GTD Method
 

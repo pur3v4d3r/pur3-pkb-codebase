@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Standard Three-Load Taxonomy Overview**
+> *Identify the three types of cognitive loads and their definitions.*
+>
+> ```mermaid
+> graph TD
+> ICL["Intrinsic Cognitive Load (ICL)"]
+> ECL["Extraneous Cognitive Load (ECL)"]
+> GCL["Germane Cognitive Load (GCL)"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Loads Interaction Mechanism**
+> *Understand how intrinsic, extraneous, and germane loads interact during learning.*
+>
+> ```mermaid
+> flowchart LR
+> ICL["Intrinsic Cognitive Load (ICL)"] -->|Overwhelms WM| WorkingMemory[Working Memory]
+> ECL["Extraneous Cognitive Load (ECL)"] -->|Distracts Learner| WorkingMemory
+> GCL["Germane Cognitive Load (GCL)"] -->|Facilitates Schema Construction| WorkingMemory
+> ```
+
+
+> [!abstract] **Diagram 3 — Total Cognitive Load Model**
+> *See how total cognitive load is the sum of intrinsic, extraneous, and germane loads.*
+>
+> ```mermaid
+> graph TD
+> ICL["Intrinsic Cognitive Load (ICL)"] -->|+| TCL["Total Cognitive Load (TCL)"]
+> ECL["Extraneous Cognitive Load (ECL)"] -->|+| TCL
+> GCL["Germane Cognitive Load (GCL)"] -->|+| TCL
+> ```
 
 # Standard Three-Load Taxonomy
 

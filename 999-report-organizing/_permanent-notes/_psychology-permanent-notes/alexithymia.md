@@ -65,8 +65,64 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Alexithymia Mechanism Overview**
+> *Follow the flow from interoception to affect labeling.*
+>
+> ```mermaid
+> graph TD
+>   A[Interoception]
+>   B[Affect Labeling]
+>   C[Emotional Disconnection]
+>   A -->|Impaired Awareness| B
+>   B -->|Difficulty Naming| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Alexithymia vs Emotional Suppression**
+> *Compare the mechanisms of Alexithymia and emotional suppression.*
+>
+> ```mermaid
+> graph TD
+>   A[Identifying Emotions]
+>   B[Labeling Emotions]
+>   C[Avoiding Expression]
+>   D[Active Hiding]
+>   E[Alexithymia]
+>   F[Emotional Suppression]
+>   A -->|Deficit in Ability| E
+>   B -->|Difficulty Naming| E
+>   C -->|Choice to Avoid| F
+>   D -->|Actively Concealing| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Alexithymia Neural Correlates**
+> *Trace the neural pathways involved in Alexithymia.*
+>
+> ```mermaid
+> graph TD
+>   A[Anterior Insula]
+>   B[Anterior Cingulate Cortex]
+>   C[Somatosensory Regions]
+>   D[Limbic Regions]
+>   E[Interoceptive Awareness]
+>   F[Emotional Integration]
+>   G[Diminished Connectivity]
+>   H[Reduced Activation]
+>   A -->|Hypofunction| H
+>   B -->|Hypofunction| H
+>   C -->|Decreased Connection| G
+>   D -->|Decreased Connection| G
+> ```
 
 # Alexithymia
 

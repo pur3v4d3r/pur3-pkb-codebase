@@ -66,8 +66,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mastery-Avoidance Goal Hierarchy**
+> *Follow the hierarchy from general to specific goal types.*
+>
+> ```mermaid
+> graph TD
+>   AchievementGoal --> MasteryAvoidance["Mastery-Avoidance"]
+>   AchievementGoal --> MasteryApproach["Mastery-Approach"]
+>   AchievementGoal --> PerformanceAvoidance["Performance-Avoidance"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Mastery-Avoidance Goal**
+> *Trace the flow from avoidance focus to surface-level processing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Focus on Avoiding Failure]
+>   B[Avoid Negative Outcomes]
+>   C[Surface-Level Processing]
+>   D[Reduced Help-Seeking Behaviors]
+>   E[Hindering Long-Term Learning]
+>   A -->|Negative Valence| B
+>   B -->|Avoidance Strategy| C
+>   C -->|Surface Engagement| D
+>   D -->|Lack of Deep Engagement| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications for Instructional Design**
+> *Identify strategies to mitigate Mastery-Avoidance Goal in educational settings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant FormativeAssessment as FA
+>   participant GrowthMindsetSupport as GMS
+>   S->>E: Engages with Challenging Task
+>   E->>S: Provides Feedback
+>   S->>FA: Completes Assessment
+>   FA-->>GMS: Analyzes Results
+>   GMS-->>S: Offers Support for Mastery
+>   S->>E: Develops Growth Mindset
+> ```
 
 # Mastery-Avoidance Goal
 

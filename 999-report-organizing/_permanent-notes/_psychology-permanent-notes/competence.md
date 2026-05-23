@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Competence vs Achievement**
+> *Compare the subjective experience of competence with external achievement outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Competence]
+>   B[Achievement]
+>   A -->|Subjective Experience| C[Feeling Effective]
+>   B -->|Objective Outcome| D[Grades/Goals]
+> ```
+
+
+> [!abstract] **Diagram 2 — Internalization Progression**
+> *Track the progression from introjection to identification through competence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Introjection] --> B[Competence]
+>   B --> C[Identification]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dynamic Nature of Competence**
+> *Illustrate how competence evolves through interaction and feedback.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Incompetent
+>   Incompetent --> Challenging: Interaction with Environment
+>   Challenging --> Supportive: Feedback from Outcomes
+>   Supportive --> Competent
+> ```
 
 # Competence
 

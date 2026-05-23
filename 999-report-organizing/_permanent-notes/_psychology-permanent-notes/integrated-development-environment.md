@@ -69,8 +69,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — IDE Core Components Overview**
+> *Identify the integrated components of an IDE.*
+>
+> ```mermaid
+> graph TD
+>   A[Editor]
+>   B[Debugger]
+>   C[Build Automation]
+>   D[Project Management]
+>   A -->|Edit Code| B
+>   A -->|Edit Code| C
+>   A -->|Edit Code| D
+>   B -->|Debugging| A
+>   C -->|Compile| A
+>   D -->|Organize Projects| A
+> ```
+
+
+> [!abstract] **Diagram 2 — IDE Workflow Process Flowchart**
+> *Follow the typical workflow in an IDE from editing to debugging.*
+>
+> ```mermaid
+> flowchart LR
+>   Start[Start]
+>   EditCode[Edit Code]
+>   CompileCode[Compile Code]
+>   Debugging[Debugging]
+>   End[End]
+>   Start -->|Open Project| EditCode
+>   EditCode -->|Save Changes| CompileCode
+>   CompileCode -->|Build Success| Debugging
+>   Debugging -->|Fix Errors| EditCode
+>   Debugging -->|No Errors| End
+> ```
+
+
+> [!abstract] **Diagram 3 — IDE Integration with Version Control**
+> *See how IDEs integrate version control features.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Editor as E
+>   participant VCS as VC
+>   U->>E: Open Project
+>   E-->>U: Display Code
+>   U->>VC: Commit Changes
+>   VC-->>E: Sync with Repository
+>   E-->>U: Show Updated Code
+> ```
 
 # Integrated Development Environment
 

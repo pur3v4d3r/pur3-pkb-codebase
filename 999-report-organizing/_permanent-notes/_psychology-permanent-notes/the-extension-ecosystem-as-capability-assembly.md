@@ -69,8 +69,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Extension Integration Process**
+> *Follow the steps from identifying needs to regular maintenance.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Needs]
+>   B[Search Marketplace]
+>   C[Install Extensions]
+>   D[Configure Settings]
+>   E[Maintain Environment]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Python Development Stack in VS Code**
+> *Trace the flow from core Python functionality to code quality and style.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Python Extension]
+>   B[Pylance]
+>   C[Ruff/Flake8]
+>   D[Black/Ruff]
+>   A --> B
+>   A --> C
+>   A --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Extension Taxonomy for Python Development**
+> *Identify the categories of extensions used in Python development.*
+>
+> ```mermaid
+> classDiagram
+>   class CoreFunctionality {
+>     +Python Extension: Interpreter Management, Debugging
+>   }
+>   class LanguageIntelligence {
+>     +Pylance: Type Checking, Language Intelligence
+>   }
+>   class CodeQuality {
+>     +Ruff/Flake8: Code Quality Analysis
+>   }
+>   class Styling {
+>     +Black/Ruff: Consistent Code Style
+>   }
+>   CoreFunctionality --> LanguageIntelligence
+>   CoreFunctionality --> CodeQuality
+>   CoreFunctionality --> Styling
+> ```
 
 # Extension Ecosystem as Capability Assembly
 

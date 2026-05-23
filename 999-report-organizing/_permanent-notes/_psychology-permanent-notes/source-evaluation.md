@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Source Evaluation Process Flow**
+> *Follow the steps from initial assessment to final evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Assessment] --> B[Credibility Check]
+>   B --> C[Expertise Verification]
+>   C --> D[Independence Review]
+>   D --> E[Methodological Quality]
+>   E --> F[Corroboration Status]
+> ```
+
+
+> [!abstract] **Diagram 2 — Source Evaluation Criteria Hierarchy**
+> *Identify the hierarchical relationship between evaluation criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Credibility]
+>   B[Expertise] --> A
+>   C[Independence] --> A
+>   D[Methodological Quality] --> A
+>   E[Corroboration Status] --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Source Evaluation in Digital Media**
+> *Trace the evaluation process from document to network trustworthiness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Document]
+>   B[Citation Chain] --> A
+>   C[Institutional Embedding] --> A
+>   D[Independent Corroboration] --> A
+> ```
 
 # Source Evaluation
 

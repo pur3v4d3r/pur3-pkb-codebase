@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Internalization Continuum Overview**
+> *Follow the progression from external to integrated regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[External Regulation]
+>   B[Introjected Regulation]
+>   C[Identified Regulation]
+>   D[Integrated Regulation]
+>   A -->|Conditioning| B
+>   B -->|Alignment with Values| C
+>   C -->|Genuine Self-Endorsement| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Conditional Regard Mechanism**
+> *See how conditional regard leads to introjected regulation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Parent/Teacher as PT
+>   PT->>S: Conditional Regard (Behavior X)
+>   S-->>PT: Behavior X
+>   S->>S: Internalizes External Controls
+>   S-->>S: Introjected Regulation
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivational Development Dynamics**
+> *Notice the oscillation between different regulatory styles.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   state ExternalRegulation{\n    [External Regulation]\n    -->|Oscillation| IntrojectedRegulation\n  }
+>   state IntrojectedRegulation{\n    [Introjected Regulation]\n    -->|Oscillation| IdentifiedRegulation\n  }
+>   state IdentifiedRegulation{\n    [Identified Regulation]\n    -->|Oscillation| IntegratedRegulation\n  }
+>   state IntegratedRegulation{\n    [Integrated Regulation]\n  }
+> ```
 
 # Internalization Continuum
 

@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Flipped Classroom Process Flow**
+> *Follow the sequence from pre-class to in-class activities.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pre-Class Preparation] --> B[Watch Video Lectures]
+>   B --> C[Read Materials]
+>   C --> D[In-Class Activities]
+>   D --> E[Problem-Solving Sessions]
+>   E --> F[Guided Discussions]
+>   F --> G[Individualized Support]
+> ```
+
+
+> [!abstract] **Diagram 2 — Flipped Classroom Interaction Model**
+> *Identify the roles of students and instructors in each phase.*
+>
+> ```mermaid
+> graph TD
+>   A[Students] --> B[Watch Video Lectures]
+>   C[Instructors] --> D[Create Pre-Class Content]
+>   E[Pre-Class Activities] --> F[In-Class Engagement]
+>   G[Problem-Solving Sessions] --> H[Guided Discussions]
+>   I[Individualized Support] --> J[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 3 — Flipped Classroom Activity Types**
+> *Compare the types of activities in pre-class and in-class phases.*
+>
+> ```mermaid
+> graph TD
+>   A[Pre-Class Activities] --> B[Video Lectures]
+>   C[Read Materials] --> D[Interactive Elements]
+>   E[In-Class Activities] --> F[Problem-Solving Sessions]
+>   G[Guided Discussions] --> H[Individualized Support]
+> ```
 
 # Flipped Classroom
 

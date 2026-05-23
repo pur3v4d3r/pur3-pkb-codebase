@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Phases of Self-Regulated Learning**
+> *Follow the sequence from forethought to reflection.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought and Planning] --> B[Monitoring]
+>   B --> C[Control]
+>   C --> D[Reaction and Reflection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Regulatory Areas Interaction**
+> *Identify how each phase interacts with cognition, motivation, behavior, and context.*
+>
+> ```mermaid
+> graph TD
+>   A1[Forethought] -->|Cognition| B1[Monitoring]
+>   A1 -->|Motivation| B1
+>   A1 -->|Behavior| B1
+>   A1 -->|Context| B1
+>   B2[Monitoring] -->|Cognition| C1[Control]
+>   B2 -->|Motivation| C1
+>   B2 -->|Behavior| C1
+>   B2 -->|Context| C1
+>   C3[Control] -->|Cognition| D1[Reflection]
+>   C3 -->|Motivation| D1
+>   C3 -->|Behavior| D1
+>   C3 -->|Context| D1
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Regulation Cycle**
+> *Observe the cyclical nature of self-regulated learning phases.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Forethought
+>   Forethought --> Monitoring : Assess Progress
+>   Monitoring --> Control : Implement Strategies
+>   Control --> Reflection : Evaluate Outcomes
+>   Reflection --> Forethought : Set New Goals
+> ```
 
 # Pintrich's Framework of Self-Regulated Learning
 

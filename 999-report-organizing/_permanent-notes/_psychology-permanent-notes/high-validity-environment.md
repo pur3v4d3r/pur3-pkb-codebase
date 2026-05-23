@@ -70,8 +70,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — High-Validity Environment Structure**
+> *Identify the stable causal structure and reliable feedback components.*
+>
+> ```mermaid
+> graph TD
+>   A[Stable Causal Structure] --> B[Reliable Feedback]
+>   B --> C[Intuitive Expertise]
+> ```
+
+
+> [!abstract] **Diagram 2 — Type 1 Process Learning Flow**
+> *Follow the flow from input to output, noting pattern recognition and prediction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inputs] --> B[Pattern Recognition]
+>   B --> C[Prediction]
+>   C --> D[Outputs]
+> ```
+
+
+> [!abstract] **Diagram 3 — High-Validity vs Low-Validity Environments**
+> *Compare the stable causal structure and feedback reliability between high-validity and low-validity environments.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Validity]
+>   B[Low-Validity]
+>   A -->|Stable Causal Structure| C[Reliable Feedback]
+>   B -->|Unstable Relationships| D[Unreliable Feedback]
+> ```
 
 # High-Validity Environment
 

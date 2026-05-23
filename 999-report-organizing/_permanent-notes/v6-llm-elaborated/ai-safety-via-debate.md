@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Debate Protocol Overview**
+> *Follow the flow from AI players to human judge.*
+>
+> ```mermaid
+> flowchart LR
+>   A["AI Player (Honest)"] --> B[Argument]
+>   C["AI Player (Dishonest)"] --> B
+>   B --> D[Human Judge Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Truthful vs Deceptive Arguments**
+> *Compare the difficulty of crafting truthful versus deceptive arguments.*
+>
+> ```mermaid
+> graph TD
+>   A[Truthful Argument] -->|Easy to Verify| B[Honest]
+>   C[Deceptive Argument] -->|Hard to Craft| D[Dishonest]
+> ```
+
+
+> [!abstract] **Diagram 3 — Argument Evaluation Criteria**
+> *Identify the criteria used by human judges.*
+>
+> ```mermaid
+> graph TD
+>   A[Quality of Arguments] --> B[Evaluation]
+>   C[Internal Consistency] --> B
+>   D[Plausibility] --> B
+> ```
 
 ## Core Explanation
 

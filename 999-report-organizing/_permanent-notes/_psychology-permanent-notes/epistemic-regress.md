@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Regress Process Flow**
+> *Follow the chain of justification from belief to foundational support.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief] --> B[Justification]
+>   B --> C[Fundamental Belief]
+>   C --> D(Self-Evident or Infallible)
+>   D --> E(Foundationalism)
+>   B --> F(Coherent Web of Justifications)
+>   F --> G(Coherentism)
+>   B --> H(Infinite Chain of Reasons)
+>   H --> I(Infinitism)
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemological Theories Comparison**
+> *Compare the three main theories addressing Epistemic Regress.*
+>
+> ```mermaid
+> graph TD
+>   A[Foundationalism] -->|Self-Evident Beliefs| B(Justification)
+>   C[Coherentism] -->|Interconnected Web| D(Justification)
+>   E[Infinitism] -->|Endless Chain| F(Justification)
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Processes in Epistemology**
+> *Identify the cognitive processes aligned with each theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Foundationalism] -->|System 1 Thinking| B(Self-Evident Beliefs)
+>   C[Coherentism] -->|System 2 Thinking| D(Interconnected Web)
+>   E[Infinitism] -->|Reflective Processes| F(Infinite Chain)
+> ```
 
 # Epistemic Regress
 

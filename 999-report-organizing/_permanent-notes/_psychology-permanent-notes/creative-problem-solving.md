@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Creative Problem-Solving Process Flow**
+> *Follow the stages from problem clarification to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem Clarification] --> B[Ideation]
+>   B --> C[Development]
+>   C --> D[Implementation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Divergent vs Convergent Thinking Phases**
+> *Identify the stages where divergent and convergent thinking occur.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Clarification] --> B[Ideation]
+>   B --> C[Development]
+>   C --> D[Implementation]
+>   subgraph Divergent Thinking
+>     B
+>   end
+>   subgraph Convergent Thinking
+>     C
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Osborn-Parnes Model Stages**
+> *Trace the structured stages of the Osborn-Parnes model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem Finding] --> B[Fact Finding]
+>   B --> C[Hypothesis Generation]
+>   C --> D[Idea Finding]
+>   D --> E[Decision Making]
+>   E --> F[Verifying Implementation]
+> ```
 
 # Creative Problem-Solving
 

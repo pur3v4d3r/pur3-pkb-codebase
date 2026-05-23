@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Folk Psychology vs Neuroscientific Concepts**
+> *Follow the arrows to see how folk psychological concepts are replaced by neuroscientific ones.*
+>
+> ```mermaid
+> graph TD
+>   A[Beliefs]
+>   B[Desires]
+>   C[Neruoscience]
+>   B -->|Replaced With| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Eliminative Materialism Process Flow**
+> *Trace the flow from neuroscience discovery to folk psychological concept replacement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Neuroscience Discovery]
+>   B[Challenge Folk Psychology]
+>   C[Replace with Neuroscientific Terms]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Eliminative Materialism**
+> *Identify the practical areas impacted by replacing folk psychological concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Mental Health Treatment]
+>   C[Neuroethics]
+> ```
 
 # Eliminative Materialism
 

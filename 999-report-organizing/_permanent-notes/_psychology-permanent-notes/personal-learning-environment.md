@@ -69,8 +69,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PLE Components Overview**
+> *Identify the main components of a PLE and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Tools]
+>   B[Platforms]
+>   C[Communities]
+>   D/Resources
+>   E[Learner Goals]
+>   F[Knowledge Construction]
+>   A -->|Supports| E
+>   B -->|Supports| E
+>   C -->|Supports| E
+>   D -->|Supports| E
+>   E -->|Enables| F
+> ```
+
+
+> [!abstract] **Diagram 2 — PLE Construction Process**
+> *Follow the steps involved in building a Personal Learning Environment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Goals]
+>   B[Select Tools/Platforms]
+>   C[Curate Resources]
+>   D[Integrate Communities]
+>   E[Maintain and Adapt]
+>   A -->|Next Step| B
+>   B -->|Next Step| C
+>   C -->|Next Step| D
+>   D -->|Next Step| E
+> ```
+
+
+> [!abstract] **Diagram 3 — PLE vs LMS Comparison**
+> *Compare the key differences between PLEs and institutional Learning Management Systems.*
+>
+> ```mermaid
+> classDiagram
+>   class PersonalLearningEnvironment {
+>     +OwnedBy: Learner
+>     +ControlledBy: Learner
+>     +Persistence: Long-term
+>     +Customization: High
+>   }
+>   class InstitutionalLMS {
+>     +OwnedBy: Institution
+>     +ControlledBy: Institution
+>     +Persistence: Course-specific
+>     +Customization: Low
+>   }
+>   PersonalLearningEnvironment --> InstitutionalLMS
+> ```
 
 # Personal Learning Environment
 

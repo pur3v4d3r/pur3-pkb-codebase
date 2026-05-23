@@ -64,8 +64,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Transactive Memory System Overview**
+> *Identify the key components of a Transactive Memory System.*
+>
+> ```mermaid
+> graph TD
+>   A[Individual Expertise]
+>   B[Metaknowledge]
+>   C[Information Sharing]
+>   D[Group Performance]
+>   A -->|Recognize Strengths| B
+>   B -->|Access Knowledge| C
+>   C -->|Enhance Efficiency| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Formation and Maintenance Process**
+> *Follow the steps for establishing a Transactive Memory System.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Expertise]
+>   B[Recognize Strengths]
+>   C[Establish Access]
+>   D[Update Knowledge]
+>   A --> B
+>   B --> C
+>   C -->|Over Time| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications in Teams**
+> *See how Transactive Memory Systems apply to different scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Project Management]
+>   C[Team Training]
+> ```
 
 # Transactive Memory Systems
 

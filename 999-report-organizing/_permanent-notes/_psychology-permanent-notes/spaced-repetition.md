@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spaced Repetition Intervals**
+> *Follow the intervals to see how review timing changes.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Review] --> B[1 Day]
+>   B --> C[3 Days]
+>   C --> D[7 Days]
+>   D --> E[15 Days]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spaced Repetition Mechanism**
+> *Trace the flow from initial learning to long-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning] --> B[First Review]
+>   B --> C[Second Review]
+>   C --> D[Third Review]
+>   D --> E[Long-Term Retention]
+> ```
+
+
+> [!abstract] **Diagram 3 — Spaced Repetition vs Massed Practice**
+> *Compare the retention rates of spaced and massed practice.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Spaced as S
+>   participant Massed as M
+>   S->>S: Review at increasing intervals
+>   M->>M: Repeated reviews in short period
+>   S-->>S: High long-term retention
+>   M-->>M: Low long-term retention
+> ```
 
 # Spaced Repetition
 

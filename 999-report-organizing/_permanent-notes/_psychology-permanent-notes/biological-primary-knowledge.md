@@ -64,8 +64,69 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Biological Primary Knowledge Overview**
+> *Identify the core competencies and their evolutionary basis.*
+>
+> ```mermaid
+> graph TD
+>   A[Language]
+>   B[Face Recognition]
+>   C[Intuitive Number Sense]
+>   D(Evolutionary Pressures)
+>   E[Cognitive Architecture]
+>   F[Early Childhood Development]
+>   G(Cross-Cultural Studies)
+>   H[Empirical Evidence]
+>   I[Innate Mechanisms]
+>   A -->|Develops Effortlessly| D
+>   B -->|Specialized Neural Circuits| D
+>   C -->|Basic Number Concepts| D
+>   E --> A
+>   E --> B
+>   E --> C
+>   F --> G
+>   H --> I
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Face Recognition**
+> *Trace the neural pathways involved in face recognition.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception]
+>   B[Fusiform Gyrus]
+>   C[Rapid Identification]
+>   D[Categorization]
+>   A -->|Facial Features| B
+>   B -->|Process Facial Features| C
+>   C -->|Identify Individuals| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Primary Knowledge**
+> *Understand how primary knowledge informs educational practices.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Child as C
+>   participant Educator as E
+>   participant Environment as Env
+>   C->>Env: Typical Exposure
+>   Env-->>C: Language and Number Sense
+>   C->>E: Innate Processing Mechanisms
+>   E->>C: Tailored Educational Materials
+>   E->>Env: Policy Development
+> ```
 
 # Biological Primary Knowledge
 

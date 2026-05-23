@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Reappraisal Process Flow**
+> *Follow the sequence from initial situation to reappraised outcome.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Situation] --> B[Evaluate Emotion]
+>   B --> C[Reinterpret Meaning]
+>   C --> D[Reduce Emotional Impact]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Comparison**
+> *Compare the paths of reflective and reactive thinking in emotion regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotion-Inducing Situation] --> B1[Reactive Response]
+>   A --> B2[Evaluate Emotion]
+>   B2 --> C[Reinterpret Meaning]
+>   B2 --> D[Reduce Emotional Impact]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Reappraisal Mechanism Overview**
+> *Trace the steps from perception to reappraised interpretation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceive Situation] --> B[Evaluate Emotion]
+>   B --> C[Reinterpret Meaning]
+>   C --> D[Reduce Emotional Impact]
+> ```
 
 # Cognitive Reappraisal
 

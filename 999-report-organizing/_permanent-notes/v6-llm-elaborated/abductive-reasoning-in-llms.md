@@ -69,8 +69,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
+> *Follow the flow from evidence to plausible explanation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observed Evidence] --> B[Generate Hypotheses]
+>   B --> C[Evaluate Fit with Data]
+>   C --> D[Rank by Prior Probability]
+>   D --> E[Select Best Explanation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Abductive vs Deductive Reasoning Comparison**
+> *Compare the logical paths of abductive and deductive reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Abductive] --> B[Plausible Explanation]
+>   C[Deductive] --> D[Logical Conclusion]
+>   subgraph Abductive
+>     A
+>     B
+>   end
+>   subgraph Deductive
+>     C
+>     D
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Bias in Medical Diagnosis**
+> *Identify how common diagnoses overshadow rare ones.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Common Diagnoses] --> B[Frequent Training Data]
+>   C[Rare Conditions] --> D[Sparse Training Data]
+>   E[Observed Symptoms] --> F[LLM Output]
+>   F --> G[Common Diagnosis]
+>   F --> H["Rare Condition (Missed)"]
+> ```
 
 ## Core Explanation
 

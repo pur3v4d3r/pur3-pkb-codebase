@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pre-Training Workflow Overview**
+> *Follow the sequence from pre-training to main instruction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Exposure] --> B[Reduced Working Memory Load]
+>   B --> C[Integration During Main Instruction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Pre-Training Mechanism Flow**
+> *Trace the shift of intrinsic load from working memory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic Load] --> B[Pre-Training Phase]
+>   B --> C[Recognition During Main Instruction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Comparison**
+> *Compare different application areas of pre-training.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Introduce Key Terms| B[Language Learning]
+>   B -->|Familiarize Vocabulary| C[Complex Systems Education]
+>   C -->|Prepare for Main Instruction| D[Spaced Retrieval in MOOCs]
+> ```
 
 # Pre-Training Principle
 

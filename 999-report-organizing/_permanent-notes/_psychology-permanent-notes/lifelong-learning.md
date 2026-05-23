@@ -71,8 +71,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scaffolding-Sovereignty Phases**
+> *Follow the progression from Guided Dependence to Autonomous Sovereignty.*
+>
+> ```mermaid
+> graph TD
+>   A[Guided Dependence] --> B[Structured Exploration]
+>   B --> C[Negotiated Autonomy]
+>   C --> D[Supported Independence]
+>   D --> E[Autonomous Sovereignty]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolding-Sovereignty Mechanism**
+> *See how external support decreases as self-regulatory skills increase.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> GuidedDependence : Start
+>   GuidedDependence --> StructuredExploration : Reduce Support
+>   StructuredExploration --> NegotiatedAutonomy : Balance Guidance & Independence
+>   NegotiatedAutonomy --> SupportedIndependence : More Responsibility
+>   SupportedIndependence --> AutonomousSovereignty : Full Autonomy
+> ```
+
+
+> [!abstract] **Diagram 3 — Curriculum Design Applications**
+> *Explore how the progression is applied in different educational contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Teacher as T
+>   participant Student as S
+>   participant Curriculum as C
+>   T->>C: Comprehensive Guidance
+>   C-->>S: Structured Exploration
+>   S->>T: Negotiated Autonomy
+>   T-->>S: Supported Independence
+>   S->>S: Autonomous Sovereignty
+> ```
 
 # Scaffolding-Sovereignty Progression
 

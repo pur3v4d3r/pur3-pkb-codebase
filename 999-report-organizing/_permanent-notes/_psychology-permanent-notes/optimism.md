@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dispositional Optimism Mechanisms**
+> *Follow the arrows to see how dispositional optimism influences persistence and stress recovery.*
+>
+> ```mermaid
+> graph TD
+>   A[Effort]
+>   B[Persistence]
+>   C[Success Belief]
+>   D[Stress Event]
+>   E[Temporary View]
+>   F[Recovery]
+>   A -->|Belief in Success| B
+>   B -->|Challenges Engaged| C
+>   C -->|Effort Continues| A
+>   D -->|View as Temporary| E
+>   E -->|Manageable Stress| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Attribution Styles in Optimism**
+> *Trace the paths to understand how dispositional optimists attribute positive and negative events.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Event]
+>   B[Negative Event]
+>   C[Internally Attributed]
+>   D[Externally Attributed]
+>   E[Broadly Positive]
+>   F[Temporarily Negative]
+>   A -->|Internally| C
+>   C -->|Broadly Positive| E
+>   B -->|Externally| D
+>   D -->|Temporarily Negative| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Optimism vs Pessimism in LOT**
+> *Compare the outlooks of dispositional optimists and pessimists on future outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Dispositional Optimist]
+>   B[Favorable Outcomes Expected]
+>   C[Dispositional Pessimist]
+>   D[Unfavorable Outcomes Expected]
+>   A -->|Favorable| B
+>   C -->|Unfavorable| D
+> ```
 
 # Dispositional Optimism
 

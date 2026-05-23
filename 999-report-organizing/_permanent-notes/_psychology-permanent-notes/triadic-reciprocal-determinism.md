@@ -69,8 +69,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Triadic Reciprocal Determinism Overview**
+> *Follow the arrows to see how factors influence each other.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Factors]
+>   B[Behavioral Factors]
+>   C[Environmental Factors]
+>   A -->|Influence| B
+>   B -->|Influence| C
+>   C -->|Influence| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Triadic Reciprocal Determinism Cycle**
+> *Trace the cycle to understand continuous mutual conditioning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Personal Factors] --> B[Behavioral Factors]
+>   B --> C[Environmental Factors]
+>   C --> D[Feedback to Personal Factors]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Triadic Reciprocal Determinism in Practice**
+> *See how instructional design enhances self-efficacy and learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Curriculum as C
+>   participant Environment as E
+>   S->>C: Engages with curriculum
+>   C-->>S: Provides feedback
+>   S->>E: Interacts in environment
+>   E-->>S: Influences self-efficacy
+>   S->>C: Builds confidence
+> ```
 
 # Triadic Reciprocal Determinism
 

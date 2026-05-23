@@ -70,8 +70,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Rubicon Transition Process**
+> *Follow the flow from deliberation to implementation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Deliberation] --> B[Predecisional]
+>   B --> C[Implementation Intention]
+>   C --> D[Preactional]
+>   D --> E[Execution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Rubicon Mechanism Overview**
+> *Identify the if-then structure that triggers actions.*
+>
+> ```mermaid
+> graph TD
+>   A[If Situation] --> B[Then Action]
+>   B --> C[Automatic Execution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Rubicon in Goal Setting**
+> *See how general intentions become specific plans.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant GeneralIntention as GI
+>   participant ImplementationIntention as II
+>   participant Action as A
+>   GI->>II: Form Specific Plan
+>   II->>A: Execute Plan
+> ```
 
 # Rubicon
 

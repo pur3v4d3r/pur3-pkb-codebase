@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pedagogical Principles Overview**
+> *Follow the flow from core principles to practical applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Core Explanation]
+>   B[Theoretical Roots]
+>   C[Historical Evolution]
+>   D[Mechanisms]
+>   E[Practical Implications]
+>   A -->|Sequencing & Feedback| B
+>   B -->|Cognitive Load Theory| C
+>   C -->|Progressive Education| D
+>   D -->|Spaced Practice| E
+>   E -->|Instructional Design| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Pedagogical Mechanisms Flowchart**
+> *Trace the flow from initial learning to long-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning]
+>   B[Spaced Practice]
+>   C[Retrieval Practice]
+>   D[Long-Term Retention]
+>   A -->|Distribute Over Time| B
+>   B -->|Active Recall| C
+>   C -->|Strengthen Neural Connections| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback in Pedagogy**
+> *Follow the feedback loop from formative to self-correction.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Instructor as I
+>   participant ZPD as Z
+>   S->>I: Learns New Material
+>   I->>S: Provides Formative Feedback
+>   S->>Z: Receives Scaffolded Support
+>   Z->>S: Achieves Task Independently
+> ```
 
 # Pedagogy
 

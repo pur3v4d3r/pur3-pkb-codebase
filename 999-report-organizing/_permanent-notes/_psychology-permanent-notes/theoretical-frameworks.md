@@ -66,8 +66,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Theoretical Framework Components**
+> *Identify the key components of a theoretical framework.*
+>
+> ```mermaid
+> graph TD
+>   A[Constructs]
+>   B[Relationships]
+>   C[Assumptions]
+>   D[Hypotheses]
+>   E[Interpretive Moves]
+>   F[Observations]
+>   G[Claims]
+>   A -->|defines| H(Theoretical Framework)
+>   B -->|connects| H
+>   C -->|underpins| H
+>   D -->|emerges from| H
+>   E -->|guides| H
+>   F -->|translated by| H
+>   G -->|result of| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Theoretical Framework Mechanism**
+> *Understand how a theoretical framework guides observation and analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observations] --> B[Relevant Patterns]
+>   B --> C[Interpretation]
+>   C --> D[Findings]
+>   E(Theoretical Framework) -->|specifies| A
+>   E -->|defines| B
+>   E -->|guides| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Theoretical Framework Integration**
+> *See how frameworks integrate diverse research findings.*
+>
+> ```mermaid
+> graph TD
+>   A[Study1] -->|findings| E(Integration)
+>   B[Study2] -->|findings| E
+>   C[Study3] -->|findings| E
+>   D(Theoretical Framework) -->|common language| E
+> ```
 
 # Theoretical Framework
 

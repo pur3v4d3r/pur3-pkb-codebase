@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Illusion Of Transparency Process Flow**
+> *Follow the flow from internal state to perceived transparency.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Internal State] --> B[Perceived Clarity]
+>   B --> C[Overestimated Transparency]
+>   C --> D[Communication Breakdown]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison With Curse Of Knowledge**
+> *Compare the directions of misperception in both biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Illusion Of Transparency] --> B[Overestimates]
+>   C[Curse Of Knowledge] --> D[Underestimates]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the paths leading to accurate and inaccurate perceptions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reactive Thinking] --> B[Misunderstood]
+>   C[Reflective Thinking] --> D[Awareness]
+> ```
 
 # Illusion Of Transparency
 

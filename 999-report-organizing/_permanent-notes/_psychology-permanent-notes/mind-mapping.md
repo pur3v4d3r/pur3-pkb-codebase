@@ -65,8 +65,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mind Mapping Structure Overview**
+> *Follow the branches from central topic to subtopics.*
+>
+> ```mermaid
+> graph TD
+>   C[Central Topic]
+>   C --> A1[Subtopic 1]
+>   C --> B2[Subtopic 2]
+>   C --> D3[Subtopic 3]
+>   A1 --> E4[Detail 1]
+>   B2 --> F5[Detail 2]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mind Mapping Process Flow**
+> *Trace the steps from central idea to detailed branches.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   A --> B(Central Idea)
+>   B --> C(Create Branches)
+>   C --> D(Label Keywords)
+>   D --> E(Add Details)
+>   E --> F(Finalize Map)
+> ```
+
+
+> [!abstract] **Diagram 3 — Mind Mapping vs Concept Mapping Comparison**
+> *Compare the labeled relations in concept mapping to Mind Mapping's free-flowing structure.*
+>
+> ```mermaid
+> classDiagram
+>   class MindMapping {
+>     +Central Topic
+>     +Branches: Subtopics, Details
+>   }
+>   class ConceptMapping {
+>     +Central Topic
+>     +Labeled Relations
+>     +Structured Knowledge Representation
+>   }
+>   MindMapping --> ConceptMapping
+> ```
 
 # Mind Mapping
 

@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — System Dynamics Core Components**
+> *Identify stocks, flows, and feedback loops.*
+>
+> ```mermaid
+> graph TD
+>   A[Stocks] --> B[Flows]
+>   C[Feedback Loops] -->|Positive| D1[Amplification]
+>   C -->|Negative| D2[Dampening]
+> ```
+
+
+> [!abstract] **Diagram 2 — System Dynamics Feedback Loop Example**
+> *Observe how feedback loops affect system behavior.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Positive
+>   Positive --> Stocks
+>   Stocks --> Flows
+>   Flows --> Positive
+>   Positive --> Dampening
+>   Dampening --> Negative
+> ```
+
+
+> [!abstract] **Diagram 3 — System Dynamics Application in Business Strategy**
+> *See how strategic decisions impact system behavior.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Company as C
+>   participant Market as M
+>   participant Production as P
+>   C->>P: Increase production
+>   P->>M: Supply increase
+>   M-->>C: Price drop
+> ```
 
 # System Dynamics
 

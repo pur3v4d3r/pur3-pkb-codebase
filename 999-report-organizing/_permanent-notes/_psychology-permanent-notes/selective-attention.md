@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Selective Attention Mechanisms**
+> *Follow the flow from gain modulation to filtering.*
+>
+> ```mermaid
+> graph TD
+>   A[Gain Modulation]
+>   B(Filtering)
+>   A -->|Enhance Attended| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Selective Attention in Cognitive Architecture**
+> *Trace the relationship between Selective Attention and broader cognitive processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Selective Attention]
+>   B[Cognitive Control]
+>   C[Information Processing]
+>   B -->|Regulates| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Selective Attention Process Flow**
+> *Observe the sequence from stimulus to conscious awareness.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant S as Stimulus
+>   participant G as Gain Modulation
+>   participant F as Filtering
+>   participant C as Conscious Awareness
+>   S ->> G: Attended Stimuli
+>   G ->> F: Adjust Sensitivity
+>   F ->> C: Filter and Pass Relevant
+> ```
 
 # Selective Attention
 

@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Four Areas Interactions**
+> *Follow the arrows to see how each area influences another.*
+>
+> ```mermaid
+> graph TD
+>   A[Cognition] --> B[Motivation and Affect]
+>   B --> C[Behavior]
+>   C --> D[Context]
+>   D --> E[A]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Regulation Process**
+> *Trace the steps from planning to evaluation in cognitive regulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Planning] --> B[Monitoring]
+>   B --> C[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare the paths of reflective and reactive thinking processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Stimuli] -->|Reactive| B[Immediate Response]
+>   C[Past Experiences] -->|Reflective| D[Deliberate Review]
+>   D --> E[Adjust Strategies]
+> ```
 
 # The Four Areas of Regulation
 

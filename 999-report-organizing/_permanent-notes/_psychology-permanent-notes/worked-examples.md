@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Worked Examples Process Flow**
+> *Follow the flow from problem to solution, noting each step's reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[Solve]
+>   B --> C[Reasoning]
+>   C --> D[Solution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Worked Examples in Cognitive Load Theory**
+> *Trace the reduction of extraneous cognitive load through worked examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem] --> B[CognitiveLoad]
+>   B --> C[MeansEndsSearch]
+>   D[WorkedExamples] --> E[SchemaConstruction]
+>   E --> F[ReducedCognitiveLoad]
+> ```
+
+
+> [!abstract] **Diagram 3 — Novice to Expert Transition**
+> *Observe the shift from worked examples to independent problem-solving as proficiency increases.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice] --> B[WorkedExamples]
+>   B --> C[PracticeProblems]
+>   C --> D[Expert]
+> ```
 
 # Worked Examples
 

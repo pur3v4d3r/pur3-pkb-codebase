@@ -65,8 +65,40 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Editor Features Overview**
+> *Identify the core features of a Code Editor.*
+>
+> ```mermaid
+> graph TD
+> A[Syntax Highlighting] --> B(Smart Indentation)
+> B --> C[Intelligent Completion]
+> C --> D[Diagnostics]
+> ```
+
+
+> [!abstract] **Diagram 2 — Code Editor Workflow with LSP**
+> *Follow the interaction between Code Editor and Language Server Protocol.*
+>
+> ```mermaid
+> sequenceDiagram
+> participant User as U
+> participant Editor as E
+> participant LSP as LS
+> U->>E: Write code
+> E->>LS: Request completion
+> LS-->>E: Provide suggestions
+> E->>LS: Validate syntax
+> LS-->>E: Return diagnostics
+> ```
 
 # Code Editor
 

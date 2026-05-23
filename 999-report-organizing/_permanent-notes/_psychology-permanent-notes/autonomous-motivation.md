@@ -70,8 +70,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Autonomous Motivation Process Flow**
+> *Follow the path from external control to internal endorsement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Control] --> B[Satisfaction of Needs]
+>   B --> C[Internal Endorsement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Autonomous Motivation Types Hierarchy**
+> *Identify the different types and their relationship to intrinsic motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic]
+>   B[Integrated Regulation] --> A
+>   C[Identified Regulation] --> A
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivation Impact on Outcomes**
+> *Compare the effects of autonomous and controlled motivation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Autonomous
+>   participant Controlled
+>   note over Autonomous: Persistence, Performance, Well-being
+>   note over Controlled: Short-term Compliance
+> ```
 
 # Autonomous Motivation
 

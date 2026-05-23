@@ -70,8 +70,78 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Andragogy Core Mechanism**
+> *Follow the flow from learning contracts to enhanced autonomy.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Contracts]
+>   B[Set Goals & Strategies]
+>   C[Evaluate Progress]
+>   D[Enhanced Autonomy]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Andragogy vs Pedagogy**
+> *Compare the focus areas of andragogy and pedagogy.*
+>
+> ```mermaid
+> graph TD
+>   A[Andragogy]
+>   B[Pedagogy]
+>   C[Self-Directed Learning]
+>   D[Content Delivery]
+>   E[Problem-Centered Orientation]
+>   F[Traditional Curriculum]
+>   G[Learner Autonomy]
+>   H[Teacher Control]
+>   I[Life-Related Needs]
+>   J[General Knowledge]
+>   A -->|C| C
+>   A -->|E| E
+>   A -->|G| G
+>   B -->|D| D
+>   B -->|F| F
+>   B -->|H| H
+>   A -->|I| I
+>   B -->|J| J
+> ```
+
+
+> [!abstract] **Diagram 3 — Learning Contract Negotiation Process**
+> *Trace the negotiation steps in a learning contract.*
+>
+> ```mermaid
+> graph TD
+>   A[Initiate]
+>   B[Negotiate Goals & Strategies]
+>   C[Evaluate Progress]
+>   D[Adjust as Needed]
+>   E[Finalize Contract]
+>   F[Implement Plan]
+>   G[Review Outcomes]
+>   H[Close Contract]
+>   A --> B
+>   B -->|Yes| C
+>   C -->|No| D
+>   D --> B
+>   C -->|Yes| E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
 
 # Andragogy
 

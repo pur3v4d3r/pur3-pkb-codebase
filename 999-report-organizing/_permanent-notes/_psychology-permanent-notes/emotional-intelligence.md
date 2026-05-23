@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — EI Hierarchical Components**
+> *Follow the flow from basic to advanced skills.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Emotions] --> B[Use Emotions]
+>   B --> C[Understand Complex Emotions]
+>   C --> D[Manage Emotions]
+> ```
+
+
+> [!abstract] **Diagram 2 — EI Mechanism Flow**
+> *Trace the process from perception to management.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception] --> B[Facilitate Thinking]
+>   B --> C[Understand Nuances]
+>   C --> D[Manage Responses]
+> ```
+
+
+> [!abstract] **Diagram 3 — EI Applications Overview**
+> *See the diverse fields where EI is applied.*
+>
+> ```mermaid
+> graph TD
+>   A --> E[Emotional Intelligence]
+>   B --> E
+>   C --> E
+>   D --> E
+> ```
 
 # Emotional Intelligence
 

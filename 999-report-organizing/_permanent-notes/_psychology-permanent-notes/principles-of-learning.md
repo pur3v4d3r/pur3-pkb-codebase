@@ -64,8 +64,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Principles of Learning Overview**
+> *Identify the key principles and their effects on learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Spacing]
+>   B[Retrieval Practice]
+>   C[Intereaving]
+>   D[Feedback Timing]
+>   A -->|Reduces forgetting| E[Enhanced Retention]
+>   B -->|Strengthen neural connections| E
+>   C -->|Improves discrimination| F[Improved Understanding]
+>   D -->|Forces deeper engagement| G[Better Long-Term Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Theory Influence**
+> *Understand how intrinsic and extraneous load impact learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Cognitive Flexibility]
+>   D[Meaningful Tasks]
+>   E[Superficial Tasks]
+>   F[Effective Learning]
+>   G[Rigid Thinking]
+>   A -->|Engaging| F
+>   B -->|Distracting| G
+>   C -->|Enhances Adaptability| H[Cognitive Engagement]
+>   D -->|Promotes Understanding| H
+>   E -->|Limits Flexibility| I[Learning Inefficiency]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Timing Mechanism**
+> *See how delayed feedback enhances long-term memory.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Material as M
+>   participant Feedback as F
+>   L->>M: Engage with material
+>   L->>F: Request feedback
+>   alt Immediate
+>     F-->>L: Provide immediate feedback
+>     L->>F: Confirm understanding
+>   else Delayed
+>     F-->>L: Delay feedback
+>     L->>M: Revisit material deeply
+>     L->>F: Seek delayed feedback
+>     F-->>L: Provide feedback
+>   end
+> ```
 
 # Principles of Learning
 

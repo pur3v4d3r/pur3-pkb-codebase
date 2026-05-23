@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dewey's Reflective Thinking Phases**
+> *Follow the flow from problem-definition to empirical testing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem-Definition] --> B[Hypothesis-Generation]
+>   B --> C[Reasoning-Out Consequences]
+>   C --> D[Empirical Testing]
+> ```
+
+
+> [!abstract] **Diagram 2 — Iterative Nature of Reflective Thinking**
+> *Notice the feedback loops between different phases.*
+>
+> ```mermaid
+> flowchart LR
+>   A1[Problem-Definition] --> B[Hypothesis-Generation]
+>   B --> C[Reasoning-Out Consequences]
+>   C --> D[Empirical Testing]
+>   D -->|Feedback Loop| E[Revised Problem-Definition]
+>   E --> F[Hypothesis-Generation]
+>   F --> G[Reasoning-Out Consequences]
+>   G --> H[Empirical Testing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Instructional Design**
+> *See how Dewey's model is applied in creating lesson plans.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Problem] --> B[Generate Hypotheses]
+>   B --> C[Predict Consequences]
+>   C --> D[Test Through Activities]
+>   D --> E[Evaluate Results]
+> ```
 
 # Dewey's Reflective Thinking
 

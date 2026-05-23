@@ -65,8 +65,78 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Signal-to-Noise Ratio Mechanism**
+> *Follow the stages from information intake to filtering efforts.*
+>
+> ```mermaid
+> graph TD
+>   A[Information Stream]
+>   B[High SNR]
+>   C[Rapid Identification]
+>   D[Low Filtering Effort]
+>   E[Low SNR]
+>   F[Increased Cognitive Load]
+>   G[High Filtering Effort]
+>   A -->|Varying Levels of Signal and Noise| B
+>   B --> C
+>   C --> D
+>   A -->|Varying Levels of Signal and Noise| E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Signal-to-Noise Ratio in Cognitive Load**
+> *Compare intrinsic vs extraneous cognitive load with SNR.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[High SNR]
+>   C[Low Extraneous Load]
+>   D[Reduced Overall Cognitive Demand]
+>   E[Low SNR]
+>   F[High Extraneous Load]
+>   G[Increased Overall Cognitive Demand]
+>   A -->|Task Difficulty| B
+>   B --> C
+>   C --> D
+>   A -->|Task Difficulty| E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of SNR**
+> *Identify the applications in different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B(Notification Management)
+>   C[Information Curation]
+>   D[High SNR Stream]
+>   E[Enhanced Learning and Productivity]
+>   F[Reduced Filtering Effort]
+>   G[Curated High-Quality Sources]
+>   H[Improved Focus]
+>   A -->|Minimize Extraneous Content| D
+>   B -->|Prioritize Relevant Alerts| D
+>   C -->|Select Clear, Relevant Content| D
+>   D --> E
+>   D --> F
+>   D --> G
+>   D --> H
+> ```
 
 # Signal-to-Noise Ratio
 

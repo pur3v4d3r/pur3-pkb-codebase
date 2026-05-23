@@ -64,8 +64,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Learning Processes Overview**
+> *Follow the flow from conditioning to cognitive mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Conditioning]
+>   B[Perceptual Learning]
+>   C[Declarative Encoding]
+>   D[Skill Acquisition]
+>   E[Social Learning]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Encoding Mechanism**
+> *Trace the path from attention to retrieval practice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attention]
+>   B[Elaborative Rehearsal]
+>   C[Encoding]
+>   D[Retrieval Practice]
+>   E[Consolidation]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Principles**
+> *Identify the key principles and their applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Spacing Effect]
+>   B[Cramming]
+>   C[Distributed Learning]
+>   D[Massed Practice]
+>   E[Retrieval Practice]
+>   F[Self-Testing]
+>   G[Flashcards]
+> ```
 
 # Psychology of Learning
 

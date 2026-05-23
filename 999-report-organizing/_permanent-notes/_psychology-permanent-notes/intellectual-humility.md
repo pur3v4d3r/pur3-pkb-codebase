@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Intellectual Humility Process Flow**
+> *Follow the steps from awareness to belief updating.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Limitations] --> B[Evaluate Bias]
+>   B --> C[Consider Alternatives]
+>   C --> D[Update Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intellectual Humility in Contexts**
+> *See how Intellectual Humility applies across different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Education] --> B[IntellectualHumility]
+>   C[Politics] --> B
+>   D[EverydayLife] --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Belief Updating Mechanism**
+> *Trace the influence of Intellectual Humility on belief updating.*
+>
+> ```mermaid
+> flowchart LR
+>   A[ConflictingEvidence] --> B[EvaluateAssumptions]
+>   B --> C[RecognizeBias]
+>   C --> D[ConsiderAlternatives]
+>   D --> E[UpdateBeliefs]
+> ```
 
 # Intellectual Humility
 

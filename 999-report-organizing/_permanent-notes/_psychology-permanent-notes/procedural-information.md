@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Procedural Information Flowchart**
+> *Follow the flow from task initiation to automation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Initiation] --> B[Just-in-Time Instructions]
+>   B --> C[Performance with Support]
+>   C --> D[Practice and Automation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Procedural vs Intrinsic Load**
+> *Compare the load types during task execution.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B(Task Execution)
+>   C[Extraneous Load] -->|Just-in-Time| B
+>   D[Procedural Information] -->|Minimizes| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Schema Automation Process**
+> *Trace the process from schema construction to automation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Schema Construction] --> B[Recurrent Practice]
+>   B --> C[Schema Automation]
+>   C --> D[Autonomous Performance]
+> ```
 
 # Procedural Information
 

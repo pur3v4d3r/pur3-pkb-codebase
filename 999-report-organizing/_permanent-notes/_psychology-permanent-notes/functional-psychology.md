@@ -64,8 +64,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Functional Psychology Methodology**
+> *Follow the flow from static analysis to dynamic adaptation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Static Analysis] --> B[Dynamic Adaptation]
+>   B --> C[Purpose of Mental Processes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Functional Psychology Applications**
+> *Trace the applications from instructional design to behavioral therapy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Behavioral Therapy]
+>   B --> C[Spaced Retrieval in MOOCs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Identify the components of intrinsic and extraneous load.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Difficulty] --> B(Intrinsic Load)
+>   C[Unrelated Factors] --> D(Extraneous Load)
+> ```
 
 # Functional Psychology
 

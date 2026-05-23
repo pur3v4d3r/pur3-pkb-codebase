@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Central Executive Workflow**
+> *Follow the flow of attention allocation and task switching.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Task Switching]
+>   B --> C[Updating]
+>   C --> D[Inhibition]
+>   D --> E[Shifting]
+>   E --> F[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Central Executive Components Interaction**
+> *Identify the interaction between Central Executive and slave systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Central Executive] --> B[Phonological Loop]
+>   A --> C[Visuospatial Sketchpad]
+>   A --> D[Episodic Buffer]
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Switching Process**
+> *Trace the steps involved in task switching managed by Central Executive.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant CE as C
+>   participant PL as P
+>   participant VS as V
+>   U->>C: Initiate Task A
+>   C->>P: Allocate Attention to Phonological Loop
+>   P-->>U: Process Verbal Information
+>   U->>C: Switch to Task B
+>   C->>V: Redirect Attention to Visuospatial Sketchpad
+>   V-->>U: Process Spatial Information
+> ```
 
 # Central Executive
 

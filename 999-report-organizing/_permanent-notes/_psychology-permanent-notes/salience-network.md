@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Salience Network Overview**
+> *Identify the core components and their interactions.*
+>
+> ```mermaid
+> graph TD
+>   A[Anterior Insula] --> B[Dorsal ACC]
+>   B --> C[DMN]
+>   B --> D[EAN]
+> ```
+
+
+> [!abstract] **Diagram 2 — Stimulus Detection and Switching Process**
+> *Follow the flow from stimulus detection to network switching.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Behaviorally Relevant Stimuli] --> B[Saliency Network]
+>   B --> C[DMN Deactivation]
+>   B --> D[EAN Activation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Neurotransmitter Signals for Switching**
+> *Trace the signaling pathways using neurotransmitters.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant SalienceNetwork as SN
+>   participant DMN
+>   participant EAN
+>   SN->>DMN: Inhibit (Acetylcholine)
+>   SN->>EAN: Activate (Dopamine)
+> ```
 
 # Salience Network
 

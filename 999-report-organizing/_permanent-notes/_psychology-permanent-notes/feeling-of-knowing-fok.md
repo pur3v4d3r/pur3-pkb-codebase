@@ -67,8 +67,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — FOK Mechanism Overview**
+> *Follow the flow from cue to FOK judgment.*
+>
+> ```mermaid
+> graph TD
+>   A[Context/Cue]
+>   B[Familiarity Heuristic]
+>   C[Partial Information Accessibility]
+>   D[Feeling of Knowing]
+>   A -->|Triggers| B
+>   B -->|Evaluates| C
+>   C -->|Confidence| D
+> ```
+
+
+> [!abstract] **Diagram 2 — FOK vs Tip-of-the-Tongue**
+> *Compare the states of FOK and tip-of-the-tongue.*
+>
+> ```mermaid
+> graph TD
+>   A[Feeling of Knowing]
+>   B[Tip-of-the-Tongue]
+>   C[Memory Trace]
+>   D[Recall Effort]
+>   E[Recognition]
+>   A -->|Confidence in Memory| C
+>   B -->|Inability to Access| C
+>   A -->|Effortless Recognition| E
+>   B -->|Additional Cues Needed| D
+> ```
+
+
+> [!abstract] **Diagram 3 — FOK in Learning Strategies**
+> *Identify how FOK influences study approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Feeling of Knowing]
+>   B[Familiar Cues]
+>   C[Further Study]
+>   D[Efficient Learning]
+>   A -->|Based on| B
+>   A -->|Triggers| C
+>   C -->|Improves| D
+> ```
 
 # Feeling of Knowing FOK
 

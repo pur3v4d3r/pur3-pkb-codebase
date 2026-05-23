@@ -71,8 +71,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stability Dimension Overview**
+> *Identify stable vs unstable causes and their effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Stable Causes] --> B[Expect Recurrence]
+>   C[Unstable Causes] --> D[Different Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Causal Attribution Process Flow**
+> *Follow the flow from cause to future expectancy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceived Cause] --> B[Cause Stability]
+>   B -->|Stable| C[Expect Recurrence]
+>   B -->|Unstable| D[Different Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Types in Instructional Design**
+> *Compare stable and unstable feedback effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Stable Feedback] --> B[Persist in Tasks]
+>   C[Unstable Feedback] --> D[Foster Resilience]
+> ```
 
 # Stability Dimension
 

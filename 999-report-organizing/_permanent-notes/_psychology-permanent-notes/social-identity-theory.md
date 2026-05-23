@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Social Identity Theory Overview**
+> *Follow the flow from group membership to intergroup behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Group Membership]
+>   B[Positive Self-Image]
+>   C[Favoritism & Discrimination]
+>   D[Intergroup Behavior]
+>   A -->|Influences| B
+>   B -->|Motivates| C
+>   C -->|Shapes| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of In-Group Favoritism**
+> *Trace the path from social categorization to preferential treatment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Social Categorization]
+>   B[Evaluation Bias]
+>   C[Favoritism & Discrimination]
+>   A -->|Cues Group Membership| B
+>   B -->|Positive Self-Image| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Intergroup Comparison Dynamics**
+> *Observe how group status comparisons influence attitudes.*
+>
+> ```mermaid
+> graph TD
+>   A[In-group Evaluation]
+>   B[Out-group Evaluation]
+>   C[Intergroup Status]
+>   D[Attitudes & Behaviors]
+>   A -->|Positive Bias| C
+>   B -->|Negative Bias| C
+>   C -->|Shapes| D
+> ```
 
 # Social Identity Theory
 

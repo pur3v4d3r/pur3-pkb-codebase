@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Classical Conditioning Process Flow**
+> *Follow the sequence from neutral stimulus to conditioned response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Neutral Stimulus] --> B[Unconditioned Stimulus]
+>   B --> C[Conditioned Response]
+>   A --> D[Repeated Pairings]
+>   D --> E[Conditioned Association]
+>   E --> F[CS Alone Triggers CR]
+> ```
+
+
+> [!abstract] **Diagram 2 — Rescorla-Wagner Model Overview**
+> *Identify the prediction error and its impact on learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expected Outcome] --> B[Actual Outcome]
+>   B --> C[Prediction Error]
+>   C --> D[Strengthened Association]
+>   E[CS] --> F[US]
+>   G[Conditioning Process] --> H[Learning Occurs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Classical Conditioning Applications**
+> *See the diverse applications of classical conditioning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhance Memory Retention]
+>   C[Pharmacology] --> D[Study Drug Effects]
+>   E[Behavioral Therapy] --> F[Treat Phobias]
+>   G[MOOCs] --> H[Spaced Retrieval]
+> ```
 
 # Classical Conditioning
 

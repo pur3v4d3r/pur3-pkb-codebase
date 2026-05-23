@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Free Energy Minimization Process**
+> *Follow the flow from prediction to model update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Prediction]
+>   B --> C[Discrepancy]
+>   C --> D[Model Update]
+>   D --> E[Minimized Free Energy]
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare the flow of information in both directions.*
+>
+> ```mermaid
+> graph TD
+>   A[Prior Knowledge] --> B[TOP-DOWN]
+>   C[Sensory Data] --> D[BOTTOM-UP]
+>   E[Internal Model] <--> F[External Stimuli]
+> ```
+
+
+> [!abstract] **Diagram 3 — FEP vs Predictive Coding**
+> *Notice the focus on minimizing variational free energy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant System as S
+>   participant Environment as E
+>   S->>E: Predict Sensory Inputs
+>   E-->>S: Receive Actual Inputs
+>   S->>S: Update Model to Minimize Free Energy
+>   alt FEP
+>     S->>S: Adjust Internal Models Continuously
+>   else Predictive Coding
+>     S->>S: Correct Errors Through Top-Down Prediction
+>   end
+> ```
 
 # Free Energy Principle
 

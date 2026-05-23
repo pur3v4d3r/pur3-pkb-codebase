@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Accuracy Components**
+> *Identify the two main components of metacognitive accuracy: resolution and bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Resolution]
+>   B[Bias]
+>   C[MetacognitiveAccuracy]
+>   A -->|Discriminative Power| C
+>   B -->|Systematic Over/Underconfidence| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Calibration Curve Example**
+> *Observe how confidence ratings align with actual performance outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Confidence]
+>   B[Performance]
+>   C[Good Calibration]
+>   D[Poor Calibration]
+>   A -->|80% Confidence| B
+>   B -->|Correct Answer| C
+>   A -->|60% Confidence| B
+>   B -->|Incorrect Answer| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Mechanisms Impact**
+> *Understand how different types of feedback influence metacognitive accuracy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant ImmediateFeedback as IF
+>   participant DelayedFeedback as DF
+>   S->>IF: Receives Feedback Immediately
+>   IF-->>S: Adjusts Confidence
+>   S->>DF: Receives Feedback Later
+>   DF-->>S: Adjusts Confidence
+> ```
 
 # Metacognitive Accuracy
 

@@ -64,8 +64,55 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Mechanisms Overview**
+> *Follow the flow from selection to conflict resolution.*
+>
+> ```mermaid
+> graph TD
+>   A[Selection]
+>   B[Sustained Vigilance]
+>   C[Switching]
+>   D[Conflict Resolution]
+>   A -->|Filters distractions| B
+>   B -->|Maintains focus| C
+>   C -->|Shifts tasks| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Neural Architecture for Cognitive Control**
+> *Trace the interactions between DLPFC and ACC during task execution.*
+>
+> ```mermaid
+> graph TD
+>   A["Dorsolateral Prefrontal Cortex (DLPFC)"]
+>   B["Anterior Cingulate Cortex (ACC)"]
+>   A -->|Top-down goal maintenance| B
+>   B -->|Detects response conflicts| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Stroop Task Process Flow**
+> *Follow the steps from stimulus presentation to response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Word in conflicting color]
+>   B[Inhibit automatic reading]
+>   C[Naming the color]
+>   D[Response]
+>   A -->|Stimulus| B
+>   B -->|Control process| C
+>   C -->|Output| D
+> ```
 
 # Attention and Cognitive Control
 

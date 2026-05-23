@@ -66,8 +66,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Interest Development Stages**
+> *Follow the stages from situational to individual interest.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Curiosity] --> B[Situational Interest]
+>   B --> C[Sustained Engagement]
+>   C --> D[Accumulated Knowledge]
+>   D --> E[Positive Affect]
+>   E --> F[Individual Interest]
+> ```
+
+
+> [!abstract] **Diagram 2 — Interest Mechanism Flow**
+> *Trace the flow from initial spark to sustained interest.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novelty/Relevance] --> B[Situational Interest]
+>   B --> C[Repeated Exposure]
+>   C --> D[Meaningful Learning]
+>   D --> E[Positive Reinforcement]
+>   E --> F[Accumulated Knowledge & Positive Affect]
+> ```
+
+
+> [!abstract] **Diagram 3 — Interest vs Motivation Comparison**
+> *Compare individual interest with intrinsic motivation and expertise.*
+>
+> ```mermaid
+> classDiagram
+>   class Individual_Interest{
+>     +accumulated_knowledge()
+>     +positive_affect()
+>     +sustained_interest()
+>   }
+>   class Intrinsic_Motivation{
+>     +personal_enjoyment()
+>     +satisfaction()
+>   }
+>   class Expertise_Development{
+>     +domain_expertise()
+>     +skill_proficiency()
+>   }
+>   Individual_Interest --> Intrinsic_Motivation
+>   Individual_Interest --> Expertise_Development
+> ```
 
 # Individual Interest
 

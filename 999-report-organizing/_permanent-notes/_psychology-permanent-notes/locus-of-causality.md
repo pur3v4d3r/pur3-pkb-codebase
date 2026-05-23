@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Locus of Causality Dimension**
+> *Identify internal vs. external attributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Success]
+>   B[Failure]
+>   A -->|Internal Attribution| C[Pride]
+>   A -->|External Attribution| D[Luck]
+>   B -->|Internal Attribution| E[Guilt]
+>   B -->|External Attribution| F[Shame]
+> ```
+
+
+> [!abstract] **Diagram 2 — Causal Taxonomy Framework**
+> *Understand the three dimensions of causality.*
+>
+> ```mermaid
+> graph TD
+>   A[Locus]
+>   B[Stability]
+>   C[Controllability]
+>   A -->|Internal| D(Effort)
+>   A -->|External| E(Task Difficulty)
+>   B -->|Stable| F(Talent)
+>   B -->|Unstable| G(Weather)
+>   C -->|Controllable| H(Self-Control)
+>   C -->|Uncontrollable| I(Organizational Constraints)
+> ```
+
+
+> [!abstract] **Diagram 3 — Emotional Impact of Attributions**
+> *See how attributions affect emotions and motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success]
+>   B[Failure]
+>   C[Pride] -->|Internal Attribution| D[Motivation]
+>   E[Luck] -->|External Attribution| F[Dissatisfaction]
+>   G[Guilt] -->|Internal Attribution| H[Fear of Failure]
+>   I[Shame] -->|External Attribution| J[Helplessness]
+> ```
 
 # Locus of Causality
 

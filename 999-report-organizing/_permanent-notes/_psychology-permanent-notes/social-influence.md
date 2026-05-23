@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Normative vs Informational Influence**
+> *Compare the mechanisms of normative and informational influence.*
+>
+> ```mermaid
+> graph TD
+>   A[Normative]
+>   B[Informational]
+>   A -->|Desire for Acceptance| C[Compliance]
+>   B -->|Seeking Accuracy| D[Belief Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Social Influence Mechanisms**
+> *Understand the pathways of social influence in different scenarios.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Desire for Acceptance] --> B[Normative]
+>   C[Seeking Accuracy] --> D[Informational]
+>   E[Conformity Experiments] -->|Asch's Experiment| F[Public Compliance]
+>   G[Autokinetic Experiment] -->|Sherif's Study| H[Perception Adjustment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Influence in Instructional Settings**
+> *See how social influence applies to educational environments.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Student as S
+>   participant Peer as P
+>   E->>S: Encourages Participation
+>   S->>P: Seeks Feedback
+>   P-->>S: Provides Validation
+>   S->>E: Demonstrates Learning
+> ```
 
 # Social Influence
 

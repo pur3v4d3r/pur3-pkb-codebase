@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Inquiry-Based Learning Process Flow**
+> *Follow the steps from question formulation to explanation construction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formulate Questions] --> B[Gather Evidence]
+>   B --> C[Analyze Data]
+>   C --> D[Construct Explanations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inquiry-Based Learning Cognitive Processes**
+> *Identify the cognitive activities involved in IBL.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognition] --> B[Self-Regulation]
+>   B --> C[Problem-Solving]
+> ```
+
+
+> [!abstract] **Diagram 3 — Inquiry-Based Learning Guidance Levels**
+> *Understand the range of teacher guidance in IBL.*
+>
+> ```mermaid
+> graph TD
+>   A[Highly Structured] --> B[Guided Inquiry]
+>   B --> C[Open Inquiry]
+> ```
 
 # Inquiry-Based Learning
 

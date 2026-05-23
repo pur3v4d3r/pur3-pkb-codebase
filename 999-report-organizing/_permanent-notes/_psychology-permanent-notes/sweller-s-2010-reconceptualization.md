@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Load Components**
+> *Identify the relationship between intrinsic, extraneous, and germane loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B(Germane Load)
+>   C[Extraneous Load] -->|Reduction| D[Working Memory]
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Construction Process**
+> *Follow the stages of schema construction from new information to long-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] --> B[Integration]
+>   B --> C[Practice & Repetition]
+>   C --> D[Schemas]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Focus**
+> *Understand the shift from reducing cognitive load to enhancing learning efficiency.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Learner as L
+>   E->>L: Minimize Extraneous Load
+>   L-->>E: Allocate Working Memory for Schema Construction
+>   E->>L: Facilitate Productive Processing Strategies
+> ```
 
 # Sweller's 2010 Reconceptualization of Cognitive Load
 

@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Categorization Levels**
+> *Identify the different levels of self-categorization.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal]
+>   B[Social Group]
+>   C[Superordinate Human]
+>   A -->|Shift to| B
+>   B -->|Shift to| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Behavioral Influence of Self-Categorization**
+> *Understand how situational cues influence behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Group Identity Salient]
+>   B[Situational Cues]
+>   C[Conform to Group Norms]
+>   D[Individual Preferences]
+>   A -->|Based on| B
+>   B -->|Influence| C
+>   B -->|Undermine| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Categorization vs Social Identity Theory**
+> *Compare the focus of both theories.*
+>
+> ```mermaid
+> classDiagram
+>   class SelfCategorizationTheory{
+>     +ActiveLevelOfCategorization
+>     +SituationalShifts
+>   }
+>   class SocialIdentityTheory{
+>     +GroupIdentityAsPersonalIdentity
+>     +LongTermIdentification
+>   }
+>   SelfCategorizationTheory --> ActiveLevelOfCategorization
+>   SelfCategorizationTheory --> SituationalShifts
+>   SocialIdentityTheory --> GroupIdentityAsPersonalIdentity
+>   SocialIdentityTheory --> LongTermIdentification
+> ```
 
 # Self-Categorization Theory
 

@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Assessment Design Process Flow**
+> *Follow the flow from learning objectives to assessment tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning Objectives] --> B[Design Tasks]
+>   B --> C[Rubric Development]
+>   C --> D[Implementation]
+>   D --> E[Evaluation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constructive Alignment Model**
+> *Trace the alignment between learning outcomes, activities, and assessments.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Outcomes] --> B[Teaching Activities]
+>   B --> C[Assessment Tasks]
+>   A -->|Directly Influences| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop in Assessment Design**
+> *Observe how feedback from assessments informs teaching strategies.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   S->>T: Submit Work
+>   T->>S: Provide Feedback
+>   S->>T: Adjust Learning Strategies
+>   T->>S: Refine Teaching Methods
+> ```
 
 # Assessment Design
 

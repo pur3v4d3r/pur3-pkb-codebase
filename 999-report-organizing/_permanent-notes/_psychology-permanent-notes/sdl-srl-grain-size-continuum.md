@@ -71,8 +71,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Grain Size Continuum Overview**
+> *Follow the continuum from fine to coarse grain.*
+>
+> ```mermaid
+> graph TD
+>   A[Finest Grain]
+>   B[Intermediate Grain]
+>   C[Cohesive Framework]
+>   D[Coarsest Grain]
+>   A -->|SRL| B
+>   B -->|SDL| C
+>   C -->|Heutagogy| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Self-Regulation**
+> *Trace the levels of self-regulation from immediate to long-term.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Immediate Cognitive Processes]
+>   B[Strategic Planning]
+>   C[Lifelong Reflection]
+>   A -->|Fine Grain| B
+>   B -->|Intermediate Grain| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify applications for different grain sizes.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Learning Interventions]
+>   C[Adaptive Learning Systems]
+>   C -->|Immediate Feedback & Planning Tools>
+> ```
 
 # SDL-SRL Grain-Size Continuum
 

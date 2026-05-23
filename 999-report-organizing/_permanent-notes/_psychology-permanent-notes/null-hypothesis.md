@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Null Hypothesis Testing Process**
+> *Follow the flow from data collection to hypothesis rejection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B[Test Setup]
+>   B --> C[Hypothesis Formulation]
+>   C --> D[Calculate P-Value]
+>   D --> E[Compare with Threshold]
+>   E --> F["Reject Null Hypothesis|Fail to Reject"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Null Hypothesis vs Alternative**
+> *Understand the relationship between null and alternative hypotheses.*
+>
+> ```mermaid
+> graph TD
+>   A["Null Hypothesis (H0)"] --> B[No Effect]
+>   C[Alternative Hypothesis] --> D[Effect Exists]
+>   E{Data}
+>   F{P-Value < Threshold?}
+>   G["Reject H0|Fail to Reject"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Null Hypothesis in Scientific Inquiry**
+> *Trace the steps from hypothesis formulation to evidence evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Hypothesis Formulation] --> B[Design Experiment]
+>   B --> C[Collect Data]
+>   C --> D[Test Null Hypothesis]
+>   D --> E[Evaluate Evidence]
+>   E --> F[Draw Conclusion]
+> ```
 
 # Null Hypothesis
 

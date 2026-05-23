@@ -64,8 +64,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Deep Work vs Shallow Work**
+> *Compare the cognitive demands of deep and shallow work.*
+>
+> ```mermaid
+> graph TD
+>   A[Deep Work]
+>   B[Shallow Work]
+>   A -->|High Cognitive Demand| C[Complex Tasks]
+>   B -->|Low Cognitive Demand| D[Fragile Tasks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Deep Work**
+> *Identify the key mechanisms that enable deep work.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Attention Residue]
+>   B[Context Switching Costs]
+>   C[Reduced Performance]
+>   D[Mental Fatigue]
+>   E[Decreased Efficiency]
+>   F[High Cognitive Output]
+>   B -->|Increases Mental Overhead| C
+>   D
+>   E
+>   C -->|Minimized by Deep Work| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Deep Work Applications**
+> *Explore various applications of deep work in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Research]
+>   C[Creative Writing]
+>   C -->|Developing Intricate Narratives| D[High-Quality Output]
+> ```
 
 # Deep Work
 

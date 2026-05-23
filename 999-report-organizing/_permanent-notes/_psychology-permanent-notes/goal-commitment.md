@@ -71,8 +71,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Goal Commitment Components**
+> *Identify the key factors that influence goal commitment.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Importance]
+>   B[Perceived Attainability]
+>   C[Goal Commitment]
+>   A -->|Influences| C
+>   B -->|Influences| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Goal Commitment**
+> *Follow the steps from goal setting to commitment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Specific Goals]
+>   B[Evaluate Importance & Attainability]
+>   C[Develop Commitment]
+>   D[Persist Despite Challenges]
+>   A -->|Evaluate Goal| B
+>   B -->|Formulate Intentions| C
+>   C -->|Face Obstacles| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Implementation Intention Example**
+> *See how implementation intentions translate goal commitment into action.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Trigger as T
+>   participant Action as A
+>   U->>T: Encounter Trigger (e.g., start of workday)
+>   alt Implementation Intention Present
+>     T-->>U: Recall Specific Plan
+>     U->>A: Execute Planned Action (begin working on project)
+>   else No Implementation Intention
+>     U->>?: Decide Next Step
+>   end
+> ```
 
 # Goal Commitment
 

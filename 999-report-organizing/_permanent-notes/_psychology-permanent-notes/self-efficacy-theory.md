@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Efficacy Sources Overview**
+> *Identify the four sources of self-efficacy information.*
+>
+> ```mermaid
+> graph TD
+>   A[Enactive Mastery]
+>   B[Vicarious Experience]
+>   C[Verbal Persuasion]
+>   D[Physiological/Affective States]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Efficacy Impact on Behavior**
+> *Trace the influence of self-efficacy beliefs on behavior and performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief in Capability] --> B[Goal-Setting]
+>   B --> C[Effort Allocation]
+>   C --> D[Persistence During Setbacks]
+>   D --> E[Emotional Responses]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Efficacy Mechanism Flow**
+> *Follow the process of how self-efficacy is shaped and influences behavior.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Enactive Mastery
+>   participant B as Vicarious Experience
+>   participant C as Verbal Persuasion
+>   participant D as Physiological/Affective States
+>   participant E as Self-Efficacy Beliefs
+>   A->>E: Shapes Beliefs
+>   B->>E: Shapes Beliefs
+>   C->>E: Shapes Beliefs
+>   D->>E: Shapes Beliefs
+> ```
 
 # Self-Efficacy Theory
 

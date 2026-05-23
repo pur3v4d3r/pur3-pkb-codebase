@@ -63,8 +63,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Primary vs Secondary Knowledge**
+> *Identify the types of knowledge and their acquisition methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Primary Knowledge]
+>   B[Secondary Knowledge]
+>   A -->|Incidental Learning| C[Enculturation]
+>   B -->|Explicit Instruction| D[Structured Lessons]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Methods Flowchart**
+> *Follow the flow to determine appropriate instructional methods.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Content Type]
+>   B1[Primary Knowledge] -->|Discovery-Based Learning| C1[Efficacy]
+>   B2[Secondary Knowledge] -->|Explicit Instruction| C2[Efficacy]
+> ```
+
+
+> [!abstract] **Diagram 3 — Assessment Methods Comparison**
+> *Compare assessment methods for primary and secondary knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A1[Primary Knowledge] -->|Observation/Naturalistic Settings| B1[Evaluation]
+>   A2[Secondary Knowledge] -->|Standardized Exams| B2[Evaluation]
+> ```
 
 # Evolutionary Educational Psychology
 

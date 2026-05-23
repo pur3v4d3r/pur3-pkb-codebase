@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Autonomy Process Flow**
+> *Follow the steps from evidence evaluation to belief formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Evidence] --> B[Evaluate Reliability]
+>   B --> C[Consider Context]
+>   C --> D[Critically Evaluate Arguments]
+>   D --> E[Form Beliefs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Autonomy vs. Dependence**
+> *Compare the balance between autonomy and dependence on testimony.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Autonomy] --> B[Form Beliefs Through Evaluation]
+>   C[Epistemic Dependence] --> D[Rely On Testimony]
+>   E[Balance Ideal] --> A
+>   E --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Processes in Autonomy**
+> *Identify the key cognitive skills involved in achieving autonomy.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognize Cognitive Limits] --> B[Evaluate Reliability]
+>   C[Assess Sources] --> D[Critically Evaluate Arguments]
+>   E[Integrate Information] --> F[Form Beliefs]
+> ```
 
 # Epistemic Autonomy
 

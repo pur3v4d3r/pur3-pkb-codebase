@@ -71,8 +71,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Processing Fluency Mechanism**
+> *Follow the flow from object-level processing to meta-level inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Object Level]
+>   B[Meta-Level Inference]
+>   A -->|Fluency as Cue| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Processing Fluency vs Learning Strength**
+> *Compare the relationship between fluency and actual learning.*
+>
+> ```mermaid
+> graph TD
+>   A[High Processing Fluency]
+>   B[Low Actual Learning]
+>   C[Low Processing Fluency]
+>   D[High Actual Learning]
+>   A -->|Misleading Confidence| B
+>   C -->|Accurate Assessment| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Fluency Illusion in Practice**
+> *Trace the path from easy processing to overconfidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Easy Processing]
+>   B[Rereading Material]
+>   C[Feeling Confident]
+>   D[Poor Exam Performance]
+>   A -->|Due To| B
+>   B -->|Leads To| C
+>   C -->|Results In| D
+> ```
 
 # Processing Fluency
 

@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Enactive Mastery Cycle**
+> *Follow the cycle from goal setting to reflection.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal Setting] --> B[Engagement]
+>   B --> C[Feedback]
+>   C --> D[Reflection]
+>   D --> E[Outcome Interpretation]
+>   E --> F[Self-Efficacy Reinforcement]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Enactive Mastery vs. Other Experiences**
+> *Compare enactive mastery with other types of experiences.*
+>
+> ```mermaid
+> graph TD
+>   A[Exposure] -->|Not Personal| B[Attempt]
+>   C[Success] --> D[Enactive Mastery]
+>   E[Failure] --> F[Learning Opportunity]
+>   G[Vicarious Learning] --> H[External Validation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Enactive Mastery**
+> *Identify different contexts where enactive mastery is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Challenging Tasks]
+>   C[Corporate Training] --> D[Hands-On Activities]
+>   E[Physical Therapy] --> F[Progressive Exercises]
+>   G[MOOCs] --> H[Spaced Retrieval]
+> ```
 
 # Enactive Mastery Experience
 

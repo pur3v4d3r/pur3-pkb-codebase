@@ -64,8 +64,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Incubation Process Flow**
+> *Follow the flow from problem to solution through incubation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Work on Problem]
+>   B --> C[Take Break]
+>   C --> D[Integrate New Info]
+>   D --> E[Return to Problem]
+>   E --> F[Solve Problem]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spreading Activation Mechanism**
+> *Trace the connections between related concepts during incubation.*
+>
+> ```mermaid
+> graph TD
+>   A[Problem Concept] --> B[Related Info]
+>   B --> C[Unrelated Activity]
+>   C --> D[New Associations]
+>   D --> E[Solution Insight]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify the applications in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Enhanced Learning]
+>   C[Creative Problem-Solving] --> D[Innovative Solutions]
+>   E[Personal Productivity] --> F[Better Thinking]
+>   G[Spaced Retrieval in MOOCs] --> H[Effective Memory]
+> ```
 
 # Incubation Effect
 

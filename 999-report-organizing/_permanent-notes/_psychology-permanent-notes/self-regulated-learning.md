@@ -69,8 +69,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SRL Process Flow**
+> *Follow the cyclical phases of SRL: forethought, performance, and self-reflection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Forethought] --> B[Performance]
+>   B --> C[Self-Reflection]
+>   C --> D[Evaluation]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — SRL Components Hierarchy**
+> *Identify the three main components of SRL: metacognition, motivation, and behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognition]
+>   B[Motivation]
+>   C[Behavior]
+>   subgraph Self-Regulated Learning
+>     A -->|manages| B
+>     B -->|drives| C
+>     C -->|actions| A
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — SRL vs SDL Comparison**
+> *Compare SRL and SDL in terms of goal setting and autonomy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant SRL as srl
+>   participant SDL as sdl
+>   Note right of srl: Manages tasks within structure.
+>   Note right of sdl: Sets personal goals and agendas.
+>   srl->>sdl: Provides internal regulatory mechanisms for SDL
+> ```
 
 # Self-Regulated Learning
 

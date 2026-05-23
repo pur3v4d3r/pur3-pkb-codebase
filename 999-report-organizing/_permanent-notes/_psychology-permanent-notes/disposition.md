@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Disposition vs Abilities**
+> *Compare dispositions with intellectual abilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Abilities]
+>   B[Dispositions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Disposition Formation Process**
+> *Follow the process of forming and deploying dispositions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Experiences]
+>   B[Social Influences]
+>   C[Personal Values]
+>   D[Integration]
+>   E[Stable Inclinations]
+>   F[Cognitive Engagement]
+>   G[Reasoning Outcomes]
+>   E -->|Deploy| F
+>   F -->|Impact| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Disposition Applications**
+> *See how dispositions are applied in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Mentorship]
+>   C[Policy-Making]
+> ```
 
 # Disposition
 

@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Directed Learning Dimensions**
+> *Identify the three interdependent dimensions of self-directed learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Management]
+>   B[Self-Monitoring]
+>   C[Motivation]
+>   A -->|Supports| B
+>   B -->|Enhances| C
+>   C -->|Drives| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Cyclical Process of Self-Directed Learning**
+> *Follow the cyclical interaction between self-management, monitoring, and motivation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A : Start with Motivation
+>   A : Motivation
+>   A --> B : Seek Resources (Self-Management)
+>   B : Self-Management
+>   B --> C : Reflect on Progress (Self-Monitoring)
+>   C : Self-Monitoring
+>   C --> D : Adjust Strategies
+>   D : Strategy Adjustment
+>   D --> A : Reinforce Motivation
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Dimensions**
+> *See how each dimension is supported in instructional design and adult education.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Adult Education]
+>   C[Self-Management]
+>   D[Self-Monitoring]
+>   E[Motivation]
+>   A -->|Structured Resources| C
+>   A -->|Reflective Journaling| D
+>   A -->|Meaningful Goals| E
+>   B -->|Flexible Scheduling| C
+>   B -->|Regular Feedback| D
+>   B -->|Goal Setting & Reflection| E
+> ```
 
 # Garrison's Comprehensive Model of Self-Directed Learning
 

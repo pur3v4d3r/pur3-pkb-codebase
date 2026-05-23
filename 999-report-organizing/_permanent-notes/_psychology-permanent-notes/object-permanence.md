@@ -65,8 +65,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Object Permanence Development Timeline**
+> *Follow the timeline from early to later stages of development.*
+>
+> ```mermaid
+> graph TD
+>   A[3-4 months]
+>   B(6-8 months)
+>   C[Later stages]
+>   A -->|Looking-time successes| B
+>   B -->|Conceptual understanding| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Object Permanence Mechanism Overview**
+> *Trace the cognitive processes involved in object permanence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Visual cues]
+>   B[Anticipate occlusions]
+>   C[Recognize reappearance]
+>   D[Working memory]
+>   E[Attentional control]
+>   A -->|Process| B
+>   B -->|Integrate with| C
+>   C -->|Engage| D & E
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Object Permanence**
+> *Compare recognition and recall processes involved.*
+>
+> ```mermaid
+> graph TD
+>   A[Recognition]
+>   B[Recall]
+>   B -->|Working memory & conceptual understanding
+> ```
 
 # Object Permanence
 

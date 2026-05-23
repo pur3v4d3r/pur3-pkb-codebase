@@ -66,8 +66,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Regulatory Styles Hierarchy**
+> *Follow the progression from external to integrated regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[External]
+>   B[Introjected] -->|Conditional Motivation| C[Identified]
+>   D[Integrated] -->|Autonomy and Intrinsic Satisfaction| E[Self-Endorsed]
+>   A --> B
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Internalization**
+> *Trace the stages from external to integrated regulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Rewards/Punishments] --> B[Introjected Regulation]
+>   B --> C[Conditional Motivation]
+>   C --> D[Identified Regulation]
+>   D --> E[Integrated Regulation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Contextual Influences on Internalization**
+> *Notice how autonomy-supportive and controlling environments affect the internalization process.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Autonomy-Supportive Environment
+>   participant B as Controlling Environment
+>   A->>C: Fosters Identified Regulation
+>   C->>A: Positive Feedback Loop
+>   B->>D: Promotes Introjected Regulation
+>   D->>B: Negative Feedback Loop
+> ```
 
 # Organismic Integration Theory
 

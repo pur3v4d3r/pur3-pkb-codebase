@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Externalized Cognitive Process Flow**
+> *Follow the flow from internal cognition to external tools and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Internal Cognition] --> B(Project Directory)
+>   B --> C(Enhanced Understanding)
+>   C --> D(Feedback Loop)
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Collaborative Development Workflow**
+> *Track the interaction between developers and version control systems.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Developer] --> B(Project Directory)
+>   B --> C(Code Changes)
+>   C --> D(Version Control System)
+>   D --> E(Historical Records)
+>   E --> F(Collaborative Workflow)
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load Reduction**
+> *Identify how external tools reduce extraneous cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Complexity] --> B(Intrinsic Load)
+>   C(Project Directory) --> D(External Tools)
+>   E[Extraneous Load] --> F(Cognitive Burden Reduction)
+>   G[Efficiency Improvement]
+> ```
 
 # Externalized Cognitive Architecture
 

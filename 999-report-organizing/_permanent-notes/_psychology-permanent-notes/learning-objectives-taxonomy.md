@@ -65,8 +65,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bloom's Taxonomy Levels**
+> *Identify the cognitive complexity levels from Remember to Create.*
+>
+> ```mermaid
+> graph TD
+>   A[Remember] --> B[Understand]
+>   B --> C[Apply]
+>   C --> D[Analyze]
+>   D --> E[Evaluate]
+>   E --> F[Create]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Design Flow**
+> *Follow the progression from basic recall to complex thinking skills.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Remember] --> B[Understand]
+>   B --> C[Apply]
+>   C --> D[Analyze]
+>   D --> E[Evaluate]
+>   E --> F[Create]
+> ```
+
+
+> [!abstract] **Diagram 3 — Assessment Design Alignment**
+> *Match assessment types to cognitive levels from Remember to Create.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant R as Remember
+>   participant U as Understand
+>   participant A as Apply
+>   participant An as Analyze
+>   participant E as Evaluate
+>   participant C as Create
+>   R->>R: Multiple Choice Questions
+>   U->>U: Short Answer Questions
+>   A->>A: Problem Solving Tasks
+>   An->>An: Case Studies
+>   E->>E: Essay Prompts
+>   C->>C: Project Proposals
+> ```
 
 # Learning Objectives Taxonomy
 

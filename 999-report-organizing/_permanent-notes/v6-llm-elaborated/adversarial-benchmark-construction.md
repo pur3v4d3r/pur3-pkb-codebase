@@ -67,8 +67,42 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adversarial Benchmark Process Flow**
+> *Follow the steps from human annotation to benchmark creation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Failure Cases] --> B[Construct Tasks]
+>   B --> C[Test Responses]
+>   C --> D[Refine Benchmarks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adversarial vs Standard Benchmarking Comparison**
+> *Compare the focus of adversarial and standard benchmarking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Benchmarking] -->|General Assessment| E[Overall Performance]
+>   B[Adversarial Benchmarking] -->|Targeted Weaknesses| F[Specific Failures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Areas of Adversarial Benchmarking**
+> *Identify the different application areas where adversarial benchmarking is used.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 ## Core Explanation
 

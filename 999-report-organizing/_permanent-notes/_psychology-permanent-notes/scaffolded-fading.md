@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scaffolded Fading Process Flow**
+> *Follow the stages from full to partial support, then independence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Support] --> B[Partial Support]
+>   B --> C[Independence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolded Fading Mechanism Stages**
+> *Identify the stages and markers for each phase of scaffolded fading.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Full Support] --> B[Partial Support]
+>   B --> C[Independence]
+>   A -->|Subjective Markers| D[Readiness Assessment]
+>   B -->|Behavioral Markers| E[Stable Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Scaffolded Fading in Cognitive Load Theory**
+> *Trace the reduction of external support to manage cognitive load.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Support as S
+>   L->>S: Initial Full Support
+>   S-->>L: Detailed Instructions
+>   L->>S: Reduced Support
+>   S-->>L: Less Guidance
+>   L->>S: Independence
+>   S-->>L: No External Assistance
+> ```
 
 # Scaffolded Fading
 

@@ -72,8 +72,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Architecture Overview**
+> *Identify the key components and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B(Long-Term Memory)
+>   C(Schema Construction)
+>   A -->|Manipulates Information| C
+>   C -->|Refines Knowledge| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Information Processing Flow**
+> *Follow the flow of information from input to long-term storage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Working Memory]
+>   C[Encoding]
+>   D[Long-Term Memory]
+>   A -->|Brief Holding and Manipulation| B
+>   B -->|Linking to Existing Schemas| C
+>   C -->|Storing in Long-Term Memory| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory**
+> *Understand the types of cognitive load and their impact on learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Germane Load]
+>   D[Evaluation]
+>   A -->|Natural Complexity| D
+>   B -->|Unnecessary Information| D
+>   C -->|Schema Construction| D
+> ```
 
 # Cognitive Architecture
 

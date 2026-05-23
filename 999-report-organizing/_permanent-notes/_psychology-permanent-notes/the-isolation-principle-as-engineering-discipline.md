@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Isolation Principle Overview**
+> *Follow the flow from project setup to dependency management.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Project Setup] --> B(Create Virtual Environment)
+>   B --> C(Install Dependencies)
+>   C --> D(Maintain Requirements.txt)
+> ```
+
+
+> [!abstract] **Diagram 2 — Dependency Management Process**
+> *Track the steps from creating a requirements file to installing packages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create requirements.txt] --> B(List Dependencies)
+>   B --> C(Install with pip)
+>   C --> D(Verify Installation)
+> ```
+
+
+> [!abstract] **Diagram 3 — Isolation in CI Pipelines**
+> *See how isolated environments ensure consistent builds.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Developer as Dev
+>   participant CI Server as CI
+>   participant Virtual Environment as VE
+>   Dev->>CI: Push Code Changes
+>   CI->>VE: Create Isolated Environment
+>   CI->>VE: Install Dependencies from requirements.txt
+>   CI-->>Dev: Build Status
+> ```
 
 # The Isolation Principle
 

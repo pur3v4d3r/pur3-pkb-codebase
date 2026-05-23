@@ -68,8 +68,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Inquisitiveness vs Curiosity Flowchart**
+> *Follow the path to understand differences between inquisitiveness and curiosity.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B{Immediate Utility}
+>   B -->|No| C[Inquisitiveness]
+>   B -->|Yes| D[Curiosity]
+>   C --> E[Sustained Interest]
+>   D --> F[Fleeting Engagement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking Process**
+> *Trace the paths to see how reflective and reactive thinking differ in their approaches.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B{Deep Consideration}
+>   B -->|Yes| C[Reflective]
+>   B -->|No| D[Reactive]
+>   C --> E[Sustained Engagement]
+>   D --> F[Immediate Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — Inquisitiveness Disposition Hierarchy**
+> *Follow the hierarchy to understand the components of inquisitive disposition.*
+>
+> ```mermaid
+> graph TD
+>   A[Inquisitiveness]
+>   B[Metacognition]
+>   C[Cognitive Engagement]
+>   D[Emotional Motivation]
+>   E[Sustained Effort]
+>   F[Deep Understanding]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+>   A --> F
+> ```
 
 # Inquisitiveness As Disposition
 

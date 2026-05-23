@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Supportive Information & Learning Tasks Interaction**
+> *Follow the flow from supportive information to learning tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Supportive Info] --> B[Learning Tasks]
+>   B --> C[Integration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Construction Process Flow**
+> *Trace the steps from initial models to schema integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Models] --> B[Cognitive Strategies]
+>   B --> C[Diverse Tasks]
+>   C --> D[Integration]
+> ```
+
+
+> [!abstract] **Diagram 3 — Gradual Complexity in Learning Tasks**
+> *Observe the progression from simple to complex tasks.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Task] --> B[Complex Task]
+>   B --> C[Diverse Contexts]
+> ```
 
 # The Coordination Thesis for Schema Construction
 

@@ -63,8 +63,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scientific Communication Channels**
+> *Follow the flow from manuscript to public engagement.*
+>
+> ```mermaid
+> graph TD
+>   A[Manuscript Writing] --> B[Peer Review]
+>   B --> C[Journal Publication]
+>   A --> D[Preprint Posting]
+>   D --> E[Conference Presentation]
+>   C --> F[Integration into Knowledge Base]
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Journal Choice**
+> *Compare the effects of high vs low impact factor journals.*
+>
+> ```mermaid
+> graph TD
+>   A[High Impact Factor] --> B[Citations]
+>   A --> C[Scrutiny]
+>   D[Low Impact Factor] --> E[Citations]
+>   E -.-> F[Integration]
+>   D --> G[Scrutiny]
+> ```
+
+
+> [!abstract] **Diagram 3 — Communication Mechanisms**
+> *Trace the influence of framing, reporting, and design.*
+>
+> ```mermaid
+> graph TD
+>   A[Framing] --> B[Citations]
+>   C[Statistical Reporting] --> D[Replication]
+>   E[Figure Design] --> F[Integration]
+>   G[Journal Choice] --> H[Visibility]
+> ```
 
 # Scientific Communication
 

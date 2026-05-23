@@ -70,8 +70,55 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Basic Psychological Needs Overview**
+> *Identify the three core needs and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   A -->|Interacts With| B
+>   A -->|Interacts With| C
+>   B -->|Interacts With| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Need Frustration**
+> *Understand the consequences of need frustration across different stages.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Adolescence:AutonomyFrustration
+>   Adolescence:AutonomyFrustration -->|Identity Diffusion| [*]
+>   [*] --> Adulthood:AutonomyFrustration
+>   Adulthood:AutonomyFrustration -->|Reduced Motivation| [*]
+>   [*] --> OlderAdults:RelatednessFrustration
+>   OlderAdults:RelatednessFrustration -->|Loneliness| [*]
+> ```
+
+
+> [!abstract] **Diagram 3 — Satisfaction Mechanism Flow**
+> *Trace the flow from need satisfaction to organismic integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Need Satisfaction]
+>   B[Organismic Integration]
+>   C[Motivational Dysregulation]
+>   D[Need Frustration]
+>   A -->|Enables| B
+>   D -->|Leads To| C
+> ```
 
 # Basic Psychological Needs
 

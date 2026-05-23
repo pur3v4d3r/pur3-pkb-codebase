@@ -70,8 +70,71 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PERMA Model Components**
+> *Follow the interconnected components for well-being.*
+>
+> ```mermaid
+> graph TD
+>   P[Positive Emotion]
+>   E[Engagement]
+>   R[Relationships]
+>   M[Meaning]
+>   A[Achievement]
+>   P -->|contributes to| E
+>   E -->|enhances| R
+>   R -->|strengthens| M
+>   M -->|guides| A
+>   A -->|supports| P
+> ```
+
+
+> [!abstract] **Diagram 2 — Ryff's Six-Factor Model**
+> *Trace the factors contributing to psychological flourishing.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B(Environmental Mastery)
+>   C(Personal Growth)
+>   D(Positive Relations with Others)
+>   E(Purpose in Life)
+>   F(Self-Acceptance)
+>   A -->|contributes to| B
+>   B -->|supports| C
+>   C -->|promotes| D
+>   D -->|strengthens| E
+>   E -->|guides| F
+>   F -->|completes| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Therapy**
+> *Follow the steps to apply PERMA model in therapy.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Client as C
+>   participant Therapist as T
+>   T->>C: Identify positive emotions
+>   C-->>T: Share experiences
+>   T->>C: Engage in meaningful activities
+>   C-->>T: Reflect on progress
+>   T->>C: Build supportive relationships
+>   C-->>T: Strengthen connections
+>   T->>C: Find purpose and meaning
+>   C-->>T: Discuss values and goals
+>   T->>C: Set achievable goals
+>   C-->>T: Track accomplishments
+> ```
 
 # Psychological Flourishing
 

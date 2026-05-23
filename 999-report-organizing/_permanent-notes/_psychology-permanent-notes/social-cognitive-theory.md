@@ -68,8 +68,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Triadic Reciprocal Process Overview**
+> *Follow the arrows to see how cognition, behavior, and environment interact.*
+>
+> ```mermaid
+> graph TD
+>   A[Behavior] --> B[Cognition]
+>   B --> C[Environment]
+>   C --> D[Behavior]
+>   D --> E[Cognition]
+>   E --> F[Environment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Social Cognitive Theory**
+> *Identify the four key sources of efficacy information and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Enactive Mastery]
+>   B[Vicarious Experience]
+>   C[Verbal Persuasion]
+>   D[Affective States]
+>   A -->|Influences| E[Cognition]
+>   B -->|Influences| E
+>   C -->|Influences| E
+>   D -->|Influences| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications in Instructional Design and Therapy**
+> *See how different applications leverage the theory's mechanisms.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Therapy]
+>   C[Enactive Mastery]
+>   D[Vicarious Experience]
+>   E[Verbal Persuasion]
+>   F[Affective States]
+>   A -->|Hands-on Practice| C
+>   A -->|Peer Examples| D
+>   B -->|Modeling Techniques| D
+>   B -->|Verbal Encouragement| E
+> ```
 
 # Social Cognitive Theory
 

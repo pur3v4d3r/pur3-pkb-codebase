@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Accommodation Process Flowchart**
+> *Follow the steps from recognizing discrepancy to schema integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Discrepancy] --> B[Generate Hypotheses]
+>   B --> C[Test Hypotheses]
+>   C --> D[Integrate New Info]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Disequilibrium and Accommodation**
+> *Trace the path from disequilibrium to accommodation or rejection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Existing Schema] --> B[Cognitive Disequilibrium]
+>   B --> C[Acommodate]
+>   B --> D[Reject]
+> ```
+
+
+> [!abstract] **Diagram 3 — Accommodation in Learning Contexts**
+> *Identify the stages from initial challenge to schema modification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Challenge Existing Schema] --> B[Cognitive Disequilibrium]
+>   B --> C[Test Hypotheses]
+>   C --> D[Integrate New Knowledge]
+> ```
 
 # Accommodation
 

@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Performance vs Self-Assessment**
+> *Follow the arrows to see how performance relates to self-assessment.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Ability] --> B[Overestimate]
+>   C[High Ability] --> D[Underestimate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Process Flow**
+> *Trace the flow from incompetence to overestimation and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Incompetence] --> B[Lack of Metacognition]
+>   B --> C[Overestimate Competence]
+>   D[Competence] --> E[Awareness of Limitations]
+>   E --> F[Underestimate Competence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Mechanisms in Education**
+> *Identify the feedback loop that helps learners accurately assess their competence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   participant Self-Assessment as SA
+>   S->>SA: Perform Task
+>   SA-->>S: Initial Assessment
+>   S->>E: Seek Feedback
+>   E-->>S: Constructive Feedback
+>   S->>SA: Adjust Understanding
+> ```
 
 # Dunning-Kruger Effect
 

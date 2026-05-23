@@ -65,8 +65,57 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Atomic Note Structure Overview**
+> *Identify the key components of an Atomic Note.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Idea]
+>   B[Named as Claim]
+>   C[Self-contained]
+>   D[Linkable and Reusable]
+>   A -->|Focus| B
+>   B -->|Title| C
+>   C -->|Identity| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Atomic Note vs Evergreen Notes**
+> *Compare the focus of Atomic Notes and Evergreen Notes.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomic Notes]
+>   B[Evergreen Notes]
+>   C[Intrinsic Load Focus]
+>   D[Permanence Focus]
+>   A -->|Focus on| C
+>   B -->|Focus on| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Atomic Note Mechanism Flow**
+> *Follow the process of creating and linking Atomic Notes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Clear Idea]
+>   B[Named as Claim]
+>   C[Link Independently]
+>   D[Integrate into Network]
+>   A -->|Name| B
+>   B -->|Link| C
+>   C -->|Connect| D
+> ```
 
 # Atomic Notes
 

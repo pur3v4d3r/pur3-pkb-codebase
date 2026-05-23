@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Guided Discovery Process Flow**
+> *Follow the flow from initial problem to solution with decreasing guidance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Problem] --> B[Prompt and Hints]
+>   B --> C[Partial Solution]
+>   C --> D[Reduced Guidance]
+>   D --> E[Solution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Management in Guided Discovery**
+> *Identify how intrinsic and extraneous load are managed through structured guidance.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B[Task Complexity]
+>   C[Extraneous Load] --> D[Presentation Style]
+>   E[Guided Discovery] --> F[Structured Guidance]
+>   F --> G[Cognitive Overload Reduction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Guided Discovery**
+> *Compare reflective thinking promoted by guided discovery with reactive thinking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Instructor as I
+>   L->>I: Encounter Problem
+>   I->>L: Provide Prompt and Hints
+>   L-->>L: Reflect on Strategies
+>   L->>I: Seek Further Guidance
+> ```
 
 # Guided Discovery
 

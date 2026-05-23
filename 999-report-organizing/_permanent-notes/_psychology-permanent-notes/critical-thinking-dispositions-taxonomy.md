@@ -65,8 +65,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Critical Thinking Dispositions Hierarchy**
+> *Follow the hierarchy from general to specific dispositions.*
+>
+> ```mermaid
+> graph TD
+>   A[Truth-Seeking]
+>   B[Open-Mindedness]
+>   C[Systematicity]
+>   D[Self-Confidence in Reasoning]
+>   E[Inquisitiveness]
+>   F[Maturity of Judgment]
+>   A -->|Includes| G[Core Dispositions]
+>   B -->|Includes| G
+>   C -->|Includes| G
+>   D -->|Includes| G
+>   E -->|Includes| G
+>   F -->|Includes| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Dispositional Impact on Reasoning**
+> *Trace the influence of dispositions on reasoning outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Truth-Seeking] --> B[Well-Reasoned Arguments]
+>   C[Open-Mindedness] --> D[Balanced Perspectives]
+>   E[Systematicity] --> F[Logical Consistency]
+>   G[Self-Confidence in Reasoning] --> H[Willingness to Engage]
+>   I[Inquisitiveness] --> J[Curiosity and Reflection]
+>   K[Maturity of Judgment] --> L[Cautious Conclusions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dispositional Facilitation vs Hindrance**
+> *Identify how dispositions can both aid and impede reasoning.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TruthSeeking : High
+>   TruthSeeking --> WellReasoned : Produces Balanced Arguments
+>   TruthSeeking --> BiasedConclusions : Overconfidence Leads to Bias
+>   [*] --> OpenMindedness : High
+>   OpenMindedness --> BalancedPerspectives : Encourages Fair Consideration
+>   OpenMindedness --> PrematureConclusion : Lack of Rigor in Analysis
+> ```
 
 # Critical Thinking Dispositions Taxonomy
 

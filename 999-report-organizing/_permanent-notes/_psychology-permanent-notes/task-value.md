@@ -69,8 +69,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Value Components**
+> *Identify the four dimensions of task value.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic]
+>   B[Attainment]
+>   C[Utility]
+>   D[Cost]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6f6,stroke:#333,stroke-width:4px
+>   style C fill:#66f,stroke:#333,stroke-width:4px
+>   style D fill:#f66,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Value Interaction During Forethought**
+> *Follow the flow of task value components in planning engagement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic] --> B[Attainment]
+>   B --> C[Utility]
+>   C --> D[Cost]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6f6,stroke:#333,stroke-width:4px
+>   style C fill:#66f,stroke:#333,stroke-width:4px
+>   style D fill:#f66,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Value in Self-Regulated Learning Phases**
+> *Trace the role of task value across forethought, performance, and self-reflection phases.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Forethought
+>   Forethought --> Performance
+>   Performance --> SelfReflection
+>   SelfReflection --> [*]
+>   Forethought: Activate Task Value
+>   Performance: Monitor Engagement
+>   SelfReflection: Adjust Strategies
+> ```
 
 # Task Value
 

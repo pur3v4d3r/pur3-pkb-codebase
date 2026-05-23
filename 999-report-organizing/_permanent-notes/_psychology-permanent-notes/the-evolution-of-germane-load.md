@@ -63,8 +63,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Allocation Process**
+> *Follow the flow of working memory from extraneous to schema construction.*
+>
+> ```mermaid
+> graph TD
+>   A[Extraneous Load]
+>   B[Freed-Up Capacity]
+>   C[Schema Construction]
+>   B -->|Reallocate Working Memory| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Instructional Design Workflow**
+> *Trace the steps from simplifying content to enhancing schema construction.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Problem]
+>   B[Simplify Steps]
+>   C[Freed-Up Working Memory]
+>   D[Integrate New Info]
+>   C -->|Focus on Concepts| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Shift**
+> *Compare the original model with the re-positioned germane load concept.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic]
+>   B[Extraneous]
+>   C[Germane]
+>   D[Freed-Up Capacity]
+>   E[Schema Construction]
+>   subgraph Original Model
+>     B -->|+| C
+>   end
+>   subgraph Re-Positioned Model
+>     D -->|Reallocate| E
+>   end
+> ```
 
 # The Evolution Of Germane Load
 

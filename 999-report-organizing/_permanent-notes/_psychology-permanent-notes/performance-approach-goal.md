@@ -66,8 +66,73 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Achievement Goal Theory Hierarchy**
+> *Identify the position of Performance-Approach Goals within Achievement Goal Theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance-Goals]
+>   B[Mastery-Goals]
+>   C[Approach]
+>   D[Avoidance]
+>   E[Performance-Approach]
+>   F[Mastery-Approach]
+>   G[Performance-Avoidance]
+>   A -->|sub-type| C
+>   A -->|sub-type| D
+>   B -->|sub-type| C
+>   B -->|sub-type| D
+>   C -->|type| E
+>   C -->|type| F
+>   D -->|type| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Performance-Approach Goal Mechanisms**
+> *Understand the cognitive and motivational factors driving Performance-Approach Goals.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Desire to Outperform]
+>   B[Cognitive Strategies]
+>   C[Motivational Factors]
+>   D[Intrinsic Motivation]
+>   E[Effortful Processing]
+>   F[Positive Valence]
+>   G[Elaborative Rehearsal]
+>   H[Deep-Level Processing]
+>   A -->|triggers| B
+>   A -->|drives| C
+>   B -->|includes| E
+>   B -->|includes| H
+>   C -->|leads to| D
+>   C -->|enhances| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance-Approach Goal Contexts**
+> *Explore the contexts where Performance-Approach Goals are most prevalent.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Peer as P
+>   participant Teacher as T
+>   participant Assessment as A
+>   S ->> P: Compete with peers
+>   S ->> A: Seek higher grades
+>   T ->> S: Encourage competition
+>   A ->> S: Provide rankings
+> ```
 
 # Performance-Approach Goal
 

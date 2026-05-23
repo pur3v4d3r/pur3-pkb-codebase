@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Isolated Elements Process Flow**
+> *Follow the sequence from isolation to reintroduction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Isolate Elements]
+>   B --> C[Encode Individually]
+>   C --> D[Introduce Relations]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Theory Integration**
+> *Identify how intrinsic load is managed through isolation.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Material] --> B[High Intrinsic Load]
+>   B --> C[Isolated Elements]
+>   C --> D[Reduced Cognitive Load]
+>   D --> E[Introduce Relations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Steps**
+> *Trace the steps from initial isolation to full integration.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Instructor as I
+>   participant Learner as L
+>   I->>L: Present Isolated Elements
+>   L-->>I: Encode Individually
+>   I->>L: Reintroduce Relations
+>   L-->>I: Understand Full Structure
+> ```
 
 # Isolated Elements Effect
 

@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Affect Heuristic Process Flow**
+> *Follow the flow from emotional response to judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Emotional Response] --> B[Rapid Evaluation]
+>   B --> C[Judgment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Affect Heuristic vs Availability Heuristic**
+> *Compare the bases of judgment for each heuristic.*
+>
+> ```mermaid
+> graph TD
+>   A[Emotional Reaction] -->|Affect Heuristic| C[Judgment]
+>   B[Easily Recalled Info] -->|Availability Heuristic| D[Judgment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Risk-Benefit Perception Inversion**
+> *Observe how perceived risk and benefit can inversely correlate.*
+>
+> ```mermaid
+> graph TD
+>   A[Severe Side Effects] -->|Perceived Risk High| B[Benefit Low]
+>   C[Mild Side Effects] -->|Perceived Risk Low| D[Benefit High]
+> ```
 
 # Affect Heuristic
 

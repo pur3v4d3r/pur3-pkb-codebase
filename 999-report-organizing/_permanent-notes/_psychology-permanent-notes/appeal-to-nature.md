@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Appeal To Nature Fallacy Structure**
+> *Follow the flow from misunderstanding to fallacious conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Misunderstanding of 'Natural'"] --> B["Assumption of Inherent Goodness"]
+>   B --> C["Neglecting Evidence"]
+>   C --> D["Fallacious Conclusion"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Appeal To Nature in Health and Policy**
+> *Identify how the fallacy manifests in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Health & Wellness] --> B["Natural = Better"]
+>   C[Environmental Policy] --> D["Simplistic Conservation"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare the two thinking styles in relation to fallacy.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective] --> B["Evaluates Evidence"]
+>   C[Reactive] --> D["Accepts Claims Quickly"]
+> ```
 
 # Appeal To Nature
 

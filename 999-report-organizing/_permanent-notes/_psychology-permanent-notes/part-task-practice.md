@@ -68,8 +68,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Part-task Practice Mechanism**
+> *Follow the flow from skill repetition to automation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Skill Repetition] --> B[Automation]
+>   B --> C[Integrated Performance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Part-task vs Whole-task Integration**
+> *Trace the balance between part-task and whole-task practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Whole-Task Practice] --> B[Integrated Performance]
+>   C[Part-Task Practice] --> D[Automated Skills]
+>   D -->|Integrated| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Skill Automation Process**
+> *Identify the stages from initial learning to automation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> InitialLearning
+>   InitialLearning --> PracticeRepetition
+>   PracticeRepetition --> SkillAutomation
+>   SkillAutomation -->|Integrated Performance| End
+> ```
 
 # Part-Task Practice
 

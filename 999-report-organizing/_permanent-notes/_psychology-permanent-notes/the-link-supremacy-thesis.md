@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Associative Linking Process**
+> *Follow the flow from input to output, noting how connections activate related nodes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Activation]
+>   B --> C[Related Nodes]
+>   C --> D[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Link Supremacy Hierarchy**
+> *Observe the structure from top to bottom, highlighting the dominance of links over folders.*
+>
+> ```mermaid
+> graph TD
+>   A[PKM System]
+>   B[Notes] -->|Links| C[Connections]
+>   D[Folders] -->|Hierarchy| E[Topics]
+> ```
+
+
+> [!abstract] **Diagram 3 — Spreading Activation Model**
+> *Trace the activation flow from one node to another, showing how connections influence recall.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Node1] -->|Activation| B[Node2]
+>   B -->|Activation| C[Node3]
+>   C -->|Activation| D[Node4]
+> ```
 
 # Link Supremacy Thesis
 

@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CAS Interaction Flow**
+> *Follow the flow from agents to emergent behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Agents] --> B[Local Rules]
+>   B --> C[Interactions]
+>   C --> D[Emergent Behavior]
+> ```
+
+
+> [!abstract] **Diagram 2 — CAS Adaptation Mechanisms**
+> *Trace the pathways of adaptation through learning and evolution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Environment] --> B[Feedback]
+>   B --> C[Learning]
+>   B --> D[Evolution]
+>   B --> E[Selection]
+> ```
+
+
+> [!abstract] **Diagram 3 — CAS Applications Overview**
+> *Compare the applications in instructional design, urban planning, and MOOCs.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Dynamic & Adaptive| B[Curricula]
+>   C[Urban Planning] -->|Resilient to Change| D[Infrastructure]
+>   E[MOOCs] -->|Spaced Retrieval| F[Cognitive Systems]
+> ```
 
 # Complex Adaptive Systems
 

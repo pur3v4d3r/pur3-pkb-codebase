@@ -69,8 +69,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mental Contrasting Process Flow**
+> *Follow the steps from imagining a future to commitment formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Imagining Future]
+>   B[Contrast with Obstacles]
+>   C[Expectancy-Dependent Commitment]
+>   A --> B
+>   B -->|Feasible| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mental Contrasting Mechanism Overview**
+> *Trace the two-step process from positive imagery to heightened awareness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Imagery]
+>   B[Contrast with Obstacles]
+>   C[Awareness of Challenges]
+>   D[Expectancy-Dependent Commitment]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Mental Contrasting Applications in Domains**
+> *Identify the domains where Mental Contrasting is applied and their specific goals.*
+>
+> ```mermaid
+> graph TD
+>   A[Academic Performance]
+>   B[Health Behaviors]
+>   C[Professional Development]
+>   A -->|Visualize Benefits & Obstacles| D1[Set Realistic Goals]
+>   B -->|Visualize Benefits & Obstacles| E1[Plan to Overcome Challenges]
+>   C -->|Visualize Benefits & Obstacles| F1[Develop Action Plans]
+>   D1 -->|Enhanced Motivation| A
+>   E1 -->|Behavior Change Success| B
+>   F1 -->|Career Advancement| C
+> ```
 
 # Mental Contrasting
 

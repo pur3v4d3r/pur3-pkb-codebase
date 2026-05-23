@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scaffolding Process Flow**
+> *Follow the flow from initial support to competence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Support] --> B[Tailored Assistance]
+>   B --> C[Competence Development]
+>   C --> D[Systematic Withdrawal]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolding Mechanism Overview**
+> *Trace the cycle from task difficulty to support withdrawal.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Difficulty] --> B[Just-in-Time Support]
+>   B --> C[Tailored Assistance]
+>   C --> D[Competence Development]
+>   D --> E[Systematic Withdrawal]
+> ```
+
+
+> [!abstract] **Diagram 3 — Scaffolding Taxonomy**
+> *Identify the key components of scaffolding: support, development, and withdrawal.*
+>
+> ```mermaid
+> graph TD
+>   A[Support] --> B[Development]
+>   B --> C[Withdrawal]
+> ```
 
 # Scaffolding
 

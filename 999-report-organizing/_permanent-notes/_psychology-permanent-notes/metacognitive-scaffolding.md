@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Scaffolding Process Flow**
+> *Follow the flow from planning to reflection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Planning] --> B[Making Explicit]
+>   B --> C[Monitoring]
+>   C --> D[Self-Reflection]
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Scaffold Types Hierarchy**
+> *Identify the different types of scaffolds used in learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Planning Templates] --> B(Monitoring Prompts)
+>   A --> C(Reflective Review Workflows)
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Scaffolding Developmental Cycle**
+> *Track the progression from scaffolded to independent regulation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Scaffolded
+>   Scaffolded --> Developing: Use and Feedback
+>   Developing --> Independent: Mastery
+> ```
 
 # Metacognitive Scaffolding
 

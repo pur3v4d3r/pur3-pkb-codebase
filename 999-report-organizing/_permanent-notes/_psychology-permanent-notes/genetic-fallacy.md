@@ -65,8 +65,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Genetic Fallacy Process Flow**
+> *Follow the flow to understand how origin-based evaluation leads to fallacious reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument Origin] --> B[Evaluate Based on Source]
+>   B --> C[Ignore Current Evidence]
+>   C --> D[Fallacy Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Genetic Fallacy vs Evidence-Based Evaluation**
+> *Compare the two paths to see the difference between origin-based and evidence-based evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument Origin] --> B[Evaluate Based on Source]
+>   C[Current Evidence] --> D[Evaluate Based on Merits]
+>   B --> E[Fallacy Conclusion]
+>   D --> F[Sound Reasoning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Genetic Fallacy in Policy-Making Context**
+> *Trace the decision-making process to see how origin-based evaluation can lead to poor policy decisions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Stakeholder as S
+>   participant Proposal as P
+>   participant DecisionMaker as D
+>   S->>P: Propose Unconventional Solution
+>   P->>D: Present Proposal
+>   D->>S: Dismiss Based on Source
+>   alt Fallacy Path
+>     D-->>D: Poor Decision-Making
+>   else Sound Evaluation
+>     D-->>D: Consider All Evidence
+>   end
+> ```
 
 # Genetic Fallacy
 

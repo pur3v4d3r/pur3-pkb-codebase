@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — ALiBi Attention Bias Mechanism**
+> *Follow the flow from query to key, observing how bias is applied based on distance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Key]
+>   B --> C[Bias]
+>   C --> D[Attention Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — ALiBi vs RoPE Comparison**
+> *Compare the methods used by ALiBi and RoPE to incorporate positional information.*
+>
+> ```mermaid
+> graph TD
+>   A[Query] --> B[RoPE]
+>   C[Key] --> D[Bias]
+>   E[Attention Score] --- F[Post-Softmax]
+>   G[ALiBi] --> H[F]
+>   I[Vector Transformation] -.-> J[A & C]
+> ```
 
 ## Core Explanation
 

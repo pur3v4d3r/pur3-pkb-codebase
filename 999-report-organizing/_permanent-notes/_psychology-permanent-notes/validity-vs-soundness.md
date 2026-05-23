@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Validity vs Soundness Overview**
+> *Identify the relationship between validity and soundness.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument]
+>   B[Validity]
+>   C[Soundness]
+>   A -->|if true, then conclusion must be true|B
+>   B -->|and premises are true|C
+> ```
+
+
+> [!abstract] **Diagram 2 — Logical Structure and Truth-Preservation**
+> *Understand the separation of logical structure from factual truth.*
+>
+> ```mermaid
+> graph TD
+>   A[Validity]
+>   B[Truth-Preservation]
+>   C[Factual Truth]
+>   A -->|Ensures|B
+>   B -.->C
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive approaches to argument analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   C[Systematic Analysis]
+>   D[Intuitive Judgment]
+>   A -->|Focuses on|C
+>   B -->|Based on|D
+> ```
 
 # Validity Vs Soundness
 

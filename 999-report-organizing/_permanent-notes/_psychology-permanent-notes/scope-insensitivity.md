@@ -67,8 +67,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scope Insensitivity Mechanism**
+> *Follow the cognitive process from prototype to valuation.*
+>
+> ```mermaid
+> graph TD
+>   A[Scenario]
+>   B[Affective Image]
+>   C[Judgment]
+>   D[Valuation]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Scope Insensitivity in Practice**
+> *Compare different scales of impact and consistent WTP.*
+>
+> ```mermaid
+> flowchart LR
+>   A[2000 Birds]
+>   B[20000 Birds]
+>   C[200000 Birds]
+>   D[Willingness-to-Pay]
+>   A --> D
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Scope Insensitivity in Policy Making**
+> *Identify the challenge of misaligned policies due to bias.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant P as Policy Maker
+>   participant C as Conservation Effort
+>   participant W as WTP
+>   P->>C: Assess Impact
+>   C-->>P: Large Scale Impact
+>   P->>W: Estimate WTP
+>   W-->>P: Constant WTP Regardless of Scale
+> ```
 
 # Scope Insensitivity
 

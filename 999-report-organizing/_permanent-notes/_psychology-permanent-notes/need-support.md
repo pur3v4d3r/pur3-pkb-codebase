@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Need Support Components**
+> *Identify the three basic psychological needs addressed.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   subgraph NeedSupport
+>     A -->|Meaningful rationale and choice| A
+>     B -->|Structured challenge with feedback| B
+>     C -->|Warm involvement with non-conditional regard| C
+>   end
+> ```
+
+
+> [!abstract] **Diagram 2 — Need Support Mechanism Flow**
+> *Follow the flow from autonomy to relatedness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Meaningful rationale and choice] --> B[Structured challenge with feedback]
+>   B --> C[Warm involvement with non-conditional regard]
+> ```
+
+
+> [!abstract] **Diagram 3 — Need Support Applications**
+> *See the different contexts where Need Support is applied.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 # Need Support
 

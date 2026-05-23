@@ -64,8 +64,81 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Internalism Overview**
+> *Identify the key components of epistemic internalism.*
+>
+> ```mermaid
+> graph TD
+>   A[Belief]
+>   B[Introspective Access]
+>   C[Evidence and Reasons]
+>   D[Mental States]
+>   E[Reflective Awareness]
+>   F[Personal Accountability]
+>   A -->|Is Justified If| B
+>   B -->|Includes| C
+>   B -->|Includes| D
+>   B -->|Ensures| E
+>   E -->|Leads To| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Internal vs External Factors**
+> *Compare internal and external factors in justification.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Internalism]
+>   B[Introspective Access]
+>   C[Evidence and Reasons]
+>   D[Mental States]
+>   E[Reflective Awareness]
+>   F[Personal Accountability]
+>   G[Epistemic Externalism]
+>   H(Environmental Conditions)
+>   I(Social Influences)
+>   A -->|Includes| B
+>   B -->|Includes| C
+>   B -->|Includes| D
+>   B -->|Ensures| E
+>   E -->|Leads To| F
+>   G -->|Excludes| B
+>   G -->|Includes| H
+>   G -->|Includes| I
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking]
+>   B[Introspective Access]
+>   C[Evidence and Reasons]
+>   D[Mental States]
+>   E[Conscious Reflection]
+>   F[Personal Accountability]
+>   G[Reactive Thinking]
+>   H(Automatic Processes)
+>   I(Habitual Responses)
+>   A -->|Involves| B
+>   B -->|Includes| C
+>   B -->|Includes| D
+>   B -->|Ensures| E
+>   E -->|Leads To| F
+>   G -->|Driven By| H
+>   G -->|Driven By| I
+> ```
 
 # Epistemic Internalism
 

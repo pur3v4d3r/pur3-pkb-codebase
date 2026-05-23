@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Concept Mapping Process Flow**
+> *Follow the steps from identifying concepts to creating labeled propositions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Concepts] --> B[Draw Nodes]
+>   B --> C[Labeled Propositions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Concept Mapping Hierarchical Structure**
+> *Observe the hierarchical connections between main concepts and sub-concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Main Concept] --> B[Sub-Concept1]
+>   A --> C[Sub-Concept2]
+>   B --> D[Detail1]
+>   C --> E[Detail2]
+> ```
+
+
+> [!abstract] **Diagram 3 — Propositional Relationships in a Map**
+> *Notice how labeled propositions connect different concepts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Concept1] -->|Labeled Proposition| B[Concept2]
+>   C[Concept3] -->|Another Label| D[Concept4]
+> ```
 
 # Concept Mapping
 

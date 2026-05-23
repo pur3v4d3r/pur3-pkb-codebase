@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Temporal Logic Operators Overview**
+> *Identify the temporal operators and their meanings.*
+>
+> ```mermaid
+> graph TD
+>   A["Always (G)"] --> B(Eventually (F))
+>   C[U] --> D(Until)
+>   E[G P] --> F(Always P holds true in future)
+>   G[P U Q] --> H(P until Q becomes true)
+> ```
+
+
+> [!abstract] **Diagram 2 — Temporal Logic Application Flowchart**
+> *Follow the flow from problem definition to formal verification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Temporal Problem] --> B(Formalize with Operators)
+>   B --> C(Apply to Propositions)
+>   C --> D(Verify Correctness)
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Logic in Real-Time Systems**
+> *Trace the temporal constraints and safety conditions.*
+>
+> ```mermaid
+> graph TD
+>   A[Operation Completion] --> B(Must Complete Within Timeframe)
+>   C[Safety-Critical Conditions] --> D(Must Always Hold True)
+> ```
 
 # Temporal Logic
 

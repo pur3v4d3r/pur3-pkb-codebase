@@ -70,8 +70,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stability Expectancy Process Flow**
+> *Follow the flow from outcome to expectancy change.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Outcome] --> B[Attribution]
+>   B --> C[Stable Cause]
+>   C --> D[Expectancy Shift]
+>   B --> E[Unstable Cause]
+>   E --> F[No Expectancy Change]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivational Trajectories Over Time**
+> *Trace the impact of stable vs. unstable attributions on motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Stable Attribution] --> B[Predictability]
+>   B --> C[Motivation Increase]
+>   D[Unstable Attribution] --> E[Varying Outcomes]
+>   E --> F[Motivation Decrease]
+> ```
+
+
+> [!abstract] **Diagram 3 — Stable vs Unstable Causes in Attribution Theory**
+> *Compare the effects of stable and unstable causes on expectancies.*
+>
+> ```mermaid
+> classDiagram
+>   class StableCause {
+>     +Consistent Expectancy Shifts
+>     +Predictability
+>   }
+>   class UnstableCause {
+>     -Variable Expectancy Shifts
+>     -Uncertainty
+>   }
+> ```
 
 # Stability-Expectancy Principle
 

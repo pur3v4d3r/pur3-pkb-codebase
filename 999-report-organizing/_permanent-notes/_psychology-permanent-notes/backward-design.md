@@ -69,8 +69,33 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Backward Design Process Flow**
+> *Follow the steps from end goals to learning experiences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define End Goals] --> B[Determine Evidence]
+>   B --> C[Plan Learning Experiences]
+> ```
+
+
+> [!abstract] **Diagram 2 — Backward Design Taxonomy**
+> *Identify the hierarchical relationship between goals, evidence, and experiences.*
+>
+> ```mermaid
+> graph TD
+>   A[End Goals] --> B[Evidence]
+>   B --> C[Learning Experiences]
+> ```
 
 # Backward Design
 

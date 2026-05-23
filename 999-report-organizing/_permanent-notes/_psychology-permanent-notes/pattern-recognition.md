@@ -64,8 +64,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pattern Recognition Process Flow**
+> *Follow the flow from input to rapid categorization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Compare Against Schemas]
+>   B --> C[Rapid Categorization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Pattern Recognition Mechanism Overview**
+> *Trace the interaction between perception and cognition.*
+>
+> ```mermaid
+> graph TD
+>   A[Perception] --> B[Schemas]
+>   B --> C[Cognition]
+>   C --> D[Rapid Recognition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pattern Recognition Applications**
+> *Identify the various fields where pattern recognition is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Fire-Ground Command]
+>   B --> C[Medical Diagnosis]
+>   C --> D[MOOCs]
+> ```
 
 # Pattern Recognition
 

@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Toulmin Model Components**
+> *Identify the six key components of an argument.*
+>
+> ```mermaid
+> graph TD
+>   A[Claim] --> B(Data)
+>   B --> C(Warrant)
+>   C --> D(Backing)
+>   A --> E(Qualifier)
+>   A --> F(Rebuttal)
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Flow Process**
+> *Follow the sequence of building an argument.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Claim] --> B(Data)
+>   B --> C(Warrant)
+>   C --> D(Backing)
+>   A --> E(Qualifier)
+>   A --> F(Rebuttal)
+> ```
+
+
+> [!abstract] **Diagram 3 — Argument Analysis Hierarchy**
+> *Understand the hierarchical structure of argument analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Claim] --> B(Data)
+>   B --> C(Warrant)
+>   C --> D(Backing)
+>   A --> E(Qualifier)
+>   A --> F(Rebuttal)
+> ```
 
 # Toulmin Argument Model
 

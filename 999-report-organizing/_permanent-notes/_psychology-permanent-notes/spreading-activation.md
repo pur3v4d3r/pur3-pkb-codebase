@@ -70,8 +70,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conceptual Network Overview**
+> *Follow the arrows to see how activation spreads between nodes.*
+>
+> ```mermaid
+> graph TD
+>   A[Apple] -->|Strong| B[Fruit]
+>   A -->|Weak| C[Red]
+>   A -->|Moderate| D[Taste]
+> ```
+
+
+> [!abstract] **Diagram 2 — Activation Propagation Process**
+> *Trace the flow of activation from initial node to related nodes.*
+>
+> ```mermaid
+> flowchart LR
+>   InitialNode[Initial Node Activation] -->|Activate| A1[Associated Node]
+>   A1 -->|Activate| B1[Further Associated Node]
+>   B1 -->|Activate| C1[Final Node]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Retrieval Mechanisms**
+> *Compare spreading activation with other retrieval mechanisms.*
+>
+> ```mermaid
+> classDiagram
+>   class SpreadingActivation{
+>     +ActivateNodes()
+>     +PropagateActivation()
+>   }
+>   class SchemaTheory{
+>     +OrganizeKnowledge()
+>     +HierarchicalRetrieval()
+>   }
+>   class Chunking{
+>     +MemorizeUnits()
+>     +EnhanceRecall()
+>   }
+> ```
 
 # Spreading Activation
 

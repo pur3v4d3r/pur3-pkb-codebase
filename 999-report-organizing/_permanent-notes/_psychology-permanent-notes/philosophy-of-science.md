@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Philosophy of Science Overview**
+> *Identify the key figures and their contributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Logical-Empiricism] --> B[Karl Popper]
+>   C[Paradigm Shifts] --> D[Thomas Kuhn]
+>   E[Research Programs] --> F[Imre Lakatos]
+> ```
+
+
+> [!abstract] **Diagram 2 — Kuhn's Paradigm Shift Cycle**
+> *Follow the stages of scientific progress according to Kuhn.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> NormalScience
+>   NormalScience --> Anomaly
+>   Anomaly --> Crisis
+>   Crisis --> NewParadigm
+>   NewParadigm --> NormalScience
+> ```
+
+
+> [!abstract] **Diagram 3 — Surface vs Deep Processing in Science**
+> *Compare surface and deep processing approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[SurfaceProcessing] --> B[RoteMemorization]
+>   C[DeepProcessing] --> D[CriticalAnalysis]
+> ```
 
 # Philosophy of Science
 

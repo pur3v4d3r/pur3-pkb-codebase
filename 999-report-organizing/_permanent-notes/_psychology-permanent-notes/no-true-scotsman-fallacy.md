@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — No True Scotsman Fallacy Process Flow**
+> *Follow the flow to understand how the fallacy operates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generalization] --> B[Counterexample]
+>   B --> C[Redefine Category]
+>   C --> D[Dismiss Counterexample]
+> ```
+
+
+> [!abstract] **Diagram 2 — No True Scotsman vs Equivocation Comparison**
+> *Compare the two fallacies to see their distinct characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[No True Scotsman]
+>   B[Equivocation]
+>   A -->|Redefine Category| C[Exclude Counterexample]
+>   B -->|Ambiguity in Terms| D[Mislead Argument]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ad Hoc Redefinition vs Legitimate Clarification**
+> *Identify the timing and intent of each type of redefinition.*
+>
+> ```mermaid
+> graph TD
+>   A[Ad Hoc Redefinition]
+>   B[Ligitimate Clarification]
+>   A -->|In Response to Challenge| C[Defensive Dismissal]
+>   B -->|Precedes or Accompanies Argument| D[Refinement for Clarity]
+> ```
 
 # No True Scotsman Fallacy
 

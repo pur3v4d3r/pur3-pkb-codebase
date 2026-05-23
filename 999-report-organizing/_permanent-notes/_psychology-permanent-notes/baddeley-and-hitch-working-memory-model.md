@@ -64,8 +64,59 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Working Memory Components Overview**
+> *Identify the three main components and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Central Executive]
+>   B[Phonological Loop]
+>   C[Visuospatial Sketchpad]
+>   A -->|Coordinates| B
+>   A -->|Coordinates| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Information Flow in Working Memory**
+> *Follow the flow of information between components.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Phonological Loop]
+>   C[Visuospatial Sketchpad]
+>   D[Central Executive]
+>   E[Output]
+>   A -->|Verbal Information| B
+>   A -->|Visual/Spatial Information| C
+>   B -->|To CE| D
+>   C -->|To CE| D
+>   D -->|Integrated Output| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Central Executive Task Management**
+> *See how the central executive manages multiple tasks.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> PhonologicalLoop
+>   PhonologicalLoop --> VisuospatialSketchpad : Switch Focus
+>   VisuospatialSketchpad --> CentralExecutive : Allocate Resources
+>   CentralExecutive --> InhibitIrrelevant : Suppress Irrelevant Info
+>   CentralExecutive --> ManageTasks : Coordinate Tasks
+>   InhibitIrrelevant --> IntegratedOutput : Unified Output
+>   ManageTasks --> IntegratedOutput : Unified Output
+> ```
 
 # Baddeley And Hitch Working Memory Model
 

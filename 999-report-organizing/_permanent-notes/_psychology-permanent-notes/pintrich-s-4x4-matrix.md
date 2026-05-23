@@ -65,8 +65,96 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Temporal Phases Overview**
+> *Follow the flow from forethought to reaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[Monitoring]
+>   C[Control]
+>   D[Reaction]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Regulation Areas Breakdown**
+> *Identify the four areas of regulation in each phase.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[Motivation/Affect]
+>   C[Cognition]
+>   D[Behavior]
+>   E[Context]
+>   F[Monitoring]
+>   G[Control]
+>   H[Reaction]
+>   A -->|Motivation/Affect| B
+>   A -->|Cognition| C
+>   A -->|Behavior| D
+>   A -->|Context| E
+>   F -->|Motivation/Affect| B
+>   F -->|Cognition| C
+>   F -->|Behavior| D
+>   F -->|Context| E
+>   G -->|Motivation/Affect| B
+>   G -->|Cognition| C
+>   G -->|Behavior| D
+>   G -->|Context| E
+>   H -->|Motivation/Affect| B
+>   H -->|Cognition| C
+>   H -->|Behavior| D
+>   H -->|Context| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Regulatory Activities Map**
+> *Trace the activities across phases and regulation areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[Motivation/Affect]
+>   C[Cognition]
+>   D[Behavior]
+>   E[Context]
+>   F[Monitoring]
+>   G[Control]
+>   H[Reaction]
+>   I[Goal-Setting]
+>   J[Feedback]
+>   K[Strategy Adjustment]
+>   L[Reflection]
+>   A -->|Cognition| C
+>   A -->|Motivation/Affect| B
+>   A -->|Behavior| D
+>   A -->|Context| E
+>   F -->|Cognition| C
+>   F -->|Motivation/Affect| B
+>   F -->|Behavior| J
+>   F -->|Context| E
+>   G -->|Cognition| K
+>   G -->|Motivation/Affect| B
+>   G -->|Behavior| D
+>   G -->|Context| E
+>   H -->|Cognition| C
+>   H -->|Motivation/Affect| L
+>   H -->|Behavior| D
+>   H -->|Context| E
+> ```
 
 # Pintrich's 4x4 Matrix
 

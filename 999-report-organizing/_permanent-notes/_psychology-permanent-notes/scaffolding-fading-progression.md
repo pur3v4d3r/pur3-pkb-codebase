@@ -72,8 +72,34 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scaffolding-Fading Process Flow**
+> *Follow the progression from initial support to independence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Support] --> B[Reduced Guidance]
+>   B --> C[Independent Task]
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffolding-Fading Mechanism Overview**
+> *Trace the transfer of regulatory function from external to internal.*
+>
+> ```mermaid
+> graph TD
+>   A[External Scaffolding] --> B[Internal Self-Regulation]
+>   A --> C[Metacognitive Abilities]
+>   C --> B
+> ```
 
 # Scaffolding-Fading Progression
 

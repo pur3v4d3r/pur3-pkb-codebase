@@ -64,8 +64,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positive Psychology Core Principles**
+> *Identify the key aspects contributing to well-being.*
+>
+> ```mermaid
+> graph TD
+>   A[Strengths] --> B[Virtues]
+>   C[Positive Emotions] --> D[Engagement]
+>   E[Meaningful Relationships] --> F[Achievement Patterns]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Positive Psychology**
+> *Understand the processes that enhance well-being.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learned Optimism] --> B[Savoring]
+>   C[Gratitude Journals] --> D[Acts of Kindness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Positive Psychology Applications**
+> *Explore practical implementations in various settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Education] --> B[Therapy]
+>   C[Organizations] --> D[Workplace Satisfaction]
+> ```
 
 # Positive Psychology
 

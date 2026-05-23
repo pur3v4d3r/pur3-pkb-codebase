@@ -70,8 +70,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Curriculum Design Structure**
+> *Identify the balance between structure and autonomy support.*
+>
+> ```mermaid
+> graph TD
+>   A[Clear Expectations] --> B[Explicit Rationales]
+>   B --> C[Meaningful Choices]
+>   C --> D[Well-Defined Boundaries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Lifelong Learning Mechanism**
+> *Trace the internalisation process from external structure to self-regulation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Structure
+>   Structure --> AutonomySupport
+>   AutonomySupport --> IntrinsicMotivation
+> ```
+
+
+> [!abstract] **Diagram 3 — Curriculum Design Applications**
+> *Compare instructional design and professional development approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Clear Goals]
+>   A --> C[Learner Choice]
+>   D[Professional Development] --> E[Guidelines]
+>   D --> F[Feedback Mechanisms]
+> ```
 
 # Curriculum Design for Lifelong Learning and Self-Directed Learning
 

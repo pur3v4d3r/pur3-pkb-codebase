@@ -71,8 +71,59 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Scaffolding-Sovereignty Progression Overview**
+> *Follow the progression from external scaffolding to learner sovereignty.*
+>
+> ```mermaid
+> graph TD
+>   A[External Scaffolding]
+>   B[Gradual Fading of Support]
+>   C[Learner Sovereignty]
+>   A -->|Structured Support| B
+>   B -->|Internalization of Standards| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Assessment Mechanism Flow**
+> *Trace the steps from initial instruction to independent evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Explicit Instruction]
+>   B[Practice Self-Assessment]
+>   C[Feedback Integration]
+>   D[Generate Own Criteria]
+>   E[Independent Evaluation]
+>   A -->|Criteria Use| B
+>   B -->|Peer & Teacher Feedback| C
+>   C -->|Reflective Practice| D
+>   D -->|Self-Generated Standards| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback and Reflection Loop**
+> *Observe the recursive loop of reflection enhancing learning.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A : Initial Evaluation
+>   A["What did I do?"]
+>   A --> B : Reflect on Process
+>   B["How did I do it?"]
+>   B --> C : Evaluate Strategy
+>   C["Why did I do it that way?"]
+>   C --> D : Adjust Criteria
+>   D[*] : New Evaluation
+> ```
 
 # Assessment as the Completion of the Scaffolding-Sovereignty Progression
 

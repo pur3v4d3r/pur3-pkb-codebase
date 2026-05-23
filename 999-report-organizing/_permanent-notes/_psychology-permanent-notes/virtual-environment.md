@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Virtual Environment Activation Flow**
+> *Follow the steps to activate a virtual environment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Virtual Env] --> B(Activate)
+>   B --> C[Install Packages]
+>   C --> D[Run Scripts]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dependency Isolation Mechanism**
+> *See how virtual environments isolate dependencies.*
+>
+> ```mermaid
+> graph TD
+>   A[Global Python] -->|Installs Globally| B(Global Packages)
+>   C[Virtual Env] -->|Installs Locally| D(Env-Specific Packages)
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Container Isolation**
+> *Compare isolation levels of virtual environments and containers.*
+>
+> ```mermaid
+> graph TD
+>   A[Virtual Env] --> B(Package Level)
+>   C[Container] --> D(OS Level)
+> ```
 
 # Virtual Environment
 

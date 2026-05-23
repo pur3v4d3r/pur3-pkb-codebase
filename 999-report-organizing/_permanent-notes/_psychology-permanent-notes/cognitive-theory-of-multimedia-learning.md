@@ -69,8 +69,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CTML Design Principles Overview**
+> *Identify the key principles and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Coherence]
+>   B[Signaling]
+>   C[Redundancy]
+>   D[Spatial Contiguity]
+>   E[Temporal Contiguity]
+>   F[Segmenting]
+>   G[Pre-training]
+>   H[Modality]
+>   I[Multimedia]
+>   J[Personalization]
+>   K[Voice]
+>   A -->|related to| B
+>   C -->|related to| D
+>   E -->|related to| F
+>   G -->|related to| H
+>   I -->|related to| J
+>   K
+> ```
+
+
+> [!abstract] **Diagram 2 — CTML Mechanisms and Effects**
+> *Understand the key mechanisms and their effects on learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Modality Effect]
+>   B[Redundancy Effect]
+>   C[Advantage of Words+Pictures]
+>   D[Better Retention & Comprehension]
+>   E[Beneficial if Not Overloading WM]
+>   A -->|leads to| C
+>   C -->|results in| D
+>   B -->|depends on| E
+> ```
+
+
+> [!abstract] **Diagram 3 — CTML Theoretical Foundations**
+> *Trace the integration of dual-coding and cognitive load theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Dual-Coding Theory]
+>   B[Cognitive Load Theory]
+>   C[Active-Learning Constructivism]
+>   D[CTML Framework]
+>   A -->|integrates with| B
+>   B -->|complements| C
+>   C -->|enhances| D
+> ```
 
 # Cognitive Theory of Multimedia Learning
 

@@ -70,8 +70,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Monitoring Process Flow**
+> *Follow the sequence from goal-setting to strategy adjustment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal-Setting] --> B[Evaluation]
+>   B --> C[Strategy Adjustment]
+>   C --> D[Monitoring Progress]
+>   D --> E[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Monitoring Mechanism Overview**
+> *Identify the cognitive processes involved in monitoring.*
+>
+> ```mermaid
+> graph TD
+>   A[Reading Text]
+>   B[Summarizing Information]
+>   C[Evaluating Summary]
+>   D[Generating Internal Signals]
+>   A --> B
+>   B -->|Discrepancy Found| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Monitoring in Self-Directed Learning**
+> *Trace the integration of monitoring into self-directed learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant SDLRS as S
+>   participant Goals as G
+>   participant Strategies as Strats
+>   L->>S: Assess Readiness
+>   S-->>L: Feedback on Cognitive Regulation
+>   L->>G: Set Learning Goals
+>   L->>Strats: Choose Study Methods
+>   L->>L: Monitor Progress and Adjust
+> ```
 
 # Metacognitive Monitoring
 

@@ -70,8 +70,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge of Cognition Subtypes**
+> *Identify the three subtypes and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Person Knowledge]
+>   B[Task Knowledge]
+>   C[Strategy Knowledge]
+>   A -->|Adapt Approach| D[Reading]
+>   B -->|Adjust Strategies| D
+>   C -->|Apply Strategies| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Conditional Knowledge Feedback Loop**
+> *Understand the feedback mechanism for strategy calibration.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Calibration
+>   Calibration --> Feedback: Use Strategy
+>   Feedback --> Evaluation: Assess Outcome
+>   Evaluation --> Calibration: Adjust Strategy
+> ```
+
+
+> [!abstract] **Diagram 3 — Reciprocal Teaching Strategies**
+> *See how reciprocal teaching enhances reading comprehension.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reader as R
+>   participant Text as T
+>   participant Teacher as Te
+>   R->>T: Predict
+>   T-->>R: Clarify
+>   R->>Te: Question
+>   Te-->>R: Summarize
+> ```
 
 # Knowledge of Cognition
 

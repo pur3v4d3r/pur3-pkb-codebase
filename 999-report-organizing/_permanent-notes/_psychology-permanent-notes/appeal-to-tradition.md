@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Appeal To Tradition Fallacy Structure**
+> *Follow the flow from assumption to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Longevity] --> B[Assumption]
+>   B --> C[Correctness]
+>   C --> D[Decision]
+>   D --> E[Outcome]
+> ```
+
+
+> [!abstract] **Diagram 2 — Appeal To Tradition vs Reflective Thinking**
+> *Compare the paths of reactive and reflective thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Long-standing Practice] --> B1[Reactive Acceptance]
+>   A --> B2[Reflective Evaluation]
+>   B1 --> C1[Quick Decision]
+>   B2 --> C2[Critical Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — Contextual Applications of Appeal To Tradition**
+> *Identify the areas where this fallacy commonly occurs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B1[Lecture-Based Methods]
+>   A --> B2[Interactive Approaches]
+>   C[Legal Systems] --> D1[Arcaic Laws]
+>   C --> D2[Contemporary Legislation]
+>   E[MOOCs] --> F1[Weekly Lectures]
+>   E --> F2[Spaced Retrieval]
+> ```
 
 # Appeal To Tradition
 

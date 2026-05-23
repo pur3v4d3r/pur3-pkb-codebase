@@ -72,8 +72,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Schema Construction Process**
+> *Follow the progression from initial concepts to a robust schema.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Concepts] --> B[Interconnected Knowledge]
+>   B --> C[Rapid Processing]
+>   C --> D[Coherent Structure]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Application in PKB Systems**
+> *Trace the flow of information from input to retrieval and application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Organized Nodes]
+>   B --> C[Retrieval]
+>   C --> D[Application]
+> ```
+
+
+> [!abstract] **Diagram 3 — Schema Components in Metacognition**
+> *Identify the interconnected concepts within a metacognitive schema.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognitive Knowledge] --> B[Monitoring]
+>   B --> C[Regulation]
+> ```
 
 # Schema
 

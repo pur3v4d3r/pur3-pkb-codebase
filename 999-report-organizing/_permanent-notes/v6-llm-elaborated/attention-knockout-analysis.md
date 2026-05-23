@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Knockout Process Flow**
+> *Follow the steps from input to output, noting key interventions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Select Attention Heads] --> B[Zero Out Weights]
+>   B --> C[Test Model Performance]
+>   C --> D[Determine Importance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Head Impact Distribution**
+> *Identify the sparse distribution of causally important heads.*
+>
+> ```mermaid
+> graph TD
+>   A[All Heads] --> B[2-10% Important]
+>   B --> C[50-80% Performance Loss]
+>   A --> D[90-98% Redundant]
+> ```
+
+
+> [!abstract] **Diagram 3 — Attention Knockout vs Visualization Comparison**
+> *Compare active intervention with passive observation techniques.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant AK as AttentionKnockout
+>   participant AV as AttentionVisualization
+>   AK->>AK: Zero Out Weights
+>   AV-->>AV: Observe Patterns
+>   AK->>AK: Test Performance Impact
+>   AV-->>AV: Map Attention Weights
+> ```
 
 ## Core Explanation
 

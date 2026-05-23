@@ -65,8 +65,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Transformative Learning Process Flow**
+> *Follow the stages from disorienting dilemma to new perspectives.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Disorienting Dilemma] --> B[Critical Reflection]
+>   B --> C[Reevaluation of Assumptions]
+>   C --> D[Exploring Options]
+>   D --> E[Reconsidering Values]
+>   E --> F[Taking Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Transformative vs Instrumental Learning Comparison**
+> *Compare transformative learning with instrumental learning in terms of outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Transformative]
+>   B[Instrumental]
+>   A -->|Fundamental Shift| G[New Perspective & Behavior]
+>   B -->|Acquisition| H[New Tools or Techniques]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking Contrast**
+> *Identify the differences between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   A -->|Critical Analysis| C[Deeper Understanding]
+>   B -->|Immediate Response| D[Habitual Responses]
+> ```
 
 # Transformative Learning
 

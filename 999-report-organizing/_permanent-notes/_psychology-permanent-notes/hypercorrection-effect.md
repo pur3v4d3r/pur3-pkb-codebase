@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Error Confidence vs Retention**
+> *Compare retention rates for high and low confidence errors.*
+>
+> ```mermaid
+> graph TD
+>   A[High Confidence Error] --> B[Strong Surprise]
+>   B --> C[Deep Re-encoding]
+>   D[Low Confidence Error] --> E[Weak Surprise]
+>   E --> F[Shallow Re-encoding]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hypercorrection Mechanism Flow**
+> *Follow the steps from error to correction and re-encoding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Confident Error Assertion] --> B[Immediate Feedback]
+>   B --> C[Cognitive Dissonance]
+>   C --> D[Re-encode Correct Info]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Strategy**
+> *See the sequence of events in an instructional design scenario.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Instructor as I
+>   L->>I: Confident Incorrect Answer
+>   I->>L: Immediate Corrective Feedback
+>   L-->>L: Re-encode Correct Information
+> ```
 
 # Hypercorrection Effect
 

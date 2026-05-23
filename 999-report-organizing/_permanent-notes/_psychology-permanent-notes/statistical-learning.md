@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Statistical Learning Process Flow**
+> *Follow the stages from exposure to pattern formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Exposure] --> B[Detection]
+>   B --> C[Categorization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Statistical Learning Modalities**
+> *Identify the different sensory inputs involved in statistical learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Visual] -->|Input Stream| D[Pattern Recognition]
+>   B[Auditory] -->|Input Stream| D
+>   C[Motor] -->|Input Stream| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Statistical Learning Applications**
+> *Trace the applications from educational design to machine learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant LanguageTherapy as LT
+>   participant MachineLearning as ML
+>   ID->>D: Worked Examples
+>   LT->>D: Speech Segmentation Exercises
+>   ML->>D: Pattern Recognition Algorithms
+> ```
 
 # Statistical Learning
 

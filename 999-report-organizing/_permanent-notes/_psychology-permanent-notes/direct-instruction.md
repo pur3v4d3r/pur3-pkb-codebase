@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Direct Instruction Process Flow**
+> *Follow the sequence from lesson planning to student mastery.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Lesson Planning] --> B[Worked Examples]
+>   B --> C[Non-Examples]
+>   C --> D[Frequent Checks]
+>   D --> E[Mastery Learning]
+> ```
+
+
+> [!abstract] **Diagram 2 — DI Lesson Structure Hierarchy**
+> *See how each lesson builds on previous mastery.*
+>
+> ```mermaid
+> graph TD
+>   A[Previous Mastery] --> B[Current Lesson]
+>   B --> C[NEXT LESSON]
+> ```
+
+
+> [!abstract] **Diagram 3 — DI Interaction Sequence**
+> *Track the interaction between teacher and student during a DI lesson.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Teacher as T
+>   participant Student as S
+>   T->>S: Present Worked Example
+>   S-->>T: Respond
+>   T->>S: Provide Feedback
+>   T->>S: Present Non-Example
+> ```
 
 # Direct Instruction
 

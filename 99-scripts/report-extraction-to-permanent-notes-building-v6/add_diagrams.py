@@ -639,7 +639,12 @@ def _fix_mermaid_content(content: str) -> str:
        the LLM placed a ``style`` directive where the arrow target should be.
        Mermaid’s parser sees ``style`` as a node ID and fails.  The intended
        target cannot be recovered so the whole line is dropped.
-    9. **One-liner re-split** — when the entire diagram is collapsed onto one
+    9. **Unclosed pipe label removal** — ``C -->|Facial Expressions Interpretation``
+       — an arrow whose ``|`` edge-label is never closed and has no target node.
+       Mermaid expects ``-->|label| Target``; lines ending with an open label
+       text cause a parse error ("got '1'" / unexpected token).  The target is
+       unrecoverable so the line is dropped.
+   10. **One-liner re-split** — when the entire diagram is collapsed onto one
        line the diagram-type header and node boundaries are split out.
 
     Args:
@@ -727,12 +732,27 @@ def _fix_mermaid_content(content: str) -> str:
         flags=re.MULTILINE,
     )
 
+    # ── Fix 9: remove lines with unclosed pipe label ───────────────────────────
+    # e.g.  "C -->|Facial Expressions Interpretation" — an arrow with an
+    # opening '|' but no closing '|' and no target node.  Mermaid expects the
+    # form "C -->|label| Target"; a line ending with unclosed label text causes
+    # a parse error ("got '1'" / unexpected token).  The target is
+    # unrecoverable; the whole line is dropped.
+    # NOTE: valid labelled edges like "A -->|label| B" are NOT matched because
+    # [^|\n]+ stops at the closing '|', so '$' cannot match before " B".
+    content = re.sub(
+        r"^[ \t]*[^\n]*--[>\-xo]+\|[^|\n]+$\n?",
+        "",
+        content,
+        flags=re.MULTILINE,
+    )
+
     # ── Early-return for well-formed multi-line content ───────────────────────
-    # Fix 9 only makes sense for degenerate one-liner LLM output.
+    # Fix 10 only makes sense for degenerate one-liner LLM output.
     if content.count("\n") >= 2:
         return content
 
-    # ── Fix 9: split one-liner — diagram-type header from first node ──────────
+    # ── Fix 10: split one-liner — diagram-type header from first node ─────────
     content = re.sub(
         r"^((?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2?|erDiagram)\s*\S*)\s+",
         r"\1\n",

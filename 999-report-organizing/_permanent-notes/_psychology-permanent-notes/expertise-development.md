@@ -64,8 +64,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Expertise Development Process Flow**
+> *Follow the steps from novice to expert through deliberate practice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novice] --> B[Deliberate Practice]
+>   B --> C[Immediate Feedback]
+>   C --> D[Revision and Refinement]
+>   D --> E[Rapid Improvement]
+>   E --> F[Consolidation]
+>   F --> G[Expert]
+> ```
+
+
+> [!abstract] **Diagram 2 — Schema Evolution in Expertise Development**
+> *Observe how schemas become richer and more interconnected over time.*
+>
+> ```mermaid
+> graph TD
+>   A[Nova Schema] --> B[Slight Improvement]
+>   B --> C[Intermediate Schema]
+>   C --> D[Richer Schemas]
+>   D --> E[Complex Interconnections]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deliberate Practice Cycle in Expertise Development**
+> *Trace the cyclical process of feedback, revision, and restructuring.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Novice as N
+>   participant Task as T
+>   participant Feedback as F
+>   participant Revision as R
+>   participant Schema as S
+>   N->>T: Attempt Task
+>   T-->>F: Provide Feedback
+>   F-->>N: Receive Feedback
+>   N->>R: Revise Actions
+>   R-->>S: Update Schema
+>   loop Continuous Improvement
+>     S-->>N: Apply New Schema
+>     N->>T: Attempt Next Task
+>   end
+> ```
 
 # Expertise Development
 

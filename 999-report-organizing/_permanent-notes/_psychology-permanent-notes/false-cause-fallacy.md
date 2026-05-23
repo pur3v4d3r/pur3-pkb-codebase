@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — False Cause Fallacy Process Flow**
+> *Follow the sequence to understand how temporal succession leads to false causation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event A] --> B[Event B]
+>   C[Temporal Succession] --> D[Mistaken Inference]
+>   E[Causation Assumption]
+> ```
+
+
+> [!abstract] **Diagram 2 — False Cause Fallacy in Policy Making**
+> *Identify the correlation and potential false causation in policy decisions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Increase Police Patrols] --> B[Decrease Crime Rates]
+>   C[Misguided Conclusion] --> D[Causal Attribution Error]
+> ```
+
+
+> [!abstract] **Diagram 3 — False Cause Fallacy in Instructional Design**
+> *Trace the logical steps that lead to attributing learning outcomes incorrectly.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Implement Group Study Sessions] --> B[Improved Exam Performance]
+>   C[Mistaken Attribution] --> D[Causal Inference Error]
+> ```
 
 # False Cause Fallacy
 

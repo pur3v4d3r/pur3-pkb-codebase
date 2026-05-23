@@ -65,8 +65,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Closure Principle Overview**
+> *Follow the flow from known premises to deduced conclusions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Known Premise p] --> B[Deduction]
+>   B --> C[Known Conclusion q]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Closure vs Contextualism**
+> *Compare the two approaches to knowledge extension.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Closure] -->|Logical Entailment| B[Knowledge Extension]
+>   C[Contextualism] -->|Conversational Context| D[Knowledge Attribution]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the reasoning types involved in Epistemic Closure.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] -->|Conscious Reasoning| B[Knowledge Deduction]
+>   C[Reactive Thinking] -->|Immediate Response| D[Potential Inaccuracy]
+> ```
 
 # Epistemic Closure
 

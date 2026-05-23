@@ -66,8 +66,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — False Dichotomy Structure**
+> *Identify the two options and recognize excluded alternatives.*
+>
+> ```mermaid
+> graph TD
+>   A[Option1]
+>   B[Option2]
+>   C[Excluded Alternatives]
+>   A -->|Or| B
+>   A -.-> C
+>   B -.-> C
+> ```
+
+
+> [!abstract] **Diagram 2 — False Dichotomy in Political Debates**
+> *See how complex issues are simplified into binary choices.*
+>
+> ```mermaid
+> graph TD
+>   A[Complex Issue]
+>   B[Binary Choice1]
+>   C[Binary Choice2]
+>   D[Nuanced Solutions]
+>   A -->|Simplified to| B
+>   A -->|Simplified to| C
+>   B -.-> D
+>   C -.-> D
+> ```
+
+
+> [!abstract] **Diagram 3 — False Dichotomy Mechanism Flow**
+> *Follow the flow from presenting options to compelling a choice.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Present Two Options]
+>   B[Exclude Other Solutions]
+>   C[Force Choice Between Options]
+>   D[Smuggle Exhaustive Premise]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
 
 # False Dichotomy
 

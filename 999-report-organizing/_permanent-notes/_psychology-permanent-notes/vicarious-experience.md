@@ -70,8 +70,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Vicarious Experience Process Flow**
+> *Follow the steps from observation to self-efficacy enhancement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perceive Similarity] --> B[Diagnostics]
+>   B --> C[Cognitive Accessibility]
+>   C --> D[Vicarious Success]
+>   D --> E[Self-Efficacy Enhancement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Vicarious Experience in Clinical Practice**
+> *Trace the interaction between patient and peer models.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Patient] --> B[Peer Model]
+>   B --> C[Successful Therapeutic Changes]
+>   C --> D[Confidence Building]
+>   D --> E[Treatment Success]
+> ```
+
+
+> [!abstract] **Diagram 3 — Vicarious Experience in Instructional Design**
+> *Observe the integration of vicarious experience into learning materials.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Video Demonstrations] --> B[Problem-Solving Strategies]
+>   B --> C[Understanding Relevance]
+>   C --> D[Self-Efficacy Boost]
+> ```
 
 # Vicarious Experience
 

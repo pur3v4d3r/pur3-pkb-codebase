@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Zettelkasten Conceptual Hierarchy**
+> *Follow the hierarchy from general to specific concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge Management] --> B[Zettelkasten]
+>   B --> C[Atomic Notes]
+>   B --> D[Dense Interlinking]
+> ```
+
+
+> [!abstract] **Diagram 2 — Zettelkasten Linking Process**
+> *Trace the flow from new note creation to integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Note] --> B[Integrate]
+>   B --> C[Connect to Existing Notes]
+>   C --> D[Review and Refine]
+> ```
+
+
+> [!abstract] **Diagram 3 — Zettelkasten Applications**
+> *Identify the diverse applications of Zettelkasten.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Zettelkasten]
+>   C[Research] --> B
+>   D[Creative Writing] --> B
+> ```
 
 # Zettelkasten Method
 

@@ -69,8 +69,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Intrinsic Cognitive Load Components**
+> *Identify the factors that contribute to intrinsic load.*
+>
+> ```mermaid
+> graph TD
+>   A[Number of Elements]
+>   B[Interactivity Between Elements]
+>   C[Working Memory Demand]
+>   A -->|Increases| C
+>   B -->|Increases| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic Load Over Time**
+> *Observe how intrinsic load changes as expertise grows.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Novice
+>   Novice --> Expert: Gain Experience
+>   state Novice{
+>     [*]
+>     [*] --> HighLoad
+>     HighLoad --> SchemaConstruction : Build Schemas
+>   }
+>   state Expert{
+>     [*]
+>     [*] --> LowLoad
+>     LowLoad --> MaintainSchemas : Refine Knowledge
+>   }
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Sequence**
+> *Follow the sequence of learning materials from simple to complex.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Simple Concepts] --> B[Intermediate Tasks]
+>   B --> C[Complex Problems]
+> ```
 
 # Intrinsic Cognitive Load
 

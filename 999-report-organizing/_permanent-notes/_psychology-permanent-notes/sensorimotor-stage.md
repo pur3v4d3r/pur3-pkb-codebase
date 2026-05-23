@@ -65,8 +65,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sensorimotor Stage Substages Overview**
+> *Follow the progression from simple reflexes to deferred imitation.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Reflexes] --> B[Sensory-Motor Schemes]
+>   B --> C[Primary Circular Reactions]
+>   C --> D[Secondary Circular Reactions]
+>   D --> E[Tertiary Circular Reactions]
+>   E --> F[Begins Deferred Imitation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sensorimotor Stage Milestones Timeline**
+> *Track the emergence of key milestones over time.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reflexes as R
+>   participant SensoryMotorSchemes as S
+>   participant PrimaryCircularReactions as P
+>   participant SecondaryCircularReactions as Sc
+>   participant TertiaryCircularReactions as Tc
+>   participant DeferredImitation as D
+>   R->>S: Simple Reflexes (0-1 month)
+>   S->>P: Sensory-Motor Schemes (1-4 months)
+>   P->>Sc: Primary Circular Reactions (4-8 months)
+>   Sc->>Tc: Secondary Circular Reactions (8-12 months)
+>   Tc->>D: Tertiary Circular Reactions and Deferred Imitation (12-24 months)
+> ```
+
+
+> [!abstract] **Diagram 3 — Sensorimotor Stage Mechanism Flow**
+> *Trace the process of sensory-motor coordination leading to mental schemas.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reflexive Actions] --> B[Integration of Sensory-Motor]
+>   B --> C[Formation of Schemas]
+>   C --> D[Complex Problem-Solving]
+>   D --> E[Goal-Directed Behavior]
+> ```
 
 # Sensorimotor Stage
 

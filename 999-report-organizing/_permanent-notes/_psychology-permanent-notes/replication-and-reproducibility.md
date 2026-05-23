@@ -66,8 +66,41 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Replication vs Reproducibility**
+> *Compare the processes of replication and reproducibility.*
+>
+> ```mermaid
+> graph TD
+>   A[New Data Set]
+>   B[Original Data & Methods]
+>   C[Similar Results]
+>   D[Identical Outcomes]
+>   A -->|Replication| C
+>   B -->|Reproducibility| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Type I vs Type II Errors**
+> *Understand the implications of false positives and negatives.*
+>
+> ```mermaid
+> graph TD
+>   A[False Positive]
+>   B[False Negative]
+>   C[Acept Non-Existent Effect]
+>   D[Dismiss Actual Effect]
+>   A -->|Type I Error| C
+>   B -->|Type II Error| D
+> ```
 
 # Replication And Reproducibility
 

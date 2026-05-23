@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Habit Loop Components**
+> *Follow the cycle from cue to reward.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Cue"] --> B["Routine"]
+>   B --> C["Reward"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Basal Ganglia Mechanism**
+> *Trace the neural pathway from cue to routine.*
+>
+> ```mermaid
+> flowchart LR
+>   A["Cue"] --> B["Basal Ganglia"]
+>   B --> C["Motor Cortex"]
+>   D["Reward"] --> E["Dopamine Release"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Habit Loop Applications**
+> *Identify the cue, routine, and reward in each example.*
+>
+> ```mermaid
+> graph TD
+>   A["Morning Coffee"] --> B["Drink Coffee"]
+>   B --> C["Feeling Energized"]
+>   D["Payday Savings"] --> E["Save Money"]
+>   E --> F["Financial Security"]
+>   G["Post-Dinner Walk"] --> H["Go for a Walk"]
+>   H --> I["Improved Health"]
+> ```
 
 # Habit Loop
 

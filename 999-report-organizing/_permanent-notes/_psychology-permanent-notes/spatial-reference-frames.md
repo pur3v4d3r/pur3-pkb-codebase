@@ -65,8 +65,29 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spatial Reference Frames Overview**
+> *Identify the three main types of spatial reference frames.*
+>
+> ```mermaid
+> graph TD
+> ```
+
+
+> [!abstract] **Diagram 2 — Neural Correlates of Reference Frames**
+> *Understand the neural regions associated with each reference frame.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 # Spatial Reference Frames
 

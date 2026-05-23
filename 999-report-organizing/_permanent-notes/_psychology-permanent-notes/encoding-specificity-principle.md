@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Encoding Contexts Diagram**
+> *Follow the flow from encoding to retrieval contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning Environment] --> B[Contextual Cues]
+>   B --> C[Memory Trace]
+>   D[Test Environment] --> E[Retrieval Cues]
+>   E --> F[Recall Success]
+>   B -.->|Matched| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Contextual Cue Overlap Diagram**
+> *Identify the overlap between encoding and retrieval contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Classroom] --> B[Library]
+>   C[Home] --> D[Outdoors]
+>   E[Smell] --> F[Sound]
+>   G[Visual Cue] --> H[Tactile Sensation]
+>   I[Contextual Cues Encoded] -->|Matched| J[Retrieval Success]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Trace Binding Diagram**
+> *Trace the binding of memory traces with contextual cues.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Information] --> B[Contextual Cues]
+>   B --> C[Memory Trace]
+>   D[Test Context] --> E[Retrieval Cues]
+>   E -->|Matched| F[Recall Success]
+> ```
 
 # Encoding Specificity Principle
 

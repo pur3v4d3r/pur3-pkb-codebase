@@ -73,8 +73,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Meta-Level Process Flow**
+> *Follow the flow from monitoring to control decisions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Object-Level State] --> B[Monitoring]
+>   B --> C[Model Update]
+>   C --> D[Control Decisions]
+>   D --> E[Influence Object-Level]
+> ```
+
+
+> [!abstract] **Diagram 2 — Meta-Level Interaction with Working Memory**
+> *See how the meta-level interacts with working memory for processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] --> B[Temporary Storage]
+>   C[Meta-Level Monitoring] --> D[Feedback Loop]
+>   E[Control Decisions] --> F[Adjust Strategies]
+>   G[Object-Level Operations] --> H[State Updates]
+> ```
+
+
+> [!abstract] **Diagram 3 — Neural Correlates of Meta-Level**
+> *Identify the brain regions involved in maintaining and updating the meta-level model.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant PrefrontalCortex as PFC
+>   participant ObjectLevel as OL
+>   participant WorkingMemory as WM
+>   PFC->>WM: Monitor OL State
+>   WM-->>PFC: Feedback on Discrepancies
+>   PFC->>OL: Adjust Control Decisions
+> ```
 
 # Meta-Level
 

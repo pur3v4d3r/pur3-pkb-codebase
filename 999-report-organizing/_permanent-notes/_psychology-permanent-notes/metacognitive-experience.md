@@ -66,8 +66,64 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Experience Components**
+> *Identify the real-time experience components during task performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Performance]
+>   B[Difficulty]
+>   C[Fluency]
+>   D[Frustration]
+>   E[Confidence]
+>   F[Persistence]
+>   G[Motivation]
+>   A -->|Triggers| B & C
+>   B -->|Affects| D & F
+>   C -->|Boosts| E & G
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Experience vs Knowledge**
+> *Compare Metacognitive Experience with Metacognitive Knowledge.*
+>
+> ```mermaid
+> classDiagram
+>   class MetacognitiveExperience{
+>     +realTimeExperience()
+>     +affectiveResponses()
+>   }
+>   class MetacognitiveKnowledge{
+>     +understandingCognition()
+>   }
+>   MetacognitiveExperience --> realTimeExperience()
+>   MetacognitiveExperience --> affectiveResponses()
+>   MetacognitiveKnowledge --> understandingCognition()
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Experience Feedback Loop**
+> *Understand the feedback loop in self-regulated learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Task as T
+>   participant StrategyAdjustment as S
+>   L->>T: Encounter Cognitive Challenge
+>   T-->>L: Affective Response (Difficulty/Fluency)
+>   L->>S: Interpret Experience & Decide Action
+>   S-->>L: Adjust Strategies
+> ```
 
 # Metacognitive Experience
 

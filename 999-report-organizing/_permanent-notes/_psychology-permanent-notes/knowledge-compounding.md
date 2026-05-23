@@ -65,8 +65,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Compounding Process Flow**
+> *Follow the stages from organizing knowledge to integrating new information.*
+>
+> ```mermaid
+> graph TD
+>   A[Organize Prior Knowledge]
+>   B[Active Retrieval Practice]
+>   C[Integrate New Information]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Compounding Cycle Diagram**
+> *Observe the virtuous cycle of learning and practice reinforcing each other.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Learning]
+>   B{Practice & Retrieval}
+>   C[Enhanced Understanding]
+>   D[New Information]
+>   E[Integration]
+>   F[Improved Problem Solving]
+>   A -->|Organize Knowledge| B
+>   B -->|Retrieval Practice| C
+>   C -->|Apply to New Info| D
+>   D -->|Integrate into Schema| E
+>   E -->|Build Cognitive Schemas| F
+>   F -->|Enhance Problem Solving| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Compounding Applications Overview**
+> *Identify the different applications in instructional design, professional development, and personal learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B{Professional Development}
+>   C[Personal Learning Strategies]
+>   A --> D[Integrate New Info into Schema]
+>   B --> E[Build Robust Knowledge Base]
+>   C --> F[Reinforce Existing Knowledge]
+> ```
 
 # Knowledge Compounding
 

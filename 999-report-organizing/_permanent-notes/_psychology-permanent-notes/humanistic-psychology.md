@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Humanistic Psychology Core Concepts**
+> *Identify the key figures and their contributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Carl Rogers]
+>   B[Abraham Maslow]
+>   A -->|Core Conditions| C[Supportive Environment]
+>   B -->|Hierarchy of Needs| D[Self-Actualization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Process Towards Self-Actualization**
+> *Follow the steps from basic needs to self-actualization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Physiological Needs] --> B[Safety]
+>   B --> C[Loves/Belonging]
+>   C --> D[Esteem]
+>   D --> E[Self-Actualization]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare intrinsic motivation with external pressures.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant IntrinsicMotivation as IM
+>   participant ExternalPressures as EP
+>   IM->>IM: Internal Drive for Growth
+>   EP->>EP: Hinder Personal Development
+> ```
 
 # Humanistic Psychology
 

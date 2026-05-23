@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Organizational Psychology Mechanisms**
+> *Follow the arrows to see how organizational design influences individual behavior.*
+>
+> ```mermaid
+> graph TD
+>   A[Physical Layout] --> B[Communication Patterns]
+>   C[Leadership Styles] --> D[Motivation Levels]
+>   E[Team Dynamics] --> F[Collaboration]
+> ```
+
+
+> [!abstract] **Diagram 2 — Organizational Psychology Applications**
+> *Identify the three main applications of Organizational Psychology in practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhanced Learning]
+>   C[Team-Building] --> D[Higer Cohesion]
+>   E[Goal-Setting] --> F[Better Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Organizational vs General Psychology**
+> *Compare the focus of Organizational and General Psychology on individual behavior.*
+>
+> ```mermaid
+> classDiagram
+>   class Organizational_Psychology{
+>     +Contextual Factors
+>     +Behavioral Outcomes
+>   }
+>   class General_Psychology{
+>     +Individual Processes
+>     +Psychological Theories
+>   }
+> ```
 
 # Organizational Psychology
 

@@ -71,8 +71,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Organismic Integration Process Flow**
+> *Follow the steps from awareness to internalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Encounter]
+>   B[Evaluation]
+>   C[Integration]
+>   A --> B
+>   B -->|Relevant| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Integration vs Introjection Comparison**
+> *Compare the depth of internalization in both processes.*
+>
+> ```mermaid
+> graph TD
+>   I[Integration]
+>   In[Introjection]
+>   I -->|Active Processing| Self-Structure
+>   In -->|Passive Absorption| External Regulation
+> ```
+
+
+> [!abstract] **Diagram 3 — Integration vs Assimilation Comparison**
+> *Notice the transformative nature of integration.*
+>
+> ```mermaid
+> graph TD
+>   I[Integration]
+>   A[Assimilation]
+>   I -->|Transformative Process| Core Self-Structure
+>   A -->|Minimal Change| Existing Cognitive Structures
+> ```
 
 # Organismic Integration Tendency
 

@@ -64,8 +64,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sleep Stages Memory Consolidation**
+> *Follow the flow from SWS to REM for memory consolidation.*
+>
+> ```mermaid
+> graph TD
+>   A[Declarative Memories]
+>   B[Procedural & Emotional Memories]
+>   C["Slow-Wave Sleep (SWS)"]
+>   D[REM Sleep]
+>   E[Long-Term Memory]
+>   A -->|Consolidation| C
+>   C -->|Strengthen Neural Connections| E
+>   B -->|Processing| D
+>   D -->|Integration & Updating| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Consolidation Process**
+> *Trace the steps from encoding to long-term storage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Encoding]
+>   B[Wakefulness]
+>   C[Sleep]
+>   D[SWS & REM]
+>   E[Integration]
+>   F[Long-Term Storage]
+>   A -->|During Wakefulness| B
+>   B -->|Transition to Sleep| C
+>   C -->|SWS & REM| D
+>   D -->|Replay & Reactivation| E
+>   E -->|Stabilization & Integration| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Reconsolidation Cycle**
+> *Observe the cycle from recall to updated memory.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Recall
+>   Recall --> Reactivation : During Sleep
+>   Reactivation --> Strengthening : SWS
+>   Strengthening --> Integration : REM
+>   Integration --> UpdatedMemory : Long-Term Storage
+>   UpdatedMemory --> [*]
+> ```
 
 # Sleep and Memory Consolidation
 

@@ -70,8 +70,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Components Overview**
+> *Identify the four main components of metacognition.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognitive Knowledge]
+>   B[Experiences]
+>   C[Goals or Tasks]
+>   D[Actions or Strategies]
+>   A -->|Influences| B
+>   A -->|Shapes| C
+>   A -->|Guides| D
+>   B -->|Reflects| A
+>   C -->|Drives| B
+>   C -->|Directs| D
+>   D -->|Achieves| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Knowledge and Experiences Interaction**
+> *Understand the relationship between knowledge and experiences.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Knowledge] --> B[Experiences]
+>   B --> C[Feedback]
+>   C --> D[Knowledge]
+>   A -->|Beliefs about cognition, tasks, strategies| B
+>   B -->|Confidence, satisfaction| C
+>   C -->|Refinement of understanding| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Cycle Dynamics**
+> *Observe the cyclical interaction among metacognitive components.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> InitialKnowledge: Start with knowledge
+>   InitialKnowledge --> GoalsOrTasks: Set goals based on knowledge
+>   GoalsOrTasks --> Strategies: Develop strategies to achieve goals
+>   Strategies --> Experiences: Engage in cognitive activities
+>   Experiences --> Feedback: Reflect on experiences
+>   Feedback --> RefineKnowledge: Adjust knowledge and beliefs
+>   RefineKnowledge --> InitialKnowledge
+> ```
 
 # Flavell's Metacognitive Taxonomy
 

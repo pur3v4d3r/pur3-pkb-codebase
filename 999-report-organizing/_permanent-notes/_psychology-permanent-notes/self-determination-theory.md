@@ -71,8 +71,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Basic Psychological Needs Overview**
+> *Identify the three core needs and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   A -->|Influences| B
+>   A -->|Influences| C
+>   B -->|Influences| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Extrinsic Motivation Continuum**
+> *Trace the progression from external regulation to integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Regulation] --> B[Introjection]
+>   B --> C[Identification]
+>   C --> D[Integration]
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivation Types Interaction**
+> *Understand how intrinsic and extrinsic motivations interact.*
+>
+> ```mermaid
+> graph TD
+>   A(Intrinsic Motivation)
+>   B[Extrinsic Motivation]
+>   C[Integration]
+>   D[Introjection]
+>   E[Identification]
+>   F[External Regulation]
+>   A -->|Can lead to| C
+>   F -->|Least Autonomous| D
+>   D -->|More Autonomous| E
+>   E -->|Most Autonomous| C
+> ```
 
 # Self-Determination Theory
 

@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bayesian Inference Process**
+> *Follow the flow from prior beliefs to posterior updates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Prior Beliefs] --> B[Sensory Data]
+>   B --> C[Combination]
+>   C --> D[Posterior Update]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bayesian Integration in Perception**
+> *Trace the integration of visual and auditory cues.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Visual Input] --> B[Integration]
+>   C[Auditory Input] --> B
+>   B --> D[Perceptual Estimate]
+> ```
+
+
+> [!abstract] **Diagram 3 — Sensorimotor Adaptation Process**
+> *Observe the feedback loop from sensory input to motor output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sensory Input] --> B[Internal Model]
+>   B --> C[Motor Output]
+>   D[Feedback] --> B
+> ```
 
 # Bayesian Brain Hypothesis
 

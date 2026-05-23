@@ -65,8 +65,77 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attribution Dimensions Overview**
+> *Identify the three dimensions of attribution: locus, stability, and controllability.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal]
+>   B[External]
+>   C[Stable]
+>   D[Unstable]
+>   E[Controllable]
+>   F[Uncontrollable]
+>   A -->|Locus of Causality| B
+>   A -->|Stability Dimension| C
+>   A -->|Controllability Dimension| E
+>   B -->|Locus of Causality| B
+>   B -->|Stability Dimension| D
+>   B -->|Controllability Dimension| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Attribution Impact on Emotions and Behavior**
+> *Trace how attributions affect emotions and subsequent behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Success]
+>   B[Failure]
+>   C[Pride & Confidence]
+>   D[Shame & Helplessness]
+>   E[Future Success Expectancy]
+>   F[Future Failure Expectancy]
+>   G[Continue Striving]
+>   H[Give Up]
+>   A -->|Internal, Stable, Controllable| C
+>   A -->|External, Unstable, Uncontrollable| C
+>   B -->|Internal, Stable, Uncontrollable| D
+>   B -->|External, Unstable, Controllable| D
+>   C --> E
+>   C --> G
+>   D --> F
+>   D --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Attribution Theory Applications**
+> *Explore practical applications in education, counseling, and organizational settings.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Counseling]
+>   C[Organizational Development]
+>   D[Encourage Effort Attribution]
+>   E[Redefine Success Attributions]
+>   F[Acknowledge Team Efforts]
+>   G[Foster Growth Mindset]
+>   H[Promote Resilience]
+>   I[Boost Morale & Productivity]
+>   A -->|D| G
+>   B -->|E| H
+>   C -->|F| I
+> ```
 
 # Attribution Theory
 

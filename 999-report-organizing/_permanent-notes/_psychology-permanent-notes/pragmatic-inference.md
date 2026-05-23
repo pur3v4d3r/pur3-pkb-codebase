@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pragmatic Inference Process Flow**
+> *Follow the flow from utterance to inferred meaning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Utterance] --> B[Contextual Cues]
+>   B --> C[Linguistic Decoding]
+>   C --> D[Shared Knowledge]
+>   D --> E[Inferred Meaning]
+> ```
+
+
+> [!abstract] **Diagram 2 — Grice's Maxims for Conversational Implicature**
+> *Identify the maxims guiding pragmatic inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Truthfulness] --> B[Relevance]
+>   C[Clarity] --> D[Brevity]
+>   E[Speaker Intentions] --> F[Listener Inferences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pragmatic Inference Mechanism Timeline**
+> *Track the timeline of pragmatic inference processes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Utterance as U
+>   participant ContextualCues as C
+>   participant LinguisticDecoding as L
+>   participant SharedKnowledge as S
+>   participant InferredMeaning as I
+>   U->>C: Utterance
+>   C->>L: Contextual Cues
+>   L->>S: Linguistic Decoding
+>   S->>I: Shared Knowledge
+>   I-->>U: Inferred Meaning
+> ```
 
 # Pragmatic Inference
 

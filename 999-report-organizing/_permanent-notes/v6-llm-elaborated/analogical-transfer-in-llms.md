@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Analogical Transfer Process**
+> *Follow the flow from source to target domain.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Domain] --> B[Surface-Level Features]
+>   B --> C[Lexical Overlap]
+>   C --> D[Structural Mapping]
+>   D --> E[Target Domain]
+> ```
+
+
+> [!abstract] **Diagram 2 — Surface vs Deep Reasoning**
+> *Compare surface-level and deep structural reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Features] --> B[Limited Transfer]
+>   C[Deep Structural Alignment] --> D[Effective Transfer]
+> ```
+
+
+> [!abstract] **Diagram 3 — Transfer Near vs Far**
+> *Identify the difference between near and far transfer.*
+>
+> ```mermaid
+> graph TD
+>   A[Near-Transfer Tasks] --> B[Similar Scenarios]
+>   C[Far-Transfer Tasks] --> D[Different Domains]
+> ```
 
 ## Core Explanation
 

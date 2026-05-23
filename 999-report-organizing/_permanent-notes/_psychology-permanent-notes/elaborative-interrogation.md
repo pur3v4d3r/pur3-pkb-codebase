@@ -71,8 +71,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elaborative Interrogation Process Flow**
+> *Follow the sequence from question formulation to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Formulate Question] --> B[Generate Answer]
+>   B --> C[Evaluate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elaborative Interrogation in Learning Scenarios**
+> *Identify the application areas and their benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Enhance Retention| B(Self-Study)
+>   B -->|Deepen Understanding| C(Collaborative Learning)
+> ```
+
+
+> [!abstract] **Diagram 3 — Elaborative Interrogation Mechanism Overview**
+> *Trace the steps from question to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Information] --> B[Formulate Question]
+>   B --> C[Generate Answer]
+>   C --> D[Evaluate Response]
+> ```
 
 # Elaborative Interrogation
 

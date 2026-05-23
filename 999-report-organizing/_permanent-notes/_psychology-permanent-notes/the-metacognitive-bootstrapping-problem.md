@@ -68,8 +68,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Regulation Process**
+> *Follow the flow from task engagement to regulation and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Engagement] --> B[Cognitive Load]
+>   B --> C[Regulation Attempt]
+>   C --> D[Resource Allocation]
+>   D --> E[Monitoring & Adjustment]
+>   E --> F[Feedback Loop]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Interaction**
+> *Identify how intrinsic load affects metacognitive regulation.*
+>
+> ```mermaid
+> graph TD
+>   A(Intrinsic Load) --> B[Regulation Attempt]
+>   C(Extraneous Load) --> D[Distraction]
+>   E(Germane Load) --> F[Skill Acquisition]
+>   G(Resource Allocation) --> H[Working Memory]
+>   I(Monitoring & Adjustment) --> J[Feedback Loop]
+> ```
+
+
+> [!abstract] **Diagram 3 — Scaffolding Mechanism**
+> *Trace how external scaffolds reduce regulatory demands.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Task as T
+>   participant Scaffolding as S
+>   L->>T: Engage with task
+>   T-->>L: High cognitive load
+>   L->>S: Seek support
+>   S-->>L: Provide guidance
+>   L->>T: Reduced regulatory demands
+>   T-->>L: Improved focus
+> ```
 
 # Metacognitive Bootstrapping Problem
 

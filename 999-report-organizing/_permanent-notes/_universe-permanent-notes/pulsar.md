@@ -99,9 +99,8 @@ provenance:
 >   B[Magnetar]
 >   C[Periodic Pulses]
 >   D[Strong Magnetic Field]
->   E[Irregular Emission]
+>   E[Irregular Pulses]
 >   F[Even Stronger Magnetic Field]
->   B -->|F| style C fill:#f96,stroke:#333,stroke-width:4px
 >   style D fill:#ccf,stroke:#333,stroke-width:4px
 >   style E fill:#f96,stroke:#333,stroke-width:4px
 >   style F fill:#ccf,stroke:#333,stroke-width:4px
@@ -115,10 +114,10 @@ provenance:
 > sequenceDiagram
 >   participant P as Pulsar
 >   participant E as Earth Observer
->   participant D as Detector
->   P->>E: Beam Sweeps Past Earth
->   E->>D: Signal Detected
->   D-->>E: Data Recorded
+>   participant G as Gravitational Wave Detector
+>   P->>E: Emit periodic pulses
+>   E-->>P: Detects regular timing
+>   E->>G: Signals detected changes in spacetime
 > ```
 
 # Pulsar

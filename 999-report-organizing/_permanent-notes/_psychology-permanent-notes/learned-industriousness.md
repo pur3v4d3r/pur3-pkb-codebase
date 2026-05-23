@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Feedback Loop for Learned Industriousness**
+> *Follow the cycle to understand how effort leads to reinforcement and vice versa.*
+>
+> ```mermaid
+> graph TD
+>   A[Effortful Behavior] --> B[Positive Reinforcement]
+>   B --> C[Success Association]
+>   C --> D[Effort in New Tasks]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Learned Industriousness**
+> *Trace the process from initial effort to generalized industrious behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Effort] --> B[Positive Reinforcement]
+>   B --> C[Effort-Success Association]
+>   C --> D[Effort in New Tasks Without Immediate Rewards]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Learned Industriousness**
+> *Identify the different contexts where effort is reinforced and rewarded.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Consistent Reward for Effort]
+>   C[Parental Involvement] --> D[Praise and Reward Efforts]
+>   E[Online Learning Feedback Systems] --> F[Recognize Consistent Engagement]
+> ```
 
 # Learned Industriousness
 

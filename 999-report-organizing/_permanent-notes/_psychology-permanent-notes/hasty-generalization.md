@@ -61,8 +61,45 @@ provenance:
   outline-contract: v6-outline-v1
   elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hasty Generalization Process Flow**
+> *Follow the steps from observation to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Skepticism]
+>   B --> C[Evaluation]
+>   C --> D[Hasty Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sample Adequacy vs Generalization Scope**
+> *Compare the adequacy of sample size with generalization scope.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Sample] --> B[Inadequate]
+>   C[Adequate Sample] --> D[Sufficient]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hasty Generalization in Domains**
+> *Identify domains where hasty generalizations are common.*
+>
+> ```mermaid
+> graph TD
+>   A[Policy-Making] --> B[Hasty Decisions]
+>   C[Marketing] --> D[Misguided Strategies]
+>   E[Scientific Research] --> F[Erroneous Conclusions]
+> ```
 
 # Hasty Generalization
 

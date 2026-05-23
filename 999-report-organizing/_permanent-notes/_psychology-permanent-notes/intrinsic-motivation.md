@@ -70,8 +70,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Intrinsic Motivation Mechanism**
+> *Follow the flow from external events to intrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Events] --> B[Controlling vs Informational]
+>   B --> C[Perceived Autonomy]
+>   C --> D[Intrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic vs Extrinsic Motivation**
+> *Compare the sources of regulation for intrinsic and extrinsic motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Volition] --> B(Intrinsic)
+>   C(External Rewards) --> D(Extrinsic)
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic Motivation in Domains**
+> *Trace the impact of intrinsic motivation across education and workplace.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Education] --> B(Academic Performance)
+>   C[Workplace] --> D(Job Satisfaction & Productivity]
+>   E(Intrinsic Motivation) --> A
+>   E --> C
+> ```
 
 # Intrinsic Motivation
 

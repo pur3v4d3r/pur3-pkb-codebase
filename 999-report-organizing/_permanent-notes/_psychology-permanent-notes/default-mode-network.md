@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — DMN Brain Regions Overview**
+> *Identify the key regions of the DMN and their connections.*
+>
+> ```mermaid
+> graph TD
+>   A[Medial Prefrontal Cortex] --> B(Posterior Cingulate Cortex)
+>   A --> C[Bilateral Angular Gyri]
+>   B --> D[Caudate Nucleus]
+>   C --> E[Hippocampus]
+> ```
+
+
+> [!abstract] **Diagram 2 — DMN vs Salience Network Functions**
+> *Compare the functions of DMN and salience network in attention.*
+>
+> ```mermaid
+> graph TD
+>   A[Default Mode Network] --> B[Internally Directed Processes]
+>   C[Salience Network] --> D[External Stimuli Attention]
+> ```
+
+
+> [!abstract] **Diagram 3 — DMN Activity During Rest and Tasks**
+> *Understand the DMN's activity during rest and task performance.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Resting: "Rest Period"
+>   Resting --> InternallyDirectedTasks: "Internally Directed Cognitive Tasks"
+>   InternallyDirectedTasks --> SuppressActivity: "Task Performance"
+>   SuppressActivity --> ExternalStimuliFocus: "External Stimuli Focus"
+>   ExternalStimuliFocus --> [*]
+> ```
 
 # Default Mode Network
 

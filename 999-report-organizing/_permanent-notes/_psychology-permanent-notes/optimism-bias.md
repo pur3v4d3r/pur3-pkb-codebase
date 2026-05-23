@@ -69,8 +69,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Optimism Bias vs General Optimism**
+> *Compare the self-focused nature of Optimism Bias with general optimism.*
+>
+> ```mermaid
+> graph TD
+>   A[General Optimism]
+>   B[Optimism Bias]
+> ```
+
+
+> [!abstract] **Diagram 2 — Decision-Making Process with Optimism Bias**
+> *Follow the flow from initial expectation to final decision, highlighting bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Expectation]
+>   B[Positive Overestimation]
+>   C[Negative Underestimation]
+>   D[Hasty Decision]
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications of Optimism Bias Understanding**
+> *Identify how understanding Optimism Bias can improve various professional approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Healthcare]
+>   C[Financial Planning]
+> ```
 
 # Optimism Bias
 

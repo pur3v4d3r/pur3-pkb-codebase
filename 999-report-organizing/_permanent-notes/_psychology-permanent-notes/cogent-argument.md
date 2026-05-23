@@ -65,8 +65,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cogency vs Soundness Comparison**
+> *Compare the characteristics of cogent and sound arguments.*
+>
+> ```mermaid
+> graph TD
+>   A[Cogent Argument]
+>   B[Deductive Soundness]
+>   A -->|High Probability| C[Conclusion]
+>   B -->|Absolute Certainty| D[Conclusion]
+>   A -- "True Premises" --> E[Probabilistic Truth]
+>   B -- "True Premises" --> F[Absolute Truth]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cogent Argument Process Flow**
+> *Follow the steps to construct a cogent argument.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Identify True Premises]
+>   C[Evaluate Logical Strength]
+>   D[Ensure High Probability]
+>   E[Draw Defeasible Conclusion]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Understand the difference between reflective and reactive thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking]
+>   B[Reactive Thinking]
+>   A -->|Deliberate Analysis| C[Strong Premises]
+>   B -->|Immediate Impressions| D[Weak Premises]
+>   C --> E[Robust Conclusions]
+>   D --> F[Unreliable Conclusions]
+> ```
 
 # Cogent Argument
 

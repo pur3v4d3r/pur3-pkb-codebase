@@ -73,8 +73,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — 2x2 Achievement Goal Framework Overview**
+> *Identify the four goal orientations and their focus areas.*
+>
+> ```mermaid
+> graph TD
+>   A["Mastery-Approach"] -->|Improving Skills| B[Focus]
+>   C["Mastery-Avoidance"] -->|Avoiding Failure in Skill Improvement| D[Focus]
+>   E["Performance-Approach"] -->|Outperform Others| F[Focus]
+>   G["Performance-Avoidance"] -->|Avoid Underperformance Relative to Others| H[Focus]
+> ```
+
+
+> [!abstract] **Diagram 2 — Goal Orientations and Their Outcomes**
+> *Understand how each orientation influences cognition, affect, strategy, and outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A["Mastery-Approach"] -->|Deep Processing Strategies| B[Outcomes]
+>   C["Mastery-Avoidance"] -->|Avoidance Behaviors| D[Outcomes]
+>   E["Performance-Approach"] -->|Surface-Level Learning| F[Outcomes]
+>   G["Performance-Avoidance"] -->|Anxiety and Poor Performance| H[Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 3 — Influence on Cognitive Strategies**
+> *See how different orientations lead to distinct cognitive strategies.*
+>
+> ```mermaid
+> graph TD
+>   A["Mastery-Approach"] -->|Deep Processing| B[Cognitive Strategies]
+>   C["Mastery-Avoidance"] -->|Avoidance Behaviors| D[Cognitive Strategies]
+>   E["Performance-Approach"] -->|Surface-Level Learning| F[Cognitive Strategies]
+>   G["Performance-Avoidance"] -->|Anxiety and Avoidance| H[Cognitive Strategies]
+> ```
 
 # 2×2 Achievement Goal Framework
 

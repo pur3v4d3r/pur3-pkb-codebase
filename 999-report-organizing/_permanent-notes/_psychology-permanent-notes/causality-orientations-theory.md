@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Motivational Orientations Overview**
+> *Identify the three types of motivational orientations and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomous]
+>   B[Controlled]
+>   C[Impersonal]
+> ```
+
+
+> [!abstract] **Diagram 2 — Development of Motivational Orientations**
+> *Understand how need-supportive and need-thwarting conditions shape motivational orientations over time.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Need-Supportive]
+>   B[Autonomous]
+>   C[Controlled/Impersonal]
+>   D[Need-Thwarting]
+>   A -->|Fosters autonomy| B
+>   C -->|Suppressed qualities| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Influence of Environmental Factors**
+> *See how situational factors can temporarily influence an individual's motivational orientation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Autonomous
+>   participant Controlled
+>   participant Impersonal
+>   participant Environment
+>   Environment->>Autonomous: Need-supportive cues
+>   Environment-->>Controlled: High-stress situation
+>   Environment-->>Impersonal: Lack of support
+> ```
 
 # Causality Orientations Theory
 

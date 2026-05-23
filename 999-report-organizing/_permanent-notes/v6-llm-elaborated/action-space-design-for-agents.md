@@ -69,8 +69,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Action Space Design Process Flow**
+> *Follow the steps from defining tools to applying controls.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Tools]
+>   B[Parameter Types]
+>   C[Validation Mechanisms]
+>   D[Access Controls]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrow vs Broad Action Spaces**
+> *Compare the impact and risks of narrow and broad action spaces.*
+>
+> ```mermaid
+> graph TD
+>   A[Narrow]
+>   B[Broad]
+> ```
+
+
+> [!abstract] **Diagram 3 — Action Space Design Components**
+> *Identify the key components in action space design.*
+>
+> ```mermaid
+> graph TD
+>   A[Tool Granularity]
+>   B[Parameter Types]
+>   C[Validation Mechanisms]
+>   D[Access Controls]
+> ```
 
 ## Core Explanation
 

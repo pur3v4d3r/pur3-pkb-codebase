@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Linking Your Thinking Process Flow**
+> *Follow the iterative process from note capture to linking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture Notes] --> B[Curate into MOCs]
+>   B --> C[Reorganize and Link]
+>   C --> D[Review and Update]
+> ```
+
+
+> [!abstract] **Diagram 2 — MOC Evolution Over Time**
+> *Observe how Maps of Content evolve from initial to final states.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial MOC] --> B[Add Notes]
+>   B --> C[Link Related Ideas]
+>   C --> D[Reorganize Structure]
+>   D --> E[Final MOC]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison with Traditional Taxonomies**
+> *Compare the flexibility of Linking Your Thinking to static folder systems.*
+>
+> ```mermaid
+> classDiagram
+>   class A{
+>     +Dynamic Evolution
+>     +Flexible Organization
+>   }
+>   class B{
+>     +Static Structure
+>     +Fixed Categories
+>   }
+>   A --> B
+> ```
 
 # Linking Your Thinking
 

@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Norepinephrine Release Process**
+> *Follow the flow from event to memory consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event] --> B[Arousal]
+>   B --> C[Norepinephrine Release]
+>   C --> D[Tagging Significant Events]
+>   D --> E[Enhanced Encoding]
+>   E --> F[Memory Consolidation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Brain Regions Involved in Norepinephrine Modulation**
+> *Identify the key brain regions and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Locus Coeruleus] --> B[Amygdala]
+>   A --> C[Hippocampus]
+>   A --> D[Cortex]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Norepinephrine's Effect on Memory**
+> *Trace the signaling pathway from receptor activation to memory consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Norepinephrine] --> B[Adrenergic Receptors]
+>   B --> C[Calcium Influx]
+>   C --> D[PKA Activation]
+>   D --> E[Protein Phosphorylation]
+>   E --> F[Synaptic Strengthening]
+> ```
 
 # Norepinephrine and Learning
 

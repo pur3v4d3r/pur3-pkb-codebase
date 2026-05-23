@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Analytical Framework Process Flow**
+> *Follow the stages from problem identification to insight derivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Identify Problem Space] --> B(Map onto Categories)
+>   B --> C(Apply Inferential Rules)
+>   C --> D(Refine and Iterate)
+> ```
+
+
+> [!abstract] **Diagram 2 — Analytical Framework Applications**
+> *See how different frameworks are applied in various contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[ADDIE]
+>   C[Business Strategy] --> D[SWOT]
+>   E(Environmental Scanning) --> F[PESTEL]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare how frameworks manage different types of cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A(Intrinsic Load) --> B(Effective Frameworks)
+>   C(Extraneous Load) --> D(Poor Design/Relevance)
+> ```
 
 # Analytical Frameworks
 

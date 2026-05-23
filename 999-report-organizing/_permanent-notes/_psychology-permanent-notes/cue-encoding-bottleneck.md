@@ -68,8 +68,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cue Encoding Process Flow**
+> *Follow the flow from cue specification to goal pursuit.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal Setting] --> B[Cue Specification]
+>   B --> C[Perceptual Detection]
+>   C --> D[Behavior Triggering]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cue Encoding Mechanism**
+> *Identify the critical steps in cue encoding and their impact.*
+>
+> ```mermaid
+> graph TD
+>   A[Implementation Intention]
+>   B[Vague Cue Specification] -->|Fail| C[Inconsistent Behavior]
+>   D[Precise Cue Specification] -->|Success| E[Consistent Goal Pursuit]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cue Encoding Applications**
+> *See how cue encoding applies in different contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant PersonalGoalSetting as PG
+>   participant BehavioralIntervention as BI
+>   participant EducationalPsychology as EP
+>   ID->>ID: Specify precise cues for learning plans
+>   PG->>PG: Train in cue specification
+>   BI->>BI: Design strategies with specific triggers
+>   EP->>EP: Include training in cue specification
+> ```
 
 # Cue-Encoding Bottleneck
 

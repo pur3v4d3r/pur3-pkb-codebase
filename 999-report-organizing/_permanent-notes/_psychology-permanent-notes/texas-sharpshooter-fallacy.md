@@ -67,8 +67,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Texas Sharpshooter Fallacy Process Flow**
+> *Follow the flow from data collection to pattern identification and reporting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B[Pattern Search]
+>   B --> C[Selective Reporting]
+>   C --> D[Misleading Conclusions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Texas Sharpshooter Fallacy vs Other Fallacies**
+> *Compare the Texas Sharpshooter Fallacy with Hasty Generalization and False Cause.*
+>
+> ```mermaid
+> graph TD
+>   A[Post hoc Pattern Identification] -->|Misleading Evidence| B[Misleading Conclusions]
+>   C[Hasty Generalization] -->|Insufficient Data| D[Broad Claims]
+>   E[False Cause Fallacy] -->|Incorrect Causality| F[Causal Misattribution]
+> ```
 
 # Texas Sharpshooter Fallacy
 

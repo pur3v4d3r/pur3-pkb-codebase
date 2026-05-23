@@ -68,8 +68,77 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Performance Goal Types Overview**
+> *Identify the two types of performance goal orientations and their focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance Goal Orientation]
+>   B[Performance-Approach]
+>   C[Performance-Avoidance]
+>   A --> B
+>   A --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Influence on Cognitive Processes**
+> *Understand how performance goal orientations affect cognitive processes and behaviors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Performance-Approach]
+>   B[Performance-Avoidance]
+>   C[Deep Engagement]
+>   D[Surface-Level Processing]
+>   E[HIGH Effort]
+>   F[LOW Effort]
+>   G[HIGH Persistence]
+>   H[LOW Persistence]
+>   I[Anxiety]
+>   J[Self-Handicapping]
+>   A -->|Challenges Manageable| C
+>   A -->|High Effort| E
+>   A -->|High Persistence| G
+>   B --> D
+>   B --> F
+>   B --> H
+>   B --> I
+>   B --> J
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact on Learning Outcomes**
+> *Compare the impact of performance-approach and avoidance orientations on learning outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Performance-Approach]
+>   B[Performance-Avoidance]
+>   C[HIGH Engagement]
+>   D[LOW Engagement]
+>   E[HIGH Retention]
+>   F[LOW Retention]
+>   G[HIGH Learning]
+>   H[LOW Learning]
+>   I[HIGH Anxiety]
+>   J[LOW Anxiety]
+>   A -->|High Engagement| C
+>   A -->|High Retention| E
+>   A -->|High Learning| G
+>   B --> D
+>   B --> F
+>   B --> H
+>   B --> I
+> ```
 
 # Performance Goal Orientation
 

@@ -70,8 +70,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Desirable Difficulties Mechanism**
+> *Follow the flow from encoding to retrieval practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Encoding]
+>   B[Increased Effort]
+>   C[Deeper Processing]
+>   D[Stronger Neural Connections]
+>   E[Retrieval Practice]
+>   F[Enhanced Long-Term Retention]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Desirable Difficulties vs Cognitive Load Theory**
+> *Compare the goals and outcomes of desirable difficulties and cognitive load theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Desirable Difficulties]
+>   B[Cognitive Load Theory]
+>   C[Strategic Increase in Processing Demands]
+>   D[Reduce Overall Cognitive Load]
+>   E[Better Long-Term Memory]
+>   F[Hindered Learning]
+>   A -->|C| E
+>   B -->|D| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Desirable Difficulties**
+> *Identify the applications and their corresponding techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Motor Skill Acquisition]
+>   C[Generative Learning]
+>   D[Spaced Repetition]
+>   E[Interleaved Practice]
+>   F[Self-Explanation]
+>   G[Problem-Solving]
+>   A -->|D| D
+>   A -->|E| E
+>   B -->|E| E
+>   C -->|F| F
+>   C -->|G| G
+> ```
 
 # Desirable Difficulties
 

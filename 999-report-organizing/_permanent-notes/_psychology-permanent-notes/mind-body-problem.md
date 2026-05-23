@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mind Body Problem Theories Overview**
+> *Identify the main theories and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Physicalism] --> B[Dualism]
+>   C[Functionalism] --> D[Identity Theory]
+>   E[Mind-Body Interaction] --> F[Causal Role]
+>   G[Brain States] --> H[Mental States]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mind Body Problem Historical Roots**
+> *Trace the historical development of key theories.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Descartes as D
+>   participant Contemporary Theorists as CT
+>   D->>CT: Dualism Origins
+>   CT-->>D: Functionalism and Identity Theory Responses
+> ```
+
+
+> [!abstract] **Diagram 3 — Mind Body Problem Practical Applications**
+> *Explore how different theories impact practical fields.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Functionalism]
+>   C[Neuroethics] --> D[Physicalism & Functionalism]
+>   E[Artificial Intelligence] --> F[Dualism or Functionalism]
+> ```
 
 # Mind Body Problem
 

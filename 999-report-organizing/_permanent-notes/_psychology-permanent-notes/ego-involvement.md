@@ -68,8 +68,75 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Ego Involvement Mechanism**
+> *Follow the psychological shift from effort to outcome focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Effort and Learning]
+>   B[Outcome Focus]
+>   C[Anxiety]
+>   D[Self-Handicapping]
+>   E[Withdrawal]
+>   F[Narrow Focus on Self-Image Protection]
+>   G[Reduced Creativity]
+>   A -->|Internalized Pressure| B
+>   B -->|Shift in Mindset| C
+>   C -->|Behavioral Responses| D
+>   C -->|Behavioral Responses| E
+>   C -->|Behavioral Responses| F
+>   F -->|Narrow Focus| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Ego Involvement in Learning Environments**
+> *Trace the impact of person-praise on Ego Involvement.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Child as C
+>   participant Adult as A
+>   participant Task as T
+>   participant Self-Worth as SW
+>   A->>C: Person-Praise (Intelligence)
+>   C-->>T: Attempt Task
+>   alt Success
+>     T-->>SW: Increased Self-Worth
+>   else Failure
+>     T-->>SW: Decreased Self-Worth
+>   end
+> ```
+
+
+> [!abstract] **Diagram 3 — Ego Involvement vs. Growth Mindset**
+> *Compare Ego Involvement with a growth mindset approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Effort and Learning]
+>   B[Outcome Focus]
+>   C[Praising Effort]
+>   D[Growth Mindset]
+>   E[Ego Involvement]
+>   F[Narrow Focus on Self-Image Protection]
+>   G[Reduced Creativity]
+>   H[Increased Resilience]
+>   I[Enhanced Learning]
+>   A -->|Praising Effort| C
+>   B -->|Outcome Focus| D
+>   C -->|Growth Mindset| H
+>   D -->|Narrow Focus| F
+>   H -->|Enhanced Learning| I
+> ```
 
 # Ego Involvement
 

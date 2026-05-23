@@ -66,8 +66,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Strategic Planning Process Flow**
+> *Follow the flow from situation assessment to governance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Situation Assessment]
+>   B --> C[Option Generation]
+>   C --> D[Commitment]
+>   D --> E[Communication]
+>   E --> F[Governance]
+>   F --> G[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Strategic Planning vs Tactical & Operational**
+> *Compare the time horizons and scope of each planning type.*
+>
+> ```mermaid
+> graph TD
+>   A[Strategic Planning]
+>   B[Tactical Planning]
+>   C[Operational Decision-Making]
+>   A -->|Long-term objectives, direction-setting| B
+>   B -->|Short-term actions| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Loop Mechanism**
+> *Trace the iterative process from commitment to learning.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Commitment
+>   Commitment --> Implementation
+>   Implementation --> Performance Monitoring
+>   Performance Monitoring --> Data Gathering
+>   Data Gathering --> Iterative Strategy Adjustment
+>   Iterative Strategy Adjustment --> Commitment
+> ```
 
 # Strategic Planning
 

@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Impact Bias Process Flow**
+> *Follow the flow from event to emotional reaction and adaptation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Event] --> B[Predicted Emotion]
+>   B --> C[Actual Emotion]
+>   C --> D[Adaptation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact Bias Mechanism Overview**
+> *Identify the key processes involved in Impact Bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Predicted Emotion]
+>   B[Adaptation] --> C[Contextual Dilution]
+>   D[Event] --> A
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact Bias Applications in Decision-Making**
+> *See how Impact Bias affects different decision-making contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Educator as E
+>   participant Policymaker as P
+>   participant MOOC_Instructor as M
+>   E->>E: Anticipate overestimated student satisfaction
+>   P->>P: Overestimate public reaction to policy changes
+>   M->>M: Expect overly optimistic forecasts about long-term benefits
+> ```
 
 # Impact Bias
 

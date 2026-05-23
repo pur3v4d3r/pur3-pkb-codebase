@@ -67,8 +67,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Collective Efficacy Process Flow**
+> *Follow the steps from recognition to reinforcement of collective efficacy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognition]
+>   B[Belief Development]
+>   C[Evaluation]
+>   D[Reinforcement or Erosion]
+>   A -->|Assess Need for Coordination| B
+>   B -->|Develop Shared Belief in Joint Capability| C
+>   C -->|Evaluate Outcomes of Actions| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Collective Efficacy vs Individual Self-Efficacy**
+> *Compare the focus and scope of collective efficacy with individual self-efficacy.*
+>
+> ```mermaid
+> graph TD
+>   A[Individual Self-Efficacy]
+>   B[Collective Efficacy]
+>   A -->|Focus on Personal Capability| C1[Belief in Own Abilities]
+>   B -->|Focus on Group Joint Capability| C2[Belief in Shared Action]
+> ```
+
+
+> [!abstract] **Diagram 3 — Collective Efficacy vs Group Cohesion**
+> *Differentiate between collective efficacy and group cohesion based on their focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Group Cohesion]
+>   B[Collective Efficacy]
+>   A -->|Focus on Emotional Bonds| C1[Enhances Social Support]
+>   B -->|Focus on Joint Capability for Action| C2[Influences Performance Outcomes]
+> ```
 
 # Collective Efficacy
 

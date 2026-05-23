@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — In-group favoritism vs out-group derogation**
+> *Compare the extent of favoritism and derogation.*
+>
+> ```mermaid
+> graph TD
+>   A[In-Group Favoritism]
+>   B[Out-Group Derogation]
+>   A -->|More Common| C[Asymmetric Bias]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of in-group bias**
+> *Follow the process from categorization to favoritism.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Group Categorization]
+>   B[Intergroup Comparison]
+>   C[Self-Categorization]
+>   D[Favoritism/Derogation]
+>   A -->|Based on Minimal Criteria| B
+>   B -->|Enhances Self-Esteem| C
+>   C -->|Triggers Favoritism/Derogation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — In-group bias in workplace settings**
+> *See how biases affect resource allocation and trust.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Resource Allocation]
+>   B[Trust Building]
+>   C[Favor In-Group Members]
+>   D[Out-Group Neglect]
+>   A -->|Promotions/Projects| C
+>   B -->|Recommendations| C
+>   A -->|Unequal Opportunities| D
+>   B -->|Reduced Trust| D
+> ```
 
 # In Group Out Group Bias
 

@@ -68,8 +68,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Learned Helplessness Process Flow**
+> *Follow the sequence from uncontrollable events to reduced motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Uncontrollable Negative Events] --> B[Stable Expectancy]
+>   B --> C[Generalized Uncontrollability]
+>   C --> D[Suppressed Motivation and Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attributional Style in Learned Helplessness**
+> *Identify the internal-stable-global attribution leading to helplessness.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Attribution] --> B[Stable Cause]
+>   B --> C[Global Generalization]
+>   C --> D[Helplessness]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Learned Helplessness**
+> *Trace the interventions from attributional style to improved outcomes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Client as C
+>   participant Counselor as Co
+>   participant Instructor as I
+>   participant Manager as M
+>   C->>Co: Negative Attribution Style
+>   Co->>C: Reframe Experiences
+>   I->>Student: Success Opportunities
+>   M->>Employee: Skill Development
+>   C-->>Co: Improved Motivation
+>   Student-->>I: Enhanced Learning
+>   Employee-->>M: Increased Productivity
+> ```
 
 # Learned Helplessness
 

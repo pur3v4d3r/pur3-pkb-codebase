@@ -72,8 +72,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Activation Patching Process Overview**
+> *Follow the flow from clean pass to corrupted pass and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Clean Pass] --> B[Corrupted Pass]
+>   B --> C[Patch Activations]
+>   C --> D[Evaluate Impact]
+> ```
+
+
+> [!abstract] **Diagram 2 — Activation Patching Workflow**
+> *Trace the steps from input alteration to output restoration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Alteration] --> B[Corrupted Forward Pass]
+>   B --> C[Patch Clean Activations]
+>   C --> D[Evaluate Output Restoration]
+> ```
+
+
+> [!abstract] **Diagram 3 — Causal vs Correlational Encoding**
+> *Compare the two types of encoding based on their impact.*
+>
+> ```mermaid
+> graph TD
+>   A[Correlational Probing] --> B[Identifies Presence]
+>   C["Causal Evidence (Activation Patching)"] --> D[Demonstrates Influence]
+> ```
 
 ## Core Explanation
 

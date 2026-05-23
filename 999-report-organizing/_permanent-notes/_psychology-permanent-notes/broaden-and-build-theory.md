@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positive Emotions Broaden Attention**
+> *Follow the arrows to see how positive emotions expand attention and action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Emotion] --> B[Broadened Attention]
+>   B --> C[Wider Action Repertoires]
+> ```
+
+
+> [!abstract] **Diagram 2 — Resource Building Process**
+> *Trace the cycle to understand how positive emotions build long-term resources.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Emotion] --> B[Broadened Attention]
+>   B --> C[Wider Action Repertoires]
+>   C --> D[Resource Development]
+>   D --> E[Sustained Benefits]
+> ```
+
+
+> [!abstract] **Diagram 3 — Physiological Changes in Positive Emotions**
+> *See the physiological effects triggered by positive emotions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Emotion] --> B[Increased Heart Rate Variability]
+>   A --> C[Enhanced Neural Activity]
+>   A --> D[Vagal Tone Increase]
+> ```
 
 # Broaden And Build Theory
 

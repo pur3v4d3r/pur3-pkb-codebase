@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Goal Setting Theory Framework**
+> *Identify the interaction between specificity and difficulty.*
+>
+> ```mermaid
+> graph TD
+>   A[Specificity]
+>   B[Difficulty]
+>   C[Performance Gains]
+>   A -->|Clear Criterion| C
+>   B -->|Mobilizes Resources| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Conjunction**
+> *Understand how specificity and difficulty work together.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Specificity]
+>   B[Difficulty]
+>   C[Evaluation Criterion]
+>   D[Motivational Push]
+>   E[Performance Improvement]
+>   A -->|Provides Clear Benchmark| C
+>   B -->|Challenges Individuals| D
+>   C -->|Measurable Progress| E
+>   D -->|Energizes Effort| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *See how the conjunction applies in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Project Management]
+>   C[Personal Development]
+>   D[MOOCs]
+> ```
 
 # Specificity-Difficulty Conjunction
 

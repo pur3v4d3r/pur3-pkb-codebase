@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Group Epistemic States Overview**
+> *Follow the flow from individual beliefs to group outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Individual Beliefs] --> B(Group Aggregation)
+>   B --> C[Group Dynamics]
+>   C --> D[Epistemic Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective vs Reactive Thinking**
+> *Compare the paths of reflective and reactive group decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A1[Input] --> B1(Reflective)
+>   B1 --> C1(Critical Evaluation)
+>   C1 --> D1(Accurate Outcome)
+>   A2[Input] --> B2(Reactive)
+>   B2 --> C2(Biased Decision)
+>   C2 --> D2(Inaccurate Outcome)
+> ```
+
+
+> [!abstract] **Diagram 3 — Collective Epistemology vs Social Epistemology**
+> *Identify the scope of each field in social knowledge dynamics.*
+>
+> ```mermaid
+> graph TD
+>   A[Social Epistemology] -->|Broader Scope| B(Societal Knowledge)
+>   C[Collective Epistemology] -->|Specific Focus| D(Group-Level Dynamics)
+> ```
 
 # Collective Epistemology
 

@@ -64,8 +64,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — First Principles Process Flow**
+> *Follow the steps from problem deconstruction to solution reassembly.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Core Components] --> B[Analyze Fundamentals]
+>   B --> C[Reassemble Solution]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Analogical Reasoning**
+> *Compare the focus of First Principles vs. Analogical reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Fundamentals] --> B[Reassemble]
+>   C[Existing Solutions] --> D[Analogies]
+> ```
+
+
+> [!abstract] **Diagram 3 — First Principles in Practice**
+> *See how First Principles Thinking applies across different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Engineering]
+>   C[Business Strategy] --> D[Tech Innovation]
+> ```
 
 # First-Principles Thinking
 

@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Inductive Reasoning Process Flow**
+> *Follow the flow from observation to hypothesis testing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Pattern Identification]
+>   B --> C[Hypothesis Formation]
+>   C --> D[Hypothesis Testing]
+> ```
+
+
+> [!abstract] **Diagram 2 — Inductive vs Deductive Reasoning Comparison**
+> *Compare the flow from specific to general or vice versa.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Instances] --> B[Generalization]
+>   C[Deduction] --> D[Necessary Conclusion]
+>   A -->|Probabilistic| B
+>   C -->|Necessary| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Inductive Reasoning Mechanism Stages**
+> *Trace the stages from observation to validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observation] --> B[Pattern Identification]
+>   B --> C[Hypothesis Formation]
+>   C --> D[Hypothesis Testing]
+> ```
 
 # Inductive Reasoning
 

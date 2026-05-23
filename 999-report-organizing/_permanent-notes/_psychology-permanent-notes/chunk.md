@@ -68,8 +68,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chunking Process Overview**
+> *Follow the flow from novice to expert through chunk formation.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice]
+>   B[Complex Information]
+>   C[Integrated Units]
+>   D[Expert]
+>   A -->|Perceive as Separate Elements| B
+>   B -->|Attentive Engagement| C
+>   C -->|Form Chunks| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Chunking Mechanism Flow**
+> *Trace the steps from initial perception to chunk formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Perception]
+>   B[Attention]
+>   C[Integration]
+>   D[Repetition]
+>   E[Engagement]
+>   F[Chunking]
+>   A -->|Co-occurring Elements| B
+>   B -->|Structure Comparison| C
+>   C -->|Explanatory Engagement| E
+>   E -->|Active Construction| F
+>   D -->|Passive Accumulation| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Chunking vs Surface Processing**
+> *Compare chunking with surface processing in terms of engagement depth.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Processing]
+>   B[Rote Learning]
+>   C[Superficial Engagement]
+>   D[Deep Processing]
+>   E[Integrated Units]
+>   F[Meaningful Understanding]
+>   A -->|Rote Memorization| B
+>   B -->|Superficial Interaction| C
+>   D -->|Explanatory Engagement| E
+>   E -->|Integrated Knowledge| F
+> ```
 
 # Chunk
 

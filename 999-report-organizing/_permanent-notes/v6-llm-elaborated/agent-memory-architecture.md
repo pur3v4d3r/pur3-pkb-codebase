@@ -72,8 +72,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Types Overview**
+> *Identify the different types of memory and their functions.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Epiodic Memory]
+>   C[Sematic Memory]
+>   D[Procedural Memory]
+>   A -->|Immediate Tasks| E[Context Window]
+>   B -->|Past Experiences| F[Vector DB]
+>   C -->|Factual Knowledge| G[Knowledge Base]
+>   D -->|Skills| H[Fine-Tuned Models]
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Management Strategies**
+> *Understand the strategies to manage memory coherence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Consolidation]
+>   B[Prioritization]
+>   C[Validation]
+>   D[Conflict Resolution]
+>   E[Outdated Information Removal]
+>   A -->|Summarize and Compress| F[Old Info]
+>   B -->|Weight Relevant Memories| G[Contextual Relevance]
+>   C -->|Check Consistency| H[Retrieved Memory]
+>   D -->|Resolve Conflicts| I[Coherent Responses]
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Integration in Agents**
+> *See how working and long-term memories are integrated.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Working Memory
+>   participant B as Long-Term Memory
+>   participant C as Agent
+>   A->>C: Manage Immediate Tasks
+>   C->>B: Retrieve Historical Data
+>   B-->>A: Provide Contextual Information
+>   C->>A: Adapt Response Based on History
+> ```
 
 ## Core Explanation
 

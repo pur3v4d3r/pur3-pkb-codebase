@@ -69,8 +69,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Recurrent vs Non-Recurrent Skills Overview**
+> *Identify the consistent and adaptive aspects of skills.*
+>
+> ```mermaid
+> graph TD
+>   A[Recurrent]
+>   B[Non-Recurrent]
+> ```
+
+
+> [!abstract] **Diagram 2 — Skill Development Process Flow**
+> *Follow the progression from novice to expert.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novice]
+>   B[Recurrent Skills]
+>   C[Non-Recurrent Skills]
+>   D[Expert]
+>   A -->|Practice| B
+>   B -->|Adaptation| C
+>   C -->|Automation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Focus Shift**
+> *See how focus changes from recurrent to non-recurrent skills.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Novice as N
+>   participant Trainer as T
+>   N->>T: Follow Procedures
+>   T-->>N: Practice Recurrent Skills
+>   N->>T: Adapt and Reason
+>   T-->>N: Develop Non-Recurrent Skills
+> ```
 
 # Recurrent vs. Non-Recurrent Constituent Skills
 

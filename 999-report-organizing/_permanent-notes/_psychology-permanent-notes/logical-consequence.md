@@ -66,8 +66,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logical Consequence Flowchart**
+> *Follow the flow from premises to conclusion based on logical form.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premises] --> B[Logical Form]
+>   B --> C[Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Syntactic Definitions**
+> *Compare semantic and syntactic approaches to logical consequence.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic] -->|Truth Preservation| D[Logical Consequence]
+>   B[Syntactic] -->|Formal Derivation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Areas of Logical Consequence**
+> *Identify the areas where logical consequence is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Formal Logic] --> B(Logical Soundness)
+>   C[Argument Analysis] --> D(Valid Arguments)
+>   E[Theory Validation] --> F(Theoretical Consistency)
+> ```
 
 # Logical Consequence
 

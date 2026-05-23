@@ -68,8 +68,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spacing Effect Process Flow**
+> *Follow the flow from initial study to long-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Study] --> B[First Review]
+>   B --> C[Second Review]
+>   C --> D[Long-Term Retention]
+> ```
+
+
+> [!abstract] **Diagram 2 — Spacing vs Massed Practice Comparison**
+> *Compare the retention rates of spaced and massed practice.*
+>
+> ```mermaid
+> graph TD
+>   A[Spaced Practice] --> B(Long-Term Retention)
+>   C[Massed Practice] --> D(Short-Term Forgetting)
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanisms of Spacing Effect**
+> *Identify the key mechanisms involved in the spacing effect.*
+>
+> ```mermaid
+> graph TD
+>   A[Encoding Variability] --> B(Enhanced Memory Formation)
+>   C[Consolidation-Based Accounts] --> D(Better Long-Term Retention)
+> ```
 
 # Spacing Effect
 

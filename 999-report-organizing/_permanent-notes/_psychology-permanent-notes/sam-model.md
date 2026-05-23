@@ -64,8 +64,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SAM Cycles Overview**
+> *Follow the flow from Preparation to Iterative Development.*
+>
+> ```mermaid
+> graph TD
+>   A[Preparation]
+>   B[Iterative Design]
+>   C[Iterative Development]
+>   A -->|Gather Info| B
+>   B -->|Create Prototypes| C
+>   C -->|Develop Final Product| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Prototype Feedback Loop**
+> *Track the iterative refinement process through stakeholder feedback.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stakeholders]
+>   B[Designers]
+>   C[Prototypes]
+>   D[Feedback]
+>   E[Refined Designs]
+>   F[Final Product]
+>   A -->|Provide Feedback| D
+>   D -->|Inform Refinement| B
+>   B -->|Create Prototypes| C
+>   C -->|Review and Revise| E
+>   E -->|Develop Final Product| F
+> ```
 
 # Successive Approximation Model
 

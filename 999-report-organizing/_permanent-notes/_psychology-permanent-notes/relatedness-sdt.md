@@ -70,8 +70,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SDT Needs Hierarchy**
+> *Identify the three core needs of SDT and their interrelation.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy] --> B[Intrinsic Motivation]
+>   C[Competence] --> B
+>   D[Relatedness] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Relatedness**
+> *Understand how mutual warmth and care contribute to relatedness.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Authentic Interaction] --> B[Mutual Warmth]
+>   B --> C[Genuine Care]
+>   C --> D[Sense of Connection]
+> ```
+
+
+> [!abstract] **Diagram 3 — Relatedness vs Autonomy**
+> *Compare the focus areas of relatedness and autonomy in SDT.*
+>
+> ```mermaid
+> classDiagram
+>   class Relatedness{
+>     +Feel Connected
+>     +Cared For By Others
+>   }
+>   class Autonomy{
+>     +Personal Control
+>     +Self-Determination
+>   }
+>   Relatedness --> IntrinsicMotivation
+>   Autonomy --> IntrinsicMotivation
+> ```
 
 # Relatedness
 

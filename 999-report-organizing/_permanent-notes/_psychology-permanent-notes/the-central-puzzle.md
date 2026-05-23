@@ -69,8 +69,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Intention to Action Gap**
+> *Identify the gap between intention and action.*
+>
+> ```mermaid
+> graph TD
+>   A[Behavioral Intention] --> B[Intention-Action Gap]
+>   B --> C[Actual Behavior]
+> ```
+
+
+> [!abstract] **Diagram 2 — Implementation Intentions Process**
+> *Follow the flow from intention to action through implementation intentions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Set Goal] --> B[Form Implementation Intention]
+>   B --> C[Specify When & Where]
+>   C --> D[Cue for Action]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Aspects Influence**
+> *Understand how specific timing affects action execution.*
+>
+> ```mermaid
+> graph TD
+>   A[Flexible Schedule] --> B[Vague Execution]
+>   C[Specific Time] --> D[Efficacious Action]
+> ```
 
 # The Central Puzzle
 

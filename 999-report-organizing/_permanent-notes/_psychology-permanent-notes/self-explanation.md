@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Explanation Process Flow**
+> *Follow the sequence from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Breakdown]
+>   B --> C[Connect]
+>   C --> D[Justify]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Explanation Mechanism Overview**
+> *Trace the flow from initial understanding to deeper comprehension.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Understanding] --> B[Schema Gaps]
+>   B --> C[Comprehension Monitoring]
+>   C --> D[Prevent Fluency Illusions]
+>   D --> E[Deep Comprehension]
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Explanation Applications in Education**
+> *Identify the different contexts where Self-Explanation can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Study Strategies]
+>   B --> C[Formative Assessment]
+> ```
 
 # Self-Explanation
 

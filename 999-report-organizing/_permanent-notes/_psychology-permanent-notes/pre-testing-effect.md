@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pre-testing Process Flow**
+> *Follow the sequence from initial retrieval attempt to enhanced retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Retrieval Attempt] --> B[Unsuccessful]
+>   B --> C[Subsequent Study Session]
+>   C --> D[Enhanced Retention]
+> ```
+
+
+> [!abstract] **Diagram 2 — Pre-testing Applications in Education**
+> *Identify various educational settings where pre-testing can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Online Learning]
+>   A --> C[Study Groups]
+>   A --> D[Spaced Retrieval MOOCs]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pre-testing vs Intrinsic Load**
+> *Compare pre-testing with intrinsic load to understand their distinct impacts.*
+>
+> ```mermaid
+> classDiagram
+>   class PreTestingEffect{
+>     +retrievalInducedFacilitation()
+>     +enhancesRetention()
+>   }
+>   class IntrinsicLoad{
+>     +inherentDifficulty()
+>   }
+>   PreTestingEffect --> IntrinsicLoad
+> ```
 
 # Pre-Testing Effect
 

@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Mechanisms Interaction**
+> *Follow the flow from input to output, noting key cognitive mechanisms.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Retrieval Practice]
+>   B --> C[Spaced Repetition]
+>   C --> D[Integration]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Theory Framework**
+> *Identify the three types of cognitive load and their impact on PKM.*
+>
+> ```mermaid
+> graph TD
+>   A(Intrinsic) -->|Material Difficulty| F(Processing)
+>   B[Extraneous] -->|Unnecessary Design| F
+>   C(Germane) -->|Strategic Organization| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective Thinking Process**
+> *Trace the steps of reflective thinking in PKM planning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Review] --> B[Evaluation]
+>   B --> C[Analysis]
+>   C --> D[Refinement]
+> ```
 
 # The Convergence Thesis
 

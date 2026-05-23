@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Argument Reconstruction Process Flow**
+> *Follow the steps from analysis to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Explicit Premises] --> B[Infer Implicit Premises]
+>   B --> C[Evaluate Logical Structure]
+>   C --> D[Assess Validity and Soundness]
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Reconstruction vs Summarization**
+> *Compare the focus of Argument Reconstruction with summarization.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument Reconstruction] -->|Focus on| B(Logical Structure)
+>   C[Summarization] -->|Focus on| D(Content Restatement)
+> ```
+
+
+> [!abstract] **Diagram 3 — Charitable vs Adversarial Reconstruction**
+> *Understand the contrasting approaches in argument reconstruction.*
+>
+> ```mermaid
+> graph TD
+>   A[Charitable] -->|Strongest Form| B(Constructive Debate)
+>   C[Adversarial] -->|Weaknesses and Ambiguities| D(Misrepresentation Risk)
+> ```
 
 # Argument Reconstruction
 

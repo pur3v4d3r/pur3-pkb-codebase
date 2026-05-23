@@ -65,8 +65,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Regulation Types Hierarchy**
+> *Follow the hierarchy from external to integrated regulation.*
+>
+> ```mermaid
+> graph TD
+>   A[External Regulation] --> B[Introjected Regulation]
+>   B --> C[Identified Regulation]
+>   C --> D[Integrated Regulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Identified Regulation**
+> *Trace the stages from initial adoption to conscious endorsement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Adoption] --> B[Internalized Contingencies]
+>   B --> C[Experience Benefits]
+>   C --> D[Conscious Endorsement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Autonomy-Supportive Environment Factors**
+> *Identify the key factors supporting autonomy in educational settings.*
+>
+> ```mermaid
+> graph TD
+>   A(Autonomy) --> B[Volition]
+>   C(Competence) --> D[Stabilization Against Challenges]
+>   E(Relatedness) --> F[Social Context for Internalization]
+> ```
 
 # Identified Regulation
 

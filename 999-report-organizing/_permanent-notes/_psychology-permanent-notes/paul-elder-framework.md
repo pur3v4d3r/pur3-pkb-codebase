@@ -65,8 +65,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elements of Thought Overview**
+> *Identify the eight elements and their roles in reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A["Purpose"] --> B["Question"]
+>   B --> C["Information"]
+>   C --> D["Inferences"]
+>   D --> E["Concepts"]
+>   E --> F["Assumptions"]
+>   F --> G["Implications"]
+>   G --> H["Point of View"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intellectual Standards Evaluation**
+> *Understand how standards are applied to elements for evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Elements] --> B[Clarity]
+>   A --> C[Accuracy]
+>   A --> D[Relevance]
+>   A --> E[Depth]
+>   A --> F[Breadth]
+>   A --> G[Logic]
+>   A --> H[Fairness]
+>   A --> I[Significance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning Process Flow**
+> *Follow the step-by-step process for applying critical thinking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Element as E
+>   participant Standard as S
+>   U->>E: Identify Elements
+>   E->>S: Apply Standards
+>   S-->>U: Evaluate Reasoning
+> ```
 
 # Paul-Elder Framework
 

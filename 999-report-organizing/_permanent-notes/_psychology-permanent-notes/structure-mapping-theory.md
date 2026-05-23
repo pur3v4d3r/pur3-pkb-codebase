@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Relational Structure Alignment**
+> *Follow the flow from base to target domain.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Base Domain] --> B[Identify Relational Structure]
+>   B --> C[Align Structures]
+>   C --> D[Transfer Knowledge]
+>   D --> E[Target Domain]
+> ```
+
+
+> [!abstract] **Diagram 2 — Analogical Reasoning Process**
+> *Trace the stages of analogical reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Base Structure] --> B[Compare Structures]
+>   B --> C[Map Relations]
+>   C --> D[Solve Target Problem]
+> ```
+
+
+> [!abstract] **Diagram 3 — Relational vs Surface Features**
+> *Notice the focus on relational structure over surface features.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface Features] -->|Less Effective| B[Analogical Reasoning]
+>   C[Relational Structure] -->|More Effective| B
+> ```
 
 # Structure Mapping Theory
 

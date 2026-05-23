@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Assimilation Process Flow**
+> *Follow the flow from new input to schema application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[New Input] --> B[Compare Against Schema]
+>   B --> C[Fitting Threshold Check]
+>   C -->|Match| D[Integrate Into Existing Schema]
+>   C -->|Mismatch| E[Suppress Mismatch]
+>   E --> F[Persist Until Unavoidable]
+> ```
+
+
+> [!abstract] **Diagram 2 — Assimilation vs Accommodation**
+> *Compare the two processes in cognitive adaptation.*
+>
+> ```mermaid
+> graph TD
+>   A[New Information] --> B1(Assimilate)
+>   A --> B2(Accommodate)
+>   B1 --> C[Integrate Without Change]
+>   B2 --> D[Revise Schema]
+> ```
+
+
+> [!abstract] **Diagram 3 — Assimilation Mechanism Hierarchy**
+> *Trace the hierarchical matching process of assimilation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Compare Against]
+>   B --> C1(Salient Features)
+>   B --> C2(General Schema)
+>   C1 --> D1(Core Attributes Match)
+>   C2 --> D2(Core Structure Match)
+> ```
 
 # Assimilation
 

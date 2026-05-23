@@ -67,8 +67,60 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Head Specialization Overview**
+> *Identify the specialized roles of different heads.*
+>
+> ```mermaid
+> graph TD
+>   A[Syntactic]
+>   B[Positional]
+>   C[Semantic]
+>   D[Redundant]
+>   E[Overlapping]
+>   F[Distinctive]
+>   A -->|Specialized Role| G[Head1]
+>   B -->|Specialized Role| H[Head2]
+>   C -->|Specialized Role| I[Head3]
+>   D -->|Redundancy| J[Head4]
+>   E -->|Overlap| K[Head5]
+>   F -->|Distinctiveness| L[Head6]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dynamic Adaptation During Training**
+> *Track the evolution of head specialization over training.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial
+>   Initial --> Specialized : Training Iterations
+>   Specialized --> Fine-Tuned : Task-Specific Challenges
+>   Fine-Tuned --> Optimized : Performance Enhancement
+> ```
+
+
+> [!abstract] **Diagram 3 — Interactions with Other Components**
+> *Understand the interplay between heads and other model parts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Head1 as H1
+>   participant PositionalEncoding as PE
+>   participant FFN as F
+>   H1->>PE: Extracts Positional Context
+>   PE-->>H1: Enhances Attention Weights
+>   H1->>F: Passes Information
+>   F-->>H1: Modifies Internal Representations
+> ```
 
 ## Core Explanation
 

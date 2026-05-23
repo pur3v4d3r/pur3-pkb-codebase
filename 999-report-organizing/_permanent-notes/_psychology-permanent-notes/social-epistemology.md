@@ -65,8 +65,73 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Social Epistemology Core Concepts**
+> *Identify the key aspects of social epistemology.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge]
+>   B[Testimony]
+>   C[Expertise]
+>   D[Group Belief]
+>   E[Knowledge Institutions]
+>   F[Epistemic Justice]
+>   G[Norms and Values]
+>   A -->|Influenced by| B
+>   A -->|Dependent on| C
+>   A -->|Formed through| D
+>   A -->|Produced in| E
+>   A -->|Impacted by| F
+>   A -->|Shaped by| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Social Epistemology Mechanism Overview**
+> *Understand the process of knowledge acquisition through testimony.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief]
+>   B[Testimony]
+>   C[Credibility Hierarchy]
+>   D[Trust]
+>   E[Authority]
+>   F[Social Interaction]
+>   A -->|Influenced by| B
+>   B -->|Based on| C
+>   C -->|Established through| D
+>   D -->|Supported by| E
+>   E -->|Facilitated by| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Social Epistemology Applications**
+> *Explore practical applications in different domains.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Science Communication]
+>   C[Courts]
+>   D[MOOCs]
+>   E[Collaborative Knowledge Construction]
+>   F[Credible Sources]
+>   G[Balanced Expert Testimony]
+>   H[Spaced Retrieval]
+>   A -->|Fosters| E
+>   B -->|Engages with| F
+>   C -->|Evaluates| G
+>   D -->|Enhances through| H
+> ```
 
 # Social Epistemology
 

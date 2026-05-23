@@ -63,8 +63,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Productive Struggle Process Flow**
+> *Follow the sequence from problem-solving to explanation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Problem Presentation] --> B[Independent Problem Solving]
+>   B --> C[Feedback/Explanation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Theory Integration**
+> *Trace how productive struggle manages cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[Cognitive Load] --> B[Effortful Problem Solving]
+>   B --> C[Activation of Prior Knowledge]
+>   C --> D[Integration of New Information]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Application**
+> *Identify the steps in applying productive struggle in teaching.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Teacher as T
+>   S->>T: Receives Challenging Task
+>   S->>S: Solves Problem Independently
+>   S->>T: Seeks Feedback/Explanation
+> ```
 
 # Productive Struggle
 

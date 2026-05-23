@@ -66,8 +66,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PATH Search Process Flow**
+> *Follow the sequence from command input to execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Command Input] --> B[Check Internal Shell]
+>   B -->|No Match| C[Search PATH Directories]
+>   C --> D[First Match Found]
+>   D --> E[Execute Program]
+>   C --> F[No Matches Found]
+>   F --> G[Error: Command Not Found]
+> ```
+
+
+> [!abstract] **Diagram 2 — PATH Directory Search Order**
+> *Identify the order in which directories are searched.*
+>
+> ```mermaid
+> graph TD
+>   A[Directory1] --> B[Directory2]
+>   B --> C[Directory3]
+>   C --> D[Directory4]
+> ```
+
+
+> [!abstract] **Diagram 3 — PATH Configuration Impact**
+> *Understand the implications of PATH configuration.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant System as S
+>   participant Program as P
+>   U->>S: Invoke 'python'
+>   S->>P: Check Directory1
+>   opt First Match Found
+>     S-->>U: Execute Python
+>   end
+>   alt No Matches in Directory1
+>     S->>P: Check Directory2
+>     opt Second Match Found
+>       S-->>U: Execute Python
+>     end
+>     alt No Matches in Directory2
+>       S-->>U: Error 'Python not found'
+>     end
+>   end
+> ```
 
 # PATH Environment Variable
 

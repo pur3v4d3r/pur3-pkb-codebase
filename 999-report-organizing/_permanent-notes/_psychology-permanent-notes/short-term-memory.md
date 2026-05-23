@@ -65,8 +65,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — STM Multi-Store Model Overview**
+> *Follow the flow of information from sensory registration to long-term memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensory Registration] --> B[Short-Term Memory]
+>   B --> C[Long-Term Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — STM Information Flow Process**
+> *Trace the steps from sensory input to decay or consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Sensory Input] --> B[Encoding]
+>   B --> C[Maintenance]
+>   C -->|Decay| D[Forget]
+>   C -->|Rehearsal| E[Consolidation]
+> ```
+
+
+> [!abstract] **Diagram 3 — STM Capacity and Duration Limits**
+> *Note the capacity range and decay timeline of STM.*
+>
+> ```mermaid
+> graph TD
+>   A[Capacity] --> B[7±2 Items]
+>   C[Duration] --> D[15-30 Secs]
+> ```
 
 # Short-Term Memory
 

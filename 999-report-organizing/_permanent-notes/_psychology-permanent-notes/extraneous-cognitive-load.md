@@ -66,8 +66,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Extraneous Cognitive Load Components**
+> *Identify the elements that contribute to extraneous load.*
+>
+> ```mermaid
+> graph TD
+>   A[Split-Attention Displays]
+>   B[Modality Mismatches]
+>   C[Poor Instructional Sequencing]
+>   D[Excessive Multimedia Use]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Working Memory**
+> *Trace the flow of cognitive load impacting working memory.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design Choices]
+>   B[Extraneous Cognitive Load]
+>   C[Working Memory Overload]
+>   D[Illustrative Example --> Split-Attention Displays]
+>   E[Illustrative Example --> Modality Mismatches]
+>   F[Illustrative Example --> Poor Sequencing]
+>   G[Illustrative Example --> Excessive Multimedia]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications to Reduce Load**
+> *Explore strategies to minimize extraneous cognitive load.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Educational Technology]
+>   C[Classroom Teaching]
+>   D[Worked Examples --> Focus on Key Aspects]
+>   E[Aligned Visual & Auditory Explanations]
+>   F[Clear Language, No Distractions]
+>   G[Step-by-Step Information Presentation]
+> ```
 
 # Extraneous Cognitive Load
 

@@ -69,8 +69,62 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Type 1 Default Response Flow**
+> *Follow the flow from initial response to Type 2 intervention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Situation] --> B[Type 1 Response]
+>   B -->|No Specific Conditions| C[Default Endorsement]
+>   B -->|Specific Conditions| D[Type 2 Intervention]
+>   D --> E[Endorsement/Rationalization/Override]
+> ```
+
+
+> [!abstract] **Diagram 2 — Conditions for Type 2 Engagement**
+> *Identify the conditions that trigger Type 2 intervention.*
+>
+> ```mermaid
+> graph TD
+>   A[Perceived Difficulty] --> B(Type 2)
+>   C[Conflict Between Intuitions] -->|Explicit Instructions| D(Type 2)
+>   E[Metacognitive Monitoring] --> F(Type 2)
+>   G[Sufficient Time/Resources] --> H(Type 2)
+> ```
+
+
+> [!abstract] **Diagram 3 — Dual-Process Interaction Mechanism**
+> *Trace the interaction between Type 1 and Type 2 processes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant T1 as 'Type 1'
+>   participant T2 as 'Type 2'
+>   T1->>T2: Generates Initial Response
+>   alt Specific Conditions Met
+>     T2-->>T1: Intervenes
+>     opt Endorsement
+>       T2-->>T1: Accepts Initial Response
+>     end
+>     opt Rationalization
+>       T2-->>T1: Justifies Despite Evidence
+>     end
+>     opt Override
+>       T2-->>T1: Corrects Initial Response
+>     end
+>   else No Specific Conditions Met
+>     T1->>T2: Default Endorsement
+>   end
+> ```
 
 # Default-Interventionist Architecture
 

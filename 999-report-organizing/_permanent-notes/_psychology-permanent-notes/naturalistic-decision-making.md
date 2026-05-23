@@ -71,8 +71,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Naturalistic Decision Process Flow**
+> *Follow the flow from situation assessment to action selection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assess Situation] --> B[Recognize Pattern]
+>   B --> C[Predict Outcome]
+>   C --> D[Select Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Classical Decision Theory**
+> *Compare the focus areas of NDM and classical decision theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Naturalistic Decision Making] --> B[Intrinsic Load]
+>   A --> C[Rapid Recognition]
+>   D[Classical Decision Theory] --> E[Extraneous Load]
+>   D --> F[Deliberate Analysis]
+> ```
+
+
+> [!abstract] **Diagram 3 — NDM Mechanism Overview**
+> *Trace the steps from situation assessment to action.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assess Situation] --> B[Recognize Pattern]
+>   B --> C[Predict Outcome]
+>   C --> D[Select Action]
+> ```
 
 # Naturalistic Decision Making
 

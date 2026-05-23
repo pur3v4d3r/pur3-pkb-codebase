@@ -66,8 +66,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Imagination Inflation Process Flow**
+> *Follow the flow from imagination to increased confidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Imagine Event]
+>   B --> C[Vivid Imagination]
+>   C --> D[Integration into Memory]
+>   D --> E[Increased Confidence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Imagination Inflation Mechanism Overview**
+> *Trace the steps from imagination to memory blurring.*
+>
+> ```mermaid
+> graph TD
+>   A[Imagined Event] --> B[Vivid Mental Representation]
+>   B --> C[Integration into Memory Framework]
+>   C --> D[Repeated Elaboration]
+>   D --> E[Mental Models Become Convincing]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Imagination Inflation**
+> *Identify the areas where imagination inflation can occur.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[False Confidence in Scenarios]
+>   C[Therapy] --> D[False Memories in Trauma Recovery]
+>   E[Journalism] --> F[False Recollections in Reporting]
+>   G[MOOCs] --> H[Overestimation of Mastery]
+> ```
 
 # Imagination Inflation
 

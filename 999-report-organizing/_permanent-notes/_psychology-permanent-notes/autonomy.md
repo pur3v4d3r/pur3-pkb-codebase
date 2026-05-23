@@ -67,8 +67,44 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Autonomy Process Flow**
+> *Follow the flow from external regulation to internalization.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Regulation] --> B[Volitional Endorsement]
+>   B --> C[Integration into Self-Concept]
+>   C --> D[Sustained Behavior]
+> ```
+
+
+> [!abstract] **Diagram 2 — Autonomy in Cultural Contexts**
+> *Compare how autonomy manifests differently across cultures.*
+>
+> ```mermaid
+> graph TD
+>   A[Individualistic Cultures] --> B[Emphasizes Personal Choice]
+>   C[Collectivist Cultures] --> D[Aligns with Group Values]
+> ```
+
+
+> [!abstract] **Diagram 3 — Autonomy and Cognitive Processing**
+> *Trace the cognitive impact of autonomy on information integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Self-Endorsed Action] --> B[Cognitive Elaboration]
+>   B --> C[Durable Memory Encoding]
+> ```
 
 # Autonomy
 

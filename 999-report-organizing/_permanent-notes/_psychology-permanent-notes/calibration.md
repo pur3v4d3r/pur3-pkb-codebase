@@ -68,8 +68,53 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Monitoring-Control Loop Overview**
+> *Follow the loop from object level to meta level and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Object Level]
+>   B[Meta Level]
+>   A -->|Comprehension Work| C[Confidence Judgments]
+>   C -->|Monitoring| D[Regulatory Strategies]
+>   D -->|Feedback| A
+> ```
+
+
+> [!abstract] **Diagram 2 — Calibration vs Sensitivity**
+> *Compare the alignment of confidence with performance for calibration and accuracy in discrimination for sensitivity.*
+>
+> ```mermaid
+> graph TD
+>   A[Confidence]
+>   B[Performance]
+>   C[Discrimination Accuracy]
+>   D[Comprehension Levels]
+>   A -->|Calibration| B
+>   C -->|Sensitivity| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Confidence Judgments**
+> *Trace the flow from sensory processing to confidence judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Processing Fluency]
+>   B[Sensory Processing]
+>   C[Higher-Order Semantic Evaluation]
+>   D[Confidence Judgment]
+>   C -->|Conflation of Pathways| D
+> ```
 
 # Calibration
 

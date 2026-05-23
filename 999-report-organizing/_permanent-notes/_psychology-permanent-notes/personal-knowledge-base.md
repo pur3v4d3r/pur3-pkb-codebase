@@ -65,8 +65,69 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PKB Structural Overview**
+> *Identify the core components of a PKB.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Knowledge Base]
+>   B[Evergreen Notes]
+>   C[Link Maintenance]
+>   D[Evolving Content]
+>   E[Interlinked Structure]
+>   F[Knowledge Networks]
+>   G[Digital Tools]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+>   A --> F
+>   A --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — PKB Mechanism Flow**
+> *Follow the process of creating and maintaining a PKB.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Evergreen Notes]
+>   B[Link Related Ideas]
+>   C[Maintain Links]
+>   D[Update with New Insights]
+>   E[Evolving Knowledge Network]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — PKB vs Notebook Comparison**
+> *Compare PKBs with traditional notebooks.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Knowledge Base]
+>   B[Notebook]
+>   C[Evolving Content]
+>   D[Interlinked Structure]
+>   E[Linear Organization]
+>   F[Static Documents]
+>   A -->|Evolving Content| C
+>   A -->|Interlinked Structure| D
+>   B -->|Linear Organization| E
+>   B -->|Static Documents| F
+> ```
 
 # Personal Knowledge Base
 

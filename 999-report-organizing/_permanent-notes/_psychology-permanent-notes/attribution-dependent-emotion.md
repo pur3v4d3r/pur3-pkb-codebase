@@ -70,8 +70,51 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Emotion Mapping by Attribution Dimensions**
+> *Follow the arrows to see how different attributions lead to specific emotions.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Locus] --> B[Pride]
+>   C[External Locus] --> D[Shame]
+>   E[Stable Cause] --> F[Hopelessness]
+>   G[Unstable Cause] --> H[Hope]
+>   I[Controllable Action] --> J[Guilt]
+>   K[Uncontrollable Action] --> L[Pity]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attribution-Dependent Emotion Process Flow**
+> *Trace the steps from observing an outcome to experiencing an emotion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observe Outcome] --> B[Construct Causal Explanation]
+>   B --> C[Map Attribution to Emotional Response]
+>   C --> D[Experience Emotion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Temporal Bias in Depressive Attributions**
+> *Notice how temporal bias reinforces hopelessness through consistent negative attributions.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> NegativeOutcome
+>   NegativeOutcome --> StableInternal[Stable, Internal Attribution]
+>   StableInternal --> Hopelessness[Hopelessness]
+>   [*] --> FlexibleAttribution[Flexible Attribution]
+>   FlexibleAttribution --> AdaptiveResponse[Adaptive Emotional Response]
+> ```
 
 # Attribution-Dependent Emotion
 

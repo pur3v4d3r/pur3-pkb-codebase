@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Loss Aversion Process Flow**
+> *Follow the flow from reference point to decision-making bias.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reference Point] --> B[Evaluation]
+>   B --> C[Pain of Loss > Joy of Gain]
+>   C --> D[Risk Aversion in Gains]
+>   C --> E[Risk Seeking in Losses]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prospect Theory Framework**
+> *Trace the decision-making process from reference point to outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Reference Point] --> B[Evaluation]
+>   B --> C[Pain of Loss > Joy of Gain]
+>   C --> D[Risk Aversion in Gains]
+>   C --> E[Risk Seeking in Losses]
+>   F[Outcomes] -->|Positive| G[Gains]
+>   F -->|Negative| H[Losses]
+> ```
+
+
+> [!abstract] **Diagram 3 — Loss Aversion Applications**
+> *Identify the applications in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Framing Assessments]
+>   C[Investment Behavior] --> D[Avoiding Disposition Effect]
+>   E[Healthcare Decision-Making] --> F[Mitigating Reluctance]
+>   G[MOOCs] --> H[Spaced Retrieval]
+> ```
 
 # Loss Aversion
 

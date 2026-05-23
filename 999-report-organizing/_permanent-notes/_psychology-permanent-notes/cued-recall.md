@@ -67,8 +67,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cued Recall Process Flow**
+> *Follow the sequence from cue to recall.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Cue Provided]
+>   B --> C[Recall Attempted]
+>   C --> D[Answer Given]
+>   D --> E[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Cued Recall Mechanism Overview**
+> *Trace the neural pathway activation process.*
+>
+> ```mermaid
+> graph TD
+>   A[Partial Cue] --> B[Nerve Activation]
+>   B --> C[Memory Retrieval]
+>   C --> D[Answer Produced]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cued Recall vs Free Recall Comparison**
+> *Compare the two methods of memory retrieval.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Cue as C
+>   participant Recaller as R
+>   participant Memory as M
+>   C->>R: Provide Cue
+>   R->>M: Attempt to Retrieve
+>   M-->>R: Produce Answer
+>   alt Free Recall
+>     R->>M: No Cue Provided
+>     M-->>R: Try to Remember
+>   end
+> ```
 
 # Cued Recall
 

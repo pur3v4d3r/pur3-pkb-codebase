@@ -67,8 +67,35 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Exception Handling Flow**
+> *Follow the flow from error occurrence to handling.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Error Occurrence] --> B[Raise Exception]
+>   B --> C[Catch in try/except]
+>   C --> D[Handle Error]
+> ```
+
+
+> [!abstract] **Diagram 2 — Exception Types Hierarchy**
+> *Identify the hierarchy of exception types.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Exception] --> B[TypeError]
+>   A --> C[ValueError]
+>   A --> D[FileNotFoundError]
+> ```
 
 # Exception
 

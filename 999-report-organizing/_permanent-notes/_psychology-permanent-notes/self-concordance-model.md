@@ -65,8 +65,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Autonomous vs Controlled Motivations**
+> *Compare the outcomes of autonomous and controlled goal pursuits.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomous Goals]
+>   B[Controlled Goals]
+>   A -->|Persistence, Well-being| C[Satisfaction]
+>   B -->|Short-term Attainment| D[Dissatisfaction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Positive Feedback Loop Mechanism**
+> *Follow the cycle from autonomous goals to need satisfaction.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> AutonomousGoals
+>   AutonomousGoals --> Attainment
+>   Attainment --> NeedSatisfaction
+>   NeedSatisfaction --> AutonomousGoals
+> ```
+
+
+> [!abstract] **Diagram 3 — Supportive Environment Factors**
+> *Identify the elements that foster autonomous motivations.*
+>
+> ```mermaid
+> graph TD
+>   A[Personal Values]
+>   B[Intrinsic Interests]
+>   C[Social Contexts]
+>   D[Supportive Environments]
+>   E[Affirmation of Self-Identity]
+>   F[Persistence and Fulfillment]
+>   A -->|Alignment| E
+>   B -->|Exploration| C
+>   C -->|Encouragement| D
+>   D -->|Enhanced Engagement| F
+> ```
 
 # Self-Concordance Model
 

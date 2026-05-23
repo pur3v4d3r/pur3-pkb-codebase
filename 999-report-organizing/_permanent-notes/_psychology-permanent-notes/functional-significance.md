@@ -70,8 +70,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Controlling vs Informational Aspects**
+> *Identify how events are perceived as controlling or informational.*
+>
+> ```mermaid
+> graph TD
+>   A[Event]
+>   A -->|Controlled| B[Undermines Autonomy]
+>   A -->|Informative| C[Affirms Competence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intrinsic Motivation Process**
+> *Follow the stages of how functional significance impacts intrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[External Event]
+>   A --> B[Perceived as Controlling or Informative]
+>   B -->|Controlling| C[Shifts Locus to External]
+>   B -->|Informative| D[Affirms Competence]
+>   C --> E[Reduces Intrinsic Motivation]
+>   D --> F[Enhances Intrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Managerial Feedback Types**
+> *Compare feedback types that emphasize performance vs personal growth.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Manager as M
+>   participant Employee as E
+>   alt Performance Metrics
+>     M->>E: Meet sales targets for bonus
+>     E-->>M: External reward focus
+>   else Personal Growth
+>     M->>E: Efforts improved customer satisfaction
+>     E-->>M: Intrinsic motivation reinforced
+> ```
 
 # Functional Significance
 

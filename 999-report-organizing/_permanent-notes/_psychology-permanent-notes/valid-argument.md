@@ -64,8 +64,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Valid Argument Structure**
+> *Follow the flow from premises to conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premise1] --> B[Conclusion]
+>   C[Premise2] --> B
+>   D[Premise3] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Validity vs Soundness**
+> *Compare the requirements for validity and soundness.*
+>
+> ```mermaid
+> graph TD
+>   A[Valid Argument]
+>   B[Sound Argument]
+>   C{True Premises}
+>   D{Conclusion True}
+>   A -->|If|C
+>   C -->|Then|D
+>   A -.-> B
+>   B -->|Also|C
+>   B -->|And|D
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Identify the steps in each type of thinking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reflective
+>   participant Reactive
+>   Reflective->>Reactive: Analyze Argument Structure
+>   Reactive-->>Reflective: Immediate Intuition
+>   Reflective->>Reflective: Evaluate Logical Validity
+>   Reactive-->>Reactive: Potential Overlook of Flaws
+> ```
 
 # Valid Argument
 

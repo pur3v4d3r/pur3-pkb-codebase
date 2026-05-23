@@ -67,8 +67,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Situational Interest Phases**
+> *Follow the progression from situational to individual interest.*
+>
+> ```mermaid
+> graph TD
+>   A[Triggered Situational]
+>   B[Maintained Situational]
+>   C[Well-Developed Individual]
+>   D[Sustained Individual]
+>   A -->|Initial Spark| B
+>   B -->|Further Engagement| C
+>   C -->|Deep Processing| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Situational Interest Mechanism**
+> *Identify the environmental triggers that spark situational interest.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novelty]
+>   B[Surprise]
+>   C[Complexity]
+>   D[Vividness]
+>   E[Situational Interest]
+>   A -->|Curiosity| E
+>   B -->|Intrigue| E
+>   C -->|Challenge| E
+>   D -->|Attention| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Situational vs Intrinsic Motivation**
+> *Compare situational interest with intrinsic motivation.*
+>
+> ```mermaid
+> classDiagram
+>   class SituationalInterest {
+>     +Novelty
+>     +Surprise
+>     +Complexity
+>     +Vividness
+>   }
+>   class IntrinsicMotivation {
+>     +InternalDesires
+>     +Values
+>   }
+>   SituationalInterest --> E[Engagement]
+>   IntrinsicMotivation --> M[Motivation]
+> ```
 
 # Situational Interest
 

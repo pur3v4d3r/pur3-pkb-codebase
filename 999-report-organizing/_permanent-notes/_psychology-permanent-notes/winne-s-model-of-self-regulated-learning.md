@@ -65,8 +65,57 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Winne's SRL Cycle Overview**
+> *Follow the continuous cycle of stages and monitoring.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Definition] --> B[Goal Setting & Planning]
+>   B --> C[Enactment of Strategies]
+>   C --> D[Adaptation]
+>   D --> A
+>   E[Moment-by-Moment Monitoring] --> A
+>   E --> B
+>   E --> C
+>   E --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Winne's SRL Process Flow**
+> *Trace the flow from task definition to adaptation with monitoring.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Definition] --> B[Goal Setting & Planning]
+>   B --> C[Enactment of Strategies]
+>   C --> D[Adaptation]
+>   E[Moment-by-Moment Monitoring] --> A
+>   E --> B
+>   E --> C
+>   E --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Winne's SRL Mechanism Overview**
+> *Identify the continuous monitoring and control loop in cognitive operations.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> TaskDefinition
+>   TaskDefinition --> GoalSettingPlanning : Monitor & Control
+>   GoalSettingPlanning --> EnactmentStrategies : Monitor & Control
+>   EnactmentStrategies --> Adaptation : Monitor & Control
+>   Adaptation --> TaskDefinition : Monitor & Control
+> ```
 
 # Winne's Model of Self-Regulated Learning
 

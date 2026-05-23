@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Developmental Arc Stages Overview**
+> *Follow the progression from Structured Dependence to Reflective Mastery.*
+>
+> ```mermaid
+> graph TD
+>   A[Structured Dependence] --> B(Guided Autonomy)
+>   B --> C(Self-Directed Monitoring)
+>   C --> D(Reflective Mastery)
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffold Fading Mechanism**
+> *Observe the gradual reduction of external support as learners progress.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Scaffolding] --> B(Gradual Withdrawal)
+>   B --> C(Frequent Reviews)
+>   C --> D(Smooth Transition)
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in PKB Systems**
+> *See how adaptive support adjusts based on user performance and feedback.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant System as S
+>   U->>S: Initial Detailed Instructions
+>   S-->>U: Step-by-Step Guidance
+>   U->>S: Stable Performance
+>   S-->>U: Open-Ended Tasks
+> ```
 
 # Developmental Arc Model
 

@@ -67,8 +67,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Power Law Learning Curve**
+> *Observe the rapid initial improvement followed by diminishing returns.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Practice] --> B[Rapid Improvement]
+>   B --> C[Diminishing Returns]
+> ```
+
+
+> [!abstract] **Diagram 2 — Chunking Process in LTM**
+> *Follow the hierarchical formation of chunks from simple to complex.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Units] --> B[Lower-Order Chunks]
+>   B --> C[Hierarchical Organization]
+>   C --> D[Higher-Order Chunks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Skill Acquisition Phases**
+> *Identify the stages from initial learning to plateau and refinement.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Learning] --> B[Rapid Improvement]
+>   B --> C[Plateau Stage]
+>   C --> D[Refinement]
+> ```
 
 # Power Law of Practice
 

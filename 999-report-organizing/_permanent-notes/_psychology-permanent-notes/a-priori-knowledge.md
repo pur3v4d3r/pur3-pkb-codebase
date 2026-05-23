@@ -65,8 +65,73 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — A Priori Knowledge Flowchart**
+> *Follow the flow from reasoning to justification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reasoning] --> B[Logical Consistency]
+>   B --> C[Axioms/Definitions]
+>   C --> D[Deductive Reasoning]
+>   D --> E[J ustification]
+> ```
+
+
+> [!abstract] **Diagram 2 — A Priori vs A Posteriori Knowledge**
+> *Compare the sources of justification for each type.*
+>
+> ```mermaid
+> graph TD
+>   A[Justification]
+>   B{Empirical Evidence}
+>   C[A Posteriori]
+>   D{Sense Experience}
+>   E[A Priori]
+>   F{Pure Reasoning}
+>   G{Conceptual Analysis}
+>   H{Logical Truths}
+>   I{Mathematical Proofs}
+>   A --> B
+>   B -->|No| C
+>   A --> D
+>   D -->|Yes| C
+>   A --> F
+>   F --> E
+>   A --> G
+>   G --> E
+>   A --> H
+>   H --> E
+>   A --> I
+>   I --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — A Priori Knowledge Mechanism**
+> *Trace the steps from axioms to proven statements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start]
+>   B[Axioms/Definitions]
+>   C[Deductive Reasoning]
+>   D[Proven Statements]
+>   E[J ustification]
+>   F[End]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
 
 # A Priori Knowledge
 

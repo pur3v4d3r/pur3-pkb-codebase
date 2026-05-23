@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Fleeting Notes Workflow Overview**
+> *Follow the flow from capture to review and transformation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture] --> B[Review]
+>   B --> C[Transform]
+>   C --> D[Discard/Keep]
+> ```
+
+
+> [!abstract] **Diagram 2 — Fleeting Notes vs Evergreen Notes Comparison**
+> *Compare the characteristics of Fleeting and Evergreen notes.*
+>
+> ```mermaid
+> graph TD
+>   A[Fleeting Notes] -->|Quick Capture| B[Discardable]
+>   A -->|Low Friction| C[Temporary Storage]
+>   A -->|No Immediate Refinement| D[Raw Material]
+>   E[Evergreen Notes] -->|Timeless Knowledge| F[Permanent Value]
+>   E -->|Intrinsic Load| G[Refined Content]
+>   E -->|Long-Term Storage| H[Durable Form]
+> ```
+
+
+> [!abstract] **Diagram 3 — Fleeting Notes Cognitive Process Flow**
+> *Trace the cognitive process from working memory to long-term storage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Working Memory] --> B[Fleeting Note]
+>   B --> C[Review and Elaboration]
+>   C --> D[Integration into Zettelkasten]
+>   D --> E[Long-Term Memory]
+> ```
 
 # Fleeting Notes
 

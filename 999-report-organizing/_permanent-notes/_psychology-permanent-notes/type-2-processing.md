@@ -70,8 +70,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Type 2 Processing Mechanism**
+> *Follow the flow from working memory to judgment output.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B[Serial Execution]
+>   C[Deliberate Initiation]
+>   D[Resource Depletion]
+>   E[Judgment Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Type 2 vs Type 1 Processing**
+> *Compare the characteristics of Type 2 and Type 1 processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Type 2]
+>   B[Type 1]
+>   A -->|Working Memory| C[Serial Execution]
+>   B -->|Automatic| D[Parallel Processing]
+>   A -->|Effortful Reasoning| E[Judgment Output]
+>   B -->|Intuitive Response| F[Immediate Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Type 2 Processing Applications**
+> *Identify the applications of Type 2 processing in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Personal Knowledge Management]
+>   C[Ai Alignment]
+> ```
 
 # Type 2 Processing
 

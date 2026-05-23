@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Modular Design Overview**
+> *Follow the flow from high-level architecture to specific modules.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Level Architecture] --> B[Module1]
+>   A --> C[Module2]
+>   A --> D[Module3]
+> ```
+
+
+> [!abstract] **Diagram 2 — Information Hiding Mechanism**
+> *Observe how interfaces hide internal details from other modules.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Interface] --> B[Internal Details]
+>   C[Module1] -->|Uses Interface| D[Module2]
+> ```
+
+
+> [!abstract] **Diagram 3 — Top-Down vs Bottom-Up Processing**
+> *Compare the two approaches to system design and integration.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant TopDown as TD
+>   participant BottomUp as BU
+>   participant Module1
+>   participant Module2
+>   TD->>Module1: Define High-Level Architecture
+>   TD->>Module2: Ensure Alignment with Goals
+>   BU->>Module1: Develop Independently
+>   BU->>Module2: Develop Independently
+>   Module1-->>TD: Integrate and Test
+>   Module2-->>TD: Integrate and Test
+> ```
 
 # Modular Design
 

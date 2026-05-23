@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Truth Table Structure Overview**
+> *Identify the structure of a truth table with atomic propositions and compound expressions.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomic Propositions] --> B[All Possible Combinations]
+>   B --> C[Logical Connectives Applied]
+>   C --> D[Truth Values for Compound Expression]
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Constructing a Truth Table**
+> *Follow the steps to construct a truth table from atomic propositions to compound expressions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[List Atomic Propositions]
+>   B --> C[Generate All Combinations]
+>   C --> D[Apply Logical Connectives]
+>   D --> E[Determine Truth Values]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Truth Tables and Natural Deduction**
+> *Compare the exhaustive nature of truth tables with the step-by-step approach of natural deduction.*
+>
+> ```mermaid
+> graph TD
+>   A[Truth Table] --> B[Exhaustive Evaluation]
+>   C[Natural Deduction] --> D[Step-by-Step Proof]
+>   subgraph ExhaustiveEvaluation
+>     B --> E[All Combinations Considered]
+>   end
+>   subgraph StepByStepProof
+>     D --> F[Constructive Approach]
+>   end
+> ```
 
 # Truth Tables
 

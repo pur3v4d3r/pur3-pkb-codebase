@@ -68,8 +68,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Memory Structure**
+> *Identify the components of Semantic Memory and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[General Knowledge]
+>   B[Facts]
+>   C[Concepts]
+>   D[Word Meanings]
+>   E[Category Structure]
+>   F[Context-Free]
+>   G[Long-Term Store]
+>   H[Accessible Without Recollection]
+>   A -->|Includes| B
+>   A -->|Includes| C
+>   A -->|Includes| D
+>   A -->|Includes| E
+>   A -->|Characterized By| F
+>   A -->|Located In| G
+>   A -->|Accessed Through| H
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic Memory vs Episodic and Procedural Memory**
+> *Compare Semantic Memory with other types of memory.*
+>
+> ```mermaid
+> graph TD
+>   S[Semantic Memory]
+>   E[Episodic Memory]
+>   P[Procedural Memory]
+>   S -->|Context-Free General Knowledge| A[Facts, Concepts, Word Meanings]
+>   E -->|Specific Events and Experiences| B[Temporal and Spatial Context]
+>   P -->|Skills and Actions| C[Motor Skills, Habits]
+>   S -.-> D[No Temporal or Spatial Context]
+>   E -.-> F[Temporal and Spatial Context Included]
+>   P -.-> G[Not General Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Semantic Memory Formation Process**
+> *Understand the incremental process of Semantic Memory formation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Episodic Memory Traces]
+>   B[Repeated Encounters]
+>   C[Diverse Contexts]
+>   D[Integration into Existing Networks]
+>   E[Robust Semantic Knowledge]
+>   A -->|Activates Related Concepts| B
+>   B -->|Across Different Scenarios| C
+>   C -->|Forms Connections| D
+>   D -->|Builds Strong Memory| E
+> ```
 
 # Semantic Memory
 

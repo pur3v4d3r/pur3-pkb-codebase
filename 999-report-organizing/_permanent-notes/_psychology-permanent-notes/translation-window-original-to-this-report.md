@@ -69,8 +69,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conditions for Translation Window**
+> *Identify the conditions necessary for goal alignment.*
+>
+> ```mermaid
+> graph TD
+>   A[Proxy Fidelity]
+>   B[Honest Attainability]
+>   C[Measurement Adequacy]
+>   D[Failure Tolerance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Translation Window**
+> *Understand how the conditions interact to support goal achievement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Proxy Fidelity] --> B[Honest Attainability]
+>   B --> C[Measurement Adequacy]
+>   C --> D[Failure Tolerance]
+>   D --> E[Reinforcement Alignment]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples in Different Domains**
+> *See how the Translation Window applies across various contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Honest Attainability]
+>   C[Project Management] --> D[Honest Attainability]
+>   E[Personal Goal Setting] --> F[Honest Attainability]
+> ```
 
 # Translation Window
 

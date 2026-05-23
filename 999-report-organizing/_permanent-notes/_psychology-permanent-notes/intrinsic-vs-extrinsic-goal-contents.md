@@ -70,8 +70,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Intrinsic vs Extrinsic Goals Overview**
+> *Identify the basic needs addressed by each goal type.*
+>
+> ```mermaid
+> graph TD
+>   A[Competence] --> B(Intrinsic)
+>   C[Relatedness] --> B
+>   D[Autonomy] --> B
+>   E[Wealth] --> F(Extrinsic)
+>   G[Fame] --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Influence on Well-Being**
+> *Trace the impact of goal types on well-being outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Intrinsic Goals] --> B[Sustained Engagement]
+>   C[Extrinsic Goals] --> D[Transient Satisfaction]
+>   B --> E[Happiness]
+>   D --> F[Dissatisfaction]
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Interaction Over Time**
+> *Follow the shift from extrinsic to intrinsic goals.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Extrinsic
+>   Extrinsic --> Intrinsic : Shift in Motivation
+>   Intrinsic --> [*]
+> ```
 
 # Intrinsic vs. Extrinsic Goal Contents
 

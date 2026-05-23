@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Complexity Impact**
+> *Follow the arrows to see how task complexity affects performance with others present.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Simple Task] --> B[Enhanced Performance]
+>   C[Complex Task] --> D[Deteriorated Performance]
+>   E[Arousal] --> A
+>   E --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism Overview**
+> *Trace the path from arousal to performance outcomes for simple and complex tasks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Physiological Arousal] --> B[Dominant Responses]
+>   B --> C[Simple Task Performance]
+>   B --> D[Complex Task Interference]
+>   E[Arousal] --> F[Cognitive Processes]
+>   F --> G[Enhanced Simple Tasks]
+>   F --> H[Interruption in Complex Tasks]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance Contexts**
+> *Identify the contexts where social facilitation enhances or impairs performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Simplified Tasks]
+>   A --> C[Complex Tasks]
+>   D[Sports Performance] --> E[Simple Skills]
+>   D --> F[Complex Skills]
+>   G[Academic Settings] --> H[Multiple Choice]
+>   G --> I[Essay Writing]
+> ```
 
 # Social Facilitation
 

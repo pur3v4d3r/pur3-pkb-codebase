@@ -66,8 +66,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Counterfactual Reasoning Process Flow**
+> *Follow the steps from recalling an event to evaluating counterfactuals.*
+>
+> ```mermaid
+> graph TD
+>   A[Recall Event]
+>   B[Generate Alternatives]
+>   C[Evaluate Scenarios]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 2 — Upward vs Downward Counterfactuals**
+> *Compare the focus and emotional impact of upward and downward counterfactuals.*
+>
+> ```mermaid
+> graph TD
+>   A[Upward]
+>   B[Downward]
+>   A -->|Better Outcome| C[Positive Emotion]
+>   B -->|Regret| D[Negative Emotion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Counterfactual Reasoning in Social Interactions**
+> *Trace the influence of counterfactual thinking on perceptions and behaviors.*
+>
+> ```mermaid
+> graph TD
+>   A[Event]
+>   B[Intention Attribution]
+>   C[Character Perception]
+>   D[Future Behavior]
+>   A -->|Counterfactual Thinking| B
+>   B --> C
+>   C --> D
+> ```
 
 # Counterfactual Reasoning
 

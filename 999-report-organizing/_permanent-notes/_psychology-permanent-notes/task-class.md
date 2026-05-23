@@ -71,8 +71,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task Class Complexity Progression**
+> *Follow the progression from simple to complex task classes.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple]
+>   B[Intermediate]
+>   C[Complex]
+>   A -->|Add Elements| B
+>   B -->|Add Elements| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Scaffold Fading Mechanism**
+> *Observe the reduction of support from worked examples to independent tasks.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant WorkedExample as WE
+>   participant CompletionTask as CT
+>   participant ConventionalTask as C
+>   L->>WE: Start with high support
+>   WE-->>L: Guidance and Examples
+>   L->>CT: Gradual reduction in support
+>   CT-->>L: Partial guidance
+>   L->>C: Independent task handling
+> ```
+
+
+> [!abstract] **Diagram 3 — Task Class Applications**
+> *Compare the applications across different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Medical Education]
+>   C[Software Engineering]
+>   subgraph Task Classes
+>     C -->|Debugging Concurrency| end
+> ```
 
 # Task Class
 

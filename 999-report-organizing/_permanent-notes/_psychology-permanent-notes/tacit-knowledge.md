@@ -65,8 +65,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tacit Knowledge Mechanism**
+> *Follow the flow from experience to procedural memory.*
+>
+> ```mermaid
+> graph TD
+>   A[Experience] --> B[Practice]
+>   B --> C[Intuition]
+>   C --> D[Procedural Memory]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tacit vs Explicit Knowledge**
+> *Compare the characteristics of tacit and explicit knowledge.*
+>
+> ```mermaid
+> classDiagram
+>   class TacitKnowledge {
+>     - Acquired through experience
+>     - Difficult to articulate
+>     }
+>   class ExplicitKnowledge {
+>     + Can be easily articulated
+>     + Written down
+>     }
+> ```
+
+
+> [!abstract] **Diagram 3 — Tacit Knowledge Acquisition Process**
+> *Trace the steps from initial exposure to mastery.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Exposure] --> B[Observation]
+>   B --> C[Guided Practice]
+>   C --> D[Mentorship]
+>   D --> E[Hands-On Experience]
+>   E --> F[Mastery]
+> ```
 
 # Tacit Knowledge
 

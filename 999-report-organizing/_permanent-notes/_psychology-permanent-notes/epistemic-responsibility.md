@@ -65,8 +65,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Responsibility Process Flow**
+> *Follow the steps from belief formation to accountability.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Belief] --> B[Evidence Gathering]
+>   B --> C[Critical Deliberation]
+>   C --> D[Belief Formation]
+>   D --> E[Accountability]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Responsibility vs Voluntarism**
+> *Compare the focus of Epistemic Responsibility with voluntarism.*
+>
+> ```mermaid
+> graph TD
+>   A[Voluntarism]
+>   B[Epistemic Responsibility]
+>   A -->|Focus on Choice| C["(Belief Content)"]
+>   B -->|Focus on Procedures| D["(Evidence Gathering, Deliberation)"]
+> ```
 
 # Epistemic Responsibility
 

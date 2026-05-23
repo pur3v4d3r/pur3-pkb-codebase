@@ -70,8 +70,58 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — TARGET Framework Dimensions**
+> *Identify the six dimensions that configure classroom climate.*
+>
+> ```mermaid
+> graph TD
+>   A[Task]
+>   B[Authority]
+>   C[Recognition]
+>   D[Grouping]
+>   E[Evaluation]
+>   F[Time]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mastery vs Performance Orientation**
+> *Understand how different configurations influence goal orientations.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mastery]
+>   B[Performance]
+>   A -->|Open-ended Tasks| C[Intrinsic Motivation]
+>   B -->|Public Ranking| D[Extrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Interaction of Dimensions**
+> *See how changes in one dimension can affect overall classroom climate.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Task as T
+>   participant Authority as A
+>   participant Recognition as R
+>   participant Grouping as G
+>   participant Evaluation as E
+>   participant Time as Ti
+>   T->>A: Influences
+>   A->>R: Influences
+>   R->>G: Influences
+>   G->>E: Influences
+>   E->>Ti: Influences
+> ```
 
 # TARGET Framework
 

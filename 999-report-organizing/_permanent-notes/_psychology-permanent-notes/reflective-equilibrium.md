@@ -65,8 +65,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reflective Equilibrium Process Flow**
+> *Follow the iterative process from specific judgements to general principles and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Judgements] --> B[General Principles]
+>   B --> C[Foundational Theories]
+>   C --> D[Revised Specific Judgements]
+>   D --> E[Revised General Principles]
+>   E --> F[Coherent Whole]
+>   F --> G[Iterative Revision]
+>   G --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Reflective Equilibrium vs Foundationalism**
+> *Compare the iterative process of Reflective Equilibrium with foundationalist approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Foundationalism] --> B[Single Privileged Starting Point]
+>   C[Reflective Equilibrium] --> D[Iterative Revision and Adjustment]
+>   E[Coherence Across Beliefs] --> F[No Single Foundation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Decision-Making**
+> *See how Reflective Equilibrium ensures coherence among specific judgements, principles, and theories.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Judgements] --> B[General Principles]
+>   B --> C[Foundational Theories]
+>   D[Decision Factors] --> E[Alignment Check]
+>   F[Revised Specifics] --> G[Revised General]
+>   H[Coherent Decision] --> I[Iterative Process]
+> ```
 
 # Reflective Equilibrium
 

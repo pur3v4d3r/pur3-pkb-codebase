@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stages of Change Overview**
+> *Follow the progression from precontemplation to maintenance.*
+>
+> ```mermaid
+> graph TD
+>   A[Precontemplation]
+>   B[Contemplation]
+>   C[Preparation]
+>   D[Action]
+>   E[Maintenance]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Intervention Strategies by Stage**
+> *Identify the type of intervention needed for each stage.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Precontemplation] --> B[Provide Information]
+>   C[Contemplation] --> D[Motivational Interviewing]
+>   E[Preparation] --> F[Develop Plans]
+>   G[Action] --> H[Support Overcoming Barriers]
+>   I[Maintenance] --> J[Sustain New Behaviors]
+> ```
+
+
+> [!abstract] **Diagram 3 — Psychological Processes at Each Stage**
+> *Understand the key psychological processes in each stage.*
+>
+> ```mermaid
+> graph TD
+> ```
 
 # Stages of Change Model
 

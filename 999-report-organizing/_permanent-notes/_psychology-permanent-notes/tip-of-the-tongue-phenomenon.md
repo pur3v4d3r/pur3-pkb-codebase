@@ -65,8 +65,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Tip-of-the-Tongue Process Flow**
+> *Follow the sequence from retrieval attempt to metacognitive feelings.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval Attempt] --> B[Cue Encoding]
+>   B --> C[Insufficient Cue or Interference]
+>   C --> D[Metacognitive Feelings]
+>   D --> E[Known but Unrecallable]
+> ```
+
+
+> [!abstract] **Diagram 2 — Influencing Factors of Tip-of-the-Tongue**
+> *Identify the factors that can trigger or mitigate retrieval failure.*
+>
+> ```mermaid
+> graph TD
+>   A[Word Frequency]
+>   B[Context]
+>   C[Cognitive Load]
+>   D[Interference]
+>   E[Cues]
+>   F[Retrieval Failure]
+>   A -->|High reduces| F
+>   B -->|Relevant increases| F
+>   C -->|High increases| F
+>   D -->|Present increases| F
+>   E -->|Insufficient increases| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *See how different applications address retrieval failure.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Multicue Retrieval]
+>   C[Language Learning] --> D[Word Association]
+>   E[Memory Training] --> F[Semantic Memory Strengthening]
+>   G[MOOCs] --> H[Spaced Retrieval]
+> ```
 
 # Tip-of-the-Tongue Phenomenon
 

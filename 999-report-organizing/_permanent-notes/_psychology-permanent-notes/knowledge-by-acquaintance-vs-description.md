@@ -64,8 +64,65 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge By Acquaintance Overview**
+> *Identify the direct cognitive contact with objects.*
+>
+> ```mermaid
+> graph TD
+>   A[Objects]
+>   B[Direct Cognitive Contact]
+>   C[Sense-Data]
+>   D[Universals]
+>   E[Self]
+>   F[Unmediated]
+>   G[Foundational Knowledge]
+>   A -->|Includes| C
+>   A -->|Includes| D
+>   A -->|Includes| E
+>   B -->|Directly Perceived| C
+>   B -->|Directly Perceived| D
+>   B -->|Directly Perceived| E
+>   F -->|Unmediated by Descriptive Content| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge By Description Overview**
+> *Identify the unique satisfier of descriptive conditions.*
+>
+> ```mermaid
+> graph TD
+>   A[Objects]
+>   B[Knowing Through Descriptions]
+>   C["The F"]
+>   D[Descriptive Conditions]
+>   E[Unique Satisfier]
+>   A -->|Includes| C
+>   B -->|Satisfies| D
+>   D -->|Identifies| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Russell's Theory Mechanism**
+> *Trace the breakdown of apparent reference into descriptive conditions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Object
+>   participant B as Description
+>   participant C as Acquaintance
+>   A ->> B: Apparent Reference
+>   B ->> C: Breakdown Into Descriptive Conditions
+>   C -->> A: Direct Cognitive Contact
+> ```
 
 # Knowledge By Acquaintance Vs Description
 

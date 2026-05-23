@@ -64,8 +64,84 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Replication Crisis Structural Overview**
+> *Identify the main factors contributing to replication failures.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Sample Sizes]
+>   B[Flexible Data Analysis]
+>   C[Publication Bias]
+>   D[HARKing]
+>   E[NHST Reliance]
+>   F[Incentives for Novelty]
+>   G[Robust Statistical Methods]
+>   H[Transparent Reporting]
+>   A -->|Contributes to| I(Replication Crisis)
+>   B -->|Contributes to| I
+>   C -->|Contributes to| I
+>   D -->|Contributes to| I
+>   E -->|Contributes to| I
+>   F -->|Contributes to| I
+>   G -->|Mitigates| I
+>   H -->|Mitigates| I
+> ```
+
+
+> [!abstract] **Diagram 2 — Replication Crisis Process Flow**
+> *Follow the sequence of events leading to replication failures.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Study]
+>   B[Flexible Data Analysis]
+>   C[Hypothesis Adjustment]
+>   D[Publish Positive Results]
+>   E[Replication Attempt]
+>   F[Failures Due To Bias]
+>   G[Inflated Perception]
+>   H[Negative Impact On Science]
+>   A -->|Flexible Data Analysis| B
+>   B -->|Hypothesis Adjustment| C
+>   C -->|Publish Positive Results| D
+>   D -->|Replication Attempt| E
+>   E -->|Failures Due To Bias| F
+>   F -->|Inflated Perception| G
+>   G -->|Negative Impact On Science| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanisms Contributing To Replication Crisis**
+> *Understand the key mechanisms that lead to replication failures.*
+>
+> ```mermaid
+> graph TD
+>   A[HARKing]
+>   B[Publication Bias]
+>   C[NHST Reliance]
+>   D[Small Sample Sizes]
+>   E[Flexible Data Analysis]
+>   F[Incentives For Novelty]
+>   G[Robust Statistical Methods]
+>   H[Transparent Reporting]
+>   A -->|Mechanism| I(Replication Crisis)
+>   B -->|Mechanism| I
+>   C -->|Mechanism| I
+>   D -->|Mechanism| I
+>   E -->|Mechanism| I
+>   F -->|Mechanism| I
+>   G -->|Mitigation| I
+>   H -->|Mitigation| I
+> ```
 
 # Replication Crisis In Psychology
 

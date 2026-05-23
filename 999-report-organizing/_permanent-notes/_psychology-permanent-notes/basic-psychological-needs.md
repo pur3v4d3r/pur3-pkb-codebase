@@ -67,8 +67,55 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Basic Psychological Needs Overview**
+> *Identify the three core needs and their roles.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Competence]
+>   C[Relatedness]
+>   A -->|Self-endorsed actions| D[Enhances motivation]
+>   B -->|Feeling effective| E[Better performance]
+>   C -->|Meaningful connections| F[Emotional engagement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
+> *Understand how one need supports another in a cycle.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   state Autonomy{Autonomy}
+>   state Competence{Competence}
+>   state Relatedness{Relatedness}
+>   Autonomy -->|Fosters volition| Competence : Supports persistence
+>   Competence -->|Builds confidence| Relatedness : Enhances social engagement
+>   Relatedness -->|Provides support| Autonomy
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications in Education**
+> *See how each need is addressed in instructional design.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Instructor as I
+>   participant Peer as P
+>   S->>I: Make choices (Autonomy)
+>   I-->>S: Constructive feedback (Competence)
+>   S->>P: Group projects (Relatedness)
+> ```
 
 # Basic Psychological Needs
 

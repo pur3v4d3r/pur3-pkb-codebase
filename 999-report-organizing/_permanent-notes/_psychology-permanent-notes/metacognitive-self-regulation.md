@@ -64,8 +64,59 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Self-Regulation Cycle**
+> *Follow the cycle from planning to reflection.*
+>
+> ```mermaid
+> graph TD
+>   A[Planning]
+>   B[Monitoring]
+>   C[Controlling]
+>   D[Reflecting]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Metacognitive Self-Regulation Mechanism**
+> *Trace the steps from monitoring to reflection.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitoring]
+>   B[Planning and Adjusting Strategies]
+>   C[Evaluation]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Self-Regulation in Learning Process**
+> *Identify the stages from initial challenge to effective learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Challenge]
+>   B[Struggle or Misunderstanding]
+>   C[Strategy Adjustment]
+>   D[Evaluation and Reflection]
+>   E[Effective Learning]
+>   A -->|Initial Challenge| B
+>   B -->|Monitor Process| C
+>   C -->|Adjust Strategies| D
+>   D -->|Reflect on Outcomes| E
+> ```
 
 # Metacognitive Self-Regulation
 

@@ -67,8 +67,87 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Virtual Environment Structure Overview**
+> *Follow the flow from project creation to dependency isolation.*
+>
+> ```mermaid
+> graph TD
+>   A[Project]
+>   B[Create Virtual Env]
+>   C[Activate Env]
+>   D[Install Dependencies]
+>   E[Isolated Python Interpreter]
+>   F[Isolated Package Cache]
+>   G[Consistent Development]
+>   H[Reproducible Builds]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D -->|Python Interpreter| E
+>   D -->|Package Cache| F
+>   E --> G
+>   F --> G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — Virtual Environment vs Docker Containers**
+> *Compare the isolation levels of virtual environments and Docker containers.*
+>
+> ```mermaid
+> graph TD
+>   A[Virtual Env]
+>   B[Docker Container]
+>   C[Isolate Python Packages]
+>   D[Comprehensive Isolation]
+>   E[Project Directory]
+>   F[System Environment]
+>   G[Lightweight Setup]
+>   H[Full OS Encapsulation]
+>   I[Fast to Use]
+>   J[Heavy Overhead]
+>   A --> C
+>   B --> D
+>   C --> E
+>   D --> F
+>   E --> G
+>   F --> J
+>   G -->|Isolation Level| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Virtual Environment Workflow**
+> *Trace the steps from project setup to dependency management.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Project]
+>   B[Initiate Virtual Env]
+>   C[Activate Env]
+>   D[Install Packages]
+>   E[Configure Env Variables]
+>   F[Test Code]
+>   G[Deploy Code]
+>   H[Deactivate Env]
+>   I[Clean Up]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+>   H --> I
+> ```
 
 # Virtual Environments
 

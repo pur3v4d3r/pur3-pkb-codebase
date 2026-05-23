@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Argument Analysis Process Flow**
+> *Follow the steps from identifying conclusion to evaluating components.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Main Conclusion] --> B[Locate Supporting Premises]
+>   B --> C[Uncover Intermediate Inferences]
+>   C --> D[Surface Unstated Assumptions]
+>   D --> E[Evaluate Components]
+> ```
+
+
+> [!abstract] **Diagram 2 — Argument Analysis Taxonomy**
+> *Understand the hierarchical relationship between argument components.*
+>
+> ```mermaid
+> graph TD
+>   A[Main Conclusion] --> B[Supporting Premises]
+>   B --> C[Intermediate Inferences]
+>   C --> D[Unstated Assumptions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Argument Analysis Applications**
+> *See the diverse fields where Argument Analysis is applied.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant LegalReasoning as LR
+>   participant PolicyAnalysis as PA
+>   participant AcademicPaperCritique as APC
+>   ID->>LR: Dissect legal arguments
+>   LR-->>PA: Evaluate policy claims
+>   PA-->>APC: Critique research articles
+> ```
 
 # Argument Analysis
 

@@ -70,8 +70,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Control Phase Process Flow**
+> *Follow the sequence of monitoring and adjusting strategies.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor Progress] --> B[Evaluate Strategies]
+>   B --> C[Adjust Strategies]
+>   C --> D[Implement Moves]
+> ```
+
+
+> [!abstract] **Diagram 2 — Control Phase Components**
+> *Identify the key elements involved in strategy adjustment.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitoring Signals] --> B[Cognitive]
+>   A --> C[Motivational]
+>   A --> D[Behavioral]
+>   A --> E[Contextual]
+> ```
 
 # Control Phase
 

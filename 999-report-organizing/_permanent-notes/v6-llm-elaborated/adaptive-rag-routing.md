@@ -67,8 +67,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Query Complexity Classification Flow**
+> *Follow the flow from query input to retrieval strategy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Query] --> B[Classifier]
+>   B -->|Simple| C1[No Retrieval]
+>   B -->|Moderate| D2[Single-Step Retrieval]
+>   B -->|Complex| E3[Multistep Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adaptive RAG Routing Mechanism**
+> *Trace the process from query to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Classifier]
+>   B -->|Simple| C1[Direct Response]
+>   B -->|Complex| D2[Retreival Step]
+>   D2 --> E3[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Adaptive RAG Routing Strategies**
+> *Compare the three retrieval strategies based on query complexity.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Query] --> B1[No Retrieval]
+>   C[Complex Query] --> D2[Single-Step Retrieval]
+>   E[Highly Complex Query] --> F3[Multistep Retrieval]
+> ```
 
 ## Core Explanation
 

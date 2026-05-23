@@ -65,8 +65,44 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Zettelkasten Workflow Stages**
+> *Follow the stages from fleeting capture to structural index notes.*
+>
+> ```mermaid
+> graph TD
+>   A[Capture] --> B[Literature]
+>   B --> C[Atomic]
+>   C --> D[Index]
+> ```
+
+
+> [!abstract] **Diagram 2 — Zettelkasten Workflow Principles**
+> *Identify the key principles that guide each stage of the workflow.*
+>
+> ```mermaid
+> graph TD
+>   A[Atomicity] --> B[Durability]
+>   B --> C[Connectivity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Zettelkasten Workflow Applications**
+> *See how the workflow can be applied in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional] --> B[Research]
+>   B --> C[Personal]
+> ```
 
 # Zettelkasten Workflow
 

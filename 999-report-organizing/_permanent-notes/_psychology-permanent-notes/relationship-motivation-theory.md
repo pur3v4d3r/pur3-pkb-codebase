@@ -65,8 +65,53 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Relationship Motivation Theory Overview**
+> *Identify the core components of RMT and their interrelations.*
+>
+> ```mermaid
+> graph TD
+>   A[Autonomy]
+>   B[Relatedness]
+>   C[Satisfaction]
+>   D[Dissolution]
+>   A -->|Support| C
+>   A -->|Thwarting| D
+>   B -->|Support| C
+>   B -->|Thwarting| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
+> *Understand the feedback loop between need support and relationship quality.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Support
+>   Support --> Satisfaction : Foster self-endorsement
+>   Satisfaction --> Commitment : Increase
+>   Commitment --> Support : Continue cycle
+>   [*] --> Thwarting
+>   Thwarting --> Frustration : Feelings of frustration, resentment
+>   Frustration --> Distress : Relationship distress
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples in Relationships**
+> *See how RMT principles apply to different relationship contexts.*
+>
+> ```mermaid
+> graph TD
+> C -->|Emotional Support
+> ```
 
 # Relationship Motivation Theory
 

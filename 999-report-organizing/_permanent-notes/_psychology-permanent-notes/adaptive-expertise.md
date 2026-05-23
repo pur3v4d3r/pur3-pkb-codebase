@@ -68,8 +68,63 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adaptive Expertise Mechanism**
+> *Follow the flow from routine to novel case handling.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Chunks]
+>   B[Metacognitive Monitoring]
+>   C[Novel Case Recognition]
+>   D[Analytical Reasoning]
+>   A -->|Use Routine Procedures| B
+>   B -->|Evaluate Appropriateness| C
+>   C -->|Shift to Analytical Mode| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Adaptive Expertise vs Routine Expertise**
+> *Compare intrinsic and extraneous cognitive loads.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Deep Thinking]
+>   D[Novel Problem Solving]
+>   E[Routine Procedures]
+>   F[Unnecessary Processes]
+>   A -->|Cognitive Effort for Deep Thinking| C
+>   B -->|Cognitive Effort for Unnecessary Processes| F
+>   C -->|Novel Problem Solving| D
+>   E -->|Routine Procedures| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Adaptive Expertise Applications**
+> *Identify the different contexts where adaptive expertise is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Professional Development]
+>   C[Workplace Training]
+>   D[Open-Ended Tasks]
+>   E[Moot Court Debates]
+>   F[Sims & Case Studies]
+>   A -->|Challenge Novel Problems| D
+>   B -->|Non-Routine Cases| E
+>   C -->|Unexpected Challenges| F
+> ```
 
 # Adaptive Expertise
 

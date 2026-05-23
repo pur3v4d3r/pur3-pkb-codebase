@@ -68,8 +68,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Crystallized Intelligence Growth Over Time**
+> *Follow the timeline to see how crystallized intelligence increases with age.*
+>
+> ```mermaid
+> graph TD
+>   A[Early Adulthood] --> B[Middle Age]
+>   B --> C[Late Adulthood]
+>   A -->|Knowledge Accumulation| D[Crystallized Intelligence]
+>   B -->|Continued Growth| D
+>   C -->|Peak Knowledge| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Memory Systems Supporting Crystallized Intelligence**
+> *Identify the memory systems involved in storing and applying crystallized intelligence.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Memory] -->|Factual Information| B[Crystallized Intelligence]
+>   C[Procedural Memory] -->|Learned Skills| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Application of Crystallized Intelligence in Tasks**
+> *Trace the flow from task recognition to efficient execution using crystallized intelligence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Recognition] --> B[Familiar Task]
+>   B --> C[Semantic Memory Access]
+>   C --> D[Procedural Memory Execution]
+>   D --> E[Efficient Task Performance]
+> ```
 
 # Crystallized Intelligence
 

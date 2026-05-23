@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Spatial Encoding Process**
+> *Follow the flow from abstract information to spatial landmarks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Abstract Information] --> B[Choose Route]
+>   B --> C[Place Items]
+>   C --> D[Spatial Landmarks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Retrieval Process Overview**
+> *Trace the steps from mental route to item recall.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Mental Route] --> B[Pass Locations]
+>   B --> C[Recall Items]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Examples in Domains**
+> *Identify the domains and their corresponding applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Historical Events| B
+>   C[Professional Development] -->|Medical Training| D
+>   E[Personal Development] -->|Daily Tasks| F
+>   G[MOOCs] -->|Spaced Retrieval| H
+> ```
 
 # Method of Loci
 

@@ -68,8 +68,45 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Anchoring Bias Mechanisms**
+> *Follow the flow from initial anchor to biased output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Anchor] --> B[Numerical Estimation]
+>   B --> C[Biased Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Anchoring in Cost Estimation**
+> *Trace the impact of initial anchor on final estimate.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Anchor] --> B[Context]
+>   B --> C[Numerical Estimate]
+>   C --> D[Biased Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Anchoring in Risk Assessment**
+> *Observe how initial anchor skews probability estimates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Anchor] --> B[Numerical Estimate]
+>   B --> C[Biased Probability]
+>   C --> D[Skewed Decision]
+> ```
 
 ## Core Explanation
 

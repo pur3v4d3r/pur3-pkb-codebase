@@ -67,8 +67,63 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Choice Architecture Elements**
+> *Identify the key elements that influence decision-making.*
+>
+> ```mermaid
+> graph TD
+>   A[Ordering]
+>   B[Framing]
+>   C[Defaults]
+>   D[Saliency]
+>   E[Friction]
+>   A -->|Influences| F[Decision-Making]
+>   B -->|Influences| F
+>   C -->|Influences| F
+>   D -->|Influences| F
+>   E -->|Influences| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Choice Architecture**
+> *Understand how defaults and framing affect choices.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Defaults]
+>   B[Framing]
+>   C[Gain Framing] -->|Positive Outcome| D[Choice]
+>   E[Loss Framing] -->|Negative Outcome| F[Choice]
+>   G[Default Opt-In] -->|Higher Adoption| H[Choice]
+>   I[Default Opt-Out] -->|Lower Adoption| J[Choice]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Choice Architecture**
+> *See how choice architecture is applied in different fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Healthcare]
+>   C[Organizational Design]
+>   D[Public Policy]
+>   E[Digital Environments]
+>   A -->|Guides Beneficial Choices| F[Learner Outcomes]
+>   B -->|Nudges Healthier Decisions| G[Patient Outcomes]
+>   C -->|Promotes Socially Desirable Outcomes| H[Organizational Success]
+>   D -->|Encourages Better Policy Decisions| I[Societal Benefits]
+>   E -->|Shapes User Behaviors| J[User Engagement]
+> ```
 
 # Choice Architecture
 

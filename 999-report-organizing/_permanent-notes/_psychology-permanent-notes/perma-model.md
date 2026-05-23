@@ -69,8 +69,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — PERMA Model Overview**
+> *Identify the five elements of wellbeing.*
+>
+> ```mermaid
+> graph TD
+>   A[Positive Emotion] -->|Contributes to| B(Engagement)
+>   C(Relationships) -->|Supports| D(Meaning)
+>   E(Accomplishment) -->|Enhances| F[Wellbeing]
+>   B -->|Fosters| G[Positive Emotions]
+>   D -->|Provides| H[Purpose]
+>   A -->|Increases| C
+>   B -->|Strengthens| E
+> ```
+
+
+> [!abstract] **Diagram 2 — PERMA Interaction Mechanism**
+> *See how the elements interact to enhance wellbeing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Emotion] --> B(Engagement)
+>   C(Relationships) --> D(Meaning)
+>   E(Accomplishment) --> F[Wellbeing]
+>   B --> G[Positive Emotions]
+>   D --> H[Purpose]
+>   A --> I[Raise Engagement]
+>   C --> J[Support Meaning]
+>   E --> K[Enhance Relationships]
+> ```
+
+
+> [!abstract] **Diagram 3 — PERMA Practical Applications**
+> *Explore how PERMA can be applied in different contexts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant MentalHealthInterventions as MH
+>   participant GratitudeExercises as GE
+>   participant VolunteeringActivities as VA
+>   participant SettingGoals as SG
+>   ID->>GE: Cultivate Positive Emotions
+>   ID->>VA: Engage in Meaningful Activities
+>   ID->>MH: Build Strong Relationships
+>   MH->>SG: Set Achievable Goals for Accomplishment
+> ```
 
 # PERMA Model
 

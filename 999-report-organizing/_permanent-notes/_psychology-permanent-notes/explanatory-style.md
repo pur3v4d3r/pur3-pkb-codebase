@@ -66,8 +66,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Explanatory Style Dimensions**
+> *Identify the three dimensions of attribution.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal]
+>   B[Stable]
+>   C[Global]
+>   A -->|Negative Events| D[Pessimistic]
+>   B -->|Negative Events| D
+>   C -->|Negative Events| D
+>   A -->|Positive Events| E[Optimistic]
+>   B -->|Positive Events| E
+>   C -->|Positive Events| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Explanatory Style**
+> *Trace the cognitive process leading to emotional and behavioral outcomes.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant PessimisticStyle as PS
+>   participant NegativeEvent as NE
+>   participant InternalAttribution as IA
+>   participant StableAttribution as SA
+>   participant GlobalAttribution as GA
+>   participant LearnedHelplessness as LH
+>   NE->>PS: Occurs
+>   PS->>IA: Attributed Internally
+>   IA->>SA: Perceived as Stable
+>   SA->>GA: Viewed Globally
+>   GA-->>LH: Leads to Learned Helplessness
+> ```
+
+
+> [!abstract] **Diagram 3 — Explanatory Style Applications**
+> *Explore various practical applications of Explanatory Style.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Tailored Feedback]
+>   C[Cognitive-Behavioral Therapy] --> D[Challenge Negative Attributions]
+>   E[Organizational Psychology] --> F[Enhance Performance and Well-being]
+>   G[MOOCs] --> H[Frequent Spaced Practice]
+> ```
 
 # Explanatory Style
 

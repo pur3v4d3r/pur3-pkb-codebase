@@ -67,8 +67,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Monitoring-Control Loop Overview**
+> *Follow the flow from object to meta and back.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Object Level] --> B[Meta Level]
+>   B --> C[Intervention]
+>   C --> D[Regulation]
+>   D --> E[Feedback]
+>   E --> F[Monitoring]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sampling System Mechanism**
+> *Observe the intervals and density of sampling.*
+>
+> ```mermaid
+> graph TD
+>   A[Smooth Processing] --> B[Low Sampling Rate]
+>   C[Difficulties Arise] --> D[High Sampling Rate]
+>   E[Meta Level State] --> F[Density Determination]
+> ```
 
 # Monitoring–Control Loop
 

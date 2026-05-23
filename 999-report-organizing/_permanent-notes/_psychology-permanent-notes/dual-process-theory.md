@@ -68,8 +68,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — System Interaction Overview**
+> *Follow the flow from System 1 to System 2 under specific conditions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Intuition] --> B[System 1]
+>   B --> C[System 2 Intervention]
+>   C --> D[Rational Decision]
+>   B -.-> E[Intuitive Judgment]
+>   E --> F[Bias or Error]
+> ```
+
+
+> [!abstract] **Diagram 2 — Processing Characteristics Comparison**
+> *Compare the characteristics of System 1 and System 2.*
+>
+> ```mermaid
+> graph TD
+>   A[Type 1] -->|Autonomous, Quick, Parallel| B[Intuitive]
+>   C[Type 2] -->|Serial, Effortful, Attentional| D[Rational]
+> ```
+
+
+> [!abstract] **Diagram 3 — Default-Interventionist Architecture**
+> *Trace the default response and intervention conditions.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> S1: System 1 generates initial intuition
+>   S1 -->|Perceived Difficulty| S2: System 2 intervenes
+>   S1 -->|Conflict Between Intuitions| S2
+>   S1 -->|Explicit Instructions to be Careful| S2
+>   S1 -->|Time Pressure or Metacognitive Monitoring| S2
+> ```
 
 # Dual-Process Theory
 

@@ -71,8 +71,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stability Dimension Overview**
+> *Identify stable vs unstable attributions and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Stable Attributions] --> B[Fixed Expectations]
+>   C[Unstable Attributions] --> D[Varying Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Motivational States Influence**
+> *Trace how stability affects motivation and effort.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Stable Attribution] --> B[Reduced Motivation]
+>   C[Unstable Attribution] --> D[Increased Effort]
+> ```
+
+
+> [!abstract] **Diagram 3 — Applications in Instructional Design**
+> *See how feedback types influence student motivation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Student as S
+>   participant Educator as E
+>   S->>E: Poor Performance
+>   alt Stable Attribution
+>     E->>S: Reinforce Innate Talent
+>     S-->>E: Complacency & Lack of Effort
+>   else Unstable Attribution
+>     E->>S: Emphasize Insufficient Practice
+>     S-->>E: Growth Mindset & Increased Engagement
+>   end
+> ```
 
 # Stability Dimension
 

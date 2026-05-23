@@ -73,8 +73,70 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Forethought Phase Components**
+> *Identify the key components of forethought before performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal-Setting]
+>   B[Task Analysis]
+>   C[Strategy Selection]
+>   D[Motivational Regulation]
+>   E[Effort Planning]
+>   F[Environment Arrangement]
+>   A -->|prepares for| B
+>   B -->|guides to| C
+>   C -->|supports| D
+>   D -->|enhances| E
+>   E -->|optimizes| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Forethought Phase Workflow**
+> *Follow the sequence of activities in the forethought phase.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Learner as L
+>   participant Task as T
+>   participant Environment as E
+>   L->>T: Analyze task requirements
+>   L->>L: Set clear, achievable goals
+>   L->>L: Select appropriate strategies
+>   L->>E: Arrange environment for focus
+>   L->>L: Plan effort allocation
+>   L->>L: Activate motivational beliefs
+> ```
+
+
+> [!abstract] **Diagram 3 — Forethought Phase Regulatory Processes**
+> *Understand the regulatory processes involved in forethought.*
+>
+> ```mermaid
+> graph TD
+>   A[Goal-Setting]
+>   B[Task Analysis]
+>   C[Strategy Selection]
+>   D[Motivational Regulation]
+>   E[Effort Planning]
+>   F[Environment Arrangement]
+>   subgraph Regulatory Processes
+>     A -->|prepares for| B
+>     B -->|guides to| C
+>     C -->|supports| D
+>     D -->|enhances| E
+>     E -->|optimizes| F
+>   end
+> ```
 
 # Forethought Phase
 

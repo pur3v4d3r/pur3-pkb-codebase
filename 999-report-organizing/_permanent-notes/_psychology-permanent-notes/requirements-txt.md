@@ -68,8 +68,37 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dependency Management Process**
+> *Follow the flow from environment setup to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Create Virtual Environment] --> B[pip freeze > requirements.txt]
+>   B --> C[Commit to Version Control]
+>   C --> D[Install Dependencies with pip install -r]
+>   D --> E[Deploy in Production]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dependency Isolation Workflow**
+> *Track the workflow from development to deployment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Development Environment] --> B[Create requirements.txt]
+>   B --> C[Test Environment]
+>   C --> D[Staging Environment]
+>   D --> E[Production Environment]
+> ```
 
 # Requirements File
 

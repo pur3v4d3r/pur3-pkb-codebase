@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elaborative Feedback Process Flow**
+> *Follow the steps from student response to detailed explanation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Student Response] --> B[Assessment]
+>   B --> C[Evaluation of Answer]
+>   C --> D[Identify Errors and Principles]
+>   D --> E[Detailed Explanation]
+>   E --> F[Integrate New Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Types Comparison**
+> *Compare surface-level vs deep processing feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Feedback] -->|Focus on Correctness| B[Right/Wrong]
+>   C[Deep Processing Feedback] -->|Detailed Explanation| D[Conceptual Understanding]
+> ```
+
+
+> [!abstract] **Diagram 3 — Feedback Impact on Learning**
+> *Trace the impact of feedback from working memory to long-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Working Memory] --> B[Integration]
+>   B --> C[Deep Processing]
+>   C --> D[Long-Term Retention]
+> ```
 
 # Elaborative Feedback
 

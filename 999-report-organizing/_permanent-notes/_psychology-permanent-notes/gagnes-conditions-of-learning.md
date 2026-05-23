@@ -64,8 +64,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Gagnes Learning Outcomes Categories**
+> *Identify the five types of learning outcomes.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal Information] --> B[Intellectual Skills]
+>   C[Cognitive Strategies] --> D[Motor Skills]
+>   E[Attitudes] --> F[A]
+>   G[B] --> H[D]
+>   I[E] --> J[F]
+> ```
+
+
+> [!abstract] **Diagram 2 — Gagnes Nine Events of Instruction**
+> *Follow the sequence for effective instruction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gain Attention] --> B[Inform Objectives]
+>   B --> C[Stimulate Recall]
+>   C --> D[Presentation]
+>   D --> E[Provide Guidance]
+>   E --> F[Elicit Performance]
+>   F --> G[Feedback]
+>   G --> H[Assess Performance]
+>   H --> I[Enhance Retention]
+>   I --> J[Transfer Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conditions for Learning Outcomes**
+> *Match learning outcomes with their conditions.*
+>
+> ```mermaid
+> graph TD
+>   A[Intellectual Skills] --> B[Clear Objectives]
+>   C[Cognitive Strategies] --> D[Mental Processes]
+>   E[Verbal Information] --> F[Words/Symbols]
+>   G[Motor Skills] --> H[Precision Actions]
+>   I[Attitudes] --> J[Emotional Engagement]
+> ```
 
 # Gagnes Conditions Of Learning
 

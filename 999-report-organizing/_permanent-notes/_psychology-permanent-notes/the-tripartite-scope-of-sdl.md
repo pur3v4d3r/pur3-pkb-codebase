@@ -70,8 +70,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — SDL Tripartite Scope Overview**
+> *Identify the three aspects of SDL: process, disposition, and normative goal.*
+>
+> ```mermaid
+> graph TD
+>   A[Process]
+>   B[Disposition]
+>   C[Normative Goal]
+>   A -->|Dynamic & Situational| D[Learning Environment]
+>   B -->|Stable Traits| E[Learner Behaviors]
+>   C -->|Educational Design| F[Supportive Environments]
+> ```
+
+
+> [!abstract] **Diagram 2 — SDL Cognitive Mechanisms**
+> *Trace the interplay between metacognition and motivational mechanisms in SDL.*
+>
+> ```mermaid
+> graph TD
+>   A[Metacognition]
+>   B[Self-Efficacy]
+>   C[Intrinsic Motivation]
+>   D[Awareness & Regulation]
+>   E[Belief in Success]
+>   F[Drive to Learn]
+>   A -->|Awareness & Regulation| D
+>   B -->|Belief in Success| E
+>   C -->|Drive to Learn| F
+> ```
+
+
+> [!abstract] **Diagram 3 — SDL Application Areas**
+> *Explore how SDL manifests in instructional design, personal learning strategies, and educational policy.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Personal Learning Strategies]
+>   C[Educational Policy]
+>   D[Flexible Curricula]
+>   E[Learning Habits]
+>   F[Supportive Environments]
+>   A -->|Flexible Curricula| D
+>   B -->|Learning Habits| E
+>   C -->|Supportive Environments| F
+> ```
 
 # The Tripartite Scope of Self-Directed Learning
 

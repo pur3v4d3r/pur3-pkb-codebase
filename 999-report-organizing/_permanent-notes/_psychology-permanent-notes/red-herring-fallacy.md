@@ -67,8 +67,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Red Herring Fallacy Process Flow**
+> *Follow the flow to see how irrelevant topics divert attention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Original Issue] --> B[Introduce Irrelevant Topic]
+>   B --> C[Distract Attention]
+>   C --> D[Evade Original Question]
+> ```
+
+
+> [!abstract] **Diagram 2 — Red Herring vs Legitimate Reframing**
+> *Compare the intent and impact of each approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Legitimate Reframing] --> B[Aims to Enhance Understanding]
+>   C[Red Herring Fallacy] --> D[Introduces Irrelevant Topics]
+>   D --> E[Evades Addressing Original Question]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Biases in Red Herring**
+> *Identify the cognitive biases exploited by the fallacy.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Confirmation Bias] --> B[Focus on Preconceptions]
+>   C[Attentional Bias] --> D[Distracted by Emotionally Charged Topics]
+>   E[Introduced Irrelevant Topic] --> F[Ignored Substantive Discussion]
+> ```
 
 # Red Herring Fallacy
 

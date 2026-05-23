@@ -71,8 +71,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Metacognitive Control Architecture**
+> *Identify the two-level structure: meta and object levels.*
+>
+> ```mermaid
+> graph TD
+>   A[Meta-Level]
+>   B[Object-Level]
+> ```
+
+
+> [!abstract] **Diagram 2 — Discrepancy-Reduction Model Flow**
+> *Follow the process from assessment to study time allocation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Assess Current Understanding]
+>   B[Compare with Desired Mastery]
+>   C[Determine Study Time Allocation]
+>   A --> B
+>   B --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — Metacognitive Control in Practice**
+> *Trace the feedback loop from monitoring to study adjustments.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor Understanding]
+>   B[Determine Study Needs]
+>   C[Allocate Study Time]
+>   D[Evaluate Retention]
+>   A -->|Feeling-of-Knowing| B
+>   B -->|Discrepancy| C
+>   C -->|Study| D
+> ```
 
 # Metacognitive Control
 

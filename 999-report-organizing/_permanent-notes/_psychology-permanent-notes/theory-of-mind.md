@@ -66,8 +66,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Theory of Mind Development Timeline**
+> *Follow the timeline to see key milestones in Theory of Mind development.*
+>
+> ```mermaid
+> graph TD
+>   A[Infancy] --> B[Age 4]
+>   B[Age 4] --> C[Adulthood]
+>   A -->|Non-verbal ToM| D[Early Signs]
+>   B -->|False-belief Tasks| E[Mature ToM]
+> ```
+
+
+> [!abstract] **Diagram 2 — Theory of Mind Mechanism Flowchart**
+> *Trace the steps involved in attributing mental states to oneself and others.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Recognize Perspective] --> B[Imagine Beliefs]
+>   B --> C[Predict Behavior]
+> ```
+
+
+> [!abstract] **Diagram 3 — Theory of Mind vs Empathy Taxonomy**
+> *Compare cognitive perspective-taking with affective empathy.*
+>
+> ```mermaid
+> classDiagram
+>   class CognitivePerspectiveTaking{
+>     +understand mental states
+>     -predict behavior
+>   }
+>   class AffectiveEmpathy{
+>     +feel emotions of others
+>     -respond emotionally
+>   }
+> ```
 
 # Theory of Mind
 

@@ -69,8 +69,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Load Types Overview**
+> *Identify the types of cognitive load and their impact on learning.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic]
+>   A --> D{Total Load}
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Expertise Reversal Process Flow**
+> *Follow the flow from novice to expert and observe how instructional supports change.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Novice]
+>   C[Step-by-Step Guidance] -->|Helpful| D[Expert]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   D --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Adaptation**
+> *Notice how instructional strategies vary based on learner expertise.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice]
+>   C[Step-by-Step Guidance] -->|Benefit| D[Expert]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   D --> F
+> ```
 
 # Expertise Reversal Effect
 

@@ -64,8 +64,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Informal Fallacy Types Overview**
+> *Identify the different types of informal fallacies and their descriptions.*
+>
+> ```mermaid
+> graph TD
+>   A[Ad Hominem]
+>   B[Slippery Slope]
+>   C[Appeal to Authority]
+>   D[Hasty Generalization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Contextual Analysis of Informal Fallacies**
+> *Understand how informal fallacies arise in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Argument]
+>   B[Dialectical Context]
+>   C[Relevance]
+>   D[Inferential Transitions]
+>   E[Contextual Analysis]
+>   A -->|Content| B
+>   A -->|Premises| C
+>   A -->|Transitions| D
+>   B & C & D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Informal Fallacy Recognition**
+> *See how recognizing informal fallacies can improve various fields.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Reasoning]
+>   C[Public Discourse]
+>   D[Academic Writing]
+> ```
 
 # Informal Fallacy
 

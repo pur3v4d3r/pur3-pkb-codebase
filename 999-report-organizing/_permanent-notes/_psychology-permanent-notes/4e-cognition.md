@@ -64,8 +64,49 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — 4E Cognition Commitments**
+> *Follow the arrows to see how each commitment builds on the previous one.*
+>
+> ```mermaid
+> graph TD
+>   A[Embodied]
+>   B[Embedded]
+>   C[Enactive]
+>   D[Extended]
+>   C -->|Dynamic Interactions| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of 4E Cognition**
+> *Trace the flow from brain to environment and back, highlighting dynamic interactions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Brain]
+>   B[Body]
+>   C[Environment]
+>   D[Tools]
+>   C -->|Feedback Loops| D
+> ```
+
+
+> [!abstract] **Diagram 3 — 4E Cognition in Practice**
+> *Identify how each application integrates the principles of 4E Cognition.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Educational Technology]
+> ```
 
 # 4E Cognition
 

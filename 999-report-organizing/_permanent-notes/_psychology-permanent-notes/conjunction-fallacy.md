@@ -65,8 +65,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conjunction Fallacy Process Flow**
+> *Follow the flow from general to specific event judgment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[General Event] --> B[Intuitive Judgment]
+>   C[Specific Event] --> D[Intuitive Judgment]
+>   B --> E[Overestimated Probability]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Representativeness Heuristic Impact**
+> *Trace how vivid descriptions affect probability judgments.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Description] --> B[Vivid and Fitting]
+>   C[General Description] --> D[Less Vivid]
+>   B --> E[Overestimated Probability]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Conjunction Fallacy Applications**
+> *Identify areas where the fallacy can lead to errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Incorrect Probability Judgments]
+>   C[Legal Decision-Making] --> D[Wrongful Convictions]
+>   E[Financial Decision-Making] --> F[Poor Investment Decisions]
+> ```
 
 # Conjunction Fallacy
 

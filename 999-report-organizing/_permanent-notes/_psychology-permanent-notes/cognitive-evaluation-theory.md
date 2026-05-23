@@ -63,8 +63,68 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CET Event Types**
+> *Identify the types of external events and their impact on intrinsic motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[External Events]
+>   B[Informational]
+>   C[Controlling]
+>   A -->|Enhances Intrinsic Motivation|B
+>   A -->|Undermines Intrinsic Motivation|C
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Mechanism**
+> *Trace the flow of feedback and its impact on perceived causality and competence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Performance]
+>   B[Informational Feedback]
+>   C[Controlling Rewards]
+>   D[Perceived Competence]
+>   E[Autonomy]
+>   F[Intrinsic Motivation]
+>   A -->|Provides Useful Information|B
+>   A -->|Imposes Control|C
+>   B -->|Enhances|D
+>   B -->|Supports|E
+>   C -->|Undermines|F
+>   D -->|Increases|F
+>   E -->|Increases|F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications**
+> *Compare instructional design, organizational management, and online learning applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Organizational Management]
+>   C[Online Learning]
+>   D[Feedback]
+>   E[Rewards]
+>   F[Intrinsic Motivation]
+>   G[Autonomy]
+>   H[Competence]
+>   A -->|Constructive Feedback|D
+>   A -->|Avoid Rewards|E
+>   B -->|Meaningful Tasks|F
+>   B -->|Supportive Feedback|G
+>   C -->|Timely Specific Feedback|H
+> ```
 
 # Cognitive Evaluation Theory
 

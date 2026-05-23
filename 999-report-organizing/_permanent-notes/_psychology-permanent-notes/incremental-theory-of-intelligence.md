@@ -66,8 +66,67 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Incremental vs Fixed Intelligence Beliefs**
+> *Compare the beliefs about intelligence's malleability.*
+>
+> ```mermaid
+> graph TD
+>   A[Fixed View]
+>   B[Incremental View]
+>   A -->|Static Trait| C[No Effort Impact]
+>   B -->|Malleable Trait| D[Effort Enhances Intelligence]
+> ```
+
+
+> [!abstract] **Diagram 2 — Behavioral Responses to Challenges**
+> *Trace how beliefs influence responses to academic difficulties.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Incremental View]
+>   B[Set Challenging Goals]
+>   C[Treat Effort as Path to Competence]
+>   D[Interpret Failure as Informative]
+>   E[Persistent Engagement]
+>   F[Steeper Learning Trajectories]
+>   A -->|Belief in Malleable Intelligence| B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Incremental Theory**
+> *Identify how the theory is applied in different educational contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Parental Involvement]
+>   C[MOOCs]
+>   D[Praise Effort]
+>   E[Encourage Challenges]
+>   F[Spaced Retrieval]
+>   G[Enhance Learning Outcomes]
+>   H[Foster Growth Mindset]
+>   I[Built Confidence in Growth]
+>   A -->|Flexible Curricula| G
+>   B -->|Praise Effort| D
+>   C -->|Spaced Retrieval| F
+>   D --> E
+>   E --> H
+>   F --> I
+> ```
 
 # Incremental Theory of Intelligence
 

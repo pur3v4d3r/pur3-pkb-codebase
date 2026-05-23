@@ -68,8 +68,34 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LSP Communication Flow**
+> *Follow the flow from client to server and back.*
+>
+> ```mermaid
+> flowchart LR
+>   Client[Editor] -->|Request| Server[Language Analysis]
+>   Server -->|Response| Client
+> ```
+
+
+> [!abstract] **Diagram 2 — LSP Feature Overview**
+> *Identify the features provided by LSP to editors.*
+>
+> ```mermaid
+> graph TD
+>   A[Code Completion] --> B[Error Detection]
+>   B --> C[IntelliSense]
+>   C --> D[Refactoring]
+> ```
 
 # Language Server Protocol
 

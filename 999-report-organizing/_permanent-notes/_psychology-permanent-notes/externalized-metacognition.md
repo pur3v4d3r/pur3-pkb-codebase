@@ -66,8 +66,46 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Externalized Metacognition Process Flow**
+> *Follow the flow from input to structured outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[System Processing]
+>   B --> C[Structured Outputs]
+>   C --> D[Facilitates Learning Regulation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Externalized Metacognition Mechanism Overview**
+> *Trace the steps from data input to review queues.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Inputs Data] --> B[System Processes]
+>   B --> C[Generates Structured Outputs]
+>   C --> D[Suggests Review Queues]
+> ```
+
+
+> [!abstract] **Diagram 3 — Externalized Metacognition Applications**
+> *Identify the applications in different educational contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Integrated LMS & PKBs]
+>   C[Personal Knowledge Management] --> D[Tools like Evernote/Notion]
+>   E[Educational Technology] --> F[Adaptive Learning Systems]
+> ```
 
 # Externalized Metacognition
 

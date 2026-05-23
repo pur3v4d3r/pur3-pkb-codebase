@@ -69,8 +69,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Elo Ranking Process Flow**
+> *Follow the flow from user interaction to model rating update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Interaction] --> B[Preference Vote]
+>   B --> C[Elo Update Formula]
+>   C --> D[Model Rating Adjustment]
+> ```
+
+
+> [!abstract] **Diagram 2 — Elo Ranking Taxonomy**
+> *Identify the hierarchical relationship between concepts in Arena Elo ranking.*
+>
+> ```mermaid
+> graph TD
+>   A[User Preferences] --> B[Elo Update]
+>   B --> C[Ratings Adjustment]
+>   C --> D[Model Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — Crowdsourced vs Automated Benchmarks**
+> *Compare the key differences between crowdsourced and automated benchmarking methods.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model1 as M1
+>   participant Model2 as M2
+>   participant EloSystem as E
+>   U->>M1: Query
+>   U->>M2: Query
+>   U->>E: Preference Vote
+>   E-->>M1: Rating Update
+>   E-->>M2: Rating Update
+> ```
 
 ## Core Explanation
 

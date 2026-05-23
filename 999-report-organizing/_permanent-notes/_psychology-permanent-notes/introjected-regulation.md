@@ -68,8 +68,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Controlled Motivation Hierarchy**
+> *Identify the position of introjected regulation within controlled motivation.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Regulation] --> B(Autonomous Motivation)
+>   C[Introjected Regulation] --> D(Controlled Motivation)
+>   E[External Regulation] --> F(Controlled Motivation)
+>   G[Identified Regulation] --> H(Controlled Motivation)
+> ```
+
+
+> [!abstract] **Diagram 2 — Introjection Mechanism Flow**
+> *Follow the process from conditional regard to introjected regulation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Conditional Regard] --> B[Internalized Contingencies]
+>   B --> C[Negative Internal Experiences]
+>   C --> D[Introjected Regulation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Introjection vs Identified Regulation**
+> *Compare introjected and identified regulation in terms of value endorsement.*
+>
+> ```mermaid
+> classDiagram
+>   class IntrojectedRegulation{
+> - lacks conscious value endorsement
+> }
+>   class IdentifiedRegulation{
+> + has conscious value endorsement
+> }
+> ```
 
 # Introjected Regulation
 

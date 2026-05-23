@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Biologically Primary Knowledge Mechanism**
+> *Follow the flow from innate ability to rapid processing.*
+>
+> ```mermaid
+> graph TD
+>   A[Innate Ability]
+>   B[Rapid Processing]
+>   C[Efficient Task Execution]
+>   A -->|Evolutionary Adaptation| B
+>   B -->|Dedicated Neural Pathways| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Biologically Primary vs Standard Schema Construction**
+> *Compare the bypassing of schema construction in biologically primary knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Schema]
+>   B[Biologically Primary Knowledge]
+>   C[Rapid Processing]
+>   D[Efficient Task Execution]
+>   A -->|Schema Construction Loop| C
+>   B -->|Evolutionary Adaptation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Biologically Primary Knowledge Applications**
+> *Identify the applications in instructional design, language acquisition, and social interaction.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Language Acquisition]
+>   C[Social Interaction]
+> ```
 
 # Biologically Primary Knowledge
 

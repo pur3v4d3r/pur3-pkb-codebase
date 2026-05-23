@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Agrippa Trilemma Overview**
+> *Identify the three unsatisfactory outcomes of belief justification.*
+>
+> ```mermaid
+> graph TD
+>   A[Infinite Regress]
+>   B[Circular Dependency]
+>   C[Absurdity]
+>   A -->|Outcome| D[Unsatisfactory Justification]
+>   B -->|Outcome| D
+>   C -->|Outcome| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Infinite Regress vs Circular Dependency**
+> *Understand the difference between infinite regress and circular dependency.*
+>
+> ```mermaid
+> graph TD
+>   A[Infinite Regress]
+>   B[Circular Dependency]
+>   A -->|Requires further justification| C[No End]
+>   B -->|Premises rely on each other| D[Loop]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking**
+> *Compare reflective and reactive thinking in the context of Agrippa Trilemma.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective]
+>   B[Reactive]
+>   A -->|Deliberate Consideration| C[Challenges Justification Chain]
+>   B -->|Intuitive or Habitual| D[Bypasses Issues]
+> ```
 
 # Agrippa Trilemma
 

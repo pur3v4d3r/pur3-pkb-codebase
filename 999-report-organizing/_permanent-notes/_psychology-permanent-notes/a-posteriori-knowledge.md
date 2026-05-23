@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — A Posteriori Knowledge Justification Flow**
+> *Follow the flow from experience to belief validation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Experience] --> B[Testimony]
+>   B --> C[Observation]
+>   C --> D[Inference]
+>   D --> E[Belief Validation]
+> ```
+
+
+> [!abstract] **Diagram 2 — A Priori vs A Posteriori Knowledge Comparison**
+> *Compare the justificatory processes of both types.*
+>
+> ```mermaid
+> graph TD
+>   A[Experience] --> B[A Posteriori]
+>   C[Mathematical Truths] --> D[A Priori]
+> ```
+
+
+> [!abstract] **Diagram 3 — Recognition vs Recall in Learning**
+> *Identify the roles of recognition and recall in experiential learning.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Recognition as R
+>   participant Recall as C
+>   participant Experience as E
+>   participant Application as A
+>   R->>E: Identify Information
+>   E-->>R: Validate Input
+>   C->>A: Retrieve Knowledge
+>   A-->>C: Apply to New Situations
+> ```
 
 # A Posteriori Knowledge
 

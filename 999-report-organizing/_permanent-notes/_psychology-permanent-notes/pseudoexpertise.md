@@ -67,8 +67,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pseudoexpertise Formation Process**
+> *Follow the flow from experience to pseudoexpertise.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Experience] --> B[Degraded Feedback]
+>   B --> C[Incorrect Chunks]
+>   C --> D[Pseudoexpertise]
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Quality Impact on Expertise**
+> *Compare the outcomes of accurate vs degraded feedback.*
+>
+> ```mermaid
+> graph TD
+>   A[Accurate Feedback] --> B[Genuine Expertise]
+>   C[Degraded Feedback] --> D[Pseudoexpertise]
+> ```
+
+
+> [!abstract] **Diagram 3 — Chunking Process in Pseudoexpertise**
+> *Trace the chunk formation and its impact on performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Practice] --> B[Feedback]
+>   B --> C[Chunks]
+>   C --> D[Performance]
+>   B --> E[Degraded]
+>   E --> F[Pseudoexpertise]
+> ```
 
 # Pseudoexpertise
 

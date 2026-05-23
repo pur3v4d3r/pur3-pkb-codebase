@@ -68,8 +68,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — 4C/ID Component Overview**
+> *Identify the four components and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Learning Tasks] --> B[Supportive Information]
+>   A --> C[Procedural Information]
+>   A --> D[Part-Task Practice]
+> ```
+
+
+> [!abstract] **Diagram 2 — 4C/ID Mechanism Flow**
+> *Follow the flow of schema construction and procedural guidance.*
+>
+> ```mermaid
+> flowchart LR
+>   E[Schema Construction] --> F[Cognitive Strategies]
+>   G[Procedural Guidance] --> H[Automation Rules]
+> ```
+
+
+> [!abstract] **Diagram 3 — 4C/ID Application Examples**
+> *See how the model is applied in different instructional scenarios.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant WorkedExamples as WE
+>   participant PartTaskPractice as PTP
+>   ID->>WE: Use worked examples for supportive info
+>   ID->>PTP: Incorporate part-task practice
+> ```
 
 # Four Components of 4C/ID
 

@@ -65,8 +65,54 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Worth Theory Mechanism**
+> *Follow the flow from perception to self-handicapping behaviors.*
+>
+> ```mermaid
+> graph TD
+>   A[Perception of Ability]
+>   B[Visible Effort]
+>   C[Failure]
+>   D[Evidence of Low Competence]
+>   E[Self-Protective Behaviors]
+>   F[Under-preparation or Self-handicapping]
+>   A -->|If Failure Linked to Low Ability| B
+>   B -->|Results in| C
+>   C -->|Interpreted as| D
+>   D -->|Leads To| E
+>   E -->|Such As| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Worth Theory vs Fixed-Mindset**
+> *Compare the focus of Self-Worth Theory with that of a fixed-mindset theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Worth Theory]
+>   B[Fixed-Mindset Theory]
+>   B -->|Perception of Ability Only
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-Worth Theory vs Achievement-Goal Theory**
+> *Compare the focus of Self-Worth Theory with that of achievement-goal theory.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Worth Theory]
+>   B[Achievement-Goal Theory]
+>   B -->|Mastery or Performance Goals
+> ```
 
 # Self-Worth Theory
 

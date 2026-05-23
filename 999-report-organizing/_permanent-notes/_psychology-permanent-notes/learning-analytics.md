@@ -64,8 +64,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Learning Analytics Process Flow**
+> *Follow the data flow from collection to decision-making.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B(Data Cleaning)
+>   B --> C(Analytics Techniques)
+>   C --> D(Dashboards/Reports)
+>   D --> E(Educator Decisions)
+> ```
+
+
+> [!abstract] **Diagram 2 — Learning Analytics Applications Overview**
+> *Identify the various applications of Learning Analytics in education.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Student Engagement Monitoring)
+>   B --> C(Resource Allocation)
+> ```
+
+
+> [!abstract] **Diagram 3 — Data Sources and Outputs**
+> *Trace the sources of data and their corresponding outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Learning Management Systems] --> B(Analytics)
+>   C[Online Quizzes] --> D(Analytics)
+>   E[Student Interactions] --> F(Analytics)
+>   G[Analytics] --> H(Dashboards/Reports)
+> ```
 
 # Learning Analytics
 

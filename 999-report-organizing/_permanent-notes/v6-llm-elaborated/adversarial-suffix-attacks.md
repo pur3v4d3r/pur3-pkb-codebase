@@ -68,8 +68,52 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adversarial Suffix Attack Process**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Request] --> B[Harmful Pattern]
+>   B --> C[Gradient-Based Optimization]
+>   C --> D[Generate Adversarial Suffix]
+>   D --> E[Append Suffix]
+>   E --> F[Elicit Compliance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adversarial vs Reflective Thinking in LLMs**
+> *Compare the two thinking styles and their vulnerabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Reflective Thinking] --> B[Deep Ethical Analysis]
+>   C[Reactive Thinking] --> D[Surface-Level Pattern Recognition]
+>   E{Adversarial Input}
+>   F{Vulnerability to Attack}
+>   B -.->|No Vulnerability|E
+>   D -- Yes, Vulnerable -->F
+> ```
+
+
+> [!abstract] **Diagram 3 — Transferability of Adversarial Suffixes Across Models**
+> *Observe the transferability across different models and queries.*
+>
+> ```mermaid
+> graph TD
+>   A[Model1] --> B[Harmful Response]
+>   C[Query1] -.->|Adversarial Suffix|A
+>   D[Model2] --> E[Harmful Response]
+>   F[Query2] -.->|Same Adversarial Suffix|D
+> ```
 
 ## Core Explanation
 

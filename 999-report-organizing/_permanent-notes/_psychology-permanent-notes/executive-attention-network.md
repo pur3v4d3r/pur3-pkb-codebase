@@ -65,8 +65,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Executive Attention Network Components**
+> *Identify the key brain regions involved.*
+>
+> ```mermaid
+> graph TD
+>   A[Prefrontal Cortex] --> B[Dorsolateral Prefrontal Cortex]
+>   A --> C[Posterior Parietal Cortex]
+>   A --> D[Dorsal Anterior Cingulate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Process of Cognitive Control**
+> *Follow the flow from goal-setting to conflict resolution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Goal-Setting] --> B[Spatial Attention]
+>   B --> C[Task-Relevant Processing]
+>   C --> D[Conflict Monitoring]
+>   D --> E[Irrelevant Inhibition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Executive Function Development Timeline**
+> *Track the maturation of executive function with age.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Child
+>   Child --> Adolescent : Cognitive Control Improvement
+>   Adolescent --> Adult : Fluid Intelligence Peak
+> ```
 
 # Executive Attention Network
 

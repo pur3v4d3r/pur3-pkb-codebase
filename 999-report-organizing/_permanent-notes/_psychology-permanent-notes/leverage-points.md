@@ -64,8 +64,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Leverage Points Hierarchy**
+> *Read from bottom to top for increasing leverage.*
+>
+> ```mermaid
+> graph TD
+>   A[Changing Paradigms] --> B[Redesigning System Goals]
+>   B --> C[Redefining Roles and Rules]
+>   C --> D[Modifying Feedback Loops]
+>   D --> E[Adjusting Information Flows]
+>   E --> F[Tweaking Numbers]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of High-Leverage Interventions**
+> *Follow arrows to see how interventions affect system behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Changing Paradigms] --> B[System Goals]
+>   B --> C[Roles and Rules]
+>   C --> D[Feedback Loops]
+>   D --> E[Information Flows]
+>   E --> F[Numerical Parameters]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Leverage Points on System Behavior**
+> *Notice how higher leverage points lead to more systemic changes.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> A : Changing Paradigms
+>   A --> B : Redesigning Goals
+>   B --> C : Roles and Rules
+>   C --> D : Feedback Loops
+>   D --> E : Information Flows
+>   E --> F : Numerical Parameters
+>   F --> G : Minor Variations
+>   G --> H : Systemic Changes
+> ```
 
 # Leverage Points
 

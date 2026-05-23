@@ -68,8 +68,55 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Flow State Mechanism Overview**
+> *Follow the sequence from clear goals to intrinsic motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Clear Goals] --> B[Immediate Feedback]
+>   B --> C[Sustained Focus]
+>   C --> D[Optimal Challenge]
+>   D --> E[Distorted Time Perception]
+>   E --> F[Inttrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Conditions for Flow State**
+> *Identify the balance between challenge and skill.*
+>
+> ```mermaid
+> graph TD
+>   A[Challenge] --> B{Balance}
+>   C[Skill] --> B
+>   B -->|Yes| D[Intinsic Reward]
+>   B -->|No| E[Lack of Intrinsic Motivation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Flow State in Activities**
+> *Trace the flow state experience across different activities.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Musician as M
+>   participant Athlete as A
+>   participant ProblemSolver as P
+>   M->>M: Playing challenging piece
+>   A->>A: Competitive match
+>   P->>P: Solving complex problem
+>   M-->>M: Losing track of time
+>   A-->>A: Complete absorption
+>   P-->>P: Seamless action-awareness blend
+> ```
 
 # Flow State
 

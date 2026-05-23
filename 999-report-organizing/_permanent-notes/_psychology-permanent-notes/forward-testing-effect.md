@@ -66,8 +66,47 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Forward Testing Effect Process Flow**
+> *Follow the sequence from testing to improved learning outcomes.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Previous Material] --> B[Test]
+>   B --> C[Integrate New Information]
+>   C --> D[Better Learning Outcomes]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Forward Testing Effect**
+> *Trace the flow from retrieval to facilitation and integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieval] --> B[Facilitation]
+>   B --> C[Integration]
+>   C --> D[Better Recall]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Forward Testing Effect**
+> *Identify the different contexts where forward testing can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Intersperse Quizzes]
+>   C[Study Habits] --> D[Review Older Material]
+>   E[Educational Technology] --> F[Dynamically Test Students]
+>   G[MOOCs] --> H[Brief Quizzes Before New Topics]
+> ```
 
 # Forward Testing Effect
 

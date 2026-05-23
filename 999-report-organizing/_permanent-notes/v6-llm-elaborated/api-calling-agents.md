@@ -68,8 +68,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — API-Calling Agent Process Flow**
+> *Follow the flow from decision-making to API execution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Context Evaluation] --> B[Decision]
+>   B --> C[Function Call Structuring]
+>   C --> D[System Execution]
+>   D --> E[Feedback Integration]
+> ```
+
+
+> [!abstract] **Diagram 2 — API-Calling Agent Mechanism Overview**
+> *Trace the steps from input to output in API calling.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Evaluation]
+>   B --> C[Decision]
+>   C --> D[Function Call]
+>   D --> E[System Execution]
+>   E --> F[Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — API-Calling Agent Interaction Sequence**
+> *Observe the sequence of interactions between components.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant System as S
+>   M->>S: Evaluate Context
+>   S-->>M: Decision Required?
+>   alt Yes
+>     M->>S: Structured Function Call
+>     S-->>M: Execution Result
+>   else No
+>     M-->>S: Continue Processing
+>   end
+> ```
 
 ## Core Explanation
 

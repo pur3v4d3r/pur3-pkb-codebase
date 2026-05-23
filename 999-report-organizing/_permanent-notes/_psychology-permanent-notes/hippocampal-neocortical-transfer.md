@@ -66,8 +66,50 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Consolidation Process**
+> *Follow the flow from hippocampus to neocortex.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Encoding] --> B[Hippocampal Storage]
+>   B --> C[Reactivation During Sleep]
+>   C --> D[Integration into Neocortex]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sleep Stages Interaction**
+> *Observe the interaction between hippocampus and neocortex during sleep.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Hippocampus as H
+>   participant Neocortex as N
+>   participant SWS as SW
+>   participant REM as R
+>   SW->>H: Reactivation of Memory Traces
+>   H-->>N: Transfer to Neocortex
+>   R->>N: Integration into Knowledge Structures
+> ```
+
+
+> [!abstract] **Diagram 3 — Memory Accessibility Over Time**
+> *Notice the shift from hippocampal dependence to neocortical independence.*
+>
+> ```mermaid
+> graph TD
+>   A[Recent Memories] --> B[Hippocampus Dependent]
+>   B --> C[Integration into Neocortex]
+>   C --> D[Neocortex Independent]
+> ```
 
 # Hippocampal Neocortical Transfer
 

@@ -70,8 +70,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Management Process Flow**
+> *Follow the flow from capturing to applying knowledge.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Capture] --> B[Organize]
+>   B --> C[Retrieve]
+>   C --> D[Share]
+>   D --> E[Apply]
+> ```
+
+
+> [!abstract] **Diagram 2 — Explicit vs Tacit Knowledge Types**
+> *Compare explicit and tacit knowledge characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Knowledge] -->|Easily Documented| B[Tacit Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Management Mechanisms Integration**
+> *See how people, processes, and technology interact.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant People as P
+>   participant Processes as Pr
+>   participant Technology as T
+>   P->>Pr: Training & Incentives
+>   Pr->>T: Collaborative Platforms
+>   T-->>P: Facilitated Interactions
+> ```
 
 # Knowledge Management
 

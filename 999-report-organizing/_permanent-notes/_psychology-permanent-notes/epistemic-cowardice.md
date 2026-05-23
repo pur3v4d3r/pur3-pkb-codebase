@@ -64,8 +64,48 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-13'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Epistemic Cowardice Mechanism**
+> *Follow the flow from belief to avowal under pressure.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Belief] --> B[Well-Supported]
+>   B -->|Audience Pressure| C[Withhold/Softened]
+>   C --> D[Avoidance]
+> ```
+
+
+> [!abstract] **Diagram 2 — Epistemic Cowardice vs Intellectual Courage**
+> *Compare the paths of avowal under pressure.*
+>
+> ```mermaid
+> graph TD
+>   A[Epistemic Cowardice] -->|Withhold/Soften| B[Social Harmony]
+>   C[Intellectual Courage] -->|Stand Firm| D[Truth Integrity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Epistemic Cowardice**
+> *Trace the impact on different settings.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant A as Academic Research
+>   participant B as Professional Settings
+>   participant C as Peer Review
+>   A->>A: Avoid Publishing Controversial Findings
+>   B->>B: Withhold Critical Feedback
+>   C->>C: Soften Critiques
+> ```
 
 # Epistemic Cowardice
 

@@ -67,8 +67,75 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LTWM Structural Overview**
+> *Follow the flow from working memory to long-term memory and back.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory]
+>   B(Long-Term Memory)
+>   C[Rapid Access]
+>   D[Integration]
+>   E[Retrieval Structures]
+>   F[Chunks]
+>   G[Task Environment]
+>   A -->|Temporary Hold & Manipulate| B
+>   B -->|Rapid Access via| C
+>   C -->|Integration into| D
+>   D -->|Refined Retrieval Structures| E
+>   E -->|Efficient Chunks| F
+>   F -->|Relevant Configurations in| G
+> ```
+
+
+> [!abstract] **Diagram 2 — LTWM Mechanism Flowchart**
+> *Trace the process from practice to rapid retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Extensive Practice]
+>   B[Integration of Elements]
+>   C[Rapid Access via Retrieval Structures]
+>   D[Manipulation in Working Memory]
+>   E[Task Environment]
+>   F[Efficient Chunks]
+>   G[Novel Situations]
+>   A -->|Builds| B
+>   B -->|Creates| C
+>   C -->|Enables| D
+>   D -->|Handles| E
+>   E -->|Adapts to| G
+> ```
+
+
+> [!abstract] **Diagram 3 — LTWM Expert Performance Workflow**
+> *Follow the steps from novice to expert performance.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Novice as N
+>   participant TaskEnvironment as TE
+>   participant LTWM as L
+>   participant Expert as E
+>   N->>TE: Encounter New Situation
+>   TE-->>N: Present Information
+>   N->>L: Attempt to Process
+>   L-->>N: Limited Capacity
+>   N->>E: Seek Guidance
+>   E->>L: Provide Retrieval Structures
+>   L-->>E: Efficient Chunks
+>   E->>TE: Handle Situation
+>   TE-->>E: Feedback and Adaptation
+> ```
 
 # Long-Term Working Memory
 

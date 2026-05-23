@@ -64,8 +64,56 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cognitive Dissonance Mechanism**
+> *Identify the strategies used to reduce dissonance.*
+>
+> ```mermaid
+> graph TD
+>   A[Changing Behavior]
+>   B[Altering Cognition]
+>   C[Adding Consonant Cognitions]
+>   subgraph Dissonance Reduction Strategies
+>     C -->|Support Beliefs| end
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Dissonance Process Flow**
+> *Follow the sequence from conflict to dissonance reduction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Contradictory Beliefs or Behaviors]
+>   B[Discomfort]
+>   C["Change Behavior|Altering Cognition|Adding Consonant Cognitions"]
+>   D[Reduced Dissonance]
+>   A --> B
+>   B -->|Strategies| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Dissonance vs Self-Perception Theory**
+> *Compare the focus of each theory on attitude formation.*
+>
+> ```mermaid
+> classDiagram
+>   class CognitiveDissonance{
+>     +self-relevant inconsistencies
+>     +arousal and dissonance reduction efforts
+>   }
+>   class SelfPerceptionTheory{
+>     +observed behavior influences attitudes
+>   }
+> ```
 
 # Cognitive Dissonance
 

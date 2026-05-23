@@ -65,8 +65,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cyclical Model Phases**
+> *Follow the arrows to see how each phase informs the next.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought]
+>   B[Performance]
+>   C[Reaction & Reflection]
+>   A --> B
+>   B --> C
+>   C --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Loop Mechanism**
+> *Observe how data flows from one phase to the next, creating a continuous loop.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Forethought] --> B[Performance]
+>   B --> C[Reaction & Reflection]
+>   C --> D[Integration]
+>   D --> E[Next Forethought]
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Identify how intrinsic and extraneous loads are managed in each phase.*
+>
+> ```mermaid
+> graph TD
+>   A[Forethought] -->|Manage Intrinsic Load| B[Performance]
+>   B -->|Monitor Performance| C[Reaction & Reflection]
+>   C -->|Reflect on Outcomes| D[Integration]
+>   D -->|Revise Forethought| E[Next Forethought]
+> ```
 
 # Cyclical Model of Self-Regulated Learning
 

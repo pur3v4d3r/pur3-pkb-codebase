@@ -65,8 +65,36 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Maintenance Rehearsal Process Flow**
+> *Follow the flow from input to short-term retention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Subvocal Articulation]
+>   B --> C[Phonological Loop]
+>   C --> D[Short-Term Retention]
+> ```
+
+
+> [!abstract] **Diagram 2 — Maintenance vs Elaborative Rehearsal Comparison**
+> *Compare the strategies for retention and understanding.*
+>
+> ```mermaid
+> graph TD
+>   A[Maintenance]
+>   B[Elaborative]
+>   A -->|Subvocal Articulation| C[Weak Long-Term Retention]
+>   B -->|Semantic Processing| D[Strong Long-Term Retention]
+> ```
 
 # Maintenance Rehearsal
 

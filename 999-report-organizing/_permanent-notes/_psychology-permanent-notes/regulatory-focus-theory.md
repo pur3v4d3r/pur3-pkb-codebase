@@ -65,8 +65,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Promotion vs Prevention Focus**
+> *Compare the strategies and outcomes of promotion and prevention focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Promotion Focus]
+>   B[Prevention Focus]
+>   B -->|Outcomes: Quiescence/Agitated
+> ```
+
+
+> [!abstract] **Diagram 2 — Regulatory Focus Mechanism**
+> *Understand the factors influencing focus shift between promotion and prevention.*
+>
+> ```mermaid
+> graph TD
+>   A[Chronic Tendencies]
+>   B[Situational Factors]
+>   C[Shift to Promotion]
+>   D[Shift to Prevention]
+>   A --> C
+>   B --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Goal Pursuit Strategies**
+> *Identify the strategies and emotional outcomes for promotion and prevention focus.*
+>
+> ```mermaid
+> graph TD
+>   A[Promotion Focus]
+>   B[Prevention Focus]
+>   B -->|Emotional Outcomes: Quiescence/Agitated
+> ```
 
 # Regulatory Focus Theory
 

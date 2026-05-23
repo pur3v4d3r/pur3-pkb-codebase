@@ -67,8 +67,49 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Speech Acts Components Overview**
+> *Identify the three components of a speech act: locutionary, illocutionary, and perlocutionary.*
+>
+> ```mermaid
+> graph TD
+>   A[Locutionary]
+>   B[Illucutionary] --> C[Perlocutionary]
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Speech Acts Types and Examples**
+> *Understand the different types of speech acts with examples.*
+>
+> ```mermaid
+> graph TD
+> D[Expressives] -->|Example: Apologizing| E[Declaratives]
+> ```
+
+
+> [!abstract] **Diagram 3 — Speech Acts in Context**
+> *See how context influences the interpretation of speech acts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Speaker as S
+>   participant Listener as L
+>   S ->> L: I bet you can't do it
+>   alt Formal Setting
+>     L -->> S: Challenge accepted
+>   else Informal Gathering
+>     L -->> S: Just kidding
+>   end
+> ```
 
 # Speech Acts
 

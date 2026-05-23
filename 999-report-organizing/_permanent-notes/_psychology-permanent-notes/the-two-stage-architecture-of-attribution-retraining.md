@@ -69,8 +69,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Two-Stage Architecture Overview**
+> *Follow the stages from left to right.*
+>
+> ```mermaid
+> graph TD
+>   A[Induction Stage]
+>   B[Consolidation Stage]
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Process Flow of Attribution Retraining**
+> *Trace the flow from identifying maladaptive patterns to reinforcing new attributions.*
+>
+> ```mermaid
+> flowchart LR
+>   I[Identify Maladaptive Patterns]
+>   II[Introduce Alternative Attributions]
+>   III[Reinforce New Attributions Through Practice]
+>   IV[Embed into Habitual Thought Processes]
+>   I --> II
+>   II --> III
+>   III --> IV
+> ```
+
+
+> [!abstract] **Diagram 3 — System Engagement in Stages**
+> *Notice the shift from System 2 to System 1 thinking.*
+>
+> ```mermaid
+> graph TD
+>   A[Induction Stage]
+>   B[Consolidation Stage]
+>   A -->|System 2 Thinking| C[System 2]
+>   B -->|System 1 Automaticity| D[System 1]
+> ```
 
 # Two-Stage Architecture of Attribution Retraining
 

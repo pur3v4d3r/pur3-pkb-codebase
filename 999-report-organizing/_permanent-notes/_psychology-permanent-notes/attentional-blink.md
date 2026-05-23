@@ -65,8 +65,35 @@ provenance:
   enhancement-model: qwen3:30b
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-04-27'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attentional Blink Process Flow**
+> *Follow the sequence from sensory processing to working memory consolidation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Sensory Processing] --> B[Rapid Attention Capture]
+>   B --> C[Consolidation into Working Memory]
+>   C --> D[Temporary Bottleneck in Reporting]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attentional Blink Time Window**
+> *Identify the critical time window where T2 is often missed.*
+>
+> ```mermaid
+> graph TD
+>   A[First Target Detected] --> B(200-500 ms)
+>   B --> C[Second Target Missed]
+>   D[Outside Time Window] --> E[Second Target Detected]
+> ```
 
 # Attentional Blink
 

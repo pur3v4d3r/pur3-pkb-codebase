@@ -67,8 +67,51 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Comprehension Monitoring Process Flow**
+> *Follow the flow from reading to comprehension breakdown detection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Reading] --> B[Evaluation]
+>   B -->|Discrepancy Detected| C[Breakdown]
+>   C --> D[Fix-Up Strategies]
+>   D --> E[Restored Comprehension]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comprehension Monitoring Standards Hierarchy**
+> *Trace the hierarchy from lexical to structural coherence criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Lexical Coherence] --> B[Sentence-Level]
+>   B --> C[Paragraph-Level]
+>   C --> D[Text-Level]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reflective vs Reactive Thinking in Monitoring**
+> *Compare reflective and reactive thinking processes during reading.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Reader as R
+>   participant ReflectiveThinking as RT
+>   participant ReactiveThinking as T
+>   R->>RT: Pause for Critical Assessment
+>   RT-->>R: Adjust Reading Strategy
+>   R->>T: Immediate Adjustment
+>   T-->>R: Continue Reading
+> ```
 
 # Comprehension Monitoring
 

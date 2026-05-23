@@ -68,8 +68,43 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-23'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abstraction Levels Flowchart**
+> *Follow the flow from concrete to abstract concepts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Concrete Examples] --> B[Bridging Instructions]
+>   B --> C(Abstract Principles)
+> ```
+
+
+> [!abstract] **Diagram 2 — Top-Down vs Bottom-Up Processing**
+> *Compare top-down and bottom-up approaches in understanding.*
+>
+> ```mermaid
+> graph TD
+>   A[Higher-Level Concepts] --> B(Lower-Level Details)
+>   C[Specific Observations] --> D(General Principles)
+> ```
+
+
+> [!abstract] **Diagram 3 — Effective Bridging Instructions Flowchart**
+> *Identify key elements in effective bridging instructions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Concrete Examples] --> B(Bridging to Abstract)
+>   B --> C(Abstract Principles)
+> ```
 
 ## Core Explanation
 

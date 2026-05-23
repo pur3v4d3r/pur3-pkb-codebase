@@ -67,8 +67,61 @@ provenance:
   enhancement-model: qwen2.5:14b-instruct-q5_K_M
   enhancement-method: enhance_notes-v1
   last-enhanced: '2026-05-02'
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
 
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Expectancy-Value Interaction**
+> *Follow the flow from Expectancy to Value, then Motivation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Expectancy] --> B(Value)
+>   B --> C(Motivation)
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Value Components**
+> *Identify the four subcomponents of task value.*
+>
+> ```mermaid
+> graph TD
+>   A[Attainment]
+>   B(Intrinsic)
+>   C(Utility)
+>   D(Cost)
+>   A -->|Component| E(TaskValue)
+>   B --> E
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Motivation Mechanism**
+> *Trace the decision-making process from Expectancy to Value and Motivation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Task as T
+>   participant Outcome as O
+>   U->>T: Evaluate Expectancy
+>   T-->>U: Low Expectancy
+>   alt High Expectancy
+>     U->>O: Evaluate Value
+>     O-->>U: Low Value
+>     opt High Value
+>       U->>O: Motivation Present
+>     end
+>   else Low Expectancy
+>     U->>T: No Engagement
+>   end
+> ```
 
 # Expectancy-Value Theory
 
