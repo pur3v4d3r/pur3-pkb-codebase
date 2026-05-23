@@ -1,14 +1,13 @@
 ---
-title: "Redundancy Reduction in Outputs"
+title: Redundancy Reduction in Outputs
 aliases:
-  - "Redundancy Reduction in Outputs"
-  - "repetition suppression in LLMs"
-  - "duplicate content removal"
-  - "output de-duplication"
+  - Redundancy Reduction in Outputs
+  - repetition suppression in LLMs
+  - duplicate content removal
+  - output de-duplication
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - information-theory
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "redundancy-reduction-in-outputs-synthetic-seed-2026-05-22"
+  - redundancy-reduction-in-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Information Density Optimization]]"
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Information Density Optimization]]'
+  - '[[Verbosity Control in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Information Density Optimization]]"
+  - '[[Information Density Optimization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Verbosity Control in Prompts]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Redundancy Reduction Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Identify Redundant Content]
+>   B --> C[Evaluate Novelty of Sentences]
+>   C --> D[Remove Unnecessary Repetition]
+>   D --> E[Output Optimized Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Redundancy Reduction Mechanisms**
+> *See the different methods to reduce redundancy in LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Guidance] --> B[Explicit Instructions]
+>   C[Post-Generation Deduplication] --> D[Analyze Text]
+>   D --> E[Remove Redundant Sentences]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pedagogical vs Unnecessary Repetition**
+> *Compare necessary pedagogical repetition with unnecessary redundancy.*
+>
+> ```mermaid
+> graph TD
+>   A[Necessary Pedagogical] --> B[Reinforces Key Concepts]
+>   C[Unnecessary Redundancy] --> D[Detracts from Quality]
+> ```
 
 # Redundancy Reduction in Outputs
 

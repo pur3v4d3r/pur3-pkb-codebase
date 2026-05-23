@@ -1,14 +1,13 @@
 ---
-title: "Contradiction Detection in Outputs"
+title: Contradiction Detection in Outputs
 aliases:
-  - "Contradiction Detection in Outputs"
-  - "self-consistency checking"
-  - "internal inconsistency detection"
-  - "conflicting-claim identification in LLM text"
+  - Contradiction Detection in Outputs
+  - self-consistency checking
+  - internal inconsistency detection
+  - conflicting-claim identification in LLM text
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,106 @@ subdomains:
   - output-quality
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "contradiction-detection-in-outputs-synthetic-seed-2026-05-22"
+  - contradiction-detection-in-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Logical Entailment Verification]]"
-  - "[[Narrative Consistency Prompting]]"
-  - "[[Non-sequitur Detection in Outputs]]"
+  - '[[Logical Entailment Verification]]'
+  - '[[Narrative Consistency Prompting]]'
+  - '[[Non-sequitur Detection in Outputs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Logical Entailment Verification]]"
-  - "[[Narrative Consistency Prompting]]"
+  - '[[Logical Entailment Verification]]'
+  - '[[Narrative Consistency Prompting]]'
 contrasts-with:
-  - "[[Non-sequitur Detection in Outputs]]"
+  - '[[Non-sequitur Detection in Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Contradiction Types Overview**
+> *Identify the different types of contradictions.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct]
+>   B[Partial]
+>   C[Quantifier]
+>   D[Temporal]
+>   A -->|X is true; X is false|
+>   B -->|X subset Y; Y subset X|
+>   C -->|All X are Y; Some X not Y|
+>   D -->|X before Y; Y before X
+> ```
+
+
+> [!abstract] **Diagram 2 — Contradiction Detection Pipeline**
+> *Understand the two-stage process for contradiction detection.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate]
+>   B[Verify]
+>   A -->|Text Generation|
+>   B -->|Identify Contradictions|
+>   B -->|Flag Incompatible Claims|
+>   B -->|Correct Errors|
+>   A --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — Contradiction Detection Mechanism**
+> *See how contradictions are detected and corrected.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant LLM as L
+>   participant ContradictionDetector as C
+>   U->>L: Generate Text
+>   L-->>U: Output
+>   U->>C: Verify Output
+>   C->>L: Identify Contradictions
+>   L->>C: Flag Incompatible Claims
+>   C->>U: Correct Errors
+> ```
 
 # Contradiction Detection in Outputs
 

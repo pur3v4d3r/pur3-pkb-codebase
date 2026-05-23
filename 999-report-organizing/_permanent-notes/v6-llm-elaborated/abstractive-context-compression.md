@@ -1,14 +1,13 @@
 ---
-title: "Abstractive Context Compression"
+title: Abstractive Context Compression
 aliases:
-  - "Abstractive Context Compression"
-  - "semantic compression of context"
-  - "meaning-preserving context compression"
-  - "abstractive prompt compression"
+  - Abstractive Context Compression
+  - semantic compression of context
+  - meaning-preserving context compression
+  - abstractive prompt compression
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,90 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "abstractive-context-compression-synthetic-seed-2026-05-22"
+  - abstractive-context-compression-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Extractive Summarization]]"
-  - "[[Token-Level Compression]]"
+  - '[[Extractive Summarization]]'
+  - '[[Token-Level Compression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Extractive Summarization]]"
-  - "[[Token-Level Compression]]"
+  - '[[Extractive Summarization]]'
+  - '[[Token-Level Compression]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abstractive Context Compression Process Flow**
+> *Follow the flow from input text to compressed output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[NLP Model]
+>   B --> C[Generate Summary]
+>   C --> D[Compressed Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Abstractive vs Extractive Summarization Comparison**
+> *Compare the methods based on their output characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text]
+>   B[Extractive Summary] -->|Retains Fragments| A
+>   C[Abstractive Summary] -->|Generates New Content| A
+> ```
+
+
+> [!abstract] **Diagram 3 — Token-level vs Semantic Compression Comparison**
+> *Compare the methods based on their compression approach.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Text]
+>   B[Token-level Compression] -->|Removes Tokens| A
+>   C[Semantic Compression] -->|Paraphrases Content| A
+> ```
 
 # Abstractive Context Compression
 

@@ -1,14 +1,13 @@
 ---
-title: "KV Cache Reuse Strategies"
+title: KV Cache Reuse Strategies
 aliases:
-  - "KV Cache Reuse Strategies"
-  - "key-value cache sharing"
-  - "prompt KV caching"
-  - "prefix caching in transformers"
+  - KV Cache Reuse Strategies
+  - key-value cache sharing
+  - prompt KV caching
+  - prefix caching in transformers
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,105 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "kv-cache-reuse-strategies-synthetic-seed-2026-05-22"
+  - kv-cache-reuse-strategies-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Inference Optimization"
-
+parent-concept: Inference Optimization
 related:
-  - "[[Inference Optimization]]"
-  - "[[Transformer Architecture]]"
+  - '[[Inference Optimization]]'
+  - '[[Transformer Architecture]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Inference Optimization]]"
+  - '[[Inference Optimization]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Transformer Architecture]]"
+  - '[[Transformer Architecture]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — KV Cache Reuse Mechanisms**
+> *Identify the different mechanisms of KV cache reuse.*
+>
+> ```mermaid
+> graph TD
+>   A[Prefix Caching]
+>   B[Semantic Caching]
+>   C[Shared Attention Prefixes]
+>   A -->|Exact Matches| D[Reuse Precomputed Cache]
+>   B -->|Similar Prompts| E[Extend Reuse Scope]
+>   C -->|Common Segments| F[Direct Parameter Sharing]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prefix Caching Workflow**
+> *Follow the flow of prefix caching from computation to reuse.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Compute KV Cache]
+>   B[Store in Cache]
+>   C[Identify Shared Prefix]
+>   D[Reuse Cached KV]
+>   A --> B
+>   B -->|Shared Prefix Found?| C
+>   C -->|Yes| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Multi-Tenant Cache Management**
+> *Understand cache isolation and security in multi-tenant deployments.*
+>
+> ```mermaid
+> graph TD
+>   A[Shared Prompt]
+>   B[Tenant1 Cache]
+>   C[Tenant2 Cache]
+>   D[Isolation Policy]
+>   E[Security Checks]
+>   F[Cache Invalidation]
+>   A -->|Tenant1| B
+>   A -->|Tenant2| C
+>   B -->|Isolated| D
+>   C -->|Isolated| D
+>   D -->|Secure Access| E
+>   E -->|Stale Cache?| F
+> ```
 
 # KV Cache Reuse Strategies
 

@@ -1,15 +1,14 @@
 ---
-title: "Win Rate as Evaluation Metric"
+title: Win Rate as Evaluation Metric
 aliases:
-  - "Win Rate as Evaluation Metric"
-  - "Win-Rate as Evaluation Metric"
-  - "pairwise win rate"
-  - "head-to-head win rate"
-  - "preference win rate"
+  - Win Rate as Evaluation Metric
+  - Win-Rate as Evaluation Metric
+  - pairwise win rate
+  - head-to-head win rate
+  - preference win rate
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,79 @@ subdomains:
   - preference-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "win-rate-as-evaluation-metric-synthetic-seed-2026-05-22"
+  - win-rate-as-evaluation-metric-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation Metrics"
-
+parent-concept: LLM Evaluation Metrics
 related:
-  - "[[Pairwise Preference Evaluation]]"
-  - "[[Elo Rating System]]"
+  - '[[Pairwise Preference Evaluation]]'
+  - '[[Elo Rating System]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Pairwise Preference Evaluation]]"
+  - '[[Pairwise Preference Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Elo Rating System]]"
+  - '[[Elo Rating System]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Win Rate Calculation Process**
+> *Follow the flow from pairwise comparisons to final win rate.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pairwise Comparisons] --> B[Evaluation Inputs]
+>   B --> C[Outcomes Determined]
+>   C --> D[Aggregate Outcomes]
+>   D --> E[Win Rate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Evaluation Metrics**
+> *Compare win rate with accuracy and Elo-style rankings.*
+>
+> ```mermaid
+> graph TD
+>   A[Win Rate] -->|Comparative Preference| B[A]
+>   C[Accuracy] -->|Correctness of Predictions| B
+>   D[Elo-Style Rankings] -->|Relative Quality Ordering| B
+> ```
 
 # Win Rate as Evaluation Metric
 

@@ -1,14 +1,13 @@
 ---
-title: "Induction Heads"
+title: Induction Heads
 aliases:
-  - "Induction Heads"
-  - "induction circuit"
-  - "k-v copying heads"
-  - "pattern completion heads"
+  - Induction Heads
+  - induction circuit
+  - k-v copying heads
+  - pattern completion heads
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,99 @@ subdomains:
   - in-context-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "induction-heads-synthetic-seed-2026-05-22"
+  - induction-heads-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Self-Attention Mechanisms]]"
-  - "[[Copy-Suppression Heads]]"
+  - '[[Self-Attention Mechanisms]]'
+  - '[[Copy-Suppression Heads]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Self-Attention Mechanisms]]"
+  - '[[Self-Attention Mechanisms]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Copy-Suppression Heads]]"
+  - '[[Copy-Suppression Heads]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Induction Head Mechanism Overview**
+> *Follow the flow from previous token to induction head.*
+>
+> ```mermaid
+> graph TD
+>   A[Previous Token]
+>   B[Current Token]
+>   C[Follower Tokens]
+>   D[Similar Previous Occurrences]
+>   E[Identified Similarity]
+>   F[Induction Head]
+>   A -->|Attend from token to preceding token|
+>   B -->|Identify similar previous occurrences|
+>   D
+>   D -->|Use identified similarity|
+>   F
+>   F -->|Attend from current token to follower tokens|
+>   C
+> ```
+
+
+> [!abstract] **Diagram 2 — Induction Head vs Self-Attention Mechanisms**
+> *Compare the focus of induction heads and self-attention.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Attention]
+>   B[Induction Heads]
+>   C[All Tokens in Sequence]
+>   D[Tokens Following Previous Occurrences]
+>   E[General Pattern Completion]
+>   F[Specific Pattern Completion]
+>   A -->|Attend to|
+>   C
+>   B -->|Focus on|
+>   D
+>   A -->|Supports|
+>   E
+>   B -->|Enhances|
+>   F
+> ```
 
 # Induction Heads
 

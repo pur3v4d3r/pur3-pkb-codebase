@@ -1,15 +1,14 @@
 ---
-title: "Benchmark Contamination"
+title: Benchmark Contamination
 aliases:
-  - "Benchmark Contamination"
-  - "evaluation contamination"
-  - "test set contamination"
-  - "benchmark leakage"
-  - "data contamination in LLMs"
+  - Benchmark Contamination
+  - evaluation contamination
+  - test set contamination
+  - benchmark leakage
+  - data contamination in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,102 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "benchmark-contamination-synthetic-seed-2026-05-22"
+  - benchmark-contamination-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Train-Test Leakage in LLMs]]"
-  - "[[Dynamic Benchmarking]]"
+  - '[[Train-Test Leakage in LLMs]]'
+  - '[[Dynamic Benchmarking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Train-Test Leakage in LLMs]]"
+  - '[[Train-Test Leakage in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Dynamic Benchmarking]]"
+  - '[[Dynamic Benchmarking]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Benchmark Contamination Mechanisms**
+> *Identify the two primary pathways of contamination.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbatim Memorization]
+>   B[Near-Duplicate Contamination]
+>   A -->|Exact Q&A in Training|
+>   B -->|Paraphrased/Semantic Similarity|
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Benchmark Contamination**
+> *Understand the effects on model performance metrics.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Inflated Performance Metrics]
+>   B[2-10 Percentage Points Inflation]
+>   C[Apparent Ranking Alteration]
+>   D[Misrepresented Improvements]
+>   A -->|Due to Memorization|
+>   B
+>   A -->|Altered Model Rankings|
+>   C
+>   A -->|Misleading Research Progress|
+>   D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Contamination**
+> *See the implications for instructional design and validation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Model Validation]
+>   C[Avoid Inflated Metrics]
+>   D[Rigorous Detection Methods]
+>   A -->|Ensure Distinct Benchmarks|
+>   C
+>   B -->|Detect Verbatim and Near-Duplicate|
+>   D
+> ```
 
 # Benchmark Contamination
 

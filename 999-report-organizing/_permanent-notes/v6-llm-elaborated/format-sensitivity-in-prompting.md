@@ -1,14 +1,13 @@
 ---
-title: "Format Sensitivity in Prompting"
+title: Format Sensitivity in Prompting
 aliases:
-  - "Format Sensitivity in Prompting"
-  - "prompt format effects"
-  - "output format sensitivity"
-  - "template sensitivity"
+  - Format Sensitivity in Prompting
+  - prompt format effects
+  - output format sensitivity
+  - template sensitivity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,103 @@ subdomains:
   - evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "format-sensitivity-in-prompting-synthetic-seed-2026-05-22"
+  - format-sensitivity-in-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Label Sensitivity in Prompting]]"
-  - "[[Surface-Form Competition]]"
+  - '[[Label Sensitivity in Prompting]]'
+  - '[[Surface-Form Competition]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Label Sensitivity in Prompting]]"
+  - '[[Label Sensitivity in Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Surface-Form Competition]]"
+  - '[[Surface-Form Competition]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Format Sensitivity Mechanism**
+> *Follow the flow from input format to output quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Format]
+>   B[Learned Associations]
+>   C[Reasoning Strategy]
+>   D[Output Quality]
+>   A -->|Surface-Form Patterns| B
+>   B -->|Task Type Recognition| C
+>   C -->|Guides Output Formatting| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Format Sensitivity vs Semantic Content Changes**
+> *Compare the impact of format and semantic changes on LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Content]
+>   B[Structural Format]
+>   C[LLM Output]
+>   D[Performance Impact]
+>   A -->|Unchanged| C
+>   B -->|Varies| C
+>   A -->|Changes| D
+>   B -->|Varying Associations| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Format Sensitivity vs Task Complexity**
+> *Differentiate between format sensitivity and task complexity impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Task Complexity]
+>   B[Structural Format]
+>   C[LLM Output]
+>   D[Performance Impact]
+>   A -->|Increases/Decreases| C
+>   B -->|Varies| C
+>   A -->|Affects Difficulty| D
+>   B -->|Influences Formatting| D
+> ```
 
 # Format Sensitivity in Prompting
 

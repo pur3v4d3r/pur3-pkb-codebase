@@ -1,14 +1,13 @@
 ---
-title: "Constitutional AI Data Pipeline"
+title: Constitutional AI Data Pipeline
 aliases:
-  - "Constitutional AI Data Pipeline"
-  - "CAI data pipeline"
-  - "constitutional AI training"
-  - "RLAIF with constitutional principles"
+  - Constitutional AI Data Pipeline
+  - CAI data pipeline
+  - constitutional AI training
+  - RLAIF with constitutional principles
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,96 @@ subdomains:
   - rlhf
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "constitutional-ai-data-pipeline-synthetic-seed-2026-05-22"
+  - constitutional-ai-data-pipeline-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Training Methodologies"
-
+parent-concept: Machine Learning Training Methodologies
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Iterative Preference Learning]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Iterative Preference Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Iterative Preference Learning]]"
+  - '[[Iterative Preference Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Constitutional AI Data Pipeline Overview**
+> *Follow the flow from initial generation to reinforcement learning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Generation] --> B[Critique Against Constitution]
+>   B --> C[Revisions and Pairs Creation]
+>   C --> D[Fine-Tuning with AI-Labeled Data]
+>   D --> E[Preference Model Training]
+>   E --> F[Guided Reinforcement Learning]
+> ```
+
+
+> [!abstract] **Diagram 2 — Constitutional Principles in CAI Pipeline**
+> *Identify how constitutional principles guide each stage of the pipeline.*
+>
+> ```mermaid
+> graph TD
+>   A[Supervised Learning] --> B[Critique Against Constitution]
+>   C[Fine-Tuning with AI-Labeled Data] --> D[Preference Model Training]
+>   E[Guided Reinforcement Learning]
+>   B -->|Constitutional Principles| C
+>   D -->|Constitutional Principles| E
+> ```
+
+
+> [!abstract] **Diagram 3 — CAI vs RLHF Comparison**
+> *Compare the refusal behaviors of CAI-trained models with those trained via RLHF.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CAI as Constitutional AI Pipeline
+>   participant RLHF as Reinforcement Learning from Human Feedback
+>   CAI->>CAI: Generates and Critiques Outputs Against Constitution
+>   CAI-->>RLHF: Improved Refusal Behaviors
+>   RLHF->>RLHF: Relies on Human Preferences for Rewards
+>   RLHF-->>CAI: Less Effective in Handling Ethical Nuances
+> ```
 
 # Constitutional AI Data Pipeline
 

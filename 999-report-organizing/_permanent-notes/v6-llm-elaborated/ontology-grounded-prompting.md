@@ -1,14 +1,13 @@
 ---
-title: "Ontology-Grounded Prompting"
+title: Ontology-Grounded Prompting
 aliases:
-  - "Ontology-Grounded Prompting"
-  - "ontology-anchored prompting"
-  - "knowledge-ontology prompting"
-  - "OWL-grounded prompting"
+  - Ontology-Grounded Prompting
+  - ontology-anchored prompting
+  - knowledge-ontology prompting
+  - OWL-grounded prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,106 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "ontology-grounded-prompting-synthetic-seed-2026-05-22"
+  - ontology-grounded-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Semantic Grounding in LLMs]]"
-  - "[[Structured Output Prompting]]"
-  - "[[Knowledge-Graph-Augmented Generation]]"
-  - "[[Prompt Engineering]]"
+  - '[[Semantic Grounding in LLMs]]'
+  - '[[Structured Output Prompting]]'
+  - '[[Knowledge-Graph-Augmented Generation]]'
+  - '[[Prompt Engineering]]'
 prerequisites:
-  - "[[Semantic Grounding in LLMs]]"
+  - '[[Semantic Grounding in LLMs]]'
 specializes:
-  - "[[Structured Output Prompting]]"
+  - '[[Structured Output Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Knowledge-Graph-Augmented Generation]]"
+  - '[[Knowledge-Graph-Augmented Generation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Ontology-Grounded Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Ontology]
+>   B[Embed in Prompt]
+>   C[LLM Processing]
+>   D[Generate Text]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Few-Shot Learning**
+> *Compare the guiding principles of both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Ontology-Grounded Prompting]
+>   B[Few-Shot Learning]
+>   A -->|Formal Ontologies| C[Structured Guidance]
+>   B -->|Example-Based| D[Open-Ended Generation]
+>   C --> E[Reduced Errors]
+>   D --> F[Possibly More Hallucinations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Ontology Integration in Prompting**
+> *Trace the integration of ontology into prompt and LLM output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Domain-Specific Ontology]
+>   B[Integrate into Prompt]
+>   C[LLM Receives Prompt]
+>   D[Generate Structured Output]
+>   E[Output Adheres to Schema]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
 
 # Ontology-Grounded Prompting
 

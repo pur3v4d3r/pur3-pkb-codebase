@@ -1,14 +1,13 @@
 ---
-title: "Cross-Encoder Reranking"
+title: Cross-Encoder Reranking
 aliases:
-  - "Cross-Encoder Reranking"
-  - "reranking"
-  - "cross-encoder scoring"
-  - "pointwise reranking"
+  - Cross-Encoder Reranking
+  - reranking
+  - cross-encoder scoring
+  - pointwise reranking
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,116 @@ subdomains:
   - retrieval-augmented-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "cross-encoder-reranking-synthetic-seed-2026-05-22"
+  - cross-encoder-reranking-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Bi-Encoders]]"
-  - "[[Dense Retrieval]]"
+  - '[[Bi-Encoders]]'
+  - '[[Dense Retrieval]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Bi-Encoders]]"
+  - '[[Bi-Encoders]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Dense Retrieval]]"
+  - '[[Dense Retrieval]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Encoder Reranking Process Flow**
+> *Follow the flow from initial retrieval to final reranking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Retrieval]
+>   B[Top-k Candidates]
+>   C[Candidate Scoring]
+>   D[Reranked Documents]
+>   A --> B
+>   B -->|Cross-Encoder|
+>   C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Cross-Encoders and Bi-Encoders**
+> *Compare the joint encoding vs separate encoding approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Query]
+>   B[Document]
+>   C[Cross-Encoder]
+>   D[Bi-Encoder]
+>   E[Joint Encoding]
+>   F[Separate Encoding]
+>   G[Precise Relevance]
+>   H[Limited Interaction]
+>   A -->|Joint|
+>   C
+>   B -->|Joint|
+>   C
+>   C --> G
+>   A -->|Separate|
+>   D
+>   B -->|Separate|
+>   D
+>   D --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Cross-Encoder Reranking Workflow**
+> *Trace the workflow from query to final document ranking.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant CrossEncoder as CE
+>   participant Document1 as D1
+>   participant Document2 as D2
+>   participant FinalRanking as FR
+>   Q->>CE: Encode(Query,Document1)
+>   CE-->>FR: Score1
+>   Q->>CE: Encode(Query,Document2)
+>   CE-->>FR: Score2
+>   FR->>Q: RankedDocuments
+> ```
 
 # Cross-Encoder Reranking
 

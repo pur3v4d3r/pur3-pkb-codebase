@@ -1,14 +1,13 @@
 ---
-title: "Logit Lens Technique"
+title: Logit Lens Technique
 aliases:
-  - "Logit Lens Technique"
-  - "logit lens analysis"
-  - "intermediate layer token prediction"
-  - "layer-wise token projection"
+  - Logit Lens Technique
+  - logit lens analysis
+  - intermediate layer token prediction
+  - layer-wise token projection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - transformer-architecture
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "logit-lens-technique-synthetic-seed-2026-05-22"
+  - logit-lens-technique-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Attention Mechanisms]]"
-  - "[[Layer-wise Token Prediction]]"
+  - '[[Attention Mechanisms]]'
+  - '[[Layer-wise Token Prediction]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Attention Mechanisms]]"
+  - '[[Attention Mechanisms]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Layer-wise Token Prediction]]"
+  - '[[Layer-wise Token Prediction]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logit Lens Process Flow**
+> *Follow the flow from input to final prediction refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Layer1]
+>   B --> C[Layer2]
+>   C --> D[Layer3]
+>   D --> E[Final Prediction]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Prediction Evolution**
+> *Track how token predictions evolve through layers.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Guess] --> B[Middle Layer]
+>   B --> C[Late Refinement]
+> ```
+
+
+> [!abstract] **Diagram 3 — Layer Contribution to Prediction**
+> *Identify which layers contribute most to prediction refinement.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Input as I
+>   participant Layer1 as L1
+>   participant Layer2 as L2
+>   participant FinalPrediction as FP
+>   I->>L1: Hidden State
+>   L1->>L2: Refinement
+>   L2-->>FP: Prediction
+> ```
 
 # Logit Lens Technique
 

@@ -1,14 +1,13 @@
 ---
-title: "Slot Filling via Dialogue"
+title: Slot Filling via Dialogue
 aliases:
-  - "Slot Filling via Dialogue"
-  - "dialogue-based slot filling"
-  - "conversational slot elicitation"
-  - "iterative slot completion"
+  - Slot Filling via Dialogue
+  - dialogue-based slot filling
+  - conversational slot elicitation
+  - iterative slot completion
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,81 @@ subdomains:
   - conversational-ai
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "slot-filling-via-dialogue-synthetic-seed-2026-05-22"
+  - slot-filling-via-dialogue-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Dialogue State Tracking]]"
-  - "[[Task-Oriented Dialogue]]"
+  - '[[Dialogue State Tracking]]'
+  - '[[Task-Oriented Dialogue]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Dialogue State Tracking]]"
+  - '[[Dialogue State Tracking]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Task-Oriented Dialogue]]"
+  - '[[Task-Oriented Dialogue]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Slot Filling Process Flow**
+> *Follow the flow from identifying slots to task completion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Identify Unfilled Slots] --> B(Formulate Questions)
+>   B --> C[Interpret User Answers]
+>   C --> D[Extract Information]
+>   D --> E[Confirm Data]
+>   E --> F(Task Execution)
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM vs Template Slot Filling**
+> *Compare the flexibility and error-proneness of LLM-based and template-based approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[LLM-Based] -->|Flexible, Multi-Slot Utterances| B(Advantages)
+>   A -->|Prone to Hallucinations| C(Disadvantages)
+>   D[Template-Based] -->|Less Flexible| E(Advantages)
+>   D -->|Fewer Errors| F(Disadvantages)
+> ```
 
 # Slot Filling via Dialogue
 

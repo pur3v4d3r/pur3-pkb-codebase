@@ -1,14 +1,13 @@
 ---
-title: "Toxic Content Filtering in Pretraining"
+title: Toxic Content Filtering in Pretraining
 aliases:
-  - "Toxic Content Filtering in Pretraining"
-  - "toxicity filtering for LLM training"
-  - "harmful content removal in pretraining"
-  - "pretraining data safety filtering"
+  - Toxic Content Filtering in Pretraining
+  - toxicity filtering for LLM training
+  - harmful content removal in pretraining
+  - pretraining data safety filtering
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,60 +21,107 @@ subdomains:
   - ai-safety
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "toxic-content-filtering-in-pretraining-synthetic-seed-2026-05-22"
+  - toxic-content-filtering-in-pretraining-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Safety"
-
+parent-concept: Machine Learning Safety
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Constitutional AI (CAI)]]"
-  - "[[Instruction Tuning]]"
-  - "[[Content Moderation]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Constitutional AI (CAI)]]'
+  - '[[Instruction Tuning]]'
+  - '[[Content Moderation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Constitutional AI (CAI)]]"
-  - "[[Instruction Tuning]]"
-  - "[[Content Moderation]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Constitutional AI (CAI)]]'
+  - '[[Instruction Tuning]]'
+  - '[[Content Moderation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Toxic Content Filtering Methods Overview**
+> *Identify the different filtering methods used.*
+>
+> ```mermaid
+> graph TD
+>   A[Classifier-based]
+>   B[Word-list]
+>   C[Heuristic Quality]
+>   A -->|Scores documents based on toxicity|
+>   B -->|Removes specific offensive terms|
+>   C -->|Targets low-quality or toxic domains
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Filtering Stringency Levels**
+> *Understand the trade-offs between model capability and safety.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Aggressive]
+>   B[Insufficient]
+>   C[Moderate]
+>   A -->|Reduces harmful outputs but may remove beneficial content|
+>   B -->|Allows toxic patterns to persist|
+>   C -->|Balances between safety and capability
+> ```
+
+
+> [!abstract] **Diagram 3 — Classifier-based Filtering Process Flow**
+> *Follow the steps of classifier-based filtering.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Classifier as C
+>   participant Dataset as D
+>   U->>C: Request toxicity score for document
+>   C-->>U: Return toxicity level
+>   alt Level > Threshold
+>     U->>D: Remove document from corpus
+>   else Level <= Threshold
+>     U->>D: Keep document in corpus
+>   end
+> ```
 
 # Toxic Content Filtering in Pretraining
 

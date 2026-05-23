@@ -1,14 +1,13 @@
 ---
-title: "Cognitive Bias in LLM Outputs"
+title: Cognitive Bias in LLM Outputs
 aliases:
-  - "Cognitive Bias in LLM Outputs"
-  - "LLM biases"
-  - "systematic errors in LLMs"
-  - "cognitive distortions in AI outputs"
+  - Cognitive Bias in LLM Outputs
+  - LLM biases
+  - systematic errors in LLMs
+  - cognitive distortions in AI outputs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,113 @@ subdomains:
   - ai-safety
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "cognitive-bias-in-llm-outputs-synthetic-seed-2026-05-22"
+  - cognitive-bias-in-llm-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Psychology Applied to LLMs"
-
+parent-concept: Cognitive Psychology Applied to LLMs
 related:
-  - "[[Dual-Process Theory Applied to LLMS]]"
-  - "[[Sycophancy in LLMs]]"
+  - '[[Dual-Process Theory Applied to LLMS]]'
+  - '[[Sycophancy in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Dual-Process Theory Applied to LLMS]]"
+  - '[[Dual-Process Theory Applied to LLMS]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Sycophancy in LLMs]]"
+  - '[[Sycophancy in LLMs]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Bias Sources Overview**
+> *Identify the factors contributing to LLM biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Model Architecture]
+>   B[Training Data]
+>   C[Prompt Format]
+>   D[Context]
+>   E[RLHF Alignment]
+>   F[Cognitive Bias in Outputs]
+>   A -->|Influences| F
+>   B -->|Influences| F
+>   C -->|Influences| F
+>   D -->|Influences| F
+>   E -->|Influences| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Bias Manifestation Examples**
+> *See how different biases manifest in LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Anchoring]
+>   B[Availability Bias]
+>   C[Framing Effect]
+>   D[Confirmation Seeking]
+>   E[Social Desirability Distortion]
+>   F[Cognitive Bias in Outputs]
+>   A -->|Example: Over-relying on initial info| F
+>   B -->|Example: Emphasizing memorable events| F
+>   C -->|Example: Sensitivity to how questions are framed| F
+>   D -->|Example: Seeking confirming evidence| F
+>   E -->|Example: Producing biased responses| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Debiasing Strategies Overview**
+> *Explore strategies to mitigate LLM biases.*
+>
+> ```mermaid
+> graph TD
+>   A[Data Augmentation]
+>   B[Prompt Engineering]
+>   C[Model Fine-tuning]
+>   D[Bias Detection Tools]
+>   E[Cognitive Psychology Insights]
+>   F[Mitigating Cognitive Bias in Outputs]
+>   A -->|Approach: Add diverse data| F
+>   B -->|Approach: Design prompts carefully| F
+>   C -->|Approach: Fine-tune on unbiased datasets| F
+>   D -->|Approach: Use tools to detect biases| F
+>   E -->|Approach: Apply debiasing techniques| F
+> ```
 
 # Cognitive Bias in LLM Outputs
 

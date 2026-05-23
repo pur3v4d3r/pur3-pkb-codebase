@@ -1,14 +1,13 @@
 ---
-title: "Philosophical Argument Prompting"
+title: Philosophical Argument Prompting
 aliases:
-  - "Philosophical Argument Prompting"
-  - "philosophical reasoning prompts"
-  - "argument analysis prompting"
-  - "philosophical LLM reasoning"
+  - Philosophical Argument Prompting
+  - philosophical reasoning prompts
+  - argument analysis prompting
+  - philosophical LLM reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,103 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "philosophical-argument-prompting-synthetic-seed-2026-05-22"
+  - philosophical-argument-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Ethical Reasoning Prompting]]"
-  - "[[Logical Entailment Verification]]"
+  - '[[Ethical Reasoning Prompting]]'
+  - '[[Logical Entailment Verification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Ethical Reasoning Prompting]]"
+  - '[[Ethical Reasoning Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Logical Entailment Verification]]"
+  - '[[Logical Entailment Verification]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Philosophical Argument Workflow**
+> *Follow the steps from input to output analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Argument Reconstruction]
+>   C[Validity Assessment]
+>   D[Output Analysis]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Philosophical Argument Tasks**
+> *Identify the tasks involved in Philosophical Argument Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Argument Reconstruction]
+>   B[Validity Assessment]
+>   C[Counterargument Generation]
+>   D[Objection Handling]
+>   A -->|Task|
+>   B -->|Task|
+>   C -->|Task|
+>   D -->|Task|
+> ```
+
+
+> [!abstract] **Diagram 3 — Philosophical Traditions Interaction**
+> *See how different philosophical traditions influence the analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Analytic Philosophy]
+>   B[Continental Philosophy]
+>   C[Rigor Analysis]
+>   D[Nuanced Reasoning]
+>   A -->|Influence|
+>   B -->|Influence|
+>   A --> C
+>   B --> D
+> ```
 
 # Philosophical Argument Prompting
 

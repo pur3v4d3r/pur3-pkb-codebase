@@ -1,14 +1,13 @@
 ---
-title: "Memory Injection in Dialogue"
+title: Memory Injection in Dialogue
 aliases:
-  - "Memory Injection in Dialogue"
-  - "episodic memory injection"
-  - "conversation memory prompting"
-  - "long-term memory in dialogue"
+  - Memory Injection in Dialogue
+  - episodic memory injection
+  - conversation memory prompting
+  - long-term memory in dialogue
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,98 @@ subdomains:
   - memory-augmented-llms
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "memory-injection-in-dialogue-synthetic-seed-2026-05-22"
+  - memory-injection-in-dialogue-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Persona Consistency Across Turns]]"
-  - "[[Conversational Context Compression]]"
+  - '[[Persona Consistency Across Turns]]'
+  - '[[Conversational Context Compression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Persona Consistency Across Turns]]"
+  - '[[Persona Consistency Across Turns]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Conversational Context Compression]]"
+  - '[[Conversational Context Compression]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memory Injection Mechanism Overview**
+> *Follow the flow from input to memory retrieval and response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Context Analysis]
+>   B --> C[Memory Retrieval]
+>   C --> D[Integration into Context]
+>   D --> E[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Types of Memory in Dialogue Systems**
+> *Identify the different types of memory used and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Working Memory] --> B[Episodic Memory]
+>   C[Semantic Memory] --> D[Procedural Memory]
+>   A --> E[Integration Point]
+>   C --> E
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Stateless vs Stateful Conversations**
+> *Compare the flow of stateless and stateful conversations.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant StatelessSystem as S1
+>   participant StatefulSystem as S2
+>   U->>S1: Input
+>   S1-->>U: Response
+>   U->>S2: Input
+>   S2->>M[Memory Store]
+>   M-->>S2: Retrieve Memory
+>   S2-->>U: Personalized Response
+> ```
 
 # Memory Injection in Dialogue
 

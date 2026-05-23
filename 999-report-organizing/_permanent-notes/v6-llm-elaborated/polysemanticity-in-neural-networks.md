@@ -1,14 +1,13 @@
 ---
-title: "Polysemanticity in Neural Networks"
+title: Polysemanticity in Neural Networks
 aliases:
-  - "Polysemanticity in Neural Networks"
-  - "polysemantic neurons"
-  - "multi-feature neurons"
-  - "superposition and polysemanticity"
+  - Polysemanticity in Neural Networks
+  - polysemantic neurons
+  - multi-feature neurons
+  - superposition and polysemanticity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,78 @@ subdomains:
   - neural-networks
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "polysemanticity-in-neural-networks-synthetic-seed-2026-05-22"
+  - polysemanticity-in-neural-networks-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Neural Network Theory"
-
+parent-concept: Neural Network Theory
 related:
-  - "[[Superposition]]"
-  - "[[Distributed Representations]]"
+  - '[[Superposition]]'
+  - '[[Distributed Representations]]'
 prerequisites:
-  - "[[Superposition]]"
-  - "[[Distributed Representations]]"
+  - '[[Superposition]]'
+  - '[[Distributed Representations]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Polysemantic Neuron Response**
+> *Follow the arrows to see how a neuron responds to multiple features.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Feature1] --> B[Neuron]
+>   C[Feature2] --> B
+>   D[Feature3] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Polysemantic vs Monosemantic Neurons**
+> *Compare the neuron types to understand their distinct feature representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Neuron1] -->|FeatureA| B[Network]
+>   C[Neuron2] -->|FeatureB FeatureC| D[Network]
+> ```
 
 # Polysemanticity in Neural Networks
 

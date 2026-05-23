@@ -1,14 +1,13 @@
 ---
-title: "Likert-Scale Prompt Evaluation"
+title: Likert-Scale Prompt Evaluation
 aliases:
-  - "Likert-Scale Prompt Evaluation"
-  - "Likert rating evaluation"
-  - "5-point scale evaluation"
-  - "ordinal scale evaluation"
+  - Likert-Scale Prompt Evaluation
+  - Likert rating evaluation
+  - 5-point scale evaluation
+  - ordinal scale evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,92 @@ subdomains:
   - evaluation-methodology
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "likert-scale-prompt-evaluation-synthetic-seed-2026-05-22"
+  - likert-scale-prompt-evaluation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Rubric-Based Evaluation]]"
-  - "[[Pairwise Preference Evaluation]]"
+  - '[[Rubric-Based Evaluation]]'
+  - '[[Pairwise Preference Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Rubric-Based Evaluation]]"
-  - "[[Pairwise Preference Evaluation]]"
+  - '[[Rubric-Based Evaluation]]'
+  - '[[Pairwise Preference Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Likert-Scale Evaluation Process**
+> *Follow the flow from prompt to final evaluation score.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Evaluator]
+>   B --> C[Ratings Scale]
+>   C --> D[Average Score]
+> ```
+
+
+> [!abstract] **Diagram 2 — Likert-Scale vs Rubric-Based Evaluation**
+> *Compare the simplicity and precision of Likert-scale versus rubrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Likert Scale]
+>   B[Rubric Based]
+>   A -->|Simple Ordinal Scale|
+>   B -->|Detailed Criteria Levels|
+> ```
+
+
+> [!abstract] **Diagram 3 — Likert-Scale vs Pairwise Preference Ratings**
+> *Compare Likert-scale with direct comparison method.*
+>
+> ```mermaid
+> graph TD
+>   A[Likert Scale]
+>   B[Pairwise Preference]
+>   A -->|Absolute Scores|
+>   B -->|Direct Comparisons|
+> ```
 
 # Likert-Scale Prompt Evaluation
 

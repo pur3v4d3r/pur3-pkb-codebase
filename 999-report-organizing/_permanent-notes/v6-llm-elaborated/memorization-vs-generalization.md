@@ -1,15 +1,14 @@
 ---
-title: "Memorization vs Generalization"
+title: Memorization vs Generalization
 aliases:
-  - "Memorization vs Generalization"
-  - "Memorization vs. Generalization"
-  - "training data memorisation in LLMs"
-  - "verbatim memorisation"
-  - "LLM generalisation vs. overfitting"
+  - Memorization vs Generalization
+  - Memorization vs. Generalization
+  - training data memorisation in LLMs
+  - verbatim memorisation
+  - LLM generalisation vs. overfitting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,56 +22,96 @@ subdomains:
   - training-dynamics
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "memorization-vs-generalization-synthetic-seed-2026-05-22"
+  - memorization-vs-generalization-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning"
-
+parent-concept: Machine Learning
 related:
-  - "[[Training Data Influence]]"
-  - "[[Data Contamination Effects]]"
+  - '[[Training Data Influence]]'
+  - '[[Data Contamination Effects]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Training Data Influence]]"
-  - "[[Data Contamination Effects]]"
+  - '[[Training Data Influence]]'
+  - '[[Data Contamination Effects]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Memorization vs Generalization Spectrum**
+> *Follow the spectrum from memorization to generalization.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbatim Memorization] --> B(Robust Generalization)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Training Data Duplication**
+> *Observe how duplication affects memorization rates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Single Occurrence] --> B[Moderate Memorization]
+>   C[Tenfold Duplication] --> D[Huge Memorization]
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#fff,stroke:#333,stroke-width:4px
+>   style C fill:#ff6,stroke:#333,stroke-width:4px
+>   style D fill:#6f6,stroke:#333,stroke-width:4px
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Capacity and Memorization**
+> *See how model size influences memorization of unique patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Model] --> B(Low Memorization)
+>   C[Larger Model] --> D(High Memorization)
+>   style A fill:#f96,stroke:#333,stroke-width:4px
+>   style B fill:#fff,stroke:#333,stroke-width:4px
+>   style C fill:#ff6,stroke:#333,stroke-width:4px
+>   style D fill:#6f6,stroke:#333,stroke-width:4px
+> ```
 
 # Memorization vs Generalization
 

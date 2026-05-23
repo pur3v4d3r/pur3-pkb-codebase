@@ -1,14 +1,13 @@
 ---
-title: "Grouped-Query Attention"
+title: Grouped-Query Attention
 aliases:
-  - "Grouped-Query Attention"
-  - "GQA"
-  - "grouped query attention heads"
-  - "shared key-value heads"
+  - Grouped-Query Attention
+  - GQA
+  - grouped query attention heads
+  - shared key-value heads
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,104 @@ subdomains:
   - inference-optimisation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "grouped-query-attention-synthetic-seed-2026-05-22"
+  - grouped-query-attention-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Multi-Head Attention]]"
-  - "[[Multi-Query Attention]]"
+  - '[[Multi-Head Attention]]'
+  - '[[Multi-Query Attention]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Multi-Head Attention]]"
-  - "[[Multi-Query Attention]]"
+  - '[[Multi-Head Attention]]'
+  - '[[Multi-Query Attention]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — GQA vs MHA Memory Usage**
+> *Compare memory usage between GQA and MHA.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard MHA]
+>   B[Grouped-Query Attention (GQA)]
+>   A -->|High KV-cache growth| C[Memory Intensive]
+>   B -->|Reduced KV-cache growth| D[Efficient Memory Usage]
+> ```
+
+
+> [!abstract] **Diagram 2 — GQA Mechanism Overview**
+> *Understand the partitioning of query heads in GQA.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Total Query Heads]
+>   B1[Group 1]
+>   B2[Group 2]
+>   B3[Group g]
+>   A -->|Partition into g groups| B1
+>   A -->|Partition into g groups| B2
+>   A -->|Partition into g groups| B3
+>   B1 --> C[Share Key-Value Pairs]
+>   B2 --> C
+>   B3 --> C
+> ```
+
+
+> [!abstract] **Diagram 3 — GQA vs MQA Quality Trade-off**
+> *Compare quality and efficiency between GQA, MHA, and MQA.*
+>
+> ```mermaid
+> graph TD
+>   A[Multi-Query Attention (MQA)]
+>   B[Grouped-Query Attention (GQA)]
+>   C[Multi-Head Attention (MHA)]
+>   A -->|High Efficiency| D1[Low Quality]
+>   B -->|Balanced Efficiency-Quality| E
+>   C -->|High Quality| F1[High Memory Usage]
+>   E -->|Moderate Memory Usage|
+>   E -->|Moderate Quality|
+>   E -->|Moderate Efficiency|
+> ```
 
 # Grouped-Query Attention
 

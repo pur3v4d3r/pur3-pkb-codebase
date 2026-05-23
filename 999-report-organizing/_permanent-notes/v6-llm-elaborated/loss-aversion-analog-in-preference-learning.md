@@ -1,14 +1,13 @@
 ---
-title: "Loss Aversion Analog in Preference Learning"
+title: Loss Aversion Analog in Preference Learning
 aliases:
-  - "Loss Aversion Analog in Preference Learning"
-  - "loss-aversion in RLHF"
-  - "asymmetric penalty sensitivity in preference learning"
-  - "negative-outcome overweighting in LLMs"
+  - Loss Aversion Analog in Preference Learning
+  - loss-aversion in RLHF
+  - asymmetric penalty sensitivity in preference learning
+  - negative-outcome overweighting in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - preference-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "loss-aversion-analog-in-preference-learning-synthetic-seed-2026-05-22"
+  - loss-aversion-analog-in-preference-learning-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Preference Learning"
-
+parent-concept: Preference Learning
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Prospect Theory]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Prospect Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prospect Theory]]"
+  - '[[Prospect Theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Loss Aversion Impact on LLM Behavior**
+> *Follow the flow from human rater bias to model behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   HumanRaters["Human Raters"] --> PenaltyAssignment["Assign Higher Penalties"]
+>   PenaltyAssignment --> RewardModelTraining["Train Reward Model"]
+>   RewardModelTraining --> LLMBehavior["Excessively Cautious Behavior"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Loss Aversion in Preference Learning**
+> *Trace the steps from rater bias to model training and behavior.*
+>
+> ```mermaid
+> flowchart LR
+>   RaterBias["Rater Bias (Prospect Theory)"] --> NegativeOutcomePenalties["Higher Penalties for Negative Outcomes"]
+>   NegativeOutcomePenalties --> RewardModelLearning["Reward Model Learns to Avoid Harm"]
+>   RewardModelLearning --> LLMBehavior2["LLM Exhibits Excessive Caution"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact of Loss Aversion in Applications**
+> *Compare instructional design and customer service impacts.*
+>
+> ```mermaid
+> graph TD
+>   InstructionalDesign["Instructional Design"] --> ConservativeTeachingApproach["Too Conservative Teaching"]
+>   CustomerService["Customer Service"] --> AvoidRiskyAdvice["Avoid Risky Advice"]
+> ```
 
 # Loss Aversion Analog in Preference Learning
 

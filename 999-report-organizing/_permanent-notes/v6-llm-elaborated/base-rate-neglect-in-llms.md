@@ -1,14 +1,13 @@
 ---
-title: "Base Rate Neglect in LLMs"
+title: Base Rate Neglect in LLMs
 aliases:
-  - "Base Rate Neglect in LLMs"
-  - "prior probability neglect in LLMs"
-  - "base rate fallacy in AI"
-  - "Bayesian failure in LLMs"
+  - Base Rate Neglect in LLMs
+  - prior probability neglect in LLMs
+  - base rate fallacy in AI
+  - Bayesian failure in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,91 @@ subdomains:
   - probability-reasoning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "base-rate-neglect-in-llms-synthetic-seed-2026-05-22"
+  - base-rate-neglect-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias"
-
+parent-concept: Cognitive Bias
 related:
-  - "[[Representativeness Heuristic in LLMs]]"
-  - "[[Availability Heuristic in LLMs]]"
+  - '[[Representativeness Heuristic in LLMs]]'
+  - '[[Availability Heuristic in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Representativeness Heuristic in LLMs]]"
-  - "[[Availability Heuristic in LLMs]]"
+  - '[[Representativeness Heuristic in LLMs]]'
+  - '[[Availability Heuristic in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Base Rate Neglect Process Flow**
+> *Follow the flow from input to output, noting where base rate information is neglected.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Detailed Case Information] --> B[LLM Processing]
+>   B --> C[Narrative Richness Focus]
+>   C --> D[Ignored Base Rate Info]
+>   D --> E[Skewed Probability Estimate]
+> ```
+
+
+> [!abstract] **Diagram 2 — Base Rate Neglect vs Heuristics Comparison**
+> *Compare the focus of base rate neglect with representativeness and availability heuristics.*
+>
+> ```mermaid
+> graph TD
+>   A[Base Rate Neglect] --> B[Ignoring Statistical Frequencies]
+>   C[Representativeness Heuristic] --> D[Judging Typicality]
+>   E[Availability Heuristic] --> F[Basing on Accessibility]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Base Rate Neglect**
+> *Identify the areas where base rate neglect can lead to significant errors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Medical Diagnosis] --> B[Overdiagnosis]
+>   C[Legal Judgment] --> D[Unjustified Suspicion]
+>   E[Risk Assessment] --> F[Irregular Risk Estimates]
+> ```
 
 # Base Rate Neglect in LLMs
 

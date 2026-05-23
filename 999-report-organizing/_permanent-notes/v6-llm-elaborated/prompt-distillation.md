@@ -1,14 +1,13 @@
 ---
-title: "Prompt Distillation"
+title: Prompt Distillation
 aliases:
-  - "Prompt Distillation"
-  - "prompt knowledge distillation"
-  - "in-context distillation"
-  - "prompt-based knowledge transfer"
+  - Prompt Distillation
+  - prompt knowledge distillation
+  - in-context distillation
+  - prompt-based knowledge transfer
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,91 @@ subdomains:
   - model-compression
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-distillation-synthetic-seed-2026-05-22"
+  - prompt-distillation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Model Knowledge Distillation]]"
-  - "[[Prompt Summarization]]"
+  - '[[Model Knowledge Distillation]]'
+  - '[[Prompt Summarization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Model Knowledge Distillation]]"
-  - "[[Prompt Summarization]]"
+  - '[[Model Knowledge Distillation]]'
+  - '[[Prompt Summarization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Distillation Process Flow**
+> *Follow the flow from initial prompt to final distillation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Ideal Length]
+>   B --> C[Test Output Quality]
+>   C --> D[Iterative Refinement]
+>   D --> E[Automated Compression]
+>   E --> F[Fine-Tuning Models]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Distillation Mechanisms Overview**
+> *Identify the different mechanisms used in prompt distillation.*
+>
+> ```mermaid
+> graph TD
+>   A[Iterative Refinement] --> B(Automated Compression)
+>   A --> C(Fine-Tuning Models)
+>   A --> D(Structural Rewriting)
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Distillation Applications**
+> *See the applications of prompt distillation in different contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Cognitive Load Reduction)
+>   C[High-Volume Production] --> D(Token Cost Savings)
+> ```
 
 # Prompt Distillation
 

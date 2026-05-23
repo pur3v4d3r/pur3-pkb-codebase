@@ -1,14 +1,13 @@
 ---
-title: "Sparse Attention Patterns"
+title: Sparse Attention Patterns
 aliases:
-  - "Sparse Attention Patterns"
-  - "sparse self-attention"
-  - "structured sparse attention"
-  - "approximate attention"
+  - Sparse Attention Patterns
+  - sparse self-attention
+  - structured sparse attention
+  - approximate attention
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,98 @@ subdomains:
   - sequence-modelling
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "sparse-attention-patterns-synthetic-seed-2026-05-22"
+  - sparse-attention-patterns-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Sliding Window Attention]]"
-  - "[[Flash Attention Algorithm]]"
+  - '[[Sliding Window Attention]]'
+  - '[[Flash Attention Algorithm]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Sliding Window Attention]]"
-  - "[[Flash Attention Algorithm]]"
+  - '[[Sliding Window Attention]]'
+  - '[[Flash Attention Algorithm]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sparse Attention Mechanisms Overview**
+> *Identify the different types of sparse attention patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Windows]
+>   B(Global Tokens)
+>   C(Approximate Sparse)
+>   A -->|Example: Nearest Neighbors| D[Focused Interactions]
+>   B -->|Example: Fixed Set| E[Selective Attention]
+>   C -->|Example: LSH| F[Saliency Focus]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sparse vs Full Attention Complexity**
+> *Compare the computational complexity of sparse and full attention.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Attention]
+>   B[Sparse Attention]
+>   A -->|O(n^2)| G[Quadratic Complexity]
+>   B -->|Sub-quadratic| H[Reduced Complexity]
+> ```
+
+
+> [!abstract] **Diagram 3 — Sparse Attention Workflow**
+> *Follow the workflow of a sparse attention mechanism.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant Key as K
+>   participant Value as V
+>   participant Output as O
+>   Q->>K: Compute Similarities
+>   Q->>V: Retrieve Values
+>   O-->>Q: Aggregate Outputs
+> ```
 
 # Sparse Attention Patterns
 

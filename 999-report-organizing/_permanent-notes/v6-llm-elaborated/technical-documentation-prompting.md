@@ -1,14 +1,13 @@
 ---
-title: "Technical Documentation Prompting"
+title: Technical Documentation Prompting
 aliases:
-  - "Technical Documentation Prompting"
-  - "software docs generation prompting"
-  - "API documentation prompts"
-  - "technical writing AI"
+  - Technical Documentation Prompting
+  - software docs generation prompting
+  - API documentation prompts
+  - technical writing AI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,124 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "technical-documentation-prompting-synthetic-seed-2026-05-22"
+  - technical-documentation-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Code Generation Prompting]]"
-  - "[[Information Density Optimization]]"
+  - '[[Code Generation Prompting]]'
+  - '[[Information Density Optimization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Code Generation Prompting]]"
+  - '[[Code Generation Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Information Density Optimization]]"
+  - '[[Information Density Optimization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Technical Documentation Workflow**
+> *Follow the flow from prompt crafting to documentation generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Craft Prompt]
+>   B[Embed Code/API]
+>   C[Generate Doc]
+>   D[Review Accuracy]
+>   E[Audit Accessibility]
+>   F[Finalize Document]
+>   A --> B
+>   B --> C
+>   C -->|Inaccurate?| A
+>   C -->|Accurate| D
+>   D -->|Not Accessible?| B
+>   D -->|Accessible| E
+>   E -->|Unsatisfactory Accessibility| B
+>   E -->|Satisfactory Accessibility| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Documentation Quality Factors**
+> *Identify the balance between accuracy and accessibility in documentation.*
+>
+> ```mermaid
+> graph TD
+>   A[Accuracy]
+>   B[Audience Needs]
+>   C[Accessibility]
+>   D[Code Context]
+>   E[Prompt Crafting]
+>   F[Model Output]
+>   G[Review Process]
+>   H[Final Document]
+>   A -->|Balanced| C
+>   B -->|Balanced| C
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Engineering Strategies**
+> *Understand the strategies for embedding code and API signatures in prompts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant PromptEngineer as PE
+>   participant LLM as M
+>   U->>PE: Request Documentation
+>   PE->>M: Craft Prompt with Code/API
+>   M-->>PE: Generate Document Draft
+>   PE->>U: Review for Accuracy and Accessibility
+>   alt Inaccurate or Unaccessible
+>     PE->>M: Refine Prompt
+>     loop Until Satisfactory
+>       M-->>PE: Generate New Draft
+>       PE->>U: Review Again
+>     end
+>   else Accurate and Accessible
+>     U-->>U: Finalize Document
+>   end
+> ```
 
 # Technical Documentation Prompting
 

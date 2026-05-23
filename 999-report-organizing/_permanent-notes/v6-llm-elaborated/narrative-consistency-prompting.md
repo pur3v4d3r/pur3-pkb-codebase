@@ -1,14 +1,13 @@
 ---
-title: "Narrative Consistency Prompting"
+title: Narrative Consistency Prompting
 aliases:
-  - "Narrative Consistency Prompting"
-  - "story consistency in LLMs"
-  - "character and plot coherence prompting"
-  - "narrative continuity control"
+  - Narrative Consistency Prompting
+  - story consistency in LLMs
+  - character and plot coherence prompting
+  - narrative continuity control
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,117 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "narrative-consistency-prompting-synthetic-seed-2026-05-22"
+  - narrative-consistency-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Stance Consistency Across Output]]"
-  - "[[Contradiction Detection in Outputs]]"
+  - '[[Stance Consistency Across Output]]'
+  - '[[Contradiction Detection in Outputs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Stance Consistency Across Output]]"
+  - '[[Stance Consistency Across Output]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Contradiction Detection in Outputs]]"
+  - '[[Contradiction Detection in Outputs]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Narrative Consistency Mechanism**
+> *Follow the flow from database to context window.*
+>
+> ```mermaid
+> graph TD
+>   A[Character Sheets]
+>   B[World-State Dictionaries]
+>   C[Event Timelines]
+>   D[Consistency Database]
+>   E[Context Window]
+>   F[Narrative Generation]
+>   A -->|Attributes and Motivations| D
+>   B -->|Narrative Environment| D
+>   C -->|Causal Continuity| D
+>   D -->|Refreshed Data| E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Narrative Consistency Challenges**
+> *Identify the main challenges in maintaining consistency.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Dynamic Narrative]
+>   B[New Information Interaction]
+>   C[Mitigate Primacy-Recency Effect]
+>   D[In-Context Attention Limitations]
+>   E[Narrative Facts Underweighted]
+>   F[Effective Context Window Size]
+>   A -->|Continuous Updates| B
+>   B -->|Complex Interactions| C
+>   C -->|Regular Refreshes| D
+>   D -->|Limited In-Context Attention| E
+>   E -->|Exceeds Effective Window| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Narrative Consistency Applications**
+> *See the applications in instructional design and creative writing.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Creative Writing Tools]
+>   C[Narrative Consistency Prompting]
+>   D[Believable Characters]
+>   E[Engaging Scenarios]
+>   F[Narrative Quality]
+>   G[Reader Engagement]
+>   H[Consistent Stories]
+>   A -->|Ensures Believability| C
+>   B -->|Maintains Coherence| C
+>   C --> D
+>   C --> E
+>   C --> F
+>   C --> G
+>   C --> H
+> ```
 
 # Narrative Consistency Prompting
 

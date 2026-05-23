@@ -1,14 +1,13 @@
 ---
-title: "Scientific Hypothesis Generation"
+title: Scientific Hypothesis Generation
 aliases:
-  - "Scientific Hypothesis Generation"
-  - "research hypothesis generation"
-  - "scientific abduction prompting"
-  - "scientific ideation prompts"
+  - Scientific Hypothesis Generation
+  - research hypothesis generation
+  - scientific abduction prompting
+  - scientific ideation prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,79 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "scientific-hypothesis-generation-synthetic-seed-2026-05-22"
+  - scientific-hypothesis-generation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Domain-Adaptive Pretraining]]"
-  - "[[Claim Strength Calibration]]"
+  - '[[Domain-Adaptive Pretraining]]'
+  - '[[Claim Strength Calibration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Domain-Adaptive Pretraining]]"
+  - '[[Domain-Adaptive Pretraining]]'
 refines:
-  - "[[Claim Strength Calibration]]"
+  - '[[Claim Strength Calibration]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Hypothesis Generation Process**
+> *Follow the flow from prompt to hypothesis generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Background Info] --> B[Prompt Crafting]
+>   B --> C[Hypothesis Generation]
+>   C --> D[Systematic Check]
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM vs Human Expert Hypotheses**
+> *Compare the approaches of LLMs and human experts.*
+>
+> ```mermaid
+> graph TD
+>   A[LLMs] --> B[Broad Training Data]
+>   C[Human Experts] --> D[Narrow Domain Expertise]
+>   B --> E(Cross-Domain Hypotheses)
+>   D --> F(Specialized Hypotheses)
+> ```
 
 # Scientific Hypothesis Generation
 

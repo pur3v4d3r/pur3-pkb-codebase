@@ -1,14 +1,13 @@
 ---
-title: "LLM Evaluator Bias"
+title: LLM Evaluator Bias
 aliases:
-  - "LLM Evaluator Bias"
-  - "judge model bias"
-  - "LLM-as-judge bias"
-  - "automatic evaluator bias"
+  - LLM Evaluator Bias
+  - judge model bias
+  - LLM-as-judge bias
+  - automatic evaluator bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,109 @@ subdomains:
   - bias-in-ai
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "llm-evaluator-bias-synthetic-seed-2026-05-22"
+  - llm-evaluator-bias-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Pairwise Preference Evaluation]]"
-  - "[[Human-vs-LLM Evaluation Agreement]]"
-  - "[[Evaluation Prompt Design]]"
+  - '[[Pairwise Preference Evaluation]]'
+  - '[[Human-vs-LLM Evaluation Agreement]]'
+  - '[[Evaluation Prompt Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Pairwise Preference Evaluation]]"
+  - '[[Pairwise Preference Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Human-vs-LLM Evaluation Agreement]]"
+  - '[[Human-vs-LLM Evaluation Agreement]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Evaluation Prompt Design]]"
+  - '[[Evaluation Prompt Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Evaluator Bias Types**
+> *Identify different types of biases and their effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Positional Bias]
+>   B[Verbosity Bias]
+>   C[Self-Enhancement Bias]
+>   D[Sycophancy-Induced Bias]
+>   A -->|Inflates win rates by 5-15%|
+>   B -->|Length over quality|
+>   C -->|Favors familiar models|
+>   D -->|Confirms expressed views
+> ```
+
+
+> [!abstract] **Diagram 2 — Bias Mitigation Strategies**
+> *Understand strategies to mitigate each bias type.*
+>
+> ```mermaid
+> graph TD
+>   A[Positional Bias]
+>   B[Verbosity Bias]
+>   C[Self-Enhancement Bias]
+>   D[Sycophancy-Induced Bias]
+>   A -->|Randomize positions|
+>   B -->|De-biasing instructions|
+>   C -->|Emphasize de-biasing|
+>   D -->|Randomized output positions
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation Process Flow**
+> *Follow the flow of an evaluation process with biases.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Outputs]
+>   B[Positional Bias]
+>   C[Verbosity Bias]
+>   D[Self-Enhancement Bias]
+>   E[Sycophancy-Induced Bias]
+>   F[Evaluation Scores]
+>   A -->|Presented|
+>   B -->|Inflates win rates|
+>   C -->|Length over quality|
+>   D -->|Favors familiar models|
+>   E -->|Confirms expressed views|
+>   F
+> ```
 
 # LLM Evaluator Bias
 

@@ -1,14 +1,13 @@
 ---
-title: "Hybrid Retrieval Patterns"
+title: Hybrid Retrieval Patterns
 aliases:
-  - "Hybrid Retrieval Patterns"
-  - "hybrid search"
-  - "combined retrieval"
-  - "sparse-dense retrieval fusion"
+  - Hybrid Retrieval Patterns
+  - hybrid search
+  - combined retrieval
+  - sparse-dense retrieval fusion
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,59 +20,101 @@ subdomains:
   - search-systems
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "hybrid-retrieval-patterns-synthetic-seed-2026-05-22"
+  - hybrid-retrieval-patterns-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Dense Retrieval]]"
-  - "[[Sparse Retrieval]]"
-  - "[[Reciprocal Rank Fusion]]"
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Dense Retrieval]]'
+  - '[[Sparse Retrieval]]'
+  - '[[Reciprocal Rank Fusion]]'
+  - '[[Cross-Encoder Reranking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Dense Retrieval]]"
-  - "[[Sparse Retrieval]]"
+  - '[[Dense Retrieval]]'
+  - '[[Sparse Retrieval]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reciprocal Rank Fusion]]"
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Reciprocal Rank Fusion]]'
+  - '[[Cross-Encoder Reranking]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hybrid Retrieval Process Flow**
+> *Follow the query through dense and sparse retrieval systems.*
+>
+> ```mermaid
+> flowchart LR
+>   Query["User Query"] -->|Dense Embedding| DenseIndex[Dense Index]
+>   Query -->|Sparse Term-Matching| SparseIndex[Sparse Inverted Index]
+>   DenseIndex -->|Candidate Docs| RankFusion[Rank Fusion]
+>   SparseIndex -->|Candidate Docs| RankFusion
+>   RankFusion --> FinalDocs[Final Document Set]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hybrid Retrieval Techniques Comparison**
+> *Compare dense and sparse retrieval strengths.*
+>
+> ```mermaid
+> graph TD
+>   DenseEmbedding[Dense Embedding]
+>   SparseTermMatching[Sparse Term-Matching]
+>   DenseEmbedding -->|Strengths| SemanticUnderstanding[Semantic Understanding]
+>   DenseEmbedding -->|Weaknesses| LexicalPrecision[Lexical Precision]
+>   SparseTermMatching -->|Strengths| LexicalPrecision
+>   SparseTermMatching -->|Weaknesses| SemanticUnderstanding
+> ```
+
+
+> [!abstract] **Diagram 3 — Hybrid Retrieval Workflow Overview**
+> *Trace the workflow from query to final document set.*
+>
+> ```mermaid
+> flowchart LR
+>   Query["User Query"] --> DenseIndex[Dense Index]
+>   Query --> SparseIndex[Sparse Inverted Index]
+>   DenseIndex -->|Candidate Docs| RankFusion[Rank Fusion]
+>   SparseIndex -->|Candidate Docs| RankFusion
+>   RankFusion --> FinalDocs[Final Document Set]
+>   FinalDocs --> Response[Response to User]
+> ```
 
 # Hybrid Retrieval Patterns
 

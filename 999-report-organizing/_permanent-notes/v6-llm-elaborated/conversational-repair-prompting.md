@@ -1,14 +1,13 @@
 ---
-title: "Conversational Repair Prompting"
+title: Conversational Repair Prompting
 aliases:
-  - "Conversational Repair Prompting"
-  - "dialogue repair"
-  - "misunderstanding correction prompting"
-  - "conversational correction strategy"
+  - Conversational Repair Prompting
+  - dialogue repair
+  - misunderstanding correction prompting
+  - conversational correction strategy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,95 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "conversational-repair-prompting-synthetic-seed-2026-05-22"
+  - conversational-repair-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Clarification Request Generation]]"
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Clarification Request Generation]]'
+  - '[[Dialogue Grounding Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Clarification Request Generation]]"
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Clarification Request Generation]]'
+  - '[[Dialogue Grounding Prompts]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conversational Repair Flowchart**
+> *Follow the flow from detection to correction.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Monitor for Negative Feedback] --> B[Acknowledge Mistake]
+>   B --> C[Generate Corrected Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Conversational Repair Mechanism**
+> *Identify the stages of repair mechanism.*
+>
+> ```mermaid
+> graph TD
+>   A[Monitor] --> B[Acknowledge]
+>   B --> C[Generate]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conversational Repair vs Dialogue Management**
+> *Compare the focus of repair and general dialogue management.*
+>
+> ```mermaid
+> classDiagram
+>   class ConversationalRepair{
+>     - MonitorForNegativeFeedback()
+>     - AcknowledgeMistake()
+>     - GenerateCorrectedResponse()
+>   }
+>   class GeneralDialogueManagement{
+>     + GuideConversationFlow()
+>     + SetContext()
+>     + NavigateTopics()
+>   }
+> ```
 
 # Conversational Repair Prompting
 

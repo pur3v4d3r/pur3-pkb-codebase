@@ -1,14 +1,13 @@
 ---
-title: "Dunning-Kruger Analog in LLMs"
+title: Dunning-Kruger Analog in LLMs
 aliases:
-  - "Dunning-Kruger Analog in LLMs"
-  - "overconfidence-competence mismatch in LLMs"
-  - "metacognitive miscalibration in AI"
-  - "illusory competence in LLMs"
+  - Dunning-Kruger Analog in LLMs
+  - overconfidence-competence mismatch in LLMs
+  - metacognitive miscalibration in AI
+  - illusory competence in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,99 @@ subdomains:
   - ai-safety
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dunning-kruger-analog-in-llms-synthetic-seed-2026-05-22"
+  - dunning-kruger-analog-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in AI"
-
+parent-concept: Cognitive Bias in AI
 related:
-  - "[[Dunning-Kruger Effect]]"
-  - "[[LLM Hallucination]]"
+  - '[[Dunning-Kruger Effect]]'
+  - '[[LLM Hallucination]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Dunning-Kruger Effect]]"
+  - '[[Dunning-Kruger Effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM Hallucination]]"
+  - '[[LLM Hallucination]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Confidence vs Competence**
+> *Identify the mismatch between expressed confidence and actual competence.*
+>
+> ```mermaid
+> graph TD
+>   A[Confidence]
+>   B[Competence]
+>   A -->|Mismatch in Sparse Data Areas| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Data Density Impact on LLMs**
+> *Understand how sparse training data leads to overconfidence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High Data Density]
+>   B[Low Data Density]
+>   C[Overconfident Output]
+>   D[Awareness of Limits]
+>   A -->|Robust Knowledge Boundaries| D
+>   B -->|Inaccurate Assertions| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Human vs LLM Metacognition**
+> *Compare human metacognitive errors with model data limitations.*
+>
+> ```mermaid
+> graph TD
+>   A[Humans]
+>   B[LLMs]
+>   C[Lack of Self-Awareness]
+>   D[Sparse Training Data]
+>   E[Overconfidence]
+>   F[Inaccurate Assertions]
+>   A -->|Cognitive Bias| C
+>   B -->|Data Limitations| D
+>   C -->|Overestimation| E
+>   D -->|Hallucinations| F
+> ```
 
 # Dunning-Kruger Analog in LLMs
 

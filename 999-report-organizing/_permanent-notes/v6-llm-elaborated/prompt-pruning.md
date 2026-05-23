@@ -1,14 +1,13 @@
 ---
-title: "Prompt Pruning"
+title: Prompt Pruning
 aliases:
-  - "Prompt Pruning"
-  - "prompt content selection"
-  - "prompt element removal"
-  - "unnecessary context elimination"
+  - Prompt Pruning
+  - prompt content selection
+  - prompt element removal
+  - unnecessary context elimination
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - information-retrieval
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-pruning-synthetic-seed-2026-05-22"
+  - prompt-pruning-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Token-Efficient Prompting]]"
-  - "[[Prompt Distillation]]"
+  - '[[Token-Efficient Prompting]]'
+  - '[[Prompt Distillation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Token-Efficient Prompting]]"
+  - '[[Token-Efficient Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Distillation]]"
+  - '[[Prompt Distillation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Pruning Process Flow**
+> *Follow the steps from initial prompt to optimized output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Evaluation]
+>   B --> C[Test Removal]
+>   C --> D[Impact Assessment]
+>   D --> E[Iterate or Finalize]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Pruning vs Distillation Comparison**
+> *Compare the approaches of pruning and distillation.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Pruning] -->|Remove Unnecessary Elements| B[Reduce Token Count]
+>   C[Prompt Distillation] -->|Rephrase & Restructure Content| D[Reduce Token Count]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Segmentation for Evaluation**
+> *Identify segments and assess their relevance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Segment1] --> B[Evaluate]
+>   C[Segment2] --> D[Evaluate]
+>   E[Segment3] --> F[Evaluate]
+> ```
 
 # Prompt Pruning
 

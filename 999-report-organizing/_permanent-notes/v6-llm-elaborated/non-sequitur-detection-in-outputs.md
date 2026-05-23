@@ -1,14 +1,13 @@
 ---
-title: "Non-Sequitur Detection in Outputs"
+title: Non-Sequitur Detection in Outputs
 aliases:
-  - "Non-Sequitur Detection in Outputs"
-  - "relevance failure detection"
-  - "topical drift detection in LLMs"
-  - "incoherent transition detection"
+  - Non-Sequitur Detection in Outputs
+  - relevance failure detection
+  - topical drift detection in LLMs
+  - incoherent transition detection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,95 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "non-sequitur-detection-in-outputs-synthetic-seed-2026-05-22"
+  - non-sequitur-detection-in-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Contradiction Detection in Outputs]]"
-  - "[[Logical Entailment Verification]]"
+  - '[[Contradiction Detection in Outputs]]'
+  - '[[Logical Entailment Verification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Contradiction Detection in Outputs]]"
+  - '[[Contradiction Detection in Outputs]]'
 contrasts-with:
-  - "[[Logical Entailment Verification]]"
+  - '[[Logical Entailment Verification]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logical Flow Analysis**
+> *Follow the arrows to see how non-sequiturs disrupt logical flow.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Context]
+>   B --> C[Coherent Sentence]
+>   C --> D[Non-Sequitur]
+>   D --> E[Disruption]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Failure Mechanism**
+> *Identify how attention shifts lead to non-sequiturs.*
+>
+> ```mermaid
+> graph TD
+>   A[Context]
+>   B[Thematic Focus]
+>   C[Semantic Proximity]
+>   D[Non-Sequitur]
+>   A -->|Shifts Attention| B
+>   B -->|Ignores Thematic Relevance| C
+>   C -->|Introduces Non-Relevant Content| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Coherence Drift in Long-Form Generation**
+> *Track how coherence deteriorates over long text generation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Context
+>   Context --> Coherent: Maintains Thematic Focus
+>   Coherent --> Divergent: Accumulated Context Dilutes Original Constraints
+>   Divergent --> Non-Sequitur: Logical Disconnects Emerge
+> ```
 
 # Non-Sequitur Detection in Outputs
 

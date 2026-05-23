@@ -1,14 +1,13 @@
 ---
-title: "In-Context Learning as Meta-Learning"
+title: In-Context Learning as Meta-Learning
 aliases:
-  - "In-Context Learning as Meta-Learning"
-  - "ICL as meta-learning"
-  - "few-shot learning as gradient-free meta-learning"
-  - "in-context gradient descent"
+  - In-Context Learning as Meta-Learning
+  - ICL as meta-learning
+  - few-shot learning as gradient-free meta-learning
+  - in-context gradient descent
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "in-context-learning-as-meta-learning-synthetic-seed-2026-05-22"
+  - in-context-learning-as-meta-learning-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Gradient Descent]]"
-  - "[[Meta-Learning]]"
+  - '[[Gradient Descent]]'
+  - '[[Meta-Learning]]'
 prerequisites:
-  - "[[Gradient Descent]]"
+  - '[[Gradient Descent]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Meta-Learning]]"
+  - '[[Meta-Learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — In-context Learning Process Flow**
+> *Follow the flow from demonstrations to task vector construction and output improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Demonstrations] --> B(Task Vector Construction)
+>   B --> C(Performance Improvement)
+>   C --> D(Output)
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Vector Mechanism Overview**
+> *Trace the path of task vectors from residual stream activations to virtual update steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Residual Stream Activations] --> B(Task Vectors)
+>   B --> C(Virtual Update Steps)
+>   C --> D(Performance Improvement)
+> ```
+
+
+> [!abstract] **Diagram 3 — Intrinsic vs Extraneous Load**
+> *Compare intrinsic and extraneous cognitive loads in instructional design for LLMs.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load] --> B(Task Complexity)
+>   C[Extraneous Load] --> D(Poor Design/Presentation)
+>   E[Optimization Goal] -->|Improve Performance| B
+>   E -->|Reduce Unnecessary Effort| D
+> ```
 
 # In-Context Learning as Meta-Learning
 

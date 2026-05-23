@@ -1,14 +1,13 @@
 ---
-title: "Code Review Prompting"
+title: Code Review Prompting
 aliases:
-  - "Code Review Prompting"
-  - "LLM code audit prompting"
-  - "automated code review"
-  - "AI code inspection prompting"
+  - Code Review Prompting
+  - LLM code audit prompting
+  - automated code review
+  - AI code inspection prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - security
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "code-review-prompting-synthetic-seed-2026-05-22"
+  - code-review-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Cybersecurity Analysis Prompting]]"
-  - "[[Code Generation Prompting]]"
+  - '[[Cybersecurity Analysis Prompting]]'
+  - '[[Code Generation Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Cybersecurity Analysis Prompting]]"
+  - '[[Cybersecurity Analysis Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Code Generation Prompting]]"
+  - '[[Code Generation Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Review Workflow Overview**
+> *Follow the flow from initial prompt to final review.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Model Analysis]
+>   B --> C[Automated Feedback]
+>   C --> D[Human Review]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Parameters for Code Reviews**
+> *Identify the key parameters in a code review prompt.*
+>
+> ```mermaid
+> graph TD
+>   A[Scope] --> B[Language]
+>   A --> C[Framework Version]
+>   A --> D[Security Threat Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Adversarial Reasoning in Code Reviews**
+> *Understand the adversarial approach to enhance security.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Standard Review] --> B[Identifies Basic Issues]
+>   C[Adversarial Prompt] --> D[Detects Advanced Threats]
+>   E[Enhanced Security]
+> ```
 
 # Code Review Prompting
 

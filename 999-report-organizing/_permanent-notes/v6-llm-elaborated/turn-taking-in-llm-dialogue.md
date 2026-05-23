@@ -1,14 +1,13 @@
 ---
-title: "Turn-Taking in LLM Dialogue"
+title: Turn-Taking in LLM Dialogue
 aliases:
-  - "Turn-Taking in LLM Dialogue"
-  - "dialogue turn management"
-  - "LLM turn allocation"
-  - "conversational initiative in LLMs"
+  - Turn-Taking in LLM Dialogue
+  - dialogue turn management
+  - LLM turn allocation
+  - conversational initiative in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,101 @@ subdomains:
   - human-computer-interaction
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "turn-taking-in-llm-dialogue-synthetic-seed-2026-05-22"
+  - turn-taking-in-llm-dialogue-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Clarification Request Generation]]"
-  - "[[Follow-Up Question Generation]]"
+  - '[[Clarification Request Generation]]'
+  - '[[Follow-Up Question Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Clarification Request Generation]]"
-  - "[[Follow-Up Question Generation]]"
+  - '[[Clarification Request Generation]]'
+  - '[[Follow-Up Question Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Turn-Taking Process Overview**
+> *Follow the flow from user input to model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Input Recognition]
+>   B --> C[Clarification Needed?]
+>   C -->|Yes| D[Ask Clarifying Questions]
+>   C -->|No| E[Model Response]
+>   D --> F[Receive Clarification]
+>   F --> G[Process Clarified Input]
+>   G --> H[Generate Final Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Context-Sensitive Turn-Taking Strategies**
+> *Compare context-sensitive and rigid strategies in different scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Stakes Task] --> B{Clarification Needed?}
+>   B -->|Yes| C[Ask Clarifying Questions]
+>   B -->|No| D[Provide Full Response]
+>   E[Low-Stakes Interaction] --> F{Clarification Needed?}
+>   F -->|Yes| G[Quickly Provide Response]
+>   F -->|No| H[Provide Detailed Answer]
+> ```
+
+
+> [!abstract] **Diagram 3 — Turn-Taking in Instructional Design**
+> *Identify key points where clarification is beneficial.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instruction Input] --> B[Input Recognition]
+>   B --> C{Clarification Needed?}
+>   C -->|Yes| D[Ask Clarifying Questions]
+>   C -->|No| E[Provide Guidance]
+>   D --> F[Receive Clarification]
+>   F --> G[Process Clarified Instruction]
+>   G --> H[Generate Final Response]
+> ```
 
 # Turn-Taking in LLM Dialogue
 

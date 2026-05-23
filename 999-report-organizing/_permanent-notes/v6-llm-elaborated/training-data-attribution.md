@@ -1,14 +1,13 @@
 ---
-title: "Training Data Attribution"
+title: Training Data Attribution
 aliases:
-  - "Training Data Attribution"
-  - "training example attribution"
-  - "influence attribution for LLMs"
-  - "data source attribution"
+  - Training Data Attribution
+  - training example attribution
+  - influence attribution for LLMs
+  - data source attribution
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - interpretability
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "training-data-attribution-synthetic-seed-2026-05-22"
+  - training-data-attribution-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Interpretability"
-
+parent-concept: Machine Learning Interpretability
 related:
-  - "[[Feature Attribution in LLMs]]"
-  - "[[Influence Functions]]"
+  - '[[Feature Attribution in LLMs]]'
+  - '[[Influence Functions]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Feature Attribution in LLMs]]"
+  - '[[Feature Attribution in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Influence Functions]]"
+  - '[[Influence Functions]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Training Data Attribution Process Flow**
+> *Follow the flow from data to model influence estimation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Collection] --> B[Model Training]
+>   B --> C[Influence Function Computation]
+>   C --> D[Identify Influential Examples]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Influence Functions**
+> *Trace the steps from gradient computation to influence estimation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Gradient Computation] --> B[Hessian Approximation]
+>   B --> C[Influence Estimation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Data Attribution Applications**
+> *Identify the applications and their corresponding benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Debugging Models] -->|Pinpoint Issues| B(Debug)
+>   C[Addressing Biases] -->|Correct Imbalances| D(BiasCorrection)
+>   E[Supporting Copyright Attribution] -->|Legal Compliance| F(Copyright)
+> ```
 
 # Training Data Attribution
 

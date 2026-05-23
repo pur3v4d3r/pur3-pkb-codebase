@@ -1,14 +1,13 @@
 ---
-title: "Instruction-Following Emergence"
+title: Instruction-Following Emergence
 aliases:
-  - "Instruction-Following Emergence"
-  - "instruction following capability"
-  - "general instruction following"
-  - "generalised instruction compliance"
+  - Instruction-Following Emergence
+  - instruction following capability
+  - general instruction following
+  - generalised instruction compliance
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,88 @@ subdomains:
   - generalisation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "instruction-following-emergence-synthetic-seed-2026-05-22"
+  - instruction-following-emergence-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Instruction-Tuning Dataset Diversity]]"
-  - "[[Task-Generalization in LLMs]]"
-  - "[[Zero-Shot Generalization Mechanisms]]"
+  - '[[Instruction-Tuning Dataset Diversity]]'
+  - '[[Task-Generalization in LLMs]]'
+  - '[[Zero-Shot Generalization Mechanisms]]'
 prerequisites:
-  - "[[Instruction-Tuning Dataset Diversity]]"
+  - '[[Instruction-Tuning Dataset Diversity]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Task-Generalization in LLMs]]"
+  - '[[Task-Generalization in LLMs]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Zero-Shot Generalization Mechanisms]]"
+  - '[[Zero-Shot Generalization Mechanisms]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Instruction-Following Emergence Process Flow**
+> *Follow the flow from training to instruction handling.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Dataset] --> B[Model Training]
+>   B --> C[Instruction Handling]
+>   C --> D[Response Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction-Following vs Specific Task Completion**
+> *Compare the scope of instruction-following and task completion.*
+>
+> ```mermaid
+> graph TD
+>   A[Instruction-Following] -->|Generalizes to diverse tasks| B[Semantic Understanding]
+>   C[Specific Task Completion] -->|Executes predefined tasks| D[Ambiguous Instructions Fail]
+> ```
+
+
+> [!abstract] **Diagram 3 — Training Dataset Diversity Impact**
+> *Observe how dataset diversity affects model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Wide Array of Tasks] --> B[Better Semantic Understanding]
+>   C[Narrowly Defined Tasks] --> D[Poor Generalization]
+> ```
 
 # Instruction-Following Emergence
 

@@ -1,14 +1,13 @@
 ---
-title: "Self-Play Data Generation"
+title: Self-Play Data Generation
 aliases:
-  - "Self-Play Data Generation"
-  - "self-play training data"
-  - "adversarial self-improvement"
-  - "LLM self-play for capability"
+  - Self-Play Data Generation
+  - self-play training data
+  - adversarial self-improvement
+  - LLM self-play for capability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,94 @@ subdomains:
   - training-dynamics
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "self-play-data-generation-synthetic-seed-2026-05-22"
+  - self-play-data-generation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Synthetic Data Generation"
-
+parent-concept: Synthetic Data Generation
 related:
-  - "[[Reinforcement Learning]]"
-  - "[[Synthetic Data Generation for Training]]"
+  - '[[Reinforcement Learning]]'
+  - '[[Synthetic Data Generation for Training]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Reinforcement Learning]]"
+  - '[[Reinforcement Learning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Synthetic Data Generation for Training]]"
+  - '[[Synthetic Data Generation for Training]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-Play Process Flowchart**
+> *Follow the iterative process from question generation to training data.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Initial Questions] --> B[Try to Answer]
+>   B -->|Success| C[Use as Training Data]
+>   B -->|Failure| D[Ideate New Challenges]
+>   C --> E[Iterate Model Improvement]
+>   D --> F[Refine Question Generation]
+>   F --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Self-Play vs Human Data Comparison**
+> *Compare self-play and human-generated data in terms of input reliance.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Play] -->|Internal Interaction| B[Continuous Improvement]
+>   C[Human-Generated] -->|External Input| D[Diverse Training Examples]
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Self-Play Data Generation**
+> *Trace the steps from initial generation to model improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Initial Prompts] --> B[Try to Solve]
+>   B -->|Success| C[Use as Training]
+>   B -->|Failure| D[Ideate New Problems]
+>   C --> E[Iterate Model]
+>   D --> F[Refine Prompt Generation]
+>   F --> A
+> ```
 
 # Self-Play Data Generation
 

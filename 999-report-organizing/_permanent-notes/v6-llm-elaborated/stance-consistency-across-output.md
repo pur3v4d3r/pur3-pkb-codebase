@@ -1,14 +1,13 @@
 ---
-title: "Stance Consistency Across Output"
+title: Stance Consistency Across Output
 aliases:
-  - "Stance Consistency Across Output"
-  - "viewpoint consistency in LLMs"
-  - "opinion stability across response sections"
-  - "perspective coherence"
+  - Stance Consistency Across Output
+  - viewpoint consistency in LLMs
+  - opinion stability across response sections
+  - perspective coherence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,114 @@ subdomains:
   - discourse-analysis
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "stance-consistency-across-output-synthetic-seed-2026-05-22"
+  - stance-consistency-across-output-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Discourse Coherence in LLM Outputs]]"
-  - "[[Narrative Consistency Prompting]]"
+  - '[[Discourse Coherence in LLM Outputs]]'
+  - '[[Narrative Consistency Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Discourse Coherence in LLM Outputs]]"
+  - '[[Discourse Coherence in LLM Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Narrative Consistency Prompting]]"
+  - '[[Narrative Consistency Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Stance Consistency Mechanism**
+> *Follow the flow from input to output, noting where stance annotations are used.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Generate Segment]
+>   C[Check Stance]
+>   D[Apply Annotation]
+>   E[Next Segment]
+>   F[Output]
+>   A --> B
+>   B -->|Inconsistent?| C
+>   C -->|Yes| D
+>   C -->|No| E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — Stance Consistency in Legal Documents**
+> *Identify the steps where stance annotations are crucial for maintaining consistency.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Prompt]
+>   B[Generate Section]
+>   C[Check Stance]
+>   D[Apply Annotation]
+>   E[Next Section]
+>   F[Final Output]
+>   A --> B
+>   B -->|Inconsistent?| C
+>   C -->|Yes| D
+>   C -->|No| E
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Stance Consistency vs Multi-Perspective Analysis**
+> *Compare the two approaches to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Stance Inconsistency]
+>   B[Multiperspective Analysis]
+>   C[Explicit Annotations]
+>   D[Intended Shifts]
+>   E[Contextual Understanding]
+>   F[Genuine Contradictions]
+>   A -->|Genuine Contradictions| C
+>   B -->|Intended Shifts| D
+>   A -->|Lack of Context| F
+>   B -->|Requires Discourse-Level Context| E
+> ```
 
 # Stance Consistency Across Output
 

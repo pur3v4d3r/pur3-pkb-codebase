@@ -1,14 +1,13 @@
 ---
-title: "Medical Clinical Prompting"
+title: Medical Clinical Prompting
 aliases:
-  - "Medical Clinical Prompting"
-  - "clinical LLM prompting"
-  - "healthcare AI prompting"
-  - "medical reasoning prompts"
+  - Medical Clinical Prompting
+  - clinical LLM prompting
+  - healthcare AI prompting
+  - medical reasoning prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "medical-clinical-prompting-synthetic-seed-2026-05-22"
+  - medical-clinical-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Ethical Reasoning Prompting]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Ethical Reasoning Prompting]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Ethical Reasoning Prompting]]"
+  - '[[Ethical Reasoning Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Medical Clinical Prompting Process Flow**
+> *Follow the flow from input to output, noting key steps and outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Data] --> B[Clinical Context]
+>   B --> C[Prompt Design]
+>   C --> D[LLM Processing]
+>   D --> E[Safety Mechanisms]
+>   E --> F[Output Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Medical Clinical Prompting Safety Mechanisms**
+> *Identify the safety mechanisms that ensure clinical accuracy and safety.*
+>
+> ```mermaid
+> graph TD
+>   A[Explicit Uncertainty Quantification] --> B[Mandatory Escalation Cues]
+>   B --> C[Out-of-Scope Refusal Patterns]
+> ```
+
+
+> [!abstract] **Diagram 3 — Medical Clinical Prompting Applications**
+> *Trace the applications of Medical Clinical Prompting in different healthcare contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Clinical Decision Support]
+>   B --> C[Patient Communication]
+> ```
 
 # Medical Clinical Prompting
 

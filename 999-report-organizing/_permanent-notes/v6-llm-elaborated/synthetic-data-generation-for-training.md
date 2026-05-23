@@ -1,14 +1,13 @@
 ---
-title: "Synthetic Data Generation for Training"
+title: Synthetic Data Generation for Training
 aliases:
-  - "Synthetic Data Generation for Training"
-  - "LLM-generated training data"
-  - "synthetic pretraining data"
-  - "model-generated training examples"
+  - Synthetic Data Generation for Training
+  - LLM-generated training data
+  - synthetic pretraining data
+  - model-generated training examples
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,87 @@ subdomains:
   - training-dynamics
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "synthetic-data-generation-for-training-synthetic-seed-2026-05-22"
+  - synthetic-data-generation-for-training-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Techniques"
-
+parent-concept: Machine Learning Techniques
 related:
-  - "[[Human Annotation Processes]]"
-  - "[[Data Augmentation Techniques]]"
+  - '[[Human Annotation Processes]]'
+  - '[[Data Augmentation Techniques]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Human Annotation Processes]]"
+  - '[[Human Annotation Processes]]'
 contrasts-with:
-  - "[[Data Augmentation Techniques]]"
+  - '[[Data Augmentation Techniques]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Synthetic Data Generation Process Flow**
+> *Follow the flow from prompting to data generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Seed Instructions] --> B[Prompt LLM]
+>   B --> C[Generate Examples]
+>   C --> D[Labeled Training Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms of Synthetic Data Generation**
+> *Identify the different mechanisms used in synthetic data generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Self-Instruct] --> B[LLM Generates Examples]
+>   C[Bootstrapped Annotation] --> D[Model Labels Unannotated Data]
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Synthetic vs Real-world Training Data**
+> *Compare the characteristics and potential biases of synthetic versus real-world data.*
+>
+> ```mermaid
+> graph TD
+>   A[Synthetic Data] --> B[Introduced Biases]
+>   C[Real-world Data] --> D[Reflects Reality]
+> ```
 
 # Synthetic Data Generation for Training
 

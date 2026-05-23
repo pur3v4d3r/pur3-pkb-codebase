@@ -1,15 +1,14 @@
 ---
-title: "Overconfidence in LLM Outputs"
+title: Overconfidence in LLM Outputs
 aliases:
-  - "Overconfidence in LLM Outputs"
-  - "LLM overconfidence"
-  - "miscalibrated confidence in LLMs"
-  - "hallucination confidence"
-  - "confident hallucination"
+  - Overconfidence in LLM Outputs
+  - LLM overconfidence
+  - miscalibrated confidence in LLMs
+  - hallucination confidence
+  - confident hallucination
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,119 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "overconfidence-in-llm-outputs-synthetic-seed-2026-05-22"
+  - overconfidence-in-llm-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Large Language Models]]"
-  - "[[RLHF Training Paradigm]]"
+  - '[[Large Language Models]]'
+  - '[[RLHF Training Paradigm]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Large Language Models]]"
+  - '[[Large Language Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[RLHF Training Paradigm]]"
+  - '[[RLHF Training Paradigm]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Output Overconfidence Mechanism**
+> *Follow the flow from training to output overconfidence.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Raters]
+>   B[Fluent, Confident Responses]
+>   C[Reward Signal]
+>   D[Model Training]
+>   E[Overconfident Outputs]
+>   A -->|Preference for Certainty| B
+>   B -->|Training Reward|
+>   C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Overconfidence in Applications**
+> *Identify areas where overconfident outputs can cause issues.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Documentation]
+>   C[Overconfident Outputs]
+>   D[Ancient Dates]
+>   E[Numerical Values]
+>   F[Misleading Information]
+>   G[Serious Errors]
+>   C -->|Misinforming Students|
+>   A
+>   C -->|Inaccuracies in Contracts|
+>   B
+>   A -->|Dissemination of Inaccurate Info|
+>   D
+>   B -->|Confident Assertions|
+>   E
+>   D --> F
+>   E --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Overconfidence vs Other Errors**
+> *Distinguish overconfidence from other types of model errors.*
+>
+> ```mermaid
+> graph TD
+>   A[Overconfidence]
+>   B[Factual Inaccuracies]
+>   C[General Bias]
+>   D[Training Data Limitations]
+>   E[Alignment Failure]
+>   F[Knowledge Deficiency]
+>   A -->|Epistemic Overestimation|
+>   E
+>   B -->|Lack of Knowledge|
+>   D
+>   C -->|Model Biases|
+>   F
+> ```
 
 # Overconfidence in LLM Outputs
 

@@ -1,14 +1,13 @@
 ---
-title: "Rotary Position Embedding"
+title: Rotary Position Embedding
 aliases:
-  - "Rotary Position Embedding"
-  - "RoPE"
-  - "rotary positional encoding"
-  - "rotary embeddings"
+  - Rotary Position Embedding
+  - RoPE
+  - rotary positional encoding
+  - rotary embeddings
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,103 @@ subdomains:
   - context-length
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "rotary-position-embedding-synthetic-seed-2026-05-22"
+  - rotary-position-embedding-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Linear Algebra]]"
-  - "[[Alibi Positional Encoding]]"
+  - '[[Linear Algebra]]'
+  - '[[Alibi Positional Encoding]]'
 prerequisites:
-  - "[[Linear Algebra]]"
+  - '[[Linear Algebra]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Alibi Positional Encoding]]"
+  - '[[Alibi Positional Encoding]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RoPE Mechanism Overview**
+> *Follow the flow from query/key rotation to attention computation.*
+>
+> ```mermaid
+> graph TD
+>   A[Query/Key Vectors]
+>   B[Rotational Matrix]
+>   C[Rotated Query/Key Vectors]
+>   D[Attention Computation]
+>   A -->|Absolute Position| B
+>   B -->|Sinusoidal Function| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — RoPE vs Explicit Bias Matrices**
+> *Compare RoPE's intrinsic encoding with explicit bias matrices.*
+>
+> ```mermaid
+> classDiagram
+>   class QueryKey {
+>     -Vector: vector[]
+>     +Rotate(position)
+>   }
+>   class Attention {
+>     +Compute(query, key)
+>   }
+>   class BiasMatrix {
+>     +AddBias(query, key)
+>   }
+>   QueryKey -->|RoPE Rotate| Attention
+>   QueryKey ..> BiasMatrix : Explicit Bias
+> ```
+
+
+> [!abstract] **Diagram 3 — Sequence Length Generalization**
+> *Observe the stability of attention patterns with sequence length.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Training: Sequence Length <= L
+>   Training --> Stable Attention Patterns
+>   Stable Attention Patterns --> Long Sequences: Sequence Length > 2L
+>   Long Sequences --> Unstable Attention Patterns
+> ```
 
 # Rotary Position Embedding
 

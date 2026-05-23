@@ -1,15 +1,14 @@
 ---
-title: "Dynamic Benchmarking"
+title: Dynamic Benchmarking
 aliases:
-  - "Dynamic Benchmarking"
-  - "adaptive benchmarking"
-  - "living benchmarks"
-  - "continuous evaluation"
-  - "anti-contamination evaluation"
+  - Dynamic Benchmarking
+  - adaptive benchmarking
+  - living benchmarks
+  - continuous evaluation
+  - anti-contamination evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,103 @@ subdomains:
   - adversarial-evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dynamic-benchmarking-synthetic-seed-2026-05-22"
+  - dynamic-benchmarking-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Adversarial Benchmark Construction]]"
-  - "[[Benchmark Contamination]]"
-  - "[[Evaluation Prompt Design]]"
+  - '[[Adversarial Benchmark Construction]]'
+  - '[[Benchmark Contamination]]'
+  - '[[Evaluation Prompt Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Adversarial Benchmark Construction]]"
+  - '[[Adversarial Benchmark Construction]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Benchmark Contamination]]"
+  - '[[Benchmark Contamination]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Evaluation Prompt Design]]"
+  - '[[Evaluation Prompt Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dynamic Benchmarking Mechanisms**
+> *Identify the different mechanisms used for generating new evaluation instances.*
+>
+> ```mermaid
+> graph TD
+>   A[Generative Evaluation]
+>   B[Procedurally Generated Benchmarks]
+>   C[Rotating Benchmark Pools]
+>   D[Adversarial Benchmarking]
+>   A -->|Novel Tasks| E[Dynamic Benchmarking]
+>   B -->|Infinite Variations| E
+>   C -->|Fresh Subsets| E
+>   D -->|Target Weaknesses| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Dynamic vs Static Benchmarks**
+> *Compare the key differences between dynamic and static benchmarking approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Static Benchmark]
+>   B[Dynamic Benchmark]
+>   A -->|Fixed Tasks| C[Contamination Risk]
+>   B -->|New Instances| D[Prevent Contamination]
+>   A -->|Outdated Assessments| E[Inaccurate Evaluation]
+>   B -->|Continuous Assessment| F[Avoid Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dynamic Benchmarking Workflow**
+> *Follow the workflow from task generation to model evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Task Generation]
+>   B[Model Evaluation]
+>   C[Result Analysis]
+>   D[Feedback Loop]
+>   A -->|Generative Methods| B
+>   B -->|Performance Metrics| C
+>   C -->|Identify Weaknesses| D
+>   D -->|Improve Tasks| A
+> ```
 
 # Dynamic Benchmarking
 

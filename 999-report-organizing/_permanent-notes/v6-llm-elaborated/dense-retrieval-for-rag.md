@@ -1,15 +1,14 @@
 ---
-title: "Dense Retrieval for RAG"
+title: Dense Retrieval for RAG
 aliases:
-  - "Dense Retrieval for RAG"
-  - "neural retrieval"
-  - "embedding-based retrieval"
-  - "vector retrieval for RAG"
-  - "dense passage retrieval"
+  - Dense Retrieval for RAG
+  - neural retrieval
+  - embedding-based retrieval
+  - vector retrieval for RAG
+  - dense passage retrieval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,96 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dense-retrieval-for-rag-synthetic-seed-2026-05-22"
+  - dense-retrieval-for-rag-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Hybrid Retrieval Patterns]]"
-  - "[[Sparse Retrieval]]"
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Hybrid Retrieval Patterns]]'
+  - '[[Sparse Retrieval]]'
+  - '[[Cross-Encoder Reranking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Hybrid Retrieval Patterns]]"
+  - '[[Hybrid Retrieval Patterns]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Sparse Retrieval]]"
+  - '[[Sparse Retrieval]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Cross-Encoder Reranking]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dense Retrieval Process Flow**
+> *Follow the flow from query to document retrieval.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Neural Encoding]
+>   B --> C[Index Search]
+>   C --> D[Retrieve Documents]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dense Retrieval Mechanism Overview**
+> *Trace the transformation and comparison steps.*
+>
+> ```mermaid
+> graph TD
+>   A[Textual Input] --> B[Neural Encoder]
+>   B --> C[Dense Vector]
+>   D[Index Database] --> E[Search Query]
+>   F[Similarity Comparison] --> G[Retrieved Documents]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dense vs Sparse Retrieval Comparison**
+> *Compare dense and sparse retrieval methods.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Query as Q
+>   participant Dense_Retrieval as DR
+>   participant Sparse_Retrieval as SR
+>   participant Document as D
+>   Q->>DR: Encode Query
+>   DR-->>D: Retrieve Semantically Similar Docs
+>   Q->>SR: Exact Term Match
+>   SR-->>D: Retrieve Lexically Matching Docs
+> ```
 
 # Dense Retrieval for RAG
 

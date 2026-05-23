@@ -1,14 +1,13 @@
 ---
-title: "Rubric-Based LLM Evaluation"
+title: Rubric-Based LLM Evaluation
 aliases:
-  - "Rubric-Based LLM Evaluation"
-  - "criteria-based evaluation"
-  - "structured evaluation rubric"
-  - "rubric-grounded assessment"
+  - Rubric-Based LLM Evaluation
+  - criteria-based evaluation
+  - structured evaluation rubric
+  - rubric-grounded assessment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - evaluation-design
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "rubric-based-llm-evaluation-synthetic-seed-2026-05-22"
+  - rubric-based-llm-evaluation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Holistic Evaluation]]"
-  - "[[Likert Scale Prompt Evaluation]]"
+  - '[[Holistic Evaluation]]'
+  - '[[Likert Scale Prompt Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Holistic Evaluation]]"
+  - '[[Holistic Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Likert Scale Prompt Evaluation]]"
+  - '[[Likert Scale Prompt Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Rubric Evaluation Process Flow**
+> *Follow the steps from input to detailed assessment.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Define Criteria]
+>   B --> C[Evaluate Outputs]
+>   C --> D[Provide Feedback]
+> ```
+
+
+> [!abstract] **Diagram 2 — Rubric vs Holistic Evaluation Comparison**
+> *Compare the breakdown of rubric-based versus holistic evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Rubric-Based] --> B[Specific Dimensions]
+>   C[Holistic] --> D[Overall Score]
+>   B --> E[Nuanced Insights]
+>   D --> F[Subjective Judgments]
+> ```
+
+
+> [!abstract] **Diagram 3 — Rubric Evaluation Criteria Hierarchy**
+> *Identify the hierarchical structure of rubric evaluation criteria.*
+>
+> ```mermaid
+> graph TD
+>   A[Factual Accuracy] --> B[Instruction Compliance]
+>   C[Completeness] --> D[Clarity]
+>   E[Safety]
+> ```
 
 # Rubric-Based LLM Evaluation
 

@@ -1,14 +1,13 @@
 ---
-title: "Context Distillation Training"
+title: Context Distillation Training
 aliases:
-  - "Context Distillation Training"
-  - "soft prompt distillation"
-  - "in-context to parameter distillation"
-  - "implicit context learning"
+  - Context Distillation Training
+  - soft prompt distillation
+  - in-context to parameter distillation
+  - implicit context learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,78 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "context-distillation-training-synthetic-seed-2026-05-22"
+  - context-distillation-training-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Engineering]]"
-  - "[[Knowledge Distillation]]"
+  - '[[Prompt Engineering]]'
+  - '[[Knowledge Distillation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Knowledge Distillation]]"
+  - '[[Knowledge Distillation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Distillation Process Flow**
+> *Follow the flow from teacher model to student model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Context Prompt] --> B[Teacher Model]
+>   B --> C[Output]
+>   C --> D[Student Model Fine-Tuning]
+>   D --> E[Distilled Knowledge]
+> ```
+
+
+> [!abstract] **Diagram 2 — Context Distillation vs Traditional Fine-Tuning**
+> *Compare the two approaches in terms of context usage.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Fine-Tuning] -->|Direct Input-Output Pairs| B[No Context Embedding]
+>   C[Context Distillation Training] -->|Teacher Model Outputs| D[Embed Context Knowledge]
+> ```
 
 # Context Distillation Training
 

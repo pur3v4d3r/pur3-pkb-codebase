@@ -1,14 +1,13 @@
 ---
-title: "Latent Capability Unlocking"
+title: Latent Capability Unlocking
 aliases:
-  - "Latent Capability Unlocking"
-  - "capability unlocking"
-  - "latent skill activation"
-  - "dormant capability activation"
+  - Latent Capability Unlocking
+  - capability unlocking
+  - latent skill activation
+  - dormant capability activation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,106 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "latent-capability-unlocking-synthetic-seed-2026-05-22"
+  - latent-capability-unlocking-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Fine-Tuning]]"
-  - "[[Prompt Engineering]]"
+  - '[[Fine-Tuning]]'
+  - '[[Prompt Engineering]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Fine-Tuning]]"
+  - '[[Fine-Tuning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Latent Capability Activation Process**
+> *Follow the flow from pretraining to unlocking latent capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretraining]
+>   B[Fine-tuning Constraints]
+>   C[Leverage Prompts/LoRA]
+>   D[Unlock Latent Capabilities]
+>   A -->|Imbues Knowledge| B
+>   B -->|Suppressed Capabilities| C
+>   C -->|Specialized Techniques| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Latent Capability Mechanism Overview**
+> *Identify the steps from pretraining to unlocking latent capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretraining]
+>   B[Fine-tuning Constraints]
+>   C[Bypass Safety Filters]
+>   D[Access Pre-existing Knowledge]
+>   E[Output Relevant Responses]
+>   A -->|Imbues Knowledge| B
+>   B -->|Suppressed Capabilities| C
+>   C -->|Bypassing Techniques| D
+>   D -->|Activating Latent Capabilities| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Unlocking**
+> *See how different applications utilize latent capability unlocking.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Medical Reasoning]
+>   C[Leverage Educational Datasets]
+>   D[Fine-tune on Medical Data]
+>   E[Enhance Model Performance]
+>   F[Provide Accurate Advice]
+>   A -->|Tailored Content| C
+>   B -->|Specialized Knowledge| D
+>   C -->|Unlock Capabilities| E
+>   D -->|Unlock Capabilities| F
+> ```
 
 # Latent Capability Unlocking
 

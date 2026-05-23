@@ -1,14 +1,13 @@
 ---
-title: "Cross-Attention in Transformers"
+title: Cross-Attention in Transformers
 aliases:
-  - "Cross-Attention in Transformers"
-  - "encoder-decoder attention"
-  - "cross-modal attention"
-  - "decoder attention over encoder"
+  - Cross-Attention in Transformers
+  - encoder-decoder attention
+  - cross-modal attention
+  - decoder attention over encoder
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,95 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "cross-attention-in-transformers-synthetic-seed-2026-05-22"
+  - cross-attention-in-transformers-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Encoder-Decoder Models]]"
-  - "[[Self-Attention Mechanisms]]"
+  - '[[Encoder-Decoder Models]]'
+  - '[[Self-Attention Mechanisms]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Encoder-Decoder Models]]"
+  - '[[Encoder-Decoder Models]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Self-Attention Mechanisms]]"
+  - '[[Self-Attention Mechanisms]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Attention Flowchart**
+> *Follow the flow from Decoder Query to Encoder Key/Value*
+>
+> ```mermaid
+> flowchart LR
+>   A[Decoder Query] --> B[Encoder Keys]
+>   A --> C[Encoder Values]
+>   B --> D[Alignment Scores]
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Cross-Attention in Encoder-Decoder**
+> *Observe the interaction between Decoder and Encoder sequences*
+>
+> ```mermaid
+> graph TD
+>   A[Encoder Sequence] --> B(Cross-Attention)
+>   C[Decoder Query] -->|Keys/Values| B
+>   B --> D(Aligned Output)
+> ```
+
+
+> [!abstract] **Diagram 3 — Cross-Attention vs Self-Attention**
+> *Compare the mechanisms of Cross-Attention and Self-Attention*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Decoder as Dec
+>   participant Encoder as Enc
+>   participant SelfAtt as S
+>   participant CrossAtt as C
+>   Dec->>Enc: Query for Keys/Values
+>   Enc-->>Dec: Keys/Values
+>   Dec->>C: Alignment Scores
+>   Dec->>S: Intra-Sequence Attention
+> ```
 
 # Cross-Attention in Transformers
 

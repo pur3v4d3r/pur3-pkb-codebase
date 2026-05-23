@@ -1,14 +1,13 @@
 ---
-title: "Discourse Coherence in LLM Outputs"
+title: Discourse Coherence in LLM Outputs
 aliases:
-  - "Discourse Coherence in LLM Outputs"
-  - "textual coherence in LLMs"
-  - "discourse structure in AI-generated text"
-  - "inter-sentence coherence"
+  - Discourse Coherence in LLM Outputs
+  - textual coherence in LLMs
+  - discourse structure in AI-generated text
+  - inter-sentence coherence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,93 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "discourse-coherence-in-llm-outputs-synthetic-seed-2026-05-22"
+  - discourse-coherence-in-llm-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Local Coherence]]"
-  - "[[Fluency Metrics]]"
+  - '[[Local Coherence]]'
+  - '[[Fluency Metrics]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Local Coherence]]"
-  - "[[Fluency Metrics]]"
+  - '[[Local Coherence]]'
+  - '[[Fluency Metrics]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Local vs Global Coherence**
+> *Compare local coherence within paragraphs to global coherence across the text.*
+>
+> ```mermaid
+> graph TD
+>   A[Local Coherence]
+>   B[Global Coherence]
+>   A -->|Within Paragraphs| C[Fluency]
+>   B -->|Across Text| D[Consistency]
+> ```
+
+
+> [!abstract] **Diagram 2 — Coherence in Long-form Outputs**
+> *Identify coherence issues that arise with increasing text length.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Short Snippets] -->|Rare Coherence Issues|
+>   B[Long Texts]
+>   B -->|Common Coherence Failures| C[Contradictions, Drifts]
+> ```
+
+
+> [!abstract] **Diagram 3 — Strategies for Maintaining Coherence**
+> *Explore prompting strategies to ensure coherent long-form outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Outline-First Prompting]
+>   B[Section-by-Section Generation]
+>   C[Coherence Checkpoints]
+>   A -->|Ensures Logical Flow|
+>   D[Clear and Consistent Text]
+> ```
 
 # Discourse Coherence in LLM Outputs
 

@@ -1,14 +1,13 @@
 ---
-title: "Zero-Shot Generalisation Mechanisms"
+title: Zero-Shot Generalisation Mechanisms
 aliases:
-  - "Zero-Shot Generalisation Mechanisms"
-  - "zero-shot capability mechanisms"
-  - "zero-shot task performance"
-  - "zero-shot learning in LLMs"
+  - Zero-Shot Generalisation Mechanisms
+  - zero-shot capability mechanisms
+  - zero-shot task performance
+  - zero-shot learning in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,103 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "zero-shot-generalisation-mechanisms-synthetic-seed-2026-05-22"
+  - zero-shot-generalisation-mechanisms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[In-Context Learning]]"
-  - "[[Instruction-Tuning Templates]]"
+  - '[[In-Context Learning]]'
+  - '[[Instruction-Tuning Templates]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[In-Context Learning]]"
+  - '[[In-Context Learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction-Tuning Templates]]"
+  - '[[Instruction-Tuning Templates]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Zero-Shot Mechanisms Overview**
+> *Identify the key mechanisms involved in zero-shot generalisation.*
+>
+> ```mermaid
+> graph TD
+>   A[Pattern Recognition]
+>   B[Parametric Knowledge Retrieval]
+>   C[Compositional Reasoning]
+>   D[Pragmatic Intent Inference]
+>   A -->|Infer Task Requirements| E[Zero-Shot Generalisation]
+>   B -->|Generate Factually Correct Answers| E
+>   C -->|Combine Known Operations| E
+>   D -->|Understand User Needs| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Instruction Matching Process**
+> *Follow the steps a model takes to match an instruction and infer task requirements.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Instruction]
+>   B[Surface Form Matching]
+>   C[Known Patterns]
+>   D[Tasks Requirements Inference]
+>   E[Performance Based on Instructions]
+>   A -->|Identify Structure/Keywords| B
+>   B -->|Match Against Known Templates| C
+>   C -->|Infer Task Requirements| D
+>   D -->|Perform Task Without Examples| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Zero-Shot vs One-Shot Learning**
+> *Compare zero-shot and one-shot learning approaches in terms of training data requirements.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant ZeroShot as ZS
+>   participant OneShot as OS
+>   ZS->>ZS: No Task-Specific Examples Needed
+>   OS->>OS: At Least One Example Required
+>   ZS-->>ZS: Instruction-Following and Pretraining Knowledge
+>   OS-->>OS: Minimal Training Data with Specific Examples
+> ```
 
 # Zero-Shot Generalisation Mechanisms
 

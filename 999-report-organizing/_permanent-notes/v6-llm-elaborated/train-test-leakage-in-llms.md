@@ -1,14 +1,13 @@
 ---
-title: "Train-Test Leakage in LLMs"
+title: Train-Test Leakage in LLMs
 aliases:
-  - "Train-Test Leakage in LLMs"
-  - "evaluation data leakage"
-  - "training-test contamination"
-  - "data leakage in LLMs"
+  - Train-Test Leakage in LLMs
+  - evaluation data leakage
+  - training-test contamination
+  - data leakage in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,124 @@ subdomains:
   - data-contamination
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "train-test-leakage-in-llms-synthetic-seed-2026-05-22"
+  - train-test-leakage-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Benchmark Contamination]]"
-  - "[[Dynamic Benchmarking]]"
+  - '[[Benchmark Contamination]]'
+  - '[[Dynamic Benchmarking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Benchmark Contamination]]"
+  - '[[Benchmark Contamination]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Dynamic Benchmarking]]"
+  - '[[Dynamic Benchmarking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Train-test leakage pathways**
+> *Follow the arrows to see how benchmarks influence model development.*
+>
+> ```mermaid
+> graph TD
+>   A[Development]
+>   B[Evaluation]
+>   C[Benchmark Datasets]
+>   A -->|Influence of|
+>   B -->|Feedback on|
+>   A -->|Hyperparameter Tuning|
+>   A -->|Architectural Decisions|
+>   B -->|Performance Metrics|
+>   C -->|Indirect Influence|
+>   C -->|Public Availability|
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of structural leakage**
+> *Trace the flow from benchmarks to model performance discrepancies.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Development]
+>   B[Evaluation]
+>   C[Benchmark Datasets]
+>   D[Performance Metrics]
+>   E[Real-world Tasks]
+>   F[Inflated Performance]
+>   G[Underperformance]
+>   H[Generalization Gap]
+>   A -->|Uses|
+>   C
+>   C -->|Shapes|
+>   B
+>   B -->|Feedback on|
+>   D
+>   D -->|Influences|
+>   A
+>   A -->|Results in|
+>   F
+>   E -->|Shows|
+>   G
+>   H -->|Caused by|
+>   F
+> ```
+
+
+> [!abstract] **Diagram 3 — Direct vs structural leakage**
+> *Compare the two types of train-test contamination.*
+>
+> ```mermaid
+> classDiagram
+>   class Direct_Contamination {
+>     +Inclusion in Training Data
+>     +Explicit Feedback Loop
+>     -Detection: Easier
+>     }
+>   class Structural_Leakage {
+>     +Indirect Influence on Development
+>     +Public Benchmarks and Metrics
+>     -Detection: Harder
+>     }
+>   Direct_Contamination -->|Direct Pathway|
+>   Structural_Leakage -->|Indirect Pathways|
+> ```
 
 # Train-Test Leakage in LLMs
 

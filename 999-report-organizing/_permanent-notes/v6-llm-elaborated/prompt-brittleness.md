@@ -1,14 +1,13 @@
 ---
-title: "Prompt Brittleness"
+title: Prompt Brittleness
 aliases:
-  - "Prompt Brittleness"
-  - "prompt fragility"
-  - "sensitivity to prompt perturbation"
-  - "non-robust prompting"
+  - Prompt Brittleness
+  - prompt fragility
+  - sensitivity to prompt perturbation
+  - non-robust prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,125 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-brittleness-synthetic-seed-2026-05-22"
+  - prompt-brittleness-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Format Sensitivity in Prompting]]"
-  - "[[Label Sensitivity in Prompting]]"
+  - '[[Format Sensitivity in Prompting]]'
+  - '[[Label Sensitivity in Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Format Sensitivity in Prompting]]"
-  - "[[Label Sensitivity in Prompting]]"
+  - '[[Format Sensitivity in Prompting]]'
+  - '[[Label Sensitivity in Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Brittleness Mechanism**
+> *Follow the flow from training to prompt development and performance drop.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[LLM Training]
+>   C[Prompt Development]
+>   D[Specific Surface Patterns]
+>   E[High Performance]
+>   F[Slight Variations]
+>   G[Performance Drop]
+>   A --> B
+>   B -->|Learned Patterns| D
+>   D --> C
+>   C --> E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Brittle vs Robust Prompts Comparison**
+> *Compare the performance of brittle and robust prompts across different variants.*
+>
+> ```mermaid
+> graph TD
+>   A[Specific Prompt]
+>   B[High Performance]
+>   C[Slight Variations]
+>   D[Performance Drop]
+>   E[Diverse Prompts]
+>   F[Consistent Performance]
+>   G[Varying Phrases]
+>   H[Robust Output]
+>   A -->|Brittle Prompt| B
+>   B -->|Slight Changes| C
+>   C -->|Drop in Accuracy| D
+>   E -->|Robust Prompt| F
+>   F -->|Varying Inputs| G
+>   G -->|Maintain Performance| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Brittleness Impact on Benchmarking**
+> *Trace the impact of brittleness from prompt development to performance metrics.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Development]
+>   B[Specific Prompt]
+>   C[Test Performance]
+>   D[Peak Metrics]
+>   E[Varying Prompts]
+>   F[Misleading Metrics]
+>   G[Awareness Needed]
+>   H[Robust Testing]
+>   I[Accurate Metrics]
+>   A -->|Fine-Tuned| B
+>   B --> C
+>   C --> D
+>   D -->|Selective Reporting| E
+>   E --> F
+>   F --> G
+>   G --> H
+>   H --> I
+> ```
 
 # Prompt Brittleness
 

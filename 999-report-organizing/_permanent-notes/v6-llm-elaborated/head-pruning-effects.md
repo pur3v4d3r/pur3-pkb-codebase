@@ -1,14 +1,13 @@
 ---
-title: "Head Pruning Effects"
+title: Head Pruning Effects
 aliases:
-  - "Head Pruning Effects"
-  - "attention head pruning"
-  - "sparse attention architectures"
-  - "head ablation effects"
+  - Head Pruning Effects
+  - attention head pruning
+  - sparse attention architectures
+  - head ablation effects
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,104 @@ subdomains:
   - deep-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "head-pruning-effects-synthetic-seed-2026-05-22"
+  - head-pruning-effects-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Attention Mechanisms]]"
-  - "[[Model Compression]]"
+  - '[[Attention Mechanisms]]'
+  - '[[Model Compression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Attention Mechanisms]]"
+  - '[[Attention Mechanisms]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Model Compression]]"
+  - '[[Model Compression]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Head Pruning Process Flow**
+> *Follow the sequence from head selection to performance evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Select Heads]
+>   B[Zero Out/Remove Parameters]
+>   C[Evaluate Performance]
+>   D[Optimize Model]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Head Contribution Distribution**
+> *Identify the heavy-tailed distribution of head contributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Critical Heads]
+>   B[Non-Critical Heads]
+>   C[Performance Impact]
+>   D[Redundancy]
+>   A -->|High Contribution| C
+>   B -->|Low Contribution| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Pruning Methods Comparison**
+> *Compare the impact of different pruning methods on model efficiency.*
+>
+> ```mermaid
+> graph TD
+>   A[Hard Ablation]
+>   B[Structured Pruning]
+>   C[Soft Pruning]
+>   D[Efficiency Gain]
+>   E[Performance Impact]
+>   A -->|Efficiency| D
+>   A -->|Impact| E
+>   B -->|Efficiency| D
+>   B -->|Impact| E
+>   C -->|Efficiency| D
+>   C -->|Impact| E
+> ```
 
 # Head Pruning Effects
 

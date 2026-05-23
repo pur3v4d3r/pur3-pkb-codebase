@@ -1,14 +1,13 @@
 ---
-title: "Positional Encoding Variants"
+title: Positional Encoding Variants
 aliases:
-  - "Positional Encoding Variants"
-  - "position encoding methods"
-  - "transformer positional embeddings"
-  - "position representation in transformers"
+  - Positional Encoding Variants
+  - position encoding methods
+  - transformer positional embeddings
+  - position representation in transformers
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,91 @@ subdomains:
   - sequence-modelling
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "positional-encoding-variants-synthetic-seed-2026-05-22"
+  - positional-encoding-variants-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Transformer Architecture]]"
-  - "[[Multi-Head Attention Mechanics]]"
+  - '[[Transformer Architecture]]'
+  - '[[Multi-Head Attention Mechanics]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Transformer Architecture]]"
+  - '[[Transformer Architecture]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Multi-Head Attention Mechanics]]"
+  - '[[Multi-Head Attention Mechanics]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Positional Encoding Variants Overview**
+> *Identify the different types of positional encodings and their characteristics.*
+>
+> ```mermaid
+> graph TD
+>   A["Sinusoidal Encodings"] --> B["Fixed, Continuous Representation"]
+>   C["Learned Absolute Embeddings"] --> D["Adapts During Training"]
+>   E["Relative Positional Encodings"] --> F["Focuses on Relative Distances"]
+>   G["RoPE"] --> H["Handles Long Contexts Gracefully"]
+>   I["ALiBi"] --> J["Attention with Linear Biases"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact on Model Performance**
+> *Understand how different positional encodings affect model performance in long-context scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A["Sinusoidal Encodings"] --> B["Struggles with Long Sequences"]
+>   C["Learned Absolute Embeddings"] --> D["Fails Beyond Training Lengths"]
+>   E["RoPE"] --> F["Graceful Degradation or Improvement"]
+>   G["ALiBi"] --> H["Improved Performance with Context Length"]
+> ```
+
+
+> [!abstract] **Diagram 3 — Key Figures Contributions**
+> *Recognize the contributions of key figures in positional encoding development.*
+>
+> ```mermaid
+> graph TD
+>   A[Ashish Vaswani] --> B["Sinusoidal Encodings"]
+>   C[Jacob Devlin] --> D["Learned Absolute Embeddings"]
+> ```
 
 # Positional Encoding Variants
 

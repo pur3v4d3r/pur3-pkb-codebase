@@ -1,14 +1,13 @@
 ---
-title: "Claim Strength Calibration"
+title: Claim Strength Calibration
 aliases:
-  - "Claim Strength Calibration"
-  - "epistemic strength calibration"
-  - "assertion strength calibration"
-  - "evidential claim grading"
+  - Claim Strength Calibration
+  - epistemic strength calibration
+  - assertion strength calibration
+  - evidential claim grading
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "claim-strength-calibration-synthetic-seed-2026-05-22"
+  - claim-strength-calibration-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Hedging Calibration]]"
-  - "[[Verbalized Uncertainty]]"
+  - '[[Hedging Calibration]]'
+  - '[[Verbalized Uncertainty]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Hedging Calibration]]"
+  - '[[Hedging Calibration]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Verbalized Uncertainty]]"
+  - '[[Verbalized Uncertainty]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Claim Strength Calibration Process**
+> *Follow the flow from input to output, noting key steps and adjustments.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Data] --> B[Training]
+>   B --> C[Evidentiary Support Analysis]
+>   C --> D[Assertion Strength Alignment]
+>   D --> E[Output Claims]
+> ```
+
+
+> [!abstract] **Diagram 2 — Claim Strength Calibration Errors**
+> *Identify the types of errors and their causes in the calibration process.*
+>
+> ```mermaid
+> graph TD
+>   A[Overstated Certainty] --> B[Abundant Confident Training Data]
+>   C[Underestimated Findings] --> D[Rigorous but Less-Publicized Research]
+>   E[Hedging Well-Established Findings] --> F[Controversy in Training Corpus]
+> ```
+
+
+> [!abstract] **Diagram 3 — Claim Strength Calibration vs Hedging Calibration**
+> *Compare the focus of claim strength calibration with hedging calibration.*
+>
+> ```mermaid
+> graph TD
+>   A[Claim Strength Calibration] --> B[Evidentiary Support]
+>   C[Hedging Calibration] --> D[Uncertainty Adjustment]
+> ```
 
 # Claim Strength Calibration
 

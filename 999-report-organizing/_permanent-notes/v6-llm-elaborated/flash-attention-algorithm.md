@@ -1,14 +1,13 @@
 ---
-title: "Flash Attention Algorithm"
+title: Flash Attention Algorithm
 aliases:
-  - "Flash Attention Algorithm"
-  - "FlashAttention"
-  - "IO-aware attention"
-  - "memory-efficient attention"
+  - Flash Attention Algorithm
+  - FlashAttention
+  - IO-aware attention
+  - memory-efficient attention
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,100 @@ subdomains:
   - efficient-transformers
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "flash-attention-algorithm-synthetic-seed-2026-05-22"
+  - flash-attention-algorithm-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Multi-Head Attention Mechanics]]"
-  - "[[Grouped Query Attention]]"
-  - "[[Context Length in Transformers]]"
+  - '[[Multi-Head Attention Mechanics]]'
+  - '[[Grouped Query Attention]]'
+  - '[[Context Length in Transformers]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Multi-Head Attention Mechanics]]"
+  - '[[Multi-Head Attention Mechanics]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Grouped Query Attention]]"
+  - '[[Grouped Query Attention]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Context Length in Transformers]]"
+  - '[[Context Length in Transformers]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — FlashAttention Memory Hierarchy**
+> *Follow the data flow from SRAM to HBM.*
+>
+> ```mermaid
+> graph TD
+>   A[SRAM]
+>   B[HBM]
+>   A -->|Incremental Computation| C[Output]
+>   C -->|Write Back| B
+> ```
+
+
+> [!abstract] **Diagram 2 — FlashAttention Process Flow**
+> *Trace the steps from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence]
+>   B[Tiling into Blocks]
+>   C[Incremental Softmax]
+>   D[Block Computation]
+>   E[Output]
+>   A --> B
+>   B -->|SRAM| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — FlashAttention vs Standard Attention**
+> *Compare memory usage and speedup factors.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Attention]
+>   B[FlashAttention]
+>   A -->|Full Matrix Computation| C[HBM Usage]
+>   B -->|Incremental SRAM Computation| D[Reduced HBM Access]
+>   A -->|Compute Bound| E[Speedup Factor]
+>   B -->|Memory Bound| F[2-4x Speedup]
+> ```
 
 # Flash Attention Algorithm
 

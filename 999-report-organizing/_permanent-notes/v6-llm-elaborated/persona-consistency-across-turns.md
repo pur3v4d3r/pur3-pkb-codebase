@@ -1,14 +1,13 @@
 ---
-title: "Persona Consistency Across Turns"
+title: Persona Consistency Across Turns
 aliases:
-  - "Persona Consistency Across Turns"
-  - "character consistency in dialogue"
-  - "persona stability across turns"
-  - "identity persistence in LLM dialogue"
+  - Persona Consistency Across Turns
+  - character consistency in dialogue
+  - persona stability across turns
+  - identity persistence in LLM dialogue
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,113 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "persona-consistency-across-turns-synthetic-seed-2026-05-22"
+  - persona-consistency-across-turns-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Multi-Turn Conversation Management]]"
-  - "[[Memory Injection in Dialogue]]"
+  - '[[Multi-Turn Conversation Management]]'
+  - '[[Memory Injection in Dialogue]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multi-Turn Conversation Management]]"
+  - '[[Multi-Turn Conversation Management]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Memory Injection in Dialogue]]"
+  - '[[Memory Injection in Dialogue]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Persona Consistency Mechanism**
+> *Follow the flow to understand how persona consistency is maintained over turns.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Persona Definition]
+>   B[Recent Conversational History]
+>   C[Drift Towards Default Behavior]
+>   D[Persona Reminders]
+>   E[Compressed History]
+>   F[Persona-Consistent Summaries]
+>   G[Maintained Persona Traits]
+>   A -->|Context Window Influence| B
+>   B -->|Over Time| C
+>   C -->|Intervention Strategies| D
+>   C -->|Intervention Strategies| E
+>   C -->|Intervention Strategies| F
+>   D -->|Counteract Drift| G
+>   E -->|Reduce Cognitive Load| G
+>   F -->|Maintain Consistency| G
+> ```
+
+
+> [!abstract] **Diagram 2 — Persona Reminder vs Verbatim History**
+> *Compare the two strategies for maintaining persona consistency.*
+>
+> ```mermaid
+> graph TD
+>   A[Persona Reminders]
+>   B[Verbatim History Retention]
+>   C[Maintained Persona Traits]
+>   D[Drift in Character Consistency]
+>   E[Cognitive Load on Model]
+>   F[Reduced Cognitive Load]
+>   G[Inconsistent Advice or Behavior]
+>   A -->|Periodic Reinforcement| C
+>   B -->|Keeps All History| D
+>   B -->|Increases Load| E
+>   A -->|Reduces Drift| F
+>   B -->|May Lead to Inconsistencies| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Persona Consistency Over Turns**
+> *Track how persona consistency degrades and is maintained over multiple turns.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Initial: Start with Persona Definition
+>   Initial --> RecentHistory: Conversational History Accumulates
+>   RecentHistory --> Drift: Persona Traits Degrade Over Time
+>   Drift --> Intervention: Apply Strategies to Counteract Drift
+>   Intervention --> Maintained: Persona Traits Remain Stable
+>   Maintained --> [*]: End of Conversation
+> ```
 
 # Persona Consistency Across Turns
 

@@ -1,14 +1,13 @@
 ---
-title: "Framing Effects on LLM Outputs"
+title: Framing Effects on LLM Outputs
 aliases:
-  - "Framing Effects on LLM Outputs"
-  - "framing bias in LLMs"
-  - "presentation effects on LLM responses"
-  - "reference-point effects in LLMs"
+  - Framing Effects on LLM Outputs
+  - framing bias in LLMs
+  - presentation effects on LLM responses
+  - reference-point effects in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,95 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "framing-effects-on-llm-outputs-synthetic-seed-2026-05-22"
+  - framing-effects-on-llm-outputs-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in LLM Outputs"
-
+parent-concept: Cognitive Bias in LLM Outputs
 related:
-  - "[[Prompt Brittleness]]"
-  - "[[Semantic Equivalence in Prompts]]"
+  - '[[Prompt Brittleness]]'
+  - '[[Semantic Equivalence in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Brittleness]]"
+  - '[[Prompt Brittleness]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Semantic Equivalence in Prompts]]"
+  - '[[Semantic Equivalence in Prompts]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Framing Effects Process Flow**
+> *Follow the flow from prompt framing to model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Positive Framing] --> B1[Model Response]
+>   C[Negative Framing] --> B2[Model Response]
+>   D[Same Underlying Facts] --> B1
+>   D --> B2
+> ```
+
+
+> [!abstract] **Diagram 2 — Framing vs Other Biases Comparison**
+> *Compare framing effects with other biases in LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Confirmation Bias] -->|Favors aligned info|
+>   B[Framing Effects] -->|Presentation style only|
+>   C[Availability Heuristic] -->|Recent info favored|
+>   D[Same Model Output]
+>   A --> D
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Framing Effects**
+> *Identify areas where framing effects impact LLM outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B1[Encouraging Feedback]
+>   C[Risk Communication] --> D1[Engagement & Compliance]
+>   E[Framing Effects Sensitivity] --> B2[Divergent Evaluations]
+>   F[Consistent Messaging] --> D2[Align with Risk Tolerance]
+> ```
 
 # Framing Effects on LLM Outputs
 

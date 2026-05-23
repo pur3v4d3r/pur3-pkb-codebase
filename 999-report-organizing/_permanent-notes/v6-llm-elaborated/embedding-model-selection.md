@@ -1,14 +1,13 @@
 ---
-title: "Embedding Model Selection"
+title: Embedding Model Selection
 aliases:
-  - "Embedding Model Selection"
-  - "retrieval model selection"
-  - "encoder selection for RAG"
-  - "embedding architecture choice"
+  - Embedding Model Selection
+  - retrieval model selection
+  - encoder selection for RAG
+  - embedding architecture choice
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,92 @@ subdomains:
   - machine-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "embedding-model-selection-synthetic-seed-2026-05-22"
+  - embedding-model-selection-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Dense Retrieval for RAG]]"
-  - "[[Chunking Strategies for RAG]]"
+  - '[[Dense Retrieval for RAG]]'
+  - '[[Chunking Strategies for RAG]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Dense Retrieval for RAG]]"
+  - '[[Dense Retrieval for RAG]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chunking Strategies for RAG]]"
+  - '[[Chunking Strategies for RAG]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Embedding Model Selection Process**
+> *Follow the flow from model choice to retrieval efficiency.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Choose Model] --> B[Evaluate Criteria]
+>   B --> C[Test Performance]
+>   C --> D[Benchmark]
+>   D --> E[Select Model]
+> ```
+
+
+> [!abstract] **Diagram 2 — Symmetric vs Asymmetric Retrieval**
+> *Compare symmetric and asymmetric retrieval approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Symmetric] -->|Single Model| B[Query]
+>   A -->|Single Model| C[Document]
+>   D[Asymmetric] -->|Query Model| E[Query]
+>   D -->|Doc Model| F[Document]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dimensionality vs Retrieval Cost Trade-off**
+> *Analyze the trade-off between embedding dimension and cost.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Dimension] -->|Smaller Index Size| B[Lower Cost]
+>   A -->|Less Nuance Capture| C[Reduced Performance]
+>   D[High Dimension] -->|Larger Index Size| E[Higer Cost]
+>   D -->|More Nuance Capture| F[Better Performance]
+> ```
 
 # Embedding Model Selection
 

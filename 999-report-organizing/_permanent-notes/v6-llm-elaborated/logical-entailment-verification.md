@@ -1,14 +1,13 @@
 ---
-title: "Logical Entailment Verification"
+title: Logical Entailment Verification
 aliases:
-  - "Logical Entailment Verification"
-  - "entailment checking in LLM outputs"
-  - "logical consistency verification"
-  - "NLI-based output validation"
+  - Logical Entailment Verification
+  - entailment checking in LLM outputs
+  - logical consistency verification
+  - NLI-based output validation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "logical-entailment-verification-synthetic-seed-2026-05-22"
+  - logical-entailment-verification-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Contradiction Detection in Outputs]]"
-  - "[[Natural Language Inference (NLI)]]"
+  - '[[Contradiction Detection in Outputs]]'
+  - '[[Natural Language Inference (NLI)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Contradiction Detection in Outputs]]"
+  - '[[Contradiction Detection in Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Natural Language Inference (NLI)]]"
+  - '[[Natural Language Inference (NLI)]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Logical Entailment Verification Process**
+> *Follow the flow from input to logical consistency check.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[NLI Model]
+>   B --> C[Chain-of-Thought Prompting]
+>   C --> D[Logical Consistency Check]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanisms for Logical Entailment Verification**
+> *Identify the two main mechanisms used in verification.*
+>
+> ```mermaid
+> graph TD
+>   A[NLI Model]
+>   B[Chain-of-Thought Prompting]
+>   C[Logical Consistency Check]
+>   A -->|Evaluate| C
+>   B -->|Justify Claims| C
+> ```
+
+
+> [!abstract] **Diagram 3 — Contradiction Detection vs Entailment Verification**
+> *Compare the focus of contradiction detection and entailment verification.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant ContradictionDetection as CD
+>   participant EntailmentVerification as EV
+>   CD->>CD: Identify Direct Contradictions
+>   EV->>EV: Evaluate Logical Consistency from Premises
+> ```
 
 # Logical Entailment Verification
 

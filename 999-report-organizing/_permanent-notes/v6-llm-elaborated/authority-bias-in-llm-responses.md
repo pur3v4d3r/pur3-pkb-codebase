@@ -1,14 +1,13 @@
 ---
-title: "Authority Bias in LLM Responses"
+title: Authority Bias in LLM Responses
 aliases:
-  - "Authority Bias in LLM Responses"
-  - "source prestige effects in LLMs"
-  - "expert framing bias in AI"
-  - "authority heuristic in LLMs"
+  - Authority Bias in LLM Responses
+  - source prestige effects in LLMs
+  - expert framing bias in AI
+  - authority heuristic in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,125 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "authority-bias-in-llm-responses-synthetic-seed-2026-05-22"
+  - authority-bias-in-llm-responses-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in LLM Outputs"
-
+parent-concept: Cognitive Bias in LLM Outputs
 related:
-  - "[[Social Desirability Bias in LLMs]]"
-  - "[[Framing Effects on LLM Outputs]]"
+  - '[[Social Desirability Bias in LLMs]]'
+  - '[[Framing Effects on LLM Outputs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Social Desirability Bias in LLMs]]"
-  - "[[Framing Effects on LLM Outputs]]"
+  - '[[Social Desirability Bias in LLMs]]'
+  - '[[Framing Effects on LLM Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Authority Bias Mechanism Overview**
+> *Follow the flow from training data to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Reinforcement Learning]
+>   C[Expert Endorsements]
+>   D[Affirmative Framing]
+>   E[Model Output]
+>   F[Hallucination]
+>   G[Confidence Boost]
+>   H[Systematic Bias]
+>   A -->|Learn Patterns| C
+>   B -->|Reward Alignment| D
+>   C -->|Expert Endorsements| D
+>   D -->|Affirmative Framing| E
+>   E -->|Hallucination| F
+>   F -->|Confidence Boost| G
+>   G -->|Systematic Bias| H
+> ```
+
+
+> [!abstract] **Diagram 2 — LLM Response Confidence Levels**
+> *Compare confidence levels for different source types.*
+>
+> ```mermaid
+> graph TD
+>   A[Anonymous Source]
+>   B[Nobel Laureate]
+>   C[Confidence Level]
+>   D[Detailed Elaboration]
+>   E[Low Confidence]
+>   F[High Confidence]
+>   G[Less Skepticism]
+>   H[More Skepticism]
+>   A -->|Claim| E
+>   B -->|Claim| F
+>   C -->|Anonymous Source| E
+>   D -->|Nobel Laureate| F
+>   E -->|Low Confidence| H
+>   F -->|High Confidence| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Authority Bias**
+> *Identify areas where bias can impact content quality.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Educational Content]
+>   C[Simplified Information]
+>   D[Biased Materials]
+>   E[Student Misinformation]
+>   F[Controversies Ignored]
+>   G[Alternative Viewpoints Absent]
+>   H[Quality and Reliability Impact]
+>   A -->|LLM Task| B
+>   B -->|Authority Bias| C
+>   C -->|Simplified Information| D
+>   D -->|Biased Materials| E
+>   E -->|Student Misinformation| F
+>   F -->|Controversies Ignored| G
+>   G -->|Alternative Viewpoints Absent| H
+> ```
 
 # Authority Bias in LLM Responses
 

@@ -1,14 +1,13 @@
 ---
-title: "Nuance Preservation in Summarization"
+title: Nuance Preservation in Summarization
 aliases:
-  - "Nuance Preservation in Summarization"
-  - "qualification retention in summaries"
-  - "conditional preservation in summarization"
-  - "complexity-faithful summarization"
+  - Nuance Preservation in Summarization
+  - qualification retention in summaries
+  - conditional preservation in summarization
+  - complexity-faithful summarization
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,95 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "nuance-preservation-in-summarization-synthetic-seed-2026-05-22"
+  - nuance-preservation-in-summarization-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Specificity vs Generality Tradeoff]]"
-  - "[[Claim Strength Calibration]]"
-  - "[[Hedging Calibration]]"
+  - '[[Specificity vs Generality Tradeoff]]'
+  - '[[Claim Strength Calibration]]'
+  - '[[Hedging Calibration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Specificity vs Generality Tradeoff]]"
+  - '[[Specificity vs Generality Tradeoff]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Claim Strength Calibration]]"
-  - "[[Hedging Calibration]]"
+  - '[[Claim Strength Calibration]]'
+  - '[[Hedging Calibration]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Nuance Preservation Process Flow**
+> *Follow the flow from source to summary, noting nuance preservation steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Document] --> B[Nuanced Details]
+>   B --> C[Summarization]
+>   C --> D[Nuance Stripping]
+>   D --> E[Summary]
+>   F[Preservation Strategies] -->|Apply| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Nuance Preservation vs Fact-Checking**
+> *Compare the focus of nuance preservation and fact-checking in summaries.*
+>
+> ```mermaid
+> graph TD
+>   A[Nuance Preservation] -->|Ensures Qualifications| B[Summary]
+>   C[Fact-Checking] -->|Verifies Accuracy| B
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Training and Nuance Loss**
+> *Identify how LLM training impacts nuance preservation in summaries.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Trainer as T
+>   U->>T: Provide Document Pair
+>   T->>M: Train on Stripped Nuances
+>   M-->>U: Generate Summary with Loss of Nuance
+> ```
 
 # Nuance Preservation in Summarization
 

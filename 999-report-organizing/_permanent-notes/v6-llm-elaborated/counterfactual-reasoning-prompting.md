@@ -1,14 +1,13 @@
 ---
-title: "Counterfactual Reasoning Prompting"
+title: Counterfactual Reasoning Prompting
 aliases:
-  - "Counterfactual Reasoning Prompting"
-  - "counterfactual inference prompting"
-  - "what-if prompting"
-  - "hypothetical scenario reasoning"
+  - Counterfactual Reasoning Prompting
+  - counterfactual inference prompting
+  - what-if prompting
+  - hypothetical scenario reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "counterfactual-reasoning-prompting-synthetic-seed-2026-05-22"
+  - counterfactual-reasoning-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Abductive Reasoning in LLMs]]"
-  - "[[Causal Reasoning in LLMs]]"
+  - '[[Abductive Reasoning in LLMs]]'
+  - '[[Causal Reasoning in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Abductive Reasoning in LLMs]]"
+  - '[[Abductive Reasoning in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Causal Reasoning in LLMs]]"
+  - '[[Causal Reasoning in LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Counterfactual Reasoning Process Flow**
+> *Follow the flow from initial prompt to model response.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Model Interpretation]
+>   B --> C[Scenario Construction]
+>   C --> D[Causal Analysis]
+>   D --> E[Counterfactual Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Causal vs Correlational Knowledge Comparison**
+> *Compare the depth of causal understanding between models.*
+>
+> ```mermaid
+> graph TD
+>   A[Model with Causal Knowledge] -->|Generates Deep Counterfactuals| B[Complex Second-Order Consequences]
+>   C[Model with Correlational Knowledge] -->|Minimal Changes| D[Near Interpolation Around Altered Variable]
+> ```
+
+
+> [!abstract] **Diagram 3 — Counterfactual Prompting Applications**
+> *Identify the different applications of counterfactual reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Causal Analysis] -->|Probes Robustness of Causality|
+>   B[Historical Reasoning] -->|Explores Alternative Histories|
+>   C[Diagnostic Explanation] -->|Identifies Root Causes of Phenomena]
+> ```
 
 # Counterfactual Reasoning Prompting
 

@@ -1,14 +1,13 @@
 ---
-title: "Open-Domain Dialogue Prompting"
+title: Open-Domain Dialogue Prompting
 aliases:
-  - "Open-Domain Dialogue Prompting"
-  - "chit-chat prompting"
-  - "social dialogue prompting"
-  - "general conversation prompting"
+  - Open-Domain Dialogue Prompting
+  - chit-chat prompting
+  - social dialogue prompting
+  - general conversation prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,105 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "open-domain-dialogue-prompting-synthetic-seed-2026-05-22"
+  - open-domain-dialogue-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Persona Consistency Across Turns]]"
-  - "[[Task-Oriented Dialogue Prompting]]"
+  - '[[Persona Consistency Across Turns]]'
+  - '[[Task-Oriented Dialogue Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Persona Consistency Across Turns]]"
+  - '[[Persona Consistency Across Turns]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Task-Oriented Dialogue Prompting]]"
+  - '[[Task-Oriented Dialogue Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Open-Domain Dialogue Components**
+> *Identify the key components of open-domain dialogue prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Persona Definition]
+>   B[Interest Specification]
+>   C[Conversation Style]
+>   D[Safety Constraints]
+>   A -->|defines character| E[Consistent Persona]
+>   B -->|delineates competence| F[Broad Interests]
+>   C -->|specifies formality| G[Natural Flow]
+>   D -->|ensures appropriateness| H[Safe Conversations]
+> ```
+
+
+> [!abstract] **Diagram 2 — Open-Domain vs Task-Oriented Dialogue**
+> *Compare the objectives and outcomes of open-domain versus task-oriented dialogue prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Open-Domain]
+>   B[Task-Oriented]
+>   A -->|Engage in general conversations| C[No predefined goals]
+>   B -->|Achieve specific tasks| D[Predefined objectives]
+>   A -->|Enhance user engagement| E[Natural, coherent interactions]
+>   B -->|Complete task efficiently| F[Tasks completed]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dialogue Prompting Mechanism Flow**
+> *Follow the flow of designing and implementing open-domain dialogue prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Persona]
+>   B[Specify Interests]
+>   C[Determine Style]
+>   D[Set Safety Constraints]
+>   E[Test Conversations]
+>   F[Refine Based on Feedback]
+>   A -->|defines character| B
+>   B -->|delineates competence| C
+>   C -->|specifies formality| D
+>   D -->|ensures appropriateness| E
+>   E -->|iterative refinement| F
+> ```
 
 # Open-Domain Dialogue Prompting
 

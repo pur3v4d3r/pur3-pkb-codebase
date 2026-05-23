@@ -1,14 +1,13 @@
 ---
-title: "Creative Writing Prompting"
+title: Creative Writing Prompting
 aliases:
-  - "Creative Writing Prompting"
-  - "literary generation prompting"
-  - "fiction writing prompts"
-  - "creative AI prompting"
+  - Creative Writing Prompting
+  - literary generation prompting
+  - fiction writing prompts
+  - creative AI prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,92 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "creative-writing-prompting-synthetic-seed-2026-05-22"
+  - creative-writing-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Narrative Consistency Prompting]]"
-  - "[[Register and Tone Control]]"
+  - '[[Narrative Consistency Prompting]]'
+  - '[[Register and Tone Control]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Narrative Consistency Prompting]]"
-  - "[[Register and Tone Control]]"
+  - '[[Narrative Consistency Prompting]]'
+  - '[[Register and Tone Control]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Creative Writing Prompting Process Flow**
+> *Follow the steps from initial prompt to final output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Model Generation]
+>   B --> C[Critique and Revision]
+>   C --> D[Refinement]
+>   D --> E[Final Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Creative Writing vs Task-Oriented Prompting**
+> *Compare the approaches to understand their differences.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Oriented Prompting] -->|Exact Outputs| F[High Precision]
+>   B[Creative Writing Prompting] -->|Iterative Generation| G[High Quality Literary Content]
+> ```
+
+
+> [!abstract] **Diagram 3 — Narrative Structure and Critique Cycle**
+> *Trace the cycle from initial generation to final refinement.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> InitialGeneration
+>   InitialGeneration --> CritiqueAndRevision
+>   CritiqueAndRevision --> Refinement
+>   Refinement --> FinalOutput
+>   FinalOutput --> [*]
+> ```
 
 # Creative Writing Prompting
 

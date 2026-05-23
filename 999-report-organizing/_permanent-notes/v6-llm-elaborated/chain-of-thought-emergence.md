@@ -1,14 +1,13 @@
 ---
-title: "Chain-of-Thought Emergence"
+title: Chain-of-Thought Emergence
 aliases:
-  - "Chain-of-Thought Emergence"
-  - "CoT capability emergence"
-  - "chain-of-thought threshold"
-  - "reasoning chain emergence"
+  - Chain-of-Thought Emergence
+  - CoT capability emergence
+  - chain-of-thought threshold
+  - reasoning chain emergence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,88 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "chain-of-thought-emergence-synthetic-seed-2026-05-22"
+  - chain-of-thought-emergence-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Engineering]]"
-  - "[[Scaling Laws]]"
+  - '[[Prompt Engineering]]'
+  - '[[Scaling Laws]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Scaling Laws]]"
+  - '[[Scaling Laws]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chain-of-Thought Thresholds**
+> *Identify the scale threshold for effective chain-of-thought prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Models] -->|Incoherent Reasoning| B[Threshold]
+>   C[Larger Models] -->|Coherent Reasoning| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Complexity Matching**
+> *Understand how task complexity aligns with model capacity.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Tasks] -->|Effective Prompting| C[Coherent Reasoning]
+>   B[Complex Tasks] -->|Ineffective Prompting| D[Fragmented Reasoning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Reasoning Mechanism Flow**
+> *Trace the flow from fragmented to coherent reasoning as model size increases.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Small Model]
+>   B -->|Fragmented Reasoning| C[Incoherent Output]
+>   A --> D[Larger Model]
+>   D -->|Coherent Reasoning| E[Cohesive Output]
+> ```
 
 # Chain-of-Thought Emergence
 

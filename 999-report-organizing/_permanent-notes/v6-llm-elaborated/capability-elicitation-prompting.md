@@ -1,14 +1,13 @@
 ---
-title: "Capability Elicitation Prompting"
+title: Capability Elicitation Prompting
 aliases:
-  - "Capability Elicitation Prompting"
-  - "prompt-based capability elicitation"
-  - "latent capability prompting"
-  - "activation prompting"
+  - Capability Elicitation Prompting
+  - prompt-based capability elicitation
+  - latent capability prompting
+  - activation prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,105 @@ subdomains:
   - evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "capability-elicitation-prompting-synthetic-seed-2026-05-22"
+  - capability-elicitation-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Engineering]]"
-  - "[[Latent Capability Unlocking]]"
+  - '[[Prompt Engineering]]'
+  - '[[Latent Capability Unlocking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Latent Capability Unlocking]]"
+  - '[[Latent Capability Unlocking]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Core Mechanism Overview**
+> *Follow the flow from prompts to latent capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Prompt Evaluation]
+>   B[Capability Elicitation Prompting]
+>   C[Latent Capabilities]
+>   D[Surface-Level Performance]
+>   A -->|Focus on performance| D
+>   B -->|Reveal hidden potential| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Types for Elicitation**
+> *Identify different types of prompts and their effects.*
+>
+> ```mermaid
+> graph TD
+>   A[Role Prompting]
+>   B[Chain-of-Thought Framing]
+>   C[Step-by-Step Decomposition]
+>   D[Meta-Prompting]
+>   E[Format Scaffolding]
+>   A -->|Activate expert persona|
+>   B -->|Encourage deliberate reasoning|
+>   C -->|Guide through subgoals|
+>   D -->|Instruct reflection on task|
+>   E -->|Provide structural cues|
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Summary**
+> *See how elicitation impacts instructional design, evaluation, and deployment.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Model Evaluation]
+>   C[Deployment Reliability]
+>   D[Simulate real-world scenarios]
+>   E[Accurate model potential]
+>   F[Reliability under typical conditions]
+>   A -->|Enhance learning materials|
+>   B -->|Improve evaluation protocols|
+>   C -->|Assess elicited capabilities|
+> ```
 
 # Capability Elicitation Prompting
 

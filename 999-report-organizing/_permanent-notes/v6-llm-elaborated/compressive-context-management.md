@@ -1,14 +1,13 @@
 ---
-title: "Compressive Context Management"
+title: Compressive Context Management
 aliases:
-  - "Compressive Context Management"
-  - "compressed context windows"
-  - "context compression management"
-  - "rolling context compression"
+  - Compressive Context Management
+  - compressed context windows
+  - context compression management
+  - rolling context compression
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "compressive-context-management-synthetic-seed-2026-05-22"
+  - compressive-context-management-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[In-Context Compression]]"
-  - "[[KV-Cache Reuse Strategies]]"
+  - '[[In-Context Compression]]'
+  - '[[KV-Cache Reuse Strategies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[In-Context Compression]]"
+  - '[[In-Context Compression]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[KV-Cache Reuse Strategies]]"
+  - '[[KV-Cache Reuse Strategies]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Compressive Context Mechanism Overview**
+> *Follow the flow from raw data to hierarchical compression.*
+>
+> ```mermaid
+> graph TD
+>   A[Raw Interaction Data] --> B[Rolling Window Summarization]
+>   B --> C[Hierarchical Compression]
+>   C --> D[Efficient Representation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hierarchical Compression Levels**
+> *Notice the varying degrees of compression based on recency.*
+>
+> ```mermaid
+> graph TD
+>   A[Recent Interaction] --> B[Full Fidelity]
+>   C[Older Interaction] --> D[Aggressive Compression]
+>   E[Distant Past] --> F[Minimal Detail]
+> ```
+
+
+> [!abstract] **Diagram 3 — Compressive Context in Customer Service**
+> *Track the flow of context from capture to retrieval.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Agent as A
+>   participant System as S
+>   U->>S: New Interaction
+>   S-->>A: Compressed Context
+>   A->>U: Response
+> ```
 
 # Compressive Context Management
 

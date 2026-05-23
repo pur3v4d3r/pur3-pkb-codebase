@@ -1,14 +1,13 @@
 ---
-title: "Financial Analysis Prompting"
+title: Financial Analysis Prompting
 aliases:
-  - "Financial Analysis Prompting"
-  - "financial LLM prompting"
-  - "investment analysis prompting"
-  - "quantitative finance prompts"
+  - Financial Analysis Prompting
+  - financial LLM prompting
+  - investment analysis prompting
+  - quantitative finance prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - quantitative-finance
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "financial-analysis-prompting-synthetic-seed-2026-05-22"
+  - financial-analysis-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Data-Analysis Prompting]]"
-  - "[[Ethical Reasoning Prompting]]"
+  - '[[Data-Analysis Prompting]]'
+  - '[[Ethical Reasoning Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Data-Analysis Prompting]]"
+  - '[[Data-Analysis Prompting]]'
 contrasts-with:
-  - "[[Ethical Reasoning Prompting]]"
+  - '[[Ethical Reasoning Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Financial Analysis Workflow**
+> *Follow the flow from data input to model output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Current Financial Data] --> B[Prompt Structure]
+>   B --> C[LLM Processing]
+>   C --> D[Output Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Engineering Focus Areas**
+> *Identify the key distinctions between financial and general data analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Financial Analysis Prompting] --> B(Current Data)
+>   A --> C(Regulatory Compliance)
+>   D[General Data-Analysis Prompting] --> E(Broader Datasets)
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *See the different applications of financial analysis prompting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B(Ensure Accuracy)
+>   C[Regulatory Compliance] --> D(Included Disclaimers)
+>   E[Risk Assessment] --> F(Current Market Insights)
+> ```
 
 # Financial Analysis Prompting
 

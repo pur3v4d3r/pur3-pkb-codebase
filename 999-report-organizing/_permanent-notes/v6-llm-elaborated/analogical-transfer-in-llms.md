@@ -1,14 +1,13 @@
 ---
-title: "Analogical Transfer in LLMs"
+title: Analogical Transfer in LLMs
 aliases:
-  - "Analogical Transfer in LLMs"
-  - "analogical reasoning in LLMs"
-  - "structure mapping in language models"
-  - "analogical inference prompting"
+  - Analogical Transfer in LLMs
+  - analogical reasoning in LLMs
+  - structure mapping in language models
+  - analogical inference prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,97 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "analogical-transfer-in-llms-synthetic-seed-2026-05-22"
+  - analogical-transfer-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reasoning in Large Language Models"
-
+parent-concept: Reasoning in Large Language Models
 related:
-  - "[[Inductive Reasoning in LLMs]]"
-  - "[[Few-shot Emergent Generalization]]"
+  - '[[Inductive Reasoning in LLMs]]'
+  - '[[Few-shot Emergent Generalization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Inductive Reasoning in LLMs]]"
+  - '[[Inductive Reasoning in LLMs]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Few-shot Emergent Generalization]]"
+  - '[[Few-shot Emergent Generalization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Analogical Transfer Process Flow**
+> *Follow the flow from source to target problem solving.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Source Domain] --> B[Solution]
+>   C[Target Problem] --> D[Unknown Solution]
+>   B --> E[Surface-Level Features]
+>   E --> F[Analogical Transfer]
+>   F --> G[Solution Adaptation]
+>   G --> H[Problem Solved]
+> ```
+
+
+> [!abstract] **Diagram 2 — Reasoning Types Comparison**
+> *Compare surface-level and deep structural reasoning.*
+>
+> ```mermaid
+> graph TD
+>   A[Surface-Level Reasoning] --> B[Limited]
+>   C[Deep Structural Reasoning] --> D[Robust]
+>   E[LLMs] --> F[Surface-Level]
+>   G[Humans] --> H[Deep Structural]
+> ```
+
+
+> [!abstract] **Diagram 3 — Analogical Transfer Mechanism**
+> *Trace the steps from retrieval to solution adaptation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant SourceDomain as S
+>   participant TargetProblem as T
+>   participant SolutionAdaptation as A
+>   S->>T: Recognize Structural Similarity
+>   T->>A: Retrieve Known Solution
+>   A->>S: Adapt Solution for New Context
+>   A-->>T: Apply Adapted Solution
+> ```
 
 # Analogical Transfer in LLMs
 

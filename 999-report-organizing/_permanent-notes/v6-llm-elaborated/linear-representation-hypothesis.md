@@ -1,14 +1,13 @@
 ---
-title: "Linear Representation Hypothesis"
+title: Linear Representation Hypothesis
 aliases:
-  - "Linear Representation Hypothesis"
-  - "linear geometry of concepts"
-  - "linear embedding of features"
-  - "linear representation theory in LLMs"
+  - Linear Representation Hypothesis
+  - linear geometry of concepts
+  - linear embedding of features
+  - linear representation theory in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,89 @@ subdomains:
   - geometry-of-representations
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "linear-representation-hypothesis-synthetic-seed-2026-05-22"
+  - linear-representation-hypothesis-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Probing Classifiers]]"
-  - "[[Representation Engineering]]"
-  - "[[Concept Activation Vectors]]"
+  - '[[Probing Classifiers]]'
+  - '[[Representation Engineering]]'
+  - '[[Concept Activation Vectors]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Probing Classifiers]]"
-  - "[[Representation Engineering]]"
+  - '[[Probing Classifiers]]'
+  - '[[Representation Engineering]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Concept Activation Vectors]]"
+  - '[[Concept Activation Vectors]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Concept Representation as Linear Directions**
+> *Identify how concepts are represented linearly in high-dimensional spaces.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Dimensional Space] --> B[Linear Direction]
+>   B --> C[Concept Representation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Activation Steering Process**
+> *Follow the steps to steer model behavior by manipulating activation vectors.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Activation] --> B[Intervention]
+>   B --> C[Modified Activation]
+>   C --> D[Predicted Output]
+> ```
+
+
+> [!abstract] **Diagram 3 — Linear vs Non-Linear Interactions**
+> *Compare linear and non-linear interactions in concept representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Linear Direction] --> B[Simple Manipulation]
+>   C[Non-Linear Interaction] --> D[Complex Phenomena]
+> ```
 
 # Linear Representation Hypothesis
 

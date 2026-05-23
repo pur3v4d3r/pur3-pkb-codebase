@@ -1,14 +1,13 @@
 ---
-title: "Semantic Equivalence in Prompts"
+title: Semantic Equivalence in Prompts
 aliases:
-  - "Semantic Equivalence in Prompts"
-  - "semantically equivalent prompts"
-  - "prompt paraphrase equivalence"
-  - "meaning-preserving prompt variants"
+  - Semantic Equivalence in Prompts
+  - semantically equivalent prompts
+  - prompt paraphrase equivalence
+  - meaning-preserving prompt variants
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,104 @@ subdomains:
   - evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "semantic-equivalence-in-prompts-synthetic-seed-2026-05-22"
+  - semantic-equivalence-in-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Brittleness]]"
-  - "[[Paraphrase Invariance Testing]]"
+  - '[[Prompt Brittleness]]'
+  - '[[Paraphrase Invariance Testing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Brittleness]]"
+  - '[[Prompt Brittleness]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Paraphrase Invariance Testing]]"
+  - '[[Paraphrase Invariance Testing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Equivalence Dimensions**
+> *Identify dimensions of variation in prompt design.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Content]
+>   B[Syntactic Structure]
+>   C[Surface Form]
+>   D[Discourse Organization]
+>   E[Pragmatic Implicature]
+>   A -->|Influences| F[Output Consistency]
+>   B -->|Influences| F
+>   C -->|Influences| F
+>   D -->|Influences| F
+>   E -->|Influences| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Semantic vs Syntactic Variations**
+> *Distinguish between semantic and syntactic variations.*
+>
+> ```mermaid
+> graph TD
+>   A[Semantic Variation]
+>   B[Syntactic Variation]
+>   C[Genuine Task Alteration]
+>   D[No Task Alteration]
+>   A -->|Genuine Task Alteration| C
+>   B -->|No Task Alteration| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Evaluation Process**
+> *Understand the process of evaluating semantic equivalence.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Tester as T
+>   U->>M: Semantically Equivalent Prompt A
+>   M-->>T: Output A
+>   U->>M: Semantically Equivalent Prompt B
+>   M-->>T: Output B
+>   T->>U: Compare Outputs for Consistency
+> ```
 
 # Semantic Equivalence in Prompts
 

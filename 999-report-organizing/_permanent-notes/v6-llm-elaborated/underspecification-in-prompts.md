@@ -1,15 +1,14 @@
 ---
-title: "Underspecification in Prompts"
+title: Underspecification in Prompts
 aliases:
-  - "Underspecification in Prompts"
-  - "ambiguous prompts"
-  - "underspecified task prompts"
-  - "prompt ambiguity"
-  - "prompt vagueness"
+  - Underspecification in Prompts
+  - ambiguous prompts
+  - underspecified task prompts
+  - prompt ambiguity
+  - prompt vagueness
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,111 @@ subdomains:
   - evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "underspecification-in-prompts-synthetic-seed-2026-05-22"
+  - underspecification-in-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Brittleness]]"
-  - "[[Semantic Equivalence in Prompts]]"
+  - '[[Prompt Brittleness]]'
+  - '[[Semantic Equivalence in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Brittleness]]"
+  - '[[Prompt Brittleness]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Semantic Equivalence in Prompts]]"
+  - '[[Semantic Equivalence in Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sources of Underspecification**
+> *Identify the different sources that lead to underspecified prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Unclear Scope]
+>   B[Missing Output Format]
+>   C[Audience Specifications]
+>   D[Vague Success Criteria]
+>   E[Undefined Knowledge Source Boundaries]
+>   A -->|Example: Summarize entire document or sections?|
+>   B -->|Example: Length and structure constraints missing|
+>   C -->|Example: Who is the intended audience?|
+>   D -->|Example: What defines success?|
+>   E -->|Example: Use only provided text or general knowledge?
+> ```
+
+
+> [!abstract] **Diagram 2 — Impact of Underspecification**
+> *Understand how underspecified prompts affect model behavior and output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Underspecified Prompt]
+>   B[Varying Interpretations]
+>   C[Different Behaviors Based on Training Data]
+>   D[Consistent Preferred Interpretation]
+>   E[Brittleness in Model Responses]
+>   F[Large Differences Due to Ambiguity]
+>   A -->|Example: Summary without specifying context|
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Key Distinctions in Prompt Design**
+> *Distinguish between underspecified and intentionally vague prompts.*
+>
+> ```mermaid
+> classDiagram
+>   class Underspecification{
+>     +Unintended Consequence of Poor Design
+>     +Leads to Variability and Task Failures
+>   }
+>   class IntentionalVagueness{
+>     +Deliberate Choice for Creativity
+>     +Encourages Innovation by Leaving Room for Interpretation
+>   }
+>   Underspecification -->|Example: Ambiguous Instructions|
+>   IntentionalVagueness -->|Example: Creative Writing Prompts|
+> ```
 
 # Underspecification in Prompts
 

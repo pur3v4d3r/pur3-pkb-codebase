@@ -1,14 +1,13 @@
 ---
-title: "Emergent Prompting Capability"
+title: Emergent Prompting Capability
 aliases:
-  - "Emergent Prompting Capability"
-  - "prompt-driven emergent capability"
-  - "emergent behaviour via prompting"
-  - "elicited emergence"
+  - Emergent Prompting Capability
+  - prompt-driven emergent capability
+  - emergent behaviour via prompting
+  - elicited emergence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,98 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "emergent-prompting-capability-synthetic-seed-2026-05-22"
+  - emergent-prompting-capability-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Scaling and Capability Emergence]]"
-  - "[[Latent Capability Unlocking]]"
+  - '[[Scaling and Capability Emergence]]'
+  - '[[Latent Capability Unlocking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Scaling and Capability Emergence]]"
+  - '[[Scaling and Capability Emergence]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Latent Capability Unlocking]]"
+  - '[[Latent Capability Unlocking]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Emergent Prompting Mechanism**
+> *Follow the flow from latent knowledge to revealed capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Latent Knowledge]
+>   B[Effective Prompt Structure]
+>   C[Revealed Capabilities]
+>   A -->|Guides Utilization| B
+>   B -->|Unlocks Latent Abilities| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Emergent vs Inflated Performance**
+> *Compare qualitative shifts with quantitative improvements.*
+>
+> ```mermaid
+> graph TD
+>   A[Qualitative Shifts]
+>   B[Quantitative Improvements]
+>   C[Evaluation Without Prompting]
+>   D[Evaluation With Prompting]
+>   A -->|Emergent Capability| D
+>   B -->|Performance Inflation| D
+>   C -->|Unprompted Evaluation| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify the three main applications of emergent prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Task-Specific Optimization]
+>   C[Benchmarking]
+>   A -->|Enhance Performance|
+>   B -->|Optimize Without Retraining|
+>   C -->|Accurate Benchmarking|
+> ```
 
 # Emergent Prompting Capability
 

@@ -1,14 +1,13 @@
 ---
-title: "Register and Tone Control"
+title: Register and Tone Control
 aliases:
-  - "Register and Tone Control"
-  - "style control in LLMs"
-  - "formal-informal tone calibration"
-  - "audience-appropriate language calibration"
+  - Register and Tone Control
+  - style control in LLMs
+  - formal-informal tone calibration
+  - audience-appropriate language calibration
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,78 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "register-and-tone-control-synthetic-seed-2026-05-22"
+  - register-and-tone-control-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Abstraction Level Control]]"
-  - "[[Verbosity Control in Prompts]]"
-  - "[[Audience Calibration]]"
+  - '[[Abstraction Level Control]]'
+  - '[[Verbosity Control in Prompts]]'
+  - '[[Audience Calibration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Abstraction Level Control]]"
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Abstraction Level Control]]'
+  - '[[Verbosity Control in Prompts]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Audience Calibration]]"
+  - '[[Audience Calibration]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Register and Tone Control Process Flow**
+> *Follow the flow from role specification to output style.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Role Specification] --> B[Activate Learned Norms]
+>   B --> C[Output Style]
+> ```
+
+
+> [!abstract] **Diagram 2 — Register and Tone Control Mechanism Overview**
+> *Compare role specification to direct stylistic instruction.*
+>
+> ```mermaid
+> graph TD
+>   A[Role Specification] -->|Activates Pre-learned Norms| C[Consistent Output]
+>   B[Direct Stylistic Instruction] -->|Requires Inference| D[Inconsistent Output]
+> ```
 
 # Register and Tone Control
 

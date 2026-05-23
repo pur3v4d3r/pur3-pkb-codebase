@@ -1,14 +1,13 @@
 ---
-title: "Few-Shot Emergent Generalisation"
+title: Few-Shot Emergent Generalisation
 aliases:
-  - "Few-Shot Emergent Generalisation"
-  - "few-shot generalisation threshold"
-  - "in-context learning emergence"
-  - "few-shot capability emergence"
+  - Few-Shot Emergent Generalisation
+  - few-shot generalisation threshold
+  - in-context learning emergence
+  - few-shot capability emergence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,93 @@ subdomains:
   - generalisation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "few-shot-emergent-generalisation-synthetic-seed-2026-05-22"
+  - few-shot-emergent-generalisation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[In-Context Learning]]"
-  - "[[Zero-Shot Generalisation]]"
-  - "[[Task-Generalisation-in-LLMs]]"
+  - '[[In-Context Learning]]'
+  - '[[Zero-Shot Generalisation]]'
+  - '[[Task-Generalisation-in-LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[In-Context Learning]]"
+  - '[[In-Context Learning]]'
 contrasts-with:
-  - "[[Zero-Shot Generalisation]]"
+  - '[[Zero-Shot Generalisation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Task-Generalisation-in-LLMs]]"
+  - '[[Task-Generalisation-in-LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Few-Shot Emergent Generalisation Process**
+> *Follow the flow from examples to rule induction and application.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Examples] --> B[Rules]
+>   B --> C[New Inputs]
+>   C --> D[Generalisation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Few-Shot Learning and Zero-Shot Generalisation**
+> *Compare the differences in how each method handles task completion.*
+>
+> ```mermaid
+> graph TD
+>   A[Few-Shot Emergent Gen]
+>   B[Few-Shot Learning]
+>   C[Zero-Shot Generalisation]
+>   A -->|Infer Rules from Examples| D[Apply to New Inputs]
+>   B -->|Find Similar Training Instances| E[Solve with Analogies]
+>   C -->|No Demonstrations| F[Complete Task]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Few-Shot Emergent Generalisation**
+> *Identify the applications in instructional design, task complexity, and real-world deployment.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Efficient Protocols| B[High-Quality Examples]
+>   C[Task Complexity] -->|Abstract Reasoning| D[Limited Examples]
+>   E[Real-World Deployment] -->|Robustness Testing| F[Complex Environments]
+> ```
 
 # Few-Shot Emergent Generalisation
 

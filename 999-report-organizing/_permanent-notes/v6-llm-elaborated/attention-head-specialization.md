@@ -1,14 +1,13 @@
 ---
-title: "Attention Head Specialization"
+title: Attention Head Specialization
 aliases:
-  - "Attention Head Specialization"
-  - "head function specialization"
-  - "attention head roles"
-  - "transformer head diversity"
+  - Attention Head Specialization
+  - head function specialization
+  - attention head roles
+  - transformer head diversity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - natural-language-processing
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "attention-head-specialization-synthetic-seed-2026-05-22"
+  - attention-head-specialization-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Multi-head Attention Mechanics]]"
-  - "[[Mechanistic Interpretability]]"
+  - '[[Multi-head Attention Mechanics]]'
+  - '[[Mechanistic Interpretability]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Multi-head Attention Mechanics]]"
+  - '[[Multi-head Attention Mechanics]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Mechanistic Interpretability]]"
+  - '[[Mechanistic Interpretability]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Head Specialization Overview**
+> *Identify the distinct functions each head specializes in.*
+>
+> ```mermaid
+> graph TD
+>   A[Syntactic Dependencies] --> B1[Head 1]
+>   C[Positional Contexts] --> B2[Head 2]
+>   D[Semantic Associations] --> B3[Head 3]
+> ```
+
+
+> [!abstract] **Diagram 2 — Model Size vs Specialization**
+> *Observe how specialization increases with model size.*
+>
+> ```mermaid
+> flowchart LR
+>   A1[Small Model] --> C1[Less Distinct]
+>   B1[Medium Model] --> C2[More Distinct]
+>   D1[Larger Model] --> C3[Highly Specialized]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application in Design and Interpretability**
+> *See how specialization informs model design and interpretability efforts.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Designer as D
+>   participant Interpreter as I
+>   D->>I: Focus on specialized heads for specific functions
+>   I-->>D: Enhance understanding of model decisions
+> ```
 
 # Attention Head Specialization
 

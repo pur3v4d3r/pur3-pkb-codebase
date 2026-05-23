@@ -1,14 +1,13 @@
 ---
-title: "Conversational Context Compression"
+title: Conversational Context Compression
 aliases:
-  - "Conversational Context Compression"
-  - "dialogue context compression"
-  - "conversation history compression"
-  - "context distillation for dialogue"
+  - Conversational Context Compression
+  - dialogue context compression
+  - conversation history compression
+  - context distillation for dialogue
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,113 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "conversational-context-compression-synthetic-seed-2026-05-22"
+  - conversational-context-compression-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Conversation Summarization Prompts]]"
-  - "[[Multi-Turn Conversation Management]]"
+  - '[[Conversation Summarization Prompts]]'
+  - '[[Multi-Turn Conversation Management]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Conversation Summarization Prompts]]"
+  - '[[Conversation Summarization Prompts]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multi-Turn Conversation Management]]"
+  - '[[Multi-Turn Conversation Management]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conversational Context Compression Techniques**
+> *Identify the different techniques used for compression.*
+>
+> ```mermaid
+> graph TD
+>   A[Abstractive Summarization]
+>   B[Belief-State Extraction]
+>   C[Retrieval-Based Inclusion]
+>   D[Event-Level Reduction]
+>   E[Hierarchical Summarization]
+>   A -->|Succinct Summary| F[Essence Preservation]
+>   B -->|Structured Format| G[Tasks Relevant Info]
+>   C -->|Highly Relevant Turns| H[Focused Context]
+>   D -->|Key Information Contribution| I[Sentence Condensation]
+>   E -->|Multi-Level Summaries| J[Different Granularities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Conversational Context Compression Mechanism Flow**
+> *Follow the flow of information from input to output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Dialogue History]
+>   B[Identify Key Information]
+>   C[Succinct Representation]
+>   D[Preserve Essential Context]
+>   E[Generate Compressed Summary]
+>   F[Output]
+>   A -->|Input| B
+>   B -->|Process| C
+>   C -->|Maintain Coherence| D
+>   D -->|Compress Information| E
+>   E -->|Output| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Conversational Context Compression Applications**
+> *See the applications of compression in different scenarios.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Customer Service Chatbots]
+>   C[Complex Queries Handling]
+>   D[Personalized Feedback]
+>   E[User Progress Tracking]
+>   F[Efficent Problem Resolution]
+>   G[Improved User Satisfaction]
+>   A -->|Detailed Interactions| D
+>   A -->|Learning Points Retention| E
+>   B -->|Coherent Understanding| C
+>   B -->|Effective Resolution| F
+>   B -->|User Preferences| G
+> ```
 
 # Conversational Context Compression
 

@@ -1,15 +1,14 @@
 ---
-title: "Human vs. LLM Evaluation Agreement"
+title: Human vs. LLM Evaluation Agreement
 aliases:
-  - "Human vs. LLM Evaluation Agreement"
-  - "Human vs. LLM Eval Agreement"
-  - "LLM-as-judge vs. human comparison"
-  - "automated vs. human evaluation correlation"
-  - "evaluator agreement"
+  - Human vs. LLM Evaluation Agreement
+  - Human vs. LLM Eval Agreement
+  - LLM-as-judge vs. human comparison
+  - automated vs. human evaluation correlation
+  - evaluator agreement
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,104 @@ subdomains:
   - automatic-evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "human-vs-llm-eval-agreement-synthetic-seed-2026-05-22"
+  - human-vs-llm-eval-agreement-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Inter-annotator Agreement in Evaluations]]"
-  - "[[LLM Evaluator Bias]]"
+  - '[[Inter-annotator Agreement in Evaluations]]'
+  - '[[LLM Evaluator Bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Inter-annotator Agreement in Evaluations]]"
+  - '[[Inter-annotator Agreement in Evaluations]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM Evaluator Bias]]"
+  - '[[LLM Evaluator Bias]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Human vs LLM Agreement Process**
+> *Follow the steps from data collection to agreement measurement.*
+>
+> ```mermaid
+> graph TD
+>   A[Collect Model Outputs]
+>   B[Annotate with Humans]
+>   C[Evaluate with LLMs]
+>   D[Compare Judgments]
+>   E[Measure Agreement]
+>   A --> B
+>   A --> C
+>   B --> D
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Agreement Metrics Comparison**
+> *Compare different metrics used to measure agreement.*
+>
+> ```mermaid
+> graph TD
+>   A[Spearman Correlation]
+>   B[Cohen's Kappa]
+>   C[Other Statistical Measures]
+>   D[Human vs LLM Agreement]
+>   A -->|Example| D
+>   B -->|Example| D
+>   C -->|Example| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation Scenarios Breakdown**
+> *Identify scenarios where human and LLM agreement differs.*
+>
+> ```mermaid
+> graph TD
+>   A[Obvious Quality Differences]
+>   B[Fine-Grained Distinctions]
+>   C[Safety-Adjacent Content]
+>   D[Human vs LLM Agreement]
+>   A -->|High Agreement| D
+>   B -->|Low Agreement| D
+>   C -->|Divergence| D
+> ```
 
 # Human vs. LLM Evaluation Agreement
 

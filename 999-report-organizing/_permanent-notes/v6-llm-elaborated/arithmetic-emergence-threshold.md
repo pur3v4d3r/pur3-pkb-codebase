@@ -1,14 +1,13 @@
 ---
-title: "Arithmetic Emergence Threshold"
+title: Arithmetic Emergence Threshold
 aliases:
-  - "Arithmetic Emergence Threshold"
-  - "arithmetic capability threshold"
-  - "numerical reasoning emergence"
-  - "math emergence in LLMs"
+  - Arithmetic Emergence Threshold
+  - arithmetic capability threshold
+  - numerical reasoning emergence
+  - math emergence in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,125 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "arithmetic-emergence-threshold-synthetic-seed-2026-05-22"
+  - arithmetic-emergence-threshold-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Scaling and Capability Emergence"
-
+parent-concept: Scaling and Capability Emergence
 related:
-  - "[[Scaling Laws]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Scaling Laws]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Scaling Laws]]"
+  - '[[Scaling Laws]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Arithmetic Emergence Threshold Overview**
+> *Identify the transition from unreliable to reliable performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Small Scale]
+>   B[Large Scale]
+>   A -->|Unreliable Performance|
+>   B -->|Reliable Performance|
+>   C[Numerical Reasoning]
+>   D[Complex Arithmetic Tasks]
+>   E[Simpler Arithmetic Tasks]
+>   F[Chain-of-Thought Prompting]
+>   G[Tool-Augmented Approaches]
+>   A --> C
+>   B --> C
+>   B --> D
+>   B --> E
+>   B --> F
+>   B --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Complexity and Prompting Techniques**
+> *Understand the impact of task complexity and prompting methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple Arithmetic]
+>   B[Multi-Digit Operations]
+>   C[Modular Arithmetic]
+>   D[Chain-of-Thought]
+>   E[Tool-Augmented]
+>   F[Numerical Reasoning]
+>   G[Reliable Performance]
+>   H[Unreliable Performance]
+>   A -->|Low Scale|
+>   B -->|High Scale|
+>   C -->|Very High Scale|
+>   D --> F
+>   E --> F
+>   A -->|D| G
+>   B -->|E| G
+>   C -->|F| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompting Strategies and Number Representations**
+> *Explore the effectiveness of different prompting strategies.*
+>
+> ```mermaid
+> graph TD
+>   A[Arabic Numerals]
+>   B[Word-Form Numbers]
+>   C[Roman Numerals]
+>   D[Chain-of-Thought]
+>   E[Tool-Augmented]
+>   F[Numerical Reasoning]
+>   G[Robust Performance]
+>   H[Vulnerable Performance]
+>   A -->|D| F
+>   B -->|E| F
+>   C -->|F| G
+>   A -->|E| H
+>   B -->|D| H
+>   C -->|D| H
+> ```
 
 # Arithmetic Emergence Threshold
 

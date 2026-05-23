@@ -1,14 +1,13 @@
 ---
-title: "Factual Association Mechanisms"
+title: Factual Association Mechanisms
 aliases:
-  - "Factual Association Mechanisms"
-  - "factual recall mechanisms in LLMs"
-  - "how LLMs store facts"
-  - "transformer fact retrieval"
+  - Factual Association Mechanisms
+  - factual recall mechanisms in LLMs
+  - how LLMs store facts
+  - transformer fact retrieval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,93 @@ subdomains:
   - knowledge-representation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "factual-association-mechanisms-synthetic-seed-2026-05-22"
+  - factual-association-mechanisms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Knowledge Localization in FFN]]"
-  - "[[Causal Tracing in Transformers]]"
+  - '[[Knowledge Localization in FFN]]'
+  - '[[Causal Tracing in Transformers]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Knowledge Localization in FFN]]"
+  - '[[Knowledge Localization in FFN]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Causal Tracing in Transformers]]"
+  - '[[Causal Tracing in Transformers]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Two-stage retrieval pattern**
+> *Follow the flow from subject token processing to final factual completion.*
+>
+> ```mermaid
+> graph TD
+>   A[Subject Tokens] --> B[Middle-layer MLP]
+>   B --> C[Late-position Attention Heads]
+>   C --> D[Factual Completion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Factual retrieval components**
+> *Identify the key layers and heads involved in factual recall.*
+>
+> ```mermaid
+> graph TD
+>   A[Query] --> B[Middle-layer MLP]
+>   B --> C[Late-position Attention Heads]
+>   C --> D[Factual Completion]
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional design example**
+> *See how prompts can be designed to align with model retrieval patterns.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Prompt as P
+>   U->>P: Design prompt for factual recall
+>   P->>M: Input enriched subject tokens
+>   M->>M: Process through MLP and attention heads
+>   M-->>U: Generate accurate response
+> ```
 
 # Factual Association Mechanisms
 

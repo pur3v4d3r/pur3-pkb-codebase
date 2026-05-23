@@ -1,14 +1,13 @@
 ---
-title: "Causal Tracing in Transformers"
+title: Causal Tracing in Transformers
 aliases:
-  - "Causal Tracing in Transformers"
-  - "causal mediation analysis in LLMs"
-  - "activation patching for causal tracing"
-  - "causal scrubbing"
+  - Causal Tracing in Transformers
+  - causal mediation analysis in LLMs
+  - activation patching for causal tracing
+  - causal scrubbing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,94 @@ subdomains:
   - causal-inference
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "causal-tracing-in-transformers-synthetic-seed-2026-05-22"
+  - causal-tracing-in-transformers-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Attention Knockout Analysis]]"
-  - "[[Path Patching Methodology]]"
+  - '[[Attention Knockout Analysis]]'
+  - '[[Path Patching Methodology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Attention Knockout Analysis]]"
-  - "[[Path Patching Methodology]]"
+  - '[[Attention Knockout Analysis]]'
+  - '[[Path Patching Methodology]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Causal Tracing Process Flow**
+> *Follow the steps from clean prompt to activation patching.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Clean Prompt] --> B[Record Activations]
+>   B --> C[Corrupted Forward Pass]
+>   C --> D[Patch Clean Activations]
+>   D --> E[Test Behavior Recovery]
+> ```
+
+
+> [!abstract] **Diagram 2 — Activation Patching Granularity**
+> *Identify the different levels at which activation patching can be applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Level] --> B[Layer Level]
+>   C[Component Level] --> D[System Level]
+> ```
+
+
+> [!abstract] **Diagram 3 — Causal Tracing vs Other Methods**
+> *Compare causal tracing with attention knockout and path patching.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant CT as Causal Tracing
+>   participant AK as Attention Knockout
+>   participant PP as Path Patching
+>   CT->>AK: Replaces activations
+>   CT->>PP: Isolates component effects
+>   AK-->>CT: Alters attention heads
+>   PP-->>CT: Manipulates information flow
+> ```
 
 # Causal Tracing in Transformers
 

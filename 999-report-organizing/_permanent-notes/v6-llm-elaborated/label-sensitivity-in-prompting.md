@@ -1,14 +1,13 @@
 ---
-title: "Label Sensitivity in Prompting"
+title: Label Sensitivity in Prompting
 aliases:
-  - "Label Sensitivity in Prompting"
-  - "label bias in prompting"
-  - "demo label effects"
-  - "in-context label sensitivity"
+  - Label Sensitivity in Prompting
+  - label bias in prompting
+  - demo label effects
+  - in-context label sensitivity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,90 @@ subdomains:
   - evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "label-sensitivity-in-prompting-synthetic-seed-2026-05-22"
+  - label-sensitivity-in-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Order Sensitivity in Few-Shot Learning]]"
-  - "[[Surface Form Competition]]"
-  - "[[Prompt Calibration Techniques]]"
+  - '[[Order Sensitivity in Few-Shot Learning]]'
+  - '[[Surface Form Competition]]'
+  - '[[Prompt Calibration Techniques]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Order Sensitivity in Few-Shot Learning]]"
-  - "[[Surface Form Competition]]"
+  - '[[Order Sensitivity in Few-Shot Learning]]'
+  - '[[Surface Form Competition]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Prompt Calibration Techniques]]"
+  - '[[Prompt Calibration Techniques]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Label Sensitivity Process Flow**
+> *Follow the flow from input to output, noting label influence.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Model]
+>   B --> C[Output]
+>   D[Labels] -->|Influence| B
+> ```
+
+
+> [!abstract] **Diagram 2 — Label Sensitivity vs Input-Output Bias**
+> *Compare the two types of biases and their impacts on model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Input] --> B[Model]
+>   C[Labels] -->|Sensitivity| B
+>   D[Mapping] -->|Bias| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Label Frequency Impact**
+> *Observe how different label frequencies affect model predictions.*
+>
+> ```mermaid
+> graph TD
+>   A[Frequent Labels] -->|High Bias| C[Model Output]
+>   B[Rare Labels] -->|Low Bias| C
+> ```
 
 # Label Sensitivity in Prompting
 

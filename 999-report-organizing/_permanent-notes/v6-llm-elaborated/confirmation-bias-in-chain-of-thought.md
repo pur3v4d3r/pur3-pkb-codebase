@@ -1,14 +1,13 @@
 ---
-title: "Confirmation Bias in Chain of Thought"
+title: Confirmation Bias in Chain of Thought
 aliases:
-  - "Confirmation Bias in Chain of Thought"
-  - "motivated reasoning in CoT"
-  - "biased chain-of-thought"
-  - "selective evidence weighting in LLMs"
+  - Confirmation Bias in Chain of Thought
+  - motivated reasoning in CoT
+  - biased chain-of-thought
+  - selective evidence weighting in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,78 @@ subdomains:
   - ai-safety
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "confirmation-bias-in-chain-of-thought-synthetic-seed-2026-05-22"
+  - confirmation-bias-in-chain-of-thought-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias"
-
+parent-concept: Cognitive Bias
 related:
-  - "[[Confirmation Bias]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Confirmation Bias]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Confirmation Bias]]"
+  - '[[Confirmation Bias]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Confirmation Bias Process Flow**
+> *Follow the steps from initial premise to biased conclusion.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Premise] --> B[Evidence Selection]
+>   B --> C[Chain Generation]
+>   C --> D[Biased Conclusion]
+> ```
+
+
+> [!abstract] **Diagram 2 — Mechanism of Chain-of-Thought Bias**
+> *Trace the stages from premise to biased reasoning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Premise] --> B[Evidence]
+>   B --> C[Supporting Arguments]
+>   C --> D[Biased Conclusion]
+> ```
 
 # Confirmation Bias in Chain of Thought
 

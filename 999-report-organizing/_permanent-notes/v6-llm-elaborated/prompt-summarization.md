@@ -1,14 +1,13 @@
 ---
-title: "Prompt Summarization"
+title: Prompt Summarization
 aliases:
-  - "Prompt Summarization"
-  - "in-context summarisation for prompts"
-  - "context-window summarisation"
-  - "prompt-level summarisation"
+  - Prompt Summarization
+  - in-context summarisation for prompts
+  - context-window summarisation
+  - prompt-level summarisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,97 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-summarization-synthetic-seed-2026-05-22"
+  - prompt-summarization-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Compressive Context Management]]"
-  - "[[Abstractive Context Compression]]"
+  - '[[Compressive Context Management]]'
+  - '[[Abstractive Context Compression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Compressive Context Management]]"
-  - "[[Abstractive Context Compression]]"
+  - '[[Compressive Context Management]]'
+  - '[[Abstractive Context Compression]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Summarization Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Pre-summarization Pass]
+>   B --> C[Tailored Summary Generation]
+>   C --> D[Task-specific Compression]
+>   D --> E[Output Concise Prompt]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Summaries**
+> *Compare task-aware and generic summaries for compression ratios.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Aware Summary] -->|High Compression Ratio| B[Retain Task-Relevant Info]
+>   C[Generic Summary] -->|Balanced Coverage| D[May Omit Critical Details]
+> ```
+
+
+> [!abstract] **Diagram 3 — Multi-turn Interaction Context**
+> *Track context compression and potential error accumulation over turns.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Summary as S1
+>   participant Summary as S2
+>   U->>M: Turn 1 Input
+>   M-->>S1: Generate Summary
+>   S1-->>U: Compressed Context
+>   U->>M: Turn 2 Input
+>   M-->>S2: Update Summary
+>   S2-->>U: New Compressed Context
+> ```
 
 # Prompt Summarization
 

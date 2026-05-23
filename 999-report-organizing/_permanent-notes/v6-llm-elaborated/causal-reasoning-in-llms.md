@@ -1,14 +1,13 @@
 ---
-title: "Causal Reasoning in LLMs"
+title: Causal Reasoning in LLMs
 aliases:
-  - "Causal Reasoning in LLMs"
-  - "causal inference in LLMs"
-  - "cause-and-effect reasoning in language models"
-  - "causal understanding in LLMs"
+  - Causal Reasoning in LLMs
+  - causal inference in LLMs
+  - cause-and-effect reasoning in language models
+  - causal understanding in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,90 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "causal-reasoning-in-llms-synthetic-seed-2026-05-22"
+  - causal-reasoning-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reasoning in Language Models"
-
+parent-concept: Reasoning in Language Models
 related:
-  - "[[Temporal Reasoning in LLMs]]"
-  - "[[Abductive Reasoning in LLMs]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Temporal Reasoning in LLMs]]'
+  - '[[Abductive Reasoning in LLMs]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Temporal Reasoning in LLMs]]"
-  - "[[Abductive Reasoning in LLMs]]"
+  - '[[Temporal Reasoning in LLMs]]'
+  - '[[Abductive Reasoning in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Causal Reasoning Process Flow**
+> *Follow the steps from pattern recognition to causal inference.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Pattern Recognition] --> B[Linguistic Cues]
+>   B --> C[Causal Inference]
+>   C --> D[Predictions]
+> ```
+
+
+> [!abstract] **Diagram 2 — Correlation vs Causation in LLMs**
+> *Compare the distinctions between correlation and causation.*
+>
+> ```mermaid
+> graph TD
+>   A[Correlation] -->|Observed Together| B[Lack of Direct Influence]
+>   C[Causation] -->|Direct Influence| D[Underlying Structural Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Limitations in Decision-making**
+> *Identify how LLMs can lead to flawed strategic planning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[LLM Prediction] --> B[Confusion Between Correlation and Causation]
+>   B --> C[Ineffective Strategies]
+>   C --> D[Misguided Recommendations]
+> ```
 
 # Causal Reasoning in LLMs
 

@@ -1,14 +1,13 @@
 ---
-title: "Specificity vs Generality Tradeoff"
+title: Specificity vs Generality Tradeoff
 aliases:
-  - "Specificity vs Generality Tradeoff"
-  - "abstraction-specificity balance in LLMs"
-  - "level-of-detail control"
-  - "granularity calibration in outputs"
+  - Specificity vs Generality Tradeoff
+  - abstraction-specificity balance in LLMs
+  - level-of-detail control
+  - granularity calibration in outputs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,115 @@ subdomains:
   - information-theory
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "specificity-vs-generality-tradeoff-synthetic-seed-2026-05-22"
+  - specificity-vs-generality-tradeoff-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Natural Language Generation"
-
+parent-concept: Natural Language Generation
 related:
-  - "[[Abstraction Level Control]]"
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Abstraction Level Control]]'
+  - '[[Verbosity Control in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Abstraction Level Control]]"
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Abstraction Level Control]]'
+  - '[[Verbosity Control in Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Specificity vs Generality Tradeoff Overview**
+> *Identify the balance between specific and general outputs.*
+>
+> ```mermaid
+> graph TD
+>   A[Novice]
+>   B[Expert]
+>   C[Moderate General]
+>   D[High Specific]
+>   E[High General]
+>   F[Low Specific]
+>   A -->|Needs More General| C
+>   B -->|Needs More Specific| D
+>   C -->|Default Output| E
+>   C -->|Default Output| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Cognitive Load Theory Influence**
+> *Understand how cognitive load theory affects specificity and generality.*
+>
+> ```mermaid
+> graph TD
+>   A[Intrinsic Load]
+>   B[Extraneous Load]
+>   C[Cognitive Load Theory]
+>   D[Specificity]
+>   E[Generality]
+>   F[Effective Communication]
+>   A -->|Task Complexity| C
+>   B -->|Poor Design| C
+>   C -->|Balanced Specificity| D
+>   C -->|Balanced Generality| E
+>   D -->|Detailed Responses| F
+>   E -->|Broadly Applicable| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications in Design**
+> *See how specificity and generality apply to instructional design.*
+>
+> ```mermaid
+> graph TD
+>   A[Detailed Explanations]
+>   B[Broad Frameworks]
+>   C[Instructional Design]
+>   D[Novices]
+>   E[Experts]
+>   F[Effective Learning]
+>   A -->|Technical Details| D
+>   B -->|Conceptual Overview| E
+>   C -->|Balanced Approach| A
+>   C -->|Balanced Approach| B
+>   D -->|Novice Needs| F
+>   E -->|Expert Needs| F
+> ```
 
 # Specificity vs Generality Tradeoff
 

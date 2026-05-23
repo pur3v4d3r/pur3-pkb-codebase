@@ -1,14 +1,13 @@
 ---
-title: "Deduplication Effects on Training"
+title: Deduplication Effects on Training
 aliases:
-  - "Deduplication Effects on Training"
-  - "training data deduplication"
-  - "corpus deduplication effects"
-  - "near-deduplication impact on LLMs"
+  - Deduplication Effects on Training
+  - training data deduplication
+  - corpus deduplication effects
+  - near-deduplication impact on LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - machine-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "deduplication-effects-on-training-synthetic-seed-2026-05-22"
+  - deduplication-effects-on-training-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning"
-
+parent-concept: Machine Learning
 related:
-  - "[[Memorization vs Generalization]]"
-  - "[[Pretraining Data Influence]]"
+  - '[[Memorization vs Generalization]]'
+  - '[[Pretraining Data Influence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Memorization vs Generalization]]"
+  - '[[Memorization vs Generalization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Pretraining Data Influence]]"
+  - '[[Pretraining Data Influence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Deduplication Impact on Memorization**
+> *Follow the arrows to see how deduplication affects memorization rates.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High Duplication] --> B[Memorization]
+>   C[Moderate Deduplication] --> D[Generalization]
+>   E[Excessive Deduplication] --> F[Diversity Loss]
+> ```
+
+
+> [!abstract] **Diagram 2 — Deduplication Mechanism Overview**
+> *Trace the flow to understand how different deduplication methods impact training data.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Exact Deduplication]
+>   C[Near-Deduplication] --> D[Semantic Deduplication]
+>   E[Reduced Redundancy] --> F[Diverse Training Examples]
+> ```
+
+
+> [!abstract] **Diagram 3 — Deduplication vs Generalization Tradeoff**
+> *Observe the balance between deduplication and generalization to understand optimal thresholds.*
+>
+> ```mermaid
+> graph TD
+>   A[Low Deduplication] --> B[High Memorization]
+>   C[Moderate Deduplication] --> D[Balanced Generalization]
+>   E[High Deduplication] --> F[Diversity Loss]
+> ```
 
 # Deduplication Effects on Training
 

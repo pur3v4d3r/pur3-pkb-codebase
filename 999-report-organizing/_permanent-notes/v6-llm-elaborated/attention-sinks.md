@@ -1,14 +1,13 @@
 ---
-title: "Attention Sinks"
+title: Attention Sinks
 aliases:
-  - "Attention Sinks"
-  - "attention sink tokens"
-  - "initial token attention concentration"
-  - "sink tokens in transformers"
+  - Attention Sinks
+  - attention sink tokens
+  - initial token attention concentration
+  - sink tokens in transformers
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,89 @@ subdomains:
   - context-length
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "attention-sinks-synthetic-seed-2026-05-22"
+  - attention-sinks-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Sliding Window Attention]]"
-  - "[[Streaming LLM Architecture]]"
+  - '[[Sliding Window Attention]]'
+  - '[[Streaming LLM Architecture]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Sliding Window Attention]]"
+  - '[[Sliding Window Attention]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Streaming LLM Architecture]]"
+  - '[[Streaming LLM Architecture]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Sink Mechanism**
+> *Follow the flow from input to sink formation.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence]
+>   B[Softmax Normalization]
+>   C[Excess Probability Mass]
+>   D[Sink Tokens]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Sink Implications**
+> *Identify the impact on context window and model performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Context Window]
+>   B[KV-Cache Strategies]
+>   C[Model Performance]
+>   D[Catastrophic Collapse]
+>   E[Flawed Optimizations]
+>   F[Poor Efficiency]
+>   A -->|Evict Sink Tokens| D
+>   B -->|Preserve Stable Distribution| C
+>   C -->|Ignore Sinks| E
+>   E -->|Degradation| F
+> ```
 
 # Attention Sinks
 

@@ -1,14 +1,13 @@
 ---
-title: "Adversarial Benchmark Construction"
+title: Adversarial Benchmark Construction
 aliases:
-  - "Adversarial Benchmark Construction"
-  - "adversarial evaluation design"
-  - "targeted failure benchmark"
-  - "challenge dataset construction"
+  - Adversarial Benchmark Construction
+  - adversarial evaluation design
+  - targeted failure benchmark
+  - challenge dataset construction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,88 @@ subdomains:
   - red-teaming
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "adversarial-benchmark-construction-synthetic-seed-2026-05-22"
+  - adversarial-benchmark-construction-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Dynamic Benchmarking]]"
-  - "[[Benchmark Contamination]]"
+  - '[[Dynamic Benchmarking]]'
+  - '[[Benchmark Contamination]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Dynamic Benchmarking]]"
+  - '[[Dynamic Benchmarking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Benchmark Contamination]]"
+  - '[[Benchmark Contamination]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adversarial Benchmark Process Flow**
+> *Follow the steps from human annotation to model testing.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human Annotation] --> B[Anotated Cases]
+>   B --> C[Construct Tasks]
+>   C --> D[Test Models]
+>   D --> E[Identify Weaknesses]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adversarial vs Standard Benchmarking**
+> *Compare the focus of adversarial and standard benchmarking.*
+>
+> ```mermaid
+> graph TD
+>   A[Standard Benchmarking] -->|General Assessment| B[Model Capabilities]
+>   C[Adversarial Benchmarking] -->|Target Weaknesses| D[Specific Failures]
+> ```
+
+
+> [!abstract] **Diagram 3 — Adversarial vs Dynamic Benchmarking**
+> *Compare the focus of adversarial and dynamic benchmarking.*
+>
+> ```mermaid
+> graph TD
+>   A[Dynamic Benchmarking] -->|Evolving Capabilities| B[Broad Assessment]
+>   C[Adversarial Benchmarking] -->|Target Weaknesses| D[Specific Vulnerabilities]
+> ```
 
 # Adversarial Benchmark Construction
 

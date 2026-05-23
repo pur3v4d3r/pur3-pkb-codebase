@@ -1,15 +1,14 @@
 ---
-title: "Abductive Reasoning in Large Language Models"
+title: Abductive Reasoning in Large Language Models
 aliases:
-  - "Abductive Reasoning in Large Language Models"
-  - "Abductive Reasoning in LLMs"
-  - "inference to best explanation in LLMs"
-  - "hypothesis generation in LLMs"
-  - "abductive inference prompting"
+  - Abductive Reasoning in Large Language Models
+  - Abductive Reasoning in LLMs
+  - inference to best explanation in LLMs
+  - hypothesis generation in LLMs
+  - abductive inference prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,91 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "abductive-reasoning-in-llms-synthetic-seed-2026-05-22"
+  - abductive-reasoning-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reasoning in Large Language Models"
-
+parent-concept: Reasoning in Large Language Models
 related:
-  - "[[Deductive Reasoning Chains]]"
-  - "[[Inductive Reasoning in LLMs]]"
+  - '[[Deductive Reasoning Chains]]'
+  - '[[Inductive Reasoning in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Deductive Reasoning Chains]]"
-  - "[[Inductive Reasoning in LLMs]]"
+  - '[[Deductive Reasoning Chains]]'
+  - '[[Inductive Reasoning in LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abductive Reasoning Process Flow**
+> *Follow the flow from evidence to plausible explanation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observations] --> B[Hypotheses]
+>   B --> C[Evaluation]
+>   C --> D[Plausible Explanation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Abductive vs Deductive Reasoning Comparison**
+> *Compare the paths from premises to conclusions.*
+>
+> ```mermaid
+> graph TD
+>   A[Premises] --> B[Deduction]
+>   C[Evidence] --> D[Abduction]
+>   B --> E[Conclusions]
+>   D --> F[Hypotheses]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Abductive Reasoning Mechanism**
+> *Trace the steps from evidence to ranked hypotheses.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Observed Data] --> B[Hypothesis Generation]
+>   B --> C[Evaluation Against Training Data]
+>   C --> D[Ranking Hypotheses]
+> ```
 
 # Abductive Reasoning in Large Language Models
 

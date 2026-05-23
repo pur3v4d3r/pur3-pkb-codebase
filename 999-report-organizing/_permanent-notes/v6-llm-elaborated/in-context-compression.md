@@ -1,14 +1,13 @@
 ---
-title: "In-Context Compression"
+title: In-Context Compression
 aliases:
-  - "In-Context Compression"
-  - "soft prompt compression"
-  - "context token compression"
-  - "learned context compression"
+  - In-Context Compression
+  - soft prompt compression
+  - context token compression
+  - learned context compression
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,101 @@ subdomains:
   - representation-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "in-context-compression-synthetic-seed-2026-05-22"
+  - in-context-compression-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Token-Efficient Prompting]]"
-  - "[[Prompt Distillation]]"
+  - '[[Token-Efficient Prompting]]'
+  - '[[Prompt Distillation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Token-Efficient Prompting]]"
+  - '[[Token-Efficient Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prompt Distillation]]"
+  - '[[Prompt Distillation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — In-Context Compression Process Flow**
+> *Follow the flow from context analysis to generation task.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[Analysis]
+>   B --> C[Learned/Extractive]
+>   subgraph LearnedCompression
+>     D[Train Model]
+>     E[Generate Summary]
+>   end
+>   subgraph ExtractiveApproach
+>     F[Select Tokens]
+>   end
+>   C -->|Learned| D
+>   D --> E
+>   C -->|Extractive| F
+>   E --> G[Prefix for Generation]
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Compression Methods Comparison**
+> *Compare learned and extractive methods in terms of compression ratio and performance.*
+>
+> ```mermaid
+> graph TD
+>   A[Learned Compression] -->|High Ratio| B[Good Performance]
+>   C[Extractive Approach] -->|Lower Ratio| D[Adequate Performance]
+> ```
+
+
+> [!abstract] **Diagram 3 — In-Context Compression Workflow**
+> *Trace the workflow from context to compressed representation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Original Context] --> B[Analysis]
+>   B --> C[Token Selection]
+>   C --> D[Compression Model]
+>   D --> E[Compact Representation]
+>   E --> F[Prefix for Generation]
+> ```
 
 # In-Context Compression
 

@@ -1,14 +1,13 @@
 ---
-title: "Multi-Turn Conversation Management"
+title: Multi-Turn Conversation Management
 aliases:
-  - "Multi-Turn Conversation Management"
-  - "multi-turn dialogue management"
-  - "conversation state management"
-  - "LLM conversation orchestration"
+  - Multi-Turn Conversation Management
+  - multi-turn dialogue management
+  - conversation state management
+  - LLM conversation orchestration
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,106 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "multi-turn-conversation-management-synthetic-seed-2026-05-22"
+  - multi-turn-conversation-management-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Context Window Management]]"
-  - "[[Dialogue State Tracking]]"
+  - '[[Context Window Management]]'
+  - '[[Dialogue State Tracking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Context Window Management]]"
-  - "[[Dialogue State Tracking]]"
+  - '[[Context Window Management]]'
+  - '[[Dialogue State Tracking]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Context Window Management Flow**
+> *Follow the flow to understand how context is managed over turns.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Collect Input]
+>   B --> C[Evaluate Relevance]
+>   C -->|Relevant| D[Store in Context Window]
+>   C -->|Irrelevant| E[Discard]
+>   D --> F[Check Window Size]
+>   F -->|Full| G[Truncate History]
+>   F -->|Not Full| H[Continue Conversation]
+>   G --> H
+>   H --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Structured State Representation**
+> *Identify the components of a structured state representation.*
+>
+> ```mermaid
+> graph TD
+>   A[Recent Context] --> B[Prioritized Information]
+>   C[Role-Based Compression] --> D[Selective Truncation]
+>   E[Explicit State Extraction] --> F[Efficient Flow]
+>   B -->|Example: Last Turn| G[User Query]
+>   D -->|Example: Remove Old Queries| H[Optimized Context]
+>   F -->|Example: Extract Key Points| I[Pertinent Details]
+> ```
+
+
+> [!abstract] **Diagram 3 — Conversation State Machine**
+> *Track the states and transitions in a multi-turn conversation.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Active: "Start"
+>   Active --> CollectingInput: "Collect Input"
+>   CollectingInput --> EvaluatingRelevance: "Evaluate Relevance"
+>   EvaluatingRelevance -->|Relevant| StoringContext: "Store in Context Window"
+>   EvaluatingRelevance -->|Irrelevant| Discarding: "Discard"
+>   StoringContext --> CheckingSize: "Check Window Size"
+>   CheckingSize -->|Full| TruncatingHistory: "Truncate History"
+>   CheckingSize -->|Not Full| ContinuingConversation: "Continue Conversation"
+>   TruncatingHistory --> ContinuingConversation
+>   ContinuingConversation --> Active
+> ```
 
 # Multi-Turn Conversation Management
 

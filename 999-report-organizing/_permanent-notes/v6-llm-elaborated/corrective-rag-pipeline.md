@@ -1,14 +1,13 @@
 ---
-title: "Corrective RAG Pipeline"
+title: Corrective RAG Pipeline
 aliases:
-  - "Corrective RAG Pipeline"
-  - "CRAG"
-  - "retrieval quality correction"
-  - "self-correcting RAG"
+  - Corrective RAG Pipeline
+  - CRAG
+  - retrieval quality correction
+  - self-correcting RAG
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,99 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "corrective-rag-pipeline-synthetic-seed-2026-05-22"
+  - corrective-rag-pipeline-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation]]"
-  - "[[Web Search Fallback]]"
+  - '[[Retrieval-Augmented Generation]]'
+  - '[[Web Search Fallback]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Web Search Fallback]]"
+  - '[[Web Search Fallback]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — CRAG Process Flow**
+> *Follow the flow from query to response generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Retreive Documents]
+>   B --> C[Evaluate Relevance]
+>   C -->|Below Threshold| D[Corrective Actions]
+>   C -->|Above Threshold| E[Generate Response]
+>   D --> F[Web-Search or Filter]
+>   F --> G[Re-evaluate]
+>   G -->|Above Threshold| H[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — CRAG vs Standard RAG Comparison**
+> *Compare the steps in CRAG and standard RAG processes.*
+>
+> ```mermaid
+> graph TD
+>   A[Query] --> B[Retreive Documents]
+>   B --> C[Evaluate Relevance]
+>   C -->|Below Threshold| D[Corrective Actions]
+>   C -->|Above Threshold| E[Generate Response]
+>   F[Standard RAG Query] --> G[Retreive Documents]
+>   G --> H[Generate Response]
+> ```
+
+
+> [!abstract] **Diagram 3 — CRAG Quality Assessment Mechanism**
+> *Trace the evaluation and corrective actions in CRAG.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Query] --> B[Retreive Documents]
+>   B --> C[Evaluate Relevance]
+>   C -->|Below Threshold| D[Web-Search or Filter]
+>   D --> E[Re-evaluate]
+>   E -->|Above Threshold| F[Generate Response]
+>   C -->|Above Threshold| G[Generate Response]
+> ```
 
 # Corrective RAG Pipeline
 

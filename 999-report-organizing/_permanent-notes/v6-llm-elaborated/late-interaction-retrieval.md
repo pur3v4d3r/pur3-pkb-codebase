@@ -1,14 +1,13 @@
 ---
-title: "Late Interaction Retrieval"
+title: Late Interaction Retrieval
 aliases:
-  - "Late Interaction Retrieval"
-  - "ColBERT retrieval"
-  - "MaxSim retrieval"
-  - "fine-grained token interaction retrieval"
+  - Late Interaction Retrieval
+  - ColBERT retrieval
+  - MaxSim retrieval
+  - fine-grained token interaction retrieval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,82 @@ subdomains:
   - retrieval-augmented-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "late-interaction-retrieval-synthetic-seed-2026-05-22"
+  - late-interaction-retrieval-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Single-vector Dense Retrieval]]"
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Single-vector Dense Retrieval]]'
+  - '[[Cross-Encoder Reranking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Single-vector Dense Retrieval]]"
-  - "[[Cross-Encoder Reranking]]"
+  - '[[Single-vector Dense Retrieval]]'
+  - '[[Cross-Encoder Reranking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token-Level Interaction Process**
+> *Follow the flow from query encoding to document matching.*
+>
+> ```mermaid
+> graph TD
+>   A[Query Token Embeddings] --> B(MaxSim)
+>   C[Document Token Embeddings] --> B
+>   B --> D[Relevance Scores]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Other Retrieval Methods**
+> *Compare late interaction retrieval with single-vector and cross-encoder methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Single-Vector Dense]
+>   B[Late Interaction]
+>   C[Cross-Encoder Reranking]
+>   A -->|Compresses Document Info| E[Loss of Precision]
+>   B -->|Token-Level Embeddings| F[Precise Relevance Estimation]
+>   C -->|Joint Encoding| G[Highest Accuracy, High Latency]
+> ```
 
 # Late Interaction Retrieval
 

@@ -1,14 +1,13 @@
 ---
-title: "Attention Knockout Analysis"
+title: Attention Knockout Analysis
 aliases:
-  - "Attention Knockout Analysis"
-  - "attention head ablation"
-  - "attention pattern knockout"
-  - "causal head identification"
+  - Attention Knockout Analysis
+  - attention head ablation
+  - attention pattern knockout
+  - causal head identification
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,78 @@ subdomains:
   - transformer-architecture
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "attention-knockout-analysis-synthetic-seed-2026-05-22"
+  - attention-knockout-analysis-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Attention Visualization]]"
-  - "[[Causal Tracing in Transformers]]"
+  - '[[Attention Visualization]]'
+  - '[[Causal Tracing in Transformers]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Attention Visualization]]"
+  - '[[Attention Visualization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Causal Tracing in Transformers]]"
+  - '[[Causal Tracing in Transformers]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Knockout Process Flow**
+> *Follow the steps from input to output, observing how attention patterns are altered and performance is measured.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Model] --> B[Systematic Zeroing]
+>   B --> C[Test Performance]
+>   C --> D[Measure Impact]
+> ```
+
+
+> [!abstract] **Diagram 2 — Attention Heads Importance Distribution**
+> *Identify the sparse distribution of causally important heads and their impact on performance loss.*
+>
+> ```mermaid
+> graph TD
+>   A[All Attention Heads] --> B[2-10% Important]
+>   B --> C[50-80% Performance Loss]
+>   A --> D[90-98% Redundant]
+> ```
 
 # Attention Knockout Analysis
 

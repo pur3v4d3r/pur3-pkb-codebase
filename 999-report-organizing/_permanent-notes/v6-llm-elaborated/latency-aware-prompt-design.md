@@ -1,14 +1,13 @@
 ---
-title: "Latency-Aware Prompt Design"
+title: Latency-Aware Prompt Design
 aliases:
-  - "Latency-Aware Prompt Design"
-  - "low-latency prompt design"
-  - "time-to-first-token optimisation"
-  - "response latency management"
+  - Latency-Aware Prompt Design
+  - low-latency prompt design
+  - time-to-first-token optimisation
+  - response latency management
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,117 @@ subdomains:
   - systems-ml
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "latency-aware-prompt-design-synthetic-seed-2026-05-22"
+  - latency-aware-prompt-design-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[kv-cache-reuse-strategies]]"
-  - "[[prompt-batching-patterns]]"
+  - '[[kv-cache-reuse-strategies]]'
+  - '[[prompt-batching-patterns]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[kv-cache-reuse-strategies]]"
-  - "[[prompt-batching-patterns]]"
+  - '[[kv-cache-reuse-strategies]]'
+  - '[[prompt-batching-patterns]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Latency-Aware Design Process Flow**
+> *Follow the steps from prompt design to output delivery.*
+>
+> ```mermaid
+> graph TD
+>   A[Minimize Prompt Length]
+>   B[Prefix Caching]
+>   C[Streaming Delivery]
+>   D[Reduce TTFT]
+>   E[Reduce TTLT]
+>   F[Enhance User Experience]
+>   A -->|Optimization| B
+>   B -->|Caching| C
+>   C -->|Partial Results| D
+>   D -->|Initial Response| E
+>   E -->|Incremental Updates| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Latency vs Quality Trade-off**
+> *Compare latency-optimized prompts with full-length counterparts.*
+>
+> ```mermaid
+> graph TD
+>   A[Full-Length Prompt]
+>   B[Larger TTFT]
+>   C[Larger TTLT]
+>   D[Higher Quality]
+>   E[Latency-Optimized Prompt]
+>   F[Smaller TTFT]
+>   G[Smaller TTLT]
+>   H[Lower Quality]
+>   A -->|Initial Load| B
+>   B -->|Final Response| C
+>   C -->|Output| D
+>   E -->|Reduced Initial Load| F
+>   F -->|Partial Responses| G
+>   G -->|Incremental Output| H
+> ```
+
+
+> [!abstract] **Diagram 3 — Latency-Aware Design Mechanisms**
+> *Identify mechanisms that reduce latency in prompt design.*
+>
+> ```mermaid
+> graph TD
+>   A[Minimize Prompt Length]
+>   B[Prefix Caching]
+>   C[Streaming Delivery]
+>   D[Reduce TTFT]
+>   E[Reduce TTLT]
+>   F[Enhance User Experience]
+>   A -->|Optimization| D
+>   B -->|Caching| D
+>   C -->|Partial Results| E
+>   D -->|Initial Response| F
+>   E -->|Incremental Updates| F
+> ```
 
 # Latency-Aware Prompt Design
 

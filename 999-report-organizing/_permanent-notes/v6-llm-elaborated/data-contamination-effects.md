@@ -1,14 +1,13 @@
 ---
-title: "Data Contamination Effects"
+title: Data Contamination Effects
 aliases:
-  - "Data Contamination Effects"
-  - "benchmark contamination"
-  - "evaluation contamination in LLMs"
-  - "test set leakage"
+  - Data Contamination Effects
+  - benchmark contamination
+  - evaluation contamination in LLMs
+  - test set leakage
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - benchmark-evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "data-contamination-effects-synthetic-seed-2026-05-22"
+  - data-contamination-effects-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Evaluation"
-
+parent-concept: Machine Learning Evaluation
 related:
-  - "[[Memorization vs Generalization]]"
-  - "[[Pretraining Data Influence]]"
+  - '[[Memorization vs Generalization]]'
+  - '[[Pretraining Data Influence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Memorization vs Generalization]]"
+  - '[[Memorization vs Generalization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Pretraining Data Influence]]"
+  - '[[Pretraining Data Influence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Contamination Process Flow**
+> *Follow the flow from training to evaluation, noting overlap points.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data] --> B[Model Training]
+>   C[Evaluation Benchmark] --> D[Overlap]
+>   B --> E[Performance Evaluation]
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Contamination Mechanism Overview**
+> *Trace the path from data overlap to inflated performance scores.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training Data Overlap] --> B[Memorization]
+>   B --> C[Inflated Scores]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications Summary**
+> *Identify the key areas where data contamination impacts model evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Misleading Assessments]
+>   C[Model Comparison] --> D[Skewed Results]
+>   E[Deployment Decisions] --> F[Suboptimal Deployments]
+> ```
 
 # Data Contamination Effects
 

@@ -1,14 +1,13 @@
 ---
-title: "Task-Oriented Dialogue Prompting"
+title: Task-Oriented Dialogue Prompting
 aliases:
-  - "Task-Oriented Dialogue Prompting"
-  - "TOD prompting"
-  - "goal-oriented dialogue prompting"
-  - "task completion dialogue"
+  - Task-Oriented Dialogue Prompting
+  - TOD prompting
+  - goal-oriented dialogue prompting
+  - task completion dialogue
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,96 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "task-oriented-dialogue-prompting-synthetic-seed-2026-05-22"
+  - task-oriented-dialogue-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Slot Filling via Dialogue]]"
-  - "[[Open-Domain Dialogue Prompting]]"
+  - '[[Slot Filling via Dialogue]]'
+  - '[[Open-Domain Dialogue Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Slot Filling via Dialogue]]"
+  - '[[Slot Filling via Dialogue]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Open-Domain Dialogue Prompting]]"
+  - '[[Open-Domain Dialogue Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Task-Oriented Dialogue Pipeline**
+> *Follow the flow from state tracking to response generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue State Tracking] --> B[Slot Filling]
+>   B --> C[Action Selection]
+>   C --> D[Natural Language Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task-Oriented vs Open-Domain Dialogue**
+> *Compare the focus of task-oriented and open-domain dialogue systems.*
+>
+> ```mermaid
+> graph TD
+>   A[Task-Oriented]
+>   B[Open-Domain]
+>   A -->|Efficient Task Completion| C[Goal-Driven]
+>   B -->|Engaging Conversation| D[No Defined Goal]
+> ```
+
+
+> [!abstract] **Diagram 3 — Dialogue State Management Components**
+> *Identify the components involved in managing dialogue state.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Current Dialogue State]
+>   C[Necessary Information Needed]
+>   D[Next Steps Based on Data]
+>   E[Generate Response]
+>   A -->|Update| B
+>   B -->|Identify| C
+>   C -->|Decide| D
+>   D -->|Formulate| E
+> ```
 
 # Task-Oriented Dialogue Prompting
 

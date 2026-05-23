@@ -1,14 +1,13 @@
 ---
-title: "Distributed Representations in Transformers"
+title: Distributed Representations in Transformers
 aliases:
-  - "Distributed Representations in Transformers"
-  - "superposition in neural networks"
-  - "distributed feature encoding"
-  - "holographic memory in LLMs"
+  - Distributed Representations in Transformers
+  - superposition in neural networks
+  - distributed feature encoding
+  - holographic memory in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - neural-networks
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "distributed-representations-in-transformers-synthetic-seed-2026-05-22"
+  - distributed-representations-in-transformers-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Neural Network Theory"
-
+parent-concept: Neural Network Theory
 related:
-  - "[[Polysemanticity in Neural Networks]]"
-  - "[[Superposition Hypothesis]]"
+  - '[[Polysemanticity in Neural Networks]]'
+  - '[[Superposition Hypothesis]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Polysemanticity in Neural Networks]]"
+  - '[[Polysemanticity in Neural Networks]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Superposition Hypothesis]]"
+  - '[[Superposition Hypothesis]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Distributed Representation Overview**
+> *Follow the flow from input to distributed encoding.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Distributed Encoding]
+>   B --> C[High-Dimensional Space]
+>   C --> D[Feature Interference]
+> ```
+
+
+> [!abstract] **Diagram 2 — Superposition Hypothesis**
+> *Trace the encoding process from features to nearly-orthogonal directions.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Features] --> B[Nearly-Orthogonal Directions]
+>   B --> C[High-Dimensional Space]
+>   C --> D[Superposition]
+> ```
+
+
+> [!abstract] **Diagram 3 — Distributed vs Local Representations**
+> *Compare distributed and local symbolic representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Distributed] --> B[Spread Across Neurons]
+>   C[Local Symbolic] --> D[One Neuron Per Concept]
+> ```
 
 # Distributed Representations in Transformers
 

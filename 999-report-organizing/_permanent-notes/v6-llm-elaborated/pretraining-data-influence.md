@@ -1,14 +1,13 @@
 ---
-title: "Pretraining Data Influence"
+title: Pretraining Data Influence
 aliases:
-  - "Pretraining Data Influence"
-  - "training data influence on LLM behaviour"
-  - "pretraining corpus effects"
-  - "training data impact analysis"
+  - Pretraining Data Influence
+  - training data influence on LLM behaviour
+  - pretraining corpus effects
+  - training data impact analysis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,109 @@ subdomains:
   - training-dynamics
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "pretraining-data-influence-synthetic-seed-2026-05-22"
+  - pretraining-data-influence-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning"
-
+parent-concept: Machine Learning
 related:
-  - "[[Influence Functions]]"
-  - "[[Data Ablation Studies]]"
+  - '[[Influence Functions]]'
+  - '[[Data Ablation Studies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Influence Functions]]"
-  - "[[Data Ablation Studies]]"
+  - '[[Influence Functions]]'
+  - '[[Data Ablation Studies]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pretraining Data Influence Mechanisms**
+> *Identify the methods used to measure influence.*
+>
+> ```mermaid
+> graph TD
+>   A[Influence Functions]
+>   B[Data Ablation Studies]
+>   C[Contamination Analysis]
+>   D[Controlled Experiments]
+>   A -->|Attribute Predictions| E[Impact on Model Performance]
+>   B -->|Remove Subsets| E
+>   C -->|Evaluate Benchmark Data| E
+>   D -->|Vary Parameters| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Data Influence on Model Capabilities**
+> *Compare the influence of structured vs unstructured data.*
+>
+> ```mermaid
+> graph TD
+>   A[Structured Data]
+>   B[Unstructured Data]
+>   C[Reasoning]
+>   D[Factual Accuracy]
+>   E[Language Fluency]
+>   F[Bias Mitigation]
+>   G[Comprehension]
+>   A -->|Enhances Reasoning| C
+>   A -->|Reduces Bias| F
+>   B -->|Improves Fluency| E
+>   B -->|Increases Comprehension| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Influence**
+> *Understand the applications and benefits.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Bias Mitigation]
+>   C[Capability Enhancement]
+>   D[Effective Training Materials]
+>   E[Ethical Outcomes]
+>   F[Targeted Skill Development]
+>   A -->|Guide Creation| D
+>   B -->|Reduce Harmful Biases| E
+>   C -->|Maximize Strengths| F
+> ```
 
 # Pretraining Data Influence
 

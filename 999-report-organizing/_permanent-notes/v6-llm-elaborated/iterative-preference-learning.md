@@ -1,14 +1,13 @@
 ---
-title: "Iterative Preference Learning"
+title: Iterative Preference Learning
 aliases:
-  - "Iterative Preference Learning"
-  - "online RLHF"
-  - "iterative DPO"
-  - "progressive preference learning"
+  - Iterative Preference Learning
+  - online RLHF
+  - iterative DPO
+  - progressive preference learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,81 @@ subdomains:
   - alignment
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "iterative-preference-learning-synthetic-seed-2026-05-22"
+  - iterative-preference-learning-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning"
-
+parent-concept: Reinforcement Learning
 related:
-  - "[[Reinforcement Learning From Human Feedback (RLHF)]]"
-  - "[[Distribution Mismatch Problem]]"
+  - '[[Reinforcement Learning From Human Feedback (RLHF)]]'
+  - '[[Distribution Mismatch Problem]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning From Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning From Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Distribution Mismatch Problem]]"
+  - '[[Distribution Mismatch Problem]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Iterative Preference Learning Cycle**
+> *Follow the cycle from generation to model update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Responses] --> B[Collect Feedback]
+>   B --> C[Update Model]
+>   C --> D[Next Iteration]
+>   D --> A
+> ```
+
+
+> [!abstract] **Diagram 2 — Feedback Alignment Process**
+> *Track how feedback aligns with model output distribution.*
+>
+> ```mermaid
+> graph TD
+>   A[Current Model Output] --> B[Human Feedback]
+>   B --> C[Align Preferences]
+>   C --> D[Update Reward Function]
+>   D --> E[Next Iteration]
+>   E --> F[New Model Output]
+> ```
 
 # Iterative Preference Learning
 

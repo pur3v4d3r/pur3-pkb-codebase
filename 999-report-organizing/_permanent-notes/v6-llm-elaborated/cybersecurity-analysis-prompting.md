@@ -1,14 +1,13 @@
 ---
-title: "Cybersecurity Analysis Prompting"
+title: Cybersecurity Analysis Prompting
 aliases:
-  - "Cybersecurity Analysis Prompting"
-  - "security analysis prompting"
-  - "penetration test planning prompts"
-  - "threat modelling LLM prompts"
+  - Cybersecurity Analysis Prompting
+  - security analysis prompting
+  - penetration test planning prompts
+  - threat modelling LLM prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,112 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "cybersecurity-analysis-prompting-synthetic-seed-2026-05-22"
+  - cybersecurity-analysis-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Threat Modeling Frameworks]]"
-  - "[[Large Language Models (LLMs)]]"
+  - '[[Threat Modeling Frameworks]]'
+  - '[[Large Language Models (LLMs)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Threat Modeling Frameworks]]"
+  - '[[Threat Modeling Frameworks]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Large Language Models (LLMs)]]"
+  - '[[Large Language Models (LLMs)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cybersecurity Analysis Workflow**
+> *Follow the flow from system input to security analysis output.*
+>
+> ```mermaid
+> graph TD
+>   A[System Input]
+>   B[Structured Prompting Frameworks]
+>   C[LLM Security Analysis]
+>   D[Vulnerability Insights]
+>   E[Mitigation Strategies]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Threat Modeling with STRIDE**
+> *Identify threats using the six categories of STRIDE.*
+>
+> ```mermaid
+> graph TD
+>   A[STRIDE]
+>   B[Spoofing]
+>   C[Tampering]
+>   D[Repudiation]
+>   E[Information Disclosure]
+>   F[Denial of Service]
+>   G[Elevation of Privilege]
+>   A --> B
+>   A --> C
+>   A --> D
+>   A --> E
+>   A --> F
+>   A --> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Security Policy Evaluation Frameworks**
+> *Compare security policies against established frameworks.*
+>
+> ```mermaid
+> graph TD
+>   A[Security Policies]
+>   B[NIST]
+>   C[ISO 27001]
+>   D[Evaluation]
+>   E[Gaps and Improvements]
+>   A -->|Against| B
+>   A -->|Against| C
+>   B --> D
+>   C --> D
+>   D --> E
+> ```
 
 # Cybersecurity Analysis Prompting
 

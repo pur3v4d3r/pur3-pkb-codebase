@@ -1,14 +1,13 @@
 ---
-title: "Dialogue Grounding Prompts"
+title: Dialogue Grounding Prompts
 aliases:
-  - "Dialogue Grounding Prompts"
-  - "common ground establishment"
-  - "mutual belief grounding"
-  - "shared context prompting"
+  - Dialogue Grounding Prompts
+  - common ground establishment
+  - mutual belief grounding
+  - shared context prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,58 +20,83 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dialogue-grounding-prompts-synthetic-seed-2026-05-22"
+  - dialogue-grounding-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Coreference Resolution Prompting]]"
-  - "[[Entity Linking in Prompts]]"
-  - "[[Dialogue State Tracking Prompts]]"
+  - '[[Coreference Resolution Prompting]]'
+  - '[[Entity Linking in Prompts]]'
+  - '[[Dialogue State Tracking Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Coreference Resolution Prompting]]"
-  - "[[Entity Linking in Prompts]]"
-  - "[[Dialogue State Tracking Prompts]]"
+  - '[[Coreference Resolution Prompting]]'
+  - '[[Entity Linking in Prompts]]'
+  - '[[Dialogue State Tracking Prompts]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dialogue Grounding Process Flow**
+> *Follow the flow from user input to system confirmation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Interpretation]
+>   B --> C[Prompt for Clarification]
+>   C --> D[User Confirmation]
+>   D --> E[System Action]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dialogue Grounding vs Coreference Resolution**
+> *Compare the focus areas of dialogue grounding and coreference resolution.*
+>
+> ```mermaid
+> graph TD
+>   A[Dialogue Grounding]
+>   B(Coreference Resolution)
+>   A -->|Clarify Ambiguities| C[User Interaction]
+>   B -->|Resolve References| D[Text Analysis]
+> ```
 
 # Dialogue Grounding Prompts
 

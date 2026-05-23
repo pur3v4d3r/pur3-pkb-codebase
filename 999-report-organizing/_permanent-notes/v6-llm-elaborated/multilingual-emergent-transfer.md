@@ -1,14 +1,13 @@
 ---
-title: "Multilingual Emergent Transfer"
+title: Multilingual Emergent Transfer
 aliases:
-  - "Multilingual Emergent Transfer"
-  - "cross-lingual emergent capability"
-  - "multilingual capability emergence"
-  - "language transfer emergence"
+  - Multilingual Emergent Transfer
+  - cross-lingual emergent capability
+  - multilingual capability emergence
+  - language transfer emergence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,92 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "multilingual-emergent-transfer-synthetic-seed-2026-05-22"
+  - multilingual-emergent-transfer-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Cross-Lingual Prompt Transfer]]"
-  - "[[Zero-Shot Generalization Mechanisms]]"
+  - '[[Cross-Lingual Prompt Transfer]]'
+  - '[[Zero-Shot Generalization Mechanisms]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Cross-Lingual Prompt Transfer]]"
-  - "[[Zero-Shot Generalization Mechanisms]]"
+  - '[[Cross-Lingual Prompt Transfer]]'
+  - '[[Zero-Shot Generalization Mechanisms]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Multilingual Emergent Transfer Process**
+> *Follow the flow from training to task performance across languages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Training in English] --> B[Shared Representations]
+>   B --> C[Tasks in Non-English Languages]
+>   C --> D[Emergent Capabilities]
+> ```
+
+
+> [!abstract] **Diagram 2 — Language Similarity and Transfer Capability**
+> *Observe how language similarity affects emergent transfer strength.*
+>
+> ```mermaid
+> graph TD
+>   A[English] -->|Stronger Transfer| B[Similar Languages]
+>   A -->|Weaker Transfer| C[Distant Languages]
+> ```
+
+
+> [!abstract] **Diagram 3 — Emergent vs Explicit Cross-Lingual Capability**
+> *Compare emergent transfer with explicit cross-lingual training.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Model as M
+>   participant Task in English as TE
+>   participant Task in Non-English as TN
+>   M->>TE: Perform Task (Explicit Training)
+>   TE-->>M: Capability Learned
+>   M->>TN: Perform Task (Emergent Transfer)
+> ```
 
 # Multilingual Emergent Transfer
 

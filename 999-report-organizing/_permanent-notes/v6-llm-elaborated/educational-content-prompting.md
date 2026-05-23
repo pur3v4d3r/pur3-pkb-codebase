@@ -1,14 +1,13 @@
 ---
-title: "Educational Content Prompting"
+title: Educational Content Prompting
 aliases:
-  - "Educational Content Prompting"
-  - "pedagogical prompting"
-  - "educational AI prompting"
-  - "learning content generation"
+  - Educational Content Prompting
+  - pedagogical prompting
+  - educational AI prompting
+  - learning content generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "educational-content-prompting-synthetic-seed-2026-05-22"
+  - educational-content-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - '[[Working Memory]]'
+  - '[[Worked Examples]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Worked Examples]]"
+  - '[[Worked Examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Educational Content Prompting Process Flow**
+> *Follow the flow from specifying behavioral goals to generating educational content.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Specify Behavioral Goals] --> B[Design Prompts]
+>   B --> C[Generate Educational Content]
+>   C --> D[Review by Experts]
+>   D --> E[Deploy Materials]
+> ```
+
+
+> [!abstract] **Diagram 2 — Behavioral Objectives vs Topic Coverage**
+> *Compare the focus of educational content prompting with general-purpose explanation.*
+>
+> ```mermaid
+> graph TD
+>   A[Behavioral Objectives] --> B[Specific Learning Outcomes]
+>   C[Topic Coverage] --> D[Comprehensive Information]
+>   E{Focus}
+>   E -.->|Educational Content Prompting|A
+>   E -.->|General-Purpose Explanation|C
+> ```
+
+
+> [!abstract] **Diagram 3 — Instructional Design Applications**
+> *Identify the steps in instructional design using educational content prompting.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Define Learning Objectives] --> B[Prompt Model for Content]
+>   B --> C[Generate Customized Modules]
+>   C --> D[Test and Refine]
+> ```
 
 # Educational Content Prompting
 

@@ -1,14 +1,13 @@
 ---
-title: "Hindsight Bias in LLM Evaluation"
+title: Hindsight Bias in LLM Evaluation
 aliases:
-  - "Hindsight Bias in LLM Evaluation"
-  - "knew-it-all-along bias in AI evaluation"
-  - "outcome knowledge bias in LLM assessment"
-  - "creeping determinism in LLMs"
+  - Hindsight Bias in LLM Evaluation
+  - knew-it-all-along bias in AI evaluation
+  - outcome knowledge bias in LLM assessment
+  - creeping determinism in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,90 @@ subdomains:
   - benchmark-design
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "hindsight-bias-in-llm-evaluation-synthetic-seed-2026-05-22"
+  - hindsight-bias-in-llm-evaluation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in AI Evaluation"
-
+parent-concept: Cognitive Bias in AI Evaluation
 related:
-  - "[[Cognitive Bias in AI Evaluation]]"
-  - "[[Benchmark Contamination]]"
+  - '[[Cognitive Bias in AI Evaluation]]'
+  - '[[Benchmark Contamination]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Cognitive Bias in AI Evaluation]]"
+  - '[[Cognitive Bias in AI Evaluation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Benchmark Contamination]]"
+  - '[[Benchmark Contamination]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hindsight Bias Mechanism Overview**
+> *Follow the two-step process of bias manifestation.*
+>
+> ```mermaid
+> graph TD
+>   A[Known Outcome Exposure]
+>   B[Evaluation Context]
+>   C[Rates Favorably]
+>   D[Flawed Logic]
+>   E[Genuine Reasoning]
+>   A -->|During Training/Evaluation| B
+>   B -->|Aligns with Correct Result| C
+>   C -->|Regardless of Soundness| D
+>   D -.-> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluator Bias vs Benchmark Contamination**
+> *Compare evaluator bias and benchmark contamination phenomena.*
+>
+> ```mermaid
+> graph TD
+>   A[Evaluator Bias]
+>   B[Benchmark Contamination]
+>   C[Known Outcomes]
+>   D[Rates Favorably]
+>   E[Memos Known Results]
+>   F[Loses Predictive Capability]
+>   A -->|C| D
+>   B -->|C| E
+>   E -.-> F
+> ```
 
 # Hindsight Bias in LLM Evaluation
 

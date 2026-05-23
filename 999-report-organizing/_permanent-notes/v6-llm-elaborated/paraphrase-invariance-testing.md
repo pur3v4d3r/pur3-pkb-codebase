@@ -1,14 +1,13 @@
 ---
-title: "Paraphrase Invariance Testing"
+title: Paraphrase Invariance Testing
 aliases:
-  - "Paraphrase Invariance Testing"
-  - "prompt paraphrase stability testing"
-  - "paraphrase robustness evaluation"
-  - "semantic robustness testing"
+  - Paraphrase Invariance Testing
+  - prompt paraphrase stability testing
+  - paraphrase robustness evaluation
+  - semantic robustness testing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "paraphrase-invariance-testing-synthetic-seed-2026-05-22"
+  - paraphrase-invariance-testing-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Brittleness]]"
-  - "[[Adversarial Prompt Robustness]]"
+  - '[[Prompt Brittleness]]'
+  - '[[Adversarial Prompt Robustness]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Brittleness]]"
+  - '[[Prompt Brittleness]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Adversarial Prompt Robustness]]"
+  - '[[Adversarial Prompt Robustness]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Paraphrase Invariance Testing Process**
+> *Follow the flow from prompt generation to evaluation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate Semantically Equivalent Prompts]
+>   B[Evaluate Model Responses]
+>   C[Determine Consistency Across Variants]
+> ```
+
+
+> [!abstract] **Diagram 2 — Paraphrase Invariance vs Syntactic Variation Testing**
+> *Compare the focus of each testing method.*
+>
+> ```mermaid
+> graph TD
+>   A[Paraphrase Invariance]
+>   B[Syntactic Variation]
+>   A -->|Ensures Semantic Equivalence| C[Semantic Understanding]
+>   B -->|May Alter Meaning| D[Surface-Form Associations]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Paraphrase Invariance Testing**
+> *Identify the different applications in prompt engineering.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design]
+>   B[Benchmarking]
+>   C[Model Improvement]
+>   A -->|Ensure Consistent Understanding|
+>   B -->|Provide Accurate Assessments|
+>   C -->|Identify Semantic Weaknesses]
+> ```
 
 # Paraphrase Invariance Testing
 

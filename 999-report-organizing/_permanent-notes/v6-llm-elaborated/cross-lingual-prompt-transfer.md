@@ -1,14 +1,13 @@
 ---
-title: "Cross-Lingual Prompt Transfer"
+title: Cross-Lingual Prompt Transfer
 aliases:
-  - "Cross-Lingual Prompt Transfer"
-  - "multilingual prompt transfer"
-  - "cross-language prompting"
-  - "language-agnostic prompting"
+  - Cross-Lingual Prompt Transfer
+  - multilingual prompt transfer
+  - cross-language prompting
+  - language-agnostic prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,97 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "cross-lingual-prompt-transfer-synthetic-seed-2026-05-22"
+  - cross-lingual-prompt-transfer-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Sensitivity]]"
-  - "[[Multilingual NLP Models]]"
+  - '[[Prompt Sensitivity]]'
+  - '[[Multilingual NLP Models]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Sensitivity]]"
+  - '[[Prompt Sensitivity]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multilingual NLP Models]]"
+  - '[[Multilingual NLP Models]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Cross-Lingual Prompt Transfer Flow**
+> *Follow the flow from high-resource to low-resource languages.*
+>
+> ```mermaid
+> flowchart LR
+>   A[High-Resource Language] --> B[Prompt Strategy]
+>   B --> C[Transfer Success]
+>   D[Low-Resource Language] --> E[Prompt Adaptation Needed]
+>   F[Validation Required]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prompt Transfer Effectiveness Across Languages**
+> *Compare the effectiveness of prompt transfer between high and low-resource languages.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Resource Language] -->|Effective Transfer| B[Success]
+>   C[Low-Resource Language] -->|Limited Success| D[Necessity for Adaptation]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prompt Validation Methods**
+> *Understand the importance of native-speaker queries in validation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant System as S
+>   participant Translator as T
+>   U->>S: Native-Speaker Query
+>   alt Effective Validation
+>     S-->>U: Correct Response
+>   else Ineffective Validation
+>     U->>T: Translation Request
+>     T-->>S: Translated Query
+>     S-->>U: Incorrect Response
+>   end
+> ```
 
 # Cross-Lingual Prompt Transfer
 

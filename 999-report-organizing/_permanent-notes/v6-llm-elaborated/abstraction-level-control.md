@@ -1,14 +1,13 @@
 ---
-title: "Abstraction Level Control"
+title: Abstraction Level Control
 aliases:
-  - "Abstraction Level Control"
-  - "abstraction gradient control"
-  - "conceptual altitude control"
-  - "level of abstraction prompting"
+  - Abstraction Level Control
+  - abstraction gradient control
+  - conceptual altitude control
+  - level of abstraction prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,87 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "abstraction-level-control-synthetic-seed-2026-05-22"
+  - abstraction-level-control-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Specificity vs Generality Tradeoff]]"
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Specificity vs Generality Tradeoff]]'
+  - '[[Verbosity Control in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Specificity vs Generality Tradeoff]]"
+  - '[[Specificity vs Generality Tradeoff]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Verbosity Control in Prompts]]"
+  - '[[Verbosity Control in Prompts]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Abstraction Levels Overview**
+> *Follow the hierarchy from concrete to abstract concepts.*
+>
+> ```mermaid
+> graph TD
+>   A[Concrete Examples] --> B(Abstract Principles)
+>   B --> C[Theoretical Frameworks]
+> ```
+
+
+> [!abstract] **Diagram 2 — Effective Bridging Instructions Flow**
+> *Trace the flow from initial concept to coherent mental model.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Concept] --> B[Bridging Instruction]
+>   B --> C[Intermediate Understanding]
+>   C --> D[Coherent Mental Model]
+> ```
+
+
+> [!abstract] **Diagram 3 — Cognitive Load Theory Application**
+> *Identify how extraneous and germane loads are managed.*
+>
+> ```mermaid
+> graph TD
+>   A[Extraneous Load] --> B(Germane Load)
+>   B --> C[Cognitive Capacity]
+> ```
 
 # Abstraction Level Control
 

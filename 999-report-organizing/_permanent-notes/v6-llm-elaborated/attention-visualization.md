@@ -1,14 +1,13 @@
 ---
-title: "Attention Visualization"
+title: Attention Visualization
 aliases:
-  - "Attention Visualization"
-  - "attention map visualisation"
-  - "transformer attention inspection"
-  - "attention pattern analysis"
+  - Attention Visualization
+  - attention map visualisation
+  - transformer attention inspection
+  - attention pattern analysis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,91 @@ subdomains:
   - transformers
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "attention-visualization-synthetic-seed-2026-05-22"
+  - attention-visualization-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Feature Attribution]]"
-  - "[[Saliency Mapping for Prompts]]"
+  - '[[Feature Attribution]]'
+  - '[[Saliency Mapping for Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Feature Attribution]]"
-  - "[[Saliency Mapping for Prompts]]"
+  - '[[Feature Attribution]]'
+  - '[[Saliency Mapping for Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Attention Mechanism Overview**
+> *Follow the flow from input to attention weights.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Sequence] --> B[Token Embedding]
+>   B --> C[Multi-Head Attention]
+>   C --> D[Weight Matrix]
+>   D --> E[Visualization]
+> ```
+
+
+> [!abstract] **Diagram 2 — Heatmap Visualization Example**
+> *Brighter colors indicate higher attention weights.*
+>
+> ```mermaid
+> graph TD
+>   A[Token1] -->|0.2| B[Token2]
+>   A -->|0.8| C[Token3]
+>   A -->|0.4| D[Token4]
+> ```
+
+
+> [!abstract] **Diagram 3 — Pattern Identification in Attention Maps**
+> *Identify diagonal, horizontal, and block patterns.*
+>
+> ```mermaid
+> graph TD
+>   A[Diagonal] --> B[Self-Attention]
+>   C[Horizontal] --> D[Broad Context]
+>   E[Block] --> F[Group Relationships]
+> ```
 
 # Attention Visualization
 

@@ -1,14 +1,13 @@
 ---
-title: "Data Analysis Prompting"
+title: Data Analysis Prompting
 aliases:
-  - "Data Analysis Prompting"
-  - "data analysis LLM prompting"
-  - "statistical analysis prompting"
-  - "analytics AI prompting"
+  - Data Analysis Prompting
+  - data analysis LLM prompting
+  - statistical analysis prompting
+  - analytics AI prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,97 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "data-analysis-prompting-synthetic-seed-2026-05-22"
+  - data-analysis-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Financial Analysis Prompting]]"
-  - "[[Code-Generation Prompting]]"
+  - '[[Financial Analysis Prompting]]'
+  - '[[Code-Generation Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Financial Analysis Prompting]]"
+  - '[[Financial Analysis Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Code-Generation Prompting]]"
+  - '[[Code-Generation Prompting]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Analysis Workflow**
+> *Follow the flow from dataset to insights.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Dataset]
+>   B[Formulate Questions]
+>   C[Specify Assumptions]
+>   D[Generate Insights]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Question-First vs Method-First Prompting**
+> *Compare the two approaches in prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Question-First]
+>   B[Method-First]
+>   C[Precise Question]
+>   D[Pre-Specified Methods]
+>   E[Data Characteristics]
+>   F[User Needs]
+>   G[Flexibility]
+>   H[Rigidity]
+>   I[Relevance]
+>   J[Accuracy]
+>   A -->|Starts with| C
+>   B -->|Starts with| D
+>   C -->|Adapts to| E
+>   C -->|Aligns with| F
+>   G -->|Enhances| I
+>   G -->|Improves| J
+>   H -->|Limits| I
+>   H -->|Reduces| J
+> ```
 
 # Data Analysis Prompting
 

@@ -1,14 +1,13 @@
 ---
-title: "Prompt Token Budgeting"
+title: Prompt Token Budgeting
 aliases:
-  - "Prompt Token Budgeting"
-  - "token allocation for prompts"
-  - "prompt token quota management"
-  - "context length budgeting"
+  - Prompt Token Budgeting
+  - token allocation for prompts
+  - prompt token quota management
+  - context length budgeting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,108 @@ subdomains:
   - cost-optimisation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-token-budgeting-synthetic-seed-2026-05-22"
+  - prompt-token-budgeting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Token-Efficient Prompting]]"
-  - "[[Prompt Pruning]]"
+  - '[[Token-Efficient Prompting]]'
+  - '[[Prompt Pruning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Token-Efficient Prompting]]"
+  - '[[Token-Efficient Prompting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Pruning]]"
+  - '[[Prompt Pruning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token Budgeting Process Flow**
+> *Follow the flow from profiling to reallocation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Profiling]
+>   B[Analysis]
+>   C[Prioritization]
+>   D[Distribution]
+>   E[Reallocation]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Budgeting Components**
+> *Identify the components and their value contributions.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructions]
+>   B[Taskspecs]
+>   C[Examples]
+>   D[HistContext]
+>   E[CurrentExch]
+>   F[QualityContribution]
+>   G[EfficencyMetrics]
+>   A -->|High Value| F
+>   B -->|Medium Value| F
+>   C -->|Critical Value| F
+>   D -->|Low Value| F
+>   E -->|Dynamic Realloc| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Budgeted vs Heuristic Methods**
+> *Compare budgeted allocation with heuristic methods.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Budgeted as B
+>   participant Heuristic as H
+>   B->>B: Systematic Profiling
+>   B->>B: Set Priorities
+>   B->>B: Dynamic Realloc
+>   H->>H: First-Fit Allocation
+>   H->>H: Recency-Based Rules
+> ```
 
 # Prompt Token Budgeting
 

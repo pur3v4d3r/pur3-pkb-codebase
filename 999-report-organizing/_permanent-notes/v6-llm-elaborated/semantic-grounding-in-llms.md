@@ -1,14 +1,13 @@
 ---
-title: "Semantic Grounding in LLMs"
+title: Semantic Grounding in LLMs
 aliases:
-  - "Semantic Grounding in LLMs"
-  - "grounding in language models"
-  - "semantic anchoring"
-  - "symbol grounding in LLMs"
+  - Semantic Grounding in LLMs
+  - grounding in language models
+  - semantic anchoring
+  - symbol grounding in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,98 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "semantic-grounding-in-llms-synthetic-seed-2026-05-22"
+  - semantic-grounding-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Knowledge Representation"
-
+parent-concept: Knowledge Representation
 related:
-  - "[[Distributional Semantics]]"
-  - "[[Entity Linking in Prompts]]"
+  - '[[Distributional Semantics]]'
+  - '[[Entity Linking in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Distributional Semantics]]"
+  - '[[Distributional Semantics]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Entity Linking in Prompts]]"
+  - '[[Entity Linking in Prompts]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Semantic Grounding Process**
+> *Follow the stages from pretraining to inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Pretraining]
+>   B[Instruction Tuning]
+>   C[Supplementary Mechanisms]
+>   D(Inference)
+>   A -->|Factual Knowledge Imbued| B
+>   B -->|Refined World-Knowledge Retrieval| C
+>   C -->|Enhanced Robustness Anchors| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Statistical vs Semantic Grounding**
+> *Compare the two approaches in terms of meaning and reliability.*
+>
+> ```mermaid
+> graph TD
+>   A[Statistical Co-occurrence]
+>   B[True Semantic Grounding]
+>   A -->|Frequency-Based Recall| C[Superficially Correct]
+>   B -->|Stable Meaning Associations| D[Robust World-Knowledge Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 3 — LLM Knowledge Representation Flow**
+> *Trace the flow from linguistic symbols to real-world facts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Linguistic Symbols]
+>   B[Stable Meanings]
+>   C[Real-World Facts]
+>   D[Inference Processes]
+>   A -->|Semantic Grounding| B
+>   B -->|Accurate World-Knowledge Retrieval| C
+>   C -->|Constrained Inference| D
+> ```
 
 # Semantic Grounding in LLMs
 

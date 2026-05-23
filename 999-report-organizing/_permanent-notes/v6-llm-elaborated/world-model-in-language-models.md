@@ -1,14 +1,13 @@
 ---
-title: "World Model in Language Models"
+title: World Model in Language Models
 aliases:
-  - "World Model in Language Models"
-  - "LLM world model"
-  - "internal world representation"
-  - "implicit world knowledge in LLMs"
+  - World Model in Language Models
+  - LLM world model
+  - internal world representation
+  - implicit world knowledge in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,58 +20,120 @@ subdomains:
   - artificial-intelligence
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "world-model-in-language-models-synthetic-seed-2026-05-22"
+  - world-model-in-language-models-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Knowledge Representation"
-
+parent-concept: Knowledge Representation
 related:
-  - "[[Causal Reasoning in LLMs]]"
-  - "[[Temporal Reasoning in LLMs]]"
-  - "[[Spatial Reasoning in LLMs]]"
+  - '[[Causal Reasoning in LLMs]]'
+  - '[[Temporal Reasoning in LLMs]]'
+  - '[[Spatial Reasoning in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Causal Reasoning in LLMs]]"
-  - "[[Temporal Reasoning in LLMs]]"
-  - "[[Spatial Reasoning in LLMs]]"
+  - '[[Causal Reasoning in LLMs]]'
+  - '[[Temporal Reasoning in LLMs]]'
+  - '[[Spatial Reasoning in LLMs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — World Model Structure Overview**
+> *Follow the flow from training to predictions.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Parameter Encoding]
+>   C[Linear Representations]
+>   D[Probing Studies]
+>   E[Predictions]
+>   F[World-State Tracking]
+>   G[Causal Reasoning]
+>   A --> B
+>   B --> C
+>   C --> D
+>   C --> E
+>   E --> F
+>   F --> G
+> ```
+
+
+> [!abstract] **Diagram 2 — Stochastic vs Deterministic Access**
+> *Compare stochastic access in LLMs to deterministic systems.*
+>
+> ```mermaid
+> graph TD
+>   A[LLM World Model]
+>   B[Deterministic System]
+>   C[Query-Based Retrieval]
+>   D[Forward Pass Predictions]
+>   E[Consistent Results]
+>   F[Probabilistic Outcomes]
+>   G[Varying Contexts]
+>   A -->|Stochastic| D
+>   D -->|F|
+>   B -->|Deterministic| C
+>   C -->|E|
+>   A -.-> G
+> ```
+
+
+> [!abstract] **Diagram 3 — Mechanism of Linear Representations**
+> *Trace the development and use of linear representations.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Process]
+>   B[Neural Activations]
+>   C[Causal Upstream]
+>   D[Token Predictions]
+>   E[World-State Variables]
+>   F[Probing Studies]
+>   G[Activation-Patching]
+>   A --> B
+>   B -->|C| D
+>   B --> E
+>   E --> F
+>   E --> G
+> ```
 
 # World Model in Language Models
 

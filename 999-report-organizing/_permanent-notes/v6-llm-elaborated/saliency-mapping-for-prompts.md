@@ -1,14 +1,13 @@
 ---
-title: "Saliency Mapping for Prompts"
+title: Saliency Mapping for Prompts
 aliases:
-  - "Saliency Mapping for Prompts"
-  - "prompt saliency maps"
-  - "input sensitivity mapping"
-  - "token salience analysis"
+  - Saliency Mapping for Prompts
+  - prompt saliency maps
+  - input sensitivity mapping
+  - token salience analysis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,79 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "saliency-mapping-for-prompts-synthetic-seed-2026-05-22"
+  - saliency-mapping-for-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Feature Attribution in LLMs]]"
-  - "[[Attention Visualization]]"
+  - '[[Feature Attribution in LLMs]]'
+  - '[[Attention Visualization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Feature Attribution in LLMs]]"
+  - '[[Feature Attribution in LLMs]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Attention Visualization]]"
+  - '[[Attention Visualization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Saliency Mapping Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Tokens] --> B[Token Embeddings]
+>   B --> C[Gradient Calculation]
+>   C --> D[Aggregation]
+>   D --> E[Saliency Scores]
+> ```
+
+
+> [!abstract] **Diagram 2 — Saliency Mapping Applications**
+> *Identify the applications and their focus areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Prompt Debugging] -->|Highlights influential tokens| B[Efficient Refinement]
+>   C[Prompt Compression] -->|Removes low salience tokens| D[Simplification]
+>   E[Adversarial Analysis] -->|Identifies problematic elements| F[Mitigation Strategies]
+> ```
 
 # Saliency Mapping for Prompts
 

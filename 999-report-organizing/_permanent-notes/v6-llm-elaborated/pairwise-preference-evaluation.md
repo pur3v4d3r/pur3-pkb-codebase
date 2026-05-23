@@ -1,14 +1,13 @@
 ---
-title: "Pairwise Preference Evaluation"
+title: Pairwise Preference Evaluation
 aliases:
-  - "Pairwise Preference Evaluation"
-  - "preference rating"
-  - "A/B evaluation"
-  - "comparative model evaluation"
+  - Pairwise Preference Evaluation
+  - preference rating
+  - A/B evaluation
+  - comparative model evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,84 @@ subdomains:
   - preference-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "pairwise-preference-evaluation-synthetic-seed-2026-05-22"
+  - pairwise-preference-evaluation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Likert Scale Evaluation]]"
-  - "[[Elo Rating System]]"
+  - '[[Likert Scale Evaluation]]'
+  - '[[Elo Rating System]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Likert Scale Evaluation]]"
+  - '[[Likert Scale Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Elo Rating System]]"
+  - '[[Elo Rating System]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Pairwise Evaluation Process Flow**
+> *Follow the flow from input to final ranking.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Evaluator]
+>   B --> C[Choose Preferred Output]
+>   C --> D[Ratings Aggregation]
+>   D --> E[Global Ranking]
+> ```
+
+
+> [!abstract] **Diagram 2 — Tournament-Style Ranking Methods**
+> *See how Elo ratings update after each comparison.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant Evaluator as E
+>   participant Model1 as M1
+>   participant Model2 as M2
+>   participant Aggregator as A
+>   E->>M1: Show Output
+>   E->>M2: Show Output
+>   E->>A: Choose Preferred
+>   A-->>E: Elo Rating Update
+> ```
 
 # Pairwise Preference Evaluation
 

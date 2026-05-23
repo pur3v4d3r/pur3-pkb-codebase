@@ -1,14 +1,13 @@
 ---
-title: "Retrieval Faithfulness"
+title: Retrieval Faithfulness
 aliases:
-  - "Retrieval Faithfulness"
-  - "RAG faithfulness"
-  - "source attribution accuracy"
-  - "retrieval-grounded generation"
+  - Retrieval Faithfulness
+  - RAG faithfulness
+  - source attribution accuracy
+  - retrieval-grounded generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,106 @@ subdomains:
   - hallucination
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "retrieval-faithfulness-synthetic-seed-2026-05-22"
+  - retrieval-faithfulness-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Factual Accuracy]]"
-  - "[[Answer Accuracy]]"
+  - '[[Factual Accuracy]]'
+  - '[[Answer Accuracy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Factual Accuracy]]"
-  - "[[Answer Accuracy]]"
+  - '[[Factual Accuracy]]'
+  - '[[Answer Accuracy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Retrieval Faithfulness vs Accuracy**
+> *Compare retrieval faithfulness with factual and answer accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A[Retrieval Faithfulness]
+>   B[Factual Accuracy]
+>   C[Answer Accuracy]
+>   A -->|Contrasts With| B
+>   A -->|Contrasts With| C
+> ```
+
+
+> [!abstract] **Diagram 2 — RAG System Output Flow**
+> *Follow the flow from input to output in a RAG system.*
+>
+> ```mermaid
+> flowchart LR
+>   Input[Input]
+>   Retrieval[Retrieval]
+>   Generation[Generation]
+>   Output[Output]
+>   Input -->|Retrieve Documents| Retrieval
+>   Retrieval -->|Generate Response| Generation
+>   Generation -->|Ensure Faithfulness| Output
+> ```
+
+
+> [!abstract] **Diagram 3 — Faithfulness Evaluation Framework**
+> *Understand the claim-level entailment checks for evaluation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant System as S
+>   participant Document as D
+>   U->>S: Generate Response
+>   S->>D: Retrieve Documents
+>   loop Claim-Level Entailment Check
+>     S->>D: Verify Each Claim
+>     alt Faithful
+>       S-->>U: Faithful Output
+>     else Unfaithful
+>       S-->>U: Unfaithful Output
+>     end
+>   end
+> ```
 
 # Retrieval Faithfulness
 

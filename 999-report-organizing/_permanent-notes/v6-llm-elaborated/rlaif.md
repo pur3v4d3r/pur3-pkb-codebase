@@ -1,15 +1,14 @@
 ---
-title: "Reinforcement Learning from AI Feedback"
+title: Reinforcement Learning from AI Feedback
 aliases:
-  - "Reinforcement Learning from AI Feedback"
-  - "RLAIF"
-  - "RL from AI feedback"
-  - "AI preference labelling"
-  - "model-as-critic for RLHF"
+  - Reinforcement Learning from AI Feedback
+  - RLAIF
+  - RL from AI feedback
+  - AI preference labelling
+  - model-as-critic for RLHF
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,121 @@ subdomains:
   - ai-safety
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "rlaif-synthetic-seed-2026-05-22"
+  - rlaif-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Reinforcement Learning"
-
+parent-concept: Reinforcement Learning
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Iterative Preference Learning]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Iterative Preference Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Iterative Preference Learning]]"
+  - '[[Iterative Preference Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — RLAIF Process Flow**
+> *Follow the iterative process from initial responses to model training.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Responses]
+>   B[Evaluation by AI]
+>   C[Generate Preference Scores]
+>   D[Reward Signal in RL Algorithm]
+>   E[Model Training]
+>   F[Iterate Based on Feedback]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+> ```
+
+
+> [!abstract] **Diagram 2 — RLAIF vs Traditional RLHF**
+> *Compare the key differences in data generation and cost between RLAIF and traditional RLHF.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Annotation]
+>   B[Ai Generated Preference Labels]
+>   C[Scalability Issues]
+>   D[Costly Data Collection]
+>   E[Scalable Data Generation]
+>   F[Lower Data Costs]
+>   G[Reward Model Training]
+>   H[Traditional RLHF]
+>   I[RLAIF]
+>   A -->|Expensive| C
+>   B -->|Efficient| E
+>   C --> D
+>   E --> F
+>   D --> G
+>   F --> G
+>   H --> A
+>   I --> B
+> ```
+
+
+> [!abstract] **Diagram 3 — RLAIF Iterative Feedback Loop**
+> *Trace the feedback loop between labelling AI and model training.*
+>
+> ```mermaid
+> graph TD
+>   A[Labelling AI]
+>   B[Evaluates Responses]
+>   C[Generates Preference Scores]
+>   D[Reward Signal in RL Algorithm]
+>   E[Trains Model]
+>   F[Improves Behavior]
+>   G[Feedback Loop]
+>   A -->|Evaluates| B
+>   B -->|Scores| C
+>   C -->|Signal| D
+>   D -->|Train| E
+>   E -->|Improve| F
+>   F -->|Loop| A
+> ```
 
 # Reinforcement Learning from AI Feedback
 

@@ -1,14 +1,13 @@
 ---
-title: "Historical Reasoning Prompting"
+title: Historical Reasoning Prompting
 aliases:
-  - "Historical Reasoning Prompting"
-  - "historical analysis prompting"
-  - "historical LLM prompting"
-  - "historiographical reasoning in AI"
+  - Historical Reasoning Prompting
+  - historical analysis prompting
+  - historical LLM prompting
+  - historiographical reasoning in AI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,98 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "historical-reasoning-prompting-synthetic-seed-2026-05-22"
+  - historical-reasoning-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Hindsight Bias in LLM Evaluation]]"
-  - "[[Claim Strength Calibration]]"
+  - '[[Hindsight Bias in LLM Evaluation]]'
+  - '[[Claim Strength Calibration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Hindsight Bias in LLM Evaluation]]"
+  - '[[Hindsight Bias in LLM Evaluation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Claim Strength Calibration]]"
+  - '[[Claim Strength Calibration]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Historical Reasoning Workflow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Context] --> B[Specify Period]
+>   B --> C[Geographical Scope]
+>   C --> D[Historiographical Debates]
+>   D --> E[Prompt LLM]
+>   E --> F[Generate Analysis]
+> ```
+
+
+> [!abstract] **Diagram 2 — Historical Reasoning Challenges**
+> *Identify the challenges addressed by Historical Reasoning Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Incomplete Records] --> B[Bias]
+>   C[Varying Interpretations] --> D[Causal Inferences]
+>   E[Avoid Anachronisms] --> F[Simplified Conclusions]
+> ```
+
+
+> [!abstract] **Diagram 3 — Historical Reasoning vs General Prompt Engineering**
+> *Compare the focus areas of Historical Reasoning and general prompt engineering.*
+>
+> ```mermaid
+> classDiagram
+>   class HistoricalReasoning {
+>     +Specify Period
+>     +Geographical Scope
+>     +Historiographical Debates
+>   }
+>   class GeneralPromptEngineering {
+>     +Various Domains
+>     -Specific to History
+>   }
+>   HistoricalReasoning -->|Focuses On| GeneralPromptEngineering
+> ```
 
 # Historical Reasoning Prompting
 

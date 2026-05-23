@@ -1,14 +1,13 @@
 ---
-title: "Bandwagon Effect in RLHF"
+title: Bandwagon Effect in RLHF
 aliases:
-  - "Bandwagon Effect in RLHF"
-  - "consensus pressure in LLM training"
-  - "majority-opinion bias in RLHF"
-  - "social proof in preference learning"
+  - Bandwagon Effect in RLHF
+  - consensus pressure in LLM training
+  - majority-opinion bias in RLHF
+  - social proof in preference learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,93 @@ subdomains:
   - rlhf
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "bandwagon-effect-in-rlhf-synthetic-seed-2026-05-22"
+  - bandwagon-effect-in-rlhf-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in LLM Outputs"
-
+parent-concept: Cognitive Bias in LLM Outputs
 related:
-  - "[[Social Desirability Bias in LLMS]]"
-  - "[[Authority Bias in LLM Responses]]"
+  - '[[Social Desirability Bias in LLMS]]'
+  - '[[Authority Bias in LLM Responses]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Social Desirability Bias in LLMS]]"
-  - "[[Authority Bias in LLM Responses]]"
+  - '[[Social Desirability Bias in LLMS]]'
+  - '[[Authority Bias in LLM Responses]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Bandwagon Effect Process Flow**
+> *Follow the flow from raters' conformity to model outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Popular Opinion] --> B[Raters Favor]
+>   B --> C[Model Rewards]
+>   C --> D[Consensus Outputs]
+> ```
+
+
+> [!abstract] **Diagram 2 — Bandwagon vs Other Biases Comparison**
+> *Compare Bandwagon Effect with Social Desirability and Authority Bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Bandwagon]
+>   B[Social Desirability]
+>   C[Authority]
+>   A -->|Favors Consensus| D[Conformity Rewards]
+>   B -->|Presents Favorably| E[Favorable Light]
+>   C -->|Defers to Authority| F[Undue Weight]
+> ```
+
+
+> [!abstract] **Diagram 3 — Impact on Knowledge Dissemination**
+> *Trace the impact from outdated consensus to model outputs.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Outdated Consensus] --> B[Raters Reward]
+>   B --> C[Model Outputs]
+>   C --> D[Lag in Advancements]
+> ```
 
 # Bandwagon Effect in RLHF
 

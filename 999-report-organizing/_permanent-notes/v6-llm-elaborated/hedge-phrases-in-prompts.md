@@ -1,14 +1,13 @@
 ---
-title: "Hedge Phrases in Prompts"
+title: Hedge Phrases in Prompts
 aliases:
-  - "Hedge Phrases in Prompts"
-  - "hedging in LLM outputs"
-  - "epistemic modality in prompts"
-  - "uncertainty phrases in prompts"
+  - Hedge Phrases in Prompts
+  - hedging in LLM outputs
+  - epistemic modality in prompts
+  - uncertainty phrases in prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,90 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "hedge-phrases-in-prompts-synthetic-seed-2026-05-22"
+  - hedge-phrases-in-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Overconfidence in LLM Outputs]]"
-  - "[[Underspecification in Prompts]]"
-  - "[[Verbalized Uncertainty]]"
+  - '[[Overconfidence in LLM Outputs]]'
+  - '[[Underspecification in Prompts]]'
+  - '[[Verbalized Uncertainty]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Overconfidence in LLM Outputs]]"
+  - '[[Overconfidence in LLM Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Underspecification in Prompts]]"
+  - '[[Underspecification in Prompts]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Verbalized Uncertainty]]"
+  - '[[Verbalized Uncertainty]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Hedge Phrase Functionality**
+> *Identify the intended and observed behavior of hedge phrases.*
+>
+> ```mermaid
+> graph TD
+>   A["Intended Signal"] --> B["Observed Behavior"]
+>   A --> C["Modulate Confidence"]
+>   B --> D["Anti-Informative Effect"]
+> ```
+
+
+> [!abstract] **Diagram 2 — Hedge Phrase Impact on Outputs**
+> *Understand how hedge phrases affect output reliability and user trust.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Hedging]
+>   B --> C[Output Reliability]
+>   B --> D[User Trust]
+> ```
+
+
+> [!abstract] **Diagram 3 — Hedge Phrase Calibration Mechanisms**
+> *Explore strategies for grounding hedge phrases in factual accuracy.*
+>
+> ```mermaid
+> graph TD
+>   A["Stylistic Compliance"] --> B[Uncalibrated]
+>   C["Domain-Specific Knowledge"] --> D[Calibrated]
+>   E["Linguistic Cues"] --> F[Grounded]
+> ```
 
 # Hedge Phrases in Prompts
 

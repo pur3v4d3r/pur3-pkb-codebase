@@ -1,14 +1,13 @@
 ---
-title: "Dialogue State Tracking Prompts"
+title: Dialogue State Tracking Prompts
 aliases:
-  - "Dialogue State Tracking Prompts"
-  - "belief state tracking prompting"
-  - "DST via prompting"
-  - "conversation state extraction"
+  - Dialogue State Tracking Prompts
+  - belief state tracking prompting
+  - DST via prompting
+  - conversation state extraction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,88 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dialogue-state-tracking-prompts-synthetic-seed-2026-05-22"
+  - dialogue-state-tracking-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Task-Oriented Dialogue Systems"
-
+parent-concept: Task-Oriented Dialogue Systems
 related:
-  - "[[Task-Oriented Dialogue Systems]]"
-  - "[[Slot-Filling via Dialogue]]"
+  - '[[Task-Oriented Dialogue Systems]]'
+  - '[[Slot-Filling via Dialogue]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Task-Oriented Dialogue Systems]]"
+  - '[[Task-Oriented Dialogue Systems]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Slot-Filling via Dialogue]]"
+  - '[[Slot-Filling via Dialogue]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — DST Prompt Process Flow**
+> *Follow the flow from input to belief state update.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System Interpretation]
+>   B --> C[Belief State Update]
+>   C --> D[System Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — DST vs Implicit Tracking**
+> *Compare DST with implicit tracking methods.*
+>
+> ```mermaid
+> graph TD
+>   A[DST Prompts] --> B[Structured Belief State]
+>   C[Implicit Tracking] --> D[Attention Over History]
+> ```
+
+
+> [!abstract] **Diagram 3 — DST Application Areas**
+> *Identify structured task-oriented vs open-domain contexts.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Dialogues] --> B[DST Effective]
+>   C[Customer Service] --> D[DST Effective]
+>   E[Open-Domain Conversations] --> F[DST Limited]
+> ```
 
 # Dialogue State Tracking Prompts
 

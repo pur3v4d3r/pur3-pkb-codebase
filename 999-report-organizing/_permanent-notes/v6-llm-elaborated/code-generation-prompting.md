@@ -1,14 +1,13 @@
 ---
-title: "Code Generation Prompting"
+title: Code Generation Prompting
 aliases:
-  - "Code Generation Prompting"
-  - "code synthesis prompting"
-  - "program generation prompts"
-  - "LLM programming assistance"
+  - Code Generation Prompting
+  - code synthesis prompting
+  - program generation prompts
+  - LLM programming assistance
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,97 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "code-generation-prompting-synthetic-seed-2026-05-22"
+  - code-generation-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Incremental Elaboration]]"
-  - "[[Test-Driven Development]]"
+  - '[[Incremental Elaboration]]'
+  - '[[Test-Driven Development]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Incremental Elaboration]]"
+  - '[[Incremental Elaboration]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Test-Driven Development]]"
+  - '[[Test-Driven Development]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Code Generation Process Flow**
+> *Follow the steps from initial prompt to final refinement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Prompt] --> B[Basic Functionality]
+>   B --> C[Performance Feedback]
+>   C --> D[Security Checks]
+>   D --> E[Maintainability Refinement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Code Generation Taxonomy**
+> *Identify the key components of Code Generation Prompting.*
+>
+> ```mermaid
+> graph TD
+>   A[Functional Requirements] --> B[Test Cases]
+>   A --> C[Performance Constraints]
+>   A --> D[Coding Styles]
+> ```
+
+
+> [!abstract] **Diagram 3 — Incremental Elaboration Workflow**
+> *See how incremental steps build complex solutions.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   U->>M: Initial Prompt
+>   M-->>U: Basic Code Output
+>   U->>M: Feedback on Performance
+>   M-->>U: Improved Code Output
+>   U->>M: Security Checks Requested
+>   M-->>U: Secure Code Output
+>   U->>M: Maintainability Enhancements Sought
+>   M-->>U: Final Refinement
+> ```
 
 # Code Generation Prompting
 

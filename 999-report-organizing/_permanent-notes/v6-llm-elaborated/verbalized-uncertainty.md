@@ -1,14 +1,13 @@
 ---
-title: "Verbalized Uncertainty"
+title: Verbalized Uncertainty
 aliases:
-  - "Verbalized Uncertainty"
-  - "linguistic confidence expression"
-  - "verbal probability estimation"
-  - "LLM uncertainty language"
+  - Verbalized Uncertainty
+  - linguistic confidence expression
+  - verbal probability estimation
+  - LLM uncertainty language
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,113 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "verbalized-uncertainty-synthetic-seed-2026-05-22"
+  - verbalized-uncertainty-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Output Interpretation"
-
+parent-concept: LLM Output Interpretation
 related:
-  - "[[Hedge Phrases in Prompts]]"
-  - "[[LLM Calibration Techniques]]"
+  - '[[Hedge Phrases in Prompts]]'
+  - '[[LLM Calibration Techniques]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Hedge Phrases in Prompts]]"
+  - '[[Hedge Phrases in Prompts]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[LLM Calibration Techniques]]"
+  - '[[LLM Calibration Techniques]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Verbalized Uncertainty Mechanisms**
+> *Follow the flow from internal confidence to verbal expression.*
+>
+> ```mermaid
+> graph TD
+>   A[Internal Confidence]
+>   B[Linguistic Cues]
+>   C[Hedging Language]
+>   D[Training Feedback]
+>   E[Output Reliability]
+>   A -->|Influence| B
+>   B -->|Learned Behavior| C
+>   C -->|Feedback Loop| D
+>   D -->|Model Training| A
+>   B -->|Expressed Output| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Verbal Uncertainty vs Actual Confidence**
+> *Compare the verbal expression with actual model confidence.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbalized Uncertainty]
+>   B[Actual Confidence]
+>   C[Linguistic Expression]
+>   D[Internal Probability]
+>   E[Misalignment]
+>   F[Verification Needed]
+>   A -->|Linguistic Expression| C
+>   B -->|Internal Probability| D
+>   C -.-> E
+>   D -.-> E
+>   E -->|Misaligned Output| F
+> ```
+
+
+> [!abstract] **Diagram 3 — User Trust and Reliability**
+> *Trace the impact of verbal cues on user trust and output reliability.*
+>
+> ```mermaid
+> graph TD
+>   A[Verbal Uncertainty]
+>   B[User Perception]
+>   C[System Accuracy]
+>   D[User Confidence]
+>   E[Reliability Improvement]
+>   F[Integration Strategies]
+>   A -->|Influences| B
+>   B -->|Affects| C
+>   B -->|Impacts| D
+>   C -->|Improvement Needed| E
+>   D -->|Reduction in Trust| E
+>   E -->|Strategies for Improvement| F
+> ```
 
 # Verbalized Uncertainty
 

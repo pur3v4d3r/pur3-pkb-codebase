@@ -1,14 +1,13 @@
 ---
-title: "Knowledge Conflict in RAG"
+title: Knowledge Conflict in RAG
 aliases:
-  - "Knowledge Conflict in RAG"
-  - "context-parameter conflict"
-  - "retrieval-memory conflict"
-  - "conflicting knowledge in RAG"
+  - Knowledge Conflict in RAG
+  - context-parameter conflict
+  - retrieval-memory conflict
+  - conflicting knowledge in RAG
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - knowledge-integration
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "knowledge-conflict-in-rag-synthetic-seed-2026-05-22"
+  - knowledge-conflict-in-rag-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation]]"
-  - "[[Context-Parameter Conflict]]"
+  - '[[Retrieval-Augmented Generation]]'
+  - '[[Context-Parameter Conflict]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Context-Parameter Conflict]]"
+  - '[[Context-Parameter Conflict]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Conflict Scenarios**
+> *Identify the sources of knowledge conflict.*
+>
+> ```mermaid
+> graph TD
+>   A[Temporal Inconsistency] --> B(Knowledge Conflict)
+>   C[Domain Specificity] --> B
+>   D[Source Errors] --> B
+> ```
+
+
+> [!abstract] **Diagram 2 — Conflict Resolution Mechanisms**
+> *Understand the model's prioritization in conflict resolution.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Retrieved Context] -->|Explicit Conflict| C(Resolution)
+>   B[Parametric Knowledge] -->|Implicit Conflict| D(Resolution)
+>   C --> E[Context Priority]
+>   D --> F[Knowledge Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Implications of Conflicts**
+> *See how knowledge conflicts impact different applications.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Knowledge Conflict)
+>   C[Legal Advice] --> D(Knowledge Conflict)
+>   E[Reliability Impact] --> F(Accuracy Issues)
+> ```
 
 # Knowledge Conflict in RAG
 

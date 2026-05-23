@@ -1,14 +1,13 @@
 ---
-title: "Ethical Reasoning Prompting"
+title: Ethical Reasoning Prompting
 aliases:
-  - "Ethical Reasoning Prompting"
-  - "moral reasoning prompts"
-  - "ethical analysis prompting"
-  - "applied ethics in LLMs"
+  - Ethical Reasoning Prompting
+  - moral reasoning prompts
+  - ethical analysis prompting
+  - applied ethics in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,88 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "ethical-reasoning-prompting-synthetic-seed-2026-05-22"
+  - ethical-reasoning-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Social Desirability Bias in LLMs]]"
-  - "[[Constitutional AI Data Pipeline]]"
+  - '[[Social Desirability Bias in LLMs]]'
+  - '[[Constitutional AI Data Pipeline]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Social Desirability Bias in LLMs]]"
+  - '[[Social Desirability Bias in LLMs]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Constitutional AI Data Pipeline]]"
+  - '[[Constitutional AI Data Pipeline]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Ethical Reasoning Process Flow**
+> *Follow the steps from dilemma to ethical analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Present Dilemma] --> B[Specify Context]
+>   B --> C[Apply Frameworks]
+>   C --> D[Evaluate Results]
+> ```
+
+
+> [!abstract] **Diagram 2 — Ethical Reasoning Taxonomy**
+> *Identify the different ethical frameworks used in analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Consequentialism] --> B[Deontology]
+>   C[Virtue Ethics] --> D[Care Ethics]
+>   E[Contractualism]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *See how Ethical Reasoning Prompting applies in different contexts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Policymaking] --> B[Business Decisions]
+>   C[Design Choices] --> D[Ethical Analysis]
+> ```
 
 # Ethical Reasoning Prompting
 

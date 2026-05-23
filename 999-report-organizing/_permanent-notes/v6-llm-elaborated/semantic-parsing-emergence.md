@@ -1,14 +1,13 @@
 ---
-title: "Semantic Parsing Emergence"
+title: Semantic Parsing Emergence
 aliases:
-  - "Semantic Parsing Emergence"
-  - "semantic parsing capability emergence"
-  - "structured prediction emergence"
-  - "code generation emergence"
+  - Semantic Parsing Emergence
+  - semantic parsing capability emergence
+  - structured prediction emergence
+  - code generation emergence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,89 @@ subdomains:
   - program-synthesis
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "semantic-parsing-emergence-synthetic-seed-2026-05-22"
+  - semantic-parsing-emergence-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Emergent Capabilities in Large Language Models"
-
+parent-concept: Emergent Capabilities in Large Language Models
 related:
-  - "[[Chain-of-Thought Emergence]]"
-  - "[[Instruction-Following Emergence]]"
+  - '[[Chain-of-Thought Emergence]]'
+  - '[[Instruction-Following Emergence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Chain-of-Thought Emergence]]"
-  - "[[Instruction-Following Emergence]]"
+  - '[[Chain-of-Thought Emergence]]'
+  - '[[Instruction-Following Emergence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Semantic Parsing Process Flow**
+> *Follow the flow from natural language to formal representation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Natural Language]
+>   B --> C[Intent Recognition]
+>   C --> D[Formal Representation]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Parsing Techniques**
+> *Compare traditional and emergent semantic parsing methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Traditional Semantic Parsing] --> B[Explicit Grammars]
+>   C[Emergent Semantic Parsing] --> D[Scale & Instruction Tuning]
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Identify applications where semantic parsing emergence is utilized.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Instructional Design] --> B[Complex Instructions]
+>   C[Code Generation] --> D[Natural Language to Code]
+> ```
 
 # Semantic Parsing Emergence
 

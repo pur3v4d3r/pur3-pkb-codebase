@@ -1,14 +1,13 @@
 ---
-title: "ALiBi Positional Encoding"
+title: ALiBi Positional Encoding
 aliases:
-  - "ALiBi Positional Encoding"
-  - "Attention with Linear Biases"
-  - "ALiBi"
-  - "linear bias positional encoding"
+  - ALiBi Positional Encoding
+  - Attention with Linear Biases
+  - ALiBi
+  - linear bias positional encoding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,99 @@ subdomains:
   - context-length
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "alibi-positional-encoding-synthetic-seed-2026-05-22"
+  - alibi-positional-encoding-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Transformer Architecture"
-
+parent-concept: Transformer Architecture
 related:
-  - "[[Rotary Positional Embedding (RoPE)]]"
-  - "[[Sliding Window Attention]]"
+  - '[[Rotary Positional Embedding (RoPE)]]'
+  - '[[Sliding Window Attention]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Rotary Positional Embedding (RoPE)]]"
+  - '[[Rotary Positional Embedding (RoPE)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Sliding Window Attention]]"
+  - '[[Sliding Window Attention]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — ALiBi Attention Bias Mechanism**
+> *Follow the flow from query to key, observing how distance affects bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Query Position]
+>   B[Key Position]
+>   C[Bias Function]
+>   D[Attention Score]
+>   A -->|Distance| C
+>   C -->|Linear Bias| D
+> ```
+
+
+> [!abstract] **Diagram 2 — ALiBi vs RoPE Comparison**
+> *Compare the methods used by ALiBi and RoPE to incorporate positional information.*
+>
+> ```mermaid
+> graph TD
+>   A[ALiBi]
+>   B[Rope]
+>   C[Bias Function]
+>   D[Vector Modification]
+>   A -->|Linear Bias Post-Softmax| C
+>   B -->|Rotate Vectors| D
+> ```
+
+
+> [!abstract] **Diagram 3 — ALiBi Performance Across Sequence Lengths**
+> *Analyze how ALiBi performs on sequences of varying lengths.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Sequence]
+>   B[Shorter Sequences]
+>   C[Longer Sequences]
+>   D[Performance]
+>   A -->|Generalizes Well| D
+>   B -->|Maintains Quality| D
+>   C -->|No Fine-Tuning Needed| D
+> ```
 
 # ALiBi Positional Encoding
 

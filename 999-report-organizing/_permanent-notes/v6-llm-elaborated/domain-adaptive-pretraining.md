@@ -1,14 +1,13 @@
 ---
-title: "Domain-Adaptive Pretraining"
+title: Domain-Adaptive Pretraining
 aliases:
-  - "Domain-Adaptive Pretraining"
-  - "domain-specific pretraining"
-  - "continued pretraining for domain adaptation"
-  - "domain fine-tuning"
+  - Domain-Adaptive Pretraining
+  - domain-specific pretraining
+  - continued pretraining for domain adaptation
+  - domain fine-tuning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,91 @@ subdomains:
   - domain-adaptation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "domain-adaptive-pretraining-synthetic-seed-2026-05-22"
+  - domain-adaptive-pretraining-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning Techniques"
-
+parent-concept: Machine Learning Techniques
 related:
-  - "[[Initial Pretraining]]"
-  - "[[Task-Specific Fine-Tuning]]"
+  - '[[Initial Pretraining]]'
+  - '[[Task-Specific Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Initial Pretraining]]"
-  - "[[Task-Specific Fine-Tuning]]"
+  - '[[Initial Pretraining]]'
+  - '[[Task-Specific Fine-Tuning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Domain-Adaptive Pretraining Process Flow**
+> *Follow the sequence from initial pretraining to task-specific fine-tuning.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Pretraining] --> B[Domain-Specific Pretraining]
+>   B --> C[Task-Specific Fine-Tuning]
+> ```
+
+
+> [!abstract] **Diagram 2 — DAPT vs Initial Pretraining Comparison**
+> *Compare the starting point and training data of DAPT with initial pretraining.*
+>
+> ```mermaid
+> graph TD
+>   A[Initial Pretraining]
+>   B[DAPT]
+>   A -->|From Scratch| C[General Corpus]
+>   B -->|Pretrained Model| D[Domain-Specific Text]
+> ```
+
+
+> [!abstract] **Diagram 3 — DAPT vs Task-Specific Fine-Tuning Comparison**
+> *Compare the training data and objective of DAPT with task-specific fine-tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[DAPT]
+>   B[Task-Specific Fine-Tuning]
+>   A -->|Unlabelled Domain Text| C[Pretraining Objective]
+>   B -->|Labeled Task Data| D[Fine-Tuning Objective]
+> ```
 
 # Domain-Adaptive Pretraining
 

@@ -1,14 +1,13 @@
 ---
-title: "Conversation Summarization Prompts"
+title: Conversation Summarization Prompts
 aliases:
-  - "Conversation Summarization Prompts"
-  - "dialogue summarisation"
-  - "conversation summary generation"
-  - "chat history summarisation"
+  - Conversation Summarization Prompts
+  - dialogue summarisation
+  - conversation summary generation
+  - chat history summarisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,93 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "conversation-summarization-prompts-synthetic-seed-2026-05-22"
+  - conversation-summarization-prompts-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Conversational Context Compression]]"
-  - "[[Text Summarization]]"
+  - '[[Conversational Context Compression]]'
+  - '[[Text Summarization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Conversational Context Compression]]"
+  - '[[Conversational Context Compression]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Text Summarization]]"
+  - '[[Text Summarization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Conversation Summarization Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Dialogue] --> B[Extract Key Points]
+>   B --> C[Distinguish Contributions]
+>   C --> D[Preserve Temporal Order]
+>   D --> E[Generate Summary]
+> ```
+
+
+> [!abstract] **Diagram 2 — Context-Specific vs General Summarization**
+> *Compare the focus areas of each summarization type.*
+>
+> ```mermaid
+> graph TD
+>   A[General Text Summarization] --> B[Essence Capture]
+>   C[Conversation Summarization] --> D[Distinguish Contributions]
+>   E[Purpose-Specific Focus] --> F[Preserve Temporal Order]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios for Conversation Summaries**
+> *Identify the use cases and benefits of conversation summaries.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant InstructionalDesign as ID
+>   participant CustomerService as CS
+>   participant VirtualClassroom as VC
+>   participant Agent as A
+>   ID->>VC: Enhance Learning
+>   CS->>A: Efficient Interaction Management
+> ```
 
 # Conversation Summarization Prompts
 

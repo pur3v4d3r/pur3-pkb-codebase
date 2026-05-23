@@ -1,15 +1,14 @@
 ---
-title: "Self-RAG Selective Retrieval"
+title: Self-RAG Selective Retrieval
 aliases:
-  - "Self-RAG Selective Retrieval"
-  - "Self-RAG"
-  - "adaptive retrieval"
-  - "on-demand retrieval"
-  - "retrieval-on-demand"
+  - Self-RAG Selective Retrieval
+  - Self-RAG
+  - adaptive retrieval
+  - on-demand retrieval
+  - retrieval-on-demand
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,117 @@ subdomains:
   - adaptive-inference
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "self-rag-selective-retrieval-synthetic-seed-2026-05-22"
+  - self-rag-selective-retrieval-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation]]"
-  - "[[Fixed-Retrieval Architectures]]"
+  - '[[Retrieval-Augmented Generation]]'
+  - '[[Fixed-Retrieval Architectures]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Fixed-Retrieval Architectures]]"
+  - '[[Fixed-Retrieval Architectures]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Self-RAG Decision Flow**
+> *Follow the decision-making process from Retrieve to ISUSE tokens.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generate]
+>   B[Retrieve?]
+>   C[ISREL?]
+>   D[ISSUP?]
+>   E[ISUSE?]
+>   F[Output]
+>   A -->|Generate Token| B
+>   B -->|Yes| C
+>   C -->|Yes| D
+>   D -->|Yes| E
+>   E -->|Yes| F
+> ```
+
+
+> [!abstract] **Diagram 2 — Selective vs Fixed Retrieval**
+> *Compare the decision paths for selective and fixed retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Generate]
+>   B1[Retrieve?]
+>   C1[ISREL?]
+>   D1[ISSUP?]
+>   E1[ISUSE?]
+>   F1[Output]
+>   G[Fixed Retrieve]
+>   H[Output]
+>   A -->|Selective| B1
+>   B1 -->|Yes| C1
+>   C1 -->|Yes| D1
+>   D1 -->|Yes| E1
+>   E1 -->|Yes| F1
+>   A -->|Fixed| G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 3 — Self-RAG Process Flow**
+> *Trace the flow from input to output, highlighting retrieval points.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant ExternalDB as E
+>   U->>M: Input Query
+>   M->>M: Generate Retrieve Token
+>   opt Is Retrieval Needed?
+>     M->>E: Request Information
+>     E-->>M: Retrieved Content
+>     M->>M: Evaluate ISREL, ISSUP, ISUSE Tokens
+>   end
+>   M->>U: Output Response
+> ```
 
 # Self-RAG Selective Retrieval
 

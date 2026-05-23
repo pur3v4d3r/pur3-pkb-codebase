@@ -1,14 +1,13 @@
 ---
-title: "Follow-Up Question Generation"
+title: Follow-Up Question Generation
 aliases:
-  - "Follow-Up Question Generation"
-  - "proactive question generation"
-  - "conversation continuation questions"
-  - "elicitation question generation"
+  - Follow-Up Question Generation
+  - proactive question generation
+  - conversation continuation questions
+  - elicitation question generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,94 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "follow-up-question-generation-synthetic-seed-2026-05-22"
+  - follow-up-question-generation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Multi-Turn Conversation Management]]"
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Multi-Turn Conversation Management]]'
+  - '[[Dialogue Grounding Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multi-Turn Conversation Management]]"
+  - '[[Multi-Turn Conversation Management]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Dialogue Grounding Prompts]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Follow-Up Question Process Flow**
+> *Identify the steps from user input to follow-up question generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Context Analysis]
+>   B --> C[Intent Inference]
+>   C --> D[Question Generation]
+>   D --> E[Fine-Tuning]
+>   E --> F[Follow-Up Question]
+> ```
+
+
+> [!abstract] **Diagram 2 — Intent vs Generic Follow-Ups**
+> *Compare follow-up questions based on user intent versus generic topical ones.*
+>
+> ```mermaid
+> graph TD
+>   A[User Intent]
+>   B[Generic Topical]
+>   C[Fine-Tuned Question]
+>   D[Topical Question]
+>   A -->|Models User Needs| C
+>   B -->|Matches Topic Only| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *Explore different application scenarios for follow-up question generation.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Enhanced Learning]
+>   C[Customer Service] --> D[Better Support]
+>   E[Multi-Turn Conversations] --> F[Improved Engagement]
+> ```
 
 # Follow-Up Question Generation
 

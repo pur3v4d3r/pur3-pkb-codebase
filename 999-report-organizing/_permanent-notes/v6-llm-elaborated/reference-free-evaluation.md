@@ -1,14 +1,13 @@
 ---
-title: "Reference-Free Evaluation"
+title: Reference-Free Evaluation
 aliases:
-  - "Reference-Free Evaluation"
-  - "referenceless evaluation"
-  - "no-reference evaluation"
-  - "output-only evaluation"
+  - Reference-Free Evaluation
+  - referenceless evaluation
+  - no-reference evaluation
+  - output-only evaluation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,109 @@ subdomains:
   - evaluation-methodology
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "reference-free-evaluation-synthetic-seed-2026-05-22"
+  - reference-free-evaluation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Rubric-Based LLM Evaluation]]"
-  - "[[LLM Evaluator Bias]]"
+  - '[[Rubric-Based LLM Evaluation]]'
+  - '[[LLM Evaluator Bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Rubric-Based LLM Evaluation]]"
+  - '[[Rubric-Based LLM Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[LLM Evaluator Bias]]"
+  - '[[LLM Evaluator Bias]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Reference-Free Evaluation Mechanisms**
+> *Identify the key mechanisms used in reference-free evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[LLM-as-Judge]
+>   B[Quality Estimation Models]
+>   C[Checklist-Based Verification]
+>   A -->|Mechanism| D[Intrinsic Merit Assessment]
+>   B -->|Mechanism| D
+>   C -->|Mechanism| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison with Reference-Based Metrics**
+> *Compare reference-free evaluation to traditional metrics like BLEU.*
+>
+> ```mermaid
+> graph TD
+>   A[Reference-Free Evaluation]
+>   B[Traditional Metrics (BLEU, ROUGE)]
+>   A -->|Focus on Intrinsic Merit|
+>   B -->|Surface Form Overlap with Reference|
+>   A -->|No Gold Standard Required|
+>   B -->|Depends on Single Reference Output|
+>   A -->|Captures Nuanced Aspects of NLG|
+>   B -->|Often Misses Quality Nuances|
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications Overview**
+> *Understand the practical applications of reference-free evaluation.*
+>
+> ```mermaid
+> graph TD
+>   A[Creative Writing]
+>   B[Medical Analysis]
+>   C[LLM-as-Judge]
+>   D[Quality Estimation Models]
+>   E[Checklist-Based Verification]
+>   A -->|Application|
+>   C
+>   A -->|Application|
+>   D
+>   A -->|Application|
+>   E
+>   B -->|Application|
+>   C
+>   B -->|Application|
+>   D
+> ```
 
 # Reference-Free Evaluation
 

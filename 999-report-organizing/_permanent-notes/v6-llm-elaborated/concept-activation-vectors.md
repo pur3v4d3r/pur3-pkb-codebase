@@ -1,14 +1,13 @@
 ---
-title: "Concept Activation Vectors"
+title: Concept Activation Vectors
 aliases:
-  - "Concept Activation Vectors"
-  - "CAVs"
-  - "testing with concept activation vectors"
-  - "TCAV method"
+  - Concept Activation Vectors
+  - CAVs
+  - testing with concept activation vectors
+  - TCAV method
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,102 @@ subdomains:
   - representation-learning
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "concept-activation-vectors-synthetic-seed-2026-05-22"
+  - concept-activation-vectors-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Probing Classifiers]]"
-  - "[[Gradient Attribution Methods]]"
+  - '[[Probing Classifiers]]'
+  - '[[Gradient Attribution Methods]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Probing Classifiers]]"
+  - '[[Probing Classifiers]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Gradient Attribution Methods]]"
+  - '[[Gradient Attribution Methods]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Concept Activation Vectors Process Flow**
+> *Follow the steps from data collection to model sensitivity analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Collect Positive Examples]
+>   B[Collect Negative Examples]
+>   C[Train Linear Classifier]
+>   D[Generate Concept Vector]
+>   E[Measure Sensitivity]
+>   A -->|Positive Set| C
+>   B -->|Negative Set| C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — CAVs vs Gradient Attribution**
+> *Compare the focus of Concept Activation Vectors and gradient attribution methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Concept Activation Vectors]
+>   B[Gradient Attribution]
+>   A -->|Focus on concept-level sensitivity|
+>   B -->|Focus on individual feature contributions|
+> ```
+
+
+> [!abstract] **Diagram 3 — CAVs Application Workflow**
+> *Trace the workflow from dataset creation to model debugging.*
+>
+> ```mermaid
+> graph TD
+>   A[Create Curated Dataset]
+>   B[Train Linear Classifier]
+>   C[Generate Concept Vectors]
+>   D[Evaluate Model Sensitivity]
+>   E[Debug/Refine Model]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
 
 # Concept Activation Vectors
 

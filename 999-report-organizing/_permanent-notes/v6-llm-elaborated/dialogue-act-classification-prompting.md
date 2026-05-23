@@ -1,14 +1,13 @@
 ---
-title: "Dialogue Act Classification Prompting"
+title: Dialogue Act Classification Prompting
 aliases:
-  - "Dialogue Act Classification Prompting"
-  - "intent classification prompting"
-  - "dialogue act recognition"
-  - "utterance function classification"
+  - Dialogue Act Classification Prompting
+  - intent classification prompting
+  - dialogue act recognition
+  - utterance function classification
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,79 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "dialogue-act-classification-prompting-synthetic-seed-2026-05-22"
+  - dialogue-act-classification-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Task-Oriented Dialogue Prompting]]"
-  - "[[Dialogue State Tracking Prompts]]"
+  - '[[Task-Oriented Dialogue Prompting]]'
+  - '[[Dialogue State Tracking Prompts]]'
 prerequisites:
-  - "[[Task-Oriented Dialogue Prompting]]"
+  - '[[Task-Oriented Dialogue Prompting]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Dialogue State Tracking Prompts]]"
+  - '[[Dialogue State Tracking Prompts]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Dialogue Act Classification Flow**
+> *Follow the flow from user input to system response classification.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[System]
+>   B --> C[LLM Processing]
+>   C --> D[Classification]
+>   D --> E[System Response]
+> ```
+
+
+> [!abstract] **Diagram 2 — Dialogue Act Taxonomy Example**
+> *Identify the different dialogue acts and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Question] --> B[Request]
+>   C[Clarification-Request] --> D[Disconfirmation]
+>   E[Assertion] --> F[Thank]
+> ```
 
 # Dialogue Act Classification Prompting
 

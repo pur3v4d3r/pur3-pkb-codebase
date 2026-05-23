@@ -1,14 +1,13 @@
 ---
-title: "Social Desirability Bias in LLMs"
+title: Social Desirability Bias in LLMs
 aliases:
-  - "Social Desirability Bias in LLMs"
-  - "people-pleasing in LLMs"
-  - "sycophancy"
-  - "socially acceptable response bias in AI"
+  - Social Desirability Bias in LLMs
+  - people-pleasing in LLMs
+  - sycophancy
+  - socially acceptable response bias in AI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,112 @@ subdomains:
   - rlhf
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "social-desirability-bias-in-llms-synthetic-seed-2026-05-22"
+  - social-desirability-bias-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias in AI"
-
+parent-concept: Cognitive Bias in AI
 related:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
-  - "[[Cognitive Bias]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
+  - '[[Cognitive Bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Cognitive Bias]]"
+  - '[[Cognitive Bias]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Training Process Overview**
+> *Follow the flow from training to model output.*
+>
+> ```mermaid
+> graph TD
+>   A[Human Feedback]
+>   B[Reward Structure]
+>   C[Model Response]
+>   D[Socially Desirable Output]
+>   A -->|Incorporates Bias| B
+>   B -->|Trains Model| C
+>   C -->|Generates Responses| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Bias Mechanism Flowchart**
+> *Trace the path from feedback to biased output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Human Raters]
+>   B[Evaluation Criteria]
+>   C[Reward Model]
+>   D[Bias Incentivized]
+>   E[Socially Desirable Responses]
+>   F[Model Output]
+>   A -->|Subjective Judgments| B
+>   B -->|Incorporate Bias| C
+>   C -->|Trains for Social Acceptability| D
+>   D -->|Skews Model Outputs| E
+>   E -->|Generates Biased Responses| F
+> ```
+
+
+> [!abstract] **Diagram 3 — Comparison of Biases**
+> *Compare social desirability bias with sycophancy.*
+>
+> ```mermaid
+> graph TD
+>   A[Social Desirability Bias]
+>   B[Sycophancy]
+>   C[Systematic Skew]
+>   D[User Preferences]
+>   E[Ignoring Specific Cues]
+>   F[Matching Perceived Preferences]
+>   G[Unaltered Underlying Bias]
+>   H[Effective Mitigation]
+>   A -->|Systematic Skew| C
+>   B -->|Matches User Preferences| D
+>   C -->|Ignores Specific Cues| E
+>   D -->|Adapts to Perceived Preferences| F
+>   E -->|Unaltered Underlying Bias| G
+>   F -->|Effective Mitigation| H
+> ```
 
 # Social Desirability Bias in LLMs
 

@@ -1,14 +1,13 @@
 ---
-title: "Legal Reasoning Prompting"
+title: Legal Reasoning Prompting
 aliases:
-  - "Legal Reasoning Prompting"
-  - "legal LLM prompting"
-  - "law application prompting"
-  - "statutory reasoning prompts"
+  - Legal Reasoning Prompting
+  - legal LLM prompting
+  - law application prompting
+  - statutory reasoning prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,117 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "legal-reasoning-prompting-synthetic-seed-2026-05-22"
+  - legal-reasoning-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Ethical Reasoning Prompting]]"
-  - "[[Claim Strength Calibration]]"
-  - "[[Logical Entailment Verification]]"
+  - '[[Ethical Reasoning Prompting]]'
+  - '[[Claim Strength Calibration]]'
+  - '[[Logical Entailment Verification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Ethical Reasoning Prompting]]"
+  - '[[Ethical Reasoning Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Claim Strength Calibration]]"
+  - '[[Claim Strength Calibration]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Logical Entailment Verification]]"
+  - '[[Logical Entailment Verification]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Legal Reasoning Workflow Overview**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Jurisdiction Specification]
+>   C[Relevant Legal Frameworks]
+>   D[Facts at Hand]
+>   E[Desired Output Format]
+>   F[Prompt Design]
+>   G[LLM Processing]
+>   H[Output Analysis]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
+
+
+> [!abstract] **Diagram 2 — Jurisdictional Prompting Specificity**
+> *Compare general and legal-specific prompting techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[General Prompt]
+>   B[Jurisdiction-Specific Prompt]
+>   C[Output: Broad Interpretation]
+>   D[Output: Accurate Legal Analysis]
+>   A -->|Example Output| C
+>   B -->|Example Output| D
+> ```
+
+
+> [!abstract] **Diagram 3 — Legal Reasoning Process Flowchart**
+> *Trace the steps from initial input to final analysis.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Input]
+>   B[Jurisdiction Specification]
+>   C[Relevant Legal Frameworks]
+>   D[Facts at Hand]
+>   E[Prompt Design]
+>   F[LLM Processing]
+>   G[Output Analysis]
+>   H[Final Report]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+>   E --> F
+>   F --> G
+>   G --> H
+> ```
 
 # Legal Reasoning Prompting
 

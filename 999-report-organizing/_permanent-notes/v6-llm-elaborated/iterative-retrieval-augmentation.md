@@ -1,14 +1,13 @@
 ---
-title: "Iterative Retrieval Augmentation"
+title: Iterative Retrieval Augmentation
 aliases:
-  - "Iterative Retrieval Augmentation"
-  - "iterative RAG"
-  - "multi-hop retrieval"
-  - "sequential retrieval augmentation"
+  - Iterative Retrieval Augmentation
+  - iterative RAG
+  - multi-hop retrieval
+  - sequential retrieval augmentation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,104 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "iterative-retrieval-augmentation-synthetic-seed-2026-05-22"
+  - iterative-retrieval-augmentation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
-  - "[[Multi-Hop Reasoning]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
+  - '[[Multi-Hop Reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Multi-Hop Reasoning]]"
+  - '[[Multi-Hop Reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Iterative Retrieval Process Flow**
+> *Follow the flow from query to final answer generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Initial Query] --> B[Retrieve Documents]
+>   B --> C[Integrate Information]
+>   C --> D[Evaluate Answer Completeness]
+>   D -->|Incomplete| E[Formulate New Query]
+>   E --> F[Repeat Retrieval]
+>   F --> G[Integrate More Info]
+>   G --> H[Evaluate Again]
+>   H -->|Complete| I[Generate Final Answer]
+> ```
+
+
+> [!abstract] **Diagram 2 — Comparison of Single vs Iterative Retrieval**
+> *Compare the single retrieval process with iterative retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Single Query] --> B[Retrieve One Document]
+>   C[Iterative Queries] --> D[First Retrieve]
+>   D --> E[Integrate Info]
+>   E --> F[Evaluate Completeness]
+>   F -->|Incomplete| G[Next Retrieve]
+>   G --> H[Integrate More]
+>   H --> I[Evaluate Again]
+> ```
+
+
+> [!abstract] **Diagram 3 — Iterative Retrieval State Machine**
+> *Track the state transitions during iterative retrieval.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> InitialQuery: Start
+>   InitialQuery --> RetrieveDocuments: Query Formulation
+>   RetrieveDocuments --> IntegrateInfo: Information Integration
+>   IntegrateInfo --> EvaluateCompleteness: Answer Evaluation
+>   EvaluateCompleteness -->|Incomplete| FormulateNewQuery: New Query Formation
+>   FormulateNewQuery --> RepeatRetrieval: Next Retrieval Round
+>   RepeatRetrieval --> IntegrateMoreInfo: Further Info Integration
+>   IntegrateMoreInfo --> EvaluateAgain: Re-evaluation
+>   EvaluateAgain -->|Complete| GenerateFinalAnswer: Final Answer Generation
+> ```
 
 # Iterative Retrieval Augmentation
 

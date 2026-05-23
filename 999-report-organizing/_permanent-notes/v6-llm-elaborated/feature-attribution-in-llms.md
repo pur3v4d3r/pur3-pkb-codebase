@@ -1,15 +1,14 @@
 ---
-title: "Feature Attribution in Large Language Models"
+title: Feature Attribution in Large Language Models
 aliases:
-  - "Feature Attribution in Large Language Models"
-  - "Feature Attribution in LLMs"
-  - "input feature importance for LLMs"
-  - "attribution methods for transformers"
-  - "LLM token attribution"
+  - Feature Attribution in Large Language Models
+  - Feature Attribution in LLMs
+  - input feature importance for LLMs
+  - attribution methods for transformers
+  - LLM token attribution
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,106 @@ subdomains:
   - mechanistic-interpretability
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "feature-attribution-in-llms-synthetic-seed-2026-05-22"
+  - feature-attribution-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Gradient-Based Attribution Methods]]"
-  - "[[Attention-Based Attribution Methods]]"
+  - '[[Gradient-Based Attribution Methods]]'
+  - '[[Attention-Based Attribution Methods]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Gradient-Based Attribution Methods]]"
-  - "[[Attention-Based Attribution Methods]]"
+  - '[[Gradient-Based Attribution Methods]]'
+  - '[[Attention-Based Attribution Methods]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Gradient vs Attention Methods**
+> *Compare gradient-based and attention-based attribution methods.*
+>
+> ```mermaid
+> graph TD
+>   A[Input Tokens]
+>   B[Gradients]
+>   C[Attention Weights]
+>   D[Output Scores]
+>   A -->|Compute Gradients| B
+>   A -->|Extract Attention| C
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 2 — Feature Attribution Process Flow**
+> *Follow the process from input to attribution scores.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input]
+>   B[Model Processing]
+>   C[Attribution Calculation]
+>   D[Output Scores]
+>   A --> B
+>   B -->|Attention/Gradients| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Feature Attribution Applications**
+> *Identify applications of feature attribution in debugging and trust.*
+>
+> ```mermaid
+> graph TD
+>   A[Debugging Failures]
+>   B[Identifying Correlations]
+>   C[Building Trust]
+>   D[Input Features]
+>   E[Attribution Scores]
+>   F[Model Outputs]
+>   D -->|Gradient/Attention| E
+>   E --> A
+>   E --> B
+>   E --> C
+> ```
 
 # Feature Attribution in Large Language Models
 

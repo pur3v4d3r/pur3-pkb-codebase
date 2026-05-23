@@ -1,15 +1,14 @@
 ---
-title: "Knowledge Graph Augmented Generation"
+title: Knowledge Graph Augmented Generation
 aliases:
-  - "Knowledge Graph Augmented Generation"
-  - "KGAG"
-  - "knowledge-graph RAG"
-  - "graph-augmented generation"
-  - "KG-RAG"
+  - Knowledge Graph Augmented Generation
+  - KGAG
+  - knowledge-graph RAG
+  - graph-augmented generation
+  - KG-RAG
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,91 @@ subdomains:
   - knowledge-representation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "knowledge-graph-augmented-generation-synthetic-seed-2026-05-22"
+  - knowledge-graph-augmented-generation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
-  - "[[Knowledge Graphs]]"
-  - "[[Entity Linking in Prompts]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
+  - '[[Knowledge Graphs]]'
+  - '[[Entity Linking in Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation (RAG)]]"
+  - '[[Retrieval-Augmented Generation (RAG)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Knowledge Graphs]]"
+  - '[[Knowledge Graphs]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Entity Linking in Prompts]]"
+  - '[[Entity Linking in Prompts]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — KGAG Process Flow**
+> *Follow the steps from query to LLM prompt integration.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Query] --> B[Identify Relevant Nodes]
+>   B --> C[Extract Relational Chains]
+>   C --> D[Linearize into NL Fragments]
+>   D --> E[Integrate with Prompt]
+> ```
+
+
+> [!abstract] **Diagram 2 — KGAG vs Text-Based RAG**
+> *Compare KGAG's structured approach to text-based retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Text-Based Retrieval] -->|Infer Relational Chains| B[Multiple Retrievals]
+>   C[KGAG] -->|Explicitly Encode Relations| D[Deterministic Traversal]
+> ```
+
+
+> [!abstract] **Diagram 3 — Knowledge Graph Structure**
+> *Trace the multi-hop reasoning paths within a knowledge graph.*
+>
+> ```mermaid
+> graph TD
+>   A[Entity1] --> B[Relation]
+>   B --> C[Entity2]
+>   C --> D[Relation]
+>   D --> E[Entity3]
+> ```
 
 # Knowledge Graph Augmented Generation
 

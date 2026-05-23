@@ -1,14 +1,13 @@
 ---
-title: "Knowledge Localization in FFN"
+title: Knowledge Localization in FFN
 aliases:
-  - "Knowledge Localization in FFN"
-  - "factual knowledge in MLP layers"
-  - "FFN as knowledge store"
-  - "transformer MLP knowledge localisation"
+  - Knowledge Localization in FFN
+  - factual knowledge in MLP layers
+  - FFN as knowledge store
+  - transformer MLP knowledge localisation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,114 @@ subdomains:
   - factual-knowledge
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "knowledge-localization-in-ffn-synthetic-seed-2026-05-22"
+  - knowledge-localization-in-ffn-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[ROME Experiments]]"
-  - "[[Causal Tracing in Transformers]]"
+  - '[[ROME Experiments]]'
+  - '[[Causal Tracing in Transformers]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[ROME Experiments]]"
+  - '[[ROME Experiments]]'
 supports:
-  - "[[Causal Tracing in Transformers]]"
+  - '[[Causal Tracing in Transformers]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Knowledge Localization Mechanism**
+> *Follow the flow from input to localized memory retrieval.*
+>
+> ```mermaid
+> graph TD
+>   A[Input]
+>   B[Subject Features]
+>   C[Factual Associations]
+>   D[Localized Memory]
+>   E[Output]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Knowledge Localization vs Distributed Representation**
+> *Compare localized and distributed knowledge storage approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Localized Memory]
+>   B[Factual Associations]
+>   C[Distributed Knowledge]
+>   D[Multilayer Spread]
+>   E[Complex Reasoning]
+>   F[Targeted Editing]
+>   G[Multi-hop Inference]
+>   A -->|Focused Retrieval| B
+>   C -->|Spread Across Layers| D
+>   A -.-> F
+>   C -.-> G
+>   B -->|Precision| E
+>   D -->|Accuracy| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Editing Process in FFN**
+> *Trace the process of editing factual knowledge within localized memory.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   participant Layer as L
+>   U->>M: Query 'Eiffel Tower is in Paris'
+>   M->>L: Retrieve from Localized Memory
+>   alt Modify Knowledge
+>     L-->>U: Confirm Retrieval
+>     U->>L: Edit to 'Rome'
+>     L-->>M: Update Localized Memory
+>   else No Change
+>     L-->>M: Return Original Fact
+>   end
+> ```
 
 # Knowledge Localization in FFN
 

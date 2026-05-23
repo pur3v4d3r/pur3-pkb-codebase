@@ -1,14 +1,13 @@
 ---
-title: "Prompt Calibration Techniques"
+title: Prompt Calibration Techniques
 aliases:
-  - "Prompt Calibration Techniques"
-  - "prompt bias correction"
-  - "output calibration for prompts"
-  - "in-context calibration"
+  - Prompt Calibration Techniques
+  - prompt bias correction
+  - output calibration for prompts
+  - in-context calibration
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,108 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prompt-calibration-techniques-synthetic-seed-2026-05-22"
+  - prompt-calibration-techniques-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Probability Calibration]]"
-  - "[[Label Sensitivity]]"
+  - '[[Probability Calibration]]'
+  - '[[Label Sensitivity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Probability Calibration]]"
+  - '[[Probability Calibration]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Label Sensitivity]]"
+  - '[[Label Sensitivity]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prompt Calibration Techniques Overview**
+> *Identify the different types of calibration techniques and their focus areas.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextual]
+>   B[Prototypical]
+>   C[Verbal]
+>   D[Domain]
+>   A -->|Corrects label biases| E[Content-free prompt]
+>   B -->|Normalizes based on typical examples| F[Positive/Negative Examples]
+>   C -->|Uses linguistic confidence expressions| G[Linguistic Confidence]
+>   D -->|Estimates miscalibration with in-domain data| H[In-Domain Data]
+> ```
+
+
+> [!abstract] **Diagram 2 — Calibration Techniques Comparison**
+> *Compare the focus and methods of different calibration techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Contextual]
+>   B[Prototypical]
+>   C[Verbal]
+>   D[Domain]
+>   A -->|Divides output probabilities by content-free prompt|
+>   B -->|Normalizes based on typical positive/negative examples|
+>   C -->|Uses linguistic confidence expressions for calibration|
+>   D -->|Estimates miscalibration with in-domain data and applies correction function|
+> ```
+
+
+> [!abstract] **Diagram 3 — Practical Applications of Calibration Techniques**
+> *Understand the practical applications of different calibration techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Document Review]
+>   C[Contextual]
+>   D[Prototypical]
+>   E[Verbal]
+>   F[Domain]
+>   A -->|Ensures accurate and reliable feedback|
+>   B -->|Maintains integrity of automated legal analysis|
+>   C -->|Corrects general biases introduced by any prompt|
+>   D -->|Targets specific types of bias related to particular examples|
+>   E -->|Improves model reliability through linguistic confidence expressions|
+>   F -->|Estimates and corrects miscalibration with in-domain data|
+> ```
 
 # Prompt Calibration Techniques
 

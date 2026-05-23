@@ -1,14 +1,13 @@
 ---
-title: "Mathematical Proof Prompting"
+title: Mathematical Proof Prompting
 aliases:
-  - "Mathematical Proof Prompting"
-  - "proof generation prompting"
-  - "formal reasoning in LLMs"
-  - "mathematical deduction prompts"
+  - Mathematical Proof Prompting
+  - proof generation prompting
+  - formal reasoning in LLMs
+  - mathematical deduction prompts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "mathematical-proof-prompting-synthetic-seed-2026-05-22"
+  - mathematical-proof-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Chain-of-Thought Prompting]]"
-  - "[[Logical Entailment Verification]]"
+  - '[[Chain-of-Thought Prompting]]'
+  - '[[Logical Entailment Verification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Logical Entailment Verification]]"
+  - '[[Logical Entailment Verification]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Mathematical Proof Process Flow**
+> *Follow the steps from prompt to formal proof generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Prompt Specification]
+>   B --> C[Axioms and Premises]
+>   C --> D[Inference Rules Application]
+>   D --> E[Formal Proof Generation]
+>   E --> F[Verification]
+> ```
+
+
+> [!abstract] **Diagram 2 — Natural Language vs Formal Proofs Comparison**
+> *Compare the clarity and rigor of natural language versus formal proofs.*
+>
+> ```mermaid
+> graph TD
+>   A[Natural Language Proof] --> B[Clear Intuition]
+>   C[Formal Proof] --> D[Rigorous Justification]
+>   E[Logical Errors] --> F[Difficult to Detect]
+>   G[Verification] --> H[Easily Verifiable]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Areas of Mathematical Proof Prompting**
+> *Identify the key areas where mathematical proof prompting is applied.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B[Educational Tools]
+>   C[Research Collaboration] --> D[Mechanized Proofs]
+>   E[Industry Validation] --> F[Rigorous Models]
+> ```
 
 # Mathematical Proof Prompting
 

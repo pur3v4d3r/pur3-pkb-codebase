@@ -1,14 +1,13 @@
 ---
-title: "Availability Heuristic in LLMs"
+title: Availability Heuristic in LLMs
 aliases:
-  - "Availability Heuristic in LLMs"
-  - "availability bias in LLMs"
-  - "frequency estimation bias in LLMs"
-  - "salience-driven frequency distortion"
+  - Availability Heuristic in LLMs
+  - availability bias in LLMs
+  - frequency estimation bias in LLMs
+  - salience-driven frequency distortion
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,87 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "availability-heuristic-in-llms-synthetic-seed-2026-05-22"
+  - availability-heuristic-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Bias"
-
+parent-concept: Cognitive Bias
 related:
-  - "[[Anchoring Bias in LLM Reasoning]]"
-  - "[[Overconfidence in LLM Outputs]]"
+  - '[[Anchoring Bias in LLM Reasoning]]'
+  - '[[Overconfidence in LLM Outputs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Anchoring Bias in LLM Reasoning]]"
-  - "[[Overconfidence in LLM Outputs]]"
+  - '[[Anchoring Bias in LLM Reasoning]]'
+  - '[[Overconfidence in LLM Outputs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Frequency Estimation Bias**
+> *Identify how LLMs overestimate common and underestimate rare events.*
+>
+> ```mermaid
+> graph TD
+>   A[High-Frequency Events] --> B[Overestimated]
+>   C[Rare Events] --> D[Underestimated]
+> ```
+
+
+> [!abstract] **Diagram 2 — Risk Assessment Bias**
+> *Observe how LLMs misjudge risks based on availability.*
+>
+> ```mermaid
+> graph TD
+>   A[Sensationalized Risks] --> B[Overestimated]
+>   C[Subtle Threats] --> D[Underestimated]
+> ```
+
+
+> [!abstract] **Diagram 3 — Availability Heuristic vs Anchoring Bias**
+> *Compare the focus of availability heuristic and anchoring bias.*
+>
+> ```mermaid
+> graph TD
+>   A[Availability Heuristic] --> B[Frequency Estimation]
+>   C[Anchoring Bias] --> D[Initial Value Stickiness]
+> ```
 
 # Availability Heuristic in LLMs
 

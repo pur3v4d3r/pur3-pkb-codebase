@@ -1,14 +1,13 @@
 ---
-title: "Chunking Strategies for RAG"
+title: Chunking Strategies for RAG
 aliases:
-  - "Chunking Strategies for RAG"
-  - "document chunking"
-  - "text segmentation for RAG"
-  - "passage splitting strategies"
+  - Chunking Strategies for RAG
+  - document chunking
+  - text segmentation for RAG
+  - passage splitting strategies
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,109 @@ subdomains:
   - information-retrieval
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "chunking-strategies-for-rag-synthetic-seed-2026-05-22"
+  - chunking-strategies-for-rag-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Retrieval-Augmented Generation]]"
-  - "[[Dense Retrieval]]"
+  - '[[Retrieval-Augmented Generation]]'
+  - '[[Dense Retrieval]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Dense Retrieval]]"
+  - '[[Dense Retrieval]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Chunking Strategies Overview**
+> *Identify the balance between precision and completeness.*
+>
+> ```mermaid
+> graph TD
+>   A[Coarse Chunks]
+>   B[Fine Chunks]
+>   C[Precision]
+>   D[Completeness]
+>   A -->|Preserves Context|-- D
+>   B -->|Captures Specifics|-- C
+> ```
+
+
+> [!abstract] **Diagram 2 — Chunking Mechanism Flow**
+> *Follow the process from documents to chunks.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Documents]
+>   B[Fixed-Size Windows]
+>   C[Semantic Boundaries]
+>   D[Chunks]
+>   A -->|Segmentation|-- B & C
+>   B --> D
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Comparison**
+> *Compare instructional design and legal document analysis.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design]
+>   B[Legal Document Analysis]
+>   C[Coarse Chunks]
+>   D[Fine Chunks]
+>   E[Broad Understanding]
+>   F[Precision]
+>   G[Comprehensive Info]
+>   H[Necessary Points]
+>   I[Context Retention]
+>   J[Cross-References]
+>   A -->|Prefer|-- C
+>   B -->|Prefer|-- D
+>   C -->|Supports|-- E & G
+>   D -->|Ensures|-- F & H
+>   C -->|Risk|-- I
+>   D -->|Requires|-- J
+> ```
 
 # Chunking Strategies for RAG
 

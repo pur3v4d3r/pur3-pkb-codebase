@@ -1,14 +1,13 @@
 ---
-title: "Streaming Output Management"
+title: Streaming Output Management
 aliases:
-  - "Streaming Output Management"
-  - "token streaming"
-  - "progressive output delivery"
-  - "real-time LLM output streaming"
+  - Streaming Output Management
+  - token streaming
+  - progressive output delivery
+  - real-time LLM output streaming
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,96 @@ subdomains:
   - user-experience
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "streaming-output-management-synthetic-seed-2026-05-22"
+  - streaming-output-management-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Model Optimization"
-
+parent-concept: Large Language Model Optimization
 related:
-  - "[[Latency-Aware Prompt Design]]"
-  - "[[Prompt Batching Patterns]]"
+  - '[[Latency-Aware Prompt Design]]'
+  - '[[Prompt Batching Patterns]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Latency-Aware Prompt Design]]"
+  - '[[Latency-Aware Prompt Design]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Batching Patterns]]"
+  - '[[Prompt Batching Patterns]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Streaming vs Non-streaming Delivery Methods**
+> *Compare the output delivery approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   B[Non-Streaming: Wait for Full Output]
+>   C[Streaming: Deliver Tokens as Generated]
+>   A -->|Output Generation| B
+>   A -->|Token Generation| C
+> ```
+
+
+> [!abstract] **Diagram 2 — Real-time Data Delivery Protocols**
+> *Identify the protocols used for streaming.*
+>
+> ```mermaid
+> graph TD
+>   A[Server]
+>   B[Client]
+>   A -->|SSE (Push Updates)| B
+>   A -->|WebSockets (Bidirectional Comm.)| B
+> ```
+
+
+> [!abstract] **Diagram 3 — Streaming Output Pipeline**
+> *Follow the flow of tokens from generation to display.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Token Generation]
+>   B[Server-Sent Events/WebSockets]
+>   C[Client-side Rendering]
+>   D[User Interaction]
+>   A -->|Deliver Tokens| B
+>   B -->|Receive Tokens| C
+>   C -->|Display Partial Output| D
+> ```
 
 # Streaming Output Management
 

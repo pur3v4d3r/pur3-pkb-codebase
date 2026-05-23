@@ -1,14 +1,13 @@
 ---
-title: "Prometheus Evaluation Model"
+title: Prometheus Evaluation Model
 aliases:
-  - "Prometheus Evaluation Model"
-  - "Prometheus judge model"
-  - "fine-tuned evaluator LLM"
-  - "open-source evaluation model"
+  - Prometheus Evaluation Model
+  - Prometheus judge model
+  - fine-tuned evaluator LLM
+  - open-source evaluation model
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,91 @@ subdomains:
   - automatic-evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "prometheus-evaluation-model-synthetic-seed-2026-05-22"
+  - prometheus-evaluation-model-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Rubric-Based Evaluation]]"
-  - "[[Fine-Tuning]]"
+  - '[[Rubric-Based Evaluation]]'
+  - '[[Fine-Tuning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Rubric-Based Evaluation]]"
+  - '[[Rubric-Based Evaluation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Fine-Tuning]]"
+  - '[[Fine-Tuning]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Prometheus Evaluation Process Flow**
+> *Follow the flow from input to output, noting key steps.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Generated Text] --> B[Rubric-Based Prompt]
+>   B --> C[Prometheus Model]
+>   C --> D[Quality Score]
+>   C --> E[Evaluation Rationale]
+> ```
+
+
+> [!abstract] **Diagram 2 — Prometheus Training Data Flow**
+> *Trace the data flow from GPT-4 to Prometheus training.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[GPT-4]
+>   B --> C[(input, response, rubric criteria, score, feedback)]
+>   C --> D[Prometheus Training Data]
+> ```
+
+
+> [!abstract] **Diagram 3 — Prometheus vs General-Purpose LLMs**
+> *Compare the evaluation focus of Prometheus and general-purpose models.*
+>
+> ```mermaid
+> graph TD
+>   A[General-Purpose LLM]
+>   B[Prometheus Evaluation Model]
+>   A -->|Wide Variety Tasks| C[Ineffective for Specific Evaluation]
+>   B -->|Evaluation-Specific Fine-Tuning| D[Evaluation Criteria Based Scores]
+> ```
 
 # Prometheus Evaluation Model
 

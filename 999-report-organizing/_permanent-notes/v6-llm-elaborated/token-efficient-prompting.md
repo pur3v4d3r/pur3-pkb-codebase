@@ -1,14 +1,13 @@
 ---
-title: "Token-Efficient Prompting"
+title: Token-Efficient Prompting
 aliases:
-  - "Token-Efficient Prompting"
-  - "compact prompting"
-  - "cost-efficient prompting"
-  - "low-token prompting"
+  - Token-Efficient Prompting
+  - compact prompting
+  - cost-efficient prompting
+  - low-token prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,87 @@ subdomains:
   - efficiency
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "token-efficient-prompting-synthetic-seed-2026-05-22"
+  - token-efficient-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Pruning]]"
-  - "[[Prompt Distillation]]"
+  - '[[Prompt Pruning]]'
+  - '[[Prompt Distillation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Prompt Pruning]]"
-  - "[[Prompt Distillation]]"
+  - '[[Prompt Pruning]]'
+  - '[[Prompt Distillation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Token-Efficient Prompting Process Flow**
+> *Follow the flow from verbose to structured prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Verbose Natural Language] --> B[Pseudo-code/Bullet Points]
+>   B --> C[Reduced Token Count]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token-Efficient Prompting Mechanism Overview**
+> *Trace the steps from analysis to structured format.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Analyze Prompt Content] --> B[Identify Redundancy]
+>   B --> C[Convert to Structured Format]
+> ```
+
+
+> [!abstract] **Diagram 3 — Token-Efficient vs General Prompt Engineering**
+> *Compare the focus areas of both approaches.*
+>
+> ```mermaid
+> graph TD
+>   A[General Prompt Engineering] -->|Various Techniques| B[Effective Prompts]
+>   C[Token-Efficient Prompting] -->|Minimize Tokens| D[Efficiency without Sacrificing Effectiveness]
+> ```
 
 # Token-Efficient Prompting
 

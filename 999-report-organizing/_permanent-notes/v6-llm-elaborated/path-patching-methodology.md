@@ -1,14 +1,13 @@
 ---
-title: "Path Patching Methodology"
+title: Path Patching Methodology
 aliases:
-  - "Path Patching Methodology"
-  - "path-level causal tracing"
-  - "computational pathway analysis"
-  - "causal circuit tracing"
+  - Path Patching Methodology
+  - path-level causal tracing
+  - computational pathway analysis
+  - causal circuit tracing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,102 @@ subdomains:
   - causal-inference
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "path-patching-methodology-synthetic-seed-2026-05-22"
+  - path-patching-methodology-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Mechanistic Interpretability"
-
+parent-concept: Mechanistic Interpretability
 related:
-  - "[[Activation Patching]]"
-  - "[[Causal Tracing]]"
+  - '[[Activation Patching]]'
+  - '[[Causal Tracing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Activation Patching]]"
+  - '[[Activation Patching]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Causal Tracing]]"
+  - '[[Causal Tracing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Path Patching Workflow Overview**
+> *Follow the flow from source to destination, noting clean and corrupted activations.*
+>
+> ```mermaid
+> graph TD
+>   A[Source Activation]
+>   B[Intermediate Clean]
+>   C[Intermediate Corrupted]
+>   D[Destination Output]
+>   A -->|Alteration| B
+>   B -->|No Change| C
+>   C -->|Impact Observed| D
+> ```
+
+
+> [!abstract] **Diagram 2 — Path Patching Mechanism Flowchart**
+> *Trace the causal influence from source to destination, identifying direct and indirect pathways.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Select Source]
+>   B[Define Intermediate Components]
+>   C[Hold Clean/Corrupt Activations]
+>   D[Observe Impact on Destination]
+>   A --> B
+>   B --> C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — Path Patching Taxonomy**
+> *Compare direct and indirect pathways in the context of clean and corrupted activations.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Path]
+>   B[Indirect Path]
+>   C[Hold Clean]
+>   D[Hold Corrupt]
+>   A -->|Clean| C
+>   A -->|Corrupt| D
+>   B -->|Clean| C
+>   B -->|Corrupt| D
+> ```
 
 # Path Patching Methodology
 

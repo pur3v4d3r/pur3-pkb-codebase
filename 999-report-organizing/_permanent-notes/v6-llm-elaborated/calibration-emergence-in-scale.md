@@ -1,14 +1,13 @@
 ---
-title: "Calibration Emergence in Scale"
+title: Calibration Emergence in Scale
 aliases:
-  - "Calibration Emergence in Scale"
-  - "calibration improvement with scale"
-  - "scale-dependent calibration"
-  - "calibration scaling"
+  - Calibration Emergence in Scale
+  - calibration improvement with scale
+  - scale-dependent calibration
+  - calibration scaling
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,93 @@ subdomains:
   - reliability
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "calibration-emergence-in-scale-synthetic-seed-2026-05-22"
+  - calibration-emergence-in-scale-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Instruction Tuning]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Instruction Tuning]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Instruction Tuning]]"
-  - "[[Reinforcement Learning from Human Feedback (RLHF)]]"
+  - '[[Instruction Tuning]]'
+  - '[[Reinforcement Learning from Human Feedback (RLHF)]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Calibration Emergence Process Flow**
+> *Follow the progression from model size to calibration improvement.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Size] --> B[Data Fit]
+>   B --> C[Nuanced Patterns]
+>   C --> D[Probability Estimates]
+>   D --> E[Calibration Improvement]
+> ```
+
+
+> [!abstract] **Diagram 2 — Task Calibration Comparison**
+> *Compare calibration performance across different tasks before and after tuning.*
+>
+> ```mermaid
+> graph TD
+>   A[Knowledge-Intensive Tasks] --> B[Pre-Tuning]
+>   C[Instruction Tuning] --> D[Post-Tuning]
+>   E[Factual Questions] --> F[Calibration Improvement]
+>   G[Verbalized Uncertainty] --> H[Overconfidence]
+> ```
+
+
+> [!abstract] **Diagram 3 — Model Calibration Mechanisms**
+> *Identify the mechanisms contributing to calibration improvement in larger models.*
+>
+> ```mermaid
+> graph TD
+>   A[Increased Capacity] --> B[Nuanced Patterns]
+>   C[Less Regularization] --> D[Closer Data Fit]
+>   E[Nuanced Patterns] --> F[Better Calibration]
+>   G[Closer Data Fit] --> H[Better Calibration]
+> ```
 
 # Calibration Emergence in Scale
 

@@ -1,14 +1,13 @@
 ---
-title: "G-Eval Scoring Methodology"
+title: G-Eval Scoring Methodology
 aliases:
-  - "G-Eval Scoring Methodology"
-  - "G-Eval"
-  - "form-filling evaluation"
-  - "criterion-conditioned probability scoring"
+  - G-Eval Scoring Methodology
+  - G-Eval
+  - form-filling evaluation
+  - criterion-conditioned probability scoring
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,88 @@ subdomains:
   - natural-language-generation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "g-eval-scoring-methodology-synthetic-seed-2026-05-22"
+  - g-eval-scoring-methodology-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[Prometheus Evaluation Model]]"
-  - "[[Rubric-Based Evaluation]]"
+  - '[[Prometheus Evaluation Model]]'
+  - '[[Rubric-Based Evaluation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prometheus Evaluation Model]]"
+  - '[[Prometheus Evaluation Model]]'
 contrasts-with:
-  - "[[Rubric-Based Evaluation]]"
+  - '[[Rubric-Based Evaluation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — G-Eval Process Flowchart**
+> *Follow the steps from form generation to scoring.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Evaluator LLM Generates Form]
+>   B --> C[Score Based on Token Probability Distributions]
+>   C --> D[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Token Scoring vs Sampled Ratings**
+> *Compare the reliability of token probability scoring and sampled ratings.*
+>
+> ```mermaid
+> graph TD
+>   A[Token Probability Scoring] -->|Captures Uncertainty| B[Reliable Scores]
+>   C[Sampled Ratings] -->|High Variance| D[Inconsistent Results]
+> ```
+
+
+> [!abstract] **Diagram 3 — G-Eval Applications Overview**
+> *Identify the applications where G-Eval can be used.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] -->|Detailed Evaluation Forms|
+>   B[Dialogue Systems] -->|Coherence and Relevance]
+>   C[Creative Writing] -->|Originality and Creativity]
+> ```
 
 # G-Eval Scoring Methodology
 

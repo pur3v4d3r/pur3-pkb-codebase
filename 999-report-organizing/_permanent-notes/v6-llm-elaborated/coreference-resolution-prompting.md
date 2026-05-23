@@ -1,14 +1,13 @@
 ---
-title: "Coreference Resolution Prompting"
+title: Coreference Resolution Prompting
 aliases:
-  - "Coreference Resolution Prompting"
-  - "anaphora resolution prompting"
-  - "co-reference resolution in LLMs"
-  - "pronoun disambiguation prompting"
+  - Coreference Resolution Prompting
+  - anaphora resolution prompting
+  - co-reference resolution in LLMs
+  - pronoun disambiguation prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,98 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "coreference-resolution-prompting-synthetic-seed-2026-05-22"
+  - coreference-resolution-prompting-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Entity Linking]]"
-  - "[[Semantic Grounding in LLMs]]"
+  - '[[Entity Linking]]'
+  - '[[Semantic Grounding in LLMs]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Entity Linking]]"
+  - '[[Entity Linking]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Semantic Grounding in LLMs]]"
+  - '[[Semantic Grounding in LLMs]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Coreference Resolution Process Flow**
+> *Follow the steps from input text to resolved output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Text] --> B[Pronoun Identification]
+>   B --> C[Antecedent Search]
+>   C --> D[Resolution Check]
+>   D --> E[Output Resolved Text]
+> ```
+
+
+> [!abstract] **Diagram 2 — Coreference Resolution Taxonomy**
+> *Identify the types of co-referential mentions and their relationships.*
+>
+> ```mermaid
+> graph TD
+>   A[Pronoun] --> B[He/She]
+>   C[Definite Description] --> D[The Cat]
+>   E[Demonstrative] --> F[That Book]
+>   G[Zero Anaphora] --> H[Left Out]
+> ```
+
+
+> [!abstract] **Diagram 3 — Explicit vs Implicit Resolution Comparison**
+> *Compare the accuracy of explicit and implicit coreference resolution.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant Model as M
+>   U->>M: Input Text with Co-references
+>   alt Explicit Prompting
+>     M->>U: Resolve Coreferences Explicitly
+>     U-->>M: Correct Attribution
+>   else Implicit Resolution
+>     M->>U: Attempt to Infer Coreferences
+>     U-->>M: Potential Errors
+>   end
+> ```
 
 # Coreference Resolution Prompting
 

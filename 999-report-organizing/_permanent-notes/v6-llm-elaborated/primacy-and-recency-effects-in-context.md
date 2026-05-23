@@ -1,15 +1,14 @@
 ---
-title: "Primacy and Recency Effects in Context"
+title: Primacy and Recency Effects in Context
 aliases:
-  - "Primacy and Recency Effects in Context"
-  - "serial position effects in LLMs"
-  - "lost-in-the-middle phenomenon"
-  - "context primacy bias"
-  - "long-context position bias"
+  - Primacy and Recency Effects in Context
+  - serial position effects in LLMs
+  - lost-in-the-middle phenomenon
+  - context primacy bias
+  - long-context position bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,94 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "primacy-and-recency-effects-in-context-synthetic-seed-2026-05-22"
+  - primacy-and-recency-effects-in-context-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+parent-concept: Cognitive Architecture
 related:
-  - "[[Serial Position Effect]]"
-  - "[[Attention Sinks]]"
+  - '[[Serial Position Effect]]'
+  - '[[Attention Sinks]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Serial Position Effect]]"
+  - '[[Serial Position Effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Attention Sinks]]"
+  - '[[Attention Sinks]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLM Context Processing Flow**
+> *Follow the flow from input to output, noting where primacy and recency effects occur.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input] --> B[Integration]
+>   B --> C[Processing]
+>   C --> D[Output]
+>   B -.-> E[Primacy Bias]
+>   C -.-> F[Recency Bias]
+> ```
+
+
+> [!abstract] **Diagram 2 — Positional Encoding Types**
+> *Compare the different types of positional encodings and their impact on primacy and recency.*
+>
+> ```mermaid
+> graph TD
+>   A(RoPE) --> B[Prim/Rec Bias]
+>   C(ALiBi) --> D[Prim/Rec Bias]
+>   E(Absolute) -.-> F[Less Bias]
+>   G(Sinusoidal) -.-> H[Less Bias]
+> ```
+
+
+> [!abstract] **Diagram 3 — Performance Degradation by Position**
+> *Observe the performance drop when information is in the middle of the context window.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> Start: Begin Context Window
+>   Start --> Middle: Information in Middle
+>   Middle --> End: ~40-60% Accuracy
+>   Start --> Extreme: Information at Extremes
+>   Extreme --> End: ~70-80% Accuracy
+> ```
 
 # Primacy and Recency Effects in Context
 

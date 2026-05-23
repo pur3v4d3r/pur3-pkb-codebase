@@ -1,15 +1,14 @@
 ---
-title: "Inter-Annotator Agreement"
+title: Inter-Annotator Agreement
 aliases:
-  - "Inter-Annotator Agreement"
-  - "Inter-Annotator Agreement in Evals"
-  - "IAA in LLM evaluation"
-  - "annotator consistency"
-  - "human evaluator reliability"
+  - Inter-Annotator Agreement
+  - Inter-Annotator Agreement in Evals
+  - IAA in LLM evaluation
+  - annotator consistency
+  - human evaluator reliability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,85 @@ subdomains:
   - annotation-quality
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "inter-annotator-agreement-in-evals-synthetic-seed-2026-05-22"
+  - inter-annotator-agreement-in-evals-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[LLM Evaluation]]"
-  - "[[Human vs. LLM Agreement]]"
+  - '[[LLM Evaluation]]'
+  - '[[Human vs. LLM Agreement]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LLM Evaluation]]"
+  - '[[LLM Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Human vs. LLM Agreement]]"
+  - '[[Human vs. LLM Agreement]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — IAA Levels for Different Criteria**
+> *Compare IAA levels between holistic and categorical evaluations.*
+>
+> ```mermaid
+> graph TD
+>   A[Holistic Scale]
+>   B[Categorical Criteria]
+>   A -->|Cohen's Kappa: 0.3-0.5| C[Moderate Agreement]
+>   B -->|Cohen's Kappa > 0.7| D[High Agreement]
+> ```
+
+
+> [!abstract] **Diagram 2 — IAA in Evaluation Process**
+> *Follow the flow from model output to final evaluation report.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Model Output]
+>   B[Evaluation Rubric]
+>   C[Human Annotators]
+>   D[Cohen's Kappa Calculation]
+>   E[Final Report]
+>   A -->|Rated by| C
+>   C -->|Using| B
+>   C -->|IAA Calculated| D
+>   D -->|Included in| E
+> ```
 
 # Inter-Annotator Agreement
 

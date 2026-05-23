@@ -1,14 +1,13 @@
 ---
-title: "Model Capability vs. Alignment Gap"
+title: Model Capability vs. Alignment Gap
 aliases:
-  - "Model Capability vs. Alignment Gap"
-  - "capability-alignment gap"
-  - "alignment tax"
-  - "safety-capability trade-off"
+  - Model Capability vs. Alignment Gap
+  - capability-alignment gap
+  - alignment tax
+  - safety-capability trade-off
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,90 @@ subdomains:
   - model-evaluation
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "model-capability-vs-alignment-gap-synthetic-seed-2026-05-22"
+  - model-capability-vs-alignment-gap-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Large Language Models"
-
+parent-concept: Large Language Models
 related:
-  - "[[Latent Capability Unlocking]]"
-  - "[[Instruction Following Emergence]]"
+  - '[[Latent Capability Unlocking]]'
+  - '[[Instruction Following Emergence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Latent Capability Unlocking]]"
+  - '[[Latent Capability Unlocking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Instruction Following Emergence]]"
+  - '[[Instruction Following Emergence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Model Capability vs. Alignment Gap Overview**
+> *Follow the flow from full capability to alignment gap.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Full Model Capabilities] --> B[Fine-Tuning for Safety]
+>   B --> C[Enhanced Instruction Following]
+>   B --> D[Restricted Unrestricted Content Generation]
+> ```
+
+
+> [!abstract] **Diagram 2 — Alignment Techniques Impact on Tasks**
+> *Identify how different tasks are affected by alignment techniques.*
+>
+> ```mermaid
+> graph TD
+>   A[Instruction Following] --> B[Enhanced]
+>   C[Content Generation] --> D[Restricted]
+>   E[Response Formatting] --> F[Enhanced]
+> ```
+
+
+> [!abstract] **Diagram 3 — Capability Redistribution Dynamics**
+> *Trace the redistribution of capabilities under safety constraints.*
+>
+> ```mermaid
+> stateDiagram-v2
+>   [*] --> FullCapabilities : Start
+>   FullCapabilities --> SafetyConstraints : Fine-Tuning
+>   SafetyConstraints --> EnhancedInstructionFollowing : Capability Shift
+>   SafetyConstraints --> RestrictedContentGeneration : Capability Restriction
+> ```
 
 # Model Capability vs. Alignment Gap
 

@@ -1,14 +1,13 @@
 ---
-title: "Evaluation Prompt Design"
+title: Evaluation Prompt Design
 aliases:
-  - "Evaluation Prompt Design"
-  - "evaluation prompt engineering"
-  - "judge prompt design"
-  - "LLM-as-judge prompt"
+  - Evaluation Prompt Design
+  - evaluation prompt engineering
+  - judge prompt design
+  - LLM-as-judge prompt
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,112 @@ subdomains:
   - evaluation-methodology
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "evaluation-prompt-design-synthetic-seed-2026-05-22"
+  - evaluation-prompt-design-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "LLM Evaluation"
-
+parent-concept: LLM Evaluation
 related:
-  - "[[LLM Evaluation]]"
-  - "[[Prompt Engineering]]"
+  - '[[LLM Evaluation]]'
+  - '[[Prompt Engineering]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[LLM Evaluation]]"
+  - '[[LLM Evaluation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Prompt Engineering]]"
+  - '[[Prompt Engineering]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Evaluation Prompt Design Process Flow**
+> *Follow the steps from criteria definition to prompt validation.*
+>
+> ```mermaid
+> graph TD
+>   A[Define Criteria]
+>   B[Design Scales]
+>   C[Craft Instructions]
+>   D[Test Prompts]
+>   E[Validate Outcomes]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Evaluation Prompt Design Theoretical Foundations**
+> *Identify the key theories influencing prompt design.*
+>
+> ```mermaid
+> graph TD
+>   A[Sweller's Cognitive Load Theory]
+>   B[Educational Measurement Theory]
+>   C[Cognitive Psychology]
+>   D[Minimize Extraneous Load]
+>   E[Maximize Intrinsic Load]
+>   F[Ensure Quality Evaluation]
+>   A -->|Informs| D
+>   B -->|Guides| E
+>   C -->|Supports| F
+>   D --> F
+> ```
+
+
+> [!abstract] **Diagram 3 — Evaluation Prompt vs Task Completion Prompt Comparison**
+> *Compare the focus and outcomes of evaluation prompts versus task completion prompts.*
+>
+> ```mermaid
+> graph TD
+>   A[Evaluation Prompt]
+>   B[Task Completion Prompt]
+>   C[Predefined Criteria & Scales]
+>   D[Specific Task Guidance]
+>   E[Quality Assessment]
+>   F[Output Evaluation]
+>   G[Tasks Without Standards]
+>   A -->|Focus| C
+>   A -->|Outcome| E
+>   B -->|Focus| D
+>   B -->|Outcome| F
+>   E -->|Based On| C
+>   F -->|Guided By| D
+> ```
 
 # Evaluation Prompt Design
 

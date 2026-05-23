@@ -1,14 +1,13 @@
 ---
-title: "Counterfactual Data Augmentation"
+title: Counterfactual Data Augmentation
 aliases:
-  - "Counterfactual Data Augmentation"
-  - "causal data augmentation"
-  - "minimal pair augmentation"
-  - "counterfactual training examples"
+  - Counterfactual Data Augmentation
+  - causal data augmentation
+  - minimal pair augmentation
+  - counterfactual training examples
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,113 @@ subdomains:
   - robustness
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "counterfactual-data-augmentation-synthetic-seed-2026-05-22"
+  - counterfactual-data-augmentation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Data Augmentation Techniques"
-
+parent-concept: Data Augmentation Techniques
 related:
-  - "[[Data Augmentation Techniques]]"
-  - "[[Causal Inference in Machine Learning]]"
+  - '[[Data Augmentation Techniques]]'
+  - '[[Causal Inference in Machine Learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Data Augmentation Techniques]]"
+  - '[[Data Augmentation Techniques]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Causal Inference in Machine Learning]]"
+  - '[[Causal Inference in Machine Learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Counterfactual Data Augmentation Process**
+> *Follow the flow from original data to counterfactual examples.*
+>
+> ```mermaid
+> graph TD
+>   A[Original Data]
+>   B[Identify Causal Features]
+>   C[Alter One Feature]
+>   D[Maintain Label Correctness]
+>   E[Counterfactual Examples]
+>   A --> B
+>   B --> C
+>   C --> D
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 2 — Causal vs Spurious Correlations**
+> *Compare the focus on causality in counterfactual augmentation.*
+>
+> ```mermaid
+> graph TD
+>   A[Original Data]
+>   B[Causal Features]
+>   C[Spurious Correlations]
+>   D[Counterfactual Augmentation]
+>   E[Focus On Causality]
+>   F[Ignored Patterns]
+>   A -->|Causal| B
+>   A -->|Non-Causal| C
+>   B --> D
+>   C -.-> F
+>   D --> E
+> ```
+
+
+> [!abstract] **Diagram 3 — Counterfactual Example Generation Flow**
+> *Trace the steps from data to augmented examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Data Point]
+>   B[Feature Selection]
+>   C[Alter Feature]
+>   D[Maintain Label]
+>   E[Counterfactual Example]
+>   A -->|Select One|
+>   B
+>   B -->|Change Value|
+>   C
+>   C -->|Verify Correctness|
+>   D
+>   D -->
+>   E
+> ```
 
 # Counterfactual Data Augmentation
 

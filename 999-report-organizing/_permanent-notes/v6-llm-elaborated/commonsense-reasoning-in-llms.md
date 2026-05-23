@@ -1,14 +1,13 @@
 ---
-title: "Commonsense Reasoning in LLMs"
+title: Commonsense Reasoning in LLMs
 aliases:
-  - "Commonsense Reasoning in LLMs"
-  - "common sense in LLMs"
-  - "commonsense knowledge reasoning"
-  - "everyday reasoning in LLMs"
+  - Commonsense Reasoning in LLMs
+  - common sense in LLMs
+  - commonsense knowledge reasoning
+  - everyday reasoning in LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,113 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "commonsense-reasoning-in-llms-synthetic-seed-2026-05-22"
+  - commonsense-reasoning-in-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Knowledge Representation"
-
+parent-concept: Knowledge Representation
 related:
-  - "[[World Model in Language Models]]"
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[World Model in Language Models]]'
+  - '[[Chain-of-Thought Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[World Model in Language Models]]"
+  - '[[World Model in Language Models]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Chain-of-Thought Prompting]]"
+  - '[[Chain-of-Thought Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Commonsense Reasoning Mechanism**
+> *Follow the flow from data to implicit knowledge activation.*
+>
+> ```mermaid
+> graph TD
+>   A[Training Data]
+>   B[Pattern Recognition]
+>   C[Implicit Knowledge]
+>   D[Prompt Activation]
+>   E[Contextual Understanding]
+>   A -->|Learn Patterns| B
+>   B -->|Understand Structure| C
+>   C -->|Latent Knowledge| D
+>   D -->|Activate Knowledge| E
+> ```
+
+
+> [!abstract] **Diagram 2 — Commonsense vs Specialized Knowledge**
+> *Compare the scope of commonsense reasoning with specialized factual knowledge.*
+>
+> ```mermaid
+> graph TD
+>   A[Commonsense Reasoning]
+>   B[Specialized Factual Knowledge]
+>   C[Everyday Physical Situations]
+>   D[Causal Relationships]
+>   E[Social Norms]
+>   F[Boiling Point of Water]
+>   G[Mathematical Theorems]
+>   A -->|Infer from Context| C
+>   A -->|Understand Cause and Effect| D
+>   A -->|Recognize Social Norms| E
+>   B -->|Explicit Information| F
+>   B -->|Formal Knowledge| G
+> ```
+
+
+> [!abstract] **Diagram 3 — Commonsense vs Logical Inference**
+> *Distinguish between commonsense reasoning and explicit logical inference.*
+>
+> ```mermaid
+> graph TD
+>   A[Commonsense Reasoning]
+>   B[Explicit Logical Inference]
+>   C[Intuitive Understanding]
+>   D[Contextual Cues]
+>   E[Rely on Assumptions]
+>   F[Formal Logic]
+>   G[Deductive Steps]
+>   A -->|Intuitive Comprehension| C
+>   A -->|Use Context| D
+>   A -->|Assume Typical Scenarios| E
+>   B -->|Apply Formal Rules| F
+>   B -->|Step-by-Step Deduction| G
+> ```
 
 # Commonsense Reasoning in LLMs
 

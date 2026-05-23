@@ -1,14 +1,13 @@
 ---
-title: "Adaptive RAG Routing"
+title: Adaptive RAG Routing
 aliases:
-  - "Adaptive RAG Routing"
-  - "Adaptive-RAG"
-  - "query-complexity routing"
-  - "conditional retrieval architecture"
+  - Adaptive RAG Routing
+  - Adaptive-RAG
+  - query-complexity routing
+  - conditional retrieval architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,79 @@ subdomains:
   - adaptive-inference
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "adaptive-rag-routing-synthetic-seed-2026-05-22"
+  - adaptive-rag-routing-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Retrieval-Augmented Generation"
-
+parent-concept: Retrieval-Augmented Generation
 related:
-  - "[[Query Classification]]"
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Query Classification]]'
+  - '[[Retrieval-Augmented Generation]]'
 prerequisites:
-  - "[[Query Classification]]"
+  - '[[Query Classification]]'
 specializes:
-  - "[[Retrieval-Augmented Generation]]"
+  - '[[Retrieval-Augmented Generation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Query Classification Process**
+> *Follow the flow from query input to retrieval strategy output.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Query] --> B[Classifier]
+>   B -->|Simple| C1[No Retrieval]
+>   B -->|Moderate| D2[Single-Step Retrieval]
+>   B -->|Complex| E3[Iterative Multi-Step Retrieval]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adaptive RAG Routing Strategies**
+> *Identify the retrieval strategy for each query complexity level.*
+>
+> ```mermaid
+> graph TD
+>   A[Simple] --> B1[No Retrieval]
+>   C[Moderate] --> D2[Single-Step Retrieval]
+>   E[Complex] --> F3[Iterative Multi-Step Retrieval]
+> ```
 
 # Adaptive RAG Routing
 

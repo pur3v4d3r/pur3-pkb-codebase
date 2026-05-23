@@ -1,14 +1,13 @@
 ---
-title: "LLMLingua Compression"
+title: LLMLingua Compression
 aliases:
-  - "LLMLingua Compression"
-  - "LLMLingua"
-  - "prompt token compression algorithm"
-  - "selective token removal compression"
+  - LLMLingua Compression
+  - LLMLingua
+  - prompt token compression algorithm
+  - selective token removal compression
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,102 @@ subdomains:
   - information-theory
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "llmlingua-compression-synthetic-seed-2026-05-22"
+  - llmlingua-compression-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Distillation]]"
-  - "[[Token-Efficient Prompting]]"
+  - '[[Prompt Distillation]]'
+  - '[[Token-Efficient Prompting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Prompt Distillation]]"
+  - '[[Prompt Distillation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Token-Efficient Prompting]]"
+  - '[[Token-Efficient Prompting]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — LLMLingua Compression Process Flow**
+> *Follow the flow from scoring to compression.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Prompt] --> B[Auxiliary Model]
+>   B --> C[Perplexity Scoring]
+>   C --> D[Token Removal]
+>   D --> E[Compressed Prompt]
+> ```
+
+
+> [!abstract] **Diagram 2 — LLMLingua Mechanism Overview**
+> *Trace the steps from scoring to final compression.*
+>
+> ```mermaid
+> graph TD
+>   A[Score Tokens]
+>   B[Apply Threshold]
+>   C[Remove Low-Perplexity Tokens]
+>   D[Achieve Compression Ratio]
+>   A --> B
+>   B -->|Yes| C
+>   C --> D
+> ```
+
+
+> [!abstract] **Diagram 3 — LLMLingua vs Naive Truncation**
+> *Compare LLMLingua's targeted removal with naive truncation.*
+>
+> ```mermaid
+> sequenceDiagram
+>   participant User as U
+>   participant AuxiliaryModel as AM
+>   participant Prompt as P
+>   U->>P: Provide Prompt
+>   P->>AM: Score Tokens
+>   AM-->>P: Low-Perplexity Tokens Identified
+>   P->>U: Compressed Prompt
+>   alt Naive Truncation
+>     U->>P: Provide Prompt
+>     P->>U: Truncated Prompt
+>   end
+> ```
 
 # LLMLingua Compression
 

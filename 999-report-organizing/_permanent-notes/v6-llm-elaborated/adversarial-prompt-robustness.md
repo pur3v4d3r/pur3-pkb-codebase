@@ -1,14 +1,13 @@
 ---
-title: "Adversarial Prompt Robustness"
+title: Adversarial Prompt Robustness
 aliases:
-  - "Adversarial Prompt Robustness"
-  - "robustness to adversarial prompts"
-  - "adversarial prompting resilience"
-  - "jailbreak resistance"
+  - Adversarial Prompt Robustness
+  - robustness to adversarial prompts
+  - adversarial prompting resilience
+  - jailbreak resistance
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,102 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "adversarial-prompt-robustness-synthetic-seed-2026-05-22"
+  - adversarial-prompt-robustness-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Prompt Engineering"
-
+parent-concept: Prompt Engineering
 related:
-  - "[[Prompt Brittleness]]"
-  - "[[Distribution Shift in Prompting]]"
-  - "[[Prompt Injection Attacks]]"
+  - '[[Prompt Brittleness]]'
+  - '[[Distribution Shift in Prompting]]'
+  - '[[Prompt Injection Attacks]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Prompt Brittleness]]"
+  - '[[Prompt Brittleness]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Distribution Shift in Prompting]]"
+  - '[[Distribution Shift in Prompting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Prompt Injection Attacks]]"
+  - '[[Prompt Injection Attacks]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Adversarial Prompt Types Overview**
+> *Identify the different types of adversarial prompts and their impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Start]
+>   A --> B[Jailbreaks]
+>   A --> C[Prompt-Injection]
+>   A --> D[Semantic Adversaries]
+> ```
+
+
+> [!abstract] **Diagram 2 — Adversarial Prompt Robustness Strategies**
+> *Understand the strategies to enhance robustness against adversarial prompts.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Monitoring]
+>   B[Output Filtering]
+>   C[System Architecture Separation]
+>   D[Contextual Input Handling]
+>   A -->|Detects Malicious Inputs| E[Enhanced Robustness]
+>   B -->|Prevents Harmful Outputs| E
+>   C -->|Separates User and System Contexts| E
+>   D -->|Handles Different Types of Input| E
+> ```
+
+
+> [!abstract] **Diagram 3 — Adversarial Prompt Robustness vs General Model Security**
+> *Compare adversarial prompt robustness with general model security.*
+>
+> ```mermaid
+> classDiagram
+>   class AdversarialPromptRobustness{
+>     +ResilienceAgainstCraftedInputs()
+>     +ExploitsVulnerabilitiesInResponseMechanism()
+>   }
+>   class GeneralModelSecurity{
+>     +BroadRangeOfThreatsToMLSystems()
+>     -DoesNotFocusOnSpecificInputManipulation()
+>   }
+>   AdversarialPromptRobustness -->|DistinctFrom| GeneralModelSecurity
+> ```
 
 # Adversarial Prompt Robustness
 

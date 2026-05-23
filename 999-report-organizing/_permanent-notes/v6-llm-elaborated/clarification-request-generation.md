@@ -1,14 +1,13 @@
 ---
-title: "Clarification Request Generation"
+title: Clarification Request Generation
 aliases:
-  - "Clarification Request Generation"
-  - "clarification question generation"
-  - "disambiguation questions"
-  - "clarifying question prompting"
+  - Clarification Request Generation
+  - clarification question generation
+  - disambiguation questions
+  - clarifying question prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,88 @@ subdomains:
   - prompt-engineering
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "clarification-request-generation-synthetic-seed-2026-05-22"
+  - clarification-request-generation-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Dialogue Systems"
-
+parent-concept: Dialogue Systems
 related:
-  - "[[Follow-Up Question Generation]]"
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Follow-Up Question Generation]]'
+  - '[[Dialogue Grounding Prompts]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Follow-Up Question Generation]]"
+  - '[[Follow-Up Question Generation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Dialogue Grounding Prompts]]"
+  - '[[Dialogue Grounding Prompts]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Clarification Request Process Flow**
+> *Follow the sequence from user input to clarification request generation.*
+>
+> ```mermaid
+> flowchart LR
+>   A[User Input] --> B[Interpretation]
+>   B --> C[Evaluation of Ambiguity]
+>   C --> D[Generate Clarification Request]
+>   D --> E[Output]
+> ```
+
+
+> [!abstract] **Diagram 2 — Clarification Request Characteristics**
+> *Identify the key characteristics that make an effective clarification request.*
+>
+> ```mermaid
+> graph TD
+>   A[Specificity] --> B[Informativeness]
+>   C[User-Friendliness] --> D[Sequential Optimality]
+> ```
+
+
+> [!abstract] **Diagram 3 — Application Scenarios Overview**
+> *See the different application areas where clarification request generation is used.*
+>
+> ```mermaid
+> graph TD
+>   A[Instructional Design] --> B(Customer Service Chatbots)
+>   C[Healthcare Consultation] --> D(Travel Assistance Systems)
+> ```
 
 # Clarification Request Generation
 

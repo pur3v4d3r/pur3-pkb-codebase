@@ -1,14 +1,13 @@
 ---
-title: "Curriculum Learning for LLMs"
+title: Curriculum Learning for LLMs
 aliases:
-  - "Curriculum Learning for LLMs"
-  - "training curriculum for language models"
-  - "difficulty-ordered training"
-  - "competence-based training"
+  - Curriculum Learning for LLMs
+  - training curriculum for language models
+  - difficulty-ordered training
+  - competence-based training
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,89 @@ subdomains:
   - pedagogy
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "curriculum-learning-for-llms-synthetic-seed-2026-05-22"
+  - curriculum-learning-for-llms-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Training Strategies for Machine Learning Models"
-
+parent-concept: Training Strategies for Machine Learning Models
 related:
-  - "[[Curriculum Learning]]"
-  - "[[Pretraining Data Influence]]"
+  - '[[Curriculum Learning]]'
+  - '[[Pretraining Data Influence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Curriculum Learning]]"
+  - '[[Curriculum Learning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Pretraining Data Influence]]"
+  - '[[Pretraining Data Influence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Curriculum Learning Process Flow**
+> *Follow the sequence from simple to complex examples.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B[Simples]
+>   B --> C[Complexes]
+>   C --> D[End]
+> ```
+
+
+> [!abstract] **Diagram 2 — Curriculum Learning vs Anti-Curriculum**
+> *Compare the direction of difficulty progression.*
+>
+> ```mermaid
+> graph TD
+>   A[Start] --> B[C-Learn]
+>   B --> C[Complexes]
+>   A --> D[Anti-C]
+>   D --> E[Simples]
+> ```
+
+
+> [!abstract] **Diagram 3 — Curriculum Scoring Methods**
+> *Identify the different scoring methods used.*
+>
+> ```mermaid
+> graph TD
+>   A[Perplexity] --> B[Quality]
+>   C[Length] --> D[Complexity]
+> ```
 
 # Curriculum Learning for LLMs
 

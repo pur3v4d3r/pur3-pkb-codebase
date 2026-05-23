@@ -1,14 +1,13 @@
 ---
-title: "Data Mixture Effects on Capability"
+title: Data Mixture Effects on Capability
 aliases:
-  - "Data Mixture Effects on Capability"
-  - "pretraining data mixture"
-  - "training corpus composition effects"
-  - "data blending for LLMs"
+  - Data Mixture Effects on Capability
+  - pretraining data mixture
+  - training corpus composition effects
+  - data blending for LLMs
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,92 @@ subdomains:
   - data-science
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "data-mixture-effects-on-capability-synthetic-seed-2026-05-22"
+  - data-mixture-effects-on-capability-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Machine Learning"
-
+parent-concept: Machine Learning
 related:
-  - "[[Curriculum Learning for LLMs]]"
-  - "[[Domain-Adaptive Pretraining]]"
+  - '[[Curriculum Learning for LLMs]]'
+  - '[[Domain-Adaptive Pretraining]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Curriculum Learning for LLMs]]"
+  - '[[Curriculum Learning for LLMs]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Domain-Adaptive Pretraining]]"
+  - '[[Domain-Adaptive Pretraining]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Data Source Impact on Capabilities**
+> *Follow the arrows to see how different data sources affect model capabilities.*
+>
+> ```mermaid
+> graph TD
+>   A[Web Text] --> B(Coding)
+>   C[Mathematical Texts] --> D(Reasoning)
+>   E[Books] --> F(Factual Recall)
+>   G[Scientific Papers] --> H(Language Understanding)
+>   I[Code] --> J(Logical Reasoning)
+> ```
+
+
+> [!abstract] **Diagram 2 — Data Mixture Effects Process Flow**
+> *Trace the flow to understand how varying data mixtures influence model performance.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Start] --> B(Select Data Sources)
+>   B --> C(Vary Proportions)
+>   C --> D(Evaluate Performance)
+>   D --> E(Optimize Mixture)
+>   E --> F(End)
+> ```
+
+
+> [!abstract] **Diagram 3 — Direct vs Cross-Domain Capability Transfers**
+> *Compare direct-domain and cross-domain transfers to understand their distinct impacts.*
+>
+> ```mermaid
+> graph TD
+>   A[Direct Domain] --> B(Enhance Specific Skills)
+>   C(Cross Domain) --> D(Improve General Reasoning)
+> ```
 
 # Data Mixture Effects on Capability
 

@@ -1,14 +1,13 @@
 ---
-title: "Sliding Window Attention"
+title: Sliding Window Attention
 aliases:
-  - "Sliding Window Attention"
-  - "local attention"
-  - "windowed attention"
-  - "sliding window self-attention"
+  - Sliding Window Attention
+  - local attention
+  - windowed attention
+  - sliding window self-attention
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,81 @@ subdomains:
   - large-language-models
 
 created: 2026-05-22
-updated: 2026-05-22
-
+updated: '2026-05-23'
 source-type: report-extraction
 source-reports:
-  - "sliding-window-attention-synthetic-seed-2026-05-22"
+  - sliding-window-attention-synthetic-seed-2026-05-22
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
 depth-level: elaborated
-
-parent-concept: "Attention Mechanisms"
-
+parent-concept: Attention Mechanisms
 related:
-  - "[[Attention Mechanisms]]"
-  - "[[Sparse Attention Patterns]]"
+  - '[[Attention Mechanisms]]'
+  - '[[Sparse Attention Patterns]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Attention Mechanisms]]"
+  - '[[Attention Mechanisms]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Sparse Attention Patterns]]"
+  - '[[Sparse Attention Patterns]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  diagram-passes: 1
+  diagram-model: qwen2.5:14b-instruct-q5_K_M
+  last-diagrammed: '2026-05-23'
 ---
+
+## 📊 Visual Overview
+
+<!-- diagram-pass:1 (2026-05-23) -->
+
+> [!abstract] **Diagram 1 — Sliding Window Attention Flowchart**
+> *Follow the flow from input to output, noting the window size and buffer.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Input Sequence] --> B[Window Slice]
+>   B --> C[Attention Weights]
+>   C --> D[Cached KV Buffer]
+>   D --> E[Output Token]
+> ```
+
+
+> [!abstract] **Diagram 2 — Sliding Window Mechanism Overview**
+> *Observe how the window slides over tokens and updates attention weights.*
+>
+> ```mermaid
+> flowchart LR
+>   A[Token1] --> B[Window]
+>   B --> C[Attention Weights]
+>   C --> D[Token2]
+>   D --> E[New Window]
+>   E --> F[Updated Attention]
+> ```
 
 # Sliding Window Attention
 
