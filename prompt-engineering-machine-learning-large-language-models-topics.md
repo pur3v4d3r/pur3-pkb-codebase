@@ -1,6 +1,6 @@
 # Prompt-Engineering/Macine Learning/Large Language Models - Topics
 
-Generate a report on: [Transformer Attention Mechanism]
+Generate a report on: [Data Curation and Synthetic Data Generation for Fine-Tuning Large Language Models]
 Keep in mind I have no background in mathmatics, this is meant to be a high-level overview of the topic, focusing on intuition and practical applications rather than mathematical details.
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\_machine-learning]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links_prompt-engineering-ml-llm]
@@ -349,6 +349,23 @@ MLOps and AI Engineering
 
 
 
+
+
+
+
+
+
+
+
+I have a RTX 4090 GPU, and am interested in learning about fine tuning LLMs using parameter-efficient fine-tuning (PEFT) methods like LoRA and QLoRA.
+The goal being to produce a custom LLM that can be run locally on my hardware, and is optimized for specific tasks or domains I'm interested in such as Machine Learning LLMs, Psychology and Cognitive science amopng other in the same line of topics.
+Given the hardware constraints and the desire to fine-tune on specific domains, PEFT methods like LoRA (Low-Rank Adaptation) and QLoRA (Quantized LoRA) are excellent choices for your goals. These methods allow you to fine-tune large language models without needing to update all the parameters, which significantly reduces the computational resources required.
+Here's a high-level overview of how you can approach this:
+1. **Choose a Base Model**: Start with a pre-trained LLM that is suitable for your domain. For example, you might choose a model like GPT-3, BERT, or a smaller open-source model like LLaMA or Mistral, depending on your specific needs and the size of the model you can run on your RTX 4090.
+2. **Select a PEFT Method**: Decide whether you want to use LoRA or QLoRA. LoRA is a popular method that adds low-rank matrices to the existing weights of the model, allowing for efficient fine-tuning. QLoRA takes this a step further by quantizing the model weights, which can further reduce memory usage and speed up inference.
+3. **Prepare Your Dataset**: Gather and preprocess a dataset that is relevant to the tasks or domains you want to optimize for. This could include text from research papers, articles, or any other relevant sources in machine learning, psychology, and cognitive science.
+4. **Fine-Tuning Process**: Use a framework like Hugging Face Transformers, which supports both LoRA and QLoRA, to fine-tune your chosen model on your dataset. This typically involves setting up a training loop where you update only the parameters introduced by the PEFT method while keeping the original model weights frozen.
+5. **Evaluation and Iteration**: After fine-tuning, evaluate the performance of your custom LLM on relevant benchmarks or tasks to ensure it has improved in the areas you targeted. You may need to iterate on the fine-tuning process, adjusting hyperparameters or using different subsets of your dataset to achieve the best results.
 
 
 
