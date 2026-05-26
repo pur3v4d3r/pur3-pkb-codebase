@@ -1,6 +1,6 @@
 # Prompt-Engineering/Macine Learning/Large Language Models - Topics
 
-Generate a report on: [Data Curation and Synthetic Data Generation for Fine-Tuning Large Language Models]
+Generate a report on: [RAG Architecture — Indexing, Retrieval, Generation]
 Keep in mind I have no background in mathmatics, this is meant to be a high-level overview of the topic, focusing on intuition and practical applications rather than mathematical details.
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\_machine-learning]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links_prompt-engineering-ml-llm]
