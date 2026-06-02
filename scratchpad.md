@@ -777,19 +777,19 @@ Does consciousness play a necessary role in learning, or do we learn most of wha
 
 
 
-Generate a report on: [Meaningful Learning Theory]
+Generate a report on: [Nelson Narens Metacognition Model]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-Generate a report on: [Feedback in Learning (Hattie & Timperley Model)]
+Generate a report on: [Schema Theory]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
 
-Generate a report on: [Metacognitive Monitoring]
+Generate a report on: [Cognitive Load Theory]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
