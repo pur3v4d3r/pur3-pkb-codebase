@@ -1110,20 +1110,14 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-s
 ---
 
 
-Generate a report on: [How is the universe structured and what are its main components?]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
-
-
-Generate a report on: [Supernovas]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
 
 
 
-Generate a report on: [How are galaxies formed and evolved over time?]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\universe]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\v6-pipeline-seeding-permanent-notes-the-universe.md]
+
+
+
+
+
 
 
 Generate a report on: [Neutron Stars]
