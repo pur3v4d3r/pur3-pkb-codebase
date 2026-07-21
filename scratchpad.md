@@ -876,17 +876,17 @@ Foundational✅
 Analytical Deep Dive✅
 Deep-Dive
 
-Generate a report on: [Designing Self-Directed Critical Thinking Curriculum]
+Generate a report on: [Carl Jung's Intuitive Introvert]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-Generate a report on: [Critical Thinking, as a Self-Directed Learning Goal]
+Generate a report on: [Understanding Carl Jung's Intuitive Introvert]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-Generate a report on: [Self-Directed Critical Thinking Design]
+Generate a report on: [Intuitive Introvert]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
