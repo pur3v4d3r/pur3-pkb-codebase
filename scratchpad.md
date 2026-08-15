@@ -876,19 +876,46 @@ Foundational✅
 Analytical Deep Dive✅
 Deep-Dive
 
-Generate a report on: [Carl Jung's Intuitive Introvert]
+Generate a report on: [Carl Jung's Introvert Thinking]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-Generate a report on: [Understanding Carl Jung's Intuitive Introvert]
+Generate a report on: [Understanding Carl Jung's Introvert Thinking]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-Generate a report on: [Intuitive Introvert]
+Generate a report on: [Introvert Thinking]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
+Generate a report on: [Carl Jung's Extrovert Intuitive]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
+Generate a report on: [Carl Jung's Extrovert Intuitive]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+Generate a report on: [Carl Jung's Extrovert Intuitive]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
 
 
 ---
