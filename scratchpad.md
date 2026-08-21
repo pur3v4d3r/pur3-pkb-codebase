@@ -837,7 +837,6 @@ Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
-
 Generate a report on: [Designing PKB Metacognitive Scaffolds for Self-Regulated Learning]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
@@ -894,7 +893,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
-Generate a report on: [Carl Jung's Extrovert Intuitive]
+Generate a report on: [Understanding of psychological Big Five Personality Traits]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
@@ -902,7 +901,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
-Generate a report on: [Carl Jung's Extrovert Intuitive]
+Generate a report on: [The Big Five Personality Traits]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
