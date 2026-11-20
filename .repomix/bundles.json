@@ -1,34 +1,56 @@
 {
   "bundles": {
-    "coding-partner-bundle-exemplar-121": {
-      "name": "claude-app-builder-exemplar-002",
-      "created": "2025-12-31T10:54:43.916Z",
-      "lastUsed": "2025-12-31T10:57:25.367Z",
+    "claude-reasoning-422": {
+      "name": "claude-reasoning",
+      "created": "2026-11-05T12:16:43.930Z",
+      "lastUsed": "2026-11-05T12:16:43.930Z",
       "tags": [],
       "files": [
-        "__LOCAL-REPO/__agents/agile-sprint-planner.md",
-        "__LOCAL-REPO/__agents/angular-expert.md",
-        "__LOCAL-REPO/__agents/clean-architecture-expert.md",
-        "__LOCAL-REPO/__agents/cli-ui-designer.md",
-        "__LOCAL-REPO/__agents/clojure-expert.md",
-        "__LOCAL-REPO/__agents/code-pairing-assistant.md",
-        "__LOCAL-REPO/__agents/code-quality-guardian.md",
-        "__LOCAL-REPO/__agents/code-review-master.md",
-        "__LOCAL-REPO/__agents/csharp-expert.md",
-        "__LOCAL-REPO/__agents/dart-flutter-expert.md",
-        "__LOCAL-REPO/__agents/database-architect.md",
-        "__LOCAL-REPO/__agents/dependency-manager.md"
+        "999-v4d3r/__exemplar/claude-reasoning-documentation-series"
       ]
     },
-    "permanent-note-system-405": {
-      "name": "permanent-note-system",
-      "created": "2025-12-31T14:29:19.755Z",
-      "lastUsed": "2025-12-31T14:41:23.381Z",
+    "prompt-engineering-advanced-techniques-01-245": {
+      "name": "prompt-engineering-advanced-techniques-01",
+      "created": "2026-11-05T12:20:41.153Z",
+      "lastUsed": "2026-11-05T12:23:26.487Z",
       "tags": [],
       "files": [
-        "02-projects/-ongoing-project-pur3v4d3r/01-pkb-plans/_permanent-notes-system"
-      ],
-      "configPath": ".repomix/config/permanent-note-system-repomix.config.json"
+        "999-v4d3r/__exemplar/advanced-prompt-engineering",
+        "999-v4d3r/__exemplar/meta-in-context-learning-exemplar/meta-in-context-learning-exemplar.md",
+        "999-v4d3r/__exemplar/graph-of-thoughts-exemplar.md"
+      ]
+    },
+    "prompt-engineering-advanced-techniques-02-988": {
+      "name": "prompt-engineering-advanced-techniques-02",
+      "created": "2026-11-05T12:21:19.485Z",
+      "lastUsed": "2026-11-05T12:24:28.853Z",
+      "tags": [],
+      "files": [
+        "999-v4d3r/__exemplar/advanced-prompt-engineering",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Chain_of_Draft_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Chain_of_Symbol_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Chain_of_Translation_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Chain_of_Verification_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Contrastive_CoT_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Cross_Lingual_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Faithful_Chain_of_Thought_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Few_Shot_Chain-of_Thought_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Least_to_Most_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Meta_Cognitive_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Meta_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Multi_Chain_Reasoning_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Plan_and_Solve_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Program_of_Thoughts_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Rephrase_and_Respond_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Self_Ask_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Self_Consistency_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Self_Refine_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Step_Back_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Tabular_Chain_of_Thought_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Thread_of_Thoughts_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Universal_Self_Consistency_Prompting.md",
+        "999-v4d3r/__exemplar/advanced-prompt-engineering-techniques/Zero_Shot_CoT_Prompting.md"
+      ]
     }
   }
 }
